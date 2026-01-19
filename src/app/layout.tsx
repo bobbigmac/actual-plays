@@ -1,19 +1,16 @@
 import "./globals.css";
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { auth } from "~auth";
+import { ClerkProvider } from "@clerk/nextjs";
 import AuthButtons from "~/components/AuthButtons";
-import Providers from "~/components/Providers";
 
 export const dynamic = "force-dynamic";
 
 export default async function RootLayout({ children }: { children: ReactNode }) {
-  const session = await auth();
-
   return (
     <html lang="en">
       <body>
-        <Providers session={session}>
+        <ClerkProvider>
           <header>
             <nav>
               <Link href="/shows">
@@ -24,7 +21,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
             <AuthButtons />
           </header>
           <main>{children}</main>
-        </Providers>
+        </ClerkProvider>
       </body>
     </html>
   );

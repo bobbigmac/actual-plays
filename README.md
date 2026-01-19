@@ -1,4 +1,4 @@
-# actualplay-hub (Next.js + Prisma + Auth.js + RSS + per-episode comments)
+# actualplay-hub (Next.js + Prisma + Clerk + RSS + per-episode comments)
 
 ## Run locally
 
@@ -6,6 +6,7 @@
 cp .env.example .env
 npm install
 npm run db:migrate
+npm run db:seed
 npm run dev
 ```
 
@@ -13,7 +14,7 @@ npm run dev
 
 - Use this repo as the source (Dockerfile deploy).
 - Add a Postgres app, set `DATABASE_URL`.
-- Set `NEXTAUTH_URL`, `NEXTAUTH_SECRET`, and OAuth creds if you want them.
+- Set Clerk env vars (`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`).
 - Optional: set `CRON_SECRET` to protect RSS sync endpoint.
 
 ## RSS sync
@@ -37,4 +38,3 @@ curl -X POST "https://yourdomain/api/shows/<showId>/sync?limit=200" \
 ```
 
 Requires your email in `ADMIN_EMAILS` and being signed in.
-

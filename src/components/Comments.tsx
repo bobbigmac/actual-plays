@@ -1,11 +1,17 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { useSession } from "next-auth/react";
+import { SignInButton, useUser } from "@clerk/nextjs";
 
 type Comment = {
   id: string;
-  user: { id: string; name: string | null; email: string | null; handle: string | null };
+  user: {
+    id: string;
+    clerkUserId: string;
+    name: string | null;
+    email: string | null;
+    handle: string | null;
+  };
   parentId: string | null;
   body: string;
   createdAt: string;
@@ -31,7 +37,7 @@ function fmtUser(u: Comment["user"]) {
 }
 
 export default function Comments({ episodeId }: { episodeId: string }) {
-  const { data } = useSession();
+  const { user, isLoaded, isSignedIn } = useUser();
   const [items, setItems] = useState<Comment[]>([]);
   const [loading, setLoading] = useState(true);
   const [err, setErr] = useState<string | null>(null);
@@ -109,7 +115,7 @@ export default function Comments({ episodeId }: { episodeId: string }) {
   }
 
   function Node({ c, depth }: { c: any; depth: number }) {
-    const mine = data?.user && (data.user as any).id === c.user.id;
+    const mine = !!user && user.id === c.user.clerkUserId;
     const canEdit = mine && !c.deletedAt;
 
     return (
@@ -176,9 +182,21 @@ export default function Comments({ episodeId }: { episodeId: string }) {
               "New comment"
             )}
           </small>
-          <small>{data?.user ? "Signed in" : "Not signed in"}</small>
+          <small>
+            {!isLoaded ? "…" : isSignedIn ? "Signed in" : "Not signed in"}
+          </small>
         </div>
         <div style={{ marginTop: 10 }}>
+          {!isSignedIn ? (
+            <div className="card" style={{ marginBottom: 10 }}>
+              <div className="row">
+                <small>Sign in to post</small>
+                <SignInButton mode="modal">
+                  <button>Sign in</button>
+                </SignInButton>
+              </div>
+            </div>
+          ) : null}
           <textarea
             rows={4}
             value={body}
@@ -186,7 +204,7 @@ export default function Comments({ episodeId }: { episodeId: string }) {
             placeholder="Say something useful…"
           />
           <div style={{ marginTop: 10, display: "flex", gap: 10 }}>
-            <button disabled={!body.trim()} onClick={() => void submit()}>
+            <button disabled={!isSignedIn || !body.trim()} onClick={() => void submit()}>
               Post
             </button>
             <button onClick={() => void load()}>Refresh</button>
@@ -208,4 +226,3 @@ export default function Comments({ episodeId }: { episodeId: string }) {
     </section>
   );
 }
-

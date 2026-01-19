@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { auth } from "~auth";
+import { auth, currentUser } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
 
 const CreateShow = z.object({
@@ -35,8 +35,10 @@ export async function GET() {
 }
 
 export async function POST(req: Request) {
-  const session = await auth();
-  const email = session?.user?.email ?? null;
+  const { userId } = auth();
+  if (!userId) return Response.json({ error: "Unauthorized" }, { status: 401 });
+  const user = await currentUser();
+  const email = user?.primaryEmailAddress?.emailAddress ?? null;
   if (!isAdmin(email)) return Response.json({ error: "Forbidden" }, { status: 403 });
 
   const json = await req.json().catch(() => null);
@@ -55,4 +57,3 @@ export async function POST(req: Request) {
     return Response.json({ error: e?.message ?? "Create failed" }, { status: 500 });
   }
 }
-

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { auth } from "~auth";
+import { auth } from "@clerk/nextjs/server";
 import Comments from "~/components/Comments";
 import prisma from "~/lib/prisma";
 
@@ -22,7 +22,7 @@ export default async function EpisodePage({ params }: { params: { id: string } }
 
   if (!episode) return <div className="card">Episode not found.</div>;
 
-  const session = await auth();
+  const { userId } = auth();
 
   return (
     <div style={{ display: "grid", gap: 14 }}>
@@ -38,7 +38,7 @@ export default async function EpisodePage({ params }: { params: { id: string } }
             {episode.pubDate ? new Date(episode.pubDate).toLocaleString() : ""}
             {episode.durationSeconds ? ` · ${fmtTime(episode.durationSeconds)}` : ""}
           </small>
-          <small>{session?.user ? "Signed in" : "Not signed in"}</small>
+          <small>{userId ? "Signed in" : "Not signed in"}</small>
         </div>
 
         {episode.enclosureUrl ? (
@@ -66,4 +66,3 @@ export default async function EpisodePage({ params }: { params: { id: string } }
     </div>
   );
 }
-

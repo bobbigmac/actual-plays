@@ -1,4 +1,4 @@
-import { auth } from "~auth";
+import { auth, currentUser } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
 import { syncShowFromRss } from "~/lib/rss";
 
@@ -18,8 +18,10 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
   if (secret) {
     const got = req.headers.get("x-cron-secret")?.trim();
     if (got !== secret) {
-      const session = await auth();
-      const email = session?.user?.email ?? null;
+      const { userId } = auth();
+      if (!userId) return Response.json({ error: "Forbidden" }, { status: 403 });
+      const user = await currentUser();
+      const email = user?.primaryEmailAddress?.emailAddress ?? null;
       if (!isAdmin(email)) return Response.json({ error: "Forbidden" }, { status: 403 });
     }
   }
@@ -38,4 +40,3 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
     return Response.json({ error: e?.message ?? "Sync failed" }, { status: 500 });
   }
 }
-

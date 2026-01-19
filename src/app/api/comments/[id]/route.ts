@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { auth } from "~auth";
+import { auth, currentUser } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
 
 const EditComment = z.object({
@@ -7,10 +7,22 @@ const EditComment = z.object({
 });
 
 export async function PATCH(req: Request, ctx: { params: { id: string } }) {
-  const session = await auth();
-  if (!session?.user) return Response.json({ error: "Unauthorized" }, { status: 401 });
-  // @ts-expect-error augmented in src/types/next-auth.d.ts
-  const userId = session.user.id as string;
+  const { userId: clerkUserId } = auth();
+  if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
+
+  const clerkUser = await currentUser();
+  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
+  const name =
+    clerkUser?.fullName ??
+    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
+    null;
+  const image = clerkUser?.imageUrl ?? null;
+
+  const localUser = await prisma.user.upsert({
+    where: { clerkUserId },
+    create: { clerkUserId, email, name, image },
+    update: { email, name, image }
+  });
 
   const { id } = ctx.params;
   const json = await req.json().catch(() => null);
@@ -19,7 +31,7 @@ export async function PATCH(req: Request, ctx: { params: { id: string } }) {
 
   const c = await prisma.comment.findUnique({ where: { id } });
   if (!c) return Response.json({ error: "Not found" }, { status: 404 });
-  if (c.userId !== userId) return Response.json({ error: "Forbidden" }, { status: 403 });
+  if (c.userId !== localUser.id) return Response.json({ error: "Forbidden" }, { status: 403 });
   if (c.deletedAt) return Response.json({ error: "Deleted" }, { status: 410 });
 
   await prisma.comment.update({
@@ -31,16 +43,28 @@ export async function PATCH(req: Request, ctx: { params: { id: string } }) {
 }
 
 export async function DELETE(_req: Request, ctx: { params: { id: string } }) {
-  const session = await auth();
-  if (!session?.user) return Response.json({ error: "Unauthorized" }, { status: 401 });
-  // @ts-expect-error augmented in src/types/next-auth.d.ts
-  const userId = session.user.id as string;
+  const { userId: clerkUserId } = auth();
+  if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
+
+  const clerkUser = await currentUser();
+  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
+  const name =
+    clerkUser?.fullName ??
+    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
+    null;
+  const image = clerkUser?.imageUrl ?? null;
+
+  const localUser = await prisma.user.upsert({
+    where: { clerkUserId },
+    create: { clerkUserId, email, name, image },
+    update: { email, name, image }
+  });
 
   const { id } = ctx.params;
 
   const c = await prisma.comment.findUnique({ where: { id } });
   if (!c) return Response.json({ error: "Not found" }, { status: 404 });
-  if (c.userId !== userId) return Response.json({ error: "Forbidden" }, { status: 403 });
+  if (c.userId !== localUser.id) return Response.json({ error: "Forbidden" }, { status: 403 });
 
   await prisma.comment.update({
     where: { id },
@@ -49,4 +73,3 @@ export async function DELETE(_req: Request, ctx: { params: { id: string } }) {
 
   return Response.json({ ok: true });
 }
-

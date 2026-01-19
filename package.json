@@ -21,10 +21,9 @@
     "seed": "node prisma/seed.js"
   },
   "dependencies": {
-    "@auth/prisma-adapter": "^2.10.0",
     "@prisma/client": "^7.0.0",
+    "@clerk/nextjs": "^6.32.0",
     "next": "^16.1.0",
-    "next-auth": "beta",
     "prisma": "^7.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

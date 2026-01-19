@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { auth } from "~auth";
+import { auth, currentUser } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
 
 const CreateComment = z.object({
@@ -13,7 +13,7 @@ export async function GET(_req: Request, ctx: { params: { id: string } }) {
   const comments = await prisma.comment.findMany({
     where: { episodeId },
     orderBy: { createdAt: "asc" },
-    include: { user: { select: { id: true, name: true, email: true, handle: true } } }
+    include: { user: { select: { id: true, clerkUserId: true, name: true, email: true, handle: true } } }
   });
 
   return Response.json({
@@ -30,8 +30,8 @@ export async function GET(_req: Request, ctx: { params: { id: string } }) {
 }
 
 export async function POST(req: Request, ctx: { params: { id: string } }) {
-  const session = await auth();
-  if (!session?.user) return Response.json({ error: "Unauthorized" }, { status: 401 });
+  const { userId: clerkUserId } = auth();
+  if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
   const { id: episodeId } = ctx.params;
 
@@ -42,8 +42,19 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
   const episode = await prisma.episode.findUnique({ where: { id: episodeId } });
   if (!episode) return Response.json({ error: "Episode not found" }, { status: 404 });
 
-  // @ts-expect-error augmented in src/types/next-auth.d.ts
-  const userId = session.user.id as string;
+  const clerkUser = await currentUser();
+  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
+  const name =
+    clerkUser?.fullName ??
+    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
+    null;
+  const image = clerkUser?.imageUrl ?? null;
+
+  const localUser = await prisma.user.upsert({
+    where: { clerkUserId },
+    create: { clerkUserId, email, name, image },
+    update: { email, name, image }
+  });
 
   if (parsed.data.parentId) {
     const parent = await prisma.comment.findUnique({ where: { id: parsed.data.parentId } });
@@ -55,7 +66,7 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
   const comment = await prisma.comment.create({
     data: {
       episodeId,
-      userId,
+      userId: localUser.id,
       parentId: parsed.data.parentId ?? null,
       body: parsed.data.body
     }
@@ -63,4 +74,3 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
 
   return Response.json({ commentId: comment.id }, { status: 201 });
 }
-

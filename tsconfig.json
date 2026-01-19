@@ -14,13 +14,10 @@
     "incremental": true,
     "baseUrl": ".",
     "paths": {
-      "~/*": ["src/*"],
-      "~auth": ["auth.ts"],
-      "~auth-config": ["auth.config.ts"]
+      "~/*": ["src/*"]
     },
     "types": ["node"]
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
-
