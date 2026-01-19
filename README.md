@@ -5,6 +5,15 @@
 ```bash
 cp .env.example .env
 npm install
+npx prisma generate
+
+# Project-local Postgres (requires Docker)
+npm run db:up
+npm run db:wait
+
+# Ensure `.env` contains:
+# DATABASE_URL=postgresql://postgres:postgres@127.0.0.1:5432/actualplay?schema=public
+
 npm run db:migrate
 npm run db:seed
 npm run dev

@@ -6,4 +6,4 @@ dist
 .env.*
 !.env.example
 prisma/dev.db
-
+_data/
