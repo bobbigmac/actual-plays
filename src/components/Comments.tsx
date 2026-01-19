@@ -37,6 +37,100 @@ function fmtUser(u: Comment["user"]) {
 }
 
 export default function Comments({ episodeId }: { episodeId: string }) {
+  const clerkConfigured = !!process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY;
+  if (!clerkConfigured) return <CommentsNoAuth episodeId={episodeId} />;
+  return <CommentsClerk episodeId={episodeId} />;
+}
+
+function CommentsNoAuth({ episodeId }: { episodeId: string }) {
+  const [items, setItems] = useState<Comment[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [err, setErr] = useState<string | null>(null);
+
+  const tree = useMemo(() => buildTree(items), [items]);
+
+  async function load() {
+    setLoading(true);
+    setErr(null);
+    try {
+      const res = await fetch(`/api/episodes/${episodeId}/comments`, { cache: "no-store" });
+      const json = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(json?.error ?? "Failed to load comments");
+      setItems(json.comments);
+    } catch (e: any) {
+      setErr(e?.message ?? "Error");
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => {
+    void load();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [episodeId]);
+
+  function Node({ c, depth }: { c: any; depth: number }) {
+    return (
+      <div style={{ marginLeft: depth * 14, marginTop: 10 }}>
+        <div className="card">
+          <div className="row">
+            <small>
+              <b>{fmtUser(c.user)}</b> · {new Date(c.createdAt).toLocaleString()}
+              {c.editedAt ? " · edited" : ""}
+            </small>
+          </div>
+          <div style={{ marginTop: 8, whiteSpace: "pre-wrap", opacity: c.deletedAt ? 0.6 : 1 }}>
+            {c.deletedAt ? "[deleted]" : c.body}
+          </div>
+        </div>
+
+        {c.replies?.length ? (
+          <div style={{ marginTop: 8 }}>
+            {c.replies.map((r: any) => (
+              <Node key={r.id} c={r} depth={depth + 1} />
+            ))}
+          </div>
+        ) : null}
+      </div>
+    );
+  }
+
+  return (
+    <section style={{ marginTop: 22 }}>
+      <div className="row">
+        <h3 style={{ margin: 0 }}>Comments</h3>
+        <small>{items.length} total</small>
+      </div>
+
+      <div className="card" style={{ marginTop: 12 }}>
+        <div className="row">
+          <small>Auth not configured; comments are read-only.</small>
+          <button onClick={() => void load()}>Refresh</button>
+        </div>
+      </div>
+
+      {err ? (
+        <div className="card" style={{ marginTop: 12 }}>
+          <b>Error:</b> {err}
+        </div>
+      ) : null}
+
+      <div style={{ marginTop: 14 }}>
+        {loading ? <small>Loading…</small> : null}
+        {!loading && tree.length === 0 ? <small>No comments yet.</small> : null}
+        {!loading && tree.length ? (
+          <div style={{ marginTop: 8 }}>
+            {tree.map((c: any) => (
+              <Node key={c.id} c={c} depth={0} />
+            ))}
+          </div>
+        ) : null}
+      </div>
+    </section>
+  );
+}
+
+function CommentsClerk({ episodeId }: { episodeId: string }) {
   const { user, isLoaded, isSignedIn } = useUser();
   const [items, setItems] = useState<Comment[]>([]);
   const [loading, setLoading] = useState(true);

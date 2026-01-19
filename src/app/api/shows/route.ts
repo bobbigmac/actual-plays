@@ -26,15 +26,21 @@ function isAdmin(email: string | null | undefined) {
 }
 
 export async function GET() {
-  const shows = await prisma.show.findMany({
-    where: { status: "ACTIVE" },
-    orderBy: { updatedAt: "desc" },
-    take: 500
-  });
-  return Response.json({ shows });
+  try {
+    if (!process.env.DATABASE_URL) throw new Error("Database not configured");
+    const shows = await prisma.show.findMany({
+      where: { status: "ACTIVE" },
+      orderBy: { updatedAt: "desc" },
+      take: 500
+    });
+    return Response.json({ shows });
+  } catch {
+    return Response.json({ shows: [] });
+  }
 }
 
 export async function POST(req: Request) {
+  if (!process.env.DATABASE_URL) return Response.json({ error: "Database not configured" }, { status: 503 });
   const { userId } = auth();
   if (!userId) return Response.json({ error: "Unauthorized" }, { status: 401 });
   const user = await currentUser();

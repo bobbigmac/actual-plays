@@ -4,15 +4,21 @@ import prisma from "~/lib/prisma";
 export default async function ShowPage({ params }: { params: { id: string } }) {
   const { id } = params;
 
-  const show = await prisma.show.findUnique({
-    where: { id },
-    include: {
-      episodes: {
-        orderBy: [{ pubDate: "desc" }, { createdAt: "desc" }],
-        take: 200
+  let show: Awaited<ReturnType<typeof prisma.show.findUnique>>;
+  try {
+    if (!process.env.DATABASE_URL) throw new Error("DATABASE_URL not set");
+    show = await prisma.show.findUnique({
+      where: { id },
+      include: {
+        episodes: {
+          orderBy: [{ pubDate: "desc" }, { createdAt: "desc" }],
+          take: 200
+        }
       }
-    }
-  });
+    });
+  } catch {
+    return <div className="card">Database not configured/reachable.</div>;
+  }
 
   if (!show) return <div className="card">Show not found.</div>;
 
@@ -91,4 +97,3 @@ export default async function ShowPage({ params }: { params: { id: string } }) {
     </div>
   );
 }
-

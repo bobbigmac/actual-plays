@@ -15,10 +15,16 @@ function fmtTime(seconds: number | null) {
 export default async function EpisodePage({ params }: { params: { id: string } }) {
   const { id } = params;
 
-  const episode = await prisma.episode.findUnique({
-    where: { id },
-    include: { show: true }
-  });
+  let episode: Awaited<ReturnType<typeof prisma.episode.findUnique>>;
+  try {
+    if (!process.env.DATABASE_URL) throw new Error("DATABASE_URL not set");
+    episode = await prisma.episode.findUnique({
+      where: { id },
+      include: { show: true }
+    });
+  } catch {
+    return <div className="card">Database not configured/reachable.</div>;
+  }
 
   if (!episode) return <div className="card">Episode not found.</div>;
 

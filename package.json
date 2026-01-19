@@ -2,7 +2,6 @@
   "name": "actualplay-hub",
   "private": true,
   "version": "0.1.0",
-  "type": "commonjs",
   "engines": {
     "node": ">=20"
   },
@@ -21,10 +20,10 @@
     "seed": "node prisma/seed.js"
   },
   "dependencies": {
-    "@prisma/client": "^7.0.0",
+    "@prisma/client": "^5.22.0",
     "@clerk/nextjs": "^6.32.0",
     "next": "^16.1.0",
-    "prisma": "^7.0.0",
+    "prisma": "^5.22.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "rss-parser": "^3.13.0",

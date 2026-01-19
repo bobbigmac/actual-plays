@@ -8,28 +8,34 @@ const CreateComment = z.object({
 });
 
 export async function GET(_req: Request, ctx: { params: { id: string } }) {
+  if (!process.env.DATABASE_URL) return Response.json({ comments: [] });
   const { id: episodeId } = ctx.params;
 
-  const comments = await prisma.comment.findMany({
-    where: { episodeId },
-    orderBy: { createdAt: "asc" },
-    include: { user: { select: { id: true, clerkUserId: true, name: true, email: true, handle: true } } }
-  });
+  try {
+    const comments = await prisma.comment.findMany({
+      where: { episodeId },
+      orderBy: { createdAt: "asc" },
+      include: { user: { select: { id: true, clerkUserId: true, name: true, email: true, handle: true } } }
+    });
 
-  return Response.json({
-    comments: comments.map((c) => ({
-      id: c.id,
-      parentId: c.parentId,
-      body: c.body,
-      createdAt: c.createdAt.toISOString(),
-      editedAt: c.editedAt ? c.editedAt.toISOString() : null,
-      deletedAt: c.deletedAt ? c.deletedAt.toISOString() : null,
-      user: c.user
-    }))
-  });
+    return Response.json({
+      comments: comments.map((c) => ({
+        id: c.id,
+        parentId: c.parentId,
+        body: c.body,
+        createdAt: c.createdAt.toISOString(),
+        editedAt: c.editedAt ? c.editedAt.toISOString() : null,
+        deletedAt: c.deletedAt ? c.deletedAt.toISOString() : null,
+        user: c.user
+      }))
+    });
+  } catch {
+    return Response.json({ comments: [] });
+  }
 }
 
 export async function POST(req: Request, ctx: { params: { id: string } }) {
+  if (!process.env.DATABASE_URL) return Response.json({ error: "Database not configured" }, { status: 503 });
   const { userId: clerkUserId } = auth();
   if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
@@ -39,7 +45,12 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
   const parsed = CreateComment.safeParse(json);
   if (!parsed.success) return Response.json({ error: parsed.error.flatten() }, { status: 400 });
 
-  const episode = await prisma.episode.findUnique({ where: { id: episodeId } });
+  let episode: { id: string } | null = null;
+  try {
+    episode = await prisma.episode.findUnique({ where: { id: episodeId }, select: { id: true } });
+  } catch {
+    return Response.json({ error: "Database not reachable" }, { status: 503 });
+  }
   if (!episode) return Response.json({ error: "Episode not found" }, { status: 404 });
 
   const clerkUser = await currentUser();
@@ -50,16 +61,26 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
     null;
   const image = clerkUser?.imageUrl ?? null;
 
-  const localUser = await prisma.user.upsert({
-    where: { clerkUserId },
-    create: { clerkUserId, email, name, image },
-    update: { email, name, image }
-  });
+  let localUser: { id: string } | null = null;
+  try {
+    localUser = await prisma.user.upsert({
+      where: { clerkUserId },
+      create: { clerkUserId, email, name, image },
+      update: { email, name, image },
+      select: { id: true }
+    });
+  } catch {
+    return Response.json({ error: "Database not reachable" }, { status: 503 });
+  }
 
   if (parsed.data.parentId) {
-    const parent = await prisma.comment.findUnique({ where: { id: parsed.data.parentId } });
-    if (!parent || parent.episodeId !== episodeId) {
-      return Response.json({ error: "Invalid parentId" }, { status: 400 });
+    try {
+      const parent = await prisma.comment.findUnique({ where: { id: parsed.data.parentId } });
+      if (!parent || parent.episodeId !== episodeId) {
+        return Response.json({ error: "Invalid parentId" }, { status: 400 });
+      }
+    } catch {
+      return Response.json({ error: "Database not reachable" }, { status: 503 });
     }
   }
 

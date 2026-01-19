@@ -4,10 +4,9 @@ import prisma from "~/lib/prisma";
 export default async function ShowsPage({
   searchParams
 }: {
-  searchParams?: { q?: string; tag?: string };
+  searchParams: Promise<{ q?: string; tag?: string }>;
 }) {
-  const q = searchParams?.q;
-  const tag = searchParams?.tag;
+  const { q, tag } = await searchParams;
 
   const where = {
     status: "ACTIVE" as const,
@@ -23,11 +22,24 @@ export default async function ShowsPage({
       : {})
   };
 
-  const shows = await prisma.show.findMany({
-    where,
-    orderBy: { updatedAt: "desc" },
-    take: 200
-  });
+  let shows: Awaited<ReturnType<typeof prisma.show.findMany>>;
+  try {
+    if (!process.env.DATABASE_URL) throw new Error("DATABASE_URL not set");
+    shows = await prisma.show.findMany({
+      where,
+      orderBy: { updatedAt: "desc" },
+      take: 200
+    });
+  } catch {
+    return (
+      <div className="card">
+        <h2 style={{ marginTop: 0 }}>Shows</h2>
+        <p style={{ opacity: 0.85, marginBottom: 0 }}>
+          No database configured/reachable yet. Set <code>DATABASE_URL</code> to enable show listings and comments.
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div style={{ display: "grid", gap: 14 }}>
@@ -85,4 +97,3 @@ export default async function ShowsPage({
     </div>
   );
 }
-
