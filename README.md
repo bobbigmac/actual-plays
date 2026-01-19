@@ -88,6 +88,19 @@ New shows are created with `unapproved=true` until an admin approves them.
 - Observability: request logging + error reporting (Sentry or similar) and a simple uptime check route
 - Safety: input sanitization policy for comments + profanity/spam mitigation plan
 
+### UX 
+
+- landing page that explains “what this is” + primary CTA (Browse shows / Submit a show)
+- show cards with consistent metadata (tags, media type, “new/updated”, approval state hidden for non-admin)
+- show page improvements (episode list pagination, “sync status” for admins, clear “approved/pending” badge for admins)
+- episode page improvements (sticky audio player, click-to-copy timestamp, render timestamp links in comments)
+- comments thread polish (reply affordances, collapse threads, optimistic posting, “edited” indicator, delete confirm)
+- auth flow polish (better “sign in to comment/submit” prompts; post-auth return to current page)
+- submission flow (inline validation, success state with “pending approval” explanation, allow editing own submissions before approval)
+- admin review queue page (list unapproved shows with approve/reject, quick RSS sync, basic notes)
+- lightweight navigation (top nav links: Shows, Community, About; footer with contact + disclaimer)
+- community trust/safety copy (rules of conduct, moderation policy, reporting link)
+
 ## Code map (`src/`)
 
 - Pages: `src/app/shows/page.tsx`, `src/app/shows/[id]/page.tsx`, `src/app/episodes/[id]/page.tsx`, `src/app/signin/page.tsx`, `src/app/signup/page.tsx`
