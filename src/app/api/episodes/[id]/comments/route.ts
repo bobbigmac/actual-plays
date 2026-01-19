@@ -1,6 +1,7 @@
 import { z } from "zod";
-import { auth, currentUser } from "@clerk/nextjs/server";
+import { auth } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
+import { ensureLocalUser } from "~/lib/admin";
 
 const CreateComment = z.object({
   body: z.string().min(1).max(20000),
@@ -53,25 +54,14 @@ export async function POST(req: Request, ctx: { params: { id: string } }) {
   }
   if (!episode) return Response.json({ error: "Episode not found" }, { status: 404 });
 
-  const clerkUser = await currentUser();
-  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
-  const name =
-    clerkUser?.fullName ??
-    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
-    null;
-  const image = clerkUser?.imageUrl ?? null;
-
   let localUser: { id: string } | null = null;
   try {
-    localUser = await prisma.user.upsert({
-      where: { clerkUserId },
-      create: { clerkUserId, email, name, image },
-      update: { email, name, image },
-      select: { id: true }
-    });
+    const ensured = await ensureLocalUser();
+    localUser = ensured.localUser ? { id: ensured.localUser.id } : null;
   } catch {
     return Response.json({ error: "Database not reachable" }, { status: 503 });
   }
+  if (!localUser) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
   if (parsed.data.parentId) {
     try {

@@ -1,31 +1,21 @@
-import { auth, currentUser } from "@clerk/nextjs/server";
+import { auth } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
 import { syncShowFromRss } from "~/lib/rss";
-
-function isAdmin(email: string | null | undefined) {
-  const raw = process.env.ADMIN_EMAILS ?? "";
-  const allowed = raw
-    .split(",")
-    .map((s) => s.trim().toLowerCase())
-    .filter(Boolean);
-  return !!email && allowed.includes(email.toLowerCase());
-}
+import { canAdmin, ensureLocalUser } from "~/lib/admin";
 
 export async function POST(req: Request, ctx: { params: { id: string } }) {
   if (!process.env.DATABASE_URL) return Response.json({ error: "Database not configured" }, { status: 503 });
   const { id } = ctx.params;
 
   const secret = process.env.CRON_SECRET?.trim();
-  if (secret) {
-    const got = req.headers.get("x-cron-secret")?.trim();
-    if (got !== secret) {
-      const { userId } = auth();
-      if (!userId) return Response.json({ error: "Forbidden" }, { status: 403 });
-      const user = await currentUser();
-      const email = user?.primaryEmailAddress?.emailAddress ?? null;
-      if (!isAdmin(email)) return Response.json({ error: "Forbidden" }, { status: 403 });
-    }
-}
+  const got = req.headers.get("x-cron-secret")?.trim();
+  const allowBySecret = !!secret && got === secret;
+  if (!allowBySecret) {
+    const { userId } = auth();
+    if (!userId) return Response.json({ error: "Forbidden" }, { status: 403 });
+    const { localUser, envAdmin } = await ensureLocalUser();
+    if (!canAdmin(localUser, envAdmin)) return Response.json({ error: "Forbidden" }, { status: 403 });
+  }
 
   const url = new URL(req.url);
   const limitRaw = url.searchParams.get("limit");

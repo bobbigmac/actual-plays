@@ -28,7 +28,8 @@ export default async function EpisodePage({ params }: { params: { id: string } }
 
   if (!episode) return <div className="card">Episode not found.</div>;
 
-  const { userId } = auth();
+  const clerkConfigured = !!process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY;
+  const { userId } = clerkConfigured ? auth() : { userId: null as string | null };
 
   return (
     <div style={{ display: "grid", gap: 14 }}>

@@ -5,44 +5,42 @@
 ```bash
 cp .env.example .env
 npm install
-npx prisma generate
-
-npm run db:migrate
-npm run db:seed
 npm run dev
 ```
 
-## Database options
+`npm run dev` will:
 
-You need a Postgres database for shows/episodes/comments. Docker is optional.
+- Default `DATABASE_URL` to a local docker-compose Postgres if not set
+- Start Postgres via Docker if available
+- Run `prisma generate`, migrations, and seed
 
-### CapRover Postgres (recommended)
+If you don’t use Docker locally, set `DATABASE_URL` in `.env` to a real Postgres (CapRover/hosted/local install).
+
+## Clerk auth
+
+1. Create a Clerk application
+2. In `.env` / CapRover app env, set:
+   - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
+   - `CLERK_SECRET_KEY`
+   - `NEXT_PUBLIC_CLERK_SIGN_IN_URL=/signin`
+   - `NEXT_PUBLIC_CLERK_SIGN_UP_URL=/signup`
+   - `NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/shows`
+   - `NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/shows`
+
+Pages are wired at `/signin` and `/signup`.
+
+## CapRover Postgres
 
 - Create a one-click Postgres app in CapRover
-- Copy its connection string into this app’s `DATABASE_URL`
-- Deploy this repo; the container runs `npx prisma migrate deploy` on start
-
-### Local Postgres (no Docker)
-
-- Install Postgres for your OS
-- Set `DATABASE_URL` in `.env` (example in `.env.example`)
-- Run `npm run db:migrate && npm run db:seed`
-
-### Project-local Postgres via Docker (optional)
-
-If you do have Docker:
-
-```bash
-npm run db:up:docker
-npm run db:wait:docker
-```
+- Put its connection string into this app’s `DATABASE_URL`
+- Deploy this repo; the container runs `npx prisma migrate deploy` on start (`Dockerfile`)
 
 ## Deploy on CapRover
 
-- Use this repo as the source (Dockerfile deploy).
-- Add a Postgres app, set `DATABASE_URL`.
-- Set Clerk env vars (`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`).
-- Optional: set `CRON_SECRET` to protect RSS sync endpoint.
+- Deploy this repo (Dockerfile deploy)
+- Set `DATABASE_URL` (CapRover Postgres)
+- Set Clerk env vars (above)
+- Optional: set `CRON_SECRET` to protect RSS sync endpoint
 
 ## RSS sync
 
@@ -56,12 +54,12 @@ curl -X POST "https://yourdomain/api/shows/<showId>/sync?limit=200" \
   -H "x-cron-secret: $CRON_SECRET"
 ```
 
-## Create a show (admin)
+## Submit a show
 
-- `POST /api/shows` with JSON:
+- Use the UI on `/shows` (signed-in), or `POST /api/shows` with JSON:
 
 ```json
 { "title":"...", "slug":"...", "rssUrl":"...", "tags":["..."], "siteUrl":"..." }
 ```
 
-Requires your email in `ADMIN_EMAILS` and being signed in.
+New shows are created with `unapproved=true` until an admin approves them.

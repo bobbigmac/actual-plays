@@ -1,6 +1,7 @@
 import { z } from "zod";
-import { auth, currentUser } from "@clerk/nextjs/server";
+import { auth } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
+import { canAdmin, ensureLocalUser } from "~/lib/admin";
 
 const CreateShow = z.object({
   slug: z
@@ -16,20 +17,11 @@ const CreateShow = z.object({
   tags: z.array(z.string().min(1).max(40)).optional()
 });
 
-function isAdmin(email: string | null | undefined) {
-  const raw = process.env.ADMIN_EMAILS ?? "";
-  const allowed = raw
-    .split(",")
-    .map((s) => s.trim().toLowerCase())
-    .filter(Boolean);
-  return !!email && allowed.includes(email.toLowerCase());
-}
-
 export async function GET() {
   try {
     if (!process.env.DATABASE_URL) throw new Error("Database not configured");
     const shows = await prisma.show.findMany({
-      where: { status: "ACTIVE" },
+      where: { status: "ACTIVE", unapproved: false },
       orderBy: { updatedAt: "desc" },
       take: 500
     });
@@ -43,9 +35,8 @@ export async function POST(req: Request) {
   if (!process.env.DATABASE_URL) return Response.json({ error: "Database not configured" }, { status: 503 });
   const { userId } = auth();
   if (!userId) return Response.json({ error: "Unauthorized" }, { status: 401 });
-  const user = await currentUser();
-  const email = user?.primaryEmailAddress?.emailAddress ?? null;
-  if (!isAdmin(email)) return Response.json({ error: "Forbidden" }, { status: 403 });
+  const { localUser, envAdmin } = await ensureLocalUser();
+  const admin = canAdmin(localUser, envAdmin);
 
   const json = await req.json().catch(() => null);
   const parsed = CreateShow.safeParse(json);
@@ -55,10 +46,11 @@ export async function POST(req: Request) {
     const show = await prisma.show.create({
       data: {
         ...parsed.data,
-        tags: parsed.data.tags ?? []
+        tags: parsed.data.tags ?? [],
+        unapproved: true
       }
     });
-    return Response.json({ show }, { status: 201 });
+    return Response.json({ show, admin }, { status: 201 });
   } catch (e: any) {
     return Response.json({ error: e?.message ?? "Create failed" }, { status: 500 });
   }

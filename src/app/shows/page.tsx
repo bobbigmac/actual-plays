@@ -1,5 +1,8 @@
 import Link from "next/link";
+import { auth } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
+import NewShowForm from "~/components/NewShowForm";
+import { canAdmin, ensureLocalUser } from "~/lib/admin";
 
 export default async function ShowsPage({
   searchParams
@@ -8,8 +11,21 @@ export default async function ShowsPage({
 }) {
   const { q, tag } = await searchParams;
 
+  const clerkConfigured = !!process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY;
+  const { userId } = clerkConfigured ? auth() : { userId: null as string | null };
+  let admin = false;
+  try {
+    if (userId && process.env.DATABASE_URL) {
+      const { localUser, envAdmin } = await ensureLocalUser();
+      admin = canAdmin(localUser, envAdmin);
+    }
+  } catch {
+    admin = false;
+  }
+
   const where = {
     status: "ACTIVE" as const,
+    ...(admin ? {} : { unapproved: false }),
     ...(tag ? { tags: { has: tag } } : {}),
     ...(q
       ? {
@@ -62,6 +78,8 @@ export default async function ShowsPage({
         </form>
       </div>
 
+      <NewShowForm />
+
       {shows.map((s) => (
         <div key={s.id} className="card">
           <div className="row">
@@ -81,6 +99,7 @@ export default async function ShowsPage({
               ))}
             </div>
           </div>
+          {admin && s.unapproved ? <small>unapproved</small> : null}
           {s.description ? (
             <div style={{ marginTop: 10, opacity: 0.9, whiteSpace: "pre-wrap" }}>{s.description}</div>
           ) : null}

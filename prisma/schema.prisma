@@ -20,6 +20,7 @@ model User {
   email       String?  @unique
   image       String?
   handle      String?  @unique
+  isAdmin     Boolean  @default(false)
 
   comments    Comment[]
 
@@ -37,6 +38,7 @@ model Show {
   imageUrl    String?
   tags        String[]   @default([])
   status      ShowStatus @default(ACTIVE)
+  unapproved  Boolean    @default(true)
 
   episodes    Episode[]
 

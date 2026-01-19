@@ -13,7 +13,8 @@ async function main() {
       description: "Seeded example show. Replace me with a real RSS feed.",
       rssUrl: "https://feeds.simplecast.com/54nAGcIl",
       siteUrl: "https://example.com",
-      tags: ["ttrpg", "actualplay"]
+      tags: ["ttrpg", "actualplay"],
+      unapproved: false
     }
   });
 }
@@ -25,4 +26,3 @@ main()
     await prisma.$disconnect();
     process.exit(1);
   });
-

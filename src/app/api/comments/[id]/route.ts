@@ -1,6 +1,7 @@
 import { z } from "zod";
-import { auth, currentUser } from "@clerk/nextjs/server";
+import { auth } from "@clerk/nextjs/server";
 import prisma from "~/lib/prisma";
+import { ensureLocalUser } from "~/lib/admin";
 
 const EditComment = z.object({
   body: z.string().min(1).max(20000)
@@ -11,25 +12,14 @@ export async function PATCH(req: Request, ctx: { params: { id: string } }) {
   const { userId: clerkUserId } = auth();
   if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
-  const clerkUser = await currentUser();
-  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
-  const name =
-    clerkUser?.fullName ??
-    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
-    null;
-  const image = clerkUser?.imageUrl ?? null;
-
   let localUser: { id: string } | null = null;
   try {
-    localUser = await prisma.user.upsert({
-      where: { clerkUserId },
-      create: { clerkUserId, email, name, image },
-      update: { email, name, image },
-      select: { id: true }
-    });
+    const ensured = await ensureLocalUser();
+    localUser = ensured.localUser ? { id: ensured.localUser.id } : null;
   } catch {
     return Response.json({ error: "Database not reachable" }, { status: 503 });
   }
+  if (!localUser) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
   const { id } = ctx.params;
   const json = await req.json().catch(() => null);
@@ -63,25 +53,14 @@ export async function DELETE(_req: Request, ctx: { params: { id: string } }) {
   const { userId: clerkUserId } = auth();
   if (!clerkUserId) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
-  const clerkUser = await currentUser();
-  const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
-  const name =
-    clerkUser?.fullName ??
-    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
-    null;
-  const image = clerkUser?.imageUrl ?? null;
-
   let localUser: { id: string } | null = null;
   try {
-    localUser = await prisma.user.upsert({
-      where: { clerkUserId },
-      create: { clerkUserId, email, name, image },
-      update: { email, name, image },
-      select: { id: true }
-    });
+    const ensured = await ensureLocalUser();
+    localUser = ensured.localUser ? { id: ensured.localUser.id } : null;
   } catch {
     return Response.json({ error: "Database not reachable" }, { status: 503 });
   }
+  if (!localUser) return Response.json({ error: "Unauthorized" }, { status: 401 });
 
   const { id } = ctx.params;
 
