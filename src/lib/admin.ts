@@ -21,8 +21,8 @@ export async function ensureLocalUser() {
   const clerkUser = await currentUser();
   const email = clerkUser?.primaryEmailAddress?.emailAddress ?? null;
   const name =
-    clerkUser?.fullName ??
-    [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ") ||
+    (clerkUser?.fullName ??
+      [clerkUser?.firstName, clerkUser?.lastName].filter(Boolean).join(" ")) ||
     null;
   const image = clerkUser?.imageUrl ?? null;
 

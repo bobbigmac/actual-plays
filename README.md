@@ -10,7 +10,8 @@ npm run dev
 
 `npm run dev` will:
 
-- Default `DATABASE_URL` to a local docker-compose Postgres if not set
+- Start docker-compose Postgres (on an available local port)
+- Set `DATABASE_URL` automatically for dev
 - Start Postgres via Docker if available
 - Run `prisma generate`, migrations, and seed
 
