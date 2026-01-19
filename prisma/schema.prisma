@@ -1,0 +1,137 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum ShowStatus {
+  ACTIVE
+  HIDDEN
+  ARCHIVED
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  handle        String?   @unique
+
+  accounts      Account[]
+  sessions      Session[]
+  comments      Comment[]
+
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@index([userId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model Show {
+  id          String     @id @default(cuid())
+  slug        String     @unique
+  title       String
+  description String?    @db.Text
+  rssUrl      String     @unique
+  siteUrl     String?
+  imageUrl    String?
+  tags        String[]   @default([])
+  status      ShowStatus @default(ACTIVE)
+
+  episodes    Episode[]
+
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+}
+
+model Episode {
+  id              String    @id @default(cuid())
+  showId          String
+  show            Show      @relation(fields: [showId], references: [id], onDelete: Cascade)
+
+  guid            String?
+  identityHash    String    @unique
+
+  title           String
+  description     String?   @db.Text
+  pubDate         DateTime?
+  durationSeconds Int?
+  episodeUrl      String?
+  enclosureUrl    String?
+  imageUrl        String?
+  rawRssJson      Json?
+
+  comments        Comment[]
+
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@index([showId, pubDate])
+}
+
+model Comment {
+  id        String    @id @default(cuid())
+  episodeId String
+  userId    String
+  parentId  String?
+
+  body      String    @db.Text
+
+  editedAt  DateTime?
+  deletedAt DateTime?
+
+  episode   Episode   @relation(fields: [episodeId], references: [id], onDelete: Cascade)
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  parent    Comment?  @relation("CommentThread", fields: [parentId], references: [id], onDelete: SetNull)
+  replies   Comment[] @relation("CommentThread")
+
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@index([episodeId, createdAt])
+  @@index([parentId])
+}
+
