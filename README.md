@@ -7,16 +7,34 @@ cp .env.example .env
 npm install
 npx prisma generate
 
-# Project-local Postgres (requires Docker)
-npm run db:up
-npm run db:wait
-
-# Ensure `.env` contains:
-# DATABASE_URL=postgresql://postgres:postgres@127.0.0.1:5432/actualplay?schema=public
-
 npm run db:migrate
 npm run db:seed
 npm run dev
+```
+
+## Database options
+
+You need a Postgres database for shows/episodes/comments. Docker is optional.
+
+### CapRover Postgres (recommended)
+
+- Create a one-click Postgres app in CapRover
+- Copy its connection string into this app’s `DATABASE_URL`
+- Deploy this repo; the container runs `npx prisma migrate deploy` on start
+
+### Local Postgres (no Docker)
+
+- Install Postgres for your OS
+- Set `DATABASE_URL` in `.env` (example in `.env.example`)
+- Run `npm run db:migrate && npm run db:seed`
+
+### Project-local Postgres via Docker (optional)
+
+If you do have Docker:
+
+```bash
+npm run db:up:docker
+npm run db:wait:docker
 ```
 
 ## Deploy on CapRover
