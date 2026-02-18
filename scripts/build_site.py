@@ -299,8 +299,13 @@ def main() -> int:
               <div class="row-actions">
                 <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                 <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
-                <button class="btn btn-sm" type="button" data-action="played">Played</button>
-                <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                <details class="menu">
+                  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
+                  <div class="menu-panel card">
+                    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
+                    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                  </div>
+                </details>
               </div>
               <div class="mini-progress">
                 <div class="mini-progress-bar" data-progress-bar></div>
@@ -431,8 +436,16 @@ def main() -> int:
                   <div class="ep-actions">
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                     <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
-                    <button class="btn btn-sm" type="button" data-action="played">Played</button>
-                    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                    <details class="menu">
+                      <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
+                      <div class="menu-panel card">
+                        <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
+                        <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                        <div class="menu-sep"></div>
+                        <button class="btn btn-sm" type="button" data-action="bulk-newer">Set newer as played</button>
+                        <button class="btn btn-sm" type="button" data-action="bulk-older">Set older as played</button>
+                      </div>
+                    </details>
                   </div>
                   <div class="meta">
                     <div class="title">{ep_title}</div>
@@ -459,16 +472,6 @@ def main() -> int:
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>
-        <section class="card bulk-actions" data-feed-page="{_esc(slug)}">
-          <div class="panel-head">
-            <h2>Bulk actions</h2>
-          </div>
-          <div class="muted">Uses the selected episode (from the URL or currently playing) as the pivot.</div>
-          <div class="row-actions bulk-buttons">
-            <button class="btn btn-sm" type="button" data-bulk="older">Set all older as played</button>
-            <button class="btn btn-sm" type="button" data-bulk="newer">Set all newer as played</button>
-          </div>
-        </section>
         <ul class="episodes">
           {"".join(episodes_html) if episodes_html else '<li class="muted">No cached episodes yet.</li>'}
         </ul>
@@ -542,8 +545,13 @@ def main() -> int:
                   <div class="row-actions">
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                     <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
-                    <button class="btn btn-sm" type="button" data-action="played">Played</button>
-                    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                    <details class="menu">
+                      <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
+                      <div class="menu-panel card">
+                        <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
+                        <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                      </div>
+                    </details>
                   </div>
                   <div class="mini-progress">
                     <div class="mini-progress-bar" data-progress-bar></div>

@@ -163,12 +163,42 @@ a:hover {
   background: rgba(164, 167, 176, 0.45);
 }
 
-.bulk-actions .row-actions {
+details.menu {
+  position: relative;
+}
+
+details.menu > summary {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+details.menu > summary::-webkit-details-marker {
+  display: none;
+}
+
+.menu-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 25;
+  min-width: 220px;
+  padding: 10px;
+  display: grid;
+  gap: 8px;
+}
+
+.menu-panel .btn {
+  width: 100%;
+  display: flex;
   justify-content: flex-start;
 }
 
-.bulk-buttons {
-  margin-top: 10px;
+.menu-sep {
+  height: 1px;
+  background: var(--border);
+  margin: 4px 0;
 }
 
 .mini-progress {

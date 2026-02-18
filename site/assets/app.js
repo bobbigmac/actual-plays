@@ -400,8 +400,13 @@
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Resume</button>' +
           '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
-          '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
-          '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+          '<details class="menu">' +
+          '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
+          '  <div class="menu-panel card">' +
+          '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
+          '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+          "  </div>" +
+          "</details>" +
           "</div>" +
           '<div class="mini-progress"><div class="mini-progress-bar" data-progress-bar></div></div>' +
           '<div class="mini-progress-text muted" data-progress-text></div>' +
@@ -453,9 +458,14 @@
           "</div>" +
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
-          '<button class="btn btn-sm" type="button" data-action="remove">Remove</button>' +
-          '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
-          '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+          '<details class="menu">' +
+          '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
+          '  <div class="menu-panel card">' +
+          '    <button class="btn btn-sm" type="button" data-action="remove">Remove</button>' +
+          '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
+          '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+          "  </div>" +
+          "</details>" +
           "</div>" +
           "</li>"
         );
@@ -529,6 +539,40 @@
     var gainNode = null;
     var currentFeedSlug = null;
     var desiredRate = null;
+    var currentMeta = null;
+
+    function currentKey() {
+      return LS_PREFIX + "current";
+    }
+
+    function loadCurrent() {
+      var raw = lsGet(currentKey());
+      if (!raw) return null;
+      try {
+        var obj = JSON.parse(raw);
+        if (!obj || typeof obj !== "object") return null;
+        if (!obj.id) return null;
+        return obj;
+      } catch (_e) {
+        return null;
+      }
+    }
+
+    function saveCurrent(meta) {
+      if (!meta || !meta.id) return;
+      var payload = {
+        id: meta.id,
+        feedSlug: meta.feedSlug || parseEpisodeId(meta.id).feedSlug || "",
+        episodeKey: meta.episodeKey || parseEpisodeId(meta.id).episodeKey || "",
+        t: meta.t || "",
+        ft: meta.ft || "",
+        d: meta.d || "",
+        a: meta.a || "",
+        l: meta.l || "",
+        u: Date.now(),
+      };
+      lsSet(currentKey(), JSON.stringify(payload));
+    }
 
     var SPEEDS = [0.75, 1, 1.25, 1.5, 1.75, 2, 2.5, 3, 4, 5];
 
@@ -775,14 +819,16 @@
       if (target) target.classList.add("active");
     }
 
-    function playMeta(hint) {
+    function selectMeta(hint, opts) {
       var meta = hint || {};
-      if (!meta.id) return;
+      var options = opts || {};
+      if (!meta.id) return Promise.resolve(null);
 
-      resolveEpisodeMeta(meta)
+      return resolveEpisodeMeta(meta)
         .then(function (full) {
           currentEpisodeId = full.id;
           currentFeedSlug = full.feedSlug || parseEpisodeId(full.id).feedSlug || null;
+          currentMeta = full;
           setActiveEpisodeId(full.id);
 
           $("#now-title").textContent = full.t || "Now playing";
@@ -798,18 +844,13 @@
           pendingSeek = prog && prog.p && (!prog.d || prog.p < Math.max(0, prog.d - 10)) ? prog.p : null;
 
           var wantedRate = currentFeedSlug ? readSpeedForFeed(currentFeedSlug) : readLastSpeed();
+          setSpeed(wantedRate, { persist: false });
 
           if (full.a) {
-            // Some browsers reset playbackRate when the source changes; always re-apply after setting src.
-            player.src = full.a;
-            setSpeed(wantedRate, { persist: false });
-            resumeAudioCtx();
-            player.play().catch(function () {});
-          } else {
-            setSpeed(wantedRate, { persist: false });
+            if (player.src !== full.a) player.src = full.a;
           }
 
-          // If we're on this podcast page, keep ?e updated for bulk actions / deep links.
+          // If we're on this podcast page, keep ?e updated for deep links.
           try {
             if (
               full.feedSlug &&
@@ -820,47 +861,98 @@
             }
           } catch (_e) {}
 
-          pushHistoryEntry({
-            id: full.id,
-            t: full.t || "",
-            ft: full.ft || "",
-            d: full.d || "",
-            a: full.a || "",
-            l: full.l || "",
-            u: Date.now(),
-          });
-
+          saveCurrent(full);
           updateMediaSession(full.t || "", full.ft || "", full.l || "");
           refreshAllProgress();
           renderHomePanels();
+
+          if (options.autoplay) {
+            resumeAudioCtx();
+            return player
+              .play()
+              .catch(function () {})
+              .then(function () {
+                // Only write history on an explicit play.
+                pushHistoryEntry({
+                  id: full.id,
+                  t: full.t || "",
+                  ft: full.ft || "",
+                  d: full.d || "",
+                  a: full.a || "",
+                  l: full.l || "",
+                  u: Date.now(),
+                });
+              })
+              .then(function () {
+                return full;
+              });
+          }
+
+          return full;
         })
-        .catch(function (_err) {});
+        .catch(function () {
+          return null;
+        });
+    }
+
+    function playMeta(hint) {
+      return selectMeta(hint, { autoplay: true });
     }
 
     window.__AP_PLAYER__ = {
       playMeta: playMeta,
+      selectMeta: function (meta) {
+        return selectMeta(meta, { autoplay: false });
+      },
       getCurrentId: function () {
         return currentEpisodeId;
       },
     };
 
-    // Autoplay deep-link on podcast pages.
+    function shouldAutoplay() {
+      return String(window.location.hash || "").toLowerCase().includes("autoplay");
+    }
+
     var key = qs("e");
+    var autoplay = shouldAutoplay();
+
+    // Always restore the last-selected episode (without autoplay) so "Play" continues where you left off.
+    var restored = false;
+    var cur0 = loadCurrent();
+    if (cur0 && cur0.id) {
+      restored = true;
+      selectMeta(cur0, { autoplay: false });
+    }
+
+    // Deep-link only takes over playback if explicitly requested via #autoplay.
+    // Otherwise it only becomes the default when there is no saved "current".
     if (key) {
       var target = $("#e-" + cssEscape(key));
       if (target) {
         var m = readEpisodeMetaFromElement(target);
-        if (m) playMeta(m);
+        if (m && (autoplay || !restored)) selectMeta(m, { autoplay: autoplay });
       }
     }
 
     if (btnPlayPause) {
       btnPlayPause.addEventListener("click", function () {
         if (!player.src) {
+          // Prefer the last-selected episode; otherwise fall back to most recent history entry.
+          var cur = loadCurrent();
+          if (cur && cur.id) {
+            playMeta(cur);
+            return;
+          }
+          var hist = loadHistory();
+          if (hist && hist.length && hist[0] && hist[0].id) {
+            playMeta(hist[0]);
+            return;
+          }
           var first = $(".episode");
           if (first) {
             var m = readEpisodeMetaFromElement(first);
             if (m) playMeta(m);
+            return;
           }
           return;
         }
@@ -996,6 +1088,8 @@
 
     setPlayButtonState();
     applyAudioSettings();
+
+    // (restored above)
   }
 
   var indexPromise = null;
@@ -1132,8 +1226,13 @@
               '<div class="row-actions">' +
               '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
               '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
-              '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
-              '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+              '<details class="menu">' +
+              '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
+              '  <div class="menu-panel card">' +
+              '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
+              '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+              "  </div>" +
+              "</details>" +
               "</div>" +
               '<div class="mini-progress"><div class="mini-progress-bar" data-progress-bar></div></div>' +
               '<div class="mini-progress-text muted" data-progress-text></div>' +
@@ -1391,52 +1490,6 @@
     );
     refreshAllProgress();
     renderHomePanels();
-  }
-
-  function initBulkPlayed() {
-    document.addEventListener("click", function (e) {
-      var t = e.target;
-      if (!t || !t.closest) return;
-      var btn = t.closest("[data-bulk]");
-      if (!btn) return;
-      var action = btn.getAttribute("data-bulk") || "";
-      if (action !== "older" && action !== "newer") return;
-
-      var host = btn.closest("[data-feed-page]");
-      var feedSlug = host ? host.getAttribute("data-feed-page") : "";
-      if (!feedSlug) return;
-
-      var scope = (host && host.closest && host.closest("main")) || document;
-      var episodes = $all(".episode", scope);
-      if (!episodes.length) return;
-
-      var pivotEl = null;
-      var key = qs("e");
-      if (key) pivotEl = $("#e-" + cssEscape(key), scope);
-
-      if (!pivotEl && window.__AP_PLAYER__ && window.__AP_PLAYER__.getCurrentId) {
-        var curId = window.__AP_PLAYER__.getCurrentId();
-        var parsed = parseEpisodeId(curId);
-        if (parsed.feedSlug === feedSlug) {
-          pivotEl = $('.episode[data-episode-id="' + cssEscape(curId) + '"]', scope);
-        }
-      }
-
-      if (!pivotEl) pivotEl = episodes[0];
-
-      var pivotIndex = episodes.indexOf(pivotEl);
-      if (pivotIndex < 0) pivotIndex = 0;
-
-      var ids = [];
-      for (var i = 0; i < episodes.length; i++) {
-        if (action === "older" && i <= pivotIndex) continue;
-        if (action === "newer" && i >= pivotIndex) continue;
-        var id = episodes[i].getAttribute("data-episode-id") || "";
-        if (id) ids.push(id);
-      }
-      e.preventDefault();
-      markPlayedMany(ids);
-    });
   }
 
   function openData() {
@@ -1699,6 +1752,12 @@
       var meta = readEpisodeMetaFromElement(row);
       if (!meta) return;
 
+      // Close any open overflow menu.
+      try {
+        var d = btn.closest("details");
+        if (d && d.classList && d.classList.contains("menu")) d.open = false;
+      } catch (_e) {}
+
       if (action === "play") {
         if (meta && !meta.ft) meta.ft = $("h1") ? $("h1").textContent : "";
         if (window.__AP_PLAYER__ && window.__AP_PLAYER__.playMeta) window.__AP_PLAYER__.playMeta(meta);
@@ -1732,6 +1791,24 @@
 
       if (action === "played") {
         markPlayed(meta.id);
+        return;
+      }
+
+      if (action === "bulk-older" || action === "bulk-newer") {
+        var pivot = btn.closest(".episode");
+        if (!pivot) return;
+        var container = pivot.parentElement || document;
+        var episodes = $all(".episode", container);
+        var pivotIndex = episodes.indexOf(pivot);
+        if (pivotIndex < 0) pivotIndex = 0;
+        var ids = [];
+        for (var i = 0; i < episodes.length; i++) {
+          if (action === "bulk-older" && i <= pivotIndex) continue;
+          if (action === "bulk-newer" && i >= pivotIndex) continue;
+          var id = episodes[i].getAttribute("data-episode-id") || "";
+          if (id) ids.push(id);
+        }
+        markPlayedMany(ids);
         return;
       }
 
@@ -1770,7 +1847,6 @@
   initProgress();
   initDescriptions();
   initEpisodeActions();
-  initBulkPlayed();
   initSpaNavigation();
   initData();
   initPwa();
