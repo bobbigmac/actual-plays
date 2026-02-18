@@ -1,110 +1,200 @@
-# actualplay-hub (Next.js + Prisma + Clerk + RSS + per-episode comments)
+# Client-side Podcast Index on GitHub Pages
 
-Thin “hub/wiki” for actual play shows and episodes:
+This repo hosts a podcast browser that runs entirely in the user’s web browser. GitHub Actions periodically fetches a configured set of RSS feeds, updates a lightweight cached representation, and rebuilds static HTML for GitHub Pages. There’s no server, no API, no remote processing at runtime.
 
-- Curate shows (RSS URLs + tags) and render episode lists
-- Fetch episode metadata from RSS (no media caching/hosting)
-- Per-episode comment threads with replies, backed by Postgres
-- Clerk auth for easy cross-platform sign-in
+The UI behaves like it has per-episode pages, but we don’t generate them. We render one page per podcast feed (plus optional speaker/topic pages), and the client routes between “views” by reading embedded metadata and passing parameters (including “skip to” episode) when linking across podcasts.
 
-## Run locally
+## Goals
 
-```bash
-cp .env.example .env
-npm install
-npm run dev
-```
+* All runtime logic is client-side in the browser.
+* All ingestion + tagging happens in GitHub Actions.
+* Output is static HTML (served by GitHub Pages as a CDN).
+* Minimal repo noise: avoid exploding file counts (no per-episode pages).
+* Extract just enough structure (speakers/topics/flags) to enable:
 
-`npm run dev` will:
+  * “more with this speaker” recommendations across podcasts
+  * topic-ish clustering and filtering
+  * a basic search index that ignores filler/grammar words
 
-- Start docker-compose Postgres (on an available local port) and set `DATABASE_URL`
-- Run `prisma generate`, migrations, and seed
+## Non-goals
 
-If you don’t use Docker locally, set `DATABASE_URL` in `.env` to a real Postgres (CapRover/hosted/local install).
+* No server-side backend, no hosted database.
+* No complex parsing pipelines or brittle schema-heavy systems.
+* No “perfect” NLP. We accept that extraction is inconsistent; text search remains the fallback.
+* No permanent, user-facing invented IDs. We only derive internal keys for dedupe/change detection.
 
-## Clerk auth
+## High-level architecture
 
-1. Create a Clerk application
-2. In `.env` / CapRover app env, set:
-   - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
-   - `CLERK_SECRET_KEY`
-   - `NEXT_PUBLIC_CLERK_SIGN_IN_URL=/signin`
-   - `NEXT_PUBLIC_CLERK_SIGN_UP_URL=/signup`
-   - `NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/shows`
-   - `NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/shows`
+1. **Config**: a small list of RSS feeds in the repo.
+2. **Updater Action**:
 
-Pages are wired at `/signin` and `/signup`.
+   * fetches each feed on a tunable schedule (to avoid hammering)
+   * detects changes since last run
+   * updates the cached markdown for only the feeds that changed
+   * regenerates HTML and a small JSON search index
+   * pushes updates to the Pages branch
+3. **Client UI**:
 
-## Admin + approvals
+   * loads podcast pages (HTML) and reads `data-*` / embedded JSON blobs
+   * routes internally to show “episode view” without needing dedicated pages
+   * lazily loads the search index JSON when needed
 
-- The first signed-in user becomes admin (stored in the local `User` table).
-- New shows are created with `unapproved=true` until an admin approves them.
-- Admins can approve shows from the show page and run RSS sync.
-- You can also allow specific admins via `ADMIN_EMAILS` (comma-separated).
+## Data storage: “retagged feed” markdown
 
-## CapRover Postgres
+Each podcast feed has one canonical cache file, updated in-place. This keeps diffs readable and avoids generating thousands of small files.
 
-- Create a one-click Postgres app in CapRover
-- Put its connection string into this app’s `DATABASE_URL`
-- Deploy this repo; the container runs `npx prisma migrate deploy` on start (`Dockerfile`)
+* One markdown file per feed
+* Contains:
 
-## Deploy on CapRover
+  * feed metadata (URL, title, last checked, etag/last-modified if available)
+  * episodes as a simple list/sections (ordered by publish date)
+  * original description text (kept so tagging can be re-run later if heuristics change)
+  * detected tags:
 
-- Deploy this repo (Dockerfile deploy)
-- Set `DATABASE_URL` (CapRover Postgres)
-- Set Clerk env vars (above)
-- Optional: set `CRON_SECRET` to protect RSS sync endpoint
+    * speakers (names)
+    * topics/themes (noun-ish terms/phrases)
+    * small flags (e.g. “interview”, “live”, “trailer”)
+    * confidence (optional)
 
-## RSS sync
+We keep this format tolerant: if something fails to parse or extract, the cache still updates and the site still builds.
 
-- `POST /api/shows/:id/sync`
-- If `CRON_SECRET` is set, include header: `x-cron-secret: <value>`
+## Avoiding fabricated IDs
 
-Example:
+Public site content doesn’t rely on invented IDs.
 
-```bash
-curl -X POST "https://yourdomain/api/shows/<showId>/sync?limit=200" \
-  -H "x-cron-secret: $CRON_SECRET"
-```
+* Episode identity for dedupe/change detection is derived from what RSS already gives us:
 
-## Submit a show
+  * `guid` if present
+  * else `enclosure.url`
+  * else (title + pubDate) as a fallback
+* Internally we can derive a stable key from those fields for comparisons, but we don’t expose it as a primary concept and we don’t litter pages with it unless it’s convenient for client navigation.
 
-- Use the UI on `/shows` (signed-in), or `POST /api/shows` with JSON:
+## HTML output: per-podcast pages only
 
-```json
-{ "title":"...", "slug":"...", "rssUrl":"...", "tags":["..."], "siteUrl":"..." }
-```
+We generate:
 
-New shows are created with `unapproved=true` until an admin approves them.
+* one page per podcast feed (the main browsing surface)
+* optional aggregate pages:
 
-## TODO (basic live prototype)
+  * speaker pages (listing episodes across feeds where a speaker is detected)
+  * topic pages (same idea)
+* a JSON index for search and lightweight recommendation lookup
 
-- Deployment: CapRover app + Postgres app + Clerk env vars + `CRON_SECRET`
-- RSS: add a CapRover cron/schedule to call `/api/shows/:id/sync` for approved shows
-- Moderation: add “report comment” + admin review/delete; basic per-user/IP rate limits on comments and show submissions
-- Content: add minimal “About” page and “Community links” page (static/markdown), plus a front-page intro
-- Search: basic tag browsing UX + show sorting (recently updated, most discussed)
-- SEO: `robots.txt`, sitemap, OpenGraph meta for show/episode pages
-- Observability: request logging + error reporting (Sentry or similar) and a simple uptime check route
-- Safety: input sanitization policy for comments + profanity/spam mitigation plan
+We do not generate per-episode pages. The UI can render an “episode view” by pulling the episode metadata from the podcast page data and updating the browser history state.
 
-### UX 
+### Data in HTML
 
-- landing page that explains “what this is” + primary CTA (Browse shows / Submit a show)
-- show cards with consistent metadata (tags, media type, “new/updated”, approval state hidden for non-admin)
-- show page improvements (episode list pagination, “sync status” for admins, clear “approved/pending” badge for admins)
-- episode page improvements (sticky audio player, click-to-copy timestamp, render timestamp links in comments)
-- comments thread polish (reply affordances, collapse threads, optimistic posting, “edited” indicator, delete confirm)
-- auth flow polish (better “sign in to comment/submit” prompts; post-auth return to current page)
-- submission flow (inline validation, success state with “pending approval” explanation, allow editing own submissions before approval)
-- admin review queue page (list unapproved shows with approve/reject, quick RSS sync, basic notes)
-- lightweight navigation (top nav links: Shows, Community, About; footer with contact + disclaimer)
-- community trust/safety copy (rules of conduct, moderation policy, reporting link)
+Each podcast page includes its episode metadata in a machine-readable form that the UI can consume without scraping.
 
-## Code map (`src/`)
+Typical approaches (pick one):
 
-- Pages: `src/app/shows/page.tsx`, `src/app/shows/[id]/page.tsx`, `src/app/episodes/[id]/page.tsx`, `src/app/signin/page.tsx`, `src/app/signup/page.tsx`
-- API routes: `src/app/api/shows/route.ts`, `src/app/api/shows/[id]/sync/route.ts`, `src/app/api/shows/[id]/approve/route.ts`, `src/app/api/episodes/[id]/comments/route.ts`, `src/app/api/comments/[id]/route.ts`
-- Layout/styling: `src/app/layout.tsx`, `src/app/page.tsx`, `src/app/globals.css`
-- Components: `src/components/AuthButtons.tsx`, `src/components/NewShowForm.tsx`, `src/components/Comments.tsx`
-- Lib: `src/lib/prisma.ts`, `src/lib/rss.ts`, `src/lib/admin.ts`
+* a `<script type="application/json" id="feed-data">…</script>` blob
+* `data-*` fields on episode elements for quick access
+
+The important part is: the UI can jump directly to an episode, highlight it, and play it, without needing a distinct URL per episode.
+
+## Search + lightweight indexing
+
+Search is a lazily-loaded JSON file generated during the build.
+
+* The index contains only what the client needs:
+
+  * episode title
+  * publish date
+  * feed reference (slug / url)
+  * extracted speakers/topics/flags (tokenized/normalized)
+  * the page URL + enough info to jump to the episode in-page
+* We do not ship full descriptions into the index.
+* Tokenization aims to drop filler and grammatical words so the search remains useful even with noisy extraction.
+
+The index can grow to ~1MB without being a problem if it’s fetched only when the user opens search.
+
+## Recommendations
+
+Primary recs are speaker-driven:
+
+* On an episode view, the UI picks the most salient detected speaker(s) and recommends:
+
+  * other episodes (across all feeds) that contain that speaker
+  * if we can infer a “speaker’s own podcast” (weak heuristics), promote that feed
+
+We don’t hard-separate “guest” vs “host”. If a person appears as a speaker, that’s enough; role is an attribute if we can infer it, not a distinct class.
+
+Fallback recs:
+
+* topic overlap
+* simple “more from this feed” / “recent in group” lists when extraction is weak
+
+## NLP: “good enough” extraction
+
+We keep the NLP minimal and replaceable.
+
+Baseline plan:
+
+* Normalize text (strip HTML, collapse whitespace)
+* Extract candidate people names and noun-ish terms
+* Apply simple filtering to reduce junk:
+
+  * drop stopwords and very short tokens
+  * prefer title/lead paragraph terms
+  * de-duplicate by normalized form
+
+Library choice:
+
+* Start with something like `compromise` for light NER-ish extraction.
+* Evaluate results on real feed samples before adding complexity.
+* If compromise is too noisy, we keep rules simple rather than building a heavy parser stack.
+
+Reliability stance:
+
+* It’s OK if some episodes don’t get good speakers/topics.
+* The whole group is roughly equally unreliable.
+* Search still works because the index includes titles and normalized tag tokens.
+
+## Update cadence / balancer
+
+We avoid constant firing and avoid spamming feed hosts.
+
+Mechanics:
+
+* Maintain a small state file (per feed: last check time and caching headers)
+* Use conditional GET (`If-None-Match` / `If-Modified-Since`) where possible
+* Apply a tunable schedule policy so hot feeds can be checked more often than slow ones
+
+This keeps Action runtime predictable and fits within normal GitHub Pages usage.
+
+## Implementation outline
+
+* `feeds.yaml`: configured RSS URLs + optional scheduling hints
+* `cache/feeds/*.md`: one markdown cache per feed (retagged representation)
+* `cache/state.json`: last checked + etag/last-modified + cooldown bookkeeping
+  - Cache/data should probably be on a branch, on the action step, not sure if/how that works
+* `scripts/update-feeds.mjs`:
+  * fetch, diff, update cache markdown
+  * run tagging on new/changed episodes, index and connect/graph links
+* `scripts/ingest-podcast.mjs`:
+  * Build the html pages from the markdown
+* `scripts/build-html.mjs`:
+
+  * render podcast pages from cached markdown
+  * optionally render speaker/topic aggregate pages
+  * emit `site/index.json` for search/recs
+
+* GitHub Action:
+  * scheduled + manual trigger
+  * run update script
+  * if repo changed, run build and push to Pages branch
+
+## Future ideas (deliberately not in scope now)
+
+* Time-based segmentation (e.g. per scene/discussion) with extra server processor (and better data source).
+* More nuanced cadence prediction for fetch prioritization.
+* Moving heavy indexing off GitHub Pages if performance demands it later.
+
+## Why this design stays light
+
+* No per-episode pages, so file count stays small.
+* Cached markdown stays human-readable and patchable.
+* Minimal derived identifiers, minimal schema commitments.
+* Tagging is “good enough” and replaceable without migrating a database.
+* Static pages + JSON index scale comfortably at the “dozens of feeds” level.
