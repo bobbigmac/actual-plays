@@ -1,9 +1,16 @@
 node_modules
 .next
 dist
+cache/
 .DS_Store
 .env
 .env.*
 !.env.example
 prisma/dev.db
 _data/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+package-lock.json
+npm-debug.log*

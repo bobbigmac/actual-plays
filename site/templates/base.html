@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{page_title}}</title>
+    <meta name="description" content="{{page_description}}" />
+    <meta name="theme-color" content="#0b0c0f" />
+    <link rel="stylesheet" href="{{base_path}}assets/style.css" />
+    <link rel="manifest" href="{{base_path}}manifest.webmanifest" />
+    <link rel="icon" href="{{base_path}}assets/icon-192.png" />
+    <link rel="apple-touch-icon" href="{{base_path}}assets/apple-touch-icon.png" />
+    <script>
+      window.__PODCAST_INDEX__ = {
+        basePath: {{base_path_json}},
+        site: {{site_json}}
+      };
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-row">
+        <div class="brand">
+          <a class="brand-link" href="{{base_path}}">{{site_title}}</a>
+          <div class="subtitle">{{site_subtitle}}</div>
+        </div>
+        <nav class="nav">
+          <a href="{{base_path}}">Home</a>
+          <a href="{{base_path}}speakers/">Speakers</a>
+          <button class="search-button" type="button" data-open-search>Search</button>
+        </nav>
+      </div>
+    </header>
+    <div class="wrap" id="client-panels"></div>
+    <main class="wrap">
+      {{content}}
+    </main>
+    <footer class="site-footer wrap">{{footer}}</footer>
+    <script src="{{base_path}}assets/app.js" defer></script>
+  </body>
+</html>

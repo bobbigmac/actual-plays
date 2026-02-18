@@ -1,0 +1,92 @@
+name: Update feeds and deploy
+
+on:
+  schedule:
+    # Every 6 hours (staggered minute to avoid hammering at :00).
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install JS deps (compromise)
+        run: npm install --no-package-lock --silent
+
+      - name: Restore cached state (cache branch)
+        run: |
+          set -euo pipefail
+          git fetch origin cache:cache || true
+          if git show-ref --verify --quiet refs/heads/cache; then
+            git restore --source cache -- cache || true
+          fi
+
+      - name: Update feed cache
+        run: python -m scripts.update_feeds --quiet
+
+      - name: Build static site
+        run: python -m scripts.build_site
+
+      - name: Persist cache state (cache branch)
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git show-ref --verify --quiet refs/heads/cache; then
+            git worktree add /tmp/cache-worktree cache
+          else
+            git worktree add /tmp/cache-worktree -b cache
+          fi
+
+          mkdir -p /tmp/cache-worktree/cache
+          rsync -a --delete cache/ /tmp/cache-worktree/cache/
+
+          cd /tmp/cache-worktree
+          git add -f cache
+          if git diff --cached --quiet; then
+            echo "No cache changes to push."
+          else
+            git commit -m "Update feed cache"
+            git push origin HEAD:cache
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

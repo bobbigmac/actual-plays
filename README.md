@@ -39,6 +39,30 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
    * routes internally to show “episode view” without needing dedicated pages
    * lazily loads the search index JSON when needed
 
+## Quick start (local)
+
+1. Edit `site.json` (site title/base path) and `feeds.json` (feed list).
+2. (Optional but recommended) Install JS deps for better tagging:
+
+   * `npm install --no-package-lock`
+3. Update the cache:
+
+   * `npm run update`
+4. Build static output:
+
+   * `npm run build`
+5. Preview locally:
+
+   * `npm run serve` (Vite, auto-reloads on changes)
+
+Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically when you edit `site/assets/`, `site/templates/`, `scripts/`, `site.json`, etc. Use `npm run dev:force` to bypass cooldowns.
+
+Note: `cache/` is gitignored for local development. The GitHub Action persists it to a separate `cache` branch so conditional fetch headers (etag/last-modified) survive across runs.
+
+Offline/dev tip: use `feeds.sample.json` via `python3 -m scripts.update_feeds --feeds feeds.sample.json` to test without hitting the network.
+
+The generated site is a basic PWA (manifest + service worker) and stores per-episode playback progress + “continue listening” history in the browser.
+
 ## Data storage: “retagged feed” markdown
 
 Each podcast feed has one canonical cache file, updated in-place. This keeps diffs readable and avoids generating thousands of small files.
@@ -141,9 +165,7 @@ Baseline plan:
 
 Library choice:
 
-* Start with something like `compromise` for light NER-ish extraction.
-* Evaluate results on real feed samples before adding complexity.
-* If compromise is too noisy, we keep rules simple rather than building a heavy parser stack.
+* Start with lightweight heuristics (regex + filtering) and iterate only if needed.
 
 Reliability stance:
 
@@ -165,25 +187,22 @@ This keeps Action runtime predictable and fits within normal GitHub Pages usage.
 
 ## Implementation outline
 
-* `feeds.yaml`: configured RSS URLs + optional scheduling hints
+* `feeds.json`: configured RSS/Atom URLs + basic updater defaults
+* `site.json`: site title/description + `base_path` for GitHub Pages subpaths
 * `cache/feeds/*.md`: one markdown cache per feed (retagged representation)
 * `cache/state.json`: last checked + etag/last-modified + cooldown bookkeeping
-  - Cache/data should probably be on a branch, on the action step, not sure if/how that works
-* `scripts/update-feeds.mjs`:
+* `scripts/update_feeds.py`:
   * fetch, diff, update cache markdown
-  * run tagging on new/changed episodes, index and connect/graph links
-* `scripts/ingest-podcast.mjs`:
-  * Build the html pages from the markdown
-* `scripts/build-html.mjs`:
-
+  * run “good enough” tagging (speakers/topics) for cross-feed linking
+* `scripts/build_site.py`:
   * render podcast pages from cached markdown
-  * optionally render speaker/topic aggregate pages
-  * emit `site/index.json` for search/recs
+  * render speaker aggregate pages
+  * emit `dist/index.json` for lazy search
 
 * GitHub Action:
   * scheduled + manual trigger
-  * run update script
-  * if repo changed, run build and push to Pages branch
+  * runs `scripts/update_feeds.py`, then `scripts/build_site.py`
+  * deploys `dist/` to GitHub Pages
 
 ## Future ideas (deliberately not in scope now)
 
