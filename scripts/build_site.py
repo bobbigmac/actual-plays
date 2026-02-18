@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Any
 
 from scripts.shared import REPO_ROOT, read_json, slugify, write_json
+from scripts.shared import sanitize_speakers, sanitize_topics
 
 
 def _parse_args() -> argparse.Namespace:
@@ -79,6 +80,13 @@ def _snippet(text: str, *, limit: int = 320) -> str:
     if len(text) <= limit:
         return text
     return text[:limit].rstrip() + "…"
+
+
+def _hue_from_slug(slug: str) -> int:
+    total = 0
+    for ch in slug:
+        total = (total + ord(ch)) % 360
+    return total
 
 
 def _write_page(
@@ -185,6 +193,9 @@ def main() -> int:
                 }
             )
             continue
+        for ep in feed.get("episodes") or []:
+            ep["speakers"] = sanitize_speakers(ep.get("speakers"))
+            ep["topics"] = sanitize_topics(ep.get("topics"))
         feeds.append(feed)
 
     # Build speaker index.
@@ -236,16 +247,29 @@ def main() -> int:
         slug = str(feed.get("slug") or "")
         title = _esc(str(feed.get("title") or slug))
         desc = _esc(str(feed.get("description") or ""))
+        image_url = str(feed.get("image_url") or "").strip()
+        hue = _hue_from_slug(slug)
+        initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
         missing = feed.get("missing_cache")
         missing_note = (
             '<div class="muted">No cache yet (run update script / wait for Action).</div>' if missing else ""
         )
+        cover = (
+            f'<img src="{_esc(image_url)}" alt="" loading="lazy" />'
+            if image_url
+            else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
+        )
         feed_cards.append(
             f"""
-            <section class="card">
-              <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
-              <div class="muted">{desc}</div>
-              {missing_note}
+            <section class="card feed-card" data-feed-slug="{_esc(slug)}">
+              <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
+                {cover}
+              </a>
+              <div class="feed-body">
+                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                <div class="muted feed-desc">{desc}</div>
+                {missing_note}
+              </div>
             </section>
             """.strip()
         )
@@ -262,9 +286,21 @@ def main() -> int:
         url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
         recent_items.append(
             f"""
-            <li class="episode-row" data-episode-id="{_esc(episode_id)}">
-              <a href="{_esc(url)}">{title}</a>
-              <span class="muted">({feed_title} · {date})</span>
+            <li class="episode-row" data-episode-id="{_esc(episode_id)}"
+              data-feed-slug="{_esc(feed_slug)}"
+              data-episode-key="{_esc(key)}"
+              data-episode-title="{title}"
+              data-episode-date="{date}"
+              data-feed-title="{feed_title}">
+              <div class="row-main">
+                <a href="{_esc(url)}">{title}</a>
+                <span class="muted">({feed_title} · {date})</span>
+              </div>
+              <div class="row-actions">
+                <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
+                <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                <button class="btn btn-sm" type="button" data-action="played">Played</button>
+              </div>
               <div class="mini-progress">
                 <div class="mini-progress-bar" data-progress-bar></div>
               </div>
@@ -276,13 +312,38 @@ def main() -> int:
     content = f"""
     <h1>{_esc(site_cfg.get("title") or "Podcast Index")}</h1>
     <p class="muted">{_esc(site_cfg.get("description") or "")}</p>
-    <div class="grid">
-      {"".join(feed_cards)}
+    <div class="home-layout">
+      <aside class="home-side">
+        <section class="card panel" id="home-history">
+          <div class="panel-head">
+            <h2>History</h2>
+          </div>
+          <div class="muted" data-empty>Nothing yet.</div>
+          <ul class="list" data-history-list></ul>
+        </section>
+        <section class="card panel" id="home-queue">
+          <div class="panel-head">
+            <h2>Queue</h2>
+          </div>
+          <div class="muted" data-empty>Queue is empty.</div>
+          <ul class="list" data-queue-list></ul>
+        </section>
+        <section class="card panel" id="home-latest">
+          <div class="panel-head">
+            <h2>Latest</h2>
+          </div>
+          <ul class="list" data-latest-list>
+            {"".join(recent_items) if recent_items else "<li class=\"muted\">No episodes yet.</li>"}
+          </ul>
+        </section>
+      </aside>
+      <section class="home-main">
+        <h2>Podcasts</h2>
+        <div class="grid feed-grid">
+          {"".join(feed_cards)}
+        </div>
+      </section>
     </div>
-    <h2>Recent episodes</h2>
-    <ul class="list">
-      {"".join(recent_items) if recent_items else "<li class=\"muted\">No episodes yet.</li>"}
-    </ul>
     """.strip()
     _write_page(
         base_template=base_template,
@@ -291,6 +352,31 @@ def main() -> int:
         site_cfg=site_cfg,
         page_title=str(site_cfg.get("title") or "Podcast Index"),
         page_description=str(site_cfg.get("description") or ""),
+        content_html=content,
+    )
+
+    # Search page (rendered client-side from index.json).
+    content = """
+    <h1>Search</h1>
+    <section class="card search-page">
+      <div class="search-row">
+        <input id="search-input" type="search" placeholder="Search episodes (title, speakers)..." autocomplete="off" />
+      </div>
+      <div class="modal-filters">
+        <label><input id="search-include-played" type="checkbox" checked /> Include played</label>
+        <label><input id="search-played-normal" type="checkbox" /> Played in normal order</label>
+      </div>
+      <div id="search-status" class="muted">Type to search.</div>
+      <ul id="search-results" class="list search-results"></ul>
+    </section>
+    """.strip()
+    _write_page(
+        base_template=base_template,
+        out_path=dist_dir / "search" / "index.html",
+        base_path=base_path,
+        site_cfg=site_cfg,
+        page_title=f"Search — {site_cfg.get('title') or ''}".strip(" —"),
+        page_description="Search episodes",
         content_html=content,
     )
 
@@ -341,7 +427,11 @@ def main() -> int:
                   data-episode-date="{date}"
                   data-episode-audio="{audio}"
                   data-episode-link="{link}">
-                  <button class="play" type="button" data-play>Play</button>
+                  <div class="ep-actions">
+                    <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
+                    <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                    <button class="btn btn-sm" type="button" data-action="played">Played</button>
+                  </div>
                   <div class="meta">
                     <div class="title">{ep_title}</div>
                     <div class="sub muted">{date} {dur_html} {ext_link_html}</div>
@@ -367,61 +457,15 @@ def main() -> int:
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>
-        <section class="player card" data-player>
-          <audio id="player" preload="metadata"></audio>
-          <div class="player-top">
-            <button class="btn-primary" type="button" id="btn-playpause" aria-label="Play/Pause">Play</button>
-            <button class="btn" type="button" id="btn-back15" aria-label="Back 15 seconds">-15</button>
-            <button class="btn" type="button" id="btn-fwd30" aria-label="Forward 30 seconds">+30</button>
-            <div class="player-meta">
-              <div id="now-title" class="now-title">Select an episode to play.</div>
-              <div id="now-sub" class="now-sub muted"></div>
-            </div>
-            <select class="speed" id="speed" aria-label="Playback speed">
-              <option value="0.75">0.75x</option>
-              <option value="1">1x</option>
-              <option value="1.25">1.25x</option>
-              <option value="1.5">1.5x</option>
-              <option value="1.75">1.75x</option>
-              <option value="2">2x</option>
-              <option value="2.5">2.5x</option>
-              <option value="3">3x</option>
-              <option value="4">4x</option>
-              <option value="5">5x</option>
-            </select>
+        <section class="card bulk-actions" data-feed-page="{_esc(slug)}">
+          <div class="panel-head">
+            <h2>Bulk actions</h2>
           </div>
-          <div class="player-scrub">
-            <span class="time muted" id="t-elapsed">0:00</span>
-            <input id="scrub" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek" />
-            <span class="time muted" id="t-duration">0:00</span>
+          <div class="muted">Uses the selected episode (from the URL or currently playing) as the pivot.</div>
+          <div class="row-actions bulk-buttons">
+            <button class="btn btn-sm" type="button" data-bulk="older">Set all older as played</button>
+            <button class="btn btn-sm" type="button" data-bulk="newer">Set all newer as played</button>
           </div>
-          <details class="player-audio">
-            <summary class="muted">Audio settings</summary>
-            <div class="audio-controls">
-              <label class="toggle">
-                <input id="preserve-pitch" type="checkbox" checked />
-                Preserve pitch
-              </label>
-              <div class="eq-row">
-                <label class="slider">
-                  Gain <span class="muted" id="gain-val">0 dB</span>
-                  <input id="gain" type="range" min="-12" max="12" value="0" step="1" />
-                </label>
-                <label class="slider">
-                  Bass <span class="muted" id="eq-low-val">0 dB</span>
-                  <input id="eq-low" type="range" min="-12" max="12" value="0" step="1" />
-                </label>
-                <label class="slider">
-                  Mid <span class="muted" id="eq-mid-val">0 dB</span>
-                  <input id="eq-mid" type="range" min="-12" max="12" value="0" step="1" />
-                </label>
-                <label class="slider">
-                  Treble <span class="muted" id="eq-high-val">0 dB</span>
-                  <input id="eq-high" type="range" min="-12" max="12" value="0" step="1" />
-                </label>
-              </div>
-            </div>
-          </details>
         </section>
         <ul class="episodes">
           {"".join(episodes_html) if episodes_html else '<li class="muted">No cached episodes yet.</li>'}
@@ -483,9 +527,21 @@ def main() -> int:
             url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
             items.append(
                 f"""
-                <li class="episode-row" data-episode-id="{_esc(episode_id)}">
-                  <a href="{_esc(url)}">{title}</a>
-                  <span class="muted">({feed_title} · {date})</span>
+                <li class="episode-row" data-episode-id="{_esc(episode_id)}"
+                  data-feed-slug="{_esc(feed_slug)}"
+                  data-episode-key="{_esc(key)}"
+                  data-episode-title="{title}"
+                  data-episode-date="{date}"
+                  data-feed-title="{feed_title}">
+                  <div class="row-main">
+                    <a href="{_esc(url)}">{title}</a>
+                    <span class="muted">({feed_title} · {date})</span>
+                  </div>
+                  <div class="row-actions">
+                    <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
+                    <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                    <button class="btn btn-sm" type="button" data-action="played">Played</button>
+                  </div>
                   <div class="mini-progress">
                     <div class="mini-progress-bar" data-progress-bar></div>
                   </div>

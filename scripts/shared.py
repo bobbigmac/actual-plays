@@ -168,6 +168,28 @@ def _find_first_attr_url(elem: ET.Element, names: Iterable[str], attr: str) -> s
     return None
 
 
+def _find_rss_image_url(channel: ET.Element) -> str | None:
+    # Prefer iTunes-style <itunes:image href="..."> (local name is "image").
+    url = _find_first_attr_url(channel, ("image",), "href")
+    if url:
+        return url.strip()
+
+    # RSS-style:
+    # <image>
+    #   <url>https://...</url>
+    # </image>
+    for child in list(channel):
+        if _local_name(child.tag) != "image":
+            continue
+        for sub in list(child):
+            if _local_name(sub.tag) != "url":
+                continue
+            text = (sub.text or "").strip()
+            if text:
+                return text
+    return None
+
+
 def parse_feed(xml_bytes: bytes, *, source_url: str) -> dict[str, Any]:
     root = ET.fromstring(xml_bytes)
     root_name = _local_name(root.tag).lower()
@@ -192,7 +214,7 @@ def _parse_rss(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     title = _find_child_text(channel, ("title",)) or source_url
     link = _find_child_text(channel, ("link",)) or source_url
     description = _find_child_text(channel, ("description", "subtitle")) or ""
-    image_url = _find_first_attr_url(channel, ("image", "itunes:image"), "href")
+    image_url = _find_rss_image_url(channel)
 
     items = []
     for item in list(channel):
@@ -281,6 +303,13 @@ def _parse_atom(root: ET.Element, *, source_url: str) -> dict[str, Any]:
             continue
         items.append(_parse_atom_entry(entry))
 
+    image_url = None
+    logo = (_find_child_text(root, ("logo", "icon")) or "").strip()
+    if logo:
+        image_url = logo
+    else:
+        image_url = _find_first_attr_url(root, ("image",), "href")
+
     return {
         "version": 1,
         "type": "atom",
@@ -288,7 +317,7 @@ def _parse_atom(root: ET.Element, *, source_url: str) -> dict[str, Any]:
         "title": title,
         "link": link,
         "description": description,
-        "image_url": None,
+        "image_url": image_url.strip() if isinstance(image_url, str) and image_url.strip() else None,
         "items": items,
     }
 
@@ -336,6 +365,7 @@ def _parse_rdf(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     title = strip_html(_find_child_text(channel, ("title",)) if channel is not None else None) or source_url
     link = _find_child_text(channel, ("link",)) if channel is not None else None
     description = strip_html(_find_child_text(channel, ("description",)) if channel is not None else None) or ""
+    image_url = _find_rss_image_url(channel) if channel is not None else None
 
     items = []
     for item in list(root):
@@ -350,7 +380,7 @@ def _parse_rdf(root: ET.Element, *, source_url: str) -> dict[str, Any]:
         "title": title,
         "link": link or source_url,
         "description": description,
-        "image_url": None,
+        "image_url": image_url.strip() if isinstance(image_url, str) and image_url.strip() else None,
         "items": items,
     }
 
@@ -426,14 +456,17 @@ def extract_speakers(text: str) -> list[str]:
         if not m:
             continue
         group = m.group(m.lastindex or 1)
-        group = re.split(r"(?:\s+(?:-|–|—|\||:)\s+|[.\n])", group, maxsplit=1)[0]
+        # Cut off common "descriptor" separators that often follow the guest name.
+        # Include ellipsis used by some feeds in descriptions ("…").
+        group = re.split(r"(?:\s+(?:-|–|—|\||:)\s+|[.\n\u2026])", group, maxsplit=1)[0]
         candidates.extend(_split_name_list(group))
 
-    # Fallback: scan for capitalized 2-4 word sequences in the title line only.
-    title_line = normalize_ws(raw.splitlines()[0] if raw.splitlines() else raw)
-    head = title_line[:220]
-    for m in re.finditer(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})\b", head):
-        candidates.append(m.group(1))
+    if not candidates:
+        # Fallback: scan for capitalized 2-4 word sequences in the title line only.
+        title_line = normalize_ws(raw.splitlines()[0] if raw.splitlines() else raw)
+        head = title_line[:220]
+        for m in re.finditer(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})\b", head):
+            candidates.append(m.group(1))
 
     blocked_words = {
         "Featuring",
@@ -490,7 +523,7 @@ def _split_name_list(value: str) -> list[str]:
         if not p:
             continue
         # Strip trailing punctuation.
-        p = re.sub(r"[.!?;:]+$", "", p).strip()
+        p = re.sub(r"[.!?;:\u2026]+$", "", p).strip()
         out.append(p)
     return out
 
@@ -548,6 +581,23 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
         t = re.sub(r"^[^\w]+|[^\w]+$", "", t, flags=re.UNICODE)
         return t
 
+    def _clean_candidate(value: str) -> str:
+        # Normalize dashes to hyphen, and treat "dash with spaces" as a hard separator.
+        s = value.replace("–", "-").replace("—", "-").replace("‑", "-").replace("‐", "-")
+        s = re.split(r"(?:\.\.\.+|\u2026)", s, maxsplit=1)[0]
+        # Names should not contain hyphens with spaces around them; treat as a word separator.
+        s = re.sub(r"\s+-\s+", " ", s)
+        # Replace punctuation with whitespace; keep hyphen/apostrophes.
+        buf = []
+        for ch in s:
+            if ch.isalpha() or ch in (" ", "-", "'", "’"):
+                buf.append(ch)
+            else:
+                buf.append(" ")
+        s = normalize_ws("".join(buf))
+        s = s.strip(strip_chars)
+        return s
+
     def _token_ok(t: str) -> bool:
         if not t:
             return False
@@ -577,6 +627,7 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
 
     for raw in names:
         s = normalize_ws(strip_html(str(raw)))
+        s = _clean_candidate(s)
         s = s.strip(strip_chars)
         s = re.sub(r"^[\s\-\u2013\u2014|:]+", "", s)
         s = re.sub(r"[\s\-\u2013\u2014|:]+$", "", s)

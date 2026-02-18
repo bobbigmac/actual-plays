@@ -36,6 +36,21 @@ CASES = [
         "title": "2024 Adam talks about things",
         "description": "",
     },
+    {
+        "id": "trailing-punct-1",
+        "title": "Episode 12 — With Lou Beckett.",
+        "description": "A chat with Lou Beckett. about comedy writing.",
+    },
+    {
+        "id": "trailing-punct-2",
+        "title": "Episode 13 — With Ray Bradshaw..",
+        "description": "Ray Bradshaw.. joins us for a chat.",
+    },
+    {
+        "id": "ellipsis-descriptor",
+        "title": "Episode 14 — With Josh Widdicombe… Valentines Special",
+        "description": "",
+    },
 ]
 
 
