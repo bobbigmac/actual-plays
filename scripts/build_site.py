@@ -300,6 +300,7 @@ def main() -> int:
                 <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                 <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
                 <button class="btn btn-sm" type="button" data-action="played">Played</button>
+                <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
               </div>
               <div class="mini-progress">
                 <div class="mini-progress-bar" data-progress-bar></div>
@@ -431,6 +432,7 @@ def main() -> int:
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                     <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
                     <button class="btn btn-sm" type="button" data-action="played">Played</button>
+                    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
                   </div>
                   <div class="meta">
                     <div class="title">{ep_title}</div>
@@ -541,6 +543,7 @@ def main() -> int:
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                     <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
                     <button class="btn btn-sm" type="button" data-action="played">Played</button>
+                    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
                   </div>
                   <div class="mini-progress">
                     <div class="mini-progress-bar" data-progress-bar></div>

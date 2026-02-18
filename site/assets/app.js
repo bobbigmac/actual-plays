@@ -401,6 +401,7 @@
           '<button class="btn-primary btn-sm" type="button" data-action="play">Resume</button>' +
           '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
           '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
+          '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
           "</div>" +
           '<div class="mini-progress"><div class="mini-progress-bar" data-progress-bar></div></div>' +
           '<div class="mini-progress-text muted" data-progress-text></div>' +
@@ -454,6 +455,7 @@
           '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
           '<button class="btn btn-sm" type="button" data-action="remove">Remove</button>' +
           '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
+          '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
           "</div>" +
           "</li>"
         );
@@ -1044,6 +1046,14 @@
 
     var basePath = getBasePath();
 
+    function playFirstResult() {
+      var first = results.querySelector ? results.querySelector("[data-episode-id]") : null;
+      if (!first) return;
+      var meta = readEpisodeMetaFromElement(first);
+      if (!meta) return;
+      if (window.__AP_PLAYER__ && window.__AP_PLAYER__.playMeta) window.__AP_PLAYER__.playMeta(meta);
+    }
+
     function handler() {
       var q = input.value.trim().toLowerCase();
       setQs("q", q || null);
@@ -1123,6 +1133,7 @@
               '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
               '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
               '<button class="btn btn-sm" type="button" data-action="played">Played</button>' +
+              '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
               "</div>" +
               '<div class="mini-progress"><div class="mini-progress-bar" data-progress-bar></div></div>' +
               '<div class="mini-progress-text muted" data-progress-text></div>' +
@@ -1139,18 +1150,26 @@
       if (includePlayed) includePlayed.onchange = handler;
       if (playedNormal) playedNormal.onchange = handler;
       input.oninput = handler;
+      input.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          playFirstResult();
+        }
+      });
     }
 
     // Initial load from ?q=
     var q0 = qs("q");
     if (q0 && input.value !== q0) input.value = q0;
 
+    // Focus immediately so typing works even while the index is loading.
+    focusSearch();
+
     // Warm index.
     status.textContent = "Loading index…";
     loadIndex()
       .then(function () {
         handler();
-        focusSearch();
       })
       .catch(function (err) {
         status.textContent = String(err || "Index load failed");
@@ -1623,6 +1642,48 @@
   }
 
   function initEpisodeActions() {
+    function swRequest(msg) {
+      return new Promise(function (resolve) {
+        if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
+          resolve({ ok: false, error: "Service worker not active (install the PWA / refresh on HTTPS)." });
+          return;
+        }
+        try {
+          var ch = new MessageChannel();
+          ch.port1.onmessage = function (e) {
+            resolve((e && e.data) || { ok: false, error: "No response" });
+          };
+          navigator.serviceWorker.controller.postMessage(msg, [ch.port2]);
+        } catch (e) {
+          resolve({ ok: false, error: String(e || "SW message failed") });
+        }
+      });
+    }
+
+    function mediaCacheKey(url) {
+      try {
+        return new Request(String(url || ""), { method: "GET", mode: "no-cors", credentials: "omit", redirect: "follow" });
+      } catch (_e) {
+        return null;
+      }
+    }
+
+    function isMediaCached(url) {
+      if (!("caches" in window)) return Promise.resolve(false);
+      var req = mediaCacheKey(url);
+      if (!req) return Promise.resolve(false);
+      return window.caches
+        .open("ap-media-v1")
+        .then(function (cache) {
+          return cache.match(req).then(function (resp) {
+            return Boolean(resp);
+          });
+        })
+        .catch(function () {
+          return false;
+        });
+    }
+
     document.addEventListener("click", function (e) {
       var t = e.target;
       if (!t || !t.closest) return;
@@ -1671,6 +1732,33 @@
 
       if (action === "played") {
         markPlayed(meta.id);
+        return;
+      }
+
+      if (action === "offline") {
+        btn.disabled = true;
+        var prevText = btn.textContent;
+        btn.textContent = "Offline…";
+        resolveEpisodeMeta(meta)
+          .then(function (full) {
+            if (!full.a) throw new Error("No audio URL");
+            return isMediaCached(full.a).then(function (cached) {
+              var act = cached ? "remove" : "cache";
+              return swRequest({ type: "ap-media", action: act, url: full.a }).then(function (res) {
+                return { res: res, cached: cached };
+              });
+            });
+          })
+          .then(function (x) {
+            if (!x || !x.res || !x.res.ok) throw new Error((x && x.res && x.res.error) || "offline cache failed");
+            btn.textContent = x.cached ? "Offline" : "Offline ✓";
+          })
+          .catch(function () {
+            btn.textContent = prevText || "Offline";
+          })
+          .finally(function () {
+            btn.disabled = false;
+          });
         return;
       }
     });
