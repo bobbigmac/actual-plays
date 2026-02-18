@@ -1,8 +1,5 @@
 from __future__ import annotations
 
-import json
-import shutil
-import subprocess
 import sys
 
 from scripts.shared import extract_speakers, extract_topics, sanitize_speakers, sanitize_topics
@@ -42,30 +39,37 @@ CASES = [
 ]
 
 
-def _run_compromise(cases: list[dict]) -> dict[str, dict] | None:
-    node = shutil.which("node")
-    if not node:
-        return None
-    proc = subprocess.run(
-        [node, "scripts/tag_compromise.mjs"],
-        input=json.dumps({"items": [{"id": c["id"], "title": c["title"], "description": c["description"]} for c in cases]}).encode(
-            "utf-8"
-        ),
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        check=False,
-        timeout=30,
-    )
-    if proc.returncode != 0:
+def _run_spacy(cases: list[dict]) -> dict[str, dict] | None:
+    try:
+        import spacy  # type: ignore
+    except Exception:
         return None
     try:
-        return json.loads(proc.stdout.decode("utf-8"))
+        nlp = spacy.load("en_core_web_sm", disable=["parser"])
     except Exception:
         return None
 
+    ids = [c["id"] for c in cases]
+    texts = [f"{c['title']}\n{c['description']}"[:8000] for c in cases]
+    title_texts = [c["title"] for c in cases]
+
+    docs = list(nlp.pipe(texts, batch_size=16))
+    title_docs = list(nlp.pipe(title_texts, batch_size=32))
+
+    out: dict[str, dict] = {}
+    for cid, doc, tdoc in zip(ids, docs, title_docs, strict=False):
+        speakers = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+        topics = [
+            (tok.lemma_ or tok.text).lower()
+            for tok in tdoc
+            if tok.pos_ in ("NOUN", "PROPN") and tok.is_alpha and not tok.is_stop
+        ]
+        out[cid] = {"speakers": sanitize_speakers(speakers), "topics": sanitize_topics(topics)}
+    return out
+
 
 def main() -> int:
-    comp = _run_compromise(CASES)
+    spacy_out = _run_spacy(CASES)
     failed = False
 
     for c in CASES:
@@ -73,22 +77,16 @@ def main() -> int:
         py_speakers = sanitize_speakers(extract_speakers(combined))
         py_topics = sanitize_topics(extract_topics(c["title"]))
 
-        node_speakers = []
-        node_topics = []
-        if comp and c["id"] in comp:
-            node_speakers = sanitize_speakers(comp[c["id"]].get("speakers"))
-            node_topics = sanitize_topics(comp[c["id"]].get("topics"))
-
         print(f"\n== {c['id']} ==")
         print("title:", c["title"])
         print("py speakers:", py_speakers)
         print("py topics  :", py_topics)
-        if comp:
-            print("node speakers:", node_speakers)
-            print("node topics  :", node_topics)
+        if spacy_out and c["id"] in spacy_out:
+            print("spacy speakers:", spacy_out[c["id"]].get("speakers"))
+            print("spacy topics  :", spacy_out[c["id"]].get("topics"))
 
         # Minimal invariants: no absurd lengths or punctuation fragments.
-        for name in py_speakers + node_speakers:
+        for name in py_speakers + (spacy_out[c["id"]].get("speakers") if spacy_out and c["id"] in spacy_out else []):
             if len(name) > 45:
                 print("[fail] speaker too long:", name, file=sys.stderr)
                 failed = True

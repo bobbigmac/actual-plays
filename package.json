@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "compromise": "^14.14.4"
   },
   "devDependencies": {
     "vite": "^5.4.0"

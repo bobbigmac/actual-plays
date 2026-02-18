@@ -42,9 +42,10 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
 ## Quick start (local)
 
 1. Edit `site.json` (site title/base path) and `feeds.json` (feed list).
-2. (Optional but recommended) Install JS deps for better tagging:
+2. Install dev deps (Vite) and optional NLP (better name detection):
 
-   * `npm install --no-package-lock`
+   * `npm install --no-package-lock` (for `npm run serve` / `npm run dev`)
+   * Optional (recommended): `python3 -m pip install -r requirements.txt && python3 -m spacy download en_core_web_sm`
 3. Update the cache:
 
    * `npm run update`

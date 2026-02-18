@@ -28,18 +28,18 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
 
-      - name: Install JS deps (compromise)
-        run: npm install --no-package-lock --silent
+      - name: Install Python deps (spaCy)
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
 
       - name: Restore cached state (cache branch)
         run: |

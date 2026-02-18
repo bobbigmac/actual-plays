@@ -2,14 +2,13 @@ from __future__ import annotations
 
 import argparse
 import json
-import shutil
-import subprocess
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
+from threading import Lock
 
 from scripts.shared import (
     REPO_ROOT,
@@ -142,39 +141,100 @@ def _render_cache_markdown(
     return "\n".join(lines)
 
 
-def _try_tag_with_compromise(items: list[dict], *, quiet: bool) -> dict[str, dict] | None:
+_SPACY_LOCK = Lock()
+_SPACY_NLP = None
+_SPACY_UNAVAILABLE = False
+
+
+def _get_spacy_nlp(*, quiet: bool):
+    global _SPACY_NLP, _SPACY_UNAVAILABLE
+    if _SPACY_UNAVAILABLE:
+        return None
+    if _SPACY_NLP is not None:
+        return _SPACY_NLP
+    with _SPACY_LOCK:
+        if _SPACY_NLP is not None:
+            return _SPACY_NLP
+        if _SPACY_UNAVAILABLE:
+            return None
+        try:
+            import spacy  # type: ignore
+        except Exception:
+            if not quiet:
+                print(
+                    "[warn] spaCy not installed; falling back to heuristic tagging. "
+                    "For better name detection: install requirements + en_core_web_sm.",
+                    file=sys.stderr,
+                )
+            _SPACY_UNAVAILABLE = True
+            return None
+
+        try:
+            _SPACY_NLP = spacy.load("en_core_web_sm", disable=["parser"])
+            return _SPACY_NLP
+        except Exception as e:
+            if not quiet:
+                print(
+                    "[warn] spaCy not available (install requirements + model): "
+                    f"{e}. Falling back to heuristic tagging.",
+                    file=sys.stderr,
+                )
+            _SPACY_UNAVAILABLE = True
+            return None
+
+
+def _try_tag_with_spacy(items: list[dict], *, quiet: bool) -> dict[str, dict] | None:
     """
-    Runs `node scripts/tag_compromise.mjs` to extract speakers/topics with compromise.
+    Uses spaCy NER/POS (if installed) to extract speakers/topics.
     Returns a dict: episode_key -> {speakers: [...], topics: [...]} or None if unavailable.
     """
-    node = shutil.which("node")
-    script_path = REPO_ROOT / "scripts" / "tag_compromise.mjs"
-    if not node or not script_path.exists():
-        return None
-    try:
-        proc = subprocess.run(
-            [node, str(script_path)],
-            input=json.dumps({"items": items}, ensure_ascii=False).encode("utf-8"),
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            check=False,
-            cwd=str(REPO_ROOT),
-            timeout=30,
-        )
-    except Exception as e:
-        if not quiet:
-            print(f"[warn] compromise tagger failed to run: {e}", file=sys.stderr)
+    nlp = _get_spacy_nlp(quiet=quiet)
+    if nlp is None:
         return None
 
-    if proc.returncode != 0:
-        if not quiet:
-            err = proc.stderr.decode("utf-8", errors="replace").strip()
-            print(f"[warn] compromise tagger non-zero exit ({proc.returncode}): {err}", file=sys.stderr)
-        return None
-    try:
-        return json.loads(proc.stdout.decode("utf-8"))
-    except Exception:
-        return None
+    ids: list[str] = []
+    texts: list[str] = []
+    titles: list[str] = []
+    for item in items:
+        eid = str(item.get("id") or "")
+        title = str(item.get("title") or "")
+        desc = str(item.get("description") or "")
+        if not eid:
+            continue
+        ids.append(eid)
+        titles.append(title)
+        # Keep full description, but cap to avoid pathological feeds.
+        combined = f"{title}\n{desc}"
+        texts.append(combined[:8000])
+
+    out: dict[str, dict] = {}
+
+    with _SPACY_LOCK:
+        docs = list(nlp.pipe(texts, batch_size=24))
+        title_docs = list(nlp.pipe(titles, batch_size=48))
+
+    for eid, doc, tdoc in zip(ids, docs, title_docs, strict=False):
+        speakers = []
+        for ent in getattr(doc, "ents", ()):
+            if getattr(ent, "label_", None) == "PERSON":
+                speakers.append(ent.text)
+
+        topics = []
+        for tok in tdoc:
+            pos = getattr(tok, "pos_", "")
+            if pos not in ("NOUN", "PROPN"):
+                continue
+            if getattr(tok, "is_stop", False):
+                continue
+            if not getattr(tok, "is_alpha", False):
+                continue
+            lemma = (getattr(tok, "lemma_", "") or tok.text or "").lower()
+            if not lemma or lemma == "-pron-":
+                continue
+            topics.append(lemma)
+
+        out[eid] = {"speakers": speakers, "topics": topics}
+    return out
 
 
 @dataclass(frozen=True)
@@ -278,8 +338,8 @@ def _process_one_feed(
             }
         )
 
-    compromise_items = [{"id": ep["key"], "title": ep["title"], "description": ep["description"]} for ep in pre]
-    compromise_tags = _try_tag_with_compromise(compromise_items, quiet=quiet)
+    spacy_items = [{"id": ep["key"], "title": ep["title"], "description": ep["description"]} for ep in pre]
+    spacy_tags = _try_tag_with_spacy(spacy_items, quiet=quiet)
 
     episodes = []
     for ep in pre:
@@ -288,7 +348,7 @@ def _process_one_feed(
         description = ep["description"]
         combined_text = f"{title}\n{description}"
 
-        tags = (compromise_tags or {}).get(key) if compromise_tags else None
+        tags = (spacy_tags or {}).get(key) if spacy_tags else None
         speakers = tags.get("speakers") if isinstance(tags, dict) else None
         topics = tags.get("topics") if isinstance(tags, dict) else None
         if not isinstance(speakers, list) or not speakers:
