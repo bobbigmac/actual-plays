@@ -248,6 +248,31 @@ a:hover {
   font-size: 12px;
 }
 
+.ext {
+  margin-left: 8px;
+}
+
+.desc {
+  margin-top: 8px;
+  font-size: 13px;
+  color: rgba(232, 232, 234, 0.9);
+}
+
+.desc-more {
+  margin-top: 6px;
+}
+
+.desc-more summary {
+  cursor: pointer;
+  user-select: none;
+}
+
+.desc-full {
+  margin-top: 8px;
+  font-size: 13px;
+  white-space: pre-wrap;
+}
+
 .site-footer {
   border-top: 1px solid var(--border);
   margin-top: 28px;

@@ -72,6 +72,15 @@ def _load_feed_cache_json(md_path: Path) -> dict[str, Any] | None:
         return None
 
 
+def _snippet(text: str, *, limit: int = 320) -> str:
+    text = (text or "").strip()
+    if not text:
+        return ""
+    if len(text) <= limit:
+        return text
+    return text[:limit].rstrip() + "…"
+
+
 def _write_page(
     *,
     base_template: str,
@@ -297,6 +306,9 @@ def main() -> int:
             date = _esc(str((ep.get("published_at") or "")[:10]))
             audio = _esc(str(ep.get("enclosure_url") or ""))
             link = _esc(str(ep.get("link") or ""))
+            desc_full = str(ep.get("description") or "")
+            desc_snip = _snippet(desc_full, limit=360)
+            dur = _esc(str(ep.get("itunes_duration") or ""))
             speakers = ep.get("speakers") or []
             speaker_links = []
             for sp in speakers:
@@ -305,6 +317,10 @@ def main() -> int:
                     f'<a class="tag" href="{_esc(_href(base_path, f"speakers/{sp_slug}/"))}">{_esc(str(sp))}</a>'
                 )
             speakers_html = ("".join(speaker_links)) if speaker_links else '<span class="muted">—</span>'
+            ext_link_html = (
+                f'<a class="ext" href="{link}" rel="noopener" target="_blank">Open episode</a>' if link else ""
+            )
+            dur_html = f'<span class="muted">· {dur}</span>' if dur else ""
             episodes_html.append(
                 f"""
                 <li class="episode" id="e-{_esc(key)}" data-episode-id="{_esc(episode_id)}"
@@ -316,8 +332,13 @@ def main() -> int:
                   <button class="play" type="button" data-play>Play</button>
                   <div class="meta">
                     <div class="title">{ep_title}</div>
-                    <div class="sub muted">{date}</div>
+                    <div class="sub muted">{date} {dur_html} {ext_link_html}</div>
                     <div class="tags">{speakers_html}</div>
+                    <div class="desc">{_esc(desc_snip)}</div>
+                    <details class="desc-more">
+                      <summary class="muted">Show full description</summary>
+                      <div class="desc-full">{_esc(desc_full)}</div>
+                    </details>
                     <div class="mini-progress">
                       <div class="mini-progress-bar" data-progress-bar></div>
                     </div>

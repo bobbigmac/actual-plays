@@ -148,10 +148,14 @@ def _local_name(tag: str) -> str:
 
 
 def _find_child_text(elem: ET.Element, names: Iterable[str]) -> str | None:
+    wanted = set(names)
     for child in list(elem):
-        if _local_name(child.tag) in names:
-            if child.text:
-                return child.text
+        if _local_name(child.tag) in wanted:
+            # Some feeds use nested XHTML in <content>; itertext preserves it.
+            text = "".join(child.itertext()) if child is not None else ""
+            text = text.strip()
+            if text:
+                return text
     return None
 
 
@@ -213,7 +217,19 @@ def _parse_rss_item(item: ET.Element) -> dict[str, Any]:
     link = _find_child_text(item, ("link",))
     guid = _find_child_text(item, ("guid", "id"))
     pub_date = parse_rfc3339_or_rfc822_date(_find_child_text(item, ("pubDate", "published", "updated", "date")))
-    description = strip_html(_find_child_text(item, ("description", "summary", "content:encoded")) or "")
+    # Prefer the richest description we can find (content:encoded is commonly the long-form).
+    # Namespace local names: <content:encoded> -> "encoded", <itunes:summary> -> "summary".
+    desc_candidates = [
+        _find_child_text(item, ("encoded",)),
+        _find_child_text(item, ("summary",)),
+        _find_child_text(item, ("description",)),
+    ]
+    best = ""
+    for c in desc_candidates:
+        c = strip_html(c or "")
+        if len(c) > len(best):
+            best = c
+    description = best
 
     enclosure_url = None
     enclosure_type = None
@@ -230,6 +246,9 @@ def _parse_rss_item(item: ET.Element) -> dict[str, Any]:
         if _local_name(child.tag) == "duration":
             itunes_duration = child.text
             break
+
+    if (not link) and guid and guid.strip().lower().startswith(("http://", "https://")):
+        link = guid.strip()
 
     return {
         "title": title,
@@ -290,6 +309,9 @@ def _parse_atom_entry(entry: ET.Element) -> dict[str, Any]:
         if rel == "enclosure" and child.attrib.get("href"):
             enclosure_url = child.attrib.get("href")
             enclosure_type = child.attrib.get("type")
+
+    if (not link) and guid and guid.strip().lower().startswith(("http://", "https://")):
+        link = guid.strip()
 
     published_at = parse_rfc3339_or_rfc822_date(
         _find_child_text(entry, ("published", "updated", "pubDate", "date"))
@@ -442,6 +464,10 @@ def extract_speakers(text: str) -> list[str]:
             continue
         if re.search(r"https?://", c, flags=re.IGNORECASE):
             continue
+        if re.search(r"\d", c):
+            continue
+        if "/" in c or "@" in c:
+            continue
         # Avoid clearly "sentence fragments".
         if any(ch in c for ch in (".", "!", "?", "•", "…")):
             continue
@@ -501,29 +527,75 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
         return []
     out: list[str] = []
     seen = set()
+
+    strip_chars = " \t\r\n-–—|:;,.\"“”‘’'()[]{}<>•…"
+    allowed_inline = set(" -'’")
+
+    def _normalize_token(token: str) -> str:
+        t = token.strip(strip_chars)
+        # Drop lingering wrappers.
+        t = re.sub(r"^[^\w]+|[^\w]+$", "", t, flags=re.UNICODE)
+        return t
+
+    def _token_ok(t: str) -> bool:
+        if not t:
+            return False
+        if any(ch.isdigit() for ch in t):
+            return False
+        for ch in t:
+            if ch.isalpha() or ch in ("'", "’", "-"):
+                continue
+            return False
+        if t.lower() in _STOPWORDS:
+            return False
+        return True
+
+    def _tokens_ok(tokens: list[str]) -> bool:
+        if len(tokens) < 2 or len(tokens) > 4:
+            return False
+        if sum(len(t) for t in tokens) > 45:
+            return False
+        for t in tokens:
+            if not _token_ok(t):
+                return False
+        return True
+
     for raw in names:
         s = normalize_ws(strip_html(str(raw)))
+        s = s.strip(strip_chars)
         s = re.sub(r"^[\s\-\u2013\u2014|:]+", "", s)
         s = re.sub(r"[\s\-\u2013\u2014|:]+$", "", s)
         s = re.sub(r"^[^\w]+|[^\w]+$", "", s, flags=re.UNICODE)
+        s = re.sub(r"(’s|'s)$", "", s)
         if not s:
             continue
         if len(s) > 45:
             continue
-        parts = s.split()
-        if len(parts) < 2 or len(parts) > 4:
-            continue
-        if any(p.lower() in _STOPWORDS for p in parts):
-            continue
         if re.search(r"https?://", s, flags=re.IGNORECASE):
             continue
-        if any(ch in s for ch in (".", "!", "?", "•", "…", ":", "|", "—", "–", "(", ")", "[", "]", "{", "}")):
+
+        # First pass: strict validation on the string tokens.
+        parts = [_normalize_token(p) for p in s.split()]
+        parts = [p for p in parts if p]
+
+        if not _tokens_ok(parts):
+            # Salvage: if the candidate contains junk punctuation/descriptors, try the tail 2-4 tokens.
+            for n in (2, 3, 4):
+                if len(parts) >= n and _tokens_ok(parts[-n:]):
+                    parts = parts[-n:]
+                    break
+            else:
+                continue
+
+        # Final allowed-char check (spaces + hyphen/apostrophes only).
+        joined = " ".join(parts)
+        if any((not ch.isalpha()) and (ch not in allowed_inline) for ch in joined):
             continue
-        key = s.lower()
+        key = joined.lower()
         if key in seen:
             continue
         seen.add(key)
-        out.append(s)
+        out.append(joined)
     return out[:8]
 
 
