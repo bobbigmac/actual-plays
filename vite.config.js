@@ -35,6 +35,7 @@ function devBuilderPlugin() {
 
   let running = false;
   let queued = null;
+  let serverRef = null;
 
   async function buildSite({ alsoUpdateFeeds }) {
     if (running) {
@@ -45,9 +46,38 @@ function devBuilderPlugin() {
     running = true;
     try {
       if (alsoUpdateFeeds) {
+        serverRef?.ws?.send({
+          type: "custom",
+          event: "ap:status",
+          data: { stage: "update", status: "start" },
+        });
+        const t0 = Date.now();
         await run("python3", ["-m", "scripts.update_feeds", "--quiet"], { cwd: repoRoot });
+        serverRef?.ws?.send({
+          type: "custom",
+          event: "ap:status",
+          data: { stage: "update", status: "done", ms: Date.now() - t0 },
+        });
+      } else {
+        serverRef?.ws?.send({
+          type: "custom",
+          event: "ap:status",
+          data: { stage: "update", status: "skip" },
+        });
       }
+
+      serverRef?.ws?.send({
+        type: "custom",
+        event: "ap:status",
+        data: { stage: "build", status: "start" },
+      });
+      const t1 = Date.now();
       await run("python3", ["-m", "scripts.build_site", "--base-path", "/"], { cwd: repoRoot });
+      serverRef?.ws?.send({
+        type: "custom",
+        event: "ap:status",
+        data: { stage: "build", status: "done", ms: Date.now() - t1 },
+      });
     } finally {
       running = false;
       const next = queued;
@@ -69,6 +99,7 @@ function devBuilderPlugin() {
   return {
     name: "ap-dev-builder",
     configureServer(server) {
+      serverRef = server;
       const watch = [
         "site/assets/**",
         "site/templates/**",
@@ -85,7 +116,13 @@ function devBuilderPlugin() {
       // Initial build for dev so dist exists.
       buildSite({ alsoUpdateFeeds: false })
         .then(() => server.ws.send({ type: "full-reload" }))
-        .catch(() => {});
+        .catch((e) => {
+          server.ws.send({
+            type: "custom",
+            event: "ap:status",
+            data: { stage: "build", status: "error", error: String(e?.message || e || "unknown") },
+          });
+        });
 
       server.watcher.on("all", async (event, file) => {
         if (!file) return;
@@ -96,19 +133,46 @@ function devBuilderPlugin() {
 
         // Fast path: asset file changes only need a copy + reload.
         if (rel.startsWith("site/assets/") && exists(f) && copyAsset(f)) {
+          server.ws.send({
+            type: "custom",
+            event: "ap:status",
+            data: { stage: "assets", status: "done", reason: "copied", file: rel },
+          });
           server.ws.send({ type: "full-reload" });
           return;
         }
 
         // Service worker source change: copy by rebuild (it also updates manifest).
         if (normalize(f) === normalize(pwaSrc)) {
-          await buildSite({ alsoUpdateFeeds: false }).catch(() => {});
+          server.ws.send({
+            type: "custom",
+            event: "ap:status",
+            data: { stage: "build", status: "start", reason: "sw", file: rel },
+          });
+          await buildSite({ alsoUpdateFeeds: false }).catch((e) => {
+            server.ws.send({
+              type: "custom",
+              event: "ap:status",
+              data: { stage: "build", status: "error", reason: "sw", error: String(e?.message || e || "unknown") },
+            });
+          });
           server.ws.send({ type: "full-reload" });
           return;
         }
 
         const alsoUpdateFeeds = rel === "feeds.json" || rel.startsWith("samples/");
-        await buildSite({ alsoUpdateFeeds }).catch(() => {});
+        server.ws.send({
+          type: "custom",
+          event: "ap:status",
+          data: { stage: "build", status: "start", reason: alsoUpdateFeeds ? "update+build" : "build", file: rel },
+        });
+        await buildSite({ alsoUpdateFeeds }).catch((e) => {
+          server.ws.send({
+            type: "custom",
+            event: "ap:status",
+            data: { stage: "build", status: "error", error: String(e?.message || e || "unknown"), file: rel },
+          });
+        });
         server.ws.send({ type: "full-reload" });
       });
     },
@@ -123,4 +187,3 @@ export default defineConfig({
     strictPort: true,
   },
 });
-

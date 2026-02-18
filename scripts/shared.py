@@ -528,8 +528,19 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
     out: list[str] = []
     seen = set()
 
-    strip_chars = " \t\r\n-–—|:;,.\"“”‘’'()[]{}<>•…"
+    strip_chars = " \t\r\n-–—|:;,.!?\"“”‘’'()[]{}<>•…"
     allowed_inline = set(" -'’")
+    blocked_tokens = {
+        "ep",
+        "eps",
+        "episode",
+        "episodes",
+        "epsiode",
+        "rewind",
+        "series",
+        "podcast",
+        "tm",
+    }
 
     def _normalize_token(token: str) -> str:
         t = token.strip(strip_chars)
@@ -539,6 +550,10 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
 
     def _token_ok(t: str) -> bool:
         if not t:
+            return False
+        if len(t) == 1:
+            return False
+        if t.lower() in blocked_tokens:
             return False
         if any(ch.isdigit() for ch in t):
             return False
@@ -578,8 +593,12 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
         parts = [_normalize_token(p) for p in s.split()]
         parts = [p for p in parts if p]
 
-        if not _tokens_ok(parts):
-            # Salvage: if the candidate contains junk punctuation/descriptors, try the tail 2-4 tokens.
+        salvage = False
+        if parts and parts[0] and parts[0][0].islower():
+            salvage = True
+
+        if salvage or (not _tokens_ok(parts)):
+            # Salvage: if the candidate contains descriptors, prefer the tail 2-4 tokens.
             for n in (2, 3, 4):
                 if len(parts) >= n and _tokens_ok(parts[-n:]):
                     parts = parts[-n:]

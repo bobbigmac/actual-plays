@@ -37,6 +37,16 @@ def _parse_args() -> argparse.Namespace:
         default=4,
         help="Number of feeds to fetch concurrently (default: 4).",
     )
+    p.add_argument(
+        "--sanitize-cache",
+        action="store_true",
+        help="Rewrite existing cached markdown by re-sanitizing speakers/topics without fetching.",
+    )
+    p.add_argument(
+        "--only",
+        default=None,
+        help="Only operate on a single feed slug (works with --sanitize-cache or fetching).",
+    )
     p.add_argument("--quiet", action="store_true", help="Less logging (still prints errors).")
     return p.parse_args()
 
@@ -360,6 +370,54 @@ def main() -> int:
     if not feeds:
         print("No feeds configured in feeds.json", file=sys.stderr)
         return 1
+
+    if args.only:
+        feeds = [f for f in feeds if str(f.get("slug") or "") == str(args.only)]
+        if not feeds:
+            print(f"No feed found matching --only={args.only}", file=sys.stderr)
+            return 1
+
+    if args.sanitize_cache:
+        # No network. Rewrite cached markdown by re-sanitizing existing tags.
+        changed = False
+        for feed_cfg in feeds:
+            slug = str(feed_cfg.get("slug") or "")
+            md_path = feeds_md_dir / f"{slug}.md"
+            feed_json = _load_existing_feed_json(md_path)
+            if not feed_json:
+                _log(f"[skip] {slug} (no cache file)", quiet=args.quiet)
+                continue
+
+            prev_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
+            for ep in feed_json.get("episodes") or []:
+                ep["speakers"] = sanitize_speakers(ep.get("speakers"))
+                ep["topics"] = sanitize_topics(ep.get("topics"))
+            next_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
+            if prev_sig == next_sig:
+                _log(f"[no-op] {slug} (already sanitized)", quiet=args.quiet)
+                continue
+
+            per_feed_state = state["feeds"].get(slug, {})
+            md = _render_cache_markdown(
+                feed_slug=slug,
+                fetched_at=str(feed_json.get("fetched_at") or now_iso),
+                etag=per_feed_state.get("etag"),
+                last_modified=per_feed_state.get("last_modified"),
+                feed=feed_json,
+                defaults=defaults,
+            )
+            feeds_md_dir.mkdir(parents=True, exist_ok=True)
+            md_path.write_text(md, encoding="utf-8")
+            changed = True
+            _log(f"[sanitized] {slug} -> {md_path}", quiet=args.quiet)
+
+        state["updated_at"] = now_iso
+        write_json(state_path, state)
+        if changed:
+            _log("[done] cache sanitized", quiet=args.quiet)
+            return 0
+        _log("[done] no cache changes", quiet=args.quiet)
+        return 0
 
     jobs: list[_FeedJob] = []
     per_feed_state_by_slug: dict[str, dict] = {}

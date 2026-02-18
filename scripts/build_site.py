@@ -308,6 +308,7 @@ def main() -> int:
             link = _esc(str(ep.get("link") or ""))
             desc_full = str(ep.get("description") or "")
             desc_snip = _snippet(desc_full, limit=360)
+            has_more = bool(desc_full and len(desc_full) > len(desc_snip))
             dur = _esc(str(ep.get("itunes_duration") or ""))
             speakers = ep.get("speakers") or []
             speaker_links = []
@@ -321,6 +322,17 @@ def main() -> int:
                 f'<a class="ext" href="{link}" rel="noopener" target="_blank">Open episode</a>' if link else ""
             )
             dur_html = f'<span class="muted">· {dur}</span>' if dur else ""
+            more_btn_html = (
+                ' <button class="desc-toggle" type="button" data-desc-toggle aria-expanded="false">more…</button>'
+                if has_more
+                else ""
+            )
+            full_block_html = (
+                f'<div class="desc-full" data-desc-full hidden>{_esc(desc_full)} '
+                f'<button class="desc-toggle" type="button" data-desc-toggle aria-expanded="true">less</button></div>'
+                if has_more
+                else ""
+            )
             episodes_html.append(
                 f"""
                 <li class="episode" id="e-{_esc(key)}" data-episode-id="{_esc(episode_id)}"
@@ -334,11 +346,12 @@ def main() -> int:
                     <div class="title">{ep_title}</div>
                     <div class="sub muted">{date} {dur_html} {ext_link_html}</div>
                     <div class="tags">{speakers_html}</div>
-                    <div class="desc">{_esc(desc_snip)}</div>
-                    <details class="desc-more">
-                      <summary class="muted">Show full description</summary>
-                      <div class="desc-full">{_esc(desc_full)}</div>
-                    </details>
+                    <div class="desc-wrap" data-desc-wrap>
+                      <div class="desc-snippet" data-desc-snippet>
+                        {_esc(desc_snip)}{more_btn_html}
+                      </div>
+                      {full_block_html}
+                    </div>
                     <div class="mini-progress">
                       <div class="mini-progress-bar" data-progress-bar></div>
                     </div>
@@ -365,10 +378,16 @@ def main() -> int:
               <div id="now-sub" class="now-sub muted"></div>
             </div>
             <select class="speed" id="speed" aria-label="Playback speed">
+              <option value="0.75">0.75x</option>
               <option value="1">1x</option>
               <option value="1.25">1.25x</option>
               <option value="1.5">1.5x</option>
+              <option value="1.75">1.75x</option>
               <option value="2">2x</option>
+              <option value="2.5">2.5x</option>
+              <option value="3">3x</option>
+              <option value="4">4x</option>
+              <option value="5">5x</option>
             </select>
           </div>
           <div class="player-scrub">
@@ -376,6 +395,33 @@ def main() -> int:
             <input id="scrub" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek" />
             <span class="time muted" id="t-duration">0:00</span>
           </div>
+          <details class="player-audio">
+            <summary class="muted">Audio settings</summary>
+            <div class="audio-controls">
+              <label class="toggle">
+                <input id="preserve-pitch" type="checkbox" checked />
+                Preserve pitch
+              </label>
+              <div class="eq-row">
+                <label class="slider">
+                  Gain <span class="muted" id="gain-val">0 dB</span>
+                  <input id="gain" type="range" min="-12" max="12" value="0" step="1" />
+                </label>
+                <label class="slider">
+                  Bass <span class="muted" id="eq-low-val">0 dB</span>
+                  <input id="eq-low" type="range" min="-12" max="12" value="0" step="1" />
+                </label>
+                <label class="slider">
+                  Mid <span class="muted" id="eq-mid-val">0 dB</span>
+                  <input id="eq-mid" type="range" min="-12" max="12" value="0" step="1" />
+                </label>
+                <label class="slider">
+                  Treble <span class="muted" id="eq-high-val">0 dB</span>
+                  <input id="eq-high" type="range" min="-12" max="12" value="0" step="1" />
+                </label>
+              </div>
+            </div>
+          </details>
         </section>
         <ul class="episodes">
           {"".join(episodes_html) if episodes_html else '<li class="muted">No cached episodes yet.</li>'}

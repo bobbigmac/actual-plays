@@ -10,6 +10,7 @@
   },
   "scripts": {
     "update": "python3 -m scripts.update_feeds",
+    "update:sanitize": "python3 -m scripts.update_feeds --sanitize-cache",
     "build": "python3 -m scripts.build_site",
     "dev": "vite --config vite.config.js",
     "dev:force": "python3 -m scripts.update_feeds --force && python3 -m scripts.build_site --base-path / && vite --config vite.config.js",

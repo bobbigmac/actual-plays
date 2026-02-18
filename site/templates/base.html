@@ -37,5 +37,11 @@
     </main>
     <footer class="site-footer wrap">{{footer}}</footer>
     <script src="{{base_path}}assets/app.js" defer></script>
+    <script type="module">
+      // Dev-only: Vite injects HMR; we listen for build/update status messages.
+      if (import.meta && import.meta.hot) {
+        import("{{base_path}}assets/dev-client.js").catch(() => {});
+      }
+    </script>
   </body>
 </html>

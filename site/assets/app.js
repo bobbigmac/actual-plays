@@ -237,6 +237,15 @@
     var tElapsed = $("#t-elapsed");
     var tDuration = $("#t-duration");
     var speed = $("#speed");
+    var preservePitch = $("#preserve-pitch");
+    var gain = $("#gain");
+    var gainVal = $("#gain-val");
+    var eqLow = $("#eq-low");
+    var eqMid = $("#eq-mid");
+    var eqHigh = $("#eq-high");
+    var eqLowVal = $("#eq-low-val");
+    var eqMidVal = $("#eq-mid-val");
+    var eqHighVal = $("#eq-high-val");
 
     var currentEpisodeId = null;
     var lastSavedPos = 0;
@@ -244,6 +253,105 @@
     var saveTimer = null;
     var scrubbing = false;
     var pendingSeek = null;
+
+    var audioCtx = null;
+    var sourceNode = null;
+    var lowNode = null;
+    var midNode = null;
+    var highNode = null;
+    var gainNode = null;
+
+    function setPreservePitch(value) {
+      var v = Boolean(value);
+      try {
+        if ("preservesPitch" in player) player.preservesPitch = v;
+        if ("mozPreservesPitch" in player) player.mozPreservesPitch = v;
+        if ("webkitPreservesPitch" in player) player.webkitPreservesPitch = v;
+      } catch (_e) {}
+    }
+
+    function ensureAudioGraph() {
+      if (audioCtx) return true;
+      var AC = window.AudioContext || window.webkitAudioContext;
+      if (!AC) return false;
+      try {
+        audioCtx = new AC();
+        sourceNode = audioCtx.createMediaElementSource(player);
+
+        lowNode = audioCtx.createBiquadFilter();
+        lowNode.type = "lowshelf";
+        lowNode.frequency.value = 120;
+
+        midNode = audioCtx.createBiquadFilter();
+        midNode.type = "peaking";
+        midNode.frequency.value = 1000;
+        midNode.Q.value = 1;
+
+        highNode = audioCtx.createBiquadFilter();
+        highNode.type = "highshelf";
+        highNode.frequency.value = 3500;
+
+        gainNode = audioCtx.createGain();
+
+        sourceNode.connect(lowNode);
+        lowNode.connect(midNode);
+        midNode.connect(highNode);
+        highNode.connect(gainNode);
+        gainNode.connect(audioCtx.destination);
+        return true;
+      } catch (_e) {
+        audioCtx = null;
+        sourceNode = null;
+        lowNode = null;
+        midNode = null;
+        highNode = null;
+        gainNode = null;
+        return false;
+      }
+    }
+
+    function resumeAudioCtx() {
+      if (!audioCtx) return;
+      if (audioCtx.state === "suspended") {
+        audioCtx.resume().catch(function () {});
+      }
+    }
+
+    function dbToLinear(db) {
+      return Math.pow(10, (Number(db) || 0) / 20);
+    }
+
+    function applyAudioSettings() {
+      var pitch = lsGet(LS_PREFIX + "pitch");
+      var pitchOn = pitch == null ? true : pitch === "1";
+      if (preservePitch) preservePitch.checked = pitchOn;
+      setPreservePitch(pitchOn);
+
+      var gainDb = Number(lsGet(LS_PREFIX + "gainDb") || "0") || 0;
+      var lowDb = Number(lsGet(LS_PREFIX + "eqLow") || "0") || 0;
+      var midDb = Number(lsGet(LS_PREFIX + "eqMid") || "0") || 0;
+      var highDb = Number(lsGet(LS_PREFIX + "eqHigh") || "0") || 0;
+
+      if (gain) gain.value = String(gainDb);
+      if (eqLow) eqLow.value = String(lowDb);
+      if (eqMid) eqMid.value = String(midDb);
+      if (eqHigh) eqHigh.value = String(highDb);
+
+      if (gainVal) gainVal.textContent = (gainDb >= 0 ? "+" : "") + gainDb + " dB";
+      if (eqLowVal) eqLowVal.textContent = (lowDb >= 0 ? "+" : "") + lowDb + " dB";
+      if (eqMidVal) eqMidVal.textContent = (midDb >= 0 ? "+" : "") + midDb + " dB";
+      if (eqHighVal) eqHighVal.textContent = (highDb >= 0 ? "+" : "") + highDb + " dB";
+
+      // Only build the graph if the user changed any WebAudio settings.
+      var needsGraph = gainDb !== 0 || lowDb !== 0 || midDb !== 0 || highDb !== 0;
+      if (needsGraph && ensureAudioGraph()) {
+        resumeAudioCtx();
+        gainNode.gain.value = dbToLinear(gainDb);
+        lowNode.gain.value = lowDb;
+        midNode.gain.value = midDb;
+        highNode.gain.value = highDb;
+      }
+    }
 
     var savedSpeed = Number(lsGet(LS_PREFIX + "speed") || "1") || 1;
     if (speed) speed.value = String(savedSpeed);
@@ -396,6 +504,7 @@
           if (first) activateEpisode(first);
           return;
         }
+        resumeAudioCtx();
         if (player.paused) player.play().catch(function () {});
         else player.pause();
       });
@@ -420,6 +529,32 @@
         lsSet(LS_PREFIX + "speed", String(v));
       });
     }
+
+    if (preservePitch) {
+      preservePitch.addEventListener("change", function () {
+        var on = Boolean(preservePitch.checked);
+        setPreservePitch(on);
+        lsSet(LS_PREFIX + "pitch", on ? "1" : "0");
+      });
+    }
+
+    function bindDbSlider(input, labelEl, key) {
+      if (!input) return;
+      input.addEventListener("input", function () {
+        var db = Number(input.value) || 0;
+        if (labelEl) labelEl.textContent = (db >= 0 ? "+" : "") + db + " dB";
+      });
+      input.addEventListener("change", function () {
+        var db = Number(input.value) || 0;
+        lsSet(LS_PREFIX + key, String(db));
+        applyAudioSettings();
+      });
+    }
+
+    bindDbSlider(gain, gainVal, "gainDb");
+    bindDbSlider(eqLow, eqLowVal, "eqLow");
+    bindDbSlider(eqMid, eqMidVal, "eqMid");
+    bindDbSlider(eqHigh, eqHighVal, "eqHigh");
 
     if (scrub) {
       scrub.addEventListener("input", function () {
@@ -458,6 +593,7 @@
     });
 
     player.addEventListener("play", function () {
+      resumeAudioCtx();
       setPlayButtonState();
       startAutosave();
     });
@@ -481,6 +617,7 @@
     });
 
     setPlayButtonState();
+    applyAudioSettings();
   }
 
   var indexPromise = null;
@@ -626,6 +763,35 @@
     });
   }
 
+  function initDescriptions() {
+    document.addEventListener("click", function (e) {
+      var t = e.target;
+      if (!t || !t.getAttribute) return;
+      if (!t.hasAttribute("data-desc-toggle")) return;
+      e.preventDefault();
+
+      var wrap = t.closest ? t.closest("[data-desc-wrap]") : null;
+      if (!wrap) return;
+      var snip = wrap.querySelector("[data-desc-snippet]");
+      var full = wrap.querySelector("[data-desc-full]");
+      if (!snip || !full) return;
+
+      var open = !full.hasAttribute("hidden");
+      if (open) {
+        full.setAttribute("hidden", "");
+        snip.removeAttribute("hidden");
+      } else {
+        snip.setAttribute("hidden", "");
+        full.removeAttribute("hidden");
+      }
+
+      // Keep aria-expanded consistent for both buttons if present.
+      $all("[data-desc-toggle]", wrap).forEach(function (btn) {
+        btn.setAttribute("aria-expanded", open ? "false" : "true");
+      });
+    });
+  }
+
   function initPwa() {
     if (!("serviceWorker" in navigator)) return;
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") return;
@@ -652,5 +818,6 @@
   initPlayer();
   initSearch();
   initProgress();
+  initDescriptions();
   initPwa();
 })();

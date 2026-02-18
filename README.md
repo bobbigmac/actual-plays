@@ -48,6 +48,7 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
 3. Update the cache:
 
    * `npm run update`
+   * If you pulled an older cache and want to clean up tag formatting without refetching: `npm run update:sanitize`
 4. Build static output:
 
    * `npm run build`
