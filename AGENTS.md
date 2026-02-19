@@ -15,6 +15,7 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 - `vite.config.js` — Vite dev server rooted at `dist/` + dev plugin that rebuilds/copies assets and broadcasts build status.
 - `scripts/update_feeds.py` — fetches/updates feed cache and tagging inputs used by the build.
 - `scripts/build_site.py` — renders pages + emits `dist/index.json` search index and `dist/site.json` config.
+- `scripts/py` — Python launcher that prefers `.venv/` (needed for spaCy on PEP 668 systems).
 - `site/templates/base.html` — shared SSR template; includes search panel skeleton + loads `assets/app.js`.
 - `site/assets/app.js` — stable loader that resolves base path and imports `assets/app/index.js` as a module.
 - `site/pwa/sw.js` — service worker: precaches static app assets, runtime-caches artwork, and explicitly caches audio on request.
@@ -52,6 +53,7 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 
 - `site/assets/app/ui/episode_dom.js` — episode-row DOM refreshers (progress/queue/offline button states) driven by persisted state.
 - `site/assets/app/ui/art.js` — artwork rendering with fallbacks (initials/hue).
+- `site/assets/app/ui/lazy_images.js` — swaps `img[data-src]` into `src` on viewport approach to avoid jank/layout judder.
 - `site/assets/app/ui/header_offset.js` — keeps sticky player aligned under sticky header.
 - `site/assets/app/ui/descriptions.js` — “show full description” expansion in-flow (no duplicating text).
 - `site/assets/app/ui/menus.js` — details/summary “burger” menu behavior + click-outside closing.
@@ -61,4 +63,3 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 
 - `site/assets/app/util/time.js` — time formatting helpers for progress UI.
 - `site/assets/app/util/url.js` — querystring helpers used for `?e=` and `?q=` without breaking SPA navigation.
-

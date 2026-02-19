@@ -45,7 +45,11 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
 2. Install dev deps (Vite) and optional NLP (better name detection):
 
    * `npm install --no-package-lock` (for `npm run serve` / `npm run dev`)
-   * Optional (recommended): `python3 -m pip install -r requirements.txt && python3 -m spacy download en_core_web_sm`
+   * Optional (recommended for name detection): install spaCy in a venv (avoids PEP 668 `externally-managed-environment`):
+     * `python3 -m venv .venv`
+     * `. .venv/bin/activate`
+     * `python -m pip install -r requirements.txt`
+     * `python -m spacy download en_core_web_sm`
 3. Update the cache:
 
    * `npm run update`
@@ -61,7 +65,7 @@ Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically wh
 
 Note: `cache/` is gitignored for local development. The GitHub Action persists it to a separate `cache` branch so conditional fetch headers (etag/last-modified) survive across runs.
 
-Offline/dev tip: use `feeds.sample.json` via `python3 -m scripts.update_feeds --feeds feeds.sample.json` to test without hitting the network.
+Offline/dev tip: use `feeds.sample.json` via `./scripts/py -m scripts.update_feeds --feeds feeds.sample.json` to test without hitting the network.
 
 The generated site is a basic PWA (manifest + service worker) and stores per-episode playback progress + “continue listening” history in the browser.
 

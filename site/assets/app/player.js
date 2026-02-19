@@ -52,6 +52,7 @@ export function initPlayer() {
   var desiredRate = null;
   var currentMeta = null;
   var webAudioAllowedForSource = false;
+  var lastPositionStateMs = 0;
 
   function currentKey() {
     return LS_PREFIX + "current";
@@ -339,15 +340,117 @@ export function initPlayer() {
           : [],
       });
       navigator.mediaSession.metadata = meta;
-      if (link) {
-        navigator.mediaSession.setActionHandler("seekbackward", function () {
-          player.currentTime = Math.max(0, (player.currentTime || 0) - 15);
-        });
-        navigator.mediaSession.setActionHandler("seekforward", function () {
-          player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + 30);
-        });
-      }
     } catch (_e) {}
+  }
+
+  function setMediaPlaybackState(state) {
+    try {
+      if (!("mediaSession" in navigator)) return;
+      navigator.mediaSession.playbackState = state;
+    } catch (_e) {}
+  }
+
+  function updatePositionState(force) {
+    try {
+      if (!("mediaSession" in navigator)) return;
+      if (!navigator.mediaSession.setPositionState) return;
+      var now = Date.now();
+      if (!force && now - lastPositionStateMs < 900) return;
+      lastPositionStateMs = now;
+      var d = Number(player.duration) || 0;
+      var p = Math.max(0, Number(player.currentTime) || 0);
+      if (!(d > 0) || !Number.isFinite(d)) return;
+      navigator.mediaSession.setPositionState({
+        duration: d,
+        position: Math.min(d, p),
+        playbackRate: Number(player.playbackRate) || 1,
+      });
+    } catch (_e) {}
+  }
+
+  function safeSetActionHandler(action, handler) {
+    try {
+      if (!("mediaSession" in navigator)) return;
+      navigator.mediaSession.setActionHandler(action, handler);
+    } catch (_e) {}
+  }
+
+  function setupMediaSessionHandlers() {
+    if (!("mediaSession" in navigator)) return;
+
+    safeSetActionHandler("play", function () {
+      resumeAudioCtx();
+      if (player.src) player.play().catch(function () {});
+    });
+    safeSetActionHandler("pause", function () {
+      if (player.src) player.pause();
+    });
+    safeSetActionHandler("stop", function () {
+      if (!player.src) return;
+      player.pause();
+      try {
+        player.currentTime = 0;
+      } catch (_e) {}
+      saveProgress(true);
+      updatePositionState(true);
+    });
+
+    safeSetActionHandler("seekbackward", function (details) {
+      if (!player.src) return;
+      var off = details && typeof details.seekOffset === "number" ? details.seekOffset : 15;
+      player.currentTime = Math.max(0, (player.currentTime || 0) - off);
+      saveProgress(true);
+      updatePositionState(true);
+    });
+    safeSetActionHandler("seekforward", function (details) {
+      if (!player.src) return;
+      var off = details && typeof details.seekOffset === "number" ? details.seekOffset : 30;
+      player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + off);
+      saveProgress(true);
+      updatePositionState(true);
+    });
+    safeSetActionHandler("seekto", function (details) {
+      if (!player.src) return;
+      if (!details || typeof details.seekTime !== "number") return;
+      var t = Math.max(0, details.seekTime);
+      try {
+        if (details.fastSeek && typeof player.fastSeek === "function") player.fastSeek(t);
+        else player.currentTime = t;
+      } catch (_e) {}
+      saveProgress(true);
+      updatePositionState(true);
+    });
+
+    // “Track” is a bit of a lie for podcasts, but these map well to headsets/OS controls.
+    safeSetActionHandler("nexttrack", function () {
+      var next = dequeueNext();
+      syncFromStorage();
+      if (next) playMeta(next);
+    });
+    safeSetActionHandler("previoustrack", function () {
+      if (!player.src) return;
+      if ((player.currentTime || 0) > 5) {
+        player.currentTime = 0;
+        saveProgress(true);
+        updatePositionState(true);
+        return;
+      }
+      var hist = loadHistory();
+      var idx = -1;
+      for (var i = 0; i < (hist || []).length; i++) {
+        if (hist[i] && hist[i].id === currentEpisodeId) {
+          idx = i;
+          break;
+        }
+      }
+      if (idx >= 0 && hist[idx + 1] && hist[idx + 1].id) {
+        playMeta(hist[idx + 1]);
+      } else {
+        player.currentTime = 0;
+        saveProgress(true);
+        updatePositionState(true);
+      }
+    });
   }
 
   function saveProgress(force) {
@@ -363,6 +466,7 @@ export function initPlayer() {
     lastSavedPos = pos;
 
     refreshProgressForId(currentEpisodeId);
+    updatePositionState(false);
   }
 
   function startAutosave() {
@@ -423,6 +527,8 @@ export function initPlayer() {
 
         updateEqAvailabilityUi();
         updateMediaSession(full.t || "", full.ft || "", full.l || "", full.im || "");
+        setMediaPlaybackState("paused");
+        updatePositionState(true);
         refreshAllProgress();
         renderHomePanels();
         refreshQueueIndicators();
@@ -474,6 +580,7 @@ export function initPlayer() {
   };
 
   window.__AP_PLAYER__ = api;
+  setupMediaSessionHandlers();
 
   function shouldAutoplay() {
     return String(window.location.hash || "").toLowerCase().includes("autoplay");
@@ -520,6 +627,8 @@ export function initPlayer() {
       updateEqAvailabilityUi();
       saveCurrent(cur0);
       updateMediaSession(cur0.t || "", cur0.ft || "", cur0.l || "", cur0.im || "");
+      setMediaPlaybackState("paused");
+      updatePositionState(true);
       refreshAllProgress();
       renderHomePanels();
     } catch (_e) {}
@@ -650,6 +759,7 @@ export function initPlayer() {
     }
     saveProgress(true);
     refreshAllProgress();
+    updatePositionState(true);
   });
 
   player.addEventListener("ratechange", function () {
@@ -657,28 +767,36 @@ export function initPlayer() {
     var r = Number(player.playbackRate) || 1;
     r = Math.round(r * 100) / 100;
     speedReadout.textContent = String(r) + "x";
+    updatePositionState(true);
   });
 
   player.addEventListener("timeupdate", function () {
     setScrubFromPlayer();
     setTimeLabels();
     saveProgress(false);
+    updatePositionState(false);
   });
 
   player.addEventListener("play", function () {
     resumeAudioCtx();
     setPlayButtonState();
     startAutosave();
+    setMediaPlaybackState("playing");
+    updatePositionState(true);
   });
   player.addEventListener("pause", function () {
     setPlayButtonState();
     saveProgress(true);
     stopAutosave();
+    setMediaPlaybackState("paused");
+    updatePositionState(true);
   });
   player.addEventListener("ended", function () {
     setPlayButtonState();
     saveProgress(true);
     stopAutosave();
+    setMediaPlaybackState("paused");
+    updatePositionState(true);
     // Auto-advance the queue if present.
     var next = dequeueNext();
     syncFromStorage();

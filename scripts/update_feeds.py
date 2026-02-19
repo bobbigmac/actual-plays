@@ -196,8 +196,14 @@ def _get_spacy_nlp(*, quiet: bool):
             raise RuntimeError(
                 "spaCy is not installed.\n"
                 "Fix:\n"
-                "  python3 -m pip install -r requirements.txt\n"
-                "  python3 -m spacy download en_core_web_sm\n"
+                "  (recommended) create a venv (avoids PEP 668 'externally-managed-environment'):\n"
+                "    python3 -m venv .venv\n"
+                "    . .venv/bin/activate\n"
+                "    python -m pip install -r requirements.txt\n"
+                "    python -m spacy download en_core_web_sm\n"
+                "\n"
+                "  Then run scripts using that venv:\n"
+                "    .venv/bin/python -m scripts.update_feeds ...\n"
             )
 
         try:

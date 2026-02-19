@@ -8,12 +8,12 @@
     "vite": "^5.4.0"
   },
   "scripts": {
-    "update": "python3 -m scripts.update_feeds",
-    "update:sanitize": "python3 -m scripts.update_feeds --sanitize-cache",
-    "build": "python3 -m scripts.build_site",
+    "update": "./scripts/py -m scripts.update_feeds",
+    "update:sanitize": "./scripts/py -m scripts.update_feeds --sanitize-cache",
+    "build": "./scripts/py -m scripts.build_site",
     "dev": "vite --config vite.config.js",
-    "dev:force": "python3 -m scripts.update_feeds --force && python3 -m scripts.build_site --base-path / && vite --config vite.config.js",
-    "tag:check": "python3 -m scripts.tag_selftest",
+    "dev:force": "./scripts/py -m scripts.update_feeds --force && ./scripts/py -m scripts.build_site --base-path / && vite --config vite.config.js",
+    "tag:check": "./scripts/py -m scripts.tag_selftest",
     "serve": "vite --config vite.config.js"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"

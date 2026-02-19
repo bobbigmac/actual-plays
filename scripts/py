@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Prefer a project venv if present (required for spaCy on PEP 668 systems).
+if [ -x "${PWD}/.venv/bin/python" ]; then
+  exec "${PWD}/.venv/bin/python" "$@"
+fi
+if [ -x "${PWD}/venv/bin/python" ]; then
+  exec "${PWD}/venv/bin/python" "$@"
+fi
+
+exec python3 "$@"
+

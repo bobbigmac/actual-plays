@@ -52,7 +52,7 @@ function devBuilderPlugin() {
           data: { stage: "update", status: "start" },
         });
         const t0 = Date.now();
-        await run("python3", ["-m", "scripts.update_feeds", "--quiet"], { cwd: repoRoot });
+        await run("./scripts/py", ["-m", "scripts.update_feeds", "--quiet"], { cwd: repoRoot });
         serverRef?.ws?.send({
           type: "custom",
           event: "ap:status",
@@ -72,7 +72,7 @@ function devBuilderPlugin() {
         data: { stage: "build", status: "start" },
       });
       const t1 = Date.now();
-      await run("python3", ["-m", "scripts.build_site", "--base-path", "/"], { cwd: repoRoot });
+      await run("./scripts/py", ["-m", "scripts.build_site", "--base-path", "/"], { cwd: repoRoot });
       serverRef?.ws?.send({
         type: "custom",
         event: "ap:status",
