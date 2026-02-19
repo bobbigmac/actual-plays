@@ -20,6 +20,16 @@ function apply() {
   });
   var toggle = $("#browse-show-supplemental");
   if (toggle) toggle.checked = checked;
+
+  var label = document.querySelector(
+    '[data-toggle-label-for="browse-show-supplemental"] [data-toggle-label]',
+  );
+  if (label) {
+    var count = cards.length || 0;
+    label.textContent = checked
+      ? "Hide supplemental podcasts"
+      : "Show " + count + " supplemental podcasts";
+  }
 }
 
 export function initBrowseSupplementalUi(deps) {

@@ -422,3 +422,75 @@
 - supplemental: true
 - owners: Sean Abrams; Thayne Bohman; Bryan Staudt; Jay Staudt
 - categories: games, ttrpg, actual-play
+
+## david-tennant-does-a-podcast-with
+- url: https://feeds.megaphone.fm/davidtennant
+- title_override: David Tennant Does a Podcast With…
+- supplemental: true
+- categories: interviews, entertainment, comedy
+
+## table-manners-with-jessie-and-lennie-ware
+- url: https://feeds.acast.com/public/shows/tablemanners
+- title_override: Table Manners with Jessie & Lennie Ware
+- supplemental: true
+- categories: interviews, entertainment
+
+## out-to-lunch-with-jay-rayner
+- url: https://feeds.acast.com/public/shows/out-to-lunch-with-jay-rayner
+- title_override: Out To Lunch with Jay Rayner
+- supplemental: true
+- categories: interviews, entertainment
+
+## distraction-pieces
+- url: https://feeds.acast.com/public/shows/distractionpieces
+- title_override: Distraction Pieces
+- supplemental: true
+- categories: interviews, comedy
+
+## how-to-fail-with-elizabeth-day
+- url: https://feeds.acast.com/public/shows/how-to-fail
+- title_override: How To Fail with Elizabeth Day
+- supplemental: true
+- categories: interviews, entertainment
+
+## desert-island-discs
+- url: https://podcasts.files.bbci.co.uk/p02p713p.rss
+- title_override: Desert Island Discs
+- supplemental: true
+- categories: interviews, bbc, entertainment
+
+## grounded-with-louis-theroux
+- url: https://podcasts.files.bbci.co.uk/p089sfrz.rss
+- title_override: Grounded with Louis Theroux
+- supplemental: true
+- categories: interviews, bbc, entertainment
+
+## youre-dead-to-me
+- url: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+- title_override: You're Dead To Me
+- supplemental: true
+- categories: comedy, history, bbc
+
+## the-infinite-monkey-cage
+- url: https://podcasts.files.bbci.co.uk/b00snr0w.rss
+- title_override: The Infinite Monkey Cage
+- supplemental: true
+- categories: science, comedy, bbc
+
+## my-time-capsule
+- url: https://feeds.acast.com/public/shows/mytimecapsule
+- title_override: My Time Capsule
+- supplemental: true
+- categories: interviews, comedy
+
+## the-moon-under-water
+- url: https://feeds.acast.com/public/shows/the-moon-under-water
+- title_override: The Moon Under Water
+- supplemental: true
+- categories: comedy, interviews
+
+## the-rest-is-politics
+- url: https://feeds.acast.com/public/shows/the-rest-is-politics
+- title_override: The Rest Is Politics
+- supplemental: true
+- categories: politics, interviews

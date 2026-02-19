@@ -689,6 +689,72 @@ def _write_page(
     out_path.write_text(doc, encoding="utf-8")
 
 
+def _maybe_add_edit_feeds_link(*, site_cfg: dict[str, Any], feeds_path: str) -> None:
+    """
+    Inject an "Edit feeds" footer link next to the GitHub link (if present),
+    pointing at the selected feeds file for this deployment.
+    """
+    feeds_path = str(feeds_path or "").strip()
+    if not feeds_path:
+        return
+
+    footer_links = site_cfg.get("footer_links") or []
+    if not isinstance(footer_links, list):
+        return
+
+    for l in footer_links:
+        if isinstance(l, dict) and str(l.get("label") or "").strip().lower() in {"edit feeds", "edit config"}:
+            return
+
+    import os
+
+    repo_url = None
+    gh_repo = str(os.environ.get("GITHUB_REPOSITORY") or "").strip().strip("/")
+    gh_server = str(os.environ.get("GITHUB_SERVER_URL") or "https://github.com").strip().rstrip("/")
+    if gh_repo and "/" in gh_repo:
+        repo_url = f"{gh_server}/{gh_repo}"
+
+    github_index = None
+    if repo_url is None:
+        for i, link in enumerate(footer_links):
+            if not isinstance(link, dict):
+                continue
+            href = str(link.get("href") or "").strip()
+            if not href:
+                continue
+            p = urllib.parse.urlparse(href)
+            if not (p.scheme and p.netloc):
+                continue
+            if "github.com" not in p.netloc.lower():
+                continue
+            parts = [x for x in p.path.split("/") if x]
+            if len(parts) < 2:
+                continue
+            repo_url = f"{p.scheme}://{p.netloc}/{parts[0]}/{parts[1]}"
+            break
+
+    for i, link in enumerate(footer_links):
+        if not isinstance(link, dict):
+            continue
+        if str(link.get("label") or "").strip().lower() == "github":
+            github_index = i
+            break
+
+    if not repo_url:
+        return
+
+    branch = str(os.environ.get("AP_GITHUB_EDIT_BRANCH") or os.environ.get("GITHUB_REF_NAME") or "main").strip()
+    branch = branch or "main"
+    edit_href = f"{repo_url}/edit/{branch}/{urllib.parse.quote(feeds_path, safe='/')}"
+    edit_link = {"label": "Edit feeds", "href": edit_href}
+
+    if github_index is None:
+        footer_links.append(edit_link)
+    else:
+        footer_links.insert(github_index + 1, edit_link)
+    site_cfg["footer_links"] = footer_links
+
+
 def main() -> int:
     args = _parse_args()
 
@@ -717,6 +783,8 @@ def main() -> int:
     site_cfg.setdefault("base_path", "/")
     site_cfg.setdefault("footer_links", [])
     feeds_cfg = cfg if isinstance(cfg, dict) else {}
+
+    _maybe_add_edit_feeds_link(site_cfg=site_cfg, feeds_path=args.feeds)
 
     cache_dir = REPO_ROOT / args.cache
     feeds_dir = cache_dir / "feeds"
@@ -1071,9 +1139,19 @@ def main() -> int:
         else '<div class="muted">No podcasts configured in the feeds config.</div>'
     )
 
-    recent_primary = [e for e in all_episodes_index if not bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))]
-    recent_supp = [e for e in all_episodes_index if bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))]
-    recent = recent_primary[:50] + recent_supp[:50]
+    recent_primary = [
+        e
+        for e in all_episodes_index
+        if not bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))
+    ]
+    recent_supp = [
+        e for e in all_episodes_index if bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))
+    ]
+    recent = sorted(
+        recent_primary[:50] + recent_supp[:50],
+        key=lambda e: str(e.get("published_at") or ""),
+        reverse=True,
+    )
     recent_items = []
     for e in recent:
         feed_slug = e.get("feed_slug") or ""
@@ -1170,14 +1248,14 @@ def main() -> int:
     <div class="home-views">
       <section class="home-view" data-home-view="browse">
         <h2>Podcasts</h2>
-        {('<div class="browse-controls"><label class="toggle"><input id="browse-show-supplemental" type="checkbox" /> Show supplemental podcasts</label></div>' if supplemental_count else '')}
         <div class="grid feed-grid">{podcasts_html}</div>
+        {('<div class="browse-controls"><label class="toggle toggle-pill" data-toggle-label-for="browse-show-supplemental"><input id="browse-show-supplemental" type="checkbox" /><span class="toggle-pill-ui" aria-hidden="true"></span><span class="toggle-text" data-toggle-label>Show supplemental podcasts</span></label></div>' if supplemental_count else '')}
       </section>
       <section class="home-view" data-home-view="latest" hidden>
         <section class="card panel" id="home-latest">
           <div class="panel-head">
             <h2>Latest</h2>
-            {('<label class="toggle latest-toggle"><input id="latest-show-supplemental" type="checkbox" /> Include supplemental</label>' if supplemental_count else '')}
+            {('<label class="toggle toggle-pill latest-toggle" data-toggle-label-for="latest-show-supplemental"><input id="latest-show-supplemental" type="checkbox" /><span class="toggle-pill-ui" aria-hidden="true"></span><span class="toggle-text" data-toggle-label>Show supplemental episodes</span></label>' if supplemental_count else '')}
           </div>
           <ul class="list" data-latest-list>
             {"".join(recent_items) if recent_items else "<li class=\"muted\">No episodes yet.</li>"}

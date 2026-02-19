@@ -20,6 +20,18 @@ function apply() {
   });
   var toggle = $("#latest-show-supplemental");
   if (toggle) toggle.checked = checked;
+
+  var label = document.querySelector(
+    '[data-toggle-label-for="latest-show-supplemental"] [data-toggle-label]',
+  );
+  if (label) {
+    var count = rows.length || 0;
+    label.textContent = checked
+      ? "Hide supplemental episodes"
+      : count
+        ? "Show " + count + " supplemental episodes"
+        : "Show supplemental episodes";
+  }
 }
 
 export function initLatestSupplementalUi(deps) {
@@ -44,4 +56,3 @@ export function initLatestSupplementalUi(deps) {
 export function applyLatestSupplementalUi() {
   apply();
 }
-
