@@ -15,6 +15,22 @@ export function writeSpeakersIncludeOwn(next) {
   lsSet(prefKey("speakers.includeOwn"), next ? "1" : "0");
 }
 
+export function readBrowseShowSupplemental() {
+  return lsGet(prefKey("browse.showSupplemental")) === "1";
+}
+
+export function writeBrowseShowSupplemental(next) {
+  lsSet(prefKey("browse.showSupplemental"), next ? "1" : "0");
+}
+
+export function readLatestShowSupplemental() {
+  return lsGet(prefKey("latest.showSupplemental")) === "1";
+}
+
+export function writeLatestShowSupplemental(next) {
+  lsSet(prefKey("latest.showSupplemental"), next ? "1" : "0");
+}
+
 function computeQueueIds(queue) {
   var out = {};
   (queue || []).forEach(function (it) {

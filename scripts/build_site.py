@@ -774,6 +774,7 @@ def main() -> int:
     feed_notes_by_slug: dict[str, str] = {}
     feed_title_override_by_slug: dict[str, str] = {}
     feed_url_by_slug: dict[str, str] = {}
+    feed_supplemental_by_slug: dict[str, bool] = {}
     owner_slugs_by_feed: dict[str, set[str]] = {}
     for f in feeds_cfg.get("feeds") or []:
         slug = str(f.get("slug") or "")
@@ -781,6 +782,7 @@ def main() -> int:
             continue
         feed_order.append(slug)
         feed_url_by_slug[slug] = str(f.get("url") or "").strip()
+        feed_supplemental_by_slug[slug] = bool(f.get("supplemental"))
         owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
         categories = _norm_categories(f.get("categories") or f.get("category"))
@@ -832,6 +834,7 @@ def main() -> int:
                     "source_url": str(feed_url_by_slug.get(slug) or "").strip(),
                     "episodes": [],
                     "missing_cache": True,
+                    "supplemental": bool(feed_supplemental_by_slug.get(slug)),
                     "owners": sanitize_speakers(cfg_owners),
                     "common_speakers": sanitize_speakers(cfg_common),
                     "categories": _norm_categories(cfg_categories),
@@ -848,6 +851,7 @@ def main() -> int:
         feed["owners"] = owners
         feed["common_speakers"] = common_speakers
         feed["categories"] = categories
+        feed["supplemental"] = bool(feed_supplemental_by_slug.get(slug))
         feed["editors_note"] = note
         feed["profile"] = profile
         feed["scores"] = scores
@@ -907,8 +911,18 @@ def main() -> int:
     # Speaker pages also live at the site root. Avoid collisions with podcast slugs and reserved paths.
     used_root = set(_RESERVED_ROOT_SLUGS) | set(feed_order)
     used = set(used_root)
+    speaker_podcast_count_by_slug: dict[str, int] = {}
+    for sp_slug, eps_by_id in speaker_eps_by_slug.items():
+        pods: set[str] = set()
+        for e in (eps_by_id or {}).values():
+            feed_slug = str((e or {}).get("feed_slug") or "")
+            if feed_slug:
+                pods.add(feed_slug)
+        speaker_podcast_count_by_slug[sp_slug] = len(pods)
     speaker_page_slug_by_slug: dict[str, str] = {}
     for sp_slug in sorted(speaker_name_by_slug.keys()):
+        if (speaker_podcast_count_by_slug.get(sp_slug) or 0) <= 1:
+            continue
         base = sp_slug
         if base in used:
             base = f"{sp_slug}-speaker"
@@ -962,6 +976,7 @@ def main() -> int:
 
     # Home page.
     feed_cards = []
+    supplemental_count = 0
     for feed in feeds:
         slug = str(feed.get("slug") or "")
         title = _esc(str(feed.get("title") or slug))
@@ -989,6 +1004,9 @@ def main() -> int:
         hue = _hue_from_slug(slug)
         initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
         missing = feed.get("missing_cache")
+        supplemental = bool(feed.get("supplemental"))
+        if supplemental:
+            supplemental_count += 1
         missing_note = (
             '<div class="muted">No cache yet (run update script / wait for Action).</div>' if missing else ""
         )
@@ -1001,6 +1019,7 @@ def main() -> int:
         feed_cards.append(
             f"""
             <section class="card feed-card" data-feed-slug="{_esc(slug)}"
+              data-supplemental="{'1' if supplemental else '0'}" {'hidden' if supplemental else ''}
               data-episode-count="{_esc(str(stats['ep_count'] or ''))}"
               data-speaker-count="{_esc(str(stats['speaker_count'] or ''))}"
               data-avg-seconds="{_esc(str(stats['avg_seconds'] or ''))}"
@@ -1026,12 +1045,15 @@ def main() -> int:
         else '<div class="muted">No podcasts configured in the feeds config.</div>'
     )
 
-    recent = all_episodes_index[:50]
+    recent_primary = [e for e in all_episodes_index if not bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))]
+    recent_supp = [e for e in all_episodes_index if bool((feed_supplemental_by_slug.get(e.get("feed_slug") or "")))]
+    recent = recent_primary[:50] + recent_supp[:50]
     recent_items = []
     for e in recent:
         feed_slug = e.get("feed_slug") or ""
         key = e.get("episode_key") or ""
         episode_id = f"{feed_slug}:{key}"
+        is_supp = bool(feed_supplemental_by_slug.get(str(feed_slug)))
         title = _esc(e.get("title") or "")
         date = _esc((e.get("published_at") or "")[:10])
         feed_title = _esc(e.get("feed_title") or feed_slug)
@@ -1055,7 +1077,7 @@ def main() -> int:
         meta_line = " · ".join([m for m in meta_bits if m])
         recent_items.append(
             f"""
-            <li class="episode-row" data-episode-id="{_esc(episode_id)}"
+            <li class="episode-row" data-episode-id="{_esc(episode_id)}" data-supplemental="{'1' if is_supp else '0'}" {'hidden' if is_supp else ''}
               data-feed-slug="{_esc(feed_slug)}"
               data-episode-key="{_esc(key)}"
               data-episode-title="{title}"
@@ -1122,12 +1144,14 @@ def main() -> int:
     <div class="home-views">
       <section class="home-view" data-home-view="browse">
         <h2>Podcasts</h2>
+        {('<div class="browse-controls"><label class="toggle"><input id="browse-show-supplemental" type="checkbox" /> Show supplemental podcasts</label></div>' if supplemental_count else '')}
         <div class="grid feed-grid">{podcasts_html}</div>
       </section>
       <section class="home-view" data-home-view="latest" hidden>
         <section class="card panel" id="home-latest">
           <div class="panel-head">
             <h2>Latest</h2>
+            {('<label class="toggle latest-toggle"><input id="latest-show-supplemental" type="checkbox" /> Include supplemental</label>' if supplemental_count else '')}
           </div>
           <ul class="list" data-latest-list>
             {"".join(recent_items) if recent_items else "<li class=\"muted\">No episodes yet.</li>"}
@@ -1311,9 +1335,15 @@ def main() -> int:
             speakers = ep.get("speakers") or []
             speaker_links = []
             for sp in speakers:
-                sp_slug = slugify(str(sp))
-            sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
-            speaker_links.append(f'<a class="tag" href="{_esc(_href(base_path, f"{sp_page}/"))}">{_esc(str(sp))}</a>')
+                sp_name = str(sp)
+                sp_slug = slugify(sp_name)
+                sp_page = speaker_page_slug_by_slug.get(sp_slug) or ""
+                if sp_page:
+                    speaker_links.append(
+                        f'<a class="tag" href="{_esc(_href(base_path, f"{sp_page}/"))}">{_esc(sp_name)}</a>'
+                    )
+                else:
+                    speaker_links.append(f'<span class="tag tag-muted">{_esc(sp_name)}</span>')
             speakers_html = ("".join(speaker_links)) if speaker_links else '<span class="muted">—</span>'
             ext_link_html = (
                 f'<a class="ext" href="{link}" rel="noopener" target="_blank">Open episode</a>' if link else ""
@@ -1509,11 +1539,13 @@ def main() -> int:
 
     speaker_list_items = []
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
-        sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
-        url = _href(base_path, f"{sp_page}/")
+        sp_page = speaker_page_slug_by_slug.get(sp_slug) or ""
+        has_page = bool(sp_page)
+        url = _href(base_path, f"{sp_page}/") if sp_page else ""
         stats_total_html = ""
         guest_kind = "Guest" if show_own_toggle else "All"
-        if show_own_toggle:
+        same_counts = guest_count == total_count and guest_pods == total_pods
+        if show_own_toggle and not same_counts:
             stats_total_html = (
                 f'    <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">'
                 f'      <div class="speaker-stats-kind">Total</div>'
@@ -1523,8 +1555,13 @@ def main() -> int:
                 f"      </div>"
                 f"    </div>"
             )
+        if show_own_toggle and same_counts:
+            guest_kind = "All"
+
+        tag = "a" if has_page else "div"
+        href_attr = f' href="{_esc(url)}"' if has_page else ""
         speaker_list_items.append(
-            f'<a class="card speaker-card" href="{_esc(url)}" data-speaker-row '
+            f'<{tag} class="card speaker-card" {href_attr} data-speaker-row '
             f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
             f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
             f'  <div class="speaker-card-name">{_esc(speaker)}</div>'
@@ -1538,14 +1575,14 @@ def main() -> int:
             f"    </div>"
             f"{stats_total_html}"
             f"  </div>"
-            f"</a>"
+            f'</{tag}>'
         )
 
     content = f"""
     <div class="speakers-top">
       <div class="speakers-head">
         <h1>Speakers</h1>
-        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise.</p>
+        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise. Speaker pages/RSS are only generated for speakers that appear on 2+ podcasts — if someone only appears on one podcast, use Search.</p>
         <div class="speakers-filter">
           <input id="speakers-filter" class="speaker-filter-input" type="search" placeholder="Filter speakers…" autocomplete="off" />
           <div id="speakers-filter-status" class="muted"></div>
@@ -1576,6 +1613,8 @@ def main() -> int:
     )
 
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
+        if sp_slug not in speaker_page_slug_by_slug:
+            continue
         eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
         guest_eps = []
         for e in eps:

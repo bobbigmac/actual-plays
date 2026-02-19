@@ -222,10 +222,13 @@ export function renderHomePanels() {
     latestList.appendChild(el);
   });
 
-  var browseCount = document.querySelectorAll('[data-home-view="browse"] .feed-card').length;
+  var browseCount = document.querySelectorAll('[data-home-view="browse"] .feed-card:not([hidden])').length;
+  var latestVisible = items.filter(function (el) {
+    return el && !el.hasAttribute("hidden");
+  }).length;
   updateHomeViewBadges({
     browse: browseCount,
-    latest: items.length,
+    latest: latestVisible,
     history: visible.length,
     queue: q.length,
   });

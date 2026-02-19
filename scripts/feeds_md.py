@@ -210,7 +210,7 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         key_l = key.lower()
 
-        # Key aliases / normalization.
+    # Key aliases / normalization.
         if current_top == "feeds" and key_l == "title":
             key_l = "title_override"
             key = "title_override"
@@ -223,6 +223,9 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
         if key_l == "commonspeakers":
             key_l = "common_speakers"
             key = "common_speakers"
+        if key_l in ("supplemental_podcast", "supplementalfeed", "supplemental_feed", "hidden_from_browse"):
+            key_l = "supplemental"
+            key = "supplemental"
 
         if key_l in ("owners", "owner", "common_speakers", "categories", "category"):
             items = _split_list(val_raw, seps=",;")
@@ -375,6 +378,7 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
     known = [
         "url",
         "title_override",
+        "supplemental",
         "owners",
         "common_speakers",
         "categories",

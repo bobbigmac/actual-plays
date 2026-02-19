@@ -16,6 +16,8 @@ import { initLazyImages } from "./ui/lazy_images.js";
 import { initCopyUi } from "./ui/copy.js";
 import { initShareUi } from "./ui/share.js";
 import { initHomeViews } from "./ui/home_views.js";
+import { applyBrowseSupplementalUi, initBrowseSupplementalUi } from "./ui/browse_supplemental.js";
+import { applyLatestSupplementalUi, initLatestSupplementalUi } from "./ui/latest_supplemental.js";
 import { loadHistory, saveHistory } from "./state/history.js";
 import { loadQueue, saveQueue } from "./state/queue.js";
 import { readProgress, writeProgressObj } from "./state/progress.js";
@@ -39,6 +41,8 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
 
   function refreshUi() {
     refreshAllProgress();
+    applyBrowseSupplementalUi();
+    applyLatestSupplementalUi();
     renderHomePanels();
     refreshQueueIndicators();
     refreshOfflineIndicators(store.getState());
@@ -92,6 +96,8 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
     },
   });
 
+  initBrowseSupplementalUi({ onChanged: refreshUi });
+  initLatestSupplementalUi({ onChanged: refreshUi });
   initProgressSync();
   initDescriptions();
   initEpisodeActions({
@@ -111,6 +117,8 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
       refreshUi();
       if (searchApi && searchApi.ensure) searchApi.ensure();
       initHomeViews();
+      initBrowseSupplementalUi({ onChanged: refreshUi });
+      initLatestSupplementalUi({ onChanged: refreshUi });
     },
   });
   initDataPanel({
