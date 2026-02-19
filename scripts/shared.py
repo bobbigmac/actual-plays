@@ -687,6 +687,38 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
                 return False
         return True
 
+    def _norm_caps_token(token: str) -> str:
+        # Canonicalize all-caps tokens so speaker keys don't fragment across feeds/titles.
+        # Keep short acronyms (<=2) as-is (e.g. "DJ").
+        def _cap_seg(seg: str) -> str:
+            if not seg:
+                return seg
+            if len(seg) <= 2:
+                return seg
+            if seg.isupper():
+                return seg[0].upper() + seg[1:].lower()
+            return seg
+
+        # Split on hyphens, then apostrophes, but preserve separators.
+        parts: list[str] = []
+        for i, hy in enumerate(token.split("-")):
+            if i:
+                parts.append("-")
+            ap_parts: list[str] = []
+            buf = ""
+            for ch in hy:
+                if ch in ("'", "’"):
+                    if buf:
+                        ap_parts.append(_cap_seg(buf))
+                        buf = ""
+                    ap_parts.append(ch)
+                else:
+                    buf += ch
+            if buf:
+                ap_parts.append(_cap_seg(buf))
+            parts.extend(ap_parts)
+        return "".join(parts)
+
     for raw in names:
         s = normalize_ws(strip_html(str(raw)))
         s = _clean_candidate(s)
@@ -720,6 +752,7 @@ def sanitize_speakers(names: list[str] | None) -> list[str]:
                 continue
 
         # Final allowed-char check (spaces + hyphen/apostrophes only).
+        parts = [_norm_caps_token(p) for p in parts]
         joined = " ".join(parts)
         if any((not ch.isalpha()) and (ch not in allowed_inline) for ch in joined):
             continue

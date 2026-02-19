@@ -218,7 +218,7 @@ def main() -> int:
 
     feed_order: list[str] = []
     feed_tags: dict[str, dict[str, list[str]]] = {}
-    owners_by_feed: dict[str, set[str]] = {}
+    owner_slugs_by_feed: dict[str, set[str]] = {}
     for f in feeds_cfg.get("feeds") or []:
         slug = str(f.get("slug") or "")
         if not slug:
@@ -227,7 +227,7 @@ def main() -> int:
         owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
         feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers}
-        owners_by_feed[slug] = {n.lower() for n in owners}
+        owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
 
     if not feed_order:
         print("[warn] No feeds configured; generating an empty site.", file=sys.stderr)
@@ -255,7 +255,7 @@ def main() -> int:
         common_speakers = sanitize_speakers(cfg_common)
         feed["owners"] = owners
         feed["common_speakers"] = common_speakers
-        owners_by_feed[slug] = {n.lower() for n in owners}
+        owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
         always = common_speakers + owners
         for ep in feed.get("episodes") or []:
             ep["speakers"] = _merge_always_speakers(detected=ep.get("speakers"), always=always, limit=12)
@@ -263,7 +263,8 @@ def main() -> int:
         feeds.append(feed)
 
     # Build speaker index.
-    speaker_to_eps: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    speaker_name_by_slug: dict[str, str] = {}
+    speaker_eps_by_slug: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
     all_episodes_index: list[dict[str, Any]] = []
     for feed in feeds:
         feed_slug = feed.get("slug") or ""
@@ -271,11 +272,12 @@ def main() -> int:
         feed_image_url = feed.get("image_url")
         for ep in feed.get("episodes") or []:
             speakers = ep.get("speakers") or []
+            episode_key = ep.get("key")
             ep_entry = {
                 "feed_slug": feed_slug,
                 "feed_title": feed_title,
                 "feed_image_url": feed_image_url,
-                "episode_key": ep.get("key"),
+                "episode_key": episode_key,
                 "title": ep.get("title"),
                 "published_at": ep.get("published_at"),
                 "episode_image_url": ep.get("image_url"),
@@ -285,8 +287,20 @@ def main() -> int:
                 "topics": ep.get("topics") or [],
             }
             all_episodes_index.append(ep_entry)
+            if not episode_key:
+                continue
+            episode_id = f"{feed_slug}:{episode_key}"
             for sp in speakers:
-                speaker_to_eps[str(sp)].append(ep_entry)
+                sp_name = str(sp)
+                sp_slug = slugify(sp_name)
+                existing = speaker_name_by_slug.get(sp_slug)
+                if not existing:
+                    speaker_name_by_slug[sp_slug] = sp_name
+                else:
+                    # Prefer the more "normal-looking" capitalization if we see variants.
+                    if existing.isupper() and not sp_name.isupper():
+                        speaker_name_by_slug[sp_slug] = sp_name
+                speaker_eps_by_slug[sp_slug][episode_id] = ep_entry
 
     # Sort index by date desc.
     all_episodes_index.sort(key=lambda e: e.get("published_at") or "", reverse=True)
@@ -569,23 +583,23 @@ def main() -> int:
 
     # Speaker index + pages.
     speaker_rows = []
-    for speaker, eps in speaker_to_eps.items():
+    for sp_slug, eps_by_id in speaker_eps_by_slug.items():
+        speaker = speaker_name_by_slug.get(sp_slug) or sp_slug
+        eps = list(eps_by_id.values())
         total = len(eps)
-        sp_key = str(speaker).lower()
         guest = 0
         for e in eps:
             feed_slug = str(e.get("feed_slug") or "")
-            owners = owners_by_feed.get(feed_slug) or set()
-            if sp_key in owners:
+            owners = owner_slugs_by_feed.get(feed_slug) or set()
+            if sp_slug in owners:
                 continue
             guest += 1
-        speaker_rows.append((speaker, guest, total))
+        speaker_rows.append((sp_slug, speaker, guest, total))
     # Default: sort by guest appearances (exclude own podcasts).
-    speaker_rows.sort(key=lambda r: (-r[1], -r[2], r[0].lower()))
+    speaker_rows.sort(key=lambda r: (-r[2], -r[3], r[1].lower()))
 
     speaker_list_items = []
-    for speaker, guest_count, total_count in speaker_rows[:500]:
-        sp_slug = slugify(speaker)
+    for sp_slug, speaker, guest_count, total_count in speaker_rows[:500]:
         url = _href(base_path, f"speakers/{sp_slug}/")
         speaker_list_items.append(
             f'<li data-speaker-row data-count-guest="{guest_count}" data-count-total="{total_count}" data-name="{_esc(speaker)}">'
@@ -618,9 +632,8 @@ def main() -> int:
         content_html=content,
     )
 
-    for speaker, guest_count, total_count in speaker_rows[:500]:
-        sp_slug = slugify(speaker)
-        eps = speaker_to_eps.get(speaker) or []
+    for sp_slug, speaker, guest_count, total_count in speaker_rows[:500]:
+        eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
         # Group episodes by source podcast; show the biggest groups first.
         grouped: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
         for e in eps[:500]:
@@ -631,7 +644,7 @@ def main() -> int:
         group_rows = sorted(grouped.items(), key=lambda kv: (-len(kv[1]), kv[0][1].lower(), kv[0][0]))
         groups_html: list[str] = []
         for (feed_slug, feed_title_raw), group_eps in group_rows:
-            is_own = str(speaker).lower() in (owners_by_feed.get(feed_slug) or set())
+            is_own = sp_slug in (owner_slugs_by_feed.get(feed_slug) or set())
             feed_title = _esc(feed_title_raw or feed_slug)
             group_eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
             items: list[str] = []
