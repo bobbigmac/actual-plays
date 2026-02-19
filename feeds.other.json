@@ -1,0 +1,275 @@
+{
+  "defaults": {
+    "min_hours_between_checks": 12,
+    "max_episodes_per_feed": 200,
+    "request_timeout_seconds": 25,
+    "user_agent": "actual-plays-static-podcast-index/1.0 (+https://github.com/)"
+  },
+  "feeds": [
+    {
+      "slug": "a-scanner-darkly",
+      "url": "https://archive.org/download/awnbgb-0-d-9-hptg-8-n/XB00CTFLDH8",
+      "title_override": "A Scanner Darkly"
+    },
+    {
+      "slug": "a-woodturners-journey",
+      "url": "https://feeds.acast.com/public/shows/65a70f72224eec0017895999",
+      "title_override": "A Woodturners Journey"
+    },
+    {
+      "slug": "adventure-is-nigh",
+      "url": "https://anchor.fm/s/fcdf7d8c/podcast/rss",
+      "title_override": "Adventure is Nigh!"
+    },
+    {
+      "slug": "best-smooth-jazz-host-rod-lucas",
+      "url": "https://bsj.podomatic.com/rss2.xml",
+      "title_override": "Best Smooth Jazz Host Rod Lucas"
+    },
+    {
+      "slug": "beyond-the-pixels",
+      "url": "https://anchor.fm/s/10cd8b17c/podcast/rss",
+      "title_override": "Beyond The Pixels"
+    },
+    {
+      "slug": "class-clown",
+      "url": "https://feeds.megaphone.fm/APL3984327377",
+      "title_override": "Class Clown"
+    },
+    {
+      "slug": "cymraeg-bob-dydd",
+      "url": "https://www.spreaker.com/show/6325466/episodes/feed",
+      "title_override": "Cymraeg Bob Dydd"
+    },
+    {
+      "slug": "daily-politics-from-the-new-statesman",
+      "url": "https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926",
+      "title_override": "Daily Politics from the New Statesman"
+    },
+    {
+      "slug": "firelink",
+      "url": "https://anchor.fm/s/fe089ec8/podcast/rss",
+      "title_override": "Firelink"
+    },
+    {
+      "slug": "hercule-poirot-the-complete-short-stories",
+      "url": "https://archive.org/download/ia1024x1024_202511/X0063066734",
+      "title_override": "Hercule Poirot: The Complete Short Stories"
+    },
+    {
+      "slug": "irish-celtic-music-podcast",
+      "url": "http://bellobard.libsyn.com/rss",
+      "title_override": "Irish & Celtic Music Podcast"
+    },
+    {
+      "slug": "jokes-with-mark-simmons",
+      "url": "https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733",
+      "title_override": "Jokes with Mark Simmons"
+    },
+    {
+      "slug": "judge-dredd",
+      "url": "https://archive.org/download/rss_judr/judr",
+      "title_override": "Judge Dredd"
+    },
+    {
+      "slug": "lip-service",
+      "url": "https://archive.org/download/rss_lise/lise",
+      "title_override": "Lip Service"
+    },
+    {
+      "slug": "mom-cant-cook-a-dcom-podcast",
+      "url": "https://rss.art19.com/mom-cant-cook",
+      "title_override": "Mom Can't Cook! A DCOM Podcast"
+    },
+    {
+      "slug": "mom-cant-cook-extra-helpings",
+      "url": "https://www.patreon.com/rss/extrahelpings?auth=__7w_HEEedlA0sfiEVnNllpvCLkdneqQ&amp;show=867451",
+      "title_override": "Mom Can't Cook! Extra Helpings"
+    },
+    {
+      "slug": "mom-cant-cook-extra-helpings-2",
+      "url": "https://www.patreon.com/rss/extrahelpings?auth=__7w_HEEedlA0sfiEVnNllpvCLkdneqQ",
+      "title_override": "Mom Can't Cook! Extra Helpings"
+    },
+    {
+      "slug": "mystery-quest",
+      "url": "https://feeds.megaphone.fm/NSR3713660967",
+      "title_override": "Mystery Quest"
+    },
+    {
+      "slug": "natural-six",
+      "url": "https://feeds.acast.com/public/shows/natural-six",
+      "title_override": "Natural Six"
+    },
+    {
+      "slug": "nature-podcast",
+      "url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "title_override": "Nature Podcast"
+    },
+    {
+      "slug": "off-menu-with-ed-gamble-and-james-acaster",
+      "url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+      "title_override": "Off Menu with Ed Gamble and James Acaster"
+    },
+    {
+      "slug": "page-94-the-private-eye-podcast",
+      "url": "https://audioboom.com/channels/5112392.rss",
+      "title_override": "Page 94: The Private Eye Podcast"
+    },
+    {
+      "slug": "perfect-10-with-carol-vorderman",
+      "url": "https://feeds.acast.com/public/shows/639b0ffa1bdd1400115b3474",
+      "title_override": "Perfect 10 with Carol Vorderman"
+    },
+    {
+      "slug": "perfect-day-with-jessica-knappett",
+      "url": "https://feeds.megaphone.fm/GLT6933286547",
+      "title_override": "Perfect Day with Jessica Knappett"
+    },
+    {
+      "slug": "politicsjoe-podcast",
+      "url": "https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f",
+      "title_override": "PoliticsJOE Podcast"
+    },
+    {
+      "slug": "ramon-fears-terror-tapes",
+      "url": "https://feeds.acast.com/public/shows/65301134633a050012b657b7",
+      "title_override": "Ramon Fear's Terror Tapes"
+    },
+    {
+      "slug": "rhlstp-with-richard-herring",
+      "url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+      "title_override": "RHLSTP with Richard Herring"
+    },
+    {
+      "slug": "rotating-heroes",
+      "url": "https://feeds.captivate.fm/rotating-heroes/",
+      "title_override": "Rotating Heroes"
+    },
+    {
+      "slug": "russell-howard-jon-richardson-devotee",
+      "url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+      "title_override": "Russell Howard & Jon Richardson Devotee"
+    },
+    {
+      "slug": "russell-howards-five-brilliant-things",
+      "url": "https://feeds.megaphone.fm/russell-howards-wonderbox",
+      "title_override": "Russell Howard’s Five Brilliant Things"
+    },
+    {
+      "slug": "sherlock-holmes-imagination-theatre",
+      "url": "https://archive.org/download/rss_itsh/itsh",
+      "title_override": "Sherlock Holmes - Imagination Theatre"
+    },
+    {
+      "slug": "taskmaster-the-podcast",
+      "url": "https://feeds.captivate.fm/taskmaster-the-podcast/",
+      "title_override": "Taskmaster The Podcast"
+    },
+    {
+      "slug": "the-adam-buxton-podcast",
+      "url": "https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645",
+      "title_override": "THE ADAM BUXTON PODCAST"
+    },
+    {
+      "slug": "the-apocalypse-players",
+      "url": "https://www.apocalypseplayers.com/feed.xml",
+      "title_override": "The Apocalypse Players"
+    },
+    {
+      "slug": "the-big-pitch-with-jimmy-carr",
+      "url": "https://feeds.megaphone.fm/NETFLIX3603868305",
+      "title_override": "The Big Pitch with Jimmy Carr"
+    },
+    {
+      "slug": "the-comedians-comedian-podcast",
+      "url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
+      "title_override": "The Comedian's Comedian Podcast"
+    },
+    {
+      "slug": "the-conversation-weekly",
+      "url": "https://feeds.captivate.fm/the-conversation-weekly/",
+      "title_override": "The Conversation Weekly"
+    },
+    {
+      "slug": "the-horne-section-podcast",
+      "url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
+      "title_override": "The Horne Section Podcast"
+    },
+    {
+      "slug": "the-next-big-idea",
+      "url": "https://feeds.megaphone.fm/LI1683199352",
+      "title_override": "The Next Big Idea"
+    },
+    {
+      "slug": "the-plays-of-j-b-priestley",
+      "url": "https://archive.org/download/rss_jbprbrdc/jbprbrdc",
+      "title_override": "The Plays of J. B. Priestley"
+    },
+    {
+      "slug": "the-rest-is-entertainment",
+      "url": "https://feeds-origin.megaphone.fm/GLT2052042801",
+      "title_override": "The Rest Is Entertainment"
+    },
+    {
+      "slug": "the-rewind-podcast",
+      "url": "https://anchor.fm/s/fe089f90/podcast/rss",
+      "title_override": "The Rewind Podcast"
+    },
+    {
+      "slug": "the-romesh-ranganathan-show",
+      "url": "https://feeds.megaphone.fm/romesh",
+      "title_override": "The Romesh Ranganathan Show"
+    },
+    {
+      "slug": "the-weekly-planet",
+      "url": "https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911",
+      "title_override": "The Weekly Planet"
+    },
+    {
+      "slug": "tim-keys-late-night-poetry-programme",
+      "url": "https://www.dimsdale.co.uk/rss/tklmpp",
+      "title_override": "Tim Key's Late Night Poetry Programme"
+    },
+    {
+      "slug": "voyage",
+      "url": "https://www.dimsdale.co.uk/rss/voya",
+      "title_override": "Voyage"
+    },
+    {
+      "slug": "welcome-to-our-village-please-invade-carefully",
+      "url": "https://archive.org/download/wtovpic/wtovpic",
+      "title_override": "Welcome to Our Village, Please Invade Carefully"
+    },
+    {
+      "slug": "what-did-you-do-yesterday-with-max-rushden-david-odoherty",
+      "url": "https://feeds.megaphone.fm/GLT5518536193",
+      "title_override": "What Did You Do Yesterday? with Max Rushden & David O'Doherty"
+    },
+    {
+      "slug": "windbreaker",
+      "url": "https://anchor.fm/s/fe088118/podcast/rss",
+      "title_override": "Windbreaker"
+    },
+    {
+      "slug": "xbox-casuals-an-xbox-podcast",
+      "url": "https://anchor.fm/s/1580e714/podcast/rss",
+      "title_override": "Xbox Casuals - An Xbox Podcast"
+    },
+    {
+      "slug": "xbox-in-ten-an-xbox-podcast",
+      "url": "https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false",
+      "title_override": "Xbox In Ten: An Xbox Podcast"
+    },
+    {
+      "slug": "xeelee-an-omnibus",
+      "url": "https://archive.org/download/rss_hestbrure/zeelee",
+      "title_override": "Xeelee - An Omnibus"
+    },
+    {
+      "slug": "youre-dead-to-me",
+      "url": "https://archive.org/download/rss_yodetome/yodetome",
+      "title_override": "You're Dead To Me"
+    }
+  ]
+}
