@@ -21,6 +21,13 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      # Configure per-repo without changing code: set repository variables AP_FEEDS/AP_CACHE/AP_CACHE_BRANCH.
+      AP_FEEDS: ${{ vars.AP_FEEDS }}
+      AP_CACHE: ${{ vars.AP_CACHE }}
+      AP_CACHE_BRANCH: ${{ vars.AP_CACHE_BRANCH }}
+      # Base path the site is hosted under, e.g. "/podcasts/".
+      AP_BASE_PATH: ${{ vars.AP_BASE_PATH }}
 
     steps:
       - name: Checkout
@@ -44,39 +51,56 @@ jobs:
       - name: Restore cached state (cache branch)
         run: |
           set -euo pipefail
-          git fetch origin cache:cache || true
-          if git show-ref --verify --quiet refs/heads/cache; then
-            git restore --source cache -- cache || true
+          FEEDS="${AP_FEEDS:-feeds.md}"
+          CACHE_DIR="${AP_CACHE:-cache}"
+          CACHE_BRANCH="${AP_CACHE_BRANCH:-cache}"
+          echo "Using feeds: $FEEDS"
+          echo "Using cache: $CACHE_DIR (branch: $CACHE_BRANCH)"
+
+          git fetch origin "$CACHE_BRANCH:$CACHE_BRANCH" || true
+          if git show-ref --verify --quiet "refs/heads/$CACHE_BRANCH"; then
+            git restore --source "$CACHE_BRANCH" -- "$CACHE_DIR" || true
           fi
 
       - name: Update feed cache
-        run: python -m scripts.update_feeds --feeds feeds.md --quiet --concurrency 3
+        run: |
+          set -euo pipefail
+          FEEDS="${AP_FEEDS:-feeds.md}"
+          CACHE_DIR="${AP_CACHE:-cache}"
+          python -m scripts.update_feeds --feeds "$FEEDS" --cache "$CACHE_DIR" --quiet --concurrency 3
 
       - name: Build static site
-        run: python -m scripts.build_site --feeds feeds.md
+        run: |
+          set -euo pipefail
+          FEEDS="${AP_FEEDS:-feeds.md}"
+          CACHE_DIR="${AP_CACHE:-cache}"
+          python -m scripts.build_site --feeds "$FEEDS" --cache "$CACHE_DIR"
 
       - name: Persist cache state (cache branch)
         run: |
           set -euo pipefail
+          CACHE_DIR="${AP_CACHE:-cache}"
+          CACHE_BRANCH="${AP_CACHE_BRANCH:-cache}"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git show-ref --verify --quiet refs/heads/cache; then
-            git worktree add /tmp/cache-worktree cache
+          if git show-ref --verify --quiet "refs/heads/$CACHE_BRANCH"; then
+            git worktree add /tmp/cache-worktree "$CACHE_BRANCH"
           else
-            git worktree add /tmp/cache-worktree -b cache
+            git worktree add /tmp/cache-worktree -b "$CACHE_BRANCH"
           fi
 
-          mkdir -p /tmp/cache-worktree/cache
-          rsync -a --delete cache/ /tmp/cache-worktree/cache/
+          mkdir -p "$CACHE_DIR"
+          mkdir -p "/tmp/cache-worktree/$CACHE_DIR"
+          rsync -a --delete "$CACHE_DIR"/ "/tmp/cache-worktree/$CACHE_DIR"/
 
           cd /tmp/cache-worktree
-          git add -f cache
+          git add -f "$CACHE_DIR"
           if git diff --cached --quiet; then
             echo "No cache changes to push."
           else
             git commit -m "Update feed cache"
-            git push origin HEAD:cache
+            git push origin "HEAD:$CACHE_BRANCH"
           fi
 
       - name: Configure Pages

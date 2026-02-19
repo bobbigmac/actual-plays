@@ -223,7 +223,14 @@ def _load_template(path: Path) -> str:
 
 
 def _meta_extra_html(
-    *, site_cfg: dict[str, Any], base_path: str, page_title: str, page_description: str, canonical_href: str
+    *,
+    site_cfg: dict[str, Any],
+    base_path: str,
+    page_title: str,
+    page_description: str,
+    canonical_href: str,
+    og_image: str | None = None,
+    include_image: bool = True,
 ) -> str:
     site_url = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
     canonical = _abs_site_href(site_url, canonical_href) if site_url else ""
@@ -232,11 +239,15 @@ def _meta_extra_html(
     title = _esc(page_title or site_name)
     desc = _esc(page_description or "")
 
-    og_image = str(site_cfg.get("og_image") or site_cfg.get("ogImage") or "").strip()
-    if og_image:
-        og_image = _safe_http_href(og_image) or (_abs_site_href(site_url, og_image) if site_url else "")
-    if not og_image:
-        og_image = _abs_site_href(site_url, _href(base_path, "assets/icon-512.png")) if site_url else _href(base_path, "assets/icon-512.png")
+    og_image_final = ""
+    if include_image:
+        # Page override first; then site config; then default promo.
+        raw = (og_image or "").strip() or str(site_cfg.get("og_image") or site_cfg.get("ogImage") or "").strip()
+        if raw:
+            og_image_final = _safe_http_href(raw) or (_abs_site_href(site_url, raw) if site_url else "")
+        if not og_image_final:
+            promo = _href(base_path, "assets/promo.jpg")
+            og_image_final = _abs_site_href(site_url, promo) if site_url else promo
 
     extra = [
         f'<link rel="canonical" href="{_esc(canonical)}" />' if canonical else "",
@@ -245,11 +256,13 @@ def _meta_extra_html(
         f'<meta property="og:title" content="{title}" />',
         f'<meta property="og:description" content="{desc}" />' if desc else "",
         f'<meta property="og:url" content="{_esc(canonical)}" />' if canonical else "",
-        f'<meta property="og:image" content="{_esc(og_image)}" />' if og_image else "",
-        '<meta name="twitter:card" content="summary_large_image" />' if og_image else '<meta name="twitter:card" content="summary" />',
+        f'<meta property="og:image" content="{_esc(og_image_final)}" />' if og_image_final else "",
+        '<meta name="twitter:card" content="summary_large_image" />'
+        if og_image_final
+        else '<meta name="twitter:card" content="summary" />',
         f'<meta name="twitter:title" content="{title}" />',
         f'<meta name="twitter:description" content="{desc}" />' if desc else "",
-        f'<meta name="twitter:image" content="{_esc(og_image)}" />' if og_image else "",
+        f'<meta name="twitter:image" content="{_esc(og_image_final)}" />' if og_image_final else "",
     ]
     return "\n    ".join([x for x in extra if x])
 
@@ -605,6 +618,8 @@ def _write_page(
     page_title: str,
     page_description: str,
     content_html: str,
+    og_image: str | None = None,
+    include_og_image: bool = True,
 ) -> None:
     footer_links = site_cfg.get("footer_links") or []
     footer_parts: list[str] = []
@@ -621,6 +636,8 @@ def _write_page(
         page_title=page_title,
         page_description=page_description,
         canonical_href=canonical_href,
+        og_image=og_image,
+        include_image=include_og_image,
     )
 
     doc = _render_template(
@@ -1452,6 +1469,7 @@ def main() -> int:
             page_title=f"{title} — {site_cfg.get('title') or ''}".strip(" —"),
             page_description=feed_desc,
             content_html=content,
+            og_image=str(feed.get("image_url") or "").strip() or None,
         )
 
     # Speaker index + pages.
@@ -1732,6 +1750,7 @@ def main() -> int:
             page_title=f"{speaker_h1} — {site_cfg.get('title') or ''}".strip(" —"),
             page_description=f"Episodes with {speaker_h1}",
             content_html=content,
+            include_og_image=False,
         )
 
         if has_guest_feed:
