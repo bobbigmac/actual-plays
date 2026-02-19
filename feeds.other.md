@@ -18,6 +18,7 @@
 ## a-woodturners-journey
 - url: https://feeds.acast.com/public/shows/65a70f72224eec0017895999
 - title_override: A Woodturners Journey
+- owners: Chris Jacobsen
 - categories: hobbies
 
 ## adventure-is-nigh
@@ -29,6 +30,7 @@
 ## best-smooth-jazz-host-rod-lucas
 - url: https://bsj.podomatic.com/rss2.xml
 - title_override: Best Smooth Jazz Host Rod Lucas
+- owners: Rod Lucas
 - categories: music
 
 ## beyond-the-pixels
@@ -40,6 +42,7 @@
 ## class-clown
 - url: https://feeds.megaphone.fm/APL3984327377
 - title_override: Class Clown
+- owners: Seann Walsh
 - categories: comedy
 
 ## cymraeg-bob-dydd
@@ -50,6 +53,7 @@
 ## daily-politics-from-the-new-statesman
 - url: https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926
 - title_override: Daily Politics from the New Statesman
+- owners: Anoosh Chakelian; Oli Dugmore
 - categories: politics
 
 ## firelink
@@ -83,6 +87,7 @@
 ## mom-cant-cook-a-dcom-podcast
 - url: https://rss.art19.com/mom-cant-cook
 - title_override: Mom Can't Cook! A DCOM Podcast
+- owners: Luke Westaway; Andy Farrant
 - categories: comedy
 
 ## mystery-quest
@@ -93,6 +98,7 @@
 ## natural-six
 - url: https://feeds.acast.com/public/shows/natural-six
 - title_override: Natural Six
+- owners: Harry McEntire; Ben Starr; Hollie Bennett; Alex Jordan; Aoife Wilson; Doug Cockle
 - categories: entertainment
 
 ## nature-podcast
@@ -109,11 +115,13 @@
 ## oxventure-a-dungeons-dragons-podcast
 - url: https://outsidexbox.libsyn.com/rss
 - title_override: Oxventure: A Dungeons & Dragons Podcast
+- owners: Johnny Chiodini; Andy Farrant; Ellen Rose; Jane Douglas; Luke Westaway; Mike Channell
 - categories: ttrpg, actual-play, ttrpg/dnd
 
 ## page-94-the-private-eye-podcast
 - url: https://audioboom.com/channels/5112392.rss
 - title_override: Page 94: The Private Eye Podcast
+- owners: Andrew Hunter Murray; Ian Hislop
 - categories: politics, news
 
 ## perfect-10-with-carol-vorderman
@@ -136,6 +144,7 @@
 ## ramon-fears-terror-tapes
 - url: https://feeds.acast.com/public/shows/65301134633a050012b657b7
 - title_override: Ramon Fear's Terror Tapes
+- owners: Ramon Fear
 - categories: entertainment
 
 ## rhlstp-with-richard-herring
@@ -170,6 +179,7 @@
 ## the-apocalypse-players
 - url: https://www.apocalypseplayers.com/feed.xml
 - title_override: The Apocalypse Players
+- owners: Dominic Allen; Joseph Chance; Danann McAleer
 - categories: entertainment
 
 ## the-comedians-comedian-podcast
@@ -181,6 +191,7 @@
 ## the-conversation-weekly
 - url: https://feeds.captivate.fm/the-conversation-weekly/
 - title_override: The Conversation Weekly
+- owners: Gemma Ware
 - categories: education
 
 ## the-horne-section-podcast
@@ -192,6 +203,7 @@
 ## the-next-big-idea
 - url: https://feeds.megaphone.fm/LI1683199352
 - title_override: The Next Big Idea
+- owners: Rufus Griscom; Caleb Bissinger
 - categories: education
 
 ## the-plays-of-j-b-priestley
@@ -208,7 +220,7 @@
 ## the-rewind-podcast
 - url: https://anchor.fm/s/fe089f90/podcast/rss
 - title_override: The Rewind Podcast
-- owners: Darren Mooney; Marty Sliva
+- owners: Darren Mooney; Jack Packard; Marty Sliva
 - categories: entertainment
 
 ## the-romesh-ranganathan-show
@@ -238,11 +250,13 @@
 ## xbox-casuals-an-xbox-podcast
 - url: https://anchor.fm/s/1580e714/podcast/rss
 - title_override: Xbox Casuals - An Xbox Podcast
+- owners: Corey Dirrig; Josh Finney
 - categories: entertainment
 
 ## xbox-in-ten-an-xbox-podcast
 - url: https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false
 - title_override: Xbox In Ten: An Xbox Podcast
+- owners: Brandon Rosa
 - categories: entertainment
 
 <!-- Supplemental: tracked for guest appearances, hidden from Browse by default. -->
@@ -251,6 +265,7 @@
 - url: https://feeds.captivate.fm/taskmaster-the-peoples-podcast/
 - title_override: Taskmaster: The People's Podcast
 - supplemental: true
+- owners: Jenny Eclair; Jack Bernhardt
 - categories: comedy
 
 ## parenting-hell
