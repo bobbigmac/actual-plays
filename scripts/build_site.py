@@ -18,6 +18,7 @@ from scripts.shared import sanitize_speakers, sanitize_topics
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
 _PROFILE_DIRNAME = "feed-profiles"
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
 _RESERVED_ROOT_SLUGS = {
     "",
     "assets",
@@ -307,6 +308,17 @@ def _snippet(text: str, *, limit: int = 320) -> str:
     if len(text) <= limit:
         return text
     return text[:limit].rstrip() + "…"
+
+
+def _plain_text(text: str) -> str:
+    s = str(text or "")
+    if not s:
+        return ""
+    s = html.unescape(s)
+    s = _HTML_TAG_RE.sub(" ", s)
+    s = s.replace("\xa0", " ")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 
 def _feed_fetch_warning_html(feed: dict[str, Any], *, compact: bool) -> str:
@@ -897,6 +909,7 @@ def main() -> int:
                 "title": ep.get("title"),
                 "published_at": ep.get("published_at"),
                 "episode_image_url": ep.get("image_url"),
+                "description": _snippet(_plain_text(ep.get("description") or ""), limit=320),
                 "audio_url": ep.get("enclosure_url"),
                 "link_url": ep.get("link"),
                 "duration_seconds": dur_seconds,
@@ -1834,6 +1847,7 @@ def main() -> int:
             speaker_short = re.sub(r"\s+", " ", str(speaker_h1 or "").strip())[:60]
             channel_title = f"{speaker_short} — guest appearances"
             channel_link = _href(base_path, f"{sp_page}/")
+            channel_link_abs = _abs_site_href(site_url_norm, channel_link) if site_url_norm else channel_link
             channel_desc = f"Most recent guest appearances for {speaker_short} (excluding podcasts they own)."
             last_build = _rss_pubdate(guest_eps[0].get("published_at")) or format_datetime(datetime.now(timezone.utc))
 
@@ -1849,10 +1863,18 @@ def main() -> int:
                 link_url = _safe_http_href(str(e.get("link_url") or "")) or _href(
                     base_path, f"{e.get('feed_slug') or ''}/?e={e.get('episode_key') or ''}"
                 )
+                if site_url_norm and link_url.startswith("/"):
+                    link_url = _abs_site_href(site_url_norm, link_url)
                 pub = _rss_pubdate(e.get("published_at")) or last_build
                 guid = f"{e.get('feed_slug') or ''}:{e.get('episode_key') or ''}"
                 length = int(e.get("enclosure_bytes") or 0) if isinstance(e.get("enclosure_bytes"), int) else 0
                 typ = str(e.get("enclosure_type") or "audio/mpeg").strip() or "audio/mpeg"
+                desc = str(e.get("description") or "").strip()
+                desc_xml = f"<description>{_esc(desc)}</description>" if desc else ""
+                dur = _fmt_time(e.get("duration_seconds"))
+                dur_xml = f"<itunes:duration>{_esc(dur)}</itunes:duration>" if dur else ""
+                img_url = _safe_http_href(str(e.get("episode_image_url") or e.get("feed_image_url") or ""))
+                img_xml = f'<itunes:image href="{_esc(img_url)}" />' if img_url else ""
 
                 items_xml.append(
                     f"""
@@ -1861,17 +1883,24 @@ def main() -> int:
                       <link>{_esc(link_url)}</link>
                       <guid isPermaLink="false">{_esc(guid)}</guid>
                       <pubDate>{_esc(pub)}</pubDate>
+                      {desc_xml}
+                      {img_xml}
+                      {dur_xml}
                       <enclosure url="{_esc(audio_url)}" length="{length}" type="{_esc(typ)}" />
                     </item>
                     """.strip()
                 )
 
+            rss_self = rss_abs or rss_path
+            if site_url_norm and rss_self.startswith("/"):
+                rss_self = _abs_site_href(site_url_norm, rss_self)
             rss_lines = [
                 '<?xml version="1.0" encoding="UTF-8"?>',
-                '<rss version="2.0">',
+                '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">',
                 "<channel>",
                 f"  <title>{_esc(channel_title)}</title>",
-                f"  <link>{_esc(channel_link)}</link>",
+                f'  <atom:link href="{_esc(rss_self)}" rel="self" type="application/rss+xml" />',
+                f"  <link>{_esc(channel_link_abs)}</link>",
                 f"  <description>{_esc(channel_desc)}</description>",
                 f"  <lastBuildDate>{_esc(last_build)}</lastBuildDate>",
                 "  <ttl>360</ttl>",
