@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import os
 import re
 import time
 import urllib.error
@@ -766,3 +767,75 @@ def sleep_seconds(seconds: float) -> None:
     # Centralized for potential future jitter/backoff.
     if seconds > 0:
         time.sleep(seconds)
+
+
+def format_bytes(num: int) -> str:
+    n = float(max(0, int(num or 0)))
+    for unit in ("B", "KB", "MB", "GB", "TB"):
+        if n < 1024 or unit == "TB":
+            if unit == "B":
+                return f"{int(n)} {unit}"
+            return f"{n:.2f} {unit}"
+        n /= 1024
+    return f"{n:.2f} TB"
+
+
+def path_stats(path: Path) -> dict[str, int]:
+    """
+    Lightweight recursive disk usage for a file or directory.
+    Returns: {"files": <count>, "bytes": <total_bytes>}
+    """
+    try:
+        if not path.exists():
+            return {"files": 0, "bytes": 0}
+        if path.is_file():
+            return {"files": 1, "bytes": int(path.stat().st_size)}
+    except Exception:
+        return {"files": 0, "bytes": 0}
+
+    total_files = 0
+    total_bytes = 0
+    try:
+        for p in path.rglob("*"):
+            try:
+                if not p.is_file():
+                    continue
+                total_files += 1
+                total_bytes += int(p.stat().st_size)
+            except Exception:
+                continue
+    except Exception:
+        return {"files": 0, "bytes": 0}
+
+    return {"files": total_files, "bytes": total_bytes}
+
+
+def path_stats_tree(root: Path, *, exclude_dir_names: set[str] | None = None) -> dict[str, int]:
+    """
+    Recursive disk usage for a directory, with directory-name exclusions.
+    Exclusions apply at any depth (e.g. "node_modules", ".git").
+    """
+    if not root.exists():
+        return {"files": 0, "bytes": 0}
+    if root.is_file():
+        return path_stats(root)
+
+    exclude = set(exclude_dir_names or set())
+    total_files = 0
+    total_bytes = 0
+
+    for dirpath, dirnames, filenames in os.walk(root, topdown=True, followlinks=False):
+        # Prune excluded directories.
+        if exclude and dirnames:
+            dirnames[:] = [d for d in dirnames if d not in exclude]
+        for name in filenames:
+            try:
+                p = Path(dirpath) / name
+                if not p.is_file():
+                    continue
+                total_files += 1
+                total_bytes += int(p.stat().st_size)
+            except Exception:
+                continue
+
+    return {"files": total_files, "bytes": total_bytes}

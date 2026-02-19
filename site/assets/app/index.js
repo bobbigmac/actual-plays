@@ -1,4 +1,5 @@
 import { initOffline } from "./offline.js";
+import { initDataPanel } from "./data_panel.js";
 
 (function () {
   function getBasePath() {
@@ -1732,6 +1733,11 @@ import { initOffline } from "./offline.js";
     });
   }
 
+  function closeData() {
+    var modal = $("#data-modal");
+    if (modal) modal.classList.remove("open");
+  }
+
   function speakersIncludeOwnKey() {
     return LS_PREFIX + "speakers.includeOwn";
   }
@@ -1831,310 +1837,6 @@ import { initOffline } from "./offline.js";
     refreshAllProgress();
     renderHomePanels();
     refreshQueueIndicators();
-  }
-
-  function openData() {
-    var modal = $("#data-modal");
-    if (!modal) {
-      modal = document.createElement("div");
-      modal.id = "data-modal";
-      modal.className = "modal";
-      modal.innerHTML =
-        '<div class="modal-card">' +
-        '  <div class="modal-row">' +
-        '    <div style="flex:1;font-weight:650">Data</div>' +
-        '    <button type="button" id="data-close" class="btn">Close</button>' +
-        "  </div>" +
-        '  <div class="modal-row" style="flex-wrap:wrap">' +
-        '    <button type="button" id="data-export" class="btn-primary">Export history</button>' +
-        '    <label class="btn" style="display:inline-flex;align-items:center;gap:10px;cursor:pointer">' +
-        '      Import <input id="data-import" type="file" accept="application/json" style="display:none" />' +
-        "    </label>" +
-        "  </div>" +
-        '  <div id="data-status" class="muted"></div>' +
-        '  <div class="card offline-card" style="margin-top:12px">' +
-        '    <div class="modal-row" style="align-items:flex-start;gap:12px;flex-wrap:wrap">' +
-        '      <div style="flex:1;min-width:220px">' +
-        '        <div style="font-weight:650;margin-bottom:4px">Offline</div>' +
-        '        <div id="offline-status" class="muted"></div>' +
-        "      </div>" +
-        '      <div style="display:flex;flex-direction:column;gap:10px;min-width:220px">' +
-        '        <label class="toggle"><input id="offline-auto" type="checkbox" /> Auto-download queued</label>' +
-        '        <label class="toggle"><input id="offline-wifi" type="checkbox" /> Wi‑Fi only</label>' +
-        '        <label class="toggle" style="gap:10px;justify-content:space-between">' +
-        '          <span>Max cached episodes</span>' +
-        '          <input id="offline-max" type="number" min="0" max="200" step="1" style="width:90px" />' +
-        "        </label>" +
-        '        <div class="modal-row" style="padding:0;gap:8px;flex-wrap:wrap">' +
-        '          <button type="button" id="offline-refresh" class="btn btn-sm">Refresh</button>' +
-        '          <button type="button" id="offline-run" class="btn btn-sm">Download now</button>' +
-        '          <button type="button" id="offline-persist" class="btn btn-sm">Keep offline</button>' +
-        "        </div>" +
-        "      </div>" +
-        "    </div>" +
-        '    <div class="muted" style="margin-top:8px">' +
-        "      Audio EQ needs CORS-enabled hosts; offline caching cannot bypass CORS. The service worker will try a CORS fetch first." +
-        "    </div>" +
-        "  </div>" +
-        "</div>";
-      document.body.appendChild(modal);
-      $("#data-close", modal).addEventListener("click", closeData);
-      modal.addEventListener("click", function (e) {
-        if (e.target === modal) closeData();
-      });
-    }
-    modal.classList.add("open");
-    var status = $("#data-status", modal);
-    if (status) status.textContent = "";
-
-    var s = readOfflineSettings();
-    var auto = $("#offline-auto", modal);
-    var wifi = $("#offline-wifi", modal);
-    var max = $("#offline-max", modal);
-    if (auto) auto.checked = Boolean(s.auto);
-    if (wifi) wifi.checked = Boolean(s.wifiOnly);
-    if (max) max.value = String(s.maxEpisodes);
-    refreshOfflineStatus();
-  }
-
-  function closeData() {
-    var modal = $("#data-modal");
-    if (modal) modal.classList.remove("open");
-  }
-
-  function collectExport() {
-    var out = {
-      version: 1,
-      exported_at: new Date().toISOString(),
-      history: loadHistory(),
-      queue: loadQueue(),
-      progress: {},
-      speeds: {},
-      settings: {
-        speed: Number(lsGet(LS_PREFIX + "speed") || "1") || 1,
-      },
-    };
-
-    try {
-      for (var i = 0; i < localStorage.length; i++) {
-        var k = localStorage.key(i);
-        if (!k) continue;
-        if (k.startsWith(LS_PREFIX + "p:")) {
-          var id = k.slice((LS_PREFIX + "p:").length);
-          var p = readProgress(id);
-          if (!p) continue;
-          if (p.c || p.p > 0) out.progress[id] = p;
-        }
-        if (k.startsWith(LS_PREFIX + "speed:feed:")) {
-          var slug = k.slice((LS_PREFIX + "speed:feed:").length);
-          var v = Number(lsGet(k) || "") || 0;
-          if (v) out.speeds[slug] = v;
-        }
-      }
-    } catch (_e) {}
-
-    return out;
-  }
-
-  function downloadJson(filename, obj) {
-    var blob = new Blob([JSON.stringify(obj, null, 2) + "\n"], { type: "application/json" });
-    var url = URL.createObjectURL(blob);
-    var a = document.createElement("a");
-    a.href = url;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    setTimeout(function () {
-      URL.revokeObjectURL(url);
-    }, 500);
-  }
-
-  function mergeHistory(existing, incoming) {
-    var map = new Map();
-    (existing || []).forEach(function (it) {
-      if (it && it.id) map.set(it.id, it);
-    });
-    (incoming || []).forEach(function (it) {
-      if (!it || !it.id) return;
-      var prev = map.get(it.id);
-      if (!prev) {
-        map.set(it.id, it);
-        return;
-      }
-      var pu = Number(prev.u) || 0;
-      var iu = Number(it.u) || 0;
-      map.set(it.id, iu >= pu ? it : prev);
-    });
-    var arr = Array.from(map.values());
-    arr.sort(function (a, b) {
-      return (Number(b.u) || 0) - (Number(a.u) || 0);
-    });
-    return arr.slice(0, 200);
-  }
-
-  function mergeQueue(existing, incoming) {
-    var seen = new Set();
-    var out = [];
-    (existing || []).forEach(function (it) {
-      if (it && it.id && !seen.has(it.id)) {
-        seen.add(it.id);
-        out.push(it);
-      }
-    });
-    (incoming || []).forEach(function (it) {
-      if (it && it.id && !seen.has(it.id)) {
-        seen.add(it.id);
-        out.push(it);
-      }
-    });
-    return out.slice(0, 200);
-  }
-
-  function applyImport(obj) {
-    if (!obj || typeof obj !== "object") throw new Error("Invalid file");
-    if (Number(obj.version) !== 1) throw new Error("Unsupported version");
-
-    saveHistory(mergeHistory(loadHistory(), obj.history || []));
-    saveQueue(mergeQueue(loadQueue(), obj.queue || []));
-
-    var progress = obj.progress || {};
-    Object.keys(progress).forEach(function (id) {
-      var incoming = progress[id];
-      if (!incoming || typeof incoming !== "object") return;
-      var prev = readProgress(id);
-      var pu = prev ? Number(prev.u) || 0 : 0;
-      var iu = Number(incoming.u) || 0;
-      if (!prev || iu >= pu) writeProgressObj(id, incoming);
-    });
-
-    var speeds = obj.speeds || {};
-    Object.keys(speeds).forEach(function (slug) {
-      var v = Number(speeds[slug]) || 0;
-      if (v) lsSet(LS_PREFIX + "speed:feed:" + slug, String(v));
-    });
-    if (obj.settings && obj.settings.speed) {
-      var s = Number(obj.settings.speed) || 0;
-      if (s) lsSet(LS_PREFIX + "speed", String(s));
-    }
-
-    refreshAllProgress();
-    renderHomePanels();
-  }
-
-  function initData() {
-    $all("[data-open-data]").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        openData();
-      });
-    });
-
-    document.addEventListener("click", function (e) {
-      var t = e.target;
-      if (!t || !t.closest) return;
-      var btn = t.closest("#data-export");
-      if (!btn) return;
-      e.preventDefault();
-      var payload = collectExport();
-      var d = new Date();
-      var y = String(d.getFullYear());
-      var m = String(d.getMonth() + 1).padStart(2, "0");
-      var day = String(d.getDate()).padStart(2, "0");
-      downloadJson("podcast-history-" + y + m + day + ".json", payload);
-      var status = $("#data-status");
-      if (status) status.textContent = "Exported.";
-    });
-
-    document.addEventListener("click", function (e) {
-      var t = e.target;
-      if (!t || !t.closest) return;
-
-      var refreshBtn = t.closest("#offline-refresh");
-      if (refreshBtn) {
-        e.preventDefault();
-        refreshOfflineStatus();
-        return;
-      }
-
-      var runBtn = t.closest("#offline-run");
-      if (runBtn) {
-        e.preventDefault();
-        runBtn.disabled = true;
-        maybeAutoCacheQueue({ force: true })
-          .catch(function () {})
-          .finally(function () {
-            runBtn.disabled = false;
-          });
-        return;
-      }
-
-      var persistBtn = t.closest("#offline-persist");
-      if (persistBtn) {
-        e.preventDefault();
-        if (!navigator.storage || !navigator.storage.persist) {
-          var s0 = $("#offline-status") || $("#data-status");
-          if (s0) s0.textContent = "Persistent storage API not available in this browser.";
-          return;
-        }
-        persistBtn.disabled = true;
-        navigator.storage
-          .persist()
-          .then(function (ok) {
-            var s1 = $("#offline-status") || $("#data-status");
-            if (s1) s1.textContent = ok ? "Persistent storage granted." : "Persistent storage not granted.";
-          })
-          .catch(function () {
-            var s2 = $("#offline-status") || $("#data-status");
-            if (s2) s2.textContent = "Persistent storage request failed.";
-          })
-          .finally(function () {
-            persistBtn.disabled = false;
-            refreshOfflineStatus();
-          });
-        return;
-      }
-    });
-
-    document.addEventListener("change", function (e) {
-      var t = e.target;
-      if (!t || t.id !== "data-import") return;
-      var file = t.files && t.files[0];
-      if (!file) return;
-      var status = $("#data-status");
-      if (status) status.textContent = "Importing…";
-      var reader = new FileReader();
-      reader.onload = function () {
-        try {
-          var obj = JSON.parse(String(reader.result || ""));
-          applyImport(obj);
-          if (status) status.textContent = "Imported.";
-        } catch (err) {
-          if (status) status.textContent = String(err || "Import failed");
-        } finally {
-          t.value = "";
-        }
-      };
-      reader.readAsText(file);
-    });
-
-    document.addEventListener("change", function (e) {
-      var t = e.target;
-      if (!t) return;
-      if (t.id !== "offline-auto" && t.id !== "offline-wifi" && t.id !== "offline-max") return;
-      var modal = $("#data-modal");
-      if (!modal || !modal.classList.contains("open")) return;
-
-      var auto = $("#offline-auto", modal);
-      var wifi = $("#offline-wifi", modal);
-      var max = $("#offline-max", modal);
-      writeOfflineSettings({
-        auto: auto ? Boolean(auto.checked) : false,
-        wifiOnly: wifi ? Boolean(wifi.checked) : false,
-        maxEpisodes: max ? Number(max.value) : 0,
-      });
-      refreshOfflineStatus();
-      maybeAutoCacheQueue({ force: false });
-    });
   }
 
   function initEpisodeActions() {
@@ -2292,7 +1994,25 @@ import { initOffline } from "./offline.js";
   initEpisodeActions();
   initMenus();
   initSpaNavigation();
-  initData();
+  initDataPanel({
+    $: $,
+    $all: $all,
+    LS_PREFIX: LS_PREFIX,
+    lsGet: lsGet,
+    loadHistory: loadHistory,
+    saveHistory: saveHistory,
+    loadQueue: loadQueue,
+    saveQueue: saveQueue,
+    readProgress: readProgress,
+    writeProgressObj: writeProgressObj,
+    refreshAllProgress: refreshAllProgress,
+    renderHomePanels: renderHomePanels,
+    refreshQueueIndicators: refreshQueueIndicators,
+    readOfflineSettings: readOfflineSettings,
+    writeOfflineSettings: writeOfflineSettings,
+    refreshOfflineStatus: refreshOfflineStatus,
+    maybeAutoCacheQueue: maybeAutoCacheQueue,
+  });
   initPwa();
   ensureSearchUi();
   applySpeakersUi();

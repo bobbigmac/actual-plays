@@ -203,25 +203,62 @@ export function initOffline(deps) {
 
   function maybeAutoCacheQueue(opts) {
     var options = opts || {};
+    var onProgress = typeof options.onProgress === "function" ? options.onProgress : null;
+    var onLog = typeof options.onLog === "function" ? options.onLog : null;
     var s = readOfflineSettings();
     if (!s.auto && !options.force) return refreshOfflineStatus();
-    if (!s.maxEpisodes) return refreshOfflineStatus();
-    if (!isWifiAllowedBySetting()) return refreshOfflineStatus();
+    if (!s.maxEpisodes) {
+      if (onLog) onLog("disabled_maxEpisodes_0", {});
+      if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
+      return refreshOfflineStatus();
+    }
+    if (!isWifiAllowedBySetting()) {
+      if (onLog) onLog("wifi_blocked", {});
+      var errWifi = new Error("Wi‑Fi only is enabled and the current connection is not Wi‑Fi (or the browser reports Data Saver).");
+      if (options.force) return Promise.reject(errWifi);
+      if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
+      return refreshOfflineStatus();
+    }
 
     var runId = ++autoOfflineRunId;
 
     if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
+      var err = new Error(
+        "Service worker is not active. Reload once (or install the PWA) and try again."
+      );
+      if (onLog) onLog("sw_inactive", {});
+      if (options.force) return Promise.reject(err);
       return refreshOfflineStatus();
     }
 
     return Promise.all([estimateStorage(), getAudioCacheCount()]).then(function (arr) {
       var est = arr[0];
       var audioCount = Number(arr[1]) || 0;
-      if (est && est.quota && (est.pct || 0) >= OFFLINE_WARN_PCT) return refreshOfflineStatus();
-      if (audioCount >= s.maxEpisodes) return refreshOfflineStatus();
+      if (est && est.quota && (est.pct || 0) >= OFFLINE_WARN_PCT) {
+        if (onLog) onLog("near_quota", { pct: est.pct });
+        if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
+        return refreshOfflineStatus();
+      }
+      if (audioCount >= s.maxEpisodes) {
+        if (onLog) onLog("at_maxEpisodes", { audioCount: audioCount, maxEpisodes: s.maxEpisodes });
+        if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
+        return refreshOfflineStatus();
+      }
 
       var q = loadQueue().slice(0, 200);
       var i = 0;
+      var stored = 0;
+      var hit = 0;
+      var fail = 0;
+      var total = Math.max(0, Math.min(q.length, s.maxEpisodes - audioCount));
+
+      if (onProgress) onProgress({ stage: "start", done: 0, total: total, stored: 0, hit: 0, fail: 0 });
+      if (onLog) onLog("start", { maxEpisodes: s.maxEpisodes, existing: audioCount, queue: q.length, total: total });
+      if (!total) {
+        if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
+        if (onLog) onLog("nothing_to_do", {});
+        return refreshOfflineStatus();
+      }
 
       function next() {
         if (runId !== autoOfflineRunId) return Promise.resolve();
@@ -241,7 +278,17 @@ export function initOffline(deps) {
             });
           })
           .then(function (status) {
-            if (status === "stored") audioCount += 1;
+            if (status === "stored") {
+              audioCount += 1;
+              stored += 1;
+            } else if (status === "hit") {
+              hit += 1;
+            } else if (status === "fail") {
+              fail += 1;
+            }
+            var done = stored + hit + fail;
+            if (onProgress) onProgress({ stage: "item", done: done, total: total, status: status, url: it.a, stored: stored, hit: hit, fail: fail });
+            if (onLog) onLog("item", { status: status, url: it.a, stored: stored, hit: hit, fail: fail });
             if (status === "stored" && navigator.storage && navigator.storage.estimate) {
               return estimateStorage().then(function (e2) {
                 if (e2 && e2.quota && (e2.pct || 0) >= OFFLINE_WARN_PCT) return refreshOfflineStatus();
@@ -251,11 +298,18 @@ export function initOffline(deps) {
             return next();
           })
           .catch(function () {
+            fail += 1;
+            var done2 = stored + hit + fail;
+            if (onProgress) onProgress({ stage: "item", done: done2, total: total, status: "fail", url: it.a, stored: stored, hit: hit, fail: fail });
+            if (onLog) onLog("item_error", { url: it.a });
             return next();
           });
       }
 
-      return next();
+      return next().finally(function () {
+        if (onProgress) onProgress({ stage: "done", done: stored + hit + fail, total: total, stored: stored, hit: hit, fail: fail });
+        if (onLog) onLog("done", { stored: stored, hit: hit, fail: fail, total: total });
+      });
     });
   }
 
@@ -270,4 +324,3 @@ export function initOffline(deps) {
     maybeAutoCacheQueue: maybeAutoCacheQueue,
   };
 }
-

@@ -14,8 +14,10 @@ from scripts.shared import (
     REPO_ROOT,
     extract_speakers,
     extract_topics,
+    format_bytes,
     fetch_url,
     parse_feed,
+    path_stats,
     read_json,
     sanitize_speakers,
     sanitize_topics,
@@ -179,54 +181,44 @@ def _render_cache_markdown(
 
 _SPACY_LOCK = Lock()
 _SPACY_NLP = None
-_SPACY_UNAVAILABLE = False
 
 
 def _get_spacy_nlp(*, quiet: bool):
-    global _SPACY_NLP, _SPACY_UNAVAILABLE
-    if _SPACY_UNAVAILABLE:
-        return None
+    global _SPACY_NLP
     if _SPACY_NLP is not None:
         return _SPACY_NLP
     with _SPACY_LOCK:
         if _SPACY_NLP is not None:
             return _SPACY_NLP
-        if _SPACY_UNAVAILABLE:
-            return None
         try:
             import spacy  # type: ignore
         except Exception:
-            if not quiet:
-                print(
-                    "[warn] spaCy not installed; falling back to heuristic tagging. "
-                    "For better name detection: install requirements + en_core_web_sm.",
-                    file=sys.stderr,
-                )
-            _SPACY_UNAVAILABLE = True
-            return None
+            raise RuntimeError(
+                "spaCy is not installed.\n"
+                "Fix:\n"
+                "  python3 -m pip install -r requirements.txt\n"
+                "  python3 -m spacy download en_core_web_sm\n"
+            )
 
         try:
             _SPACY_NLP = spacy.load("en_core_web_sm", disable=["parser"])
             return _SPACY_NLP
         except Exception as e:
-            if not quiet:
-                print(
-                    "[warn] spaCy not available (install requirements + model): "
-                    f"{e}. Falling back to heuristic tagging.",
-                    file=sys.stderr,
-                )
-            _SPACY_UNAVAILABLE = True
-            return None
+            raise RuntimeError(
+                "spaCy model en_core_web_sm is not available.\n"
+                "Fix:\n"
+                "  python3 -m spacy download en_core_web_sm\n"
+                "If you already ran that, ensure you're using the same Python environment.\n"
+                f"Underlying error: {e}\n"
+            )
 
 
-def _try_tag_with_spacy(items: list[dict], *, quiet: bool) -> dict[str, dict] | None:
+def _try_tag_with_spacy(items: list[dict], *, quiet: bool) -> dict[str, dict]:
     """
     Uses spaCy NER/POS (if installed) to extract speakers/topics.
-    Returns a dict: episode_key -> {speakers: [...], topics: [...]} or None if unavailable.
+    Returns a dict: episode_key -> {speakers: [...], topics: [...]}.
     """
     nlp = _get_spacy_nlp(quiet=quiet)
-    if nlp is None:
-        return None
 
     ids: list[str] = []
     texts: list[str] = []
@@ -467,6 +459,7 @@ def main() -> int:
     state.setdefault("feeds", {})
 
     any_changed = False
+    had_error = False
     now_iso = utc_now_iso()
 
     feeds = cfg.get("feeds") or []
@@ -580,6 +573,13 @@ def main() -> int:
         per_feed_state_by_slug[str(slug)] = per_feed_state
 
     if jobs:
+        try:
+            _get_spacy_nlp(quiet=args.quiet)
+        except Exception as e:
+            print("[error] spaCy tagging is required but unavailable.", file=sys.stderr)
+            print(str(e), file=sys.stderr)
+            return 2
+
         max_workers = max(1, min(int(args.concurrency), len(jobs)))
         with ThreadPoolExecutor(max_workers=max_workers) as ex:
             futures = {}
@@ -604,6 +604,7 @@ def main() -> int:
                     res = fut.result()
                 except Exception as e:
                     print(f"[error] {slug} failed during processing: {e}", file=sys.stderr)
+                    had_error = True
                     continue
 
                 state["feeds"][res.slug] = res.per_feed_state
@@ -613,11 +614,22 @@ def main() -> int:
     state["updated_at"] = now_iso
     write_json(state_path, state)
 
+    if not args.quiet:
+        feeds_stats = path_stats(feeds_md_dir)
+        state_stats = path_stats(state_path)
+        cache_stats = path_stats(cache_dir)
+        print(
+            "[size] cache/feeds: "
+            f"{feeds_stats['files']} files, {format_bytes(feeds_stats['bytes'])} · "
+            f"state.json: {format_bytes(state_stats['bytes'])} · "
+            f"cache total: {format_bytes(cache_stats['bytes'])}"
+        )
+
     if any_changed:
         _log("[done] feeds updated", quiet=args.quiet)
     else:
         _log("[done] no feed changes", quiet=args.quiet)
-    return 0
+    return 2 if had_error else 0
 
 
 if __name__ == "__main__":

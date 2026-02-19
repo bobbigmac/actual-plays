@@ -77,6 +77,7 @@ self.addEventListener("install", (event) => {
           urlFor("assets/app.js"),
           urlFor("assets/app/index.js"),
           urlFor("assets/app/offline.js"),
+          urlFor("assets/app/data_panel.js"),
           urlFor("assets/icon-192.png"),
           urlFor("assets/icon-512.png"),
           urlFor("assets/apple-touch-icon.png"),

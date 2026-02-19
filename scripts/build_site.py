@@ -8,7 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from scripts.shared import REPO_ROOT, read_json, slugify, write_json
+from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_json, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
 
@@ -717,6 +717,23 @@ def main() -> int:
             page_description=f"Episodes with {speaker}",
             content_html=content,
         )
+
+    repo_stats = path_stats_tree(
+        REPO_ROOT,
+        exclude_dir_names={
+            ".git",
+            "node_modules",
+            ".venv",
+            "__pycache__",
+        },
+    )
+    cache_stats = path_stats(cache_dir)
+    dist_stats = path_stats(dist_dir)
+    print(
+        "[size] repo total: "
+        f"{repo_stats['files']} files, {format_bytes(repo_stats['bytes'])} "
+        f"(cache: {format_bytes(cache_stats['bytes'])} · dist: {format_bytes(dist_stats['bytes'])})"
+    )
 
     return 0
 
