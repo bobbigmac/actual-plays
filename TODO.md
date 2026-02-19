@@ -1,80 +1,23 @@
-# TODO (client refactor + state model)
+# TODO (next steps)
 
-Goal: keep server-rendered HTML pages, but have **one client-side state model** that:
-- persists across cold load + SPA navigation
-- drives UI consistently anywhere an episode appears (home/latest/search/podcast page/speaker page)
-- supports offline download/caching progress + status per episode/audio URL
-- keeps concerns separated so we can iterate without touching a giant file
+This repo now has a modular client (`site/assets/app/*`) with a single state model + SPA navigation. The next steps are mostly about polish, maintainability, and making offline/search feel “complete”.
 
-## Decisions (proposed)
+## Offline UX
 
-- **State model first, framework optional.** Build a small store/event layer that doesn’t depend on any UI library.
-- **If/when we add a UI library, prefer Preact** (React-like ergonomics without React’s footprint), ideally as “islands” over existing SSR HTML.
-- **Bundling is optional but likely worth it** once modules stabilize (Vite build into a single/minified client bundle during `scripts.build_site`).
+- [ ] **Make search results fully offline-aware** by including `audio_url` (and `link_url`) in `dist/index.json` so search rows can show `Offline ✓` immediately (no fetch/resolve needed).
+- [ ] **Add a “Retry / why didn’t this cache?” state** for Offline button failures (SW inactive / CORS opaque / no audio URL) with a short user-facing hint.
+- [ ] **Clarify limitations**: Cache API doesn’t expose download byte progress, so “progress bars” can only be coarse (“caching…/done/failed”) unless we implement streamed downloads in-page.
 
-## Phase 1 — State model (no framework)
+## Bundling (optional)
 
-- [x] Create `site/assets/app/store.js` (lightweight store + subscriptions)
-- [x] Define state shape + persistence keys (localStorage/IDB as appropriate):
-  - play history / queue
-  - per-episode progress
-  - per-feed speed settings
-  - offline settings
-  - offline cache index + **download jobs**
-- [ ] Add an event bridge so non-UI modules can publish state changes (partial):
-  - player updates progress
-  - offline module publishes job progress + cache status changes
-  - search/navigation can trigger re-render hooks
+- [ ] **Production client bundle**: build `assets/app/*` into a single `dist/assets/app.bundle.js` during `scripts.build_site.py` (keeps dev ESM+Vite, but reduces production module requests and SW precache churn).
 
-Acceptance:
-- One “source of truth” for episode state.
-- A single subscription point can update *any* view.
+## Consistency & Maintainability
 
-## Phase 2 — Offline progress everywhere
+- [ ] **Standardize episode-row HTML**: keep one canonical set of `data-*` fields and markup between SSR pages and client-rendered lists (home/search) so features don’t “only work in one place”.
+- [ ] **Small smoke checks**: add a simple script that runs build and asserts key outputs exist (`dist/index.html`, `dist/index.json`, `dist/sw.js`, `dist/manifest.webmanifest`) to catch regressions early.
 
-- [x] Change `site/assets/app/offline.js` to emit structured events/job updates into the store:
-  - `job.start`, `job.item`, `job.done`, `cache.changed`, `sw.inactive`, `quota.near`
-- [x] Normalize job identity by audio URL (store keys by `url`)
-- [ ] Add UI hooks for any episode row (partial):
-  - Offline button state: `Offline` / `Caching…` / `Offline ✓` / `Retry`
-  - Per-episode progress indicator for downloads (tiny bar/text)
-- [x] Ensure updates survive navigation (SPA) and are reflected on all pages.
+## Optional cleanup
 
-Acceptance:
-- Clicking “Download now” shows progress in Data panel **and** on the episode rows being downloaded (where visible).
-- Button states change immediately and stay correct after navigation.
+- [ ] Decide what to do with `ChatGPT-Site_for_Actualplay_Hub.md` (keep as historical notes, move under `docs/`, or delete).
 
-## Phase 3 — Split `site/assets/app/index.js` by responsibility
-
-Target modules (suggested):
-- [x] `site/assets/app/player.js`
-- [x] `site/assets/app/state/progress.js`
-- [x] `site/assets/app/state/queue.js`
-- [x] `site/assets/app/state/history.js`
-- [x] `site/assets/app/search.js`
-- [x] `site/assets/app/navigation.js`
-- [x] `site/assets/app/ui/speakers.js`
-- [x] `site/assets/app/episode_actions.js`
-- [x] `site/assets/app/home.js`
-- [x] `site/assets/app/data_panel.js`
-- [x] `site/assets/app/offline.js`
-
-Acceptance:
-- `index.js` becomes a thin composition/root file.
-- Modules communicate via the store, not direct DOM knowledge of each other.
-
-## Phase 4 — Client bundle build step (optional, after refactor)
-
-- [ ] Add a `build_clientjs` step executed *inside* `python -m scripts.build_site`:
-  - outputs `dist/assets/app.bundle.js` (and optional CSS)
-  - updates `site/templates/base.html` + `site/pwa/sw.js` to reference the bundle
-- [ ] Update GitHub Action to install Node only if bundling is enabled.
-
-Acceptance:
-- Local dev remains fast (ESM modules via Vite dev server).
-- Production output is smaller/faster (single minified bundle).
-
-## Phase 5 — UI componentization (optional)
-
-- [ ] If we adopt Preact: mount only where it helps (episode rows/search/data panel), keep SSR as the baseline.
-- [ ] Standardize controls/components (menu, toggles, buttons, episode row).
