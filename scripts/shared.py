@@ -190,6 +190,61 @@ def _find_rss_image_url(channel: ET.Element) -> str | None:
     return None
 
 
+def _abs_url(base: str, url: str | None) -> str | None:
+    if not url:
+        return None
+    url = url.strip()
+    if not url:
+        return None
+    try:
+        return urllib.parse.urljoin(base, url)
+    except Exception:
+        return url
+
+
+def _looks_like_image_url(url: str | None) -> bool:
+    if not url:
+        return False
+    u = url.lower()
+    return any(u.endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".webp", ".gif")) or "imgix" in u
+
+
+def _find_item_image_url(item: ET.Element, *, base_url: str | None = None) -> str | None:
+    # Prefer iTunes-style item art: <itunes:image href="..."/>
+    url = _find_first_attr_url(item, ("image",), "href")
+    if url:
+        return _abs_url(base_url or "", url)
+
+    # media:thumbnail url="..."
+    url = _find_first_attr_url(item, ("thumbnail",), "url")
+    if url:
+        return _abs_url(base_url or "", url)
+
+    # media:content url="..." type="image/*" medium="image"
+    for child in list(item):
+        if _local_name(child.tag) != "content":
+            continue
+        u = child.attrib.get("url") or child.attrib.get("href")
+        typ = (child.attrib.get("type") or "").lower()
+        med = (child.attrib.get("medium") or "").lower()
+        if med == "image" or typ.startswith("image/") or _looks_like_image_url(u):
+            if u:
+                return _abs_url(base_url or "", u)
+
+    # RSS-style item <image><url>...</url></image> (rare)
+    for child in list(item):
+        if _local_name(child.tag) != "image":
+            continue
+        for sub in list(child):
+            if _local_name(sub.tag) != "url":
+                continue
+            text = (sub.text or "").strip()
+            if text:
+                return _abs_url(base_url or "", text)
+
+    return None
+
+
 def parse_feed(xml_bytes: bytes, *, source_url: str) -> dict[str, Any]:
     root = ET.fromstring(xml_bytes)
     root_name = _local_name(root.tag).lower()
@@ -220,7 +275,7 @@ def _parse_rss(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     for item in list(channel):
         if _local_name(item.tag) != "item":
             continue
-        items.append(_parse_rss_item(item))
+        items.append(_parse_rss_item(item, base_url=source_url))
 
     return {
         "version": 1,
@@ -234,7 +289,7 @@ def _parse_rss(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     }
 
 
-def _parse_rss_item(item: ET.Element) -> dict[str, Any]:
+def _parse_rss_item(item: ET.Element, *, base_url: str) -> dict[str, Any]:
     title = strip_html(_find_child_text(item, ("title",)) or "")
     link = _find_child_text(item, ("link",))
     guid = _find_child_text(item, ("guid", "id"))
@@ -272,12 +327,15 @@ def _parse_rss_item(item: ET.Element) -> dict[str, Any]:
     if (not link) and guid and guid.strip().lower().startswith(("http://", "https://")):
         link = guid.strip()
 
+    image_url = _find_item_image_url(item, base_url=base_url)
+
     return {
         "title": title,
         "link": link,
         "guid": guid,
         "published_at": pub_date,
         "description": description,
+        "image_url": image_url.strip() if isinstance(image_url, str) and image_url.strip() else None,
         "enclosure_url": enclosure_url,
         "enclosure_type": enclosure_type,
         "enclosure_length": enclosure_length,
@@ -301,7 +359,7 @@ def _parse_atom(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     for entry in list(root):
         if _local_name(entry.tag) != "entry":
             continue
-        items.append(_parse_atom_entry(entry))
+        items.append(_parse_atom_entry(entry, base_url=source_url))
 
     image_url = None
     logo = (_find_child_text(root, ("logo", "icon")) or "").strip()
@@ -322,7 +380,7 @@ def _parse_atom(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     }
 
 
-def _parse_atom_entry(entry: ET.Element) -> dict[str, Any]:
+def _parse_atom_entry(entry: ET.Element, *, base_url: str) -> dict[str, Any]:
     title = strip_html(_find_child_text(entry, ("title",)) or "")
     guid = _find_child_text(entry, ("id", "guid"))
 
@@ -347,12 +405,15 @@ def _parse_atom_entry(entry: ET.Element) -> dict[str, Any]:
     )
     summary = strip_html(_find_child_text(entry, ("summary", "content")) or "")
 
+    image_url = _find_item_image_url(entry, base_url=base_url)
+
     return {
         "title": title,
         "link": link,
         "guid": guid,
         "published_at": published_at,
         "description": summary,
+        "image_url": image_url.strip() if isinstance(image_url, str) and image_url.strip() else None,
         "enclosure_url": enclosure_url,
         "enclosure_type": enclosure_type,
         "enclosure_length": None,
@@ -371,7 +432,7 @@ def _parse_rdf(root: ET.Element, *, source_url: str) -> dict[str, Any]:
     for item in list(root):
         if _local_name(item.tag) != "item":
             continue
-        items.append(_parse_rss_item(item))
+        items.append(_parse_rss_item(item, base_url=source_url))
 
     return {
         "version": 1,

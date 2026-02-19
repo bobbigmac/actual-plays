@@ -171,9 +171,21 @@ import { initOffline } from "./offline.js";
     if (text) text.textContent = ui.text;
   }
 
+  function refreshPlayedButtonForElement(el) {
+    if (!el || !el.getAttribute) return;
+    var id = el.getAttribute("data-episode-id") || "";
+    if (!id) return;
+    var btn = el.querySelector ? el.querySelector('[data-action="played"]') : null;
+    if (!btn) return;
+    var p = readProgress(id);
+    var done = Boolean(p && p.c);
+    btn.textContent = done ? "Mark unplayed" : "Mark played";
+  }
+
   function refreshAllProgress() {
     $all("[data-episode-id]").forEach(function (el) {
       updateProgressElement(el);
+      refreshPlayedButtonForElement(el);
     });
   }
 
@@ -181,6 +193,7 @@ import { initOffline } from "./offline.js";
     var sel = '[data-episode-id="' + cssEscape(episodeId) + '"]';
     $all(sel).forEach(function (el) {
       updateProgressElement(el);
+      refreshPlayedButtonForElement(el);
     });
   }
 
@@ -339,6 +352,7 @@ import { initOffline } from "./offline.js";
     var feedTitle = el.getAttribute("data-feed-title") || "";
     var audio = el.getAttribute("data-episode-audio") || "";
     var link = el.getAttribute("data-episode-link") || "";
+    var image = el.getAttribute("data-episode-image") || "";
     return {
       id: id,
       feedSlug: feedSlug,
@@ -348,6 +362,7 @@ import { initOffline } from "./offline.js";
       ft: feedTitle,
       a: audio,
       l: link,
+      im: image,
     };
   }
 
@@ -372,6 +387,7 @@ import { initOffline } from "./offline.js";
           ft: (doc.querySelector("h1") && doc.querySelector("h1").textContent) || feedSlug,
           a: li.getAttribute("data-episode-audio") || "",
           l: li.getAttribute("data-episode-link") || "",
+          im: li.getAttribute("data-episode-image") || "",
         };
       });
   }
@@ -395,8 +411,9 @@ import { initOffline } from "./offline.js";
         t: meta.t || full.t,
         d: meta.d || full.d,
         ft: meta.ft || full.ft,
-        a: full.a,
-        l: full.l,
+        a: meta.a || full.a,
+        l: meta.l || full.l,
+        im: meta.im || full.im,
       };
       episodeMetaCache.set(meta.id, merged);
       return merged;
@@ -407,6 +424,34 @@ import { initOffline } from "./offline.js";
     var base = new URL(getBasePath(), window.location.origin);
     var p = window.location.pathname;
     return p === base.pathname || p === base.pathname + "index.html";
+  }
+
+  function hueFromSeed(seed) {
+    var s = String(seed || "");
+    var h = 0;
+    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+    return 160 + (Math.abs(h) % 180);
+  }
+
+  function initialsFromText(text) {
+    var parts = String(text || "")
+      .trim()
+      .split(/\s+/)
+      .filter(Boolean)
+      .slice(0, 2);
+    var out = parts
+      .map(function (p) {
+        return (p[0] || "").toUpperCase();
+      })
+      .join("");
+    return out.slice(0, 2) || "P";
+  }
+
+  function artHtml(imageUrl, seedText) {
+    var img = String(imageUrl || "").trim();
+    if (img) return '<img src="' + esc(img) + '" alt="" loading="lazy" />';
+    var hue = hueFromSeed(seedText);
+    return '<div class="cover-fallback" style="--cover-hue: ' + hue + '">' + esc(initialsFromText(seedText)) + "</div>";
   }
 
   function renderHomePanels() {
@@ -452,6 +497,7 @@ import { initOffline } from "./offline.js";
           "/?e=" +
           encodeURIComponent(parsed.episodeKey);
         var meta = (it.ft ? esc(it.ft) + " · " : "") + (it.d ? esc(it.d) : "");
+        var seed = it.ft || parsed.feedSlug;
         return (
           '<li class="episode-row" data-episode-id="' +
           esc(it.id) +
@@ -469,14 +515,19 @@ import { initOffline } from "./offline.js";
           esc(it.a || "") +
           '" data-episode-link="' +
           esc(it.l || "") +
+          '" data-episode-image="' +
+          esc(it.im || "") +
           '">' +
           '<div class="row-main">' +
-          '<a href="' +
+          '<div class="row-head"><span class="row-art">' +
+          artHtml(it.im, seed) +
+          '</span><div class="row-text"><a href="' +
           esc(url) +
           '">' +
           esc(it.t || "") +
           "</a>" +
           (meta ? '<span class="muted">(' + meta + ")</span>" : "") +
+          "</div></div>" +
           "</div>" +
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Resume</button>' +
@@ -511,6 +562,7 @@ import { initOffline } from "./offline.js";
           "/?e=" +
           encodeURIComponent(parsed.episodeKey);
         var meta = (it.ft ? esc(it.ft) + " · " : "") + (it.d ? esc(it.d) : "");
+        var seed = it.ft || parsed.feedSlug;
         return (
           '<li class="episode-row" data-episode-id="' +
           esc(it.id) +
@@ -528,14 +580,19 @@ import { initOffline } from "./offline.js";
           esc(it.a || "") +
           '" data-episode-link="' +
           esc(it.l || "") +
+          '" data-episode-image="' +
+          esc(it.im || "") +
           '">' +
           '<div class="row-main">' +
-          '<a href="' +
+          '<div class="row-head"><span class="row-art">' +
+          artHtml(it.im, seed) +
+          '</span><div class="row-text"><a href="' +
           esc(url) +
           '">' +
           esc(it.t || "") +
           "</a>" +
           (meta ? '<span class="muted">(' + meta + ")</span>" : "") +
+          "</div></div>" +
           "</div>" +
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
@@ -653,6 +710,7 @@ import { initOffline } from "./offline.js";
         d: meta.d || "",
         a: meta.a || "",
         l: meta.l || "",
+        im: meta.im || "",
         u: Date.now(),
       };
       lsSet(currentKey(), JSON.stringify(payload));
@@ -908,17 +966,18 @@ import { initOffline } from "./offline.js";
       saveTimer = null;
     }
 
-    function updateMediaSession(title, artist, url) {
+    function updateMediaSession(title, artist, url, artUrl) {
       if (!("mediaSession" in navigator)) return;
       try {
+        var art = String(artUrl || "").trim();
         navigator.mediaSession.metadata = new window.MediaMetadata({
           title: title || "Now playing",
           artist: artist || "",
           album: getSite().title || "",
-          artwork: [
+          artwork: (art ? [{ src: art }] : []).concat([
             { src: getBasePath() + "assets/icon-192.png", sizes: "192x192", type: "image/png" },
             { src: getBasePath() + "assets/icon-512.png", sizes: "512x512", type: "image/png" },
-          ],
+          ]),
         });
         navigator.mediaSession.setActionHandler("play", function () {
           player.play().catch(function () {});
@@ -997,7 +1056,7 @@ import { initOffline } from "./offline.js";
           } catch (_e) {}
 
           saveCurrent(full);
-          updateMediaSession(full.t || "", full.ft || "", full.l || "");
+          updateMediaSession(full.t || "", full.ft || "", full.l || "", full.im || "");
           refreshAllProgress();
           renderHomePanels();
 
@@ -1015,6 +1074,7 @@ import { initOffline } from "./offline.js";
                   d: full.d || "",
                   a: full.a || "",
                   l: full.l || "",
+                  im: full.im || "",
                   u: Date.now(),
                 });
               })
@@ -1088,7 +1148,7 @@ import { initOffline } from "./offline.js";
 
         updateEqAvailabilityUi();
         saveCurrent(cur0);
-        updateMediaSession(cur0.t || "", cur0.ft || "", cur0.l || "");
+        updateMediaSession(cur0.t || "", cur0.ft || "", cur0.l || "", cur0.im || "");
         refreshAllProgress();
         renderHomePanels();
       } catch (_e) {}
@@ -1388,6 +1448,7 @@ import { initOffline } from "./offline.js";
             var url = basePath + "podcasts/" + encodeURIComponent(e.f) + "/?e=" + encodeURIComponent(e.k);
             var line = esc(e.ft) + " · " + esc(e.d || "");
             var id = esc(m.id);
+            var seed = e.ft || e.f;
             return (
               '<li class="episode-row' +
               (m.played ? " is-played" : "") +
@@ -1403,15 +1464,19 @@ import { initOffline } from "./offline.js";
               esc(e.d || "") +
               '" data-feed-title="' +
               esc(e.ft || "") +
+              '" data-episode-image="' +
+              esc(e.im || "") +
               '">' +
               '<div class="row-main">' +
-              '<a href="' +
+              '<div class="row-head"><span class="row-art">' +
+              artHtml(e.im, seed) +
+              '</span><div class="row-text"><a href="' +
               url +
               '">' +
               esc(e.t) +
               '</a> <span class="muted">(' +
               line +
-              ")</span>" +
+              ")</span></div></div>" +
               "</div>" +
               '<div class="row-actions">' +
               '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
@@ -1673,6 +1738,17 @@ import { initOffline } from "./offline.js";
     removeFromHistory(episodeId);
     removeFromQueue(episodeId);
     refreshProgressForId(episodeId);
+    refreshAllProgress();
+    renderHomePanels();
+    refreshQueueIndicators();
+  }
+
+  function markUnplayed(episodeId) {
+    if (!episodeId) return;
+    var p = readProgress(episodeId) || { p: 0, d: 0, u: 0, c: false };
+    writeProgressObj(episodeId, { p: p.p || 0, d: p.d || 0, u: Date.now(), c: false });
+    refreshProgressForId(episodeId);
+    refreshAllProgress();
     renderHomePanels();
     refreshQueueIndicators();
   }
@@ -2051,6 +2127,7 @@ import { initOffline } from "./offline.js";
               d: full.d || "",
               a: full.a || "",
               l: full.l || "",
+              im: full.im || "",
               u: Date.now(),
             });
             renderHomePanels();
@@ -2070,7 +2147,9 @@ import { initOffline } from "./offline.js";
       }
 
       if (action === "played") {
-        markPlayed(meta.id);
+        var p = readProgress(meta.id);
+        if (p && p.c) markUnplayed(meta.id);
+        else markPlayed(meta.id);
         maybeAutoCacheQueue({ force: false });
         return;
       }

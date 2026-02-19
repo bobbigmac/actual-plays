@@ -209,14 +209,17 @@ def main() -> int:
     for feed in feeds:
         feed_slug = feed.get("slug") or ""
         feed_title = feed.get("title") or feed_slug
+        feed_image_url = feed.get("image_url")
         for ep in feed.get("episodes") or []:
             speakers = ep.get("speakers") or []
             ep_entry = {
                 "feed_slug": feed_slug,
                 "feed_title": feed_title,
+                "feed_image_url": feed_image_url,
                 "episode_key": ep.get("key"),
                 "title": ep.get("title"),
                 "published_at": ep.get("published_at"),
+                "episode_image_url": ep.get("image_url"),
                 "audio_url": ep.get("enclosure_url"),
                 "link_url": ep.get("link"),
                 "speakers": speakers,
@@ -234,6 +237,7 @@ def main() -> int:
     for e in all_episodes_index:
         if not e.get("episode_key"):
             continue
+        image_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
         index_json.append(
             {
                 "k": e["episode_key"],
@@ -241,6 +245,7 @@ def main() -> int:
                 "d": (e.get("published_at") or "")[:10],
                 "f": e.get("feed_slug") or "",
                 "ft": e.get("feed_title") or "",
+                "im": image_url,
                 "s": e.get("speakers") or [],
                 "x": e.get("topics") or [],
             }
@@ -290,6 +295,16 @@ def main() -> int:
         title = _esc(e.get("title") or "")
         date = _esc((e.get("published_at") or "")[:10])
         feed_title = _esc(e.get("feed_title") or feed_slug)
+        audio = _esc(str(e.get("audio_url") or ""))
+        link = _esc(str(e.get("link_url") or ""))
+        img_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
+        hue = _hue_from_slug(str(feed_slug))
+        initials = "".join([p[0].upper() for p in str(e.get("feed_title") or feed_slug).split()[:2] if p])[:2] or "P"
+        art = (
+            f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+            if img_url
+            else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
+        )
         url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
         recent_items.append(
             f"""
@@ -298,10 +313,18 @@ def main() -> int:
               data-episode-key="{_esc(key)}"
               data-episode-title="{title}"
               data-episode-date="{date}"
-              data-feed-title="{feed_title}">
+              data-feed-title="{feed_title}"
+              data-episode-audio="{audio}"
+              data-episode-link="{link}"
+              data-episode-image="{_esc(img_url)}">
               <div class="row-main">
-                <a href="{_esc(url)}">{title}</a>
-                <span class="muted">({feed_title} · {date})</span>
+                <div class="row-head">
+                  <span class="row-art">{art}</span>
+                  <div class="row-text">
+                    <a href="{_esc(url)}">{title}</a>
+                    <span class="muted">({feed_title} · {date})</span>
+                  </div>
+                </div>
               </div>
               <div class="row-actions">
                 <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
@@ -380,6 +403,14 @@ def main() -> int:
             date = _esc(str((ep.get("published_at") or "")[:10]))
             audio = _esc(str(ep.get("enclosure_url") or ""))
             link = _esc(str(ep.get("link") or ""))
+            img_url = str((ep.get("image_url") or feed.get("image_url") or "")).strip()
+            hue = _hue_from_slug(str(slug))
+            initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
+            art = (
+                f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+                if img_url
+                else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
+            )
             desc_full = str(ep.get("description") or "")
             desc_snip = _snippet(desc_full, limit=360)
             has_more = bool(desc_full and len(desc_full) > len(desc_snip))
@@ -414,8 +445,10 @@ def main() -> int:
                   data-episode-title="{ep_title}"
                   data-episode-date="{date}"
                   data-episode-audio="{audio}"
-                  data-episode-link="{link}">
+                  data-episode-link="{link}"
+                  data-episode-image="{_esc(img_url)}">
                   <div class="ep-actions">
+                    <div class="ep-cover">{art}</div>
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
                     <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
                     <details class="menu">
@@ -522,6 +555,14 @@ def main() -> int:
                 date = _esc(str((e.get("published_at") or "")[:10]))
                 audio = _esc(str(e.get("audio_url") or ""))
                 link = _esc(str(e.get("link_url") or ""))
+                img_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
+                hue = _hue_from_slug(str(feed_slug))
+                initials = "".join([p[0].upper() for p in str(feed_title_raw or feed_slug).split()[:2] if p])[:2] or "P"
+                art = (
+                    f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+                    if img_url
+                    else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
+                )
                 url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
                 items.append(
                     f"""
@@ -532,10 +573,16 @@ def main() -> int:
                       data-episode-date="{date}"
                       data-feed-title="{feed_title}"
                       data-episode-audio="{audio}"
-                      data-episode-link="{link}">
+                      data-episode-link="{link}"
+                      data-episode-image="{_esc(img_url)}">
                       <div class="row-main">
-                        <a href="{_esc(url)}">{title}</a>
-                        <span class="muted">({date})</span>
+                        <div class="row-head">
+                          <span class="row-art">{art}</span>
+                          <div class="row-text">
+                            <a href="{_esc(url)}">{title}</a>
+                            <span class="muted">({date})</span>
+                          </div>
+                        </div>
                       </div>
                       <div class="row-actions">
                         <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>

@@ -319,6 +319,7 @@ def _process_one_feed(
         published_at = item.get("published_at")
         description = item.get("description") or ""
         enclosure_url = item.get("enclosure_url")
+        image_url = item.get("image_url")
         key = stable_episode_key(
             guid=item.get("guid"),
             enclosure_url=enclosure_url,
@@ -332,6 +333,7 @@ def _process_one_feed(
                 "published_at": published_at,
                 "link": item.get("link"),
                 "description": description,
+                "image_url": image_url,
                 "enclosure_url": enclosure_url,
                 "enclosure_type": item.get("enclosure_type"),
                 "itunes_duration": item.get("itunes_duration"),
