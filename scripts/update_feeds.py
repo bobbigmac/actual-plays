@@ -6,6 +6,7 @@ import os
 import sys
 import time
 import urllib.error
+import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -73,6 +74,47 @@ def _parse_args() -> argparse.Namespace:
 def _log(msg: str, *, quiet: bool) -> None:
     if not quiet:
         print(msg)
+
+
+def _normalize_youtube_url(url: str) -> tuple[str, str | None]:
+    """
+    Accept either YouTube Atom feed URLs (preferred) or convenience channel/playlist URLs.
+
+    Returns (normalized_url, note). `note` is non-null when we rewrote the input.
+    """
+    u = str(url or "").strip()
+    if not u:
+        return u, None
+    try:
+        parsed = urllib.parse.urlparse(u)
+    except Exception:
+        return u, None
+
+    host = (parsed.netloc or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    if host not in ("youtube.com", "m.youtube.com"):
+        return u, None
+
+    path = parsed.path or ""
+    if path.startswith("/feeds/videos.xml"):
+        return u, None
+
+    q = urllib.parse.parse_qs(parsed.query or "")
+    # Playlist URLs commonly have ?list=PL...
+    if "list" in q and q["list"]:
+        pid = str(q["list"][0] or "").strip()
+        if pid:
+            return f"https://www.youtube.com/feeds/videos.xml?playlist_id={urllib.parse.quote(pid)}", "playlist"
+
+    # Channel URLs: /channel/UC...
+    if path.startswith("/channel/"):
+        cid = path.split("/", 3)[2] if len(path.split("/")) >= 3 else ""
+        cid = cid.strip()
+        if cid:
+            return f"https://www.youtube.com/feeds/videos.xml?channel_id={urllib.parse.quote(cid)}", "channel"
+
+    return u, None
 
 
 def _atomic_write_text(path: Path, text: str) -> None:
@@ -905,6 +947,10 @@ def main() -> int:
         if not slug or not url:
             print(f"Skipping invalid feed config: {feed_cfg}", file=sys.stderr)
             continue
+        norm_url, yt_note = _normalize_youtube_url(str(url))
+        if yt_note:
+            _log(f"[info] {slug} YouTube URL -> feed ({yt_note})", quiet=args.quiet)
+            url = norm_url
 
         feed_min_hours = int(feed_cfg.get("min_hours_between_checks", min_hours_between_checks))
         feed_max_episodes = int(feed_cfg.get("max_episodes_per_feed", max_episodes_per_feed))

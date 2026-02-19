@@ -79,6 +79,23 @@ export function initEpisodeActions(deps) {
       return;
     }
 
+    if (action === "open") {
+      resolveEpisodeMeta(meta)
+        .then(function (full) {
+          var url = (full && full.l) || (meta && meta.l) || "";
+          if (!url) throw new Error("No link URL");
+          try {
+            window.open(url, "_blank", "noopener");
+          } catch (_e) {
+            window.location.href = url;
+          }
+        })
+        .catch(function (e2) {
+          console.warn("[open] failed", e2);
+        });
+      return;
+    }
+
     if (action === "queue") {
       if (isQueuedId(meta.id)) {
         removeFromQueue(meta.id);
@@ -90,6 +107,10 @@ export function initEpisodeActions(deps) {
       if (meta && !meta.ft) meta.ft = getPageFeedTitle();
       resolveEpisodeMeta(meta)
         .then(function (full) {
+          if (!full.a) {
+            console.warn("[queue] no playable audio enclosure; not queued", full);
+            return;
+          }
           enqueue({
             id: full.id,
             t: full.t || "",

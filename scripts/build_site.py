@@ -1106,14 +1106,29 @@ def main() -> int:
         slug = str(feed.get("slug") or "")
         title = str(feed.get("title") or slug)
         warn_html = _feed_fetch_warning_html(feed, compact=False)
+        no_audio_panel = ""
+        try:
+            eps0 = feed.get("episodes") or []
+            if isinstance(eps0, list) and eps0 and not any((e.get("enclosure_url") for e in eps0 if isinstance(e, dict))):
+                no_audio_panel = (
+                    '<section class="card panel feed-warning-panel">'
+                    '<div><strong>No playable audio in this feed.</strong></div>'
+                    '<div class="muted">This feed doesn’t provide audio enclosure URLs (e.g. some video feeds like YouTube). '
+                    "Play will open the episode link instead.</div>"
+                    "</section>"
+                )
+        except Exception:
+            pass
         episodes_html = []
         for ep in feed.get("episodes") or []:
             key = str(ep.get("key") or "")
             episode_id = f"{slug}:{key}"
             ep_title = _esc(str(ep.get("title") or ""))
             date = _esc(str((ep.get("published_at") or "")[:10]))
-            audio = _esc(str(ep.get("enclosure_url") or ""))
+            audio_raw = str(ep.get("enclosure_url") or "").strip()
+            audio = _esc(audio_raw)
             link = _esc(str(ep.get("link") or ""))
+            has_audio = bool(audio_raw)
             dur_seconds = _duration_seconds(ep.get("itunes_duration"))
             bytes_value = _parse_int(ep.get("enclosure_length") or ep.get("enclosure_bytes"))
             img_url = str((ep.get("image_url") or feed.get("image_url") or "")).strip()
@@ -1153,6 +1168,15 @@ def main() -> int:
                 if has_more
                 else ""
             )
+            primary_btn = (
+                '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>'
+                if has_audio
+                else ('<button class="btn-primary btn-sm" type="button" data-action="open">Open</button>' if link else "")
+            )
+            queue_btn = (
+                '<button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>' if has_audio else ""
+            )
+            offline_btn = '<button class="btn btn-sm" type="button" data-action="offline">Offline</button>' if has_audio else ""
             episodes_html.append(
                 f"""
                 <li class="episode" id="e-{_esc(key)}" data-episode-id="{_esc(episode_id)}"
@@ -1166,13 +1190,13 @@ def main() -> int:
                   data-episode-bytes="{_esc(str(bytes_value or ''))}">
                   <div class="ep-actions">
                     <div class="ep-cover">{art}</div>
-                    <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
-                    <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
+                    {primary_btn}
+                    {queue_btn}
                     <details class="menu">
                       <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
                       <div class="menu-panel card">
                         <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
-                        <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                        {offline_btn}
                         <div class="menu-sep"></div>
                         <button class="btn btn-sm" type="button" data-action="bulk-newer">Set newer as played</button>
                         <button class="btn btn-sm" type="button" data-action="bulk-older">Set older as played</button>
@@ -1269,6 +1293,7 @@ def main() -> int:
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
         {warn_html}
+        {no_audio_panel}
         {subscribe_panel}
         {profile_panel}
         {cats_html}

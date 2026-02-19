@@ -384,6 +384,11 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: The Adventure Zone
 - categories: ttrpg, actual-play
 
+## adventure-is-nigh
+- url: https://anchor.fm/s/fcdf7d8c/podcast/rss
+- title_override: Adventure is Nigh!
+- categories: games
+
 ## the-adventures-of-philip-marlowe
 - url: https://www.spreaker.com/show/5656706/episodes/feed
 - title_override: The Adventures of Philip Marlowe

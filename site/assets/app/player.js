@@ -675,6 +675,21 @@ export function initPlayer() {
       .then(function (full) {
         if (!full || !full.id) return null;
 
+        // Some feeds (notably YouTube Atom feeds) don't have audio enclosures.
+        // Don't clobber the current player state; instead, prompt the user to open the episode link.
+        if (!full.a) {
+          var msg = "This item has no playable audio source (no enclosure URL).";
+          if (full.l) msg += autoplay ? " Opening the episode link." : " Use the episode link to listen/watch.";
+          setAudioNote(msg);
+          if (autoplay && full.l) {
+            try {
+              window.open(full.l, "_blank", "noopener");
+            } catch (_e) {}
+          }
+          console.warn("[player] no audio enclosure", full);
+          return null;
+        }
+
         currentEpisodeId = full.id;
         currentFeedSlug = full.feedSlug || parseEpisodeId(full.id).feedSlug || null;
         currentMeta = full;
