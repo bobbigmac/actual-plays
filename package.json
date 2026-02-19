@@ -8,14 +8,23 @@
     "vite": "^5.4.0"
   },
   "scripts": {
-    "update": "./scripts/py -m scripts.update_feeds --feeds feeds.md",
-    "update:sanitize": "./scripts/py -m scripts.update_feeds --feeds feeds.md --sanitize-cache",
+    "update": "./scripts/py -m scripts.update_feeds --feeds feeds.md --cache cache",
+    "update:sanitize": "./scripts/py -m scripts.update_feeds --feeds feeds.md --cache cache --sanitize-cache",
+    "update:actualplays": "./scripts/py -m scripts.update_feeds --feeds feeds.actualplays.md --cache cache.actualplays",
+    "update:other": "./scripts/py -m scripts.update_feeds --feeds feeds.other.md --cache cache.other",
     "convert:feedsmd": "./scripts/py -m scripts.convert_feeds_config",
-    "build": "./scripts/py -m scripts.build_site --feeds feeds.md",
-    "dev": "vite --config vite.config.js",
-    "dev:force": "./scripts/py -m scripts.update_feeds --feeds feeds.md --force && ./scripts/py -m scripts.build_site --feeds feeds.md --base-path / && vite --config vite.config.js",
+    "build": "./scripts/py -m scripts.build_site --feeds feeds.md --cache cache",
+    "build:actualplays": "./scripts/py -m scripts.build_site --feeds feeds.actualplays.md --cache cache.actualplays",
+    "build:other": "./scripts/py -m scripts.build_site --feeds feeds.other.md --cache cache.other",
+    "dev": "AP_FEEDS=feeds.md AP_CACHE=cache vite --config vite.config.js",
+    "dev:actualplays": "AP_FEEDS=feeds.actualplays.md AP_CACHE=cache.actualplays vite --config vite.config.js",
+    "dev:other": "AP_FEEDS=feeds.other.md AP_CACHE=cache.other vite --config vite.config.js",
+    "dev:force": "./scripts/py -m scripts.update_feeds --feeds feeds.md --cache cache --force && ./scripts/py -m scripts.build_site --feeds feeds.md --cache cache --base-path / && AP_FEEDS=feeds.md AP_CACHE=cache vite --config vite.config.js",
+    "dev:force:actualplays": "./scripts/py -m scripts.update_feeds --feeds feeds.actualplays.md --cache cache.actualplays --force && ./scripts/py -m scripts.build_site --feeds feeds.actualplays.md --cache cache.actualplays --base-path / && AP_FEEDS=feeds.actualplays.md AP_CACHE=cache.actualplays vite --config vite.config.js",
+    "dev:force:other": "./scripts/py -m scripts.update_feeds --feeds feeds.other.md --cache cache.other --force && ./scripts/py -m scripts.build_site --feeds feeds.other.md --cache cache.other --base-path / && AP_FEEDS=feeds.other.md AP_CACHE=cache.other vite --config vite.config.js",
     "tag:check": "./scripts/py -m scripts.tag_selftest",
-    "serve": "vite --config vite.config.js"
+    "serve": "vite --config vite.config.js",
+    "reset:caches": "rm -rf cache cache.actualplays cache.other"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

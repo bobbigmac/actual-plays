@@ -202,6 +202,65 @@ def _snippet(text: str, *, limit: int = 320) -> str:
     return text[:limit].rstrip() + "…"
 
 
+def _feed_fetch_warning_html(feed: dict[str, Any], *, compact: bool) -> str:
+    fetch = feed.get("fetch")
+    if not isinstance(fetch, dict):
+        return ""
+    status = str(fetch.get("status") or "").strip()
+    if status not in ("warning", "error", "disabled"):
+        return ""
+
+    err = fetch.get("error")
+    code = None
+    msg = ""
+    if isinstance(err, dict):
+        code = err.get("status")
+        msg = str(err.get("message") or "").strip()
+    code_text = f"HTTP {int(code)}" if isinstance(code, int) and code else ""
+    disabled_reason = str(fetch.get("disabled_reason") or "").strip()
+    checked_at = str(fetch.get("checked_at") or "").strip()
+    fetched_at = str(feed.get("fetched_at") or "").strip()
+
+    if status == "disabled":
+        headline = "Feed disabled"
+    elif status == "error":
+        headline = "Feed update failed"
+    else:
+        headline = "Feed parsed with warnings"
+    bits: list[str] = []
+    if code_text:
+        bits.append(code_text)
+    if msg:
+        bits.append(msg)
+    warn = fetch.get("warning")
+    if isinstance(warn, dict):
+        wmsg = str(warn.get("message") or "").strip()
+        if wmsg:
+            bits.append(wmsg)
+    if disabled_reason and status == "disabled":
+        bits.append(disabled_reason)
+    detail = " — ".join([b for b in bits if b])
+
+    stale = ""
+    if fetched_at and checked_at and fetched_at != checked_at:
+        stale = f"Using cached data from {fetched_at[:10]}."
+    elif not fetched_at:
+        stale = "No cached episodes yet."
+
+    if compact:
+        detail_text = f"{headline}: {detail}. {stale}".strip()
+        return f'<div class="feed-warning muted">{_esc(detail_text)}</div>'
+
+    detail_html = f"<div class=\"muted\">{_esc(detail)}</div>" if detail else ""
+    stale_html = f"<div class=\"muted\">{_esc(stale)}</div>" if stale else ""
+    return (
+        f'<section class="card panel feed-warning-panel">'
+        f"<div><strong>{_esc(headline)}</strong></div>"
+        f"{detail_html}{stale_html}"
+        f"</section>"
+    )
+
+
 def _parse_int(value: Any) -> int | None:
     if value is None:
         return None
@@ -662,6 +721,7 @@ def main() -> int:
         title = _esc(str(feed.get("title") or slug))
         desc = _esc(str(feed.get("description") or ""))
         note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
+        warn_html = _feed_fetch_warning_html(feed, compact=True)
         image_url = str(feed.get("image_url") or "").strip()
         hue = _hue_from_slug(slug)
         initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
@@ -685,6 +745,7 @@ def main() -> int:
 	                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
 	                <div class="muted feed-desc">{desc}</div>
 	                {note_html}
+                    {warn_html}
 	                {missing_note}
 	              </div>
 	            </section>
@@ -847,6 +908,7 @@ def main() -> int:
             title = _esc(str(feed.get("title") or slug))
             desc = _esc(str(feed.get("description") or ""))
             note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
+            warn_html = _feed_fetch_warning_html(feed, compact=True)
             image_url = str(feed.get("image_url") or "").strip()
             hue = _hue_from_slug(slug)
             initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
@@ -866,6 +928,7 @@ def main() -> int:
                     <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
                     <div class="muted feed-desc">{desc}</div>
                     {note_html}
+                    {warn_html}
                   </div>
                 </section>
                 """.strip()
@@ -892,6 +955,7 @@ def main() -> int:
     for feed in feeds:
         slug = str(feed.get("slug") or "")
         title = str(feed.get("title") or slug)
+        warn_html = _feed_fetch_warning_html(feed, compact=False)
         episodes_html = []
         for ep in feed.get("episodes") or []:
             key = str(ep.get("key") or "")
@@ -1027,6 +1091,7 @@ def main() -> int:
         content = f"""
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
+        {warn_html}
         {profile_panel}
         {cats_html}
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>

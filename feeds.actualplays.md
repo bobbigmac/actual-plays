@@ -143,9 +143,14 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Dimension 20
 - categories: ttrpg, actual-play
 
-## dimension-20-2
-- url: https://feeds.listenbox.app/rss/xVICKybmYKtX/audio.rss
-- title_override: Dimension 20
+## dungeons-and-daddies
+- url: https://feeds.acast.com/public/shows/dungeons-and-daddies
+- title_override: Dungeons and Daddies
+- categories: ttrpg, actual-play, ttrpg/dnd
+
+## worlds-beyond-number
+- url: https://feeds.simplecast.com/IAPnSSRO
+- title_override: Worlds Beyond Number
 - categories: ttrpg, actual-play
 
 ## dndark

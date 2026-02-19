@@ -32,6 +32,8 @@ function devBuilderPlugin() {
   const distRoot = path.join(repoRoot, "dist");
   const assetsSrc = path.join(repoRoot, "site", "assets");
   const pwaSrc = path.join(repoRoot, "site", "pwa", "sw.js");
+  const feedsConfig = process.env.AP_FEEDS || "feeds.md";
+  const cacheDir = process.env.AP_CACHE || "cache";
 
   let running = false;
   let queued = null;
@@ -52,7 +54,11 @@ function devBuilderPlugin() {
           data: { stage: "update", status: "start" },
         });
         const t0 = Date.now();
-        await run("./scripts/py", ["-m", "scripts.update_feeds", "--feeds", "feeds.md", "--quiet"], { cwd: repoRoot });
+        await run(
+          "./scripts/py",
+          ["-m", "scripts.update_feeds", "--feeds", feedsConfig, "--cache", cacheDir, "--quiet"],
+          { cwd: repoRoot }
+        );
         serverRef?.ws?.send({
           type: "custom",
           event: "ap:status",
@@ -72,7 +78,11 @@ function devBuilderPlugin() {
         data: { stage: "build", status: "start" },
       });
       const t1 = Date.now();
-      await run("./scripts/py", ["-m", "scripts.build_site", "--feeds", "feeds.md", "--base-path", "/"], { cwd: repoRoot });
+      await run(
+        "./scripts/py",
+        ["-m", "scripts.build_site", "--feeds", feedsConfig, "--cache", cacheDir, "--base-path", "/"],
+        { cwd: repoRoot }
+      );
       serverRef?.ws?.send({
         type: "custom",
         event: "ap:status",
@@ -107,7 +117,8 @@ function copyAsset(file) {
         "scripts/**",
         "feed-profiles/**",
         "feeds*.md",
-        "cache/**",
+        normalize(feedsConfig),
+        normalize(cacheDir) + "/**",
       ];
       server.watcher.add(watch);
 
@@ -158,7 +169,7 @@ function copyAsset(file) {
           return;
         }
 
-        const alsoUpdateFeeds = rel === "feeds.md";
+        const alsoUpdateFeeds = rel === normalize(feedsConfig);
         server.ws.send({
           type: "custom",
           event: "ap:status",

@@ -272,19 +272,153 @@ def _find_item_image_url(item: ET.Element, *, base_url: str | None = None) -> st
 
 
 def parse_feed(xml_bytes: bytes, *, source_url: str) -> dict[str, Any]:
-    root = ET.fromstring(xml_bytes)
-    root_name = _local_name(root.tag).lower()
+    """
+    Parse RSS/Atom feeds. Uses ElementTree for well-formed XML.
 
-    if root_name == "rss":
-        return _parse_rss(root, source_url=source_url)
-    if root_name == "feed":
-        return _parse_atom(root, source_url=source_url)
+    If the XML is not well-formed (common in the wild), fall back to feedparser
+    (which is more tolerant). In that case, we return the same shape but add
+    `parse_warnings: [...]` to surface that the input was malformed.
+    """
+    try:
+        root = ET.fromstring(xml_bytes)
+        root_name = _local_name(root.tag).lower()
 
-    # Some feeds use RDF (rss 1.0); handle the common parts similarly.
-    if root_name in ("rdf", "rdf:rdf"):
-        return _parse_rdf(root, source_url=source_url)
+        if root_name == "rss":
+            return _parse_rss(root, source_url=source_url)
+        if root_name == "feed":
+            return _parse_atom(root, source_url=source_url)
 
-    raise ValueError(f"Unsupported feed root element: {root.tag}")
+        # Some feeds use RDF (rss 1.0); handle the common parts similarly.
+        if root_name in ("rdf", "rdf:rdf"):
+            return _parse_rdf(root, source_url=source_url)
+
+        raise ValueError(f"Unsupported feed root element: {root.tag}")
+    except ET.ParseError as e:
+        try:
+            import feedparser  # type: ignore
+        except Exception as ie:
+            raise ValueError(
+                "Feed XML is not well-formed, and feedparser is not installed.\n"
+                "Fix:\n"
+                "  python -m pip install -r requirements.txt\n"
+            ) from ie
+
+        parsed = feedparser.parse(xml_bytes)
+        warnings: list[str] = []
+        if getattr(parsed, "bozo", False):
+            be = getattr(parsed, "bozo_exception", None)
+            warnings.append(f"Not well-formed XML (feedparser bozo): {be or e}")
+
+        def _st_to_iso(st: Any) -> str | None:
+            if not st:
+                return None
+            try:
+                dt = datetime(*st[:6], tzinfo=timezone.utc)
+                return dt.replace(microsecond=0).isoformat()
+            except Exception:
+                return None
+
+        feed = getattr(parsed, "feed", {}) or {}
+        title = strip_html(str(getattr(feed, "title", "") or "")) or source_url
+        link = str(getattr(feed, "link", "") or "") or source_url
+        description = strip_html(str(getattr(feed, "subtitle", "") or getattr(feed, "description", "") or ""))
+
+        image_url = None
+        img = getattr(feed, "image", None)
+        if img is not None:
+            image_url = (getattr(img, "href", None) or getattr(img, "url", None) or None)
+        if not image_url:
+            image_url = getattr(feed, "icon", None) or getattr(feed, "logo", None) or None
+        if isinstance(image_url, str):
+            image_url = image_url.strip() or None
+
+        items: list[dict[str, Any]] = []
+        for entry in getattr(parsed, "entries", []) or []:
+            etitle = strip_html(str(getattr(entry, "title", "") or ""))
+            elink = str(getattr(entry, "link", "") or "") or None
+            eguid = str(getattr(entry, "id", "") or getattr(entry, "guid", "") or "") or None
+            published_at = (
+                _st_to_iso(getattr(entry, "published_parsed", None))
+                or _st_to_iso(getattr(entry, "updated_parsed", None))
+                or None
+            )
+
+            desc_candidates: list[str] = []
+            content = getattr(entry, "content", None)
+            if isinstance(content, list):
+                for c in content:
+                    try:
+                        desc_candidates.append(str(getattr(c, "value", "") or c.get("value") or ""))
+                    except Exception:
+                        pass
+            desc_candidates.append(str(getattr(entry, "summary", "") or ""))
+            desc_candidates.append(str(getattr(entry, "description", "") or ""))
+            best = ""
+            for c in desc_candidates:
+                c = strip_html(c or "")
+                if len(c) > len(best):
+                    best = c
+            edescription = best
+
+            enclosure_url = None
+            enclosure_type = None
+            enclosure_length = None
+            enclosures = getattr(entry, "enclosures", None)
+            if isinstance(enclosures, list) and enclosures:
+                enc = enclosures[0] or {}
+                enclosure_url = (getattr(enc, "href", None) or enc.get("href") or enc.get("url") or None)
+                enclosure_type = (getattr(enc, "type", None) or enc.get("type") or None)
+                enclosure_length = (
+                    getattr(enc, "length", None)
+                    or enc.get("length")
+                    or enc.get("filesize")
+                    or enc.get("fileSize")
+                    or None
+                )
+
+            itunes_duration = None
+            dur = getattr(entry, "itunes_duration", None) or getattr(entry, "duration", None)
+            if dur is not None:
+                itunes_duration = normalize_ws(str(dur))
+
+            entry_image_url = None
+            eimg = getattr(entry, "image", None)
+            if eimg is not None:
+                entry_image_url = getattr(eimg, "href", None) or getattr(eimg, "url", None) or None
+            if not entry_image_url:
+                thumbs = getattr(entry, "media_thumbnail", None)
+                if isinstance(thumbs, list) and thumbs:
+                    t0 = thumbs[0] or {}
+                    entry_image_url = getattr(t0, "url", None) or t0.get("url") or None
+            if isinstance(entry_image_url, str):
+                entry_image_url = entry_image_url.strip() or None
+
+            items.append(
+                {
+                    "title": etitle,
+                    "link": elink,
+                    "guid": eguid,
+                    "published_at": published_at,
+                    "description": edescription,
+                    "image_url": entry_image_url,
+                    "enclosure_url": enclosure_url,
+                    "enclosure_type": enclosure_type,
+                    "enclosure_length": enclosure_length,
+                    "itunes_duration": itunes_duration,
+                }
+            )
+
+        return {
+            "version": 1,
+            "type": "feedparser",
+            "source_url": source_url,
+            "title": title,
+            "link": link,
+            "description": description,
+            "image_url": image_url,
+            "items": items,
+            "parse_warnings": warnings or [f"Not well-formed XML: {e}"],
+        }
 
 
 def _parse_rss(root: ET.Element, *, source_url: str) -> dict[str, Any]:

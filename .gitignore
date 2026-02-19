@@ -2,6 +2,8 @@ node_modules
 .next
 dist
 cache/
+cache.*
+cache-*/
 .DS_Store
 .env
 .env.*

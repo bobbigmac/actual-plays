@@ -4,6 +4,7 @@ import argparse
 import json
 import sys
 import time
+import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -26,6 +27,9 @@ from scripts.shared import (
     utc_now_iso,
     write_json,
 )
+
+_DISABLE_AFTER_CONSECUTIVE_FAILURES_DEFAULT = 3
+_DISABLE_IMMEDIATELY_HTTP_STATUSES = {410}
 
 
 def _parse_args() -> argparse.Namespace:
@@ -165,6 +169,7 @@ def _render_cache_markdown(
     *,
     feed_slug: str,
     fetched_at: str,
+    checked_at: str,
     etag: str | None,
     last_modified: str | None,
     feed: dict,
@@ -179,11 +184,36 @@ def _render_cache_markdown(
     lines.append(f"- slug: `{feed_slug}`")
     lines.append(f"- source: `{source_url}`")
     lines.append(f"- fetched_at: `{fetched_at}`")
+    lines.append(f"- checked_at: `{checked_at}`")
     if etag:
         lines.append(f"- etag: `{etag}`")
     if last_modified:
         lines.append(f"- last_modified: `{last_modified}`")
     lines.append(f"- max_episodes_per_feed: `{defaults.get('max_episodes_per_feed')}`")
+    fetch = feed.get("fetch") if isinstance(feed, dict) else None
+    if isinstance(fetch, dict):
+        status = str(fetch.get("status") or "").strip()
+        if status and status != "ok":
+            lines.append(f"- status: `{status}`")
+            warn = fetch.get("warning")
+            if isinstance(warn, dict):
+                msg = str(warn.get("message") or "").strip()
+                if msg:
+                    lines.append(f"- warning: {msg}")
+            err = fetch.get("error")
+            if isinstance(err, dict):
+                code = err.get("status")
+                msg = str(err.get("message") or "").strip()
+                if isinstance(code, int) and code:
+                    if msg:
+                        lines.append(f"- last_error: `HTTP {code}` — {msg}")
+                    else:
+                        lines.append(f"- last_error: `HTTP {code}`")
+                elif msg:
+                    lines.append(f"- last_error: {msg}")
+            disabled_reason = str(fetch.get("disabled_reason") or "").strip()
+            if disabled_reason:
+                lines.append(f"- disabled_reason: {disabled_reason}")
     lines.append("")
     lines.append("<!-- FEED_JSON -->")
     lines.append("```json")
@@ -315,6 +345,150 @@ class _FeedResult:
     wrote_cache: bool
 
 
+def _http_error_info(e: BaseException) -> tuple[int | None, str]:
+    if isinstance(e, urllib.error.HTTPError):
+        try:
+            code = int(getattr(e, "code", None) or 0) or None
+        except Exception:
+            code = None
+        msg = str(getattr(e, "reason", "") or "").strip()
+        if not msg:
+            msg = str(e).strip()
+        return code, msg
+    msg = str(e).strip() or e.__class__.__name__
+    return None, msg
+
+
+def _should_disable_feed(*, status: int | None, consecutive_failures: int, disable_after: int) -> tuple[bool, str]:
+    if isinstance(status, int) and status in _DISABLE_IMMEDIATELY_HTTP_STATUSES:
+        return True, f"HTTP {status}"
+    if consecutive_failures >= max(1, int(disable_after)):
+        return True, f"{consecutive_failures} consecutive failures"
+    return False, ""
+
+
+def _write_cache_if_changed(
+    *,
+    md_path: Path,
+    feed_slug: str,
+    checked_at: str,
+    per_feed_state: dict,
+    defaults: dict,
+    feed_json: dict,
+    prev_json: dict,
+    quiet: bool,
+) -> bool:
+    prev_sig = json.dumps(prev_json or {}, sort_keys=True, ensure_ascii=False)
+    next_sig = json.dumps(feed_json or {}, sort_keys=True, ensure_ascii=False)
+    if prev_sig == next_sig:
+        return False
+
+    md_path.parent.mkdir(parents=True, exist_ok=True)
+    fetched_at = str(feed_json.get("fetched_at") or "—")
+    md = _render_cache_markdown(
+        feed_slug=feed_slug,
+        fetched_at=fetched_at,
+        checked_at=checked_at,
+        etag=per_feed_state.get("etag"),
+        last_modified=per_feed_state.get("last_modified"),
+        feed=feed_json,
+        defaults=defaults,
+    )
+    md_path.write_text(md, encoding="utf-8")
+    if not quiet:
+        print(f"[cached] {feed_slug} -> {md_path}")
+    return True
+
+
+def _record_failure(
+    *,
+    feed_slug: str,
+    url: str,
+    job: _FeedJob,
+    prev_json: dict,
+    per_feed_state: dict,
+    defaults: dict,
+    now_iso: str,
+    status: int | None,
+    message: str,
+    disable_after: int,
+    quiet: bool,
+    md_path: Path,
+) -> bool:
+    prev_fetch = prev_json.get("fetch") if isinstance(prev_json, dict) else None
+    prev_status = str(prev_fetch.get("status") or "").strip() if isinstance(prev_fetch, dict) else ""
+    prev_err = prev_fetch.get("error") if isinstance(prev_fetch, dict) else None
+    prev_err_sig = ""
+    if isinstance(prev_err, dict):
+        prev_err_sig = f"{prev_err.get('status')}|{prev_err.get('message')}"
+
+    consecutive = int(per_feed_state.get("consecutive_failures", 0) or 0) + 1
+    per_feed_state["consecutive_failures"] = consecutive
+    per_feed_state["last_error_at"] = now_iso
+    per_feed_state["last_error_status"] = status
+    per_feed_state["last_error_message"] = message
+
+    disable, disable_reason = _should_disable_feed(
+        status=status, consecutive_failures=consecutive, disable_after=disable_after
+    )
+    became_disabled = False
+    if disable and not per_feed_state.get("disabled"):
+        per_feed_state["disabled"] = True
+        per_feed_state["disabled_at"] = now_iso
+        per_feed_state["disabled_url"] = url
+        per_feed_state["disabled_reason"] = disable_reason or "repeated failures"
+        became_disabled = True
+
+    next_status = "disabled" if per_feed_state.get("disabled") else "error"
+    next_err_sig = f"{status}|{message}"
+    should_write = False
+    if prev_status != next_status:
+        should_write = True
+    elif prev_err_sig != next_err_sig and next_err_sig.strip("|"):
+        should_write = True
+    elif became_disabled:
+        should_write = True
+
+    if not should_write:
+        return False
+
+    base = dict(prev_json) if isinstance(prev_json, dict) else {}
+    base.setdefault("version", 1)
+    base["slug"] = feed_slug
+    base["source_url"] = url
+    base["title"] = str(base.get("title") or job.feed_title or feed_slug)
+    base["description"] = str(base.get("description") or "")
+    if not isinstance(base.get("episodes"), list):
+        base["episodes"] = []
+    base["owners"] = sanitize_speakers(job.owners)
+    base["common_speakers"] = sanitize_speakers(job.common_speakers)
+    base["categories"] = list(job.categories or [])
+
+    fetch = dict(base.get("fetch") or {}) if isinstance(base.get("fetch"), dict) else {}
+    if prev_status not in ("error", "disabled"):
+        fetch.setdefault("error_since", now_iso)
+    fetch["status"] = next_status
+    fetch["checked_at"] = now_iso
+    fetch["consecutive_failures"] = consecutive
+    fetch["error"] = {"status": status, "message": message}
+    if per_feed_state.get("disabled"):
+        fetch["disabled"] = True
+        fetch["disabled_at"] = per_feed_state.get("disabled_at")
+        fetch["disabled_reason"] = per_feed_state.get("disabled_reason")
+    base["fetch"] = fetch
+
+    return _write_cache_if_changed(
+        md_path=md_path,
+        feed_slug=feed_slug,
+        checked_at=now_iso,
+        per_feed_state=per_feed_state,
+        defaults=defaults,
+        feed_json=base,
+        prev_json=prev_json,
+        quiet=quiet,
+    )
+
+
 def _process_one_feed(
     job: _FeedJob,
     *,
@@ -337,6 +511,9 @@ def _process_one_feed(
 
     etag = per_feed_state.get("etag")
     last_modified = per_feed_state.get("last_modified")
+    disable_after = int(
+        defaults.get("disable_after_consecutive_failures", _DISABLE_AFTER_CONSECUTIVE_FAILURES_DEFAULT)
+    )
 
     try:
         result = fetch_url(
@@ -347,10 +524,25 @@ def _process_one_feed(
             if_modified_since=last_modified,
         )
     except Exception as e:
-        _err(f"[error] {slug} fetch failed: {e}")
+        status, msg = _http_error_info(e)
+        _err(f"[error] {slug} fetch failed: {msg}")
         per_feed_state["last_checked_at"] = now_iso
         per_feed_state["last_checked_unix"] = int(time.time())
-        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=False, wrote_cache=False)
+        wrote = _record_failure(
+            feed_slug=slug,
+            url=url,
+            job=job,
+            prev_json=prev_json,
+            per_feed_state=per_feed_state,
+            defaults=defaults,
+            now_iso=now_iso,
+            status=status,
+            message=msg,
+            disable_after=disable_after,
+            quiet=quiet,
+            md_path=md_path,
+        )
+        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=wrote, wrote_cache=wrote)
 
     per_feed_state["last_checked_at"] = now_iso
     per_feed_state["last_checked_unix"] = int(time.time())
@@ -358,21 +550,79 @@ def _process_one_feed(
     if result.status == 304:
         if not quiet:
             print(f"[unchanged] {slug}")
+        # Treat 304 as a successful check: clear any recorded failure/disabled state.
+        if per_feed_state.get("consecutive_failures") or per_feed_state.get("disabled"):
+            per_feed_state["consecutive_failures"] = 0
+            per_feed_state.pop("disabled", None)
+            per_feed_state.pop("disabled_at", None)
+            per_feed_state.pop("disabled_url", None)
+            per_feed_state.pop("disabled_reason", None)
+            per_feed_state.pop("last_error_at", None)
+            per_feed_state.pop("last_error_status", None)
+            per_feed_state.pop("last_error_message", None)
+
+        prev_fetch = prev_json.get("fetch") if isinstance(prev_json, dict) else None
+        if isinstance(prev_fetch, dict) and str(prev_fetch.get("status") or "").strip() in ("error", "disabled"):
+            cleared = dict(prev_json)
+            cleared.pop("fetch", None)
+            wrote = _write_cache_if_changed(
+                md_path=md_path,
+                feed_slug=slug,
+                checked_at=now_iso,
+                per_feed_state=per_feed_state,
+                defaults=defaults,
+                feed_json=cleared,
+                prev_json=prev_json,
+                quiet=quiet,
+            )
+            return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=wrote, wrote_cache=wrote)
+
         return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=False, wrote_cache=False)
 
     if not result.content:
         if not quiet:
             print(f"[warn] {slug} empty response")
-        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=False, wrote_cache=False)
+        status = int(result.status) if isinstance(result.status, int) else None
+        wrote = _record_failure(
+            feed_slug=slug,
+            url=url,
+            job=job,
+            prev_json=prev_json,
+            per_feed_state=per_feed_state,
+            defaults=defaults,
+            now_iso=now_iso,
+            status=status,
+            message="Empty response body",
+            disable_after=disable_after,
+            quiet=quiet,
+            md_path=md_path,
+        )
+        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=wrote, wrote_cache=wrote)
 
     try:
         parsed = parse_feed(result.content, source_url=url)
     except Exception as e:
-        _err(f"[error] {slug} parse failed: {e}")
-        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=False, wrote_cache=False)
+        msg = str(e).strip() or "Parse error"
+        _err(f"[error] {slug} parse failed: {msg}")
+        wrote = _record_failure(
+            feed_slug=slug,
+            url=url,
+            job=job,
+            prev_json=prev_json,
+            per_feed_state=per_feed_state,
+            defaults=defaults,
+            now_iso=now_iso,
+            status=None,
+            message=msg,
+            disable_after=disable_after,
+            quiet=quiet,
+            md_path=md_path,
+        )
+        return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=wrote, wrote_cache=wrote)
 
     feed_title = job.feed_title or parsed.get("title") or slug
     episodes_raw = parsed.get("items", [])
+    parse_warnings = parsed.get("parse_warnings") if isinstance(parsed, dict) else None
 
     pre = []
     for item in episodes_raw[: job.feed_max_episodes * 2]:
@@ -447,6 +697,28 @@ def _process_one_feed(
         "episodes": episodes,
     }
 
+    if isinstance(parse_warnings, list) and parse_warnings:
+        # Surface parsing issues without failing the update. (These feeds still tend to work.)
+        msg = str(parse_warnings[0] or "").strip() or "Feed parsed with warnings"
+        if len(msg) > 240:
+            msg = msg[:240].rstrip() + "…"
+        feed_json["fetch"] = {
+            "status": "warning",
+            "checked_at": now_iso,
+            "warning": {"message": msg},
+        }
+
+    # Clear failure/disabled state on success.
+    if per_feed_state.get("consecutive_failures") or per_feed_state.get("disabled"):
+        per_feed_state["consecutive_failures"] = 0
+        per_feed_state.pop("disabled", None)
+        per_feed_state.pop("disabled_at", None)
+        per_feed_state.pop("disabled_url", None)
+        per_feed_state.pop("disabled_reason", None)
+        per_feed_state.pop("last_error_at", None)
+        per_feed_state.pop("last_error_status", None)
+        per_feed_state.pop("last_error_message", None)
+
     if result.etag:
         per_feed_state["etag"] = result.etag
     if result.last_modified:
@@ -463,6 +735,7 @@ def _process_one_feed(
     md = _render_cache_markdown(
         feed_slug=slug,
         fetched_at=now_iso,
+        checked_at=now_iso,
         etag=per_feed_state.get("etag"),
         last_modified=per_feed_state.get("last_modified"),
         feed=feed_json,
@@ -552,6 +825,10 @@ def main() -> int:
             md = _render_cache_markdown(
                 feed_slug=slug,
                 fetched_at=str(feed_json.get("fetched_at") or now_iso),
+                checked_at=str(
+                    (feed_json.get("fetch") or {}).get("checked_at") if isinstance(feed_json.get("fetch"), dict) else ""
+                )
+                or str(feed_json.get("fetched_at") or now_iso),
                 etag=per_feed_state.get("etag"),
                 last_modified=per_feed_state.get("last_modified"),
                 feed=feed_json,
@@ -584,6 +861,22 @@ def main() -> int:
         feed_max_episodes = int(feed_cfg.get("max_episodes_per_feed", max_episodes_per_feed))
 
         per_feed_state = state["feeds"].get(slug, {})
+        if per_feed_state.get("disabled"):
+            disabled_url = str(per_feed_state.get("disabled_url") or "")
+            if disabled_url and disabled_url != str(url):
+                # URL changed in config: allow the feed to retry.
+                per_feed_state.pop("disabled", None)
+                per_feed_state.pop("disabled_at", None)
+                per_feed_state.pop("disabled_url", None)
+                per_feed_state.pop("disabled_reason", None)
+                per_feed_state["consecutive_failures"] = 0
+                per_feed_state.pop("last_error_at", None)
+                per_feed_state.pop("last_error_status", None)
+                per_feed_state.pop("last_error_message", None)
+            else:
+                _log(f"[skip] {slug} (disabled)", quiet=args.quiet)
+                state["feeds"][slug] = per_feed_state
+                continue
         last_checked = per_feed_state.get("last_checked_at")
 
         # If state is missing but cache exists, infer last-checked so manual runs don't refetch.
