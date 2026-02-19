@@ -191,7 +191,7 @@ This keeps Action runtime predictable and fits within normal GitHub Pages usage.
 
 ## Implementation outline
 
-* `feeds.json`: configured RSS/Atom URLs + basic updater defaults
+* `feeds.json`: configured RSS/Atom URLs + basic updater defaults (optionally per-feed `owners`, `common_speakers`, and `categories`)
 * `site.json`: site title/description + `base_path` for GitHub Pages subpaths
 * `cache/feeds/*.md`: one markdown cache per feed (retagged representation)
 * `cache/state.json`: last checked + etag/last-modified + cooldown bookkeeping
