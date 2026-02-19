@@ -1461,10 +1461,11 @@ def main() -> int:
         title_q = urllib.parse.quote(str(title or ""), safe="")
         subscribe_panel = ""
         if rss_url:
+            rss_icon = _href(base_path, "assets/rss.svg")
             subscribe_panel = f"""
             <section class="card panel subscribe-panel">
               <div class="panel-head">
-                <h2>Subscribe</h2>
+                <h2 class="panel-title"><img class="rss-icon" src="{_esc(rss_icon)}" alt="" aria-hidden="true" /> RSS</h2>
                 <a class="btn btn-sm" href="{_esc(rss_url)}" rel="noopener" target="_blank">RSS</a>
               </div>
               <div class="subscribe-row">
@@ -1733,6 +1734,7 @@ def main() -> int:
         sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
         if has_guest_feed:
             rss_path = _href(base_path, f"{sp_page}/feed.xml")
+            rss_icon = _href(base_path, "assets/rss.svg")
             rss_abs = _abs_site_href(site_url_norm, rss_path) if site_url_norm else ""
             rss_for_actions = rss_abs or rss_path
             rss_q = urllib.parse.quote(rss_abs, safe="") if rss_abs else ""
@@ -1748,7 +1750,7 @@ def main() -> int:
             speaker_feed_panel = f"""
             <section class="card panel subscribe-panel">
               <div class="panel-head">
-                <h2>RSS</h2>
+                <h2 class="panel-title"><img class="rss-icon" src="{_esc(rss_icon)}" alt="" aria-hidden="true" /> RSS</h2>
                 <a class="btn btn-sm" href="{_esc(rss_path)}">Feed</a>
               </div>
               <div class="subscribe-row">

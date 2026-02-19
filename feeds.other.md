@@ -93,6 +93,7 @@
 ## mystery-quest
 - url: https://feeds.megaphone.fm/NSR3713660967
 - title_override: Mystery Quest
+- owners: Tom Bates
 - categories: games
 
 ## natural-six
@@ -104,6 +105,7 @@
 ## nature-podcast
 - url: https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f
 - title_override: Nature Podcast
+- owners: Benjamin Thompson; Noah Baker
 - categories: education, science
 
 ## off-menu-with-ed-gamble-and-james-acaster
@@ -179,7 +181,7 @@
 ## the-apocalypse-players
 - url: https://www.apocalypseplayers.com/feed.xml
 - title_override: The Apocalypse Players
-- owners: Dominic Allen; Joseph Chance; Danann McAleer
+- owners: Dominic Allen; Joseph Chance; Danann McAleer; Dan Wheeler
 - categories: entertainment
 
 ## the-comedians-comedian-podcast
@@ -399,3 +401,24 @@
 - title_override: Friday Night Comedy (BBC Radio 4)
 - supplemental: true
 - categories: comedy, radio
+
+## not-another-d-d-podcast
+- url: https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss
+- title_override: Not Another D&D Podcast
+- supplemental: true
+- owners: Brian Murphy; Emily Axford; Jake Hurwitz; Caldwell Tanner
+- categories: games, ttrpg, actual-play
+
+## the-damage-guild-a-d-d-podcast
+- url: https://thedamageguild.com/feed/podcast/
+- title_override: The Damage Guild | A D&D Podcast
+- supplemental: true
+- owners: Sean Abrams; Thayne Bohman; Bryan Staudt; Jay Staudt
+- categories: games, ttrpg, actual-play
+
+## the-damage-guild-a-pathfinder-2e-podcast
+- url: https://www.thedamageguild.com/feed/podcast2
+- title_override: The Damage Guild | A Pathfinder 2E Podcast
+- supplemental: true
+- owners: Sean Abrams; Thayne Bohman; Bryan Staudt; Jay Staudt
+- categories: games, ttrpg, actual-play

@@ -402,6 +402,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## adventure-is-nigh
 - url: https://anchor.fm/s/fcdf7d8c/podcast/rss
 - title_override: Adventure is Nigh!
+- owners: Jack Packard; Yahtzee Croshaw; KC Nwosu; Amy Campbell; Jesse Galena
 - categories: games
 
 ## the-adventures-of-philip-marlowe
@@ -417,11 +418,13 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## the-damage-guild-a-d-d-podcast
 - url: https://thedamageguild.com/feed/podcast/
 - title_override: The Damage Guild | A D&D Podcast
+- owners: Sean Abrams; Thayne Bohman; Bryan Staudt; Jay Staudt
 - categories: ttrpg, actual-play, ttrpg/dnd
 
 ## the-damage-guild-a-pathfinder-2e-podcast
 - url: https://www.thedamageguild.com/feed/podcast2
 - title_override: The Damage Guild | A Pathfinder 2E Podcast
+- owners: Sean Abrams; Thayne Bohman; Bryan Staudt; Jay Staudt
 - categories: ttrpg, actual-play, ttrpg/pathfinder
 
 ## the-dice-girls
@@ -467,16 +470,19 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## mystery-quest
 - url: https://feeds.megaphone.fm/NSR3713660967
 - title_override: Mystery Quest
+- owners: Tom Bates
 - categories: games
 
 ## the-apocalypse-players
 - url: https://www.apocalypseplayers.com/feed.xml
 - title_override: The Apocalypse Players
+- owners: Dominic Allen; Joseph Chance; Danann McAleer; Dan Wheeler
 - categories: entertainment
 
 ## natural-six
 - url: https://feeds.acast.com/public/shows/natural-six
 - title_override: Natural Six
+- owners: Harry McEntire; Ben Starr; Hollie Bennett; Alex Jordan; Aoife Wilson; Doug Cockle
 - categories: entertainment
 
 ## the-otherplace-an-actual-play-rpg-podcast
