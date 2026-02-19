@@ -19,11 +19,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 
 # Feeds
 
-## 2001-a-space-odyssey
-- url: https://www.dimsdale.co.uk/rss/2001
-- title_override: 2001 A Space Odyssey
-- categories: fiction, fiction/audiobook
-
 ## abraxas-precipice-the-expanse-roleplaying-game-actual-play
 - url: https://feed.podbean.com/abraxasprecipic/feed.xml
 - title_override: Abraxas’ Precipice, The Expanse Roleplaying Game Actual Play
@@ -44,19 +39,9 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Ain't Slayed Nobody | Call of Cthulhu Actual Play
 - categories: ttrpg, actual-play, ttrpg/call-of-cthulhu
 
-## alien-series-6-isolation
-- url: https://www.dimsdale.co.uk/rss/as6i
-- title_override: Alien™ Series [6] Isolation
-- categories: fiction, fiction/audiobook
-
 ## analog-science-fiction-fact
 - url: https://analogsf.podomatic.com/rss2.xml
 - title_override: Analog Science Fiction & Fact
-- categories: fiction, fiction/audiobook
-
-## audio-movies-bbc
-- url: https://www.dimsdale.co.uk/rss/ramo
-- title_override: Audio Movies BBC
 - categories: fiction, fiction/audiobook
 
 ## awful-neutral-a-dungeons-and-dragons-debacle
@@ -74,11 +59,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Bardic Mystery Tour: A Musical Dungeons & Dragons Actualplay
 - categories: ttrpg, actual-play, ttrpg/dnd
 
-## batman-unburied
-- url: https://www.dimsdale.co.uk/rss/baunb
-- title_override: Batman Unburied
-- categories: fiction, fiction/audiobook
-
 ## black-dice-society
 - url: https://anchor.fm/s/535fd89c/podcast/rss
 - title_override: Black Dice Society
@@ -93,11 +73,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - url: https://feed.podbean.com/bombarded/feed.xml
 - title_override: bomBARDed - A Musical Dungeons & Dragons Adventure
 - categories: ttrpg, actual-play, ttrpg/dnd
-
-## bram-stoker-bbc-radio-gothic-drama-collection
-- url: https://www.dimsdale.co.uk/rss/brastobrgd
-- title_override: Bram Stoker BBC Radio Gothic Drama Collection
-- categories: fiction, radio, fiction/audiobook, fiction/audio-drama
 
 ## cosmic-crit-a-starfinder-actual-play-podcast
 - url: https://cosmiccrit.com/feed/podcast/
@@ -204,11 +179,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Friends at the Table
 - categories: ttrpg, actual-play
 
-## george-orwell-a-bbc-radio-collection
-- url: https://www.dimsdale.co.uk/rss/georabrc
-- title_override: George Orwell - A BBC Radio Collection
-- categories: fiction, radio, fiction/audiobook
-
 ## girls-guts-glory-the-broad-cast
 - url: https://pinecast.com/feed/girls-guts-glory
 - title_override: Girls Guts Glory: The Broad Cast
@@ -239,11 +209,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Guildgates & Goblins: A Dungeons & Dragons Podcast!
 - categories: ttrpg, actual-play, ttrpg/dnd
 
-## h-g-wells-the-science-fiction-collection
-- url: https://www.dimsdale.co.uk/rss/tsfc
-- title_override: H. G. Wells (The Science Fiction Collection)
-- categories: fiction, fiction/audiobook
-
 ## happy-jacks-rpg-one-shots
 - url: https://www.happyjacks.org/feed/oneshots/
 - title_override: Happy Jacks RPG One Shots
@@ -273,11 +238,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - url: https://feeds.simplecast.com/9uMQFeML
 - title_override: How We Roll Podcast
 - categories: ttrpg, actual-play
-
-## james-follett-bbc-radio-collection
-- url: https://www.dimsdale.co.uk/rss/jafobrdc
-- title_override: James Follett BBC Radio Collection
-- categories: fiction, radio, fiction/audiobook
 
 ## lamplight-radio-play
 - url: https://lamplightmagazine.com/feed/podcast/lamplight-radioplay/
@@ -339,26 +299,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Podcast Archives - Fandible Actual Play Podcast
 - categories: ttrpg, actual-play
 
-## ravenor-1
-- url: https://www.dimsdale.co.uk/rss/rav1
-- title_override: Ravenor [1]
-- categories: fiction, fiction/audiobook
-
-## ravenor-2-returned
-- url: https://www.dimsdale.co.uk/rss/rav2
-- title_override: Ravenor [2] Returned
-- categories: fiction, fiction/audiobook
-
-## ravenor-3-rogue
-- url: https://www.dimsdale.co.uk/rss/rav3
-- title_override: Ravenor [3] Rogue
-- categories: fiction, fiction/audiobook
-
-## ray-bradbury-bbc-radio-drama-collection
-- url: https://www.dimsdale.co.uk/rss/raybrabrdc
-- title_override: Ray Bradbury BBC Radio Drama Collection
-- categories: fiction, radio, fiction/audio-drama, fiction/audiobook
-
 ## realms-of-peril-glory-an-actual-play-anthology
 - url: https://feeds.megaphone.fm/FAFO5417156687
 - title_override: Realms of Peril & Glory | An Actual Play Anthology
@@ -399,11 +339,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: SitcomD&D
 - categories: ttrpg, actual-play
 
-## space-team-01
-- url: https://www.dimsdale.co.uk/rss/st
-- title_override: Space Team [01]
-- categories: fiction, fiction/audiobook
-
 ## star-trek-europa-star-trek-adventures-actual-play
 - url: https://feed.podbean.com/startrekeuropa/feed.xml
 - title_override: Star Trek: Europa | Star Trek Adventures Actual Play
@@ -418,11 +353,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - url: https://feed.podbean.com/starsarerightpublishing/feed.xml
 - title_override: Stars Are Right | Call of Cthulhu TTRPG actual-play podcast
 - categories: ttrpg, actual-play, ttrpg/call-of-cthulhu
-
-## starship-pandora-a-star-force-drama
-- url: https://www.dimsdale.co.uk/rss/spasfd
-- title_override: Starship Pandora - A Star Force Drama
-- categories: fiction, fiction/audiobook, fiction/audio-drama
 
 ## storybreakers
 - url: https://feeds.megaphone.fm/storybreakers
@@ -494,11 +424,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: The Heresies Of Radulf Burntwine
 - categories: ttrpg, actual-play, fiction, fiction/audiobook
 
-## the-hitchhikers-guide-to-the-galaxy
-- url: https://www.dimsdale.co.uk/rss/thhgttg
-- title_override: The Hitchhikers Guide To The Galaxy
-- categories: fiction, fiction/audiobook
-
 ## the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast
 - url: https://feeds.feedburner.com/TheIronRealm
 - title_override: The Iron Realm Mega Dungeon Crawl & Dark Fantasy Solo RPG Gaming Podcast
@@ -549,11 +474,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: The Tabletop Tales
 - categories: ttrpg, actual-play, fiction
 
-## the-unbelievable-truth
-- url: https://www.dimsdale.co.uk/rss/tubt
-- title_override: The Unbelievable Truth
-- categories: fiction, fiction/audiobook
-
 ## the-unexpectables
 - url: https://feeds.libsyn.com/105383/rss
 - title_override: The Unexpectables
@@ -588,11 +508,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - url: https://feeds.megaphone.fm/wefixspacejunk
 - title_override: We Fix Space Junk
 - categories: fiction, fiction/audiobook
-
-## weird-tales-bbc
-- url: https://www.dimsdale.co.uk/rss/weta
-- title_override: Weird Tales BBC
-- categories: fiction
 
 ## who-lives-who-dice
 - url: https://feeds.buzzsprout.com/1846541.rss

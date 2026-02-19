@@ -20,10 +20,12 @@ export function initPlayer() {
   var btnFwd30 = $("#btn-fwd30");
   var btnSlower = $("#btn-slower");
   var btnFaster = $("#btn-faster");
+  var btnAudioSettings = $("#btn-audio-settings");
   var speedReadout = $("#speed-readout");
   var scrub = $("#scrub");
   var tElapsed = $("#t-elapsed");
   var tDuration = $("#t-duration");
+  var audioSettings = $("#audio-settings");
   var preservePitch = $("#preserve-pitch");
   var audioNote = $("#audio-note");
   var gain = $("#gain");
@@ -53,6 +55,36 @@ export function initPlayer() {
   var currentMeta = null;
   var webAudioAllowedForSource = false;
   var lastPositionStateMs = 0;
+
+  function syncAudioSettingsButton() {
+    if (!btnAudioSettings || !audioSettings) return;
+    btnAudioSettings.setAttribute("aria-expanded", audioSettings.open ? "true" : "false");
+  }
+
+  if (btnAudioSettings && audioSettings) {
+    syncAudioSettingsButton();
+    btnAudioSettings.addEventListener("click", function () {
+      audioSettings.open = !audioSettings.open;
+      syncAudioSettingsButton();
+      if (audioSettings.open) {
+        var target = preservePitch || gain || eqLow || eqMid || eqHigh;
+        if (target && target.focus) target.focus();
+      }
+    });
+    audioSettings.addEventListener("toggle", function () {
+      syncAudioSettingsButton();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (!e) return;
+      if (e.key !== "Escape") return;
+      if (!audioSettings.open) return;
+      audioSettings.open = false;
+      syncAudioSettingsButton();
+      try {
+        btnAudioSettings.focus();
+      } catch (_e2) {}
+    });
+  }
 
   function currentKey() {
     return LS_PREFIX + "current";
