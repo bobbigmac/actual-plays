@@ -12,9 +12,14 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 ## File map (1 line per file)
 
 - `package.json` — dev scripts (`update/build/dev`) and dependency entrypoint for local workflows.
+- `feeds.json` — primary feeds config for this deployment (URLs + optional `owners`/`common_speakers`/`categories`).
+- `feeds.actualplays.json` — OPML-derived feeds config for actual plays / RPG / story / fiction subscriptions.
+- `feeds.other.json` — OPML-derived feeds config for non-TTRPG subscriptions.
+- `feeds.local.json` — OPML-derived local-network feeds config (not intended for public deployments).
 - `vite.config.js` — Vite dev server rooted at `dist/` + dev plugin that rebuilds/copies assets and broadcasts build status.
 - `scripts/update_feeds.py` — fetches/updates feed cache and tagging inputs used by the build.
 - `scripts/build_site.py` — renders pages + emits `dist/index.json` search index and `dist/site.json` config.
+- `scripts/split_opml.py` — splits an OPML export into `feeds.*.json` configs (actualplays/other/local).
 - `scripts/py` — Python launcher that prefers `.venv/` (needed for spaCy on PEP 668 systems).
 - `site/templates/base.html` — shared SSR template; includes search panel skeleton + loads `assets/app.js`.
 - `site/assets/app.js` — stable loader that resolves base path and imports `assets/app/index.js` as a module.
@@ -61,5 +66,6 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 
 ### Utils
 
+- `site/assets/app/util/bytes.js` — byte-size formatting helper for UI (uses `?MB` fallback).
 - `site/assets/app/util/time.js` — time formatting helpers for progress UI.
 - `site/assets/app/util/url.js` — querystring helpers used for `?e=` and `?q=` without breaking SPA navigation.

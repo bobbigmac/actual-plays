@@ -156,11 +156,26 @@ def _make_config(feeds: list[OpmlFeed], *, include_notes: bool) -> dict[str, Any
     used: set[str] = set()
     items: list[dict[str, Any]] = []
     for f in sorted(feeds, key=lambda x: x.title.lower()):
+        categories: list[str] = []
+        if f.category:
+            for part in str(f.category).split(","):
+                part = _norm_ws(_unescape_repeat(part)).strip()
+                part = part.strip("/")
+                if not part:
+                    continue
+                categories.append(part)
+        # Dedup while preserving order.
+        if categories:
+            seen = set()
+            categories = [c for c in categories if not (c in seen or seen.add(c))]
+
         row: dict[str, Any] = {
             "slug": _unique_slug(f.title, used),
             "url": f.url,
             "title_override": f.title,
         }
+        if categories:
+            row["categories"] = categories
         if include_notes and (f.category or f.path):
             bits = []
             if f.category:

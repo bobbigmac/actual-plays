@@ -118,6 +118,25 @@ def _norm_name_list(value) -> list[str]:
     return [s] if s else []
 
 
+def _norm_categories(value) -> list[str]:
+    if not value:
+        return []
+    if isinstance(value, list):
+        out: list[str] = []
+        for x in value:
+            s = str(x or "").strip()
+            if s:
+                out.append(s)
+        return out
+    if isinstance(value, str):
+        s = value.strip()
+        if not s:
+            return []
+        parts = [p.strip().strip("/") for p in s.split(",")]
+        return [p for p in parts if p]
+    s = str(value).strip()
+    return [s] if s else []
+
 def _merge_always_speakers(*, detected: list[str], always: list[str], limit: int = 12) -> list[str]:
     base = sanitize_speakers(detected)
     always_clean = sanitize_speakers(always)
@@ -280,6 +299,7 @@ class _FeedJob:
     feed_max_episodes: int
     owners: list[str]
     common_speakers: list[str]
+    categories: list[str]
 
 
 @dataclass
@@ -418,6 +438,7 @@ def _process_one_feed(
         "fetched_at": now_iso,
         "owners": sanitize_speakers(job.owners),
         "common_speakers": sanitize_speakers(job.common_speakers),
+        "categories": list(job.categories or []),
         "episodes": episodes,
     }
 
@@ -487,6 +508,7 @@ def main() -> int:
             slug = str(feed_cfg.get("slug") or "")
             owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
             common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
+            categories = _norm_categories(feed_cfg.get("categories") or feed_cfg.get("category"))
             md_path = feeds_md_dir / f"{slug}.md"
             feed_json = _load_existing_feed_json(md_path)
             if not feed_json:
@@ -500,6 +522,7 @@ def main() -> int:
                 ep["topics"] = sanitize_topics(ep.get("topics"))
             feed_json["owners"] = sanitize_speakers(owners)
             feed_json["common_speakers"] = sanitize_speakers(common_speakers)
+            feed_json["categories"] = categories
             next_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
             if prev_sig == next_sig:
                 _log(f"[no-op] {slug} (already sanitized)", quiet=args.quiet)
@@ -566,6 +589,7 @@ def main() -> int:
         _log(f"[queue] {slug} {url}", quiet=args.quiet)
         owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
         common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
+        categories = _norm_categories(feed_cfg.get("categories") or feed_cfg.get("category"))
         jobs.append(
             _FeedJob(
                 slug=str(slug),
@@ -575,6 +599,7 @@ def main() -> int:
                 feed_max_episodes=feed_max_episodes,
                 owners=sanitize_speakers(owners),
                 common_speakers=sanitize_speakers(common_speakers),
+                categories=categories,
             )
         )
         per_feed_state_by_slug[str(slug)] = per_feed_state

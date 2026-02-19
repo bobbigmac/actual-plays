@@ -10,7 +10,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_json, slugify, write_json
+from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_json, sha1_hex, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
@@ -153,6 +153,39 @@ def _fmt_size(bytes_value: int | None) -> str:
     return format_bytes(int(bytes_value))
 
 
+def _expand_category(cat: str) -> list[str]:
+    """
+    Expand a category path like "ttrpgs/minor" into ["ttrpgs", "ttrpgs/minor"].
+    For flat categories, returns [cat].
+    """
+    raw = str(cat or "").strip().strip("/")
+    if not raw:
+        return []
+    parts = [p for p in raw.split("/") if p]
+    out: list[str] = []
+    for i in range(1, len(parts) + 1):
+        out.append("/".join(parts[:i]))
+    return out
+
+
+def _unique_slug(base: str, used: set[str], *, salt: str) -> str:
+    slug = base
+    if slug not in used:
+        used.add(slug)
+        return slug
+    slug = f"{base}-{sha1_hex(salt)[:6]}"
+    if slug not in used:
+        used.add(slug)
+        return slug
+    i = 2
+    while True:
+        candidate = f"{slug}-{i}"
+        if candidate not in used:
+            used.add(candidate)
+            return candidate
+        i += 1
+
+
 def _hue_from_slug(slug: str) -> int:
     total = 0
     for ch in slug:
@@ -176,6 +209,25 @@ def _norm_name_list(value: Any) -> list[str]:
     s = str(value).strip()
     return [s] if s else []
 
+
+def _norm_categories(value: Any) -> list[str]:
+    if not value:
+        return []
+    if isinstance(value, list):
+        out: list[str] = []
+        for x in value:
+            s = str(x or "").strip()
+            if s:
+                out.append(s)
+        return out
+    if isinstance(value, str):
+        s = value.strip()
+        if not s:
+            return []
+        parts = [p.strip().strip("/") for p in s.split(",")]
+        return [p for p in parts if p]
+    s = str(value).strip()
+    return [s] if s else []
 
 def _merge_always_speakers(*, detected: list[str] | None, always: list[str] | None, limit: int = 12) -> list[str]:
     base = sanitize_speakers(detected or [])
@@ -294,7 +346,8 @@ def main() -> int:
         feed_order.append(slug)
         owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
-        feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers}
+        categories = _norm_categories(f.get("categories") or f.get("category"))
+        feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers, "categories": categories}
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
 
     if not feed_order:
@@ -304,6 +357,10 @@ def main() -> int:
     for slug in feed_order:
         md_path = feeds_dir / f"{slug}.md"
         feed = _load_feed_cache_json(md_path)
+        cfg_tags = feed_tags.get(slug) or {}
+        cfg_owners = cfg_tags.get("owners") or []
+        cfg_common = cfg_tags.get("common_speakers") or []
+        cfg_categories = cfg_tags.get("categories") or []
         if not feed:
             feeds.append(
                 {
@@ -312,17 +369,19 @@ def main() -> int:
                     "description": "",
                     "episodes": [],
                     "missing_cache": True,
+                    "owners": sanitize_speakers(cfg_owners),
+                    "common_speakers": sanitize_speakers(cfg_common),
+                    "categories": _norm_categories(cfg_categories),
                 }
             )
             continue
 
-        cfg_tags = feed_tags.get(slug) or {}
-        cfg_owners = cfg_tags.get("owners") or []
-        cfg_common = cfg_tags.get("common_speakers") or []
         owners = sanitize_speakers(cfg_owners)
         common_speakers = sanitize_speakers(cfg_common)
+        categories = _norm_categories(cfg_categories)
         feed["owners"] = owners
         feed["common_speakers"] = common_speakers
+        feed["categories"] = categories
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
         always = common_speakers + owners
         for ep in feed.get("episodes") or []:
@@ -405,6 +464,20 @@ def main() -> int:
         index_json.append(row)
     write_json(dist_dir / "index.json", index_json)
     write_json(dist_dir / "site.json", site_cfg)
+
+    # Categories (feeds can be in multiple categories).
+    category_to_feeds: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
+    for feed in feeds:
+        feed_slug = str(feed.get("slug") or "")
+        for raw in feed.get("categories") or []:
+            for cat in _expand_category(str(raw)):
+                category_to_feeds[cat][feed_slug] = feed
+
+    cat_slug_by_name: dict[str, str] = {}
+    if category_to_feeds:
+        used = set()
+        for cat in sorted(category_to_feeds.keys(), key=lambda x: x.lower()):
+            cat_slug_by_name[cat] = _unique_slug(slugify(cat), used, salt=cat)
 
     # Home page.
     feed_cards = []
@@ -557,6 +630,77 @@ def main() -> int:
         content_html=content,
     )
 
+    # Category index + pages.
+    rows = sorted(category_to_feeds.items(), key=lambda kv: (-len(kv[1]), kv[0].lower()))
+    cat_items: list[str] = []
+    for cat, feeds_by_slug in rows:
+        url = _href(base_path, f"categories/{cat_slug_by_name[cat]}/")
+        count = len(feeds_by_slug)
+        cat_items.append(f'<li><a href="{_esc(url)}">{_esc(cat)}</a> <span class="muted">({count})</span></li>')
+
+    content = f"""
+    <h1>Categories</h1>
+    <p class="muted">Podcasts can be in multiple categories (configured in <code>feeds.json</code>).</p>
+    <ul class="list">
+      {"".join(cat_items) if cat_items else "<li class=\"muted\">No categories configured.</li>"}
+    </ul>
+    """.strip()
+    _write_page(
+        base_template=base_template,
+        out_path=dist_dir / "categories" / "index.html",
+        base_path=base_path,
+        site_cfg=site_cfg,
+        page_title=f"Categories — {site_cfg.get('title') or ''}".strip(" —"),
+        page_description="Podcast categories",
+        content_html=content,
+    )
+
+    for cat, feeds_by_slug in rows:
+            cards: list[str] = []
+            for feed_slug in sorted(feeds_by_slug.keys()):
+                feed = feeds_by_slug[feed_slug]
+                slug = str(feed.get("slug") or "")
+                title = _esc(str(feed.get("title") or slug))
+                desc = _esc(str(feed.get("description") or ""))
+                image_url = str(feed.get("image_url") or "").strip()
+                hue = _hue_from_slug(slug)
+                initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
+                cover = (
+                    f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+                    if image_url
+                    else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
+                )
+                cards.append(
+                    f"""
+                    <section class="card feed-card" data-feed-slug="{_esc(slug)}">
+                      <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
+                        {cover}
+                      </a>
+                      <div class="feed-body">
+                        <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                        <div class="muted feed-desc">{desc}</div>
+                      </div>
+                    </section>
+                    """.strip()
+                )
+
+            content = f"""
+            <h1>{_esc(cat)}</h1>
+            <p class="muted">{len(feeds_by_slug)} podcasts</p>
+            <div class="grid feed-grid">
+              {"".join(cards) if cards else "<div class=\"muted\">No podcasts in this category.</div>"}
+            </div>
+            """.strip()
+            _write_page(
+                base_template=base_template,
+                out_path=dist_dir / "categories" / cat_slug_by_name[cat] / "index.html",
+                base_path=base_path,
+                site_cfg=site_cfg,
+                page_title=f"{cat} — {site_cfg.get('title') or ''}".strip(" —"),
+                page_description=f"Podcasts in {cat}",
+                content_html=content,
+            )
+
     # Feed pages.
     for feed in feeds:
         slug = str(feed.get("slug") or "")
@@ -655,9 +799,19 @@ def main() -> int:
 
         feed_link = feed.get("link") or feed.get("source_url") or ""
         feed_desc = feed.get("description") or ""
+        categories = feed.get("categories") or []
+        cat_links: list[str] = []
+        for raw in categories:
+            cat = str(raw or "").strip().strip("/")
+            if not cat:
+                continue
+            cat_slug = cat_slug_by_name.get(cat) or slugify(cat)
+            cat_links.append(f'<a class="tag" href="{_esc(_href(base_path, f"categories/{cat_slug}/"))}">{_esc(cat)}</a>')
+        cats_html = f'<div class="tags">{"".join(cat_links)}</div>' if cat_links else ""
         content = f"""
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
+        {cats_html}
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>
         <ul class="episodes">
           {"".join(episodes_html) if episodes_html else '<li class="muted">No cached episodes yet.</li>'}
