@@ -3,6 +3,7 @@ import { getBasePath } from "./env.js";
 import { readEpisodeMetaFromElement } from "./episode_meta.js";
 import { readProgress } from "./state/progress.js";
 import { artHtml } from "./ui/art.js";
+import { toastNetworkFailure } from "./ui/toast.js";
 import { fmtBytes } from "./util/bytes.js";
 import { fmtTime } from "./util/time.js";
 import { joinPath, qs, setQs } from "./util/url.js";
@@ -112,7 +113,7 @@ export function initSearch(deps) {
         results.innerHTML = matches
           .map(function (m) {
             var e = m.e;
-            var url = joinPath(basePath, "podcasts/" + encodeURIComponent(e.f) + "/?e=" + encodeURIComponent(e.k));
+            var url = joinPath(basePath, encodeURIComponent(e.f) + "/?e=" + encodeURIComponent(e.k));
             var parts = [esc(e.ft), esc(e.d || "")];
             if (Number(e.du) > 0) parts.push(esc(fmtTime(e.du)));
             parts.push(esc(fmtBytes(e.b)));
@@ -170,6 +171,11 @@ export function initSearch(deps) {
           })
           .join("");
         onResultsRendered();
+      }).catch(function (e2) {
+        console.warn("[search] index load failed", e2);
+        toastNetworkFailure("Search");
+        status.textContent = "Search unavailable (index.json failed to load).";
+        results.innerHTML = "";
       });
     }
 

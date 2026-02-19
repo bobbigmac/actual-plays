@@ -18,6 +18,17 @@ from scripts.shared import sanitize_speakers, sanitize_topics
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
 _PROFILE_DIRNAME = "feed-profiles"
+_RESERVED_ROOT_SLUGS = {
+    "",
+    "assets",
+    "categories",
+    "speakers",
+    "sw.js",
+    "manifest.webmanifest",
+    "index.html",
+    "site.json",
+    "index.json",
+}
 
 
 def _safe_http_href(href: str) -> str:
@@ -27,6 +38,33 @@ def _safe_http_href(href: str) -> str:
     if href.startswith("http://") or href.startswith("https://"):
         return href
     return ""
+
+def _norm_site_url(value: str | None) -> str:
+    s = str(value or "").strip()
+    if not s:
+        return ""
+    if not (s.startswith("http://") or s.startswith("https://")):
+        return ""
+    return s.rstrip("/") + "/"
+
+
+def _abs_site_href(site_url: str, href: str) -> str:
+    base = _norm_site_url(site_url)
+    if not base:
+        return ""
+    try:
+        return urllib.parse.urljoin(base, str(href or "").lstrip("/"))
+    except Exception:
+        return ""
+
+
+def _page_href_for_out(out_path: Path, *, dist_dir: Path, base_path: str) -> str:
+    rel = out_path.relative_to(dist_dir).as_posix()
+    if rel == "index.html":
+        return base_path
+    if rel.endswith("/index.html"):
+        return base_path + rel[: -len("index.html")]
+    return base_path + rel
 
 
 def _md_inline(text: str) -> str:
@@ -131,6 +169,22 @@ def _parse_profile_md(text: str) -> tuple[dict[str, Any], str]:
             meta[key] = val
     return meta, body.strip()
 
+def _extract_first_h1(md: str) -> tuple[str, str]:
+    """
+    Extract a leading "# Title" from markdown and return (title, rest_md).
+    If not found, returns ("", md).
+    """
+    src = (md or "").replace("\r\n", "\n").replace("\r", "\n").lstrip()
+    if not src.startswith("#"):
+        return "", (md or "").strip()
+    lines = src.split("\n")
+    first = lines[0].strip()
+    if not first.startswith("# "):
+        return "", (md or "").strip()
+    title = first[2:].strip()
+    rest = "\n".join(lines[1:]).strip()
+    return title, rest
+
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Build static HTML site from cached feed markdown.")
@@ -166,6 +220,38 @@ def _href(base_path: str, path: str) -> str:
 
 def _load_template(path: Path) -> str:
     return path.read_text(encoding="utf-8")
+
+
+def _meta_extra_html(
+    *, site_cfg: dict[str, Any], base_path: str, page_title: str, page_description: str, canonical_href: str
+) -> str:
+    site_url = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
+    canonical = _abs_site_href(site_url, canonical_href) if site_url else ""
+
+    site_name = str(site_cfg.get("title") or "").strip()
+    title = _esc(page_title or site_name)
+    desc = _esc(page_description or "")
+
+    og_image = str(site_cfg.get("og_image") or site_cfg.get("ogImage") or "").strip()
+    if og_image:
+        og_image = _safe_http_href(og_image) or (_abs_site_href(site_url, og_image) if site_url else "")
+    if not og_image:
+        og_image = _abs_site_href(site_url, _href(base_path, "assets/icon-512.png")) if site_url else _href(base_path, "assets/icon-512.png")
+
+    extra = [
+        f'<link rel="canonical" href="{_esc(canonical)}" />' if canonical else "",
+        f'<meta property="og:site_name" content="{_esc(site_name)}" />' if site_name else "",
+        '<meta property="og:type" content="website" />',
+        f'<meta property="og:title" content="{title}" />',
+        f'<meta property="og:description" content="{desc}" />' if desc else "",
+        f'<meta property="og:url" content="{_esc(canonical)}" />' if canonical else "",
+        f'<meta property="og:image" content="{_esc(og_image)}" />' if og_image else "",
+        '<meta name="twitter:card" content="summary_large_image" />' if og_image else '<meta name="twitter:card" content="summary" />',
+        f'<meta name="twitter:title" content="{title}" />',
+        f'<meta name="twitter:description" content="{desc}" />' if desc else "",
+        f'<meta name="twitter:image" content="{_esc(og_image)}" />' if og_image else "",
+    ]
+    return "\n    ".join([x for x in extra if x])
 
 
 def _render_template(template: str, ctx: dict[str, str]) -> str:
@@ -513,6 +599,7 @@ def _write_page(
     *,
     base_template: str,
     out_path: Path,
+    dist_dir: Path,
     base_path: str,
     site_cfg: dict[str, Any],
     page_title: str,
@@ -527,6 +614,15 @@ def _write_page(
         footer_parts.append(f'<a href="{href}" rel="noopener">{label}</a>')
     footer_html = " · ".join(footer_parts) if footer_parts else ""
 
+    canonical_href = _page_href_for_out(out_path, dist_dir=dist_dir, base_path=base_path)
+    meta_extra = _meta_extra_html(
+        site_cfg=site_cfg,
+        base_path=base_path,
+        page_title=page_title,
+        page_description=page_description,
+        canonical_href=canonical_href,
+    )
+
     doc = _render_template(
         base_template,
         {
@@ -537,6 +633,7 @@ def _write_page(
             "site_json": json.dumps(site_cfg, ensure_ascii=False),
             "site_title": _esc(site_cfg.get("title") or ""),
             "site_subtitle": _esc(site_cfg.get("subtitle") or ""),
+            "meta_extra": meta_extra,
             "content": content_html,
             "footer": footer_html,
         },
@@ -582,6 +679,7 @@ def main() -> int:
 
     base_override = args.base_path or __import__("os").environ.get("AP_BASE_PATH")
     base_path = _norm_base_path(base_override if base_override is not None else site_cfg.get("base_path"))
+    site_url_norm = _norm_site_url(site_cfg.get("url") or site_cfg.get("site_url") or site_cfg.get("canonical_url"))
 
     base_template = _load_template(templates_dir / "base.html")
 
@@ -596,6 +694,21 @@ def main() -> int:
                 "meta": meta,
                 "body_md": body,
                 "body_html": _render_min_md(body) if body.strip() else "",
+            }
+
+    # Optional per-speaker profiles keyed by speaker slug.
+    speaker_profiles_dir = profiles_dir / "speakers"
+    speaker_profile_by_slug: dict[str, dict[str, Any]] = {}
+    if speaker_profiles_dir.exists():
+        for p in sorted(speaker_profiles_dir.glob("*.md")):
+            slug = p.stem
+            meta, body = _parse_profile_md(p.read_text(encoding="utf-8", errors="replace"))
+            title, rest = _extract_first_h1(body)
+            speaker_profile_by_slug[slug] = {
+                "meta": meta,
+                "title": title.strip(),
+                "body_md": rest,
+                "body_html": _render_min_md(rest) if rest.strip() else "",
             }
 
     # Clean dist (but keep it within repo; callers control .gitignore).
@@ -654,6 +767,15 @@ def main() -> int:
         feed_notes_by_slug[slug] = note
         feed_title_override_by_slug[slug] = str(f.get("title_override") or f.get("titleOverride") or "").strip()
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
+
+    # We publish podcasts at the site root (relative to base_path), so reserve those names.
+    for slug in feed_order:
+        if slug in _RESERVED_ROOT_SLUGS:
+            raise ValueError(
+                f"Feed slug '{slug}' is reserved at the site root.\n"
+                "Rename the feed slug in your feeds config.\n"
+                f"Reserved: {', '.join(sorted(_RESERVED_ROOT_SLUGS))}"
+            )
 
     if not feed_order:
         print("[warn] No feeds configured; generating an empty site.", file=sys.stderr)
@@ -760,6 +882,16 @@ def main() -> int:
                         speaker_name_by_slug[sp_slug] = sp_name
                 speaker_eps_by_slug[sp_slug][episode_id] = ep_entry
 
+    # Speaker pages also live at the site root. Avoid collisions with podcast slugs and reserved paths.
+    used_root = set(_RESERVED_ROOT_SLUGS) | set(feed_order)
+    used = set(used_root)
+    speaker_page_slug_by_slug: dict[str, str] = {}
+    for sp_slug in sorted(speaker_name_by_slug.keys()):
+        base = sp_slug
+        if base in used:
+            base = f"{sp_slug}-speaker"
+        speaker_page_slug_by_slug[sp_slug] = _unique_slug(base, used, salt="speaker:" + sp_slug)
+
     # Sort index by date desc.
     all_episodes_index.sort(key=lambda e: e.get("published_at") or "", reverse=True)
 
@@ -851,11 +983,11 @@ def main() -> int:
               data-speaker-count="{_esc(str(stats['speaker_count'] or ''))}"
               data-avg-seconds="{_esc(str(stats['avg_seconds'] or ''))}"
               data-years="{_esc(str(stats['years_text'] or ''))}">
-              <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
+              <a class="feed-cover" href="{_esc(_href(base_path, f"{slug}/"))}">
                 {cover}
               </a>
 	              <div class="feed-body">
-	                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+	                <h2><a href="{_esc(_href(base_path, f"{slug}/"))}">{title}</a></h2>
                     {feed_meta_html}
 	                <div class="muted feed-desc">{desc}</div>
 	                {note_html}
@@ -893,7 +1025,7 @@ def main() -> int:
             if img_url
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
-        url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
+        url = _href(base_path, f"{feed_slug}/?e={key}")
         meta_bits = [feed_title, date]
         if dur_text:
             meta_bits.append(dur_text)
@@ -1003,6 +1135,7 @@ def main() -> int:
     _write_page(
         base_template=base_template,
         out_path=dist_dir / "index.html",
+        dist_dir=dist_dir,
         base_path=base_path,
         site_cfg=site_cfg,
         page_title=str(site_cfg.get("title") or "Podcast Index"),
@@ -1028,6 +1161,7 @@ def main() -> int:
     _write_page(
         base_template=base_template,
         out_path=dist_dir / "categories" / "index.html",
+        dist_dir=dist_dir,
         base_path=base_path,
         site_cfg=site_cfg,
         page_title=f"Categories — {site_cfg.get('title') or ''}".strip(" —"),
@@ -1077,11 +1211,11 @@ def main() -> int:
                   data-speaker-count="{_esc(str(stats['speaker_count'] or ''))}"
                   data-avg-seconds="{_esc(str(stats['avg_seconds'] or ''))}"
                   data-years="{_esc(str(stats['years_text'] or ''))}">
-                  <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
+                  <a class="feed-cover" href="{_esc(_href(base_path, f"{slug}/"))}">
                     {cover}
                   </a>
                   <div class="feed-body">
-                    <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                    <h2><a href="{_esc(_href(base_path, f"{slug}/"))}">{title}</a></h2>
                     {feed_meta_html}
                     <div class="muted feed-desc">{desc}</div>
                     {note_html}
@@ -1101,6 +1235,7 @@ def main() -> int:
         _write_page(
             base_template=base_template,
             out_path=dist_dir / "categories" / cat_slug_by_name[cat] / "index.html",
+            dist_dir=dist_dir,
             base_path=base_path,
             site_cfg=site_cfg,
             page_title=f"{cat} — {site_cfg.get('title') or ''}".strip(" —"),
@@ -1155,9 +1290,8 @@ def main() -> int:
             speaker_links = []
             for sp in speakers:
                 sp_slug = slugify(str(sp))
-                speaker_links.append(
-                    f'<a class="tag" href="{_esc(_href(base_path, f"speakers/{sp_slug}/"))}">{_esc(str(sp))}</a>'
-                )
+            sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
+            speaker_links.append(f'<a class="tag" href="{_esc(_href(base_path, f"{sp_page}/"))}">{_esc(str(sp))}</a>')
             speakers_html = ("".join(speaker_links)) if speaker_links else '<span class="muted">—</span>'
             ext_link_html = (
                 f'<a class="ext" href="{link}" rel="noopener" target="_blank">Open episode</a>' if link else ""
@@ -1311,7 +1445,8 @@ def main() -> int:
         """.strip()
         _write_page(
             base_template=base_template,
-            out_path=dist_dir / "podcasts" / slug / "index.html",
+            out_path=dist_dir / slug / "index.html",
+            dist_dir=dist_dir,
             base_path=base_path,
             site_cfg=site_cfg,
             page_title=f"{title} — {site_cfg.get('title') or ''}".strip(" —"),
@@ -1341,25 +1476,33 @@ def main() -> int:
         speaker_rows.append((sp_slug, speaker, guest, total, len(pods_guest), len(pods_total)))
     # Default: sort by guest appearances (exclude own podcasts).
     speaker_rows.sort(key=lambda r: (-r[2], -r[3], r[1].lower()))
+    has_owner_data = any(bool(s) for s in owner_slugs_by_feed.values())
+    toggle_disabled_attr = "disabled" if not has_owner_data else ""
+    toggle_note = (
+        "No podcast owners are configured for this site, so this toggle has no effect."
+        if not has_owner_data
+        else "Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config)."
+    )
 
     speaker_list_items = []
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
-        url = _href(base_path, f"speakers/{sp_slug}/")
+        sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
+        url = _href(base_path, f"{sp_page}/")
         speaker_list_items.append(
             f'<a class="card speaker-card" href="{_esc(url)}" data-speaker-row '
             f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
             f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
             f'  <div class="speaker-card-name">{_esc(speaker)}</div>'
             f'  <div class="speaker-card-stats" data-speaker-stats-wrap>'
-            f'    <div class="speaker-stats-row" data-speaker-stats="guest">'
+            f'    <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">'
             f'      <span class="stat-chip"><span data-speaker-count-guest>{guest_count}</span> eps</span>'
             f'      <span class="stat-chip"><span data-speaker-pods-guest>{guest_pods}</span> pods</span>'
-            f'      <span class="stat-chip stat-label">Guest</span>'
+            f'      <span class="stat-chip stat-label">Excluding own</span>'
             f"    </div>"
-            f'    <div class="speaker-stats-row" data-speaker-stats="total">'
+            f'    <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">'
             f'      <span class="stat-chip"><span data-speaker-count-total>{total_count}</span> eps</span>'
             f'      <span class="stat-chip"><span data-speaker-pods-total>{total_pods}</span> pods</span>'
-            f'      <span class="stat-chip stat-label">Total</span>'
+            f'      <span class="stat-chip stat-label">Including own</span>'
             f"    </div>"
             f"  </div>"
             f"</a>"
@@ -1371,10 +1514,10 @@ def main() -> int:
     <div class="card panel speaker-controls">
       <div class="panel-head">
         <h2>Appearances</h2>
-        <div class="muted" data-speakers-mode>Guest only</div>
+        <div class="muted" data-speakers-mode>Excluding own podcasts</div>
       </div>
-      <label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>
-      <div class="muted" style="margin-top:8px">Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config).</div>
+      <label class="toggle"><input id="speakers-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
+      <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
     </div>
     <div class="grid speaker-grid" data-speaker-grid>
       {"".join(speaker_list_items) if speaker_list_items else "<div class=\"muted\">No speakers yet.</div>"}
@@ -1383,6 +1526,7 @@ def main() -> int:
     _write_page(
         base_template=base_template,
         out_path=dist_dir / "speakers" / "index.html",
+        dist_dir=dist_dir,
         base_path=base_path,
         site_cfg=site_cfg,
         page_title=f"Speakers — {site_cfg.get('title') or ''}".strip(" —"),
@@ -1433,7 +1577,7 @@ def main() -> int:
                     if img_url
                     else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
                 )
-                url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
+                url = _href(base_path, f"{feed_slug}/?e={key}")
                 meta_bits = [date]
                 if dur_text:
                     meta_bits.append(dur_text)
@@ -1480,7 +1624,7 @@ def main() -> int:
                     """.strip()
                 )
 
-            podcast_url = _href(base_path, f"podcasts/{feed_slug}/")
+            podcast_url = _href(base_path, f"{feed_slug}/")
             groups_html.append(
                 f"""
                 <details class="speaker-group card" open data-own="{'1' if is_own else '0'}" {'hidden' if is_own else ''}>
@@ -1497,35 +1641,74 @@ def main() -> int:
                 </details>
                 """.strip()
             )
-        rss_link_html = ""
+        sp_profile = speaker_profile_by_slug.get(sp_slug) or {}
+        sp_title = str(sp_profile.get("title") or "").strip()
+        sp_body_html = str(sp_profile.get("body_html") or "").strip()
+        speaker_h1 = sp_title or speaker
+        speaker_profile_panel = ""
+        if sp_body_html:
+            speaker_profile_panel = f'<section class="card panel speaker-profile"><div class="md">{sp_body_html}</div></section>'
+
+        speaker_feed_panel = ""
+        sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
         if has_guest_feed:
-            rss_path = _href(base_path, f"speakers/{sp_slug}/feed.xml")
-            rss_link_html = (
-                f'<div style="margin-top:10px">'
-                f'<a class="btn btn-sm" href="{_esc(rss_path)}">RSS: guest appearances</a>'
-                f"</div>"
-            )
+            rss_path = _href(base_path, f"{sp_page}/feed.xml")
+            rss_abs = _abs_site_href(site_url_norm, rss_path) if site_url_norm else ""
+            rss_for_actions = rss_abs or rss_path
+            rss_q = urllib.parse.quote(rss_abs, safe="") if rss_abs else ""
+            title_q = urllib.parse.quote(str(speaker_h1 or ""), safe="")
+            app_links = ""
+            if rss_abs:
+                app_links = (
+                    f'<a class="btn btn-sm" href="{_esc("https://overcast.fm/add?url=" + rss_q)}" rel="noopener" target="_blank">Overcast</a>'
+                    f'<a class="btn btn-sm" href="{_esc("https://pocketcasts.com/submit/?url=" + rss_q)}" rel="noopener" target="_blank">Pocket Casts</a>'
+                    f'<a class="btn btn-sm" href="{_esc("https://gpodder.net/subscribe?url=" + rss_q)}" rel="noopener" target="_blank">gPodder</a>'
+                    f'<a class="btn btn-sm" href="{_esc("https://podcasts.apple.com/search?term=" + title_q)}" rel="noopener" target="_blank">Apple Podcasts</a>'
+                )
+            speaker_feed_panel = f"""
+            <section class="card panel subscribe-panel">
+              <div class="panel-head">
+                <h2>RSS</h2>
+                <a class="btn btn-sm" href="{_esc(rss_path)}">Feed</a>
+              </div>
+              <div class="subscribe-row">
+                <input class="rss-input" type="text" value="{_esc(rss_for_actions)}" readonly />
+                <button class="btn btn-sm" type="button" data-copy-text="{_esc(rss_for_actions)}">Copy</button>
+                <button class="btn btn-sm" type="button" data-share-url="{_esc(rss_for_actions)}" data-share-title="{_esc(speaker_h1)}">Share</button>
+              </div>
+              <div class="subscribe-actions">
+                {app_links}
+                <a class="btn btn-sm" data-android-intent hidden data-intent-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
+                <a class="btn btn-sm" data-ios-feed hidden data-feed-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
+              </div>
+              <div class="muted" style="margin-top:8px">Most recent guest appearances (excluding own podcasts) — up to 50 items.</div>
+            </section>
+            """.strip()
 
         content = f"""
-        <h1>{_esc(speaker)}</h1>
-        <div class="card panel speaker-controls">
-          <div class="panel-head">
-            <h2>Appearances</h2>
-          </div>
-          <label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>
-          <div class="speaker-counts" style="margin-top:8px">
-            <div class="speaker-stats-row" data-speaker-stats="guest">
-              <span class="stat-chip"><strong>{guest_count}</strong> eps</span>
-              <span class="stat-chip"><strong>{guest_pods}</strong> pods</span>
-              <span class="stat-chip stat-label">Guest</span>
+        <h1>{_esc(speaker_h1)}</h1>
+        {speaker_profile_panel}
+        <div class="speaker-top-panels">
+          <section class="card panel speaker-controls">
+            <div class="panel-head">
+              <h2>Appearances</h2>
             </div>
-            <div class="speaker-stats-row" data-speaker-stats="total">
-              <span class="stat-chip"><strong>{total_count}</strong> eps</span>
-              <span class="stat-chip"><strong>{total_pods}</strong> pods</span>
-              <span class="stat-chip stat-label">Total</span>
+            <label class="toggle"><input id="speaker-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
+            <div class="speaker-counts" style="margin-top:8px">
+              <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">
+                <span class="stat-chip"><strong>{guest_count}</strong> eps</span>
+                <span class="stat-chip"><strong>{guest_pods}</strong> pods</span>
+                <span class="stat-chip stat-label">Excluding own</span>
+              </div>
+              <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">
+                <span class="stat-chip"><strong>{total_count}</strong> eps</span>
+                <span class="stat-chip"><strong>{total_pods}</strong> pods</span>
+                <span class="stat-chip stat-label">Including own</span>
+              </div>
             </div>
-          </div>
-          {rss_link_html}
+            <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
+          </section>
+          {speaker_feed_panel}
         </div>
         <p class="muted">Grouped by podcast (most appearances first).</p>
         <div class="speaker-groups">
@@ -1534,18 +1717,19 @@ def main() -> int:
         """.strip()
         _write_page(
             base_template=base_template,
-            out_path=dist_dir / "speakers" / sp_slug / "index.html",
+            out_path=dist_dir / sp_page / "index.html",
+            dist_dir=dist_dir,
             base_path=base_path,
             site_cfg=site_cfg,
-            page_title=f"{speaker} — {site_cfg.get('title') or ''}".strip(" —"),
-            page_description=f"Episodes with {speaker}",
+            page_title=f"{speaker_h1} — {site_cfg.get('title') or ''}".strip(" —"),
+            page_description=f"Episodes with {speaker_h1}",
             content_html=content,
         )
 
         if has_guest_feed:
-            speaker_short = re.sub(r"\s+", " ", str(speaker or "").strip())[:60]
+            speaker_short = re.sub(r"\s+", " ", str(speaker_h1 or "").strip())[:60]
             channel_title = f"{speaker_short} — guest appearances"
-            channel_link = _href(base_path, f"speakers/{sp_slug}/")
+            channel_link = _href(base_path, f"{sp_page}/")
             channel_desc = f"Most recent guest appearances for {speaker_short} (excluding podcasts they own)."
             last_build = _rss_pubdate(guest_eps[0].get("published_at")) or format_datetime(datetime.now(timezone.utc))
 
@@ -1559,7 +1743,7 @@ def main() -> int:
                     continue
 
                 link_url = _safe_http_href(str(e.get("link_url") or "")) or _href(
-                    base_path, f"podcasts/{e.get('feed_slug') or ''}/?e={e.get('episode_key') or ''}"
+                    base_path, f"{e.get('feed_slug') or ''}/?e={e.get('episode_key') or ''}"
                 )
                 pub = _rss_pubdate(e.get("published_at")) or last_build
                 guid = f"{e.get('feed_slug') or ''}:{e.get('episode_key') or ''}"
@@ -1591,7 +1775,7 @@ def main() -> int:
             for item in items_xml[:50]:
                 rss_lines.append("  " + item.replace("\n", "\n  "))
             rss_lines.extend(["</channel>", "</rss>", ""])
-            (dist_dir / "speakers" / sp_slug / "feed.xml").write_text("\n".join(rss_lines), encoding="utf-8")
+            (dist_dir / sp_page / "feed.xml").write_text("\n".join(rss_lines), encoding="utf-8")
 
     repo_stats = path_stats_tree(
         REPO_ROOT,

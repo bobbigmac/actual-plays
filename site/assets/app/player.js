@@ -7,6 +7,7 @@ import { readProgress, writeProgress } from "./state/progress.js";
 import { corsOkForUrl, maybeAutoCacheQueue } from "./offline_api.js";
 import { parseEpisodeId, readEpisodeMetaFromElement, resolveEpisodeMeta } from "./episode_meta.js";
 import { refreshAllProgress, refreshProgressForId, refreshQueueIndicators } from "./ui/episode_dom.js";
+import { toastNetworkFailure } from "./ui/toast.js";
 import { renderHomePanels } from "./home.js";
 import { fmtTime } from "./util/time.js";
 import { syncFromStorage } from "./model.js";
@@ -762,7 +763,9 @@ export function initPlayer() {
 
         return full;
       })
-      .catch(function () {
+      .catch(function (e2) {
+        console.warn("[player] selectMeta failed", e2);
+        toastNetworkFailure("Episode");
         return null;
       });
   }

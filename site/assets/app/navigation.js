@@ -1,5 +1,6 @@
 import { getBasePath } from "./env.js";
 import { normalizePathname } from "./util/url.js";
+import { toastNetworkFailure } from "./ui/toast.js";
 
 export function initSpaNavigation(deps) {
   var closeData = (deps && deps.closeData) || function () {};
@@ -46,7 +47,10 @@ export function initSpaNavigation(deps) {
         // Don't auto-switch playback on navigation; deep-link autoplay happens on full load only.
         window.scrollTo({ top: 0, left: 0, behavior: "auto" });
       })
-      .catch(function () {})
+      .catch(function (e) {
+        console.warn("[nav] fetch failed", url, e);
+        toastNetworkFailure("Page");
+      })
       .finally(function () {
         navigating = false;
         var m = document.querySelector(mainSel);
@@ -95,4 +99,3 @@ export function initSpaNavigation(deps) {
     go: navigateTo,
   };
 }
-

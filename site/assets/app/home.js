@@ -62,7 +62,6 @@ export function renderHomePanels() {
       var parsed = parseEpisodeId(it.id);
       var url =
         basePath +
-        "podcasts/" +
         encodeURIComponent(parsed.feedSlug) +
         "/?e=" +
         encodeURIComponent(parsed.episodeKey);
@@ -136,7 +135,6 @@ export function renderHomePanels() {
       var parsed = parseEpisodeId(it.id);
       var url =
         basePath +
-        "podcasts/" +
         encodeURIComponent(parsed.feedSlug) +
         "/?e=" +
         encodeURIComponent(parsed.episodeKey);

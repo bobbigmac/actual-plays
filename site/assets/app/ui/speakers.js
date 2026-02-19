@@ -7,7 +7,7 @@ export function applySpeakersUi() {
   var speakersToggle = $("#speakers-include-own");
   if (speakersToggle) {
     speakersToggle.checked = includeOwn;
-    var mode = includeOwn ? "Including own podcasts" : "Guest only";
+    var mode = includeOwn ? "Including own podcasts" : "Excluding own podcasts";
     var modeEl = $("[data-speakers-mode]");
     if (modeEl) modeEl.textContent = mode;
     var items = $all("[data-speaker-row]");
@@ -39,6 +39,9 @@ export function applySpeakersUi() {
           var an = Number(a.getAttribute(includeOwn ? "data-count-total" : "data-count-guest") || 0) || 0;
           var bn = Number(b.getAttribute(includeOwn ? "data-count-total" : "data-count-guest") || 0) || 0;
           if (bn !== an) return bn - an;
+          var ap = Number(a.getAttribute(includeOwn ? "data-pods-total" : "data-pods-guest") || 0) || 0;
+          var bp = Number(b.getAttribute(includeOwn ? "data-pods-total" : "data-pods-guest") || 0) || 0;
+          if (bp !== ap) return bp - ap;
           var aName = String(a.getAttribute("data-name") || "").toLowerCase();
           var bName = String(b.getAttribute("data-name") || "").toLowerCase();
           if (aName < bName) return -1;

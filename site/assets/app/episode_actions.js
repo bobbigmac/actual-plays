@@ -5,6 +5,7 @@ import { loadHistory, removeFromHistory, saveHistory } from "./state/history.js"
 import { readProgress, writeProgress, writeProgressObj } from "./state/progress.js";
 import { toggleOfflineUrl, refreshOfflineStatus, maybeAutoCacheQueue } from "./offline_api.js";
 import { syncFromStorage } from "./model.js";
+import { toastNetworkFailure } from "./ui/toast.js";
 
 function getPageFeedTitle() {
   var h1 = $("h1");
@@ -92,6 +93,7 @@ export function initEpisodeActions(deps) {
         })
         .catch(function (e2) {
           console.warn("[open] failed", e2);
+          toastNetworkFailure("Episode");
         });
       return;
     }
@@ -127,7 +129,10 @@ export function initEpisodeActions(deps) {
           onChanged();
           maybeAutoCacheQueue({ force: false });
         })
-        .catch(function () {});
+        .catch(function (e2) {
+          console.warn("[queue] failed", e2);
+          toastNetworkFailure("Queue");
+        });
       return;
     }
 
@@ -191,6 +196,7 @@ export function initEpisodeActions(deps) {
         })
         .catch(function (e2) {
           console.warn("[offline] toggle failed", e2);
+          toastNetworkFailure("Offline");
           btn.textContent = prevText || "Offline";
         })
         .finally(function () {

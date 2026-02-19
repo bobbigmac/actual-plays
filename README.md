@@ -49,7 +49,7 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
      * `python3 -m venv .venv`
      * `. .venv/bin/activate`
      * `python -m pip install -r requirements.txt`
-     * `python -m spacy download en_core_web_sm feedparser`
+     * `python -m spacy download en_core_web_sm`
 3. Update the cache:
 
    * `npm run update`
@@ -66,6 +66,19 @@ Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically wh
 Note: `cache/` is gitignored for local development. The GitHub Action persists it to a separate `cache` branch so conditional fetch headers (etag/last-modified) survive across runs.
 
 The generated site is a basic PWA (manifest + service worker) and stores per-episode playback progress + “continue listening” history in the browser.
+
+## URL structure
+
+Pages are generated as “root slugs” under your configured `site.base_path`:
+
+* Podcasts: `/<feed-slug>/`
+* Speakers (per-person pages): `/<speaker-slug>/`
+* Speakers index: `/speakers/`
+* Categories: `/categories/<category-slug>/`
+
+If a speaker slug collides with a podcast slug (or a reserved path like `assets/`), the speaker page is built as `/<slug>-speaker/` instead.
+
+Tip: if you want the site served at a subpath like `https://example.com/podcasts/`, set `site.base_path: /podcasts/` in the feeds config.
 
 ## Data storage: “retagged feed” markdown
 
@@ -84,7 +97,7 @@ Each podcast feed has one canonical cache file, updated in-place. This keeps dif
     * small flags (e.g. “interview”, “live”, “trailer”)
     * confidence (optional)
 
-We keep this format tolerant: if something fails to parse or extract, the cache still updates and the site still builds.
+Tagging requires spaCy; the update step fails fast if spaCy (and `en_core_web_sm`) isn’t available.
 
 ## Avoiding fabricated IDs
 

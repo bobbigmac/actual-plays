@@ -659,6 +659,60 @@ details.menu > summary::-webkit-details-marker {
   margin: 12px 0;
 }
 
+.speaker-top-panels {
+  display: grid;
+  gap: 12px;
+  margin: 12px 0;
+}
+
+.speaker-top-panels > * {
+  min-width: 0;
+}
+
+@media (min-width: 900px) {
+  .speaker-top-panels {
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
+    align-items: start;
+  }
+}
+
+.speaker-top-panels .speaker-controls,
+.speaker-top-panels .subscribe-panel {
+  margin: 0;
+}
+
+.toast-root {
+  position: fixed;
+  right: 14px;
+  bottom: 14px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: min(360px, calc(100vw - 28px));
+  pointer-events: none;
+}
+
+.toast {
+  pointer-events: none;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(20, 22, 30, 0.92);
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.45);
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.25;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.toast.is-show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .subscribe-row {
   display: flex;
   gap: 8px;
@@ -1064,8 +1118,17 @@ details.menu > summary::-webkit-details-marker {
   gap: 12px;
 }
 
+.speaker-controls {
+  margin: 12px 0;
+}
+
 .speaker-grid {
+  margin-top: 14px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.speaker-profile {
+  margin-top: 10px;
 }
 
 .speaker-card {

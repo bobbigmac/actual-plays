@@ -39,7 +39,7 @@ export function readEpisodeMetaFromElement(el) {
 var episodeMetaCache = new Map();
 
 function fetchEpisodeMeta(feedSlug, episodeKey) {
-  var url = getBasePath() + "podcasts/" + encodeURIComponent(feedSlug) + "/index.html";
+  var url = getBasePath() + encodeURIComponent(feedSlug) + "/index.html";
   return fetch(url, { cache: "no-store" })
     .then(function (r) {
       if (!r.ok) throw new Error("Failed to load " + url);

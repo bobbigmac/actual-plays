@@ -96,6 +96,7 @@ self.addEventListener("install", (event) => {
           urlFor("assets/app/ui/descriptions.js"),
           urlFor("assets/app/ui/menus.js"),
           urlFor("assets/app/ui/speakers.js"),
+          urlFor("assets/app/ui/toast.js"),
           urlFor("assets/app/state/progress.js"),
           urlFor("assets/app/state/history.js"),
           urlFor("assets/app/state/queue.js"),
