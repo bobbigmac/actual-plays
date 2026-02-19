@@ -5,7 +5,7 @@
 - description: A personal podcast index.
 - base_path: /
 - og_image: assets/bobs-faves-promo.jpg
-- footer_links: GitHub=https://github.com/
+- footer_links: GitHub=https://github.com/bobbigmac/podcasts
 
 # Defaults
 - max_episodes_per_feed: 1000
