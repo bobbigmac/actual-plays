@@ -13,6 +13,8 @@ import { store, syncFromStorage } from "./model.js";
 import { refreshAllProgress, refreshOfflineIndicators, refreshQueueIndicators } from "./ui/episode_dom.js";
 import { renderHomePanels } from "./home.js";
 import { initLazyImages } from "./ui/lazy_images.js";
+import { initCopyUi } from "./ui/copy.js";
+import { initShareUi } from "./ui/share.js";
 import { loadHistory, saveHistory } from "./state/history.js";
 import { loadQueue, saveQueue } from "./state/queue.js";
 import { readProgress, writeProgressObj } from "./state/progress.js";
@@ -95,6 +97,8 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
     playerApi: playerApi,
     onChanged: refreshUi,
   });
+  initCopyUi();
+  initShareUi();
   initMenus();
   initSpaNavigation({
     closeData: closeData,

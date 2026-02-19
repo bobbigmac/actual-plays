@@ -1,4 +1,5 @@
 # Site
+- id: actualplays
 - title: Actual Plays
 - subtitle: A self-updating, static podcast browser
 - description: Built from RSS/Atom feeds. Episodes stream directly from the original hosts.

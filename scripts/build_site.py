@@ -6,7 +6,10 @@ import json
 import re
 import shutil
 import sys
+import urllib.parse
 from collections import defaultdict
+from datetime import datetime, timezone
+from email.utils import format_datetime
 from pathlib import Path
 from typing import Any
 
@@ -322,6 +325,23 @@ def _fmt_time(seconds: int | None) -> str:
     return f"{m}:{ss:02d}"
 
 
+def _rss_pubdate(iso_value: str | None) -> str | None:
+    if not iso_value:
+        return None
+    s = str(iso_value).strip()
+    if not s:
+        return None
+    try:
+        if s.endswith("Z"):
+            s = s[:-1] + "+00:00"
+        dt = datetime.fromisoformat(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return format_datetime(dt.astimezone(timezone.utc))
+    except Exception:
+        return None
+
+
 def _fmt_size(bytes_value: int | None) -> str:
     if not bytes_value:
         return "?MB"
@@ -551,12 +571,14 @@ def main() -> int:
     feed_tags: dict[str, dict[str, list[str]]] = {}
     feed_notes_by_slug: dict[str, str] = {}
     feed_title_override_by_slug: dict[str, str] = {}
+    feed_url_by_slug: dict[str, str] = {}
     owner_slugs_by_feed: dict[str, set[str]] = {}
     for f in feeds_cfg.get("feeds") or []:
         slug = str(f.get("slug") or "")
         if not slug:
             continue
         feed_order.append(slug)
+        feed_url_by_slug[slug] = str(f.get("url") or "").strip()
         owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
         categories = _norm_categories(f.get("categories") or f.get("category"))
@@ -596,6 +618,7 @@ def main() -> int:
                     "slug": slug,
                     "title": cfg_title or slug,
                     "description": "",
+                    "source_url": str(feed_url_by_slug.get(slug) or "").strip(),
                     "episodes": [],
                     "missing_cache": True,
                     "owners": sanitize_speakers(cfg_owners),
@@ -636,6 +659,7 @@ def main() -> int:
             speakers = ep.get("speakers") or []
             dur_seconds = _duration_seconds(ep.get("itunes_duration"))
             enclosure_bytes = _parse_int(ep.get("enclosure_length") or ep.get("enclosure_bytes"))
+            enclosure_type = ep.get("enclosure_type")
             episode_key = ep.get("key")
             ep_entry = {
                 "feed_slug": feed_slug,
@@ -649,6 +673,7 @@ def main() -> int:
                 "link_url": ep.get("link"),
                 "duration_seconds": dur_seconds,
                 "enclosure_bytes": enclosure_bytes,
+                "enclosure_type": enclosure_type,
                 "speakers": speakers,
                 "topics": ep.get("topics") or [],
             }
@@ -1088,10 +1113,38 @@ def main() -> int:
             cat_slug = cat_slug_by_name.get(cat) or slugify(cat)
             cat_links.append(f'<a class="tag" href="{_esc(_href(base_path, f"categories/{cat_slug}/"))}">{_esc(cat)}</a>')
         cats_html = f'<div class="tags">{"".join(cat_links)}</div>' if cat_links else ""
+
+        rss_url = _safe_http_href(str(feed.get("source_url") or ""))
+        rss_q = urllib.parse.quote(rss_url, safe="") if rss_url else ""
+        title_q = urllib.parse.quote(str(title or ""), safe="")
+        subscribe_panel = ""
+        if rss_url:
+            subscribe_panel = f"""
+            <section class="card panel subscribe-panel">
+              <div class="panel-head">
+                <h2>Subscribe</h2>
+                <a class="btn btn-sm" href="{_esc(rss_url)}" rel="noopener" target="_blank">RSS</a>
+              </div>
+              <div class="subscribe-row">
+                <input class="rss-input" type="text" value="{_esc(rss_url)}" readonly />
+                <button class="btn btn-sm" type="button" data-copy-text="{_esc(rss_url)}">Copy</button>
+                <button class="btn btn-sm" type="button" data-share-url="{_esc(rss_url)}" data-share-title="{_esc(title)}">Share</button>
+              </div>
+              <div class="subscribe-actions">
+                <a class="btn btn-sm" href="{_esc('https://overcast.fm/add?url=' + rss_q)}" rel="noopener" target="_blank">Overcast</a>
+                <a class="btn btn-sm" href="{_esc('https://pocketcasts.com/submit/?url=' + rss_q)}" rel="noopener" target="_blank">Pocket Casts</a>
+                <a class="btn btn-sm" href="{_esc('https://gpodder.net/subscribe?url=' + rss_q)}" rel="noopener" target="_blank">gPodder</a>
+                <a class="btn btn-sm" href="{_esc('https://podcasts.apple.com/search?term=' + title_q)}" rel="noopener" target="_blank">Apple Podcasts</a>
+                <a class="btn btn-sm" data-android-intent hidden data-intent-url="{_esc(rss_url)}" rel="noopener">Open in app</a>
+                <a class="btn btn-sm" data-ios-feed hidden data-feed-url="{_esc(rss_url)}" rel="noopener">Open in app</a>
+              </div>
+            </section>
+            """.strip()
         content = f"""
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
         {warn_html}
+        {subscribe_panel}
         {profile_panel}
         {cats_html}
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>
@@ -1162,6 +1215,16 @@ def main() -> int:
 
     for sp_slug, speaker, guest_count, total_count in speaker_rows[:500]:
         eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
+        guest_eps = []
+        for e in eps:
+            feed_slug = str(e.get("feed_slug") or "")
+            if sp_slug in (owner_slugs_by_feed.get(feed_slug) or set()):
+                continue
+            guest_eps.append(e)
+        guest_eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
+        guest_eps = guest_eps[:50]
+        has_guest_feed = len(guest_eps) > 1
+
         # Group episodes by source podcast; show the biggest groups first.
         grouped: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
         for e in eps[:500]:
@@ -1257,6 +1320,15 @@ def main() -> int:
                 </details>
                 """.strip()
             )
+        rss_link_html = ""
+        if has_guest_feed:
+            rss_path = _href(base_path, f"speakers/{sp_slug}/feed.xml")
+            rss_link_html = (
+                f'<div style="margin-top:10px">'
+                f'<a class="btn btn-sm" href="{_esc(rss_path)}">RSS: guest appearances</a>'
+                f"</div>"
+            )
+
         content = f"""
         <h1>{_esc(speaker)}</h1>
         <div class="card panel" style="margin:12px 0">
@@ -1265,6 +1337,7 @@ def main() -> int:
           </div>
           <label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>
           <div class="muted" style="margin-top:8px">Guest appearances: <strong>{guest_count}</strong> · Total: <strong>{total_count}</strong></div>
+          {rss_link_html}
         </div>
         <p class="muted">Grouped by podcast (most appearances first).</p>
         <div class="speaker-groups">
@@ -1280,6 +1353,57 @@ def main() -> int:
             page_description=f"Episodes with {speaker}",
             content_html=content,
         )
+
+        if has_guest_feed:
+            speaker_short = re.sub(r"\s+", " ", str(speaker or "").strip())[:60]
+            channel_title = f"{speaker_short} — guest appearances"
+            channel_link = _href(base_path, f"speakers/{sp_slug}/")
+            channel_desc = f"Most recent guest appearances for {speaker_short} (excluding podcasts they own)."
+            last_build = _rss_pubdate(guest_eps[0].get("published_at")) or format_datetime(datetime.now(timezone.utc))
+
+            items_xml: list[str] = []
+            for e in guest_eps:
+                ep_title = re.sub(r"\s+", " ", str(e.get("title") or "").strip())[:180]
+                item_title = f"{speaker_short}: {ep_title}" if ep_title else speaker_short
+
+                audio_url = _safe_http_href(str(e.get("audio_url") or ""))
+                if not audio_url:
+                    continue
+
+                link_url = _safe_http_href(str(e.get("link_url") or "")) or _href(
+                    base_path, f"podcasts/{e.get('feed_slug') or ''}/?e={e.get('episode_key') or ''}"
+                )
+                pub = _rss_pubdate(e.get("published_at")) or last_build
+                guid = f"{e.get('feed_slug') or ''}:{e.get('episode_key') or ''}"
+                length = int(e.get("enclosure_bytes") or 0) if isinstance(e.get("enclosure_bytes"), int) else 0
+                typ = str(e.get("enclosure_type") or "audio/mpeg").strip() or "audio/mpeg"
+
+                items_xml.append(
+                    f"""
+                    <item>
+                      <title>{_esc(item_title)}</title>
+                      <link>{_esc(link_url)}</link>
+                      <guid isPermaLink="false">{_esc(guid)}</guid>
+                      <pubDate>{_esc(pub)}</pubDate>
+                      <enclosure url="{_esc(audio_url)}" length="{length}" type="{_esc(typ)}" />
+                    </item>
+                    """.strip()
+                )
+
+            rss_lines = [
+                '<?xml version="1.0" encoding="UTF-8"?>',
+                '<rss version="2.0">',
+                "<channel>",
+                f"  <title>{_esc(channel_title)}</title>",
+                f"  <link>{_esc(channel_link)}</link>",
+                f"  <description>{_esc(channel_desc)}</description>",
+                f"  <lastBuildDate>{_esc(last_build)}</lastBuildDate>",
+                "  <ttl>360</ttl>",
+            ]
+            for item in items_xml[:50]:
+                rss_lines.append("  " + item.replace("\n", "\n  "))
+            rss_lines.extend(["</channel>", "</rss>", ""])
+            (dist_dir / "speakers" / sp_slug / "feed.xml").write_text("\n".join(rss_lines), encoding="utf-8")
 
     repo_stats = path_stats_tree(
         REPO_ROOT,

@@ -1,5 +1,5 @@
 export function initOffline(deps) {
-  var LS_PREFIX = String((deps && deps.LS_PREFIX) || "ap.v1.");
+  var LS_PREFIX = String((deps && deps.LS_PREFIX) || "ap.v2.default.");
   var lsGet = (deps && deps.lsGet) || function () { return null; };
   var lsSet = (deps && deps.lsSet) || function () {};
   var loadQueue = (deps && deps.loadQueue) || function () { return []; };

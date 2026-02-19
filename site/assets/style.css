@@ -538,6 +538,38 @@ details.menu > summary::-webkit-details-marker {
   margin: 12px 0;
 }
 
+.subscribe-panel {
+  margin: 12px 0;
+}
+
+.subscribe-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.subscribe-row .btn {
+  white-space: nowrap;
+}
+
+.rss-input {
+  width: 100%;
+  min-width: 0;
+  padding: 8px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+}
+
+.subscribe-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
 .feed-profile .scores {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));

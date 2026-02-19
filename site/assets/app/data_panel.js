@@ -4,7 +4,7 @@ export function initDataPanel(deps) {
 
   var $ = deps.$;
   var $all = deps.$all;
-  var LS_PREFIX = String(deps.LS_PREFIX || "ap.v1.");
+  var LS_PREFIX = String(deps.LS_PREFIX || "ap.v2.default.");
   var lsGet = deps.lsGet;
   var loadHistory = deps.loadHistory;
   var saveHistory = deps.saveHistory;
