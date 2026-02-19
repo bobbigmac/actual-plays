@@ -593,6 +593,19 @@ details.menu > summary::-webkit-details-marker {
   margin-bottom: 10px;
 }
 
+@supports (content-visibility: auto) {
+  /* Reduce work for long episode lists on slower devices. */
+  .feed-card {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 92px;
+  }
+
+  .episode {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 260px;
+  }
+}
+
 .ep-actions {
   display: grid;
   gap: 8px;

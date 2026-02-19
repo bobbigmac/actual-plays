@@ -11,6 +11,8 @@ from typing import Any
 from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_json, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
+PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Build static HTML site from cached feed markdown.")
@@ -320,7 +322,7 @@ def main() -> int:
             '<div class="muted">No cache yet (run update script / wait for Action).</div>' if missing else ""
         )
         cover = (
-            f'<img src="{_esc(image_url)}" alt="" loading="lazy" />'
+            f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
             if image_url
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
@@ -354,7 +356,7 @@ def main() -> int:
         hue = _hue_from_slug(str(feed_slug))
         initials = "".join([p[0].upper() for p in str(e.get("feed_title") or feed_slug).split()[:2] if p])[:2] or "P"
         art = (
-            f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+            f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
             if img_url
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
@@ -460,7 +462,7 @@ def main() -> int:
             hue = _hue_from_slug(str(slug))
             initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
             art = (
-                f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+                f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
                 if img_url
                 else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
             )
@@ -633,7 +635,7 @@ def main() -> int:
                 hue = _hue_from_slug(str(feed_slug))
                 initials = "".join([p[0].upper() for p in str(feed_title_raw or feed_slug).split()[:2] if p])[:2] or "P"
                 art = (
-                    f'<img src="{_esc(img_url)}" alt="" loading="lazy" />'
+                    f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
                     if img_url
                     else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
                 )

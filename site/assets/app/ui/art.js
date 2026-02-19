@@ -1,5 +1,8 @@
 import { esc } from "../dom.js";
 
+var PLACEHOLDER_SRC =
+  "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+
 function hueFromSeed(seed) {
   var s = String(seed || "");
   var h = 0;
@@ -23,8 +26,14 @@ function initialsFromText(text) {
 
 export function artHtml(imageUrl, seedText) {
   var img = String(imageUrl || "").trim();
-  if (img) return '<img src="' + esc(img) + '" alt="" loading="lazy" />';
+  if (img)
+    return (
+      '<img src="' +
+      PLACEHOLDER_SRC +
+      '" data-src="' +
+      esc(img) +
+      '" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+    );
   var hue = hueFromSeed(seedText);
   return '<div class="cover-fallback" style="--cover-hue: ' + hue + '">' + esc(initialsFromText(seedText)) + "</div>";
 }
-

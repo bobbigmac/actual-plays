@@ -12,6 +12,7 @@ import { initEpisodeActions } from "./episode_actions.js";
 import { store, syncFromStorage } from "./model.js";
 import { refreshAllProgress, refreshOfflineIndicators, refreshQueueIndicators } from "./ui/episode_dom.js";
 import { renderHomePanels } from "./home.js";
+import { initLazyImages } from "./ui/lazy_images.js";
 import { loadHistory, saveHistory } from "./state/history.js";
 import { loadQueue, saveQueue } from "./state/queue.js";
 import { readProgress, writeProgressObj } from "./state/progress.js";
@@ -26,6 +27,8 @@ import { getBasePath } from "./env.js";
 import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
 
 (function () {
+  var lazyImages = initLazyImages();
+
   function closeData() {
     var modal = $("#data-modal");
     if (modal) modal.classList.remove("open");
@@ -37,6 +40,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
     refreshQueueIndicators();
     refreshOfflineIndicators(store.getState());
     applySpeakersUi();
+    if (lazyImages && lazyImages.refreshSoon) lazyImages.refreshSoon(document);
   }
 
   function initProgressSync() {
@@ -81,6 +85,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
       refreshAllProgress();
       refreshQueueIndicators();
       refreshOfflineIndicators(store.getState());
+      if (lazyImages && lazyImages.refreshSoon) lazyImages.refreshSoon(document);
     },
   });
 
@@ -125,6 +130,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
   initPwa();
   if (searchApi && searchApi.ensure) searchApi.ensure();
   initSpeakersUi();
+  if (lazyImages && lazyImages.refresh) lazyImages.refresh(document);
 
   window.addEventListener("load", function () {
     // Auto-offline queue (if enabled) should run after the page is settled.

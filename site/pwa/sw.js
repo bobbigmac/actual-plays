@@ -90,6 +90,7 @@ self.addEventListener("install", (event) => {
           urlFor("assets/app/util/url.js"),
           urlFor("assets/app/ui/episode_dom.js"),
           urlFor("assets/app/ui/art.js"),
+          urlFor("assets/app/ui/lazy_images.js"),
           urlFor("assets/app/ui/header_offset.js"),
           urlFor("assets/app/ui/descriptions.js"),
           urlFor("assets/app/ui/menus.js"),
