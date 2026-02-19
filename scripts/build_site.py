@@ -14,12 +14,128 @@ from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree,
 from scripts.shared import sanitize_speakers, sanitize_topics
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+_PROFILE_DIRNAME = "feed-profiles"
+
+
+def _safe_http_href(href: str) -> str:
+    href = (href or "").strip()
+    if not href:
+        return ""
+    if href.startswith("http://") or href.startswith("https://"):
+        return href
+    return ""
+
+
+def _md_inline(text: str) -> str:
+    """
+    Minimal markdown inline formatting: links, code, bold, italics.
+    Always escapes HTML; only http(s) links are allowed.
+    """
+    text = _esc(text or "")
+    # code first to avoid reformatting inside it.
+    text = re.sub(r"`([^`]+)`", lambda m: f"<code>{m.group(1)}</code>", text)
+    # links: [label](url)
+    def _link(m: re.Match) -> str:
+        label = m.group(1)
+        href = _safe_http_href(html.unescape(m.group(2)))
+        if not href:
+            return label
+        return f'<a href="{_esc(href)}" rel="noopener">{label}</a>'
+
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", _link, text)
+    # bold / italics
+    text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
+    text = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", text)
+    return text
+
+
+def _render_min_md(text: str) -> str:
+    """
+    Very small markdown renderer for trusted local content.
+    Supports headings (#), paragraphs, and unordered lists (- / *).
+    """
+    lines = (text or "").replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    blocks: list[list[str]] = []
+    cur: list[str] = []
+    for raw in lines:
+        if raw.strip() == "":
+            if cur:
+                blocks.append(cur)
+                cur = []
+            continue
+        cur.append(raw.rstrip("\n"))
+    if cur:
+        blocks.append(cur)
+
+    out: list[str] = []
+    for block in blocks:
+        # heading
+        if len(block) == 1 and block[0].lstrip().startswith("#"):
+            s = block[0].lstrip()
+            level = min(len(s) - len(s.lstrip("#")), 3)
+            title = s[level:].strip()
+            tag = {1: "h2", 2: "h3", 3: "h4"}[level]
+            out.append(f"<{tag}>{_md_inline(title)}</{tag}>")
+            continue
+        # list
+        if all(b.lstrip().startswith(("- ", "* ")) for b in block):
+            items = []
+            for b in block:
+                item = b.lstrip()[2:].strip()
+                items.append(f"<li>{_md_inline(item)}</li>")
+            out.append("<ul>" + "".join(items) + "</ul>")
+            continue
+        # paragraph
+        para = " ".join([b.strip() for b in block]).strip()
+        out.append(f"<p>{_md_inline(para)}</p>")
+    return "\n".join(out).strip()
+
+
+def _parse_profile_md(text: str) -> tuple[dict[str, Any], str]:
+    """
+    Parses a profile markdown file with optional simple front matter:
+
+    ---
+    key: value
+    score_production: 4
+    ---
+    Body markdown...
+    """
+    src = (text or "").replace("\r\n", "\n").replace("\r", "\n")
+    if not src.startswith("---\n"):
+        return {}, src.strip()
+    rest = src.split("\n", 1)[1]
+    if "\n---\n" not in rest:
+        return {}, src.strip()
+    fm, body = rest.split("\n---\n", 1)
+    meta: dict[str, Any] = {}
+    for line in fm.split("\n"):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if ":" not in line:
+            continue
+        k, v = line.split(":", 1)
+        key = k.strip()
+        val = v.strip()
+        if not key:
+            continue
+        if re.fullmatch(r"-?\d+", val):
+            meta[key] = int(val)
+        elif re.fullmatch(r"-?\d+\.\d+", val):
+            meta[key] = float(val)
+        else:
+            meta[key] = val
+    return meta, body.strip()
 
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Build static HTML site from cached feed markdown.")
-    p.add_argument("--site", default="site.json", help="Path to site config JSON.")
-    p.add_argument("--feeds", default="feeds.json", help="Path to feeds config JSON (for ordering).")
+    p.add_argument(
+        "--feeds",
+        default="feeds.json",
+        help="Path to feeds config JSON (includes top-level 'site', 'defaults', and 'feeds').",
+    )
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--dist", default="dist", help="Output directory.")
     p.add_argument("--templates", default="site/templates", help="Templates directory.")
@@ -286,8 +402,16 @@ def _write_page(
 def main() -> int:
     args = _parse_args()
 
-    site_cfg = read_json(REPO_ROOT / args.site)
-    feeds_cfg = read_json(REPO_ROOT / args.feeds)
+    cfg = read_json(REPO_ROOT / args.feeds)
+    site_cfg = cfg.get("site") if isinstance(cfg, dict) else None
+    if not isinstance(site_cfg, dict):
+        site_cfg = {}
+    site_cfg.setdefault("title", "Podcast Index")
+    site_cfg.setdefault("subtitle", "A self-updating, static podcast browser")
+    site_cfg.setdefault("description", "Built from RSS/Atom feeds. Episodes stream directly from the original hosts.")
+    site_cfg.setdefault("base_path", "/")
+    site_cfg.setdefault("footer_links", [])
+    feeds_cfg = cfg if isinstance(cfg, dict) else {}
 
     cache_dir = REPO_ROOT / args.cache
     feeds_dir = cache_dir / "feeds"
@@ -299,6 +423,19 @@ def main() -> int:
     base_path = _norm_base_path(base_override if base_override is not None else site_cfg.get("base_path"))
 
     base_template = _load_template(templates_dir / "base.html")
+
+    # Optional per-feed profiles (markdown sidecars) keyed by feed slug.
+    profiles_dir = REPO_ROOT / _PROFILE_DIRNAME
+    feed_profile_by_slug: dict[str, dict[str, Any]] = {}
+    if profiles_dir.exists():
+        for p in sorted(profiles_dir.glob("*.md")):
+            slug = p.stem
+            meta, body = _parse_profile_md(p.read_text(encoding="utf-8", errors="replace"))
+            feed_profile_by_slug[slug] = {
+                "meta": meta,
+                "body_md": body,
+                "body_html": _render_min_md(body) if body.strip() else "",
+            }
 
     # Clean dist (but keep it within repo; callers control .gitignore).
     if dist_dir.exists():
@@ -338,6 +475,8 @@ def main() -> int:
 
     feed_order: list[str] = []
     feed_tags: dict[str, dict[str, list[str]]] = {}
+    feed_notes_by_slug: dict[str, str] = {}
+    feed_title_override_by_slug: dict[str, str] = {}
     owner_slugs_by_feed: dict[str, set[str]] = {}
     for f in feeds_cfg.get("feeds") or []:
         slug = str(f.get("slug") or "")
@@ -348,6 +487,9 @@ def main() -> int:
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
         categories = _norm_categories(f.get("categories") or f.get("category"))
         feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers, "categories": categories}
+        note = str(f.get("editors_note") or f.get("editor_note") or f.get("editorsNote") or "").strip()
+        feed_notes_by_slug[slug] = note
+        feed_title_override_by_slug[slug] = str(f.get("title_override") or f.get("titleOverride") or "").strip()
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
 
     if not feed_order:
@@ -361,17 +503,33 @@ def main() -> int:
         cfg_owners = cfg_tags.get("owners") or []
         cfg_common = cfg_tags.get("common_speakers") or []
         cfg_categories = cfg_tags.get("categories") or []
+        cfg_note = str(feed_notes_by_slug.get(slug) or "").strip()
+        cfg_title = str(feed_title_override_by_slug.get(slug) or "").strip()
+        profile = feed_profile_by_slug.get(slug) or {}
+        profile_meta = profile.get("meta") or {}
+        profile_note = str(profile_meta.get("editors_note") or profile_meta.get("editor_note") or "").strip()
+        note = profile_note or cfg_note
+        scores = {
+            k: v
+            for k, v in profile_meta.items()
+            if isinstance(k, str)
+            and (k.startswith("score_") or k.startswith("rating_"))
+            and isinstance(v, (int, float))
+        }
         if not feed:
             feeds.append(
                 {
                     "slug": slug,
-                    "title": slug,
+                    "title": cfg_title or slug,
                     "description": "",
                     "episodes": [],
                     "missing_cache": True,
                     "owners": sanitize_speakers(cfg_owners),
                     "common_speakers": sanitize_speakers(cfg_common),
                     "categories": _norm_categories(cfg_categories),
+                    "editors_note": note,
+                    "profile": profile,
+                    "scores": scores,
                 }
             )
             continue
@@ -382,6 +540,9 @@ def main() -> int:
         feed["owners"] = owners
         feed["common_speakers"] = common_speakers
         feed["categories"] = categories
+        feed["editors_note"] = note
+        feed["profile"] = profile
+        feed["scores"] = scores
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
         always = common_speakers + owners
         for ep in feed.get("episodes") or []:
@@ -485,6 +646,7 @@ def main() -> int:
         slug = str(feed.get("slug") or "")
         title = _esc(str(feed.get("title") or slug))
         desc = _esc(str(feed.get("description") or ""))
+        note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
         image_url = str(feed.get("image_url") or "").strip()
         hue = _hue_from_slug(slug)
         initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
@@ -492,6 +654,7 @@ def main() -> int:
         missing_note = (
             '<div class="muted">No cache yet (run update script / wait for Action).</div>' if missing else ""
         )
+        note_html = f'<div class="muted feed-note">{note}</div>' if note else ""
         cover = (
             f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
             if image_url
@@ -503,19 +666,20 @@ def main() -> int:
               <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
                 {cover}
               </a>
-              <div class="feed-body">
-                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
-                <div class="muted feed-desc">{desc}</div>
-                {missing_note}
-              </div>
-            </section>
-            """.strip()
+	              <div class="feed-body">
+	                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+	                <div class="muted feed-desc">{desc}</div>
+	                {note_html}
+	                {missing_note}
+	              </div>
+	            </section>
+	            """.strip()
         )
 
     podcasts_html = (
         "".join(feed_cards)
         if feed_cards
-        else '<div class="muted">No podcasts configured in <code>feeds.json</code>.</div>'
+        else '<div class="muted">No podcasts configured in the feeds config.</div>'
     )
 
     recent = all_episodes_index[:50]
@@ -586,9 +750,14 @@ def main() -> int:
             """.strip()
         )
 
+    home_intro_md = str(site_cfg.get("home_intro_md") or site_cfg.get("home_intro") or "").strip()
+    home_intro_html = _render_min_md(home_intro_md) if home_intro_md else ""
+    home_intro_block = f'<section class="card panel home-intro"><div class="md">{home_intro_html}</div></section>' if home_intro_html else ""
+
     content = f"""
     <h1>{_esc(site_cfg.get("title") or "Podcast Index")}</h1>
     <p class="muted">{_esc(site_cfg.get("description") or "")}</p>
+    {home_intro_block}
     <div class="home-layout">
       <aside class="home-side">
         <section class="card panel" id="home-history">
@@ -640,7 +809,7 @@ def main() -> int:
 
     content = f"""
     <h1>Categories</h1>
-    <p class="muted">Podcasts can be in multiple categories (configured in <code>feeds.json</code>).</p>
+    <p class="muted">Podcasts can be in multiple categories (configured in the feeds config).</p>
     <ul class="list">
       {"".join(cat_items) if cat_items else "<li class=\"muted\">No categories configured.</li>"}
     </ul>
@@ -656,50 +825,53 @@ def main() -> int:
     )
 
     for cat, feeds_by_slug in rows:
-            cards: list[str] = []
-            for feed_slug in sorted(feeds_by_slug.keys()):
-                feed = feeds_by_slug[feed_slug]
-                slug = str(feed.get("slug") or "")
-                title = _esc(str(feed.get("title") or slug))
-                desc = _esc(str(feed.get("description") or ""))
-                image_url = str(feed.get("image_url") or "").strip()
-                hue = _hue_from_slug(slug)
-                initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
-                cover = (
-                    f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
-                    if image_url
-                    else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
-                )
-                cards.append(
-                    f"""
-                    <section class="card feed-card" data-feed-slug="{_esc(slug)}">
-                      <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
-                        {cover}
-                      </a>
-                      <div class="feed-body">
-                        <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
-                        <div class="muted feed-desc">{desc}</div>
-                      </div>
-                    </section>
-                    """.strip()
-                )
-
-            content = f"""
-            <h1>{_esc(cat)}</h1>
-            <p class="muted">{len(feeds_by_slug)} podcasts</p>
-            <div class="grid feed-grid">
-              {"".join(cards) if cards else "<div class=\"muted\">No podcasts in this category.</div>"}
-            </div>
-            """.strip()
-            _write_page(
-                base_template=base_template,
-                out_path=dist_dir / "categories" / cat_slug_by_name[cat] / "index.html",
-                base_path=base_path,
-                site_cfg=site_cfg,
-                page_title=f"{cat} — {site_cfg.get('title') or ''}".strip(" —"),
-                page_description=f"Podcasts in {cat}",
-                content_html=content,
+        cards: list[str] = []
+        for feed_slug in sorted(feeds_by_slug.keys()):
+            feed = feeds_by_slug[feed_slug]
+            slug = str(feed.get("slug") or "")
+            title = _esc(str(feed.get("title") or slug))
+            desc = _esc(str(feed.get("description") or ""))
+            note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
+            image_url = str(feed.get("image_url") or "").strip()
+            hue = _hue_from_slug(slug)
+            initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
+            cover = (
+                f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+                if image_url
+                else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
             )
+            note_html = f'<div class="muted feed-note">{note}</div>' if note else ""
+            cards.append(
+                f"""
+                <section class="card feed-card" data-feed-slug="{_esc(slug)}">
+                  <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
+                    {cover}
+                  </a>
+                  <div class="feed-body">
+                    <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                    <div class="muted feed-desc">{desc}</div>
+                    {note_html}
+                  </div>
+                </section>
+                """.strip()
+            )
+
+        content = f"""
+        <h1>{_esc(cat)}</h1>
+        <p class="muted">{len(feeds_by_slug)} podcasts</p>
+        <div class="grid feed-grid">
+          {"".join(cards) if cards else "<div class=\"muted\">No podcasts in this category.</div>"}
+        </div>
+        """.strip()
+        _write_page(
+            base_template=base_template,
+            out_path=dist_dir / "categories" / cat_slug_by_name[cat] / "index.html",
+            base_path=base_path,
+            site_cfg=site_cfg,
+            page_title=f"{cat} — {site_cfg.get('title') or ''}".strip(" —"),
+            page_description=f"Podcasts in {cat}",
+            content_html=content,
+        )
 
     # Feed pages.
     for feed in feeds:
@@ -800,6 +972,35 @@ def main() -> int:
         feed_link = feed.get("link") or feed.get("source_url") or ""
         feed_desc = feed.get("description") or ""
         categories = feed.get("categories") or []
+        note = str(feed.get("editors_note") or "").strip()
+        profile = feed.get("profile") or {}
+        profile_body_html = str(profile.get("body_html") or "").strip()
+        scores = feed.get("scores") or {}
+
+        scores_html = ""
+        if isinstance(scores, dict) and scores:
+            items: list[str] = []
+            for k in sorted(scores.keys()):
+                v = scores.get(k)
+                if not isinstance(k, str) or not isinstance(v, (int, float)):
+                    continue
+                name = k
+                if name.startswith("score_"):
+                    name = name[len("score_") :]
+                if name.startswith("rating_"):
+                    name = name[len("rating_") :]
+                label = _esc(name.replace("_", " ").strip().title() or "Score")
+                val = float(v)
+                val_text = f"{int(val)}/5" if float(int(val)) == val and 0 <= val <= 5 else f"{val:g}"
+                items.append(f'<div class="score"><div class="k">{label}</div><div class="v">{_esc(val_text)}</div></div>')
+            if items:
+                scores_html = f'<div class="scores" aria-label="Ratings">{"".join(items)}</div>'
+
+        profile_panel = ""
+        if note or profile_body_html or scores_html:
+            note_html = f'<p class="muted"><strong>Editor’s note:</strong> {_esc(note)}</p>' if note else ""
+            body_html = f'<div class="md">{profile_body_html}</div>' if profile_body_html else ""
+            profile_panel = f'<section class="card panel feed-profile">{note_html}{scores_html}{body_html}</section>'
         cat_links: list[str] = []
         for raw in categories:
             cat = str(raw or "").strip().strip("/")
@@ -811,6 +1012,7 @@ def main() -> int:
         content = f"""
         <h1>{_esc(title)}</h1>
         <p class="muted">{_esc(feed_desc)}</p>
+        {profile_panel}
         {cats_html}
         <p><a href="{_esc(feed_link)}" rel="noopener">Official link</a></p>
         <ul class="episodes">
@@ -862,7 +1064,7 @@ def main() -> int:
         <h2>Counting</h2>
       </div>
       <label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>
-      <div class="muted" style="margin-top:8px">Default counts exclude episodes from podcasts the speaker owns (as configured in <code>feeds.json</code>).</div>
+      <div class="muted" style="margin-top:8px">Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config).</div>
     </div>
     <ul class="list">
       {"".join(speaker_list_items) if speaker_list_items else "<li class=\"muted\">No speakers yet.</li>"}

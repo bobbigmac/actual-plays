@@ -41,7 +41,7 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
 
 ## Quick start (local)
 
-1. Edit `site.json` (site title/base path) and `feeds.json` (feed list).
+1. Edit `feeds.json` (feed list + top-level `site` metadata).
 2. Install dev deps (Vite) and optional NLP (better name detection):
 
    * `npm install --no-package-lock` (for `npm run serve` / `npm run dev`)
@@ -61,7 +61,7 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
 
    * `npm run serve` (Vite, auto-reloads on changes)
 
-Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically when you edit `site/assets/`, `site/templates/`, `scripts/`, `site.json`, etc. Use `npm run dev:force` to bypass cooldowns.
+Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically when you edit `site/assets/`, `site/templates/`, `scripts/`, `feeds.json`, etc. Use `npm run dev:force` to bypass cooldowns.
 
 Note: `cache/` is gitignored for local development. The GitHub Action persists it to a separate `cache` branch so conditional fetch headers (etag/last-modified) survive across runs.
 
@@ -191,8 +191,9 @@ This keeps Action runtime predictable and fits within normal GitHub Pages usage.
 
 ## Implementation outline
 
-* `feeds.json`: configured RSS/Atom URLs + basic updater defaults (optionally per-feed `owners`, `common_speakers`, and `categories`)
-* `site.json`: site title/description + `base_path` for GitHub Pages subpaths
+* `feeds.json`: configured RSS/Atom URLs + basic updater defaults (optionally per-feed `owners`, `common_speakers`, `categories`, and `editors_note`)
+* `feed-profiles/*.md`: optional per-feed notes/ratings loaded at build time (keyed by feed slug)
+* `feeds.json` top-level `site`: site title/description + `base_path` for GitHub Pages subpaths (optionally `home_intro_md`)
 * `cache/feeds/*.md`: one markdown cache per feed (retagged representation)
 * `cache/state.json`: last checked + etag/last-modified + cooldown bookkeeping
 * `scripts/update_feeds.py`:

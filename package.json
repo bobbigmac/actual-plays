@@ -10,6 +10,7 @@
   "scripts": {
     "update": "./scripts/py -m scripts.update_feeds",
     "update:sanitize": "./scripts/py -m scripts.update_feeds --sanitize-cache",
+    "format:feeds": "./scripts/py -m scripts.format_feeds_json",
     "build": "./scripts/py -m scripts.build_site",
     "dev": "vite --config vite.config.js",
     "dev:force": "./scripts/py -m scripts.update_feeds --force && ./scripts/py -m scripts.build_site --base-path / && vite --config vite.config.js",

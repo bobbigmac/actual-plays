@@ -15,10 +15,11 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 - `feeds.json` — primary feeds config for this deployment (URLs + optional `owners`/`common_speakers`/`categories`).
 - `feeds.actualplays.json` — OPML-derived feeds config for actual plays / RPG / story / fiction subscriptions.
 - `feeds.other.json` — OPML-derived feeds config for non-TTRPG subscriptions.
+- `feed-profiles/*.md` — optional per-feed profile markdown (editor’s notes + optional ratings), keyed by feed slug.
 - `vite.config.js` — Vite dev server rooted at `dist/` + dev plugin that rebuilds/copies assets and broadcasts build status.
 - `scripts/update_feeds.py` — fetches/updates feed cache and tagging inputs used by the build.
 - `scripts/build_site.py` — renders pages + emits `dist/index.json` search index and `dist/site.json` config.
-- `scripts/split_opml.py` — splits an OPML export into `feeds.*.json` configs (actualplays/other/local).
+- `scripts/format_feeds_json.py` — formats `feeds*.json` with inline `categories` arrays (less line-bloat).
 - `scripts/py` — Python launcher that prefers `.venv/` (needed for spaCy on PEP 668 systems).
 - `site/templates/base.html` — shared SSR template; includes search panel skeleton + loads `assets/app.js`.
 - `site/assets/app.js` — stable loader that resolves base path and imports `assets/app/index.js` as a module.

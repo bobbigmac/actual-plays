@@ -400,6 +400,10 @@ details.menu > summary::-webkit-details-marker {
   margin-top: 14px;
 }
 
+.home-intro {
+  margin-top: 12px;
+}
+
 .home-side {
   display: grid;
   gap: 14px;
@@ -459,6 +463,56 @@ details.menu > summary::-webkit-details-marker {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.feed-note {
+  margin-top: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.feed-profile {
+  margin: 12px 0;
+}
+
+.feed-profile .scores {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+  margin: 8px 0 0 0;
+}
+
+.feed-profile .score {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.feed-profile .score .k {
+  font-weight: 650;
+}
+
+.feed-profile .score .v {
+  font-variant-numeric: tabular-nums;
+}
+
+.feed-profile .md {
+  margin-top: 10px;
+}
+
+.feed-profile .md p {
+  margin: 10px 0;
+}
+
+.feed-profile .md ul {
+  margin: 10px 0 10px 20px;
 }
 
 .nav-loading {

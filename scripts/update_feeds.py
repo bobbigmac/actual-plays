@@ -29,7 +29,7 @@ from scripts.shared import (
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Fetch RSS/Atom feeds and update cache markdown.")
-    p.add_argument("--feeds", default="feeds.json", help="Path to feeds config JSON.")
+    p.add_argument("--feeds", default="feeds.json", help="Path to feeds config JSON (contains 'defaults' + 'feeds').")
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--force", action="store_true", help="Ignore cooldown and refetch all feeds.")
     p.add_argument(
@@ -492,7 +492,7 @@ def main() -> int:
 
     feeds = cfg.get("feeds") or []
     if not feeds:
-        print("[warn] No feeds configured in feeds.json (nothing to update).", file=sys.stderr)
+        print(f"[warn] No feeds configured in {args.feeds} (nothing to update).", file=sys.stderr)
         return 0
 
     if args.only:

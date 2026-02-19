@@ -105,8 +105,8 @@ function copyAsset(file) {
         "site/templates/**",
         "site/pwa/**",
         "scripts/**",
-        "site.json",
-        "feeds.json",
+        "feed-profiles/**",
+        "feeds*.json",
         "cache/**",
       ];
       server.watcher.add(watch);
