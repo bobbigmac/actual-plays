@@ -7,6 +7,11 @@ This project is intentionally lightweight today: a self-updating static podcast 
 - Add proper syncing of subscriptions, queue, play history, and per-episode progress between devices.
 - Likely requires an optional backend (or at least a sync provider) instead of the current import/export flow.
 
+## Community (optional backend)
+
+- Add per-episode comments/discussion (including timestamped comments) with a lightweight auth flow (OAuth and/or magic links).
+- Design note: RSS GUIDs/enclosures can shift; any backend features should use a stable episode identity derived from feed URL + (guid || enclosure URL || title+date) to avoid losing threads.
+
 ## UI/UX
 
 - The UI needs significant polish and iteration.
@@ -32,3 +37,9 @@ This project is intentionally lightweight today: a self-updating static podcast 
 - Consider extracting transcripts via a high-quality speech-to-text library/service (name TBD).
 - This is a later step due to cost and operational complexity.
 
+## Segments / chapters (later)
+
+- Add chapter markers and/or derived segments (ads, intro, main content, outro) to support:
+  - deep links to segments within an episode
+  - better navigation (“skip intro”, “jump to topic”)
+  - smarter auto-skip using either creator-provided chapters or crowd-derived skip heatmaps

@@ -11,7 +11,6 @@
     "update": "./scripts/py -m scripts.update_feeds --feeds feeds.md",
     "update:sanitize": "./scripts/py -m scripts.update_feeds --feeds feeds.md --sanitize-cache",
     "convert:feedsmd": "./scripts/py -m scripts.convert_feeds_config",
-    "format:feeds": "./scripts/py -m scripts.format_feeds_json",
     "build": "./scripts/py -m scripts.build_site --feeds feeds.md",
     "dev": "vite --config vite.config.js",
     "dev:force": "./scripts/py -m scripts.update_feeds --feeds feeds.md --force && ./scripts/py -m scripts.build_site --feeds feeds.md --base-path / && vite --config vite.config.js",

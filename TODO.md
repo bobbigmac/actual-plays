@@ -19,5 +19,4 @@ This repo now has a modular client (`site/assets/app/*`) with a single state mod
 
 ## Optional cleanup
 
-- [ ] Decide what to do with `ChatGPT-Site_for_Actualplay_Hub.md` (keep as historical notes, move under `docs/`, or delete).
-
+- [x] Port remaining useful “hub” ideas to `FUTURE.md`.
