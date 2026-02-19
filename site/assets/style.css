@@ -601,8 +601,15 @@ details.menu > summary::-webkit-details-marker {
   }
 
   .episode {
+    /* Don't apply paint containment to the whole episode row, otherwise
+       overflow menus (⋯) get clipped and become unusable. */
+    content-visibility: visible;
+    contain-intrinsic-size: auto;
+  }
+
+  .episode .meta {
     content-visibility: auto;
-    contain-intrinsic-size: 1px 260px;
+    contain-intrinsic-size: 1px 220px;
   }
 }
 

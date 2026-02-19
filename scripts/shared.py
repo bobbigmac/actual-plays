@@ -319,6 +319,19 @@ def _parse_rss_item(item: ET.Element, *, base_url: str) -> dict[str, Any]:
             enclosure_length = child.attrib.get("length") or enclosure_length
             break
 
+    # Some feeds use Media RSS instead of (or alongside) <enclosure>.
+    # Only use it as a fallback for size when it points at the same media URL.
+    if enclosure_url and not enclosure_length:
+        for child in list(item):
+            if _local_name(child.tag) != "content":
+                continue
+            url = (child.attrib.get("url") or "").strip()
+            if not url or url != enclosure_url:
+                continue
+            enclosure_length = child.attrib.get("fileSize") or child.attrib.get("filesize") or enclosure_length
+            if enclosure_length:
+                break
+
     itunes_duration = None
     for child in list(item):
         if _local_name(child.tag) == "duration":
@@ -388,15 +401,17 @@ def _parse_atom_entry(entry: ET.Element, *, base_url: str) -> dict[str, Any]:
     link = None
     enclosure_url = None
     enclosure_type = None
+    enclosure_length = None
     for child in list(entry):
         if _local_name(child.tag) != "link":
             continue
         rel = (child.attrib.get("rel") or "alternate").lower()
         if rel == "alternate" and not link and child.attrib.get("href"):
             link = child.attrib["href"]
-        if rel == "enclosure" and child.attrib.get("href"):
+        if ("enclosure" in rel) and child.attrib.get("href"):
             enclosure_url = child.attrib.get("href")
             enclosure_type = child.attrib.get("type")
+            enclosure_length = child.attrib.get("length") or enclosure_length
 
     if (not link) and guid and guid.strip().lower().startswith(("http://", "https://")):
         link = guid.strip()
@@ -417,7 +432,7 @@ def _parse_atom_entry(entry: ET.Element, *, base_url: str) -> dict[str, Any]:
         "image_url": image_url.strip() if isinstance(image_url, str) and image_url.strip() else None,
         "enclosure_url": enclosure_url,
         "enclosure_type": enclosure_type,
-        "enclosure_length": None,
+        "enclosure_length": enclosure_length,
         "itunes_duration": None,
     }
 
