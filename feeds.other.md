@@ -23,6 +23,7 @@
 ## adventure-is-nigh
 - url: https://anchor.fm/s/fcdf7d8c/podcast/rss
 - title_override: Adventure is Nigh!
+- owners: Jack Packard; Yahtzee Croshaw; KC Nwosu; Amy Campbell; Jesse Galena
 - categories: games
 
 ## best-smooth-jazz-host-rod-lucas
@@ -33,6 +34,7 @@
 ## beyond-the-pixels
 - url: https://anchor.fm/s/10cd8b17c/podcast/rss
 - title_override: Beyond The Pixels
+- owners: Nick Calandra
 - categories: games
 
 ## class-clown
@@ -53,6 +55,7 @@
 ## firelink
 - url: https://anchor.fm/s/fe089ec8/podcast/rss
 - title_override: Firelink
+- owners: Marty Sliva; Nick Calandra; KC Nwosu
 - categories: games
 
 ## irish-celtic-music-podcast
@@ -205,6 +208,7 @@
 ## the-rewind-podcast
 - url: https://anchor.fm/s/fe089f90/podcast/rss
 - title_override: The Rewind Podcast
+- owners: Darren Mooney; Marty Sliva
 - categories: entertainment
 
 ## the-romesh-ranganathan-show
@@ -228,6 +232,7 @@
 ## windbreaker
 - url: https://anchor.fm/s/fe088118/podcast/rss
 - title_override: Windbreaker
+- owners: Yahtzee Croshaw; Marty Sliva
 - categories: entertainment
 
 ## xbox-casuals-an-xbox-podcast
