@@ -8,7 +8,7 @@ export function applySpeakersUi() {
   var speakersToggle = $("#speakers-include-own");
   if (speakersToggle) {
     speakersToggle.checked = includeOwn;
-    var mode = includeOwn ? "Including own podcasts" : "Excluding own podcasts";
+    var mode = includeOwn ? "All episodes (incl. own podcasts)" : "Guest episodes (excl. own podcasts)";
     var modeEl = $("[data-speakers-mode]");
     if (modeEl) modeEl.textContent = mode;
     var items = $all("[data-speaker-row]");

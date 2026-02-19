@@ -28,6 +28,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## acquisitions-incorporated
 - url: https://www.penny-arcade.com/feed/podcasts-ai
 - title_override: Acquisitions Incorporated
+- owners: Jerry Holkins; Mike Krahulik
 - categories: ttrpg, actual-play
 
 ## advantage-a-5e-dungeons-dragons-podcast
@@ -83,6 +84,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## critical-role
 - url: https://feeds.simplecast.com/LXz4Q9rJ
 - title_override: Critical Role
+- owners: Matthew Mercer; Marisha Ray; Travis Willingham; Laura Bailey; Liam O'Brien; Taliesin Jaffe; Sam Riegel; Ashley Johnson
 - categories: ttrpg, actual-play
 
 ## curse-of-strahd-twice-bitten
@@ -123,11 +125,13 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## dungeons-and-daddies
 - url: https://feeds.acast.com/public/shows/dungeons-and-daddies
 - title_override: Dungeons and Daddies
+- owners: Anthony Burch; Matt Arnold; Freddie Wong; Beth May; Will Campos
 - categories: ttrpg, actual-play, ttrpg/dnd
 
 ## worlds-beyond-number
 - url: https://feeds.simplecast.com/IAPnSSRO
 - title_override: Worlds Beyond Number
+- owners: Brennan Lee Mulligan; Aabria Iyengar; Erika Ishii; Lou Wilson
 - categories: ttrpg, actual-play
 
 ## dndark
@@ -178,6 +182,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## friends-at-the-table
 - url: http://friendsatthetable.libsyn.com/rss
 - title_override: Friends at the Table
+- owners: Austin Walker
 - categories: ttrpg, actual-play
 
 ## girls-guts-glory-the-broad-cast
@@ -263,16 +268,19 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## nerd-poker
 - url: http://brianposehnsnerdpoker.libsyn.com/rss
 - title_override: Nerd Poker
+- owners: Brian Posehn
 - categories: ttrpg, actual-play
 
 ## not-another-d-d-podcast
 - url: https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss
 - title_override: Not Another D&D Podcast
+- owners: Brian Murphy; Emily Axford; Jake Hurwitz; Caldwell Tanner
 - categories: ttrpg, actual-play, ttrpg/dnd
 
 ## one-shot
 - url: https://rss.simplecast.com/podcasts/1559/rss
 - title_override: One Shot
+- owners: James D'Amato
 - categories: ttrpg, actual-play
 
 ## one-shots-a-live-play-mini-series-podcast
@@ -293,6 +301,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 ## oxventure-a-dungeons-dragons-podcast
 - url: https://outsidexbox.libsyn.com/rss
 - title_override: Oxventure: A Dungeons & Dragons Podcast
+- owners: Johnny Chiodini; Andy Farrant; Ellen Rose; Jane Douglas; Luke Westaway; Mike Channell
 - categories: ttrpg, actual-play, ttrpg/dnd
 
 ## podcast-archives-fandible-actual-play-podcast

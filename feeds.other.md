@@ -58,11 +58,13 @@
 ## irish-celtic-music-podcast
 - url: http://bellobard.libsyn.com/rss
 - title_override: Irish & Celtic Music Podcast
+- owners: Marc Gunn
 - categories: music
 
 ## jokes-with-mark-simmons
 - url: https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733
 - title_override: Jokes with Mark Simmons
+- owners: Mark Simmons
 - categories: comedy
 
 ## judge-dredd
@@ -98,6 +100,7 @@
 ## off-menu-with-ed-gamble-and-james-acaster
 - url: https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4
 - title_override: Off Menu with Ed Gamble and James Acaster
+- owners: Ed Gamble; James Acaster; Ben Williams
 - categories: comedy
 
 ## oxventure-a-dungeons-dragons-podcast
@@ -113,11 +116,13 @@
 ## perfect-10-with-carol-vorderman
 - url: https://feeds.acast.com/public/shows/639b0ffa1bdd1400115b3474
 - title_override: Perfect 10 with Carol Vorderman
+- owners: Carol Vorderman
 - categories: entertainment
 
 ## perfect-day-with-jessica-knappett
 - url: https://feeds.megaphone.fm/GLT6933286547
 - title_override: Perfect Day with Jessica Knappett
+- owners: Jessica Knappett
 - categories: comedy
 
 ## politicsjoe-podcast
@@ -133,6 +138,7 @@
 ## rhlstp-with-richard-herring
 - url: https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef
 - title_override: RHLSTP with Richard Herring
+- owners: Richard Herring
 - categories: comedy
 
 ## russell-howard-jon-richardson-devotee
@@ -143,6 +149,7 @@
 ## russell-howards-five-brilliant-things
 - url: https://feeds.megaphone.fm/russell-howards-wonderbox
 - title_override: Russell Howard’s Five Brilliant Things
+- owners: Russell Howard
 - categories: entertainment
 
 ## sherlock-holmes-imagination-theatre
@@ -153,11 +160,13 @@
 ## taskmaster-the-podcast
 - url: https://feeds.captivate.fm/taskmaster-the-podcast/
 - title_override: Taskmaster The Podcast
+- owners: Ed Gamble
 - categories: comedy
 
 ## the-adam-buxton-podcast
 - url: https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645
 - title_override: THE ADAM BUXTON PODCAST
+- owners: Adam Buxton
 - categories: comedy
 
 ## the-apocalypse-players
@@ -168,6 +177,7 @@
 ## the-comedians-comedian-podcast
 - url: https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581
 - title_override: The Comedian's Comedian Podcast
+- owners: Stuart Goldsmith
 - categories: comedy
 
 ## the-conversation-weekly
@@ -178,6 +188,7 @@
 ## the-horne-section-podcast
 - url: https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f
 - title_override: The Horne Section Podcast
+- owners: Alex Horne
 - categories: comedy
 
 ## the-next-big-idea
@@ -193,6 +204,7 @@
 ## the-rest-is-entertainment
 - url: https://feeds-origin.megaphone.fm/GLT2052042801
 - title_override: The Rest Is Entertainment
+- owners: Richard Osman; Marina Hyde
 - categories: politics
 
 ## the-rewind-podcast
@@ -203,16 +215,19 @@
 ## the-romesh-ranganathan-show
 - url: https://feeds.megaphone.fm/romesh
 - title_override: The Romesh Ranganathan Show
+- owners: Romesh Ranganathan
 - categories: entertainment
 
 ## the-weekly-planet
 - url: https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911
 - title_override: The Weekly Planet
+- owners: James Clement; Nick Mason
 - categories: entertainment
 
 ## what-did-you-do-yesterday-with-max-rushden-david-odoherty
 - url: https://feeds.megaphone.fm/GLT5518536193
 - title_override: What Did You Do Yesterday? with Max Rushden & David O'Doherty
+- owners: Max Rushden; David O'Doherty
 - categories: entertainment
 
 ## windbreaker

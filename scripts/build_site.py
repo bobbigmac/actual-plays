@@ -1500,10 +1500,10 @@ def main() -> int:
     # Default: sort by guest appearances (exclude own podcasts).
     speaker_rows.sort(key=lambda r: (-r[2], -r[3], r[1].lower()))
     has_owner_data = any(bool(s) for s in owner_slugs_by_feed.values())
-    toggle_disabled_attr = "disabled" if not has_owner_data else ""
+    show_own_toggle = has_owner_data
     toggle_note = (
-        "No podcast owners are configured for this site, so this toggle has no effect."
-        if not has_owner_data
+        "To enable guest-only counts, set `owners:` on feeds in your config. Until then, all counts are the same."
+        if not show_own_toggle
         else "Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config)."
     )
 
@@ -1511,6 +1511,18 @@ def main() -> int:
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
         sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
         url = _href(base_path, f"{sp_page}/")
+        stats_total_html = ""
+        guest_kind = "Guest" if show_own_toggle else "All"
+        if show_own_toggle:
+            stats_total_html = (
+                f'    <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">'
+                f'      <div class="speaker-stats-kind">Total</div>'
+                f'      <div class="speaker-stats-metrics">'
+                f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-count-total>{total_count}</span><span class="speaker-metric-unit">eps</span></div>'
+                f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-pods-total>{total_pods}</span><span class="speaker-metric-unit">pods</span></div>'
+                f"      </div>"
+                f"    </div>"
+            )
         speaker_list_items.append(
             f'<a class="card speaker-card" href="{_esc(url)}" data-speaker-row '
             f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
@@ -1518,15 +1530,13 @@ def main() -> int:
             f'  <div class="speaker-card-name">{_esc(speaker)}</div>'
             f'  <div class="speaker-card-stats" data-speaker-stats-wrap>'
             f'    <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">'
-            f'      <span class="stat-chip"><span data-speaker-count-guest>{guest_count}</span> eps</span>'
-            f'      <span class="stat-chip"><span data-speaker-pods-guest>{guest_pods}</span> pods</span>'
-            f'      <span class="stat-chip stat-label">Excluding own</span>'
+            f'      <div class="speaker-stats-kind">{guest_kind}</div>'
+            f'      <div class="speaker-stats-metrics">'
+            f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-count-guest>{guest_count}</span><span class="speaker-metric-unit">eps</span></div>'
+            f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-pods-guest>{guest_pods}</span><span class="speaker-metric-unit">pods</span></div>'
+            f"      </div>"
             f"    </div>"
-            f'    <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">'
-            f'      <span class="stat-chip"><span data-speaker-count-total>{total_count}</span> eps</span>'
-            f'      <span class="stat-chip"><span data-speaker-pods-total>{total_pods}</span> pods</span>'
-            f'      <span class="stat-chip stat-label">Including own</span>'
-            f"    </div>"
+            f"{stats_total_html}"
             f"  </div>"
             f"</a>"
         )
@@ -1544,9 +1554,9 @@ def main() -> int:
       <section class="card panel speaker-controls speaker-controls-subtle">
         <div class="panel-head">
           <h2>Appearances</h2>
-          <div class="muted" data-speakers-mode>Excluding own podcasts</div>
+          {('<div class="muted" data-speakers-mode>Guest appearances</div>' if show_own_toggle else '<div class="muted">Appearances</div>')}
         </div>
-        <label class="toggle"><input id="speakers-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
+        {('<label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>' if show_own_toggle else '')}
         <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
       </section>
     </div>
@@ -1724,18 +1734,26 @@ def main() -> int:
             <div class="panel-head">
               <h2>Appearances</h2>
             </div>
-            <label class="toggle"><input id="speaker-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
+            {('<label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>' if show_own_toggle else '')}
             <div class="speaker-counts" style="margin-top:8px">
               <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">
-                <span class="stat-chip"><strong>{guest_count}</strong> eps</span>
-                <span class="stat-chip"><strong>{guest_pods}</strong> pods</span>
-                <span class="stat-chip stat-label">Excluding own</span>
+                <div class="speaker-stats-kind">{'Guest' if show_own_toggle else 'All'}</div>
+                <div class="speaker-stats-metrics">
+                  <div class="speaker-metric"><span class="speaker-metric-num">{guest_count}</span><span class="speaker-metric-unit">eps</span></div>
+                  <div class="speaker-metric"><span class="speaker-metric-num">{guest_pods}</span><span class="speaker-metric-unit">pods</span></div>
+                </div>
               </div>
-              <div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">
-                <span class="stat-chip"><strong>{total_count}</strong> eps</span>
-                <span class="stat-chip"><strong>{total_pods}</strong> pods</span>
-                <span class="stat-chip stat-label">Including own</span>
-              </div>
+              {(
+                f'<div class="speaker-stats-row" data-speaker-stats="total" data-primary="0">'
+                f'  <div class="speaker-stats-kind">Total</div>'
+                f'  <div class="speaker-stats-metrics">'
+                f'    <div class="speaker-metric"><span class="speaker-metric-num">{total_count}</span><span class="speaker-metric-unit">eps</span></div>'
+                f'    <div class="speaker-metric"><span class="speaker-metric-num">{total_pods}</span><span class="speaker-metric-unit">pods</span></div>'
+                f'  </div>'
+                f'</div>'
+                if show_own_toggle
+                else ''
+              )}
             </div>
             <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
           </section>

@@ -46,28 +46,21 @@ def _strip_comment(line: str) -> str:
     return line
 
 
-def _split_list(value: str) -> list[str]:
+def _split_list(value: str, *, seps: str = ",;") -> list[str]:
     """
-    Split a 1-line list. Accepts:
-    - comma-separated
-    - semicolon-separated
-    - mixed (prefers semicolon as "stronger" separator)
+    Split a 1-line list.
+
+    By default, accepts both commas and semicolons as separators so humans/LLMs
+    can use either (or mix them).
     """
     s = str(value or "").strip()
     if not s:
         return []
-    # Prefer semicolons when present (names often contain commas less often than semicolons).
-    if ";" in s:
-        parts = [p.strip() for p in s.split(";")]
-    else:
-        parts = [p.strip() for p in s.split(",")]
-    out: list[str] = []
-    for p in parts:
-        p = p.strip()
-        if not p:
-            continue
-        out.append(p)
-    return out
+    if not seps:
+        return [s]
+    rx = "[" + re.escape(seps) + "]"
+    parts = [p.strip() for p in re.split(rx, s)]
+    return [p for p in parts if p]
 
 
 def _parse_scalar(value: str) -> Any:
@@ -232,7 +225,7 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
             key = "common_speakers"
 
         if key_l in ("owners", "owner", "common_speakers", "categories", "category"):
-            items = _split_list(val_raw)
+            items = _split_list(val_raw, seps=",;")
             if key_l in ("owner",):
                 key = "owners"
             if key_l in ("category",):
@@ -242,7 +235,8 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         if key_l in ("footer_links", "footer_link"):
             # footer_links: Label=https://...; Label2=https://...
-            pairs = _split_list(val_raw)
+            # Use semicolons only (URLs can legally contain commas).
+            pairs = _split_list(val_raw, seps=";")
             links: list[dict[str, str]] = []
             for p in pairs:
                 if "=" not in p:
