@@ -1,0 +1,30 @@
+import { esc } from "../dom.js";
+
+function hueFromSeed(seed) {
+  var s = String(seed || "");
+  var h = 0;
+  for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+  return 160 + (Math.abs(h) % 180);
+}
+
+function initialsFromText(text) {
+  var parts = String(text || "")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2);
+  var out = parts
+    .map(function (p) {
+      return (p[0] || "").toUpperCase();
+    })
+    .join("");
+  return out.slice(0, 2) || "P";
+}
+
+export function artHtml(imageUrl, seedText) {
+  var img = String(imageUrl || "").trim();
+  if (img) return '<img src="' + esc(img) + '" alt="" loading="lazy" />';
+  var hue = hueFromSeed(seedText);
+  return '<div class="cover-fallback" style="--cover-hue: ' + hue + '">' + esc(initialsFromText(seedText)) + "</div>";
+}
+

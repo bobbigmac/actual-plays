@@ -3,10 +3,18 @@ export function initOffline(deps) {
   var lsGet = (deps && deps.lsGet) || function () { return null; };
   var lsSet = (deps && deps.lsSet) || function () {};
   var loadQueue = (deps && deps.loadQueue) || function () { return []; };
+  var emit = (deps && deps.emit) || null;
 
   var CACHE_AUDIO = "ap-audio-v1";
   var OFFLINE_WARN_PCT = 0.8;
   var autoOfflineRunId = 0;
+
+  function emitSafe(evt) {
+    if (!emit) return;
+    try {
+      emit(evt);
+    } catch (_e) {}
+  }
 
   function swRequest(msg) {
     return new Promise(function (resolve) {
@@ -198,6 +206,7 @@ export function initOffline(deps) {
     return Promise.all([estimateStorage(), getAudioCacheCount()]).then(function (arr) {
       var est = arr[0];
       var audioCount = Number(arr[1]) || 0;
+      var nearQuota = Boolean(est && est.quota && (est.pct || 0) >= OFFLINE_WARN_PCT);
       var parts = [];
 
       parts.push("Offline audio: " + audioCount + " / " + s.maxEpisodes);
@@ -220,7 +229,7 @@ export function initOffline(deps) {
             fmtBytes(Math.max(0, est.quota - est.usage)) +
             " free)"
         );
-        if ((est.pct || 0) >= OFFLINE_WARN_PCT) parts.push("near quota (80%)");
+        if (nearQuota) parts.push("near quota (80%)");
       } else if (est) {
         parts.push("Storage: " + fmtBytes(est.usage) + " used");
       } else {
@@ -228,6 +237,19 @@ export function initOffline(deps) {
       }
 
       status.textContent = parts.join(" · ");
+
+      emitSafe({
+        type: "status",
+        status: {
+          settings: s,
+          queueCount: queueCount,
+          swActive: swActive,
+          wifiOk: wifiOk,
+          audioCount: audioCount,
+          storage: est,
+          nearQuota: nearQuota,
+        },
+      });
     });
   }
 
@@ -257,6 +279,7 @@ export function initOffline(deps) {
         "Service worker is not active. Reload once (or install the PWA) and try again."
       );
       if (onLog) onLog("sw_inactive", {});
+      emitSafe({ type: "sw.inactive" });
       if (options.force) return Promise.reject(err);
       return refreshOfflineStatus();
     }
@@ -281,12 +304,15 @@ export function initOffline(deps) {
       var hit = 0;
       var fail = 0;
       var total = Math.max(0, Math.min(q.length, s.maxEpisodes - audioCount));
+      var lastActiveUrl = null;
 
       if (onProgress) onProgress({ stage: "start", done: 0, total: total, stored: 0, hit: 0, fail: 0 });
       if (onLog) onLog("start", { maxEpisodes: s.maxEpisodes, existing: audioCount, queue: q.length, total: total });
+      emitSafe({ type: "job.start", total: total });
       if (!total) {
         if (onProgress) onProgress({ stage: "done", done: 0, total: 0, stored: 0, hit: 0, fail: 0 });
         if (onLog) onLog("nothing_to_do", {});
+        emitSafe({ type: "job.done", done: 0, total: 0 });
         return refreshOfflineStatus();
       }
 
@@ -297,6 +323,14 @@ export function initOffline(deps) {
 
         var it = q[i++];
         if (!it || !it.a) return next();
+
+        if (lastActiveUrl && lastActiveUrl !== it.a) emitSafe({ type: "job", url: lastActiveUrl, job: null });
+        lastActiveUrl = it.a;
+        emitSafe({
+          type: "job",
+          url: it.a,
+          job: { stage: "active", done: stored + hit + fail, total: total, ts: Date.now() },
+        });
 
         return isAudioCached(it.a)
           .then(function (cached) {
@@ -311,14 +345,17 @@ export function initOffline(deps) {
             if (status === "stored") {
               audioCount += 1;
               stored += 1;
+              emitSafe({ type: "cached", url: it.a, cached: true });
             } else if (status === "hit") {
               hit += 1;
+              emitSafe({ type: "cached", url: it.a, cached: true });
             } else if (status === "fail") {
               fail += 1;
             }
             var done = stored + hit + fail;
             if (onProgress) onProgress({ stage: "item", done: done, total: total, status: status, url: it.a, stored: stored, hit: hit, fail: fail });
             if (onLog) onLog("item", { status: status, url: it.a, stored: stored, hit: hit, fail: fail });
+            emitSafe({ type: "job", url: it.a, job: null });
             if (status === "stored" && navigator.storage && navigator.storage.estimate) {
               return estimateStorage().then(function (e2) {
                 if (e2 && e2.quota && (e2.pct || 0) >= OFFLINE_WARN_PCT) return refreshOfflineStatus();
@@ -332,6 +369,7 @@ export function initOffline(deps) {
             var done2 = stored + hit + fail;
             if (onProgress) onProgress({ stage: "item", done: done2, total: total, status: "fail", url: it.a, stored: stored, hit: hit, fail: fail });
             if (onLog) onLog("item_error", { url: it.a });
+            emitSafe({ type: "job", url: it.a, job: null });
             return next();
           });
       }
@@ -339,6 +377,8 @@ export function initOffline(deps) {
       return next().finally(function () {
         if (onProgress) onProgress({ stage: "done", done: stored + hit + fail, total: total, stored: stored, hit: hit, fail: fail });
         if (onLog) onLog("done", { stored: stored, hit: hit, fail: fail, total: total });
+        if (lastActiveUrl) emitSafe({ type: "job", url: lastActiveUrl, job: null });
+        emitSafe({ type: "job.done", done: stored + hit + fail, total: total });
       });
     });
   }

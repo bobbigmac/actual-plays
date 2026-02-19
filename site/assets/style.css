@@ -814,6 +814,15 @@ details.menu > summary::-webkit-details-marker {
   cursor: pointer;
 }
 
+.offline-cached {
+  border-color: rgba(155, 209, 255, 0.45);
+  background: rgba(155, 209, 255, 0.08);
+}
+
+.offline-busy {
+  opacity: 0.75;
+}
+
 @media (max-width: 750px) {
   .home-layout {
     grid-template-columns: 1fr;
