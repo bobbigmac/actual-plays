@@ -107,9 +107,7 @@ function copyAsset(file) {
         "scripts/**",
         "site.json",
         "feeds.json",
-        "feeds.sample.json",
         "cache/**",
-        "samples/**",
       ];
       server.watcher.add(watch);
 
@@ -160,7 +158,7 @@ function copyAsset(file) {
           return;
         }
 
-        const alsoUpdateFeeds = rel === "feeds.json" || rel.startsWith("samples/");
+        const alsoUpdateFeeds = rel === "feeds.json";
         server.ws.send({
           type: "custom",
           event: "ap:status",

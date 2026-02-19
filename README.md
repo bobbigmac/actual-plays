@@ -65,8 +65,6 @@ Tip: `npm run dev` serves `dist/` via Vite and rebuilds/reloads automatically wh
 
 Note: `cache/` is gitignored for local development. The GitHub Action persists it to a separate `cache` branch so conditional fetch headers (etag/last-modified) survive across runs.
 
-Offline/dev tip: use `feeds.sample.json` via `./scripts/py -m scripts.update_feeds --feeds feeds.sample.json` to test without hitting the network.
-
 The generated site is a basic PWA (manifest + service worker) and stores per-episode playback progress + “continue listening” history in the browser.
 
 ## Data storage: “retagged feed” markdown

@@ -470,8 +470,8 @@ def main() -> int:
 
     feeds = cfg.get("feeds") or []
     if not feeds:
-        print("No feeds configured in feeds.json", file=sys.stderr)
-        return 1
+        print("[warn] No feeds configured in feeds.json (nothing to update).", file=sys.stderr)
+        return 0
 
     if args.only:
         feeds = [f for f in feeds if str(f.get("slug") or "") == str(args.only)]

@@ -4,6 +4,7 @@ import argparse
 import html
 import json
 import shutil
+import sys
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -228,6 +229,9 @@ def main() -> int:
         feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers}
         owners_by_feed[slug] = {n.lower() for n in owners}
 
+    if not feed_order:
+        print("[warn] No feeds configured; generating an empty site.", file=sys.stderr)
+
     feeds: list[dict[str, Any]] = []
     for slug in feed_order:
         md_path = feeds_dir / f"{slug}.md"
@@ -287,6 +291,9 @@ def main() -> int:
     # Sort index by date desc.
     all_episodes_index.sort(key=lambda e: e.get("published_at") or "", reverse=True)
 
+    if feed_order and not all_episodes_index:
+        print("[warn] No cached episodes found yet (run update script / wait for Action).", file=sys.stderr)
+
     # Emit search index JSON (lazy-loaded by the client).
     index_json = []
     for e in all_episodes_index:
@@ -340,6 +347,12 @@ def main() -> int:
             </section>
             """.strip()
         )
+
+    podcasts_html = (
+        "".join(feed_cards)
+        if feed_cards
+        else '<div class="muted">No podcasts configured in <code>feeds.json</code>.</div>'
+    )
 
     recent = all_episodes_index[:50]
     recent_items = []
@@ -430,9 +443,7 @@ def main() -> int:
       </aside>
       <section class="home-main">
         <h2>Podcasts</h2>
-        <div class="grid feed-grid">
-          {"".join(feed_cards)}
-        </div>
+        <div class="grid feed-grid">{podcasts_html}</div>
       </section>
     </div>
     """.strip()
