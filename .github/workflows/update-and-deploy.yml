@@ -3,7 +3,7 @@ name: Update feeds and deploy
 on:
   schedule:
     # Every 6 hours (staggered minute to avoid hammering at :00).
-    - cron: "17 */6 * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch: {}
 
 permissions:
