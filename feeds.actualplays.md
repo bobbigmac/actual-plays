@@ -460,7 +460,7 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - categories: entertainment
 
 ## the-otherplace-an-actual-play-rpg-podcast
-- url: https://feed.podbean.com/theotherplace/feed.xml
+- url: https://anchor.fm/s/96e40cdc/podcast/rss
 - title_override: The Otherplace: an Actual Play RPG Podcast
 - categories: ttrpg, actual-play
 

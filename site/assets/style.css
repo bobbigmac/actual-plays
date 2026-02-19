@@ -117,10 +117,11 @@ a:hover {
 
 .player[data-player] {
   position: sticky;
-  top: var(--header-offset, 72px);
+  top: calc(var(--header-offset, 70px) - 1px);
   z-index: 9;
   width: min(900px, calc(100% - 36px));
   margin: 0 auto 0 auto;
+  border-top: 0;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   padding-top: 10px;
@@ -240,6 +241,30 @@ a:hover {
 
 .panel#home-history .episode-row details.menu > summary.btn.btn-sm,
 .panel#home-queue .episode-row details.menu > summary.btn.btn-sm {
+  justify-content: center;
+}
+
+.panel#home-latest .episode-row {
+  grid-template-columns: minmax(0, 1fr) 104px;
+}
+
+.panel#home-latest .episode-row .row-actions {
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 104px;
+}
+
+.panel#home-latest .episode-row .row-actions > * {
+  width: 100%;
+}
+
+.panel#home-latest .episode-row .row-actions .btn-sm {
+  padding: 6px 10px;
+}
+
+.panel#home-latest .episode-row details.menu > summary.btn.btn-sm {
   justify-content: center;
 }
 
@@ -464,6 +489,26 @@ details.menu > summary::-webkit-details-marker {
   margin-top: 14px;
 }
 
+.home-viewbar {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.home-viewbar .btn[data-active="1"] {
+  border-color: rgba(155, 209, 255, 0.6);
+  background: rgba(155, 209, 255, 0.14);
+}
+
+.home-views {
+  margin-top: 14px;
+}
+
+.home-view[hidden] {
+  display: none;
+}
+
 .home-intro {
   margin-top: 12px;
 }
@@ -483,9 +528,14 @@ details.menu > summary::-webkit-details-marker {
 
 .feed-card {
   display: grid;
-  grid-template-columns: 76px 1fr;
+  grid-template-columns: 76px minmax(0, 1fr);
   gap: 12px;
   padding: 12px;
+  align-items: start;
+}
+
+.feed-card:hover {
+  border-color: rgba(155, 209, 255, 0.22);
 }
 
 .feed-cover {
@@ -520,6 +570,31 @@ details.menu > summary::-webkit-details-marker {
 .feed-body h2 {
   margin: 0 0 6px 0;
   font-size: 16px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.feed-body {
+  min-width: 0;
+}
+
+.feed-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: -2px 0 8px 0;
+}
+
+.feed-stat {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  font-size: 12px;
+  line-height: 1.2;
 }
 
 .feed-desc {

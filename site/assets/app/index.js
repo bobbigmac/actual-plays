@@ -15,6 +15,7 @@ import { renderHomePanels } from "./home.js";
 import { initLazyImages } from "./ui/lazy_images.js";
 import { initCopyUi } from "./ui/copy.js";
 import { initShareUi } from "./ui/share.js";
+import { initHomeViews } from "./ui/home_views.js";
 import { loadHistory, saveHistory } from "./state/history.js";
 import { loadQueue, saveQueue } from "./state/queue.js";
 import { readProgress, writeProgressObj } from "./state/progress.js";
@@ -99,6 +100,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
   });
   initCopyUi();
   initShareUi();
+  initHomeViews();
   initMenus();
   initSpaNavigation({
     closeData: closeData,
@@ -108,6 +110,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
     onAfterNavigate: function () {
       refreshUi();
       if (searchApi && searchApi.ensure) searchApi.ensure();
+      initHomeViews();
     },
   });
   initDataPanel({

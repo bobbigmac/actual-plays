@@ -328,6 +328,18 @@ def _fmt_time(seconds: int | None) -> str:
 def _rss_pubdate(iso_value: str | None) -> str | None:
     if not iso_value:
         return None
+
+
+def _fmt_hours(seconds: int | None) -> str:
+    if not seconds:
+        return ""
+    s = max(0, int(seconds))
+    h = s / 3600.0
+    if h < 1:
+        m = int(round(s / 60.0))
+        return f"~{m}m" if m else ""
+    hh = int(round(h))
+    return f"~{hh}h"
     s = str(iso_value).strip()
     if not s:
         return None
@@ -346,6 +358,61 @@ def _fmt_size(bytes_value: int | None) -> str:
     if not bytes_value:
         return "?MB"
     return format_bytes(int(bytes_value))
+
+
+def _fmt_avg_duration(seconds: int | None) -> str:
+    if not seconds:
+        return ""
+    s = max(0, int(seconds))
+    if s < 3600:
+        m = int(round(s / 60.0))
+        return f"~{m}m" if m else ""
+    h = s // 3600
+    m = (s % 3600) // 60
+    if m:
+        return f"~{h}h{m:02d}"
+    return f"~{h}h"
+
+
+def _feed_card_stats(feed: dict[str, Any]) -> dict[str, Any]:
+    eps = feed.get("episodes") or []
+    ep_count = len(eps) if isinstance(eps, list) else 0
+    dur_total = 0
+    dur_count = 0
+    min_year = None
+    max_year = None
+    speaker_slugs: set[str] = set()
+    if isinstance(eps, list):
+        for ep in eps:
+            if not isinstance(ep, dict):
+                continue
+            dt = str(ep.get("published_at") or "")
+            if len(dt) >= 4 and dt[:4].isdigit():
+                y = int(dt[:4])
+                min_year = y if min_year is None else min(min_year, y)
+                max_year = y if max_year is None else max(max_year, y)
+            ds = _duration_seconds(ep.get("itunes_duration"))
+            if ds:
+                dur_total += int(ds)
+                dur_count += 1
+            for sp in ep.get("speakers") or []:
+                s = slugify(str(sp))
+                if s:
+                    speaker_slugs.add(s)
+
+    avg_seconds = int(round(dur_total / dur_count)) if dur_total and dur_count else None
+    years_text = ""
+    if min_year and max_year:
+        years_text = f"{min_year}–{max_year}" if min_year != max_year else str(min_year)
+
+    avg_seconds = avg_seconds if (avg_seconds and dur_count >= 3) else None
+    return {
+        "ep_count": ep_count,
+        "speaker_count": len(speaker_slugs),
+        "avg_seconds": avg_seconds,
+        "avg_text": _fmt_avg_duration(avg_seconds) if avg_seconds else "",
+        "years_text": years_text,
+    }
 
 
 def _expand_category(cat: str) -> list[str]:
@@ -747,6 +814,23 @@ def main() -> int:
         desc = _esc(str(feed.get("description") or ""))
         note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
         warn_html = _feed_fetch_warning_html(feed, compact=True)
+        stats = _feed_card_stats(feed)
+        meta_bits: list[str] = []
+        if stats["ep_count"]:
+            meta_bits.append(f'{stats["ep_count"]} eps')
+        if stats["speaker_count"]:
+            meta_bits.append(f'{stats["speaker_count"]} speakers')
+        if stats["avg_text"]:
+            meta_bits.append(f'avg {stats["avg_text"]}')
+        if stats["years_text"]:
+            meta_bits.append(stats["years_text"])
+        feed_meta_html = (
+            '<div class="feed-stats">'
+            + "".join([f'<span class="feed-stat">{_esc(b)}</span>' for b in meta_bits])
+            + "</div>"
+            if meta_bits
+            else ""
+        )
         image_url = str(feed.get("image_url") or "").strip()
         hue = _hue_from_slug(slug)
         initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
@@ -756,18 +840,23 @@ def main() -> int:
         )
         note_html = f'<div class="muted feed-note">{note}</div>' if note else ""
         cover = (
-            f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+            f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(image_url)}" data-fallback-text="{title}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
             if image_url
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
         feed_cards.append(
             f"""
-            <section class="card feed-card" data-feed-slug="{_esc(slug)}">
+            <section class="card feed-card" data-feed-slug="{_esc(slug)}"
+              data-episode-count="{_esc(str(stats['ep_count'] or ''))}"
+              data-speaker-count="{_esc(str(stats['speaker_count'] or ''))}"
+              data-avg-seconds="{_esc(str(stats['avg_seconds'] or ''))}"
+              data-years="{_esc(str(stats['years_text'] or ''))}">
               <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
                 {cover}
               </a>
 	              <div class="feed-body">
 	                <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                    {feed_meta_html}
 	                <div class="muted feed-desc">{desc}</div>
 	                {note_html}
                     {warn_html}
@@ -800,7 +889,7 @@ def main() -> int:
         hue = _hue_from_slug(str(feed_slug))
         initials = "".join([p[0].upper() for p in str(e.get("feed_title") or feed_slug).split()[:2] if p])[:2] or "P"
         art = (
-            f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+            f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" data-fallback-text="{feed_title}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
             if img_url
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
@@ -855,26 +944,26 @@ def main() -> int:
     home_intro_html = _render_min_md(home_intro_md) if home_intro_md else ""
     home_intro_block = f'<section class="card panel home-intro"><div class="md">{home_intro_html}</div></section>' if home_intro_html else ""
 
+    views_bar = """
+    <div class="card panel home-viewbar" data-home-viewbar>
+      <button class="btn btn-sm" type="button" data-home-view-btn="browse">Browse</button>
+      <button class="btn btn-sm" type="button" data-home-view-btn="latest">Latest</button>
+      <button class="btn btn-sm" type="button" data-home-view-btn="history">History</button>
+      <button class="btn btn-sm" type="button" data-home-view-btn="queue">Queue</button>
+    </div>
+    """.strip()
+
     content = f"""
     <h1>{_esc(site_cfg.get("title") or "Podcast Index")}</h1>
     <p class="muted">{_esc(site_cfg.get("description") or "")}</p>
     {home_intro_block}
-    <div class="home-layout">
-      <aside class="home-side">
-        <section class="card panel" id="home-history">
-          <div class="panel-head">
-            <h2>History</h2>
-          </div>
-          <div class="muted" data-empty>Nothing yet.</div>
-          <ul class="list" data-history-list></ul>
-        </section>
-        <section class="card panel" id="home-queue">
-          <div class="panel-head">
-            <h2>Queue</h2>
-          </div>
-          <div class="muted" data-empty>Queue is empty.</div>
-          <ul class="list" data-queue-list></ul>
-        </section>
+    {views_bar}
+    <div class="home-views">
+      <section class="home-view" data-home-view="browse">
+        <h2>Podcasts</h2>
+        <div class="grid feed-grid">{podcasts_html}</div>
+      </section>
+      <section class="home-view" data-home-view="latest" hidden>
         <section class="card panel" id="home-latest">
           <div class="panel-head">
             <h2>Latest</h2>
@@ -883,10 +972,24 @@ def main() -> int:
             {"".join(recent_items) if recent_items else "<li class=\"muted\">No episodes yet.</li>"}
           </ul>
         </section>
-      </aside>
-      <section class="home-main">
-        <h2>Podcasts</h2>
-        <div class="grid feed-grid">{podcasts_html}</div>
+      </section>
+      <section class="home-view" data-home-view="history" hidden>
+        <section class="card panel" id="home-history">
+          <div class="panel-head">
+            <h2>History</h2>
+          </div>
+          <div class="muted" data-empty>Nothing yet.</div>
+          <ul class="list" data-history-list></ul>
+        </section>
+      </section>
+      <section class="home-view" data-home-view="queue" hidden>
+        <section class="card panel" id="home-queue">
+          <div class="panel-head">
+            <h2>Queue</h2>
+          </div>
+          <div class="muted" data-empty>Queue is empty.</div>
+          <ul class="list" data-queue-list></ul>
+        </section>
       </section>
     </div>
     """.strip()
@@ -934,23 +1037,45 @@ def main() -> int:
             desc = _esc(str(feed.get("description") or ""))
             note = _esc(_snippet(str(feed.get("editors_note") or ""), limit=140))
             warn_html = _feed_fetch_warning_html(feed, compact=True)
+            stats = _feed_card_stats(feed)
+            meta_bits: list[str] = []
+            if stats["ep_count"]:
+                meta_bits.append(f'{stats["ep_count"]} eps')
+            if stats["speaker_count"]:
+                meta_bits.append(f'{stats["speaker_count"]} speakers')
+            if stats["avg_text"]:
+                meta_bits.append(f'avg {stats["avg_text"]}')
+            if stats["years_text"]:
+                meta_bits.append(stats["years_text"])
+            feed_meta_html = (
+                '<div class="feed-stats">'
+                + "".join([f'<span class="feed-stat">{_esc(b)}</span>' for b in meta_bits])
+                + "</div>"
+                if meta_bits
+                else ""
+            )
             image_url = str(feed.get("image_url") or "").strip()
             hue = _hue_from_slug(slug)
             initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
             cover = (
-                f'<img src="{_esc(image_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+                f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(image_url)}" data-fallback-text="{title}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
                 if image_url
                 else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
             )
             note_html = f'<div class="muted feed-note">{note}</div>' if note else ""
             cards.append(
                 f"""
-                <section class="card feed-card" data-feed-slug="{_esc(slug)}">
+                <section class="card feed-card" data-feed-slug="{_esc(slug)}"
+                  data-episode-count="{_esc(str(stats['ep_count'] or ''))}"
+                  data-speaker-count="{_esc(str(stats['speaker_count'] or ''))}"
+                  data-avg-seconds="{_esc(str(stats['avg_seconds'] or ''))}"
+                  data-years="{_esc(str(stats['years_text'] or ''))}">
                   <a class="feed-cover" href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">
                     {cover}
                   </a>
                   <div class="feed-body">
                     <h2><a href="{_esc(_href(base_path, f"podcasts/{slug}/"))}">{title}</a></h2>
+                    {feed_meta_html}
                     <div class="muted feed-desc">{desc}</div>
                     {note_html}
                     {warn_html}
@@ -995,7 +1120,7 @@ def main() -> int:
             hue = _hue_from_slug(str(slug))
             initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
             art = (
-                f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+                f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" data-fallback-text="{_esc(str(feed.get("title") or slug))}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
                 if img_url
                 else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
             )
@@ -1169,23 +1294,33 @@ def main() -> int:
         eps = list(eps_by_id.values())
         total = len(eps)
         guest = 0
+        pods_total: set[str] = set()
+        pods_guest: set[str] = set()
         for e in eps:
             feed_slug = str(e.get("feed_slug") or "")
+            if feed_slug:
+                pods_total.add(feed_slug)
             owners = owner_slugs_by_feed.get(feed_slug) or set()
             if sp_slug in owners:
                 continue
             guest += 1
-        speaker_rows.append((sp_slug, speaker, guest, total))
+            if feed_slug:
+                pods_guest.add(feed_slug)
+        speaker_rows.append((sp_slug, speaker, guest, total, len(pods_guest), len(pods_total)))
     # Default: sort by guest appearances (exclude own podcasts).
     speaker_rows.sort(key=lambda r: (-r[2], -r[3], r[1].lower()))
 
     speaker_list_items = []
-    for sp_slug, speaker, guest_count, total_count in speaker_rows[:500]:
+    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
         url = _href(base_path, f"speakers/{sp_slug}/")
         speaker_list_items.append(
-            f'<li data-speaker-row data-count-guest="{guest_count}" data-count-total="{total_count}" data-name="{_esc(speaker)}">'
+            f'<li data-speaker-row data-count-guest="{guest_count}" data-count-total="{total_count}" '
+            f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
             f'<a href="{_esc(url)}">{_esc(speaker)}</a> '
-            f'<span class="muted">(<span data-speaker-count>{guest_count}</span>)</span>'
+            f'<span class="muted">('
+            f'<span data-speaker-count>{guest_count}</span> eps · '
+            f'<span data-speaker-pods>{guest_pods}</span> pods'
+            f')</span>'
             f"</li>"
         )
 
@@ -1213,7 +1348,7 @@ def main() -> int:
         content_html=content,
     )
 
-    for sp_slug, speaker, guest_count, total_count in speaker_rows[:500]:
+    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
         eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
         guest_eps = []
         for e in eps:
@@ -1252,7 +1387,7 @@ def main() -> int:
                 hue = _hue_from_slug(str(feed_slug))
                 initials = "".join([p[0].upper() for p in str(feed_title_raw or feed_slug).split()[:2] if p])[:2] or "P"
                 art = (
-                    f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
+                    f'<img src="{PLACEHOLDER_IMG}" data-src="{_esc(img_url)}" data-fallback-text="{_esc(str(e.get("feed_title") or feed_slug))}" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
                     if img_url
                     else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
                 )
@@ -1336,7 +1471,10 @@ def main() -> int:
             <h2>Counting</h2>
           </div>
           <label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>
-          <div class="muted" style="margin-top:8px">Guest appearances: <strong>{guest_count}</strong> · Total: <strong>{total_count}</strong></div>
+          <div class="muted" style="margin-top:8px">
+            Guest: <strong>{guest_count}</strong> eps / <strong>{guest_pods}</strong> pods ·
+            Total: <strong>{total_count}</strong> eps / <strong>{total_pods}</strong> pods
+          </div>
           {rss_link_html}
         </div>
         <p class="muted">Grouped by podcast (most appearances first).</p>

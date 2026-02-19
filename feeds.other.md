@@ -14,11 +14,6 @@
 
 # Feeds
 
-## a-scanner-darkly
-- url: https://archive.org/download/awnbgb-0-d-9-hptg-8-n/XB00CTFLDH8
-- title_override: A Scanner Darkly
-- categories: fiction
-
 ## a-woodturners-journey
 - url: https://feeds.acast.com/public/shows/65a70f72224eec0017895999
 - title_override: A Woodturners Journey
@@ -219,21 +214,6 @@
 - title_override: The Weekly Planet
 - categories: entertainment
 
-## tim-keys-late-night-poetry-programme
-- url: https://www.dimsdale.co.uk/rss/tklmpp
-- title_override: Tim Key's Late Night Poetry Programme
-- categories: entertainment
-
-## voyage
-- url: https://www.dimsdale.co.uk/rss/voya
-- title_override: Voyage
-- categories: entertainment
-
-## welcome-to-our-village-please-invade-carefully
-- url: https://archive.org/download/wtovpic/wtovpic
-- title_override: Welcome to Our Village, Please Invade Carefully
-- categories: fiction
-
 ## what-did-you-do-yesterday-with-max-rushden-david-odoherty
 - url: https://feeds.megaphone.fm/GLT5518536193
 - title_override: What Did You Do Yesterday? with Max Rushden & David O'Doherty
@@ -253,11 +233,6 @@
 - url: https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false
 - title_override: Xbox In Ten: An Xbox Podcast
 - categories: entertainment
-
-## xeelee-an-omnibus
-- url: https://archive.org/download/rss_hestbrure/zeelee
-- title_override: Xeelee - An Omnibus
-- categories: fiction
 
 ## youre-dead-to-me
 - url: https://archive.org/download/rss_yodetome/yodetome

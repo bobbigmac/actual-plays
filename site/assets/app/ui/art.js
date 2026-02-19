@@ -32,8 +32,18 @@ export function artHtml(imageUrl, seedText) {
       PLACEHOLDER_SRC +
       '" data-src="' +
       esc(img) +
+      '" data-fallback-text="' +
+      esc(String(seedText || "")) +
       '" alt="" loading="lazy" decoding="async" fetchpriority="low" />'
     );
   var hue = hueFromSeed(seedText);
   return '<div class="cover-fallback" style="--cover-hue: ' + hue + '">' + esc(initialsFromText(seedText)) + "</div>";
+}
+
+export function makeCoverFallbackEl(seedText) {
+  var el = document.createElement("div");
+  el.className = "cover-fallback";
+  el.style.setProperty("--cover-hue", String(hueFromSeed(seedText)));
+  el.textContent = initialsFromText(seedText);
+  return el;
 }

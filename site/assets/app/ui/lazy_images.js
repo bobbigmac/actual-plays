@@ -1,5 +1,32 @@
+import { makeCoverFallbackEl } from "./art.js";
+
 export function initLazyImages() {
   if (window.__AP_LAZY_IMAGES__) return window.__AP_LAZY_IMAGES__;
+
+  function failToFallback(img) {
+    if (!img || img.getAttribute("data-failed") === "1") return;
+    img.setAttribute("data-failed", "1");
+    var seed = img.getAttribute("data-fallback-text") || img.getAttribute("alt") || "";
+    var fallback = null;
+    try {
+      fallback = makeCoverFallbackEl(seed);
+    } catch (_e) {
+      return;
+    }
+    var parent = img.parentNode;
+    if (!parent || !parent.replaceChild) return;
+    try {
+      parent.replaceChild(fallback, img);
+    } catch (_e) {}
+  }
+
+  function bindImg(img) {
+    if (!img || img.getAttribute("data-lazy-bound") === "1") return;
+    img.setAttribute("data-lazy-bound", "1");
+    try {
+      img.addEventListener("error", function () { failToFallback(img); }, { once: true });
+    } catch (_e) {}
+  }
 
   function loadImg(img) {
     if (!img) return;
@@ -38,7 +65,7 @@ export function initLazyImages() {
     for (var i = 0; i < imgs.length; i++) {
       var img = imgs[i];
       if (!img || img.getAttribute("data-lazy-bound") === "1") continue;
-      img.setAttribute("data-lazy-bound", "1");
+      bindImg(img);
       if (io) {
         io.observe(img);
       } else {
@@ -60,4 +87,3 @@ export function initLazyImages() {
   window.__AP_LAZY_IMAGES__ = api;
   return api;
 }
-

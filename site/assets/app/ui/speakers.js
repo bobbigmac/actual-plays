@@ -11,9 +11,14 @@ export function applySpeakersUi() {
     items.forEach(function (li) {
       var guest = Number(li.getAttribute("data-count-guest") || 0) || 0;
       var total = Number(li.getAttribute("data-count-total") || 0) || 0;
+      var guestPods = Number(li.getAttribute("data-pods-guest") || 0) || 0;
+      var totalPods = Number(li.getAttribute("data-pods-total") || 0) || 0;
       var count = includeOwn ? total : guest;
+      var pods = includeOwn ? totalPods : guestPods;
       var out = li.querySelector("[data-speaker-count]");
       if (out) out.textContent = String(count);
+      var outPods = li.querySelector("[data-speaker-pods]");
+      if (outPods) outPods.textContent = String(pods);
     });
 
     var ul = items.length ? items[0].parentElement : null;
@@ -57,4 +62,3 @@ export function initSpeakersUi() {
     }
   });
 }
-

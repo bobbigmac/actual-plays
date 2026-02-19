@@ -1,14 +1,27 @@
 import { $ } from "../dom.js";
 
 export function initHeaderOffset() {
-  function setVar() {
-    var header = $(".site-header");
-    if (!header) return;
-    var h = header.getBoundingClientRect().height || 0;
-    // Extra breathing room so the player doesn't kiss the header border.
-    document.documentElement.style.setProperty("--header-offset", Math.ceil(h + 10) + "px");
-  }
-  setVar();
-  window.addEventListener("resize", setVar);
-}
+  var header = $(".site-header");
+  if (!header) return;
 
+  function setVar() {
+    var h = header.getBoundingClientRect().height || 0;
+    document.documentElement.style.setProperty("--header-offset", h.toFixed(2) + "px");
+  }
+
+  setVar();
+  requestAnimationFrame(setVar);
+
+  // Some browsers adjust metrics slightly once fonts finish loading.
+  if (document.fonts && document.fonts.ready && typeof document.fonts.ready.then === "function") {
+    document.fonts.ready.then(setVar).catch(function () {});
+  }
+
+  window.addEventListener("resize", setVar);
+
+  if ("ResizeObserver" in window) {
+    try {
+      new ResizeObserver(setVar).observe(header);
+    } catch (_e) {}
+  }
+}
