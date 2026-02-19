@@ -7,18 +7,28 @@ export function applySpeakersUi() {
   var speakersToggle = $("#speakers-include-own");
   if (speakersToggle) {
     speakersToggle.checked = includeOwn;
+    var mode = includeOwn ? "Including own podcasts" : "Guest only";
+    var modeEl = $("[data-speakers-mode]");
+    if (modeEl) modeEl.textContent = mode;
     var items = $all("[data-speaker-row]");
     items.forEach(function (li) {
-      var guest = Number(li.getAttribute("data-count-guest") || 0) || 0;
-      var total = Number(li.getAttribute("data-count-total") || 0) || 0;
-      var guestPods = Number(li.getAttribute("data-pods-guest") || 0) || 0;
-      var totalPods = Number(li.getAttribute("data-pods-total") || 0) || 0;
-      var count = includeOwn ? total : guest;
-      var pods = includeOwn ? totalPods : guestPods;
-      var out = li.querySelector("[data-speaker-count]");
-      if (out) out.textContent = String(count);
-      var outPods = li.querySelector("[data-speaker-pods]");
-      if (outPods) outPods.textContent = String(pods);
+      // Swap which stat row is visually primary to make the toggle obvious.
+      var wrap = li.querySelector ? li.querySelector("[data-speaker-stats-wrap]") : null;
+      if (!wrap || !wrap.querySelector) return;
+      var guestRow = wrap.querySelector('[data-speaker-stats="guest"]');
+      var totalRow = wrap.querySelector('[data-speaker-stats="total"]');
+      if (!guestRow || !totalRow) return;
+      try {
+        if (includeOwn) {
+          wrap.insertBefore(totalRow, guestRow);
+          totalRow.setAttribute("data-primary", "1");
+          guestRow.setAttribute("data-primary", "0");
+        } else {
+          wrap.insertBefore(guestRow, totalRow);
+          guestRow.setAttribute("data-primary", "1");
+          totalRow.setAttribute("data-primary", "0");
+        }
+      } catch (_e) {}
     });
 
     var ul = items.length ? items[0].parentElement : null;
@@ -48,6 +58,25 @@ export function applySpeakersUi() {
       if (includeOwn) d.removeAttribute("hidden");
       else d.setAttribute("hidden", "");
     });
+
+    var countsWrap = $(".speaker-counts");
+    if (countsWrap) {
+      var g = countsWrap.querySelector('[data-speaker-stats="guest"]');
+      var t = countsWrap.querySelector('[data-speaker-stats="total"]');
+      if (g && t) {
+        try {
+          if (includeOwn) {
+            countsWrap.insertBefore(t, g);
+            t.setAttribute("data-primary", "1");
+            g.setAttribute("data-primary", "0");
+          } else {
+            countsWrap.insertBefore(g, t);
+            g.setAttribute("data-primary", "1");
+            t.setAttribute("data-primary", "0");
+          }
+        } catch (_e) {}
+      }
+    }
   }
 }
 

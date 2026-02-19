@@ -1,8 +1,8 @@
 # Site
 - id: other
-- title: Other Subscriptions
+- title: Bob's Podcasts
 - subtitle: A self-updating, static podcast browser
-- description: Built from RSS/Atom feeds. Episodes stream directly from the original hosts.
+- description: A personal podcast index.
 - base_path: /
 - footer_links: GitHub=https://github.com/
 
@@ -104,6 +104,11 @@
 - title_override: Off Menu with Ed Gamble and James Acaster
 - categories: comedy
 
+## oxventure-a-dungeons-dragons-podcast
+- url: https://outsidexbox.libsyn.com/rss
+- title_override: Oxventure: A Dungeons & Dragons Podcast
+- categories: ttrpg, actual-play, ttrpg/dnd
+
 ## page-94-the-private-eye-podcast
 - url: https://audioboom.com/channels/5112392.rss
 - title_override: Page 94: The Private Eye Podcast
@@ -133,11 +138,6 @@
 - url: https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef
 - title_override: RHLSTP with Richard Herring
 - categories: comedy
-
-## rotating-heroes
-- url: https://feeds.captivate.fm/rotating-heroes/
-- title_override: Rotating Heroes
-- categories: games
 
 ## russell-howard-jon-richardson-devotee
 - url: https://anchor.fm/s/10d6f1db0/podcast/rss

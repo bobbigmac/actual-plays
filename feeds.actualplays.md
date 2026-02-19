@@ -329,6 +329,11 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: ROLL THE HARD 20 PODCAST
 - categories: ttrpg, actual-play
 
+## rotating-heroes
+- url: https://feeds.captivate.fm/rotating-heroes/
+- title_override: Rotating Heroes
+- categories: games
+
 ## session-zero
 - url: https://feeds.megaphone.fm/OSPN6944597944
 - title_override: Session Zero

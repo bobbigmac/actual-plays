@@ -14,6 +14,16 @@ export function isHomePage() {
   return p === base.pathname || p === base.pathname + "index.html";
 }
 
+function updateHomeViewBadges(counts) {
+  var c = counts || {};
+  ["browse", "latest", "history", "queue"].forEach(function (k) {
+    var el = document.querySelector('[data-home-view-badge="' + k + '"]');
+    if (!el) return;
+    var v = Number(c[k]) || 0;
+    el.textContent = String(v);
+  });
+}
+
 export function renderHomePanels() {
   if (!isHomePage()) return;
   var historyList = $("[data-history-list]");
@@ -212,5 +222,13 @@ export function renderHomePanels() {
   });
   items.forEach(function (el) {
     latestList.appendChild(el);
+  });
+
+  var browseCount = document.querySelectorAll('[data-home-view="browse"] .feed-card').length;
+  updateHomeViewBadges({
+    browse: browseCount,
+    latest: items.length,
+    history: visible.length,
+    queue: q.length,
   });
 }

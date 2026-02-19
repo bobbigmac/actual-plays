@@ -95,6 +95,14 @@ a:hover {
   gap: 14px;
 }
 
+.feed-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.feed-grid > * {
+  min-width: 0;
+}
+
 .card {
   background: var(--card);
   border: 1px solid var(--border);
@@ -494,11 +502,29 @@ details.menu > summary::-webkit-details-marker {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  padding: 8px;
+}
+
+.home-viewbar .btn {
+  font-weight: 650;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .home-viewbar .btn[data-active="1"] {
   border-color: rgba(155, 209, 255, 0.6);
   background: rgba(155, 209, 255, 0.14);
+}
+
+.view-badge {
+  font-size: 12px;
+  line-height: 1;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.03);
 }
 
 .home-views {
@@ -1038,6 +1064,63 @@ details.menu > summary::-webkit-details-marker {
   gap: 12px;
 }
 
+.speaker-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.speaker-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: 12px;
+}
+
+.speaker-card:hover {
+  border-color: rgba(155, 209, 255, 0.22);
+}
+
+.speaker-card-name {
+  font-weight: 750;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.speaker-card-stats {
+  margin-top: 10px;
+  display: grid;
+  gap: 8px;
+}
+
+.speaker-stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+.stat-chip {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  font-size: 12px;
+  line-height: 1.2;
+  color: var(--muted);
+}
+
+.speaker-stats-row[data-primary="1"] .stat-chip {
+  color: var(--text);
+  border-color: rgba(155, 209, 255, 0.22);
+  background: rgba(155, 209, 255, 0.06);
+}
+
+.stat-label {
+  opacity: 0.9;
+}
+
 .speaker-group > summary {
   cursor: pointer;
   display: flex;
@@ -1088,6 +1171,14 @@ details.menu > summary::-webkit-details-marker {
 }
 
 @media (max-width: 750px) {
+  .feed-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .speaker-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .home-layout {
     grid-template-columns: 1fr;
   }
@@ -1116,5 +1207,15 @@ details.menu > summary::-webkit-details-marker {
 
   .ep-actions {
     grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .feed-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .speaker-grid {
+    grid-template-columns: 1fr;
   }
 }

@@ -946,16 +946,23 @@ def main() -> int:
 
     views_bar = """
     <div class="card panel home-viewbar" data-home-viewbar>
-      <button class="btn btn-sm" type="button" data-home-view-btn="browse">Browse</button>
-      <button class="btn btn-sm" type="button" data-home-view-btn="latest">Latest</button>
-      <button class="btn btn-sm" type="button" data-home-view-btn="history">History</button>
-      <button class="btn btn-sm" type="button" data-home-view-btn="queue">Queue</button>
+      <button class="btn" type="button" data-home-view-btn="browse">
+        Browse <span class="view-badge" data-home-view-badge="browse">0</span>
+      </button>
+      <button class="btn" type="button" data-home-view-btn="latest">
+        Latest <span class="view-badge" data-home-view-badge="latest">0</span>
+      </button>
+      <button class="btn" type="button" data-home-view-btn="history">
+        History <span class="view-badge" data-home-view-badge="history">0</span>
+      </button>
+      <button class="btn" type="button" data-home-view-btn="queue">
+        Queue <span class="view-badge" data-home-view-badge="queue">0</span>
+      </button>
     </div>
     """.strip()
 
     content = f"""
     <h1>{_esc(site_cfg.get("title") or "Podcast Index")}</h1>
-    <p class="muted">{_esc(site_cfg.get("description") or "")}</p>
     {home_intro_block}
     {views_bar}
     <div class="home-views">
@@ -1339,29 +1346,39 @@ def main() -> int:
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
         url = _href(base_path, f"speakers/{sp_slug}/")
         speaker_list_items.append(
-            f'<li data-speaker-row data-count-guest="{guest_count}" data-count-total="{total_count}" '
+            f'<a class="card speaker-card" href="{_esc(url)}" data-speaker-row '
+            f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
             f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
-            f'<a href="{_esc(url)}">{_esc(speaker)}</a> '
-            f'<span class="muted">('
-            f'<span data-speaker-count>{guest_count}</span> eps · '
-            f'<span data-speaker-pods>{guest_pods}</span> pods'
-            f')</span>'
-            f"</li>"
+            f'  <div class="speaker-card-name">{_esc(speaker)}</div>'
+            f'  <div class="speaker-card-stats" data-speaker-stats-wrap>'
+            f'    <div class="speaker-stats-row" data-speaker-stats="guest">'
+            f'      <span class="stat-chip"><span data-speaker-count-guest>{guest_count}</span> eps</span>'
+            f'      <span class="stat-chip"><span data-speaker-pods-guest>{guest_pods}</span> pods</span>'
+            f'      <span class="stat-chip stat-label">Guest</span>'
+            f"    </div>"
+            f'    <div class="speaker-stats-row" data-speaker-stats="total">'
+            f'      <span class="stat-chip"><span data-speaker-count-total>{total_count}</span> eps</span>'
+            f'      <span class="stat-chip"><span data-speaker-pods-total>{total_pods}</span> pods</span>'
+            f'      <span class="stat-chip stat-label">Total</span>'
+            f"    </div>"
+            f"  </div>"
+            f"</a>"
         )
 
     content = f"""
     <h1>Speakers</h1>
     <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise.</p>
-    <div class="card panel" style="margin:12px 0">
+    <div class="card panel speaker-controls">
       <div class="panel-head">
-        <h2>Counting</h2>
+        <h2>Appearances</h2>
+        <div class="muted" data-speakers-mode>Guest only</div>
       </div>
       <label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>
       <div class="muted" style="margin-top:8px">Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config).</div>
     </div>
-    <ul class="list">
-      {"".join(speaker_list_items) if speaker_list_items else "<li class=\"muted\">No speakers yet.</li>"}
-    </ul>
+    <div class="grid speaker-grid" data-speaker-grid>
+      {"".join(speaker_list_items) if speaker_list_items else "<div class=\"muted\">No speakers yet.</div>"}
+    </div>
     """.strip()
     _write_page(
         base_template=base_template,
@@ -1491,14 +1508,22 @@ def main() -> int:
 
         content = f"""
         <h1>{_esc(speaker)}</h1>
-        <div class="card panel" style="margin:12px 0">
+        <div class="card panel speaker-controls">
           <div class="panel-head">
-            <h2>Counting</h2>
+            <h2>Appearances</h2>
           </div>
           <label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>
-          <div class="muted" style="margin-top:8px">
-            Guest: <strong>{guest_count}</strong> eps / <strong>{guest_pods}</strong> pods ·
-            Total: <strong>{total_count}</strong> eps / <strong>{total_pods}</strong> pods
+          <div class="speaker-counts" style="margin-top:8px">
+            <div class="speaker-stats-row" data-speaker-stats="guest">
+              <span class="stat-chip"><strong>{guest_count}</strong> eps</span>
+              <span class="stat-chip"><strong>{guest_pods}</strong> pods</span>
+              <span class="stat-chip stat-label">Guest</span>
+            </div>
+            <div class="speaker-stats-row" data-speaker-stats="total">
+              <span class="stat-chip"><strong>{total_count}</strong> eps</span>
+              <span class="stat-chip"><strong>{total_pods}</strong> pods</span>
+              <span class="stat-chip stat-label">Total</span>
+            </div>
           </div>
           {rss_link_html}
         </div>
