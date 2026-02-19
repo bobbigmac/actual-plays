@@ -49,7 +49,7 @@ The UI behaves like it has per-episode pages, but we don’t generate them. We r
      * `python3 -m venv .venv`
      * `. .venv/bin/activate`
      * `python -m pip install -r requirements.txt`
-     * `python -m spacy download en_core_web_sm`
+     * `python -m spacy download en_core_web_sm feedparser`
 3. Update the cache:
 
    * `npm run update`

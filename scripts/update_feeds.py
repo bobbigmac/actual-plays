@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 import time
 import urllib.error
@@ -10,6 +11,8 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from threading import Lock
+import threading
+import weakref
 
 from scripts.shared import (
     REPO_ROOT,
@@ -30,6 +33,12 @@ from scripts.shared import (
 
 _DISABLE_AFTER_CONSECUTIVE_FAILURES_DEFAULT = 3
 _DISABLE_IMMEDIATELY_HTTP_STATUSES = {410}
+
+try:
+    from concurrent.futures.thread import _threads_queues, _worker  # type: ignore
+except Exception:  # pragma: no cover
+    _threads_queues = None
+    _worker = None
 
 
 def _parse_args() -> argparse.Namespace:
@@ -64,6 +73,13 @@ def _parse_args() -> argparse.Namespace:
 def _log(msg: str, *, quiet: bool) -> None:
     if not quiet:
         print(msg)
+
+
+def _atomic_write_text(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.parent / f".{path.name}.{os.getpid()}.tmp"
+    tmp.write_text(text, encoding="utf-8")
+    tmp.replace(path)
 
 
 def _load_existing_feed_json(md_path: Path) -> dict | None:
@@ -394,10 +410,43 @@ def _write_cache_if_changed(
         feed=feed_json,
         defaults=defaults,
     )
-    md_path.write_text(md, encoding="utf-8")
+    _atomic_write_text(md_path, md)
     if not quiet:
         print(f"[cached] {feed_slug} -> {md_path}")
     return True
+
+
+class _DaemonThreadPoolExecutor(ThreadPoolExecutor):
+    """
+    A ThreadPoolExecutor variant that uses daemon threads.
+
+    This makes Ctrl+C behave sensibly for long-running network requests: the
+    process can terminate without waiting for in-flight fetches to finish.
+    """
+
+    def _adjust_thread_count(self):  # pragma: no cover
+        # Copy of stdlib behavior with `daemon=True`.
+        if self._idle_semaphore.acquire(timeout=0):
+            return
+
+        if _worker is None or _threads_queues is None:
+            return super()._adjust_thread_count()
+
+        def weakref_cb(_, q=self._work_queue):
+            q.put(None)
+
+        num_threads = len(self._threads)
+        if num_threads < self._max_workers:
+            thread_name = "%s_%d" % (self._thread_name_prefix or self, num_threads)
+            t = threading.Thread(
+                name=thread_name,
+                target=_worker,
+                args=(weakref.ref(self, weakref_cb), self._work_queue, self._initializer, self._initargs),
+                daemon=True,
+            )
+            t.start()
+            self._threads.add(t)
+            _threads_queues[t] = self._work_queue
 
 
 def _record_failure(
@@ -741,7 +790,7 @@ def _process_one_feed(
         feed=feed_json,
         defaults=defaults,
     )
-    md_path.write_text(md, encoding="utf-8")
+    _atomic_write_text(md_path, md)
     if not quiet:
         print(f"[updated] {slug} -> {md_path}")
     return _FeedResult(slug=slug, per_feed_state=per_feed_state, changed=True, wrote_cache=True)
@@ -835,7 +884,7 @@ def main() -> int:
                 defaults=defaults,
             )
             feeds_md_dir.mkdir(parents=True, exist_ok=True)
-            md_path.write_text(md, encoding="utf-8")
+            _atomic_write_text(md_path, md)
             changed = True
             _log(f"[sanitized] {slug} -> {md_path}", quiet=args.quiet)
 
@@ -926,7 +975,9 @@ def main() -> int:
             return 2
 
         max_workers = max(1, min(int(args.concurrency), len(jobs)))
-        with ThreadPoolExecutor(max_workers=max_workers) as ex:
+        ex = _DaemonThreadPoolExecutor(max_workers=max_workers)
+        interrupted = False
+        try:
             futures = {}
             for job in jobs:
                 futures[
@@ -955,6 +1006,16 @@ def main() -> int:
                 state["feeds"][res.slug] = res.per_feed_state
                 if res.changed:
                     any_changed = True
+        except KeyboardInterrupt:
+            interrupted = True
+            print("\n[interrupt] Ctrl+C received; stopping.", file=sys.stderr)
+            had_error = True
+            return 130
+        finally:
+            try:
+                ex.shutdown(wait=not interrupted, cancel_futures=interrupted)
+            except Exception:
+                pass
 
     state["updated_at"] = now_iso
     write_json(state_path, state)

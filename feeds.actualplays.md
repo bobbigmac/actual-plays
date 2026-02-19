@@ -248,11 +248,6 @@ I tend to prefer shows with clear audio, good pacing, and episodes that are easy
 - title_override: Happy Jacks RPG One Shots
 - categories: ttrpg, actual-play
 
-## harry-potter-and-the-philosophers-stone
-- url: https://www.dimsdale.co.uk/rss/hpatps
-- title_override: Harry Potter and the Philosophers Stone
-- categories: fiction, fiction/audiobook
-
 ## hero-squad
 - url: https://feed.podbean.com/stumpt/feed.xml
 - title_override: Hero Squad!
