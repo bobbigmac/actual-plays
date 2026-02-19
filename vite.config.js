@@ -86,15 +86,15 @@ function devBuilderPlugin() {
     }
   }
 
-  function copyAsset(file) {
-    const rel = normalize(path.relative(assetsSrc, file));
-    if (rel.startsWith("..")) return false;
-    if (!exists(distRoot)) return false;
-    const outDir = path.join(distRoot, "assets");
-    fs.mkdirSync(outDir, { recursive: true });
-    fs.copyFileSync(file, path.join(outDir, path.basename(file)));
-    return true;
-  }
+function copyAsset(file) {
+  const rel = normalize(path.relative(assetsSrc, file));
+  if (rel.startsWith("..")) return false;
+  if (!exists(distRoot)) return false;
+  const outFile = path.join(distRoot, "assets", rel);
+  fs.mkdirSync(path.dirname(outFile), { recursive: true });
+  fs.copyFileSync(file, outFile);
+  return true;
+}
 
   return {
     name: "ap-dev-builder",

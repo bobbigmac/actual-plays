@@ -1,7 +1,7 @@
 /* Simple offline support for the static site.
    Scope is the site base path (service worker is emitted at /<base>/sw.js). */
 
-const STATIC_CACHE = "ap-static-v3";
+const STATIC_CACHE = "ap-static-v4";
 const ART_CACHE = "ap-art-v1";
 const AUDIO_CACHE = "ap-audio-v1";
 const LEGACY_MEDIA_CACHE = "ap-media-v1";
@@ -72,10 +72,11 @@ self.addEventListener("install", (event) => {
         cache.addAll([
           urlFor(""),
           urlFor("index.html"),
-          urlFor("search/"),
           urlFor("manifest.webmanifest"),
           urlFor("assets/style.css"),
           urlFor("assets/app.js"),
+          urlFor("assets/app/index.js"),
+          urlFor("assets/app/offline.js"),
           urlFor("assets/icon-192.png"),
           urlFor("assets/icon-512.png"),
           urlFor("assets/apple-touch-icon.png"),

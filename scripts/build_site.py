@@ -147,9 +147,14 @@ def main() -> int:
         shutil.rmtree(dist_dir)
     (dist_dir / "assets").mkdir(parents=True, exist_ok=True)
 
-    for asset in assets_dir.glob("*"):
-        if asset.is_file():
-            shutil.copy2(asset, dist_dir / "assets" / asset.name)
+    # Copy assets recursively so we can keep JS/CSS split into subfolders.
+    for asset in assets_dir.rglob("*"):
+        if not asset.is_file():
+            continue
+        rel = asset.relative_to(assets_dir)
+        out = dist_dir / "assets" / rel
+        out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(asset, out)
 
     # PWA bits live at the site root so the service worker can control the whole base path.
     pwa_sw_src = (REPO_ROOT / "site" / "pwa" / "sw.js")
@@ -212,6 +217,8 @@ def main() -> int:
                 "episode_key": ep.get("key"),
                 "title": ep.get("title"),
                 "published_at": ep.get("published_at"),
+                "audio_url": ep.get("enclosure_url"),
+                "link_url": ep.get("link"),
                 "speakers": speakers,
                 "topics": ep.get("topics") or [],
             }
@@ -361,31 +368,6 @@ def main() -> int:
         content_html=content,
     )
 
-    # Search page (rendered client-side from index.json).
-    content = """
-    <h1>Search</h1>
-    <section class="card search-page">
-      <div class="search-row">
-        <input id="search-input" type="search" placeholder="Search episodes (title, speakers)..." autocomplete="off" />
-      </div>
-      <div class="modal-filters">
-        <label><input id="search-include-played" type="checkbox" checked /> Include played</label>
-        <label><input id="search-played-normal" type="checkbox" /> Played in normal order</label>
-      </div>
-      <div id="search-status" class="muted">Type to search.</div>
-      <ul id="search-results" class="list search-results"></ul>
-    </section>
-    """.strip()
-    _write_page(
-        base_template=base_template,
-        out_path=dist_dir / "search" / "index.html",
-        base_path=base_path,
-        site_cfg=site_cfg,
-        page_title=f"Search — {site_cfg.get('title') or ''}".strip(" —"),
-        page_description="Search episodes",
-        content_html=content,
-    )
-
     # Feed pages.
     for feed in feeds:
         slug = str(feed.get("slug") or "")
@@ -520,51 +502,83 @@ def main() -> int:
     for speaker, _count in speaker_rows[:500]:
         sp_slug = slugify(speaker)
         eps = speaker_to_eps.get(speaker) or []
-        eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
-        items = []
+        # Group episodes by source podcast; show the biggest groups first.
+        grouped: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
         for e in eps[:500]:
-            feed_slug = e.get("feed_slug") or ""
-            feed_title = _esc(e.get("feed_title") or feed_slug)
-            key = e.get("episode_key") or ""
-            episode_id = f"{feed_slug}:{key}"
-            title = _esc(e.get("title") or "")
-            date = _esc((e.get("published_at") or "")[:10])
-            url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
-            items.append(
-                f"""
-                <li class="episode-row" data-episode-id="{_esc(episode_id)}"
-                  data-feed-slug="{_esc(feed_slug)}"
-                  data-episode-key="{_esc(key)}"
-                  data-episode-title="{title}"
-                  data-episode-date="{date}"
-                  data-feed-title="{feed_title}">
-                  <div class="row-main">
-                    <a href="{_esc(url)}">{title}</a>
-                    <span class="muted">({feed_title} · {date})</span>
-                  </div>
-                  <div class="row-actions">
-                    <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
-                    <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
-                    <details class="menu">
-                      <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
-                      <div class="menu-panel card">
-                        <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
-                        <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+            feed_slug = str(e.get("feed_slug") or "")
+            feed_title = str(e.get("feed_title") or feed_slug)
+            grouped[(feed_slug, feed_title)].append(e)
+
+        group_rows = sorted(grouped.items(), key=lambda kv: (-len(kv[1]), kv[0][1].lower(), kv[0][0]))
+        groups_html: list[str] = []
+        for (feed_slug, feed_title_raw), group_eps in group_rows:
+            feed_title = _esc(feed_title_raw or feed_slug)
+            group_eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
+            items: list[str] = []
+            for e in group_eps:
+                key = str(e.get("episode_key") or "")
+                episode_id = f"{feed_slug}:{key}"
+                title = _esc(str(e.get("title") or ""))
+                date = _esc(str((e.get("published_at") or "")[:10]))
+                audio = _esc(str(e.get("audio_url") or ""))
+                link = _esc(str(e.get("link_url") or ""))
+                url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
+                items.append(
+                    f"""
+                    <li class="episode-row" data-episode-id="{_esc(episode_id)}"
+                      data-feed-slug="{_esc(feed_slug)}"
+                      data-episode-key="{_esc(key)}"
+                      data-episode-title="{title}"
+                      data-episode-date="{date}"
+                      data-feed-title="{feed_title}"
+                      data-episode-audio="{audio}"
+                      data-episode-link="{link}">
+                      <div class="row-main">
+                        <a href="{_esc(url)}">{title}</a>
+                        <span class="muted">({date})</span>
                       </div>
-                    </details>
+                      <div class="row-actions">
+                        <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
+                        <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
+                        <details class="menu">
+                          <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
+                          <div class="menu-panel card">
+                            <button class="btn btn-sm" type="button" data-action="played">Mark played</button>
+                            <button class="btn btn-sm" type="button" data-action="offline">Offline</button>
+                          </div>
+                        </details>
+                      </div>
+                      <div class="mini-progress">
+                        <div class="mini-progress-bar" data-progress-bar></div>
+                      </div>
+                      <div class="mini-progress-text muted" data-progress-text></div>
+                    </li>
+                    """.strip()
+                )
+
+            podcast_url = _href(base_path, f"podcasts/{feed_slug}/")
+            groups_html.append(
+                f"""
+                <details class="speaker-group card" open>
+                  <summary>
+                    <span class="speaker-group-title">{feed_title}</span>
+                    <span class="muted">({len(group_eps)})</span>
+                  </summary>
+                  <div class="muted speaker-group-meta">
+                    <a href="{_esc(podcast_url)}">Open podcast</a>
                   </div>
-                  <div class="mini-progress">
-                    <div class="mini-progress-bar" data-progress-bar></div>
-                  </div>
-                  <div class="mini-progress-text muted" data-progress-text></div>
-                </li>
+                  <ul class="list">
+                    {"".join(items)}
+                  </ul>
+                </details>
                 """.strip()
             )
         content = f"""
         <h1>{_esc(speaker)}</h1>
-        <ul class="list">
-          {"".join(items) if items else "<li class=\"muted\">No episodes indexed for this speaker.</li>"}
-        </ul>
+        <p class="muted">Grouped by podcast (most appearances first).</p>
+        <div class="speaker-groups">
+          {"".join(groups_html) if groups_html else "<div class=\"muted\">No episodes indexed for this speaker.</div>"}
+        </div>
         """.strip()
         _write_page(
             base_template=base_template,

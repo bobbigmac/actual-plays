@@ -107,9 +107,8 @@ a:hover {
   position: sticky;
   top: var(--header-offset, 72px);
   z-index: 9;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
+  width: min(900px, calc(100% - 36px));
+  margin: 18px auto 0 auto;
 }
 
 .list {
@@ -693,6 +692,40 @@ details.menu > summary::-webkit-details-marker {
   overflow: auto;
   -webkit-overflow-scrolling: touch;
   padding-right: 6px;
+}
+
+.search-open main.wrap {
+  display: none;
+}
+
+.search-open #search-panel[hidden] {
+  display: block;
+}
+
+.search-open #search-panel {
+  display: block;
+}
+
+.speaker-groups {
+  display: grid;
+  gap: 12px;
+}
+
+.speaker-group > summary {
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  font-weight: 650;
+}
+
+.speaker-group > summary::-webkit-details-marker {
+  display: none;
+}
+
+.speaker-group-meta {
+  margin: 6px 0 10px 0;
 }
 
 .search-page .search-row {
