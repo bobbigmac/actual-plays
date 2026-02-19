@@ -4,6 +4,7 @@
 - subtitle: A self-updating, static podcast browser
 - description: A personal podcast index.
 - base_path: /
+- og_image: assets/bobs-faves-promo.jpg
 - footer_links: GitHub=https://github.com/
 
 # Defaults

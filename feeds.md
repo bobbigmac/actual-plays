@@ -4,6 +4,7 @@
 - subtitle: A self-updating, static podcast browser
 - description: Built from RSS/Atom feeds. Episodes stream directly from the original hosts.
 - base_path: /
+- og_image: assets/promo-britcom.jpg
 - footer_links: GitHub=https://github.com/
 
 # Defaults
