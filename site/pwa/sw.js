@@ -1,8 +1,10 @@
 /* Simple offline support for the static site.
    Scope is the site base path (service worker is emitted at /<base>/sw.js). */
 
-const STATIC_CACHE = "ap-static-v2";
-const MEDIA_CACHE = "ap-media-v1";
+const STATIC_CACHE = "ap-static-v3";
+const ART_CACHE = "ap-art-v1";
+const AUDIO_CACHE = "ap-audio-v1";
+const LEGACY_MEDIA_CACHE = "ap-media-v1";
 
 function urlFor(path) {
   return new URL(path, self.registration.scope).toString();
@@ -28,16 +30,38 @@ function isLikelyAudio(url) {
   );
 }
 
-function normalizeMediaRequest(req) {
-  // Some browsers use Range requests for audio. Cache a "full" request key by dropping headers.
-  // We may still respond with the full response to Range requests (not perfect, but works often).
-  return new Request(req.url, {
-    method: "GET",
-    mode: "no-cors",
-    credentials: "omit",
-    redirect: "follow",
-    cache: "no-store",
-  });
+async function migrateLegacyCache() {
+  try {
+    const keys = await caches.keys();
+    if (!keys.includes(LEGACY_MEDIA_CACHE)) return;
+    const legacy = await caches.open(LEGACY_MEDIA_CACHE);
+    const reqs = await legacy.keys();
+    if (!reqs.length) {
+      await caches.delete(LEGACY_MEDIA_CACHE);
+      return;
+    }
+    const art = await caches.open(ART_CACHE);
+    const audio = await caches.open(AUDIO_CACHE);
+    for (const req of reqs) {
+      try {
+        const resp = await legacy.match(req);
+        if (!resp) continue;
+        const u = new URL(req.url);
+        if (isLikelyAudio(u)) await audio.put(req.url, resp);
+        else await art.put(req.url, resp);
+      } catch (_e) {}
+    }
+    await caches.delete(LEGACY_MEDIA_CACHE);
+  } catch (_e) {}
+}
+
+async function fetchBest(url) {
+  // Prefer CORS so WebAudio can work when the host supports it; fallback to no-cors for offline playback.
+  try {
+    return await fetch(url, { mode: "cors", credentials: "omit", redirect: "follow", cache: "no-store" });
+  } catch (_e) {
+    return await fetch(url, { mode: "no-cors", credentials: "omit", redirect: "follow", cache: "no-store" });
+  }
 }
 
 self.addEventListener("install", (event) => {
@@ -63,10 +87,10 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches
-      .keys()
+    migrateLegacyCache()
+      .then(() => caches.keys())
       .then((keys) =>
-        Promise.all(keys.filter((k) => ![STATIC_CACHE, MEDIA_CACHE].includes(k)).map((k) => caches.delete(k)))
+        Promise.all(keys.filter((k) => ![STATIC_CACHE, ART_CACHE, AUDIO_CACHE].includes(k)).map((k) => caches.delete(k)))
       )
       .then(() => self.clients.claim())
   );
@@ -75,22 +99,43 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("message", (event) => {
   const msg = event.data || {};
   const port = event.ports && event.ports[0];
-  if (!msg || msg.type !== "ap-media" || !msg.url) return;
-
-  const req = normalizeMediaRequest(new Request(msg.url));
   const respond = (data) => {
     try {
       port && port.postMessage(data);
     } catch (_e) {}
   };
 
+  if (!msg || msg.type !== "ap-media") return;
+
+  if (msg.action === "stats") {
+    event.waitUntil(
+      Promise.all([caches.open(AUDIO_CACHE).then((c) => c.keys()), caches.open(ART_CACHE).then((c) => c.keys())])
+        .then(([audioKeys, artKeys]) => respond({ ok: true, audioCount: audioKeys.length, artCount: artKeys.length }))
+        .catch((e) => respond({ ok: false, error: String(e || "stats failed") }))
+    );
+    return;
+  }
+
+  if (!msg.url) return;
+
   if (msg.action === "remove") {
     event.waitUntil(
       caches
-        .open(MEDIA_CACHE)
-        .then((cache) => cache.delete(req))
+        .open(AUDIO_CACHE)
+        .then((cache) => cache.delete(msg.url))
         .then(() => respond({ ok: true }))
         .catch((e) => respond({ ok: false, error: String(e || "remove failed") }))
+    );
+    return;
+  }
+
+  if (msg.action === "has") {
+    event.waitUntil(
+      caches
+        .open(AUDIO_CACHE)
+        .then((cache) => cache.match(msg.url))
+        .then((resp) => respond({ ok: true, cached: Boolean(resp), type: resp ? resp.type : "" }))
+        .catch((e) => respond({ ok: false, error: String(e || "has failed") }))
     );
     return;
   }
@@ -98,16 +143,15 @@ self.addEventListener("message", (event) => {
   if (msg.action === "cache") {
     event.waitUntil(
       caches
-        .open(MEDIA_CACHE)
+        .open(AUDIO_CACHE)
         .then(async (cache) => {
-          const existing = await cache.match(req);
-          if (existing) return "hit";
-          const resp = await fetch(req);
-          await cache.put(req, resp.clone());
-          trimCache(MEDIA_CACHE, 220);
-          return "stored";
+          const existing = await cache.match(msg.url);
+          if (existing) return { status: "hit", type: existing.type };
+          const resp = await fetchBest(msg.url);
+          await cache.put(msg.url, resp.clone());
+          return { status: "stored", type: resp.type };
         })
-        .then((status) => respond({ ok: true, status }))
+        .then((x) => respond({ ok: true, status: x.status, type: x.type, cors: x.type !== "opaque" }))
         .catch((e) => respond({ ok: false, error: String(e || "cache failed") }))
     );
   }
@@ -148,47 +192,43 @@ self.addEventListener("fetch", (event) => {
 
   if (isAsset) {
     event.respondWith(
-      caches.match(req).then((cached) => {
-        const network = fetch(req)
-          .then((resp) => {
-            const copy = resp.clone();
-            caches.open(STATIC_CACHE).then((cache) => cache.put(req, copy));
-            return resp;
-          })
-          .catch(() => null);
-        return cached || network || fetch(req);
-      })
+      fetch(req)
+        .then((resp) => {
+          const copy = resp.clone();
+          caches.open(STATIC_CACHE).then((cache) => cache.put(req, copy));
+          return resp;
+        })
+        .catch(() => caches.match(req).then((cached) => cached || fetch(req)))
     );
     return;
   }
 
   if (isMedia) {
-    const keyReq = normalizeMediaRequest(req);
     event.respondWith(
-      caches.open(MEDIA_CACHE).then(async (cache) => {
-        const cached = await cache.match(keyReq);
-
-        if (cached) {
-          // Stale-while-revalidate for images; cache-first for audio.
-          if (isImage) {
+      (async () => {
+        if (isImage) {
+          const cache = await caches.open(ART_CACHE);
+          const cached = await cache.match(req.url);
+          if (cached) {
             event.waitUntil(
-              fetch(keyReq)
-                .then((resp) => cache.put(keyReq, resp.clone()))
-                .then(() => trimCache(MEDIA_CACHE, 220))
+              fetch(req)
+                .then((resp) => cache.put(req.url, resp.clone()))
+                .then(() => trimCache(ART_CACHE, 300))
                 .catch(() => {})
             );
+            return cached;
           }
-          return cached;
+          const resp = await fetch(req);
+          cache.put(req.url, resp.clone()).then(() => trimCache(ART_CACHE, 300));
+          return resp;
         }
 
-        try {
-          const resp = await fetch(keyReq);
-          cache.put(keyReq, resp.clone()).then(() => trimCache(MEDIA_CACHE, 220));
-          return resp;
-        } catch (_e) {
-          return cached || fetch(req);
-        }
-      })
+        // Audio is cached only when explicitly requested (Offline / auto-queue).
+        const cache = await caches.open(AUDIO_CACHE);
+        const cached = await cache.match(req.url);
+        if (cached) return cached;
+        return fetch(req);
+      })().catch(() => fetch(req))
     );
     return;
   }

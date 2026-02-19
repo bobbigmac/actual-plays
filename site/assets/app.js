@@ -68,6 +68,130 @@
     } catch (_e) {}
   }
 
+  var CACHE_ART = "ap-art-v1";
+  var CACHE_AUDIO = "ap-audio-v1";
+
+  function swRequest(msg) {
+    return new Promise(function (resolve) {
+      if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
+        resolve({ ok: false, error: "Service worker not active yet (installable PWA; reload once after install)." });
+        return;
+      }
+      try {
+        var ch = new MessageChannel();
+        ch.port1.onmessage = function (e) {
+          resolve((e && e.data) || { ok: false, error: "No response" });
+        };
+        navigator.serviceWorker.controller.postMessage(msg, [ch.port2]);
+      } catch (e) {
+        resolve({ ok: false, error: String(e || "SW message failed") });
+      }
+    });
+  }
+
+  function cacheMatch(cacheName, url) {
+    if (!("caches" in window)) return Promise.resolve(null);
+    if (!url) return Promise.resolve(null);
+    return window.caches
+      .open(cacheName)
+      .then(function (cache) {
+        return cache.match(String(url));
+      })
+      .catch(function () {
+        return null;
+      });
+  }
+
+  function isAudioCached(url) {
+    return cacheMatch(CACHE_AUDIO, url).then(function (resp) {
+      return Boolean(resp);
+    });
+  }
+
+  function offlineKey(name) {
+    return LS_PREFIX + "offline:" + String(name || "");
+  }
+
+  function readOfflineSettings() {
+    var auto = lsGet(offlineKey("auto")) === "1";
+    var wifiOnly = lsGet(offlineKey("wifiOnly")) === "1";
+    var maxEpisodes = Number(lsGet(offlineKey("maxEpisodes")) || "20") || 20;
+    maxEpisodes = Math.max(0, Math.min(200, Math.floor(maxEpisodes)));
+    return { auto: auto, wifiOnly: wifiOnly, maxEpisodes: maxEpisodes };
+  }
+
+  function writeOfflineSettings(next) {
+    if (!next || typeof next !== "object") return;
+    if ("auto" in next) lsSet(offlineKey("auto"), next.auto ? "1" : "0");
+    if ("wifiOnly" in next) lsSet(offlineKey("wifiOnly"), next.wifiOnly ? "1" : "0");
+    if ("maxEpisodes" in next) lsSet(offlineKey("maxEpisodes"), String(Math.max(0, Math.min(200, Math.floor(Number(next.maxEpisodes) || 0)))));
+  }
+
+  function fmtBytes(bytes) {
+    var b = Math.max(0, Number(bytes) || 0);
+    if (b >= 1024 * 1024 * 1024) return (b / (1024 * 1024 * 1024)).toFixed(2) + " GB";
+    if (b >= 1024 * 1024) return (b / (1024 * 1024)).toFixed(1) + " MB";
+    if (b >= 1024) return Math.round(b / 1024) + " KB";
+    return Math.round(b) + " B";
+  }
+
+  function getConn() {
+    return navigator.connection || navigator.mozConnection || navigator.webkitConnection || null;
+  }
+
+  function isWifiAllowedBySetting() {
+    var s = readOfflineSettings();
+    if (!s.wifiOnly) return true;
+    var c = getConn();
+    if (!c) return true; // can't tell; assume OK per user request
+    try {
+      if (c.type) return c.type === "wifi" || c.type === "ethernet";
+      if (c.saveData === true) return false;
+    } catch (_e) {}
+    return true;
+  }
+
+  function estimateStorage() {
+    if (!navigator.storage || !navigator.storage.estimate) return Promise.resolve(null);
+    return navigator.storage
+      .estimate()
+      .then(function (e) {
+        if (!e) return null;
+        var usage = Number(e.usage) || 0;
+        var quota = Number(e.quota) || 0;
+        var pct = quota > 0 ? usage / quota : 0;
+        return { usage: usage, quota: quota, pct: pct };
+      })
+      .catch(function () {
+        return null;
+      });
+  }
+
+  function corsKey(origin) {
+    return LS_PREFIX + "cors:" + encodeURIComponent(String(origin || ""));
+  }
+
+  function corsOkForUrl(url) {
+    if (!url) return false;
+    try {
+      var u = new URL(String(url), window.location.href);
+      if (u.origin === window.location.origin) return true;
+      var raw = lsGet(corsKey(u.origin));
+      return raw === "1";
+    } catch (_e) {
+      return false;
+    }
+  }
+
+  function rememberCorsForUrl(url, ok) {
+    if (!url) return;
+    try {
+      var u = new URL(String(url), window.location.href);
+      if (u.origin === window.location.origin) return;
+      lsSet(corsKey(u.origin), ok ? "1" : "0");
+    } catch (_e) {}
+  }
+
   function progressKey(episodeId) {
     return LS_PREFIX + "p:" + episodeId;
   }
@@ -198,6 +322,46 @@
     return LS_PREFIX + "queue";
   }
 
+  var queueSet = null;
+  function getQueueSet() {
+    if (queueSet) return queueSet;
+    var q = loadQueue();
+    queueSet = new Set(
+      q
+        .map(function (it) {
+          return it && it.id;
+        })
+        .filter(Boolean)
+    );
+    return queueSet;
+  }
+
+  function isQueuedId(episodeId) {
+    if (!episodeId) return false;
+    return getQueueSet().has(episodeId);
+  }
+
+  function refreshQueueIndicators() {
+    // Rebuild set from storage to keep it truthful after imports/storage events.
+    queueSet = null;
+    var set = getQueueSet();
+
+    $all("[data-episode-id]").forEach(function (row) {
+      var id = row.getAttribute("data-episode-id") || "";
+      if (!id) return;
+      row.classList.toggle("is-queued", set.has(id));
+    });
+
+    $all('[data-action="queue"]').forEach(function (btn) {
+      var row = btn.closest ? btn.closest("[data-episode-id]") : null;
+      var id = row ? row.getAttribute("data-episode-id") : "";
+      var queued = id ? set.has(id) : false;
+      btn.classList.toggle("queued", queued);
+      btn.setAttribute("aria-pressed", queued ? "true" : "false");
+      btn.textContent = "Queue";
+    });
+  }
+
   function loadQueue() {
     var raw = lsGet(queueKey());
     if (!raw) return [];
@@ -212,6 +376,7 @@
 
   function saveQueue(items) {
     lsSet(queueKey(), JSON.stringify(items.slice(0, 200)));
+    queueSet = null;
   }
 
   function enqueue(entry) {
@@ -399,12 +564,12 @@
           "</div>" +
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Resume</button>' +
-          '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
+          '<button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>' +
           '<details class="menu">' +
           '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
           '  <div class="menu-panel card">' +
-          '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
-          '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+            '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
+            '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
           "  </div>" +
           "</details>" +
           "</div>" +
@@ -458,12 +623,12 @@
           "</div>" +
           '<div class="row-actions">' +
           '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
+          '<button class="btn btn-sm queue-btn queued" type="button" data-action="queue">Queue</button>' +
           '<details class="menu">' +
           '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
           '  <div class="menu-panel card">' +
-          '    <button class="btn btn-sm" type="button" data-action="remove">Remove</button>' +
-          '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
-          '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
+            '    <button class="btn btn-sm" type="button" data-action="played">Mark played</button>' +
+            '    <button class="btn btn-sm" type="button" data-action="offline">Offline</button>' +
           "  </div>" +
           "</details>" +
           "</div>" +
@@ -499,6 +664,7 @@
     });
 
     refreshAllProgress();
+    refreshQueueIndicators();
   }
 
   function initPlayer() {
@@ -515,6 +681,7 @@
     var tElapsed = $("#t-elapsed");
     var tDuration = $("#t-duration");
     var preservePitch = $("#preserve-pitch");
+    var audioNote = $("#audio-note");
     var gain = $("#gain");
     var gainVal = $("#gain-val");
     var eqLow = $("#eq-low");
@@ -540,6 +707,7 @@
     var currentFeedSlug = null;
     var desiredRate = null;
     var currentMeta = null;
+    var webAudioAllowedForSource = false;
 
     function currentKey() {
       return LS_PREFIX + "current";
@@ -683,6 +851,51 @@
       }
     }
 
+    function setAudioNote(msg) {
+      if (!audioNote) return;
+      if (msg) {
+        audioNote.textContent = msg;
+        audioNote.removeAttribute("hidden");
+      } else {
+        audioNote.textContent = "";
+        audioNote.setAttribute("hidden", "");
+      }
+    }
+
+    function setEqEnabled(enabled) {
+      var on = Boolean(enabled);
+      if (gain) gain.disabled = !on;
+      if (eqLow) eqLow.disabled = !on;
+      if (eqMid) eqMid.disabled = !on;
+      if (eqHigh) eqHigh.disabled = !on;
+    }
+
+    function computeWebAudioAllowed() {
+      var src = player.currentSrc || player.src || "";
+      return corsOkForUrl(src);
+    }
+
+    function updateEqAvailabilityUi() {
+      if (!player.src) {
+        setEqEnabled(true);
+        setAudioNote("");
+        webAudioAllowedForSource = false;
+        return;
+      }
+      webAudioAllowedForSource = computeWebAudioAllowed();
+      if (!webAudioAllowedForSource) {
+        setEqEnabled(false);
+        if (audioCtx) {
+          setAudioNote("EQ/gain disabled for this audio host (CORS). Reload if audio went silent after enabling EQ.");
+        } else {
+          setAudioNote("EQ/gain disabled for this audio host (CORS). Playback still works.");
+        }
+      } else {
+        setEqEnabled(true);
+        setAudioNote("");
+      }
+    }
+
     function resumeAudioCtx() {
       if (!audioCtx) return;
       if (audioCtx.state === "suspended") {
@@ -717,7 +930,8 @@
 
       // Only build the graph if the user changed any WebAudio settings.
       var needsGraph = gainDb !== 0 || lowDb !== 0 || midDb !== 0 || highDb !== 0;
-      if (needsGraph && ensureAudioGraph()) {
+      updateEqAvailabilityUi();
+      if (needsGraph && webAudioAllowedForSource && ensureAudioGraph()) {
         resumeAudioCtx();
         gainNode.gain.value = dbToLinear(gainDb);
         lowNode.gain.value = lowDb;
@@ -847,8 +1061,13 @@
           setSpeed(wantedRate, { persist: false });
 
           if (full.a) {
+            try {
+              if (corsOkForUrl(full.a)) player.crossOrigin = "anonymous";
+              else player.removeAttribute("crossorigin");
+            } catch (_e) {}
             if (player.src !== full.a) player.src = full.a;
           }
+          updateEqAvailabilityUi();
 
           // If we're on this podcast page, keep ?e updated for deep links.
           try {
@@ -1032,6 +1251,7 @@
     player.addEventListener("loadedmetadata", function () {
       // Defensive: source changes can reset rate; keep the UI + element in sync.
       if (desiredRate != null) setSpeed(desiredRate, { persist: false });
+      updateEqAvailabilityUi();
       setTimeLabels();
       if (pendingSeek != null && pendingSeek > 0) {
         try {
@@ -1076,6 +1296,8 @@
         window.__AP_PLAYER__.playMeta(next);
       }
       renderHomePanels();
+      refreshQueueIndicators();
+      maybeAutoCacheQueue({ force: false });
     });
 
     document.addEventListener("visibilitychange", function () {
@@ -1225,7 +1447,7 @@
               "</div>" +
               '<div class="row-actions">' +
               '<button class="btn-primary btn-sm" type="button" data-action="play">Play</button>' +
-              '<button class="btn btn-sm" type="button" data-action="queue">+Queue</button>' +
+              '<button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>' +
               '<details class="menu">' +
               '  <summary class="btn btn-sm" aria-label="More actions">⋯</summary>' +
               '  <div class="menu-panel card">' +
@@ -1241,6 +1463,7 @@
           })
           .join("");
         refreshAllProgress();
+        refreshQueueIndicators();
       });
     }
 
@@ -1373,6 +1596,7 @@
           // Update UI that depends on the current page content.
           refreshAllProgress();
           renderHomePanels();
+          refreshQueueIndicators();
           renderSearchIntoPage();
           // Don't auto-switch playback on navigation; deep-link autoplay happens on full load only.
           window.scrollTo({ top: 0, left: 0, behavior: "auto" });
@@ -1434,7 +1658,6 @@
 
   function initPwa() {
     if (!("serviceWorker" in navigator)) return;
-    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") return;
     window.addEventListener("load", function () {
       var basePath = getBasePath();
       navigator.serviceWorker
@@ -1446,6 +1669,7 @@
   function initProgress() {
     refreshAllProgress();
     renderHomePanels();
+    refreshQueueIndicators();
     window.addEventListener("storage", function (e) {
       if (!e || !e.key) return;
       if (
@@ -1455,6 +1679,7 @@
       ) {
         refreshAllProgress();
         renderHomePanels();
+        refreshQueueIndicators();
       }
     });
   }
@@ -1467,6 +1692,7 @@
     removeFromQueue(episodeId);
     refreshProgressForId(episodeId);
     renderHomePanels();
+    refreshQueueIndicators();
   }
 
   function markPlayedMany(ids) {
@@ -1490,6 +1716,137 @@
     );
     refreshAllProgress();
     renderHomePanels();
+    refreshQueueIndicators();
+  }
+
+  var OFFLINE_WARN_PCT = 0.8;
+  var autoOfflineRunId = 0;
+
+  function getAudioCacheCount() {
+    return swRequest({ type: "ap-media", action: "stats" })
+      .then(function (res) {
+        if (res && res.ok && typeof res.audioCount === "number") return res.audioCount;
+        return window.caches
+          .open(CACHE_AUDIO)
+          .then(function (c) {
+            return c.keys().then(function (keys) {
+              return keys.length;
+            });
+          })
+          .catch(function () {
+            return 0;
+          });
+      })
+      .catch(function () {
+        return 0;
+      });
+  }
+
+  function refreshOfflineStatus() {
+    var status = $("#offline-status") || $("#data-status");
+    if (!status) return Promise.resolve();
+
+    var s = readOfflineSettings();
+    var q = loadQueue();
+    var queueCount = (q || []).filter(function (it) {
+      return it && it.id;
+    }).length;
+
+    var swActive = Boolean("serviceWorker" in navigator && navigator.serviceWorker.controller);
+    var wifiOk = isWifiAllowedBySetting();
+
+    return Promise.all([estimateStorage(), getAudioCacheCount()]).then(function (arr) {
+      var est = arr[0];
+      var audioCount = Number(arr[1]) || 0;
+      var parts = [];
+
+      parts.push("Offline audio: " + audioCount + " / " + s.maxEpisodes);
+      parts.push("Queue: " + queueCount);
+      parts.push("Auto: " + (s.auto ? "on" : "off") + (s.wifiOnly ? " (Wi‑Fi only)" : ""));
+
+      if (!wifiOk) parts.push("Waiting for Wi‑Fi");
+      if (!swActive) parts.push("SW inactive");
+
+      if (est && est.quota) {
+        var pct = Math.round((est.pct || 0) * 100);
+        parts.push(
+          "Storage: " +
+            fmtBytes(est.usage) +
+            " / " +
+            fmtBytes(est.quota) +
+            " (" +
+            pct +
+            "%, " +
+            fmtBytes(Math.max(0, est.quota - est.usage)) +
+            " free)"
+        );
+        if ((est.pct || 0) >= OFFLINE_WARN_PCT) parts.push("near quota (80%)");
+      } else if (est) {
+        parts.push("Storage: " + fmtBytes(est.usage) + " used");
+      } else {
+        parts.push("Storage: unavailable");
+      }
+
+      status.textContent = parts.join(" · ");
+    });
+  }
+
+  function maybeAutoCacheQueue(opts) {
+    var options = opts || {};
+    var s = readOfflineSettings();
+    if (!s.auto && !options.force) return refreshOfflineStatus();
+    if (!s.maxEpisodes) return refreshOfflineStatus();
+    if (!isWifiAllowedBySetting()) return refreshOfflineStatus();
+
+    var runId = ++autoOfflineRunId;
+
+    if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
+      return refreshOfflineStatus();
+    }
+
+    return Promise.all([estimateStorage(), getAudioCacheCount()]).then(function (arr) {
+      var est = arr[0];
+      var audioCount = Number(arr[1]) || 0;
+      if (est && est.quota && (est.pct || 0) >= OFFLINE_WARN_PCT) return refreshOfflineStatus();
+      if (audioCount >= s.maxEpisodes) return refreshOfflineStatus();
+
+      var q = loadQueue().slice(0, 200);
+      var i = 0;
+
+      function next() {
+        if (runId !== autoOfflineRunId) return Promise.resolve();
+        if (audioCount >= s.maxEpisodes) return refreshOfflineStatus();
+        if (i >= q.length) return refreshOfflineStatus();
+
+        var it = q[i++];
+        if (!it || !it.a) return next();
+
+        return isAudioCached(it.a)
+          .then(function (cached) {
+            if (cached) return "hit";
+            return swRequest({ type: "ap-media", action: "cache", url: it.a }).then(function (res) {
+              if (!res || !res.ok) return "fail";
+              if (typeof res.cors === "boolean") rememberCorsForUrl(it.a, res.cors);
+              return res.status || "stored";
+            });
+          })
+          .then(function (status) {
+            if (status === "stored") audioCount += 1;
+            if (status === "stored" && navigator.storage && navigator.storage.estimate) {
+              return estimateStorage().then(function (e2) {
+                if (e2 && e2.quota && (e2.pct || 0) >= OFFLINE_WARN_PCT) return refreshOfflineStatus();
+                return next();
+              });
+            }
+            return next();
+          })
+          .catch(function () {
+            return next();
+          });
+      }
+
+      return next();
+    });
   }
 
   function openData() {
@@ -1511,6 +1868,30 @@
         "    </label>" +
         "  </div>" +
         '  <div id="data-status" class="muted"></div>' +
+        '  <div class="card offline-card" style="margin-top:12px">' +
+        '    <div class="modal-row" style="align-items:flex-start;gap:12px;flex-wrap:wrap">' +
+        '      <div style="flex:1;min-width:220px">' +
+        '        <div style="font-weight:650;margin-bottom:4px">Offline</div>' +
+        '        <div id="offline-status" class="muted"></div>' +
+        "      </div>" +
+        '      <div style="display:flex;flex-direction:column;gap:10px;min-width:220px">' +
+        '        <label class="toggle"><input id="offline-auto" type="checkbox" /> Auto-download queued</label>' +
+        '        <label class="toggle"><input id="offline-wifi" type="checkbox" /> Wi‑Fi only</label>' +
+        '        <label class="toggle" style="gap:10px;justify-content:space-between">' +
+        '          <span>Max cached episodes</span>' +
+        '          <input id="offline-max" type="number" min="0" max="200" step="1" style="width:90px" />' +
+        "        </label>" +
+        '        <div class="modal-row" style="padding:0;gap:8px;flex-wrap:wrap">' +
+        '          <button type="button" id="offline-refresh" class="btn btn-sm">Refresh</button>' +
+        '          <button type="button" id="offline-run" class="btn btn-sm">Download now</button>' +
+        '          <button type="button" id="offline-persist" class="btn btn-sm">Keep offline</button>' +
+        "        </div>" +
+        "      </div>" +
+        "    </div>" +
+        '    <div class="muted" style="margin-top:8px">' +
+        "      Audio EQ needs CORS-enabled hosts; offline caching cannot bypass CORS. The service worker will try a CORS fetch first." +
+        "    </div>" +
+        "  </div>" +
         "</div>";
       document.body.appendChild(modal);
       $("#data-close", modal).addEventListener("click", closeData);
@@ -1521,6 +1902,15 @@
     modal.classList.add("open");
     var status = $("#data-status", modal);
     if (status) status.textContent = "";
+
+    var s = readOfflineSettings();
+    var auto = $("#offline-auto", modal);
+    var wifi = $("#offline-wifi", modal);
+    var max = $("#offline-max", modal);
+    if (auto) auto.checked = Boolean(s.auto);
+    if (wifi) wifi.checked = Boolean(s.wifiOnly);
+    if (max) max.value = String(s.maxEpisodes);
+    refreshOfflineStatus();
   }
 
   function closeData() {
@@ -1671,6 +2061,56 @@
       if (status) status.textContent = "Exported.";
     });
 
+    document.addEventListener("click", function (e) {
+      var t = e.target;
+      if (!t || !t.closest) return;
+
+      var refreshBtn = t.closest("#offline-refresh");
+      if (refreshBtn) {
+        e.preventDefault();
+        refreshOfflineStatus();
+        return;
+      }
+
+      var runBtn = t.closest("#offline-run");
+      if (runBtn) {
+        e.preventDefault();
+        runBtn.disabled = true;
+        maybeAutoCacheQueue({ force: true })
+          .catch(function () {})
+          .finally(function () {
+            runBtn.disabled = false;
+          });
+        return;
+      }
+
+      var persistBtn = t.closest("#offline-persist");
+      if (persistBtn) {
+        e.preventDefault();
+        if (!navigator.storage || !navigator.storage.persist) {
+          var s0 = $("#offline-status") || $("#data-status");
+          if (s0) s0.textContent = "Persistent storage API not available in this browser.";
+          return;
+        }
+        persistBtn.disabled = true;
+        navigator.storage
+          .persist()
+          .then(function (ok) {
+            var s1 = $("#offline-status") || $("#data-status");
+            if (s1) s1.textContent = ok ? "Persistent storage granted." : "Persistent storage not granted.";
+          })
+          .catch(function () {
+            var s2 = $("#offline-status") || $("#data-status");
+            if (s2) s2.textContent = "Persistent storage request failed.";
+          })
+          .finally(function () {
+            persistBtn.disabled = false;
+            refreshOfflineStatus();
+          });
+        return;
+      }
+    });
+
     document.addEventListener("change", function (e) {
       var t = e.target;
       if (!t || t.id !== "data-import") return;
@@ -1692,51 +2132,28 @@
       };
       reader.readAsText(file);
     });
+
+    document.addEventListener("change", function (e) {
+      var t = e.target;
+      if (!t) return;
+      if (t.id !== "offline-auto" && t.id !== "offline-wifi" && t.id !== "offline-max") return;
+      var modal = $("#data-modal");
+      if (!modal || !modal.classList.contains("open")) return;
+
+      var auto = $("#offline-auto", modal);
+      var wifi = $("#offline-wifi", modal);
+      var max = $("#offline-max", modal);
+      writeOfflineSettings({
+        auto: auto ? Boolean(auto.checked) : false,
+        wifiOnly: wifi ? Boolean(wifi.checked) : false,
+        maxEpisodes: max ? Number(max.value) : 0,
+      });
+      refreshOfflineStatus();
+      maybeAutoCacheQueue({ force: false });
+    });
   }
 
   function initEpisodeActions() {
-    function swRequest(msg) {
-      return new Promise(function (resolve) {
-        if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
-          resolve({ ok: false, error: "Service worker not active (install the PWA / refresh on HTTPS)." });
-          return;
-        }
-        try {
-          var ch = new MessageChannel();
-          ch.port1.onmessage = function (e) {
-            resolve((e && e.data) || { ok: false, error: "No response" });
-          };
-          navigator.serviceWorker.controller.postMessage(msg, [ch.port2]);
-        } catch (e) {
-          resolve({ ok: false, error: String(e || "SW message failed") });
-        }
-      });
-    }
-
-    function mediaCacheKey(url) {
-      try {
-        return new Request(String(url || ""), { method: "GET", mode: "no-cors", credentials: "omit", redirect: "follow" });
-      } catch (_e) {
-        return null;
-      }
-    }
-
-    function isMediaCached(url) {
-      if (!("caches" in window)) return Promise.resolve(false);
-      var req = mediaCacheKey(url);
-      if (!req) return Promise.resolve(false);
-      return window.caches
-        .open("ap-media-v1")
-        .then(function (cache) {
-          return cache.match(req).then(function (resp) {
-            return Boolean(resp);
-          });
-        })
-        .catch(function () {
-          return false;
-        });
-    }
-
     document.addEventListener("click", function (e) {
       var t = e.target;
       if (!t || !t.closest) return;
@@ -1765,6 +2182,13 @@
       }
 
       if (action === "queue") {
+        if (isQueuedId(meta.id)) {
+          removeFromQueue(meta.id);
+          renderHomePanels();
+          refreshQueueIndicators();
+          maybeAutoCacheQueue({ force: false });
+          return;
+        }
         if (meta && !meta.ft) meta.ft = $("h1") ? $("h1").textContent : "";
         resolveEpisodeMeta(meta)
           .then(function (full) {
@@ -1778,6 +2202,8 @@
               u: Date.now(),
             });
             renderHomePanels();
+            refreshQueueIndicators();
+            maybeAutoCacheQueue({ force: false });
           })
           .catch(function () {});
         return;
@@ -1786,11 +2212,14 @@
       if (action === "remove") {
         removeFromQueue(meta.id);
         renderHomePanels();
+        refreshQueueIndicators();
+        maybeAutoCacheQueue({ force: false });
         return;
       }
 
       if (action === "played") {
         markPlayed(meta.id);
+        maybeAutoCacheQueue({ force: false });
         return;
       }
 
@@ -1819,16 +2248,18 @@
         resolveEpisodeMeta(meta)
           .then(function (full) {
             if (!full.a) throw new Error("No audio URL");
-            return isMediaCached(full.a).then(function (cached) {
+            return isAudioCached(full.a).then(function (cached) {
               var act = cached ? "remove" : "cache";
               return swRequest({ type: "ap-media", action: act, url: full.a }).then(function (res) {
-                return { res: res, cached: cached };
+                return { res: res, cached: cached, url: full.a };
               });
             });
           })
           .then(function (x) {
             if (!x || !x.res || !x.res.ok) throw new Error((x && x.res && x.res.error) || "offline cache failed");
+            if (x && x.url && typeof x.res.cors === "boolean") rememberCorsForUrl(x.url, x.res.cors);
             btn.textContent = x.cached ? "Offline" : "Offline ✓";
+            refreshOfflineStatus();
           })
           .catch(function () {
             btn.textContent = prevText || "Offline";
@@ -1841,14 +2272,47 @@
     });
   }
 
+  function initMenus() {
+    function closeAll(except) {
+      $all("details.menu[open]").forEach(function (d) {
+        if (except && d === except) return;
+        d.open = false;
+      });
+    }
+
+    document.addEventListener("toggle", function (e) {
+      var t = e.target;
+      if (!t || !t.classList || !t.classList.contains("menu")) return;
+      if (t.open) closeAll(t);
+    });
+
+    document.addEventListener("click", function (e) {
+      var t = e.target;
+      if (t && t.closest && t.closest("details.menu")) return;
+      closeAll(null);
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeAll(null);
+    });
+  }
+
   initHeaderOffset();
   initPlayer();
   initSearch();
   initProgress();
   initDescriptions();
   initEpisodeActions();
+  initMenus();
   initSpaNavigation();
   initData();
   initPwa();
   renderSearchIntoPage();
+
+  window.addEventListener("load", function () {
+    // Auto-offline queue (if enabled) should run after the page is settled.
+    setTimeout(function () {
+      maybeAutoCacheQueue({ force: false });
+    }, 900);
+  });
 })();

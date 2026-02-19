@@ -298,7 +298,7 @@ def main() -> int:
               </div>
               <div class="row-actions">
                 <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
-                <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
                 <details class="menu">
                   <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
                   <div class="menu-panel card">
@@ -435,7 +435,7 @@ def main() -> int:
                   data-episode-link="{link}">
                   <div class="ep-actions">
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
-                    <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                    <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
                     <details class="menu">
                       <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
                       <div class="menu-panel card">
@@ -544,7 +544,7 @@ def main() -> int:
                   </div>
                   <div class="row-actions">
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
-                    <button class="btn btn-sm" type="button" data-action="queue">+Queue</button>
+                    <button class="btn btn-sm queue-btn" type="button" data-action="queue">Queue</button>
                     <details class="menu">
                       <summary class="btn btn-sm" aria-label="More actions">⋯</summary>
                       <div class="menu-panel card">
