@@ -9,7 +9,7 @@ import sys
 import urllib.parse
 from collections import defaultdict
 from datetime import datetime, timezone
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
@@ -430,7 +430,32 @@ def _fmt_time(seconds: int | None) -> str:
 
 
 def _rss_pubdate(iso_value: str | None) -> str | None:
-    if not iso_value:
+    s = str(iso_value or "").strip()
+    if not s:
+        return None
+
+    # Preferred: ISO-ish timestamps we store in cache/index (e.g. 2026-02-18T12:34:56Z).
+    try:
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", s):
+            s = s + "T00:00:00+00:00"
+        if s.endswith("Z"):
+            s = s[:-1] + "+00:00"
+        dt = datetime.fromisoformat(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return format_datetime(dt.astimezone(timezone.utc))
+    except Exception:
+        pass
+
+    # Fallback: some feeds provide RFC822/RFC2822-like dates.
+    try:
+        dt2 = parsedate_to_datetime(s)
+        if dt2 is None:
+            return None
+        if dt2.tzinfo is None:
+            dt2 = dt2.replace(tzinfo=timezone.utc)
+        return format_datetime(dt2.astimezone(timezone.utc))
+    except Exception:
         return None
 
 
@@ -444,18 +469,6 @@ def _fmt_hours(seconds: int | None) -> str:
         return f"~{m}m" if m else ""
     hh = int(round(h))
     return f"~{hh}h"
-    s = str(iso_value).strip()
-    if not s:
-        return None
-    try:
-        if s.endswith("Z"):
-            s = s[:-1] + "+00:00"
-        dt = datetime.fromisoformat(s)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return format_datetime(dt.astimezone(timezone.utc))
-    except Exception:
-        return None
 
 
 def _fmt_size(bytes_value: int | None) -> str:
