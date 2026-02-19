@@ -1,5 +1,6 @@
 import { $, $all } from "../dom.js";
 import { readSpeakersIncludeOwn, writeSpeakersIncludeOwn } from "../model.js";
+import { qs, setQs } from "../util/url.js";
 
 export function applySpeakersUi() {
   var includeOwn = readSpeakersIncludeOwn();
@@ -54,6 +55,28 @@ export function applySpeakersUi() {
     }
   }
 
+  // Speakers index filter (client-only; filters by existing DOM/data attributes).
+  var filter = $("#speakers-filter");
+  if (filter) {
+    var statusEl = $("#speakers-filter-status");
+    var q = String(filter.value || "").trim().toLowerCase();
+    var items2 = $all("[data-speaker-row]");
+    var shown = 0;
+    items2.forEach(function (el) {
+      var name = String(el.getAttribute("data-name") || "").toLowerCase();
+      var hit = !q || name.includes(q);
+      if (hit) {
+        el.removeAttribute("hidden");
+        shown += 1;
+      } else {
+        el.setAttribute("hidden", "");
+      }
+    });
+    if (statusEl) {
+      statusEl.textContent = shown + " / " + items2.length;
+    }
+  }
+
   var speakerToggle = $("#speaker-include-own");
   if (speakerToggle) {
     speakerToggle.checked = includeOwn;
@@ -85,6 +108,13 @@ export function applySpeakersUi() {
 
 export function initSpeakersUi() {
   applySpeakersUi();
+  // Restore filter from querystring when on the speakers index.
+  var filter0 = $("#speakers-filter");
+  if (filter0 && !filter0.getAttribute("data-init")) {
+    filter0.setAttribute("data-init", "1");
+    var v0 = qs("sf") || "";
+    if (v0) filter0.value = v0;
+  }
   document.addEventListener("change", function (e) {
     var t = e.target;
     if (!t) return;
@@ -92,5 +122,13 @@ export function initSpeakersUi() {
       writeSpeakersIncludeOwn(Boolean(t.checked));
       applySpeakersUi();
     }
+  });
+
+  document.addEventListener("input", function (e) {
+    var t = e.target;
+    if (!t) return;
+    if (t.id !== "speakers-filter") return;
+    setQs("sf", String(t.value || "").trim() || null);
+    applySpeakersUi();
   });
 }

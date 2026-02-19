@@ -1509,15 +1509,23 @@ def main() -> int:
         )
 
     content = f"""
-    <h1>Speakers</h1>
-    <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise.</p>
-    <div class="card panel speaker-controls">
-      <div class="panel-head">
-        <h2>Appearances</h2>
-        <div class="muted" data-speakers-mode>Excluding own podcasts</div>
+    <div class="speakers-top">
+      <div class="speakers-head">
+        <h1>Speakers</h1>
+        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise.</p>
+        <div class="speakers-filter">
+          <input id="speakers-filter" class="speaker-filter-input" type="search" placeholder="Filter speakers…" autocomplete="off" />
+          <div id="speakers-filter-status" class="muted"></div>
+        </div>
       </div>
-      <label class="toggle"><input id="speakers-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
-      <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
+      <section class="card panel speaker-controls speaker-controls-subtle">
+        <div class="panel-head">
+          <h2>Appearances</h2>
+          <div class="muted" data-speakers-mode>Excluding own podcasts</div>
+        </div>
+        <label class="toggle"><input id="speakers-include-own" type="checkbox" {toggle_disabled_attr} /> Include own podcasts</label>
+        <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
+      </section>
     </div>
     <div class="grid speaker-grid" data-speaker-grid>
       {"".join(speaker_list_items) if speaker_list_items else "<div class=\"muted\">No speakers yet.</div>"}
