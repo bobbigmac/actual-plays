@@ -2,9 +2,10 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-02-19T03:16:14+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpFME16STBPVFkxTnpRPTo6c2F4ZXNz"`
-- max_episodes_per_feed: `200`
+- fetched_at: `2026-02-19T19:10:27+00:00`
+- checked_at: `2026-02-19T19:10:27+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpFME9EQTRNemszTWpRPTo6c2F4ZXNz"`
+- max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
 ```json
@@ -16,8 +17,42 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-02-19T03:16:14+00:00",
+  "fetched_at": "2026-02-19T19:10:27+00:00",
+  "owners": [
+    "William Hanson",
+    "Jordan North"
+  ],
+  "common_speakers": [],
+  "categories": [
+    "comedy/british",
+    "advice",
+    "life/relationships"
+  ],
   "episodes": [
+    {
+      "key": "86819d80cd55a24f15a409281ff8c12248f43732",
+      "title": "Jordan FAINTS | And Sushi With Half Pints",
+      "published_at": "2026-02-19T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordan-faints-and-sushi-with-half-pints",
+      "description": "There are a few things that stress Jordan out: to-do lists, unread messages, a missing dressing gown belt. But you’ll never guess the reason that made Jordan FAINT! The boys also cover their big plans for Jordan’s birthday and why Producer Ben is the Voldemort of Help I Sexted My Boss.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "28:11",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jordan",
+        "faint",
+        "sushi",
+        "half",
+        "pint"
+      ]
+    },
     {
       "key": "16eca36026c4a48861b5bea69472f677bf39ba04",
       "title": "Help There’s A Fishy Smell | And William Gets Chintzy",
@@ -27,10 +62,13 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1771233091790-a96a4e64-58e3-416d-8e14-913a1be0289c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/698f50ad4d911476d82d4bf4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CdIbeiYKK-4ha8boD6YjLA7G3zmIXQqFOTYt4gW0PVc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65708253",
       "itunes_duration": "45:17",
       "speakers": [
         "Fishy Smell",
-        "William Gets Chintzy"
+        "William Gets Chintzy",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "smell",
@@ -47,6 +85,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1770724831337-78a93ac9-ed3a-4ec2-b9f0-65ca4d0100ae.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/698a007768c8ed48f041e4c7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=tAcCIS2kMw3fjJYQIg04Xz_06Q2xRKtaRZR-n_J0fxU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37466219",
       "itunes_duration": "25:50",
       "speakers": [
         "Burnley Wallet",
@@ -68,6 +107,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1770648234108-6c9f763b-914c-4fa5-afd2-20558aafb9f8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6986268f45f62cfe9400d920/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MGl3PiwefXeJiHQylHm9Sq9ioZ4C8mQYTgCUl-qQBCQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62787499",
       "itunes_duration": "43:18",
       "speakers": [
         "William Hanson",
@@ -86,6 +126,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1770208527860-b4dc3609-0e08-41ea-a467-369b20bff9cb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69833c684b585239727cf010/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ya7qjQ-ZfKo3ToaWJZFA0dUGOaIaSk679LL0lOE6XBg",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50997476",
       "itunes_duration": "35:10",
       "speakers": [
         "Jordan’s Got",
@@ -109,6 +150,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1770054758321-c57bb334-84a2-486a-9a37-11a69b44b22e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/697f98c52cadcf64097c174c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pfOn-BpbtN6ymVJOyr_18T6awRBZGKJFBT3Jb_1M9cs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63361385",
       "itunes_duration": "43:43",
       "speakers": [
         "William Sees",
@@ -130,6 +172,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1769425205681-73b963db-e781-4fbe-a951-fc304d490b10.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6977343e1f18d4661c455be7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cEIoDNNF_mACbEvdgoMB1sn_oxV0O876E-7AkUPeI38",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73187447",
       "itunes_duration": "30:12",
       "speakers": [
         "William’s Got",
@@ -149,6 +192,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1769189934773-f871756b-e00b-4137-9658-df1562e053ae.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6973b20b9252830699c831f9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AUnYeFa2EyskSHQpucD-QWaDSgRpD8fo3HbfwVbqsec",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90129286",
       "itunes_duration": "46:54",
       "speakers": [
         "William Hanson",
@@ -168,6 +212,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1768834132809-8c491c32-ffec-407e-98c1-8927d31166b5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/696a5d6e98f7a1123ecbb4a9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vRBdHCiQpYLOVEttNv4cZePQCR8cOBT7WwRQNopSCcw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41479186",
       "itunes_duration": "28:37",
       "speakers": [
         "William Hanson",
@@ -189,6 +234,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1768577553008-8b6f9793-7846-462b-b878-2e1fc2805acb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/696a5a5298f7a1123eca4206/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=U0990CvzJTAt43S0JJTT8P8JRh-eM8RNj4658q0eKjc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65392509",
       "itunes_duration": "45:06",
       "speakers": [
         "William Hanson",
@@ -209,6 +255,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1768394280623-55d9e0f9-5533-4777-b990-a8ef4fdc15b8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69678e7d40cb06a2d4f0c9d6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rdY5ectCIlaKSFeoTwKxvYlhT9FvB1cZISrOx5_1Noo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67187649",
       "itunes_duration": "27:44",
       "speakers": [
         "Eating Curry",
@@ -235,6 +282,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1768229217289-c8d41593-8957-49ea-83ab-d0826c62c757.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6961396f3a409cca49eb56eb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=EMjrnZq38973lLrdnmANrlPucgQSKj3Q-TdxqD_ckd4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116120248",
       "itunes_duration": "48:00",
       "speakers": [
         "William Hanson",
@@ -255,6 +303,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1767891535891-06ff43b1-285b-4cb2-9e99-053a56013da4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/695fe230028ac0c607405988/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2ma21EkTS4kSbmf-_DJLdW2OwqRX0zyzX_-0f-rab7k",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44601810",
       "itunes_duration": "30:31",
       "speakers": [
         "William Hanson",
@@ -275,6 +324,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1767653950147-f4e974a7-bcc0-4149-bd12-0474e165de6d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/695c422cb1ddb8392c68a72e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Zb0QA20EXHxxXUCIkbgfguGesuV7RuXS3g7eSCyZKpk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64001232",
       "itunes_duration": "44:09",
       "speakers": [
         "William Hanson",
@@ -296,9 +346,10 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766231110076-7cbe1228-06d4-421a-a106-fd452835363e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69468c31e2b7985fa2737d11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=47pYqMkue8tDOLKUB2295TG_xClKlWirWiUNbEDpV58",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79117948",
       "itunes_duration": "54:31",
       "speakers": [
-        "William FINALLY",
+        "William Finally",
         "William Hanson",
         "Jordan North"
       ],
@@ -318,9 +369,12 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1765801506694-01eb38f6-8fd1-4634-96dd-8446189f58cf.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/693ffe157e21d19ff2ba1eb6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fDWO6i_zYQ2KiqcB87PLKqpD8wxO7SRcYjSC5BOXC-Q",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45342211",
       "itunes_duration": "31:13",
       "speakers": [
-        "Believe William"
+        "Believe William",
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "best",
@@ -340,6 +394,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1765799765232-39b4e659-0458-4f73-a975-a761ba929d18.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/693c6e4941eacf5e813c1ad5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_XiEQXkjM1Gn8P0UKwJH-t5GL3bffyY1sksrCticQi0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62789506",
       "itunes_duration": "43:17",
       "speakers": [
         "William Hanson",
@@ -360,6 +415,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1765204823933-46affd01-cea8-4184-87e9-89fe1fd5bb97.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6936e3a73929b3e55829d3bd/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4-DDdvzwK5Q191E41yT4sn2hrnRDyiinSvlKQ07jlek",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52910071",
       "itunes_duration": "36:29",
       "speakers": [
         "William Loves",
@@ -382,6 +438,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1765007917500-4c6c4ecb-720c-47c3-a5be-52c4594c8a44.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6933e38f38a11f5f3e4b443c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eXzo799Jbu3ZKFq1PA220-Ds4XfR0LJA_h6BazC3Fbw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71042158",
       "itunes_duration": "49:00",
       "speakers": [
         "William Hanson",
@@ -403,6 +460,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1764593375274-6931c3a5-0286-4e54-b84b-2bd8638512fa.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/692d918e68ea3a34931b471b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uAN8ortE3RbAjcuGLi5P2xSQesgvLhg7BeUTPL0Go0Q",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60239397",
       "itunes_duration": "24:54",
       "speakers": [
         "Gua Sha",
@@ -427,9 +485,10 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1764348572429-4a4e9eff-a63d-4c9e-b8a0-bacf5425981f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6929d2895cace2e2a5db1d29/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZlYgukbkTuTGythuaGFd_lIEyj-uV_5uHwUgCdnZ5zQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117842721",
       "itunes_duration": "48:45",
       "speakers": [
-        "Jordan Get SLOSHED",
+        "Jordan Get Sloshed",
         "William Hanson",
         "Jordan North"
       ],
@@ -451,11 +510,12 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/692731681874a1556d484931/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bKt2xr6edjiTveS8Vb0R84oBI-v1NVBys_Sz-kTz6cA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43713106",
       "itunes_duration": "30:10",
       "speakers": [
         "Jon Sopel",
         "Plus William",
-        "Henry VIII",
+        "Henry Viii",
         "William Hanson",
         "Jordan North"
       ],
@@ -477,6 +537,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6920965f53b254a5382eacdf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xgQwisVl_C0_2aws4Z8qlQyLmiHtJd0fBI09RUOBWRo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67643529",
       "itunes_duration": "46:42",
       "speakers": [
         "William Hanson",
@@ -497,6 +558,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/691e25ddcce7a2a565dfda16/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iextQ4oIJPt1-H7tojN7stLtnVfaG7OsMfp3CO_SdWQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46003531",
       "itunes_duration": "31:42",
       "speakers": [
         "William Hanson",
@@ -518,6 +580,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69176263c66f88b092355519/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mhBWLTv7xqy-Y9gEhNlQ0J6Fv-e2bJSep6G8AeE01UE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67427335",
       "itunes_duration": "46:27",
       "speakers": [
         "William Hanson",
@@ -539,6 +602,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6914e237543edcb560187cc4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=IePQ7L2QeiPRhC7h-Y8AsS99GdfNAPuOYc8iugLYRts",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45055923",
       "itunes_duration": "31:05",
       "speakers": [
         "William Hanson",
@@ -559,6 +623,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/690e21ba6d62d4e03d77ab95/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9BQ3uwmD1GVmsw6sGfCKI9vy_aD8OZidaW-B-5ag3Uc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114051100",
       "itunes_duration": "47:01",
       "speakers": [
         "Drag Race",
@@ -581,6 +646,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/690a11ea2f5fdede34d3c1cf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=w2aCVxNGK4KS8a4M2f-uXmpOkplAFk1S-A4Ualwdb7k",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31759083",
       "itunes_duration": "21:51",
       "speakers": [
         "William Hanson",
@@ -603,6 +669,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6904bf933906f8011abb109a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eOo6LTUceAiNFf9RZt-QnAXwgdD6dixkL_i4dVxrizk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62951929",
       "itunes_duration": "43:22",
       "speakers": [
         "William Hanson",
@@ -625,6 +692,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1761731688372-affc94e9-933b-4fc2-a7a9-44487bc66ca8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6901e4381c14e95bd29f24ce/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=W5nAdETh_wI6-4ug6xxzIH3NlQ86Cyo-cjYRzMo3Uow",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67674227",
       "itunes_duration": "46:33",
       "speakers": [
         "William Hanson",
@@ -648,6 +716,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68fb996887c8651e8b304020/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZMJTAu_4uLdAz8Uq1Uu2g8j7fQJIbaYHssjGM9Gkk30",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120800640",
       "itunes_duration": "50:20",
       "speakers": [
         "William Hanson",
@@ -664,6 +733,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68f7b2bf9f15badf874be41b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KAuYwoUwv323x_H0vBkjccxemDn_qwW4aZEHHmoEguc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70545992",
       "itunes_duration": "29:22",
       "speakers": [
         "Builder Kinks",
@@ -686,6 +756,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68f5e0e3e2cf93c3144d8831/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=649JqNYF8wGLivhBK8kgMGyGVYYn00DGjTNuspSkKBk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96848289",
       "itunes_duration": "40:02",
       "speakers": [
         "Desmond Tutu",
@@ -706,6 +777,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68e92ecfde9a2a62c4c46f25/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=aLQ4UbRO--XgeKwqGLDJaPCrSGw2QWoYafc6XDCjHdE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41164295",
       "itunes_duration": "28:21",
       "speakers": [
         "Bottom Badges William",
@@ -730,6 +802,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68e92ab30e4672536aa0d03f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8Kh035uasOk48hw6kVi3TpAPXzTsAFkTTt6-qMW2l00",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72773854",
       "itunes_duration": "50:08",
       "speakers": [
         "Taylor Swift",
@@ -750,6 +823,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68e54346f513ad2b818c5a81/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=l9O69G4jpg19NdjZRDs0f-P9eZ0hynX3EavuxnrEzHs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38978192",
       "itunes_duration": "26:52",
       "speakers": [
         "Arena Wembley",
@@ -771,6 +845,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68dfeb1259fa988cc427b642/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0P_xEmh2KuXlESRtPgVAjatgzrOA4y2YJd1CpN2Wua8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124072320",
       "itunes_duration": "51:41",
       "speakers": [
         "Arena Wembley",
@@ -790,6 +865,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68dd4aec7be17a7f017cd6b8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qeJINhbDvRt4nOu3m6_DU1BWvnNAAOQeeYcatAit-AE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65664213",
       "itunes_duration": "27:09",
       "speakers": [
         "Horse Beans",
@@ -815,6 +891,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68d98b5786008eb230fefb45/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rzMMC9No4GLlO9IcOhgPSNBTT173ZAZDe0vrKlKBVA8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99209904",
       "itunes_duration": "41:03",
       "speakers": [
         "Thankfully William",
@@ -835,6 +912,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68d5684bacc34956e6e7ded7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=d0kpjWP3b8Srx6XH5ahjztj-TJ08Nun-aaggDsGierI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43528234",
       "itunes_duration": "30:01",
       "speakers": [
         "William’s Lies",
@@ -864,6 +942,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68d15ddd7d53f4238e3c17bd/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Bv0ew-A4cfF46lwf08LjFIbtXg8uAcnspV7JHlfcy-U",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71068208",
       "itunes_duration": "49:02",
       "speakers": [
         "Arena Wembley",
@@ -883,6 +962,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68cc3a0659fdf3f531e24f9a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fQ15PnVzHdVOZHvod2M8ZSumtsXUs5U9FVquyU-4eB0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70455738",
       "itunes_duration": "29:12",
       "speakers": [
         "Drag Names",
@@ -907,6 +987,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68c83617c5a5560eacf11fc3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6qLFvIySOEKS8NOjeMLniDH8wKd0DRPpGZ134eM4C3c",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59805006",
       "itunes_duration": "41:06",
       "speakers": [
         "William Hanson",
@@ -926,6 +1007,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68c2c86905de5daa22003c99/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nzg-gZflbennMBWQ5DOzLEZVTqYRXpJB1r8ZuRX9UIg",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37380412",
       "itunes_duration": "25:45",
       "speakers": [
         "Chopstick Etiquette",
@@ -949,6 +1031,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68bf1b6dc09bac327387f3f2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cLcZEuD7tUpRrvre8y6UtXHdJaHC-pbrwdUt6V3doeM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102851907",
       "itunes_duration": "42:39",
       "speakers": [
         "Producer Ben",
@@ -968,6 +1051,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68b9c4f945004e42c9793389/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UhpL3vz3STOSeGAWHP4uFbolLsw0--9eVpfahnj2kVQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34374517",
       "itunes_duration": "23:41",
       "speakers": [
         "William Hanson",
@@ -990,6 +1074,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68b5f61b71ccb00a03eef7c6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=tnMmziQplxvxdpHkzK9pQeMsphwQrj1okztW7erFSSE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107547379",
       "itunes_duration": "44:37",
       "speakers": [
         "William Hanson",
@@ -1008,6 +1093,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68af5aa61ec4fc7576742610/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hqYVGXOkh5WQxuRY47QAKXLLt2Ubkv0iYi4iU8SX7A8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39501248",
       "itunes_duration": "27:15",
       "speakers": [
         "William Hanson",
@@ -1030,6 +1116,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68a8977b718453410e53df54/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BJuqSfxnbxXVjzrcPjojomff-jgNacLe049I0GFQ8RY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65387958",
       "itunes_duration": "45:09",
       "speakers": [
         "Drumstick Back William",
@@ -1050,6 +1137,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68a747fd7339ce61dbbdc9f4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qBe4GsMtXd1qX5v9WEUy3Mp6Y6h1Ow0YpcdKyUwITxk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42724093",
       "itunes_duration": "29:24",
       "speakers": [
         "Wigan Kebab",
@@ -1074,6 +1162,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68a37962457a24bb9501ab11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XbtJmGCXhgNRrC87WgM66T-v9JgAE38RiuBjlS7aob4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57742634",
       "itunes_duration": "39:49",
       "speakers": [
         "William Hanson",
@@ -1092,6 +1181,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/689de6b5290bdec8f91d6c6e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mVqAAjp3_EP4x5CNLMgO9PRzDQOh7gWi7pVWAxxKxoc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60708935",
       "itunes_duration": "41:56",
       "speakers": [
         "Grey Joggers",
@@ -1115,6 +1205,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/689a044b2dbca7f6698890cb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AF3U8WUZtse4h0v7_PFuS1YrV9IZjika-fcHkN-kOQA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63867019",
       "itunes_duration": "44:06",
       "speakers": [
         "William Hanson",
@@ -1133,6 +1224,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6894cbb2b84a51f5128a8a11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pyfwESNxgXxPrqoev7NXn2jG5kvIbQahPjiFT_7fEsQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44745818",
       "itunes_duration": "30:52",
       "speakers": [
         "William Hanson",
@@ -1154,6 +1246,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68907d494c7681cc0ee77655/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7AdNDzo7jqP1ljYOtgV3I5QwDMCPROB5l_3PYvCBKy4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63981788",
       "itunes_duration": "44:10",
       "speakers": [
         "William Hanson",
@@ -1173,6 +1266,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/688b9946fc150bcf7fe3b1ea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cVlLyeAUtxLkzxVSsLqgsfMgrRGm9vrfmnyDyKc-WF0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40081872",
       "itunes_duration": "27:16",
       "speakers": [
         "Airport Attire",
@@ -1198,6 +1292,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6887b46d6e658a8b3c6d8c5f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Ul2kwV60llE__ZbxXQhSApDQHhbD3i6ioAulfWNUHAo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65317629",
       "itunes_duration": "50:42",
       "speakers": [
         "William Hanson",
@@ -1216,6 +1311,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/688313533781311f9117c01d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qq97VgAVPmWkSpsZh055d7k8tCKd7ARdGJZA36NEmKA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46108521",
       "itunes_duration": "31:47",
       "speakers": [
         "William Hanson",
@@ -1236,6 +1332,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/688119c5f6d4262b07de69f8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ogTWpSKvvPokCCdtsAgxZkC3ECDqiFw_4jct51y-HCI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39868920",
       "itunes_duration": "27:34",
       "speakers": [
         "Producer Ben",
@@ -1255,6 +1352,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/687e693cffe3b22d13ecaa9d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hOZsM7pqVWxlr5HIk_uxaXagBgytdso9DRmYusxM5Ag",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74231970",
       "itunes_duration": "51:15",
       "speakers": [
         "William Hanson",
@@ -1273,6 +1371,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/687932d80d2a218993dfe0b8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jUfbF5JKk2uOU-fPDF6r0WVtVsn20mZaXpIrNB5FQm0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40030963",
       "itunes_duration": "27:47",
       "speakers": [
         "William Hanson",
@@ -1295,6 +1394,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68754c8812713a20e1a951d4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=A3khQThtDMGL7QIK1TMx4_1_IpP8wMJEtwqTPi49res",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61041210",
       "itunes_duration": "42:06",
       "speakers": [
         "William Hanson",
@@ -1313,6 +1413,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6870353d610560d3ef157e65/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=g8Ox_gi1OvfohWA6Bgr4vfQh1WmqFcdLgGEcl0nOBhY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28074545",
       "itunes_duration": "28:55",
       "speakers": [
         "William Hanson",
@@ -1334,6 +1435,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/686befafadc6a61ba8eab393/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=X4vxPPTBmuQh9RQ7O1gos4C78NpvuFVjPmcH4VzDbfo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80160000",
       "itunes_duration": "33:24",
       "speakers": [
         "Greg James",
@@ -1354,6 +1456,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6866a73ac5e2437fab2a51ed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vmXajg6-ZhBfXn7aqSMwMmnONOHq-cIR94OGE5g_aso",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48682917",
       "itunes_duration": "33:32",
       "speakers": [
         "Guessing Northerners",
@@ -1377,6 +1480,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6862fa9cf1f233736974ac64/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mVir1ydkBqA5bQyZ3rWDNhQqfiU43DK9imwQypS2Yx0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68653938",
       "itunes_duration": "47:21",
       "speakers": [
         "William Hanson",
@@ -1395,6 +1499,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/685d2c7ce36cea9c16fe8e2f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VkzM7XH_XihNrWeATXZ99We_yXrmgCKfp03SyCFn6R4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41794163",
       "itunes_duration": "28:49",
       "speakers": [
         "William Hanson",
@@ -1418,6 +1523,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/685972dc8bc1d32b98e60ce9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=aUO23cZtrbvHYRXhqSc9BeL0wwiwNPEGk6rPN2-ujrE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45182155",
       "itunes_duration": "47:03",
       "speakers": [
         "Dixon Dallas",
@@ -1438,6 +1544,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/685444b30bed216db7cc3915/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e6RFnPcBZyK7SwRryxR31DlbC5agzXKTI5RFND3DiOM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44083460",
       "itunes_duration": "18:08",
       "speakers": [
         "Couples Massage",
@@ -1460,6 +1567,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6850888193784109e6cb8ffa/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QraeVfPzg79dvoDkf5HuqaU6p901wvyhgdssYBtHwFo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108581518",
       "itunes_duration": "44:54",
       "speakers": [
         "William Hanson",
@@ -1478,6 +1586,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68486b4db0b18fac07df7bc5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XT2AbnKEHlAE67ZE-lLCCW0rrDc-fJAq3eSHEOt9dsA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71760646",
       "itunes_duration": "29:38",
       "speakers": [
         "William Hanson",
@@ -1498,6 +1607,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6847014eb0b18fac077224da/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qNwaEcOC0bBjyx7bg92bc8hTh7IQ7EFrw-6p5YVgVG4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131047173",
       "itunes_duration": "54:09",
       "speakers": [
         "William Hanson",
@@ -1517,6 +1627,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6841f89ba13d3373732fce97/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yUpDGCWbDrAwivragRYLjLvTAJro2F-CyTrDeYp-4EM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54017867",
       "itunes_duration": "22:27",
       "speakers": [
         "Squatting Painters",
@@ -1543,6 +1654,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6839cab75b56407fa4037f11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=34mmgH8wcEcmKLWgPHAbkle7NOp7PxAHL1bquSg4zvE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127912821",
       "itunes_duration": "53:12",
       "speakers": [
         "William Hanson",
@@ -1563,6 +1675,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68387ba42780b226c7261d1e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=TnG8o2zlWIK1jo4kkHHpo7QkkOz6__EMWGG5dXFgSn0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53485387",
       "itunes_duration": "22:15",
       "speakers": [
         "Hairy Bums",
@@ -1588,6 +1701,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68306563fc865cdd04e4e0bb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=g4G88XCJnscNci1JGnvAh1oCIk_5U3mkJfMkrGleHwU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108899574",
       "itunes_duration": "44:57",
       "speakers": [
         "William Hanson",
@@ -1606,6 +1720,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/682f3c76381499796b750a71/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mHtgQcbBkwvaGjejKvucijc4lmuddChrNJff5j010MU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67582640",
       "itunes_duration": "28:03",
       "speakers": [
         "William Hanson",
@@ -1626,6 +1741,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/682b5a0fe8a66fad6dc47c10/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5rmoHv-sKcrBPLzbwN8hXQ57EkUFMbJEs_XmY43FgUY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106220160",
       "itunes_duration": "44:15",
       "speakers": [
         "William Hanson",
@@ -1645,9 +1761,10 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6825dcb03e2c04fd7a1b8c11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=By8JIdfIeBYcj1Ge1drMQcalFmPTLWPE_vR0BD0QD1k",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31240556",
       "itunes_duration": "21:31",
       "speakers": [
-        "Download SAILY",
+        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1669,9 +1786,10 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68221f06182b2144af564099/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CVYymUzVHO6x7icrsquIs9MlaXSGr_2gNv5zoRggr30",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71787774",
       "itunes_duration": "49:31",
       "speakers": [
-        "Download SAILY",
+        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1688,12 +1806,13 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/681cedd15acb8b715f28532a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=SDrt5186xXlUGcJwbZk5toFsh04ORaxqZaka_pJg47o",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40306758",
       "itunes_duration": "27:46",
       "speakers": [
         "Horny Ben",
         "Jonathan Vernon-Smith",
         "Producer Ben",
-        "Download SAILY",
+        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1712,9 +1831,10 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6814d0f4f3c711a5d0b42eef/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nuEiN353dKtAAop2NT35hDoTlcZHG_PR3oY7crFMsto",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63805543",
       "itunes_duration": "44:18",
       "speakers": [
-        "Download SAILY",
+        "Download Saily",
         "William Hanson",
         "Jordan North"
       ],
@@ -1731,6 +1851,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6813af916ac0e5213bf10ec2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=F-uVo3exfPrjKPVu8SOTw2nLsYqUdum898R87wJxrik",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40473904",
       "itunes_duration": "28:06",
       "speakers": [
         "Producer Ben",
@@ -1753,6 +1874,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/680f9b4a9704d99f84b71400/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Z4E0OrILESZ4tOYabRkJMXcDGIkJBi5sV68tGOZ4leU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105916928",
       "itunes_duration": "44:07",
       "speakers": [
         "William’s Jolly Joke",
@@ -1772,6 +1894,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/680a63a2989b552478c5604b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_rWk08qjVoNitqhoX63VF0wm48hwUyt2MLMp6D97XuY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68207168",
       "itunes_duration": "28:25",
       "speakers": [
         "William Hanson",
@@ -1792,6 +1915,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6801621b6aefdc1cfccaee4e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=SsHuorkDllLmddR-CNK2uEMHFmd6qnTNISduIfVPUxw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78923648",
       "itunes_duration": "32:53",
       "speakers": [
         "William Hanson",
@@ -1808,6 +1932,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/68016163380884156932fe5b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=TJ1c-pd2db3xAiNEOK-LymFhF6Vl0KVVfxvYuzdC16E",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45453248",
       "itunes_duration": "18:56",
       "speakers": [
         "William Hanson",
@@ -1830,6 +1955,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67fcf7037b4fe9379b0bbdf4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zRpRhDuOAtYopji0LK50vuYbkTZDqVZTwHiOayJbnrY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109402688",
       "itunes_duration": "45:35",
       "speakers": [
         "Toenail Jordan",
@@ -1851,6 +1977,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67f7df76c036a69e7751fa7e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lKhBibZ6EQv4E00A5UDpqv5cvVmtf-ZRT1FtYhmcEZQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45628928",
       "itunes_duration": "19:00",
       "speakers": [
         "William Hanson",
@@ -1871,6 +1998,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67f454b0f20dfdb29b41f03e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=y3YOsF3Kv_KYifyxqVvBFU5hvNojeDiBoQpnPi4waNQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101911808",
       "itunes_duration": "42:27",
       "speakers": [
         "William Hanson",
@@ -1889,6 +2017,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67eec180da5ebf8764479b0c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=d0-0HjPcq9lcQOUKNIL5s7VeNtt19pCv9MnSWtkmO50",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64096448",
       "itunes_duration": "26:42",
       "speakers": [
         "William Hanson",
@@ -1910,6 +2039,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67ea78ff02e789100fdcac74/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Eqj1dWG1OO5E1s6R5DGuR5c5a7sN-dr1R-3TLoGHwh0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96490688",
       "itunes_duration": "40:12",
       "speakers": [
         "William Hanson",
@@ -1928,6 +2058,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67e596ce883ec8176a252078/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lGXZzhAdgeJzl1HP2SXvqu1xnlajnlvxJUqyim_EnFU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49840448",
       "itunes_duration": "20:46",
       "speakers": [
         "Stretch Limos",
@@ -1953,6 +2084,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67e1a19665ed64b24f4254f1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Hyw4rO3zfiHwf-QR466_yAFGlL93LAgJQVdYCRYzZSs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99547328",
       "itunes_duration": "41:28",
       "speakers": [
         "William Hanson",
@@ -1972,6 +2104,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67dc429f782fc3c7c6d1a603/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=d-GJH1-tLWS6hTFQLoGakRQ6CW9iNyAmnG8gsgDAnHU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60233408",
       "itunes_duration": "25:05",
       "speakers": [
         "Sloshed Singing",
@@ -1996,6 +2129,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67d85e3dd1082558c5e2ce01/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oZ0MN3qpQFgdMpISVFWt0ImYb_9m8vWcaxxoQt4JuVo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125834048",
       "itunes_duration": "52:25",
       "speakers": [
         "William Hanson",
@@ -2015,6 +2149,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67d3f124685d5d7844a9bdc2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zuox3QyONJ5yiVwHqSEmeotVCgDZRev3CY3O246cdwI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56483648",
       "itunes_duration": "23:32",
       "speakers": [
         "William Hanson",
@@ -2039,6 +2174,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67cf29a61d5ad0b32e7e3bb6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cdf9BwmK61haOYIVSHSoS6YH5hvjdCSh0ikp4ZI1Zdc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85101248",
       "itunes_duration": "35:27",
       "speakers": [
         "William Hanson",
@@ -2055,6 +2191,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67c9f8d922c74795c3126387/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=29CDwBB-hH9N93ULMgBwVwbbbUCDyTiNFglx2hBX_68",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57677888",
       "itunes_duration": "24:01",
       "speakers": [
         "William Hanson",
@@ -2078,6 +2215,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67c5e37bde7014d61d71a182/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WcDkhlmj9b_ajVDtMqNeCnVsqCj3wI44DtrJAKNohDY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105305408",
       "itunes_duration": "43:52",
       "speakers": [
         "Sarah Hanson",
@@ -2098,6 +2236,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67c0c183cabc05e91c68d91d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9wZfqtgfyNXVCH95NUO8heWZ8hYJ_Q-nMIw6qgpM0gs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69151808",
       "itunes_duration": "28:48",
       "speakers": [
         "Jordan Smith",
@@ -2123,6 +2262,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67bce05036fc42b73fb3d20d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9XgUr62WYdXkSDEN44vhvD9If4E4W3jbZe0k8DS-Jjw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107438528",
       "itunes_duration": "44:45",
       "speakers": [
         "William Hanson",
@@ -2139,6 +2279,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67b767fcaf08fb1833939dff/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=X9MQkBOuNfSJ-onUpdBxl_7vWi6CwQgM_37z77-Tyj8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45089408",
       "itunes_duration": "18:47",
       "speakers": [
         "Career Changes",
@@ -2163,6 +2304,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67b371574d9bd1092cc60f1e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LsIbbvC8Mxo4rc9CcYEwBC7U46rDrwNMbf4XkAqiZSM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119624768",
       "itunes_duration": "49:50",
       "speakers": [
         "William’s Etiquettimology",
@@ -2182,6 +2324,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67ae347ee54c8d17288fbdf7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=a4pMByeFaiFpldt-vmMtFnZMqxzS7S_VXtJ73LItP8w",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60281408",
       "itunes_duration": "25:07",
       "speakers": [
         "William Hanson",
@@ -2204,6 +2347,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67aa44473ef0b176eac6dca1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vLhzTiPkT79FgMkMGKEe8_Cm__hZDGsQDt1ohFM2sH4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117402368",
       "itunes_duration": "48:55",
       "speakers": [
         "William Hanson",
@@ -2223,6 +2367,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67a4ede1340a5590cd5ff64d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=s0vNOPG8i91Eq4xVT_GewTp7BGoS0TFpVlJTCXqZO-4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51019328",
       "itunes_duration": "21:15",
       "speakers": [
         "Impending Izzy",
@@ -2246,6 +2391,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67a11cc2f0aed667c51c332d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oSg71VK1M3vYP6Trf716fgNGrv_Evsh1bLf9wVUPtug",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98255168",
       "itunes_duration": "40:56",
       "speakers": [
         "Muff Drying William",
@@ -2266,6 +2412,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/679bbfba74564c4194bad39c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jPkWW0VAqXKkVzOnK_I5wNP0PaJ-sAYsl33ex_2Wm5Q",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53611328",
       "itunes_duration": "22:20",
       "speakers": [
         "Fancy Gays",
@@ -2289,6 +2436,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6797c8d5673aa382e1f37eb3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5BkLRJrRSNyDyU8-_WZzwEiwmNZam0_oswXkHpohX7c",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101845568",
       "itunes_duration": "42:26",
       "speakers": [
         "William Hanson",
@@ -2308,6 +2456,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/679272cdd50dd45655d85815/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9ZENoVASM2ypgG7rXJLU0Tv7ly6sHxlFxnrQTaz__wc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45919808",
       "itunes_duration": "19:07",
       "speakers": [
         "William Hanson",
@@ -2328,6 +2477,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/678e8a2c16bc7a8545e5cc9b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7thNi_CTtcC5GQyyrWU-sLIwMa7aw_CUtaWaVTfrLq4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100993088",
       "itunes_duration": "42:04",
       "speakers": [
         "William Hanson",
@@ -2346,6 +2496,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67895ea8c2824244c289f213/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=py_k1t9_u-3bz8orgqixrxTz9f1ponndJTO-_DvcBVQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53163968",
       "itunes_duration": "22:09",
       "speakers": [
         "Fierce Feuds",
@@ -2369,6 +2520,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6785a29c18c69df1bd3c9461/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6DlnubOzMq8p4CHIegKTbjsOUlrN576pP3C-hY_Ut0M",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104083328",
       "itunes_duration": "43:22",
       "speakers": [
         "Ben’s Big Button",
@@ -2388,6 +2540,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67698ca52931d58818228ada/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1NTmfTqvciXoQvhWlUx_hDTKjWExo48VJM_3QGByQ0E",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96959168",
       "itunes_duration": "40:23",
       "speakers": [
         "William Hanson",
@@ -2409,6 +2562,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/676467720033250918afec2f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LMAp5KTcpykXXf0HBbnqjxc2_GD1FgBhFA5phWw04Uw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63432128",
       "itunes_duration": "26:25",
       "speakers": [
         "Secret Santa",
@@ -2431,6 +2585,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67606e5c9b72f37e5d8ba0cb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lNchfehu06to_x5wm55ELl2f1112lL4CNy6c6g1Dz1I",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79370048",
       "itunes_duration": "33:04",
       "speakers": [
         "William Hanson",
@@ -2449,6 +2604,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/675b267ab8324e024f9366f9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pI7lgcscrNUiLqfNoxrNNMwdNIWRlMbA_gzpXgckf5Y",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73931648",
       "itunes_duration": "30:48",
       "speakers": [
         "Nuisance Bills",
@@ -2472,6 +2628,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67572c4a2dd88df13221c492/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e5bLYggm6apgd5pf13mTn8PTxtnZtcE3MQjPqUCuYIM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113553728",
       "itunes_duration": "47:18",
       "speakers": [
         "William Hanson",
@@ -2492,6 +2649,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6751dcd2443d3a9d8c22fda6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NlLiVMihrHMB_WZ_mHLnajDXDQwNB2GorE735L5-Cig",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41218688",
       "itunes_duration": "17:10",
       "speakers": [
         "William thankfully",
@@ -2514,6 +2672,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/674e23874cf32e7b94469a08/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=B-wmecOdkYZbo7sdkN0SWdsoIpohfOZ9OVgHbsquVBA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110558528",
       "itunes_duration": "46:03",
       "speakers": [
         "William Hanson",
@@ -2532,6 +2691,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6748a29ebbe21d4794cb237c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jCgfgowUazyzdEjn3Yoys9nU5Y3kRWdU1YQ3De0kocU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47267648",
       "itunes_duration": "19:41",
       "speakers": [
         "William Hanson",
@@ -2553,6 +2713,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6744ebed507c8fc412049e9c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5cshNqaoWR8Nd3FIrR7Ww3Ch58bnom31OQv7lvHI5oc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97558208",
       "itunes_duration": "40:38",
       "speakers": [
         "William Hanson",
@@ -2571,6 +2732,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/673fd1fd998cf05ebe2ab82f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=b0VS771IIw6Q2XLefNKtGrXf-sCQ2oWor1iFZl57laQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50032448",
       "itunes_duration": "20:50",
       "speakers": [
         "Jane McDonald",
@@ -2593,6 +2755,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/673b5f7a9f81126104537e5c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NkyytnJfaM7N3rb35o0H20zDOiEvWPbxNNAVVAnAAdI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90921728",
       "itunes_duration": "37:53",
       "speakers": [
         "William Hanson",
@@ -2613,10 +2776,11 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67362cb9040267d4ef277ab7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mmehTafG687CRh55166vgvXSKRgkszjSvBj7HGso26E",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45659648",
       "itunes_duration": "19:01",
       "speakers": [
         "Mistaken Messages",
-        "VIG Divas",
+        "Vig Divas",
         "William Hanson",
         "Jordan North"
       ],
@@ -2636,6 +2800,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6732401d9e7b27e0acf42751/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YNck1CK58yEH5U-B9WYKTWkEqET7LtwIhMm1yjF7avY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102837248",
       "itunes_duration": "42:50",
       "speakers": [
         "William Hanson",
@@ -2654,6 +2819,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/672cf23989045d7064f4c4c1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2sTDkd80GWuAfe2KHAWXP5y0pJ5-XGl_p_Ksx3yhliY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64631168",
       "itunes_duration": "26:55",
       "speakers": [
         "William Hanson",
@@ -2675,6 +2841,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1730978224489-c4b8dffd-caa1-4745-8eb5-9c62ee45b2b0.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/672b7898afa9526ed4adf5ce/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UQANTqxlDQXyMCUknF2gJQnYa4hjypcJI71AG6L2D7M",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42480511",
       "itunes_duration": "35:45",
       "speakers": [
         "Wildest Dreams",
@@ -2694,6 +2861,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6729120c5b575bc851c88a40/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=J8PwIpY1uppzUwE-LUAv7yV9V_TqUptzEck0Ngvq8uI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102478208",
       "itunes_duration": "42:41",
       "speakers": [
         "William Hanson",
@@ -2714,6 +2882,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67237827981ad02cb41c2e49/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=llv8JPIdTFUr_h3l9XDkrI2tIpKpjF0tiawPx1CX6Hk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39155648",
       "itunes_duration": "16:18",
       "speakers": [
         "Childhood Nostalgia",
@@ -2740,6 +2909,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/671fcedae8ec1601a9a91f22/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=h5wbJbk2KaUf-1MKQq-yZ_3IgryE7ngsta7WT0qrU1c",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93034688",
       "itunes_duration": "38:45",
       "speakers": [
         "William Hanson",
@@ -2758,6 +2928,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/671a76ec2fac6d24e7d0ea2e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0zdNj_Q47t_ZlnlsduqsOFvMjhLXDA96KxBEmyTUNG4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60731648",
       "itunes_duration": "25:18",
       "speakers": [
         "Jordan’s Jobs",
@@ -2784,6 +2955,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/671685ce83ac9fccac770c80/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xmXR5KHGRJkpLCsuXjPvhQZRB748mn4OtopMK_lwKFU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102232448",
       "itunes_duration": "42:35",
       "speakers": [
         "William Hanson",
@@ -2803,6 +2975,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6711454b0c127cea51fb8d89/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WG3KtDl28zw4asq6UnythZCWa1jlRyBhWDwBdDesTJ4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49782848",
       "itunes_duration": "20:44",
       "speakers": [
         "Provocative Prints William",
@@ -2825,6 +2998,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/670d7247883ece12586d73d7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xVFXpJJp2JWEmv9OGBYqkyS1OR3fy64fZjTp3SvZXts",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111617408",
       "itunes_duration": "46:30",
       "speakers": [
         "Kebab Box",
@@ -2844,6 +3018,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6708111ff7743dfe52e9c7d1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pzuCMJ8dnrrvQAqsfBLIs1e4_vIbA_AFVDTM5tJpQMc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49032128",
       "itunes_duration": "20:25",
       "speakers": [
         "Snot Bubbles",
@@ -2869,6 +3044,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1728486740212-c7af287c-acbb-40e1-b73f-10c76c571c0d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/67069d5847b414d1545f9c91/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XYuNuwkhbApzkEXzgxrlm_U-cSd5gJQyx7quJYZAsGA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93589568",
       "itunes_duration": "38:59",
       "speakers": [
         "William Hanson",
@@ -2890,6 +3066,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6703f9801a3de581c66cc476/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6z_BqJM_D9iLn9Ie_UWIR0HJvFI-063lEWxeXHaX5mo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95386688",
       "itunes_duration": "39:44",
       "speakers": [
         "William Hanson",
@@ -2909,6 +3086,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66fea2d963073ba71b94114c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YfABZ7qeDwiq53zuK3P42EqOtSl1qPJOS1Y_SpBdYfM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36432128",
       "itunes_duration": "15:10",
       "speakers": [
         "Sketchy Sketches",
@@ -2933,6 +3111,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66fae9080c143345895b0485/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=11salC0Ktfl8o7mSe_41FMhCq7o-3v1L6B76H26D6jc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98877248",
       "itunes_duration": "41:11",
       "speakers": [
         "Producer Ben",
@@ -2952,6 +3131,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66f58b9c337e6a756fdc2d43/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nfYN1M2mr6oUG1lmxcbOpfOTp4zY_Xya6fTg8Y4dkxY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57157568",
       "itunes_duration": "23:48",
       "speakers": [
         "William Hanson",
@@ -2973,6 +3153,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66f1976853d1bcf49e86ab2f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pVeAUBKfWqDJacvMJeSeHLIl5yoUW0ZPfJZ3oNV7oVM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92984768",
       "itunes_duration": "38:44",
       "speakers": [
         "William Hanson",
@@ -2991,6 +3172,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66ec73c333bbf1325dcba7ac/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Q_eLw-1-SiTA7OG-AtvSE_pUnzVp2QItK0fx4J4z5Z4",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57582848",
       "itunes_duration": "23:59",
       "speakers": [
         "William’s Pranks",
@@ -3016,6 +3198,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66e82755090e4349ddb43464/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=faupLXbpmKVBCwZUc1DfpsF20c6yVxiN88Jm3XO6heM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91008128",
       "itunes_duration": "37:55",
       "speakers": [
         "William Hanson",
@@ -3034,6 +3217,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66e31d76547e9546dfad6f27/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=o1c6W8_iHE2AL-wR7cYHGbe9N036WiAo1hfDMZVd-oQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43880768",
       "itunes_duration": "18:17",
       "speakers": [
         "Sore Throats",
@@ -3059,6 +3243,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66df2839e43b7932e4471ab2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zQsGmrR33rHrRkutv6R9U3-GRF6xeLuyl9KKoq2v0q0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94742528",
       "itunes_duration": "39:28",
       "speakers": [
         "William Hanson",
@@ -3077,6 +3262,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66d9e64329a27e31673ae793/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Z6xFXavXvbQje8FSgnDymKYKsHbPfb_SeYHVoe35FBY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66295808",
       "itunes_duration": "27:37",
       "speakers": [
         "William Hanson",
@@ -3098,6 +3284,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1725466354326-6c073ea2-c15a-43a2-a794-7b9f5ae7588f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66d87fd7202da66c8d9e3b78/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YEng4GFYiQH2r377alaKWvFC_ycS7HFxsuzA15MixAo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101022848",
       "itunes_duration": "42:05",
       "speakers": [
         "William Hanson",
@@ -3117,6 +3304,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66d5e95848e26d7881804d5c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3m4HHwdKWlzv_Jhjt3IhjH6JHgU3_WySgGRyhJEGzmY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113903168",
       "itunes_duration": "47:27",
       "speakers": [
         "William’s Birthday",
@@ -3138,6 +3326,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66d047dd4276cfad12caf26f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=M8nyCy1hPKoFgRhttzqqtv6rPOXUqy7V9KdGy6AMbMQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44291648",
       "itunes_duration": "18:27",
       "speakers": [
         "Precarious Oil William",
@@ -3162,6 +3351,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66c8c7e9f86830fd8f6a8a78/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NoO5t--sIr5UPKeW278dD4t45io0-3NJR8tK6YdvJQc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97693568",
       "itunes_duration": "40:42",
       "speakers": [
         "Delia Smith",
@@ -3182,6 +3372,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66c70bcda45b7b503786951a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=67nVQbdaEhHYvI3eqJ9wC4thkdcVMgpCJV-fW5mwsEE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61803968",
       "itunes_duration": "25:45",
       "speakers": [
         "Sparkling Drinks",
@@ -3206,6 +3397,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66bf8180328d26fd6c17416f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=b8Cxk2Gv26A33CCFd0x4bmGJs15nKfnePOEEs-aTeEI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104350208",
       "itunes_duration": "43:28",
       "speakers": [
         "William Hanson",
@@ -3224,6 +3416,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66bdd7f2328d26fd6ca613b4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UQ-NGuqXdA6z18sF6n5Q5NbYHespd9Xb1yKXHIRsug8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44595008",
       "itunes_duration": "18:34",
       "speakers": [
         "Comedy Door Hangers Jordan",
@@ -3250,6 +3443,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1723622743996-86267fd0-c2d3-420a-8268-4b0806aa6b62.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66bc64c00ca3a86a26d3685a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Yl6c5ApE193vT7VM7Kyh4LdBTXzxAB4IyllkKqk7n_Y",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122401088",
       "itunes_duration": "51:00",
       "speakers": [
         "William Hanson",
@@ -3269,6 +3463,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66ba41663889f01ccfd09120/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=dy-fhq6iQu-X1AJyZQ9xMarAw59IzwRhi29vAUkt7dw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102842048",
       "itunes_duration": "42:51",
       "speakers": [
         "William Hanson",
@@ -3288,6 +3483,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66b2c0f65063c053df7c5e6c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ftKqRtUAAX_UpXe9e9dqKm7WkaXtlK93qewoZOpgNQo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42863168",
       "itunes_duration": "17:51",
       "speakers": [
         "Jordans Scribbles",
@@ -3312,6 +3508,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66b0d94daf99592b5343d57e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CZhJi-qYhaYe3fhUzKpLENEEju2lxMWXbG1Lb-lX7SE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112035968",
       "itunes_duration": "46:40",
       "speakers": [
         "My Tots Jordan",
@@ -3332,6 +3529,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66aba81c1f6556b4b6a23860/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=M0Zox8LWlxjLeA2mIdvkeCRbEtvK0S69dr4AuS84fxg",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52588928",
       "itunes_duration": "21:54",
       "speakers": [
         "Chocolate Straws",
@@ -3357,6 +3555,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66a807e266e879d7b6a91c7e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ot6zBS8LAT5ZhzIRkj8uXnrbtWr0nEA19g5sVmKdu3E",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100422848",
       "itunes_duration": "41:50",
       "speakers": [
         "William Vetoed",
@@ -3379,6 +3578,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66a2710e22781665a9a24f81/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FSIdX1mB9qqWBSAXpcCOTcDDCnzEAkJXJ0yFNssEr5g",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48267008",
       "itunes_duration": "20:06",
       "speakers": [
         "Soggy Biscuits William",
@@ -3402,6 +3602,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/669e84ffd81afc560a198334/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=TIfX9JfE6mEw_YoA3kpLxet9dv_bMaQObVB4gtQPV4A",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108670208",
       "itunes_duration": "45:16",
       "speakers": [
         "William Hanson",
@@ -3421,6 +3622,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66997d2925946be33421b4e3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_YDsYhvkRJXn4UVWx-WOoEqsN-1urSkB-kl7edmg9qA",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61085888",
       "itunes_duration": "25:27",
       "speakers": [
         "Ball Questions Jordan",
@@ -3444,6 +3646,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66955d04d050c6cd5087cc48/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=x052nP0GXrv8YhyAjwGxPmMwBONxiLPe6KroOGSDvJ8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100085888",
       "itunes_duration": "41:42",
       "speakers": [
         "William Hanson",
@@ -3462,6 +3665,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66900ab95b40e8d05e97e78a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iGYmYEw63WaEON5tAlUNKec1T6CxzmX3N3Mp5WKIx0o",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57309248",
       "itunes_duration": "23:52",
       "speakers": [
         "Summer Neckerchiefs",
@@ -3486,6 +3690,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/668c1b7523ad154828cab624/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=V55Ln3veJywbqt6R7iYHkDHYM2Rcu-NcC9V30gXak5s",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73237568",
       "itunes_duration": "30:30",
       "speakers": [
         "William Hanson",
@@ -3504,6 +3709,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66852a159249f596b741104f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pdRm0Dx2YKzMNxQZUMT6T_ASJmoNnZCA-r9rZAz1Okk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43955648",
       "itunes_duration": "18:18",
       "speakers": [
         "Julie Andrews",
@@ -3528,6 +3734,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6682d202d805340b4c5b584f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=etBtuY0l9LoiHPIGuCPg0J61J62tGvmlM9zysnplHhQ",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104171648",
       "itunes_duration": "43:24",
       "speakers": [
         "William Hanson",
@@ -3544,6 +3751,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/667c37fced40979e6f52160a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Fb15j-sMIMUTXeP3523bE9DUELU5_7Gcdzu7hqIrMEo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43564928",
       "itunes_duration": "18:09",
       "speakers": [
         "Clit Bang",
@@ -3568,6 +3776,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1719352848290-cb63e4a516b538e2ca4349a1b62004fe.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/667b3481c5b4dedd899b4cae/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=l_1bZQzMrtQXo2YCC31incyuDuG_bWWeSN3ys3VDFY0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75963805",
       "itunes_duration": "52:44",
       "speakers": [
         "William Hanson",
@@ -3588,6 +3797,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6679893dda1c2dde36cbceec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0U_nJITtayI_Uz4VnW5wklfhGG9-SrXb73Nj7w7GRA8",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97413248",
       "itunes_duration": "40:35",
       "speakers": [
         "William Hanson",
@@ -3607,6 +3817,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6674475efcc9a900133a20b5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jZ9sWesHi_MmM8F5mJI36z8t-jE8Wx5mhzeUce0SzlY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48114368",
       "itunes_duration": "20:02",
       "speakers": [
         "Childhood Catastrophes",
@@ -3631,6 +3842,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/667064c43968d9a26ba9ae71/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cDjwGN2Wh3Z00RjwsJwtfYCLH3IzItumjqQUUoijEFI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92115968",
       "itunes_duration": "38:22",
       "speakers": [
         "William Hanson",
@@ -3649,6 +3861,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/666b3ced3fd8a200127be297/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FdN7K8OXLiTAuQzJiYH28FaQEs-3O_sRkPmGyzRNFfE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30873728",
       "itunes_duration": "12:51",
       "speakers": [
         "William Hanson",
@@ -3670,6 +3883,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66674d13347d87001258af3a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fBirTZ5NI-pGTMEEV-1ynhK7k1sADNAAUkLqdbOpreI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86152448",
       "itunes_duration": "35:53",
       "speakers": [
         "William Hanson",
@@ -3688,6 +3902,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6661ce846a3b3e0012200b81/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m71rD_jGBvokXl8PYlDzYiuHCwm-9Cj9stl0YOptRgU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34138688",
       "itunes_duration": "14:13",
       "speakers": [
         "William Hanson",
@@ -3712,6 +3927,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/665dd2cb3ce6480013439d5e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=q4bCzJpOMDAfV4EkZTlgmIxCEe7wUojvItHwBDbTOZw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88267328",
       "itunes_duration": "36:46",
       "speakers": [
         "William Hanson",
@@ -3730,6 +3946,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6658afaa1468e10011bd90c8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oZX1VuUCMAJMOyL8vKom1R4Y4yHediMxUhzJkLOoj44",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30262166",
       "itunes_duration": "21:00",
       "speakers": [
         "William Hanson",
@@ -3751,6 +3968,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1716393047507-3057368f46832dbccca629b4e3b23cf7.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/664e0d497426fa0012ef45bd/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xJDGYZpJOxG12D2Q628MLGoTP-km8rpf2XJDF1rA5Bw",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134578560",
       "itunes_duration": "56:04",
       "speakers": [
         "Arthur Hill",
@@ -3774,6 +3992,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/664b6591e25fc50012ebe947/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ETBmuxXi-hjDNzMfewyRJ5Bm8Um4VJlPycXikL0Cr88",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31940365",
       "itunes_duration": "22:10",
       "speakers": [
         "William Hanson",
@@ -3792,6 +4011,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/663b82b31859e200126a8da1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=i5dIPHXQWTok6UB6ChieCYPgxcFP5lxHWGxPBIzUUSo",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28288448",
       "itunes_duration": "11:47",
       "speakers": [
         "William Hanson",
@@ -3810,6 +4030,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6635310c21435d001225d325/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cfD2Q4lTRX5EUtV4gV86RI69yt4DxnTpG7vuEWkPTZs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104297408",
       "itunes_duration": "43:27",
       "speakers": [
         "William Hanson",
@@ -3828,6 +4049,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6633ef9c28201200123e2c47/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fwBmTA37C_yWFiFfiM783pyplrb7tl5U5XTClXprcFM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43568768",
       "itunes_duration": "18:09",
       "speakers": [
         "Producer Ben",
@@ -3847,6 +4069,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/662ff317f1e60600135102b4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xim9TCpP_WUgRYniRv9Pmj31mc121JaEVS3W5nF1hVM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99177728",
       "itunes_duration": "41:19",
       "speakers": [
         "William Hanson",
@@ -3865,6 +4088,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/662a98337c82d0001298718c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=64GvaGkpXV8EIfN1msUZ8DEochWA7E3M-t5Eg8p7b_Q",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41614208",
       "itunes_duration": "17:20",
       "speakers": [
         "William Hanson",
@@ -3885,6 +4109,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/662676dc5dd0140012bad97e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fy5ZIINB3L7DmY9KbQ4ZYYX_TPJMgbaH5YO73W2DAFU",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95128448",
       "itunes_duration": "39:38",
       "speakers": [
         "William Hanson",
@@ -3904,6 +4129,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/662155ba5d8b390011286c1a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hmBD-Lh2wVO8AmdZJuXqwzMgg5ZyC7anP1f8rUaTm50",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27050048",
       "itunes_duration": "11:16",
       "speakers": [
         "William Hanson",
@@ -3924,6 +4150,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1713462920077-fe37b8bc65c44e40c2098971d0e6d688.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/661bc800dec96a0016ede3d6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=20ZAkg3WrIcB-Gb4gUFEy2P4MreuWNsxcw4efFMOIBE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133688768",
       "itunes_duration": "55:42",
       "speakers": [
         "William Hanson",
@@ -3942,6 +4169,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/661d6bce91cd8e0017635eb6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nD3pNAmtboFCaMMDo7BhXyI9INtN9rHZ8qEteBkhmEE",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94409408",
       "itunes_duration": "39:20",
       "speakers": [
         "William Hanson",
@@ -3960,6 +4188,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66141a72f9543100162801c7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=P1tI248jwpyNRZBNdXKc-hkOAU9QOPiGN7KGhAHKWHc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28621568",
       "itunes_duration": "11:55",
       "speakers": [
         "William Hanson",
@@ -3980,6 +4209,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/661407677b1c270016bcb893/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JCo0cxitF6dX6ad5E7SxQ-aDXnyque7Kxs66NHg0jjs",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118597568",
       "itunes_duration": "49:24",
       "speakers": [
         "Emeritus Stuart",
@@ -3997,6 +4227,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/660ee5ccdfaf110017032d71/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-V6bCfBxYVl1AGAa33GGyaAL_X_c1vIuPa8BdtINhRc",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34024448",
       "itunes_duration": "14:10",
       "speakers": [
         "William Hanson",
@@ -4018,6 +4249,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66091736f993490016c7ab1e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2FjJhLLfA_xOKLmOSwtn5xEAnkcacLugWW-vn8d006M",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106058048",
       "itunes_duration": "44:11",
       "speakers": [
         "William Hanson",
@@ -4036,6 +4268,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/66056db653b2df00162d1323/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qfAAhL2vk0Mk22yZ09e_Qi-7Jwu1QwFpie8UocbDqzI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50640128",
       "itunes_duration": "21:06",
       "speakers": [
         "Charles Dickens William",
@@ -4058,6 +4291,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6601ce4242c466001598cd76/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OY3yQ88sXQCsTA246YCEJOPLfjgx5--1ACdPmUFjL1o",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76870208",
       "itunes_duration": "32:01",
       "speakers": [
         "Deep Heat",
@@ -4078,6 +4312,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65f7009778cf7300177e2de1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7erAuQ3JcHI17oXrbDT_fMOe6X8YtIRHHMlcPCWs0cM",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33099008",
       "itunes_duration": "13:47",
       "speakers": [
         "Solo Shows William",
@@ -4100,6 +4335,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65f6f5f5da45820016cdcadb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LbEOvA4XgJpnqgRn0dsTTzKeheb_WTYw-s6oKN4R2hI",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103386368",
       "itunes_duration": "43:04",
       "speakers": [
         "William Hanson",
@@ -4119,6 +4355,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65f341d854a27c00161b5725/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Z1pQvpcPxYt3ugiaZAwUCJpRzNpjgzph7FR_2A7GSL0",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54583808",
       "itunes_duration": "22:44",
       "speakers": [
         "Saint Patrick",
@@ -4141,6 +4378,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65ef529443e2d60018490f6a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cPudQsC418QHRHfnJljbyzPuFWy1HjZQ1NOHvhe6jbY",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117646208",
       "itunes_duration": "49:01",
       "speakers": [
         "William Hanson",
@@ -4160,6 +4398,7 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65ea1848b26e600016c4c115/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m4IKIhcmMHOKpVsU_ORCtdMNYM9cahv1LtEeiX3sfSk",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30092288",
       "itunes_duration": "12:32",
       "speakers": [
         "Smashing Glass",
@@ -4173,6 +4412,9330 @@
         "smashing",
         "glass"
       ]
+    },
+    {
+      "key": "3e9cee7ad9792e8df2655956ac2c70a0dd27d75d",
+      "title": "Help I’ve Been Banged Up",
+      "published_at": "2024-03-05T05:59:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Someone from team Sexted has been in trouble with the law, but who on earth could it be? All is revealed plus the answers to your dilemmas on how to tell your neighbours it’s time to take down the Christmas decorations and how to overcome the inevitable trauma of accidentally smelling the wrong knickers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65e5f513e85e9d00173a05b4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XBh_c1hPJGNR5RMJbhRvJhbbKf4d0BkxhbK4xVvybjg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107920320",
+      "itunes_duration": "44:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "banged"
+      ]
+    },
+    {
+      "key": "49950af43cd5d93bf16eaecec9b0fd0dfbdc6021",
+      "title": "Cleaning, Coffee, and Jack Callaghan",
+      "published_at": "2024-03-01T05:59:03+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys invite luxury guest and cleaning influencer Jack Callaghan (@jack.designs) to help answer your cleaning related dilemmas including how often you should change your bedsheets, which cleaning product rules above them all, and what a ‘Sunday reset’ is? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65e0b23ebec0f3001606df48/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e6QyVd2Q_ca5ZtDLTUK2hRjZ3EGJLQ8dFYvb9LwqxHk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67960320",
+      "itunes_duration": "28:19",
+      "speakers": [
+        "Jack Callaghan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "cleaning",
+        "coffee",
+        "jack",
+        "callaghan"
+      ]
+    },
+    {
+      "key": "b24d1142c1a19371558866da12a2d9ff0c47f0bb",
+      "title": "Help I’m A Spunk Specialist",
+      "published_at": "2024-02-27T05:59:44+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After Jordan updates us on his new water routine and reveals the origin of an alleged naughty picture spotted on his phone, the boys get to work helping with your dilemmas regarding shaving at the office and how to tell people that your job involves handling semen. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65dc6f72fe096600165dd4fc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_tuUBL5fQZZkDCTC4L03USMsmUZP948aWGWIz3raZUs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106285440",
+      "itunes_duration": "44:17",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "specialist"
+      ]
+    },
+    {
+      "key": "ece5224b4315686116a40f64a6c0d86738d8799a",
+      "title": "Curls, Call-outs and Capital",
+      "published_at": "2024-02-23T05:59:08+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan reflect on some BIG news, discuss the correct way to eat a Pot Noodle and hear a saucy revelation about witches. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65d7412a07b4a800162b8f8e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6cBV4PU3i27Fa8puOlEsQQlIOfH8klqkwETij_3Uh2Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49240320",
+      "itunes_duration": "20:31",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "curl",
+        "capital"
+      ]
+    },
+    {
+      "key": "ff40868704adcefdce77f080a56ef171a05bbe8f",
+      "title": "Help There’s A Tissue Issue",
+      "published_at": "2024-02-20T05:59:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s a rather large elephant in the room… something that all of you G&Diva’s have been begging to know more about… it’s finally time for William to reveal his ironing setup! The boys are also on hand to help with all your dilemmas such as serving traditional food with a twist, queueing etiquette and an unbelievable story regarding a tissue. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65d394ff73847f00177ac162/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pJazz3adjsXYRt0xAZL1DcwuSYVvIDO54rFGKBIwTIs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116747520",
+      "itunes_duration": "48:38",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tissue",
+        "issue"
+      ]
+    },
+    {
+      "key": "5bbe8bdb49cbf1ad125588e66d14edfd8b301f73",
+      "title": "Marathons, Made Up Names and Menthol Illness",
+      "published_at": "2024-02-16T05:59:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ever wondered what the collective noun is for a group of G&Divas? Or why you shouldn’t name your pet ‘Gooch’? All is revealed alongside one of the top ten marathon training aids in the world. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65cdf9e936a9cf0017824adb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QeH_3IO6Rvp3B5Lj6wWZPhQDBQROFRl-nh9NkR6SWZo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32720640",
+      "itunes_duration": "13:38",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "marathon",
+        "names",
+        "menthol",
+        "illness"
+      ]
+    },
+    {
+      "key": "619b3d7b468e4586f64d82230fc772bcaedf941a",
+      "title": "Help It's The Valentines Special",
+      "published_at": "2024-02-13T05:59:14+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Bad jokes, bad impressions and a message from Producer Ben - this episode is full of nasty surprises! After the boys debrief on Valentines/Jordan’s birthday plans they turn to your dating dilemmas regarding how to politely end a date and dealing with people who ‘lick’. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65ca326bbb06c90016a4bb1c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=B7OWA8ob82lW1Nm-m2yw85UPpRY8DQA7Me0TU3vfRqg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100539840",
+      "itunes_duration": "41:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "valentines",
+        "special"
+      ]
+    },
+    {
+      "key": "209e28789d1879f3af03c5ece04772d73f2f3e29",
+      "title": "Country Tunes, Colonics and Choking",
+      "published_at": "2024-02-09T05:59:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William tests Jordan's knowledge of country music and the boys catch up on your correspondence regarding colonic etiquette and shower beers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65c4eaaf2f12a600163f5bb8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jvy7KAMTYO1dAk2jVW0DCdW7YEBP3pOov_A4rseenHs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41300160",
+      "itunes_duration": "17:12",
+      "speakers": [
+        "Choking William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "country",
+        "tunes",
+        "colonics",
+        "choking"
+      ]
+    },
+    {
+      "key": "83102e41e201904c0aa6829ed88d711ab165b72e",
+      "title": "Help There’s Sparkle On My Stomach",
+      "published_at": "2024-02-06T05:59:45+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a cape/cloak update from William leads to a rather unique superhero catchphrase being coined by our Jordan, the boys turn to your dilemmas on feeding dogs in a cafe, dealing with round dodgers and what to do when you’ve double booked yourself on the night of the Sexted live tour. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65c0c028efa27f00163ad778/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Xw1rPwKRqiufl3zL2hVPur9sP40GswIMsaTn7zb0-wQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103097280",
+      "itunes_duration": "42:57",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sparkle",
+        "stomach"
+      ]
+    },
+    {
+      "key": "0d026ad0b835f726e41f2ee0858d0e56d40f0e7c",
+      "title": "Drinks, DJs and Dixon Dallas",
+      "published_at": "2024-02-02T05:59:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan’s full of beans after getting so many compliments on his glowing skin, while William’s been broadening his repertoire with some fart jokes. Plus the boys catch up on your correspondence regarding country music and awkward sexual encounters involving piercings. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65bbb63fac726b001708335a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=HH5gPI4S0XNV9r3GBqLoWqLoaR2tgITJ_gluBoXX0HY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34927680",
+      "itunes_duration": "14:33",
+      "speakers": [
+        "Dixon Dallas",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "drink",
+        "dixon",
+        "dallas"
+      ]
+    },
+    {
+      "key": "414c28e948a1c312ec3cc174f42c7b8e2a3dead6",
+      "title": "Help I’ve Had A Sloppy Sunday",
+      "published_at": "2024-01-30T05:59:02+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After the boys debrief on a wholesome weekend away featuring William’s horrendous snoring and a very hangry Jordan, they turn their attention to your dilemmas on how to politely say no and discuss how to NEVER eat a Pringle. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65b7cbf62ed1750016d96aca/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vPHyr_MxOeUftRh--gbT_PSUZKtgHWijzuSARn6-X0A",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73770240",
+      "itunes_duration": "30:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sloppy",
+        "sunday"
+      ]
+    },
+    {
+      "key": "fbadb09c6534b56fee5da1cbde3b18ae1fd4f321",
+      "title": "Gaysons, Prinks and Chris Moyles",
+      "published_at": "2024-01-26T05:59:22+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William's got a face like a smacked arse - and it’s not because he’s just found out what Jordan’s been doing in the shower all these years! There’s also some controversial correspondence to catch up on involving Freemasons, sex smells, and the differences between gooch and taint. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65b28b98a2246e0017077dea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zXyxohZcm-VY6CZXKeTyHPX9ARx53OQP2_hutIfVx4w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44347200",
+      "itunes_duration": "18:28",
+      "speakers": [
+        "Chris Moyles William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "gayson",
+        "prinks",
+        "chris",
+        "moyles"
+      ]
+    },
+    {
+      "key": "9cb1903997d4ec8a7661cc09c22f2d3e39b986a7",
+      "title": "Help There’s A Dildo In The Loft",
+      "published_at": "2024-01-23T05:59:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys take a fascinating deep dive into the inner workings of their minds as we get a blow by blow account of William's recent colonic and Jordan lists which food goes best with eggs (spoiler alert: all food). They then turn to helping you with your dilemmas regarding how to deal with people who don’t cover their mouths when they cough and finding ancient dildos. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65aea9782d1bb8001620a7e5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nwspwQ3bT7pEPHIKU0r2T7NqE0zy44OjOK0snAdhCKg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93355200",
+      "itunes_duration": "38:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dildo",
+        "loft"
+      ]
+    },
+    {
+      "key": "744e8645f8309ede92e008319432c32bd897ce5f",
+      "title": "Camilla Long, Burritos and First Footings",
+      "published_at": "2024-01-19T05:59:57+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson digs out a cutting column piece written about him in a national newspaper while Jordan scores a personal victory over a classic northern saying. Plus the boys catch up on your correspondence and discover whether any of you share Jordan’s knack at being able to ‘smell sex’. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65a6b698e299f60016b22033/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KHV3jXtxgLA2Moq4WT5yxhNqcleBzDdLP9Mg545JUns",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39169920",
+      "itunes_duration": "16:19",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "camilla",
+        "long",
+        "burritos",
+        "footings"
+      ]
+    },
+    {
+      "key": "86c45b42718c30c3f2ea3ca5add05c1a3a13fdc6",
+      "title": "Help He’s Stuck On My Piercing",
+      "published_at": "2024-01-16T05:59:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a night out on the town leads to Jordan trying out something for the very first time, the boys have a lot to catch up on. There’s also talk of dartboards, country music, and William’s shock at discovering Mikey’s been acting fishy in his absence. When all that’s cleared up they get to helping with your dilemmas on how to deal with rude people in public and whether it’s ever OK to ask if someone’s had cosmetic surgery? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65a54a747ae09100166803f0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3csa-NZtP0y9C91J6rGtFDxxqJT4_RktBNQpk1-Bzmg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95080320",
+      "itunes_duration": "39:37",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "piercing"
+      ]
+    },
+    {
+      "key": "c3cd02dc81ee3749705de8ffe91c29f94388fcb4",
+      "title": "Condoms, Impressions and Incest Sticks",
+      "published_at": "2024-01-12T05:59:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As we head into the ‘most boring weekend of the year’ the boys have a delightful selection of correspondence to catch up on concerning royal-on-royal greeting etiquette, Sexted Panto reviews and the origins of Jordan’s impression of Mikey. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/659c0466f4a05a0016cda861/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=N-PebN4Y9ccAvB6kOV3muL3Ljk7Iw3n3jhDMme45L4c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38605440",
+      "itunes_duration": "16:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "condom",
+        "impressions",
+        "incest",
+        "sticks"
+      ]
+    },
+    {
+      "key": "26c7c97734c4780481ef18d630b8599fe204a426",
+      "title": "Help I’m Still Balls Deep",
+      "published_at": "2024-01-09T05:59:40+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "A new year means new beginnings. Producer Ben is on his travels and is now barely a memory in William and Jordan’s mind. What is on their minds however is cheese, William’s personal stationery supplier and a ‘Sausage Surprise’ from Jordan’s New Year's Eve house party (some things never change). Ever present as always are your dilemmas and the boys take no time in tackling issues like what to do when your neighbour spots you naked through the window and whether you should stop fornicating when your partner's father catches you in the act. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/659838a6015a6300176f788c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AyIZ8nboy2G44YwhaPZ4uvIH9ZiK9LxXi7Q8pIkf1wU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120400320",
+      "itunes_duration": "50:10",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "balls"
+      ]
+    },
+    {
+      "key": "b8450c88d3c6f38fa859318129e87596df4ad94b",
+      "title": "The Sexted Awards 2023",
+      "published_at": "2023-12-25T04:03:33+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Join William and Jordan as they listen back and celebrate the very best moments from the podcast in 2023 (Producer Ben leaving isn't one of them). Categories include 'Best Jolly Joke', 'Best Etiquettimology Of The Year', and the coveted 'Dilemma Of The Year'! If you want to get involved you can email us and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6583206b8694890016b27f28/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pFpL1EmT4ipnf-wh-FVd9voEegZJTaYhsZvnunsqlyc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46269120",
+      "itunes_duration": "19:16",
+      "speakers": [
+        "Join William",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sexted",
+        "awards"
+      ]
+    },
+    {
+      "key": "3e75a494de1c34f18479b34586c355c2ac93c54f",
+      "title": "Sexted The Panto: Journey to Jordan North’s Pole",
+      "published_at": "2023-12-22T04:03:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the first (and quite possibly last) time Help I Sexted My Boss presents the pantomime that nobody has been waiting for featuring all your favourite characters from the Sexted universe. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6581c65e96b66a0016b52797/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RRASvBw9JM2Ma3CHMkWbtPxTqwzGiE2-shOX8WI_4hI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48431040",
+      "itunes_duration": "20:10",
+      "speakers": [
+        "Jordan North’s Pole",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "panto",
+        "journey",
+        "jordan",
+        "north",
+        "pole"
+      ]
+    },
+    {
+      "key": "367ae5db63784c67208966446e50524e9bd3c40a",
+      "title": "Help He Wants Me To Inspect His Bumhole",
+      "published_at": "2023-12-19T04:03:40+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "You know that feeling when you really, really like someone and the only way you know how to show it is to constantly tease and be mean to them? Enter: William, Jordan and Producer Ben. It’s PB’s last ever episode (for now) and the boys don’t quite know whether to laugh or cry… But when the tears have all dried up they still manage to pull themselves together to answer your dilemmas on whether it’s ever okay to eat the garnishes on a cocktail and how to tell your dad the dog ate his condoms. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/658011bc3c61a30018544a4d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ik8VTkYqm68dhtIy35bqc1OswnpMEBUukEOewHNa-Ek",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108735360",
+      "itunes_duration": "45:18",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "bumhole"
+      ]
+    },
+    {
+      "key": "26168ed9a17ad3223114a5c3f634b061a5cfccd7",
+      "title": "Canapes, Creme Frackay and New Year's Eve",
+      "published_at": "2023-12-15T04:04:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Plans for New Year's Eve at Jordan’s are well underway but the boys have some slightly differing opinions on the pronunciation of ‘canapés’. Plus the boys catch up on your correspondence involving dropping the ‘L-Bomb’ and finding G&Divas in strange places. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/657b0581fbbef10016125118/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QRFUUV4CTRaRaZQORHv_JIsmF5a23S3dtuC0j7p2rM8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53368320",
+      "itunes_duration": "22:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "canapes",
+        "creme",
+        "frackay",
+        "year"
+      ]
+    },
+    {
+      "key": "62de9783ecd6f6657c14878da7ee0b713f9b8b30",
+      "title": "Help I’ve Got No Rizz",
+      "published_at": "2023-12-12T04:04:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Things get pretty tense in the Sexted studio when William reveals his schedule for attending PB’s birthday party. Luckily Jordan's got some tales from back home to lighten the mood regarding candles and the ‘CrossFit curse’. Everyone is soon back to being best friends again and ready to tackle your dilemmas on helping older family members sign up to internet dating and whether it’s ever morally right to pretend to be your identical twin. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65731c205d8877001245c85f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jtX8PPP2tLg8BaIpwKh_yN9k3gkMGc2FfngPbFtPk_Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100590720",
+      "itunes_duration": "41:54",
+      "speakers": [
+        "Luckily Jordan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "rizz"
+      ]
+    },
+    {
+      "key": "f6762c906ac651b82d0e1441dc83f99f54747958",
+      "title": "So Long, Farewell…",
+      "published_at": "2023-12-08T05:00:32+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's been a very positive year for Help I Sexted My Boss, so it's probably about time we hit you with a sucker punch. Before that, the BookTok community has some words of wisdom for William and Jordan's spines and some shocking revelations from our recent book 'events'. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6571cb21c1932700117999b0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3-WnFsQUahmwZ8R9aedQug_J8c8F-wTz5hRHrcCq7x8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31319283",
+      "itunes_duration": "21:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "long",
+        "farewell"
+      ]
+    },
+    {
+      "key": "b91a8da32c60a35b3ccdbf8ec3bdc507d0a6203d",
+      "title": "Help It’s Down My Urethra Franklin",
+      "published_at": "2023-12-05T04:04:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Today the boys have some serious complaints to get off their chests. Jordan’s got issues with his Wrapmaster (have I changed?) and William is NOT happy with the standard of Christmas decor in the Sexted studio. Once Producer Ben has filed them away for processing they can finally get to your dilemmas on whether it’s ever ok to take extra food from a communal buffet and what to do when you’re getting cold feet about your upcoming wedding... If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6569ff81c27dae00125acf3e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LmldmyNxWWY3qK4voCfMY8UyUf0nDJifCt4_3sOsaF0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111062400",
+      "itunes_duration": "46:16",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "urethra",
+        "franklin"
+      ]
+    },
+    {
+      "key": "f6f7d13435eac39b2c2328191172e4fd2d2f9d70",
+      "title": "Weekend Release: Common List, Welsh Towns and EPB's Ring",
+      "published_at": "2023-12-01T05:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After the release of Nicky Haslam's common list, William and Jordan to work out what's common and what's not. There's also some Welsh and German pronunciation correction and further reaction to EPB's ring. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/656869b7480dcb00120207de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=x_nYp21ER3kanKrqyYUF0nMJaK-wx2wDj8OqnQ-w-9Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53510400",
+      "itunes_duration": "22:17",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "common",
+        "list",
+        "welsh",
+        "town",
+        "ring"
+      ]
+    },
+    {
+      "key": "ca8a1e2d027c8a2b7c89968f799aac966181dd2d",
+      "title": "Help We've Got Some News To Share",
+      "published_at": "2023-11-28T04:01:53+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys have a VERY big announcement to share (no, it’s not another book) and get to open some lovely gifts from a wonderful G&Diva! There’s also the customary advice regarding your dilemmas on how to tell your friend it’s too soon to move in with their new squeeze and if it’s ever ok to bring a cardboard cut-out of a deceased relative to a wedding. You couldn't make that up! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65646f801a0cae0011382646/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-3601L7u1GFOWxTD0mdzw4uvHMl5CynALA5sISx6KBs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101448000",
+      "itunes_duration": "42:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "news"
+      ]
+    },
+    {
+      "key": "ab1557e6b0e9f571e744ebb6bc0beb5b936e903b",
+      "title": "Weekend Release: Jordan's Showreel, Full Moons and AV Adam",
+      "published_at": "2023-11-24T05:00:38+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We’ve got a blast from the past this week, with Jordan’s old showreel finally seeing the light of day after 10 years. Let’s just say it received a mixed reception… We also hear back from our mooning G&Diva, and William’s been given a recommendation from a listener who really loves his best mate. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/655f894cd337e200129353bf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Etq94S4eAVsRQM0pCLPQQKOwYbuwdo_p6daC-oRKFMQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35863291",
+      "itunes_duration": "24:52",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "showreel",
+        "moons",
+        "adam"
+      ]
+    },
+    {
+      "key": "a5900c4af0fd2ce025b31472f9274f56ac79600f",
+      "title": "Help I've Kegged Myself",
+      "published_at": "2023-11-21T05:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan is sporting a golden tan as he returns to the studio jet-lagged from his holiday to Skegness. Meanwhile, William has been having fun with \"Cardboardan North\" and Mikey's wondering where they'll be interred. Plus there are dilemmas about hanging around after paying the bill, whether you need to be good looking to get a job on the river and how to deal with a boss who's seen you \"keg yourself\". If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/655ba537a08cd9001216ccfd/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4PUOt_NdMIZtuflN_QeZJleUbN8inP9Og5m1e-tpefY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55196975",
+      "itunes_duration": "38:18",
+      "speakers": [
+        "Kegged Myself Jordan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "kegged"
+      ]
+    },
+    {
+      "key": "d9895f5e14809e65ac9623e42b72e03997a96c01",
+      "title": "Weekend Release: Peas, Condiments and Doppelgangers",
+      "published_at": "2023-11-17T04:00:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "An impromptu recording leads to some interesting revelations about Jordan’s neighbour's ‘squeaky bed’. Meanwhile William has been going viral all over again with some pea-related content. Plus the boys catch up on your correspondence regarding favourite condiments, alternative names for streaming services, and learn that William has a TikTok Doppelganger… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/655655571a7d7e00125d3339/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yc_OQCexfNpsV7bIEjVO6RpM5SxcVGPVng8uMIeU_XI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60230400",
+      "itunes_duration": "25:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "peas",
+        "condiments",
+        "doppelganger"
+      ]
+    },
+    {
+      "key": "64070d410d5929bd4b691479f1e1269922f4378e",
+      "title": "Help I’m Non-Mahogany",
+      "published_at": "2023-11-14T04:00:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s a lot to celebrate in the Sexted studios, and things are getting very sloshy (especially William Hanson). But after having their fill of cake and G&D, the boys turn their attention to your dilemmas on how to check if your friend is in an open relationship and enforcing proper holiday etiquette on badly behaving tourists. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65521607ed0a4400126c2fa4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9eBm_uC1yo4spw7kKfyyPAFA8OlmrcytmoxNNjwjcTE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "496649280",
+      "itunes_duration": "43:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "mahogany"
+      ]
+    },
+    {
+      "key": "c8c6ed0a8f0ff7ce6f3a467789e847b0156851c6",
+      "title": "Weekend Release: Books, Quirks and Spine Breakers",
+      "published_at": "2023-11-10T04:00:51+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North are officially authors! Well, William Hanson has already published a number of books… but Jordan North is now officially an author as well! To celebrate, the boys delve into the pages of their new book and answer some of your quick fire questions. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/654b828fe33eea0012e0336c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CooYH0Ca_2r3gWLi2IR4DZhDmRXZLjeXk4E4ZZCfbCk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46240320",
+      "itunes_duration": "19:16",
+      "speakers": [
+        "Spine Breakers William Hanson",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "book",
+        "quirks",
+        "spine",
+        "breakers"
+      ]
+    },
+    {
+      "key": "660d5833c4ceb57363dea87d7e243243907a607a",
+      "title": "Help She's Touching My Thermostat",
+      "published_at": "2023-11-07T04:00:28+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After discovering William’s got more followers than he does and with a to-do list longer than his dressing gown belt, Jordan's in desperate need of a holiday (destination: Skegness ). But he’s not the only one with problems as the boys tackle your dilemmas on lending books to friends, disagreements on heating requirements with housemates and deciding when’s the right time to drop the L bomb. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6548ff6a6905da00125414f6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=IfssWEaSMsUrviiwI7cn2rW79foU78r8XeHd1iP84Zs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110340480",
+      "itunes_duration": "45:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thermostat"
+      ]
+    },
+    {
+      "key": "fe6d43786443c03748cf842360706a79b5584a39",
+      "title": "Weekend Release: Stubble, Ghosts and a Blonde Roast",
+      "published_at": "2023-11-03T04:00:19+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s been days since the traumatic events of Halloween and Jordan’s stubble is still leaving a mark on William’s chin. The spookiness hasn’t finished though as the boys receive some correspondence on using smells to identify ghosts and which Star Wars characters they would be. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6543a396d27c0b00120b3da7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wD-CtfuvQQJ6E4lH3upGk5KJdoV8_XZABQA6DkUCbPs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31789105",
+      "itunes_duration": "22:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "stubble",
+        "ghosts",
+        "blonde",
+        "roast"
+      ]
+    },
+    {
+      "key": "4b927536b29076a99c3613982c57fab9b92c517c",
+      "title": "Help We've Swapped Places",
+      "published_at": "2023-10-31T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Join the boys for a disturbingly spooky (and not at all luxury) peek into the ‘upside down’ of the Sexted universe as they attempt to help with your dilemmas on noisy neighbours, toast thieves on holiday, and what to do when your partner’s bogey finds its way on to your lip. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/653fd6f5968d750011b55b58/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2_yRCtwCYbh6pnxuPcDaM9B6EMOLu-FfwsawmYWfGRU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115874880",
+      "itunes_duration": "48:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "place"
+      ]
+    },
+    {
+      "key": "c29868bd8d7c6609d06865b99174405c5e7d83bb",
+      "title": "Weekend Release: Massages, Straws and Douchebags",
+      "published_at": "2023-10-27T03:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ever wondered what William and Jordan’s preferred style of massage is? Ever pondered which flavour of french fancy is their favourite? Or maybe you’re just curious as to what they’ll be dressing up as for Halloween this year? Answers and clues to these questions can only be found in today's Weekend Release! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/653a5774ab9fa2001254c926/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LHAAAYByN12kzUb9_ozV3bcS7CSZw5PNm6k7hEKvhz0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35055360",
+      "itunes_duration": "14:36",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "massages",
+        "straws",
+        "douchebags"
+      ]
+    },
+    {
+      "key": "8cb48ae8de13c494543d7fad31b0d19971a5e39a",
+      "title": "Help There's A Spaniel's Ear In The Pool",
+      "published_at": "2023-10-24T03:00:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a visit to a book-printing factory leads Team Sexted to rediscover just how much of a morning person Jordan North really is, the boys also find out they have some very different opinions on Earl Grey tea, European holiday destinations and whether or not William uses too many innuendos. There’s also the not-so-small task of helping you with your dilemmas on whether it's ever ok to dress colourfully at a funeral, biscuit etiquette and how to tell your nan her tit is hanging out. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6536344a9bf35700121425ad/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MjHgwemjINZtWlu1zt0p_RfDybHwaFiVTQq4NpW3ni8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111660480",
+      "itunes_duration": "46:31",
+      "speakers": [
+        "Jordan North",
+        "Earl Grey",
+        "William Hanson"
+      ],
+      "topics": [
+        "spaniel",
+        "pool"
+      ]
+    },
+    {
+      "key": "b2bd520f3351a269a3ac32aa2794a8bfd5b053ba",
+      "title": "Weekend Release: Yearbooks, Posh Sausage and Sore Wrists",
+      "published_at": "2023-10-20T03:00:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan have come to the studio today with some very sore wrists (don’t be lewd) after signing thousands of signatures, and everyone’s generally feeling a little hot under the collar after the 90s AI yearbook photos went online. The boys also reply to your correspondence concerning dealing with dogs pooping in your garden and a top tip on how to deal with forgetting the name of the person you're dating. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65312758a7d8f5001175991d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qDoUyeQLgI1WjMzKeLH2UuX7uRuI_JeW6-6lQ9Ww9uY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46900800",
+      "itunes_duration": "19:32",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "yearbooks",
+        "sausage",
+        "sore",
+        "wrists"
+      ]
+    },
+    {
+      "key": "bbee4d99b022fe36d4534f6e8d73bec9e1070f4a",
+      "title": "Help I Don’t Know Where To Look",
+      "published_at": "2023-10-17T03:00:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Things are off to a chaotic start in the Sexted studio. PB’s stomping around after stubbing his toe, William’s already planning his birthday (it’s months away) and Jordan’s been up all night baking banana bread in a coffee fuelled frenzy! When the dust finally settles the boys turn to your dilemmas on dealing with office mug etiquette and how to avoid your partner finding out you’ve skipped ahead on that series you’re ‘only meant to watch together'. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/652cfcc108a24800122e29e1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Ug2pfE06Oq6mad0h0ZFDVRtmmAY2BK3iFaeV1FVpZIU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89880000",
+      "itunes_duration": "37:27",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "where"
+      ]
+    },
+    {
+      "key": "37347a92e1734ef4886a26c5b6e3704e2d2bef55",
+      "title": "Weekend Release: Olives, Beer and Bloopers",
+      "published_at": "2023-10-13T03:00:11+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this weekend’s release we get a peek behind the curtain to hear some exclusive outtakes from the incoming book, an olive eating etiquette lesson from William Hanson and some much-needed confirmation about the pronunciation of a certain beer. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/652673151a58c900121943a0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rdmOLFlGj8oAd0r4dFwEdcwVF10pc11UxMNt1Tj3wUI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43600320",
+      "itunes_duration": "18:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "olive",
+        "beer",
+        "blooper"
+      ]
+    },
+    {
+      "key": "f47ac58aac705ff63b806ab750bd60e915ef33e0",
+      "title": "Help I'm Stuck To The Fridge",
+      "published_at": "2023-10-10T03:00:12+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After reviewing Jordan's morning routine and taking on board the latest instructions from the podcast’s Chairman Emeritus, William reveals a traumatic interrogation regarding wet trainers. The boys also tackle your dilemmas on questionable team bonding exercises and discuss a very personal tale involving magnets. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6523c6a7e31adf0011924995/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9YLLuSXaXKiX70z_b2yRSpD28tmyvEufKhOK8HIRjw4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107800320",
+      "itunes_duration": "44:55",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fridge"
+      ]
+    },
+    {
+      "key": "4ca669035bce8b285c744b43e9f41a924de994b9",
+      "title": "Weekend Release: A Flashback, a Diary and a Waffle Top",
+      "published_at": "2023-10-06T03:00:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys take a trip back in time for a peer into the enigmatic mind of William Hanson through his diary entries, circa 2018. There’s also a bulging sack in the studio that’s in desperate need of attention, full to the brim with gifts, tales of wedding drinks etiquette and shameful behaviour in the gym. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/651ea44f354a7f00114b13b6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1_-AKUzaNEIwelB-KbFLyGb6IFvXjjz3X2eIGid4hSs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43055040",
+      "itunes_duration": "17:56",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "flashback",
+        "diary",
+        "waffle"
+      ]
+    },
+    {
+      "key": "990d5f8a3c6b8d26ab677f3b11e47af94bf17c66",
+      "title": "Help I've Got Chocolatey Fingers",
+      "published_at": "2023-10-03T03:00:59+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It was the morning after the night before, and the night before was a curry at Jordan's after putting away his washing and before watching a special episode of Keeping Up Appearances. As if William and Jordan don't spend enough time together, they're also going on an accidental weekend away together. The dilemmas this week get the boys emotional, from the sadness of a break up to the anger of a G&Diva's surprising discovery and the joy of an actual etiquette question. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/651ae28b75e52b001189b1bb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0XYsjKVx0NnBnqRxu90L5W9cOsf5GQoT63-DlB-40lk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113060160",
+      "itunes_duration": "47:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "chocolatey",
+        "finger"
+      ]
+    },
+    {
+      "key": "4caed5d3ef7b0117f3471159191d237c367024df",
+      "title": "Weekend Release: A Priest, An Australian, And A Secret Shopper",
+      "published_at": "2023-09-29T03:00:43+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After some reflection on last week’s episode, the boys decide a little more focus is in order. They get straight to work in catching up on your correspondence involving secret shopper hacks, birthday poems, and listing out all the greatest things to come out of Australia (yes, Neighbours is on there). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65153f0b3d898a0011b0522c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yS9-_A3xyhLnh-OJZP1rGIMLJ1-XpQUV7nwcpKBS0AQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31600320",
+      "itunes_duration": "13:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "priest",
+        "australian",
+        "secret",
+        "shopper"
+      ]
+    },
+    {
+      "key": "f19b37c767c22cba9cbdac13037b70bbb0ac03a5",
+      "title": "Help That’s Not My Husband’s Bum",
+      "published_at": "2023-09-26T03:00:19+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "*There are conversations about dieting and weight loss in the first half of the podcast, press play after 15 minutes if you’d prefer to avoid them.* With Producer Ben pulling a sickie, the boys have been let loose to cause havoc in the studio unchallenged. Jordan’s furious with the latest VAR results for Burnley, and William is equally annoyed about the new toys Mikey’s bought for the bedroom (who said sleep apnoea can’t be sexy?). There’s also the small matter of helping with your dilemmas on whether you should be allowed to stay friends with your mate’s cheating ex, and how to get over the embarrassment of mistakenly groping your father-in-law's bottom. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/651157362eb4c5001024fdda/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2L4O7R4bU0gk_fdVzc8Y6RnFD7ybS-7Qc9zNpCSIMmw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95585280",
+      "itunes_duration": "39:49",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "husband"
+      ]
+    },
+    {
+      "key": "0bf27600bee7d31bb592f6ff6523f76a84b9a54b",
+      "title": "Weekend Release: School Assembly Bangers",
+      "published_at": "2023-09-22T03:00:43+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Another weekend, another release, and this one unloads a whole mountain of gifts for the boys from all over the world! William and Jordan also catch up on your correspondence involving knives and forks, marriage proposals, and school assembly hymns. (WARNING: this episode contains moments of Jordan North singing.) If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/650acba1560ed9001103a601/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=SA-Pyzh5-19YU9rcaiJE--batVZtRT1q6ZTI63Z6O4c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50600640",
+      "itunes_duration": "21:05",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "school",
+        "assembly",
+        "bangers"
+      ]
+    },
+    {
+      "key": "e9f94816ef2612c750b7ff735fd4b92b3a423882",
+      "title": "Help I Tasted My Father-In-Law",
+      "published_at": "2023-09-19T03:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a lovely and thoughtful message from a dear G&Diva brings the boys close to tears, the conversation quickly returns to regular topics of conversation. What snacks should you buy for a train journey? How can you deal with manspreading? What's wrong with PB’s pubic hair? The list goes on. After that’s all sorted, the boys turn to helping with your dilemmas on how best to ask a friend to pay you back, whether it’s ok to say ‘bless you’ to a stranger, and a very dusty issue. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/65081d104e79c000114e4bbf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1os54FTcuHqnp8C5EFUtJAHLJJHdd5hozeypKFSsTyY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81533760",
+      "itunes_duration": "33:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "father"
+      ]
+    },
+    {
+      "key": "044c137b8264467015ab9586e5b3ed6b9bc2d8b6",
+      "title": "Weekend Release: Jane Boulton From Airline",
+      "published_at": "2023-09-15T03:00:37+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "A very, very special guest slid in to the boys DM’s this week - it’s Jane Boulton from the hit show Airline! Not only was Jane an iconic figure manning the check-in desks at Luton airport during the 90’s, but she’s now become an icon all over again with her unsympathetic interactions with air passengers going viral on TikTok. Expect advice on whether you should clap when the plane lands, how to get free upgrades, and what to say when a passenger reveals a gimp mask from their hand luggage. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/650179e3f4929b00109106bd/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wnMIZ3u9YhjCARumAWI5twD4jm424b_IHAjQjnbW9Qc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63065280",
+      "itunes_duration": "26:16",
+      "speakers": [
+        "Jane Boulton",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jane",
+        "boulton",
+        "airline"
+      ]
+    },
+    {
+      "key": "8dae54ef70650a627bf2cc813dad0fb453e3fef0",
+      "title": "Help We Didn't Flinch At Felching",
+      "published_at": "2023-09-12T03:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are coming in hot in today’s episode with some strong opinions on software updates, bow ties, and stock cubes (Yes - you are still listening to the Help I Sexted My Boss podcast - don’t worry). Once they’ve got all that off of their chests and into your ears, normal business resumes as they offer advice on your dilemmas regarding whether you should use cutlery or hands to eat a burger, what to do when you find your sex toys in the kids' sandpit, and how to tell your partner their mother's nipples are exposed. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64ff206eb4b76300111b92a1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=olWqFRHidtkRgSJ6t7ld3Ao3S30rbj961JCw12gaBaQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82720320",
+      "itunes_duration": "34:28",
+      "speakers": [
+        "Felching William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "felching"
+      ]
+    },
+    {
+      "key": "38f7b1abb9c148a050803bc8be185962e28ae8d2",
+      "title": "Weekend Release: Mystery Package",
+      "published_at": "2023-09-07T23:05:34+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/weekend-release-mystery-package",
+      "description": "Another weekend, another release, and this one starts with a mystery parcel that promises to give William and Jordan a rather firm package. Plus there’s plenty of correspondence to catch up on including topics such as AirBnB nightmares, pornos and correcting Ed Sheeran's grammar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64f9d37f460ddd00112ea2ed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kfnXUENCbCi2OibkqzfGfTi9zlG_ASZTax6QwqhkxKs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40400640",
+      "itunes_duration": "16:50",
+      "speakers": [
+        "Ed Sheeran",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "mystery",
+        "package"
+      ]
+    },
+    {
+      "key": "e3869535d42ed819978195699b7ab251b978af89",
+      "title": "Help I Know Him From A Porno",
+      "published_at": "2023-09-05T03:00:37+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s lots to celebrate in this week's episode. As well as the podcast hitting a very big social milestone, it’s also our William’s birthday and Jordan thinks he’s got the perfect gift (clue: it’s got a lovely rim). Plus the boys discuss being rude to neighbours, share some very insightful thoughts on croissants, and seek to help with your dilemmas on regifting presents to the person who bought you said gift, and how to tell a dear, dear friend you don’t want to watch his favourite 90s sitcom with him. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64f20c1ca287c30010cd383c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JRSqQxVBLB7JjiP6pHqjFajc9IQYXYmH7J9FuziR9yQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121417920",
+      "itunes_duration": "50:35",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "porno"
+      ]
+    },
+    {
+      "key": "599477f2fc18ca53eae6f13ab2527a8ad4d36462",
+      "title": "Weekend Release: Going Viral Down Under",
+      "published_at": "2023-09-01T06:36:05+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "When Jordan said he needed to talk about something going viral down under, William started to fear the worst. Much to his delight it was all because the boys had been blowing up in Australia! - And PB’s got all the juicy details. Plus the boys catch up on some correspondence on dildos, massage horror stories, and getting banned from a restaurant after going for a poo. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64f18657cd9d220010886aa9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PKoBEWFIT-r9XvfSEQSJnlqRczB79ee_JQs8ac8u3Hg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53793600",
+      "itunes_duration": "22:24",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "viral"
+      ]
+    },
+    {
+      "key": "082ffd8f1d3684a05ab3751847ee818bdbaaa3f3",
+      "title": "Help I’ve Been Pinched By A Ghost",
+      "published_at": "2023-08-29T04:00:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a hectic few weeks for the boys, the dust has finally settled and normal life has resumed. But while Jordan’s eager to slow things down and enjoy some cooler weather, things have been heating up for William as he’s been spotted getting a lap dance! All is revealed in today’s episode, along with answers to your dilemmas on what to do when you suspect you’re being haunted, and how do you afford the therapy that comes after realising you’ve drunk your stepmother's breast milk? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64ec7497fcef6500113ee3d1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZYAXqbmeWM8PPN9wI2gAUDkAHO8xmiyLdF8Jlk-esOA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100134451",
+      "itunes_duration": "41:43",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ghost"
+      ]
+    },
+    {
+      "key": "f7d5158b82600bce57bcaff2ac01824f83267165",
+      "title": "Weekend Release: Luxury Next Year?",
+      "published_at": "2023-08-25T04:00:47+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan have landed back in London and have just enough time to have one final review of their time in Benidorm. Summing up this trip is almost impossible, and it's especially hard for William, but the boys give it a good go. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1692949182180-2eee9073275946463b7a13521dd0a8ab.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64e75bee5611300011382345/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uQvOGOUCupjEv92t4ZfPndMQJpH2KXBsiAF8YdfDvOw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24206615",
+      "itunes_duration": "16:47",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "luxury",
+        "year"
+      ]
+    },
+    {
+      "key": "31398f925e3be1b8c56651ae63c96b839bce293b",
+      "title": "Help We're Live In Benidorm",
+      "published_at": "2023-08-22T06:38:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are live on stage in BENIDORM. Join them at the Why Not Bar as they perform to a plane full of G&Divas and half of Jordan's family. There are drinking games, there's Wendy North on stage answering the ultimate question, and there are plenty of tricky dilemmas for our boys to (sort of) find solutions for, including how to avoid revealing your ‘moose knuckle’. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1692685935524-faf533520e6b86748dc25cd2da8cfd8b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64e4571b5fcb340011b74b92/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZBbu30SO7EkpN6qop7i2QJG3loFuY4y8xmD1H9ot05o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "602880044",
+      "itunes_duration": "52:19",
+      "speakers": [
+        "Wendy North",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "benidorm"
+      ]
+    },
+    {
+      "key": "c63e72560bfb7278765d77ee2014654790bfdcb6",
+      "title": "Weekend Release: Oliday From Ell",
+      "published_at": "2023-08-18T04:00:06+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys have firmly touched down in Benidorm, and despite Grandma Glennis’ wise words, it seems that William is living his holiday nightmare. To help convince him otherwise, we asked you to share your ACTUAL holiday nightmares to make William feel better… or at least we hope it does. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1692258990830-6e8076a24d96ab0d147744f9afadb638.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64ddd2e272b677001192bcd8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wjEayu4z_X79oVGJrbAvK2guMiginD5hrcmHOEPgXoQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26446765",
+      "itunes_duration": "18:21",
+      "speakers": [
+        "Grandma Glennis",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "oliday"
+      ]
+    },
+    {
+      "key": "b719787f91f1d87634b9cfedf9150b4c5942588c",
+      "title": "Help We've Entered Benidorm",
+      "published_at": "2023-08-15T05:00:38+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan have landed in Benidorm! One of them is already hungover and one of them struggles to hide their horror for their local surroundings. There's more coffee chat, Jordan introduces William to his extended \"Spanish\" family and there are a string of sexually charged dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1692077805426-190651fe65cd792833b9a350c33747fb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64da52cb49c8ba00117efe87/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bB52FbCoDSl1UlVxcR62wHtUoM_IATUOaRP31s2XdDo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60940983",
+      "itunes_duration": "42:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "benidorm"
+      ]
+    },
+    {
+      "key": "846f52b9e68f41017bb501b371de0139033b0748",
+      "title": "Weekend Release: A Picky Tea... Cha Cha Cha",
+      "published_at": "2023-08-11T04:00:58+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The Diva España weekend is here! But before the boys jet off to sunny Benidorm they have a few pieces of correspondence to go through, starting with a letter about the age-old holiday staple... a sunlounger scrap. We also hear your thoughts on the \"sexy\" Coronation Street theme tune, having a cheeky sip of the holy water, and we've got a treat from our musical G&Diva Robbie! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64d4fb0055d5860011052352/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vVgf30XqB9kJ4SQXEaa4Tc0DFGqC2g6g69elqMnNo0U",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24394037",
+      "itunes_duration": "16:55",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "picky"
+      ]
+    },
+    {
+      "key": "19c09526779112000e5d9412beb1d5b203dec008",
+      "title": "Help I Opened My Mum's Shoebox",
+      "published_at": "2023-08-08T05:59:32+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Preparations for William and Jordan's trip to Benidorm are well under way as they (once again) argue over coffee. Listen out for dilemmas about humming in public, catching naughty business on camera and a final dilemma that's well worth the wait! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64d1d9c44e5d9b001181082e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7BmkIQqDpGf2Vna3R-DfB7p1n0c4O9U4RstQ9At8hMs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71548619",
+      "itunes_duration": "49:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "shoebox"
+      ]
+    },
+    {
+      "key": "52144d454d81b6882f9aa3b8cbd3ef7c7035b28b",
+      "title": "Weekend Release: Tits and Toast",
+      "published_at": "2023-08-04T04:00:45+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We've got a special guest on this Weekend Release, Robbie Taylor Hunt! He worked with William on the film 'Red, White, and Royal Blue' as the Intimacy Coordinator, and the boys (mostly Jordan) have many questions for him. From prosthetics to techniques, Robbie bares all in this special episode! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64cbde3e20765d0011c9ed61/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=r2txwXqfaEPZD3ja3Gfe7bxn9DHMwCtdbmFgjTh7fIc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36750739",
+      "itunes_duration": "25:30",
+      "speakers": [
+        "Robbie Taylor Hunt",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "toast"
+      ]
+    },
+    {
+      "key": "cf2efd1210378a205549d92389b8572e879a1e85",
+      "title": "Help I've Seen Your Member",
+      "published_at": "2023-08-01T04:00:10+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "If it's not William and Jordan driving each other crazy, it's definitely driving EPB crazy as they spend half an hour talking about cars. But with three out of four dilemmas from 'anonymous' G&Divas, you know there's plenty to look forward to in the second half. If you have any complaints about the podcast, we'll be dealing with them in the same style as Airline's Jane Boulton, so you may want to keep them to yourself! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64c7daab6e090900119f0014/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ULQjw9GiZLUVoURcEuCrZylHF-3m_apbsvMYze9NrEo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72160391",
+      "itunes_duration": "50:05",
+      "speakers": [
+        "Jane Boulton",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "member"
+      ]
+    },
+    {
+      "key": "159e28963ee72c76cf8d310533134c2b4aab5d71",
+      "title": "Weekend Release: The Dubonettes",
+      "published_at": "2023-07-28T04:00:41+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Many of you got back to us on Instagram with your boy band name suggestions! So we thought it was only right that we share some of our faves in this week's Weekend Release. We've also had a message from a G&Diva who created a \"sexy time\" playlist for her best friend (yes, we questioned it too), so the boys go through the playlist... and let me tell you there are some strays in there. Plus there's more discussion on washing your new clothes and towels before use, and we've been sent a lovely poem! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64c2d9a18ab13d0012d1cc30/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=C9KUgKEJ872zcScTPnt5Z_YPKzmo31vpypvmCRxUaZc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23870657",
+      "itunes_duration": "16:34",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "dubonette"
+      ]
+    },
+    {
+      "key": "63fc3febd13e859cc855614dda4d0c263039081d",
+      "title": "Help I've Been Rear Ended",
+      "published_at": "2023-07-25T04:00:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There's a bit of tension in the studio today, but the show must go on! It's the first recording since Jordan's return to the UK, so he tells us all about his fun adventures in Mijas, whilst William shares his unfortunate experience at a B&B. We hear dilemmas about a driving instructor with a foul stench in her car, a drunken interaction with a colleague, and a Hyacinth Bucket (Bouquet) loving trucker's fender bender! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64beab79f34f85001136bdcb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MF_rlNVP2SgdP9RrxbkiFxNHOg_fZQgeI2mVEll-e-w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66497774",
+      "itunes_duration": "46:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "rear",
+        "ended"
+      ]
+    },
+    {
+      "key": "7583db3f44118ec560c110ab8fe51ce573c547b2",
+      "title": "Weekend Release: It's A Q&A Spesh!",
+      "published_at": "2023-07-21T04:00:48+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We’ve got a special episode this week. Instead of the regular correspondence, we have a Q&A with the boys! We’ve put together a bunch of your questions about the podcast, including ‘How long does it take to record an episode?’, ‘How did William and Jordan meet?’, and ‘How long will the podcast go on for?’. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64b8fa3ef6632e00112e7795/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yU0b9GnUyt2MDiIr-DiOq41ayljNdar3EE2Gfam66NI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23448564",
+      "itunes_duration": "16:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "spesh"
+      ]
+    },
+    {
+      "key": "d5bdc1c9fe10bed12509a3d9b673dd2f664667e8",
+      "title": "Help My Dog Ate My Housemate's Dildo",
+      "published_at": "2023-07-18T04:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Some role reversals are going on in this week's episode of Help I Sexted My Boss. Jordan’s been living the luxury life at Wimbledon and is about to receive an honorary fellowship, while poor William is getting corrected about the origins of corduroy and has even been worried about committing treason! Luckily, Producer Ben keeps things on the straight and narrow as they answer your dilemmas regarding re-matching on dating apps, using your partner's toothbrush, and getting your colleague fired after recognising their anonymous dick pic. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64b1694671b6290011637736/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8t-tzcMXC1d6AabRspJHNZ5HtfojznqwL0EWgKWHnDM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102495360",
+      "itunes_duration": "42:42",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "housemate",
+        "dildo"
+      ]
+    },
+    {
+      "key": "c691b950ab04af378a0ba0b9293ab214c55cef92",
+      "title": "Weekend Release: The Pocketless Dressing Gown",
+      "published_at": "2023-07-14T04:00:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William has a few handwritten letters that he is currently replying to with some brand-new stationery. Jordan tells us all about his busy weekend at various events, and we have your Instagram responses from our story asking you to finish the sentence \"You know you're a G&Diva when...\". Plus the boys chat to two more Diva Espana winners! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64b01c415df0030012af93ea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=GHiLY36_re08zTVtBrtMiAqg0MotdP9i6PgpQXh916s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30111253",
+      "itunes_duration": "20:54",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "pocketless",
+        "dressing",
+        "gown"
+      ]
+    },
+    {
+      "key": "bd4edf7306223dc3958acb3e16b918871f2ba562",
+      "title": "Help You're Being Demonstrative",
+      "published_at": "2023-07-11T04:00:57+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a difficult post-Glastonbury week for everyone, Jordan's ready for his 'mega weekend' and William's picking Jordan up on his latest excuses. There's also a Jordan lookalike who's been getting up to no good and Jordan questions whether William is good or bad. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64abd52c4d889200101c8ee9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_1EXu5_ty5b34PJ0Z4bQnx7CXdPtqsQ8tl15pEQ7jPo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58106130",
+      "itunes_duration": "40:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "youre",
+        "being",
+        "demonstrative"
+      ]
+    },
+    {
+      "key": "3d02c1b065ca641106de009c271800cc1f228581",
+      "title": "Weekend Release: Lee-dow or Lie-dow?",
+      "published_at": "2023-07-07T04:00:36+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With just over a month until Benidorm, Jordan has a couple of five-star reviews of Costa Blanca’s top attractions to try and put William’s mind at ease about the trip. Keeping up with the holiday spirit, we asked you to tell us your best swimming pool chat up lines and you did not disappoint! We also have a chat with another Diva Espana competition winner! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64a6c1d1b6066e0011834a3d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=HpwhDUccW-2mU-4hC-zysmcxIYeigtLj5KY5Mc09rxM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24863952",
+      "itunes_duration": "17:15",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release"
+      ]
+    },
+    {
+      "key": "789ee5282b3759619e086bceb2ba79c73f6efe93",
+      "title": "Diva Espana: Help My Father-In-Law Got Pumped",
+      "published_at": "2023-07-04T04:00:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There are toasts flying around today after Jordan received some lovely news, and William's brother, James, is off to pastures new. There's also an elephant in the room in the form of Producer Ben's post-Glastonbury state... Talking of Glastonbury, Jordan tells all about his weekend at the festival, and we have dilemmas asking the boys what do you do when you have unannounced guests: when is the right time to meet your other half's parents and how to deal with seeing your father-in-law in a compromising position. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64a2bec66ada5900111cee62/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3KxPTEPny8YC2JORYMTgFa8CJqVRT3aEE80Xr_WBac0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66124155",
+      "itunes_duration": "45:54",
+      "speakers": [
+        "Diva Espana Help My",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diva",
+        "espana",
+        "father"
+      ]
+    },
+    {
+      "key": "fa3d7229191199cf74a6bbd641436292e87da205",
+      "title": "Weekend Release: What Ever Happened To The Potato Peeler?",
+      "published_at": "2023-06-30T04:00:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan and Ben have just returned from Glastonbury and it's safe to say one is doing much better than the other. But we have something in store for two G&Diva's that's more exclusive than Glastonbury tickets... A place on the Diva Espana plane! William and Jordan chat with the lucky winners before getting into your correspondence about the etiquette of cancelled tour tickets, finding closure on the potato peeler saga, and dreaming about the sunny beaches of Benidorm. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/649d6c952aaf1b0011190670/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OpYMmWDIwhhDCIHDLcJt6bu857j5sw9AXoIC31YQhng",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25970145",
+      "itunes_duration": "18:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "potato",
+        "peeler"
+      ]
+    },
+    {
+      "key": "e08965e190f701c5b4c7160908f41328c8458e79",
+      "title": "Diva Espana: Help My Dad Lied About The Dog",
+      "published_at": "2023-06-27T04:00:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "G&Divas are being discovered all over the country at the moment. You wouldn’t know it, but they are the scriptwriters in Eastenders, the organisers of major festivals, and are even being found working in the grounds of Windsor Castle! And just like you, they cannot wait to find out how William and Jordan can help with your dilemmas on topics such as dealing with being your mates boss at work, how to chat someone up at the swimming baths, and what to do when your librarian finds X-rated content on your laptop. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64946e6718e50d00111e1fba/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ag7PaybRJbz1RzPhJYGeqzwE1SiBd3u3qrYfRwX41Vg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "459048044",
+      "itunes_duration": "39:50",
+      "speakers": [
+        "Dad Lied",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diva",
+        "espana"
+      ]
+    },
+    {
+      "key": "da41de402093cc1e8793537c92b93734859c72e9",
+      "title": "Weekend Release: A Horny Haunting",
+      "published_at": "2023-06-23T04:00:36+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys have good news for not one, but two lucky G&Divas who have won a place on the Diva España plane! Keeping our spirits high, Jordan gets validation from a listener about the Gay Ghost, William reads out correspondence about an embarrassing experience at the pharmacy, and we hear back about two previous dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6493747b8103980011418b00/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=h3-gmH3FEawfjzGQZZgs9V7dTI6JlgieNaYLJl3lD_0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23409939",
+      "itunes_duration": "16:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "horny",
+        "haunting"
+      ]
+    },
+    {
+      "key": "c31c6cd873aa7fae7c6e3476d72de53cb7987e12",
+      "title": "Diva Espana: Help They Won’t Pay Me Back",
+      "published_at": "2023-06-20T04:00:31+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In today’s episode of Help I Sexted My Boss there are some questionable opinions on the prolificacy of hayfever in Europe from our Jordan, and William’s been getting schooled on punctuation by the DVLA of all places! But there’s no questioning their expertise in solving your dilemmas on topics such as how long is too long to ask for someone to pay you back, and how to tell your partner you’re not ready to poop in front of them. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64905ad1437de5001132c0bf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DhzHvveAWXgIbcLC9ptKHf-klLDpwCHBGgLrDY2yWmU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115562653",
+      "itunes_duration": "48:08",
+      "speakers": [
+        "Diva Espana Help",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diva",
+        "espana"
+      ]
+    },
+    {
+      "key": "5b5fe25693e5f88a26b1f1f81a6db64c1e2ccf5e",
+      "title": "Weekend Release: The First Diva Espana Winner!",
+      "published_at": "2023-06-16T04:00:41+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We’ve got a very exciting announcement in today’s episode… The first Amazon Music Diva Espana winner! We’ve also received correspondence from a G&Diva living in Benidorm, someone in need of Jordan’s Invisalign tips, and a listener who is using an app to meet new friends! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/648b218ecee254001189af6b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BaZuv4JTKpT_9YrpiJ9WIZEipoYvmENXiMTsjsCIH0Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38258880",
+      "itunes_duration": "15:56",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "diva",
+        "espana",
+        "winner"
+      ]
+    },
+    {
+      "key": "78f4f619223c70ca2bf2bf084305359aec168598",
+      "title": "Diva Espana: Help I Dusted Off Dusty",
+      "published_at": "2023-06-13T04:00:34+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Have you ever wondered what the Spanish for ‘have I changed’ is? Or ever pondered on the French for ‘Wendy, can I borrow your potato peeler’? Well in today’s episode William and Jordan answer all your Sexted translation needs! They also help with your dilemmas on travelling the world solo, breaking bad news to children, and how to deal with accidents involving sex toys. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6487434c90d3570011b44290/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ibsURo6NuZVWFkT4_ud4P0qeDFN247Ls_XVw8MaipzM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110670720",
+      "itunes_duration": "46:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diva",
+        "espana",
+        "dusty"
+      ]
+    },
+    {
+      "key": "672f8dcf68de9632da3619576d1d051215058f4a",
+      "title": "Weekend Release: The Toasted Tampon",
+      "published_at": "2023-06-09T04:00:41+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Things get a bit heated in today's Weekend Release, from calling each other names, to a fiery follow-up from a G&Diva who just wants to keep the contents of their bin private. William recalls his experience working on a film set, and Jordan is truly horrified at a traumatic penis story... I think it might be time to put the penis chat away after his one. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/647a498c8b2ceb0011aea1d0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Xd6lW6iWMnaMeIVSBII58O-PRuBITIbeS-JsMa1Cx_4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21937328",
+      "itunes_duration": "15:13",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "toasted",
+        "tampon"
+      ]
+    },
+    {
+      "key": "482b7da333b117e84b16583cc9f8071a04c753fa",
+      "title": "Diva Espana: Help It's Your First Chance To Win",
+      "published_at": "2023-06-06T04:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ahead of the inaugural meeting of the AFLC (Air Fryers Lovers Club) later this week, the boys have got together to settle some particularly tricky dilemmas involving friends taking advantage of your hospitality, how to cope with being in position of authority at work when your the youngest staff member, and what you should do when a blind date goes COMPLETELY wrong. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/647df8ecf8f5e40011eb6276/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Z4_u5abEzsxEMEqtP_9-2LgCWVWT6T4Ke6Wj4KOOoHQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119196480",
+      "itunes_duration": "49:39",
+      "speakers": [
+        "Diva Espana Help",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diva",
+        "espana",
+        "chance"
+      ]
+    },
+    {
+      "key": "ff6e5d60093c12d44fc204c14807eb49d6fbd98e",
+      "title": "The ultimate G&Diva summer holiday in Benidorm!",
+      "published_at": "2023-06-05T16:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As part of the Help I Sexted My Boss 5th birthday celebrations, Jordan North is taking William Hanson on a long weekend of Sexted shenanigans in Benidorm, and, the best bit is… you can join in the fun! With the help of the newly-named Producer Benidorm, and thanks to Amazon Music we’re taking a load of lucky G&Divas on holiday to the Costa Blanca with travel and hotel accommodation sorted. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/647de0b1aa1f1000112a844e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=A6XOFrjwztGWdvEPPLwc-dcBicU6t-R5GZfByBiYhYY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1400132",
+      "itunes_duration": "0:35",
+      "speakers": [
+        "Jordan North",
+        "William Hanson",
+        "Producer Benidorm"
+      ],
+      "topics": [
+        "summer",
+        "holiday",
+        "benidorm"
+      ]
+    },
+    {
+      "key": "db5ead478cb58a28de490651e33a625997f404dc",
+      "title": "Weekend Release: The Yorkshire Pudding Millionaire",
+      "published_at": "2023-06-02T04:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "All of you G&Diva's have been going wild after this week's Diva España announcement! An excited Jordan and a sceptical William read out your initial reactions and questions about the trip, plus as an extra treat... we have a very special musical guest on the show! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6478751d50150f00114c3c41/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=adF9rcOYqh34qPMzxAZ66D8zt4JwLki957sZzTVXhLs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20517623",
+      "itunes_duration": "14:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "yorkshire",
+        "pudding",
+        "millionaire"
+      ]
+    },
+    {
+      "key": "628d0b832cf9c3789f6b0fa7bbeecde0487825b2",
+      "title": "Help He’s a Gummy Bear",
+      "published_at": "2023-05-30T04:00:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After we hear Jordan worrying about the rise of AI and William having issues with the clientele of service stations, the boys reveal they have a BIG, BIG announcement to share with the G&Divas! There’s also the small matter of solving your dilemmas on family members looking through your bins and how to politely deny a visit from the toothless fairy. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6470dc4976120a001195b2f4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KdYZQAaJ4VR4diNnUEVAwX2n02MzoxLTBvEF9UmcQWY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109586030",
+      "itunes_duration": "45:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "gummy",
+        "bear"
+      ]
+    },
+    {
+      "key": "ab35712423725d3e00959b30afb1d7b437ae8543",
+      "title": "Weekend Release: I’m A Widgie Man, Myself",
+      "published_at": "2023-05-26T04:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys are in top form today, getting straight down to business with your correspondence. They kick off with your funny nicknames, some of which are more acceptable than others. We hear a heartfelt letter from a listener responding to a bridesmaid's dilemma, and a discussion about the best type of coffee quickly evolves into penis talk… again. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/646f44e14fb66f001182c682/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gP7afloL-G7CRFhSOwTo6aAPUbW4wyrHHh-7V171d1g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14725206",
+      "itunes_duration": "10:13",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "widgie"
+      ]
+    },
+    {
+      "key": "89b934c58244ceebcd94a6fc3277264dc0a19cac",
+      "title": "Help My Brother-In-Law's Coming On To Me",
+      "published_at": "2023-05-23T04:00:02+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys have all been jet setting lately. Jordan’s been to Chicago, William’s been up the highlands and down again, and even Producer Ben has been allowed on holiday! (What happens in running club, stays in running club). But thankfully they’re all back to earth with a thud to answer your dilemmas on which biscuit to have with your tea, how to navigate speed dating in the age of dating apps, and how to tell your wife that her brother made a pass at you. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/646b7252336eae00102fdd12/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=U8t13TYFrJ1CPPMauBqhgj1EvWycfwYaD0Ax1ZtfzSw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115130880",
+      "itunes_duration": "47:58",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "brother"
+      ]
+    },
+    {
+      "key": "52aa7cc78a3bc7630adcfdaee3b46a4baedbf6b5",
+      "title": "Weekend Release: Polla De Burro",
+      "published_at": "2023-05-19T04:00:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Now that William, Jordan and Ben are back from their respective holidays, they can get on with reading your correspondence! Stephen has been in touch with an update on accidentally flashing his soon-to-be mother-in-law. Questions are raised about pineapple tattoos, and we hear what the boys have in their freezers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64662f6e7973b5001041be37/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oDEME7CYLZJ_qxG1NpdJLAYWNNtRa7Y9F58QgFGL1BU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23710224",
+      "itunes_duration": "16:27",
+      "speakers": [
+        "Polla De Burro",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "polla",
+        "burro"
+      ]
+    },
+    {
+      "key": "63e8d322f04396870e627dab55ae77b2c0940b71",
+      "title": "Help I Saw My Boss’s Sex Tape",
+      "published_at": "2023-05-16T04:00:08+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s a strange vibe in the studio today. Mysterious visitors, morbid topics of conversation, and the return of an awfully distracting noise! This doesn’t, and never will phase the consummate professionals that are William Hanson and Jordan North though, as they guide us through dilemmas involving finding explicit content on your boss's CD collection, how to say 'no' to being a bridesmaid, and (god forbid) what should you do when you nearly go down on your mother-in-law?! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6461f3bc10dbac0011abc709/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8TKDBaPTwMaedPzAA0ULxja12COz1Qrf7c5_rueLL8E",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94351306",
+      "itunes_duration": "39:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boss",
+        "tape"
+      ]
+    },
+    {
+      "key": "47a47927a2f0c8cbcd0dc82d8a57b04368dc1a09",
+      "title": "Weekend Release: Shocked Into Dislocation",
+      "published_at": "2023-05-12T08:31:30+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "All of you VIG&Diva's will know that there's a poll in every Sexted newsletter, and for the first time ever... we have the results! We will finally find out if you are more William or more Jordan! Also in the Weekend Release we hear from a listener who received a happy ending after following advice given by the boys, we have more Sexted injury stories, and there's a disturbance in the studio. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/645df9622d07d300111a043b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BmtAUCilxE7TkG_7i51uP696yGzBLp9D8t4yoRevyPQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14614614",
+      "itunes_duration": "10:08",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "shocked",
+        "dislocation"
+      ]
+    },
+    {
+      "key": "ce55a77699e6da2040ccfd2b793673385ce23969",
+      "title": "Help I Need To Delete My Vinted",
+      "published_at": "2023-05-09T04:00:23+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "On the back of yet another luxury bank holiday weekend, William reacts to the 'Corry B', Jordan compares his acting skills to those on the West End and the boys can't decide which children's television characters are actually evil. Meanwhile in the dilemmas there's a G&Diva who's known for making an entrance and another who needs to be more careful when showing their dentist pictures of their teeth. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64596d9a9ac3930011927cd2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=v4qi6MZlMiUydHKqxVZDb66pK7syk0ZEVgW0rZ-PgUA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62616219",
+      "itunes_duration": "43:28",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "vinted"
+      ]
+    },
+    {
+      "key": "72c2590fa58d6f71ecf4de4acf90c3d075644ac9",
+      "title": "William’s Surprise, Darling",
+      "published_at": "2023-05-05T04:00:54+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan and Ben have been keeping a secret from William and today the cat's out of the bag! It's a very special guest, the one and only Alex Polizzi, the Hotel Inspector! The boys chat with Alex about all things hotels, she brings her own dilemma to the boys, and William answers your Coronation questions. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6453d28cd4018900116e0125/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hwzRkO62Q8tfo6E33epB3oTdgH5KYNpNAmMpnfVEbO4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54385686",
+      "itunes_duration": "37:45",
+      "speakers": [
+        "William’s Surprise",
+        "Alex Polizzi",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "surprise",
+        "darling"
+      ]
+    },
+    {
+      "key": "a2cb004bdc54cabb90f82825b9c03493f51b445a",
+      "title": "Help My Pug's Got My Plug",
+      "published_at": "2023-05-02T04:00:02+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's one of those episodes where you're just going to have to wait right until the end to hear an all time classic listener dilemma. Before that there's an unexpected new entry for Jordan's diary, a faux pas by not just any British supermarket and a whole new category of song for the banger v whopper debate. And that's before three other superb dilemmas for William and Jordan to sort out. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/645017a473fbd100115c3f50/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UB5QeSrCqz6fnBptr0ucQyJK0zE7-u9wU8XXFVuxNtY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60493169",
+      "itunes_duration": "42:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "plug"
+      ]
+    },
+    {
+      "key": "49708503cec136e2bc99b4b9071fb6359f54426a",
+      "title": "Weekend Release: Doctor Jordan North",
+      "published_at": "2023-04-28T04:00:01+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan have finished writing the book! Whilst it's fresh in their minds they answer your pressing book-related questions, Jordan receives a gift from his old student's union, and he drops a bombshell on us in the form of a letter from his University, and William reads out correspondence from a G&Diva with an update on accidentally sleeping with their bosses daughter! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6448e180f2773f0011e1472f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=EFGpD3TeE7Lv_au0K7fdsjyxit4DgLEeQEAgcEIbAnc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23648598",
+      "itunes_duration": "16:25",
+      "speakers": [
+        "Jordan North William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "doctor",
+        "jordan",
+        "north"
+      ]
+    },
+    {
+      "key": "5406b0779e8aa05a457b5ed90167060191235ea4",
+      "title": "Help I Got Frisky With The Grocer",
+      "published_at": "2023-04-25T04:00:11+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Lots of things are getting dropped in this week's episode. A poor G&Diva dropped a weight on their foot, William casually dropped the news that he’s got a new toy that’s sure to make Jordan jealous, and Producer Ben dropped a bombshell about his helmet! But as always the boys had time to drop some advice for those who need it, including how to get rid of your best friend after you’ve made them your roommate, and what to do when your partner says their ex’s name in their sleep. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/644647d9d18c1300111b1a00/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=IyZ_J3y1nSZzI8ZTd2BszN9IwgL0TNFPeCwDExEfAMM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83120640",
+      "itunes_duration": "34:38",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "frisky",
+        "grocer"
+      ]
+    },
+    {
+      "key": "9b68c6669cbae2916ce98f8e303bfaf343857410",
+      "title": "Weekend Release: Erika's Foot",
+      "published_at": "2023-04-21T04:00:59+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "You've probably heard of the phrase LMAO (Laugh My Arse Off), but have you heard of LSHIBMF (Laugh So Hard I Broke My Foot)? Fortunately for the vast majority of us, we will never experience this phrase. G&Diva Erika wasn't so lucky. In this week's Weekend Release you can hear what happened to Erika during one of her recent gym trips, learn some Australian phraseology and William comes bearing gifts for EPB and Jordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/644162bdd18c13001136504b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OtF4zPbVuYfINozSzFx5wbctvJpD3LcQ_Grp2TNsgPI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22167680",
+      "itunes_duration": "15:23",
+      "speakers": [
+        "Diva Erika",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "erika",
+        "foot"
+      ]
+    },
+    {
+      "key": "a28e35ebcab19f3a2834652360506e4cb5250de7",
+      "title": "Help My Steven's Got A Big Willy",
+      "published_at": "2023-04-18T05:34:52+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After jet-setting across the globe, the boys are back on home soil with plenty to unpack (including Jordan's dancing shoes). There’s also the small matter of dealing with your dilemmas on introducing new friends, how to break up with your personal trainer, and what should you do when you accidentally flash your ‘love length’ to your mother-in-law. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/643e2bfc4c61dd001149f4de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NpL3TSRaSU3ZQffolizRQgWlK2WPx1HLMWKqSG5pWhY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100280640",
+      "itunes_duration": "41:47",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "steven",
+        "willy"
+      ]
+    },
+    {
+      "key": "73ee279498da012ebcc62b045de1ec3623235a29",
+      "title": "Weekend Release: The Boys Are Back In Town",
+      "published_at": "2023-04-14T04:00:06+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After jet-setting across Asia and America, William and Jordan are back in the studio! They hear from a new listener whose dog helped them find the podcast, we find out how to order tap water at posh restaurants, and Jordan takes us through more words from his Northern Dictionary. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/643824ef3c78ad001126cac0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fp77S465A-TlKKiCI3wgD_8D_MfA-wGc35PD9xwrsQk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22000662",
+      "itunes_duration": "15:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "boys",
+        "town"
+      ]
+    },
+    {
+      "key": "a18c4b3236b744f6eab948654fdaeb11d2db7108",
+      "title": "Help He’s Got A Donkey Cock",
+      "published_at": "2023-04-11T04:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan is in a very funny mood this week (possibly from all the chocolate he's been eating) and it seems to be spreading. William has been wearing weird socks to the gym and even Mikey has been acting up by putting some very peculiar items in the fridge. The strangeness doesn’t end there though as we hear your dilemmas on being asked to pay upfront for your friends birthday party, what you should do when you swear in front of a bus full of 8 year olds, and how on earth should you react to finding out your uncle has a ‘Donkey Cock’. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64315d48a20c250012f79c59/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZQH7E5zPEZh8_sm4w0y1zXkqAJ27HBzZkYjFgO5uquU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106050240",
+      "itunes_duration": "44:11",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "donkey",
+        "cock"
+      ]
+    },
+    {
+      "key": "03826a4222ec39c25b9ec3db1be99a985b4e9fa2",
+      "title": "Weekend Release: William Doesn’t Have a Wikipedia Page!",
+      "published_at": "2023-04-07T04:00:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week Jordan gets his Northern Dictionary out, there's a game of spot the live, laugh, love sign, we may have gained our eldest listener yet, and there's a very patriotic sing-a-long. We’ve also had the realisation that Mr William Hanson does not have a Wikipedia page… and one listener thinks we should do something about it. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/642d39222627140010eaffd7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Ce809i2-LSySws4smLCf7kGMVT0E19Aedd4zlVaEdTA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22132153",
+      "itunes_duration": "15:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "wikipedia",
+        "page"
+      ]
+    },
+    {
+      "key": "5f2bcf89738355b8c59bfc16f0e331a2ffc93c9b",
+      "title": "Help I’ve Shagged My Boss’s Daughter",
+      "published_at": "2023-04-04T04:00:30+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There are a lot of strange noises in this week’s episode of Help I Sexted My Boss… singing, squeaky bottles, songs about potato peelers, and even a mysterious knock at the door! But despite all these distractions, the boys get down to business in answering your dilemmas on negative workmates, accidentally becoming a thief at the gym, and what you should do when you find yourself in bed with the boss's daughter. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/642aa853de6a3f00114f93ea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=c-uSk-g4DJn2LQ3TpZw6Z-fyuP7Ew0eL-yod1gX7tP4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105127680",
+      "itunes_duration": "43:48",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boss",
+        "daughter"
+      ]
+    },
+    {
+      "key": "16bbbe6a8105e5acb064b6aaf4f97de2b59d0631",
+      "title": "Weekend Release: Top 5 Moments Countdown",
+      "published_at": "2023-03-31T04:00:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The birthday festivities continue with a very special Weekend Release! This week we’re counting down the top 5 Sexted moments! William and Jordan run through your favourite bits from the podcast over the last five years to reveal the best moment as voted by you, our G&Divas. We’ve got snippets, voice notes and reactions… everything you could possibly want from a countdown! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/642599c10cfcac00114107f1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5jgXrME8D1O4HVUhVkuocE7I2hhwFHULriB4pMrYuW4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24487254",
+      "itunes_duration": "16:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "moments",
+        "countdown"
+      ]
+    },
+    {
+      "key": "59b8cc8b431cc6f102a83e6a75c139c072b61144",
+      "title": "Help It’s Our 5th Birthday Livestream",
+      "published_at": "2023-03-28T04:00:43+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Doesn’t time fly when you're solving the nation's problems? Join William Hanson, Jordan North and the Sexted team for a livestream spectacular featuring a dodgy picky tea, an even dodgier oil slick, a 'Give Me The D’ singalong, wacky jokes, and plenty of live dilemmas to celebrate five years of Help I Sexted My Boss. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64219ce5039ec5001112ad62/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vfLGHApypYVs48roudlSDn6FVAK71LMSxwOyaBNW42E",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "187381440",
+      "itunes_duration": "1:18:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "birthday",
+        "livestream"
+      ]
+    },
+    {
+      "key": "b3bfcae21e1707e7b7e2974818288c42aeaf2ad6",
+      "title": "Weekend Release: A Handwritten Spesh",
+      "published_at": "2023-03-24T05:00:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week the boys dig deep into William's bulging sack and pull out a bunch of your letters! Welsh Stu makes an appearance, we have a touching letter from a G&Diva who finds solace in listening to the podcast, and we hear about some very horny housemates. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/641c31b1a7146c0011776dff/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LO_PDiMcpXSGOs5eq7DJl2eGb0qvis-kceJtilYrRbs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25383473",
+      "itunes_duration": "17:37",
+      "speakers": [
+        "Welsh Stu",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "handwritten",
+        "spesh"
+      ]
+    },
+    {
+      "key": "0482d6f6288b53062a83aa0c1aa35609d39f7631",
+      "title": "Help There’s Something In The Butter",
+      "published_at": "2023-03-21T05:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week's episode is all about fresh starts. The Sexted studio has had a glow up, Producer Ben’s feeling refreshed from his holiday, and Jordan has finally conquered the humble Yorkshire pudding! The feeling is short lived though when the boys get on to your dilemmas about cutlery etiquette, pervy father-in-laws, and some rather distasteful activity involving butter. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64188153647e70001101a244/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wuniXL5_m-eL4RUG6xZ5btdMu0JZLMJ7BneypdHiL5k",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96440640",
+      "itunes_duration": "40:11",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "butter"
+      ]
+    },
+    {
+      "key": "a6f7ed2fd2bab9ca624836e15a7b81c4f4318e52",
+      "title": "Weekend Release: We’ve Penetrated The Sphinx",
+      "published_at": "2023-03-17T05:00:58+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Wendy’s potato peeler continues its journey across the globe! This week we hear from a G&Diva who is helping bring our growing call and response to one of the Seven Wonders of the World, we’ve received correspondence on how to deal with bad drivers, and the boys deliberate over a listener being told that they’re too old to listen to the podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6410d4a62467c90011dd903f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nQ8vkJu0j3rESxcqXKeRErfqS1z037MDvZng5WnTa_8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17401607",
+      "itunes_duration": "12:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "sphinx"
+      ]
+    },
+    {
+      "key": "ee60fd4ab851568ed9706dedff82398bf6f0eaf4",
+      "title": "Help I’m Handling Unexpected Plums",
+      "published_at": "2023-03-14T05:00:30+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week's episode of Help I Sexted My Boss, things have gotten off to an awful start. Executive Producer Ben has messed up printing the scripts, Jordan is furious when he finds out there are no brownies in the downstairs cafe, and poor William is bearing the brunt of it all! But despite all of this they somehow still find time to go through your dilemmas including accidentally getting handsy with a doctor and getting caught with some ‘personal’ toys on a trip back to the family home. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/640f02d350e9ff0011cf472b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=x2AeaWH1IYf19YmVV4iYqr9AtHoMtb0k3xuliQV4VbU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91350720",
+      "itunes_duration": "38:03",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "plum"
+      ]
+    },
+    {
+      "key": "4422a5ef8f33d2b27e70a3613d2655cc92617f61",
+      "title": "Weekend Release: Vicar Tom is back!",
+      "published_at": "2023-03-10T05:00:27+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week the boys hear from the REAL Vicar Tom, as he blesses us with his wisdom in response to a dilemma that only he can help with. Wendy and her potato peeler are still causing havoc on the airwaves, and a G&Diva across the pond tells us about their unfortunate Ring doorbell incident. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6409ff28c84e2f00115782d8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yQrGFnpM8aWHxRkGgBqTY-GPUZUZgt_2ox6MM03s9RY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20369393",
+      "itunes_duration": "14:08",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "vicar"
+      ]
+    },
+    {
+      "key": "9216dbd7fd3167bd9577387eb887e6c9da36f0dd",
+      "title": "Help I've Had A Slaggy Summer",
+      "published_at": "2023-03-07T05:00:02+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week's episode of Help I Sexted My Boss we find out what happened when the UK’s leading etiquette expert had his first ever hangover, and which of the boys has had more 1 star reviews on Uber (you’ll be surprised). Plus we hear your dilemmas on workplace arguments, care-free summers, and lively love aids on public transport. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/640603b90c79dc001102226e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CDTZRlYXKPLd__qzBsumq6gQ1Ah9h0uG_lkQADUT4Ss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109795200",
+      "itunes_duration": "45:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "slaggy",
+        "summer"
+      ]
+    },
+    {
+      "key": "78b78c5fad180ffe903a4bba50b054aaac4c26b5",
+      "title": "Weekend Release: Trip To The Publishers",
+      "published_at": "2023-03-03T05:00:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys are on a field trip to Penguin Random House! There’s just one problem with their new and fancy surroundings whilst recording this Weekend Release… and that’s Jordan, who is completely distracted by the most books he has ever seen. When William can get him back on track, we hear from a G&Diva who had marital problems, and Jordan tells us about his unfortunate Saturday Night Takeaway experience. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6400a64c94beef0011118476/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nMWbChjZE83ERLhSvwX0IYUEv81K0ValJTZutl0_tXo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23317890",
+      "itunes_duration": "16:11",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "trip",
+        "publisher"
+      ]
+    },
+    {
+      "key": "a0bb6b01cf27ed7a7f4ea547ee256107c2dd1f0c",
+      "title": "Help I Massacred The Bed Sheets",
+      "published_at": "2023-02-28T05:00:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The studio is full of noise and disturbance today - the bin men have turned up, people are chatting loudly outside, dogs are barking, and Diego isn’t even there to be blamed for once! But Jordan and William are doing their best to bring an ocean of calm to proceedings as they answer your dilemmas involving whether it’s ever ok to discuss your previous sexual experiences on a first date, and what to do when you find out over WhatsApp that your father just got remarried. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63fcd340c89ace001112e3d4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jOa4EnaAFGpU00jPxFwwcRjAccQKgjl1cr1yIy_xMYc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98560320",
+      "itunes_duration": "41:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sheet"
+      ]
+    },
+    {
+      "key": "e48c8bd086923934a0efb7c9d7b00e026dd99aea",
+      "title": "Weekend Release: Get Hard and Come Home",
+      "published_at": "2023-02-24T05:00:25+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William finally opens his sack! And it’s full of your handwritten letters and artwork. Jordan has just returned from a family trip to Spain where he stood in a lot of urine… and we accidentally cockblock a couple, mid-coitus. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63f73869d49c3c00110e90b2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=j8veX-bpnzVoMyTt2mcmuP1kixvdtMucl4I0028ft0M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26807345",
+      "itunes_duration": "18:36",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "home"
+      ]
+    },
+    {
+      "key": "e3e60c409f15a00d4ff0655365e79ec3f9488cd4",
+      "title": "Help My Friend Is In A Cult",
+      "published_at": "2023-02-21T05:00:41+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys finally tell us about Jordan's birthday bash, which went off without a hitch! Apart from the treacherous, rage-filled parlour game... We also hear from a listener whose friend gets roped into joining a cult called \"The Coven\", Jordan finds his clairvoyant powers, William issues a warning to all partygoers about Ring doorbells, and the boys have an exciting 5th birthday announcement! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63f3df3bcef8ec00112c3493/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=57syXKk-JUfu35yGdE83w8Y92MPirJ-6asC8eNZqnr0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111203520",
+      "itunes_duration": "46:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "friend",
+        "cult"
+      ]
+    },
+    {
+      "key": "87722756d43c2649bd84a45cea12752747cbc502",
+      "title": "Weekend Release: Help us Vicar Tom!",
+      "published_at": "2023-02-17T05:00:24+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/weekend-release-help-us-vicar-tom",
+      "description": "William, Jordan and EPB have decided to record this week’s Weekend Release in the morning… And we all know how that usually goes. To keep things civil, they take a look at some of your ‘Wendy, can I borrow your potato peeler?’ videos, play a game of ‘Is this Princess Margaret’s morning or Jordan North’s?’, and face a dilemma that only Vicar Tom can help with. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63ecd2db2ca29e00118ff195/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6xHw-chKWr_U78S5KLGTjbamZRUeUzf0EOHKe9ZWqbs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26169137",
+      "itunes_duration": "18:10",
+      "speakers": [
+        "Jordan North",
+        "Vicar Tom",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "vicar"
+      ]
+    },
+    {
+      "key": "9d69431a0c76679487cf7aab59638e4a66ad959e",
+      "title": "Help I’ve Got Lunch With An Earl",
+      "published_at": "2023-02-14T05:00:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s been a very strange week in the world of Sexted. We saw a G&Diva prank William’s brother, James, live on national radio, “Wendy, can I borrow your potato peeler” went viral around the world, and to top it all off William has been out buying rounds in the pub - what is happening?! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63ea4fb04d5d3300113148ed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=07m3kfWCt1Y0sp5TnOuZRodQbRef06dr6jKF0iCCtWA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79182720",
+      "itunes_duration": "32:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "lunch",
+        "earl"
+      ]
+    },
+    {
+      "key": "ab8957b7ebe366bdb3235a75c49bee3260096b9f",
+      "title": "Weekend Release: The Writers' Room",
+      "published_at": "2023-02-10T05:00:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week Jordan and William are in the \"Writers' Room\" to start on the book, but in true Help, I Sexted My Boss fashion, they are procrastinating by reading your correspondence instead! In this Weekend Release, we hear how Wendy and her potato peeler are helping kids in Australia, Jordan contemplates your alternative party parlour game suggestions, and the dreaded topic of iglooing pops up again. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63e531954534bc0010a5cc0c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ymEsCl52ypyusYxEuAeBZx84pnEYaFtGhK5dQvG9zcA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28683869",
+      "itunes_duration": "19:54",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "writers",
+        "room"
+      ]
+    },
+    {
+      "key": "f3444fa7fa84e3305f0ffb8e8749a5c1a30b9ac2",
+      "title": "Help There’s Pubes In My Pencil Case",
+      "published_at": "2023-02-07T05:00:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s been a stressful week at home for William and Jordan. William has had decorator drama and needed to exorcise some very strong heterosexual energy from the flat, while Jordan is starting to panic about hosting his first dinner party at the new house. They also go over your dilemmas including a very chatty boss and some risqué behaviour on a train. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63e122b6b455cc0011b79fb4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ytBv26nDi9jtiPH0fV9CmSB8qzntwQrDZZA-x1xUq5s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94450560",
+      "itunes_duration": "39:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "pubes",
+        "pencil",
+        "case"
+      ]
+    },
+    {
+      "key": "d46d6622f3ddfbbe5c30497bfab3b8f10504eb56",
+      "title": "Weekend Release: The Potato Peeler Legacy",
+      "published_at": "2023-02-03T05:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this jam-packed Weekend Release, the boys reflect on the big announcement of the Help I Sexted My Boss Book, we get a professional opinion on the cleanliness of a dog's mouth, we hear an update from Molly and her very loud, very kinky housemate, and to top it all off Wendy's potato peeler is becoming an online sensation... or at least we hope it is. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63dbf4e414679700117fa421/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_P4SK6nK2-74EJuxLkdSL9hYcR1RLtpZwj_bWsMyD6M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40346880",
+      "itunes_duration": "16:48",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "potato",
+        "peeler",
+        "legacy"
+      ]
+    },
+    {
+      "key": "8a9b8014ed9d7ee26e83c0f5ec0a02a72ee2ba7b",
+      "title": "It's Time To Reveal Ourselves",
+      "published_at": "2023-02-02T10:00:47+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We've been teasing you for weeks, but now is the time to reveal ourselves. William Hanson and Jordan North spill the beans on their little secret. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63daa0ab02c87c0011e885d0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OKrd0PXfylWMRN5Xn68zWBqxSCqKuFG7yEOIOb4xF9M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28500480",
+      "itunes_duration": "11:52",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "time"
+      ]
+    },
+    {
+      "key": "070ee3f05e0b586585d1737012f2884d3cbd54ee",
+      "title": "Help I'm Scarred For Life",
+      "published_at": "2023-01-31T05:00:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s tension in the studio today. Everyone’s routine has been messed up and it’s showing. Jordan’s under the weather, William’s got a bone to pick with New York City, and Producer Ben’s practically in tears. But they manage to put their differences aside to answer your dilemmas on topics such as urinal stage fright, the correct etiquette for farting in bed, and something called Igloo-ing? (You have been warned). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63d7d20c5c20d40011232160/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=I2EFsqpYf4tELewzLpUSaZQxA6t7hWgEOQniVuWzyR8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100680000",
+      "itunes_duration": "41:57",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
+    {
+      "key": "ed22305725aaf5c9f42c996cbeb62c56df662175",
+      "title": "Weekend Release: Lube Wrestling",
+      "published_at": "2023-01-27T05:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan’s upcoming birthday party is in need of some fun activities so William and the correspondence give him some well-needed inspiration, Wendy and her potato peeler are officially A-listers in New Zealand, and one listener questions Diego’s identity. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63d279fd0a4acc0011ac20e0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=GaZ0OlFjVbJ8xsgupSTGYMNyIP1vkwwfOwqPoaf5XXE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51020160",
+      "itunes_duration": "21:15",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "lube",
+        "wrestling"
+      ]
+    },
+    {
+      "key": "d7e61afb76ecaf804226090ab6b3ee323ce8a90b",
+      "title": "Help I’m A Milk Thief",
+      "published_at": "2023-01-24T05:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week is all about role reversals as William has started getting into football and Jordan’s become obsessed with his new coffee machine (don’t worry they quickly revert back to their old selves). We also hear your dilemmas about texting etiquette, touchy-feely neighbours, and an afternoon tea conundrum. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63c91858bab0b80011152738/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=549Ivdfvcd_FfOCt8NzhE4OYXb7bs_TFV-DWLpWQ3YQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94243200",
+      "itunes_duration": "39:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "milk",
+        "thief"
+      ]
+    },
+    {
+      "key": "88d3e0fbd7f8da5a48ba7528c0427328c6f63c7e",
+      "title": "Second Coming: Help There’s a Gay Ghost In My Bed",
+      "published_at": "2023-01-22T05:00:16+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As Jordan suspects the gay ghost is back in his life, we're going back in time to hear about Jordan's original run-in with the mysterious male figure! Plus, William tells all about his 30th birthday celebrations, and Jordan is finally ready to confess something that's been weighing heavy on his chest. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63c90e2462c01000110781a3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oC8g_ZU_rHtPP9dV_kikRhoFV2GtK5QmrXcO1sm9Oks",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80651780",
+      "itunes_duration": "33:36",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ghost"
+      ]
+    },
+    {
+      "key": "ef2e31f7a7eddc8178302dd0c8a9cc37589329d0",
+      "title": "Weekend Release: Bobsleigh Time",
+      "published_at": "2023-01-20T05:00:47+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week's Weekend Release, there’s just enough time to go through your correspondence before William jets off to New York City! Expect discussions on dressing gown belts, bob-sleighing, and some rather impressive podcast bingeing from one G&Diva. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63c90ad31e5f8a0011b3cce4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iMrR9EsGyW7RhgyD_YZgeO-IuWnfEJUVkbX5anEw8Zc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34310400",
+      "itunes_duration": "14:17",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "bobsleigh",
+        "time"
+      ]
+    },
+    {
+      "key": "b25e20ece39811ae6d78faa53db6d5e3d8f41ceb",
+      "title": "Help The Gay Ghost is Back",
+      "published_at": "2023-01-17T05:00:46+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week has been one of highs and lows (mainly lows) as William finds himself crying in the gym, crying in the West End, and even poor Jordan has been crying out in the night at the return of a familiar presence… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63c5c82d807d170011d4b794/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qZiKcjLpJj7n2tdyIqcbOTVx8JxzMxWZZdnoKdnR7UM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105365760",
+      "itunes_duration": "43:54",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ghost"
+      ]
+    },
+    {
+      "key": "b7d9276daaccbb4bc0d4fe59cd7d3784a4b3f498",
+      "title": "Weekend Release: Big Willy and Jord",
+      "published_at": "2023-01-13T05:00:29+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There's plenty to squeeze into the first Weekend Release of 2023. The boys discuss late payments, dump dinners, that watermelon video, and open up their sack of gifts. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63c02ddfa264a700116d2aaa/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1IdSpy6fPn2GPPa-EpAeaMmyEVXVhxjeP4I7PgZZD2o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51595200",
+      "itunes_duration": "21:29",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "willy",
+        "jord"
+      ]
+    },
+    {
+      "key": "f1e771c0cbedcb0657a810b3e1a43a4a7c902bd4",
+      "title": "Help I'm Getting Too Old For This",
+      "published_at": "2023-01-10T05:00:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the first episode of the new year and, as always, it’s a time for new beginnings. New dilemmas, new eating habits and even a new gin! But don’t worry, William and Jordan haven't changed much at all. Jordan has been locking himself inside his own house, William drops a Titanic bombshell, and there’s a dilemma from a listener that leaves the boys chilled to the bone. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63bc4de865ae3d001130af30/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2h0fTA-Tub137zATm-mKJIeX-XIC3IefVbxeVkrNuYg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119867520",
+      "itunes_duration": "49:56",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3b24fcf502a09901086a45d730013129573188c6",
+      "title": "Help It's a Christmas Spesh",
+      "published_at": "2022-12-20T04:05:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the final episode of the year things have taken a very tipsy turn in the studio. Jordan provides an unlimited supply of dirty martinis, William takes us through some of the best dilemmas of 2022, and there’s even some nudity from loveable PB. All this can mean only one thing… It’s the Christmas handwritten spesh-spesh! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63a0790248b090001165ce81/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=b4gUJlpT43DNzFdZED7__iAeqLV8WtlSCQWCKewjmP4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117552960",
+      "itunes_duration": "48:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "christmas",
+        "spesh"
+      ]
+    },
+    {
+      "key": "f5beed06e1cc49f888ba7a9827327ab58874aea7",
+      "title": "Weekend Release: Thanks Baby",
+      "published_at": "2022-12-16T05:00:29+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan gets obsessed with a new TikTok trend, there’s a lot of mispronounced words, a very casual mention of Christmas party fingering, and plenty of your correspondence. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/639ba884c7334f001105f776/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2Wvn86ouscX9JmXWFD-JFnXHcKN6udXUJt35HuX_lM8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36040320",
+      "itunes_duration": "15:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "thanks",
+        "baby"
+      ]
+    },
+    {
+      "key": "815ad49e2982f50f12a58e86dfcc8f5ac6e38d81",
+      "title": "Help I Found My Dad’s Thong",
+      "published_at": "2022-12-13T04:05:10+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week's episode, William and Jordan are in the mood for settling some age-old debates. Should restaurants always provide a fork and a spoon with dessert? Should you ever speak to your mother again when she lies about you having nits? And of course, should you ever reveal to your father that you found his collection of well-used thongs? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/639740ac09460700104f1893/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8UuszDdn4yypiZhkN-MR38ZD3vTcQMo507t4SF10XqA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98915520",
+      "itunes_duration": "41:12",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thong"
+      ]
+    },
+    {
+      "key": "766165e3bfcf1c102863f24998284856aab42c50",
+      "title": "Weekend Release: Love Is Not In The Air",
+      "published_at": "2022-12-09T07:33:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan catch up on your correspondence, hearing tales of a kooky nan, queries about how good Jordan is at swallowing, and an honest confession from a G&Diva about PB’s ‘boring’ voice. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6392e4c6fc8ed10011c464af/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=v5xnaDur7ekT26GkYvKYiW3mst2aMz3KCWJwypHhLLA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45327360",
+      "itunes_duration": "18:53",
+      "speakers": [
+        "kooky nan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "love"
+      ]
+    },
+    {
+      "key": "4a6b913af8b757d90f24e3d5e9fd4be40b575a97",
+      "title": "Help I Dropped My Knickers Outside Asda",
+      "published_at": "2022-12-06T05:00:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s trouble on the horizon at Sexted Towers as PB’s been caught with his trousers down, William’s been getting emotional about the impending climax of Mary Poppins, and Jordan has been trying out singing in German. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/638e5d689b85dd00111ce98b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m0J4lJerPbE3_FnlQBusBiPCgtxVdNhNhXW1lEXhuhQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102400320",
+      "itunes_duration": "42:40",
+      "speakers": [
+        "Mary Poppins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "knicker",
+        "asda"
+      ]
+    },
+    {
+      "key": "47652e4ec5cec0770939d0e58ad8141cb76c004f",
+      "title": "Weekend Release: Poppins Problems",
+      "published_at": "2022-12-02T09:14:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As well as catching up with your correspondence, William and Jordan discuss the King's favourite drink, how they started singing 'Cha-Cha-Cha' at the end of every jingle, and Jordan goes full Oliver Twist in a Hillbilly sing along. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6389c20a4f181600109a2f11/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UWQJqVyLT160LVGu_2EHDcyxJ3BdoCJzQSrDMGxHYBM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46771200",
+      "itunes_duration": "19:29",
+      "speakers": [
+        "Oliver Twist",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "poppins",
+        "problem"
+      ]
+    },
+    {
+      "key": "757600767321a1461785b62832d81f5f84aff07b",
+      "title": "Help What Do I Buy My Boyfriend's Girlfriend",
+      "published_at": "2022-11-29T07:48:48+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William is starting to run out of things to talk about with his friends and family IRL due to them all listening to the podcast and Jordan's got some top tips for washing your dirty underwear in a hotel bathroom. Plus there’s a new toasting protocol which will be of interest to all G&Divas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6385b96057db6000112c488d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WIlAFieq8-iYNlDTFbvSuBSlDDS3Epbz5UE3VWC0-mg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101212800",
+      "itunes_duration": "42:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boyfriend",
+        "girlfriend"
+      ]
+    },
+    {
+      "key": "b362d29944128bad9d2f096312f0c393af64c9c0",
+      "title": "Weekend Release: Feeling Flirty",
+      "published_at": "2022-11-25T04:05:46+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Things are getting flirty in the studio as Jordan tries his best chat up lines on William, Jordan starts to worry he’s picked up nits after a trip back home, and a G&Diva is in dire need of some advice involving crabs. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/637ba9fca012a400102e7f05/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=H_EQiLREyv76Oj_BGh8AL_Dao-JzqprJBiKwt6I1K04",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44520000",
+      "itunes_duration": "18:33",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "flirty"
+      ]
+    },
+    {
+      "key": "e63949e54134297d08cab39a9ca6e7c360bad058",
+      "title": "Help How Do I Deter My Mother-in-Law",
+      "published_at": "2022-11-22T04:05:59+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week Jordan gets asked if he would ever sell his used socks online (merch anyone?), William has his own tale of woe recalling the time he set his flat on fire, and the boys take a look through the masses of handwritten letters piling up on William's desk. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/637ba984247d0e0012f0fa6b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VSnldV4HLLUg-TaMyABLgQstCDKnYdP8uRRm1edN3Uo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98139840",
+      "itunes_duration": "40:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "mother"
+      ]
+    },
+    {
+      "key": "90db06b6d556673ab9b06739ad446abca43f41e1",
+      "title": "Help William’s Never Been To Greggs",
+      "published_at": "2022-11-17T05:00:53+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "When Jordan gets an idea in his head, you know the fun is about to begin. So when William arrived at a Greggs in Reading, he knew something was up. With the help of Greggs, Jordan had organised for William to spend a morning working a shift at his favourite British bakery, Greggs. Listen to the results as William dons the uniform and is taken through his paces as he learns the ropes - including serving one particularly tricky customer. This episode of Help I Sexted My Boss is brought to you by Greggs. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/637565d16f958200119d406d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZXjHFh8ze7mIQs5Xb5hdoTYQjDTIEXmHBJr2v2C1VaA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28589895",
+      "itunes_duration": "19:50",
+      "speakers": [
+        "William’s Never Been",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "greggs"
+      ]
+    },
+    {
+      "key": "cec5f62369e13a03a73301a59f68607691f3a9f9",
+      "title": "Help I Hate His Sex Music",
+      "published_at": "2022-11-15T05:00:14+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After receiving a Sexted toast just weeks ago, William’s brother is already back in the bad books. Meanwhile, Jordan’s been breaking into studios (you can take the lad out of Burnley…) and William reveals he’s been to breakfast with one of Jordan’s all time heroes. Plus the usual dose of delectable dilemmas from the listeners. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6372764e9df7340012000abf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KVoaR5byMC1IHY4bBhD2tBaEc7H-l1wWU4z9mnlM_qE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95777280",
+      "itunes_duration": "39:54",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "key": "26beb8971f64e600a275d4a6a8dd9c24df68f358",
+      "title": "Weekend Release: William's Scallops",
+      "published_at": "2022-11-11T05:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This Extra Release is filled to the brim with G&Divas special correspondence. From one listener accusing William of being common, to another demanding another look at Jordan's to do list, to the final letter with a fittingly Sexted idea for a proposal. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/636d383ac8920300134decfe/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pscx-44fXnlZ75N1rCU9K6D2fdiUIxHTkFJPmIHt1fk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25209203",
+      "itunes_duration": "17:29",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "scallops"
+      ]
+    },
+    {
+      "key": "b3b1c376b68283fbefcd1809926fffa4b53c354c",
+      "title": "Help There's A Man In My Bed",
+      "published_at": "2022-11-08T05:00:25+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week William recounts the high-drama of his new sofa delivery, whereas Jordan's stressed as to whether he should pre-order the burger or the salmon for his upcoming family meal. Pray for both of them. Plus, how should you correctly react if you meet Executive Producer Ben in the street, and - as ever - some eye-watering listener dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6369697f045fb3001111e210/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LJ-juI7ykyzdoexA8vrUVtYxrcKsx5QYUQFyd0HKw64",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60517123",
+      "itunes_duration": "42:01",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "ded8264a25a623b6da39ddc21c8728194e614d61",
+      "title": "Weekend Release: Wendy, Can I Borrow Your Potato Peeler?",
+      "published_at": "2022-11-04T05:00:32+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In another packed release for your weekend, William and Jordan discuss what they'd do if they were king, there's a new Marco Polo chant that a lot of you will be starting from now on and there's even time for some surprise cake! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63640a3c608746001185049e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YY-N0pjge_RBG3670Y5rUogLQLqGO5g_UJBDrr0upkA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25062454",
+      "itunes_duration": "17:23",
+      "speakers": [
+        "Marco Polo",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "wendy",
+        "potato",
+        "peeler"
+      ]
+    },
+    {
+      "key": "d3da8c0dad88ba4831f94c76ff5820c1d59e78c3",
+      "title": "Help I'm Bored of BeReal",
+      "published_at": "2022-11-01T05:00:01+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There's a toast for William's brother, a mention for 'Leaky Sue' (not William's new plumber), why William thinks Halloween's a horror show and a tip for keeping hoovering 'fun'. It's another episode in which William whisks his way through the D, so I think you're going to like it! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63602fbbdeab1c0012492883/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pSbCvhhQ9eT7Wqe_13qNgFlvfp4_f60RAgTntzEbzZw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60311879",
+      "itunes_duration": "41:52",
+      "speakers": [
+        "Leaky Sue",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "bereal"
+      ]
+    },
+    {
+      "key": "6a577932fbadda34200556e52291368ee73c543b",
+      "title": "Weekend Release: Gu Pot Baby",
+      "published_at": "2022-10-28T04:00:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan celebrate their recent chart-topping success in the latest Weekend Release where we also hear a novel use for a Gu pot and a complimentary email that initially sounds like an insult. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/635aaeb77c441b00127a22f4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Wj3bz505NvUf5hsR5jqNBCz6uqlfCjFzMcPZwgl525M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16799609",
+      "itunes_duration": "11:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "baby"
+      ]
+    },
+    {
+      "key": "9209d95b8516fa5fd9dc7b36a6ea1fa4dc2f64cd",
+      "title": "Help We Lost Touch",
+      "published_at": "2022-10-25T04:00:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week we debrief William's latest candlelight supper, Jordan shares his recent theatre tips, and there's still enough time to learn the history and etiquette of salt. Oh, and one presenter is on a fruitless quest to find Ready Brek - any guesses as to which one? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6356dc6e68aea000124b8f12/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wTKHvF1IVIWJoovu-BJWVwF1YhTbJQ4oyWP-Tgbf0xw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62384911",
+      "itunes_duration": "43:18",
+      "speakers": [
+        "Ready Brek",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "touch"
+      ]
+    },
+    {
+      "key": "9f2ee794e166ad52d251c3a9a4a15ee63fe3fbb6",
+      "title": "Weekend Release: Gu Pot Goodness",
+      "published_at": "2022-10-21T04:00:08+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After Jordan's plea for your responses about how you use your Gu pots, it turns out there's a whole raft of different things those glorious glasses can be used for. Also, Jordan discovers that his idea for a massage chair has long been in existence and gets freaked out by an unexpected sneeze. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6351c227a8315e00123c03f1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=swlEFGvMib6hvKbWlQLklWJAByJDOnFl8X7EEojtukY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25754851",
+      "itunes_duration": "17:52",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "goodness"
+      ]
+    },
+    {
+      "key": "5feebce2513d95db634d0d9bbfd34760d1062642",
+      "title": "Help I've Fallen Into Spidey's Trap",
+      "published_at": "2022-10-18T04:00:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With a dinner at William's for Jordan and PB on the horizon, there's plenty on the menu in the latest episode of Help I Sexted My Boss. William has an ongoing rat problem, Jordan's bringing chips and beer and there's a listener who has a problem with someone in a Spiderman costume. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/634dbd22f83a2f0012e624e3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rzUuXuorqhAVeqh2aUKboDDaJtHe8Lvv1u-H0Wrz7T0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63320643",
+      "itunes_duration": "43:57",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "spidey",
+        "trap"
+      ]
+    },
+    {
+      "key": "1041954bf80c35c6af399534015337dc6300e76c",
+      "title": "Weekend Release: Hard On Message",
+      "published_at": "2022-10-14T04:00:31+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan's got yet another idea that he's ready to bring to the Dragons, William gets in a mix with a hard message and Jordan shares a late gift to celebrate the newly wed couple. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63486943ea4a380012c22616/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4YyjA26s7s5dcPWd41vuO6FQ-9ubFw2FOueA-VrdiP8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22104363",
+      "itunes_duration": "15:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "hard",
+        "message"
+      ]
+    },
+    {
+      "key": "474e48d6e511633da65723b6fd92297f3eec263f",
+      "title": "Help The Honeymoon Is Over",
+      "published_at": "2022-10-11T04:00:04+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With William back where he belongs after his romantic getaway, chaos returns to the Help I Sexted My Boss studio. There's a blow-by-blow account of the honeymoon, Jordan's turning into an old man and Producer Ben has found a new best friend. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63444877540f8100129c6aa6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cwIUhxNUedPbo9ZG_XTH7nKMWlujm25AyKMgS2sUoas",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62326677",
+      "itunes_duration": "43:16",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "honeymoon"
+      ]
+    },
+    {
+      "key": "a1d502f0c4a2a79f3e1eed806a14b655f1559614",
+      "title": "Weekend Release: Jar Jar Binks",
+      "published_at": "2022-10-07T04:00:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan take you through some of your comments from the record breaking TikTok vabbing clip, and there's a new celebrity impression from Jordan. This Weekend Release was recorded before William's wedding as he's currently on his honeymoon. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/631615261aac970012952a22/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FrRn6eBXHcDxi1DkdvIPM-w_8ltIZTICIlflt6PTvRg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29450019",
+      "itunes_duration": "12:16",
+      "speakers": [
+        "Jar Jar Binks William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "bink"
+      ]
+    },
+    {
+      "key": "1bd80058d5f43ba43c91e9bdc8dddbeaa78cb24f",
+      "title": "Help I Want To Touch Your Bump",
+      "published_at": "2022-10-04T04:00:22+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With William still exploring everything that the political capital of the USA has to offer up on his honeymoon, here's an episode with our pair that was recorded before he went away. Jordan shares a story of when a wrestling move went wrong in his childhood, William forgets his password and they give you advice on what to do if you bump into an ex. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/633acf03385361001288a490/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xqTptsU5OF7NevIQKivxrcmBrB86pBjppCeV3a7q9g8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85827840",
+      "itunes_duration": "35:45",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "bump"
+      ]
+    },
+    {
+      "key": "13e3cba2e1fb35ec8d30ee764183330639a53f8d",
+      "title": "Weekend Release: Goodbye Producer Ben",
+      "published_at": "2022-09-30T04:00:41+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With rumours of a new job abound, is it time to say \"bye guys\" for good? Elsewhere, William uncovers a suspiciously similar feature and a G&Diva is worried they might have offended royalty. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6335e9fc4b37860012f5bb23/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7Qa2l-CsksMbwuDz6Idjav4M0fuDOeVnNcd-Wd3cg_I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22661239",
+      "itunes_duration": "15:43",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "goodbye",
+        "producer"
+      ]
+    },
+    {
+      "key": "f154352173d2402236d80a1406830cb8e3dc515e",
+      "title": "Help We've Had A Wedding",
+      "published_at": "2022-09-27T04:05:54+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William, Jordan and special guest Prod-Usher Ben reflect on the podcast wedding of the year as they take you through the highlights of William and Mikey's perfect day. For those who need something a bit more… Sexted, you'll have to wait until the very end. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6331ce1040179e0012731c35/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3Iy__-RGrPY2hv4rjW57D56To5DTe-xylZAL2csAeDk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70653773",
+      "itunes_duration": "49:03",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wedding"
+      ]
+    },
+    {
+      "key": "8f903394ada01d4ca249f6e7cf40a75863c3c6a1",
+      "title": "Weekend Release: William's Wedding",
+      "published_at": "2022-09-23T03:05:02+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The champagne has literally been taken off the ice for this weekend release as we celebrate the wedding of the century! There are drinks, luxury munchettes, and quite a few tears as William reads through some very lovely correspondence from the G&Divas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6324610674f0180013890678/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=km0BMbtOvhIhrZxPZNxnk0wcVSWOOE8f7P6sNv_5j-Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62575680",
+      "itunes_duration": "26:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "wedding"
+      ]
+    },
+    {
+      "key": "3a6079ad9436383cc086d1e9df7d950f5bd2bc16",
+      "title": "Help My Mum’s A Milf",
+      "published_at": "2022-09-20T03:05:57+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We are just days away from William’s big day and there’s a few loose ends to tie up. Where is Jordan going to sit? What is Jordan going to wear? And which joke is Jordan going to drop into his ecclesiastes reading? Plus, we get the definitive answer on whether there will be any beer on tap at the venue. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/632460670aeda60012150ef6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PD4tYBLVqX3Nlyasrf4UAkikCDSivtotF22hgwV2g2o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96725760",
+      "itunes_duration": "40:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "milf"
+      ]
+    },
+    {
+      "key": "ed24c5a019f999adf26deb6801ad59c330b9bff8",
+      "title": "Remembering The Queen",
+      "published_at": "2022-09-13T03:05:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In a special episode, William and Jordan reflect on the life and reign of Her Majesty The Queen and what we can expect from King Charles III. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1662991658470-1e485fdf7dd9991341ca4979bc3db7d1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/631f3dc07868540013af8af2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_rvZeog2CfJb0fXmROGisnseR0NbqzFOxMIwosclyoI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75049920",
+      "itunes_duration": "31:16",
+      "speakers": [
+        "Charles Iii",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "queen"
+      ]
+    },
+    {
+      "key": "2fbfca9e1c5ab0dfc8edac1457d7133cf85bb4fa",
+      "title": "Help What's an Aubergine Emoji?",
+      "published_at": "2022-09-06T03:05:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week is a very special occasion, it’s our William’s birthday! And what better way to celebrate it than with botox mishaps, listening to Jordan rant about shoes, and having to describe the meaning behind the aubergine emoji to his mother. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6315b8be1d831c0012638f49/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WPkjb91w-lwmlPmQGaHm-CGV40xt5lM7G6frVRDrrKs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116964480",
+      "itunes_duration": "48:44",
+      "speakers": [
+        "Aubergine Emoji",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "aubergine",
+        "emoji"
+      ]
+    },
+    {
+      "key": "20975c77ee3f89455db69e5e7ca6d08059d389fb",
+      "title": "Weekend Release: Young Jordan",
+      "published_at": "2022-09-02T03:05:59+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Like a leviathan rising from the deep, Producer Ben has appeared with his very own microphone and has a very important request - and that’s not the only thing that’s resurfaced, as we hear a clip broadcast on national radio in 2007 featuring a seventeen year-old Jordan North. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/631070b8290e6d00127e688c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=v2dK4t0QhP3GTKn8EWUQ2E_kVvJ5hL44ILWUNdnDIj4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39241920",
+      "itunes_duration": "16:21",
+      "speakers": [
+        "Producer Ben",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "young",
+        "jordan"
+      ]
+    },
+    {
+      "key": "a3c999c288e3b1fb08a12b83a179b7c079de7627",
+      "title": "Help I Want To Chat You Up",
+      "published_at": "2022-08-30T04:00:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There's a toast to radio royalty, a new job for Producer Ben and enough wedding updates to fill an entire series of podcasts. You need help with wedding planning, name calling difficulties and how to take the step from small talk to first date. Luckily for them, William and Jordan are here with all of the answers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/630ce0baeef25a00127f4a7a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QRJY5VnQflZ4kWFjYlGLQ34k6yUoJYSUaqS4NLg3KNE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70097201",
+      "itunes_duration": "48:40",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "8c6219a7a6058b4c11ffe81378d68bc88af4b8d7",
+      "title": "Weekend Release: Secret Golf Balls",
+      "published_at": "2022-08-26T04:00:36+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week’s Weekend Release we hear back from listeners whose correspondence has already been read out on some highbrow topics such as ham and cheese (or cheese and ham) toasties, train track facts, and giant golf balls. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/63071df1e31595001404dc59/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VTtXDT4IlvUYsOvZLOzcXJRpR5_7I3w1vXUDUncMS1o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36961350",
+      "itunes_duration": "15:23",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "secret",
+        "golf",
+        "balls"
+      ]
+    },
+    {
+      "key": "b5d1a5596d91c4ae0e44e2f3becfce9d7753fb71",
+      "title": "Help I’m Thinking with My Fanny",
+      "published_at": "2022-08-23T05:00:12+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Everyone’s been having a tough time lately. William’s been having wedding related nightmares, the police have been knocking for Jordan in the early hours, and Producer Ben is so tired that he only remembered to paint the nails on one of his hands. Jordan’s also fully committing to the executive lifestyle with tales of driving a Tesla and an imminent departure to Ibiza. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6303ac8d3b1fcd0015b18f77/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pCcudGvAPCVJQjqnn0Gtckk_bGTtLiAAw3zjj_DLxB8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109114186",
+      "itunes_duration": "45:27",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fanny"
+      ]
+    },
+    {
+      "key": "5c1819f3b018ff3a8f7edb619dab60b8463b7072",
+      "title": "Weekend Release: M'Gooch",
+      "published_at": "2022-08-19T05:00:24+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We're all used to Jordan struggling to pronounce words, less so William, but in this Weekend Release, they're both stumped. We also have a listener who's got a problem with the royal we and a solution for any of your bedwetting problems. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62fe63c957e6f60012c85d7e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=IBed0RlCE62xD-fJnTD5uvENeMhya8QCgshom-oraaQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25772160",
+      "itunes_duration": "10:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release"
+      ]
+    },
+    {
+      "key": "3ce3a2e7a9a142a38f1562aa9cb6a9aa60b1970f",
+      "title": "Help I Know A Vabber",
+      "published_at": "2022-08-16T04:00:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week Jordan regales William with stories about lost passports, missing books and the side effects of a Sri Lankan curry, while William attempts to raise the tone with a lesson on the grammar of Italian cuisine. There's something for everyone. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62fabe39609e420013a06aa5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Ro0YxMZPdk-iH2Sb5AZcJWL0dR-I220j13rneRaFo6s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108711360",
+      "itunes_duration": "45:17",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "vabber"
+      ]
+    },
+    {
+      "key": "db457c656e04a55f281dc1a871e7e66468c6ec7a",
+      "title": "Weekend Release: Sir Judi Dench",
+      "published_at": "2022-08-12T03:05:25+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s a mountain of correspondence to catch up on in this Weekend Release involving thank you letters, scratchy kittens, and the very exciting knowledge that someone who is practically acting royalty is a listener to the podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62f3df2c267f6700128c16bf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kT3NAuaS-4YKlYXB1JOU6ve2iUD2oFDCdeXCJqdnv9o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26874240",
+      "itunes_duration": "11:11",
+      "speakers": [
+        "Judi Dench",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "judi",
+        "dench"
+      ]
+    },
+    {
+      "key": "d8ab9e0ba000deb1e4102ad4d4c8d7775addc9df",
+      "title": "Help I'm More Postman Than Post Box",
+      "published_at": "2022-08-09T03:05:14+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week we find out how Jordan’s been coping with having his parents stay with him for a few days, William has a vent about some uncouth theatre patrons and their lack of etiquette, and the boys come up with possibly the most bizarre television idea ever. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62ecf6b7de513a00125269ae/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YpAahqmV4eULcUsDngKuGyo_197w8OX9lT0iDgOOIIg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90676800",
+      "itunes_duration": "37:46",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "postman",
+        "post"
+      ]
+    },
+    {
+      "key": "1911af225a4fbd39792a38616de0dc627da3ad6b",
+      "title": "Weekend Release: Party Sausage",
+      "published_at": "2022-08-05T03:05:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There’s lots to catch up on in this Weekend Release, including Jordan getting nostalgic about his time in the castle, whether you should say you're going ‘up’ or ‘down’ to London (spoiler alert: William was wrong), and Jordan very kindly offers to make some homemade canapés for William's wedding. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62ea8d9d49e4c800137fe2cf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XUB9gZs-_KQxQmmkPpcQlEqGcMXzJkqnnp8mfFsilpw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37797120",
+      "itunes_duration": "15:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "party",
+        "sausage"
+      ]
+    },
+    {
+      "key": "53a3d610526ed7c6602356016caf00b8c9d10859",
+      "title": "Help My Brother's A Spanker",
+      "published_at": "2022-08-02T05:00:32+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As well as a set of particularly tricky listener questions regarding spanking, this episode is a bit of a ‘Have I changed?’ special. The boys talk about gardeners, fancy butter, and awkward encounters in Waitrose. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62e83a1fe2ae0400134e8b17/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=tuRU_HYh3q8METNZ9hTKIlskYkT6LNBpVp4wQBi8MZ4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94486666",
+      "itunes_duration": "39:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "brother",
+        "spanker"
+      ]
+    },
+    {
+      "key": "d3b6815467cbc344ccebf07555b10bbde4f91f04",
+      "title": "Weekend Release: Pocket Rocket",
+      "published_at": "2022-07-29T03:05:51+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As well as catching up on all your correspondence we discover the inspiration behind Jordan’s impression of Diego the whippet, William reveals a mix up with a recent Cameo, and we get a thrilling run down of Jordan's latest to-do list. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62debba0c5cd5a0011ce35a2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YL9RSZ7PAVAH757eH_5oe9x2Z7yfRbrHjEUOfWO48e0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43453125",
+      "itunes_duration": "18:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "pocket",
+        "rocket"
+      ]
+    },
+    {
+      "key": "4c874e95c5341a21737262e0c184f728beb0e199",
+      "title": "Help My Dad's a KFC Dribbler",
+      "published_at": "2022-07-26T03:05:29+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys are back feeling refreshed and revitalised after their mini break - and there’s lots to catch up on! We hear how William coped (struggled) in the heatwave, and Jordan comes clean (not literally) about the sorry state he left his house in when his cousin came to visit. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62de65c57215c0001275a48b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zD_i6m2lvJjcUXB2qxhrov-dyx9dM0-4mZtqU8ps1iA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101836799",
+      "itunes_duration": "42:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dribbler"
+      ]
+    },
+    {
+      "key": "85f19f3d4fa2ca40df098a588890bb39275b738c",
+      "title": "Help I'm An Anonymous Cruiser",
+      "published_at": "2022-07-12T05:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a hectic week finishing up the Sexted tour and our Jordan being a bit under the weather, here’s an episode recorded a few weeks ago that had been saved for a rainy day. Listen out for BTS breaking up, William’s wedding invitations, and Jordan almost certainly getting cancelled. We're going to take a short Sexted summer holiday, so there will be no more episodes for the next week… but then we'll be back refreshed and ready for more! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62cc4ba04e2aba00122ec700/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VVt4YNRJK4DeRDpN6vLKBTbNEa0A6WDEWbSBhElPVpQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106230475",
+      "itunes_duration": "44:15",
+      "speakers": [
+        "Anonymous Cruiser",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "anonymous",
+        "cruiser"
+      ]
+    },
+    {
+      "key": "b85f990ceb3c0e65deab49fa47695c4743e4b391",
+      "title": "Weekend Release: The Sexted Steamer",
+      "published_at": "2022-07-08T06:00:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Way back in April you may have thought we were trying to take you all for fools… well, we weren't. The Sexted Steamer is real, and is available to buy now at www.swan-brand.co.uk/sexted. There's a limited number available, so get your hands on possibly the best piece of podcast merch now before it's too late! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62c69a892cfbc40012655c34/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_1NKHpKV_RlrGFF38FVcoPcbHSUXsOL3jI8lNE3HXc8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "8160532",
+      "itunes_duration": "3:23",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "sexted",
+        "steamer"
+      ]
+    },
+    {
+      "key": "c1d64b743926c4d56195507dd745717218e23453",
+      "title": "Help There's a Tiff on the Tyne",
+      "published_at": "2022-07-05T03:05:23+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys are backstage in Newcastle and patience amongst the team is wearing thin. William's discovered an unknown residue in the taxi, Jordan's accidentally joined the local 10k race while out for his morning jog, and there's a rumour there's a Poltergeist in the venue (not the gay and friendly kind). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62c2e1d0723f5300143d71d2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_oeYbez3ns5XV3QtwnkvhiG34dIsjU9NRCJ2VdXk830",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77075852",
+      "itunes_duration": "32:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tiff",
+        "tyne"
+      ]
+    },
+    {
+      "key": "5bf7659e8d8551bbf18e9984eb010647f01185a5",
+      "title": "Weekend Release: Sorry Jesus",
+      "published_at": "2022-07-01T03:05:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s all Saints and Sinners in this Weekend Release as the boys get some correspondence from a divine G&Diva, Jordan comes over all fire and brimstone while discussing the etiquette of wedding thank you cards, and we hear the much promised update on the boy’s appearance on BBC1’s Pointless. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62bc3d792d0eac0013ce6408/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=i6MmukDLqZKXM7hpTueuAcneNBd1Rzmv3X5zUuhxzRM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63649958",
+      "itunes_duration": "26:31",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jesus"
+      ]
+    },
+    {
+      "key": "1b807b904db9f98407fba7fdc272d7a3fb035c15",
+      "title": "Help There’s a Prince on FaceTime",
+      "published_at": "2022-06-28T03:05:04+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Standards have taken a dive while PB is away dancing his little socks off at Glastonbury and the boys are left to drink their G&D out of mugs (much to William’s disgust). Meanwhile, William’s got a problem of his own that has compelled him to write a strongly worded letter, and Jordan realises he forgot to put his washing on in the middle of giving advice to one of your dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62b9839df71390001544afc5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=aXD2K1DyIx1YKraJOzngsvrba56zX_fWY0Xl_e-alfw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102787656",
+      "itunes_duration": "42:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "prince",
+        "facetime"
+      ]
+    },
+    {
+      "key": "b2995c266c932fcb306b28df1dc5547ccf8ee8c4",
+      "title": "Weekend Release: Jordan’s Agastopic Black Hole",
+      "published_at": "2022-06-24T03:05:19+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This Weekend Release is all about revelations. There’s Burnley Football club’s new manager (Up The Clarets), Diego the Whippet’s TikTok page, and the discovery of a website dedicated to celebrate our very own Jordan North’s… feet. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62b455ac55a5da001453a204/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QeRRUPeb57i4yN_4eLdXkqMV3ldQDSf0A6yIHlB19oc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41439607",
+      "itunes_duration": "17:15",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "agastopic",
+        "black",
+        "hole"
+      ]
+    },
+    {
+      "key": "a737f0448bf93c59db2f372dcdf5f276f82f2e46",
+      "title": "Help We're Back In Edinburgh",
+      "published_at": "2022-06-21T05:00:17+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With William and Jordan back on the road for the next leg of William's stag do AKA Lads On Tour, they take a seat - or in Jordan's case a lie - to talk about the latest tales from the tour. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62b0e4add944ab00126df14d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XxriCh5vohhZ2yR-o1AzSPeEoJh9Qmeqw_gLi0F-0o0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43140994",
+      "itunes_duration": "29:57",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "edinburgh"
+      ]
+    },
+    {
+      "key": "855b57509820fe491e64f27b38d33b7f5cdff0db",
+      "title": "Weekend Release: Jordan’s Emergency Landing",
+      "published_at": "2022-06-17T03:05:25+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back with bang! (Almost literally in Jordan’s case). The boys also discuss Jordan’s new TV show, William’s recent health scare, and the etiquette surrounding replying to work emails during out of office hours. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62aa24b3abc70e0012197aa7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NFE-usCy7uRiMNkwpyaC-WdDVOl4E26uarZ-HCT5sLc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46325550",
+      "itunes_duration": "19:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "emergency",
+        "landing"
+      ]
+    },
+    {
+      "key": "052c9c094bfa2cdb3203d38c47c2f839f87e6c41",
+      "title": "Help I Don't Want To Thank You",
+      "published_at": "2022-06-14T05:15:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With a listener dilemma bag bulging with problems, William Hanson and Jordan North attempt to get as much off their chests as possible. But when it comes to one particularly problem, there's more to get off the chest than you might expect! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62a72ab50b883c0012e819be/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PEJkso4hpmQGBxHIuXVD_LEYNmEdIiKtaPtGnzWCXFo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45420762",
+      "itunes_duration": "31:32",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thank"
+      ]
+    },
+    {
+      "key": "17fd775b5f5fb53cf28c36058c3595546dd04456",
+      "title": "Weekend Release: An Issue With A Tissue",
+      "published_at": "2022-06-10T03:05:56+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this tissue-based Weekend Release Jordan is on a slanderous bent about William’s behaviour in Belfast, a listener has some disturbing news about the health rating of one of Jordan's favourite restaurants, and the age-old debate resurfaces about the proper pronunciation of issue and tissue. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62a0690a834fa50012287859/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xIHjXxRHKwj2NhBcBeJtT-yb2lXnQbfZolVJUrSqdN8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27269746",
+      "itunes_duration": "11:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "issue",
+        "tissue"
+      ]
+    },
+    {
+      "key": "5ebbfe62828b63c9fa8d77e4f564ab10ba9505ba",
+      "title": "Help My Personal Trainer Made Me Cry",
+      "published_at": "2022-06-07T03:04:52+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back from celebrating the Platty Joob with confessions galore. From forgetting to order enough wedding invitation envelopes to emosh scenes at the gym - Jordan even tries to sing the alphabet in French (it's been a very long weekend). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/629e0df3d435d300126d9b99/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jG-SE-Mizc7QdBsLnemG8emQnm_RKszLV8ZRD8dBe54",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109112423",
+      "itunes_duration": "45:27",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "personal",
+        "trainer"
+      ]
+    },
+    {
+      "key": "13af806948e781df9d3a06ccfeb7262bbba80571",
+      "title": "Weekend Release: Platty Joob Spesh",
+      "published_at": "2022-06-03T03:05:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "To mark The Platinum Jubilee of Her Majesty The Queen, William and Jordan bring their usual reverence and gravitas to proceedings with their special episode making it all about them. There's a royal quiz, tea towel chat and discussion of sucking toes. God Save The Queen! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6296513b8a41830013cacfbf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5-jkBEhr_tpV9aqDUojOZquSudnRo_ScjrM6R_vUPWY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70918268",
+      "itunes_duration": "29:32",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "platty",
+        "joob",
+        "spesh"
+      ]
+    },
+    {
+      "key": "97a42fa8f6c71bf7c5c1a333c65b2c43bb93a254",
+      "title": "Help I'm Up In Space Ma'am",
+      "published_at": "2022-05-31T03:05:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In preparation for the Platinum Jubilee at the end of the week, William and Jordan discuss two issues Her Majesty is often heard chatting about herself - tough mudder and Calvin Harris. Plus they answer a range of listener dilemmas, from over-amorous taxi drivers to Diana Ross concerts. What’s not to love? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6294f9f71664260014ec5514/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FNBN5nNr603LLj0WZAob9Y5DiXXUJ17EvAFtRNvndhw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98089795",
+      "itunes_duration": "40:52",
+      "speakers": [
+        "Calvin Harris",
+        "Diana Ross",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "space"
+      ]
+    },
+    {
+      "key": "3e4bf278a07232631589425860776be1f88628a8",
+      "title": "Weekend Release: Walking on Broken Dubonnet",
+      "published_at": "2022-05-27T03:05:56+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week William and Jordan respond to some correspondence from attendees of the Ireland live shows, Jordan once again has complaints about the coffee (he hasn’t changed, honest) and we hear some tales from the diary of a young boy named William Hanson. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/628f42ca4a4aec0013ff5c68/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jfYKQBg7s0PGBBM6-XqOMUNaQLqv-9BXF4ONcDbAbaE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47491656",
+      "itunes_duration": "19:47",
+      "speakers": [
+        "Broken Dubonnet",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "broken",
+        "dubonnet"
+      ]
+    },
+    {
+      "key": "a95f0c53290b79b5634f5ead2dabab0bed304d57",
+      "title": "Help My Name's *****cock",
+      "published_at": "2022-05-24T05:00:38+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There must be something in the D this week. As William and Jordan make their return to the studio, they've been inundated with anonymous letters. Often the best, always the juiciest, anonymous letters have thrown up some classic moments in this podcast… and I think we've got a couple more in that boat this week. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/628b6286c667fa0012ebcbcb/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=F-P51v6pdgh3VRwxdbVWgousupX60rU8LRPvmulaSeQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103245321",
+      "itunes_duration": "43:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "cock"
+      ]
+    },
+    {
+      "key": "38a23c1f3a148170ddd5e030db0ca2ec7434cfa9",
+      "title": "Weekend Release: Out Of Both Ends",
+      "published_at": "2022-05-20T03:00:54+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan feeling unwell, you might expect that the podcast might suffer. Instead we're served up a classic portion of Weekend Release content for you all to enjoy… well, everyone except for Jordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62867051f0f03f0012610e88/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m_Y3hcM9CrqoT78Lchs0L37SQMdUbIJWSvaHtRgV4bw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53340875",
+      "itunes_duration": "22:13",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release"
+      ]
+    },
+    {
+      "key": "0fe316912f26b01425d59b79540ab0226ea7f45f",
+      "title": "Help I'm Working From Rome",
+      "published_at": "2022-05-17T05:00:43+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With William on (another) holiday, and Jordan returning home from (another) 'secret' work trip, we join the boys for a remote recording as they reflect on the first weekend's worth of stag dos. There's also room for William being extra cold, Jordan having a mini meltdown and three of your finest dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62826a6b7c134e00149bdc35/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=l68odOeOmYWEvMIr0kf2QvsHCU-Ls-EtuVymSERF6Ls",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92803656",
+      "itunes_duration": "38:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "rome"
+      ]
+    },
+    {
+      "key": "99e8bad39eb711a3ab91bef4fdb94d1963f76e88",
+      "title": "Weekend Release: The Guinness Storehouse Tour",
+      "published_at": "2022-05-13T03:00:37+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "\"This is my Poppins\". It's safe to say that Jordan was a tiny bit excited about the prospect of heading to \"The Guinness Tourhouse Store\" during a weekend in Ireland that kicked off the Lads On Tour stag do shows. But when William is added to the mix, will it be everything Jordan expected and more? Or will three pints of Guinness prove too much for the boys to handle? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/627ce68084ce1d0012162c0b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=G8jG2BwHMq7O5yljn4yoFb4yGA5Rze2ZMugWD902APY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67974791",
+      "itunes_duration": "28:19",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "guinness",
+        "storehouse",
+        "tour"
+      ]
+    },
+    {
+      "key": "0ab9da249b65703680e9398931d8f29c47d0937c",
+      "title": "Help We're Backstage in Belfast",
+      "published_at": "2022-05-10T03:00:27+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's been a long time coming, but finally William's stag do has begun. Jordan's first stop on possibly the most long winded stag that's ever been known to man is in Dublin and Belfast. Here you join our unlikely lads backstage in Belfast as they prepare for the show. As always, things haven't always gone to plan, and this episode is particularly chaotic as a result! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/627975c940ce640013cc9539/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OGqNLeUfI8W24eslVS18PIEU2NiuIgi4Q1fRbmJja-I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104017501",
+      "itunes_duration": "43:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "backstage",
+        "belfast"
+      ]
+    },
+    {
+      "key": "58b9259efbdf01cbd6bc46e00bdf80e6d420bd0e",
+      "title": "Weekend Release: Lads On Tour In Ireland",
+      "published_at": "2022-05-06T05:00:11+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan's recent holiday(s), an update on Sean Dyche, an appearance on an ITV sofa (unless we're cut), excitement for Lads On Tour and a response about a jingle from deepest, darkest Burnley, there aren't many Weekend Releases that pack as big a punch as this one! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62742e4ac7b4c800139a55b3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=vcceOsrPDRFTBmixiG1-B0pT5IjszrGl9DFLIglPHDI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46147917",
+      "itunes_duration": "19:13",
+      "speakers": [
+        "Sean Dyche",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "tour",
+        "ireland"
+      ]
+    },
+    {
+      "key": "7fcdfc7a313e59d3f90548f05e8f4b33fa1b35b8",
+      "title": "Help I'm Flying First",
+      "published_at": "2022-05-03T04:00:29+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan home from New York, there's plenty of time for him to go deep into the life of luxury he led when crossing the pond. William's also been around town in perfect Paris and the boys gear up for the first leg of William's stag do. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62704df60241f80012564a19/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YPnDt1WJ-dgAZIJdo4lnyWUGvG6tuPVmORdr0LxWsbw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110472880",
+      "itunes_duration": "46:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "flying",
+        "first"
+      ]
+    },
+    {
+      "key": "86c22984741ca22449767c02182a79a4f8026fdd",
+      "title": "Weekend Release: Jordan’s Doppelgänger",
+      "published_at": "2022-04-29T04:18:10+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return for another Weekend Release to respond to more from Tits Out Tina, a new idea for types of letters and another random person who looks just like Jordan North. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/626b6702b7ac440014ecc651/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=N_fVAfg2Acd9ioEL9S8gaUBme3Jm9HPkYt1738AerCw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27614562",
+      "itunes_duration": "11:30",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan"
+      ]
+    },
+    {
+      "key": "e8c18c1a827fe0cc1726fb9f6e188dd87a6d88b9",
+      "title": "Help He's Left A Log",
+      "published_at": "2022-04-26T03:00:30+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan North about to make his merry way to NYC, no less, there's just about time for him to catch up with William Hanson on the dos and don'ts of the Big Apple. William also shares a quite astonishing revelation about his mother, Jordan continues his love affair for a certain 'rude' word and some G&Divas are left with a nasty surprise. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6266967d13f8260014938cbf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=h2ybcLigMiKHbKcnCTRGnXyKO_1cqGHd97RfjRcfJOw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107143835",
+      "itunes_duration": "44:38",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": []
+    },
+    {
+      "key": "e8d11c2f8db4a5b41fdbc31d62a55942625ac065",
+      "title": "Weekend Release: Jump Cut Jack",
+      "published_at": "2022-04-22T03:00:11+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There must be something in the gin and Dubonnet, as Jump Cut Jack has a problem with William and Jordan he has to get off his chest, Producer Ben has become a heartthrob and someone over the age of 30 has been watching BBC Three. All this and more in the latest Weekend Release. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62616e3af6db400013d1aef8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_wgu5XmZ8dwTdpWslijPwA3aZhKLCObptklPkuMWP_A",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23289729",
+      "itunes_duration": "9:42",
+      "speakers": [
+        "Jump Cut Jack",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jump",
+        "jack"
+      ]
+    },
+    {
+      "key": "54316553aa5651a1f748fd52ccf93708df7f7e1f",
+      "title": "Help I've Lost My Dummy",
+      "published_at": "2022-04-19T04:00:57+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week it was like they were never away. There's cheese chat, dummies at Easter chat and big day out in London chat. Jordan is off to see William's favourite musical and William is off to da bungalow. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/625d90aa60b4bd00128b9aa8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JmabKhfhlbH5EPaU_ysWXTrk75j9-_pRrVuymeIcKck",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114514546",
+      "itunes_duration": "47:42",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dummy"
+      ]
+    },
+    {
+      "key": "a0bff8a060ade5060c52d2c417116e2e7bb3467c",
+      "title": "E-MERCH-ENCY",
+      "published_at": "2022-04-15T06:54:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan interrupt your usual Good Friday activity with an important merch announcement… especially if you're in Dublin or Belfast… https://audioalways.lnk.to/sextedmybossAC Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/625835a17c03350012ccc047/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8XUADdy6T36NuUfooErAkNxtMbnB9auB_hyHQr5sdoY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "7519084",
+      "itunes_duration": "3:07",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "merch",
+        "ency"
+      ]
+    },
+    {
+      "key": "a29b774a3ba92294ca77f6d3fa4a9c644cadc400",
+      "title": "Help It's Yours Sincerely",
+      "published_at": "2022-04-12T03:00:27+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-its-yours-sincerely",
+      "description": "With William and Jordan taking a week off from recording new Help content, we're sharing an old episode of another podcast from the makers of Sexted called Yours Sincerely. In it, William talks about three people he would send a letter to. Someone he loves, someone who is no longer around and someone who doesn't know the impact they've made on his life. It's well worth a listen and we will be back with brand new episodes VERY soon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62544e5caa31e6001445b693/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Fd2JXMYJhJyh-yzBF5ieEPRQZEPudznFmCbe5qTy1q8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80687320",
+      "itunes_duration": "56:01",
+      "speakers": [
+        "Yours Sincerely",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "yours",
+        "sincerely"
+      ]
+    },
+    {
+      "key": "b1e7edeeae7fba51b7695b15ffcfd27147d349b7",
+      "title": "Weekend Release: Sending You To Sleep",
+      "published_at": "2022-04-08T03:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this Weekend Release, William and Jordan remember the episodes that have been lost to the ether, discover the difference between a psychiatrist and a therapist and find out why this podcast can send some listeners to sleep. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/624ef1a2f71586001254cb1a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FbB3Z6UvcoqwV3SLuEel_Pg7B_GF2uSKbEfTBh4eu30",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37989354",
+      "itunes_duration": "15:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release"
+      ]
+    },
+    {
+      "key": "1b472d7f705a0b3bbe3a2fcfda3da857dc139e47",
+      "title": "Help I've Been Hustled",
+      "published_at": "2022-04-05T03:00:06+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan North is a man who often finds himself in bother of his own doing. The story of how he has maybe got conned is a perfect example of that. So make sure you don't miss this episode. There's also another G&Diva story that William had to be convinced to read out, the story of William's dead tamagotchi and plenty more. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/624b1217ea9e890012f8f64b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AOtFj9eUZwp6Z3eHmOYcwWGjxYcFb31Kg4jPb3K2bZU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110186578",
+      "itunes_duration": "45:54",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "hustled"
+      ]
+    },
+    {
+      "key": "bd38e865ec2b7739025bb9278b1788874bb26c67",
+      "title": "Weekend Release: Let's Get Steamy",
+      "published_at": "2022-04-01T03:00:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "April Fool's Day is a funny old day, especially if you're going to announce something very special… like we do in this episode. Press play for that and stay for William's Australian accent, dressing gown belt yoga and Wendi North. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6245ad7260d6fd00138c0eac/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=SkbF0A2723UzlMEnz7eHYAXQ3S665JjQHnCISqgXe24",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41416619",
+      "itunes_duration": "17:15",
+      "speakers": [
+        "Wendi North",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release"
+      ]
+    },
+    {
+      "key": "b8e232150b5f7a0925dd38185051e274e38ceda2",
+      "title": "Help I Have Major Daddy Issues",
+      "published_at": "2022-03-29T03:00:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Sometimes when a listener letter drops into the Sexted My Boss inbox we just know it’s going to be a classic. This episode contains one of those letters. There's also time for some fascinating wedding invitation chat, Jordan once again disagrees with William and this episode comes from a BRAND NEW studio. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6241c617ae67010014bd282c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kfyRqs4dkuk5ydfY1WN-etFkN8w26onr5xgKm9aO7aU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117268033",
+      "itunes_duration": "48:51",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "major",
+        "daddy",
+        "issue"
+      ]
+    },
+    {
+      "key": "b780e65cc5634ccf42e316d6035017e7739464af",
+      "title": "Weekend Release: Starting A Podcast Advice",
+      "published_at": "2022-03-25T04:00:53+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "How many podcasts can go from tongue-in-cheek advice on how to properly eat a banana to earnest advice on how to start a podcast? Not many, but William and Jordan manage to pull it off for Help I Sexted My Boss. There's also a moment for William to out sass even himself - it's worth listening out for. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/623c9b221a87780012e35c9b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=S6Lgmu-qu6QutSUV_4ARPw5jUTS8yzCnBKelK9lz_Pw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28546688",
+      "itunes_duration": "11:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "podcast",
+        "advice"
+      ]
+    },
+    {
+      "key": "3a69cb7fc84330f975648a1a9a4c762171ea860e",
+      "title": "Help There's SPF All Over My Face",
+      "published_at": "2022-03-22T04:00:10+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson’s skin is something that draws interest for all sorts of reasons. For someone who is consistently mistaken for being over 40, how does he keep his skin so glowy?! Well wonder no more! In this episode, William takes Jordan through every white cream he rubs into his face. There's also some scripting tongue twisters for Jordan to get the better of and a toast to all Mothers ahead of their day. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6238c4fe88fab800129535e0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QYCLPHRgBXubVGRzyedxtjsCopmuyEF1FUB3FM40zKo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60203039",
+      "itunes_duration": "41:48",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "face"
+      ]
+    },
+    {
+      "key": "faad0abc145360a2f68f506dc14fcb462a9261bf",
+      "title": "Weekend Release: The Moon Under Water",
+      "published_at": "2022-03-18T04:00:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We all know how much William and Jordan love a Gin and Dubonnet, but what other drinks would make up their dream pub? Well, after Jordan's recent appearance on The Moon Under Water podcast, you can find out. For Jordan, there are too many options to choose. For William, it's slightly more difficult. There's also a horrifying tale that involves a hotdog bun. The less said about that one, the better. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6233541b32401a00140557f1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qNyIn_mbLT2itpYOFsG8bVKTGDZSfO2z4AFrTICWcWE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33983215",
+      "itunes_duration": "14:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "moon",
+        "water"
+      ]
+    },
+    {
+      "key": "988d01c6b82b1c83e6ebd5e43e66ab9b2b45278a",
+      "title": "Help I'm All Tied Up",
+      "published_at": "2022-03-15T04:00:55+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There was a time that Jordan hid the fact he knows how to tie someone up. This episode is proof that those times are long gone. Jordan gets physical with his preparations for William's stag do, they reflect on their Comic Relief podcast with Football Ramble and there are three cracking listener dilemmas to take us through to the end. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/622f9d7295b8930012a4e752/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yiFsX1YCqpZgA9WSWLgDhCRotvcdGrUZw2F2fWYihTM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101647672",
+      "itunes_duration": "42:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "87eed1e6241755565db09aa10aab1e9b4f3a694c",
+      "title": "Weekend Release: The Preview Review",
+      "published_at": "2022-03-11T04:00:06+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North take it right back to where it all began by listening to the very first preview episode of the podcast. When they've gotten over Jordan's husky tones, there's also time for some doctors and nurses role play and a bit of back passage cam. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6228d8818b33ec0013aeb32e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nrgDaqCS63Q-RzaFQ06wqaPXOT6APa_IMYu-VKOw9oI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46575280",
+      "itunes_duration": "19:24",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "preview",
+        "review"
+      ]
+    },
+    {
+      "key": "538db8f011b0ada6dbede89160afddb4c2faeb6d",
+      "title": "Help I've Farted In Pilates",
+      "published_at": "2022-03-08T14:19:29+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Fresh from Rowing Home to Burnley, Jordan North shares the highs and lows of his epic 100 mile trip. After all the stress of last week (for Jordan), William has decided to check himself into a five star luxury hotel that some keen G&Divas may remember from the past. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62263d85e75613001281a6cf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0IZIQwLAMPsGYzhjXGf7p_hxbzFQDJOsZ45Gw2ZnXOA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97133574",
+      "itunes_duration": "40:28",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "pilates"
+      ]
+    },
+    {
+      "key": "5767f94499b839d78d93aa36c465fc07ed279786",
+      "title": "Weekend Release: Rowing Home with Jordan (And Producer Ben)",
+      "published_at": "2022-03-04T04:00:46+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Look up hanger onner in the dictionary and you'll find two words - Producer Ben. As Jordan North rows from London to Burnley, William and Ben take it upon themselves to comment on the journey so far, before his final stretch today. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62210440cf5e2a00139c4dbc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JaGPF0HiTXYATXnRzIml6j6IcAXD4NStjxDGozECiRQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57884211",
+      "itunes_duration": "24:07",
+      "speakers": [
+        "Producer Ben",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "home",
+        "jordan",
+        "producer"
+      ]
+    },
+    {
+      "key": "475f804507f3909f29b0521330973ef8e8516494",
+      "title": "Help I'm Rowing Home",
+      "published_at": "2022-03-01T04:00:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan on his way between London and Burnley by now, William took the opportunity to find out how to pull… the oar when rowing. There's also a staggering Comic Relief donation from William, a surprise fan of Abbey Clancy and William tells you what you should be wearing to a wedding. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/621d0f46a14b420013468f25/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=dEz4qpmyrgxRb70l0K2f64VzPlAE6rB0S0sSwn87kp8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132318562",
+      "itunes_duration": "55:07",
+      "speakers": [
+        "Abbey Clancy",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "key": "b398883c9bab282c8dbb02c62276171790c37a07",
+      "title": "Weekend Release: Russell Kane",
+      "published_at": "2022-02-25T04:00:26+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Russell Kane is the host of Man Baggage and Evil Genius, among many other things, and this week he's faced with a question that he has never before been faced with. Is it okay for a twin to to try it on with his twin's boyfriend?! Alongside revisiting this classic G&Diva dilemma, there's also time to ask him about his stag do recommendations, BBC Three and another look through Jordan's to do list. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62176215b9cccf00157fe625/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=W31lI1hYXy1E1hWSD6_U1dEBA14Cx2Mw1SVtdmGON_o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41743638",
+      "itunes_duration": "17:23",
+      "speakers": [
+        "Russell Kane Russell Kane",
+        "Man Baggage",
+        "Evil Genius",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "russell",
+        "kane"
+      ]
+    },
+    {
+      "key": "17c9a3887cd2fe7eebc32fd004f3759f44a9115d",
+      "title": "Help I Hate Your Coffee",
+      "published_at": "2022-02-22T07:02:18+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Sometimes there are episodes with one or two moments that will make you cry with laughter. Other times there will be plenty more. This is an episode with plenty more. William feels Jordan's pectoral muscles, Jordan tells William the difference between seshheads and pissheads, William's Mummy needs a drink, Jordan reveals what he really thinks about William's coffee. Oh, and there are three letters of advice in there to help you deal with modern life. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6213c55f75b42a00136a7a80/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7WGIjn0gQJjhA5kwKns4_7m1_z_v1D4k5ykkf2ZIhP0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123285419",
+      "itunes_duration": "51:22",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "key": "d31af44db72ffd8fbc6b55c690dce11e2084e05d",
+      "title": "Weekend Release: Jordan's Diction",
+      "published_at": "2022-02-18T04:00:01+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "A bonus episode that starts as it means to go on, with William and Jordan repeating the opening lines four times. Among some truly heartwarming letters, the pair also decide the top three radio shows they can't live without. Truly thrilling podcasting. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/620e6f281a733200139b2f5c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=GFYXVzxRrjwr_nZcPBbXZ5VpJFiAiN0yqVfmqP0psDo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35214105",
+      "itunes_duration": "14:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "diction"
+      ]
+    },
+    {
+      "key": "d2acc622ee284d28f65a8125dfa887290a746254",
+      "title": "Help I Need To Silence A Vegan",
+      "published_at": "2022-02-15T04:00:12+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Love is in the air, and it's Jordan North's birthday. So in this episode of the podcast, William and Jordan are celebrating by being - quite frankly - all over the place. There's a new name on the block, a wild accusation from Jordan and William is answering plenty more wedding questions. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/620a8a70e1582b001325a67c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=IIH7mTA5fMVDaCP8EQeQROhhRA2tfd9Rh3dM9TsfgpE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91578116",
+      "itunes_duration": "38:09",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "vegan"
+      ]
+    },
+    {
+      "key": "f1aeb3414106ee9d07087e4cb1f799247413aa21",
+      "title": "Weekend Release: Producer Ben's Letter",
+      "published_at": "2022-02-11T04:00:42+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In what podcast would a producer need to write a letter into their own podcast to communicate with their presenters? This podcast! Alongside a mysterious piece of communication from PB, there's a letter from William's favourite new G&Diva and a question about the best afternoon tea in London. Lots to enjoy! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/620548c7d226d10012505dac/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=X_8z0Tdn49HsGquBLjpIs40tYXBKo3VQHWc02lnib2M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27447378",
+      "itunes_duration": "11:26",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "producer",
+        "letter"
+      ]
+    },
+    {
+      "key": "2f6b1d70dda3df638433703049ac4f46f9bb5a24",
+      "title": "Help I Hate Your Dinner Party",
+      "published_at": "2022-02-08T04:00:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the first time in a long time, William and Jordan bring you a themed episode of the podcast, and it's dinner parties that are on the Sexted agenda. The pair answer as many of your cold collation questions as they can possibly get to, William reveals an unexpected recent discovery and Jordan remembers a time he was required to clean a call centre. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/62013778a2373300143e75ed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qRIzk7yjGz2Hnku7p9YbyGMfUERQ_-r6NpEMnTvvU1o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122899852",
+      "itunes_duration": "51:12",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dinner",
+        "party"
+      ]
+    },
+    {
+      "key": "61f71bc5dd1a78e5e28de4a6ca1c2f63872301ad",
+      "title": "Weekend Release: Handwritten Loophole",
+      "published_at": "2022-02-04T06:00:05+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this weekend’s episode, William is pulled up on a loophole to his handwritten reply policy - much to his displeasure. There’s chat about Beanie Babies, Karens, and Jordan, somehow, managing to meet The Duke of Cambridge. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61f941496b13d70013d95e8c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9g6nIRXCzzgm0Le0Kd-cbN0yOhga1gtR1c7jtPRC5GE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44480260",
+      "itunes_duration": "18:32",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "handwritten",
+        "loophole"
+      ]
+    },
+    {
+      "key": "924bae20c4c301d3cf2bfec36adb2bdbc5d0c380",
+      "title": "Help There's A Pirate At My Funeral",
+      "published_at": "2022-02-01T06:56:13+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a smashing night at Producer Ben's, William brings back a much-loved feature from episodes past - his diary. William also reveals his post-marriage surname, Jordan reveals (more) about life as a child in the North household and there's some sage advice if your partner keeps falling asleep before you have a chance to… get to it. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61f40828a6904d0012b3de0a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=sKGcMw2ufm9xugKNY5nvFFLNCirT6VlvGDPnG-HOHOQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97999933",
+      "itunes_duration": "40:49",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "pirate",
+        "funeral"
+      ]
+    },
+    {
+      "key": "44ce26e26f4adf7ceacbd69e87994170abddf6cb",
+      "title": "Weekend Release: Anonymous Widow",
+      "published_at": "2022-01-28T04:00:37+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this latest Weekend Release, there are more defecation in bags stories for William and Jordan to ponder, an update from the dating anonymous widow and a suggestion for a now non-judgemental William. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61f2d21874ab8c001294549c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DZ65iNBL-dkUhSO61d6MBoh_9SY1TFume3R8YnqlWi0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22280358",
+      "itunes_duration": "9:17",
+      "speakers": [
+        "Anonymous Widow",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "anonymous",
+        "widow"
+      ]
+    },
+    {
+      "key": "4bb9de61df34b04ebf8856bb39a2a45acff99cae",
+      "title": "Help My In-Laws Have Seen My Fandango",
+      "published_at": "2022-01-25T04:00:37+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This episode brought us to tears in so many ways. Well, mostly the laughing so much you start to cry way… but there's also a letter from someone involved in William's favourite musical that brings him to tears and Jordan may as well have been crying when he hadn't been invited to PB's. There's also a somehow pretty uneventful dinner party update from when Jordan went to William's and a shocking revelation about the inside of Jordan's mouth. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61eeccd24365a40013ebfb8f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yC6zA1ofj8hSZmt_mQUHR0w6qbqd53jL57UQABvnOZc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113381876",
+      "itunes_duration": "47:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fandango"
+      ]
+    },
+    {
+      "key": "82a87533400389574bef49be8476edba6f016272",
+      "title": "Weekend Release: Private Parts with Jamie Laing and Tom Lucy",
+      "published_at": "2022-01-21T04:00:23+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Last week it was the turn of William and Jordan to be on Private Parts, this week it's time for Jamie Laing and Tom Lucy to join us in our own backyard. Together they're introduced to gin and Dubonnet, Centre Parcs and a classic problem from podcast past. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61e9529f5d42500013f1bf41/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=T1mDEEIXYTDzQK13T_pA08i16mw2AVVQC7aTaTt-Y4g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53391150",
+      "itunes_duration": "22:14",
+      "speakers": [
+        "Jamie Laing",
+        "Tom Lucy",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "parts",
+        "jamie",
+        "laing",
+        "lucy"
+      ]
+    },
+    {
+      "key": "4e641ac429424abe2193e7159d9f354167b7b9d5",
+      "title": "Help I've Been Caught With The Vicar",
+      "published_at": "2022-01-18T04:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Before this week's recording of the podcast, there was a chance encounter between our two favourite podcast hosts, but surprisingly William was with another man who most certainly wasn't a builder! William explains what on earth was going on, as well as sharing all about the time he was under a butler and there's a return for our much-loved Give Me The D competition. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61e5a8a423c40d0013e876ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZTA-QqGA8WOC9JLo6tHYJbgNI2qbiy98Iq-rWqO2kwE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120177893",
+      "itunes_duration": "50:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "vicar"
+      ]
+    },
+    {
+      "key": "fb3e7c465a2da8404b597fd2cef0c88b2ca84256",
+      "title": "Weekend Release: William's Unfair Dismissal",
+      "published_at": "2022-01-14T04:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Fresh off the back of newfound Tik Tok success, William and Jordan take a look through some of the more heated comments from a particular video. They reflect on the Advent Calendar episodes more generally and one question cuts a bit too close to the bone for Jordan's liking. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61e05f54a698a30012b41952/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=opKeHp4AjJAexhheeNZN4ffCG6Uw9W0UD3zW4K59_YM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45949386",
+      "itunes_duration": "19:08",
+      "speakers": [
+        "Unfair Dismissal Fresh",
+        "Tik Tok",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "unfair",
+        "dismissal"
+      ]
+    },
+    {
+      "key": "746324489abcc26c5163db07365fe7b6c825b47e",
+      "title": "Help It's Series Infinity… And Beyond!",
+      "published_at": "2022-01-11T04:00:40+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North return for Series Infinity of the podcast as they vow to never take another series break ever again. There are mispronunciations, dodgy accents and a tale of a plastic bag, a broken toilet… and something in between the two. So settle down and pour yourself a G and D: unless you’re doing Dry January, in which case you can have a nice cup of ice. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61dca67c8ec3f90012bb4528/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-CxewYne0RXE-OHr6e4wFmfpcguuUDzi_lOgXseXc0M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111530317",
+      "itunes_duration": "46:28",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series",
+        "infinity"
+      ]
+    },
+    {
+      "key": "78a32f013b92e30f3d806dba598f21c8ae1f83db",
+      "title": "Advent Calendar: It's Christmas!",
+      "published_at": "2021-12-25T04:00:58+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson, Jordan North and the rest of the Help I Sexted My Boss team wish you a Merry Christmas with news of what's to come in 2022. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61c4b30cccd46f001383a52d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7fTmguDooXvl57ubhCwGH8vfTUAWkgUxeerc48whxrY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30126848",
+      "itunes_duration": "12:33",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas"
+      ]
+    },
+    {
+      "key": "515575d229110aa7efc28fae21a1b4b1bcd5b122",
+      "title": "Advent Calendar: Emptying The Sack",
+      "published_at": "2021-12-24T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North rifle through their Christmas sack as they catch up on the letters and correspondence that have been sent in during their Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61c4b1e2b33a5f0014791aa7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=A1N7eTsEO_V82xCVCvxQrxZC9er84igHx8nLBGlTGV8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38354048",
+      "itunes_duration": "15:58",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "sack"
+      ]
+    },
+    {
+      "key": "61311909f9ed08b06681ad19792c58e472258ea7",
+      "title": "Advent Calendar: Christmas Dinners PB's Birthday and Receiving Presents",
+      "published_at": "2021-12-23T04:00:11+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North are catching up after a few days off from the Sexted Advent Calendar. They discuss the contentious issue of Christmas lunch/dinner, role play how to receive a bad present and they've got a special birthday surprise for Producer Ben. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61c35d29fb8647001287e48b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_60lbV8jVNpo1e7sPX6lPLk7V53eDAiTU8h6rt_3k-w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54077888",
+      "itunes_duration": "22:31",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North",
+        "Producer Ben"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "dinners",
+        "birthday",
+        "receiving",
+        "present"
+      ]
+    },
+    {
+      "key": "cd1f039d9b7c13ff6e2e4beefa9c654962b14316",
+      "title": "Advent Calendar: Return of the King",
+      "published_at": "2021-12-22T04:00:38+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan North is back in action after (mostly) recovering from his illness. But don't worry, we have reached into the Advent Calendar to release an unheard episode that was to be saved for the big day. William and Jordan have something hanging over them to discuss - mistletoe. Is mistletoe problematic in 2021? Where did the tradition start? Pucker up, with consent, and settle down to listen to today's episode of the Sexted Advent Calendar with William Hanson and Jordan North. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61c2125dce7d270012bfd4d9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=sJqrU2D0ewvlWjI2UU1HoglFwJsXlgkrj0Czqp60fHw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36556928",
+      "itunes_duration": "15:13",
+      "speakers": [
+        "Advent Calendar",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "return",
+        "king"
+      ]
+    },
+    {
+      "key": "acfc47b608370972e7d4011145097913e2ce3241",
+      "title": "An Advent Calendar Update",
+      "published_at": "2021-12-17T07:00:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William shares an update on the Help I Sexted My Boss Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/61bb99d14c4bca00134c902e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=z7D00b9JuVajhqwAOaI7yPAbyH0YV02dP9UfVQAUIWs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1199873",
+      "itunes_duration": "0:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "update"
+      ]
+    },
+    {
+      "key": "6564c9dec09aa2cd21443eae6f4930e430681f66",
+      "title": "Advent Calendar: Christmas TV",
+      "published_at": "2021-12-16T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "What's behind door 16 on our Sexted Advent Calendar? Christmas television! William and Jordan take you through their own favourite Christmas TV specials as well as going through a long list of what's on the box this Christmas time… Having listened to it, you'll probably want to spend your festive period tuning into the Help I Sexted My Boss YouTube channel. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/ff98e2bc-426d-44f4-92a4-0a06113802d0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3w7p2-gQqqEC8Ljf4M_J3eb9OIMPE-6lhVG7jDGQkUc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28108928",
+      "itunes_duration": "11:42",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas"
+      ]
+    },
+    {
+      "key": "9edc8f402ca9dd976034761334224b232e1d0fd1",
+      "title": "Advent Calendar: Christmas Drinks",
+      "published_at": "2021-12-15T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Did you know, there are other drinks available than Gin and Dubonnet? Shocked? Yes, we were too. William and Jordan try their best to discuss other drinks in today's fifteenth episode of the Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmasdrinks/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RGP-bMnbLqGFdok3xq9uTdPAoSZKLmh-7rtRwM4k06o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29883008",
+      "itunes_duration": "12:27",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "drink"
+      ]
+    },
+    {
+      "key": "29d6cd27c001aefbeabdfe01ea2a6123ff71770e",
+      "title": "Advent Calendar: Father Christmas",
+      "published_at": "2021-12-14T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Today William and Jordan turn their Christmas sights on the main man himself; the guy without whom nothing would happen. No, not Producer Ben, but Father Christmas. Or should that be Santa? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-fatherchristmas/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yfe3MWt7XTP3H_NEICRC43OSNmNmMWSXr7FGiUWkRRI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27884288",
+      "itunes_duration": "11:37",
+      "speakers": [
+        "Advent Calendar",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "father",
+        "christmas"
+      ]
+    },
+    {
+      "key": "b3daba5b418bbb81ed79c8708841d1ec1e3674e5",
+      "title": "Advent Calendar: Christmas Nativity",
+      "published_at": "2021-12-13T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We unveil, with more than a handful of trepidation, the very first (and probably last) Sexted Nativity. William Hanson and Jordan North take on a less than traditional version of the festive story, on top of discussing their own Nativity experiences. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmasnativity/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=E8kcMQSMiCPCTNMjadAAcluKVEAf0eYxekFeAY7UHkw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28166528",
+      "itunes_duration": "11:44",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "nativity"
+      ]
+    },
+    {
+      "key": "c0d6cb1a43c6d6356b9cd83dac757f0a30aac203",
+      "title": "Advent Calendar: Christmas Decorations",
+      "published_at": "2021-12-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There are twelve days of Christmas but, luckily for you G&Divas, far more days of the Help I Sexted My Boss Advent Calendar. In today's episode the William Hanson and Jordan North come head-to-head on Christmas decorations. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmasdecorations/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nYgp2a40TtcbfkNsNXFc9whEhOx6EIB8O1f3hfOWRio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34372928",
+      "itunes_duration": "14:19",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "decoration"
+      ]
+    },
+    {
+      "key": "815e25986c8e282254c71013afe371afd0cfc350",
+      "title": "Advent Calendar: Secret Santa",
+      "published_at": "2021-12-11T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "How much is too much for the office Secret Santa? Is it a pointless act that spoils the spirit of Christmas? Or is it a barrel of laughs that saves everyone a bit of bother? William is unconvinced but Jordan does his best to convince his chum to its merits in the eleventh episode of our Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-secretsanta/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oCsYnL33E5-TG4AigO-AZJeX9N_MJliACrXoKBmZmDE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34096448",
+      "itunes_duration": "14:12",
+      "speakers": [
+        "Advent Calendar",
+        "Secret Santa",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "secret",
+        "santa"
+      ]
+    },
+    {
+      "key": "80004c1f6fdca01eca9e613e45fa8dcb504687c2",
+      "title": "Advent Calendar: Christmas Films",
+      "published_at": "2021-12-10T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Home Alone? Miracle on 34th Street? Die Hard? What's your favourite festive flick - and what even counts as a festive flick? William and Jordan are here to discuss this very issue in today's edition of the Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmasfilms/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZJogdurpV4v3wn4RVYLVKrs6spwJ7CQNJPO9Cj09nE8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38503808",
+      "itunes_duration": "16:02",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "films"
+      ]
+    },
+    {
+      "key": "eb16713b57918e559191edd5a94347aeab44f4b4",
+      "title": "Advent Calendar: Christmas Cards",
+      "published_at": "2021-12-09T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's no secret that William loves getting his pen out and scribbling some words on paper and so today's, ninth, episode of our Advent Calendar is right up his street. William divulges the perfect date to send your cards and Jordan discovers that he wasn't originally on William's list! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmascards/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=tgFHHKIK_tKuqrcuhPA72VTLOPA1-JTDrFvLUZqP9Do",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44601269",
+      "itunes_duration": "18:34",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "card"
+      ]
+    },
+    {
+      "key": "70b4276ed62dccecaf831ab65a6af685c1ae9038",
+      "title": "Advent Calendar: Work Christmas Party",
+      "published_at": "2021-12-08T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Lock up your photocopiers! William and Jordan discuss work Christmas parties in today's episode of the Help I Sexted My Boss Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-workchristmasparty/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qcl3-2KS0u41MxtGQWkXPj4nMtTjIVFOjb2dJeUuW8w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27556928",
+      "itunes_duration": "11:28",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "work",
+        "christmas",
+        "party"
+      ]
+    },
+    {
+      "key": "469d83e1a2afdb533680cf52cec8c6dc4be1a1f3",
+      "title": "Advent Calendar: Christmas Songs",
+      "published_at": "2021-12-07T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the end of the first week of the Help I Sexted My Boss Advent Calendar and William Hanson and Jordan North are chatting Christmas tunes. They're asking which one is best… and there's plenty of singing along the way! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmassongs/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wPwIaKcbDbQlO93LPuB9tmUzO0BKmMXHACAp0FzN33M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38209088",
+      "itunes_duration": "15:55",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "song"
+      ]
+    },
+    {
+      "key": "6369e132eed569c4c19fe7ad4684bc0f10e5ea74",
+      "title": "Lads On Tour Announcement",
+      "published_at": "2021-12-06T10:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan North is organising William Hanson's stag do, and you're invited! Be part of the biggest Sexted My Boss party ever, as Jordan takes William across the UK and Ireland for the ultimate night out. Experience everything you love about Sexted My Boss live on stage, with added pre-wedding fun and frivolity! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/ladsontourannouncement/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ygtWL6quc2mf384IfMN6SSBZNIEsSfTviVI2rVW4cEw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2851941",
+      "itunes_duration": "1:51",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "tour",
+        "announcement"
+      ]
+    },
+    {
+      "key": "56ee3acba0be56c3d6303cf2de784316d51fdb64",
+      "title": "Advent Calendar: Christmas Lists",
+      "published_at": "2021-12-06T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "He's making a list and checking it twice, he's going to find out who's naughty or nice. Time for William and Jordan to dissect the etiquette of the Christmas list, including a world exclusive airing of William Hanson's 2021 Christmas list. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-christmaslists/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=GpwocPXyGCsWJXGRi1BLwNIX7N1vuCxq86mvMpREWCg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39694208",
+      "itunes_duration": "16:32",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "list"
+      ]
+    },
+    {
+      "key": "1ab03c5b0155361864287d4f701ae2c5f4887ae8",
+      "title": "Advent Calendar: Giving Presents",
+      "published_at": "2021-12-05T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "He's making a list and checking twice, he's going to find out who's naughty or nice. Time for William and Jordan to dissect the etiquette of the Christmas list, including a word exclusive airing of William Hanson's 2021 Christmas list. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-givingpresents-acastfd830ab9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kmIGiosMhw2IlZKRcKa2jL_Q_T45_y-tI5MIksf38C8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32236928",
+      "itunes_duration": "13:25",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "present"
+      ]
+    },
+    {
+      "key": "a1919e45944359c12fc8d5cb3b9f5abcc19da2ee",
+      "title": "Advent Calendar: Christmas Trees",
+      "published_at": "2021-12-04T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "What's green, prickly and a bit wooden? No, not Jordan's sight reading ability after a bad clam, but the humble Christmas tree. William and Jordan present their fifth episode of the Help I Sexted My Boss Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-givingpresents/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UoYiZuo1T9b9RuTPk5yuQdCaXxOCgAM3allPC3CFFcw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43539008",
+      "itunes_duration": "18:08",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "trees"
+      ]
+    },
+    {
+      "key": "b4fe65dbb20f791c76136a34176b8af853192d82",
+      "title": "Advent Calendar: Mince Pies",
+      "published_at": "2021-12-03T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "What’s the perfect combination of being fruity, nutty and deep filled? No, not our hosts, but mince pies. William and Jordan discover the history of this Christmas sweet treat in today’s episode of the Help I Sexted My Boss Advent Calendar. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-mincepies/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xOhdugdcEgjFLKrdj9ZyqcW9Gc9dT_1qUogxjOPGZKc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25327808",
+      "itunes_duration": "10:33",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "mince",
+        "pies"
+      ]
+    },
+    {
+      "key": "0428c10dca6258b4f113a3b7c9bf32848824b482",
+      "title": "Advent Calendar: Christmas Jumpers",
+      "published_at": "2021-12-02T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Day two of our Advent Calendar and the window has revealed Christmas jumpers? Who doesn't love a Christmas jumper? Well, William, for one. Luckily, Jordan does his best to try and convince his best chum of the charms of a festive knit. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-2nddecember/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=94SiuEhkqYawGxJE-XzNFayPrvAwk-VvHZmpRzml6v4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32475968",
+      "itunes_duration": "13:31",
+      "speakers": [
+        "Advent Calendar",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "advent",
+        "calendar",
+        "christmas",
+        "jumpers"
+      ]
+    },
+    {
+      "key": "465dda48e86bfb4dc9f91b42123d584f081f5b3f",
+      "title": "Advent Calendar: Advent Calendars",
+      "published_at": "2021-12-01T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North begin their Advent Calendar series with a topic that would put even the biggest Inception fan in a spin - they're talking advent calendars. William has some *opinions* on whether over 30s should have one and his own advent calendar alternative is more environmentally friendly than you might expect! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/adventcalendar-1stdecember/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Pr3syYDhSyDagfczm5kKQW7CxMHgmXbdofzmX0j88pQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41690048",
+      "itunes_duration": "17:22",
+      "speakers": [
+        "Advent Calendar",
+        "Advent Calendars William Hanson",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "advent",
+        "calendar"
+      ]
+    },
+    {
+      "key": "f9184e3144802f49d44299e0e367631c4e8a50f7",
+      "title": "The Help I Sexted My Boss Advent Calendar",
+      "published_at": "2021-11-29T09:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Introducing the Help I Sexted My Boss Advent Calendar! Throughout December and up to the big day, William and Jordan will be your Christmas elves as they guide you through the festive season and be on hand to answer any of your yuletide questions. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/thehelpisextedmybossadventcalendar/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ARCYgAhMnGBHpQSE6ZCuO770DJXsX9LVAkg6LljOvW0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16660928",
+      "itunes_duration": "6:56",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "help",
+        "boss",
+        "advent",
+        "calendar"
+      ]
+    },
+    {
+      "key": "1fb46dae35c617d0c6a85b80855ea3d53bd609de",
+      "title": "The Boys Are Back: Kinder Surprise",
+      "published_at": "2021-10-19T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are backstage in the Bush as they prepare for the first of three nights in London. We find them in the middle of a Kinder Bueno taste test, so prepare yourself if you have misophonia or have a strong dislike for German/Italian chocolate.There's plenty to enjoy in this episode with William in a mischievous mood, Jordan getting things wrong and Producer Ben laughing in the background. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/theboysareback-kindersurprise/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=E-Ua-PC0KEWEQjQFfaGW4x5x3IlcupeJOXxEZ_Qte6I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40209728",
+      "itunes_duration": "16:45",
+      "speakers": [
+        "Kinder Bueno",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boys",
+        "kinder",
+        "surprise"
+      ]
+    },
+    {
+      "key": "6619fd1f844c6abae5eeaf40588873b60de8d53a",
+      "title": "The Boys Are Back: William And Jordan Are Rifting",
+      "published_at": "2021-10-12T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There have been times in the last 12 months that it didn't seem like we'd ever actually get to do the shows of this tour. There have also been times when William has been worried he won't be able to get out of some of the cities on this tour. But now, in this special bonus episode, it's time for William to reflect on his time in Sheffield as we hear him discover that Sheffield isn't actually s**t… well that's what we had hoped. There's also an EXCLUSIVE clip from William's 'other' podcast, Keeping Up Appearances: The Luxury Podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/theboysareback-williamandjordanarerifting/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=E1dFLFuGCyHMkVaeI_4YjESFaAjCCW9Nom9a-Qcs_DQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23219349",
+      "itunes_duration": "16:07",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boys",
+        "william",
+        "jordan"
+      ]
+    },
+    {
+      "key": "7da929cecb4948b3e03fd78e7d4d5b95c508ae56",
+      "title": "The Boys Are Back: We Don't Do Politi",
+      "published_at": "2021-09-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "You join William and Jordan as they prepare for the fifth stop on The Boys Are Back Tour in Birmingham. They chat about the high points (well really more about the low points) of the tour so far in Bristol, Glasgow and a few stops in between. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/theboysareback-wedontdopoliti/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iahiSYMIIQB50NJ9d0ZHWDWIUWx61injnrKmNS0vIFc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37781888",
+      "itunes_duration": "15:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boys",
+        "politi"
+      ]
+    },
+    {
+      "key": "ab7483c94965df892daf7f42323347aa06bdea5d",
+      "title": "Weekend Release: Your Tour Questions Answered (And More…)",
+      "published_at": "2021-09-10T03:00:17+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With William and Jordan about to embark on their biggest tour to date, they're on hand to answer any of your questions about their new show, The Boys Are Back. But there's also plenty of time for some classic bonus episode correspondence. From the heartfelt to the funny, this Weekend Release has it all. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-yourtourquestionsanswered-andmore-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=U1mQFbWHMJ9kJTfVIpOpKyQOT6I3hXi85h4vImoI05Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44838716",
+      "itunes_duration": "18:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "tour",
+        "questions",
+        "answered"
+      ]
+    },
+    {
+      "key": "e51d549118638474801450c857df781726ff2ab8",
+      "title": "Help I've Been Bonking In An Alley",
+      "published_at": "2021-09-07T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a podcast filled with huge news and big announcements, there was only one way for the series to go… and as the tour approaches, we're afraid to say this is the final episode of the series. With that in mind, we're opening up our sack and getting through as many problems as we possibly could. It's goodbye for now, but not forever. New bonus episodes from the road may well be around the corner. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivebeenbonkinginanalley/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3UcZHvI1MCgsio4tpsjJrD4afp0MdRQxsLy1WrZbVm0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123025088",
+      "itunes_duration": "51:15",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "alley"
+      ]
+    },
+    {
+      "key": "018f8340b4ca8f16b4b85f9eb35c4af67fb38bd2",
+      "title": "Weekend Release: Producer Ben's A Tree",
+      "published_at": "2021-09-03T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We're feeling the love in this episode of our Weekend Release, just like a random man in the gym has been feeling the pressure washer. There's also time for William and Jordan to imagine which character they'd be if they were in a musical. You'll never guess which production William's character appears in… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-producerbensatree/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=HBwAaHO6eJ5kyN5uJXt5PpgiDXUtdYz9cy-WhwStHJU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33673088",
+      "itunes_duration": "14:01",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "producer",
+        "tree"
+      ]
+    },
+    {
+      "key": "2fdc8fe1d9b3268b201111804b782e713ff34836",
+      "title": "Help I Need To Cancel",
+      "published_at": "2021-08-31T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Throughout this series of the podcast, William has been concerned with Jordan's appetite for a late cancellation. Well in this episode, although it might not be late and there's a completely valid reason, a cancellation does come from William's lips. To find out what he cancels, you're going to have to press play. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpineedtocancel/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ADmA-W_HZEtDXpOvZ03Ef5UvAeO0BOd5PVfgtU3ceFI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108124928",
+      "itunes_duration": "45:03",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "cancel"
+      ]
+    },
+    {
+      "key": "cee7865689d985d64dca70dfb11e32676270fc9a",
+      "title": "Weekend Release: Frank's Accent",
+      "published_at": "2021-08-27T03:00:20+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this latest Weekend Release a G&Diva agrees with one of William's latest opinions, we imagine what Jordan's dog, Frank, would sound like and there are more 'You Know You're A G&Diva When…'s. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-franksaccent/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6Tk6_GTrLsSqpKrfsNAWGk5hb76t6xcJ2e7AU0B8vuY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26315648",
+      "itunes_duration": "10:57",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "frank",
+        "accent"
+      ]
+    },
+    {
+      "key": "4c489e12672fc9683e63850eb3a88fdf19ce210b",
+      "title": "Help I Like It Salty (Cha Cha Cha)",
+      "published_at": "2021-08-24T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After Jordan's secret excursion, it's time for the boys to return to the studio. With everyone back in the same room, and Producer Ben firmly behind the glass, things start to feel normal again. Jordan got his words mixed up, William was snobby about theatre and Producer Ben pressed some buttons. A classic episode. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpilikeitsalty-chachacha/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gTnNG4E0v1kwle-AWEWkdAauJ7LEpGZAbXCyZ2mx2Pw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107837888",
+      "itunes_duration": "44:55",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "salty"
+      ]
+    },
+    {
+      "key": "3f23e34cb4d9a736ece9768cdd3f2003ac7707af",
+      "title": "Weekend Release: You Know You're A G And Diva When…",
+      "published_at": "2021-08-20T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "When G&Diva Charlotte came up with the idea to get all of you to give us your 'You Know You're A G&Diva When…' suggestions, we knew we were onto a winner, but we didn't think it would go this well! William and Jordan read out some of their favourites, there's correspondence about housewarming gifts in Germany and we reveal whether on not Mikey is actually a builder (don't believe everything you hear on this podcast). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-youknowyoureaganddivawhen-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=c5533q2gDupEK97DW21Xl2j_PrKwxHUvn2-5vSwhLUc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55568768",
+      "itunes_duration": "23:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "diva"
+      ]
+    },
+    {
+      "key": "2f18b30ac1e101843098b1d288ce3591da84817a",
+      "title": "Help My Neighbour's Windows Need Some Pledge",
+      "published_at": "2021-08-17T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Jordan on a 'secret' project in a 'secret' location - or as they say in Spain - locacion secreta - it's back to the age old method of connecting up with William over an online video conferencing service. That doesn't stop William making a bold claim about running over the age of 30, there's news of a new bookshelf AND a new kitchen and there are four listener dilemmas for our boys to get their teeth stuck into. But as usual, they're the type of problems you wouldn't want your teeth anywhere close to. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyneighbourswindowsneedsomepledge/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qWIHt8yv65Mgdzk8S1ezoh3MuJp5PYuwSzpKnnua-iI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96911168",
+      "itunes_duration": "40:22",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "neighbour",
+        "windows",
+        "pledge"
+      ]
+    },
+    {
+      "key": "c5dcda4f14aad004dc0ff12251562ab53f2bde69",
+      "title": "Weekend Release: Melon Plucker Update",
+      "published_at": "2021-08-13T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Producer Ben is on holiday, so the quality of this bonus episode will be considerably higher. William talks getting teary at Mary Poppins, and the boys get an update from the infamous Melon Plucker! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-melonupdate/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=r8jKguMItE_HmQhUhwNOPsrU-2zuSR06tk-J6lW6FBE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13439360",
+      "itunes_duration": "13:59",
+      "speakers": [
+        "Producer Ben",
+        "Mary Poppins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "melon",
+        "plucker",
+        "update"
+      ]
+    },
+    {
+      "key": "fb9b4d5c3e89d88e22fa4862c2ea4ef8ed5302a1",
+      "title": "Help It's The Final Biscuit",
+      "published_at": "2021-08-10T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Du du duuu du, du du du du du, du du du duu, IT'S THE FINAL BISCUIT (sung to the tune of The Final Countdown). Elsewhere, we hear about William and Jordan's cleaning nightmares, Jordan reveals the identity of our newest G&Diva, and they help you buy your friends the PERFECT housewarming gift. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthefinalbiscuit/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=T0_At-ZzNiKr1tS_gBwd3s44ZZQ2hYVtfEQOloDmnuY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102432550",
+      "itunes_duration": "42:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "final",
+        "biscuit"
+      ]
+    },
+    {
+      "key": "33a24c29d3c8f960ba726184c337f5d8c4a8ead1",
+      "title": "Weekend Release: William's Diary Returns",
+      "published_at": "2021-08-06T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The much-anticipated, long-awaited, mesmerising passive aggression of William Hanson's diary is back on the podcast - and we couldn't be happier about that fact. Along with a G&Diva who has actually managed to learn something from the podcast and some s**t chat, it makes for a classic bonus episode. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsdiaryreturns/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6JG1W_rOojC_FyqN2G3s-sDcGPXF3Tw6t8pVODO6wPw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34719488",
+      "itunes_duration": "14:27",
+      "speakers": [
+        "Diary Returns",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "diary",
+        "return"
+      ]
+    },
+    {
+      "key": "692d406d1fa7e3d8e680061021dea044c2eacc7a",
+      "title": "Help Die Umwelt Ist Kaputt",
+      "published_at": "2021-08-03T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's a holiday special on the podcast, as William and Jordan take you through their own dream holidays, stories of holidays past and all the holiday etiquette dilemmas under the sun… including whether it's EVER okay to leave a towel on a sun bed. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpdieumweltistkaputt/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=__5V254mhvh_mj4y2WtUaPmquX_PEziOyB-CoGvveJQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101224534",
+      "itunes_duration": "42:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "umwelt",
+        "kaputt"
+      ]
+    },
+    {
+      "key": "b3926e4a8acbb13c0e0e6a005172163552533034",
+      "title": "Weekend Release: William's Dating Profile",
+      "published_at": "2021-07-30T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the second Weekend Release episode of the week (DON'T WE SPOIL YOU?!) William reveals a mystery dating profile and a G&Diva asks Producer Ben for some advice. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsdatingprofile/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=sNQavkGESYYczFlSnAzwnMfDF2XkEWZV5FMthzi6zW0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29859968",
+      "itunes_duration": "12:26",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "dating",
+        "profile"
+      ]
+    },
+    {
+      "key": "f759c0a38dc624c45cc0ece77f8bae79de46253a",
+      "title": "Weekend Release: Expectations and Reality",
+      "published_at": "2021-07-29T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this extra Weekend Release episode - brought to you in paid partnership with Capital One - William and Jordan chat about the times when expectations don't meet reality. They also discuss potential plans for later on in the summer. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-expectationsandreality/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=sD_F7_Vj_aCnKz5HyCg2jMADIVzwSgYKq77eZNMsnUI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27357303",
+      "itunes_duration": "18:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "expectation",
+        "reality"
+      ]
+    },
+    {
+      "key": "db6a8016e54873b45d27b4c44f3c5729ad2a21d6",
+      "title": "Help I’ve Been Given the Thumbs Up",
+      "published_at": "2021-07-27T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William's got another WhatsApp group problem, Jordan's got a bumbag, and Producer Ben has got a lot of tears in his eyes. Also, the boys answer your problems about oversharing, the thumbs up emoji and last minute cancellation etiquette. Oh, and if you're a fan of Jordan's impressions… stick around for William's turn. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpi-vebeengiventhethumbsup/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=U5oXK4MUARZaIGr9LZ7XH_cf5OfXoOGiQgjZnNsHcRA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100649935",
+      "itunes_duration": "41:56",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thumbs"
+      ]
+    },
+    {
+      "key": "272b6aa901f59b2772dc9c1b8de4225b219a6274",
+      "title": "Weekend Release: Jordan's Book Club",
+      "published_at": "2021-07-23T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan squeeze a bit of extra goodness into the end of your week in this Weekend Release. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordansbookclub/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yqgRlCIV0QdPBeXggq1vlYTZ7z3Kl_o8K4PNkNyDoBA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27972608",
+      "itunes_duration": "11:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "book",
+        "club"
+      ]
+    },
+    {
+      "key": "bd6a5d89239114ac6cc3e37420ab6dddc1400c80",
+      "title": "Help I've Snapped The D",
+      "published_at": "2021-07-20T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "From beginning to end, this is 'one of those' episodes. The dubonnet plays up, Jordan wets the bed and William has yet another wacky word of the week. Whatever happened last week has been forgotten and Help I Sexted My Boss is back to its best (not that it was ever anywhere less than its best…). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/help/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gTlOu4VgayejAAbYtaSB1UF8mKx6KbAkpxtSpjHX_Lc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106608128",
+      "itunes_duration": "44:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3895e7a2a045db2821864f172ea14b6a211d1d89",
+      "title": "Weekend Release: James Hanson (William's Brother)",
+      "published_at": "2021-07-16T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With this week's revelation that William's Mum had heard Jordan's impression, it was up to Producer Ben to source a contributor who was at the scene… so he text William and asked him if his brother fancied joining them on a Zoom call. There's also time for a couple of your letters, including from one listener who overheard Jordan in a field. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jameshanson-williamsbrother-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RrIM_lpcTvtK07Vg5OwRrmfMSc68q850HefVahJzO5I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47531648",
+      "itunes_duration": "19:48",
+      "speakers": [
+        "James Hanson",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "james",
+        "hanson",
+        "william",
+        "brother"
+      ]
+    },
+    {
+      "key": "18ffbc1b3da8134e738ceb32d8cb4b44d8cdd71d",
+      "title": "Help It's Me Or Your Nuts",
+      "published_at": "2021-07-13T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It was a close fought contest that went on for too long and really could have gone either way, but William and Jordan are now over their lovers tiff and there's plenty to talk about. It's the morning after the night before and Jordan's voice is JUST about holding up. But he wasn't the only Sexted co-host that watched 'the big game'. And for those of you who don't love the footy as much as our boys do, there are four listener problems to sink your teeth into. Enjoy! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsmeoryournuts/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZGcGCs8Btm5NR_zHRD1jZ4qWixNH6WSEZWQR6l6TYH8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101083848",
+      "itunes_duration": "42:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "77b51c3ad1405ca204bdc09696c1316e0318bf7e",
+      "title": "Weekend Release: William's New Friend",
+      "published_at": "2021-07-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Just days after Jordan's roll call of celebrity guests from his day at Wimbledon, William sweeps back with news of his appearance on Christopher Biggins' new podcast. There's also three bits of listener correspondence to enjoy and the boys reminisce about some of their own favourite children's TV theme tunes to wrap up this week of content. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsnewfriend/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4K3o3Zs0f41L0wWIdA1VdMoIGNCAciWOwawLnjFI6qs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35071808",
+      "itunes_duration": "14:36",
+      "speakers": [
+        "Christopher Biggins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "friend"
+      ]
+    },
+    {
+      "key": "aa0d88269296c8c66d88ebba29eac92de303a10c",
+      "title": "Help My Sister Thinks She's A Pornstar",
+      "published_at": "2021-07-06T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With news of Jordan's departure from part time work to a full time gig, it was yet another fitting occasion to toast to one half of our dynamic duo. There are also updates from Jordan's day eating strawberries and cream, William takes us through the etiquette of greetings and we hear how forgetfulness runs in the North family. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmysisterthinksshesapornstar/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zVjEof3wlPe5GMJfitDHWfS5PCJvMBZEXb38ohJg9BM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108106688",
+      "itunes_duration": "45:02",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sister",
+        "pornstar"
+      ]
+    },
+    {
+      "key": "1f00b55dee747b67b2e29b24403551a7e40e9a23",
+      "title": "Weekend Release: Producer Ben's Paintbrush",
+      "published_at": "2021-07-02T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this first Weekend Release, William and Jordan are recounting a time when they put the 'diva' into G&Diva by demanding Producer Ben to run errands for them. William has also got a couple of handwritten letters share with Jordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-producerbenspaintbrush/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=neTDBQgXU_iwTNBFP6oq7cIBtUiJWlL-a7Hn6lLgB8I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32941568",
+      "itunes_duration": "13:43",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "producer",
+        "paintbrush"
+      ]
+    },
+    {
+      "key": "666f2f4145c9fed35c420f6443b9e0d452601a28",
+      "title": "Help I've Got A Hole In One",
+      "published_at": "2021-06-29T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Help I Sexted My Boss is back for an eighth series of helping you deal with the everyday problems of modern life - and it starts as juicy as we mean to go on. Jordan admits the real reason why he cancelled on his co-host, William shares the etiquette of saying you have an OBE and the boys are once again shocked by a listener story about a golf ball in a hole it shouldn't have been in. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegotaholeinone/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xPluf_Fy7Socb_t6acjiZIeHpgqfAZ6RutcOf_nm7d0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118179008",
+      "itunes_duration": "49:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "hole"
+      ]
+    },
+    {
+      "key": "97fc944a09a13799afb77cbb9cfc03cd3aeae97f",
+      "title": "Help It's The Best Of Series 7 - Part Two",
+      "published_at": "2021-06-25T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the best bits from the Series 7 catalogue of Weekend Release bonus episodes. William and Jordan take you through some of their highlights, which include William's reaction to meeting Mary Poppins, an explanation of the now infamous jumping jet story and a portion of pumpkin pie in a park. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries7-parttwo/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3MRUDfeb6v8nxzQPwBOURFhL71SNQP7s8OCxUFuAE9U",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54795008",
+      "itunes_duration": "22:49",
+      "speakers": [
+        "Mary Poppins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "b8a1f964210705ca1699e95ec60deba83705783c",
+      "title": "Help It's The Best Of Series 7 - Part One",
+      "published_at": "2021-06-22T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan take you through the best bits of the main episodes in Series 7 - including killing off Barry Manilow, some lube on the side and a couple of bizarre listener problems. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries7-partone/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DCuUM1jU5WtSgJsk_9dkT2Kv8Buv0q_XWz1osZ08gE4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57451328",
+      "itunes_duration": "23:56",
+      "speakers": [
+        "Barry Manilow",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "b1e71bb9484e4727b1c8f1e713497af2fcbde599",
+      "title": "Help It's The Pilot",
+      "published_at": "2021-05-04T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "A long time ago, in a studio in Manchester, William and Jordan recorded a pilot for their now hit comedy podcast Help I Sexted My Boss. Until now, this pilot had never been heard outside of a select few. Now, it's available to listen for an altogether more select few - you. Much has changed. Much hasn't. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthepilot/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7WJh1HLb__5Ui0YY1bc7XM-h1J6c2KkMmOq6UQi3qaA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40112987",
+      "itunes_duration": "27:51",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "pilot"
+      ]
+    },
+    {
+      "key": "d45b95bb25dbf37307ee20120377cbb94265847a",
+      "title": "Weekend Release: 100th Episode Debrief",
+      "published_at": "2021-04-30T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan reflect on a 100th episode special that ended with both of the boys feeling quite… squiffy. There's also time for a couple of bits of advice. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-100thepisodedebrief/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=P7HpHgdw9eKftHRJT1pS-CDgXo6eUYYyF91RiGqNVfw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36615488",
+      "itunes_duration": "15:15",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "debrief"
+      ]
+    },
+    {
+      "key": "20f3a0d34e51493410380b160dd8b9d40ff197ad",
+      "title": "Help It's Our Big 100th Episode Livestream Special",
+      "published_at": "2021-04-27T05:06:31+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "To celebrate a centenary of Help I Sexted My Boss podcasts, William and Jordan stream this episode live on the internet, and the results are as chaotic as you'd expect (and hope for). They ask if they've changed since they first started, Producer Ben empties his big sack and there's plenty of (bad) advice for your problems and dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsourbig100thepisodelivestreamspecial/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=f1IhNxE3aqliLRa7o-o281ARGev6GvuzukKkeQ2xURU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "170887808",
+      "itunes_duration": "1:11:12",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "livestream",
+        "special"
+      ]
+    },
+    {
+      "key": "4f278f7890191887d014728e0c8364a64b708453",
+      "title": "Weekend Release: 100th Episode Planning",
+      "published_at": "2021-04-23T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With just days until the podcast reaches its centenary, William and Jordan get to planning what they're actually going to talk about. With no help from Producer Ben, and plenty of help from you, can they form a plan? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-100thepisodeplanning/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7ohktGYUD4BQO2A5GzVkNho8m-botPa58IegJ2ewyHo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41281088",
+      "itunes_duration": "17:12",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "planning"
+      ]
+    },
+    {
+      "key": "d66a1cdc04b56dbb79e7d242c7e4488a67b0f7e2",
+      "title": "Help I've Gone Viral",
+      "published_at": "2021-04-20T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the podcast's 99th episode and William and Jordan set about it in as haphazard fashion as you could possibly hope for. There's news of a painted hallway, poo on some Polyanthus (and elsewhere) and about four Jordan Joke of the Weeks. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegoneviral/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=u2qU_veHAp5wJdHK7mC-T4ULwuyQuJfzg3qL90CktnQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117747008",
+      "itunes_duration": "49:03",
+      "speakers": [
+        "Jordan Joke",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "viral"
+      ]
+    },
+    {
+      "key": "be0753427822f603f4c12927f517e4adb61cd99c",
+      "title": "Weekend Release: Losing My VirGINiDy",
+      "published_at": "2021-04-16T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan debrief when they became slightly 'tiddled' during their park visit last week. Also, they're compared to Lady and the Tramp and Jordan wants to know when you lost your virGINiDy. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-losingmyvirginidy/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YhkMSFdx4B3NjtP3LLYhdvrphch1eczBzuNIshagmrE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42318848",
+      "itunes_duration": "17:37",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "virginidy"
+      ]
+    },
+    {
+      "key": "e5bcfc0a48513931233b9b9c01b9fedc0031b8d1",
+      "title": "Help I'm Moving To London",
+      "published_at": "2021-04-13T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan reflect on this week's news and answer your dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimmovingtolondon/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=y7Y9u_YhTFybDwwLNBAwdX5U-AOcr5TQvfWP3cElTnA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80541248",
+      "itunes_duration": "33:33",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "london"
+      ]
+    },
+    {
+      "key": "3f6234aaede5ebe6230411005ea2b4318382e04a",
+      "title": "Weekend Release: Pie In A Park",
+      "published_at": "2021-04-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the first time in 2021, William and Jordan (and Producer Ben's laugh) are together. For the first time ever, William has a gin tin (or five). For the first time ever, Jordan discovers that it's carnation milk instead of coronation milk. It's a bonus episode of firsts. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-pieinapark/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cH5KwRFXaV5Rzzq7xAdRO6yy6Sc5yLduNPC6H6Xop_s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40035968",
+      "itunes_duration": "16:40",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "park"
+      ]
+    },
+    {
+      "key": "937c917dd6a90e909454f62a3e50f943c358cf5a",
+      "title": "Help My Mates Are Meeting In A Park",
+      "published_at": "2021-04-06T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With lockdown restirctions easing in the UK, William and Jordan answer your quickfire post-lockdown etiquette questions. There's also an update on Jordan's wallet and a long list of apologies. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmymatesaremeetinginapark/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jPxmWrBDLmKg6QqbEGY_r5sr3GTmTtXARGI_lyjyHFw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115946048",
+      "itunes_duration": "48:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "mates",
+        "park"
+      ]
+    },
+    {
+      "key": "60db7574ea5c109d32fc375b4dcd3c9d2ea89c67",
+      "title": "Weekend Release: Census Results",
+      "published_at": "2021-04-02T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan reveal the official Help I Sexted My Boss Census results. Also, a listener gets in touch about a mysterious godmother. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-censusresults/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pUIHqUflp7F01MDSLbsMg2Isv5GZTZ0rrI6Zm4MT7VU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32115008",
+      "itunes_duration": "13:22",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "census",
+        "result"
+      ]
+    },
+    {
+      "key": "99d6266b276491ab9f1ca8d4b7892212adf6e02b",
+      "title": "Help I'm A Thirteenth Wheel",
+      "published_at": "2021-03-30T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Sometimes it seems like Jordan has changed so much, and then he loses his wallet again. Elsewhere, William and Jordan discuss their plans now that lockdown restrictions have eased, they remember what prizes they won at school and William brings yet another well thought out Wacky Word of the Week. Keep your ears peeled for an exciting announcement, too. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimathirteenthwheel/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pjpxH8VShruQJN6Tt9wPNP-9y8VsJggDewksH2CCVmM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93793088",
+      "itunes_duration": "39:04",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thirteenth",
+        "wheel"
+      ]
+    },
+    {
+      "key": "e369aef7c221c2bc7924b2755c5b09bb1792087d",
+      "title": "Weekend Release: Jordan's Snake Handler",
+      "published_at": "2021-03-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this week's bonus episode, William surprises Jordan with a special guest… who just so happens to be a G&Diva. There's also time for an update about a mask and some hot pants. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordanssnakehandler/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2GY7koLoKW7VT-RNPeRfbxkOW__VfDagimf8E5kP9IE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36709568",
+      "itunes_duration": "15:17",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "snake",
+        "handler"
+      ]
+    },
+    {
+      "key": "23cc9537cd681ed35380828beecebddf1add0fe4",
+      "title": "Help I'm Out Of A Man",
+      "published_at": "2021-03-23T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Our Queen is back in the country, and there's much to discuss. William is straight back to his duties as he takes it upon himself to guide Jordan through a Help I Sexted My Boss-style census, Jordan has news of his house-buying nightmare and there might be an open door to for everyone's favourite 'talent' - because of course this is a three talent podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimoutofaman/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8y1wzfGFbxnv3Mav_36wheSf5mSuuujk_VdOl18fGRI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106474688",
+      "itunes_duration": "44:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4617c1bcb6243d37f8aaf7402f874e207ffa55e8",
+      "title": "Weekend Release: Jordan's Fan Fic",
+      "published_at": "2021-03-19T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William reads some extracts from a fan fic all about Jordan's time in the I'm A Celeb castle. A tale that gives Wilfred and Justin a run for its money. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordansfanfic/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5AOfuSk619cscggMeto2cMwNehqBFm3Av8yQxc8oCd0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30891008",
+      "itunes_duration": "12:52",
+      "speakers": [
+        "Fan Fic William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan"
+      ]
+    },
+    {
+      "key": "5b779338eeabb67df63ab633aa427cdbc1683a7e",
+      "title": "Help We Haven't Got A Plan",
+      "published_at": "2021-03-16T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With no time for a planning meeting last week, the boys see where the wind takes them in this episode… and it takes them to some pretty strange places. Say hello to William Hannon, Jordan shares news of his new status as a Godfather and William shares all (not actually that much) on what he thinks of THAT Harry and Meghan interview. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwehaventgotaplan/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gJX15VrSwWtnWzF60-UOLegNyR4jIQZM1GBEQajjPcs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108007808",
+      "itunes_duration": "45:00",
+      "speakers": [
+        "William Hannon",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "plan"
+      ]
+    },
+    {
+      "key": "31a1058a56e36bd22cc53d734c17fcf82c07efb0",
+      "title": "Weekend Release: Inspirational Jordan",
+      "published_at": "2021-03-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We don't always get emotional on this podcast, but when we do it's well worth a listen. William and Jordan reflect on Producer Ben's lookalike, hear from a listener who has been inspired by Jordan and we set you a challenge. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-inspirationaljordan/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wfh3LfyB6jrmClFCp2dy0ZEYqVByVpxwrDCoZeod52g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27726848",
+      "itunes_duration": "11:33",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "inspirational",
+        "jordan"
+      ]
+    },
+    {
+      "key": "6c28e1800a92dc9c03f8dc8568f5027f2d18e377",
+      "title": "Help I've Got A Wonky Clock",
+      "published_at": "2021-03-09T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After hitting the G and T so hard last week, William now finds himself in a situation with no G, no D and no T. Jordan thinks he has a solution… William's not convinced. In other news, there are more of Jordan's BRILLIANT impressions, William's had a complaint and FOUR listener problems for which the pair attempt to advise. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegotawonkyclock/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=UJGHndAYN5hcunKaKKpEwi3ydYy5o9CN0W2Gp12KcJM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100760308",
+      "itunes_duration": "41:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "clock"
+      ]
+    },
+    {
+      "key": "ddd521ccebe04c5430288083c9f27a1186452f90",
+      "title": "Weekend Release: William's Diary Part II",
+      "published_at": "2021-03-05T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William delves deep into the doldrums of his diaries to find yet more evidence of the changes in his character since the period between 2010 and 2014. We also continue the conversation about bathing in sinks and there's a reminder that it's okay to not be okay. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsdiarypartii/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PIJz9qC3dcgwyR-2yObZiKaXf2iVkXd3kWVqHSQXe-w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37990208",
+      "itunes_duration": "15:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "diary"
+      ]
+    },
+    {
+      "key": "7d5427b6d1fafff61b760b7ebeaaa828d5220242",
+      "title": "Help My Neighbours Are Common",
+      "published_at": "2021-03-02T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "NEWS. WE HAVE NEWS. TOUR NEWS! Listen within for an update on the 2021 Boys Are Back Tour. For those of you not able to come to our live show or are not bothered, there's plenty more to enjoy. To start with, William can hardly string a sentence together because he's drunk before we've even started… so it'll probably be one of your favourite episodes. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyneighboursarecommon/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DdRfK74yM0XuhNWV_U-2Hu0fncwsplROh-rV8yGruLg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112807808",
+      "itunes_duration": "47:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "neighbour"
+      ]
+    },
+    {
+      "key": "9d54574f7fb652f720304e21a861339e283dfdb0",
+      "title": "Weekend Release: William's Apology",
+      "published_at": "2021-02-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After last week's controversial argument, William has penned a heartfelt apology to Jordan… except it might not be quite what it seems. The boys also get through a couple of letters from the mailbag. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsapology/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PMRHfJiiuNT8zYOvO8XZDpKHYpNHM8Yt_hXGzNybBmc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40864448",
+      "itunes_duration": "17:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "apology"
+      ]
+    },
+    {
+      "key": "63a020a84a7ace622ebb4b8402a100fbf46d034b",
+      "title": "Help I've Left My Lube On The Side",
+      "published_at": "2021-02-23T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the first time ever in recorded history, Jordan is asking whether he's changed… this time he might have a point. William and Jordan also attempt to clear the air after last week's 'argument', they talk about their childhood bathing memories and share a never-before-told story of a Facetime call between the pair that ended up with Jordan catching William off-guard - stick around until the end for that part. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiveleftmylubeontheside/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZYix72k_4jFXwqWINAXF0x5Swnh-YnPzP94bcGypBoI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105247808",
+      "itunes_duration": "43:51",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "lube"
+      ]
+    },
+    {
+      "key": "89233bd884766201078af6860fa734b127a3e2f1",
+      "title": "Weekend Release: Jordan's Safe Word",
+      "published_at": "2021-02-19T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We start this Weekend Release hearing the word - or words - that William and Jordan would use as a safe word in any kinky sexual experiences that never happened, should have been cut and are completely made up. With a letter about pets eating condoms and some correspondence from Jordan's former tutor, it's a bonus episode for the ages. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordanssafeword/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=N8OTZndlfUvmEoHLlCRuxS2u9N1JOVqZ92vYfaPTdhs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32831168",
+      "itunes_duration": "13:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "safe",
+        "word"
+      ]
+    },
+    {
+      "key": "ff5d4df980a8b13592aa7e1f3be69bffe7e2159f",
+      "title": "Help I'm In A Man",
+      "published_at": "2021-02-16T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As if doing another podcast with another man wasn't bad enough, William is now in a man. Or was it Oman? If bad Builder Mikey impressions, a near falling out between the presenters and a window cleaner who gets an eye full of sex toy sounds like you're kind of thing, then you're probably going to want to press play on this podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiminaman/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=A2UO5CjyQnuUDfhi4IBa54nhkLtLv01H8obVirBoulE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96286208",
+      "itunes_duration": "40:07",
+      "speakers": [
+        "Builder Mikey",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3ea8d051b35621b09d80a0782c1c30cd3f43e114",
+      "title": "Weekend Release: William's Bit On The Side",
+      "published_at": "2021-02-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are joined by Jonathan Vernon-Smith AKA William's Bit On The Side to talk about his podcast with our very own William. The other podcast is called Keeping Up Appearances: The Luxury Podcast… and you don't need a physics degree to work out that it's a podcast about the hit BBC sitcom, Keeping Up Appearances. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsbitontheside/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FCYaYYs7CNrNvETC8vri8zgXWWB0FCw9z-gLclUWTZs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42838208",
+      "itunes_duration": "17:50",
+      "speakers": [
+        "Jonathan Vernon-Smith",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william"
+      ]
+    },
+    {
+      "key": "f518378eba8ddd89c14097e9a56b63a8d88841af",
+      "title": "Help I'm A Boss Who's Been Sexted",
+      "published_at": "2021-02-09T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Fresh-faced from a logo update that features their fresh faces, William and Jordan are ready to tackle your problems more narcissisticly than ever before. There's an update (of sorts) on Jordan's housemate Joe and his job interview, William confesses to seeing someone else and a G&Diva has a problem with a sexting situation. Who ever knew there so much sexting? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimabosswhosbeensexted/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4C8B7oBuJ_jQC60_u_XJdZN9SNO1mPPoulC-Al5_OTY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77310388",
+      "itunes_duration": "32:12",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boss"
+      ]
+    },
+    {
+      "key": "44cd92c10cbff8171ca1e1fc31897eda2ab98878",
+      "title": "Weekend Release: William's Diary",
+      "published_at": "2021-02-05T06:56:35+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It was Jordan's turn to read out his 'diary' last week, and we all know anything Jordan can do William can do better… so here's William's version Also, there's an update from runner Paula and the 'randomer' who was sent Jordan's tax return. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsdiary-acast3236165c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VF3_cFmefoaRDh9-x-MlLpjlB80WJOI7QyzO4D5xCbo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40908608",
+      "itunes_duration": "17:02",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "diary"
+      ]
+    },
+    {
+      "key": "6ce30d9d33f923845dc2131cb5fef0b177ead043",
+      "title": "Help I Fancy My Twin Brother's Boyfriend",
+      "published_at": "2021-02-02T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We should all know by now that episodes of Help I Sexted My Boss can be chaotic. Well if you like the chaos, this episode is for you. Problems with Jordan's recording equipment (again), an interruption of Jordan's flatmate's job interview and a letter that may go down in this podcast's history. It's good to be back. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpifancymytwinbrothersboyfriend/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kDqfeuIdO3rJ--1ArFj1Htxp9TC-qKliuiB2RQAUdYg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84358208",
+      "itunes_duration": "35:08",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "twin",
+        "brother",
+        "boyfriend"
+      ]
+    },
+    {
+      "key": "d0b76f54b7a0336331a2f3761259c630d95c3ce8",
+      "title": "Weekend Release: Jordan's Diary",
+      "published_at": "2021-01-29T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this special episode, William and Jordan take a deep dive into Jordan's post I'm A Celebrity diary… expect lots of top gossip*. They also get another chat up line from a G&Diva and more details from a juicy problem in a recent episode. (*There is no top gossip.) If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordansdiary/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=a0lU1vfWXowTnFbtRduYsD_MJXs20VT__jLhf7renFc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40840948",
+      "itunes_duration": "17:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "diary"
+      ]
+    },
+    {
+      "key": "81492659dd2d2631d2955f257032ee1e9a838788",
+      "title": "Help There's A Jumping Jet Behind Me",
+      "published_at": "2021-01-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "There was a time when Jordan being on page 3 of The Sun would have been expected, but for Our Jordan to be there along with some quotes from this very podcast… well that surprised us. Luckily for you, William is here to pull Jordan up for his prominence in the newspaper, question Jordan's chopstick etiquette and regale a tale of going commando at the gym. That's before you get to the discussion on the growing #LetBenSpeak campaign, four listener problems and a surprising revelation right at the very end. It's a good'un. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helptheresajumpingjetbehindme/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Zt7F2q1lQoQ3cxC7HSWuABacUYfeLRLBKECB3-0Tpz0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99982208",
+      "itunes_duration": "41:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jumping"
+      ]
+    },
+    {
+      "key": "48f1838946ea4cce9191cf68547ca5dd67a9bc88",
+      "title": "Weekend Release: William's Big Release",
+      "published_at": "2021-01-22T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Anything can happen if you let it: proved in this bonus episode when Jordan slid into Mary Poppins’s DMs just to bring a smile to William’s face. Pour yourself a G and D (or rum punch, if there’s no D to hand) and hear our chat with the Olivier award nominee Zizi Strallen, who plays Mary Poppins on stage in Disney and Cameron Mackintosh’s West End production. Spit spot! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsbigrelease/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=13bF650F8Fk2TytNINZp4K42z-UQIQW0OtAcuffecUA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47763968",
+      "itunes_duration": "19:54",
+      "speakers": [
+        "Mary Poppins",
+        "Zizi Strallen",
+        "Cameron Mackintosh",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william"
+      ]
+    },
+    {
+      "key": "13f2fceccf2468165f0e9808635de228effeab95",
+      "title": "Help I Accidentally Sexted My Mother-In-Law",
+      "published_at": "2021-01-19T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan (and Producer Ben) are back to help you with your modern day dilemmas. From Covid shaming to mother-in-law nude sending, the boys are covering all bases in this episode of the podcast. Jordan discovers what William has been sharing with the newspapers during his time in the castle, there's a back passage update from William and Producer Ben has provided a 'dossier' of evidence for why he should be allowed to speak. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiaccidentallysextedmymother-in-law/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eTQ_mQt_cO-UJpws17r-5YaczRvfB4oQOJMQOZs8_nc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89204678",
+      "itunes_duration": "37:09",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "mother"
+      ]
+    },
+    {
+      "key": "3981eccff51c52bc4c6a2eaf2e76178a72fdba5f",
+      "title": "Weekend Release: Doggy Style",
+      "published_at": "2021-01-15T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "They still won't let him speak, but that doesn't stop Producer Ben from being the talk of the town. After William and Jordan chat about Diego the whippet, they move onto some queries from a new listener and a bossy tea bag. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-doggystyle/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=26nZMMprGUR3FaJDLd7fCZmYpr2tU5Pf4jnSzZsXzHI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27997568",
+      "itunes_duration": "11:39",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "style"
+      ]
+    },
+    {
+      "key": "812ee7fb0409c450b9ff6fd8cd666ec664706c86",
+      "title": "Help We've Killed Manilow",
+      "published_at": "2021-01-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Series 7 is finally upon us and William and Jordan get to answering the most important questions right away. Is Barry Manilow dead? Has Joe Wicks taught William how to hang a picture frame? Will Producer Ben be allowed to speak again? Actually, it was just Producer Ben who was asking that. They also have time to get to your problems and dilemmas and there's a return for Jordan's Joke of the Week. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwevekilledmanilow/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pcvw0SxLljghcuFa4aC0-BjSUJDACKjZrpUPGTwI5qY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96642368",
+      "itunes_duration": "40:16",
+      "speakers": [
+        "Barry Manilow",
+        "Joe Wicks",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "manilow"
+      ]
+    },
+    {
+      "key": "a45b160f80ce8b36fc102ee05b2ee94e8673c114",
+      "title": "2020 Fistmas Special",
+      "published_at": "2020-12-25T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "We can’t be together in person like last year's Fistmas, but we can still use our festive spirit to warm each other’s cockles with the 2020 Fistmas Special. William and Jordan chat about their Christmas traditions before unloading their festive sack of all its goodies. Perfect for that moment on Christmas Day when everyone usually falls asleep. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/2020fistmasspecial/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=u4TByvoPeJssCQV6BPEj9D-Oeyy0Fi9k_YxUNe2_7Vk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38402816",
+      "itunes_duration": "40:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fistmas",
+        "special"
+      ]
+    },
+    {
+      "key": "6eb21150e10dacc8be0f88744f48140631267d4f",
+      "title": "I'm A Celeb: The Reunion",
+      "published_at": "2020-12-22T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Our King of the Castle rejoins our Queen of the Podcast (and Producer Ben) to unpack some of the key moments from his time on I'm A Celebrity Get Me Out Of Here. That sick on the side of a cliff, those bushtucker trials and the phantom dribbler… and a few bits in between. This is the episode you've all been waiting for (for a couple of weeks longer than we expected… blame Producer Ben). If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb--acast38e26526/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gGVere7hkGJ3HbgCi_-uWH8Tkz0PPjmzvG-JaqBxSU0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46909678",
+      "itunes_duration": "48:51",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "reunion"
+      ]
+    },
+    {
+      "key": "fff88fd90b4a7f1a8be595a94dfd3e166bca1ab8",
+      "title": "I'm A Celeb: Jordan North Is The King Of Our Castle",
+      "published_at": "2020-12-05T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the twentieth day of Jordan’s time in the I’m A Celeb castle and Jordan might not be King in Wales but he is the King of our Castle! We are so proud of what he has achieved in the castle, and this podcast is dedicated to everything he has done in those four walls. We love Jordan. We love you. #GetBehindJordan until the end. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-jordannorthisthekingofourcastle/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qrA94CAKzCo-v9RqixY649Q_v6r_eHkfiFdtN-tdmRI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14498087",
+      "itunes_duration": "15:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "jordan",
+        "north",
+        "king",
+        "castle"
+      ]
+    },
+    {
+      "key": "1d7954887210a663684247acc6c26f9f114fd370",
+      "title": "I'm A Celeb: Elves, Celebrity Cyclone and Jordan’s Best Bits",
+      "published_at": "2020-12-04T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the nineteenth day of Jordan’s time in the I’m A Celeb castle and Jordan IS IN THE FINAL OF I’M A CELEBRITY GET ME OUT OF HERE! He gets through the Celebrity Cyclone, he dresses up as an elf, but the most important thing is he’s made it to the final three!!! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-elves-celebritycycloneandjordan-sbestbits/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fTC0kopYl_GjOgLSEBuCjQFPn5a8ZivfwfJ7vZSeF3s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29206400",
+      "itunes_duration": "30:25",
+      "speakers": [
+        "Celebrity Cyclone",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "celebrity",
+        "cyclone",
+        "jordan",
+        "best"
+      ]
+    },
+    {
+      "key": "197738a59ecdb14eee4e37e747f1fd3a420d4fa7",
+      "title": "I'm A Celeb: 120 Elephants, Kinder Bueno and Sam Thompson",
+      "published_at": "2020-12-03T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the eighteenth day of Jordan’s time in the I’m A Celeb castle and Jordan has got his hands on some Kinder Bueno. There’s time for him to play hide and seek, ask the other campmates ‘Would You Rather?’ and he confirms that he’s never had crabs. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-120elephants-kinderbuenoandsamthompson/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DpKZAyu3NtYMHY2fCLb8yvvJbmvMWCnb9s1to_atTvM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30856064",
+      "itunes_duration": "32:08",
+      "speakers": [
+        "Kinder Bueno",
+        "Sam Thompson",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "elephant",
+        "kinder",
+        "bueno",
+        "thompson"
+      ]
+    },
+    {
+      "key": "8d1450182f1a762dde91532c2f87ecbd8ffe11b2",
+      "title": "I'm A Celeb: Castle Inn, I Will Survive and Jay Rodriguez",
+      "published_at": "2020-12-02T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the seventeenth day of Jordan’s time in the I’m A Celeb castle and Jordan has got a six pack! Which he promptly loses after a camp visit to the pub. After Bev’s departure, there wasn’t much that could have cheered Our Jordan up. Luckily there was a pint of Guinness on hand. Remember, from now until the end, we all need to #GetBehindJordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-castleinn-iwillsurviveandjayrodriguez/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KH2_D-zOY40I6d2gvG5GpHyEly927JOJXvmTfe_25fc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32737664",
+      "itunes_duration": "34:06",
+      "speakers": [
+        "Castle Inn",
+        "Will Survive",
+        "Jay Rodriguez",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "castle",
+        "rodriguez"
+      ]
+    },
+    {
+      "key": "b0dda02127410337380b81d3e6e4a720cf11ae48",
+      "title": "I'm A Celeb: Phantom Dribbler, Bye Bev and Scarlett Moffatt",
+      "published_at": "2020-12-01T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the sixteenth day of Jordan’s time in the I’m A Celeb castle and accusations are flying around the castle about the identity of The Phantom Dribbler. The tide has turned on chief accuser Shane, but Jordan can never be too careful with making sure the other campmates don’t question the sprinkle from his tinkle. Remember, from now until the end, let's #GetBehindJordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-phantomdribbler-byebevandscarlettmoffatt/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3JOoOUpqYPUjcgDYwwUdCc859Z6AJVwiR1lcSxpMgYI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38223872",
+      "itunes_duration": "39:48",
+      "speakers": [
+        "Phantom Dribbler",
+        "Bye Bev",
+        "Scarlett Moffatt",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "phantom",
+        "dribbler",
+        "scarlett",
+        "moffatt"
+      ]
+    },
+    {
+      "key": "e64aeec4a6df61a3570939d46b991adb73332844",
+      "title": "I'm A Celeb: Spit, Mutton and Joe Tasker",
+      "published_at": "2020-11-30T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the fifteenth day of Jordan’s time in the I’m A Celeb castle and Sprinkle/Tinkle Gate is still WIDE open. Jordan’s happy with his mutton (despite it not being dressed as lamb, but he’s not quite as happy with his octopus (which he chooses to spit). He’s also one of the unlucky few to miss out on a treat from his family. A mixed day. Remember, from now until the end, let's #GetBehindJordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-spit-muttonandjoetasker/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BBLaM3nM1fTjh-Qi0EEokxt5j276lxqTTfGWU8sCKGQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34346624",
+      "itunes_duration": "35:46",
+      "speakers": [
+        "Joe Tasker",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "spit",
+        "mutton",
+        "tasker"
+      ]
+    },
+    {
+      "key": "ff37123c4dce8adc197d12083f60012cb9c5eebb",
+      "title": "I'm A Celeb: Week 2, Your Questions and Christopher Biggins",
+      "published_at": "2020-11-29T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the fourteenth day of Jordan’s time in the I’m A Celeb castle and it’s time for William and Producer Ben to reflect on Jordan’s second week in the castle. They consider how much Jordan has changed, which celebrity from the show they’ll have as a guest and they enjoy a great old time with Christopher Biggins. Remember, from now until the end, let's #GetBehindJordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb--acast140c2aa8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qq-N6mlv1qZ9N0_E8wcW0F_q2sCV0haMntAXyegQH5M",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28204160",
+      "itunes_duration": "29:22",
+      "speakers": [
+        "Christopher Biggins",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "week",
+        "questions",
+        "christopher",
+        "biggins"
+      ]
+    },
+    {
+      "key": "2f39f6c23fa8aaf7c10063c405ac1c8dc05f0f56",
+      "title": "I'm A Celeb: Privy Problems, Nessun Dorma and Matt Edmondson",
+      "published_at": "2020-11-28T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the thirteenth day of Jordan’s time in the I’m A Celeb castle and it’s time for the first celebrity to head home. AJ blames Jordan for some tinkle problems, Russell teaches the campmates how to sing and there’s an emotional farewell as they share their last meal as a 12. This just got real. From now until the end, join us and #GetBehindJordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-privyproblems-nessundormaandmattedmondson/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=5Ub6050q9T0zngqhtmiM_BK1IzjHLDXydZBVzVEkXWw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27975296",
+      "itunes_duration": "29:08",
+      "speakers": [
+        "Nessun Dorma",
+        "Matt Edmondson",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "privy",
+        "problems",
+        "nessun",
+        "dorma",
+        "matt",
+        "edmondson"
+      ]
+    },
+    {
+      "key": "442ac0d39b083e05d2fac29abe9f6ecab7291a69",
+      "title": "I'm A Celeb: Policeman, Halsey and Woody and Kleiny",
+      "published_at": "2020-11-27T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the twelfth day of Jordan’s time in the I’m A Celeb castle and it’s come to the time when we need to start voting for Jordan to keep him in the castle.Nonsense nonsense nonsense Mo Farah policeman and we also chat about the time when Jordan got Halsey and Yungblud in a muddle. You better listen close or you might misunderstand what we’re saying in this one. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-policeman-halseyandwoodyandkleiny/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Mpt455Cnu9X6QKBFbqQjdeQMMZxmNXYrltBYRnCZOyU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34617344",
+      "itunes_duration": "36:03",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "policeman",
+        "halsey",
+        "woody",
+        "kleiny"
+      ]
+    },
+    {
+      "key": "642c001a9cb58323731ff973c13dd4cc02c96ce0",
+      "title": "I'm A Celeb: Bye Bye Beard, Megashag and Special Guest",
+      "published_at": "2020-11-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the eleventh day of Jordan’s time in the I’m A Celeb castle and Jordan North’s face is now as bare as his chest. But this episode isn’t about Jordan’s face, chest or leadership. It’s about the special guest. A guest so big, you’ll have to listen to find out who it is. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-byebyebeard-megashagandspecialguest/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FZnFrE15jpWwfGEusIoXV5UWbGQZGNMMxJlazV6bmko",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25311104",
+      "itunes_duration": "26:21",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "celeb",
+        "beard",
+        "megashag",
+        "special",
+        "guest"
+      ]
+    },
+    {
+      "key": "1aaf21d56ed5a3b5b35ab7a49abdb4b36b651d09",
+      "title": "I'm A Celeb: All That Jazz, Showering Shane and Pendleside Hospice",
+      "published_at": "2020-11-25T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the tenth day of Jordan’s time in the I’m A Celeb castle and Jordan North has once again lifted the mood of the nation. Last night we witnessed Jordan flossing(?) with his Burnley scarf, he learnt to dance to Chicago’s All That Jazz and that was all before he let Shane Ritchie fiddle with his nipples. I don’t think we’re getting a quiet night for Jordan North in this entire series, are we? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-allthatjazz-showeringshaneandpendlesidehospice/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DW1hsA_PmYH_iVMber1OxRxFVBSI84AcSsHGnY4ZlYk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26562560",
+      "itunes_duration": "27:40",
+      "speakers": [
+        "Jordan North",
+        "Shane Ritchie",
+        "William Hanson"
+      ],
+      "topics": [
+        "celeb",
+        "jazz",
+        "showering",
+        "shane",
+        "pendleside",
+        "hospice"
+      ]
+    },
+    {
+      "key": "40bf82b68aa663eb1121ec7f56c10b9a7cb250ad",
+      "title": "I'm A Celeb: Bev’s Book, Donna the Duck and Riyadh Khalaf",
+      "published_at": "2020-11-24T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the ninth day of Jordan’s time in the I’m A Celeb castle and things are starting to get a bit tense. Although the cracks are starting to appear under Jordan’s laidback leadership, there’s still time for him to herd some ducks, win the castle coin challenge and looking forward to being ‘sat’ reading Beverley’s book. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-bev-sbook-donnatheduckandriyadhkhalaf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZIqGUF-3CkzNRf1oNcEsSycwzpYbzY6qTZKMEan5ATE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38242304",
+      "itunes_duration": "39:50",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "book",
+        "donna",
+        "duck",
+        "riyadh",
+        "khalaf"
+      ]
+    },
+    {
+      "key": "6954fc005fa696b19b37ed9dca6055e008b16ac2",
+      "title": "I'm A Celeb: Royal Banquet, Camp Leader and Owain Wyn-Evans",
+      "published_at": "2020-11-23T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the eighth day of Jordan’s time in the I’m A Celeb castle and Jordan has won himself another vote. The consequences of this latest vote are much less stressful than any vault or tunnel for most of us, but for Jordan it’s probably the stressiest of them all. Making decisions as Camp Leader was his hardest challenge last night. Spooning gravy down his gullet was the easiest. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-royalbanquet-campleaderandowainwyn-evans/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XG3unwlLgLSeKwZE8MFbQOyTCC1-zDC2Eaxmeb6PfG0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35821952",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "royal",
+        "banquet",
+        "camp",
+        "leader",
+        "owain",
+        "evans"
+      ]
+    },
+    {
+      "key": "8ef791e67651b765bc982db082c04455f15457b0",
+      "title": "I'm A Celeb: Week 1, Luxury Items and Bev's Daughter Danielle",
+      "published_at": "2020-11-22T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the end of the first week of Jordan's time in the castle and WHAT A WEEK IT'S BEEN. William and Producer Ben mull over the highlights of the past 7 days, they answer some of your problems and get chatting to Bev's daughter Danielle about the budding friendship between Jordan and her Mum. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6MD4sFsZ92Nc2i6tOgeqZ11g13S7TY7mqJDMVc0zVaw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19500536",
+      "itunes_duration": "20:18",
+      "speakers": [
+        "Luxury Items",
+        "Daughter Danielle",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "week",
+        "luxury",
+        "items",
+        "daughter",
+        "danielle"
+      ]
+    },
+    {
+      "key": "558b4719927921d0bc9ef03490eb1e76164c787f",
+      "title": "I'm A Celeb: Royal Confessions, Terror Troughs and Tony Blackburn",
+      "published_at": "2020-11-21T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the sixth day of Jordan’s time in the I’m A Celeb castle and it was supposed to be Jordan’s first night off any involvement in a trial. We still managed to fit in a tiny bit of Jordan in a trial. Other things that haven’t changed are Jordan still wearing his Burnley scarf, getting confused by the meaning of words and being an all round great guy as he pumped a shower for Mo Farah when no one else would. Keep it up, Our Jordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-royalconfessions-terrortroughsandtonyblackburn/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Vy6EBH3S8X-0HHbSxk4OmqdxLxulnPuvf9BfS7lKbe0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29925248",
+      "itunes_duration": "31:10",
+      "speakers": [
+        "Tony Blackburn",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "royal",
+        "confessions",
+        "terror",
+        "troughs",
+        "tony",
+        "blackburn"
+      ]
+    },
+    {
+      "key": "b9b2817cf0aa5ada6d54c7beb4fe985764c06508",
+      "title": "I'm A Celeb: Bare Foot Massage, Trapped Door and Nick Grimshaw",
+      "published_at": "2020-11-20T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the fifth day of Jordan’s time in the I’m A Celeb castle and we’re just about getting used to our best mate being one of the most talked about telly personalities in the UK. Jordan was given his luxury item via a Ruthie bare foot massage, he got 12 stars in last night’s trial with barely a whimper and finally… FINALLY, he can have an early night! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-barefootmassage-trappeddoorandnickgrimshaw-acast47d6bc1b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=E_UScC-CvEzj-74xjdedgGGYZN1Bjaq0lVjeGc-SJU8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23433728",
+      "itunes_duration": "24:24",
+      "speakers": [
+        "Bare Foot Massage",
+        "Nick Grimshaw",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "bare",
+        "foot",
+        "massage",
+        "door",
+        "nick",
+        "grimshaw"
+      ]
+    },
+    {
+      "key": "5dec2b100e2703618d678c409d18edd083bccea0",
+      "title": "I'm A Celeb: Bread and Butter, Nessa’s Tattoo and Jake Quickenden",
+      "published_at": "2020-11-19T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the fourth day of Jordan’s time in the I’m A Celeb castle and after being worried sick for the first 15 minutes with no Jordan on our screens, we ended up having a whale of a time. Jordan was treated to some Michelin star level bread and butter, he had some sage advice for Ruthie and Russell as they took on their first trial and he thought the ‘ghost’ was around the corner when Shane decided to prank him in the privy. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-breadandbutter-nessa-stattooandjakequickenden/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7cOjNGdubWpYyKVSZGraz5IqhgCwJoeRa8FfcdM3o6s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32736896",
+      "itunes_duration": "34:06",
+      "speakers": [
+        "Nessa’s Tattoo",
+        "Jake Quickenden",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "bread",
+        "butter",
+        "nessa",
+        "jake",
+        "quickenden"
+      ]
+    },
+    {
+      "key": "190a7a4f821d475c0443f662be3a7e47031e28d7",
+      "title": "I'm A Celeb: Frights Of The Round Table, Three Day Underwear and Katie Thistleton",
+      "published_at": "2020-11-18T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the third day of Jordan’s time in the I’m A Celeb castle… and PLEASE CAN WE JUST HAVE A QUIET DAY OF JORDAN NORTH IN THE CASTLE. We learnt he weed the bed when he was 15, that he hasn’t yet changed out of his boxers and we had the first eating trial - with lots of gipping. William named this the disgusting episode of I’m A Celeb, and to be honest I’d probably agree with him. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/imaceleb-frightsoftheroundtable-threedayunderwearandkatiethistleton/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CGE5N1RRUbpOvU_9ojxLix_JWcFbt7PDiFuiwgSr3m4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26259200",
+      "itunes_duration": "27:21",
+      "speakers": [
+        "Katie Thistleton",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "fright",
+        "round",
+        "table",
+        "underwear",
+        "katie",
+        "thistleton"
+      ]
+    },
+    {
+      "key": "ecd2a3ff4219d94f06a9630d32ea9283c27b3d6b",
+      "title": "I'm A Celeb: Happy Place, Happy Place, Turf Moor, Happy Place and Kerry Katona",
+      "published_at": "2020-11-17T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It’s the second day of Jordan’s time in the I’m A Celeb castle… and to be honest we don’t have much to update you on. ONLY KIDDING. There’s Jordan showering Vernon Kay, Jordan telling Mo that he missed Super Saturday, and Jordan telling Bev that Wendy had her exercise video. Oh… and the Viper Vault. AND he’s on tonight’s trial too. Just another quiet night of ITV primetime telly to get through. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/-getbehindjordan-happyplace-happyplace-turfmoor-happyplaceandkerrykatona/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2f3RTdLOpgoRWG0AxDx9sgcfemj19CQFMr-RpfLtgSY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33126656",
+      "itunes_duration": "34:30",
+      "speakers": [
+        "Turf Moor",
+        "Kerry Katona",
+        "Vernon Kay",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "happy",
+        "place",
+        "turf",
+        "moor",
+        "kerry",
+        "katona"
+      ]
+    },
+    {
+      "key": "a34ecb9bc978083231e6c9fb198a530be4811528",
+      "title": "I'm A Celeb: Vomit, Bev's Pockets and Jordan's Mum",
+      "published_at": "2020-11-16T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's the day after the first episode and William's joined by Producer Ben and Jordan's Mum to talk about life in the I'm A Celebrity castle. As we expected, Jordan becomes centre of attention almost immediately as he throws up before it even gets going. Once he's talked down from the cliff edge by Sir Mo Farah it's quickly onto the castle, where Jordan's surprised it's a castle and finally Jordan is voted for tonight's bushtucker trial - Viper Vault. That sounds right up his street. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/getbehindjordan-vomit-bevspocketsandjordansmum/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RRCE4WBHs6gt1_anDskY8V9dkuTuZLRtmGbkfKKHstM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31233536",
+      "itunes_duration": "32:32",
+      "speakers": [
+        "Producer Ben",
+        "Mo Farah",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "celeb",
+        "vomit",
+        "pockets",
+        "jordan"
+      ]
+    },
+    {
+      "key": "dd221fb15b7bca79f39f7571b19ce718a7b344de",
+      "title": "Help I Sexted My Boss Does I'm A Celebrity",
+      "published_at": "2020-11-10T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William reveals our plans for Help I Sexted My Boss during Jordan's stint in the castle. Plus, he introduces a very very very special guest. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpisextedmybossdoesimacelebrity/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=s8-OCrVRCM9of3z9STUe5AD8_bp5SgNGl8NutuOdyQE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34594688",
+      "itunes_duration": "14:24",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boss",
+        "celebrity"
+      ]
+    },
+    {
+      "key": "7616d69054ea807f62de93bf339cfb833cd99c9c",
+      "title": "Help My Co-Host's Going Into The Castle",
+      "published_at": "2020-11-09T09:14:58+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan North has some news to share and we think you're going to want to hear it. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyco-hostsgoingintothecastle/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MlURUQcJzcLlWIygadMg-WtNIaoRKYWDyF4eTkz3nEI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26078528",
+      "itunes_duration": "10:51",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "host",
+        "castle"
+      ]
+    },
+    {
+      "key": "97ac4855e88ce62e2b6a299d663c015ce32381c7",
+      "title": "Help It's The Best Of Series 5 - Part Two",
+      "published_at": "2020-10-30T04:00:57+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan take you through a second episode of Best Bits from Series 5 - including a powerful letter from Charlotte, a reading from William's will and a guest appearance from Jordan's Mum. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries5-parttwo/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=V6qm6LR-O7d-5xz0M914B2qskGYuz4FSRblrQQDBUN4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84429248",
+      "itunes_duration": "35:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "47367895cbb8e32284c005c44fc443d6da02ad68",
+      "title": "Help It's The Best of Series 5 - Part One",
+      "published_at": "2020-10-27T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan take you through the Best Bits of Series 5 - including Jordan's kinks, William's back passage delivery and we find out the uses for numbing lube. The second episode of Best Bits from Series 5 will be out on Friday. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries5-partone/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=t5ouxYjYgSmJ1hIyFi1yxaMylvIdS_ijJUmjAyNSBLA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78393728",
+      "itunes_duration": "32:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "best",
+        "series"
+      ]
+    },
+    {
+      "key": "2799f3138e70dabe5539b5b69452788481d1c54a",
+      "title": "Replay: Help We've Landed In Monaco",
+      "published_at": "2020-10-16T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For our final replay, it was Jordan's turn to decide on the episode we put out on the feed, and he opted to relive the lavish luxury of Monaco. Would Jordan's adventure into how the other half lived be filled with disaster at almost every corner? We thought it probably would, that's why we did it. But you'll have to listen to find out. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/replay-helpwevelandedinmonaco/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Z9BZGzg8WuNLj_Chd91iun8ruiK35CkbTmWkVzEvr-g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35192137",
+      "itunes_duration": "41:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "replay",
+        "monaco"
+      ]
+    },
+    {
+      "key": "84e585f72ae5b3ea44ea69175ed34d8d7d9777d1",
+      "title": "Replay: Help I'm Marrying An American",
+      "published_at": "2020-10-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After the success of last week's REPLAY, this time it's William's turn to choose his favourite episode of the podcast. William obviously thinks it's all been downhill since the start because he's chosen the Royal Wedding Special from Series 1. To celebrate the always uneventful matrimony between Prince Harry and Meghan, William invites Jordan around for a luxury meal in his luxury flat. You might remember Jordan getting mixed up with his Princesses, his words and his manners - he gets mixed up a lot, but never more than in the Royal Wedding 'Spesh. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/replay-helpimmarryinganamerican/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8lk2GAv6PYBXzU2zbHYEn9SlskovLsEysfamonTNV18",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28601525",
+      "itunes_duration": "34:02",
+      "speakers": [
+        "Prince Harry",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "replay",
+        "help",
+        "marrying"
+      ]
+    },
+    {
+      "key": "8d828186125d1b9e7b24cef9f4fa460d787ac29c",
+      "title": "Replay: Help There's A Gay Ghost In My Bed",
+      "published_at": "2020-10-02T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This is the episode that features the winning moment of the first ever Help I Sexted My Boss World Cup of Best Moments. It's a prestigious title, and there could only be one winner. With G&Divas voting in their droves on Twitter, the moment where Jordan describes his 'gay ghost' was crowned deserved champion. So, as prize for you and me, we've recorded a special new intro and we're re-releasing the episode for you to enjoy in all its gay glory once again. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/replay-helptheresagayghostinmybed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LtSf2oywRCNzTl3EuZD0-K1lr2jtLGSS88T54r3Ofjo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30281121",
+      "itunes_duration": "36:02",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "replay",
+        "ghost"
+      ]
+    },
+    {
+      "key": "f234a861e0407871e114c7d5bc47782c5f2325bb",
+      "title": "Help My Landlord Saw My Sex Toys",
+      "published_at": "2020-09-01T03:00:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For one last time in Series 5, William and Jordan are here to help you with your modern dilemmas. They reflect on what has changed since they started recording this series earlier this year, there's a surprise from Mikey and some exciting news about Producer Ben. Not to mention some classic dilemmas to round it all off. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmylandlordsawmysextoys/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=47quj3ekOFwIEMghFnT7jnytg650r3dGnIiCrhlppX0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34092032",
+      "itunes_duration": "35:30",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "landlord"
+      ]
+    },
+    {
+      "key": "eb82e5083d5c50a17b96ff3acab171fe3a582f95",
+      "title": "Weekend Release: Wilfred and Justin Come Again",
+      "published_at": "2020-08-28T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As Producer Ben returns from holiday, so do Wilfred and Justin. Ben spent some time (about half an hour) penning a third episode of the hit comedy drama sitcom and it's quite an insight into his sordid mind. Also, the boys share some news that you're not going to want to miss, but you might regret you ever heard. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-wilfredandjustincomeagain/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eSBxvDPjXGQ7gy02_oFvASz3vQWiFwPILeFYUsojXl8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16224128",
+      "itunes_duration": "16:53",
+      "speakers": [
+        "Justin Come Again",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "wilfred",
+        "justin"
+      ]
+    },
+    {
+      "key": "6ebfbb16ae90fa6e4d0354902b21a8fb8def8ea7",
+      "title": "Help I've Got A Nude Of My Dad",
+      "published_at": "2020-08-25T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Producer Ben is on holiday this week, and to be completely honest you wouldn't be able to tell if was there or not - if you were to ignore the fact William and Jordan bring it up three or four times throughout the episode. In terms of what they actually talk about, William and Jordan discuss their recent meeting in a posh private members club (no, Jordan hasn't changed one bit) and apparently William is getting catty in his old age. It's also the full debut for William's Wacky Word of the Week jingle - it'll be in your head all day. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegotanudeofmydad/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=QDPuz3h1O-Mt9I9uHs0hfBZSIUmJ5ITUjkvCP_h5-PI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33658496",
+      "itunes_duration": "35:03",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "nude"
+      ]
+    },
+    {
+      "key": "6841cd4faeac08d0dce815326528867f32c88dce",
+      "title": "Weekend Release: Horizontal Refreshment",
+      "published_at": "2020-08-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's time for another Weekend Release, brimming with extra bits from William and Jordan. And by extra bits, we mean a snazzy new jingle, more accent chat and talk of having sex with a pineapple. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-horizontalrefreshment/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=GZYuS43myU6osNb2w2FSLgiqhGwHsGI_cNgmDM5duok",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11491328",
+      "itunes_duration": "11:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "horizontal",
+        "refreshment"
+      ]
+    },
+    {
+      "key": "92bb7aded9296d2e35d697685f105504d1d762c2",
+      "title": "Help My Brother's Girlfriend Is A Cheat",
+      "published_at": "2020-08-18T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "From a Cost Per Shag conundrum to an erotic photo fail, William and Jordan help you navigate more modern day dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmybrothersgirlfriendisacheat/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=dt0ozjo1eNzy7ZGXE1zuUuaqQYGF_Z5Wi3gOkI5HBI0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34684544",
+      "itunes_duration": "36:07",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "brother",
+        "girlfriend",
+        "cheat"
+      ]
+    },
+    {
+      "key": "48a89ffaef4edff8da1c5c79ded406f0936c9df3",
+      "title": "Weekend Release: When Life Gives You Melons",
+      "published_at": "2020-08-14T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After the podcast received one of its most controversial questions to date, there is only one topic that we could start (and end) this Weekend Release with. Make sure you keep listening until the end to hear an update from Richard Pipkins. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-whenlifegivesyoumelons/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lI4LcS-aVcOpE_pUbYzvsnQE25PCPJBCPqfzCJhBDD4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "12870272",
+      "itunes_duration": "13:24",
+      "speakers": [
+        "Richard Pipkins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "life",
+        "melon"
+      ]
+    },
+    {
+      "key": "fc36cb8ec8d5123fdb467bf25c3ae0c2673dc634",
+      "title": "Help I'm Mates With A Melon Plucker",
+      "published_at": "2020-08-11T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This episode has quite possibly the most stunning problem we've ever had… and we've had a few. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimmateswithamotherplucker/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_NEFEbOS7iCdl9nSuxyAC1Wvoq0JBXbiyk_mNskozPY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37326848",
+      "itunes_duration": "38:52",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "mates",
+        "melon",
+        "plucker"
+      ]
+    },
+    {
+      "key": "9aefac9da06675434c90256bb86405e6bd7b1cac",
+      "title": "Weekend Release: William The Cover Star",
+      "published_at": "2020-08-07T03:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Most of us couldn't imagine William could get any more fabulous… until we found out he's a cover star. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamthecoverstar/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Igm-qzjVB8GvZeaLhvDfp3u1h_NjZHIu3EqtSJJq9rY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13619840",
+      "itunes_duration": "14:11",
+      "speakers": [
+        "Cover Star",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "cover",
+        "star"
+      ]
+    },
+    {
+      "key": "e249ff95d8b22182153f0378c0545838201ed6e9",
+      "title": "Help I've Got My Eye On My Optician",
+      "published_at": "2020-08-04T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William chats about the etiquette of wearing a facemask, Jordan reveals his 30th birthday present and the pair share the tale of their latest sexual contact. And that's before we even get to William's WACKY Word of the Week. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegotmyeyeonmyoptician/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=k8P8mErju5Ii_7vWI2u6-z6vQp0pXkqSaEDCIvIFvGU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33240320",
+      "itunes_duration": "34:37",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "optician"
+      ]
+    },
+    {
+      "key": "620e763ac0ffb9d7fd62af7ab7c1457ad27a4f4a",
+      "title": "Weekend Release: Ding-Dong Ditch",
+      "published_at": "2020-07-31T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan discuss the various names for knocking a door and running away before replanning their 2020 tour to include Barbados! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-ding-dongditch/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wFCEuDGGBuZt8nP4fmAGG6H2By-6tnht52n1VpuanXM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13374848",
+      "itunes_duration": "13:55",
+      "speakers": [
+        "Ding-Dong Ditch William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "ding",
+        "dong",
+        "ditch"
+      ]
+    },
+    {
+      "key": "e8c264e26c185b17cbdc172fd45b206b375cca3d",
+      "title": "Help I Want A Rhino On My Face",
+      "published_at": "2020-07-28T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William is joined by Jordan (and his mum) on his holiday in Spain. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiwantarhinoonmyface/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=socXjbZsKZ-z2gmB5XGaPNv5Qu3LqdYDlFnSogqFRZM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31838336",
+      "itunes_duration": "33:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "rhino",
+        "face"
+      ]
+    },
+    {
+      "key": "0cb6f76bc8aa2e2f828febb1bbe4d8529b0c4f2a",
+      "title": "Weekend Release: Jordan's Elocution Lesson",
+      "published_at": "2020-07-24T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the aftermath of William restarting elocution lessons after spending too much time with Jordan, the only acceptable outcome was to invite Jordan along for the ride for his own personalised lesson. As Jordan learns how to say 'ow' properly, maybe you'll be saying the same after listening to this episode. If you want to work on your voice like William and Jordan, please visit Gary’s website https://www.britishactingacademy.co.uk for more information. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordanselocutionlesson/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4K1CwtG_Y3HGPvELGxND7yrGi927ANPC53V_H90bVco",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10416128",
+      "itunes_duration": "10:50",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "elocution",
+        "lesson"
+      ]
+    },
+    {
+      "key": "43d7e784434fe452ef90a70d521819ec6c33f909",
+      "title": "Help I've Found A Ring In My Room",
+      "published_at": "2020-07-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "*FANFARE FOR NEW FEATURE* William's Wacky Word of the Week is back… I can't believe it ever went away. Elsewhere in the episode, Jordan updates us on the fun he used to get up to at his Aunty Cath's, William does his best effeminate Margaret Thatcher impression and Jordan has an update about a gay ghost. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivefoundaringinmyroom/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uGsR0RtH1EC1ouaHWWM0sZr68htNkMBorcB8dbIB_oo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25782656",
+      "itunes_duration": "26:51",
+      "speakers": [
+        "Margaret Thatcher",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ring",
+        "room"
+      ]
+    },
+    {
+      "key": "5eaa7784859527a07a8c0c2cf9e102717a35a406",
+      "title": "Weekend Release: Fortnum & Mason Afternoon Tea",
+      "published_at": "2020-07-17T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William invites Jordan to spend an afternoon stuffing his face with bread, butter and something sweet. Except it's a tiny bit classier than that. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-fortnum-masonafternoontea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZWzktWKj6OEFQblYFJdvTSXGLdHAalltl6UhdMKHCyA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18600320",
+      "itunes_duration": "19:22",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "fortnum",
+        "mason",
+        "afternoon"
+      ]
+    },
+    {
+      "key": "8d4685adf2c7f715137e0c550ff36119c6ae8100",
+      "title": "Help I Like It Thick Cut",
+      "published_at": "2020-07-14T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After the reading of William's will in the last episode we thought we had to bring excitement levels down again. So William shares news of his new pillow, Jordan shares his superstitions (there are a lot) and we struggle to come up with a joke of the week. We'll bring back the excitement next week. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpilikeitthickcut/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=dCBd_91fBnk1Y23Jf5ESCz1U6HnbPeQ5Vehc8PWPv5k",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36255104",
+      "itunes_duration": "37:45",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thick"
+      ]
+    },
+    {
+      "key": "c5099d53d2bab5b57493a64946ea6a0eaf97bddc",
+      "title": "Weekend Release: William's Perfect",
+      "published_at": "2020-07-10T05:40:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return with their Weekend Release. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-williamsperfect/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=fQaUXqJFWoUFzlb0_MQmjY80hIrb_CFvbDVter9yJa4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16289024",
+      "itunes_duration": "16:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "william",
+        "perfect"
+      ]
+    },
+    {
+      "key": "d9b1bc4ca916168590e9b7e427b10c406ddff78f",
+      "title": "Help I Need To Work On My Dipthongs",
+      "published_at": "2020-07-07T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "If we had a Jordan episode a few weeks ago, this is certainly a William one (make sure you're pronouncing the one correctly (you'll get this when you listen to the episode)). William opens up about some slipping standards and he lets Jordan read out the details of his will. Jordan shares a story about his zip being down. They might be best mates but they honestly couldn't be more different. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpineedtoworkonmydipthongs/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3AMA3yUxdyIgC7rA-TbLCu0e8OmohSIQX-9sLOBisgI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37497344",
+      "itunes_duration": "39:03",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dipthong"
+      ]
+    },
+    {
+      "key": "69f5519733417d4eb32470b488a14e2567940f8d",
+      "title": "Weekend Release: Our Jordan, My William",
+      "published_at": "2020-07-03T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return for another Weekend Release. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-ourjordan-mywilliam/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=a8jCt08k2Vo-uge8E3wCHvQLyzvfLjV68LDILR8v6S4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14031872",
+      "itunes_duration": "14:36",
+      "speakers": [
+        "My William William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "william"
+      ]
+    },
+    {
+      "key": "df06db0a885c540bc070e5b5e2dba45b4086ad8f",
+      "title": "Help My Folks Aren't Woke",
+      "published_at": "2020-06-30T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After a week off filled with rest and recuperation, William is back at his best in this episode of the podcast. He educates Jordan about chantilly cream, educates himself on if a traybake yorkshire pudding is common and there's an important announcement that he's in charge of. You will not want to miss out on this one… unless you're in the UK and you don't want to get jealous. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyfolksarentwoke/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=J0eNeJQUFVQ3V3KJkNHoDuGXfpirPGe5MYwd_aFlmsk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31950848",
+      "itunes_duration": "33:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "folk",
+        "woke"
+      ]
+    },
+    {
+      "key": "870eb8e4d2a50c8eef48b2324e65bfaf08e73950",
+      "title": "Weekend Release: Battenberg In The Park",
+      "published_at": "2020-06-26T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With social distancing rules relaxed, after 12 weeks apart William and Jordan were finally able to be within two metres of each other - which is close enough for William. They discuss how they've all got a tiny bit chubbier, they chat about the etiquette of being topless in the park and William shares news about some new fans in the Cabinet Office. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-battenberginthepark/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6anhWcLbqhsRpzNXJUCNM7t5tffGnM5TusLbLO874V8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15910784",
+      "itunes_duration": "16:34",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "battenberg",
+        "park"
+      ]
+    },
+    {
+      "key": "cd9b792f750568bb1e1416e41c98b1d27461d050",
+      "title": "Help I Can't Get A Word In Edgeways",
+      "published_at": "2020-06-23T07:30:49+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This podcast is hosted by Jordan North and features guest star William Hanson. In this episode you can hear Jordan sharing a story about him wetting the bed, how many unread messages Jordan has on his WhatsApp, a message from Producer Ben's girlfriend into Jordan's radio show and Jordan's first proper pint of lockdown. If you want to hear about William's life… you'll probably get more excited about next week's episode. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpicantgetawordinedgeways/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=n1VOGHF_5thhsdH0YfPZ05J12M-7MUb5oOHNZKi7qEI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32567936",
+      "itunes_duration": "33:55",
+      "speakers": [
+        "Jordan North",
+        "William Hanson",
+        "Producer Ben"
+      ],
+      "topics": [
+        "word",
+        "edgeway"
+      ]
+    },
+    {
+      "key": "f7ef86fce5470dbc4222733069dabd9ffaab96d4",
+      "title": "Weekend Release: Jordan's In My Dreams",
+      "published_at": "2020-06-19T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the first episode of the new bonus podcast from William and Jordan, we dissect one G&Divas dream featuring our very own Mr North. And William takes great pleasure in informing us that Jordan has once again been nonsensical. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/weekendrelease-jordansinmydreams/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XatELwL0uhlia2NLFEgZlhVdfIvNA2h04IzCv-SGTa4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13478144",
+      "itunes_duration": "14:02",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "weekend",
+        "release",
+        "jordan",
+        "dream"
+      ]
+    },
+    {
+      "key": "0fb84f84506074662ddf1000a2fb249ad07f147e",
+      "title": "Help I've Got Wood In A Van",
+      "published_at": "2020-06-16T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are living in their own bubble this week as William attempts to tempt Jordan to come over to his as part of his bubble. William has the builders in to build his new wardrobe, Jordan learns what the lady doth protest means and we discover the date of the first ever 'picky tea'. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivegotwoodinavan/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=TSRSc3U3CSbY3tglKQT4I18JVpEPHAkd2ujQud5O0rc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38650880",
+      "itunes_duration": "40:15",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "key": "85044dc91175fef7ab06f45f6e704d7a9c78d767",
+      "title": "Help I'm In Love With My Best Friend",
+      "published_at": "2020-06-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Last week it was OK magazine, this week it's the Archbishop of Banterbury Instagram account. Jordan's made his mum proud these last few weeks. William and Jordan chat about Jordan's viral tweet and about the school projects they did (or got their handyman to do). They help with a filthy neighbour, what to do if you've pooed on a driveway and how to tell a tea cup from a mug. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiminlovewithmybestfriend/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=g4HEMV2LNObV4gPKaMKTyORDE7DpbItjCFywJynycM0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40770944",
+      "itunes_duration": "42:28",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "love",
+        "best",
+        "friend"
+      ]
+    },
+    {
+      "key": "03b97e24b4726eb1d492424f57bbead57138d50a",
+      "title": "Help I'm Using William's Dongle",
+      "published_at": "2020-06-02T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ok, there's something we need to talk about. Jordan was interviewed in Ok magazine, and it might IT MIGHT be the thing his mum, Wendy, is proudest of him about. After completing not just one, but two 5km runs, William shares what your trainers really say about you. And things end on a low note… you'll have to listen to find out what that's all about. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimusingwilliamsdongle/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-eH3ghdf3uwrHu0QsbCjK-XrtPF1S2FvK-669Og4Lxc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35819264",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "dongle"
+      ]
+    },
+    {
+      "key": "160a5fe6e0bb14fdb9d9b23c0420265f3771c31e",
+      "title": "Help I'm Googling Lube",
+      "published_at": "2020-05-26T03:00:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Things get a bit tingly between William and Jordan as they get elbow deep into the world of lubrication. Jordan shares why his walls are now covered in white liquid and William gets angry that helpful people let him know he's a meme on the internet. But you'll mainly want to hear the lube bit. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimgooglinglube/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=13PBEJj3jkBwRcU39dtPVCWK0gcItggD5B9R022qxy8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32410880",
+      "itunes_duration": "33:45",
+      "speakers": [
+        "Googling Lube",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "lube"
+      ]
+    },
+    {
+      "key": "79d8eb021e755d125aaa65dc2f3258e78379d900",
+      "title": "Help My Parents Are Pampering My Boyfriend",
+      "published_at": "2020-05-19T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan wrestle with perhaps the most important question they've ever dealt with… has Jordan changed? With a story of a colour consultation, details of how Jordan ended a Zoom call with a wee and a girlfriend who thinks her parents are pampering her other half. As always, we've got all the bases covered. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyparentsarepamperingmyboyfriend/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jFrOMJclc2Cf5JCeQfdxMCWzTjxQN8Mz7coPRaT6-wg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33579008",
+      "itunes_duration": "34:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "parent",
+        "boyfriend"
+      ]
+    },
+    {
+      "key": "f17bcea40c1b2b9599016541a51d057b32dbd16b",
+      "title": "Help I Can't Handle The D",
+      "published_at": "2020-05-12T03:00:56+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back to help you with your lockdown dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpicanthandlethed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rgRk9bxSZXJmC5SYow_pYk7t6y-s04vDq0RFFFzo2Bs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32081024",
+      "itunes_duration": "33:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "c950ee26a0ab71e75d6519bba3e96c540f0d058f",
+      "title": "Help I Sound Like I'm In A Tunnel",
+      "published_at": "2020-05-05T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It lasted about four weeks after we expected, but it has now happened. A technical glitch in an episode recorded remotely during lockdown. We can't really explain why or how it happened. But it did. For this we can only apologise, and we hope it doesn't impact on your listening enjoyment. Other than that, William and Jordan get very squiffy, Jordan gets his nips out and Producer Ben remembers to remind Jordan to take his cooking out of the oven on time. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpisoundlikeiminatunnel/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=dAKcT-ydoz71lDt6jIRtw2MRAY9UG9893n8gRlWaOUE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34141952",
+      "itunes_duration": "35:33",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tunnel"
+      ]
+    },
+    {
+      "key": "97d0f298811c47bda96df4a5daefded6bd94f64a",
+      "title": "Help There's A Delivery Up My Back Passage",
+      "published_at": "2020-04-28T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are on the mic once again as they help you with your everyday dilemmas from the safety of their homes. There is advice for if you fantasise about your favourite radio/podcast host, William gets a delivery up his back passage and Jordan has another sitcom episode to reveal - this time with two or three familiar characters. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helptheresadeliveryupmybackpassage/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AWobG7iG7wlfDL4-zZl9tm9MqoXBvyJ_k6mCT7AwIkY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28883840",
+      "itunes_duration": "30:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "delivery",
+        "passage"
+      ]
+    },
+    {
+      "key": "996f37f79e5da31558a1f5a537de28c852bb0f64",
+      "title": "Help I Want To Use My Uvula",
+      "published_at": "2020-04-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back into their bedroom's / the oval office to help you with your lockdown dilemmas. It turns out that seeing naked people through their windows is still a massive problem during lockdown, Jordan's sitcom is definitely worth hearing but maybe not worth watching and opera singers have as many issues as the rest of us. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiwanttousemyuvula/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=r9sSSd-114iGwQoKXLpk_wUiEKvk2u8DuL5RdGsl878",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34896128",
+      "itunes_duration": "36:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "uvula"
+      ]
+    },
+    {
+      "key": "c31fac73b9f67bd206fc5da376152a83ae6df0c9",
+      "title": "Help We're In A Love Lockdown",
+      "published_at": "2020-04-14T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the first time ever, William and Jordan record a full episode of the podcast from the comfort of their respective homes. William in his best suit in the study. Jordan in his boxers from his bedroom. They chat about how they're getting on with social distancing, what to do about love in a lockdown and what to do if your flatmate isn't respecting the sanctity of the closed bedroom door. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwereinalovelockdown-acast3cd70516/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZTpAX2gZ5xmuXrOfliAJaKQrGO0aDxeeeX0HFjYJw5o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34553216",
+      "itunes_duration": "35:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "love",
+        "lockdown"
+      ]
+    },
+    {
+      "key": "fddd2c971e4a00eb37831c810ecce4f2e80938c9",
+      "title": "Help My Boyfriend Is A Dick",
+      "published_at": "2020-04-07T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return to answer your dilemmas and questions - but this week they've also got some problems of their own. Jordan has issues with his new wardrobe and chats about some interesting uses for his dressing gown. William complains about the lack of forthcoming love for him and calls someone's boyfriend a dickhead. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyboyfriendisadick/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7nDGdFfTD3qUl8OLd4nHvHG1kAE8olhk8lWGr1kJDFQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35014548",
+      "itunes_duration": "36:27",
+      "speakers": [
+        "Dick William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "boyfriend",
+        "dick"
+      ]
+    },
+    {
+      "key": "393512f2498f985fecda718b71c1bfd37cca7395",
+      "title": "Help My Daughter Loves The D",
+      "published_at": "2020-03-31T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return for Series 5 of Help I Sexted My Boss, and it doesn't take long for them to get back into the swing of things. William gets excited about Shawn Mendes' bulge, Jordan reveals that he has a 'missus' and a G&Diva reveals that their daughter loves the D. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmydaughterlovesthed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=EeO9RAwTHMBIvN87RPB_VZdzrJHDWFPJSLpw-mthYlk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33802112",
+      "itunes_duration": "35:12",
+      "speakers": [
+        "Shawn Mendes",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "daughter"
+      ]
+    },
+    {
+      "key": "59b8213acb97177e1cd7ceccf5b1b8a0d459054c",
+      "title": "Help It's The Best Of Series 4",
+      "published_at": "2020-03-24T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan take you through the best bits of Series 4 of Help I Sexted My Boss - including a gay ghost, Fistmas and Producer Ben speaks! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8T31jio9QdhFWIkJdqHuoAkR79CoOzEa5dkgx2ZPUsQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33858683",
+      "itunes_duration": "35:15",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "65383f34f532f655b1d64197cf368b1a9c14ec78",
+      "title": "Help We're Live In Leeds",
+      "published_at": "2020-01-27T16:36:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the final time on tour, here is a sneak peak from inside Help I Sexted My Boss tour life. From inside the van to sneaking on stage pre-show, this is the bonus podcast episode you've been waiting for. This was supposed to come out on Friday so you've been waiting a bit longer than we'd hoped.... but it will be worth it. Just blame Producer Ben. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwereliveinleeds/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=djPI9IZxcmBbVO_p2NzOu4PlRJ64-1Hg85-AhER1rjY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "7398496",
+      "itunes_duration": "15:23",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "leed"
+      ]
+    },
+    {
+      "key": "fa62a5986e536464c75e4b6c6dbcef86a73320c6",
+      "title": "Help We're On Tour In Bristol",
+      "published_at": "2020-01-22T14:59:46+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For the latest leg of the tour, William and Jordan have returned to the spiritual home of the executive producer. Jordan is taken on a tour of (the outside of) William's school, 'parps' William's car horn and it all ends with an old-fashioned sing song - what more could you want? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwereontourinbristol/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=n8BW6JEEpcjhVZilglySn4lTIiWe3iV-TZwRp6Jhvro",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "6754789",
+      "itunes_duration": "14:03",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tour",
+        "bristol"
+      ]
+    },
+    {
+      "key": "e0e715876ff55bebd69ac3d73aa995065102b1e8",
+      "title": "Help We're On Tour In Glasgow",
+      "published_at": "2020-01-20T12:01:38+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This is the first of three special episodes from our time on tour around the country. You find William and Jordan on a street corner in Glasgow - proof that dreams do come true - as they update you on the latest events from the Bring On The D tour and answer favourite questions from the live shows so far. Make sure that you're subscribed to get the next couple of episodes as soon as they are released. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwereontouringlasgow/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ootvoeyhrhcq57kFPNiEl3rdDRG9itewTELtq670rtQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "6902782",
+      "itunes_duration": "14:21",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tour",
+        "glasgow"
+      ]
+    },
+    {
+      "key": "1cfc3c4d133bb3c08f3452b56c5dff52cb7d0bec",
+      "title": "Help It's Fistmas At Jordan's",
+      "published_at": "2019-12-17T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan has invited William over for Fistmas and it's set to be their most memorable dinner at Jordan's to date (the only dinner that William has had at Jordan's). The pair discuss their plans for this Christmas, answer the last four problems of the year and go for a shocking tour of Jordan's abode… stick around until the end. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsfistmasatjordans/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ZIKfQp41BWeIKs7fU-ZRrTffsFl6MWV9sYIwpT5DB0s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46811648",
+      "itunes_duration": "32:30",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fistmas",
+        "jordan"
+      ]
+    },
+    {
+      "key": "a0d6d1bf3fcd994743b7b0e4a86af0e5947917ec",
+      "title": "Help We're Practically Perfect (In Every Way)",
+      "published_at": "2019-12-10T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William's dreams came true this week as he was finally able to pop in to Mary Poppins with Jordan. In this episode you can hear how they got on at the theatre, you can hear a very special voice for the very first time and Jordan hatches a very special plan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwerepracticallyperfect-ineveryway-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MpVfGZoK_fzIhw2iKQGPEcUA7rAz6GQs9lpVi1fKM-I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42400640",
+      "itunes_duration": "29:26",
+      "speakers": [
+        "Mary Poppins",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "68e5f93597d8361384f515fa6d3c07c5fa9bca20",
+      "title": "Help There's Something Under Your Bed",
+      "published_at": "2019-12-03T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Once again the gin and Dubonnet becomes too much for William and Jordan (mainly William) to handle. Which means you'll get good advice for the first half or so, and then it quickly goes downhill from there. Listeners get in touch about a special Christmas party, regifting and Jordan remembers finding something in his friend's mum's draw... If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helptheressomethingunderyourbed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Wf0xSxzEQxnnVJgS8aK0QROTVi_s9rQUsQVLvZfo6Q0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46389440",
+      "itunes_duration": "32:12",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "c4749951d1b197e83ed5c0ee5cf75acc4400e9b2",
+      "title": "Help I’m Going Thin On Top",
+      "published_at": "2019-11-26T06:00:22+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back to with more advice to help you navigate the struggles of daily life, including how to deal with drunk guests at a party and what to do when you're forced to watch really bad amateur dramatics. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpi-mgoingthinontop/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=EfYLWYPD1zI9AjIT-j2bZk0FfYyqzVeqlvExIy-8S4c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41250306",
+      "itunes_duration": "28:38",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thin"
+      ]
+    },
+    {
+      "key": "0a0af6e03ecf86de6e62eae3ba557b2a82fefc68",
+      "title": "Help I've Had A Ride On The Duchess Of Cornwall",
+      "published_at": "2019-11-19T04:00:43+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Don't worry royal lovers, The Duchess of Cornwall is also a ferry. Elsewhere in the episode William tells Jordan why he won't be inviting his parents to the live tour in January, Jordan thinks the Orient Express stops off in Leyton and shares tips on how to become a part time radio DJ. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpivehadarideontheduchessofcornwall/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=HrgWYQEX8KGCQIHQY4FczJ-iKV8h4zGgtPHn0DlL8_s",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52563008",
+      "itunes_duration": "36:30",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ride",
+        "duchess",
+        "cornwall"
+      ]
+    },
+    {
+      "key": "56d4fec9b40315106e5cf8878a8a7fcff11d15ce",
+      "title": "Jo from I Secretly Record My Boyfriend Calls The Help Hotline",
+      "published_at": "2019-11-14T16:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jo keeps a massive secret from her boyfriend - she records him for a podcast that he has no idea exists. So her problem for William and Jordan is pretty simple - should she tell him? And if so... how?! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/jofromisecretlyrecordmyboyfriendcallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cKl5xLq016_EAz0PnSlQo8tLESlzz7OYJAoVGBT9kQs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17854400",
+      "itunes_duration": "12:23",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "record",
+        "boyfriend",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "0ad17b11557b3d82d14496848750bb5531eb7e17",
+      "title": "Help We're Live In Manchester",
+      "published_at": "2019-11-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After their recent performance at the Manchester Podcast Festival, William and Jordan release this edited version of their on-stage show. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwereliveinmanchester/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=64HZIWW8cfJj60QDmdlj1mUeNml-5d10B9ZxGzKJ1f0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52548032",
+      "itunes_duration": "36:29",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "manchester"
+      ]
+    },
+    {
+      "key": "8821df332c0e3469e927e38178c774f7aca033a6",
+      "title": "Help I'm Surrounded By Naked Posh Boys",
+      "published_at": "2019-11-05T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Producer Ben is back to oversee quite possibly the funniest episode of the series so far. Hard to say if it's definitely true, but for the person who writes these descriptions it's definitely true. William and Jordan tackle lots of problems associated with nudity this week, and we only have the G&Divas to blame. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpimsurroundedbynakedposhboys/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DBu9ScZVuJX1cG2qSYUUWty21bf_aNs90j96MSDEbfE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47802596",
+      "itunes_duration": "33:11",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "posh",
+        "boys"
+      ]
+    },
+    {
+      "key": "c6b6516af437d6a34c8855b1c53513534bce9f2f",
+      "title": "Help My Dad's Never Brushed His Teeth",
+      "published_at": "2019-10-29T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are let loose to record a podcast on their own as poor Producer Ben has set off on holiday for the week. When left on their own it was William who stepped up to the plate to write the script, Jordan who shared his new favourite chocolate bar and both of them continue to fantasise about their wedding pact. They missed Ben dearly and are very grateful that he is now back in their lives. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmydadsneverbrushedhisteeth/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=w9S54cBmmoaRc9YdexFHVdUNNV9Oc0bIUwHn_4y0EIU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56324288",
+      "itunes_duration": "39:06",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tooth"
+      ]
+    },
+    {
+      "key": "662b8ea86f9fc189becd47a1423f8c4e80e0691c",
+      "title": "Help I Want To Bail",
+      "published_at": "2019-10-22T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's another week of William and Jordan helping with your modern day dilemmas, including a lesson on how to speak Burnley and what to if you want to put someone else's funny messages on your socials. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpiwanttobail/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=afi5AzdAllC2HcOo9zYyUu3iJ1XKO4etEZvbmJp5i6I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43641344",
+      "itunes_duration": "30:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "fd714d49b14e4ccba7c210cc0cc27706679d60af",
+      "title": "Help We're Getting Married At 50",
+      "published_at": "2019-10-15T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Luckily Jordan manages to fit the podcast in amongst his extremely busy BBC schedule - and it's a good job he has done because it's another corker. William and Jordan discuss what they will do if they're both single at 50, then there's an update on what happens to a circumcised penis and they start the search for a non-alcoholic gin and Dubonnet alternative. It's no surprise after all of this that William finds himself with plenty of time to spare... If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpweregettingmarriedat50/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hQFxGlNuJATzGQ75XI0SSMF8xH9VNrTs0GrBBJ_0xfk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51873494",
+      "itunes_duration": "36:01",
+      "speakers": [
+        "Getting Married",
+        "Luckily Jordan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "getting",
+        "married"
+      ]
+    },
+    {
+      "key": "f0943cfe0d2948f43ccc82f9cbccd2c4ccf4c808",
+      "title": "Jessica Fostekew Calls The Help Hotline",
+      "published_at": "2019-10-11T05:59:30+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Comedian and host of the Hoovering podcast Jessica Fostekew calls William and Jordan to discuss If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/jessicafostekewcallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=psTfL6YXwSf6e3SzrhNaH5aWna8mDpJqgxEJlN7TaBo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29610560",
+      "itunes_duration": "20:33",
+      "speakers": [
+        "Jessica Fostekew",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jessica",
+        "fostekew",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "b5719d20f0031699f1dbb863e2ba7c7ac1961255",
+      "title": "Help How Do I Keep it Casual",
+      "published_at": "2019-10-08T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan talk about calling your boss mate (it's better than sexting them), Snog, Marry Kill that involves Christopher Biggins and Producer Ben and we hear whether Jordan's Joke of the Week or William's Wacky Word of the week has come out on top. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helphowdoikeepitcasual/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7EmfjHbcqDzQAY_BplR3xStHphjQzmnNTm__yLtSFDk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44978240",
+      "itunes_duration": "31:14",
+      "speakers": [
+        "Casual William",
+        "Marry Kill",
+        "Christopher Biggins",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "casual"
+      ]
+    },
+    {
+      "key": "b12dc9d63ff4a4ac48ff9907bb34d3e2e56477f7",
+      "title": "Riyadh Calls The Help Hotline",
+      "published_at": "2019-10-03T14:00:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the first Help Hotline of the new series, it's YouTuber Riyadh Khalaf who has a problem for William and Jordan to answer. The problem comes in the shape of a penny-sized stamp from Riyadh's cat's bottom. This problem might be too much for William and Jordan... If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/riyadhcallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=coaODZgianQcelKQX5eZhoBJg4ZohYG0osTOuD31Mys",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22327670",
+      "itunes_duration": "15:31",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "riyadh",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "8c89ee8520b06fa1dd4c94c8ce2d8af653e2d8b6",
+      "title": "Help There's A Gay Ghost In My Bed",
+      "published_at": "2019-10-01T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Help I Sexted My Boss returns for a fourth series as William and Jordan get back into the swing of answering all of your dilemmas. In this cracker of an episode the chaps discuss how they managed to keep hold of their in-demand producer, William turning the grand old age of 30 (thirty) and Jordan's unexpected trip to a 'brasshouse'. With plenty more fun booked in between now and Christmas, make sure you are subscribed, primed and ready for the boys’ weekly release. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helptheresagayghostinmybed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JbZYsYF-tT7KM7uF-HfZdLxaPctpS6ACZO6THjrY8qE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47988662",
+      "itunes_duration": "33:22",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "ghost"
+      ]
+    },
+    {
+      "key": "f31ebc4dc4d74610d1f05d7354c78d6e892aa4de",
+      "title": "Help It's The Best Of Series 3",
+      "published_at": "2019-09-24T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As the boys prepare for Series 3, we hear some of the best moments from the third series - chosen by William, Jordan and the esteemed G&Divas. From William and Jordan's luxury trip to Monaco... to their not so luxury trip to Burnley. From chomping pork to Roger the butcher. From Jordan's Joke of the Week to #GiveMeThe D. This is the best bits from Series 3. Series 4 of Help I Sexted My Boss starts on 1st October. Subscribe and review! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitsthebestofseries3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gYKbgXKn3Ftvmleiw_SJr0mABBc2hfw1GtdJLzTbADo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53052376",
+      "itunes_duration": "36:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "21e9ff74e217998ab17501c0222170429139ee9c",
+      "title": "Help How Do I Leave The (WhatsApp) Group?",
+      "published_at": "2019-06-18T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's a sad sad sad day. The end of Series 3. But things have got even sadder. After William and Jordan discovered that Producer Ben has worked on another podcast, they have decided to end his role as producer of the podcast. So as Producer Ben writes these descriptions, I have decided to end this description early. You know what to expect at this point anyway. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helphowdoileavethe-whatsapp-group-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jKFjFCX1WGyuWtOw8hOKbxlvEYG4z6P1E-iZu5LxBuw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89819648",
+      "itunes_duration": "37:25",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "whatsapp",
+        "group"
+      ]
+    },
+    {
+      "key": "37c2d3994f40750f0a8bff5ec4f6f70f8f8e8c60",
+      "title": "Owain Calls The Help Hotline",
+      "published_at": "2019-06-13T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Who knew Help I Sexted My Boss could get even more flamboyant? I didn't think it could. But since weather presenter and journalist Owain Wyn Evans called the Help Hotline, it's become very clear that William and Jordan have many areas in which they could improve their flamboyance. Owain is on with his problem: what do you do if someone asks for your number and you don't want to give them your number? After a bit of struggling, William and Jordan come up with the answer. But if you do want Producer Ben's number… just ask. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/owaincallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9eq97faGqZMJcVKZy-Ywl-bsv1UgXJoWAlCiOBb3R4k",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29683328",
+      "itunes_duration": "12:22",
+      "speakers": [
+        "Owain Wyn Evans",
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "owain",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "b8c05cc3b5e5d3b05ea2af16887c563c65655517",
+      "title": "Help What Happens In Monaco Doesn't Stay In Monaco",
+      "published_at": "2019-06-11T03:00:03+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "THE DAY IS FINALLY HERE. William has to reveal what happened in Monaco. But before he gets to that, the lads chat about armrest etiquette, what to do with a third wheel and how the podcast should be the first thing on every first date conversation list… except if you're friends with Jordan. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwhathappensinmonacodoesntstayinmonaco/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7wxgULyT70bWNLjb6WwTTFODVbTutbZ21X0UZKkf6xI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91234688",
+      "itunes_duration": "38:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "happens",
+        "monaco"
+      ]
+    },
+    {
+      "key": "ef8c1acfb035399d9bd77fa1c1a9fc93f0b83db9",
+      "title": "Help It's The State Visit Extra Bits",
+      "published_at": "2019-06-06T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "After Tuesday's 'normal' episode recorded in Burnley, in this special episode we hear William raw and (slightly) unedited in Jordan's hometown. The pair have a mince around Burnley town centre, go for a tour of Turf Moor and finish off with a curry and a night in a hotel bed together… not like that. This is a state visit with way more class than any that has ever been before. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwilliamsrawinburnley/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jwiwahk_pkkUkXlzM0uGld22zbREoUkVp9B3FmtAikE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92823488",
+      "itunes_duration": "38:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "state",
+        "visit",
+        "extra",
+        "bits"
+      ]
+    },
+    {
+      "key": "d45b82e4b54919ed7d8fc26efb9b36c75c08d221",
+      "title": "Help It's William's State Visit To Burnley",
+      "published_at": "2019-06-04T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As Donald Trump arrives in London for his state visit to the UK, William arrives in Burnley for a trip Help I Sexted My Boss style. The visit does not get off to the best of starts as they arrive into a fairly beaten up AirBnB, but with the friendly people of Burnley, the incredible(!) surroundings of Turf Moor and a decent Oddies pastry in hand - it can only get better! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpitswilliamsstatevisittoburnley/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KDmOZVEFYdX5p5BpVP7P5RPMweiT-AlCUS9HX5M9jEg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95999168",
+      "itunes_duration": "39:59",
+      "speakers": [
+        "Donald Trump",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "state",
+        "visit",
+        "burnley"
+      ]
+    },
+    {
+      "key": "8b69aa2b53e89bae86f759e1e74acd6917e39c4f",
+      "title": "Taylor From Drunk Women Solving Crime Calls The Help Hotline",
+      "published_at": "2019-05-31T09:47:25+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The Help Hotline returns after a break, thanks to Producer Ben actually switching the phone on… Our first caller is Taylor Glenn from the podcast Drunk Women Solving Crime. Much like William and Jordan, Taylor and her co-hosts are often found quite well sauced after a recording of their podcast, and this is exactly what her problem entails! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/taylorfromdrunkwomensolvingcrimecallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cWM5F9mIUzIiliCn96AJWiD8h4o8PwosLL5EOzKOI9U",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41715968",
+      "itunes_duration": "17:22",
+      "speakers": [
+        "Producer Ben",
+        "Taylor Glenn",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "taylor",
+        "drunk",
+        "women",
+        "solving",
+        "crime",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "e73f3d8630c6546654e3b17a10eb3ec638de4398",
+      "title": "Help Jordan Has An Idea",
+      "published_at": "2019-05-28T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ever since William took the Sexted crew to Monaco for a luxury mini-break there has been an imbalance in the podcast for something a bit more… well, common. Jordan has the answer to that problem in this episode. The pair answer your problems, including answering whether it's acceptable to go outside with wet hair - William and Jordan disagree. And there is a special edition of #GiveMeTheD. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpjordanhasanidea/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DQ57s7jBGpiQmxPI7GKllXsHscUNhL1gocvnbbLqPK8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42901184",
+      "itunes_duration": "29:47",
+      "speakers": [
+        "hair William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jordan",
+        "idea"
+      ]
+    },
+    {
+      "key": "03325e5086624d9c3402a81c89b916508c388116",
+      "title": "Help My Best Man Wants To Go Commando",
+      "published_at": "2019-05-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This week Producer Ben is getting a tattoo, which William does not approve of, so Jordan and William have plenty to get their teeth into from the off. In this episode we hear the podcast at it's jokey best, but we also hear a more serious side to our dynamic duo. From discussing whether one should wipe whilst standing or sitting, to having an honest chat about what to do if a friend is struggling - this episode has it all. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmybestmanwantstogocommando/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kr4j4ENXui3c51zOynFs2jmgciRTKqkfO6KVkM2xufY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81391808",
+      "itunes_duration": "33:54",
+      "speakers": [
+        "Producer Ben",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "commando"
+      ]
+    },
+    {
+      "key": "ba77687f4034b377758e0210350597a74ac290de",
+      "title": "Help The Kids Aren't Alright",
+      "published_at": "2019-05-14T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The lads are back in the studio and have lots to get through this week. The new royal baby (at time of recording didn't have a name) takes top billing in this episode, Jordan prepares for a special show on national radio and William has an answer for a G&Diva from Cornwall who is preparing for children over the busy summer holiday. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpthekidsarentalright/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0L-eVpev0NQeg-06CJIliUc6StRopWi9Kceg3qElqL8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83736128",
+      "itunes_duration": "34:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "alright"
+      ]
+    },
+    {
+      "key": "76fd3a1d8698de000b1d4add77d5186b6bc9085e",
+      "title": "Help Someone's Parked In My Diplomatic Parking Bay",
+      "published_at": "2019-05-07T06:59:34+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan receive their first ever diplomatic letter-headed paper - don't worry, it's not a complaint against Jordan. Jordan has a potential business idea and he's hoping that William might be his first investor. And the boys answer your problems as usual. They are the agony aunts that keep on giving. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpsomeonesparkedinmydiplomaticparkingbay/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hjf3rTtiP1GEqRKj1RSpyHmsx3YiUvzTy0uuRgFDNLM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81342848",
+      "itunes_duration": "33:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "diplomatic",
+        "parking"
+      ]
+    },
+    {
+      "key": "86fa9061fac8aa9a56d36a3e34dd61b47eed615b",
+      "title": "Marsha Calls The Help Hotline",
+      "published_at": "2019-05-03T14:30:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Marsha calls William and Jordan to ask about what she should do if she goes to a friend's house and finds they have a filthy bathroom. William fans should listen if they care to find out about which bathroom cleaning products he prefers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/marshacallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=g4AvenGMASvS6qcKaAd0DhRLpGHf6QoVo-M1UYSVFpw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25166528",
+      "itunes_duration": "10:29",
+      "speakers": [
+        "Marsha Calls",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "marsha",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "68d3fed682cafd5666bd64607653d6fa82c8673a",
+      "title": "Help We're Backstage In Hackney",
+      "published_at": "2019-04-30T09:17:28+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan turn on the microphones ahead of one of their live shows in Hackney. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwerebackstageinhackney/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3jHoLyp09s1zlL88g7ZDwYj9yqjkG_PEPVV5TMmvpYM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46304192",
+      "itunes_duration": "32:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "backstage",
+        "hackney"
+      ]
+    },
+    {
+      "key": "d61163dca2f7318c387c61a458bb04cba9af19bf",
+      "title": "Help I Don't Want Kids",
+      "published_at": "2019-04-23T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan have returned from their travels to get back to what they do best… delivering mediocre advice for all of you lovely G&Divas. This is the first ever G&Dless episode of Help I Sexted My Boss, for quite an unusual reason. But the boys still manage to solve many problems. Including where is best to eat in Preston, what should you say if you really, really don't want children and they offer up some advice on how to host your own G&Diva party. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpidontwantkids/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=70Mhp2465QjXBgL2IuBqjGm8WzoYkpWN4gkk8PHndlQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84803389",
+      "itunes_duration": "35:19",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4e5822765ae532cf64436fc85291df1fe2ffe1c5",
+      "title": "Help There's No Sauce For My Sausage",
+      "published_at": "2019-04-16T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan return with a second episode recorded in their hotel room in Monaco. They discuss if Jordan behaved well enough during their Michelin starred meal, William shares his etiquette faux pas and Jordan continues to say words wrong. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helptheresnosauceformysausage/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PA9VPTSxHIYxo2wHRqXfVHfbTCVPwVBkqNx2j1CpyvM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86379968",
+      "itunes_duration": "35:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sauce",
+        "sausage"
+      ]
+    },
+    {
+      "key": "f61647e66f1bf9619a93527b40357c1041b2a2a5",
+      "title": "Sophie Calls The Help Hotline",
+      "published_at": "2019-04-12T07:39:27+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In a special episode of the Help Hotline recorded live from Monaco, Sophie calls up William and Jordan to find out how best to deal with Instagram when abroad. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/sophiecallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ey7phuOeIIhoRa4NbbTGMWdP4ohlSfjSNe36r_rQ9kc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28384448",
+      "itunes_duration": "11:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sophie",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "bf3e80d9a07dbff69af7abdca36bc30568e6b0da",
+      "title": "Help We've Landed In Monaco",
+      "published_at": "2019-04-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan land in lovely Monaco for the very first Help I Sexted My Boss holiday. The pair discuss how much Jordan stuck out like a sore thumb, they welcome a third (fourth) member to the Sexted clan and they prepare for a night under the covers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpwevelandedinmonaco/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jMCD80-d5Yw6rB9I8kZ32sGQLKiAkgMIVdT2TtFo7is",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92010902",
+      "itunes_duration": "38:20",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "monaco"
+      ]
+    },
+    {
+      "key": "87f9f9895861a947f862753dc85ef1879a42b655",
+      "title": "William's Luxury Flatmate Calls The Help Hotline",
+      "published_at": "2019-04-06T10:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William's former luxury flatmate 'John' calls the Help Hotline with his problem when meeting up with old friends before sharing some tales from living with our William. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/williamsluxuryflatmatecallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=T_lhTB4nTNhfZEPh4DXhqjQZUZICQg_F86-mjZpFpH8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17643831",
+      "itunes_duration": "12:14",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "luxury",
+        "flatmate",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "986ebc12e122c8fd7c1e497626a62453169f8ff2",
+      "title": "Help Do I Spit Or Swallow",
+      "published_at": "2019-04-02T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In this episode the boys tackle one of the all time classic questions: to spit, or to swallow? Jordan is hungover and William has been to a fancy party. All the ingredients that are needed for a classic episode of Help I Sexted My Boss. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpdoispitorswallow/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rXbrRztiI3CRN1tKy5AiBKFHup3sMUFeRqVQ5WE58ZE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83594048",
+      "itunes_duration": "34:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "spit",
+        "swallow"
+      ]
+    },
+    {
+      "key": "0ff86f85dc299f75887e6e60570e063f4b646d81",
+      "title": "Joe Calls The Help Hotline",
+      "published_at": "2019-03-29T15:30:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Joe and his friend from university have some trouble with the morality of a Tinder date when one of their companions is still in a relationship when she came on the initial date. William and Jordan are here to solve this modern day problem. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/joecallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=g0ZOZPSN-M-5EhsPU4dyK-P-2o6JDxHTg6Qo49NxZmU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "8372288",
+      "itunes_duration": "5:48",
+      "speakers": [
+        "Joe Calls",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "19ba8587471cd39d67095e2075bbd58e832256b2",
+      "title": "Help I Laid A Log In A Wood",
+      "published_at": "2019-03-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The advice flows once more from the mouths of William and Jordan like cat sick out of a cat's mouth... thick and fast. This week the boys chat movies, bad handwriting and there's lots about the toilet. Or I should say where to go to the toilet. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpilaidaloginawood/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=DW-LG9Myls2DWnPoMtDvSCtIUtDhLIPxzgw-iA4Ptqo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68794547",
+      "itunes_duration": "28:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "key": "842b89fc6a0d18f8d199e8c72412fb6615bb453d",
+      "title": "Help My Neighbour's Got A Big Package",
+      "published_at": "2019-03-19T07:51:07+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "What would you do if your neighbour's delivery came through your front door already opened and it happened to be something… rather rude? Well, William and Jordan are on hand to answer that specific problem for you! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmyneighboursgotabigpackage/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nnJPl0HlWtT7H8TSbC-E-0HYjHWtP54PYkcRyJr8dh0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65809088",
+      "itunes_duration": "27:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "neighbour",
+        "package"
+      ]
+    },
+    {
+      "key": "c14af1e09d0e090ca1b451c13df5a19d31d60cba",
+      "title": "Luca Calls The Help Hotline",
+      "published_at": "2019-03-15T16:30:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "This time when the Help Hotline rings William and Jordan find themselves in William's luxury residence. They're on hand to help with Luca's pronunciation woes. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/lucacallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LeKdfX3B46nZ69qCLAD5VkUH0LDK89M96tMsXShJRgY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26476928",
+      "itunes_duration": "11:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "luca",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "d9bd0e2065c280376313429c39410657ec65cf9d",
+      "title": "Help My Butcher Has Taken Me Up The Asda",
+      "published_at": "2019-03-12T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "In the second episode of the new series William and Jordan chat about butcher's meat, pickled peckers and the state of Jordan's DMs. This is the podcast for all of your everyday modern challenges, problems and dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmybutcherhastakenmeuptheasda/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_i2ryC_hkLa3ae587Ol8dJM33Gk76pgVHa51rUAAFbE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60542528",
+      "itunes_duration": "25:13",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "butcher",
+        "asda"
+      ]
+    },
+    {
+      "key": "15988b5db9dcecbf4263903cbcc2a88c2d318901",
+      "title": "Doctor Simon Calls The Help Hotline",
+      "published_at": "2019-03-10T14:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The Help Hotline is open! William and Jordan are on hand to chat through your problems, and Doctor Simon has a dilemma. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/doctorsimoncallsthehelphotline/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NmelW18A4gDXExfM9lzG8sLkJE7i1VZDSlTQi1ZAEuE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11581760",
+      "itunes_duration": "8:02",
+      "speakers": [
+        "Simon Calls",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "doctor",
+        "simon",
+        "help",
+        "hotline"
+      ]
+    },
+    {
+      "key": "dc9d699bbf34c4a065549cefbec9c13bb824a05a",
+      "title": "Help My Gran Has No Filter",
+      "published_at": "2019-03-05T07:19:10+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are back for Series 3 with more advice for the everyday challenges of modern life. The pair discuss William's recent viral tweet, Jordan's Hello! appearance and the etiquette of having a Gran who is always saying the wrong thing. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/helpmygranhasnofilter/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9MfaURwy9_uSnOz4RxSW50ku4sCm-pN3_Gi6ALJpGgg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40158848",
+      "itunes_duration": "27:53",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "gran",
+        "filter"
+      ]
+    },
+    {
+      "key": "3ce2f1c3e58dde5ca1a137300715c0af221f4e4f",
+      "title": "Help It's The Best Of Series 2",
+      "published_at": "2019-02-26T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As the boys prepare for Series 3, we hear some of the best moments from the second series - chosen by William, Jordan and the esteemed G&Divas. From a cat choking on a condom to Jordan's alter ego, this is a run down of some of the classic moments from our second run of episodes. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e18-helpitsthebestofseries/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nW6w8IqqVJ7oYmCqlh1EQoPfs5RU9q2izI2aTX1JiL0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79193287",
+      "itunes_duration": "32:59",
+      "speakers": [
+        "alter ego",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "e388333dae418ede974f6c55a586b47f10ff407d",
+      "title": "Help It's Christmas Day",
+      "published_at": "2018-12-25T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Christmas is a time for getting together with friends. So, as it's the final episode of this series, William has invited Jordan over to his for some festive treats! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e17-helpitschristmasday/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3PKLzMlKQ1yRzouX1L5ZxdkhFH-EGR0wMjEWfeeP7Tc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29071232",
+      "itunes_duration": "30:16",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "christmas"
+      ]
+    },
+    {
+      "key": "65cf2811501469572ac44a8484823b47e50ae5cb",
+      "title": "Help We're Live In Camden",
+      "published_at": "2018-12-18T04:00:46+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan host the first ever Help I Sexted My Boss.… LIVE. You hear a sneaky peak in this episode, but it might be heavily censored because the debauchery wasn't suitable for all ears… maybe we will have to treat some more of you to another live show in the near future… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e16-helpwereliveincamden/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=m2Ngi4sum87njz-XbRa85KBuWF9AqoGhhMzVLq1pk9A",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33209600",
+      "itunes_duration": "34:35",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "camden"
+      ]
+    },
+    {
+      "key": "a7a1f0ca6bb782d1a7bf921cb99516ffa6db01c1",
+      "title": "Help I've Photocopied My Bum",
+      "published_at": "2018-12-11T09:26:40+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Christmas fever is officially sweeping the nation. And there's one place where festive cheer can turn into a minefield more than anywhere else. The office. Luckily, William and Jordan are on hand to help you with all your Christmas in the office concerns. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e15-helpivephotocopiedmybum/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Gz7-jEcf08KeYCePR1H4myr90GDZ-2LKoSDn-9ARoUk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25048064",
+      "itunes_duration": "26:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2237eade76fefb7f88f818a81518b3b109ff3763",
+      "title": "Help I'm Calling From The Bog",
+      "published_at": "2018-12-04T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Ring ring, ring ring. Your phone is ringing. But you're on the loo. What do you do? Pick up the phone? But you're literally having a poo. Well, if you want to know the answer to picking up the phone whilst you sat with your trousers down, this is the podcast for you. William and Jordan also talk about other things to do with phones, but the poo thing is a definite highlight. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e14-helpimcallingfromthebog/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=v1cScn5Cpv7JmyhJ7KnqhOrVGs1ps7Xey6KxgVgVI_w",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24940928",
+      "itunes_duration": "25:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f5e66e1ed8074f6a02d3f16b12f3e22341de94c8",
+      "title": "Help I've Pulled On A Pendalino",
+      "published_at": "2018-11-27T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Whenever you're next hurtling through the British countryside on a fine public transport carriage, maybe you will think back to this episode. The episode where William and Jordan take you through everything there is to know about etiquette on a train… pretty much everything. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e13-helpivepulledonapendalino/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=10RhFXMl9rhPhVcooHae3vR0jih664CJuB9uL574G28",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25848704",
+      "itunes_duration": "26:55",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "pendalino"
+      ]
+    },
+    {
+      "key": "85903a134257180ef1e3d252f6f8a4e5557b51f0",
+      "title": "Help I Sneaked In A Sandwich",
+      "published_at": "2018-11-20T09:04:17+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan get their mochalattaflatwhitecino orders in at the coffee shop and deliver you some much-needed advice on how to survive in the complex world of the modern day cafe. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e12-helpisneakedinasandwich/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gMbbl4ZB0WRxe_jWIDS3BiqXpPHgP8cszRFGJ1afa0Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29197568",
+      "itunes_duration": "30:24",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sandwich"
+      ]
+    },
+    {
+      "key": "5284bd3dacc584121c482ce5f30415b4e5dcbb07",
+      "title": "Help I've Replied All",
+      "published_at": "2018-11-13T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "For something that seems so easy, emailing people has the potential to throw up oh so many problems. Luckily, it's William and Jordan's latest topic for discussion, so from now on you've got nothing to worry about… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e11-helpiverepliedall/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=d11R6LNX80k4hktv9ddxxrZsndQPMeb2LTfGEsqvEsE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "24:10",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "replied"
+      ]
+    },
+    {
+      "key": "77faa4d214f212dc836481cafd002de691770b26",
+      "title": "Help I'm Smuggling A Budgie",
+      "published_at": "2018-11-06T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share everything you need to know about dressing to impress. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s210-helpimsmugglingabudgie/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WSGffFl1QGqaakRauN0RlWq36j7PG9tZF3_WgzD5o70",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33174656",
+      "itunes_duration": "34:33",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "budgie"
+      ]
+    },
+    {
+      "key": "4f541877755c9ac6f78f6f7510451bf414ba74ea",
+      "title": "Help It's Halloween",
+      "published_at": "2018-10-30T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Unsurprisingly, Halloween is not William's cup of tea, but Jordan gets the costumes in and the boys share all the tips you'll need for the spooky sesh… Oh, and William will tell you it's spelled Hallowe'en. He does care really. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e09-helpitshalloween/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0THf3IgXiQTq3jyPrSug-qZzlyZZgqlIh2KVCtFi7d4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23984768",
+      "itunes_duration": "24:59",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "halloween"
+      ]
+    },
+    {
+      "key": "7f4aebdd44f98c5091139cd10b5729377410d37a",
+      "title": "Help I'm Going Up The West End",
+      "published_at": "2018-10-23T05:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "It's showtime! William and Jordan raise the curtain to answer your questions and dilemmas about going to the theatre. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e08-helpimgoingupthewestend/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=naBXNDQhdxW-cx4bnxU5yDK3A163wI1ptDz8r6J37jI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30530816",
+      "itunes_duration": "31:48",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "west"
+      ]
+    },
+    {
+      "key": "26efdbae8dc223aa54a111137c80800261d84722",
+      "title": "Help My Cat Ate A Condom",
+      "published_at": "2018-10-16T02:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "What does the breed of your dog say about you? How do you deal with your friend's pesky pet? And what do you do if your dog eats a condom? William and Jordan answer these questions and more as the boys tackle pets in this episode of the podcast. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e07-helpmycatateacondom/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=VZAguN2CTMYaFIkHrX5bz7uwXMBpOD9mMauAl5rPQwU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24574208",
+      "itunes_duration": "25:35",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "condom"
+      ]
+    },
+    {
+      "key": "1b4e0ee4b95a2f54c5fdef31b824206faa17c062",
+      "title": "Help We're Moving In",
+      "published_at": "2018-10-09T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan talk about living with a partner. Yes, you love them - but that doesn't mean it's not difficult. It's quite similar to William's relationship with Jordan actually… If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e06-helpweremovingin/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=cbx2FOQddxBE3f4mSSZXRx_RPzruedgiXGwf13M7nU4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28671872",
+      "itunes_duration": "29:51",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "moving"
+      ]
+    },
+    {
+      "key": "2a4d37f5530857f293fdacab93da8052e0f7f0db",
+      "title": "Help I'm A Netflix Cheat",
+      "published_at": "2018-10-02T05:56:50+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Is it OK to eat in front of the telly? Are spoilers allowed? How bad is Netflix cheating? William and Jordan are on hand with some very different advice about watching television. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e05-helpimanetflixcheat/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KXsByt7P8J4gCC-gdPv4e4-D0d1M2nEl9YhXBA42BJ4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27977600",
+      "itunes_duration": "29:08",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "netflix",
+        "cheat"
+      ]
+    },
+    {
+      "key": "ffbf22d1a09f2d33a9044e5f97e29da4449aafad",
+      "title": "Help I'm A Fresher",
+      "published_at": "2018-09-25T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With students across the country heading off to university, William and Jordan decide to lecture them on the rights and wrongs of student life. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e04-helpimafresher-/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=O29LQR18QqbkPP3MXrdEcr8ssKEJj1iiydM8W6VR_aM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27812480",
+      "itunes_duration": "28:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fresher"
+      ]
+    },
+    {
+      "key": "a0ed087021297ada18b021e14803801773e1035c",
+      "title": "Help I Live Next Door To A Cougar",
+      "published_at": "2018-09-18T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan let you in to everything you need to know about neighbours. No, not the Australian Soap Opera, this is about the people you live next to, above or below - or in William's case, the cows he lives next to. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e03-helpilivenextdoortoacougar/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=I6OIp1_6qqswB7nlpYdD7GI7Dt2SbFTtDDf6NBxA8BY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23881472",
+      "itunes_duration": "24:52",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "door",
+        "cougar"
+      ]
+    },
+    {
+      "key": "634d58c70114cdffb114067db7ff0fc9d328bc35",
+      "title": "Help I Deep Liked Your Ex",
+      "published_at": "2018-09-11T03:00:09+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share advice about how to live your life on Facebook. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e02-helpmymumsonfacebook/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=NE0jtAhg-xyDvxQFLSwDKu_EiIoH5iOrbCweC6JpDC8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19929344",
+      "itunes_duration": "20:45",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "deep"
+      ]
+    },
+    {
+      "key": "fec636da4138760fb8ff819bd1f4ed8b21445010",
+      "title": "Help We're Back",
+      "published_at": "2018-09-04T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William Hanson and Jordan North return to help you with the daily struggles of modern life. In this episode the boys discuss returning to work after the long, hot summer. How long after your holiday are you allowed to talk about it? As a parent, should you pick your child's new pencil case? And what is the best way to take a compliment? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s2e1-helpwereback/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-9WSQiE6E4YvwmcWVzmFWIcl5HwzXb1qPM8xHolHLeY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26891648",
+      "itunes_duration": "28:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f0e804777c785822b04d5c5d3ee43833ccd85fce",
+      "title": "Help It's The Best Of Series 1",
+      "published_at": "2018-08-21T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "As the boys prepare for Series 2, we hear some of the best moments from the first series - chosen by William, Jordan and the esteemed G&Divas. From Jordan struggling to pronounce trepidation to William solving problems, this is the perfect quick fix of Help I Sexted My Boss. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e17-helpitsthebestofseries1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6w7RiWioUDnwatnJvhRr1KJWwbnBsd93iwuQObcMAok",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14507648",
+      "itunes_duration": "15:06",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "series"
+      ]
+    },
+    {
+      "key": "f37ee6652d42c92fade92bd1460f1c4b402328f1",
+      "title": "Help It’s Time For Takeoff",
+      "published_at": "2018-07-03T07:15:31+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The boys share advice on airplanes as they get ready for holiday season in the last episode of this series. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e16-help-its-time-for-takeoff/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Gmb72oB8oC-YzG3qqCIPL6NY_EhjoVp9jbaOL7nA0sU",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21878144",
+      "itunes_duration": "22:47",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "time",
+        "takeoff"
+      ]
+    },
+    {
+      "key": "b87eb569c7f95010967dcd5feb939e9c2d2f2891",
+      "title": "Help I’m Having A BBQ",
+      "published_at": "2018-06-26T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Summer is here! So William tells Jordan everything he needs to host a garden party, not a BBQ! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e15-help-im-having-a-bbq/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=hvAPFWK6j5nGrSYwyV1aXhXkj-p4LXw4_9azy4LQhjs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28479104",
+      "itunes_duration": "29:39",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "e9358be5adab6850e16bcae57de9647ea0b749f2",
+      "title": "Help I Had Sex On TV",
+      "published_at": "2018-06-19T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "With Love Island back on our screens Jordan and William have lots of advice for reality telly lovers. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e14-help-i-had-sex-on-tv/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WO6uaPnM5-pwRhE6plvhIjslSv5XSiPfistmJQVi488",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24089216",
+      "itunes_duration": "25:05",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4db515645f16306c76a7d59c42216fea5663682d",
+      "title": "Help I’ve Flown The Nest",
+      "published_at": "2018-06-12T03:00:21+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Jordan has moved to London and William is on hand with some advice about relocating. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e13-help-ive-flown-the-nest/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=izTliisQvHruQtNYOrp2zGO7y2YPCAlAMrElh6RUNcs",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28318592",
+      "itunes_duration": "29:29",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "flown",
+        "nest"
+      ]
+    },
+    {
+      "key": "e04f0a8f76c01bf6c79133c8dfdb5606aecc895b",
+      "title": "Help I Can’t Stand Football",
+      "published_at": "2018-06-05T03:00:39+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are having a World Cup party and have some very different advice for football fans. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e12-help-i-cant-stand-football/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=oPj5bP1appZWyu7qRyszhyF5tA9fXygLpYDaeaBJDvk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19609856",
+      "itunes_duration": "20:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "key": "d459f631ce262753c00e43abf9cadb6075da43dc",
+      "title": "Help I’m Off To Benidorm",
+      "published_at": "2018-05-29T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan are on hand with some very different advice for us Brits abroad. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e11-help-im-off-to-benidorm/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uhG9vOULHW_wtPNkJ9ryYjKGX1DYM79HLGxiDjcLhBE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17204480",
+      "itunes_duration": "17:55",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "benidorm"
+      ]
+    },
+    {
+      "key": "a3b6d9141deb21aacbdbaf2947bb0c3b73fc8e3c",
+      "title": "Help I Rinsed The Work Drinks",
+      "published_at": "2018-05-22T03:00:36+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "The rights and wrongs of the workplace can be hard to navigate. Thankfully William and Jordan are on hand with some very different advice. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e10-help-i-rinsed-the-work-drinks/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=usJlA8dOF7lEb5t28PH7F6U_m_tOW41fjGBfsCjL-tI",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24732800",
+      "itunes_duration": "25:45",
+      "speakers": [
+        "Thankfully William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "work",
+        "drink"
+      ]
+    },
+    {
+      "key": "c3ca36d4ff49a3f6fc6d7f2707c82228618390d5",
+      "title": "Help I’m Marrying An American",
+      "published_at": "2018-05-15T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "Royal weddings can be a struggle. Thankfully, William and Jordan are on hand to help! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e09-help-im-marrying-an-american/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=OKhYtxtVUwbMrM_gCmMDrZ3wWC1fuEtCLhclNZ45h8c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28235264",
+      "itunes_duration": "29:24",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "marrying",
+        "american"
+      ]
+    },
+    {
+      "key": "5306d8315900b185e20503cbecf0ed731bf388e9",
+      "title": "Help I Don’t Wash My Gym Kit",
+      "published_at": "2018-05-08T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of going to the gym. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e08-help-i-dont-wash-my-gym-kit/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qhyEFI0coehpRwEkJxNycAYk5mnBCNCMK4bPnzSx3JA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27496064",
+      "itunes_duration": "28:38",
+      "speakers": [
+        "Gym Kit William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": []
+    },
+    {
+      "key": "e96c60d26cb71e0c9c5debd574440646777f65ff",
+      "title": "Help I Don’t Want To Split The Bill",
+      "published_at": "2018-05-01T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of dining out. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1641288960790-6d5152726127748c4d21f7cb1b2a185e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e07-help-i-dont-want-to-split-the-bill/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rc27cbfK5DzTjGzUkCoNFu3bmtwcBuc6LzfOg-c8wTY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24199618",
+      "itunes_duration": "25:12",
+      "speakers": [
+        "Bill William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "bill"
+      ]
+    },
+    {
+      "key": "0c891b7e583b498c9117f33d8a5c2ad6b61e9df9",
+      "title": "Help I Hate My Flatmate",
+      "published_at": "2018-04-24T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of living with flatmates. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e06-help-i-hate-my-flatmate/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LR9dBfTlNSh_W9Cw-afbpu9VKh6A3JLpH7ujD2ctB6Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25602176",
+      "itunes_duration": "26:40",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "flatmate"
+      ]
+    },
+    {
+      "key": "32eff49ffec0d814c0ae8eade0e34bafffdacf5a",
+      "title": "Help I Danced Down The Wedding Aisle",
+      "published_at": "2018-04-17T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of all things weddings. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e05-help-i-danced-down-the-wedding-aisle/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pAocAY62NdyVjeGoORxqJvvyhbzZVklFwa2woh2F53Q",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23193344",
+      "itunes_duration": "24:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wedding",
+        "aisle"
+      ]
+    },
+    {
+      "key": "6cdd0425b43046f62a66088f8047d89fd27640de",
+      "title": "Help I Went To A Job Interview Drunk",
+      "published_at": "2018-04-10T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of a job interview. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e04-help-i-went-to-a-job-interview-drunk/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=qJjFuVuZkn7LuXRsGZT6R68jHkmKsk1RuBS5NxP3KGc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30434432",
+      "itunes_duration": "31:42",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "drunk"
+      ]
+    },
+    {
+      "key": "d8607ea58a5df0310cd49c58789c29af7e575304",
+      "title": "Help I Dated Two Guys In An Hour",
+      "published_at": "2018-04-03T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share very different advice as they help you navigate the struggles of a break up. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e03-help-i-dated-two-guys-in-an-hour/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=s9PCkDKQh4e7ga_guNaIqXcYKytRRyOT--bIMWCau7U",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26041856",
+      "itunes_duration": "27:07",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "hour"
+      ]
+    },
+    {
+      "key": "d67f90c06a62a793c154730c5bad5120c925bb87",
+      "title": "Help I Tweeted A Dick Pic",
+      "published_at": "2018-03-27T03:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan talk all things Twitter etiquette with very different advice on how to deal with social media blunders. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e02-help-i-tweeted-a-dick-pic/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=aSA8abXNk2i5M4d8jnrhZkoWUbOn6rJlJJj6Hje-bTw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25129472",
+      "itunes_duration": "26:10",
+      "speakers": [
+        "Dick Pic William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dick"
+      ]
+    },
+    {
+      "key": "a980e172731b5efd73a58cde164e6229a63f18a8",
+      "title": "Help I Was Sick On A First Date",
+      "published_at": "2018-03-20T04:00:15+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "William and Jordan share their very different advice on how to deal with first date dilemmas. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e01-help-i-was-sick-on-a-first-date/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=0lbjWwr4MX9ofSR7D0xdQ7d7BucyiKqZlMnnpn0it4E",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22084352",
+      "itunes_duration": "23:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "date"
+      ]
+    },
+    {
+      "key": "d541d988e2ad5c3d16affbc75b56b592e56f4300",
+      "title": "Preview",
+      "published_at": "2018-03-13T04:00:00+00:00",
+      "link": "https://audioalways.lnk.to/sextedmybossAC",
+      "description": "A preview of what to expect from William and Jordan as they help you navigate the daily struggles of modern life. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/sextedmyboss/s1e00-preview/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Crkkv5p-wylG9vygY89KCRcIuZJOVOiNNYqML-xw4pQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2240000",
+      "itunes_duration": "2:19",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "preview"
+      ]
     }
   ]
 }
@@ -4181,7 +13744,8 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy
+- 2026-02-19 — Jordan FAINTS | And Sushi With Half Pints — speakers: Producer Ben, William Hanson, Jordan North
+- 2026-02-17 — Help There’s A Fishy Smell | And William Gets Chintzy — speakers: Fishy Smell, William Gets Chintzy, William Hanson, Jordan North
 - 2026-02-13 — Who’s The CAMPEST?! | And Taking Advantage Of Jordan — speakers: Burnley Wallet, William Hanson, Jordan North
 - 2026-02-10 — Help He’s Got A P*ss Lolly | And Roleplaying As Old Ladies — speakers: William Hanson, Jordan North
 - 2026-02-06 — Is Slapping Bums Butch? | And Jordan’s Got A Surprise… — speakers: Jordan’s Got, William Hanson, Jordan North
@@ -4194,14 +13758,14 @@
 - 2026-01-13 — Help She Doesn’t Know I’m GAY | And William's WILD Night Out — speakers: William Hanson, Jordan North
 - 2026-01-09 — William's RUDEST Joke | And YOUR 2026 Sexted Predictions — speakers: William Hanson, Jordan North
 - 2026-01-06 — Help My Autocorrect Is X-RATED | And Jordan’s CREEPY Present — speakers: William Hanson, Jordan North
-- 2025-12-23 — William FINALLY Gets Jordan Into Bed For A FISTMAS SPECIAL — speakers: William FINALLY, William Hanson, Jordan North
-- 2025-12-19 — Your Best BIN Discoveries | And You Won't Believe William's Favourite Word For SEMEN — speakers: Believe William
+- 2025-12-23 — William FINALLY Gets Jordan Into Bed For A FISTMAS SPECIAL — speakers: William Finally, William Hanson, Jordan North
+- 2025-12-19 — Your Best BIN Discoveries | And You Won't Believe William's Favourite Word For SEMEN — speakers: Believe William, William Hanson, Jordan North
 - 2025-12-16 — Help I Want To Hide My HOOK UPS | And Jordan Has JOMO — speakers: William Hanson, Jordan North
 - 2025-12-12 — William Loves Talking About D*CK (Van Dyke) | And Busting Viagra Myths — speakers: William Loves, William Hanson, Jordan North
 - 2025-12-09 — Help There’s MAN PORRIDGE On My Flannel | And William Has Been Inspired By WETHERSPOONS — speakers: William Hanson, Jordan North
 - 2025-12-05 — Weird Families, Gua Sha and Jordan’s Ad Agency | Plus Jordan's Been CHOMPING In Bed — speakers: Gua Sha, Jordan’s Ad Agency, William Hanson, Jordan North
-- 2025-12-02 — Help My Dainty Knickers Are RUINED | And William And Jordan Get SLOSHED — speakers: Jordan Get SLOSHED, William Hanson, Jordan North
-- 2025-11-28 — Jordan Nearly Did WHAT With Jon Sopel | Plus William And Jordan Chat ICONIC Musicals — speakers: Jon Sopel, Plus William, Henry VIII, William Hanson, Jordan North
+- 2025-12-02 — Help My Dainty Knickers Are RUINED | And William And Jordan Get SLOSHED — speakers: Jordan Get Sloshed, William Hanson, Jordan North
+- 2025-11-28 — Jordan Nearly Did WHAT With Jon Sopel | Plus William And Jordan Chat ICONIC Musicals — speakers: Jon Sopel, Plus William, Henry Viii, William Hanson, Jordan North
 - 2025-11-25 — Help He’s Slanking In Bed | And Why FLATCEST Is A Bad Idea — speakers: William Hanson, Jordan North
 - 2025-11-21 — William's Got A BRAND NEW Job | Plus Some CLASSIC Northern Parenting — speakers: William Hanson, Jordan North
 - 2025-11-18 — Help My Suitcase Is VIBRATING | And Jordan's toilet LOW POINT — speakers: William Hanson, Jordan North
@@ -4258,10 +13822,10 @@
 - 2025-05-27 — Help I Shagged My Pupil’s Dad — speakers: William Hanson, Jordan North
 - 2025-05-23 — Grammar, Secret Words and Old Friends — speakers: William Hanson, Jordan North
 - 2025-05-20 — Help I’ve Got A Fuzzy Peach — speakers: William Hanson, Jordan North
-- 2025-05-16 — The Ultimate Divorce Playlist, Senior G&Divas and Nature's Stress Balls — speakers: Download SAILY, William Hanson, Jordan North
-- 2025-05-13 — Help They’ve Ruined My Crêpe Suzette — speakers: Download SAILY, William Hanson, Jordan North
-- 2025-05-09 — Evita, Air Fryers and Horny Ben — speakers: Horny Ben, Jonathan Vernon-Smith, Producer Ben, Download SAILY, William Hanson, Jordan North
-- 2025-05-06 — Help He Violated My Toothbrush — speakers: Download SAILY, William Hanson, Jordan North
+- 2025-05-16 — The Ultimate Divorce Playlist, Senior G&Divas and Nature's Stress Balls — speakers: Download Saily, William Hanson, Jordan North
+- 2025-05-13 — Help They’ve Ruined My Crêpe Suzette — speakers: Download Saily, William Hanson, Jordan North
+- 2025-05-09 — Evita, Air Fryers and Horny Ben — speakers: Horny Ben, Jonathan Vernon-Smith, Producer Ben, Download Saily, William Hanson, Jordan North
+- 2025-05-06 — Help He Violated My Toothbrush — speakers: Download Saily, William Hanson, Jordan North
 - 2025-05-02 — Ben's Travel Diary, Scrapbooks and Bad Luck — speakers: Producer Ben, William Hanson, Jordan North
 - 2025-04-29 — Help He’s Growing A Mullet — speakers: William’s Jolly Joke, William Hanson, Jordan North
 - 2025-04-25 — Burnley, Viral Twins and Ben Is Dull — speakers: William Hanson, Jordan North
@@ -4305,7 +13869,7 @@
 - 2024-11-26 — Help He Bashed His Bishop — speakers: William Hanson, Jordan North
 - 2024-11-22 — Live Shows, Lineage and Likkle Flower Pots — speakers: Jane McDonald, William Hanson, Jordan North
 - 2024-11-19 — Help I Want Clone-A-Willy Custody — speakers: William Hanson, Jordan North
-- 2024-11-15 — Mistaken Messages and Middle Class Mas — speakers: Mistaken Messages, VIG Divas, William Hanson, Jordan North
+- 2024-11-15 — Mistaken Messages and Middle Class Mas — speakers: Mistaken Messages, Vig Divas, William Hanson, Jordan North
 - 2024-11-12 — Help I Don’t Know My Holes — speakers: William Hanson, Jordan North
 - 2024-11-08 — Workplace Roleplay, Wrestling and Weddings — speakers: William Hanson, Jordan North
 - 2024-11-07 — Help We Won £200,000,000 — speakers: Wildest Dreams, Michelle Obama, Mary Poppins, William Hanson, Jordan North
@@ -4381,3 +13945,446 @@
 - 2024-03-15 — Photoshopping, Pesetas and Saint Patrick's Day — speakers: Saint Patrick, Producer Ben, William Hanson, Jordan North
 - 2024-03-12 — Help I’m On Anal Leave — speakers: William Hanson, Jordan North
 - 2024-03-08 — Sidekicks, Snail Forks and Smashing Glass — speakers: Smashing Glass, William Hanson, Jordan North
+- 2024-03-05 — Help I’ve Been Banged Up — speakers: William Hanson, Jordan North
+- 2024-03-01 — Cleaning, Coffee, and Jack Callaghan — speakers: Jack Callaghan, William Hanson, Jordan North
+- 2024-02-27 — Help I’m A Spunk Specialist — speakers: William Hanson, Jordan North
+- 2024-02-23 — Curls, Call-outs and Capital — speakers: William Hanson, Jordan North
+- 2024-02-20 — Help There’s A Tissue Issue — speakers: William Hanson, Jordan North
+- 2024-02-16 — Marathons, Made Up Names and Menthol Illness — speakers: William Hanson, Jordan North
+- 2024-02-13 — Help It's The Valentines Special — speakers: William Hanson, Jordan North
+- 2024-02-09 — Country Tunes, Colonics and Choking — speakers: Choking William, William Hanson, Jordan North
+- 2024-02-06 — Help There’s Sparkle On My Stomach — speakers: William Hanson, Jordan North
+- 2024-02-02 — Drinks, DJs and Dixon Dallas — speakers: Dixon Dallas, William Hanson, Jordan North
+- 2024-01-30 — Help I’ve Had A Sloppy Sunday — speakers: William Hanson, Jordan North
+- 2024-01-26 — Gaysons, Prinks and Chris Moyles — speakers: Chris Moyles William, William Hanson, Jordan North
+- 2024-01-23 — Help There’s A Dildo In The Loft — speakers: William Hanson, Jordan North
+- 2024-01-19 — Camilla Long, Burritos and First Footings — speakers: William Hanson, Jordan North
+- 2024-01-16 — Help He’s Stuck On My Piercing — speakers: William Hanson, Jordan North
+- 2024-01-12 — Condoms, Impressions and Incest Sticks — speakers: William Hanson, Jordan North
+- 2024-01-09 — Help I’m Still Balls Deep — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-12-25 — The Sexted Awards 2023 — speakers: Join William, Producer Ben, William Hanson, Jordan North
+- 2023-12-22 — Sexted The Panto: Journey to Jordan North’s Pole — speakers: Jordan North’s Pole, William Hanson, Jordan North
+- 2023-12-19 — Help He Wants Me To Inspect His Bumhole — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-12-15 — Canapes, Creme Frackay and New Year's Eve — speakers: William Hanson, Jordan North
+- 2023-12-12 — Help I’ve Got No Rizz — speakers: Luckily Jordan, William Hanson, Jordan North
+- 2023-12-08 — So Long, Farewell… — speakers: William Hanson, Jordan North
+- 2023-12-05 — Help It’s Down My Urethra Franklin — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-12-01 — Weekend Release: Common List, Welsh Towns and EPB's Ring — speakers: William Hanson, Jordan North
+- 2023-11-28 — Help We've Got Some News To Share — speakers: William Hanson, Jordan North
+- 2023-11-24 — Weekend Release: Jordan's Showreel, Full Moons and AV Adam — speakers: William Hanson, Jordan North
+- 2023-11-21 — Help I've Kegged Myself — speakers: Kegged Myself Jordan, William Hanson, Jordan North
+- 2023-11-17 — Weekend Release: Peas, Condiments and Doppelgangers — speakers: William Hanson, Jordan North
+- 2023-11-14 — Help I’m Non-Mahogany — speakers: William Hanson, Jordan North
+- 2023-11-10 — Weekend Release: Books, Quirks and Spine Breakers — speakers: Spine Breakers William Hanson, Jordan North, William Hanson
+- 2023-11-07 — Help She's Touching My Thermostat — speakers: William Hanson, Jordan North
+- 2023-11-03 — Weekend Release: Stubble, Ghosts and a Blonde Roast — speakers: William Hanson, Jordan North
+- 2023-10-31 — Help We've Swapped Places — speakers: William Hanson, Jordan North
+- 2023-10-27 — Weekend Release: Massages, Straws and Douchebags — speakers: William Hanson, Jordan North
+- 2023-10-24 — Help There's A Spaniel's Ear In The Pool — speakers: Jordan North, Earl Grey, William Hanson
+- 2023-10-20 — Weekend Release: Yearbooks, Posh Sausage and Sore Wrists — speakers: William Hanson, Jordan North
+- 2023-10-17 — Help I Don’t Know Where To Look — speakers: William Hanson, Jordan North
+- 2023-10-13 — Weekend Release: Olives, Beer and Bloopers — speakers: William Hanson, Jordan North
+- 2023-10-10 — Help I'm Stuck To The Fridge — speakers: William Hanson, Jordan North
+- 2023-10-06 — Weekend Release: A Flashback, a Diary and a Waffle Top — speakers: William Hanson, Jordan North
+- 2023-10-03 — Help I've Got Chocolatey Fingers — speakers: William Hanson, Jordan North
+- 2023-09-29 — Weekend Release: A Priest, An Australian, And A Secret Shopper — speakers: William Hanson, Jordan North
+- 2023-09-26 — Help That’s Not My Husband’s Bum — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-09-22 — Weekend Release: School Assembly Bangers — speakers: Jordan North, William Hanson
+- 2023-09-19 — Help I Tasted My Father-In-Law — speakers: William Hanson, Jordan North
+- 2023-09-15 — Weekend Release: Jane Boulton From Airline — speakers: Jane Boulton, William Hanson, Jordan North
+- 2023-09-12 — Help We Didn't Flinch At Felching — speakers: Felching William, William Hanson, Jordan North
+- 2023-09-07 — Weekend Release: Mystery Package — speakers: Ed Sheeran, William Hanson, Jordan North
+- 2023-09-05 — Help I Know Him From A Porno — speakers: William Hanson, Jordan North
+- 2023-09-01 — Weekend Release: Going Viral Down Under — speakers: William Hanson, Jordan North
+- 2023-08-29 — Help I’ve Been Pinched By A Ghost — speakers: William Hanson, Jordan North
+- 2023-08-25 — Weekend Release: Luxury Next Year? — speakers: William Hanson, Jordan North
+- 2023-08-22 — Help We're Live In Benidorm — speakers: Wendy North, William Hanson, Jordan North
+- 2023-08-18 — Weekend Release: Oliday From Ell — speakers: Grandma Glennis, William Hanson, Jordan North
+- 2023-08-15 — Help We've Entered Benidorm — speakers: William Hanson, Jordan North
+- 2023-08-11 — Weekend Release: A Picky Tea... Cha Cha Cha — speakers: William Hanson, Jordan North
+- 2023-08-08 — Help I Opened My Mum's Shoebox — speakers: William Hanson, Jordan North
+- 2023-08-04 — Weekend Release: Tits and Toast — speakers: Robbie Taylor Hunt, William Hanson, Jordan North
+- 2023-08-01 — Help I've Seen Your Member — speakers: Jane Boulton, William Hanson, Jordan North
+- 2023-07-28 — Weekend Release: The Dubonettes — speakers: William Hanson, Jordan North
+- 2023-07-25 — Help I've Been Rear Ended — speakers: William Hanson, Jordan North
+- 2023-07-21 — Weekend Release: It's A Q&A Spesh! — speakers: William Hanson, Jordan North
+- 2023-07-18 — Help My Dog Ate My Housemate's Dildo — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-07-14 — Weekend Release: The Pocketless Dressing Gown — speakers: William Hanson, Jordan North
+- 2023-07-11 — Help You're Being Demonstrative — speakers: William Hanson, Jordan North
+- 2023-07-07 — Weekend Release: Lee-dow or Lie-dow? — speakers: William Hanson, Jordan North
+- 2023-07-04 — Diva Espana: Help My Father-In-Law Got Pumped — speakers: Diva Espana Help My, Producer Ben, William Hanson, Jordan North
+- 2023-06-30 — Weekend Release: What Ever Happened To The Potato Peeler? — speakers: William Hanson, Jordan North
+- 2023-06-27 — Diva Espana: Help My Dad Lied About The Dog — speakers: Dad Lied, William Hanson, Jordan North
+- 2023-06-23 — Weekend Release: A Horny Haunting — speakers: William Hanson, Jordan North
+- 2023-06-20 — Diva Espana: Help They Won’t Pay Me Back — speakers: Diva Espana Help, William Hanson, Jordan North
+- 2023-06-16 — Weekend Release: The First Diva Espana Winner! — speakers: William Hanson, Jordan North
+- 2023-06-13 — Diva Espana: Help I Dusted Off Dusty — speakers: William Hanson, Jordan North
+- 2023-06-09 — Weekend Release: The Toasted Tampon — speakers: William Hanson, Jordan North
+- 2023-06-06 — Diva Espana: Help It's Your First Chance To Win — speakers: Diva Espana Help, William Hanson, Jordan North
+- 2023-06-05 — The ultimate G&Diva summer holiday in Benidorm! — speakers: Jordan North, William Hanson, Producer Benidorm
+- 2023-06-02 — Weekend Release: The Yorkshire Pudding Millionaire — speakers: William Hanson, Jordan North
+- 2023-05-30 — Help He’s a Gummy Bear — speakers: William Hanson, Jordan North
+- 2023-05-26 — Weekend Release: I’m A Widgie Man, Myself — speakers: William Hanson, Jordan North
+- 2023-05-23 — Help My Brother-In-Law's Coming On To Me — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-05-19 — Weekend Release: Polla De Burro — speakers: Polla De Burro, William Hanson, Jordan North
+- 2023-05-16 — Help I Saw My Boss’s Sex Tape — speakers: William Hanson, Jordan North
+- 2023-05-12 — Weekend Release: Shocked Into Dislocation — speakers: William Hanson, Jordan North
+- 2023-05-09 — Help I Need To Delete My Vinted — speakers: William Hanson, Jordan North
+- 2023-05-05 — William’s Surprise, Darling — speakers: William’s Surprise, Alex Polizzi, William Hanson, Jordan North
+- 2023-05-02 — Help My Pug's Got My Plug — speakers: William Hanson, Jordan North
+- 2023-04-28 — Weekend Release: Doctor Jordan North — speakers: Jordan North William, William Hanson, Jordan North
+- 2023-04-25 — Help I Got Frisky With The Grocer — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-04-21 — Weekend Release: Erika's Foot — speakers: Diva Erika, William Hanson, Jordan North
+- 2023-04-18 — Help My Steven's Got A Big Willy — speakers: William Hanson, Jordan North
+- 2023-04-14 — Weekend Release: The Boys Are Back In Town — speakers: William Hanson, Jordan North
+- 2023-04-11 — Help He’s Got A Donkey Cock — speakers: William Hanson, Jordan North
+- 2023-04-07 — Weekend Release: William Doesn’t Have a Wikipedia Page! — speakers: William Hanson, Jordan North
+- 2023-04-04 — Help I’ve Shagged My Boss’s Daughter — speakers: William Hanson, Jordan North
+- 2023-03-31 — Weekend Release: Top 5 Moments Countdown — speakers: William Hanson, Jordan North
+- 2023-03-28 — Help It’s Our 5th Birthday Livestream — speakers: William Hanson, Jordan North
+- 2023-03-24 — Weekend Release: A Handwritten Spesh — speakers: Welsh Stu, William Hanson, Jordan North
+- 2023-03-21 — Help There’s Something In The Butter — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-03-17 — Weekend Release: We’ve Penetrated The Sphinx — speakers: William Hanson, Jordan North
+- 2023-03-14 — Help I’m Handling Unexpected Plums — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-03-10 — Weekend Release: Vicar Tom is back! — speakers: William Hanson, Jordan North
+- 2023-03-07 — Help I've Had A Slaggy Summer — speakers: William Hanson, Jordan North
+- 2023-03-03 — Weekend Release: Trip To The Publishers — speakers: William Hanson, Jordan North
+- 2023-02-28 — Help I Massacred The Bed Sheets — speakers: William Hanson, Jordan North
+- 2023-02-24 — Weekend Release: Get Hard and Come Home — speakers: William Hanson, Jordan North
+- 2023-02-21 — Help My Friend Is In A Cult — speakers: William Hanson, Jordan North
+- 2023-02-17 — Weekend Release: Help us Vicar Tom! — speakers: Jordan North, Vicar Tom, William Hanson
+- 2023-02-14 — Help I’ve Got Lunch With An Earl — speakers: William Hanson, Jordan North
+- 2023-02-10 — Weekend Release: The Writers' Room — speakers: William Hanson, Jordan North
+- 2023-02-07 — Help There’s Pubes In My Pencil Case — speakers: William Hanson, Jordan North
+- 2023-02-03 — Weekend Release: The Potato Peeler Legacy — speakers: William Hanson, Jordan North
+- 2023-02-02 — It's Time To Reveal Ourselves — speakers: William Hanson, Jordan North
+- 2023-01-31 — Help I'm Scarred For Life — speakers: Producer Ben, William Hanson, Jordan North
+- 2023-01-27 — Weekend Release: Lube Wrestling — speakers: William Hanson, Jordan North
+- 2023-01-24 — Help I’m A Milk Thief — speakers: William Hanson, Jordan North
+- 2023-01-22 — Second Coming: Help There’s a Gay Ghost In My Bed — speakers: William Hanson, Jordan North
+- 2023-01-20 — Weekend Release: Bobsleigh Time — speakers: William Hanson, Jordan North
+- 2023-01-17 — Help The Gay Ghost is Back — speakers: William Hanson, Jordan North
+- 2023-01-13 — Weekend Release: Big Willy and Jord — speakers: William Hanson, Jordan North
+- 2023-01-10 — Help I'm Getting Too Old For This — speakers: William Hanson, Jordan North
+- 2022-12-20 — Help It's a Christmas Spesh — speakers: William Hanson, Jordan North
+- 2022-12-16 — Weekend Release: Thanks Baby — speakers: William Hanson, Jordan North
+- 2022-12-13 — Help I Found My Dad’s Thong — speakers: William Hanson, Jordan North
+- 2022-12-09 — Weekend Release: Love Is Not In The Air — speakers: kooky nan, William Hanson, Jordan North
+- 2022-12-06 — Help I Dropped My Knickers Outside Asda — speakers: Mary Poppins, William Hanson, Jordan North
+- 2022-12-02 — Weekend Release: Poppins Problems — speakers: Oliver Twist, William Hanson, Jordan North
+- 2022-11-29 — Help What Do I Buy My Boyfriend's Girlfriend — speakers: William Hanson, Jordan North
+- 2022-11-25 — Weekend Release: Feeling Flirty — speakers: William Hanson, Jordan North
+- 2022-11-22 — Help How Do I Deter My Mother-in-Law — speakers: William Hanson, Jordan North
+- 2022-11-17 — Help William’s Never Been To Greggs — speakers: William’s Never Been, William Hanson, Jordan North
+- 2022-11-15 — Help I Hate His Sex Music — speakers: William Hanson, Jordan North
+- 2022-11-11 — Weekend Release: William's Scallops — speakers: William Hanson, Jordan North
+- 2022-11-08 — Help There's A Man In My Bed — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-11-04 — Weekend Release: Wendy, Can I Borrow Your Potato Peeler? — speakers: Marco Polo, William Hanson, Jordan North
+- 2022-11-01 — Help I'm Bored of BeReal — speakers: Leaky Sue, William Hanson, Jordan North
+- 2022-10-28 — Weekend Release: Gu Pot Baby — speakers: William Hanson, Jordan North
+- 2022-10-25 — Help We Lost Touch — speakers: Ready Brek, William Hanson, Jordan North
+- 2022-10-21 — Weekend Release: Gu Pot Goodness — speakers: William Hanson, Jordan North
+- 2022-10-18 — Help I've Fallen Into Spidey's Trap — speakers: William Hanson, Jordan North
+- 2022-10-14 — Weekend Release: Hard On Message — speakers: William Hanson, Jordan North
+- 2022-10-11 — Help The Honeymoon Is Over — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-10-07 — Weekend Release: Jar Jar Binks — speakers: Jar Jar Binks William, William Hanson, Jordan North
+- 2022-10-04 — Help I Want To Touch Your Bump — speakers: William Hanson, Jordan North
+- 2022-09-30 — Weekend Release: Goodbye Producer Ben — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-09-27 — Help We've Had A Wedding — speakers: William Hanson, Jordan North
+- 2022-09-23 — Weekend Release: William's Wedding — speakers: William Hanson, Jordan North
+- 2022-09-20 — Help My Mum’s A Milf — speakers: William Hanson, Jordan North
+- 2022-09-13 — Remembering The Queen — speakers: Charles Iii, William Hanson, Jordan North
+- 2022-09-06 — Help What's an Aubergine Emoji? — speakers: Aubergine Emoji, William Hanson, Jordan North
+- 2022-09-02 — Weekend Release: Young Jordan — speakers: Producer Ben, Jordan North, William Hanson
+- 2022-08-30 — Help I Want To Chat You Up — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-08-26 — Weekend Release: Secret Golf Balls — speakers: William Hanson, Jordan North
+- 2022-08-23 — Help I’m Thinking with My Fanny — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-08-19 — Weekend Release: M'Gooch — speakers: William Hanson, Jordan North
+- 2022-08-16 — Help I Know A Vabber — speakers: William Hanson, Jordan North
+- 2022-08-12 — Weekend Release: Sir Judi Dench — speakers: Judi Dench, William Hanson, Jordan North
+- 2022-08-09 — Help I'm More Postman Than Post Box — speakers: William Hanson, Jordan North
+- 2022-08-05 — Weekend Release: Party Sausage — speakers: William Hanson, Jordan North
+- 2022-08-02 — Help My Brother's A Spanker — speakers: William Hanson, Jordan North
+- 2022-07-29 — Weekend Release: Pocket Rocket — speakers: William Hanson, Jordan North
+- 2022-07-26 — Help My Dad's a KFC Dribbler — speakers: William Hanson, Jordan North
+- 2022-07-12 — Help I'm An Anonymous Cruiser — speakers: Anonymous Cruiser, William Hanson, Jordan North
+- 2022-07-08 — Weekend Release: The Sexted Steamer — speakers: William Hanson, Jordan North
+- 2022-07-05 — Help There's a Tiff on the Tyne — speakers: William Hanson, Jordan North
+- 2022-07-01 — Weekend Release: Sorry Jesus — speakers: William Hanson, Jordan North
+- 2022-06-28 — Help There’s a Prince on FaceTime — speakers: William Hanson, Jordan North
+- 2022-06-24 — Weekend Release: Jordan’s Agastopic Black Hole — speakers: Jordan North, William Hanson
+- 2022-06-21 — Help We're Back In Edinburgh — speakers: William Hanson, Jordan North
+- 2022-06-17 — Weekend Release: Jordan’s Emergency Landing — speakers: William Hanson, Jordan North
+- 2022-06-14 — Help I Don't Want To Thank You — speakers: William Hanson, Jordan North
+- 2022-06-10 — Weekend Release: An Issue With A Tissue — speakers: William Hanson, Jordan North
+- 2022-06-07 — Help My Personal Trainer Made Me Cry — speakers: William Hanson, Jordan North
+- 2022-06-03 — Weekend Release: Platty Joob Spesh — speakers: William Hanson, Jordan North
+- 2022-05-31 — Help I'm Up In Space Ma'am — speakers: Calvin Harris, Diana Ross, William Hanson, Jordan North
+- 2022-05-27 — Weekend Release: Walking on Broken Dubonnet — speakers: Broken Dubonnet, William Hanson, Jordan North
+- 2022-05-24 — Help My Name's *****cock — speakers: William Hanson, Jordan North
+- 2022-05-20 — Weekend Release: Out Of Both Ends — speakers: William Hanson, Jordan North
+- 2022-05-17 — Help I'm Working From Rome — speakers: William Hanson, Jordan North
+- 2022-05-13 — Weekend Release: The Guinness Storehouse Tour — speakers: William Hanson, Jordan North
+- 2022-05-10 — Help We're Backstage in Belfast — speakers: William Hanson, Jordan North
+- 2022-05-06 — Weekend Release: Lads On Tour In Ireland — speakers: Sean Dyche, William Hanson, Jordan North
+- 2022-05-03 — Help I'm Flying First — speakers: William Hanson, Jordan North
+- 2022-04-29 — Weekend Release: Jordan’s Doppelgänger — speakers: Jordan North, William Hanson
+- 2022-04-26 — Help He's Left A Log — speakers: Jordan North, William Hanson
+- 2022-04-22 — Weekend Release: Jump Cut Jack — speakers: Jump Cut Jack, Producer Ben, William Hanson, Jordan North
+- 2022-04-19 — Help I've Lost My Dummy — speakers: William Hanson, Jordan North
+- 2022-04-15 — E-MERCH-ENCY — speakers: William Hanson, Jordan North
+- 2022-04-12 — Help It's Yours Sincerely — speakers: Yours Sincerely, William Hanson, Jordan North
+- 2022-04-08 — Weekend Release: Sending You To Sleep — speakers: William Hanson, Jordan North
+- 2022-04-05 — Help I've Been Hustled — speakers: Jordan North, William Hanson
+- 2022-04-01 — Weekend Release: Let's Get Steamy — speakers: Wendi North, William Hanson, Jordan North
+- 2022-03-29 — Help I Have Major Daddy Issues — speakers: William Hanson, Jordan North
+- 2022-03-25 — Weekend Release: Starting A Podcast Advice — speakers: William Hanson, Jordan North
+- 2022-03-22 — Help There's SPF All Over My Face — speakers: William Hanson, Jordan North
+- 2022-03-18 — Weekend Release: The Moon Under Water — speakers: William Hanson, Jordan North
+- 2022-03-15 — Help I'm All Tied Up — speakers: William Hanson, Jordan North
+- 2022-03-11 — Weekend Release: The Preview Review — speakers: William Hanson, Jordan North
+- 2022-03-08 — Help I've Farted In Pilates — speakers: Jordan North, William Hanson
+- 2022-03-04 — Weekend Release: Rowing Home with Jordan (And Producer Ben) — speakers: Producer Ben, Jordan North, William Hanson
+- 2022-03-01 — Help I'm Rowing Home — speakers: Abbey Clancy, William Hanson, Jordan North
+- 2022-02-25 — Weekend Release: Russell Kane — speakers: Russell Kane Russell Kane, Man Baggage, Evil Genius, William Hanson, Jordan North
+- 2022-02-22 — Help I Hate Your Coffee — speakers: William Hanson, Jordan North
+- 2022-02-18 — Weekend Release: Jordan's Diction — speakers: William Hanson, Jordan North
+- 2022-02-15 — Help I Need To Silence A Vegan — speakers: Jordan North, William Hanson
+- 2022-02-11 — Weekend Release: Producer Ben's Letter — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-02-08 — Help I Hate Your Dinner Party — speakers: William Hanson, Jordan North
+- 2022-02-04 — Weekend Release: Handwritten Loophole — speakers: William Hanson, Jordan North
+- 2022-02-01 — Help There's A Pirate At My Funeral — speakers: Producer Ben, William Hanson, Jordan North
+- 2022-01-28 — Weekend Release: Anonymous Widow — speakers: Anonymous Widow, William Hanson, Jordan North
+- 2022-01-25 — Help My In-Laws Have Seen My Fandango — speakers: William Hanson, Jordan North
+- 2022-01-21 — Weekend Release: Private Parts with Jamie Laing and Tom Lucy — speakers: Jamie Laing, Tom Lucy, William Hanson, Jordan North
+- 2022-01-18 — Help I've Been Caught With The Vicar — speakers: William Hanson, Jordan North
+- 2022-01-14 — Weekend Release: William's Unfair Dismissal — speakers: Unfair Dismissal Fresh, Tik Tok, William Hanson, Jordan North
+- 2022-01-11 — Help It's Series Infinity… And Beyond! — speakers: William Hanson, Jordan North
+- 2021-12-25 — Advent Calendar: It's Christmas! — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-24 — Advent Calendar: Emptying The Sack — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-23 — Advent Calendar: Christmas Dinners PB's Birthday and Receiving Presents — speakers: Advent Calendar, William Hanson, Jordan North, Producer Ben
+- 2021-12-22 — Advent Calendar: Return of the King — speakers: Advent Calendar, Jordan North, William Hanson
+- 2021-12-17 — An Advent Calendar Update — speakers: William Hanson, Jordan North
+- 2021-12-16 — Advent Calendar: Christmas TV — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-15 — Advent Calendar: Christmas Drinks — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-14 — Advent Calendar: Father Christmas — speakers: Advent Calendar, Producer Ben, William Hanson, Jordan North
+- 2021-12-13 — Advent Calendar: Christmas Nativity — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-12 — Advent Calendar: Christmas Decorations — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-11 — Advent Calendar: Secret Santa — speakers: Advent Calendar, Secret Santa, William Hanson, Jordan North
+- 2021-12-10 — Advent Calendar: Christmas Films — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-09 — Advent Calendar: Christmas Cards — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-08 — Advent Calendar: Work Christmas Party — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-07 — Advent Calendar: Christmas Songs — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-06 — Lads On Tour Announcement — speakers: Jordan North, William Hanson
+- 2021-12-06 — Advent Calendar: Christmas Lists — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-05 — Advent Calendar: Giving Presents — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-04 — Advent Calendar: Christmas Trees — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-03 — Advent Calendar: Mince Pies — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-02 — Advent Calendar: Christmas Jumpers — speakers: Advent Calendar, William Hanson, Jordan North
+- 2021-12-01 — Advent Calendar: Advent Calendars — speakers: Advent Calendar, Advent Calendars William Hanson, Jordan North, William Hanson
+- 2021-11-29 — The Help I Sexted My Boss Advent Calendar — speakers: William Hanson, Jordan North
+- 2021-10-19 — The Boys Are Back: Kinder Surprise — speakers: Kinder Bueno, Producer Ben, William Hanson, Jordan North
+- 2021-10-12 — The Boys Are Back: William And Jordan Are Rifting — speakers: William Hanson, Jordan North
+- 2021-09-21 — The Boys Are Back: We Don't Do Politi — speakers: William Hanson, Jordan North
+- 2021-09-10 — Weekend Release: Your Tour Questions Answered (And More…) — speakers: William Hanson, Jordan North
+- 2021-09-07 — Help I've Been Bonking In An Alley — speakers: William Hanson, Jordan North
+- 2021-09-03 — Weekend Release: Producer Ben's A Tree — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-08-31 — Help I Need To Cancel — speakers: William Hanson, Jordan North
+- 2021-08-27 — Weekend Release: Frank's Accent — speakers: William Hanson, Jordan North
+- 2021-08-24 — Help I Like It Salty (Cha Cha Cha) — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-08-20 — Weekend Release: You Know You're A G And Diva When… — speakers: William Hanson, Jordan North
+- 2021-08-17 — Help My Neighbour's Windows Need Some Pledge — speakers: William Hanson, Jordan North
+- 2021-08-13 — Weekend Release: Melon Plucker Update — speakers: Producer Ben, Mary Poppins, William Hanson, Jordan North
+- 2021-08-10 — Help It's The Final Biscuit — speakers: William Hanson, Jordan North
+- 2021-08-06 — Weekend Release: William's Diary Returns — speakers: Diary Returns, William Hanson, Jordan North
+- 2021-08-03 — Help Die Umwelt Ist Kaputt — speakers: William Hanson, Jordan North
+- 2021-07-30 — Weekend Release: William's Dating Profile — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-07-29 — Weekend Release: Expectations and Reality — speakers: William Hanson, Jordan North
+- 2021-07-27 — Help I’ve Been Given the Thumbs Up — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-07-23 — Weekend Release: Jordan's Book Club — speakers: William Hanson, Jordan North
+- 2021-07-20 — Help I've Snapped The D — speakers: William Hanson, Jordan North
+- 2021-07-16 — Weekend Release: James Hanson (William's Brother) — speakers: James Hanson, Producer Ben, William Hanson, Jordan North
+- 2021-07-13 — Help It's Me Or Your Nuts — speakers: William Hanson, Jordan North
+- 2021-07-09 — Weekend Release: William's New Friend — speakers: Christopher Biggins, William Hanson, Jordan North
+- 2021-07-06 — Help My Sister Thinks She's A Pornstar — speakers: William Hanson, Jordan North
+- 2021-07-02 — Weekend Release: Producer Ben's Paintbrush — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-06-29 — Help I've Got A Hole In One — speakers: William Hanson, Jordan North
+- 2021-06-25 — Help It's The Best Of Series 7 - Part Two — speakers: Mary Poppins, William Hanson, Jordan North
+- 2021-06-22 — Help It's The Best Of Series 7 - Part One — speakers: Barry Manilow, William Hanson, Jordan North
+- 2021-05-04 — Help It's The Pilot — speakers: William Hanson, Jordan North
+- 2021-04-30 — Weekend Release: 100th Episode Debrief — speakers: William Hanson, Jordan North
+- 2021-04-27 — Help It's Our Big 100th Episode Livestream Special — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-04-23 — Weekend Release: 100th Episode Planning — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-04-20 — Help I've Gone Viral — speakers: Jordan Joke, William Hanson, Jordan North
+- 2021-04-16 — Weekend Release: Losing My VirGINiDy — speakers: William Hanson, Jordan North
+- 2021-04-13 — Help I'm Moving To London — speakers: William Hanson, Jordan North
+- 2021-04-09 — Weekend Release: Pie In A Park — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-04-06 — Help My Mates Are Meeting In A Park — speakers: William Hanson, Jordan North
+- 2021-04-02 — Weekend Release: Census Results — speakers: William Hanson, Jordan North
+- 2021-03-30 — Help I'm A Thirteenth Wheel — speakers: William Hanson, Jordan North
+- 2021-03-26 — Weekend Release: Jordan's Snake Handler — speakers: William Hanson, Jordan North
+- 2021-03-23 — Help I'm Out Of A Man — speakers: William Hanson, Jordan North
+- 2021-03-19 — Weekend Release: Jordan's Fan Fic — speakers: Fan Fic William, William Hanson, Jordan North
+- 2021-03-16 — Help We Haven't Got A Plan — speakers: William Hannon, William Hanson, Jordan North
+- 2021-03-12 — Weekend Release: Inspirational Jordan — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-03-09 — Help I've Got A Wonky Clock — speakers: William Hanson, Jordan North
+- 2021-03-05 — Weekend Release: William's Diary Part II — speakers: William Hanson, Jordan North
+- 2021-03-02 — Help My Neighbours Are Common — speakers: William Hanson, Jordan North
+- 2021-02-26 — Weekend Release: William's Apology — speakers: William Hanson, Jordan North
+- 2021-02-23 — Help I've Left My Lube On The Side — speakers: William Hanson, Jordan North
+- 2021-02-19 — Weekend Release: Jordan's Safe Word — speakers: William Hanson, Jordan North
+- 2021-02-16 — Help I'm In A Man — speakers: Builder Mikey, William Hanson, Jordan North
+- 2021-02-12 — Weekend Release: William's Bit On The Side — speakers: Jonathan Vernon-Smith, William Hanson, Jordan North
+- 2021-02-09 — Help I'm A Boss Who's Been Sexted — speakers: William Hanson, Jordan North
+- 2021-02-05 — Weekend Release: William's Diary — speakers: William Hanson, Jordan North
+- 2021-02-02 — Help I Fancy My Twin Brother's Boyfriend — speakers: William Hanson, Jordan North
+- 2021-01-29 — Weekend Release: Jordan's Diary — speakers: William Hanson, Jordan North
+- 2021-01-26 — Help There's A Jumping Jet Behind Me — speakers: William Hanson, Jordan North
+- 2021-01-22 — Weekend Release: William's Big Release — speakers: Mary Poppins, Zizi Strallen, Cameron Mackintosh, William Hanson, Jordan North
+- 2021-01-19 — Help I Accidentally Sexted My Mother-In-Law — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-01-15 — Weekend Release: Doggy Style — speakers: Producer Ben, William Hanson, Jordan North
+- 2021-01-12 — Help We've Killed Manilow — speakers: Barry Manilow, Joe Wicks, Producer Ben, William Hanson, Jordan North
+- 2020-12-25 — 2020 Fistmas Special — speakers: William Hanson, Jordan North
+- 2020-12-22 — I'm A Celeb: The Reunion — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-12-05 — I'm A Celeb: Jordan North Is The King Of Our Castle — speakers: William Hanson, Jordan North
+- 2020-12-04 — I'm A Celeb: Elves, Celebrity Cyclone and Jordan’s Best Bits — speakers: Celebrity Cyclone, William Hanson, Jordan North
+- 2020-12-03 — I'm A Celeb: 120 Elephants, Kinder Bueno and Sam Thompson — speakers: Kinder Bueno, Sam Thompson, William Hanson, Jordan North
+- 2020-12-02 — I'm A Celeb: Castle Inn, I Will Survive and Jay Rodriguez — speakers: Castle Inn, Will Survive, Jay Rodriguez, William Hanson, Jordan North
+- 2020-12-01 — I'm A Celeb: Phantom Dribbler, Bye Bev and Scarlett Moffatt — speakers: Phantom Dribbler, Bye Bev, Scarlett Moffatt, William Hanson, Jordan North
+- 2020-11-30 — I'm A Celeb: Spit, Mutton and Joe Tasker — speakers: Joe Tasker, William Hanson, Jordan North
+- 2020-11-29 — I'm A Celeb: Week 2, Your Questions and Christopher Biggins — speakers: Christopher Biggins, Producer Ben, William Hanson, Jordan North
+- 2020-11-28 — I'm A Celeb: Privy Problems, Nessun Dorma and Matt Edmondson — speakers: Nessun Dorma, Matt Edmondson, William Hanson, Jordan North
+- 2020-11-27 — I'm A Celeb: Policeman, Halsey and Woody and Kleiny — speakers: William Hanson, Jordan North
+- 2020-11-26 — I'm A Celeb: Bye Bye Beard, Megashag and Special Guest — speakers: Jordan North, William Hanson
+- 2020-11-25 — I'm A Celeb: All That Jazz, Showering Shane and Pendleside Hospice — speakers: Jordan North, Shane Ritchie, William Hanson
+- 2020-11-24 — I'm A Celeb: Bev’s Book, Donna the Duck and Riyadh Khalaf — speakers: William Hanson, Jordan North
+- 2020-11-23 — I'm A Celeb: Royal Banquet, Camp Leader and Owain Wyn-Evans — speakers: William Hanson, Jordan North
+- 2020-11-22 — I'm A Celeb: Week 1, Luxury Items and Bev's Daughter Danielle — speakers: Luxury Items, Daughter Danielle, Producer Ben, William Hanson, Jordan North
+- 2020-11-21 — I'm A Celeb: Royal Confessions, Terror Troughs and Tony Blackburn — speakers: Tony Blackburn, William Hanson, Jordan North
+- 2020-11-20 — I'm A Celeb: Bare Foot Massage, Trapped Door and Nick Grimshaw — speakers: Bare Foot Massage, Nick Grimshaw, William Hanson, Jordan North
+- 2020-11-19 — I'm A Celeb: Bread and Butter, Nessa’s Tattoo and Jake Quickenden — speakers: Nessa’s Tattoo, Jake Quickenden, William Hanson, Jordan North
+- 2020-11-18 — I'm A Celeb: Frights Of The Round Table, Three Day Underwear and Katie Thistleton — speakers: Katie Thistleton, William Hanson, Jordan North
+- 2020-11-17 — I'm A Celeb: Happy Place, Happy Place, Turf Moor, Happy Place and Kerry Katona — speakers: Turf Moor, Kerry Katona, Vernon Kay, William Hanson, Jordan North
+- 2020-11-16 — I'm A Celeb: Vomit, Bev's Pockets and Jordan's Mum — speakers: Producer Ben, Mo Farah, William Hanson, Jordan North
+- 2020-11-10 — Help I Sexted My Boss Does I'm A Celebrity — speakers: William Hanson, Jordan North
+- 2020-11-09 — Help My Co-Host's Going Into The Castle — speakers: William Hanson, Jordan North
+- 2020-10-30 — Help It's The Best Of Series 5 - Part Two — speakers: William Hanson, Jordan North
+- 2020-10-27 — Help It's The Best of Series 5 - Part One — speakers: William Hanson, Jordan North
+- 2020-10-16 — Replay: Help We've Landed In Monaco — speakers: William Hanson, Jordan North
+- 2020-10-09 — Replay: Help I'm Marrying An American — speakers: Prince Harry, William Hanson, Jordan North
+- 2020-10-02 — Replay: Help There's A Gay Ghost In My Bed — speakers: William Hanson, Jordan North
+- 2020-09-01 — Help My Landlord Saw My Sex Toys — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-08-28 — Weekend Release: Wilfred and Justin Come Again — speakers: Justin Come Again, Producer Ben, William Hanson, Jordan North
+- 2020-08-25 — Help I've Got A Nude Of My Dad — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-08-21 — Weekend Release: Horizontal Refreshment — speakers: William Hanson, Jordan North
+- 2020-08-18 — Help My Brother's Girlfriend Is A Cheat — speakers: William Hanson, Jordan North
+- 2020-08-14 — Weekend Release: When Life Gives You Melons — speakers: Richard Pipkins, William Hanson, Jordan North
+- 2020-08-11 — Help I'm Mates With A Melon Plucker — speakers: William Hanson, Jordan North
+- 2020-08-07 — Weekend Release: William The Cover Star — speakers: Cover Star, William Hanson, Jordan North
+- 2020-08-04 — Help I've Got My Eye On My Optician — speakers: William Hanson, Jordan North
+- 2020-07-31 — Weekend Release: Ding-Dong Ditch — speakers: Ding-Dong Ditch William, William Hanson, Jordan North
+- 2020-07-28 — Help I Want A Rhino On My Face — speakers: William Hanson, Jordan North
+- 2020-07-24 — Weekend Release: Jordan's Elocution Lesson — speakers: William Hanson, Jordan North
+- 2020-07-21 — Help I've Found A Ring In My Room — speakers: Margaret Thatcher, William Hanson, Jordan North
+- 2020-07-17 — Weekend Release: Fortnum & Mason Afternoon Tea — speakers: William Hanson, Jordan North
+- 2020-07-14 — Help I Like It Thick Cut — speakers: William Hanson, Jordan North
+- 2020-07-10 — Weekend Release: William's Perfect — speakers: William Hanson, Jordan North
+- 2020-07-07 — Help I Need To Work On My Dipthongs — speakers: William Hanson, Jordan North
+- 2020-07-03 — Weekend Release: Our Jordan, My William — speakers: My William William, William Hanson, Jordan North
+- 2020-06-30 — Help My Folks Aren't Woke — speakers: William Hanson, Jordan North
+- 2020-06-26 — Weekend Release: Battenberg In The Park — speakers: William Hanson, Jordan North
+- 2020-06-23 — Help I Can't Get A Word In Edgeways — speakers: Jordan North, William Hanson, Producer Ben
+- 2020-06-19 — Weekend Release: Jordan's In My Dreams — speakers: William Hanson, Jordan North
+- 2020-06-16 — Help I've Got Wood In A Van — speakers: William Hanson, Jordan North
+- 2020-06-09 — Help I'm In Love With My Best Friend — speakers: William Hanson, Jordan North
+- 2020-06-02 — Help I'm Using William's Dongle — speakers: William Hanson, Jordan North
+- 2020-05-26 — Help I'm Googling Lube — speakers: Googling Lube, William Hanson, Jordan North
+- 2020-05-19 — Help My Parents Are Pampering My Boyfriend — speakers: William Hanson, Jordan North
+- 2020-05-12 — Help I Can't Handle The D — speakers: William Hanson, Jordan North
+- 2020-05-05 — Help I Sound Like I'm In A Tunnel — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-04-28 — Help There's A Delivery Up My Back Passage — speakers: William Hanson, Jordan North
+- 2020-04-21 — Help I Want To Use My Uvula — speakers: William Hanson, Jordan North
+- 2020-04-14 — Help We're In A Love Lockdown — speakers: William Hanson, Jordan North
+- 2020-04-07 — Help My Boyfriend Is A Dick — speakers: Dick William, William Hanson, Jordan North
+- 2020-03-31 — Help My Daughter Loves The D — speakers: Shawn Mendes, William Hanson, Jordan North
+- 2020-03-24 — Help It's The Best Of Series 4 — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-01-27 — Help We're Live In Leeds — speakers: Producer Ben, William Hanson, Jordan North
+- 2020-01-22 — Help We're On Tour In Bristol — speakers: William Hanson, Jordan North
+- 2020-01-20 — Help We're On Tour In Glasgow — speakers: William Hanson, Jordan North
+- 2019-12-17 — Help It's Fistmas At Jordan's — speakers: William Hanson, Jordan North
+- 2019-12-10 — Help We're Practically Perfect (In Every Way) — speakers: Mary Poppins, William Hanson, Jordan North
+- 2019-12-03 — Help There's Something Under Your Bed — speakers: William Hanson, Jordan North
+- 2019-11-26 — Help I’m Going Thin On Top — speakers: William Hanson, Jordan North
+- 2019-11-19 — Help I've Had A Ride On The Duchess Of Cornwall — speakers: William Hanson, Jordan North
+- 2019-11-14 — Jo from I Secretly Record My Boyfriend Calls The Help Hotline — speakers: William Hanson, Jordan North
+- 2019-11-12 — Help We're Live In Manchester — speakers: William Hanson, Jordan North
+- 2019-11-05 — Help I'm Surrounded By Naked Posh Boys — speakers: Producer Ben, William Hanson, Jordan North
+- 2019-10-29 — Help My Dad's Never Brushed His Teeth — speakers: Producer Ben, William Hanson, Jordan North
+- 2019-10-22 — Help I Want To Bail — speakers: William Hanson, Jordan North
+- 2019-10-15 — Help We're Getting Married At 50 — speakers: Getting Married, Luckily Jordan, William Hanson, Jordan North
+- 2019-10-11 — Jessica Fostekew Calls The Help Hotline — speakers: Jessica Fostekew, William Hanson, Jordan North
+- 2019-10-08 — Help How Do I Keep it Casual — speakers: Casual William, Marry Kill, Christopher Biggins, Producer Ben, William Hanson, Jordan North
+- 2019-10-03 — Riyadh Calls The Help Hotline — speakers: William Hanson, Jordan North
+- 2019-10-01 — Help There's A Gay Ghost In My Bed — speakers: William Hanson, Jordan North
+- 2019-09-24 — Help It's The Best Of Series 3 — speakers: William Hanson, Jordan North
+- 2019-06-18 — Help How Do I Leave The (WhatsApp) Group? — speakers: Producer Ben, William Hanson, Jordan North
+- 2019-06-13 — Owain Calls The Help Hotline — speakers: Owain Wyn Evans, Producer Ben, William Hanson, Jordan North
+- 2019-06-11 — Help What Happens In Monaco Doesn't Stay In Monaco — speakers: William Hanson, Jordan North
+- 2019-06-06 — Help It's The State Visit Extra Bits — speakers: William Hanson, Jordan North
+- 2019-06-04 — Help It's William's State Visit To Burnley — speakers: Donald Trump, William Hanson, Jordan North
+- 2019-05-31 — Taylor From Drunk Women Solving Crime Calls The Help Hotline — speakers: Producer Ben, Taylor Glenn, William Hanson, Jordan North
+- 2019-05-28 — Help Jordan Has An Idea — speakers: hair William, William Hanson, Jordan North
+- 2019-05-21 — Help My Best Man Wants To Go Commando — speakers: Producer Ben, William Hanson, Jordan North
+- 2019-05-14 — Help The Kids Aren't Alright — speakers: William Hanson, Jordan North
+- 2019-05-07 — Help Someone's Parked In My Diplomatic Parking Bay — speakers: William Hanson, Jordan North
+- 2019-05-03 — Marsha Calls The Help Hotline — speakers: Marsha Calls, William Hanson, Jordan North
+- 2019-04-30 — Help We're Backstage In Hackney — speakers: William Hanson, Jordan North
+- 2019-04-23 — Help I Don't Want Kids — speakers: William Hanson, Jordan North
+- 2019-04-16 — Help There's No Sauce For My Sausage — speakers: William Hanson, Jordan North
+- 2019-04-12 — Sophie Calls The Help Hotline — speakers: William Hanson, Jordan North
+- 2019-04-09 — Help We've Landed In Monaco — speakers: William Hanson, Jordan North
+- 2019-04-06 — William's Luxury Flatmate Calls The Help Hotline — speakers: William Hanson, Jordan North
+- 2019-04-02 — Help Do I Spit Or Swallow — speakers: William Hanson, Jordan North
+- 2019-03-29 — Joe Calls The Help Hotline — speakers: Joe Calls, William Hanson, Jordan North
+- 2019-03-26 — Help I Laid A Log In A Wood — speakers: William Hanson, Jordan North
+- 2019-03-19 — Help My Neighbour's Got A Big Package — speakers: William Hanson, Jordan North
+- 2019-03-15 — Luca Calls The Help Hotline — speakers: William Hanson, Jordan North
+- 2019-03-12 — Help My Butcher Has Taken Me Up The Asda — speakers: William Hanson, Jordan North
+- 2019-03-10 — Doctor Simon Calls The Help Hotline — speakers: Simon Calls, William Hanson, Jordan North
+- 2019-03-05 — Help My Gran Has No Filter — speakers: William Hanson, Jordan North
+- 2019-02-26 — Help It's The Best Of Series 2 — speakers: alter ego, William Hanson, Jordan North
+- 2018-12-25 — Help It's Christmas Day — speakers: William Hanson, Jordan North
+- 2018-12-18 — Help We're Live In Camden — speakers: William Hanson, Jordan North
+- 2018-12-11 — Help I've Photocopied My Bum — speakers: William Hanson, Jordan North
+- 2018-12-04 — Help I'm Calling From The Bog — speakers: William Hanson, Jordan North
+- 2018-11-27 — Help I've Pulled On A Pendalino — speakers: William Hanson, Jordan North
+- 2018-11-20 — Help I Sneaked In A Sandwich — speakers: William Hanson, Jordan North
+- 2018-11-13 — Help I've Replied All — speakers: William Hanson, Jordan North
+- 2018-11-06 — Help I'm Smuggling A Budgie — speakers: William Hanson, Jordan North
+- 2018-10-30 — Help It's Halloween — speakers: William Hanson, Jordan North
+- 2018-10-23 — Help I'm Going Up The West End — speakers: William Hanson, Jordan North
+- 2018-10-16 — Help My Cat Ate A Condom — speakers: William Hanson, Jordan North
+- 2018-10-09 — Help We're Moving In — speakers: William Hanson, Jordan North
+- 2018-10-02 — Help I'm A Netflix Cheat — speakers: William Hanson, Jordan North
+- 2018-09-25 — Help I'm A Fresher — speakers: William Hanson, Jordan North
+- 2018-09-18 — Help I Live Next Door To A Cougar — speakers: William Hanson, Jordan North
+- 2018-09-11 — Help I Deep Liked Your Ex — speakers: William Hanson, Jordan North
+- 2018-09-04 — Help We're Back — speakers: William Hanson, Jordan North
+- 2018-08-21 — Help It's The Best Of Series 1 — speakers: William Hanson, Jordan North
+- 2018-07-03 — Help It’s Time For Takeoff — speakers: William Hanson, Jordan North
+- 2018-06-26 — Help I’m Having A BBQ — speakers: William Hanson, Jordan North
+- 2018-06-19 — Help I Had Sex On TV — speakers: William Hanson, Jordan North
+- 2018-06-12 — Help I’ve Flown The Nest — speakers: William Hanson, Jordan North
+- 2018-06-05 — Help I Can’t Stand Football — speakers: William Hanson, Jordan North
+- 2018-05-29 — Help I’m Off To Benidorm — speakers: William Hanson, Jordan North
+- 2018-05-22 — Help I Rinsed The Work Drinks — speakers: Thankfully William, William Hanson, Jordan North
+- 2018-05-15 — Help I’m Marrying An American — speakers: William Hanson, Jordan North
+- 2018-05-08 — Help I Don’t Wash My Gym Kit — speakers: Gym Kit William, William Hanson, Jordan North
+- 2018-05-01 — Help I Don’t Want To Split The Bill — speakers: Bill William, William Hanson, Jordan North
+- 2018-04-24 — Help I Hate My Flatmate — speakers: William Hanson, Jordan North
+- 2018-04-17 — Help I Danced Down The Wedding Aisle — speakers: William Hanson, Jordan North
+- 2018-04-10 — Help I Went To A Job Interview Drunk — speakers: William Hanson, Jordan North
+- 2018-04-03 — Help I Dated Two Guys In An Hour — speakers: William Hanson, Jordan North
+- 2018-03-27 — Help I Tweeted A Dick Pic — speakers: Dick Pic William, William Hanson, Jordan North
+- 2018-03-20 — Help I Was Sick On A First Date — speakers: William Hanson, Jordan North
+- 2018-03-13 — Preview — speakers: William Hanson, Jordan North

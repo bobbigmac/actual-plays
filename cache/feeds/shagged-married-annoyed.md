@@ -2,9 +2,10 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-02-19T03:16:14+00:00`
-- last_modified: `Wed, 18 Feb 2026 19:41:42 GMT`
-- max_episodes_per_feed: `200`
+- fetched_at: `2026-02-19T19:10:27+00:00`
+- checked_at: `2026-02-19T19:10:27+00:00`
+- last_modified: `Thu, 19 Feb 2026 11:14:08 GMT`
+- max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
 ```json
@@ -16,7 +17,16 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-19T03:16:14+00:00",
+  "fetched_at": "2026-02-19T19:10:27+00:00",
+  "owners": [
+    "Chris Ramsey",
+    "Rosie Ramsey"
+  ],
+  "common_speakers": [],
+  "categories": [
+    "comedy/british",
+    "life/relationships"
+  ],
   "episodes": [
     {
       "key": "c538928de3c71f0d8e7a4e2e79c61bc316316238",
@@ -27,11 +37,14 @@
       "image_url": "https://megaphone.imgix.net/podcasts/44c3aa4a-0c1d-11f1-aa14-c39074282dfb/image/d2b94f654e14dbb9502cc69b06f8dbbb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5975992408.mp3?updated=1771346291",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2540",
       "speakers": [
         "Chris McCausland",
         "Anonymous Chris",
-        "Chris McCausland Keep"
+        "Chris McCausland Keep",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -48,8 +61,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5338778099.mp3?updated=1770815277",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3607",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "moon",
         "rosie",
@@ -65,9 +82,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/7851157c-0679-11f1-85d9-cb9958c3dafb/image/59fc89bd59ff9f2ed930d5e61b754018.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2403504256.mp3?updated=1770726673",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2393",
       "speakers": [
-        "Fatiha El-Ghorri"
+        "Fatiha El-Ghorri",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -84,8 +104,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4025331734.mp3?updated=1770225550",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3913",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "vampire",
         "slop",
@@ -102,10 +126,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/ce7ba966-00f8-11f1-a2b5-f75a8213a7aa/image/81e44c2f54d00e4819f714a9527df50b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3853934855.mp3?updated=1770121173",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2571",
       "speakers": [
         "Mo Gilligan",
-        "Babatunde Aléshé"
+        "Babatunde Aléshé",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -121,9 +148,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1860411101.mp3?updated=1769699595",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3339",
       "speakers": [
-        "fart medley"
+        "fart medley",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "rosie",
@@ -143,9 +173,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/f3995c0e-fb74-11f0-9597-bfcbddbda06f/image/7d614125c9a462a585099820576e0322.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7222485837.mp3?updated=1769522989",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2785",
       "speakers": [
-        "Tom Davis"
+        "Tom Davis",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -161,9 +194,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4337666148.mp3?updated=1769092018",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3949",
       "speakers": [
-        "Carl Hutchinson"
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "play",
@@ -182,10 +218,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/25958c16-f54c-11f0-860e-97ded9f24c04/image/4a5557113d50b57493a4b0006a4a8c37.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3973804619.mp3?updated=1768838079",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3310",
       "speakers": [
         "Joel Dommett",
-        "Ben Shepherd"
+        "Ben Shepherd",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -202,8 +241,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9020110549.mp3?updated=1768506094",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3856",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "level",
         "shagger"
@@ -218,10 +261,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/a2330960-f08d-11f0-9422-0fdc10b3a237/image/7cae0bbcce6d683555083758aa1ab26f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3756365564.mp3?updated=1768316161",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2900",
       "speakers": [
         "Jordan North",
-        "William Hanson"
+        "William Hanson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -240,8 +286,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9299326680.mp3?updated=1767887502",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3899",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "dance",
         "injury",
@@ -259,9 +309,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/b6dca8c8-eb22-11f0-a214-ffea54dd45e4/image/effda5135d1c7653cd2faa251b5a9e9c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4022513464.mp3?updated=1767720486",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2800",
       "speakers": [
-        "Bridget Christie"
+        "Bridget Christie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -278,9 +331,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/acbc280a-e717-11f0-8798-1b1a065932dd/image/97b68451fdc451ab09b18a69e98311e9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4404110813.mp3?updated=1767275646",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2986",
       "speakers": [
-        "Belinda Beef"
+        "Belinda Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bumper",
@@ -297,10 +353,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/8fd1592a-e43a-11f0-8b5a-b7635a393ee3/image/bf18c2a5fb6974141e371255271082be.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1814188606.mp3?updated=1766960848",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2539",
       "speakers": [
         "John Robins",
-        "Twelve Drinks"
+        "Twelve Drinks",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -317,13 +376,16 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1d127dea-df32-11f0-be12-bb4778dd3327/image/03d5448ede153ec4323250ee65e0d915.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3098270020.mp3?updated=1766407865",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2830",
       "speakers": [
         "Carl Hutchinson",
         "Chris Ramey",
         "Follow Carl",
         "Instagram carl hutchinson comedy",
-        "Catch Carl"
+        "Catch Carl",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "christmas",
@@ -341,8 +403,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/298b170e-df31-11f0-a7fb-23f10cee9a5c/image/1385b291a2f2f16e3ac99a062dde4e16.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7895154068.mp3?updated=1766407306",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3474",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "christmas",
         "anonymous",
@@ -359,8 +425,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1498021381.mp3?updated=1766054369",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3677",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bath",
         "crisp"
@@ -375,10 +445,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/7644f71e-da8a-11f0-8d13-433b71f4b659/image/c3381b525760c559b4f7b4939774c840.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2822775124.mp3?updated=1765895614",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2121",
       "speakers": [
         "Vogue Williams",
-        "Joanne McNally"
+        "Joanne McNally",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -395,8 +468,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8346067376.mp3?updated=1765483122",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3359",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "judge",
         "separately"
@@ -411,9 +488,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/58763814-d45a-11f0-924e-4f75fdfa3c8b/image/2948f9599285b2a27128eaa1386b5bf3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6109484104.mp3?updated=1765216146",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2075",
       "speakers": [
-        "Ania Magliano"
+        "Ania Magliano",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -430,8 +510,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8197886398.mp3?updated=1764867478",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3369",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "heavy"
       ]
@@ -445,10 +529,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/4f08a944-cf99-11f0-addd-7343fb177279/image/5a9082028cb82f0fba82e88af733222d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8849757321.mp3?updated=1764693405",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2938",
       "speakers": [
         "Russell Howard",
-        "Plus Russell"
+        "Plus Russell",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -465,9 +552,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7775845834.mp3?updated=1764178562",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3451",
       "speakers": [
-        "Geordie Porn"
+        "Geordie Porn",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "chris",
@@ -485,11 +575,14 @@
       "image_url": "https://megaphone.imgix.net/podcasts/ed7e059e-ca10-11f0-990c-ef4818bbd0e7/image/99eeeef3edb6c42014b508f8e4ff9b15.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3077284291.mp3?updated=1764086226",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2856",
       "speakers": [
         "Joanne McNally",
         "com Joanne",
-        "Vogue Williams"
+        "Vogue Williams",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -506,8 +599,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2691989862.mp3?updated=1763643721",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3711",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "whatsapp",
         "group",
@@ -523,9 +620,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/f7f642f6-c3a9-11f0-a7ab-ab8f2e9e7873/image/58396372734b0a491acb81a02f16199a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3693718630.mp3?updated=1763383193",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3143",
       "speakers": [
-        "Mark Wright"
+        "Mark Wright",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -542,9 +642,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8695590983.mp3?updated=1763039384",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3623",
       "speakers": [
-        "Aesop’s Fables"
+        "Aesop’s Fables",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "hangover",
@@ -560,10 +663,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/46a574a2-bf0f-11f0-b508-6f4eef3a0b44/image/bd4398d9fb5ce0734f1757a61f2b85dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3201382276.mp3?updated=1762878200",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2321",
       "speakers": [
         "Harriet Kemsley",
-        "Rosie Ramsey"
+        "Rosie Ramsey",
+        "Chris Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -580,8 +685,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7936979232.mp3?updated=1762451021",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3813",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "leave"
       ]
@@ -595,9 +704,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1e4f54b0-b8d8-11f0-8fff-1bf6c3779f2c/image/b03d8386311dc97a168d26276bca0f76.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9665530407.mp3?updated=1762190738",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2247",
       "speakers": [
-        "Sarah Merrygold"
+        "Sarah Merrygold",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -615,8 +727,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2484856175.mp3?updated=1761843781",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3847",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "halloween",
         "special",
@@ -633,10 +749,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/56f686b0-b42f-11f0-a789-7719486d5b26/image/26397f4de20931b6becb3e76ee7d7fec.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6177576548.mp3?updated=1761678441",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2376",
       "speakers": [
         "Phil Ellis",
-        "Bath Mat"
+        "Bath Mat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -653,8 +772,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6171653921.mp3?updated=1761233996",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3778",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "airport",
         "pints",
@@ -671,10 +794,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/f7359edc-aea2-11f0-8ea6-334fb2933113/image/207953a1e36158b748986d6417ffc530.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1131900941.mp3?updated=1761068637",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2371",
       "speakers": [
         "Little Mix",
-        "YouTube Leigh-Anne"
+        "YouTube Leigh-Anne",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -692,9 +818,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5701527517.mp3?updated=1760628335",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3725",
       "speakers": [
-        "Annoyed Chris"
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "porn",
@@ -711,11 +840,14 @@
       "image_url": "https://megaphone.imgix.net/podcasts/754e27a6-a905-11f0-bf36-838d72389bca/image/5e1a04733829078b2a4cfa88b8678a7c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1931124914.mp3?updated=1760452501",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2925",
       "speakers": [
         "Al Murray",
         "James Holland",
-        "Bullshit Learn"
+        "Bullshit Learn",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -731,8 +863,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6495160930.mp3?updated=1760027844",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3284",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "weaponized",
         "incompetence"
@@ -747,11 +883,14 @@
       "image_url": "https://megaphone.imgix.net/podcasts/85e311b4-a3b3-11f0-b453-b3df44b3ccdd/image/c286f5b01ca63fb42c14181cb27b6657.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6652110555.mp3?updated=1759866148",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3102",
       "speakers": [
         "Greg Davies",
         "Never Mind",
-        "Sky Max"
+        "Sky Max",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -768,9 +907,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8462314313.mp3?updated=1759411487",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4104",
       "speakers": [
-        "Toenail Barbie"
+        "Toenail Barbie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "toenail",
@@ -786,9 +928,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/cf8396e0-9e0e-11f0-8445-bf19892eceaf/image/326650d6c787a55ce6619f746c2ef27d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9485054039.mp3?updated=1759247674",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2954",
       "speakers": [
-        "Sam Ryder"
+        "Sam Ryder",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -804,8 +949,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4507079390.mp3?updated=1758811031",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3937",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "siri",
         "divorce"
@@ -820,9 +969,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/c56044d8-987d-11f0-8fb3-33287ae7db12/image/382c992c38c61d1f6d88e3b860567392.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8903610858.mp3?updated=1758810094",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3205",
       "speakers": [
-        "Jordan Stephens"
+        "Jordan Stephens",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "anonymous",
@@ -839,8 +991,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8864173097.mp3?updated=1758211980",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3916",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "zodiac",
         "sign"
@@ -855,8 +1011,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8282463490.mp3?updated=1757604974",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3859",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "great",
         "north",
@@ -874,9 +1034,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5108227772.mp3?updated=1756973116",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3692",
       "speakers": [
-        "Annoyed Rosie"
+        "Annoyed Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -889,9 +1052,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7892151449.mp3?updated=1756377694",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3909",
       "speakers": [
-        "Je Suis Belligerent"
+        "Je Suis Belligerent",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "suis",
@@ -907,8 +1073,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1c463226-835c-11f0-8081-13853f1e5a0a/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2023982824.mp3?updated=1756310352",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3481",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bumper",
         "summer",
@@ -925,8 +1095,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1124332290.mp3?updated=1755704210",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4103",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "shepherd",
         "breakfast"
@@ -941,9 +1115,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2140df6e-7dae-11f0-9ef3-fb678178a8fa/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5390914770.mp3?updated=1755685460",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2533",
       "speakers": [
-        "Becky Beef"
+        "Becky Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bumper",
@@ -960,10 +1137,13 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4047918536.mp3?updated=1755187902",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3711",
       "speakers": [
         "Sister Kate",
-        "Carl Hutchinson"
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "pack",
@@ -980,8 +1160,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1a602e5a-7851-11f0-8661-1f77d5cb6060/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4412347918.mp3?updated=1755096262",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2590",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bumper",
         "summer",
@@ -997,8 +1181,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8636262006.mp3?updated=1754491611",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3931",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "people"
       ]
@@ -1012,8 +1200,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/585af144-72ad-11f0-bd32-036a44386b3b/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8176842428.mp3?updated=1754475913",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2983",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bumper",
         "summer",
@@ -1029,9 +1221,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6613370907.mp3?updated=1753932096",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3657",
       "speakers": [
-        "Annoyed Chris"
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "mammal"
@@ -1046,9 +1241,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/c1f1347e-6baa-11f0-aefd-ab40b6709e0b/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3150914077.mp3?updated=1753938941",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2288",
       "speakers": [
-        "Mrs Dingleberry"
+        "Mrs Dingleberry",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bumper",
@@ -1065,8 +1263,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3395583918.mp3?updated=1753968562",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3696",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "inflatable",
         "doughnut"
@@ -1081,9 +1283,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/253bddae-6737-11f0-b932-8be7d3becd96/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2574795620.mp3?updated=1753968292",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2987",
       "speakers": [
-        "Rosie Mamsey"
+        "Rosie Mamsey",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bumper",
@@ -1100,8 +1305,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9507055463.mp3?updated=1753946067",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3656",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "shower",
         "flight",
@@ -1117,10 +1326,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/27bebae4-6186-11f0-a4cb-d70ad6768850/image/775bc5d1a7189d53d68dbe97a2021b32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1545535456.mp3?updated=1752752755",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2938",
       "speakers": [
         "Ed Sheeran",
-        "Jason Manford"
+        "Jason Manford",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bumper",
@@ -1137,10 +1349,13 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1848484435.mp3?updated=1752752786",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3783",
       "speakers": [
         "Annoyed Rosie",
-        "Twin Theory"
+        "Twin Theory",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "youtube"
@@ -1155,9 +1370,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1371419670.mp3?updated=1752752824",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3782",
       "speakers": [
-        "Annoyed Chris"
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "wedding",
@@ -1175,8 +1393,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6701751252.mp3?updated=1751271834",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4077",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "percent",
         "love"
@@ -1191,9 +1413,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1479222249.mp3?updated=1750427730",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3365",
       "speakers": [
-        "Download Saily"
+        "Download Saily",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "barbecue",
@@ -1209,8 +1434,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1376651559.mp3?updated=1750773148",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3599",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "villa"
       ]
@@ -1224,9 +1453,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8243321873.mp3?updated=1750773242",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3366",
       "speakers": [
-        "Shandy Alarm"
+        "Shandy Alarm",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "shandy",
@@ -1242,8 +1474,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5005585923.mp3?updated=1748551873",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3670",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1255,10 +1491,13 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7173597139.mp3?updated=1747930558",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3671",
       "speakers": [
         "Chip Pan",
-        "Download Saily"
+        "Download Saily",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "welephant",
@@ -1274,8 +1513,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3021358091.mp3?updated=1747329323",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3761",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "book",
         "awards",
@@ -1292,9 +1535,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5298254982.mp3?updated=1746726786",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3472",
       "speakers": [
-        "Chat GPT"
+        "Chat Gpt",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -1307,10 +1553,13 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2677565564.mp3?updated=1746117447",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3587",
       "speakers": [
         "Pump Guy",
-        "Barry Beef"
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "beer",
@@ -1326,8 +1575,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4103895470.mp3?updated=1745512511",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3613",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1339,12 +1592,15 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9459243684.mp3?updated=1744876884",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3752",
       "speakers": [
         "Pollen Time",
         "Annoyed Rosie",
         "Katy Perry",
-        "Download Saily"
+        "Download Saily",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "pollen",
@@ -1360,8 +1616,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9860190556.mp3?updated=1744212469",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3996",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "whats"
       ]
@@ -1375,8 +1635,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5531352866.mp3?updated=1743671966",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3678",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "voila"
       ]
@@ -1390,9 +1654,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8088914869.mp3?updated=1743087474",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3926",
       "speakers": [
-        "Chicken Nuggets"
+        "Chicken Nuggets",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "auxiliary",
@@ -1409,10 +1676,13 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4059096028.mp3?updated=1742494415",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3730",
       "speakers": [
         "Bake Off",
-        "Barry Beef"
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "star",
@@ -1428,8 +1698,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8802206319.mp3?updated=1741801650",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3949",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "spar"
       ]
@@ -1443,9 +1717,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9826596576.mp3?updated=1741283277",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3905",
       "speakers": [
-        "Rosie Roulette"
+        "Rosie Roulette",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "rosie",
@@ -1461,8 +1738,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8153200037.mp3?updated=1740995708",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3728",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "mover"
       ]
@@ -1476,8 +1757,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5679233186.mp3?updated=1740069162",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3671",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bath"
       ]
@@ -1491,8 +1776,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5938015909.mp3?updated=1739471900",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3738",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "pity",
         "party"
@@ -1507,8 +1796,12 @@
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5195745520.mp3?updated=1738856964",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3393",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "blue",
         "belt"
@@ -1523,9 +1816,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/16fedcac-e21f-11ef-ac77-fb92cd552537/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3088560555.mp3?updated=1738686694",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3617",
       "speakers": [
-        "Vasectomy Guy"
+        "Vasectomy Guy",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "vasectomy"
@@ -1540,9 +1836,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1764dfc0-e21f-11ef-ac77-a7357e10edac/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8337214225.mp3?updated=1738686803",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4153",
       "speakers": [
-        "Robin Ramsey"
+        "Robin Ramsey",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "louse",
@@ -1558,8 +1857,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/17bddd8c-e21f-11ef-ac77-b306f98e4c80/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2119546087.mp3?updated=1740480457",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3556",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1571,8 +1874,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1816c0f0-e21f-11ef-ac77-dbf0f0029d09/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5902829044.mp3?updated=1738688313",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3534",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "warhammer"
       ]
@@ -1586,8 +1893,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/186c5060-e21f-11ef-ac77-3f1a17bbe488/image/8a14292871c56005776410b99e7820a5.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9941329491.mp3?updated=1738688465",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3942",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1599,8 +1910,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/18c118fc-e21f-11ef-ac77-2354d8d44979/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5822829080.mp3?updated=1738686046",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3647",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "boil",
         "bite"
@@ -1615,8 +1930,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/19188268-e21f-11ef-ac77-a3fa032e7ac3/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7945664637.mp3?updated=1738686280",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3733",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1628,8 +1947,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/196ebaa2-e21f-11ef-ac77-331c43649616/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5914792467.mp3?updated=1738686461",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3509",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1641,9 +1964,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/19c5d7e2-e21f-11ef-ac77-9375ea5d7285/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7135086980.mp3?updated=1738686638",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3779",
       "speakers": [
-        "Would Rosie Eat"
+        "Would Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "phant"
@@ -1658,8 +1984,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1a1d7d8a-e21f-11ef-ac77-0b3f8f7c1d16/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1237677759.mp3?updated=1738746076",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3517",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -1671,8 +2001,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1a9d0898-e21f-11ef-ac77-ef3129768b75/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4177195812.mp3?updated=1739176313",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3224",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "itchy"
       ]
@@ -1686,8 +2020,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1af4d62c-e21f-11ef-ac77-57bbab7a0a61/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8298758222.mp3?updated=1740480652",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3438",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "blackhead",
         "bullet"
@@ -1702,9 +2040,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1b4a90da-e21f-11ef-ac77-4baa76319807/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7392793378.mp3?updated=1739176498",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3514",
       "speakers": [
-        "Rosie Eat"
+        "Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -1717,9 +2058,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1ba1c08a-e21f-11ef-ac77-b7ece8aecd48/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9507779186.mp3?updated=1739176969",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3946",
       "speakers": [
-        "Rosie Eat"
+        "Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "super"
@@ -1734,8 +2078,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1bf8cbaa-e21f-11ef-ac77-e3345550a143/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7661050944.mp3?updated=1739177131",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3700",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "churros"
       ]
@@ -1749,9 +2097,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1c4cd1dc-e21f-11ef-ac77-2fe602e1e9ec/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6513585811.mp3?updated=1739177677",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3662",
       "speakers": [
-        "Would Rosie Eat"
+        "Would Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "pointless"
@@ -1766,10 +2117,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1ca46da2-e21f-11ef-ac77-bfcd71bfdf73/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794151232.mp3?updated=1739177869",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3241",
       "speakers": [
         "Rake Away",
-        "Good Vibes"
+        "Good Vibes",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -1782,9 +2136,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1cf8b97a-e21f-11ef-ac77-8712056a19b4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5428196268.mp3?updated=1739178085",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3506",
       "speakers": [
-        "Rosie Eat"
+        "Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "takeaway",
@@ -1800,10 +2157,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1d4d543a-e21f-11ef-ac77-5b2139679f3c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8110533341.mp3?updated=1739178836",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3689",
       "speakers": [
         "Rosie Eat",
-        "Would Rosie Eat"
+        "Would Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -1816,10 +2176,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1da1b1a6-e21f-11ef-ac77-d7278cb8836f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3699916302.mp3?updated=1739178883",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3763",
       "speakers": [
         "Rosie Eat",
-        "Plus Beefs"
+        "Plus Beefs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "little",
@@ -1835,9 +2198,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1df944ca-e21f-11ef-ac77-734c71363e9f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6790582601.mp3?updated=1739179260",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3327",
       "speakers": [
-        "Rosie Eat"
+        "Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "christember"
@@ -1852,9 +2218,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1e4ccd02-e21f-11ef-ac77-0333087df303/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2955657311.mp3?updated=1739179475",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3764",
       "speakers": [
-        "Would Rosie Eat"
+        "Would Rosie Eat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "pedalo",
@@ -1870,10 +2239,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1ea36cde-e21f-11ef-ac77-3bb2d03429c6/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8743169435.mp3?updated=1740653770",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3602",
       "speakers": [
         "Rosie Eat",
-        "Lucrative Sponsor"
+        "Lucrative Sponsor",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "rosie"
@@ -1888,8 +2260,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1efbf6ba-e21f-11ef-ac77-27783a8e649e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9867359542.mp3?updated=1739179591",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3771",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "ninth",
         "hour"
@@ -1904,8 +2280,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1f5519a2-e21f-11ef-ac77-778433250088/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3689739220.mp3?updated=1739179794",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4055",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "industrial",
         "slime",
@@ -1921,8 +2301,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/1fadd682-e21f-11ef-ac77-7364536b0622/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8781548866.mp3?updated=1739180235",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3618",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "fellas"
       ]
@@ -1936,8 +2320,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/20055cea-e21f-11ef-ac77-1f332f6ed5d9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8851120550.mp3?updated=1739180435",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2568",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "office",
         "reply"
@@ -1952,9 +2340,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/205c1a12-e21f-11ef-ac77-17e4ecfbbd98/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1967432013.mp3?updated=1739180665",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3627",
       "speakers": [
-        "Carl Hutchinson"
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "prospector",
@@ -1970,10 +2361,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/20b21e80-e21f-11ef-ac77-fb08fb88ddc9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7065441304.mp3?updated=1739180957",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3311",
       "speakers": [
         "Pie Fister",
-        "Mark Whalberg"
+        "Mark Whalberg",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "fister"
@@ -1988,8 +2382,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2109a33a-e21f-11ef-ac77-afde5872310c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6953241675.mp3?updated=1739180989",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3471",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "robaldo"
       ]
@@ -2003,10 +2401,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/215f7d00-e21f-11ef-ac77-87a74ab3e804/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3178688635.mp3?updated=1740581531",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3649",
       "speakers": [
         "Annoyed Chris",
-        "John Barnes"
+        "John Barnes",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "head"
@@ -2021,8 +2422,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/21e07b8a-e21f-11ef-ac77-f7bcd088c1dc/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9851841139.mp3?updated=1740582323",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3677",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2034,8 +2439,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/22347b2c-e21f-11ef-ac77-4f27ce2cb15a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8925658286.mp3?updated=1740582721",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3846",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2047,9 +2456,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/22fc2bc2-e21f-11ef-ac77-6bab12a01522/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213682575.mp3?updated=1740583253",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3911",
       "speakers": [
-        "Fox Blocked"
+        "Fox Blocked",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -2062,8 +2474,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2373b444-e21f-11ef-ac77-a3d5e7b1ec88/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8166894142.mp3?updated=1740583886",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3500",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "street",
         "meet"
@@ -2078,8 +2494,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/23ee9b6e-e21f-11ef-ac77-a32d4e2a2870/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3285493176.mp3?updated=1740651500",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4103",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "summer"
       ]
@@ -2093,8 +2513,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/24498ed4-e21f-11ef-ac77-330f108c163a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2209875251.mp3?updated=1740654099",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3526",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2106,8 +2530,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/24a1520e-e21f-11ef-ac77-9f4666ff0c34/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1995928010.mp3?updated=1740655658",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4000",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "rumour"
       ]
@@ -2121,8 +2549,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/24f708c0-e21f-11ef-ac77-13d002135f73/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7392437382.mp3?updated=1740654870",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3603",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "gasolina"
       ]
@@ -2136,9 +2568,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/254d44f6-e21f-11ef-ac77-e77d05d82855/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4500361568.mp3?updated=1740655225",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3787",
       "speakers": [
-        "Blah de blah"
+        "Blah de blah",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "blah"
@@ -2153,8 +2588,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/25a5d012-e21f-11ef-ac77-e7768433fdf3/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8328135660.mp3?updated=1740659124",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3535",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "freaky",
         "weird"
@@ -2169,8 +2608,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2602722c-e21f-11ef-ac77-ff37a21527fe/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6060557613.mp3?updated=1740660458",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3605",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "place",
         "home"
@@ -2185,8 +2628,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/265f6842-e21f-11ef-ac77-3790917800c0/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2756301389.mp3?updated=1740659784",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3552",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "bruno"
       ]
@@ -2200,9 +2647,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/26b8a038-e21f-11ef-ac77-0b09fb3c300a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9872706491.mp3?updated=1740661135",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3850",
       "speakers": [
-        "Protein Chowder"
+        "Protein Chowder",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "protein",
@@ -2218,8 +2668,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/274655f4-e21f-11ef-ac77-af49535756d2/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5698785146.mp3?updated=1740661625",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4014",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2231,8 +2685,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/27a37ef0-e21f-11ef-ac77-d317da6921a6/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4595304998.mp3?updated=1740661964",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4106",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "constant",
         "gardener"
@@ -2247,8 +2705,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/27f9a118-e21f-11ef-ac77-9ba0cb161f70/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6222944878.mp3?updated=1740662131",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3531",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "namy"
       ]
@@ -2262,8 +2724,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/284defca-e21f-11ef-ac77-5b474d76f703/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8343552319.mp3?updated=1740734964",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3846",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "gary",
         "anatomy"
@@ -2278,8 +2744,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/28a452c0-e21f-11ef-ac77-3b1a719bf1c2/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2626309249.mp3?updated=1738689003",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3826",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "greatest",
         "showman"
@@ -2294,9 +2764,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/28fa6b60-e21f-11ef-ac77-bb916c4f7925/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4148901435.mp3?updated=1738688820",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3922",
       "speakers": [
-        "Power Ranger"
+        "Power Ranger",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "purple",
@@ -2313,8 +2786,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/29500584-e21f-11ef-ac77-e31ecd3623c9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6086342393.mp3?updated=1740742460",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3394",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2326,8 +2803,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/29a6aba0-e21f-11ef-ac77-e707f8ed92ae/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3761879015.mp3?updated=1740745412",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3760",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "perp"
       ]
@@ -2341,8 +2822,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/29fd8858-e21f-11ef-ac77-fba5900a4dbb/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4863347525.mp3?updated=1740746223",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3756",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "rainbow"
       ]
@@ -2356,8 +2841,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2a731898-e21f-11ef-ac77-ebfd9a544d1e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3602121286.mp3?updated=1740746739",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3801",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2369,9 +2858,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2ac6c718-e21f-11ef-ac77-b7c88377b4d4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8699961425.mp3?updated=1740747690",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3642",
       "speakers": [
-        "Soft Man Era"
+        "Soft Man Era",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "soft"
@@ -2386,9 +2878,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2b1baae4-e21f-11ef-ac77-2b44711cb85a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9927672599.mp3?updated=1740996199",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3389",
       "speakers": [
-        "Merry Christmas"
+        "Merry Christmas",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "christmas",
@@ -2404,9 +2899,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2b70337a-e21f-11ef-ac77-6f8e1d417e93/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4647427080.mp3?updated=1738581197",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2812",
       "speakers": [
-        "Love Amelia"
+        "Love Amelia",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "married",
@@ -2424,8 +2922,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2bc4f11c-e21f-11ef-ac77-7b2b3a57222c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7963762340.mp3?updated=1740996457",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3516",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2437,8 +2939,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2c19d998-e21f-11ef-ac77-af07ed092355/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3386145161.mp3?updated=1740997442",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3703",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "incense",
         "sisters"
@@ -2453,8 +2959,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2c6f530a-e21f-11ef-ac77-17a57600d1e4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9235343353.mp3?updated=1740997614",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3667",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2466,8 +2976,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2cc5642a-e21f-11ef-ac77-33b164b91824/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9349742999.mp3?updated=1741000129",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3651",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "serial",
         "sanitiser"
@@ -2482,9 +2996,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2d1b00e2-e21f-11ef-ac77-5ba7e46f0193/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1898277930.mp3?updated=1741001403",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2606",
       "speakers": [
-        "Ayia Napa"
+        "Ayia Napa",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "special"
@@ -2499,9 +3016,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2d70098e-e21f-11ef-ac77-0ff9b9502e95/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2141094809.mp3?updated=1741003472",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3487",
       "speakers": [
-        "Annoyed Chris"
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bricks"
@@ -2516,8 +3036,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2dc400d4-e21f-11ef-ac77-1f29c27994a0/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9537665447.mp3?updated=1741011532",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3738",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "beloved",
         "sponge"
@@ -2532,8 +3056,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2e15bfc8-e21f-11ef-ac77-33852c2943db/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5290289089.mp3?updated=1741012162",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3579",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "biscuit"
       ]
@@ -2547,8 +3075,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2e6b23dc-e21f-11ef-ac77-07e19644069f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9131811183.mp3?updated=1741012439",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3702",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "duvet",
         "lasagne"
@@ -2563,8 +3095,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2ec10a36-e21f-11ef-ac77-331164c77a11/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8375800800.mp3?updated=1741012765",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3445",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "talk"
       ]
@@ -2578,8 +3114,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2f1a862e-e21f-11ef-ac77-d744fa346dba/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7652951919.mp3?updated=1741012988",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3700",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "open",
         "sesame"
@@ -2594,8 +3134,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2f714eb4-e21f-11ef-ac77-afbc3186fc5d/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8658341497.mp3?updated=1741013284",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3374",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "dinner",
         "ladies",
@@ -2612,8 +3156,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/2ffd8ad2-e21f-11ef-ac77-afcc9b3c930c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7377539624.mp3?updated=1741013641",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3485",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "rosie",
         "ramsey"
@@ -2628,8 +3176,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/305627c8-e21f-11ef-ac77-173fe23cca78/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4674691044.mp3?updated=1741013910",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3750",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "toast",
         "wine"
@@ -2644,8 +3196,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/30acd2c6-e21f-11ef-ac77-ef33d5032ba6/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3108412726.mp3?updated=1741081847",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3998",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2657,8 +3213,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/310651de-e21f-11ef-ac77-ef239786e94a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8458792250.mp3?updated=1741082168",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3875",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "fight",
         "time"
@@ -2673,8 +3233,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/315da9de-e21f-11ef-ac77-336d93c34f79/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7019146146.mp3?updated=1741082351",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3693",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "eighth"
       ]
@@ -2688,8 +3252,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/31b47d54-e21f-11ef-ac77-af617373621e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4354860223.mp3?updated=1741082592",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3624",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "obligatory",
         "trebles"
@@ -2704,9 +3272,11 @@
       "image_url": "https://megaphone.imgix.net/podcasts/320bc0a0-e21f-11ef-ac77-3b52c765a768/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1669745837.mp3?updated=1738581208",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "549",
       "speakers": [
-        "Rosie Ramsey"
+        "Rosie Ramsey",
+        "Chris Ramsey"
       ],
       "topics": [
         "prom",
@@ -2725,8 +3295,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/32623a20-e21f-11ef-ac77-9fbbaab27065/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8322682454.mp3?updated=1741084077",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3866",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "daytime",
         "milf",
@@ -2742,9 +3316,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/32b99504-e21f-11ef-ac77-5fe9f5ac195d/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3359513648.mp3?updated=1741083999",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3874",
       "speakers": [
-        "Carl Hutchinson"
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "capping"
@@ -2759,8 +3336,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/33118afc-e21f-11ef-ac77-df707b8c80b7/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8453090012.mp3?updated=1741084328",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3580",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "roll",
         "wood"
@@ -2775,9 +3356,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/336a23b0-e21f-11ef-ac77-e7a7ccb071c9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6991093114.mp3?updated=1741085768",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3577",
       "speakers": [
-        "Bunny Ears"
+        "Bunny Ears",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "bunny"
@@ -2792,8 +3376,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/33c08110-e21f-11ef-ac77-9723130d10ff/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6242196314.mp3?updated=1741085000",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3522",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "whisker"
       ]
@@ -2807,10 +3395,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3415a1fe-e21f-11ef-ac77-6734963e1b7d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5929825554.mp3?updated=1741090724",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3708",
       "speakers": [
         "Yolo Chris",
-        "Carl Hutchinson"
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -2823,8 +3414,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/346ade12-e21f-11ef-ac77-8b9a36e7a131/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2966634168.mp3?updated=1741091062",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3982",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "wipe"
       ]
@@ -2838,9 +3433,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/34c231a8-e21f-11ef-ac77-0be48deb8784/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6061903859.mp3?updated=1741086351",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3240",
       "speakers": [
-        "Hot Heat Rosie"
+        "Hot Heat Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "heat"
@@ -2855,8 +3453,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3518958e-e21f-11ef-ac77-bb0bad8d36bb/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9883050522.mp3?updated=1741091872",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3861",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2868,8 +3470,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3573019a-e21f-11ef-ac77-0f9bf4f04d14/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7027313976.mp3?updated=1741092598",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3602",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "lego",
         "destruction"
@@ -2884,9 +3490,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/35cb1146-e21f-11ef-ac77-2b625cf57065/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8624452181.mp3?updated=1741097758",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3707",
       "speakers": [
-        "Good Optics"
+        "Good Optics",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "good",
@@ -2902,9 +3511,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/361eb6c0-e21f-11ef-ac77-03f701253a51/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3022634697.mp3?updated=1741098092",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3933",
       "speakers": [
-        "Ramsey Show"
+        "Ramsey Show",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "nice",
@@ -2920,8 +3532,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3676c900-e21f-11ef-ac77-2f4ba08d513e/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4919258147.mp3?updated=1741100898",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4352",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "pity"
       ]
@@ -2935,8 +3551,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/36cb95d4-e21f-11ef-ac77-53868858daab/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3869234739.mp3?updated=1741084415",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4100",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "flower"
       ]
@@ -2950,8 +3570,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3720ad26-e21f-11ef-ac77-770aa6cf4a44/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1723962604.mp3?updated=1741105101",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3790",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -2963,8 +3587,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/37758e72-e21f-11ef-ac77-738e4e1da7c8/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3935737593.mp3?updated=1741105184",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3631",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "cold",
         "hearted",
@@ -2980,9 +3608,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/37c9bee8-e21f-11ef-ac77-e3c1674e919d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1434282918.mp3?updated=1741105693",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3318",
       "speakers": [
-        "Spirito Di Punto"
+        "Spirito Di Punto",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "spirito",
@@ -2998,10 +3629,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3821171a-e21f-11ef-ac77-332c22a70fca/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2997539596.mp3?updated=1741105764",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3752",
       "speakers": [
         "Skip Cap",
-        "David Bowie"
+        "David Bowie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "skip"
@@ -3016,8 +3650,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/38749944-e21f-11ef-ac77-0fbd20e1fd5f/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7141426088.mp3?updated=1741084924",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3758",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "sunnie"
       ]
@@ -3031,8 +3669,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/38cd6f92-e21f-11ef-ac77-c7c656f63acd/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2956111228.mp3?updated=1741084972",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4027",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "fagda"
       ]
@@ -3046,9 +3688,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3921855a-e21f-11ef-ac77-c771615f3c0d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4979924085.mp3?updated=1741085213",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3966",
       "speakers": [
-        "Sandra’s Birthday"
+        "Sandra’s Birthday",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "pear",
@@ -3064,8 +3709,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3978290a-e21f-11ef-ac77-e326dab12710/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5396495326.mp3?updated=1741085524",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3714",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "loser"
       ]
@@ -3079,8 +3728,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/39f41aba-e21f-11ef-ac77-9f664471e6a6/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5232405606.mp3?updated=1741086004",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3837",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "cowboy"
       ]
@@ -3094,8 +3747,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3a49f476-e21f-11ef-ac77-7f91069142e0/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4535862630.mp3?updated=1741086223",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3858",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "dumpling"
       ]
@@ -3109,9 +3766,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3aa1a59a-e21f-11ef-ac77-5fb9cf920e85/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4263429463.mp3?updated=1741090736",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3580",
       "speakers": [
-        "Sister Kate"
+        "Sister Kate",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "film"
@@ -3126,8 +3786,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3af82ce4-e21f-11ef-ac77-9362a8c8e475/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4597356566.mp3?updated=1741090836",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3662",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "shoe"
       ]
@@ -3141,8 +3805,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3b4a9092-e21f-11ef-ac77-4fe8ead23e30/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4200374811.mp3?updated=1741090894",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3778",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "wipe"
       ]
@@ -3156,9 +3824,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3b9ccede-e21f-11ef-ac77-a7b573d87131/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9566775601.mp3?updated=1741091170",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3772",
       "speakers": [
-        "Midnight Gameshow"
+        "Midnight Gameshow",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "nurse",
@@ -3174,10 +3845,13 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3beef830-e21f-11ef-ac77-0fb05cedb3d0/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6531120791.mp3?updated=1741091305",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3948",
       "speakers": [
         "Enjoy Smas",
-        "Rosie Ramsey Show"
+        "Rosie Ramsey Show",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "dong",
@@ -3193,8 +3867,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3c43a43e-e21f-11ef-ac77-4f6decc1d5c2/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2609824073.mp3?updated=1741091565",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4164",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "girdle"
       ]
@@ -3208,9 +3886,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3c96c010-e21f-11ef-ac77-43905c0ba522/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2855357435.mp3?updated=1738581226",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "1904",
       "speakers": [
-        "Lucrative Lucrative Sponsor Tier"
+        "Lucrative Lucrative Sponsor Tier",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "extra"
@@ -3225,9 +3906,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3cea74bc-e21f-11ef-ac77-f3dfede91ddf/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7009564362.mp3?updated=1741092892",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4116",
       "speakers": [
-        "Enjoy Smas"
+        "Enjoy Smas",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": []
     },
@@ -3240,8 +3924,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3d3c2bc2-e21f-11ef-ac77-632de6f76883/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9648630419.mp3?updated=1741188840",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "4226",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "christmas",
         "special",
@@ -3257,8 +3945,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3d8f01bc-e21f-11ef-ac77-4bb603366a8f/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7581409607.mp3?updated=1738581228",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "2069",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "married",
         "annoyed",
@@ -3275,8 +3967,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3de47e6c-e21f-11ef-ac77-effe58331c6d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2209634384.mp3?updated=1741189174",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3981",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "strip",
         "search"
@@ -3291,8 +3987,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3e34e794-e21f-11ef-ac77-0b84d1f0e3ef/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9226306533.mp3?updated=1741198337",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3518",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "magnum"
       ]
@@ -3306,9 +4006,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3e89f09a-e21f-11ef-ac77-eb0366a78f70/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6911071715.mp3?updated=1741196505",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3403",
       "speakers": [
-        "Sewing Bee"
+        "Sewing Bee",
+        "Chris Ramsey",
+        "Rosie Ramsey"
       ],
       "topics": [
         "centrifugal",
@@ -3324,8 +4027,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3edda758-e21f-11ef-ac77-cf25872be963/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4398729137.mp3?updated=1741196540",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3966",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "glib",
         "glab",
@@ -3341,8 +4048,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3f32d520-e21f-11ef-ac77-b7fc124cbe9b/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1714144313.mp3?updated=1741196659",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3550",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": []
     },
     {
@@ -3354,8 +4065,12 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3f907a0e-e21f-11ef-ac77-8b15ee6f610d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5933392032.mp3?updated=1741196706",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3850",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "beanfest"
       ]
@@ -3369,11 +4084,3764 @@
       "image_url": "https://megaphone.imgix.net/podcasts/3feee080-e21f-11ef-ac77-a7e768b2b50a/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6424682531.mp3?updated=1741196735",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
       "itunes_duration": "3890",
-      "speakers": [],
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
       "topics": [
         "knit"
       ]
+    },
+    {
+      "key": "86c298ff08a59be37f90002d3476b1cb62f48d3f",
+      "title": "Ep 191. Gilet Incorporated",
+      "published_at": "2022-10-28T04:14:22+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-191-gilet-incorporated",
+      "description": "On the podcast this week Chris names himself head of gilets and Rosie isn’t happy about it! There’s some bowl licking, a car related ick, and some dancefloor shenanigans. All of this PLUS a member of the Beef family return with a Barry update. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/40722d3c-e21f-11ef-ac77-f79049dcdfdb/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8040619392.mp3?updated=1741196806",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3715",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "gilet",
+        "incorporated"
+      ]
+    },
+    {
+      "key": "7fa53345b1a150425ec8a637ffd0cef1e4959aa1",
+      "title": "Ep 190. Just be chill",
+      "published_at": "2022-10-21T04:14:18+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-190-just-be-chill",
+      "description": "The Ramey's are back and Rosie wants to know why Chris 'can't be more chill?'... There's vasectomy chat, a safe lucrative sponsor and some hypothetical life planning for Chris. The QFTP's involve a strange choice of sex toy, a bad smell and some misinformation on pubes. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/40cb5466-e21f-11ef-ac77-8ba3b38ecd7d/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1527814735.mp3?updated=1741196957",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3963",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "35b8ff9d994a836fea14772f4c2c0730222d6498",
+      "title": "Ep 189. House Shoes",
+      "published_at": "2022-10-14T04:33:28+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-189-house-shoes",
+      "description": "On the podcast this week Chris and Rosie discuss ways to clean a radiator (that's covered in sick), Chris' choice of shoe and Rosie's response to a text. QFTP's cover bin juice, pile cream and an unusual use for lego. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/412540a2-e21f-11ef-ac77-a74be85dcc85/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3702417155.mp3?updated=1741196988",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3616",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "house",
+        "shoes"
+      ]
+    },
+    {
+      "key": "9446aad94c8a37b50622aea478fdbb2dce23a614",
+      "title": "Ep 188. Mars Cha Cha",
+      "published_at": "2022-10-07T04:30:15+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-188-mars-cha-cha",
+      "description": "On this week's podcast Chris and Rosie discuss frubes, strictly, facial recognition and loads more... plus they are joined by a film crew, can you tell? The beefs cover mishearing and of course bins! QFTP's involve a stripper, drinking from a bottle and a filthy dog grooming habit. All of this and some wonderful icks. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/417d84c4-e21f-11ef-ac77-97399de98ef7/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7876292846.mp3?updated=1741197263",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3957",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "mars"
+      ]
+    },
+    {
+      "key": "dcdaefbaec86c80d6bbf714ef603f6706382324e",
+      "title": "Ep 187. Born to Fight",
+      "published_at": "2022-09-30T04:17:13+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-187-born-to-fight",
+      "description": "On this week's podcast there's some singing, misplaced chewing gum, stripper stories and a new (and improved?) name for a glove compartment. All of this plus beefs, icks and some smelly QFTP's. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/41d355c0-e21f-11ef-ac77-a39dec58958c/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8137187418.mp3?updated=1741197418",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3779",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fight"
+      ]
+    },
+    {
+      "key": "08a1c12523b5f4fef63470b5028c4494edb54369",
+      "title": "Ep 186. Kegs full of Kaka",
+      "published_at": "2022-09-23T04:22:48+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-186-kegs-full-of-kaka",
+      "description": "On the podcast this week Chris and Rosie chat bingo, holidays and what happens if you have a bathroom accident in ASDA. There's a quiz devised especially for Rosie and the QFTP's are particularly filthy! Expect stories of swingers, underwear, icks and getting caught in the act! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42297a36-e21f-11ef-ac77-e7902503561f/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1725341201.mp3?updated=1741197487",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4186",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "kaka"
+      ]
+    },
+    {
+      "key": "46e24d52b3964ab1d29f5d56a5baf5f1e71521d2",
+      "title": "Ep 185. Anchor Pants",
+      "published_at": "2022-09-16T04:01:07+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-185-anchor-pants",
+      "description": "It's a 'Questions from the Public' Special! Chris and Rosie catch up on some of your questions! There are icks, a revengeful DJ, a sad story about a goldfish and some unsavoury student accommodation. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42809b86-e21f-11ef-ac77-47b924812250/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8219440505.mp3?updated=1741197513",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2601",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anchor",
+        "pants"
+      ]
+    },
+    {
+      "key": "5fa89164385b8564593fdcc5caa35720c2b594c4",
+      "title": "Ep 184. Beat the Letter",
+      "published_at": "2022-09-09T04:28:29+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-184-beat-the-letter",
+      "description": "The school holidays are finally over and Chris and Rosie are enjoying some normality. This week on the podcast they get nostalgic over calculators and kids games. They have some snack based beef and a position based ick. All of this plus Rosie updates the smas and das on her recent garden furniture purchase. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42d7e544-e21f-11ef-ac77-534c7b73ec4b/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3028976235.mp3?updated=1741198329",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4050",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "letter"
+      ]
+    },
+    {
+      "key": "5a5b9fa13e69bea88e7127ee1265511ec071a3d3",
+      "title": "Ep 183. Water is blue",
+      "published_at": "2022-09-02T04:14:08+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-183-water-is-blue",
+      "description": "The Ramsey's are back with beefs, icks and QFTP's but this week there is a little something extra, Rosie's jotters! Chris gets to the bottom of some of Rosie's teenage musings that he found in the loft...enjoy everyone and remember, water is blue. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/432d2004-e21f-11ef-ac77-bf95736b16ef/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7608550971.mp3?updated=1741255562",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3873",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "water"
+      ]
+    },
+    {
+      "key": "3e23c7580247a68dc678f716b5ef750481d384dd",
+      "title": "Ep 182. A little bit sexy",
+      "published_at": "2022-08-26T04:12:26+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-182-a-little-bit-se",
+      "description": "The Ramsey's return and yes it's still the summer holidays! Chris and Rosie talk funfairs and the law according to American movies. Rosie almost brings her acting skills to the beefs and the icks have their very own designated spot. QFTP's involve cling film, chicken wings and great balls of...something. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4384bbe8-e21f-11ef-ac77-9b642ac49ab9/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4708839253.mp3?updated=1741257569",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3713",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4efcb43565ae9d90df25d48f1ccf10f42e0a54f4",
+      "title": "Ep 181. The glove",
+      "published_at": "2022-08-19T04:00:39+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-181-the-glove",
+      "description": "This week it's roasting hot and Rosie's loving it. Chris took Robin on a mini break, and the Ramsey's went to the beach. There's garlic bread beef and it's a specials week for questions from the public. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/43dc2c20-e21f-11ef-ac77-57f652b4b0fc/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6970052596.mp3?updated=1741257806",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3806",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "glove"
+      ]
+    },
+    {
+      "key": "8c6002a39a4b70aee4610f3406845df06bbd14b4",
+      "title": "Ep 180. Sommelier summer camp",
+      "published_at": "2022-08-12T04:00:37+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-180-sommelier-summer-camp",
+      "description": "It's still the summer holidays and Chris and Rosie have taken time off to spend it with the boys. Big mistake. Chris is into a new sport. Rosie's had a wardrobe malfunction and there’s possibly the most horrific hotel find ever. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4434f760-e21f-11ef-ac77-0f3ec89090b0/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2599654851.mp3?updated=1741343717",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3905",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "summer",
+        "camp"
+      ]
+    },
+    {
+      "key": "62933aead42559b72c13886505868a1f296a9372",
+      "title": "Ep 179. Pokethon",
+      "published_at": "2022-08-05T04:17:48+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-179-pokethon",
+      "description": "This week the Ramsey's manage to record a podcast, despite the summer holiday madness! Chris has been getting competitive with a 6 year old, Rosie has a sci fi related ick and they both discuss Robin's latest practical joke. QFTP's cover a sibling shock, an unusual work break snack and a unfortunate incident on holiday. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/44bb2ccc-e21f-11ef-ac77-874a5b17b63c/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8536345947.mp3?updated=1741362843",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3704",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "pokethon"
+      ]
+    },
+    {
+      "key": "7c3153709bfe4c48397be861869dbc353b59e08f",
+      "title": "Ep 178. Oh wow",
+      "published_at": "2022-07-29T04:10:47+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-178-oh-wow",
+      "description": "The Ramsey’s have had a busy week (separately!). Chris has been at the UFC and Rosie has been singing at Ladies Day. It’s a plonkcast so the beefs are pretty rich. QFTP’s cover icks, a questionable spag bowl, an unusual breakfast and some peeling skin... oh wow! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4512b212-e21f-11ef-ac77-4be83f82655e/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2379848701.mp3?updated=1741362916",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4007",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2a66ac82674fdca7ace01df3e8311c8a24b93cb7",
+      "title": "Ep 177. Summer holiday special",
+      "published_at": "2022-07-22T03:00:02+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-177-summer-holiday-special",
+      "description": "The Ramsey's are back from holiday and they're more knackered than when they left. Chris has been reading tips on how to stay cool this summer and Rosie's been deep diving into TikTok. Plus there's some holiday special questions from the public. To subscribe to ad free episodes and bonus content visit shaggedmarriedannoyed.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/456aa878-e21f-11ef-ac77-bf458e454d09/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2310629548.mp3?updated=1741363135",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4044",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "summer",
+        "holiday",
+        "special"
+      ]
+    },
+    {
+      "key": "65a49d9b7f3fd1b58c5628d4737cfedecf5d1414",
+      "title": "Ep 176. Out of Office",
+      "published_at": "2022-07-15T04:11:47+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-176-out-of-office",
+      "description": "This week on the podcast Chris & Rosie share some unused QFTP’s and they do not disappoint! There's a slightly disturbing holiday story, a bouji hairdresser, a sex egg and a stinky drawer. Enjoy Smas and Das! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/45c1056a-e21f-11ef-ac77-1b2124381f25/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9379104010.mp3?updated=1741363807",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2957",
+      "speakers": [
+        "Enjoy Smas",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "office"
+      ]
+    },
+    {
+      "key": "39993693429cc146843a8508f606a0b97c28dce2",
+      "title": "Ep 175. Double Muggins",
+      "published_at": "2022-07-08T04:26:58+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-175-double-muggins",
+      "description": "On the podcast this week Rosie reveals a new musical talent in the family and Chris becomes a Golf Guy. There's a truth bomb from Sandra and beefs that get Rosie very animated! QFTP's involve some dirty dishes, a hairy meal and a gross ear wax habit. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/46173868-e21f-11ef-ac77-bf7944621d7c/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5885771354.mp3?updated=1741364329",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3790",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "muggins"
+      ]
+    },
+    {
+      "key": "c932ab8a980ac671de4838094b16e6e8c34fb7ec",
+      "title": "Ep 174. Co-ords",
+      "published_at": "2022-07-01T04:40:50+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-174-co-ords",
+      "description": "This week on the podcast Chris & Rosie discuss co-ords, free gifts, farting in Asda and whether it's okay to attend a date topless. All of this plus some slippery beef and a couple of icks for good measure! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/466e6f2a-e21f-11ef-ac77-cf75a87c3fb8/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3123674705.mp3?updated=1741364369",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3837",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f509f0b738f443a02bed69a4336382de4d8d7593",
+      "title": "Ep 173. Hot Potato",
+      "published_at": "2022-06-24T04:12:25+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-173-hot-potato",
+      "description": "This week on the podcast the couple discuss urban myths, street names and Kids TV. As well as serving up some beef Chris is also busy eating some carb based humble pie! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/46c3d73a-e21f-11ef-ac77-17576d1c1e17/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3633996597.mp3?updated=1741364652",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3882",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "potato"
+      ]
+    },
+    {
+      "key": "8f7ba66dc1f899e58b7895b2f8d19476e809248e",
+      "title": "Ep 172. But what about the pool table?",
+      "published_at": "2022-06-17T04:27:32+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-172-but-what-about-the-pool-table",
+      "description": "On this week's podcast Chris and Rosie talk hair treatments, massages and builders mugs. The beefs take an interesting turn and the QFTP's cover care packages, a sad ick, lube and a misheard saying. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4718cdee-e21f-11ef-ac77-734bac6f4b08/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7327659441.mp3?updated=1741364772",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3361",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "pool",
+        "table"
+      ]
+    },
+    {
+      "key": "b6c6337937de8c39758791f325de73bdb45f595e",
+      "title": "Ep 171. Meet you in my dreams",
+      "published_at": "2022-06-10T04:23:51+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-171-meet-you-in-my-dreams",
+      "description": "As well as serving up some brilliant beefs and icks there is also dream analysis and a surprise gift from Sandra. QTFP's involve social etiquette, a not so nice desert bowl and a memory for Chris to revisit. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/476ce10e-e21f-11ef-ac77-e7fa8bb4c246/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7388793487.mp3?updated=1741365081",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3578",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "dream"
+      ]
+    },
+    {
+      "key": "0ac8cce28df4cef2018fb169ec424623914558ab",
+      "title": "Ep 170. The 80’s door handle",
+      "published_at": "2022-06-03T04:00:17+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-70-the-80s-door-handle",
+      "description": "On this week's podcast the Ramsey's try and wrap their heads around the Jubilee! Rosie get's nostalgic for 80's door handles and Chris gets accused of shouting. The beefs mount up and QFTP's involve data apps, icks, and the class pet. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/47c102fc-e21f-11ef-ac77-6b5445655281/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3521906577.mp3?updated=1741365228",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3166",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "door"
+      ]
+    },
+    {
+      "key": "03a7729b0db2ae933c7ce8950af6ddf4d99d66a9",
+      "title": "Ep 169. Dacious",
+      "published_at": "2022-05-27T04:08:47+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-169-dacious",
+      "description": "On this week's podcast the Ramey's discuss their new TV show, a kids party that Rosie attended and how Chris' lack of socks seems to have caused a real stir! They share their beefs which involve an emotional sports day and the QTFP's go veggie and even include a mistaken urinal situation. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4818197a-e21f-11ef-ac77-1f5e73b4faa8/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2250603425.mp3?updated=1741365445",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3637",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "65871843bbedb445cccb8c4cd8a9261020e09b6b",
+      "title": "Ep 168. The Worst Smell in The World",
+      "published_at": "2022-05-20T04:35:21+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-168-the-worst-smell-in-the-world",
+      "description": "As well as discussing their new TV show Chris and Rosie share their weekly beefs and their new official ‘ick’ section. They chat passive aggressive waiters, behind the scenes strictly rituals and their thoughts on thongs. QFTP’s include strange contraception choices and some pretty expensive, albeit, dirty sheets. All of this PLUS an exciting announcement! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4871bb1a-e21f-11ef-ac77-4fa629586ea1/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4970768185.mp3?updated=1741365575",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3833",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "smell",
+        "world"
+      ]
+    },
+    {
+      "key": "3a0266b0e1cae3468a1571627d880865f4afdcc3",
+      "title": "Ep 167. Killer extensions",
+      "published_at": "2022-05-13T04:16:33+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-167-killer-extensions",
+      "description": "On the podcast this week (and much to Chris’ dismay) the couple discuss Rosie’s hair extensions and why she used to call psychic hotlines. There’s some observations and an update on the TV show. Beefs get medical and QFTP’s cover an eventful French exchange, a unfortunate cab journey and frozen prawns. PLUS the pair get to the bottom of who their Disney crush was. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/48cb80be-e21f-11ef-ac77-9befaa64b956/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6782644276.mp3?updated=1741365762",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3682",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "killer",
+        "extension"
+      ]
+    },
+    {
+      "key": "e5f6ff235b78ed49070d6c818f2c937f3baf04b1",
+      "title": "Ep 166. Hip hip...",
+      "published_at": "2022-05-06T04:34:12+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-166-hip-ip",
+      "description": "On this week's podcast Rosie delivers some more observations and even has some audio evidence to prove it! Chris has been feeling ill after catching the kids germs and shares his stomach bug woes from the tour. There's the weekly beefs and QFTP's that cover service stations, eating in supermarkets and manscaping. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4921ee7c-e21f-11ef-ac77-43ffc7eaf2fe/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4444908656.mp3?updated=1741365911",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3599",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "91441fcbd703caab76366bcf28c9daaa6b4b110f",
+      "title": "Ep 165. Rude Awakening",
+      "published_at": "2022-04-29T04:15:38+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-165-rude-awakening",
+      "description": "On the podcast this week Chris and Rosie share their traumatic few days after both Rafe and Robin came down with a stomach bug. There are towel forts, bucket techniques and even a QFTP along the same theme. As well as this the pair share their beefs and go deep with the icks plus there's an update on the reality of hotel shenanigans. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/497bbd9e-e21f-11ef-ac77-d3e860d49ef8/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2215872617.mp3?updated=1741366001",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3540",
+      "speakers": [
+        "Rude Awakening",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "rude",
+        "awakening"
+      ]
+    },
+    {
+      "key": "d7175af818983dc7eeee68be991081b22bb94c2f",
+      "title": "Ep 164. The Best Walker",
+      "published_at": "2022-04-22T04:20:22+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-164-the-best-walker",
+      "description": "On this week’s podcast Chris and Rosie discuss Easter Eggs, VPL, hand towels and some more ick! There’s an awkward zoom funeral moment and an elaborate name for a pot washer! Enjoy smas & das! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/49d3cab6-e21f-11ef-ac77-6bc5bd5fbff1/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9196774461.mp3?updated=1741367977",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3509",
+      "speakers": [
+        "Easter Eggs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "best",
+        "walker"
+      ]
+    },
+    {
+      "key": "29cfe014822350c4d5005a829c35514c8cbe61a7",
+      "title": "Ep 163. Good Friday plonkcast",
+      "published_at": "2022-04-15T04:00:19+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-163-good-friday-plonkcast",
+      "description": "Happy Good Friday! It's a plonkcast, Rosie's got pre-beef, Chris remembers a story that's been on his mind, Barry has a word and one listener wants relationship advice. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4a2e3906-e21f-11ef-ac77-c370ad2e0037/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8166153201.mp3?updated=1741368428",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3978",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "friday",
+        "plonkcast"
+      ]
+    },
+    {
+      "key": "c236e3b60ec47dc3aca1af926d1124d0ec93247d",
+      "title": "Ep 162. Three words",
+      "published_at": "2022-04-08T04:00:00+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-162-three-words",
+      "description": "It's the podcast that loves dogs! (Well Chris does anyway). Chris and Rosie play a word game, Sandra's treated herself to a new robe and watch out for the list of things to do that'll keep you single. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4a86c512-e21f-11ef-ac77-9322851fb6af/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8718041760.mp3?updated=1741255059",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3769",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "word"
+      ]
+    },
+    {
+      "key": "17fa1e8629b241ead7d9083146a7aba49caccf7a",
+      "title": "Ep 161. How long you staying?",
+      "published_at": "2022-04-01T04:09:13+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-161-how-long-you-staying",
+      "description": "On the podcast this week Chris and Rosie have some serious Cocomelon beef and land line issues. They discuss Team leaders, keyholders and why people should mind their own business when it comes to luggage! QFTP's cover hired Kilts, auto correct gone wrong and some unsavoury behaviour with a Dorito dip. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4b08b98c-e21f-11ef-ac77-33b2aa209745/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7503349320.mp3?updated=1741368699",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3671",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f8106aca9bba494033ca98bf45b829992da813c2",
+      "title": "Ep 160. Round Robin",
+      "published_at": "2022-03-25T05:30:26+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-160-round-robin",
+      "description": "This week the podcast was recorded in London and Chris & Rosie got a taste of office life! The pair discuss a recent photo shoot, an incident on a train and bad customer service. There's some Sandra gossip, the weekly beefs and outstanding QFTP's. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4b6049c2-e21f-11ef-ac77-03c8b48ce6ca/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7202553455.mp3?updated=1741372229",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4262",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "round",
+        "robin"
+      ]
+    },
+    {
+      "key": "75f90e7ea5067cd606023e994d9951a9ffd4dfde",
+      "title": "Ep 159. Free Roam",
+      "published_at": "2022-03-18T05:00:29+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-159-free-roam",
+      "description": "On the podcast this week Chris & Rosie discuss family traits, fart shaming, free roam pets and they play an alternative to 'would you rather'. There's some urinal compliments and an annoying expression... beg your pudding?? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4bb589aa-e21f-11ef-ac77-4b125471679f/image/bc068b8c548ca5e9fedc87cccc304c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3303208209.mp3?updated=1741368879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3401",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "free",
+        "roam"
+      ]
+    },
+    {
+      "key": "be2ad26a61f8b103640188e868aaaa538c24914c",
+      "title": "Ep 158. These boots aren’t made for walking",
+      "published_at": "2022-03-11T05:25:05+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-158-these-boots-arent-made-for-walking",
+      "description": "Chris and Rosie return with their (National Comedy Award Winning) podcast and share their mishaps from the night. They answer all the big questions such as - is there more doors or wheels in the world? The beefs are juicy and the QFTP's involve a camera phone, an acrobatic role and some playground shenanigans. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1960765875.mp3?updated=1741368685",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3337",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "boot"
+      ]
+    },
+    {
+      "key": "b849d0c4bd7d406845edb56ce0429cabd298b001",
+      "title": "Ep 157. Purple reigns",
+      "published_at": "2022-03-04T05:16:55+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-157-purple-reins",
+      "description": "The podcast is swing heavy this week, or is it swung? The pair come together over their garden plans as well as sharing their weekly beefs. QFTP's involve lies, a punchy request and some toe sucking action. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4c6661da-e21f-11ef-ac77-c7b1438f89f8/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7481620208.mp3?updated=1741597955",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3578",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "reign"
+      ]
+    },
+    {
+      "key": "19668227a384965d3665161974061f353b7d2823",
+      "title": "Ep 156. Bathroom Teaspoon",
+      "published_at": "2022-02-25T05:00:27+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-156-bathroom-teaspoon",
+      "description": "Rosie and Chris have been nominated for the national comedy awards...and there might just be an apple sour in it if you vote. They remember what they were wearing and what they were saying at the Millennium. And Sandra's got tote bag fever. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4cbcee10-e21f-11ef-ac77-37906b79544a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2046378163.mp3?updated=1741598158",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3634",
+      "speakers": [
+        "Bathroom Teaspoon",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bathroom",
+        "teaspoon"
+      ]
+    },
+    {
+      "key": "f187383d7bca604ee94ee2cceb8cae0394d22220",
+      "title": "Ep 155. The Pitt's",
+      "published_at": "2022-02-18T05:08:24+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-155-the-pitts",
+      "description": "On the podcast this week Chris & Rosie discuss Brad Pitt's relationship status, past lives and storm facts. The beefs involve a real time print count and Rosie shares how life is with Chris on the road. QFTP's cover bean bag trays, a foreign object in food and menstrual cups. All of this plus the couple ask the age-old question...do Americans use electric kettles? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d13ed46-e21f-11ef-ac77-4f95154a6157/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8061311310.mp3?updated=1741598482",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3773",
+      "speakers": [
+        "Brad Pitt",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "pitt"
+      ]
+    },
+    {
+      "key": "8b3322939cb7f9b0d964625a4cffd5b735cdd31b",
+      "title": "Ep 154. Stain of regret",
+      "published_at": "2022-02-11T05:08:54+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-154-stain-of-regret",
+      "description": "There's a fair few food based topics up for discussion this week - from Hot Dogs to burnt Jacket Potatoes. Robin has suggested a new career for Chris & Rosie whilst Rafe is enjoying the joys of Cbeebies. Rosie's mysteries returns and Chris brings some fun facts. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d8b8496-e21f-11ef-ac77-ef6672aaaac4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6705912080.mp3?updated=1741598806",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3528",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "stain",
+        "regret"
+      ]
+    },
+    {
+      "key": "3918059d31c440492aa20ef203533386a4313992",
+      "title": "Ep 153. Record Breakers",
+      "published_at": "2022-02-04T05:19:53+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-153-record-breakers",
+      "description": "On the podcast his week Chris and Rosie discuss Record Breakers, birdwatching and bad breath. The beefs get personal and the QFTP's involve swinging, flossing and a coughing incident. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4e02edb0-e21f-11ef-ac77-1b289ad3aea0/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1696026574.mp3?updated=1741599189",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3605",
+      "speakers": [
+        "Record Breakers",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "record",
+        "breakers"
+      ]
+    },
+    {
+      "key": "450be6ef8ea61ba6cc8bd9d1b283d6d32e65477c",
+      "title": "Ep 152. Do Buy",
+      "published_at": "2022-01-28T05:30:01+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-152-do-buy",
+      "description": "There is a sleep war brewing in the Ramsey household! The pair discuss tupperware, sneezing and baby bathwater. Belinda is back and the beefs get shouty. QFTP's cover a kids birthday party, an unlucky sister and a different kind of rate and review system. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4e7384e4-e21f-11ef-ac77-a78f7c505786/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4045576898.mp3?updated=1741597530",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3763",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3647710c7a67ca10643da26cea91a1f22454e4aa",
+      "title": "Ep 151. Timber",
+      "published_at": "2022-01-21T05:12:49+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-151-timber",
+      "description": "On the podcast this week Rosie has some Rafe beef, Chris has some wood problems and the pair share the weekly grievances with each other. There's some Facebook Market place discussion and QFTP's involving sexting, mistaken identity and Christmas trees. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4ed762fc-e21f-11ef-ac77-7fd5c0302fb5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5159473740.mp3?updated=1741616639",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4082",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "timber"
+      ]
+    },
+    {
+      "key": "e04e8ba02c6a9eb0b7a5ed7744517dcd3ab04ad7",
+      "title": "Ep 150. Tony doesn't live here",
+      "published_at": "2022-01-14T05:12:28+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-150-tony-doesnt-live-here",
+      "description": "This week on the podcast Chris & Rosie record a podcast and keep it extra real with some live interruptions. If anyone sees Tony, tell him they have his parcels! There's weekly beefs plus one for Netflix, Rosie suggests a unique way of having children and QFTP's cover butt plugs, guinea pigs and an unfortunate incident with a wet phone. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4f3b343a-e21f-11ef-ac77-070d0c47f8d7/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7335211973.mp3?updated=1741616842",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3871",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "tony"
+      ]
+    },
+    {
+      "key": "5583fa7a3c28512551bbfab2ef40fbee777f87f1",
+      "title": "Ep 149. Dipped in fat",
+      "published_at": "2022-01-07T05:00:44+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-149-dipped-in-fat",
+      "description": "It's 2022 and Rosie and Chris are celebrating with fireworks, sort of. Sandra's Christmas presents get a shout out and Rosie has beef with Chris's cold. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4f9bfafe-e21f-11ef-ac77-ef9cc936ed48/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6815597986.mp3?updated=1741617601",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4273",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "11cb88748ca461ae87d70ed0e7e9bf7992306c58",
+      "title": "Ep 148. Christmas Special",
+      "published_at": "2021-12-24T05:33:49+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-148-christmas-special",
+      "description": "It's the last SMA of the year and the Ramsey's are feeling festive! There's singing, festive beef and some christmassy QFTP's. All of this plus we here why Rosie is on the naughty list and how Chris is messing with new family traditions. We hope all the smas and das have a Merry Christmas and a Happy New Year! Chris and Rosie will be back in your ears on January 7th. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4fff52b6-e21f-11ef-ac77-7f516fa6a79b/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7967503642.mp3?updated=1741617924",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3668",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "christmas",
+        "special"
+      ]
+    },
+    {
+      "key": "5fa99b41a6f4c11deaa65a1d5ed65c3c35986c01",
+      "title": "Ep 147. Find a happy place",
+      "published_at": "2021-12-17T05:00:11+00:00",
+      "link": "https://shows.acast.com/sma/episodes/ep-147-find-a-happy-place",
+      "description": "The Ramsay's are buzzing from their tour but they're not talking to each other in January. Chris has a history lesson and Rosie takes part in a new game against her will. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/50625bcc-e21f-11ef-ac77-376aef0eafc9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3079886461.mp3?updated=1741618092",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3501",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "place"
+      ]
+    },
+    {
+      "key": "7c4bfec69c5821ee27ec796381ff503f3f372f23",
+      "title": "Ep 146. Liquid Gold",
+      "published_at": "2021-12-10T05:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep146.liquidgold",
+      "description": "On this week’s podcast Chris and Rosie have forgone the beefs for just some old school bickering! Rosie has been to a Panto and Chris has some tour gripes he wants to share. As well cracking QFTP’s there’s some informative phone calls with Rosie’s siblings. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/50d8d77a-e21f-11ef-ac77-077f8e98d613/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8030758162.mp3?updated=1741618528",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3416",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "liquid",
+        "gold"
+      ]
+    },
+    {
+      "key": "504624ae5ead242fe46a1bd4e7cc4a1e628bbd4b",
+      "title": "Ep 145. Sorry Dad",
+      "published_at": "2021-12-03T05:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep145.sorrydad",
+      "description": "This week Chris and Rosie discuss NFTS (!?), smart ovens and Storm Arwen. PLUS Rosie reveals a new listener! There’s some meaty beefs and the QFTPs involve some confusion at a funeral, friction burn and a pretty gross ‘would you rather?’! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/512e53da-e21f-11ef-ac77-f7162a2b6aee/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5459819923.mp3?updated=1741618556",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4013",
+      "speakers": [
+        "Sorry Dad",
+        "Storm Arwen",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "b1839a871a368a3e670a6e9ddefdcd87a9f12184",
+      "title": "Ep 144. Licence to snooze",
+      "published_at": "2021-11-26T05:05:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep144.licencetosnooze",
+      "description": "On the podcast this week Chris & Rosie chat about sharing the sofa with Will Smith and Chris’ train ride after. There’s a surprise visit from Belinda Beef who’s a bit confused to say the least and the QFTP’s range from fetish weeks to missing contraception. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/51838b84-e21f-11ef-ac77-2fc7aeb59373/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3370845471.mp3?updated=1741687809",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4102",
+      "speakers": [
+        "Will Smith",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "licence"
+      ]
+    },
+    {
+      "key": "988ba1a7fade84837dd38ced0b9ca7daa4d77a5a",
+      "title": "Ep 143. How’s Christine?",
+      "published_at": "2021-11-19T05:30:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep143.how-schristine-",
+      "description": "On the podcast this week Chris and Rosie get nostalgic over renting movies and discuss parenting in the 21st Century… are they bringing up posh kids? There’s a throwback beef and some brilliant QFTP including a car key itch and a wild weekend in Watford. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/51d9c530-e21f-11ef-ac77-5bc3822c0216/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6361770938.mp3?updated=1741797295",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3546",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "christine"
+      ]
+    },
+    {
+      "key": "c56b0a72acf4c8c54936097729c0b7505f860830",
+      "title": "Ep 142. Classic Borisina",
+      "published_at": "2021-11-12T05:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep142.classicborisina",
+      "description": "On the podcast this week the pair chat about Rosie’s trip to London, mistaken identity at Chris’ gig and the couple have some pretty exciting news! As well as this there’s some more crow chat, a business end experience and an early Christmas tree QFTP. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/522eb28e-e21f-11ef-ac77-ebd4cd414be4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9569871535.mp3?updated=1741797163",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3916",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "classic",
+        "borisina"
+      ]
+    },
+    {
+      "key": "404c45d781f255e5cdc022db7c6fc0874986ba33",
+      "title": "Ep 141. That’s a crow",
+      "published_at": "2021-11-05T05:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep141.that-sacrow",
+      "description": "On this week’s podcast things get personal! Chris and Rosie discuss sofas, sex, infidelity, and an inappropriate toenail arrangement. All of this plus a cracking ‘Would you rather…’. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/52843060-e21f-11ef-ac77-8b475e84b135/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1045007178.mp3?updated=1741797027",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3508",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crow"
+      ]
+    },
+    {
+      "key": "18abdfdfc4b4f17081d0d257e337b8adf0e14b40",
+      "title": "Ep 140. NOT a Halloween special",
+      "published_at": "2021-10-29T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep140.notahalloweenspecial",
+      "description": "It's almost Halloween but Chris has got no time for ghosts or people that have seen them. Rosie's on the fence. There's bladder (and bum) based beef and one listener has a Big Mac confession. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/52d767da-e21f-11ef-ac77-5f654fd5599a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6360823016.mp3?updated=1741796980",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3380",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "halloween",
+        "special"
+      ]
+    },
+    {
+      "key": "b60919d4627c88e481895467aa0c2e3c2469a4d7",
+      "title": "Ep 139. Baby name betrayal",
+      "published_at": "2021-10-22T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep139.babynamebetrayal",
+      "description": "Chris and Rosie had a date night and they're very hungover. Rosie's got some parenting dilemmas. There's door bell beef and some baby name betrayal. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/532a1ade-e21f-11ef-ac77-efc00e0fab8d/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6961355953.mp3?updated=1741796685",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3770",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "baby",
+        "betrayal"
+      ]
+    },
+    {
+      "key": "1d7effe0256b60c83b89239cfe5c673567e3bd12",
+      "title": "Ep 138. Party at the drive thru",
+      "published_at": "2021-10-15T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep138.partyatthedrivethru",
+      "description": "On the podcast this week Chris and Rosie discuss Rosie’s shortened swimming career, Chris’s forgetfulness and what may or may not have happened in The Minority Report. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5380bcb8-e21f-11ef-ac77-5b465235e759/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5576510113.mp3?updated=1741796360",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3497",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "party",
+        "drive"
+      ]
+    },
+    {
+      "key": "277a094146da25b67fa29845137748228f989f7c",
+      "title": "Ep 137. Oh Crumbs",
+      "published_at": "2021-10-08T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep137.ohcrumbs",
+      "description": "Rosie & Chris are back in your ears! The pair have a spanking new episode including a Celebrity Question, there’s a Rosie’s Mystery, some wonderful QFTP’s, long awaited beefs and a call from Rosie’s manager… it’s all happening! Enjoy x Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/53d48096-e21f-11ef-ac77-2f7787907191/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9043578715.mp3?updated=1741796291",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3713",
+      "speakers": [
+        "Rosie’s Mystery",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crumbs"
+      ]
+    },
+    {
+      "key": "b74e1ab64667629cf84d42e9a3b1f5dd6d4f8479",
+      "title": "Ep 136. Elephant Dolphin",
+      "published_at": "2021-10-01T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep136.elephantdolphin",
+      "description": "Chris & Rosie go way back in to the archives and share some more QFTP’s that never made the cut and they do not disappoint! There’s some classic nail grossness, a strange discussion about fire safety and an interruption from a maintenance man. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5428cba6-e21f-11ef-ac77-3f0ae7e2da73/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5700976716.mp3?updated=1741796171",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3452",
+      "speakers": [
+        "Elephant Dolphin Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "elephant",
+        "dolphin"
+      ]
+    },
+    {
+      "key": "940b711e28d4853c7a54d5af9b944e5bf88f8ec4",
+      "title": "Ep 135. Turbo time",
+      "published_at": "2021-09-24T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep135.-questionsfromthepublicspecial-",
+      "description": "On the podcast this week Chris and Rosie dig out some old questions that never made the podcast. There's a 12 inch garlic bread, turbo wees and some unfortunate translation. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5480e48a-e21f-11ef-ac77-9799801da88f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2383522775.mp3?updated=1741795992",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3103",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "turbo",
+        "time"
+      ]
+    },
+    {
+      "key": "349efe15b1e9c5b7fc97d6454dd1fc27d1717eed",
+      "title": "Ep 134. Bon bons in the knicker drawer",
+      "published_at": "2021-09-17T04:05:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep134.onetickettobelgianplease",
+      "description": "This week on the podcast Chris and Rosie share a new record that they have broken and why it’s one of their proudest moments! There’s the weekly beefs, and QFTP’s which involve nosey neighbours, a dead hamster and a tomato soup secret! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/54d67e86-e21f-11ef-ac77-930fd3ec37e5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6890478185.mp3?updated=1741795658",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3170",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "knicker",
+        "drawer"
+      ]
+    },
+    {
+      "key": "ce4f946ab913146abf36cf1c3c48fab896fa15f1",
+      "title": "Ep 133. The Iron Curtain",
+      "published_at": "2021-09-10T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep133.theironcurtain",
+      "description": "It’s been a tricky few days thanks to a temperamental curtain but the Ramsey’s are here to discuss their week, their beefs and your dirty laundry! There’s some mistaken identity, a cotton wool disappearance and some pregnancy advice, kind of. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/552b3c1e-e21f-11ef-ac77-8bb37e4b38d8/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6108957374.mp3?updated=1741795400",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3264",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "iron",
+        "curtain"
+      ]
+    },
+    {
+      "key": "7ff716f66d0a73d4f6789601ec9a6aa5a610c0ed",
+      "title": "Ep 132. Fish Guy",
+      "published_at": "2021-09-03T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep132.fishguy",
+      "description": "There is something fishy about this week’s episode and it’s not just the pets. The beefs involve siphoning and strictly and the QFTP’s cover embarrassing Dads, milky mash and Cruise Ship antics! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/55800316-e21f-11ef-ac77-f7b65f797782/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2747052627.mp3?updated=1741795220",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3688",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fish"
+      ]
+    },
+    {
+      "key": "ae19c9cacc61e8b9810b23c613929b3de810831a",
+      "title": "Ep 131. A thumbnail of wine",
+      "published_at": "2021-08-27T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep131.athumbnailofwine",
+      "description": "Rosie and Chris return and it’s STILL the summer holidays! When will they end?? The pair share their beefs over a little more than a thumbnail of wine and answer some questions from the smas and das which cover sex amnesia and swapping pants with your mum, enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/55d620e8-e21f-11ef-ac77-db6204005c9b/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8332401672.mp3?updated=1741794739",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3483",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "thumbnail",
+        "wine"
+      ]
+    },
+    {
+      "key": "2f1070abaea72459997774e28d7d2b59ccef7f56",
+      "title": "Ep 130. To whom it may concern",
+      "published_at": "2021-08-20T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep130.towhomitmayconcern",
+      "description": "This week Chris and Rosie record while the kids are in bed and it's a plonk cast. They chat Yorkshire puddings, analogies and there's a live show warm-up buzz in the air. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/562cca60-e21f-11ef-ac77-57362cd54955/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6402916743.mp3?updated=1741794389",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3209",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "89dcf6c7b63ae6a3902e51727177ae9e3d7bcbf0",
+      "title": "Ep 129. Rosie Harissa",
+      "published_at": "2021-08-13T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep129.rosieharissa",
+      "description": "Chris and Rosie are in the studio and there's been technical problems, again. They chat pets, suspicious texting and there's a new 'our house' feature. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/56840208-e21f-11ef-ac77-1f7611d0e548/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3883599286.mp3?updated=1741794161",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3807",
+      "speakers": [
+        "Rosie Harissa Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "rosie",
+        "harissa"
+      ]
+    },
+    {
+      "key": "8a4691fc22ddbe4a0600a21231ffa7186125f6c0",
+      "title": "Ep 128. Draw the minion!",
+      "published_at": "2021-08-06T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep128.drawtheminion-",
+      "description": "On this week’s podcast the Ramsey’s have some holiday kids club flash backs! Robin corrects Rosie’s spelling and Chris has some residual beef from sun stroke. Rosie puts her foot down over napkins and there is a live appearance from Sandra who helps out with some pronunciation. All of this plus some stinking QFTP’s. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/56d90e06-e21f-11ef-ac77-53fd9a8fe861/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5488034944.mp3?updated=1741793812",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3919",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "minion"
+      ]
+    },
+    {
+      "key": "26f0fc1067839850b8277bf055096ce2b9ab0e71",
+      "title": "Ep 127. Not a holiday",
+      "published_at": "2021-07-30T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep127.notaholiday-acasta4e0d86b",
+      "description": "The Ramsey's have been on holiday and Chris and Rosie are even more exhausted now. There's sunstroke beef and Chris wants a swimwear poll. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/572ca19c-e21f-11ef-ac77-53b514331d7d/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2103752337.mp3?updated=1741793620",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3207",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "holiday"
+      ]
+    },
+    {
+      "key": "63f378cadb7cf7402c225490814da866d45e1acb",
+      "title": "Ep. 126 Good Grief",
+      "published_at": "2021-07-23T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep.126goodgrief",
+      "description": "Rosie's been to the dentist and Chris can finally breathe a sigh of relief. There's laundry and chewing gum based beef and trips down holiday memory lane. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/57aad9f4-e21f-11ef-ac77-f38abdb7763a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9451778308.mp3?updated=1741792948",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3190",
+      "speakers": [
+        "Good Grief Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "good",
+        "grief"
+      ]
+    },
+    {
+      "key": "c1bf850f4dcd7208ad0e1675c84c53b7fc2423b6",
+      "title": "Ep 125. Return of the toenails",
+      "published_at": "2021-07-16T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep125.returnofthetoenails",
+      "description": "Chris is in the dog house after some technical problems but that doesn't stop the pair delivering another cracking episode for all the smas and das! This week they discuss cereal, manual labour and getting ready for a night out. The beefs are fresh and minty and the QFTP's cover a horrible nail chewing habit and some dirty sheets. All of this plus a surprise call from Rosie's brother. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/57fd1854-e21f-11ef-ac77-2fa3e493160b/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5271665074.mp3?updated=1741792765",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3354",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "return",
+        "toenail"
+      ]
+    },
+    {
+      "key": "3f6c5e125a18e9a65fe2da5978f13e9b0d470217",
+      "title": "Ep 124. The Midwife Always Knocks Twice",
+      "published_at": "2021-07-09T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep124.themidwifealwaysknockstwice",
+      "description": "On the podcast this week Chris & Rosie are getting in to Euro 2020 and Wimbledon – Chris knows the off side rule and attempts to explain the rules on Tennis. There is some minesweeping chat, a story from a midwife and an ethical dilemma. All of this plus some cracking beef, enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/58544b4c-e21f-11ef-ac77-7b60b9b83092/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5684358767.mp3?updated=1741792637",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3550",
+      "speakers": [
+        "Knocks Twice",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "midwife"
+      ]
+    },
+    {
+      "key": "f92277ca290665057e24fd335450bf6c08dccf86",
+      "title": "Ep 123. Case closed",
+      "published_at": "2021-07-02T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep123.caseclosed",
+      "description": "On the podcast this week the pair get topical, they return to the toothbrush saga and get opinionated over star signs. There is a stinky beef and some fabulous QFTP's... enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/58a94886-e21f-11ef-ac77-f325226b818e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8234552170.mp3?updated=1741792497",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3839",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "case"
+      ]
+    },
+    {
+      "key": "1a5583dae895f4c3945bf23022dcdf758ea57cb1",
+      "title": "Ep 122. Hack Guy",
+      "published_at": "2021-06-25T04:30:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep122.hackguy",
+      "description": "On this week’s podcast Robin has a new name for Chris which isn’t going down well and Rosie is feeling on the tired side. The pair discuss Love Island, crisp facts and why Rosie wouldn’t do the Masked Singer. As well as this, paramedic Jess returns and Robin makes a cameo, enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/590031f0-e21f-11ef-ac77-dff7b22f0282/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7895188369.mp3?updated=1741792187",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4039",
+      "speakers": [
+        "Hack Guy",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "hack"
+      ]
+    },
+    {
+      "key": "849f385606d6980607cb2bd17b2a6a44fae6af69",
+      "title": "Ep 121. One ring to rule them all",
+      "published_at": "2021-06-18T04:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep121.oneringtorulethemall",
+      "description": "This week on the podcast Rosie has had some bad news and is improvising with a new instrument, Chris helped push a car up a hill and they both bring some bed time beefs. QFTP's involve food minesweeping, medical students and an unexpected situation involving a fireman, batman and a damsel in distress. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/59579440-e21f-11ef-ac77-7b7eb278e7c3/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8767530194.mp3?updated=1741791961",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3695",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "ring"
+      ]
+    },
+    {
+      "key": "9ee89b256c1aa7d5edd6c70d839598c74816c05b",
+      "title": "Ep 120. Low hanging fruit",
+      "published_at": "2021-06-11T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep120.lowhangingfruit",
+      "description": "The time has come for Rosie to take the Crisp quiz! SMA’s can play along to… Chris has had a comment on his breath from Robin, Rosie gets annoyed at Chris’s reaction after watching a crime drama and the QFTP’s involve some pretty disgusting sieving, a modern day love story and some naughty holiday snaps. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/59addbd4-e21f-11ef-ac77-fb7cc1c5ef01/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1055959425.mp3?updated=1741791704",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3671",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fruit"
+      ]
+    },
+    {
+      "key": "bfa32c2755cc485682098c022cf6fc363afc6f9b",
+      "title": "Ep 119. Like father, like son",
+      "published_at": "2021-06-04T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep119.likefather-likeson-",
+      "description": "Rosie's got a new job, and Chris has got a new haircut. They talk unsuspecting occurrences, specialist subjects and there's going out beef. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a02ae98-e21f-11ef-ac77-1793d6084eae/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2116637787.mp3?updated=1741791153",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3809",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "father"
+      ]
+    },
+    {
+      "key": "afdf45482981b6aba1bd11c0fbebde01093a34c6",
+      "title": "Ep 118. What a man wants",
+      "published_at": "2021-05-28T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep118.whatamanwants",
+      "description": "Rosie's in a good mood and it's getting on Chris's nerves. They talk coffee in bed, back scratching and it seems like Instagram is taking a side, Chris's side. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a58b3a6-e21f-11ef-ac77-0f6fa49d0101/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3991860124.mp3?updated=1741790962",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3569",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "d84735c03369cab03fc6181510dc99a20b9bd233",
+      "title": "Ep 117. Festering Bowl of Bolognese",
+      "published_at": "2021-05-21T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep.117festeringbowlofbolognese",
+      "description": "Chris and Rosie are arguing and they're sorry. They talk syncing, catching lambs and queuing at Pizza Hut. Plus there's chicken tikka masala flavoured beef. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5aae0f40-e21f-11ef-ac77-6f1f2991039f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4214378184.mp3?updated=1741790803",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3683",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bowl",
+        "bolognese"
+      ]
+    },
+    {
+      "key": "a2d91a155dfb1e68e0089213e88104c5058207cc",
+      "title": "Ep 116. Instructed by tumblers",
+      "published_at": "2021-05-14T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep116.instructedbytumblers",
+      "description": "On the podcast this week there is an update on Sandra’s stash and Rosie’s lamp problem continues. The pair discuss some novelty glasses and the pros and cons of shopping as a family. QFTP’s involve some tough blisters, a poorly judged wedding prank and an attempt at food poisoning. Plus Rosie shares a childhood memory of a trip to a bread factory. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b028868-e21f-11ef-ac77-43781147c174/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3449462379.mp3?updated=1741790680",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4035",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "tumbler"
+      ]
+    },
+    {
+      "key": "ef896778a93eebfe51fc579746db1e1320b3b044",
+      "title": "Ep 115. Sidebored",
+      "published_at": "2021-05-07T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep115.sidebored",
+      "description": "On the podcast this week both Chris and Rosie come with some new features for the show. Expect unusual wishes and animal facts! Rosie has a parenting beef whilst Chris's are more interior based. QFTP's involve a trip to the doctors, an unfortunate puppy name and some mistaken identity. See you all at the bottle bank! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b573fde-e21f-11ef-ac77-d3722d37808d/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7365925781.mp3?updated=1741790578",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3502",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6b3b2cb1c13eb630cce67d6932cf9187d658cf2d",
+      "title": "Ep 114. A lady from the 90's",
+      "published_at": "2021-04-30T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep114.aladyfromthe90s",
+      "description": "On the podcast this week Chris & Rosie have some exciting SMA news! They discuss that thing called fashion, second hand clothing and Robin’s trampolining incident. The beefs are eggy and QFTP’s involve bins, a PDA that goes wrong and an unusual use of a plastic bag… environmentally friendly though. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5bad8628-e21f-11ef-ac77-1334c332b091/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7681478994.mp3?updated=1741790406",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3641",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "lady"
+      ]
+    },
+    {
+      "key": "5cf12fa8bc3e9422640cd54e75873dd5e82452e9",
+      "title": "Ep 113. How deep do you sleep?",
+      "published_at": "2021-04-23T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep113.howdeepdoyousleep-",
+      "description": "On the podcast this week Rosie revives Rosie's Mysteries and it does not disappoint. The pair discuss their schedules which includes waiting in for a dishwasher and some chilly pub visits. Beefs cover some nosey behaviour and a long awaited haircut. As ever the QFTP's are brilliant - there is coffin advice, an unfortunate nosebleed situation and a virtual reality headset. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5c03b53e-e21f-11ef-ac77-dbc9ac814816/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3616569363.mp3?updated=1741790128",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3971",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "707f2f336cd9a0f7032b49805a3a538ddb5f2e7a",
+      "title": "Ep. 112 Coal-Slaw",
+      "published_at": "2021-04-16T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep.112coal-slaw",
+      "description": "It's probably the best day of Chris's life, things are open! Meanwhile Rosie clears up coleslaw and recalls a cooking nightmare. They chat talents and come up with a segment for the live show. Plus Rosie has a new song. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5c595b38-e21f-11ef-ac77-2fa6d379b199/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3754959197.mp3?updated=1741789886",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4241",
+      "speakers": [
+        "Plus Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "coal",
+        "slaw"
+      ]
+    },
+    {
+      "key": "5f01fd10ca6cf67807d4fcf0eaadfb169784f90a",
+      "title": "Ep 111. Total (lack of) Recall",
+      "published_at": "2021-04-09T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep111.total-lackof-recall",
+      "description": "It's ba*tard cold so Rosie's recording in her dressing gown. Belinda Beef is back with her best greeting yet and Rosie inadvertently makes a mystery out of a movie. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5cad4450-e21f-11ef-ac77-97d0370df957/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3874302055.mp3?updated=1741789759",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4126",
+      "speakers": [
+        "Belinda Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "lack"
+      ]
+    },
+    {
+      "key": "efad6d005e75a429b49810bf2dfef45b4e7309ab",
+      "title": "Ep 110. 110 take 2",
+      "published_at": "2021-04-02T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep110.110take2",
+      "description": "It's not been an easy week of podcasting for Chris & Rosie... somewhere in the universe there are deleted audio files never to be found! Not to worry though as the pair recorded the show again! Here on take two of episode 110 the couple discuss jiving, medical samples, curry after effects and excuses for calling in sick. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5d033aa4-e21f-11ef-ac77-a76d89886679/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6762990958.mp3?updated=1741789541",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4161",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "cac4817398e313c640f962bcf3f682cadfd8ecf3",
+      "title": "Ep 109. Flannel Heavy",
+      "published_at": "2021-03-26T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep109.flannelheavy",
+      "description": "Chris and Rosie bring you the first podcast from their new home! The pair share removal men stories, some beef that gets Chris in to trouble and an unlikely photoshopped Dad for Robin and Rafe. There is a fair bit of flannel chat, discussion over grown ups getting pocket money and an unusual Funeral tradition. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5d595d44-e21f-11ef-ac77-e3c81e117dc0/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1818970531.mp3?updated=1741789398",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3812",
+      "speakers": [
+        "Flannel Heavy",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "flannel",
+        "heavy"
+      ]
+    },
+    {
+      "key": "530d04bc1497d3c31af092afcba0c2058efb996f",
+      "title": "EP 108. Carpet Squares",
+      "published_at": "2021-03-19T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep108.passthecarpetsquares",
+      "description": "On the podcast this week Chris & Rosie discuss bad haircuts, Mothering Sunday and Valentines. They are joined by Barry Beef and they share the grievances from the week. QFTP's include a breastfeeding mix up, couscous and some kinky clapping. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5dae100a-e21f-11ef-ac77-df1204cd3739/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9137087405.mp3?updated=1741789155",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3327",
+      "speakers": [
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "carpet",
+        "square"
+      ]
+    },
+    {
+      "key": "d00a7bbf618b49c46036224f5441783b662fb072",
+      "title": "Ep 107. Bucking Mad",
+      "published_at": "2021-03-12T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep107.buckingmad",
+      "description": "On the podcast this week Chris and Rosie discuss grey hairs, lockdown babies and the SMA tour. There is a Rosie's mystery that involves some swollen genitalia, the beefs get crispy (literally) and a listener gets in touch to share an unusual use of a sock. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5e02b9e8-e21f-11ef-ac77-8b8f32d4934c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9804198404.mp3?updated=1741788911",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3892",
+      "speakers": [
+        "grey hairs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f07ae347693d0730beebf1f4cc1e614917e4ed44",
+      "title": "Ep 106. Pay as you go go go go go",
+      "published_at": "2021-03-05T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep106.payasyougogogogogo",
+      "description": "It's not long until the kids are back at school and Chris and Rosie's are in high spirits. They discuss the SMA tour, the return of Bike Guy and how they would feel if Louis Theroux took over their podcast. There's a brilliant Rosie's Mystery and some jaw dropping QFTP's. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5e80e66a-e21f-11ef-ac77-db68e4253932/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3663512705.mp3?updated=1741788833",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4516",
+      "speakers": [
+        "Bike Guy",
+        "Louis Theroux",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "5442a74c6e0d65f5b6a66195795385847bcaf553",
+      "title": "Ep 105. Coffin Confessors",
+      "published_at": "2021-02-26T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep105.coffinconfessors",
+      "description": "On the podcast this week Rosie revives Rosie's Mysteries with a special canine edition! Chris has been walking much to Rosie's despair and the beefs get tense! There's some spag bowl discussion, a supermarket romance and a funeral tradition that get the guys thinking. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5ed76d64-e21f-11ef-ac77-c7de1fba8efb/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9319259301.mp3?updated=1741788681",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3948",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "coffin",
+        "confessor"
+      ]
+    },
+    {
+      "key": "88f1199e12caa9297c5c55d39ee82324fd1a08d6",
+      "title": "Ep 104. Flock of Lasagne",
+      "published_at": "2021-02-19T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep104.flockoflasagne",
+      "description": "On the podcast this week Chris shares why he think's his wardrobe is effecting his mood and Rosie reveals why she made a certain purchase in the week. They discuss Rosie's Jaw and Robin's latest choice of TV Show. There's some fresh beef and QFTP's that involve a kilt, lasagne and some Sambuca. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5f2dfdfa-e21f-11ef-ac77-332192e33f65/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4310466542.mp3?updated=1741788565",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3659",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "flock",
+        "lasagne"
+      ]
+    },
+    {
+      "key": "387f535fb85c7c8338927b0cf7404973eab06194",
+      "title": "Ep 103. Bones",
+      "published_at": "2021-02-12T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep103.bones",
+      "description": "This week on the podcast Rosie welcomes you to Sunshine Land! There's a ankle update from Chris, some phantom baby crying, strange German trolling news and an appearance from Belinda Beef! QFTP's involve extravagant first dates and an office poll about mash, beans and jelly! Enjoy. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5f81d57e-e21f-11ef-ac77-17cd61f43980/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7192140616.mp3?updated=1741788419",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4018",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bone"
+      ]
+    },
+    {
+      "key": "d3ba18180d1c0c0e12e8fa757070bbe7ec601caa",
+      "title": "Ep. 102 Cremetisserie",
+      "published_at": "2021-02-05T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep.102cremetisserie",
+      "description": "Rosie and Chris are back! They have a new baby and a breastfeeding update. The beefs have been mounting and there are some injury based questions from the public. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5fd587dc-e21f-11ef-ac77-079f4e48d17e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2620732631.mp3?updated=1741788291",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4210",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "cremetisserie"
+      ]
+    },
+    {
+      "key": "d7b1df7318afadaa67344cafa9dab9f6e6e07cad",
+      "title": "Ep 101. Maternity Leave #3",
+      "published_at": "2021-01-29T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep101.maternityleave-3",
+      "description": "It's the final week of the maternity leave episodes and Chris and Rosie bring you some of the questions that never made it the first time round. There's some bird bath scandal, chicken minesweeping and a lucky burglar. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6029c5fe-e21f-11ef-ac77-67276573e2df/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6706936059.mp3?updated=1741784595",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2480",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "maternity",
+        "leave"
+      ]
+    },
+    {
+      "key": "8efcfdd783a405362cd342098e890cebbea05d82",
+      "title": "Ep 100. Best of #1",
+      "published_at": "2021-01-22T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep100.bestof-1",
+      "description": "This week on the podcast Chris & Rosie celebrate 100 episodes! They might be on maternity leave with a broken ankle but they have recorded a message to introduce the best of SMA so far. Expect age old beefs, some brilliant QFTP's, a brief cameo courtesy of Rosie's Nana and THAT story about the breastfeeding groom. Enjoy and a big thanks to all the smas & das! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6081a15c-e21f-11ef-ac77-6790b9ed0099/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4349132685.mp3?updated=1741783894",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5937",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "f2728bf301b51c86da1c3c46454f645d57fb27e2",
+      "title": "Ep 99. Maternity Leave #2",
+      "published_at": "2021-01-15T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep99.maternityleave-2",
+      "description": "On this week's maternity leave edition of the podcast Chris & Rosie bring you some of the QFTP's that didn't make the first cut! They involve a a windy Dad, a shopping disaster and some jacket potato discussion. There's also a cameo from a certain member of the Ramsey clan! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/60d557de-e21f-11ef-ac77-3b3cd292582b/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5304260228.mp3?updated=1741783195",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2240",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "maternity",
+        "leave"
+      ]
+    },
+    {
+      "key": "881c64d5e00d9d299d488c03740b1adcd0215667",
+      "title": "Ep 98. Maternity Leave #1",
+      "published_at": "2021-01-08T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep98.outofofficereply2021-1",
+      "description": "This week on SMA you get to hear the stories and questions that didn't make it the first time round! Chris & Rosie saved some brilliant (and filthy) bits for all the smas and das to enjoy while they take some time off. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/612a5e0a-e21f-11ef-ac77-1358b5ba21d9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4349534695.mp3?updated=1741783060",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2212",
+      "speakers": [
+        "Maternity Leave",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "maternity",
+        "leave"
+      ]
+    },
+    {
+      "key": "9b9125f94455e66a1f8e489138f1187289bb4f94",
+      "title": "Ep 97. Docket or Not",
+      "published_at": "2021-01-01T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep97.docketornot",
+      "description": "It's 2021 and thank F for that! Chris and Rosie talk about YouTube sensation Ryan, crap Christmas presents and Rosie has a cemetery related mystery...plus Chris has been holding back a question from the public you'll probably wish you'd never heard. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/617dd15c-e21f-11ef-ac77-279c948aca98/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9483743794.mp3?updated=1741782720",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4480",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "docket"
+      ]
+    },
+    {
+      "key": "4cf9a43ebc23692aef1b5faf9ae153d633881d08",
+      "title": "Ep 96. Christmas Bonus Special",
+      "published_at": "2020-12-25T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep96.christmasbonusspecial",
+      "description": "It's Christmas day! And Rosie and Chris have got some not going out at Christmas advice, spoon based beef and a few festive questions from the public. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/61d3208a-e21f-11ef-ac77-afb7ca902d8a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9968138747.mp3?updated=1741782469",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2857",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "christmas",
+        "special"
+      ]
+    },
+    {
+      "key": "502d7c9776288d7c9307e8b089d88d486c8c88a2",
+      "title": "Ep 95. Turkey leg-over",
+      "published_at": "2020-12-18T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep95.turkeyleg-over",
+      "description": "It's the week before Christmas and the Ramsey's are getting festive! They both confess their envy over a Christmas ornament and worry about what has now become the Christmas covid 'bauble'. There are some festive beefs (and non festive ones!) and some wonderful Christmas themed QFTP... anyone seen that scooter? Merry Christmas everyone! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/62267adc-e21f-11ef-ac77-c39d8378012b/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1196721188.mp3?updated=1741782228",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4399",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "turkey"
+      ]
+    },
+    {
+      "key": "1a08165167418d2a8977035e10bafb86d465f251",
+      "title": "Ep 94. Gorgey Hun",
+      "published_at": "2020-12-11T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep94.gorgyhun",
+      "description": "On the podcast this week the Ramsey's discuss thrupples, nostalgic trips to the football, beverages in the shower and a frisky farmer. All of this plus Rosie's Mysteries, weekly beefs and the return of Belinda! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/627f338e-e21f-11ef-ac77-67ca0296ac4a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4576511643.mp3?updated=1741782029",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4029",
+      "speakers": [
+        "Gorgey Hun",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "gorgey"
+      ]
+    },
+    {
+      "key": "dcb9f3ddb944d751d7a818eb9da61b74ad4094b1",
+      "title": "Ep 93. Living with Meatloaf",
+      "published_at": "2020-12-04T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep93.livingwithmeatloaf",
+      "description": "On the podcast this week Rosie reveals what Robin thinks of his parents, there's some bath based beef and some festive singing. QFTP's involve a phantom farter and a strange pregnancy craving. All of this plus the couple are joined by TV Presenter, Steph McGovern, for a quick chat! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/62d413fe-e21f-11ef-ac77-13bd062b75df/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2566961263.mp3?updated=1741781804",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3809",
+      "speakers": [
+        "Steph McGovern",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "meatloaf"
+      ]
+    },
+    {
+      "key": "aef2e051659ca264bd02ab4d8a64b34a35a195de",
+      "title": "Ep 92. Narrow Church",
+      "published_at": "2020-11-27T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep92.narrowchurch",
+      "description": "On the podcast this week Chris is revealed as a listener's guilty crush but there are some questions surrounding his character, the couple celebrate no longer peeing in a bucket and they discuss their Sunday Brunch experience. Barry Beef makes a return and QFTP's involves gin miniatures and bad dates! Enjoy. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/632805cc-e21f-11ef-ac77-43f4deb9ef84/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8922827668.mp3?updated=1741781626",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4038",
+      "speakers": [
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "narrow",
+        "church"
+      ]
+    },
+    {
+      "key": "aa91a941e5b280ab12a08733a06d34f94ebbc0ff",
+      "title": "Ep 91. See this finger, see this thumb",
+      "published_at": "2020-11-20T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep91.seethisfinger-seethisthumb",
+      "description": "This week on the podcast the Ramsey’s catch you up on their week – twin tilers, an electric boot problem and Rosie gets her words mixed up. There’s a fruity Rosie’s mystery and some beefs that might involve an expensive testing habit for Chris. Q’s from the p’s range from a stinky old pillow to a strange wedding night tradition. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/637db6ca-e21f-11ef-ac77-6bdc1bf3429a/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8256521386.mp3?updated=1741781529",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4167",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "finger",
+        "thumb"
+      ]
+    },
+    {
+      "key": "3375b369cf0d1b30ac155b44f45bfadbac7c8bc0",
+      "title": "Ep 90. Bed Kegs",
+      "published_at": "2020-11-13T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep90.bedkegs",
+      "description": "Tensions are running high in the Ramsey household this week, so much so, there is some organic early beefs! Rosie and Chris discuss Outlander, sharing dreams and Nana Bridget. There's a Rosie's Mystery plus some brilliant QFTP.... communal underwear anyone? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/63d1cde6-e21f-11ef-ac77-b7b9dea9cfb0/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4378827028.mp3?updated=1741781304",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4394",
+      "speakers": [
+        "Bed Kegs Tensions",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "kegs"
+      ]
+    },
+    {
+      "key": "b27c0bbec81d756baaccb340f20a18fbef3b8002",
+      "title": "Ep 89. Where you bin my love?",
+      "published_at": "2020-11-06T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep89.whereyoubinmylove-",
+      "description": "It's a busy week for the sma's and da's - Rosie has a new song to share and Chris (with some help from the PM) has a lockdown quiz for all to play along. The couple discuss Jacket potatoes v's Toasties, how to beat an egg and male personal hygiene. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6422d22c-e21f-11ef-ac77-33557bd71e63/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5197041104.mp3?updated=1741780920",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3816",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "key": "a4309fbddc9a3f1d509085f2c6e3c3ea9f424328",
+      "title": "Ep 88. Mr Saturday Night",
+      "published_at": "2020-10-30T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep88.mrsaturdaynight",
+      "description": "This week Chris and Rosie talk about second hand bath water, have Mr Saturday Night related beef and some fact checking phone calls from Rosie's family. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6475f146-e21f-11ef-ac77-17764fb12f76/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8769425052.mp3?updated=1741778737",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4694",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "saturday",
+        "night"
+      ]
+    },
+    {
+      "key": "a895c9c1ff9bdd103c62972db34607191b652444",
+      "title": "Ep. 87 Heels and shoulders",
+      "published_at": "2020-10-23T06:00:04+00:00",
+      "link": "https://play.acast.com/s/sma/ep.87heelsandshoulders",
+      "description": "The Ramsey's are back for another cracking episode - this week Rosie is getting in festive with some Halloween and Christmas plans. There's some beef, a mystery which Chris does pretty well with and some great QFTP's. Yoghurt anyone? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/64c7ce3a-e21f-11ef-ac77-e3e232cbaecc/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7602858172.mp3?updated=1741715211",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3950",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "heels",
+        "shoulder"
+      ]
+    },
+    {
+      "key": "7bba1aa0387a04b1616b1f2192c7fee617bac622",
+      "title": "Ep 86. The today after tomorrow",
+      "published_at": "2020-10-16T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep86.thetodayaftertomorrow",
+      "description": "This week on the podcast the pair discuss socially distanced chat up lines, almost love on the tube and a knicker thief. Rosie delivers another great mystery involving airport security and the eef's lead to a potential unexpected fashion statement. All this plus is there a new Superhero on the horizon? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/65189004-e21f-11ef-ac77-975a90d7c378/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1845945400.mp3?updated=1741713080",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3781",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "today",
+        "tomorrow"
+      ]
+    },
+    {
+      "key": "30c46cb7b1863ae4d7c9df1b9409cdb9318ee63e",
+      "title": "Ep 85. Mark of Zorro",
+      "published_at": "2020-10-09T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep85.markofzorro",
+      "description": "On the podcast this week things get a little sexy with some fruity QFTP's. The beef's are as animated as ever with Rosie's being particularly straight to the point! There is some covid romance chat, some dogging discussion and a would you rather that involves breaking wind. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/656d0846-e21f-11ef-ac77-13f5d58f36ea/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1108352403.mp3?updated=1741712864",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4105",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "mark",
+        "zorro"
+      ]
+    },
+    {
+      "key": "3fa7332c1a1ebb891ce20fd36328046c345be620",
+      "title": "Ep 84. Top Sheet",
+      "published_at": "2020-10-02T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep84.topsheet",
+      "description": "Rosie and Chris are recording from their office this week. It's strictly business and also some Gaviscon flavoured beef, chicken burger mysteries and an assortment of questions from the public. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/65be43fa-e21f-11ef-ac77-d3727d4ea9f9/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9979970639.mp3?updated=1741712575",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3918",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "sheet"
+      ]
+    },
+    {
+      "key": "e36ed9192d33046b80121ce3953ca113b02e3f13",
+      "title": "Ep 83. Give me an A",
+      "published_at": "2020-09-25T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep83.givemeana",
+      "description": "This week on the podcast Chris shares his lockdown woes and Rosie shares some of his snoring! The mysteries have a little addition and the beef's double up. There are some brilliant QFTP's... including one that raises a medical question. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/66108aa2-e21f-11ef-ac77-df64713a0491/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9928639328.mp3?updated=1741711894",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4227",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "12fef576d71812745de32dfb933302d3cae18093",
+      "title": "Ep 82. Minty Fresh",
+      "published_at": "2020-09-18T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep82.mintyfresh",
+      "description": "On the podcast this week Chris surprises Rosie with a new feature! The pair discuss who gets what in a break up, baby showers v's wetting the babies head, some ear lobe sucking and a minty fresh experience that went wrong. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6663d400-e21f-11ef-ac77-0baf9c01f844/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8434543988.mp3?updated=1741711604",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4305",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "minty",
+        "fresh"
+      ]
+    },
+    {
+      "key": "7b06ddf9c6e657713dcbb0bb203f670a06a82c31",
+      "title": "Ep 81. Spite Salmon",
+      "published_at": "2020-09-11T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep81.spitesalmon",
+      "description": "The Ramsey's have reason to celebrate this week after becoming bestsellers and it's got Rosie pretty emotional! On the podcast the couple discuss little white lies, stranger danger, trigger warnings and orchestrated arguments. All of this plus a question from Phil Ellis and the brilliant Rosie's Mysteries. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/66b6626a-e21f-11ef-ac77-5be22f567523/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3623854933.mp3?updated=1741707201",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4159",
+      "speakers": [
+        "Phil Ellis",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "spite",
+        "salmon"
+      ]
+    },
+    {
+      "key": "dec99aab6ceb88ba15b6fa36a9b9472f4c3ce143",
+      "title": "Ep 80. Auntie Pat",
+      "published_at": "2020-09-04T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep80.auntiepat",
+      "description": "This week on the podcast Chris and Rosie celebrate the release of their book and Barry Beef gets in touch with some kind words for the couple... Rosie's Mysteries returns and there is an update on Chris' ear wax! As well as this enjoy some brilliant QFTP's including an incredibly awkward date and a great wedding story. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6708422e-e21f-11ef-ac77-075e0c015e12/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1569884485.mp3?updated=1741706991",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4472",
+      "speakers": [
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "auntie"
+      ]
+    },
+    {
+      "key": "4ed066646eb744ea781ea4bd009403131ec749ca",
+      "title": "Bonus Episode",
+      "published_at": "2020-09-03T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/bonusepisode",
+      "description": "To celebrate the release of Sh**ged Married Annoyed the Book here is bonus podcast ep with a couple of clips from the audiobook, enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/675b0a0e-e21f-11ef-ac77-0b0a66416eb4/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9832132835.mp3?updated=1738581298",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1117",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "ecd3e4d286e503badba2836d0a9c5d00596dc159",
+      "title": "Ep 79. Around the World",
+      "published_at": "2020-08-28T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep79.aroundtheworld",
+      "description": "It's almost back to school time and Rosie is feeling unprepared - will Robin be using the lost property PE kit? Also this week, Chris is missing his drinking partner and is determined to get Rosie out of the motorhome. As well as this the term 'Gilf' is used on the podcast for the first time and there is some eggy discussion plus perhaps the most awful wedding story ever. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/67b0aef0-e21f-11ef-ac77-9727c6bd3e38/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2052106866.mp3?updated=1741706590",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4398",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "world"
+      ]
+    },
+    {
+      "key": "20a926ae71da2e002156aa349d8b93ceec4deb3c",
+      "title": "Ep 78. Magnety",
+      "published_at": "2020-08-21T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep78.magnety",
+      "description": "On the podcast this week the couple discuss Robin's latest behaviour, Chris' week in London and an unfortunate bike accident. Rosie's Mysteries returns alongside some familiar beef and some bizarre QFTP's. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/68044218-e21f-11ef-ac77-33ccf2920d33/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6696661537.mp3?updated=1741701824",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4226",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "magnety"
+      ]
+    },
+    {
+      "key": "d1fea5d6dad3c4cb0abbadcc95ecb5e1b392285c",
+      "title": "Ep 77. Eat Your Words",
+      "published_at": "2020-08-14T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep77.eatyourwords",
+      "description": "This week Chris and Rosie are recording from a hotel. They reflect on their motorhome holiday and Rosie solves more mysteries. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6856d6e0-e21f-11ef-ac77-b76291bda49c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9948214373.mp3?updated=1741701814",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4454",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "word"
+      ]
+    },
+    {
+      "key": "ff56c59ce9a21307c38528932805d67f008e22d7",
+      "title": "Ep 76. Sweet sixteen unicorn",
+      "published_at": "2020-08-07T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep76.sweetsixteenunicorn",
+      "description": "No only has it been motorhome week in the Ramsey household but it was also Chris' Birthday and there was an unusual choice of cake. There are vehicle based beefs and another instalment of Rosie's Mysteries - all of this plus some great QFTP's. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/68aa270a-e21f-11ef-ac77-ff8d9c686e35/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9052333620.mp3?updated=1741701422",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4193",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "unicorn"
+      ]
+    },
+    {
+      "key": "f50e40c202010c3fc26506c934ce7c60dca819b2",
+      "title": "Ep 75. A breath of fresh air",
+      "published_at": "2020-07-31T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep75.abreathoffreshair",
+      "description": "This week on the podcast Chris and Rosie discuss hot baths, zoom dates, Guinea Pigs and revenge. It's also the week that sees the debut of Rosie's new feature... enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/69017e60-e21f-11ef-ac77-9b69a7d6a377/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7479800883.mp3?updated=1741697861",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3772",
+      "speakers": [
+        "Guinea Pigs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "breath"
+      ]
+    },
+    {
+      "key": "9ad6324d591e0a5eb831f0a63442e751d24845fa",
+      "title": "Ep 74. Queen Bee in The Side Garden",
+      "published_at": "2020-07-24T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep74.queenbeeinthesidegarden",
+      "description": "This week Chris and Rosie discuss their new flying neighbours. Rosie has a mystery...which is promptly solved and they hear about what not to do after you've been to Nandos. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/69568c34-e21f-11ef-ac77-eff35dd347d5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4732956029.mp3?updated=1741697649",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3850",
+      "speakers": [
+        "Queen Bee",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "queen",
+        "garden"
+      ]
+    },
+    {
+      "key": "7df62d23d8f5ced1bb131756363638e3885e20d7",
+      "title": "Ep 73. 36 hours later",
+      "published_at": "2020-07-17T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep73.36hourslater",
+      "description": "Another big week in the Ramsey household! Not only did they win a British Podcast Award (thanks smas & das) but they also announced a new addition to the family and perhaps a motorhome too! This week the pair discuss an odd date involving taxidermy, a drunk Dad doing DIY and they answer a big question that involves a trip to the bathroom and a million pounds. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/69addde0-e21f-11ef-ac77-6f9bc811fdcf/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8607899584.mp3?updated=1741697382",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4220",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "hour"
+      ]
+    },
+    {
+      "key": "8571c9b02f57be334e706bdca889ba6bc8e47090",
+      "title": "Ep 72. Guest in the nest",
+      "published_at": "2020-07-10T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep72.guestinthenest",
+      "description": "It's been quite the week for the Ramsey's. So much so there is double beef! Rosie explains some Real House Wives lingo and Chris reveals why he is not Bike Guy. There are some tales of childhood punishments and a strange choice of sleeping arrangements. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6a050c3c-e21f-11ef-ac77-6704344887ff/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6424957070.mp3?updated=1741697094",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3919",
+      "speakers": [
+        "Bike Guy",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "guest",
+        "nest"
+      ]
+    },
+    {
+      "key": "bf99b65924411494dc902d993cae7f301e1b4e63",
+      "title": "Ep 71. Dull as dishwater",
+      "published_at": "2020-07-03T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep71.dullasdishwater",
+      "description": "On the podcast this week Rosie and Chris have their weekly catch up and of course The Beefs! They reveal Robin's new term for Rosie and Chris explains why he's getting through so many Birthday Cakes in lockdown. There's skiving off school confessions, a militant Grandmother and a question about toilet seats. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6a5c9286-e21f-11ef-ac77-672ab295ce25/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1904733385.mp3?updated=1741696861",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3981",
+      "speakers": [
+        "Birthday Cakes",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "dishwater"
+      ]
+    },
+    {
+      "key": "52227ef93ed3b20e33475af4aa63701fde124566",
+      "title": "Ep 70. Seventy several",
+      "published_at": "2020-06-26T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep70.seventyseveral",
+      "description": "This week on the podcast there is a log update, Chris's new coffee invention and the rules of the SMA drinking game are revealed! QFTP's include a clapping complaint, an unusual Doctors appointment and a DNA dilemma. Also this week, friend of the show Carl Hutchinson gets in touch with a question for the couple. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ab30a76-e21f-11ef-ac77-a7bd08bd1e01/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2478934731.mp3?updated=1741690761",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4422",
+      "speakers": [
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6be5ab47e160d89eb6afc07236db679da8a283ac",
+      "title": "Ep 69. Meal for Two",
+      "published_at": "2020-06-19T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep69.mealfortwo",
+      "description": "On the podcast this week, it's meal for two time! Chris and Rosie bring their beef to the table and discuss their week which involves Chris potentially buying enough logs to build a cabin. QFTP's vary from a pizza slice being hidden in a questionable place to a story about a giant Ant that ends in tears. All of this plus a brilliant question from Scott & Jemma Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6b0800a8-e21f-11ef-ac77-03fe80fcfeb2/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6700718175.mp3?updated=1741690420",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4351",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "meal"
+      ]
+    },
+    {
+      "key": "1ed479ba9b64fe2b66ec1bbdf99b27df2693289d",
+      "title": "Ep 68. Dental dam",
+      "published_at": "2020-06-12T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep68.dentaldam",
+      "description": "This week on the podcast Chris has chosen the questions and there is some absolute corkers, including some safe sex advice, an awkward text scenario and and update on a potential covid romance. As well as this, Rosie shares her annoyance with Birthdays and they both share the moment they nearly got a pet. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6b617a5c-e21f-11ef-ac77-3f0cf93711e3/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1700842880.mp3?updated=1741689984",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4184",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "714130ef9a1439cf8738f7680c9c7841622af508",
+      "title": "Ep 67. Streets of Heferlon",
+      "published_at": "2020-06-05T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep67.streetsheferlon",
+      "description": "The beefs get real on this week's podcast when Rosie takes it to a whole new level! The pair discuss the six in a garden dilemma and they share the joy of Robin starting to do chores. As always the QFTP's go from the weird to the disgusting - this week they include a Pizza rating system, a smelly face and questionably, charitable ex boyfriend. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6bb62a2a-e21f-11ef-ac77-d71aae2aa25c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6304590770.mp3?updated=1741689683",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3851",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "street",
+        "heferlon"
+      ]
+    },
+    {
+      "key": "d90b3ecda66744ffa75a7c45d6d0724ac52f0d53",
+      "title": "Ep 66. Fortune cookies",
+      "published_at": "2020-05-29T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep66.fortunecookies",
+      "description": "On this week's podcast Rosie's love of cushions is escalating and Chris is having none of it. There is some discussion over the pronunciation of nougat, a potential lockdown love story and some strange one night stand behaviour. All of this plus a story about a car sale that takes a very strange turn. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6c0d8180-e21f-11ef-ac77-3723d687a54f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3915610958.mp3?updated=1741689153",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3769",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fortune",
+        "cooky"
+      ]
+    },
+    {
+      "key": "7c6279a835af5a821ac29825abbad619a0d84897",
+      "title": "Ep 65. Love Birds",
+      "published_at": "2020-05-22T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep65.lovebirds",
+      "description": "It's episode 65 of the podcast and Chris is officially a 'bike guy' but Rosie has some rules about this escalating hobby. The pair discuss breastfeeding, piercings, bad wedding presents and ghosts. There is some brilliant utensil based beef and angry Sharon from the pub makes an appearance to discuss her new club. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6c64136a-e21f-11ef-ac77-87c01bc39781/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1182432406.mp3?updated=1741688946",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4228",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "love",
+        "birds"
+      ]
+    },
+    {
+      "key": "2707ae9bdf2355c7b97ea88770c9bf9bb7a3ad16",
+      "title": "Ep 64. Bath Buddy",
+      "published_at": "2020-05-15T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep64.bathbuddy",
+      "description": "On the podcast this week Rosie's beef backfires and Chris gets annoyed at plants! They compare PE Classes and Rosie shares the details of her school trip to Holy Island.There are some great QFTP's - involving bathing, eating yogurt without a spoon and drunken nights in a playsuit. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6cbaddee-e21f-11ef-ac77-cff0e46837f1/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7345167255.mp3?updated=1741360371",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4902",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bath",
+        "buddy"
+      ]
+    },
+    {
+      "key": "52a431b908ecb5111144871d066df076e7470826",
+      "title": "Ep 63. The Twits",
+      "published_at": "2020-05-08T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep63.thetwits",
+      "description": "On the podcast this week we find out who made an unlikely appearance in The Ramsey's wedding photos and why Chris is staying relatively calm during a pandemic. There's a drink based beef and an announcement from Barry. Some great QFTP's and the first ever Shagged Married Annoyed guests! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6d0fb03a-e21f-11ef-ac77-d7832403f86c/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6421647169.mp3?updated=1741360569",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5271",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "twit"
+      ]
+    },
+    {
+      "key": "d52895cb181d6d771555d58e355ec59ebae225a4",
+      "title": "Ep 62. Yarden",
+      "published_at": "2020-05-01T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep62.yarden",
+      "description": "On this week's podcast Rosie reveals what she likes to do at train stations and Chris has some ideas for the next series of Strictly. The beef's get juicy and there are some very impressive Lamb impressions (why not?!). They discuss horror movies, ice eating and what to do when you find a sex toy in your new home (and it's not yours). Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6d62bf1e-e21f-11ef-ac77-83039b34b1c5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7615253194.mp3?updated=1741360026",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4302",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "yarden"
+      ]
+    },
+    {
+      "key": "88298115e7938b3eb6f688d289c12b515d9789c2",
+      "title": "Ep 61. My lover",
+      "published_at": "2020-04-24T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep61.mylover",
+      "description": "This week on the podcast The Ramsey's talk about their main motivation behind exercise and they settle on a new way of introducing each other. Chris gets a taste of his own medicine and Rosie gets annoyed at how good her husband is looking. There's some smelly Q from the's P's and some great childhood fibs! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6db6cb68-e21f-11ef-ac77-73094d26426f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8801549463.mp3?updated=1741359979",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4490",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "lover"
+      ]
+    },
+    {
+      "key": "7142faccd0c72eb18642b0065a458182d7ca2891",
+      "title": "Ep 60. Zoom Pole",
+      "published_at": "2020-04-17T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep60.zoompole",
+      "description": "This week on the podcast Chris shares his new hobby, Rosie gets annoyed by Chris' weight loss and the pair go down memory lane with some kids TV. The Foot Stool guy re-surfaces, there is some questionable Easter egg based behaviour plus some more Tiger Trapping tales. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6e0f1c50-e21f-11ef-ac77-bbc8e75f738e/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5728849993.mp3?updated=1741359348",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4322",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "zoom",
+        "pole"
+      ]
+    },
+    {
+      "key": "b4e8b69c2c4193a1315cc2639eed7fb317a77003",
+      "title": "Ep 59. Tiger trap",
+      "published_at": "2020-04-10T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep59.tigertrap",
+      "description": "This week on the podcast Chris and Rosie settle a disagreement. Rosie reveals her past as a Bingo caller and shares a story about a phone in talent competition. There is some strange behaviour at Brighton beach, a postie in trouble and some questionable hand washing techniques. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6e943124-e21f-11ef-ac77-1b3f3be9e7e2/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6850563636.mp3?updated=1741359868",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4730",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "tiger",
+        "trap"
+      ]
+    },
+    {
+      "key": "9589f4e47ff145e126dc74a23fb01efb2b5bb309",
+      "title": "Ep 58. Fondling by the reservoir",
+      "published_at": "2020-04-03T06:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep58.fondlingbythereservoir",
+      "description": "This week on the podcast the Ramsey's have felt the full effect of the clocks changing... as if things weren't weird enough! Rosie has hit rock bottom with some questionable parenting and Chris offers sympathy to the millionaires in their mansions during social distancing. There's some great Q's from the P's and the return of Becky Beef AND a celebrity question! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6eed87b0-e21f-11ef-ac77-9b6875ab9ea7/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9299902854.mp3?updated=1741359702",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5076",
+      "speakers": [
+        "Becky Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "reservoir"
+      ]
+    },
+    {
+      "key": "db0db94cb715d71f47b1e3d22231c86c673fe0f9",
+      "title": "Ep 57. The Sniff test",
+      "published_at": "2020-03-27T07:00:00+00:00",
+      "link": "https://play.acast.com/s/sma/ep57.thesnifftest",
+      "description": "This week on the podcast The Ramsey's talk about their self isolation woes, there's some juicy beef and some fantastic q's from the p's. Enjoy, stay inside and wash your hands! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6f4581fe-e21f-11ef-ac77-63563c560b4f/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8709397067.mp3?updated=1741359644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5170",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "sniff",
+        "test"
+      ]
+    },
+    {
+      "key": "5856a5efb9ee3ca7089fdf63833abb955936cd78",
+      "title": "Ep 56. The Depositor",
+      "published_at": "2020-03-20T07:00:30+00:00",
+      "link": "https://play.acast.com/s/sma/ep56.thedepositor",
+      "description": "It's strange times across the globe and this week Chris and Rosie bring you an extended version of the podcast. Not only do they discuss their feelings around the current situation (including good deeds that didn't go to plan)but they deliver beef with a spin and they answer your questions and read your (filthy) stories. It will bring a whole new meaning to the word 'deposit'. Enjoy and stay safe! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6f9b811c-e21f-11ef-ac77-db5e462cda4e/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4412189583.mp3?updated=1741369417",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5228",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "depositor"
+      ]
+    },
+    {
+      "key": "13d58c92e94b627487a5c59da677282957465fb4",
+      "title": "Ep 55. Elastic Burdens",
+      "published_at": "2020-03-13T07:00:38+00:00",
+      "link": "https://play.acast.com/s/sma/ep55.elasticburdens",
+      "description": "It's been quite the week for Chris & Rosie and there is some great post awards chat. Chris had his parenting judged and the couple are figuring out what will go in the Wembley Show - Spoons anyone? There are some brilliant questions from the public - how do you feel about other peoples carpets? And a medical professional gets in touch. All of this plus the return of Barry Beef! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ff376b0-e21f-11ef-ac77-83c6902bfac6/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7668470771.mp3?updated=1741369444",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3815",
+      "speakers": [
+        "Elastic Burdens",
+        "Barry Beef",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "burden"
+      ]
+    },
+    {
+      "key": "6538741d3d6d3d29f356b2eab0d37c3a6d6f8a26",
+      "title": "Ep 54. Pointing the Finger",
+      "published_at": "2020-03-06T07:00:30+00:00",
+      "link": "https://play.acast.com/s/sma/ep54.pointingthefinger",
+      "description": "On this week's podcast we here about Rosie's night out, and there's a lot of finger chat plus a new (returning?) character. There's some technology themed beef, a request to settle an argument over a broken plate and a story about some lost chewing gum - where could it have gone? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7048e6fe-e21f-11ef-ac77-0ff7089cd814/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3363888919.mp3?updated=1741369507",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3570",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "finger"
+      ]
+    },
+    {
+      "key": "81a00d012e66b388c195392bf94b53599dba0197",
+      "title": "Ep 53. Auntie Panky",
+      "published_at": "2020-02-28T07:00:20+00:00",
+      "link": "https://play.acast.com/s/sma/ep53.auntiepanky",
+      "description": "It's been a busy week in the Ramsey household - Rosie has another new job and Robyn has Chicken Pox. However, the couple find time to share some beefs, answer questions from the public and discuss the pros and cons of role play. Enjoy! You can buy tickets for the Shagged Married Annoyed tour here: shaggedmarriedannoyed.com You can pre order the Shagged Married Annoyed book here: https://www.amazon.co.uk/ged-Married-Annoyed-Chris-Ramsey/dp/0241447127 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/709efdf0-e21f-11ef-ac77-d37894942d76/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9712485857.mp3?updated=1741369539",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3362",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "auntie",
+        "panky"
+      ]
+    },
+    {
+      "key": "73045e70414211792cc8c5cc308c197ca4eb6dec",
+      "title": "Ep 52. One in Thirty",
+      "published_at": "2020-02-21T07:00:20+00:00",
+      "link": "https://play.acast.com/s/sma/ep52.oneinthirty",
+      "description": "This week Chris and Rosie have been enlightened with some very on brand statistics...Barry's back and they get anecdotes from a real life member of the public and a doctor. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/70f139f8-e21f-11ef-ac77-dbb57212756d/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6853968636.mp3?updated=1741370086",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3670",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "bb5e9fe95377d6c3dec415a1eb2e948a59299a6c",
+      "title": "Ep 51. Sip Swallow Chug, Chug, Chug",
+      "published_at": "2020-02-14T07:00:30+00:00",
+      "link": "https://play.acast.com/s/sma/ep51.sipswallowchug-chug-chug",
+      "description": "This week Chris and Rosie have had a plumbing disaster, and Chris was a total legend-ish about it. There's whistle wake up beef, restaurant food disasters and disgusting behaviour on a train. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/714734d4-e21f-11ef-ac77-43cfa579f005/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2583530782.mp3?updated=1741370271",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4196",
+      "speakers": [
+        "Sip Swallow Chug",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "swallow",
+        "chug"
+      ]
+    },
+    {
+      "key": "48abf03fd99dcc13031da37973f69aa1029dcc32",
+      "title": "Ep 50. Billy’s Egg Trick",
+      "published_at": "2020-02-07T07:00:30+00:00",
+      "link": "https://play.acast.com/s/sma/ep50.billy-seggtrick",
+      "description": "Fifty episodes in and the Ramsey's are still delivering the beef! There's some book chat and another of Barry's family members gets in touch. Question's from the public involve hedgehogs, placentas and frozen meals. Enjoy all of this and more, including the return of 'Let's talk about S**t'. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/719a6aa0-e21f-11ef-ac77-877899ac9496/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8664348274.mp3?updated=1741370293",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3760",
+      "speakers": [
+        "Billy’s Egg Trick",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "billy",
+        "trick"
+      ]
+    },
+    {
+      "key": "b20aabd507c6519367c162354fd4fe3773e57580",
+      "title": "Ep 49. Brace yourself",
+      "published_at": "2020-01-31T07:00:20+00:00",
+      "link": "https://play.acast.com/s/sma/ep49.braceyourself",
+      "description": "Episode 49 and there's a new Beef family member in town! As well as bringing you some exciting news The Ramsey's get nostalgic about childhood illness envy, they reveal their worst 3 course meals, they share the next Chapter from Jesse AND there is a celebrity question. Brace yourself! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/71ec3aba-e21f-11ef-ac77-1fbc53c1a9c5/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6295583545.mp3?updated=1741370824",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3892",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "brace"
+      ]
+    },
+    {
+      "key": "5945a68f525f58845f5813902ba7e7ae707b14b7",
+      "title": "Ep 48. Drip Drip Drop.",
+      "published_at": "2020-01-24T06:41:46+00:00",
+      "link": "https://play.acast.com/s/sma/ep48.dripdripdrop-",
+      "description": "Tensions are running high on this week's episode! As always there's a weekly beef (with Barry getting more air time than ever) and some brilliant questions and stories from the public. This week these cover birth stories to tap water chat and dentistry to a sex themed urban myth. Enjoy. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/72407a44-e21f-11ef-ac77-2b9aeeaca25e/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9143859748.mp3?updated=1741370839",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3984",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "drip",
+        "drop"
+      ]
+    },
+    {
+      "key": "f4d627f77d6295371335e506ad1e4fa106f0a545",
+      "title": "Ep 47. Express yourself",
+      "published_at": "2020-01-17T07:00:20+00:00",
+      "link": "https://play.acast.com/s/sma/ep47.expressyourself",
+      "description": "This week Rosie and Chris give an update on the breastfeeding groom, tackle some important shopping trolley etiquette, discuss parent porn stars and they hear back from Friend of the show - Jess the paramedic. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7295b70c-e21f-11ef-ac77-2f30ecb2ed32/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8743748901.mp3?updated=1741370935",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3890",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "ff31e5d28e92f34da3239a9654e95ace12a0d729",
+      "title": "Ep 46. Wide Winifred",
+      "published_at": "2020-01-10T07:00:56+00:00",
+      "link": "https://play.acast.com/s/sma/ep46.widewinifred",
+      "description": "It's 2020 and Chris and Rosie return with yet another brilliant episode of Sh**ged Married Annoyed! There's some great beef, an unlikely story involving a glow stick, a pretty rank pooh story (natch) and a general post Christmas catch up. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/72ec3654-e21f-11ef-ac77-a78abda18199/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9004529102.mp3?updated=1741370949",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4243",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6da5b9939059db0fe54b34559d311a0da2802706",
+      "title": "Ep 45. Sweaty Veg: Christmas Special",
+      "published_at": "2019-12-20T07:00:33+00:00",
+      "link": "https://play.acast.com/s/sma/ep45.sweatyveg-christmasspecial",
+      "description": "It's the Christmas Special! And Rosie has Lapland beef and some topless memories. There's also some festive (sort of) questions from the public. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/733d18da-e21f-11ef-ac77-cba1c9e0d4d1/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7048967008.mp3?updated=1741371527",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3760",
+      "speakers": [
+        "Sweaty Veg",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "sweaty",
+        "christmas",
+        "special"
+      ]
+    },
+    {
+      "key": "f321a45c4fc7adf7485ffea7eec9f0c6359ba9ca",
+      "title": "Ep 44. Bad breath boyfriend",
+      "published_at": "2019-12-13T07:00:23+00:00",
+      "link": "https://play.acast.com/s/sma/ep44.badbreathboyfriend",
+      "description": "Things are getting festive in the Ramsey Household, including the beef! There's some questionable oral hygiene stories, a cat survival tale that will have you on the edge of your seat and some impressive rapping from Chris...and Rosie. As well as all of this, there's a celebrity question from comedy sister act Flo & Joan! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/738db51a-e21f-11ef-ac77-af3b8c254222/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4222467571.mp3?updated=1741371781",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3847",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "breath",
+        "boyfriend"
+      ]
+    },
+    {
+      "key": "7f6c7de8ffb1d22aacd7d1c044ff7d01532a8a15",
+      "title": "Ep 43. Raging semi",
+      "published_at": "2019-12-06T07:01:23+00:00",
+      "link": "https://play.acast.com/s/sma/ep43.ragingsemi",
+      "description": "The semi finals! Who'd have thought it? Chris and Rosie return to discuss all things Strictly plus there's a celeb question from Kelvin Fletcher. As well as this there are the weekly beefs, more than enough pooh based chat and some relationship advice. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/73e17786-e21f-11ef-ac77-af7e50a8d43e/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8695215121.mp3?updated=1741372147",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3164",
+      "speakers": [
+        "Kelvin Fletcher",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "1852a05db0e70e2e7daf837bbcd475c807b3f815",
+      "title": "Ep 42. Don't hate, hydrate.",
+      "published_at": "2019-11-29T07:00:13+00:00",
+      "link": "https://play.acast.com/s/sma/ep42.donthate-hydrate-",
+      "description": "On the podcast this week Rosie introduces Barry Beef and Chris expresses his bin and recycling issues. As well as this they discuss Strictly, make a return to Let's talk about S**t and have a brilliant celeb question from friend of the podcast Carl Hutchinson. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/74337842-e21f-11ef-ac77-070654d159c0/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6819194662.mp3?updated=1741372201",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3190",
+      "speakers": [
+        "Barry Beef",
+        "Carl Hutchinson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "611014213fa82e0ba023792896593b01ceceb7fb",
+      "title": "Ep 41. Batman lives next door",
+      "published_at": "2019-11-22T07:00:23+00:00",
+      "link": "https://play.acast.com/s/sma/ep41.batmanlivesnextdoor",
+      "description": "On the podcast this week Rosie introduces a new feature as well as still delivering on the weekly beefs! There are some wonderful stories about going commando and getting caught out, sending risque pics and there's a follow up explanation of the word 'bucking'. All of this and a celeb question from Professional Dancer Neil Jones. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7487ba92-e21f-11ef-ac77-bfb03128312d/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2312025095.mp3?updated=1741369176",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3620",
+      "speakers": [
+        "Neil Jones",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "batman",
+        "door"
+      ]
+    },
+    {
+      "key": "f2ba2b288d22c6cc04b90eb2b33ef33a32430800",
+      "title": "Ep 40. Cheese table",
+      "published_at": "2019-11-15T07:00:13+00:00",
+      "link": "https://play.acast.com/s/sma/ep40.cheesetable",
+      "description": "It's episode 40 and Chris is off to Blackpool! As well as talking all things Strictly, Rosie and Chris discuss Sandra's latest stash and Rosie's recent trip to London. There are some brilliant stories and questions from the public, topics range from an unfortunate cheese incident to a trip to A&E on a third date. And of course there is a celeb question - this week it's from Strictly alumni Mike Bushell. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/74e15afc-e21f-11ef-ac77-9f892b277749/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6439837273.mp3?updated=1741257630",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3705",
+      "speakers": [
+        "Mike Bushell",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "table"
+      ]
+    },
+    {
+      "key": "3bc6bac5f8316f9e0e08e77b9ecef95ff464ebab",
+      "title": "Ep 39. The Zodiac DJ",
+      "published_at": "2019-11-08T07:00:34+00:00",
+      "link": "https://play.acast.com/s/sma/ep39.thezodiacdj",
+      "description": "It's episode 39 of Sh**ged Married Annoyed and the Ramsey's are back with some brilliant beef and some stories that cover being jilted at the alter, the Zodiac DJ, a bare chested massage and a wheelie bin. Plus it's a podcast first for Rosie's Mum Sandra who makes a cameo appearance! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/75369936-e21f-11ef-ac77-7febb9ee01d7/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9456396103.mp3?updated=1741255867",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3616",
+      "speakers": [
+        "Mum Sandra",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "zodiac"
+      ]
+    },
+    {
+      "key": "055704bed4fc7a4ffa27761b115104b73232c56e",
+      "title": "Ep 38. Buttery Beef",
+      "published_at": "2019-11-01T07:00:22+00:00",
+      "link": "https://play.acast.com/s/sma/ep38.butterybeef",
+      "description": "On this week's podcast Chris and Rosie discuss surviving Halloween week on Strictly and how Chris's bottom has got bigger #glutesfordays There is some exquisite beef that gets Rosie raging and some brilliant questions from the public. As well as all of this the fabulous and fierce Michelle Visage sends in this week's celebrity question. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/758e31e6-e21f-11ef-ac77-839bf0837fe2/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7076038593.mp3?updated=1741255528",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3529",
+      "speakers": [
+        "Michelle Visage",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "buttery",
+        "beef"
+      ]
+    },
+    {
+      "key": "658dd8979ab6f906c38640223867cadbc9c62cbe",
+      "title": "Ep 37. The Urine Episode",
+      "published_at": "2019-10-25T06:00:22+00:00",
+      "link": "https://play.acast.com/s/sma/ep37.theurineepisode",
+      "description": "It's definitely episode 37! And Chris meets a superstar while Rosie is having laptop bag issues. They discuss shopkeepers, kissing on the lips and receive the most disgusting email yet... Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/75e29056-e21f-11ef-ac77-43e3b7448dcd/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4896789242.mp3?updated=1741254679",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3507",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "urine"
+      ]
+    },
+    {
+      "key": "d687d481ec79e009995d3100c9ea80ff1ae29187",
+      "title": "Ep 36. Final Warning",
+      "published_at": "2019-10-18T06:00:12+00:00",
+      "link": "https://play.acast.com/s/sma/ep36.finalwarning",
+      "description": "This week Chris and Rosie have shared massage beef. They talk favourite fridge pickings, Chris comes up with a new invention and they receive possibly the best email yet... Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/763949a0-e21f-11ef-ac77-afd014bdc51f/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1233740704.mp3?updated=1741254299",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3740",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "warning"
+      ]
+    },
+    {
+      "key": "8a0c083c036a74fcece3ee1999855c87041feafa",
+      "title": "Ep 35. Bit of the moon",
+      "published_at": "2019-10-11T06:00:24+00:00",
+      "link": "https://play.acast.com/s/sma/ep35.bitofthemoon",
+      "description": "Chris and Rosie have been inundated with hostel stories so strap in for some hilarious/disturbing tales! Also this week there is some bluetooth beef, proposal nostalgia, a revelation that involves Yorkshire Pudding mix and a great question from the brilliant Sian Gibson. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/768fd8a6-e21f-11ef-ac77-7b0078e9272b/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4916331405.mp3?updated=1741255319",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3687",
+      "speakers": [
+        "Yorkshire Pudding",
+        "Sian Gibson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "moon"
+      ]
+    },
+    {
+      "key": "4fb68a855c557b597ef94aaa2399c276adf9c939",
+      "title": "Ep 34. Coughcast",
+      "published_at": "2019-10-04T06:00:24+00:00",
+      "link": "https://play.acast.com/s/sma/ep34.coughcast",
+      "description": "This week on the podcast Rosie and Chris discuss school detention, Fireman Sam's only Italian resident, that annoying workmate and much more! Plus Rosie has a cough that is getting on Chris's nerves, big style. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/76e4dfe0-e21f-11ef-ac77-6f417849d423/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3177479313.mp3?updated=1741176222",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3375",
+      "speakers": [
+        "Fireman Sam",
+        "Plus Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "coughcast"
+      ]
+    },
+    {
+      "key": "b18661a12ba492c776b8a61e5e77f98941ac8c92",
+      "title": "Ep 33. Popcast",
+      "published_at": "2019-09-27T06:00:26+00:00",
+      "link": "https://play.acast.com/s/sma/ep33.popcast",
+      "description": "This week on the podcast Chris and Rosie discuss week one on Strictly, the train to London with Sandra the Womble, popping spots, noisy randy neighbours and there is a fishy question from Chris's brilliant dance partner Karen Hauer. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/773ce8fc-e21f-11ef-ac77-8b7e933b4891/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7503109299.mp3?updated=1741176072",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3275",
+      "speakers": [
+        "Karen Hauer",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2bfe57461d9f5e01408759cd1084672646b4f990",
+      "title": "Ep 32. Butt Rings",
+      "published_at": "2019-09-20T06:00:16+00:00",
+      "link": "https://play.acast.com/s/sma/ep32.buttrings",
+      "description": "There is some Lasagne based beef this week and Rosie is not happy! As well as discussing which way they stand in a shower the pair discuss second hand sex toys, falling asleep in front of the telly and they explain what a 'pudding' is. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7791f1e4-e21f-11ef-ac77-8b570e285dfd/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9352428318.mp3?updated=1741175816",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3395",
+      "speakers": [
+        "Butt Rings",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "butt",
+        "rings"
+      ]
+    },
+    {
+      "key": "c53fe67cb2f31de62e4977dfffbbfd7aba88daef",
+      "title": "Ep 31. Sugar Lips",
+      "published_at": "2019-09-13T06:00:46+00:00",
+      "link": "https://play.acast.com/s/sma/ep31.sugarlips",
+      "description": "On the podcast this week Chris and Rosie talk about their North Run experience (no running) they have some bed time beef and they answer some brilliant questions from the public. As well as this there are some truth bombs about what they do when Robyn's not at home and Jamie Laing sends in a great question/fact! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/77e7b368-e21f-11ef-ac77-2fdcd9210ee7/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5750378291.mp3?updated=1741175587",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3125",
+      "speakers": [
+        "Jamie Laing",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "sugar",
+        "lips"
+      ]
+    },
+    {
+      "key": "2c2defc8ef125e3515162a875d822c8b31523b27",
+      "title": "Ep 30. Swamp rings",
+      "published_at": "2019-09-06T06:00:16+00:00",
+      "link": "https://play.acast.com/s/sma/ep30.swamprings",
+      "description": "This week on the podcast Rosie shares what she did for her Year Six project, Chris reveals what a bad loser he is, there's some car themed beef and some dubious emails from listeners! Plus Chris tries his hand at giving Rosie a new nickname. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/783df494-e21f-11ef-ac77-5b7b5de041a9/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9108781381.mp3?updated=1741175417",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3836",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "swamp",
+        "ring"
+      ]
+    },
+    {
+      "key": "5726f80aaaf9ebbee6d9cfbdf3116f4fe9e99cbf",
+      "title": "Ep 29. Use your face more!",
+      "published_at": "2019-08-30T06:00:26+00:00",
+      "link": "https://play.acast.com/s/sma/ep29.useyourfacemore-",
+      "description": "Strictly is getting closer and this week Chris and Rosie discuss Chris's dancing face and what happened when Rosie gave Chris some dancing tips! There's some Birthday Beef and we hear from a body double plus a brilliant celeb question! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/78930812-e21f-11ef-ac77-bf9743db1843/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1082666520.mp3?updated=1741175234",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3160",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "face"
+      ]
+    },
+    {
+      "key": "d0bbfad165f27b0c05f88e013aaa70e4e3555180",
+      "title": "Ep 28. Oops!",
+      "published_at": "2019-08-23T06:00:16+00:00",
+      "link": "https://play.acast.com/s/sma/ep28.oops-",
+      "description": "This week on the podcast Chris and Rosie discuss what constitutes a picnic, why it's okay to have the heating on in August, driving instructor tales and advice on getting over an ex. As well as all of this there is not one but six brilliant questions from pop star twins Jedward. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/78e85150-e21f-11ef-ac77-f3c8f4814430/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9030888725.mp3?updated=1741174818",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3320",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "0a4cd63a78257ff88ff3df608bffade65e6eb901",
+      "title": "Ep 27. Found a good a chew",
+      "published_at": "2019-08-16T06:00:36+00:00",
+      "link": "https://play.acast.com/s/sma/ep27.foundagoodachew",
+      "description": "The Ramsey’s are back. The beefs reveal some questionable behaviour, there’s some strictly chat, a story involving a four finger Kit Kat, love bite tales and not one but three questions from YouTube super star Zoella. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/793c30f4-e21f-11ef-ac77-434f6fc77962/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9691113971.mp3?updated=1741174402",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3625",
+      "speakers": [
+        "Kit Kat",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "chew"
+      ]
+    },
+    {
+      "key": "8d56b6780482570dd75edc9ef7e74f75bbae3331",
+      "title": "Ep 26. Out of Office #2",
+      "published_at": "2019-08-09T06:00:05+00:00",
+      "link": "https://play.acast.com/s/sma/ep26.outofoffice-2",
+      "description": "This week the Ramsey's are on their holidays so here are some bonus questions from the public! They include hotel etiquette, same dress dramas and some financial advice. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/799263f2-e21f-11ef-ac77-a7fb50aa8ac0/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4369533927.mp3?updated=1741173954",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3106",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "office"
+      ]
+    },
+    {
+      "key": "f91cfcf4b45fc7da2008fdf42ba9d4321ae9b588",
+      "title": "Ep. 25 Twinkle Toes",
+      "published_at": "2019-08-02T06:00:15+00:00",
+      "link": "https://play.acast.com/s/sma/ep.25twinkletoes",
+      "description": "This week Chris and Rosie both have some exciting news! They're getting on well but there's still some beef. They discuss natural(ish) alarm clocks, bread VS potatoes and going to gigs alone and have a question from local celeb Joe McEldry. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/79e9fc7a-e21f-11ef-ac77-23d5a9bccfd4/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6422140954.mp3?updated=1741173729",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3463",
+      "speakers": [
+        "Joe McEldry",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "twinkle"
+      ]
+    },
+    {
+      "key": "e236a4f035dce73a2e66cab9130f10cee9696c57",
+      "title": "Ep 24. Viennetta Vinny",
+      "published_at": "2019-07-26T06:00:05+00:00",
+      "link": "https://play.acast.com/s/sma/ep24.viennettavinny",
+      "description": "This week Chris is getting very comfortable with the opening of the podcast, a bit too comfortable for Rosie. They have alarm clock and Maltesers based beef and discuss toothpaste dispensing and teabag etiquette plus have a couple of questions from Rick Edwards. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7a3fc420-e21f-11ef-ac77-6f637b71a33b/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4640818084.mp3?updated=1741173606",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3258",
+      "speakers": [
+        "Viennetta Vinny",
+        "Rick Edwards",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "viennetta",
+        "vinny"
+      ]
+    },
+    {
+      "key": "27da6d7e743092c6eb61b787c8d247bad8a5ed6e",
+      "title": "Ep 23. Did you hear about the Crab Girl?",
+      "published_at": "2019-07-19T06:00:24+00:00",
+      "link": "https://play.acast.com/s/sma/ep23.didyouhearaboutthecrabgirl-",
+      "description": "This week on the podcast the beef gets serious! Rosie and Chris discuss first cars, inherited traits and a disturbing urban myth. There is also a brilliant question from the fabulous Roisin Conaty Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7a98b062-e21f-11ef-ac77-67d2a2015469/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1392033990.mp3?updated=1741172944",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3529",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crab",
+        "girl"
+      ]
+    },
+    {
+      "key": "e0422a6ec2a71a10448c52854f1717be9a63f260",
+      "title": "Ep 22. Push the button",
+      "published_at": "2019-07-12T06:00:14+00:00",
+      "link": "https://play.acast.com/s/sma/ep22.pushthebutton",
+      "description": "This week on the podcast double dipping returns, Rosie brings some serious beef and there's a surprising personal grooming question. And as an additional treat, Chris has a little test for Rosie. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7aee01b6-e21f-11ef-ac77-dba7d281b80d/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2712208537.mp3?updated=1741172608",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3038",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "button"
+      ]
+    },
+    {
+      "key": "03634b1ada6ac9019d716d5759cc70bb9a32a63e",
+      "title": "Ep 21. Double dip with me all day long",
+      "published_at": "2019-07-05T05:50:56+00:00",
+      "link": "https://play.acast.com/s/sma/ep21.doubledipwithmealldaylong",
+      "description": "This week the Ramsey’s discuss an interesting trip to an outdoor pool, the joy of ear wax, cheese grating techniques and Rosie’s trouble with phrases. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7b40976e-e21f-11ef-ac77-a31f2228ce54/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6195856904.mp3?updated=1741172303",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3532",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4e689581ef89f167da36a27dd9699d5b4840e532",
+      "title": "Ep 20. Worrying Crush",
+      "published_at": "2019-06-28T06:00:14+00:00",
+      "link": "https://play.acast.com/s/sma/ep20.worryingcrush",
+      "description": "The Ramsey’s are back from their Holidays and have some brilliant beef to share. They also answer questions about naked neighbours, dressing etiquette and a tooth pick alternative. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7b946772-e21f-11ef-ac77-cbedd587e5ec/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4748223827.mp3?updated=1741172010",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3070",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crush"
+      ]
+    },
+    {
+      "key": "86cb025148bf5583d42dd3e9ee5782cb378e527f",
+      "title": "Ep 19. Out of Office Reply",
+      "published_at": "2019-06-21T05:59:59+00:00",
+      "link": "https://play.acast.com/s/sma/ep19.outofofficereply",
+      "description": "Rosie and Chris are on their holidays so on this week's podcast they share some questions from the public that didn't make it in the first time round. They discuss how often they change their sheets, plucking in public and pineapple on pizza. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7be7bd0a-e21f-11ef-ac77-5f942fc6dce0/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7907975746.mp3?updated=1741171749",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2154",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "office",
+        "reply"
+      ]
+    },
+    {
+      "key": "6fb1353d90faaaa2276fd7cdb39de12c90a4d67f",
+      "title": "Ep 18. Fetch the bang pillow!",
+      "published_at": "2019-06-14T06:00:16+00:00",
+      "link": "https://play.acast.com/s/sma/ep18.fetchthebangpillow-",
+      "description": "This week Chris and Rosie discuss loud yawners, towel sharing and living together, separately. Rosie also recalls her eventful journey home from The Spice Girls – brace yourselves! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7c3a3dd2-e21f-11ef-ac77-b7ea2e6b9eaa/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2933903600.mp3?updated=1741171639",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3608",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bang",
+        "pillow"
+      ]
+    },
+    {
+      "key": "6ea2c95d45a21536c37a9d8dab6c5d943484e5f2",
+      "title": "Ep 17. The square root of sex",
+      "published_at": "2019-06-07T06:00:15+00:00",
+      "link": "https://play.acast.com/s/sma/ep17.thesquarerootofsex",
+      "description": "On the podcast this week Chris and Rosie discuss nudist beaches, an unusual ‘would you rather’ and farting after sex. As well as all of this there’s their weekly beef and a celeb question from Comedian Lee Ridley. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7c8c4ee2-e21f-11ef-ac77-df7a948dd941/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8935089878.mp3?updated=1741171348",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3410",
+      "speakers": [
+        "Lee Ridley",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "root"
+      ]
+    },
+    {
+      "key": "67195eb0737281539deab7f6215914505a05985b",
+      "title": "Ep 16. Fanny by the gaslight",
+      "published_at": "2019-05-31T06:00:27+00:00",
+      "link": "https://play.acast.com/s/sma/ep16.fannybythegaslight",
+      "description": "This week Rosie and Chris record the podcast next to the bare carcass of a chicken (good effort Rosie). They discuss tag team lie ins, embarrassing kid stories, lazy DIY and give some advice to couples going on holiday together. Or not. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7cdcc96c-e21f-11ef-ac77-336874962df7/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7783977909.mp3?updated=1741171204",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2844",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fanny",
+        "gaslight"
+      ]
+    },
+    {
+      "key": "0f59fec56b821d57afe01b5b335e3790ae8b7a23",
+      "title": "Ep 15. Our safe word is...",
+      "published_at": "2019-05-24T06:00:17+00:00",
+      "link": "https://play.acast.com/s/sma/ep15.oursafewordis..-",
+      "description": "This week on the podcast Rosie and Chris discuss safe words, what they wear in bed and things they believed as a kid. Plus, Rosie reveals her new song and there’s a celebrity question from the original Guv’nor – Al Murray. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7d314be0-e21f-11ef-ac77-2be138d9dc94/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8725280889.mp3?updated=1741170835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3070",
+      "speakers": [
+        "Al Murray",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "word"
+      ]
+    },
+    {
+      "key": "4a447353c5a501d3f6e82ee22932d14f7752fc29",
+      "title": "Ep 14. A pre-marriage thing?",
+      "published_at": "2019-05-17T06:00:19+00:00",
+      "link": "https://play.acast.com/s/sma/ep14.apre-marriagething-",
+      "description": "In this week’s podcast Chris and Rosie cover a variety of topics including swear words, women drivers (!) and how they feel about using each other’s phones. As well as this there is some weekly beef and a celebrity question from Podcast royalty Giovanna Fletcher. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7d82ae18-e21f-11ef-ac77-8f50ad40534c/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6749811397.mp3?updated=1741170673",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3224",
+      "speakers": [
+        "Giovanna Fletcher",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "thing"
+      ]
+    },
+    {
+      "key": "5a0af5d10f5ace07389bdfd4311efa1f42956dbd",
+      "title": "Ep 13. Bed time stand off",
+      "published_at": "2019-05-10T06:00:19+00:00",
+      "link": "https://play.acast.com/s/sma/ep13.bedtimestandoff",
+      "description": "This week on the podcast Chris and Rosie discuss embarrassing parental behaviour, who would win in a fight and dubious Instagram behaviour. They also hear from comedian Daniel Sloss who wants to know if either have conceded an argument when they actually think they’re right Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7dd3bc5e-e21f-11ef-ac77-3f5765b5474c/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9737530363.mp3?updated=1741170431",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2699",
+      "speakers": [
+        "Daniel Sloss",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "time"
+      ]
+    },
+    {
+      "key": "649f4325d54b9ee7b65af49c4c1743c82ac8b755",
+      "title": "Ep 12. Caravan of love",
+      "published_at": "2019-05-03T06:00:19+00:00",
+      "link": "https://play.acast.com/s/sma/ep12.caravanoflove",
+      "description": "On this week’s podcast Chris and Rosie discuss caravans, crisp packet colours and lying about sexual partners. They have a great question from Radio Royalty Sara Cox plus they answer the age old question – Ant OR Dec? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7e27f7d8-e21f-11ef-ac77-2b8f1e1e4483/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8832323310.mp3?updated=1741170240",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2850",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "caravan",
+        "love"
+      ]
+    },
+    {
+      "key": "47f98e3c0396c1530342504b55bddf575d7c7aa6",
+      "title": "Ep 11. Floss before you flirt",
+      "published_at": "2019-04-26T06:00:19+00:00",
+      "link": "https://play.acast.com/s/sma/ep11.flossbeforeyouflirt",
+      "description": "On this episode of Sh**ged Married Annoyed, Rosie and Chris are dealing with the Easter Egg aftermath. They discuss Game of Thrones (no spoilers) snoring, weeing in the shower and hoover obsessions. They also receive a question from none other than TV’s Vicky McClure AKA DI Kate Fleming. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7e7e606e-e21f-11ef-ac77-5338d1dbb47a/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7594182619.mp3?updated=1741170084",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2897",
+      "speakers": [
+        "DI Kate Fleming",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "da545567b8aaf71d819e7ca1b2f764aba4e1629d",
+      "title": "Ep 10. Who let the cats in?",
+      "published_at": "2019-04-19T06:00:14+00:00",
+      "link": "https://play.acast.com/s/sma/ep10.wholetthecatsin-",
+      "description": "This week Rosie and Chris drink wine again! They discuss their biggest beef with the general public, sleeping on the sofa, the worst house party Chris ever went to and an incident in the bathroom which led to the best thing Rosie has ever done. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7ed222bc-e21f-11ef-ac77-6f9fbc362b75/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6559454540.mp3?updated=1741169822",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2817",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "ecc73f5b00d447454c2587600d20465310da6d07",
+      "title": "Ep 9. Wine and a FAB time",
+      "published_at": "2019-04-12T05:55:30+00:00",
+      "link": "https://play.acast.com/s/sma/ep9.wineandafabtime",
+      "description": "This week Rosie and Chris recorded the podcast accompanied by some wine! They discuss airport etiquette, putting on dirty clothes after a shower, their worst argument and Rosie gives some advice involving Skittles and shares a hidden talent. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7f27f1ce-e21f-11ef-ac77-c3465bc362a1/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4993250828.mp3?updated=1741167280",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3021",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "wine",
+        "time"
+      ]
+    },
+    {
+      "key": "e9ee94d18877d3361d1b6c8a07b5914c908ccf59",
+      "title": "Ep 8. Diplomatic Immunity",
+      "published_at": "2019-04-05T06:00:02+00:00",
+      "link": "https://play.acast.com/s/sma/ep8.diplomaticimmunity",
+      "description": "In this episode of Sh**ged Married Annoyed, Chris & Rosie discuss arguing tactics, eating in bed, parenting styles and the woes of recycling. They also hear from a listener who wants to thank them for invigorating his sex life, who knew? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7f7b7970-e21f-11ef-ac77-53febd36003b/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4007725647.mp3?updated=1741167010",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2451",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "immunity"
+      ]
+    },
+    {
+      "key": "7d90710d52807ba57e179bea57f126c67c6e67dd",
+      "title": "Ep 7. Shredded Beef",
+      "published_at": "2019-03-29T06:50:53+00:00",
+      "link": "https://play.acast.com/s/sma/ep7.shreddedbeef",
+      "description": "Chris and Rosie bring you this episode of Sh**ged Married Annoyed from a studio in London. They chat about the stages of being away from your kids, the great crisp debate and family peeing (is this a thing?). They also answer your questions which this week cover sex injuries, praise for chores and celebrity crushes. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7ffb61b2-e21f-11ef-ac77-534c64f521c5/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9810398613.mp3?updated=1741093408",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2841",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "beef"
+      ]
+    },
+    {
+      "key": "3fbe463af86998177eb18bfc9f7f13399787f63d",
+      "title": "Ep 6. Let’s see shall we",
+      "published_at": "2019-03-22T07:00:19+00:00",
+      "link": "https://play.acast.com/s/sma/ep6.let-sseeshallwe",
+      "description": "In this week’s episode of Sh**ged Married Annoyed Chris and Rosie discuss friends with benefits, romance at work, who’s the best in a crisis and which out of the two of them would Vicky Pattison liked to take out on the lash. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80516c1a-e21f-11ef-ac77-83ff9c22626c/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2794534452.mp3?updated=1741093129",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2529",
+      "speakers": [
+        "Annoyed Chris",
+        "Vicky Pattison",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "3e441ec3c954304c7daeab4bed4fd05af02230eb",
+      "title": "Ep 5. Widowed by a Seagull",
+      "published_at": "2019-03-15T07:00:18+00:00",
+      "link": "https://play.acast.com/s/sma/ep5.widowedbyaseagull",
+      "description": "In this week’s episode of Sh**ged Married Annoyed Chris has a near miss with a seagull and Rosie has some correspondence from The National Lottery. As well as all of this there’s questions about staying friends with exes, who apologises first and whether Chris could live with Rosie’s alter ego - Rosie Mamsey... he definitely couldn’t, she wouldn’t have him. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80a6ee38-e21f-11ef-ac77-0359532a3297/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9382247874.mp3?updated=1741092767",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2527",
+      "speakers": [
+        "Annoyed Chris",
+        "Rosie Mamsey",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "seagull"
+      ]
+    },
+    {
+      "key": "7c443563c056551ecd7dddb5a912afd01f640514",
+      "title": "Ep 4. Don't touch my bum, I'm a celebrity Mum",
+      "published_at": "2019-03-08T07:00:18+00:00",
+      "link": "https://play.acast.com/s/sma/ep4.donttouchmybum-imacelebritymum",
+      "description": "This week on Sh**ged Married Annoyed, Chris & Rosie discuss Celeb Mum of the Year, people that wipe bogies on toilet walls and if it’s okay to have sex whilst listening to a podcast... it isn’t, it’s weird. Also Celebrity Chef Simon Rimmer gets in touch with a food based question for the couple. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80fc1ac0-e21f-11ef-ac77-2bb07975c431/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3296578814.mp3?updated=1741092596",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2856",
+      "speakers": [
+        "Celeb Mum",
+        "Simon Rimmer",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "celebrity"
+      ]
+    },
+    {
+      "key": "9df460df75e77d5c34b84830733bc62dc88765b8",
+      "title": "Ep3. Episode three, take two.",
+      "published_at": "2019-03-01T07:00:13+00:00",
+      "link": "https://play.acast.com/s/sma/ep3.episodethree-taketwo-",
+      "description": "As well as answering your questions on this week’s episode of Sh**ged Married Annoyed, Chris explains the rules he’s made since meeting Rosie’s family, Rosie outs Chris for his weird Tennis Snoring (and has evidence!), the pair discuss farting in front of your partner and of course there is a celebrity question – this week from the brilliant comedian – Kathryn Ryan. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8152abc4-e21f-11ef-ac77-db6f92e54087/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7416836629.mp3?updated=1741092339",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2801",
+      "speakers": [
+        "Tennis Snoring",
+        "Kathryn Ryan",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
+    },
+    {
+      "key": "6f313ee3b3f992ad7682c815028f860ae0337a1e",
+      "title": "Ep 2. Hungry eyes and a first date surprise",
+      "published_at": "2019-02-22T07:00:15+00:00",
+      "link": "https://play.acast.com/s/sma/ep2.hungryeyesandafirstdatesurprise",
+      "description": "On this week's episode of Sh**ged Married Annoyed, Chris and Rosie have a recap on the foursome (not theirs!), they discuss going hungry on a date, they reminisce (kind of) about when they first moved in together and they answer Comedian Jason Manford's questions. Also on this episode, Rosie is given the task of coming up with a northern based sex pun – not as easy as it sounds! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81a72be0-e21f-11ef-ac77-eb6e8e56f1aa/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8587322566.mp3?updated=1741091913",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2757",
+      "speakers": [
+        "Comedian Jason Manford",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "date",
+        "surprise"
+      ]
+    },
+    {
+      "key": "f1bb56af8f9dda0f3295fe09e813c59224132a69",
+      "title": "Ep 1. Three’s a crowd, four’s a chore",
+      "published_at": "2019-02-15T06:22:51+00:00",
+      "link": "https://play.acast.com/s/sma/ep1.three-sacrowd-four-sachore",
+      "description": "In the first episode of Sh**ged Married Annoyed, Rosie and Chris discuss their weekly beef, answer some risqué questions from Instagram and they hear from Ed Sheeran who needs an answer to an ongoing domestic debate. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81fba94a-e21f-11ef-ac77-23ce935493ab/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5606433770.mp3?updated=1741091610",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2360",
+      "speakers": [
+        "Ed Sheeran",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "crowd",
+        "chore"
+      ]
+    },
+    {
+      "key": "e45f84cf0f5fbed05ac838cb3dab870b583c6264",
+      "title": "Trailer",
+      "published_at": "2019-02-04T12:01:25+00:00",
+      "link": "https://play.acast.com/s/sma/trailer",
+      "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8250c952-e21f-11ef-ac77-cfc1c38c497f/image/a58928ca8d058f374be42da5c7e75c73.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8724436303.mp3?updated=1738581343",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "406",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": []
     }
   ]
 }
@@ -3382,203 +7850,396 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris McCausland Keep
-- 2026-02-13 — The reverse ick, a lost moon cup and why Rosie's alright for a safari
-- 2026-02-11 — Please Keep Me Anonymous with Fatiha El-Ghorri — speakers: Fatiha El-Ghorri
-- 2026-02-06 — Vampires, slop duty and some misleading alarms
-- 2026-02-04 — Please Keep Me Anonymous with Mo Gilligan — speakers: Mo Gilligan, Babatunde Aléshé
-- 2026-01-30 — Rosie's bad week, safety gadgets and the IMDB of Porn — speakers: fart medley
-- 2026-01-28 — Please Keep Me Anonymous with Tom Davis — speakers: Tom Davis
-- 2026-01-23 — Soft play beef, a public apology and some sibling trolling — speakers: Carl Hutchinson
-- 2026-01-21 — Please Keep Me Anonymous with Joel Dommett — speakers: Joel Dommett, Ben Shepherd
-- 2026-01-16 — Medium to low level shaggers
-- 2026-01-14 — Please Keep Me Anonymous with Jordan North and William Hanson — speakers: Jordan North, William Hanson
-- 2026-01-09 — A dance injury, the pig box of shame and the official SMA WhatsApp number
-- 2026-01-07 — Please Keep Me Anonymous with Bridget Christie — speakers: Bridget Christie
-- 2026-01-02 — Bumper Christmas Best Off — speakers: Belinda Beef
-- 2025-12-31 — Please Keep Me Anonymous with John Robins — speakers: John Robins, Twelve Drinks
-- 2025-12-26 — A Christmas Please Keep Me Anonymous with Carl Hutchinson — speakers: Carl Hutchinson, Chris Ramey, Follow Carl, Instagram carl hutchinson comedy, Catch Carl
-- 2025-12-24 — A Christmas Please Keep Me Anonymous with Sandra and Kate
-- 2025-12-19 — It always comes down to baths or crisps
-- 2025-12-17 — Please Keep Me Anonymous with Vogue Williams — speakers: Vogue Williams, Joanne McNally
-- 2025-12-12 — Judge us separately
-- 2025-12-10 — Please Keep Me Anonymous with Ania Magliano — speakers: Ania Magliano
-- 2025-12-05 — Hot and Heavy
-- 2025-12-03 — Please Keep Me Anonymous with Russell Howard — speakers: Russell Howard, Plus Russell
-- 2025-11-28 — Chris is flammable and Rosie starts writing Geordie Porn — speakers: Geordie Porn
-- 2025-11-26 — Please Keep Me Anonymous with Joanne McNally — speakers: Joanne McNally, com Joanne, Vogue Williams
-- 2025-11-21 — WhatsApp groups revealed and Rosie goes to see Five!
-- 2025-11-19 — Please Keep Me Anonymous with Olly Murs — speakers: Mark Wright
-- 2025-11-14 — A hangover breakdown — speakers: Aesop’s Fables
-- 2025-11-12 — Please Keep Me Anonymous with Harriet Kemsley — speakers: Harriet Kemsley, Rosie Ramsey
-- 2025-11-07 — This is why I'll leave you
-- 2025-11-05 — Please Keep Me Anonymous with Aston and Sarah Merrygold — speakers: Sarah Merrygold
-- 2025-10-31 — A Halloween Special and Chris is NOT on board
-- 2025-10-29 — Please Keep Me Anonymous with Phil Ellis — speakers: Phil Ellis, Bath Mat
-- 2025-10-24 — Airport Pints and Naked Parties
-- 2025-10-22 — Please Keep Me Anonymous with Leigh-Anne Pinnock — speakers: Little Mix, YouTube Leigh-Anne
-- 2025-10-17 — AI Porn and Jacket Potatoes — speakers: Annoyed Chris
-- 2025-10-15 — Please Keep Me Anonymous with Al Murray — speakers: Al Murray, James Holland, Bullshit Learn
-- 2025-10-10 — Weaponized Incompetence
-- 2025-10-08 — Please Keep Me Anonymous with Greg Davies — speakers: Greg Davies, Never Mind, Sky Max
-- 2025-10-03 — Toenail Barbie — speakers: Toenail Barbie
-- 2025-10-01 — Please Keep Me Anonymous with Sam Ryder — speakers: Sam Ryder
-- 2025-09-26 — Hey Siri, how easy is it to get a divorce?
-- 2025-09-24 — Please Keep Me Anonymous with Jordan Stephens — speakers: Jordan Stephens
-- 2025-09-19 — Ruthless Zodiac Signs
-- 2025-09-12 — The Great North Run and a Prawn Cocktail eye bath
-- 2025-09-04 — Can we get a dog? — speakers: Annoyed Rosie
-- 2025-08-28 — Je Suis Belligerent — speakers: Je Suis Belligerent
-- 2025-08-27 — Bumper Summer Best Of - Part Seven
-- 2025-08-22 — Ep 333. Shepherd's Pie for breakfast and disappointing den making
-- 2025-08-20 — Bumper Summer Best Of - Part Six — speakers: Becky Beef
-- 2025-08-15 — Ep 332. A flat pack nightmare and synchronised sisters — speakers: Sister Kate, Carl Hutchinson
-- 2025-08-13 — Bumper Summer Best Of - Part Five
-- 2025-08-07 — Ep 331. Send this to 10 people or you will die
-- 2025-08-06 — Bumper Summer Best Of - Part Four
-- 2025-07-31 — Ep 330. Wet Mammals — speakers: Annoyed Chris
-- 2025-07-30 — Bumper Summer Best Of - Part Three — speakers: Mrs Dingleberry
-- 2025-07-24 — Ep 329. Giant Inflatable Doughnut
-- 2025-07-23 — Bumper Summer Best Of - Part Two — speakers: Rosie Mamsey
-- 2025-07-18 — Ep 328. Crying in the shower, flight etiquette and the worst lie-in ever
-- 2025-07-16 — Bumper Summer Best Of - Part One — speakers: Ed Sheeran, Jason Manford
-- 2025-07-11 — Ep 327. Too rude for YouTube?! — speakers: Annoyed Rosie, Twin Theory
-- 2025-07-04 — Ep 326. Weddings, Proms and Trouser Skirts — speakers: Annoyed Chris
-- 2025-06-27 — Ep 325. Ten percent more love
-- 2025-06-20 — Ep 324. Barbecue of Lies — speakers: Download Saily
-- 2025-06-13 — Ep 323. In a Villa!
-- 2025-06-06 — Ep 322. Shandy Alarm — speakers: Shandy Alarm
-- 2025-05-30 — Ep 321. Pick Up Four
-- 2025-05-23 — Ep 320. Welephant and the traumatic Chip Pan — speakers: Chip Pan, Download Saily
-- 2025-05-16 — Ep 319. Book Awards, Taskmaster and Kids in the Pub
-- 2025-05-09 — Ep 318. Live Forever — speakers: Chat GPT
-- 2025-05-01 — Ep 317. Beer Pump Guy — speakers: Pump Guy, Barry Beef
-- 2025-04-24 — Ep 316. Hide and Seek
-- 2025-04-17 — Ep 315. Stop! Pollen Time — speakers: Pollen Time, Annoyed Rosie, Katy Perry, Download Saily
-- 2025-04-10 — Ep 314. What’s All This?
-- 2025-04-04 — Ep 313. Voila!
-- 2025-03-28 — Ep 312. Auxiliary Chicken Nuggets — speakers: Chicken Nuggets
-- 2025-03-21 — Ep 311. Star Baker — speakers: Bake Off, Barry Beef
-- 2025-03-14 — Ep 310. Spar Mob
-- 2025-03-07 — Ep 309. Rosie Roulette — speakers: Rosie Roulette
-- 2025-02-28 — Ep 308. Non-mover
-- 2025-02-21 — Ep 307. Four baths a day
-- 2025-02-14 — Ep 306. Pity Party
-- 2025-02-07 — Ep 305. Blue Belt
-- 2025-01-31 — Ep 304. Vasectomy Guy — speakers: Vasectomy Guy
-- 2025-01-24 — Ep 303. Louse House — speakers: Robin Ramsey
-- 2025-01-17 — Ep 302. Ask Your Mam
-- 2025-01-10 — Ep 301. Warhammer Guy
-- 2024-12-20 — The 300th Episode
-- 2024-12-13 — Ep 299. Boil and Bite
-- 2024-12-06 — Ep 298. Salavicious
-- 2024-11-29 — Ep 297. This is horrifying
-- 2024-11-22 — Ep 296. Phants! — speakers: Would Rosie Eat
-- 2024-11-15 — Ep 295. Allegedly
-- 2024-11-08 — Ep 294. Itchy Eyes
-- 2024-11-01 — Ep 293. Blackhead Bullets
-- 2024-10-25 — Ep 292. Pea and Hamished — speakers: Rosie Eat
-- 2024-10-18 — Ep 291. C'est Super — speakers: Rosie Eat
-- 2024-10-11 — Ep 290. Sounds Like Churros
-- 2024-10-04 — Ep 289. Mr Pointless — speakers: Would Rosie Eat
-- 2024-09-27 — Ep 288. Rake Away — speakers: Rake Away, Good Vibes
-- 2024-09-20 — Ep 287. Takeaway Tally — speakers: Rosie Eat
-- 2024-09-13 — Ep 286. Counted and Verified — speakers: Rosie Eat, Would Rosie Eat
-- 2024-09-06 — Ep 285. Little Pooh — speakers: Rosie Eat, Plus Beefs
-- 2024-08-30 — Ep 284. Christember — speakers: Rosie Eat
-- 2024-08-23 — Ep 283. Pedalo and a box of wine — speakers: Would Rosie Eat
-- 2024-08-16 — Ep 282. Would Rosie Eat... — speakers: Rosie Eat, Lucrative Sponsor
-- 2024-08-09 — Ep 281. The Ninth Hour
-- 2024-08-02 — Ep 280. Industrial Slime Production
-- 2024-07-26 — Ep 279. All My Fellas
-- 2024-07-19 — Ep 278. Out of Office Reply
-- 2024-07-12 — Ep 277. Old Prospector Ramsey — speakers: Carl Hutchinson
-- 2024-07-05 — Ep 276. Pie Fister — speakers: Pie Fister, Mark Whalberg
-- 2024-06-28 — Ep 275. Robaldo
-- 2024-06-21 — Ep 274. Get your head stuck in — speakers: Annoyed Chris, John Barnes
-- 2024-06-14 — Ep 273. Documenting my t*ts off!
-- 2024-06-07 — Ep 272. Disposable Kegs
-- 2024-05-31 — Ep 271. Fox Blocked — speakers: Fox Blocked
-- 2024-05-24 — Ep 270. Front street meet
-- 2024-05-17 — Ep 269. The Summer of Sixty Nine
-- 2024-05-10 — Ep 268. Eat an egg!
-- 2024-05-03 — Ep 267. Rumour has it
-- 2024-04-26 — Ep 266. Gasolina
-- 2024-04-19 — Ep 265. Blah de blah — speakers: Blah de blah
-- 2024-04-12 — Ep 264. Freaky and Weird
-- 2024-04-05 — Ep 263. There’s No Place Like Home
-- 2024-03-29 — Ep 262. Can we talk about Bruno?
-- 2024-03-22 — Ep 261. Protein Chowder — speakers: Protein Chowder
-- 2024-03-15 — Ep 260. Dog In
-- 2024-03-08 — Ep 259. The Constant Gardener
-- 2024-03-01 — Ep 258. In The Namy
-- 2024-02-23 — Ep 257. Gary's Anatomy
-- 2024-02-16 — Ep 256. The Greatest Showman
-- 2024-02-09 — Ep 255. Purple Power Ranger — speakers: Power Ranger
-- 2024-02-02 — Ep 254. Your Ma
-- 2024-01-26 — Ep 253. This young perp...
-- 2024-01-19 — Ep 252. Taste the Rainbow
-- 2024-01-12 — Ep 251. Better than you
-- 2024-01-05 — Ep 250. Soft Man Era — speakers: Soft Man Era
-- 2023-12-22 — Ep 249. Christmas Ramsey — speakers: Merry Christmas
-- 2023-12-20 — Sh**ged Married Annoyed at Love Amelia — speakers: Love Amelia
-- 2023-12-15 — Ep 248. Breaded Ham
-- 2023-12-08 — Ep 247. Incense Sisters
-- 2023-12-01 — Ep 246. A new low
-- 2023-11-24 — Ep 245. Serial Sanitiser
-- 2023-11-17 — Ep 244. *QFTP Special* — speakers: Ayia Napa
-- 2023-11-10 — Ep 243. Bag of Bricks — speakers: Annoyed Chris
-- 2023-11-03 — Ep 242. Beloved Sponge
-- 2023-10-27 — Ep 241. Air Biscuit
-- 2023-10-20 — Ep 240. Duvet Lasagne
-- 2023-10-13 — Ep 239. Talk less, smile more
-- 2023-10-06 — Ep 238. Open Sesame
-- 2023-09-29 — Ep 237. Dinner Ladies Best Mate
-- 2023-09-22 — Ep 236. Rosie and Ramsey FM
-- 2023-09-15 — Ep 235. Egg, toast, wine and…
-- 2023-09-08 — Ep 234. Triple D
-- 2023-09-01 — Ep 233. 4pm Fight Time
-- 2023-08-25 — Ep 232. Four Eighths
-- 2023-08-18 — Ep 231. Obligatory Trebles
-- 2023-08-17 — What's that on your prom dress?... A short message from Chris & Rosie — speakers: Rosie Ramsey
-- 2023-08-11 — Ep 230. Daytime MILF Event
-- 2023-08-04 — Ep 229. No Capping — speakers: Carl Hutchinson
-- 2023-07-28 — Ep 228. Roll In The Woods
-- 2023-07-21 — Ep 227. Double Bunny Ears — speakers: Bunny Ears
-- 2023-07-14 — Ep 226. Whiskers
-- 2023-07-07 — Ep 225. Yolo — speakers: Yolo Chris, Carl Hutchinson
-- 2023-06-30 — Ep 224. Double Wipe
-- 2023-06-23 — Ep 223. Hot Heat — speakers: Hot Heat Rosie
-- 2023-06-16 — Ep 222. Double Cap
-- 2023-06-09 — Ep 221. Lego Destruction Pending
-- 2023-06-02 — Ep 220. Good Optics — speakers: Good Optics
-- 2023-05-26 — Ep 219. Nice Coat Lee — speakers: Ramsey Show
-- 2023-05-19 — Ep 218. Pity Click
-- 2023-05-12 — Ep 217. kiss my flower
-- 2023-05-05 — Ep 216. Open!
-- 2023-04-28 — Ep 215. Cold Hearted Father
-- 2023-04-21 — Ep 214. Spirito Di Punto — speakers: Spirito Di Punto
-- 2023-04-14 — Ep 213. Skip Cap — speakers: Skip Cap, David Bowie
-- 2023-04-07 — Ep 212. Five Fold Sunnies
-- 2023-03-31 — Ep 211. FAGDA
-- 2023-03-24 — Ep 210. Pear of Anguish — speakers: Sandra’s Birthday
-- 2023-03-17 — Ep 209. Biggest Loser
-- 2023-03-10 — Ep 208. Cowboy
-- 2023-03-03 — Ep 207. Ham Dumpling
-- 2023-02-24 — Ep 206. What film am I thinking of? — speakers: Sister Kate
-- 2023-02-17 — Ep 205. Pass the Shoe
-- 2023-02-10 — Ep 204. Three blind wipes
-- 2023-02-03 — Ep 203. Nurse Damp — speakers: Midnight Gameshow
-- 2023-01-27 — Ep 202. Ding dong the crust is gone — speakers: Enjoy Smas, Rosie Ramsey Show
-- 2023-01-20 — Ep 201. Don’t tug at your girdle
-- 2023-01-18 — Extra! Extra! — speakers: Lucrative Lucrative Sponsor Tier
-- 2023-01-13 — Ep 200. AD/BC — speakers: Enjoy Smas
-- 2022-12-23 — Ep 199. Christmas Special: What would Jackie do?
-- 2022-12-21 — Sh**ged Married Annoyed at Footprints Community Café
-- 2022-12-16 — Ep 198. Strip Search
-- 2022-12-09 — Ep 197. Magnum XL
-- 2022-12-02 — Ep 196. Centrifugal Force — speakers: Sewing Bee
-- 2022-11-25 — Ep 195. Glib, Glab, Glob
-- 2022-11-18 — Ep 194. Preekend
-- 2022-11-11 — Ep 193. BeanFest
-- 2022-11-04 — Ep 192. Dirty knit witted yellow livered
+- 2026-02-18 — Please Keep Me Anonymous with Chris McCausland — speakers: Chris McCausland, Anonymous Chris, Chris McCausland Keep, Chris Ramsey, Rosie Ramsey
+- 2026-02-13 — The reverse ick, a lost moon cup and why Rosie's alright for a safari — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-02-11 — Please Keep Me Anonymous with Fatiha El-Ghorri — speakers: Fatiha El-Ghorri, Chris Ramsey, Rosie Ramsey
+- 2026-02-06 — Vampires, slop duty and some misleading alarms — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-02-04 — Please Keep Me Anonymous with Mo Gilligan — speakers: Mo Gilligan, Babatunde Aléshé, Chris Ramsey, Rosie Ramsey
+- 2026-01-30 — Rosie's bad week, safety gadgets and the IMDB of Porn — speakers: fart medley, Chris Ramsey, Rosie Ramsey
+- 2026-01-28 — Please Keep Me Anonymous with Tom Davis — speakers: Tom Davis, Chris Ramsey, Rosie Ramsey
+- 2026-01-23 — Soft play beef, a public apology and some sibling trolling — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2026-01-21 — Please Keep Me Anonymous with Joel Dommett — speakers: Joel Dommett, Ben Shepherd, Chris Ramsey, Rosie Ramsey
+- 2026-01-16 — Medium to low level shaggers — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-01-14 — Please Keep Me Anonymous with Jordan North and William Hanson — speakers: Jordan North, William Hanson, Chris Ramsey, Rosie Ramsey
+- 2026-01-09 — A dance injury, the pig box of shame and the official SMA WhatsApp number — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-01-07 — Please Keep Me Anonymous with Bridget Christie — speakers: Bridget Christie, Chris Ramsey, Rosie Ramsey
+- 2026-01-02 — Bumper Christmas Best Off — speakers: Belinda Beef, Chris Ramsey, Rosie Ramsey
+- 2025-12-31 — Please Keep Me Anonymous with John Robins — speakers: John Robins, Twelve Drinks, Chris Ramsey, Rosie Ramsey
+- 2025-12-26 — A Christmas Please Keep Me Anonymous with Carl Hutchinson — speakers: Carl Hutchinson, Chris Ramey, Follow Carl, Instagram carl hutchinson comedy, Catch Carl, Chris Ramsey, Rosie Ramsey
+- 2025-12-24 — A Christmas Please Keep Me Anonymous with Sandra and Kate — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-12-19 — It always comes down to baths or crisps — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-12-17 — Please Keep Me Anonymous with Vogue Williams — speakers: Vogue Williams, Joanne McNally, Chris Ramsey, Rosie Ramsey
+- 2025-12-12 — Judge us separately — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-12-10 — Please Keep Me Anonymous with Ania Magliano — speakers: Ania Magliano, Chris Ramsey, Rosie Ramsey
+- 2025-12-05 — Hot and Heavy — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-12-03 — Please Keep Me Anonymous with Russell Howard — speakers: Russell Howard, Plus Russell, Chris Ramsey, Rosie Ramsey
+- 2025-11-28 — Chris is flammable and Rosie starts writing Geordie Porn — speakers: Geordie Porn, Chris Ramsey, Rosie Ramsey
+- 2025-11-26 — Please Keep Me Anonymous with Joanne McNally — speakers: Joanne McNally, com Joanne, Vogue Williams, Chris Ramsey, Rosie Ramsey
+- 2025-11-21 — WhatsApp groups revealed and Rosie goes to see Five! — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-11-19 — Please Keep Me Anonymous with Olly Murs — speakers: Mark Wright, Chris Ramsey, Rosie Ramsey
+- 2025-11-14 — A hangover breakdown — speakers: Aesop’s Fables, Chris Ramsey, Rosie Ramsey
+- 2025-11-12 — Please Keep Me Anonymous with Harriet Kemsley — speakers: Harriet Kemsley, Rosie Ramsey, Chris Ramsey
+- 2025-11-07 — This is why I'll leave you — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-11-05 — Please Keep Me Anonymous with Aston and Sarah Merrygold — speakers: Sarah Merrygold, Chris Ramsey, Rosie Ramsey
+- 2025-10-31 — A Halloween Special and Chris is NOT on board — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-10-29 — Please Keep Me Anonymous with Phil Ellis — speakers: Phil Ellis, Bath Mat, Chris Ramsey, Rosie Ramsey
+- 2025-10-24 — Airport Pints and Naked Parties — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-10-22 — Please Keep Me Anonymous with Leigh-Anne Pinnock — speakers: Little Mix, YouTube Leigh-Anne, Chris Ramsey, Rosie Ramsey
+- 2025-10-17 — AI Porn and Jacket Potatoes — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2025-10-15 — Please Keep Me Anonymous with Al Murray — speakers: Al Murray, James Holland, Bullshit Learn, Chris Ramsey, Rosie Ramsey
+- 2025-10-10 — Weaponized Incompetence — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-10-08 — Please Keep Me Anonymous with Greg Davies — speakers: Greg Davies, Never Mind, Sky Max, Chris Ramsey, Rosie Ramsey
+- 2025-10-03 — Toenail Barbie — speakers: Toenail Barbie, Chris Ramsey, Rosie Ramsey
+- 2025-10-01 — Please Keep Me Anonymous with Sam Ryder — speakers: Sam Ryder, Chris Ramsey, Rosie Ramsey
+- 2025-09-26 — Hey Siri, how easy is it to get a divorce? — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-09-24 — Please Keep Me Anonymous with Jordan Stephens — speakers: Jordan Stephens, Chris Ramsey, Rosie Ramsey
+- 2025-09-19 — Ruthless Zodiac Signs — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-09-12 — The Great North Run and a Prawn Cocktail eye bath — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-09-04 — Can we get a dog? — speakers: Annoyed Rosie, Chris Ramsey, Rosie Ramsey
+- 2025-08-28 — Je Suis Belligerent — speakers: Je Suis Belligerent, Chris Ramsey, Rosie Ramsey
+- 2025-08-27 — Bumper Summer Best Of - Part Seven — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-08-22 — Ep 333. Shepherd's Pie for breakfast and disappointing den making — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-08-20 — Bumper Summer Best Of - Part Six — speakers: Becky Beef, Chris Ramsey, Rosie Ramsey
+- 2025-08-15 — Ep 332. A flat pack nightmare and synchronised sisters — speakers: Sister Kate, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2025-08-13 — Bumper Summer Best Of - Part Five — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-08-07 — Ep 331. Send this to 10 people or you will die — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-08-06 — Bumper Summer Best Of - Part Four — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-07-31 — Ep 330. Wet Mammals — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2025-07-30 — Bumper Summer Best Of - Part Three — speakers: Mrs Dingleberry, Chris Ramsey, Rosie Ramsey
+- 2025-07-24 — Ep 329. Giant Inflatable Doughnut — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-07-23 — Bumper Summer Best Of - Part Two — speakers: Rosie Mamsey, Chris Ramsey, Rosie Ramsey
+- 2025-07-18 — Ep 328. Crying in the shower, flight etiquette and the worst lie-in ever — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-07-16 — Bumper Summer Best Of - Part One — speakers: Ed Sheeran, Jason Manford, Chris Ramsey, Rosie Ramsey
+- 2025-07-11 — Ep 327. Too rude for YouTube?! — speakers: Annoyed Rosie, Twin Theory, Chris Ramsey, Rosie Ramsey
+- 2025-07-04 — Ep 326. Weddings, Proms and Trouser Skirts — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2025-06-27 — Ep 325. Ten percent more love — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-06-20 — Ep 324. Barbecue of Lies — speakers: Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-06-13 — Ep 323. In a Villa! — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-06-06 — Ep 322. Shandy Alarm — speakers: Shandy Alarm, Chris Ramsey, Rosie Ramsey
+- 2025-05-30 — Ep 321. Pick Up Four — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-05-23 — Ep 320. Welephant and the traumatic Chip Pan — speakers: Chip Pan, Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-05-16 — Ep 319. Book Awards, Taskmaster and Kids in the Pub — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-05-09 — Ep 318. Live Forever — speakers: Chat Gpt, Chris Ramsey, Rosie Ramsey
+- 2025-05-01 — Ep 317. Beer Pump Guy — speakers: Pump Guy, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2025-04-24 — Ep 316. Hide and Seek — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-04-17 — Ep 315. Stop! Pollen Time — speakers: Pollen Time, Annoyed Rosie, Katy Perry, Download Saily, Chris Ramsey, Rosie Ramsey
+- 2025-04-10 — Ep 314. What’s All This? — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-04-04 — Ep 313. Voila! — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-03-28 — Ep 312. Auxiliary Chicken Nuggets — speakers: Chicken Nuggets, Chris Ramsey, Rosie Ramsey
+- 2025-03-21 — Ep 311. Star Baker — speakers: Bake Off, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2025-03-14 — Ep 310. Spar Mob — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-03-07 — Ep 309. Rosie Roulette — speakers: Rosie Roulette, Chris Ramsey, Rosie Ramsey
+- 2025-02-28 — Ep 308. Non-mover — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-02-21 — Ep 307. Four baths a day — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-02-14 — Ep 306. Pity Party — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-02-07 — Ep 305. Blue Belt — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-01-31 — Ep 304. Vasectomy Guy — speakers: Vasectomy Guy, Chris Ramsey, Rosie Ramsey
+- 2025-01-24 — Ep 303. Louse House — speakers: Robin Ramsey, Chris Ramsey, Rosie Ramsey
+- 2025-01-17 — Ep 302. Ask Your Mam — speakers: Chris Ramsey, Rosie Ramsey
+- 2025-01-10 — Ep 301. Warhammer Guy — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-12-20 — The 300th Episode — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-12-13 — Ep 299. Boil and Bite — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-12-06 — Ep 298. Salavicious — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-11-29 — Ep 297. This is horrifying — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-11-22 — Ep 296. Phants! — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-11-15 — Ep 295. Allegedly — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-11-08 — Ep 294. Itchy Eyes — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-11-01 — Ep 293. Blackhead Bullets — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-10-25 — Ep 292. Pea and Hamished — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-10-18 — Ep 291. C'est Super — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-10-11 — Ep 290. Sounds Like Churros — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-10-04 — Ep 289. Mr Pointless — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-09-27 — Ep 288. Rake Away — speakers: Rake Away, Good Vibes, Chris Ramsey, Rosie Ramsey
+- 2024-09-20 — Ep 287. Takeaway Tally — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-09-13 — Ep 286. Counted and Verified — speakers: Rosie Eat, Would Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-09-06 — Ep 285. Little Pooh — speakers: Rosie Eat, Plus Beefs, Chris Ramsey, Rosie Ramsey
+- 2024-08-30 — Ep 284. Christember — speakers: Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-08-23 — Ep 283. Pedalo and a box of wine — speakers: Would Rosie Eat, Chris Ramsey, Rosie Ramsey
+- 2024-08-16 — Ep 282. Would Rosie Eat... — speakers: Rosie Eat, Lucrative Sponsor, Chris Ramsey, Rosie Ramsey
+- 2024-08-09 — Ep 281. The Ninth Hour — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-08-02 — Ep 280. Industrial Slime Production — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-07-26 — Ep 279. All My Fellas — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-07-19 — Ep 278. Out of Office Reply — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-07-12 — Ep 277. Old Prospector Ramsey — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2024-07-05 — Ep 276. Pie Fister — speakers: Pie Fister, Mark Whalberg, Chris Ramsey, Rosie Ramsey
+- 2024-06-28 — Ep 275. Robaldo — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-06-21 — Ep 274. Get your head stuck in — speakers: Annoyed Chris, John Barnes, Chris Ramsey, Rosie Ramsey
+- 2024-06-14 — Ep 273. Documenting my t*ts off! — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-06-07 — Ep 272. Disposable Kegs — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-05-31 — Ep 271. Fox Blocked — speakers: Fox Blocked, Chris Ramsey, Rosie Ramsey
+- 2024-05-24 — Ep 270. Front street meet — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-05-17 — Ep 269. The Summer of Sixty Nine — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-05-10 — Ep 268. Eat an egg! — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-05-03 — Ep 267. Rumour has it — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-04-26 — Ep 266. Gasolina — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-04-19 — Ep 265. Blah de blah — speakers: Blah de blah, Chris Ramsey, Rosie Ramsey
+- 2024-04-12 — Ep 264. Freaky and Weird — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-04-05 — Ep 263. There’s No Place Like Home — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-03-29 — Ep 262. Can we talk about Bruno? — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-03-22 — Ep 261. Protein Chowder — speakers: Protein Chowder, Chris Ramsey, Rosie Ramsey
+- 2024-03-15 — Ep 260. Dog In — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-03-08 — Ep 259. The Constant Gardener — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-03-01 — Ep 258. In The Namy — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-02-23 — Ep 257. Gary's Anatomy — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-02-16 — Ep 256. The Greatest Showman — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-02-09 — Ep 255. Purple Power Ranger — speakers: Power Ranger, Chris Ramsey, Rosie Ramsey
+- 2024-02-02 — Ep 254. Your Ma — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-01-26 — Ep 253. This young perp... — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-01-19 — Ep 252. Taste the Rainbow — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-01-12 — Ep 251. Better than you — speakers: Chris Ramsey, Rosie Ramsey
+- 2024-01-05 — Ep 250. Soft Man Era — speakers: Soft Man Era, Chris Ramsey, Rosie Ramsey
+- 2023-12-22 — Ep 249. Christmas Ramsey — speakers: Merry Christmas, Chris Ramsey, Rosie Ramsey
+- 2023-12-20 — Sh**ged Married Annoyed at Love Amelia — speakers: Love Amelia, Chris Ramsey, Rosie Ramsey
+- 2023-12-15 — Ep 248. Breaded Ham — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-12-08 — Ep 247. Incense Sisters — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-12-01 — Ep 246. A new low — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-11-24 — Ep 245. Serial Sanitiser — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-11-17 — Ep 244. *QFTP Special* — speakers: Ayia Napa, Chris Ramsey, Rosie Ramsey
+- 2023-11-10 — Ep 243. Bag of Bricks — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2023-11-03 — Ep 242. Beloved Sponge — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-10-27 — Ep 241. Air Biscuit — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-10-20 — Ep 240. Duvet Lasagne — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-10-13 — Ep 239. Talk less, smile more — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-10-06 — Ep 238. Open Sesame — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-09-29 — Ep 237. Dinner Ladies Best Mate — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-09-22 — Ep 236. Rosie and Ramsey FM — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-09-15 — Ep 235. Egg, toast, wine and… — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-09-08 — Ep 234. Triple D — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-09-01 — Ep 233. 4pm Fight Time — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-08-25 — Ep 232. Four Eighths — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-08-18 — Ep 231. Obligatory Trebles — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-08-17 — What's that on your prom dress?... A short message from Chris & Rosie — speakers: Rosie Ramsey, Chris Ramsey
+- 2023-08-11 — Ep 230. Daytime MILF Event — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-08-04 — Ep 229. No Capping — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2023-07-28 — Ep 228. Roll In The Woods — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-07-21 — Ep 227. Double Bunny Ears — speakers: Bunny Ears, Chris Ramsey, Rosie Ramsey
+- 2023-07-14 — Ep 226. Whiskers — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-07-07 — Ep 225. Yolo — speakers: Yolo Chris, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2023-06-30 — Ep 224. Double Wipe — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-06-23 — Ep 223. Hot Heat — speakers: Hot Heat Rosie, Chris Ramsey, Rosie Ramsey
+- 2023-06-16 — Ep 222. Double Cap — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-06-09 — Ep 221. Lego Destruction Pending — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-06-02 — Ep 220. Good Optics — speakers: Good Optics, Chris Ramsey, Rosie Ramsey
+- 2023-05-26 — Ep 219. Nice Coat Lee — speakers: Ramsey Show, Chris Ramsey, Rosie Ramsey
+- 2023-05-19 — Ep 218. Pity Click — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-05-12 — Ep 217. kiss my flower — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-05-05 — Ep 216. Open! — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-04-28 — Ep 215. Cold Hearted Father — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-04-21 — Ep 214. Spirito Di Punto — speakers: Spirito Di Punto, Chris Ramsey, Rosie Ramsey
+- 2023-04-14 — Ep 213. Skip Cap — speakers: Skip Cap, David Bowie, Chris Ramsey, Rosie Ramsey
+- 2023-04-07 — Ep 212. Five Fold Sunnies — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-03-31 — Ep 211. FAGDA — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-03-24 — Ep 210. Pear of Anguish — speakers: Sandra’s Birthday, Chris Ramsey, Rosie Ramsey
+- 2023-03-17 — Ep 209. Biggest Loser — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-03-10 — Ep 208. Cowboy — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-03-03 — Ep 207. Ham Dumpling — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-02-24 — Ep 206. What film am I thinking of? — speakers: Sister Kate, Chris Ramsey, Rosie Ramsey
+- 2023-02-17 — Ep 205. Pass the Shoe — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-02-10 — Ep 204. Three blind wipes — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-02-03 — Ep 203. Nurse Damp — speakers: Midnight Gameshow, Chris Ramsey, Rosie Ramsey
+- 2023-01-27 — Ep 202. Ding dong the crust is gone — speakers: Enjoy Smas, Rosie Ramsey Show, Chris Ramsey, Rosie Ramsey
+- 2023-01-20 — Ep 201. Don’t tug at your girdle — speakers: Chris Ramsey, Rosie Ramsey
+- 2023-01-18 — Extra! Extra! — speakers: Lucrative Lucrative Sponsor Tier, Chris Ramsey, Rosie Ramsey
+- 2023-01-13 — Ep 200. AD/BC — speakers: Enjoy Smas, Chris Ramsey, Rosie Ramsey
+- 2022-12-23 — Ep 199. Christmas Special: What would Jackie do? — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-12-21 — Sh**ged Married Annoyed at Footprints Community Café — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-12-16 — Ep 198. Strip Search — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-12-09 — Ep 197. Magnum XL — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-12-02 — Ep 196. Centrifugal Force — speakers: Sewing Bee, Chris Ramsey, Rosie Ramsey
+- 2022-11-25 — Ep 195. Glib, Glab, Glob — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-11-18 — Ep 194. Preekend — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-11-11 — Ep 193. BeanFest — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-11-04 — Ep 192. Dirty knit witted yellow livered — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-10-28 — Ep 191. Gilet Incorporated — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-10-21 — Ep 190. Just be chill — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-10-14 — Ep 189. House Shoes — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-10-07 — Ep 188. Mars Cha Cha — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-09-30 — Ep 187. Born to Fight — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-09-23 — Ep 186. Kegs full of Kaka — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-09-16 — Ep 185. Anchor Pants — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-09-09 — Ep 184. Beat the Letter — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-09-02 — Ep 183. Water is blue — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-08-26 — Ep 182. A little bit sexy — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-08-19 — Ep 181. The glove — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-08-12 — Ep 180. Sommelier summer camp — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-08-05 — Ep 179. Pokethon — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-07-29 — Ep 178. Oh wow — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-07-22 — Ep 177. Summer holiday special — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-07-15 — Ep 176. Out of Office — speakers: Enjoy Smas, Chris Ramsey, Rosie Ramsey
+- 2022-07-08 — Ep 175. Double Muggins — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-07-01 — Ep 174. Co-ords — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-06-24 — Ep 173. Hot Potato — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-06-17 — Ep 172. But what about the pool table? — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-06-10 — Ep 171. Meet you in my dreams — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-06-03 — Ep 170. The 80’s door handle — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-05-27 — Ep 169. Dacious — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-05-20 — Ep 168. The Worst Smell in The World — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-05-13 — Ep 167. Killer extensions — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-05-06 — Ep 166. Hip hip... — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-04-29 — Ep 165. Rude Awakening — speakers: Rude Awakening, Chris Ramsey, Rosie Ramsey
+- 2022-04-22 — Ep 164. The Best Walker — speakers: Easter Eggs, Chris Ramsey, Rosie Ramsey
+- 2022-04-15 — Ep 163. Good Friday plonkcast — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-04-08 — Ep 162. Three words — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-04-01 — Ep 161. How long you staying? — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-03-25 — Ep 160. Round Robin — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-03-18 — Ep 159. Free Roam — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-03-11 — Ep 158. These boots aren’t made for walking — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-03-04 — Ep 157. Purple reigns — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-02-25 — Ep 156. Bathroom Teaspoon — speakers: Bathroom Teaspoon, Chris Ramsey, Rosie Ramsey
+- 2022-02-18 — Ep 155. The Pitt's — speakers: Brad Pitt, Chris Ramsey, Rosie Ramsey
+- 2022-02-11 — Ep 154. Stain of regret — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-02-04 — Ep 153. Record Breakers — speakers: Record Breakers, Chris Ramsey, Rosie Ramsey
+- 2022-01-28 — Ep 152. Do Buy — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-01-21 — Ep 151. Timber — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-01-14 — Ep 150. Tony doesn't live here — speakers: Chris Ramsey, Rosie Ramsey
+- 2022-01-07 — Ep 149. Dipped in fat — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-12-24 — Ep 148. Christmas Special — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-12-17 — Ep 147. Find a happy place — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-12-10 — Ep 146. Liquid Gold — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-12-03 — Ep 145. Sorry Dad — speakers: Sorry Dad, Storm Arwen, Chris Ramsey, Rosie Ramsey
+- 2021-11-26 — Ep 144. Licence to snooze — speakers: Will Smith, Chris Ramsey, Rosie Ramsey
+- 2021-11-19 — Ep 143. How’s Christine? — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-11-12 — Ep 142. Classic Borisina — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-11-05 — Ep 141. That’s a crow — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-10-29 — Ep 140. NOT a Halloween special — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-10-22 — Ep 139. Baby name betrayal — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-10-15 — Ep 138. Party at the drive thru — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-10-08 — Ep 137. Oh Crumbs — speakers: Rosie’s Mystery, Chris Ramsey, Rosie Ramsey
+- 2021-10-01 — Ep 136. Elephant Dolphin — speakers: Elephant Dolphin Chris, Chris Ramsey, Rosie Ramsey
+- 2021-09-24 — Ep 135. Turbo time — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-09-17 — Ep 134. Bon bons in the knicker drawer — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-09-10 — Ep 133. The Iron Curtain — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-09-03 — Ep 132. Fish Guy — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-08-27 — Ep 131. A thumbnail of wine — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-08-20 — Ep 130. To whom it may concern — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-08-13 — Ep 129. Rosie Harissa — speakers: Rosie Harissa Chris, Chris Ramsey, Rosie Ramsey
+- 2021-08-06 — Ep 128. Draw the minion! — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-07-30 — Ep 127. Not a holiday — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-07-23 — Ep. 126 Good Grief — speakers: Good Grief Rosie, Chris Ramsey, Rosie Ramsey
+- 2021-07-16 — Ep 125. Return of the toenails — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-07-09 — Ep 124. The Midwife Always Knocks Twice — speakers: Knocks Twice, Chris Ramsey, Rosie Ramsey
+- 2021-07-02 — Ep 123. Case closed — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-06-25 — Ep 122. Hack Guy — speakers: Hack Guy, Chris Ramsey, Rosie Ramsey
+- 2021-06-18 — Ep 121. One ring to rule them all — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-06-11 — Ep 120. Low hanging fruit — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-06-04 — Ep 119. Like father, like son — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-05-28 — Ep 118. What a man wants — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-05-21 — Ep 117. Festering Bowl of Bolognese — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-05-14 — Ep 116. Instructed by tumblers — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-05-07 — Ep 115. Sidebored — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-04-30 — Ep 114. A lady from the 90's — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-04-23 — Ep 113. How deep do you sleep? — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-04-16 — Ep. 112 Coal-Slaw — speakers: Plus Rosie, Chris Ramsey, Rosie Ramsey
+- 2021-04-09 — Ep 111. Total (lack of) Recall — speakers: Belinda Beef, Chris Ramsey, Rosie Ramsey
+- 2021-04-02 — Ep 110. 110 take 2 — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-03-26 — Ep 109. Flannel Heavy — speakers: Flannel Heavy, Chris Ramsey, Rosie Ramsey
+- 2021-03-19 — EP 108. Carpet Squares — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2021-03-12 — Ep 107. Bucking Mad — speakers: grey hairs, Chris Ramsey, Rosie Ramsey
+- 2021-03-05 — Ep 106. Pay as you go go go go go — speakers: Bike Guy, Louis Theroux, Chris Ramsey, Rosie Ramsey
+- 2021-02-26 — Ep 105. Coffin Confessors — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-02-19 — Ep 104. Flock of Lasagne — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-02-12 — Ep 103. Bones — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-02-05 — Ep. 102 Cremetisserie — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-01-29 — Ep 101. Maternity Leave #3 — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-01-22 — Ep 100. Best of #1 — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-01-15 — Ep 99. Maternity Leave #2 — speakers: Chris Ramsey, Rosie Ramsey
+- 2021-01-08 — Ep 98. Maternity Leave #1 — speakers: Maternity Leave, Chris Ramsey, Rosie Ramsey
+- 2021-01-01 — Ep 97. Docket or Not — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-12-25 — Ep 96. Christmas Bonus Special — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-12-18 — Ep 95. Turkey leg-over — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-12-11 — Ep 94. Gorgey Hun — speakers: Gorgey Hun, Chris Ramsey, Rosie Ramsey
+- 2020-12-04 — Ep 93. Living with Meatloaf — speakers: Steph McGovern, Chris Ramsey, Rosie Ramsey
+- 2020-11-27 — Ep 92. Narrow Church — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2020-11-20 — Ep 91. See this finger, see this thumb — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-11-13 — Ep 90. Bed Kegs — speakers: Bed Kegs Tensions, Chris Ramsey, Rosie Ramsey
+- 2020-11-06 — Ep 89. Where you bin my love? — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-10-30 — Ep 88. Mr Saturday Night — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-10-23 — Ep. 87 Heels and shoulders — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-10-16 — Ep 86. The today after tomorrow — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-10-09 — Ep 85. Mark of Zorro — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-10-02 — Ep 84. Top Sheet — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-09-25 — Ep 83. Give me an A — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-09-18 — Ep 82. Minty Fresh — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-09-11 — Ep 81. Spite Salmon — speakers: Phil Ellis, Chris Ramsey, Rosie Ramsey
+- 2020-09-04 — Ep 80. Auntie Pat — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2020-09-03 — Bonus Episode — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-08-28 — Ep 79. Around the World — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-08-21 — Ep 78. Magnety — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-08-14 — Ep 77. Eat Your Words — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-08-07 — Ep 76. Sweet sixteen unicorn — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-07-31 — Ep 75. A breath of fresh air — speakers: Guinea Pigs, Chris Ramsey, Rosie Ramsey
+- 2020-07-24 — Ep 74. Queen Bee in The Side Garden — speakers: Queen Bee, Chris Ramsey, Rosie Ramsey
+- 2020-07-17 — Ep 73. 36 hours later — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-07-10 — Ep 72. Guest in the nest — speakers: Bike Guy, Chris Ramsey, Rosie Ramsey
+- 2020-07-03 — Ep 71. Dull as dishwater — speakers: Birthday Cakes, Chris Ramsey, Rosie Ramsey
+- 2020-06-26 — Ep 70. Seventy several — speakers: Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2020-06-19 — Ep 69. Meal for Two — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-06-12 — Ep 68. Dental dam — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-06-05 — Ep 67. Streets of Heferlon — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-05-29 — Ep 66. Fortune cookies — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-05-22 — Ep 65. Love Birds — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-05-15 — Ep 64. Bath Buddy — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-05-08 — Ep 63. The Twits — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-05-01 — Ep 62. Yarden — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-04-24 — Ep 61. My lover — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-04-17 — Ep 60. Zoom Pole — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-04-10 — Ep 59. Tiger trap — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-04-03 — Ep 58. Fondling by the reservoir — speakers: Becky Beef, Chris Ramsey, Rosie Ramsey
+- 2020-03-27 — Ep 57. The Sniff test — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-03-20 — Ep 56. The Depositor — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-03-13 — Ep 55. Elastic Burdens — speakers: Elastic Burdens, Barry Beef, Chris Ramsey, Rosie Ramsey
+- 2020-03-06 — Ep 54. Pointing the Finger — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-02-28 — Ep 53. Auntie Panky — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-02-21 — Ep 52. One in Thirty — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-02-14 — Ep 51. Sip Swallow Chug, Chug, Chug — speakers: Sip Swallow Chug, Chris Ramsey, Rosie Ramsey
+- 2020-02-07 — Ep 50. Billy’s Egg Trick — speakers: Billy’s Egg Trick, Chris Ramsey, Rosie Ramsey
+- 2020-01-31 — Ep 49. Brace yourself — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-01-24 — Ep 48. Drip Drip Drop. — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-01-17 — Ep 47. Express yourself — speakers: Chris Ramsey, Rosie Ramsey
+- 2020-01-10 — Ep 46. Wide Winifred — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-12-20 — Ep 45. Sweaty Veg: Christmas Special — speakers: Sweaty Veg, Chris Ramsey, Rosie Ramsey
+- 2019-12-13 — Ep 44. Bad breath boyfriend — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-12-06 — Ep 43. Raging semi — speakers: Kelvin Fletcher, Chris Ramsey, Rosie Ramsey
+- 2019-11-29 — Ep 42. Don't hate, hydrate. — speakers: Barry Beef, Carl Hutchinson, Chris Ramsey, Rosie Ramsey
+- 2019-11-22 — Ep 41. Batman lives next door — speakers: Neil Jones, Chris Ramsey, Rosie Ramsey
+- 2019-11-15 — Ep 40. Cheese table — speakers: Mike Bushell, Chris Ramsey, Rosie Ramsey
+- 2019-11-08 — Ep 39. The Zodiac DJ — speakers: Mum Sandra, Chris Ramsey, Rosie Ramsey
+- 2019-11-01 — Ep 38. Buttery Beef — speakers: Michelle Visage, Chris Ramsey, Rosie Ramsey
+- 2019-10-25 — Ep 37. The Urine Episode — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-10-18 — Ep 36. Final Warning — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-10-11 — Ep 35. Bit of the moon — speakers: Yorkshire Pudding, Sian Gibson, Chris Ramsey, Rosie Ramsey
+- 2019-10-04 — Ep 34. Coughcast — speakers: Fireman Sam, Plus Rosie, Chris Ramsey, Rosie Ramsey
+- 2019-09-27 — Ep 33. Popcast — speakers: Karen Hauer, Chris Ramsey, Rosie Ramsey
+- 2019-09-20 — Ep 32. Butt Rings — speakers: Butt Rings, Chris Ramsey, Rosie Ramsey
+- 2019-09-13 — Ep 31. Sugar Lips — speakers: Jamie Laing, Chris Ramsey, Rosie Ramsey
+- 2019-09-06 — Ep 30. Swamp rings — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-08-30 — Ep 29. Use your face more! — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-08-23 — Ep 28. Oops! — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-08-16 — Ep 27. Found a good a chew — speakers: Kit Kat, Chris Ramsey, Rosie Ramsey
+- 2019-08-09 — Ep 26. Out of Office #2 — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-08-02 — Ep. 25 Twinkle Toes — speakers: Joe McEldry, Chris Ramsey, Rosie Ramsey
+- 2019-07-26 — Ep 24. Viennetta Vinny — speakers: Viennetta Vinny, Rick Edwards, Chris Ramsey, Rosie Ramsey
+- 2019-07-19 — Ep 23. Did you hear about the Crab Girl? — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-07-12 — Ep 22. Push the button — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-07-05 — Ep 21. Double dip with me all day long — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-06-28 — Ep 20. Worrying Crush — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-06-21 — Ep 19. Out of Office Reply — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-06-14 — Ep 18. Fetch the bang pillow! — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-06-07 — Ep 17. The square root of sex — speakers: Lee Ridley, Chris Ramsey, Rosie Ramsey
+- 2019-05-31 — Ep 16. Fanny by the gaslight — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-05-24 — Ep 15. Our safe word is... — speakers: Al Murray, Chris Ramsey, Rosie Ramsey
+- 2019-05-17 — Ep 14. A pre-marriage thing? — speakers: Giovanna Fletcher, Chris Ramsey, Rosie Ramsey
+- 2019-05-10 — Ep 13. Bed time stand off — speakers: Daniel Sloss, Chris Ramsey, Rosie Ramsey
+- 2019-05-03 — Ep 12. Caravan of love — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-04-26 — Ep 11. Floss before you flirt — speakers: DI Kate Fleming, Chris Ramsey, Rosie Ramsey
+- 2019-04-19 — Ep 10. Who let the cats in? — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-04-12 — Ep 9. Wine and a FAB time — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-04-05 — Ep 8. Diplomatic Immunity — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-03-29 — Ep 7. Shredded Beef — speakers: Chris Ramsey, Rosie Ramsey
+- 2019-03-22 — Ep 6. Let’s see shall we — speakers: Annoyed Chris, Vicky Pattison, Chris Ramsey, Rosie Ramsey
+- 2019-03-15 — Ep 5. Widowed by a Seagull — speakers: Annoyed Chris, Rosie Mamsey, Chris Ramsey, Rosie Ramsey
+- 2019-03-08 — Ep 4. Don't touch my bum, I'm a celebrity Mum — speakers: Celeb Mum, Simon Rimmer, Chris Ramsey, Rosie Ramsey
+- 2019-03-01 — Ep3. Episode three, take two. — speakers: Tennis Snoring, Kathryn Ryan, Chris Ramsey, Rosie Ramsey
+- 2019-02-22 — Ep 2. Hungry eyes and a first date surprise — speakers: Comedian Jason Manford, Chris Ramsey, Rosie Ramsey
+- 2019-02-15 — Ep 1. Three’s a crowd, four’s a chore — speakers: Ed Sheeran, Chris Ramsey, Rosie Ramsey
+- 2019-02-04 — Trailer — speakers: Chris Ramsey, Rosie Ramsey

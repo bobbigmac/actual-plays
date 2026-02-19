@@ -2,10 +2,11 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-02-19T03:16:14+00:00`
-- etag: `"73c69738c14b9dc361642e3a903814a2"`
-- last_modified: `Fri, 13 Feb 2026 19:00:03 GMT`
-- max_episodes_per_feed: `200`
+- fetched_at: `2026-02-19T19:10:27+00:00`
+- checked_at: `2026-02-19T19:10:27+00:00`
+- etag: `"980bf4f2e5866ca1c66121a34401c0bd"`
+- last_modified: `Thu, 19 Feb 2026 18:57:03 GMT`
+- max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,7 +18,13 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-02-19T03:16:14+00:00",
+  "fetched_at": "2026-02-19T19:10:27+00:00",
+  "owners": [],
+  "common_speakers": [],
+  "categories": [
+    "comedy/british",
+    "radio"
+  ],
   "episodes": [
     {
       "key": "90d8debeef646f6f29c23d1c2ad4cfdc6c620146",
@@ -28,6 +35,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mzldkn.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Keir Starmer",
@@ -55,6 +63,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0my61wx.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27216000",
       "itunes_duration": "1701",
       "speakers": [
         "Suella Braverman",
@@ -82,6 +91,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mwtnbf.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27088000",
       "itunes_duration": "1693",
       "speakers": [
         "Lucy Porter",
@@ -108,6 +118,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mvg50b.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Helping Andy",
@@ -134,6 +145,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mwgb7p.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14960000",
       "itunes_duration": "935",
       "speakers": [
         "Jon Holmes"
@@ -151,6 +163,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mt4w7z.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27280000",
       "itunes_duration": "1705",
       "speakers": [
         "Ian Smith",
@@ -180,10 +193,11 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mpcnl3.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
         "King Charles",
-        "Leo XIV",
+        "Leo Xiv",
         "Andy Zaltzman",
         "Rajiv Karia",
         "Pete Strauss Production Coordinator"
@@ -202,6 +216,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mqb2j3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mqb5xx.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27104000",
       "itunes_duration": "1694",
       "speakers": [
         "Matt Forde",
@@ -230,6 +245,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mmyqmx.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mpqt2r.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Jon Culshaw",
@@ -259,6 +275,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mmyqmx.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mn8z74.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26576000",
       "itunes_duration": "1661",
       "speakers": [
         "Alan Carr",
@@ -292,6 +309,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mdfg1p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mlvcyt.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26496000",
       "itunes_duration": "1656",
       "speakers": [
         "Andrew Hunter Murray",
@@ -319,6 +337,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mdfg1p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mkfm44.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andrew Hunter Murray",
@@ -348,6 +367,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mdfg1p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mj2cjg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
         "Andrew Hunter Murray",
@@ -379,9 +399,10 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mdfg1p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mgs9b8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
-        "RIP Tim Davie",
+        "Rip Tim Davie",
         "Andrew Hunter Murray",
         "Jon Holmes",
         "Andrew Hunter Murray Guests",
@@ -406,6 +427,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mdfg1p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mfcxsf.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26640000",
       "itunes_duration": "1665",
       "speakers": [
         "Taylor Swift",
@@ -435,6 +457,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0md06f0.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26736000",
       "itunes_duration": "1671",
       "speakers": [
         "Andrew Hunter Murray",
@@ -464,6 +487,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mbnffk.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27344000",
       "itunes_duration": "1709",
       "speakers": [
         "Laura Lexx",
@@ -492,6 +516,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m983k2.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27280000",
       "itunes_duration": "1705",
       "speakers": [
         "Andy Zaltzman",
@@ -520,6 +545,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m7y894.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Andy Zaltzman",
@@ -549,6 +575,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m6m5z9.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27072000",
       "itunes_duration": "1692",
       "speakers": [
         "Kier Starmer",
@@ -576,6 +603,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m5707n.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
         "Lib Dem Conference",
@@ -604,6 +632,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m3wl2w.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
@@ -631,6 +660,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m2hx7w.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27824000",
       "itunes_duration": "1739",
       "speakers": [
         "Andy Zaltzman",
@@ -657,6 +687,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m14dw3.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26816000",
       "itunes_duration": "1676",
       "speakers": [
         "Andy Zaltzman",
@@ -685,6 +716,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lzt65s.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
         "Catherine Bohart",
@@ -710,6 +742,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lyjg3j.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27984000",
       "itunes_duration": "1749",
       "speakers": [
         "Catherine Bohart",
@@ -736,6 +769,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lx752q.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27568000",
       "itunes_duration": "1723",
       "speakers": [
         "Isabel Berwick",
@@ -761,6 +795,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lvy7vn.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27552000",
       "itunes_duration": "1722",
       "speakers": [
         "Catherine Bohart",
@@ -786,6 +821,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ltnh00.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
       "itunes_duration": "1704",
       "speakers": [
         "Catherine Bohart",
@@ -811,6 +847,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lsqg5p.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lsr5bg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27344000",
       "itunes_duration": "1709",
       "speakers": [
         "Catherine Bohart",
@@ -836,6 +873,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lr0x1l.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
         "Diane Abbott",
@@ -866,6 +904,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lpmtkv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
         "Salt Path",
@@ -895,6 +934,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ln75rw.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27536000",
       "itunes_duration": "1721",
       "speakers": [
         "Nev Fountain",
@@ -922,6 +962,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0llvnfp.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27984000",
       "itunes_duration": "1749",
       "speakers": [
         "Martin Lewis",
@@ -950,6 +991,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lkjlhv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27536000",
       "itunes_duration": "1721",
       "speakers": [
         "Laura Kuenssberg",
@@ -977,6 +1019,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lht37d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ljlxv2.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27552000",
       "itunes_duration": "1722",
       "speakers": [
         "Greta Thunberg",
@@ -1005,6 +1048,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lgtp3m.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Trump Break",
@@ -1033,6 +1077,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lfhy58.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
         "Armando Iannucci",
@@ -1060,6 +1105,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ld2stp.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27088000",
       "itunes_duration": "1693",
       "speakers": [
         "Andy Zaltzman",
@@ -1086,6 +1132,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lbqxhw.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Andy Zaltzman",
@@ -1113,6 +1160,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l9b62k.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27456000",
       "itunes_duration": "1716",
       "speakers": [
         "Concluded Andy Zaltzman",
@@ -1139,6 +1187,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l7yj2j.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Andy Zaltzman",
@@ -1166,6 +1215,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l6j521.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27696000",
       "itunes_duration": "1731",
       "speakers": [
         "Andy Zaltzman",
@@ -1194,6 +1244,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l56f3m.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
         "Andy Zaltzman",
@@ -1222,6 +1273,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l3ws55.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27552000",
       "itunes_duration": "1722",
       "speakers": [
         "Theme Parks",
@@ -1251,6 +1303,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l2hxwx.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Woop Woop",
@@ -1283,6 +1336,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l10xfs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27808000",
       "itunes_duration": "1738",
       "speakers": [
         "Rachel Reeves",
@@ -1310,6 +1364,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kzn4lh.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
         "Liz Truss",
@@ -1340,6 +1395,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0ky7kkm.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ky8cvr.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
         "Brick Walls",
@@ -1370,6 +1426,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kw5rgj.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kwvpys.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27712000",
       "itunes_duration": "1732",
       "speakers": [
         "Rosie Holt",
@@ -1401,6 +1458,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kvc840.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27728000",
       "itunes_duration": "1733",
       "speakers": [
         "Starmer Goes",
@@ -1428,6 +1486,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ksv9zv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
         "Andy Zaltzman",
@@ -1455,6 +1514,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0krcb7x.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27808000",
       "itunes_duration": "1738",
       "speakers": [
         "Corruption Leagues"
@@ -1477,6 +1537,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kpw4p6.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27776000",
       "itunes_duration": "1736",
       "speakers": [
         "Andy Zaltzman",
@@ -1505,6 +1566,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0knf7ks.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
@@ -1531,6 +1593,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kq8xq1.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Andy Zaltzman",
@@ -1557,6 +1620,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kkf3gv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Andy Zaltzman",
@@ -1584,6 +1648,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0khyv9d.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Andy Zaltzman",
@@ -1613,6 +1678,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kgn3ky.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Andy Zaltzman",
@@ -1638,6 +1704,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0khy160.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kdvpbq.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
         "Andrew Hunter Murray Chief",
@@ -1667,6 +1734,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0khy160.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kddnzy.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Uncanny Ghosts",
@@ -1696,6 +1764,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0khy160.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kbx8xk.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Andrew Hunter Murray",
@@ -1725,6 +1794,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0khy160.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k9fftp.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
         "Gregg Wallace",
@@ -1755,6 +1825,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0khy160.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k7xksw.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
         "Andrew Hunter Murray",
@@ -1783,6 +1854,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0k6bzmv.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k6bb4p.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Jeremy Clarkson",
@@ -1809,6 +1881,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0k4vxq3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k51689.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
         "Donald Trump",
@@ -1836,6 +1909,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0k38lj4.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k38gct.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
         "Donald Trump",
@@ -1862,6 +1936,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0k38lj4.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k1q45p.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26976000",
       "itunes_duration": "1686",
       "speakers": [
         "Rachel Reeves",
@@ -1889,6 +1964,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k06wjd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Ian Smith",
@@ -1917,6 +1993,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jypygh.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
         "Wes Streeting",
@@ -1944,6 +2021,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jx6xgs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Cleverly Timed",
@@ -1972,6 +2050,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jvpsfs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
       "itunes_duration": "1704",
       "speakers": [
         "Scott Bennett",
@@ -1999,6 +2078,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jt7w69.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27456000",
       "itunes_duration": "1716",
       "speakers": [
         "Robin Morgan",
@@ -2026,6 +2106,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jrtxsx.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Simon Evans",
@@ -2052,6 +2133,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jsfqb3.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27456000",
       "itunes_duration": "1716",
       "speakers": [
         "Simon Evans",
@@ -2079,6 +2161,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jp04g5.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Neil Delamere",
@@ -2107,6 +2190,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jmmn62.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Catherine Bohart",
@@ -2134,6 +2218,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jlwyld.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Catherine Bohart",
@@ -2163,6 +2248,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jsgj42.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27136000",
       "itunes_duration": "1696",
       "speakers": [
         "Catherine Bohart"
@@ -2184,6 +2270,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jhl95f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
         "Catherine Bohart",
@@ -2210,6 +2297,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jg5rvv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
         "Catherine Bohart",
@@ -2238,6 +2326,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jdtpkt.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27040000",
       "itunes_duration": "1690",
       "speakers": [
         "Catherine Bohart",
@@ -2264,6 +2353,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jchm9q.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27456000",
       "itunes_duration": "1716",
       "speakers": [
         "July Topical"
@@ -2283,6 +2373,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jb1sl7.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27504000",
       "itunes_duration": "1719",
       "speakers": [
         "July Topical"
@@ -2301,6 +2392,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j8n8jn.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27088000",
       "itunes_duration": "1693",
       "speakers": [
         "Lucy Porter",
@@ -2327,6 +2419,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j75b9f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Geoff Norcott",
@@ -2353,6 +2446,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j5q9b6.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Alasdair Beckett-King",
@@ -2379,6 +2473,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j48nj8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27392000",
       "itunes_duration": "1712",
       "speakers": [
         "Lucy Porter",
@@ -2405,6 +2500,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j2w8j5.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Andy Zaltzman",
@@ -2431,6 +2527,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0j1jdw6.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j1jbvc.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27936000",
       "itunes_duration": "1746",
       "speakers": [
         "Dead Ringers st",
@@ -2456,6 +2553,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0j03pr7.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j3c3rq.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25104000",
       "itunes_duration": "1569",
       "speakers": [
         "Jon Culshaw",
@@ -2481,6 +2579,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hx8nv3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j3c3gr.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25568000",
       "itunes_duration": "1598",
       "speakers": [
         "Dead Ringers th",
@@ -2506,6 +2605,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hx8nv3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j2v3n9.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25600000",
       "itunes_duration": "1600",
       "speakers": [
         "Dead Ringers th",
@@ -2531,6 +2631,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hvxxnc.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hvxvws.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26960000",
       "itunes_duration": "1685",
       "speakers": [
         "Dead Ringers rd",
@@ -2556,6 +2657,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0htf5cc.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0htfgyj.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Dead Ringers th April",
@@ -2582,6 +2684,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hrwtw3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hrwd7d.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33168000",
       "itunes_duration": "2073",
       "speakers": [
         "Steve Punt",
@@ -2606,6 +2709,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hqgxx7.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hqgwyw.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
@@ -2630,6 +2734,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hp2tdp.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hp2sdx.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26816000",
       "itunes_duration": "1676",
       "speakers": [
         "Steve Punt",
@@ -2653,6 +2758,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hms2yt.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hms2h7.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
@@ -2676,6 +2782,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hlc00x.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hlbvcd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27136000",
       "itunes_duration": "1696",
       "speakers": [
         "Steve Punt",
@@ -2700,6 +2807,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hjxzqh.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hs3mmv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
@@ -2724,6 +2832,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hhgkwl.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
         "Mark Steel",
@@ -2750,6 +2859,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hg55mb.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27024000",
       "itunes_duration": "1689",
       "speakers": [
         "Susie McCabe",
@@ -2776,6 +2886,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hdrg77.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27440000",
       "itunes_duration": "1715",
       "speakers": [
         "Andrew Doyle",
@@ -2802,6 +2913,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hcdr0y.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Andy Zaltzman",
@@ -2828,6 +2940,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hb35fd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
@@ -2854,6 +2967,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h8qn8r.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Andy Zaltzman",
@@ -2880,6 +2994,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h7c67b.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27440000",
       "itunes_duration": "1715",
       "speakers": [
         "Andy Zaltzman",
@@ -2906,6 +3021,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h62j1n.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27664000",
       "itunes_duration": "1729",
       "speakers": [
         "Andy Zaltzman",
@@ -2932,6 +3048,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h5jq73.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
         "January Topical"
@@ -2951,6 +3068,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h2rypl.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27664000",
       "itunes_duration": "1729",
       "speakers": [
         "Andy Zaltzman",
@@ -2973,6 +3091,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h16fd9.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h16dv2.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27152000",
       "itunes_duration": "1697",
       "speakers": [
         "Dead Ringers th",
@@ -2998,6 +3117,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h163g3.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h162lg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
         "Dead Ringers",
@@ -3024,6 +3144,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h09ssx.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h09rn1.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27584000",
       "itunes_duration": "1724",
       "speakers": [
         "Dead Ringers th",
@@ -3050,6 +3171,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0gygx7x.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gygw6v.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
       "itunes_duration": "1720",
       "speakers": [
         "Steve Punt",
@@ -3074,6 +3196,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0gx3ybv.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gx3x4w.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27536000",
       "itunes_duration": "1721",
       "speakers": [
         "Steve Punt",
@@ -3098,6 +3221,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0gw504v.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gw4zts.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27376000",
       "itunes_duration": "1711",
       "speakers": [
         "Steve Punt",
@@ -3122,6 +3246,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0gtbzw0.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gtbxmd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Steve Punt",
@@ -3146,6 +3271,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0grysyy.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gryrt8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
       "itunes_duration": "1717",
       "speakers": [
         "Steve Punt",
@@ -3170,6 +3296,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0gr1n84.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gr1mvf.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27232000",
       "itunes_duration": "1702",
       "speakers": [
         "Steve Punt",
@@ -3194,6 +3321,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0grbbzc.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman",
@@ -3220,6 +3348,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fc6hkb.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gmtgrh.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26672000",
       "itunes_duration": "1667",
       "speakers": [
         "Andy Zaltzman",
@@ -3246,6 +3375,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fc6hkb.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0glcs4f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman",
@@ -3272,6 +3402,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0f03p8t.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gjy3ry.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
       "itunes_duration": "1672",
       "speakers": [
         "Andy Zaltzman",
@@ -3297,6 +3428,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ghhfc4.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman",
@@ -3321,6 +3453,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gg62zz.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26496000",
       "itunes_duration": "1656",
       "speakers": [
         "Andy Zaltzman",
@@ -3347,6 +3480,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0f03p8t.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gdv26l.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Lucy Porter",
@@ -3373,6 +3507,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0f03p8t.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gchgng.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
       "itunes_duration": "1674",
       "speakers": [
         "Andy Zaltzman",
@@ -3399,6 +3534,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gb5dhg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28928000",
       "itunes_duration": "1808",
       "speakers": [
         "Andrew Hunter Murray"
@@ -3420,6 +3556,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g8wn16.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Catherine Bohart",
@@ -3445,6 +3582,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g7k5mv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27104000",
       "itunes_duration": "1694",
       "speakers": [
         "Heidi Regan",
@@ -3465,6 +3603,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g680x6.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26176000",
       "itunes_duration": "1636",
       "speakers": [
         "Alan Clarke",
@@ -3486,6 +3625,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g4ww3f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
         "Rhys James",
@@ -3505,6 +3645,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0g3k40d.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g3k38m.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27440000",
       "itunes_duration": "1715",
       "speakers": [
         "Rachel Parris",
@@ -3531,6 +3672,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g26y9l.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26688000",
       "itunes_duration": "1668",
       "speakers": [
         "Dead Ringers st July"
@@ -3550,6 +3692,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g27bxw.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
         "Dead Ringers th July"
@@ -3569,6 +3712,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fzlrkt.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Dead Ringers th July",
@@ -3595,6 +3739,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0g3zxcd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "752000",
       "itunes_duration": "47",
       "speakers": [
         "Rachel Parris",
@@ -3617,6 +3762,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fy8hcd.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
       "itunes_duration": "1680",
       "speakers": [
         "Dead Ringers th June"
@@ -3636,6 +3782,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3srk.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25888000",
       "itunes_duration": "1618",
       "speakers": [
         "Dead Ringers rd June",
@@ -3660,6 +3807,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3sq4.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26336000",
       "itunes_duration": "1646",
       "speakers": [
         "Dead Ringers th",
@@ -3683,6 +3831,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ft8ytb.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman"
@@ -3702,6 +3851,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fnd2s5.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fry10q.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman"
@@ -3721,6 +3871,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fnd2s5.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fqnzqf.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26704000",
       "itunes_duration": "1669",
       "speakers": [
         "Andy Zaltzman"
@@ -3739,6 +3890,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fnd2s5.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fpbb2q.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "May Topical"
@@ -3757,6 +3909,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0f96d5r.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fntk8y.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "May Topical"
@@ -3775,6 +3928,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fc6hkb.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fntjg4.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
       "itunes_duration": "1674",
       "speakers": [
         "May Topical",
@@ -3794,6 +3948,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fc6hkb.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fnth34.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
       "itunes_duration": "1673",
       "speakers": [
         "Andy Zaltzman"
@@ -3813,6 +3968,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fnscbn.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27312000",
       "itunes_duration": "1707",
       "speakers": [
         "Steve Punt"
@@ -3830,6 +3986,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgr1k8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
       "itunes_duration": "1710",
       "speakers": [
         "Steve Punt"
@@ -3847,6 +4004,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ffh8f4.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26816000",
       "itunes_duration": "1676",
       "speakers": [
         "Steve Punt"
@@ -3864,6 +4022,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fkbkbp.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "352000",
       "itunes_duration": "22",
       "speakers": [],
       "topics": [
@@ -3881,6 +4040,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fd4by6.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27616000",
       "itunes_duration": "1726",
       "speakers": [
         "Steve Punt"
@@ -3898,6 +4058,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fbtb4j.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
       "itunes_duration": "1714",
       "speakers": [
         "Steve Punt"
@@ -3915,6 +4076,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f9dwsm.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
       "itunes_duration": "1708",
       "speakers": [
         "Steve Punt"
@@ -3932,6 +4094,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0f96d5r.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f81s48.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27744000",
       "itunes_duration": "1734",
       "speakers": [
         "Andy Zaltzman"
@@ -3951,6 +4114,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f6mxry.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27680000",
       "itunes_duration": "1730",
       "speakers": [
         "Andy Zaltzman",
@@ -3977,6 +4141,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f57r5r.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27728000",
       "itunes_duration": "1733",
       "speakers": [
         "Ian Smith",
@@ -4003,6 +4168,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f3vhfv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27680000",
       "itunes_duration": "1730",
       "speakers": [
         "Andy Zaltzman",
@@ -4029,6 +4195,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f2f11g.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27136000",
       "itunes_duration": "1696",
       "speakers": [
         "Andy Zaltzman",
@@ -4055,6 +4222,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f1dmhz.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27200000",
       "itunes_duration": "1700",
       "speakers": [
         "Frankie Boyle",
@@ -4081,6 +4249,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0dygt20.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dzv6xz.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26528000",
       "itunes_duration": "1658",
       "speakers": [
         "Andy Zaltzman",
@@ -4107,6 +4276,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0dygt20.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dygntg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27568000",
       "itunes_duration": "1723",
       "speakers": [
         "Andy Zaltzman",
@@ -4133,6 +4303,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dw6yyy.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27808000",
       "itunes_duration": "1738",
       "speakers": [
         "Andy Zaltzman",
@@ -4159,6 +4330,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dtq3k5.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28288000",
       "itunes_duration": "1768",
       "speakers": [
         "Andy Zaltzman",
@@ -4185,6 +4357,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dq9w60.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42464000",
       "itunes_duration": "2654",
       "speakers": [
         "Andy Zaltzman",
@@ -4208,6 +4381,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dr7m3d.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26928000",
       "itunes_duration": "1683",
       "speakers": [
         "King Charles",
@@ -4234,6 +4408,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dq9kg8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
         "Matt Hancock’s Covid",
@@ -4260,6 +4435,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dn5thh.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28144000",
       "itunes_duration": "1759",
       "speakers": [
         "David Beckham",
@@ -4286,6 +4462,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dlfv6r.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28144000",
       "itunes_duration": "1759",
       "speakers": [
         "Steve Punt",
@@ -4310,6 +4487,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dlf5kt.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
         "Hugh Dennis",
@@ -4334,6 +4512,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dh7rdp.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26864000",
       "itunes_duration": "1679",
       "speakers": [
         "Steve Punt",
@@ -4358,6 +4537,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dfkx9t.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
       "itunes_duration": "1706",
       "speakers": [
         "Steve Punt",
@@ -4382,6 +4562,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dfl6qm.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
       "itunes_duration": "1713",
       "speakers": [
         "Steve Punt",
@@ -4406,6 +4587,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dfljcs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Steve Punt",
@@ -4430,6 +4612,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d9fjvv.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28064000",
       "itunes_duration": "1754",
       "speakers": [
         "Andy Zaltzman"
@@ -4449,6 +4632,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d7tf3s.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27632000",
       "itunes_duration": "1727",
       "speakers": [
         "Andy Zaltzman"
@@ -4468,6 +4652,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d5h2n6.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27168000",
       "itunes_duration": "1698",
       "speakers": [
         "Andy Zaltzman"
@@ -4487,6 +4672,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d4br43.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26464000",
       "itunes_duration": "1654",
       "speakers": [
         "September Topical"
@@ -4506,6 +4692,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d29j0t.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26592000",
       "itunes_duration": "1662",
       "speakers": [
         "Andy Zaltzman"
@@ -4525,6 +4712,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d0wwtr.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
       "itunes_duration": "1675",
       "speakers": [
         "Andy Zaltzman"
@@ -4544,6 +4732,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cw23rs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
         "Gordon Brown",
@@ -4569,6 +4758,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ctm2hs.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26688000",
       "itunes_duration": "1668",
       "speakers": [
         "Gordon Brown",
@@ -4594,6 +4784,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0csj2sy.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26656000",
       "itunes_duration": "1666",
       "speakers": [
         "Gordon Brown",
@@ -4619,6 +4810,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cqsmc3.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26848000",
       "itunes_duration": "1678",
       "speakers": [
         "Gordon Brown",
@@ -4644,6 +4836,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cp98hb.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26384000",
       "itunes_duration": "1649",
       "speakers": [
         "Gordon Brown",
@@ -4669,6 +4862,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3r1l.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25408000",
       "itunes_duration": "1588",
       "speakers": [
         "Dead Ringers"
@@ -4688,6 +4882,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3r21.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25280000",
       "itunes_duration": "1580",
       "speakers": [
         "Dead Ringers th"
@@ -4707,6 +4902,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3sj8.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24720000",
       "itunes_duration": "1545",
       "speakers": [
         "Dead Ringers th July"
@@ -4726,6 +4922,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3s7f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24704000",
       "itunes_duration": "1544",
       "speakers": [
         "Dead Ringers st"
@@ -4745,6 +4942,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3s15.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24912000",
       "itunes_duration": "1557",
       "speakers": [],
       "topics": [
@@ -4762,6 +4960,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cfmj8k.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
       "itunes_duration": "1672",
       "speakers": [
         "Dead Ringers th June",
@@ -4788,6 +4987,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cd7nyh.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
       "itunes_duration": "1672",
       "speakers": [
         "Andy Zaltzman"
@@ -4807,6 +5007,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cbtpx5.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26576000",
       "itunes_duration": "1661",
       "speakers": [
         "Andy Zaltzman"
@@ -4826,6 +5027,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c9j244.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26736000",
       "itunes_duration": "1671",
       "speakers": [
         "Andy Zaltzman"
@@ -4844,6 +5046,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c82hnl.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26512000",
       "itunes_duration": "1657",
       "speakers": [
         "May Topical"
@@ -4862,6 +5065,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c6ph5x.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26176000",
       "itunes_duration": "1636",
       "speakers": [
         "May Topical"
@@ -4880,6 +5084,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c5bnxg.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26864000",
       "itunes_duration": "1679",
       "speakers": [
         "May Topical"
@@ -4898,6 +5103,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c41yml.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26832000",
       "itunes_duration": "1677",
       "speakers": [
         "Andy Zaltzman",
@@ -4920,6 +5126,7 @@
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c2qv0f.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26512000",
       "itunes_duration": "1657",
       "speakers": [
         "Andy Zaltzman",
@@ -4931,6 +5138,1563 @@
         "news",
         "quiz",
         "april"
+      ]
+    },
+    {
+      "key": "091d1d6668a46ef2a35e601fdb7f9e0fbb0ecc6d",
+      "title": "The Now Show - 15th April",
+      "published_at": "2022-05-13T18:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0c12tsp",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c402lm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Steve Punt"
+      ],
+      "topics": [
+        "april"
+      ]
+    },
+    {
+      "key": "5c6b051e66c2fdfaabb517c42eeb1a77d01a8322",
+      "title": "The Now Show - 8th April",
+      "published_at": "2022-05-06T18:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bzn7xm",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c3zgyf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Steve Punt"
+      ],
+      "topics": [
+        "april"
+      ]
+    },
+    {
+      "key": "f3cd23c9a588280d5504c0a00f02f253c34298e8",
+      "title": "The Now Show - 1st April",
+      "published_at": "2022-04-29T18:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0byd11r",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c3qqns.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26656000",
+      "itunes_duration": "1666",
+      "speakers": [
+        "Steve Punt"
+      ],
+      "topics": [
+        "april"
+      ]
+    },
+    {
+      "key": "6161c45c263c03b9d21c6de144b222cd2c3a796b",
+      "title": "The Now Show - 25th March",
+      "published_at": "2022-04-22T16:35:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bx16qk",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bvbvkk.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c350rg.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Steve Punt"
+      ],
+      "topics": [
+        "march"
+      ]
+    },
+    {
+      "key": "535d0689195fc58c9c1e4512ccec1e91f920524c",
+      "title": "The Now Show – 18th March",
+      "published_at": "2022-04-15T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bvrn18",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bvbvkk.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bw7py0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Steve Punt"
+      ],
+      "topics": [
+        "march"
+      ]
+    },
+    {
+      "key": "57fb5df17d91e301caf95209200212c7c8e5934b",
+      "title": "The Now Show - 11th March",
+      "published_at": "2022-04-08T18:10:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0btdzvt",
+      "description": "The Now Show returns with Steve and Hugh being joined by Stevie Martin and Kieran Hodgson, alongside stand-up from Ian Smith and Chloe Petts, and music from Huge Davies.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bvbvkk.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c089xs.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Stevie Martin",
+        "Kieran Hodgson",
+        "Ian Smith",
+        "Chloe Petts"
+      ],
+      "topics": [
+        "march"
+      ]
+    },
+    {
+      "key": "ebab867b7519d0e761be94b706238049062d0db2",
+      "title": "Friday Night Comedy is now first on BBC Sounds",
+      "published_at": "2022-03-12T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0btxbjc",
+      "description": "Looking for the latest episode? New episodes of Friday Night Comedy will now be available first on BBC Sounds for four weeks before other podcast apps. If you haven’t already, you can download the BBC Sounds app to listen to the Friday Night Comedy podcast first. BBC Sounds is also available in lots of other places. Find us on your voice device or smart speaker, on your connected TV, in your car, or at bbc.co.uk/sounds. The latest episode is available on BBC Sounds right now. BBC Sounds – you can find exclusive music mixes, live BBC radio and more podcasts like this one.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0btx928.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "960000",
+      "itunes_duration": "60",
+      "speakers": [],
+      "topics": [
+        "friday",
+        "night",
+        "comedy",
+        "sounds"
+      ]
+    },
+    {
+      "key": "a77a7f6857767d9c0eec5733dbd645726c002511",
+      "title": "News Quiz 4th March 2022",
+      "published_at": "2022-03-04T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bsl978",
+      "description": "Recorded at the BBC Radio Theatre, this week Andy Zaltzman is joined by Mark Steel, Sindhu Vee, Daniel Finkelstein and Lucy Porter to discuss war in Ukraine and the international reaction. Last in the series. Hosted by Andy Zaltzman Chairs script by Andy Zaltzman Additional Material from Alice Fraser, Mike Shephard, Cameron Loxdale, Jade Gebbie and Peter Tellouche. Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox The Producer is James Robinson, and it is a BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bryzp5.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bsl6wy.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27792000",
+      "itunes_duration": "1737",
+      "speakers": [
+        "Andy Zaltzman",
+        "Sindhu Vee",
+        "Daniel Finkelstein",
+        "Lucy Porter",
+        "Andy Zaltzman Chairs",
+        "Andy Zaltzman Additional",
+        "Alice Fraser",
+        "Mike Shephard"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "march"
+      ]
+    },
+    {
+      "key": "8cc9b7d7cb76f6827f15e68a1980b146bfeff0c3",
+      "title": "News Quiz 25th February 2022",
+      "published_at": "2022-02-25T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0br7v6l",
+      "description": "Recorded at the BBC Radio Theatre, this week Andy Zaltzman is joined by Angela Barnes, Ian Smith, Desiree Burch and Geoff Norcott to discuss Putin's invasion of Ukraine and the reaction at home and abroad. The team also look at the end of COVID restrictions in England, Johnson's questionnaire from the Met, and Trump's new social media venture. Hosted by Andy Zaltzman Chairs script by Andy Zaltzman Additional Material from Alice Fraser, Suchandrika Chakrabarti, Sean Stoakes and Cameron Loxdale. Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox The Producer is Gwyn Rhys Davies, and it is a BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0bryzp5.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0br7t1j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27776000",
+      "itunes_duration": "1736",
+      "speakers": [
+        "Andy Zaltzman",
+        "Angela Barnes",
+        "Ian Smith",
+        "Desiree Burch",
+        "Geoff Norcott",
+        "Andy Zaltzman Chairs",
+        "Andy Zaltzman Additional",
+        "Alice Fraser"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "february"
+      ]
+    },
+    {
+      "key": "5ece49a1f685106ce4cd74d4443240997a451481",
+      "title": "News Quiz 18th February 2022",
+      "published_at": "2022-02-18T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bpz4lc",
+      "description": "Recorded at the BBC Radio Theatre, his week Andy Zaltzman was joined by Elis James, Olga Koch, Tim Shipman and Shaparak Khorsandi to look at the situation in Ukraine, and how the cream of British politics are dealing with the delicate situation; we looks at the Met Police, in a week that the Met Police are looking at Prince Charles, and in a (possible) world first, we have an audio-only picture round! Hosted by Andy Zaltzman Chairs script by Andy Zaltzman Additional Material from Alice Fraser, Catherine Brinkworth, Ken Cheng and Rajiv Karia Production Co-ordinators: Katie Baum & Caroline Barlow Sound Editor: Marc Willcox The Producer is Gwyn Rhys Davies, and it is a BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bpz3hf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27776000",
+      "itunes_duration": "1736",
+      "speakers": [
+        "Andy Zaltzman",
+        "Elis James",
+        "Olga Koch",
+        "Tim Shipman",
+        "Shaparak Khorsandi",
+        "Andy Zaltzman Chairs",
+        "Andy Zaltzman Additional",
+        "Alice Fraser"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "february"
+      ]
+    },
+    {
+      "key": "d66374f3d29bfe6ef87f7e49ac2fc23f45b0969e",
+      "title": "News Quiz 11th February 2022",
+      "published_at": "2022-02-11T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bnp3wh",
+      "description": "After 5-and-a-half series, 44 episodes and 714 days, The News Quiz welcomes a live studio audience once again. Recorded at the BBC Radio Theatre, this week Andy Zaltzman was joined by Mark Steel, Athena Kugblenu, Hugo Rifkind and Jackie Weaver to look at NHS backlogs, the end of all COVID restrictions in England, a minor reshuffle and a major scientific breakthrough. Hosted by Andy Zaltzman Chairs script by Andy Zaltzman Additional Material from Alice Fraser, Alex Kealy, Eleri Morgan and Rajiv Karia Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox The Producer is Gwyn Rhys Davies, and it is a BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bnp1nd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27792000",
+      "itunes_duration": "1737",
+      "speakers": [
+        "Andy Zaltzman",
+        "Mark Steel",
+        "Athena Kugblenu",
+        "Hugo Rifkind",
+        "Jackie Weaver",
+        "Andy Zaltzman Chairs",
+        "Andy Zaltzman Additional",
+        "Alice Fraser"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "february"
+      ]
+    },
+    {
+      "key": "40409e569aeffcb7665847120e36d3c67757ecb1",
+      "title": "News Quiz 4th February 2022",
+      "published_at": "2022-02-04T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bm8d9g",
+      "description": "Andy Zaltzman is joined by Elis James, Ola Labib, Zoe Lyons and Ed Balls to give an un-redacted update on the week’s news. The panel look at Partygate and Johnson's precarious position in No.10, find out what the Levelling Up whitepaper can teach us about the birth of civilisation, and discover how little we know about trees. Hosted by Andy Zaltzman Chairs script by Andy Zaltzman Additional Material from Alice Fraser, Benjamin Partridge, Ray Badran and Tasha Dhanraj Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox The Producer is Gwyn Rhys Davies, and it is a BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bm8cc5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Andy Zaltzman",
+        "Elis James",
+        "Ola Labib",
+        "Ed Balls",
+        "Andy Zaltzman Chairs",
+        "Andy Zaltzman Additional",
+        "Alice Fraser",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "february"
+      ]
+    },
+    {
+      "key": "056404b1172eb1ef97384c7d303ab216e29fa8c6",
+      "title": "News Quiz 28th January 2022",
+      "published_at": "2022-01-28T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bkygds",
+      "description": "Andy Zaltzman and the News Quiz satirise the week's news from the UK and beyond. This week Andy is joined by Nish Kumar, Rachel Fairburn, Neil Delamere and Isabel Hardman. They try to make sense of a week of war mongering and cake ambushes. Chair's Script: Written by Andy Zaltzman Additional Material: Written by Alice Fraser, Heidi Regan, Rhiannon Shaw and Tasha Dhanraj. Production Coordinator: Katie Baum Sound Editor: Marc Willcox Producer: James Robinson A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bky74w.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26512000",
+      "itunes_duration": "1657",
+      "speakers": [
+        "Andy Zaltzman",
+        "Nish Kumar",
+        "Rachel Fairburn",
+        "Neil Delamere",
+        "Isabel Hardman",
+        "Alice Fraser",
+        "Heidi Regan",
+        "Rhiannon Shaw"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "january"
+      ]
+    },
+    {
+      "key": "a818ba6e8ccfa097e4973c77e6d98120d2201f9f",
+      "title": "News Quiz 21st January 2022",
+      "published_at": "2022-01-21T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bjmkzb",
+      "description": "Andy Zaltzman and the News Quiz satirise the week's news from the UK and beyond. This week Andy is joined by Alice Fraser, Chris McCausland, Daliso Chaponda and Hugo Rifkind. They try to make sense of a week of big dogs, pork pies and red meat. Chair's Script: Written by Andy Zaltzman Additional Material: Written by Heidi Regan, Cameron Loxdale, Stephen Buchanan and Tasha Dhanraj. Production Coordinator: Katie Baum Sound Editor: Marc Willcox Producer: James Robinson A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bjmgz9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26544000",
+      "itunes_duration": "1659",
+      "speakers": [
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Chris McCausland",
+        "Hugo Rifkind",
+        "Heidi Regan",
+        "Cameron Loxdale",
+        "Stephen Buchanan",
+        "Tasha Dhanraj"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "january"
+      ]
+    },
+    {
+      "key": "397c252ff8cd1466b21f1e505cafc8ec919c59d8",
+      "title": "News Quiz 14th January 2022",
+      "published_at": "2022-01-14T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bh9myl",
+      "description": "Andy Zaltzman presents a look back at the week's headlines, in a tough week for the Prime Minister. Joined by a panel of Ayesha Hazarika, Paul Sinha, Kiri Pritchard-McLean and Simon Evans, Andy looks back over the events of 20th May 2020 with Sue Gray-like focus. As well as Downing Street parties, the panel discuss rising energy bills, pig heart transplants, space telescopes and Michael Gove being trapped in a lift. Chair's Script: Written by Andy Zaltzman Additional Material: by Alice Fraser, Mike Shephard, Celya AB and Rajiv Karia Production Coordinator: Katie Baum Sound Editor: Marc Willcox Producer: Gwyn Rhys Davies. A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bh9k6h.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26720000",
+      "itunes_duration": "1670",
+      "speakers": [
+        "Andy Zaltzman",
+        "Ayesha Hazarika",
+        "Paul Sinha",
+        "Simon Evans",
+        "Sue Gray-like",
+        "Michael Gove",
+        "Alice Fraser",
+        "Mike Shephard"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "january"
+      ]
+    },
+    {
+      "key": "c34e6be985e29f41b7c25e7947d8ca251d68649c",
+      "title": "News Quiz 7th January 2022",
+      "published_at": "2022-01-07T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bfzsx1",
+      "description": "Andy Zaltzman and the News Quiz return to satirise the weeks news from the UK and beyond. This week Andy is joined by Alice Fraser, Chris McCausland, Katie Perrior and Ahir Shah. They look at the smallprint on Keir Starmer's 'contract with Britain', rate Boris Johnson's new look, and discuss Novak Djokovic's double fault. Chair's Script: Written by Andy Zaltzman Additional Material: Written by Simon Alcock, Nathan D'Arcy Roberts, Alice Fraser, Rajiv Karia and Hannah Platt Production Coordinator: Katie Baum Sound Editor: Marc Willcox Producer: Gwyn Rhys Davies A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bfzs0c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Chris McCausland",
+        "Ahir Shah",
+        "Boris Johnson",
+        "Simon Alcock",
+        "Nathan D'Arcy Roberts",
+        "Rajiv Karia"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "january"
+      ]
+    },
+    {
+      "key": "9311e46884d300607b76e465e5833f3e15f2c28d",
+      "title": "News Quiz: Best of 2021",
+      "published_at": "2021-12-31T18:55:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bbrh0n",
+      "description": "Andy Zaltzman raids the 2021 archive to remember amongst other things, a man in a horned helmet running around the Capitol Building, the leader of the opposition not being allowed into a pub and Britain's favourite alpaca. Producer: Richard Morris Production co-ordinator: Katie Baum A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bbrc6g.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26496000",
+      "itunes_duration": "1656",
+      "speakers": [
+        "Andy Zaltzman",
+        "Richard Morris",
+        "Katie Baum"
+      ],
+      "topics": [
+        "news",
+        "quiz"
+      ]
+    },
+    {
+      "key": "dc04bf1fb8f8c172c22b49cf14199e6a33d60329",
+      "title": "Dead Ringers - Christmas Specials 2021 - The Multiverse Special",
+      "published_at": "2021-12-24T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bcjz1g",
+      "description": "A \"Today programme\" special which takes a satirical look back at recent events in alternative earths around the multiverse. There are worlds in which England attempts to break free from the yoke of Scottish rule, the most serious pandemic is Man Flu, Love Island is an important world power, Ronnie Corbett is worshipped as a god and TV series Succession is also wildly popular - but not as you would know it. Performed by Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey. Written by Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, Edward Tew, Sophie Dickinson, Rob Darke, Dan Audritt and Kat Butterfield, Cody Dahler, and Duncan Wisbey. Producer... Bill Dare Production Coordinator... Caroline Barlow Sound Designer... Rich Evans A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bcjjsr.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41216000",
+      "itunes_duration": "2576",
+      "speakers": [
+        "Dead Ringers Christmas Specials",
+        "Man Flu",
+        "Ronnie Corbett",
+        "Jon Culshaw",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Debra Stephenson",
+        "Duncan Wisbey"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "christmas",
+        "specials",
+        "multiverse",
+        "special"
+      ]
+    },
+    {
+      "key": "171a94cb70ea20a9530a12519b69e7c6c9f78e44",
+      "title": "Dead Ringers - Christmas Specials 2021 - Episode 2",
+      "published_at": "2021-12-17T19:50:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0bbtm24",
+      "description": "For the first time broadcast live, from the BBC Radio Theatre, London on Friday. This live show will feature Professor Sir Chris Whitty as you’ve never seen him before, Boris Johnson seeks the help of The Repair Shop, there's guidance on how to have fun without the office party and the epic quest to get a booster jab. With, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey. Written by: Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, Edward Tew, Sophie Dickson, Rob Darke, Cody Dahler and Rachel Ethorn. Producer: Bill Dare Production Coordinator: Caroline Barlow A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0bbtlcx.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26464000",
+      "itunes_duration": "1654",
+      "speakers": [
+        "Dead Ringers Christmas Specials",
+        "Chris Whitty",
+        "Boris Johnson",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Debra Stephenson",
+        "Duncan Wisbey",
+        "Tom Jamieson"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "christmas",
+        "specials"
+      ]
+    },
+    {
+      "key": "346e62ca48c69c8df5b29ffdbb1bda04f397aa22",
+      "title": "Dead Ringers - Christmas Specials 2021 - Episode 1",
+      "published_at": "2021-12-10T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b99j8v",
+      "description": "The team delve into what really happened at Downing Street last Christmas, the real source of the Omicron variant, and follow Boris and Carrie’s baby’s first day at her new job. Performed by Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey. Written by Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, Edward Tew, Rob Darke, Natasha Dhanraj and Cody Dahler. Producer: Bill Dare Production Coordinator: Caroline Barlow A BBC Studios Production for Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3tlk.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24048000",
+      "itunes_duration": "1503",
+      "speakers": [
+        "Dead Ringers Christmas Specials",
+        "Jon Culshaw",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Debra Stephenson",
+        "Duncan Wisbey",
+        "Tom Jamieson",
+        "Laurence Howarth"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "christmas",
+        "specials"
+      ]
+    },
+    {
+      "key": "940444b2661554d6f76b8857558beffc11f6671c",
+      "title": "The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner",
+      "published_at": "2021-12-03T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b8028s",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them for the final episode of the series and all from a safe distance is Janine Harouni, Jamie MacDonald with music supplied by Tim Sutton and Sooz Kempner. Voice Actors: Kieran Hodgson and Nimisha Odedra. Producer: Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b7zwgd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
+      "itunes_duration": "1673",
+      "speakers": [
+        "Janine Harouni",
+        "Jamie MacDonald",
+        "Tim Sutton",
+        "Steve Punt",
+        "Kieran Hodgson",
+        "Nimisha Odedra",
+        "Sarah Sharpe"
+      ],
+      "topics": [
+        "december",
+        "feat",
+        "janine",
+        "harouni",
+        "jamie",
+        "macdonald",
+        "sutton",
+        "sooz",
+        "kempner"
+      ]
+    },
+    {
+      "key": "5de969fa0d8b3114e8639e1ba2d7a8105d73d9d4",
+      "title": "The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies",
+      "published_at": "2021-11-26T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b6lj0x",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in the BBC's Radio Theatre in front of a remote audience. Joining them from a safe distance is Athena Kugblenu taking on MPs wages, and Geoff Norcott on must-see TV. This week's music is supplied by Huge Davies. Voice Actors: Emma Sidi and Jason Forbes Producer: Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b6ldt9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26720000",
+      "itunes_duration": "1670",
+      "speakers": [
+        "Geoff Norcott",
+        "Steve Punt",
+        "Emma Sidi",
+        "Jason Forbes",
+        "Sarah Sharpe"
+      ],
+      "topics": [
+        "november",
+        "feat",
+        "athena",
+        "kugblenu",
+        "geoff",
+        "norcott",
+        "huge",
+        "davy"
+      ]
+    },
+    {
+      "key": "b6d3f070af780f2e356de8731fbebdedbf8deb9c",
+      "title": "The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman",
+      "published_at": "2021-11-19T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b583ft",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Ria Lina taking on back-seat scientists, Josh Pugh pondering on dinosaur discoveries, and Beardyman playing us out with a jazzy ode to staying calm. Voice Actors: Luke Kempner and Natasha Hodgson Producer: Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b57z3r.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
+      "itunes_duration": "1673",
+      "speakers": [
+        "Josh Pugh",
+        "Beardyman Steve Punt",
+        "Luke Kempner",
+        "Natasha Hodgson",
+        "Sarah Sharpe"
+      ],
+      "topics": [
+        "november",
+        "lina",
+        "josh",
+        "pugh",
+        "beardyman"
+      ]
+    },
+    {
+      "key": "455078d11726f97f96828f3396835a1772ecd926",
+      "title": "The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez",
+      "published_at": "2021-11-12T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b3wp3q",
+      "description": "Steve Punt and Gareth Gwynn present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Michael Spicer tackling non-sensical poiticians, Priya Hall wonders why we're experiencing shortages of pretty much everything and Igancio Lopez plays us out with a Bowie-inspired song about billionaires in space. Voice Actors: Luke Kempner and Karen Bartke. Producer: Pete Strauss & Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b3wlfr.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Gareth Gwynn",
+        "Michael Spicer",
+        "Priya Hall",
+        "Ignacio Lopez",
+        "Steve Punt",
+        "Igancio Lopez",
+        "Luke Kempner",
+        "Karen Bartke"
+      ],
+      "topics": [
+        "november",
+        "gareth",
+        "gwynn",
+        "michael",
+        "spicer",
+        "priya",
+        "hall",
+        "ignacio",
+        "lopez"
+      ]
+    },
+    {
+      "key": "906f1f46b3d86bb46ef7aac6f221ecec017e72f7",
+      "title": "The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson",
+      "published_at": "2021-10-29T18:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0b14lhj",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches and they're back in the BBC Radio Theatre in front of a remote audience. Joining them from a safe distance is Felicity Ward who has a foolproof plan for improving food in this country and Aurie Styla giving survival tips for the pandemic and the smug benefits of owning an electric car. We also get a sneak peek at Adele's 23rd album, 96, from Jess Robinson. Music composed by Alex Silverman. Voice Actors: Gemma Arrowsmith and Luke Kempner Producer: Pete Strauss Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b14hnb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
+      "itunes_duration": "1673",
+      "speakers": [
+        "Jess Robinson",
+        "Steve Punt",
+        "Alex Silverman",
+        "Gemma Arrowsmith",
+        "Luke Kempner Producer",
+        "Pete Strauss Production Co-Ordinator",
+        "Sarah Sharpe"
+      ],
+      "topics": [
+        "october",
+        "felicity",
+        "ward",
+        "aurie",
+        "styla",
+        "jess",
+        "robinson"
+      ]
+    },
+    {
+      "key": "947600774212a7dd89f3083e849ea9155b33fc1a",
+      "title": "News Quiz 22nd October 2021",
+      "published_at": "2021-10-22T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09zs1gs",
+      "description": "In the last of the current series, Andy Zaltzman and the panel take on the week's headlines. Ayesha Hazarika, Matt Winning, Geoff Norcott and Elis James join Andy in 'convivial, fraternal spirit' to look take a close look at COP26, and whether Brian Cox is right about earth's extinction leaving the galaxy bereft of meaning. They also discuss Southend's newly-minted city status, online anonymity and Sajid Javid's winter plan. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Mike Shephard, Hannah Platt and Rajiv Karia. Producer: Gwyn Rhys Davies Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09zs01z.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26640000",
+      "itunes_duration": "1665",
+      "speakers": [
+        "Andy Zaltzman",
+        "Ayesha Hazarika",
+        "Matt Winning",
+        "Geoff Norcott",
+        "Elis James",
+        "Brian Cox",
+        "Sajid Javid",
+        "Alice Fraser"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "october"
+      ]
+    },
+    {
+      "key": "3afa501155d4bd478e8bc54a9cf495604683b93a",
+      "title": "News Quiz 15th October 2021",
+      "published_at": "2021-10-15T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09ytg6p",
+      "description": "Catherine Bohart, Michael Deacon, Chris McCausland and Eshaan Akbar join host Andy Zaltzman to look back over the week's news. This week, they look at the COVID report's findings, Boris Johnson's holiday hobby, the Northern Ireland Protocol and a sacked wizard. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Catherine Brinkworth, Rhiannon Shaw and Rajiv Karia. Producer: Gwyn Rhys Davies Production Co-ordinator: Katie Baum Sound Editor: Mike Smith A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ytfqb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Catherine Bohart",
+        "Michael Deacon",
+        "Chris McCausland",
+        "Eshaan Akbar",
+        "Andy Zaltzman",
+        "Boris Johnson",
+        "Alice Fraser",
+        "Catherine Brinkworth"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "october"
+      ]
+    },
+    {
+      "key": "0ed1c2826621c31dbb61e26791ac4c6f209544ce",
+      "title": "News Quiz 8th October 2021",
+      "published_at": "2021-10-08T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09y4ggj",
+      "description": "Kerry Godliman, Anand Menon, Kiri Pritchard-McLean and Ola Labib join host Andy Zaltzman to pore over the week's news. This week, they get their teeth into the Tory party conference, the scrapping of the Universal credit uplift in the week it was announced fuel prices could go up by 30%, Facebook's 6hr lost weekend and the Nobel Prizes. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Heidi Regan, Suchandrika Chakrabarti and Tasha Dhanraj. Producer: Gwyn Rhys Davies Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09y4f6n.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Kerry Godliman",
+        "Anand Menon",
+        "Ola Labib",
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Heidi Regan",
+        "Suchandrika Chakrabarti",
+        "Tasha Dhanraj"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "october"
+      ]
+    },
+    {
+      "key": "22e5bb9f2feba89b77fb1972c417cc3f375e6306",
+      "title": "News Quiz 1st October 2021",
+      "published_at": "2021-10-01T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09xhqg9",
+      "description": "Lucy Porter, Angela Barnes, Alun Cochrane and Matt Forde join host Andy Zaltzman to chew over the week's news. On the menu this week: the fuel crisis, Labour conference, end of the furlough scheme, Amazon's new house robot and the new Bond film. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Max Davis, Tasha Dhanraj and Heidi Regan. It was produced by Sam Michell for BBC Studios.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09xhp82.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Lucy Porter",
+        "Angela Barnes",
+        "Alun Cochrane",
+        "Matt Forde",
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Max Davis",
+        "Tasha Dhanraj"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "october"
+      ]
+    },
+    {
+      "key": "d5eb680ccb6bb934d668a8ee4d06507101ef8df3",
+      "title": "News Quiz 24th September 2021",
+      "published_at": "2021-09-24T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09wwsnw",
+      "description": "Andy is joined by journalist Hugo Rifkind and comedians Susie McCabe, Ria Lina and Andrew Maxwell to dismantle and discuss the week's news, including the energy crisis, lack of Co2 and Boris's trip to the US. The script is written by host Andy Zaltzman with additional material by Alice Fraser, Mike Shephard, Rajiv Karia and Esther Manito. It is produced by Sam Michell for BBC Studios.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09wwrsv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26704000",
+      "itunes_duration": "1669",
+      "speakers": [
+        "Hugo Rifkind",
+        "Susie McCabe",
+        "Ria Lina",
+        "Andrew Maxwell",
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Mike Shephard",
+        "Rajiv Karia"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "september"
+      ]
+    },
+    {
+      "key": "dc470ea2faa297a433f8d478fe6ad696df59ebac",
+      "title": "News Quiz 17th September 2021",
+      "published_at": "2021-09-17T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09w90sq",
+      "description": "Andy Zaltzman is joined by comedians Paul Sinha, Neil Delamere and Zoe Lyons to discuss the week's news, including Boris Johnson's reshuffle, winter covid plans and Emma Raducanu's heroics in New York Hosted and written by Andy Zaltzman with additional material by Alice Fraser, Max Davis, Richard Stott and Rajiv Karia. Producers: Sam Michell and Gwyn Rhys Davies Production Coordinators: Caroline Barlow and Katie Baum Sound Editing: Marc Willcox A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09w904r.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Andy Zaltzman",
+        "Paul Sinha",
+        "Neil Delamere",
+        "Boris Johnson",
+        "Emma Raducanu",
+        "Alice Fraser",
+        "Max Davis",
+        "Richard Stott"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "september"
+      ]
+    },
+    {
+      "key": "9b6aa916abc58710d1914ac7223c5f01bd18504f",
+      "title": "News Quiz 10th September 2021",
+      "published_at": "2021-09-10T18:10:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09vns1n",
+      "description": "Andy and the team talk tax hikes, the Taliban, Texas, and tennis stars.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09vncbb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26576000",
+      "itunes_duration": "1661",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "september"
+      ]
+    },
+    {
+      "key": "382078c1e5ee2209b0ef32d71af01ddfe421f63d",
+      "title": "News Quiz 3rd September 2021",
+      "published_at": "2021-09-03T10:38:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09w42x6",
+      "description": "Andy Zaltzman is joined by Rachel Fairburn, Hugo Rifkind, Helen Lewis and Ian Smith.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09w42m4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26688000",
+      "itunes_duration": "1668",
+      "speakers": [
+        "Andy Zaltzman",
+        "Rachel Fairburn",
+        "Hugo Rifkind",
+        "Helen Lewis",
+        "Ian Smith"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "september"
+      ]
+    },
+    {
+      "key": "79e014fb453b9fab71c652ba4a86a34f8be52e22",
+      "title": "Party's Over: ep6 Going Green 27th August 2021",
+      "published_at": "2021-08-27T17:54:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09s18jk",
+      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week Christine encourages Henry to make the most of his green credentials. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Lizzie... Alice Fraser Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09s17k9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
+      "itunes_duration": "1673",
+      "speakers": [
+        "Miles Jupp",
+        "Henry Tobin",
+        "Ingrid Oliver Natalie",
+        "Emma Sidi Jones",
+        "Justin Edwards Lizzie",
+        "Alice Fraser",
+        "Paul Doolan",
+        "Jon Hunter"
+      ],
+      "topics": [
+        "party",
+        "green",
+        "august"
+      ]
+    },
+    {
+      "key": "d29aa2c4fab6617622e0addf2040c5fd1b6b075a",
+      "title": "Party's Over: ep5 The Great Outdoors 20th August 2021",
+      "published_at": "2021-08-20T17:56:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09rxgnw",
+      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week Henry's protection officer, Jones takes him on an ill-advised survival weekend in \"the jungle\". Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09rxg9h.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26608000",
+      "itunes_duration": "1663",
+      "speakers": [
+        "Miles Jupp",
+        "Henry Tobin",
+        "Ingrid Oliver Natalie",
+        "Emma Sidi Jones",
+        "Justin Edwards",
+        "Paul Doolan",
+        "Jon Hunter",
+        "Richard Morris"
+      ],
+      "topics": [
+        "party",
+        "august"
+      ]
+    },
+    {
+      "key": "b4c278774475cf59c7f27ecf2cd6034f4ac8b50e",
+      "title": "Party's Over: ep4 Parish Council 13th August 2021",
+      "published_at": "2021-08-13T17:56:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09r5q4f",
+      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field. This week, Henry meets a local nemesis as he tries to make some home and garden improvements so Christine steps in with a plan. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Albert...Joseph Marcell Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow Sound design: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09r5php.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Miles Jupp",
+        "Henry Tobin",
+        "Ingrid Oliver Natalie",
+        "Emma Sidi Jones",
+        "Justin Edwards Albert",
+        "Joseph Marcell Written",
+        "Paul Doolan",
+        "Jon Hunter"
+      ],
+      "topics": [
+        "party",
+        "parish",
+        "council",
+        "august"
+      ]
+    },
+    {
+      "key": "7a827b5e2131ad542b36dca6504c495682f828ba",
+      "title": "Party's Over: ep3 New Party 6th August 2021",
+      "published_at": "2021-08-06T17:56:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09r4777",
+      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week, while standing in as host at a talk radio station, Henry meets Scott Machin who might just have the answers to all his problems. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Scott...Kiell Smith-Bynoe Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow Sound design: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09r46pk.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Miles Jupp",
+        "Henry Tobin",
+        "Scott Machin",
+        "Ingrid Oliver Natalie",
+        "Emma Sidi Jones",
+        "Justin Edwards Scott",
+        "Kiell Smith-Bynoe Written",
+        "Paul Doolan"
+      ],
+      "topics": [
+        "party",
+        "august"
+      ]
+    },
+    {
+      "key": "df440878201ed4c38f21e1e675a42a3a1071fc11",
+      "title": "Party's Over: ep2 Road Trip 30th July 2021",
+      "published_at": "2021-08-02T16:02:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09qmbmj",
+      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week Henry is reluctantly en route to a wedding while battling to stem some potentially damaging leaks from his former closest aide. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow Sound design: Marc Willcox",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09r485h.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Miles Jupp",
+        "Henry Tobin",
+        "Ingrid Oliver Natalie",
+        "Emma Sidi Jones",
+        "Justin Edwards",
+        "Paul Doolan",
+        "Jon Hunter",
+        "Richard Morris"
+      ],
+      "topics": [
+        "party",
+        "road",
+        "trip",
+        "july"
+      ]
+    },
+    {
+      "key": "f016801f5e98b7bc3edd0be2e645a2c73e32a817",
+      "title": "Dead Ringers, 16th July, 2021",
+      "published_at": "2021-07-16T18:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09pmzvb",
+      "description": "Includes a look back at events since Sunday’s historic Euros final and an unusual challenge for Ronan Keating. With Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey Written by Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Edward Tew, Jane McCutcheon & Vivienne Riddoch, Sophie Dickson, Jeffrey Aidoo, Rajiv Karia & Tasha Dhanraj Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rt2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25264000",
+      "itunes_duration": "1579",
+      "speakers": [
+        "Dead Ringers",
+        "Ronan Keating",
+        "Jon Culshaw",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Debra Stephenson",
+        "Tom Jamieson",
+        "Laurence Howarth"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "july"
+      ]
+    },
+    {
+      "key": "829b1ea6024ee559cba2a9ff60a14604861c6d9d",
+      "title": "Dead Ringers, 9th July, 2021",
+      "published_at": "2021-07-09T18:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09ny3yb",
+      "description": "Labour’s Angela Rayner has some unusual items for the team at The Repair Shop, and there’s a unique perspective on Andy Murray’s personal life. With Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey. Written by:- Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Sophie Dickson, and Athena Kugblenu. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ny1y1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28000000",
+      "itunes_duration": "1750",
+      "speakers": [
+        "Dead Ringers",
+        "Angela Rayner",
+        "Andy Murray",
+        "Jon Culshaw",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Debra Stephenson",
+        "Duncan Wisbey"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "july"
+      ]
+    },
+    {
+      "key": "5c5519c8a0582ba446ba70fc2ec4dfcb27755057",
+      "title": "Dead Ringers, Series 21, Episode 4",
+      "published_at": "2021-07-02T18:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09n7d1d",
+      "description": "Sajid Javid makes his first appearance as Health Minister, Liz Truss has a message for Harry Kane and the real secret of Andy Murray’s success is revealed. The writers were Tom Jamieson and Nev Fountain, Laurence Howarth, Tom Coles and Ed Amsden, Simon Alcock, Jeffrey Aidoo, Sophie Dickson and Duncan Wisbey. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rrv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
+      "itunes_duration": "1704",
+      "speakers": [
+        "Dead Ringers",
+        "Sajid Javid",
+        "Liz Truss",
+        "Harry Kane",
+        "Andy Murray",
+        "Tom Jamieson",
+        "Nev Fountain",
+        "Laurence Howarth"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "series"
+      ]
+    },
+    {
+      "key": "dd8d2eb13a9516123f3ab8ca219cffb34917aa0d",
+      "title": "Dead Ringers, 25th June, 2021",
+      "published_at": "2021-06-25T18:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09mk551",
+      "description": "There’s a surprising new role for Professor Chris Whitty, and Liz Truss is on the verge of her best ever trade deal. Performed by, Jon Culshaw, Lewis Macleod, Jan Ravens, and Duncan Wisbey. The writers were: Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Jane McCutcheon & Vivienne Riddoch, Sophie Dickson, & Tasha Dhanraj. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rn1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25808000",
+      "itunes_duration": "1613",
+      "speakers": [
+        "Dead Ringers",
+        "Chris Whitty",
+        "Liz Truss",
+        "Jon Culshaw",
+        "Lewis Macleod",
+        "Jan Ravens",
+        "Duncan Wisbey",
+        "Tom Jamieson"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "june"
+      ]
+    },
+    {
+      "key": "5ca26ccd8a0774725d66ef345955ad1d2be8b5fb",
+      "title": "Dead Ringers, 18th June, 2021",
+      "published_at": "2021-06-18T18:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09lwmt9",
+      "description": "The truth behind the summit between presidents Putin and Biden, the true value of Liz Truss’s trade deals, and someone else who’s been tricked by Martin Bashir finally comes forward. The writing squad for the series: Tom Jamieson and Nev Fountain, Laurence Howarth, Tom Coles & Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg, Nastassia Dhanraj , Athena Kugblenu, Sophie Dickson, Becca Bain, Duncan Wisbey, Rajiv Karia, Vivienne Riddoch & Jane Mccutcheon , Edward Tew. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09lwlqs.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28288000",
+      "itunes_duration": "1768",
+      "speakers": [
+        "Dead Ringers",
+        "Liz Truss",
+        "Martin Bashir",
+        "Tom Jamieson",
+        "Nev Fountain",
+        "Laurence Howarth",
+        "Tom Coles Ed Amsden",
+        "Jeffrey Aidoo"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "june"
+      ]
+    },
+    {
+      "key": "896634036d69e601411218e8db04bff3efcc67d5",
+      "title": "Dead Ringers 11th June 2021",
+      "published_at": "2021-06-14T12:38:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09l7crj",
+      "description": "Will England come out of lockdown on the 21st of June, how should the last series of Line of Duty have ended, and will Tom Cruise ever finish Mission Impossible 7? The writing squad for the series: Tom Jamieson and Nev Fountain, Laurence Howarth, Tom Coles & Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg, Sarah Campbell, Nastassia Dhanraj , Athena Kugblenu, Sophie Dickson, Rajiv Karia, Vivienne Riddoch & Jane Mccutcheon , Edward Tew. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09lfzmd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
+      "itunes_duration": "1672",
+      "speakers": [
+        "Tom Cruise",
+        "Tom Jamieson",
+        "Nev Fountain",
+        "Laurence Howarth",
+        "Tom Coles Ed Amsden",
+        "Jeffrey Aidoo",
+        "Simon Alcock",
+        "James Bugg"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "june"
+      ]
+    },
+    {
+      "key": "284db5a702d750bc875c7ad0fb17f1de2c318b0c",
+      "title": "The News Quiz - Friday 4th June 2021",
+      "published_at": "2021-06-04T17:58:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09klt8r",
+      "description": "Andy Zaltzman presents a look back at the week's headlines with guests Andrew Maxwell, Kiri Pritchard-McLean, Alex Massie and Ria Lina. It's the last episode in the series and Andy FINALLY becomes the first News Quiz host to present the programme from the BBC Test Match Special commentary box at Lords. Written by Andy Zaltzman with additional material from Alice Fraser, Max Davis and Tasha Dhanraj. Producer: Richard Morris Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09klsjb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26800000",
+      "itunes_duration": "1675",
+      "speakers": [
+        "Andy Zaltzman",
+        "Andrew Maxwell",
+        "Alex Massie",
+        "Alice Fraser",
+        "Max Davis",
+        "Tasha Dhanraj",
+        "Richard Morris",
+        "Cherlynn Andrew-Wilfred Sound"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday",
+        "june"
+      ]
+    },
+    {
+      "key": "4c0e7a52505fb6de63fb8f1e3f523866f10e4b10",
+      "title": "The News Quiz - Friday 28th May 2021",
+      "published_at": "2021-05-28T17:58:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09jyddv",
+      "description": "Andy Zaltzman presents a look back at the week's headlines with guests Lucy Porter, Alice Fraser, Hugo Rifkind and Daliso Chaponda. This week a certain select committee hearing and the inaugural FALSE or VERY FALSE round. Written by Andy Zaltzman with additional material from Eleanor Morton, Rajiv Karia and Simon Alcock. Producer: Richard Morris Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09jyc9q.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26816000",
+      "itunes_duration": "1676",
+      "speakers": [
+        "Andy Zaltzman",
+        "Lucy Porter",
+        "Alice Fraser",
+        "Eleanor Morton",
+        "Rajiv Karia",
+        "Simon Alcock",
+        "Richard Morris",
+        "Cherlynn Andrew-Wilfred Sound"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday"
+      ]
+    },
+    {
+      "key": "a0b6ca014885e228aa0b51b107637b705f1455be",
+      "title": "The News Quiz - Friday 21st May 2021",
+      "published_at": "2021-05-21T17:58:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09j8kmc",
+      "description": "Andy Zaltzman is joined by Geoff Norcott, Anand Menon, Felicity Ward and Eleanor Tiernan for a look back at the week's headlines Items on this week's agenda include foreign holidays and sheep. Stories range from red to green via amber in terms of national importance. Producer: Richard Morris Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09j8k16.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Andy Zaltzman",
+        "Geoff Norcott",
+        "Eleanor Tiernan",
+        "Richard Morris",
+        "Cherlynn Andrew-Wilfred Sound",
+        "Marc Willcox"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday"
+      ]
+    },
+    {
+      "key": "9b1d85da5b3f1bd4b2ded54c6edf3d6c5104e87a",
+      "title": "The News Quiz - Friday 14th May 2021",
+      "published_at": "2021-05-14T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09hm59s",
+      "description": "Andy Zaltzman presents a look back at the week's headlines with Danny Finkelstein, Zoe Lyons, Catherine Bohart and Darren Harriott. This week, the panel dissect the Queen's Speech, unpick the local election results, and enjoy a rare quickfire round. Written by Andy Zaltzman with additional material from Alice Fraser, Max Davis, Rajiv Karia and Hannah Platt. Producer: Gwyn Rhys Davies Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09hm4lk.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26640000",
+      "itunes_duration": "1665",
+      "speakers": [
+        "Andy Zaltzman",
+        "Danny Finkelstein",
+        "Catherine Bohart",
+        "Darren Harriott",
+        "Alice Fraser",
+        "Max Davis",
+        "Rajiv Karia",
+        "Hannah Platt"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday"
+      ]
+    },
+    {
+      "key": "427cc1460d647984a92fb84ca75925a5c46514ee",
+      "title": "The News Quiz - Friday 7th May 2021",
+      "published_at": "2021-05-07T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09gyyhw",
+      "description": "Andy Zaltzman presents a look back at the week's headlines with Paul Sinha, Angela Barnes, Ayesha Hazarika and Ian Smith. This week decorating, vaccinating and electioneering are subject to scrutiny by our teams. Written by Andy Zaltzman with additional material from Alice Fraser, Mike Shephard, Tasha Dhanraj and Ray Badran. Producer: Gwyn Rhys Davies Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09gyvmf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26784000",
+      "itunes_duration": "1674",
+      "speakers": [
+        "Andy Zaltzman",
+        "Paul Sinha",
+        "Angela Barnes",
+        "Ayesha Hazarika",
+        "Ian Smith",
+        "Alice Fraser",
+        "Mike Shephard",
+        "Tasha Dhanraj"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday"
+      ]
+    },
+    {
+      "key": "f67b548928b1834f5f7e6d839c889da8f0f81380",
+      "title": "The News Quiz - Friday 30th April 2021",
+      "published_at": "2021-04-30T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09g9q3z",
+      "description": "Andy Zaltzman presents a look back at the week's headlines with Simon Evans, Helen Lewis, Elis James and Ria Lina. This week decorating, vaccinating and electioneering are subject to scrutiny by our teams. Written by Andy Zaltzman with additional material from Alice Fraser, Mike Shephard, Tasha Dhanraj and Tom Mayhew. Producer: Richard Morris and Gwyn Rhys Davies A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09g9p02.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26816000",
+      "itunes_duration": "1676",
+      "speakers": [
+        "Andy Zaltzman",
+        "Simon Evans",
+        "Helen Lewis",
+        "Elis James",
+        "Alice Fraser",
+        "Mike Shephard",
+        "Tasha Dhanraj",
+        "Tom Mayhew"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday",
+        "april"
+      ]
+    },
+    {
+      "key": "12c67a90199aedc883c98f229a1a624bb4f91d70",
+      "title": "The News Quiz - Friday 23rd April 2021",
+      "published_at": "2021-04-23T17:58:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09flhf6",
+      "description": "Andy Zaltman presents a look back at the week's headlines with panellists Andrew Maxwell, Athena Kugblenu, Anne McElvoy and Chris McCausland. This week super leagues, super texts and a super example of someone being told to get out of a pub. Written by Andy Zaltzman with additional material from Alice Fraser, Mike Shephard, Rajiv Karia and Jenan Younis. Producer: Richard Morris A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09flgw5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26688000",
+      "itunes_duration": "1668",
+      "speakers": [
+        "Andy Zaltman",
+        "Andrew Maxwell",
+        "Athena Kugblenu",
+        "Anne McElvoy",
+        "Chris McCausland",
+        "Andy Zaltzman",
+        "Alice Fraser",
+        "Mike Shephard"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday",
+        "april"
+      ]
+    },
+    {
+      "key": "47698b6859597c2a5002196b5e24253d1f716034",
+      "title": "The News Quiz - Friday 16th April 2021",
+      "published_at": "2021-04-16T17:59:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09dxfk3",
+      "description": "Andy Zaltzman squares up to the week's headlines with panellists Hugo Rifkind, Susie McCabe, Daliso Chaponda and Lucy Porter. Panellists lobby for points as they answer questions on the Greensill affair and the theft of a giant rabbit. Written by Andy Zaltzman with additional material from Alice Fraser, Simon Alcock, Tasha Dhanraj and Jenan Younis. Producer: Richard Morris A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09dxctz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
+      "itunes_duration": "1672",
+      "speakers": [
+        "Andy Zaltzman",
+        "Hugo Rifkind",
+        "Susie McCabe",
+        "Lucy Porter",
+        "Alice Fraser",
+        "Simon Alcock",
+        "Tasha Dhanraj",
+        "Jenan Younis"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "friday",
+        "april"
+      ]
+    },
+    {
+      "key": "963a79459d2da4dd27eb8d256dd5fc4301e2883d",
+      "title": "The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris",
+      "published_at": "2021-04-10T12:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09d7hpq",
+      "description": "This show was recorded on 8th April 2021 Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Ria Lina and Alun Cochrane with music supplied by Rachel Parris . Voice Actors: Katie Norris and Luke Kempner Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09d7h8j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26768000",
+      "itunes_duration": "1673",
+      "speakers": [
+        "Alun Cochrane",
+        "Rachel Parris",
+        "Steve Punt",
+        "Katie Norris",
+        "Luke Kempner Producer",
+        "Pete Strauss Production Co-Ordinator",
+        "David Thomas"
+      ],
+      "topics": [
+        "april",
+        "lina",
+        "alun",
+        "cochrane",
+        "rachel",
+        "parris"
+      ]
+    },
+    {
+      "key": "c93a012bfaa6865041c35c7071b6d64b2de57fba",
+      "title": "The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies",
+      "published_at": "2021-04-02T18:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09cltfx",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Geoff Norcott and Laura Lexx with music supplied by Huge Davies . Voice Actors: Emily Lloyd-Saini and Kieran Hodgson Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09clt39.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26720000",
+      "itunes_duration": "1670",
+      "speakers": [
+        "Laura Lexx",
+        "Steve Punt",
+        "Geoff Norcott",
+        "Emily Lloyd-Saini",
+        "Kieran Hodgson Producer",
+        "Pete Strauss Production Co-Ordinator",
+        "David Thomas"
+      ],
+      "topics": [
+        "april",
+        "geoff",
+        "norcott",
+        "laura",
+        "lexx",
+        "huge",
+        "davy"
+      ]
+    },
+    {
+      "key": "cbd588455a64a6a98322cf3da727031515843de6",
+      "title": "The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris",
+      "published_at": "2021-03-26T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09by9j7",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Dane Baptiste and Janine Harouni with music supplied by Rachel Parris . Voice Actors: Chiara Goldsmith and Luke Kempner Producer: Pete Strauss Production Co-Ordinator: Sarah Sharpe Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09by8lp.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27856000",
+      "itunes_duration": "1741",
+      "speakers": [
+        "Janine Harouni",
+        "Rachel Parris",
+        "Steve Punt",
+        "Chiara Goldsmith",
+        "Luke Kempner Producer",
+        "Pete Strauss Production Co-Ordinator",
+        "Sarah Sharpe",
+        "David Thomas"
+      ],
+      "topics": [
+        "march",
+        "janine",
+        "harouni",
+        "dane",
+        "baptiste",
+        "rachel",
+        "parris"
+      ]
+    },
+    {
+      "key": "aab014e4053572eb5de4f2d90a2b31e9d1779f2f",
+      "title": "The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson",
+      "published_at": "2021-03-19T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p09b83hm",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Lucy Porter fighting for our right to protest, Eshaan Akbar analysing our spending habits and a Beyonce inspired song by Jess Robinson and Felix Hagen. Voice Actors: Jason Forbes and Karen Bartke Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09b81fw.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26896000",
+      "itunes_duration": "1681",
+      "speakers": [
+        "Lucy Porter",
+        "Eshaan Akbar",
+        "Jess Robinson",
+        "Steve Punt",
+        "Felix Hagen",
+        "Jason Forbes",
+        "Karen Bartke",
+        "Pete Strauss Production Co-Ordinator"
+      ],
+      "topics": [
+        "march",
+        "lucy",
+        "porter",
+        "eshaan",
+        "akbar",
+        "jess",
+        "robinson"
+      ]
+    },
+    {
+      "key": "d7851d284d2218d2f38d501fdb76710152a4784e",
+      "title": "The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies",
+      "published_at": "2021-03-12T19:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p099jrz3",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Ellie Taylor and Daliso Chaponda with music supplied by Huge Davies. Voice Actors: George Fouracres and Gemma Arrowsmith Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p099jqy6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26944000",
+      "itunes_duration": "1684",
+      "speakers": [
+        "Ellie Taylor",
+        "Steve Punt",
+        "George Fouracres",
+        "Gemma Arrowsmith Producer",
+        "Pete Strauss Production Co-Ordinator",
+        "David Thomas"
+      ],
+      "topics": [
+        "march",
+        "daliso",
+        "chaponda",
+        "ellie",
+        "taylor",
+        "huge",
+        "davy"
+      ]
+    },
+    {
+      "key": "c6b07a6c50ac7ebb460934d74d21e84d76a3a7b9",
+      "title": "The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner",
+      "published_at": "2021-03-05T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p098vdw9",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! This week Chris McCausland Musks up, Zoe Lyons takes a dip whilst Tim Sutton and Sooz Kempner go Gaga... Voice Actors: George Fouracres and Karen Bartke Producer: Adnan Ahmed Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p098vd7k.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26944000",
+      "itunes_duration": "1684",
+      "speakers": [
+        "Chris McCausland",
+        "Tim Sutton",
+        "Steve Punt",
+        "George Fouracres",
+        "Karen Bartke",
+        "Adnan Ahmed Production Co-Ordinator",
+        "David Thomas"
+      ],
+      "topics": [
+        "march",
+        "lyons",
+        "chris",
+        "mccausland",
+        "sutton",
+        "sooz",
+        "kempner"
+      ]
+    },
+    {
+      "key": "029be5ad60266766bd3e38110759b0ff4817ee18",
+      "title": "The Now Show - 26th February - ft Jess Fostekew, Beardyman and Ken Cheng...",
+      "published_at": "2021-02-26T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0985lfb",
+      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! In the first show of the new series, they are joined by Jessica Fostekew who relays her time volunteering in a vaccination centre. Ken Cheng talks about his experiences as a Chinese Briton plus music from Beardyman... Voice Actors: Luke Kempner and Gemma Arrowsmith Producer: Adnan Ahmed Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0985j68.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28480000",
+      "itunes_duration": "1780",
+      "speakers": [
+        "Ken Cheng",
+        "Steve Punt",
+        "Jessica Fostekew",
+        "Luke Kempner",
+        "Gemma Arrowsmith Producer",
+        "Adnan Ahmed Production Co-Ordinator",
+        "David Thomas"
+      ],
+      "topics": [
+        "february",
+        "jess",
+        "fostekew",
+        "beardyman",
+        "cheng"
       ]
     }
   ]
@@ -4946,14 +6710,14 @@
 - 2026-01-23 — The News Quiz: Ep2. U-Turn, We Defect — speakers: Helping Andy, Susie McCabe, Paul Sinha, Cindy Yu, Scott Bennett, Andy Zaltzman, Mike Shephard, Eleanor Morton
 - 2026-01-22 — Introducing The Skewer — speakers: Jon Holmes
 - 2026-01-16 — The News Quiz: Ep1. Red, White, Blue and Green-land — speakers: Ian Smith, Nicolás Maduro, Grok AI, Helping Ian, Lucy Porter, Geoff Norcott, Mike Shephard, Alex Kealy
-- 2026-01-09 — Best of The News Quiz 2025 — speakers: King Charles, Leo XIV, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
+- 2026-01-09 — Best of The News Quiz 2025 — speakers: King Charles, Leo Xiv, Andy Zaltzman, Rajiv Karia, Pete Strauss Production Coordinator
 - 2026-01-02 — The Matt Forde Focus Group: Boxing Day Special — speakers: Matt Forde, Michael Gove, Charles Dickens, Matt Forde Additional, Karl Minns, Laura Claxton, Richard Garvin Producer, Richard Garvin
 - 2025-12-26 — Dead Ringers Christmas: Ep 2. A Very Kemi Christmas and a Lammy New Year — speakers: Jon Culshaw, Jan Ravens, Duncan Wisbey, Jess Robinson, Nev Fountain, Tom Jamieson, Laurence Howarth, Tom Coles
 - 2025-12-19 — Dead Ringers Christmas: Ep 1. Farage Goes to School, The Snowman v Keir, and Alan Carr: Special Negotiator — speakers: Alan Carr, Keir Starmer, Jan Ravens, Jess Robinson, Kieran Hodgson, Josh Berry, Nev Fountain, Tom Jamieson
 - 2025-12-12 — The Naked Week: Ep6. Parties, polycules, and pardoning — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Rosie Holt, Fiona Mundy, Holly Alderson, Kayley Williams, Molly Punshon
 - 2025-12-05 — The Naked Week: Ep5. A Budget, A Bombshell, and a Bedtime Story. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Kate Cheka, Janet Ellis Investigations Team, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-11-28 — The Naked Week: Ep4. Immigration, Espionage, and a game of Guess Who? - Epstein Edition. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Larry Budd, Alan Dedicoat, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
-- 2025-11-21 — The Naked Week: Ep3. Trump, Traitors, and RIP Tim Davie — speakers: RIP Tim Davie, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Gorton, Milo Edwards, James Akka, Holly Skinner
+- 2025-11-21 — The Naked Week: Ep3. Trump, Traitors, and RIP Tim Davie — speakers: Rip Tim Davie, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Gorton, Milo Edwards, James Akka, Holly Skinner
 - 2025-11-14 — The Naked Week: Ep2. Trains, Tice, and Taylor Swift — speakers: Taylor Swift, Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Paul Dunphy, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-11-07 — The Naked Week: Ep1. Royal lodges, asylum hotels and witches. — speakers: Andrew Hunter Murray, Jon Holmes, Andrew Hunter Murray Guests, Bella Hull, Lisa Webb, Freya Shaw Written, Jon Holmes Katie Sayer, Jason Hazeley
 - 2025-10-31 — The News Quiz: Ep8. Titles, Jewels and "Chocolate" Bars — speakers: Laura Lexx, Ahir Shah, Ava Santina, Andy Zaltzman, Andy Zaltzman Additional, Milo Edwards, Cameron Loxdale, Ruth Husko
@@ -5140,3 +6904,62 @@
 - 2022-06-03 — The News Quiz - 6th May — speakers: May Topical
 - 2022-05-27 — The News Quiz - 29th April — speakers: Andy Zaltzman, Andy Hamilton, Richard Morris, Katie Baum
 - 2022-05-20 — The News Quiz - 22nd April — speakers: Andy Zaltzman, Eleanor Tiernan, Richard Morris, Katie Baum
+- 2022-05-13 — The Now Show - 15th April — speakers: Steve Punt
+- 2022-05-06 — The Now Show - 8th April — speakers: Steve Punt
+- 2022-04-29 — The Now Show - 1st April — speakers: Steve Punt
+- 2022-04-22 — The Now Show - 25th March — speakers: Steve Punt
+- 2022-04-15 — The Now Show – 18th March — speakers: Steve Punt
+- 2022-04-08 — The Now Show - 11th March — speakers: Stevie Martin, Kieran Hodgson, Ian Smith, Chloe Petts
+- 2022-03-12 — Friday Night Comedy is now first on BBC Sounds
+- 2022-03-04 — News Quiz 4th March 2022 — speakers: Andy Zaltzman, Sindhu Vee, Daniel Finkelstein, Lucy Porter, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser, Mike Shephard
+- 2022-02-25 — News Quiz 25th February 2022 — speakers: Andy Zaltzman, Angela Barnes, Ian Smith, Desiree Burch, Geoff Norcott, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
+- 2022-02-18 — News Quiz 18th February 2022 — speakers: Andy Zaltzman, Elis James, Olga Koch, Tim Shipman, Shaparak Khorsandi, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
+- 2022-02-11 — News Quiz 11th February 2022 — speakers: Andy Zaltzman, Mark Steel, Athena Kugblenu, Hugo Rifkind, Jackie Weaver, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser
+- 2022-02-04 — News Quiz 4th February 2022 — speakers: Andy Zaltzman, Elis James, Ola Labib, Ed Balls, Andy Zaltzman Chairs, Andy Zaltzman Additional, Alice Fraser, Benjamin Partridge
+- 2022-01-28 — News Quiz 28th January 2022 — speakers: Andy Zaltzman, Nish Kumar, Rachel Fairburn, Neil Delamere, Isabel Hardman, Alice Fraser, Heidi Regan, Rhiannon Shaw
+- 2022-01-21 — News Quiz 21st January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Hugo Rifkind, Heidi Regan, Cameron Loxdale, Stephen Buchanan, Tasha Dhanraj
+- 2022-01-14 — News Quiz 14th January 2022 — speakers: Andy Zaltzman, Ayesha Hazarika, Paul Sinha, Simon Evans, Sue Gray-like, Michael Gove, Alice Fraser, Mike Shephard
+- 2022-01-07 — News Quiz 7th January 2022 — speakers: Andy Zaltzman, Alice Fraser, Chris McCausland, Ahir Shah, Boris Johnson, Simon Alcock, Nathan D'Arcy Roberts, Rajiv Karia
+- 2021-12-31 — News Quiz: Best of 2021 — speakers: Andy Zaltzman, Richard Morris, Katie Baum
+- 2021-12-24 — Dead Ringers - Christmas Specials 2021 - The Multiverse Special — speakers: Dead Ringers Christmas Specials, Man Flu, Ronnie Corbett, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
+- 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials, Chris Whitty, Boris Johnson, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson
+- 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey, Tom Jamieson, Laurence Howarth
+- 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt, Kieran Hodgson, Nimisha Odedra, Sarah Sharpe
+- 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt, Emma Sidi, Jason Forbes, Sarah Sharpe
+- 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt, Luke Kempner, Natasha Hodgson, Sarah Sharpe
+- 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt, Igancio Lopez, Luke Kempner, Karen Bartke
+- 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt, Alex Silverman, Gemma Arrowsmith, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, Sarah Sharpe
+- 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman, Ayesha Hazarika, Matt Winning, Geoff Norcott, Elis James, Brian Cox, Sajid Javid, Alice Fraser
+- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman, Boris Johnson, Alice Fraser, Catherine Brinkworth
+- 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman, Alice Fraser, Heidi Regan, Suchandrika Chakrabarti, Tasha Dhanraj
+- 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman, Alice Fraser, Max Davis, Tasha Dhanraj
+- 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell, Andy Zaltzman, Alice Fraser, Mike Shephard, Rajiv Karia
+- 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere, Boris Johnson, Emma Raducanu, Alice Fraser, Max Davis, Richard Stott
+- 2021-09-10 — News Quiz 10th September 2021
+- 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
+- 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Lizzie, Alice Fraser, Paul Doolan, Jon Hunter
+- 2021-08-20 — Party's Over: ep5 The Great Outdoors 20th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards, Paul Doolan, Jon Hunter, Richard Morris
+- 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Albert, Joseph Marcell Written, Paul Doolan, Jon Hunter
+- 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: Miles Jupp, Henry Tobin, Scott Machin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards Scott, Kiell Smith-Bynoe Written, Paul Doolan
+- 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Miles Jupp, Henry Tobin, Ingrid Oliver Natalie, Emma Sidi Jones, Justin Edwards, Paul Doolan, Jon Hunter, Richard Morris
+- 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers, Ronan Keating, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Tom Jamieson, Laurence Howarth
+- 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner, Andy Murray, Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson, Duncan Wisbey
+- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Liz Truss, Harry Kane, Andy Murray, Tom Jamieson, Nev Fountain, Laurence Howarth
+- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty, Liz Truss, Jon Culshaw, Lewis Macleod, Jan Ravens, Duncan Wisbey, Tom Jamieson
+- 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers, Liz Truss, Martin Bashir, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo
+- 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Tom Cruise, Tom Jamieson, Nev Fountain, Laurence Howarth, Tom Coles Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg
+- 2021-06-04 — The News Quiz - Friday 4th June 2021 — speakers: Andy Zaltzman, Andrew Maxwell, Alex Massie, Alice Fraser, Max Davis, Tasha Dhanraj, Richard Morris, Cherlynn Andrew-Wilfred Sound
+- 2021-05-28 — The News Quiz - Friday 28th May 2021 — speakers: Andy Zaltzman, Lucy Porter, Alice Fraser, Eleanor Morton, Rajiv Karia, Simon Alcock, Richard Morris, Cherlynn Andrew-Wilfred Sound
+- 2021-05-21 — The News Quiz - Friday 21st May 2021 — speakers: Andy Zaltzman, Geoff Norcott, Eleanor Tiernan, Richard Morris, Cherlynn Andrew-Wilfred Sound, Marc Willcox
+- 2021-05-14 — The News Quiz - Friday 14th May 2021 — speakers: Andy Zaltzman, Danny Finkelstein, Catherine Bohart, Darren Harriott, Alice Fraser, Max Davis, Rajiv Karia, Hannah Platt
+- 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Hazarika, Ian Smith, Alice Fraser, Mike Shephard, Tasha Dhanraj
+- 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James, Alice Fraser, Mike Shephard, Tasha Dhanraj, Tom Mayhew
+- 2021-04-23 — The News Quiz - Friday 23rd April 2021 — speakers: Andy Zaltman, Andrew Maxwell, Athena Kugblenu, Anne McElvoy, Chris McCausland, Andy Zaltzman, Alice Fraser, Mike Shephard
+- 2021-04-16 — The News Quiz - Friday 16th April 2021 — speakers: Andy Zaltzman, Hugo Rifkind, Susie McCabe, Lucy Porter, Alice Fraser, Simon Alcock, Tasha Dhanraj, Jenan Younis
+- 2021-04-10 — The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris — speakers: Alun Cochrane, Rachel Parris, Steve Punt, Katie Norris, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, David Thomas
+- 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt, Geoff Norcott, Emily Lloyd-Saini, Kieran Hodgson Producer, Pete Strauss Production Co-Ordinator, David Thomas
+- 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt, Chiara Goldsmith, Luke Kempner Producer, Pete Strauss Production Co-Ordinator, Sarah Sharpe, David Thomas
+- 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt, Felix Hagen, Jason Forbes, Karen Bartke, Pete Strauss Production Co-Ordinator
+- 2021-03-12 — The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies — speakers: Ellie Taylor, Steve Punt, George Fouracres, Gemma Arrowsmith Producer, Pete Strauss Production Co-Ordinator, David Thomas
+- 2021-03-05 — The Now Show - 5th March ft Zoe Lyons, Chris McCausland, Tim Sutton and Sooz Kempner — speakers: Chris McCausland, Tim Sutton, Steve Punt, George Fouracres, Karen Bartke, Adnan Ahmed Production Co-Ordinator, David Thomas
+- 2021-02-26 — The Now Show - 26th February - ft Jess Fostekew, Beardyman and Ken Cheng... — speakers: Ken Cheng, Steve Punt, Jessica Fostekew, Luke Kempner, Gemma Arrowsmith Producer, Adnan Ahmed Production Co-Ordinator, David Thomas

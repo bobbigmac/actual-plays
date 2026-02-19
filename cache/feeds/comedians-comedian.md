@@ -2,9 +2,10 @@
 
 - slug: `comedians-comedian`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-02-19T03:16:14+00:00`
-- etag: `"djEuMi4wOjE3NzEzNDM3NDg0OTM="`
-- max_episodes_per_feed: `200`
+- fetched_at: `2026-02-19T19:10:27+00:00`
+- checked_at: `2026-02-19T19:10:27+00:00`
+- etag: `"djEuMi4wOjE3NzE0ODA4Mzk2NDY="`
+- max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
 ```json
@@ -16,8 +17,40 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-02-19T03:16:14+00:00",
+  "fetched_at": "2026-02-19T19:10:27+00:00",
+  "owners": [
+    "Stuart Goldsmith"
+  ],
+  "common_speakers": [],
+  "categories": [
+    "comedy/british",
+    "interviews"
+  ],
   "episodes": [
+    {
+      "key": "47a89d6ac53a2df2ddb1228bce826a4eddd2b51f",
+      "title": "Lindsey Santoro",
+      "published_at": "2026-02-19T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/503-lindsey-santoro",
+      "description": "Lindsey Santoro shot to prominence at 2023’s Edinburgh Fringe, winning Next Up’s Biggest Award in Comedy with her show, Pink Tinge. Since then, Lindsey has created her hit BBC Radio 4 comedy series, The Lively Life of Lindsey Santoro , appeared on Live at the Apollo and supported Joe Lycett on tour! We discuss: using comedy as a tool for connection balancing a NHS day job with the crushing anxiety of early comedy gigs earning critical acclaim at Edinburgh, the financial surprises and attic life at the Pleasance escaping imposter syndrome the importance of having a \"base\" outside of comedy and we find out if Lindsey Santoro is happy…. Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 13 minutes of exclusive extras including: how Lindsey’s BBC Radio 4 series came about how her agent kept her grounded through Edinburgh and balancing ambition with sanity 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Lindsey: You can see Lindsey Santoro live, including an upcoming work-in-progress at the Pleasance London - find out more at lindseysantoro.co.uk . You can also keep up-to-date on Instagram, @lindsey_santoro . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 13 minutes of exclusive extra content with Lindsey ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including a monthly “Stu&A” PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including at the Leicester Comedy Festival ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1771342602847-d06caacd-07e9-4f7b-9242-b070a73500d2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69948c8a1774b22d5acb8d15/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98178624",
+      "itunes_duration": "1:08:10",
+      "speakers": [
+        "Lindsey Santoro",
+        "Edinburgh Fringe",
+        "Pink Tinge",
+        "Joe Lycett",
+        "Mailing List",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lindsey",
+        "santoro"
+      ]
+    },
     {
       "key": "d2fa2c0587258ea8013dec3d65b8a69c294e05fe",
       "title": "Shenoah Allen",
@@ -27,13 +60,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1770734982270-fc469664-d67a-4a7c-837a-97a9813648d9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/698b48685e0cb52f15a439e3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109051776",
       "itunes_duration": "1:15:43",
       "speakers": [
         "Shenoah Allen Shenoah Allen",
         "Nina Conti",
         "Kim Noble",
         "Mailing List",
-        "Shenoah Allen"
+        "Shenoah Allen",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shenoah",
@@ -49,6 +84,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1770139147853-fae23a78-546b-4f7b-b85a-535086625c91.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/698232b1a4fd9ee513442edc/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121061376",
       "itunes_duration": "1:24:04",
       "speakers": [
         "Sophie Duker",
@@ -57,7 +93,8 @@
         "Matt Lucas",
         "Ed Byrne",
         "Ninia Benjamin",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sophie",
@@ -73,6 +110,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769522076898-9ac99987-6388-4ca8-a8f6-e4bfedbedf03.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6978cd4d4c57a3b32eaaa290/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124250112",
       "itunes_duration": "1:26:17",
       "speakers": [
         "Reggie Watts",
@@ -82,7 +120,8 @@
         "Matt Lucas",
         "Ed Byrne",
         "Ninia Benjamin",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "reggie",
@@ -98,10 +137,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1768496304607-d3d92067-1dee-4fc8-aa5f-0a741fab1b86.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69691ec5881cbe11db949f11/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92593728",
       "itunes_duration": "1:04:18",
       "speakers": [
         "Sarah Millican",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -118,13 +159,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1765470791186-140c2a87-0109-4e94-9116-790a0dfe2a8c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/693b0ec7d527840ddbd049ec/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39751488",
       "itunes_duration": "27:36",
       "speakers": [
         "Russell Howard",
         "Mark Simmons",
         "Aparna Nancherla",
         "Nick Mohammed",
-        "Kemah Bob"
+        "Kemah Bob",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -140,13 +183,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1765470484859-bb60372d-e605-4d9a-acfe-ade750e45b9e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/693af1fb0375da4a9e23d2e0/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50731200",
       "itunes_duration": "35:13",
       "speakers": [
         "Max Fosh",
         "Lucy Pearman",
         "Pete Lee",
         "Marjolein Robertson",
-        "Josie Long"
+        "Josie Long",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -162,6 +207,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1765469701816-efc999bb-55e7-439d-bc1c-921fb08fe0d9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/693aef0d0375da4a9e231d3d/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42409728",
       "itunes_duration": "29:27",
       "speakers": [
         "Chloe Radcliffe",
@@ -170,7 +216,8 @@
         "Chloe Petts",
         "Alex Kealy",
         "Comedy Bang Bang",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "comedians",
@@ -186,13 +233,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1765997451561-61be192e-ba09-4491-8af9-5bf3a23bf364.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6942ff0f1443762d1fb7f8dc/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88925184",
       "itunes_duration": "1:01:45",
       "speakers": [
         "Ray Bradshaw",
         "John Bishop",
         "Fantasy Fives",
         "Mailing List",
-        "Bald Ginger"
+        "Bald Ginger",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bradshaw"
@@ -207,11 +256,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1765488016877-3d1f3081-7bf0-4f68-bf65-959ff3b16818.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/693b3508e1890fb6cb8cdb3b/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109003968",
       "itunes_duration": "1:15:41",
       "speakers": [
         "Best Newcomer",
         "Mailing List",
-        "Stevie Martin"
+        "Stevie Martin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "urooj",
@@ -227,6 +278,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1764771132811-ffb1d939-2294-4cde-8bb3-c6a23fcde082.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69304673fb6ea8e37802be8e/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96179328",
       "itunes_duration": "1:06:47",
       "speakers": [
         "John Kearns",
@@ -234,7 +286,8 @@
         "Neil Hamburger",
         "Harry Hill",
         "Chris Morris",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -251,12 +304,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1764103671818-01fa8430-d25a-416e-9e77-d8fbcd7d8f4c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69261be5caf6efa703789929/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117840960",
       "itunes_duration": "1:21:50",
       "speakers": [
         "Josie Long Returns",
         "Josie Long",
         "bill gigs",
-        "Mailing List"
+        "Mailing List",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josie",
@@ -273,11 +328,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1763498285958-ccfc7591-7275-424f-86a8-0e70b118e9fd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/691cddb67b9e972a6b3229ab/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123159421",
       "itunes_duration": "2:14:17",
       "speakers": [
         "Adam Riches Adam Riches",
         "Michael Ball",
-        "Adam Riches"
+        "Adam Riches",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -293,11 +350,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1762869841210-b929d3c7-1258-473f-a531-d417a0c544c8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6913467aa17ebcde889d12ea/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127290816",
       "itunes_duration": "1:28:23",
       "speakers": [
         "Doug Naylor",
         "Rob Grant",
-        "Sin Bin Island"
+        "Sin Bin Island",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "doug",
@@ -313,11 +372,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1761233125250-22327e42-2248-4c52-b0e2-c8aed692247c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68fa4a835149d2d6f2a8458a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106634304",
       "itunes_duration": "1:14:03",
       "speakers": [
         "Alan Davies Returns",
         "Alan Davies",
-        "Jonathan Creek"
+        "Jonathan Creek",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alan",
@@ -334,10 +395,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1760049920859-8b4c5998-42ca-4bf0-bc8b-7faf03563150.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68e83d09de9a2a62c46eb1dc/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103226112",
       "itunes_duration": "1:11:41",
       "speakers": [
         "Emma Doran",
-        "Graham Norton"
+        "Graham Norton",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "emma",
@@ -353,11 +416,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1758835286177-4469d741-62b5-4ad2-bc8c-edd7577744a4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68d5b59e099369ce42971b74/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101981376",
       "itunes_duration": "1:10:49",
       "speakers": [
         "Lucy Pearman",
         "Please Help",
-        "Adam Brace"
+        "Adam Brace",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lucy",
@@ -373,6 +438,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1756753354653-81ddc254-8924-4193-bf55-8c0e87e5224e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68b5f04941b96bff8d7203f1/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27588856",
       "itunes_duration": "19:08",
       "speakers": [
         "Ivo Graham",
@@ -397,9 +463,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1756743545623-e2c4df32-f975-4734-9b4f-c913d866d93a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68b5cf0770ab6f8350b0f166/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39046591",
       "itunes_duration": "27:06",
       "speakers": [
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "help"
@@ -414,13 +482,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1755193720161-a4e907eb-9f1b-429e-b1ad-4cd5e077547a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/689e248766f126ae3fba8dec/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80509824",
       "itunes_duration": "55:54",
       "speakers": [
         "Aparna Nancherla",
         "Bob’s Burgers",
         "Seth Meyers",
         "Michael Bublé",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aparna",
@@ -437,10 +507,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1754561013670-19d76523-c741-4ad2-aa74-92c939a88865.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68947e80c952cf5978f2259a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126175104",
       "itunes_duration": "1:27:37",
       "speakers": [
         "Abby Wambaugh",
-        "Edinburgh Comedy Award"
+        "Edinburgh Comedy Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "abby",
@@ -456,10 +528,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1753969318256-d6e2e414-af33-403d-a88a-77118210cee4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/688b72b9fc150bcf7fd5d069/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103530816",
       "itunes_duration": "1:11:53",
       "speakers": [
         "Kemah Bob Kemah Bob",
-        "Kemah Bob"
+        "Kemah Bob",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kemah"
@@ -474,11 +548,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1753302759509-54248232-53b3-4d29-bfbe-8e11412d745f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68814a84911cb5ab74a1771a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132772584",
       "itunes_duration": "1:32:06",
       "speakers": [
         "Marjolein Robertson",
         "Billy Connolly",
-        "Glasgow Comedy Award"
+        "Glasgow Comedy Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marjolein",
@@ -494,12 +570,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1752171163102-6832454f-6aef-485f-83c6-cadb804ea28d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/687001292a19450763f9c935/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118235976",
       "itunes_duration": "1:22:02",
       "speakers": [
         "Daniel Foxx",
         "Daniel co-wrote",
         "Cheltenham Playhouse",
-        "Edinburgh Fringe"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daniel",
@@ -515,11 +593,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1750968471547-ea11751f-b27f-4170-99bf-b2906507cad3.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/685da9737cd58072a502901a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107219883",
       "itunes_duration": "1:14:19",
       "speakers": [
         "Marc Jennings",
         "Cheltenham Playhouse",
-        "Edinburgh Fringe"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "marc",
@@ -535,12 +615,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1749750076454-bf91e24e-ef6d-4a54-927e-e08498872d12.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/684b13b6ed4130e2438b017c/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68910805",
       "itunes_duration": "47:47",
       "speakers": [
         "Nick Mohammed Returns",
         "Nick Mohammed",
         "Ted Lasso",
-        "Mr Swallow"
+        "Mr Swallow",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -557,12 +639,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1749748770914-ff03a141-9c20-42ca-9df6-64dc69922fe0.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/684b11037ffb4452ec4273ce/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69571529",
       "itunes_duration": "48:14",
       "speakers": [
         "Nick Mohammed Returns",
         "Nick Mohammed",
         "Ted Lasso",
-        "Mr Swallow"
+        "Mr Swallow",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nick",
@@ -579,11 +663,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1749161190575-e9ab967c-79ec-4c18-a907-123f291ddc85.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/68421695a13d337373382741/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112856837",
       "itunes_duration": "1:18:16",
       "speakers": [
         "Alex Kealy",
         "Ivo Graham",
-        "Leamington Spa"
+        "Leamington Spa",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alex",
@@ -599,11 +685,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1747948246546-4164e634-2232-41e0-b787-df2d41647f63.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/682f92e8381499796b911f31/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102614976",
       "itunes_duration": "1:11:15",
       "speakers": [
         "Scott Aukerman",
         "Comedy Bang Bang",
-        "Leamington Spa"
+        "Leamington Spa",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "scott",
@@ -620,6 +708,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1746736071579-f88cdf1c-2b07-478a-952a-2cd5118f3516.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/681d1d308b1f3232bc345ef7/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130760661",
       "itunes_duration": "1:30:41",
       "speakers": [
         "Chloe Radcliffe Chloe Radcliffe",
@@ -627,7 +716,8 @@
         "Will Arnett",
         "Laura Dern",
         "Chloe Radcliffe",
-        "Leamington Spa"
+        "Leamington Spa",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chloe",
@@ -643,13 +733,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1746100789293-81f4ebf6-52c3-45fc-ba5d-41ccf7774707.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6813621ff7d552efdc89ffea/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102566016",
       "itunes_duration": "1:11:13",
       "speakers": [
         "Pete Lee",
         "Comedy Central",
         "Roseanne Barr",
         "Russell Peters",
-        "Machynlleth Comedy Festival"
+        "Machynlleth Comedy Festival",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pete",
@@ -665,11 +757,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1743628700438-0ace88bd-99b4-4e0a-9e6c-d45f6d1c6062.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67edaa4f9524713132d90b0a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107816832",
       "itunes_duration": "1:14:52",
       "speakers": [
         "Best Stand",
         "Robin Williams",
-        "Mort Sahl"
+        "Mort Sahl",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shazia",
@@ -685,9 +779,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1743090652138-ca13d229-fdc0-4123-8c6b-4f574f0adabb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67e5785c2787df76c7752e6e/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124752384",
       "itunes_duration": "1:26:38",
       "speakers": [
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "iain",
@@ -703,10 +799,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1741820205347-2392c147-bee4-47cb-a37f-1a4cccd44f25.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67d215bd288f04793935d033/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76901184",
       "itunes_duration": "53:24",
       "speakers": [
         "Damien Power",
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "damien",
@@ -722,6 +820,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1741284795055-a40584b4-1cc4-4c7c-9a28-cda8e17f3af4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67c9e87d77bd291124990a74/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108125341",
       "itunes_duration": "1:15:00",
       "speakers": [
         "Edinburgh Fringe",
@@ -729,7 +828,8 @@
         "Russell Howard",
         "Lise Mayer",
         "Rhys James",
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "davy"
@@ -744,13 +844,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1739996572401-f1308813-e0a3-4c4a-bbef-4a9cb9adbadc.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67b641255033e3e15a18d108/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113591085",
       "itunes_duration": "1:18:47",
       "speakers": [
         "Mark Simmons",
         "Russell Howard",
         "Lise Mayer",
         "Rhys James",
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mark",
@@ -766,11 +868,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1738608108254-f83441b3-772a-4de6-93a9-d0cb1bee0ad5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/67a1107f9cd0aa28f7fcec21/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66137472",
       "itunes_duration": "45:55",
       "speakers": [
         "Tim Renkow",
         "Janine Harouni",
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "apollo",
@@ -786,12 +890,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1738184572441-4aca0162-d83f-41b0-ae99-7f4e815b5bba.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/679a9c1701388342babd6891/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113303978",
       "itunes_duration": "1:18:34",
       "speakers": [
         "Chloe Petts",
         "Ed Gamble",
         "Adam Drake",
-        "Machynlleth Discover"
+        "Machynlleth Discover",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "chloe",
@@ -807,10 +913,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1736423221855-a0266ea2-f86c-4024-a650-003a431a0c63.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/677fc4e9eb866f21097a44a3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94470336",
       "itunes_duration": "1:05:36",
       "speakers": [
         "Russell Howard Returns",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -827,11 +935,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1736422400434-f4e8206d-86ac-4b1e-8ffe-a3a9e2f700f8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/677fb6efe83bfb002de6ed13/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59180544",
       "itunes_duration": "41:05",
       "speakers": [
         "Russell Howard Returns",
         "Russell Howard",
-        "Albert Hall"
+        "Albert Hall",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -848,9 +958,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1735833449071-dddaf1ec-d100-4526-b9df-4f6d4060880a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6776bc4d4f04edef80e57906/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123399936",
       "itunes_duration": "1:25:41",
       "speakers": [
-        "Max Fosh"
+        "Max Fosh",
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -863,9 +975,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1734541476910-87a35adb-d09f-47fb-bc02-d3d90d117385.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/676303958a7fea7b909eeaa0/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104704704",
       "itunes_duration": "1:12:42",
       "speakers": [
-        "Milton Jones Returns"
+        "Milton Jones Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "milton",
@@ -882,11 +996,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1733442150274-cfb12fe9-b035-41ea-86c7-40af63f53281.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/675231dfd40c6cb2e00f19c0/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114666798",
       "itunes_duration": "1:19:28",
       "speakers": [
         "Rhys James Rhys James",
         "Split Milk",
-        "Rhys James"
+        "Rhys James",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rhys",
@@ -902,6 +1018,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1732232481610-9a72ba7d-ce79-40e4-b8a6-4f77c055e7c4.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/673fc6f85eb1556c52cd43ad/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117175781",
       "itunes_duration": "1:21:15",
       "speakers": [
         "Lise Mayer Lise",
@@ -909,7 +1026,8 @@
         "Ben Elton",
         "Bum Bum Train",
         "Lise Mayer",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lise",
@@ -925,10 +1043,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1730992844270-88f49c0e-5f68-4194-a394-4fddac023808.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/672cdd1261e4ef810fed7727/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93444946",
       "itunes_duration": "1:04:53",
       "speakers": [
         "Janey Godley",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "remembering",
@@ -945,12 +1065,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1729604416705-a77a55ad-c89f-4391-8b41-c451a8320569.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6717ae4f07c991f259050984/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114981359",
       "itunes_duration": "1:19:45",
       "speakers": [
         "Vittorio Angelone",
         "Best Newcomer",
         "Fin Taylor",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "vittorio",
@@ -966,13 +1088,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1728601099160-7dae6683-33b6-48df-8a01-4d3b231f9be6.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/670861d649f0b2961d0065ba/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120042634",
       "itunes_duration": "1:23:16",
       "speakers": [
         "Ania Magliano",
         "Edinburgh Comedy Award",
         "Frankie Boyle",
         "James Adomian Josh Johnson",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ania",
@@ -988,10 +1112,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1725354181654-a2ebd66c-581c-4122-a2bb-6cf390518351.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66d6d29891ae4d209b147733/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76962852",
       "itunes_duration": "53:25",
       "speakers": [
         "Viggo Venn",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "viggo",
@@ -1007,10 +1133,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1725353406065-9bbf1a04-375c-4821-a1a9-c12682744cd6.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66d6cfc062cc889574c357be/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75639875",
       "itunes_duration": "52:29",
       "speakers": [
         "Viggo Venn",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "viggo",
@@ -1026,13 +1154,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1724951802555-18efbaea-e05b-4c4b-a5eb-5a8420db40a6.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66d0b1b4e6ffa548dfef02b0/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107154143",
       "itunes_duration": "1:14:17",
       "speakers": [
         "Geoffrey Asmus",
         "Comedy Cellar",
         "Daniel Sloss",
         "Ari Shaffir",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "geoffrey",
@@ -1048,6 +1178,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1723641965374-436b2e07-0e9a-4918-a5f2-32685a17a301.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66bcb144f499877c94b76dac/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67236072",
       "itunes_duration": "46:40",
       "speakers": [
         "Edinburgh Fringe Picks",
@@ -1055,7 +1186,8 @@
         "Vir Das",
         "Sara Barron",
         "Monkey Barrel",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "edinburgh",
@@ -1073,10 +1205,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1723134711010-19b741f8-e36f-4407-a5f3-2e37c9b85c2b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66b4f84ec5121ea3fc039f58/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106976197",
       "itunes_duration": "1:14:14",
       "speakers": [
         "Sista Flo",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nurse",
@@ -1093,6 +1227,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1722419131333-5e76b39a-aa30-4fd9-854f-7023e1687f98.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66aa08cb3c23ffff3aa82036/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88101278",
       "itunes_duration": "1:01:09",
       "speakers": [
         "Edinburgh Fringe Picks",
@@ -1120,9 +1255,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1721819379603-dcf19f135a087162c2836c3bd1da267d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66a0e24a2f6990a4dba10116/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106175015",
       "itunes_duration": "1:13:40",
       "speakers": [
-        "Nabil Abdulrashid"
+        "Nabil Abdulrashid",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nabil",
@@ -1138,11 +1275,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1721316799594-f2101a057594dafaa0abef7ac585c265.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/669935a225946be33413e929/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106643102",
       "itunes_duration": "1:13:49",
       "speakers": [
         "Rosie Holt",
         "Jonathan Pie",
-        "Edinburgh Fringe"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rosie",
@@ -1158,12 +1297,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1720639329832-b0dc98fa78b26d6835e979a14eebe321.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/668ee226c24ce97c60f2040a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107496436",
       "itunes_duration": "1:14:23",
       "speakers": [
         "Zach Zucker",
         "Jack Tucker",
         "Viggo Ven",
-        "Comedy Stand"
+        "Comedy Stand",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "zach",
@@ -1179,6 +1320,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1719478382196-0d194f2e67cb23c38ba8130ce4e2dda2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/667d2a642036786e195b0059/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111299385",
       "itunes_duration": "1:17:01",
       "speakers": [
         "Fin Taylor",
@@ -1186,7 +1328,8 @@
         "Jonathan Pie",
         "Jamie Laing",
         "Rosie Holt",
-        "com FinTaylor"
+        "com FinTaylor",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "taylor",
@@ -1202,11 +1345,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1718823781290-d91849d6f576f32964bcd89d0980ad98.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66732d7bdc8bd7c68737275f/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78741725",
       "itunes_duration": "54:35",
       "speakers": [
         "Tanyalee Davis",
         "Meet Tanyalee Davis",
-        "Abnormally Funny People"
+        "Abnormally Funny People",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tanyalee",
@@ -1222,13 +1367,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1717673717538-5371431e67c58dcf806eaf87f2f9e984.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66619fffc0af9f0013659ca3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112484817",
       "itunes_duration": "1:18:05",
       "speakers": [
         "Jaboukie Young-White",
         "Joaquin Phoenix",
         "Ralph Breaks",
         "James Acaster",
-        "Dai Henwood"
+        "Dai Henwood",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jaboukie",
@@ -1246,11 +1393,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1717102878428-16e6d5c7c4a95a88c202a3c2d688e900.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/665735dbef005900122837a7/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86483419",
       "itunes_duration": "59:54",
       "speakers": [
         "Mike Wozniak",
         "Rose Matafeo",
-        "Everything Stu"
+        "Everything Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1266,10 +1415,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1716419891281-765d384f3aae71740643a1480345750e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/664e7e627a8a0500129deb15/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83304475",
       "itunes_duration": "57:41",
       "speakers": [
         "Mike Wozniak",
-        "Everything Stu"
+        "Everything Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1285,13 +1436,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1715882481492-20f9a1a2f200bd50bb48088a148a83bb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66463b3b190a0e00129398fb/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97913865",
       "itunes_duration": "1:07:58",
       "speakers": [
         "Lynne Koplitz",
         "Craig Ferguson",
         "Neil deGrasse Tyson",
         "James Acaster",
-        "Dai Henwood"
+        "Dai Henwood",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lynne",
@@ -1308,9 +1461,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1714674163345-8455eaf77ef8bd054b85170a9684442f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6633dcf9e9604e0012f06e42/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114769502",
       "itunes_duration": "1:19:38",
       "speakers": [
-        "Dai Henwood"
+        "Dai Henwood",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "henwood"
@@ -1325,13 +1480,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1714067077082-923898f504a476e339f50953ec809adc.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/662a99233bcafa00128bfce8/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98894938",
       "itunes_duration": "1:08:39",
       "speakers": [
         "Brian Simpson",
         "David Spade",
         "Iliza Shlesinger",
         "Lucy Beaumont",
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brian",
@@ -1348,9 +1505,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1713307882297-88607ce5ed4a44a4c3d22bb9751e6dcf.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/661f09c34e14e90016a5c5be/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108177000",
       "itunes_duration": "1:14:45",
       "speakers": [
-        "Viggo Venn"
+        "Viggo Venn",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "julia",
@@ -1366,12 +1525,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1712276793399-00495860520e5f0c0b9a0e7cae046c51.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/660f473c7cbc840016c2b5c4/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110407740",
       "itunes_duration": "1:15:59",
       "speakers": [
         "Martin Urbano",
         "Comedy Central’s Featured",
         "Will Smith",
-        "Jimmy Fallon"
+        "Jimmy Fallon",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "martin",
@@ -1387,10 +1548,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1711480032696-6e8d3a754428707ef6070b071b2e5e96.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/66031e45c6adaf00163aafb4/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118250503",
       "itunes_duration": "1:22:00",
       "speakers": [
         "Josh Pugh",
-        "Dave’s Edinburgh Comedy Award"
+        "Dave’s Edinburgh Comedy Award",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -1406,9 +1569,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1710977160543-927fd9449acde90c063eba91d2e8e264.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65f3394deb260e001516186c/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54499081",
       "itunes_duration": "37:30",
       "speakers": [
-        "Briain Returns"
+        "Briain Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dara",
@@ -1425,9 +1590,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1710454137178-6c4fb7a68781dd67131ec17b22629abf.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65f337bc54a27c001619e5ba/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78976373",
       "itunes_duration": "54:15",
       "speakers": [
-        "Briain Returns"
+        "Briain Returns",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "dara",
@@ -1444,13 +1611,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1709842020190-e2ac2788e382731dd33a3f2ad646a42d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65ea1fd6176cc40016ca9940/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113088197",
       "itunes_duration": "1:18:22",
       "speakers": [
         "Janine Harouni Janine Harouni",
         "Janine Harouni",
         "Remain Seated",
         "Best Newcomer",
-        "Matt Reeves"
+        "Matt Reeves",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "janine",
@@ -1466,11 +1635,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1708547435258-680bbb78a9620d191587c4b661f3a2d1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65d65fde42e0100016cac025/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113980710",
       "itunes_duration": "1:19:04",
       "speakers": [
         "Leo Reich",
         "Best Newcomer",
-        "Adam Brace"
+        "Adam Brace",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "reich"
@@ -1485,9 +1656,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1707434220357-37fa8e04019055368cc1ed1a4201e263.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65c563c96a17ef00175c277a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132674095",
       "itunes_duration": "1:32:06",
       "speakers": [
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "tomi",
@@ -1503,10 +1676,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1706713280649-aea9087c3dd14ca976d869c652017438.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65ba63d498ef180017b71c51/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102696016",
       "itunes_duration": "1:11:17",
       "speakers": [
         "Mawaan Rizwan",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mawaan",
@@ -1522,10 +1697,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1706121811234-3fb10a0ff67dd7440ce09a3cdc25d70b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65b15cd00b243100169cb949/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113813541",
       "itunes_duration": "1:18:58",
       "speakers": [
         "Susie McCabe",
-        "Discover Stu"
+        "Discover Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "susie",
@@ -1541,12 +1718,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1705053184105-926f9e735695f85fdf1b4a7d7a584425.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65a10fbdcf65cc001764c6a5/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87875118",
       "itunes_duration": "1:00:45",
       "speakers": [
         "James Acaster Returns",
         "Bo Burnham",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -1563,12 +1742,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1705051160466-57c512b838d982afe452bbd83b9f6ad1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/65a105bdda9c520016f277e9/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72273541",
       "itunes_duration": "49:59",
       "speakers": [
         "James Acaster Returns",
         "James Acaster",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -1585,12 +1766,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1702592130437-2f9fe2c4539f06583b13ec1121cc12f2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/657b8863847875001671c68d/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72313073",
       "itunes_duration": "1:15:16",
       "speakers": [
         "Harriet Dyer",
         "Trigger Warning",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "harriet",
@@ -1606,12 +1789,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1700738434703-73c5513de2efd2593696cdf4d241f1b2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/655f3a27c09126001297844f/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82903564",
       "itunes_duration": "57:25",
       "speakers": [
         "Iliza Shlesinger",
         "Eventim Apollo",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "iliza",
@@ -1627,10 +1812,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1699715157051-1a196c76e1db6e0cba825011f5b41b03.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/654f990a46e5c90011e28484/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71631097",
       "itunes_duration": "1:14:36",
       "speakers": [
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sikisa"
@@ -1645,11 +1832,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1698424752462-b7405683fce4f4fbcdd9a12201bb0da7.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/653be7c1753d4300125655d1/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75934823",
       "itunes_duration": "1:19:05",
       "speakers": [
         "Everything Stu",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alistair",
@@ -1665,11 +1854,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1697300594114-ef679022a18e02051e9827bde74b41f7.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/652ac43c08a248001263b745/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98053747",
       "itunes_duration": "1:21:42",
       "speakers": [
         "Jeff Shaw",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jeff",
@@ -1685,12 +1876,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1696004699153-ff4a7b4660ce5107554c460430d9764f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6516fb9742065c0011dd5fff/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77428191",
       "itunes_duration": "1:20:39",
       "speakers": [
         "Ruth Bratt",
         "Everything Stu",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ruth",
@@ -1706,11 +1899,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1695398414163-bce4f8a68c68c55b3a52c2760da066e8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/650dc1690f53fa0011df77d3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94580699",
       "itunes_duration": "1:38:31",
       "speakers": [
         "Adam Bloom",
         "Discover Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -1727,13 +1922,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1694175830475-a006ed3bb04d283eb3dc32c07b0e7a3d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64fb1463722480001117927a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77152338",
       "itunes_duration": "1:20:21",
       "speakers": [
         "Gareth Reynolds",
         "Dave Anthony",
         "Jake Johnson",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gareth",
@@ -1749,9 +1946,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1693401091195-8d4256b830e9304ce1bbe4a698ce417e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64ef415f075484001115332c/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49832441",
       "itunes_duration": "1:42:04",
       "speakers": [
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nish",
@@ -1768,10 +1967,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1690564036489-551e755e07b94315bcd39456d952a109.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64c3f8290a9bc70011e4f849/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64964126",
       "itunes_duration": "1:07:40",
       "speakers": [
         "Lucy Beaumont",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lucy",
@@ -1787,11 +1988,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1689971194736-cb1e9f9655c863f2fa74c15361acfd73.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64babce08265b30011f818c2/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77031443",
       "itunes_duration": "1:20:14",
       "speakers": [
         "Jonny Pelham",
         "Edinburgh Fringe",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonny",
@@ -1807,6 +2010,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1689339720428-b10ea75d2dc64ba7704412fb0346fb57.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64b1490d71b62900115e3d52/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63516735",
       "itunes_duration": "1:06:09",
       "speakers": [
         "Mike Birbiglia",
@@ -1814,7 +2018,8 @@
         "Daniel Kitson",
         "Edinburgh Sept Oct",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mike",
@@ -1830,11 +2035,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1687477295174-de54d880707e33b2bc5daaf0cd0d6d54.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6494ddd43aab87001109f45f/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69199411",
       "itunes_duration": "1:12:04",
       "speakers": [
         "Gianmarco Soresi",
         "Anthony Jeselnik",
-        "Rodney Dangerfield"
+        "Rodney Dangerfield",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gianmarco",
@@ -1850,11 +2057,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1686674362683-36e26ca530e0945ba3a902517e45c443.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/64889ca6177bda00101c8e44/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74216902",
       "itunes_duration": "1:17:18",
       "speakers": [
         "Lee Kyle",
         "Felt Nowt",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kyle"
@@ -1869,10 +2078,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1685118003082-a7c1d7ec94be76e74eb2a1184a1e7f4f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6470dd9a13f6aa001123925f/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66655034",
       "itunes_duration": "1:09:25",
       "speakers": [
         "Neil Delamere",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "neil",
@@ -1888,10 +2099,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1684516924414-48ae286fb00a11a2df0b549845081b00.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6467cc310225590011a08abb/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77525286",
       "itunes_duration": "1:20:45",
       "speakers": [
         "James Adomian",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -1908,10 +2121,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1683911720503-f5aef454b37f97c8363550a937c40e34.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/645e7e8a1b7c410011c9d85c/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59824230",
       "itunes_duration": "1:02:18",
       "speakers": [
         "Ignacio Lopez",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ignacio",
@@ -1927,11 +2142,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1682681458880-0cad49e423f391b3e3d4912e2c54a19f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/644bafafcf3bd60011cbf569/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79126004",
       "itunes_duration": "1:22:25",
       "speakers": [
         "Emma Willmann",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "emma",
@@ -1948,12 +2165,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1682095104196-48fc2e99c94701496769631289d5a528.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6442bbb78aa57e00115f3009/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78718212",
       "itunes_duration": "1:21:59",
       "speakers": [
         "Steve Agee",
         "John Economos",
         "James Gunn Cinematic Universe",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "steve",
@@ -1969,12 +2188,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1681495123178-6de758b23b956039052af10742ba9c60.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6439949217101100114f864a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77809838",
       "itunes_duration": "1:21:03",
       "speakers": [
         "John Hastings Returns",
         "John Hastings",
         "Paul Byrne",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "john",
@@ -1991,11 +2212,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1680876037352-1edd864e2ffc8f8333f9b6d766db0a54.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/643023d6545d9b001138afdd/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73588925",
       "itunes_duration": "1:16:39",
       "speakers": [
         "Michelle Brasier",
         "Aunty Donna",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "michelle",
@@ -2011,9 +2234,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1680273836861-42ddd4fc82083ec29ff81034c531048c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6426fc1f5f80b20011b5f04a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71887397",
       "itunes_duration": "1:14:52",
       "speakers": [
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "godfrey",
@@ -2029,6 +2254,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1679653811536-71befcf100d0c18111d65ef3c9169c96.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/641d7d4c8d25ad001154a796/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78483193",
       "itunes_duration": "1:21:45",
       "speakers": [
         "Tom Houghton",
@@ -2037,7 +2263,8 @@
         "James Acaster",
         "Fern Brady",
         "Amanda Donnet",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "houghton"
@@ -2052,13 +2279,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1679093593102-c1f51eb04c75fcbb0b3d4934d18f606c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6414f2fd0baefa00111cf6d4/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90297871",
       "itunes_duration": "1:34:03",
       "speakers": [
         "Fern Brady",
         "Alfie Brown",
         "James Acaster",
         "Amanda Donnet",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "fern",
@@ -2075,6 +2304,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1678493546358-992d32625febd4ce9fa951ec9a0d8bca.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/640bca51d1482500118b8b32/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71460213",
       "itunes_duration": "1:14:26",
       "speakers": [
         "Vir Das",
@@ -2083,7 +2313,8 @@
         "Fern Brady",
         "Amanda Donnet",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -2096,10 +2327,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1677532756047-5fab192eaefcf2c47c461e997cfbd63c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63fd2847b926660011a83bff/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80651114",
       "itunes_duration": "1:24:00",
       "speakers": [
         "Gina Yashere",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gina",
@@ -2116,9 +2349,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1676674858177-4565a13816edc1177b70fc892276f95b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63f006f2aa5a9a00118c0dda/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127036415",
       "itunes_duration": "2:12:19",
       "speakers": [
-        "Stewart Lee"
+        "Stewart Lee",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stewart",
@@ -2134,8 +2369,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1675691637579-ad8a6fb2762be175d25e6e4da2f56c36.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63e106e7bb75190011814497/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61786555",
       "itunes_duration": "1:04:21",
-      "speakers": [],
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
       "topics": [
         "romesh",
         "ranganathan",
@@ -2153,9 +2391,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1675020211965-3e1607d1a72979fda294d77d591ad967.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63d6c8b43e40b70011bbd57d/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74539700",
       "itunes_duration": "1:17:38",
       "speakers": [
-        "Shaparak Khorsandi"
+        "Shaparak Khorsandi",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "shaparak",
@@ -2172,9 +2412,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1674395531484-e9c08eb6ac2d79565eb10c830c07e1a2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63cd3fa4dcb75d00113aff99/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62594849",
       "itunes_duration": "1:05:12",
       "speakers": [
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -2191,9 +2433,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1673697582252-a0ff70f28bb77e13ab18c7c473ce00c0.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/63c1ee9149871000117a3d7a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75209475",
       "itunes_duration": "1:18:20",
       "speakers": [
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -2210,6 +2454,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1668780746611-bbae2148602c4174cbe273e7f72ab7ca.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/637793fea4a309001041eb41/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76177040",
       "itunes_duration": "1:19:21",
       "speakers": [
         "Kurt Braunohler",
@@ -2219,7 +2464,8 @@
         "James Acaster",
         "Fern Brady",
         "Amanda Donnet",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "kurt",
@@ -2235,11 +2481,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1668207051781-704a91f982b73590b8ce42352eeb6218.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/636ed19192fc36001279eb5d/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79288327",
       "itunes_duration": "1:22:35",
       "speakers": [
         "Sarah Keyworth",
         "Paul Byrne",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -2255,13 +2503,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1667554365832-466e73e6d9488c7a5d9257e8b49afe5f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6364dc50825b4100120ebf38/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67278268",
       "itunes_duration": "1:10:04",
       "speakers": [
         "Esther Manito",
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "esther",
@@ -2277,13 +2527,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1666348286208-fca3a888388c438ee0cd5b1cfbd5bd0a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6352758218ee6a001313e634/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64838201",
       "itunes_duration": "1:07:32",
       "speakers": [
         "Glenn Moore",
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "glenn",
@@ -2299,6 +2551,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1665744049082-4f18d803550302b1292969db0d48b955.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6349404ac09edb00113cea42/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71543123",
       "itunes_duration": "1:14:31",
       "speakers": [
         "Josie Long",
@@ -2306,7 +2559,8 @@
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "grace",
@@ -2322,6 +2576,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1665133515627-e1754813d04b4d30f08dc5f40820f249.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/633febb7d4f69100110e14cc/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58028834",
       "itunes_duration": "1:00:26",
       "speakers": [
         "Lauren Pattison",
@@ -2330,7 +2585,8 @@
         "James Acaster",
         "Fern Brady",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lauren",
@@ -2346,6 +2602,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1664535979960-9ad5b9a8f2e74b9702b4ea441f840564.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6336ba4388c51f0012346442/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69949026",
       "itunes_duration": "1:12:51",
       "speakers": [
         "Jordan Gray",
@@ -2353,7 +2610,8 @@
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jordan",
@@ -2369,12 +2627,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1660756031055-fc6e041d2dbb8f10a77ff116e7bd01c8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62fd206f9402f000131c1cd4/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77109793",
       "itunes_duration": "1:27:32",
       "speakers": [
         "Roy Haylock",
         "Matt Crockett",
         "Monkey Barrel",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bianca"
@@ -2389,6 +2649,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1659709044100-7bbb1956ba3e11ea70175fdf8aaa605f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62ed279751c86b0012ac2c62/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73801772",
       "itunes_duration": "1:16:52",
       "speakers": [
         "Jenny Bede",
@@ -2397,7 +2658,8 @@
         "Fern Brady",
         "Jenny’s Edinburgh Fringe",
         "Monkey Barrel",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jenny",
@@ -2413,11 +2675,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1659369652947-95d926a124e83ac50c3d1655e2b52c10.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62e7f8cfda58230012047ad1/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74652735",
       "itunes_duration": "1:17:45",
       "speakers": [
         "Tom Ward",
         "Monkey Barrel",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ward"
@@ -2432,6 +2696,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1658492842388-80c72a4fc7b186681564647d81796b77.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62da985346b3b600129eda77/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81040831",
       "itunes_duration": "1:24:25",
       "speakers": [
         "Sean McLoughlin",
@@ -2441,7 +2706,8 @@
         "Ricky Gervais",
         "Alfie Brown",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sean",
@@ -2457,6 +2723,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1657875921118-de49374afdc155da02569df7209e3aab.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62d12860c6a9d40012c2bfad/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84421695",
       "itunes_duration": "1:27:56",
       "speakers": [
         "Ria Lina",
@@ -2464,7 +2731,8 @@
         "James Acaster",
         "Fern Brady",
         "Everything Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lina"
@@ -2479,6 +2747,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1656955686349-54485273ba804da2483c4d40fc10b23b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62c324441f15c80012a2d4d4/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91233618",
       "itunes_duration": "1:35:02",
       "speakers": [
         "Alison Spittle",
@@ -2486,7 +2755,8 @@
         "James Acaster",
         "Fern Brady",
         "gigs See",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alison",
@@ -2502,6 +2772,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1655466010763-2ca3fc5867328ad1108a6be4ddca0d5f.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62ac69ca3cef5d00128d0b64/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74415734",
       "itunes_duration": "1:17:30",
       "speakers": [
         "Amy Miller",
@@ -2510,7 +2781,8 @@
         "Fern Brady",
         "Everything Stu",
         "Twitter Standup",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "miller"
@@ -2525,6 +2797,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1654971181161-0dfecc3c196729577924a4baf05e6cf0.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62a4ec04e3a74500144ef177/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80054026",
       "itunes_duration": "1:23:23",
       "speakers": [
         "Derek Chickpeas",
@@ -2532,7 +2805,8 @@
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "olaf",
@@ -2548,6 +2822,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1654209127702-545336808d7b4daa085c4536a2d00f0b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62993b19130bc60013d6dfc8/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72851750",
       "itunes_duration": "1:15:53",
       "speakers": [
         "Helen Bauer",
@@ -2556,7 +2831,8 @@
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "helen",
@@ -2572,6 +2848,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1659369830910-724fa251d7b2ceef3a20f1c822f5d838.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6290c95eeb6de50013b0c2d1/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72814553",
       "itunes_duration": "1:15:50",
       "speakers": [
         "Bobby Mair",
@@ -2580,7 +2857,8 @@
         "Fern Brady",
         "Red Richardson",
         "Twitter Stu",
-        "David Cooper"
+        "David Cooper",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bobby",
@@ -2596,6 +2874,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1653010829701-9af831ee35c6ec13a8bf3f3fddd75874.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6286f3545c5bfd0013394051/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76665231",
       "itunes_duration": "1:19:51",
       "speakers": [
         "Isaac Steele",
@@ -2604,7 +2883,8 @@
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "daniel",
@@ -2620,13 +2900,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1652401731462-4b1afff81a3cc5c8bd8ccad0779d016d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/627da7c775451800127f0687/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72801198",
       "itunes_duration": "1:15:50",
       "speakers": [
         "Dulcé Sloan",
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sloan",
@@ -2642,6 +2924,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1648818100934-5fb730d1ff7739154704763a75a55ac1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6246f94530fb610012ff9222/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114491779",
       "itunes_duration": "1:59:15",
       "speakers": [
         "Rob Deering",
@@ -2651,7 +2934,8 @@
         "James Acaster",
         "Fern Brady",
         "Read Rob",
-        "Everything Stu"
+        "Everything Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "birthday",
@@ -2669,13 +2953,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1648160610417-a1412cc56e1deddd2d01084b103f5e5b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/623cefbcc0c57e00132dce73/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74525285",
       "itunes_duration": "1:17:37",
       "speakers": [
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
         "Everything Stu",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "eddie",
@@ -2693,13 +2979,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1647853620571-bb16ded0e01317a1fbaec5691ddc7f6b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/623845d4f8537a0014b78cf3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72203094",
       "itunes_duration": "1:15:12",
       "speakers": [
         "Honey Boy",
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "byron",
@@ -2716,13 +3004,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1646958236485-c596859edec6ef7e6696f199f9c761ef.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/622a97dae8fb640012cba2d3/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76223831",
       "itunes_duration": "1:19:23",
       "speakers": [
         "Matt Richardson",
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "matt",
@@ -2738,12 +3028,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1646344161415-e2d3310dd9c0cf43cee6a73cc86c33cc.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62213de20a0c630013974c32/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88877988",
       "itunes_duration": "1:32:34",
       "speakers": [
         "Alfie Brown",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "trevor",
@@ -2759,13 +3051,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1645758033825-fbab87587567436f0054b7ed111dc610.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/621849d62fd00f0014535549/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72168460",
       "itunes_duration": "1:15:10",
       "speakers": [
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
         "Slim IG",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": []
     },
@@ -2778,10 +3072,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1645125882732-049c6bc7e6463b9a5d690c51411958ef.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/620ea1596e69eb0012f7b295/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60206578",
       "itunes_duration": "1:02:42",
       "speakers": [
         "Joan Rivers",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "beaton"
@@ -2796,6 +3092,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1644530537901-7667037afa7aaf9c77eeeee42562e228.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/62058c96f850df001232e279/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70023187",
       "itunes_duration": "1:12:56",
       "speakers": [
         "Diane Spencer",
@@ -2803,7 +3100,8 @@
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Jo Matkin"
+        "Jo Matkin",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "diane",
@@ -2819,9 +3117,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1643924839204-cba560847f5f08789d1c17ee76ef8261.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61fc52cdcfe32c0014f1e508/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111750146",
       "itunes_duration": "1:56:24",
       "speakers": [
-        "Barry Cryer"
+        "Barry Cryer",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "remembering",
@@ -2838,9 +3138,11 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1639701854525-824c7446b1a999449c3191ebc6246dae.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61bbddc874b6190012702703/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42541343",
       "itunes_duration": "44:18",
       "speakers": [
-        "Jimmy Carr"
+        "Jimmy Carr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -2857,10 +3159,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1639435729372-b4c831f9716c5d738fa17c8de27739a8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61b7ce8a48392200133ed7fe/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53125754",
       "itunes_duration": "55:20",
       "speakers": [
         "Sean Lock",
-        "Jimmy Carr"
+        "Jimmy Carr",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jimmy",
@@ -2877,6 +3181,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1638484835928-8cca98e485fce9407285a33576642c8c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61a94dd7ed8d450012d9c00d/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58431723",
       "itunes_duration": "1:00:51",
       "speakers": [
         "Omid Djalili",
@@ -2886,7 +3191,8 @@
         "James Acaster",
         "Fern Brady",
         "Everything Stu",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "omid",
@@ -2902,13 +3208,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1637877783183-ae6c4dcc32e617538cf358cb468a95f5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61a009d3b89dbc00138989b8/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79311297",
       "itunes_duration": "1:22:36",
       "speakers": [
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "foil"
@@ -2923,10 +3231,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1637588098495-d4de5af6b9003696c71ff7b18f2ace95.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/619b9d0b2a3d890019fbf50b/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80387542",
       "itunes_duration": "1:23:44",
       "speakers": [
         "Tom Stade",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stade",
@@ -2942,6 +3252,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1636724639825-76fc5a51ea2d0ea3df7a0aa239637efd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/618e6fcc4195f500149e6582/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69938560",
       "itunes_duration": "1:12:51",
       "speakers": [
         "Philippa Perry",
@@ -2951,7 +3262,8 @@
         "James Acaster",
         "Fern Brady",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noncompod",
@@ -2968,6 +3280,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1636063529993-8155dcf4ccf34f97136df12a60be2bd2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/61845d55685d4b00120fefea/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "102057888",
       "itunes_duration": "1:46:18",
       "speakers": [
         "Pierre Novellie",
@@ -2976,7 +3289,8 @@
         "Fern Brady",
         "Phil Wang Watch",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pierre",
@@ -2992,10 +3306,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1635455936214-0a3d945244ba24f477669cc6a8b25358.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/617b141d6b6cee00126be50a/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27721344",
       "itunes_duration": "28:52",
       "speakers": [
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "panamble",
@@ -3011,6 +3327,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1634851863211-758f1cf32d0a2d82a6228ddd1aaf61bd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6171dc36d813fb0013bd49df/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77246154",
       "itunes_duration": "1:20:27",
       "speakers": [
         "Aaron Chen",
@@ -3020,7 +3337,8 @@
         "Follow Aaron",
         "Adult Swim",
         "Everything Stu",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aaron",
@@ -3036,6 +3354,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1634245454237-087ef60ff70a02cc9640e90b26480930.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6168b058b567570014734bc8/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81309552",
       "itunes_duration": "1:24:41",
       "speakers": [
         "Adam Rowe",
@@ -3044,7 +3363,8 @@
         "James Acaster",
         "Fern Brady",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "adam",
@@ -3060,12 +3380,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1633644868270-450b94c0172a767365a27fb72927df15.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/615f7245cb37160012ee1a58/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80421831",
       "itunes_duration": "1:23:46",
       "speakers": [
         "Thanyia Moore",
         "Alfie Brown",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "thanyia",
@@ -3081,13 +3403,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1633072149403-ce597a50224ab99e9dfdd87ef8f79bb5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6156b48b336c5f0012e51c69/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86710427",
       "itunes_duration": "1:30:19",
       "speakers": [
         "Harriet Kemsley",
         "Bobby Mair",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "harriet",
@@ -3103,13 +3427,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1632493064644-02106aa81c777b3cb546835d6573b7e9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/614dde317e54190013107966/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79618930",
       "itunes_duration": "1:22:56",
       "speakers": [
         "Jonathan Coulton",
         "Lawrence Lessig",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jonathan",
@@ -3125,10 +3451,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3b2.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/minifringeprelude/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9921096",
       "itunes_duration": "10:20",
       "speakers": [
         "Mini Fringe Prelude",
-        "Edinburgh Fringe"
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "mini",
@@ -3145,12 +3473,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3b7.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/380-ck-caimh-mcdonnell/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78431512",
       "itunes_duration": "1:21:41",
       "speakers": [
         "Bunny McGarry",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "caimh",
@@ -3166,12 +3496,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3be.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/379-fintaylor/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90515120",
       "itunes_duration": "1:34:17",
       "speakers": [
         "Fin Taylor",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "taylor"
@@ -3186,13 +3518,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3c5.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/378-steviemartin/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74425366",
       "itunes_duration": "1:17:31",
       "speakers": [
         "Stevie Martin",
         "Massive Dad",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stevie",
@@ -3208,6 +3542,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3cc.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/377-paulzerdin/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76022804",
       "itunes_duration": "1:19:11",
       "speakers": [
         "Paul Zerdin Irrepressibly",
@@ -3217,7 +3552,8 @@
         "Alfie Brown",
         "Fern Brady",
         "Find Paul",
-        "paulzerdin TW"
+        "paulzerdin TW",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -3233,13 +3569,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3d3.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/376-joshjohnson/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70382864",
       "itunes_duration": "1:13:18",
       "speakers": [
         "Josh Johnson",
         "Nish Kumar",
         "James Acaster",
         "Alfie Brown",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "josh",
@@ -3255,6 +3593,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3da.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/375-jessiecave/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73892049",
       "itunes_duration": "1:16:58",
       "speakers": [
         "Jessie Cave",
@@ -3262,7 +3601,8 @@
         "Nish Kumar",
         "James Acaster",
         "Fern Brady",
-        "Find Jessie"
+        "Find Jessie",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jessie",
@@ -3278,13 +3618,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3e1.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/374-piffthemagicdragon-johnvanderput-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83130229",
       "itunes_duration": "1:26:35",
       "speakers": [
         "John Van Der Put",
         "bulletproof performer",
         "Nish Kumar",
         "James Acaster",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "piff",
@@ -3302,13 +3644,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3e8.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/373-gregjenner/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84145005",
       "itunes_duration": "1:27:38",
       "speakers": [
         "Greg Jenner",
         "Nish Kumar",
         "James Acaster",
         "Alfie Brown",
-        "Fern Brady"
+        "Fern Brady",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "greg",
@@ -3324,11 +3668,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3ef.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/372-rosiejones/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61498305",
       "itunes_duration": "1:04:03",
       "speakers": [
         "Rosie Jones",
         "Nish Kumar",
-        "Alfie Brown"
+        "Alfie Brown",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "rosie",
@@ -3344,6 +3690,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3f6.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/371-ianmoore/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73100432",
       "itunes_duration": "1:16:08",
       "speakers": [
         "Ian Moore",
@@ -3351,7 +3698,8 @@
         "Alfie Brown",
         "Fern Brady",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "moore"
@@ -3366,6 +3714,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b3fd.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/370-stuartlaws/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78137678",
       "itunes_duration": "1:21:23",
       "speakers": [
         "James Acaster",
@@ -3374,7 +3723,8 @@
         "Alfie Brown",
         "Stuart Laws",
         "Matt Winning",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "stuart"
@@ -3389,13 +3739,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b404.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/369-catherinebohart/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66363355",
       "itunes_duration": "1:09:07",
       "speakers": [
         "Catherine Bohart",
         "James Acaster",
         "Nish Kumar",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "catherine",
@@ -3411,13 +3763,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b40b.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/368-thedelightfulsausage/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71700282",
       "itunes_duration": "1:14:41",
       "speakers": [
         "Amy Gledhill",
         "Chris Cantrill",
         "James Acaster",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "delightful",
@@ -3433,12 +3787,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b412.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/367-soozkempner/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85153960",
       "itunes_duration": "1:28:42",
       "speakers": [
         "James Acaster",
         "SoozUK Co-hosting",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sooz",
@@ -3454,11 +3810,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b419.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/366-loyisogolareturns/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60231471",
       "itunes_duration": "1:02:44",
       "speakers": [
         "James Acaster",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "loyiso",
@@ -3475,6 +3833,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b420.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/365-ramonrivasii/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68741541",
       "itunes_duration": "1:11:36",
       "speakers": [
         "Ramon Rivas",
@@ -3482,7 +3841,8 @@
         "James Acaster",
         "blazerramon Ramon",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ramon",
@@ -3498,11 +3858,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b427.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/364-olgakoch/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82575567",
       "itunes_duration": "1:26:00",
       "speakers": [
         "Olga Koch",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "olga",
@@ -3518,11 +3880,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b42e.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/363-bethanyblack/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96624433",
       "itunes_duration": "1:40:38",
       "speakers": [
         "James Acaster",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "bethany",
@@ -3538,6 +3902,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b435.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/362-russellkane/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67892245",
       "itunes_duration": "1:10:43",
       "speakers": [
         "Russell Kane",
@@ -3545,7 +3910,8 @@
         "James Acaster",
         "Follow Russell",
         "Maria Kuzak",
-        "Ben Gott"
+        "Ben Gott",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "russell",
@@ -3561,6 +3927,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b43c.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/361-tomneenan/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64362160",
       "itunes_duration": "1:07:02",
       "speakers": [
         "Tom Neenan Head",
@@ -3570,7 +3937,8 @@
         "Follow Tom’s Dr",
         "Jenny Nicholson",
         "Lindsey Ellis",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "neenan"
@@ -3585,13 +3953,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b443.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/360-jordanbrookes/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75543826",
       "itunes_duration": "1:18:41",
       "speakers": [
         "Edinburgh Comedy Award",
         "Jordan Brookes",
         "James Acaster",
         "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "jordan",
@@ -3607,12 +3977,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b44a.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/359-auntydonnareturn-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59330761",
       "itunes_duration": "1:01:48",
       "speakers": [
         "Donna Return",
         "James Acaster",
         "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "aunty",
@@ -3629,13 +4001,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b451.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/358-nigelngreturns-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67875744",
       "itunes_duration": "1:10:42",
       "speakers": [
         "Uncle Roger",
         "Nigel Ng",
         "James Acaster",
         "Stu’s Infinite Sofa",
-        "Maria Kuzak"
+        "Maria Kuzak",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nigel",
@@ -3651,10 +4025,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b458.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/357-athenakugblenu/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64848464",
       "itunes_duration": "1:07:32",
       "speakers": [
         "Athena Kugblenu",
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "athena",
@@ -3670,10 +4046,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b45f.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/356-jamesacasterreturns-again-part2-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59486904",
       "itunes_duration": "1:01:57",
       "speakers": [
         "James Acaster Returns",
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -3690,10 +4068,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b466.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/355-jamesacasterreturns-again-part1-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60018968",
       "itunes_duration": "1:02:31",
       "speakers": [
         "James Acaster Returns",
-        "James Acaster"
+        "James Acaster",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "james",
@@ -3710,10 +4090,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b46d.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/354-martinmor/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92629788",
       "itunes_duration": "1:36:29",
       "speakers": [
         "Martin Mor",
-        "Everything Stu"
+        "Everything Stu",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "martin"
@@ -3728,6 +4110,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b474.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/353-coltcabana/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76716411",
       "itunes_duration": "1:19:54",
       "speakers": [
         "Colt Cabana",
@@ -3735,7 +4118,8 @@
         "John Hastings",
         "Toru Yano",
         "Tw IG",
-        "Sara Barron"
+        "Sara Barron",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "colt",
@@ -3751,12 +4135,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b47b.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/352-alasdairbeckett-king/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80340544",
       "itunes_duration": "1:23:41",
       "speakers": [
         "Sara Barron",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alasdair",
@@ -3773,12 +4159,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b482.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/351-lauriekilmartin/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64993915",
       "itunes_duration": "1:07:42",
       "speakers": [
         "Laurie Kilmartin",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "laurie",
@@ -3794,6 +4182,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b489.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/350-matewins/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79479119",
       "itunes_duration": "1:22:47",
       "speakers": [
         "Mat Ewins",
@@ -3803,7 +4192,8 @@
         "Harry Hill",
         "WaTsUMudD TW",
         "Dara O'Briain",
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "ewins"
@@ -3818,13 +4208,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b490.png",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/349-kimnoble/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89144425",
       "itunes_duration": "1:32:51",
       "speakers": [
         "Kim Noble",
         "Everything Stu",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "noble"
@@ -3839,13 +4231,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b497.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/348-erinfoley/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75245612",
       "itunes_duration": "1:18:22",
       "speakers": [
         "Erin Foley",
         "Deep Dive",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "erin",
@@ -3861,13 +4255,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b49e.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/347-paulsinhareturns/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "202327154",
       "itunes_duration": "1:24:18",
       "speakers": [
         "Paul Sinha",
         "Everything Stu",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "paul",
@@ -3884,13 +4280,15 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4a5.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/346-garygulman/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86817648",
       "itunes_duration": "1:30:26",
       "speakers": [
         "Gary Gulman",
         "Kurt Vonnegut",
         "Dara O'Briain",
         "Sarah Millican",
-        "Russell Howard"
+        "Russell Howard",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "gary",
@@ -3906,6 +4304,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4ac.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/345-larrydean/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83033445",
       "itunes_duration": "1:26:29",
       "speakers": [
         "Larry Dean",
@@ -3915,7 +4314,8 @@
         "Thom Tuck",
         "Kelly Convey",
         "Alice Fraser",
-        "Marcus Brigstocke"
+        "Marcus Brigstocke",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "larry",
@@ -3931,6 +4331,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4b3.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/344-archiemaddocks/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69185208",
       "itunes_duration": "1:12:03",
       "speakers": [
         "Stu Goldsmith",
@@ -3940,7 +4341,8 @@
         "Kelly Convey",
         "Alice Fraser",
         "Marcus Brigstocke",
-        "Charlie George"
+        "Charlie George",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "archie",
@@ -3956,6 +4358,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4ba.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/343-nigelng/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71971317",
       "itunes_duration": "1:14:58",
       "speakers": [
         "Nigel Ng",
@@ -3965,7 +4368,8 @@
         "Luisa Omelian",
         "Josie Long",
         "Sarah Millican",
-        "Rob Kemp"
+        "Rob Kemp",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "nigel"
@@ -3980,6 +4384,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4c1.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/342-catherinecohen/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57506175",
       "itunes_duration": "59:54",
       "speakers": [
         "Catherine Cohen",
@@ -3989,7 +4394,8 @@
         "Luisa Omelian",
         "Josie Long",
         "Sarah Millican",
-        "Rob Kemp"
+        "Rob Kemp",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "catherine",
@@ -4005,6 +4411,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4c8.jpeg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/341-sindhuveereturns/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58639683",
       "itunes_duration": "1:01:04",
       "speakers": [
         "Jess Fostekew",
@@ -4014,7 +4421,8 @@
         "Josh Widdicombe",
         "Josie Long",
         "Sarah Millican",
-        "Rob Kemp"
+        "Rob Kemp",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sindhu",
@@ -4030,6 +4438,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4cf.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/340-popelonergan/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76046424",
       "itunes_duration": "1:19:12",
       "speakers": [
         "Pope Lonergan",
@@ -4039,7 +4448,8 @@
         "Josie Long",
         "Sarah Millican",
         "Rob Kemp",
-        "Russell Hicks"
+        "Russell Hicks",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "pope",
@@ -4055,6 +4465,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4d6.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/339-brettgoldstein/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78033404",
       "itunes_duration": "1:21:17",
       "speakers": [
         "Brett Goldstein",
@@ -4064,7 +4475,8 @@
         "Anna Mann",
         "Randy Feltface",
         "Josie Long",
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "brett",
@@ -4080,6 +4492,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4dd.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/sarahmillican-russellhowardontheinfinitesofa/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9125719",
       "itunes_duration": "9:30",
       "speakers": [
         "Stu Goldsmith",
@@ -4088,7 +4501,8 @@
         "Iain Stirling",
         "Laura Lexx",
         "Alfie Brown",
-        "Anna Mann"
+        "Anna Mann",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "sarah",
@@ -4108,12 +4522,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4e2.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/338-helenzaltzman/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80170846",
       "itunes_duration": "1:23:30",
       "speakers": [
         "Helen Zaltzman",
         "Olly Mann",
         "Josie Long",
-        "com helenzaltzman"
+        "com helenzaltzman",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "helen",
@@ -4129,6 +4545,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4e9.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/337-alonzobodden/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72256788",
       "itunes_duration": "1:15:15",
       "speakers": [
         "Alonzo Bodden",
@@ -4136,7 +4553,8 @@
         "Stu Goldsmith",
         "James Acaster",
         "Sarah Millican",
-        "Jasky Singh"
+        "Jasky Singh",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "alonzo",
@@ -4152,11 +4570,13 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4f0.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/specialepisode-theinfinitesofa-whattodonext..-/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19359062",
       "itunes_duration": "20:09",
       "speakers": [
         "Stu Goldsmith",
         "James Acaster",
-        "Sarah Millican"
+        "Sarah Millican",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "special",
@@ -4173,6 +4593,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4f7.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/336-robertpopper/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78757489",
       "itunes_duration": "1:21:01",
       "speakers": [
         "Timewaster Robert Popper",
@@ -4182,7 +4603,8 @@
         "Desiree Burch",
         "Phil Ellis",
         "Rob Rouse",
-        "Ben Milden"
+        "Ben Milden",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "robert",
@@ -4198,6 +4620,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b4fe.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/335-scottbennett/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73475739",
       "itunes_duration": "1:15:30",
       "speakers": [
         "Scott Bennett",
@@ -4206,7 +4629,8 @@
         "Pete Dobbing",
         "Follow Scott",
         "Stu Goldsmith",
-        "Ben Milden"
+        "Ben Milden",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "scott",
@@ -4222,10 +4646,12 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b505.png",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/lockdownspecial-alexanderbennett/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43002415",
       "itunes_duration": "44:46",
       "speakers": [
         "Alexander Bennett",
-        "Stu Goldsmith"
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "lockdown",
@@ -4243,6 +4669,7 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b50c.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/334-robbycollins/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79249663",
       "itunes_duration": "1:22:33",
       "speakers": [
         "Robby Collins",
@@ -4250,7 +4677,8 @@
         "Dave Chapelle",
         "Pete Dobbing",
         "Stu Goldsmith",
-        "Ben Milden"
+        "Ben Milden",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "robby",
@@ -4266,12 +4694,14 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b513.jpeg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/333-stevemcneil/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89004830",
       "itunes_duration": "1:32:42",
       "speakers": [
         "Steve McNeil",
         "Briain's Go",
         "Pete Dobbing",
-        "Stu Goldsmith"
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "steve",
@@ -4287,16 +4717,7690 @@
       "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b51a.jpg",
       "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/332-desireeburch/media.mp3",
       "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65108008",
       "itunes_duration": "1:07:49",
       "speakers": [
         "Desiree Burch",
         "dick pics",
         "Pete Dobbing",
-        "Stu Goldsmith"
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
       ],
       "topics": [
         "desiree",
         "burch"
+      ]
+    },
+    {
+      "key": "7d41fa1ca9cc41952ed85f936f23fc29d55d42fe",
+      "title": "Special Episode - Resilience, Self-care and Creativity",
+      "published_at": "2020-03-19T21:53:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/specialepisode-resilience-self-careandcreativity",
+      "description": "In the face of an unprecedented pandemic, most listeners will soon be confined to isolation of one sort or another. Stu tries to make himself and hopefully you feel better about the overwhelming challenges ahead. How can we stay resilient, positive, and maybe creative during this bewildering and frightening time? Support the podcast by joining the Insiders Club today. Sign up at www.comedianscomedian.com/insiders to access all the extras from past episodes, the workspace app, and the new special episode about pivoting to online work with ComCom Consultant Pete Dobbing. Go to www.comedianscomedian.com/lunch to book an internet one-to-one lunch date with Stu. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b521.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/specialepisode-resilience-self-careandcreativity/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49161704",
+      "itunes_duration": "51:12",
+      "speakers": [
+        "Pete Dobbing",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "special",
+        "resilience",
+        "self",
+        "care",
+        "creativity"
+      ]
+    },
+    {
+      "key": "84a5fe650b21171466b0ffe8234b92fb1b1a7fa4",
+      "title": "331 - Janey Godley",
+      "published_at": "2020-03-12T23:18:15+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/331-janeygodley",
+      "description": "Superb comedian, thrilling storyteller and born survivor Janey Godley not only answers back to her online death-threats, but publishes her whereabouts with an open invitation to \"come and have a go\". We talk about how she thrived despite abuse, poverty and alcoholism in her upbringing; detail her absolute conviction in the power of honesty; and learn how an early experience at the Edinburgh Fringe led her to reject the comedy industry and focus instead on her audience. CW: We talk about abuse Janey suffered as a child, at the very start of this show, and throughout. 25 mins of extras available exclusively to members of the Insiders Club include Janey on how her refusal to play along led to her being banned from a chain of comedy clubs; how she approaches publicising criminal connections whilst keeping her own nose clean; the ramifications of her husband’s autism, and the glee she feels at her daughter Ashley Storrie’s success in the comedy world. Join now and support the show at www.comedianscomedian.com/insiders Thanks to the Stand Newcastle www.janeygodley.com | @janeygodley Janey Godley’s Soup Pot Tour is on right now - tickets available through her website Stuart Goldsmith's Edinburgh Fringe show \"The Void\" is on sale now at tinyurl.com/stu2020 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b528.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/331-janeygodley/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77527016",
+      "itunes_duration": "1:19:44",
+      "speakers": [
+        "Janey Godley Superb",
+        "Janey Godley",
+        "Ashley Storrie",
+        "Pot Tour",
+        "Stuart Goldsmith",
+        "Edinburgh Fringe"
+      ],
+      "topics": [
+        "janey",
+        "godley"
+      ]
+    },
+    {
+      "key": "c000efcc48a69bdc08abe346b05c43addb60746a",
+      "title": "330 - Alexei Sayle",
+      "published_at": "2020-03-05T22:26:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/330-alexeisayle",
+      "description": "The godfather of British alternative comedy, Alexei Sayle is always at the edge of catastrophe. The star of The Young Ones, Alexei Sayle’s Stuff, The Comic Strip Presents, many more and now his Imaginary Sandwich Bar, gets stuck into why inauthenticity is his bugbear, how to make the most of creative discomfort, the earliest days of the Comedy Store, and the transition from counterculture to national treasure. In 30 mins of extras available only to the Insiders Club, Alexei talks about his real feelings towards Ben Elton, and the current crop of arena comics; how he re-fit his show about political optimism when the wind changed; and identifies a link between standup and martial arts regarding the energy of the audience and his own… Available now only at www.comedianscomedian.com/insiders See Alexei on tour now! Details at www.alexeisayle.me Thanks to Ellen Frost at Bloomsbury Theatre @bloomstheatre Stuart Goldsmith's Edinburgh Fringe show \"The Void\" is onside now at tinyurl.com/stu2020 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b52f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/330-alexeisayle/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66323439",
+      "itunes_duration": "1:09:05",
+      "speakers": [
+        "Alexei Sayle",
+        "Sandwich Bar",
+        "Ben Elton",
+        "Ellen Frost",
+        "Stuart Goldsmith",
+        "Edinburgh Fringe"
+      ],
+      "topics": [
+        "alexei",
+        "sayle"
+      ]
+    },
+    {
+      "key": "f2cf17e628282498e2ada4e37d5170d3f865e73d",
+      "title": "329 - Eshaan Akbar",
+      "published_at": "2020-02-28T01:50:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/329-eshaanakbar",
+      "description": "Eshaan Akbar has an extremely diverse comic portfolio. This former wealth manager and government policy maker is now a successful TV comedian with a significant career in the making. We talk about his very precise ambitions and his fascination with the absolute freedom of the stage, as well as his disappointment in finding out that comedy is no longer anti-establishment and that comedians are “a precious bunch”. We also touch on Eshaan’s suicide attempt, and get stuck into the tremendous difficulty of exploring a serious emotional topic using comedy. *Content warning: mention of suicide* In 30 mins of extras available only to the Insiders Club, Eshaan outlines some fascinating and unique parallels with comedy from his former careers. He portrays different types of jokes by comparing them to bitcoin, treasury bonds and investments (which if you already know about jokes works neatly as a primer in finance) and explores links between policy making and comedy, via analysis of two very different ideas about “audience”. Quintessential ComCom, available now at www.comedianscomedian.com/insiders www.eshaanakbar.com | @eshaanakbar Catch Eshaan at Soho Theatre , 7th-11th April 2020: sohotheatre.com/shows/eshaan-akbar-infidel-ity Get tickets for Stu's tour : 28/02/20 Cambridge Junction www.comedianscomedian.com | @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b536.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/329-eshaanakbar/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82309305",
+      "itunes_duration": "1:24:43",
+      "speakers": [
+        "Eshaan Akbar",
+        "Catch Eshaan",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "eshaan",
+        "akbar"
+      ]
+    },
+    {
+      "key": "33fec8052edf627daebe843e7e29606e4cf5f27e",
+      "title": "328 - Seann Walsh",
+      "published_at": "2020-02-20T23:42:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/328-seannwalsh",
+      "description": "Seann Walsh is an extraordinary observational comic, with a phenomenal talent for getting to the heart of the funny in the most everyday topics, and enlivening a routine with act-outs. We talk about how his persona changed from open mics to big rooms, and how he strove for authenticity, despite the looming feeling that something was missing from his impressive TV career. Just when this outsider among outsiders seemed finally about to break big, in 2018 he appeared on Strictly Come Dancing (BBC) and pictures surfaced of him kissing his dance partner. We discuss the tabloid uproar and the accusations that followed, and the effect they had on his life and work. 40mins of extras available exclusively to members of the Insiders Club include Seann on being unsettled by the aggressive environment on panel shows, getting kicked out of college and the cosiness of melancholy; his unique DIY technique for ridding oneself of nervous energy pre-show; and why any future set on Conan (TBS) will be very different to his first one... Join today at www.comedianscomedian.com/insiders @SeannWalsh | seannwalsh.com Get tickets for Stu's tour : 28/02/20 Cambridge Junction Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b53d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/328-seannwalsh/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74018248",
+      "itunes_duration": "1:16:04",
+      "speakers": [
+        "Seann Walsh",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "seann",
+        "walsh"
+      ]
+    },
+    {
+      "key": "8e890e7e09df7338650feab9cb24820591f62894",
+      "title": "327 - Matt Winning",
+      "published_at": "2020-02-13T23:07:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/327-mattwinning",
+      "description": "A man on a mission, comedian and academic Dr Matt Winning is an expert on climate change and on making the apocalypse funny. We explore how to make a show educational without being worthy, finding purpose in struggle, and how to survive as a comic when you’re not motivated to quit your day job. We also dig into the maintenance of optimism when your crises are about something a little more meaningful than comedy, and gloss over the difference between polar bears and pall-bearers… 25 mins of extras available exclusively to the Insiders Club include Matt on “coming out” as a scientist in comedy, how his love of the surreal clashes with the mainstream direction of his mission, and we get a morsel of the inside story on the infamous “Bearpit Podcast Podcast”. Join now at www.comedianscomedian.com/insiders mattwinning.com | @mattywin85 Get tickets for Stu's tour : 28/02/20 Cambridge Junction Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b544.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/327-mattwinning/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71841936",
+      "itunes_duration": "1:13:48",
+      "speakers": [
+        "Matt Winning",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "matt",
+        "winning"
+      ]
+    },
+    {
+      "key": "76d8fab845f02fd711a0cffd726feec703605c05",
+      "title": "326 - The Sklar Brothers",
+      "published_at": "2020-02-06T22:31:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/326-thesklarbrothers",
+      "description": "Twins Randy and Jason Sklar blow audiences away with their extraordinarily layered stand-up, weaving their delivery alongside, through and around each other’s voices; sparring, arguing and then dropping into perfect sync on a punchline. We get stuck into their writing process, the difficulties of working as a team when their family lives don’t sync as easily as their creative lives, the challenge of identifying a target audience when you straddle mainstream and alternative, and why the “ball don’t lie”… 25 mins of extras available exclusively to the Insiders Club include how Randy and Jason approach Roast Battles, why they love tagging jokes and the TV pitch it inspired, and we find out which twin is the happiest. We also get an insight into their episode of NPR podcast “This American Life”, when they were made aware of a genuinely mind-blowing possibility about their identities as twins. Join now at www.comedianscomedian.com/insiders TW: @SklarBrothers | IG: @SklarBrothers Get tickets for Stu's tour : 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b54b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/326-thesklarbrothers/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68603594",
+      "itunes_duration": "1:10:26",
+      "speakers": [
+        "Twins Randy",
+        "Roast Battles",
+        "Farnham Maltings",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sklar",
+        "brothers"
+      ]
+    },
+    {
+      "key": "e2c8c0c6cfe73c5ca63e3102eb59734ac08a45c3",
+      "title": "325 - Ninia Benjamin",
+      "published_at": "2020-01-31T02:07:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/325-niniabenjamin",
+      "description": "A juggernaut of charisma and filth, Ninia Benjamin has a supernatural connection to her audience and a mind like a firework display. We discuss why she won’t ever explain her race or size, only her point of view, and how she moved beyond the onstage anger that used to motivate her. We also dig deep into her career rebirth after an ‘annus horribilis’ brought about by professional struggles and her own impostor syndrome. This far into her career, can she finally accept herself as a “proper comedian”? Extras include Ninia on writing for Aladdin and what she sang to Will Smith, a deep-dive into why she identifies writing comedy with “homework”, and a full on pep-talk from Stu about exactly how she should attack the Edinburgh festival… Access them, and all other extra content, by singing up the Insiders Club at www.comedianscomedian.com/insiders IG: @ninia_benjamin | TW: @ninia_benjamin Get tickets for Stu's tour : 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b552.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/325-niniabenjamin/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82063547",
+      "itunes_duration": "1:24:27",
+      "speakers": [
+        "Ninia Benjamin",
+        "Will Smith",
+        "Newcastle Stand",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ninia",
+        "benjamin"
+      ]
+    },
+    {
+      "key": "f8176fe2c842f1b7b464b20d0936c3894012507a",
+      "title": "324 - Jamali Maddix",
+      "published_at": "2020-01-23T22:12:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/324-jamalimaddix",
+      "description": "A master of \"pulling back into the wide angle\", Jamali Maddix thrives on big routines about big subjects, letting his innate comic ability run riot. We talk about the pressures of keeping up hit-rate within routines, and get technical about top-lines, and why he wants the premise of a bit to be more intelligent than he is himself. But what happens when you lose sight of your goals in the process of following the next apparently logical step? 30 mins of extras available exclusively to the Insiders Club include Jamali going deep into the production of his Vice TV smash \"Hate Thy Neighbour\", which saw him write an hour of comedy in three days, sixteen times, whilst avoiding being killed by neo-Nazis. We also cover how to extract laughter from horrific things, and find the fertile ground between outrage and consensus... Join now at comedianscomedian.com/insiders www.jamalimaddix.com TW: @jamalimaddix | IG: @jamalimaddix Get tickets for Stu's tour : 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b559.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/324-jamalimaddix/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56388314",
+      "itunes_duration": "57:43",
+      "speakers": [
+        "Jamali Maddix",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jamali",
+        "maddix"
+      ]
+    },
+    {
+      "key": "26b2fc08d9a8db6769aa386acc3e5b20cfb55d60",
+      "title": "323 - John Kearns",
+      "published_at": "2020-01-16T22:02:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/323-johnkearns",
+      "description": "The only comic ever to have consecutively won Best Newcomer and Best Show at the Edinburgh Fringe, John Kearns is a master at finding pathos in the prosaic, combining clowning and standup in a way that makes absolutely no sense written down. With influences from Jacques Tati to Neil Hamburger, we explore his sense of place within himself, overreaching in his writing, and ambition in his career... Thirty minutes of extra content available exclusively to members of the Insiders Club includes John's brilliant technique for underpinning all his material with genuine pathos, and delves into writing for Harry Hill, meeting Chris Morris, and how the spotlight can burn... @johnsfurcoat Get tickets for Stu's tour : 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b560.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/323-johnkearns/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70135225",
+      "itunes_duration": "1:13:03",
+      "speakers": [
+        "John Kearns",
+        "Best Newcomer",
+        "Jacques Tati",
+        "Neil Hamburger",
+        "Harry Hill",
+        "Chris Morris",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "kearns"
+      ]
+    },
+    {
+      "key": "29a207a4dd9a00a05b3e5c0fdfbe3d21fd6d1037",
+      "title": "Conan Debrief",
+      "published_at": "2020-01-08T00:17:43+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/conandebrief",
+      "description": "A semi-forensic vivisection of my Conan appearance and LA junket; a small reward for those of you inclined to learn more about the experience... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b567.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/conandebrief/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30658141",
+      "itunes_duration": "31:56",
+      "speakers": [
+        "Conan Debrief",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "conan",
+        "debrief"
+      ]
+    },
+    {
+      "key": "ef6abd6365facb61c4295127e302669a7847d6ad",
+      "title": "322 - Tom Basden",
+      "published_at": "2020-01-06T22:28:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/322-tombasden",
+      "description": "Returning to stand-up this month with a run at Soho Theatre, after many years working on other projects including his sitcom Plebs, Tom Basden is inventive and prolific, also handsome. We talk about the parallels between the superb musical comedy that won him Best Newcomer at the Edinburgh fringe and his new stand-up, discover Tom's English middle-class-ness and why he's very suited to telling some \"guys\" to \"calm down\", and explore whether his work ethic is pathological... Extras exclusively available to the Insiders Club include some really specific insight into the structuring and writing of Tom's sitcom \"Plebs\", and the dangers of mining real life events for comedy, and Stu railing at the injustice of how the TV sketch show \"Cowards\" didn't become better known. Join the Insiders Club at www.comedianscomedian.com/insiders Find details and tickets for Tom's imminent Soho Theatre run : 13/01/20 14/01/20 15/01/20 16/01/20 17/01/20 18/01/20 tombasden.com Get tickets for Stu's tour : 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b56e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/322-tombasden/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51338346",
+      "itunes_duration": "53:28",
+      "speakers": [
+        "Tom Basden Returning",
+        "Tom Basden",
+        "Best Newcomer",
+        "Soho Theatre",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "basden"
+      ]
+    },
+    {
+      "key": "6d4e109b4a0973fcbe6df677cdb68418a2f482fb",
+      "title": "321 Santa Claus (and Herbie Treehead)",
+      "published_at": "2019-12-19T22:06:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/321santaclaus-andherbietreehead-",
+      "description": "In this Christmas Special, we speak to the actual Santa Claus, via his little helper and confidant, consummate clown Herbie Treehead. Herbie is a phenomenal street-performer, known around the world for his joyful daftness, silly songs and funny bones. We talk about what his first Santa season means to him, and discover an enormously rich and respectful seam of kindness and good cheer. We also dive into Herbie's origins as a performer and his maverick work within vaudeville troupe Slightly Fat Features; learn how to steal a lorry; and reflect on the nature and cost of real performative risk... www.herbietreehead.info www.slightlyfatfeatures.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu's tour : 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Happy Christmas one and all. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b575.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/321santaclaus-andherbietreehead-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96579701",
+      "itunes_duration": "1:39:34",
+      "speakers": [
+        "Santa Claus",
+        "Herbie Treehead",
+        "Comcompod Happy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "santa",
+        "claus",
+        "herbie",
+        "treehead"
+      ]
+    },
+    {
+      "key": "a39dacfc40e1ece70fd40baa67081d9f956189ce",
+      "title": "320 - Flo & Joan",
+      "published_at": "2019-12-13T00:33:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/320-flo-joan",
+      "description": "Flo and Joan are a uniquely funny musical duo, with deadpan front-cloth patter rooted in their actual siblinghood. We talk about going from open mics to a special on Amazon Prime in just four years, get the inside story on their recent gig at the Royal Variety Performance, and learn why going viral makes you turn your phone off. We also discover what they learnt from the Canadian improv scene that underpins the whole shebang, and find out why shaking an egg is harder than it looks... Thirty minutes of extras exclusive to the Insiders Club include a directorial tip that helped them trend on twitter on their first opening weekend; the backstage story on the Nationwide telly adverts that blew up and resulted in death threats; a look at the devilishly cunning improv-style narrative structure that forms the backbone of their special; plus the girls' analysis of each other's strengths and weaknesses! And some burps. Join up today at www.comedianscomedian.com/insiders Tour info at floandjoan.com Soho Theatre run starts 13th Jan TW: @floandjoan | IG: @floandjoan Get tickets for Stu's tour : 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b57c.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/320-flo-joan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82475651",
+      "itunes_duration": "1:24:53",
+      "speakers": [
+        "Soho Theatre",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "joan"
+      ]
+    },
+    {
+      "key": "82b97dc3df1006f00126401f4aa0c66e400495f3",
+      "title": "319 - Tim Renkow",
+      "published_at": "2019-12-05T10:05:35+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/319-timrekow",
+      "description": "Star of his own sitcom \"Jerk\" (BBC) and a gleefully discomforting stand-up, Tim Renkow makes his point with devastating wit. We talk about how people's exploitation of Tim's physical vulnerability has shaped his outlook and work, learn how his dispassion towards his audience's reaction makes him a stronger comic, and find out why he would rather be alone in a wood with a shotgun. Content warning: strong language and discussion of sexual abuse. Members of the Insiders Club can enjoy 20 mins of extra content with Tim giving us his analysis of the four types of Edinburgh fringe shows, precisely why he doesn't like award-winning shows, and what great idea he only tried saying on stage once... All of that, plus all the extras from every show which has them, exclusively available to members of the Insiders Club. Join today at www.comedianscomedian.com/insiders FB: TimRenkowcomedy | TW: @TimRenkowComedy Get tickets for Stu's tour : 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod *NEW* Check out Stu's new corporate resilience training monolith at www.comedyinsights.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b583.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/319-timrekow/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74004454",
+      "itunes_duration": "1:16:04",
+      "speakers": [
+        "Tim Renkow",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "renkow"
+      ]
+    },
+    {
+      "key": "564105ce692792952f48505a31554b24162d3ad5",
+      "title": "318 - Neil Hamburger (Gregg Turkington)",
+      "published_at": "2019-11-28T19:17:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/318-neilhamburger-greggturkington-",
+      "description": "\"America's Funnyman\" Neil Hamburger is the disturbing comic creation of Gregg Turkington; deeply funny, vile and poignant in equal measure. Ordinarily reluctant to talk about his alter-ego, Gregg gradually uncovers his love for outsider art, and the qualities he considers genius. We learn about the origins of Neil in prank phone calls and fake live shows, the comedy he can't stand and why, and the utterly original concept behind his live albums. Over 30mins of extra content available exclusively to members of the Insiders Club include Gregg on being booed onto the stage supporting Tenacious D at Reading Festival, and how it meant no more to him than a crowd at Madison Square Garden chanting his name! We also learn the surprising basis to whom he won't attack and why, and find out why he considers interviews pointless... Support the show today with a recurring donation and receive your access to the Insiders Club private podcast at www.comedianscomedians.com/insiders www.americasfunnyman.com | @NeilHamburger Get tickets for Stu's tour : 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Weirdos Save Christmas Content Web Series from Turtle Canyon #ContentWebSeries Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b58a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/318-neilhamburger-greggturkington-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83201906",
+      "itunes_duration": "1:26:40",
+      "speakers": [
+        "Gregg Turkington",
+        "Comcompod Weirdos Save",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "neil",
+        "hamburger",
+        "gregg",
+        "turkington"
+      ]
+    },
+    {
+      "key": "0b0a4d15b6b00b88a211fe0857dc0c4758f4c346",
+      "title": "317 - Matt Besser",
+      "published_at": "2019-11-14T23:53:20+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/317-mattbesser",
+      "description": "Inspirational, irascible and as talented an improvisor as you could invent, Matt Besser is the kind of stand-up who can skilfully weave a set live on TV. He is also constantly referred to as a co-founder of the enormously significant Upright Citizens Brigade, which arguably serves him right for co-founding it. We take a deep dive into the genesis of the Chicago improv scene, learn about Del Close and his influence on everything that was to follow, and argue about Keith Johnstone. Matt also dissects his own bad habits in improv, ponders the relativity of success, and identifies the one type of comic he won't perform with... Matt Besser's brand new stand-up special \"Pot Humour\" is out now on Apple/iTunes, Amazon, DirectTV VOD, Spectrum VOD, Xbox and pretty much every VOD platform you might use. His podcast Improv4Humans is available wherever podcasts are found. www.mattbesser.com TW: @mattbesser | IG: @mattbesser Get tickets for Stu's tour : 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b591.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/317-mattbesser/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90023159",
+      "itunes_duration": "1:32:45",
+      "speakers": [
+        "Matt Besser",
+        "Del Close",
+        "Keith Johnstone",
+        "DirectTV Vod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "matt",
+        "besser"
+      ]
+    },
+    {
+      "key": "869d4196a9af18178a91bc4adb80793f0b3a547d",
+      "title": "316 - Carl Hutchinson",
+      "published_at": "2019-11-08T11:09:14+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/316-carlhutchinson",
+      "description": "Combining all the best elements of a DIY approach to touring, a powerhouse comic ability, and some ridiculous positivity of mind, Carl Hutchinson is on the up. We talk about relatability, rooting your material in your own embarrassment and some nifty tricks to conceal your observations as something else. We also get stuck into some of the notable missteps that glance off his robust sense of self, and explore how Carl copes with being regarded by some as the sidekick to a higher profile act... Sign up for the Insiders Club at www.comedianscomedian.com/insiders to get access to all the extra content from any episode that has it, plus loads of extra stuff on a special private podcast! carlhutchinson.net | @CPHutchinson Tickets and info for Carl's tour Get tickets for Stu's tour : 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b598.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/316-carlhutchinson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78836067",
+      "itunes_duration": "1:21:06",
+      "speakers": [
+        "Carl Hutchinson",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "carl",
+        "hutchinson"
+      ]
+    },
+    {
+      "key": "de9dff5cb57c92ffb224fdba88ea151912c80c0d",
+      "title": "315 - Chris Fleming",
+      "published_at": "2019-10-31T23:32:56+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/315-chrisfleming",
+      "description": "YouTube-famous glam-rock showpig Chris Fleming has amassed a legion of fans through his brilliantly funny music videos, such as \"I'm Afraid To Talk To Men\", \"Grad-Student Shuffle\" and \"Polyamorous\". We talk about how he found himself drowning in stand-up, and clawed his way back to shore through developing his live work for the internet. We also discuss proving one isn't \"a YouTuber\", the \"restrictive freedom\" of comedy, and whether he's a real pariah or just a wannabe... 30mins of extra content available exclusively to members of the Insiders Club includes Chris on his contemporaries from the early days and what it feels like now there are \"more freaks than bros\" in comedy; his mantra for self-confidence; some more powerful insights into the nature of online comedy; and what he'd do if the internet broke. Join today at www.comedianscomedian.com/insiders Chris Fleming on YouTube | chrisflemingfleming.com FB: chrisflemingfleming | IG: @chrisflemingfleming | TW: @chrisfluming Get tickets for Stu's tour : 04/11/19 Nottingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b59f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/315-chrisfleming/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65675785",
+      "itunes_duration": "1:07:23",
+      "speakers": [
+        "Chris Fleming",
+        "Nottingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "chris",
+        "fleming"
+      ]
+    },
+    {
+      "key": "171b520eda708d66baad3b21c4cdbc3260e02206",
+      "title": "314 - Jimeóin",
+      "published_at": "2019-10-24T22:45:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/314-jimeoin",
+      "description": "A captivating comic with enormous mass appeal, Jimeoin has built a career across the UK and Australia, dancing lightly through absolute silliness and rock solid punchlines. We talk backstage after his barnstorming Edinburgh show about harnessing daftness, the creative benefits of sitting alone in a dark room and how easy it is to become a monster when you get your own TV show at 24 years old... Sign up for the Insiders Club at www.comedianscomedian.com/insiders to get access to all the extra content from any episode that has it, plus loads of extra stuff on a special private podcast! www.jimeoin.com | @jimeoin Get tickets for Stu's tour : 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5a6.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/314-jimeoin/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78613287",
+      "itunes_duration": "1:20:52",
+      "speakers": [
+        "Nottingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2662b485e141a2e0b34c843c7adf5d756e9aff7c",
+      "title": "313 - The Kagools",
+      "published_at": "2019-10-21T21:29:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/313-thekagools",
+      "description": "Multiple international award-winning physical comedy duo The Kagools are an explosion of pure silliness, that don't conform even to the \"rules\" of contemporary clowning, let alone straight standup. Double-act Nicky Wilkinson and Claire Ford describe their amazingly supportive relationship, and outline the highs and lows of a life under lightweight waterproof material... Sign up for the Insiders Club at www.comedianscomedian.com/insiders to get access to all the extra content from any episode that has it, plus loads of extra stuff on a special private podcast! www.thekagools.com | @TheKagools Get tickets for Stu's tour : 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction www.comedianscomedian.com | @Comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5ad.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/313-thekagools/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69115587",
+      "itunes_duration": "1:10:58",
+      "speakers": [
+        "Nicky Wilkinson",
+        "Claire Ford",
+        "Nottingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kagool"
+      ]
+    },
+    {
+      "key": "3e906c4b0ce98c5b36b7f6fc3f7598b7b0d3edbb",
+      "title": "312 - \"Zach and Viggo\" and Jonny Woolley",
+      "published_at": "2019-10-10T21:11:48+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/312-zachandviggoandjonnywoolley",
+      "description": "Zach Zucker and Viggo Venn and their permanent director and co-creator Jonny Woolley are like a mainline injection of a comedy drug that hasn't been invented yet. This trio has been around the world four times at some disgustingly young age, winning awards and crazed fans, and revelling in mistakes, misadventures and madness. We talk about their first Edinburgh and how they snatched victory from the jaws of a 10 month old baby, explore their solo work, including Zach's \" Jack Tucker \" character and his unique relationship with live direction and sound cues, and discuss breaking the rules, winding the Late N Live audience up on purpose, and getting good at being bad. You get the whole 90 min interview in this episode, but you can sign up for the Insiders Club at www.comedianscomedian.com/insiders to get access to all the extra content from any episode that has it, plus loads of extra stuff on a special private podcast! Discover more on Zach and Viggo at www.zachandviggo.com www.stamptowncomedy.com @zach_viggo Find Stu's tour dates at www.comedianscomedian.com/tour 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 11/02/20 York – The Basement 12/02/20 Leeds – Hyde Park Book Club 28/02/20 Cambridge Junction Hi Davy, I respect you. comedianscomedian.com | @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5b4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/312-zachandviggoandjonnywoolley/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105173366",
+      "itunes_duration": "1:48:32",
+      "speakers": [
+        "Jonny Woolley",
+        "Zach Zucker",
+        "Viggo Venn",
+        "Jack Tucker",
+        "Find Stu",
+        "Nottingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "zach",
+        "viggo",
+        "jonny",
+        "woolley"
+      ]
+    },
+    {
+      "key": "fc7a3f58dc980fb818f2d561e38f31af5ae194e7",
+      "title": "311 - Sofie Hagen",
+      "published_at": "2019-10-03T16:17:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/311-sofiehagen",
+      "description": "Sofie Hagen is a remarkable comedian, who is arguably better known at present for her activism than her excellent work in comedy. We talk about the incredible think-tank of the small Danish circuit where she started out, and the toxicity she discovered therein; her insightful analysis of how \"losers win\" at the Edinburgh festival; the dual purpose of having gender neutral toilets at her shows; and get stuck into some very frank discussion of the social activism element of her profile... and exactly what it's cost her. 45 mins of extra material available exclusively to the Insiders Club includes her opening gambit of reading all the comedy books, and how her process features infinite whiteboards and structural skeletons. We also dive into the delicate balance between trauma, therapy and confessional shows, and the mistake she made that she was too late in noticing to fix... All available now at www.comedianscomedian.com/insiders Tickets and info for Sofie's current tour can be found HERE . sofiehagen.com | @SofieHagen Catch the second leg of Stu's \"End Of\" tour show: 05/10/19 Edinburgh Stand (early show – 5pm) 06/10/19 Aberdeen Comedy Festival 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction comedianscomedian.com | @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5bb.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/311-sofiehagen/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80586476",
+      "itunes_duration": "1:22:55",
+      "speakers": [
+        "Sofie Hagen",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sofie",
+        "hagen"
+      ]
+    },
+    {
+      "key": "6d241500fa0c2806ec41ddcaf863609063867b8e",
+      "title": "310 - Sara Barron",
+      "published_at": "2019-09-26T16:01:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/310-sarambarron",
+      "description": "Sara Barron is a relentlessly honest and desperately funny comic, relating brutal and sometimes filthy truths in a warm and welcoming way. We talk about how her background in the storytelling organisation \"The Moth\" showcases her innate skill with story structure, and cover starting comedy late, starting comedy twice, and why the audacity to admit your book might suck is a powerful weapon... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders sarabarron.com | @sarabarron Catch the second leg of Stu's \"End Of\" tour show: 05/10/19 Edinburgh Stand (early show – 5pm) 06/10/19 Aberdeen Comedy Festival 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction comedianscomedian.com | @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5c2.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/310-sarambarron/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84557925",
+      "itunes_duration": "1:27:03",
+      "speakers": [
+        "Sara Barron",
+        "sarabarron Catch",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sara",
+        "barron"
+      ]
+    },
+    {
+      "key": "d5b209312ecc78fdda1e8b2a149cc952cbc2d804",
+      "title": "309 - Randy (Heath McIvor)",
+      "published_at": "2019-09-22T16:30:07+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/309-heathmcivor",
+      "description": "An exclusive conversation with the man behind (and underneath) \"Randy\", a searingly honest, multi-layered and genuinely brilliant standup comedian who happens to be a purple felt puppet. A multiple international award-winner and nominee, Heath has never felt comfortable talking as himself, but finally gave into Stu's overtures at Just For Laughs Montreal. We talk about the gap between truth and fiction, vulnerability and addiction, and what it feels like to expose your true self whilst staying hidden. 30mins of extra content available to members of the Insiders Club include Randy's secret origins (fictional and actual), how Heath writes a show in a week, the confessional element of his show \"Randy Is Sober\", and what it looks like under whatever Randy is appearing on top of... Join now at www.comedianscomedian.com/insiders @RandyFeltface | feltface.com Catch the second leg of Stu's \"End Of\" tour show: 05/10/19 Edinburgh Stand (early show – 5pm) 06/10/19 Aberdeen Comedy Festival 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction The excellent Roast Battle Podcast with Stu squaring off against Dave Hill (episode 41) can be found HERE comedianscomedian.com | @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5c9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/309-heathmcivor/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69695715",
+      "itunes_duration": "1:11:34",
+      "speakers": [
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Comedy Box",
+        "Dave Hill",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "randy",
+        "heath",
+        "mcivor"
+      ]
+    },
+    {
+      "key": "3ad88b3fe2521fbc4af713f5fe2c21d08cbffe93",
+      "title": "308 - Ellie Taylor",
+      "published_at": "2019-09-10T11:38:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/308-ellietaylor",
+      "description": "Host of Live at the Apollo, and with her own Netflix special under her belt, not to mention The Mash Report and appearances on QI and Mock The Week, Ellie Taylor is a born comedian who revels in the dynamic between glamour and grotesque. We discuss her unique introduction to comedy via reality show, how her happy life outside of comedy protects her, the weird science of writing and why she \"can't do clever topics\"... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Ellie is on tour with her new show \"Don't Got This\" from 26th September, get tickets and info here: https://www.livenation.co.uk/artist/ellie-taylor-tickets www.ellietaylorcomedy.com | @elliejanetaylor Catch the second leg of Stu's \"End Of\" tour show: 05/10/19 Edinburgh Stand (early show – 5pm) 06/10/19 Aberdeen Comedy Festival 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction comedianscomedian.com | @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5d0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/308-ellietaylor/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83949795",
+      "itunes_duration": "1:26:25",
+      "speakers": [
+        "Ellie Taylor",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ellie",
+        "taylor"
+      ]
+    },
+    {
+      "key": "8c2d0b548adde292479313bb0d81ca29eb049210",
+      "title": "307 - Rob Auton",
+      "published_at": "2019-09-05T18:59:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/307-robauton",
+      "description": "Rob Auton is a revelation; a comic like no other. His superbly funny and intensely thoughtful shows take a single topic like \"Hair\", \"Time\", or \"Sleep\" and dig for real meaning in those concepts, to hilarious and even profound effect. We talk about his love of thinking, the poetry in a football pass, the collaging skills of Kanye West, and why comedy really does mean the world to him. 30 mins of extra content available to members of the Insiders Club include some emotional reflection on mental health, masculinity and sensitivity. Not to be missed, and available only to subscribers at www.comedianscomedian.com/insiders , along with all other extra content from every episode that has it... robauton.co.uk | @RobertAuton Dates and tickets for my forthcoming tour can be found here . @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5d7.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/307-robauton/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83177403",
+      "itunes_duration": "1:25:37",
+      "speakers": [
+        "Rob Auton",
+        "Kanye West",
+        "RobertAuton Dates",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "auton"
+      ]
+    },
+    {
+      "key": "469b95d1ecf5b92403d2fb7e88b7e5d4335a71e0",
+      "title": "306 - Joz Norris (Live at Edfringe 2019)",
+      "published_at": "2019-08-29T21:05:34+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/306-joznorris",
+      "description": "Winner of the 2019 \"Comedian's Choice\" award for Best Show, as voted for by fellow comics, Joz Norris is an imaginative and very funny mainstay of the UK's alternative comedy scene. He talks live at the Monkey Barrel comedy club about his character \"Mr Fruit Salad\", and how an attempt to fall back in love with comedy and the fringe after a period of exhaustion, resulted in the creation of a fictional chimera as a form of self-care... Join the Insiders Club at www.comedianscomedian.com/insiders to access extra material from any podcast that has it, plus loads of extra strands that Stu can get back into creating, now that Edinburgh is paid to rest for a few months... joznorris.co.uk | @JozNorris Dates and tickets for my forthcoming tour can be found here . @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5de.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/306-joznorris/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67441659",
+      "itunes_duration": "1:09:13",
+      "speakers": [
+        "Joz Norris",
+        "co uk",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "norris",
+        "edfringe"
+      ]
+    },
+    {
+      "key": "293307509bb2e69fc627ef481bf1df41e407cf5c",
+      "title": "305 - Suzi Ruffell",
+      "published_at": "2019-08-18T09:24:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/305-suziruffell",
+      "description": "Flawless in delivery, bubbling over with jokes, and with something real and compassionate to say, Suzi Ruffell is at the peak of her powers. We talk about: her latest Edinburgh fringe show \"Dance Like Everyone's Watching\"; making sure that LGBTQ+ people in the audience feel seen; how punishing she found being a new act (and whether she could do it all again); and why she finds happiness terrifying. Extras available exclusively to members of the Insiders Club include Suzi on her dos and don'ts of tour support, having worked extensively with Josh Widdicombe, Romesh Ranganathan and Kevin Bridges, as well as her thoughts on what makes a good director, and the best advice she was ever given... Go to www.comedianscomedian.com/insiders to support the podcast with a regular monthly donation of your choice. Every level gets the same stuff, you pay what you think is appropriate. suziruffell.com | @suziruffell Get tickets for Suzi's Edinburgh show here Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5e5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/305-suziruffell/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64368825",
+      "itunes_duration": "1:06:01",
+      "speakers": [
+        "Suzi Ruffell",
+        "Josh Widdicombe",
+        "Kevin Bridges",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "suzi",
+        "ruffell"
+      ]
+    },
+    {
+      "key": "56707fc93f3cfe09a543dda117bf80b2fbf6e0f8",
+      "title": "304 - Vikki Stone",
+      "published_at": "2019-08-05T17:39:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/304-vikkistone",
+      "description": "Vikki Stone is a polymentalist, which is like a polymath for instruments. You'll all be using it soon... Combining pinpoint observations with an innate compositional ability, not to mention all those tangible musical skills, she's underscoring set-ups and key-changing punchlines until your ribs hurt. We talk about side-hustles, captivity and the tricks of the trade, and find out why you're wrong about panto... Tickets for Vikki's show Song Bird at the Ed Fringe www.vikkistone.com | @VikkiStone Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5ec.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/304-vikkistone/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85353301",
+      "itunes_duration": "1:27:53",
+      "speakers": [
+        "Vikki Stone",
+        "Song Bird",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "vikki",
+        "stone"
+      ]
+    },
+    {
+      "key": "ff77d4a1885c8168cb2818a8e1f18997c3791fbc",
+      "title": "303 - Pete Holmes (Live at Just For Laughs Montreal)",
+      "published_at": "2019-07-30T13:44:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/peteholmes-liveatjustforlaughsmontreal-",
+      "description": "The giddily funny star of Crashing, You Made It Weird and his eponymous sketch and chat show, Pete Holmes lets his effervescent personality bubble over from the word go. We talk about his unerring ability to make the insanity of existence as funny as it is accessible, uncover how to embrace the coolness of uncoolness, and basically learn the meaning of life. This one is just amazing, enjoy! peteholmes.com | @peteholmes Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5f3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/peteholmes-liveatjustforlaughsmontreal-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66739524",
+      "itunes_duration": "1:08:29",
+      "speakers": [
+        "Pete Holmes",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "pete",
+        "holmes",
+        "laughs",
+        "montreal"
+      ]
+    },
+    {
+      "key": "fe4262495b9b61546c2e3c5dd5d2bb02683f8407",
+      "title": "302 - Jayde Adams (Live at Southend Comedy Festival)",
+      "published_at": "2019-07-23T13:07:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/302-jaydeadams-liveatsouthendcomedyfestival-",
+      "description": "Jayde Adams is a superstar in waiting; talented, highly driven and with an honesty which makes audiences fall in love with her. We talk about her turbulent early life in the shadow of her late sister, discover how an inflatable church led her to her calling, and hastily bleep an enormous amount of libel... Don't miss Jayde in Edinburgh this year: The Ballad of Kylie Jenner's Old Face @JaydeAdams Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b5fa.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/302-jaydeadams-liveatsouthendcomedyfestival-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72030852",
+      "itunes_duration": "1:14:00",
+      "speakers": [
+        "Jayde Adams",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jayde",
+        "adams",
+        "southend",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "9c77ff7217f914137c55e25be592742d93ed946f",
+      "title": "301 - Simon Brodkin",
+      "published_at": "2019-07-17T19:26:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/301-simonbrodkin",
+      "description": "Simon Brodkin was best known as his comedy character \"Lee Nelson\", before handing Teresa May a P45, throwing money at Sepp Blatter, and invading Kanye's headline spot at Glastonbury. This former doctor with an impressive gag-rate and work ethic, now embarks on an even more challenging caper: playing himself. A new stand-up show sees him flex his joke-writing muscles in the pursuit of exploring his real life... but does he want to be himself? Extras include Simon's blagger's guide to getting backstage at the world's biggest festival, reflections on the targets of his mockery and the challenges involved in gradually moving away from Lee step by step... Sign up for the Insiders Club at www.comedianscomedian.com/insiders to get access to ad-free new episodes, bonus content from interviews and much more. @SimonBrodkin Simon Brodkin brings his show 100% Simon Brodkin to The Pleasance Baby Grand as part of the Edinburgh Festival Fringe from 1st – 24th August at 9.30pm. More info and tickets available at edfringe.com Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com And many thanks to The Comedy Store for the recording space. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b601.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/301-simonbrodkin/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72488756",
+      "itunes_duration": "1:15:30",
+      "speakers": [
+        "Simon Brodkin",
+        "Lee Nelson",
+        "SimonBrodkin Simon Brodkin",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "simon",
+        "brodkin"
+      ]
+    },
+    {
+      "key": "89cac0a0489913a31c6984645b2dc4097d0ba5c4",
+      "title": "300 - Stuart Goldsmith",
+      "published_at": "2019-07-09T11:50:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/300-stuartgoldsmith",
+      "description": "Comedian, former street-performer and popular podcast host, Stu Goldsmith is a charming but tortur- Oh god I can't fake this, it's me isn't it? It's bloody ME! Your fearless interviewer has the tables turned as he sits down to be interviewed by ComCom fans Sarah Millican , Tom Allen and Sindhu Vee , and fields questions from listeners including James Acaster , Nish Kumar , Ricky Gervais , Brett Goldstein , Herbie Treehead, Josh Widdicombe , Fern Brady and Nathaniel Metcalfe , as well as those sent in by you the listener via the ComCom Facebook page . It was quite bruising but he enjoyed it. @ComComPod @StuGoldsmith www.comedianscomedian.com www.stuartgoldsmith.co.uk The rushes from the three main interviews are available soon from www.comedianscomedian.com/insiders , along with all the extra material from any episode which has ever had extras attached! Come and see Stu's work-in-progress show \"Primer\" at the Edinburgh Fringe at Monkey Barrel, who appear to have cheekily grabbed www.thefringe.com www.thefringe.co.uk and www.fairfringe.com But you can find Stu's details here: https://tickets.edfringe.com/whats-on/stuart-goldsmith-primer-wip Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b608.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/300-stuartgoldsmith/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118090872",
+      "itunes_duration": "2:02:59",
+      "speakers": [
+        "Stu Goldsmith",
+        "Sarah Millican",
+        "Tom Allen",
+        "Sindhu Vee",
+        "James Acaster",
+        "Ricky Gervais",
+        "Brett Goldstein",
+        "Herbie Treehead",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stuart",
+        "goldsmith"
+      ]
+    },
+    {
+      "key": "a6a46b2b6f297730635f11cf3dc6dc113e7dfb99",
+      "title": "299 - Sam Jay",
+      "published_at": "2019-07-01T18:47:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/299-samjay",
+      "description": "Your interviewer didn't really grasp the American term to \"murder\" a room, until he caught Sam Jay's set at SXSW Comedy earlier this year, in which she smashed the audience senseless with her unique perspective on race, sexuality and society. A breath-taking combination of unerring confidence, hammer-blow punchlines and genuine insight will see her reaching incredible heights in comedy. We talk about Boston, LA and New York, and why she has no time for comics who want to be adored. samjaycomic | @samjaycomic Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Thanks to www.sohotheatre.com for the recording space, don't forget to check out their brilliantly varied lineups of the cream of international comedy. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b60f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/299-samjay/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30951730",
+      "itunes_duration": "1:02:26",
+      "speakers": [
+        "Sam Jay",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": []
+    },
+    {
+      "key": "4a38ac83bee8b0ec86e53d48bc68039be8254ca5",
+      "title": "298 - Nick Revell",
+      "published_at": "2019-06-25T00:17:55+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/298-nickrevell",
+      "description": "Present at the opening night of the London Comedy Store, Nick Revell has been performing satirical, political and absurd standup for four decades. After a ten year break to write for TV, including on topical sitcom \"Drop The Dead Donkey\", he humbly returned to the open mic circuit to relearn his craft, and shares his unique perspective on how things had changed in that time, on stage, in audiences and in green rooms. We talk about the benefit of sleepless nights, his new narrative shows, and whether after nearly forty years he's finally found his voice... 25mins of extra material available exclusively to members of the Insiders Club include Nick on the excess of the early days of the Store, and some brilliant technical advice on how to absorb an instinct for the shape of a joke... sign up at www.comedianscomedian.com/insiders www.nickrevell.com | @TheNickRevell And go and see Nick's brilliantly titled Fringe show: \"Nick Revell: Eurasia’s Most Eligible Psychopaths and Their Lovely Homes\" Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b616.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/298-nickrevell/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64794125",
+      "itunes_duration": "1:07:29",
+      "speakers": [
+        "Nick Revell",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "revell"
+      ]
+    },
+    {
+      "key": "3c095f948f4697d6c660c751421b8fd5c61738a3",
+      "title": "297 - Paul Smith",
+      "published_at": "2019-06-18T18:33:01+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/297-paulsmith",
+      "description": "Almost certainly the comedian with the most online content in the world, Paul Smith has uploaded over 1000 short clips of his crowdwork at Liverpool's Hot Water Comedy Club, and caught a wave of success he could never have imagined. We talk about the moment he nearly lost control of his 8000-strong hometown arena show, why he doesn't want or need TV exposure, and how he feels about the prospect of being credited as the originator of certain stock material and structures... 30mins of extras available by joining the Insiders Club at www.comedianscomedian.com/insiders including Paul's advice for comics aiming to follow in his footsteps, his very early TV work in a standup competition, and how he manages to retain his resistance to pressure. Paul's Youtube clips | @paulisthejoker | Paul's upcoming Hot Water gigs Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b61d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/297-paulsmith/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72602619",
+      "itunes_duration": "1:14:36",
+      "speakers": [
+        "Paul Smith",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "smith"
+      ]
+    },
+    {
+      "key": "edf94e8acc67ae8c064d45b3d33178af77d4cce6",
+      "title": "296 - Markus Birdman",
+      "published_at": "2019-06-11T01:06:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/296-markusbirdman",
+      "description": "A multi-media artist, fascinated with language, rhythm, and combining jokes with drawing, Markus Birdman also isn't above a dick joke. Aiming for “high octane and no gaps”, with routines composed like a drum solo, we uncover his volatile relationship with his father and his father's God, the stroke that he almost mistook for a hangover, and wanting to be angry as a means of self-definition. 30 mins of extras from this episode are available at www.comedianscomedian.com/insiders , including Markus on survivor's guilt, the shot at the top that he might have missed, whether you can fake greatness in comedy, and a short sharp strategy for overcoming writer's block... www.markusbirdman.co.uk | @birdmanwatching Tickets for Markus' Ed Fringe show Last White Christmas Tickets for my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b624.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/296-markusbirdman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69900099",
+      "itunes_duration": "1:11:47",
+      "speakers": [
+        "Markus Birdman",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "markus",
+        "birdman"
+      ]
+    },
+    {
+      "key": "a1ec24b8185201c78af636bb683a364a7f469267",
+      "title": "295 - Russell Hicks",
+      "published_at": "2019-06-03T19:26:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/295-russellhicks",
+      "description": "I said it and I'm sticking with it: Russell Hicks is a risk-taking ball of fire. Making a conscious choice to bet the house on every gig, he eschews material in favour of 100% riffing, with explosive results. We explore the economic consequences of approaching a set like a game of pinball in an industry based on reliability, dig into his use of comic muscle memory, and find out why he paints on a cave wall and not a canvas... Extra material available exclusively to members of the Insiders Club includes Russell on why he chose the UK over America, how it felt to be told he wouldn't succeed whilst succeeding, and the suggestion other comics always make to him... and why he ignores it. Join up at www.comedianscomedian.com/insiders Find Russell's comedy album, consisting of three different hours recorded in Edinburgh 2016 at www.russellhicks.co.uk See my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b62b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/295-russellhicks/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85777114",
+      "itunes_duration": "1:28:19",
+      "speakers": [
+        "Russell Hicks",
+        "Find Russell",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "russell",
+        "hicks"
+      ]
+    },
+    {
+      "key": "932ddc57c3bf975ef1ccd4082570eada38f9f88e",
+      "title": "294 - Ahir Shah",
+      "published_at": "2019-05-28T18:31:16+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/294-ahirshah",
+      "description": "In the hands of a lesser comic, Ahir Shah's ambitions towards political discourse might seem lofty, but this agile act has the punchlines to back them up. We explore how he sees one-liners as \".zip\" files, using punchy gags into which he's compressed huge ideas, and learn how he attempts to safeguard his precarious mental health, particularly with regard to the loneliness of the job. 20 mins of extra content available exclusively to members of the Insiders Club includes Ahir on his survival tips for small scale touring, the strategy behind his switch from the free to the paid fringe this year, and the thought he'll keep in mind when appearing shortly on \"Have I Got News For You\". Go to www.comedianscomedian.com/insiders to access the private podcast with all extra content plus \"Comedy Critique\", in which the Insiders collaborate on feedback to newer comics! Tickets and details of Ahir's Fringe show ahirshah.com | @AhirShah See my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com www.theirworld.org | www.educationcannotwait.org Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b632.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/294-ahirshah/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77109708",
+      "itunes_duration": "1:20:19",
+      "speakers": [
+        "Ahir Shah",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ahir",
+        "shah"
+      ]
+    },
+    {
+      "key": "74e1121bdee6a047601479f89b75de73082e7a06",
+      "title": "293 - Andi Osho",
+      "published_at": "2019-05-22T07:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/293-andiosho",
+      "description": "Burning amazingly brightly on the UK TV comedy scene a few years ago, Andi Osho seemed to have the world at her feet. But something was wrong; she became physically and mentally exhausted and felt increasingly detached from her onstage persona. Now starring in “Curfew” on Sky, we talk about the warning signs she saw and missed, why she wouldn't do another panel show if she returned to standup, and whether it's easier or harder to be depressed in L.A. Over 20mins of extra material available exclusively to members of the Insiders Club includes Andi on the workshops, courses and ontological studies she's experienced, the limitations of standup, and finding authentic ways to give back to the world. Join up at www.comedianscomedian.com/insiders www.andiosho.co.uk | @andiosho | @theandioshow See my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b639.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/293-andiosho/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68252081",
+      "itunes_duration": "1:10:04",
+      "speakers": [
+        "Andi Osho",
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andi",
+        "osho"
+      ]
+    },
+    {
+      "key": "4bbae3b5c77bc8501be0eb84162ba62dfe144b22",
+      "title": "292 - JOSH WIDDICOMBE RETURNS (Live at Machynlleth Comedy Festival)",
+      "published_at": "2019-05-13T21:28:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/292-joshwiddicombereturns-liveatmachynllethcomedyfestival-",
+      "description": "Six years after his first appearance, Josh returns for a textbook ComCom conversation about his creative development since then! We get even further into the minutiae of his writing and structuring process and what makes a perfect observation, plus some spicy celebrity gossip about Taskmaster and the secret of his rebooking success on the Graham Norton Show! Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Find tickets to Josh's new tour here . www.joshwiddicombe.com | @joshwiddicombe See my show Primer at this year's Edinburgh Fringe @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b640.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/292-joshwiddicombereturns-liveatmachynllethcomedyfestival-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65010024",
+      "itunes_duration": "1:06:41",
+      "speakers": [
+        "Edinburgh Fringe ComComPod",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "return",
+        "machynlleth",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "2e3a3fab23cfdf4b7cc1d829a0ebad6d6ea4cc35",
+      "title": "291 - Bec Hill",
+      "published_at": "2019-05-07T20:29:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/291-bechill",
+      "description": "Beloved of her fans, and radiating a genuine adoration for people, Bec Hill fizzes with comic creativity. We talk about how she lost and refound her sense of play, and explore the relationship between her faith, her self-critical voice and her work. We also cover the difference between a nerd, a geek and a dork; and talk fringe shows, flipcharts and whether she peaked at Piaf... Extra material exclusively available to members of the Insiders Club includes: Her biggest challenge with social media and the surprising reason she no longer posts jokes How Bec dealt with a new act reproducing a very specific aspect of her style and what she fears from big business Bec and Stu share some more private stuff about what success means to us both. Sign up now at www.comedianscomedian.com/insiders See Bec at this year's Ed Fringe here www.bechillcomedian.com | @bechillcomedian See my show at Soho Theatre between 9th-11th May And come and see me at the Ed Fringe @ComComPod | www.comedianscomedian.com This episode was recorded at The Cheese Comedy Club, Bristol www.facebook.com/thecheesecomedyclub/ | cheesecomedy.club | @cheese_comedy Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b647.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/291-bechill/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74033946",
+      "itunes_duration": "1:17:07",
+      "speakers": [
+        "Bec Hill",
+        "How Bec",
+        "Ed Fringe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hill"
+      ]
+    },
+    {
+      "key": "5d6764bf031297c9ec9d3ee797ad89bf41e248e8",
+      "title": "290 - Matt Braunger (Live at SXSW, Austin Texas)",
+      "published_at": "2019-04-29T21:12:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/290-mattbraunger-liveatsxsw-austintexas-",
+      "description": "A ray of hairy sunshine, Matt Braunger is one of those acts who pummels an audience with a constantly switching array of styles and techniques. Likened by Marc Maron to \"a puppy who won't let go\", he writes entirely on stage and chases universal emotion. We talk about happiness, faith, the importance of a point of view, shooting a sitcom in branches of IKEA, and tattooing a face on a scrotum. www.mattbraunger.com | @Braunger Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders See Stu at Machfest And at Soho Theatre between 9th-11th May @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b64e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/290-mattbraunger-liveatsxsw-austintexas-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66453189",
+      "itunes_duration": "1:08:12",
+      "speakers": [
+        "Matt Braunger",
+        "Marc Maron",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "matt",
+        "braunger",
+        "sxsw",
+        "austin",
+        "texas"
+      ]
+    },
+    {
+      "key": "bad91ea591cc9772d45a564e82ff4586646ee388",
+      "title": "289 - Deborah Frances-White",
+      "published_at": "2019-04-22T18:04:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/289-deborahfrances-white",
+      "description": "Creator and host of the Guilty Feminist podcast, Deborah Frances-White is a phenomenally energetic woman on a mission. A former Jehovah's Witness, she now leads her own army of followers, employing the machinery of business to liberate and entertain, and to inspire genuine activism. We explore how improv conquers repression, go into detail on the genesis of her extraordinary podcast and its roadmap for the future, and she exhorts the listener to make your own model. Extras available only to members of the Insiders Club include two incredible pieces of advice: one on how to pass pretty much any interview for anything, and the other on how as a comedian she nipped bitterness in the bud. Plus some truly brilliant coaching on why and how to create your own model for success.... Join now at www.comedianscomedian.com/insiders Her movie Say My Name is out on 23rd April, go to guiltyfeminist for tickets and details. deborahfrances-white.com | @DeborahFW | guiltyfeminist.com Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol - The Comedy Box at the Hen and Chicken 04/12/19 Aldershot - The West End Centre 25/01/20 Corsham - The Pound Arts Centre 01/02/20 Newcastle Stand (early show - 5pm) 02/02/20 Glasgow - The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction @comcompod | www.comedianscomedian.com Charity Gig... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b655.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/289-deborahfrances-white/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84431711",
+      "itunes_duration": "1:26:55",
+      "speakers": [
+        "Deborah Frances-White",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Farnham Maltings",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "deborah",
+        "frances"
+      ]
+    },
+    {
+      "key": "af94547d0eed01a0b07b3337166fb8b1edf64f5c",
+      "title": "288 - Chris Addison",
+      "published_at": "2019-04-16T21:29:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/288-chrisaddison",
+      "description": "Star of \"The Thick Of It\" and \"In The Loop\", and award-winning director of \"Veep\", comedian Chris Addison is the director of new feature film \"The Hustle\", starring Rebel Wilson and Anne Hathaway. We talk about his apprenticeship under Armando Iannucci, how he handles the very first day on set, and the difference between a perfect version and a useful vision... Extra material available exclusively to the Insiders Club includes Chris on the surprising secret weapon that made Veep a success, what technical department was so important to The Thick Of It, and why he never reads reviews... Sign up today at www.comedianscomedian.com/insiders mrchrisaddison.tumblr.com | @mrchrisaddison | The Hustle Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol - The Comedy Box at the Hen and Chicken 04/12/19 Aldershot - The West End Centre 25/01/20 Corsham - The Pound Arts Centre 01/02/20 Newcastle Stand (early show - 5pm) 02/02/20 Glasgow - The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction @comcompod | Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b65c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/288-chrisaddison/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78138909",
+      "itunes_duration": "1:20:22",
+      "speakers": [
+        "Chris Addison",
+        "Rebel Wilson",
+        "Anne Hathaway",
+        "Armando Iannucci",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Farnham Maltings",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "chris",
+        "addison"
+      ]
+    },
+    {
+      "key": "c5b5544aab46f8040d27423a786d8ecbb7122f2b",
+      "title": "287 - Eugene Mirman, Live at SXSW",
+      "published_at": "2019-04-08T18:00:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/287-eugenemirman",
+      "description": "One of the godfathers of alt-comedy, Eugene Mirman is an obsessive innovator of different forms through which to be funny; laminated signs, letters to councils, lectures on how to advertise shapes and his own ten year super-commitment to a joke, the \"Eugene Mirman comedy festival\". As well as talking about the drafting process behind his measured absurdism, we learn how he deals with his wife's illness - both in his personal life and on stage. www.eugenemirman.com | @EugeneMirman Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Book tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol - The Comedy Box at the Hen and Chicken 04/12/19 Aldershot - The West End Centre 25/01/20 Corsham - The Pound Arts Centre 01/02/20 Newcastle Stand (early show - 5pm) 02/02/20 Glasgow - The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction @comcompod | Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b663.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/287-eugenemirman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74063626",
+      "itunes_duration": "1:17:08",
+      "speakers": [
+        "Eugene Mirman",
+        "EugeneMirman Get ad-free",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Farnham Maltings",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "eugene",
+        "mirman",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "38ccdcf2e12c3baeb2f4413e4087d20fea62caf2",
+      "title": "286 - Sindhu Vee (Live at Podfest Birmingham)",
+      "published_at": "2019-04-01T22:25:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/286-sindhuvee-liveatpodfestbirmingham-",
+      "description": "A disciple of \"chaotic joy\", Sindhu Vee's rise to standup stardom is about as meteoric as they get; just a hop and a skip from the open mic circuit, to award nominations and appearances on \"QI\" and \"Have I Got News For You\". A cursory glance at this hyper-qualified former investment banker reveals an addiction to excellence and discipline. A self-identified \"graduate\" of this podcast, Sindhu opens up about the defining moment that launched this phase of her life, and celebrates the endless possibilities of self-belief. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders And see Sindhu on tour HERE . @sindhuvfunny | sindhuvee.com Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol - The Comedy Box at the Hen and Chicken 04/12/19 Aldershot - The West End Centre 25/01/20 Corsham - The Pound Arts Centre 01/02/20 Newcastle Stand (early show - 5pm) 02/02/20 Glasgow - The Stand Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b66a.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/286-sindhuvee-liveatpodfestbirmingham-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69746315",
+      "itunes_duration": "1:11:37",
+      "speakers": [
+        "Sindhu Vee",
+        "Leamington Spa Royal Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sindhu",
+        "podfest",
+        "birmingham"
+      ]
+    },
+    {
+      "key": "e8ed2661b7ab016628fb573a80099f19995c6694",
+      "title": "285 - Roy Wood Jr, Live at SXSW",
+      "published_at": "2019-03-26T13:41:49+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/285-roywoodjr-liveatsxsw",
+      "description": "Daily Show correspondent Roy Wood Jr is a socio-political powerhouse of a comedian, taking huge topics about race and community and making them hilarious and relatable. We go into detail on the development of some of his favourite routines, discover how he finds the funny in murderously serious topics, and examine the sense of responsibility that drives him. Extras available only to members of the Insiders Club include details on Roy's extraordinary methodology regarding waveforms, facial expression and inflection, as well as a scathing critique of his dietary habits by fellow Daily Show correspondent Ronny Chieng. Join now at www.comedianscomedian.com/insiders Watch Roy's latest special for free HERE www.roywoodjr.com | @roywoodjr Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol - The Comedy Box at the Hen and Chicken 04/12/19 Aldershot - The West End Centre 25/01/20 Corsham - The Pound Arts Centre 01/02/20 Newcastle Stand (early show - 5pm) 02/02/20 Glasgow - The... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b671.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/285-roywoodjr-liveatsxsw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69849955",
+      "itunes_duration": "1:11:44",
+      "speakers": [
+        "Roy Wood Jr",
+        "Ronny Chieng",
+        "Leamington Spa Royal Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "wood",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "a34ff0513fb87680ffeb54c9f4966b4d4bc375ce",
+      "title": "284 - Kathy Griffin, Live at SXSW, Austin Texas.",
+      "published_at": "2019-03-18T22:48:28+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/kathygriffin-liveatsxsw-austintexas-",
+      "description": "Grammy and double-Emmy winner Kathy Griffin holds the Guinness world record for most comedy specials: 23 shows packed with her trademark scathing wit and merciless celebrity takedowns. But in May 2017 a provocative promo image of her holding the severed \"head\" of President Donald Trump changed her life forever. We talk about how she survived having the machinery of state directed towards bullying her, when a Department of Justice investigation into \"conspiracy to assassinate the President\" led to her entire working life being cancelled. As you'll hear, the President's admitted attempt to \"decimate her life\" has only strengthened the resolve of this astonishingly powerful woman... We also talk about sexism, marketing, seizing the means of production, and banging Tarantino! Buy Fuck Trump merchandise and learn more about Kathy and her touring schedule at www.kathygriffin.com Kathy Griffin: A Hell of a Story | @kathygriffin | imdb Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b678.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/kathygriffin-liveatsxsw-austintexas-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84673701",
+      "itunes_duration": "1:27:10",
+      "speakers": [
+        "Kathy Griffin",
+        "Donald Trump",
+        "Buy Fuck Trump",
+        "Leamington Spa Royal Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kathy",
+        "griffin",
+        "sxsw",
+        "austin",
+        "texas"
+      ]
+    },
+    {
+      "key": "c01a3e1f47db51a660fe86adab3656c51db8bd9b",
+      "title": "283 - Ben \"Yahtzee\" Croshaw",
+      "published_at": "2019-03-12T20:57:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/283-benyahtzeecroshaw",
+      "description": "In a double first for the podcast we speak not only across a transatlantic internet connection but also to our first critic! But Ben \"Yahtzee\" Croshaw is unlike any other; a fast-talking and acerbic eviscerator of computer games, his hilarious \"Zero Punctuation\" reviews regularly attract downloads in the millions, while his sci-fi and fantasy novels have garnered critical acclaim. We discuss world-building, why games lend themselves to horror more than comedy, and cover investment, anxiety and shouting rude words. Extras: Yahtzee explores his comedy influences, his one attempt at standup and explains the iterative process behind his videos. Sign up now at www.comedianscomedian.com/insiders @YahtzeeCroshaw | Youtube | Zero Punctuation | Yahtzee's Blog Get tickets to my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b67f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/283-benyahtzeecroshaw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74055457",
+      "itunes_duration": "1:16:07",
+      "speakers": [
+        "Blog Get",
+        "Leamington Spa Royal Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "yahtzee",
+        "croshaw"
+      ]
+    },
+    {
+      "key": "1c55e498f59e3fd69cba8087e33376f6cac23ad6",
+      "title": "282 - Toby Hadoke",
+      "published_at": "2019-03-04T20:23:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/282-tobyhadoke",
+      "description": "Toby is a quintessential English gent; bumbling, noble and Dr Who obsessed. He's also a very deft writer whose work keeps making Stu cry, as well as a respected compere and champion of newer acts. We talk about his stewardship of the club XS Mallarkey, using self-deprecation as a defense mechanism, and tease at the feeling of being surplus... Extra material available exclusively to Insiders includes Toby on his brilliant contribution to a radio show commemorating the life of Spike Milligan, and the time he punched a heckler. Sign up now at www.comedianscomedian.com/insiders @TobyHadoke | tobyhadoke.com | Toby Hadoke's Who's Round WATCH my free comedy special on Dead Parrot's YouTube channel HERE BUY the Directors Cut for £5 at www.comedianscomedian.com/special OBSERVE my new tour dates at www.comedianscomedian.com/tour or on any of the following venues below: 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b686.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/282-tobyhadoke/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81980355",
+      "itunes_duration": "1:24:22",
+      "speakers": [
+        "XS Mallarkey",
+        "Spike Milligan",
+        "Dead Parrot",
+        "Leamington Spa Royal Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "toby",
+        "hadoke"
+      ]
+    },
+    {
+      "key": "49197e07301f70b763780722a5ad0be50cfd84a2",
+      "title": "\"Like I Mean It\" Comedy Special now available for free!",
+      "published_at": "2019-02-28T12:45:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/likeimeanitcomedyspecialnowavailableforfree-",
+      "description": "Watch the 55min clean edit of my new comedy special \"Like I Mean It\" for free here: https://www.youtube.com/watch?v=M3Xb93lb0jw Get the 82min director's cut that puts you right in the room, here: https://vimeo.com/ondemand/likeimeanit Come see me live on tour in 2019! 01/03/19 Falmouth – The Poly 20/03/19 Cheltenham Playhouse 29/03/19 Crawley -The Hawth 05/04/19 Reading – South Street Arts 12/04/19 Leamington Spa – Royal Spa Centre 13/04/19 Salisbury Arts Centre 17/04/19 Oxford Old Fire Station 19/04/19 Bromsgrove – Artrix 27/04/19 Plymouth Barbican 9-11/05/2019 Soho Theatre, London 05/10/19 Edinburgh Stand (early show – 5pm) 11/10/19 Northampton Royal and Derngate 25/10/19 Teignmouth Pavillions 26/10/19 Swindon Arts Centre 04/11/19 Nottingham Glee Club 05/11/19 Birmingham Glee Club 08/11/19 Bristol – The Comedy Box at the Hen and Chicken 04/12/19 Aldershot – The West End Centre 25/01/20 Corsham – The Pound Arts Centre 01/02/20 Newcastle Stand (early show – 5pm) 02/02/20 Glasgow – The Stand 07/02/20 Farnham Maltings 28/02/20 Cambridge Junction Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b68d.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/likeimeanitcomedyspecialnowavailableforfree-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1946883",
+      "itunes_duration": "2:02",
+      "speakers": [
+        "Leamington Spa",
+        "Edinburgh Stand",
+        "Nottingham Glee Club",
+        "Birmingham Glee Club",
+        "Comedy Box",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "comedy",
+        "special"
+      ]
+    },
+    {
+      "key": "c67bd42076be2441b7148849bb96131eecd63b6f",
+      "title": "281 - Jake Johannsen",
+      "published_at": "2019-02-25T22:00:19+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/281-jakejohannsen",
+      "description": "A quintessential stand-up, with over three decades' experience and forty-five Letterman appearances, Jake Johannsen is an infinitely warm and funny man. We talk about how his decisions have defined him, how to cope with periods of derailed progress, and why the plans of a comedian are pointless. Extra content available to members of the Insiders Club include Jake on turning down a pivotal role in Seinfeld; how he utilises his massive experience to play corporate gigs, and how he deals with having material stolen... Join up at www.comedianscomedian.com/insiders for all the extra content from past and future shows, the \"comedy critique\" episodes, ad-free episodes and secret REDACTED live recordings! @jakethis | www.jakethis.com Book now for LIVE ComComPods: Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | www.comedianscomedian.com And don't forget to join... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b692.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/281-jakejohannsen/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80025578",
+      "itunes_duration": "1:22:20",
+      "speakers": [
+        "Jake Johannsen",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jake",
+        "johannsen"
+      ]
+    },
+    {
+      "key": "74ad5289dcf7f905f9d8ce30abba2aa20348831f",
+      "title": "280 - Jeff Innocent",
+      "published_at": "2019-02-18T20:10:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/280-jeffinnocent",
+      "description": "A diamond-hard joke writer and phenomenally deft performer, there is no aspect of Jeff Innocent's act that hasn't been honed to perfection. A purist about several aspects of comedy, some of them surprising, his hard man aesthetic conceals a deadly sophistication. We talk about the poetry of comedy, the pursuit of the rolling laugh, and find out why never to say \"hello\"... Around 30mins of extra material available only to members of the insiders club includes Jeff on martial arts, misdirection, feeling vulnerable for the first time, and dropping bombs... Join now at www.comedianscomedian.com/insiders Jeff Innocent Comedy Academy | www.jeffinnocent.com | @InnocentJeff Book now for LIVE ComComPods: Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b699.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/280-jeffinnocent/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79835406",
+      "itunes_duration": "1:22:08",
+      "speakers": [
+        "Jeff Innocent",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jeff",
+        "innocent"
+      ]
+    },
+    {
+      "key": "cfdd7502332b3dc38198faf0a7fc8c3a51721af6",
+      "title": "279 - POLICE COPS (Live at Vault Festival)",
+      "published_at": "2019-02-11T20:50:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/279-policecops-liveatvaultfestival-",
+      "description": "If I told you \"Police Cops\" met at drama school, mucked about to make their fellow students laugh and now tour an action movie spoof comedy show, you might turn up your nose. But you'd be a fool to ignore their hyper-speed joke rate, astonishing innovation and innate physical clowning. They are laugh-til-you-cry, standing-ovation funny, and they're converting crowds into baying fans wherever they go. We talk live in a dank cellar about their favourite gags, their gag-grinding process, and the providence of brown stains... SEE POLICE COPS ON TOUR @PoliceCops_ | www.policecops.co.uk Book now for LIVE ComComPods: Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6a0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/279-policecops-liveatvaultfestival-/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64947723",
+      "itunes_duration": "1:06:37",
+      "speakers": [
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "police",
+        "cops",
+        "vault",
+        "festival"
+      ]
+    },
+    {
+      "key": "5fe8143d98d337dee2a143980c8e5daad9265762",
+      "title": "278 - Eggsy (Goldie Lookin Chain) AKA John Rutledge",
+      "published_at": "2019-02-04T21:37:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/278-eggsy-goldielookinchain-akajohnrutledge",
+      "description": "One of the co-founders of Newport's finest musical export \"Goldie Lookin Chain\", John \"Eggsy\" Rutledge is an irrepressibly joyful soul who raps but isn't a rapper. We talk about the development of the band, why you can't ever get off the tour bus, his \"Unexplainers\" podcast with Mike Bubbins, and how and when to avoid the grownups. www.theunexplainers.co.uk | @theunexplainers | @TheGLC | Goldie Lookin Chain Enjoy ad-free episodes plus a ton of extra content from interviews, as well as access to the private podcast and our super-fan community at www.comedianscomedian.com/insiders Book now for LIVE ComComPod at Birmingham Podcast Festival: Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6a7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/278-eggsy-goldielookinchain-akajohnrutledge/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96449315",
+      "itunes_duration": "1:39:26",
+      "speakers": [
+        "John Rutledge",
+        "John Eggsy Rutledge",
+        "Mike Bubbins",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "eggsy",
+        "goldie",
+        "lookin",
+        "chain",
+        "john",
+        "rutledge"
+      ]
+    },
+    {
+      "key": "5efbb4183a106710113678c165af2ddabc0d7214",
+      "title": "Remembering Jeremy Hardy",
+      "published_at": "2019-02-01T16:30:11+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/rememberingjeremyhardy",
+      "description": "News of Jeremy Hardy's passing reached me today and came as a massive shock to the vast majority of his fans. The outpouring of love and affection for this wonderful gentle man and comic, who carried a righteous energy for activism and protest, has been moving and inspiring. As Mark Steele tweeted today \"Knowing him as I did, I know he wouldn't want you to be sad, he'd want you to be bloody devastated.\" Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6ae.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/rememberingjeremyhardy/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63521844",
+      "itunes_duration": "1:06:10",
+      "speakers": [
+        "Jeremy Hardy",
+        "Mark Steele",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jeremy",
+        "hardy"
+      ]
+    },
+    {
+      "key": "365d9f26d3f904bb5adbc146e0935754ce4edcf8",
+      "title": "277 - Jessica Fostekew",
+      "published_at": "2019-01-28T20:30:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/277-jessicafostekew",
+      "description": "Character-filled comedian and actress, Jessica Fostekew is also the presenter of her own podcast \"Hoovering\", and guest co-host of The Guilty Feminist. We talk about how noticing her own faked confidence led to a sea-change in her creative process, the \"crime\" of mixing stand-up and acting, the joys of fabricating the truth, and when to drink the champagne... Join the Insiders Club at www.comedianscomedian.com/insiders to get access to an ad-free version of this episode plus 20 minutes of extras, including Jessica's exploration of her work directing standup shows for Sara Pascoe and Lauren Pattinson among others. Insiders Club membership also gives you a whole private podcast stuffed with inspiring extra content, the chance to critique newer acts en masse, and pitch to interview Stu about the subject of your choice - as well as a new community of hyper-fans! See Hoovering Live at the Vault Festival, 3rd March! jessicafostekew.com | @jessicafostekew Book now for LIVE ComComPods: Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6b5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/277-jessicafostekew/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74116292",
+      "itunes_duration": "1:17:12",
+      "speakers": [
+        "Jessica Fostekew",
+        "Lauren Pattinson",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jessica",
+        "fostekew"
+      ]
+    },
+    {
+      "key": "16663a4fa2797c934ed452d47df4a54c9e37dfb4",
+      "title": "276 - Ed Aczel",
+      "published_at": "2019-01-21T22:09:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/276-edaczel",
+      "description": "\"Britain's greatest living anti-comedian\" (Guardian), Ed Aczel is an oddball among oddballs. We analyse his \"instinctive adventure\" within comedy, and discover how to create and burst tension in unexpected ways; the secret of destabilising beauty; and whether Ed knows why he's funny. Join the Insiders Club at www.comedianscomedian.com/insiders to access extra material including Ed on the rise of the oddball act on the UK scene, a recap of the \"Dr Brown\" clown course Ed and Stu found themselves on together, and why there's no such thing as a wasted journey... Edward Aczel (@edwardaczel) Book now for LIVE ComComPods: Feb 2nd 4.30pm - Live special with hilarious rubber-limbed melodramatists POLICE COPS @ Vault Festival London! Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6bc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/276-edaczel/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74093060",
+      "itunes_duration": "1:16:09",
+      "speakers": [
+        "Ed Aczel",
+        "Edward Aczel",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "aczel"
+      ]
+    },
+    {
+      "key": "3f7b76f811261fe8a5e78704f0fa9670c6394f63",
+      "title": "275 - Doc Brown",
+      "published_at": "2019-01-14T20:16:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/275-docbrown",
+      "description": "Ben Bailey Smith AKA Doc Brown is a prodigious talent, with clean-cut standup and roof-raising comedy rap, as well as a parallel career as an influential and respected rapper. But his ostensibly industrial self-belief conceals a \"patchwork of anxiety and depression\". We talk about the state of mind that led him to turn down a 220-date national tour, how his stage name became a millstone, and why he struggles to make a meal he wouldn't eat himself... Extra content available to donors at www.comedianscomedian.com/insiders includes the full story on how Doc wrote and prepared for hosting the LA BAFTAS in 2016, and how to improvise in front of Samuel L Jackson. We also learn why Doc's change in career is kind of Stu's fault... www.docbrown.co.uk | Doc on Spotify | Youtube Book now for LIVE ComComPods: Feb 2nd 4.30pm - Live special with hilarious rubber-limbed melodramatists POLICE COPS @ Vault Festival London! Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6c3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/275-docbrown/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95946060",
+      "itunes_duration": "1:38:55",
+      "speakers": [
+        "Ben Bailey Smith",
+        "Aka Doc Brown",
+        "Youtube Book",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brown"
+      ]
+    },
+    {
+      "key": "80b75eca58cdb5b7ce8b1d4a28aaea0f059272ae",
+      "title": "273 - Laura Davis",
+      "published_at": "2018-12-17T20:39:34+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/273-laura-davis",
+      "description": "Incredibly insightful and darkly funny, Laura Davis is a truly gifted artist who holds aspects of herself up to the light and says \"you too?\" We discuss the iron resolve that took her from an \"extremely shy and extremely loud\" girlhood, to performing jokes without victims, inside a duvet cover. If you've ever thought of jokes as \"ideas refracted through a prism of other people's experience\", you're going to love this one... *Content Warning*: This episode contains a discussion of suicidal feelings. Extra content available exclusively to members of the Insiders Club include: Some tips on wielding status for naturally shy comedians A defence of the right of artists to make shitty work A reflection on an early piece of Laura's work in which she deliberately entrapped the audience in an abusive relationship... Join now at www.comedianscomedian.com/insiders Follow Laura Davis @LauraDavisComic www.lauradaviscomedy.com http://comedy-festival.co.uk/event/laura-davis-cake-in-the-rain/ http://comedy-festival.co.uk/event/laura-davis-work-in-progress/ https://www.komedia.co.uk/brighton/comedy/laura-davis-ghost-machine/ Book now for LIVE ComComPods: Feb 2nd 4.30pm - Live special with hilarious rubber-limbed melodramatists POLICE COPS @ Vault Festival London! Mar 23rd 1pm - Live special with comedy legend TBC @ Birmingham Podcast Festival! Don't miss out! you only have until 31st December to pre-order the insanely good new ComCom T-shirt designed by @LiseRichardson at www.comedianscomedian.com/merch Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6ca.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/273-laura-davis/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72122803",
+      "itunes_duration": "1:14:06",
+      "speakers": [
+        "Laura Davis",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "laura",
+        "davis"
+      ]
+    },
+    {
+      "key": "2d23c96d985e7babdd581ac84422f788442c8159",
+      "title": "272 - John Robertson",
+      "published_at": "2018-12-10T22:09:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/272-john-robertson",
+      "description": "Creator of The Dark Room, one of the most exciting, imaginative, maddening and hilariously cruel live experiences Stu has ever been a part of, John Robertson is also a stand-up, tending towards lunatic clown. We talk about weaponising outsider status to survive school, and the dynamic between outlandish persona and the \"over-indulged child\" within. But how to you nurture joy when you get paid to scream abuse at people? Enjoy all extras from shows past and present with access to the private Insiders Club podcast, alongside a host of other strands and projects, including the chance to interview Stu yourself, and take part in a group critical analysis of newer acts from all over the world: www.comedianscomedian.com/insiders The Dark Room game is now at www.thedarkroomgame.com - available on Steam for PC and Mac. John's website is www.thejohnrobertson.com And you can find him on Twitter @Robbotron Stu’s 2019 tour of “End Of” is on sale now! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican 9-11/05/2019 Soho Theatre, London @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6d1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/272-john-robertson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73760403",
+      "itunes_duration": "1:05:12",
+      "speakers": [
+        "John Robertson Creator",
+        "John Robertson",
+        "Twitter Robbotron Stu",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "robertson"
+      ]
+    },
+    {
+      "key": "19c2c43da628e7aa6ea1a5be7ddfc77af061872b",
+      "title": "271 - Laura Lexx",
+      "published_at": "2018-12-03T23:11:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/271-laura-lexx",
+      "description": "Unfailingly bright and bubbly, Laura Lexx has recently shifted into higher gear, with a breakthrough fringe show about an ongoing mental health struggle. We learn how her director Jessica Fostekew pushed her to be more vulnerable than her club comic instincts would ordinarily allow, discuss bailing at competition finals, and consider melting down the fat to get to the muscle... Extras available for donors on the private podcast at www.comedianscomedian.com/insiders include Laura on changes in her mindset that helped her improve; the differences between what audiences and industry are looking for in a festival show; reflections on other useful painful experiences, and a warning for people considering a certain student comedy competition... The show Laura was doing at the Edinburgh festival was \"Trying\" and you can see it at The Soho Theatre in London from 20-23 February 2019 - https://sohotheatre.com/shows/laura-lexx-trying/ Catch Laura on the BBC's Live at the Apollo Christmas Special on 20th December! Details of all Laura's gigs and to keep up with everything she does via a newsletter are at www.lauralexx.co.uk , and she's on twitter @LauraLexx and Facebook.com/lauralexxcomedian Pre-order the insanely good new ComCom T-shirt designed by @LiseRichardson at www.comedianscomedian.com/merch DON'T MISS OUT! Sign up for the ComComPod Secret Santa comedy-swap... ONLY ONE WEEK TO GO: https://tinyurl.com/ycwkqyn9 Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6d8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/271-laura-lexx/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67294955",
+      "itunes_duration": "1:09:04",
+      "speakers": [
+        "Laura Lexx",
+        "Jessica Fostekew",
+        "Catch Laura",
+        "Secret Santa",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "laura",
+        "lexx"
+      ]
+    },
+    {
+      "key": "86ff96023ddd1887b1ac6bc69ebbf436d5881e87",
+      "title": "A million bees? In just one hive?",
+      "published_at": "2018-11-27T15:19:41+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/a-million-bees-in-just-one-hive",
+      "description": "New T-shirts available to pre-order NOW until Dec 31st at www.comedianscomedian.com/merch Don't miss out! Online orders end on Dec 31st and then surplus will only be available in person after that... *THEY WILL NOT ARRIVE IN TIME FOR XMAS!* \"Bee\" design by Lise Richardson @LiseRichardson www.liserichardsonart.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6df.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/a-million-bees-in-just-one-hive/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "808380",
+      "itunes_duration": "0:57",
+      "speakers": [
+        "Lise Richardson LiseRichardson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hive"
+      ]
+    },
+    {
+      "key": "af9c25ff27c879ae1727d7efc121c54bd203a1ee",
+      "title": "270 - No Such Thing As A Fish (Live)",
+      "published_at": "2018-11-26T18:47:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/270-no-such-thing-as-a-fish-live",
+      "description": "Q.I. \"Elves\" Andrew Hunter Murray, Anna Ptaszynski, Dan Schreiber and James Harkin join Stu live onstage at the London Podcast Festival to break down the process by which they unearth the world's greatest facts and fancies, and turn them into one of the world's most runaway successful podcasts! Who's the leader, what's the difference between the two main clowns, and which team player secretly strikes fear into the hearts of the other three? Enjoy all extras from shows past and present with access to the private Insiders Club podcast, alongside a host of other strands and projects, including the chance to interview Stu yourself, and take part in a group critical analysis of newer acts from all over the world: http://www.comedianscomedian.com/insiders Get advance info on next year's London Podcast Festival @KingsPlace Follow No Such Thing As A Fish on Twitter @NoSuchThing Buy \"The Book Of The Year 2018\" here: http://qi.com/shop/fish Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour Pre-order the insanely good new ComCom T-shirt designed by @LiseRichardson at www.comedianscomedian.com/merch DON'T MISS OUT! Sign up for the ComComPod Secret Santa comedy-swap by 7th December: https://tinyurl.com/ycwkqyn9 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6e4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/270-no-such-thing-as-a-fish-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90588259",
+      "itunes_duration": "1:33:20",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Anna Ptaszynski",
+        "Dan Schreiber",
+        "James Harkin",
+        "Twitter NoSuchThing Buy",
+        "Stu Goldsmith",
+        "Secret Santa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "thing",
+        "fish"
+      ]
+    },
+    {
+      "key": "c0139f422681950cb3292b6282a8984b3561f903",
+      "title": "269 - Sean Morley",
+      "published_at": "2018-11-19T22:23:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/269-sean-morley",
+      "description": "Peep inside the mind of the \"infinity lad\" Sean Morley, a mysterious Northerner naked but for his own fragility. We talk about intelligent surrealism, the risk of commodifying weirdness, why he improvised his competition sets, and how to succeed by one's own metrics... seanmorley.co.uk @seanmorl Discover occult secrets about Sean's \"Glang Show\" as well as every past and future bit of extra material by joining the Insiders Club at www.comedianscomedian.com/insiders Support the show with your own regular donation to access the private Insiders podcast, and become a hero in the eyes of your grandchildren. Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6eb.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/269-sean-morley/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67812822",
+      "itunes_duration": "1:09:37",
+      "speakers": [
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sean",
+        "morley"
+      ]
+    },
+    {
+      "key": "52bd5554d0958b3dc1b2bfc811e83e1866362a2f",
+      "title": "268 - Imran Yusuf",
+      "published_at": "2018-11-12T22:18:19+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/268-imran-yusuf",
+      "description": "Swaggering and slick yet positive and passionate, Imran Yusuf talks fast and funny, and dances around accusations of arrogance. The first free fringe act to be nominated for Best Newcomer at the Edinburgh Festival, appearing shortly afterwards on Michael McIntyre's Comedy Roadshow, it looked as if the world was at his feet. But he is the first to admit he didn't capitalise on his success, and now takes a forensic approach to the business decisions and alliances he regrets. We talk about how his previous job in the video-games industry affects his quality control; uncover the dynamic between his work ethic and an \"internal unworthiness\", and discover his voracious attitude to personal development... www.imranyusuf.com @ImranYusuf Enjoy all extras from shows past and present with access to the private Insiders Club podcast, alongside a host of other strands and projects, including the chance to interview Stu yourself, and take part in a group critical analysis of newer acts from all over the world: www.comedianscomedian.com/insiders Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 20/03/2019 Cheltenham Playhouse 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6f2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/268-imran-yusuf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82024256",
+      "itunes_duration": "1:24:25",
+      "speakers": [
+        "Imran Yusuf",
+        "Best Newcomer",
+        "Michael McIntyre",
+        "Comedy Roadshow",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "imran",
+        "yusuf"
+      ]
+    },
+    {
+      "key": "c1c9f302f523559cd2a9ba0f5081b2e1ae54b0d4",
+      "title": "267 - Elf Lyons",
+      "published_at": "2018-11-05T22:40:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/267-elf-lyons",
+      "description": "Elf Lyons is a comic phenomenon; a sexy clown with weaponised vulnerability, who loves tackling impossible theatrical challenges. Recorded before some complex health issues took her out of action, this conversation goes into depth on Elf's process, including how dealing with a horrible experience via bouffon clown allowed her to access a funnier self. We discuss what a rare bird is the audience, what parental pressure means to her, why you can't force meaning, and how to style out your weirdness. @Elf_Lyons https://www.theelflyons.com/ Enjoy all extras from shows past and present with access to the private Insiders Club podcast, alongside a host of other strands and projects, including the chance to interview Stu yourself, and take part in a group critical analysis of newer acts from all over the world: www.comedianscomedian.com/insiders Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b6f9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/267-elf-lyons/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84003709",
+      "itunes_duration": "1:26:28",
+      "speakers": [
+        "com Enjoy",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lyons"
+      ]
+    },
+    {
+      "key": "7f602428f0a0898368b329d1c6388c54996de732",
+      "title": "Future Girl",
+      "published_at": "2018-10-31T18:42:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/future-girl",
+      "description": "A quick introduction to my beautiful daughter... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b700.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/future-girl/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "3337379",
+      "itunes_duration": "3:28",
+      "speakers": [
+        "Future Girl",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "future",
+        "girl"
+      ]
+    },
+    {
+      "key": "c64948f2c7154d715d4a0ef0f2a9f51fadc005f9",
+      "title": "266 - Ismo Leikola",
+      "published_at": "2018-10-22T20:32:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/266-ismo-leikola",
+      "description": "Crowned \"Funniest Person In The World\" at the Hollywood Laugh Factory, Finnish Ismo is often described as a Scandinavian Mitch Hedberg. We discuss his intertwined logic and absurdity, learn how his fascination with jokes annoys even other comics, and analyse \"Are you happy?\" as a trick question... Extra material for members of the Insiders Club includes Ismo on the perfect joke, what not to assume of your audience, and an example of a joke in Finnish translated into English, all on the private podcast at www.comedianscomedian.com/insiders Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 07/10/2018 Aberystwyth Comedy Festival – The Coliseum 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 13/03/2019 Salisbury Art Centre 29/03/2019 Crawley – The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b705.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/266-ismo-leikola/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73435196",
+      "itunes_duration": "1:15:28",
+      "speakers": [
+        "Mitch Hedberg",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ismo",
+        "leikola"
+      ]
+    },
+    {
+      "key": "4682ccbe4b3ab842e6b7653bb4f06e0fa5bfd3ba",
+      "title": "265 - Mark Thomas",
+      "published_at": "2018-10-15T11:57:28+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/265-mark-thomas",
+      "description": "Mark Thomas is familiar to fans of British comedy as the innovative leftie agitator whose \"Comedy Product\" show entrapped arms dealers, torturers and Tories to hilarious effect, and at genuine risk to his safety and liberty. He survived being placed on the Domestic Extremist watch-list, and has transformed into a masterful theatre-maker; no less angry but producing richer and more nuanced work. We discuss the dynamic between selflessness and control, learn the influence of critical friendships on his creative process, and find out what all of it has cost him... Mark Thomas Tour dates and tickets Exclusive extra material available to podcast supporters at www.comedianscomedian.com/insiders includes Mark waxing lyrical on stand-up as an essentially Thatcherite form, his detective work behind the scenes on the NHS, his biggest failure, and which act he once accidentally impersonated at a Jongleurs gig... Enjoy all extras from shows past and present with access to the private Insiders Club podcast, alongside a host of other strands and projects, including the chance to interview Stu yourself, and take part in a group critical analysis of newer acts from all over the world! Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 07/10/2018 Aberystwyth Comedy Festival – The Coliseum 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 12/04/2019 Leamington Spa - Royal Spa Centre 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b70a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/265-mark-thomas/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58956253",
+      "itunes_duration": "1:00:23",
+      "speakers": [
+        "Mark Thomas",
+        "Mark Thomas Tour",
+        "Leamington Spa Royal Spa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mark",
+        "thomas"
+      ]
+    },
+    {
+      "key": "9afb0b5a49e9d2da0dc9e912309d40b1a0b8ed60",
+      "title": "264 - Janeane Garofalo",
+      "published_at": "2018-10-08T19:22:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/264-janeane-garofalo",
+      "description": "Championed as a Hollywood icon of the Slacker generation, Janeane Garofalo is a brilliant and fascinating stand-up, with the structure-free style you'd expect from someone who read from notes on her first HBO special. She's candid about crying daily within the TV \"sausage factory\" of crime drama which draws in former film stars, and lets loose on the makers of 24 and Criminal Minds. She also talks about her activism, how her parents \"raised a quitter\", and turns out to be surprisingly well-informed on British comedy... Extra material for members of the Insiders Club includes Janeane on the competition between reviewers to be as critical as possible, how it felt to be actively passed on by Netflix, the trials of selling shows when you eschew social media, and a secret message left to Stu when he went for a wee and left the recorder running... All available when you join the Insiders Club for £2 per month or whatever you think is fair at www.comedianscomedian.com/insiders Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 07/10/2018 Aberystwyth Comedy Festival – The Coliseum 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b711.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/264-janeane-garofalo/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80509577",
+      "itunes_duration": "1:22:50",
+      "speakers": [
+        "Janeane Garofalo",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "janeane",
+        "garofalo"
+      ]
+    },
+    {
+      "key": "1c6388d7f082fb15ccf2588b03ba5ad3817e4a6c",
+      "title": "263 - Garrett Millerick (Live at the Barn Theatre, Welwyn)",
+      "published_at": "2018-10-01T19:53:13+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/263-garrett-millerick-live-at-the-barn-theatre-wel",
+      "description": "A comedy firebrand who channels his anger into punchy stories with great characterisation, Garrett Millerick had a breakthrough Edinburgh fringe this year with “Sunflower”, a show that was meaningful despite his efforts to the contrary. We talk about dealing with very difficult emotional material; which one day of his life is completely off-limits; and getting the sensation that Something Might Be Happening… @MillerickComedy www.garrettmillerick.com Stu’s 2019 tour of “End Of” has just gone on sale! “A comedy masterclass… Endlessly inventive” (The List) Tickets for the first half of the tour at these links: 07/10/2018 Aberystwyth Comedy Festival – The Coliseum 22/02/2019 Maidenhead – Norden Farm 01/03/2019 Falmouth – The Poly 29/03/2019 Crawley -The Hawth 05/04/2019 Reading – South Street Arts 17/04/2019 Oxford Old Fire Station 19/04/2019 Bromsgrove – The Artix 27/04/2019 Plymouth Barbican Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b718.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/263-garrett-millerick-live-at-the-barn-theatre-wel/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69792269",
+      "itunes_duration": "1:11:40",
+      "speakers": [
+        "Garrett Millerick",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "garrett",
+        "millerick",
+        "barn",
+        "theatre",
+        "welwyn"
+      ]
+    },
+    {
+      "key": "d7b42281402f598c9fabac6f9304d83e5446849b",
+      "title": "262 - Alice Fraser (Live at The Vintage Mobile Cinema, Edfringe)",
+      "published_at": "2018-09-25T00:26:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/262-alice-fraser-live-at-the-vintage-mobile-cinema",
+      "description": "A purveyor of rigorously intellectual stand-up, searing personal material, and diamond-hard puns, Alice Fraser joins the ComComPod community for a live special episode - moments after the entire audience had enjoyed her superb show \"Ethos\". Covering bullying, Buddhism and artificial intelligence, can Stu crack this immensely self-assured nut? Follow Alice on Twitter @Aliterative www.alicecomedyfraser.com Download \"Trilogy\" and find out about Tea With Alice, The Bugle, and Alice's other podcast and comedy work here: www.alicecomedyfraser.com/teacast/ Thanks to Ben Moorhouse for the loan of beautiful Audrey the Vintage Mobile Cinema - more info here www.vintagemobilecinema.co.uk Sign up for all the extras at www.comedianscomedian.com/insiders @StuGoldsmith @ComComPod www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b71f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/262-alice-fraser-live-at-the-vintage-mobile-cinema/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69601720",
+      "itunes_duration": "1:11:28",
+      "speakers": [
+        "Alice Fraser",
+        "Follow Alice",
+        "Ben Moorhouse",
+        "Cinema more",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alice",
+        "fraser",
+        "vintage",
+        "mobile",
+        "cinema",
+        "edfringe"
+      ]
+    },
+    {
+      "key": "0e8c7189f47b2d38575b7abc55ec32b113fc3fbb",
+      "title": "261 - Alex Edelman",
+      "published_at": "2018-09-17T16:59:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/261-alex-edelman",
+      "description": "Responsible for the best reviewed comedy show at Edfringe 2018, Alex Edelman is an irrepressibly funny comic, with a grasp of joke structure and narrative arc that is both innate and studied. We cover his Modern Orthodox Jewish upbringing, and as well as identifying a \"a confessional arms race\" in modern comedy, he reveals a desperate need to be accepted by his peers. But is he really \"solicitous and pandering\"? Extra content for this episode includes Alex's hypothetical \"formula\" for an award-winning first hour, and why although prescriptive it isn't actually that formulaic. We also get to hear him review himself honestly... Sign up for all the extras at www.comedianscomedian.com/insiders Find out more about Alex at www.alexedelmancomedy.com @alexedelman www.comedianscomedian.com @StuGoldsmith @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b726.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/261-alex-edelman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85411817",
+      "itunes_duration": "59:18",
+      "speakers": [
+        "Alex Edelman",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alex",
+        "edelman"
+      ]
+    },
+    {
+      "key": "a66a1c7c5b6be9b8e120616ffb241ccf73c60a1a",
+      "title": "260 - Jack Docherty",
+      "published_at": "2018-09-10T20:35:49+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/260-jack-docherty",
+      "description": "Best know nowadays as Chief Commissioner Cameron Miekelsonfrom BBC Scotland's \"Scot Squad\", Jack Docherty first came to comedy in 1980 with his sketch group \"The Bodgers\" arrival at the Edinburgh Fringe. We explore how the Fringe has changed, trace his career via the Channel Four sketch show \"Absolutely\", and resulting spin-off \"Mr Don & Mr George\", and discover his frustrations on hosting the chatshow that was a Channel 5 flagship. We also unpack which absurdist elements of Jack's improvisation are too much for TV... Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. Thanks again to The Place Hotel on York Place in Edinburgh https://yorkplace-edinburgh.co.uk/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b72d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/260-jack-docherty/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64160682",
+      "itunes_duration": "1:05:48",
+      "speakers": [
+        "Jack Docherty",
+        "Cameron Miekelsonfrom",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jack",
+        "docherty"
+      ]
+    },
+    {
+      "key": "817cecf31ff01c9729fdfb5d7e6af16cafdbbf21",
+      "title": "259 - Rose Matafeo",
+      "published_at": "2018-09-03T19:42:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/259-rose-matafeo",
+      "description": "Winner of the 2018 Edinburgh Comedy Award (called it!), Rose Matafeo brought the thunder to #edfringe this year, with a barnstorming performance of her show \"Horndog\". We discuss how she ensured her hilarious material about female sexuality brought the whole room along with it; how she's actively mining for hot takes; and why she has a quintuple-threat approach to performance. @Rose_Matafeo Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. www.comedianscomedian.com @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b734.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/259-rose-matafeo/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62095911",
+      "itunes_duration": "1:04:40",
+      "speakers": [
+        "Edinburgh Comedy Award",
+        "Rose Matafeo",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rose",
+        "matafeo"
+      ]
+    },
+    {
+      "key": "0a9fe0013d1c07f8146175168ed95f457b435892",
+      "title": "258 - Nick Thune",
+      "published_at": "2018-08-21T08:58:34+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/258-nick-thune",
+      "description": "Whipsmart hipster Nick Thune combines hilarious club chops with genuine insight. In a hotel room at SXSW we discuss how he has fashioned a beautiful cage of a career, the difference between \"open\" and \"closed\" jokes, and deserving happiness. We also hear the incredible tale of the time he got to sift through the old notebooks of comedy legend Mitch Hedberg... www.nickthune.com @nickthune Watch Nick's latest special 'Good Guy' on Amazon Prime Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. www.comedianscomedian.com @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b73b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/258-nick-thune/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62636382",
+      "itunes_duration": "1:04:13",
+      "speakers": [
+        "Nick Thune",
+        "Mitch Hedberg",
+        "Good Guy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "thune"
+      ]
+    },
+    {
+      "key": "d473d065c866f6a48687ad1cf881f5b2b78fe47a",
+      "title": "257 - Myq Kaplan",
+      "published_at": "2018-08-13T19:59:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/257-myq-kaplan",
+      "description": "Myq Kaplan just bubbles over with jokes; every punchline has a topper and every topper has a tag in his absurdly punchline-dense cascade of comedy. We talk about structure, rhythm and where it all comes from, and enjoy a superb counter to the question \"are you happy?\" http://myqkaplan.com/ Tickets for Myq's Edinburgh show @MyqKaplan Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. www.comedianscomedian.com @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b742.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/257-myq-kaplan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60611370",
+      "itunes_duration": "1:02:06",
+      "speakers": [
+        "Myq Kaplan",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kaplan"
+      ]
+    },
+    {
+      "key": "91cc6a265f7c584d0a48992792c42e4431353707",
+      "title": "256 - Jen Brister (Live at Larmer Tree Festival)",
+      "published_at": "2018-07-30T12:09:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/256-jen-brister-live-at-larmer-tree-festival",
+      "description": "Jen Brister is one of those comics who has been excellent for a long time and is finally getting some proper recognition. Her passionate, witty material about love, motherhood and human relationships is backed up a real talent for characterisation, and lashings of anger and self-doubt; a bulletproof bag of nerves if you will... We talk about her brief stint as a BBC6 Music presenter, how her subsequent fall from grace reinvigorated her comedy career, and what was going through her mind as she walked onstage at Live At The Apollo... www.jenbrister.co.uk Tickets for Jen's tour and Edinburgh shows @JenBrister Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. www.comedianscomedian.com @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b749.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/256-jen-brister-live-at-larmer-tree-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60820351",
+      "itunes_duration": "1:02:20",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brister",
+        "larmer",
+        "tree",
+        "festival"
+      ]
+    },
+    {
+      "key": "cab60a3029bbc5c5757468cc6bc6fd5b1435ae72",
+      "title": "255 - Scummy Mummies",
+      "published_at": "2018-07-23T15:13:26+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/255-scummy-mummies",
+      "description": "\"Scummy Mummies\" Helen Thorn and Ellie Gibson are a pair of stand-ups with a hit parenting podcast unlike any other. Unafraid to get shit in their eyebrows and tell you about it, we discover the dynamic between them, get the lowdown on their very eventful live tour shows, and hear the infuriating story of their TV smash-in-waiting getting held down by The Man (or Some Men). Visit scummymummies.com to listen to the Scummy Mummies podcast and buy tickets for their live shows. You can follow them on Instagram, Twitter and Facebook @scummymummies . www.comedianscomedian.com @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b750.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/255-scummy-mummies/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60791932",
+      "itunes_duration": "1:02:18",
+      "speakers": [
+        "Ellie Gibson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "scummy",
+        "mummies"
+      ]
+    },
+    {
+      "key": "3addc2ab4e6977e25b81ff1555cbf18d2e78266d",
+      "title": "254 - Paul Foot",
+      "published_at": "2018-07-09T14:25:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/254-paul-foot",
+      "description": "Paul Foot has one of the most refreshingly original comic voices in the world. We delve deep into the 13 years he spent being brilliant but unreliable, and the psychological toll imposed by the heroic deaths necessary to achieve genuine excellence. We talk about his writing partnership, his \"guild of connoisseurs\", and the Australian run of shows that changed everything... Hungry for more? Experience Paul's jaw-droppingly comprehensive 30 minute explanation of his \"seven styles of comedy\" (possibly impenetrable to the casual listener), and discover the origin of his utterly unique dress code, all available now to members of the Insiders Club! Go to www.comedianscomedian.com/insiders to support the show with £2 per month or more, and get access to a treasure trove of secret podcast extra material and special projects, including the chance to interview Stu on the subject of your choice, or give community feedback to clips from up and coming comedians. See Paul Foot at this year's Ed Fringe @PaulFoot www.paulfoot.tv The Guild of Connoisseurs @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b757.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/254-paul-foot/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88772623",
+      "itunes_duration": "1:31:27",
+      "speakers": [
+        "Paul Foot",
+        "Ed Fringe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "foot"
+      ]
+    },
+    {
+      "key": "7c0339fb0103e1edb3633e30ced98326ff9ff993",
+      "title": "253 - The Raymond and Mr Timpkins Revue",
+      "published_at": "2018-07-03T08:53:19+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/253-the-raymond-and-mr-timpkins-revue",
+      "description": "Vaudeville musical prop-based comedy dickheads, the Raymond and Mr Timpkins Review have been winning standing ovations all over Britain for decades. We talk about their origins filling in during the scoring on battle of the bands nights, why they consider themselves hobbyists despite being full-time professionals, and find out how and why they're gearing up for their first ever Edinburgh Fringe run... Hear extra material from guests including Robin Ince, Dara O'Briain, James Acaster and more, PLUS a load of other interactive comedy projects giving you more tailored direct advice on creating work. Don't miss out, download the private \"Insiders Club\" podcast at www.comedianscomedian.com/insiders See Tony and Andy in the Pleasance Dome at 8.30pm, in \"Ham\" www.raymondandmrtimpkins.co.uk @raymondtimpkins @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b75e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/253-the-raymond-and-mr-timpkins-revue/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66561878",
+      "itunes_duration": "1:08:18",
+      "speakers": [
+        "Edinburgh Fringe",
+        "Robin Ince",
+        "Dara O'Briain",
+        "James Acaster",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "raymond",
+        "timpkins",
+        "revue"
+      ]
+    },
+    {
+      "key": "2c7c57d9f5cdc6ce8689259f80c83a6942a7c49e",
+      "title": "252 - John Luke Roberts",
+      "published_at": "2018-06-25T21:00:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/252-john-luke-roberts",
+      "description": "Splicing together physical absurdity with beautifully cerebral joke-writing, John Luke Roberts is responsible for some genuinely ground-breaking comedy. We discuss how he was vice-president of Cambridge Footlights while not feeling part of it, how he battles his ego and why he was drawn to Ecole Phillipe Gaulier. We also explore what it feels like to perform as a terrifying clown of your own dead father... Extras available by joining the Insiders Club at www.comedianscomedian.com/insiders include the inside story on ACMS and his \"mutually-assured\" relationship with co-host Thom Tuck, and his thoughts on why even though the highs of improv and musical comedy are high indeed, the entry level is pretty low... @JLukeRoberts / Tickets for John Luke's 2018 Ed Fringe show Stu's remaining tour dates: 29/06/2018 Tringe Festival And get information on Stu's Ed Fringe show 'End Of' HERE . @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b765.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/252-john-luke-roberts/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87657516",
+      "itunes_duration": "1:30:17",
+      "speakers": [
+        "Luke Roberts Splicing",
+        "John Luke Roberts",
+        "Thom Tuck",
+        "John Luke",
+        "Ed Fringe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "luke",
+        "roberts"
+      ]
+    },
+    {
+      "key": "2294ed641c74758709c90e4a028bfced1378b648",
+      "title": "251 - Robin Ince",
+      "published_at": "2018-06-19T12:39:36+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/251-robin-ince",
+      "description": "Comedian, broadcaster, science-afficionado and author of forthcoming psychological memoir \"I'm A Joke And So Are You\", Robin Ince's ideas flow through him like neutrinos. We discuss his constant state of \"hypervigilant\" anxiety, improvisation and tangents, success and frustration. Once or twice he even pauses for breath... @RobinInce | www.RobinInce.com | The Infinite Monkey Cage Hear an extra 40 minutes of Robin Ince, as well as bonus material from the likes of Dara O'Briain, James Acaster and more, PLUS a load of other interactive comedy projects giving you more tailored direct advice on creating work... Don't miss out, download the private \"Insiders Club\" podcast at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b76c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/251-robin-ince/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82934988",
+      "itunes_duration": "1:25:22",
+      "speakers": [
+        "Robin Ince Comedian",
+        "Robin Ince",
+        "Dara O'Briain",
+        "James Acaster",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "robin",
+        "ince"
+      ]
+    },
+    {
+      "key": "070dd16a544e4337be71f3114371de2f62ef9815",
+      "title": "250 - Simon Evans",
+      "published_at": "2018-06-11T19:02:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/250-simon-evans",
+      "description": "A fitting guest for the Sestercentennial of the show, Simon \"The Patrician\" Evans was once Guest Zero - without him the podcast might not exist at all. A touring and club powerhouse, and Radio 4 regular, his every line and inflection is a polished diamond. We explore the grind necessary to achieve those results, discover the devilment beneath his political dalliances, and learn which TV comic pushed him to \"adapt or die\"... Hear extra material from this conversation with Simon, as well as from Dara O'Briain, James Acaster and more, PLUS a load of other interactive comedy projects giving you more tailored direct advice on creating work. Don't miss out, download the private \"Insiders Club\" podcast at www.comedianscomedian.com/insiders See Simon's \"Genius 2.0\" at Edinburgh @TheSimonEvans @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b773.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/250-simon-evans/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83366141",
+      "itunes_duration": "1:26:50",
+      "speakers": [
+        "Guest Zero",
+        "Dara O'Briain",
+        "James Acaster",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "simon",
+        "evans"
+      ]
+    },
+    {
+      "key": "641ffe02b32d0174fdadcaaade3c57f921f46d79",
+      "title": "249 - Anuvab Pal",
+      "published_at": "2018-06-04T15:27:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/249-anuvab-pal",
+      "description": "Anuvab Pal is one of a new generation, exploding out of India's relatively recent \"comedy Big Bang\". This disarming, witty act reveals how hard he finds it to embrace the Western \"free thought\" approach to learning, and waxes lyrical on the difference between art and \"retail entertainment\", as well as giving us the low-down on who to watch out for in Indian comedy... Hear extra material from this conversation with Anuvab, as well as extras from Russell Howard, James Acaster and more, PLUS a load of other interactive comedy projects giving you more tailored direct advice on creating work. Don't miss out, download the private \"Insiders\" podcast at www.comedianscomedian.com/insiders @AnuvabPal @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b77a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/249-anuvab-pal/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85123422",
+      "itunes_duration": "1:27:38",
+      "speakers": [
+        "Anuvab Pal",
+        "Russell Howard",
+        "James Acaster",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "anuvab"
+      ]
+    },
+    {
+      "key": "558c81690f156b7ff2712c7efc7116bdd1307d28",
+      "title": "248 - Sophie Willan",
+      "published_at": "2018-05-28T20:35:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/248-sophie-willan",
+      "description": "Sophie is a hurricane of comedy in action. Possessed of a singular voice, she focuses her wit on genuinely important subject matter, including the cuts to social and mental health care services. We talk about obtaining government funding for her comedy tours, the \"politics of politeness\", and what happens after the conversation about class in comedy... Hear extra material from this conversation with Sophie, as well as extras from Russell Howard, James Acaster and more, plus a load of other interactive comedy projects... Support the show by becoming a member of the \"Insiders Club\" at www.comedianscomedian.com/insiders See Sophie on tour nationally and at the Soho Theatre this June, details via www.sophiewillan.com @SophieWillan See Stu on tour over the next two months, including a DVD record of the tour show on June 14th in Bristol: 30/05/2018 Aldershot, West End Centre 01/06/2018 Sheffield, The Lescar 02/06/2018 York, The Basement 03/06/2018 Newcastle – The Stand 04/06/2018 Leeds, Duke Studios 08/06/2018 Southampton, Hanger Farm 09/06/2018 Cambridge Junction 12/06/2018 Edinburgh, The Monkey Barrel 13/06/2018 Glasgow, The Stand 14/06/2018 DVD RECORD IN BRISTOL 15/06/2018 Birmingham Glee 17/06/2018 Brighton Komedia 21-23 June London, Soho Theatre 29/06/2018 Tringe Festival @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b781.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/248-sophie-willan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83331634",
+      "itunes_duration": "1:25:46",
+      "speakers": [
+        "Russell Howard",
+        "James Acaster",
+        "SophieWillan See Stu",
+        "Birmingham Glee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sophie",
+        "willan"
+      ]
+    },
+    {
+      "key": "be4c7e048e5ae711c05b5cf87531655b09d4b7b6",
+      "title": "247 - Ben Target",
+      "published_at": "2018-05-21T16:52:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/247-ben-target",
+      "description": "Considering oneself \"an artist who works in the field of comedy\" is the starting point for a fascinating re-framing of the whole goddamn thing, in this conversation with the wonderfully funny, curious, and extraordinarily inventive Ben Target. We discover a shared inspiration in an Argentinian circus, explore Ben's holistic approach to theatre-in-the-round, and find out why minor authority figures are inherently funny... See Ben's Edinburgh Fringe show 'Splosh' @ BenTarget Don't forget to support the show and join the members-only podcast stuffed with extra content and experimental projects And come and see Stu's standup tour now: 23/05/2018 Swindon Arts Centre 26/05/2018 Farnham Maltings 30/05/2018 Aldershot, West End Centre 01/06/2018 Sheffield, The Lescar 02/06/2018 York, The Basement 03/06/2018 Newcastle – The Stand 04/06/2018 Leeds, Duke Studios 08/06/2018 Southampton, Hanger Farm 09/06/2018 Cambridge Junction 12/06/2018 Edinburgh, The Monkey Barrel 13/06/2018 Glasgow, The Stand 15/06/2018 Birmingham Glee 17/06/2018 Brighton Komedia 21-23 June London, Soho Theatre 29/06/2018 Tringe Festival @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b788.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/247-ben-target/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80331938",
+      "itunes_duration": "1:06:12",
+      "speakers": [
+        "Ben Target",
+        "Edinburgh Fringe",
+        "Birmingham Glee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "target"
+      ]
+    },
+    {
+      "key": "856f95c799b4429c6a2277c89e46bcfcb084754b",
+      "title": "Shhhh... This one's [REDACTED]",
+      "published_at": "2018-05-15T20:57:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/shhhh-this-ones-redacted",
+      "description": "To unlock the full live show as well as bundles of extra content, sign up to a recurring donation at www.comedianscomedian.com/donate New acts submit their stuff for community critique! You interview Stu - about start-ups, writing techniques and how to make comedy out of emotionally-charged life stories, plus anything else you can think of! Extra content from new episodes (coming soon Paul Foot in incredible detail on his seven styles of comedy)! Stu's philosophy on performing at the Edinburgh Fringe, accrued over 25 years at that festival! Join the inner circle today at www.comedianscomedian.com/donate Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b78f.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/shhhh-this-ones-redacted/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2146011",
+      "itunes_duration": "1:16",
+      "speakers": [
+        "Paul Foot",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "shhhh"
+      ]
+    },
+    {
+      "key": "9910b9feb86a7d12b6c494759623cf072e3f9608",
+      "title": "246 - Anne Edmonds",
+      "published_at": "2018-05-14T11:20:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/246-anne-edmonds",
+      "description": "See acast.com/privacy for privacy and opt-out information. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b794.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/246-anne-edmonds/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63043477",
+      "itunes_duration": "1:04:38",
+      "speakers": [
+        "Anne Edmonds See",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "anne",
+        "edmonds"
+      ]
+    },
+    {
+      "key": "6d5b4f78240f17de1dc0a53d71f916fb8a11cd8d",
+      "title": "245 - Ron White (Live from SXSW)",
+      "published_at": "2018-04-30T16:54:19+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/245-ron-white-live-from-sxsw",
+      "description": "One of the most recognisable faces of the \"Blue Collar Comedy Tour\", Ron \"Tater Salad\" White is adored by fans of his caustic wit and everyday calls-it-like-he-sees-it Texan charm. We talk about his discovery of the part of his brain that went on to make him his fortune, about what it means to murder a crowd, and what it's like to be a joke when he's working on you... Find more of Ron White:@ron_white www.tatersalad.com Learn more about the podcast:@comcompod www.comedianscomedian.com Sign-up to membership for exclusive extra content and access to the private extra podcast, including collaborative critique of new comedians' work, and \" You Interview Stu \": www.comedianscomedian.com/donate And come and see Stu's standup tour now! 11/05/2018 Bristol, Hen & Chickens 12/05/2018 Bath Rondo Theatre 16/05/2018 Norwich, Epic Studios 18/05/2018 Northampton Royal & Derngate 19/05/2018 Warwick Arts Centre (Coventry) 20/05/2018 Shrewsbury, Henry Tudor House 23/05/2018 Swindon Arts Centre 26/05/2018 Farnham Maltings 30/05/2018 Aldershot, West End Centre 01/06/2018 Sheffield, The Lescar 02/06/2018 York, The Basement 03/06/2018 Newcastle – The Stand 04/06/2018 Leeds, Duke Studios 08/06/2018 Southampton, Hanger Farm 09/06/2018 Cambridge Junction 12/06/2018 Edinburgh, The Monkey Barrel 13/06/2018 Glasgow, The Stand 15/06/2018 Birmingham Glee 17/06/2018 Brighton Komedia 21-23 June London, Soho Theatre 29/06/2018 Tringe Festival Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b79b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/245-ron-white-live-from-sxsw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58952922",
+      "itunes_duration": "1:00:23",
+      "speakers": [
+        "Ron Tater Salad White",
+        "Ron White ron white",
+        "Henry Tudor House",
+        "Birmingham Glee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "white",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "bfbd8d1282c57b04eda9e52bf1b7888abf839249",
+      "title": "244 - Tez Ilyas",
+      "published_at": "2018-04-23T19:25:34+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/244-tez-ilyas",
+      "description": "Very funny, amazingly watchable, and offering genuine insight into his personal and social politics, Tez Ilyas is a Northern, working-class, muslim comic capable of going all the way. Exceptionally frank about his disappointment on being overlooked for award nomination, he goes on to identify the historic lack of diversity on the judging panel of one of the most highly regarded prizes in British comedy... www.tezilyas.com | @tezilyas Stu's tour info at www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComCom Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7a2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/244-tez-ilyas/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76067791",
+      "itunes_duration": "1:19:14",
+      "speakers": [
+        "Tez Ilyas",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ilyas"
+      ]
+    },
+    {
+      "key": "2ba496c986b9c51ec3ab20b25c77ddedfbd9f377",
+      "title": "243 - Beth Stelling (Live from SXSW)",
+      "published_at": "2018-04-16T13:24:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/243-beth-stelling-live-from-sxsw",
+      "description": "Her laid-back style masking a sly wit that rewards your full attention, Beth Stelling is an indomitable comic force.Live at SXSW, we discuss risk and reward with regard to pace, bridging alt and mainstream, \"putting your briefcase away\" when it comes to your set-list, and why she'll never make another bagel sandwich... www.sweetbeth.com @bethstelling See Stu on tour in the UK at www.comedianscomedian.com/tour Support the podcast at www.comedianscomedian.com/donate @comcompod www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7a9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/243-beth-stelling-live-from-sxsw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63861859",
+      "itunes_duration": "1:05:30",
+      "speakers": [
+        "Beth Stelling",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "beth",
+        "stelling",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "04c0c4f07c6fbb7b9a2e9f5f04628afa4cfabbf6",
+      "title": "242 - Maria Bamford",
+      "published_at": "2018-04-09T12:26:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/242-maria-bamford",
+      "description": "It's hard to imagine a more expressive, searingly honest and comprehensively funny comic than Maria Bamford. After a year which saw her series and new special on Netflix propel her finally to the earning that befits her talent, Maria reflects on how money, property and prestige don't solve anything, what it's like to be an ex-underdog, and whether it's possible to make a not for profit TV show. We also cover the relationship between her bipolar and her day to day happiness, and ask how you function when \"weakness is the brand\"... @MariaBamfoo mariabamford.com See Stu on tour: www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7b0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/242-maria-bamford/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81657290",
+      "itunes_duration": "1:24:02",
+      "speakers": [
+        "Maria Bamford",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "maria",
+        "bamford"
+      ]
+    },
+    {
+      "key": "212110272da23fe48c309b828c7c9e3571321ae2",
+      "title": "241 - Jeremy Dyson (The League of Gentlemen)",
+      "published_at": "2018-04-03T11:29:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/241-jeremy-dyson-the-league-of-gentlemen",
+      "description": "Celebrating the release of hilarious and terrifying new movie \"Ghost Stories\", co-creators and childhood friends Andy Nyman and Jeremy Dyson talk to Stu about the myriad connections between comedy and horror... Best known as the invisible fourth member of British comedy legends The League of Gentlemen, Jeremy Dyson is expert at making the familiar unfamiliar. We talk here about the elegantly simple process that he and Andy used to develop \"Ghost Stories\" from page to West End stage to screen, and discover a jaw-dropping fact about the forthcoming League live tour! See Stu on tour: www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/241-jeremy-dyson-the-league-of-gentlemen/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46885615",
+      "itunes_duration": "47:49",
+      "speakers": [
+        "Andy Nyman",
+        "Jeremy Dyson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jeremy",
+        "dyson",
+        "league",
+        "gentlemen"
+      ]
+    },
+    {
+      "key": "b987fd90d8d37d0725863b097d99f7a649fba7d7",
+      "title": "240 - Andy Nyman",
+      "published_at": "2018-04-02T09:29:16+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/240-andy-nyman",
+      "description": "Celebrating the release of hilarious and terrifying new movie \"Ghost Stories\", co-creators Andy Nyman and Jeremy Dyson talk to Stu about the myriad connections between comedy and horror... Now known primarily for his acting work, Andy was once the silent partner of genre-redefining magician Derren Brown. We talk in detail about misdirection, rhythm and dramatic tension, share Andy's indignation at copycat performers, and find out whether it's cooler to be Bernie than Elton... See Stu on tour: www.comedianscomedian.com/tour Support the podcast: www.comedianscomedian.com/donate Ghost Stories is out this week at UK cinemas! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7be.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/240-andy-nyman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55562005",
+      "itunes_duration": "51:02",
+      "speakers": [
+        "Andy Nyman",
+        "Jeremy Dyson",
+        "Derren Brown",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andy",
+        "nyman"
+      ]
+    },
+    {
+      "key": "6e0f9e9406377af51c000fd9814794ebee9f5585",
+      "title": "239 - James Davis (Live from SXSW)",
+      "published_at": "2018-03-26T15:43:28+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/239-james-davis-live-from-sxsw",
+      "description": "James Davis' star is in the ascendent. In this live special episode from South By South West in Austin Texas, we discuss how the \"Hood Adjacent\" comic keeps his material provocative without being exploitative. Just off the back of writing gags for Will Smith on a major new movie, we learn how James is levelling up... James on Twitter: @TheJamesDavis James on Insta: instagram.com/theejamesdavis @comcompod See Stu on tour in the UK HERE Extra content available to donors at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7c5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/239-james-davis-live-from-sxsw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78653014",
+      "itunes_duration": "1:00:31",
+      "speakers": [
+        "James Davis",
+        "Will Smith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "james",
+        "davis",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "79c143d344423b8f56f86674ce8425de19a94fd1",
+      "title": "238 - Maeve Higgins (SXSW)",
+      "published_at": "2018-03-19T16:36:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/238-maeve-higgins-sxsw",
+      "description": "Marvellous Maeve Higgins has an apparently meandering style that conceals some seismic punchlines. Now resident in the US, she reveals how running a comedy workshop in Iraq and podcasting with different immigrants has led her to a more global consciousness. She shares some brilliant writing \"cheats\" for silencing your inner critic, and we explore in detail the close relationships she has cultivated with the editors of her novels and column... Find Maeve at www.maevehiggins.com or on Twitter @maeveinamerica @comcompod See Stu on tour in the UK HERE Bonus content and extra content from the Comcom back-catalogue available at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7cc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/238-maeve-higgins-sxsw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75324790",
+      "itunes_duration": "1:17:26",
+      "speakers": [
+        "Maeve Higgins",
+        "Marvellous Maeve Higgins",
+        "Find Maeve",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "maeve",
+        "higgins",
+        "sxsw"
+      ]
+    },
+    {
+      "key": "75d2815e52c49212113a8ab39f7769dd2bb1b0da",
+      "title": "237 - Ola The Comedian",
+      "published_at": "2018-03-14T13:35:13+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/237-ola-the-comedian",
+      "description": "Provocative, disarmingly frank and very funny, Ola is an emphatic voice in British comedy. As well as getting into the nitty-gritty of his creativity, we discuss Ola's faith as the foundation of his self-belief, and take a whirlwind tour through #WhiteTears, intersectionality and how he feels about wielding the racial discomfort of his audience... www.olathecomedian.com @olathecomedian Sunday Service @comcompod See Stu on tour in the UK at www.comedianscomedian.com/tour Support the podcast at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7d3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/237-ola-the-comedian/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107531892",
+      "itunes_duration": "1:50:59",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "comedian"
+      ]
+    },
+    {
+      "key": "52f95857685bff988ff89c7a60bcc07337c34379",
+      "title": "236 - Julio Torres",
+      "published_at": "2018-03-08T14:59:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/236-julio-torres",
+      "description": "An astonishingly original and creative approach to comedy finds El Salvadoran American \"space prince\" and SNL writer Julio Torres describing his favourite shapes to an audience, at some length. One of the most arresting comics around, we talk about his stillness, his spontaneity, and why he won't and/or can't change gear... spaceprincejulio.tumblr.com instagram.com/spaceprincejulio @juliothesquare @comcompod See Stu on tour in the UK at www.comedianscomedian.com/tour Sign up for bonus content and loads of extras at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7da.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/236-julio-torres/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85289972",
+      "itunes_duration": "1:27:49",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "julio",
+        "torres"
+      ]
+    },
+    {
+      "key": "9f9608c17e825d7b4c0188c77b987aa7cf128fde",
+      "title": "235 - Colin Hoult",
+      "published_at": "2018-02-26T22:50:07+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/235-colin-hoult",
+      "description": "Colin's sublime creation \"Anna Mann\" is a faded actress (little ripple of recognition?) on a mission to fight the fascists! But she is only the tip of phenomenally creative and hilarious iceberg of talent. We shine a light on the darkness of his \"Carnival of Monsters\", and discuss surviving depression, moving on from a double-act, and get some unbelievable detail on how he \"invites Anna in\"... See Anna on tour at www.colinhoult.net/tour And discover Anna's new podcast by following @ColinHoult on Twitter! See Stu's on tour: www.comedianscomedian.com/tour Support the podcast: www.comedianscomedian.com/insiders Submit your own original comedy material to \"Everyone's A Comedian\" at comedianscomedian.com/experiment - check the site for more details! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7e1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/235-colin-hoult/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114764435",
+      "itunes_duration": "1:58:31",
+      "speakers": [
+        "Colin Hoult",
+        "Anna Mann",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "colin",
+        "hoult"
+      ]
+    },
+    {
+      "key": "3494acf6ea6b1a758a9e7dd58ce06e33409c9e18",
+      "title": "234 - Arabella Weir",
+      "published_at": "2018-02-18T16:22:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/234-arabella-weir",
+      "description": "Her writing and performance in The Fast Show made her one of the most influential women in British sketch comedy; now Arabella Weir reflects on her work and the balance of power underpinning the five-man, most-often-one-woman sketch team. We discuss the tension and friction of making comedy; whether a happy person still has the same hunger to perform; and learn the awful truth about the genesis of her character \"Girl Who Boys Can't Hear\"... Follow Arabella on twitter: @arabellaweir See Stu's on tour: www.comedianscomedian.com/tour Exclusive bonus content and ad-free shows: www.comedianscomedian.com/insiders @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7e8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/234-arabella-weir/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93692425",
+      "itunes_duration": "1:36:34",
+      "speakers": [
+        "Arabella Weir",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "arabella",
+        "weir"
+      ]
+    },
+    {
+      "key": "0476d195fef951ccaf3d7330cbcbc98cef4db0ed",
+      "title": "Compared To What",
+      "published_at": "2018-02-14T17:51:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/compared-to-what",
+      "description": "This is my new standup album \"Compared To What\", which was my 2016 fringe show and my 2017 tour. If you enjoy it, you might consider liberally pasting the internet with this link to my new tour \"Like I Mean It\" - www.comedianscomedian.com/tour And if you loved it to bits you can buy a slightly better sound quality version, split into tracks like A Real Thing at https://tinyurl.com/y9w667du Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7ef.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/compared-to-what/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59085556",
+      "itunes_duration": "1:01:32",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "compared"
+      ]
+    },
+    {
+      "key": "dd3285451a70fae94df74f7566ab0ea184437d13",
+      "title": "233 - Jonathan Pie (Tom Walker & Andrew Doyle)",
+      "published_at": "2018-02-09T16:25:51+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/233-jonathan-pie-tom-walker-and-andrew-doyle",
+      "description": "Motormouth reporter Jonathan Pie is the creation of motormouth actor Tom Walker. His online videos of a furious news reporter apparently caught on camera are massively viral and often hilarious. We talk about the synthesis of an internet character into a live show, discover the politics of the writing team behind the agitator, and encounter the pressures of a weekly commitment to content. www.jonathanpie.com See Stu's on tour: www.comedianscomedian.com/tour Support the podcast: www.comedianscomedian.com/donate Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7f6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/233-jonathan-pie-tom-walker-and-andrew-doyle/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73777497",
+      "itunes_duration": "1:15:49",
+      "speakers": [
+        "Jonathan Pie",
+        "Tom Walker",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jonathan",
+        "walker",
+        "andrew",
+        "doyle"
+      ]
+    },
+    {
+      "key": "0dc419fc260c97101202b878a97be65bda8f1260",
+      "title": "232A - James Acaster: Returns (part two)",
+      "published_at": "2018-01-18T09:50:27+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/232a-james-acaster-returns-part-two",
+      "description": "In the second part of our conversation, comedy craftsman James Acaster examines his relationship to his audience, and how that changes under a variety of different pressures, and also reveals why he never sits down to write. Unlock 45 mins of extra material from this conversation detailing James' reaction to comedy criticism, and some brilliant advice he once gave Stu, at www.comedianscomedian.com/insiders www.jamesacaster.com Get tickets for James' tour: here See Stu's on tour: www.comedianscomedian.com/tour Buy Stu's new comedy album \"Compared To What\" here: comedianscomedian.bandcamp.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b7fd.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/232a-james-acaster-returns-part-two/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61606338",
+      "itunes_duration": "1:03:09",
+      "speakers": [
+        "James Acaster",
+        "Buy Stu",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "james",
+        "acaster",
+        "return"
+      ]
+    },
+    {
+      "key": "b45fc8e319bbe368931a5b4860c47fb9ca6bbb4c",
+      "title": "232 - James Acaster: Returns (part one)",
+      "published_at": "2018-01-17T10:20:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/232-james-acaster-returns-part-one",
+      "description": "About to drop four interlinked standup specials on Netflix, James Acaster is also the only comedian ever to have been nominated for the Edinburgh comedy award five years in a row. One of the defining comic voices of his generation, he returns to the show to share his writing process and how he sneaked out an autobiography by stealth... www.jamesacaster.com Get tickets for James' tour: here See Stu on tour: www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Buy Stu's new comedy album \"Compared To What\" here: comedianscomedian.bandcamp.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b804.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/232-james-acaster-returns-part-one/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79896310",
+      "itunes_duration": "1:22:12",
+      "speakers": [
+        "James Acaster",
+        "Buy Stu",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "james",
+        "acaster",
+        "return"
+      ]
+    },
+    {
+      "key": "61b2dd520f9ff8337d5bac251e83bf1a56407d89",
+      "title": "231 - Jess Robinson",
+      "published_at": "2017-12-19T14:08:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/231-jess-robinson",
+      "description": "Jess \"Mighty Voice\" Robinson is a phenomenal vocalist and impressionist, who has her audiences in tears of bliss as well as laughter. We talk about her experience on \"Britain's Got Talent\" when she was \"outed\" by press as a seasoned professional, and learn how to survive stage school. Finally Jess overcomes her desire to please, and very honestly and painfully reveals why a standing ovation never seems \"enough\"... www.jessrobinson.co.uk | @JessieRobinson See Stu on tour www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b80b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/231-jess-robinson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94333919",
+      "itunes_duration": "1:38:15",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jess",
+        "robinson"
+      ]
+    },
+    {
+      "key": "de3f665a9580520a3e8df578e37e39c81bd2371a",
+      "title": "229 - Zoe Coombs Marr",
+      "published_at": "2017-12-04T20:38:11+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/229-zoe-coombs-marr",
+      "description": "I've never seen such an immediate standing ovation as the one we gave Zoe Coombs-Marr at the end of her show \"Trigger Warning\" this year. Her multiple award-winning creation \"Dave\" is a troubled hack comic and the centre of an awesomely meta-textual subversion and dismantling of the craft of comedy. We talk about the range and limits of character work, learn about feminist super-group show \"Wild Bore\", and find out why she'd be happy to fail if it meant the world changed. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders See Stu on tour www.comedianscomedian.com/tour Join the growing Facebook comcompod community HERE @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b819.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/229-zoe-coombs-marr/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40802670",
+      "itunes_duration": "1:24:14",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "coombs",
+        "marr"
+      ]
+    },
+    {
+      "key": "d74a0ba96d3fc04d90fa24caa77ea3ed39bc6d44",
+      "title": "228 - Howard Read",
+      "published_at": "2017-11-28T20:35:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/228-howard-read",
+      "description": "Uniquely funny and inventive stand-up Howard Read has recently been performing a double-act with an animated cartoon child version of himself. We discuss the madness behind his method, explore the hazards of improvising double-act banter with oneself, and learn what he can and can't get away with... Good luck getting the Haberdashery song out of your head! www.howardread.com Browse over 200 episodes at www.comedianscomedian.com and Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders See Stu on tour at www.comedianscomedian.com/tour @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b820.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/228-howard-read/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49177730",
+      "itunes_duration": "1:41:46",
+      "speakers": [
+        "Howard Read",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "howard",
+        "read"
+      ]
+    },
+    {
+      "key": "94c8d81a6f528169c278a35aa6cc72bc74ae798b",
+      "title": "22X - Brian Regan (Re-release)",
+      "published_at": "2017-11-21T20:31:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/22x-brian-regan-re-release",
+      "description": "Celebrating the release of Brian's Netflix special, his work now available in the UK for the first time, we're proud to bring you this blast from the past! Well, 2016... Brian Regan is the undisputed master of the \"act-out\", reducing audiences to tears of joy as he inhabits one potent premise after another. We squeezed in half an hour backstage to talk about how he shapes and annotates his \"vignettes\", and find out why everyone considers him the nicest man in comedy. (Note to UK-based listeners. Even if you don't always download non-UK acts, please just give this a whirl; it's only short and he's INCREDIBLE .) Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders See Stu on tour www.comedianscomedian.com/tour Join the growing Facebook comcompod community HERE @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b827.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/22x-brian-regan-re-release/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20635365",
+      "itunes_duration": "42:04",
+      "speakers": [
+        "Brian Regan",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brian",
+        "regan",
+        "release"
+      ]
+    },
+    {
+      "key": "5ad15bd715498dcd3c0bd3cbc513475667a648e5",
+      "title": "227 - Sarah Kendall",
+      "published_at": "2017-11-13T17:39:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/227-sarah-kendall",
+      "description": "A superb comedian story-teller, Sarah Kendall's work is suffused with genuine meaning. She talks vividly here about controlling her anxiety and the aftermath of a nervous breakdown. We also delve into some specifics, including the financial imperative of turning over new work annually, and how she had to re-discover her audience after time away from the fringe... Sarah's latest tour show: https://www.comedy.co.uk/fringe/2017/sarah_kendall/ Support the podcast with a recurring donation! www.comedianscomedian.com Stu's spring tour now on sale! www.comedianscomedian.com/tour Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b82e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/227-sarah-kendall/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41435242",
+      "itunes_duration": "1:25:34",
+      "speakers": [
+        "Sarah Kendall",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sarah",
+        "kendall"
+      ]
+    },
+    {
+      "key": "ba344a1b0748bb94c6bea5f7787b10518db6e31d",
+      "title": "226 - Sean Patton",
+      "published_at": "2017-10-30T18:44:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/226-sean-patton",
+      "description": "Infused with the lyrical virtuosity of his native New Orleans, comic and story-teller Sean Patton is adept at finding the meaningful in the profane. We talk about his OCD; his fixation on the art and craft of comedy; why he favours purity over people-pleasing; and how the high school bullshit seeps back into the circuit... Buy Sean's album \"Standard Operating Procedure\" http://meseanpatton.com/merch/ See Stu Goldsmith on tour www.comedianscomedian.com/tour Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b835.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/226-sean-patton/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40409722",
+      "itunes_duration": "1:23:25",
+      "speakers": [
+        "Sean Patton",
+        "Buy Sean",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sean",
+        "patton"
+      ]
+    },
+    {
+      "key": "d24a604514f8892d46e83878ebbce9fd94e605e0",
+      "title": "225 - Reginald D Hunter",
+      "published_at": "2017-10-23T11:37:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/225-reginald-d-hunter",
+      "description": "Recorded at the close of the Edinburgh festival, this toweringly-charismatic lay-preacher of comedy is astonishingly candid in his reflection on the past few years. We get deep into some very personal stuff, as Reg reveals how his struggle to grieve for his late mother led to a years-long dark period. We learn what steps he took personally and creatively to recover; discover what bugs Reg about himself; and ask some difficult questions about his attitude towards women. *Please be aware that this conversation features some offensive language, including the use of a homophobic slur* Watch Reg on tour: http://www.reginalddhunter.com/uk-tour-2017/ Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Affected by the post-ramble? Have a look at these things men can do to change our work and life culture: www.theguardian.com/lifeandstyle/2017/oct/16/a-simple-list-of-things-men-can-do-to-change-our-work-and-life-culture Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b83c.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/225-reginald-d-hunter/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43417831",
+      "itunes_duration": "1:29:43",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "reginald",
+        "hunter"
+      ]
+    },
+    {
+      "key": "539a78ac8ba599c57481acd7dfb10c3b63974281",
+      "title": "224 - Tim McGarry (Live at Belfast Comedy Festival)",
+      "published_at": "2017-10-16T18:51:15+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/224-tim-mcgarry-live-at-belfast-comedy-festival",
+      "description": "One of the writers and stars of Northern Ireland's most successful sitcom \"Give My Head Peace\", wonderful Tim McGarry is adept at walking the tightrope of offence. We talk about his origins with The Hole In The Wall Gang; how it felt to write sketches about paramilitaries during the Troubles; and Stuart asks a \"wanky\" question that yields some interesting results... Listen to \"A Perforated Ulster\" Learn about \"Give My Head Peace\" Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b843.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/224-tim-mcgarry-live-at-belfast-comedy-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34211791",
+      "itunes_duration": "1:10:27",
+      "speakers": [
+        "Tim McGarry",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mcgarry",
+        "belfast",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "64ea90e717ee39af1589362766c58a666a96460b",
+      "title": "223 - Jo Caulfield",
+      "published_at": "2017-10-10T17:52:28+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/223-jo-caulfield",
+      "description": "Is there such a thing as warm malice? One of the UK's classiest comics, Jo Caulfield wields spite like a glittering scalpel, to hilarious effect. We talk about her evolving relationship to her audience, discover the holy grail of TV warm-up, and consider changing the names to protect the innocent... www.jocaulfield.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b84a.png",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/223-jo-caulfield/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41423962",
+      "itunes_duration": "1:25:33",
+      "speakers": [
+        "Jo Caulfield",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "caulfield"
+      ]
+    },
+    {
+      "key": "766186a281f57108adee0e2416e5cc84fbdf04ce",
+      "title": "222 - Joe DeRosa",
+      "published_at": "2017-10-03T09:37:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/222-joe-derosa",
+      "description": "In this \"lost\" episode recorded in Edinburgh in 2016, Joe DeRosa peels back the layers of his hilariously disgruntled standup about anxiety, therapy and suicide. He rails against comedy being used to self-serve, champions the rebellious spirit of the comedian, and details fearlessly walking away from opportunity... Joe's new special \"You Let Me Down\" is now available to purchase all over the internet. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b851.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/222-joe-derosa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46151539",
+      "itunes_duration": "1:35:27",
+      "speakers": [
+        "Joe DeRosa",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "derosa"
+      ]
+    },
+    {
+      "key": "6bba2aeadb064d22418d2fb4c09e5ed127b4aba5",
+      "title": "221 - Michael Legge (Live at Objectively Funny Festival)",
+      "published_at": "2017-09-26T10:08:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/221-michael-legge-live-at-objectively-funny-festival",
+      "description": "Fuelled by a seemingly-bottomless well of anger, and capable of articulating it hilariously, Michael Legge rages that life isn't as beautiful as it should be. We learn how his own righteous ire mimics that of his bulletproof mum, discover the origins of twitter game #FuckAThing, and just at the end get him to say something pretentious about art. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b858.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/221-michael-legge-live-at-objectively-funny-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30228097",
+      "itunes_duration": "1:02:07",
+      "speakers": [
+        "Michael Legge",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "michael",
+        "legge",
+        "objectively",
+        "funny",
+        "festival"
+      ]
+    },
+    {
+      "key": "4c5a3b4e0ee625804279af67b291873a55f0aa4a",
+      "title": "220 - Sasheer Zamata",
+      "published_at": "2017-09-18T17:31:56+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/220-sasheer-zamata",
+      "description": "Former SNL cast-member Sasheer is a phenomenally accomplished standup and comic actor, as well as a celebrity ambassador for the ACLU. At Just For Laughs Montreal, we discuss the confidence with which she frames her act, delve into her first standup special \"Pizza Mind\", and uncover her enthusiasm for life-coaching and it's effect on the finely-honed application of her will power... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b85f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/220-sasheer-zamata/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36404390",
+      "itunes_duration": "1:15:12",
+      "speakers": [
+        "Sasheer Zamata",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sasheer",
+        "zamata"
+      ]
+    },
+    {
+      "key": "26533363675a87cf1c4a43f5efd02fa135236464",
+      "title": "219 - Sugar Sammy",
+      "published_at": "2017-09-11T19:28:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/219-sugar-sammy",
+      "description": "Montreal's biggest comedy export, Sugar Sammy is a textbook example of a comic who made it happen all by himself. We discuss the cultural currents involved with his ability to headline a show in four different languages; his focus on quality control, from pruning his online presence to interviewing audience-members post-show; and find out why he wants to get better at holding his nerve... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b866.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/219-sugar-sammy/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31453344",
+      "itunes_duration": "1:04:41",
+      "speakers": [
+        "Sugar Sammy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sugar",
+        "sammy"
+      ]
+    },
+    {
+      "key": "977afa72ada14f1393bfe5b611e3c273f4d34d33",
+      "title": "218 - Liza Treyger",
+      "published_at": "2017-09-04T15:12:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/218-liza-treyger",
+      "description": "Possessed of an inordinate self-belief, Liza Treyger is one of the sharpest, funniest comics ever to not give a shit what you think of her. Named one of Variety's \"Ten To Watch\" at this year's Just For Laughs, the Odessa-born firebrand discusses how a trip to Palm Springs with a stylist changed her brain; her self-sabotage techniques; wanting women to have a great time, and how to tell which couples in an audience aren't fucking. Follow Liza Treyger @GlitterCheese Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b86d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/218-liza-treyger/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35141805",
+      "itunes_duration": "1:12:24",
+      "speakers": [
+        "Liza Treyger",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "liza",
+        "treyger"
+      ]
+    },
+    {
+      "key": "1723354e488b2cfe4e577a93e01faead57016dbd",
+      "title": "217 - W Kamau Bell (Live at Just For Laughs Montreal)",
+      "published_at": "2017-08-27T14:28:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/217-w-kamau-bell-live-at-just-for-laughs-montreal",
+      "description": "Comedy powerhouse Kamau finds time in-between podcasting, writing, and hosting the Emmy Award nominated \"United Shades of America\"on CNN, to produce deliriously funny sociopolitical standup. We talk about swerving the obvious joke, the balance of vulnerability and power, and find out why even Chris Rock said Kamau talks too much about racism... Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b874.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/217-w-kamau-bell-live-at-just-for-laughs-montreal/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32692083",
+      "itunes_duration": "1:07:17",
+      "speakers": [
+        "Chris Rock",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kamau",
+        "bell",
+        "laughs",
+        "montreal"
+      ]
+    },
+    {
+      "key": "b141824e4c02b437101b21c75c446f70f982b969",
+      "title": "216 - Andy Daly",
+      "published_at": "2017-08-07T17:50:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/216---andy-daly",
+      "description": "A phenomenally accomplished comic improviser and character comedian, Andy Daly revels in revealing the blackly comic internal lives of his creations. We talk about his show \"Review With Forrest McNeil\", discover how playing on Comedy Bang Bang helps develop his characters, find out what makes Andy's wife roll her eyes, and enjoy a wee bit o' blarney... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b87b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/216---andy-daly/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38694631",
+      "itunes_duration": "1:19:51",
+      "speakers": [
+        "Andy Daly",
+        "Comedy Bang Bang",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andy",
+        "daly"
+      ]
+    },
+    {
+      "key": "ef125afa1b5273426202d6a1fa8282cb57530e39",
+      "title": "215 - Ivan Aristeguieta",
+      "published_at": "2017-07-31T19:41:11+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/215---ivan-aristigueta",
+      "description": "Venezuelan Ivan is a comic powerhouse, with an intensely scientific approach underpinning his sensual performance. Self-taught by translating classic routines into Spanish, he's achieved a genuine mastery of the ingredients necessary for faultless joke structure; as soon as he starts outlining Louis CK's \"foundational premise\", you'll be hooked... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b882.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/215---ivan-aristigueta/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33067124",
+      "itunes_duration": "1:08:04",
+      "speakers": [
+        "Venezuelan Ivan",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ivan",
+        "aristeguieta"
+      ]
+    },
+    {
+      "key": "cc9e98c82d6558beaebc49e15211e436e446aba9",
+      "title": "214 - Nick Cody",
+      "published_at": "2017-07-26T19:54:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/214---nick-cody",
+      "description": "A globe-trotting man-bear with a fiery beard and a heart of gold, Nick Cody becomes the audience's best friend on sight, but doesn't skimp on big-hitting routines. We talk about the parallels in achievement between sport and comedy, targeting the whole world's audience, and Conor McGregor... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b889.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/214---nick-cody/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43188133",
+      "itunes_duration": "1:29:15",
+      "speakers": [
+        "Nick Cody",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "cody"
+      ]
+    },
+    {
+      "key": "c1fb9a74e74dde51c6506385f521fd73434bdea6",
+      "title": "213 - Simon Munnery",
+      "published_at": "2017-07-17T17:44:36+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/213---simon-munnery",
+      "description": "Responsible for some of the funniest and most intelligent one-liners in the world, Simon Munnery has a brain like none other. Rarely will you find another comic so enthralled by serving \"the idea\", whether through Kierkegaardian prose or innovative but unreliable technology. Simon reveals his approach to writing epigrammatic jokes, and Stu gently bullies him into trying harder to get back on TV. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b890.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/213---simon-munnery/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39041822",
+      "itunes_duration": "1:20:42",
+      "speakers": [
+        "Simon Munnery",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "simon",
+        "munnery"
+      ]
+    },
+    {
+      "key": "238bd83ddc3dfd625997b5358b09c649d6c72bcc",
+      "title": "212 - Orlando Baxter",
+      "published_at": "2017-07-10T15:58:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/212---orlando-baxter",
+      "description": "A bright young thing of the Boston comedy scene, Orlando Baxter conceals a sharp wit beneath a laidback persona. We talk about college gigs, Set-List, and why Americans ostentatiously carry their phones onstage. We also explore his reticence to go deep into his own life experiences, the importance of putting asses in seats, and why YouTubers can't hide... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b897.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/212---orlando-baxter/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42099011",
+      "itunes_duration": "1:26:58",
+      "speakers": [
+        "Orlando Baxter",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "orlando",
+        "baxter"
+      ]
+    },
+    {
+      "key": "5a09743030800fce252770f106d6e2295f349131",
+      "title": "211 - Barry Cryer",
+      "published_at": "2017-07-03T18:39:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/211---barry-cryer",
+      "description": "For more than 50 years Barry Cryer OBE has been a lynchpin of British comedy. Having written for Morecambe & Wise, Tommy Cooper, The Frost Report and Kenny Everett, he still performs in \"I'm Sorry I Haven't A Clue\" and will be appearing live once again at the year's Edinburgh Festival. We discuss joke structure, word choice and rapport, and Stu achieves a life-long ambition by telling Barry the \"Beekeepers\" joke. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b89e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/211---barry-cryer/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57776390",
+      "itunes_duration": "1:59:56",
+      "speakers": [
+        "Barry Cryer Obe",
+        "Tommy Cooper",
+        "Kenny Everett",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "barry",
+        "cryer"
+      ]
+    },
+    {
+      "key": "00da11309fa08989b515cc7165d8a6ac5c90300f",
+      "title": "210 - Pippa Evans",
+      "published_at": "2017-06-27T19:47:14+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/210---pippa-evans",
+      "description": "In-between appearing in Olivier Award-winning improvised musical \"Showstopper!\" and co-founding the \"radically inclusive global movement\" Sunday Assembly, Pippa Evans is a poly-performative stand-up, singer and actress. We talk about what made her character \"Loretta Maine\" so successful, and some of the inherent drawbacks; and we discuss her unique brand of self-confidence, the moment her jealousy overcame her, and how she dealt with the fallout... See more of Pippa at www.pippaevans.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8a5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/210---pippa-evans/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55142115",
+      "itunes_duration": "1:54:16",
+      "speakers": [
+        "Pippa Evans",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "pippa",
+        "evans"
+      ]
+    },
+    {
+      "key": "261dcbb5f726d1f7584e094424ea40e06bfcd6ee",
+      "title": "209 - Ed Gamble (Live at Stonefree Festival)",
+      "published_at": "2017-06-20T17:13:20+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/209---ed-gamble-live-at-stonefree-festival",
+      "description": "Clean-cut to within an inch of his life, spunky Ed Gamble is a deft young comic who attributes his burgeoning success to being in the right place at the right time. We discuss the affect on his persona of the \"Peacock & Gamble\" double-act, learn how he created comedian Nish Kumar and tremble before his voracious appetite (for tagging jokes). Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8ac.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/209---ed-gamble-live-at-stonefree-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35864933",
+      "itunes_duration": "1:13:56",
+      "speakers": [
+        "Ed Gamble",
+        "Nish Kumar",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gamble",
+        "stonefree",
+        "festival"
+      ]
+    },
+    {
+      "key": "1555cdd507e3e0ab52a9dfb32d323d0b89620705",
+      "title": "Micro-pod: T-shirts! \"Hell Week\"! Wedding Amble!",
+      "published_at": "2017-06-15T18:27:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/micro-pod-t-shirts-hell-week-wedding-amble",
+      "description": "In this quicky micro-pod, Stu talks all soppy like about his recent nuptials. (Also T-shirt pre-sale info and a quick ad for some London previews this weekend he neglected to advertise. At all.) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8b3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/micro-pod-t-shirts-hell-week-wedding-amble/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "8902111",
+      "itunes_duration": "9:16",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "shirt",
+        "hell",
+        "week",
+        "wedding",
+        "amble"
+      ]
+    },
+    {
+      "key": "66c4864ae22d3dbc877885da9638d9b43148bd3b",
+      "title": "208 - Jo Brand (Live at Soho Theatre)",
+      "published_at": "2017-06-12T16:14:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/208---jo-brand-live-at-soho-theatre",
+      "description": "Since the 1980's Jo Brand has been synonymous with the best of British comedy, rising to the top of the industry at a time when female comics were outnumbered sixteen to one. We find out whether her grumpiness is an act, applaud her resilience in the face of some of the disgraceful things people have said to her, and discover her feelings about the place of \"fat\" jokes in a perhaps more progressive 2017. Very strong language from the beginning of the episode. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8b8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/208---jo-brand-live-at-soho-theatre/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37609576",
+      "itunes_duration": "1:17:35",
+      "speakers": [
+        "Jo Brand",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brand",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "bfc8c2ce2f1a3bbe190c10eaaa4afed125362f07",
+      "title": "207 - Tom Ballard",
+      "published_at": "2017-06-05T22:14:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/207---tom-ballard",
+      "description": "Multiple award-botherer Tom is well-read, politically-conscious and adept at turning argument into meaningful comedy. He's also really aggravatingly young and funny and successful. We discuss his politicisation, his approach to writing and editing, and whether he deliberately left his show-script out on his desk for Stu to see... Catch up with Tom at www.tomballard.com.au Tom's podcast \" Like I'm A Six Year Old \" Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8bf.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/207---tom-ballard/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43696753",
+      "itunes_duration": "1:30:20",
+      "speakers": [
+        "Tom Ballard Multiple",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ballard"
+      ]
+    },
+    {
+      "key": "959d8768e94182d9c218f106f19c09e94cb83425",
+      "title": "206 - Lost Voice Guy (AKA Lee Ridley)",
+      "published_at": "2017-05-29T14:51:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/206---lost-voice-guy-aka-lee-ridley",
+      "description": "A punchline powerhouse with a genuinely unique act, Lee Ridley is adept at skewering his audience's unspoken prejudices. Unable to speak due to his cerebral palsy, Lee communicates entirely through an electronic aid, on- and off-stage. We discuss how he overcomes the specific challenges this presents to a comic, and learn in more than usual detail how he \"found his voice\". And why he chose that accent... Follow Lee's work at lostvoiceguy.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8c6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/206---lost-voice-guy-aka-lee-ridley/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34415007",
+      "itunes_duration": "1:10:54",
+      "speakers": [
+        "Lee Ridley",
+        "Follow Lee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lost",
+        "voice",
+        "ridley"
+      ]
+    },
+    {
+      "key": "6c219ba7112074c2101583922f14246a079adc83",
+      "title": "205 - Rhys Nicholson",
+      "published_at": "2017-05-22T16:30:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/205---rhys-nicholson",
+      "description": "Immaculate in appearance, delivery and hit-rate, Rhys Nicholson is a perfectly-balanced cocktail of a comedian. We discuss the relationship between his face, his \"face\" and the world of drag, and zero in on the pressures of following up an award-nominated show... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8cd.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/205---rhys-nicholson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41363623",
+      "itunes_duration": "1:25:27",
+      "speakers": [
+        "Rhys Nicholson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rhys",
+        "nicholson"
+      ]
+    },
+    {
+      "key": "cd58373176ac7a0bfb997d709bedc8beb5f06353",
+      "title": "204 - Jeremy Hardy (Live at Soho Theatre)",
+      "published_at": "2017-05-15T16:38:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/204---jeremy-hardy-live-at-soho-theatre",
+      "description": "In his fourth decade as a comic, Jeremy Hardy is a staple of British comedy radio. His passion for vivid, punchline-filled writing is further enlivened by his political fervour. We find out what people most often get wrong about the birth of alternative comedy, discuss his choice of words and analogies, and explore why he hates being labelled a political comic. @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8d4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/204---jeremy-hardy-live-at-soho-theatre/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37492319",
+      "itunes_duration": "1:17:20",
+      "speakers": [
+        "Jeremy Hardy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jeremy",
+        "hardy",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "a080362a3148317912ad7d747f84b595b37cfbd7",
+      "title": "203 - Aunty Donna",
+      "published_at": "2017-05-08T17:44:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/203---aunty-donna",
+      "description": "Aunty Donna are a six-man sketch team with specialists in video, sound design and stage direction reinforcing the classic clown family of octopus Statham, wild-eyed loon and wanking sex-monkey. We talk about the method behind the madness, the effect their online presence has on their creativity, and the meetings required to steer a six person/six partner battleship. TheAuntyDonnaChannel | www.auntydonna.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8db.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/203---aunty-donna/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36400748",
+      "itunes_duration": "1:15:03",
+      "speakers": [
+        "sound design",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "aunty",
+        "donna"
+      ]
+    },
+    {
+      "key": "c1186f3c4d3ef6a482189c0f099166abd57d486f",
+      "title": "202 - Hannah Gadsby (Live at Melbourne Comedy Festival)",
+      "published_at": "2017-04-11T12:36:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/202---hannah-gadsby-live-at-melbourne-comedy-festival",
+      "description": "Having grown up in Tasmania at a time when her very sexuality was illegal, Hannah Gadsby has forged her anger into an annihilating comic weapon. Her new show \"Nanette\" is a heart-wrenching piece of work that rails against the failings of comedy itself to tell enough of the truth. We talk about honesty and accessibility, and her decision to stop being a comedian. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8e2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/202---hannah-gadsby-live-at-melbourne-comedy-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35306201",
+      "itunes_duration": "1:12:46",
+      "speakers": [
+        "Hannah Gadsby",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hannah",
+        "gadsby",
+        "melbourne",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "080ffe4833f40f6c9544754070635cc2fe3f0a20",
+      "title": "20X - Melbourne Comedy Festival 2017 Special Post-amble",
+      "published_at": "2017-04-05T16:25:05+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/20x---melbourne-comedy-festival-2017-special-post-amble",
+      "description": "No interview this week, but loads of great ones on the way, so this week I'm giving you an update of what's been happening in Melbourne. If you're going to the Melbourne Comedy Festival then make sure you see Deanne Smith, Aunty Donna, Aaron Chen, Tom Walker, Des Bishop, Ahir Shah, Becky Lucas and Rebecca Walker. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8e9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/20x---melbourne-comedy-festival-2017-special-post-amble/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9656074",
+      "itunes_duration": "19:05",
+      "speakers": [
+        "Deanne Smith",
+        "Aunty Donna",
+        "Aaron Chen",
+        "Tom Walker",
+        "Ahir Shah",
+        "Becky Lucas",
+        "Rebecca Walker",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "melbourne",
+        "comedy",
+        "festival",
+        "special",
+        "post"
+      ]
+    },
+    {
+      "key": "aded9f28c7d1197b093cfbe91190fa0699cf6247",
+      "title": "200 - Stewart Lee",
+      "published_at": "2017-03-06T17:21:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/200---stewart-lee-1",
+      "description": "One of the most iconoclastic, pioneering and influential comedians in Britain, Stewart Lee has forged his post-punk ideals into a thrillingly funny live act, with the very form at his fingertips.We explore the deliberately uncomfortable tension between the man and the stage persona; discuss his self-imposed exclusion from the comedy community; and investigate his unshakeable conviction that he is in fact unsuccessful. Follow Stewart on tour www.stewartlee.co.uk Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8f5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/200---stewart-lee-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65920302",
+      "itunes_duration": "2:16:51",
+      "speakers": [
+        "Stewart Lee",
+        "Follow Stewart",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stewart"
+      ]
+    },
+    {
+      "key": "ac2f420ec450f050c0a0765b89b29e3c5505350c",
+      "title": "199 - Paul Chowdhry (Live at Soho)",
+      "published_at": "2017-02-27T18:29:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/199---paul-chowdhry-live-at-soho-1",
+      "description": "An electrifying live performer, with a casual brutality that has audiences laughing despite themselves, Paul Chowdhry sells far more tickets than his mid-level TV profile might suggest. We talk about his outsider status, the racial abuse he suffered as a child, and the responsibility or otherwise of the comedian to challenge the status quo. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b8fc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/199---paul-chowdhry-live-at-soho-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39880604",
+      "itunes_duration": "1:22:21",
+      "speakers": [
+        "Paul Chowdhry",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "chowdhry",
+        "soho"
+      ]
+    },
+    {
+      "key": "3c03054c79290104206d2209e10def52553d8091",
+      "title": "198 - Mark Forward",
+      "published_at": "2017-02-20T18:30:12+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/198---mark-forward-1",
+      "description": "Mark Forward is one of Canada's finest comic exports, with a genuinely off-the-wall approach to his comedy, and the resolve that comes of having retired and come back to the profession. We talk about humble arrogance; looking for milestones; the joy of silence; and ask how many people have to tell you you're good before you believe them... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b903.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/198---mark-forward-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50865696",
+      "itunes_duration": "1:45:21",
+      "speakers": [
+        "Mark Forward",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mark",
+        "forward"
+      ]
+    },
+    {
+      "key": "e8251df6ffd897e552e1b0c3476fee1444490500",
+      "title": "197 - Phil Wang",
+      "published_at": "2017-02-13T22:15:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/197---phil-wang-1",
+      "description": "Phil Wang is a suave dork, a confident nerd, a feminist creep and a very funny young man. We uncover his childhood being hit with sticks in Malaysia, and track his comedy odyssey via presidency of Cambridge Footlights to \"Have I Got News For You?\" (BBC). We also talk about the development and shrewd positioning of his sketch outfit \"Daphne\", and his relationship to the word \"yellow\". Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b90a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/197---phil-wang-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47842463",
+      "itunes_duration": "1:39:01",
+      "speakers": [
+        "Phil Wang",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "phil",
+        "wang"
+      ]
+    },
+    {
+      "key": "bb40f5c133410b437519cc93c5a89af5756d62c8",
+      "title": "196 - Rachel Parris",
+      "published_at": "2017-02-07T13:34:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/196---rachel-parris-1",
+      "description": "Comedian, singer, musician and key member of improvisational powerhouse \"Austentatious\", Rachel Parris revels in undercutting her nice girl image with some tough material. We talk about how audiences listen differently to talking and singing; how to survive the sinking feeling of a tough festival; and her experience spinning a chat with the Samaritans into comedy gold... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour You can email Samaritans at any time – jo@samaritans.org Whatever you're going through, call Samaritans free any time, from any phone in the UK on 116 123. Samaritans are all volunteers, all there round the clock, 24 hours a day, 365 days a year. If you need a response immediately, it's best to call on the phone. The number is FREE to call. You don't have to be suicidal to call. @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b911.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/196---rachel-parris-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42556759",
+      "itunes_duration": "1:27:57",
+      "speakers": [
+        "Rachel Parris",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rachel",
+        "parris"
+      ]
+    },
+    {
+      "key": "7bd6196c6563d5c27ceb5f0caec38af178316084",
+      "title": "195 - Elis James and John Robins (Live from Soho Theatre)",
+      "published_at": "2017-01-30T17:07:36+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/195---elis-james-and-john-robins-live-from-soho-theatre-1",
+      "description": "Elis James and John Robins have both appeared on the show before as comics in their own right, but in this live special we focus on the work that goes into their endlessly funny and heartfelt radio and podcast double-act. We explore the hidden language of the show, the dramatic improvement in their standup work, and a factually accurate description of the band Queen... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b918.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/195---elis-james-and-john-robins-live-from-soho-theatre-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41141088",
+      "itunes_duration": "1:24:59",
+      "speakers": [
+        "John Robins",
+        "Elis James",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "elis",
+        "james",
+        "john",
+        "robins",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "cec1a15d4b56b39518ef556b1dfbbd1a71fd77ad",
+      "title": "194 - Brian Regan",
+      "published_at": "2017-01-23T17:46:17+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/194---brian-regan",
+      "description": "Brian Regan is the undisputed master of the \"act-out\", reducing audiences to tears of joy as he inhabits one potent premise after another. We squeezed in half an hour backstage to talk about how he shapes and annotates his \"vignettes\", and find out why everyone considers him the nicest man in comedy.Note to UK-based listeners... Even if you don't always download non-UK acts, please just give this a whirl; it's only short and he's INCREDIBLE. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b91f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/194---brian-regan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27449574",
+      "itunes_duration": "56:20",
+      "speakers": [
+        "Brian Regan",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brian",
+        "regan"
+      ]
+    },
+    {
+      "key": "c193392c3025c0172c1bf01f7921e002e530e6f1",
+      "title": "193 - Angela Barnes",
+      "published_at": "2017-01-16T18:09:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/193---angela-barnes-1",
+      "description": "Radio and TV regular Angela is a prodigious joke-writer with a reputation for sharp material delivered in a world-weary manner. A former mental health professional, who \"lost\" her twenties to mental health problems she could deftly conceal, we talk about topical and political comedy, and ask whether her punchline density is really driven by insecurity... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b926.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/193---angela-barnes-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37539162",
+      "itunes_duration": "1:17:27",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "angela",
+        "barnes"
+      ]
+    },
+    {
+      "key": "cef52438200b218218ed377e5d8873597ff2180b",
+      "title": "192 - Elis James",
+      "published_at": "2017-01-09T19:35:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/192---elis-james",
+      "description": "Like a reverse superhero, Elis James is a warm and charismatic story-teller, able to summon a hilarious, tiny-fisted, ranting neurotic from a parallel universe. We discuss how his persona changes when performing in English or his native Welsh, explore his sumptuous vocabulary, and unpack his superbly anecdotal style. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b92d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/192---elis-james/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40206692",
+      "itunes_duration": "1:23:02",
+      "speakers": [
+        "Elis James",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "elis",
+        "james"
+      ]
+    },
+    {
+      "key": "5c989d5465b421458da42e5594404fed60705ee8",
+      "title": "191 - Pappy's Return",
+      "published_at": "2016-12-19T20:39:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/191---pappys-return",
+      "description": "Pappys return to the show after four years to discuss BBC3's Badults, live shows, their future together, and whether they'll ever go back to Edinburgh. Laughter, tears and dickheads in a very festive special episode... Download the accompanying episode from Pappy's Flatshare Slamdown Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b934.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/191---pappys-return/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83591104",
+      "itunes_duration": "1:27:04",
+      "speakers": [
+        "Return Pappys",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "pappy",
+        "return"
+      ]
+    },
+    {
+      "key": "998328ae3603ea587c393c817acbac19029ac16c",
+      "title": "190 - Fern Brady",
+      "published_at": "2016-12-12T16:57:55+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/190---fern-brady",
+      "description": "Fern Brady is a fiercely funny and provocative comic, with an invigorating ability to combine eloquence and bluntness. A Guardian columnist and accidental spokesperson, she talks here about managing her anger, her frustrated attempts to make friends, and why she's often surprised to hear that she doesn't give a fuck... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b93b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/190---fern-brady/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53057259",
+      "itunes_duration": "1:49:56",
+      "speakers": [
+        "Fern Brady",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "fern",
+        "brady"
+      ]
+    },
+    {
+      "key": "6d2cd7ffec960c89d2479ae5f28cae34943dac34",
+      "title": "189 - Chris Gethard",
+      "published_at": "2016-12-05T16:28:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/189---chris-gethard",
+      "description": "Softly spoken and absolutely committed to the truth, Chris Gethard took Edinburgh by storm with a searingly honest and blackly funny show about depression and attempted suicide. We talk about creativity and catharsis, his superb blogs, and whether or not performing is therapy... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b942.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/189---chris-gethard/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34906119",
+      "itunes_duration": "1:11:56",
+      "speakers": [
+        "Chris Gethard",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "chris",
+        "gethard"
+      ]
+    },
+    {
+      "key": "c8402730fb34e0039b46b63d8b39e926bbd0c6e1",
+      "title": "188 - Andy Askins",
+      "published_at": "2016-11-28T17:19:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/188---andy-askins",
+      "description": "One of comedy's happiest and most humble men, Andy Askins reduces audiences to tears with his beautifully subtle and innocent-seeming punchlines. We discover the extraordinary backstory to his career, and find out about the decisions behind his whispered powerhouse performance. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b949.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/188---andy-askins/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42367793",
+      "itunes_duration": "1:27:32",
+      "speakers": [
+        "Andy Askins",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andy",
+        "askins"
+      ]
+    },
+    {
+      "key": "9a62c45f4bda239e75ee738bcf6aaf88afd8e40b",
+      "title": "187 - Carmen Lynch",
+      "published_at": "2016-11-21T16:22:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/187---carmen-lynch-1",
+      "description": "Carmen Lynch combines deft writing, rhythm and performative poise, to deadly effect. We talk about stopping and re-starting comedy, and how it feels to escape from the day-job a second time. We also explore the beauty in simplicity, how to beat shyness with performance, and her recent spots on Letterman and Conan. Follow @lynchcarmen or go to www.carmenlynch.com for more info. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b950.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/187---carmen-lynch-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71058911",
+      "itunes_duration": "1:14:01",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "carmen",
+        "lynch"
+      ]
+    },
+    {
+      "key": "5136da7ed9f3e2c8dae78b38717fefd5ced7cb18",
+      "title": "186 - Tony Law Returns",
+      "published_at": "2016-11-15T16:35:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/186---tony-law-returns-1",
+      "description": "A lot has changed since Old Tone's last appearance on the podcast. He's clean, sober and re-launching, but no less of a uniquely hilarious act. We talk about how he's trying to extract value from everything in his life, and look back on how, like Obelix, he fell into the potion... Enjoy ad-free episodes plus a ton of extra content from interviews, as well as access to the private podcast and our super-fan community at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b957.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/186---tony-law-returns-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92682303",
+      "itunes_duration": "1:36:32",
+      "speakers": [
+        "Tony Law Returns",
+        "Old Tone",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tony",
+        "return"
+      ]
+    },
+    {
+      "key": "386b3d599cb47b996b3dc6c9a821a8441b6e520a",
+      "title": "185 - Jonny And The Baptists",
+      "published_at": "2016-11-07T17:02:39+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/185---jonny-and-the-baptists-1",
+      "description": "Jonny Donahoe and Paddy Gervers are political musical comics with real jokes, real music and real politics. Regulars on R4's The Now Show, and creators of iTunes chart-topping \"The Farage Song\", they discuss the creative dynamic behind their work, and profess a disgusting amount of love and respect for one another. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b95e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/185---jonny-and-the-baptists-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46038074",
+      "itunes_duration": "1:35:14",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jonny",
+        "baptists"
+      ]
+    },
+    {
+      "key": "3d1f3bea28defe876f341f95862b53a079a8ca5a",
+      "title": "184 - Barry Crimmins",
+      "published_at": "2016-10-31T17:14:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/184---barry-crimmins-1",
+      "description": "Legendary comic Barry Crimmins kickstarted Boston's comedy scene in the 1980s, testified to the Senate against AOL.com profiteering from child pornography, and is to this day both a political firebrand and an intensely kind man. We talk about his new special \"Whatever Threatens You\", released this week by Louis CK; political comedy and being your own trusted source; and Barry also acknowledges the personal cost of a life of activism. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b965.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/184---barry-crimmins-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34841672",
+      "itunes_duration": "1:11:28",
+      "speakers": [
+        "Barry Crimmins",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "barry",
+        "crimmins"
+      ]
+    },
+    {
+      "key": "287f24db777e0db01f3b6a3f7140f39378b5b67a",
+      "title": "183 - Paul Currie",
+      "published_at": "2016-10-24T16:50:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/183---paul-currie-1",
+      "description": "Sweaty, bearded turbo-clown Paul Currie's shows are stuffed with unforgettable images, feelings and smells. Beloved of comedy's intelligentsia, this award-winning performer doesn't let go of your heart until the last cornflake is eaten and the last tear shed. We discuss the cultural ecology of his native Northern Ireland; the difficulties of working in isolation; and we also talk about how the apparent vogue for clowning affects a veteran performer. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b96c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/183---paul-currie-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44658022",
+      "itunes_duration": "1:32:21",
+      "speakers": [
+        "Paul Currie",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "currie"
+      ]
+    },
+    {
+      "key": "742cbf46c22d84d617127c5547ab0406bf1fa314",
+      "title": "182 - Cameron Esposito",
+      "published_at": "2016-10-17T16:18:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/182---cameron-esposito-1",
+      "description": "A small-town girl who realised pretty late she was a giant lesbian, Cameron Esposito has evolved into a hilarious alpha-female hero comic. We talk about body-shaming, power-stances and side-mullets, and why this next decade is going to be awesome for women... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b973.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/182---cameron-esposito-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37088566",
+      "itunes_duration": "1:16:31",
+      "speakers": [
+        "Cameron Esposito",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "cameron",
+        "esposito"
+      ]
+    },
+    {
+      "key": "389e836f3548d0daa9390ef2314c23c072996012",
+      "title": "181 - John Robins",
+      "published_at": "2016-10-10T16:54:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/181---john-robins-1",
+      "description": "Erudite stand-up, amazingly elastic improviser, and Goldsmith facial-resembler, John Robins is hitting his stride. We talk about the difficulties of changing gear mid-career, treating writing shows like writing essays, and being driven by shame. Find tickets for John's podcast live tour at www.elisandjohn.com Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b97a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/181---john-robins-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39497455",
+      "itunes_duration": "1:21:34",
+      "speakers": [
+        "John Robins",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "20e6a60d399c5699dfcd365777410d9da7d30e47",
+      "title": "180 - Tim Minchin (Live at the Los Angeles Podcast Festival)",
+      "published_at": "2016-10-03T16:54:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/180---tim-minchin-live-at-the-los-angeles-podcast-festival-1",
+      "description": "Multiple Tony and Olivier Award-winner, and Emmy-nominee Tim Minchin went from gigging keyboardist, to Royal Albert Hall smash hit, to Dreamworks director. We explore the dynamic between Tim's easy-going exterior and his internal driving force, learn his true feelings towards his own voice, and find out how he feels about death... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b981.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/180---tim-minchin-live-at-the-los-angeles-podcast-festival-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50625934",
+      "itunes_duration": "1:44:24",
+      "speakers": [
+        "Multiple Tony",
+        "Olivier Award-winner",
+        "Tim Minchin",
+        "Royal Albert Hall",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "minchin",
+        "angeles",
+        "podcast",
+        "festival"
+      ]
+    },
+    {
+      "key": "ba715eb19edd36db2899afbc7d1c486b27bb7757",
+      "title": "179 - Loyiso Gola",
+      "published_at": "2016-09-26T15:46:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/179---loyiso-gola-1",
+      "description": "Why is Emmy-nominated South-African satirist and comedian Loyiso is treated like a rock-star by his nation's politicians? We explore the ability of SA comics to be outsiders to both UK and US culture, talk about his forthcoming Vimeo special, and learn why some comic ideas in the Xhosa language are untranslatable... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b988.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/179---loyiso-gola-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36451967",
+      "itunes_duration": "1:15:15",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "loyiso",
+        "gola"
+      ]
+    },
+    {
+      "key": "913b7a0de6368ad5173f798693e190bfccaef3b5",
+      "title": "178 - Lewis Black (Live at Just For Laughs, Montreal)",
+      "published_at": "2016-09-18T15:14:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/178---lewis-black-live-at-just-for-laughs-montreal-1",
+      "description": "Is Lewis Black the angriest man in America? We discuss Lewis' origins in theatre, his turnover of topical material, particularly in an election cycle, and the trigger points from which he derives his explosive creativity. We also find out why silence is where you hear the joke... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b98f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/178---lewis-black-live-at-just-for-laughs-montreal-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39325973",
+      "itunes_duration": "1:21:17",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lewis",
+        "black",
+        "laughs",
+        "montreal"
+      ]
+    },
+    {
+      "key": "4d5543212b40627aead536f1ccaac7b37e5dacaf",
+      "title": "177 - Tiff Stevenson (Live at Larmer Tree Festival)",
+      "published_at": "2016-09-12T08:39:34+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/177---tiff-stevenson-live-at-larmer-tree-festival-1",
+      "description": "A provocative and genuine comic, Tiff pulls apart her subject matter like a terrier, mining huge laughs from political, topical and personal subjects. We talk about agency, process and sexism, and explore the creative opportunities afforded by her stewardship of London's \"Old Rope\" new material night. See Tiff's forthcoming tour. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b996.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/177---tiff-stevenson-live-at-larmer-tree-festival-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38844737",
+      "itunes_duration": "1:21:17",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tiff",
+        "stevenson",
+        "larmer",
+        "tree",
+        "festival"
+      ]
+    },
+    {
+      "key": "571e4423f7e4a3259bd07a3dadb3fd55376dc98d",
+      "title": "176 - Bill Burr",
+      "published_at": "2016-08-15T22:34:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/176---bill-burr",
+      "description": "At the top of his game, stand-up Bill Burr is conquering the planet with an extraordinary creative ferocity. He delights in unsettling audiences by saying the un-sayable, before justifying his comic position with inspiring verve. We learn the tricks he uses to break out of routine onstage, explode the myth of finding one's voice, and also have a really invigorating argument about privilege... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b99d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/176---bill-burr/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48497261",
+      "itunes_duration": "1:39:48",
+      "speakers": [
+        "Bill Burr",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "bill",
+        "burr"
+      ]
+    },
+    {
+      "key": "367fdecd430e9b82f9e8340c9ecaadec05015136",
+      "title": "175 - Todd Barry",
+      "published_at": "2016-08-01T22:38:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/175---todd-barry",
+      "description": "There's dry, and then there's Todd Barry. On his \"Crowdwork\" tour, Todd's skill in low-energy one-liners allows him to spin unexpected angles into truly original audience interaction. We discuss writing habits, beating ideas to death onstage, and how it feels to play two different fictionalised versions of himself simultaneously... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9a4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/175---todd-barry/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33969011",
+      "itunes_duration": "1:11:04",
+      "speakers": [
+        "Todd Barry",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "todd",
+        "barry"
+      ]
+    },
+    {
+      "key": "74a06bc97105531c6907fb31179d18147325c8c3",
+      "title": "174 - Wendy Wason",
+      "published_at": "2016-07-18T23:39:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/174---wendy-wason-1",
+      "description": "Wendy Wason gigs hard and acts in movies - but still juggles her comedy career with raising three children. We discuss her solid work ethic and achieving the \"discipline of happiness\", and find out how she became the most hated woman on a movie set. We also talk about turning your audience on, fetishising honesty, and there's also some slightly weird stuff about crystals... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9ab.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/174---wendy-wason-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36631397",
+      "itunes_duration": "1:16:16",
+      "speakers": [
+        "Wendy Wason",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "wendy",
+        "wason"
+      ]
+    },
+    {
+      "key": "1b90cd1405239f3cd4d8f0bce945a255f0a82ba4",
+      "title": "173 - Jinkx Monsoon",
+      "published_at": "2016-07-11T23:01:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/173---jinkx-monsoon",
+      "description": "Superbly funny and very skilled Jinkx Monsoon won RuPaul's Drag Race IV, and with long-term collaborator Major Scales is continuing to weave that very public success into an established comedy career. We discuss maintaining individuality within the confines of reality TV, the shared territory between a drag persona and a comic voice, and how transformation affects the true self. We also cover accusations of transphobia, the assumptions made of drag performers' gender identity, and Jinkxy's \"bitterness towards stupid people\"... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9b2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/173---jinkx-monsoon/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52277600",
+      "itunes_duration": "1:48:54",
+      "speakers": [
+        "Jinkx Monsoon",
+        "Drag Race IV",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jinkx",
+        "monsoon"
+      ]
+    },
+    {
+      "key": "f14321adb5699f663729ed79fc2271a3fd833177",
+      "title": "172 - Funmbi Omotayo",
+      "published_at": "2016-07-04T22:57:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/172---funmbi-omotayo",
+      "description": "Brilliant British-Nigerian comic Funmbi shares a fascinating take on his transition from the urban circuit to the mainstream, and his reasoning behind the move. We also explore the dynamic between hype, substance and longevity, and get schooled on the inner mechanisms of the cussing battles which he mastered as a child... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9b9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/172---funmbi-omotayo/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45821925",
+      "itunes_duration": "1:35:26",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "funmbi",
+        "omotayo"
+      ]
+    },
+    {
+      "key": "872148c172fe3da9aa2f48f7fc88a5320046b099",
+      "title": "171 - Shappi Khorsandi",
+      "published_at": "2016-06-24T06:31:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/171---shappi-khorsandi",
+      "description": "As you might expect from the impish British-Iranian comic who wears her heart on her sleeve, this conversation gets pretty deep pretty fast! We talk about shifting status, manufacturing common ground with your crowd and the nature of addiction. We also discover Shappi's recent enthusiasm for \"giving love\" to an audience, and what it's like when the comedy circuit starts to resemble the playground... Support the podcast at www.comedianscomedian.com/donate Free copies of \"Break Glass In Case Of Emergency\" at www.comedianscomedian.com/shop Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9c0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/171---shappi-khorsandi/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44384525",
+      "itunes_duration": "1:32:26",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "shappi",
+        "khorsandi"
+      ]
+    },
+    {
+      "key": "d0e5681b08289aff9e88b724312f2a1f7e75b568",
+      "title": "170 - Russell Howard",
+      "published_at": "2016-06-13T09:59:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/170---russell-howard",
+      "description": "Star of \"Good News\" and \"Stand-up Central\" as well as a former \"Mock the Week\" team captain, Russell Howard is also one of the UK's most electrifying live performers. In this unusually candid interview, he exposes the unique pressures of fronting your own TV show, uncovers whether his success has made him happy, and we find out what you say to yourself after walking offstage at Wembley Arena... Download 45 mins of free additional content from this interview at w ww.comedianscomedian.com/insiders and help support the show. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9c7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/170---russell-howard/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48925712",
+      "itunes_duration": "1:41:53",
+      "speakers": [
+        "Russell Howard Star",
+        "Russell Howard",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "russell",
+        "howard"
+      ]
+    },
+    {
+      "key": "d13c4e971ba79fdd70f9261342e1988a48178a7b",
+      "title": "169 - Liam Williams",
+      "published_at": "2016-06-04T20:40:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/169---liam-williams",
+      "description": "Rigorously intellectual and brilliantly poetic, Liam Williams approaches comedy like writing a novel, but does he even enjoy standup? We talk about his experience of Cambridge Footlights, and examine a magpie approach to high culture; we also explore the lessons learnt from punching walls and falling out of windows... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9ce.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/169---liam-williams/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42062741",
+      "itunes_duration": "1:27:36",
+      "speakers": [
+        "Liam Williams Rigorously",
+        "Liam Williams",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "liam",
+        "williams"
+      ]
+    },
+    {
+      "key": "a0fcdb9e5ba2eb99f23c04014338c5bb6f63c862",
+      "title": "168 - Joe Lycett (Live at Machynlleth Comedy Festival)",
+      "published_at": "2016-05-24T00:10:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/168---joe-lycett-live-at-machynlleth-comedy-festival",
+      "description": "Urbane, charming and totally in touch with what makes him funny, Joe Lycett is the figurehead for a new generation of British comics. We talk technique in detail, digging into \"Pomodoro\" and renting an office in which to work. We also cover Joe's bisexuality, the nature of camp and what it means today, and the exact degree of truth involved in his absurdist catfishing of public institutions... Download your free copy of the optimism-injection compilation \"Break Glass In Case Of Emergency\" at www.comedianscomedian.com/shop Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9d5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/168---joe-lycett-live-at-machynlleth-comedy-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36999431",
+      "itunes_duration": "1:17:03",
+      "speakers": [
+        "Joe Lycett",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lycett",
+        "machynlleth",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "202c04e3525d2b23e3d1b9e6323b198b0c261a95",
+      "title": "167 - Seymour Mace",
+      "published_at": "2016-05-17T00:01:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/167---seymour-mace-1",
+      "description": "Darkly silly stand-up and clown Seymour Mace channels his anger and bitterness through a lens of pure sunshine. He talks candidly about the challenges of living with depression in comedy; hating people who you know to be nice, the fear of returning to counselling, and letting yourself be happy. We also blow the lid off Cake Club... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9dc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/167---seymour-mace-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44494920",
+      "itunes_duration": "1:32:39",
+      "speakers": [
+        "Seymour Mace",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "seymour",
+        "mace"
+      ]
+    },
+    {
+      "key": "0858a686a8f79ee3b60f40b910ddaaae57113e58",
+      "title": "166 - Abigoliah Schamaun",
+      "published_at": "2016-05-04T18:23:20+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/166---abigoliah-schamaun",
+      "description": "Brash but vulnerable, explicit but innocent, Abigoliah Schamaun loves whisky and hot yoga. We talk about her trans-atlantic transplant and the difference between bullies and wafflers, as well as getting stuck into gender norms and dirty jokes. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9e3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/166---abigoliah-schamaun/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39788826",
+      "itunes_duration": "1:22:51",
+      "speakers": [
+        "Abigoliah Schamaun",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "abigoliah",
+        "schamaun"
+      ]
+    },
+    {
+      "key": "d4c829280a12584a13104615237a13166744405a",
+      "title": "165 - Romesh Ranganathan (Live at Soho Theatre)",
+      "published_at": "2016-04-21T13:44:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/165---romesh-ranganathan-live-at-soho-theatre-1",
+      "description": "Accelerating through the comedy industry with dizzying speed, BAFTA-nominated Romesh nonetheless has a quiet authority reminiscent of your favourite teacher. We explore his fearlessness, the support of his family, and his exceptionally lean writing, as well as investigating the danger of becoming a representative. Of grumpy pricks... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9ea.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/165---romesh-ranganathan-live-at-soho-theatre-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37474303",
+      "itunes_duration": "1:17:04",
+      "speakers": [
+        "dizzying speed",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "romesh",
+        "ranganathan",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "d81547668e0c0bd60f1c23277b53e8a57deade8b",
+      "title": "164 - Jimmy Carr (Part Two of Two)",
+      "published_at": "2016-04-11T12:04:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/164---jimmy-carr-part-two-of-two-1",
+      "description": "In part two, Jimmy Carr explores the application of Neuro-Linguistic Programming to his personal life and work, and we learn the most common mistake he sees newer comedians make on panel shows. We also get to grips with his recent switch from DVD releases to Netflix, and discover the surprising way in which he's regarded in the USA. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9f1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/164---jimmy-carr-part-two-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33876421",
+      "itunes_duration": "1:10:34",
+      "speakers": [
+        "Jimmy Carr",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jimmy",
+        "carr"
+      ]
+    },
+    {
+      "key": "59e81277ccbef9b49d55f349781900a286c03bd7",
+      "title": "164 - Jimmy Carr (Part One of Two)",
+      "published_at": "2016-04-04T09:06:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/164---jimmy-carr-part-one-of-two-1",
+      "description": "In this first part of a two hour interview with one of the UK's most respected comedians, Jimmy Carr reveals the inner mechanism of his bulletproof stage act. We focus on his extraordinary ease with hecklers, his mastery of put-downs, and we learn some of the techniques he uses to mint hundreds of new jokes every year. But is he as invincible emotionally as he appears to be onstage? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9f8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/164---jimmy-carr-part-one-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33294069",
+      "itunes_duration": "1:08:22",
+      "speakers": [
+        "Jimmy Carr",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jimmy",
+        "carr"
+      ]
+    },
+    {
+      "key": "a163b4827b25322a78945ee49d9793c78cdd5ab4",
+      "title": "163 - Mike Wilmot",
+      "published_at": "2016-03-26T17:55:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/163---mike-wilmot-1",
+      "description": "\"Uncle Mike\" tells it like it is. A veteran standup possessed of an extraordinarily empathic relationship with his crowd, Mike loves enrapturing and abusing his audience with dirty gags your mum would accept from no-one else. There's life in this aging warhorse... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3b9ff.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/163---mike-wilmot-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44716457",
+      "itunes_duration": "1:32:10",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mike",
+        "wilmot"
+      ]
+    },
+    {
+      "key": "5b532f1dad5098c684f4e3c4d658c4397a7d6276",
+      "title": "162 - Tania Edwards",
+      "published_at": "2016-03-19T15:37:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/162---tania-edwards-1",
+      "description": "With a cut-glass accent that reflects her precision-tooled comedy, Tania Edwards inflicts maximum damage with faint praise. We talk about her process, her practice and her peeves - and learn why you can't have your cake and eat it too... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba06.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/162---tania-edwards-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41108845",
+      "itunes_duration": "1:24:39",
+      "speakers": [
+        "Tania Edwards",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tania",
+        "edwards"
+      ]
+    },
+    {
+      "key": "c6027f692c52509294e78f9f0fe37ba7832f9bdf",
+      "title": "161 - Dave Gorman (Live at Soho Theatre)",
+      "published_at": "2016-03-11T17:31:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/161---dave-gorman-live-at-soho-theatre",
+      "description": "One of the most inventive comics in Britain, documentary pioneer Dave Gorman gives us a genuinely thorough and methodical analysis of the four (or more) phases of his career. We discuss the TV show he's least proud of, the wince-inducing way he found out a show wasn't re-commissioned, and dig into the critical value of structure (Gorman-esque or otherwise...) Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba0d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/161---dave-gorman-live-at-soho-theatre/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40675864",
+      "itunes_duration": "1:23:45",
+      "speakers": [
+        "Dave Gorman",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "dave",
+        "gorman",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "0f4bcd12b73dfb4a0220afdc2e8f10cf0a57b1ee",
+      "title": "160 - Gein's Family Giftshop",
+      "published_at": "2016-03-07T11:59:02+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/160---geins-family-giftshop",
+      "description": "Bird-flipping, bumhole-shouting Gein's Family Giftshop are horror-obsessed, wildly inventive and deeply funny. We dig into the internal dynamics of the group, find out why they don't wear wigs, and examine the crucial role played by their unseen fourth member. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba14.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/160---geins-family-giftshop/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53579711",
+      "itunes_duration": "1:50:38",
+      "speakers": [
+        "Family Giftshop Bird",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gein",
+        "family",
+        "giftshop"
+      ]
+    },
+    {
+      "key": "5315e196a8c721c978540c75ad7e039bd6df0a54",
+      "title": "159 - Spencer Jones aka The Herbert (Live at Bob Slayer's Blundabus)",
+      "published_at": "2016-02-26T16:02:27+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/159---spencer-jones-aka-the-herbert-live-at-bob-slayers-blundabus-1",
+      "description": "Winner of two UK Barry Awards - voted on by comedians - for his 2015 show \"Proper Job\", Spencer Jones is a natural born, funny-boned twinkler. Never mind his clowning, props, vocal loops and charming idiocy, he reduces an audience to tears just by walking on to the stage. The hard work and professionalism underpinning the chaos might surprise you... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba1b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/159---spencer-jones-aka-the-herbert-live-at-bob-slayers-blundabus-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34945040",
+      "itunes_duration": "1:11:48",
+      "speakers": [
+        "Spencer Jones",
+        "Bob Slayer",
+        "Barry Awards voted",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "spencer",
+        "jones",
+        "herbert",
+        "slayer",
+        "blundabus"
+      ]
+    },
+    {
+      "key": "6d353b3d5366dc35ffdbe5b77fc2b0e463f7c3f4",
+      "title": "158 - Hari Kondabolu",
+      "published_at": "2016-02-19T14:23:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/158---hari-kondabolu-1",
+      "description": "With appearances on \"Conan\", \"Letterman\" and \"Totally Biased\", comic firebrand Hari Kondabolu has a lot to say, and the research to back it up. We discuss the New Yorker's politicisation post-9/11; a comic's license to simplify a political argument; and what happens when a healthy social life requires a bit of discretion. Hari also argues passionately against UK comedy's fixation with producing a new fringe-ready hour every year, and we uncover that rarest of problems: when the crowd goes too wild... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba22.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/158---hari-kondabolu-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45432006",
+      "itunes_duration": "1:33:39",
+      "speakers": [
+        "Hari Kondabolu",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hari",
+        "kondabolu"
+      ]
+    },
+    {
+      "key": "35adf2706251dec9578b2b4fd8fa89b7840f787e",
+      "title": "157 - Nathan Caton",
+      "published_at": "2016-02-12T14:27:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/157---nathan-caton-1",
+      "description": "With his own Radio Four series and a raft of Mock The Week appearances under his belt, Nathan Caton remains astonishingly down to earth and level-headed. We explore panel-show tactics, discuss using comedy to heal people close to you, and learn how he was dropped by a leading agent out of the blue. He's happy, well-balanced and kind - will Stu manage to crack the bastard? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba29.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/157---nathan-caton-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44791900",
+      "itunes_duration": "1:32:19",
+      "speakers": [
+        "Nathan Caton",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nathan",
+        "caton"
+      ]
+    },
+    {
+      "key": "a794a4d45ef0f5c56a9a784f26e8670955d6f076",
+      "title": "156 - Matt Kirshen",
+      "published_at": "2016-02-04T13:39:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/156---matt-kirshen-1",
+      "description": "Wise beyond his years, the innocent-seeming Matt Kirshen has an extraordinary breadth of experience in UK comedy, even before \"Last Comic Standing\" introduced him to an American audience. As well as some very vigorous technical analysis, the perky polymath gives us a uniquely transatlantic perspective on how it all works, and goes hog-wild for tagging jokes... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba30.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/156---matt-kirshen-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45416958",
+      "itunes_duration": "1:33:37",
+      "speakers": [
+        "Matt Kirshen Wise",
+        "Matt Kirshen",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "matt",
+        "kirshen"
+      ]
+    },
+    {
+      "key": "e5246babf121f41d66682795749d1b733df9e04c",
+      "title": "155 - Jena Friedman (Live at the Edinburgh Fringe)",
+      "published_at": "2016-01-22T15:57:02+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/155---jena-friedman-live-at-the-edinburgh-fringe-1",
+      "description": "Wickedly spiky and dry as sand, controversy-courting stand-up Jena Friedman has writing credits for \"Letterman\" and \"The Daily Show\" under her belt. We discover her unusual origin, as her thesis on Chicago's improv scene drew her into the undertow of the comedy world, and talk in depth about the courage required to \"own\" difficult material... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba37.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/155---jena-friedman-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34187889",
+      "itunes_duration": "1:10:14",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jena",
+        "friedman",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "960de6b1c13e4ba1c1e0a6bb3ec18f98a0476165",
+      "title": "154 - Mark Steel (Live at the Edinburgh Fringe)",
+      "published_at": "2016-01-16T15:17:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/154---mark-steel-live-at-the-edinburgh-fringe-1",
+      "description": "In at the beginning of alternative comedy, and now a \"venerated lefty\" and Columnist Of The Year 2015, punchy pundit Mark Steel has lost none of his passion. We discuss his BBC Radio 4 series which pokes fun at the British on a town-by-town basis, learn about the startling revelations of his personal history, and hear how he rubs shoulders with the enemy, backstage at \"Question Time\"... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba3e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/154---mark-steel-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37511707",
+      "itunes_duration": "1:17:09",
+      "speakers": [
+        "Mark Steel",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mark",
+        "steel",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "d063760b77d8dbade8216ae8d0dc53cd3b511e87",
+      "title": "153 - Isy Suttie (Live at the Soho Theatre)",
+      "published_at": "2016-01-08T18:56:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/153---isy-suttie-live-at-the-soho-theatre-1",
+      "description": "Stand-up; songwriter; Peep Show's \"Dobby\"; and under it all still \"The girl who jumped off Matlock Bridge for a quid\", Isy Suttie applies a psychedelic imagination to her forensic grasp of life's minutiae. We explore the stubbornness that underpins her eccentricity, dissect the word \"whimsical\", and accidentally vomit into a spiderweb. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba45.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/153---isy-suttie-live-at-the-soho-theatre-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33126057",
+      "itunes_duration": "1:08:01",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "suttie",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "11871a3f2b7e49897e8a27dae7628304edb24201",
+      "title": "152 - Daniel Sloss (Live at the Edinburgh Fringe)",
+      "published_at": "2015-12-19T12:50:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/152---daniel-sloss-live-at-the-edinburgh-fringe-1",
+      "description": "Alarmingly successful for one so young, tender wee boy Daniel Sloss likes to get his teeth into an argument on stage. We discuss the pleasures and pitfalls of really committing to an angle, as well as learning who urinated on whose bag... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba4c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/152---daniel-sloss-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31865539",
+      "itunes_duration": "1:05:23",
+      "speakers": [
+        "Daniel Sloss",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "daniel",
+        "sloss",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "96da1650ab5446e8b9a9678e4a71ad73c215194f",
+      "title": "151 - Ronny Chieng (Live at the Edinburgh Fringe)",
+      "published_at": "2015-12-10T14:47:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/151---ronny-chieng-live-at-the-edinburgh-fringe-1",
+      "description": "Ronny Chieng is the fastest-rising new comic in Australia, with huge audiences flocking to his shows from the word go. With a boxer's eye for society's weak spots, he's at the forefront of a new generation of comics who plan for global domination. We talk supporting Bill Burr, paying in pizza for the freedom to experiment, and why a show is always a \"special\"... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba53.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/151---ronny-chieng-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27976179",
+      "itunes_duration": "57:17",
+      "speakers": [
+        "Ronny Chieng",
+        "Bill Burr",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ronny",
+        "chieng",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "2aaf8d5cf415f23f0efe05c5075dcfb05be4f1a0",
+      "title": "150 - Stewart Francis (Live at the Edinburgh Fringe)",
+      "published_at": "2015-11-27T14:30:27+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/150---stewart-francis-live-at-the-edinburgh-fringe-1",
+      "description": "\"How dare I not be entertaining!?\" One of the world's greatest one-liner comics, Stewart Francis brings his quickfire mind to bear on the podcast, and gets grappling. For a man who claims he has no need to perform, Stewart seems utterly unwilling to let go of the gags, but what starts as a scuffle begins to yield some insight into a professed disdain for self-indulgence. Will we learn more about him here than his audience ever do? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba5a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/150---stewart-francis-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29126197",
+      "itunes_duration": "59:41",
+      "speakers": [
+        "Stewart Francis",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stewart",
+        "francis",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "7a4109eee132b7bbd8735818f916fbccb4066dc5",
+      "title": "149 - Will Durst (Live at the Edinburgh Fringe)",
+      "published_at": "2015-11-21T16:03:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/149---will-durst-live-at-the-edinburgh-fringe-1",
+      "description": "An extraordinary education in stand-up from someone who's been doing it since the seventies! San Francisco-based Will Durst mixes observations about life in one's sixties, as well as political fire-brandery that swirls from column to stage. We talk about: the backbeat of jokes; escaping the responsibilities of adult life; \"running twice as fast just to stay in the same place\" and getting kicked out of the White House... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba61.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/149---will-durst-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31630185",
+      "itunes_duration": "1:04:54",
+      "speakers": [
+        "Will Durst",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "durst",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "e4578db46db1cd4bdbf466908785f0a33d4750e6",
+      "title": "148 - Aisling Bea (Live at the Edinburgh Fringe)",
+      "published_at": "2015-11-14T13:35:14+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/148---aisling-bea-live-at-the-edinburgh-fringe-1",
+      "description": "An irrepressibly charming personality, Aisling Bea's standup bubbles over with unusual perspectives and ludicrous family stories; few acts have climbed as high as fast. She talks here about finding a balance between her sitcom success and her comedy career, intimidating herself, and loving working... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba68.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/148---aisling-bea-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28440740",
+      "itunes_duration": "58:15",
+      "speakers": [
+        "Aisling Bea",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "4fa5995f679043f552978de6c436b27701beda45",
+      "title": "147 - Jason Byrne (Live at the Edinburgh Fringe)",
+      "published_at": "2015-11-04T12:31:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/147---jason-byrne-live-at-the-edinburgh-fringe-1",
+      "description": "Introducing Jason Byrne to an audience is like dropping a vitamin tablet into a glass of water; his shows are a masterclass in improvised mayhem. He talks here about the challenges of translating that madness onto TV, examines the structure of a particularly memorable incident in real depth, and also discusses the times when the show hasn't catalysed as he wanted. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba6f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/147---jason-byrne-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33525631",
+      "itunes_duration": "1:08:51",
+      "speakers": [
+        "Jason Byrne",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jason",
+        "byrne",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "e4b318316670774810c173e102ab5adc98532467",
+      "title": "146 - Dave Anthony",
+      "published_at": "2015-10-23T19:45:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/146---dave-anthony-1",
+      "description": "Known for years as being the guy whose unchecked anger screwed up his career, Dave Anthony has resolved his issues and enjoys a career which straddles standup, podcasting, and being a writer on Maron . We talk about self-sabotage, the dangers of being \"solid\", and his desire to break with the US tradition of non-themed comedy shows. Has podcasting vanquished the old gatekeepers, and have new ones have emerged, including perhaps Dave himself? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba76.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/146---dave-anthony-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36823299",
+      "itunes_duration": "1:15:43",
+      "speakers": [
+        "Dave Anthony Known",
+        "Dave Anthony",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "dave",
+        "anthony"
+      ]
+    },
+    {
+      "key": "b976cfc30150af55a4a0e1d3146cdd75b82c9815",
+      "title": "145A - Jimmy Pardo (Part Two of Two)",
+      "published_at": "2015-10-19T23:33:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/145a---jimmy-pardo-part-two-of-two-1",
+      "description": "In the second part of our conversation, Jimmy Pardo discusses his incredibly successful \"Never Not Funny\" podcast, the super fans who regularly go to great lengths to see the show, and the \"misfitness\" of the podcast audience. That's you people. We love you. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba7d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/145a---jimmy-pardo-part-two-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25194231",
+      "itunes_duration": "51:29",
+      "speakers": [
+        "Jimmy Pardo",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jimmy",
+        "pardo"
+      ]
+    },
+    {
+      "key": "f70165c440fdb81c866e64657af6ccad4601b4ef",
+      "title": "145 - Jimmy Pardo (Part One of Two)",
+      "published_at": "2015-10-16T19:42:15+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/145---jimmy-pardo-part-one-of-two-1",
+      "description": "Sick of being told he was the funniest guy off-stage, something had to change for lightning-fast wise-cracker Jimmy Pardo. Fortunately it did, and he became the \"self-deprecating blowhard\" America knows and loves today. We talk about the pros and cons of opening for Conan O'Brien, and explore the irresistible allure of TV, even in the face of new media. But can you ever escape feeling like you can't write a joke? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba84.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/145---jimmy-pardo-part-one-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27775962",
+      "itunes_duration": "56:52",
+      "speakers": [
+        "Jimmy Pardo",
+        "Conan O'Brien",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jimmy",
+        "pardo"
+      ]
+    },
+    {
+      "key": "a8384894859b1f4999e12c08b144b9a8d31c5171",
+      "title": "144A - Todd Glass (Part Two of Two)",
+      "published_at": "2015-10-12T13:39:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/144a---todd-glass-part-two-of-two-1",
+      "description": "In this second part of our conversation, blisteringly funny Todd Glass issues a passionate call to people to \"keep evolving\". He also details the cash wager with comedian David Cross that saw him push a piece of material to its limits, and reveals a cunning plan for some technological trickery to make his arguments onstage more resonant... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba8b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/144a---todd-glass-part-two-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26839735",
+      "itunes_duration": "54:55",
+      "speakers": [
+        "Todd Glass",
+        "David Cross",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "todd",
+        "glass"
+      ]
+    },
+    {
+      "key": "0668bce51e21da9af7703a6c577cb7765d8ee9de",
+      "title": "144 - Todd Glass (Part One of Two)",
+      "published_at": "2015-10-10T19:47:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/144---todd-glass-part-one-of-two-1",
+      "description": "Todd Glass is a runaway train; stoked by righteous anger, coupled together by a natural warmth. Known for coming out of the closet some thirty years into his career, he talks here about the ramifications of that announcement, his propensity to be \"always on\", and how rage can fuel liberalism. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba92.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/144---todd-glass-part-one-of-two-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34267288",
+      "itunes_duration": "1:10:23",
+      "speakers": [
+        "Todd Glass",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "todd",
+        "glass"
+      ]
+    },
+    {
+      "key": "a0fa893f6923e4c08a2cbb3a5ec1290855689b2a",
+      "title": "143 - Jackie Kashian",
+      "published_at": "2015-10-07T15:49:49+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/143---jackie-kashian-1",
+      "description": "Charismatic, stubborn and powerful, Jackie Kashian might have started off life as a \"spooky reading girl\", but is now the rallying champion of nerd comedy. Head Ranger of The Dork Forest podcast, and writing partner of Maria Bamford, she produces very funny and robust material that stands up for the weakest in society. But how can you become a Zen comic like her? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3ba99.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/143---jackie-kashian-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49026037",
+      "itunes_duration": "1:41:08",
+      "speakers": [
+        "Jackie Kashian",
+        "Head Ranger",
+        "Maria Bamford",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jackie",
+        "kashian"
+      ]
+    },
+    {
+      "key": "ded1f719b80e4caa1327248a90d23ad59cf13d6d",
+      "title": "142 - Joel Dommett (Live at the Edinburgh Fringe)",
+      "published_at": "2015-10-02T13:23:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/142---joel-dommett-live-at-the-edinburgh-fringe-1",
+      "description": "Having chosen possibly the only career where his good looks can count against him, comedy- and creativity-addict Joel defies those who would write him off as an MTV jawline. We get stuck into his moving, inventive and hilarious solo shows and their tricksy relationship with the truth, and discuss whether comedy has to stand up in court. We also meet his collaborator Steve Dunne, and learn the rules to the wildly irresponsible game \"knifey knifey crash mat\". *DO NOT PLAY KNIFEY KNIFEY CRASH MAT* Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baa0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/142---joel-dommett-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30535972",
+      "itunes_duration": "1:02:37",
+      "speakers": [
+        "Steve Dunne",
+        "knifey knifey",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "joel",
+        "dommett",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "63b15b0bc4f2327059393b4c1d4f7ebe4223b8e4",
+      "title": "141 - Matt Lucas",
+      "published_at": "2015-09-25T16:00:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/141---matt-lucas-1",
+      "description": "One of the most recognisable faces in UK comedy, Matt Lucas charts his journey from Shooting Stars' improvising baby-grow nutcase George Dawes, to the double-act with David Walliams that made him a household name, to his most recent foray into purely physical comedy Pompidou . We explore his writing and creative process, and as well as unpacking the controversy surrounding Little Britain and Come Fly With Me , we learn what drives Matt, and whether his success has brought him happiness. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baa7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/141---matt-lucas-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46523503",
+      "itunes_duration": "1:35:55",
+      "speakers": [
+        "Matt Lucas",
+        "George Dawes",
+        "David Walliams",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "matt",
+        "lucas"
+      ]
+    },
+    {
+      "key": "ad3ed56c0f9ef640ffb31917f9cad146f61499b5",
+      "title": "140 - Mae Martin (Live at the Edinburgh Fringe)",
+      "published_at": "2015-09-18T12:23:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/140---mae-martin-live-at-the-edinburgh-fringe",
+      "description": "Canadian comic Mae Martin combines sparkling punchlines and disarming candour in her deeply personal standup. We talk about her startling origin as an audience volunteer, gender politics, and we investigate her responsibility or otherwise to her audience. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baae.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/140---mae-martin-live-at-the-edinburgh-fringe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27987044",
+      "itunes_duration": "57:18",
+      "speakers": [
+        "Mae Martin",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "martin",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "9b4ba8c1cdf9e24112c5bae21e7207a4e9f7c70a",
+      "title": "139 - Tommy Tiernan (Live at the Edinburgh Fringe)",
+      "published_at": "2015-09-12T12:16:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/139---tommy-tiernan-live-at-the-edinburgh-fringe",
+      "description": "Comedy speaks through Tommy Tiernan like an elemental force. One of Ireland's most respected comic exports, his latest challenge is to improvise an hour without repeating anything he's ever said before. We discuss the problems this presents, what led him to take it on, and where and when to wave your mickey in the moonlight... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bab5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/139---tommy-tiernan-live-at-the-edinburgh-fringe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31511070",
+      "itunes_duration": "1:04:39",
+      "speakers": [
+        "Tommy Tiernan",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tommy",
+        "tiernan",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "9e6d754bc7eb449ff9ce74e91e2a3357d18e9ec3",
+      "title": "138 - John Lloyd (Live at the Edinburgh Fringe)",
+      "published_at": "2015-09-04T16:28:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/138---john-lloyd-live-at-the-edinburgh-fringe",
+      "description": "Sage-like producer of QI, Blackadder, Not The Nine O'Clock News and forty years' worth of some of Britain's finest comedy TV and radio, John Lloyd could be forgiven for resting on his considerable laurels. Instead he's brought his third standup show to the fringe, and talks here about process, legacy and how he philosophised himself out of a deep depression... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3babc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/138---john-lloyd-live-at-the-edinburgh-fringe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36023957",
+      "itunes_duration": "1:14:03",
+      "speakers": [
+        "John Lloyd",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "lloyd",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "7c2a70857d756b406faf5434c93cc3af9a51ba93",
+      "title": "137 - Katherine Ryan (Live at the Edinburgh Fringe)",
+      "published_at": "2015-08-24T16:01:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/137---katherine-ryan-live-at-the-edinburgh-fringe-1",
+      "description": "Red in tooth and claw, Katherine Ryan is adept at shredding celebrities and has a few choice words too for her sister's whore friends. She reveals a gentleness behind the exterior that critics love to call \"waspish\", and talks us through the moral principles that guide her sting...You can find details of ComComPod Live at the Edinburgh Fringe here , as well as Stu’s solo show, ' An Hour '.Support the podcast by hitting “donate” at comedianscomedian.comJimmy Carr, Frankie Boyle, Joan Rivers, Bette Midler, Letterman, Carson, Kirstie Allsopp, Joe Lycett, Daniel Sloss, Aisling Bea, Stewart Francis, Amy Schumer, Sarah Silverman, Sara Pascoe, Geoff Norcott, Sean Lock, Hannibal Buress, Sarah Tiana, Jeff Ross, Stephen Mangan Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bac3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/137---katherine-ryan-live-at-the-edinburgh-fringe-1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29791587",
+      "itunes_duration": "1:01:04",
+      "speakers": [
+        "Katherine Ryan",
+        "Frankie Boyle",
+        "Joan Rivers",
+        "Bette Midler",
+        "Kirstie Allsopp",
+        "Joe Lycett",
+        "Daniel Sloss",
+        "Aisling Bea",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "katherine",
+        "ryan",
+        "edinburgh",
+        "fringe"
+      ]
+    },
+    {
+      "key": "33d26a7c70ab23e4053343fa3891a73976e0d9ae",
+      "title": "136 - Justin Moorhouse",
+      "published_at": "2015-08-16T18:18:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/136-justin-moorhouse",
+      "description": "An actor and radio presenter as well as a touring comic, Justin Moorhouse is a supernaturally warm presence with the ability to make any audience sit up and beg. We go into detail on his story-boarding and structuring techniques, and explore the responsibilities of a comedian at the height of his powers.If you're in and around Edinburgh, you can find details for Justin's show, Destiny Calling, here . Also, come and see ComComPod Live , and Stu's solo show, An Hour .Support the podcast by hitting \"donate\" at comedianscomedian.comPhoenix Nights, Peter Kay, Alfie Joey, Jason Manford, John Bishop, Ross Noble, Johnny Vegas, Paul Sinha, Jo Brand, Mick Ferry, Tommy Tiernan, Destiny Calling, James, Sean Percival, Alun Cochrane, Chortle, Steve Bennett, Rob Rouse, Louis CK, Bill Burr Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baca.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/136-justin-moorhouse/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43816805",
+      "itunes_duration": "1:30:17",
+      "speakers": [
+        "Justin Moorhouse",
+        "Destiny Calling",
+        "Peter Kay",
+        "Alfie Joey",
+        "Jason Manford",
+        "John Bishop",
+        "Ross Noble",
+        "Paul Sinha",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "justin",
+        "moorhouse"
+      ]
+    },
+    {
+      "key": "e19f5625d7159afc8ba91fa8770fb90ab548617f",
+      "title": "135 - Charlie Baker (Live at Latitude Festival)",
+      "published_at": "2015-08-09T15:45:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/135-charlie-baker-live-at-latitude-festival",
+      "description": "Showman, crooner and superb standup Charlie is the embodiment of an all-rounder, as well as one of the warmest performers on the UK circuit. Live at Latitude after a good old-fashioned cattle auction, he lays bare his attitude to stand-up, opens his heart about the over-use of his killer twenty, and comes clean about a sticky incident with a pint of lager...Come and see ComComPod live in Edinburgh. Click for tickets and details of Charlie's show , and see my free solo show here . Support the podcast by donating at www.comedianscomedian.com .Jack Dee, Andy Parsons, Vic and Bob, Dominic Holland, Harry Hill, Big Value, Ha Bloody Ha, Andre Agassi, Let's Dance, Comic Relief, Cotton Eye Joe, Parsons and Naylor Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bad1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/135-charlie-baker-live-at-latitude-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33574113",
+      "itunes_duration": "1:08:57",
+      "speakers": [
+        "Charlie Baker",
+        "Andy Parsons",
+        "Dominic Holland",
+        "Harry Hill",
+        "Andre Agassi",
+        "Comic Relief",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "charlie",
+        "baker",
+        "latitude",
+        "festival"
+      ]
+    },
+    {
+      "key": "7d351daca47774b47337c1dd475518afbf7915b2",
+      "title": "134 - Andy Kindler",
+      "published_at": "2015-08-02T01:42:39+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/134-andy-kindler",
+      "description": "Perhaps the nearest the USA has to a true \"comedian's comedian\", Andy Kindler has been railing at audiences (and his own supposed lack of performance ability) for nearly 30 years. A regular at the \"Just For Laughs\" Comedy Festival in Montreal, where he annually gives his scathing \"State of the Industry Address\", Andy occupies a unique and hilarious position as the industry's conscience. We discuss identifying and overcoming the many formulae of comedy detailed in his \"Hack's Handbook\", why he's mad at Jerry Seinfeld; as well as exploring the lingering fear of abandonment that drives a comic to be \"always on\"...Support the podcast by pressing \"donate\" at www.comedianscomedian.com , and see the show live at Edinburgh 2015. NY Times, Zach Galifianakis, Steven Wright, Mitch Hedberg, Leno, Letterman, James Adomian, Richard Gere, Ben Stiller, Adam Sandler, Robin Williams, Brian Posehn, Billy Crystal Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bad8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/134-andy-kindler/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33160305",
+      "itunes_duration": "1:08:05",
+      "speakers": [
+        "Andy Kindler",
+        "Jerry Seinfeld",
+        "Steven Wright",
+        "Mitch Hedberg",
+        "James Adomian",
+        "Richard Gere",
+        "Ben Stiller",
+        "Adam Sandler",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andy",
+        "kindler"
+      ]
+    },
+    {
+      "key": "6035c91c254832af57df6a9c3e68f6e65cd9efeb",
+      "title": "133 - Patton Oswalt (Live at Just For Laughs, Montreal)",
+      "published_at": "2015-07-30T12:04:36+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/133-patton-oswalt-live-at-just-for-laughs-montreal",
+      "description": "A strong contender for Stu's favourite comic of all time, Patton Oswalt is a behemoth of invention, imagination and creativity. Live from Montreal, at which he won \"Stand-up Comedian of the Year\", we discuss what lifts a comic above being \"funny but who gives a fuck?\" We also discuss issues of richness, legacy and whether the road gigs are worth it after all; but will Stu manage not to swoon like an Edwardian lady?Support the podcast by pressing \"donate\" at www.comedianscomedian.com , and see the show live at Edinburgh 2015.Hammersmith Apollo, Kyle Kinane, Morgan Murphy, Alan Moore, Silver Screen Fiend, Louis CK, Dave Chappelle, Tony Woods, 11/22/63, Star Wars, George Lucas, James Joyce, The Beatles, Rob Schneider, Harland Williams, King of Queens, Ratatouille, Bill Hicks, Down Periscope, Rip Torn, VEEP Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3badf.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/133-patton-oswalt-live-at-just-for-laughs-montreal/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31383143",
+      "itunes_duration": "1:04:23",
+      "speakers": [
+        "Patton Oswalt",
+        "Kyle Kinane",
+        "Alan Moore",
+        "Louis CK",
+        "Dave Chappelle",
+        "Tony Woods",
+        "George Lucas",
+        "James Joyce",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "patton",
+        "oswalt",
+        "laughs",
+        "montreal"
+      ]
+    },
+    {
+      "key": "e129a9348e406f6650fea5c39d1c67a6922c194c",
+      "title": "132 - Moshe Kasher",
+      "published_at": "2015-07-29T11:16:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/132-moshe-kasher",
+      "description": "Ready for some in-depth comedy theory? Brainiac standup and one half of The Champs podcast, Moshe Kasher talks us through an exploded diagram of his approach to the art and craft of comedy. As well as detailing an analysis of his superb crowd-work, we get an inside view on the importance of \"intrigue\" in comedy and whether or not one can conjure it; not to mention the important difference between \"riffingtons\" and \"rantingtons\"... Support the podcast by pressing \"donate\" at www.comedianscomedian.com , and see the show live at Edinburgh 2015.Louis CK, Bill Burr, Eddie Izzard, Zach Galifianakis, Seinfeld, Steven Wright, Robert Schimmel, Patrice O'Neal, Todd Barry, The Champs, Patton Oswalt, Malcolm X, L. Ron Hubbard, Jay Z, Zoolander, Ben Stiller Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bae6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/132-moshe-kasher/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33967802",
+      "itunes_duration": "1:09:46",
+      "speakers": [
+        "Moshe Kasher",
+        "Bill Burr",
+        "Steven Wright",
+        "Robert Schimmel",
+        "Todd Barry",
+        "Patton Oswalt",
+        "Ron Hubbard",
+        "Ben Stiller Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "moshe",
+        "kasher"
+      ]
+    },
+    {
+      "key": "c9b3083ece3ff50a92f668bb22c80a465d4685c2",
+      "title": "131 - Jen Kirkman",
+      "published_at": "2015-07-28T11:47:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/131-jen-kirkman",
+      "description": "From the \"Just For Laughs\" Comedy Festival in Montreal, Jen Kirkman breaks down the elements of her personality that create such a thrilling dynamic in her stage and screen performance. Relentlessly analytical of her emotions, she's very candid about her self-criticism, the crisis of creating a comedy special about her marriage whilst knowing deep down she wanted that union to end, and how she connects so deeply with her audience...Support the podcast by pressing \"donate\" at www.comedianscomedian.com , and see the show live at Edinburgh .Just For Laughs, Dave Chappelle, I Seem Fun, Kurt Metzger, Netflix, I'm Gonna Die Alone, Chelsea Handler, Marc Maron, Bll Burr, Hail To The Freaks, Melbourne Comedy Festival, Steve Bennett, Chortle, Alan Cumming, Joan Rivers, Louis CK, Letterman, Howard Stern,Mr. Show, Eddie Pepitone, Maria Bamford Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baed.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/131-jen-kirkman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39682139",
+      "itunes_duration": "1:21:40",
+      "speakers": [
+        "Jen Kirkman",
+        "Dave Chappelle",
+        "Kurt Metzger",
+        "Chelsea Handler",
+        "Marc Maron",
+        "Bll Burr",
+        "Steve Bennett",
+        "Alan Cumming",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kirkman"
+      ]
+    },
+    {
+      "key": "070a8c50e0c9e33c0a23429907676b4a7a8908dd",
+      "title": "130 - George Egg",
+      "published_at": "2015-07-27T12:42:03+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/130-george-egg",
+      "description": "\"Anarchist Cook\" George brings his ludicrous visual comedy to the Edinburgh Fringe for the first time this summer. George bakes his own bread, builds his own props, and survives his hotel-based weekends in a hilariously inventive fashion which Stu has taken to heart... We talk about comedy, cuisine and creativity, as well as George's expectations of his first ever Edinburgh run.Comment on this episode and others, and support the podcast at www.comedianscomedian.com The Hotel Survivor, Robin Ince, Will Smith, Archaos, MAD Symposium, Edinburgh Fringe, Up The Creek, Cooking in Prison, Youth Hostelling with Chris Eubank, Monkey Tennis Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3baf4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/130-george-egg/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41656378",
+      "itunes_duration": "1:26:09",
+      "speakers": [
+        "George Egg",
+        "Robin Ince",
+        "Will Smith",
+        "Edinburgh Fringe",
+        "Chris Eubank",
+        "Monkey Tennis Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "george"
+      ]
+    },
+    {
+      "key": "ba6792c1f3e64e88aea63dfb378908b6511f6d43",
+      "title": "129 - Adam Buxton (Live at Soho Theatre)",
+      "published_at": "2015-07-17T15:07:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/129-adam-buxton-live-at-soho-theatre",
+      "description": "Podcast pioneer, arch-noodler, jingle-master and YouTube cosmonaut, Adam Buxton invented loads of your favourite stuff before it was famous. We talk about the creative urge; exploiting one's family for material; and how to cope with criticism. We also explore the dynamic between Adam and long-term collaborator Joe Cornish. But which one is the best? It's Adam. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bafb.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/129-adam-buxton-live-at-soho-theatre/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37363527",
+      "itunes_duration": "1:17:12",
+      "speakers": [
+        "Adam Buxton",
+        "Joe Cornish",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "soho",
+        "theatre"
+      ]
+    },
+    {
+      "key": "379dd80456f4f2b82c0f04dcf8964a04486e7e28",
+      "title": "128 - Daliso Chaponda (Live at Darlington Comedy Festival)",
+      "published_at": "2015-07-10T15:06:14+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/128-daliso-chaponda-live-at-darlington-comedy-festival",
+      "description": "Is Daliso Chaponda Malawi's only professional comic? Methodical to a fault and gleefully non-improvisational, Daliso talks us through the crafting of his unbreakable jokes. A truly global act, he explains what it's like to be a headliner on one continent and a road act on another... Support the podcast at www.comedianscomedian.comJust For Laughs, Eddie Murphy, The Colbert Report, Malawi, Politics, Roger Ebert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb02.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/128-daliso-chaponda-live-at-darlington-comedy-festival/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31092681",
+      "itunes_duration": "1:04:08",
+      "speakers": [
+        "Chaponda Malawi",
+        "Eddie Murphy",
+        "Roger Ebert Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "daliso",
+        "chaponda",
+        "darlington",
+        "comedy",
+        "festival"
+      ]
+    },
+    {
+      "key": "ce30a80c7a1d1b65f0f10f6cb05c41bd0c52c557",
+      "title": "127 - Gavin Webster (Live)",
+      "published_at": "2015-07-03T12:24:15+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/127-gavin-webster-live",
+      "description": "Second-ever winner of the voted-for-only-by-comics \"Comedians Comedian\" award (no relation), Gavin Webster is one of the most frequently requested guests on this podcast. A true circuit stalwart with a phenomenal gag-rate and an ability to play any room, he talks about his inspiration in music hall comedy and punk rock, his deliberately provocative titles, and his frustration with \"posh people with pens\"...Support the podcast at http://comedianscomedian.com/Remember to use the discount code FAFF for 25% off tickets to the live Adam Buxton interview on July 7th. Stewart Lee, Paul Foot, Jo Brand, Ross Noble, Chortle, Edinburgh, Fringe, Bill Hicks, Harry Hill, The Comedy Store, Music Hall, Alan Davies, Bob Mills Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb09.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/127-gavin-webster-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32935252",
+      "itunes_duration": "1:07:58",
+      "speakers": [
+        "Gavin Webster",
+        "Adam Buxton",
+        "Stewart Lee",
+        "Paul Foot",
+        "Jo Brand",
+        "Ross Noble",
+        "Bill Hicks",
+        "Harry Hill",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gavin",
+        "webster"
+      ]
+    },
+    {
+      "key": "90017aef8ce97426a967666cfb7b6d9594e3f8a1",
+      "title": "126 - Nazeem Hussain",
+      "published_at": "2015-06-26T13:54:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/126-nazeem-hussain",
+      "description": "Creator and host of his own TV show \"Legally Brown\", Nazeem Hussain aces it in sketch, stand-up and on the road. Unusually for a comic he's also an upstanding pillar of his community! As well as winning the Melbourne International Comedy Festival Best Newcomer, he is also the recipient of awards for leadership in diversity, and is the patron of a refugee charity. We talk about how his faith feeds into his work, being \"a tough-talking idiot\", and the reality of being genuinely targeted by shadowy government organisations...Support the podcast at www.comedianscomedian.comUse discount code FAFF at www.sohotheatre.com for 25% off tickets to the live Adam Buxton interview on 7th July!(Additional Music: Kevin MacLeod - Ghost Dance / creativecommons.org)Sketch, Tour, Melbourne Comedy Festival Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb10.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/126-nazeem-hussain/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32504330",
+      "itunes_duration": "1:07:05",
+      "speakers": [
+        "Nazeem Hussain",
+        "Adam Buxton",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nazeem",
+        "hussain"
+      ]
+    },
+    {
+      "key": "72d3f0e39c241e1d2d152d7c89359a423f7be024",
+      "title": "125 - Dara Ó Briain",
+      "published_at": "2015-06-19T14:10:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/125-dara-o-briain",
+      "description": "Host of Mock The Week for 14 series, as well as a superlatively talented touring comic, Dara Ó Briain is uniquely placed to reveal the secrets of mainstream success. In this unmissable episode he goes into detail on the structure of his tour shows and gives us his manual for crowd work. We also explore his fusion of technique and natural comic ability, and hear his own take on how he broke away from the pack... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb17.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/125-dara-o-briain/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28197051",
+      "itunes_duration": "58:06",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "dara",
+        "briain"
+      ]
+    },
+    {
+      "key": "01d8ebdf17d51045997f73d762010d5e9809da40",
+      "title": "124 - Ian Stone",
+      "published_at": "2015-06-12T14:27:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/124-ian-stone",
+      "description": "As well as co-hosting The Football's On show on BT and the Tuesday Club podcast, Ian Stone is an unbreakable club comic with a resume that includes TV panel games, regularly headlining the Comedy Store and performing to British troops in Afghanistan. He charts the development of his writing skills, and explores the revelation he had in deciding to \"piss about\" on stage. We also cover only writing stuff that you care about, and using moaning as a creative force...Use discount code FAFF atwww.sohotheatre.com for 25% off tickets for Adam Buxton on 7th July.Please support the podcast by donating at www.comedianscomedian.comMock The Week, Festival, Eddie Izzard, Podcasting, George Carlin, Standup, Michael McIntyre, Edinburgh, Fringe, Jenny Eclair, Rich Hall, Ian Stone, The Comedy Store, Dylan Moran, BT Sport, The Football's On, Jerry Sadowitz, David Baddiel, Omid Djalili, Ian Cognito, Milton Jones, Dave Schneider Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb1e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/124-ian-stone/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32928553",
+      "itunes_duration": "1:07:58",
+      "speakers": [
+        "Ian Stone",
+        "Adam Buxton",
+        "George Carlin",
+        "Michael McIntyre",
+        "Jenny Eclair",
+        "Rich Hall",
+        "Dylan Moran",
+        "Jerry Sadowitz",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stone"
+      ]
+    },
+    {
+      "key": "d8628de58c16f0af9543677c9f2ed1a996c67797",
+      "title": "123 - Wil Anderson (Live)",
+      "published_at": "2015-06-05T14:01:49+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/123-wil-anderson-live",
+      "description": "One of Australia's hottest comic properties, Wil Anderson is utterly charming as he analyses his career and the length of time it took him to find his voice. A self-confessed \"dag\", he outlines the relationship between structuring and finessing his shows, shares with us comedy's Prime Directive, and fails to understand the term \"lush\"...Find Wil online at www.wilanderson.com.au Use discount code FAFF at www.sohotheatre.com for 25% off tickets for Adam Buxton on 7th July.Support the podcast at by donating at www.comedianscomedian.com. Stewart Lee, Daniel Kitson, Festival Comedian, Festival, Louis CK, Podcasting, Bill Burr, George Carlin, Standup, Edinburgh, Fringe, Bill Hicks, Wil Anderson, Glenn Wool, Tiffany Stevenson, Dame Edna, TOFOP, Todd Barry, Lindsay Webb, Rich Hall, Ed Byrne, Radiohead Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb25.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/123-wil-anderson-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39273393",
+      "itunes_duration": "1:21:11",
+      "speakers": [
+        "Wil Anderson",
+        "Adam Buxton",
+        "Stewart Lee",
+        "Daniel Kitson",
+        "Festival Comedian",
+        "Bill Burr",
+        "George Carlin",
+        "Bill Hicks",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "anderson"
+      ]
+    },
+    {
+      "key": "e275e640d0b2fd0e89985c083c3067debec440ac",
+      "title": "122 - Zoe Lyons",
+      "published_at": "2015-05-29T14:59:05+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/122-zoe-lyons",
+      "description": "One of those acts floating around at the very top of the circuit, completely ready to outgrow it, Zoe Lyons is an expert at wringing every drop of funny out of a subject. We talk about the tough school environment that forged her, as well as the legacy of resilience it invoked, and ask why she still feels like an impostor.Support the podcast by donating via Paypal at www.comedianscomedian.comTouring Comedian, Festival Comedian, Radio 4, Jo Brand, Standup, Russell Kane, Edinburgh, Fringe, Tallinn Comedy Festival, Zoe Lyons, James Acaster, Ben Elton, Robin Williams, The Stand, Jo Caulfield, Kerry Godliman, The John Bishop Show, John Bishop, Russ Peers, Katherine Ryan, Bent Double Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb2c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/122-zoe-lyons/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34933295",
+      "itunes_duration": "1:12:08",
+      "speakers": [
+        "Festival Comedian",
+        "Jo Brand",
+        "Russell Kane",
+        "James Acaster",
+        "Ben Elton",
+        "Robin Williams",
+        "Jo Caulfield",
+        "Kerry Godliman",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lyons"
+      ]
+    },
+    {
+      "key": "0278583096fcbce76be2746d0868e687af3c0484",
+      "title": "121 - Mitch Benn (Live)",
+      "published_at": "2015-05-22T12:54:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/121-mitch-benn-live",
+      "description": "With a staggering sixteen year back-catalogue of weekly topical songs under his belt, musical comedian Mitch Benn is a firm fixture of \"The Now Show\" on Radio 4. We talk about circuit snobbery regarding \"the cheating stick\", the joy of creating music as well as comedy, and the perils of being so good at what you do that people have a hard time imagining you as anything else...Support the podcast by donating via Paypal at www.comedianscomedian.comMock The Week, Daniel Kitson, Festival, Radio 4, Eddie Izzard, Alternative Comedy Experience, Charlie Brooker, Ross Noble, Mark Thomas, Edinburgh, Fringe, Parody, Comedy Music, Mitch Benn, The Now Show, Spinal Tap, Harry Shearer, Nick Wilty, Steve Punt, Hugh Dennis, Imran Yusuf, Tallinn Comedy Festival, Marcus Brigstocke, Bill Hicks, Harry Hill, Shlomo, The Beatles, John Maloney, Jess Robinson, Jon Holmes, Jay Foreman, Jenny Eclair Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb33.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/121-mitch-benn-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32867121",
+      "itunes_duration": "1:07:50",
+      "speakers": [
+        "Mitch Benn",
+        "Daniel Kitson",
+        "Alternative Comedy",
+        "Charlie Brooker",
+        "Ross Noble",
+        "Mark Thomas",
+        "Comedy Music",
+        "Harry Shearer",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mitch",
+        "benn"
+      ]
+    },
+    {
+      "key": "218aaffc7dd67654f3f41324feb582e2a17d1f83",
+      "title": "120 - Mark Watson (Live)",
+      "published_at": "2015-05-15T14:56:19+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/120-mark-watson-live",
+      "description": "Comedy's marathon man Mark Watson is known for his feats of intellectual and performative endurance, and also for his phenomenal comic story-telling. We get our teeth into the anxieties he exposes in his more recent material, hear first-hand the effects of being the butt of a Stewart Lee routine, as well as learning what happens when a shoe falls...Support the podcast at www.comedianscomedian.comLive At The Apollo, David O'Doherty, Stewart Lee, Daniel Kitson, Festival Comedian, Festival, Radio 4, Paul Foot, Tim Key, Mark Watson, Michael McIntyre, Chortle, Frankie Boyle, Edinburgh, Fringe, Chris Addison, Dara O'Briain, Russell Howard, Stephen Fry, Jason Manford, Super Furry Animals, Sam Simmons, Tim Minchin, Rhod Gilbert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb3a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/120-mark-watson-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40040974",
+      "itunes_duration": "1:22:47",
+      "speakers": [
+        "Mark Watson",
+        "Stewart Lee",
+        "David O'Doherty",
+        "Daniel Kitson",
+        "Festival Comedian",
+        "Paul Foot",
+        "Tim Key",
+        "Michael McIntyre",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mark",
+        "watson"
+      ]
+    },
+    {
+      "key": "11858dbbbbd6fd19ea49d2cb5dddafa3da78fd55",
+      "title": "119 - Nina Conti (Live)",
+      "published_at": "2015-05-08T15:49:11+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/119-nina-conti-live",
+      "description": "The complex relationship between a ventriloquist and her puppets is brought to life in mind-expanding detail in this live episode, as comedian, clown and filmmaker Nina Conti lays her creative process bare! Startlingly innovative and imaginative, Nina traces her development via mentor Ken Campbell (and criticism from Daniel Kitson), and why she feels she's \"more Monkey than Nina\"...Support the podcast at www.comedianscomedian.comLive At The Apollo, Touring Comedian, Nina Conti, Jeff Dunham, 8 Out Of 10 Cats, Family Tree, Improv, Ventriloquism, Dr Brown, Phil Burgers, Her Master's Voice, Gaulier, Ken Campbell, Clowning Around Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb41.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/119-nina-conti-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35439033",
+      "itunes_duration": "1:13:11",
+      "speakers": [
+        "Nina Conti",
+        "Ken Campbell",
+        "Daniel Kitson",
+        "Touring Comedian",
+        "Jeff Dunham",
+        "Dr Brown",
+        "Phil Burgers",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nina",
+        "conti"
+      ]
+    },
+    {
+      "key": "0560c5b2ed6d3971a051665239638c38f6dd863f",
+      "title": "118 - The Midnight Beast",
+      "published_at": "2015-05-01T15:48:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/118-the-midnight-beast",
+      "description": "Teenbait rap comics The Midnight Beast have generated tens of millions of YouTube hits and two TV series by spoofing boybands, whilst secretly being basically a real one. They combine exceptional talent in audio/video production with a zest for melodic dick-jokes you'll want to play again and again. We talk viral strategy, production values, the evolution of their act in the run-up to their new Comedy Central show, and how to be your own cigar-chomping exec...See Nina Conti on ComComPod live at Soho Theatre on 5th May - quote FAFF at www.sohotheatre.com for 25% off.Support the podcast at www.comedianscomedian.com.The Mighty Boosh, YouTube, Channel 4, The Midnight Beast, E4, Comedy Central, Parody, Comedy Music, Music Videos, Hadouken!, Joe Lycett, Family Guy, South Park, The Office, Ke$ha Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb48.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/118-the-midnight-beast/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43940324",
+      "itunes_duration": "1:30:54",
+      "speakers": [
+        "melodic dick-jokes",
+        "Nina Conti",
+        "Comedy Central",
+        "Joe Lycett",
+        "Family Guy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "midnight",
+        "beast"
+      ]
+    },
+    {
+      "key": "dfcd317800f96dcbcde7b351c9e92dd1ad352f13",
+      "title": "117 - Nick Mohammed",
+      "published_at": "2015-04-24T15:00:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/117-nick-mohammed",
+      "description": "A startlingly creative character comic, Nick Mohammed produces utterly silly work with a rigorous technical backbone. We talk about his most enduring creation Mr Swallow, and how he has cultivated that act from a casual sketch to a rollerskating operatic Dracula. We also discuss his role in the new Ridley Scott film \"The Martian\"...Support the podcast at www.comedianscomedian.comBuy tickets online with code FAFF for upcoming live shows at www.sohotheatre.com. Nina Conti on 5th May!Uncle, Musical, Sketch, Festival Comedian, Standup, Footlights, The Thick of It, Stefan Golaszewski, Chortle, Edinburgh, Fringe, Nick Mohammed, Julia Davis, Morning Has Broken, Matt Damon, Ridley Scott, Channel 4, Marc Wootton, Derren Brown, Dan Tetsell, Mr Swallow, Dracula The Musical Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb4f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/117-nick-mohammed/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43561857",
+      "itunes_duration": "1:30:07",
+      "speakers": [
+        "Nick Mohammed",
+        "Mr Swallow",
+        "Nina Conti",
+        "Festival Comedian",
+        "Stefan Golaszewski",
+        "Julia Davis",
+        "Matt Damon",
+        "Ridley Scott",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "mohammed"
+      ]
+    },
+    {
+      "key": "b621424a74f459babe39c1154e36baa715984509",
+      "title": "116 - Des Bishop (Live)",
+      "published_at": "2015-04-17T15:05:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/116-des-bishop-live",
+      "description": "Burning with narrative intensity, Irish-American Des Bishop learnt to perform standup in Gaelic and now Mandarin, such is his commitment to following through on an idea. He gives us a compelling insight into how he morphed from a circuit headliner to a voracious documentarian, and rages at the reviewer who attacked his integrity.Sponsor the podcast at www.comedianscomedian.comDaniel Kitson, Eddie Izzard, Russell Kane, Chortle, Des Bishop, Jason Byrne, RTE, Steve Bennett, The Guardian, Made in China, Edinburgh, Fringe Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb56.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/116-des-bishop-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37336150",
+      "itunes_duration": "1:17:09",
+      "speakers": [
+        "Russell Kane",
+        "Jason Byrne",
+        "Steve Bennett",
+        "Fringe Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "bishop"
+      ]
+    },
+    {
+      "key": "825ba2d490bd9af7b2a738047b35a8b248594bdf",
+      "title": "115 - Gina Yashere",
+      "published_at": "2015-04-10T17:41:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/115-gina-yashere",
+      "description": "\"Russell Peters stole my shit!\" So alleges dynamic and outspoken comic Gina Yashere, who sold up and left the UK to make it in the United States, becoming the only Brit ever to feature on \"Def Jam\". She pulls no punches in this compelling interview, venting her frustration at the producers of Mock The Week and Last Comic Standing, as well as condemning the TV industry's apparent preference for \"non-threatening\" black acts.Sponsor the podcast at comedianscomedian.comMock The Week, Stewart Lee, Standup, Michael McIntyre, Greg Proops, Gina Yashere, Jay Leno, Def Comedy Jam, Def Jam, Last Comic Standing, Tony Law, The Comedy Store, Ros Jeep, Chortle, Jocelyn Jee Esien, Frankie Boyle, Chris Rock, Kevin Hart, Damon Wayans, MOBOs Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb5d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/115-gina-yashere/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41611450",
+      "itunes_duration": "1:26:03",
+      "speakers": [
+        "Russell Peters",
+        "Gina Yashere",
+        "Stewart Lee",
+        "Michael McIntyre",
+        "Greg Proops",
+        "Jay Leno",
+        "Def Comedy Jam",
+        "Def Jam",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gina",
+        "yashere"
+      ]
+    },
+    {
+      "key": "18f3fa868050e8c3dc5aa7333e0a308805f1a17d",
+      "title": "114A - John Gordillo (2 of 2)",
+      "published_at": "2015-04-03T14:33:16+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/114a-john-gordillo-2-of-2",
+      "description": "In the second part of this conversation, we look in detail at John's principles for directing standup. Not so much a list of rules as a whole approach to helping a comic achieve their own goals, and not those of the director... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb64.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/114a-john-gordillo-2-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28826081",
+      "itunes_duration": "59:25",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "gordillo"
+      ]
+    },
+    {
+      "key": "e92692678bd59b5cd47b0eb43ab461d6545522e5",
+      "title": "114 - John Gordillo (1 of 2)",
+      "published_at": "2015-03-27T18:53:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/114-john-gordillo-1-of-2",
+      "description": "Director or script-editor of over sixty other acts including Michael McIntyre, Eddie Izzard and Reginald D Hunter, John Gordillo is a superb comedian in his own right. The antithesis of a one-liner act, we discuss his dedication to “following the idea”, and seeking out comedy that is truly situational rather than going for the gags. Just don't call him “The Professor”... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb6b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/114-john-gordillo-1-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35282922",
+      "itunes_duration": "1:12:52",
+      "speakers": [
+        "Michael McIntyre",
+        "John Gordillo",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "gordillo"
+      ]
+    },
+    {
+      "key": "a5ac373c2342a65a0611422ba3cb133461dce66d",
+      "title": "113A - Tim Key (2 of 2)",
+      "published_at": "2015-03-20T14:37:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/113a-tim-key-2-of-2",
+      "description": "The second half of this conversation with the warrior poet/comic/divvy focuses on Tim's relationship with comedians Alex Horne and Mark Watson, and how his position as their respective foils gave him the freedom to experiment... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb72.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/113a-tim-key-2-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34589167",
+      "itunes_duration": "1:11:25",
+      "speakers": [
+        "Alex Horne",
+        "Mark Watson",
+        "Stuart Goldsmith"
+      ],
+      "topics": []
+    },
+    {
+      "key": "8e6da9192fedd79d16ad9d49703106944d351dd1",
+      "title": "113 - Tim Key (1 of 2)",
+      "published_at": "2015-03-13T14:47:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/113-tim-key-1-of-2",
+      "description": "A lager-sodden \"not deliberately bad\" poet, Tim Key is responsible for some of the most startlingly theatrical fringe comedy of the last ten years.From his outrageous origin as a college-troupe cuckoo, to his frustrations at the culling of his sketch group \"Cowards\"; through fringe stardom to his big screen success alongside Alan Partridge, we trace Tim's emergence as one of the most compelling voices of contemporary British comedy.BBC3, How To, Poetry, Festival Comedian, Radio 4, Philippe Gaulier, Standup, Tim Key, Alex Horne, Mark Watson, Steve Coogan, Alan Partridge, Alpha Papa, Cowards, Footlights, David Baddiel Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb79.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/113-tim-key-1-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32899921",
+      "itunes_duration": "1:07:54",
+      "speakers": [
+        "Tim Key",
+        "Alan Partridge",
+        "Festival Comedian",
+        "Philippe Gaulier",
+        "Alex Horne",
+        "Mark Watson",
+        "Steve Coogan",
+        "David Baddiel Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": []
+    },
+    {
+      "key": "b7077b0d3073f4144fa88a93f8c4b3291df18fa9",
+      "title": "112 - Liz Miele",
+      "published_at": "2015-03-06T13:59:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/112-liz-miele",
+      "description": "A smart cookie based in New York, Liz Miele combines punchline density with social media acumen. She runs, she dates, she cries, she talks about it all. But is she actually as \"Emotionally Exhausting\" as her show suggests? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb80.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/112-liz-miele/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36857370",
+      "itunes_duration": "1:16:09",
+      "speakers": [
+        "Liz Miele",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "miele"
+      ]
+    },
+    {
+      "key": "9cfb72a6b147dd84417e9477ca8148d1bda55ba1",
+      "title": "111 - Brendon Burns",
+      "published_at": "2015-02-27T02:34:40+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/111-brendon-burns",
+      "description": "Brendon Burns returns to the show, live at Dave's Leicester Comedy Festival, to clear up some matters of condescension, technique and the petulance of his youth. In addition to discussing his new internet-based strategy, tour and podcast, we also analyse the routine he's most proud of, and how he grew it over the course of years... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb87.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/111-brendon-burns/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32269645",
+      "itunes_duration": "1:06:35",
+      "speakers": [
+        "Brendon Burns",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brendon",
+        "burn"
+      ]
+    },
+    {
+      "key": "f633c5fb6635c0a5bd4a8c48035b942da46999f0",
+      "title": "110 - Lou Sanders",
+      "published_at": "2015-02-20T16:09:40+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/110-lou-sanders",
+      "description": "Lou Sanders is off the rails. Her deliciously shameless stage persona is backed up by punchy writing, peppered with surreal flavours. From gurus to glitter, we discuss the technique behind her tackle... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb8e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/110-lou-sanders/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40380977",
+      "itunes_duration": "1:23:29",
+      "speakers": [
+        "Lou Sanders",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sanders"
+      ]
+    },
+    {
+      "key": "cf5791c005aece58adb7933151b8b043e2a415a9",
+      "title": "109 - Andrew O'Neill",
+      "published_at": "2015-02-13T13:39:27+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/109-andrew-oneill",
+      "description": "Occult comedian Andrew O'Neill describes jokes as \"spells to make people laugh\". We talk about the differences between magick and faith, getting information about the world through standup, nailing your really weird colours to the mast, and trying to be your own favourite comedian... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb95.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/109-andrew-oneill/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26940875",
+      "itunes_duration": "55:29",
+      "speakers": [
+        "Andrew O'Neill",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andrew"
+      ]
+    },
+    {
+      "key": "2182fc38f581c4889dd0a839a853f4aa420c05c2",
+      "title": "108 - Harley Breen",
+      "published_at": "2015-02-06T13:39:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/108-harley-breen",
+      "description": "Cult-runaway Harley Breen is a man mountain with a barnstorming club and festival act. Underneath his loudmouth lumbersexual persona is a deeply principled single father with a reflective nature and a fascinating story to tell... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bb9c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/108-harley-breen/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36305040",
+      "itunes_duration": "1:15:00",
+      "speakers": [
+        "festival act",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "harley",
+        "breen"
+      ]
+    },
+    {
+      "key": "01d179c112654fc45e32cada499056c1904966da",
+      "title": "107 - Urzila Carlson",
+      "published_at": "2015-01-29T16:45:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/107-urzila-carlson",
+      "description": "South Africa-born Urzila Carlson is now one of New Zealand's favourite acts, winning “Best Female Comic” there an astonishing five years running. Irrepressibly cheerful, she combines her natural talent with an innate empathy for her audience, and sheer hard work. We talk about respecting one's crowd, structuring an hour, and why Stu can't make her cry... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bba3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/107-urzila-carlson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31343264",
+      "itunes_duration": "1:04:39",
+      "speakers": [
+        "Urzila Carlson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "urzila",
+        "carlson"
+      ]
+    },
+    {
+      "key": "a5c75adbde71db6b2ff30b58536f12ddf21ec3a7",
+      "title": "106 - Thom Tuck",
+      "published_at": "2015-01-24T01:14:56+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/106-thom-tuck",
+      "description": "A wilfully preposterous boozehound in a pashmina, Thom Tuck is a superbly theatrical stand-up, one third of fringe-conquering sketch outfit The Penny Dreadfuls, and co-ringmaster of The Alternative Comedy Memorial Society. We delve into the challenges of developing a festival-friendly solo act for the live circuit, and discuss whether his commitment to character is ever a cage. He also reveals a surprising anger... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbaa.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/106-thom-tuck/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35822712",
+      "itunes_duration": "1:13:59",
+      "speakers": [
+        "Thom Tuck",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "thom",
+        "tuck"
+      ]
+    },
+    {
+      "key": "f9503635338903bb4d86099943ea17b52c4ddf29",
+      "title": "105 - Katy Wix",
+      "published_at": "2015-01-15T20:04:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/105-katy-wix",
+      "description": "Star of the brain-smashingly surreal sketch show \"Anna and Katy\", and Daisy in \"Not Going Out\", Katy Wix is an actress with an exceptional comic mind. We talk about the roots of creativity, the fear of daydreaming, and her new book, \"The Oberon Book Of Comic Monologues For Women\". Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbb1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/105-katy-wix/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73635896",
+      "itunes_duration": "1:16:23",
+      "speakers": [
+        "Katy Wix",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "katy"
+      ]
+    },
+    {
+      "key": "3ff36fd5574e49c8ab8e821761a105f2e463e77c",
+      "title": "104 - Alfie Brown",
+      "published_at": "2015-01-08T15:38:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/104-alfie-brown",
+      "description": "Alfie Brown is variously known as the future of British comedy, the enfant terrible of the comedy circuit, and/or a jumped-up posh kid rebelling against anything that'll have him. Frustratingly, he's almost certainly the former, as he refines his act to include less maddening naivety and more genuinely breath-taking comic verve. Can he convince you he's not just some West London it-boy wanker? I think he can... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbb8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/104-alfie-brown/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73826240",
+      "itunes_duration": "1:34:05",
+      "speakers": [
+        "Alfie Brown Alfie Brown",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alfie",
+        "brown"
+      ]
+    },
+    {
+      "key": "9f8b52713d3e7d1bfc007531d04ef302fcd01553",
+      "title": "Christmas Mega Pod with Carl Donnelly and Chris Martin",
+      "published_at": "2014-12-24T14:50:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/christmas-mega-pod-with-carl-donnelly-and-chris-martin",
+      "description": "Live from the Phoenix in Oxford Circus, Stuart, Carl and Chris get gently inebriated while hosting a saucy three-way mash-up of their respective podcasts! Happy Christmas one and all! To donate to MIND mental health charity: Text SUPPORT to 70660 to give £3 Text GIVE to 82772 to give £5 and visit www.carlandchrispodcast.com for more from those two divs. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbbf.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/christmas-mega-pod-with-carl-donnelly-and-chris-martin/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107110628",
+      "itunes_duration": "1:51:15",
+      "speakers": [
+        "Carl Donnelly",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "christmas",
+        "mega",
+        "carl",
+        "donnelly",
+        "chris",
+        "martin"
+      ]
+    },
+    {
+      "key": "16bb6c00c4e7e94937b361966b91fdcb6916f858",
+      "title": "103 - Mickey \"D\" Dwyer",
+      "published_at": "2014-12-18T17:30:54+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/103-mickey-d-dwyer",
+      "description": "Mickey \"D\" Dwyer is an outrageously charismatic comic, with an almost mutant ability to win over the toughest room, from the UK to his native Australia and back. Retaining the dynamism, skills and stories from his previous life as a hardcore festival headcase, he's now a clean-living, marathon-running family man - but does he ever miss the bad old days? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbc6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/103-mickey-d-dwyer/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85043466",
+      "itunes_duration": "1:10:36",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mickey",
+        "dwyer"
+      ]
+    },
+    {
+      "key": "ba2b6880160b76dd6d4cfaec31e40811aaeb35a3",
+      "title": "101 - Nish Kumar",
+      "published_at": "2014-12-04T10:12:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/101-nish-kumar",
+      "description": "Fiercely intelligent political and socio-political comic, friend of the show and self-confessed “great laugh”, Nish Kumar is at the height of his powers. We discuss the self and the presentational self, his family, tremendous ego and the unquenchable analytical thirst that powers his comedy and his life. But is he really only able to face his problems in front of strangers? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbd4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/101-nish-kumar/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100877852",
+      "itunes_duration": "1:23:48",
+      "speakers": [
+        "Nish Kumar",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "d76766aefa803a574d2a33baf449587c54e2d42d",
+      "title": "100 - Phil Kay (Live)",
+      "published_at": "2014-11-27T15:58:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/100-phil-kay-live",
+      "description": "It's episode 100 of the podcast and Stu's been saving this one up! If you've donated in the last few months you'll have heard this one as a sneaky pre-release but here it is for the rest of us... Phil Kay is a force of nature. Not a metaphorical one; an actual force of nature. “The guy that speaks really fast until it goes wrong” waxes sagacious about staying in the bit that works, no longer being appropriate to the bullets, and most importantly of all believing in belief. Phil's autobiography “The Wholly Viable” is available online now and you'd be an idiot to miss it. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbdb.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/100-phil-kay-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84552782",
+      "itunes_duration": "1:10:15",
+      "speakers": [
+        "Phil Kay",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "phil"
+      ]
+    },
+    {
+      "key": "9e3abd5d37d7597e9825d52ede13a7cfdffa6187",
+      "title": "99 - Luisa Omielan",
+      "published_at": "2014-11-20T16:51:16+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/99-luisa-omielan",
+      "description": "Luisa Omielan has established herself as a comic force to be reckoned with, by-passing the usual club/progression route, and cultivating an audience all her own. We explore the dynamic between her excellent stand-up and the theatrical elements that lift it to another level, and she talks candidly about her relationships with her family, and with the circuit that she'd still love to feel more a part of.BBC3, Beyonce, What Would Beyonce Do?, AmIRightLadies?, Soho Theatre, Leicester Square Theatre, The Exhibit, Salford University, Madonna, Edfringe, Underbelly, Suzi Ruffell, Off the Kerb, Top Secret Comedy Club, Gospel, Viva Forever, Jongleurs, XS Malarkey, Spanx. Criminal Minds, Live At The Apollo, Big Brother, Debi Allen, Caroline Rhea, Whoopi Goldberg, Montreal Comedy Festival Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbe2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/99-luisa-omielan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101232596",
+      "itunes_duration": "1:24:06",
+      "speakers": [
+        "Soho Theatre",
+        "Suzi Ruffell",
+        "XS Malarkey",
+        "Debi Allen",
+        "Caroline Rhea",
+        "Whoopi Goldberg",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "luisa",
+        "omielan"
+      ]
+    },
+    {
+      "key": "8ad484d736298baa758cc545fcd100a7f3e9a023",
+      "title": "98A - Ross Noble (2 of 2)",
+      "published_at": "2014-11-13T12:42:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/98a-ross-noble-2-of-2",
+      "description": "In part two of this conversation with the free-wheeling comedy craftsman, Ross Noble argues that ideas with unusual logic are often mistaken for \"surreal\" comedy, and explains his process of un-honing ideas by starting with something neat and then taking it to bits live on stage...Mock The Week, Writing Jokes, Live At The Apollo, Tour, Exclusive, Australia, Improv, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson, Bill Hicks, Lenny Bruce, Sean Hughes, Rob Newman, Peter Kay, Mary Whitehouse Experience, Glee Club, John Cooper Clarke, Sean Lock, Fred Macauley, Jo Brand, Lee Evans, Dave Gorman, Jasper Carrot Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbe9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/98a-ross-noble-2-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63234880",
+      "itunes_duration": "52:26",
+      "speakers": [
+        "Ross Noble",
+        "Russell Brand",
+        "Bill Bailey",
+        "Boothy Graffoe",
+        "Stewart Lee",
+        "Harry Hill",
+        "Billy Connolly",
+        "Joe Wilkinson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ross",
+        "noble"
+      ]
+    },
+    {
+      "key": "a0b41b5a7851e891bae7d486474c2871c7842778",
+      "title": "98 - Ross Noble (1 of 2)",
+      "published_at": "2014-11-06T10:05:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/98-ross-noble-1-of-2",
+      "description": "Ross Noble makes apparently casual improvisation into an art form, breathing life into nonsense for hours at a time and provoking gales of laughter. In the first part of this conversation we talk about how he cultivated his devoted live following, how hard it is to define what's basically him \"dicking about\", and the benefits of making TV warm-up work for you...Mock The Week, Writing Jokes, Live At The Apollo, Tour, Exclusive, Australia, Improv, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson, Bill Hicks, Lenny Bruce, Sean Hughes, Rob Newman, Peter Kay, Mary Whitehouse Experience, Glee Club, John Cooper Clarke, Sean Lock, Fred Macauley, Jo Brand, Lee Evans, Dave Gorman, Jasper Carrot Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbf0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/98-ross-noble-1-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88659336",
+      "itunes_duration": "1:13:37",
+      "speakers": [
+        "Ross Noble",
+        "Russell Brand",
+        "Bill Bailey",
+        "Boothy Graffoe",
+        "Stewart Lee",
+        "Harry Hill",
+        "Billy Connolly",
+        "Joe Wilkinson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ross",
+        "noble"
+      ]
+    },
+    {
+      "key": "5fc800558a677e83dff6f12a4a8c021003f9c1ef",
+      "title": "97 - Prince Abdi",
+      "published_at": "2014-10-30T12:44:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/97-prince-abdi",
+      "description": "Prince Abdi is a sublimely daft story-teller, whose material spills out of a life where he can't help saying \"yes\". We talk about his upbringing and his reluctant involvement in a gang, and he reveals how his experiences in ITV reality show \"Show Me The Funny\" temporarily set back his career... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbf7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/97-prince-abdi/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95329965",
+      "itunes_duration": "1:19:11",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "prince",
+        "abdi"
+      ]
+    },
+    {
+      "key": "63ac1ca4408caddffe3d58965cfb1717ea515261",
+      "title": "96B - David Cross \"Clapping In the Usa\" Exclusive Deleted Track from \"It's Not Funny\" (2014, Sub Pop)",
+      "published_at": "2014-10-23T14:51:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/96b-david-cross-clapping-in-the-usa-exclusive-deleted-track-from-its-not-funny-2014-sub-pop",
+      "description": "David Cross asked me to distribute this never-before-heard deleted track from his 2014 album \"It's Not Funny\", featuring H. Jon Benjamin as the voice of God. The track was intended as the finale of the album but never included, as he explains in Episode 96 of \"The Comedian's Comedian Podcast\" - available at www.comedianscomedian.com Purchase the original album at itunes.apple.com/gb/artist/david-cross/id15367333 Legal disclaimer: I, David Cross, (of this email address) of sound mind and body, do declare that this audio file, let's call it, \"Clapping in the USA\" is mine all mine. And I am happy to give it to Stuart to post on his podcast thing. Especially as I wilfully have no presence on Social Media. Yours in Christ, David Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bbfe.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/96b-david-cross-clapping-in-the-usa-exclusive-deleted-track-from-its-not-funny-2014-sub-pop/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13079307",
+      "itunes_duration": "10:38",
+      "speakers": [
+        "David Cross",
+        "Jon Benjamin",
+        "David Hosted",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david",
+        "cross",
+        "clapping",
+        "exclusive",
+        "track"
+      ]
+    },
+    {
+      "key": "a3cbe2930f718d72c7d47045e65f6f3364865808",
+      "title": "96A - David Cross (2 of 2)",
+      "published_at": "2014-10-23T13:51:18+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/96a-david-cross-2-of-2",
+      "description": "In the second part of our conversation, standup and comic actor David Cross explores offence, outrage and sensitivity. We also talk about his work on Arrested Development and Mr Show, and dig into his process, his struggle to write jokes, and how to regard an audience as a living breathing thing... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc03.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/96a-david-cross-2-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80507045",
+      "itunes_duration": "1:06:50",
+      "speakers": [
+        "David Cross",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david",
+        "cross"
+      ]
+    },
+    {
+      "key": "99927a4a553c406d4333e533a06b99937027b8f9",
+      "title": "96 - David Cross (1 of 2)",
+      "published_at": "2014-10-16T07:43:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/96-david-cross-1-of-2",
+      "description": "The star of \"Arrested Development\", \"Mr Show\" and \"The Increasingly Poor Decisions of Todd Margaret\", David Cross is also a phenomenal stand-up, whose work howls at the stupidity and hypocrisy around him. In part one of this interview he talks about his earliest material and how he overcame the fear of bombing onstage, and speaks very frankly about the cycle of anger and depression that could grip him in his less creative moments... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc0a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/96-david-cross-1-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84223745",
+      "itunes_duration": "1:09:55",
+      "speakers": [
+        "David Cross",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david",
+        "cross"
+      ]
+    },
+    {
+      "key": "692efec77bbfd53047d58259be8d8d6bfd04bc0e",
+      "title": "95 - Trygve Wakenshaw",
+      "published_at": "2014-10-09T14:33:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/95-trygve-wakenshaw",
+      "description": "Bloody lovely Trygve is a superb physical improviser, and more of a \"weird lanky white brittle idiot\" than a clown. We dissect the hilarious savagery of his imaginary worlds, and talk about stealing ideas from yourself, spotting your habits, and why it's good to go and see bad shows...Dr Brown, Phil Burgers, Kraken, Squidboy, Barry Awards, Golden Gibbo Awards, FRED Awards, SOMPBDILSPIWCL, Le Flop, Cardboard Cabaret, Vikki Stone, The Classic, Auckland, Steen Raskopoulos, Red Bastard, Benjamin Crellin, Barnie Duncan, Calypso Nights, Buster Keaton, Charlie Chaplin, Laurel And Hardy, Gaulier, Clowning, Carlo Jacucci, The Underbelly, Julien Cottereau, Imagine Toi, Monty Python, Kune's Kitchen, John Kearns, Liam Williams, Ben Target, The Boy With Tape On His Face, Kim Noble Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc11.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/95-trygve-wakenshaw/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100169415",
+      "itunes_duration": "1:23:13",
+      "speakers": [
+        "Trygve Wakenshaw Bloody",
+        "Dr Brown",
+        "Phil Burgers",
+        "Barry Awards",
+        "Vikki Stone",
+        "Steen Raskopoulos",
+        "Red Bastard",
+        "Benjamin Crellin",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "trygve",
+        "wakenshaw"
+      ]
+    },
+    {
+      "key": "7eed6ac53d50ba4f85be93d02ff2f9776e909401",
+      "title": "94 - Tom Stade (Live)",
+      "published_at": "2014-10-02T12:34:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/94-tom-stade-live",
+      "description": "Although he's frequently referred to as a \"philosophical\" or \"stoner\" comic, Tom Stade is actually a Level Twenty Comedian. He waxes lyrical about striving for wisdom in his writing, rather than cleverness, and why he focuses on the internal not the external. We also talk about videotaping yourself to dissolve the delusion that an audio-recording of your act affords, acting like a star, and why Tom's a dangerous person to have on TV...Gary Delaney, Micky Flanagan, Stephen Fry, Craig Campbell, Stuart Goldsmith, JP Mass, John Hastings, Live At The Apollo, Doug Stanhope, Brendon Burns Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc18.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/94-tom-stade-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90531799",
+      "itunes_duration": "1:15:11",
+      "speakers": [
+        "Tom Stade",
+        "Gary Delaney",
+        "Micky Flanagan",
+        "Stephen Fry",
+        "Craig Campbell",
+        "Stuart Goldsmith",
+        "John Hastings",
+        "Doug Stanhope"
+      ],
+      "topics": [
+        "stade"
+      ]
+    },
+    {
+      "key": "75fe048f2d00fb084711a1c57cf490142f24b3a7",
+      "title": "93 - Eleanor Tiernan",
+      "published_at": "2014-09-25T23:37:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/93-eleanor-tiernan",
+      "description": "Eleanor Tiernan makes tremendously articulate comedy, often out of morally murky ideas and subjects. She talks here about the comedy scene in her native Ireland, how to find the bits of your act that are genuinely “alive”, and how she escaped material she felt trapped by. We also go into depth on her experiences with therapy, how her artistic purpose helps her emotionally, and how we share the underlying fear of getting kicked out of the gang...Free Fringe, Laughter Lounge, Tommy Tiernan, Edinburgh Fringe Festival, The Poor School, The Oxford Drama School, Help The Frigid, So You Think You're Funny?, Mrs Brown's Boys, Chris Brown, Stewart Lee, Andrew Lawrence, Headwreckers, David McSavage, Phil Kay, Hunter Square, Reginald D Hunter, Up The Creek, Comedy Store, Dublin Fringe Festival, The National Therapy Project, Jason Byrne, Dara O'Briain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc1f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/93-eleanor-tiernan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61704838",
+      "itunes_duration": "1:03:57",
+      "speakers": [
+        "Eleanor Tiernan",
+        "Free Fringe",
+        "Laughter Lounge",
+        "Tommy Tiernan",
+        "Mrs Brown's Boys",
+        "Chris Brown",
+        "Stewart Lee",
+        "Andrew Lawrence",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "eleanor",
+        "tiernan"
+      ]
+    },
+    {
+      "key": "74382bca42e4eef721ba1a54c203973bbc5833c8",
+      "title": "92 - Josie Long (Live)",
+      "published_at": "2014-09-17T15:39:21+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/92-josie-long-live",
+      "description": "Irrepressibly positive, and relentless in her pursuit of betterment, deliriously funny Josie Long is much more than a figurehead for “whimsy”. We talk here about how her humour has developed from Japanese frog gods to politics and back, and how to make sure you get taken on the expedition. She also covers getting trolled before it was cool, unsubscribing from abuse and being fucking zen... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc26.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/92-josie-long-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79528502",
+      "itunes_duration": "1:06:01",
+      "speakers": [
+        "Josie Long",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "josie",
+        "long"
+      ]
+    },
+    {
+      "key": "2dfa3b751c84e4f6faec6c82198ffc7620584137",
+      "title": "91 - Steen Raskopoulos",
+      "published_at": "2014-09-10T22:09:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/91-steen-raskopoulos",
+      "description": "Impro aficionado Steen Raskopoulos has mastered a style of audience interaction that lets his volunteers contribute to the show, rather than simply supplying a punchline. Nominated for Edinburgh Best Newcomer moments after this interview, he talks here about his training, the origins of his characters, and how he's ended up so aggravatingly well-adjusted...Audience Participation, Improv, Sketch, Edinburgh Best Newcomer Nomination 2014, Paul Byrne, The Delusionist, This Is Littleton, Slideshow, TV, Adam Riches, Lynsey Hanley, Second City, Axis Of Awesome, Jordan Raskopoulos The Super Rasko Bros., Eric Bana, Veronica Milsom, Clarke MacFarlane, Mario, Queen Of The Circus, Alastair Cook, Setlist Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc2d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/91-steen-raskopoulos/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77760534",
+      "itunes_duration": "50:19",
+      "speakers": [
+        "Steen Raskopoulos",
+        "Edinburgh Best Newcomer",
+        "Edinburgh Best Newcomer Nomination",
+        "Paul Byrne",
+        "Adam Riches",
+        "Lynsey Hanley",
+        "Jordan Raskopoulos",
+        "Eric Bana",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "steen",
+        "raskopoulo"
+      ]
+    },
+    {
+      "key": "de579a23686d5a5d3b28d8205a07c54f54591c04",
+      "title": "90 - Bridget Christie (Live)",
+      "published_at": "2014-09-05T15:13:02+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/90-bridget-christie-live",
+      "description": "The leading voice of feminism in UK comedy, devastatingly funny Bridget Christie is adept at unearthing humour in difficult or important topics. She talks here about her comic origins in surrealism, and reveals beneath her insecurities the wilfulness that kept her going in the face of critical bewilderment. We Love Comedy, Stewart Lee, Edinburgh Fringe Festival, Fosters Comedy Award, A Bic For Her, An Ungrateful Woman, David Trent, Hannibal Buress, Cheese Roll, Charles II, Charles II The Second, Daily Mail, Housewife Surrealist, War Donkey, A Ant, The Stand, ACMS, Alternative Comedy Memorial Society, The Alexander, Clapham, The Comedy Stop, The Comedy Store, Sam Simmons, Alison Vernon-Smith, Bridget Christie Minds The Gap, Radio 4, Kate Smurthwaite, Danielle Ward, Soho Theatre, Eddie Izzard, Celebrity Squares, Warwick Davies Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc34.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/90-bridget-christie-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88889121",
+      "itunes_duration": "1:01:31",
+      "speakers": [
+        "Bridget Christie",
+        "Stewart Lee",
+        "Edinburgh Fringe Festival",
+        "Fosters Comedy Award",
+        "David Trent",
+        "Alternative Comedy Memorial Society",
+        "Sam Simmons",
+        "Alison Vernon-Smith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "bridget",
+        "christie"
+      ]
+    },
+    {
+      "key": "ed0f0e50d783728e1ef060834221e27423940a0b",
+      "title": "89 - Phill Jupitus (Live)",
+      "published_at": "2014-08-27T11:42:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/89-phill-jupitus-live",
+      "description": "From \"Porky the Poet\" to \"Never Mind The Buzzcocks\" to his own stand-up tours, Phill Jupitus is responsible for a prodigious comic output. We discuss his origins as a performer, his use of his family in his material, and the usefulness of unresolved anger...Josie Long, Bridget Christie, Sara Pascoe, Deborah Francis-White, Nadia Kamil, ACMS, Alternative Comedy Memorial Society, Malcolm Hardee, Marcus Brigstocke, World's Most Dangerous Roads, John Mann, Alistair McGowan, Jeremy Hardy, Comedy Store, Mark Thomas, Kevin Day, Andre Vincent, Edinburgh Fringe Festival, Free Fringe, Porky The Poet, Poems Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc3b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/89-phill-jupitus-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113238793",
+      "itunes_duration": "1:18:25",
+      "speakers": [
+        "Phill Jupitus",
+        "Josie Long",
+        "Bridget Christie",
+        "Sara Pascoe",
+        "Deborah Francis-White",
+        "Nadia Kamil",
+        "Alternative Comedy Memorial Society",
+        "Malcolm Hardee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "phill",
+        "jupitus"
+      ]
+    },
+    {
+      "key": "b3f79ba0767bf2a198ba517b9390ea36112054b2",
+      "title": "88 - Sam Simmons (Live)",
+      "published_at": "2014-08-14T12:25:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/88-sam-simmons-live",
+      "description": "Sam Simmons is not a “surreal” comic, despite his propensity to turn into a horse whilst windsurfing. He's responsible for some of the funniest, most imaginative comedy in the world, and has an unshakeable faith in his material. He talks here about the anger he feels when mainstream audiences refuse to come along for the ride, how he translates rage into comedy, and the advantages of making mistakes.Paul Foot, Mike Wilmot, Noel Fielding, Graeme Garden, Bob Slayer, Set List, James Acaster, Hannibal Burress, Dave Quirk, The Roadshow, Adelaide, Edinburgh Fringe, The Goodies, Dangermouse, Fawlty Towers, Conan, Problems, Animal Planet, The Trip Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc42.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/88-sam-simmons-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100484348",
+      "itunes_duration": "1:09:34",
+      "speakers": [
+        "Sam Simmons",
+        "Paul Foot",
+        "Mike Wilmot",
+        "Noel Fielding",
+        "Graeme Garden",
+        "Bob Slayer",
+        "James Acaster",
+        "Hannibal Burress",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "simmons"
+      ]
+    },
+    {
+      "key": "d0819fa8c806e5a52cfde369a7b534820d06a580",
+      "title": "87A - Edfringe Mini Ep",
+      "published_at": "2014-08-06T09:57:35+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/87a-edfringe-mini-ep",
+      "description": "A quick hello and a couple of recommendations for the Edinburgh Fringe 2014 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc49.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/87a-edfringe-mini-ep/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9824558",
+      "itunes_duration": "9:55",
+      "speakers": [
+        "Edinburgh Fringe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "edfringe",
+        "mini"
+      ]
+    },
+    {
+      "key": "f546151bbb755e7100669c13d5a610f39b1b6ac2",
+      "title": "87 - John Hastings",
+      "published_at": "2014-07-30T09:11:40+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/87-john-hastings",
+      "description": ">John Hastings has the soul of an alt comic, hiding between the power-chords of a bullet-headed club-jockey. He describes in detail how the Canadian circuit differs to the UK, and we talk about the two different types of bombing, his unusual writing technique, and how it feels to do well in a tough room but regret the choices you made...Edinburgh Fringe Festival, Canada, The Pleasance Cellar, 8 Out Of 10 Cats, Mock The Week, Have I Got News For You, Comedy Store, Imran Yusuf, Josh Widdicombe, Eminem, Patton Oswalt, Montreal, Jongleurs, Michael McIntyre, Tony Law, Nick Helm Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc4e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/87-john-hastings/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95322653",
+      "itunes_duration": "1:19:10",
+      "speakers": [
+        "John Hastings",
+        "Edinburgh Fringe Festival",
+        "Comedy Store",
+        "Imran Yusuf",
+        "Josh Widdicombe",
+        "Patton Oswalt",
+        "Michael McIntyre",
+        "Tony Law",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "hastings"
+      ]
+    },
+    {
+      "key": "24d79d87f586968c6c99654bb5cd2e459aa3370d",
+      "title": "86 - Noel James",
+      "published_at": "2014-07-23T22:54:40+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/86-noel-james",
+      "description": "A master of off-the-wall wordplay, Noel James is disarmingly honest about his struggles with comedy and real life. We analyse his use of metaphor and analogy as well as delving into his psychology, what it's like to commit one's life to comedy, and the public craving for “one voice of truth”.Bangor University, Taunton, One Liners, Gavin Webster, New Zealand, Laurel And Hardy, Monty Python, James Joyce, Dylan Thomas, Spike Milligan, British Telecom, Mark Thomas, Kevin Day, Maria Callas, Graham Norton, Frankie Howerd, Ken Dodd, Time Out, Tunnel Club, Malcolm Hardee, Game Of Thrones, Paul Foot, Phil Kay, Chortle, Daniel Dennett, Colin Wilson, The Outsider, Bill Hicks, Joe Rowntree, SNL, Saturday Night Live, Ben Elton, Arthur Smith, Tim Vine, Glee Club, Selling Out, Eric Sykes Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc55.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/86-noel-james/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89215221",
+      "itunes_duration": "1:14:05",
+      "speakers": [
+        "Noel James",
+        "Gavin Webster",
+        "James Joyce",
+        "Dylan Thomas",
+        "Spike Milligan",
+        "Mark Thomas",
+        "Kevin Day",
+        "Maria Callas",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "noel",
+        "james"
+      ]
+    },
+    {
+      "key": "45c52821ebc19997ca1ba0ff85aa817fb69fde1b",
+      "title": "85 - Kyle Kinane",
+      "published_at": "2014-07-17T14:05:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/85-kyle-kinane",
+      "description": "A self-confessed “sad, bearded white dude”, Kyle Kinane has more empathy than the next road warrior, and more bite than the next peddler of whimsy. He talks here about eschewing personality in favour of better jokes; cultivating talent rather than hustle; and how his failure at a big festival led him to discover a more worthwhile goal than wordplay.Extra content from this interview available free at www.comedianscomedian.com/kyleSoho Theatre, Eddie Pepitone, Kurt Braunohler, Mitch Hedburg, The Johnny Carson Show, Mr Show, The Kids In The Hall, Fin Taylor, Paul W. Valentine, Charles Bukowski, Death Of The Party, Whiskey Icarus, Dave Attell, Aspen Comedy Festival Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc5c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/85-kyle-kinane/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70129639",
+      "itunes_duration": "58:11",
+      "speakers": [
+        "Kyle Kinane",
+        "Eddie Pepitone",
+        "Kurt Braunohler",
+        "Mitch Hedburg",
+        "Charles Bukowski",
+        "Dave Attell",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kyle",
+        "kinane"
+      ]
+    },
+    {
+      "key": "814876231480068e15213f18651b09af6fd97954",
+      "title": "84 - Nick Doody",
+      "published_at": "2014-07-10T12:41:59+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/84-nick-doody",
+      "description": "Nick Doody is a textbook \"unsung hero\" of comedy: fiercely analytical, and with an approach to jokes that is both cerebral and instinctive. He talks here in fascinating detail about elements of his writing process: divergent thinking, freeing oneself from the logic of a situation, and manufacturing outrage...Jim Jefferies, The Now Show, Radio 4, Ben Moore, Wayne Shepherd, The Comedy Cellar, Arnold Brown, Stephen Fry, Bill Hicks, Jack Dee, Stephen Wright, Emo Phillips, Nick Revel, Ben And Arn, Paul Rogan, Stewart Lee, Andy Zaltzman, Matt Kirshen, John Gordillo, Simon Evans, Old Rope, Louis CK, Carey Marx, Ed Byrne Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc63.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/84-nick-doody/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77737748",
+      "itunes_duration": "1:20:39",
+      "speakers": [
+        "Nick Doody",
+        "Jim Jefferies",
+        "Ben Moore",
+        "Wayne Shepherd",
+        "Arnold Brown",
+        "Stephen Fry",
+        "Bill Hicks",
+        "Jack Dee",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "doody"
+      ]
+    },
+    {
+      "key": "09e49c1be1d515c6defa1ea1a01674f6c98d67ed",
+      "title": "83 - Aamer Rahman",
+      "published_at": "2014-07-02T12:24:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/83-aamer-rahman",
+      "description": "Aamer Rahman was on the verge of giving up his career in overtly-political comedy when his youtube standup clip on “reverse racism” went life-changingly viral. We talk about anger, activism, whether issues-based comedy can lead to political change, and the problem with “Game of Thrones”...Fear Of A Brown Planet, Edinburgh Fringe Festival, Reverse Racism, Roar, Nazeem Hussain, Nabil Abdul Rashid, Twitter, YouTube, Bloc Party, Alanis Morissette, Ironic, Game Of Thrones, Breivik, Australia Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc6a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/83-aamer-rahman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62172549",
+      "itunes_duration": "1:04:26",
+      "speakers": [
+        "Aamer Rahman",
+        "Reverse Racism",
+        "Nazeem Hussain",
+        "Nabil Abdul Rashid",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "aamer",
+        "rahman"
+      ]
+    },
+    {
+      "key": "8d365acf783fd74461f2f9d9a1650daef6465038",
+      "title": "82 - Andy Zaltzman",
+      "published_at": "2014-06-25T07:21:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/82-andy-zaltzman",
+      "description": "The grand high sultan of Bullshit-istan, Andy Zaltzman is one half of the incredible Bugle Podcast, and combines densely-written satirical nonsense with improvised flights of fancy. He goes into detail on how The Bugle is made, how he copes with his partner's stratospheric success, and answers the ultimate question: \"what is bullshit?\"The Bugle, John Oliver, Karen Taylor, Danny Bhoy, Spencer Brown, Honourable Men Of Art, Daniel Kitson, David O'Doherty, Ross Noble, Never Mind The Buzzcocks, Noel Fielding, The Daily Show, Mark Thomas, Rob Newman, Michael McIntyre, Richard Herring, Stewart Lee, Alun Cochrane, Ricky Gervais, Political Animal, The Department, Radio 4, Greg Proops, Sara Pascoe Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc71.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/82-andy-zaltzman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82359141",
+      "itunes_duration": "1:25:28",
+      "speakers": [
+        "Andy Zaltzman",
+        "John Oliver",
+        "Karen Taylor",
+        "Danny Bhoy",
+        "Spencer Brown",
+        "Daniel Kitson",
+        "David O'Doherty",
+        "Ross Noble",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andy",
+        "zaltzman"
+      ]
+    },
+    {
+      "key": "f6c63f5bfaf1635a7d1dfc67c7f62ebbb05bb97d",
+      "title": "81 - Adrienne Truscott",
+      "published_at": "2014-06-19T09:14:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/81-adrienne-truscott",
+      "description": "New York-based former cabaret comic Adrienne Truscott is an articulate, passionate and hilarious new voice in stand-up. Her \"Asking For It\" show won the panel prize at the Edinburgh Fringe for its abruptness, honesty and scathing wit. We discuss the vulnerability of performing naked, the responsibilities of freedom of speech, and how to cultivate silliness from fury... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc78.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/81-adrienne-truscott/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93763792",
+      "itunes_duration": "1:17:53",
+      "speakers": [
+        "Adrienne Truscott",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "adrienne",
+        "truscott"
+      ]
+    },
+    {
+      "key": "309d93d783bcb986491f5b2c710a70405bf674ca",
+      "title": "80 - Jarred Christmas",
+      "published_at": "2014-06-11T14:28:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/80-jarred-christmas",
+      "description": "An improvisational powerhouse, Jarred Christmas finds the time to pepper his irrepressible joie de vivre with damn fine jokes. He spills the beans here about his current state of flux between the attraction of live work and the fresh challenges of TV writing. We also cover the downfalls of trying to play to the Edinburgh critics, Jarred's own “three Cs” of comedy, and how to cheat your way to success in a live studio sitcom.. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc7f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/80-jarred-christmas/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116219883",
+      "itunes_duration": "1:20:29",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jarred",
+        "christmas"
+      ]
+    },
+    {
+      "key": "178c949462cf3fd3202d86cd59ab08a4115502de",
+      "title": "79 - Luke Heggie",
+      "published_at": "2014-06-05T09:03:41+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/79-luke-heggie",
+      "description": "Although still new, Luke Heggie is a breath of dry, dusty air to a circuit stuffed with comic book-readers and “star-fuckers”. A blue-collar Aussie bloke who won RAW on his fourth gig and then gave AGT a shot, he hilariously annihilates the idiots that cross his path, then goes back to his kids and his building site... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc86.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/79-luke-heggie/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78735835",
+      "itunes_duration": "54:27",
+      "speakers": [
+        "Luke Heggie",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "luke",
+        "heggie"
+      ]
+    },
+    {
+      "key": "5c982fa0c513aabb37eeff486e4ab7b2c9b1f382",
+      "title": "78 - Michele A'Court",
+      "published_at": "2014-05-28T08:50:27+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/78-michele-acourt",
+      "description": "Autobiographical and observational comedian, blogger and feminist, Michele A'Court speaks passionately about authenticity, insecurity and the right to challenge. We discuss her refusal to apologise, the disappearance from TV of older female performers, and two very different sides of her theory that you have to follow what's making the noise in your head, or the rest of the writing won't come... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc8d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/78-michele-acourt/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85828398",
+      "itunes_duration": "59:23",
+      "speakers": [
+        "Michele A'Court",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "michele"
+      ]
+    },
+    {
+      "key": "ba09a2393563d69cd4c5d210efcb171823f567a2",
+      "title": "77 - Tom Wrigglesworth",
+      "published_at": "2014-05-22T15:52:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/77-tom-wrigglesworth",
+      "description": "A softly-spoken, foppish figure who luxuriates in language, Tom Wrigglesworth is equally at home spinning a yarn or smashing up a weekend club. He talks here about authenticity in his work, and the right of the teller to alter the empirical truth of a story, as well as outlining in detail his favourite trick for dealing with interruptions... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @comcompod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc94.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/77-tom-wrigglesworth/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113139106",
+      "itunes_duration": "1:18:21",
+      "speakers": [
+        "Tom Wrigglesworth",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "wrigglesworth"
+      ]
+    },
+    {
+      "key": "1bb72852fd90653b8dd64024398fb9088d96f2a1",
+      "title": "76 - Ben Hurley",
+      "published_at": "2014-05-15T03:20:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/76-ben-hurley",
+      "description": "Laidback observationalist Ben Hurley made a foray to the UK some years ago, and returned to his native New Zealand to become a TV hero. We get stuck into the relationship between British and NZ comedy, and the pros and cons of each scene. We also cover natural talent, making laziness work for you, and whether observations hit harder when performed totally clean, or when injected with personality... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bc9b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/76-ben-hurley/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118321375",
+      "itunes_duration": "1:21:57",
+      "speakers": [
+        "Ben Hurley",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hurley"
+      ]
+    },
+    {
+      "key": "4c36fb2e5f54cba4afb770457849498090aef4b0",
+      "title": "75 - Carey Marx (Live)",
+      "published_at": "2014-04-30T21:37:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/75-carey-marx-live",
+      "description": "Carey Marx is a silver-tongued charmer who delights in navigating boundaries of logic, language and taste. With a unique take on verbal dexterity and misdirection, informed in part by his previous career as a magician, he talks at the NZICF about what makes comedy offensive, which words he won't stop using, and even reveals some of his self-generated writing exercises... *Contains language that some people may find offensive* Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bca2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/75-carey-marx-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78681212",
+      "itunes_duration": "1:05:18",
+      "speakers": [
+        "Carey Marx",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "carey",
+        "marx"
+      ]
+    },
+    {
+      "key": "0e2e8d2a9bbed6911ebed31297c9d31a34c71b13",
+      "title": "74 - Claudia O'Doherty (Live)",
+      "published_at": "2014-04-25T21:09:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/74-claudia-odoherty-live",
+      "description": "Claudia O'Doherty is a genuine comedy pioneer, who uses high concepts and holograms in order to have fun behaving like a dickhead. We talk about the inspiration behind topics like ocean research or soil erosion, and how she manages to make such esoteria properly funny, as well as why both clowns and standups are jerks. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders @ComComPod | www.comedianscomedian.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bca9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/74-claudia-odoherty-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87405785",
+      "itunes_duration": "1:00:29",
+      "speakers": [
+        "Claudia O'Doherty",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "claudia"
+      ]
+    },
+    {
+      "key": "85f8154c29d7679668bd4f57a9871f2f301dd70f",
+      "title": "73 - Max And Ivan (Live)",
+      "published_at": "2014-04-17T08:42:02+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/73-max-and-ivan-live",
+      "description": "To call Max and Ivan a comedy double-act with a narrative doesn't really do justice to this pair of rubber-faced, multi-voiced storytellers, who have a penchant for sneaking actual theatre into their work. They've only recently quit their day-jobs, but with a run of international festival appearances and award nominations under their belt, it seems to be working out – you could literally just slap them. Here, the boys outline their writing and rehearsal process, who gets final say over the editing, and which one of them has a google alert for their own reviews... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcb0.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/73-max-and-ivan-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89578747",
+      "itunes_duration": "1:01:59",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ivan"
+      ]
+    },
+    {
+      "key": "e08b84b7ac1ce104c68088d3c89ea162cbe8ae2f",
+      "title": "72 - David O'Doherty (Live)",
+      "published_at": "2014-04-09T22:24:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/72-david-odoherty-live",
+      "description": "Does \"whimsy\" have to mean fairy lights and bunting, or is it just owning a bag? David O'Doherty is a multi-award winning comic and musical noodler, with a real emotional depth at the core of his seemingly fanciful material. We discuss why he had a breakdown and how he recovered, the significance of sitting on the far left on a panel show, and what you should never ever do on a bicycle... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcb7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/72-david-odoherty-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89815108",
+      "itunes_duration": "1:02:09",
+      "speakers": [
+        "David O'Doherty",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
+    {
+      "key": "623c47041c7470b8e9c8d3e8eb1f124a749a7f37",
+      "title": "71 - Kerry Godliman",
+      "published_at": "2014-04-03T11:59:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/71-kerry-godliman",
+      "description": "A recipe for a happy life as a comic? Kerry Godliman is a superb observationalist, and a tremendous comic actor. She shares her philosophy on writing, gigging and how to achieve a positive work-life balance, as well as delving into why she's never been afraid to scratch a living. We also discuss positive discrimination, covens of rage, and why wahwah is way better than flimflam... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcbe.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/71-kerry-godliman/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116817360",
+      "itunes_duration": "1:20:54",
+      "speakers": [
+        "Kerry Godliman",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kerry",
+        "godliman"
+      ]
+    },
+    {
+      "key": "a0fcf3b50693c10fda1ccce06c1a40f00271df1c",
+      "title": "70 - Tim Vine (Live)",
+      "published_at": "2014-03-25T18:22:24+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/70-tim-vine-live",
+      "description": "Alongside his famously prodigious output of punnery, Tim Vine is a wonderfully imaginative comedy creator. As well as talking us through his writing techniques, he describes how he structures an hour-long barrage of punchlines, and gives us unprecedented access to the the notorious “Pen Behind The Ear”. But will he ever be one of the cool kids? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcc5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/70-tim-vine-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83099960",
+      "itunes_duration": "57:29",
+      "speakers": [
+        "Tim Vine",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "vine"
+      ]
+    },
+    {
+      "key": "9f3e5af7b35847d581e8efcc5eb0f8da60045829",
+      "title": "69 - Ed Byrne (Live)",
+      "published_at": "2014-03-19T17:20:32+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/69-ed-byrne-live",
+      "description": "Ed Byrne is a charming, argumentative sod - with a fantastically natural comic ability. We discuss whether it's funnier to take time finding the truth of a subject, or to switch your opinions to find the must comically useful stance; and why a group of comedians is known as a “bitch”. We also glimpse how he side-steps a physical writing process by simply losing an argument and then dwelling on it for far too long... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bccc.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/69-ed-byrne-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90830742",
+      "itunes_duration": "1:02:51",
+      "speakers": [
+        "Ed Byrne",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "byrne"
+      ]
+    },
+    {
+      "key": "fee6bd01f7422c8ad3f4df462a850afacdc696b2",
+      "title": "68 - Sean Hughes (Live)",
+      "published_at": "2014-03-12T21:07:30+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/68-sean-hughes-live",
+      "description": "Sean Hughes is a thoughtful, reflective performer, with a passion for self-expressive and profound comedy. A pioneer of the themed, narrative standup show, after the 90s he quit the fishbowl of comedy celebrity to become a novelist, poet and actor. We discuss his feelings on “outliving” his life experience; the amazing drug of comedy; and the challenges of attracting an audience other than the one you were aiming for... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcd3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/68-sean-hughes-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84524368",
+      "itunes_duration": "58:29",
+      "speakers": [
+        "Sean Hughes",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sean",
+        "hughes"
+      ]
+    },
+    {
+      "key": "465826c17f0babf5ebcf5b2a239f66f7208418e3",
+      "title": "67 - Gary Delaney (Live)",
+      "published_at": "2014-03-05T21:25:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/67-gary-delaney-live",
+      "description": "Punchline virtuoso Gary Delaney knows one-liners inside and out, and in this crackling live episode treats us to a comprehensive technical analysis of his art.Taking grammar, rhythm, emphasis and narrative into account, he unpacks specific examples of his gags in forensic detail. Gary fiercely defends the value of hard work over talent, and also finds time to cry hacky, spunky tears...One Liners, Simon Munnery, Harry Hill, Stewart Lee, Stephen Wright, Tim Vine, Jongleurs, Tony Law, Martin Lewis, MoneySavingExpert.com, Buccaneer Club, Kate Copstick, Dan Evans, Milton Jones, Old Rope, Marcus Brigstocke, Mitch Hedburg, Stephen Fry, TalkSport, Katherine Ryan, Frankie Boyle, Jimmy Carr, Max Miller, Slaughterhouse, Jethro, Flavor Flav, Public Enemy, Douglas Rushkoff, Newsjack, Bernard Manning, Jim Davidson Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcda.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/67-gary-delaney-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127806968",
+      "itunes_duration": "1:08:19",
+      "speakers": [
+        "Gary Delaney",
+        "Simon Munnery",
+        "Harry Hill",
+        "Stewart Lee",
+        "Stephen Wright",
+        "Tim Vine",
+        "Tony Law",
+        "Martin Lewis",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gary",
+        "delaney"
+      ]
+    },
+    {
+      "key": "9020a184c13858951e0d21677361e7a4aeb0a90a",
+      "title": "66 - Will Franken (Live)",
+      "published_at": "2014-02-27T01:09:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/66-will-franken-live",
+      "description": "Will Franken is a one-man sketch explosion who creates multi-layered and mind-bending comedy with the exuberance of a bedroom DJ. From writing a new 90 minute show monthly to be performed only once, to putting a kid in a headlock, he rails against an industry that expects comedians to be normal... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bce1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/66-will-franken-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79148996",
+      "itunes_duration": "54:45",
+      "speakers": [
+        "Will Franken",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "franken"
+      ]
+    },
+    {
+      "key": "82daf3cefcb2f51ebf713af65b695aaade3e2570",
+      "title": "65 - Nick Helm (Live)",
+      "published_at": "2014-02-20T20:12:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/65-nick-helm-live",
+      "description": "Nick Helm grunts and sweats his way through a hilarious hurricane of jokes, songs, poetry and swearing, all the while undergoing a total emotional breakdown on stage. We encounter the soft-spoken and articulate theatre-maker behind the heavy metal mask, exploring how he structures his epic shows, the origin of his bombast, and his feelings on his starring role in BBC3's “Uncle”. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bce8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/65-nick-helm-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93465910",
+      "itunes_duration": "1:17:23",
+      "speakers": [
+        "Nick Helm",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "nick",
+        "helm"
+      ]
+    },
+    {
+      "key": "1738aaa871c56da2d51fdb7178c04f2447a544b0",
+      "title": "64 - Tony Law (Live)",
+      "published_at": "2014-02-12T10:26:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/64-tony-law-live",
+      "description": "Tony Law's regeneration from acquired-taste surrealist to must-see force of nature has been borne of depression and crippling debt. He exists now in a dynamic between ecstatic madness and total discipline, resulting in an unstoppable comic energy. In this more-than-usually revealing interview, we find out how Tony crafts his apparently uncraftable material, the unique influence his wife brings to bear on his writing, and why he thinks Stu is a bit of a prick... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcef.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/64-tony-law-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82110024",
+      "itunes_duration": "56:48",
+      "speakers": [
+        "Tony Law",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tony"
+      ]
+    },
+    {
+      "key": "1c268f1f4759e40bea64e851d9bd46873d1c88f5",
+      "title": "63 - Marcus Brigstocke (Live)",
+      "published_at": "2014-02-06T08:09:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/63-marcus-brigstocke-live",
+      "description": "Sidetracked by youthful addictions, and making up for it with an incredibly intense approach, Marcus Brigstocke produces brilliant political comedy underpinned by passion and rigorous research. Find out what it's like to storm a commercial club with stuff that you no longer believe in, why The Telegraph regard Marcus as a traitor, and the one thing about comedy that breaks his heart... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee403fbda3b0013c3bcf6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/63-marcus-brigstocke-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85931225",
+      "itunes_duration": "59:27",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "marcus",
+        "brigstocke"
+      ]
+    },
+    {
+      "key": "1d94fff3babaf3e4ed56f0060ea54599c6a0f7b9",
+      "title": "62 - Norman Lovett (Live)",
+      "published_at": "2014-01-29T17:31:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/62-norman-lovett-live",
+      "description": "Rambling man Norman Lovett is the comedy equivalent of a tai chi master, using subtlety and gentleness to often devastating comic effect. In this episode Norman is convinced to put aside his distrust of analysing comedy, at least some of the time, and we learn about the acts that inspired him, his audition for Red Dwarf, and the anger simmering beneath the whimsy... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bcfd.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/62-norman-lovett-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88042750",
+      "itunes_duration": "1:00:55",
+      "speakers": [
+        "Norman Lovett",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "norman",
+        "lovett"
+      ]
+    },
+    {
+      "key": "4fdb89d8ec7118dca2dcd25c14760e3efdcc28ae",
+      "title": "61 - Bo Burnham (Live)",
+      "published_at": "2014-01-23T01:47:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/61-bo-burnham-live",
+      "description": "Bo Burnham is a frighteningly talented youtube-wielding wunderkind, with a gag-filled show that defies you to write him off as precocious. We explore the inherent amorality of comedy, the responsibilities of the offensive comic and the consequences of attracting a demographic that isn't necessarily the one you were aiming for... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd04.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/61-bo-burnham-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85596432",
+      "itunes_duration": "59:13",
+      "speakers": [
+        "Bo Burnham",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "burnham"
+      ]
+    },
+    {
+      "key": "cbf6c0dfa19a35d85e070ef1ef1d820b7f29e914",
+      "title": "60 - Susan Calman (Live)",
+      "published_at": "2014-01-15T12:52:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/60-susan-calman-live",
+      "description": "Susan Calman is fierce and fiercely funny, unleashing her personal demons to devastating comic effect in her work and here in conversation. As well as exploring how not to approach the Edinburgh fringe, we also uncover how Susan translates her anger into comedy, the pressure she feels to be a spokesperson for gay people, and why she feels she doesn't deserve a glass... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd0b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/60-susan-calman-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70863152",
+      "itunes_duration": "58:47",
+      "speakers": [
+        "Susan Calman",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "susan",
+        "calman"
+      ]
+    },
+    {
+      "key": "83aed540bec52fd316ef6e7b9cad7405cdfe7c53",
+      "title": "59 - Rob Delaney (Live)",
+      "published_at": "2014-01-08T04:19:48+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/59-rob-delaney-live",
+      "description": "According to his mother, Rob Delaney is “a monster who does good things”. We talk about the differences between his standup persona and his voice on Twitter, as well as detailing the specific techniques he used to gather his 1,000,000+ followers. We also explore the dynamic between his creativity and his sometimes major depression, and investigate which elements of comedy still feel outside of his reach... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd12.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/59-rob-delaney-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74261176",
+      "itunes_duration": "1:01:23",
+      "speakers": [
+        "Rob Delaney",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "delaney"
+      ]
+    },
+    {
+      "key": "3223fbde1693a266c9b65f5c5b4540db93bddb4c",
+      "title": "58 - Sarah Millican Returns (Live)",
+      "published_at": "2013-12-30T11:32:44+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/58-sarah-millican-returns-live",
+      "description": "Sarah Millican returns for a live sequel, in which we go into detail on how she copes with her ever-increasing fame, and being regarded as one of the \"100 most powerful women in Britain\". As well as discussing her views on feminism, and how she keeps challenging herself when playing to an audience who love her, she also explains how to stay grounded at Edinburgh, and why she feels \"ballsy.\" Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd19.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/58-sarah-millican-returns-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66045274",
+      "itunes_duration": "54:47",
+      "speakers": [
+        "Sarah Millican",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sarah",
+        "millican",
+        "returns"
+      ]
+    },
+    {
+      "key": "cb380482f48ff41117a431f80aa88f51db7680f1",
+      "title": "57 - Jason Manford (Live)",
+      "published_at": "2013-12-16T17:01:03+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/57-jason-manford-live",
+      "description": "Effortlessly charming observationalist Jason Manford is arguably comedy's Mr Accessibility. With a touring schedule designed to cover the entire country, we investigate the motives and consequences of his workaholic approach to the craft. As well as touching on the downsides of his fame, this candid interview explores Jason's struggle to challenge himself whilst giving his audience what they want. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd20.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/57-jason-manford-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44636649",
+      "itunes_duration": "1:01:34",
+      "speakers": [
+        "Jason Manford",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jason",
+        "manford"
+      ]
+    },
+    {
+      "key": "f04fdfedebe0dd1e2d918b27f2664e9e62efc0a2",
+      "title": "56 - Andrew Maxwell (Live)",
+      "published_at": "2013-12-11T15:18:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/56-andrew-maxwell-live",
+      "description": "Consistently better-informed than the motor-mouthed “funny fucker” he appears, Andrew Maxwell explains how he turns his opinions into comedy without the use of a writing desk. What he does instead might surprise you, as we cover the downsides of charm, the secret of his success at the Edinburgh Fringe, and a view on careerism that will have you playing back this episode after a tough gig. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd27.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/56-andrew-maxwell-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71118682",
+      "itunes_duration": "41:11",
+      "speakers": [
+        "Andrew Maxwell",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "andrew",
+        "maxwell"
+      ]
+    },
+    {
+      "key": "2a02a414303ab2736cc5bfdcb0c9fb75de8b4054",
+      "title": "55 - Milton Jones (Live)",
+      "published_at": "2013-11-27T18:45:15+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/55-milton-jones-live",
+      "description": "One of the best joke-smiths in the world, Milton Jones is a consistently funny powerhouse of verbal cartoons, wordplay and clowning. We explore his persona, his process, and the advantages of making something really bad rather than making it better. He also paints a picture of the community of one-liner specialists, describes his specific approach to “Mock The Week”, and explains how to get everyone's attention on sports day... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd2e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/55-milton-jones-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41765253",
+      "itunes_duration": "57:35",
+      "speakers": [
+        "Milton Jones",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "milton",
+        "jones"
+      ]
+    },
+    {
+      "key": "37727f8370d10851ea4f77b0dd54c08b036f385e",
+      "title": "54 - David Baddiel (Live)",
+      "published_at": "2013-11-12T13:43:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/54-david-baddiel-live",
+      "description": "From Wembley sell-out star to complex comic philosopher, David Baddiel returned to this year's Edinburgh Fringe with a stand-up lecture about fame. We discuss his rigorous self-analysis and how appealing he finds the transformative effective of walking onstage. We also delve into how David's obsession with the truth defines him, and was partly responsible for the end of one of his double-acts... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd35.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/54-david-baddiel-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43923177",
+      "itunes_duration": "1:00:35",
+      "speakers": [
+        "David Baddiel",
+        "Edinburgh Fringe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david",
+        "baddiel"
+      ]
+    },
+    {
+      "key": "e41871fcfb8ee3c0ca5d15e7d2b9793e5ce69d91",
+      "title": "53 - Al Murray (Live)",
+      "published_at": "2013-10-29T13:22:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/53-al-murray-live",
+      "description": "For nearly twenty years, Al Murray has been at the forefront of British character comedy. We talk about the genesis of the “Pub Landlord” and really dig into the methods behind the crowd-work at which he excels. Al provides some fascinating and unexpected insight on arena comedy, hecklers, and the state of criticism – and we also unpack in detail how he writes and structures a show. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd3c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/53-al-murray-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43655788",
+      "itunes_duration": "1:00:12",
+      "speakers": [
+        "Al Murray",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "murray"
+      ]
+    },
+    {
+      "key": "4c81b563413534758a7ea89abb3fe5c2466d7b9d",
+      "title": "52 - The Pajama Men (Live)",
+      "published_at": "2013-10-16T11:43:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/52-the-pajama-men-live",
+      "description": "Virtuoso sketch comedian, The Pajama Men combine rich characterisation and zinging one-liners, to the extent that one of their recent shows was the single best-reviewed work at an entire Edinburgh Fringe. They discuss their long-standing double-act dynamic, the pressures of touring, and also delve into how the audience becomes their “director”, offering a third voice to their creative process. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd43.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/52-the-pajama-men-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45920604",
+      "itunes_duration": "1:03:21",
+      "speakers": [
+        "Pajama Men",
+        "Edinburgh Fringe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "pajama"
+      ]
+    },
+    {
+      "key": "cd1abb9fd0ef36edd7a681babb2a6c0563b7667e",
+      "title": "51 - Phil Nichol (Live)",
+      "published_at": "2013-10-01T16:23:23+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/51-phil-nichol-live",
+      "description": "Although they are both of the highest quality, Phil Nichol keeps his two performance styles very separate. He gives us some very specific insight into the unusual dynamic between his constantly-evolving experimental work, and his tried-and-tested, roof-raising club set. Phil also speaks openly about anxiety, stage-fright, and the fear of somehow being “caught out”, even after years at the top of the circuit. Through it all though, he never stops chasing down the artistic epiphany. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd4a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/51-phil-nichol-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44030256",
+      "itunes_duration": "1:00:43",
+      "speakers": [
+        "Phil Nichol",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "phil",
+        "nichol"
+      ]
+    },
+    {
+      "key": "93f641a706cf84d3e204ce1540e1ed33ebf8ec62",
+      "title": "50 - Greg Proops (Live)",
+      "published_at": "2013-09-18T00:19:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/50-greg-proops-live",
+      "description": "The Smartest Man In The World speaks frankly about life, lyricism and the pursuit of laughter. We talks about the evolution of Greg's linguistic style, and how he borrows from authors to make it gooder... We discuss the thrill of improvisation, and the stream-of-consciousness style that allowed him to improvise an entire standup album on the night. All this and some fascinating behind-the-scenes details on Greg's podcast, and how it is further cultivating his audience - an unmissable episode! Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd51.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/50-greg-proops-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44689923",
+      "itunes_duration": "1:01:38",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "greg",
+        "proops"
+      ]
+    },
+    {
+      "key": "81893779cb1be46f7e6aaf78f55353f9b8d10e56",
+      "title": "49 - Hal Cruttenden (Live)",
+      "published_at": "2013-09-12T08:54:31+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/49-hal-cruttenden-live",
+      "description": "After years of superb work at the very top of the circuit, Hal Cruttenden is finally breaking through into the mainstream. We talk about how the best subjects are the ones that scare him, what risks are involved when sharing his flaws so honestly, and what's made him so angry he's walked off the stage. We also learn Hal's secrets of preparation for panel games, and discover how even the successful never feel safe... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd58.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/49-hal-cruttenden-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42460859",
+      "itunes_duration": "58:33",
+      "speakers": [
+        "Hal Cruttenden",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "cruttenden"
+      ]
+    },
+    {
+      "key": "22e2742eef9f2f75a68d22f1fa4ce3ab09cdecf3",
+      "title": "48 - Marcel Lucont and Alexis Dubus",
+      "published_at": "2013-09-01T21:27:43+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/48-marcel-lucont-and-alexis-dubus",
+      "description": "Raconteur, bon vivant and flanneur extraordinaire, the award-winning Marcel Lucont is inching his way up the comedy ladder. Alexis Dubus, Marcel's confidant, talks frankly about the differences between their styles and successes, and presents his template for a refreshingly angst-free comedy life... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd5f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/48-marcel-lucont-and-alexis-dubus/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42799716",
+      "itunes_duration": "59:01",
+      "speakers": [
+        "Alexis Dubus",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "marcel",
+        "lucont",
+        "alexis",
+        "dubus"
+      ]
+    },
+    {
+      "key": "c9ea8113c9227f5dda73a23b1f63972061eeea68",
+      "title": "47 - Brendon Burns (Live)",
+      "published_at": "2013-08-09T14:23:38+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/47-brendon-burns-live",
+      "description": "Edinburgh comedy award winner Brendon Burns speaks candidly about “the most self-absorbed art-form there is”, and savages what he sees as the covert bigotry and condescension in the UK. We also delve into the dynamic between the passionate truth-teller and the self-involved teenager that comprise his persona, and discuss whether you can find solutions to your problems by making shows... Recorded live at the Gilded Balloon at the 2013 Edinburgh Fringe. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd66.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/47-brendon-burns-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43477437",
+      "itunes_duration": "59:57",
+      "speakers": [
+        "Brendon Burns",
+        "Edinburgh Fringe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brendon",
+        "burns"
+      ]
+    },
+    {
+      "key": "3ad915c8fcd362aaf1d4d6f9f1fc0651ff4704c0",
+      "title": "46A - Richard Herring (2 of 2)",
+      "published_at": "2013-07-17T22:43:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/46a-richard-herring-2-of-2",
+      "description": "Part two of the interview sees Richard talking about his standup. He explores his status and persona onstage, admits which subjects he finds difficult to include in his act, and reflects on his frustration at being labelled derivative of his ex-double act partner. We also discuss the future of comedy in Britain and Richard's optimism in the face of a changing landscape. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd6d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/46a-richard-herring-2-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41515753",
+      "itunes_duration": "57:14",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "richard",
+        "herring"
+      ]
+    },
+    {
+      "key": "f5d144d8300e9c743309f877e1426040651425ea",
+      "title": "46 - Richard Herring (1 of 2)",
+      "published_at": "2013-07-10T00:43:03+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/46-richard-herring-1-of-2",
+      "description": "Richard Herring is a prolific comedian, blogger and podcaster, comprehensively mining his every experience for comic potential. As well as exploring the unique resource of his daily blog, his online strategy and some of his maddeningly self-indulgent impulses, we also discuss his success, and whether it will ever live up to his aspirations... Part two follows in the next episode of this podcast. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd74.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/46-richard-herring-1-of-2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55447114",
+      "itunes_duration": "1:17:00",
+      "speakers": [
+        "Richard Herring",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "richard",
+        "herring"
+      ]
+    },
+    {
+      "key": "21820ffa7514dc5dc00b203ad85e704fdb8accc5",
+      "title": "45 - Jarlath Regan",
+      "published_at": "2013-06-24T09:04:41+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/45-jarlath-regan",
+      "description": "How do you make comedy out of stuff that hurts? The low-falutin' Jarlath Regan opens up about the near-tragic event he turned into a show, and why he had to leave his own country to pursue comedy. We also explore the pros of flyering your festival show yourself; posing as your own agent; and what Jarlath will say to Louis CK's face if he ever meets him... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd7b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/45-jarlath-regan/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52447366",
+      "itunes_duration": "1:12:25",
+      "speakers": [
+        "Jarlath Regan How",
+        "Jarlath Regan",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jarlath",
+        "regan"
+      ]
+    },
+    {
+      "key": "8d809fe5b3234fc40e0f558a85ebe2d4bb662d74",
+      "title": "44 - Milo McCabe",
+      "published_at": "2013-06-11T23:59:03+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/44-milo-mccabe",
+      "description": "Milo McCabe is a superb character act with an unusual origin. We discuss growing up in the shadow of a comedian father, and the use of NLP and other psychological techniques to cope with the demands of life on stage. We also delve into his experience of Phil Burgers' infamous clown workshops, and how Milo is putting some of that learning into practice. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd82.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/44-milo-mccabe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57280112",
+      "itunes_duration": "1:19:08",
+      "speakers": [
+        "Phil Burgers",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "milo",
+        "mccabe"
+      ]
+    },
+    {
+      "key": "4e65c65a006823c769ecbdaac4b5a1784f22c8c0",
+      "title": "43 - Benny Boot (Live)",
+      "published_at": "2013-06-05T09:42:26+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/43-benny-boot-live",
+      "description": "It's the second Live special, and London-based Australian gagsmith Benny Boot lets us in on his effervescent cartoon-like imagination. We talk about the unusual techniques he employs to create a writing environment, why the true stories of his checkered past don't fly, and how long he can keep an owl impression going... *** This episode suffers from audio issues which do not represent the usual quality of the podcast *** Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd89.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/43-benny-boot-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50022037",
+      "itunes_duration": "1:09:03",
+      "speakers": [
+        "Benny Boot",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "benny",
+        "boot"
+      ]
+    },
+    {
+      "key": "3d80895b1cd1e640cbdbf6b55d709a31713a73a9",
+      "title": "41 - Tom Gleeson",
+      "published_at": "2013-05-22T08:39:37+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/41-tom-gleeson",
+      "description": "A study in confidence, Australian Tom Gleeson trades in lean, punchy material that batters an audience into submission. We discuss how \"comedy's Lex Luthor\" changed from being a competent but boring standup, into a forceful presence with absolute faith in his comic perspective. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd97.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/41-tom-gleeson/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58349992",
+      "itunes_duration": "1:20:37",
+      "speakers": [
+        "Tom Gleeson",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "gleeson"
+      ]
+    },
+    {
+      "key": "5041cf9d149fb88ebff9b804fb66184068f58e4c",
+      "title": "40 - Alasdair Tremblay-Birchall",
+      "published_at": "2013-05-14T13:25:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/40-alasdair-tremblay-birchall",
+      "description": "Talented, dedicated and analytical, Melbourne-based Alasdair Tremblay-Birchall is part of a new generation of comics. We discuss the acquisition of stage-time in a town with relatively few gigging opportunities, and geek out over the “mathematics” of joke-writing. Alasdair also reveals the ten thousand dollar motivational gamble that got his head in the game... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bd9e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/40-alasdair-tremblay-birchall/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50254200",
+      "itunes_duration": "1:09:22",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alasdair",
+        "tremblay",
+        "birchall"
+      ]
+    },
+    {
+      "key": "20bc91b63ca00c08631f52167ba2db53e8d61503",
+      "title": "39 - Felicity Ward",
+      "published_at": "2013-05-08T02:42:43+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/39-felicity-ward",
+      "description": "Felicity Ward hilariously combines expert physical characterisation with heartfelt storytelling. Speaking just after the recording of her first DVD in Melbourne, she describes her creative process, her experiences in pilot season in L.A., and her strategies for coping with the self-criticism that can make her want to run from the stage. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bda5.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/39-felicity-ward/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57511775",
+      "itunes_duration": "1:19:27",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "felicity",
+        "ward"
+      ]
+    },
+    {
+      "key": "e24d31fda23beb231412a52c7877d5beafca3b1a",
+      "title": "38 - Tom Allen",
+      "published_at": "2013-05-01T03:37:10+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/38-tom-allen",
+      "description": "The quintessential comic raconteur, Tom Allen's work sizzles with wit, candour and warmth. We discuss his rhythm, musicality and sociable methods of generating material, as well as investigating the self-criticism and loneliness with which he sometimes struggles. This delightful man also makes a convincing case for recognising comedians as \"artists who are entitled to support\"... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdac.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/38-tom-allen/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52839509",
+      "itunes_duration": "1:12:58",
+      "speakers": [
+        "Tom Allen",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "allen"
+      ]
+    },
+    {
+      "key": "147b99824f19f57f29a4c184febd0ddec417563c",
+      "title": "37 - Geraldine Hickey",
+      "published_at": "2013-04-24T03:35:01+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/37-geraldine-hickey",
+      "description": "With an unselfconscious charm and a superb skill for finding the funny in true stories, Geraldine Hickey is a delightful comedian to spend an hour with. We talk about her recently-discovered sexuality and the perspective it gives her on previous work. We also explore the Melbourne comedy scene, “running one's own race”, and the benefits of combining a comedy career with an enjoyable second job. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdb3.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/37-geraldine-hickey/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43958912",
+      "itunes_duration": "1:00:37",
+      "speakers": [
+        "Geraldine Hickey",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "geraldine",
+        "hickey"
+      ]
+    },
+    {
+      "key": "e7ae66f9fc06a567ac4b022c7e9686002e4d59b2",
+      "title": "36 - David Quirk",
+      "published_at": "2013-04-16T03:23:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/36-david-quirk",
+      "description": "Known for his hyper-personal material about death, infidelity and suicide, David Quirk is happy to be an outsider, to the comedy community as well as his audience. We discuss the tropes of contemporary standup and David's decision to move away from them; the need to watch other people's shows or not; and what it feels like to release oneself from the compulsion to be funny. We also touch on negative-sounding noises that mean people hate you. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdba.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/36-david-quirk/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42389696",
+      "itunes_duration": "58:27",
+      "speakers": [
+        "David Quirk",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "david",
+        "quirk"
+      ]
+    },
+    {
+      "key": "bd3200b576e6a80fb4105de6c70cd1e44339ecf1",
+      "title": "35 - Asher Treleaven",
+      "published_at": "2013-04-10T08:22:07+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/35-asher-treleaven",
+      "description": "Rubber-legged comedy mantis Asher Treleaven has been nominated for the most prestigious awards in the UK and Australia. He talks here about his transition from art-house darling to club-fit road act, and the changes in his strategy towards festivals. As well as exploring the development of his persona, he's also admirably frank in describing his concerns about a dwindling audience, something he faces despite his critical acclaim... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdc1.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/35-asher-treleaven/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47454114",
+      "itunes_duration": "1:05:29",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "asher",
+        "treleaven"
+      ]
+    },
+    {
+      "key": "89fc021e893ac58431706fee78b217056e9274c4",
+      "title": "34 - Clarke MacFarlane",
+      "published_at": "2013-04-02T05:59:07+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/34-clarke-macfarlane",
+      "description": "Variety superstar Clarke MacFarlane blends elements of stand-up, clowning and skills to create the show-stopping, crowd-surfing \"Mario, Queen of the Circus\". Touring with La Clique and La Soiree has allowed him to hone his act to perfection over years, but he still \"pays his dues\" with regular streetshows. We discuss his work rate and workaholism, his respect for standups, and his bizarre pre-performance habits, not to mention the dark voices that plague even a top level act such as himself. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdc8.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/34-clarke-macfarlane/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53588692",
+      "itunes_duration": "1:14:00",
+      "speakers": [
+        "Clarke MacFarlane",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "clarke",
+        "macfarlane"
+      ]
+    },
+    {
+      "key": "7073734541a73d0cacf4be824a64f4bd8ba9747c",
+      "title": "33 - Lindsay Webb",
+      "published_at": "2013-03-27T07:22:56+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/33-lindsay-webb",
+      "description": "Lindsay Webb is comedy's Mr Queensland. A hard-working positive-thinker, he once held a Guinness World Record for the longest stand-up show, and manages to make waves in the industry without a consistent TV profile. We also get an overview of the Australian comedy industry, and Lindsay opens up about his dismissal from national radio. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdcf.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/33-lindsay-webb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42272037",
+      "itunes_duration": "58:27",
+      "speakers": [
+        "Lindsay Webb",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lindsay",
+        "webb"
+      ]
+    },
+    {
+      "key": "72df7d21aff6743c838711a6601a2033b717383b",
+      "title": "32 - Carl Donnelly",
+      "published_at": "2013-03-12T13:29:41+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/32-carl-donnelly",
+      "description": "Suede-hooved waffler Carl Donnelly makes comic storytelling look easy. His turn of phrase and relaxed narrative style has influenced a wave of newer acts, but his eye for a genuinely funny idea sets him apart from his emulators. We discuss the importance of the truth in his work, and he also bangs on about theta-waves. Christ knows. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdd6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/32-carl-donnelly/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55176307",
+      "itunes_duration": "1:16:30",
+      "speakers": [
+        "Carl Donnelly",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "carl",
+        "donnelly"
+      ]
+    },
+    {
+      "key": "9a9273c462a2f1bf34c774e33098fe2f13970f40",
+      "title": "31 - Heath \"Chopper\" Franklin",
+      "published_at": "2013-03-05T12:33:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/31-heath-chopper-franklin",
+      "description": "Heath Franklin performs stand-up as his alter-ego “Chopper”, a caricature of Australia's infamous career criminal and self-promoter. We explore the careful path Heath treads to avoid encouraging fans of the real thing, and instead make the character a victim of his own rage. We also uncover the challenges faced by a talented comic phasing out a successful character, in the search for richer pickings from his own identity... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bddd.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/31-heath-chopper-franklin/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43930125",
+      "itunes_duration": "1:00:45",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "heath",
+        "chopper",
+        "franklin"
+      ]
+    },
+    {
+      "key": "e4cd5c78e62ca43f32adefb849cb82a91e8fb724",
+      "title": "30 - Jim Jefferies (Live)",
+      "published_at": "2013-02-28T01:21:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/30-jim-jefferies-live",
+      "description": "The only man who can say “cunt” in America, Jim Jefferies uses his brutal comic instinct to tell somehow heart-warming stories. He discusses here the self-deprecation that makes dirty comedy acceptable, the importance of identifying the correct victim, and the formula that underpins his live shows. We also talk about the one subject he won't make jokes about, and his fondness for Sondheim. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bde4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/30-jim-jefferies-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39632449",
+      "itunes_duration": "54:47",
+      "speakers": [
+        "Jim Jefferies",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "jefferies"
+      ]
+    },
+    {
+      "key": "30d175fce46501114b8c8dfae6d730900c82b830",
+      "title": "29 - Rhod Gilbert (Live)",
+      "published_at": "2013-02-21T06:25:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/29-rhod-gilbert-live",
+      "description": "How close is Rhod Gilbert's furious persona to his real self? In this revealing interview, the workaholic wizard discusses truth and fiction, lonely walks on Welsh cliff paths, and going a bit mental on callbacks. We also explore the therapeutic value of making comedy; but is Rhod really ready to sign himself out of the asylum? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdeb.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/29-rhod-gilbert-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44839976",
+      "itunes_duration": "1:02:01",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rhod",
+        "gilbert"
+      ]
+    },
+    {
+      "key": "4c4a9f38141ba5935968cf4fe204c21663587771",
+      "title": "28 - James Acaster (Live)",
+      "published_at": "2013-02-12T14:07:20+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/28-james-acaster-live",
+      "description": "He might look like he's just won a Duke of Edinburgh Award, but he's got a mean streak a mile wide... In this special episode recorded live after a 30min performance, thrillingly talented “Slim Jimmy” Acaster reveals the difference between his real self and his onstage persona. We discuss sensitivity to the direction in which one's audience want to be taken, and also explore how James overcame the need for truth in his material, by hiding under a bush in a dress. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdf2.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/28-james-acaster-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58910058",
+      "itunes_duration": "1:21:33",
+      "speakers": [
+        "James Acaster",
+        "Edinburgh Award",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "james",
+        "acaster"
+      ]
+    },
+    {
+      "key": "7dabc68bb08a86ecf685d3fd1dc7b33917d0bf5d",
+      "title": "27 - Rob Rouse",
+      "published_at": "2013-02-05T15:35:48+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/27-rob-rouse",
+      "description": "One of the nicest men in comedy, with an effervescent wit and fantastic jokes, Rob Rouse is also better placed than most to observe the ups and downs of a career in TV. He talks here candidly about the effect his changing fortunes have had on his outlook, and how his family life has helped him grow as a comic as well as a man. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bdf9.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/27-rob-rouse/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53204448",
+      "itunes_duration": "1:13:48",
+      "speakers": [
+        "Rob Rouse",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rouse"
+      ]
+    },
+    {
+      "key": "39f78a5b72aea8e19a8b1705560d2d202f922be7",
+      "title": "26 - Stephen Grant",
+      "published_at": "2013-01-29T12:57:42+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/26-stephen-grant",
+      "description": "Stephen Grant is one of the hardest-working comedians in Britain, with an unshakeable belief in the meritocracy of comedy. We go into depth on how we writes for himself and with other higher-profile comics including Seann Walsh and Russell Kane. He also shares with us some very perceptive analysis of the comedy circuit and proves mathematically that one can never run out of funny. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be00.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/26-stephen-grant/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47619063",
+      "itunes_duration": "1:05:48",
+      "speakers": [
+        "Stephen Grant",
+        "Seann Walsh",
+        "Russell Kane",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stephen",
+        "grant"
+      ]
+    },
+    {
+      "key": "6fbe7bc845aab8d50d06a4b600cef0413e15a1e3",
+      "title": "25a - All Day Edinburgh (Live)",
+      "published_at": "2013-01-22T13:00:45+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/25a-all-day-edinburgh-live",
+      "description": "Stu's on holiday! But you can still experience the brief but fascinating interview Stu held with comedian Michael Legge at Michael's \"All Day Edinburgh\" gala show. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be07.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/25a-all-day-edinburgh-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2290457",
+      "itunes_duration": "2:55",
+      "speakers": [
+        "Michael Legge",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "edinburgh"
+      ]
+    },
+    {
+      "key": "1efae04c9e27451791845b319cca0beee55a4d36",
+      "title": "25 - Terry Alderton (Live)",
+      "published_at": "2013-01-16T11:35:50+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/25-terry-alderton-live",
+      "description": "Terry Alderton is an electrifying comic, with extraordinary energy, passion and invention; he's also one of the bravest performers I know. In spite of his hugely loved and respected work however, he still has feelings of being an outsider to the comedy circuit. He talks here with remarkable candour about his doubts, the review that reduced him to tears and the book that changed his life. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be0c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/25-terry-alderton-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47015296",
+      "itunes_duration": "1:05:02",
+      "speakers": [
+        "Terry Alderton",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "terry",
+        "alderton"
+      ]
+    },
+    {
+      "key": "a7ec070a6031d12199a13ef31e498e9ea82605c3",
+      "title": "24 - Pappys (Live)",
+      "published_at": "2013-01-09T11:30:08+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/23-pappys-live",
+      "description": "Big-hearted gangshow “Pappy's” are the sweatiest, loveliest bunch of dickheads you could ever hope to see pretending to be in their twenties on BBC3. In this live show they discuss writing in a threesome, taking one for the team, and what makes critics “jizz themselves”. We also discover the painful truth about how they went from a four to a three, and learn how hard it is to write award-winning sketch comedy when you don't know any of the hotkeys. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be13.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/23-pappys-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45250423",
+      "itunes_duration": "1:02:45",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "pappys"
+      ]
+    },
+    {
+      "key": "1c66708dd4555b4341df41ed6ea68a5c300e0d48",
+      "title": "23 - Dr Brown (Phil Burgers)",
+      "published_at": "2012-12-18T12:15:04+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/23-dr-brown-phil-burgers",
+      "description": "Are stand-up comedians simply repressed clowns? That's the question posed by Phil Burgers, iconoclastic creator of the deliriously funny “Dr Brown”. He passionately explores the the importance of receiving an audience not transmitting to them, searching for the pleasure in being an idiot, and why “need” kills comedy. He also explains how he has created work by improvising a completely new show, every night of a festival. This podcast could change your performing life. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be1a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/23-dr-brown-phil-burgers/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50207937",
+      "itunes_duration": "1:09:38",
+      "speakers": [
+        "Phil Burgers",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brown",
+        "phil",
+        "burgers"
+      ]
+    },
+    {
+      "key": "575f8592186c27d632af7aa64f19e208928b974e",
+      "title": "22 - Abandoman (Live)",
+      "published_at": "2012-12-11T15:56:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/22-abandoman-live",
+      "description": "Rapper and comedian Rob Broderick AKA Abandoman is a force of nature, whose invincible positivity is matched only by his breathtaking performance skill. He talks in depth about his origins in rap and comedy, and how he combines the two today. We also cover why \"Hulk hands\" can be a substitute for jokes, and what happens when two nice men attempt to battle-rap... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be21.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/22-abandoman-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45999611",
+      "itunes_duration": "1:03:48",
+      "speakers": [
+        "Rob Broderick",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "abandoman"
+      ]
+    },
+    {
+      "key": "9ced2ffca7672a7e313722a222a847258bfb8496",
+      "title": "21 - Mike Gunn",
+      "published_at": "2012-12-04T14:50:33+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/21-mike-gunn",
+      "description": "Mike Gunn survived a serious drug addiction to become a circuit favourite, loved for the warmth in his dark humour, and for his exceptional joke-writing. As well as including some excellent practical suggestions for playing important clubs and surviving corporate work, he also talks in depth about his creative process, and his unique journey from weeping photocopier-repairman to thriving TV comic. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be28.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/21-mike-gunn/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51616983",
+      "itunes_duration": "1:11:36",
+      "speakers": [
+        "Mike Gunn Mike Gunn",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mike",
+        "gunn"
+      ]
+    },
+    {
+      "key": "848309755b40f13a4b1e1dedaac01d086d4be137",
+      "title": "20 - Eddie Pepitone (Live)",
+      "published_at": "2012-11-28T17:03:22+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/20-eddie-pepitone-live",
+      "description": "If you missed Eddie Pepitone in his first UK appearances at this year's Edinburgh Fringe, you're a chump. A truly mesmerising comic's comic, and subject of documentary “The Bitter Buddha”, he unearths howling cosmic pain in the most mundane of places. In this live show, Eddie discusses how improvisation allows him to write “with” his audience. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be2f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/20-eddie-pepitone-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48157226",
+      "itunes_duration": "1:06:48",
+      "speakers": [
+        "Eddie Pepitone",
+        "Edinburgh Fringe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "eddie",
+        "pepitone"
+      ]
+    },
+    {
+      "key": "6e5e121299463adaa5365a9ddaed6a95f4826891",
+      "title": "19 - Hannibal Buress (Live)",
+      "published_at": "2012-11-20T13:37:57+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/19-hannibal-buress-live",
+      "description": "Hannibal Buress was described by Chris Rock as “the funniest young comic i've seen in years”. In this Edinburgh Fringe show he talks to us about working on Saturday Night Live and 30Rock, and goes into detail on his own process, performance, and why he won't give up on the “penguin meat” bit... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be36.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/19-hannibal-buress-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40346510",
+      "itunes_duration": "55:57",
+      "speakers": [
+        "Chris Rock",
+        "Edinburgh Fringe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "hannibal",
+        "buress"
+      ]
+    },
+    {
+      "key": "387517866ee431419d620596d1ea7577e8539ada",
+      "title": "18 - The Boy With Tape On His Face (Live)",
+      "published_at": "2012-11-13T11:49:36+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/18-the-boy-with-tape-on-his-face-live",
+      "description": "Multi award-winning \"The Boy With Tape On His Face\" is the silent comedy creation of Sam Wills. Sam talks us in detail through his journey from \"performing monkey\" to audience manipulator extraordinaire, reveals his creative process, and explains his frustration with Mr Bean...Musical, New Zealand, Comedy Music, Street-Performing, Sam Wills, Physical Comedy, Tim Burton, The Royal Variety Performance, Circus, Clown, Jarred Christmas, Silent Comedy, Mr Bean Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be3d.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/18-the-boy-with-tape-on-his-face-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42397221",
+      "itunes_duration": "58:48",
+      "speakers": [
+        "Sam Wills",
+        "Physical Comedy",
+        "Tim Burton",
+        "Silent Comedy",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "tape",
+        "face"
+      ]
+    },
+    {
+      "key": "b9558cb7c8c916bdb6adb58c3d562e125c1a990b",
+      "title": "17 - Mark Maier",
+      "published_at": "2012-11-06T13:09:29+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/17-mark-maier",
+      "description": "Mark has 25 years' experience of tickling ribs and strangers, in the US and the UK. He discusses writing in a workshop format, and the relationship between script and improvisation. He also seems to be one of the happiest guests the show has ever had... Can Stu convince him that he's actually bitter and unsuccessful? Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be44.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/17-mark-maier/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51706007",
+      "itunes_duration": "1:11:43",
+      "speakers": [
+        "Mark Maier",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "mark",
+        "maier"
+      ]
+    },
+    {
+      "key": "9838f1d9b41864617cff2639c64a5eb614437c07",
+      "title": "16 - Alan Davies (Live)",
+      "published_at": "2012-10-30T13:27:09+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/16-alan-davies-live",
+      "description": "Alan Davies is best known in the UK as a panellist on QI and as the star of Jonathan Creek, but he's recently returned to his roots as a superb observational stand up. In this live show from the Gilded Balloon, he describes in detail his process for turning notes into jokes, and how he goes about structuring a tour show. He also reads from some of his old comedy notebooks, and explores why theatre people have it easy... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be4b.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/16-alan-davies-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43128241",
+      "itunes_duration": "59:48",
+      "speakers": [
+        "Alan Davies",
+        "Jonathan Creek",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alan",
+        "davies"
+      ]
+    },
+    {
+      "key": "83ebeec1c0a05a8fcffeb29cda42f0a4c3d98bf8",
+      "title": "15 - Josh Widdicombe",
+      "published_at": "2012-10-22T22:10:46+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/15-josh-widdicombe",
+      "description": "Josh Widdicombe is a rising star on the UK circuit, with a host of competition wins and nominations to his name. He's also a champion of pure observational comedy, and here articulates in fascinating depth the process by which he creates and structures his material. But is his main drive really “fear and negativity”? Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be52.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/15-josh-widdicombe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46356032",
+      "itunes_duration": "1:04:17",
+      "speakers": [
+        "Josh Widdicombe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe"
+      ]
+    },
+    {
+      "key": "1e0f110ef49ae892ddf908b63460e629d1270df7",
+      "title": "14 - Celia Pacquola",
+      "published_at": "2012-10-16T20:59:11+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/14-celia-pacquola",
+      "description": "Failed waitress Celia Pacquola likes to imagine dying in the arms of people she's only just met. A gifted storyteller with an effervescent charm, she discusses how to mine different perspectives on a story, how far back to pull the arrow, and the joy of being underestimated... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be59.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/14-celia-pacquola/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51242558",
+      "itunes_duration": "1:11:05",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "celia",
+        "pacquola"
+      ]
+    },
+    {
+      "key": "5a1cba584f6485667902653cd60778326ace7111",
+      "title": "13 - Fred Macaulay (Live)",
+      "published_at": "2012-10-10T17:23:41+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/13-fred-macaulay-live",
+      "description": "Twinkling anecdotalist Fred was the first Scot to MC the Comedy Store, and now presents his own show on BBC Radio Scotland, as well as touring his stand-up. He explains his preference for finding the funny in a live context instead of at a laptop, and reflects on when \"funny isn't good enough\". NB - This episode has a sound recording problem which doesn't reflect the quality of usual episodes. Apologies to Fred, and to you the listener. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be60.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/13-fred-macaulay-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40471267",
+      "itunes_duration": "56:07",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "fred",
+        "macaulay"
+      ]
+    },
+    {
+      "key": "7e0b202b985104e52ef19f1bc97986857ddea333",
+      "title": "12 - Noel Britten",
+      "published_at": "2012-10-03T09:18:48+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/12-noel-britten",
+      "description": "Noel is retiring from comedy, after more than 15 years as a highly sought-after one-liner and prop comic. Straddling the worlds of stand-up, magic and street-performing, he offers a unique perspective on the lost art of honing the same act over an entire career, as well as some fascinating theories on fame, happiness and finding one's niche. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be67.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/12-noel-britten/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52027177",
+      "itunes_duration": "1:12:10",
+      "speakers": [
+        "Noel Britten Noel",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "noel",
+        "britten"
+      ]
+    },
+    {
+      "key": "7afe891a8ab21bf4b8185ac02f28f4ce8f2423b4",
+      "title": "11 - Sara Pascoe (Live)",
+      "published_at": "2012-09-19T23:57:06+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/11-sara-pascoe-live",
+      "description": "In this show, recorded live at the Gilded Balloon during the Edinburgh Fringe, pioneering comedian Sara Pascoe talks at length about her writing methods and quite unique career goals. Resourceful, articulate and extremely funny, she explores how her entire life turned out to be an unknowing training-camp for stand-up, also sharing the contents of her notebook, and how she might unpack some of her new ideas... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be6e.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/11-sara-pascoe-live/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45250138",
+      "itunes_duration": "1:02:45",
+      "speakers": [
+        "Sara Pascoe",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sara",
+        "pascoe"
+      ]
+    },
+    {
+      "key": "f5d893300c55fa96b3973e75db1ac9c8050190a1",
+      "title": "10 - Liam Mullone",
+      "published_at": "2012-07-31T12:33:52+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/10-liam-mullone",
+      "description": "Liam would rather be accused of fascism than being boring. Leaving behind the \"intellectualised whimsy\" of his former persona, he has embarked on a quest to say the unsayable. Find out why Tim Minchin makes him angry, and the precise circumstances under which one might shoot a child in the legs. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be75.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/10-liam-mullone/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54862319",
+      "itunes_duration": "1:16:06",
+      "speakers": [
+        "Tim Minchin",
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "liam",
+        "mullone"
+      ]
+    },
+    {
+      "key": "891a4e2cedff4405e85bab5d29ac48177880098d",
+      "title": "9 - Alun Cochrane",
+      "published_at": "2012-07-24T12:28:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/9-alun-cochrane",
+      "description": "Alun's comedy displays a unique mastery of subtlety and texture. He talks us stage by stage through the creation of one of his most recognisable routines, and articulates the power of the stand-up monologue as a means of processing life. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be7c.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/9-alun-cochrane/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48728221",
+      "itunes_duration": "1:07:35",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "alun",
+        "cochrane"
+      ]
+    },
+    {
+      "key": "c6496995c811d5276f4fac9aef58289460e99e05",
+      "title": "8 - Arthur Smith",
+      "published_at": "2012-07-03T11:59:58+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/8-arthur-smith",
+      "description": "Arthur is an almost shamanic figure on the UK comedy scene; a warrior-poet who combines a love of language with a healthy disregard for some of society's formalities. He talks here about learning to write without fear, and the need to \"kill the cliche\". Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Get tickets for Stu Goldsmith's stand-up tour at www.comedianscomedian.com/tour @comcompod | www.comedianscomedian.com And don't forget to join the Comcom Facebook group, which you can do here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be83.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/8-arthur-smith/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40239300",
+      "itunes_duration": "55:48",
+      "speakers": [
+        "Stu Goldsmith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "arthur",
+        "smith"
+      ]
+    },
+    {
+      "key": "eea84cab4cad460170df96210e605ac6b8259067",
+      "title": "7 - Sarah Millican",
+      "published_at": "2012-06-19T12:31:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/7-sarah-millican",
+      "description": "Sarah Millican is relentless and wonderful. A household name in the UK for her stand-up comedy, she is also a massive comedy nerd and has a lot to say about her favourite subject. As well as going into detail on her writing process, she discusses some of the unique challenges faced by a high-profile act, including playing large rooms and preparing for panel shows. She also has plenty of tips for newer acts on how to escape the day-job and turn pro. Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be8a.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/7-sarah-millican/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51456490",
+      "itunes_duration": "1:11:22",
+      "speakers": [
+        "Sarah Millican",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sarah",
+        "millican"
+      ]
+    },
+    {
+      "key": "77e03d5fc4690804e2ff5dc35be01c3666c70415",
+      "title": "6 - Adam Bloom",
+      "published_at": "2012-06-05T15:30:53+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/6-adam-bloom",
+      "description": "Adam Bloom understands jokes in a way most of us can only dream of. From his first gig, \"when the white noise stopped\", to his current position as a comedian and freelance fixer of other people's gags, he lets us in on his unique perspective... Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be91.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/6-adam-bloom/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49138067",
+      "itunes_duration": "1:08:09",
+      "speakers": [
+        "Adam Bloom Adam Bloom",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "adam",
+        "bloom"
+      ]
+    },
+    {
+      "key": "216101273a36b0d253fd456d13f12be18acd0327",
+      "title": "5 - Paul Sinha",
+      "published_at": "2012-05-23T16:48:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/5-paul-sinha",
+      "description": "Paul is that rare thing - a comic who can make the political personal and vice versa. He lets us into his well-ordered but intriguing view of comedy and the world, from the comfort of his Mazda...The Now Show, Marcus Brigstocke, Steve Hughes, Hal Cruttenden, Ian Stone, Alastair Barrie, The BNP, Jim Davidson, David Cameron, Cutting Edge, The Comedy Store, Daniel Kitson, Dan Nightingale, Toby Jones, XS Malarkey, Pete Waterman, The Chase, Tim Vine, Mickey Flanagan, Milton Jones, Gina Yashere, Ed Byrne, Simon Pegg, Banana Cabaret, Ha Bloody Ha Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be98.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/5-paul-sinha/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53489345",
+      "itunes_duration": "1:14:12",
+      "speakers": [
+        "Marcus Brigstocke",
+        "Steve Hughes",
+        "Hal Cruttenden",
+        "Ian Stone",
+        "Alastair Barrie",
+        "Jim Davidson",
+        "David Cameron",
+        "Cutting Edge",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "sinha"
+      ]
+    },
+    {
+      "key": "cede65b1bc586feb4dc145bd31d7b7a9a0183ac0",
+      "title": "4 - Ben Norris",
+      "published_at": "2012-05-09T12:03:40+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/4-ben-norris",
+      "description": "Already an experienced headliner, Ben is on a continuing quest to unleash the improvisational demon within. But can he run naked into battle without the temptation to put his pants back on? Also discussed: why comedians are such terrible human beings.Trapdoor Comedy Club, West End Centre, Aldershot, The Cartoon, The Plough, Clapham Jongleurs, Late N Live, Noel James, Ivor Dembina, Patrick Marber, The BAR, Willesden, Paul Tonkinson, Rudi Lickwood, Victoria Coren, The Comedy Store, Setlist, Matt Kirshen, Paul Provenza, Glastonbury, Ed Byrne, Dara O'Briain, Andrew Maxwell, Glenn Wool, Edinburgh PBH Free Fringe, Barnstormers, The Gulbenkian, Canterbury, Tony Hancock Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3be9f.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/4-ben-norris/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42682479",
+      "itunes_duration": "59:11",
+      "speakers": [
+        "Clapham Jongleurs",
+        "Noel James",
+        "Ivor Dembina",
+        "Patrick Marber",
+        "Paul Tonkinson",
+        "Rudi Lickwood",
+        "Victoria Coren",
+        "Comedy Store",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "norris"
+      ]
+    },
+    {
+      "key": "cc06f8627b3b6fd5a4fa09a92e35c3ab0051184f",
+      "title": "3 - Dan Antopolski",
+      "published_at": "2012-04-25T15:25:49+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/3-dan-antopolski",
+      "description": "It's Episode 3, and Stu interviews Dan Antopolski in his writing-cellar. Dan explores how to wrong-foot an audience's assumptions, and argues comedy is an art not simply a craft.Edinburgh Fringe Festival, Purple Turtle, Jigsaw, The Dinks, Lenny Henry, Ben Elton, Harry Enfield, Friday Night Live, Saturday Night Live, Fry and Laurie, We Are Klang, Rich Hall, Stewart Lee, Harry Hill, Eddie Izzard, Sean Lock, Simon Munnery, David “Kid” Jensen, Tom Craine, Nat Luurtsema, Craig Campbell, Tony Law, The Mighty Boosh, Tom Basden, Rob Deering, The Comedy Store Players, Alexei Sayle, Micky Flanagan, Mark Watson, Ross Noble, Louis CK, Christopher Hitchens Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bea6.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/3-dan-antopolski/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46017153",
+      "itunes_duration": "1:03:49",
+      "speakers": [
+        "Dan Antopolski",
+        "Purple Turtle",
+        "Lenny Henry",
+        "Ben Elton",
+        "Harry Enfield",
+        "Rich Hall",
+        "Stewart Lee",
+        "Harry Hill",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "antopolski"
+      ]
+    },
+    {
+      "key": "43516967d67a746412137ce3b4f5cb40c65a92d3",
+      "title": "2 - Dan Evans",
+      "published_at": "2012-04-11T12:00:25+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/2-dan-evans",
+      "description": "Live once more at the Top Secret Comedy Club, Stuart interviews unsung king of the one-liner, Dan Evans. Dan confesses to sometimes regarding his fellow humans as insects.Political, Monty Python, Edinburgh, One Liners, Radio, Jo Caulfield, Writing On Stage, Dan Evans, Friday Night Live, George Egg, Comedy Cafe, Bill Bailey, Richard Curtis, Stage Persona Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3bead.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/2-dan-evans/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40239718",
+      "itunes_duration": "55:48",
+      "speakers": [
+        "Dan Evans",
+        "Jo Caulfield",
+        "George Egg",
+        "Comedy Cafe",
+        "Bill Bailey",
+        "Richard Curtis",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "evans"
+      ]
+    },
+    {
+      "key": "648bb516a2eda1325603959e6916537a37f680fc",
+      "title": "1 - Rob Deering",
+      "published_at": "2012-03-19T23:33:47+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/1-rob-deering",
+      "description": "In this opening show, Stuart Goldsmith grills fabulous comedian Rob Deering, live at the Top Secret Comedy Club, Covent Garden. Rob admits he drinks with strangers... www.robdeering.com | @DeeringRob Get ad-free new episodes, bonus content from interviews and much more by joining the Insiders Club at www.comedianscomedian.com/insiders www.comedianscomedian.com | @ComComPod Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/611ee404fbda3b0013c3beb4.jpg",
+      "enclosure_url": "https://sphinx.acast.com/thecomedianscomedianpodcast/1-rob-deering/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53950466",
+      "itunes_duration": "56:01",
+      "speakers": [
+        "Stuart Goldsmith",
+        "Rob Deering"
+      ],
+      "topics": [
+        "deering"
       ]
     }
   ]
@@ -4306,203 +12410,554 @@
 
 ## Episodes (newest first)
 
-- 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Nina Conti, Kim Noble, Mailing List, Shenoah Allen
-- 2026-02-05 — Sophie Duker — speakers: Sophie Duker, Best Newcomer, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List
-- 2026-01-29 — Reggie Watts — speakers: Reggie Watts, James Corden, Comedy Bang, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List
-- 2026-01-16 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Mailing List
-- 2026-01-05 — Were Comedians Happy In 2025: Vol 3 — speakers: Russell Howard, Mark Simmons, Aparna Nancherla, Nick Mohammed, Kemah Bob
-- 2025-12-29 — Were Comedians Happy In 2025: Vol 2 — speakers: Max Fosh, Lucy Pearman, Pete Lee, Marjolein Robertson, Josie Long
-- 2025-12-22 — Were Comedians Happy In 2025: Vol 1 — speakers: Chloe Radcliffe, Scott Auckerman, Alan Davies, Chloe Petts, Alex Kealy, Comedy Bang Bang, Mailing List
-- 2025-12-18 — Ray Bradshaw — speakers: Ray Bradshaw, John Bishop, Fantasy Fives, Mailing List, Bald Ginger
-- 2025-12-12 — Urooj Ashfaq — speakers: Best Newcomer, Mailing List, Stevie Martin
-- 2025-12-04 — John Kearns 2020: ComCompendium — speakers: John Kearns, Jacques Tati, Neil Hamburger, Harry Hill, Chris Morris, Mailing List
-- 2025-11-27 — Josie Long Returns — speakers: Josie Long Returns, Josie Long, bill gigs, Mailing List
-- 2025-11-20 — Adam Riches — speakers: Adam Riches Adam Riches, Michael Ball, Adam Riches
-- 2025-11-13 — Doug Naylor — speakers: Doug Naylor, Rob Grant, Sin Bin Island
-- 2025-10-24 — Alan Davies Returns — speakers: Alan Davies Returns, Alan Davies, Jonathan Creek
-- 2025-10-10 — Emma Doran — speakers: Emma Doran, Graham Norton
-- 2025-09-26 — Lucy Pearman — speakers: Lucy Pearman, Please Help, Adam Brace
+- 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Pink Tinge, Joe Lycett, Mailing List, Stuart Goldsmith
+- 2026-02-12 — Shenoah Allen — speakers: Shenoah Allen Shenoah Allen, Nina Conti, Kim Noble, Mailing List, Shenoah Allen, Stuart Goldsmith
+- 2026-02-05 — Sophie Duker — speakers: Sophie Duker, Best Newcomer, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List, Stuart Goldsmith
+- 2026-01-29 — Reggie Watts — speakers: Reggie Watts, James Corden, Comedy Bang, Adam Bloom, Matt Lucas, Ed Byrne, Ninia Benjamin, Mailing List, Stuart Goldsmith
+- 2026-01-16 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Mailing List, Stuart Goldsmith
+- 2026-01-05 — Were Comedians Happy In 2025: Vol 3 — speakers: Russell Howard, Mark Simmons, Aparna Nancherla, Nick Mohammed, Kemah Bob, Stuart Goldsmith
+- 2025-12-29 — Were Comedians Happy In 2025: Vol 2 — speakers: Max Fosh, Lucy Pearman, Pete Lee, Marjolein Robertson, Josie Long, Stuart Goldsmith
+- 2025-12-22 — Were Comedians Happy In 2025: Vol 1 — speakers: Chloe Radcliffe, Scott Auckerman, Alan Davies, Chloe Petts, Alex Kealy, Comedy Bang Bang, Mailing List, Stuart Goldsmith
+- 2025-12-18 — Ray Bradshaw — speakers: Ray Bradshaw, John Bishop, Fantasy Fives, Mailing List, Bald Ginger, Stuart Goldsmith
+- 2025-12-12 — Urooj Ashfaq — speakers: Best Newcomer, Mailing List, Stevie Martin, Stuart Goldsmith
+- 2025-12-04 — John Kearns 2020: ComCompendium — speakers: John Kearns, Jacques Tati, Neil Hamburger, Harry Hill, Chris Morris, Mailing List, Stuart Goldsmith
+- 2025-11-27 — Josie Long Returns — speakers: Josie Long Returns, Josie Long, bill gigs, Mailing List, Stuart Goldsmith
+- 2025-11-20 — Adam Riches — speakers: Adam Riches Adam Riches, Michael Ball, Adam Riches, Stuart Goldsmith
+- 2025-11-13 — Doug Naylor — speakers: Doug Naylor, Rob Grant, Sin Bin Island, Stuart Goldsmith
+- 2025-10-24 — Alan Davies Returns — speakers: Alan Davies Returns, Alan Davies, Jonathan Creek, Stuart Goldsmith
+- 2025-10-10 — Emma Doran — speakers: Emma Doran, Graham Norton, Stuart Goldsmith
+- 2025-09-26 — Lucy Pearman — speakers: Lucy Pearman, Please Help, Adam Brace, Stuart Goldsmith
 - 2025-09-18 — Ivo Graham & Laura Lexx: Comedian Climate Confessions! — speakers: Ivo Graham, Laura Lexx, Stuart Goldsmith
-- 2025-09-02 — Episode 500: I Need Your Help! — speakers: Discover Stu
-- 2025-08-15 — Aparna Nancherla (Live @ SXSW) — speakers: Aparna Nancherla, Bob’s Burgers, Seth Meyers, Michael Bublé, Discover Stu
-- 2025-08-08 — Abby Wambaugh — speakers: Abby Wambaugh, Edinburgh Comedy Award
-- 2025-08-01 — Kemah Bob — speakers: Kemah Bob Kemah Bob, Kemah Bob
-- 2025-07-25 — Marjolein Robertson — speakers: Marjolein Robertson, Billy Connolly, Glasgow Comedy Award
-- 2025-07-11 — Daniel Foxx — speakers: Daniel Foxx, Daniel co-wrote, Cheltenham Playhouse, Edinburgh Fringe
-- 2025-06-27 — Marc Jennings — speakers: Marc Jennings, Cheltenham Playhouse, Edinburgh Fringe
-- 2025-06-19 — Nick Mohammed Returns | Part Two — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow
-- 2025-06-13 — Nick Mohammed Returns | Part One — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow
-- 2025-06-06 — Alex Kealy — speakers: Alex Kealy, Ivo Graham, Leamington Spa
-- 2025-05-23 — Scott Aukerman (Live @ SXSW) — speakers: Scott Aukerman, Comedy Bang Bang, Leamington Spa
-- 2025-05-09 — Chloe Radcliffe — speakers: Chloe Radcliffe Chloe Radcliffe, John Bishop, Will Arnett, Laura Dern, Chloe Radcliffe, Leamington Spa
-- 2025-05-02 — Pete Lee (Live @ SXSW) — speakers: Pete Lee, Comedy Central, Roseanne Barr, Russell Peters, Machynlleth Comedy Festival
-- 2025-04-10 — Shazia Mirza — speakers: Best Stand, Robin Williams, Mort Sahl
-- 2025-03-28 — Iain Stirling — speakers: Machynlleth Discover
-- 2025-03-13 — Damien Power — speakers: Damien Power, Machynlleth Discover
-- 2025-03-07 — Huge Davies — speakers: Edinburgh Fringe, Best Newcomer, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover
-- 2025-02-20 — Mark Simmons — speakers: Mark Simmons, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover
-- 2025-02-05 — Live At The Apollo: Behind The Scenes — speakers: Tim Renkow, Janine Harouni, Machynlleth Discover
-- 2025-01-30 — Chloe Petts — speakers: Chloe Petts, Ed Gamble, Adam Drake, Machynlleth Discover
-- 2025-01-15 — Russell Howard Returns | Part Two — speakers: Russell Howard Returns, Russell Howard
-- 2025-01-10 — Russell Howard Returns | Part One — speakers: Russell Howard Returns, Russell Howard, Albert Hall
-- 2025-01-03 — Max Fosh — speakers: Max Fosh
-- 2024-12-19 — Milton Jones Returns — speakers: Milton Jones Returns
-- 2024-12-06 — Rhys James — speakers: Rhys James Rhys James, Split Milk, Rhys James
-- 2024-11-22 — Lise Mayer — speakers: Lise Mayer Lise, Rik Mayall, Ben Elton, Bum Bum Train, Lise Mayer, Discover Stu
-- 2024-11-08 — Remembering Dr Janey Godley — speakers: Janey Godley, Discover Stu
-- 2024-10-24 — Vittorio Angelone — speakers: Vittorio Angelone, Best Newcomer, Fin Taylor, Discover Stu
-- 2024-10-11 — Ania Magliano — speakers: Ania Magliano, Edinburgh Comedy Award, Frankie Boyle, James Adomian Josh Johnson, Discover Stu
-- 2024-09-19 — Viggo Venn | Part Two — speakers: Viggo Venn, Discover Stu
-- 2024-09-12 — Viggo Venn | Part One — speakers: Viggo Venn, Discover Stu
-- 2024-08-30 — Geoffrey Asmus — speakers: Geoffrey Asmus, Comedy Cellar, Daniel Sloss, Ari Shaffir, Discover Stu
-- 2024-08-15 — Edinburgh Fringe Picks 2024: Volume 2 — speakers: Edinburgh Fringe Picks, Edinburgh Fringe, Vir Das, Sara Barron, Monkey Barrel, Discover Stu
-- 2024-08-09 — Nurse Georgie Carroll — speakers: Sista Flo, Discover Stu
+- 2025-09-02 — Episode 500: I Need Your Help! — speakers: Discover Stu, Stuart Goldsmith
+- 2025-08-15 — Aparna Nancherla (Live @ SXSW) — speakers: Aparna Nancherla, Bob’s Burgers, Seth Meyers, Michael Bublé, Discover Stu, Stuart Goldsmith
+- 2025-08-08 — Abby Wambaugh — speakers: Abby Wambaugh, Edinburgh Comedy Award, Stuart Goldsmith
+- 2025-08-01 — Kemah Bob — speakers: Kemah Bob Kemah Bob, Kemah Bob, Stuart Goldsmith
+- 2025-07-25 — Marjolein Robertson — speakers: Marjolein Robertson, Billy Connolly, Glasgow Comedy Award, Stuart Goldsmith
+- 2025-07-11 — Daniel Foxx — speakers: Daniel Foxx, Daniel co-wrote, Cheltenham Playhouse, Edinburgh Fringe, Stuart Goldsmith
+- 2025-06-27 — Marc Jennings — speakers: Marc Jennings, Cheltenham Playhouse, Edinburgh Fringe, Stuart Goldsmith
+- 2025-06-19 — Nick Mohammed Returns | Part Two — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow, Stuart Goldsmith
+- 2025-06-13 — Nick Mohammed Returns | Part One — speakers: Nick Mohammed Returns, Nick Mohammed, Ted Lasso, Mr Swallow, Stuart Goldsmith
+- 2025-06-06 — Alex Kealy — speakers: Alex Kealy, Ivo Graham, Leamington Spa, Stuart Goldsmith
+- 2025-05-23 — Scott Aukerman (Live @ SXSW) — speakers: Scott Aukerman, Comedy Bang Bang, Leamington Spa, Stuart Goldsmith
+- 2025-05-09 — Chloe Radcliffe — speakers: Chloe Radcliffe Chloe Radcliffe, John Bishop, Will Arnett, Laura Dern, Chloe Radcliffe, Leamington Spa, Stuart Goldsmith
+- 2025-05-02 — Pete Lee (Live @ SXSW) — speakers: Pete Lee, Comedy Central, Roseanne Barr, Russell Peters, Machynlleth Comedy Festival, Stuart Goldsmith
+- 2025-04-10 — Shazia Mirza — speakers: Best Stand, Robin Williams, Mort Sahl, Stuart Goldsmith
+- 2025-03-28 — Iain Stirling — speakers: Machynlleth Discover, Stuart Goldsmith
+- 2025-03-13 — Damien Power — speakers: Damien Power, Machynlleth Discover, Stuart Goldsmith
+- 2025-03-07 — Huge Davies — speakers: Edinburgh Fringe, Best Newcomer, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover, Stuart Goldsmith
+- 2025-02-20 — Mark Simmons — speakers: Mark Simmons, Russell Howard, Lise Mayer, Rhys James, Machynlleth Discover, Stuart Goldsmith
+- 2025-02-05 — Live At The Apollo: Behind The Scenes — speakers: Tim Renkow, Janine Harouni, Machynlleth Discover, Stuart Goldsmith
+- 2025-01-30 — Chloe Petts — speakers: Chloe Petts, Ed Gamble, Adam Drake, Machynlleth Discover, Stuart Goldsmith
+- 2025-01-15 — Russell Howard Returns | Part Two — speakers: Russell Howard Returns, Russell Howard, Stuart Goldsmith
+- 2025-01-10 — Russell Howard Returns | Part One — speakers: Russell Howard Returns, Russell Howard, Albert Hall, Stuart Goldsmith
+- 2025-01-03 — Max Fosh — speakers: Max Fosh, Stuart Goldsmith
+- 2024-12-19 — Milton Jones Returns — speakers: Milton Jones Returns, Stuart Goldsmith
+- 2024-12-06 — Rhys James — speakers: Rhys James Rhys James, Split Milk, Rhys James, Stuart Goldsmith
+- 2024-11-22 — Lise Mayer — speakers: Lise Mayer Lise, Rik Mayall, Ben Elton, Bum Bum Train, Lise Mayer, Discover Stu, Stuart Goldsmith
+- 2024-11-08 — Remembering Dr Janey Godley — speakers: Janey Godley, Discover Stu, Stuart Goldsmith
+- 2024-10-24 — Vittorio Angelone — speakers: Vittorio Angelone, Best Newcomer, Fin Taylor, Discover Stu, Stuart Goldsmith
+- 2024-10-11 — Ania Magliano — speakers: Ania Magliano, Edinburgh Comedy Award, Frankie Boyle, James Adomian Josh Johnson, Discover Stu, Stuart Goldsmith
+- 2024-09-19 — Viggo Venn | Part Two — speakers: Viggo Venn, Discover Stu, Stuart Goldsmith
+- 2024-09-12 — Viggo Venn | Part One — speakers: Viggo Venn, Discover Stu, Stuart Goldsmith
+- 2024-08-30 — Geoffrey Asmus — speakers: Geoffrey Asmus, Comedy Cellar, Daniel Sloss, Ari Shaffir, Discover Stu, Stuart Goldsmith
+- 2024-08-15 — Edinburgh Fringe Picks 2024: Volume 2 — speakers: Edinburgh Fringe Picks, Edinburgh Fringe, Vir Das, Sara Barron, Monkey Barrel, Discover Stu, Stuart Goldsmith
+- 2024-08-09 — Nurse Georgie Carroll — speakers: Sista Flo, Discover Stu, Stuart Goldsmith
 - 2024-08-01 — Edinburgh Fringe Picks 2024: Volume 1 — speakers: Edinburgh Fringe Picks, Edinburgh Fringe, Lauren Pattison, Monkey Barrel, Aaron Chen, Select Dates, Trygve Wakenshaw, Stuart Goldsmith
-- 2024-07-25 — Nabil Abdulrashid — speakers: Nabil Abdulrashid
-- 2024-07-19 — Rosie Holt — speakers: Rosie Holt, Jonathan Pie, Edinburgh Fringe
-- 2024-07-11 — Zach Zucker — speakers: Zach Zucker, Jack Tucker, Viggo Ven, Comedy Stand
-- 2024-06-28 — Fin Taylor vs The Internet — speakers: Fin Taylor, Vittorio Angelone, Jonathan Pie, Jamie Laing, Rosie Holt, com FinTaylor
-- 2024-06-20 — Tanyalee Davis — speakers: Tanyalee Davis, Meet Tanyalee Davis, Abnormally Funny People
-- 2024-06-07 — Jaboukie Young-White (Live @ SXSW) — speakers: Jaboukie Young-White, Joaquin Phoenix, Ralph Breaks, James Acaster, Dai Henwood
-- 2024-05-30 — Mike Wozniak | Part Two — speakers: Mike Wozniak, Rose Matafeo, Everything Stu
-- 2024-05-24 — Mike Wozniak | Part One — speakers: Mike Wozniak, Everything Stu
-- 2024-05-17 — Lynne Koplitz (Live @ SXSW) — speakers: Lynne Koplitz, Craig Ferguson, Neil deGrasse Tyson, James Acaster, Dai Henwood
-- 2024-05-03 — Dai Henwood — speakers: Dai Henwood
-- 2024-04-26 — Brian Simpson (Live @ SXSW) — speakers: Brian Simpson, David Spade, Iliza Shlesinger, Lucy Beaumont, James Acaster
-- 2024-04-18 — Julia Masli — speakers: Viggo Venn
-- 2024-04-05 — Martin Urbano — speakers: Martin Urbano, Comedy Central’s Featured, Will Smith, Jimmy Fallon
-- 2024-03-28 — Josh Pugh — speakers: Josh Pugh, Dave’s Edinburgh Comedy Award
-- 2024-03-21 — Dara Ó Briain Returns | Part Two — speakers: Briain Returns
-- 2024-03-15 — Dara Ó Briain Returns | Part One — speakers: Briain Returns
-- 2024-03-08 — Janine Harouni — speakers: Janine Harouni Janine Harouni, Janine Harouni, Remain Seated, Best Newcomer, Matt Reeves
-- 2024-02-22 — Leo Reich — speakers: Leo Reich, Best Newcomer, Adam Brace
-- 2024-02-09 — Tomi Walamies — speakers: Discover Stu
-- 2024-02-01 — Mawaan Rizwan — speakers: Mawaan Rizwan, Discover Stu
-- 2024-01-25 — Susie McCabe — speakers: Susie McCabe, Discover Stu
-- 2024-01-16 — James Acaster Returns, Again! (2024) | Part Two — speakers: James Acaster Returns, Bo Burnham, Discover Stu, David Cooper
-- 2024-01-12 — James Acaster Returns, Again! (2024) | Part One — speakers: James Acaster Returns, James Acaster, Discover Stu, David Cooper
-- 2023-12-15 — Harriet Dyer — speakers: Harriet Dyer, Trigger Warning, Discover Stu, David Cooper
-- 2023-11-23 — Iliza Shlesinger — speakers: Iliza Shlesinger, Eventim Apollo, Discover Stu, David Cooper
-- 2023-11-10 — 441 - Sikisa — speakers: Discover Stu, David Cooper
-- 2023-10-26 — 440 - Alistair Barrie — speakers: Everything Stu, Discover Stu, David Cooper
-- 2023-10-14 — 439 - Jeff Shaw — speakers: Jeff Shaw, Discover Stu, David Cooper
-- 2023-09-29 — 438 - Ruth Bratt — speakers: Ruth Bratt, Everything Stu, Discover Stu, David Cooper
-- 2023-09-22 — 437 - Adam Bloom Returns — speakers: Adam Bloom, Discover Stu, David Cooper
-- 2023-09-07 — 436 - Gareth Reynolds — speakers: Gareth Reynolds, Dave Anthony, Jake Johnson, Everything Stu, David Cooper
-- 2023-08-31 — 435 - Nish Kumar Returns — speakers: David Cooper
-- 2023-07-28 — 434 - Lucy Beaumont — speakers: Lucy Beaumont, David Cooper
-- 2023-07-20 — 433 - Jonny Pelham — speakers: Jonny Pelham, Edinburgh Fringe, David Cooper
-- 2023-07-13 — 432 - Mike Birbiglia — speakers: Mike Birbiglia, Jimmy Carr, Daniel Kitson, Edinburgh Sept Oct, Everything Stu, David Cooper
-- 2023-06-22 — 431 - Gianmarco Soresi — speakers: Gianmarco Soresi, Anthony Jeselnik, Rodney Dangerfield
-- 2023-06-13 — 430 - Lee Kyle — speakers: Lee Kyle, Felt Nowt, David Cooper
-- 2023-05-25 — 429 - Neil Delamere — speakers: Neil Delamere, David Cooper
-- 2023-05-19 — 428 - James Adomian (Live @ SXSW) — speakers: James Adomian, David Cooper
-- 2023-05-12 — 427 - Ignacio Lopez — speakers: Ignacio Lopez, David Cooper
-- 2023-04-28 — 426 - Emma Willmann (Live @ SXSW) — speakers: Emma Willmann, Everything Stu, David Cooper
-- 2023-04-21 — 425 - Steve Agee (Live @SXSW) — speakers: Steve Agee, John Economos, James Gunn Cinematic Universe, David Cooper
-- 2023-04-14 — 424 - John Hastings Returns — speakers: John Hastings Returns, John Hastings, Paul Byrne, David Cooper
-- 2023-04-07 — 423 - Michelle Brasier — speakers: Michelle Brasier, Aunty Donna, David Cooper
-- 2023-03-31 — 422 - Godfrey SXSW — speakers: David Cooper
-- 2023-03-24 — 421 - Tom Houghton — speakers: Tom Houghton, Posh Guy, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper
-- 2023-03-17 — Fern Brady 2016: ComCompendium — speakers: Fern Brady, Alfie Brown, James Acaster, Amanda Donnet, David Cooper
-- 2023-03-10 — 420 - Vir Das — speakers: Vir Das, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, Everything Stu, David Cooper
-- 2023-02-24 — Gina Yashere 2015: ComCompendium — speakers: Gina Yashere, David Cooper
-- 2023-02-17 — Stewart Lee 2017: ComCompendium — speakers: Stewart Lee
-- 2023-02-06 — Romesh Ranganathan (Live at Soho Theatre) 2016: ComCompendium
-- 2023-01-29 — Shaparak Khorsandi 2016: ComCompendium — speakers: Shaparak Khorsandi
-- 2023-01-22 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican
-- 2023-01-13 — James Acaster 2013: ComCompendium — speakers: James Acaster
-- 2022-11-18 — 419 - Kurt Braunohler — speakers: Kurt Braunohler, Kurt Vonnegut, Eugene Mirman, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper
-- 2022-11-11 — 418 - Sarah Keyworth — speakers: Sarah Keyworth, Paul Byrne, David Cooper
-- 2022-11-04 — 417 - Esther Manito — speakers: Esther Manito, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-21 — 416 - Glenn Moore — speakers: Glenn Moore, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-13 — 415 - Grace Petrie — speakers: Josie Long, Robin Ince, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-10-07 — 414 - Lauren Pattison — speakers: Lauren Pattison, Best Newcomer, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper
-- 2022-09-30 — 413 - Jordan Gray — speakers: Jordan Gray, Ian McKellen, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-08-17 — 412 - Bianca Del Rio — speakers: Roy Haylock, Matt Crockett, Monkey Barrel, David Cooper
-- 2022-08-05 — 411 - Jenny Bede — speakers: Jenny Bede, Alfie Brown, James Acaster, Fern Brady, Jenny’s Edinburgh Fringe, Monkey Barrel, David Cooper
-- 2022-08-01 — 410 - Tom Ward — speakers: Tom Ward, Monkey Barrel, David Cooper
-- 2022-07-22 — 409 - Sean McLoughlin — speakers: Sean McLoughlin, Albert Hall, Bill Burr, Katherine Ryan, Ricky Gervais, Alfie Brown, James Acaster, Fern Brady
-- 2022-07-15 — 408 - Ria Lina — speakers: Ria Lina, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper
-- 2022-07-04 — 407 - Alison Spittle — speakers: Alison Spittle, Alfie Brown, James Acaster, Fern Brady, gigs See, David Cooper
-- 2022-06-17 — 406 - Amy Miller — speakers: Amy Miller, Alfie Brown, James Acaster, Fern Brady, Everything Stu, Twitter Standup, David Cooper
-- 2022-06-11 — 405 - Olaf Falafel — speakers: Derek Chickpeas, Edinburgh Fringe, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-06-02 — 404 - Helen Bauer — speakers: Helen Bauer, Rosie Jones, Catherine Bohart, Alfie Brown, James Acaster, Fern Brady, David Cooper
-- 2022-05-27 — 403 - Bobby Mair — speakers: Bobby Mair, Alfie Brown, James Acaster, Fern Brady, Red Richardson, Twitter Stu, David Cooper
-- 2022-05-20 — 402 - Daniel Rigby — speakers: Isaac Steele, Daniel Rigby, Eric Morecambe, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-05-13 — 401 - Dulcé Sloan (Live at SXSW) — speakers: Dulcé Sloan, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-31 — 400 - 10th Birthday Special - Rob Deering Returns! — speakers: Rob Deering, Paul Tonkinson, Roger Rabbit, Nish Kumar, James Acaster, Fern Brady, Read Rob, Everything Stu
-- 2022-03-24 — 399 - Eddie Pepitone Returns (Live at SXSW) — speakers: Alfie Brown, James Acaster, Fern Brady, Everything Stu, Jo Matkin
-- 2022-03-21 — 398 - Byron Bowers (Live at SXSW) — speakers: Honey Boy, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-11 — 397 - Matt Richardson — speakers: Matt Richardson, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-03-03 — 396 - K Trevor Wilson — speakers: Alfie Brown, James Acaster, Fern Brady, Jo Matkin
-- 2022-02-25 — 395 - Slim — speakers: Nish Kumar, James Acaster, Fern Brady, Slim IG, Jo Matkin
-- 2022-02-17 — 394 - Cally Beaton — speakers: Joan Rivers, Jo Matkin
-- 2022-02-10 — 393 - Diane Spencer — speakers: Diane Spencer, Kevin Shepherd, Nish Kumar, James Acaster, Fern Brady, Jo Matkin
-- 2022-02-03 — Remembering Barry Cryer — speakers: Barry Cryer
-- 2021-12-17 — 392B - Jimmy Carr Returns, Live! (Part Two) — speakers: Jimmy Carr
-- 2021-12-13 — 392A - Jimmy Carr Returns, Live! (Part One) — speakers: Sean Lock, Jimmy Carr
-- 2021-12-02 — 391 - Omid Djalili — speakers: Omid Djalili, Michael McIntyre, Whoopi Goldberg, Nish Kumar, James Acaster, Fern Brady, Everything Stu, Maria Kuzak
-- 2021-11-25 — 390 - Foil Arms and Hog — speakers: Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-11-22 — 389 - Tom Stade Returns — speakers: Tom Stade, Ben Gott
-- 2021-11-12 — 388 - NonComPod - Philippa Perry — speakers: Philippa Perry, Grayson Perry, Jimmy Carr, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-11-04 — 387 - Pierre Novellie — speakers: Pierre Novellie, Nish Kumar, James Acaster, Fern Brady, Phil Wang Watch, Maria Kuzak, Ben Gott
-- 2021-10-28 — 386 - Pan-Amble: Belonging — speakers: Maria Kuzak, Ben Gott
-- 2021-10-21 — 385 - Aaron Chen — speakers: Aaron Chen, Alfie Brown, James Acaster, Fern Brady, Follow Aaron, Adult Swim, Everything Stu, Maria Kuzak
-- 2021-10-14 — 384 - Adam Rowe — speakers: Adam Rowe, Dan Nightingale, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-10-07 — 383 - Thanyia Moore — speakers: Thanyia Moore, Alfie Brown, James Acaster, Fern Brady
-- 2021-09-30 — 382 - Harriet Kemsley — speakers: Harriet Kemsley, Bobby Mair, Nish Kumar, James Acaster, Fern Brady
-- 2021-09-24 — 381 - Jonathan Coulton — speakers: Jonathan Coulton, Lawrence Lessig, Nish Kumar, James Acaster, Fern Brady
-- 2021-08-05 — Mini Fringe Prelude — speakers: Mini Fringe Prelude, Edinburgh Fringe
-- 2021-07-23 — 380 - CK (Caimh) McDonnell — speakers: Bunny McGarry, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-16 — 379 - Fin Taylor — speakers: Fin Taylor, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-08 — 378 - Stevie Martin — speakers: Stevie Martin, Massive Dad, Nish Kumar, James Acaster, Fern Brady
-- 2021-07-01 — 377 - Paul Zerdin — speakers: Paul Zerdin Irrepressibly, Paul Zerdin, Nish Kumar, James Acaster, Alfie Brown, Fern Brady, Find Paul, paulzerdin TW
-- 2021-06-24 — 376 - Josh Johnson — speakers: Josh Johnson, Nish Kumar, James Acaster, Alfie Brown, Fern Brady
-- 2021-06-18 — 375 - Jessie Cave — speakers: Jessie Cave, Harry Potter, Nish Kumar, James Acaster, Fern Brady, Find Jessie
-- 2021-06-10 — 374 - Piff The Magic Dragon (John Van Der Put) — speakers: John Van Der Put, bulletproof performer, Nish Kumar, James Acaster, Fern Brady
-- 2021-05-27 — 373 - Greg Jenner — speakers: Greg Jenner, Nish Kumar, James Acaster, Alfie Brown, Fern Brady
-- 2021-05-20 — 372 - Rosie Jones — speakers: Rosie Jones, Nish Kumar, Alfie Brown
-- 2021-05-13 — 371 - Ian Moore — speakers: Ian Moore, Comedy Store, Alfie Brown, Fern Brady, Maria Kuzak, Ben Gott
-- 2021-05-06 — 370 - Stuart Laws — speakers: James Acaster, Turtle Canyon, Joel Dommett, Alfie Brown, Stuart Laws, Matt Winning, Maria Kuzak
-- 2021-04-08 — 369 - Catherine Bohart — speakers: Catherine Bohart, James Acaster, Nish Kumar, Maria Kuzak, Ben Gott
-- 2021-04-01 — 368 - The Delightful Sausage — speakers: Amy Gledhill, Chris Cantrill, James Acaster, Maria Kuzak, Ben Gott
-- 2021-03-25 — 367 - Sooz Kempner — speakers: James Acaster, SoozUK Co-hosting, Maria Kuzak, Ben Gott
-- 2021-03-18 — 366 - Loyiso Gola Returns — speakers: James Acaster, Maria Kuzak, Ben Gott
-- 2021-03-11 — 365 - Ramon Rivas II — speakers: Ramon Rivas, Weed Comedy, James Acaster, blazerramon Ramon, Maria Kuzak, Ben Gott
-- 2021-03-05 — 364 - Olga Koch — speakers: Olga Koch, Maria Kuzak, Ben Gott
-- 2021-02-26 — 363 - Bethany Black — speakers: James Acaster, Maria Kuzak, Ben Gott
-- 2021-02-18 — 362 - Russell Kane — speakers: Russell Kane, Stewart Lee, James Acaster, Follow Russell, Maria Kuzak, Ben Gott
-- 2021-02-11 — 361 - Tom Neenan — speakers: Tom Neenan Head, Tom Neenan, James Acaster, Tom Neenan Follow tneenan, Follow Tom’s Dr, Jenny Nicholson, Lindsey Ellis, Maria Kuzak
-- 2021-02-04 — 360 - Jordan Brookes — speakers: Edinburgh Comedy Award, Jordan Brookes, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-24 — 359 - Aunty Donna Return! — speakers: Donna Return, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-17 — 358 - Nigel Ng Returns! — speakers: Uncle Roger, Nigel Ng, James Acaster, Stu’s Infinite Sofa, Maria Kuzak
-- 2020-12-10 — 357 - Athena Kugblenu — speakers: Athena Kugblenu, James Acaster
-- 2020-12-03 — 356 - James Acaster Returns, Again! (Part 2) — speakers: James Acaster Returns, James Acaster
-- 2020-11-26 — 355 - James Acaster Returns, Again! (Part 1) — speakers: James Acaster Returns, James Acaster
-- 2020-11-19 — 354 - Martin Mor — speakers: Martin Mor, Everything Stu
-- 2020-11-12 — 353 - Colt Cabana — speakers: Colt Cabana, Brendon Burns, John Hastings, Toru Yano, Tw IG, Sara Barron
-- 2020-10-29 — 352 - Alasdair Beckett-King — speakers: Sara Barron, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-10-15 — 351- Laurie Kilmartin — speakers: Laurie Kilmartin, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-10-08 — 350 - Mat Ewins — speakers: Mat Ewins, Harry Hill’s Club Nite, Download Mat, John Kearns, Harry Hill, WaTsUMudD TW, Dara O'Briain, Sarah Millican
-- 2020-10-01 — 349 - Kim Noble — speakers: Kim Noble, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-24 — 348 - Erin Foley — speakers: Erin Foley, Deep Dive, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-17 — 347 - Paul Sinha Returns — speakers: Paul Sinha, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-10 — 346 - Gary Gulman — speakers: Gary Gulman, Kurt Vonnegut, Dara O'Briain, Sarah Millican, Russell Howard
-- 2020-09-03 — 345 - Larry Dean — speakers: Larry Dean, Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke
-- 2020-06-18 — 344 - Archie Maddocks — speakers: Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke, Charlie George
-- 2020-06-11 — 343 - Nigel Ng — speakers: Nigel Ng, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp
-- 2020-06-04 — 342 - Catherine Cohen — speakers: Catherine Cohen, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp
-- 2020-05-26 — 341 - Sindhu Vee Returns — speakers: Jess Fostekew, Spencer Jones, Stu Goldsmith, Rhod Gilbert, Josh Widdicombe, Josie Long, Sarah Millican, Rob Kemp
-- 2020-05-21 — 340 - Pope Lonergan — speakers: Pope Lonergan, Stu Goldsmith, Josh Widdicombe, Sindhu Vee, Josie Long, Sarah Millican, Rob Kemp, Russell Hicks
-- 2020-05-14 — 339 - Brett Goldstein — speakers: Brett Goldstein, Stu Goldsmith, Nish Kumar, Suzi Ruffell, Anna Mann, Randy Feltface, Josie Long, Sarah Millican
-- 2020-05-12 — SARAH MILLICAN & RUSSELL HOWARD ON THE INFINITE SOFA — speakers: Stu Goldsmith, Russell Howard, Sarah Millican, Iain Stirling, Laura Lexx, Alfie Brown, Anna Mann
-- 2020-05-08 — 338 - Helen Zaltzman — speakers: Helen Zaltzman, Olly Mann, Josie Long, com helenzaltzman
-- 2020-04-30 — 337 - Alonzo Bodden — speakers: Alonzo Bodden, Terry Crews, Stu Goldsmith, James Acaster, Sarah Millican, Jasky Singh
-- 2020-04-23 — Special Episode: The "Infinite Sofa" & What To Do Next... — speakers: Stu Goldsmith, James Acaster, Sarah Millican
-- 2020-04-16 — 336 - Robert Popper — speakers: Timewaster Robert Popper, Peter Serafinowicz, Stu Goldsmith, Sindhu Vee, Desiree Burch, Phil Ellis, Rob Rouse, Ben Milden
-- 2020-04-10 — 335 - Scott Bennett — speakers: Scott Bennett, Rob Brydon, Jason Manford how, Pete Dobbing, Follow Scott, Stu Goldsmith, Ben Milden
-- 2020-04-09 — LOCKDOWN SPECIAL - Alexander Bennett — speakers: Alexander Bennett, Stu Goldsmith
-- 2020-04-02 — 334 - Robby Collins — speakers: Robby Collins, Trevor Noah, Dave Chapelle, Pete Dobbing, Stu Goldsmith, Ben Milden
-- 2020-03-30 — 333 - Steve McNeil — speakers: Steve McNeil, Briain's Go, Pete Dobbing, Stu Goldsmith
-- 2020-03-20 — 332 - Desiree Burch — speakers: Desiree Burch, dick pics, Pete Dobbing, Stu Goldsmith
+- 2024-07-25 — Nabil Abdulrashid — speakers: Nabil Abdulrashid, Stuart Goldsmith
+- 2024-07-19 — Rosie Holt — speakers: Rosie Holt, Jonathan Pie, Edinburgh Fringe, Stuart Goldsmith
+- 2024-07-11 — Zach Zucker — speakers: Zach Zucker, Jack Tucker, Viggo Ven, Comedy Stand, Stuart Goldsmith
+- 2024-06-28 — Fin Taylor vs The Internet — speakers: Fin Taylor, Vittorio Angelone, Jonathan Pie, Jamie Laing, Rosie Holt, com FinTaylor, Stuart Goldsmith
+- 2024-06-20 — Tanyalee Davis — speakers: Tanyalee Davis, Meet Tanyalee Davis, Abnormally Funny People, Stuart Goldsmith
+- 2024-06-07 — Jaboukie Young-White (Live @ SXSW) — speakers: Jaboukie Young-White, Joaquin Phoenix, Ralph Breaks, James Acaster, Dai Henwood, Stuart Goldsmith
+- 2024-05-30 — Mike Wozniak | Part Two — speakers: Mike Wozniak, Rose Matafeo, Everything Stu, Stuart Goldsmith
+- 2024-05-24 — Mike Wozniak | Part One — speakers: Mike Wozniak, Everything Stu, Stuart Goldsmith
+- 2024-05-17 — Lynne Koplitz (Live @ SXSW) — speakers: Lynne Koplitz, Craig Ferguson, Neil deGrasse Tyson, James Acaster, Dai Henwood, Stuart Goldsmith
+- 2024-05-03 — Dai Henwood — speakers: Dai Henwood, Stuart Goldsmith
+- 2024-04-26 — Brian Simpson (Live @ SXSW) — speakers: Brian Simpson, David Spade, Iliza Shlesinger, Lucy Beaumont, James Acaster, Stuart Goldsmith
+- 2024-04-18 — Julia Masli — speakers: Viggo Venn, Stuart Goldsmith
+- 2024-04-05 — Martin Urbano — speakers: Martin Urbano, Comedy Central’s Featured, Will Smith, Jimmy Fallon, Stuart Goldsmith
+- 2024-03-28 — Josh Pugh — speakers: Josh Pugh, Dave’s Edinburgh Comedy Award, Stuart Goldsmith
+- 2024-03-21 — Dara Ó Briain Returns | Part Two — speakers: Briain Returns, Stuart Goldsmith
+- 2024-03-15 — Dara Ó Briain Returns | Part One — speakers: Briain Returns, Stuart Goldsmith
+- 2024-03-08 — Janine Harouni — speakers: Janine Harouni Janine Harouni, Janine Harouni, Remain Seated, Best Newcomer, Matt Reeves, Stuart Goldsmith
+- 2024-02-22 — Leo Reich — speakers: Leo Reich, Best Newcomer, Adam Brace, Stuart Goldsmith
+- 2024-02-09 — Tomi Walamies — speakers: Discover Stu, Stuart Goldsmith
+- 2024-02-01 — Mawaan Rizwan — speakers: Mawaan Rizwan, Discover Stu, Stuart Goldsmith
+- 2024-01-25 — Susie McCabe — speakers: Susie McCabe, Discover Stu, Stuart Goldsmith
+- 2024-01-16 — James Acaster Returns, Again! (2024) | Part Two — speakers: James Acaster Returns, Bo Burnham, Discover Stu, David Cooper, Stuart Goldsmith
+- 2024-01-12 — James Acaster Returns, Again! (2024) | Part One — speakers: James Acaster Returns, James Acaster, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-12-15 — Harriet Dyer — speakers: Harriet Dyer, Trigger Warning, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-11-23 — Iliza Shlesinger — speakers: Iliza Shlesinger, Eventim Apollo, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-11-10 — 441 - Sikisa — speakers: Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-10-26 — 440 - Alistair Barrie — speakers: Everything Stu, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-10-14 — 439 - Jeff Shaw — speakers: Jeff Shaw, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-09-29 — 438 - Ruth Bratt — speakers: Ruth Bratt, Everything Stu, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-09-22 — 437 - Adam Bloom Returns — speakers: Adam Bloom, Discover Stu, David Cooper, Stuart Goldsmith
+- 2023-09-07 — 436 - Gareth Reynolds — speakers: Gareth Reynolds, Dave Anthony, Jake Johnson, Everything Stu, David Cooper, Stuart Goldsmith
+- 2023-08-31 — 435 - Nish Kumar Returns — speakers: David Cooper, Stuart Goldsmith
+- 2023-07-28 — 434 - Lucy Beaumont — speakers: Lucy Beaumont, David Cooper, Stuart Goldsmith
+- 2023-07-20 — 433 - Jonny Pelham — speakers: Jonny Pelham, Edinburgh Fringe, David Cooper, Stuart Goldsmith
+- 2023-07-13 — 432 - Mike Birbiglia — speakers: Mike Birbiglia, Jimmy Carr, Daniel Kitson, Edinburgh Sept Oct, Everything Stu, David Cooper, Stuart Goldsmith
+- 2023-06-22 — 431 - Gianmarco Soresi — speakers: Gianmarco Soresi, Anthony Jeselnik, Rodney Dangerfield, Stuart Goldsmith
+- 2023-06-13 — 430 - Lee Kyle — speakers: Lee Kyle, Felt Nowt, David Cooper, Stuart Goldsmith
+- 2023-05-25 — 429 - Neil Delamere — speakers: Neil Delamere, David Cooper, Stuart Goldsmith
+- 2023-05-19 — 428 - James Adomian (Live @ SXSW) — speakers: James Adomian, David Cooper, Stuart Goldsmith
+- 2023-05-12 — 427 - Ignacio Lopez — speakers: Ignacio Lopez, David Cooper, Stuart Goldsmith
+- 2023-04-28 — 426 - Emma Willmann (Live @ SXSW) — speakers: Emma Willmann, Everything Stu, David Cooper, Stuart Goldsmith
+- 2023-04-21 — 425 - Steve Agee (Live @SXSW) — speakers: Steve Agee, John Economos, James Gunn Cinematic Universe, David Cooper, Stuart Goldsmith
+- 2023-04-14 — 424 - John Hastings Returns — speakers: John Hastings Returns, John Hastings, Paul Byrne, David Cooper, Stuart Goldsmith
+- 2023-04-07 — 423 - Michelle Brasier — speakers: Michelle Brasier, Aunty Donna, David Cooper, Stuart Goldsmith
+- 2023-03-31 — 422 - Godfrey SXSW — speakers: David Cooper, Stuart Goldsmith
+- 2023-03-24 — 421 - Tom Houghton — speakers: Tom Houghton, Posh Guy, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper, Stuart Goldsmith
+- 2023-03-17 — Fern Brady 2016: ComCompendium — speakers: Fern Brady, Alfie Brown, James Acaster, Amanda Donnet, David Cooper, Stuart Goldsmith
+- 2023-03-10 — 420 - Vir Das — speakers: Vir Das, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, Everything Stu, David Cooper, Stuart Goldsmith
+- 2023-02-24 — Gina Yashere 2015: ComCompendium — speakers: Gina Yashere, David Cooper, Stuart Goldsmith
+- 2023-02-17 — Stewart Lee 2017: ComCompendium — speakers: Stewart Lee, Stuart Goldsmith
+- 2023-02-06 — Romesh Ranganathan (Live at Soho Theatre) 2016: ComCompendium — speakers: Stuart Goldsmith
+- 2023-01-29 — Shaparak Khorsandi 2016: ComCompendium — speakers: Shaparak Khorsandi, Stuart Goldsmith
+- 2023-01-22 — Sarah Millican 2012: ComCompendium — speakers: Sarah Millican, Stuart Goldsmith
+- 2023-01-13 — James Acaster 2013: ComCompendium — speakers: James Acaster, Stuart Goldsmith
+- 2022-11-18 — 419 - Kurt Braunohler — speakers: Kurt Braunohler, Kurt Vonnegut, Eugene Mirman, Alfie Brown, James Acaster, Fern Brady, Amanda Donnet, David Cooper, Stuart Goldsmith
+- 2022-11-11 — 418 - Sarah Keyworth — speakers: Sarah Keyworth, Paul Byrne, David Cooper, Stuart Goldsmith
+- 2022-11-04 — 417 - Esther Manito — speakers: Esther Manito, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-10-21 — 416 - Glenn Moore — speakers: Glenn Moore, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-10-13 — 415 - Grace Petrie — speakers: Josie Long, Robin Ince, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-10-07 — 414 - Lauren Pattison — speakers: Lauren Pattison, Best Newcomer, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper, Stuart Goldsmith
+- 2022-09-30 — 413 - Jordan Gray — speakers: Jordan Gray, Ian McKellen, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-08-17 — 412 - Bianca Del Rio — speakers: Roy Haylock, Matt Crockett, Monkey Barrel, David Cooper, Stuart Goldsmith
+- 2022-08-05 — 411 - Jenny Bede — speakers: Jenny Bede, Alfie Brown, James Acaster, Fern Brady, Jenny’s Edinburgh Fringe, Monkey Barrel, David Cooper, Stuart Goldsmith
+- 2022-08-01 — 410 - Tom Ward — speakers: Tom Ward, Monkey Barrel, David Cooper, Stuart Goldsmith
+- 2022-07-22 — 409 - Sean McLoughlin — speakers: Sean McLoughlin, Albert Hall, Bill Burr, Katherine Ryan, Ricky Gervais, Alfie Brown, James Acaster, Fern Brady, Stuart Goldsmith
+- 2022-07-15 — 408 - Ria Lina — speakers: Ria Lina, Alfie Brown, James Acaster, Fern Brady, Everything Stu, David Cooper, Stuart Goldsmith
+- 2022-07-04 — 407 - Alison Spittle — speakers: Alison Spittle, Alfie Brown, James Acaster, Fern Brady, gigs See, David Cooper, Stuart Goldsmith
+- 2022-06-17 — 406 - Amy Miller — speakers: Amy Miller, Alfie Brown, James Acaster, Fern Brady, Everything Stu, Twitter Standup, David Cooper, Stuart Goldsmith
+- 2022-06-11 — 405 - Olaf Falafel — speakers: Derek Chickpeas, Edinburgh Fringe, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-06-02 — 404 - Helen Bauer — speakers: Helen Bauer, Rosie Jones, Catherine Bohart, Alfie Brown, James Acaster, Fern Brady, David Cooper, Stuart Goldsmith
+- 2022-05-27 — 403 - Bobby Mair — speakers: Bobby Mair, Alfie Brown, James Acaster, Fern Brady, Red Richardson, Twitter Stu, David Cooper, Stuart Goldsmith
+- 2022-05-20 — 402 - Daniel Rigby — speakers: Isaac Steele, Daniel Rigby, Eric Morecambe, Nish Kumar, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-05-13 — 401 - Dulcé Sloan (Live at SXSW) — speakers: Dulcé Sloan, Nish Kumar, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-03-31 — 400 - 10th Birthday Special - Rob Deering Returns! — speakers: Rob Deering, Paul Tonkinson, Roger Rabbit, Nish Kumar, James Acaster, Fern Brady, Read Rob, Everything Stu, Stuart Goldsmith
+- 2022-03-24 — 399 - Eddie Pepitone Returns (Live at SXSW) — speakers: Alfie Brown, James Acaster, Fern Brady, Everything Stu, Jo Matkin, Stuart Goldsmith
+- 2022-03-21 — 398 - Byron Bowers (Live at SXSW) — speakers: Honey Boy, Nish Kumar, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-03-11 — 397 - Matt Richardson — speakers: Matt Richardson, Nish Kumar, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-03-03 — 396 - K Trevor Wilson — speakers: Alfie Brown, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-02-25 — 395 - Slim — speakers: Nish Kumar, James Acaster, Fern Brady, Slim IG, Jo Matkin, Stuart Goldsmith
+- 2022-02-17 — 394 - Cally Beaton — speakers: Joan Rivers, Jo Matkin, Stuart Goldsmith
+- 2022-02-10 — 393 - Diane Spencer — speakers: Diane Spencer, Kevin Shepherd, Nish Kumar, James Acaster, Fern Brady, Jo Matkin, Stuart Goldsmith
+- 2022-02-03 — Remembering Barry Cryer — speakers: Barry Cryer, Stuart Goldsmith
+- 2021-12-17 — 392B - Jimmy Carr Returns, Live! (Part Two) — speakers: Jimmy Carr, Stuart Goldsmith
+- 2021-12-13 — 392A - Jimmy Carr Returns, Live! (Part One) — speakers: Sean Lock, Jimmy Carr, Stuart Goldsmith
+- 2021-12-02 — 391 - Omid Djalili — speakers: Omid Djalili, Michael McIntyre, Whoopi Goldberg, Nish Kumar, James Acaster, Fern Brady, Everything Stu, Maria Kuzak, Stuart Goldsmith
+- 2021-11-25 — 390 - Foil Arms and Hog — speakers: Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-11-22 — 389 - Tom Stade Returns — speakers: Tom Stade, Ben Gott, Stuart Goldsmith
+- 2021-11-12 — 388 - NonComPod - Philippa Perry — speakers: Philippa Perry, Grayson Perry, Jimmy Carr, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-11-04 — 387 - Pierre Novellie — speakers: Pierre Novellie, Nish Kumar, James Acaster, Fern Brady, Phil Wang Watch, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-10-28 — 386 - Pan-Amble: Belonging — speakers: Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-10-21 — 385 - Aaron Chen — speakers: Aaron Chen, Alfie Brown, James Acaster, Fern Brady, Follow Aaron, Adult Swim, Everything Stu, Maria Kuzak, Stuart Goldsmith
+- 2021-10-14 — 384 - Adam Rowe — speakers: Adam Rowe, Dan Nightingale, Nish Kumar, James Acaster, Fern Brady, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-10-07 — 383 - Thanyia Moore — speakers: Thanyia Moore, Alfie Brown, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-09-30 — 382 - Harriet Kemsley — speakers: Harriet Kemsley, Bobby Mair, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-09-24 — 381 - Jonathan Coulton — speakers: Jonathan Coulton, Lawrence Lessig, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-08-05 — Mini Fringe Prelude — speakers: Mini Fringe Prelude, Edinburgh Fringe, Stuart Goldsmith
+- 2021-07-23 — 380 - CK (Caimh) McDonnell — speakers: Bunny McGarry, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-07-16 — 379 - Fin Taylor — speakers: Fin Taylor, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-07-08 — 378 - Stevie Martin — speakers: Stevie Martin, Massive Dad, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-07-01 — 377 - Paul Zerdin — speakers: Paul Zerdin Irrepressibly, Paul Zerdin, Nish Kumar, James Acaster, Alfie Brown, Fern Brady, Find Paul, paulzerdin TW, Stuart Goldsmith
+- 2021-06-24 — 376 - Josh Johnson — speakers: Josh Johnson, Nish Kumar, James Acaster, Alfie Brown, Fern Brady, Stuart Goldsmith
+- 2021-06-18 — 375 - Jessie Cave — speakers: Jessie Cave, Harry Potter, Nish Kumar, James Acaster, Fern Brady, Find Jessie, Stuart Goldsmith
+- 2021-06-10 — 374 - Piff The Magic Dragon (John Van Der Put) — speakers: John Van Der Put, bulletproof performer, Nish Kumar, James Acaster, Fern Brady, Stuart Goldsmith
+- 2021-05-27 — 373 - Greg Jenner — speakers: Greg Jenner, Nish Kumar, James Acaster, Alfie Brown, Fern Brady, Stuart Goldsmith
+- 2021-05-20 — 372 - Rosie Jones — speakers: Rosie Jones, Nish Kumar, Alfie Brown, Stuart Goldsmith
+- 2021-05-13 — 371 - Ian Moore — speakers: Ian Moore, Comedy Store, Alfie Brown, Fern Brady, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-05-06 — 370 - Stuart Laws — speakers: James Acaster, Turtle Canyon, Joel Dommett, Alfie Brown, Stuart Laws, Matt Winning, Maria Kuzak, Stuart Goldsmith
+- 2021-04-08 — 369 - Catherine Bohart — speakers: Catherine Bohart, James Acaster, Nish Kumar, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-04-01 — 368 - The Delightful Sausage — speakers: Amy Gledhill, Chris Cantrill, James Acaster, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-03-25 — 367 - Sooz Kempner — speakers: James Acaster, SoozUK Co-hosting, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-03-18 — 366 - Loyiso Gola Returns — speakers: James Acaster, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-03-11 — 365 - Ramon Rivas II — speakers: Ramon Rivas, Weed Comedy, James Acaster, blazerramon Ramon, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-03-05 — 364 - Olga Koch — speakers: Olga Koch, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-02-26 — 363 - Bethany Black — speakers: James Acaster, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-02-18 — 362 - Russell Kane — speakers: Russell Kane, Stewart Lee, James Acaster, Follow Russell, Maria Kuzak, Ben Gott, Stuart Goldsmith
+- 2021-02-11 — 361 - Tom Neenan — speakers: Tom Neenan Head, Tom Neenan, James Acaster, Tom Neenan Follow tneenan, Follow Tom’s Dr, Jenny Nicholson, Lindsey Ellis, Maria Kuzak, Stuart Goldsmith
+- 2021-02-04 — 360 - Jordan Brookes — speakers: Edinburgh Comedy Award, Jordan Brookes, James Acaster, Stu’s Infinite Sofa, Maria Kuzak, Stuart Goldsmith
+- 2020-12-24 — 359 - Aunty Donna Return! — speakers: Donna Return, James Acaster, Stu’s Infinite Sofa, Maria Kuzak, Stuart Goldsmith
+- 2020-12-17 — 358 - Nigel Ng Returns! — speakers: Uncle Roger, Nigel Ng, James Acaster, Stu’s Infinite Sofa, Maria Kuzak, Stuart Goldsmith
+- 2020-12-10 — 357 - Athena Kugblenu — speakers: Athena Kugblenu, James Acaster, Stuart Goldsmith
+- 2020-12-03 — 356 - James Acaster Returns, Again! (Part 2) — speakers: James Acaster Returns, James Acaster, Stuart Goldsmith
+- 2020-11-26 — 355 - James Acaster Returns, Again! (Part 1) — speakers: James Acaster Returns, James Acaster, Stuart Goldsmith
+- 2020-11-19 — 354 - Martin Mor — speakers: Martin Mor, Everything Stu, Stuart Goldsmith
+- 2020-11-12 — 353 - Colt Cabana — speakers: Colt Cabana, Brendon Burns, John Hastings, Toru Yano, Tw IG, Sara Barron, Stuart Goldsmith
+- 2020-10-29 — 352 - Alasdair Beckett-King — speakers: Sara Barron, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-10-15 — 351- Laurie Kilmartin — speakers: Laurie Kilmartin, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-10-08 — 350 - Mat Ewins — speakers: Mat Ewins, Harry Hill’s Club Nite, Download Mat, John Kearns, Harry Hill, WaTsUMudD TW, Dara O'Briain, Sarah Millican, Stuart Goldsmith
+- 2020-10-01 — 349 - Kim Noble — speakers: Kim Noble, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-09-24 — 348 - Erin Foley — speakers: Erin Foley, Deep Dive, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-09-17 — 347 - Paul Sinha Returns — speakers: Paul Sinha, Everything Stu, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-09-10 — 346 - Gary Gulman — speakers: Gary Gulman, Kurt Vonnegut, Dara O'Briain, Sarah Millican, Russell Howard, Stuart Goldsmith
+- 2020-09-03 — 345 - Larry Dean — speakers: Larry Dean, Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke, Stuart Goldsmith
+- 2020-06-18 — 344 - Archie Maddocks — speakers: Stu Goldsmith, Alex Horne, Ed Aczel, Thom Tuck, Kelly Convey, Alice Fraser, Marcus Brigstocke, Charlie George, Stuart Goldsmith
+- 2020-06-11 — 343 - Nigel Ng — speakers: Nigel Ng, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp, Stuart Goldsmith
+- 2020-06-04 — 342 - Catherine Cohen — speakers: Catherine Cohen, Stu Goldsmith, Rhod Gilbert, Sara Barron, Luisa Omelian, Josie Long, Sarah Millican, Rob Kemp, Stuart Goldsmith
+- 2020-05-26 — 341 - Sindhu Vee Returns — speakers: Jess Fostekew, Spencer Jones, Stu Goldsmith, Rhod Gilbert, Josh Widdicombe, Josie Long, Sarah Millican, Rob Kemp, Stuart Goldsmith
+- 2020-05-21 — 340 - Pope Lonergan — speakers: Pope Lonergan, Stu Goldsmith, Josh Widdicombe, Sindhu Vee, Josie Long, Sarah Millican, Rob Kemp, Russell Hicks, Stuart Goldsmith
+- 2020-05-14 — 339 - Brett Goldstein — speakers: Brett Goldstein, Stu Goldsmith, Nish Kumar, Suzi Ruffell, Anna Mann, Randy Feltface, Josie Long, Sarah Millican, Stuart Goldsmith
+- 2020-05-12 — SARAH MILLICAN & RUSSELL HOWARD ON THE INFINITE SOFA — speakers: Stu Goldsmith, Russell Howard, Sarah Millican, Iain Stirling, Laura Lexx, Alfie Brown, Anna Mann, Stuart Goldsmith
+- 2020-05-08 — 338 - Helen Zaltzman — speakers: Helen Zaltzman, Olly Mann, Josie Long, com helenzaltzman, Stuart Goldsmith
+- 2020-04-30 — 337 - Alonzo Bodden — speakers: Alonzo Bodden, Terry Crews, Stu Goldsmith, James Acaster, Sarah Millican, Jasky Singh, Stuart Goldsmith
+- 2020-04-23 — Special Episode: The "Infinite Sofa" & What To Do Next... — speakers: Stu Goldsmith, James Acaster, Sarah Millican, Stuart Goldsmith
+- 2020-04-16 — 336 - Robert Popper — speakers: Timewaster Robert Popper, Peter Serafinowicz, Stu Goldsmith, Sindhu Vee, Desiree Burch, Phil Ellis, Rob Rouse, Ben Milden, Stuart Goldsmith
+- 2020-04-10 — 335 - Scott Bennett — speakers: Scott Bennett, Rob Brydon, Jason Manford how, Pete Dobbing, Follow Scott, Stu Goldsmith, Ben Milden, Stuart Goldsmith
+- 2020-04-09 — LOCKDOWN SPECIAL - Alexander Bennett — speakers: Alexander Bennett, Stu Goldsmith, Stuart Goldsmith
+- 2020-04-02 — 334 - Robby Collins — speakers: Robby Collins, Trevor Noah, Dave Chapelle, Pete Dobbing, Stu Goldsmith, Ben Milden, Stuart Goldsmith
+- 2020-03-30 — 333 - Steve McNeil — speakers: Steve McNeil, Briain's Go, Pete Dobbing, Stu Goldsmith, Stuart Goldsmith
+- 2020-03-20 — 332 - Desiree Burch — speakers: Desiree Burch, dick pics, Pete Dobbing, Stu Goldsmith, Stuart Goldsmith
+- 2020-03-19 — Special Episode - Resilience, Self-care and Creativity — speakers: Pete Dobbing, Stuart Goldsmith
+- 2020-03-12 — 331 - Janey Godley — speakers: Janey Godley Superb, Janey Godley, Ashley Storrie, Pot Tour, Stuart Goldsmith, Edinburgh Fringe
+- 2020-03-05 — 330 - Alexei Sayle — speakers: Alexei Sayle, Sandwich Bar, Ben Elton, Ellen Frost, Stuart Goldsmith, Edinburgh Fringe
+- 2020-02-28 — 329 - Eshaan Akbar — speakers: Eshaan Akbar, Catch Eshaan, Stuart Goldsmith
+- 2020-02-20 — 328 - Seann Walsh — speakers: Seann Walsh, Stuart Goldsmith
+- 2020-02-13 — 327 - Matt Winning — speakers: Matt Winning, Stuart Goldsmith
+- 2020-02-06 — 326 - The Sklar Brothers — speakers: Twins Randy, Roast Battles, Farnham Maltings, Stuart Goldsmith
+- 2020-01-31 — 325 - Ninia Benjamin — speakers: Ninia Benjamin, Will Smith, Newcastle Stand, Stuart Goldsmith
+- 2020-01-23 — 324 - Jamali Maddix — speakers: Jamali Maddix, Stuart Goldsmith
+- 2020-01-16 — 323 - John Kearns — speakers: John Kearns, Best Newcomer, Jacques Tati, Neil Hamburger, Harry Hill, Chris Morris, Stuart Goldsmith
+- 2020-01-08 — Conan Debrief — speakers: Conan Debrief, Stuart Goldsmith
+- 2020-01-06 — 322 - Tom Basden — speakers: Tom Basden Returning, Tom Basden, Best Newcomer, Soho Theatre, Stuart Goldsmith
+- 2019-12-19 — 321 Santa Claus (and Herbie Treehead) — speakers: Santa Claus, Herbie Treehead, Comcompod Happy, Stuart Goldsmith
+- 2019-12-13 — 320 - Flo & Joan — speakers: Soho Theatre, Stuart Goldsmith
+- 2019-12-05 — 319 - Tim Renkow — speakers: Tim Renkow, Stuart Goldsmith
+- 2019-11-28 — 318 - Neil Hamburger (Gregg Turkington) — speakers: Gregg Turkington, Comcompod Weirdos Save, Stuart Goldsmith
+- 2019-11-14 — 317 - Matt Besser — speakers: Matt Besser, Del Close, Keith Johnstone, DirectTV Vod, Stuart Goldsmith
+- 2019-11-08 — 316 - Carl Hutchinson — speakers: Carl Hutchinson, Comedy Box, Stuart Goldsmith
+- 2019-10-31 — 315 - Chris Fleming — speakers: Chris Fleming, Nottingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-10-24 — 314 - Jimeóin — speakers: Nottingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-10-21 — 313 - The Kagools — speakers: Nicky Wilkinson, Claire Ford, Nottingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-10-10 — 312 - "Zach and Viggo" and Jonny Woolley — speakers: Jonny Woolley, Zach Zucker, Viggo Venn, Jack Tucker, Find Stu, Nottingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-10-03 — 311 - Sofie Hagen — speakers: Sofie Hagen, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-09-26 — 310 - Sara Barron — speakers: Sara Barron, sarabarron Catch, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-09-22 — 309 - Randy (Heath McIvor) — speakers: Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Dave Hill, Stuart Goldsmith
+- 2019-09-10 — 308 - Ellie Taylor — speakers: Ellie Taylor, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-09-05 — 307 - Rob Auton — speakers: Rob Auton, Kanye West, RobertAuton Dates, Stuart Goldsmith
+- 2019-08-29 — 306 - Joz Norris (Live at Edfringe 2019) — speakers: Joz Norris, co uk, Stuart Goldsmith
+- 2019-08-18 — 305 - Suzi Ruffell — speakers: Suzi Ruffell, Josh Widdicombe, Kevin Bridges, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-08-05 — 304 - Vikki Stone — speakers: Vikki Stone, Song Bird, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-07-30 — 303 - Pete Holmes (Live at Just For Laughs Montreal) — speakers: Pete Holmes, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-07-23 — 302 - Jayde Adams (Live at Southend Comedy Festival) — speakers: Jayde Adams, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-07-17 — 301 - Simon Brodkin — speakers: Simon Brodkin, Lee Nelson, SimonBrodkin Simon Brodkin, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-07-09 — 300 - Stuart Goldsmith — speakers: Stu Goldsmith, Sarah Millican, Tom Allen, Sindhu Vee, James Acaster, Ricky Gervais, Brett Goldstein, Herbie Treehead, Stuart Goldsmith
+- 2019-07-01 — 299 - Sam Jay — speakers: Sam Jay, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-06-25 — 298 - Nick Revell — speakers: Nick Revell, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-06-18 — 297 - Paul Smith — speakers: Paul Smith, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-06-11 — 296 - Markus Birdman — speakers: Markus Birdman, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-06-03 — 295 - Russell Hicks — speakers: Russell Hicks, Find Russell, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-05-28 — 294 - Ahir Shah — speakers: Ahir Shah, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-05-22 — 293 - Andi Osho — speakers: Andi Osho, Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-05-13 — 292 - JOSH WIDDICOMBE RETURNS (Live at Machynlleth Comedy Festival) — speakers: Edinburgh Fringe ComComPod, Stuart Goldsmith
+- 2019-05-07 — 291 - Bec Hill — speakers: Bec Hill, How Bec, Ed Fringe, Stuart Goldsmith
+- 2019-04-29 — 290 - Matt Braunger (Live at SXSW, Austin Texas) — speakers: Matt Braunger, Marc Maron, Stuart Goldsmith
+- 2019-04-22 — 289 - Deborah Frances-White — speakers: Deborah Frances-White, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings, Stuart Goldsmith
+- 2019-04-16 — 288 - Chris Addison — speakers: Chris Addison, Rebel Wilson, Anne Hathaway, Armando Iannucci, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings, Stuart Goldsmith
+- 2019-04-08 — 287 - Eugene Mirman, Live at SXSW — speakers: Eugene Mirman, EugeneMirman Get ad-free, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Farnham Maltings, Stuart Goldsmith
+- 2019-04-01 — 286 - Sindhu Vee (Live at Podfest Birmingham) — speakers: Sindhu Vee, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Stuart Goldsmith
+- 2019-03-26 — 285 - Roy Wood Jr, Live at SXSW — speakers: Roy Wood Jr, Ronny Chieng, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Stuart Goldsmith
+- 2019-03-18 — 284 - Kathy Griffin, Live at SXSW, Austin Texas. — speakers: Kathy Griffin, Donald Trump, Buy Fuck Trump, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Stuart Goldsmith
+- 2019-03-12 — 283 - Ben "Yahtzee" Croshaw — speakers: Blog Get, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club, Stuart Goldsmith
+- 2019-03-04 — 282 - Toby Hadoke — speakers: XS Mallarkey, Spike Milligan, Dead Parrot, Leamington Spa Royal Spa, Edinburgh Stand, Nottingham Glee Club Hosted, Stuart Goldsmith
+- 2019-02-28 — "Like I Mean It" Comedy Special now available for free! — speakers: Leamington Spa, Edinburgh Stand, Nottingham Glee Club, Birmingham Glee Club, Comedy Box, Stuart Goldsmith
+- 2019-02-25 — 281 - Jake Johannsen — speakers: Jake Johannsen, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-02-18 — 280 - Jeff Innocent — speakers: Jeff Innocent, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-02-11 — 279 - POLICE COPS (Live at Vault Festival) — speakers: Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-02-04 — 278 - Eggsy (Goldie Lookin Chain) AKA John Rutledge — speakers: John Rutledge, John Eggsy Rutledge, Mike Bubbins, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-02-01 — Remembering Jeremy Hardy — speakers: Jeremy Hardy, Mark Steele, Stuart Goldsmith
+- 2019-01-28 — 277 - Jessica Fostekew — speakers: Jessica Fostekew, Lauren Pattinson, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-01-21 — 276 - Ed Aczel — speakers: Ed Aczel, Edward Aczel, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2019-01-14 — 275 - Doc Brown — speakers: Ben Bailey Smith, Aka Doc Brown, Youtube Book, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-12-17 — 273 - Laura Davis — speakers: Laura Davis, Stuart Goldsmith
+- 2018-12-10 — 272 - John Robertson — speakers: John Robertson Creator, John Robertson, Twitter Robbotron Stu, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-12-03 — 271 - Laura Lexx — speakers: Laura Lexx, Jessica Fostekew, Catch Laura, Secret Santa, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-11-27 — A million bees? In just one hive? — speakers: Lise Richardson LiseRichardson, Stuart Goldsmith
+- 2018-11-26 — 270 - No Such Thing As A Fish (Live) — speakers: Andrew Hunter Murray, Anna Ptaszynski, Dan Schreiber, James Harkin, Twitter NoSuchThing Buy, Stu Goldsmith, Secret Santa, Stuart Goldsmith
+- 2018-11-19 — 269 - Sean Morley — speakers: Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-11-12 — 268 - Imran Yusuf — speakers: Imran Yusuf, Best Newcomer, Michael McIntyre, Comedy Roadshow, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-11-05 — 267 - Elf Lyons — speakers: com Enjoy, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-10-31 — Future Girl — speakers: Future Girl, Stuart Goldsmith
+- 2018-10-22 — 266 - Ismo Leikola — speakers: Mitch Hedberg, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-10-15 — 265 - Mark Thomas — speakers: Mark Thomas, Mark Thomas Tour, Leamington Spa Royal Spa, Stuart Goldsmith
+- 2018-10-08 — 264 - Janeane Garofalo — speakers: Janeane Garofalo, Stuart Goldsmith
+- 2018-10-01 — 263 - Garrett Millerick (Live at the Barn Theatre, Welwyn) — speakers: Garrett Millerick, Stuart Goldsmith
+- 2018-09-25 — 262 - Alice Fraser (Live at The Vintage Mobile Cinema, Edfringe) — speakers: Alice Fraser, Follow Alice, Ben Moorhouse, Cinema more, Stuart Goldsmith
+- 2018-09-17 — 261 - Alex Edelman — speakers: Alex Edelman, Stuart Goldsmith
+- 2018-09-10 — 260 - Jack Docherty — speakers: Jack Docherty, Cameron Miekelsonfrom, Stuart Goldsmith
+- 2018-09-03 — 259 - Rose Matafeo — speakers: Edinburgh Comedy Award, Rose Matafeo, Stuart Goldsmith
+- 2018-08-21 — 258 - Nick Thune — speakers: Nick Thune, Mitch Hedberg, Good Guy, Stuart Goldsmith
+- 2018-08-13 — 257 - Myq Kaplan — speakers: Myq Kaplan, Stuart Goldsmith
+- 2018-07-30 — 256 - Jen Brister (Live at Larmer Tree Festival) — speakers: Stuart Goldsmith
+- 2018-07-23 — 255 - Scummy Mummies — speakers: Ellie Gibson, Stuart Goldsmith
+- 2018-07-09 — 254 - Paul Foot — speakers: Paul Foot, Ed Fringe, Stuart Goldsmith
+- 2018-07-03 — 253 - The Raymond and Mr Timpkins Revue — speakers: Edinburgh Fringe, Robin Ince, Dara O'Briain, James Acaster, Stuart Goldsmith
+- 2018-06-25 — 252 - John Luke Roberts — speakers: Luke Roberts Splicing, John Luke Roberts, Thom Tuck, John Luke, Ed Fringe, Stuart Goldsmith
+- 2018-06-19 — 251 - Robin Ince — speakers: Robin Ince Comedian, Robin Ince, Dara O'Briain, James Acaster, Stuart Goldsmith
+- 2018-06-11 — 250 - Simon Evans — speakers: Guest Zero, Dara O'Briain, James Acaster, Stuart Goldsmith
+- 2018-06-04 — 249 - Anuvab Pal — speakers: Anuvab Pal, Russell Howard, James Acaster, Stuart Goldsmith
+- 2018-05-28 — 248 - Sophie Willan — speakers: Russell Howard, James Acaster, SophieWillan See Stu, Birmingham Glee, Stuart Goldsmith
+- 2018-05-21 — 247 - Ben Target — speakers: Ben Target, Edinburgh Fringe, Birmingham Glee, Stuart Goldsmith
+- 2018-05-15 — Shhhh... This one's [REDACTED] — speakers: Paul Foot, Stuart Goldsmith
+- 2018-05-14 — 246 - Anne Edmonds — speakers: Anne Edmonds See, Stuart Goldsmith
+- 2018-04-30 — 245 - Ron White (Live from SXSW) — speakers: Ron Tater Salad White, Ron White ron white, Henry Tudor House, Birmingham Glee, Stuart Goldsmith
+- 2018-04-23 — 244 - Tez Ilyas — speakers: Tez Ilyas, Stuart Goldsmith
+- 2018-04-16 — 243 - Beth Stelling (Live from SXSW) — speakers: Beth Stelling, Stuart Goldsmith
+- 2018-04-09 — 242 - Maria Bamford — speakers: Maria Bamford, Stuart Goldsmith
+- 2018-04-03 — 241 - Jeremy Dyson (The League of Gentlemen) — speakers: Andy Nyman, Jeremy Dyson, Stuart Goldsmith
+- 2018-04-02 — 240 - Andy Nyman — speakers: Andy Nyman, Jeremy Dyson, Derren Brown, Stuart Goldsmith
+- 2018-03-26 — 239 - James Davis (Live from SXSW) — speakers: James Davis, Will Smith, Stuart Goldsmith
+- 2018-03-19 — 238 - Maeve Higgins (SXSW) — speakers: Maeve Higgins, Marvellous Maeve Higgins, Find Maeve, Stuart Goldsmith
+- 2018-03-14 — 237 - Ola The Comedian — speakers: Stuart Goldsmith
+- 2018-03-08 — 236 - Julio Torres — speakers: Stuart Goldsmith
+- 2018-02-26 — 235 - Colin Hoult — speakers: Colin Hoult, Anna Mann, Stuart Goldsmith
+- 2018-02-18 — 234 - Arabella Weir — speakers: Arabella Weir, Stuart Goldsmith
+- 2018-02-14 — Compared To What — speakers: Stuart Goldsmith
+- 2018-02-09 — 233 - Jonathan Pie (Tom Walker & Andrew Doyle) — speakers: Jonathan Pie, Tom Walker, Stuart Goldsmith
+- 2018-01-18 — 232A - James Acaster: Returns (part two) — speakers: James Acaster, Buy Stu, Stuart Goldsmith
+- 2018-01-17 — 232 - James Acaster: Returns (part one) — speakers: James Acaster, Buy Stu, Stuart Goldsmith
+- 2017-12-19 — 231 - Jess Robinson — speakers: Stuart Goldsmith
+- 2017-12-04 — 229 - Zoe Coombs Marr — speakers: Stuart Goldsmith
+- 2017-11-28 — 228 - Howard Read — speakers: Howard Read, Stuart Goldsmith
+- 2017-11-21 — 22X - Brian Regan (Re-release) — speakers: Brian Regan, Stuart Goldsmith
+- 2017-11-13 — 227 - Sarah Kendall — speakers: Sarah Kendall, Stuart Goldsmith
+- 2017-10-30 — 226 - Sean Patton — speakers: Sean Patton, Buy Sean, Stuart Goldsmith
+- 2017-10-23 — 225 - Reginald D Hunter — speakers: Stuart Goldsmith
+- 2017-10-16 — 224 - Tim McGarry (Live at Belfast Comedy Festival) — speakers: Tim McGarry, Stuart Goldsmith
+- 2017-10-10 — 223 - Jo Caulfield — speakers: Jo Caulfield, Stuart Goldsmith
+- 2017-10-03 — 222 - Joe DeRosa — speakers: Joe DeRosa, Stuart Goldsmith
+- 2017-09-26 — 221 - Michael Legge (Live at Objectively Funny Festival) — speakers: Michael Legge, Stuart Goldsmith
+- 2017-09-18 — 220 - Sasheer Zamata — speakers: Sasheer Zamata, Stuart Goldsmith
+- 2017-09-11 — 219 - Sugar Sammy — speakers: Sugar Sammy, Stuart Goldsmith
+- 2017-09-04 — 218 - Liza Treyger — speakers: Liza Treyger, Stuart Goldsmith
+- 2017-08-27 — 217 - W Kamau Bell (Live at Just For Laughs Montreal) — speakers: Chris Rock, Stu Goldsmith, Stuart Goldsmith
+- 2017-08-07 — 216 - Andy Daly — speakers: Andy Daly, Comedy Bang Bang, Stu Goldsmith, Stuart Goldsmith
+- 2017-07-31 — 215 - Ivan Aristeguieta — speakers: Venezuelan Ivan, Stuart Goldsmith
+- 2017-07-26 — 214 - Nick Cody — speakers: Nick Cody, Stuart Goldsmith
+- 2017-07-17 — 213 - Simon Munnery — speakers: Simon Munnery, Stuart Goldsmith
+- 2017-07-10 — 212 - Orlando Baxter — speakers: Orlando Baxter, Stuart Goldsmith
+- 2017-07-03 — 211 - Barry Cryer — speakers: Barry Cryer Obe, Tommy Cooper, Kenny Everett, Stuart Goldsmith
+- 2017-06-27 — 210 - Pippa Evans — speakers: Pippa Evans, Stuart Goldsmith
+- 2017-06-20 — 209 - Ed Gamble (Live at Stonefree Festival) — speakers: Ed Gamble, Nish Kumar, Stuart Goldsmith
+- 2017-06-15 — Micro-pod: T-shirts! "Hell Week"! Wedding Amble! — speakers: Stuart Goldsmith
+- 2017-06-12 — 208 - Jo Brand (Live at Soho Theatre) — speakers: Jo Brand, Stuart Goldsmith
+- 2017-06-05 — 207 - Tom Ballard — speakers: Tom Ballard Multiple, Stuart Goldsmith
+- 2017-05-29 — 206 - Lost Voice Guy (AKA Lee Ridley) — speakers: Lee Ridley, Follow Lee, Stuart Goldsmith
+- 2017-05-22 — 205 - Rhys Nicholson — speakers: Rhys Nicholson, Stuart Goldsmith
+- 2017-05-15 — 204 - Jeremy Hardy (Live at Soho Theatre) — speakers: Jeremy Hardy, Stuart Goldsmith
+- 2017-05-08 — 203 - Aunty Donna — speakers: sound design, Stuart Goldsmith
+- 2017-04-11 — 202 - Hannah Gadsby (Live at Melbourne Comedy Festival) — speakers: Hannah Gadsby, Stuart Goldsmith
+- 2017-04-05 — 20X - Melbourne Comedy Festival 2017 Special Post-amble — speakers: Deanne Smith, Aunty Donna, Aaron Chen, Tom Walker, Ahir Shah, Becky Lucas, Rebecca Walker, Stuart Goldsmith
+- 2017-03-06 — 200 - Stewart Lee — speakers: Stewart Lee, Follow Stewart, Stu Goldsmith, Stuart Goldsmith
+- 2017-02-27 — 199 - Paul Chowdhry (Live at Soho) — speakers: Paul Chowdhry, Stu Goldsmith, Stuart Goldsmith
+- 2017-02-20 — 198 - Mark Forward — speakers: Mark Forward, Stu Goldsmith, Stuart Goldsmith
+- 2017-02-13 — 197 - Phil Wang — speakers: Phil Wang, Stu Goldsmith, Stuart Goldsmith
+- 2017-02-07 — 196 - Rachel Parris — speakers: Rachel Parris, Stu Goldsmith, Stuart Goldsmith
+- 2017-01-30 — 195 - Elis James and John Robins (Live from Soho Theatre) — speakers: John Robins, Elis James, Stu Goldsmith, Stuart Goldsmith
+- 2017-01-23 — 194 - Brian Regan — speakers: Brian Regan, Stu Goldsmith, Stuart Goldsmith
+- 2017-01-16 — 193 - Angela Barnes — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2017-01-09 — 192 - Elis James — speakers: Elis James, Stu Goldsmith, Stuart Goldsmith
+- 2016-12-19 — 191 - Pappy's Return — speakers: Return Pappys, Stuart Goldsmith
+- 2016-12-12 — 190 - Fern Brady — speakers: Fern Brady, Stu Goldsmith, Stuart Goldsmith
+- 2016-12-05 — 189 - Chris Gethard — speakers: Chris Gethard, Stuart Goldsmith
+- 2016-11-28 — 188 - Andy Askins — speakers: Andy Askins, Stu Goldsmith, Stuart Goldsmith
+- 2016-11-21 — 187 - Carmen Lynch — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-11-15 — 186 - Tony Law Returns — speakers: Tony Law Returns, Old Tone, Stuart Goldsmith
+- 2016-11-07 — 185 - Jonny And The Baptists — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-10-31 — 184 - Barry Crimmins — speakers: Barry Crimmins, Stu Goldsmith, Stuart Goldsmith
+- 2016-10-24 — 183 - Paul Currie — speakers: Paul Currie, Stu Goldsmith, Stuart Goldsmith
+- 2016-10-17 — 182 - Cameron Esposito — speakers: Cameron Esposito, Stu Goldsmith, Stuart Goldsmith
+- 2016-10-10 — 181 - John Robins — speakers: John Robins, Stu Goldsmith, Stuart Goldsmith
+- 2016-10-03 — 180 - Tim Minchin (Live at the Los Angeles Podcast Festival) — speakers: Multiple Tony, Olivier Award-winner, Tim Minchin, Royal Albert Hall, Stu Goldsmith, Stuart Goldsmith
+- 2016-09-26 — 179 - Loyiso Gola — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-09-18 — 178 - Lewis Black (Live at Just For Laughs, Montreal) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-09-12 — 177 - Tiff Stevenson (Live at Larmer Tree Festival) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-08-15 — 176 - Bill Burr — speakers: Bill Burr, Stuart Goldsmith
+- 2016-08-01 — 175 - Todd Barry — speakers: Todd Barry, Stu Goldsmith, Stuart Goldsmith
+- 2016-07-18 — 174 - Wendy Wason — speakers: Wendy Wason, Stu Goldsmith, Stuart Goldsmith
+- 2016-07-11 — 173 - Jinkx Monsoon — speakers: Jinkx Monsoon, Drag Race IV, Stu Goldsmith, Stuart Goldsmith
+- 2016-07-04 — 172 - Funmbi Omotayo — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-06-24 — 171 - Shappi Khorsandi — speakers: Stuart Goldsmith
+- 2016-06-13 — 170 - Russell Howard — speakers: Russell Howard Star, Russell Howard, Stuart Goldsmith
+- 2016-06-04 — 169 - Liam Williams — speakers: Liam Williams Rigorously, Liam Williams, Stu Goldsmith, Stuart Goldsmith
+- 2016-05-24 — 168 - Joe Lycett (Live at Machynlleth Comedy Festival) — speakers: Joe Lycett, Stuart Goldsmith
+- 2016-05-17 — 167 - Seymour Mace — speakers: Seymour Mace, Stu Goldsmith, Stuart Goldsmith
+- 2016-05-04 — 166 - Abigoliah Schamaun — speakers: Abigoliah Schamaun, Stu Goldsmith, Stuart Goldsmith
+- 2016-04-21 — 165 - Romesh Ranganathan (Live at Soho Theatre) — speakers: dizzying speed, Stuart Goldsmith
+- 2016-04-11 — 164 - Jimmy Carr (Part Two of Two) — speakers: Jimmy Carr, Stuart Goldsmith
+- 2016-04-04 — 164 - Jimmy Carr (Part One of Two) — speakers: Jimmy Carr, Stuart Goldsmith
+- 2016-03-26 — 163 - Mike Wilmot — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-03-19 — 162 - Tania Edwards — speakers: Tania Edwards, Stu Goldsmith, Stuart Goldsmith
+- 2016-03-11 — 161 - Dave Gorman (Live at Soho Theatre) — speakers: Dave Gorman, Stuart Goldsmith
+- 2016-03-07 — 160 - Gein's Family Giftshop — speakers: Family Giftshop Bird, Stu Goldsmith, Stuart Goldsmith
+- 2016-02-26 — 159 - Spencer Jones aka The Herbert (Live at Bob Slayer's Blundabus) — speakers: Spencer Jones, Bob Slayer, Barry Awards voted, Stu Goldsmith, Stuart Goldsmith
+- 2016-02-19 — 158 - Hari Kondabolu — speakers: Hari Kondabolu, Stu Goldsmith, Stuart Goldsmith
+- 2016-02-12 — 157 - Nathan Caton — speakers: Nathan Caton, Stu Goldsmith, Stuart Goldsmith
+- 2016-02-04 — 156 - Matt Kirshen — speakers: Matt Kirshen Wise, Matt Kirshen, Stu Goldsmith, Stuart Goldsmith
+- 2016-01-22 — 155 - Jena Friedman (Live at the Edinburgh Fringe) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2016-01-16 — 154 - Mark Steel (Live at the Edinburgh Fringe) — speakers: Mark Steel, Stu Goldsmith, Stuart Goldsmith
+- 2016-01-08 — 153 - Isy Suttie (Live at the Soho Theatre) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2015-12-19 — 152 - Daniel Sloss (Live at the Edinburgh Fringe) — speakers: Daniel Sloss, Stu Goldsmith, Stuart Goldsmith
+- 2015-12-10 — 151 - Ronny Chieng (Live at the Edinburgh Fringe) — speakers: Ronny Chieng, Bill Burr, Stu Goldsmith, Stuart Goldsmith
+- 2015-11-27 — 150 - Stewart Francis (Live at the Edinburgh Fringe) — speakers: Stewart Francis, Stu Goldsmith, Stuart Goldsmith
+- 2015-11-21 — 149 - Will Durst (Live at the Edinburgh Fringe) — speakers: Will Durst, Stu Goldsmith, Stuart Goldsmith
+- 2015-11-14 — 148 - Aisling Bea (Live at the Edinburgh Fringe) — speakers: Aisling Bea, Stu Goldsmith, Stuart Goldsmith
+- 2015-11-04 — 147 - Jason Byrne (Live at the Edinburgh Fringe) — speakers: Jason Byrne, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-23 — 146 - Dave Anthony — speakers: Dave Anthony Known, Dave Anthony, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-19 — 145A - Jimmy Pardo (Part Two of Two) — speakers: Jimmy Pardo, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-16 — 145 - Jimmy Pardo (Part One of Two) — speakers: Jimmy Pardo, Conan O'Brien, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-12 — 144A - Todd Glass (Part Two of Two) — speakers: Todd Glass, David Cross, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-10 — 144 - Todd Glass (Part One of Two) — speakers: Todd Glass, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-07 — 143 - Jackie Kashian — speakers: Jackie Kashian, Head Ranger, Maria Bamford, Stu Goldsmith, Stuart Goldsmith
+- 2015-10-02 — 142 - Joel Dommett (Live at the Edinburgh Fringe) — speakers: Steve Dunne, knifey knifey, Stuart Goldsmith
+- 2015-09-25 — 141 - Matt Lucas — speakers: Matt Lucas, George Dawes, David Walliams, Stu Goldsmith, Stuart Goldsmith
+- 2015-09-18 — 140 - Mae Martin (Live at the Edinburgh Fringe) — speakers: Mae Martin, Stu Goldsmith, Stuart Goldsmith
+- 2015-09-12 — 139 - Tommy Tiernan (Live at the Edinburgh Fringe) — speakers: Tommy Tiernan, Stu Goldsmith, Stuart Goldsmith
+- 2015-09-04 — 138 - John Lloyd (Live at the Edinburgh Fringe) — speakers: John Lloyd, Stu Goldsmith, Stuart Goldsmith
+- 2015-08-24 — 137 - Katherine Ryan (Live at the Edinburgh Fringe) — speakers: Katherine Ryan, Frankie Boyle, Joan Rivers, Bette Midler, Kirstie Allsopp, Joe Lycett, Daniel Sloss, Aisling Bea, Stuart Goldsmith
+- 2015-08-16 — 136 - Justin Moorhouse — speakers: Justin Moorhouse, Destiny Calling, Peter Kay, Alfie Joey, Jason Manford, John Bishop, Ross Noble, Paul Sinha, Stuart Goldsmith
+- 2015-08-09 — 135 - Charlie Baker (Live at Latitude Festival) — speakers: Charlie Baker, Andy Parsons, Dominic Holland, Harry Hill, Andre Agassi, Comic Relief, Stuart Goldsmith
+- 2015-08-02 — 134 - Andy Kindler — speakers: Andy Kindler, Jerry Seinfeld, Steven Wright, Mitch Hedberg, James Adomian, Richard Gere, Ben Stiller, Adam Sandler, Stuart Goldsmith
+- 2015-07-30 — 133 - Patton Oswalt (Live at Just For Laughs, Montreal) — speakers: Patton Oswalt, Kyle Kinane, Alan Moore, Louis CK, Dave Chappelle, Tony Woods, George Lucas, James Joyce, Stuart Goldsmith
+- 2015-07-29 — 132 - Moshe Kasher — speakers: Moshe Kasher, Bill Burr, Steven Wright, Robert Schimmel, Todd Barry, Patton Oswalt, Ron Hubbard, Ben Stiller Hosted, Stuart Goldsmith
+- 2015-07-28 — 131 - Jen Kirkman — speakers: Jen Kirkman, Dave Chappelle, Kurt Metzger, Chelsea Handler, Marc Maron, Bll Burr, Steve Bennett, Alan Cumming, Stuart Goldsmith
+- 2015-07-27 — 130 - George Egg — speakers: George Egg, Robin Ince, Will Smith, Edinburgh Fringe, Chris Eubank, Monkey Tennis Hosted, Stuart Goldsmith
+- 2015-07-17 — 129 - Adam Buxton (Live at Soho Theatre) — speakers: Adam Buxton, Joe Cornish, Stuart Goldsmith
+- 2015-07-10 — 128 - Daliso Chaponda (Live at Darlington Comedy Festival) — speakers: Chaponda Malawi, Eddie Murphy, Roger Ebert Hosted, Stuart Goldsmith
+- 2015-07-03 — 127 - Gavin Webster (Live) — speakers: Gavin Webster, Adam Buxton, Stewart Lee, Paul Foot, Jo Brand, Ross Noble, Bill Hicks, Harry Hill, Stuart Goldsmith
+- 2015-06-26 — 126 - Nazeem Hussain — speakers: Nazeem Hussain, Adam Buxton, Stuart Goldsmith
+- 2015-06-19 — 125 - Dara Ó Briain — speakers: Stuart Goldsmith
+- 2015-06-12 — 124 - Ian Stone — speakers: Ian Stone, Adam Buxton, George Carlin, Michael McIntyre, Jenny Eclair, Rich Hall, Dylan Moran, Jerry Sadowitz, Stuart Goldsmith
+- 2015-06-05 — 123 - Wil Anderson (Live) — speakers: Wil Anderson, Adam Buxton, Stewart Lee, Daniel Kitson, Festival Comedian, Bill Burr, George Carlin, Bill Hicks, Stuart Goldsmith
+- 2015-05-29 — 122 - Zoe Lyons — speakers: Festival Comedian, Jo Brand, Russell Kane, James Acaster, Ben Elton, Robin Williams, Jo Caulfield, Kerry Godliman, Stuart Goldsmith
+- 2015-05-22 — 121 - Mitch Benn (Live) — speakers: Mitch Benn, Daniel Kitson, Alternative Comedy, Charlie Brooker, Ross Noble, Mark Thomas, Comedy Music, Harry Shearer, Stuart Goldsmith
+- 2015-05-15 — 120 - Mark Watson (Live) — speakers: Mark Watson, Stewart Lee, David O'Doherty, Daniel Kitson, Festival Comedian, Paul Foot, Tim Key, Michael McIntyre, Stuart Goldsmith
+- 2015-05-08 — 119 - Nina Conti (Live) — speakers: Nina Conti, Ken Campbell, Daniel Kitson, Touring Comedian, Jeff Dunham, Dr Brown, Phil Burgers, Stuart Goldsmith
+- 2015-05-01 — 118 - The Midnight Beast — speakers: melodic dick-jokes, Nina Conti, Comedy Central, Joe Lycett, Family Guy, Stuart Goldsmith
+- 2015-04-24 — 117 - Nick Mohammed — speakers: Nick Mohammed, Mr Swallow, Nina Conti, Festival Comedian, Stefan Golaszewski, Julia Davis, Matt Damon, Ridley Scott, Stuart Goldsmith
+- 2015-04-17 — 116 - Des Bishop (Live) — speakers: Russell Kane, Jason Byrne, Steve Bennett, Fringe Hosted, Stuart Goldsmith
+- 2015-04-10 — 115 - Gina Yashere — speakers: Russell Peters, Gina Yashere, Stewart Lee, Michael McIntyre, Greg Proops, Jay Leno, Def Comedy Jam, Def Jam, Stuart Goldsmith
+- 2015-04-03 — 114A - John Gordillo (2 of 2) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2015-03-27 — 114 - John Gordillo (1 of 2) — speakers: Michael McIntyre, John Gordillo, Stu Goldsmith, Stuart Goldsmith
+- 2015-03-20 — 113A - Tim Key (2 of 2) — speakers: Alex Horne, Mark Watson, Stuart Goldsmith
+- 2015-03-13 — 113 - Tim Key (1 of 2) — speakers: Tim Key, Alan Partridge, Festival Comedian, Philippe Gaulier, Alex Horne, Mark Watson, Steve Coogan, David Baddiel Hosted, Stuart Goldsmith
+- 2015-03-06 — 112 - Liz Miele — speakers: Liz Miele, Stuart Goldsmith
+- 2015-02-27 — 111 - Brendon Burns — speakers: Brendon Burns, Stuart Goldsmith
+- 2015-02-20 — 110 - Lou Sanders — speakers: Lou Sanders, Stuart Goldsmith
+- 2015-02-13 — 109 - Andrew O'Neill — speakers: Andrew O'Neill, Stuart Goldsmith
+- 2015-02-06 — 108 - Harley Breen — speakers: festival act, Stuart Goldsmith
+- 2015-01-29 — 107 - Urzila Carlson — speakers: Urzila Carlson, Stuart Goldsmith
+- 2015-01-24 — 106 - Thom Tuck — speakers: Thom Tuck, Stuart Goldsmith
+- 2015-01-15 — 105 - Katy Wix — speakers: Katy Wix, Stuart Goldsmith
+- 2015-01-08 — 104 - Alfie Brown — speakers: Alfie Brown Alfie Brown, Stuart Goldsmith
+- 2014-12-24 — Christmas Mega Pod with Carl Donnelly and Chris Martin — speakers: Carl Donnelly, Stuart Goldsmith
+- 2014-12-18 — 103 - Mickey "D" Dwyer — speakers: Stuart Goldsmith
+- 2014-12-04 — 101 - Nish Kumar — speakers: Nish Kumar, Stuart Goldsmith
+- 2014-11-27 — 100 - Phil Kay (Live) — speakers: Phil Kay, Stuart Goldsmith
+- 2014-11-20 — 99 - Luisa Omielan — speakers: Soho Theatre, Suzi Ruffell, XS Malarkey, Debi Allen, Caroline Rhea, Whoopi Goldberg, Stuart Goldsmith
+- 2014-11-13 — 98A - Ross Noble (2 of 2) — speakers: Ross Noble, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson, Stuart Goldsmith
+- 2014-11-06 — 98 - Ross Noble (1 of 2) — speakers: Ross Noble, Russell Brand, Bill Bailey, Boothy Graffoe, Stewart Lee, Harry Hill, Billy Connolly, Joe Wilkinson, Stuart Goldsmith
+- 2014-10-30 — 97 - Prince Abdi — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2014-10-23 — 96B - David Cross "Clapping In the Usa" Exclusive Deleted Track from "It's Not Funny" (2014, Sub Pop) — speakers: David Cross, Jon Benjamin, David Hosted, Stuart Goldsmith
+- 2014-10-23 — 96A - David Cross (2 of 2) — speakers: David Cross, Stuart Goldsmith
+- 2014-10-16 — 96 - David Cross (1 of 2) — speakers: David Cross, Stuart Goldsmith
+- 2014-10-09 — 95 - Trygve Wakenshaw — speakers: Trygve Wakenshaw Bloody, Dr Brown, Phil Burgers, Barry Awards, Vikki Stone, Steen Raskopoulos, Red Bastard, Benjamin Crellin, Stuart Goldsmith
+- 2014-10-02 — 94 - Tom Stade (Live) — speakers: Tom Stade, Gary Delaney, Micky Flanagan, Stephen Fry, Craig Campbell, Stuart Goldsmith, John Hastings, Doug Stanhope
+- 2014-09-25 — 93 - Eleanor Tiernan — speakers: Eleanor Tiernan, Free Fringe, Laughter Lounge, Tommy Tiernan, Mrs Brown's Boys, Chris Brown, Stewart Lee, Andrew Lawrence, Stuart Goldsmith
+- 2014-09-17 — 92 - Josie Long (Live) — speakers: Josie Long, Stuart Goldsmith
+- 2014-09-10 — 91 - Steen Raskopoulos — speakers: Steen Raskopoulos, Edinburgh Best Newcomer, Edinburgh Best Newcomer Nomination, Paul Byrne, Adam Riches, Lynsey Hanley, Jordan Raskopoulos, Eric Bana, Stuart Goldsmith
+- 2014-09-05 — 90 - Bridget Christie (Live) — speakers: Bridget Christie, Stewart Lee, Edinburgh Fringe Festival, Fosters Comedy Award, David Trent, Alternative Comedy Memorial Society, Sam Simmons, Alison Vernon-Smith, Stuart Goldsmith
+- 2014-08-27 — 89 - Phill Jupitus (Live) — speakers: Phill Jupitus, Josie Long, Bridget Christie, Sara Pascoe, Deborah Francis-White, Nadia Kamil, Alternative Comedy Memorial Society, Malcolm Hardee, Stuart Goldsmith
+- 2014-08-14 — 88 - Sam Simmons (Live) — speakers: Sam Simmons, Paul Foot, Mike Wilmot, Noel Fielding, Graeme Garden, Bob Slayer, James Acaster, Hannibal Burress, Stuart Goldsmith
+- 2014-08-06 — 87A - Edfringe Mini Ep — speakers: Edinburgh Fringe, Stuart Goldsmith
+- 2014-07-30 — 87 - John Hastings — speakers: John Hastings, Edinburgh Fringe Festival, Comedy Store, Imran Yusuf, Josh Widdicombe, Patton Oswalt, Michael McIntyre, Tony Law, Stuart Goldsmith
+- 2014-07-23 — 86 - Noel James — speakers: Noel James, Gavin Webster, James Joyce, Dylan Thomas, Spike Milligan, Mark Thomas, Kevin Day, Maria Callas, Stuart Goldsmith
+- 2014-07-17 — 85 - Kyle Kinane — speakers: Kyle Kinane, Eddie Pepitone, Kurt Braunohler, Mitch Hedburg, Charles Bukowski, Dave Attell, Stuart Goldsmith
+- 2014-07-10 — 84 - Nick Doody — speakers: Nick Doody, Jim Jefferies, Ben Moore, Wayne Shepherd, Arnold Brown, Stephen Fry, Bill Hicks, Jack Dee, Stuart Goldsmith
+- 2014-07-02 — 83 - Aamer Rahman — speakers: Aamer Rahman, Reverse Racism, Nazeem Hussain, Nabil Abdul Rashid, Stuart Goldsmith
+- 2014-06-25 — 82 - Andy Zaltzman — speakers: Andy Zaltzman, John Oliver, Karen Taylor, Danny Bhoy, Spencer Brown, Daniel Kitson, David O'Doherty, Ross Noble, Stuart Goldsmith
+- 2014-06-19 — 81 - Adrienne Truscott — speakers: Adrienne Truscott, Stuart Goldsmith
+- 2014-06-11 — 80 - Jarred Christmas — speakers: Stuart Goldsmith
+- 2014-06-05 — 79 - Luke Heggie — speakers: Luke Heggie, Stuart Goldsmith
+- 2014-05-28 — 78 - Michele A'Court — speakers: Michele A'Court, Stuart Goldsmith
+- 2014-05-22 — 77 - Tom Wrigglesworth — speakers: Tom Wrigglesworth, Stuart Goldsmith
+- 2014-05-15 — 76 - Ben Hurley — speakers: Ben Hurley, Stuart Goldsmith
+- 2014-04-30 — 75 - Carey Marx (Live) — speakers: Carey Marx, Stuart Goldsmith
+- 2014-04-25 — 74 - Claudia O'Doherty (Live) — speakers: Claudia O'Doherty, Stuart Goldsmith
+- 2014-04-17 — 73 - Max And Ivan (Live) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2014-04-09 — 72 - David O'Doherty (Live) — speakers: David O'Doherty, Stu Goldsmith, Stuart Goldsmith
+- 2014-04-03 — 71 - Kerry Godliman — speakers: Kerry Godliman, Stu Goldsmith, Stuart Goldsmith
+- 2014-03-25 — 70 - Tim Vine (Live) — speakers: Tim Vine, Stuart Goldsmith
+- 2014-03-19 — 69 - Ed Byrne (Live) — speakers: Ed Byrne, Stu Goldsmith, Stuart Goldsmith
+- 2014-03-12 — 68 - Sean Hughes (Live) — speakers: Sean Hughes, Stu Goldsmith, Stuart Goldsmith
+- 2014-03-05 — 67 - Gary Delaney (Live) — speakers: Gary Delaney, Simon Munnery, Harry Hill, Stewart Lee, Stephen Wright, Tim Vine, Tony Law, Martin Lewis, Stuart Goldsmith
+- 2014-02-27 — 66 - Will Franken (Live) — speakers: Will Franken, Stu Goldsmith, Stuart Goldsmith
+- 2014-02-20 — 65 - Nick Helm (Live) — speakers: Nick Helm, Stu Goldsmith, Stuart Goldsmith
+- 2014-02-12 — 64 - Tony Law (Live) — speakers: Tony Law, Stu Goldsmith, Stuart Goldsmith
+- 2014-02-06 — 63 - Marcus Brigstocke (Live) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2014-01-29 — 62 - Norman Lovett (Live) — speakers: Norman Lovett, Stu Goldsmith, Stuart Goldsmith
+- 2014-01-23 — 61 - Bo Burnham (Live) — speakers: Bo Burnham, Stu Goldsmith, Stuart Goldsmith
+- 2014-01-15 — 60 - Susan Calman (Live) — speakers: Susan Calman, Stu Goldsmith, Stuart Goldsmith
+- 2014-01-08 — 59 - Rob Delaney (Live) — speakers: Rob Delaney, Stu Goldsmith, Stuart Goldsmith
+- 2013-12-30 — 58 - Sarah Millican Returns (Live) — speakers: Sarah Millican, Stu Goldsmith, Stuart Goldsmith
+- 2013-12-16 — 57 - Jason Manford (Live) — speakers: Jason Manford, Stu Goldsmith, Stuart Goldsmith
+- 2013-12-11 — 56 - Andrew Maxwell (Live) — speakers: Andrew Maxwell, Stu Goldsmith, Stuart Goldsmith
+- 2013-11-27 — 55 - Milton Jones (Live) — speakers: Milton Jones, Stu Goldsmith, Stuart Goldsmith
+- 2013-11-12 — 54 - David Baddiel (Live) — speakers: David Baddiel, Edinburgh Fringe, Stu Goldsmith, Stuart Goldsmith
+- 2013-10-29 — 53 - Al Murray (Live) — speakers: Al Murray, Stuart Goldsmith
+- 2013-10-16 — 52 - The Pajama Men (Live) — speakers: Pajama Men, Edinburgh Fringe, Stu Goldsmith, Stuart Goldsmith
+- 2013-10-01 — 51 - Phil Nichol (Live) — speakers: Phil Nichol, Stu Goldsmith, Stuart Goldsmith
+- 2013-09-18 — 50 - Greg Proops (Live) — speakers: Stuart Goldsmith
+- 2013-09-12 — 49 - Hal Cruttenden (Live) — speakers: Hal Cruttenden, Stu Goldsmith, Stuart Goldsmith
+- 2013-09-01 — 48 - Marcel Lucont and Alexis Dubus — speakers: Alexis Dubus, Stu Goldsmith, Stuart Goldsmith
+- 2013-08-09 — 47 - Brendon Burns (Live) — speakers: Brendon Burns, Edinburgh Fringe, Stu Goldsmith, Stuart Goldsmith
+- 2013-07-17 — 46A - Richard Herring (2 of 2) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-07-10 — 46 - Richard Herring (1 of 2) — speakers: Richard Herring, Stu Goldsmith, Stuart Goldsmith
+- 2013-06-24 — 45 - Jarlath Regan — speakers: Jarlath Regan How, Jarlath Regan, Stu Goldsmith, Stuart Goldsmith
+- 2013-06-11 — 44 - Milo McCabe — speakers: Phil Burgers, Stu Goldsmith, Stuart Goldsmith
+- 2013-06-05 — 43 - Benny Boot (Live) — speakers: Benny Boot, Stu Goldsmith, Stuart Goldsmith
+- 2013-05-22 — 41 - Tom Gleeson — speakers: Tom Gleeson, Stu Goldsmith, Stuart Goldsmith
+- 2013-05-14 — 40 - Alasdair Tremblay-Birchall — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-05-08 — 39 - Felicity Ward — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-05-01 — 38 - Tom Allen — speakers: Tom Allen, Stu Goldsmith, Stuart Goldsmith
+- 2013-04-24 — 37 - Geraldine Hickey — speakers: Geraldine Hickey, Stu Goldsmith, Stuart Goldsmith
+- 2013-04-16 — 36 - David Quirk — speakers: David Quirk, Stu Goldsmith, Stuart Goldsmith
+- 2013-04-10 — 35 - Asher Treleaven — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-04-02 — 34 - Clarke MacFarlane — speakers: Clarke MacFarlane, Stu Goldsmith, Stuart Goldsmith
+- 2013-03-27 — 33 - Lindsay Webb — speakers: Lindsay Webb, Stu Goldsmith, Stuart Goldsmith
+- 2013-03-12 — 32 - Carl Donnelly — speakers: Carl Donnelly, Stu Goldsmith, Stuart Goldsmith
+- 2013-03-05 — 31 - Heath "Chopper" Franklin — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-02-28 — 30 - Jim Jefferies (Live) — speakers: Jim Jefferies, Stu Goldsmith, Stuart Goldsmith
+- 2013-02-21 — 29 - Rhod Gilbert (Live) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2013-02-12 — 28 - James Acaster (Live) — speakers: James Acaster, Edinburgh Award, Stuart Goldsmith
+- 2013-02-05 — 27 - Rob Rouse — speakers: Rob Rouse, Stu Goldsmith, Stuart Goldsmith
+- 2013-01-29 — 26 - Stephen Grant — speakers: Stephen Grant, Seann Walsh, Russell Kane, Stu Goldsmith, Stuart Goldsmith
+- 2013-01-22 — 25a - All Day Edinburgh (Live) — speakers: Michael Legge, Stu Goldsmith, Stuart Goldsmith
+- 2013-01-16 — 25 - Terry Alderton (Live) — speakers: Terry Alderton, Stu Goldsmith, Stuart Goldsmith
+- 2013-01-09 — 24 - Pappys (Live) — speakers: Stuart Goldsmith
+- 2012-12-18 — 23 - Dr Brown (Phil Burgers) — speakers: Phil Burgers, Stu Goldsmith, Stuart Goldsmith
+- 2012-12-11 — 22 - Abandoman (Live) — speakers: Rob Broderick, Stu Goldsmith, Stuart Goldsmith
+- 2012-12-04 — 21 - Mike Gunn — speakers: Mike Gunn Mike Gunn, Stu Goldsmith, Stuart Goldsmith
+- 2012-11-28 — 20 - Eddie Pepitone (Live) — speakers: Eddie Pepitone, Edinburgh Fringe, Stu Goldsmith, Stuart Goldsmith
+- 2012-11-20 — 19 - Hannibal Buress (Live) — speakers: Chris Rock, Edinburgh Fringe, Stu Goldsmith, Stuart Goldsmith
+- 2012-11-13 — 18 - The Boy With Tape On His Face (Live) — speakers: Sam Wills, Physical Comedy, Tim Burton, Silent Comedy, Stuart Goldsmith
+- 2012-11-06 — 17 - Mark Maier — speakers: Mark Maier, Stu Goldsmith, Stuart Goldsmith
+- 2012-10-30 — 16 - Alan Davies (Live) — speakers: Alan Davies, Jonathan Creek, Stu Goldsmith, Stuart Goldsmith
+- 2012-10-22 — 15 - Josh Widdicombe — speakers: Josh Widdicombe, Stuart Goldsmith
+- 2012-10-16 — 14 - Celia Pacquola — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2012-10-10 — 13 - Fred Macaulay (Live) — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2012-10-03 — 12 - Noel Britten — speakers: Noel Britten Noel, Stu Goldsmith, Stuart Goldsmith
+- 2012-09-19 — 11 - Sara Pascoe (Live) — speakers: Sara Pascoe, Stu Goldsmith, Stuart Goldsmith
+- 2012-07-31 — 10 - Liam Mullone — speakers: Tim Minchin, Stu Goldsmith, Stuart Goldsmith
+- 2012-07-24 — 9 - Alun Cochrane — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2012-07-03 — 8 - Arthur Smith — speakers: Stu Goldsmith, Stuart Goldsmith
+- 2012-06-19 — 7 - Sarah Millican — speakers: Sarah Millican, Stuart Goldsmith
+- 2012-06-05 — 6 - Adam Bloom — speakers: Adam Bloom Adam Bloom, Stuart Goldsmith
+- 2012-05-23 — 5 - Paul Sinha — speakers: Marcus Brigstocke, Steve Hughes, Hal Cruttenden, Ian Stone, Alastair Barrie, Jim Davidson, David Cameron, Cutting Edge, Stuart Goldsmith
+- 2012-05-09 — 4 - Ben Norris — speakers: Clapham Jongleurs, Noel James, Ivor Dembina, Patrick Marber, Paul Tonkinson, Rudi Lickwood, Victoria Coren, Comedy Store, Stuart Goldsmith
+- 2012-04-25 — 3 - Dan Antopolski — speakers: Dan Antopolski, Purple Turtle, Lenny Henry, Ben Elton, Harry Enfield, Rich Hall, Stewart Lee, Harry Hill, Stuart Goldsmith
+- 2012-04-11 — 2 - Dan Evans — speakers: Dan Evans, Jo Caulfield, George Egg, Comedy Cafe, Bill Bailey, Richard Curtis, Stuart Goldsmith
+- 2012-03-19 — 1 - Rob Deering — speakers: Stuart Goldsmith, Rob Deering
