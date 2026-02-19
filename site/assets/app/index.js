@@ -1707,12 +1707,46 @@ import { initDataPanel } from "./data_panel.js";
 
   function initPwa() {
     if (!("serviceWorker" in navigator)) return;
-    window.addEventListener("load", function () {
+    function register() {
       var basePath = getBasePath();
+      var url = basePath + "sw.js";
+      try {
+        console.log("[pwa] registering", { url: url, scope: basePath });
+      } catch (_e) {}
       navigator.serviceWorker
-        .register(basePath + "sw.js", { scope: basePath })
-        .catch(function () {});
-    });
+        .register(url, { scope: basePath })
+        .then(function (reg) {
+          try {
+            console.log("[pwa] registered", {
+              scope: reg && reg.scope,
+              active: Boolean(reg && reg.active),
+              installing: Boolean(reg && reg.installing),
+              waiting: Boolean(reg && reg.waiting),
+            });
+          } catch (_e2) {}
+        })
+        .catch(function (err) {
+          try {
+            console.warn("[pwa] register failed", err);
+          } catch (_e3) {}
+        });
+
+      try {
+        navigator.serviceWorker.addEventListener("controllerchange", function () {
+          try {
+            console.log("[pwa] controllerchange", {
+              hasController: Boolean(navigator.serviceWorker && navigator.serviceWorker.controller),
+            });
+          } catch (_e4) {}
+        });
+      } catch (_e5) {}
+    }
+
+    if (document.readyState === "complete") {
+      register();
+    } else {
+      window.addEventListener("load", register);
+    }
   }
 
   function initProgress() {

@@ -10,18 +10,48 @@ export function initOffline(deps) {
 
   function swRequest(msg) {
     return new Promise(function (resolve) {
-      if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
-        resolve({ ok: false, error: "Service worker not active yet (installable PWA; reload once after install)." });
+      function send() {
+        if (!("serviceWorker" in navigator) || !navigator.serviceWorker.controller) {
+          resolve({ ok: false, error: "Service worker is not controlling this page (yet). Check console for [pwa] logs and try a refresh." });
+          return false;
+        }
+        try {
+          var ch = new MessageChannel();
+          ch.port1.onmessage = function (e) {
+            resolve((e && e.data) || { ok: false, error: "No response" });
+          };
+          navigator.serviceWorker.controller.postMessage(msg, [ch.port2]);
+          return true;
+        } catch (e) {
+          resolve({ ok: false, error: String(e || "SW message failed") });
+          return true;
+        }
+      }
+
+      // Controller can be null briefly right after register/activate; wait a moment for controllerchange.
+      if (!("serviceWorker" in navigator) || navigator.serviceWorker.controller) {
+        send();
         return;
       }
       try {
-        var ch = new MessageChannel();
-        ch.port1.onmessage = function (e) {
-          resolve((e && e.data) || { ok: false, error: "No response" });
-        };
-        navigator.serviceWorker.controller.postMessage(msg, [ch.port2]);
-      } catch (e) {
-        resolve({ ok: false, error: String(e || "SW message failed") });
+        var done = false;
+        var timer = setTimeout(function () {
+          if (done) return;
+          done = true;
+          send();
+        }, 1200);
+        navigator.serviceWorker.addEventListener(
+          "controllerchange",
+          function () {
+            if (done) return;
+            done = true;
+            clearTimeout(timer);
+            send();
+          },
+          { once: true }
+        );
+      } catch (_e) {
+        send();
       }
     });
   }
