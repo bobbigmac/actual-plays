@@ -67,6 +67,25 @@ Note: `cache/` is gitignored for local development. The GitHub Action persists i
 
 The generated site is a basic PWA (manifest + service worker) and stores per-episode playback progress + “continue listening” history in the browser.
 
+## GitHub Actions deployment (per-repo config)
+
+The workflow is designed so you can keep the **code identical** across multiple repos, but have each repo deploy a different site variant by setting repo-scoped **Actions variables**.
+
+In each repo:
+
+1. Go to `Settings → Secrets and variables → Actions → Variables`.
+2. Set:
+
+   * `AP_FEEDS` — which feeds config to build (e.g. `feeds.md`, `feeds.other.md`, `feeds.actualplays.md`).
+   * `AP_BASE_PATH` — where the site is hosted (important for assets/manifest links), e.g.:
+     * `/` (site at domain root)
+     * `/podcasts/` (site at `https://example.com/podcasts/`)
+   * Optional:
+     * `AP_CACHE` — cache directory name (default `cache`), e.g. `cache.other`.
+     * `AP_CACHE_BRANCH` — cache git branch name (default `cache`), e.g. `cache-other`.
+
+If `AP_BASE_PATH` is wrong, the HTML will load but assets will 404 (because pages will reference `/assets/...` instead of `/<base>/assets/...`).
+
 ## URL structure
 
 Pages are generated as “root slugs” under your configured `site.base_path`:
