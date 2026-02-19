@@ -10,8 +10,9 @@
       "slug": "example",
       "url": "samples/example.rss.xml",
       "title_override": "Example Podcast",
+      "owners": ["Example Host"],
+      "common_speakers": ["Example Co-host"],
       "notes": "Local sample feed so you can test without network access."
     }
   ]
 }
-

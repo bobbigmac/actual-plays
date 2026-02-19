@@ -99,6 +99,42 @@ def _infer_last_checked_unix_from_cache(md_path: Path) -> int | None:
         return None
 
 
+def _norm_name_list(value) -> list[str]:
+    if not value:
+        return []
+    if isinstance(value, str):
+        v = value.strip()
+        return [v] if v else []
+    if isinstance(value, list):
+        out = []
+        for x in value:
+            s = str(x or "").strip()
+            if s:
+                out.append(s)
+        return out
+    s = str(value).strip()
+    return [s] if s else []
+
+
+def _merge_always_speakers(*, detected: list[str], always: list[str], limit: int = 12) -> list[str]:
+    base = sanitize_speakers(detected)
+    always_clean = sanitize_speakers(always)
+    if not always_clean:
+        return base
+
+    seen = {s.lower() for s in base}
+    merged = list(base)
+    for name in always_clean:
+        k = name.lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        merged.append(name)
+        if len(merged) >= limit:
+            break
+    return merged
+
+
 def _render_cache_markdown(
     *,
     feed_slug: str,
@@ -244,6 +280,8 @@ class _FeedJob:
     feed_title: str | None
     feed_min_hours: int
     feed_max_episodes: int
+    owners: list[str]
+    common_speakers: list[str]
 
 
 @dataclass
@@ -344,6 +382,7 @@ def _process_one_feed(
     spacy_tags = _try_tag_with_spacy(spacy_items, quiet=quiet)
 
     episodes = []
+    always_speakers = (job.common_speakers or []) + (job.owners or [])
     for ep in pre:
         key = ep["key"]
         title = ep["title"]
@@ -361,7 +400,7 @@ def _process_one_feed(
         episodes.append(
             {
                 **ep,
-                "speakers": sanitize_speakers(speakers),
+                "speakers": _merge_always_speakers(detected=speakers, always=always_speakers, limit=12),
                 "topics": sanitize_topics(topics),
             }
         )
@@ -378,6 +417,8 @@ def _process_one_feed(
         "description": parsed.get("description") or "",
         "image_url": parsed.get("image_url"),
         "fetched_at": now_iso,
+        "owners": sanitize_speakers(job.owners),
+        "common_speakers": sanitize_speakers(job.common_speakers),
         "episodes": episodes,
     }
 
@@ -444,6 +485,8 @@ def main() -> int:
         changed = False
         for feed_cfg in feeds:
             slug = str(feed_cfg.get("slug") or "")
+            owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
+            common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
             md_path = feeds_md_dir / f"{slug}.md"
             feed_json = _load_existing_feed_json(md_path)
             if not feed_json:
@@ -451,9 +494,12 @@ def main() -> int:
                 continue
 
             prev_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
+            always = common_speakers + owners
             for ep in feed_json.get("episodes") or []:
-                ep["speakers"] = sanitize_speakers(ep.get("speakers"))
+                ep["speakers"] = _merge_always_speakers(detected=ep.get("speakers") or [], always=always, limit=12)
                 ep["topics"] = sanitize_topics(ep.get("topics"))
+            feed_json["owners"] = sanitize_speakers(owners)
+            feed_json["common_speakers"] = sanitize_speakers(common_speakers)
             next_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
             if prev_sig == next_sig:
                 _log(f"[no-op] {slug} (already sanitized)", quiet=args.quiet)
@@ -518,6 +564,8 @@ def main() -> int:
                 pass
 
         _log(f"[queue] {slug} {url}", quiet=args.quiet)
+        owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
+        common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
         jobs.append(
             _FeedJob(
                 slug=str(slug),
@@ -525,6 +573,8 @@ def main() -> int:
                 feed_title=feed_cfg.get("title_override"),
                 feed_min_hours=feed_min_hours,
                 feed_max_episodes=feed_max_episodes,
+                owners=sanitize_speakers(owners),
+                common_speakers=sanitize_speakers(common_speakers),
             )
         )
         per_feed_state_by_slug[str(slug)] = per_feed_state

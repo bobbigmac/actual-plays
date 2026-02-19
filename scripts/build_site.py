@@ -89,6 +89,41 @@ def _hue_from_slug(slug: str) -> int:
     return total
 
 
+def _norm_name_list(value: Any) -> list[str]:
+    if not value:
+        return []
+    if isinstance(value, str):
+        v = value.strip()
+        return [v] if v else []
+    if isinstance(value, list):
+        out = []
+        for x in value:
+            s = str(x or "").strip()
+            if s:
+                out.append(s)
+        return out
+    s = str(value).strip()
+    return [s] if s else []
+
+
+def _merge_always_speakers(*, detected: list[str] | None, always: list[str] | None, limit: int = 12) -> list[str]:
+    base = sanitize_speakers(detected or [])
+    always_clean = sanitize_speakers(always or [])
+    if not always_clean:
+        return base
+    seen = {s.lower() for s in base}
+    merged = list(base)
+    for name in always_clean:
+        k = name.lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        merged.append(name)
+        if len(merged) >= limit:
+            break
+    return merged
+
+
 def _write_page(
     *,
     base_template: str,
@@ -179,9 +214,17 @@ def main() -> int:
     )
 
     feed_order: list[str] = []
+    feed_tags: dict[str, dict[str, list[str]]] = {}
+    owners_by_feed: dict[str, set[str]] = {}
     for f in feeds_cfg.get("feeds") or []:
-        if f.get("slug"):
-            feed_order.append(str(f["slug"]))
+        slug = str(f.get("slug") or "")
+        if not slug:
+            continue
+        feed_order.append(slug)
+        owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
+        common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
+        feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers}
+        owners_by_feed[slug] = {n.lower() for n in owners}
 
     feeds: list[dict[str, Any]] = []
     for slug in feed_order:
@@ -198,8 +241,18 @@ def main() -> int:
                 }
             )
             continue
+
+        cfg_tags = feed_tags.get(slug) or {}
+        cfg_owners = cfg_tags.get("owners") or []
+        cfg_common = cfg_tags.get("common_speakers") or []
+        owners = sanitize_speakers(cfg_owners)
+        common_speakers = sanitize_speakers(cfg_common)
+        feed["owners"] = owners
+        feed["common_speakers"] = common_speakers
+        owners_by_feed[slug] = {n.lower() for n in owners}
+        always = common_speakers + owners
         for ep in feed.get("episodes") or []:
-            ep["speakers"] = sanitize_speakers(ep.get("speakers"))
+            ep["speakers"] = _merge_always_speakers(detected=ep.get("speakers"), always=always, limit=12)
             ep["topics"] = sanitize_topics(ep.get("topics"))
         feeds.append(feed)
 
@@ -504,20 +557,40 @@ def main() -> int:
     # Speaker index + pages.
     speaker_rows = []
     for speaker, eps in speaker_to_eps.items():
-        speaker_rows.append((speaker, len(eps)))
-    speaker_rows.sort(key=lambda r: (-r[1], r[0].lower()))
+        total = len(eps)
+        sp_key = str(speaker).lower()
+        guest = 0
+        for e in eps:
+            feed_slug = str(e.get("feed_slug") or "")
+            owners = owners_by_feed.get(feed_slug) or set()
+            if sp_key in owners:
+                continue
+            guest += 1
+        speaker_rows.append((speaker, guest, total))
+    # Default: sort by guest appearances (exclude own podcasts).
+    speaker_rows.sort(key=lambda r: (-r[1], -r[2], r[0].lower()))
 
     speaker_list_items = []
-    for speaker, count in speaker_rows[:500]:
+    for speaker, guest_count, total_count in speaker_rows[:500]:
         sp_slug = slugify(speaker)
         url = _href(base_path, f"speakers/{sp_slug}/")
         speaker_list_items.append(
-            f'<li><a href="{_esc(url)}">{_esc(speaker)}</a> <span class="muted">({count})</span></li>'
+            f'<li data-speaker-row data-count-guest="{guest_count}" data-count-total="{total_count}" data-name="{_esc(speaker)}">'
+            f'<a href="{_esc(url)}">{_esc(speaker)}</a> '
+            f'<span class="muted">(<span data-speaker-count>{guest_count}</span>)</span>'
+            f"</li>"
         )
 
     content = f"""
     <h1>Speakers</h1>
     <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise.</p>
+    <div class="card panel" style="margin:12px 0">
+      <div class="panel-head">
+        <h2>Counting</h2>
+      </div>
+      <label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>
+      <div class="muted" style="margin-top:8px">Default counts exclude episodes from podcasts the speaker owns (as configured in <code>feeds.json</code>).</div>
+    </div>
     <ul class="list">
       {"".join(speaker_list_items) if speaker_list_items else "<li class=\"muted\">No speakers yet.</li>"}
     </ul>
@@ -532,7 +605,7 @@ def main() -> int:
         content_html=content,
     )
 
-    for speaker, _count in speaker_rows[:500]:
+    for speaker, guest_count, total_count in speaker_rows[:500]:
         sp_slug = slugify(speaker)
         eps = speaker_to_eps.get(speaker) or []
         # Group episodes by source podcast; show the biggest groups first.
@@ -545,6 +618,7 @@ def main() -> int:
         group_rows = sorted(grouped.items(), key=lambda kv: (-len(kv[1]), kv[0][1].lower(), kv[0][0]))
         groups_html: list[str] = []
         for (feed_slug, feed_title_raw), group_eps in group_rows:
+            is_own = str(speaker).lower() in (owners_by_feed.get(feed_slug) or set())
             feed_title = _esc(feed_title_raw or feed_slug)
             group_eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
             items: list[str] = []
@@ -606,7 +680,7 @@ def main() -> int:
             podcast_url = _href(base_path, f"podcasts/{feed_slug}/")
             groups_html.append(
                 f"""
-                <details class="speaker-group card" open>
+                <details class="speaker-group card" open data-own="{'1' if is_own else '0'}" {'hidden' if is_own else ''}>
                   <summary>
                     <span class="speaker-group-title">{feed_title}</span>
                     <span class="muted">({len(group_eps)})</span>
@@ -622,6 +696,13 @@ def main() -> int:
             )
         content = f"""
         <h1>{_esc(speaker)}</h1>
+        <div class="card panel" style="margin:12px 0">
+          <div class="panel-head">
+            <h2>Counting</h2>
+          </div>
+          <label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>
+          <div class="muted" style="margin-top:8px">Guest appearances: <strong>{guest_count}</strong> · Total: <strong>{total_count}</strong></div>
+        </div>
         <p class="muted">Grouped by podcast (most appearances first).</p>
         <div class="speaker-groups">
           {"".join(groups_html) if groups_html else "<div class=\"muted\">No episodes indexed for this speaker.</div>"}

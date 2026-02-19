@@ -1650,6 +1650,7 @@ import { initOffline } from "./offline.js";
           refreshAllProgress();
           renderHomePanels();
           refreshQueueIndicators();
+          applySpeakersUi();
           // Don't auto-switch playback on navigation; deep-link autoplay happens on full load only.
           window.scrollTo({ top: 0, left: 0, behavior: "auto" });
         })
@@ -1729,6 +1730,61 @@ import { initOffline } from "./offline.js";
         refreshQueueIndicators();
       }
     });
+  }
+
+  function speakersIncludeOwnKey() {
+    return LS_PREFIX + "speakers.includeOwn";
+  }
+  function readSpeakersIncludeOwn() {
+    return lsGet(speakersIncludeOwnKey()) === "1";
+  }
+  function writeSpeakersIncludeOwn(next) {
+    lsSet(speakersIncludeOwnKey(), next ? "1" : "0");
+  }
+
+  function applySpeakersUi() {
+    var includeOwn = readSpeakersIncludeOwn();
+
+    var speakersToggle = $("#speakers-include-own");
+    if (speakersToggle) {
+      speakersToggle.checked = includeOwn;
+      var items = $all("[data-speaker-row]");
+      items.forEach(function (li) {
+        var guest = Number(li.getAttribute("data-count-guest") || 0) || 0;
+        var total = Number(li.getAttribute("data-count-total") || 0) || 0;
+        var count = includeOwn ? total : guest;
+        var out = li.querySelector("[data-speaker-count]");
+        if (out) out.textContent = String(count);
+      });
+
+      var ul = items.length ? items[0].parentElement : null;
+      if (ul) {
+        items
+          .slice()
+          .sort(function (a, b) {
+            var an = Number(a.getAttribute(includeOwn ? "data-count-total" : "data-count-guest") || 0) || 0;
+            var bn = Number(b.getAttribute(includeOwn ? "data-count-total" : "data-count-guest") || 0) || 0;
+            if (bn !== an) return bn - an;
+            var aName = String(a.getAttribute("data-name") || "").toLowerCase();
+            var bName = String(b.getAttribute("data-name") || "").toLowerCase();
+            if (aName < bName) return -1;
+            if (aName > bName) return 1;
+            return 0;
+          })
+          .forEach(function (li) {
+            ul.appendChild(li);
+          });
+      }
+    }
+
+    var speakerToggle = $("#speaker-include-own");
+    if (speakerToggle) {
+      speakerToggle.checked = includeOwn;
+      $all(".speaker-group[data-own='1']").forEach(function (d) {
+        if (includeOwn) d.removeAttribute("hidden");
+        else d.setAttribute("hidden", "");
+      });
+    }
   }
 
   function markPlayed(episodeId) {
@@ -2239,6 +2295,16 @@ import { initOffline } from "./offline.js";
   initData();
   initPwa();
   ensureSearchUi();
+  applySpeakersUi();
+
+  document.addEventListener("change", function (e) {
+    var t = e.target;
+    if (!t) return;
+    if (t.id === "speakers-include-own" || t.id === "speaker-include-own") {
+      writeSpeakersIncludeOwn(Boolean(t.checked));
+      applySpeakersUi();
+    }
+  });
 
   window.addEventListener("load", function () {
     // Auto-offline queue (if enabled) should run after the page is settled.
