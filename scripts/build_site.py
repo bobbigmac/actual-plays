@@ -10,7 +10,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_json, sha1_hex, slugify, write_json
+from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_feeds_config, sha1_hex, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
@@ -133,8 +133,8 @@ def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Build static HTML site from cached feed markdown.")
     p.add_argument(
         "--feeds",
-        default="feeds.json",
-        help="Path to feeds config JSON (includes top-level 'site', 'defaults', and 'feeds').",
+        default="feeds.md",
+        help="Path to feeds config (Markdown or JSON; includes top-level 'site', 'defaults', and 'feeds').",
     )
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--dist", default="dist", help="Output directory.")
@@ -402,7 +402,7 @@ def _write_page(
 def main() -> int:
     args = _parse_args()
 
-    cfg = read_json(REPO_ROOT / args.feeds)
+    cfg = read_feeds_config(REPO_ROOT / args.feeds)
     site_cfg = cfg.get("site") if isinstance(cfg, dict) else None
     if not isinstance(site_cfg, dict):
         site_cfg = {}

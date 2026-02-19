@@ -50,10 +50,10 @@ jobs:
           fi
 
       - name: Update feed cache
-        run: python -m scripts.update_feeds --quiet
+        run: python -m scripts.update_feeds --feeds feeds.md --quiet --concurrency 3
 
       - name: Build static site
-        run: python -m scripts.build_site
+        run: python -m scripts.build_site --feeds feeds.md
 
       - name: Persist cache state (cache branch)
         run: |

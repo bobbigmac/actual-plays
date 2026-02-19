@@ -15,12 +15,28 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
+from scripts.feeds_md import parse_feeds_markdown
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 def read_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def read_feeds_config(path: Path) -> dict[str, Any]:
+    """
+    Read the feeds config, which may be JSON (`feeds*.json`) or Markdown (`feeds*.md`).
+    """
+    suffix = path.suffix.lower()
+    if suffix == ".md":
+        text = path.read_text(encoding="utf-8", errors="replace")
+        cfg = parse_feeds_markdown(text)
+        if not isinstance(cfg, dict):
+            raise ValueError(f"Invalid markdown feeds config: {path}")
+        return cfg
+    return read_json(path)
 
 
 def write_json(path: Path, data: Any) -> None:

@@ -12,7 +12,7 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 ## File map (1 line per file)
 
 - `package.json` — dev scripts (`update/build/dev`) and dependency entrypoint for local workflows.
-- `feeds.json` — primary feeds config for this deployment (URLs + optional `owners`/`common_speakers`/`categories`).
+- `feeds.md` — primary feeds config for this deployment (Markdown; supports `site` + feed URLs + optional `owners`/`common_speakers`/`categories`).
 - `feeds.actualplays.json` — OPML-derived feeds config for actual plays / RPG / story / fiction subscriptions.
 - `feeds.other.json` — OPML-derived feeds config for non-TTRPG subscriptions.
 - `feed-profiles/*.md` — optional per-feed profile markdown (editor’s notes + optional ratings), keyed by feed slug.

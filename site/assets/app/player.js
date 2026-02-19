@@ -157,8 +157,153 @@ export function initPlayer() {
     } catch (_e) {}
   }
 
+  function destroyAudioGraph() {
+    try {
+      if (sourceNode) sourceNode.disconnect();
+    } catch (_e) {}
+    try {
+      if (lowNode) lowNode.disconnect();
+    } catch (_e) {}
+    try {
+      if (midNode) midNode.disconnect();
+    } catch (_e) {}
+    try {
+      if (highNode) highNode.disconnect();
+    } catch (_e) {}
+    try {
+      if (gainNode) gainNode.disconnect();
+    } catch (_e) {}
+    try {
+      if (audioCtx && typeof audioCtx.close === "function") audioCtx.close().catch(function () {});
+    } catch (_e) {}
+    audioCtx = null;
+    sourceNode = null;
+    lowNode = null;
+    midNode = null;
+    highNode = null;
+    gainNode = null;
+  }
+
+  var boundPlayerEl = null;
+  function bindPlayerEvents() {
+    if (!player) return;
+    if (boundPlayerEl === player) return;
+    boundPlayerEl = player;
+
+    player.addEventListener("loadedmetadata", function () {
+      // Defensive: source changes can reset rate; keep the UI + element in sync.
+      if (desiredRate != null) setSpeed(desiredRate, { persist: false });
+      updateEqAvailabilityUi();
+      setTimeLabels();
+      if (pendingSeek != null && pendingSeek > 0) {
+        try {
+          player.currentTime = pendingSeek;
+        } catch (_e) {}
+        pendingSeek = null;
+      }
+      saveProgress(true);
+      refreshAllProgress();
+      updatePositionState(true);
+    });
+
+    player.addEventListener("ratechange", function () {
+      if (!speedReadout) return;
+      var r = Number(player.playbackRate) || 1;
+      r = Math.round(r * 100) / 100;
+      speedReadout.textContent = String(r) + "x";
+      updatePositionState(true);
+    });
+
+    player.addEventListener("timeupdate", function () {
+      setScrubFromPlayer();
+      setTimeLabels();
+      saveProgress(false);
+      updatePositionState(false);
+    });
+
+    player.addEventListener("play", function () {
+      resumeAudioCtx();
+      setPlayButtonState();
+      startAutosave();
+      setMediaPlaybackState("playing");
+      updatePositionState(true);
+    });
+    player.addEventListener("pause", function () {
+      setPlayButtonState();
+      saveProgress(true);
+      stopAutosave();
+      setMediaPlaybackState("paused");
+      updatePositionState(true);
+    });
+    player.addEventListener("ended", function () {
+      setPlayButtonState();
+      saveProgress(true);
+      stopAutosave();
+      setMediaPlaybackState("paused");
+      updatePositionState(true);
+      // Auto-advance the queue if present.
+      var next = dequeueNext();
+      syncFromStorage();
+      if (next) playMeta(next);
+      renderHomePanels();
+      refreshQueueIndicators();
+      maybeAutoCacheQueue({ force: false });
+    });
+  }
+
+  function resetAudioPathToNative(reason, opts) {
+    // If we've ever created a MediaElementAudioSource for this element, the element's audio output
+    // is routed through the AudioContext and cannot reliably be "un-hooked". Replace the element.
+    if (!player || !player.parentNode) return;
+
+    var options = opts || {};
+    var keepPlaying = options.keepPlaying !== false;
+
+    var src = player.currentSrc || player.src || "";
+    var wasPaused = Boolean(player.paused);
+    var t = 0;
+    try {
+      t = Number(player.currentTime) || 0;
+    } catch (_e) {}
+    var rate = Number(player.playbackRate) || 1;
+    var pitchOn = preservePitch ? Boolean(preservePitch.checked) : true;
+
+    destroyAudioGraph();
+
+    try {
+      var next = player.cloneNode(false);
+      next.id = "player";
+      player.parentNode.replaceChild(next, player);
+      player = next;
+      boundPlayerEl = null;
+      bindPlayerEvents();
+      setPreservePitch(pitchOn);
+      try {
+        player.playbackRate = rate;
+      } catch (_e) {}
+      if (src) {
+        try {
+          if (corsOkForUrl(src)) player.crossOrigin = "anonymous";
+          else player.removeAttribute("crossorigin");
+        } catch (_e) {}
+        player.src = src;
+      }
+      if (t > 0) {
+        try {
+          player.currentTime = t;
+        } catch (_e) {}
+      }
+      if (keepPlaying && !wasPaused) player.play().catch(function () {});
+    } catch (_e) {}
+
+    if (reason) {
+      setAudioNote("EQ/gain disabled for this audio host (CORS). Falling back to normal playback.");
+    }
+  }
+
   function ensureAudioGraph() {
     if (audioCtx) return true;
+    if (!computeWebAudioAllowed()) return false;
     var AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return false;
     try {
@@ -187,12 +332,7 @@ export function initPlayer() {
       gainNode.connect(audioCtx.destination);
       return true;
     } catch (_e) {
-      audioCtx = null;
-      sourceNode = null;
-      lowNode = null;
-      midNode = null;
-      highNode = null;
-      gainNode = null;
+      destroyAudioGraph();
       return false;
     }
   }
@@ -231,14 +371,23 @@ export function initPlayer() {
     webAudioAllowedForSource = computeWebAudioAllowed();
     if (!webAudioAllowedForSource) {
       setEqEnabled(false);
-      if (audioCtx) {
-        setAudioNote("EQ/gain disabled for this audio host (CORS). Reload if audio went silent after enabling EQ.");
-      } else {
-        setAudioNote("EQ/gain disabled for this audio host (CORS). Playback still works.");
-      }
+      if (audioCtx) resetAudioPathToNative("CORS");
+      else setAudioNote("EQ/gain disabled for this audio host (CORS). Playback still works.");
     } else {
       setEqEnabled(true);
       setAudioNote("");
+      // If the user has non-default EQ settings saved, keep the graph in place for CORS-safe sources.
+      var g = readEqDb("gain", 0);
+      var l = readEqDb("low", 0);
+      var m = readEqDb("mid", 0);
+      var h = readEqDb("high", 0);
+      var eqWanted = g !== 0 || l !== 0 || m !== 0 || h !== 0;
+      if (eqWanted && ensureAudioGraph()) {
+        if (gainNode) gainNode.gain.value = dbToLinear(g);
+        if (lowNode) lowNode.gain.value = l;
+        if (midNode) midNode.gain.value = m;
+        if (highNode) highNode.gain.value = h;
+      }
     }
   }
 
@@ -253,24 +402,24 @@ export function initPlayer() {
     return Math.pow(10, (Number(db) || 0) / 20);
   }
 
+  function readEqDb(key, fallback) {
+    var raw = lsGet(LS_PREFIX + "eq:" + key);
+    if (raw == null) return fallback;
+    var v = Number(raw);
+    if (!Number.isFinite(v)) return fallback;
+    return Math.max(-12, Math.min(12, Math.round(v)));
+  }
+
   function applyAudioSettings() {
     var pitch = lsGet(LS_PREFIX + "pitch");
     var pitchOn = pitch == null ? true : pitch === "1";
     if (preservePitch) preservePitch.checked = pitchOn;
     setPreservePitch(pitchOn);
 
-    function readDb(key, fallback) {
-      var raw = lsGet(LS_PREFIX + "eq:" + key);
-      if (raw == null) return fallback;
-      var v = Number(raw);
-      if (!Number.isFinite(v)) return fallback;
-      return Math.max(-12, Math.min(12, Math.round(v)));
-    }
-
-    var g = readDb("gain", 0);
-    var l = readDb("low", 0);
-    var m = readDb("mid", 0);
-    var h = readDb("high", 0);
+    var g = readEqDb("gain", 0);
+    var l = readEqDb("low", 0);
+    var m = readEqDb("mid", 0);
+    var h = readEqDb("high", 0);
 
     if (gain) gain.value = String(g);
     if (eqLow) eqLow.value = String(l);
@@ -282,6 +431,10 @@ export function initPlayer() {
     if (eqMidVal) eqMidVal.textContent = (m >= 0 ? "+" : "") + m + " dB";
     if (eqHighVal) eqHighVal.textContent = (h >= 0 ? "+" : "") + h + " dB";
 
+    var eqWanted = g !== 0 || l !== 0 || m !== 0 || h !== 0;
+    if (!eqWanted) return;
+    updateEqAvailabilityUi();
+    if (!webAudioAllowedForSource) return;
     if (!ensureAudioGraph()) return;
     if (gainNode) gainNode.gain.value = dbToLinear(g);
     if (lowNode) lowNode.gain.value = l;
@@ -518,6 +671,7 @@ export function initPlayer() {
 
         // Source
         if (full.a) {
+          if (audioCtx && !corsOkForUrl(full.a)) resetAudioPathToNative("CORS", { keepPlaying: false });
           try {
             if (corsOkForUrl(full.a)) player.crossOrigin = "anonymous";
             else player.removeAttribute("crossorigin");
@@ -619,6 +773,7 @@ export function initPlayer() {
       setSpeed(wantedRate0, { persist: false });
 
       if (cur0.a) {
+        if (audioCtx && !corsOkForUrl(cur0.a)) resetAudioPathToNative("CORS", { keepPlaying: false });
         try {
           if (corsOkForUrl(cur0.a)) player.crossOrigin = "anonymous";
           else player.removeAttribute("crossorigin");
@@ -717,6 +872,11 @@ export function initPlayer() {
     input.addEventListener("change", function () {
       var db = Number(input.value) || 0;
       lsSet(LS_PREFIX + "eq:" + key, String(db));
+      updateEqAvailabilityUi();
+      if (!webAudioAllowedForSource) {
+        if (audioCtx) resetAudioPathToNative("CORS");
+        return;
+      }
       if (!ensureAudioGraph()) return;
       if (key === "gain" && gainNode) gainNode.gain.value = dbToLinear(db);
       if (key === "low" && lowNode) lowNode.gain.value = db;
@@ -748,65 +908,7 @@ export function initPlayer() {
     });
   }
 
-  player.addEventListener("loadedmetadata", function () {
-    // Defensive: source changes can reset rate; keep the UI + element in sync.
-    if (desiredRate != null) setSpeed(desiredRate, { persist: false });
-    updateEqAvailabilityUi();
-    setTimeLabels();
-    if (pendingSeek != null && pendingSeek > 0) {
-      try {
-        player.currentTime = pendingSeek;
-      } catch (_e) {}
-      pendingSeek = null;
-    }
-    saveProgress(true);
-    refreshAllProgress();
-    updatePositionState(true);
-  });
-
-  player.addEventListener("ratechange", function () {
-    if (!speedReadout) return;
-    var r = Number(player.playbackRate) || 1;
-    r = Math.round(r * 100) / 100;
-    speedReadout.textContent = String(r) + "x";
-    updatePositionState(true);
-  });
-
-  player.addEventListener("timeupdate", function () {
-    setScrubFromPlayer();
-    setTimeLabels();
-    saveProgress(false);
-    updatePositionState(false);
-  });
-
-  player.addEventListener("play", function () {
-    resumeAudioCtx();
-    setPlayButtonState();
-    startAutosave();
-    setMediaPlaybackState("playing");
-    updatePositionState(true);
-  });
-  player.addEventListener("pause", function () {
-    setPlayButtonState();
-    saveProgress(true);
-    stopAutosave();
-    setMediaPlaybackState("paused");
-    updatePositionState(true);
-  });
-  player.addEventListener("ended", function () {
-    setPlayButtonState();
-    saveProgress(true);
-    stopAutosave();
-    setMediaPlaybackState("paused");
-    updatePositionState(true);
-    // Auto-advance the queue if present.
-    var next = dequeueNext();
-    syncFromStorage();
-    if (next) playMeta(next);
-    renderHomePanels();
-    refreshQueueIndicators();
-    maybeAutoCacheQueue({ force: false });
-  });
+  bindPlayerEvents();
 
   document.addEventListener("visibilitychange", function () {
     if (document.visibilityState !== "hidden") return;

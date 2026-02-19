@@ -18,7 +18,7 @@ from scripts.shared import (
     fetch_url,
     parse_feed,
     path_stats,
-    read_json,
+    read_feeds_config,
     sanitize_speakers,
     sanitize_topics,
     stable_episode_key,
@@ -29,14 +29,18 @@ from scripts.shared import (
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Fetch RSS/Atom feeds and update cache markdown.")
-    p.add_argument("--feeds", default="feeds.json", help="Path to feeds config JSON (contains 'defaults' + 'feeds').")
+    p.add_argument(
+        "--feeds",
+        default="feeds.md",
+        help="Path to feeds config (Markdown or JSON; contains 'site' + 'defaults' + 'feeds').",
+    )
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--force", action="store_true", help="Ignore cooldown and refetch all feeds.")
     p.add_argument(
         "--concurrency",
         type=int,
-        default=4,
-        help="Number of feeds to fetch concurrently (default: 4).",
+        default=3,
+        help="Number of feeds to fetch concurrently (default: 3).",
     )
     p.add_argument(
         "--sanitize-cache",
@@ -476,7 +480,7 @@ def main() -> int:
     state_path = cache_dir / "state.json"
     feeds_md_dir = cache_dir / "feeds"
 
-    cfg = read_json(feeds_path)
+    cfg = read_feeds_config(feeds_path)
     defaults = cfg.get("defaults", {})
     min_hours_between_checks = int(defaults.get("min_hours_between_checks", 6))
     max_episodes_per_feed = int(defaults.get("max_episodes_per_feed", 200))

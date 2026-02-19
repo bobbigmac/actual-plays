@@ -52,7 +52,7 @@ function devBuilderPlugin() {
           data: { stage: "update", status: "start" },
         });
         const t0 = Date.now();
-        await run("./scripts/py", ["-m", "scripts.update_feeds", "--quiet"], { cwd: repoRoot });
+        await run("./scripts/py", ["-m", "scripts.update_feeds", "--feeds", "feeds.md", "--quiet"], { cwd: repoRoot });
         serverRef?.ws?.send({
           type: "custom",
           event: "ap:status",
@@ -72,7 +72,7 @@ function devBuilderPlugin() {
         data: { stage: "build", status: "start" },
       });
       const t1 = Date.now();
-      await run("./scripts/py", ["-m", "scripts.build_site", "--base-path", "/"], { cwd: repoRoot });
+      await run("./scripts/py", ["-m", "scripts.build_site", "--feeds", "feeds.md", "--base-path", "/"], { cwd: repoRoot });
       serverRef?.ws?.send({
         type: "custom",
         event: "ap:status",
@@ -158,7 +158,7 @@ function copyAsset(file) {
           return;
         }
 
-        const alsoUpdateFeeds = rel === "feeds.json";
+        const alsoUpdateFeeds = rel === "feeds.md" || rel === "feeds.json";
         server.ws.send({
           type: "custom",
           event: "ap:status",
