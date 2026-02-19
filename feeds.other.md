@@ -54,11 +54,6 @@
 - title_override: Firelink
 - categories: games
 
-## hercule-poirot-the-complete-short-stories
-- url: https://archive.org/download/ia1024x1024_202511/X0063066734
-- title_override: Hercule Poirot: The Complete Short Stories
-- categories: fiction
-
 ## irish-celtic-music-podcast
 - url: http://bellobard.libsyn.com/rss
 - title_override: Irish & Celtic Music Podcast
