@@ -1,9 +1,9 @@
 {
   "defaults": {
-    "min_hours_between_checks": 12,
-    "max_episodes_per_feed": 200,
-    "request_timeout_seconds": 25,
-    "user_agent": "actual-plays-static-podcast-index/1.0 (+https://github.com/)"
+    "min_hours_between_checks": 2,
+    "max_episodes_per_feed": 1000,
+    "request_timeout_seconds": 20,
+    "user_agent": "static-podcast-index/1.0 (+https://github.com/)"
   },
   "feeds": [
     {

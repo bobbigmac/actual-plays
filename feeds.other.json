@@ -1,27 +1,33 @@
 {
   "defaults": {
-    "min_hours_between_checks": 12,
-    "max_episodes_per_feed": 200,
-    "request_timeout_seconds": 25,
-    "user_agent": "actual-plays-static-podcast-index/1.0 (+https://github.com/)"
+    "min_hours_between_checks": 2,
+    "max_episodes_per_feed": 1000,
+    "request_timeout_seconds": 30,
+    "user_agent": "static-podcast-index/1.0 (+https://github.com/)"
   },
   "feeds": [
     {
       "slug": "a-scanner-darkly",
       "url": "https://archive.org/download/awnbgb-0-d-9-hptg-8-n/XB00CTFLDH8",
-      "title_override": "A Scanner Darkly"
+      "title_override": "A Scanner Darkly",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "a-woodturners-journey",
       "url": "https://feeds.acast.com/public/shows/65a70f72224eec0017895999",
-      "title_override": "A Woodturners Journey"
+      "title_override": "A Woodturners Journey",
+      "categories": [
+        "hobbies"
+      ]
     },
     {
       "slug": "adventure-is-nigh",
       "url": "https://anchor.fm/s/fcdf7d8c/podcast/rss",
       "title_override": "Adventure is Nigh!",
       "categories": [
-        "feeds"
+        "games"
       ]
     },
     {
@@ -29,30 +35,39 @@
       "url": "https://bsj.podomatic.com/rss2.xml",
       "title_override": "Best Smooth Jazz Host Rod Lucas",
       "categories": [
-        "feeds"
+        "music"
       ]
     },
     {
       "slug": "beyond-the-pixels",
       "url": "https://anchor.fm/s/10cd8b17c/podcast/rss",
-      "title_override": "Beyond The Pixels"
+      "title_override": "Beyond The Pixels",
+      "categories": [
+        "games"
+      ]
     },
     {
       "slug": "class-clown",
       "url": "https://feeds.megaphone.fm/APL3984327377",
-      "title_override": "Class Clown"
+      "title_override": "Class Clown",
+      "categories": [
+        "comedy"
+      ]
     },
     {
       "slug": "cymraeg-bob-dydd",
       "url": "https://www.spreaker.com/show/6325466/episodes/feed",
-      "title_override": "Cymraeg Bob Dydd"
+      "title_override": "Cymraeg Bob Dydd",
+      "categories": [
+        "language"
+      ]
     },
     {
       "slug": "daily-politics-from-the-new-statesman",
       "url": "https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926",
       "title_override": "Daily Politics from the New Statesman",
       "categories": [
-        "Politics"
+        "politics"
       ]
     },
     {
@@ -60,59 +75,56 @@
       "url": "https://anchor.fm/s/fe089ec8/podcast/rss",
       "title_override": "Firelink",
       "categories": [
-        "feeds"
+        "games"
       ]
     },
     {
       "slug": "hercule-poirot-the-complete-short-stories",
       "url": "https://archive.org/download/ia1024x1024_202511/X0063066734",
-      "title_override": "Hercule Poirot: The Complete Short Stories"
+      "title_override": "Hercule Poirot: The Complete Short Stories",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "irish-celtic-music-podcast",
       "url": "http://bellobard.libsyn.com/rss",
       "title_override": "Irish & Celtic Music Podcast",
       "categories": [
-        "feeds"
+        "music"
       ]
     },
     {
       "slug": "jokes-with-mark-simmons",
       "url": "https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733",
-      "title_override": "Jokes with Mark Simmons"
+      "title_override": "Jokes with Mark Simmons",
+      "categories": [
+        "comedy"
+      ]
     },
     {
       "slug": "judge-dredd",
       "url": "https://archive.org/download/rss_judr/judr",
-      "title_override": "Judge Dredd"
+      "title_override": "Judge Dredd",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "lip-service",
       "url": "https://archive.org/download/rss_lise/lise",
-      "title_override": "Lip Service"
+      "title_override": "Lip Service",
+      "categories": [
+        "fiction",
+        "comedy"
+      ]
     },
     {
       "slug": "mom-cant-cook-a-dcom-podcast",
       "url": "https://rss.art19.com/mom-cant-cook",
       "title_override": "Mom Can't Cook! A DCOM Podcast",
       "categories": [
-        "feeds"
-      ]
-    },
-    {
-      "slug": "mom-cant-cook-extra-helpings",
-      "url": "https://www.patreon.com/rss/extrahelpings?auth=__7w_HEEedlA0sfiEVnNllpvCLkdneqQ&amp;show=867451",
-      "title_override": "Mom Can't Cook! Extra Helpings",
-      "categories": [
-        "feeds"
-      ]
-    },
-    {
-      "slug": "mom-cant-cook-extra-helpings-2",
-      "url": "https://www.patreon.com/rss/extrahelpings?auth=__7w_HEEedlA0sfiEVnNllpvCLkdneqQ",
-      "title_override": "Mom Can't Cook! Extra Helpings",
-      "categories": [
-        "feeds"
+        "comedy"
       ]
     },
     {
@@ -120,7 +132,7 @@
       "url": "https://feeds.megaphone.fm/NSR3713660967",
       "title_override": "Mystery Quest",
       "categories": [
-        "feeds"
+        "games"
       ]
     },
     {
@@ -128,7 +140,7 @@
       "url": "https://feeds.acast.com/public/shows/natural-six",
       "title_override": "Natural Six",
       "categories": [
-        "feeds"
+        "entertainment"
       ]
     },
     {
@@ -136,8 +148,8 @@
       "url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
       "title_override": "Nature Podcast",
       "categories": [
-        "Knowledge",
-        "Science"
+        "education",
+        "science"
       ]
     },
     {
@@ -145,7 +157,7 @@
       "url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
       "title_override": "Off Menu with Ed Gamble and James Acaster",
       "categories": [
-        "feeds"
+        "comedy"
       ]
     },
     {
@@ -153,72 +165,96 @@
       "url": "https://audioboom.com/channels/5112392.rss",
       "title_override": "Page 94: The Private Eye Podcast",
       "categories": [
-        "Politics",
-        "News"
+        "politics",
+        "news"
       ]
     },
     {
       "slug": "perfect-10-with-carol-vorderman",
       "url": "https://feeds.acast.com/public/shows/639b0ffa1bdd1400115b3474",
-      "title_override": "Perfect 10 with Carol Vorderman"
+      "title_override": "Perfect 10 with Carol Vorderman",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "perfect-day-with-jessica-knappett",
       "url": "https://feeds.megaphone.fm/GLT6933286547",
-      "title_override": "Perfect Day with Jessica Knappett"
+      "title_override": "Perfect Day with Jessica Knappett",
+      "categories": [
+        "comedy"
+      ]
     },
     {
       "slug": "politicsjoe-podcast",
       "url": "https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f",
       "title_override": "PoliticsJOE Podcast",
       "categories": [
-        "Politics"
+        "politics"
       ]
     },
     {
       "slug": "ramon-fears-terror-tapes",
       "url": "https://feeds.acast.com/public/shows/65301134633a050012b657b7",
-      "title_override": "Ramon Fear's Terror Tapes"
+      "title_override": "Ramon Fear's Terror Tapes",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "rhlstp-with-richard-herring",
       "url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
       "title_override": "RHLSTP with Richard Herring",
       "categories": [
-        "feeds"
+        "comedy"
       ]
     },
     {
       "slug": "rotating-heroes",
       "url": "https://feeds.captivate.fm/rotating-heroes/",
-      "title_override": "Rotating Heroes"
+      "title_override": "Rotating Heroes",
+      "categories": [
+        "games"
+      ]
     },
     {
       "slug": "russell-howard-jon-richardson-devotee",
       "url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
-      "title_override": "Russell Howard & Jon Richardson Devotee"
+      "title_override": "Russell Howard & Jon Richardson Devotee",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "russell-howards-five-brilliant-things",
       "url": "https://feeds.megaphone.fm/russell-howards-wonderbox",
-      "title_override": "Russell Howard’s Five Brilliant Things"
+      "title_override": "Russell Howard’s Five Brilliant Things",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "sherlock-holmes-imagination-theatre",
       "url": "https://archive.org/download/rss_itsh/itsh",
-      "title_override": "Sherlock Holmes - Imagination Theatre"
+      "title_override": "Sherlock Holmes - Imagination Theatre",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "taskmaster-the-podcast",
       "url": "https://feeds.captivate.fm/taskmaster-the-podcast/",
-      "title_override": "Taskmaster The Podcast"
+      "title_override": "Taskmaster The Podcast",
+      "categories": [
+        "comedy"
+      ]
     },
     {
       "slug": "the-adam-buxton-podcast",
       "url": "https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645",
       "title_override": "THE ADAM BUXTON PODCAST",
       "categories": [
-        "feeds"
+        "comedy"
       ]
     },
     {
@@ -226,25 +262,23 @@
       "url": "https://www.apocalypseplayers.com/feed.xml",
       "title_override": "The Apocalypse Players",
       "categories": [
-        "feeds"
+        "entertainment"
       ]
-    },
-    {
-      "slug": "the-big-pitch-with-jimmy-carr",
-      "url": "https://feeds.megaphone.fm/NETFLIX3603868305",
-      "title_override": "The Big Pitch with Jimmy Carr"
     },
     {
       "slug": "the-comedians-comedian-podcast",
       "url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
-      "title_override": "The Comedian's Comedian Podcast"
+      "title_override": "The Comedian's Comedian Podcast",
+      "categories": [
+        "comedy"
+      ]
     },
     {
       "slug": "the-conversation-weekly",
       "url": "https://feeds.captivate.fm/the-conversation-weekly/",
       "title_override": "The Conversation Weekly",
       "categories": [
-        "Knowledge"
+        "education"
       ]
     },
     {
@@ -252,7 +286,7 @@
       "url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
       "title_override": "The Horne Section Podcast",
       "categories": [
-        "feeds"
+        "comedy"
       ]
     },
     {
@@ -260,20 +294,23 @@
       "url": "https://feeds.megaphone.fm/LI1683199352",
       "title_override": "The Next Big Idea",
       "categories": [
-        "Knowledge"
+        "education"
       ]
     },
     {
       "slug": "the-plays-of-j-b-priestley",
       "url": "https://archive.org/download/rss_jbprbrdc/jbprbrdc",
-      "title_override": "The Plays of J. B. Priestley"
+      "title_override": "The Plays of J. B. Priestley",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "the-rest-is-entertainment",
       "url": "https://feeds-origin.megaphone.fm/GLT2052042801",
       "title_override": "The Rest Is Entertainment",
       "categories": [
-        "Politics"
+        "politics"
       ]
     },
     {
@@ -281,69 +318,96 @@
       "url": "https://anchor.fm/s/fe089f90/podcast/rss",
       "title_override": "The Rewind Podcast",
       "categories": [
-        "feeds"
+        "entertainment"
       ]
     },
     {
       "slug": "the-romesh-ranganathan-show",
       "url": "https://feeds.megaphone.fm/romesh",
-      "title_override": "The Romesh Ranganathan Show"
+      "title_override": "The Romesh Ranganathan Show",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "the-weekly-planet",
       "url": "https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911",
-      "title_override": "The Weekly Planet"
+      "title_override": "The Weekly Planet",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "tim-keys-late-night-poetry-programme",
       "url": "https://www.dimsdale.co.uk/rss/tklmpp",
-      "title_override": "Tim Key's Late Night Poetry Programme"
+      "title_override": "Tim Key's Late Night Poetry Programme",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "voyage",
       "url": "https://www.dimsdale.co.uk/rss/voya",
       "title_override": "Voyage",
       "categories": [
-        "feeds"
+        "entertainment"
       ]
     },
     {
       "slug": "welcome-to-our-village-please-invade-carefully",
       "url": "https://archive.org/download/wtovpic/wtovpic",
-      "title_override": "Welcome to Our Village, Please Invade Carefully"
+      "title_override": "Welcome to Our Village, Please Invade Carefully",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "what-did-you-do-yesterday-with-max-rushden-david-odoherty",
       "url": "https://feeds.megaphone.fm/GLT5518536193",
-      "title_override": "What Did You Do Yesterday? with Max Rushden & David O'Doherty"
+      "title_override": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "windbreaker",
       "url": "https://anchor.fm/s/fe088118/podcast/rss",
       "title_override": "Windbreaker",
       "categories": [
-        "feeds"
+        "entertainment"
       ]
     },
     {
       "slug": "xbox-casuals-an-xbox-podcast",
       "url": "https://anchor.fm/s/1580e714/podcast/rss",
-      "title_override": "Xbox Casuals - An Xbox Podcast"
+      "title_override": "Xbox Casuals - An Xbox Podcast",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "xbox-in-ten-an-xbox-podcast",
       "url": "https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false",
-      "title_override": "Xbox In Ten: An Xbox Podcast"
+      "title_override": "Xbox In Ten: An Xbox Podcast",
+      "categories": [
+        "entertainment"
+      ]
     },
     {
       "slug": "xeelee-an-omnibus",
       "url": "https://archive.org/download/rss_hestbrure/zeelee",
-      "title_override": "Xeelee - An Omnibus"
+      "title_override": "Xeelee - An Omnibus",
+      "categories": [
+        "fiction"
+      ]
     },
     {
       "slug": "youre-dead-to-me",
       "url": "https://archive.org/download/rss_yodetome/yodetome",
-      "title_override": "You're Dead To Me"
+      "title_override": "You're Dead To Me",
+      "categories": [
+        "fiction"
+      ]
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "defaults": {
-    "min_hours_between_checks": 12,
-    "max_episodes_per_feed": 200,
-    "request_timeout_seconds": 25,
-    "user_agent": "actual-plays-static-podcast-index/1.0 (+https://github.com/)"
+    "min_hours_between_checks": 2,
+    "max_episodes_per_feed": 1000,
+    "request_timeout_seconds": 20,
+    "user_agent": "static-podcast-index/1.0 (+https://github.com/)"
   },
   "feeds": [
     {
@@ -11,7 +11,8 @@
       "url": "https://www.dimsdale.co.uk/rss/2001",
       "title_override": "2001 A Space Odyssey",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -19,7 +20,8 @@
       "url": "https://feed.podbean.com/abraxasprecipic/feed.xml",
       "title_override": "Abraxas’ Precipice, The Expanse Roleplaying Game Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -27,7 +29,8 @@
       "url": "https://www.penny-arcade.com/feed/podcasts-ai",
       "title_override": "Acquisitions Incorporated",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -35,7 +38,9 @@
       "url": "https://feeds.soundcloud.com/users/soundcloud:users:251064485/sounds.rss",
       "title_override": "Advantage | A 5e Dungeons & Dragons Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -43,7 +48,9 @@
       "url": "https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa",
       "title_override": "Ain't Slayed Nobody | Call of Cthulhu Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
@@ -51,7 +58,8 @@
       "url": "https://www.dimsdale.co.uk/rss/as6i",
       "title_override": "Alien™ Series [6] Isolation",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -59,7 +67,8 @@
       "url": "https://analogsf.podomatic.com/rss2.xml",
       "title_override": "Analog Science Fiction & Fact",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -67,7 +76,8 @@
       "url": "https://www.dimsdale.co.uk/rss/ramo",
       "title_override": "Audio Movies BBC",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -75,7 +85,9 @@
       "url": "https://AwfulNeutral.podbean.com/feed.xml",
       "title_override": "Awful Neutral: A Dungeons and Dragons Debacle",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -83,7 +95,10 @@
       "url": "https://balladofthesevendice.podbean.com/feed.xml",
       "title_override": "Ballad of the Seven Dice - A Pathfinder & Call of Cthulhu Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/pathfinder",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
@@ -91,7 +106,9 @@
       "url": "https://feed.podbean.com/bardicmysterytour/feed.xml",
       "title_override": "Bardic Mystery Tour: A Musical Dungeons & Dragons Actualplay",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -99,7 +116,8 @@
       "url": "https://www.dimsdale.co.uk/rss/baunb",
       "title_override": "Batman Unburied",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -107,7 +125,8 @@
       "url": "https://anchor.fm/s/535fd89c/podcast/rss",
       "title_override": "Black Dice Society",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -115,7 +134,8 @@
       "url": "https://feeds.transistor.fm/blood-of-the-void",
       "title_override": "Blood of the Void",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -123,7 +143,9 @@
       "url": "https://feed.podbean.com/bombarded/feed.xml",
       "title_override": "bomBARDed - A Musical Dungeons & Dragons Adventure",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -131,20 +153,29 @@
       "url": "https://www.dimsdale.co.uk/rss/brastobrgd",
       "title_override": "Bram Stoker BBC Radio Gothic Drama Collection",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "radio",
+        "fiction/audiobook",
+        "fiction/audio-drama"
       ]
     },
     {
       "slug": "cosmic-crit-a-starfinder-actual-play-podcast",
       "url": "https://cosmiccrit.com/feed/podcast/",
-      "title_override": "Cosmic Crit: A Starfinder Actual Play Podcast"
+      "title_override": "Cosmic Crit: A Starfinder Actual Play Podcast",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/starfinder"
+      ]
     },
     {
       "slug": "critical-role",
       "url": "https://feeds.simplecast.com/LXz4Q9rJ",
       "title_override": "Critical Role",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -152,7 +183,8 @@
       "url": "https://anchor.fm/s/32a17340/podcast/rss",
       "title_override": "Curse of Strahd: Twice Bitten",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -160,7 +192,8 @@
       "url": "https://feed.podbean.com/curseofstrahdanya/feed.xml",
       "title_override": "Curse of Strahdanya - A Legends of Avantris Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -168,7 +201,9 @@
       "url": "https://anchor.fm/s/b0c7a35c/podcast/rss",
       "title_override": "D&D: Villains Of Visentria a grim/horror themed campaign",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -176,7 +211,8 @@
       "url": "https://feeds.libsyn.com/419792/rss",
       "title_override": "d20 Dames",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -184,7 +220,9 @@
       "url": "https://deeplydappergames.com/alone?format=rss",
       "title_override": "Die Alone: A solo RPG Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/solo"
       ]
     },
     {
@@ -192,8 +230,8 @@
       "url": "https://feeds.soundcloud.com/users/soundcloud:users:648749499/sounds.rss",
       "title_override": "DieFall",
       "categories": [
-        "ttrpgs/minor",
-        "Leisure"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -201,7 +239,8 @@
       "url": "https://feeds.megaphone.fm/dimension20",
       "title_override": "Dimension 20",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -209,7 +248,8 @@
       "url": "https://feeds.listenbox.app/rss/xVICKybmYKtX/audio.rss",
       "title_override": "Dimension 20",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -217,20 +257,28 @@
       "url": "https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40",
       "title_override": "DnDark",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
       "slug": "dodoborne-a-daggerheart-actual-play-podcast",
       "url": "https://feeds.transistor.fm/dodoborne",
-      "title_override": "DodoBorne: A Daggerheart Actual Play Podcast"
+      "title_override": "DodoBorne: A Daggerheart Actual Play Podcast",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/daggerheart"
+      ]
     },
     {
       "slug": "dork-tales",
       "url": "https://feed.podbean.com/dorktales/feed.xml",
       "title_override": "Dork Tales",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "fiction"
       ]
     },
     {
@@ -238,38 +286,56 @@
       "url": "https://www.spreaker.com/show/5828627/episodes/feed",
       "title_override": "Dragon's Greed Gaming Presents - Blade Runner: The Roleplaying Game",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
       "slug": "dragons-greed-gaming-presents-mork-borg",
       "url": "https://www.spreaker.com/show/5839076/episodes/feed",
-      "title_override": "Dragon's Greed Gaming Presents - Mork Borg"
+      "title_override": "Dragon's Greed Gaming Presents - Mork Borg",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/mork-borg"
+      ]
     },
     {
       "slug": "dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast",
       "url": "https://rss.art19.com/dumbgeons-and-dragons",
-      "title_override": "Dumbgeons and Dragons: A funny, rules-light D&D actual play podcast"
+      "title_override": "Dumbgeons and Dragons: A funny, rules-light D&D actual play podcast",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
+      ]
     },
     {
       "slug": "fables-of-refuge",
       "url": "https://fablesofrefuge.libsyn.com/rss",
       "title_override": "Fables of Refuge",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
       "slug": "flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast",
       "url": "https://anchor.fm/s/e221626c/podcast/rss",
-      "title_override": "Flail to the Face: A \"Compatible with Mörk Borg\" Actual Play Podcast"
+      "title_override": "Flail to the Face: A \"Compatible with Mörk Borg\" Actual Play Podcast",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/mork-borg"
+      ]
     },
     {
       "slug": "force-majeure-a-star-wars-actual-play-podcast",
       "url": "https://feeds.libsyn.com/110142/rss",
       "title_override": "Force Majeure - A Star Wars Actual Play Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -277,7 +343,8 @@
       "url": "http://friendsatthetable.libsyn.com/rss",
       "title_override": "Friends at the Table",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -285,7 +352,9 @@
       "url": "https://www.dimsdale.co.uk/rss/georabrc",
       "title_override": "George Orwell - A BBC Radio Collection",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "radio",
+        "fiction/audiobook"
       ]
     },
     {
@@ -293,7 +362,8 @@
       "url": "https://pinecast.com/feed/girls-guts-glory",
       "title_override": "Girls Guts Glory: The Broad Cast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -301,7 +371,9 @@
       "url": "https://anchor.fm/s/46ae158c/podcast/rss",
       "title_override": "Godfall: DnD",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -309,7 +381,8 @@
       "url": "https://feeds.redcircle.com/9447a3d1-6295-40b5-bc92-7f7ba0678160",
       "title_override": "Godsfall",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -317,7 +390,8 @@
       "url": "https://media.rss.com/green-box-gaming/feed.xml",
       "title_override": "Green Box Gaming",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -325,7 +399,9 @@
       "url": "https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca",
       "title_override": "Greetings Adventurers - Dungeons and Dragons 5e Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -333,7 +409,9 @@
       "url": "https://feed.podbean.com/guildgatesandgoblins/feed.xml",
       "title_override": "Guildgates & Goblins: A Dungeons & Dragons Podcast!",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -341,7 +419,8 @@
       "url": "https://www.dimsdale.co.uk/rss/tsfc",
       "title_override": "H. G. Wells (The Science Fiction Collection)",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -349,7 +428,8 @@
       "url": "https://www.happyjacks.org/feed/oneshots/",
       "title_override": "Happy Jacks RPG One Shots",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -357,7 +437,8 @@
       "url": "https://www.dimsdale.co.uk/rss/hpatps",
       "title_override": "Harry Potter and the Philosophers Stone",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -365,7 +446,8 @@
       "url": "https://feed.podbean.com/stumpt/feed.xml",
       "title_override": "Hero Squad!",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -373,7 +455,8 @@
       "url": "https://www.dndbeyond.com/podcasts/hotv.rss",
       "title_override": "Heroes of the Vale",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -381,7 +464,9 @@
       "url": "https://feeds.megaphone.fm/NSR8625352094",
       "title_override": "High Rollers DnD",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -389,7 +474,9 @@
       "url": "https://howfriendsroll.libsyn.com/rss",
       "title_override": "How Friends Roll | a Dungeons and Dragons 5th edition actual play DnD 5e podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -397,7 +484,8 @@
       "url": "https://feeds.simplecast.com/9uMQFeML",
       "title_override": "How We Roll Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -405,7 +493,9 @@
       "url": "https://www.dimsdale.co.uk/rss/jafobrdc",
       "title_override": "James Follett BBC Radio Collection",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "radio",
+        "fiction/audiobook"
       ]
     },
     {
@@ -413,8 +503,10 @@
       "url": "https://lamplightmagazine.com/feed/podcast/lamplight-radioplay/",
       "title_override": "LampLight Radio Play",
       "categories": [
-        "audiobooks",
-        "Arts"
+        "fiction",
+        "radio",
+        "fiction/audio-drama",
+        "fiction/audiobook"
       ]
     },
     {
@@ -422,7 +514,9 @@
       "url": "https://anchor.fm/s/35ef2de4/podcast/rss",
       "title_override": "Lawful Stupid - A DnD 5e Actual Play Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -430,7 +524,8 @@
       "url": "http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss",
       "title_override": "LegendLark",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -438,7 +533,9 @@
       "url": "https://anchor.fm/s/57338edc/podcast/rss",
       "title_override": "Mythic Thunderlute: A D&D Podcast Musical",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -446,7 +543,8 @@
       "url": "http://brianposehnsnerdpoker.libsyn.com/rss",
       "title_override": "Nerd Poker",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -454,7 +552,9 @@
       "url": "https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss",
       "title_override": "Not Another D&D Podcast",
       "categories": [
-        "feeds"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -462,7 +562,8 @@
       "url": "https://rss.simplecast.com/podcasts/1559/rss",
       "title_override": "One Shot",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -470,7 +571,8 @@
       "url": "https://rss.art19.com/one-shots-a-live-play-mini-series-podcast",
       "title_override": "One Shots a Live-Play Mini Series Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -478,7 +580,9 @@
       "url": "https://oneshotonslaught.libsyn.com/rss",
       "title_override": "One-shot Onslaught - A D&D 5e Actual Play Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -486,7 +590,8 @@
       "url": "https://anchor.fm/s/1a3b1cc/podcast/rss",
       "title_override": "Order of Shana: The Women running Dungeon Crawl Classics RPG",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -494,7 +599,9 @@
       "url": "https://outsidexbox.libsyn.com/rss",
       "title_override": "Oxventure: A Dungeons & Dragons Podcast",
       "categories": [
-        "feeds"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -502,7 +609,8 @@
       "url": "http://www.fandible.com/category/podcast/feed/",
       "title_override": "Podcast Archives - Fandible Actual Play Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -510,7 +618,8 @@
       "url": "https://www.dimsdale.co.uk/rss/rav1",
       "title_override": "Ravenor [1]",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -518,7 +627,8 @@
       "url": "https://www.dimsdale.co.uk/rss/rav2",
       "title_override": "Ravenor [2] Returned",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -526,7 +636,8 @@
       "url": "https://www.dimsdale.co.uk/rss/rav3",
       "title_override": "Ravenor [3] Rogue",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -534,7 +645,10 @@
       "url": "https://www.dimsdale.co.uk/rss/raybrabrdc",
       "title_override": "Ray Bradbury BBC Radio Drama Collection",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "radio",
+        "fiction/audio-drama",
+        "fiction/audiobook"
       ]
     },
     {
@@ -542,7 +656,8 @@
       "url": "https://feeds.megaphone.fm/FAFO5417156687",
       "title_override": "Realms of Peril & Glory | An Actual Play Anthology",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -550,7 +665,9 @@
       "url": "https://anchor.fm/s/53346a4/podcast/rss",
       "title_override": "RealmSmith Presents: Into The Mist - Live DnD Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -558,7 +675,8 @@
       "url": "https://www.tablestory.tv/series/rime-of-the-frostmaiden/feed/",
       "title_override": "Rime of the Frostmaiden - A D&D5e Actual Play Adventure",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -566,7 +684,9 @@
       "url": "https://feeds.redcircle.com/721aa1af-1a3d-4127-a0b9-7f1c74c64231",
       "title_override": "Role Radio - A 5e Actual Play Dungeons & Dragons Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -574,7 +694,9 @@
       "url": "https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9",
       "title_override": "Roll Britannia - A British Dungeons & Dragons 5e Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -582,7 +704,8 @@
       "url": "https://www.rollthehard20podcast.com/podcast-episode?format=rss",
       "title_override": "ROLL THE HARD 20 PODCAST",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -590,7 +713,8 @@
       "url": "https://feeds.megaphone.fm/OSPN6944597944",
       "title_override": "Session Zero",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -598,7 +722,8 @@
       "url": "https://rss.art19.com/sitcom-dnd",
       "title_override": "SitcomD&D",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -606,7 +731,8 @@
       "url": "https://www.dimsdale.co.uk/rss/st",
       "title_override": "Space Team [01]",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -614,7 +740,8 @@
       "url": "https://feed.podbean.com/startrekeuropa/feed.xml",
       "title_override": "Star Trek: Europa | Star Trek Adventures Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -622,7 +749,8 @@
       "url": "http://www.loyalbooks.com/book/Star-Trek-Section-31-Files/feed",
       "title_override": "Star Trek: The Section 31 Files by Eric L. Busby",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -630,7 +758,9 @@
       "url": "https://feed.podbean.com/starsarerightpublishing/feed.xml",
       "title_override": "Stars Are Right | Call of Cthulhu TTRPG actual-play podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
@@ -638,7 +768,9 @@
       "url": "https://www.dimsdale.co.uk/rss/spasfd",
       "title_override": "Starship Pandora - A Star Force Drama",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook",
+        "fiction/audio-drama"
       ]
     },
     {
@@ -646,20 +778,27 @@
       "url": "https://feeds.megaphone.fm/storybreakers",
       "title_override": "Storybreakers",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
       "slug": "strange-encounter-a-pirate-borg-actual-play",
       "url": "https://feeds.acast.com/public/shows/67e7f489e270d6e036be51c1",
-      "title_override": "Strange Encounter - A Pirate Borg Actual Play"
+      "title_override": "Strange Encounter - A Pirate Borg Actual Play",
+      "categories": [
+        "ttrpg",
+        "actual-play",
+        "ttrpg/pirate-borg"
+      ]
     },
     {
       "slug": "tabletop-tiddies",
       "url": "https://feeds.buzzsprout.com/1348282.rss",
       "title_override": "Tabletop Tiddies",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -667,7 +806,8 @@
       "url": "https://takinginitiativepodcast.libsyn.com/rss",
       "title_override": "Taking Initiative",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -675,7 +815,9 @@
       "url": "https://feeds.megaphone.fm/stinkydragon",
       "title_override": "Tales from the Stinky Dragon",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "fiction"
       ]
     },
     {
@@ -683,7 +825,8 @@
       "url": "https://feeds.simplecast.com/cYQVc__c",
       "title_override": "The Adventure Zone",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -691,7 +834,8 @@
       "url": "https://www.spreaker.com/show/5656706/episodes/feed",
       "title_override": "The Adventures of Philip Marlowe",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -699,7 +843,8 @@
       "url": "https://feeds.simplecast.com/zFbTDssQ",
       "title_override": "The City That Never Dies",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -707,7 +852,9 @@
       "url": "https://thedamageguild.com/feed/podcast/",
       "title_override": "The Damage Guild | A D&D Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -715,7 +862,9 @@
       "url": "https://www.thedamageguild.com/feed/podcast2",
       "title_override": "The Damage Guild | A Pathfinder 2E Podcast",
       "categories": [
-        "feeds"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/pathfinder"
       ]
     },
     {
@@ -723,7 +872,8 @@
       "url": "https://thedicegirls.podbean.com/feed.xml",
       "title_override": "The Dice Girls",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -731,7 +881,8 @@
       "url": "https://anchor.fm/s/45cf9500/podcast/rss",
       "title_override": "The Gilded Troll",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -739,7 +890,8 @@
       "url": "https://feeds.megaphone.fm/QCD8414694967",
       "title_override": "The Glass Cannon Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -747,9 +899,10 @@
       "url": "https://feeds.megaphone.fm/thorb",
       "title_override": "The Heresies Of Radulf Burntwine",
       "categories": [
-        "ttrpgs/minor",
-        "audiobooks",
-        "Drama"
+        "ttrpg",
+        "actual-play",
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -757,7 +910,8 @@
       "url": "https://www.dimsdale.co.uk/rss/thhgttg",
       "title_override": "The Hitchhikers Guide To The Galaxy",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -765,7 +919,9 @@
       "url": "https://feeds.feedburner.com/TheIronRealm",
       "title_override": "The Iron Realm Mega Dungeon Crawl & Dark Fantasy Solo RPG Gaming Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/solo"
       ]
     },
     {
@@ -773,7 +929,9 @@
       "url": "https://feed.podbean.com/thelovecrafttapes/feed.xml",
       "title_override": "The Lovecraft Tapes | Actual-Play Call Of Cthulhu Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
@@ -781,7 +939,9 @@
       "url": "https://feeds.simplecast.com/yGdbbBoo",
       "title_override": "The Magpies: A Blades in the Dark Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/blades-in-the-dark"
       ]
     },
     {
@@ -789,7 +949,33 @@
       "url": "https://feeds.soundcloud.com/users/soundcloud:users:407156172/sounds.rss",
       "title_override": "The Misadventurers | A D&D Folklore Mystery Tour",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
+      ]
+    },
+    {
+      "slug": "mystery-quest",
+      "url": "https://feeds.megaphone.fm/NSR3713660967",
+      "title_override": "Mystery Quest",
+      "categories": [
+        "games"
+      ]
+    },
+    {
+      "slug": "the-apocalypse-players",
+      "url": "https://www.apocalypseplayers.com/feed.xml",
+      "title_override": "The Apocalypse Players",
+      "categories": [
+        "entertainment"
+      ]
+    },
+    {
+      "slug": "natural-six",
+      "url": "https://feeds.acast.com/public/shows/natural-six",
+      "title_override": "Natural Six",
+      "categories": [
+        "entertainment"
       ]
     },
     {
@@ -797,7 +983,8 @@
       "url": "https://feed.podbean.com/theotherplace/feed.xml",
       "title_override": "The Otherplace: an Actual Play RPG Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -805,7 +992,8 @@
       "url": "https://feed.podbean.com/rpgeeksdnd/feed.xml",
       "title_override": "The RPGeeks",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -813,7 +1001,9 @@
       "url": "https://feeds.buzzsprout.com/1458004.rss",
       "title_override": "The Tabletop Tales",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "fiction"
       ]
     },
     {
@@ -821,7 +1011,8 @@
       "url": "https://www.dimsdale.co.uk/rss/tubt",
       "title_override": "The Unbelievable Truth",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -829,7 +1020,8 @@
       "url": "https://feeds.libsyn.com/105383/rss",
       "title_override": "The Unexpectables",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -837,7 +1029,8 @@
       "url": "https://thevintagerpgpodcast.libsyn.com/rss",
       "title_override": "The Vintage RPG Podcast",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     },
     {
@@ -845,7 +1038,9 @@
       "url": "https://feeds.acast.com/public/shows/63b72b25938ea90011f220c3",
       "title_override": "Time For Chaos - A Call of Cthulhu Masks of Nyarlathotep Campaign",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
@@ -853,20 +1048,29 @@
       "url": "https://tentacles.libsyn.com/rss",
       "title_override": "Tomes & Tentacles - Call of Cthulhu Actual Play",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/call-of-cthulhu"
       ]
     },
     {
       "slug": "twilight-zone-radio-dramas",
       "url": "https://archive.org/download/rss_twzo/twzo",
-      "title_override": "Twilight Zone Radio Dramas"
+      "title_override": "Twilight Zone Radio Dramas",
+      "categories": [
+        "fiction",
+        "radio",
+        "fiction/audio-drama"
+      ]
     },
     {
       "slug": "viva-la-dirt-league-d-d",
       "url": "https://feeds.megaphone.fm/QCD3339460143",
       "title_override": "Viva La Dirt League D&D",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play",
+        "ttrpg/dnd"
       ]
     },
     {
@@ -874,7 +1078,8 @@
       "url": "https://feeds.megaphone.fm/wefixspacejunk",
       "title_override": "We Fix Space Junk",
       "categories": [
-        "audiobooks"
+        "fiction",
+        "fiction/audiobook"
       ]
     },
     {
@@ -882,7 +1087,7 @@
       "url": "https://www.dimsdale.co.uk/rss/weta",
       "title_override": "Weird Tales BBC",
       "categories": [
-        "feeds"
+        "fiction"
       ]
     },
     {
@@ -890,7 +1095,8 @@
       "url": "https://feeds.buzzsprout.com/1846541.rss",
       "title_override": "WHO LIVES WHO DICE",
       "categories": [
-        "ttrpgs/minor"
+        "ttrpg",
+        "actual-play"
       ]
     }
   ]

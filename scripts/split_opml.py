@@ -32,6 +32,37 @@ FICTION_KW = re.compile(
     re.IGNORECASE,
 )
 
+ACTUALPLAY_SYSTEMS: list[tuple[str, re.Pattern[str]]] = [
+    ("ttrpg/dnd", re.compile(r"\b(dnd|d&d|dungeons?\s*(?:&|and)?\s*dragons?|5e)\b", re.IGNORECASE)),
+    ("ttrpg/pathfinder", re.compile(r"\bpathfinder\b", re.IGNORECASE)),
+    ("ttrpg/starfinder", re.compile(r"\bstarfinder\b", re.IGNORECASE)),
+    ("ttrpg/call-of-cthulhu", re.compile(r"\b(call\s+of\s+cthulhu|cthulhu)\b", re.IGNORECASE)),
+    ("ttrpg/delta-green", re.compile(r"\bdelta\s+green\b", re.IGNORECASE)),
+    ("ttrpg/blades-in-the-dark", re.compile(r"\bblades\s+in\s+the\s+dark\b", re.IGNORECASE)),
+    ("ttrpg/mork-borg", re.compile(r"\bm[öo]rk\s+borg\b", re.IGNORECASE)),
+    ("ttrpg/pirate-borg", re.compile(r"\bpirate\s+borg\b", re.IGNORECASE)),
+    ("ttrpg/shadowrun", re.compile(r"\bshadowrun\b", re.IGNORECASE)),
+    ("ttrpg/warhammer", re.compile(r"\bwarhammer\b", re.IGNORECASE)),
+    ("ttrpg/cyberpunk", re.compile(r"\bcyberpunk\b", re.IGNORECASE)),
+    ("ttrpg/vtm", re.compile(r"\bvampire\s+the\s+masquerade\b", re.IGNORECASE)),
+    ("ttrpg/daggerheart", re.compile(r"\bdaggerheart\b", re.IGNORECASE)),
+]
+
+OTHER_HINTS: list[tuple[str, re.Pattern[str]]] = [
+    ("comedy", re.compile(r"\b(comedy|comedian|jokes)\b", re.IGNORECASE)),
+    ("comedy", re.compile(r"\b(taskmaster|off\s+menu|rhlstp|adam\s+buxton|horne\s+section|jimmy\s+carr)\b", re.IGNORECASE)),
+    ("comedy", re.compile(r"\b(class\s+clown|perfect\s+day|mom\s+can'?t\s+cook|mark\s+simmons|lip\s+service)\b", re.IGNORECASE)),
+    ("music", re.compile(r"\b(music|jazz|celtic)\b", re.IGNORECASE)),
+    ("science", re.compile(r"\b(nature|science)\b", re.IGNORECASE)),
+    ("politics", re.compile(r"\bpolitics\b", re.IGNORECASE)),
+    ("news", re.compile(r"\b(news|private\s+eye)\b", re.IGNORECASE)),
+    ("fiction", re.compile(r"\b(fiction|audiobook|audio\s*book|audio\s*drama|radio\s*drama|radio\s*play|short\s+stories|plays?)\b", re.IGNORECASE)),
+    ("fiction", re.compile(r"\b(sherlock|poirot|judge\s+dredd|twilight\s+zone)\b", re.IGNORECASE)),
+    ("games", re.compile(r"\b(gaming|games?|pixels|firelink|quest|heroes|adventure)\b", re.IGNORECASE)),
+    ("hobbies", re.compile(r"\bwoodturn\w*\b", re.IGNORECASE)),
+    ("language", re.compile(r"\b(cymraeg|welsh)\b", re.IGNORECASE)),
+]
+
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Split a Podcast Republic OPML export into two feeds configs.")
@@ -54,6 +85,124 @@ def _unescape_repeat(text: str) -> str:
 
 def _norm_ws(text: str) -> str:
     return re.sub(r"\s+", " ", str(text or "")).strip()
+
+
+def _opml_category_parts(feed: OpmlFeed) -> list[str]:
+    raw = str(feed.category or "")
+    if not raw:
+        return []
+    parts: list[str] = []
+    for part in raw.split(","):
+        part = _norm_ws(_unescape_repeat(part)).strip().strip("/")
+        if not part:
+            continue
+        parts.append(part)
+    # Dedup while preserving order.
+    seen: set[str] = set()
+    out: list[str] = []
+    for p in parts:
+        k = p.lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(p)
+    return out
+
+
+def _add_cat(out: list[str], cat: str) -> None:
+    c = str(cat or "").strip().strip("/")
+    if not c:
+        return
+    c = c.lower()
+    if c in out:
+        return
+    out.append(c)
+
+
+def _categories_actualplays(feed: OpmlFeed) -> list[str]:
+    cats: list[str] = []
+    parts = [p.lower() for p in _opml_category_parts(feed)]
+    hay = (feed.title + " " + feed.path).lower()
+
+    is_ttrpg = any("ttrpg" in p for p in parts) or bool(TTRPG_KW.search(hay))
+    is_story = any(("audiobooks" in p) or ("drama" in p) for p in parts) or bool(FICTION_KW.search(hay))
+
+    if is_ttrpg:
+        _add_cat(cats, "ttrpg")
+        _add_cat(cats, "ttrpg/actual-play")
+        if re.search(r"\bsolo\b", hay, flags=re.IGNORECASE):
+            _add_cat(cats, "ttrpg/solo")
+        for cat, rx in ACTUALPLAY_SYSTEMS:
+            if rx.search(hay):
+                _add_cat(cats, cat)
+
+    if is_story and (not is_ttrpg):
+        _add_cat(cats, "fiction")
+    if is_story and is_ttrpg:
+        _add_cat(cats, "fiction")
+
+    if re.search(r"\bbbc\b", hay, flags=re.IGNORECASE) and re.search(r"\bradio\b", hay, flags=re.IGNORECASE):
+        _add_cat(cats, "radio")
+    if re.search(r"\bradio\s*drama|radio\s*play|imagination\s+theatre\b", hay, flags=re.IGNORECASE):
+        _add_cat(cats, "radio")
+        _add_cat(cats, "fiction/audio-drama")
+
+    if any("audiobooks" in p for p in parts) or re.search(r"\baudiobook|audio\s*book\b", hay, flags=re.IGNORECASE):
+        _add_cat(cats, "fiction/audiobook")
+        _add_cat(cats, "fiction")
+
+    if re.search(r"\baudio\s*drama|drama\b", hay, flags=re.IGNORECASE):
+        _add_cat(cats, "fiction/audio-drama")
+        _add_cat(cats, "fiction")
+
+    if not cats:
+        # Shouldn't happen given how we split, but keep it explicit.
+        _add_cat(cats, "ttrpg")
+    return cats
+
+
+def _categories_other(feed: OpmlFeed) -> list[str]:
+    cats: list[str] = []
+    parts = [p.lower() for p in _opml_category_parts(feed)]
+    hay = (feed.title + " " + feed.path).lower()
+
+    # Some subscriptions are effectively "fiction/audiobook" but have no useful OPML category or title keywords.
+    if "archive.org" in str(feed.url or "").lower():
+        _add_cat(cats, "fiction")
+
+    for p in parts:
+        if p in ("feeds",):
+            continue
+        if "politics" in p:
+            _add_cat(cats, "politics")
+        elif "news" in p:
+            _add_cat(cats, "news")
+        elif "science" in p:
+            _add_cat(cats, "science")
+        elif "knowledge" in p:
+            _add_cat(cats, "education")
+        elif "audiobooks" in p:
+            _add_cat(cats, "fiction")
+            _add_cat(cats, "fiction/audiobook")
+        elif "drama" in p:
+            _add_cat(cats, "fiction")
+            _add_cat(cats, "fiction/audio-drama")
+        elif "arts" in p:
+            _add_cat(cats, "culture")
+        else:
+            _add_cat(cats, p)
+
+    for cat, rx in OTHER_HINTS:
+        if rx.search(hay):
+            _add_cat(cats, cat)
+
+    if not cats:
+        _add_cat(cats, "entertainment")
+    return cats
+
+
+def _categories_local(_feed: OpmlFeed) -> list[str]:
+    return ["local"]
 
 
 @dataclass(frozen=True)
@@ -152,22 +301,18 @@ def _unique_slug(title: str, used: set[str]) -> str:
     return slug
 
 
-def _make_config(feeds: list[OpmlFeed], *, include_notes: bool) -> dict[str, Any]:
+def _make_config(feeds: list[OpmlFeed], *, include_notes: bool, mode: str) -> dict[str, Any]:
     used: set[str] = set()
     items: list[dict[str, Any]] = []
     for f in sorted(feeds, key=lambda x: x.title.lower()):
-        categories: list[str] = []
-        if f.category:
-            for part in str(f.category).split(","):
-                part = _norm_ws(_unescape_repeat(part)).strip()
-                part = part.strip("/")
-                if not part:
-                    continue
-                categories.append(part)
-        # Dedup while preserving order.
-        if categories:
-            seen = set()
-            categories = [c for c in categories if not (c in seen or seen.add(c))]
+        if mode == "actualplays":
+            categories = _categories_actualplays(f)
+        elif mode == "other":
+            categories = _categories_other(f)
+        elif mode == "local":
+            categories = _categories_local(f)
+        else:
+            categories = []
 
         row: dict[str, Any] = {
             "slug": _unique_slug(f.title, used),
@@ -214,9 +359,9 @@ def main() -> int:
         is_ap, _reason = _is_actualplay(f)
         (ap if is_ap else other).append(f)
 
-    out_ap = _make_config(ap, include_notes=False)
-    out_other = _make_config(other, include_notes=False)
-    out_local = _make_config(local, include_notes=False)
+    out_ap = _make_config(ap, include_notes=False, mode="actualplays")
+    out_other = _make_config(other, include_notes=False, mode="other")
+    out_local = _make_config(local, include_notes=False, mode="local")
 
     (REPO_ROOT / args.out_actualplays).write_text(json.dumps(out_ap, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (REPO_ROOT / args.out_other).write_text(json.dumps(out_other, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
