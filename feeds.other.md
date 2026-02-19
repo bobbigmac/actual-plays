@@ -1,7 +1,7 @@
 # Site
 - id: other
-- title: Bob's Podcasts
-- subtitle: A self-updating, static podcast browser
+- title: Bob's Favourite Podcasts
+- subtitle: I like some podcasts. You might like them too.
 - description: A personal podcast index.
 - base_path: /
 - og_image: assets/bobs-faves-promo.jpg
