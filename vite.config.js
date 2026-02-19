@@ -106,7 +106,7 @@ function copyAsset(file) {
         "site/pwa/**",
         "scripts/**",
         "feed-profiles/**",
-        "feeds*.json",
+        "feeds*.md",
         "cache/**",
       ];
       server.watcher.add(watch);
@@ -158,7 +158,7 @@ function copyAsset(file) {
           return;
         }
 
-        const alsoUpdateFeeds = rel === "feeds.md" || rel === "feeds.json";
+        const alsoUpdateFeeds = rel === "feeds.md";
         server.ws.send({
           type: "custom",
           event: "ap:status",

@@ -134,7 +134,7 @@ def _parse_args() -> argparse.Namespace:
     p.add_argument(
         "--feeds",
         default="feeds.md",
-        help="Path to feeds config (Markdown or JSON; includes top-level 'site', 'defaults', and 'feeds').",
+        help="Path to feeds config Markdown (.md; includes top-level 'site', 'defaults', and 'feeds').",
     )
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--dist", default="dist", help="Output directory.")
@@ -402,7 +402,22 @@ def _write_page(
 def main() -> int:
     args = _parse_args()
 
-    cfg = read_feeds_config(REPO_ROOT / args.feeds)
+    try:
+        cfg = read_feeds_config(REPO_ROOT / args.feeds)
+    except Exception as e:
+        print("[error] Failed to parse feeds config.", file=sys.stderr)
+        print(f"Path: {REPO_ROOT / args.feeds}", file=sys.stderr)
+        print(str(e), file=sys.stderr)
+        print("", file=sys.stderr)
+        print("Expected a Markdown file like:", file=sys.stderr)
+        print("  # Site", file=sys.stderr)
+        print("  - title: …", file=sys.stderr)
+        print("  # Defaults", file=sys.stderr)
+        print("  - min_hours_between_checks: 2", file=sys.stderr)
+        print("  # Feeds", file=sys.stderr)
+        print("  ## my-feed-slug", file=sys.stderr)
+        print("  - url: https://example.com/rss", file=sys.stderr)
+        return 2
     site_cfg = cfg.get("site") if isinstance(cfg, dict) else None
     if not isinstance(site_cfg, dict):
         site_cfg = {}

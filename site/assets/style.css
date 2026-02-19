@@ -128,7 +128,7 @@ a:hover {
 
 .episode-row {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: minmax(0, 1fr) fit-content(190px);
   gap: 8px 12px;
   align-items: start;
 }
@@ -193,8 +193,27 @@ a:hover {
 .episode-row .row-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
   justify-content: flex-end;
+  max-width: 190px;
+}
+
+.episode-row .row-actions .btn-sm {
+  padding: 6px 9px;
+}
+
+.episode-row .row-actions .btn-primary.btn-sm {
+  padding: 6px 10px;
+}
+
+.episode-row details.menu > summary.btn.btn-sm {
+  min-width: 34px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.episode-row .queue-btn::before {
+  margin-right: 5px;
 }
 
 .episode-row.is-done {

@@ -27,16 +27,25 @@ def read_json(path: Path) -> dict[str, Any]:
 
 def read_feeds_config(path: Path) -> dict[str, Any]:
     """
-    Read the feeds config, which may be JSON (`feeds*.json`) or Markdown (`feeds*.md`).
+    Read the feeds config (Markdown only).
     """
+    if not path.exists():
+        raise ValueError(
+            f"Feeds config not found: {path}\n"
+            f"Tip: run `yarn convert:feedsmd` to generate `feeds.md` from legacy `feeds*.json`."
+        )
     suffix = path.suffix.lower()
-    if suffix == ".md":
-        text = path.read_text(encoding="utf-8", errors="replace")
-        cfg = parse_feeds_markdown(text)
-        if not isinstance(cfg, dict):
-            raise ValueError(f"Invalid markdown feeds config: {path}")
-        return cfg
-    return read_json(path)
+    if suffix != ".md":
+        raise ValueError(
+            f"Feeds config must be Markdown (.md).\n"
+            f"Got: {path}\n"
+            f"Tip: run `yarn convert:feedsmd` to generate `feeds.md` from legacy `feeds*.json`."
+        )
+    text = path.read_text(encoding="utf-8", errors="replace")
+    cfg = parse_feeds_markdown(text)
+    if not isinstance(cfg, dict):
+        raise ValueError(f"Invalid markdown feeds config: {path}")
+    return cfg
 
 
 def write_json(path: Path, data: Any) -> None:

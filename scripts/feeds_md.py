@@ -6,7 +6,33 @@ from typing import Any
 
 
 _HEADING_RE = re.compile(r"^(?P<level>#{1,6})\s+(?P<title>.+?)\s*$")
-_KV_RE = re.compile(r"^(?:-\s*)?(?P<key>[A-Za-z0-9_./-]+)\s*:\s*(?P<val>.*)\s*$")
+_KV_RE = re.compile(r"^(?:[-*+]\s*)?(?P<key>[A-Za-z0-9_./-]+)\s*(?P<sep>[:=])\s*(?P<val>.*)\s*$")
+
+
+def _slugify(text: str) -> str:
+    s = str(text or "").strip().lower()
+    s = re.sub(r"[’']", "", s)
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    return s.strip("-") or "unknown"
+
+
+def _is_slug(s: str) -> bool:
+    return bool(re.fullmatch(r"[a-z0-9][a-z0-9-]{1,80}", str(s or "").strip()))
+
+
+def _infer_slug(feed: dict[str, Any]) -> str:
+    t = str(feed.get("title_override") or feed.get("title") or "").strip()
+    if t:
+        return _slugify(t)
+    u = str(feed.get("url") or "").strip()
+    if u:
+        # best-effort: last path segment or hostname-ish
+        u2 = re.sub(r"^https?://", "", u, flags=re.IGNORECASE)
+        u2 = u2.split("?", 1)[0].split("#", 1)[0]
+        parts = [p for p in re.split(r"[\\/]", u2) if p]
+        if parts:
+            return _slugify(parts[-1])
+    return ""
 
 
 def _norm_key(key: str) -> str:
@@ -127,25 +153,38 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
             level = len(m.group("level"))
             title = m.group("title").strip()
             title_l = title.lower()
-            if level == 1:
-                if title_l in ("site", "defaults", "feeds"):
-                    current_top = title_l
-                    current_feed = None
-                else:
-                    current_top = None
-                    current_feed = None
-            elif level == 2 and current_top == "site" and title_l in ("home intro", "home_intro", "intro"):
+            # Allow flexible heading levels (LLM edits may drift).
+            if title_l in ("site", "site config", "config/site"):
+                current_top = "site"
+                current_feed = None
+                continue
+            if title_l in ("defaults", "default", "settings", "config/defaults"):
+                current_top = "defaults"
+                current_feed = None
+                continue
+            if title_l in ("feeds", "podcasts", "subscriptions"):
+                current_top = "feeds"
+                current_feed = None
+                continue
+
+            if current_top == "site" and title_l in ("home intro", "home_intro", "intro", "welcome"):
                 in_site_intro = True
                 current_feed = None
-            elif level == 2 and current_top == "feeds":
-                slug = title.strip()
-                if not slug:
-                    current_feed = None
-                else:
-                    current_feed = {"slug": slug}
-                    cfg["feeds"].append(current_feed)
-            else:
-                current_feed = None
+                continue
+
+            if current_top == "feeds" and level >= 2:
+                s = title.strip()
+                # Strip common prefixes.
+                s = re.sub(r"^(feed|podcast|slug)\s*[:\-]\s*", "", s, flags=re.IGNORECASE).strip()
+                # Take the LHS of separators if present.
+                for sep in (" — ", " - ", " – ", " | "):
+                    if sep in s:
+                        s = s.split(sep, 1)[0].strip()
+                        break
+                # If it's already slug-shaped, keep as-is; otherwise slugify.
+                slug = s if _is_slug(s) else _slugify(s)
+                current_feed = {"slug": slug}
+                cfg["feeds"].append(current_feed)
             continue
 
         if in_site_intro:
@@ -157,7 +196,7 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         km = _KV_RE.match(line)
         if not km:
-            # Ignore free-form content for now (keeps config strict/predictable).
+            # Ignore free-form content for now (keeps config predictable).
             continue
 
         key = _norm_key(km.group("key"))
@@ -178,14 +217,26 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
 
         key_l = key.lower()
 
-        if key_l in ("owners", "owner", "common_speakers", "commonSpeakers".lower(), "categories", "category"):
+        # Key aliases / normalization.
+        if current_top == "feeds" and key_l == "title":
+            key_l = "title_override"
+            key = "title_override"
+        if key_l in ("xmlurl", "xml_url", "feed", "feed_url", "feedurl"):
+            key_l = "url"
+            key = "url"
+        if key_l in ("editorsnote", "editor_note"):
+            key_l = "editors_note"
+            key = "editors_note"
+        if key_l == "commonspeakers":
+            key_l = "common_speakers"
+            key = "common_speakers"
+
+        if key_l in ("owners", "owner", "common_speakers", "categories", "category"):
             items = _split_list(val_raw)
             if key_l in ("owner",):
                 key = "owners"
             if key_l in ("category",):
                 key = "categories"
-            if key_l == "commonspeakers":
-                key = "common_speakers"
             target[key] = items
             continue
 
@@ -215,6 +266,44 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
         target[key] = _parse_scalar(val_raw)
 
     flush_intro()
+
+    # Post-parse validation + inference.
+    site = cfg.get("site") if isinstance(cfg.get("site"), dict) else {}
+    defaults = cfg.get("defaults") if isinstance(cfg.get("defaults"), dict) else {}
+    feeds = cfg.get("feeds") if isinstance(cfg.get("feeds"), list) else []
+
+    # If the file is basically empty/nonsense, fail fast (but allow legitimately empty feeds).
+    if not site and not defaults and not feeds:
+        raise ValueError(
+            "No config content found. Expected headings like `# Site`, `# Defaults`, and `# Feeds`."
+        )
+
+    # Fill missing slug/url using best-effort inference; validate minimally.
+    errors: list[str] = []
+    seen: set[str] = set()
+    for i, feed in enumerate(feeds):
+        if not isinstance(feed, dict):
+            errors.append(f"Feed entry #{i+1}: not a mapping/object.")
+            continue
+        slug = str(feed.get("slug") or "").strip()
+        if not slug:
+            inferred = _infer_slug(feed)
+            if inferred:
+                feed["slug"] = inferred
+                slug = inferred
+        if not slug:
+            errors.append(f"Feed entry #{i+1}: missing slug (use a `## <slug>` heading or `slug: ...`).")
+        else:
+            if slug in seen:
+                errors.append(f"Feed entry #{i+1}: duplicate slug `{slug}`.")
+            seen.add(slug)
+
+        url = str(feed.get("url") or "").strip()
+        if not url:
+            errors.append(f"Feed `{slug or ('#'+str(i+1))}`: missing url (use `url: https://...`).")
+
+    if errors:
+        raise ValueError("Invalid feeds config:\n- " + "\n- ".join(errors))
 
     # Normalize: drop empty site/defaults if not provided.
     if not isinstance(cfg.get("feeds"), list):

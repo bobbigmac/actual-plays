@@ -18,6 +18,7 @@ from scripts.shared import (
     fetch_url,
     parse_feed,
     path_stats,
+    read_json,
     read_feeds_config,
     sanitize_speakers,
     sanitize_topics,
@@ -32,7 +33,7 @@ def _parse_args() -> argparse.Namespace:
     p.add_argument(
         "--feeds",
         default="feeds.md",
-        help="Path to feeds config (Markdown or JSON; contains 'site' + 'defaults' + 'feeds').",
+        help="Path to feeds config Markdown (.md; contains 'site' + 'defaults' + 'feeds').",
     )
     p.add_argument("--cache", default="cache", help="Cache directory.")
     p.add_argument("--force", action="store_true", help="Ignore cooldown and refetch all feeds.")
@@ -480,7 +481,22 @@ def main() -> int:
     state_path = cache_dir / "state.json"
     feeds_md_dir = cache_dir / "feeds"
 
-    cfg = read_feeds_config(feeds_path)
+    try:
+        cfg = read_feeds_config(feeds_path)
+    except Exception as e:
+        print("[error] Failed to parse feeds config.", file=sys.stderr)
+        print(f"Path: {feeds_path}", file=sys.stderr)
+        print(str(e), file=sys.stderr)
+        print("", file=sys.stderr)
+        print("Expected a Markdown file like:", file=sys.stderr)
+        print("  # Site", file=sys.stderr)
+        print("  - title: …", file=sys.stderr)
+        print("  # Defaults", file=sys.stderr)
+        print("  - min_hours_between_checks: 2", file=sys.stderr)
+        print("  # Feeds", file=sys.stderr)
+        print("  ## my-feed-slug", file=sys.stderr)
+        print("  - url: https://example.com/rss", file=sys.stderr)
+        return 2
     defaults = cfg.get("defaults", {})
     min_hours_between_checks = int(defaults.get("min_hours_between_checks", 6))
     max_episodes_per_feed = int(defaults.get("max_episodes_per_feed", 200))
