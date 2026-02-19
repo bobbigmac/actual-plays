@@ -86,6 +86,7 @@ self.addEventListener("install", (event) => {
           urlFor("assets/app/store.js"),
           urlFor("assets/app/model.js"),
           urlFor("assets/app/offline_api.js"),
+          urlFor("assets/app/util/bytes.js"),
           urlFor("assets/app/util/time.js"),
           urlFor("assets/app/util/url.js"),
           urlFor("assets/app/ui/episode_dom.js"),

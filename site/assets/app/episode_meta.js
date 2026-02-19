@@ -19,6 +19,8 @@ export function readEpisodeMetaFromElement(el) {
   var audio = el.getAttribute("data-episode-audio") || "";
   var link = el.getAttribute("data-episode-link") || "";
   var image = el.getAttribute("data-episode-image") || "";
+  var duration = Number(el.getAttribute("data-episode-duration") || 0) || 0;
+  var bytes = Number(el.getAttribute("data-episode-bytes") || 0) || 0;
   return {
     id: id,
     feedSlug: feedSlug,
@@ -29,6 +31,8 @@ export function readEpisodeMetaFromElement(el) {
     a: audio,
     l: link,
     im: image,
+    du: duration,
+    b: bytes,
   };
 }
 
@@ -56,6 +60,8 @@ function fetchEpisodeMeta(feedSlug, episodeKey) {
         a: li.getAttribute("data-episode-audio") || "",
         l: li.getAttribute("data-episode-link") || "",
         im: li.getAttribute("data-episode-image") || "",
+        du: Number(li.getAttribute("data-episode-duration") || 0) || 0,
+        b: Number(li.getAttribute("data-episode-bytes") || 0) || 0,
       };
     });
 }
@@ -82,9 +88,10 @@ export function resolveEpisodeMeta(hint) {
       a: meta.a || full.a,
       l: meta.l || full.l,
       im: meta.im || full.im,
+      du: Number(meta.du) || Number(full.du) || 0,
+      b: Number(meta.b) || Number(full.b) || 0,
     };
     episodeMetaCache.set(meta.id, merged);
     return merged;
   });
 }
-

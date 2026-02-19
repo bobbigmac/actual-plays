@@ -372,6 +372,7 @@ def _process_one_feed(
                 "image_url": image_url,
                 "enclosure_url": enclosure_url,
                 "enclosure_type": item.get("enclosure_type"),
+                "enclosure_length": item.get("enclosure_length"),
                 "itunes_duration": item.get("itunes_duration"),
             }
         )

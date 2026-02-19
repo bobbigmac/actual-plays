@@ -5,6 +5,8 @@ import { loadHistory } from "./state/history.js";
 import { loadQueue } from "./state/queue.js";
 import { readProgress } from "./state/progress.js";
 import { artHtml } from "./ui/art.js";
+import { fmtBytes } from "./util/bytes.js";
+import { fmtTime } from "./util/time.js";
 
 export function isHomePage() {
   var base = new URL(getBasePath(), window.location.origin);
@@ -54,7 +56,12 @@ export function renderHomePanels() {
         encodeURIComponent(parsed.feedSlug) +
         "/?e=" +
         encodeURIComponent(parsed.episodeKey);
-      var meta = (it.ft ? esc(it.ft) + " · " : "") + (it.d ? esc(it.d) : "");
+      var bits = [];
+      if (it.ft) bits.push(esc(it.ft));
+      if (it.d) bits.push(esc(it.d));
+      if (Number(it.du) > 0) bits.push(esc(fmtTime(it.du)));
+      bits.push(esc(fmtBytes(it.b)));
+      var meta = bits.join(" · ");
       var seed = it.ft || parsed.feedSlug;
       return (
         '<li class="episode-row" data-episode-id="' +
@@ -75,6 +82,10 @@ export function renderHomePanels() {
         esc(it.l || "") +
         '" data-episode-image="' +
         esc(it.im || "") +
+        '" data-episode-duration="' +
+        esc(String(it.du || "")) +
+        '" data-episode-bytes="' +
+        esc(String(it.b || "")) +
         '">' +
         '<div class="row-main">' +
         '<div class="row-head"><span class="row-art">' +
@@ -119,7 +130,12 @@ export function renderHomePanels() {
         encodeURIComponent(parsed.feedSlug) +
         "/?e=" +
         encodeURIComponent(parsed.episodeKey);
-      var meta = (it.ft ? esc(it.ft) + " · " : "") + (it.d ? esc(it.d) : "");
+      var bits = [];
+      if (it.ft) bits.push(esc(it.ft));
+      if (it.d) bits.push(esc(it.d));
+      if (Number(it.du) > 0) bits.push(esc(fmtTime(it.du)));
+      bits.push(esc(fmtBytes(it.b)));
+      var meta = bits.join(" · ");
       var seed = it.ft || parsed.feedSlug;
       return (
         '<li class="episode-row" data-episode-id="' +
@@ -140,6 +156,10 @@ export function renderHomePanels() {
         esc(it.l || "") +
         '" data-episode-image="' +
         esc(it.im || "") +
+        '" data-episode-duration="' +
+        esc(String(it.du || "")) +
+        '" data-episode-bytes="' +
+        esc(String(it.b || "")) +
         '">' +
         '<div class="row-main">' +
         '<div class="row-head"><span class="row-art">' +
@@ -194,4 +214,3 @@ export function renderHomePanels() {
     latestList.appendChild(el);
   });
 }
-

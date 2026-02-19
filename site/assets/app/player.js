@@ -548,6 +548,8 @@ export function initPlayer() {
                 a: full.a || "",
                 l: full.l || "",
                 im: full.im || "",
+                du: Number(full.du) || 0,
+                b: Number(full.b) || 0,
                 u: Date.now(),
               });
               syncFromStorage();

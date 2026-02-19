@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import re
 import shutil
 import sys
 from collections import defaultdict
@@ -83,6 +84,73 @@ def _snippet(text: str, *, limit: int = 320) -> str:
     if len(text) <= limit:
         return text
     return text[:limit].rstrip() + "…"
+
+
+def _parse_int(value: Any) -> int | None:
+    if value is None:
+        return None
+    if isinstance(value, int):
+        return value
+    s = str(value).strip()
+    if not s:
+        return None
+    if not re.fullmatch(r"\d+", s):
+        return None
+    try:
+        n = int(s)
+        return n if n > 0 else None
+    except Exception:
+        return None
+
+
+def _duration_seconds(value: Any) -> int | None:
+    if value is None:
+        return None
+    s = str(value).strip()
+    if not s:
+        return None
+    if re.fullmatch(r"\d+", s):
+        try:
+            n = int(s)
+            return n if n > 0 else None
+        except Exception:
+            return None
+    if re.fullmatch(r"\d+:\d{2}", s):
+        mm, ss = s.split(":", 1)
+        try:
+            m = int(mm)
+            sec = int(ss)
+            return m * 60 + sec
+        except Exception:
+            return None
+    if re.fullmatch(r"\d+:\d{2}:\d{2}", s):
+        hh, mm, ss = s.split(":", 2)
+        try:
+            h = int(hh)
+            m = int(mm)
+            sec = int(ss)
+            return h * 3600 + m * 60 + sec
+        except Exception:
+            return None
+    return None
+
+
+def _fmt_time(seconds: int | None) -> str:
+    if not seconds:
+        return ""
+    s = max(0, int(seconds))
+    h = s // 3600
+    m = (s % 3600) // 60
+    ss = s % 60
+    if h > 0:
+        return f"{h}:{m:02d}:{ss:02d}"
+    return f"{m}:{ss:02d}"
+
+
+def _fmt_size(bytes_value: int | None) -> str:
+    if not bytes_value:
+        return "?MB"
+    return format_bytes(int(bytes_value))
 
 
 def _hue_from_slug(slug: str) -> int:
@@ -272,6 +340,8 @@ def main() -> int:
         feed_image_url = feed.get("image_url")
         for ep in feed.get("episodes") or []:
             speakers = ep.get("speakers") or []
+            dur_seconds = _duration_seconds(ep.get("itunes_duration"))
+            enclosure_bytes = _parse_int(ep.get("enclosure_length") or ep.get("enclosure_bytes"))
             episode_key = ep.get("key")
             ep_entry = {
                 "feed_slug": feed_slug,
@@ -283,6 +353,8 @@ def main() -> int:
                 "episode_image_url": ep.get("image_url"),
                 "audio_url": ep.get("enclosure_url"),
                 "link_url": ep.get("link"),
+                "duration_seconds": dur_seconds,
+                "enclosure_bytes": enclosure_bytes,
                 "speakers": speakers,
                 "topics": ep.get("topics") or [],
             }
@@ -314,18 +386,23 @@ def main() -> int:
         if not e.get("episode_key"):
             continue
         image_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
-        index_json.append(
-            {
-                "k": e["episode_key"],
-                "t": e.get("title") or "",
-                "d": (e.get("published_at") or "")[:10],
-                "f": e.get("feed_slug") or "",
-                "ft": e.get("feed_title") or "",
-                "im": image_url,
-                "s": e.get("speakers") or [],
-                "x": e.get("topics") or [],
-            }
-        )
+        row = {
+            "k": e["episode_key"],
+            "t": e.get("title") or "",
+            "d": (e.get("published_at") or "")[:10],
+            "f": e.get("feed_slug") or "",
+            "ft": e.get("feed_title") or "",
+            "im": image_url,
+            "s": e.get("speakers") or [],
+            "x": e.get("topics") or [],
+        }
+        b = e.get("enclosure_bytes")
+        du = e.get("duration_seconds")
+        if isinstance(b, int) and b > 0:
+            row["b"] = int(b)
+        if isinstance(du, int) and du > 0:
+            row["du"] = int(du)
+        index_json.append(row)
     write_json(dist_dir / "index.json", index_json)
     write_json(dist_dir / "site.json", site_cfg)
 
@@ -379,6 +456,8 @@ def main() -> int:
         feed_title = _esc(e.get("feed_title") or feed_slug)
         audio = _esc(str(e.get("audio_url") or ""))
         link = _esc(str(e.get("link_url") or ""))
+        dur_text = _esc(_fmt_time(e.get("duration_seconds")))
+        size_text = _esc(_fmt_size(e.get("enclosure_bytes")))
         img_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
         hue = _hue_from_slug(str(feed_slug))
         initials = "".join([p[0].upper() for p in str(e.get("feed_title") or feed_slug).split()[:2] if p])[:2] or "P"
@@ -388,6 +467,11 @@ def main() -> int:
             else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
         )
         url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
+        meta_bits = [feed_title, date]
+        if dur_text:
+            meta_bits.append(dur_text)
+        meta_bits.append(size_text)
+        meta_line = " · ".join([m for m in meta_bits if m])
         recent_items.append(
             f"""
             <li class="episode-row" data-episode-id="{_esc(episode_id)}"
@@ -398,13 +482,15 @@ def main() -> int:
               data-feed-title="{feed_title}"
               data-episode-audio="{audio}"
               data-episode-link="{link}"
-              data-episode-image="{_esc(img_url)}">
+              data-episode-image="{_esc(img_url)}"
+              data-episode-duration="{_esc(str(e.get("duration_seconds") or ""))}"
+              data-episode-bytes="{_esc(str(e.get("enclosure_bytes") or ""))}">
               <div class="row-main">
                 <div class="row-head">
                   <span class="row-art">{art}</span>
                   <div class="row-text">
                     <a href="{_esc(url)}">{title}</a>
-                    <span class="muted">({feed_title} · {date})</span>
+                    <span class="muted">({meta_line})</span>
                   </div>
                 </div>
               </div>
@@ -483,6 +569,8 @@ def main() -> int:
             date = _esc(str((ep.get("published_at") or "")[:10]))
             audio = _esc(str(ep.get("enclosure_url") or ""))
             link = _esc(str(ep.get("link") or ""))
+            dur_seconds = _duration_seconds(ep.get("itunes_duration"))
+            bytes_value = _parse_int(ep.get("enclosure_length") or ep.get("enclosure_bytes"))
             img_url = str((ep.get("image_url") or feed.get("image_url") or "")).strip()
             hue = _hue_from_slug(str(slug))
             initials = "".join([p[0].upper() for p in str(feed.get("title") or slug).split()[:2] if p])[:2] or "P"
@@ -494,7 +582,8 @@ def main() -> int:
             desc_full = str(ep.get("description") or "")
             desc_snip = _snippet(desc_full, limit=360)
             has_more = bool(desc_full and len(desc_full) > len(desc_snip))
-            dur = _esc(str(ep.get("itunes_duration") or ""))
+            dur = _esc(_fmt_time(dur_seconds))
+            size = _esc(_fmt_size(bytes_value))
             speakers = ep.get("speakers") or []
             speaker_links = []
             for sp in speakers:
@@ -507,6 +596,7 @@ def main() -> int:
                 f'<a class="ext" href="{link}" rel="noopener" target="_blank">Open episode</a>' if link else ""
             )
             dur_html = f'<span class="muted">· {dur}</span>' if dur else ""
+            size_html = f'<span class="muted">· {size}</span>' if size else ""
             more_btn_html = (
                 ' <button class="desc-toggle" type="button" data-desc-toggle aria-expanded="false">more…</button>'
                 if has_more
@@ -526,7 +616,9 @@ def main() -> int:
                   data-episode-date="{date}"
                   data-episode-audio="{audio}"
                   data-episode-link="{link}"
-                  data-episode-image="{_esc(img_url)}">
+                  data-episode-image="{_esc(img_url)}"
+                  data-episode-duration="{_esc(str(dur_seconds or ''))}"
+                  data-episode-bytes="{_esc(str(bytes_value or ''))}">
                   <div class="ep-actions">
                     <div class="ep-cover">{art}</div>
                     <button class="btn-primary btn-sm" type="button" data-action="play">Play</button>
@@ -544,7 +636,7 @@ def main() -> int:
                   </div>
                   <div class="meta">
                     <div class="title">{ep_title}</div>
-                    <div class="sub muted">{date} {dur_html} {ext_link_html}</div>
+                    <div class="sub muted">{date} {dur_html} {size_html} {ext_link_html}</div>
                     <div class="tags">{speakers_html}</div>
                     <div class="desc-wrap" data-desc-wrap>
                       <div class="desc-snippet" data-desc-snippet>
@@ -655,6 +747,8 @@ def main() -> int:
                 date = _esc(str((e.get("published_at") or "")[:10]))
                 audio = _esc(str(e.get("audio_url") or ""))
                 link = _esc(str(e.get("link_url") or ""))
+                dur_text = _esc(_fmt_time(e.get("duration_seconds")))
+                size_text = _esc(_fmt_size(e.get("enclosure_bytes")))
                 img_url = str((e.get("episode_image_url") or e.get("feed_image_url") or "")).strip()
                 hue = _hue_from_slug(str(feed_slug))
                 initials = "".join([p[0].upper() for p in str(feed_title_raw or feed_slug).split()[:2] if p])[:2] or "P"
@@ -664,6 +758,11 @@ def main() -> int:
                     else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
                 )
                 url = _href(base_path, f"podcasts/{feed_slug}/?e={key}")
+                meta_bits = [date]
+                if dur_text:
+                    meta_bits.append(dur_text)
+                meta_bits.append(size_text)
+                meta_line = " · ".join([m for m in meta_bits if m])
                 items.append(
                     f"""
                     <li class="episode-row" data-episode-id="{_esc(episode_id)}"
@@ -674,13 +773,15 @@ def main() -> int:
                       data-feed-title="{feed_title}"
                       data-episode-audio="{audio}"
                       data-episode-link="{link}"
-                      data-episode-image="{_esc(img_url)}">
+                      data-episode-image="{_esc(img_url)}"
+                      data-episode-duration="{_esc(str(e.get("duration_seconds") or ''))}"
+                      data-episode-bytes="{_esc(str(e.get("enclosure_bytes") or ''))}">
                       <div class="row-main">
                         <div class="row-head">
                           <span class="row-art">{art}</span>
                           <div class="row-text">
                             <a href="{_esc(url)}">{title}</a>
-                            <span class="muted">({date})</span>
+                            <span class="muted">({meta_line})</span>
                           </div>
                         </div>
                       </div>

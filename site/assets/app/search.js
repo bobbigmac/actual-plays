@@ -3,6 +3,8 @@ import { getBasePath } from "./env.js";
 import { readEpisodeMetaFromElement } from "./episode_meta.js";
 import { readProgress } from "./state/progress.js";
 import { artHtml } from "./ui/art.js";
+import { fmtBytes } from "./util/bytes.js";
+import { fmtTime } from "./util/time.js";
 import { joinPath, qs, setQs } from "./util/url.js";
 
 export function initSearch(deps) {
@@ -111,7 +113,10 @@ export function initSearch(deps) {
           .map(function (m) {
             var e = m.e;
             var url = joinPath(basePath, "podcasts/" + encodeURIComponent(e.f) + "/?e=" + encodeURIComponent(e.k));
-            var line = esc(e.ft) + " · " + esc(e.d || "");
+            var parts = [esc(e.ft), esc(e.d || "")];
+            if (Number(e.du) > 0) parts.push(esc(fmtTime(e.du)));
+            parts.push(esc(fmtBytes(e.b)));
+            var line = parts.filter(Boolean).join(" · ");
             var id = esc(m.id);
             var seed = e.ft || e.f;
             return (
@@ -131,6 +136,10 @@ export function initSearch(deps) {
               esc(e.ft || "") +
               '" data-episode-image="' +
               esc(e.im || "") +
+              '" data-episode-duration="' +
+              esc(String(e.du || "")) +
+              '" data-episode-bytes="' +
+              esc(String(e.b || "")) +
               '">' +
               '<div class="row-main">' +
               '<div class="row-head"><span class="row-art">' +
@@ -251,4 +260,3 @@ export function initSearch(deps) {
     close: closeSearchPanel,
   };
 }
-
