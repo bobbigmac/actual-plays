@@ -1821,7 +1821,7 @@ def main() -> int:
             speaker_img_url = _href(base_path, f"assets/{speaker_img_rel}")
             speaker_img_html = (
                 f'  <div class="speaker-card-image speaker-image-frame" aria-hidden="true">'
-                f'    <img src="{_esc(speaker_img_url)}" alt="" loading="lazy" decoding="async" />'
+                f'    <img src="{_esc(speaker_img_url)}" alt="" loading="lazy" decoding="async" style="width:100%;height:100%;display:block;object-fit:cover;object-position:center center;" />'
                 f"  </div>"
             )
         has_page = bool(sp_page)
@@ -2012,13 +2012,17 @@ def main() -> int:
         speaker_image_block = ""
         if speaker_img_rel:
             speaker_image_block = (
-                f'<div class="speaker-page-image speaker-image-frame">'
-                f'  <img src="{_esc(speaker_img_url)}" alt="{_esc(speaker_h1)}" decoding="async" />'
+                f'<div class="speaker-hero-media">'
+                f'  <div class="speaker-page-image">'
+                f'    <img src="{_esc(speaker_img_url)}" alt="{_esc(speaker_h1)}" decoding="async" />'
+                f"  </div>"
                 f"</div>"
             )
-        speaker_profile_panel = ""
-        if sp_body_html:
-            speaker_profile_panel = f'<section class="card panel speaker-profile"><div class="md">{sp_body_html}</div></section>'
+        speaker_intro_html = (
+            f'<div class="md">{sp_body_html}</div>'
+            if sp_body_html
+            else '<p class="muted">Profile notes not added yet.</p>'
+        )
 
         speaker_feed_panel = ""
         sp_page = speaker_page_slug_by_slug.get(sp_slug) or sp_slug
@@ -2058,11 +2062,15 @@ def main() -> int:
             """.strip()
 
         content = f"""
-        <div class="speaker-page-head">
-          {speaker_image_block}
-          <h1>{_esc(speaker_h1)}</h1>
-        </div>
-        {speaker_profile_panel}
+        <section class="card panel speaker-hero">
+          <div class="speaker-hero-row">
+            <div class="speaker-hero-text">
+              <h1>{_esc(speaker_h1)}</h1>
+              {speaker_intro_html}
+            </div>
+            <div class="speaker-hero-media">{speaker_image_block}</div>
+          </div>
+        </section>
         <div class="speaker-top-panels">
           <section class="card panel speaker-controls">
             <div class="panel-head">

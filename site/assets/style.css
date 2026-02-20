@@ -737,15 +737,32 @@ details.menu > summary::-webkit-details-marker {
   margin: 0;
 }
 
-.speaker-page-head {
-  display: flex;
-  align-items: center;
-  gap: 14px;
+.speaker-hero {
+  display: block;
   margin: 2px 0 12px 0;
 }
 
-.speaker-page-head h1 {
-  margin: 0;
+.speaker-hero-row {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.speaker-hero-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.speaker-hero-text h1 {
+  margin: 0 0 10px 0;
+}
+
+.speaker-hero-media {
+  flex: 0 0 34%;
+  max-width: 340px;
+  min-width: 160px;
+  display: block;
 }
 
 .speaker-image-frame {
@@ -762,15 +779,34 @@ details.menu > summary::-webkit-details-marker {
   width: 100%;
   height: 100%;
   display: block;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center center;
 }
 
+.speaker-grid .speaker-card-image img {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+}
+
 .speaker-page-image {
-  width: 124px;
-  height: 124px;
-  flex: 0 0 124px;
+  display: block;
+  width: 100%;
+  line-height: 0;
+}
+
+.speaker-page-image img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
   border-radius: 14px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
 }
 
 .toast-root {
@@ -1577,9 +1613,8 @@ details.menu > summary::-webkit-details-marker {
   }
 
   .speaker-page-image {
-    width: 108px;
-    height: 108px;
-    flex-basis: 108px;
+    width: 100%;
+    max-width: 100%;
   }
 
   .home-layout {
@@ -1629,8 +1664,7 @@ details.menu > summary::-webkit-details-marker {
   }
 
   .speaker-page-image {
-    width: 92px;
-    height: 92px;
-    flex-basis: 92px;
+    width: 100%;
+    max-width: 100%;
   }
 }
