@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Thu, 19 Feb 2026 01:54:07 GMT`
+- fetched_at: `2026-02-20T19:08:24+00:00`
+- checked_at: `2026-02-20T19:08:24+00:00`
+- last_modified: `Fri, 20 Feb 2026 17:07:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-20T19:08:24+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "ac558a8cbdc3cc14dfdcb7c3e33a02186916a0a8",
+      "title": "Lasers & Feelings #1",
+      "published_at": "2026-02-20T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest, where today we're playing Lasers & Feelings, a one page ruleset for space adventure! Follow the crew of the interstellar scout ship, Raptor, their mission: to explore uncharted regions of space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers! Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out the game here: https://johnharper.itch.io/lasers-feelings Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: https://www.youtube.com/angorytom Joseph: @apocplayers Lydia: https://twitch.tv/squidgame Dom: @ChaoticNRB Ben: @GamesNight Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2011389337.mp3?updated=1771465637",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3513",
+      "speakers": [
+        "Mystery Quest",
+        "NW APFa",
+        "angorytom Joseph",
+        "Oscar Henderson Thumbnail Art",
+        "Jack Bailey Learn",
+        "Tom Bates"
+      ],
+      "topics": [
+        "laser",
+        "feelings"
+      ]
+    },
     {
       "key": "374c487a7ee55c30610c20847c69cf76e0c6f3e6",
       "title": "Frontier Scum: Escape the Organ Rail #3",
@@ -2773,24 +2797,22 @@
       ]
     },
     {
-      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
-      "title": "MÖRK BORG: The Goblin Grinder #1",
+      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
+      "title": "Call of Cthulhu: The Disintegrator #1",
       "published_at": "2023-09-09T17:00:00+00:00",
       "link": null,
-      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3521",
+      "itunes_duration": "4347",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
-        "borg",
-        "goblin",
-        "grinder"
+        "cthulhu",
+        "disintegrator"
       ]
     },
     {
@@ -2804,25 +2826,6 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4517",
-      "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
-    },
-    {
-      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
-      "title": "Call of Cthulhu: The Disintegrator #1",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4347",
       "speakers": [
         "Tom Bates"
       ],
@@ -2849,6 +2852,27 @@
         "cthulhu",
         "disintegrator"
       ]
+    },
+    {
+      "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
+      "title": "MÖRK BORG: The Goblin Grinder #1",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest! Today we are joined by a new group of adventurers who are being dragged kicking a screaming through the grim fantasy world that is MÖRK BORG. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR6788187947.mp3?updated=1707495427",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3521",
+      "speakers": [
+        "Mystery Quest",
+        "Tom Bates"
+      ],
+      "topics": [
+        "borg",
+        "goblin",
+        "grinder"
+      ]
     }
   ]
 }
@@ -2857,6 +2881,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — Lasers & Feelings #1 — speakers: Mystery Quest, NW APFa, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
 - 2026-02-13 — Frontier Scum: Escape the Organ Rail #3 — speakers: NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
 - 2026-02-06 — Frontier Scum: Escape the Organ Rail #2 — speakers: NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
 - 2026-01-30 — Frontier Scum: Escape the Organ Rail #1 — speakers: Howdy Cowfolk, Frontier Scum, Karl Druid, NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
@@ -2985,7 +3010,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates

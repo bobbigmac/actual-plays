@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"d60b4fd42c4b9943d55920135e1959ba"`
-- last_modified: `Sat, 14 Feb 2026 05:29:52 GMT`
+- fetched_at: `2026-02-20T19:08:24+00:00`
+- checked_at: `2026-02-20T19:08:24+00:00`
+- etag: `"86974b486a4844e41421b9ef65a3a3a4"`
+- last_modified: `Fri, 20 Feb 2026 16:52:04 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-20T19:08:24+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4f5a272facc8c3d1fc745e5314ea31343657a20f",
+      "title": "Off Week + Fundraiser Update!",
+      "published_at": "2026-02-20T16:39:00+00:00",
+      "link": "https://friendsatthetable.net/off-week-fundraiser-update",
+      "description": "HELLO! Let's see how rapid fire I can communicate this info after spending 20 minutes babbling about it: PERPETUA: This week's episode is delayed, but will be released this upcoming Monday or Tuesday with next week's episode to follow on Thursday! Double Perpetua for patient podcast listeners!! BLUFF CITY SEASON 2: Because of generous donations to our fundraiser, BLUFF CITY SEASON 2 is now free on our patreon! You can simply scroll through and listen to all of the episodes here or through patreon's app. Bluff City S2 episodes will be streamed over our twitch with the VODs uploaded to our youtube in the near future. In the much more distant future, it will hit our main feed but not for awhile! SANGFIELLE: Unlocked by our fundraisier, we'll be returning to Sangfielle for a one shot!! Details to come but we're very excited for this one!! New LPs for Twitch/YouTube: Coming SOON, Jack will be playing Dwarf Fortress, Dre will be playing Kentucky Route 0, Ali and Keith will tackle Pokemon Conquest and finally Sylvi, Jack and Ali will return for an LP of Galaxy Princess Zorana! New MCP stuff: Over on our patreon we'll be sharing a commentary watch along for MOUSE HUNT and eventually do a one shot of a Lasers and Feelings HxH hack!!! None of this would be possible without people showing up and donating for immigrants in Minnesota and we thank everyone who participated however they could from the bottom of our hearts. Let's keep making cool things and helping however we can! ...speaking of the future, for the rest of feburary and march, all profits from friendsatthetable.shop will be donated to the Immigrant Law Center of Minnesota !! While the ILCM isn't responding to direct needs in the same way the Immigrant Rapid Response Fund is, the law center provides free legal representation for immigrants and their families, a need that will continue beyong ICE's presence there.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/02_20_26_Fundraiser_Update.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25426304",
+      "itunes_duration": "20:21",
+      "speakers": [
+        "Pokemon Conquest",
+        "Austin Walker"
+      ],
+      "topics": [
+        "week",
+        "fundraiser",
+        "update"
+      ]
+    },
     {
       "key": "2159986a0c3e7e14d5d913671923297f7fa837ec",
       "title": "Perpetua 33: The Castle Eschatonica 01",
@@ -14121,6 +14142,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — Off Week + Fundraiser Update! — speakers: Pokemon Conquest, Austin Walker
 - 2026-02-14 — Perpetua 33: The Castle Eschatonica 01 — speakers: Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art, Ben McEntee
 - 2026-02-13 — Fundraising for Immigrant Justice — speakers: Conner Fawcett, Flegg Hell, Austin Walker
 - 2026-02-10 — Perpetua 32: A Picture of the Hills 05 — speakers: Perpetua Guide, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art
