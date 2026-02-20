@@ -192,10 +192,11 @@
 - owners: Jon Holmes
 - categories: comedy/british, radio, news/politics
 
-## comedy-of-the-week
+## bbc-comedy-of-the-week
 - url: https://podcasts.files.bbci.co.uk/p02pc9x6.rss
 - title_override: Comedy of the Week (BBC Radio 4)
-- categories: comedy/british, radio
+- owners: BBC Radio 4
+- categories: comedy/british, bbc, radio
 
 ## early-work
 - url: https://feeds.acast.com/public/shows/63d2a30b7e9dd40010986477
@@ -262,3 +263,63 @@
 - title_override: Scummy Mummies
 - owners: Ellie Gibson; Helen Thorn
 - categories: comedy/british, interviews, parenting
+
+## bbc-wheel-of-misfortune
+- url: https://podcasts.files.bbci.co.uk/p08m3z73.rss
+- title_override: Wheel of Misfortune (BBC Radio 4)
+- owners: Alison Spittle; Kerry Katona
+- categories: comedy/british, bbc, radio
+
+## bbc-graham-norton
+- url: https://podcasts.files.bbci.co.uk/p02nrtl3.rss
+- title_override: The Graham Norton Podcast (BBC Radio 2)
+- owners: Graham Norton
+- categories: comedy/british, bbc, radio, interviews
+
+## bottoms-up
+- url: https://feeds.megaphone.fm/GLT2696747469
+- title_override: Bottoms Up! With Alan Carr and Lee Peart
+- owners: Alan Carr; Lee Peart
+- categories: comedy/british, chat
+
+## trusty-hogs
+- url: https://feeds.acast.com/public/shows/trustyhogs
+- title_override: Trusty Hogs
+- owners: Catherine Bohart; Helen Bauer
+- categories: comedy/british, chat
+
+## welcome-to-hell
+- url: https://feeds.acast.com/public/shows/welcome-to-hell-with-daniel-foxx-dane-buckley
+- title_override: Welcome To Hell
+- owners: Daniel Foxx; Dane Buckley
+- categories: comedy/british, chat
+
+## cuddle-club
+- url: https://feeds.acast.com/public/shows/dc460793-43f6-4464-a809-8e23f92194bb
+- title_override: Cuddle Club (Lou Sanders)
+- owners: Lou Sanders
+- categories: comedy/british, interviews, life/relationships
+
+## pappys-flatshare
+- url: https://feeds.megaphone.fm/NSR6478712326
+- title_override: Pappy’s Flatshare
+- owners: Ben Clark; Matthew Crosby; Tom Parry
+- categories: comedy/british, panel
+
+## tvi
+- url: https://feeds.megaphone.fm/GLT5047224671
+- title_override: TVI with Carl Donnelly and Julian Deane
+- owners: Carl Donnelly; Julian Deane
+- categories: comedy/british, interviews
+
+## whats-upset-you-now
+- url: https://anchor.fm/s/10818226c/podcast/rss
+- title_override: What’s Upset You Now?
+- owners: Seann Walsh; Paul McCaffrey; Mikey Benwell
+- categories: comedy/british, chat
+
+## beef-and-dairy
+- url: https://feeds.simplecast.com/4NOSW3hj
+- title_override: Beef And Dairy Network
+- owners: Benjamin Partridge
+- categories: comedy/british, fiction
