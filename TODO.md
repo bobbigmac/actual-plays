@@ -8,6 +8,10 @@ This repo now has a modular client (`site/assets/app/*`) with a single state mod
 - [ ] **Add a “Retry / why didn’t this cache?” state** for Offline button failures (SW inactive / CORS opaque / no audio URL) with a short user-facing hint.
 - [ ] **Clarify limitations**: Cache API doesn’t expose download byte progress, so “progress bars” can only be coarse (“caching…/done/failed”) unless we implement streamed downloads in-page.
 
+
+- [ ] **Media Controls**: Currently only support prev/next but should be able to also support skip fwd/back
+- [ ] **UI tweaks**: Mobile layout needs a little work for narrow viewports
+
 ## Bundling (optional)
 
 - [ ] **Production client bundle**: build `assets/app/*` into a single `dist/assets/app.bundle.js` during `scripts.build_site.py` (keeps dev ESM+Vite, but reduces production module requests and SW precache churn).

@@ -588,6 +588,21 @@ export function initPlayer() {
   function setupMediaSessionHandlers() {
     if (!("mediaSession" in navigator)) return;
 
+    function seekRelative(seconds) {
+      if (!player.src) return;
+      var off = Number(seconds) || 0;
+      if (!Number.isFinite(off) || off === 0) return;
+      var next = (player.currentTime || 0) + off;
+      if (next < 0) next = 0;
+      var d = Number(player.duration) || Infinity;
+      if (Number.isFinite(d) && d > 0) next = Math.min(d, next);
+      try {
+        player.currentTime = next;
+      } catch (_e) {}
+      saveProgress(true);
+      updatePositionState(true);
+    }
+
     safeSetActionHandler("play", function () {
       resumeAudioCtx();
       if (player.src) player.play().catch(function () {});
@@ -606,28 +621,22 @@ export function initPlayer() {
     });
 
     safeSetActionHandler("seekbackward", function (details) {
-      if (!player.src) return;
       var off =
         Number.isFinite(seekBackSeconds) && seekBackSeconds > 0
           ? seekBackSeconds
           : details && typeof details.seekOffset === "number"
             ? details.seekOffset
             : 15;
-      player.currentTime = Math.max(0, (player.currentTime || 0) - off);
-      saveProgress(true);
-      updatePositionState(true);
+      seekRelative(-off);
     });
     safeSetActionHandler("seekforward", function (details) {
-      if (!player.src) return;
       var off =
         Number.isFinite(seekForwardSeconds) && seekForwardSeconds > 0
           ? seekForwardSeconds
           : details && typeof details.seekOffset === "number"
             ? details.seekOffset
             : 30;
-      player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + off);
-      saveProgress(true);
-      updatePositionState(true);
+      seekRelative(off);
     });
     safeSetActionHandler("seekto", function (details) {
       if (!player.src) return;
@@ -641,35 +650,20 @@ export function initPlayer() {
       updatePositionState(true);
     });
 
-    // “Track” is a bit of a lie for podcasts, but these map well to headsets/OS controls.
+    // Many headsets/OS UI surfaces only expose previous/next even for long-form audio.
+    // Prefer mapping those to seek so controls are actually useful for podcasts.
     safeSetActionHandler("nexttrack", function () {
+      seekRelative(seekForwardSeconds || 30);
+    });
+    safeSetActionHandler("previoustrack", function () {
+      seekRelative(-(seekBackSeconds || 15));
+    });
+
+    // Optional: allow "skip ad" (where supported) to mean "next queued episode".
+    safeSetActionHandler("skipad", function () {
       var next = dequeueNext();
       syncFromStorage();
       if (next) playMeta(next);
-    });
-    safeSetActionHandler("previoustrack", function () {
-      if (!player.src) return;
-      if ((player.currentTime || 0) > 5) {
-        player.currentTime = 0;
-        saveProgress(true);
-        updatePositionState(true);
-        return;
-      }
-      var hist = loadHistory();
-      var idx = -1;
-      for (var i = 0; i < (hist || []).length; i++) {
-        if (hist[i] && hist[i].id === currentEpisodeId) {
-          idx = i;
-          break;
-        }
-      }
-      if (idx >= 0 && hist[idx + 1] && hist[idx + 1].id) {
-        playMeta(hist[idx + 1]);
-      } else {
-        player.currentTime = 0;
-        saveProgress(true);
-        updatePositionState(true);
-      }
     });
   }
 
