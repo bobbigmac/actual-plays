@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-02-20T07:16:54+00:00`
-- checked_at: `2026-02-20T07:16:54+00:00`
-- last_modified: `Fri, 20 Feb 2026 06:40:03 GMT`
+- fetched_at: `2026-02-20T10:00:00+00:00`
+- checked_at: `2026-02-20T10:00:00+00:00`
+- last_modified: `Fri, 20 Feb 2026 08:58:53 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-02-20T07:16:54+00:00",
+  "fetched_at": "2026-02-20T10:00:00+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,35 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "e6faebf7c114fa7bc216ddbd18f144bb8dd63025",
+      "title": "Trinyvale X Strahd - Ep. 23: A Memorable Feast",
+      "published_at": "2026-02-20T08:30:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/fb59cb2f-f7d7-4d58-bf27-b6d8ca7dffac",
+      "description": "CAMPAIGN FINALE! The Triplets meet with the Manager of Barovia and prepare to lodge the ultimate complaint. Jens gets defensive, Nyack shows his glass, and Onyx unleashes shell as the Trinyvale X Strahd crossover CONCLUDES! Thanks so much for listening and supporting the show! Get tickets to our Radio City and Sydney Opera House shows HERE! CREDITS Editing by Brian Murphy & Caldwell Tanner Production and Sound Design by Daniel Ramos (@Schubirds on IG) Logo Design by Chelsea LeCompte MUSIC INCLUDES: \"Trinyvale Opening Theme\" by Emily Axford \"The Gate\" by Emily Axford “Strahd” by Emily Axford “Moonsick” by Emily Axford “Oh Melora” by Emily Axford “Lights Out” by Emily Axford “Barovian Tango” by Emily Axford “Half Brothers” by Emily Axford” “A Memorable Feast” by Emily Axford “TechGnomek” by Emily Axford “Obsidian” by Emily Axford \"The Night Lotus\" by Emily Axford \"The Shard\" by Emily Axford “The Journey of the Three” by Jens Christian Tvilum \"Trinyvale Closing Theme\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/10/f5/0c/85/10f50c85-962d-4154-a99b-c560ce35f787/72015909e246234709d32d110807ec481d8661a150c9d9abed7fcd46a71d585bd6aef60396e02ec6c6a500ece0bd3cd506b4eec3f3f8c5b0f40ff7f0aa0c757c.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/fb59cb2f-f7d7-4d58-bf27-b6d8ca7dffac.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104515291",
+      "itunes_duration": "01:48:52",
+      "speakers": [
+        "Daniel Ramos",
+        "Emily Axford",
+        "Emily Axford Strahd",
+        "Emily Axford Moonsick",
+        "Emily Axford Half Brothers",
+        "Jens Christian",
+        "Brian Murphy",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "trinyvale",
+        "strahd",
+        "memorable",
+        "feast"
+      ]
+    },
     {
       "key": "e6036479d643027e41a25fb2245bf26d618efc97",
       "title": "Trinyvale X Strahd - Ep. 22: Dark Blessing",
@@ -11240,6 +11269,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — Trinyvale X Strahd - Ep. 23: A Memorable Feast — speakers: Daniel Ramos, Emily Axford, Emily Axford Strahd, Emily Axford Moonsick, Emily Axford Half Brothers, Jens Christian, Brian Murphy, Jake Hurwitz, Caldwell Tanner
 - 2026-02-13 — Trinyvale X Strahd - Ep. 22: Dark Blessing — speakers: Castle Ravenloft, Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
 - 2026-02-05 — Trinyvale X Strahd - Ep. 21: Welcome to Ravenloft — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
 - 2026-01-29 — D&D Court: Newbie PVP, Rat Gods, and Baptized Dogs — speakers: Newbie Pvp, Baptized Dogs Support, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

@@ -2,8 +2,8 @@
 
 - slug: `role-radio-a-5e-actual-play-dungeons-dragons-podcast`
 - source: `https://feeds.redcircle.com/721aa1af-1a3d-4127-a0b9-7f1c74c64231`
-- fetched_at: `2026-02-20T07:16:54+00:00`
-- checked_at: `2026-02-20T07:16:54+00:00`
+- fetched_at: `2026-02-20T10:00:00+00:00`
+- checked_at: `2026-02-20T10:00:00+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/role_radio",
   "description": "Welcome to Role Radio, an actual play, 5th Edition, Dungeons & Dragons Podcast. We are a group of old friends who get together every week and have fun playing D&D, and fun for us is role playing, rolling dice, and rolling on the floor laughing. We then take that fun time and edit it , fill it with music, sound effects, and surprises to create a fast paced, cinematic and compelling story so that you can have as much fun listening as we do playing. Join us as we travel to the Forgotten Realms and play Wizards of the Coast exciting adventure, Scourge of the Sword Coast. Will the players be able to save the Western Heartlands from the Red Wizards evil plans? Who Knows! Tune in and find out on Role Radio! Check us out at our website - https://roleradio.com",
   "image_url": "https://media.redcircle.com/images/2019/8/23/1/a849cb1e-4999-4dce-b26b-85c2fc9432ff_fd352b_15c46494-8000-47e5-b36c-2f888a696a55_a9155d89-8fbe-4d72-a618-ce3de3fac1f5_a73f8806-062f-4528-94c8-60579d761bf3_fd03ab16-3b80-4f94-a02a-56e91890729d_6abcaf3a-0d59-4e63-9557-22fd65d6b8ec_blob.jpg",
-  "fetched_at": "2026-02-20T07:16:54+00:00",
+  "fetched_at": "2026-02-20T10:00:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
