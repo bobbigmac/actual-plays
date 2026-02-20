@@ -227,7 +227,7 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
             key_l = "supplemental"
             key = "supplemental"
 
-        if key_l in ("owners", "owner", "common_speakers", "categories", "category"):
+        if key_l in ("owners", "owner", "common_speakers", "exclude_speakers", "categories", "category"):
             items = _split_list(val_raw, seps=",;")
             if key_l in ("owner",):
                 key = "owners"
@@ -330,6 +330,15 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
             v = str(value)
         return f"- {key}: {v}"
 
+    def fmt_list(values: Any, *, sep: str) -> str:
+        if not values:
+            return ""
+        if isinstance(values, str):
+            return values.strip()
+        if isinstance(values, list):
+            return sep.join([str(v).strip() for v in values if str(v).strip()])
+        return str(values).strip()
+
     out: list[str] = []
 
     out.append("# Site")
@@ -338,6 +347,11 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
         if v is None or str(v).strip() == "":
             continue
         out.append(kv(k, v))
+    # Optional site-level exclusions (speaker extraction can be noisy).
+    ex = site.get("exclude_speakers")
+    if isinstance(ex, list) and ex:
+        out.append(kv("exclude_speakers", fmt_list(ex, sep=", ")))
+
     footer_links = site.get("footer_links") or []
     if isinstance(footer_links, list) and footer_links:
         parts: list[str] = []
@@ -365,15 +379,6 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
     out.append("")
     out.append("# Feeds")
 
-    def fmt_list(values: Any, *, sep: str) -> str:
-        if not values:
-            return ""
-        if isinstance(values, str):
-            return values.strip()
-        if isinstance(values, list):
-            return sep.join([str(v).strip() for v in values if str(v).strip()])
-        return str(values).strip()
-
     # Stable per-feed key ordering: the known keys first, then the rest alphabetically.
     known = [
         "url",
@@ -381,6 +386,7 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
         "supplemental",
         "owners",
         "common_speakers",
+        "exclude_speakers",
         "categories",
         "notes",
         "editors_note",
@@ -402,6 +408,8 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
                 continue
             if k in ("owners", "common_speakers"):
                 out.append(kv(k, fmt_list(v, sep="; ")))
+            elif k == "exclude_speakers":
+                out.append(kv(k, fmt_list(v, sep=", ")))
             elif k == "categories":
                 out.append(kv(k, fmt_list(v, sep=", ")))
             else:

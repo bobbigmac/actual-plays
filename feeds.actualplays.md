@@ -6,6 +6,7 @@
 - base_path: /
 - og_image: assets/promo-actualplays.jpg
 - footer_links: GitHub=https://github.com/
+- exclude_speakers: Donald Trump, Elon Musk, Harry Potter, James Bond, Taylor Swift, Tony Blair, Albert Hall, David Cameron, Liz Truss, Joe Biden, Ted Lasso, King Charles, Keir Starmer, Gordon Brown
 
 ## Home Intro
 I built this to collect the actual-play / story podcasts I’m working through.

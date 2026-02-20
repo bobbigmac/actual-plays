@@ -6,6 +6,7 @@
 - base_path: /
 - og_image: assets/promo-britcom.jpg
 - footer_links: GitHub=https://github.com/
+- exclude_speakers: Donald Trump, Elon Musk, Harry Potter, James Bond, Taylor Swift, Tony Blair, Albert Hall, David Cameron, Liz Truss, Joe Biden, Ted Lasso, King Charles, Keir Starmer, Gordon Brown
 
 # Defaults
 - max_episodes_per_feed: 1000

@@ -681,6 +681,31 @@ def _merge_always_speakers(*, detected: list[str] | None, always: list[str] | No
     return merged
 
 
+def _filter_excluded_speakers(*, speakers: list[str] | None, exclude: list[str] | None) -> list[str]:
+    base = sanitize_speakers(speakers or [])
+    # NOTE: exclusions are user-configured; do not run them through
+    # sanitize_speakers() (it may drop valid names like "Joe Biden").
+    ex = [str(x or "").strip() for x in (exclude or [])]
+    ex = [x for x in ex if x]
+    if not ex:
+        return base
+    ex_norm = {x.lower() for x in ex}
+    if not ex_norm:
+        return base
+    out: list[str] = []
+    for sp in base:
+        s = str(sp).strip()
+        if not s:
+            continue
+        s_norm = s.lower()
+        if s_norm in ex_norm:
+            continue
+        if any(s_norm.startswith(x + " ") for x in ex_norm):
+            continue
+        out.append(s)
+    return out
+
+
 def _write_page(
     *,
     base_template: str,
@@ -1036,6 +1061,7 @@ def main() -> int:
     feed_url_by_slug: dict[str, str] = {}
     feed_supplemental_by_slug: dict[str, bool] = {}
     owner_slugs_by_feed: dict[str, set[str]] = {}
+    site_exclude = [x for x in [str(v or "").strip() for v in _norm_name_list(site_cfg.get("exclude_speakers") or site_cfg.get("excludeSpeakers"))] if x]
     for f in feeds_cfg.get("feeds") or []:
         slug = str(f.get("slug") or "")
         if not slug:
@@ -1045,8 +1071,14 @@ def main() -> int:
         feed_supplemental_by_slug[slug] = bool(f.get("supplemental"))
         owners = sanitize_speakers(_norm_name_list(f.get("owners") or f.get("owner")))
         common_speakers = sanitize_speakers(_norm_name_list(f.get("common_speakers") or f.get("commonSpeakers")))
+        exclude_speakers = [x for x in [str(v or "").strip() for v in _norm_name_list(f.get("exclude_speakers") or f.get("excludeSpeakers"))] if x]
         categories = _norm_categories(f.get("categories") or f.get("category"))
-        feed_tags[slug] = {"owners": owners, "common_speakers": common_speakers, "categories": categories}
+        feed_tags[slug] = {
+            "owners": owners,
+            "common_speakers": common_speakers,
+            "exclude_speakers": [x for x in [str(v or "").strip() for v in (site_exclude + exclude_speakers)] if x],
+            "categories": categories,
+        }
         note = str(f.get("editors_note") or f.get("editor_note") or f.get("editorsNote") or "").strip()
         feed_notes_by_slug[slug] = note
         feed_title_override_by_slug[slug] = str(f.get("title_override") or f.get("titleOverride") or "").strip()
@@ -1071,6 +1103,7 @@ def main() -> int:
         cfg_tags = feed_tags.get(slug) or {}
         cfg_owners = cfg_tags.get("owners") or []
         cfg_common = cfg_tags.get("common_speakers") or []
+        cfg_exclude = cfg_tags.get("exclude_speakers") or []
         cfg_categories = cfg_tags.get("categories") or []
         cfg_note = str(feed_notes_by_slug.get(slug) or "").strip()
         cfg_title = str(feed_title_override_by_slug.get(slug) or "").strip()
@@ -1118,7 +1151,10 @@ def main() -> int:
         owner_slugs_by_feed[slug] = {slugify(n) for n in owners}
         always = common_speakers + owners
         for ep in feed.get("episodes") or []:
-            ep["speakers"] = _merge_always_speakers(detected=ep.get("speakers"), always=always, limit=12)
+            ep["speakers"] = _filter_excluded_speakers(
+                speakers=_merge_always_speakers(detected=ep.get("speakers"), always=always, limit=12),
+                exclude=cfg_exclude,
+            )
             ep["topics"] = sanitize_topics(ep.get("topics"))
         feeds.append(feed)
 

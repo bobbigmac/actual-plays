@@ -223,6 +223,37 @@ def _merge_always_speakers(*, detected: list[str], always: list[str], limit: int
     return merged
 
 
+def _filter_excluded_speakers(*, speakers: list[str], exclude: list[str]) -> list[str]:
+    """
+    Remove excluded names from an already-sanitized speaker list.
+    Matches case-insensitively and also treats `exclude` as a prefix match
+    (e.g. "King Charles" excludes "King Charles III").
+    """
+    base = sanitize_speakers(speakers or [])
+    # NOTE: exclusions are user-configured; do not run them through
+    # sanitize_speakers() (it may drop valid names like "Joe Biden").
+    ex = [str(x or "").strip() for x in (exclude or [])]
+    ex = [x for x in ex if x]
+    if not ex:
+        return base
+    ex_norm = {x.lower() for x in ex}
+    if not ex_norm:
+        return base
+    out: list[str] = []
+    for sp in base:
+        s = str(sp).strip()
+        if not s:
+            continue
+        s_norm = s.lower()
+        if s_norm in ex_norm:
+            continue
+        # Prefix-match for common suffix variants (e.g. "Jr", "III").
+        if any(s_norm.startswith(x + " ") for x in ex_norm):
+            continue
+        out.append(s)
+    return out
+
+
 def _render_cache_markdown(
     *,
     feed_slug: str,
@@ -392,6 +423,7 @@ class _FeedJob:
     feed_max_episodes: int
     owners: list[str]
     common_speakers: list[str]
+    exclude_speakers: list[str]
     categories: list[str]
 
 
@@ -765,7 +797,10 @@ def _process_one_feed(
         episodes.append(
             {
                 **ep,
-                "speakers": _merge_always_speakers(detected=speakers, always=always_speakers, limit=12),
+                "speakers": _filter_excluded_speakers(
+                    speakers=_merge_always_speakers(detected=speakers, always=always_speakers, limit=12),
+                    exclude=(job.exclude_speakers or []),
+                ),
                 "topics": sanitize_topics(topics),
             }
         )
@@ -888,10 +923,14 @@ def main() -> int:
     if args.sanitize_cache:
         # No network. Rewrite cached markdown by re-sanitizing existing tags.
         changed = False
+        site_cfg = cfg.get("site") if isinstance(cfg.get("site"), dict) else {}
+        site_exclude = _norm_name_list(site_cfg.get("exclude_speakers") or site_cfg.get("excludeSpeakers"))
         for feed_cfg in feeds:
             slug = str(feed_cfg.get("slug") or "")
             owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
             common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
+            exclude_speakers = _norm_name_list(feed_cfg.get("exclude_speakers") or feed_cfg.get("excludeSpeakers"))
+            exclude = [x for x in [str(v or "").strip() for v in (site_exclude + exclude_speakers)] if x]
             categories = _norm_categories(feed_cfg.get("categories") or feed_cfg.get("category"))
             md_path = feeds_md_dir / f"{slug}.md"
             feed_json = _load_existing_feed_json(md_path)
@@ -902,7 +941,10 @@ def main() -> int:
             prev_sig = json.dumps(feed_json, sort_keys=True, ensure_ascii=False)
             always = common_speakers + owners
             for ep in feed_json.get("episodes") or []:
-                ep["speakers"] = _merge_always_speakers(detected=ep.get("speakers") or [], always=always, limit=12)
+                ep["speakers"] = _filter_excluded_speakers(
+                    speakers=_merge_always_speakers(detected=ep.get("speakers") or [], always=always, limit=12),
+                    exclude=exclude,
+                )
                 ep["topics"] = sanitize_topics(ep.get("topics"))
             feed_json["owners"] = sanitize_speakers(owners)
             feed_json["common_speakers"] = sanitize_speakers(common_speakers)
@@ -940,6 +982,9 @@ def main() -> int:
 
     jobs: list[_FeedJob] = []
     per_feed_state_by_slug: dict[str, dict] = {}
+
+    site_cfg = cfg.get("site") if isinstance(cfg.get("site"), dict) else {}
+    site_exclude = _norm_name_list(site_cfg.get("exclude_speakers") or site_cfg.get("excludeSpeakers"))
 
     for feed_cfg in feeds:
         slug = feed_cfg.get("slug")
@@ -997,6 +1042,7 @@ def main() -> int:
         _log(f"[queue] {slug} {url}", quiet=args.quiet)
         owners = _norm_name_list(feed_cfg.get("owners") or feed_cfg.get("owner"))
         common_speakers = _norm_name_list(feed_cfg.get("common_speakers") or feed_cfg.get("commonSpeakers"))
+        exclude_speakers = _norm_name_list(feed_cfg.get("exclude_speakers") or feed_cfg.get("excludeSpeakers"))
         categories = _norm_categories(feed_cfg.get("categories") or feed_cfg.get("category"))
         jobs.append(
             _FeedJob(
@@ -1007,6 +1053,7 @@ def main() -> int:
                 feed_max_episodes=feed_max_episodes,
                 owners=sanitize_speakers(owners),
                 common_speakers=sanitize_speakers(common_speakers),
+                exclude_speakers=[x for x in [str(v or "").strip() for v in (site_exclude + exclude_speakers)] if x],
                 categories=categories,
             )
         )

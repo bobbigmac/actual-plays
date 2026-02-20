@@ -738,19 +738,23 @@ details.menu > summary::-webkit-details-marker {
 }
 
 .speaker-hero-row {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-  gap: 16px;
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  align-items: flex-start !important;
+  gap: 16px !important;
 }
 
 .speaker-hero-text {
-  flex: 1 1 0;
-  min-width: 0;
+  flex: 1 1 0 !important;
+  min-width: 0 !important;
 }
 
 .speaker-hero-text h1 {
   margin: 0 0 10px 0;
+}
+
+.speaker-hero-media img {
+  max-height: 200px;
 }
 
 .speaker-image-frame {
