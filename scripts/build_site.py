@@ -23,6 +23,7 @@ _RESERVED_ROOT_SLUGS = {
     "",
     "assets",
     "categories",
+    "graph",
     "speakers",
     "sw.js",
     "manifest.webmanifest",
@@ -204,6 +205,14 @@ def _parse_args() -> argparse.Namespace:
 
 def _esc(text: str | None) -> str:
     return html.escape(text or "", quote=True)
+
+def _safe_json_for_html(json_text: str) -> str:
+    """
+    Safely embed JSON in a <script type="application/json"> tag without
+    breaking parsing or risking accidental HTML/script parsing.
+    """
+    s = str(json_text or "")
+    return s.replace("&", "\\u0026").replace("<", "\\u003c").replace(">", "\\u003e")
 
 
 def _norm_base_path(value: str | None) -> str:
@@ -681,12 +690,23 @@ def _write_page(
             "site_title": _esc(site_cfg.get("title") or ""),
             "site_subtitle": _esc(site_cfg.get("subtitle") or ""),
             "meta_extra": meta_extra,
+            "body_class": _esc(_page_body_class(out_path, dist_dir=dist_dir)),
             "content": content_html,
             "footer": footer_html,
         },
     )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(doc, encoding="utf-8")
+
+
+def _page_body_class(out_path: Path, *, dist_dir: Path) -> str:
+    try:
+        rel = out_path.relative_to(dist_dir).as_posix()
+    except Exception:
+        rel = out_path.as_posix()
+    if rel == "graph/index.html" or rel.startswith("graph/"):
+        return "page-graph page-fullbleed"
+    return ""
 
 
 def _maybe_add_edit_feeds_link(*, site_cfg: dict[str, Any], feeds_path: str) -> None:
@@ -753,6 +773,118 @@ def _maybe_add_edit_feeds_link(*, site_cfg: dict[str, Any], feeds_path: str) -> 
     else:
         footer_links.insert(github_index + 1, edit_link)
     site_cfg["footer_links"] = footer_links
+
+
+def _build_graph_data(
+    *,
+    feeds: list[dict[str, Any]],
+    all_episodes_index: list[dict[str, Any]],
+    base_path: str,
+) -> dict[str, Any]:
+    """
+    Build a compact bipartite graph of podcasts <-> speakers.
+
+    Nodes:
+      - podcasts: id "p:<slug>"
+      - speakers: id "s:<speaker_slug>"
+    Edges:
+      - appearance counts (episodes) as weight
+      - flag whether the speaker is an owner of that podcast (own=1)
+    """
+    feed_by_slug: dict[str, dict[str, Any]] = {str(f.get("slug") or ""): f for f in feeds}
+    owners_by_feed: dict[str, set[str]] = {}
+    supplemental_by_feed: dict[str, bool] = {}
+
+    for slug, feed in feed_by_slug.items():
+        owners = sanitize_speakers(feed.get("owners") or [])
+        owners_by_feed[slug] = {n.lower() for n in owners}
+        supplemental_by_feed[slug] = bool(feed.get("supplemental"))
+
+    # Count appearances per (podcast, speaker) and podcasts-per-speaker.
+    edge_counts: dict[tuple[str, str], int] = defaultdict(int)
+    speaker_pods: dict[str, set[str]] = defaultdict(set)
+    speaker_totals: dict[str, int] = defaultdict(int)
+    speaker_name_by_slug: dict[str, str] = {}
+
+    for e in all_episodes_index:
+        feed_slug = str(e.get("feed_slug") or "").strip()
+        if not feed_slug:
+            continue
+        speakers = sanitize_speakers(e.get("speakers") or [])
+        for sp in speakers:
+            sp = str(sp or "").strip()
+            if not sp:
+                continue
+            sp_slug = slugify(sp)
+            if not sp_slug:
+                continue
+            if sp_slug not in speaker_name_by_slug:
+                speaker_name_by_slug[sp_slug] = sp
+            edge_counts[(feed_slug, sp_slug)] += 1
+            speaker_pods[sp_slug].add(feed_slug)
+            speaker_totals[sp_slug] += 1
+
+    # Only include speakers that appear across >=2 podcasts (keep graph useful + small).
+    multi_pod_speakers = [s for s, pods in speaker_pods.items() if len(pods) >= 2]
+    multi_pod_speakers.sort(
+        key=lambda s: (len(speaker_pods.get(s) or set()), speaker_totals.get(s) or 0),
+        reverse=True,
+    )
+
+    MAX_SPEAKERS = 220
+    TOP_EDGES_PER_SPEAKER = 8
+    chosen_speakers = set(multi_pod_speakers[:MAX_SPEAKERS])
+
+    # Build top edges per speaker to keep rendering/JSON lightweight.
+    edges_by_speaker: dict[str, list[tuple[str, int]]] = defaultdict(list)
+    for (feed_slug, sp_slug), w in edge_counts.items():
+        if sp_slug not in chosen_speakers:
+            continue
+        edges_by_speaker[sp_slug].append((feed_slug, int(w)))
+
+    edges: list[list[Any]] = []
+    connected_podcasts: set[str] = set()
+    for sp_slug in chosen_speakers:
+        items = edges_by_speaker.get(sp_slug) or []
+        items.sort(key=lambda x: x[1], reverse=True)
+        items = items[:TOP_EDGES_PER_SPEAKER]
+        for feed_slug, w in items:
+            feed = feed_by_slug.get(feed_slug)
+            if not feed:
+                continue
+            own = 1 if (speaker_name_by_slug.get(sp_slug, "").lower() in owners_by_feed.get(feed_slug, set())) else 0
+            edges.append([f"p:{feed_slug}", f"s:{sp_slug}", int(w), own])
+            connected_podcasts.add(feed_slug)
+
+    # Nodes: only connected podcasts + chosen speakers that have edges.
+    node_by_id: dict[str, dict[str, Any]] = {}
+    for feed_slug in sorted(connected_podcasts):
+        feed = feed_by_slug.get(feed_slug) or {}
+        title = str(feed.get("title") or feed_slug).strip() or feed_slug
+        node_by_id[f"p:{feed_slug}"] = {
+            "id": f"p:{feed_slug}",
+            "t": "p",
+            "l": title[:80],
+            "h": _href(base_path, f"{feed_slug}/"),
+            "sup": 1 if supplemental_by_feed.get(feed_slug) else 0,
+        }
+
+    connected_speakers: set[str] = set()
+    for e in edges:
+        sid = str(e[1])
+        if sid.startswith("s:"):
+            connected_speakers.add(sid[2:])
+
+    for sp_slug in sorted(connected_speakers):
+        name = speaker_name_by_slug.get(sp_slug) or sp_slug
+        node_by_id[f"s:{sp_slug}"] = {
+            "id": f"s:{sp_slug}",
+            "t": "s",
+            "l": str(name)[:80],
+            "h": _href(base_path, f"{sp_slug}/"),
+        }
+
+    return {"nodes": list(node_by_id.values()), "edges": edges}
 
 
 def main() -> int:
@@ -1053,6 +1185,9 @@ def main() -> int:
         index_json.append(row)
     write_json(dist_dir / "index.json", index_json)
     write_json(dist_dir / "site.json", site_cfg)
+
+    graph_data = _build_graph_data(feeds=feeds, all_episodes_index=all_episodes_index, base_path=base_path)
+    graph_json = json.dumps(graph_data, ensure_ascii=False, separators=(",", ":"))
 
     # Categories (feeds can be in multiple categories).
     category_to_feeds: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
@@ -1987,6 +2122,60 @@ def main() -> int:
                 rss_lines.append("  " + item.replace("\n", "\n  "))
             rss_lines.extend(["</channel>", "</rss>", ""])
             (dist_dir / sp_page / "feed.xml").write_text("\n".join(rss_lines), encoding="utf-8")
+
+    # Graph page (podcasts <-> speakers).
+    graph_content = f"""
+    <h1>Graph</h1>
+    <p class="muted">A visual map of podcasts and speakers. Drag to pan, scroll/pinch to zoom, tap a node to open it.</p>
+    <div class="graph-layout" id="graph-page" data-graph-page>
+      <section class="card panel graph-controls">
+        <div class="panel-head" style="margin-bottom:10px">
+          <div class="panel-title"><strong>Filters</strong></div>
+          <button class="btn btn-sm" type="button" data-graph-reset>Reset</button>
+        </div>
+        <label class="field">
+          <div class="muted">Find</div>
+          <input type="search" placeholder="Filter by name…" autocomplete="off" data-graph-filter />
+        </label>
+        <div class="graph-control-row">
+          <label class="field" style="flex:1">
+            <div class="muted">Min weight</div>
+            <input type="range" min="1" max="10" value="2" step="1" data-graph-minweight />
+          </label>
+          <div class="muted" style="min-width:3ch;text-align:right" data-graph-minweight-readout>2</div>
+        </div>
+        <div class="graph-toggles">
+          <label class="toggle toggle-pill" data-graph-toggle="supp">
+            <input type="checkbox" />
+            <span class="toggle-pill-ui" aria-hidden="true"></span>
+            <span class="toggle-text">Include supplemental</span>
+          </label>
+          <label class="toggle toggle-pill" data-graph-toggle="own">
+            <input type="checkbox" />
+            <span class="toggle-pill-ui" aria-hidden="true"></span>
+            <span class="toggle-text">Include own podcasts</span>
+          </label>
+        </div>
+        <div class="muted graph-stats" data-graph-stats></div>
+      </section>
+      <section class="card panel graph-stage">
+        <div class="graph-vis" data-graph-vis></div>
+        <div class="muted graph-hint">Tip: tap a node to open its page.</div>
+      </section>
+    </div>
+    <script type="application/json" id="graph-data">{_safe_json_for_html(graph_json)}</script>
+    """.strip()
+    _write_page(
+        base_template=base_template,
+        out_path=dist_dir / "graph" / "index.html",
+        dist_dir=dist_dir,
+        base_path=base_path,
+        site_cfg=site_cfg,
+        page_title=f"Graph — {site_cfg.get('title') or ''}".strip(" —"),
+        page_description="Podcast/speaker connection graph",
+        content_html=graph_content,
+        include_og_image=False,
+    )
 
     repo_stats = path_stats_tree(
         REPO_ROOT,

@@ -18,6 +18,7 @@ import { initShareUi } from "./ui/share.js";
 import { initHomeViews } from "./ui/home_views.js";
 import { applyBrowseSupplementalUi, initBrowseSupplementalUi } from "./ui/browse_supplemental.js";
 import { applyLatestSupplementalUi, initLatestSupplementalUi } from "./ui/latest_supplemental.js";
+import { initGraph } from "./graph.js";
 import { loadHistory, saveHistory } from "./state/history.js";
 import { loadQueue, saveQueue } from "./state/queue.js";
 import { readProgress, writeProgressObj } from "./state/progress.js";
@@ -107,6 +108,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
   initCopyUi();
   initShareUi();
   initHomeViews();
+  initGraph();
   initMenus();
   initSpaNavigation({
     closeData: closeData,
@@ -119,6 +121,7 @@ import { lsGet, lsSet, LS_PREFIX } from "./storage.js";
       initHomeViews();
       initBrowseSupplementalUi({ onChanged: refreshUi });
       initLatestSupplementalUi({ onChanged: refreshUi });
+      initGraph();
     },
   });
   initDataPanel({
