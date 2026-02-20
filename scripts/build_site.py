@@ -291,8 +291,11 @@ def _meta_extra_html(
             if _safe_http_href(raw):
                 og_image_final = raw
             else:
-                # Allow repo-local relative paths like "assets/promo.jpg".
-                rel = _href(base_path, raw)
+                # Allow repo-local paths like "assets/promo.jpg" or already-absolute "/podcasts/assets/...".
+                if raw.startswith("/"):
+                    rel = raw
+                else:
+                    rel = _href(base_path, raw)
                 og_image_final = _abs_site_href(site_url, rel) if site_url else rel
         if not og_image_final:
             promo = _href(base_path, "assets/promo.jpg")
