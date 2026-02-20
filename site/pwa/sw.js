@@ -1,7 +1,7 @@
 /* Simple offline support for the static site.
    Scope is the site base path (service worker is emitted at /<base>/sw.js). */
 
-const STATIC_CACHE = "ap-static-v5";
+const STATIC_CACHE = "ap-static-v2";
 const ART_CACHE = "ap-art-v1";
 const AUDIO_CACHE = "ap-audio-v1";
 const LEGACY_MEDIA_CACHE = "ap-media-v1";
