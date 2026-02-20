@@ -1,26 +1,22 @@
-# TODO (next steps)
+# TODO (next steps before additional uses, actualplays and britcom)
 
-This repo now has a modular client (`site/assets/app/*`) with a single state model + SPA navigation. The next steps are mostly about polish, maintainability, and making offline/search feel “complete”.
+- [ ] Sleep timer: Usual sleep timer, long/slow fade outs... wake up? Rising noise/ambience? Log audio at sleep start time, so can repeat/restart and just skip forward, rather than skipping back. Sleep detected shut-off?
+- [ ] Paging for unusually large indexes?
+- [ ] UI tweaks: Mobile layout needs a little work for narrow viewports
+- [ ] Option on feeds to avoid creating tags from those feeds (can only match other tags), like Names as Topics in news stories, rather than as speakers.
+- [ ] Fold player up into header on scroll
+- [ ] Neater UI, nicer buttons, more modern, general style polish
 
-## Offline UX
-
-- [ ] **Make search results fully offline-aware** by including `audio_url` (and `link_url`) in `dist/index.json` so search rows can show `Offline ✓` immediately (no fetch/resolve needed).
-- [ ] **Add a “Retry / why didn’t this cache?” state** for Offline button failures (SW inactive / CORS opaque / no audio URL) with a short user-facing hint.
-- [ ] **Clarify limitations**: Cache API doesn’t expose download byte progress, so “progress bars” can only be coarse (“caching…/done/failed”) unless we implement streamed downloads in-page.
-
-
-- [ ] **Media Controls**: Currently only support prev/next but should be able to also support skip fwd/back
-- [ ] **UI tweaks**: Mobile layout needs a little work for narrow viewports
-
-## Bundling (optional)
+## Bundling
 
 - [ ] **Production client bundle**: build `assets/app/*` into a single `dist/assets/app.bundle.js` during `scripts.build_site.py` (keeps dev ESM+Vite, but reduces production module requests and SW precache churn).
 
-## Consistency & Maintainability
+## Optional qol
 
-- [ ] **Standardize episode-row HTML**: keep one canonical set of `data-*` fields and markup between SSR pages and client-rendered lists (home/search) so features don’t “only work in one place”.
-- [ ] **Small smoke checks**: add a simple script that runs build and asserts key outputs exist (`dist/index.html`, `dist/index.json`, `dist/sw.js`, `dist/manifest.webmanifest`) to catch regressions early.
+- [ ] **Clarify limitations**: Cache API doesn’t expose download byte progress, so “progress bars” can only be coarse (“caching…/done/failed”) unless we implement streamed downloads in-page.
+	- Maybe wait till we make our own android app
 
-## Optional cleanup
+## Needs more work, later
 
-- [x] Port remaining useful “hub” ideas to `FUTURE.md`.
+- [x] **Media Controls**: Currently only support prev/next but should be able to also support skip fwd/back. 
+	- Bodged media controls to -15/+30 ffwd, but would like correct buttons (must be a setting for it somewhere) shown.
