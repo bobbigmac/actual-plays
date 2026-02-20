@@ -2012,11 +2012,7 @@ def main() -> int:
         speaker_image_block = ""
         if speaker_img_rel:
             speaker_image_block = (
-                f'<div class="speaker-hero-media">'
-                f'  <div class="speaker-page-image">'
-                f'    <img src="{_esc(speaker_img_url)}" alt="{_esc(speaker_h1)}" decoding="async" />'
-                f"  </div>"
-                f"</div>"
+                f'<img src="{_esc(speaker_img_url)}" alt="{_esc(speaker_h1)}" decoding="async" />'
             )
         speaker_intro_html = (
             f'<div class="md">{sp_body_html}</div>'
