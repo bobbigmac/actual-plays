@@ -2,9 +2,9 @@
 
 - slug: `the-gilded-troll`
 - source: `https://anchor.fm/s/45cf9500/podcast/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"49394-beyReMp9W7iTH6oB2uNo5pXIatY"`
+- fetched_at: `2026-02-20T07:16:54+00:00`
+- checked_at: `2026-02-20T07:16:54+00:00`
+- etag: `W/"49394-GxRxMId2vJ6AKyz5f1I8DrFPHSQ"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/the-gilded-troll",
   "description": "Welcome to the official podcast version of The Gilded Troll Plays D&D! This is an audio-only version of our Twitch streams!",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11612320/11612320-1609265280407-dd3c92b55d33.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-20T07:16:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

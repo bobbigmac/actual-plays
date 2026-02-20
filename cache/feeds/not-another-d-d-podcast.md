@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Fri, 13 Feb 2026 08:20:14 GMT`
+- fetched_at: `2026-02-20T07:16:54+00:00`
+- checked_at: `2026-02-20T07:16:54+00:00`
+- last_modified: `Fri, 20 Feb 2026 06:40:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-20T07:16:54+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -36,7 +36,7 @@
       "title": "Trinyvale X Strahd - Ep. 22: Dark Blessing",
       "published_at": "2026-02-13T08:10:00+00:00",
       "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/f47f67e3-c44f-4d2a-be00-3fcb6d0eba4a",
-      "description": "The Triplets continue their exploration of Castle Ravenloft and unearth a treasure trove of shocking secrets! Jens becomes a Big Dog, Nyack feels competitive, Onyx gets shell shock as the Trinyvale X Strahd crossover nears its conclusion! Stayed tuned next week for the Finale! Get tickets to our Radio City and Sydney Opera House shows HERE! CREDITS Editing by Brian Murphy Production and Sound Design by Daniel Ramos (@Schubirds on IG) Logo Design by Chelsea LeCompte MUSIC INCLUDES: \"Trinyvale Opening Theme\" by Emily Axford \"Where is the Manager??\" by Emily Axford “Selfless” by Emily Axford \"The Gate\" by Emily Axford “Barovian Tango by Emily Axford \"The Shard\" by Emily Axford “Obsidian” by Emily Axford “The Little Moon” By Emily Axford \"The Tarroka Suite\" by Emily Axford \"The Night Lotus\" by Emily Axford “Strahd” by Emily Axford \"LIghts Out\" by Emily Axford \"Trinyvale Closing Theme\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "description": "The Triplets continue their exploration of Castle Ravenloft and unearth a treasure trove of shocking secrets! Jens becomes a Big Dog, Nyack feels competitive and Onyx gets shell shock as the Trinyvale X Strahd crossover nears its conclusion! Stayed tuned next week for the Finale! Get tickets to our Radio City and Sydney Opera House shows HERE! CREDITS Editing by Brian Murphy Production and Sound Design by Daniel Ramos (@Schubirds on IG) Logo Design by Chelsea LeCompte MUSIC INCLUDES: \"Trinyvale Opening Theme\" by Emily Axford \"Where is the Manager??\" by Emily Axford “Selfless” by Emily Axford \"The Gate\" by Emily Axford “Barovian Tango by Emily Axford \"The Shard\" by Emily Axford “Obsidian” by Emily Axford “The Little Moon” By Emily Axford \"The Tarroka Suite\" by Emily Axford \"The Night Lotus\" by Emily Axford “Strahd” by Emily Axford \"LIghts Out\" by Emily Axford \"Trinyvale Closing Theme\" by Emily Axford See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
       "image_url": "https://content.production.cdn.art19.com/images/78/be/67/d4/78be67d4-fcfa-435f-82d9-b3de03d58c51/af362fd637472268c9914eb45677ad93231dbbde52a074f23dac493271f2778c9a34fe07bf137055785525224c7c24f24441d9dce65da1ad14e0db01f7fce244.jpeg",
       "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/f47f67e3-c44f-4d2a-be00-3fcb6d0eba4a.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
