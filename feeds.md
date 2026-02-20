@@ -323,3 +323,9 @@
 - title_override: Beef And Dairy Network
 - owners: Benjamin Partridge
 - categories: comedy/british, fiction
+
+## button-boys
+- url: https://feeds.megaphone.fm/buttonboys
+- title_override: Button Boys
+- owners: Glenn Moore; Sarah Keyworth; Pierre Novellie
+- categories: comedy/british, games/video-games
