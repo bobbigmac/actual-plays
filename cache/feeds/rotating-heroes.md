@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"6d9ac-64ab1b1c6c879"`
-- last_modified: `Fri, 13 Feb 2026 10:01:52 GMT`
+- fetched_at: `2026-02-20T13:35:29+00:00`
+- checked_at: `2026-02-20T13:35:29+00:00`
+- etag: `"6e517-64b3e82a0baf4"`
+- last_modified: `Fri, 20 Feb 2026 10:01:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,33 @@
   "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-20T13:35:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "3c38b9a326fe2f5ab290695406e1888989f8cfe8",
+      "title": "Axis Arc 1 Ep 9: Sucked out like a Boba PART 1",
+      "published_at": "2026-02-20T10:00:00+00:00",
+      "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
+      "description": "As our crew plan their next move, it’s becoming very clear that time is running short to save the cruise liner. --- Want even more actual play goodness in your life? Why not check out 12 Sided Studios' new show Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. And If you just want to know how the end of this Arc goes down you can head over to The Rotating Heroes Patreon to catch up on the whole of Axis so far as we gear up for Arc 4!",
+      "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/72dbb6a1-9416-4826-8036-aa7be77d9de0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97311299",
+      "itunes_duration": "50:41",
+      "speakers": [
+        "Luke Dale",
+        "Tom McKay"
+      ],
+      "topics": [
+        "axis",
+        "boba"
+      ]
+    },
     {
       "key": "9e7060c1ae3b9253fec0839ec65e777d48dabda3",
       "title": "Axis Arc 1 Ep 8: The Heist PART 2",
@@ -2965,6 +2985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-20 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 1 — speakers: Luke Dale, Tom McKay
 - 2026-02-13 — Axis Arc 1 Ep 8: The Heist PART 2 — speakers: Axis Arc
 - 2026-02-06 — Axis Arc 1 Ep 8: The Heist PART 1 — speakers: Axis Arc
 - 2026-01-30 — Axis Arc 1 Ep 7: Black Holes and Revelations PART 2 — speakers: Axis Arc, Black Holes
