@@ -7,14 +7,6 @@ function prefKey(name) {
   return LS_PREFIX + "pref:" + String(name || "");
 }
 
-export function readSpeakersIncludeOwn() {
-  return lsGet(prefKey("speakers.includeOwn")) === "1";
-}
-
-export function writeSpeakersIncludeOwn(next) {
-  lsSet(prefKey("speakers.includeOwn"), next ? "1" : "0");
-}
-
 export function readBrowseShowSupplemental() {
   return lsGet(prefKey("browse.showSupplemental")) === "1";
 }
@@ -43,9 +35,6 @@ export var store = createStore({
   history: loadHistory(),
   queue: loadQueue(),
   queueIds: computeQueueIds(loadQueue()),
-  prefs: {
-    speakersIncludeOwn: readSpeakersIncludeOwn(),
-  },
   offline: {
     status: null,
     jobsByUrl: {},

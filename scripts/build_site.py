@@ -1802,14 +1802,14 @@ def main() -> int:
             if feed_slug:
                 pods_guest.add(feed_slug)
         speaker_rows.append((sp_slug, speaker, guest, total, len(pods_guest), len(pods_total)))
-    # Default: sort by guest appearances (exclude own podcasts).
-    speaker_rows.sort(key=lambda r: (-r[2], -r[3], r[1].lower()))
+    # Sort by podcast spread first, then total episode appearances.
+    speaker_rows.sort(key=lambda r: (-r[5], -r[3], -r[4], -r[2], r[1].lower()))
     has_owner_data = any(bool(s) for s in owner_slugs_by_feed.values())
     show_own_toggle = has_owner_data
-    toggle_note = (
-        "To enable guest-only counts, set `owners:` on feeds in your config. Until then, all counts are the same."
+    counts_note = (
+        "Owner metadata is unavailable for this feed set, so all counts are totals."
         if not show_own_toggle
-        else "Default counts exclude episodes from podcasts the speaker owns (as configured in the feeds config)."
+        else "Guest counts exclude episodes from podcasts the speaker owns (as configured in the feeds config)."
     )
 
     speaker_list_items = []
@@ -1843,9 +1843,10 @@ def main() -> int:
             guest_kind = "All"
 
         tag = "a" if has_page else "div"
+        card_class = "card speaker-card speaker-card-link" if has_page else "card speaker-card speaker-card-static"
         href_attr = f' href="{_esc(url)}"' if has_page else ""
         speaker_list_items.append(
-            f'<{tag} class="card speaker-card" {href_attr} data-speaker-row '
+            f'<{tag} class="{card_class}" {href_attr} data-speaker-row '
             f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
             f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
             f'  <div class="speaker-card-head">'
@@ -1871,20 +1872,12 @@ def main() -> int:
     <div class="speakers-top">
       <div class="speakers-head">
         <h1>Speakers</h1>
-        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise. Speaker pages/RSS are only generated for speakers that appear on 2+ podcasts — if someone only appears on one podcast, use Search.</p>
+        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise. Speaker pages/RSS are only generated for speakers that appear on 2+ podcasts.</p>
         <div class="speakers-filter">
           <input id="speakers-filter" class="speaker-filter-input" type="search" placeholder="Filter speakers…" autocomplete="off" />
           <div id="speakers-filter-status" class="muted"></div>
         </div>
       </div>
-      <section class="card panel speaker-controls speaker-controls-subtle">
-        <div class="panel-head">
-          <h2>Appearances</h2>
-          {('<div class="muted" data-speakers-mode>Guest appearances</div>' if show_own_toggle else '<div class="muted">Appearances</div>')}
-        </div>
-        {('<label class="toggle"><input id="speakers-include-own" type="checkbox" /> Include own podcasts</label>' if show_own_toggle else '')}
-        <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
-      </section>
     </div>
     <div class="grid speaker-grid" data-speaker-grid>
       {"".join(speaker_list_items) if speaker_list_items else "<div class=\"muted\">No speakers yet.</div>"}
@@ -2075,7 +2068,6 @@ def main() -> int:
             <div class="panel-head">
               <h2>Appearances</h2>
             </div>
-            {('<label class="toggle"><input id="speaker-include-own" type="checkbox" /> Include own podcasts</label>' if show_own_toggle else '')}
             <div class="speaker-counts" style="margin-top:8px">
               <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">
                 <div class="speaker-stats-kind">{'Guest' if show_own_toggle else 'All'}</div>
@@ -2096,7 +2088,6 @@ def main() -> int:
                 else ''
               )}
             </div>
-            <div class="muted" style="margin-top:8px">{_esc(toggle_note)}</div>
           </section>
           {speaker_feed_panel}
         </div>

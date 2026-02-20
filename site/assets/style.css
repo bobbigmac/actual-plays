@@ -1421,6 +1421,16 @@ details.menu > summary::-webkit-details-marker {
   padding: 12px;
 }
 
+.speaker-card-link {
+  cursor: pointer;
+}
+
+.speaker-card-static {
+  border-style: dashed;
+  border-color: rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.012);
+}
+
 .speaker-card-head {
   display: flex;
   gap: 12px;
@@ -1439,7 +1449,7 @@ details.menu > summary::-webkit-details-marker {
   border-radius: 12px;
 }
 
-.speaker-card:hover {
+.speaker-card-link:hover {
   border-color: rgba(155, 209, 255, 0.22);
 }
 

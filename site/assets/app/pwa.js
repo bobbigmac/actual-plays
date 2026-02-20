@@ -13,6 +13,10 @@ export function initPwa() {
       .register(url, { scope: basePath })
       .then(function (reg) {
         try {
+          // Ensure updates are checked immediately so stale cached modules are replaced quickly.
+          if (reg && reg.update) reg.update();
+        } catch (_e0) {}
+        try {
           console.log("[pwa] registered", {
             scope: reg && reg.scope,
             active: Boolean(reg && reg.active),
@@ -44,4 +48,3 @@ export function initPwa() {
     window.addEventListener("load", register);
   }
 }
-

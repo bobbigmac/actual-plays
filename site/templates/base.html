@@ -26,12 +26,19 @@
           <div class="subtitle">{{site_subtitle}}</div>
         </div>
         <nav class="nav">
-          <a href="{{base_path}}">Home</a>
           <a href="{{base_path}}categories/">Categories</a>
           <a href="{{base_path}}speakers/">Speakers</a>
           <!-- <a href="{{base_path}}graph/" disabled class="muted">Graph</a> --> 
           <button class="search-button" type="button" data-open-search>Search</button>
-          <button class="search-button" type="button" data-open-data>Data</button>
+          <button class="search-button" type="button" data-open-data aria-label="Data">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-data" width="20" height="20" viewBox="0 0 20 20" style="vertical-align: -3px; margin-right: 0.33em; fill: currentColor;">
+              <ellipse cx="10" cy="5" rx="7" ry="3" />
+              <ellipse cx="10" cy="10" rx="7" ry="3" />
+              <ellipse cx="10" cy="15" rx="7" ry="3" />
+              <line x1="3" y1="5" x2="3" y2="15" stroke="currentColor" stroke-width="1" />
+              <line x1="17" y1="5" x2="17" y2="15" stroke="currentColor" stroke-width="1" />
+            </svg>
+          </button>
         </nav>
       </div>
     </header>
