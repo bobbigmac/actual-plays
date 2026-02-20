@@ -2126,7 +2126,7 @@ def main() -> int:
     # Graph page (podcasts <-> speakers).
     graph_content = f"""
     <h1>Graph</h1>
-    <p class="muted">A visual map of podcasts and speakers. Drag to pan, scroll/pinch to zoom, tap a node to open it.</p>
+    <p class="muted">A visual map of podcasts and speakers. Work in progress.</p>
     <div class="graph-layout" id="graph-page" data-graph-page>
       <section class="card panel graph-controls">
         <div class="panel-head" style="margin-bottom:10px">

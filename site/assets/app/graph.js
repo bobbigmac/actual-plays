@@ -76,11 +76,10 @@ function _buildGraphModel(data) {
 
   function estNode(label, kind, deg) {
     label = String(label || "");
-    var ll = label.length;
     var isPod = kind === "p";
-    var maxW = isPod ? 260 : 220;
-    var minW = isPod ? 130 : 110;
-    var maxLines = isPod ? 3 : 2;
+    var maxW = isPod ? 220 : 180;
+    var minW = isPod ? 120 : 104;
+    var maxLines = 2;
     var fs = isPod ? 13 : 11;
     if (ll > 46) fs -= 1;
     if (ll > 70) fs -= 1;
@@ -88,15 +87,20 @@ function _buildGraphModel(data) {
     var charW = fs * 0.62;
     var padX = 26;
     var padY = 18;
-    var rawW = ll * charW + padX;
+    var rawW = label.length * charW + padX;
     var w = _clamp(rawW, minW, maxW);
     var charsPerLine = Math.max(12, Math.floor((w - padX) / charW));
+    var maxChars = Math.max(12, charsPerLine * maxLines);
+    if (label.length > maxChars) {
+      label = label.slice(0, Math.max(1, maxChars - 1)).trimEnd() + "…";
+    }
+    var ll = label.length;
     var lines = Math.ceil(ll / charsPerLine);
     lines = _clamp(lines, 1, maxLines);
     var lineH = fs + 4;
     var h = padY + lines * lineH;
     var tw = Math.max(60, Math.floor(w - padX));
-    return { ll: ll, fs: fs, w: w, h: h, tw: tw, deg: deg };
+    return { label: label, ll: ll, fs: fs, w: w, h: h, tw: tw, deg: deg };
   }
 
   var nodes = rawNodes.map(function (n) {
@@ -138,7 +142,11 @@ function _buildGraphModel(data) {
 
   for (var n2 = 0; n2 < nodes.length; n2++) {
     var nd = nodes[n2];
-    var dims = estNode(nd.l, nd.t, Number(degreeW[nd.id] || 0));
+    var full = String(nd.l || "");
+    full = full.replace(/\s+/g, " ").trim();
+    nd.l_full = full;
+    var dims = estNode(full, nd.t, Number(degreeW[nd.id] || 0));
+    nd.l = dims.label;
     nd.ll = dims.ll;
     nd.fs = dims.fs;
     nd.w = dims.w;
@@ -286,6 +294,7 @@ function _makeCyElements(model) {
       data: {
         id: n.id,
         label: n.l,
+        full: n.l_full || n.l,
         ll: n.ll || Math.min(80, String(n.l || "").length || 0),
         deg: Number(n.deg || (model.degreeW && model.degreeW[n.id] ? model.degreeW[n.id] : 0)),
         fs: Number(n.fs || (n.t === "p" ? 12 : 10)),
@@ -413,11 +422,15 @@ function _initCy(opts) {
     if (href) window.location.href = href;
   });
 
-  try {
-    cy.center();
-    var w = container && container.clientWidth ? container.clientWidth : 1000;
-    cy.zoom(w < 720 ? 0.95 : 1.15);
-  } catch (_e) {}
+  cy.on("mouseover", "node", function (evt) {
+    var n = evt && evt.target ? evt.target : null;
+    if (!n) return;
+    if (opts.onHover) opts.onHover(String(n.data("full") || n.data("label") || ""));
+  });
+  cy.on("mouseout", "node", function () {
+    if (opts.onHover) opts.onHover("");
+  });
+
   return cy;
 }
 
@@ -534,7 +547,20 @@ export function initGraph() {
       if (!_isGraphPage()) return;
       var model = _buildGraphModel(data);
       _computeLayout(model);
-      var cy = _initCy({ cytoscape: cytoscape, container: container, model: model });
+      var hoverNote = "";
+      function onHover(txt) {
+        hoverNote = String(txt || "");
+        if (!statsEl) return;
+        if (hoverNote) statsEl.textContent = hoverNote;
+        else apply();
+      }
+
+      var cy = _initCy({
+        cytoscape: cytoscape,
+        container: container,
+        model: model,
+        onHover: onHover,
+      });
 
       function destroy() {
         try {
@@ -543,6 +569,50 @@ export function initGraph() {
       }
 
       _instance = { cy: cy, model: model, destroy: destroy, loading: false };
+
+      // Layout once (no animation). Use COSE to avoid overlaps and preserve strong links.
+      try {
+        if (statsEl) statsEl.textContent = "Laying out…";
+        var layout = cy.layout({
+          name: "cose",
+          animate: false,
+          randomize: false,
+          fit: false,
+          padding: 40,
+          nodeDimensionsIncludeLabels: true,
+          avoidOverlap: true,
+          avoidOverlapPadding: 10,
+          componentSpacing: 70,
+          nodeOverlap: 4,
+          idealEdgeLength: function (edge) {
+            var w0 = Number(edge.data("weight") || 1);
+            if (w0 < 1) w0 = 1;
+            var cap = Math.min(w0, 90);
+            return 240 / Math.pow(cap, 0.33) + 60;
+          },
+          edgeElasticity: function (edge) {
+            var w1 = Number(edge.data("weight") || 1);
+            return 30 + Math.min(120, w1 * 2);
+          },
+          nodeRepulsion: function (node) {
+            var deg = Number(node.data("deg") || 0);
+            return 8200 + Math.min(14000, deg * 60);
+          },
+          gravity: 0.4,
+          numIter: 900,
+          initialTemp: 180,
+          coolingFactor: 0.98,
+          minTemp: 1.0,
+        });
+        layout.run();
+      } catch (_e) {}
+
+      // Don't fit everything: start with a comfortable zoom.
+      try {
+        cy.center();
+        var w = container && container.clientWidth ? container.clientWidth : 1000;
+        cy.zoom(w < 720 ? 0.9 : 1.05);
+      } catch (_e) {}
 
       readControls();
       apply();
@@ -567,7 +637,7 @@ export function initGraph() {
           try {
             _instance.cy.center();
             var w = container && container.clientWidth ? container.clientWidth : 1000;
-            _instance.cy.zoom(w < 720 ? 0.95 : 1.15);
+            _instance.cy.zoom(w < 720 ? 0.9 : 1.05);
           } catch (_e) {}
         });
       }
