@@ -2,8 +2,8 @@
 
 - slug: `acquisitions-incorporated`
 - source: `https://www.penny-arcade.com/feed/podcasts-ai`
-- fetched_at: `2026-02-20T19:08:24+00:00`
-- checked_at: `2026-02-20T19:08:24+00:00`
+- fetched_at: `2026-02-20T21:44:58+00:00`
+- checked_at: `2026-02-20T21:44:58+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.penny-arcade.com/podcast/ai",
   "description": "Join the entirely legitimate adventuring company Acquisitions Incorporated as they engage in completely legal business! One of the first \"actual play\" Dungeons & Dragons games, we've been at this since 2008. Is that a good thing? You tell me.",
   "image_url": "https://assets.penny-arcade.com/img/podcasts/patv_show_aits.jpg",
-  "fetched_at": "2026-02-20T19:08:24+00:00",
+  "fetched_at": "2026-02-20T21:44:58+00:00",
   "owners": [
     "Jerry Holkins",
     "Mike Krahulik"
@@ -594,8 +594,7 @@
         "Omin Dran",
         "Xavier Woods",
         "Bobbie Zimmeruski",
-        "Jasmine Bhullar",
-        "Mike Krahulik"
+        "Jasmine Bhullar"
       ],
       "topics": [
         "east"
@@ -620,8 +619,7 @@
         "Anna Prosser",
         "Evelyn Marthain",
         "Holly Conrad",
-        "Strix Beestinger",
-        "Mike Krahulik"
+        "Strix Beestinger"
       ],
       "topics": []
     },
@@ -644,8 +642,7 @@
         "Sadie Hamilton",
         "Curious Swamp Girl",
         "Laura Stringer",
-        "Thurston Carter",
-        "Mike Krahulik"
+        "Thurston Carter"
       ],
       "topics": [
         "acquisitions",
@@ -1412,9 +1409,9 @@
 - 2023-09-27 — S2E2 - Episode Two: This Fine Monster — speakers: Jeremy Crawford, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
 - 2023-09-20 — S2E1 - Episode One: Crystal Clear — speakers: Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
 - 2023-09-07 — S2E1 - PAX West 2023 — speakers: Jim Darkmagic, Chris Perkins, Jerry Holkins, Omin Dran, Anna Prosser, Jasmine Bhullar, Jeremy Crawford, Mike Krahulik
-- 2023-03-26 — S2E0 - PAX East 2023 — speakers: Chris Perkins, Jeremy Crawford, Anna Prosser, Jerry Holkins, Omin Dran, Xavier Woods, Bobbie Zimmeruski, Jasmine Bhullar, Mike Krahulik
-- 2022-12-12 — S1E39 - PAX Unplugged 2022 — speakers: Starring Jeremy Crawford, Jerry Holkins, Omin Dran, Jasmine Bhullar, Anna Prosser, Evelyn Marthain, Holly Conrad, Strix Beestinger, Mike Krahulik
-- 2022-10-17 — S1E38 - Acquisitions Incorporated Presents Call of Cthulhu - PAX Aus 2022 — speakers: Keeper Played, Kristofer Straub, Lead Detective, Jerry Holkins, Sadie Hamilton, Curious Swamp Girl, Laura Stringer, Thurston Carter, Mike Krahulik
+- 2023-03-26 — S2E0 - PAX East 2023 — speakers: Chris Perkins, Jeremy Crawford, Anna Prosser, Jerry Holkins, Omin Dran, Xavier Woods, Bobbie Zimmeruski, Jasmine Bhullar
+- 2022-12-12 — S1E39 - PAX Unplugged 2022 — speakers: Starring Jeremy Crawford, Jerry Holkins, Omin Dran, Jasmine Bhullar, Anna Prosser, Evelyn Marthain, Holly Conrad, Strix Beestinger
+- 2022-10-17 — S1E38 - Acquisitions Incorporated Presents Call of Cthulhu - PAX Aus 2022 — speakers: Keeper Played, Kristofer Straub, Lead Detective, Jerry Holkins, Sadie Hamilton, Curious Swamp Girl, Laura Stringer, Thurston Carter
 - 2022-09-12 — S1E37 - PAX West 2022 — speakers: Jerry Holkins, Mike Krahulik
 - 2022-05-13 — S1E36 - PAX East 2022 — speakers: Jerry Holkins, Mike Krahulik
 - 2021-09-05 — S1E35 - PAX West 2021: It's Just Business — speakers: Jerry Holkins, Mike Krahulik
