@@ -19,6 +19,22 @@ export function initSpaNavigation(deps) {
     if (!nextMain || !curMain) return false;
     curMain.innerHTML = nextMain.innerHTML;
     if (doc.title) document.title = doc.title;
+    try {
+      var nextBody = doc.body;
+      var nextClasses = nextBody ? String(nextBody.getAttribute("class") || "") : "";
+      var next = nextClasses.split(/\s+/).filter(Boolean);
+      var cur = String(document.body.getAttribute("class") || "")
+        .split(/\s+/)
+        .filter(Boolean);
+      // Preserve runtime classes (e.g. search/data panels), but replace page-scoped classes.
+      var keep = cur.filter(function (c) {
+        return !(c === "page-fullbleed" || String(c).startsWith("page-"));
+      });
+      var page = next.filter(function (c) {
+        return c === "page-fullbleed" || String(c).startsWith("page-");
+      });
+      document.body.setAttribute("class", keep.concat(page).join(" "));
+    } catch (_e) {}
     return true;
   }
 
