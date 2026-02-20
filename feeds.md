@@ -173,3 +173,50 @@
 - url: https://podcasts.files.bbci.co.uk/p02pc9pj.rss
 - title_override: Friday Night Comedy (BBC Radio 4)
 - categories: comedy/british, radio
+
+## chatabix
+- url: https://feeds.megaphone.fm/GLT7256806225
+- title_override: Chatabix
+- owners: Joe Wilkinson; David Earl
+- categories: comedy/british, interviews
+
+## socially-distant-sports-bar
+- url: https://feeds.acast.com/public/shows/the-socially-distant-sports-bar
+- title_override: The Socially Distant Sports Bar
+- owners: Elis James; Mike Bubbins; Steff Garrero
+- categories: comedy/british, sports
+
+## skewer
+- url: https://podcasts.files.bbci.co.uk/m000czyb.rss
+- title_override: The Skewer (BBC Radio 4)
+- owners: Jon Holmes
+- categories: comedy/british, radio, news/politics
+
+## comedy-of-the-week
+- url: https://podcasts.files.bbci.co.uk/p02pc9x6.rss
+- title_override: Comedy of the Week (BBC Radio 4)
+- categories: comedy/british, radio
+
+## early-work
+- url: https://feeds.acast.com/public/shows/63d2a30b7e9dd40010986477
+- title_override: Early Work with Rhys James
+- owners: Rhys James
+- categories: comedy/british, interviews
+
+## rule-of-three
+- url: https://feeds.acast.com/public/shows/ruleofthree
+- title_override: Rule of Three
+- owners: Joel Morris; Jason Hazeley
+- categories: comedy/british
+
+## wheres-a-will-theres-a-wake
+- url: https://feeds.megaphone.fm/wtawtaw
+- title_override: Where There's a Will, There's a Wake
+- owners: Mel Giedroyc
+- categories: comedy/british, interviews
+
+## pod-save-the-uk
+- url: https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053
+- title_override: Pod Save the UK
+- owners: Nish Kumar; Coco Khan
+- categories: news/politics, comedy/british
