@@ -31,6 +31,14 @@ _RESERVED_ROOT_SLUGS = {
     "site.json",
     "index.json",
 }
+_SPEAKER_IMAGE_EXT_PREFERENCE = {
+    ".webp": 0,
+    ".jpg": 1,
+    ".jpeg": 2,
+    ".png": 3,
+    ".avif": 4,
+    ".gif": 5,
+}
 
 
 def _safe_http_href(href: str) -> str:
@@ -226,6 +234,32 @@ def _norm_base_path(value: str | None) -> str:
 
 def _href(base_path: str, path: str) -> str:
     return base_path + path.lstrip("/")
+
+
+def _speaker_images_by_slug(assets_dir: Path) -> dict[str, str]:
+    """
+    Return {speaker_slug: relative_path_under_assets} for available speaker images.
+    """
+    root = assets_dir / "images" / "speakers"
+    if not root.exists():
+        return {}
+
+    chosen: dict[str, tuple[int, str, str]] = {}
+    for p in sorted(root.iterdir()):
+        if not p.is_file():
+            continue
+        ext = p.suffix.lower()
+        if ext not in _SPEAKER_IMAGE_EXT_PREFERENCE:
+            continue
+        slug = p.stem.strip().lower()
+        if not slug:
+            continue
+        rel = (Path("images") / "speakers" / p.name).as_posix()
+        pref = _SPEAKER_IMAGE_EXT_PREFERENCE[ext]
+        prev = chosen.get(slug)
+        if prev is None or pref < prev[0] or (pref == prev[0] and p.name < prev[1]):
+            chosen[slug] = (pref, p.name, rel)
+    return {slug: rel for slug, (_pref, _name, rel) in chosen.items()}
 
 
 def _load_template(path: Path) -> str:
@@ -957,6 +991,7 @@ def main() -> int:
                 "body_md": rest,
                 "body_html": _render_min_md(rest) if rest.strip() else "",
             }
+    speaker_image_rel_by_slug = _speaker_images_by_slug(assets_dir)
 
     # Clean dist (but keep it within repo; callers control .gitignore).
     if dist_dir.exists():
@@ -1780,6 +1815,15 @@ def main() -> int:
     speaker_list_items = []
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
         sp_page = speaker_page_slug_by_slug.get(sp_slug) or ""
+        speaker_img_rel = speaker_image_rel_by_slug.get(sp_slug) or ""
+        speaker_img_html = ""
+        if speaker_img_rel:
+            speaker_img_url = _href(base_path, f"assets/{speaker_img_rel}")
+            speaker_img_html = (
+                f'  <div class="speaker-card-image speaker-image-frame" aria-hidden="true">'
+                f'    <img src="{_esc(speaker_img_url)}" alt="" loading="lazy" decoding="async" />'
+                f"  </div>"
+            )
         has_page = bool(sp_page)
         url = _href(base_path, f"{sp_page}/") if sp_page else ""
         stats_total_html = ""
@@ -1804,16 +1848,21 @@ def main() -> int:
             f'<{tag} class="card speaker-card" {href_attr} data-speaker-row '
             f'data-count-guest="{guest_count}" data-count-total="{total_count}" '
             f'data-pods-guest="{guest_pods}" data-pods-total="{total_pods}" data-name="{_esc(speaker)}">'
-            f'  <div class="speaker-card-name">{_esc(speaker)}</div>'
-            f'  <div class="speaker-card-stats" data-speaker-stats-wrap>'
-            f'    <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">'
-            f'      <div class="speaker-stats-kind">{guest_kind}</div>'
-            f'      <div class="speaker-stats-metrics">'
-            f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-count-guest>{guest_count}</span><span class="speaker-metric-unit">eps</span></div>'
-            f'        <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-pods-guest>{guest_pods}</span><span class="speaker-metric-unit">pods</span></div>'
+            f'  <div class="speaker-card-head">'
+            f"{speaker_img_html}"
+            f'    <div class="speaker-card-main">'
+            f'      <div class="speaker-card-name">{_esc(speaker)}</div>'
+            f'      <div class="speaker-card-stats" data-speaker-stats-wrap>'
+            f'        <div class="speaker-stats-row" data-speaker-stats="guest" data-primary="1">'
+            f'          <div class="speaker-stats-kind">{guest_kind}</div>'
+            f'          <div class="speaker-stats-metrics">'
+            f'            <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-count-guest>{guest_count}</span><span class="speaker-metric-unit">eps</span></div>'
+            f'            <div class="speaker-metric"><span class="speaker-metric-num" data-speaker-pods-guest>{guest_pods}</span><span class="speaker-metric-unit">pods</span></div>'
+            f"          </div>"
+            f"        </div>"
+            f"{stats_total_html}"
             f"      </div>"
             f"    </div>"
-            f"{stats_total_html}"
             f"  </div>"
             f'</{tag}>'
         )
@@ -1965,6 +2014,15 @@ def main() -> int:
         sp_title = str(sp_profile.get("title") or "").strip()
         sp_body_html = str(sp_profile.get("body_html") or "").strip()
         speaker_h1 = sp_title or speaker
+        speaker_img_rel = speaker_image_rel_by_slug.get(sp_slug) or ""
+        speaker_img_url = _href(base_path, f"assets/{speaker_img_rel}") if speaker_img_rel else ""
+        speaker_image_block = ""
+        if speaker_img_rel:
+            speaker_image_block = (
+                f'<div class="speaker-page-image speaker-image-frame">'
+                f'  <img src="{_esc(speaker_img_url)}" alt="{_esc(speaker_h1)}" decoding="async" />'
+                f"</div>"
+            )
         speaker_profile_panel = ""
         if sp_body_html:
             speaker_profile_panel = f'<section class="card panel speaker-profile"><div class="md">{sp_body_html}</div></section>'
@@ -2007,7 +2065,10 @@ def main() -> int:
             """.strip()
 
         content = f"""
-        <h1>{_esc(speaker_h1)}</h1>
+        <div class="speaker-page-head">
+          {speaker_image_block}
+          <h1>{_esc(speaker_h1)}</h1>
+        </div>
         {speaker_profile_panel}
         <div class="speaker-top-panels">
           <section class="card panel speaker-controls">
@@ -2053,7 +2114,7 @@ def main() -> int:
             page_title=f"{speaker_h1} — {site_cfg.get('title') or ''}".strip(" —"),
             page_description=f"Episodes with {speaker_h1}",
             content_html=content,
-            include_og_image=False,
+            og_image=speaker_img_url or None,
         )
 
         if has_guest_feed:

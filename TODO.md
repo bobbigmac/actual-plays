@@ -3,7 +3,7 @@
 - [ ] Sleep timer: Usual sleep timer, long/slow fade outs... wake up? Rising noise/ambience? Log audio at sleep start time, so can repeat/restart and just skip forward, rather than skipping back. Sleep detected shut-off?
 - [ ] Paging for unusually large indexes?
 - [ ] UI tweaks: Mobile layout needs a little work for narrow viewports
-- [ ] Option on feeds to avoid creating tags from those feeds (can only match other tags), like Names as Topics in news stories, rather than as speakers.
+- [ ] Option on feeds to avoid creating tags from those feeds (can only match other tags), like Names as Topics in news stories, rather than as speakers
 - [ ] Fold player up into header on scroll
 - [ ] Neater UI, nicer buttons, more modern, general style polish
 

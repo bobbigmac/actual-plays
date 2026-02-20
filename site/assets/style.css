@@ -737,6 +737,42 @@ details.menu > summary::-webkit-details-marker {
   margin: 0;
 }
 
+.speaker-page-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 2px 0 12px 0;
+}
+
+.speaker-page-head h1 {
+  margin: 0;
+}
+
+.speaker-image-frame {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+}
+
+.speaker-image-frame img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+  object-position: center center;
+}
+
+.speaker-page-image {
+  width: 124px;
+  height: 124px;
+  flex: 0 0 124px;
+  border-radius: 14px;
+}
+
 .toast-root {
   position: fixed;
   right: 14px;
@@ -1385,6 +1421,24 @@ details.menu > summary::-webkit-details-marker {
   padding: 12px;
 }
 
+.speaker-card-head {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.speaker-card-main {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.speaker-card-image {
+  width: 84px;
+  height: 84px;
+  flex: 0 0 84px;
+  border-radius: 12px;
+}
+
 .speaker-card:hover {
   border-color: rgba(155, 209, 255, 0.22);
 }
@@ -1512,6 +1566,12 @@ details.menu > summary::-webkit-details-marker {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .speaker-page-image {
+    width: 108px;
+    height: 108px;
+    flex-basis: 108px;
+  }
+
   .home-layout {
     grid-template-columns: 1fr;
   }
@@ -1550,5 +1610,17 @@ details.menu > summary::-webkit-details-marker {
 
   .speaker-grid {
     grid-template-columns: 1fr;
+  }
+
+  .speaker-card-image {
+    width: 72px;
+    height: 72px;
+    flex-basis: 72px;
+  }
+
+  .speaker-page-image {
+    width: 92px;
+    height: 92px;
+    flex-basis: 92px;
   }
 }
