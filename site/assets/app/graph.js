@@ -81,8 +81,9 @@ function _buildGraphModel(data) {
     var minW = isPod ? 120 : 104;
     var maxLines = 2;
     var fs = isPod ? 13 : 11;
-    if (ll > 46) fs -= 1;
-    if (ll > 70) fs -= 1;
+    var ll0 = label.length;
+    if (ll0 > 46) fs -= 1;
+    if (ll0 > 70) fs -= 1;
     fs = _clamp(fs, isPod ? 10 : 9, isPod ? 14 : 12);
     var charW = fs * 0.62;
     var padX = 26;
