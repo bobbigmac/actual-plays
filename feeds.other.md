@@ -599,3 +599,10 @@
 - supplemental: true
 - owners: Ellie Gibson; Helen Thorn
 - categories: comedy, interviews, parenting
+
+## button-boys
+- url: https://feeds.megaphone.fm/buttonboys
+- title_override: Button Boys
+- supplemental: true
+- owners: Glenn Moore; Sarah Keyworth; Pierre Novellie
+- categories: comedy/british, games/video-games
