@@ -245,12 +245,6 @@
 - owners: Kiri Pritchard-McLean; Rachel Fairburn
 - categories: comedy/british, true-crime
 
-## brydon-and
-- url: https://rss.art19.com/brydon
-- title_override: Brydon & (Rob Brydon)
-- owners: Rob Brydon
-- categories: comedy/british, interviews
-
 ## just-a-minute
 - url: https://podcasts.files.bbci.co.uk/b006s5dp.rss
 - title_override: Just a Minute (BBC Radio 4)
