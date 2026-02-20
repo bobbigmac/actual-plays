@@ -501,7 +501,7 @@
 - title_override: Chatabix
 - supplemental: true
 - owners: Joe Wilkinson; David Earl
-- categories: comedy
+- categories: comedy, chat
 
 ## socially-distant-sports-bar
 - url: https://feeds.acast.com/public/shows/the-socially-distant-sports-bar
@@ -535,7 +535,7 @@
 - title_override: Rule of Three
 - supplemental: true
 - owners: Joel Morris; Jason Hazeley
-- categories: comedy
+- categories: comedy, interviews, writing
 
 ## wheres-a-will-theres-a-wake
 - url: https://feeds.megaphone.fm/wtawtaw
@@ -550,3 +550,59 @@
 - supplemental: true
 - owners: Nish Kumar; Coco Khan
 - categories: politics, comedy
+
+## griefcast
+- url: https://feeds.acast.com/public/shows/6b139f7b-0974-4b07-99fa-945390989fd8
+- title_override: Griefcast
+- supplemental: true
+- owners: Cariad Lloyd
+- categories: comedy, interviews
+
+## drunk-women-solving-crime
+- url: https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad
+- title_override: Drunk Women Solving Crime
+- supplemental: true
+- owners: Hannah George; Taylor Glenn
+- categories: comedy, true-crime
+
+## out-with-suzi-ruffell
+- url: https://feeds.megaphone.fm/GLT9819213775
+- title_override: Out with Suzi Ruffell
+- supplemental: true
+- owners: Suzi Ruffell
+- categories: comedy, interviews
+
+## all-killa-no-filla
+- url: https://allkillanofilla.libsyn.com/rss
+- title_override: All Killa No Filla
+- supplemental: true
+- owners: Kiri Pritchard-McLean; Rachel Fairburn
+- categories: comedy, true-crime
+
+## brydon-and
+- url: https://rss.art19.com/brydon
+- title_override: Brydon & (Rob Brydon)
+- supplemental: true
+- owners: Rob Brydon
+- categories: comedy, interviews
+
+## just-a-minute
+- url: https://podcasts.files.bbci.co.uk/b006s5dp.rss
+- title_override: Just a Minute (BBC Radio 4)
+- supplemental: true
+- owners: BBC Radio 4
+- categories: comedy, bbc, radio
+
+## breaking-the-news
+- url: https://podcasts.files.bbci.co.uk/b066zypj.rss
+- title_override: Breaking the News (BBC Radio Scotland)
+- supplemental: true
+- owners: BBC Radio Scotland
+- categories: comedy, bbc, news, radio
+
+## scummy-mummies
+- url: https://scummymummies.libsyn.com/rss
+- title_override: Scummy Mummies
+- supplemental: true
+- owners: Ellie Gibson; Helen Thorn
+- categories: comedy, interviews, parenting
