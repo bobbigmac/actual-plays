@@ -79,6 +79,14 @@ a:hover {
   background: rgba(11, 12, 15, 0.85);
   border-bottom: 1px solid var(--border);
   backdrop-filter: blur(10px);
+  transition: transform 160ms ease, opacity 160ms ease;
+  will-change: transform;
+}
+
+.ap-scrolled .site-header {
+  transform: translateY(-120%);
+  opacity: 0;
+  pointer-events: none;
 }
 
 .header-row {
