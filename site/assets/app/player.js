@@ -57,6 +57,30 @@ export function initPlayer() {
   var webAudioAllowedForSource = false;
   var lastPositionStateMs = 0;
 
+  function readSeekSeconds(btn, fallback) {
+    var fb = Number(fallback) || 0;
+    if (!btn) return fb;
+    try {
+      var raw = btn.getAttribute("data-seek-seconds");
+      var n0 = raw != null ? Number(raw) : NaN;
+      if (Number.isFinite(n0) && n0 > 0) return n0;
+    } catch (_e) {}
+    try {
+      var label = String(btn.getAttribute("aria-label") || "");
+      var m = label.match(/(\d+)\s*second/i);
+      if (m && m[1]) return Math.max(1, Number(m[1]) || fb);
+    } catch (_e2) {}
+    try {
+      var txt = String(btn.textContent || "");
+      var m2 = txt.match(/-?\d+/);
+      if (m2 && m2[0]) return Math.max(1, Math.abs(Number(m2[0]) || fb));
+    } catch (_e3) {}
+    return fb;
+  }
+
+  var seekBackSeconds = readSeekSeconds(btnBack15, 15);
+  var seekForwardSeconds = readSeekSeconds(btnFwd30, 30);
+
   function syncAudioSettingsButton() {
     if (!btnAudioSettings || !audioSettings) return;
     btnAudioSettings.setAttribute("aria-expanded", audioSettings.open ? "true" : "false");
@@ -583,14 +607,24 @@ export function initPlayer() {
 
     safeSetActionHandler("seekbackward", function (details) {
       if (!player.src) return;
-      var off = details && typeof details.seekOffset === "number" ? details.seekOffset : 15;
+      var off =
+        Number.isFinite(seekBackSeconds) && seekBackSeconds > 0
+          ? seekBackSeconds
+          : details && typeof details.seekOffset === "number"
+            ? details.seekOffset
+            : 15;
       player.currentTime = Math.max(0, (player.currentTime || 0) - off);
       saveProgress(true);
       updatePositionState(true);
     });
     safeSetActionHandler("seekforward", function (details) {
       if (!player.src) return;
-      var off = details && typeof details.seekOffset === "number" ? details.seekOffset : 30;
+      var off =
+        Number.isFinite(seekForwardSeconds) && seekForwardSeconds > 0
+          ? seekForwardSeconds
+          : details && typeof details.seekOffset === "number"
+            ? details.seekOffset
+            : 30;
       player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + off);
       saveProgress(true);
       updatePositionState(true);
@@ -884,14 +918,16 @@ export function initPlayer() {
 
   if (btnBack15) {
     btnBack15.addEventListener("click", function () {
-      player.currentTime = Math.max(0, (player.currentTime || 0) - 15);
+      player.currentTime = Math.max(0, (player.currentTime || 0) - seekBackSeconds);
       saveProgress(true);
+      updatePositionState(true);
     });
   }
   if (btnFwd30) {
     btnFwd30.addEventListener("click", function () {
-      player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + 30);
+      player.currentTime = Math.min(player.duration || Infinity, (player.currentTime || 0) + seekForwardSeconds);
       saveProgress(true);
+      updatePositionState(true);
     });
   }
   if (btnSlower) {

@@ -105,9 +105,14 @@ self.addEventListener("install", (event) => {
           urlFor("assets/app/pwa.js"),
           urlFor("assets/app/navigation.js"),
           urlFor("assets/app/episode_meta.js"),
+          urlFor("assets/app/graph.js"),
+          urlFor("assets/app/ui/browse_supplemental.js"),
+          urlFor("assets/app/ui/latest_supplemental.js"),
+          urlFor("assets/vendor/cytoscape.min.js"),
           urlFor("assets/icon-192.png"),
           urlFor("assets/icon-512.png"),
           urlFor("assets/apple-touch-icon.png"),
+          urlFor("assets/rss.svg"),
         ])
       )
       .then(() => self.skipWaiting())
