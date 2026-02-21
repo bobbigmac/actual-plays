@@ -2,9 +2,9 @@
 
 - slug: `curse-of-strahd-twice-bitten`
 - source: `https://anchor.fm/s/32a17340/podcast/rss`
-- fetched_at: `2026-02-20T21:44:58+00:00`
-- checked_at: `2026-02-20T21:44:58+00:00`
-- etag: `W/"e91bf-34eY06PIOrI0sH8ILdTELB8dNm0"`
+- fetched_at: `2026-02-21T07:03:15+00:00`
+- checked_at: `2026-02-21T07:03:15+00:00`
+- etag: `W/"e91bf-B1wXGXb+LP1xhARlhSCabmCi8MU"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.twitch.tv/rcurseofstrahd",
   "description": "Six DMs return to the mists to run a completely Rules-As-Written Curse of Strahd campaign. Our core question: what happens when, rather than luring in a party of heroes or adventurers, the mists of Barovia claim a group of cowardly, cynical, selfish, and/or traumatized individuals who fall—not leap—into adventure? Join Jack, Kaiya, Linus, Tsarina, Twi and their DM DragnaCarta (creator of the popular Curse of Strahd: Reloaded guides) to follow the story of a group of ordinary people thrust headfirst into danger.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8394416/8394416-1598401058415-cbf84f94187b1.jpg",
-  "fetched_at": "2026-02-20T21:44:58+00:00",
+  "fetched_at": "2026-02-21T07:03:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
