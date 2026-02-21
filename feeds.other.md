@@ -262,6 +262,12 @@
 - owners: Brandon Rosa
 - categories: entertainment
 
+## pottering-with-tom-allen
+- url: https://audioboom.com/channels/5160692.rss
+- title_override: Pottering with Tom Allen
+- owners: Tom Allen
+- categories: comedy
+
 <!-- Supplemental: tracked for guest appearances, hidden from Browse by default. -->
 
 ## taskmaster-peoples

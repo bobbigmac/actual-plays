@@ -329,3 +329,9 @@
 - title_override: Button Boys
 - owners: Glenn Moore; Sarah Keyworth; Pierre Novellie
 - categories: comedy/british, games/video-games
+
+## pottering-with-tom-allen
+- url: https://audioboom.com/channels/5160692.rss
+- title_override: Pottering with Tom Allen
+- owners: Tom Allen
+- categories: comedy/british, interviews, hobbies/gardening
