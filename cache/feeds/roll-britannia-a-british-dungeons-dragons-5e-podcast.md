@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NzE1MDg0NTA1MDk="`
+- fetched_at: `2026-02-22T09:48:20+00:00`
+- checked_at: `2026-02-22T09:48:20+00:00`
+- etag: `"djEuMi4wOjE3NzE3NDcyMzk0NDM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-22T09:48:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,34 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "ebdb67768623eb1338c9bc55f8a3c1d71d1c5b82",
+      "title": "Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations",
+      "published_at": "2026-02-22T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "Join Dungeon Master James in the latest episode of Roll Britannia | Parley, where we ask our guests all the big questions, like; who is the greatest lord... of the flies, of the dance, or of the rings, and how do you calculate a +7 modifier on a roll of 3d12? Well, he probably has better questions, the only way to find out is to listen! This time we speak to the Legendary Duncan Rhodes of Hipsters & Dragons and author of The Creative Game Master’s Guide to Extraordinary Locations LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/6994d9d9c208b1a9313483a4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58664441",
+      "itunes_duration": "40:20",
+      "speakers": [
+        "Roll Britannia",
+        "Fan Content"
+      ],
+      "topics": [
+        "britannia",
+        "parley",
+        "duncan",
+        "rhodes",
+        "creative",
+        "game",
+        "master",
+        "guide",
+        "extraordinary",
+        "locations"
+      ]
+    },
     {
       "key": "0cd14a2adc4b276513cf678cdc66888ee939b9ff",
       "title": "Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.2 | #DND",
@@ -8644,6 +8672,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-22 — Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations — speakers: Roll Britannia, Fan Content
 - 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
 - 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
 - 2026-02-11 — Ep. 316: Because, That's What Heroes Do - Chapter 13 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
