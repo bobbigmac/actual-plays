@@ -2,9 +2,9 @@
 
 - slug: `analog-science-fiction-fact`
 - source: `https://analogsf.podomatic.com/rss2.xml`
-- fetched_at: `2026-02-21T13:12:30+00:00`
-- checked_at: `2026-02-21T13:12:30+00:00`
-- etag: `"97f80b5f73c065daef634c409828bf2a-gzip"`
+- fetched_at: `2026-02-22T03:18:15+00:00`
+- checked_at: `2026-02-22T03:18:15+00:00`
+- etag: `"97f80b5f73c065daef634c409828bf2a"`
 - last_modified: `Tue, 17 Feb 2026 00:14:27 GMT`
 - max_episodes_per_feed: `1000`
 
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/analogsf",
   "description": "Fiction and features from editors, authors, and new issues of Analog Science Fiction & Fact, the longest continuously running science fiction magazine.",
   "image_url": "https://assets.podomatic.net/ts/bd/dc/ec/ehockaday/1400x1400_14516937.jpg",
-  "fetched_at": "2026-02-21T13:12:30+00:00",
+  "fetched_at": "2026-02-22T03:18:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

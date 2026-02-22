@@ -3,9 +3,11 @@
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
+- checked_at: `2026-02-22T03:18:15+00:00`
 - etag: `"2e823a4d73d8715326d20a2fdbf8fb37"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error [Errno -3] Temporary failure in name resolution>
 
 <!-- FEED_JSON -->
 ```json
@@ -11488,7 +11490,17 @@
         "moral"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-02-22T03:18:15+00:00",
+    "status": "error",
+    "checked_at": "2026-02-22T03:18:15+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
