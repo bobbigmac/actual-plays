@@ -1236,6 +1236,7 @@ def main() -> int:
             speaker_slugs=search_slugs,
             local_audio_urls=local_audio_urls,
         )
+        feed_title_by_slug = {str(f.get("slug") or ""): str(f.get("title") or "") for f in feeds if isinstance(f, dict)}
         for sp_slug, ext_eps in external_by_speaker.items():
             sp_name = next(
                 (n for n in further_search_names if slugify(n) == sp_slug),
@@ -1243,7 +1244,30 @@ def main() -> int:
             )
             if sp_slug not in speaker_name_by_slug:
                 speaker_name_by_slug[sp_slug] = sp_name
+
+            # Exclude episodes from podcasts we *know* the speaker owns (from feeds config).
+            owned_feed_slugs = [
+                slug
+                for slug, owner_slugs in (owner_slugs_by_feed or {}).items()
+                if sp_slug in (owner_slugs or set())
+            ]
+            owned_urls = {
+                str(feed_url_by_slug.get(slug) or "").strip().rstrip("/")
+                for slug in owned_feed_slugs
+                if str(feed_url_by_slug.get(slug) or "").strip()
+            }
+            owned_title_slugs = {
+                slugify(feed_title_by_slug.get(slug) or "")
+                for slug in owned_feed_slugs
+                if (feed_title_by_slug.get(slug) or "").strip()
+            }
+
             for ext_ep in ext_eps:
+                src_rss = str(ext_ep.get("source_rss_url") or "").strip().rstrip("/")
+                if src_rss and src_rss in owned_urls:
+                    continue
+                if slugify(str(ext_ep.get("feed_title") or "")) in owned_title_slugs:
+                    continue
                 feed_slug = str(ext_ep.get("feed_slug") or "external")
                 ep_key = str(ext_ep.get("episode_key") or "")
                 episode_id = f"{feed_slug}:{ep_key}"

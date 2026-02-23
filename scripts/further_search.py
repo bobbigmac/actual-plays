@@ -22,6 +22,13 @@ _DEFAULT_BATCH_SIZE = 10
 _MAX_EPISODES_PER_SPEAKER = 80
 
 
+def _norm_url(value: str | None) -> str:
+    s = str(value or "").strip()
+    if not s:
+        return ""
+    return s.rstrip("/")
+
+
 def _load_state(cache_dir: Path) -> dict[str, Any]:
     path = cache_dir / _STATE_FILENAME
     if not path.exists():
@@ -97,6 +104,8 @@ def _external_to_ep_entry(ep: dict[str, Any]) -> dict[str, Any]:
     return {
         "feed_slug": feed_slug,
         "feed_title": str(ep.get("podcastTitle") or "").strip() or "Unknown",
+        # Used to filter out episodes from feeds we already subscribe to.
+        "source_rss_url": _norm_url(ep.get("rssFeedUrl")),
         "episode_key": key[:64],
         "title": str(ep.get("title") or "").strip(),
         "published_at": ep.get("publishedAt"),
@@ -115,9 +124,11 @@ def _external_to_ep_entry(ep: dict[str, Any]) -> dict[str, Any]:
 
 
 def _dedupe_eps(
-    eps: list[dict[str, Any]], *, local_audio_urls: set[str]
+    eps: list[dict[str, Any]],
+    *,
+    local_audio_urls: set[str],
 ) -> list[dict[str, Any]]:
-    """Dedupe external episodes, excluding any with audio_url already in local feeds."""
+    """Dedupe external episodes; exclude local-audio duplicates."""
     out: list[dict[str, Any]] = []
     seen_keys: set[str] = set()
     for e in eps:
@@ -262,7 +273,10 @@ def get_external_episodes_for_speakers(
     out: dict[str, list[dict[str, Any]]] = {}
     for sp_slug in speaker_slugs:
         eps = by_speaker.get(sp_slug) or []
-        deduped = _dedupe_eps(eps, local_audio_urls=local_audio_urls)
+        deduped = _dedupe_eps(
+            eps,
+            local_audio_urls=local_audio_urls,
+        )
         if deduped:
             out[sp_slug] = deduped
     return out
