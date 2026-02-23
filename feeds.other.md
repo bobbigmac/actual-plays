@@ -2,13 +2,13 @@
 - id: other
 - title: Bob's Favourite Podcasts
 - further_search: true
-- further_search_names: Richard Osman; Bob Mortimer; James Acaster; Ed Gamble; Lou Sanders; Richard Herring; Tim Key; Harry Hill; Alex Horne; Stewart Lee; Mike Wozniak; Nish Kumar; Dave Gorman
+- further_search_names: Bob Mortimer; Harriet Kemsley; James Acaster; Ed Gamble; Lou Sanders; Richard Herring; Tim Key; Sally Phillips; Harry Hill; Alex Horne; Stewart Lee; Mike Wozniak; Nish Kumar; Dave Gorman; Lee Mack; David Mitchell; Jack Dee; Richard Ayoade
 - subtitle: I like some podcasts. You might like them too.
 - description: A personal podcast index.
 - base_path: /
 - og_image: assets/bobs-faves-promo.jpg
 - footer_links: GitHub=https://github.com/bobbigmac/podcasts
-- exclude_speakers: Donald Trump, Elon Musk, Harry Potter, James Bond, Taylor Swift, Tony Blair, Albert Hall, David Cameron, Liz Truss, Joe Biden, Ted Lasso, King Charles, Keir Starmer, Gordon Brown, Boris Johnson, Nigel Farage, Rupert Murdoch, Matt Hancock, Rishi Sunak
+- exclude_speakers: Donald Trump, Elon Musk, Harry Potter, James Bond, Taylor Swift, Tony Blair, Albert Hall, David Cameron, Liz Truss, Joe Biden, Ted Lasso, King Charles, Keir Starmer, Gordon Brown, Boris Johnson, Nigel Farage, Rupert Murdoch, Matt Hancock, Rishi Sunak, Kamala Harris, Robert Jenrick, Michael Gove, Vladimir Putin
 
 # Defaults
 - max_episodes_per_feed: 2000
