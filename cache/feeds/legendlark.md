@@ -2,9 +2,9 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"12010f-fWO4u4uxJIFZM0TLV/0Vk9b61s4"`
+- fetched_at: `2026-02-23T10:13:58+00:00`
+- checked_at: `2026-02-23T10:13:58+00:00`
+- etag: `W/"12010f-aHqIcoZZZT/ofrt9ZSU6D3CatRA"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.legendlark.com/",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T10:13:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

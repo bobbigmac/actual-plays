@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Mon, 16 Feb 2026 05:15:11 GMT`
+- fetched_at: `2026-02-23T10:13:58+00:00`
+- checked_at: `2026-02-23T10:13:58+00:00`
+- last_modified: `Mon, 23 Feb 2026 10:05:57 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T10:13:58+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5c542514488f807dd0a82cda92cb9a99896022c0",
+      "title": "639. Rise, Wizards!, Episode 2",
+      "published_at": "2026-02-23T09:14:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY The wizards try too hard to ascend and the towers begin to fall. In part two of Rise, Wizards! We find out the consequences of their magical hubris on the space station and its inhabitants. SHOW NOTES Rise, Wizards! One Shot News & Updates One Shot Patreon One Shot TWITCH Follow the cast here! Dillin Apelyan Robin Ekberg Amelia Som Haley Whipjack Candace McAfee ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode False Banners, Wicked Cinema Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN8370077400.mp3?updated=1771838667",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4457",
+      "speakers": [
+        "Dillin Apelyan Robin Ekberg",
+        "James D'Amato"
+      ],
+      "topics": [
+        "rise",
+        "wizards"
+      ]
+    },
     {
       "key": "51574ce2ee81f04b9bb66395505de4ae30acb755",
       "title": "638. Rise, Wizards!, Episode 1",
@@ -66,8 +86,7 @@
         "Drakoniques Jeff",
         "Fiona Howat",
         "Big Beaz",
-        "BrieAnna Allen",
-        "James D'Amato"
+        "BrieAnna Allen"
       ],
       "topics": [
         "shot"
@@ -829,8 +848,7 @@
         "Fly Away",
         "Michael Briguglio Gladwyn",
         "Morgan Taylor Apollo",
-        "Transmuter Wee Goo",
-        "James D'Amato"
+        "Transmuter Wee Goo"
       ],
       "topics": [
         "wanderer"
@@ -1045,8 +1063,7 @@
         "Aaron Catano-Saez Jeff",
         "Cody Martin Across",
         "Cody Martin Pembrokeshire",
-        "Cody Martin Looking",
-        "James D'Amato"
+        "Cody Martin Looking"
       ],
       "topics": [
         "land",
@@ -1396,8 +1413,7 @@
         "Loving Memory",
         "Suite Du Matin",
         "Cody Martin Stolen",
-        "Salon Dijon Editing",
-        "James D'Amato"
+        "Salon Dijon Editing"
       ],
       "topics": [
         "brilliant",
@@ -1490,8 +1506,7 @@
         "Walther Escape",
         "Hawksilver Thunder",
         "Reveille Editing",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "town"
@@ -1562,8 +1577,7 @@
         "Walther Transporter",
         "Falls Pausbacken",
         "Sam Barsh Sandman",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "machine",
@@ -1639,8 +1653,7 @@
         "Sybil Candace",
         "Dowager Evangeline",
         "Sam Barsh Candy Shop",
-        "Matt Wigton Head",
-        "James D'Amato"
+        "Matt Wigton Head"
       ],
       "topics": [
         "queen",
@@ -1666,8 +1679,7 @@
         "Sybil Candace",
         "Dowager Evangeline",
         "Sam Barsh Candy Shop",
-        "Matt Wigton Head",
-        "James D'Amato"
+        "Matt Wigton Head"
       ],
       "topics": [
         "queen",
@@ -1693,8 +1705,7 @@
         "Sybil Candace",
         "Dowager Evangeline",
         "Falls Sun",
-        "Ghost Beatz Decay",
-        "James D'Amato"
+        "Ghost Beatz Decay"
       ],
       "topics": [
         "queen",
@@ -1810,8 +1821,7 @@
         "Robin Ekberg",
         "Cody Martin Grim History",
         "Floyd's Tomb",
-        "Kevin Graham",
-        "James D'Amato"
+        "Kevin Graham"
       ],
       "topics": [
         "hunter"
@@ -1836,8 +1846,7 @@
         "Robin Ekberg",
         "Moments Prowler",
         "Hill Vanished",
-        "Cody Martin Tempest",
-        "James D'Amato"
+        "Cody Martin Tempest"
       ],
       "topics": [
         "hunter"
@@ -1886,8 +1895,7 @@
         "Ender Feel My Pulse",
         "Rhythm Scott Twisted",
         "Thorr Glitter Bomb",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "bloodbeam",
@@ -1938,8 +1946,7 @@
         "Michael Briguglio Wicked Curiosities",
         "Andy Ellison Devil",
         "Wastelander Editing",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "bloodbeam",
@@ -1990,8 +1997,7 @@
         "Shimmer Tales",
         "Witch Lair",
         "Adam Saban",
-        "Third Age",
-        "James D'Amato"
+        "Third Age"
       ],
       "topics": [
         "wolf"
@@ -2016,8 +2022,7 @@
         "Colossus Lone Wolf",
         "Wicked Cinema Azul",
         "Sea Dive",
-        "Daniele Musto Editing",
-        "James D'Amato"
+        "Daniele Musto Editing"
       ],
       "topics": [
         "wolf"
@@ -2066,8 +2071,7 @@
         "Lndö Grit",
         "Kristian Leo",
         "Reveille Tick",
-        "Anne Harkey",
-        "James D'Amato"
+        "Anne Harkey"
       ],
       "topics": [
         "blues"
@@ -2092,8 +2096,7 @@
         "Andy Ellison Humid Blues",
         "Desert Drive",
         "Dario Benedetti",
-        "Trap Rap Cowboy",
-        "James D'Amato"
+        "Trap Rap Cowboy"
       ],
       "topics": [
         "blues"
@@ -2118,8 +2121,7 @@
         "Reveille My Own Road",
         "Andy Ellison Never",
         "Yung Koolade Cowboy",
-        "Dario Benedetti",
-        "James D'Amato"
+        "Dario Benedetti"
       ],
       "topics": [
         "blues"
@@ -2144,8 +2146,7 @@
         "Andy Ellison",
         "Dario Benedetti",
         "Midnight Stroll",
-        "Ian Kelosky Rooted",
-        "James D'Amato"
+        "Ian Kelosky Rooted"
       ],
       "topics": [
         "blues"
@@ -2243,8 +2244,7 @@
         "Moments Beat",
         "Cody Martin",
         "Andrew Stanton",
-        "Adam Saban Heist",
-        "James D'Amato"
+        "Adam Saban Heist"
       ],
       "topics": [
         "scene",
@@ -2270,8 +2270,7 @@
         "Avocado Junkie Liberty",
         "Pajamas Forevermore",
         "Reveille Sneaksters",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "scene",
@@ -2560,8 +2559,7 @@
         "Salon Dijon Gabe",
         "Unexpected Turn",
         "Grandpa Gus",
-        "Leech Theme Maleficus",
-        "James D'Amato"
+        "Leech Theme Maleficus"
       ],
       "topics": [
         "blades",
@@ -2684,8 +2682,7 @@
         "Ben Meredith",
         "Tim Meredith",
         "Stella Firma",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "community",
@@ -2711,8 +2708,7 @@
         "Ben Meredith",
         "Tim Meredith",
         "Stella Firma",
-        "Tracy Barnett Find",
-        "James D'Amato"
+        "Tracy Barnett Find"
       ],
       "topics": [
         "community",
@@ -2738,8 +2734,7 @@
         "Nathan Blades",
         "Aaron Willems",
         "Russell Majkowski",
-        "Twitch Bluesky Twitter",
-        "James D'Amato"
+        "Twitch Bluesky Twitter"
       ],
       "topics": [
         "beaz",
@@ -2765,8 +2760,7 @@
         "Nathan Blades",
         "Aaron Willems",
         "Russell Majkowski",
-        "Twitch Bluesky Twitter",
-        "James D'Amato"
+        "Twitch Bluesky Twitter"
       ],
       "topics": [
         "beaz",
@@ -2792,8 +2786,7 @@
         "Nathan Blades",
         "Aaron Willems",
         "Russell Majkowski",
-        "Twitch Bluesky",
-        "James D'Amato"
+        "Twitch Bluesky"
       ],
       "topics": [
         "beaz",
@@ -2819,8 +2812,7 @@
         "Nathan Blades",
         "Aaron Willems",
         "Russell Majkowski",
-        "Twitch Bluesky",
-        "James D'Amato"
+        "Twitch Bluesky"
       ],
       "topics": [
         "beaz",
@@ -2954,8 +2946,7 @@
         "James D’Amato",
         "Card Deck",
         "Kienna Shaw",
-        "Bee Zelda",
-        "James D'Amato"
+        "Bee Zelda"
       ],
       "topics": [
         "renee",
@@ -2983,8 +2974,7 @@
         "James D’Amato",
         "Card Deck",
         "Kienna Shaw",
-        "Bee Zelda",
-        "James D'Amato"
+        "Bee Zelda"
       ],
       "topics": [
         "renee",
@@ -3012,8 +3002,7 @@
         "James D’Amato",
         "Card Deck",
         "Kienna Shaw",
-        "Bee Zelda",
-        "James D'Amato"
+        "Bee Zelda"
       ],
       "topics": [
         "renee",
@@ -3041,8 +3030,7 @@
         "James D’Amato",
         "Maximillian Kienna Shaw",
         "Bee Zelda",
-        "Tracy Barnett",
-        "James D'Amato"
+        "Tracy Barnett"
       ],
       "topics": [
         "renee",
@@ -4090,8 +4078,7 @@
         "Erin Rein",
         "Susan Wexler",
         "Derrk Plifer",
-        "Alan Linic",
-        "James D'Amato"
+        "Alan Linic"
       ],
       "topics": [
         "mystery",
@@ -4849,8 +4836,7 @@
         "Puppet Strings",
         "Jupiter Alchys",
         "Scott Buckley",
-        "de l'enfant",
-        "James D'Amato"
+        "de l'enfant"
       ],
       "topics": [
         "special",
@@ -8109,8 +8095,7 @@
         "Steve Discont",
         "Jef Aldrich",
         "Jon Taylor",
-        "Aly Grauer",
-        "James D'Amato"
+        "Aly Grauer"
       ],
       "topics": [
         "shot",
@@ -11903,7 +11888,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5002",
       "speakers": [
-        "Taylor Swift",
         "James D'Amato"
       ],
       "topics": [
@@ -12895,7 +12879,6 @@
       "itunes_duration": "8149",
       "speakers": [
         "Indiana Jones",
-        "James Bond",
         "Tom Riddle",
         "James D'Amato"
       ],
@@ -13769,8 +13752,9 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — 639. Rise, Wizards!, Episode 2 — speakers: Dillin Apelyan Robin Ekberg, James D'Amato
 - 2026-02-16 — 638. Rise, Wizards!, Episode 1 — speakers: Dillin Apelyan Robin Ekberg, James D'Amato
-- 2026-02-07 — 637. One Shot 100.1 OSN — speakers: Ray Kendrick Smith, Angel Amore, Darby Pak Viditya Voleti, Elliot Davis, Drakoniques Jeff, Fiona Howat, Big Beaz, BrieAnna Allen, James D'Amato
+- 2026-02-07 — 637. One Shot 100.1 OSN — speakers: Ray Kendrick Smith, Angel Amore, Darby Pak Viditya Voleti, Elliot Davis, Drakoniques Jeff, Fiona Howat, Big Beaz, BrieAnna Allen
 - 2026-01-31 — 636. Tacklebox — speakers: Dillin Robin, James D'Amato
 - 2026-01-29 — TRAILER | Dillin's 100 Episode Special — speakers: Find Dillin, James D'Amato
 - 2026-01-24 — 635. New in Town — speakers: Edward Spence, Carrie Jacobs-Bond, James D'Amato
@@ -13805,7 +13789,7 @@
 - 2025-06-23 — 607. Campanions, Episode 2 — speakers: Adam Saban, Shimmer Editing, James D'Amato
 - 2025-06-16 — 606. Campanions, Episode 1 — speakers: Dillin Candace, Shimmer Editing, James D'Amato
 - 2025-06-09 — 605. Going Rogue, Episode 2 — speakers: Kendrick Smith, Natalie Watson, Cody Martin, Jess Levine, James D'Amato
-- 2025-06-02 — 604. The Wanderer — speakers: Orbital Blues, Cody Martin Desolation, Alex Kipp SkyWalker, Grace Mccoy Riding, Fly Away, Michael Briguglio Gladwyn, Morgan Taylor Apollo, Transmuter Wee Goo, James D'Amato
+- 2025-06-02 — 604. The Wanderer — speakers: Orbital Blues, Cody Martin Desolation, Alex Kipp SkyWalker, Grace Mccoy Riding, Fly Away, Michael Briguglio Gladwyn, Morgan Taylor Apollo, Transmuter Wee Goo
 - 2025-05-26 — 603. Going Rogue, Episode 1 — speakers: Kendrick Smith, Natalie Watson, Cody Martin, Jess Levine, James D'Amato
 - 2025-05-20 — GOING ROGUE TRAILER — speakers: Dillin Apelyan, Austin Walker, Kendrick Smith, Natalie Watson Going Rogue, Jeff Stormer, James D'Amato
 - 2025-05-19 — 602. Mad As Hell, Episode 3 — speakers: Dillin Mozz Darby Angie, Lndo Cimmeria, James D'Amato
@@ -13815,7 +13799,7 @@
 - 2025-04-21 — 598. Deify, Episode 1 — speakers: Dillin Viditya Voleti, Cody Martin Editing, James D'Amato
 - 2025-04-14 — 597. Under the Autumn Strangely, Episode 2 — speakers: Dillin Brian Flaherty, Fiona Howat, Rest Settle, James D'Amato
 - 2025-04-07 — 596. Under the Autumn Strangely, Episode 1 — speakers: Dillin Brian Flaherty, Fiona Howat, Rest Settle Left, Wastelander Veil, Cody Martin Editing, James D'Amato
-- 2025-03-31 — 595. A Land Once Magic, Episode 3 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Across, Cody Martin Pembrokeshire, Cody Martin Looking, James D'Amato
+- 2025-03-31 — 595. A Land Once Magic, Episode 3 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Across, Cody Martin Pembrokeshire, Cody Martin Looking
 - 2025-03-24 — 594. A Land Once Magic, Episode 2 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Editing, James D'Amato
 - 2025-03-17 — 593. A Land Once Magic, Episode 1 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Editing, James D'Amato
 - 2025-03-10 — 592. Wildfire Trilogy, Episode 2 — speakers: Dillin Quinn, BrieAnna Allen Bluu Smith, James D'Amato
@@ -13830,42 +13814,42 @@
 - 2025-01-06 — 583. Husband Daddy Protector Hero — speakers: Viditya Voleti, Robin Ekberg, James D'Amato
 - 2024-12-30 — 582. Our Brilliant Ruin, Episode 3 — speakers: Brilliant Ruin, Dillin Rachel, Cody Martin, Cody Martin Stolen, Dijon Storyteller, Shimmer Editing, Tracy Barnett Find, James D'Amato
 - 2024-12-16 — 581. Our Brilliant Ruin, Episode 2 — speakers: Brilliant Ruin, Dillin Rachel, Cody Martin Let, Dijon Cold Case, Yerself Editing, Tracy Barnett Find, James D'Amato
-- 2024-12-09 — 580. Our Brilliant Ruin, Episode 1 — speakers: Brilliant Ruin, Dillin Rachel, Shimmer Meadowcroft, Cody Martin, Loving Memory, Suite Du Matin, Cody Martin Stolen, Salon Dijon Editing, James D'Amato
+- 2024-12-09 — 580. Our Brilliant Ruin, Episode 1 — speakers: Brilliant Ruin, Dillin Rachel, Shimmer Meadowcroft, Cody Martin, Loving Memory, Suite Du Matin, Cody Martin Stolen, Salon Dijon Editing
 - 2024-12-02 — 579. Buncha Lil Guys! — speakers: Join Dillin, Dillin Danielle, Dan Casey, Mikey Geiger Twilight, Sam Barsh Electricity, Reveille Editing, Tracy Barnett Find, James D'Amato
 - 2024-11-18 — 578. The Time We Have, Episode 2 — speakers: Dillin Elliot, Phillip Mount Moon Shadow, Tracy Barnett Find, James D'Amato
 - 2024-11-11 — 577. The Time We Have, Episode 1 — speakers: Elliot Davis, Cameron Elliot, Tracy Barnett Find, James D'Amato
-- 2024-11-04 — 576. Paint the Town Red, Episode 3 — speakers: Dillin Sarah, Breeedo Zak, Lndö Beast Mode, Ghost Beatz El Movimiento, Walther Escape, Hawksilver Thunder, Reveille Editing, Tracy Barnett Find, James D'Amato
+- 2024-11-04 — 576. Paint the Town Red, Episode 3 — speakers: Dillin Sarah, Breeedo Zak, Lndö Beast Mode, Ghost Beatz El Movimiento, Walther Escape, Hawksilver Thunder, Reveille Editing, Tracy Barnett Find
 - 2024-10-28 — 575. Paint the Town Red, Episode 2 — speakers: Dillin Sarah, Breeedo Zak, Cinema Architecht, Sam Barsh, Tracy Barnett Find, James D'Amato
 - 2024-10-21 — 574. Paint the Town Red, Episode 1 — speakers: Dillin Sarah, Breeedo Zak, Rampart CJ-O Beast Mode, Ghosts Architecht, Tracy Barnett Find, James D'Amato
-- 2024-10-14 — 573. Machine Impossible, Episode 3 — speakers: Machine Impossible, James D’Amato, Dillin Jacob Mooney, Mikey Geiger, Walther Transporter, Falls Pausbacken, Sam Barsh Sandman, Tracy Barnett Find, James D'Amato
+- 2024-10-14 — 573. Machine Impossible, Episode 3 — speakers: Machine Impossible, James D’Amato, Dillin Jacob Mooney, Mikey Geiger, Walther Transporter, Falls Pausbacken, Sam Barsh Sandman, Tracy Barnett Find
 - 2024-10-07 — 572. Machine Impossible, Episode 2 — speakers: Machine Impossible, Jacob Mooney, Dillin Jacob Mooney, Mikey Geiger Cheap Sakte, Lndö So Dangerous, Tracy Barnett Find, James D'Amato
 - 2024-09-30 — 571. Machine Impossible, Episode 1 — speakers: Machine Impossible, Jacob Mooney, Impossible Wair, Dillin Jacob Mooney, Mikey Geiger, Tracy Barnett Find, James D'Amato
-- 2024-09-23 — 570. For the Queen 2nd Edition, Episode 3 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Breeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head, James D'Amato
-- 2024-09-16 — 569. For the Queen 2nd Edition, Episode 2 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head, James D'Amato
-- 2024-09-09 — 568. For the Queen 2nd Edition, Episode 1 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Falls Sun, Ghost Beatz Decay, James D'Amato
+- 2024-09-23 — 570. For the Queen 2nd Edition, Episode 3 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Breeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head
+- 2024-09-16 — 569. For the Queen 2nd Edition, Episode 2 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head
+- 2024-09-09 — 568. For the Queen 2nd Edition, Episode 1 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Falls Sun, Ghost Beatz Decay
 - 2024-08-26 — 567. GODKILLER, Episode 4 — speakers: Connie Chang, Dillin Apelyan, Cody Martin Al'Athir, Stephen Keech Editing, Tracy Barnett Find, James D'Amato
 - 2024-08-19 — 566. GODKILLER, Episode 3 — speakers: Dillin Apelyan, Connie Chang, Cody Martin Mainframe, Shimmer Persona, Tracy Barnett Find, James D'Amato
 - 2024-08-12 — 565. GODKILLER, Episode 2 — speakers: Dillin Apelyan, Connie Chang, Cody Martin Mists, Stephen Keech Stars Align, Tracy Barnett Find, James D'Amato
 - 2024-08-05 — 564. GODKILLER, Episode 1 — speakers: Dillin Apelyan, Reveille Al'Athir, Tracy Barnett Find, James D'Amato
-- 2024-07-29 — 563. Hunter/ed, Episode 3 — speakers: Dillin Apeylan, Kickstarter Help, Gen Con, Dillin Apelyan, Robin Ekberg, Cody Martin Grim History, Floyd's Tomb, Kevin Graham, James D'Amato
-- 2024-07-22 — 562. Hunter/ed, Episode 2 — speakers: Dillin Apeylan, Kickstarter Flame, Tracy’s Family, Dillin Apelyan, Robin Ekberg, Moments Prowler, Hill Vanished, Cody Martin Tempest, James D'Amato
+- 2024-07-29 — 563. Hunter/ed, Episode 3 — speakers: Dillin Apeylan, Kickstarter Help, Gen Con, Dillin Apelyan, Robin Ekberg, Cody Martin Grim History, Floyd's Tomb, Kevin Graham
+- 2024-07-22 — 562. Hunter/ed, Episode 2 — speakers: Dillin Apeylan, Kickstarter Flame, Tracy’s Family, Dillin Apelyan, Robin Ekberg, Moments Prowler, Hill Vanished, Cody Martin Tempest
 - 2024-07-15 — 561. Hunter/ed, Episode 1 — speakers: Dillin Apeylan, Tracy’s Family, Dillin Apelyan, Robin Ekberg, Cody Martin Lord, Tracy Barnett Find, James D'Amato
-- 2024-07-08 — 560. Bloodbeam Badlands, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Ender Feel My Pulse, Rhythm Scott Twisted, Thorr Glitter Bomb, Tracy Barnett Find, James D'Amato
+- 2024-07-08 — 560. Bloodbeam Badlands, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Ender Feel My Pulse, Rhythm Scott Twisted, Thorr Glitter Bomb, Tracy Barnett Find
 - 2024-07-01 — 559. Bloodbeam Badlands, Episode 2 — speakers: Tracy’s Family, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Michael Briguglio, Tracy Barnett Find, James D'Amato
-- 2024-06-24 — 558. Bloodbeam Badlands, Episode 1 — speakers: Dorkspawn Save, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Michael Briguglio Wicked Curiosities, Andy Ellison Devil, Wastelander Editing, Tracy Barnett Find, James D'Amato
+- 2024-06-24 — 558. Bloodbeam Badlands, Episode 1 — speakers: Dorkspawn Save, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Michael Briguglio Wicked Curiosities, Andy Ellison Devil, Wastelander Editing, Tracy Barnett Find
 - 2024-06-17 — 557. Little Wolves, Episode 4 — speakers: Little Wolves, Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Druid Falls Raintree, Cinema Lone Wolf, Tracy Barnett Find, James D'Amato
-- 2024-06-10 — 556. Little Wolves, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Ever After, Shimmer Tales, Witch Lair, Adam Saban, Third Age, James D'Amato
-- 2024-06-03 — 555. Little Wolves, Episode 2 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Third Age Aurora, Colossus Lone Wolf, Wicked Cinema Azul, Sea Dive, Daniele Musto Editing, James D'Amato
+- 2024-06-10 — 556. Little Wolves, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Ever After, Shimmer Tales, Witch Lair, Adam Saban, Third Age
+- 2024-06-03 — 555. Little Wolves, Episode 2 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Third Age Aurora, Colossus Lone Wolf, Wicked Cinema Azul, Sea Dive, Daniele Musto Editing
 - 2024-05-27 — 554. Little Wolves, Episode 1 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Druid Falls, Avocado Junkie Pain, Tracy Barnett Find, James D'Amato
-- 2024-05-20 — 553. Orbital Blues, Episode 4 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Dario Benedetti Rooted, Lndö Grit, Kristian Leo, Reveille Tick, Anne Harkey, James D'Amato
-- 2024-05-13 — 552. Orbital Blues, Episode 3 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Tic Tac Man, Andy Ellison Humid Blues, Desert Drive, Dario Benedetti, Trap Rap Cowboy, James D'Amato
-- 2024-05-06 — 551. Orbital Blues, Episode 2 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Wabash Campfire, Reveille My Own Road, Andy Ellison Never, Yung Koolade Cowboy, Dario Benedetti, James D'Amato
-- 2024-04-29 — 550. Orbital Blues, Episode 1 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Iron Skillet, Andy Ellison, Dario Benedetti, Midnight Stroll, Ian Kelosky Rooted, James D'Amato
+- 2024-05-20 — 553. Orbital Blues, Episode 4 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Dario Benedetti Rooted, Lndö Grit, Kristian Leo, Reveille Tick, Anne Harkey
+- 2024-05-13 — 552. Orbital Blues, Episode 3 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Tic Tac Man, Andy Ellison Humid Blues, Desert Drive, Dario Benedetti, Trap Rap Cowboy
+- 2024-05-06 — 551. Orbital Blues, Episode 2 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Wabash Campfire, Reveille My Own Road, Andy Ellison Never, Yung Koolade Cowboy, Dario Benedetti
+- 2024-04-29 — 550. Orbital Blues, Episode 1 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Iron Skillet, Andy Ellison, Dario Benedetti, Midnight Stroll, Ian Kelosky Rooted
 - 2024-04-22 — 549. EPIC Mundane, Episode 3 — speakers: Ryan Khan Orbital Blues, Blackstar Pre-Order, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Ghost Beatz Lndo, Tracy Barnett Find, James D'Amato
 - 2024-04-15 — 548. EPIC Mundane, Episode 2 — speakers: Ryan Khan Pre-Order, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Cody Martin Full Strength, Rhythm Scott Editing, Tracy Barnett Find, James D'Amato
 - 2024-04-08 — 547. EPIC Mundane, Episode 1 — speakers: Blues Blackstar, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Tracy Barnett Find, James D'Amato
-- 2024-04-01 — 546. Scene Thieves, Episode 3 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Matt Wigton, Brunch Hudson Hawk, Moments Beat, Cody Martin, Andrew Stanton, Adam Saban Heist, James D'Amato
-- 2024-03-25 — 545. Scene Thieves, Episode 2 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Sam Barsh, Delight Thunder City, Avocado Junkie Liberty, Pajamas Forevermore, Reveille Sneaksters, Tracy Barnett Find, James D'Amato
+- 2024-04-01 — 546. Scene Thieves, Episode 3 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Matt Wigton, Brunch Hudson Hawk, Moments Beat, Cody Martin, Andrew Stanton, Adam Saban Heist
+- 2024-03-25 — 545. Scene Thieves, Episode 2 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Sam Barsh, Delight Thunder City, Avocado Junkie Liberty, Pajamas Forevermore, Reveille Sneaksters, Tracy Barnett Find
 - 2024-03-18 — 544. Scene Thieves, Episode 1 — speakers: Dillin Apelyan Robin Ekberg, Tracy Barnett Find, James D'Amato
 - 2024-03-11 — 543. DAWN, Episode 3 — speakers: Tracy Barnett Find, James D'Amato
 - 2024-03-04 — 542. DAWN, Episode 2 — speakers: Lunareh Honor, Tracy Barnett Find, James D'Amato
@@ -13878,25 +13862,25 @@
 - 2024-01-22 — 536. Star Crossed Solo, Episode 5 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
 - 2024-01-15 — 535. Star Crossed Solo, Episode 4 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
 - 2024-01-08 — 534. Star Crossed Solo, Episode 3 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2024-01-01 — 533. J's Blades in the Dark, Episode 3 — speakers: John Harper’s Blades, James D’Amato, Cody Martin Main, Theme Harboring, Salon Dijon Gabe, Unexpected Turn, Grandpa Gus, Leech Theme Maleficus, James D'Amato
+- 2024-01-01 — 533. J's Blades in the Dark, Episode 3 — speakers: John Harper’s Blades, James D’Amato, Cody Martin Main, Theme Harboring, Salon Dijon Gabe, Unexpected Turn, Grandpa Gus, Leech Theme Maleficus
 - 2023-12-18 — 533. J's Blades in the Dark, Episode 2 — speakers: John Harper’s Blades, James D’Amato, Cody Martin, Tracy Barnett, Tracy Barnett Find, James D'Amato
 - 2023-12-11 — 532. J's Blades in the Dark, Episode 1 — speakers: John Harper’s Blades, James D’Amato, Big Beaz, Cody Martin, Tracy Barnett, Tracy Barnett Find, James D'Amato
 - 2023-12-04 — 531. Star Crossed Solo, Episode 2 — speakers: Big Beaz, James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
 - 2023-11-27 — 530. Star Crossed Solo, Episode 1 — speakers: Big Beaz, James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2023-11-13 — 529. Community Radio, Episode 2 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find, James D'Amato
-- 2023-11-06 — 528. Community Radio, Episode 1 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find, James D'Amato
-- 2023-10-30 — 527. Big Beaz's Gunfucks, Episode 4 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter, James D'Amato
-- 2023-10-23 — 526. Big Beaz's Gunfucks, Episode 3 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter, James D'Amato
-- 2023-10-16 — 525. Big Beaz's Gunfucks, Episode 2 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky, James D'Amato
-- 2023-10-09 — 524. Big Beaz's Gunfucks, Episode 1 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky, James D'Amato
+- 2023-11-13 — 529. Community Radio, Episode 2 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find
+- 2023-11-06 — 528. Community Radio, Episode 1 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find
+- 2023-10-30 — 527. Big Beaz's Gunfucks, Episode 4 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter
+- 2023-10-23 — 526. Big Beaz's Gunfucks, Episode 3 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter
+- 2023-10-16 — 525. Big Beaz's Gunfucks, Episode 2 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky
+- 2023-10-09 — 524. Big Beaz's Gunfucks, Episode 1 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky
 - 2023-10-02 — 523. Noir's Urban Shadows, Episode 4 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
 - 2023-09-25 — 522. Noir's Urban Shadows, Episode 3 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
 - 2023-09-18 — 521. Noir's Urban Shadows, Episode 2 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett Learn, James D'Amato
 - 2023-09-11 — 520. Noir's Urban Shadows, Episode 1 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
-- 2023-08-28 — 519. Renee Rhodes' Animon Story, Episode Four — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda, James D'Amato
-- 2023-08-21 — 518. Renee Rhodes' Animon Story, Episode Three — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda, James D'Amato
-- 2023-08-14 — 517. Renee Rhodes' Animon Story, Episode Two — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda, James D'Amato
-- 2023-08-07 — 516. Renee Rhodes' Animon Story, Episode One — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Maximillian Kienna Shaw, Bee Zelda, Tracy Barnett, James D'Amato
+- 2023-08-28 — 519. Renee Rhodes' Animon Story, Episode Four — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
+- 2023-08-21 — 518. Renee Rhodes' Animon Story, Episode Three — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
+- 2023-08-14 — 517. Renee Rhodes' Animon Story, Episode Two — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
+- 2023-08-07 — 516. Renee Rhodes' Animon Story, Episode One — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Maximillian Kienna Shaw, Bee Zelda, Tracy Barnett
 - 2023-07-31 — 515. Superdillin's Critters & Concrete, Episode Three — speakers: James D'Amato
 - 2023-07-24 — 514. Superdillin's Critters & Concrete, Episode Two — speakers: James D'Amato
 - 2023-07-17 — 513. Superdillin's Critters & Concrete, Episode One — speakers: CA Gencon, James D'Amato
@@ -13949,7 +13933,7 @@
 - 2022-08-23 — 469. Avatar, Ep 2 — speakers: James D'Amato
 - 2022-08-15 — 468. Avatar, Ep 1 — speakers: Bee Zelda, James D'Amato
 - 2022-08-08 — 467. Havok Brigade, Ep 4 — speakers: James D'Amato
-- 2022-08-01 — BONUS: Mystery County Monster Hunter Club S3E1 — speakers: Shamanda Felt, Adam Miller, Jeff Murdoch jmurdoink, Krashlee Grenadine, Erin Rein, Susan Wexler, Derrk Plifer, Alan Linic, James D'Amato
+- 2022-08-01 — BONUS: Mystery County Monster Hunter Club S3E1 — speakers: Shamanda Felt, Adam Miller, Jeff Murdoch jmurdoink, Krashlee Grenadine, Erin Rein, Susan Wexler, Derrk Plifer, Alan Linic
 - 2022-07-25 — 466. Havok Brigade, Ep 3 — speakers: James D'Amato
 - 2022-07-18 — 465. Havok Brigade, Ep 2 — speakers: James D'Amato
 - 2022-07-11 — 464. Havok Brigade, Ep 1 — speakers: NaturallyOrla VJ Harris, Expanded Genres Edition, James D'Amato
@@ -13988,7 +13972,7 @@
 - 2021-11-01 — 431. Babes in the Woods Part 3 — speakers: James D'Amato
 - 2021-10-25 — 430. Babes in the Woods Part 2 — speakers: James D'Amato
 - 2021-10-18 — 429. Babes in the Woods Part 1 — speakers: James D'Amato
-- 2021-10-14 — Special Feature: Iron Edda Reforged - Puppet Strings — speakers: Tracy Barnett, Alex Flanigan, Bee Zelda, Jeff Stormer, Puppet Strings, Jupiter Alchys, Scott Buckley, de l'enfant, James D'Amato
+- 2021-10-14 — Special Feature: Iron Edda Reforged - Puppet Strings — speakers: Tracy Barnett, Alex Flanigan, Bee Zelda, Jeff Stormer, Puppet Strings, Jupiter Alchys, Scott Buckley, de l'enfant
 - 2021-10-11 — 428. Wanderhome Part 3 — speakers: Kickstarter Preview Feed, James D'Amato
 - 2021-10-05 — 427. Wanderhome Part 2 — speakers: Kickstarter Preview Feed, James D'Amato
 - 2021-09-27 — 426. Wanderhome Part 1 — speakers: Adira Slattery, Brennan Lee Mulligan, Charu Patel, James D'Amato
@@ -14154,7 +14138,7 @@
 - 2018-09-03 — 269. Scherzando! Part 2 — speakers: Rat King, James D'Amato
 - 2018-08-27 — 268. Scherzando! Part 1 — speakers: James D'Amato
 - 2018-08-20 — 267. Domina Magica Part 2 — speakers: James D'Amato
-- 2018-08-14 — BONUS: One Shot Network GenCon Panel 2018 — speakers: Jim McClure, Meghan Dornbrock, Daniel Kwan, Amelia Antrim, Steve Discont, Jef Aldrich, Jon Taylor, Aly Grauer, James D'Amato
+- 2018-08-14 — BONUS: One Shot Network GenCon Panel 2018 — speakers: Jim McClure, Meghan Dornbrock, Daniel Kwan, Amelia Antrim, Steve Discont, Jef Aldrich, Jon Taylor, Aly Grauer
 - 2018-08-13 — 266. Domina Magica Part 1 — speakers: James D'Amato
 - 2018-08-06 — 265. Zombie World Part 3 — speakers: James D'Amato
 - 2018-07-30 — 264. Zombie World Part 2 — speakers: James D'Amato
@@ -14348,7 +14332,7 @@
 - 2015-03-30 — 89. Headspace Part 2 — speakers: Tim Horton, James D'Amato
 - 2015-03-23 — 88. Headspace — speakers: James D'Amato
 - 2015-03-16 — 87. Chainmail Bikini — speakers: Chainmail Bikini, Duke Dukington, James D'Amato
-- 2015-03-09 — 86. WITCH Part 2 — speakers: Taylor Swift, James D'Amato
+- 2015-03-09 — 86. WITCH Part 2 — speakers: James D'Amato
 - 2015-03-02 — 85. WITCH — speakers: Three Brooklyn, James D'Amato
 - 2015-02-15 — 83. Monsterhearts — speakers: Monsterhearts Last, Rode Island, James D'Amato
 - 2015-02-09 — 82. Cosmic Patrol — speakers: Space Democracy, Space Capitalism, James D'Amato
@@ -14397,7 +14381,7 @@
 - 2014-05-12 — 43. Gangland — speakers: Alex Manich, Maggie Dempsey, Kevin Budnik, James D'Amato
 - 2014-05-05 — 42. Lasers and Feelings Part 2 — speakers: Sheniqua Andromeda, James Ambros Iii, James D'Amato
 - 2014-04-28 — 41. Lasers and Feelings Part 1 — speakers: James D'Amato
-- 2014-04-25 — 40. Call Of Cthulhu Pulp Heroes Part 2 — speakers: Indiana Jones, James Bond, Tom Riddle, James D'Amato
+- 2014-04-25 — 40. Call Of Cthulhu Pulp Heroes Part 2 — speakers: Indiana Jones, Tom Riddle, James D'Amato
 - 2014-04-21 — 39. Pulp Cthulhu Part 1 — speakers: James D'Amato
 - 2014-04-17 — 38. Flight of the Robins Part 2 — speakers: Mad Hatter, James D'Amato
 - 2014-04-14 — 37. Flight of the Robins Part 1 — speakers: James D'Amato
