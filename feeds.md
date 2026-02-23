@@ -335,3 +335,9 @@
 - title_override: Pottering with Tom Allen
 - owners: Tom Allen
 - categories: comedy/british, interviews, hobbies/gardening
+
+## good-one
+- url: https://feeds.megaphone.fm/VMP8521265258
+- title_override: Good One (Vulture)
+- owners: Jesse David Fox
+- categories: comedy, interviews, craft/writing
