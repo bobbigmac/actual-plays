@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Mon, 09 Feb 2026 05:01:00 GMT`
+- fetched_at: `2026-02-23T03:21:34+00:00`
+- checked_at: `2026-02-23T03:21:34+00:00`
+- last_modified: `Sun, 22 Feb 2026 22:52:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T03:21:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b3c69c6d4eed74f207356d035d8907eaba73f721",
+      "title": "Vael Delay - SO SORRY!",
+      "published_at": "2026-02-22T21:50:00+00:00",
+      "link": null,
+      "description": "Hey folks, this is just a quick announcement to say that there has been a delay to Vael. I know this has happened already this season, and this isn't the standard I would normally hold the show to, but I am trying to navigate a lot of competing priorities right now and don't want to burn myself out, so really appreciate everyone's patience. We are also making some changes behind the scenes to elevate some of the pressure so we don't find ourselves in this situation again. We're bringing on our longstanding voice editor Olie to do some sound design for us to support me with those efforts. The next episode of Vael should be with you this week. I will publish it as soon as it is ready! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP9516559454.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "239",
+      "speakers": [
+        "Vael Delay SO"
+      ],
+      "topics": [
+        "vael",
+        "delay",
+        "sorry"
+      ]
+    },
     {
       "key": "ce546c551e752532eaf7d78a68deb1319ab6eb79",
       "title": "Vael | Investigation in Imperium",
@@ -3370,6 +3390,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-22 — Vael Delay - SO SORRY! — speakers: Vael Delay SO
 - 2026-02-09 — Vael | Investigation in Imperium — speakers: Age Content Warnings, Fantasy Threat
 - 2026-01-26 — Vael | Bureaucracy in Imperium — speakers: Searle Zongroff, Fantasy Threat
 - 2026-01-05 — Vael | Showdown on the Seawall — speakers: Fantasy Threat
