@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-02-23T07:33:38+00:00`
-- checked_at: `2026-02-23T07:33:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 05:00:00 GMT`
+- fetched_at: `2026-02-23T19:34:35+00:00`
+- checked_at: `2026-02-23T19:34:35+00:00`
+- last_modified: `Mon, 23 Feb 2026 18:42:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T07:33:38+00:00",
+  "fetched_at": "2026-02-23T19:34:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "d20c02a6468dfc50c4d09229d7ea3287cdb5a29b",
+      "title": "GCN News Minute February 23, 2026",
+      "published_at": "2026-02-23T18:30:00+00:00",
+      "link": null,
+      "description": "Troy is in high spirits this week as he brings you a TON of news about Call of Cthulhu Live!, upcoming GCN Gauntlets, and a special guest on this week's episode of The Glass Cannon Podcast. Access ad-free episodes, exclusive podcasts, and more at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ , Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3979f34c-10e1-11f1-9222-378d84198836/image/21e083c82522bf323f3364beb8236dac.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2450537994.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "377",
+      "speakers": [
+        "News Minute February"
+      ],
+      "topics": [
+        "news",
+        "minute",
+        "february"
+      ]
+    },
     {
       "key": "be50e837b0c96dfac8b184b9f7b10973398f255b",
       "title": "Burning Mammoths | Blood of the Wild S1 E10 | Pathfinder 2E Quest for the Frozen Flame",
@@ -52,7 +72,7 @@
     },
     {
       "key": "bea1a9b0c48b0bf6443eaeaea516dbe2a2af45a4",
-      "title": "Carousing Suspicion | Shadowdark RPG Episode 15 | The Glass Cannon Podcast",
+      "title": "Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG",
       "published_at": "2026-02-20T05:00:00+00:00",
       "link": null,
       "description": "A chilly reception awaits the heroes upon returning to Marin's Hold. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/fqN_K95yFng Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Get Aoethera at ⁠⁠⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠⁠⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -62,21 +82,21 @@
       "enclosure_length": "0",
       "itunes_duration": "5324",
       "speakers": [
+        "Shadowdark Rpg",
         "Foundry Vtt",
         "Norse Foundry",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Matt Brodie Producer"
       ],
       "topics": [
         "suspicion",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -125,7 +145,7 @@
     },
     {
       "key": "84ec1e64dfd18f0f227e6455f4e53525250107cc",
-      "title": "Bigger Fish to Fry | Shadowdark RPG Episode 14 | The Glass Cannon Podcast",
+      "title": "Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG",
       "published_at": "2026-02-13T05:00:00+00:00",
       "link": null,
       "description": "A troll guards the shoreline, and getting past it may cost more than blood. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/u5ghcdVeejc Get BONUS CONTENT every week at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -135,21 +155,21 @@
       "enclosure_length": "0",
       "itunes_duration": "6147",
       "speakers": [
+        "Shadowdark Rpg",
         "Foundry Vtt",
         "Norse Foundry",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Matt Brodie Producer"
       ],
       "topics": [
         "fish",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -199,7 +219,7 @@
     },
     {
       "key": "4b122fd3bf08c2d94c218ceb953754b4e3c65038",
-      "title": "Hold Your Breath | Shadowdark RPG Episode 13 | The Glass Cannon Podcast",
+      "title": "Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG",
       "published_at": "2026-02-06T05:00:00+00:00",
       "link": null,
       "description": "The heroes try desperately to escape a collapsing subterranean nightmare. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/X9a47j_Jo1w Get BONUS CONTENT every week at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Get Aoethera at ⁠⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -209,21 +229,21 @@
       "enclosure_length": "0",
       "itunes_duration": "5525",
       "speakers": [
+        "Shadowdark Rpg",
         "Foundry Vtt",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Michael Mooridian Art Direction"
       ],
       "topics": [
         "breath",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -272,7 +292,7 @@
     },
     {
       "key": "13ab35d2b7550fc61eb807621d6de0feaf8e457b",
-      "title": "Tread Lightly | Shadowdark RPG Episode 12 | The Glass Cannon Podcast",
+      "title": "Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG",
       "published_at": "2026-01-30T05:00:00+00:00",
       "link": null,
       "description": "While searching for the missing children, the heroes come upon the remnants of an ancient civilization. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/n1GRDax5_q0 Get BONUS CONTENT every week at ⁠⁠⁠jointhenaish.com⁠⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠⁠https://www.glasscannonnetwork.com/tour⁠⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠⁠https://foundryvtt.com/gcp⁠⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠⁠https://norsefoundry.com⁠⁠ Get Aoethera at ⁠https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming⁠ or search CritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -282,21 +302,21 @@
       "enclosure_length": "0",
       "itunes_duration": "5293",
       "speakers": [
+        "Shadowdark Rpg",
         "Foundry Vtt",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Michael Mooridian Art Direction"
       ],
       "topics": [
         "tread",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -347,7 +367,7 @@
     },
     {
       "key": "be6e9b8c186057de24bd2b167880fe61f5ab2bf8",
-      "title": "Something In the Air | Shadowdark RPG Episode 11 | The Glass Cannon Podcast",
+      "title": "Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG",
       "published_at": "2026-01-23T05:00:00+00:00",
       "link": null,
       "description": "The heroes press on beneath the river as the darkness erupts with a swarm from above. Watch the video here:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/QDW9uZKgVJY Get BONUS CONTENT every week at ⁠⁠jointhenaish.com⁠⁠ , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at ⁠⁠https://www.glasscannonnetwork.com/tour⁠ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at ⁠https://foundryvtt.com/gcp⁠ Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at ⁠https://norsefoundry.com⁠ Get Aoethera at https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming or searchCritHeads Gaming at DriveThruRPG.com Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -357,20 +377,20 @@
       "enclosure_length": "0",
       "itunes_duration": "6504",
       "speakers": [
+        "Shadowdark Rpg",
         "Foundry Vtt",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Michael Mooridian Art Direction"
       ],
       "topics": [
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -436,7 +456,7 @@
     },
     {
       "key": "fc9b79b255f53bae75ce944b67a061550d9430ab",
-      "title": "Failures at the Caves | Shadowdark RPG Episode 10 | The Glass Cannon Podcast",
+      "title": "Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG",
       "published_at": "2026-01-16T05:00:00+00:00",
       "link": null,
       "description": "The mission veers sharply as the heroes abandon their path and chase after the stolen children. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/X90NhCFolA0 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠ Foundry VTT is the official virtual tabletop of The Glass Cannon Podcast. See why gamers everywhere have made the switch at https://foundryvtt.com/gcp Norse Foundry is the official dice sponsor of The Glass Cannon Podcast. Meet your random number generating needs at https://norsefoundry.com Get BONUS CONTENT every week at jointhenaish.com , including After Dark , our exclusive Glass Cannon Podcast companion where we discuss and break down the latest episode, plus ad-free episodes, exclusive podcasts, and more. Come see us LIVE in a city near you at https://www.glasscannonnetwork.com/tour Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -446,22 +466,22 @@
       "enclosure_length": "0",
       "itunes_duration": "5780",
       "speakers": [
+        "Shadowdark Rpg",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
         "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed",
-        "Jason Charles Miller"
+        "Jason Charles Miller Performed"
       ],
       "topics": [
         "failure",
-        "caves",
-        "shadowdark",
+        "cave",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -510,7 +530,7 @@
     },
     {
       "key": "a8adc30183ac0457304d7fc847414e873bc4ac8c",
-      "title": "The Dark Remembers | Shadowdark RPG Episode 9 | The Glass Cannon Podcast",
+      "title": "The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG",
       "published_at": "2026-01-09T05:00:00+00:00",
       "link": null,
       "description": "With the children in peril, the heroes confront choices that may damn them either way. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtu.be/kajMYOrFkP4 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"newyearnewdice\" at ⁠norsefoundry.com⁠ for 15% off your order through January 11! Go to https://huckleberryRPG.com/preorder and use code \"GCP5\" for $5 off. Explore the world of Aoethera by searching for CritHeads Gaming at DriveThruRPG.com or visiting https://www.drivethrurpg.com/en/publisher/31439/critheads-gaming . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -520,22 +540,22 @@
       "enclosure_length": "0",
       "itunes_duration": "6076",
       "speakers": [
+        "Shadowdark Rpg",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
         "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed",
-        "Jason Charles Miller"
+        "Jason Charles Miller Performed"
       ],
       "topics": [
         "dark",
         "remembers",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -583,7 +603,7 @@
     },
     {
       "key": "afb1086dcc5def8d9dcee91cf1623f0bed76ced9",
-      "title": "Prison Details | Shadowdark RPG Episode 8 | The Glass Cannon Podcast",
+      "title": "Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG",
       "published_at": "2026-01-02T05:00:00+00:00",
       "link": null,
       "description": "The heroes attempt to infiltrate a camp. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/ZsBtCXcHApQ Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"newyearnewdice\" at norsefoundry.com for 15% off your New Year's order! Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -605,10 +625,10 @@
       "topics": [
         "prison",
         "details",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -751,7 +771,7 @@
     },
     {
       "key": "b440e70f4f5bc55d0125b51d12d3ac3e24be136f",
-      "title": "O Holy Knight | Shadowdark RPG Episode 7 | The Glass Cannon Podcast",
+      "title": "O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG",
       "published_at": "2025-12-19T05:00:00+00:00",
       "link": null,
       "description": "The Gloaming reveals more of its dark inhabitants as the heroes press on. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/RjMI21EN41A Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For Foundry's Ember Beta access go here: https://foundryvtt.com/ember/ . Code \"GCP20\" gets the Naish 20% off almost everything as ⁠https://norsefoundry.com⁠ . Code extended to December 20th! Go to www.huckleberryRPG.com/preorder and use code \"GCP5\" for $5 off. CritHeads is available exclusively on DriveThruRPG. Just search CritHeads Gaming at https://drivethrurpg.com . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more at ⁠⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -761,22 +781,22 @@
       "enclosure_length": "0",
       "itunes_duration": "5917",
       "speakers": [
+        "Shadowdark Rpg",
         "CritHeads Gaming",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Michael Mooridian Art Direction"
       ],
       "topics": [
         "holy",
         "knight",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -829,7 +849,7 @@
     },
     {
       "key": "ba11b235f40b20aca089c7d1145158ebdf095930",
-      "title": "The Play's the Thing | Shadowdark RPG Episode 6 | The Glass Cannon Podcast",
+      "title": "The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG",
       "published_at": "2025-12-12T05:00:00+00:00",
       "link": null,
       "description": "The heroes are thrust into the limelight and forced to perform for the goddess. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/1AYpEBa9pYs Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"GCP20\" to get 20% off almost EVERYTHING in Norse Foundry's store through December 18 at ⁠https://norsefoundry.com⁠ Visit www.huckleberryrpg.com/preorder and use code \"GCP5\" for $5 off. Visit https://hims.com/GCN for simple, online access to personalized and affordable care for hair loss. (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -839,22 +859,22 @@
       "enclosure_length": "0",
       "itunes_duration": "5825",
       "speakers": [
+        "Shadowdark Rpg",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien Cinematographer",
         "Matt Brodie Producer",
         "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed",
-        "Jason Charles Miller"
+        "Jason Charles Miller Performed"
       ],
       "topics": [
         "play",
         "thing",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -905,7 +925,7 @@
     },
     {
       "key": "a09994ad109c82d113250ce0bf886a7945aa1e8b",
-      "title": "What Visions Have I Seen | Shadowdark RPG Episode 5 | The Glass Cannon Podcast",
+      "title": "What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG",
       "published_at": "2025-12-05T05:00:00+00:00",
       "link": null,
       "description": "Desperate to try and help the children, the heroes turn to an unlikely source. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/g9rxtUgGRz8 Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Use code \"GCP20\" to get 20% off almost EVERYTHING in Norse Foundry's store through December 18 at https://norsefoundry.com CritHeads is available exclusively on DriveThruRPG. Just search CritHeads Gaming at ⁠ https://DriveThruRPG.com ⁠. Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -926,10 +946,10 @@
       ],
       "topics": [
         "vision",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -1056,7 +1076,7 @@
     },
     {
       "key": "5bc827f6223c6c8197481db3ed4650627b350df7",
-      "title": "You're the Meat | Shadowdark RPG Episode 4 | The Glass Cannon Podcast",
+      "title": "You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG",
       "published_at": "2025-11-21T05:00:00+00:00",
       "link": null,
       "description": "As the heroes pursue a lead on the missing merchant, they find themselves crossing paths with more denizens of the forest. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/lUG0_zUoo3s Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for hair loss, visit ⁠https://hims.com/GCN⁠ (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Go to www.HuckleberryRPG.com/preorder and use code: GCP5 for $5 off. CritHeads is available exclusively on Drive thru RPG, just search CritHeads Gaming at DriveThruRPG.com . Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1077,10 +1097,10 @@
       ],
       "topics": [
         "meat",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -1131,7 +1151,7 @@
     },
     {
       "key": "b935ecc9e0573a6617fb9506e9c3826c6e68b960",
-      "title": "In Touch With the Ground | Shadowdark RPG Episode 3 | The Glass Cannon Podcast",
+      "title": "In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG",
       "published_at": "2025-11-14T05:00:00+00:00",
       "link": null,
       "description": "A grisly discovery thrusts the heroes deeper into the Gloaming, where the forest awakens and the shadows grow hungry. Watch the video here: ⁠⁠⁠⁠⁠⁠https://youtu.be/gO3EleVdT4g Enter the Shadowdark at your gaming table by visiting ⁠⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for hair loss, visit https://hims.com/GCN (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠⁠http://www.jointhenaish.com⁠⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠⁠https://hubs.li/Q03cmWCk0⁠⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1153,10 +1173,10 @@
       "topics": [
         "touch",
         "ground",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -1208,7 +1228,7 @@
     },
     {
       "key": "63392a9ce8ba43609644b6cc44a00b7feea3f0cd",
-      "title": "This Is the Gloaming | Shadowdark RPG Episode 2 | The Glass Cannon Podcast",
+      "title": "This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG",
       "published_at": "2025-11-07T05:00:00+00:00",
       "link": null,
       "description": "From the safety of Marin’s Hold, Warrick, Saint, Ellison, and Faroe stride into the Gloaming. Watch the video here: ⁠⁠⁠⁠⁠https://youtu.be/HgwV-k-ACZo Enter the Shadowdark at your gaming table by visiting ⁠⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠⁠http://www.jointhenaish.com⁠⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠⁠https://hubs.li/Q03cmWCk0⁠⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1229,10 +1249,10 @@
       ],
       "topics": [
         "gloaming",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -1313,7 +1333,7 @@
     },
     {
       "key": "a0a22388f573052a889484fb4c8af14d55c2ab58",
-      "title": "Probably the Moon | Shadowdark RPG Episode 1 | The Glass Cannon Podcast",
+      "title": "Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG",
       "published_at": "2025-10-31T04:00:00+00:00",
       "link": null,
       "description": "The war has ended, but for four battle-worn souls, their fight for survival has just begun. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/6ahMxTtPcQM Enter the Shadowdark at your gaming table by visiting ⁠https://www.thearcanelibrary.com/?utm_source=glasscannon⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For simple, online access to personalized and affordable care for Hair Loss, visit https://hims.com/GCN (Individual results may vary. Based on studies of topical and oral minoxidil and finasteride. Featured products include compounded drug products, which the FDA does not approve or verify for safety, effectiveness, or quality. Prescription required. See website for full details, restrictions, and important safety information.) Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at ⁠http://www.jointhenaish.com⁠ For more podcasts and livestreams or to catch the next stop on the tour, visit ⁠https://hubs.li/Q03cmWCk0⁠ Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1334,10 +1354,10 @@
       ],
       "topics": [
         "moon",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -1410,7 +1430,7 @@
     },
     {
       "key": "7aee0c5e9aff379b775fd9cff9d5c37d0ff46438",
-      "title": "Fighter Priest Thief Wizard | Shadowdark RPG Episode 0 | The Glass Cannon Podcast",
+      "title": "Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG",
       "published_at": "2025-10-24T04:00:00+00:00",
       "link": null,
       "description": "As the Glass Cannon Podcast prepares to enter the Shadowdark for its long anticipated third campaign, Gamemaster Troy Lavallee sits down with players Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien for Session Zero. Watch the video here: ⁠⁠⁠ https://youtu.be/uo3cyqJ9nBE Enter the Shadowdark at your gaming table by visiting https://www.thearcanelibrary.com/?utm_source=glasscannon This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Executive Producer and Gamemaster: Troy Lavallee Cast: Sydney Amanuel, Matthew Capodicasa, Skid Maher and Joe O'Brien Cinematographer: Matt Brodie Producer and Editor: Francis Mrema Audio Engineer and Graphics: CJ Paschall Production Coordinator: Michael Mooridian Art Direction: Josh Fisher Intro Song: \"In the Shadowdark\" by Jason Charles Miller Performed by: Jason Charles Miller with Sydney Amanuel Access exclusive podcasts, ad-free episodes, and so much more with a 30-day free trial using code \"GCN30\" at http://www.jointhenaish.com For more podcasts and livestreams or to catch the next stop on the tour, visit https://hubs.li/Q03cmWCk0 Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1421,23 +1441,23 @@
       "itunes_duration": "8516",
       "speakers": [
         "Thief Wizard",
+        "Shadowdark Rpg",
         "Gamemaster Troy Lavallee",
         "Sydney Amanuel",
         "Matthew Capodicasa",
         "Skid Maher",
         "Joe O'Brien",
-        "cyqJ nBE",
-        "Joe O'Brien Cinematographer"
+        "cyqJ nBE"
       ],
       "topics": [
         "fighter",
         "priest",
         "thief",
         "wizard",
-        "shadowdark",
         "glass",
         "cannon",
-        "podcast"
+        "podcast",
+        "shadowdark"
       ]
     },
     {
@@ -2145,35 +2165,6 @@
       ]
     },
     {
-      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
-      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
-      "published_at": "2025-08-21T04:00:00+00:00",
-      "link": null,
-      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7873",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "mettle",
-        "honor",
-        "glass",
-        "cannon",
-        "ascension",
-        "indianapolis",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "8a4fc7c96434b0313ef49796bb75efab6cedfed6",
       "title": "Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction",
       "published_at": "2025-08-21T04:00:00+00:00",
@@ -2205,6 +2196,35 @@
         "game",
         "design",
         "crime"
+      ]
+    },
+    {
+      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
+      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
+      "published_at": "2025-08-21T04:00:00+00:00",
+      "link": null,
+      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7873",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "mettle",
+        "honor",
+        "glass",
+        "cannon",
+        "ascension",
+        "indianapolis",
+        "pathfinder"
       ]
     },
     {
@@ -2794,30 +2814,6 @@
       ]
     },
     {
-      "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
-      "title": "Gatewalkers Episode 92 – Once Bitten, Ice Shy",
-      "published_at": "2025-07-04T04:00:00+00:00",
-      "link": null,
-      "description": "The heroes begin their journey across the arctic wasteland known as the High Ice. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠ ⁠ https://youtu.be/rV6aSg1--n4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1476940641.mp3?updated=1751563411",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "6887",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "gatewalker",
-        "bitten"
-      ]
-    },
-    {
       "key": "8c5f865c8a5c10b9b029e6030d0d353f5b90873b",
       "title": "Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-07-04T04:00:00+00:00",
@@ -2843,6 +2839,30 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
+      ]
+    },
+    {
+      "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
+      "title": "Gatewalkers Episode 92 – Once Bitten, Ice Shy",
+      "published_at": "2025-07-04T04:00:00+00:00",
+      "link": null,
+      "description": "The heroes begin their journey across the arctic wasteland known as the High Ice. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠ ⁠ https://youtu.be/rV6aSg1--n4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1476940641.mp3?updated=1751563411",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6887",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "gatewalker",
+        "bitten"
       ]
     },
     {
@@ -3020,6 +3040,35 @@
       ]
     },
     {
+      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
+      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-27T04:00:00+00:00",
+      "link": null,
+      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "8102",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "hidden",
+        "lines",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "296e5799d408a34255c588eb6cc4765675df46e8",
       "title": "Gatewalkers Episode 91 – Yurty Rotten Scoundrels",
       "published_at": "2025-06-27T04:00:00+00:00",
@@ -3047,16 +3096,16 @@
       ]
     },
     {
-      "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
-      "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-27T04:00:00+00:00",
+      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
+      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-26T04:00:00+00:00",
       "link": null,
-      "description": "An attempt to break into Henson Manufacturing goes quickly awry. Watch the video here: ⁠ https://youtu.be/ja-2nOpaZVc ⁠⁠⁠ For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/f1f97042-4c5a-11f0-90c3-7374f999d197/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1873340630.mp3?updated=1750261971",
+      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8102",
+      "itunes_duration": "7758",
       "speakers": [
         "Troy Lavallee",
         "Joe O'Brien",
@@ -3066,8 +3115,8 @@
         "Kate Stamas"
       ],
       "topics": [
-        "hidden",
-        "lines",
+        "safe",
+        "house",
         "time",
         "chaos",
         "cthulhu",
@@ -3104,35 +3153,6 @@
         "zombie",
         "gaming",
         "beat"
-      ]
-    },
-    {
-      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
-      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-26T04:00:00+00:00",
-      "link": null,
-      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7758",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "safe",
-        "house",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -3221,6 +3241,30 @@
       ]
     },
     {
+      "key": "3304569d855714c241b558a2a496040cdb65ecea",
+      "title": "Gatewalkers Episode 90 – We Did Extinction",
+      "published_at": "2025-06-20T04:00:00+00:00",
+      "link": null,
+      "description": "On the second floor of the Temple of Findeladlara, the heroes meet a creature near the end stages of blackfrost affliction. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/f4n7RGErwGI This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at ⁠https://www.norsefoundry.com/collections/pride-dice-tray Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9510415058.mp3?updated=1750367488",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6000",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "gatewalker",
+        "extinction"
+      ]
+    },
+    {
       "key": "4326d6596f87844a7b4fa3f4be8aa77c0dcde2fc",
       "title": "Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-20T04:00:00+00:00",
@@ -3247,30 +3291,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "3304569d855714c241b558a2a496040cdb65ecea",
-      "title": "Gatewalkers Episode 90 – We Did Extinction",
-      "published_at": "2025-06-20T04:00:00+00:00",
-      "link": null,
-      "description": "On the second floor of the Temple of Findeladlara, the heroes meet a creature near the end stages of blackfrost affliction. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/f4n7RGErwGI This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at ⁠https://www.norsefoundry.com/collections/pride-dice-tray Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9510415058.mp3?updated=1750367488",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "6000",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "gatewalker",
-        "extinction"
       ]
     },
     {
@@ -3416,6 +3436,31 @@
       ]
     },
     {
+      "key": "cd03ae25492d5d9056286dc888993464c8dc9b42",
+      "title": "Gatewalkers Episode 89 – The Great Eggscape",
+      "published_at": "2025-06-13T04:00:00+00:00",
+      "link": null,
+      "description": "With Dr. Ritalson vanquished, the heroes come to grips with the return of their lost memories. Watch the video here: ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ https://youtu.be/9t7uEmowuiQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at https://www.norsefoundry.com/collections/pride-dice-tray Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2825406329.mp3?updated=1753968576",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7646",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "gatewalker",
+        "great",
+        "eggscape"
+      ]
+    },
+    {
       "key": "50fd46ad972252b4a8910bae3dc20434143a7ce1",
       "title": "Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-13T04:00:00+00:00",
@@ -3442,31 +3487,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "cd03ae25492d5d9056286dc888993464c8dc9b42",
-      "title": "Gatewalkers Episode 89 – The Great Eggscape",
-      "published_at": "2025-06-13T04:00:00+00:00",
-      "link": null,
-      "description": "With Dr. Ritalson vanquished, the heroes come to grips with the return of their lost memories. Watch the video here: ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ https://youtu.be/9t7uEmowuiQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at https://www.norsefoundry.com/collections/pride-dice-tray Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2825406329.mp3?updated=1753968576",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7646",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "gatewalker",
-        "great",
-        "eggscape"
       ]
     },
     {
@@ -3844,6 +3864,33 @@
       ]
     },
     {
+      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
+      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-29T04:00:00+00:00",
+      "link": null,
+      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7724",
+      "speakers": [
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "d6e8f1db3858e4e42ca083f5402b4143d750d2cf",
       "title": "Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions",
       "published_at": "2025-05-29T04:00:00+00:00",
@@ -3873,33 +3920,6 @@
         "movies",
         "time",
         "obscure"
-      ]
-    },
-    {
-      "key": "0e76cdebae6128946aeae7cb4bf195e3d0da6c1f",
-      "title": "Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-29T04:00:00+00:00",
-      "link": null,
-      "description": "New leads force the team to split up to cover more ground. Watch the video here: ⁠⁠⁠⁠ https://youtu.be/ENAiWBcKW2k For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠chaosium.com⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/19bc28aa-3684-11f0-9b63-67ad6f63fb16/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942834008.mp3?updated=1747861092",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7724",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -4273,6 +4293,37 @@
       ]
     },
     {
+      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
+      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-05-15T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9091",
+      "speakers": [
+        "Augustus Larkin",
+        "Troy Lavallee",
+        "Joe O'Brien",
+        "Skid Maher",
+        "Matthew Capodicasa",
+        "Sydney Amanuel",
+        "Kate Stamas"
+      ],
+      "topics": [
+        "devil",
+        "snake",
+        "juice",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
+      ]
+    },
+    {
       "key": "5fb065c9666cae2456ad47e43e010954c621e497",
       "title": "Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant",
       "published_at": "2025-05-15T04:00:00+00:00",
@@ -4303,37 +4354,6 @@
         "rpgs",
         "nerd",
         "rant"
-      ]
-    },
-    {
-      "key": "c0eca9ed29c0da89d273b9432f59975065e686b2",
-      "title": "The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-05-15T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators enter Augustus Larkin's hotel room unannounced. Watch the video here: ⁠ https://youtu.be/Nw4cZi9aR3M For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠chaosium.com⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/18f4ee60-2f69-11f0-a0d0-6ff7a3610494/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2259200747.mp3?updated=1747144526",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9091",
-      "speakers": [
-        "Augustus Larkin",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
-      "topics": [
-        "devil",
-        "snake",
-        "juice",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
       ]
     },
     {
@@ -6855,25 +6875,6 @@
       ]
     },
     {
-      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
-      "title": "Cannon Fodder 5/15/24",
-      "published_at": "2024-05-15T04:00:00+00:00",
-      "link": "https://youtu.be/qiur8t--8po",
-      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5597",
-      "speakers": [
-        "Recovery Check"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "2940caa2b28525919e2245d860f5a92734147429",
       "title": "Strange Aeons Episode 89 – I Wanna Dream Again",
       "published_at": "2024-05-15T04:00:00+00:00",
@@ -6897,6 +6898,25 @@
         "aeons",
         "wanna",
         "dream"
+      ]
+    },
+    {
+      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
+      "title": "Cannon Fodder 5/15/24",
+      "published_at": "2024-05-15T04:00:00+00:00",
+      "link": "https://youtu.be/qiur8t--8po",
+      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5597",
+      "speakers": [
+        "Recovery Check"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -7875,6 +7895,26 @@
       ]
     },
     {
+      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
+      "title": "Cannon Fodder 11/22/23",
+      "published_at": "2023-11-22T05:00:00+00:00",
+      "link": "https://youtu.be/UzUp2YaTMvg",
+      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Cannon Fodder",
+        "Purple Worm"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
+      ]
+    },
+    {
       "key": "f39920cf669d9a89ff5720a04eaaa0345a8186fe",
       "title": "Strange Aeons Episode 85 – Another Mun Bites the Dust",
       "published_at": "2023-11-22T05:00:00+00:00",
@@ -7899,26 +7939,6 @@
         "aeons",
         "bites",
         "dust"
-      ]
-    },
-    {
-      "key": "81062e2b72e948432300ca17639ad0e16b2b071d",
-      "title": "Cannon Fodder 11/22/23",
-      "published_at": "2023-11-22T05:00:00+00:00",
-      "link": "https://youtu.be/UzUp2YaTMvg",
-      "description": "Happy Thanksgiving, Naish! The guys discuss what they are thankful for and then get right back to business! An awesome Black Friday Sale on GCN Merch, the premiere of Faster, Purple Worm, Kill! Kill!, and of course a thorough breakdown of Campaign 2 Episode 10! In We Are Stupid...it's creature awareness, blindness, attacks of opportunity, and some spell updates from the Pathfinder Remaster. Watch the video here: https://youtu.be/UzUp2YaTMvg For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD8612751933.mp3?updated=1714157055",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3257",
-      "speakers": [
-        "Cannon Fodder",
-        "Purple Worm"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
       ]
     },
     {
@@ -17430,63 +17450,64 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — GCN News Minute February 23, 2026 — speakers: News Minute February
 - 2026-02-23 — Burning Mammoths | Blood of the Wild S1 E10 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame, Broken Tusk
-- 2026-02-20 — Carousing Suspicion | Shadowdark RPG Episode 15 | The Glass Cannon Podcast — speakers: Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2026-02-20 — Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer
 - 2026-02-16 — GCN News Minute February 16, 2026
 - 2026-02-16 — Story Time | Blood of the Wild S1 E9 | Pathfinder 2E Quest for the Frozen Flame — speakers: Story Time, Frozen Flame
-- 2026-02-13 — Bigger Fish to Fry | Shadowdark RPG Episode 14 | The Glass Cannon Podcast — speakers: Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2026-02-13 — Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer
 - 2026-02-09 — GCN News Minute February 9, 2026 — speakers: News Minute February
 - 2026-02-09 — It's Just Like Star Trek 2 | Blood of the Wild S1 E8 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-02-06 — Hold Your Breath | Shadowdark RPG Episode 13 | The Glass Cannon Podcast — speakers: Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2026-02-06 — Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
 - 2026-02-02 — GCN News Minute February 2, 2026 — speakers: News Minute February
 - 2026-02-02 — Don't Scoff at My Preen | Blood of the Wild S1 E7 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-30 — Tread Lightly | Shadowdark RPG Episode 12 | The Glass Cannon Podcast — speakers: Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2026-01-30 — Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
 - 2026-01-26 — GCN News Minute January 26, 2026 — speakers: News Minute January, News Minute
 - 2026-01-26 — Up the River Without a Paddle | Blood of the Wild S1 E6 | Pathfinder 2E Quest for the Frozen Flame — speakers: exclusive podcasts
-- 2026-01-23 — Something In the Air | Shadowdark RPG Episode 11 | The Glass Cannon Podcast — speakers: Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2026-01-23 — Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
 - 2026-01-20 — State of the Naish 2026
 - 2026-01-19 — GCN News Minute January 19, 2026 — speakers: News Minute January
 - 2026-01-19 — Tapir Tending | Blood of the Wild S1 E5 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-16 — Failures at the Caves | Shadowdark RPG Episode 10 | The Glass Cannon Podcast — speakers: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed, Jason Charles Miller
+- 2026-01-16 — Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2026-01-12 — GCN News Minutes January 12, 2026 — speakers: News Minutes January
 - 2026-01-12 — Shaggy | Blood of the Wild S1 E4 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-09 — The Dark Remembers | Shadowdark RPG Episode 9 | The Glass Cannon Podcast — speakers: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed, Jason Charles Miller
+- 2026-01-09 — The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2026-01-05 — GCN News Minutes January 5, 2026
 - 2026-01-05 — Standing Stones | Blood of the Wild S1 E3 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-02 — Prison Details | Shadowdark RPG Episode 8 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2026-01-02 — Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-12-29 — GCN News Minute December 29, 2025
 - 2025-12-29 — Meet the Mammoth Lords | Blood of the Wild S1 E2 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2025-12-25 — War Breaks Out | We Shouldn't Be Alive Session Zero | Twilight: 2000 — speakers: Ross Bryant, Skid Maher, Mary Lou, Joe O'Brien
 - 2025-12-22 — GCN News Minute December 22, 2025
 - 2025-12-22 — A-Moose Bouche | Blood of the Wild S1 E1 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
 - 2025-12-20 — The Last Thorn | Glass Cannon Live! Ascension Part 13 | Philadelphia 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-19 — O Holy Knight | Shadowdark RPG Episode 7 | The Glass Cannon Podcast — speakers: CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-12-19 — O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG — speakers: Shadowdark Rpg, CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
 - 2025-12-15 — GCN News Minute December 15, 2025
 - 2025-12-13 — The Shepherd | Glass Cannon Live! Ascension Part 12 | Philadelphia 2025 | Pathfinder 2E — speakers: Rosewood Vale, DeWV lJacRQ, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-12 — The Play's the Thing | Shadowdark RPG Episode 6 | The Glass Cannon Podcast — speakers: Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed, Jason Charles Miller
+- 2025-12-12 — The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-12-08 — GCN News Minute December 8, 2025
 - 2025-12-06 — Walkabout | Time For Chaos S3 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-05 — What Visions Have I Seen | Shadowdark RPG Episode 5 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2025-12-05 — What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG — speakers: Shadowdark Rpg, CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
 - 2025-12-01 — GCN News Minute December 1, 2025
 - 2025-11-29 — Hot Toddy | Time For Chaos S3 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bn Lrtw, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-11-27 — Spider-Noir Solves a Multiversal Whodunnit! | Marvel Multiverse RPG — speakers: Marvel Multiverse Rpg, Troy Lavallee, Skid Maher, Joe O’Brien, Matthew Capodicasa, Sydney Amanuel, Nick Lowe
 - 2025-11-24 — GCN News Minute November 24, 2025
 - 2025-11-22 — And Men Plunder | Time For Chaos S3 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-21 — You're the Meat | Shadowdark RPG Episode 4 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-11-21 — You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-11-17 — GCN News Minute November 17, 2025
 - 2025-11-15 — Where Women Glow | Time For Chaos S3 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-14 — In Touch With the Ground | Shadowdark RPG Episode 3 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-11-14 — In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-11-10 — GCN News Minute November 10, 2025
 - 2025-11-08 — Mysterious Team | Time For Chaos S3 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-07 — This Is the Gloaming | Shadowdark RPG Episode 2 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-11-07 — This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-11-06 — From Dusk to Dawnblade | Glass Cannon Live! Ascension Part 11 | Nashville 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-11-03 — GCN News Minute November 3, 2025
 - 2025-11-01 — Prometheus Bound | Time For Chaos S3 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Prometheus Bound, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-31 — Probably the Moon | Shadowdark RPG Episode 1 | The Glass Cannon Podcast — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-10-31 — Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
 - 2025-10-29 — Shadowdark Campaign Official Trailer | The Glass Cannon Podcast
 - 2025-10-27 — GCN News Minute October 27, 2025
 - 2025-10-25 — Viper's Nest | Time For Chaos S3 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-24 — Fighter Priest Thief Wizard | Shadowdark RPG Episode 0 | The Glass Cannon Podcast — speakers: Thief Wizard, Gamemaster Troy Lavallee, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien, cyqJ nBE, Joe O'Brien Cinematographer
+- 2025-10-24 — Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG — speakers: Thief Wizard, Shadowdark Rpg, Gamemaster Troy Lavallee, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien, cyqJ nBE
 - 2025-10-20 — GCN News Minute October 20, 2025
 - 2025-10-18 — The World Below the Brine | Time For Chaos S3 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-10-17 — The GCN Gauntlet – Ghost Mortem — speakers: Gim Faldhur, Joe O'Brien, Skid Maher, Matthew Capodicasa, Kate Stamas, Jared Logan, Troy Lavallee, Sydney Amanuel
@@ -17513,8 +17534,8 @@
 - 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-22 — Gatewalkers Episode 99 – HR Buffs N' Stuff — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-15 — Gatewalkers Episode 98 – The Fissure Queen — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou, Chris McDowall, Mythic Bastionland, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
@@ -17536,30 +17557,30 @@
 - 2025-07-11 — Gatewalkers Episode 93 – Owl's Moving Castle — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn, Skid Maher, James Gunn Superhero, Troy Lavallee, Joe O'Brien, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-04 — Gatewalkers Episode 92 – Once Bitten, Ice Shy — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-07-04 — Gatewalkers Episode 92 – Once Bitten, Ice Shy — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-06-27 — Gatewalkers Episode 91 – Yurty Rotten Scoundrels — speakers: Yurty Rotten Scoundrels, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-06-27 — Gatewalkers Episode 91 – Yurty Rotten Scoundrels — speakers: Yurty Rotten Scoundrels, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Plum Castle, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-20 — Gatewalkers Episode 90 – We Did Extinction — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-13 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-13 — Gatewalkers Episode 89 – The Great Eggscape — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-06-13 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-12 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
@@ -17573,8 +17594,8 @@
 - 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-30 — Gatewalkers 87 – Inveigle with Lox — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: nNSrj CgqA, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
@@ -17588,8 +17609,8 @@
 - 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-16 — Gatewalkers Episode 85 – Loosey Balls — speakers: Loosey Balls, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
 - 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
 - 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2025-05-13 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
 - 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerkovich, Troy Lavallee, Joe O'Brien, Skid Maher
@@ -17702,8 +17723,8 @@
 - 2024-05-24 — Gatewalkers Episode 36 – Missing Moments — speakers: Foundry Vtt
 - 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2024-05-17 — Gatewalkers Episode 35 – Come Snail Away — speakers: Foundry Vtt
-- 2024-05-15 — Cannon Fodder 5/15/24 — speakers: Recovery Check
 - 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2024-05-15 — Cannon Fodder 5/15/24 — speakers: Recovery Check
 - 2024-05-10 — Gatewalkers Episode 34 – You've Got Snail — speakers: Foundry Vtt
 - 2024-05-08 — Cannon Fodder 5/8/24 — speakers: Cannon Fodder, Gen Con, Joe kick
 - 2024-05-03 — Gatewalkers Episode 33 – Hungry Dart — speakers: Foundry Vtt
@@ -17752,8 +17773,8 @@
 - 2023-12-06 — Cannon Fodder 12/6/23 — speakers: Cannon Fodder
 - 2023-12-01 — Gatewalkers Episode 11 – Shoots and Ladder — speakers: Foundry Vtt
 - 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder, Purple Worm
+- 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
 - 2023-11-17 — Gatewalkers Episode 10 – Dancers in the Dark — speakers: Foundry Vtt
 - 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder, Listener Mail
 - 2023-11-10 — Gatewalkers Episode 9 – Bachman-Turner Overshirt — speakers: Foundry Vtt

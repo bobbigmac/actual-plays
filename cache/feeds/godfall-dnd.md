@@ -2,9 +2,9 @@
 
 - slug: `godfall-dnd`
 - source: `https://anchor.fm/s/46ae158c/podcast/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"46c4-URFNaak8Sgu+ORonyYdtxr+U7Dc"`
+- fetched_at: `2026-02-23T19:34:35+00:00`
+- checked_at: `2026-02-23T19:34:35+00:00`
+- etag: `W/"46c4-JZeHbD8JYxRhFXkpXsma72Y+CZk"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.youtube.com/channel/UCl4CbObCjLNJC9U4Rmb3vyw",
   "description": "Welcome to Godfall! A podcast that focuses on Dungeons and Dragons with a mix of campaign and lore as well as some bonus content. Jarrod aka Zuro Duce is DMing and hosting an extraordinary set of players who's priority is to have fun, play some dang DnD, and tell an awesome story.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11758139/11758139-1610305251066-12fe60cf38755.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T19:34:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
