@@ -2,8 +2,8 @@
 
 - slug: `diefall`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:648749499/sounds.rss`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.twitch.tv/runawayrobot_",
   "description": "5th Edition Dungeons & Dragons live shows streamed on twitch.tv/RunawayRobot_ ! Currently in its second year running, the show runs multiple campaigns (both official modules and homebrew), all of which have an emphasis on production quality, and feature things like political intrigue, tense combat situations, and various shenanigans aplenty by players and DM alike; in short, everything that makes the 5e system so popular!",
   "image_url": "https://i1.sndcdn.com/avatars-DqDN4jM0ve9kkfjg-oqX4NA-original.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -35,10 +35,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "277196298",
       "itunes_duration": "01:55:29",
-      "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "dragon",
@@ -57,11 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "438192138",
       "itunes_duration": "03:02:34",
-      "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "dragon",
@@ -81,14 +74,8 @@
       "enclosure_length": "260096425",
       "itunes_duration": "02:15:06",
       "speakers": [
-        "Below Kalaman Keep",
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Aka Manah",
-        "Anemo Kevin MacLeod",
-        "Leaving Home",
-        "Heavy Heart",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Breaking Point Support"
       ],
       "topics": [
         "shadow",
@@ -110,10 +97,8 @@
       "enclosure_length": "298566114",
       "itunes_duration": "02:35:05",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Cataclysmic Fire Support"
       ],
       "topics": [
         "shadow",
@@ -134,12 +119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "308147519",
       "itunes_duration": "02:40:08",
-      "speakers": [
-        "com RunawayRobot",
-        "Jungle Ambience Sounds",
-        "Kevin MacLeod",
-        "James Rpg Art"
-      ],
+      "speakers": [],
       "topics": [
         "shadows",
         "canopy"
@@ -156,12 +136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327225217",
       "itunes_duration": "02:50:00",
-      "speakers": [
-        "com RunawayRobot",
-        "Jungle Ambience Sounds",
-        "Kevin MacLeod",
-        "James Rpg Art"
-      ],
+      "speakers": [],
       "topics": [
         "shadows",
         "canopy"
@@ -179,10 +154,8 @@
       "enclosure_length": "252107763",
       "itunes_duration": "02:10:33",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Steel Springs Support"
       ],
       "topics": [
         "shadow",
@@ -204,12 +177,8 @@
       "enclosure_length": "270897923",
       "itunes_duration": "02:19:25",
       "speakers": [
-        "com RunawayRobot",
-        "Letting Reyna",
-        "Alexander Nakarada",
-        "Come Closer",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Hidden Enemies Support"
       ],
       "topics": [
         "shadow",
@@ -230,12 +199,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "285122306",
       "itunes_duration": "02:25:55",
-      "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Leaving Home",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "dragon",
@@ -256,11 +220,8 @@
       "enclosure_length": "266011084",
       "itunes_duration": "02:16:49",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Aka Manah Kevin MacLeod",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Apothecary Support"
       ],
       "topics": [
         "shadow",
@@ -282,12 +243,8 @@
       "enclosure_length": "258339983",
       "itunes_duration": "02:13:24",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Come Closer",
-        "Kevin MacLeod",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Rookledust Support"
       ],
       "topics": [
         "shadow",
@@ -308,11 +265,8 @@
       "enclosure_length": "309592760",
       "itunes_duration": "02:39:41",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Riffs Kevin MacLeod",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen",
+        "Kalaman Support"
       ],
       "topics": [
         "shadow",
@@ -332,12 +286,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "289219865",
       "itunes_duration": "02:29:00",
-      "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Leaving Home",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "dragon",
@@ -358,10 +307,7 @@
       "enclosure_length": "301274794",
       "itunes_duration": "02:34:36",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "Leaving Home",
-        "tv RunawayRobot"
+        "Dragon Queen"
       ],
       "topics": [
         "shadow",
@@ -381,11 +327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "324073355",
       "itunes_duration": "02:46:40",
-      "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "dragon",
@@ -406,8 +348,8 @@
       "enclosure_length": "245042833",
       "itunes_duration": "02:03:11",
       "speakers": [
-        "com RunawayRobot",
-        "Alexander Nakarada"
+        "Dragon Queen",
+        "War Support"
       ],
       "topics": [
         "shadow",
@@ -427,10 +369,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183217467",
       "itunes_duration": "01:35:25",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -448,10 +387,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "272954347",
       "itunes_duration": "02:22:09",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -469,10 +405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "362827854",
       "itunes_duration": "02:31:10",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -490,10 +423,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "292245011",
       "itunes_duration": "02:32:12",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -511,10 +441,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "280440961",
       "itunes_duration": "02:26:03",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -532,10 +459,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "287568673",
       "itunes_duration": "02:29:46",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -553,10 +477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "298218423",
       "itunes_duration": "02:35:18",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -574,10 +495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "275861897",
       "itunes_duration": "02:23:40",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -595,10 +513,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "269226611",
       "itunes_duration": "02:20:13",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "merry",
         "giftmas",
@@ -618,10 +533,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "254645914",
       "itunes_duration": "02:12:37",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -640,10 +552,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "288392680",
       "itunes_duration": "02:30:11",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -662,8 +571,8 @@
       "enclosure_length": "275661268",
       "itunes_duration": "02:23:43",
       "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
+        "Spelljammer One",
+        "Shot Support"
       ],
       "topics": [
         "derelict",
@@ -682,10 +591,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "294325917",
       "itunes_duration": "02:33:27",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -703,10 +609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "239159051",
       "itunes_duration": "02:04:41",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -724,10 +627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "273457136",
       "itunes_duration": "02:22:34",
-      "speakers": [
-        "MudcatTV ImKatt",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -746,8 +646,7 @@
       "enclosure_length": "500591727",
       "itunes_duration": "04:21:00",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Gaderian Support"
       ],
       "topics": [
         "ruin",
@@ -767,8 +666,8 @@
       "enclosure_length": "315917106",
       "itunes_duration": "02:44:42",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Icefire Support",
+        "Great Dragon Hunt"
       ],
       "topics": [
         "great",
@@ -789,8 +688,7 @@
       "enclosure_length": "346833123",
       "itunes_duration": "03:00:50",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Great Dragon Hunt"
       ],
       "topics": [
         "great",
@@ -810,8 +708,8 @@
       "enclosure_length": "293466478",
       "itunes_duration": "02:32:59",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Arrival Support",
+        "Great Dragon Hunt"
       ],
       "topics": [
         "great",
@@ -831,10 +729,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "411881668",
       "itunes_duration": "03:34:38",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus"
@@ -852,8 +747,8 @@
       "enclosure_length": "376869000",
       "itunes_duration": "03:16:29",
       "speakers": [
-        "com simplyjxn",
-        "tv RunawayRobot"
+        "Journeys Through",
+        "Radiant Citadel"
       ],
       "topics": [
         "journey",
@@ -873,10 +768,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "334212205",
       "itunes_duration": "02:54:15",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -895,9 +787,8 @@
       "enclosure_length": "500013164",
       "itunes_duration": "04:20:42",
       "speakers": [
-        "com blackgirlmage",
-        "com ashsaidhi",
-        "tv RunawayRobot"
+        "Journeys Through",
+        "Radiant Citadel"
       ],
       "topics": [
         "journey",
@@ -918,10 +809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "308620254",
       "itunes_duration": "02:40:54",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -939,10 +827,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "306125372",
       "itunes_duration": "02:39:36",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -961,10 +846,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "322831951",
       "itunes_duration": "02:48:19",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -984,9 +866,7 @@
       "enclosure_length": "374710563",
       "itunes_duration": "03:15:22",
       "speakers": [
-        "Frozen Memories One-Shot",
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Frozen Memories One-Shot"
       ],
       "topics": [
         "frozen",
@@ -1006,10 +886,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "276360877",
       "itunes_duration": "02:24:05",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1028,10 +905,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "313601042",
       "itunes_duration": "02:43:30",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric",
@@ -1049,10 +923,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "319314204",
       "itunes_duration": "02:46:29",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1071,8 +942,7 @@
       "enclosure_length": "300843017",
       "itunes_duration": "02:36:51",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Double Chaos Support"
       ],
       "topics": [
         "ruin",
@@ -1091,10 +961,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "304078794",
       "itunes_duration": "02:38:32",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1113,9 +980,7 @@
       "enclosure_length": "294611352",
       "itunes_duration": "02:33:36",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Secret Tunnel Tonight"
       ],
       "topics": [
         "ruin",
@@ -1135,10 +1000,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "314747509",
       "itunes_duration": "02:44:06",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1157,8 +1019,8 @@
       "enclosure_length": "305704390",
       "itunes_duration": "02:39:23",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Bee Stands",
+        "Bitter Support"
       ],
       "topics": [
         "ruin",
@@ -1177,8 +1039,7 @@
       "enclosure_length": "312624235",
       "itunes_duration": "02:42:54",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Urm Support"
       ],
       "topics": [
         "descent",
@@ -1197,10 +1058,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "295987496",
       "itunes_duration": "02:34:19",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric",
@@ -1219,8 +1077,7 @@
       "enclosure_length": "310091499",
       "itunes_duration": "02:41:40",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Chickens Support"
       ],
       "topics": [
         "descent",
@@ -1241,8 +1098,7 @@
       "enclosure_length": "354928403",
       "itunes_duration": "03:05:03",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Revenge Support"
       ],
       "topics": [
         "ruin",
@@ -1261,10 +1117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "333863174",
       "itunes_duration": "02:54:04",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1282,10 +1135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "294504565",
       "itunes_duration": "02:33:33",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1303,10 +1153,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "306021719",
       "itunes_duration": "02:39:33",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric",
@@ -1325,8 +1172,7 @@
       "enclosure_length": "268591961",
       "itunes_duration": "02:20:02",
       "speakers": [
-        "Gravity Support",
-        "com RunawayRobot"
+        "Gravity Support"
       ],
       "topics": [
         "ruin",
@@ -1346,8 +1192,7 @@
       "enclosure_length": "272010395",
       "itunes_duration": "02:21:49",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Down Support"
       ],
       "topics": [
         "descent",
@@ -1365,10 +1210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "320389590",
       "itunes_duration": "02:47:02",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric",
@@ -1386,9 +1228,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "282664161",
       "itunes_duration": "02:27:22",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "lapis",
@@ -1406,10 +1246,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "329396757",
       "itunes_duration": "02:51:44",
-      "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1429,7 +1266,7 @@
       "enclosure_length": "325572309",
       "itunes_duration": "02:49:44",
       "speakers": [
-        "com RunawayRobot"
+        "Sand Support"
       ],
       "topics": [
         "ruin",
@@ -1450,7 +1287,7 @@
       "enclosure_length": "312140490",
       "itunes_duration": "02:42:44",
       "speakers": [
-        "com RunawayRobot"
+        "Shadows Support"
       ],
       "topics": [
         "ruin",
@@ -1469,10 +1306,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "190665663",
       "itunes_duration": "01:39:24",
-      "speakers": [
-        "Amanda Hamon Lead Designer",
-        "Alexander Stangroom"
-      ],
+      "speakers": [],
       "topics": [
         "lead",
         "designers",
@@ -1493,8 +1327,7 @@
       "enclosure_length": "317374344",
       "itunes_duration": "02:45:28",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Mad Maggie Support"
       ],
       "topics": [
         "descent",
@@ -1513,9 +1346,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "306140396",
       "itunes_duration": "02:39:36",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "crimson",
@@ -1533,10 +1364,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "385312542",
       "itunes_duration": "03:20:53",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric"
@@ -1553,10 +1381,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "306894254",
       "itunes_duration": "02:40:00",
-      "speakers": [
-        "Joseph Johnson",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "curriculum",
         "chaos"
@@ -1574,8 +1399,7 @@
       "enclosure_length": "289163920",
       "itunes_duration": "02:30:46",
       "speakers": [
-        "com RunawayRobot",
-        "tv RunawayRobot"
+        "Happy Hell"
       ],
       "topics": [
         "descent",
@@ -1595,9 +1419,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "261583302",
       "itunes_duration": "02:16:23",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "crimson",
@@ -1616,10 +1438,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "300739469",
       "itunes_duration": "02:36:48",
-      "speakers": [
-        "Joseph Johnson",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "curriculum",
         "chaos"
@@ -1636,9 +1455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "322951365",
       "itunes_duration": "02:48:23",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1657,8 +1474,8 @@
       "enclosure_length": "304931174",
       "itunes_duration": "02:38:59",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Long Walk Off",
+        "Short Pier Support"
       ],
       "topics": [
         "ruin",
@@ -1680,11 +1497,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "314166497",
       "itunes_duration": "02:43:48",
-      "speakers": [
-        "Joseph Johnson",
-        "Spice Rack",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "curriculum",
         "chaos"
@@ -1702,7 +1515,7 @@
       "enclosure_length": "328301143",
       "itunes_duration": "02:51:10",
       "speakers": [
-        "com RunawayRobot"
+        "Gates Support"
       ],
       "topics": [
         "ruin",
@@ -1740,7 +1553,7 @@
       "enclosure_length": "300021370",
       "itunes_duration": "02:36:25",
       "speakers": [
-        "com RunawayRobot"
+        "Plans Support"
       ],
       "topics": [
         "ruin",
@@ -1760,8 +1573,7 @@
       "enclosure_length": "320133187",
       "itunes_duration": "02:46:54",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Tea Support"
       ],
       "topics": [
         "ruin",
@@ -1780,9 +1592,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "325822768",
       "itunes_duration": "02:49:52",
-      "speakers": [
-        "Spice Rack"
-      ],
+      "speakers": [],
       "topics": [
         "curriculum",
         "chaos"
@@ -1799,9 +1609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "284436924",
       "itunes_duration": "02:28:18",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -1820,10 +1628,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "276741998",
       "itunes_duration": "02:13:55",
-      "speakers": [
-        "Spice Rack",
-        "tv RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "curriculum",
         "chaos"
@@ -1841,8 +1646,7 @@
       "enclosure_length": "412417601",
       "itunes_duration": "03:35:01",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Plans Support"
       ],
       "topics": [
         "ruin",
@@ -1861,9 +1665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "309329454",
       "itunes_duration": "02:41:16",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "lapis",
@@ -1881,9 +1683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "331857447",
       "itunes_duration": "02:53:01",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus"
@@ -1901,7 +1701,7 @@
       "enclosure_length": "293739697",
       "itunes_duration": "02:33:09",
       "speakers": [
-        "com RunawayRobot"
+        "New Friend"
       ],
       "topics": [
         "descent",
@@ -1921,7 +1721,7 @@
       "enclosure_length": "314975395",
       "itunes_duration": "02:44:13",
       "speakers": [
-        "com RunawayRobot"
+        "Flight Support"
       ],
       "topics": [
         "ruin",
@@ -1940,10 +1740,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "315863112",
       "itunes_duration": "02:44:40",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric",
@@ -1963,8 +1760,7 @@
       "enclosure_length": "330904673",
       "itunes_duration": "02:52:31",
       "speakers": [
-        "Warden Support",
-        "com RunawayRobot"
+        "Warden Support"
       ],
       "topics": [
         "ruin",
@@ -1983,9 +1779,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "309611349",
       "itunes_duration": "02:41:25",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "crimson",
@@ -2003,10 +1797,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "306017656",
       "itunes_duration": "02:39:27",
-      "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "auric"
@@ -2024,8 +1815,7 @@
       "enclosure_length": "342876917",
       "itunes_duration": "02:58:46",
       "speakers": [
-        "Door Support",
-        "com RunawayRobot"
+        "Door Support"
       ],
       "topics": [
         "ruin",
@@ -2046,7 +1836,7 @@
       "enclosure_length": "298089279",
       "itunes_duration": "02:35:25",
       "speakers": [
-        "com RunawayRobot"
+        "Candlekeep Support"
       ],
       "topics": [
         "descent",
@@ -2066,8 +1856,7 @@
       "enclosure_length": "358947097",
       "itunes_duration": "03:07:07",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Andre Support"
       ],
       "topics": [
         "ruin",
@@ -2086,9 +1875,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "295997487",
       "itunes_duration": "02:34:19",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -2106,9 +1893,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "369985977",
       "itunes_duration": "03:12:54",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "ruin",
         "crimson",
@@ -2127,8 +1912,7 @@
       "enclosure_length": "402617299",
       "itunes_duration": "03:29:41",
       "speakers": [
-        "simplyjxn Finamenon",
-        "com RunawayRobot"
+        "Blood Support"
       ],
       "topics": [
         "ruin",
@@ -2148,7 +1932,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "338408777",
       "itunes_duration": "02:56:26",
-      "speakers": [],
+      "speakers": [
+        "Awakening Support"
+      ],
       "topics": [
         "ruin",
         "lapis",
@@ -2166,9 +1952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "290789703",
       "itunes_duration": "02:31:36",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus"
@@ -2186,7 +1970,7 @@
       "enclosure_length": "303523866",
       "itunes_duration": "02:38:14",
       "speakers": [
-        "com RunawayRobot"
+        "Decisions Support"
       ],
       "topics": [
         "descent",
@@ -2206,7 +1990,7 @@
       "enclosure_length": "319427188",
       "itunes_duration": "02:46:32",
       "speakers": [
-        "com RunawayRobot"
+        "Another Basement Support"
       ],
       "topics": [
         "descent",
@@ -2225,9 +2009,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "316360648",
       "itunes_duration": "02:44:56",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -2246,9 +2028,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "276401732",
       "itunes_duration": "02:24:06",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -2266,9 +2046,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "278787336",
       "itunes_duration": "02:25:21",
-      "speakers": [
-        "com RunawayRobot"
-      ],
+      "speakers": [],
       "topics": [
         "descent",
         "avernus",
@@ -2288,7 +2066,7 @@
       "enclosure_length": "306435749",
       "itunes_duration": "02:39:29",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2307,7 +2085,7 @@
       "enclosure_length": "324496667",
       "itunes_duration": "02:48:55",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2327,7 +2105,7 @@
       "enclosure_length": "280275603",
       "itunes_duration": "02:25:52",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2347,7 +2125,7 @@
       "enclosure_length": "296311169",
       "itunes_duration": "02:34:14",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2368,7 +2146,7 @@
       "enclosure_length": "307563635",
       "itunes_duration": "02:40:06",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2389,7 +2167,7 @@
       "enclosure_length": "389528751",
       "itunes_duration": "03:22:49",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2409,7 +2187,7 @@
       "enclosure_length": "323253947",
       "itunes_duration": "02:48:17",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2429,7 +2207,7 @@
       "enclosure_length": "266881347",
       "itunes_duration": "02:18:52",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2449,7 +2227,7 @@
       "enclosure_length": "302760727",
       "itunes_duration": "02:37:35",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2470,7 +2248,7 @@
       "enclosure_length": "375062174",
       "itunes_duration": "03:15:18",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2490,7 +2268,7 @@
       "enclosure_length": "547512207",
       "itunes_duration": "04:45:28",
       "speakers": [
-        "Catch DieFall"
+        "Charity One"
       ],
       "topics": [
         "alderheart",
@@ -2512,7 +2290,7 @@
       "enclosure_length": "339046408",
       "itunes_duration": "02:56:31",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2532,7 +2310,7 @@
       "enclosure_length": "317472592",
       "itunes_duration": "02:45:16",
       "speakers": [
-        "Catch DieFall"
+        "Audio Recording"
       ],
       "topics": [
         "seed",
@@ -2552,7 +2330,7 @@
       "enclosure_length": "276508607",
       "itunes_duration": "02:24:10",
       "speakers": [
-        "Catch DieFall"
+        "Character Creation"
       ],
       "topics": [
         "seed",
@@ -2572,9 +2350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "482013116",
       "itunes_duration": "04:11:19",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart"
       ]
@@ -2590,9 +2366,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "330808198",
       "itunes_duration": "02:52:28",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "oakheart"
@@ -2609,9 +2383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "319711517",
       "itunes_duration": "02:46:41",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart"
       ]
@@ -2627,9 +2399,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "329001000",
       "itunes_duration": "02:51:32",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "frogs"
@@ -2646,9 +2416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327380993",
       "itunes_duration": "02:50:41",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "seers",
@@ -2666,9 +2434,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "339635453",
       "itunes_duration": "02:57:04",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "home"
@@ -2685,9 +2451,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "344910148",
       "itunes_duration": "02:59:49",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "ebonheart"
@@ -2705,7 +2469,7 @@
       "enclosure_length": "320028817",
       "itunes_duration": "02:46:51",
       "speakers": [
-        "Catch DieFall"
+        "Unmasked Thanks"
       ],
       "topics": [
         "alderheart"
@@ -2723,7 +2487,7 @@
       "enclosure_length": "307479829",
       "itunes_duration": "02:40:18",
       "speakers": [
-        "Catch DieFall"
+        "Night Thanks"
       ],
       "topics": [
         "alderheart",
@@ -2743,7 +2507,7 @@
       "enclosure_length": "327532792",
       "itunes_duration": "02:50:46",
       "speakers": [
-        "Catch DieFall"
+        "Trust No One Thanks"
       ],
       "topics": [
         "alderheart",
@@ -2761,9 +2525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "333765816",
       "itunes_duration": "02:54:01",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "lurk",
@@ -2782,7 +2544,7 @@
       "enclosure_length": "322091681",
       "itunes_duration": "02:47:56",
       "speakers": [
-        "Catch DieFall"
+        "If Books Could Kill"
       ],
       "topics": [
         "alderheart",
@@ -2800,9 +2562,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "359627859",
       "itunes_duration": "03:07:30",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "ancient",
@@ -2820,9 +2580,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "331260450",
       "itunes_duration": "02:52:42",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "road",
@@ -2840,9 +2598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "318871091",
       "itunes_duration": "02:46:15",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "brush",
@@ -2860,9 +2616,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "389189295",
       "itunes_duration": "03:22:55",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart"
       ]
@@ -2878,9 +2632,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "321829391",
       "itunes_duration": "02:47:47",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "road"
@@ -2897,9 +2649,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "323352531",
       "itunes_duration": "02:48:35",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "trial"
@@ -2916,9 +2666,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "343659318",
       "itunes_duration": "02:59:10",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "helping",
@@ -2936,9 +2684,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "316402825",
       "itunes_duration": "02:44:58",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "deal"
@@ -2955,9 +2701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327173489",
       "itunes_duration": "02:50:35",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "general"
@@ -2974,9 +2718,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "341740484",
       "itunes_duration": "02:58:10",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "mountain",
@@ -2994,9 +2736,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "336290439",
       "itunes_duration": "02:55:20",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "harp"
@@ -3013,9 +2753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "339954257",
       "itunes_duration": "02:57:14",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "city"
@@ -3032,9 +2770,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "364219065",
       "itunes_duration": "03:09:54",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "attack"
@@ -3051,9 +2787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "343827917",
       "itunes_duration": "02:59:16",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "arrival"
@@ -3070,9 +2804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "336910018",
       "itunes_duration": "02:55:39",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "mokkden",
@@ -3090,9 +2822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "359718803",
       "itunes_duration": "03:07:33",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "performance"
@@ -3109,9 +2839,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "351330460",
       "itunes_duration": "03:03:10",
-      "speakers": [
-        "Catch DieFall"
-      ],
+      "speakers": [],
       "topics": [
         "alderheart",
         "adventure",
@@ -3146,7 +2874,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327886173",
       "itunes_duration": "02:50:57",
-      "speakers": [],
+      "speakers": [
+        "Run Welcome"
+      ],
       "topics": [
         "phantoms"
       ]
@@ -3162,7 +2892,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "329832616",
       "itunes_duration": "02:51:58",
-      "speakers": [],
+      "speakers": [
+        "Group Therapy Welcome"
+      ],
       "topics": [
         "phantoms",
         "group",
@@ -3180,7 +2912,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "549879276",
       "itunes_duration": "04:46:42",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3239,7 +2973,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "322377903",
       "itunes_duration": "02:48:06",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Doppelganger Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3276,7 +3013,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327442728",
       "itunes_duration": "02:50:44",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Golorr Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3296,7 +3036,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "343264371",
       "itunes_duration": "02:58:59",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Necromancy Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3315,7 +3058,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "323084924",
       "itunes_duration": "02:48:28",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3335,7 +3080,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "320788735",
       "itunes_duration": "02:47:16",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Dead Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3354,7 +3102,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "346257008",
       "itunes_duration": "03:00:33",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3373,7 +3123,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "318560060",
       "itunes_duration": "02:46:06",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Tipo Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3393,7 +3146,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "300881883",
       "itunes_duration": "02:36:53",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Gralhund Manor Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3413,7 +3169,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "366160128",
       "itunes_duration": "03:10:55",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Aftermath Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3432,7 +3191,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "327692669",
       "itunes_duration": "02:50:52",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Dark Alleys",
+        "Fireballs Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3453,7 +3216,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "388156762",
       "itunes_duration": "03:22:23",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Mare Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3473,7 +3239,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "373117351",
       "itunes_duration": "03:14:33",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Meeting Mirt Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3493,7 +3262,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "342248240",
       "itunes_duration": "02:58:27",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Blackstaff Tower Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3513,7 +3285,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "326034206",
       "itunes_duration": "02:50:00",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Trollskull Manor Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3550,7 +3325,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "347204788",
       "itunes_duration": "03:01:02",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Floon Blagmaar Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3588,7 +3366,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "323527402",
       "itunes_duration": "02:48:41",
-      "speakers": [],
+      "speakers": [
+        "Levels Welcome"
+      ],
       "topics": [
         "cypress",
         "level"
@@ -3605,7 +3385,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "369987705",
       "itunes_duration": "03:12:55",
-      "speakers": [],
+      "speakers": [
+        "Daring Plans Welcome"
+      ],
       "topics": [
         "cypress",
         "plan"
@@ -3622,7 +3404,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "355187330",
       "itunes_duration": "03:05:12",
-      "speakers": [],
+      "speakers": [
+        "Frogs Welcome"
+      ],
       "topics": [
         "cypress",
         "friend",
@@ -3712,7 +3496,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "446981339",
       "itunes_duration": "03:53:04",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist",
+        "Recovery Welcome"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3749,7 +3536,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "345935607",
       "itunes_duration": "03:00:23",
-      "speakers": [],
+      "speakers": [
+        "Dragon Heist"
+      ],
       "topics": [
         "waterdeep",
         "dragon",
@@ -3801,187 +3590,187 @@
 
 ## Episodes (newest first)
 
-- 2024-05-09 — Shadow of the Dragon Queen - Ep 14 - The Test — speakers: com RunawayRobot, Alexander Nakarada
-- 2024-04-05 — Shadow of the Dragon Queen - Ep 13 - The Waste — speakers: com RunawayRobot, Alexander Nakarada, Kevin MacLeod
-- 2024-01-16 — Shadow of the Dragon Queen - Ep 12 - Breaking Point — speakers: Below Kalaman Keep, com RunawayRobot, Alexander Nakarada, Aka Manah, Anemo Kevin MacLeod, Leaving Home, Heavy Heart, tv RunawayRobot
-- 2023-12-27 — Shadow of the Dragon Queen - Ep 11 - Cataclysmic Fire — speakers: com RunawayRobot, Alexander Nakarada, Leaving Home, tv RunawayRobot
-- 2023-12-12 — SHADOWS OF THE CANOPY - Part 2 — speakers: com RunawayRobot, Jungle Ambience Sounds, Kevin MacLeod, James Rpg Art
-- 2023-11-25 — SHADOWS OF THE CANOPY - Part 1 — speakers: com RunawayRobot, Jungle Ambience Sounds, Kevin MacLeod, James Rpg Art
-- 2023-11-07 — Shadow of the Dragon Queen - Ep 10 - Steel Springs — speakers: com RunawayRobot, Alexander Nakarada, Leaving Home, tv RunawayRobot
-- 2023-10-20 — Shadow of the Dragon Queen - Ep 9 - Hidden Enemies — speakers: com RunawayRobot, Letting Reyna, Alexander Nakarada, Come Closer, Leaving Home, tv RunawayRobot
-- 2023-10-01 — Shadow of the Dragon Queen - Ep 8 - Wheelwatch Outpost — speakers: com RunawayRobot, Alexander Nakarada, Leaving Home, tv RunawayRobot
-- 2023-08-24 — Shadow of the Dragon Queen - Ep 7 - Whyan's Apothecary — speakers: com RunawayRobot, Alexander Nakarada, Aka Manah Kevin MacLeod, Leaving Home, tv RunawayRobot
-- 2023-07-25 — Shadow of the Dragon Queen - Ep 6 - Rookledust — speakers: com RunawayRobot, Alexander Nakarada, Come Closer, Kevin MacLeod, Leaving Home, tv RunawayRobot
-- 2023-07-11 — Shadow of the Dragon Queen - Ep 5 - Kalaman — speakers: com RunawayRobot, Alexander Nakarada, Riffs Kevin MacLeod, Leaving Home, tv RunawayRobot
-- 2023-06-27 — Shadow of the Dragon Queen - Ep 4 - The Fall of Vogler — speakers: com RunawayRobot, Alexander Nakarada, Leaving Home, tv RunawayRobot
-- 2023-06-13 — Shadow of the Dragon Queen - Ep 3 - The Messenger — speakers: com RunawayRobot, Alexander Nakarada, Leaving Home, tv RunawayRobot
-- 2023-06-06 — Shadow of the Dragon Queen - Ep 2 - Kingfisher Festival — speakers: com RunawayRobot, Alexander Nakarada, tv RunawayRobot
-- 2023-05-29 — Shadow of the Dragon Queen - Ep 1 - Prelude to War — speakers: com RunawayRobot, Alexander Nakarada
-- 2023-03-20 — Spelljammer: Light of Xaryxis - Ep 12 - THE END — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-03-13 — Spelljammer: Light of Xaryxis - Ep 11 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-03-07 — Spelljammer: Light of Xaryxis - Ep 10 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-02-21 — Spelljammer: Light of Xaryxis - Ep 9 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-02-07 — Spelljammer: Light of Xaryxis - Ep 8 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-02-01 — Spelljammer: Light of Xaryxis - Ep 7 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-01-24 — Spelljammer: Light of Xaryxis - Ep 6 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-01-10 — Spelljammer: Light of Xaryxis - Ep 5 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2023-01-03 — MERRY GIFTMAS - A Spelljammer Holiday One-Shot — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-12-21 — DESCENT INTO AVERNUS - HOLIDAY SPECIAL! — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-12-12 — Spelljammer: Light of Xaryxis - Ep 4 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-12-06 — THE DERELICT || A Spelljammer One-Shot — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-11-14 — Spelljammer: Light of Xaryxis - Ep 3 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-11-07 — Spelljammer: Light of Xaryxis - Ep 2 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-11-01 — Spelljammer: Light of Xaryxis - Ep 1 — speakers: MudcatTV ImKatt, tv RunawayRobot
-- 2022-10-31 — RUIN: Auric - Episode 17 - Gaderian — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-09-13 — The Great Dragon Hunt - Ep 3 - Icefire — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-09-06 — The Great Dragon Hunt - Ep 2 - On The Hunt — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-08-30 — The Great Dragon Hunt - Ep 1 - Arrival — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-08-22 — Descent into Avernus - Ep 36 - The End — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-08-11 — Journeys Through The Radiant Citadel | Sins of Our Elders — speakers: com simplyjxn, tv RunawayRobot
-- 2022-08-11 — Descent into Avernus - Ep 35 - The Scab — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-07-21 — Journeys Through The Radiant Citadel | Sponsored by Wizards of the Coast [DnD 5e] — speakers: com blackgirlmage, com ashsaidhi, tv RunawayRobot
-- 2022-07-12 — Descent into Avernus - Ep 34 - A Titanic Battle — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-06-28 — Descent into Avernus - Ep 33 - Arkhan the Cruel — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-06-14 — Descent into Avernus - Ep 32 - Princeps Kovik — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-06-07 — Frozen Memories - One-Shot with DM Craig! — speakers: Frozen Memories One-Shot, com RunawayRobot, tv RunawayRobot
-- 2022-05-31 — Descent into Avernus - Ep 31 - The Wandering Emporium — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-05-24 — RUIN: Auric - Episode 16 - The Librarian — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-05-17 — Descent into Avernus - Ep 30 - Red Ruth — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-05-10 — RUIN: Auric - Episode 15 - Double Chaos — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-05-03 — Descent into Avernus - Ep 29 - Loss — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-04-26 — RUIN: Auric - Episode 14 - Secret Tunnel — speakers: simplyjxn Finamenon, com RunawayRobot, tv RunawayRobot
-- 2022-04-19 — Descent into Avernus - Ep 28 - The Obelisk — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-04-12 — RUIN: Auric - Episode 13 - Bee Stands for Bitter — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-04-05 — Descent into Avernus - Ep 27 - Tower of Urm — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-03-29 — RUIN: Auric - Episode 12 - The Forge — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-03-22 — Descent into Avernus - Ep 26 - Importance of Chickens — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-03-15 — RUIN: Auric - Episode 11 - Revenge — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-03-08 — Descent into Avernus - Ep 25 - The Hive — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-02-23 — Descent into Avernus - Ep 24 - The Hill — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-02-15 — RUIN: Auric - Episode 10 - The Storm — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-02-11 — RUIN: Lapis - Episode 8 - Gravity — speakers: Gravity Support, com RunawayRobot
-- 2022-02-08 — Descent into Avernus - Ep 23 - Push it Down — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-02-01 — RUIN: Auric - Episode 9 - The Lighthouse — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2022-02-01 — RUIN: Lapis - Episode 7 - The Athenuem — speakers: com RunawayRobot
-- 2022-01-25 — Descent into Avernus - Ep 22 - Dreams and Machines — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-01-21 — RUIN: Crimson - Episode 7 - Lines in the Sand — speakers: com RunawayRobot
-- 2022-01-18 — RUIN: Lapis - Episode 6 - Shadows — speakers: com RunawayRobot
-- 2022-01-11 — Interview with Lead Designers of Strixhaven: A Curriculum of Chaos — speakers: Amanda Hamon Lead Designer, Alexander Stangroom
-- 2022-01-07 — Descent into Avernus - Ep 21 - Mad Maggie — speakers: com RunawayRobot, tv RunawayRobot
-- 2022-01-04 — RUIN: Crimson - Episode 6 - The Arena — speakers: com RunawayRobot
-- 2021-12-31 — RUIN: Auric - Episode 8 - We Never Learn — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-12-28 — Strixhaven: A Curriculum of Chaos - Ep 6 - The End — speakers: Joseph Johnson, tv RunawayRobot
-- 2021-12-25 — Descent into Avernus - Ep 20 - Happy Hell-idays — speakers: com RunawayRobot, tv RunawayRobot
-- 2021-12-24 — RUIN: Crimson - Episode 5 - THE CABBAGE ONE SHOT — speakers: com RunawayRobot
-- 2021-12-21 — Strixhaven: A Curriculum of Chaos - Ep 5 — speakers: Joseph Johnson, tv RunawayRobot
-- 2021-12-14 — Descent into Avernus - Ep 19 - Ravenguard — speakers: com RunawayRobot
-- 2021-12-10 — RUIN: Auric - Episode 7 - Long Walk Off a Short Pier — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-12-07 — Strixhaven: A Curriculum of Chaos - Ep 4 — speakers: Joseph Johnson, Spice Rack, com RunawayRobot
-- 2021-12-05 — RUIN: Lapis - Episode 5 - Battle at the Gates — speakers: com RunawayRobot
+- 2024-05-09 — Shadow of the Dragon Queen - Ep 14 - The Test
+- 2024-04-05 — Shadow of the Dragon Queen - Ep 13 - The Waste
+- 2024-01-16 — Shadow of the Dragon Queen - Ep 12 - Breaking Point — speakers: Dragon Queen, Breaking Point Support
+- 2023-12-27 — Shadow of the Dragon Queen - Ep 11 - Cataclysmic Fire — speakers: Dragon Queen, Cataclysmic Fire Support
+- 2023-12-12 — SHADOWS OF THE CANOPY - Part 2
+- 2023-11-25 — SHADOWS OF THE CANOPY - Part 1
+- 2023-11-07 — Shadow of the Dragon Queen - Ep 10 - Steel Springs — speakers: Dragon Queen, Steel Springs Support
+- 2023-10-20 — Shadow of the Dragon Queen - Ep 9 - Hidden Enemies — speakers: Dragon Queen, Hidden Enemies Support
+- 2023-10-01 — Shadow of the Dragon Queen - Ep 8 - Wheelwatch Outpost
+- 2023-08-24 — Shadow of the Dragon Queen - Ep 7 - Whyan's Apothecary — speakers: Dragon Queen, Apothecary Support
+- 2023-07-25 — Shadow of the Dragon Queen - Ep 6 - Rookledust — speakers: Dragon Queen, Rookledust Support
+- 2023-07-11 — Shadow of the Dragon Queen - Ep 5 - Kalaman — speakers: Dragon Queen, Kalaman Support
+- 2023-06-27 — Shadow of the Dragon Queen - Ep 4 - The Fall of Vogler
+- 2023-06-13 — Shadow of the Dragon Queen - Ep 3 - The Messenger — speakers: Dragon Queen
+- 2023-06-06 — Shadow of the Dragon Queen - Ep 2 - Kingfisher Festival
+- 2023-05-29 — Shadow of the Dragon Queen - Ep 1 - Prelude to War — speakers: Dragon Queen, War Support
+- 2023-03-20 — Spelljammer: Light of Xaryxis - Ep 12 - THE END
+- 2023-03-13 — Spelljammer: Light of Xaryxis - Ep 11
+- 2023-03-07 — Spelljammer: Light of Xaryxis - Ep 10
+- 2023-02-21 — Spelljammer: Light of Xaryxis - Ep 9
+- 2023-02-07 — Spelljammer: Light of Xaryxis - Ep 8
+- 2023-02-01 — Spelljammer: Light of Xaryxis - Ep 7
+- 2023-01-24 — Spelljammer: Light of Xaryxis - Ep 6
+- 2023-01-10 — Spelljammer: Light of Xaryxis - Ep 5
+- 2023-01-03 — MERRY GIFTMAS - A Spelljammer Holiday One-Shot
+- 2022-12-21 — DESCENT INTO AVERNUS - HOLIDAY SPECIAL!
+- 2022-12-12 — Spelljammer: Light of Xaryxis - Ep 4
+- 2022-12-06 — THE DERELICT || A Spelljammer One-Shot — speakers: Spelljammer One, Shot Support
+- 2022-11-14 — Spelljammer: Light of Xaryxis - Ep 3
+- 2022-11-07 — Spelljammer: Light of Xaryxis - Ep 2
+- 2022-11-01 — Spelljammer: Light of Xaryxis - Ep 1
+- 2022-10-31 — RUIN: Auric - Episode 17 - Gaderian — speakers: Gaderian Support
+- 2022-09-13 — The Great Dragon Hunt - Ep 3 - Icefire — speakers: Icefire Support, Great Dragon Hunt
+- 2022-09-06 — The Great Dragon Hunt - Ep 2 - On The Hunt — speakers: Great Dragon Hunt
+- 2022-08-30 — The Great Dragon Hunt - Ep 1 - Arrival — speakers: Arrival Support, Great Dragon Hunt
+- 2022-08-22 — Descent into Avernus - Ep 36 - The End
+- 2022-08-11 — Journeys Through The Radiant Citadel | Sins of Our Elders — speakers: Journeys Through, Radiant Citadel
+- 2022-08-11 — Descent into Avernus - Ep 35 - The Scab
+- 2022-07-21 — Journeys Through The Radiant Citadel | Sponsored by Wizards of the Coast [DnD 5e] — speakers: Journeys Through, Radiant Citadel
+- 2022-07-12 — Descent into Avernus - Ep 34 - A Titanic Battle
+- 2022-06-28 — Descent into Avernus - Ep 33 - Arkhan the Cruel
+- 2022-06-14 — Descent into Avernus - Ep 32 - Princeps Kovik
+- 2022-06-07 — Frozen Memories - One-Shot with DM Craig! — speakers: Frozen Memories One-Shot
+- 2022-05-31 — Descent into Avernus - Ep 31 - The Wandering Emporium
+- 2022-05-24 — RUIN: Auric - Episode 16 - The Librarian
+- 2022-05-17 — Descent into Avernus - Ep 30 - Red Ruth
+- 2022-05-10 — RUIN: Auric - Episode 15 - Double Chaos — speakers: Double Chaos Support
+- 2022-05-03 — Descent into Avernus - Ep 29 - Loss
+- 2022-04-26 — RUIN: Auric - Episode 14 - Secret Tunnel — speakers: Secret Tunnel Tonight
+- 2022-04-19 — Descent into Avernus - Ep 28 - The Obelisk
+- 2022-04-12 — RUIN: Auric - Episode 13 - Bee Stands for Bitter — speakers: Bee Stands, Bitter Support
+- 2022-04-05 — Descent into Avernus - Ep 27 - Tower of Urm — speakers: Urm Support
+- 2022-03-29 — RUIN: Auric - Episode 12 - The Forge
+- 2022-03-22 — Descent into Avernus - Ep 26 - Importance of Chickens — speakers: Chickens Support
+- 2022-03-15 — RUIN: Auric - Episode 11 - Revenge — speakers: Revenge Support
+- 2022-03-08 — Descent into Avernus - Ep 25 - The Hive
+- 2022-02-23 — Descent into Avernus - Ep 24 - The Hill
+- 2022-02-15 — RUIN: Auric - Episode 10 - The Storm
+- 2022-02-11 — RUIN: Lapis - Episode 8 - Gravity — speakers: Gravity Support
+- 2022-02-08 — Descent into Avernus - Ep 23 - Push it Down — speakers: Down Support
+- 2022-02-01 — RUIN: Auric - Episode 9 - The Lighthouse
+- 2022-02-01 — RUIN: Lapis - Episode 7 - The Athenuem
+- 2022-01-25 — Descent into Avernus - Ep 22 - Dreams and Machines
+- 2022-01-21 — RUIN: Crimson - Episode 7 - Lines in the Sand — speakers: Sand Support
+- 2022-01-18 — RUIN: Lapis - Episode 6 - Shadows — speakers: Shadows Support
+- 2022-01-11 — Interview with Lead Designers of Strixhaven: A Curriculum of Chaos
+- 2022-01-07 — Descent into Avernus - Ep 21 - Mad Maggie — speakers: Mad Maggie Support
+- 2022-01-04 — RUIN: Crimson - Episode 6 - The Arena
+- 2021-12-31 — RUIN: Auric - Episode 8 - We Never Learn
+- 2021-12-28 — Strixhaven: A Curriculum of Chaos - Ep 6 - The End
+- 2021-12-25 — Descent into Avernus - Ep 20 - Happy Hell-idays — speakers: Happy Hell
+- 2021-12-24 — RUIN: Crimson - Episode 5 - THE CABBAGE ONE SHOT
+- 2021-12-21 — Strixhaven: A Curriculum of Chaos - Ep 5
+- 2021-12-14 — Descent into Avernus - Ep 19 - Ravenguard
+- 2021-12-10 — RUIN: Auric - Episode 7 - Long Walk Off a Short Pier — speakers: Long Walk Off, Short Pier Support
+- 2021-12-07 — Strixhaven: A Curriculum of Chaos - Ep 4
+- 2021-12-05 — RUIN: Lapis - Episode 5 - Battle at the Gates — speakers: Gates Support
 - 2021-11-30 — Strixhaven: A Curriculum of Chaos - Ep 3
-- 2021-11-29 — RUIN: Crimson - Episode 4 - Plans — speakers: com RunawayRobot
-- 2021-11-25 — RUIN: Auric - Episode 6 - Arguments and Tea — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-11-23 — Strixhaven: A Curriculum of Chaos - Ep 2 — speakers: Spice Rack
-- 2021-11-19 — Descent into Avernus - Ep 18 - Mummy's the Word — speakers: com RunawayRobot
-- 2021-11-16 — Strixhaven: A Curriculum of Chaos - Ep 1 — speakers: Spice Rack, tv RunawayRobot
-- 2021-11-10 — RUIN: Auric - Episode 5 - Plans — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-11-10 — RUIN: Lapis - Episode 4 - Freedom? — speakers: com RunawayRobot
-- 2021-11-03 — Descent into Avernus - Ep 17 - The Keep — speakers: com RunawayRobot
-- 2021-11-03 — Descent into Avernus - Ep 16 - New Friend? — speakers: com RunawayRobot
-- 2021-10-30 — RUIN: Crimson - Episode 3 - Flight — speakers: com RunawayRobot
-- 2021-10-27 — RUIN: Auric - Episode 4 - The High Seas — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-10-23 — RUIN: Lapis - Episode 3 - The Warden — speakers: Warden Support, com RunawayRobot
-- 2021-10-16 — RUIN: Crimson - Episode 2 - The Bridge — speakers: com RunawayRobot
-- 2021-10-13 — RUIN: Auric - Episode 3 - Dogs? — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-10-08 — RUIN: Lapis - Episode 2 - The Green Door — speakers: Door Support, com RunawayRobot
-- 2021-10-04 — Descent into Avernus - Ep 15 - Candlekeep — speakers: com RunawayRobot
-- 2021-09-27 — RUIN: Auric - Episode 2 - Andre — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-09-26 — Descent into Avernus - Ep 14 - The Road Ahead — speakers: com RunawayRobot
-- 2021-09-13 — RUIN: Crimson - Episode 1 - Closing In — speakers: com RunawayRobot
-- 2021-09-10 — RUIN: Auric - Episode 1 - Of Ducks and Blood — speakers: simplyjxn Finamenon, com RunawayRobot
-- 2021-09-06 — RUIN: Lapis - Episode 1 - Awakening
-- 2021-08-30 — Descent into Avernus - Ep 13 - Did You Need a Re-cap? — speakers: com RunawayRobot
-- 2021-08-16 — Descent into Avernus - Ep 12 - Decisions, Decisions — speakers: com RunawayRobot
-- 2021-08-02 — Descent into Avernus - Ep 11 - Another Basement — speakers: com RunawayRobot
-- 2021-07-19 — Descent into Avernus - Ep 10 - Rude Awakening — speakers: com RunawayRobot
-- 2021-07-07 — Descent into Avernus - Ep 9 - Amrick — speakers: com RunawayRobot
-- 2021-07-07 — Descent into Avernus - Ep 8 - The Water Queen — speakers: com RunawayRobot
-- 2021-02-07 — The Seed of Life - Ep 12 - The End — speakers: Catch DieFall
-- 2021-01-31 — The Seed of Life - Ep 11 - The Shadow — speakers: Catch DieFall
-- 2021-01-23 — The Seed of Life - Ep 10 - Memories — speakers: Catch DieFall
-- 2021-01-20 — The Seed of Life - Ep 9 - The Thorn Wall — speakers: Catch DieFall
-- 2021-01-11 — The Seed of Life - Ep 8 - Cuddle Bros — speakers: Catch DieFall
-- 2020-12-27 — The Seed of Life - Ep 7 - I Speak for the Trees — speakers: Catch DieFall
-- 2020-12-20 — The Seed of Life - Ep 6 - Consequences?! — speakers: Catch DieFall
-- 2020-12-07 — The Seed of Life - Ep 5 - BURN IT DOWN! — speakers: Catch DieFall
-- 2020-11-22 — The Seed of Life - Ep 4 - Ham's Allied Alliance — speakers: Catch DieFall
-- 2020-11-15 — The Seed of Life - Ep 3 - The Farm — speakers: Catch DieFall
-- 2020-11-12 — Alderheart - Charity One-shot - Wakewyrm's Fury — speakers: Catch DieFall
-- 2020-11-02 — The Seed of Life - Ep 2 - Childcare — speakers: Catch DieFall
-- 2020-10-25 — The Seed of Life - Ep 1 - I'm an Adult! — speakers: Catch DieFall
-- 2020-10-18 — The Seed of Life - Ep 0 - Character Creation! — speakers: Catch DieFall
-- 2020-09-22 — Alderheart - Ep 29 - The End — speakers: Catch DieFall
-- 2020-09-13 — Alderheart - Ep 28 - Oakheart — speakers: Catch DieFall
-- 2020-08-16 — Alderheart - Ep 27 - Beneath the Ash — speakers: Catch DieFall
-- 2020-08-02 — Alderheart - Ep 26 - Ash and Frogs — speakers: Catch DieFall
-- 2020-07-26 — Alderheart - Ep 25 - Seers and Shopping — speakers: Catch DieFall
-- 2020-07-19 — Alderheart - Ep 24 - Going Home — speakers: Catch DieFall
-- 2020-07-10 — Alderheart - Ep 23 - Ebonheart — speakers: Catch DieFall
-- 2020-06-29 — Alderheart - Ep 22 - Unmasked — speakers: Catch DieFall
-- 2020-06-20 — Alderheart - Ep 21 - A Bump in the Night — speakers: Catch DieFall
-- 2020-06-14 — Alderheart - Ep 20 - Trust No One — speakers: Catch DieFall
-- 2020-05-31 — Alderheart - Ep 19 - What Lurks In The Shadows — speakers: Catch DieFall
-- 2020-05-24 — Alderheart - Ep 18 - If Books Could Kill — speakers: Catch DieFall
-- 2020-05-17 — Alderheart - Ep 17 - The Ancient Forest — speakers: Catch DieFall
-- 2020-05-03 — Alderheart - Ep 16 - The Road To The Avium — speakers: Catch DieFall
-- 2020-04-26 — Alderheart - Ep 15 - A Brush With Death — speakers: Catch DieFall
-- 2020-04-13 — Alderheart - Ep 14 - Ashes — speakers: Catch DieFall
-- 2020-04-06 — Alderheart - Ep 13 - The Road Ahead — speakers: Catch DieFall
-- 2020-03-22 — Alderheart - Ep 12 - The Trial — speakers: Catch DieFall
-- 2020-03-16 — Alderheart - Ep 11 - A Helping Hand — speakers: Catch DieFall
-- 2020-03-08 — Alderheart - Ep 10 - A Deal Made — speakers: Catch DieFall
-- 2020-02-23 — Alderheart - Ep 9 - The General — speakers: Catch DieFall
-- 2020-02-16 — Alderheart - Ep 8 - The Mountain Pass — speakers: Catch DieFall
-- 2020-02-10 — Alderheart - Ep 7 - The Harp — speakers: Catch DieFall
-- 2020-02-04 — Alderheart - Ep 6 - A Day in the City — speakers: Catch DieFall
-- 2020-01-25 — Alderheart - Ep 5 - Attack! — speakers: Catch DieFall
-- 2020-01-14 — Alderheart - Ep 4 - Arrival — speakers: Catch DieFall
-- 2020-01-02 — Alderheart - Ep 3 - Mokkden Caverns — speakers: Catch DieFall
-- 2019-12-13 — Alderheart - Ep 2 - An Incredible Performance — speakers: Catch DieFall
-- 2019-12-06 — Alderheart - Ep 1 - The Adventure Begins — speakers: Catch DieFall
+- 2021-11-29 — RUIN: Crimson - Episode 4 - Plans — speakers: Plans Support
+- 2021-11-25 — RUIN: Auric - Episode 6 - Arguments and Tea — speakers: Tea Support
+- 2021-11-23 — Strixhaven: A Curriculum of Chaos - Ep 2
+- 2021-11-19 — Descent into Avernus - Ep 18 - Mummy's the Word
+- 2021-11-16 — Strixhaven: A Curriculum of Chaos - Ep 1
+- 2021-11-10 — RUIN: Auric - Episode 5 - Plans — speakers: Plans Support
+- 2021-11-10 — RUIN: Lapis - Episode 4 - Freedom?
+- 2021-11-03 — Descent into Avernus - Ep 17 - The Keep
+- 2021-11-03 — Descent into Avernus - Ep 16 - New Friend? — speakers: New Friend
+- 2021-10-30 — RUIN: Crimson - Episode 3 - Flight — speakers: Flight Support
+- 2021-10-27 — RUIN: Auric - Episode 4 - The High Seas
+- 2021-10-23 — RUIN: Lapis - Episode 3 - The Warden — speakers: Warden Support
+- 2021-10-16 — RUIN: Crimson - Episode 2 - The Bridge
+- 2021-10-13 — RUIN: Auric - Episode 3 - Dogs?
+- 2021-10-08 — RUIN: Lapis - Episode 2 - The Green Door — speakers: Door Support
+- 2021-10-04 — Descent into Avernus - Ep 15 - Candlekeep — speakers: Candlekeep Support
+- 2021-09-27 — RUIN: Auric - Episode 2 - Andre — speakers: Andre Support
+- 2021-09-26 — Descent into Avernus - Ep 14 - The Road Ahead
+- 2021-09-13 — RUIN: Crimson - Episode 1 - Closing In
+- 2021-09-10 — RUIN: Auric - Episode 1 - Of Ducks and Blood — speakers: Blood Support
+- 2021-09-06 — RUIN: Lapis - Episode 1 - Awakening — speakers: Awakening Support
+- 2021-08-30 — Descent into Avernus - Ep 13 - Did You Need a Re-cap?
+- 2021-08-16 — Descent into Avernus - Ep 12 - Decisions, Decisions — speakers: Decisions Support
+- 2021-08-02 — Descent into Avernus - Ep 11 - Another Basement — speakers: Another Basement Support
+- 2021-07-19 — Descent into Avernus - Ep 10 - Rude Awakening
+- 2021-07-07 — Descent into Avernus - Ep 9 - Amrick
+- 2021-07-07 — Descent into Avernus - Ep 8 - The Water Queen
+- 2021-02-07 — The Seed of Life - Ep 12 - The End — speakers: Audio Recording
+- 2021-01-31 — The Seed of Life - Ep 11 - The Shadow — speakers: Audio Recording
+- 2021-01-23 — The Seed of Life - Ep 10 - Memories — speakers: Audio Recording
+- 2021-01-20 — The Seed of Life - Ep 9 - The Thorn Wall — speakers: Audio Recording
+- 2021-01-11 — The Seed of Life - Ep 8 - Cuddle Bros — speakers: Audio Recording
+- 2020-12-27 — The Seed of Life - Ep 7 - I Speak for the Trees — speakers: Audio Recording
+- 2020-12-20 — The Seed of Life - Ep 6 - Consequences?! — speakers: Audio Recording
+- 2020-12-07 — The Seed of Life - Ep 5 - BURN IT DOWN! — speakers: Audio Recording
+- 2020-11-22 — The Seed of Life - Ep 4 - Ham's Allied Alliance — speakers: Audio Recording
+- 2020-11-15 — The Seed of Life - Ep 3 - The Farm — speakers: Audio Recording
+- 2020-11-12 — Alderheart - Charity One-shot - Wakewyrm's Fury — speakers: Charity One
+- 2020-11-02 — The Seed of Life - Ep 2 - Childcare — speakers: Audio Recording
+- 2020-10-25 — The Seed of Life - Ep 1 - I'm an Adult! — speakers: Audio Recording
+- 2020-10-18 — The Seed of Life - Ep 0 - Character Creation! — speakers: Character Creation
+- 2020-09-22 — Alderheart - Ep 29 - The End
+- 2020-09-13 — Alderheart - Ep 28 - Oakheart
+- 2020-08-16 — Alderheart - Ep 27 - Beneath the Ash
+- 2020-08-02 — Alderheart - Ep 26 - Ash and Frogs
+- 2020-07-26 — Alderheart - Ep 25 - Seers and Shopping
+- 2020-07-19 — Alderheart - Ep 24 - Going Home
+- 2020-07-10 — Alderheart - Ep 23 - Ebonheart
+- 2020-06-29 — Alderheart - Ep 22 - Unmasked — speakers: Unmasked Thanks
+- 2020-06-20 — Alderheart - Ep 21 - A Bump in the Night — speakers: Night Thanks
+- 2020-06-14 — Alderheart - Ep 20 - Trust No One — speakers: Trust No One Thanks
+- 2020-05-31 — Alderheart - Ep 19 - What Lurks In The Shadows
+- 2020-05-24 — Alderheart - Ep 18 - If Books Could Kill — speakers: If Books Could Kill
+- 2020-05-17 — Alderheart - Ep 17 - The Ancient Forest
+- 2020-05-03 — Alderheart - Ep 16 - The Road To The Avium
+- 2020-04-26 — Alderheart - Ep 15 - A Brush With Death
+- 2020-04-13 — Alderheart - Ep 14 - Ashes
+- 2020-04-06 — Alderheart - Ep 13 - The Road Ahead
+- 2020-03-22 — Alderheart - Ep 12 - The Trial
+- 2020-03-16 — Alderheart - Ep 11 - A Helping Hand
+- 2020-03-08 — Alderheart - Ep 10 - A Deal Made
+- 2020-02-23 — Alderheart - Ep 9 - The General
+- 2020-02-16 — Alderheart - Ep 8 - The Mountain Pass
+- 2020-02-10 — Alderheart - Ep 7 - The Harp
+- 2020-02-04 — Alderheart - Ep 6 - A Day in the City
+- 2020-01-25 — Alderheart - Ep 5 - Attack!
+- 2020-01-14 — Alderheart - Ep 4 - Arrival
+- 2020-01-02 — Alderheart - Ep 3 - Mokkden Caverns
+- 2019-12-13 — Alderheart - Ep 2 - An Incredible Performance
+- 2019-12-06 — Alderheart - Ep 1 - The Adventure Begins
 - 2019-11-06 — Phantoms - Ep 3 - The Loop
-- 2019-10-26 — Phantoms - Ep 2 - On the Run
-- 2019-10-18 — Phantoms - Ep 1 - Group Therapy
-- 2019-10-16 — Waterdeep: Dragon Heist - FINALE - Ep 19 - The Vault
+- 2019-10-26 — Phantoms - Ep 2 - On the Run — speakers: Run Welcome
+- 2019-10-18 — Phantoms - Ep 1 - Group Therapy — speakers: Group Therapy Welcome
+- 2019-10-16 — Waterdeep: Dragon Heist - FINALE - Ep 19 - The Vault — speakers: Dragon Heist
 - 2019-10-07 — Waterdeep: Dragon Heist - Ep 18 - Dinner, Dates, and Constructs
 - 2019-10-04 — Cypress - Ep 14 - SEASON 1 FINALE - Fugitives
-- 2019-09-23 — Waterdeep: Dragon Heist - Ep 17 - Doppelganger
+- 2019-09-23 — Waterdeep: Dragon Heist - Ep 17 - Doppelganger — speakers: Dragon Heist, Doppelganger Welcome
 - 2019-09-20 — DieFall: Cypress - Ep 13 - A Good Wine
-- 2019-09-10 — Waterdeep: Dragon Heist - Ep 16 - Stone of Golorr
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 15 - Necromancy
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 14 - The Forbidden Lock
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 13 - City of the Dead
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 12 - The Nimblewright
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 11 - Hello, Tipo
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 10 - Gralhund Manor
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 9 - Aftermath
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 8 - Dark Alleys and Fireballs
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 7 - Maxeen the Mare
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 6 - Meeting Mirt
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 5 - Blackstaff Tower
-- 2019-09-07 — Waterdeep: Dragon Heist - Ep 4 - Trollskull Manor
+- 2019-09-10 — Waterdeep: Dragon Heist - Ep 16 - Stone of Golorr — speakers: Dragon Heist, Golorr Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 15 - Necromancy — speakers: Dragon Heist, Necromancy Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 14 - The Forbidden Lock — speakers: Dragon Heist
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 13 - City of the Dead — speakers: Dragon Heist, Dead Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 12 - The Nimblewright — speakers: Dragon Heist
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 11 - Hello, Tipo — speakers: Dragon Heist, Tipo Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 10 - Gralhund Manor — speakers: Dragon Heist, Gralhund Manor Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 9 - Aftermath — speakers: Dragon Heist, Aftermath Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 8 - Dark Alleys and Fireballs — speakers: Dragon Heist, Dark Alleys, Fireballs Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 7 - Maxeen the Mare — speakers: Dragon Heist, Mare Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 6 - Meeting Mirt — speakers: Dragon Heist, Meeting Mirt Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 5 - Blackstaff Tower — speakers: Dragon Heist, Blackstaff Tower Welcome
+- 2019-09-07 — Waterdeep: Dragon Heist - Ep 4 - Trollskull Manor — speakers: Dragon Heist, Trollskull Manor Welcome
 - 2019-09-07 — Cypress - Ep 12 - Madness
-- 2019-09-06 — Waterdeep: Dragon Heist - Ep 3 - Floon Blagmaar
+- 2019-09-06 — Waterdeep: Dragon Heist - Ep 3 - Floon Blagmaar — speakers: Dragon Heist, Floon Blagmaar Welcome
 - 2019-08-27 — Cypress - Ep 11 - Mysteries Abound
-- 2019-08-23 — Cypress - Ep 10 - Levels
-- 2019-08-18 — Cypress - Ep 9 - Daring Plans
-- 2019-08-10 — Cypress - Ep 8 - Friends, Family, and Frogs
+- 2019-08-23 — Cypress - Ep 10 - Levels — speakers: Levels Welcome
+- 2019-08-18 — Cypress - Ep 9 - Daring Plans — speakers: Daring Plans Welcome
+- 2019-08-10 — Cypress - Ep 8 - Friends, Family, and Frogs — speakers: Frogs Welcome
 - 2019-07-28 — Cypress - Ep 7 - Close Talking
 - 2019-07-19 — Cypress - Ep 6 - Tipsy Turtle
 - 2019-07-14 — Cypress - Ep 5 - Hunting
 - 2019-06-28 — Cypress - Ep 4 - Burial Rites
-- 2019-06-17 — Waterdeep: Dragon Heist - Ep 2 - Recovery
+- 2019-06-17 — Waterdeep: Dragon Heist - Ep 2 - Recovery — speakers: Dragon Heist, Recovery Welcome
 - 2019-06-14 — Cypress - Ep 3 - Scooby and the Gang
-- 2019-06-09 — Waterdeep: Dragon Heist - Ep 1 - The Yawning Portal
+- 2019-06-09 — Waterdeep: Dragon Heist - Ep 1 - The Yawning Portal — speakers: Dragon Heist
 - 2019-06-08 — Cypress - Ep 2 - Crocodile Rock
 - 2019-06-08 — Cypress - Ep 1 - The Drunken Frog

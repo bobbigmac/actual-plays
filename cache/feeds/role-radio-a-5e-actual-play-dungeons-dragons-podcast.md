@@ -2,8 +2,8 @@
 
 - slug: `role-radio-a-5e-actual-play-dungeons-dragons-podcast`
 - source: `https://feeds.redcircle.com/721aa1af-1a3d-4127-a0b9-7f1c74c64231`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/role_radio",
   "description": "Welcome to Role Radio, an actual play, 5th Edition, Dungeons & Dragons Podcast. We are a group of old friends who get together every week and have fun playing D&D, and fun for us is role playing, rolling dice, and rolling on the floor laughing. We then take that fun time and edit it , fill it with music, sound effects, and surprises to create a fast paced, cinematic and compelling story so that you can have as much fun listening as we do playing. Join us as we travel to the Forgotten Realms and play Wizards of the Coast exciting adventure, Scourge of the Sword Coast. Will the players be able to save the Western Heartlands from the Red Wizards evil plans? Who Knows! Tune in and find out on Role Radio! Check us out at our website - https://roleradio.com",
   "image_url": "https://media.redcircle.com/images/2019/8/23/1/a849cb1e-4999-4dce-b26b-85c2fc9432ff_fd352b_15c46494-8000-47e5-b36c-2f888a696a55_a9155d89-8fbe-4d72-a618-ce3de3fac1f5_a73f8806-062f-4528-94c8-60579d761bf3_fd03ab16-3b80-4f94-a02a-56e91890729d_6abcaf3a-0d59-4e63-9557-22fd65d6b8ec_blob.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -169,7 +169,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63359686",
       "itunes_duration": "3959",
-      "speakers": [],
+      "speakers": [
+        "some treasure"
+      ],
       "topics": [
         "destiny"
       ]
@@ -186,7 +188,7 @@
       "enclosure_length": "73914827",
       "itunes_duration": "4619",
       "speakers": [
-        "perplexing topics"
+        "some per"
       ],
       "topics": [
         "good",
@@ -205,7 +207,7 @@
       "enclosure_length": "57117048",
       "itunes_duration": "3569",
       "speakers": [
-        "Giant Scorpions"
+        "Giant Sc"
       ],
       "topics": [
         "line",
@@ -273,7 +275,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52408320",
       "itunes_duration": "3275",
-      "speakers": [],
+      "speakers": [
+        "Standard Attack Pattern Delta"
+      ],
       "topics": [
         "standard",
         "attack",
@@ -292,9 +296,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46682279",
       "itunes_duration": "2917",
-      "speakers": [
-        "Death Boat"
-      ],
+      "speakers": [],
       "topics": [
         "karaptis"
       ]
@@ -378,9 +380,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64090279",
       "itunes_duration": "4005",
-      "speakers": [
-        "Jake scolding"
-      ],
+      "speakers": [],
       "topics": [
         "spark"
       ]
@@ -447,7 +447,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51436146",
       "itunes_duration": "3214",
-      "speakers": [],
+      "speakers": [
+        "Get Into"
+      ],
       "topics": [
         "fray"
       ]
@@ -463,7 +465,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70704901",
       "itunes_duration": "4419",
-      "speakers": [],
+      "speakers": [
+        "Red Wizard"
+      ],
       "topics": [
         "tank"
       ]
@@ -479,7 +483,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58678961",
       "itunes_duration": "3667",
-      "speakers": [],
+      "speakers": [
+        "Seems Like"
+      ],
       "topics": [
         "seam"
       ]
@@ -580,9 +586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53637120",
       "itunes_duration": "3352",
-      "speakers": [
-        "Ronnie James Dio"
-      ],
+      "speakers": [],
       "topics": [
         "condiment"
       ]
@@ -615,9 +619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69337338",
       "itunes_duration": "4333",
-      "speakers": [
-        "Fantasy Grounds"
-      ],
+      "speakers": [],
       "topics": [
         "potpourri"
       ]
@@ -667,10 +669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67208672",
       "itunes_duration": "4200",
-      "speakers": [
-        "Pat Benatar",
-        "Travis Bickle"
-      ],
+      "speakers": [],
       "topics": [
         "fantasy",
         "mayonnaise"
@@ -704,9 +703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63928529",
       "itunes_duration": "3995",
-      "speakers": [
-        "Glen Campbell"
-      ],
+      "speakers": [],
       "topics": [
         "chalice",
         "doom"
@@ -771,9 +768,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51311595",
       "itunes_duration": "3206",
-      "speakers": [
-        "Guido Sarducci"
-      ],
+      "speakers": [],
       "topics": [
         "jaunty"
       ]
@@ -875,8 +870,7 @@
       "enclosure_length": "91923017",
       "itunes_duration": "5745",
       "speakers": [
-        "Season Threecap",
-        "Cullen McGregor"
+        "Season Threecap"
       ],
       "topics": [
         "season",
@@ -914,7 +908,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70510132",
       "itunes_duration": "4406",
-      "speakers": [],
+      "speakers": [
+        "Separate Ways"
+      ],
       "topics": [
         "separate",
         "ways",
@@ -982,10 +978,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71403729",
       "itunes_duration": "4462",
-      "speakers": [
-        "dungeon slapstick",
-        "chases filled"
-      ],
+      "speakers": [],
       "topics": [
         "unfiery"
       ]
@@ -1037,9 +1030,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67359973",
       "itunes_duration": "4209",
-      "speakers": [
-        "Carly Simon"
-      ],
+      "speakers": [],
       "topics": [
         "glitter",
         "bomb"
@@ -1073,9 +1064,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60347036",
       "itunes_duration": "3771",
-      "speakers": [
-        "Secret Santa"
-      ],
+      "speakers": [],
       "topics": [
         "haela",
         "shrine"
@@ -1145,7 +1134,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57926217",
       "itunes_duration": "3620",
-      "speakers": [],
+      "speakers": [
+        "Chipity Chip"
+      ],
       "topics": [
         "chipity",
         "chip",
@@ -1306,11 +1297,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68733805",
       "itunes_duration": "4295",
-      "speakers": [
-        "Borble Snap",
-        "Flin Darber",
-        "Gorbin Devo"
-      ],
+      "speakers": [],
       "topics": [
         "s3e57",
         "missed"
@@ -1327,9 +1314,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74153900",
       "itunes_duration": "4634",
-      "speakers": [
-        "chair jousting"
-      ],
+      "speakers": [],
       "topics": [
         "pickle",
         "sticky"
@@ -1365,9 +1350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50779951",
       "itunes_duration": "3173",
-      "speakers": [
-        "podcasts Support"
-      ],
+      "speakers": [],
       "topics": [
         "jacket",
         "size"
@@ -1402,7 +1385,7 @@
       "enclosure_length": "38435108",
       "itunes_duration": "2402",
       "speakers": [
-        "supplement advice"
+        "Great Balls"
       ],
       "topics": [
         "great",
@@ -1601,9 +1584,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53835650",
       "itunes_duration": "3364",
-      "speakers": [
-        "Twinkle Toes Maneuver"
-      ],
+      "speakers": [],
       "topics": [
         "knee",
         "deep",
@@ -1711,7 +1692,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69226579",
       "itunes_duration": "4326",
-      "speakers": [],
+      "speakers": [
+        "throwing skivvies"
+      ],
       "topics": [
         "rolling",
         "high",
@@ -1803,9 +1786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65487934",
       "itunes_duration": "4092",
-      "speakers": [
-        "Bob Dylan"
-      ],
+      "speakers": [],
       "topics": [
         "better",
         "stretch",
@@ -1824,7 +1805,8 @@
       "enclosure_length": "72873691",
       "itunes_duration": "4554",
       "speakers": [
-        "Fantasy Violence"
+        "Fantasy Violence",
+        "Absurd Lan"
       ],
       "topics": [
         "premature",
@@ -1842,7 +1824,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65006863",
       "itunes_duration": "4062",
-      "speakers": [],
+      "speakers": [
+        "Got No More Bread",
+        "Bro Follow"
+      ],
       "topics": [
         "bread"
       ]
@@ -1896,7 +1881,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60918804",
       "itunes_duration": "3807",
-      "speakers": [],
+      "speakers": [
+        "Super Fun Time Friends"
+      ],
       "topics": [
         "super",
         "time",
@@ -1946,9 +1933,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65565675",
       "itunes_duration": "4097",
-      "speakers": [
-        "Holy Macaroni"
-      ],
+      "speakers": [],
       "topics": [
         "random",
         "fluid"
@@ -2054,9 +2039,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100133062",
       "itunes_duration": "3921",
-      "speakers": [
-        "Ray Ray"
-      ],
+      "speakers": [],
       "topics": [
         "stinky"
       ]
@@ -2072,9 +2055,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105804847",
       "itunes_duration": "4157",
-      "speakers": [
-        "Harpshield Castle"
-      ],
+      "speakers": [],
       "topics": [
         "forward"
       ]
@@ -2211,7 +2192,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87850561",
       "itunes_duration": "4092",
-      "speakers": [],
+      "speakers": [
+        "Jake sta"
+      ],
       "topics": [
         "looking",
         "cool"
@@ -2314,9 +2297,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81697227",
       "itunes_duration": "5106",
-      "speakers": [
-        "Sword Coast"
-      ],
+      "speakers": [],
       "topics": [
         "skivvy"
       ]
@@ -2336,63 +2317,63 @@
 - 2025-08-06 — S5E125 - Jake and the Cannonball
 - 2025-07-06 — S5E124 - Death Puzzle Playhouse
 - 2025-06-11 — S5E123 - The Crits Don't Quit
-- 2025-05-19 — S5E122 - Sitting On Destiny
-- 2025-04-17 — S5E121 - The Terrible, Horrible, No Good, Very Bad Day of Sea Lion One — speakers: perplexing topics
-- 2025-03-17 — S5E120 - Getting in Line for Chad — speakers: Giant Scorpions
+- 2025-05-19 — S5E122 - Sitting On Destiny — speakers: some treasure
+- 2025-04-17 — S5E121 - The Terrible, Horrible, No Good, Very Bad Day of Sea Lion One — speakers: some per
+- 2025-03-17 — S5E120 - Getting in Line for Chad — speakers: Giant Sc
 - 2025-02-20 — S5E119 - It's Just D&D Water
 - 2025-01-18 — S5E118 - What Level Moron Are You?
 - 2024-12-18 — S5E117 - The Kiss That Stopped the Rage
-- 2024-11-28 — S5E116 - Standard Attack Pattern Delta
-- 2024-10-25 — S5E115 - SS Karaptis — speakers: Death Boat
+- 2024-11-28 — S5E116 - Standard Attack Pattern Delta — speakers: Standard Attack Pattern Delta
+- 2024-10-25 — S5E115 - SS Karaptis
 - 2024-09-29 — S3E114 - The Last Fun Thing We Do
 - 2024-09-02 — S5E113 - Let's Get Naked! — speakers: Get Naked
 - 2024-08-18 — S5E112 - Whatever...
 - 2024-07-27 — S5E111 - Tertiary Those Guys
-- 2024-07-10 — S5E110 - Does This Spark Joy? — speakers: Jake scolding
+- 2024-07-10 — S5E110 - Does This Spark Joy?
 - 2024-06-24 — S5E109 - Slash, No Good
 - 2024-06-09 — S5E108 - Season Fourcap
 - 2024-02-17 — S4E107 - Half Gainer
-- 2024-01-29 — S4E106 - Get Into the Fray
-- 2024-01-15 — S4E105 - Tanks For Going First
-- 2023-12-20 — S4E104 - Seems Like a Seam
+- 2024-01-29 — S4E106 - Get Into the Fray — speakers: Get Into
+- 2024-01-15 — S4E105 - Tanks For Going First — speakers: Red Wizard
+- 2023-12-20 — S4E104 - Seems Like a Seam — speakers: Seems Like
 - 2023-12-05 — S4E103 - Dolphin Floshin
 - 2023-11-21 — S4E102 - Itches for Niches
 - 2023-10-31 — S4E101 - Stealing Doilies
 - 2023-10-16 — S4E100 - It Smells of Evil and Dirty Carpet — speakers: Dirty Carpet
 - 2023-09-25 — S4E99 - Who Killed Bobby?
-- 2023-09-09 — S4E98 - Double-Edged Condiment — speakers: Ronnie James Dio
+- 2023-09-09 — S4E98 - Double-Edged Condiment
 - 2023-08-14 — S4E97 - Zombie Situation
-- 2023-07-30 — S4E96 - Elf Potpourri — speakers: Fantasy Grounds
+- 2023-07-30 — S4E96 - Elf Potpourri
 - 2023-07-09 — S4E95 - 400 Feet Worth of Seconds
 - 2023-06-11 — S4E94 - That Festival
-- 2023-05-29 — S4E93 - Fantasy Mayonnaise — speakers: Pat Benatar, Travis Bickle
+- 2023-05-29 — S4E93 - Fantasy Mayonnaise
 - 2023-05-08 — S4E92 - Premature Gorming
-- 2023-04-17 — S4E91 - Chalice of Doom — speakers: Glen Campbell
+- 2023-04-17 — S4E91 - Chalice of Doom
 - 2023-03-20 — S4E90 - Aisle 6 Bin 23
 - 2023-03-06 — S4E89 - House of Those Guys
 - 2023-02-13 — S4E88 - Let's Check the Tapes
-- 2023-01-28 — S4E87 - Quite Jaunty — speakers: Guido Sarducci
+- 2023-01-28 — S4E87 - Quite Jaunty
 - 2023-01-09 — S4E86 - Walking Is For The Birds
 - 2022-12-19 — S4E85 - Oghma Velva
 - 2022-12-05 — S4E84 - Jake is a Plant
 - 2022-11-21 — S4E83 - Between Weal and Woe — speakers: Between Weal
 - 2022-11-07 — S4E82 - Goddess of Stew
-- 2022-10-16 — Season Threecap — speakers: Season Threecap, Cullen McGregor
+- 2022-10-16 — Season Threecap — speakers: Season Threecap
 - 2022-07-29 — S3E80 - Ye Oldy Firehammer Holdy — speakers: Firehammer Holdy
-- 2022-07-12 — S3E79 - Separate Ways on an Endless Loop
+- 2022-07-12 — S3E79 - Separate Ways on an Endless Loop — speakers: Separate Ways
 - 2022-06-20 — S3E78 - The Juice Ain't Worth the Squeeze
 - 2022-06-06 — S3E77 - Whose Nipples Are Burning Now!
 - 2022-05-16 — S3E76 - Jezebel 6295
-- 2022-05-02 — S3E75 - I Need To Get Unfiery — speakers: dungeon slapstick, chases filled
+- 2022-05-02 — S3E75 - I Need To Get Unfiery
 - 2022-04-18 — S3E74 - No Stew For You, Buddy!
 - 2022-04-04 — S3E73 - Egomaniacal Jerk Bag — speakers: Jerk Bag
-- 2022-03-21 — S3E72 - Glitter Bomb — speakers: Carly Simon
+- 2022-03-21 — S3E72 - Glitter Bomb
 - 2022-03-07 — S3E71 - Shed A Tear For Boromir
-- 2022-02-20 — S3E70 - Moving Day In Haela's Shrine — speakers: Secret Santa
+- 2022-02-20 — S3E70 - Moving Day In Haela's Shrine
 - 2022-02-07 — S3E69 - Land of Peepholes
 - 2022-01-24 — S3E68: Hence He Sayith, "STAT!"
 - 2022-01-10 — S3E67 - Daylightius For The Rest Of Us — speakers: Firehammer Hold
-- 2021-12-13 — S3E66 - Chipity Chip, Byeeeee!
+- 2021-12-13 — S3E66 - Chipity Chip, Byeeeee! — speakers: Chipity Chip
 - 2021-11-29 — S3E65 - Thumbs Are So Crazy — speakers: Hurdy Gurdy
 - 2021-11-15 — S3E64 - 100% Bolivian
 - 2021-10-31 — S3E63 - Damn You, Blocks and Mortar!
@@ -2401,12 +2382,12 @@
 - 2021-09-13 — S3E60 - Hand Me Brain Number 50 — speakers: Hand Me Brain Number
 - 2021-08-16 — S3E59 - One Hit Wonder
 - 2021-08-02 — S3E58 - If You Had Knees You'd Be Slapping Them
-- 2021-07-19 — S3E57 - You Missed More Than You Can Chew — speakers: Borble Snap, Flin Darber, Gorbin Devo
-- 2021-07-05 — S3E56 - That Pickle Is Sticky! — speakers: chair jousting
+- 2021-07-19 — S3E57 - You Missed More Than You Can Chew
+- 2021-07-05 — S3E56 - That Pickle Is Sticky!
 - 2021-06-21 — S3E55 - Mini Dwarven Vacation, or A Road Filled with Blood?
-- 2021-06-07 — S3E54 - Jacket Size 12 — speakers: podcasts Support
+- 2021-06-07 — S3E54 - Jacket Size 12
 - 2021-05-24 — S3E53 - Kobayashi Maru
-- 2021-05-09 — S3E52 - Great Balls of Goof — speakers: supplement advice
+- 2021-05-09 — S3E52 - Great Balls of Goof — speakers: Great Balls
 - 2021-04-25 — S3E51 - Keraptis Pants — speakers: Keraptis Pants Blood
 - 2021-03-29 — S3E50 - A Belt and Suspenders Type of Gal — speakers: Suspenders Type, Gal Blood
 - 2021-03-15 — S3E49 - Ice Bucket? — speakers: Ice Bucket
@@ -2417,33 +2398,33 @@
 - 2020-12-21 — S2E44- Bunch Of Vasholes
 - 2020-12-07 — S2E43 - Thunder Wavius Gravious
 - 2020-11-16 — S2E42: Can't Get Any Wetter
-- 2020-11-02 — S2E41 - Knee Deep In Holy Water — speakers: Twinkle Toes Maneuver
+- 2020-11-02 — S2E41 - Knee Deep In Holy Water
 - 2020-10-19 — S2E40 - Happy-Go-Lucky Warriors
 - 2020-10-04 — S2E39 - Fools Of Great Worth
 - 2020-09-20 — S2E38 - We're Not Playing Empty Dungeons — speakers: Not Playing Empty Dungeons, Phylund Lodge
 - 2020-09-07 — S2E37 - Chop... Gurgle... Mother!
 - 2020-08-16 — S2E36 - What Are You Thayan?
-- 2020-08-02 — S2E35 - Rolling High With Oghma
+- 2020-08-02 — S2E35 - Rolling High With Oghma — speakers: throwing skivvies
 - 2020-07-19 — S2E34 - Crouching Gnome, Hidden Boar — speakers: Hidden Boar Listen, Shrinky Dinks
 - 2020-07-05 — S2E33 - Hey Grickhole, Where You Goin? — speakers: Hey Grickhole
 - 2020-06-22 — S2E32 - It's Like Putting Frosting On A Cake, But Somebody Dies
 - 2020-06-08 — S2E31 - Dear Father, Still Alive, the Killing Has Been Good
-- 2020-05-25 — S2E30 - Better Stretch Out Your Hammies — speakers: Bob Dylan
-- 2020-05-11 — S2E29 - Premature Thaumaturgy — speakers: Fantasy Violence
-- 2020-04-27 — S1E28 - I Got No More Bread Bro
+- 2020-05-25 — S2E30 - Better Stretch Out Your Hammies
+- 2020-05-11 — S2E29 - Premature Thaumaturgy — speakers: Fantasy Violence, Absurd Lan
+- 2020-04-27 — S1E28 - I Got No More Bread Bro — speakers: Got No More Bread, Bro Follow
 - 2020-04-13 — S1E27 - I Need Armor, I Need Quills, I Need Little Tiny Pills!
 - 2020-03-30 — S2E26 - Deducted, Deduced, and Dedungled
-- 2020-03-16 — S2E25 - Super Fun Time Friends
+- 2020-03-16 — S2E25 - Super Fun Time Friends — speakers: Super Fun Time Friends
 - 2020-02-24 — S1E24 - The Night of the Twenty
 - 2020-02-18 — S1E23 - Where You Going With Me Ogre!
-- 2020-02-09 — S1E22 - We Are Random Fluid — speakers: Holy Macaroni
+- 2020-02-09 — S1E22 - We Are Random Fluid
 - 2020-02-02 — S1E21 - Come Get Your Orc Kabobs!
 - 2020-01-26 — S1E20 - Skivvies of Gleaming — speakers: Gleaming Join
 - 2020-01-19 — S1E19 - Money...Power...Ladies — speakers: Walking Dead
 - 2020-01-12 — S1E18 - There's a Body Floating in the Poo! — speakers: Body Floating
 - 2020-01-06 — S1E17 - Jake and Bake
-- 2019-12-16 — S1E16 - Stinky Poo Poo — speakers: Ray Ray
-- 2019-12-09 — S1E15 - Hot and Forward — speakers: Harpshield Castle
+- 2019-12-16 — S1E16 - Stinky Poo Poo
+- 2019-12-09 — S1E15 - Hot and Forward
 - 2019-12-02 — S1E14 - Just Another Grick In The Wall — speakers: Castle Ruins
 - 2019-11-18 — S1E13 - We Just Wanna Rest!
 - 2019-11-12 — S1E12 - Anybody Got A Towel? — speakers: Anybody Got
@@ -2451,10 +2432,10 @@
 - 2019-10-28 — S1E10 - Ducks In A Barrel
 - 2019-10-21 — S1E09 - SCFWOT
 - 2019-10-14 — S1E08 - I Only Died Once Today — speakers: Only Died Once Today
-- 2019-10-06 — S1E07 - Looking Cool Will Get You Killed
+- 2019-10-06 — S1E07 - Looking Cool Will Get You Killed — speakers: Jake sta
 - 2019-09-29 — S1E06 - High Fives In A Bro Like Manner — speakers: Bro Like Manner Join
 - 2019-09-22 — S1E05 - Take A Cold Shower, We Got Guys To Kill!
 - 2019-09-15 — S1E04 - You Gotta Be Julkoun
 - 2019-09-09 — S1E03 - Something Foul Is Going On Here
 - 2019-09-01 — S1E02 - Sherlyn, You Must Be Joking
-- 2019-08-18 — S1E01: Go Pack Your Skivvies! — speakers: Sword Coast
+- 2019-08-18 — S1E01: Go Pack Your Skivvies!

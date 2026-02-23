@@ -2,9 +2,9 @@
 
 - slug: `godfall-dnd`
 - source: `https://anchor.fm/s/46ae158c/podcast/rss`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- etag: `W/"46c4-JZeHbD8JYxRhFXkpXsma72Y+CZk"`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
+- etag: `W/"46c4-URFNaak8Sgu+ORonyYdtxr+U7Dc"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.youtube.com/channel/UCl4CbObCjLNJC9U4Rmb3vyw",
   "description": "Welcome to Godfall! A podcast that focuses on Dungeons and Dragons with a mix of campaign and lore as well as some bonus content. Jarrod aka Zuro Duce is DMing and hosting an extraordinary set of players who's priority is to have fun, play some dang DnD, and tell an awesome story.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11758139/11758139-1610305251066-12fe60cf38755.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -54,9 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156402580",
       "itunes_duration": "01:05:10",
-      "speakers": [
-        "Michael Ghelfi"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon",
         "adolam"
@@ -238,7 +236,7 @@
 ## Episodes (newest first)
 
 - 2021-09-07 — 10. The First Dungeon - The Puzzle
-- 2021-08-23 — 9. The First Dungeon: Adolam — speakers: Michael Ghelfi
+- 2021-08-23 — 9. The First Dungeon: Adolam
 - 2021-08-12 — 8. The Festival Saga: The First "Poof"
 - 2021-08-03 — 7. The Festival Saga: The Atonement
 - 2021-07-12 — 6. The Festival Saga: Attack of the Fedora Dwarves

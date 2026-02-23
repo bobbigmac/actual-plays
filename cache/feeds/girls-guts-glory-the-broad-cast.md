@@ -2,9 +2,9 @@
 
 - slug: `girls-guts-glory-the-broad-cast`
 - source: `https://pinecast.com/feed/girls-guts-glory`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- last_modified: `Mon, 23 Feb 2026 19:21:09 GMT`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
+- last_modified: `Mon, 23 Feb 2026 21:42:51 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.girlsgutsgloryrpg.com/",
   "description": "The ladies of Girls Guts Glory bring you new characters and a new Dungeons & Dragons campaign in podcast form! Join us for thrilling storytelling by Dungeon Master Kelly D'Angelo, with twists determined by the roll of the dice. Kimberly Daugherty, Erika Fermina, Rachel Seeley, Alice Greczyn, Kelen Coleman and Allie Gonino are back playing new characters with an all new storyline! Don't worry, their livestream will return once they have a studio and we'll find out what happened to Moira. In the meantime, enjoy!",
   "image_url": "https://storage.pinecast.net/podcasts/covers/c9f390e7-576f-49d8-b454-813986966832/GGGbroadcastclean.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,13 +37,8 @@
       "enclosure_length": "65431399",
       "itunes_duration": "01:29:53",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Ball Girls Guts Glory",
+        "Girls Guts Glory"
       ],
       "topics": [
         "magi",
@@ -61,15 +56,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55365611",
       "itunes_duration": "00:57:03",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "wood"
       ]
@@ -86,13 +73,8 @@
       "enclosure_length": "67153597",
       "itunes_duration": "00:55:51",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Trinity Girls Guts Glory",
+        "Trinity Continuing"
       ],
       "topics": [
         "trinity"
@@ -109,15 +91,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68575369",
       "itunes_duration": "01:11:13",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "interrogation"
       ]
@@ -134,13 +108,8 @@
       "enclosure_length": "68997083",
       "itunes_duration": "01:11:30",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Into Darkness Girls Guts",
+        "Into Darkness After Reked"
       ],
       "topics": [
         "darkness"
@@ -157,15 +126,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74338518",
       "itunes_duration": "01:01:45",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "magi",
         "festival"
@@ -183,14 +144,7 @@
       "enclosure_length": "53836227",
       "itunes_duration": "00:44:42",
       "speakers": [
-        "Kidney Stone",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Kidney Stone"
       ],
       "topics": [
         "magical",
@@ -209,15 +163,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74907019",
       "itunes_duration": "01:02:16",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "nile"
       ]
@@ -234,13 +180,7 @@
       "enclosure_length": "76776010",
       "itunes_duration": "01:03:38",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Guts Glory"
       ],
       "topics": [
         "soul",
@@ -259,14 +199,7 @@
       "enclosure_length": "59663251",
       "itunes_duration": "01:01:29",
       "speakers": [
-        "Kelly D'Angelo",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Floating Golem Girls Guts"
       ],
       "topics": [
         "golem"
@@ -284,13 +217,7 @@
       "enclosure_length": "68015664",
       "itunes_duration": "01:20:29",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Arcana International Cel"
       ],
       "topics": [
         "vault"
@@ -307,15 +234,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59764922",
       "itunes_duration": "00:49:36",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -329,15 +248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71057783",
       "itunes_duration": "00:59:00",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "rescue"
       ]
@@ -354,13 +265,7 @@
       "enclosure_length": "54412838",
       "itunes_duration": "00:44:55",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Guts Glory"
       ],
       "topics": [
         "celine"
@@ -377,15 +282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64979449",
       "itunes_duration": "00:53:51",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "heddy",
         "dance"
@@ -403,13 +300,7 @@
       "enclosure_length": "69077368",
       "itunes_duration": "00:57:30",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Guts Glory"
       ],
       "topics": [
         "covault"
@@ -426,15 +317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69979280",
       "itunes_duration": "00:58:15",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "journal"
       ]
@@ -450,15 +333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70209208",
       "itunes_duration": "00:58:27",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "desperate",
         "time"
@@ -475,15 +350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75424398",
       "itunes_duration": "01:02:48",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "office"
       ]
@@ -500,14 +367,8 @@
       "enclosure_length": "81043762",
       "itunes_duration": "01:07:29",
       "speakers": [
-        "Thomas Chambers",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Song Girls Guts Glory",
+        "Song Still"
       ],
       "topics": [
         "reked",
@@ -526,14 +387,8 @@
       "enclosure_length": "68918202",
       "itunes_duration": "01:11:43",
       "speakers": [
-        "Thomas Chambers Trumppoll",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Cosmos Cosmology Girls Guts",
+        "Arcana International"
       ],
       "topics": [
         "cosmos",
@@ -553,13 +408,7 @@
       "itunes_duration": "01:05:22",
       "speakers": [
         "Sensual Soup Girls Guts",
-        "Sensual Soup",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient"
+        "Sensual Soup"
       ],
       "topics": [
         "sensual",
@@ -577,15 +426,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68767120",
       "itunes_duration": "00:57:15",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "professor"
       ]
@@ -602,14 +443,7 @@
       "enclosure_length": "78008398",
       "itunes_duration": "00:54:07",
       "speakers": [
-        "Starla Highhill",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Guts Glory"
       ],
       "topics": [
         "starla"
@@ -626,15 +460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74396186",
       "itunes_duration": "01:01:42",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "clown"
       ]
@@ -650,15 +476,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77095704",
       "itunes_duration": "01:03:57",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "sentinel",
         "wyrm"
@@ -675,15 +493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80235774",
       "itunes_duration": "00:55:29",
-      "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
-      ],
+      "speakers": [],
       "topics": [
         "candlekeep"
       ]
@@ -700,14 +510,8 @@
       "enclosure_length": "75177701",
       "itunes_duration": "01:02:38",
       "speakers": [
-        "Interesting Non-player",
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Satyr Party Girls Guts",
+        "Satyr Party One Fire"
       ],
       "topics": [
         "satyr",
@@ -726,13 +530,8 @@
       "enclosure_length": "76992324",
       "itunes_duration": "00:53:13",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Forest Girls Guts Glory",
+        "Shadow Assass"
       ],
       "topics": [
         "forest"
@@ -750,13 +549,7 @@
       "enclosure_length": "81273734",
       "itunes_duration": "01:24:18",
       "speakers": [
-        "Kelly Lynne D'Angelo",
-        "Instagram Twitter",
-        "Alice Greczyn",
-        "Druzilda Slinderon Instagram Twitter",
-        "Kelen Coleman",
-        "Fahroot Instagram Twitter Ambient",
-        "Youtube Girls Guts Glory"
+        "Guts Glory"
       ],
       "topics": [
         "shadow",
@@ -770,33 +563,33 @@
 
 ## Episodes (newest first)
 
-- 2020-01-27 — S1E30 - Episode 30: The Magi-Ball — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2020-01-20 — S1E29 - Episode 29: Into The Woods — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2020-01-13 — S1E28 - Episode 28: Trinity — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2020-01-06 — S1E27 - Episode 27: The Interrogation — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-12-30 — S1E26 - Episode 26: Into Darkness — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-12-23 — S1E25 - Episode 25: The Magi-Festival — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-12-16 — S1E24 - Episode 24: Magical Kidney Stone — speakers: Kidney Stone, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-12-09 — S1E23 - Episode 23: Niles — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-12-02 — S1E22 - Episode 22: The Soul Stake — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-11-25 — S1E21 - Episode 21: Floating Golem — speakers: Kelly D'Angelo, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-11-18 — S1E20 - Episode 20: The Vault — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-11-11 — S1E19 - Episode 19: The Next Day — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-11-04 — S1E18 - Episode 18: The Rescue — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-10-28 — S1E17 - Episode 17: Fight For Celine — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-10-21 — S1E16 - Episode 16: Heddy's Dance — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-10-14 — S1E15 - Episode 15: The New Covault — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-10-07 — S1E14 - Episode 14: The Journal — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-09-30 — S1E13 - Episode 13: Desperate Times — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-09-23 — S1E12 - Episode 12: The Office — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-09-16 — S1E11 - Episode 11: Reked's Song — speakers: Thomas Chambers, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-09-09 — Episode 10: Cosmos Cosmology — speakers: Thomas Chambers Trumppoll, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-09-02 — Episode 9: Sensual Soup — speakers: Sensual Soup Girls Guts, Sensual Soup, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient
-- 2019-08-26 — Episode 8: The Professor — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-08-19 — Episode 7: The Other Starla — speakers: Starla Highhill, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-08-12 — Episode 6: The Clown Show — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-08-05 — Episode 5: Sentinel Wyrm — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-07-29 — Episode 4: Enter Candlekeep — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-07-22 — Episode 3: Satyr Party — speakers: Interesting Non-player, Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-07-15 — Episode 2 - Lost in the Forest — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
-- 2019-07-11 — Episode 1 - The Shadow Assassin — speakers: Kelly Lynne D'Angelo, Instagram Twitter, Alice Greczyn, Druzilda Slinderon Instagram Twitter, Kelen Coleman, Fahroot Instagram Twitter Ambient, Youtube Girls Guts Glory
+- 2020-01-27 — S1E30 - Episode 30: The Magi-Ball — speakers: Ball Girls Guts Glory, Girls Guts Glory
+- 2020-01-20 — S1E29 - Episode 29: Into The Woods
+- 2020-01-13 — S1E28 - Episode 28: Trinity — speakers: Trinity Girls Guts Glory, Trinity Continuing
+- 2020-01-06 — S1E27 - Episode 27: The Interrogation
+- 2019-12-30 — S1E26 - Episode 26: Into Darkness — speakers: Into Darkness Girls Guts, Into Darkness After Reked
+- 2019-12-23 — S1E25 - Episode 25: The Magi-Festival
+- 2019-12-16 — S1E24 - Episode 24: Magical Kidney Stone — speakers: Kidney Stone
+- 2019-12-09 — S1E23 - Episode 23: Niles
+- 2019-12-02 — S1E22 - Episode 22: The Soul Stake — speakers: Guts Glory
+- 2019-11-25 — S1E21 - Episode 21: Floating Golem — speakers: Floating Golem Girls Guts
+- 2019-11-18 — S1E20 - Episode 20: The Vault — speakers: Arcana International Cel
+- 2019-11-11 — S1E19 - Episode 19: The Next Day
+- 2019-11-04 — S1E18 - Episode 18: The Rescue
+- 2019-10-28 — S1E17 - Episode 17: Fight For Celine — speakers: Guts Glory
+- 2019-10-21 — S1E16 - Episode 16: Heddy's Dance
+- 2019-10-14 — S1E15 - Episode 15: The New Covault — speakers: Guts Glory
+- 2019-10-07 — S1E14 - Episode 14: The Journal
+- 2019-09-30 — S1E13 - Episode 13: Desperate Times
+- 2019-09-23 — S1E12 - Episode 12: The Office
+- 2019-09-16 — S1E11 - Episode 11: Reked's Song — speakers: Song Girls Guts Glory, Song Still
+- 2019-09-09 — Episode 10: Cosmos Cosmology — speakers: Cosmos Cosmology Girls Guts, Arcana International
+- 2019-09-02 — Episode 9: Sensual Soup — speakers: Sensual Soup Girls Guts, Sensual Soup
+- 2019-08-26 — Episode 8: The Professor
+- 2019-08-19 — Episode 7: The Other Starla — speakers: Guts Glory
+- 2019-08-12 — Episode 6: The Clown Show
+- 2019-08-05 — Episode 5: Sentinel Wyrm
+- 2019-07-29 — Episode 4: Enter Candlekeep
+- 2019-07-22 — Episode 3: Satyr Party — speakers: Satyr Party Girls Guts, Satyr Party One Fire
+- 2019-07-15 — Episode 2 - Lost in the Forest — speakers: Forest Girls Guts Glory, Shadow Assass
+- 2019-07-11 — Episode 1 - The Shadow Assassin — speakers: Guts Glory

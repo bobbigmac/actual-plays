@@ -2,8 +2,8 @@
 
 - slug: `godsfall`
 - source: `https://feeds.redcircle.com/9447a3d1-6295-40b5-bc92-7f7ba0678160`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/godsfall1658",
   "description": "godsfall",
   "image_url": "https://media.redcircle.com/images/2025/4/29/20/b389e506-a993-45cf-89e7-6923901bba19_b0-4612-45a9-980e-bdf4648f447d_godsfall-s06e07.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -35,13 +35,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52176770",
       "itunes_duration": "3261",
-      "speakers": [
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "recharge",
         "regrow"
@@ -58,13 +52,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59381133",
       "itunes_duration": "3711",
-      "speakers": [
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "birthright"
       ]
@@ -80,13 +68,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50296790",
       "itunes_duration": "3143",
-      "speakers": [
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "plan"
       ]
@@ -103,8 +85,7 @@
       "enclosure_length": "67081195",
       "itunes_duration": "4192",
       "speakers": [
-        "Dylan Malenfant",
-        "YouTube Twitch Godsfall"
+        "Dylan Malenfant"
       ],
       "topics": [
         "chaos",
@@ -123,8 +104,7 @@
       "enclosure_length": "57804173",
       "itunes_duration": "3612",
       "speakers": [
-        "Dylan Malenfant",
-        "YouTube Twitch Godsfall"
+        "Dylan Malenfant"
       ],
       "topics": [
         "chaos",
@@ -143,8 +123,7 @@
       "enclosure_length": "51601240",
       "itunes_duration": "3225",
       "speakers": [
-        "Dylan Malenfant",
-        "YouTube Twitch Godsfall"
+        "Dylan Malenfant"
       ],
       "topics": [
         "chaos",
@@ -163,9 +142,7 @@
       "enclosure_length": "58695262",
       "itunes_duration": "3668",
       "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch Godsfall"
+        "Memory Sigma"
       ],
       "topics": [
         "depth",
@@ -183,13 +160,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50691761",
       "itunes_duration": "3168",
-      "speakers": [
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "flip",
         "coin"
@@ -206,14 +177,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61423281",
       "itunes_duration": "3838",
-      "speakers": [
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Niall O'Beirn",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "tried"
       ]
@@ -229,10 +193,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60275983",
       "itunes_duration": "3767",
-      "speakers": [
-        "Niall O'Beirn",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "world"
       ]
@@ -248,14 +209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65719066",
       "itunes_duration": "4107",
-      "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "chase"
       ]
@@ -272,13 +226,7 @@
       "enclosure_length": "42012839",
       "itunes_duration": "2625",
       "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Chris Zabriskie Godsfall"
+        "Godsfall Crew"
       ],
       "topics": [
         "time"
@@ -295,15 +243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46050324",
       "itunes_duration": "2878",
-      "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Chris Zabriskie Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "blast",
         "future"
@@ -320,15 +260,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47834592",
       "itunes_duration": "2989",
-      "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Chris Zabriskie Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "walls"
       ]
@@ -344,12 +276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54528626",
       "itunes_duration": "3408",
-      "speakers": [
-        "Aram Vartian",
-        "Michael Loving",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "stone"
@@ -366,12 +293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49791059",
       "itunes_duration": "3111",
-      "speakers": [
-        "Aram Vartian",
-        "Michael Loving",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "stone"
@@ -388,12 +310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51255588",
       "itunes_duration": "3203",
-      "speakers": [
-        "Aram Vartian",
-        "Michael Loving",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "stone"
@@ -410,14 +327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70086321",
       "itunes_duration": "4380",
-      "speakers": [
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Jon Luc Hefferman",
-        "Chris Zabriskie",
-        "Scott Holmes"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "home"
@@ -434,13 +344,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46808502",
       "itunes_duration": "2925",
-      "speakers": [
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Lee Rosevere",
-        "Toussaint Morrison"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -455,11 +359,7 @@
       "enclosure_length": "54507729",
       "itunes_duration": "3406",
       "speakers": [
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Lee Rosevere",
-        "Toussaint Morrison"
+        "Kodak Lightpainter Godsfall"
       ],
       "topics": [
         "kodak",
@@ -478,12 +378,7 @@
       "enclosure_length": "49542373",
       "itunes_duration": "3096",
       "speakers": [
-        "Bang Bang",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch Music",
-        "Lee Rosevere",
-        "Toussaint Morrison"
+        "Bang Bang"
       ],
       "topics": [
         "bang"
@@ -501,11 +396,8 @@
       "enclosure_length": "33855111",
       "itunes_duration": "2115",
       "speakers": [
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Lee Rosevere",
-        "Toussaint Morrison"
+        "Come Out",
+        "Play Lord Haldir"
       ],
       "topics": []
     },
@@ -520,12 +412,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55774563",
       "itunes_duration": "3485",
-      "speakers": [
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "future"
       ]
@@ -541,16 +428,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54557048",
       "itunes_duration": "3409",
-      "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman"
-      ],
+      "speakers": [],
       "topics": [
         "future",
         "present"
@@ -568,14 +446,7 @@
       "enclosure_length": "42410318",
       "itunes_duration": "2650",
       "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Gap Godsfall"
       ],
       "topics": []
     },
@@ -590,12 +461,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56057939",
       "itunes_duration": "3503",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -612,12 +478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51380558",
       "itunes_duration": "3211",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Chris Zabriskie"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -634,13 +495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58201652",
       "itunes_duration": "3637",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -657,13 +512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45666220",
       "itunes_duration": "2854",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -680,13 +529,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38207320",
       "itunes_duration": "2387",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -703,13 +546,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43863562",
       "itunes_duration": "2741",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -726,13 +563,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38091546",
       "itunes_duration": "2380",
-      "speakers": [
-        "Aram Vartian",
-        "Matt Clement",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "sigma"
@@ -750,14 +581,7 @@
       "enclosure_length": "55392966",
       "itunes_duration": "3462",
       "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Go Home Again Godsfall"
       ],
       "topics": [
         "home"
@@ -774,16 +598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44329586",
       "itunes_duration": "2770",
-      "speakers": [
-        "Doug Horn",
-        "Kelly Shaw",
-        "Michael Key",
-        "Joe Hasley",
-        "Haldir Loran",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
-      ],
+      "speakers": [],
       "topics": [
         "hail",
         "queen"
@@ -801,14 +616,7 @@
       "enclosure_length": "45876871",
       "itunes_duration": "2867",
       "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "Phryane Godsfall"
       ],
       "topics": [
         "court",
@@ -827,12 +635,7 @@
       "enclosure_length": "35593404",
       "itunes_duration": "2224",
       "speakers": [
-        "Carlos Luna",
-        "Stephen Kropa",
-        "Rugov Sezer",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Jackdaws Head North Godsfall"
       ],
       "topics": [
         "jackdaws",
@@ -852,14 +655,7 @@
       "enclosure_length": "40068075",
       "itunes_duration": "2504",
       "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "Challenge Met Godsfall"
       ],
       "topics": [
         "challenge"
@@ -877,14 +673,7 @@
       "enclosure_length": "48367908",
       "itunes_duration": "3022",
       "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "Reunion Godsfall"
       ],
       "topics": [
         "reunion"
@@ -902,14 +691,8 @@
       "enclosure_length": "48060290",
       "itunes_duration": "3003",
       "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "Friends Old",
+        "New Godsfall"
       ],
       "topics": [
         "friends"
@@ -927,14 +710,7 @@
       "enclosure_length": "45104901",
       "itunes_duration": "2819",
       "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "House Divided Godsfall"
       ],
       "topics": [
         "house"
@@ -951,16 +727,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45329763",
       "itunes_duration": "2833",
-      "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -974,16 +741,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44627591",
       "itunes_duration": "2789",
-      "speakers": [
-        "Shipmate Vessen",
-        "Kelly Shaw",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -997,13 +755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130608901",
       "itunes_duration": "8163",
-      "speakers": [
-        "Celeste Conowitch",
-        "Holly Conrad",
-        "Matthew Lillard",
-        "Josh Perault",
-        "YouTube Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "podcast",
         "waterdeep"
@@ -1021,14 +773,7 @@
       "enclosure_length": "37110595",
       "itunes_duration": "2319",
       "speakers": [
-        "Carlos Luna",
-        "Michael Key",
-        "Surena Marie",
-        "Caitlyn Wainrite",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
+        "Waking Dream Godsfall"
       ],
       "topics": [
         "hope",
@@ -1048,12 +793,7 @@
       "enclosure_length": "31648287",
       "itunes_duration": "1978",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Stephen Kropa",
-        "YouTube Twitch",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Surviving Sezer Godsfall"
       ],
       "topics": [
         "sezer"
@@ -1071,14 +811,7 @@
       "enclosure_length": "45945417",
       "itunes_duration": "2871",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Michael Key",
-        "Vessen Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson",
-        "Caitlyn Wainrite Support Godsfall",
-        "YouTube Twitch"
+        "Deck Godsfall"
       ],
       "topics": [
         "deck"
@@ -1096,14 +829,7 @@
       "enclosure_length": "45873528",
       "itunes_duration": "2867",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Michael Key",
-        "Vessen Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson",
-        "Caitlyn Wainrite Support Godsfall",
-        "YouTube Twitch"
+        "Dead Godsfall"
       ],
       "topics": [
         "ship"
@@ -1121,14 +847,7 @@
       "enclosure_length": "47473057",
       "itunes_duration": "2967",
       "speakers": [
-        "Carlos Luna",
-        "Michael Key",
-        "Surena Marie",
-        "Caitlyn Wainrite",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
+        "Moon Godsfall"
       ],
       "topics": [
         "moon"
@@ -1146,14 +865,7 @@
       "enclosure_length": "40241946",
       "itunes_duration": "2515",
       "speakers": [
-        "Carlos Luna",
-        "Michael Key",
-        "Surena Marie",
-        "Caitlyn Wainrite",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
+        "Fate Godsfall"
       ],
       "topics": [
         "time",
@@ -1171,16 +883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38410031",
       "itunes_duration": "2400",
-      "speakers": [
-        "Carlos Luna",
-        "Michael Key",
-        "Surena Marie",
-        "Caitlyn Wainrite",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "devil"
       ]
@@ -1196,16 +899,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35319222",
       "itunes_duration": "2207",
-      "speakers": [
-        "Carlos Luna",
-        "Michael Key",
-        "Surena Marie",
-        "Caitlyn Wainrite",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "line"
       ]
@@ -1222,14 +916,7 @@
       "enclosure_length": "32031137",
       "itunes_duration": "2001",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Stephen Kropa",
-        "YouTube Twitch Music",
-        "Bruce Zimmerman",
-        "Kai Engel",
-        "Bushwick Tarentella",
-        "Kevin MacLeod Tikopia"
+        "Leader Godsfall"
       ],
       "topics": [
         "leader"
@@ -1247,14 +934,7 @@
       "enclosure_length": "32201665",
       "itunes_duration": "2012",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Michael Key",
-        "Gringle Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson",
-        "Stephen Kropa",
-        "YouTube Twitch Music"
+        "North Godsfall"
       ],
       "topics": [
         "north"
@@ -1272,10 +952,7 @@
       "enclosure_length": "7554612",
       "itunes_duration": "472",
       "speakers": [
-        "Aram Vartian",
-        "YouTube Twitch Music",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Speed Godsfall"
       ],
       "topics": [
         "vision",
@@ -1294,14 +971,7 @@
       "enclosure_length": "43820512",
       "itunes_duration": "2738",
       "speakers": [
-        "Shattered Remains Godsfall",
-        "Aram Vartian",
-        "Carlos Luna",
-        "Michael Key",
-        "Gringle Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson",
-        "YouTube Twitch Music"
+        "Shattered Remains Godsfall"
       ],
       "topics": [
         "remain"
@@ -1319,12 +989,7 @@
       "enclosure_length": "43985606",
       "itunes_duration": "2749",
       "speakers": [
-        "Aram Vartian",
-        "Carlos Luna",
-        "Michael Key",
-        "YouTube Twitch Music",
-        "Bruce Zimmerman",
-        "Jon Luc Hefferman Lowland"
+        "Stone Godsfall"
       ],
       "topics": [
         "flame",
@@ -1343,14 +1008,7 @@
       "enclosure_length": "31880672",
       "itunes_duration": "1992",
       "speakers": [
-        "Aram Vartian",
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "Bruce Zimmerman"
+        "Astral Realm Godsfall"
       ],
       "topics": [
         "astral",
@@ -1369,13 +1027,7 @@
       "enclosure_length": "52736000",
       "itunes_duration": "3296",
       "speakers": [
-        "Aram Vartian",
-        "YouTube Twitch Support Godsfall",
-        "Bruce Zimmerman",
-        "Miris Magic Dance",
-        "Kevin MacLeod",
-        "Mvt Allegro",
-        "John Harrison"
+        "Gold Godsfall"
       ],
       "topics": [
         "city",
@@ -1394,13 +1046,7 @@
       "enclosure_length": "40264097",
       "itunes_duration": "2516",
       "speakers": [
-        "Aram Vartian",
-        "YouTube Twitch Support Godsfall",
-        "Bruce Zimmerman",
-        "Miris Magic Dance",
-        "Kevin MacLeod",
-        "Mvt Allegro",
-        "John Harrison"
+        "Found Godsfall"
       ],
       "topics": [
         "lost",
@@ -1419,13 +1065,7 @@
       "enclosure_length": "45973838",
       "itunes_duration": "2873",
       "speakers": [
-        "Aram Vartian",
-        "YouTube Twitch Support Godsfall",
-        "Carlos Luna",
-        "Michael Key",
-        "Gringle Joe Hasley",
-        "Haldir Loran",
-        "Allyson Robinson"
+        "King Godsfall"
       ],
       "topics": [
         "king"
@@ -1443,12 +1083,7 @@
       "enclosure_length": "34712346",
       "itunes_duration": "2169",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
+        "Woods Godsfall"
       ],
       "topics": [
         "walk",
@@ -1466,9 +1101,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63039111",
       "itunes_duration": "3939",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "wrath",
         "wild"
@@ -1485,9 +1118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58939768",
       "itunes_duration": "3683",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "wrath",
         "wild"
@@ -1504,9 +1135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47374837",
       "itunes_duration": "2960",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "wrath",
         "wild"
@@ -1523,14 +1152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55474050",
       "itunes_duration": "3467",
-      "speakers": [
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "YouTube Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "grass",
         "greenest"
@@ -1547,14 +1169,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51890050",
       "itunes_duration": "3243",
-      "speakers": [
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "YouTube Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "grass",
         "greenest"
@@ -1572,9 +1187,7 @@
       "enclosure_length": "38168032",
       "itunes_duration": "2385",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Joe Hasley",
-        "Haldir Loran"
+        "Weary Head Godsfall"
       ],
       "topics": [
         "weary",
@@ -1592,14 +1205,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48121312",
       "itunes_duration": "3007",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "awaits"
@@ -1616,14 +1222,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51755049",
       "itunes_duration": "3234",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "sight"
       ]
@@ -1639,9 +1238,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26794945",
       "itunes_duration": "1674",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "history",
         "godsfall"
@@ -1659,8 +1256,7 @@
       "enclosure_length": "49312496",
       "itunes_duration": "3082",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Joe Hasley"
+        "What Lies Beneath Godsfall"
       ],
       "topics": [
         "beneath"
@@ -1678,9 +1274,7 @@
       "enclosure_length": "41807621",
       "itunes_duration": "2612",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Joe Hasley",
-        "Haldir Loran"
+        "Lord Haldir Loran Godsfall"
       ],
       "topics": [
         "lord",
@@ -1699,14 +1293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48672600",
       "itunes_duration": "3042",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "bubbling"
       ]
@@ -1723,14 +1310,7 @@
       "enclosure_length": "52580519",
       "itunes_duration": "3286",
       "speakers": [
-        "Never Split",
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "Joe Hasley"
+        "Never Split"
       ],
       "topics": [
         "split",
@@ -1748,14 +1328,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47424574",
       "itunes_duration": "2964",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "money"
       ]
@@ -1771,16 +1344,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108900519",
       "itunes_duration": "6806",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "Joe Hasley",
-        "Haldir Loran"
-      ],
+      "speakers": [],
       "topics": [
         "return",
         "king"
@@ -1797,16 +1361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56299937",
       "itunes_duration": "3518",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "Joe Hasley",
-        "Haldir Loran"
-      ],
+      "speakers": [],
       "topics": [
         "return",
         "king"
@@ -1823,14 +1378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55186912",
       "itunes_duration": "3449",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "power",
         "prayer"
@@ -1848,12 +1396,7 @@
       "enclosure_length": "57181413",
       "itunes_duration": "3573",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
+        "Light Godsfall"
       ],
       "topics": [
         "peace",
@@ -1872,14 +1415,7 @@
       "enclosure_length": "61017025",
       "itunes_duration": "3813",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw",
-        "Joe Hasley",
-        "Haldir Loran"
+        "What Dreams May Wander"
       ],
       "topics": [
         "dream"
@@ -1896,14 +1432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51597897",
       "itunes_duration": "3224",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "roads"
       ]
@@ -1919,14 +1448,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57758615",
       "itunes_duration": "3609",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "hunt"
       ]
@@ -1942,11 +1464,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78461387",
       "itunes_duration": "4903",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Joe Hasley",
-        "Haldir Loran"
-      ],
+      "speakers": [],
       "topics": [
         "rylend",
         "delegation"
@@ -1963,14 +1481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47886837",
       "itunes_duration": "2992",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "audience",
         "godking"
@@ -1988,9 +1499,7 @@
       "enclosure_length": "57765302",
       "itunes_duration": "3610",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Doug Horn"
+        "Pan Godsfall"
       ],
       "topics": []
     },
@@ -2006,7 +1515,7 @@
       "enclosure_length": "27748728",
       "itunes_duration": "1734",
       "speakers": [
-        "YouTube Twitch Support Godsfall"
+        "Mailbag Godsfall"
       ],
       "topics": [
         "season",
@@ -2024,14 +1533,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67971866",
       "itunes_duration": "4248",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "world"
       ]
@@ -2047,14 +1549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47068055",
       "itunes_duration": "2941",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "world"
       ]
@@ -2070,14 +1565,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90470191",
       "itunes_duration": "5654",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2093,9 +1581,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35823699",
       "itunes_duration": "2238",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "history",
         "godsfall"
@@ -2112,14 +1598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38402925",
       "itunes_duration": "2400",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2135,14 +1614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67079941",
       "itunes_duration": "4192",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2158,14 +1630,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69303066",
       "itunes_duration": "4331",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2181,14 +1646,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56179147",
       "itunes_duration": "3511",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2204,14 +1662,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54883056",
       "itunes_duration": "3430",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kelly Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2228,8 +1679,7 @@
       "enclosure_length": "66401175",
       "itunes_duration": "4150",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Kelly Shaw"
+        "Rina Falaval Godsfall"
       ],
       "topics": [
         "rina",
@@ -2247,13 +1697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73902289",
       "itunes_duration": "4618",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2269,13 +1713,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77623797",
       "itunes_duration": "4851",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "union"
       ]
@@ -2291,13 +1729,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58354207",
       "itunes_duration": "3647",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "storm"
       ]
@@ -2313,13 +1745,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53556035",
       "itunes_duration": "3347",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "calm"
       ]
@@ -2336,11 +1762,7 @@
       "enclosure_length": "105994866",
       "itunes_duration": "6624",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
+        "Dogged Pursuit Godsfall"
       ],
       "topics": [
         "pursuit"
@@ -2358,7 +1780,7 @@
       "enclosure_length": "31099506",
       "itunes_duration": "1943",
       "speakers": [
-        "YouTube Twitch Support Godsfall"
+        "Mailbag Godsfall"
       ],
       "topics": [
         "season",
@@ -2377,11 +1799,7 @@
       "enclosure_length": "92468871",
       "itunes_duration": "5779",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
+        "King Quest Godsfall"
       ],
       "topics": [
         "king",
@@ -2400,7 +1818,7 @@
       "enclosure_length": "41281410",
       "itunes_duration": "2580",
       "speakers": [
-        "YouTube Twitch Support Godsfall"
+        "Look Back Godsfall"
       ],
       "topics": []
     },
@@ -2416,11 +1834,7 @@
       "enclosure_length": "45175536",
       "itunes_duration": "2823",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
+        "Arrest These Men Godsfall"
       ],
       "topics": []
     },
@@ -2435,13 +1849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73922769",
       "itunes_duration": "4620",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "queens"
       ]
@@ -2457,13 +1865,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68622210",
       "itunes_duration": "4288",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "card",
         "table"
@@ -2481,11 +1883,7 @@
       "enclosure_length": "44120607",
       "itunes_duration": "2757",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
+        "Payback Godsfall"
       ],
       "topics": [
         "payback"
@@ -2503,7 +1901,7 @@
       "enclosure_length": "48204068",
       "itunes_duration": "3012",
       "speakers": [
-        "YouTube Twitch Support Godsfall"
+        "Godsfall Mailbag Godsfall"
       ],
       "topics": [
         "godsfall",
@@ -2521,13 +1919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54045884",
       "itunes_duration": "3377",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "table"
       ]
@@ -2543,9 +1935,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19267500",
       "itunes_duration": "1204",
-      "speakers": [
-        "YouTube Twitch Support Godsfall"
-      ],
+      "speakers": [],
       "topics": [
         "history",
         "godsfall"
@@ -2563,11 +1953,7 @@
       "enclosure_length": "47980460",
       "itunes_duration": "2998",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
+        "Power Play Godsfall"
       ],
       "topics": [
         "power",
@@ -2585,15 +1971,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96641776",
       "itunes_duration": "6040",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Skye Cuillin"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -2607,15 +1985,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78395350",
       "itunes_duration": "4899",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Skye Cuillin"
-      ],
+      "speakers": [],
       "topics": [
         "library"
       ]
@@ -2632,13 +2002,7 @@
       "enclosure_length": "73798217",
       "itunes_duration": "4612",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Skye Cuillin"
+        "King Godsfall"
       ],
       "topics": [
         "death",
@@ -2656,15 +2020,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64556721",
       "itunes_duration": "4034",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Skye Cuillin"
-      ],
+      "speakers": [],
       "topics": [
         "turtlefest"
       ]
@@ -2680,14 +2036,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69461472",
       "itunes_duration": "4341",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "turtlefest"
       ]
@@ -2703,14 +2052,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57680875",
       "itunes_duration": "3605",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ironwood"
       ]
@@ -2726,13 +2068,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61707493",
       "itunes_duration": "3856",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "ironwood"
       ]
@@ -2748,13 +2084,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66882246",
       "itunes_duration": "4180",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn"
-      ],
+      "speakers": [],
       "topics": [
         "ironwood"
       ]
@@ -2770,16 +2100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76822569",
       "itunes_duration": "4801",
-      "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Stephen Hardos",
-        "Torrvic Wildtongue",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Duet Musette",
-        "Bushwick Tarantella"
-      ],
+      "speakers": [],
       "topics": [
         "runaway"
       ]
@@ -2796,14 +2117,7 @@
       "enclosure_length": "40470569",
       "itunes_duration": "2529",
       "speakers": [
-        "Torrvic Wildtongue",
-        "YouTube Twitch Support Godsfall",
-        "Stephen Hardos",
-        "Doug Horn",
-        "Kevin MacLeod",
-        "Metaphysik Kevin MacLeod",
-        "Fiddles McGinty",
-        "Minstrel Guild"
+        "Torrvic Wildtongue"
       ],
       "topics": [
         "torrvic",
@@ -2822,9 +2136,7 @@
       "enclosure_length": "41611180",
       "itunes_duration": "2600",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Michael Key",
-        "Kevin MacLeod"
+        "Xion Praeten Godsfall"
       ],
       "topics": [
         "xion",
@@ -2843,13 +2155,7 @@
       "enclosure_length": "57919111",
       "itunes_duration": "3619",
       "speakers": [
-        "YouTube Twitch Support Godsfall",
-        "Duet Musette",
-        "Kevin MacLeod",
-        "Chee Zee Jungle",
-        "Henry Mancini",
-        "Bushwick Tarantella",
-        "Fiddles McGinty"
+        "Phryane Tinueth Godsfall"
       ],
       "topics": [
         "phryane",
@@ -2868,10 +2174,7 @@
       "enclosure_length": "49867964",
       "itunes_duration": "3116",
       "speakers": [
-        "Dorro Knott Godsfall",
-        "YouTube Twitch Support Godsfall",
-        "Doug Horn",
-        "Kevin MacLeod"
+        "Dorro Knott Godsfall"
       ],
       "topics": [
         "dorro",
@@ -2889,9 +2192,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20956473",
       "itunes_duration": "1309",
-      "speakers": [
-        "Aram Vartian"
-      ],
+      "speakers": [],
       "topics": [
         "history",
         "godsfall"
@@ -2904,129 +2205,129 @@
 
 ## Episodes (newest first)
 
-- 2022-08-15 — Recharge and Regrow — speakers: Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch Godsfall
-- 2021-09-06 — Birthright — speakers: Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch Godsfall
-- 2021-08-16 — The Plan — speakers: Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch Godsfall
-- 2021-06-21 — Let Chaos Reign (Part 3) — speakers: Dylan Malenfant, YouTube Twitch Godsfall
-- 2021-06-07 — Let Chaos Reign (Part 2) — speakers: Dylan Malenfant, YouTube Twitch Godsfall
-- 2021-05-23 — Let Chaos Reign (Part 1) — speakers: Dylan Malenfant, YouTube Twitch Godsfall
-- 2021-04-19 — Depths of Memory — speakers: Aram Vartian, Matt Clement, YouTube Twitch Godsfall
-- 2021-03-22 — Flip of a Coin — speakers: Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch Godsfall
-- 2021-03-15 — Tried and True — speakers: Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, Niall O'Beirn, YouTube Twitch Godsfall
-- 2020-12-28 — The End of the World — speakers: Niall O'Beirn, YouTube Twitch Godsfall
-- 2020-12-21 — Giving Chase — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch Godsfall
-- 2020-12-14 — Out Of Time — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Chris Zabriskie Godsfall
-- 2020-12-07 — Blast From The Future — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Chris Zabriskie Godsfall
-- 2020-11-30 — The Walls Have Ears — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Chris Zabriskie Godsfall
-- 2020-10-08 — Blood From Stone (Part 3) — speakers: Aram Vartian, Michael Loving, YouTube Twitch, Chris Zabriskie
-- 2020-10-07 — Blood From Stone (Part 2) — speakers: Aram Vartian, Michael Loving, YouTube Twitch, Chris Zabriskie
-- 2020-10-06 — Blood From Stone (Part 1) — speakers: Aram Vartian, Michael Loving, YouTube Twitch, Chris Zabriskie
-- 2020-10-05 — The Road Home — speakers: Joe Hasley, Haldir Loran, YouTube Twitch, Jon Luc Hefferman, Chris Zabriskie, Scott Holmes
-- 2020-09-19 — I Saw What You Did — speakers: Joe Hasley, Haldir Loran, YouTube Twitch, Lee Rosevere, Toussaint Morrison
-- 2020-08-20 — Kodak Lightpainter — speakers: Joe Hasley, Haldir Loran, YouTube Twitch, Lee Rosevere, Toussaint Morrison
-- 2020-08-03 — Bang Bang — speakers: Bang Bang, Joe Hasley, Haldir Loran, YouTube Twitch Music, Lee Rosevere, Toussaint Morrison
-- 2020-08-02 — Come Out and Play — speakers: Joe Hasley, Haldir Loran, YouTube Twitch, Lee Rosevere, Toussaint Morrison
-- 2020-08-01 — Back to the Future — speakers: Joe Hasley, Haldir Loran, YouTube Twitch, Chris Zabriskie
-- 2020-02-17 — Future Present — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, Matt Clement, YouTube Twitch, Bruce Zimmerman
-- 2020-02-10 — Bridging the Gap — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-02-08 — The Rise of Sigma (Part 7) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Chris Zabriskie
-- 2020-02-07 — The Rise of Sigma (Part 6) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Chris Zabriskie
-- 2020-02-06 — The Rise of Sigma (Part 5) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-02-05 — The Rise of Sigma (Part 4) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-02-04 — The Rise of Sigma (Part 3) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-02-03 — The Rise of Sigma (Part 2) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-01-27 — The Rise of Sigma (Part 1) — speakers: Aram Vartian, Matt Clement, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-01-20 — You Can't Go Home Again — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2020-01-06 — All Hail The Queen — speakers: Doug Horn, Kelly Shaw, Michael Key, Joe Hasley, Haldir Loran, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2019-11-04 — Court of Phryane — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2019-10-14 — Jackdaws Head North — speakers: Carlos Luna, Stephen Kropa, Rugov Sezer, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2019-10-06 — A Challenge Met — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2019-09-30 — Reunion — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2019-02-10 — Friends Old and New — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2018-11-20 — A House Divided — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2018-10-28 — The God of War (Part 2) — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2018-10-15 — The God of War (Part 1) — speakers: Shipmate Vessen, Kelly Shaw, Michael Key, Stephen Hardos, Torrvic Wildtongue, Joe Hasley, Haldir Loran, Allyson Robinson
-- 2018-10-04 — Podcasts of Waterdeep — speakers: Celeste Conowitch, Holly Conrad, Matthew Lillard, Josh Perault, YouTube Twitch
-- 2018-08-13 — Hope is a Waking Dream — speakers: Carlos Luna, Michael Key, Surena Marie, Caitlyn Wainrite, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2018-07-21 — Surviving Sezer — speakers: Aram Vartian, Carlos Luna, Stephen Kropa, YouTube Twitch, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2018-07-16 — Clearing the Deck — speakers: Aram Vartian, Carlos Luna, Michael Key, Vessen Joe Hasley, Haldir Loran, Allyson Robinson, Caitlyn Wainrite Support Godsfall, YouTube Twitch
-- 2018-05-27 — Ship of the Dead — speakers: Aram Vartian, Carlos Luna, Michael Key, Vessen Joe Hasley, Haldir Loran, Allyson Robinson, Caitlyn Wainrite Support Godsfall, YouTube Twitch
-- 2018-04-23 — The Sun and the Moon — speakers: Carlos Luna, Michael Key, Surena Marie, Caitlyn Wainrite, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2018-03-26 — Time and Fate — speakers: Carlos Luna, Michael Key, Surena Marie, Caitlyn Wainrite, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2018-03-11 — Deal with the Devil — speakers: Carlos Luna, Michael Key, Surena Marie, Caitlyn Wainrite, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2018-02-20 — Crossing The Line — speakers: Carlos Luna, Michael Key, Surena Marie, Caitlyn Wainrite, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2018-01-29 — Follow the Leader — speakers: Aram Vartian, Carlos Luna, Stephen Kropa, YouTube Twitch Music, Bruce Zimmerman, Kai Engel, Bushwick Tarentella, Kevin MacLeod Tikopia
-- 2018-01-21 — Call of the North — speakers: Aram Vartian, Carlos Luna, Michael Key, Gringle Joe Hasley, Haldir Loran, Allyson Robinson, Stephen Kropa, YouTube Twitch Music
-- 2018-01-01 — Sidequest: Visions of Speed — speakers: Aram Vartian, YouTube Twitch Music, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2017-12-29 — Shattered Remains — speakers: Shattered Remains Godsfall, Aram Vartian, Carlos Luna, Michael Key, Gringle Joe Hasley, Haldir Loran, Allyson Robinson, YouTube Twitch Music
-- 2017-12-02 — Flame and Stone — speakers: Aram Vartian, Carlos Luna, Michael Key, YouTube Twitch Music, Bruce Zimmerman, Jon Luc Hefferman Lowland
-- 2017-11-24 — The God of the Astral Realm — speakers: Aram Vartian, YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, Bruce Zimmerman
-- 2017-11-19 — The City of Gold — speakers: Aram Vartian, YouTube Twitch Support Godsfall, Bruce Zimmerman, Miris Magic Dance, Kevin MacLeod, Mvt Allegro, John Harrison
-- 2017-11-08 — Lost & Found — speakers: Aram Vartian, YouTube Twitch Support Godsfall, Bruce Zimmerman, Miris Magic Dance, Kevin MacLeod, Mvt Allegro, John Harrison
-- 2017-10-29 — Fit for a King — speakers: Aram Vartian, YouTube Twitch Support Godsfall, Carlos Luna, Michael Key, Gringle Joe Hasley, Haldir Loran, Allyson Robinson
-- 2017-10-20 — A Walk in the Woods — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2017-08-04 — Wrath of the Wild (Part 3) — speakers: YouTube Twitch Support Godsfall
-- 2017-07-21 — Wrath of the Wild (Part 2) — speakers: YouTube Twitch Support Godsfall
-- 2017-07-09 — Wrath of the Wild (Part 1) — speakers: YouTube Twitch Support Godsfall
-- 2017-06-26 — Where the Grass is Greenest (Part 2) — speakers: Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, YouTube Twitch
-- 2017-06-11 — Where the Grass is Greenest (Part 1) — speakers: Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, YouTube Twitch
-- 2017-05-26 — A Weary Head — speakers: YouTube Twitch Support Godsfall, Joe Hasley, Haldir Loran
-- 2017-05-14 — For Death Awaits — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2017-05-04 — Losing SIght — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2017-04-23 — The History of Godsfall (Part 4) — speakers: YouTube Twitch Support Godsfall
-- 2017-04-09 — What Lies Beneath — speakers: YouTube Twitch Support Godsfall, Joe Hasley
-- 2017-03-25 — Lord Haldir Loran — speakers: YouTube Twitch Support Godsfall, Joe Hasley, Haldir Loran
-- 2017-03-15 — The Bubbling Deep — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2017-03-04 — Never Split The Party — speakers: Never Split, YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, Joe Hasley
-- 2017-02-25 — Run For The Money — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-12-19 — The Return Of The King (Part 2) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, Joe Hasley, Haldir Loran
-- 2016-12-04 — The Return Of The King (Part 1) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, Joe Hasley, Haldir Loran
-- 2016-11-21 — The Power Of Prayer — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-11-16 — The Peace And The Light — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-10-29 — What Dreams May Wander — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw, Joe Hasley, Haldir Loran
-- 2016-10-11 — The Roads Less Traveled — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-09-29 — The Hunt Begins — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-09-19 — The Rylend Delegation — speakers: YouTube Twitch Support Godsfall, Joe Hasley, Haldir Loran
-- 2016-09-11 — An Audience With The Godking — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-06-29 — Sidequest: Out Of The Frying Pan — speakers: YouTube Twitch Support Godsfall, Michael Key, Doug Horn
-- 2016-06-22 — Season 2 Mailbag — speakers: YouTube Twitch Support Godsfall
-- 2016-06-14 — The Top Of The World (Part 2) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-05-30 — The Top Of The World (Part 1) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-05-16 — The Union (Part 8) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-05-01 — The History Of Godsfall (Part 3) — speakers: YouTube Twitch Support Godsfall
-- 2016-03-14 — The Union (Part 7) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-02-26 — The Union (Part 6) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-02-16 — The Union (Part 5) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-01-22 — The Union (Part 4) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-01-08 — The Union (Part 3) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kelly Shaw
-- 2016-01-01 — Rina Falaval — speakers: YouTube Twitch Support Godsfall, Kelly Shaw
-- 2015-12-22 — The Union (Part 2) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-12-02 — The Union (Part 1) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-11-19 — Racing The Storm — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-11-09 — The Calm — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-10-28 — A Dogged Pursuit — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-10-19 — Season 1 Mailbag — speakers: YouTube Twitch Support Godsfall
-- 2015-09-30 — King Quest — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-09-01 — A Look Back — speakers: YouTube Twitch Support Godsfall
-- 2015-08-21 — Arrest These Men — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-08-10 — Gods Save The Queens — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-08-04 — Cards On The Table — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-07-25 — Payback — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-07-17 — Godsfall Mailbag — speakers: YouTube Twitch Support Godsfall
-- 2015-07-13 — Turning The Tables — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-07-04 — The History Of Godsfall (Part 2) — speakers: YouTube Twitch Support Godsfall
-- 2015-06-27 — Power Play — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-06-22 — To Have and To Hold — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod, Skye Cuillin
-- 2015-06-15 — To The Library! — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod, Skye Cuillin
-- 2015-06-07 — The Death of a King — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod, Skye Cuillin
-- 2015-05-04 — Turtlefest (Part 2) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod, Skye Cuillin
-- 2015-04-23 — Turtlefest (Part 1) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod
-- 2015-04-14 — Into the Ironwood (Part 3) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod
-- 2015-04-06 — Into the Ironwood (Part 2) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-03-29 — Into the Ironwood (Part 1) — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn
-- 2015-03-18 — The Runaways — speakers: YouTube Twitch Support Godsfall, Michael Key, Stephen Hardos, Torrvic Wildtongue, Doug Horn, Kevin MacLeod, Duet Musette, Bushwick Tarantella
-- 2015-03-14 — Torrvic Wildtongue — speakers: Torrvic Wildtongue, YouTube Twitch Support Godsfall, Stephen Hardos, Doug Horn, Kevin MacLeod, Metaphysik Kevin MacLeod, Fiddles McGinty, Minstrel Guild
-- 2015-03-10 — Xion Praeten — speakers: YouTube Twitch Support Godsfall, Michael Key, Kevin MacLeod
-- 2015-03-02 — Phryane Tinueth — speakers: YouTube Twitch Support Godsfall, Duet Musette, Kevin MacLeod, Chee Zee Jungle, Henry Mancini, Bushwick Tarantella, Fiddles McGinty
-- 2015-02-23 — Dorro Knott — speakers: Dorro Knott Godsfall, YouTube Twitch Support Godsfall, Doug Horn, Kevin MacLeod
-- 2015-02-08 — The History of Godsfall (Part 1) — speakers: Aram Vartian
+- 2022-08-15 — Recharge and Regrow
+- 2021-09-06 — Birthright
+- 2021-08-16 — The Plan
+- 2021-06-21 — Let Chaos Reign (Part 3) — speakers: Dylan Malenfant
+- 2021-06-07 — Let Chaos Reign (Part 2) — speakers: Dylan Malenfant
+- 2021-05-23 — Let Chaos Reign (Part 1) — speakers: Dylan Malenfant
+- 2021-04-19 — Depths of Memory — speakers: Memory Sigma
+- 2021-03-22 — Flip of a Coin
+- 2021-03-15 — Tried and True
+- 2020-12-28 — The End of the World
+- 2020-12-21 — Giving Chase
+- 2020-12-14 — Out Of Time — speakers: Godsfall Crew
+- 2020-12-07 — Blast From The Future
+- 2020-11-30 — The Walls Have Ears
+- 2020-10-08 — Blood From Stone (Part 3)
+- 2020-10-07 — Blood From Stone (Part 2)
+- 2020-10-06 — Blood From Stone (Part 1)
+- 2020-10-05 — The Road Home
+- 2020-09-19 — I Saw What You Did
+- 2020-08-20 — Kodak Lightpainter — speakers: Kodak Lightpainter Godsfall
+- 2020-08-03 — Bang Bang — speakers: Bang Bang
+- 2020-08-02 — Come Out and Play — speakers: Come Out, Play Lord Haldir
+- 2020-08-01 — Back to the Future
+- 2020-02-17 — Future Present
+- 2020-02-10 — Bridging the Gap — speakers: Gap Godsfall
+- 2020-02-08 — The Rise of Sigma (Part 7)
+- 2020-02-07 — The Rise of Sigma (Part 6)
+- 2020-02-06 — The Rise of Sigma (Part 5)
+- 2020-02-05 — The Rise of Sigma (Part 4)
+- 2020-02-04 — The Rise of Sigma (Part 3)
+- 2020-02-03 — The Rise of Sigma (Part 2)
+- 2020-01-27 — The Rise of Sigma (Part 1)
+- 2020-01-20 — You Can't Go Home Again — speakers: Go Home Again Godsfall
+- 2020-01-06 — All Hail The Queen
+- 2019-11-04 — Court of Phryane — speakers: Phryane Godsfall
+- 2019-10-14 — Jackdaws Head North — speakers: Jackdaws Head North Godsfall
+- 2019-10-06 — A Challenge Met — speakers: Challenge Met Godsfall
+- 2019-09-30 — Reunion — speakers: Reunion Godsfall
+- 2019-02-10 — Friends Old and New — speakers: Friends Old, New Godsfall
+- 2018-11-20 — A House Divided — speakers: House Divided Godsfall
+- 2018-10-28 — The God of War (Part 2)
+- 2018-10-15 — The God of War (Part 1)
+- 2018-10-04 — Podcasts of Waterdeep
+- 2018-08-13 — Hope is a Waking Dream — speakers: Waking Dream Godsfall
+- 2018-07-21 — Surviving Sezer — speakers: Surviving Sezer Godsfall
+- 2018-07-16 — Clearing the Deck — speakers: Deck Godsfall
+- 2018-05-27 — Ship of the Dead — speakers: Dead Godsfall
+- 2018-04-23 — The Sun and the Moon — speakers: Moon Godsfall
+- 2018-03-26 — Time and Fate — speakers: Fate Godsfall
+- 2018-03-11 — Deal with the Devil
+- 2018-02-20 — Crossing The Line
+- 2018-01-29 — Follow the Leader — speakers: Leader Godsfall
+- 2018-01-21 — Call of the North — speakers: North Godsfall
+- 2018-01-01 — Sidequest: Visions of Speed — speakers: Speed Godsfall
+- 2017-12-29 — Shattered Remains — speakers: Shattered Remains Godsfall
+- 2017-12-02 — Flame and Stone — speakers: Stone Godsfall
+- 2017-11-24 — The God of the Astral Realm — speakers: Astral Realm Godsfall
+- 2017-11-19 — The City of Gold — speakers: Gold Godsfall
+- 2017-11-08 — Lost & Found — speakers: Found Godsfall
+- 2017-10-29 — Fit for a King — speakers: King Godsfall
+- 2017-10-20 — A Walk in the Woods — speakers: Woods Godsfall
+- 2017-08-04 — Wrath of the Wild (Part 3)
+- 2017-07-21 — Wrath of the Wild (Part 2)
+- 2017-07-09 — Wrath of the Wild (Part 1)
+- 2017-06-26 — Where the Grass is Greenest (Part 2)
+- 2017-06-11 — Where the Grass is Greenest (Part 1)
+- 2017-05-26 — A Weary Head — speakers: Weary Head Godsfall
+- 2017-05-14 — For Death Awaits
+- 2017-05-04 — Losing SIght
+- 2017-04-23 — The History of Godsfall (Part 4)
+- 2017-04-09 — What Lies Beneath — speakers: What Lies Beneath Godsfall
+- 2017-03-25 — Lord Haldir Loran — speakers: Lord Haldir Loran Godsfall
+- 2017-03-15 — The Bubbling Deep
+- 2017-03-04 — Never Split The Party — speakers: Never Split
+- 2017-02-25 — Run For The Money
+- 2016-12-19 — The Return Of The King (Part 2)
+- 2016-12-04 — The Return Of The King (Part 1)
+- 2016-11-21 — The Power Of Prayer
+- 2016-11-16 — The Peace And The Light — speakers: Light Godsfall
+- 2016-10-29 — What Dreams May Wander — speakers: What Dreams May Wander
+- 2016-10-11 — The Roads Less Traveled
+- 2016-09-29 — The Hunt Begins
+- 2016-09-19 — The Rylend Delegation
+- 2016-09-11 — An Audience With The Godking
+- 2016-06-29 — Sidequest: Out Of The Frying Pan — speakers: Pan Godsfall
+- 2016-06-22 — Season 2 Mailbag — speakers: Mailbag Godsfall
+- 2016-06-14 — The Top Of The World (Part 2)
+- 2016-05-30 — The Top Of The World (Part 1)
+- 2016-05-16 — The Union (Part 8)
+- 2016-05-01 — The History Of Godsfall (Part 3)
+- 2016-03-14 — The Union (Part 7)
+- 2016-02-26 — The Union (Part 6)
+- 2016-02-16 — The Union (Part 5)
+- 2016-01-22 — The Union (Part 4)
+- 2016-01-08 — The Union (Part 3)
+- 2016-01-01 — Rina Falaval — speakers: Rina Falaval Godsfall
+- 2015-12-22 — The Union (Part 2)
+- 2015-12-02 — The Union (Part 1)
+- 2015-11-19 — Racing The Storm
+- 2015-11-09 — The Calm
+- 2015-10-28 — A Dogged Pursuit — speakers: Dogged Pursuit Godsfall
+- 2015-10-19 — Season 1 Mailbag — speakers: Mailbag Godsfall
+- 2015-09-30 — King Quest — speakers: King Quest Godsfall
+- 2015-09-01 — A Look Back — speakers: Look Back Godsfall
+- 2015-08-21 — Arrest These Men — speakers: Arrest These Men Godsfall
+- 2015-08-10 — Gods Save The Queens
+- 2015-08-04 — Cards On The Table
+- 2015-07-25 — Payback — speakers: Payback Godsfall
+- 2015-07-17 — Godsfall Mailbag — speakers: Godsfall Mailbag Godsfall
+- 2015-07-13 — Turning The Tables
+- 2015-07-04 — The History Of Godsfall (Part 2)
+- 2015-06-27 — Power Play — speakers: Power Play Godsfall
+- 2015-06-22 — To Have and To Hold
+- 2015-06-15 — To The Library!
+- 2015-06-07 — The Death of a King — speakers: King Godsfall
+- 2015-05-04 — Turtlefest (Part 2)
+- 2015-04-23 — Turtlefest (Part 1)
+- 2015-04-14 — Into the Ironwood (Part 3)
+- 2015-04-06 — Into the Ironwood (Part 2)
+- 2015-03-29 — Into the Ironwood (Part 1)
+- 2015-03-18 — The Runaways
+- 2015-03-14 — Torrvic Wildtongue — speakers: Torrvic Wildtongue
+- 2015-03-10 — Xion Praeten — speakers: Xion Praeten Godsfall
+- 2015-03-02 — Phryane Tinueth — speakers: Phryane Tinueth Godsfall
+- 2015-02-23 — Dorro Knott — speakers: Dorro Knott Godsfall
+- 2015-02-08 — The History of Godsfall (Part 1)

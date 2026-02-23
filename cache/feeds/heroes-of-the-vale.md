@@ -2,9 +2,9 @@
 
 - slug: `heroes-of-the-vale`
 - source: `https://www.dndbeyond.com/podcasts/hotv.rss`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- last_modified: `Mon, 23 Feb 2026 19:35:02 GMT`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
+- last_modified: `Mon, 23 Feb 2026 22:05:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.dndbeyond.com/podcasts/hotv",
   "description": "Heroes of the Vale is a D&D actual play show created by D&D Beyond, staring Todd Kenreck as DM with players Jen Kretchmer, Hope LaVelle, TJ Storm, Lauren Urban, and Adam Bradford. Find out more information at dndbeyond.com",
   "image_url": "https://www.dndbeyond.com/avatars/6405/569/636972501543398315.jpeg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,12 +36,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "188540422",
       "itunes_duration": "2:09:32",
-      "speakers": [
-        "Dave Walters",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -60,10 +55,8 @@
       "enclosure_length": "139827426",
       "itunes_duration": "1:36:57",
       "speakers": [
-        "Dave Walters",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch",
+        "Soul What"
       ],
       "topics": [
         "heroes",
@@ -82,12 +75,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "144857516",
       "itunes_duration": "1:41:02",
-      "speakers": [
-        "Dave Walters",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -106,11 +94,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "135876604",
       "itunes_duration": "1:34:55",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -130,9 +114,7 @@
       "enclosure_length": "138752348",
       "itunes_duration": "1:38:14",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch"
       ],
       "topics": [
         "heroes",
@@ -152,11 +134,8 @@
       "enclosure_length": "141965870",
       "itunes_duration": "1:40:14",
       "speakers": [
-        "Elder Brain",
-        "Rachel Miner",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch",
+        "Level Drain Changed"
       ],
       "topics": [
         "heroes",
@@ -176,12 +155,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "153805206",
       "itunes_duration": "1:42:56",
-      "speakers": [
-        "Dave Walters",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -201,9 +175,8 @@
       "enclosure_length": "145173522",
       "itunes_duration": "1:39:50",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch",
+        "Tiny Soldiers Finally"
       ],
       "topics": [
         "heroes",
@@ -222,11 +195,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "134447894",
       "itunes_duration": "1:31:43",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -245,11 +214,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "127731166",
       "itunes_duration": "1:29:54",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -268,11 +233,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "135970652",
       "itunes_duration": "1:33:07",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -290,11 +251,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "137981242",
       "itunes_duration": "1:37:02",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -313,10 +270,7 @@
       "enclosure_length": "141788864",
       "itunes_duration": "1:40:33",
       "speakers": [
-        "Mind Flayer",
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Mind Flayer"
       ],
       "topics": [
         "heroes",
@@ -335,11 +289,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "93522474",
       "itunes_duration": "1:36:14",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -358,9 +308,8 @@
       "enclosure_length": "159381502",
       "itunes_duration": "1:51:31",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch",
+        "Mind Flayers"
       ],
       "topics": [
         "heroes",
@@ -380,9 +329,7 @@
       "enclosure_length": "136280762",
       "itunes_duration": "1:36:29",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch"
       ],
       "topics": [
         "heroes",
@@ -401,9 +348,8 @@
       "enclosure_length": "89104187",
       "itunes_duration": "1:37:16",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Ch",
+        "Blood Relatives There"
       ],
       "topics": [
         "heroes",
@@ -423,11 +369,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "142605118",
       "itunes_duration": "1:40:20",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -446,9 +388,8 @@
       "enclosure_length": "124074953",
       "itunes_duration": "2:00:51",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter",
+        "Cloakwood Five"
       ],
       "topics": [
         "heroes",
@@ -469,9 +410,7 @@
       "enclosure_length": "174115405",
       "itunes_duration": "2:01:56",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter"
       ],
       "topics": [
         "heroes",
@@ -491,11 +430,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "136777647",
       "itunes_duration": "1:35:29",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -515,9 +450,7 @@
       "enclosure_length": "142120552",
       "itunes_duration": "1:40:28",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter"
       ],
       "topics": [
         "heroes",
@@ -538,9 +471,7 @@
       "enclosure_length": "147663398",
       "itunes_duration": "1:46:00",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter"
       ],
       "topics": [
         "heroes",
@@ -561,11 +492,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "147601862",
       "itunes_duration": "1:40:15",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -585,11 +512,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "148324454",
       "itunes_duration": "1:42:46",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -608,9 +531,7 @@
       "enclosure_length": "151813814",
       "itunes_duration": "1:43:50",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter"
       ],
       "topics": [
         "heroes",
@@ -631,9 +552,8 @@
       "enclosure_length": "141782270",
       "itunes_duration": "1:38:43",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter",
+        "Ancient Sacrifices Can"
       ],
       "topics": [
         "heroes",
@@ -655,9 +575,8 @@
       "enclosure_length": "145290782",
       "itunes_duration": "1:44:00",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter",
+        "Everything Ends Thrust"
       ],
       "topics": [
         "heroes",
@@ -677,9 +596,7 @@
       "enclosure_length": "158223422",
       "itunes_duration": "1:52:13",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter"
       ],
       "topics": [
         "heroes",
@@ -699,11 +616,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "162579518",
       "itunes_duration": "1:52:57",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -723,11 +636,7 @@
       "enclosure_type": "audio/mp3",
       "enclosure_length": "143306318",
       "itunes_duration": "1:38:23",
-      "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "vale",
@@ -748,9 +657,8 @@
       "enclosure_length": "152340014",
       "itunes_duration": "1:41:18",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter",
+        "Into Darkness Penelope"
       ],
       "topics": [
         "heroes",
@@ -771,9 +679,7 @@
       "enclosure_length": "131162246",
       "itunes_duration": "1:32:37",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Todd Kenreck"
       ],
       "topics": [
         "heroes",
@@ -794,9 +700,8 @@
       "enclosure_length": "141480686",
       "itunes_duration": "1:38:12",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Vale Chapter",
+        "Spit Portal Returning"
       ],
       "topics": [
         "heroes",
@@ -818,9 +723,7 @@
       "enclosure_length": "165778560",
       "itunes_duration": "1:43:20",
       "speakers": [
-        "Todd Kenreck",
-        "Hope LaVelle",
-        "Adam Bradford"
+        "Todd Kenreck"
       ],
       "topics": [
         "heroes",
@@ -837,38 +740,38 @@
 
 ## Episodes (newest first)
 
-- 2019-10-29 — Heroes of the Vale Ch 2 Ep 18 The End of Many Things — speakers: Dave Walters, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-10-22 — Heroes of the Vale Ch 2 Ep 17 Soul for a Soul — speakers: Dave Walters, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-10-15 — Heroes of the Vale Ch 2 Ep 16 Death's Door — speakers: Dave Walters, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-10-08 — Heroes of the Vale Ch 2 Ep 15 Elder Brain — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-10-01 — Heroes of the Vale Ch 2 Ep 14 Before The Storm — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-09-25 — Heroes of the Vale Ch 2 Ep 13 Level Drain — speakers: Elder Brain, Rachel Miner, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-09-17 — Heroes of the Vale Ch 2 Ep 12 Mind Blast — speakers: Dave Walters, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-09-10 — Heroes of the Vale Ch 2 Ep 11 Tiny Soldiers — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-09-03 — Heroes of the Vale Ch 2 Ep 10 FortyTwo Seconds — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-08-27 — Heroes of the Vale Ch 2 Ep 9 Personal Demons — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-08-20 — Heroes of the Vale Ch 2 Ep 8 Dragonflayer — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-07-30 — Heroes of the Vale Ch 2 Ep 7 Bag World 2 — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-07-21 — Heroes of the Vale Ch 2 Ep 6 The Worm Has Turned — speakers: Mind Flayer, Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-07-15 — Heroes of the Vale Ch 2 Ep 5 Rebellion — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-24 — Heroes of the Vale Ch 2 Ep 4 Red Right Hand — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-17 — Heroes of the Vale Ch 2 Ep 3 Better Left Dead — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-11 — Heroes of the Vale Ch 2 Ep 2 Blood Relatives — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-04 — Heroes of the Vale Ch 2 Ep 1 The Ways Of War — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-04 — Heroes of the Vale Chapter 1 Ep 1 Through the Cloakwood — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-06-04 — Heroes of the Vale Chapter 1 Ep 2 King For A Day — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-31 — Heroes of the Vale Chapter 1 Ep 17 Justice — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 16 The Descent — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 15 Portal To Hell — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 14 Destroyer of Worlds — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 13 The God You Don't — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 12 The Devil You Know — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 11 Ancient Sacrifices — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 10 Everything Ends — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 9 Bag World — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 8 The Other Wight Meat — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 7 Wing And A Prayer — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 6 Into Darkness — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 5 Boom Boom Boom — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 4 Spit Portal — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
-- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 3 Fire and Ruin — speakers: Todd Kenreck, Hope LaVelle, Adam Bradford
+- 2019-10-29 — Heroes of the Vale Ch 2 Ep 18 The End of Many Things
+- 2019-10-22 — Heroes of the Vale Ch 2 Ep 17 Soul for a Soul — speakers: Vale Ch, Soul What
+- 2019-10-15 — Heroes of the Vale Ch 2 Ep 16 Death's Door
+- 2019-10-08 — Heroes of the Vale Ch 2 Ep 15 Elder Brain
+- 2019-10-01 — Heroes of the Vale Ch 2 Ep 14 Before The Storm — speakers: Vale Ch
+- 2019-09-25 — Heroes of the Vale Ch 2 Ep 13 Level Drain — speakers: Vale Ch, Level Drain Changed
+- 2019-09-17 — Heroes of the Vale Ch 2 Ep 12 Mind Blast
+- 2019-09-10 — Heroes of the Vale Ch 2 Ep 11 Tiny Soldiers — speakers: Vale Ch, Tiny Soldiers Finally
+- 2019-09-03 — Heroes of the Vale Ch 2 Ep 10 FortyTwo Seconds
+- 2019-08-27 — Heroes of the Vale Ch 2 Ep 9 Personal Demons
+- 2019-08-20 — Heroes of the Vale Ch 2 Ep 8 Dragonflayer
+- 2019-07-30 — Heroes of the Vale Ch 2 Ep 7 Bag World 2
+- 2019-07-21 — Heroes of the Vale Ch 2 Ep 6 The Worm Has Turned — speakers: Mind Flayer
+- 2019-07-15 — Heroes of the Vale Ch 2 Ep 5 Rebellion
+- 2019-06-24 — Heroes of the Vale Ch 2 Ep 4 Red Right Hand — speakers: Vale Ch, Mind Flayers
+- 2019-06-17 — Heroes of the Vale Ch 2 Ep 3 Better Left Dead — speakers: Vale Ch
+- 2019-06-11 — Heroes of the Vale Ch 2 Ep 2 Blood Relatives — speakers: Vale Ch, Blood Relatives There
+- 2019-06-04 — Heroes of the Vale Ch 2 Ep 1 The Ways Of War
+- 2019-06-04 — Heroes of the Vale Chapter 1 Ep 1 Through the Cloakwood — speakers: Vale Chapter, Cloakwood Five
+- 2019-06-04 — Heroes of the Vale Chapter 1 Ep 2 King For A Day — speakers: Vale Chapter
+- 2019-05-31 — Heroes of the Vale Chapter 1 Ep 17 Justice
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 16 The Descent — speakers: Vale Chapter
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 15 Portal To Hell — speakers: Vale Chapter
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 14 Destroyer of Worlds
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 13 The God You Don't
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 12 The Devil You Know — speakers: Vale Chapter
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 11 Ancient Sacrifices — speakers: Vale Chapter, Ancient Sacrifices Can
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 10 Everything Ends — speakers: Vale Chapter, Everything Ends Thrust
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 9 Bag World — speakers: Vale Chapter
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 8 The Other Wight Meat
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 7 Wing And A Prayer
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 6 Into Darkness — speakers: Vale Chapter, Into Darkness Penelope
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 5 Boom Boom Boom — speakers: Todd Kenreck
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 4 Spit Portal — speakers: Vale Chapter, Spit Portal Returning
+- 2019-05-29 — Heroes of the Vale Chapter 1 Ep 3 Fire and Ruin — speakers: Todd Kenreck

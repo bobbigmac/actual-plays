@@ -2,9 +2,9 @@
 
 - slug: `analog-science-fiction-fact`
 - source: `https://analogsf.podomatic.com/rss2.xml`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- etag: `"97f80b5f73c065daef634c409828bf2a"`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
+- etag: `"97f80b5f73c065daef634c409828bf2a-gzip"`
 - last_modified: `Tue, 17 Feb 2026 00:14:27 GMT`
 - max_episodes_per_feed: `1000`
 
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/analogsf",
   "description": "Fiction and features from editors, authors, and new issues of Analog Science Fiction & Fact, the longest continuously running science fiction magazine.",
   "image_url": "https://assets.podomatic.net/ts/bd/dc/ec/ehockaday/1400x1400_14516937.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -60,8 +60,7 @@
       "enclosure_length": "30049843",
       "itunes_duration": "2457",
       "speakers": [
-        "Alex Jablokov Sirina",
-        "Alex Jablokov"
+        "Alex Jablokov Sirina"
       ],
       "topics": [
         "lady",
@@ -190,9 +189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43706880",
       "itunes_duration": "2256",
-      "speakers": [
-        "Matt McHugh"
-      ],
+      "speakers": [],
       "topics": [
         "mariposa",
         "hierro",
@@ -272,7 +269,7 @@
       "enclosure_length": "32458224",
       "itunes_duration": "2019",
       "speakers": [
-        "Will Meadow"
+        "Kelsey Hutton Meadow"
       ],
       "topics": [
         "carina",
@@ -293,7 +290,7 @@
       "enclosure_length": "35914885",
       "itunes_duration": "2252",
       "speakers": [
-        "Colin Mattson"
+        "Double Feature"
       ],
       "topics": [
         "feature",
@@ -313,9 +310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "6770138",
       "itunes_duration": "1044",
-      "speakers": [
-        "Katherine Tunning"
-      ],
+      "speakers": [],
       "topics": [
         "women",
         "katherine"
@@ -394,8 +389,7 @@
       "enclosure_length": "19059763",
       "itunes_duration": "1303",
       "speakers": [
-        "Melanie Harding-Shaw",
-        "Risky Harvest"
+        "Melanie Harding-Shaw"
       ],
       "topics": [
         "nascent",
@@ -500,7 +494,7 @@
       "enclosure_length": "17288362",
       "itunes_duration": "1440",
       "speakers": [
-        "Marie Vibbert"
+        "Marie Vibbert Everyone"
       ],
       "topics": [
         "room",
@@ -520,8 +514,7 @@
       "enclosure_length": "12212993",
       "itunes_duration": "1017",
       "speakers": [
-        "Leonard Richardson Jer",
-        "Leonard Richardson"
+        "Leonard Richardson Jer"
       ],
       "topics": [
         "mandatory",
@@ -542,9 +535,7 @@
       "enclosure_length": "19560368",
       "itunes_duration": "1629",
       "speakers": [
-        "Michael Adam Robson Mal",
-        "Michael Adam Robson",
-        "Tara Robson"
+        "Michael Adam Robson Mal"
       ],
       "topics": [
         "pilgrimage",
@@ -565,8 +556,7 @@
       "enclosure_length": "25261822",
       "itunes_duration": "2105",
       "speakers": [
-        "Ray Nayler",
-        "Top Hat Avatar"
+        "Ray Nayler"
       ],
       "topics": [
         "shadow",
@@ -585,9 +575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16717217",
       "itunes_duration": "1393",
-      "speakers": [
-        "Brian Rappatta"
-      ],
+      "speakers": [],
       "topics": [
         "compact",
         "brian",
@@ -626,10 +614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41549941",
       "itunes_duration": "3462",
-      "speakers": [
-        "Peter Churlith",
-        "Eldest Split"
-      ],
+      "speakers": [],
       "topics": [
         "life",
         "john",
@@ -648,9 +633,7 @@
       "enclosure_length": "37827962",
       "itunes_duration": "2374",
       "speakers": [
-        "Céline Malgen",
-        "Marie Vibbert",
-        "Nicole Gertner"
+        "Céline Malgen"
       ],
       "topics": [
         "roles",
@@ -674,8 +657,7 @@
       "itunes_duration": "1423",
       "speakers": [
         "Candida Eve",
-        "Dominica Phetteplace Susana",
-        "Dominica Phetteplace"
+        "Dominica Phetteplace Susana"
       ],
       "topics": [
         "candida",
@@ -716,8 +698,7 @@
       "enclosure_length": "34651723",
       "itunes_duration": "2887",
       "speakers": [
-        "Eric Choi Fresh",
-        "Eric Choi"
+        "Eric Choi Fresh"
       ],
       "topics": [
         "eric",
@@ -732,35 +713,35 @@
 ## Episodes (newest first)
 
 - 2025-11-26 — Episode 14: The Robot and the Winding Woods by Brenda Cooper — speakers: Brenda Cooper
-- 2025-10-22 — Episode 13: Lady Ballistic: Fast and Accurate Cleaning by Alex Jablokov — speakers: Alex Jablokov Sirina, Alex Jablokov
+- 2025-10-22 — Episode 13: Lady Ballistic: Fast and Accurate Cleaning by Alex Jablokov — speakers: Alex Jablokov Sirina
 - 2025-09-11 — Episode 12: Last Dam Standing by Dawn Vogel — speakers: Dawn Vogel, Cara Blake
 - 2025-05-13 — Episode 11: It Eats Metal by Mark Ferguson — speakers: Mark Ferguson
 - 2025-02-03 — Episode 10: Second Chance by Sakinah Hofler — speakers: Sakinah Hofler, Toya Smith
 - 2024-09-25 — Episode 9: Bad Cop, No Donut - by Ryan Hunke read by Glen Melin — speakers: Ryan Hunke, Glen Melin, Missus Singh
 - 2024-05-20 — Episode 8: Expert Witness by Leonard Richardson — speakers: Leonard Richardson
-- 2024-03-19 — Episode 7: Mariposa de Hierro - Matt McHugh — speakers: Matt McHugh
+- 2024-03-19 — Episode 7: Mariposa de Hierro - Matt McHugh
 - 2023-12-21 — Episode 6: For Every Bee, a Hive - by Benjamin C. Kinney — speakers: Every Bee
 - 2023-11-17 — Episode 5: The Eiffel Tower of Trappist-1d by Jeff Reynolds — speakers: Jeff Reynolds
 - 2023-09-29 — Episode 4: Fly Straight and Don't Get Eaten - by Vera Brook
-- 2023-07-31 — Episode 3: The Carina Nebula by Kelsey Hutton — speakers: Will Meadow
-- 2023-05-17 — Episode 9: Double Feature: A Place for Pax & Collateral Damage — speakers: Colin Mattson
-- 2023-03-03 — Episode 8: What Women Want - Katherine Tunning — speakers: Katherine Tunning
+- 2023-07-31 — Episode 3: The Carina Nebula by Kelsey Hutton — speakers: Kelsey Hutton Meadow
+- 2023-05-17 — Episode 9: Double Feature: A Place for Pax & Collateral Damage — speakers: Double Feature
+- 2023-03-03 — Episode 8: What Women Want - Katherine Tunning
 - 2023-01-17 — Episode 7: The Area Under the Curve by Matt McHugh — speakers: Matt McHugh
 - 2022-11-23 — Episode 6: Maximum Efficiency by Holly Schofield — speakers: Holly Schofield
 - 2022-10-03 — Episode 5: Taking the Waters by Tim McDaniel — speakers: Tim McDaniel
-- 2022-07-12 — Episode 4: My Nascent Garden & Risky Harvest DOUBLE FEATURE — speakers: Melanie Harding-Shaw, Risky Harvest
+- 2022-07-12 — Episode 4: My Nascent Garden & Risky Harvest DOUBLE FEATURE — speakers: Melanie Harding-Shaw
 - 2022-05-11 — Episode 3: Bounty 1486 by Wendy Nikel — speakers: Wendy Nikel, Delia Serrano
 - 2022-03-08 — Episode 2: Nirvana or Bust by Michael Swanwick — speakers: Michael Swanwick
 - 2022-01-18 — Episode 13: Splitting a Dollar by Meghan Hyland — speakers: Meghan Hyland
 - 2021-11-24 — Episode 12: Moon Unit by Bill Frank — speakers: Bill Frank
-- 2021-10-05 — Episode 11: Room to Live - Marie Vibbert — speakers: Marie Vibbert
-- 2021-06-23 — Episode 10: Mandatory Arbitration by Leonard Richardson — speakers: Leonard Richardson Jer, Leonard Richardson
-- 2021-04-30 — Episode 9: Pilgrimage by Michael Adam Robson — speakers: Michael Adam Robson Mal, Michael Adam Robson, Tara Robson
-- 2021-03-10 — Episode 8: The Shadow of His Wings by Ray Nayler — speakers: Ray Nayler, Top Hat Avatar
-- 2021-01-26 — Episode 7: The Last Compact - Brian Rappatta — speakers: Brian Rappatta
+- 2021-10-05 — Episode 11: Room to Live - Marie Vibbert — speakers: Marie Vibbert Everyone
+- 2021-06-23 — Episode 10: Mandatory Arbitration by Leonard Richardson — speakers: Leonard Richardson Jer
+- 2021-04-30 — Episode 9: Pilgrimage by Michael Adam Robson — speakers: Michael Adam Robson Mal
+- 2021-03-10 — Episode 8: The Shadow of His Wings by Ray Nayler — speakers: Ray Nayler
+- 2021-01-26 — Episode 7: The Last Compact - Brian Rappatta
 - 2020-11-24 — Episode 6: Ghost Strike by Brenda Kalt — speakers: Brenda Kalt
-- 2020-08-31 — Where There's Life by John J. Vester — speakers: Peter Churlith, Eldest Split
-- 2020-06-24 — "On the Changing Roles of Dockworkers” by Marie Vibbert & “The Mad Cabbage” by Céline Malgen. — speakers: Céline Malgen, Marie Vibbert, Nicole Gertner
-- 2020-04-27 — Candida Eve by Dominica Phetteplace — speakers: Candida Eve, Dominica Phetteplace Susana, Dominica Phetteplace
+- 2020-08-31 — Where There's Life by John J. Vester
+- 2020-06-24 — "On the Changing Roles of Dockworkers” by Marie Vibbert & “The Mad Cabbage” by Céline Malgen. — speakers: Céline Malgen
+- 2020-04-27 — Candida Eve by Dominica Phetteplace — speakers: Candida Eve, Dominica Phetteplace Susana
 - 2020-02-20 — One Basket by C.C. Finlay read by Farah Naz Rishi — speakers: Farah Naz Rishi
-- 2019-12-23 — "The Greatest Day" by Eric Choi — speakers: Eric Choi Fresh, Eric Choi
+- 2019-12-23 — "The Greatest Day" by Eric Choi — speakers: Eric Choi Fresh

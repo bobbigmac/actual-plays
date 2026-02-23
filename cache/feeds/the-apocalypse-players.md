@@ -2,9 +2,9 @@
 
 - slug: `the-apocalypse-players`
 - source: `https://www.apocalypseplayers.com/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"dd211248e06955b3bf9ca15f97d1b51e"`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
+- etag: `"81b9c9a1918073a4afbe7839c961c004"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.apocalypseplayers.com",
   "description": "A Call of Cthulhu actual play podcast. Dice-driven cosmic horrors supplied by Dominic Allen, Joseph Chance, Danann McAleer and guests. --- The Apocalypse Players is an actual play (or live play) TTRPG podcast focused on horror tabletop roleplaying games. Think Dimension 20 or Critical Role, but fewer dragons, more eldritch horrors, and more British actors taking their roleplaying very seriously (most of the time). We primarily play the Chaosium RPG Call of Cthulhu, but have also been known to dabble with other systems, most of which can be found on our Patreon: www.patreon.com/apocalypseplayers We now have a free Discord server where you can come and worship at the altar of the Apocalypse, play Call of Cthulhu online, and meet like-minded cultists who will be only to eager to welcome you into the fold. New sacrifices oops we mean players are always welcome. Join here: discord.com/invite/kRQ62t6SjH",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/12449352/Logo_3200_yy4cvy.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [
     "Dominic Allen",
     "Joseph Chance",
@@ -30,6 +30,28 @@
   ],
   "episodes": [
     {
+      "key": "f14e0465141c8c07ba58de59e58f96d5bdb71372",
+      "title": "As The Waters Cover The Sea 13: Burning Bright",
+      "published_at": "2026-02-23T21:40:49+00:00",
+      "link": "https://www.apocalypseplayers.com/e/as-the-waters-cover-the-sea-13-burning-bright/",
+      "description": "In which matters progress further in the SOUTH facing garden; that which is dead evidently does not lie down; Redmark gets The Fear; Tatler circumnavigates, while Davenant, Philips, Arundel and Blake form quite the quartet of enquiry around a tether and a mass of most unusual provenance… A modern Call of Cthulhu Scenario by Joseph Chance Cast: Josephine Arundel & Felicity Blake – Belinda Cornish Chris Caldwell & Jonathan Tatler – Dan Wheeler Max Davenant & Tam Philips – Danann McAleer Charlie Westenra & Luther Eliot Redmark – Dominic Allen Keeper of Arcane Lore ­– Joseph Chance CW: This podcast contains mature themes, strong language and cosmic horror. This episode contains the repeated sound of sexual intimacy as well as abstract description of the points of a compass. As ever, human discretion is advised. Music includes: Waves from The Past - Anna Dager & Hannah Ekstrom https://www.epidemicsound.com/track/Kw21NkSu4j/ Celestial Spheres - Ave Air https://www.epidemicsound.com/music/tracks/5346c11d-81ac-458e-9d63-f53b8fa91321/ Who We Once Were - Gavin Luke https://www.epidemicsound.com/music/tracks/c9e485f8-2969-4b8e-9c75-829fe9ad9079/ Through The Alleyways - Jon Bjork https://www.epidemicsound.com/music/tracks/64978412-f992-3301-bdc8-8747a039ffd3/ Hiding in The Shadows - Ludvig Moulin https://www.epidemicsound.com/music/tracks/c4f88f81-2c2b-4d98-b64d-f9126470c734/ Tiny Scandals - Creative Cut - Heron Vale https://artlist.io/royalty-free-music/song/tiny-scandals-creative-cut-orchestra/138177 Up To No Good - Alt Version - Score Maestro https://artlist.io/royalty-free-music/song/up-to-no-good-alternative-version/137611 The Ninja Path - Jono Heres https://artlist.io/royalty-free-music/album/blue-desert/10972 Hotel Lalo - Harry Edvino https://www.epidemicsound.com/music/tracks/a6d57ec3-cb02-405d-af2a-14931d1555aa/ Gravity of Fragile - DEX 1200 https://www.epidemicsound.com/music/tracks/6165500f-3d46-4509-b16d-d308229ee352/ Light Footed - Bonnie Grace https://www.epidemicsound.com/music/tracks/48833251-ac55-3e3d-9562-e632dde5b5fd/ Mysterious Antics - Dream Cave https://www.epidemicsound.com/music/tracks/e8a513fe-c597-39eb-a101-bc8898b50444/ Imber - Christoffer Moe Ditlevsen https://www.epidemicsound.com/music/tracks/19d624eb-2516-43ea-8c3a-52e92cdb68c4/ Scandinavian Folk 2 https://www.epidemicsound.com/music/tracks/bede20b4-36e0-3965-9fab-3d220dfc0444/ Landscapes - Helmut Schenker https://www.epidemicsound.com/music/tracks/f6e96196-103b-4260-b2bc-ec423116c6f9/ Sworn by Blood - Dream Cave https://www.epidemicsound.com/music/tracks/75628ecd-c5f2-387f-b01e-839e8b434bc6/ In Santa Ana - First Timer https://www.epidemicsound.com/music/tracks/8b74f82a-e721-4f93-b358-d214e6c00086/ Do You Really Wanna Be In Love? - Frigga https://www.epidemicsound.com/music/tracks/b94f0ef1-9a8b-311c-b358-537b560c433b/ Missing Memories - Christopher Moe Ditlevsen https://www.epidemicsound.com/track/M5e5wT9Ci7/ Tavore - Anders Schill Paulsen, Anna Dager & Hannah Ekstrom https://www.epidemicsound.com/track/3jAWMYFdtD/ Crucial Calculations - Gavin Luke https://www.epidemicsound.com/track/wJWNbpM3bh/ Sounded Blue Saga https://www.epidemicsound.com/track/Ua4aSty4ml/ Murmur Forest - Rand Aldo https://www.epidemicsound.com/track/7amZAibTX0/ Where the Flowers Grow - Dez Moran https://www.epidemicsound.com/track/EcUT8PAe8b/ The Adjunct Anders Schill Paulsen , Hanna Ekström , Anna Dager Celestial Spheres - Ave Air https://www.epidemicsound.com/track/3ed2z62JCV/ Out of the Window - Farrell Wooten https://www.epidemicsound.com/track/uZpb17J0rN/ Redemption - Sunriver https://artlist.io/royalty-free-music/song/redemption/93323 Bitter Bitter - Dylan Thomas https://artlist.io/royalty-free-music/song/dylan-thomas-bitter-bitter/49435 Bound To Fall Apart - Jon Bjork https://www.epidemicsound.com/music/tracks/ecb4e639-62bc-3f2c-b48f-53c23b5b8cf0/ Savage Shadows - Semi https://artlist.io/royalty-free-music/song/savage-shadows/134832 Those Moments - Hampus Naeselius https://www.epidemicsound.com/track/HmZtb2i0sL/ 3000 Years Old - Farrell Wooten https://www.epidemicsound.com/music/tracks/7a29bef0-58f0-303b-af94-575197610de9/ Enter The Realm of Shadows - Christopher Moe Ditlevsen https://www.epidemicsound.com/music/tracks/003fff05-76b0-44f2-bd5e-2d2b98e2b062/ Ebbas Not Right - Peter Crosby https://www.epidemicsound.com/music/tracks/4052c08d-d4c6-4974-b888-6aeaa505c4af/ Vapors - Ethan Sloan https://www.epidemicsound.com/track/yg5J0DyMEz/ Tension Mansion - Kikoru https://www.epidemicsound.com/track/eZkXkCpIjF/ The Prophet - Alec Slayne https://www.epidemicsound.com/track/JK03rRZisV/ Shouldn't Have Met You https://artlist.io/royalty-free-music/song/shouldnt-have-met-you/73261 V1rgo - Ambre Jaune https://www.epidemicsound.com/track/0Pq5JDXcmj/ Hysteria - Anna Dager & Hannah Ekstrom https://www.epidemicsound.com/track/DOLsvJVimx/ The Closing - Hannah Ekstrom https://www.epidemicsound.com/track/yYkl9onNPg/ Incertitude - Hannah Ekstrom https://www.epidemicsound.com/track/YUW9T6jcJA/ Tviviel - Hannah Ekstrom https://www.epidemicsound.com/track/xdbASDVzOS/ Title: \"Impromptu Exorcism\" Artist: Tim Kulig ( timkulig.com ) Licensed under Creative Commons By Attribution 4.0 http://creativecommons.org/licenses/by/4.0/ Grass on the Grave - Sage Oursler https://www.epidemicsound.com/track/rJe82RQka0/ Void - WHENISEEYOUISEEMYSELF https://www.epidemicsound.com/track/fGp8lQImZt/ Grief and Isolation - DEX 1200 https://www.epidemicsound.com/track/c1flrtmhZU/ Invention No. 1 in C Major https://www.epidemicsound.com/music/tracks/1daa8eab-3190-3851-ac38-c41bc5033d84/ Take Five - Ambre Jaune https://www.epidemicsound.com/track/J8E0Z4qTMZ/ A Gathering - Farrell Wooten https://www.epidemicsound.com/track/TCFbG808lJ/ Spheres - Elliptik https://www.epidemicsound.com/track/EMaiTc6RNW/ The Duke of Norfolk - Dylan Thomas https://artlist.io/royalty-free-music/song/dylan-thomas-bitter-bitter/49435 Twivel - Ekstrem and Dager https://www.epidemicsound.com/track/xdbASDVzOS/ Friends Make the Worst Enemies - Experia https://www.epidemicsound.com/music/tracks/bf0f9833-2f40-3525-b13e-166942b8e020/ Cave Dwellers https://artlist.io/royalty-free-music/song/cave-dwellers/85396 The Lure - Christian Anderson https://www.epidemicsound.com/track/7WZdqHNOQ7/ Mist Over Lapland https://artlist.io/royalty-free-music/song/mist-over-lapland/99505 Maybe Next Year - Spectales Wallet & Watch https://www.epidemicsound.com/track/IwdmifGfcl/ Seven Sins Later - Farrell Wooten https://www.epidemicsound.com/track/HFSjWZQDWE/ Stop Snitching https://www.epidemicsound.com/track/QCMBXV5202/ Jay Varton - Silent Castle https://www.epidemicsound.com/track/uKXncvlspI/ Follow the Falcon - David Celeste https://www.epidemicsound.com/track/Trl1W1XgLF/ Work Undone - Pearce Roswell https://www.epidemicsound.com/music/tracks/4831fd82-d8e0-30c4-9351-5a1719d1163e/ The Search - Hannah Ekstrom https://www.epidemicsound.com/track/pKp55DWXME/ The Arctic - INSTRUMENTS - Jo Wandrini https://www.epidemicsound.com/track/QH3Sw8lU6S/ The Mire - Anders Schill Paulsen https://www.epidemicsound.com/track/cDx39w2F3D/ Metaformation - Ethan Sloan https://www.epidemicsound.com/track/8vz9arpHEB/ Shadowdance - Saira Ridley https://www.epidemicsound.com/track/xKz8svrmcZ/ Into The Void - Ella Joy Meir https://artlist.io/royalty-free-music/song/into-the-void/127506 Bad Dreams - Mary Riddle https://www.epidemicsound.com/music/tracks/ed0ee666-a83d-3e3b-9eee-dd5d6ae5abd5/ Société Secrete - Duke Herrington https://www.epidemicsound.com/music/tracks/60be67f8-ed95-449f-b496-7959505d7577/ Over of This Town - Will Harrison https://www.epidemicsound.com/track/qpwpYDpGnv/ Excitement - Traditional https://www.epidemicsound.com/music/tracks/71e77fbc-eda1-3105-9c99-8f8319cf2532/ \"SCP-x4x (Mind Leech)\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/ https://incompetech.com/music/royalty-free/music.html “The Liberty Bell” John Philip Sousa, 1893 - US Marine Band https://archive.org/details/InternetJukebox.JPS.48/01+Liberty+Bell+-+USMC+Performance.mp3 Restlessness Friedrich Burgmuller https://www.epidemicsound.com/music/tracks/68a0fdda-4805-3a03-954a-1bc12176a93f/ Work Undone - Pearce Roswell https://www.epidemicsound.com/music/tracks/4831fd82-d8e0-30c4-9351-5a1719d1163e/ Coma Visions - Martin Klem https://www.epidemicsound.com/music/tracks/17b0058f-00f6-3177-845e-2e449193e23c/ Etude No. 1 for Strings - Peter Sandberg https://www.epidemicsound.com/music/tracks/45e4a974-0361-3816-997e-6a7c7e77674c/ Etude No 3 For String Quartet - Peter Sandberg https://www.epidemicsound.com/track/XLlmbhGNLp/ Liminal - Beyza https://www.epidemicsound.com/music/tracks/5c5381d2-351d-4fb1-8c0a-8f942a4b44b7/ Didn’t Know Love - Sully Bright https://www.epidemicsound.com/music/tracks/4f8c372d-1483-4561-ae8c-6f946f033ef5/ Summer in The Swamp - Roy Edwin Williams https://www.epidemicsound.com/music/tracks/a7cf44a8-79f8-4216-ac6d-c13381513008/ The Mission - J. F. Gloss https://www.epidemicsound.com/music/tracks/b9ff2eb3-38c0-371c-ba1c-42e9792e5dac/ Where Daylight Falls - Tellsonic https://www.epidemicsound.com/music/tracks/c6967dad-d857-493d-baaa-c0ea43780d1b/ Riding High on the Wind - Will Harrison https://www.epidemicsound.com/music/tracks/d51c7d7f-3123-4fb4-b66f-5b639d8e20e9/ Dust & Destiny - Jo Wandrini https://www.epidemicsound.com/music/tracks/805c9e1a-585b-4406-b693-fbd9f14fc176/ Shame - Carvings https://www.epidemicsound.com/music/tracks/18be45fd-d417-3134-8bd8-3d6d06b6b288/ Forever In Love With A Ghost - pär https://www.epidemicsound.com/music/tracks/18843d3f-d857-4ede-b499-b3c247dd3349/ Survival of the Bravest - Dream Cave https://www.epidemicsound.com/track/D6x4hf9Tnt/ Alluvion - Christoffer Moe Ditlevsen , Anna Dager , Hanna Ekström https://www.epidemicsound.com/music/tracks/18c07325-4e93-4e85-ace4-0555616489e4/ Afternoon Mood - Megan Wofford https://www.epidemicsound.com/music/tracks/a6119cb7-85d6-4fc4-8261-2d24b5f2498a/ Stars Align - El Flaco Collective https://www.epidemicsound.com/music/tracks/93d328f0-ab66-4121-aa89-d7d758251477/ Ready to March - Brightam Orchestra https://www.epidemicsound.com/music/tracks/a08e46d4-ad42-3422-9ed4-9aaa7838f2e9/ Tracker - Christopher Moe Ditlevsen https://www.epidemicsound.com/music/tracks/3d59ec8e-9ad0-3446-87b4-b2f57773c457/ Fraught - Elin Piel https://www.epidemicsound.com/music/tracks/46b3f33c-bf47-448a-b631-1f3af86405e7/ Eye of The Beholder - Fabien Tell https://www.epidemicsound.com/music/tracks/b1ff0535-741c-3421-a9e7-b1f2c4620cf7/ Vilja - Hanna Ekström , Anna Dager https://www.epidemicsound.com/music/tracks/ccfa0d3c-40fd-4415-a678-3432e576266c/ Dunes of Despair - Deskant https://www.epidemicsound.com/music/tracks/7a54e4be-ada6-31b4-b50b-cdf3dfab4750/ Mysterious Lights - Edward Karl Hanson https://www.epidemicsound.com/music/tracks/20f323c2-2ceb-3e86-8016-25f17f75e26e/ Hunting Nightmare - Cobby Costa https://www.epidemicsound.com/music/tracks/97a06cf6-019f-457b-921d-ace67e6ff72e/ Exit - Beyza https://www.epidemicsound.com/music/tracks/4ddd667b-7613-4c2d-8c21-b18fbaa598fd/ Martyr - Nevin (Instrumental) https://www.epidemicsound.com/music/tracks/a2fef5cb-e0e9-49ab-8b66-08f8336f9898/",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/gg5m3ivajbvghpxg/Waters_137riu7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85229399",
+      "itunes_duration": "5326",
+      "speakers": [
+        "Dominic Allen",
+        "Joseph Chance",
+        "Danann McAleer",
+        "Dan Wheeler"
+      ],
+      "topics": [
+        "waters",
+        "cover"
+      ]
+    },
+    {
       "key": "626a2b2587b49c93fe2ac7db24def38f3ffa7fae",
       "title": "As The Waters Cover The Sea 12: The Unbearable Langoustine of Being",
       "published_at": "2026-02-16T21:25:46+00:00",
@@ -41,11 +63,6 @@
       "enclosure_length": "88234361",
       "itunes_duration": "5514",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell Jonathan Tatler",
-        "Tam Philips",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -70,14 +87,6 @@
       "enclosure_length": "95262345",
       "itunes_duration": "5953",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell Jonathan Tatler",
-        "Tam Philips",
-        "Allen Keeper",
-        "Joseph Chance CW",
-        "Moe Ditlevsen",
-        "Christopher Moe Ditlevsen",
-        "Anna Dager",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -102,11 +111,6 @@
       "enclosure_length": "66649277",
       "itunes_duration": "4165",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell Jonathan Tatler",
-        "Tam Philips",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -132,11 +136,6 @@
       "enclosure_length": "74558318",
       "itunes_duration": "4659",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell Jonathan Tatler",
-        "Tam Philips",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -160,13 +159,7 @@
       "itunes_duration": "4943",
       "speakers": [
         "Alfoxton House",
-        "Joseph Chance Cast",
-        "Chris Caldwell Jonathan Tatler",
-        "Tam Phillips",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
-        "Joseph Chance Danann",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -190,14 +183,6 @@
       "enclosure_length": "51629496",
       "itunes_duration": "3226",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
-        "Moe Ditlevsen",
-        "Christopher Moe Ditlevsen",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -223,14 +208,8 @@
       "enclosure_length": "60832121",
       "itunes_duration": "3801",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
+        "Three Swift Lights Shoreside",
         "Dominic Allen",
-        "Joseph Chance Danann",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -255,14 +234,7 @@
       "enclosure_length": "92946433",
       "itunes_duration": "5809",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
-        "Joseph Chance Danann",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -287,13 +259,6 @@
       "enclosure_length": "95523151",
       "itunes_duration": "5970",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
-        "Yodobashi Camera",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -316,14 +281,7 @@
       "enclosure_length": "62264467",
       "itunes_duration": "3891",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
-        "Joseph Chance Danann",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -348,11 +306,6 @@
       "itunes_duration": "4755",
       "speakers": [
         "Charlie Westenra",
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -376,12 +329,6 @@
       "enclosure_length": "83542769",
       "itunes_duration": "5221",
       "speakers": [
-        "Joseph Chance Cast",
-        "Chris Caldwell",
-        "Dan Wheeler Max Davenant",
-        "Charlie Westenra",
-        "Allen Keeper",
-        "Joseph Chance CW",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -407,11 +354,6 @@
       "itunes_duration": "3645",
       "speakers": [
         "Choo Choo Cthulhu",
-        "Tank Engine",
-        "Siegfried Carrington Joseph Chance",
-        "Rex Dogson Danann",
-        "McAleer Jackson",
-        "Additional Guest",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -440,10 +382,6 @@
       "itunes_duration": "3942",
       "speakers": [
         "Medieval Re-enactment",
-        "Siegfried Carrington Joseph Chance",
-        "Rex Dogson Danann",
-        "McAleer Jackson",
-        "Additional Guest",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -471,13 +409,9 @@
       "enclosure_length": "66919443",
       "itunes_duration": "4182",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
-        "Allen Keeper",
         "Dominic Allen",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -498,13 +432,12 @@
       "enclosure_length": "85341830",
       "itunes_duration": "5333",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
-        "Allen Keeper",
+        "Whimsical Knock",
+        "Liquorice All Saints",
+        "Menthe Flood",
         "Dominic Allen",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -526,15 +459,9 @@
       "enclosure_length": "59710318",
       "itunes_duration": "3731",
       "speakers": [
-        "Lady Marjorie",
-        "Dr Carraig-Muir",
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
-        "Allen Keeper",
         "Dominic Allen",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -556,14 +483,10 @@
       "enclosure_length": "69338844",
       "itunes_duration": "4333",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muir Joseph Chance",
-        "Peregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -583,14 +506,9 @@
       "enclosure_length": "84041394",
       "itunes_duration": "5252",
       "speakers": [
-        "Lady Marjorie",
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
-        "Allen Keeper",
         "Dominic Allen",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -614,12 +532,9 @@
       "itunes_duration": "2710",
       "speakers": [
         "Synchronise Watches",
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -642,17 +557,10 @@
       "enclosure_length": "76419909",
       "itunes_duration": "4776",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -674,14 +582,11 @@
       "enclosure_length": "75731948",
       "itunes_duration": "4733",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Infernal Squeezing",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -702,17 +607,11 @@
       "enclosure_length": "73993238",
       "itunes_duration": "4624",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
+        "Tertiary Positions",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -733,14 +632,12 @@
       "enclosure_length": "58988503",
       "itunes_duration": "3686",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Biological Heresy",
+        "Old Bollards",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -761,17 +658,11 @@
       "enclosure_length": "93511261",
       "itunes_duration": "5844",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
+        "Remembering Too Much",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -791,14 +682,10 @@
       "enclosure_length": "56732777",
       "itunes_duration": "3545",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -817,17 +704,10 @@
       "enclosure_length": "54295239",
       "itunes_duration": "3393",
       "speakers": [
-        "Keeper Dom",
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -847,14 +727,10 @@
       "enclosure_length": "49360978",
       "itunes_duration": "3085",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -875,17 +751,10 @@
       "enclosure_length": "55093123",
       "itunes_duration": "3443",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -905,14 +774,10 @@
       "enclosure_length": "46743135",
       "itunes_duration": "2921",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -931,17 +796,10 @@
       "enclosure_length": "66339151",
       "itunes_duration": "4146",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -962,14 +820,11 @@
       "enclosure_length": "53313453",
       "itunes_duration": "3332",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Menthe Affair",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -991,16 +846,10 @@
       "itunes_duration": "3974",
       "speakers": [
         "Skeleton Crew",
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -1021,14 +870,11 @@
       "enclosure_length": "49583167",
       "itunes_duration": "3098",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Eyes Open",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1047,17 +893,10 @@
       "enclosure_length": "95373940",
       "itunes_duration": "5960",
       "speakers": [
-        "Jared Twing",
-        "Lynne Hardy",
-        "Paul Fricker",
-        "Arabella Lockwood",
-        "Joseph Chance Ignaz Bierbaum",
-        "Danann McAleer Dave Kovalevskii",
-        "Dan Wheeler",
-        "Tom Clark",
         "Dominic Allen",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "order",
@@ -1078,14 +917,10 @@
       "enclosure_length": "54954361",
       "itunes_duration": "3434",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1105,14 +940,12 @@
       "enclosure_length": "54026492",
       "itunes_duration": "3376",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Sleep No More",
+        "Letsby Avenue",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1131,14 +964,10 @@
       "enclosure_length": "66857421",
       "itunes_duration": "4178",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1158,14 +987,11 @@
       "enclosure_length": "64621339",
       "itunes_duration": "4038",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Imagining Some Fear",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1185,14 +1011,10 @@
       "enclosure_length": "71500947",
       "itunes_duration": "4468",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1211,14 +1033,12 @@
       "enclosure_length": "68462802",
       "itunes_duration": "4278",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Inanimate Objects",
+        "May Day",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1240,14 +1060,10 @@
       "enclosure_length": "41483283",
       "itunes_duration": "2592",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1267,14 +1083,10 @@
       "enclosure_length": "50749857",
       "itunes_duration": "3171",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1295,14 +1107,11 @@
       "enclosure_length": "33643458",
       "itunes_duration": "2102",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Library Use",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1322,14 +1131,10 @@
       "enclosure_length": "43837901",
       "itunes_duration": "2739",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1350,14 +1155,11 @@
       "enclosure_length": "34147682",
       "itunes_duration": "2134",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Just Not Cricket",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1377,14 +1179,11 @@
       "enclosure_length": "53575261",
       "itunes_duration": "3348",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
+        "Letsby Avenue",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1405,13 +1204,9 @@
       "itunes_duration": "2753",
       "speakers": [
         "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1433,10 +1228,6 @@
       "speakers": [
         "Theodore Pew",
         "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
-        "Joseph Tweedale JoeTweedale CW",
         "Dominic Allen",
         "Joseph Chance",
         "Dan Wheeler"
@@ -1459,14 +1250,10 @@
       "enclosure_length": "74570021",
       "itunes_duration": "4660",
       "speakers": [
-        "Danann McAleer",
-        "Henry Carraig-Muire Joseph Chance",
-        "Perregrine McCutcheon Dan Wheeler",
-        "Lady Helen Marjorie Bjarmia",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Epidemic Sound Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "uncommon",
@@ -1486,14 +1273,9 @@
       "enclosure_length": "80264880",
       "itunes_duration": "5016",
       "speakers": [
-        "Wheeler Keeper",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK Sound",
-        "Mary Riddle",
-        "Christian Andersen",
-        "Kevin MacLeod Free",
         "Dan Wheeler"
       ],
       "topics": [
@@ -1515,14 +1297,9 @@
       "enclosure_length": "60118830",
       "itunes_duration": "3757",
       "speakers": [
-        "Wheeler Keeper",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK Sound",
-        "Mary Riddle",
-        "Christian Andersen",
-        "Kevin MacLeod Free",
         "Dan Wheeler"
       ],
       "topics": [
@@ -1544,10 +1321,6 @@
       "itunes_duration": "4577",
       "speakers": [
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1573,10 +1346,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1604,10 +1373,6 @@
         "Harry Houdini",
         "Alfred Nobel",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1634,11 +1399,8 @@
       "itunes_duration": "2879",
       "speakers": [
         "Magnum Tenebrosum",
+        "Dominic Al",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1662,10 +1424,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1692,10 +1450,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1719,11 +1473,8 @@
       "enclosure_length": "33047866",
       "itunes_duration": "2065",
       "speakers": [
+        "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1748,10 +1499,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1776,10 +1523,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1804,10 +1547,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1833,10 +1572,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1861,10 +1596,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1890,10 +1621,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1917,10 +1644,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1943,11 +1666,8 @@
       "enclosure_length": "38178480",
       "itunes_duration": "2386",
       "speakers": [
+        "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1971,10 +1691,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -1999,10 +1715,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2027,11 +1739,8 @@
       "enclosure_length": "50207598",
       "itunes_duration": "3137",
       "speakers": [
+        "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2058,10 +1767,6 @@
       "speakers": [
         "Magnum Tenebrosum",
         "Dominic Allen",
-        "Chance Col",
-        "Jemima Croft",
-        "Arcane Lore Dominic Allen",
-        "Dan Wheeler CW",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2087,11 +1792,8 @@
       "enclosure_length": "67428771",
       "itunes_duration": "4214",
       "speakers": [
-        "David Hearn DaveHearn",
-        "GlueBrick Bumbledung",
-        "Eric Sanguinious",
-        "Henley Whispers",
-        "Max Runham Max Runham",
+        "High Rollers",
+        "Mischief Theatre",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2119,15 +1821,10 @@
       "itunes_duration": "4379",
       "speakers": [
         "Dead Light",
-        "Alan Bligh",
-        "Dan Wheeler",
-        "Vincent Julius",
-        "Joseph Chance Big",
-        "Charlie Pope",
         "Dominic Allen",
-        "John Pope",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "dead",
@@ -2149,16 +1846,10 @@
       "enclosure_length": "70438077",
       "itunes_duration": "4402",
       "speakers": [
-        "Dead Light",
-        "Alan Bligh",
-        "Dan Wheeler",
-        "Vincent Julius",
-        "Joseph Chance Big",
-        "Charlie Pope",
         "Dominic Allen",
-        "John Pope",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "dead",
@@ -2180,15 +1871,11 @@
       "itunes_duration": "5994",
       "speakers": [
         "Dead Light",
-        "Alan Bligh",
-        "Dan Wheeler",
-        "Vincent Julius",
-        "Joseph Chance Big",
-        "Charlie Pope",
+        "Cthulhu Actual Play",
         "Dominic Allen",
-        "John Pope",
         "Joseph Chance",
-        "Danann McAleer"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "dead",
@@ -2211,13 +1898,6 @@
       "itunes_duration": "3641",
       "speakers": [
         "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Arnold Böcklin Scene",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2243,13 +1923,6 @@
       "itunes_duration": "3807",
       "speakers": [
         "Clovis Herbert",
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Paul Gaugin Scene",
-        "Rodin Cast",
-        "Clovis Hérbert",
-        "Donatien Benoit",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2273,14 +1946,6 @@
       "enclosure_length": "58060216",
       "itunes_duration": "3628",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Gaston Bussière Scene",
-        "George Frederick Watts Scene",
-        "Władysław Podkowiński",
-        "Clovis Hérbert",
-        "Donatien Benoit",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2305,13 +1970,6 @@
       "itunes_duration": "4510",
       "speakers": [
         "Clovis Herbert",
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Gustave Moreau",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2334,14 +1992,7 @@
       "enclosure_length": "91462260",
       "itunes_duration": "5716",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "La Douleur",
-        "Carlos Schwabe Scene",
-        "Paul Gauguin Scene",
-        "Pierre-Adrien Dalpayrat Cast",
-        "Clovis Hérbert",
+        "Quoi Le",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2364,14 +2015,6 @@
       "enclosure_length": "56332119",
       "itunes_duration": "3520",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Courbet Cast",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2394,14 +2037,6 @@
       "enclosure_length": "55482243",
       "itunes_duration": "3467",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Rodin Cast",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2426,13 +2061,6 @@
       "itunes_duration": "4655",
       "speakers": [
         "Les Flics",
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Jeanne Jacquemin Scene",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2456,14 +2084,6 @@
       "enclosure_length": "71928266",
       "itunes_duration": "4495",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
-        "Dan Wheeler Additional Voices",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2487,14 +2107,6 @@
       "enclosure_length": "56938160",
       "itunes_duration": "3558",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
-        "Dan Wheeler Additional Voices",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2516,14 +2128,6 @@
       "enclosure_length": "57560755",
       "itunes_duration": "3597",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Camille Claudel Cast",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2547,14 +2151,6 @@
       "enclosure_length": "60408729",
       "itunes_duration": "3775",
       "speakers": [
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
-        "Joseph Chance Edwina Alexander",
-        "Dan Wheeler Additional Voices",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2578,13 +2174,6 @@
       "itunes_duration": "3953",
       "speakers": [
         "Crème de Menthe",
-        "Matthew Sanderson",
-        "Scott Dorward",
-        "Paul Fricker",
-        "Felix Vallotton Cast",
-        "Clovis Hérbert",
-        "Donatien Benoit",
-        "Allen Jane Harnsworth-Wright",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -2610,14 +2199,7 @@
       "enclosure_length": "122008390",
       "itunes_duration": "7625",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
-        "Chaosium Con",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2640,14 +2222,7 @@
       "enclosure_length": "83577043",
       "itunes_duration": "5223",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2670,13 +2245,7 @@
       "itunes_duration": "3930",
       "speakers": [
         "David Barber",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
-        "Best Keeper",
-        "Chaosium Con",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2698,14 +2267,7 @@
       "enclosure_length": "46802068",
       "itunes_duration": "2925",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2728,14 +2290,7 @@
       "enclosure_length": "61376305",
       "itunes_duration": "3836",
       "speakers": [
-        "Mari Cubine",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2758,14 +2313,7 @@
       "enclosure_length": "91013790",
       "itunes_duration": "5688",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2788,14 +2336,7 @@
       "enclosure_length": "85174065",
       "itunes_duration": "5323",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2818,14 +2359,7 @@
       "enclosure_length": "68461966",
       "itunes_duration": "4278",
       "speakers": [
-        "David Barber",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2848,14 +2382,7 @@
       "enclosure_length": "84919109",
       "itunes_duration": "5307",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2877,14 +2404,7 @@
       "enclosure_length": "86025029",
       "itunes_duration": "5376",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2909,15 +2429,9 @@
       "enclosure_length": "69578753",
       "itunes_duration": "4348",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Danann McAleer",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
         "Joseph Chance",
+        "Danann McAleer",
         "Dan Wheeler"
       ],
       "topics": [
@@ -2939,13 +2453,7 @@
       "itunes_duration": "3734",
       "speakers": [
         "Sarah Moore",
-        "Greater Norwich",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2968,14 +2476,7 @@
       "enclosure_length": "81331765",
       "itunes_duration": "5083",
       "speakers": [
-        "Paul Fricker",
-        "Scott Dorward",
-        "Matthew Sanderson",
         "Dominic Allen",
-        "Alicia Juico Joseph Chance",
-        "Wheeler DanWheelerUK",
-        "Erik Wilson",
-        "Jeany Spark",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -2999,14 +2500,11 @@
       "enclosure_length": "35219765",
       "itunes_duration": "4402",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Citizen Freyn",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3029,14 +2527,11 @@
       "enclosure_length": "24559507",
       "itunes_duration": "3069",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Quantum Parasite",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3058,14 +2553,12 @@
       "enclosure_length": "20991390",
       "itunes_duration": "2623",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Crawley Welcomes Careful Drivers",
+        "Cthulhu Scenario",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3087,14 +2580,9 @@
       "enclosure_length": "25826759",
       "itunes_duration": "3228",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3115,14 +2603,10 @@
       "enclosure_length": "22275569",
       "itunes_duration": "2784",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3143,14 +2627,12 @@
       "enclosure_length": "21080415",
       "itunes_duration": "2635",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Moist Air",
+        "Cthulhu Scenario",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3171,14 +2653,9 @@
       "enclosure_length": "19062299",
       "itunes_duration": "2382",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3200,14 +2677,11 @@
       "enclosure_length": "14703194",
       "itunes_duration": "1837",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Cthulhu Scenario",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3228,14 +2702,10 @@
       "enclosure_length": "28025643",
       "itunes_duration": "3503",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3256,14 +2726,10 @@
       "enclosure_length": "23507295",
       "itunes_duration": "2938",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3285,14 +2751,11 @@
       "enclosure_length": "27663899",
       "itunes_duration": "3457",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Shantytown Blues",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3314,14 +2777,11 @@
       "enclosure_length": "30278235",
       "itunes_duration": "3784",
       "speakers": [
-        "Scott Dorward",
-        "Paul Fricker",
-        "Matthew Sanderson",
+        "Bleak Prospect",
+        "Chicago Overcoat",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Epidemic Sound",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3345,11 +2805,11 @@
       "enclosure_length": "4245046",
       "itunes_duration": "265",
       "speakers": [
+        "Apocalypse Towers",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "update",
@@ -3370,13 +2830,10 @@
       "itunes_duration": "3519",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3399,13 +2856,10 @@
       "itunes_duration": "3168",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3427,13 +2881,10 @@
       "itunes_duration": "4316",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3455,13 +2906,11 @@
       "itunes_duration": "4131",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
+        "Robert expos",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3483,13 +2932,10 @@
       "itunes_duration": "4241",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3510,13 +2956,10 @@
       "itunes_duration": "4161",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3537,13 +2980,10 @@
       "itunes_duration": "5611",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3565,13 +3005,10 @@
       "itunes_duration": "5140",
       "speakers": [
         "San Luca",
-        "Dan Wheeler",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Jeany Spark",
-        "Bibby CW",
-        "Epidemic Sound"
+        "Dan Wheeler"
       ],
       "topics": [
         "portico",
@@ -3592,14 +3029,11 @@
       "enclosure_length": "96077948",
       "itunes_duration": "6004",
       "speakers": [
+        "No Gods",
+        "Griffon Island",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3624,14 +3058,10 @@
       "enclosure_length": "27589712",
       "itunes_duration": "3448",
       "speakers": [
+        "Shore Dweller",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3654,14 +3084,10 @@
       "enclosure_length": "41302953",
       "itunes_duration": "5162",
       "speakers": [
+        "Detect Things",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3683,14 +3109,10 @@
       "enclosure_length": "37354493",
       "itunes_duration": "4669",
       "speakers": [
+        "Post Traumatic Ship Disorder",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3715,14 +3137,10 @@
       "enclosure_length": "31539844",
       "itunes_duration": "3942",
       "speakers": [
+        "Griffon Island",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3743,14 +3161,11 @@
       "enclosure_length": "29410133",
       "itunes_duration": "3676",
       "speakers": [
+        "Full Steam Ahead",
+        "Epsilon Pioneer",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3773,14 +3188,10 @@
       "enclosure_length": "32972400",
       "itunes_duration": "4121",
       "speakers": [
+        "Epsilon Pioneer",
         "Dominic Allen",
-        "Barney Basker",
         "Joseph Chance",
         "Danann McAleer",
-        "Edwin Crowe",
-        "Dan Wheeler DanWheelerUK",
-        "Johnny McCutcheon",
-        "Jeany Spark",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3805,14 +3216,10 @@
       "enclosure_length": "88581686",
       "itunes_duration": "5536",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "Paradise Lost",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3835,14 +3242,10 @@
       "enclosure_length": "65248697",
       "itunes_duration": "4078",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "Sliding Doors",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3863,14 +3266,10 @@
       "enclosure_length": "89037262",
       "itunes_duration": "5564",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "Face Off",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3890,14 +3289,9 @@
       "enclosure_length": "52169918",
       "itunes_duration": "3260",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3918,14 +3312,9 @@
       "enclosure_length": "67977970",
       "itunes_duration": "4248",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3947,14 +3336,9 @@
       "enclosure_length": "82539668",
       "itunes_duration": "5158",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -3975,14 +3359,10 @@
       "enclosure_length": "70270058",
       "itunes_duration": "4391",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "horrifying consequences",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4004,14 +3384,10 @@
       "enclosure_length": "58372850",
       "itunes_duration": "3648",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "Abattoir Drift",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4033,14 +3409,10 @@
       "enclosure_length": "74033781",
       "itunes_duration": "4627",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
+        "improvised weapons",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4061,14 +3433,9 @@
       "enclosure_length": "69823260",
       "itunes_duration": "4363",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4090,14 +3457,9 @@
       "enclosure_length": "73194937",
       "itunes_duration": "4574",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4118,14 +3480,9 @@
       "enclosure_length": "56736122",
       "itunes_duration": "3545",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4147,14 +3504,9 @@
       "enclosure_length": "66864945",
       "itunes_duration": "4179",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4175,14 +3527,9 @@
       "enclosure_length": "71854959",
       "itunes_duration": "4490",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK",
         "Dan Wheeler"
       ],
       "topics": [
@@ -4203,12 +3550,7 @@
       "enclosure_length": "91648670",
       "itunes_duration": "5728",
       "speakers": [
-        "Alex Guillotte",
-        "Ian Christiansen",
-        "Davae Breon Jaxson",
-        "Alan Bligh",
         "Dominic Allen",
-        "Edward Ed Mooney",
         "Joseph Chance",
         "Danann McAleer",
         "Dan Wheeler"
@@ -4234,14 +3576,11 @@
       "enclosure_length": "77135620",
       "itunes_duration": "4820",
       "speakers": [
-        "Noah Lloyd",
-        "Matt Ryan",
+        "Hot Night",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Alice Wheeler aliceswheeler"
+        "Dan Wheeler"
       ],
       "topics": [
         "finale",
@@ -4261,14 +3600,11 @@
       "enclosure_length": "99948922",
       "itunes_duration": "6246",
       "speakers": [
-        "Noah Lloyd",
-        "Matt Ryan",
+        "Too Much",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Alice Wheeler aliceswheeler"
+        "Dan Wheeler"
       ],
       "topics": []
     },
@@ -4284,14 +3620,11 @@
       "enclosure_length": "56971015",
       "itunes_duration": "3560",
       "speakers": [
-        "Noah Lloyd",
-        "Matt Ryan",
+        "Cthulhu Sc",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Alice Wheeler aliceswheeler"
+        "Dan Wheeler"
       ],
       "topics": [
         "irishman"
@@ -4309,14 +3642,11 @@
       "enclosure_length": "63794617",
       "itunes_duration": "3987",
       "speakers": [
-        "Noah Lloyd",
-        "Matt Ryan",
+        "Detective Ferrari",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Alice Wheeler aliceswheeler"
+        "Dan Wheeler"
       ],
       "topics": [
         "dial",
@@ -4335,14 +3665,10 @@
       "enclosure_length": "92496038",
       "itunes_duration": "5780",
       "speakers": [
-        "Noah Lloyd",
-        "Matt Ryan",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Alice Wheeler aliceswheeler"
+        "Dan Wheeler"
       ],
       "topics": [
         "afflicted",
@@ -4362,14 +3688,10 @@
       "enclosure_length": "65931806",
       "itunes_duration": "4120",
       "speakers": [
-        "Lorenzo Ferrari",
-        "Noah Lloyd",
-        "Matt Ryan",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple"
+        "Dan Wheeler"
       ],
       "topics": []
     },
@@ -4385,14 +3707,11 @@
       "enclosure_length": "65145207",
       "itunes_duration": "4071",
       "speakers": [
-        "John Caramel",
-        "Noah Lloyd",
-        "Matt Ryan",
+        "New Yor",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple"
+        "Dan Wheeler"
       ],
       "topics": [
         "dream",
@@ -4413,14 +3732,10 @@
       "enclosure_length": "32142333",
       "itunes_duration": "4017",
       "speakers": [
-        "Alan Bligh",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Moe Ditlevsen"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4442,14 +3757,12 @@
       "enclosure_length": "32039724",
       "itunes_duration": "4004",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
+        "Supernatural Horror",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Moe Ditlevsen"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4471,14 +3784,13 @@
       "enclosure_length": "30566835",
       "itunes_duration": "3820",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
+        "Abner Wick",
+        "Cthulhu Sce",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Banshee Jay Varton"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4500,13 +3812,10 @@
       "itunes_duration": "4002",
       "speakers": [
         "Charles Leiter",
-        "Alan Bligh",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4529,13 +3838,10 @@
       "itunes_duration": "4776",
       "speakers": [
         "Unconsidered Trifles",
-        "Alan Bligh",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4556,14 +3862,11 @@
       "enclosure_length": "22656749",
       "itunes_duration": "2832",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Horror Ambience"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4584,13 +3887,10 @@
       "itunes_duration": "5194",
       "speakers": [
         "Arkham Asylum",
-        "Alan Bligh",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4615,10 +3915,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Tic Tac Etienne"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4639,14 +3936,11 @@
       "enclosure_length": "34539538",
       "itunes_duration": "4317",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Moe Ditlevsen"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4665,14 +3959,12 @@
       "enclosure_length": "24728991",
       "itunes_duration": "3091",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
+        "Unconsidered Trifles",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Sidewalk Blues Doc Cook"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4693,14 +3985,11 @@
       "enclosure_length": "32110986",
       "itunes_duration": "4013",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Kevin MacLeod Free"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4721,14 +4010,8 @@
       "enclosure_length": "32614627",
       "itunes_duration": "4076",
       "speakers": [
-        "Finn McAleer",
-        "Attribution License",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Johnny Mercer",
-        "Kevin MacLeod",
-        "Simplex Kevin MacLeod",
+        "My True Love Gave",
+        "Police Officers",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4753,14 +4036,9 @@
       "enclosure_length": "36278875",
       "itunes_duration": "4534",
       "speakers": [
-        "Aunt Nora",
-        "Finn McAleer",
-        "Attribution License",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Johnny Mercer",
-        "Kevin MacLeod",
+        "Do Cowboys Dream",
+        "Arresting Sheep",
+        "Kingsport Cops",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4787,14 +4065,8 @@
       "enclosure_length": "32251629",
       "itunes_duration": "4031",
       "speakers": [
-        "Lucid Dreaming",
-        "Finn McAleer",
-        "Attribution License",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Johnny Mercer",
-        "Kevin MacLeod",
+        "Forest Hall",
+        "Belvedere House",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4820,14 +4092,6 @@
       "enclosure_length": "24261294",
       "itunes_duration": "3032",
       "speakers": [
-        "Finn McAleer",
-        "Attribution License",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Johnny Mercer",
-        "Kevin MacLeod",
-        "Simplex Kevin MacLeod",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4854,14 +4118,6 @@
       "enclosure_length": "29611799",
       "itunes_duration": "3701",
       "speakers": [
-        "Finn McAleer",
-        "Attribution License",
-        "Fig Leaf Rag",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Kevin MacLeod",
-        "Simplex Kevin MacLeod",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4887,12 +4143,9 @@
       "enclosure_length": "37810486",
       "itunes_duration": "4726",
       "speakers": [
-        "Attribution License",
-        "Lee Konitz",
-        "Gerry Mulligan Quartet",
-        "Richard Whiting",
-        "Johnny Mercer",
-        "Kevin MacLeod",
+        "Three Cops",
+        "Detective Constables",
+        "Detective Inspector",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
@@ -4918,14 +4171,11 @@
       "enclosure_length": "31048533",
       "itunes_duration": "3881",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Gabriel Lewis"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4944,14 +4194,11 @@
       "enclosure_length": "37478209",
       "itunes_duration": "4684",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Christian Andersen"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4971,14 +4218,10 @@
       "enclosure_length": "34601395",
       "itunes_duration": "4325",
       "speakers": [
-        "Alan Bligh",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Kevin MacLeod Free"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -4998,14 +4241,11 @@
       "enclosure_length": "32601461",
       "itunes_duration": "4075",
       "speakers": [
-        "Alan Bligh",
+        "Crimson Letters",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Doug McAndrew",
-        "Mike Perceval-Maxwell",
-        "Kevin MacLeod Free"
+        "Dan Wheeler"
       ],
       "topics": [
         "crimson",
@@ -5028,14 +4268,11 @@
       "enclosure_length": "54557047",
       "itunes_duration": "3409",
       "speakers": [
+        "Joseph bri",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Kevin MacLeod",
-        "Alexander Nakarada Free",
-        "Liron Free"
+        "Dan Wheeler"
       ],
       "topics": [
         "glimpse",
@@ -5055,14 +4292,11 @@
       "enclosure_length": "84296097",
       "itunes_duration": "5222",
       "speakers": [
-        "Sam Raimi",
-        "Danann McAleer",
+        "Hold Fast",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5081,14 +4315,11 @@
       "enclosure_length": "78318862",
       "itunes_duration": "4894",
       "speakers": [
-        "Danann McAleer",
+        "Fatty Owls",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5108,14 +4339,10 @@
       "enclosure_length": "51223822",
       "itunes_duration": "3201",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5136,13 +4363,10 @@
       "itunes_duration": "4229",
       "speakers": [
         "Batten Down",
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5161,14 +4385,10 @@
       "enclosure_length": "67094150",
       "itunes_duration": "4193",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5187,14 +4407,11 @@
       "enclosure_length": "58138121",
       "itunes_duration": "3633",
       "speakers": [
-        "Danann McAleer",
+        "Stitched Up",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5213,14 +4430,10 @@
       "enclosure_length": "73323414",
       "itunes_duration": "4582",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Joseph Tweedale JoeTweedale",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5239,14 +4452,10 @@
       "enclosure_length": "70380146",
       "itunes_duration": "4398",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free",
-        "Rafael Krux Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5265,14 +4474,12 @@
       "enclosure_length": "74834337",
       "itunes_duration": "4677",
       "speakers": [
-        "Danann McAleer",
+        "Fair Winds",
+        "Following Seas",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Finn McAleer",
-        "Kevin MacLeod Free",
-        "Tim Kulig Free",
-        "Rafael Krux Free"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "residence",
@@ -5295,14 +4502,10 @@
       "enclosure_length": "77040743",
       "itunes_duration": "4815",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5324,14 +4527,10 @@
       "enclosure_length": "78812054",
       "itunes_duration": "4925",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5353,13 +4552,10 @@
       "itunes_duration": "3458",
       "speakers": [
         "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5380,14 +4576,10 @@
       "enclosure_length": "71090676",
       "itunes_duration": "4443",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5407,14 +4599,10 @@
       "enclosure_length": "68809037",
       "itunes_duration": "4300",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5437,14 +4625,10 @@
       "enclosure_length": "70033657",
       "itunes_duration": "4377",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5465,14 +4649,11 @@
       "enclosure_length": "53201187",
       "itunes_duration": "3325",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
+        "Green Acres Sanatorium",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5492,14 +4673,11 @@
       "enclosure_length": "67313161",
       "itunes_duration": "4207",
       "speakers": [
-        "Gary Pilkington",
-        "Joseph Chance",
+        "Maine Society",
         "Dominic Allen",
+        "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jeany Spark",
-        "Tschikovsky Op",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "house",
@@ -5524,14 +4702,10 @@
       "enclosure_length": "46489181",
       "itunes_duration": "2905",
       "speakers": [
-        "Leigh Carr",
-        "Lynne Hardy",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Tim Kulig"
+        "Dan Wheeler"
       ],
       "topics": [
         "lightless",
@@ -5553,14 +4727,11 @@
       "enclosure_length": "45221510",
       "itunes_duration": "2826",
       "speakers": [
-        "Leigh Carr",
-        "Lynne Hardy",
+        "Leigh Ca",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Tim Kulig"
+        "Dan Wheeler"
       ],
       "topics": [
         "lightless",
@@ -5581,14 +4752,10 @@
       "enclosure_length": "52673305",
       "itunes_duration": "3292",
       "speakers": [
-        "Leigh Carr",
-        "Lynne Hardy",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Jessica Temple",
-        "Tim Kulig"
+        "Dan Wheeler"
       ],
       "topics": [
         "lightless",
@@ -5611,14 +4778,11 @@
       "enclosure_length": "89419022",
       "itunes_duration": "5588",
       "speakers": [
-        "Scott Dorward",
+        "Enter Sandman",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Take Turns",
-        "Angel Waltz"
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5639,14 +4803,10 @@
       "enclosure_length": "66096064",
       "itunes_duration": "4130",
       "speakers": [
-        "Scott Dorward",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Take Turns",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "unland"
@@ -5664,14 +4824,10 @@
       "enclosure_length": "59162539",
       "itunes_duration": "3697",
       "speakers": [
-        "Kit Hillier",
-        "Danann McAleer",
-        "Scott Dorward",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5693,14 +4849,11 @@
       "enclosure_length": "52840906",
       "itunes_duration": "3302",
       "speakers": [
-        "Kit Hillier",
-        "Danann McAleer",
-        "Scott Dorward",
+        "Oslac Cynehelm",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5721,14 +4874,11 @@
       "enclosure_length": "54582542",
       "itunes_duration": "3411",
       "speakers": [
-        "Kit Hillier",
-        "Danann McAleer",
-        "Scott Dorward",
+        "Za Za Bazaar",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Kevin MacLeod"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5748,14 +4898,10 @@
       "enclosure_length": "111148720",
       "itunes_duration": "4631",
       "speakers": [
-        "Scott Dorward",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Take Turns",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5775,14 +4921,11 @@
       "enclosure_length": "64353174",
       "itunes_duration": "4022",
       "speakers": [
-        "Scott Dorward",
+        "Smells Like Teen Spirit",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Take Turns",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5802,14 +4945,10 @@
       "enclosure_length": "76873977",
       "itunes_duration": "3203",
       "speakers": [
-        "Scott Dorward",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Lily Maryon",
-        "Take Turns",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "unland",
@@ -5833,10 +4972,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Alexander Nakarada",
-        "Tim Kulig",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "saturnine",
@@ -5862,10 +4998,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Alexander Nakarada",
-        "Horst Hoffmann Link",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "saturnine",
@@ -5890,10 +5023,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Alexander Nakarada",
-        "Kevin MacLeod",
-        "Josef Adler Introduction"
+        "Dan Wheeler"
       ],
       "topics": [
         "saturnine",
@@ -5917,10 +5047,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Alexander Nakarada",
-        "Tim Kulig",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "saturnine",
@@ -5945,10 +5072,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Struggling Written",
-        "Jimmy Blythe",
-        "Johnny Dodds"
+        "Dan Wheeler"
       ],
       "topics": [
         "saturnine",
@@ -5971,13 +5095,11 @@
       "enclosure_length": "122944573",
       "itunes_duration": "5122",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Unicef’s Ukraine",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6000,13 +5122,11 @@
       "enclosure_length": "70185795",
       "itunes_duration": "2924",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Unicef’s Ukraine",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6027,12 +5147,11 @@
       "enclosure_length": "82364080",
       "itunes_duration": "3356",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6054,12 +5173,11 @@
       "enclosure_length": "59571721",
       "itunes_duration": "2482",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6080,12 +5198,12 @@
       "enclosure_length": "60697076",
       "itunes_duration": "2529",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
+        "Cthulhu Scenario",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6107,12 +5225,10 @@
       "enclosure_length": "100352208",
       "itunes_duration": "4181",
       "speakers": [
-        "Bret Kramer",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6133,12 +5249,12 @@
       "enclosure_length": "90312410",
       "itunes_duration": "3762",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
+        "Comrade Doctor",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6160,12 +5276,11 @@
       "enclosure_length": "83508244",
       "itunes_duration": "3479",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6186,14 +5301,11 @@
       "enclosure_length": "81112919",
       "itunes_duration": "5069",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Alexander Nakarada",
-        "Tim Kulig",
-        "Rafael Krux"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6214,14 +5326,10 @@
       "enclosure_length": "83604374",
       "itunes_duration": "5225",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Alexander Nakarada Link",
-        "Dave Deville",
-        "Creepy Piano Ambience"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6241,14 +5349,10 @@
       "enclosure_length": "67001781",
       "itunes_duration": "4187",
       "speakers": [
-        "Danann McAleer",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Rafael Krux",
-        "Tim Kulig",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6270,14 +5374,11 @@
       "enclosure_length": "58168632",
       "itunes_duration": "3635",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Alexander Nakarada Link",
-        "Tim Kulig",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6296,14 +5397,11 @@
       "enclosure_length": "57023842",
       "itunes_duration": "3563",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Alexander Nakarada Link",
-        "Rafael Krux",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6322,12 +5420,12 @@
       "enclosure_length": "47727176",
       "itunes_duration": "2982",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
+        "Two Kings",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6347,13 +5445,12 @@
       "enclosure_length": "42610519",
       "itunes_duration": "2663",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
+        "Warham Hall",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Alexander Nakarada Link",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6374,14 +5471,12 @@
       "enclosure_length": "70268550",
       "itunes_duration": "4391",
       "speakers": [
-        "Danann McAleer",
+        "Christmas Inheritance",
+        "Dead Tree",
         "Dominic Allen",
         "Joseph Chance",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Tim Kulig",
-        "Alexander Nakarada Link",
-        "Joseph Sardin"
+        "Danann McAleer",
+        "Dan Wheeler"
       ],
       "topics": [
         "christmas",
@@ -6405,12 +5500,11 @@
       "enclosure_length": "65523878",
       "itunes_duration": "2730",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6432,12 +5526,11 @@
       "enclosure_length": "83041801",
       "itunes_duration": "3460",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6460,12 +5553,14 @@
       "enclosure_length": "107810898",
       "itunes_duration": "4492",
       "speakers": [
-        "Bret Kramer",
+        "Machine Tractor Station Kharkov",
+        "Red Army",
+        "Telegraph Service",
+        "Tractor Station",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6486,12 +5581,10 @@
       "enclosure_length": "116046993",
       "itunes_duration": "4835",
       "speakers": [
-        "Bret Kramer",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod"
+        "Dan Wheeler"
       ],
       "topics": [
         "machine",
@@ -6514,12 +5607,11 @@
       "enclosure_length": "77976763",
       "itunes_duration": "3249",
       "speakers": [
+        "Hollow Hills",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Giovanni Pierluigi da Palestrina"
+        "Dan Wheeler"
       ],
       "topics": [
         "finale",
@@ -6544,9 +5636,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Giovanni Pierluigi da Palestrina"
+        "Dan Wheeler"
       ],
       "topics": [
         "allhallowstide",
@@ -6569,9 +5659,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Giovanni Pierluigi da Palestrina"
+        "Dan Wheeler"
       ],
       "topics": [
         "death",
@@ -6595,11 +5683,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter",
-        "Alexander Nakarada Link"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6619,14 +5703,11 @@
       "enclosure_length": "61649396",
       "itunes_duration": "3853",
       "speakers": [
+        "Cold Callers",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter",
-        "Alexander Nakarada Link"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6646,14 +5727,11 @@
       "enclosure_length": "56097644",
       "itunes_duration": "3506",
       "speakers": [
+        "Denying Gravity",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter",
-        "Alexander Nakarada Link"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6675,11 +5753,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter",
-        "Alexander Nakarada Link"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6698,13 +5772,11 @@
       "enclosure_length": "64795375",
       "itunes_duration": "4049",
       "speakers": [
+        "Advanced Mansions",
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6728,10 +5800,7 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter"
+        "Dan Wheeler"
       ],
       "topics": [
         "manse",
@@ -6755,10 +5824,6 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler DanWheelerUK CW",
-        "Kevin MacLeod",
-        "Spy Glass",
-        "Frank Schröter",
         "Dan Wheeler"
       ],
       "topics": [
@@ -6784,8 +5849,6 @@
         "Dominic Allen",
         "Joseph Chance",
         "Danann McAleer",
-        "Dan Wheeler Follow",
-        "Kevin MacLeod",
         "Dan Wheeler"
       ],
       "topics": [
@@ -6802,240 +5865,241 @@
 
 ## Episodes (newest first)
 
-- 2026-02-16 — As The Waters Cover The Sea 12: The Unbearable Langoustine of Being — speakers: Joseph Chance Cast, Chris Caldwell Jonathan Tatler, Tam Philips, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-02-10 — As The Waters Cover The Sea 11: The Boar Identity — speakers: Joseph Chance Cast, Chris Caldwell Jonathan Tatler, Tam Philips, Allen Keeper, Joseph Chance CW, Moe Ditlevsen, Christopher Moe Ditlevsen, Anna Dager, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-02-03 — As The Waters Cover The Sea 10: The Hare, The Shadow & The Italian Job — speakers: Joseph Chance Cast, Chris Caldwell Jonathan Tatler, Tam Philips, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-01-26 — As The Waters Cover The Sea 09: There Will Be Old Men — speakers: Joseph Chance Cast, Chris Caldwell Jonathan Tatler, Tam Philips, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-01-20 — As The Waters Cover The Sea 08: The Asparagus File — speakers: Alfoxton House, Joseph Chance Cast, Chris Caldwell Jonathan Tatler, Tam Phillips, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance Danann, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-01-12 — As The Waters Cover The Sea 07: A Room With A Parallax View — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Moe Ditlevsen, Christopher Moe Ditlevsen, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2026-01-05 — As The Waters Cover The Sea 06: Three Swift Lights Shoreside, Ebbing Towards Me — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance Danann, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-12-29 — As The Waters Cover The Sea 05: Beasts of The Western Wild — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance Danann, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-12-22 — As The Waters Cover The Sea 04: As Above, So Below — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Yodobashi Camera, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-12-15 — As The Waters Cover The Sea 03: Atavism: Way of The Walker — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance Danann, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-12-08 — As The Waters Cover The Sea 02: The Road, not Taken — speakers: Charlie Westenra, Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-12-01 — As The Waters Cover The Sea 01: The Quantocks of Solace — speakers: Joseph Chance Cast, Chris Caldwell, Dan Wheeler Max Davenant, Charlie Westenra, Allen Keeper, Joseph Chance CW, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-11-24 — LIVE with TOM CLARK! Going Loco: Choo Choo Cthulhu 02 FINALE: 'Psychological Caboose' — speakers: Choo Choo Cthulhu, Tank Engine, Siegfried Carrington Joseph Chance, Rex Dogson Danann, McAleer Jackson, Additional Guest, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-11-17 — LIVE with TOM CLARK! Going Loco: Choo-Choo Cthulhu 01: 'Medieval Re-enactment on the Orient Express' — speakers: Medieval Re-enactment, Siegfried Carrington Joseph Chance, Rex Dogson Danann, McAleer Jackson, Additional Guest, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-11-10 — An Uncommon Burial 28: ‘We’ll See if the Old Stories Are True’ — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Allen Keeper, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-11-03 — An Uncommon Burial 27: ‘Whimsical Knock’ — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Allen Keeper, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-10-27 — An Uncommon Burial 26: ‘Daft Aul Cult’ — speakers: Lady Marjorie, Dr Carraig-Muir, Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Allen Keeper, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-10-20 — An Uncommon Burial 25: "Canonball!" — speakers: Danann McAleer, Henry Carraig-Muir Joseph Chance, Peregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-10-13 — An Uncommon Burial 24 ‘Daylight Savings Time’ — speakers: Lady Marjorie, Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Allen Keeper, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-09-29 — An Uncommon Burial 23 “Synchronise Watches (an interlude)” — speakers: Synchronise Watches, Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-09-26 — The Order of the Stone 08 FINALE: 'Heart of Darkness' — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-09-23 — An Uncommon Burial 22: “Infernal Squeezing” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-09-18 — The Order of the Stone 07: 'Tertiary Positions' — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-09-15 — An Uncommon Burial 21: “Biological Heresy” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-09-11 — The Order of the Stone 06: ‘Teatime’ — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-09-08 — An Uncommon Burial 20: “Plant Them For Me” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-09-04 — The Order of the Stone 05: ‘Three Men in a Bout’ — speakers: Keeper Dom, Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-09-02 — An Uncommon Burial 19: “Bubbles in The Glass” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-08-28 — The Order of the Stone 04: 'Castaway' — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-08-26 — An Uncommon Burial 18: “Are We The Bad Guys?” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-08-21 — The Order of the Stone 03: 'The Ancient Mariner' — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-08-19 — An Uncommon Burial 17: “The Crème de Menthe Affair” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-08-14 — The Order of the Stone 02: ‘Skeleton Crew’ — speakers: Skeleton Crew, Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-08-12 — An Uncommon Burial 16: “Eyes Open” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-08-07 — The Order of the Stone 01: ‘Champagne for Breakfast’ — speakers: Jared Twing, Lynne Hardy, Paul Fricker, Arabella Lockwood, Joseph Chance Ignaz Bierbaum, Danann McAleer Dave Kovalevskii, Dan Wheeler, Tom Clark, Dominic Allen, Joseph Chance, Danann McAleer
-- 2025-08-05 — An Uncommon Burial 15: “One More, For The Road” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-07-28 — An Uncommon Burial 14: “Sleep No More” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-07-21 — An Uncommon Burial 13: “The Third Policeman” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-07-14 — An Uncommon Burial 12: “Imagining Some Fear” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-07-07 — An Uncommon Burial 11: “Hide & Seek” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-06-30 — An Uncommon Burial 10: “The Malice of Inanimate Objects” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-06-23 — An Uncommon Burial 09: “The Shambles” — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-06-20 — An Uncommon Burial 08: "Portable Nurse" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-06-10 — An Uncommon Burial 07: "Library Use" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-06-03 — An Uncommon Burial 06: "The Book of Judith" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-05-26 — An Uncommon Burial 05: "Just Not Cricket" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-05-19 — An Uncommon Burial 04: "The First Policeman" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-05-13 — An Uncommon Burial 03: "Where Faith Lies" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-05-05 — An Uncommon Burial 02: "Oddchester Revisited" — speakers: Theodore Pew, Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Joseph Tweedale JoeTweedale CW, Dominic Allen, Joseph Chance, Dan Wheeler
-- 2025-04-28 — An Uncommon Burial 01: "Just a Messenger" — speakers: Danann McAleer, Henry Carraig-Muire Joseph Chance, Perregrine McCutcheon Dan Wheeler, Lady Helen Marjorie Bjarmia, Dominic Allen, Joseph Chance, Dan Wheeler, Epidemic Sound Kevin MacLeod
-- 2025-04-21 — LIVE! A Bit of a Bother on Broadway 02 FINALE: ‘Rathello’ — speakers: Wheeler Keeper, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK Sound, Mary Riddle, Christian Andersen, Kevin MacLeod Free, Dan Wheeler
-- 2025-04-14 — LIVE! A Bit of a Bother on Broadway 01: ‘All the Way to Calais’ — speakers: Wheeler Keeper, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK Sound, Mary Riddle, Christian Andersen, Kevin MacLeod Free, Dan Wheeler
-- 2025-04-07 — Magnum Tenebrosum 19 FINALE: 'Journey's End' — speakers: Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-03-31 — Magnum Tenebrosum 18: 'Monty, You Terrible Cult!' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-03-24 — Magnum Tenebrosum 17: 'Tactical Necessity And Calculated Risk' — speakers: Magnum Tenebrosum, Harry Houdini, Alfred Nobel, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-03-17 — Magnum Tenebrosum 16: 'Get In The Back Of The Van!' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-03-10 — Magnum Tenebrosum 15: 'Accident Black Spot! These Aren't Accidents!' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-03-03 — Magnum Tenebrosum 14: 'Sensitive Crimes' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-02-24 — Magnum Tenebrosum 13: 'Reduced To The Status Of A Bum' — speakers: Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-02-17 — Magnum Tenebrosum 12: 'If You Hit Me, It's Murder' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-02-10 — Magnum Tenebrosum 11: 'Are You The Farmer?' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-02-03 — Magnum Tenebrosum 10: 'A Toilet Trader' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-01-27 — Magnum Tenebrosum 09: 'My Boys, My Boys!' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-01-20 — Magnum Tenebrosum 08: 'The Arena Of The Unwell' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-01-13 — Magnum Tenebrosum 07: 'God Fulfils Himself In Many Ways' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2025-01-06 — Magnum Tenebrosum 06: 'Officer, Honestly, I've Only Had A Few Ales!' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-12-30 — Magnum Tenebrosum 05: 'Strangle It Instantly...' — speakers: Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-12-23 — Magnum Tenebrosum 04: 'Beastly Mud and Oomska' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-12-16 — Magnum Tenebrosum 03: 'Vintage Wine and Memories' — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-12-09 — Magnum Tenebrosum 02: 'The Kind of Windows Faces Look In At' — speakers: Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-12-02 — Magnum Tenebrosum 01: 'We've Gone On Holiday By Mistake' | Call of Cthulhu Actual Play — speakers: Magnum Tenebrosum, Dominic Allen, Chance Col, Jemima Croft, Arcane Lore Dominic Allen, Dan Wheeler CW, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-11-18 — FEED SWAP: Hell or High Rollers — S1 Ep1 ‘Avernus’ — speakers: David Hearn DaveHearn, GlueBrick Bumbledung, Eric Sanguinious, Henley Whispers, Max Runham Max Runham, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-11-04 — Dead Light 03 FINALE: 'Waxy Bisque' — speakers: Dead Light, Alan Bligh, Dan Wheeler, Vincent Julius, Joseph Chance Big, Charlie Pope, Dominic Allen, John Pope, Joseph Chance, Danann McAleer
-- 2024-10-28 — Dead Light 02: 'Scatting and Violence' — speakers: Dead Light, Alan Bligh, Dan Wheeler, Vincent Julius, Joseph Chance Big, Charlie Pope, Dominic Allen, John Pope, Joseph Chance, Danann McAleer
-- 2024-10-21 — Dead Light 01: 'Rain and Ash' | Call of Cthulhu Actual Play — speakers: Dead Light, Alan Bligh, Dan Wheeler, Vincent Julius, Joseph Chance Big, Charlie Pope, Dominic Allen, John Pope, Joseph Chance, Danann McAleer
-- 2024-10-14 — A Message of Art 13 FINALE: ‘Reality Check’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Arnold Böcklin Scene, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-10-07 — A Message of Art 12: ‘Who the Hell is Edgar?’ — speakers: Clovis Herbert, Matthew Sanderson, Scott Dorward, Paul Fricker, Paul Gaugin Scene, Rodin Cast, Clovis Hérbert, Donatien Benoit, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-09-30 — A Message of Art 11: ‘The Workshop of Daedalus’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Gaston Bussière Scene, George Frederick Watts Scene, Władysław Podkowiński, Clovis Hérbert, Donatien Benoit, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-09-23 — A Message of Art 10: ‘Le Labyrinthe’ — speakers: Clovis Herbert, Matthew Sanderson, Scott Dorward, Paul Fricker, Gustave Moreau, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-09-16 — A Message of Art 09: ‘Quoi Le F***’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, La Douleur, Carlos Schwabe Scene, Paul Gauguin Scene, Pierre-Adrien Dalpayrat Cast, Clovis Hérbert, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-09-09 — A Message of Art 08: ‘Graphite and Oils’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Courbet Cast, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-09-02 — A Message of Art 07: ‘Au Revoir, pas Adieu’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Rodin Cast, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-08-25 — A Message of Art 06: ‘Les Flics et la Flaque’ — speakers: Les Flics, Matthew Sanderson, Scott Dorward, Paul Fricker, Jeanne Jacquemin Scene, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-08-19 — A Message of Art 05: ‘Crash, Splatter and Pop’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dan Wheeler Additional Voices, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-08-12 — A Message of Art 04: ‘Déjà Rêvé’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dan Wheeler Additional Voices, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-08-05 — A Message of Art 03: ‘Champagne and Shit’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Camille Claudel Cast, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-07-29 — A Message of Art 02: ‘The Pit and the Pendulum’ — speakers: Matthew Sanderson, Scott Dorward, Paul Fricker, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Joseph Chance Edwina Alexander, Dan Wheeler Additional Voices, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-07-22 — A Message of Art 01: ‘Absinthe and Crème de Menthe’ | Call of Cthulhu Actual Play — speakers: Crème de Menthe, Matthew Sanderson, Scott Dorward, Paul Fricker, Felix Vallotton Cast, Clovis Hérbert, Donatien Benoit, Allen Jane Harnsworth-Wright, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-07-16 — The Moonchild 13 FINALE: 'The Thirteen' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Chaosium Con, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-07-09 — The Moonchild 12: 'Abomination' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-07-02 — The Moonchild 11: 'In Mirrors Seen' — speakers: David Barber, Paul Fricker, Scott Dorward, Matthew Sanderson, Best Keeper, Chaosium Con, Dominic Allen, Alicia Juico Joseph Chance, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-06-25 — The Moonchild 10: 'Fear And Fury In Equal Parts' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-06-17 — The Moonchild 09: 'The Realm of The Real' — speakers: Mari Cubine, Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-06-11 — The Moonchild 08: 'Things Fall Apart' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-06-04 — The Moonchild 07: 'Strange Conference' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-05-27 — The Moonchild 06: 'Many Paths to Power' — speakers: David Barber, Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-05-21 — The Moonchild 05: 'Rearranging The Self' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-05-13 — The Moonchild 04: 'Uppers, Downers, Highs & Lows' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-05-06 — The Moonchild 03: 'Sins & Needles' — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Danann McAleer, Wheeler DanWheelerUK, Erik Wilson, Joseph Chance, Dan Wheeler
-- 2024-04-29 — The Moonchild 02: 'For Love Nor Money' — speakers: Sarah Moore, Greater Norwich, Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-04-22 — The Moonchild 01: 'Reunion' | Call of Cthulhu Actual Play — speakers: Paul Fricker, Scott Dorward, Matthew Sanderson, Dominic Allen, Alicia Juico Joseph Chance, Wheeler DanWheelerUK, Erik Wilson, Jeany Spark, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2024-04-15 — Bleak Prospect 12 FINALE: 'Citizen Freyn' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-04-08 — Bleak Prospect 11: 'Quantum Parasite' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-04-01 — Bleak Prospect 10: 'Crawley Welcomes Careful Drivers' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-03-25 — Bleak Prospect 09: 'A Gut Feeling' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-03-19 — Bleak Prospect 08: 'Reflux' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-03-11 — Bleak Prospect 07: 'Moist Air' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-03-04 — Bleak Prospect 06: 'The Mallard Cometh' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-02-26 — Bleak Prospect 05: 'What The Doctor Saw' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-02-19 — Bleak Prospect 04: 'The Other Side of the Fence' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-02-12 — Bleak Prospect 03: 'Babes In The Wood' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-02-05 — Bleak Prospect 02: 'Shantytown Blues' — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-01-29 — Bleak Prospect 01: 'Chicago Overcoat' | Call of Cthulhu Actual Play — speakers: Scott Dorward, Paul Fricker, Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Epidemic Sound, Dan Wheeler
-- 2024-01-22 — An update from Apocalypse Towers... — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Epidemic Sound
-- 2024-01-01 — Il Portico di San Luca 08 FINALE: ‘The Feast of the Ascension’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-12-25 — Il Portico di San Luca 07: ‘An Ecumenical Matter’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-12-18 — Il Portico di San Luca 06: ‘The Chains of the Orcolat’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-12-11 — Il Portico di San Luca 05: ‘Suspicion and Superstition’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-12-04 — Il Portico di San Luca 04: ‘Into the Dark’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-11-27 — Il Portico di San Luca 03: ‘Private Business’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-11-20 — Il Portico di San Luca 02: ‘A Spot of Sightseeing’ — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-11-13 — Il Portico di San Luca 01: ‘Don’t Cook Now’ | Call of Cthulhu Actual Play — speakers: San Luca, Dan Wheeler, Dominic Allen, Joseph Chance, Danann McAleer, Jeany Spark, Bibby CW, Epidemic Sound
-- 2023-11-07 — Trail of The Loathsome Slime 7 REMASTERED FINALE: ” No Gods or Kings” — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-10-31 — Trail of The Loathsome Slime 6: ”Shore Dweller” — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-10-23 — Trail of The Loathsome Slime 5: ’How to Detect Things’ — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-10-16 — Trail of The Loathsome Slime 4: ’”Post Traumatic Ship Disorder’ — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-10-09 — Trail of The Loathsome Slime 3: ’Ways To Destroy Ourselves’ — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-10-02 — Trail of The Loathsome Slime 2: ’Full Steam Ahead’ — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-09-25 — Trail of The Loathsome Slime 1: ’Epsilon Pioneer’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Barney Basker, Joseph Chance, Danann McAleer, Edwin Crowe, Dan Wheeler DanWheelerUK, Johnny McCutcheon, Jeany Spark, Dan Wheeler
-- 2023-09-19 — Highway of Blood 15 FINALE: ‘Paradise Lost’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-09-12 — Highway of Blood 14: ‘Sliding Doors’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-09-05 — Highway of Blood 13: ‘Face Off’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-08-28 — Highway of Blood 12: ‘Desperation’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-08-21 — Highway of Blood 11: ‘The Burial of the Dead’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-08-14 — Highway of Blood 10: ‘Hereditary’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-08-08 — Highway of Blood 09: ‘The Tortoise and The Hare’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-08-01 — Highway of Blood 08: ‘Abattoir Drift’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-07-25 — Highway of Blood 07: ‘The Red Road’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-07-18 — Highway of Blood 06: ‘Trail of Destruction’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-07-10 — Highway of Blood 05: ‘Testing the Waters’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-07-03 — Highway of Blood 04: ‘Whistlin’ Dixie’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-06-26 — Highway of Blood 03: ‘Thunderstruck’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-06-19 — Highway of Blood 02: ‘A Biscuit a Day…’ — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK, Dan Wheeler
-- 2023-06-12 — Highway of Blood 01: ‘The Devil’s Backbone’ | Call of Cthulhu Actual Play — speakers: Alex Guillotte, Ian Christiansen, Davae Breon Jaxson, Alan Bligh, Dominic Allen, Edward Ed Mooney, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2023-05-22 — The Afflicted 07 FINALE: ‘A Hot Night in Harlem’ — speakers: Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Alice Wheeler aliceswheeler
-- 2023-05-15 — The Afflicted 06: ‘The Man Who Knew Too Much’ — speakers: Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Alice Wheeler aliceswheeler
-- 2023-05-08 — The Afflicted 05: ‘The Irishman’ — speakers: Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Alice Wheeler aliceswheeler
-- 2023-05-01 — The Afflicted 04: ‘Dial “M” for Murder’ — speakers: Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Alice Wheeler aliceswheeler
-- 2023-04-24 — The Afflicted 03: ‘Farewell, My Lovely’ — speakers: Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Alice Wheeler aliceswheeler
-- 2023-04-17 — The Afflicted 02: ‘The Third Man’ — speakers: Lorenzo Ferrari, Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple
-- 2023-04-10 — The Afflicted 01: ‘The Big Heat’—or ‘Dreams, Donuts and Dogs’ | Call of Cthulhu Actual Play — speakers: John Caramel, Noah Lloyd, Matt Ryan, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple
-- 2023-04-04 — Crimson Letters 15 FINALE: ’The Conqueror Worm’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Moe Ditlevsen
-- 2023-03-27 — Crimson Letters 14: ’Supernatural Horror in Academia’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Moe Ditlevsen
-- 2023-03-20 — Crimson Letters 13: ’Post-Mortem’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Banshee Jay Varton
-- 2023-03-13 — Crimson Letters 12: ’The Autopsy’ or ’I Smell Dead People’ — speakers: Charles Leiter, Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell
-- 2023-03-06 — Crimson Letters 11: ’The White Mask’ — speakers: Unconsidered Trifles, Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell
-- 2023-02-27 — Crimson Letters 10: ’The Big Sleep’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Horror Ambience
-- 2023-02-20 — Crimson Letters 09: ’Hygiene and Morality’ — speakers: Arkham Asylum, Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell
-- 2023-02-13 — Crimson Letters 08: ’A Crack in the Porcelain’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Tic Tac Etienne
-- 2023-02-06 — Crimson Letters 07: ’Hide and Seek’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Moe Ditlevsen
-- 2023-01-30 — Crimson Letters 06: ’Unconsidered Trifles’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Sidewalk Blues Doc Cook
-- 2023-01-23 — Crimson Letters 05: ’A Pause For Thought’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Kevin MacLeod Free
-- 2023-01-16 — Christmas in Kingsport 06 FINALE: ’My True Love Gave To Me’ — speakers: Finn McAleer, Attribution License, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Johnny Mercer, Kevin MacLeod, Simplex Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2023-01-09 — Christmas in Kingsport 05: ’Do Cowboys Dream of Arresting Sheep?’ — speakers: Aunt Nora, Finn McAleer, Attribution License, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Johnny Mercer, Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2023-01-02 — Christmas in Kingsport 04: ’Feast In A Forest Hall’ — speakers: Lucid Dreaming, Finn McAleer, Attribution License, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Johnny Mercer, Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2022-12-26 — Christmas in Kingsport 03: ’House Of The Weak-Heart Mouse’ — speakers: Finn McAleer, Attribution License, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Johnny Mercer, Kevin MacLeod, Simplex Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2022-12-24 — Christmas in Kingsport 02: ’Bipedal Moose On The Roof’ — speakers: Finn McAleer, Attribution License, Fig Leaf Rag, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Kevin MacLeod, Simplex Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2022-12-19 — Christmas in Kingsport 01: ’Three Cops A Calling’ | Call of Cthulhu Actual Play — speakers: Attribution License, Lee Konitz, Gerry Mulligan Quartet, Richard Whiting, Johnny Mercer, Kevin MacLeod, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
-- 2022-12-12 — Crimson Letters 04: ’Roadhouse’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Gabriel Lewis
-- 2022-12-05 — Crimson Letters 03: ’Overfamiliar’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Christian Andersen
-- 2022-11-28 — Crimson Letters 02: ’The Hurly Burly’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Kevin MacLeod Free
-- 2022-11-21 — Crimson Letters 01: ’Through The Looking Glass’ | Call of Cthulhu Actual Play — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Doug McAndrew, Mike Perceval-Maxwell, Kevin MacLeod Free
-- 2022-11-14 — ’A Glimpse into the Inner Sanctum’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Kevin MacLeod, Alexander Nakarada Free, Liron Free
-- 2022-11-02 — A Residence at the Bay 09 FINALE: ’Hold Fast’ — speakers: Sam Raimi, Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free
-- 2022-10-25 — A Residence at the Bay 08: ’Into the Crowe’s Nest’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free
-- 2022-10-17 — A Residence at The Bay 07: ‘…Doth close behind him tread’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free
-- 2022-10-10 — A Residence at the Bay 06: ’Batten Down the Hatches’ — speakers: Batten Down, Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free
-- 2022-10-03 — A Residence at the Bay 05: ’The Albatross’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free
-- 2022-09-26 — A Residence at the Bay 04: ’Stitched Up like a Kipper’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free
-- 2022-09-19 — A Residence at the Bay 03: ’High & Dry’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Joseph Tweedale JoeTweedale, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free
-- 2022-09-12 — A Residence at the Bay 02: ‘The Doldrums’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free, Rafael Krux Free
-- 2022-09-05 — A Residence at the Bay 01: ‘Fair Winds and Following Seas’ | Call of Cthulhu Actual Play — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Finn McAleer, Kevin MacLeod Free, Tim Kulig Free, Rafael Krux Free
-- 2022-08-29 — The House In The Woods 08 FINALE: The Mobility of The Soul — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-08-22 — The House In The Woods 07: The Angels In The Trees — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-08-15 — The House In The Woods 06: The Root Cellar — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-08-08 — The House In The Woods 05: The Threshold — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-08-01 — The House In The Woods 04: The White Moon Stores Road — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-07-25 — The House In The Woods 03: The Teeth of The Mind — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-07-18 — The House In The Woods 02: The Talking Cure — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-07-11 — The House In The Woods 01: The Post Master, The Pilot & The Poissonnier | Call of Cthulhu Actual Play — speakers: Gary Pilkington, Joseph Chance, Dominic Allen, Danann McAleer, Dan Wheeler, Jeany Spark, Tschikovsky Op, Kevin MacLeod
-- 2022-07-05 — The Lightless Beacon 03 FINALE: ’Hell Is Empty And All The Devils Are Here’ — speakers: Leigh Carr, Lynne Hardy, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Tim Kulig
-- 2022-06-27 — The Lightless Beacon 02: ’A Very Ancient And Fish-Like Smell’ — speakers: Leigh Carr, Lynne Hardy, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Tim Kulig
-- 2022-06-20 — The Lightless Beacon 01: ’The Isle Is Full Of Noises’ | Call of Cthulhu Actual Play — speakers: Leigh Carr, Lynne Hardy, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Jessica Temple, Tim Kulig
-- 2022-06-13 — Unland 08 FINALE: ‘Enter Sandman’ — speakers: Scott Dorward, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Take Turns, Angel Waltz
-- 2022-06-06 — Unland 07: ‘It Ain’t Over ‘til It’s Over’ — speakers: Scott Dorward, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Take Turns, Kevin MacLeod
-- 2022-05-30 — Unland 06: ‘The Phylactery of the Lich King Bjornbye’ — speakers: Kit Hillier, Danann McAleer, Scott Dorward, Dominic Allen, Joseph Chance, Dan Wheeler, Lily Maryon, Kevin MacLeod
-- 2022-05-23 — Unland 05: ‘The Voice of Oslac Cynehelm’ — speakers: Kit Hillier, Danann McAleer, Scott Dorward, Dominic Allen, Joseph Chance, Dan Wheeler, Lily Maryon, Kevin MacLeod
-- 2022-05-16 — Unland 04: ‘The Mines of Za Za Bazaar’ — speakers: Kit Hillier, Danann McAleer, Scott Dorward, Dominic Allen, Joseph Chance, Dan Wheeler, Lily Maryon, Kevin MacLeod
-- 2022-05-09 — Unland 03: ‘November Rain’ — speakers: Scott Dorward, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Take Turns, Kevin MacLeod
-- 2022-05-02 — Unland 02: ‘Smells Like Teen Spirit’ — speakers: Scott Dorward, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Take Turns, Kevin MacLeod
-- 2022-04-25 — Unland 01: ‘Can I Kick It?’ | Call of Cthulhu Actual Play — speakers: Scott Dorward, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Lily Maryon, Take Turns, Kevin MacLeod
-- 2022-04-18 — Saturnine Chalice 05 FINALE: ’Satan The Adversary’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Alexander Nakarada, Tim Kulig, Kevin MacLeod
-- 2022-04-11 — Saturnine Chalice 04: ’Leviathan The Chaos’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Alexander Nakarada, Horst Hoffmann Link, Kevin MacLeod
-- 2022-04-04 — Saturnine Chalice 03: ’Legion The Many’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Alexander Nakarada, Kevin MacLeod, Josef Adler Introduction
-- 2022-03-28 — Saturnine Chalice 02: ’Lazarus The Risen’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Alexander Nakarada, Tim Kulig, Kevin MacLeod
-- 2022-03-21 — Saturnine Chalice 01: ’Gabriel The Herald’ | Call of Cthulhu Actual Play — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Struggling Written, Jimmy Blythe, Johnny Dodds
-- 2022-02-28 — Machine Tractor Station Kharkov-37 12 FINALE: ‘Is That The Good Stuff?’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Unicef’s Ukraine, Kevin MacLeod
-- 2022-02-28 — Machine Tractor Station Kharkov-37 11: ‘The Crater’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Unicef’s Ukraine, Kevin MacLeod
-- 2022-02-21 — Machine Tractor Station Kharkov-37 10: ‘A Shimmer on the Horizon’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-02-14 — Machine Tractor Station Kharkov-37 09: ‘The Lieutenant’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-02-07 — Machine Tractor Station Kharkov-37 08: ‘The Meteor Shower’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-01-31 — Machine Tractor Station Kharkov-37 07: ‘Iurenkovo’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-01-24 — Machine Tractor Station Kharkov-37 06: ‘Comrade Doctor’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-01-17 — Machine Tractor Station Kharkov-37 05: ‘Some Things Are Best Forgotten’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2022-01-11 — A Christmas Inheritance 08 FINALE: ‘Epiphany’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Alexander Nakarada, Tim Kulig, Rafael Krux
-- 2022-01-07 — A Christmas Inheritance 07: ‘Oh, Whistle, And I’ll Come To You, My Lad’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Alexander Nakarada Link, Dave Deville, Creepy Piano Ambience
-- 2022-01-03 — A Christmas Inheritance 06: ‘The Holly Bears A Bark’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Rafael Krux, Tim Kulig, Joseph Sardin
-- 2021-12-27 — A Christmas Inheritance 05: ‘Hide And Seek’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Alexander Nakarada Link, Tim Kulig, Joseph Sardin
-- 2021-12-24 — A Christmas Inheritance 04: ‘A Sort Of... Dog’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Alexander Nakarada Link, Rafael Krux, Joseph Sardin
-- 2021-12-20 — A Christmas Inheritance 03: ‘Two Kings’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Joseph Sardin
-- 2021-12-13 — A Christmas Inheritance 02: ‘A Game of Bear’ — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Alexander Nakarada Link, Joseph Sardin
-- 2021-12-06 — A Christmas Inheritance 01: ‘A Partridge and a Dead Tree’ | Call of Cthulhu Actual Play — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler, Kevin MacLeod, Tim Kulig, Alexander Nakarada Link, Joseph Sardin
-- 2021-11-29 — Machine Tractor Station Kharkov-37 04: ‘The Doll and the Skull’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2021-11-22 — Machine Tractor Station Kharkov-37 03: ‘The Rural Electrification Truck’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2021-11-15 — Machine Tractor Station Kharkov-37 02: ‘The Silo’ — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2021-11-08 — Machine Tractor Station Kharkov-37 01: ‘The Rabbit’ | Call of Cthulhu Actual Play — speakers: Bret Kramer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod
-- 2021-11-01 — Allhallowstide 03 FINALE: ‘Hollow Hills’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Giovanni Pierluigi da Palestrina
-- 2021-10-31 — Allhallowstide 02: ‘Monolithic Hierogasm’ — speakers: Magicke Wordes, Anciente Seales, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Giovanni Pierluigi da Palestrina
-- 2021-10-30 — Allhallowstide 01: ‘Marked by Death’ | Dee Sanction Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Giovanni Pierluigi da Palestrina
-- 2021-10-26 — The Crack’d and Crook’d Manse 07 FINALE: ‘Spores’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter, Alexander Nakarada Link
-- 2021-10-18 — The Crack’d and Crook’d Manse 06: ‘Cold Callers’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter, Alexander Nakarada Link
-- 2021-10-11 — The Crack’d and Crook’d Manse 05: ‘Denying Gravity’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter, Alexander Nakarada Link
-- 2021-10-04 — The Crack’d and Crook’d Manse 04: ‘The Walls Have Eyes’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter, Alexander Nakarada Link
-- 2021-09-27 — The Crack’d and Crook’d Manse 03: ‘Advanced Mansions & Madness’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter
-- 2021-09-20 — The Crack’d and Crook’d Manse 02: ‘101 Occult Uses For Salt’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler, Kevin MacLeod, Spy Glass, Frank Schröter
-- 2021-09-20 — The Crack’d and Crook’d Manse 01: ‘The Brothers Dodge’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler DanWheelerUK CW, Kevin MacLeod, Spy Glass, Frank Schröter, Dan Wheeler
-- 2021-08-21 — Introducing The Apocalypse Players | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler Follow, Kevin MacLeod, Dan Wheeler
+- 2026-02-23 — As The Waters Cover The Sea 13: Burning Bright — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-02-16 — As The Waters Cover The Sea 12: The Unbearable Langoustine of Being — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-02-10 — As The Waters Cover The Sea 11: The Boar Identity — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-02-03 — As The Waters Cover The Sea 10: The Hare, The Shadow & The Italian Job — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-01-26 — As The Waters Cover The Sea 09: There Will Be Old Men — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-01-20 — As The Waters Cover The Sea 08: The Asparagus File — speakers: Alfoxton House, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-01-12 — As The Waters Cover The Sea 07: A Room With A Parallax View — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2026-01-05 — As The Waters Cover The Sea 06: Three Swift Lights Shoreside, Ebbing Towards Me — speakers: Three Swift Lights Shoreside, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-12-29 — As The Waters Cover The Sea 05: Beasts of The Western Wild — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-12-22 — As The Waters Cover The Sea 04: As Above, So Below — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-12-15 — As The Waters Cover The Sea 03: Atavism: Way of The Walker — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-12-08 — As The Waters Cover The Sea 02: The Road, not Taken — speakers: Charlie Westenra, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-12-01 — As The Waters Cover The Sea 01: The Quantocks of Solace — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-11-24 — LIVE with TOM CLARK! Going Loco: Choo Choo Cthulhu 02 FINALE: 'Psychological Caboose' — speakers: Choo Choo Cthulhu, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-11-17 — LIVE with TOM CLARK! Going Loco: Choo-Choo Cthulhu 01: 'Medieval Re-enactment on the Orient Express' — speakers: Medieval Re-enactment, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-11-10 — An Uncommon Burial 28: ‘We’ll See if the Old Stories Are True’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-11-03 — An Uncommon Burial 27: ‘Whimsical Knock’ — speakers: Whimsical Knock, Liquorice All Saints, Menthe Flood, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-10-27 — An Uncommon Burial 26: ‘Daft Aul Cult’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-10-20 — An Uncommon Burial 25: "Canonball!" — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-10-13 — An Uncommon Burial 24 ‘Daylight Savings Time’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-29 — An Uncommon Burial 23 “Synchronise Watches (an interlude)” — speakers: Synchronise Watches, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-26 — The Order of the Stone 08 FINALE: 'Heart of Darkness' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-23 — An Uncommon Burial 22: “Infernal Squeezing” — speakers: Infernal Squeezing, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-18 — The Order of the Stone 07: 'Tertiary Positions' — speakers: Tertiary Positions, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-15 — An Uncommon Burial 21: “Biological Heresy” — speakers: Biological Heresy, Old Bollards, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-11 — The Order of the Stone 06: ‘Teatime’ — speakers: Remembering Too Much, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-08 — An Uncommon Burial 20: “Plant Them For Me” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-04 — The Order of the Stone 05: ‘Three Men in a Bout’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-09-02 — An Uncommon Burial 19: “Bubbles in The Glass” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-28 — The Order of the Stone 04: 'Castaway' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-26 — An Uncommon Burial 18: “Are We The Bad Guys?” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-21 — The Order of the Stone 03: 'The Ancient Mariner' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-19 — An Uncommon Burial 17: “The Crème de Menthe Affair” — speakers: Menthe Affair, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-14 — The Order of the Stone 02: ‘Skeleton Crew’ — speakers: Skeleton Crew, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-12 — An Uncommon Burial 16: “Eyes Open” — speakers: Eyes Open, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-07 — The Order of the Stone 01: ‘Champagne for Breakfast’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-08-05 — An Uncommon Burial 15: “One More, For The Road” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-07-28 — An Uncommon Burial 14: “Sleep No More” — speakers: Sleep No More, Letsby Avenue, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-07-21 — An Uncommon Burial 13: “The Third Policeman” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-07-14 — An Uncommon Burial 12: “Imagining Some Fear” — speakers: Imagining Some Fear, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-07-07 — An Uncommon Burial 11: “Hide & Seek” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-06-30 — An Uncommon Burial 10: “The Malice of Inanimate Objects” — speakers: Inanimate Objects, May Day, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-06-23 — An Uncommon Burial 09: “The Shambles” — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-06-20 — An Uncommon Burial 08: "Portable Nurse" — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-06-10 — An Uncommon Burial 07: "Library Use" — speakers: Library Use, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-06-03 — An Uncommon Burial 06: "The Book of Judith" — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-05-26 — An Uncommon Burial 05: "Just Not Cricket" — speakers: Just Not Cricket, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-05-19 — An Uncommon Burial 04: "The First Policeman" — speakers: Letsby Avenue, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-05-13 — An Uncommon Burial 03: "Where Faith Lies" — speakers: Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler
+- 2025-05-05 — An Uncommon Burial 02: "Oddchester Revisited" — speakers: Theodore Pew, Danann McAleer, Dominic Allen, Joseph Chance, Dan Wheeler
+- 2025-04-28 — An Uncommon Burial 01: "Just a Messenger" — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-04-21 — LIVE! A Bit of a Bother on Broadway 02 FINALE: ‘Rathello’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-04-14 — LIVE! A Bit of a Bother on Broadway 01: ‘All the Way to Calais’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-04-07 — Magnum Tenebrosum 19 FINALE: 'Journey's End' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-03-31 — Magnum Tenebrosum 18: 'Monty, You Terrible Cult!' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-03-24 — Magnum Tenebrosum 17: 'Tactical Necessity And Calculated Risk' — speakers: Magnum Tenebrosum, Harry Houdini, Alfred Nobel, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-03-17 — Magnum Tenebrosum 16: 'Get In The Back Of The Van!' — speakers: Magnum Tenebrosum, Dominic Al, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-03-10 — Magnum Tenebrosum 15: 'Accident Black Spot! These Aren't Accidents!' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-03-03 — Magnum Tenebrosum 14: 'Sensitive Crimes' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-02-24 — Magnum Tenebrosum 13: 'Reduced To The Status Of A Bum' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-02-17 — Magnum Tenebrosum 12: 'If You Hit Me, It's Murder' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-02-10 — Magnum Tenebrosum 11: 'Are You The Farmer?' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-02-03 — Magnum Tenebrosum 10: 'A Toilet Trader' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-01-27 — Magnum Tenebrosum 09: 'My Boys, My Boys!' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-01-20 — Magnum Tenebrosum 08: 'The Arena Of The Unwell' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-01-13 — Magnum Tenebrosum 07: 'God Fulfils Himself In Many Ways' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2025-01-06 — Magnum Tenebrosum 06: 'Officer, Honestly, I've Only Had A Few Ales!' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-12-30 — Magnum Tenebrosum 05: 'Strangle It Instantly...' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-12-23 — Magnum Tenebrosum 04: 'Beastly Mud and Oomska' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-12-16 — Magnum Tenebrosum 03: 'Vintage Wine and Memories' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-12-09 — Magnum Tenebrosum 02: 'The Kind of Windows Faces Look In At' — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-12-02 — Magnum Tenebrosum 01: 'We've Gone On Holiday By Mistake' | Call of Cthulhu Actual Play — speakers: Magnum Tenebrosum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-11-18 — FEED SWAP: Hell or High Rollers — S1 Ep1 ‘Avernus’ — speakers: High Rollers, Mischief Theatre, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-11-04 — Dead Light 03 FINALE: 'Waxy Bisque' — speakers: Dead Light, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-10-28 — Dead Light 02: 'Scatting and Violence' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-10-21 — Dead Light 01: 'Rain and Ash' | Call of Cthulhu Actual Play — speakers: Dead Light, Cthulhu Actual Play, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-10-14 — A Message of Art 13 FINALE: ‘Reality Check’ — speakers: Matthew Sanderson, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-10-07 — A Message of Art 12: ‘Who the Hell is Edgar?’ — speakers: Clovis Herbert, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-09-30 — A Message of Art 11: ‘The Workshop of Daedalus’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-09-23 — A Message of Art 10: ‘Le Labyrinthe’ — speakers: Clovis Herbert, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-09-16 — A Message of Art 09: ‘Quoi Le F***’ — speakers: Quoi Le, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-09-09 — A Message of Art 08: ‘Graphite and Oils’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-09-02 — A Message of Art 07: ‘Au Revoir, pas Adieu’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-08-25 — A Message of Art 06: ‘Les Flics et la Flaque’ — speakers: Les Flics, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-08-19 — A Message of Art 05: ‘Crash, Splatter and Pop’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-08-12 — A Message of Art 04: ‘Déjà Rêvé’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-08-05 — A Message of Art 03: ‘Champagne and Shit’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-07-29 — A Message of Art 02: ‘The Pit and the Pendulum’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-07-22 — A Message of Art 01: ‘Absinthe and Crème de Menthe’ | Call of Cthulhu Actual Play — speakers: Crème de Menthe, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-07-16 — The Moonchild 13 FINALE: 'The Thirteen' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-07-09 — The Moonchild 12: 'Abomination' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-07-02 — The Moonchild 11: 'In Mirrors Seen' — speakers: David Barber, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-06-25 — The Moonchild 10: 'Fear And Fury In Equal Parts' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-06-17 — The Moonchild 09: 'The Realm of The Real' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-06-11 — The Moonchild 08: 'Things Fall Apart' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-06-04 — The Moonchild 07: 'Strange Conference' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-05-27 — The Moonchild 06: 'Many Paths to Power' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-05-21 — The Moonchild 05: 'Rearranging The Self' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-05-13 — The Moonchild 04: 'Uppers, Downers, Highs & Lows' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-05-06 — The Moonchild 03: 'Sins & Needles' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-04-29 — The Moonchild 02: 'For Love Nor Money' — speakers: Sarah Moore, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-04-22 — The Moonchild 01: 'Reunion' | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-04-15 — Bleak Prospect 12 FINALE: 'Citizen Freyn' — speakers: Bleak Prospect, Citizen Freyn, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-04-08 — Bleak Prospect 11: 'Quantum Parasite' — speakers: Bleak Prospect, Quantum Parasite, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-04-01 — Bleak Prospect 10: 'Crawley Welcomes Careful Drivers' — speakers: Bleak Prospect, Crawley Welcomes Careful Drivers, Cthulhu Scenario, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-03-25 — Bleak Prospect 09: 'A Gut Feeling' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-03-19 — Bleak Prospect 08: 'Reflux' — speakers: Bleak Prospect, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-03-11 — Bleak Prospect 07: 'Moist Air' — speakers: Bleak Prospect, Moist Air, Cthulhu Scenario, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-03-04 — Bleak Prospect 06: 'The Mallard Cometh' — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-02-26 — Bleak Prospect 05: 'What The Doctor Saw' — speakers: Bleak Prospect, Cthulhu Scenario, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-02-19 — Bleak Prospect 04: 'The Other Side of the Fence' — speakers: Bleak Prospect, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-02-12 — Bleak Prospect 03: 'Babes In The Wood' — speakers: Bleak Prospect, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-02-05 — Bleak Prospect 02: 'Shantytown Blues' — speakers: Bleak Prospect, Shantytown Blues, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-01-29 — Bleak Prospect 01: 'Chicago Overcoat' | Call of Cthulhu Actual Play — speakers: Bleak Prospect, Chicago Overcoat, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-01-22 — An update from Apocalypse Towers... — speakers: Apocalypse Towers, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2024-01-01 — Il Portico di San Luca 08 FINALE: ‘The Feast of the Ascension’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-12-25 — Il Portico di San Luca 07: ‘An Ecumenical Matter’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-12-18 — Il Portico di San Luca 06: ‘The Chains of the Orcolat’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-12-11 — Il Portico di San Luca 05: ‘Suspicion and Superstition’ — speakers: San Luca, Robert expos, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-12-04 — Il Portico di San Luca 04: ‘Into the Dark’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-11-27 — Il Portico di San Luca 03: ‘Private Business’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-11-20 — Il Portico di San Luca 02: ‘A Spot of Sightseeing’ — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-11-13 — Il Portico di San Luca 01: ‘Don’t Cook Now’ | Call of Cthulhu Actual Play — speakers: San Luca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-11-07 — Trail of The Loathsome Slime 7 REMASTERED FINALE: ” No Gods or Kings” — speakers: No Gods, Griffon Island, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-10-31 — Trail of The Loathsome Slime 6: ”Shore Dweller” — speakers: Shore Dweller, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-10-23 — Trail of The Loathsome Slime 5: ’How to Detect Things’ — speakers: Detect Things, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-10-16 — Trail of The Loathsome Slime 4: ’”Post Traumatic Ship Disorder’ — speakers: Post Traumatic Ship Disorder, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-10-09 — Trail of The Loathsome Slime 3: ’Ways To Destroy Ourselves’ — speakers: Griffon Island, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-10-02 — Trail of The Loathsome Slime 2: ’Full Steam Ahead’ — speakers: Full Steam Ahead, Epsilon Pioneer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-09-25 — Trail of The Loathsome Slime 1: ’Epsilon Pioneer’ | Call of Cthulhu Actual Play — speakers: Epsilon Pioneer, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-09-19 — Highway of Blood 15 FINALE: ‘Paradise Lost’ — speakers: Paradise Lost, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-09-12 — Highway of Blood 14: ‘Sliding Doors’ — speakers: Sliding Doors, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-09-05 — Highway of Blood 13: ‘Face Off’ — speakers: Face Off, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-08-28 — Highway of Blood 12: ‘Desperation’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-08-21 — Highway of Blood 11: ‘The Burial of the Dead’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-08-14 — Highway of Blood 10: ‘Hereditary’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-08-08 — Highway of Blood 09: ‘The Tortoise and The Hare’ — speakers: horrifying consequences, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-08-01 — Highway of Blood 08: ‘Abattoir Drift’ — speakers: Abattoir Drift, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-07-25 — Highway of Blood 07: ‘The Red Road’ — speakers: improvised weapons, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-07-18 — Highway of Blood 06: ‘Trail of Destruction’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-07-10 — Highway of Blood 05: ‘Testing the Waters’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-07-03 — Highway of Blood 04: ‘Whistlin’ Dixie’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-06-26 — Highway of Blood 03: ‘Thunderstruck’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-06-19 — Highway of Blood 02: ‘A Biscuit a Day…’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-06-12 — Highway of Blood 01: ‘The Devil’s Backbone’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-05-22 — The Afflicted 07 FINALE: ‘A Hot Night in Harlem’ — speakers: Hot Night, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-05-15 — The Afflicted 06: ‘The Man Who Knew Too Much’ — speakers: Too Much, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-05-08 — The Afflicted 05: ‘The Irishman’ — speakers: Cthulhu Sc, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-05-01 — The Afflicted 04: ‘Dial “M” for Murder’ — speakers: Detective Ferrari, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-04-24 — The Afflicted 03: ‘Farewell, My Lovely’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-04-17 — The Afflicted 02: ‘The Third Man’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-04-10 — The Afflicted 01: ‘The Big Heat’—or ‘Dreams, Donuts and Dogs’ | Call of Cthulhu Actual Play — speakers: New Yor, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-04-04 — Crimson Letters 15 FINALE: ’The Conqueror Worm’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-03-27 — Crimson Letters 14: ’Supernatural Horror in Academia’ — speakers: Crimson Letters, Supernatural Horror, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-03-20 — Crimson Letters 13: ’Post-Mortem’ — speakers: Crimson Letters, Abner Wick, Cthulhu Sce, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-03-13 — Crimson Letters 12: ’The Autopsy’ or ’I Smell Dead People’ — speakers: Charles Leiter, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-03-06 — Crimson Letters 11: ’The White Mask’ — speakers: Unconsidered Trifles, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-02-27 — Crimson Letters 10: ’The Big Sleep’ — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-02-20 — Crimson Letters 09: ’Hygiene and Morality’ — speakers: Arkham Asylum, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-02-13 — Crimson Letters 08: ’A Crack in the Porcelain’ — speakers: Alan Bligh, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-02-06 — Crimson Letters 07: ’Hide and Seek’ — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-01-30 — Crimson Letters 06: ’Unconsidered Trifles’ — speakers: Crimson Letters, Unconsidered Trifles, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-01-23 — Crimson Letters 05: ’A Pause For Thought’ — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-01-16 — Christmas in Kingsport 06 FINALE: ’My True Love Gave To Me’ — speakers: My True Love Gave, Police Officers, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-01-09 — Christmas in Kingsport 05: ’Do Cowboys Dream of Arresting Sheep?’ — speakers: Do Cowboys Dream, Arresting Sheep, Kingsport Cops, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2023-01-02 — Christmas in Kingsport 04: ’Feast In A Forest Hall’ — speakers: Forest Hall, Belvedere House, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-12-26 — Christmas in Kingsport 03: ’House Of The Weak-Heart Mouse’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-12-24 — Christmas in Kingsport 02: ’Bipedal Moose On The Roof’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-12-19 — Christmas in Kingsport 01: ’Three Cops A Calling’ | Call of Cthulhu Actual Play — speakers: Three Cops, Detective Constables, Detective Inspector, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-12-12 — Crimson Letters 04: ’Roadhouse’ — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-12-05 — Crimson Letters 03: ’Overfamiliar’ — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-11-28 — Crimson Letters 02: ’The Hurly Burly’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-11-21 — Crimson Letters 01: ’Through The Looking Glass’ | Call of Cthulhu Actual Play — speakers: Crimson Letters, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-11-14 — ’A Glimpse into the Inner Sanctum’ — speakers: Joseph bri, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-11-02 — A Residence at the Bay 09 FINALE: ’Hold Fast’ — speakers: Hold Fast, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-10-25 — A Residence at the Bay 08: ’Into the Crowe’s Nest’ — speakers: Fatty Owls, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-10-17 — A Residence at The Bay 07: ‘…Doth close behind him tread’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-10-10 — A Residence at the Bay 06: ’Batten Down the Hatches’ — speakers: Batten Down, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-10-03 — A Residence at the Bay 05: ’The Albatross’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-09-26 — A Residence at the Bay 04: ’Stitched Up like a Kipper’ — speakers: Stitched Up, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-09-19 — A Residence at the Bay 03: ’High & Dry’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-09-12 — A Residence at the Bay 02: ‘The Doldrums’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-09-05 — A Residence at the Bay 01: ‘Fair Winds and Following Seas’ | Call of Cthulhu Actual Play — speakers: Fair Winds, Following Seas, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-08-29 — The House In The Woods 08 FINALE: The Mobility of The Soul — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-08-22 — The House In The Woods 07: The Angels In The Trees — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-08-15 — The House In The Woods 06: The Root Cellar — speakers: Gary Pilkington, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-08-08 — The House In The Woods 05: The Threshold — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-08-01 — The House In The Woods 04: The White Moon Stores Road — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-07-25 — The House In The Woods 03: The Teeth of The Mind — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-07-18 — The House In The Woods 02: The Talking Cure — speakers: Green Acres Sanatorium, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-07-11 — The House In The Woods 01: The Post Master, The Pilot & The Poissonnier | Call of Cthulhu Actual Play — speakers: Maine Society, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-07-05 — The Lightless Beacon 03 FINALE: ’Hell Is Empty And All The Devils Are Here’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-06-27 — The Lightless Beacon 02: ’A Very Ancient And Fish-Like Smell’ — speakers: Leigh Ca, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-06-20 — The Lightless Beacon 01: ’The Isle Is Full Of Noises’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-06-13 — Unland 08 FINALE: ‘Enter Sandman’ — speakers: Enter Sandman, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-06-06 — Unland 07: ‘It Ain’t Over ‘til It’s Over’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-05-30 — Unland 06: ‘The Phylactery of the Lich King Bjornbye’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-05-23 — Unland 05: ‘The Voice of Oslac Cynehelm’ — speakers: Oslac Cynehelm, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-05-16 — Unland 04: ‘The Mines of Za Za Bazaar’ — speakers: Za Za Bazaar, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-05-09 — Unland 03: ‘November Rain’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-05-02 — Unland 02: ‘Smells Like Teen Spirit’ — speakers: Smells Like Teen Spirit, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-04-25 — Unland 01: ‘Can I Kick It?’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-04-18 — Saturnine Chalice 05 FINALE: ’Satan The Adversary’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-04-11 — Saturnine Chalice 04: ’Leviathan The Chaos’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-04-04 — Saturnine Chalice 03: ’Legion The Many’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-03-28 — Saturnine Chalice 02: ’Lazarus The Risen’ — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-03-21 — Saturnine Chalice 01: ’Gabriel The Herald’ | Call of Cthulhu Actual Play — speakers: Saturnine Chalice, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-02-28 — Machine Tractor Station Kharkov-37 12 FINALE: ‘Is That The Good Stuff?’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-02-28 — Machine Tractor Station Kharkov-37 11: ‘The Crater’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-02-21 — Machine Tractor Station Kharkov-37 10: ‘A Shimmer on the Horizon’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-02-14 — Machine Tractor Station Kharkov-37 09: ‘The Lieutenant’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-02-07 — Machine Tractor Station Kharkov-37 08: ‘The Meteor Shower’ — speakers: Machine Tractor Station Kharkov, Cthulhu Scenario, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-31 — Machine Tractor Station Kharkov-37 07: ‘Iurenkovo’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-24 — Machine Tractor Station Kharkov-37 06: ‘Comrade Doctor’ — speakers: Machine Tractor Station Kharkov, Comrade Doctor, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-17 — Machine Tractor Station Kharkov-37 05: ‘Some Things Are Best Forgotten’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-11 — A Christmas Inheritance 08 FINALE: ‘Epiphany’ — speakers: Christmas Inheritance, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-07 — A Christmas Inheritance 07: ‘Oh, Whistle, And I’ll Come To You, My Lad’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2022-01-03 — A Christmas Inheritance 06: ‘The Holly Bears A Bark’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-12-27 — A Christmas Inheritance 05: ‘Hide And Seek’ — speakers: Christmas Inheritance, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-12-24 — A Christmas Inheritance 04: ‘A Sort Of... Dog’ — speakers: Christmas Inheritance, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-12-20 — A Christmas Inheritance 03: ‘Two Kings’ — speakers: Christmas Inheritance, Two Kings, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-12-13 — A Christmas Inheritance 02: ‘A Game of Bear’ — speakers: Christmas Inheritance, Warham Hall, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-12-06 — A Christmas Inheritance 01: ‘A Partridge and a Dead Tree’ | Call of Cthulhu Actual Play — speakers: Christmas Inheritance, Dead Tree, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-11-29 — Machine Tractor Station Kharkov-37 04: ‘The Doll and the Skull’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-11-22 — Machine Tractor Station Kharkov-37 03: ‘The Rural Electrification Truck’ — speakers: Machine Tractor Station Kharkov, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-11-15 — Machine Tractor Station Kharkov-37 02: ‘The Silo’ — speakers: Machine Tractor Station Kharkov, Red Army, Telegraph Service, Tractor Station, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-11-08 — Machine Tractor Station Kharkov-37 01: ‘The Rabbit’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-11-01 — Allhallowstide 03 FINALE: ‘Hollow Hills’ — speakers: Hollow Hills, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-31 — Allhallowstide 02: ‘Monolithic Hierogasm’ — speakers: Magicke Wordes, Anciente Seales, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-30 — Allhallowstide 01: ‘Marked by Death’ | Dee Sanction Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-26 — The Crack’d and Crook’d Manse 07 FINALE: ‘Spores’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-18 — The Crack’d and Crook’d Manse 06: ‘Cold Callers’ — speakers: Cold Callers, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-11 — The Crack’d and Crook’d Manse 05: ‘Denying Gravity’ — speakers: Denying Gravity, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-10-04 — The Crack’d and Crook’d Manse 04: ‘The Walls Have Eyes’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-09-27 — The Crack’d and Crook’d Manse 03: ‘Advanced Mansions & Madness’ — speakers: Advanced Mansions, Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-09-20 — The Crack’d and Crook’d Manse 02: ‘101 Occult Uses For Salt’ — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-09-20 — The Crack’d and Crook’d Manse 01: ‘The Brothers Dodge’ | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler
+- 2021-08-21 — Introducing The Apocalypse Players | Call of Cthulhu Actual Play — speakers: Dominic Allen, Joseph Chance, Danann McAleer, Dan Wheeler

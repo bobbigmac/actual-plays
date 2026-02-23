@@ -2,8 +2,8 @@
 
 - slug: `advantage-a-5e-dungeons-dragons-podcast`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:251064485/sounds.rss`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "http://advantagednd.com",
   "description": "Advantage is a homebrew, actual-play, 5th Edtion Dungeons & Dragons audio drama focusing on storytelling and character development, and a member of the Darkmore Podcast Network.",
   "image_url": "https://i1.sndcdn.com/avatars-000281953157-ea71wc-original.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -108,13 +108,8 @@
       "enclosure_length": "63687783",
       "itunes_duration": "01:06:20",
       "speakers": [
-        "Daniel Grayling",
-        "Kelly Website",
-        "Yessy Lemus",
-        "Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Underfjall Check",
+        "Aurita Mission"
       ],
       "topics": [
         "underfjall"
@@ -132,13 +127,7 @@
       "enclosure_length": "50746513",
       "itunes_duration": "00:52:51",
       "speakers": [
-        "Daniel Grayling",
-        "Kelly Website",
-        "Yessy Lemus",
-        "Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Spared Sponsor"
       ],
       "topics": [
         "devils",
@@ -158,14 +147,7 @@
       "enclosure_length": "47298768",
       "itunes_duration": "00:49:16",
       "speakers": [
-        "Hamatula Sponsor",
-        "Daniel Grayling",
-        "Kelly Website",
-        "Yessy Lemus",
-        "Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Hamatula Sponsor"
       ],
       "topics": [
         "hamatula"
@@ -182,15 +164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97085648",
       "itunes_duration": "01:41:07",
-      "speakers": [
-        "Daniel Grayling",
-        "Kelly Website",
-        "Yessy Lemus",
-        "Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "anniversary",
         "year"
@@ -207,15 +181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66590092",
       "itunes_duration": "01:09:21",
-      "speakers": [
-        "Daniel Grayling",
-        "Kelly Website",
-        "Yessy Lemus",
-        "Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "deal",
         "devil"
@@ -232,15 +198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129625968",
       "itunes_duration": "01:15:36",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "watchtower"
       ]
@@ -256,15 +214,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156612525",
       "itunes_duration": "01:05:15",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "watchtower"
       ]
@@ -280,15 +230,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82857481",
       "itunes_duration": "01:26:18",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "verbulg"
       ]
@@ -307,12 +249,7 @@
       "speakers": [
         "Civic Duties",
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Ormin Aud"
       ],
       "topics": [
         "civic",
@@ -332,12 +269,7 @@
       "itunes_duration": "01:31:53",
       "speakers": [
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Daniel Gr"
       ],
       "topics": [
         "executioner"
@@ -357,12 +289,7 @@
       "speakers": [
         "Iron Tusk",
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Daniel Gr"
       ],
       "topics": [
         "iron",
@@ -382,12 +309,7 @@
       "itunes_duration": "00:46:41",
       "speakers": [
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Daniel Gr"
       ],
       "topics": [
         "hird"
@@ -406,12 +328,7 @@
       "itunes_duration": "01:50:13",
       "speakers": [
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Daniel Gr"
       ],
       "topics": [
         "anniversary",
@@ -432,12 +349,7 @@
       "itunes_duration": "00:34:43",
       "speakers": [
         "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Daniel Gr"
       ],
       "topics": [
         "flame"
@@ -455,13 +367,7 @@
       "enclosure_length": "93926216",
       "itunes_duration": "00:48:55",
       "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "captured prisoners"
       ],
       "topics": [
         "deal"
@@ -478,15 +384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118892590",
       "itunes_duration": "01:01:55",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "anthem"
       ]
@@ -502,15 +400,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93926216",
       "itunes_duration": "00:48:55",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "sisterhood"
       ]
@@ -567,13 +457,7 @@
       "enclosure_length": "92831998",
       "itunes_duration": "00:48:20",
       "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
+        "Ulfhild Sea"
       ],
       "topics": [
         "nonchalance"
@@ -590,15 +474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129164356",
       "itunes_duration": "01:07:16",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "elder",
         "svik"
@@ -615,15 +491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90121951",
       "itunes_duration": "00:46:56",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "messes"
       ]
@@ -639,15 +507,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94971949",
       "itunes_duration": "00:49:27",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus Irshen Bhethethnosh",
-        "Stephen Sivils Agnar Elf-Breaker",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "strenga",
         "scar"
@@ -664,15 +524,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97967881",
       "itunes_duration": "00:51:01",
-      "speakers": [
-        "Blake Bost",
-        "Daniel Grayling Character Art",
-        "Emmaline Kelly Website",
-        "Yessy Lemus",
-        "Stephen Sivils",
-        "Sarah Zimmerman Dungeon",
-        "Joe Love"
-      ],
+      "speakers": [],
       "topics": [
         "tavern"
       ]
@@ -689,11 +541,7 @@
       "enclosure_length": "1480328",
       "itunes_duration": "00:00:46",
       "speakers": [
-        "Advantage Arc",
-        "Yessy Lemus",
-        "Sarah Zimmerman",
-        "Stephen Sivils",
-        "Joe Love"
+        "Advantage Arc"
       ],
       "topics": [
         "advantage"
@@ -884,10 +732,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89314454",
       "itunes_duration": "00:46:30",
-      "speakers": [
-        "Mauldo Keep",
-        "Unknown Associates"
-      ],
+      "speakers": [],
       "topics": [
         "raid",
         "mauldo"
@@ -1047,9 +892,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130685727",
       "itunes_duration": "01:08:03",
-      "speakers": [
-        "Arc Two"
-      ],
+      "speakers": [],
       "topics": [
         "heist"
       ]
@@ -1065,7 +908,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83035871",
       "itunes_duration": "00:43:14",
-      "speakers": [],
+      "speakers": [
+        "Unknown Associates"
+      ],
       "topics": [
         "quest"
       ]
@@ -1165,7 +1010,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89693961",
       "itunes_duration": "00:46:42",
-      "speakers": [],
+      "speakers": [
+        "Unknown Associates"
+      ],
       "topics": [
         "dwarf",
         "father"
@@ -1337,7 +1184,7 @@
       "enclosure_length": "132207099",
       "itunes_duration": "01:08:51",
       "speakers": [
-        "fcNpsB Snp"
+        "Year Four"
       ],
       "topics": [
         "anniversary",
@@ -1515,7 +1362,7 @@
       "enclosure_length": "88837980",
       "itunes_duration": "00:46:16",
       "speakers": [
-        "gg jMZyy"
+        "Michel Foucault"
       ],
       "topics": [
         "imprimatur"
@@ -1619,9 +1466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64326843",
       "itunes_duration": "01:07:00",
-      "speakers": [
-        "Sulok Soulkeeper"
-      ],
+      "speakers": [],
       "topics": [
         "disadvantage",
         "undoing"
@@ -1638,9 +1483,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54926523",
       "itunes_duration": "00:57:12",
-      "speakers": [
-        "Sulok Soulkeeper"
-      ],
+      "speakers": [],
       "topics": [
         "disadvantage",
         "undoing"
@@ -2015,7 +1858,8 @@
       "enclosure_length": "109999254",
       "itunes_duration": "00:57:17",
       "speakers": [
-        "Network Discord"
+        "Unknown Associates",
+        "Grimton Steadyhand"
       ],
       "topics": [
         "folklore",
@@ -2171,8 +2015,7 @@
       "enclosure_length": "104245628",
       "itunes_duration": "00:54:17",
       "speakers": [
-        "Erika Tri",
-        "King Greysunder"
+        "Erika Tri"
       ],
       "topics": [
         "home",
@@ -2191,8 +2034,9 @@
       "enclosure_length": "123505188",
       "itunes_duration": "01:04:19",
       "speakers": [
-        "King Greysunder",
-        "Cheif Arrow"
+        "No Rest",
+        "Righteous Though",
+        "Tempest Oath"
       ],
       "topics": [
         "rest",
@@ -2318,7 +2162,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55608551",
       "itunes_duration": "00:38:37",
-      "speakers": [],
+      "speakers": [
+        "Arc One Finale"
+      ],
       "topics": [
         "finale"
       ]
@@ -2334,7 +2180,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90810537",
       "itunes_duration": "01:03:04",
-      "speakers": [],
+      "speakers": [
+        "Arc One Finale",
+        "Tempest Oath"
+      ],
       "topics": [
         "finale"
       ]
@@ -2471,7 +2320,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63170060",
       "itunes_duration": "00:43:52",
-      "speakers": [],
+      "speakers": [
+        "Worst Elders Fallhide"
+      ],
       "topics": [
         "prepare",
         "worst"
@@ -2488,7 +2339,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49188698",
       "itunes_duration": "00:34:09",
-      "speakers": [],
+      "speakers": [
+        "Protected Remnants"
+      ],
       "topics": [
         "homecoming"
       ]
@@ -2520,7 +2373,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83106713",
       "itunes_duration": "00:57:42",
-      "speakers": [],
+      "speakers": [
+        "Garden Al"
+      ],
       "topics": [
         "garden"
       ]
@@ -2621,7 +2476,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62420868",
       "itunes_duration": "00:43:20",
-      "speakers": [],
+      "speakers": [
+        "Land Old"
+      ],
       "topics": [
         "circle",
         "land"
@@ -2723,7 +2580,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111532744",
       "itunes_duration": "01:17:27",
-      "speakers": [],
+      "speakers": [
+        "Spirits Lightning"
+      ],
       "topics": [
         "shelter",
         "spirit"
@@ -2931,7 +2790,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82643405",
       "itunes_duration": "00:57:23",
-      "speakers": [],
+      "speakers": [
+        "Baron Yoseph"
+      ],
       "topics": [
         "nearly",
         "destitute"
@@ -2948,9 +2809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68555464",
       "itunes_duration": "00:47:36",
-      "speakers": [
-        "Barnora Runehead"
-      ],
+      "speakers": [],
       "topics": [
         "posse",
         "fugitive"
@@ -3000,7 +2859,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59246677",
       "itunes_duration": "00:41:08",
-      "speakers": [],
+      "speakers": [
+        "New Moon Alrick"
+      ],
       "topics": [
         "dark",
         "moon"
@@ -3033,9 +2894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138674178",
       "itunes_duration": "01:36:18",
-      "speakers": [
-        "Twitter HowFriendsRoll"
-      ],
+      "speakers": [],
       "topics": [
         "switch",
         "series",
@@ -3103,10 +2962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54503258",
       "itunes_duration": "00:37:51",
-      "speakers": [
-        "Paren Siannodel",
-        "Elder Fallhide"
-      ],
+      "speakers": [],
       "topics": [
         "lament"
       ]
@@ -3138,7 +2994,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70124691",
       "itunes_duration": "00:48:42",
-      "speakers": [],
+      "speakers": [
+        "Consumption Elaris"
+      ],
       "topics": [
         "consumption"
       ]
@@ -3186,7 +3044,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67200022",
       "itunes_duration": "00:46:40",
-      "speakers": [],
+      "speakers": [
+        "Watched Forest"
+      ],
       "topics": [
         "customs",
         "traditions"
@@ -3203,7 +3063,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50723444",
       "itunes_duration": "00:35:13",
-      "speakers": [],
+      "speakers": [
+        "Beginning Hear"
+      ],
       "topics": [
         "beginning"
       ]
@@ -3219,31 +3081,31 @@
 - 2025-12-09 — 3.22 | The Realm Of Eemental Silt
 - 2025-10-15 — 3.21 | Plans and Holes
 - 2025-10-10 — Youtube Teaser — speakers: Youtube Teaser
-- 2025-09-10 — 3.20 | Underfjall — speakers: Daniel Grayling, Kelly Website, Yessy Lemus, Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2025-04-17 — 3.19 | Devils Slain And Devils Spared — speakers: Daniel Grayling, Kelly Website, Yessy Lemus, Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2025-02-06 — 3.18 | Hamatula — speakers: Hamatula Sponsor, Daniel Grayling, Kelly Website, Yessy Lemus, Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2025-01-06 — Anniversary | Year 8 — speakers: Daniel Grayling, Kelly Website, Yessy Lemus, Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-11-29 — 3.17 | Deals With The Devils — speakers: Daniel Grayling, Kelly Website, Yessy Lemus, Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-08-29 — 3.16 | The Watchtower pt. 2 — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-07-25 — 3.15 | The Watchtower pt. 1 — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-05-21 — 3.14 | Verbulg — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-04-10 — 3.13 | Civic Duties — speakers: Civic Duties, Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-03-04 — 3.12 | The Executioner — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-02-12 — 3.11 | Iron Tusk — speakers: Iron Tusk, Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-01-14 — 3.10 | The Hird — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2024-01-01 — Anniversary | Year Seven — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-11-26 — 3.9 | Up In Flames — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-10-19 — 3.8 | Deals Made — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-09-27 — 3.7 | The Anthem — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-09-04 — 3.6 | Sisterhood — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
+- 2025-09-10 — 3.20 | Underfjall — speakers: Underfjall Check, Aurita Mission
+- 2025-04-17 — 3.19 | Devils Slain And Devils Spared — speakers: Spared Sponsor
+- 2025-02-06 — 3.18 | Hamatula — speakers: Hamatula Sponsor
+- 2025-01-06 — Anniversary | Year 8
+- 2024-11-29 — 3.17 | Deals With The Devils
+- 2024-08-29 — 3.16 | The Watchtower pt. 2
+- 2024-07-25 — 3.15 | The Watchtower pt. 1
+- 2024-05-21 — 3.14 | Verbulg
+- 2024-04-10 — 3.13 | Civic Duties — speakers: Civic Duties, Blake Bost, Ormin Aud
+- 2024-03-04 — 3.12 | The Executioner — speakers: Blake Bost, Daniel Gr
+- 2024-02-12 — 3.11 | Iron Tusk — speakers: Iron Tusk, Blake Bost, Daniel Gr
+- 2024-01-14 — 3.10 | The Hird — speakers: Blake Bost, Daniel Gr
+- 2024-01-01 — Anniversary | Year Seven — speakers: Blake Bost, Daniel Gr
+- 2023-11-26 — 3.9 | Up In Flames — speakers: Blake Bost, Daniel Gr
+- 2023-10-19 — 3.8 | Deals Made — speakers: captured prisoners
+- 2023-09-27 — 3.7 | The Anthem
+- 2023-09-04 — 3.6 | Sisterhood
 - 2023-06-23 — Disadvantage | Richtenburg Rumble pt.2 — speakers: Richtenburg Rumble
 - 2023-06-02 — Disadvantage | Richtenburg Rumble pt.1 — speakers: Richtenburg Rumble
-- 2023-05-14 — 3.5 | Nonchalance — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-04-27 — 3.4 | Elder Svik the Blind — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-03-25 — 3.3 | Messes Made — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-03-03 — 3.2 | Strenga & Hundred-Scars — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus Irshen Bhethethnosh, Stephen Sivils Agnar Elf-Breaker, Sarah Zimmerman Dungeon, Joe Love
-- 2023-02-12 — 3.1 | You Meet in a Tavern — speakers: Blake Bost, Daniel Grayling Character Art, Emmaline Kelly Website, Yessy Lemus, Stephen Sivils, Sarah Zimmerman Dungeon, Joe Love
-- 2023-01-31 — Trailer | Advantage Arc Three — speakers: Advantage Arc, Yessy Lemus, Sarah Zimmerman, Stephen Sivils, Joe Love
+- 2023-05-14 — 3.5 | Nonchalance — speakers: Ulfhild Sea
+- 2023-04-27 — 3.4 | Elder Svik the Blind
+- 2023-03-25 — 3.3 | Messes Made
+- 2023-03-03 — 3.2 | Strenga & Hundred-Scars
+- 2023-02-12 — 3.1 | You Meet in a Tavern
+- 2023-01-31 — Trailer | Advantage Arc Three — speakers: Advantage Arc
 - 2023-01-04 — Anniversary | Year Six — speakers: Arc Two
 - 2022-12-27 — 2.74 | Epilogue — speakers: Alrick Ormin
 - 2022-12-23 — 2.73 | Arc Two Finale pt. 3 — speakers: Arc Two Finale
@@ -3254,7 +3116,7 @@
 - 2022-10-09 — 2.68 | The Shattered Coast
 - 2022-09-08 — 2.67 | Aftermath
 - 2022-08-14 — 2.66 | The Raid on Mauldo Keep pt. 3 — speakers: Mauldo Keep
-- 2022-07-18 — 2.65 | The Raid on Mauldo Keep pt. 2 — speakers: Mauldo Keep, Unknown Associates
+- 2022-07-18 — 2.65 | The Raid on Mauldo Keep pt. 2
 - 2022-06-20 — 2.64 | The Raid on Mauldo Keep pt. 1
 - 2022-05-21 — 2.63 | Writing in Snow
 - 2022-04-13 — 2.62 | A Squad, B Squad & C Squad
@@ -3263,14 +3125,14 @@
 - 2022-02-23 — 2.60 | The Palace of Winter pt. 2 — speakers: Unknown Associates
 - 2022-01-23 — 2.59 | The Palace of Winter pt. 1
 - 2021-12-31 — Anniversary | Year Five — speakers: Year Five Anniversary, Year Five
-- 2021-12-26 — 2.58 | A Heist — speakers: Arc Two
-- 2021-12-08 — 2.57 | A "Quest"
+- 2021-12-26 — 2.58 | A Heist
+- 2021-12-08 — 2.57 | A "Quest" — speakers: Unknown Associates
 - 2021-11-21 — 2.56 | The Ferryman
 - 2021-10-29 — 2.55 | Flashbacks
 - 2021-10-09 — Disadvantage | The City of Fire pt. 1
 - 2021-09-17 — 2.54 | Chaos Shaft pt. 2
 - 2021-08-28 — 2.53 | Chaos Shaft pt. 1
-- 2021-08-08 — 2.52 | The Dwarf Father
+- 2021-08-08 — 2.52 | The Dwarf Father — speakers: Unknown Associates
 - 2021-07-22 — 2.51 | Space Piracy
 - 2021-06-27 — 2.50 | Amongst the Stars
 - 2021-06-11 — 2.49 | Celestial Politics — speakers: fcNpsB Snp
@@ -3280,7 +3142,7 @@
 - 2021-02-20 — 2.45 | Into the Spring Wood pt. 2 — speakers: Spring Wood
 - 2021-01-26 — 2.44 | Into the Spring Wood pt. 1
 - 2021-01-08 — Anniversary | Year Four pt. 2 — speakers: Year Four
-- 2021-01-01 — Anniversary | Year Four pt. 1 — speakers: fcNpsB Snp
+- 2021-01-01 — Anniversary | Year Four pt. 1 — speakers: Year Four
 - 2020-12-30 — Trailer | Playing Out of Character Season Two
 - 2020-12-11 — 2.43 | Celebrations
 - 2020-11-21 — 2.42 | Split Party pt. 3 — speakers: Split Party, fcNpsB Snp
@@ -3290,14 +3152,14 @@
 - 2020-08-25 — 2.38 | A Real Firebrand — speakers: Elafir Gaeldrim
 - 2020-08-02 — 2.37 | Visitations
 - 2020-07-14 — 2.36 | Astronomy For Beginners
-- 2020-06-27 — 2.35 | Imprimatur — speakers: gg jMZyy
+- 2020-06-27 — 2.35 | Imprimatur — speakers: Michel Foucault
 - 2020-06-12 — 2.34 | Out For Brunch
 - 2020-05-15 — 2.33 | Law School — speakers: James Pony, Erika Tri
 - 2020-05-01 — 2.32 | Catherine Gaeldrim — speakers: Catherine Gaeldrim
 - 2020-04-17 — 2.31 | The Azure Keep
 - 2020-04-03 — 2.30 | Fast Travel
-- 2020-03-31 — Disadvantage | Undoing pt. 2 — speakers: Sulok Soulkeeper
-- 2020-03-25 — Disadvantage | Undoing pt. 1 — speakers: Sulok Soulkeeper
+- 2020-03-31 — Disadvantage | Undoing pt. 2
+- 2020-03-25 — Disadvantage | Undoing pt. 1
 - 2020-03-20 — 2.29 | Tyrants' Bane
 - 2020-02-28 — 2.28 | Strikebreakers pt. 3
 - 2020-02-14 — 2.27 | Strikebreakers pt. 2
@@ -3319,7 +3181,7 @@
 - 2019-07-11 — 2.14 | Boots & Taps — speakers: Dav Rama
 - 2019-06-28 — 2.13 | A Routine Sidequest... pt. 2 — speakers: Routine Sidequest
 - 2019-06-14 — 2.12 | A Routine Sidequest... pt. 1 — speakers: Routine Sidequest
-- 2019-05-31 — 2.11 | Folklore & Folk Dance — speakers: Network Discord
+- 2019-05-31 — 2.11 | Folklore & Folk Dance — speakers: Unknown Associates, Grimton Steadyhand
 - 2019-05-17 — 2.10 | The Unknown Associates of Grimton Steadyhand
 - 2019-05-02 — 2.9 | The Light that Slays the Dark
 - 2019-04-19 — 2.8 | Amethyst Hearts — speakers: Amethyst Hearts
@@ -3328,16 +3190,16 @@
 - 2019-03-08 — 2.5 | Decomposition
 - 2019-02-22 — 2.4 | The Godsdream
 - 2019-02-07 — 2.3 | Down into Darkness
-- 2019-01-25 — 2.2 | Never Home for Long — speakers: Erika Tri, King Greysunder
-- 2019-01-08 — 2.1 | No Rest for the Righteous — speakers: King Greysunder, Cheif Arrow
+- 2019-01-25 — 2.2 | Never Home for Long — speakers: Erika Tri
+- 2019-01-08 — 2.1 | No Rest for the Righteous — speakers: No Rest, Righteous Though, Tempest Oath
 - 2019-01-01 — Trailer | Advantage Arc Two — speakers: Advantage Arc Two
 - 2018-12-19 — Anniversary | Year Two
 - 2018-12-12 — Disadvantage | Clyyrd Labrynth pt. 1
 - 2018-12-04 — Patron Special | ft. Daniel, Kit, Jaryn, & Callahan
 - 2018-11-20 — 1.50 | Arc One Finale pt. 4 — speakers: Arch Druid, Elder Siannodel
 - 2018-11-07 — 1.49 | Arc One Finale pt. 3
-- 2018-10-24 — 1.48 | Arc One Finale pt. 2
-- 2018-10-09 — 1.47 | Arc One Finale pt. 1
+- 2018-10-24 — 1.48 | Arc One Finale pt. 2 — speakers: Arc One Finale
+- 2018-10-09 — 1.47 | Arc One Finale pt. 1 — speakers: Arc One Finale, Tempest Oath
 - 2018-10-02 — 1.46 | Battle Strategies
 - 2018-09-25 — 1.45 | Old Faith
 - 2018-09-11 — 1.44 | The Trek to Carver's Tooth
@@ -3345,22 +3207,22 @@
 - 2018-08-28 — 1.43 | Diplomatic Engagements
 - 2018-08-14 — 1.42 | Double-Booked — speakers: Lana Bryfiir
 - 2018-07-16 — 1.41 | Inspiring Action
-- 2018-07-03 — 1.40 | Prepare for the Worst
-- 2018-06-20 — 1.39 | Homecoming
+- 2018-07-03 — 1.40 | Prepare for the Worst — speakers: Worst Elders Fallhide
+- 2018-06-20 — 1.39 | Homecoming — speakers: Protected Remnants
 - 2018-06-06 — 1.38 | Old Friends
-- 2018-05-22 — 1.37 | The Hag's Garden
+- 2018-05-22 — 1.37 | The Hag's Garden — speakers: Garden Al
 - 2018-05-09 — 1.36 | Search Party
 - 2018-04-23 — 1.35 | Coins in the Water
 - 2018-04-11 — 1.34 | Library of Traditions pt. 3
 - 2018-03-28 — 1.33 | Library of Traditions pt. 2
 - 2018-03-14 — 1.32 | Library of Traditions pt. 1
-- 2018-02-28 — 1.31 | The Circle of the Land
+- 2018-02-28 — 1.31 | The Circle of the Land — speakers: Land Old
 - 2018-02-14 — 1.30 | Awakened Spirits
 - 2018-01-31 — 1.29 | Midnight Prayers — speakers: Midnight Prayers
 - 2018-01-17 — 1.28 | Give it the Beans
 - 2018-01-02 — Anniversary | Year One
 - 2018-01-02 — 1.27 | The Real Deathbringer
-- 2017-12-19 — 1.26 | The Shelter of Spirits
+- 2017-12-19 — 1.26 | The Shelter of Spirits — speakers: Spirits Lightning
 - 2017-12-05 — 1.25 | A Tour of Memories
 - 2017-11-21 — 1.24 | Return to Trail's End
 - 2017-11-07 — 1.23 | Cosmology Lessons — speakers: Cosmology Lessons Alrick
@@ -3372,20 +3234,20 @@
 - 2017-08-14 — 1.17 | Docketing Side Quests
 - 2017-08-08 — Mailbag | rec. June 2017
 - 2017-08-01 — 1.16 | Gong Farming & Other Shenanigans
-- 2017-07-18 — 1.15 | Nearly Destitute
-- 2017-07-04 — 1.14 | The Posse & the Fugitive — speakers: Barnora Runehead
+- 2017-07-18 — 1.15 | Nearly Destitute — speakers: Baron Yoseph
+- 2017-07-04 — 1.14 | The Posse & the Fugitive
 - 2017-06-20 — 1.13 | Our Blood Protects Our Treasure
 - 2017-06-06 — 1.12 | Stormhawk
-- 2017-05-23 — 1.11 | In the Dark of the New Moon
+- 2017-05-23 — 1.11 | In the Dark of the New Moon — speakers: New Moon Alrick
 - 2017-05-11 — 1.10 | Surrounded by Death
-- 2017-05-02 — Switch Series | ft. How Friends Roll — speakers: Twitter HowFriendsRoll
+- 2017-05-02 — Switch Series | ft. How Friends Roll
 - 2017-04-25 — 1.9 | First Blood
 - 2017-04-11 — 1.8 | Last Rites
 - 2017-03-27 — 1.7 | Protected Remnants
-- 2017-03-14 — 1.6 | The Lament — speakers: Paren Siannodel, Elder Fallhide
+- 2017-03-14 — 1.6 | The Lament
 - 2017-02-28 — 1.5 | Recovery
-- 2017-02-14 — 1.4 | Consumption
+- 2017-02-14 — 1.4 | Consumption — speakers: Consumption Elaris
 - 2017-02-14 — 1.3 | The Watcher
 - 2017-01-31 — 1.2 | New Opportunities
-- 2017-01-17 — 1.1 | Customs & Traditions
-- 2017-01-03 — 0.1 | In the Beginning
+- 2017-01-17 — 1.1 | Customs & Traditions — speakers: Watched Forest
+- 2017-01-03 — 0.1 | In the Beginning — speakers: Beginning Hear

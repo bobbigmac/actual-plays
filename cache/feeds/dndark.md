@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Realplay Podcast starring the iconic monsters of the Golden Age of Horror",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,8 +36,7 @@
       "enclosure_length": "46776320",
       "itunes_duration": "2923",
       "speakers": [
-        "Eliam Weinstock",
-        "Jeremy Villucci"
+        "Eliam Weinstock"
       ],
       "topics": [
         "table",
@@ -60,13 +59,7 @@
       "itunes_duration": "3000",
       "speakers": [
         "Mouse Game",
-        "Mild Gore",
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz Pinocchio",
-        "Nicole Carino Additional Music"
+        "Mild Gore"
       ],
       "topics": [
         "dndark",
@@ -88,8 +81,7 @@
       "enclosure_length": "51686504",
       "itunes_duration": "3230",
       "speakers": [
-        "Zach Macias",
-        "Jeremy Villucci"
+        "Zach Macias"
       ],
       "topics": [
         "table",
@@ -110,14 +102,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50232424",
       "itunes_duration": "3139",
-      "speakers": [
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz Pinocchio",
-        "Nicole Carino Additional Music"
-      ],
+      "speakers": [],
       "topics": [
         "dndark",
         "presents",
@@ -139,9 +124,7 @@
       "enclosure_length": "48187350",
       "itunes_duration": "3011",
       "speakers": [
-        "Sammy Glicker",
-        "Sammy's Instagram",
-        "Jeremy Villucci"
+        "Sammy Glicker"
       ],
       "topics": [
         "table",
@@ -163,14 +146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60489142",
       "itunes_duration": "3780",
-      "speakers": [
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz",
-        "Nicole Carino Additional Music"
-      ],
+      "speakers": [],
       "topics": [
         "dndark",
         "presents",
@@ -190,9 +166,7 @@
       "enclosure_length": "56417802",
       "itunes_duration": "3526",
       "speakers": [
-        "James Haeck",
-        "Follow James",
-        "Jeremy Villucci"
+        "James Haeck"
       ],
       "topics": [
         "table",
@@ -213,13 +187,7 @@
       "enclosure_length": "67004290",
       "itunes_duration": "4187",
       "speakers": [
-        "Ebony Castle",
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz",
-        "Nicole Carino Additional Music"
+        "Ebony Castle"
       ],
       "topics": [
         "dndark",
@@ -239,9 +207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39369247",
       "itunes_duration": "2460",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -263,10 +229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52752718",
       "itunes_duration": "3297",
-      "speakers": [
-        "Rude Tales",
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -288,14 +251,7 @@
       "enclosure_length": "86080365",
       "itunes_duration": "5380",
       "speakers": [
-        "Peter Gundyr",
-        "Ebony Castle",
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz",
-        "Nicole Carino Additional Music"
+        "Peter Gundyr"
       ],
       "topics": [
         "dndark",
@@ -315,9 +271,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54157061",
       "itunes_duration": "3384",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -337,14 +291,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87343438",
       "itunes_duration": "5458",
-      "speakers": [
-        "Ben Magnet GM",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Daniel Cruz",
-        "Nicole Carino Additional Music"
-      ],
+      "speakers": [],
       "topics": [
         "dndark",
         "presents",
@@ -362,9 +309,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44603768",
       "itunes_duration": "2787",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -383,10 +328,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49424927",
       "itunes_duration": "3089",
-      "speakers": [
-        "Follow Scq",
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -406,8 +348,7 @@
       "enclosure_length": "32182021",
       "itunes_duration": "2011",
       "speakers": [
-        "Julia Labusch",
-        "Jeremy Villucci"
+        "Julia Labusch"
       ],
       "topics": [
         "table",
@@ -428,7 +369,7 @@
       "enclosure_length": "39627128",
       "itunes_duration": "2476",
       "speakers": [
-        "Jeremy Villucci"
+        "Targeted Censorship"
       ],
       "topics": [
         "table",
@@ -447,9 +388,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45812088",
       "itunes_duration": "2863",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -469,16 +408,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107099533",
       "itunes_duration": "6693",
-      "speakers": [
-        "Aaron Kaufhold GM",
-        "Jordan Nelson Colton",
-        "Daniel Cruz Detective",
-        "Guillermo Gizmo",
-        "Dan Jerz Molly Marbles",
-        "Grayson Norman Deklan Raymond",
-        "Ben Magnet Officer",
-        "Cooper Copperson"
-      ],
+      "speakers": [],
       "topics": [
         "dndark",
         "presents",
@@ -497,14 +427,7 @@
       "enclosure_length": "60627905",
       "itunes_duration": "3789",
       "speakers": [
-        "Dean Halloran",
-        "Dierdre Halloran",
-        "Aaron Kaufhold GM",
-        "Jordan Nelson Colton",
-        "Daniel Cruz Detective",
-        "Guillermo Gizmo",
-        "Dan Jerz Molly Marbles",
-        "Grayson Norman Deklan Raymond"
+        "Disco Mansion"
       ],
       "topics": [
         "dndark",
@@ -523,9 +446,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42499343",
       "itunes_duration": "2656",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -545,9 +466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41901662",
       "itunes_duration": "2618",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -565,9 +484,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32225489",
       "itunes_duration": "2014",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -586,10 +503,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31968444",
       "itunes_duration": "1998",
-      "speakers": [
-        "Told Again",
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -609,8 +523,7 @@
       "enclosure_length": "74723160",
       "itunes_duration": "4670",
       "speakers": [
-        "Dn After Dark",
-        "Attribution License"
+        "Dn After Dark"
       ],
       "topics": [
         "season",
@@ -628,16 +541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103333302",
       "itunes_duration": "6458",
-      "speakers": [
-        "Daniel Cruz Game Mother",
-        "Jordan Nelson Gonzo",
-        "Aaron Kaufhold Miss",
-        "Vanessa Miller Lucas",
-        "Ben Magnet Sam Eagle",
-        "John Wilson",
-        "Grayson Norman Rizzo",
-        "Nurse Liam Flynn"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "muppet",
@@ -661,14 +565,7 @@
       "enclosure_length": "91557302",
       "itunes_duration": "5722",
       "speakers": [
-        "Mental Instability",
-        "Daniel Cruz Game Mother",
-        "Jordan Nelson Gonzo",
-        "Aaron Kaufhold Miss",
-        "Sam Eagle",
-        "Norman Rizzo",
-        "Dan Jerz Sweetums",
-        "Lyron Cham"
+        "Mental Instability"
       ],
       "topics": [
         "presents",
@@ -689,16 +586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92149551",
       "itunes_duration": "5759",
-      "speakers": [
-        "Daniel Cruz Game Mother",
-        "Dan Jerz Sweetums",
-        "Nelson Gonzo",
-        "Aaron Kaufhold Miss",
-        "Sam Eagle",
-        "Norman Rizzo",
-        "Jordan Nelson",
-        "Nicole Carino"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "muppet",
@@ -719,8 +607,7 @@
       "enclosure_length": "40980062",
       "itunes_duration": "2561",
       "speakers": [
-        "Hannah Harper",
-        "Jeremy Villucci"
+        "Hannah Harper"
       ],
       "topics": [
         "table",
@@ -741,13 +628,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75930226",
       "itunes_duration": "4745",
-      "speakers": [
-        "Ryan Whyte Maloney",
-        "Tony Carboney",
-        "Alexander Lapko",
-        "John Stoic DreamVenturer",
-        "Jasmin Misic"
-      ],
+      "speakers": [],
       "topics": [
         "epilogue",
         "lets",
@@ -765,13 +646,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120534831",
       "itunes_duration": "7533",
-      "speakers": [
-        "Ryan Whyte Maloney",
-        "Tony Carboney",
-        "Alexander Lapko",
-        "John Stoic DreamVenturer",
-        "Jasmin Misic"
-      ],
+      "speakers": [],
       "topics": [
         "monster",
         "mash"
@@ -788,16 +663,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90782824",
       "itunes_duration": "5673",
-      "speakers": [
-        "Johnathan Harker",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Jack Griffin",
-        "Johnathan Harker Jordan",
-        "Henry Jekyll",
-        "Edward Hyde Fabrice",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "monster",
         "mash"
@@ -814,16 +680,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94416561",
       "itunes_duration": "5901",
-      "speakers": [
-        "Anck Su Namun",
-        "Crypt Keeper",
-        "Dan Jerz Gill Man",
-        "Larry Talbot",
-        "Daniel Cruz",
-        "Jack Griffin",
-        "Henry Jekyll",
-        "Edward Hyde Fabrice"
-      ],
+      "speakers": [],
       "topics": [
         "monster",
         "mash"
@@ -840,16 +697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75280300",
       "itunes_duration": "4705",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Mary",
-        "Frankenstein Josh Anderson-Severi Featuring",
-        "Larry Talbot",
-        "Nelson Jack Griffin",
-        "Daniel Cruz",
-        "Bailey Figurate",
-        "Henry Jekyll"
-      ],
+      "speakers": [],
       "topics": [
         "monster",
         "mash"
@@ -883,9 +731,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38746070",
       "itunes_duration": "2421",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -904,11 +750,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37984130",
       "itunes_duration": "2374",
-      "speakers": [
-        "Scryptid Games",
-        "Order Psychic Trash",
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -929,16 +771,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110170279",
       "itunes_duration": "6885",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Anck Su"
-      ],
+      "speakers": [],
       "topics": [
         "devil",
         "bargain"
@@ -956,14 +789,7 @@
       "enclosure_length": "110474971",
       "itunes_duration": "6904",
       "speakers": [
-        "Horror Dracula",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney"
+        "Horror Dracula"
       ],
       "topics": [
         "storm"
@@ -980,9 +806,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39718243",
       "itunes_duration": "2482",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -1002,14 +826,8 @@
       "enclosure_length": "63746716",
       "itunes_duration": "3984",
       "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
+        "Suicide Under Duress",
+        "Warwick Castle"
       ],
       "topics": [
         "calm"
@@ -1027,14 +845,7 @@
       "enclosure_length": "75102667",
       "itunes_duration": "4693",
       "speakers": [
-        "Warwick Castle",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney"
+        "Warwick Castle"
       ],
       "topics": [
         "feeling"
@@ -1051,16 +862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107283435",
       "itunes_duration": "6705",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Henry Jekyll"
-      ],
+      "speakers": [],
       "topics": [
         "creature",
         "feature"
@@ -1077,16 +879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84415634",
       "itunes_duration": "5275",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Henry Jekyll"
-      ],
+      "speakers": [],
       "topics": [
         "creature",
         "feature"
@@ -1104,8 +897,7 @@
       "enclosure_length": "48000522",
       "itunes_duration": "3000",
       "speakers": [
-        "Wolf Man",
-        "Jeremy Villucci"
+        "Wolf Man"
       ],
       "topics": [
         "table",
@@ -1126,16 +918,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103345005",
       "itunes_duration": "6459",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Henry Jekyll"
-      ],
+      "speakers": [],
       "topics": [
         "battletoad"
       ]
@@ -1151,16 +934,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78519902",
       "itunes_duration": "4907",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Henry Jekyll"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1174,16 +948,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90837159",
       "itunes_duration": "5677",
-      "speakers": [
-        "Big Ben",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1198,14 +963,7 @@
       "enclosure_length": "66714644",
       "itunes_duration": "4169",
       "speakers": [
-        "Big Ben",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz"
+        "Big Ben"
       ],
       "topics": []
     },
@@ -1221,8 +979,7 @@
       "enclosure_length": "32116401",
       "itunes_duration": "2007",
       "speakers": [
-        "Goodberry Cafe",
-        "Jeremy Villucci"
+        "Goodberry Cafe"
       ],
       "topics": [
         "table",
@@ -1242,16 +999,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95356133",
       "itunes_duration": "5959",
-      "speakers": [
-        "Jordan Nelson Marlowe Bronte",
-        "Lady Emelia",
-        "De Gonzola Dan Jerz",
-        "Magnet Grayson",
-        "Norman Bailey Figurate",
-        "Aaron Kaufhold",
-        "Daniel Cruz Original",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "army",
         "darkness"
@@ -1268,16 +1016,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96539794",
       "itunes_duration": "6033",
-      "speakers": [
-        "Jordan Nelson Marlowe Bronte",
-        "Lady Emelia",
-        "De Gonzola Dan Jerz",
-        "Magnet Grayson",
-        "Norman Bailey Figurate",
-        "Aaron Kaufhold",
-        "Daniel Cruz Original",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "interrogation",
         "vampire"
@@ -1294,9 +1033,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35926099",
       "itunes_duration": "2245",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -1317,16 +1054,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93887843",
       "itunes_duration": "5867",
-      "speakers": [
-        "Jordan Nelson Marlowe Bronte",
-        "Lady Emelia",
-        "Maverick Foxglove",
-        "Taylor Mist",
-        "Grayson Norman Thomas Pennington",
-        "Aaron Kaufhold",
-        "Daniel Cruz Original",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "hunter"
       ]
@@ -1342,16 +1070,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73984626",
       "itunes_duration": "4624",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Daniel Cruz",
-        "Gwen Conliffe Marissa"
-      ],
+      "speakers": [],
       "topics": [
         "moon"
       ]
@@ -1367,9 +1086,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40621871",
       "itunes_duration": "2538",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -1388,16 +1105,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77664757",
       "itunes_duration": "4854",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "reaper"
       ]
@@ -1413,16 +1121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82200868",
       "itunes_duration": "5137",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "reaper"
       ]
@@ -1438,9 +1137,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34900427",
       "itunes_duration": "2181",
-      "speakers": [
-        "Jeremy Villucci"
-      ],
+      "speakers": [],
       "topics": [
         "table",
         "talk",
@@ -1458,16 +1155,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67640842",
       "itunes_duration": "4227",
-      "speakers": [
-        "Mother Carrionite",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "toil",
         "trouble"
@@ -1484,16 +1172,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91650507",
       "itunes_duration": "5728",
-      "speakers": [
-        "Mother Carrionite",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "wicked"
       ]
@@ -1510,14 +1189,7 @@
       "enclosure_length": "80650657",
       "itunes_duration": "5040",
       "speakers": [
-        "Mild Gore",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney"
+        "Mild Gore"
       ],
       "topics": [
         "mummy"
@@ -1534,14 +1206,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78351882",
       "itunes_duration": "4896",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Mephistopeles",
-        "Zariel Jordan Nelson Imhotep",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Additional Music",
-        "Anton Kiptily"
-      ],
+      "speakers": [],
       "topics": [
         "mummy",
         "return"
@@ -1558,16 +1223,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97576751",
       "itunes_duration": "6098",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "mummy",
         "return"
@@ -1585,14 +1241,7 @@
       "enclosure_length": "87620963",
       "itunes_duration": "5476",
       "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Norman Erik",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Additional Music"
+        "Night Contains"
       ],
       "topics": [
         "music",
@@ -1611,14 +1260,7 @@
       "enclosure_length": "68338416",
       "itunes_duration": "4271",
       "speakers": [
-        "Dorian Gray",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Jack Griffin",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
+        "Dorian Gray"
       ],
       "topics": [
         "secret",
@@ -1636,16 +1278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67306057",
       "itunes_duration": "4206",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Imhotep",
-        "Daniel Cruz Belial",
-        "Aaron Kaufhold",
-        "Grayson Norman",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Additional Music",
-        "Darren Curtis"
-      ],
+      "speakers": [],
       "topics": [
         "hoarder"
       ]
@@ -1663,13 +1296,7 @@
       "itunes_duration": "7629",
       "speakers": [
         "Don Juan",
-        "Dorian Gray",
-        "Crypt Keeper",
-        "Dan Jerz Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Larry Talbot",
-        "Nelson Mary"
+        "Dorian Gray"
       ],
       "topics": [
         "juan",
@@ -1687,16 +1314,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83761110",
       "itunes_duration": "5235",
-      "speakers": [
-        "Dorian Gray",
-        "Crypt Keeper",
-        "Dan Jerz Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz"
-      ],
+      "speakers": [],
       "topics": [
         "picture"
       ]
@@ -1712,16 +1330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70943555",
       "itunes_duration": "4433",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Imhotep",
-        "Daniel Cruz Geryon",
-        "Jordan Nelson Geryon",
-        "Aaron Kaufhold Geryon",
-        "Grayson Norman",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "mummento"
       ]
@@ -1738,14 +1347,7 @@
       "enclosure_length": "70954004",
       "itunes_duration": "4434",
       "speakers": [
-        "Dorian Gray",
-        "Crypt Keeper",
-        "Dan Jerz Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Figurate Original"
+        "Dorian Gra"
       ],
       "topics": [
         "point",
@@ -1764,14 +1366,7 @@
       "enclosure_length": "58202906",
       "itunes_duration": "3637",
       "speakers": [
-        "Dorian Gray",
-        "Crypt Keeper",
-        "Dan Jerz Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Figurate Original"
+        "Dorian Gray"
       ],
       "topics": [
         "shades",
@@ -1790,14 +1385,7 @@
       "enclosure_length": "63182471",
       "itunes_duration": "3948",
       "speakers": [
-        "Dorian Gray",
-        "Christine Daae",
-        "Crypt Keeper",
-        "Dan Jerz Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Larry Talbot",
-        "Nelson Mary"
+        "Dorian Gray"
       ],
       "topics": [
         "shades",
@@ -1815,16 +1403,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66459689",
       "itunes_duration": "4153",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Imhotep",
-        "Daniel Cruz Geryon",
-        "Jordan Nelson",
-        "Aaron Kaufhold",
-        "Grayson Norman Featuring",
-        "Calamity James Kendra",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "styx",
         "stone"
@@ -1841,16 +1420,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77161952",
       "itunes_duration": "4822",
-      "speakers": [
-        "Crypt Keeper",
-        "Danger Dan Jerz Imhotep",
-        "Daniel Cruz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold",
-        "Jack Griffon",
-        "Norman Mary"
-      ],
+      "speakers": [],
       "topics": [
         "windsor",
         "loss"
@@ -1867,15 +1437,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83253707",
       "itunes_duration": "5203",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "necronomiconsequences"
       ]
@@ -1891,16 +1453,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90179291",
       "itunes_duration": "5636",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Additional Music"
-      ],
+      "speakers": [],
       "topics": [
         "thunderstruck"
       ]
@@ -1916,16 +1469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73461760",
       "itunes_duration": "4591",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Additional Music"
-      ],
+      "speakers": [],
       "topics": [
         "imhotep",
         "horrible",
@@ -1943,16 +1487,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95328966",
       "itunes_duration": "5958",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "count"
       ]
@@ -1986,12 +1521,11 @@
       "enclosure_length": "66984228",
       "itunes_duration": "4186",
       "speakers": [
-        "Davis Delights",
-        "Kaufhold Fred",
-        "Grayson Norman Velma Dinkley",
-        "Daniel Cruz Daphne",
-        "Nicole Carino",
-        "Albert Gyorfi"
+        "Dark Presents Call",
+        "Cthooby Doo Finale",
+        "Pup Named",
+        "Cosmic Horror Originally",
+        "Patreon Exclusive"
       ],
       "topics": [
         "presents",
@@ -2010,13 +1544,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87051702",
       "itunes_duration": "5440",
-      "speakers": [
-        "Aaron Kaufhold Fred",
-        "Grayson Norman Velma Dinkley",
-        "Daniel Cruz Daphne",
-        "Nicole Carino",
-        "Albert Gyorfi"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "cthooby",
@@ -2035,13 +1563,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57766974",
       "itunes_duration": "3610",
-      "speakers": [
-        "Aaron Kaufhold Fred",
-        "Grayson Norman Velma Dinkley",
-        "Daniel Cruz Daphne",
-        "Nicole Carino",
-        "Giorgio Di Campo"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "cthooby",
@@ -2061,12 +1583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70042853",
       "itunes_duration": "4377",
-      "speakers": [
-        "Aaron Kaufhold Fred",
-        "Grayson Norman Velma Dinkley",
-        "Daniel Cruz Daphne",
-        "Nicole Carino"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "cthooby",
@@ -2085,16 +1602,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74851892",
       "itunes_duration": "4678",
-      "speakers": [
-        "Jordan Nelson GM Danger",
-        "Dan Jerz Co-GM",
-        "Kendra Taylor Calamity",
-        "James Grayson Norman Conjuror",
-        "Ben Magnet Derza",
-        "Daniel Cruz Auditor",
-        "Aaron Kaufhold Prosecutor Lerroze",
-        "Nicole Carino"
-      ],
+      "speakers": [],
       "topics": [
         "presents",
         "baalzebullshit"
@@ -2111,16 +1619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50603154",
       "itunes_duration": "3162",
-      "speakers": [
-        "Warwick Castle DnDark",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "castle",
         "crashers"
@@ -2137,16 +1636,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76922462",
       "itunes_duration": "4807",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Reiner"
-      ],
+      "speakers": [],
       "topics": [
         "castle",
         "crashers"
@@ -2163,16 +1653,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52984685",
       "itunes_duration": "3311",
-      "speakers": [
-        "Count Dracula",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney"
-      ],
+      "speakers": [],
       "topics": [
         "castle",
         "crashers"
@@ -2190,14 +1671,7 @@
       "enclosure_length": "64584724",
       "itunes_duration": "4036",
       "speakers": [
-        "Warwick Castle",
-        "Count Dracula",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz"
+        "Warwick Castle"
       ],
       "topics": [
         "castle",
@@ -2215,16 +1689,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51223823",
       "itunes_duration": "3201",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "weasel"
       ]
@@ -2241,14 +1706,7 @@
       "enclosure_length": "52661603",
       "itunes_duration": "3291",
       "speakers": [
-        "Seward Sanitarium",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney"
+        "Seward Sanitarium"
       ],
       "topics": [
         "weasel"
@@ -2266,14 +1724,9 @@
       "enclosure_length": "83443461",
       "itunes_duration": "5215",
       "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Josh Anderson-Severi",
-        "Victor Frankenstein"
+        "Ethereal World Contains",
+        "Cosmic Horror",
+        "Brainwashing Attempting"
       ],
       "topics": [
         "ethereal",
@@ -2291,16 +1744,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49388982",
       "itunes_duration": "3086",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Werewolf Transformation"
-      ],
+      "speakers": [],
       "topics": [
         "balanced",
         "breakfast"
@@ -2317,16 +1761,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90934961",
       "itunes_duration": "5683",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Reiner"
-      ],
+      "speakers": [],
       "topics": [
         "reiner"
       ]
@@ -2342,16 +1777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85022929",
       "itunes_duration": "5313",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Josh Anderson-Severi",
-        "Victor Frankenstein"
-      ],
+      "speakers": [],
       "topics": [
         "beholder"
       ]
@@ -2369,13 +1795,7 @@
       "itunes_duration": "4157",
       "speakers": [
         "Gore Having",
-        "Victor Frankenstein",
-        "Mind Flayer",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary"
+        "Victor Frankenstein"
       ],
       "topics": [
         "mind",
@@ -2393,16 +1813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58308231",
       "itunes_duration": "3644",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Josh Anderson-Severi",
-        "Victor Frankenstein"
-      ],
+      "speakers": [],
       "topics": [
         "assembly",
         "required"
@@ -2420,14 +1831,8 @@
       "enclosure_length": "69193142",
       "itunes_duration": "4324",
       "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz",
-        "Josh Anderson-Severi",
-        "Victor Frankenstein"
+        "Cosmic Horror",
+        "Insects Father"
       ],
       "topics": [
         "assembly",
@@ -2445,16 +1850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54900192",
       "itunes_duration": "3431",
-      "speakers": [
-        "Victor Frankenstein",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Reiner"
-      ],
+      "speakers": [],
       "topics": [
         "victor",
         "spoils"
@@ -2471,16 +1867,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69490729",
       "itunes_duration": "4343",
-      "speakers": [
-        "Victor Frankenstein",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "estate",
         "mind"
@@ -2498,14 +1885,7 @@
       "enclosure_length": "87107709",
       "itunes_duration": "5444",
       "speakers": [
-        "Til Death",
-        "Anck Su",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Daniel Cruz"
+        "Til Death"
       ],
       "topics": [
         "death"
@@ -2522,16 +1902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65160254",
       "itunes_duration": "4072",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney",
-        "Mummy Lord"
-      ],
+      "speakers": [],
       "topics": [
         "fright",
         "museum"
@@ -2548,16 +1919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49282821",
       "itunes_duration": "3080",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney",
-        "Mummy Lord"
-      ],
+      "speakers": [],
       "topics": [
         "fright",
         "museum"
@@ -2575,14 +1937,8 @@
       "enclosure_length": "53428976",
       "itunes_duration": "3339",
       "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney",
-        "Mummy Lord"
+        "Shop Like",
+        "Egyptian Having"
       ],
       "topics": [
         "shop"
@@ -2599,16 +1955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55731513",
       "itunes_duration": "3483",
-      "speakers": [
-        "Mother Carrionite",
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Nelson Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney"
-      ],
+      "speakers": [],
       "topics": [
         "exeunt",
         "swiftly"
@@ -2625,15 +1972,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96042004",
       "itunes_duration": "6002",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz Jack Griffon",
-        "Norman Erik",
-        "Larry Talbot",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Reiner",
-        "Braxten Chenay"
-      ],
+      "speakers": [],
       "topics": [
         "dream"
       ]
@@ -2649,14 +1988,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66946612",
       "itunes_duration": "4184",
-      "speakers": [
-        "Joylin Music",
-        "Crypt Keeper",
-        "Danger Dan Jerz Imhotep",
-        "Daniel Cruz Mary",
-        "Ryan Whyte Maloney",
-        "Tony Carboney Wyrd Sisters"
-      ],
+      "speakers": [],
       "topics": [
         "fair",
         "foul"
@@ -2674,14 +2006,7 @@
       "enclosure_length": "78558772",
       "itunes_duration": "4909",
       "speakers": [
-        "Larry Talbot",
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
+        "Larry Talbot"
       ],
       "topics": [
         "wolf"
@@ -2698,16 +2023,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58649286",
       "itunes_duration": "3665",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "moon"
       ]
@@ -2724,14 +2040,7 @@
       "enclosure_length": "52149185",
       "itunes_duration": "3259",
       "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
+        "Vengeance Contains"
       ],
       "topics": [
         "sword",
@@ -2749,16 +2058,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72413100",
       "itunes_duration": "4525",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "mirror",
         "match"
@@ -2775,16 +2075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51739585",
       "itunes_duration": "3233",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "mirror",
         "match"
@@ -2801,16 +2092,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68918961",
       "itunes_duration": "4307",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "stratford",
         "inquisition"
@@ -2827,16 +2109,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48343666",
       "itunes_duration": "3021",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "adversity",
         "university"
@@ -2853,16 +2126,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57142961",
       "itunes_duration": "3571",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "adversity",
         "university"
@@ -2879,16 +2143,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58398929",
       "itunes_duration": "3649",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "groundskeeper"
       ]
@@ -2904,9 +2159,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50430119",
       "itunes_duration": "3151",
-      "speakers": [
-        "dndark Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "years",
         "special"
@@ -2923,16 +2176,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55981453",
       "itunes_duration": "3498",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "orlocked",
         "loaded"
@@ -2950,14 +2194,8 @@
       "enclosure_length": "83221524",
       "itunes_duration": "5201",
       "speakers": [
-        "Marlowe Bronte",
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz"
+        "Maledict Stonecroft",
+        "Body Ho"
       ],
       "topics": [
         "maledict",
@@ -2977,16 +2215,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52405394",
       "itunes_duration": "3275",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "nest"
       ]
@@ -3002,16 +2231,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65640489",
       "itunes_duration": "4102",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "stratford"
@@ -3029,14 +2249,7 @@
       "enclosure_length": "84925126",
       "itunes_duration": "5307",
       "speakers": [
-        "Mild Gore",
-        "Abraham Van Helsing",
-        "Werner Vordenberg",
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik"
+        "Mild Gore"
       ],
       "topics": [
         "revenant"
@@ -3053,16 +2266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62884466",
       "itunes_duration": "3930",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon",
-        "Norman Mary"
-      ],
+      "speakers": [],
       "topics": [
         "adrift",
         "crypt"
@@ -3079,16 +2283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64153809",
       "itunes_duration": "4009",
-      "speakers": [
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon"
-      ],
+      "speakers": [],
       "topics": [
         "adrift",
         "crypt"
@@ -3105,16 +2300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77459957",
       "itunes_duration": "4841",
-      "speakers": [
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz",
-        "Jack Griffon",
-        "Norman Mary"
-      ],
+      "speakers": [],
       "topics": [
         "grudges",
         "gargoyle"
@@ -3132,14 +2318,7 @@
       "enclosure_length": "98010174",
       "itunes_duration": "6125",
       "speakers": [
-        "Mild Gore",
-        "dndark Instagram",
-        "Crypt Keeper",
-        "Dan Jerz",
-        "Larry Talbot",
-        "Jordan Nelson Erik",
-        "Aaron Kaufhold Imhotep",
-        "Daniel Cruz"
+        "Mild Gore"
       ],
       "topics": [
         "hello",
@@ -3189,131 +2368,131 @@
 
 ## Episodes (newest first)
 
-- 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock, Jeremy Villucci
-- 2026-02-04 — DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore, Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz Pinocchio, Nicole Carino Additional Music
-- 2026-01-28 — Table Talk - Interview with Zach Macias (GamesWithZach) — speakers: Zach Macias, Jeremy Villucci
-- 2026-01-14 — DnDark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique — speakers: Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz Pinocchio, Nicole Carino Additional Music
-- 2026-01-07 — Table Talk - Interview with Sammy Glicker (Dungeons and Cabins) — speakers: Sammy Glicker, Sammy's Instagram, Jeremy Villucci
-- 2025-12-31 — DnDark Presents: DnDark Souls Ep. 4: Fairest of them All — speakers: Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz, Nicole Carino Additional Music
-- 2025-12-17 — Table Talk - Interview with James Haeck — speakers: James Haeck, Follow James, Jeremy Villucci
-- 2025-12-10 — DnDark Presents: DnDark Souls Ep. 3: Heart to Heart — speakers: Ebony Castle, Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz, Nicole Carino Additional Music
-- 2025-12-03 — Table Talk - Interview with Michael (Epic Tales & Critical Fails) — speakers: Jeremy Villucci
-- 2025-11-19 — Table Talk - Interview with Shannon Strucci (Oddity Roadshow) — speakers: Rude Tales, Jeremy Villucci
-- 2025-11-12 — DnDark Presents: DnDark Souls Part 2: Into the Woods — speakers: Peter Gundyr, Ebony Castle, Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz, Nicole Carino Additional Music
-- 2025-11-05 — Table Talk - Interview with Jonathon Greenall (StarshineScribbles) — speakers: Jeremy Villucci
-- 2025-10-29 — DnDark Presents: DnDark Souls Part 1: And They All Lived... — speakers: Ben Magnet GM, Jordan Nelson, Aaron Kaufhold, Grayson Norman, Daniel Cruz, Nicole Carino Additional Music
-- 2025-10-22 — Table Talk - Interview with Izzy (LadyLike) — speakers: Jeremy Villucci
-- 2025-10-08 — Table Talk - Interview with Ty (Side Character Quest) — speakers: Follow Scq, Jeremy Villucci
-- 2025-09-24 — Table Talk - Interview with Julia Labusch — speakers: Julia Labusch, Jeremy Villucci
-- 2025-09-10 — Table Talk - Interview with Jellyfishlines — speakers: Jeremy Villucci
-- 2025-08-27 — Table Talk - Interview with Danny (The Thorne Files) — speakers: Jeremy Villucci
-- 2025-08-20 — DnDark Presents: DnDetectives Part 2 — speakers: Aaron Kaufhold GM, Jordan Nelson Colton, Daniel Cruz Detective, Guillermo Gizmo, Dan Jerz Molly Marbles, Grayson Norman Deklan Raymond, Ben Magnet Officer, Cooper Copperson
-- 2025-08-13 — DnDark Presents: DnDetectives Part 1 — speakers: Dean Halloran, Dierdre Halloran, Aaron Kaufhold GM, Jordan Nelson Colton, Daniel Cruz Detective, Guillermo Gizmo, Dan Jerz Molly Marbles, Grayson Norman Deklan Raymond
-- 2025-08-06 — Table Talk - Interview with Chriss (Professional Questers) — speakers: Jeremy Villucci
-- 2025-07-23 — Table Talk - Interview with Enzo (WorldsOfEnzo) — speakers: Jeremy Villucci
-- 2025-07-09 — Table Talk - Interview with Liv (Momento Talis) — speakers: Jeremy Villucci
-- 2025-06-25 — Table Talk - Interview with Austin (Stories Told Again) — speakers: Told Again, Jeremy Villucci
-- 2025-06-11 — Dn(After)Dark: Season 1 Retrospective — speakers: Dn After Dark, Attribution License
-- 2025-05-21 — D&Dark Presents: Muppet Alien Finale: Hideo Yutani's Creature Shop — speakers: Daniel Cruz Game Mother, Jordan Nelson Gonzo, Aaron Kaufhold Miss, Vanessa Miller Lucas, Ben Magnet Sam Eagle, John Wilson, Grayson Norman Rizzo, Nurse Liam Flynn
-- 2025-05-07 — D&Dark Presents: Muppet Alien Part 2: Cabin Fever — speakers: Mental Instability, Daniel Cruz Game Mother, Jordan Nelson Gonzo, Aaron Kaufhold Miss, Sam Eagle, Norman Rizzo, Dan Jerz Sweetums, Lyron Cham
-- 2025-05-07 — D&Dark Presents Muppet Alien Part 1: The Weyland Connection — speakers: Daniel Cruz Game Mother, Dan Jerz Sweetums, Nelson Gonzo, Aaron Kaufhold Miss, Sam Eagle, Norman Rizzo, Jordan Nelson, Nicole Carino
-- 2025-04-30 — Table Talk - Interview with Hannah Harper (HannahPlaysDnD) — speakers: Hannah Harper, Jeremy Villucci
-- 2025-04-23 — S1 Epilogue: Lets All Have a Ball — speakers: Ryan Whyte Maloney, Tony Carboney, Alexander Lapko, John Stoic DreamVenturer, Jasmin Misic
-- 2025-04-23 — S1 E80: Monster Mash Part 4 — speakers: Ryan Whyte Maloney, Tony Carboney, Alexander Lapko, John Stoic DreamVenturer, Jasmin Misic
-- 2025-04-09 — S1 E79: Monster Mash Part 3 — speakers: Johnathan Harker, Crypt Keeper, Dan Jerz, Jack Griffin, Johnathan Harker Jordan, Henry Jekyll, Edward Hyde Fabrice, Ryan Whyte Maloney
-- 2025-03-26 — S1 E78: Monster Mash Part 2 — speakers: Anck Su Namun, Crypt Keeper, Dan Jerz Gill Man, Larry Talbot, Daniel Cruz, Jack Griffin, Henry Jekyll, Edward Hyde Fabrice
-- 2025-03-12 — S1 E77: Monster Mash Part 1 — speakers: Crypt Keeper, Danger Dan Jerz Mary, Frankenstein Josh Anderson-Severi Featuring, Larry Talbot, Nelson Jack Griffin, Daniel Cruz, Bailey Figurate, Henry Jekyll
+- 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
+- 2026-02-04 — DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore
+- 2026-01-28 — Table Talk - Interview with Zach Macias (GamesWithZach) — speakers: Zach Macias
+- 2026-01-14 — DnDark Presents: DnDark Souls Part 5: Bibidi Bobbidi Boutique
+- 2026-01-07 — Table Talk - Interview with Sammy Glicker (Dungeons and Cabins) — speakers: Sammy Glicker
+- 2025-12-31 — DnDark Presents: DnDark Souls Ep. 4: Fairest of them All
+- 2025-12-17 — Table Talk - Interview with James Haeck — speakers: James Haeck
+- 2025-12-10 — DnDark Presents: DnDark Souls Ep. 3: Heart to Heart — speakers: Ebony Castle
+- 2025-12-03 — Table Talk - Interview with Michael (Epic Tales & Critical Fails)
+- 2025-11-19 — Table Talk - Interview with Shannon Strucci (Oddity Roadshow)
+- 2025-11-12 — DnDark Presents: DnDark Souls Part 2: Into the Woods — speakers: Peter Gundyr
+- 2025-11-05 — Table Talk - Interview with Jonathon Greenall (StarshineScribbles)
+- 2025-10-29 — DnDark Presents: DnDark Souls Part 1: And They All Lived...
+- 2025-10-22 — Table Talk - Interview with Izzy (LadyLike)
+- 2025-10-08 — Table Talk - Interview with Ty (Side Character Quest)
+- 2025-09-24 — Table Talk - Interview with Julia Labusch — speakers: Julia Labusch
+- 2025-09-10 — Table Talk - Interview with Jellyfishlines — speakers: Targeted Censorship
+- 2025-08-27 — Table Talk - Interview with Danny (The Thorne Files)
+- 2025-08-20 — DnDark Presents: DnDetectives Part 2
+- 2025-08-13 — DnDark Presents: DnDetectives Part 1 — speakers: Disco Mansion
+- 2025-08-06 — Table Talk - Interview with Chriss (Professional Questers)
+- 2025-07-23 — Table Talk - Interview with Enzo (WorldsOfEnzo)
+- 2025-07-09 — Table Talk - Interview with Liv (Momento Talis)
+- 2025-06-25 — Table Talk - Interview with Austin (Stories Told Again)
+- 2025-06-11 — Dn(After)Dark: Season 1 Retrospective — speakers: Dn After Dark
+- 2025-05-21 — D&Dark Presents: Muppet Alien Finale: Hideo Yutani's Creature Shop
+- 2025-05-07 — D&Dark Presents: Muppet Alien Part 2: Cabin Fever — speakers: Mental Instability
+- 2025-05-07 — D&Dark Presents Muppet Alien Part 1: The Weyland Connection
+- 2025-04-30 — Table Talk - Interview with Hannah Harper (HannahPlaysDnD) — speakers: Hannah Harper
+- 2025-04-23 — S1 Epilogue: Lets All Have a Ball
+- 2025-04-23 — S1 E80: Monster Mash Part 4
+- 2025-04-09 — S1 E79: Monster Mash Part 3
+- 2025-03-26 — S1 E78: Monster Mash Part 2
+- 2025-03-12 — S1 E77: Monster Mash Part 1
 - 2025-03-12 — Season 1 Recap (Ep. 41-75)
-- 2025-03-05 — Table Talk - Interview with Neil (Fey Earth) — speakers: Jeremy Villucci
-- 2025-02-19 — Table Talk - Interview with Brigitte Winter (Scryptid Games) — speakers: Scryptid Games, Order Psychic Trash, Jeremy Villucci
-- 2025-02-12 — S1 E76: The Devil's Bargain — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Anck Su
-- 2025-01-29 — S1 E75: The Storm — speakers: Horror Dracula, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney
-- 2025-01-22 — Table Talk - Interview with The Infinite Tavern — speakers: Jeremy Villucci
-- 2025-01-15 — S1 E74: The Calm — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney, Tony Carboney
-- 2025-01-01 — S1 E73: Familiar Feelings — speakers: Warwick Castle, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney
-- 2024-12-18 — S1 E72: Creature Feature Part 2 — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Henry Jekyll
-- 2024-12-04 — S1 E71: Creature Feature Part 1 — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Henry Jekyll
-- 2024-11-27 — Table Talk - Interview with Ian The Wolf Man (The Monster Archives) — speakers: Wolf Man, Jeremy Villucci
-- 2024-11-20 — S1 E70: Battletoads — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Henry Jekyll
-- 2024-11-06 — S1 E69: Now You Don't... — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Henry Jekyll
-- 2024-10-23 — S1 E68: Now You See Me... — speakers: Big Ben, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz
-- 2024-10-09 — S1 E67: The Visible Man — speakers: Big Ben, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz
-- 2024-10-02 — Table Talk - Interview with Jem (Goodberry Cafe) — speakers: Goodberry Cafe, Jeremy Villucci
-- 2024-09-25 — S1 E66: Army of Darkness — speakers: Jordan Nelson Marlowe Bronte, Lady Emelia, De Gonzola Dan Jerz, Magnet Grayson, Norman Bailey Figurate, Aaron Kaufhold, Daniel Cruz Original, Ryan Whyte Maloney
-- 2024-09-11 — S1 E65: Interrogation with the Vampire — speakers: Jordan Nelson Marlowe Bronte, Lady Emelia, De Gonzola Dan Jerz, Magnet Grayson, Norman Bailey Figurate, Aaron Kaufhold, Daniel Cruz Original, Ryan Whyte Maloney
-- 2024-09-04 — Table Talk - Interview with Cece (Queer and Present Danger) — speakers: Jeremy Villucci
-- 2024-08-28 — S1 E64: Hunter x Hunter — speakers: Jordan Nelson Marlowe Bronte, Lady Emelia, Maverick Foxglove, Taylor Mist, Grayson Norman Thomas Pennington, Aaron Kaufhold, Daniel Cruz Original, Ryan Whyte Maloney
-- 2024-08-14 — S1 E63: No Moon at All — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Daniel Cruz, Gwen Conliffe Marissa
-- 2024-08-07 — Table Talk - Interview with Dread and Breakfast — speakers: Jeremy Villucci
-- 2024-07-31 — S1 E62: Fear the Reaper Part 2 — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney, Tony Carboney
-- 2024-07-17 — S1 E61: Fear the Reaper Part 1 — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney, Tony Carboney
-- 2024-07-10 — Table Talk - Interview with Kav (OWDCast) — speakers: Jeremy Villucci
-- 2024-07-03 — S1 E60: Toil and Trouble — speakers: Mother Carrionite, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney
-- 2024-06-19 — S1 E59: Something Wicked Here We Come — speakers: Mother Carrionite, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney
-- 2024-06-05 — S1 E58: Are You My Mummy? — speakers: Mild Gore, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney
-- 2024-05-22 — S1 E57: The Mummy's Return! — speakers: Crypt Keeper, Danger Dan Jerz Mephistopeles, Zariel Jordan Nelson Imhotep, Ryan Whyte Maloney, Tony Carboney Additional Music, Anton Kiptily
-- 2024-05-08 — S1 E56: The Mummy Returns? — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney, Tony Carboney
-- 2024-04-24 — S1 E55: Music of the Night — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Norman Erik, Ryan Whyte Maloney, Tony Carboney Additional Music
-- 2024-04-10 — S1 E54: Secret of the Ooze — speakers: Dorian Gray, Crypt Keeper, Dan Jerz, Larry Talbot, Nelson Mary, Jack Griffin, Ryan Whyte Maloney, Tony Carboney
-- 2024-03-27 — S1 E53: Law and Hoarder — speakers: Crypt Keeper, Danger Dan Jerz Imhotep, Daniel Cruz Belial, Aaron Kaufhold, Grayson Norman, Ryan Whyte Maloney, Tony Carboney Additional Music, Darren Curtis
-- 2024-03-13 — S1 E52: Don Juan Triumphant — speakers: Don Juan, Dorian Gray, Crypt Keeper, Dan Jerz Erik, Aaron Kaufhold, Jack Griffon, Larry Talbot, Nelson Mary
-- 2024-02-28 — S1 E51: The Big Picture — speakers: Dorian Gray, Crypt Keeper, Dan Jerz Erik, Aaron Kaufhold, Jack Griffon, Larry Talbot, Nelson Mary, Daniel Cruz
-- 2024-02-14 — S1 E50: Mummento — speakers: Crypt Keeper, Danger Dan Jerz Imhotep, Daniel Cruz Geryon, Jordan Nelson Geryon, Aaron Kaufhold Geryon, Grayson Norman, Ryan Whyte Maloney, Tony Carboney
-- 2024-01-31 — S1 E49: The Point of No Return — speakers: Dorian Gray, Crypt Keeper, Dan Jerz Erik, Aaron Kaufhold, Jack Griffon, Larry Talbot, Nelson Mary, Figurate Original
-- 2024-01-17 — S1 E48: Shades of Gray Part 2 — speakers: Dorian Gray, Crypt Keeper, Dan Jerz Erik, Aaron Kaufhold, Jack Griffon, Larry Talbot, Nelson Mary, Figurate Original
-- 2024-01-03 — S1 E47: Shades of Gray Part 1 — speakers: Dorian Gray, Christine Daae, Crypt Keeper, Dan Jerz Erik, Aaron Kaufhold, Jack Griffon, Larry Talbot, Nelson Mary
-- 2023-12-20 — S1 E46: Styx and Stones — speakers: Crypt Keeper, Danger Dan Jerz Imhotep, Daniel Cruz Geryon, Jordan Nelson, Aaron Kaufhold, Grayson Norman Featuring, Calamity James Kendra, Ryan Whyte Maloney
-- 2023-12-06 — S1 E45: Windsor Losses — speakers: Crypt Keeper, Danger Dan Jerz Imhotep, Daniel Cruz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold, Jack Griffon, Norman Mary
-- 2023-11-22 — S1 E44: Necronomiconsequences — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney
-- 2023-11-08 — S1 E43: Thunderstruck — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney Additional Music
-- 2023-10-25 — S1 E42: Imhotep And The Terrible Horrible No Good Very Bad Day — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney Additional Music
-- 2023-10-11 — S1 E41: Down for the Count — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney
+- 2025-03-05 — Table Talk - Interview with Neil (Fey Earth)
+- 2025-02-19 — Table Talk - Interview with Brigitte Winter (Scryptid Games)
+- 2025-02-12 — S1 E76: The Devil's Bargain
+- 2025-01-29 — S1 E75: The Storm — speakers: Horror Dracula
+- 2025-01-22 — Table Talk - Interview with The Infinite Tavern
+- 2025-01-15 — S1 E74: The Calm — speakers: Suicide Under Duress, Warwick Castle
+- 2025-01-01 — S1 E73: Familiar Feelings — speakers: Warwick Castle
+- 2024-12-18 — S1 E72: Creature Feature Part 2
+- 2024-12-04 — S1 E71: Creature Feature Part 1
+- 2024-11-27 — Table Talk - Interview with Ian The Wolf Man (The Monster Archives) — speakers: Wolf Man
+- 2024-11-20 — S1 E70: Battletoads
+- 2024-11-06 — S1 E69: Now You Don't...
+- 2024-10-23 — S1 E68: Now You See Me...
+- 2024-10-09 — S1 E67: The Visible Man — speakers: Big Ben
+- 2024-10-02 — Table Talk - Interview with Jem (Goodberry Cafe) — speakers: Goodberry Cafe
+- 2024-09-25 — S1 E66: Army of Darkness
+- 2024-09-11 — S1 E65: Interrogation with the Vampire
+- 2024-09-04 — Table Talk - Interview with Cece (Queer and Present Danger)
+- 2024-08-28 — S1 E64: Hunter x Hunter
+- 2024-08-14 — S1 E63: No Moon at All
+- 2024-08-07 — Table Talk - Interview with Dread and Breakfast
+- 2024-07-31 — S1 E62: Fear the Reaper Part 2
+- 2024-07-17 — S1 E61: Fear the Reaper Part 1
+- 2024-07-10 — Table Talk - Interview with Kav (OWDCast)
+- 2024-07-03 — S1 E60: Toil and Trouble
+- 2024-06-19 — S1 E59: Something Wicked Here We Come
+- 2024-06-05 — S1 E58: Are You My Mummy? — speakers: Mild Gore
+- 2024-05-22 — S1 E57: The Mummy's Return!
+- 2024-05-08 — S1 E56: The Mummy Returns?
+- 2024-04-24 — S1 E55: Music of the Night — speakers: Night Contains
+- 2024-04-10 — S1 E54: Secret of the Ooze — speakers: Dorian Gray
+- 2024-03-27 — S1 E53: Law and Hoarder
+- 2024-03-13 — S1 E52: Don Juan Triumphant — speakers: Don Juan, Dorian Gray
+- 2024-02-28 — S1 E51: The Big Picture
+- 2024-02-14 — S1 E50: Mummento
+- 2024-01-31 — S1 E49: The Point of No Return — speakers: Dorian Gra
+- 2024-01-17 — S1 E48: Shades of Gray Part 2 — speakers: Dorian Gray
+- 2024-01-03 — S1 E47: Shades of Gray Part 1 — speakers: Dorian Gray
+- 2023-12-20 — S1 E46: Styx and Stones
+- 2023-12-06 — S1 E45: Windsor Losses
+- 2023-11-22 — S1 E44: Necronomiconsequences
+- 2023-11-08 — S1 E43: Thunderstruck
+- 2023-10-25 — S1 E42: Imhotep And The Terrible Horrible No Good Very Bad Day
+- 2023-10-11 — S1 E41: Down for the Count
 - 2023-10-10 — Season 1 Recap (Ep. 1-40)
-- 2023-08-29 — D&Dark Presents Call of Cthooby Doo Finale: A Pup Named S̵̢͆k̵̤͌e̷͚̅l̶͉̒j̷͇̀y̷̻̕e̴̘͐k̶͓̚ ̵͍̚D̵̛̥y̸̬̒ù̷̦ȕ̴̱g̵̛̱h̴͓̒ — speakers: Davis Delights, Kaufhold Fred, Grayson Norman Velma Dinkley, Daniel Cruz Daphne, Nicole Carino, Albert Gyorfi
-- 2023-08-28 — D&Dark Presents Call of Cthooby Doo Part 3: The Doom That Came to Snaxcorp — speakers: Aaron Kaufhold Fred, Grayson Norman Velma Dinkley, Daniel Cruz Daphne, Nicole Carino, Albert Gyorfi
-- 2023-08-27 — D&Dark Presents Call of Cthooby Doo Part 2: At the Malt Shop of Madness — speakers: Aaron Kaufhold Fred, Grayson Norman Velma Dinkley, Daniel Cruz Daphne, Nicole Carino, Giorgio Di Campo
-- 2023-08-26 — D&Dark Presents Call of Cthooby Doo Part 1: Shadow Over Coolsville — speakers: Aaron Kaufhold Fred, Grayson Norman Velma Dinkley, Daniel Cruz Daphne, Nicole Carino
-- 2023-08-25 — D&Dark Presents D&Devils Part 1: Baalzebullshit — speakers: Jordan Nelson GM Danger, Dan Jerz Co-GM, Kendra Taylor Calamity, James Grayson Norman Conjuror, Ben Magnet Derza, Daniel Cruz Auditor, Aaron Kaufhold Prosecutor Lerroze, Nicole Carino
-- 2023-08-23 — S1 E40: Castle Crashers Part 4 — speakers: Warwick Castle DnDark, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney
-- 2023-08-16 — S1 E39: Castle Crashers Part 3 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney Reiner
-- 2023-08-09 — S1 E38: Castle Crashers Part 2 — speakers: Count Dracula, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney
-- 2023-08-02 — S1 E37: Castle Crashers Part 1 — speakers: Warwick Castle, Count Dracula, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz
-- 2023-07-26 — S1 E36: Pop Goes the Weasel Part 2 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney
-- 2023-07-19 — S1 E35: Pop Goes the Weasel Part 1 — speakers: Seward Sanitarium, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney
-- 2023-07-12 — S1 E34: Living in an Ethereal World — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Josh Anderson-Severi, Victor Frankenstein
-- 2023-07-05 — S1 E33: Part of a Balanced Breakfast — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney Werewolf Transformation
-- 2023-06-21 — S1 E32: Reiner? I Hardly Know 'Er! — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Ryan Whyte Maloney, Tony Carboney Reiner
-- 2023-06-14 — S1 E31: Eye of the Beholder — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Josh Anderson-Severi, Victor Frankenstein
-- 2023-06-07 — S1 E30: Mind Over Matter — speakers: Gore Having, Victor Frankenstein, Mind Flayer, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary
-- 2023-05-31 — S1 E29: Some Assembly Required Part 2 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Josh Anderson-Severi, Victor Frankenstein
-- 2023-05-24 — S1 E28: Some Assembly Required Part 1 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz, Josh Anderson-Severi, Victor Frankenstein
-- 2023-05-17 — S1 E27: To the Victor go the Spoils — speakers: Victor Frankenstein, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney Reiner
-- 2023-05-10 — S1 E26: Estate of Mind — speakers: Victor Frankenstein, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney
-- 2023-05-03 — S1 E25: Til Death do us Part — speakers: Til Death, Anck Su, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Daniel Cruz
-- 2023-04-19 — S1 E24: Fright at the Museum Part 2 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney, Mummy Lord
-- 2023-04-12 — S1 E23: Fright at the Museum Part 1 — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney, Mummy Lord
-- 2023-04-05 — S1 E22: Shop Like an Egyptian — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney, Mummy Lord
-- 2023-03-29 — S1 E21: Exeunt Swiftly... — speakers: Mother Carrionite, Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Nelson Mary, Ryan Whyte Maloney, Tony Carboney
-- 2023-03-22 — S1 E20: Perchance to Dream — speakers: Crypt Keeper, Dan Jerz Jack Griffon, Norman Erik, Larry Talbot, Ryan Whyte Maloney, Tony Carboney Reiner, Braxten Chenay
-- 2023-03-15 — S1 E19: Fair is Foul and Foul is Fair — speakers: Joylin Music, Crypt Keeper, Danger Dan Jerz Imhotep, Daniel Cruz Mary, Ryan Whyte Maloney, Tony Carboney Wyrd Sisters
-- 2023-03-01 — S1 E18: The Wolf Among Us — speakers: Larry Talbot, dndark Instagram, Crypt Keeper, Dan Jerz, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-02-22 — S1 E17: Bad Moon Rising — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-02-15 — S1 E16: The Sword of Vengeance — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-02-08 — S1 E15: Mirror Match Part 2 — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-02-01 — S1 E14: Mirror Match Part 1 — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-01-25 — S1 E13: Nobody Expects The Stratford Inquisition! — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-01-18 — S1 E12: Adversity at the University Part 2 — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-01-11 — S1 E11: Adversity at the University Part 1 — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2023-01-04 — S1 E10: The Groundskeeper Dies at the End — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2022-12-31 — New Years Special 2022: BTS with D&Dark — speakers: dndark Instagram
-- 2022-12-28 — S1 E9: Orlocked and Loaded — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2022-12-14 — S1 E8: Maledict Stonecroft's House of Mysteries — speakers: Marlowe Bronte, dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz
-- 2022-12-07 — S1 E7: Distressed in the Nest — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2022-11-30 — S1 E6: All Roads Lead to Stratford — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2022-11-16 — S1 E5: The Revenant — speakers: Mild Gore, Abraham Van Helsing, Werner Vordenberg, dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik
-- 2022-11-09 — S1 E4: Adrift in the Crypt Part 2 — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon, Norman Mary
-- 2022-11-02 — S1 E3: Adrift in the Crypt Part 1 — speakers: dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon
-- 2022-10-26 — S1 E2: Grudges and Gargoyles — speakers: Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz, Jack Griffon, Norman Mary
-- 2022-10-19 — S1 E1: Hello and Welcome — speakers: Mild Gore, dndark Instagram, Crypt Keeper, Dan Jerz, Larry Talbot, Jordan Nelson Erik, Aaron Kaufhold Imhotep, Daniel Cruz
+- 2023-08-29 — D&Dark Presents Call of Cthooby Doo Finale: A Pup Named S̵̢͆k̵̤͌e̷͚̅l̶͉̒j̷͇̀y̷̻̕e̴̘͐k̶͓̚ ̵͍̚D̵̛̥y̸̬̒ù̷̦ȕ̴̱g̵̛̱h̴͓̒ — speakers: Dark Presents Call, Cthooby Doo Finale, Pup Named, Cosmic Horror Originally, Patreon Exclusive
+- 2023-08-28 — D&Dark Presents Call of Cthooby Doo Part 3: The Doom That Came to Snaxcorp
+- 2023-08-27 — D&Dark Presents Call of Cthooby Doo Part 2: At the Malt Shop of Madness
+- 2023-08-26 — D&Dark Presents Call of Cthooby Doo Part 1: Shadow Over Coolsville
+- 2023-08-25 — D&Dark Presents D&Devils Part 1: Baalzebullshit
+- 2023-08-23 — S1 E40: Castle Crashers Part 4
+- 2023-08-16 — S1 E39: Castle Crashers Part 3
+- 2023-08-09 — S1 E38: Castle Crashers Part 2
+- 2023-08-02 — S1 E37: Castle Crashers Part 1 — speakers: Warwick Castle
+- 2023-07-26 — S1 E36: Pop Goes the Weasel Part 2
+- 2023-07-19 — S1 E35: Pop Goes the Weasel Part 1 — speakers: Seward Sanitarium
+- 2023-07-12 — S1 E34: Living in an Ethereal World — speakers: Ethereal World Contains, Cosmic Horror, Brainwashing Attempting
+- 2023-07-05 — S1 E33: Part of a Balanced Breakfast
+- 2023-06-21 — S1 E32: Reiner? I Hardly Know 'Er!
+- 2023-06-14 — S1 E31: Eye of the Beholder
+- 2023-06-07 — S1 E30: Mind Over Matter — speakers: Gore Having, Victor Frankenstein
+- 2023-05-31 — S1 E29: Some Assembly Required Part 2
+- 2023-05-24 — S1 E28: Some Assembly Required Part 1 — speakers: Cosmic Horror, Insects Father
+- 2023-05-17 — S1 E27: To the Victor go the Spoils
+- 2023-05-10 — S1 E26: Estate of Mind
+- 2023-05-03 — S1 E25: Til Death do us Part — speakers: Til Death
+- 2023-04-19 — S1 E24: Fright at the Museum Part 2
+- 2023-04-12 — S1 E23: Fright at the Museum Part 1
+- 2023-04-05 — S1 E22: Shop Like an Egyptian — speakers: Shop Like, Egyptian Having
+- 2023-03-29 — S1 E21: Exeunt Swiftly...
+- 2023-03-22 — S1 E20: Perchance to Dream
+- 2023-03-15 — S1 E19: Fair is Foul and Foul is Fair
+- 2023-03-01 — S1 E18: The Wolf Among Us — speakers: Larry Talbot
+- 2023-02-22 — S1 E17: Bad Moon Rising
+- 2023-02-15 — S1 E16: The Sword of Vengeance — speakers: Vengeance Contains
+- 2023-02-08 — S1 E15: Mirror Match Part 2
+- 2023-02-01 — S1 E14: Mirror Match Part 1
+- 2023-01-25 — S1 E13: Nobody Expects The Stratford Inquisition!
+- 2023-01-18 — S1 E12: Adversity at the University Part 2
+- 2023-01-11 — S1 E11: Adversity at the University Part 1
+- 2023-01-04 — S1 E10: The Groundskeeper Dies at the End
+- 2022-12-31 — New Years Special 2022: BTS with D&Dark
+- 2022-12-28 — S1 E9: Orlocked and Loaded
+- 2022-12-14 — S1 E8: Maledict Stonecroft's House of Mysteries — speakers: Maledict Stonecroft, Body Ho
+- 2022-12-07 — S1 E7: Distressed in the Nest
+- 2022-11-30 — S1 E6: All Roads Lead to Stratford
+- 2022-11-16 — S1 E5: The Revenant — speakers: Mild Gore
+- 2022-11-09 — S1 E4: Adrift in the Crypt Part 2
+- 2022-11-02 — S1 E3: Adrift in the Crypt Part 1
+- 2022-10-26 — S1 E2: Grudges and Gargoyles
+- 2022-10-19 — S1 E1: Hello and Welcome — speakers: Mild Gore
 - 2022-10-18 — S1 E0: How does a D&D Podcast work? — speakers: Quick Explanation
 - 2022-10-14 — D&Dark Season 1 Teaser Trailer

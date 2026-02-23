@@ -2,8 +2,8 @@
 
 - slug: `the-iron-realm-mega-dungeon-crawl-dark-fantasy-solo-rpg-gaming-podcast`
 - source: `https://feeds.feedburner.com/TheIronRealm`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - last_modified: `Sat, 14 Feb 2026 12:40:45 GMT`
 - max_episodes_per_feed: `1000`
 
@@ -17,7 +17,7 @@
   "link": "http://theironrealm.blogspot.com/",
   "description": "Dramatic RPG adventure in a massive Mega Dungeon. Free gaming aids provided. Dark Fantasy Fiction in the classic RPG style. Listen or play!",
   "image_url": "https://archive.org/download/TheIronRealm/IronRealm_1400.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,13 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41851836",
       "itunes_duration": null,
-      "speakers": [
-        "Creature Legends",
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "violation"
@@ -60,16 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41695906",
       "itunes_duration": null,
-      "speakers": [
-        "Onyx Vault",
-        "Download Chapter",
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Jason Przybycien",
-        "Spotify Jason",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "runner"
@@ -87,8 +72,7 @@
       "enclosure_length": "36066188",
       "itunes_duration": null,
       "speakers": [
-        "Creature Legends",
-        "Listener Discretion"
+        "Love Lets Go Summary"
       ],
       "topics": [
         "chapter",
@@ -108,9 +92,7 @@
       "enclosure_length": "40617513",
       "itunes_duration": null,
       "speakers": [
-        "Onyx Vault",
-        "Kevin MacLeod",
-        "Listener Discretion"
+        "Uncommon Mourning Summary"
       ],
       "topics": [
         "chapter",
@@ -130,12 +112,8 @@
       "enclosure_length": "36850005",
       "itunes_duration": null,
       "speakers": [
-        "Patron Shoutout",
-        "Katie Otten",
-        "Guinefurrie Guinefurrie",
-        "Custom Audio",
-        "Angela Tran",
-        "Listener Discretion"
+        "Asking After Gods Summary",
+        "Halfling Temic"
       ],
       "topics": [
         "chapter"
@@ -153,13 +131,7 @@
       "enclosure_length": "37658066",
       "itunes_duration": null,
       "speakers": [
-        "Seina broaches",
-        "Creature Legends",
-        "Patreon Max",
-        "YouTube Max",
-        "Aurora Locifer",
-        "Find Aurora",
-        "Listener Discretion"
+        "Seina broaches"
       ],
       "topics": [
         "chapter",
@@ -178,11 +150,8 @@
       "enclosure_length": "38948719",
       "itunes_duration": null,
       "speakers": [
-        "Creature Legends",
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Listener Discretion"
+        "Greymalkin Summary",
+        "Two Mazari Girls"
       ],
       "topics": [
         "chapter",
@@ -201,10 +170,8 @@
       "enclosure_length": "48898895",
       "itunes_duration": null,
       "speakers": [
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Listener Discretion"
+        "Kaylana Summary",
+        "Goblin Pits"
       ],
       "topics": [
         "chapter",
@@ -225,12 +192,7 @@
       "enclosure_length": "41422421",
       "itunes_duration": null,
       "speakers": [
-        "John Merle Holes",
-        "Katie Otten",
-        "Guinefurrie Guinefurrie",
-        "Elizabeth Carter",
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Len Summary"
       ],
       "topics": [
         "chapter",
@@ -249,8 +211,8 @@
       "enclosure_length": "41080181",
       "itunes_duration": null,
       "speakers": [
-        "John Merle Holes",
-        "Listener Discretion"
+        "Solus Summary",
+        "Fighter Solus"
       ],
       "topics": [
         "chapter",
@@ -270,7 +232,8 @@
       "enclosure_length": "28941565",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Ever Wider",
+        "Unicorn Girl"
       ],
       "topics": [
         "chapter",
@@ -289,8 +252,7 @@
       "enclosure_length": "25674329",
       "itunes_duration": null,
       "speakers": [
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Nest Summary"
       ],
       "topics": [
         "chapter",
@@ -310,12 +272,7 @@
       "enclosure_length": "37685735",
       "itunes_duration": null,
       "speakers": [
-        "Zeerum Halfling",
-        "Patreon Max",
-        "YouTube Max",
-        "Katie Otten",
-        "Guinefurrie Guinefurrie",
-        "Listener Discretion"
+        "Zeerum Halfling"
       ],
       "topics": [
         "chapter",
@@ -336,11 +293,7 @@
       "itunes_duration": null,
       "speakers": [
         "Dark Dwarf",
-        "Goblin King",
-        "Patreon Max",
-        "YouTube Max",
-        "Custom Audio",
-        "Listener Discretion"
+        "Goblin King"
       ],
       "topics": [
         "chapter",
@@ -361,10 +314,7 @@
       "enclosure_length": "31338291",
       "itunes_duration": null,
       "speakers": [
-        "Patreon Max",
-        "YouTube Max",
-        "Find Ascle",
-        "Listener Discretion"
+        "Hyron Summary"
       ],
       "topics": [
         "chapter",
@@ -384,14 +334,8 @@
       "enclosure_length": "33628281",
       "itunes_duration": null,
       "speakers": [
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Twitter YouTube",
-        "Aurora Locifer",
-        "Find Aurora",
-        "Pete Lawson",
-        "Listener Discretion"
+        "Painting Caves Summary",
+        "Map Master"
       ],
       "topics": [
         "chapter",
@@ -409,14 +353,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32919791",
       "itunes_duration": null,
-      "speakers": [
-        "Gift Download",
-        "Katie Otten",
-        "Patreon Max",
-        "YouTube Max",
-        "Twitter YouTube",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "star",
@@ -434,12 +371,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30661765",
       "itunes_duration": null,
-      "speakers": [
-        "Elizabeth Carter",
-        "Katie Otten",
-        "Pete Lawson",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -456,10 +388,7 @@
       "enclosure_length": "33407415",
       "itunes_duration": null,
       "speakers": [
-        "Aurora Locifer",
-        "Find Aurora",
-        "Elizabeth Carter",
-        "Listener Discretion"
+        "Hospitality Summary"
       ],
       "topics": [
         "chapter",
@@ -478,8 +407,7 @@
       "enclosure_length": "30301629",
       "itunes_duration": null,
       "speakers": [
-        "Dwarf Marx",
-        "Listener Discretion"
+        "Dwarf Marx"
       ],
       "topics": [
         "chapter",
@@ -499,8 +427,10 @@
       "enclosure_length": "43199615",
       "itunes_duration": null,
       "speakers": [
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Black Market",
+        "Tharr Summary",
+        "Three Dwarves",
+        "Alpha Two"
       ],
       "topics": [
         "chapter",
@@ -521,9 +451,8 @@
       "enclosure_length": "41652723",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Salvation Summary",
+        "Unicorn Girl"
       ],
       "topics": [
         "chapter",
@@ -542,15 +471,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46729119",
       "itunes_duration": null,
-      "speakers": [
-        "Battlefield Destroyed Cavern",
-        "Patreon Max",
-        "YouTube Max",
-        "Twitter YouTube",
-        "Iron Personas",
-        "Guinefurrie Guinefurrie",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "spiritual",
@@ -568,13 +489,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48080551",
       "itunes_duration": null,
-      "speakers": [
-        "Patreon Max",
-        "YouTube Max",
-        "Twitter YouTube",
-        "Pete Lawson",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -591,12 +506,7 @@
       "enclosure_length": "48905575",
       "itunes_duration": null,
       "speakers": [
-        "Dreggar Realm",
-        "Tribal Matters",
-        "Creep Cavern",
-        "Patreon Max",
-        "YouTube Max",
-        "Listener Discretion"
+        "Loyalty Summary"
       ],
       "topics": [
         "chapter",
@@ -616,14 +526,7 @@
       "enclosure_length": "41652675",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Patreon Max",
-        "YouTube Max",
-        "Katie Otten",
-        "Iron Realm Arena",
-        "Find Krystal",
-        "Rin Araneta",
-        "Listener Discretion"
+        "Sillian God Summary"
       ],
       "topics": [
         "chapter"
@@ -640,11 +543,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43267461",
       "itunes_duration": null,
-      "speakers": [
-        "Katie Otten",
-        "John Merle Holes",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "collective"
@@ -661,12 +560,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44865489",
       "itunes_duration": null,
-      "speakers": [
-        "Brian Pauls",
-        "Simon Williams Artist",
-        "Katie Otten",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "quad"
@@ -684,8 +578,7 @@
       "enclosure_length": "42721521",
       "itunes_duration": null,
       "speakers": [
-        "John Merle Holes",
-        "Listener Discretion"
+        "New Kingspire"
       ],
       "topics": [
         "chapter",
@@ -704,8 +597,7 @@
       "enclosure_length": "44101995",
       "itunes_duration": null,
       "speakers": [
-        "John Merle",
-        "Listener Discretion"
+        "New Kingspire Summary"
       ],
       "topics": [
         "chapter",
@@ -725,12 +617,7 @@
       "enclosure_length": "47808689",
       "itunes_duration": null,
       "speakers": [
-        "Maze Without Walls",
-        "Extras Tab",
-        "Find Charquipvee",
-        "Katie Otten",
-        "Instagram Katie",
-        "Listener Discretion"
+        "Maze Without Walls"
       ],
       "topics": [
         "chapter",
@@ -749,10 +636,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42961283",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Realm",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "manor",
@@ -770,12 +654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40198627",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Personas",
-        "John Merle Holes",
-        "John Merle",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "consent"
@@ -792,11 +671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46677419",
       "itunes_duration": null,
-      "speakers": [
-        "John Merle Holes",
-        "John Merle",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "mercy"
@@ -814,9 +689,8 @@
       "enclosure_length": "39668183",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Find Charquipvee",
-        "Listener Discretion"
+        "Dark Elf Dreams Summary",
+        "Dark Elves"
       ],
       "topics": [
         "chapter",
@@ -836,7 +710,7 @@
       "enclosure_length": "39389007",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Crystal Aftermath Summary"
       ],
       "topics": [
         "chapter",
@@ -856,12 +730,7 @@
       "enclosure_length": "49447028",
       "itunes_duration": null,
       "speakers": [
-        "Sarah Moore",
-        "Twitter Sarah Moore",
-        "Bree Jones",
-        "Twitch Bree",
-        "Find Charquipvee",
-        "Listener Discretion"
+        "Blessed Reunion Summary"
       ],
       "topics": [
         "chapter",
@@ -881,14 +750,7 @@
       "enclosure_length": "42794441",
       "itunes_duration": null,
       "speakers": [
-        "Spell Mimicry",
-        "Bree Jones",
-        "Twitch Bree",
-        "Sarah Moore",
-        "Twitter Sarah Moore",
-        "Katie Otten",
-        "Instagram Katie",
-        "Find Charquipvee"
+        "Kingspire Summary"
       ],
       "topics": [
         "chapter",
@@ -908,11 +770,9 @@
       "enclosure_length": "44237917",
       "itunes_duration": null,
       "speakers": [
-        "Bree Jones",
-        "Twitch Bree",
-        "Sarah Moore",
-        "Twitter Sarah Moore",
-        "Listener Discretion"
+        "Dark Elf Tactics Summary",
+        "Dark Elf",
+        "Dungeon War"
       ],
       "topics": [
         "chapter",
@@ -931,14 +791,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40626435",
       "itunes_duration": null,
-      "speakers": [
-        "John Merle Holes",
-        "Iron Realm",
-        "John Merle",
-        "Sarah Moore",
-        "Twitter Sarah Moore",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "worlds"
@@ -956,8 +809,8 @@
       "enclosure_length": "35773449",
       "itunes_duration": null,
       "speakers": [
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Gold Summary",
+        "Goblin Tribe"
       ],
       "topics": [
         "chapter",
@@ -977,12 +830,8 @@
       "enclosure_length": "43757642",
       "itunes_duration": null,
       "speakers": [
-        "John Merle Holes",
-        "John Merle",
-        "Real Roleplay",
-        "Tribal Matters",
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Dead Unicorn Summary",
+        "Gamma One"
       ],
       "topics": [
         "chapter",
@@ -1001,10 +850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38055965",
       "itunes_duration": null,
-      "speakers": [
-        "Find Charquipvee",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "cracked",
@@ -1023,8 +869,7 @@
       "enclosure_length": "37879235",
       "itunes_duration": null,
       "speakers": [
-        "Goblin King",
-        "Listener Discretion"
+        "Goblin King"
       ],
       "topics": [
         "chapter",
@@ -1043,12 +888,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39920103",
       "itunes_duration": null,
-      "speakers": [
-        "Katie Otten",
-        "Instagram Katie",
-        "Find Charquipvee",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "icosahedron"
@@ -1066,11 +906,7 @@
       "enclosure_length": "40759875",
       "itunes_duration": null,
       "speakers": [
-        "Goblin King",
-        "Find Josh",
-        "Twitter Josh",
-        "Loinheart Paragon",
-        "Listener Discretion"
+        "Goblin King"
       ],
       "topics": [
         "chapter",
@@ -1088,9 +924,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53680519",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -1106,14 +940,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39443653",
       "itunes_duration": null,
-      "speakers": [
-        "Onyx Vault",
-        "Haidama Download",
-        "Lauren Hottinger",
-        "Andre Grandpierre",
-        "Real Roleplay",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "vault",
@@ -1132,9 +959,7 @@
       "enclosure_length": "39006417",
       "itunes_duration": null,
       "speakers": [
-        "Meliora Henning",
-        "Twitter Meliora",
-        "Listener Discretion"
+        "Company Summary"
       ],
       "topics": [
         "chapter",
@@ -1154,14 +979,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42503547",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Personas",
-        "Meliora Henning",
-        "Twitter Meliora",
-        "Katie Otten",
-        "Instagram Katie",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "clone",
@@ -1179,11 +997,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43261559",
       "itunes_duration": null,
-      "speakers": [
-        "Meliora Henning",
-        "Twitter Meliora",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "mask",
@@ -1202,14 +1016,7 @@
       "enclosure_length": "113391845",
       "itunes_duration": null,
       "speakers": [
-        "Iron Realm",
-        "Katie Otten",
-        "Instagram Katie",
-        "Twitter YouTube",
-        "Find Josh",
-        "Twitter Josh",
-        "Loinheart Paragon",
-        "Battle March"
+        "Maze Summary"
       ],
       "topics": [
         "chapter",
@@ -1229,8 +1036,7 @@
       "enclosure_length": "54199337",
       "itunes_duration": null,
       "speakers": [
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Contracts Summary"
       ],
       "topics": [
         "chapter",
@@ -1250,12 +1056,7 @@
       "enclosure_length": "39633636",
       "itunes_duration": null,
       "speakers": [
-        "Josh Portillo",
-        "Find Josh",
-        "Twitter Josh",
-        "Loinheart Paragon",
-        "Twitter YouTube",
-        "Listener Discretion"
+        "Foreign Tongues Summary"
       ],
       "topics": [
         "chapter",
@@ -1275,11 +1076,7 @@
       "enclosure_length": "39519870",
       "itunes_duration": null,
       "speakers": [
-        "Josh Portillo",
-        "Find Josh",
-        "Twitter Josh",
-        "Loinheart Paragon",
-        "Listener Discretion"
+        "Dark Summary"
       ],
       "topics": [
         "chapter",
@@ -1298,9 +1095,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48311030",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "elven",
@@ -1318,16 +1113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43892886",
       "itunes_duration": null,
-      "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Oppressive Gloom",
-        "Jason Peck",
-        "Mystara Teaser",
-        "Solo Dungeon Crawler",
-        "Solo Dungeon",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "parting"
@@ -1344,10 +1130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31213284",
       "itunes_duration": null,
-      "speakers": [
-        "Dungeon Errata",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "void",
@@ -1366,10 +1149,7 @@
       "enclosure_length": "46757944",
       "itunes_duration": null,
       "speakers": [
-        "Mystara Teaser",
-        "Solo Dungeon Crawler",
-        "Solo Dungeon",
-        "Listener Discretion"
+        "End Summary"
       ],
       "topics": [
         "chapter",
@@ -1388,9 +1168,9 @@
       "enclosure_length": "46699130",
       "itunes_duration": null,
       "speakers": [
-        "Jason Peck",
-        "Tribal Matters",
-        "Listener Discretion"
+        "Stone Summary",
+        "Braeminn Tribe",
+        "Fighter Solus"
       ],
       "topics": [
         "chapter",
@@ -1409,12 +1189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37920352",
       "itunes_duration": null,
-      "speakers": [
-        "Jason Peck",
-        "Tribal Matters",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "memory"
@@ -1431,12 +1206,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33767050",
       "itunes_duration": null,
-      "speakers": [
-        "Jason Peck",
-        "Ashley Eddy",
-        "Kevin MacLeod",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "bone",
@@ -1454,11 +1224,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37546976",
       "itunes_duration": null,
-      "speakers": [
-        "Jason Peck",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "sword",
@@ -1477,8 +1243,7 @@
       "enclosure_length": "36707606",
       "itunes_duration": null,
       "speakers": [
-        "Jason Peck",
-        "Listener Discretion"
+        "Sapphire Chamber"
       ],
       "topics": [
         "chapter"
@@ -1495,11 +1260,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29632952",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "light",
@@ -1518,7 +1279,7 @@
       "enclosure_length": "28134750",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Swallowed Summary"
       ],
       "topics": [
         "chapter"
@@ -1535,13 +1296,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30641506",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Realm",
-        "Iron Forge",
-        "Ashley Eddy linda hurt",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "deep"
@@ -1558,9 +1313,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32982402",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "wood",
@@ -1579,10 +1332,7 @@
       "enclosure_length": "32944346",
       "itunes_duration": null,
       "speakers": [
-        "Guinefurrie Ballgaged",
-        "Ashley Eddy linda hurt",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Descent Summary"
       ],
       "topics": [
         "chapter",
@@ -1600,10 +1350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31580966",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "sacrifice"
@@ -1620,10 +1367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31130528",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "matron"
@@ -1640,9 +1384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37385460",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "question"
@@ -1660,8 +1402,7 @@
       "enclosure_length": "32983114",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "West Wall Summary"
       ],
       "topics": [
         "chapter",
@@ -1682,7 +1423,7 @@
       "enclosure_length": "35103344",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Halfling Holiday Summary"
       ],
       "topics": [
         "chapter",
@@ -1701,7 +1442,7 @@
       "enclosure_length": "32220910",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Halfling Families Summary"
       ],
       "topics": [
         "chapter",
@@ -1721,9 +1462,8 @@
       "enclosure_length": "50553818",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Jason Peck",
-        "Listener Discretion"
+        "Dark Elf Ambition Summary",
+        "Mazari Trib"
       ],
       "topics": [
         "chapter",
@@ -1742,11 +1482,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29533290",
       "itunes_duration": null,
-      "speakers": [
-        "Tribal Matters",
-        "Angela Tran",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "circle",
@@ -1765,10 +1501,7 @@
       "enclosure_length": "30760174",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Angela Tran",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Dungeon Wives"
       ],
       "topics": [
         "chapter",
@@ -1788,10 +1521,7 @@
       "enclosure_length": "29899064",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Tribal Matters",
-        "Listener Discretion"
+        "Freedom Summary"
       ],
       "topics": [
         "chapter",
@@ -1811,7 +1541,8 @@
       "enclosure_length": "29487768",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Veil Summary",
+        "Sacred Sanctuary"
       ],
       "topics": [
         "chapter",
@@ -1830,7 +1561,7 @@
       "enclosure_length": "31685232",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Ring Summary"
       ],
       "topics": [
         "chapter",
@@ -1848,9 +1579,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38794222",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "knight",
@@ -1868,9 +1597,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29242982",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "soul",
@@ -1889,11 +1616,7 @@
       "enclosure_length": "38886374",
       "itunes_duration": null,
       "speakers": [
-        "Goblin King",
-        "Elder Dwarf",
-        "Ashley Eddy",
-        "Angela Tran",
-        "Listener Discretion"
+        "Goblin King"
       ],
       "topics": [
         "chapter",
@@ -1912,10 +1635,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33749616",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "withdrawl"
@@ -1932,10 +1652,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31540735",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "army",
@@ -1953,10 +1670,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32116074",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "blood",
@@ -1975,8 +1689,7 @@
       "enclosure_length": "32769842",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Dwarves Summary"
       ],
       "topics": [
         "chapter",
@@ -1996,7 +1709,8 @@
       "enclosure_length": "29795384",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Dwarves Summary",
+        "Dwarf King"
       ],
       "topics": [
         "chapter",
@@ -2016,8 +1730,7 @@
       "enclosure_length": "34331388",
       "itunes_duration": null,
       "speakers": [
-        "Iron Forge",
-        "Listener Discretion"
+        "Blood Hall Summary"
       ],
       "topics": [
         "chapter",
@@ -2037,12 +1750,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30470440",
       "itunes_duration": null,
-      "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "level"
@@ -2059,11 +1767,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29438852",
       "itunes_duration": null,
-      "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "gauntlet",
@@ -2082,10 +1786,7 @@
       "enclosure_length": "31661040",
       "itunes_duration": null,
       "speakers": [
-        "Level Alpha",
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Listener Discretion"
+        "Level Alpha"
       ],
       "topics": [
         "chapter",
@@ -2105,7 +1806,7 @@
       "enclosure_length": "31106050",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Apprentice Summary"
       ],
       "topics": [
         "chapter",
@@ -2123,11 +1824,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34000170",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "gift",
@@ -2145,10 +1842,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32465698",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "pirates"
@@ -2165,10 +1859,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32665576",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "elven",
@@ -2186,9 +1877,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31324253",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "plight",
@@ -2208,8 +1897,7 @@
       "enclosure_length": "35475086",
       "itunes_duration": null,
       "speakers": [
-        "Halfling Fighter",
-        "Listener Discretion"
+        "Halfling Fighter"
       ],
       "topics": [
         "chapter",
@@ -2229,9 +1917,7 @@
       "enclosure_length": "32584380",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Unicorn Summary"
       ],
       "topics": [
         "chapter",
@@ -2251,9 +1937,7 @@
       "enclosure_length": "31153574",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Listener Discretion"
+        "Tracking Prey Summary"
       ],
       "topics": [
         "chapter",
@@ -2272,14 +1956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33531868",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Maze Master",
-        "Tribe Tracker",
-        "Tribal Matters",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "survival"
@@ -2297,7 +1974,10 @@
       "enclosure_length": "33123971",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Elf Girl",
+        "Prison Summary",
+        "Elf Wizard Warrior",
+        "Human Priestess"
       ],
       "topics": [
         "chapter",
@@ -2316,10 +1996,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31845342",
       "itunes_duration": null,
-      "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "hyenaman"
@@ -2337,9 +2014,7 @@
       "enclosure_length": "31688114",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Maze Summary"
       ],
       "topics": [
         "chapter",
@@ -2359,12 +2034,7 @@
       "enclosure_length": "31023986",
       "itunes_duration": null,
       "speakers": [
-        "Goblin King",
-        "Kevin MacLeod",
-        "Tribal Matters",
-        "Ashley Eddy",
-        "Blue Siren",
-        "Listener Discretion"
+        "Goblin King"
       ],
       "topics": [
         "chapter",
@@ -2383,11 +2053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29620864",
       "itunes_duration": null,
-      "speakers": [
-        "Grave Blow",
-        "Kevin MacLeod",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "scabbard",
@@ -2405,11 +2071,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31845356",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Forge",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "wizard",
@@ -2428,9 +2090,7 @@
       "enclosure_length": "32463410",
       "itunes_duration": null,
       "speakers": [
-        "Relic Writeup",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Elves Summary"
       ],
       "topics": [
         "chapter",
@@ -2449,9 +2109,9 @@
       "enclosure_length": "29613374",
       "itunes_duration": null,
       "speakers": [
-        "Tribal Matters",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Sylvanis Summary",
+        "Goblin Dungeons",
+        "Human Priestess"
       ],
       "topics": [
         "chapter",
@@ -2470,13 +2130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29564392",
       "itunes_duration": null,
-      "speakers": [
-        "Kevin MacLoud",
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Blue Siren",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "kingdom"
@@ -2493,9 +2147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30296502",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "confrontation"
@@ -2512,9 +2164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29060386",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "maid",
@@ -2532,12 +2182,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34056614",
       "itunes_duration": null,
-      "speakers": [
-        "Cave Gorilla",
-        "DM Liz",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "gnome",
@@ -2556,10 +2201,7 @@
       "enclosure_length": "29927829",
       "itunes_duration": null,
       "speakers": [
-        "Kobold Glyphs",
-        "Kobold Glyphs Become",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Kobold Glyphs"
       ],
       "topics": [
         "chapter",
@@ -2579,8 +2221,8 @@
       "enclosure_length": "28625532",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Listener Discretion"
+        "Unicorn Girl Summary",
+        "Unicorn Girl"
       ],
       "topics": [
         "chapter",
@@ -2601,10 +2243,7 @@
       "enclosure_length": "31207716",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Ashley Eddy",
-        "Blue Siren",
-        "Listener Discretion"
+        "Forced March Summary"
       ],
       "topics": [
         "chapter",
@@ -2623,10 +2262,7 @@
       "enclosure_length": "29897308",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Blue Siren",
-        "Listener Discretion"
+        "Secret Room"
       ],
       "topics": [
         "chapter",
@@ -2645,9 +2281,8 @@
       "enclosure_length": "39056946",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Goblin Dungeons Summary",
+        "Goblin Territiry"
       ],
       "topics": [
         "chapter",
@@ -2666,13 +2301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31811930",
       "itunes_duration": null,
-      "speakers": [
-        "Goblin Territory",
-        "Iron Realm",
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "ritual"
@@ -2690,8 +2319,7 @@
       "enclosure_length": "29634678",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Thief Summary"
       ],
       "topics": [
         "chapter",
@@ -2710,8 +2338,7 @@
       "enclosure_length": "30953136",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Hands Summary"
       ],
       "topics": [
         "chapter",
@@ -2730,9 +2357,7 @@
       "enclosure_length": "29055128",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLeod",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Unicorn Hunt Summary"
       ],
       "topics": [
         "chapter",
@@ -2752,9 +2377,7 @@
       "enclosure_length": "29364516",
       "itunes_duration": null,
       "speakers": [
-        "Deep Haze",
-        "Kevin MacLeod",
-        "Listener Discretion"
+        "Half Unicorn Summary"
       ],
       "topics": [
         "chapter",
@@ -2774,8 +2397,8 @@
       "enclosure_length": "29073640",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Listener Discretion"
+        "Dark Elf Queen Summary",
+        "Inner Sanctuary"
       ],
       "topics": [
         "chapter",
@@ -2795,8 +2418,7 @@
       "enclosure_length": "27959245",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Humility Summary"
       ],
       "topics": [
         "chapter",
@@ -2814,9 +2436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29449260",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "fallen"
@@ -2834,9 +2454,8 @@
       "enclosure_length": "30003872",
       "itunes_duration": null,
       "speakers": [
-        "Iron Realm",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Pixie Fury Summary",
+        "Dwarven Fighter"
       ],
       "topics": [
         "chapter",
@@ -2855,10 +2474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28865692",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Personas",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "dark"
@@ -2875,9 +2491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34787198",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "voice",
@@ -2896,7 +2510,7 @@
       "enclosure_length": "28749352",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Dark Elve"
       ],
       "topics": [
         "chapter",
@@ -2914,11 +2528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30672642",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Personas",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "cleric",
@@ -2937,8 +2547,7 @@
       "enclosure_length": "29616240",
       "itunes_duration": null,
       "speakers": [
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Sword Remembered Summary"
       ],
       "topics": [
         "chapter",
@@ -2957,9 +2566,7 @@
       "enclosure_length": "31652750",
       "itunes_duration": null,
       "speakers": [
-        "Will Treya",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Trees Summary"
       ],
       "topics": [
         "chapter",
@@ -2979,8 +2586,9 @@
       "enclosure_length": "35743882",
       "itunes_duration": null,
       "speakers": [
-        "Iron Personas",
-        "Listener Discretion"
+        "Orc Hunger Summary",
+        "Mind Charm",
+        "Elf Warrior Wizard"
       ],
       "topics": [
         "chapter",
@@ -2998,12 +2606,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31227312",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Death Writeup",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "goddess"
@@ -3021,9 +2624,7 @@
       "enclosure_length": "32287728",
       "itunes_duration": null,
       "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Powers Summary"
       ],
       "topics": [
         "chapter",
@@ -3042,13 +2643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29825900",
       "itunes_duration": null,
-      "speakers": [
-        "Fighter Wizard",
-        "Thunder Dreams",
-        "Kevin MacLeod",
-        "Grave Blow",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "fantasy",
@@ -3066,11 +2661,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31917024",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Kevin MacLeod",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "maps",
@@ -3089,8 +2680,7 @@
       "enclosure_length": "38505928",
       "itunes_duration": null,
       "speakers": [
-        "Kevin MacLeod",
-        "Listener Discretion"
+        "Elves Summary"
       ],
       "topics": [
         "chapter",
@@ -3108,9 +2698,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34684648",
       "itunes_duration": null,
-      "speakers": [
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -3127,9 +2715,8 @@
       "enclosure_length": "31040104",
       "itunes_duration": null,
       "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Goblin Ambush Summary",
+        "Goblin Hunter"
       ],
       "topics": [
         "chapter",
@@ -3149,7 +2736,7 @@
       "enclosure_length": "30596007",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Iron Realm"
       ],
       "topics": [
         "chapter",
@@ -3168,7 +2755,7 @@
       "enclosure_length": "35023593",
       "itunes_duration": null,
       "speakers": [
-        "Listener Discretion"
+        "Halfling Fighte"
       ],
       "topics": [
         "chapter",
@@ -3187,10 +2774,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29294249",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Personas",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "sign",
@@ -3208,11 +2792,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29586299",
       "itunes_duration": null,
-      "speakers": [
-        "Iron Realm",
-        "Extras Tab",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "kobolds",
@@ -3231,9 +2811,7 @@
       "enclosure_length": "28672757",
       "itunes_duration": null,
       "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Goblin Chieftain"
       ],
       "topics": [
         "chapter",
@@ -3251,11 +2829,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28460803",
       "itunes_duration": null,
-      "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "goblin",
@@ -3274,9 +2848,7 @@
       "enclosure_length": "30597816",
       "itunes_duration": null,
       "speakers": [
-        "Extras Tab",
-        "Ashley Eddy",
-        "Listener Discretion"
+        "Rescue Attempt Summary"
       ],
       "topics": [
         "chapter",
@@ -3295,11 +2867,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31654001",
       "itunes_duration": null,
-      "speakers": [
-        "Character Introductions",
-        "Extras Tab",
-        "Listener Discretion"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "goblin"
@@ -3312,153 +2880,153 @@
 
 ## Episodes (newest first)
 
-- 2025-12-29 — Chapter 151: The Last Violation — speakers: Creature Legends, Katie Otten, Patreon Max, YouTube Max, Listener Discretion
-- 2025-11-02 — Chapter 150: The Runner — speakers: Onyx Vault, Download Chapter, Katie Otten, Patreon Max, YouTube Max, Jason Przybycien, Spotify Jason, Listener Discretion
-- 2025-10-20 — Chapter 149: Love Lets Go — speakers: Creature Legends, Listener Discretion
-- 2025-10-01 — Chapter 148: Uncommon Mourning — speakers: Onyx Vault, Kevin MacLeod, Listener Discretion
-- 2025-09-02 — Chapter 147: Asking After Gods — speakers: Patron Shoutout, Katie Otten, Guinefurrie Guinefurrie, Custom Audio, Angela Tran, Listener Discretion
-- 2025-08-01 — Chapter 146: The Name of the Goddess — speakers: Seina broaches, Creature Legends, Patreon Max, YouTube Max, Aurora Locifer, Find Aurora, Listener Discretion
-- 2025-07-03 — Chapter 145: Greymalkin — speakers: Creature Legends, Katie Otten, Patreon Max, YouTube Max, Listener Discretion
-- 2025-06-01 — Chapter 144: The Origin of Echo & Kaylana — speakers: Katie Otten, Patreon Max, YouTube Max, Listener Discretion
-- 2025-05-02 — Chapter 143: The Origin of Len — speakers: John Merle Holes, Katie Otten, Guinefurrie Guinefurrie, Elizabeth Carter, Twitter YouTube, Listener Discretion
-- 2025-04-01 — Chapter 142: The Origin of Solus — speakers: John Merle Holes, Listener Discretion
-- 2025-03-02 — Chapter 141: Ever Wider, The Circle — speakers: Listener Discretion
-- 2025-02-01 — Chapter 140: Healer's Nest — speakers: Twitter YouTube, Listener Discretion
-- 2025-01-04 — Chapter 139: Arcane Analysis — speakers: Zeerum Halfling, Patreon Max, YouTube Max, Katie Otten, Guinefurrie Guinefurrie, Listener Discretion
-- 2024-12-06 — Chapter 138: Dark Dwarf's Ruin — speakers: Dark Dwarf, Goblin King, Patreon Max, YouTube Max, Custom Audio, Listener Discretion
-- 2024-11-15 — Chapter 137: The Horn of Hyron — speakers: Patreon Max, YouTube Max, Find Ascle, Listener Discretion
-- 2024-10-01 — Chapter 136: Painting Caves — speakers: Katie Otten, Patreon Max, YouTube Max, Twitter YouTube, Aurora Locifer, Find Aurora, Pete Lawson, Listener Discretion
-- 2024-09-03 — Chapter 135: Star Gift — speakers: Gift Download, Katie Otten, Patreon Max, YouTube Max, Twitter YouTube, Listener Discretion
-- 2024-08-01 — Chapter 134: Conflicted — speakers: Elizabeth Carter, Katie Otten, Pete Lawson, Listener Discretion
-- 2024-07-01 — Chapter 133: Hospitality — speakers: Aurora Locifer, Find Aurora, Elizabeth Carter, Listener Discretion
-- 2024-06-01 — Chapter 132: Secret Meeting — speakers: Dwarf Marx, Listener Discretion
-- 2024-05-01 — Chapter 131: Black Market of Tharr — speakers: Twitter YouTube, Listener Discretion
-- 2024-04-02 — Chapter 130: Water & Salvation — speakers: Tribal Matters, Twitter YouTube, Listener Discretion
-- 2024-03-01 — Chapter 129: Spiritual Promise — speakers: Battlefield Destroyed Cavern, Patreon Max, YouTube Max, Twitter YouTube, Iron Personas, Guinefurrie Guinefurrie, Listener Discretion
-- 2024-02-01 — Chapter 128: Into the Blue — speakers: Patreon Max, YouTube Max, Twitter YouTube, Pete Lawson, Listener Discretion
-- 2024-01-01 — Chapter 127: Question of Loyalty — speakers: Dreggar Realm, Tribal Matters, Creep Cavern, Patreon Max, YouTube Max, Listener Discretion
-- 2023-12-01 — Chapter 126: Sillian God — speakers: Tribal Matters, Patreon Max, YouTube Max, Katie Otten, Iron Realm Arena, Find Krystal, Rin Araneta, Listener Discretion
-- 2023-11-01 — Chapter 125: The Collective — speakers: Katie Otten, John Merle Holes, Listener Discretion
-- 2023-10-01 — Chapter 124: The Quad — speakers: Brian Pauls, Simon Williams Artist, Katie Otten, Listener Discretion
-- 2023-09-01 — Chapter 123: The Bug Zapper — speakers: John Merle Holes, Listener Discretion
-- 2023-08-01 — Chapter 122: Search in New Kingspire — speakers: John Merle, Listener Discretion
-- 2023-07-01 — Chapter 121: Maze Without Walls — speakers: Maze Without Walls, Extras Tab, Find Charquipvee, Katie Otten, Instagram Katie, Listener Discretion
-- 2023-06-01 — Chapter 120: The Manor House — speakers: Iron Realm, Listener Discretion
-- 2023-05-01 — Chapter 119: Consent — speakers: Iron Personas, John Merle Holes, John Merle, Listener Discretion
-- 2023-04-02 — Chapter 118: Tentative Mercy — speakers: John Merle Holes, John Merle, Listener Discretion
-- 2023-03-02 — Chapter 117: Dark Elf Dreams — speakers: Tribal Matters, Find Charquipvee, Listener Discretion
-- 2023-01-30 — Chapter 116: Crystal Aftermath — speakers: Listener Discretion
-- 2022-12-22 — Chapter 115: Blessed Reunion — speakers: Sarah Moore, Twitter Sarah Moore, Bree Jones, Twitch Bree, Find Charquipvee, Listener Discretion
-- 2022-11-11 — Chapter 114: The Streets of Kingspire — speakers: Spell Mimicry, Bree Jones, Twitch Bree, Sarah Moore, Twitter Sarah Moore, Katie Otten, Instagram Katie, Find Charquipvee
-- 2022-10-19 — Chapter 113: Dark Elf Tactics — speakers: Bree Jones, Twitch Bree, Sarah Moore, Twitter Sarah Moore, Listener Discretion
-- 2022-10-01 — Chapter 112: End of the Worlds — speakers: John Merle Holes, Iron Realm, John Merle, Sarah Moore, Twitter Sarah Moore, Listener Discretion
-- 2022-09-01 — Chapter 111: Secret of Gold — speakers: Twitter YouTube, Listener Discretion
-- 2022-07-22 — Chapter 110: Dead Unicorn — speakers: John Merle Holes, John Merle, Real Roleplay, Tribal Matters, Twitter YouTube, Listener Discretion
-- 2022-07-02 — Chapter 109: The Cracked Mirror — speakers: Find Charquipvee, Listener Discretion
-- 2022-06-01 — Chapter 108: The King's Gold — speakers: Goblin King, Listener Discretion
-- 2022-05-03 — Chapter 107: Icosahedron — speakers: Katie Otten, Instagram Katie, Find Charquipvee, Listener Discretion
-- 2022-04-01 — Chapter 106: Dungeon War — speakers: Goblin King, Find Josh, Twitter Josh, Loinheart Paragon, Listener Discretion
-- 2022-03-01 — Chapter 105: Trapped — speakers: Listener Discretion
-- 2022-02-01 — Chapter 104: Vault of Haidama — speakers: Onyx Vault, Haidama Download, Lauren Hottinger, Andre Grandpierre, Real Roleplay, Listener Discretion
-- 2022-01-01 — Chapter 103: Secrets of Honan's Company — speakers: Meliora Henning, Twitter Meliora, Listener Discretion
-- 2021-12-23 — Chapter 102: Clones of Haidama — speakers: Iron Personas, Meliora Henning, Twitter Meliora, Katie Otten, Instagram Katie, Listener Discretion
-- 2021-11-01 — Chapter 101: The Mask Cracks — speakers: Meliora Henning, Twitter Meliora, Listener Discretion
-- 2021-10-01 — Chapter 100: Retribution of the Maze — speakers: Iron Realm, Katie Otten, Instagram Katie, Twitter YouTube, Find Josh, Twitter Josh, Loinheart Paragon, Battle March
-- 2021-09-01 — Chapter 99: Questions & Contracts — speakers: Twitter YouTube, Listener Discretion
-- 2021-07-29 — Chapter 98: Foreign Tongues — speakers: Josh Portillo, Find Josh, Twitter Josh, Loinheart Paragon, Twitter YouTube, Listener Discretion
-- 2021-07-01 — Chapter 97: Light in the Dark — speakers: Josh Portillo, Find Josh, Twitter Josh, Loinheart Paragon, Listener Discretion
-- 2021-06-01 — Chapter 96: Elven Femininity — speakers: Listener Discretion
-- 2021-05-01 — Chapter 95: Parting of Ways — speakers: Kevin MacLoud, Kevin MacLeod, Oppressive Gloom, Jason Peck, Mystara Teaser, Solo Dungeon Crawler, Solo Dungeon, Listener Discretion
-- 2021-04-01 — Chapter 94: Void Shadows — speakers: Dungeon Errata, Listener Discretion
-- 2021-03-01 — Chapter 93: Contest's End — speakers: Mystara Teaser, Solo Dungeon Crawler, Solo Dungeon, Listener Discretion
-- 2021-02-13 — Chapter 92: Faces in the Stone — speakers: Jason Peck, Tribal Matters, Listener Discretion
-- 2021-02-12 — Chapter 91: Memory of Her — speakers: Jason Peck, Tribal Matters, Ashley Eddy, Listener Discretion
-- 2020-12-03 — Chapter 90: A Bone A Stone — speakers: Jason Peck, Ashley Eddy, Kevin MacLeod, Listener Discretion
-- 2020-11-01 — Chapter 89: Sword Vision — speakers: Jason Peck, Ashley Eddy, Listener Discretion
-- 2020-10-01 — Chapter 88: Sealed In — speakers: Jason Peck, Listener Discretion
-- 2020-09-01 — Chapter 87: The Light and The Dark — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2020-08-03 — Chapter 86: Swallowed — speakers: Listener Discretion
-- 2020-07-01 — Chapter 85: In Too Deep — speakers: Iron Realm, Iron Forge, Ashley Eddy linda hurt, Ashley Eddy, Listener Discretion
-- 2020-06-01 — Chapter 84: The Wood Elf & The Wizard — speakers: Listener Discretion
-- 2020-05-12 — Chapter 83: Descent — speakers: Guinefurrie Ballgaged, Ashley Eddy linda hurt, Ashley Eddy, Listener Discretion
-- 2020-04-30 — Chapter 82: The Sacrifice — speakers: Ashley Eddy, Listener Discretion
-- 2020-03-21 — Chapter 81: The Matron — speakers: Ashley Eddy, Listener Discretion
-- 2020-02-04 — Chapter 80: The First Question — speakers: Listener Discretion
-- 2020-01-12 — Chapter 79: The Grumarch of the West Wall — speakers: Ashley Eddy, Listener Discretion
-- 2019-12-20 — Chapter 78: Halfling Holiday — speakers: Listener Discretion
-- 2019-12-07 — Chapter 77: Halfling Families — speakers: Listener Discretion
-- 2019-10-25 — Chapter 76: Dark Elf Ambition — speakers: Tribal Matters, Jason Peck, Listener Discretion
-- 2019-09-08 — Chapter 75: Circle of Souls — speakers: Tribal Matters, Angela Tran, Listener Discretion
-- 2019-08-14 — Chapter 74: The Dungeon Wives — speakers: Tribal Matters, Angela Tran, Ashley Eddy, Listener Discretion
-- 2019-07-19 — Chapter 73: The Meaning of Freedom — speakers: Kevin MacLoud, Kevin MacLeod, Tribal Matters, Listener Discretion
-- 2019-07-10 — Chapter 72: Through the Veil — speakers: Listener Discretion
-- 2019-06-06 — Chapter 71: Ritual of the Ring — speakers: Listener Discretion
-- 2019-05-06 — Chapter 70: The Knight's Wife — speakers: Listener Discretion
-- 2019-04-05 — Chapter 69: Soul Contract — speakers: Listener Discretion
-- 2019-03-30 — Chapter 68: Goblin Females — speakers: Goblin King, Elder Dwarf, Ashley Eddy, Angela Tran, Listener Discretion
-- 2019-02-19 — Chapter 67: Tactical Withdrawl — speakers: Ashley Eddy, Listener Discretion
-- 2019-01-01 — Chapter 66: Army of Death — speakers: Ashley Eddy, Listener Discretion
-- 2018-12-01 — Chapter 65: The Blood Runes — speakers: Ashley Eddy, Listener Discretion
-- 2018-11-10 — Chapter 64: Fall of the Dwarves — speakers: Ashley Eddy, Listener Discretion
-- 2018-10-06 — Chapter 63: History of the Dwarves — speakers: Listener Discretion
-- 2018-09-13 — Chapter 62: Combat in the Blood Hall — speakers: Iron Forge, Listener Discretion
-- 2018-08-27 — Chapter 61: The Next Level. — speakers: Kevin MacLoud, Kevin MacLeod, Ashley Eddy, Listener Discretion
-- 2018-07-19 — Chapter 60: The Gauntlet and the Dwarves — speakers: Kevin MacLoud, Kevin MacLeod, Listener Discretion
-- 2018-06-13 — Chapter 59: Spawn of the Abyss — speakers: Level Alpha, Kevin MacLoud, Kevin MacLeod, Listener Discretion
-- 2018-06-06 — Chapter 58: Apprentice — speakers: Listener Discretion
-- 2018-06-01 — Chapter 57: Gift of Healing — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2018-05-21 — Chapter 56: Orc Pirates — speakers: Ashley Eddy, Listener Discretion
-- 2018-04-12 — Chapter 55: Elven Marriage — speakers: Ashley Eddy, Listener Discretion
-- 2018-03-21 — Chapter 54: Plight of the Dark Elves — speakers: Listener Discretion
-- 2018-03-16 — Chapter 53: Halfling Swordplay — speakers: Halfling Fighter, Listener Discretion
-- 2018-03-06 — Chapter 52: Survivors of the Unicorn — speakers: Iron Personas, Ashley Eddy, Listener Discretion
-- 2018-02-07 — Chapter 51: Tracking Prey — speakers: Kevin MacLoud, Kevin MacLeod, Listener Discretion
-- 2018-01-31 — Chapter 50: Survival — speakers: Extras Tab, Maze Master, Tribe Tracker, Tribal Matters, Ashley Eddy, Listener Discretion
-- 2017-12-09 — Chapter 49: Elf Girl's Prison — speakers: Listener Discretion
-- 2017-11-28 — Chapter 48: Hyenamen — speakers: Ashley Eddy, Listener Discretion
-- 2017-10-24 — Chapter 47: Mission in the Maze — speakers: Iron Personas, Ashley Eddy, Listener Discretion
-- 2017-09-27 — Chapter 46: Traps and Treachery — speakers: Goblin King, Kevin MacLeod, Tribal Matters, Ashley Eddy, Blue Siren, Listener Discretion
-- 2017-08-16 — Chapter 45: The Scabbard and the Sword — speakers: Grave Blow, Kevin MacLeod, Listener Discretion
-- 2017-08-09 — Chapter 44: Wizard's Bargain — speakers: Iron Forge, Ashley Eddy, Listener Discretion
-- 2017-07-20 — Chapter 43: Legacy of the Elves — speakers: Relic Writeup, Ashley Eddy, Listener Discretion
-- 2017-07-12 — Chapter 42: The Priestess of Sylvanis — speakers: Tribal Matters, Ashley Eddy, Listener Discretion
-- 2017-07-05 — Chapter 41: Eight Kingdoms — speakers: Kevin MacLoud, Kevin MacLeod, Ashley Eddy, Blue Siren, Listener Discretion
-- 2017-06-28 — Chapter 40: Bestial Confrontation — speakers: Listener Discretion
-- 2017-06-21 — Chapter 39: Maid's Rest — speakers: Listener Discretion
-- 2017-04-05 — Chapter 38: Gnomes to the Slaughter — speakers: Cave Gorilla, DM Liz, Ashley Eddy, Listener Discretion
-- 2017-03-29 — Chapter 37: Kobold Glyphs — speakers: Kobold Glyphs, Kobold Glyphs Become, Ashley Eddy, Listener Discretion
-- 2017-03-22 — Chapter 36: Fall of the Unicorn Girl — speakers: Iron Personas, Listener Discretion
-- 2017-03-14 — Chapter 35: Forced March — speakers: Iron Personas, Ashley Eddy, Blue Siren, Listener Discretion
-- 2017-02-08 — Chapter 34: The Wall — speakers: Kevin MacLeod, Ashley Eddy, Blue Siren, Listener Discretion
-- 2017-02-02 — Chapter 33: Goblin Dungeons — speakers: Kevin MacLeod, Ashley Eddy, Listener Discretion
-- 2017-01-05 — Chapter 32: Rituals — speakers: Goblin Territory, Iron Realm, Kevin MacLeod, Ashley Eddy, Listener Discretion
-- 2016-12-01 — Chapter 31: Halfling versus Thief — speakers: Ashley Eddy, Listener Discretion
-- 2016-11-03 — Chapter 30: Laying On of Hands — speakers: Ashley Eddy, Listener Discretion
-- 2016-10-27 — Chapter 29: Unicorn Hunt — speakers: Kevin MacLeod, Ashley Eddy, Listener Discretion
-- 2016-10-20 — Chapter 28: Half Unicorn — speakers: Deep Haze, Kevin MacLeod, Listener Discretion
-- 2016-10-06 — Chapter 27: Dark Elf Queen — speakers: Iron Personas, Listener Discretion
-- 2016-09-08 — Chapter 26: Act of Humility — speakers: Ashley Eddy, Listener Discretion
-- 2016-08-11 — Chapter 25: The Fallen — speakers: Listener Discretion
-- 2016-07-21 — Chapter 24: Pixie Fury — speakers: Iron Realm, Ashley Eddy, Listener Discretion
-- 2016-07-14 — Chapter 23: Dark Elf — speakers: Iron Personas, Listener Discretion
-- 2016-06-30 — Chapter 22: Voices in the Void — speakers: Listener Discretion
-- 2016-06-23 — Chapter 21: Dwarven Wisdom — speakers: Listener Discretion
-- 2016-06-16 — Chapter 20: The Cleric and the Halfling — speakers: Iron Personas, Ashley Eddy, Listener Discretion
-- 2016-05-26 — Chapter 19: A Sword Remembered — speakers: Ashley Eddy, Listener Discretion
-- 2016-05-19 — Chapter 18: A Memory of Trees — speakers: Will Treya, Ashley Eddy, Listener Discretion
-- 2016-05-05 — Chapter 17: Orc Hunger — speakers: Iron Personas, Listener Discretion
-- 2016-04-28 — Chapter 16: The Goddess Arises — speakers: Extras Tab, Death Writeup, Ashley Eddy, Listener Discretion
-- 2016-03-10 — Chapter 15: Legends and Powers — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2016-02-25 — Chapter 14: Fantasy of Fire — speakers: Fighter Wizard, Thunder Dreams, Kevin MacLeod, Grave Blow, Listener Discretion
-- 2016-01-14 — Chapter 13: Maps and Missions — speakers: Extras Tab, Kevin MacLeod, Listener Discretion
-- 2015-12-17 — Chapter 12: A Meeting of Elves — speakers: Kevin MacLeod, Listener Discretion
-- 2015-12-03 — Chapter 11: The Elf — speakers: Listener Discretion
-- 2015-11-19 — Chapter 10: Goblin Ambush — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2015-11-05 — Chapter 9: The Other World — speakers: Listener Discretion
-- 2015-10-22 — Chapter 8: Rival Tribe — speakers: Listener Discretion
-- 2015-10-15 — Chapter 7: Sign from Father — speakers: Iron Personas, Listener Discretion
-- 2015-10-08 — Chapter 6: Kobolds and Ministrations — speakers: Iron Realm, Extras Tab, Listener Discretion
-- 2015-09-24 — Chapter 5: The Hunter - Released! — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2015-09-17 — Chapter 4: The Goblin Chieftain — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2015-09-10 — Chapter 3: Rescue Attempt — speakers: Extras Tab, Ashley Eddy, Listener Discretion
-- 2015-09-03 — Chapter 2: The Goblin Pits — speakers: Character Introductions, Extras Tab, Listener Discretion
+- 2025-12-29 — Chapter 151: The Last Violation
+- 2025-11-02 — Chapter 150: The Runner
+- 2025-10-20 — Chapter 149: Love Lets Go — speakers: Love Lets Go Summary
+- 2025-10-01 — Chapter 148: Uncommon Mourning — speakers: Uncommon Mourning Summary
+- 2025-09-02 — Chapter 147: Asking After Gods — speakers: Asking After Gods Summary, Halfling Temic
+- 2025-08-01 — Chapter 146: The Name of the Goddess — speakers: Seina broaches
+- 2025-07-03 — Chapter 145: Greymalkin — speakers: Greymalkin Summary, Two Mazari Girls
+- 2025-06-01 — Chapter 144: The Origin of Echo & Kaylana — speakers: Kaylana Summary, Goblin Pits
+- 2025-05-02 — Chapter 143: The Origin of Len — speakers: Len Summary
+- 2025-04-01 — Chapter 142: The Origin of Solus — speakers: Solus Summary, Fighter Solus
+- 2025-03-02 — Chapter 141: Ever Wider, The Circle — speakers: Ever Wider, Unicorn Girl
+- 2025-02-01 — Chapter 140: Healer's Nest — speakers: Nest Summary
+- 2025-01-04 — Chapter 139: Arcane Analysis — speakers: Zeerum Halfling
+- 2024-12-06 — Chapter 138: Dark Dwarf's Ruin — speakers: Dark Dwarf, Goblin King
+- 2024-11-15 — Chapter 137: The Horn of Hyron — speakers: Hyron Summary
+- 2024-10-01 — Chapter 136: Painting Caves — speakers: Painting Caves Summary, Map Master
+- 2024-09-03 — Chapter 135: Star Gift
+- 2024-08-01 — Chapter 134: Conflicted
+- 2024-07-01 — Chapter 133: Hospitality — speakers: Hospitality Summary
+- 2024-06-01 — Chapter 132: Secret Meeting — speakers: Dwarf Marx
+- 2024-05-01 — Chapter 131: Black Market of Tharr — speakers: Black Market, Tharr Summary, Three Dwarves, Alpha Two
+- 2024-04-02 — Chapter 130: Water & Salvation — speakers: Salvation Summary, Unicorn Girl
+- 2024-03-01 — Chapter 129: Spiritual Promise
+- 2024-02-01 — Chapter 128: Into the Blue
+- 2024-01-01 — Chapter 127: Question of Loyalty — speakers: Loyalty Summary
+- 2023-12-01 — Chapter 126: Sillian God — speakers: Sillian God Summary
+- 2023-11-01 — Chapter 125: The Collective
+- 2023-10-01 — Chapter 124: The Quad
+- 2023-09-01 — Chapter 123: The Bug Zapper — speakers: New Kingspire
+- 2023-08-01 — Chapter 122: Search in New Kingspire — speakers: New Kingspire Summary
+- 2023-07-01 — Chapter 121: Maze Without Walls — speakers: Maze Without Walls
+- 2023-06-01 — Chapter 120: The Manor House
+- 2023-05-01 — Chapter 119: Consent
+- 2023-04-02 — Chapter 118: Tentative Mercy
+- 2023-03-02 — Chapter 117: Dark Elf Dreams — speakers: Dark Elf Dreams Summary, Dark Elves
+- 2023-01-30 — Chapter 116: Crystal Aftermath — speakers: Crystal Aftermath Summary
+- 2022-12-22 — Chapter 115: Blessed Reunion — speakers: Blessed Reunion Summary
+- 2022-11-11 — Chapter 114: The Streets of Kingspire — speakers: Kingspire Summary
+- 2022-10-19 — Chapter 113: Dark Elf Tactics — speakers: Dark Elf Tactics Summary, Dark Elf, Dungeon War
+- 2022-10-01 — Chapter 112: End of the Worlds
+- 2022-09-01 — Chapter 111: Secret of Gold — speakers: Gold Summary, Goblin Tribe
+- 2022-07-22 — Chapter 110: Dead Unicorn — speakers: Dead Unicorn Summary, Gamma One
+- 2022-07-02 — Chapter 109: The Cracked Mirror
+- 2022-06-01 — Chapter 108: The King's Gold — speakers: Goblin King
+- 2022-05-03 — Chapter 107: Icosahedron
+- 2022-04-01 — Chapter 106: Dungeon War — speakers: Goblin King
+- 2022-03-01 — Chapter 105: Trapped
+- 2022-02-01 — Chapter 104: Vault of Haidama
+- 2022-01-01 — Chapter 103: Secrets of Honan's Company — speakers: Company Summary
+- 2021-12-23 — Chapter 102: Clones of Haidama
+- 2021-11-01 — Chapter 101: The Mask Cracks
+- 2021-10-01 — Chapter 100: Retribution of the Maze — speakers: Maze Summary
+- 2021-09-01 — Chapter 99: Questions & Contracts — speakers: Contracts Summary
+- 2021-07-29 — Chapter 98: Foreign Tongues — speakers: Foreign Tongues Summary
+- 2021-07-01 — Chapter 97: Light in the Dark — speakers: Dark Summary
+- 2021-06-01 — Chapter 96: Elven Femininity
+- 2021-05-01 — Chapter 95: Parting of Ways
+- 2021-04-01 — Chapter 94: Void Shadows
+- 2021-03-01 — Chapter 93: Contest's End — speakers: End Summary
+- 2021-02-13 — Chapter 92: Faces in the Stone — speakers: Stone Summary, Braeminn Tribe, Fighter Solus
+- 2021-02-12 — Chapter 91: Memory of Her
+- 2020-12-03 — Chapter 90: A Bone A Stone
+- 2020-11-01 — Chapter 89: Sword Vision
+- 2020-10-01 — Chapter 88: Sealed In — speakers: Sapphire Chamber
+- 2020-09-01 — Chapter 87: The Light and The Dark
+- 2020-08-03 — Chapter 86: Swallowed — speakers: Swallowed Summary
+- 2020-07-01 — Chapter 85: In Too Deep
+- 2020-06-01 — Chapter 84: The Wood Elf & The Wizard
+- 2020-05-12 — Chapter 83: Descent — speakers: Descent Summary
+- 2020-04-30 — Chapter 82: The Sacrifice
+- 2020-03-21 — Chapter 81: The Matron
+- 2020-02-04 — Chapter 80: The First Question
+- 2020-01-12 — Chapter 79: The Grumarch of the West Wall — speakers: West Wall Summary
+- 2019-12-20 — Chapter 78: Halfling Holiday — speakers: Halfling Holiday Summary
+- 2019-12-07 — Chapter 77: Halfling Families — speakers: Halfling Families Summary
+- 2019-10-25 — Chapter 76: Dark Elf Ambition — speakers: Dark Elf Ambition Summary, Mazari Trib
+- 2019-09-08 — Chapter 75: Circle of Souls
+- 2019-08-14 — Chapter 74: The Dungeon Wives — speakers: Dungeon Wives
+- 2019-07-19 — Chapter 73: The Meaning of Freedom — speakers: Freedom Summary
+- 2019-07-10 — Chapter 72: Through the Veil — speakers: Veil Summary, Sacred Sanctuary
+- 2019-06-06 — Chapter 71: Ritual of the Ring — speakers: Ring Summary
+- 2019-05-06 — Chapter 70: The Knight's Wife
+- 2019-04-05 — Chapter 69: Soul Contract
+- 2019-03-30 — Chapter 68: Goblin Females — speakers: Goblin King
+- 2019-02-19 — Chapter 67: Tactical Withdrawl
+- 2019-01-01 — Chapter 66: Army of Death
+- 2018-12-01 — Chapter 65: The Blood Runes
+- 2018-11-10 — Chapter 64: Fall of the Dwarves — speakers: Dwarves Summary
+- 2018-10-06 — Chapter 63: History of the Dwarves — speakers: Dwarves Summary, Dwarf King
+- 2018-09-13 — Chapter 62: Combat in the Blood Hall — speakers: Blood Hall Summary
+- 2018-08-27 — Chapter 61: The Next Level.
+- 2018-07-19 — Chapter 60: The Gauntlet and the Dwarves
+- 2018-06-13 — Chapter 59: Spawn of the Abyss — speakers: Level Alpha
+- 2018-06-06 — Chapter 58: Apprentice — speakers: Apprentice Summary
+- 2018-06-01 — Chapter 57: Gift of Healing
+- 2018-05-21 — Chapter 56: Orc Pirates
+- 2018-04-12 — Chapter 55: Elven Marriage
+- 2018-03-21 — Chapter 54: Plight of the Dark Elves
+- 2018-03-16 — Chapter 53: Halfling Swordplay — speakers: Halfling Fighter
+- 2018-03-06 — Chapter 52: Survivors of the Unicorn — speakers: Unicorn Summary
+- 2018-02-07 — Chapter 51: Tracking Prey — speakers: Tracking Prey Summary
+- 2018-01-31 — Chapter 50: Survival
+- 2017-12-09 — Chapter 49: Elf Girl's Prison — speakers: Elf Girl, Prison Summary, Elf Wizard Warrior, Human Priestess
+- 2017-11-28 — Chapter 48: Hyenamen
+- 2017-10-24 — Chapter 47: Mission in the Maze — speakers: Maze Summary
+- 2017-09-27 — Chapter 46: Traps and Treachery — speakers: Goblin King
+- 2017-08-16 — Chapter 45: The Scabbard and the Sword
+- 2017-08-09 — Chapter 44: Wizard's Bargain
+- 2017-07-20 — Chapter 43: Legacy of the Elves — speakers: Elves Summary
+- 2017-07-12 — Chapter 42: The Priestess of Sylvanis — speakers: Sylvanis Summary, Goblin Dungeons, Human Priestess
+- 2017-07-05 — Chapter 41: Eight Kingdoms
+- 2017-06-28 — Chapter 40: Bestial Confrontation
+- 2017-06-21 — Chapter 39: Maid's Rest
+- 2017-04-05 — Chapter 38: Gnomes to the Slaughter
+- 2017-03-29 — Chapter 37: Kobold Glyphs — speakers: Kobold Glyphs
+- 2017-03-22 — Chapter 36: Fall of the Unicorn Girl — speakers: Unicorn Girl Summary, Unicorn Girl
+- 2017-03-14 — Chapter 35: Forced March — speakers: Forced March Summary
+- 2017-02-08 — Chapter 34: The Wall — speakers: Secret Room
+- 2017-02-02 — Chapter 33: Goblin Dungeons — speakers: Goblin Dungeons Summary, Goblin Territiry
+- 2017-01-05 — Chapter 32: Rituals
+- 2016-12-01 — Chapter 31: Halfling versus Thief — speakers: Thief Summary
+- 2016-11-03 — Chapter 30: Laying On of Hands — speakers: Hands Summary
+- 2016-10-27 — Chapter 29: Unicorn Hunt — speakers: Unicorn Hunt Summary
+- 2016-10-20 — Chapter 28: Half Unicorn — speakers: Half Unicorn Summary
+- 2016-10-06 — Chapter 27: Dark Elf Queen — speakers: Dark Elf Queen Summary, Inner Sanctuary
+- 2016-09-08 — Chapter 26: Act of Humility — speakers: Humility Summary
+- 2016-08-11 — Chapter 25: The Fallen
+- 2016-07-21 — Chapter 24: Pixie Fury — speakers: Pixie Fury Summary, Dwarven Fighter
+- 2016-07-14 — Chapter 23: Dark Elf
+- 2016-06-30 — Chapter 22: Voices in the Void
+- 2016-06-23 — Chapter 21: Dwarven Wisdom — speakers: Dark Elve
+- 2016-06-16 — Chapter 20: The Cleric and the Halfling
+- 2016-05-26 — Chapter 19: A Sword Remembered — speakers: Sword Remembered Summary
+- 2016-05-19 — Chapter 18: A Memory of Trees — speakers: Trees Summary
+- 2016-05-05 — Chapter 17: Orc Hunger — speakers: Orc Hunger Summary, Mind Charm, Elf Warrior Wizard
+- 2016-04-28 — Chapter 16: The Goddess Arises
+- 2016-03-10 — Chapter 15: Legends and Powers — speakers: Powers Summary
+- 2016-02-25 — Chapter 14: Fantasy of Fire
+- 2016-01-14 — Chapter 13: Maps and Missions
+- 2015-12-17 — Chapter 12: A Meeting of Elves — speakers: Elves Summary
+- 2015-12-03 — Chapter 11: The Elf
+- 2015-11-19 — Chapter 10: Goblin Ambush — speakers: Goblin Ambush Summary, Goblin Hunter
+- 2015-11-05 — Chapter 9: The Other World — speakers: Iron Realm
+- 2015-10-22 — Chapter 8: Rival Tribe — speakers: Halfling Fighte
+- 2015-10-15 — Chapter 7: Sign from Father
+- 2015-10-08 — Chapter 6: Kobolds and Ministrations
+- 2015-09-24 — Chapter 5: The Hunter - Released! — speakers: Goblin Chieftain
+- 2015-09-17 — Chapter 4: The Goblin Chieftain
+- 2015-09-10 — Chapter 3: Rescue Attempt — speakers: Rescue Attempt Summary
+- 2015-09-03 — Chapter 2: The Goblin Pits

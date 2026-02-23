@@ -2,8 +2,8 @@
 
 - slug: `acquisitions-incorporated`
 - source: `https://www.penny-arcade.com/feed/podcasts-ai`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
+- fetched_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-23T22:05:02+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.penny-arcade.com/podcast/ai",
   "description": "Join the entirely legitimate adventuring company Acquisitions Incorporated as they engage in completely legal business! One of the first \"actual play\" Dungeons & Dragons games, we've been at this since 2008. Is that a good thing? You tell me.",
   "image_url": "https://assets.penny-arcade.com/img/podcasts/patv_show_aits.jpg",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-23T22:05:02+00:00",
   "owners": [
     "Jerry Holkins",
     "Mike Krahulik"
@@ -41,9 +41,7 @@
       "speakers": [
         "Jasmine Bhullar",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Holly Conrad",
-        "Anna Prosser"
+        "Mike Krahulik"
       ],
       "topics": [
         "unplugged"
@@ -63,8 +61,6 @@
       "speakers": [
         "Kris Straub",
         "Jerry Holkins",
-        "Ryan Hartman",
-        "John Robertson",
         "Mike Krahulik"
       ],
       "topics": [
@@ -85,10 +81,9 @@
       "speakers": [
         "Chris Perkins",
         "Jasmine Bhullar",
+        "Jerry Hol",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Holly Conrad",
-        "Anna Prosser"
+        "Mike Krahulik"
       ],
       "topics": [
         "west"
@@ -108,11 +103,7 @@
       "speakers": [
         "Arman Drang",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -133,13 +124,10 @@
       "enclosure_length": "177379353",
       "itunes_duration": null,
       "speakers": [
-        "Arman Drang",
+        "Free Thirst Trap Battle",
+        "Silk Road",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -162,12 +150,9 @@
       "enclosure_length": "165603311",
       "itunes_duration": null,
       "speakers": [
+        "Affordable Cyber",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -188,13 +173,9 @@
       "enclosure_length": "152773477",
       "itunes_duration": null,
       "speakers": [
-        "Arman Drang",
+        "Speed Chases Silk",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -216,11 +197,7 @@
       "itunes_duration": null,
       "speakers": [
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -243,13 +220,8 @@
       "itunes_duration": null,
       "speakers": [
         "Armin Drang",
-        "Arman Drang",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Nova Arya",
-        "Noura Ibrahim",
-        "Mike Pondsmith"
+        "Mike Krahulik"
       ],
       "topics": [
         "cyberpunk",
@@ -272,9 +244,6 @@
       "speakers": [
         "Jeremy Crawford",
         "Jerry Holkins",
-        "Holly Conrad",
-        "Jasmine Bhullar",
-        "Anna Prosser",
         "Mike Krahulik"
       ],
       "topics": [
@@ -311,14 +280,8 @@
       "enclosure_length": "212766132",
       "itunes_duration": null,
       "speakers": [
-        "Jeremy Crawford",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "hell",
@@ -340,11 +303,7 @@
         "Jim Darkmajiq",
         "Chris Perkins",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "strange",
@@ -365,12 +324,7 @@
       "speakers": [
         "Jeremy Crawford",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "thing"
@@ -408,14 +362,9 @@
       "enclosure_length": "174559712",
       "itunes_duration": null,
       "speakers": [
-        "Jeremy Crawford",
+        "sinister statuary",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "snackrifice"
@@ -433,14 +382,9 @@
       "enclosure_length": "149251166",
       "itunes_duration": null,
       "speakers": [
-        "Chris Perkins",
+        "Gorgonzola Finding",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "gumballs",
@@ -460,13 +404,8 @@
       "itunes_duration": null,
       "speakers": [
         "Omin Dran",
-        "Jeremy Crawford",
         "Jerry Holkins",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "room",
@@ -486,13 +425,8 @@
       "itunes_duration": null,
       "speakers": [
         "Bobbie Zimmeruski",
-        "Chris Perkins",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser"
+        "Mike Krahulik"
       ],
       "topics": [
         "world"
@@ -510,14 +444,9 @@
       "enclosure_length": "167290415",
       "itunes_duration": null,
       "speakers": [
-        "Jeremy Crawford",
+        "Acq Inc",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "fine",
@@ -536,14 +465,8 @@
       "enclosure_length": "113301321",
       "itunes_duration": null,
       "speakers": [
-        "Chris Perkins",
         "Jerry Holkins",
-        "Omin Dran",
-        "Mike Krahulik",
-        "Jim Darkmajiq",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain"
+        "Mike Krahulik"
       ],
       "topics": [
         "crystal",
@@ -566,9 +489,6 @@
         "Chris Perkins",
         "Jerry Holkins",
         "Omin Dran",
-        "Anna Prosser",
-        "Jasmine Bhullar",
-        "Jeremy Crawford",
         "Mike Krahulik"
       ],
       "topics": [
@@ -589,12 +509,8 @@
       "speakers": [
         "Chris Perkins",
         "Jeremy Crawford",
-        "Anna Prosser",
         "Jerry Holkins",
-        "Omin Dran",
-        "Xavier Woods",
-        "Bobbie Zimmeruski",
-        "Jasmine Bhullar"
+        "Mike Krahulik"
       ],
       "topics": [
         "east"
@@ -614,12 +530,7 @@
       "speakers": [
         "Starring Jeremy Crawford",
         "Jerry Holkins",
-        "Omin Dran",
-        "Jasmine Bhullar",
-        "Anna Prosser",
-        "Evelyn Marthain",
-        "Holly Conrad",
-        "Strix Beestinger"
+        "Mike Krahulik"
       ],
       "topics": []
     },
@@ -637,12 +548,8 @@
       "speakers": [
         "Keeper Played",
         "Kristofer Straub",
-        "Lead Detective",
         "Jerry Holkins",
-        "Sadie Hamilton",
-        "Curious Swamp Girl",
-        "Laura Stringer",
-        "Thurston Carter"
+        "Mike Krahulik"
       ],
       "topics": [
         "acquisitions",
@@ -663,6 +570,8 @@
       "enclosure_length": "179502992",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -682,6 +591,8 @@
       "enclosure_length": "233270698",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -701,6 +612,8 @@
       "enclosure_length": "131724371",
       "itunes_duration": null,
       "speakers": [
+        "Just Business About Acq",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -721,6 +634,9 @@
       "enclosure_length": "88473753",
       "itunes_duration": null,
       "speakers": [
+        "Acquisitions Incorporated Holiday Special",
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -743,6 +659,8 @@
       "enclosure_length": "188585681",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -762,6 +680,8 @@
       "enclosure_length": "191008583",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -781,6 +701,8 @@
       "enclosure_length": "169181642",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -800,6 +722,8 @@
       "enclosure_length": "169920091",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -819,6 +743,8 @@
       "enclosure_length": "148182520",
       "itunes_duration": null,
       "speakers": [
+        "Cthulhu About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -838,6 +764,8 @@
       "enclosure_length": "163704035",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -857,6 +785,8 @@
       "enclosure_length": "197432370",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -876,6 +806,8 @@
       "enclosure_length": "159236814",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -895,6 +827,8 @@
       "enclosure_length": "168965505",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -933,6 +867,8 @@
       "enclosure_length": "204050623",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -954,9 +890,7 @@
       "speakers": [
         "Mike Krahulik",
         "Omin Dran",
-        "Jerry Holkins",
-        "Holly Conrad",
-        "Patrick Rothfuss"
+        "Jerry Holkins"
       ],
       "topics": [
         "east"
@@ -974,6 +908,8 @@
       "enclosure_length": "270291418",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -993,6 +929,8 @@
       "enclosure_length": "257515702",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1012,6 +950,8 @@
       "enclosure_length": "228752327",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1029,6 +969,8 @@
       "enclosure_length": "263863394",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1048,9 +990,6 @@
       "enclosure_length": "221687234",
       "itunes_duration": null,
       "speakers": [
-        "Omin Dran",
-        "Jim Darkmagic",
-        "Chris Perkins",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1071,6 +1010,8 @@
       "enclosure_length": "213952302",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1090,6 +1031,8 @@
       "enclosure_length": "250994583",
       "itunes_duration": null,
       "speakers": [
+        "About Acq Inc",
+        "Acquisitions Incorporated",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1109,6 +1052,7 @@
       "enclosure_length": "317087456",
       "itunes_duration": null,
       "speakers": [
+        "Acq Inc",
         "Jerry Holkins",
         "Mike Krahulik"
       ],
@@ -1387,55 +1331,55 @@
 
 ## Episodes (newest first)
 
-- 2024-12-07 — S2E15 - PAX Unplugged 2024 — speakers: Jasmine Bhullar, Jerry Holkins, Mike Krahulik, Holly Conrad, Anna Prosser
-- 2024-10-12 — S2E14 - PAX Australia 2024 — speakers: Kris Straub, Jerry Holkins, Ryan Hartman, John Robertson, Mike Krahulik
-- 2024-09-01 — S2E13 - PAX West 2024 — speakers: Chris Perkins, Jasmine Bhullar, Jerry Holkins, Mike Krahulik, Holly Conrad, Anna Prosser
-- 2024-07-18 — Cyberpunk RED - E6 - The 6 Best Ways to Win Back Ur Man *or dog-adjacent partner — speakers: Arman Drang, Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-07-11 — Cyberpunk RED - E5 - 5 Parsecs & A Gender-Free Thirst Trap — speakers: Arman Drang, Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-07-04 — Cyberpunk RED - E4 - 3 Affordable Cyber-Implants for Dad, #2 will SHOCK YOU — speakers: Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-06-27 — Cyberpunk RED - E3 - YOU NEED to know these 3 Tricks for High-Speed Chases — speakers: Arman Drang, Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-06-20 — Cyberpunk RED - E2 - 2 Weird Tricks Corpos HATE!!! — speakers: Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-06-13 — Cyberpunk RED - E1 - €$1 vs €$5B Battle of the Corpo Bands: Worth it??? — speakers: Armin Drang, Arman Drang, Jerry Holkins, Mike Krahulik, Jasmine Bhullar, Nova Arya, Noura Ibrahim, Mike Pondsmith
-- 2024-04-23 — S2E12 - PAX East 2024 — speakers: Jeremy Crawford, Jerry Holkins, Holly Conrad, Jasmine Bhullar, Anna Prosser, Mike Krahulik
+- 2024-12-07 — S2E15 - PAX Unplugged 2024 — speakers: Jasmine Bhullar, Jerry Holkins, Mike Krahulik
+- 2024-10-12 — S2E14 - PAX Australia 2024 — speakers: Kris Straub, Jerry Holkins, Mike Krahulik
+- 2024-09-01 — S2E13 - PAX West 2024 — speakers: Chris Perkins, Jasmine Bhullar, Jerry Hol, Jerry Holkins, Mike Krahulik
+- 2024-07-18 — Cyberpunk RED - E6 - The 6 Best Ways to Win Back Ur Man *or dog-adjacent partner — speakers: Arman Drang, Jerry Holkins, Mike Krahulik
+- 2024-07-11 — Cyberpunk RED - E5 - 5 Parsecs & A Gender-Free Thirst Trap — speakers: Free Thirst Trap Battle, Silk Road, Jerry Holkins, Mike Krahulik
+- 2024-07-04 — Cyberpunk RED - E4 - 3 Affordable Cyber-Implants for Dad, #2 will SHOCK YOU — speakers: Affordable Cyber, Jerry Holkins, Mike Krahulik
+- 2024-06-27 — Cyberpunk RED - E3 - YOU NEED to know these 3 Tricks for High-Speed Chases — speakers: Speed Chases Silk, Jerry Holkins, Mike Krahulik
+- 2024-06-20 — Cyberpunk RED - E2 - 2 Weird Tricks Corpos HATE!!! — speakers: Jerry Holkins, Mike Krahulik
+- 2024-06-13 — Cyberpunk RED - E1 - €$1 vs €$5B Battle of the Corpo Bands: Worth it??? — speakers: Armin Drang, Jerry Holkins, Mike Krahulik
+- 2024-04-23 — S2E12 - PAX East 2024 — speakers: Jeremy Crawford, Jerry Holkins, Mike Krahulik
 - 2023-12-11 — S2E11 - PAX Unplugged 2023 — speakers: Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
-- 2023-11-22 — S2E10 - Episode Ten: From Hell's Heart — speakers: Jeremy Crawford, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-11-15 — S2E9 - Episode Nine: Strange Majiq — speakers: Jim Darkmajiq, Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-11-08 — S2E8 - Episode Eight: Things Left Behind — speakers: Jeremy Crawford, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
+- 2023-11-22 — S2E10 - Episode Ten: From Hell's Heart — speakers: Jerry Holkins, Mike Krahulik
+- 2023-11-15 — S2E9 - Episode Nine: Strange Majiq — speakers: Jim Darkmajiq, Chris Perkins, Jerry Holkins, Mike Krahulik
+- 2023-11-08 — S2E8 - Episode Eight: Things Left Behind — speakers: Jeremy Crawford, Jerry Holkins, Mike Krahulik
 - 2023-11-01 — S2E7 - Episode Seven: Psychedelia — speakers: Jerry Holkins, Mike Krahulik
-- 2023-10-25 — S2E6 - Episode Six: Snackrifice — speakers: Jeremy Crawford, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-10-18 — S2E5 - Episode Five: Gumballs & Gorgonzola — speakers: Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-10-11 — S2E4 - Episode Four: A Room With A Viewer — speakers: Omin Dran, Jeremy Crawford, Jerry Holkins, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-10-04 — S2E3 - Episode Three: Not Of This World — speakers: Bobbie Zimmeruski, Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser
-- 2023-09-27 — S2E2 - Episode Two: This Fine Monster — speakers: Jeremy Crawford, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-09-20 — S2E1 - Episode One: Crystal Clear — speakers: Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik, Jim Darkmajiq, Jasmine Bhullar, Anna Prosser, Evelyn Marthain
-- 2023-09-07 — S2E1 - PAX West 2023 — speakers: Jim Darkmagic, Chris Perkins, Jerry Holkins, Omin Dran, Anna Prosser, Jasmine Bhullar, Jeremy Crawford, Mike Krahulik
-- 2023-03-26 — S2E0 - PAX East 2023 — speakers: Chris Perkins, Jeremy Crawford, Anna Prosser, Jerry Holkins, Omin Dran, Xavier Woods, Bobbie Zimmeruski, Jasmine Bhullar
-- 2022-12-12 — S1E39 - PAX Unplugged 2022 — speakers: Starring Jeremy Crawford, Jerry Holkins, Omin Dran, Jasmine Bhullar, Anna Prosser, Evelyn Marthain, Holly Conrad, Strix Beestinger
-- 2022-10-17 — S1E38 - Acquisitions Incorporated Presents Call of Cthulhu - PAX Aus 2022 — speakers: Keeper Played, Kristofer Straub, Lead Detective, Jerry Holkins, Sadie Hamilton, Curious Swamp Girl, Laura Stringer, Thurston Carter
-- 2022-09-12 — S1E37 - PAX West 2022 — speakers: Jerry Holkins, Mike Krahulik
-- 2022-05-13 — S1E36 - PAX East 2022 — speakers: Jerry Holkins, Mike Krahulik
-- 2021-09-05 — S1E35 - PAX West 2021: It's Just Business — speakers: Jerry Holkins, Mike Krahulik
-- 2020-12-13 — S1E34 - Acquisitions Incorporated Holiday Special 2020 — speakers: Jerry Holkins, Mike Krahulik
-- 2020-09-20 — S1E33 - PAX Online 2020 — speakers: Jerry Holkins, Mike Krahulik
-- 2020-03-02 — S1E32 - PAX East Live 2020 — speakers: Jerry Holkins, Mike Krahulik
-- 2020-02-10 — S1E31 - PAX South Live 2020 — speakers: Jerry Holkins, Mike Krahulik
-- 2020-01-01 — S1E30 - PAX Unplugged Live 2019 — speakers: Jerry Holkins, Mike Krahulik
-- 2019-10-30 — S1E29 - PAX Aus 2019 - Call of Cthulhu — speakers: Jerry Holkins, Mike Krahulik
-- 2019-08-03 — S1E28 - PAX West 2019 — speakers: Jerry Holkins, Mike Krahulik
-- 2019-04-12 — S1E27 - PAX East 2019 — speakers: Jerry Holkins, Mike Krahulik
-- 2019-01-26 — S1E26 - PAX South 2019 — speakers: Jerry Holkins, Mike Krahulik
-- 2019-01-07 — S1E25 - PAX Unplugged 2018 — speakers: Jerry Holkins, Mike Krahulik
+- 2023-10-25 — S2E6 - Episode Six: Snackrifice — speakers: sinister statuary, Jerry Holkins, Mike Krahulik
+- 2023-10-18 — S2E5 - Episode Five: Gumballs & Gorgonzola — speakers: Gorgonzola Finding, Jerry Holkins, Mike Krahulik
+- 2023-10-11 — S2E4 - Episode Four: A Room With A Viewer — speakers: Omin Dran, Jerry Holkins, Mike Krahulik
+- 2023-10-04 — S2E3 - Episode Three: Not Of This World — speakers: Bobbie Zimmeruski, Jerry Holkins, Mike Krahulik
+- 2023-09-27 — S2E2 - Episode Two: This Fine Monster — speakers: Acq Inc, Jerry Holkins, Mike Krahulik
+- 2023-09-20 — S2E1 - Episode One: Crystal Clear — speakers: Jerry Holkins, Mike Krahulik
+- 2023-09-07 — S2E1 - PAX West 2023 — speakers: Jim Darkmagic, Chris Perkins, Jerry Holkins, Omin Dran, Mike Krahulik
+- 2023-03-26 — S2E0 - PAX East 2023 — speakers: Chris Perkins, Jeremy Crawford, Jerry Holkins, Mike Krahulik
+- 2022-12-12 — S1E39 - PAX Unplugged 2022 — speakers: Starring Jeremy Crawford, Jerry Holkins, Mike Krahulik
+- 2022-10-17 — S1E38 - Acquisitions Incorporated Presents Call of Cthulhu - PAX Aus 2022 — speakers: Keeper Played, Kristofer Straub, Jerry Holkins, Mike Krahulik
+- 2022-09-12 — S1E37 - PAX West 2022 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2022-05-13 — S1E36 - PAX East 2022 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2021-09-05 — S1E35 - PAX West 2021: It's Just Business — speakers: Just Business About Acq, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2020-12-13 — S1E34 - Acquisitions Incorporated Holiday Special 2020 — speakers: Acquisitions Incorporated Holiday Special, About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2020-09-20 — S1E33 - PAX Online 2020 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2020-03-02 — S1E32 - PAX East Live 2020 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2020-02-10 — S1E31 - PAX South Live 2020 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2020-01-01 — S1E30 - PAX Unplugged Live 2019 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2019-10-30 — S1E29 - PAX Aus 2019 - Call of Cthulhu — speakers: Cthulhu About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2019-08-03 — S1E28 - PAX West 2019 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2019-04-12 — S1E27 - PAX East 2019 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2019-01-26 — S1E26 - PAX South 2019 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2019-01-07 — S1E25 - PAX Unplugged 2018 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
 - 2019-01-07 — S1E24 - Switcharoo — speakers: Jerry Holkins, Mike Krahulik
-- 2018-09-14 — S1E23 - PAX West 2018 — speakers: Jerry Holkins, Mike Krahulik
-- 2018-04-13 — S1E22 - PAX East 2018 — speakers: Mike Krahulik, Omin Dran, Jerry Holkins, Holly Conrad, Patrick Rothfuss
-- 2018-01-20 — S1E21 - PAX South 2018 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-12-07 — S1E20 - PAX Unplugged 2017 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-11-14 — S1E19 - PAX Aus 2017 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-09-12 — S1E18 - PAX West 2017 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-08-16 — S1E17 - Enter the Trash Witch — speakers: Omin Dran, Jim Darkmagic, Chris Perkins, Jerry Holkins, Mike Krahulik
-- 2017-03-24 — S1E16 - PAX East 2017 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-02-09 — S1E15 - PAX South 2017 — speakers: Jerry Holkins, Mike Krahulik
-- 2017-01-16 — S1E14 - The Holiday Special — speakers: Jerry Holkins, Mike Krahulik
+- 2018-09-14 — S1E23 - PAX West 2018 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2018-04-13 — S1E22 - PAX East 2018 — speakers: Mike Krahulik, Omin Dran, Jerry Holkins
+- 2018-01-20 — S1E21 - PAX South 2018 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-12-07 — S1E20 - PAX Unplugged 2017 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-11-14 — S1E19 - PAX Aus 2017 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-09-12 — S1E18 - PAX West 2017 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-08-16 — S1E17 - Enter the Trash Witch — speakers: Jerry Holkins, Mike Krahulik
+- 2017-03-24 — S1E16 - PAX East 2017 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-02-09 — S1E15 - PAX South 2017 — speakers: About Acq Inc, Acquisitions Incorporated, Jerry Holkins, Mike Krahulik
+- 2017-01-16 — S1E14 - The Holiday Special — speakers: Acq Inc, Jerry Holkins, Mike Krahulik
 - 2016-10-06 — S1E13 - The Series: Episode 13 - PAX West 2016 Finale — speakers: Finale Welcome, Acquisition Incorporated, Jerry Holkins, Mike Krahulik
 - 2016-08-24 — S1E12 - The Series: Episode 12 — speakers: Acquisition Incorporated, Jerry Holkins, Mike Krahulik
 - 2016-08-17 — S1E11 - The Series: Episode 11 — speakers: Acquisition Incorporated, Jerry Holkins, Mike Krahulik
