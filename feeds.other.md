@@ -200,6 +200,12 @@
 - owners: Gemma Ware
 - categories: education
 
+## the-harry-hill-show
+- url: https://feeds.megaphone.fm/GLT2134425554
+- title_override: The Harry Hill Show
+- owners: Harry Hill
+- categories: comedy
+
 ## the-horne-section-podcast
 - url: https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f
 - title_override: The Horne Section Podcast
