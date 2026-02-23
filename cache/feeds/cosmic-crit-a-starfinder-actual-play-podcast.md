@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Mon, 16 Feb 2026 05:05:00 GMT`
+- fetched_at: `2026-02-23T07:33:38+00:00`
+- checked_at: `2026-02-23T07:33:38+00:00`
+- last_modified: `Mon, 23 Feb 2026 05:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T07:33:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "0c172df86bd916091750ba704ab989b199df5f6a",
+      "title": "Guilt of the Grave World | 002: Pressgang Your Luck",
+      "published_at": "2026-02-23T05:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-002-pressgang-your-luck/",
+      "description": "The hastily thrown together and still groggy prisoners of the Nova Rush rally and attempt to take back their ship. They have hurdles to get through as the pirates of Phaedra Firestorm have left traps behind. Can they make friends with the monotone marauder Brinn or will they walk the plank on this week’s Cosmic Crit?",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3781/guilt-of-the-grave-world-002-pressgang-your-luck.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64024152",
+      "itunes_duration": "0:00",
+      "speakers": [],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "pressgang",
+        "luck"
+      ]
+    },
     {
       "key": "d62125f99be0149756c100333fb3ce37b547d52d",
       "title": "Guilt of the Grave World | 001: Fools Nova Rush In",
@@ -8580,6 +8600,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Guilt of the Grave World | 002: Pressgang Your Luck
 - 2026-02-16 — Guilt of the Grave World | 001: Fools Nova Rush In — speakers: Fools Nova Rush
 - 2026-02-09 — Guilt of the Grave World | X006: Tyler’s Shadowy Ways
 - 2026-02-02 — Guilt of the Grave World | X005: Rebecca Balances the Scales

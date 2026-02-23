@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-02-22T13:13:51+00:00`
-- checked_at: `2026-02-22T13:13:51+00:00`
-- last_modified: `Sun, 22 Feb 2026 12:32:15 GMT`
+- fetched_at: `2026-02-23T07:33:38+00:00`
+- checked_at: `2026-02-23T07:33:38+00:00`
+- last_modified: `Mon, 23 Feb 2026 07:06:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-22T13:13:51+00:00",
+  "fetched_at": "2026-02-23T07:33:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "fiction/audiobook"
   ],
   "episodes": [
+    {
+      "key": "c6b763aa756c7725ab8cb650f6761fddddce6a75",
+      "title": "Season Four Announcement!",
+      "published_at": "2026-02-23T07:00:00+00:00",
+      "link": null,
+      "description": "Hello, we're back! We're here to make a quick announcement -- and it's the one you've all been waiting for! Just in time for our eighth anniversary, the seventh season of We Fix Space Junk is finally ready for release! The mathematically-minded amongst you may also know it as the long-awaited Season Four, but it is, technically, the seventh season! What with Marilyn's diary, Microbytes and so on in between them. Episode One of Season Four will be released on our Patreon feed on the 16th March, eight years after Season One, Episode One first aired. We'll be releasing to our general feed a week later, starting on the 23rd of March! Episodes will go out biweekly, and they'll be a week earlier on our ad-free Patreon feed. We didn't think when we first put out our first season in 2018 that we'd be where we are eight years later. It's been a wild ride and we've learned a hell of a lot in that time about writing, producing, acting and, honestly, about ourselves. It's been a hard road, but we made it. It's been a long time coming! We hope you enjoy the new series. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/WgbGgxzM3MFRwjmX5fnx/pscrb.fm/rss/p/traffic.megaphone.fm/FAFO4142136324.mp3?updated=1771761265",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "90",
+      "speakers": [],
+      "topics": [
+        "season",
+        "announcement"
+      ]
+    },
     {
       "key": "a49b2fc355b8e17197cfca4c8935cd2243474cd1",
       "title": "Introducing... Hard Drive",
@@ -1712,6 +1729,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — Season Four Announcement!
 - 2026-01-27 — Introducing... Hard Drive — speakers: Priah Ferguson, Erica Sinclair
 - 2023-12-07 — No Space Like Home: A We Fix Space Junk Festive Special! [Trailer] — speakers: Starring Rebecca, Jack Carmichael, James Carney Hedley, Knights Vicki
 - 2022-12-25 — Sponsor Bot's Brucemas Broadcast — speakers: Brucemas Broadcast, Sponsor Bot, Merry Brucemas

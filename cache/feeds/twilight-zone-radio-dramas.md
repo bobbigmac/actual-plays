@@ -3,12 +3,10 @@
 - slug: `twilight-zone-radio-dramas`
 - source: `https://archive.org/download/rss_twzo/twzo`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-23T03:21:34+00:00`
+- checked_at: `2026-02-23T07:33:38+00:00`
 - etag: `"61daffee-19969"`
 - last_modified: `Sun, 09 Jan 2022 15:31:58 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -3621,17 +3619,7 @@
         "stopwatch"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-02-23T03:21:34+00:00",
-    "status": "error",
-    "checked_at": "2026-02-23T03:21:34+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error timed out>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

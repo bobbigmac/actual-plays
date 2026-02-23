@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-02-22T21:42:14+00:00`
-- checked_at: `2026-02-22T21:42:14+00:00`
-- etag: `"96a4d599905df9316484c27f61b24a3b"`
-- last_modified: `Sun, 22 Feb 2026 20:04:28 GMT`
+- fetched_at: `2026-02-23T07:33:38+00:00`
+- checked_at: `2026-02-23T07:33:38+00:00`
+- etag: `"3c2583d82130f230ec5850143af02e54"`
+- last_modified: `Mon, 23 Feb 2026 05:08:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-02-22T21:42:14+00:00",
+  "fetched_at": "2026-02-23T07:33:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "67f88a2a0da6342bc70d9df75ef3f987db327c88",
+      "title": "The End Times",
+      "published_at": "2026-02-23T05:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/02/the-end-times/",
+      "description": "All the news after the apocalypse that's fit to print. This week on the Vintage RPG Podcast, we check out The End Times, a monthly newspaper from 12 years after the end of the world as we know it. From the minds of Benjamin Percy and some guy named Stephen King. * * * Get a digital subscription to The End Times ! Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/3/c/1/e/3c1ecc32ef6f868216c3140a3186d450/Vintage_Podcast_Icon-20260222-k5gyv14svw.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_The_End_Times__.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72572139",
+      "itunes_duration": "36:04",
+      "speakers": [
+        "Benjamin Percy",
+        "Stephen King",
+        "Cool Rpg",
+        "Alex Murray",
+        "Shafer Brown"
+      ],
+      "topics": [
+        "time"
+      ]
+    },
     {
       "key": "89080922cd9bedf680fbd70d37b3ef93847a5e8a",
       "title": "Delta Green, Among Other Things",
@@ -7037,6 +7059,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — The End Times — speakers: Benjamin Percy, Stephen King, Cool Rpg, Alex Murray, Shafer Brown
 - 2026-02-16 — Delta Green, Among Other Things — speakers: Cool Rpg, Alex Murray, Shafer Brown
 - 2026-02-09 — Dragons & Daggers — speakers: Basic Set, Cool Rpg, Alex Murray, Shafer Brown
 - 2026-02-02 — Sounds from RPGS — speakers: Slough Feg, Cool Rpg, Alex Murray, Shafer Brown
