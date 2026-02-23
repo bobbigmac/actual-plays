@@ -1,6 +1,7 @@
 # Site
 - id: britcom
 - title: British Comedy Podcasts
+- further_search: false
 - subtitle: A self-updating, static podcast browser
 - description: Built from RSS/Atom feeds. Episodes stream directly from the original hosts.
 - base_path: /
