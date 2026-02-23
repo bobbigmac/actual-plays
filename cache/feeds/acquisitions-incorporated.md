@@ -2,8 +2,8 @@
 
 - slug: `acquisitions-incorporated`
 - source: `https://www.penny-arcade.com/feed/podcasts-ai`
-- fetched_at: `2026-02-23T13:43:50+00:00`
-- checked_at: `2026-02-23T13:43:50+00:00`
+- fetched_at: `2026-02-23T16:06:06+00:00`
+- checked_at: `2026-02-23T16:06:06+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.penny-arcade.com/podcast/ai",
   "description": "Join the entirely legitimate adventuring company Acquisitions Incorporated as they engage in completely legal business! One of the first \"actual play\" Dungeons & Dragons games, we've been at this since 2008. Is that a good thing? You tell me.",
   "image_url": "https://assets.penny-arcade.com/img/podcasts/patv_show_aits.jpg",
-  "fetched_at": "2026-02-23T13:43:50+00:00",
+  "fetched_at": "2026-02-23T16:06:06+00:00",
   "owners": [
     "Jerry Holkins",
     "Mike Krahulik"
