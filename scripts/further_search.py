@@ -11,6 +11,7 @@ import hashlib
 import json
 import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -252,6 +253,10 @@ def run_further_search(
         batch.append(names[idx])
     next_index = (next_index + take) % n
     state["next_index"] = next_index
+    state["last_batch"] = list(batch)
+    state["last_run_at"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    state["last_status"] = "running"
+    state.pop("last_error", None)
 
     script_path = script_path or (REPO_ROOT / "scripts" / "pod-api-speaker-search.js")
     if not script_path.exists():
@@ -285,12 +290,15 @@ def run_further_search(
             check=True,
             capture_output=quiet,
         )
-    except subprocess.CalledProcessError as e:
-        if not quiet:
-            print(f"[further-search] script failed: {e}", file=sys.stderr)
+    except Exception as e:
+        # Don't fail the site build; keep cached data and surface why querying didn't happen.
+        state["last_status"] = "error"
+        state["last_error"] = str(e)
+        print(f"[further-search] query failed: {e}", file=sys.stderr)
         _save_state(cache_dir, state)
         return _load_episodes_cache(cache_dir)
 
+    state["last_status"] = "ok"
     _save_state(cache_dir, state)
 
     # Parse output and merge.

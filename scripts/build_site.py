@@ -1223,12 +1223,31 @@ def main() -> int:
         # Always report enrichment state (querying may be off, cache merge still happens).
         st0 = further_search_state(cache_dir)
         stats0 = further_search_cache_stats(cache_dir)
+        def _has_env(k: str) -> bool:
+            import os
+
+            return bool(str(os.environ.get(k) or "").strip())
+
+        node_ok = bool(shutil.which("node"))
+        pi_ok = _has_env("PODCASTINDEX_KEY") and _has_env("PODCASTINDEX_SECRET")
+        ln_ok = _has_env("LISTENNOTES_KEY")
+        pc_mode = ""
+        if _has_env("PODCHASER_TOKEN") or _has_env("PODCHASER_ACCESS_TOKEN"):
+            pc_mode = "token"
+        elif _has_env("PODCHASER_CLIENT_ID") and _has_env("PODCHASER_CLIENT_SECRET"):
+            pc_mode = "oauth"
+        pc_ok = bool(pc_mode)
+
         print(
             "[further-search] "
             f"query={'on' if further_search else 'off'} "
             f"names={len(further_search_names)} "
             f"batch_size={int(site_cfg.get('further_search_batch_size') or (feeds_cfg.get('defaults') or {}).get('further_search_batch_size') or 10)} "
             f"next_index={int(st0.get('next_index') or 0)} "
+            f"last_status={str(st0.get('last_status') or '')} "
+            f"last_batch={','.join((st0.get('last_batch') or [])[:6])} "
+            f"node={'ok' if node_ok else 'missing'} "
+            f"providers={{apple:ok,podcastindex:{'ok' if pi_ok else 'missing'},listennotes:{'ok' if ln_ok else 'missing'},podchaser:{pc_mode or 'missing'}}} "
             f"cache={{speakers:{stats0['speakers']},eps:{stats0['episodes']}}}",
             file=sys.stderr,
         )

@@ -28,7 +28,12 @@
  *   MAX_CONCURRENCY=6
  */
 
-import "dotenv/config";
+// Load .env locally if available, but don't require node_modules in CI.
+try {
+  await import("dotenv/config");
+} catch (_e) {
+  // ignore
+}
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
