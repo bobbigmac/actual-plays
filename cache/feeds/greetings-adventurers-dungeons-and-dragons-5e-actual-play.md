@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NzEyMzk1MjYyOTU="`
+- fetched_at: `2026-02-23T13:43:50+00:00`
+- checked_at: `2026-02-23T13:43:50+00:00`
+- etag: `"djEuMi4wOjE3NzE4NDgwMzk0ODY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-23T13:43:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "2925db5c3836ec9d876b7e27b4fb1d5aa71b6ddd",
+      "title": "BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174",
+      "published_at": "2026-02-23T12:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/bonus-episode-campaign-2-recap-141-174",
+      "description": "Join us for our sixth special bonus recap episode. In this, we recap Campaign 2 Episodes 141-174! (The first special recap ep is here ! The second special recap is here ! The third special recap is here ! The fourth special recap is here ! The fifth special recap is here !) The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Don’t forget to follow our editor David Stewart ! Podcast art by https://bsky.app/profile/killurmonkeyart.bsky.social ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/6990b7a1d6c27a06bbba15e8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "206550718",
+      "itunes_duration": "1:25:28",
+      "speakers": [
+        "Mike Bachmann",
+        "Selene Von Esper",
+        "Jennifer Cheek",
+        "Tim Lanning",
+        "Michael DiMauro",
+        "David Stewart"
+      ],
+      "topics": [
+        "recap"
+      ]
+    },
     {
       "key": "508c199f6ff5255b9a350dca804122de0d3bd50b",
       "title": "Campaign 2: Episode 174 - Horse Armor",
@@ -14608,6 +14631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-23 — BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
 - 2026-02-16 — Campaign 2: Episode 174 - Horse Armor — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
 - 2026-02-09 — Campaign 2: Episode 173 - Level 13 Gang — speakers: Michael DMing, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
 - 2026-02-02 — Campaign 2: Episode 172 - The Horrors Inside — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
