@@ -2074,19 +2074,30 @@ def main() -> int:
         content_html=content,
     )
 
+    pinned_raw = _norm_name_list(site_cfg.get("further_search_names"))
+    # Accept both "Full Name" and already-slugified entries; be safe if missing.
+    pinned_slugs = {slugify(n) or str(n).strip().strip("/") for n in pinned_raw if str(n or "").strip()}
+    pinned_slugs = {s for s in pinned_slugs if s}
+    rss_limit_default = int(site_cfg.get("speaker_rss_max_items") or 50)
+    rss_limit_pinned = int(site_cfg.get("speaker_rss_max_items_pinned") or 2000)
+
     for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows_top:
         if sp_slug not in speaker_page_slug_by_slug:
             continue
         eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
-        guest_eps = []
+        guest_eps_all: list[dict[str, Any]] = []
         for e in eps:
             feed_slug = str(e.get("feed_slug") or "")
             if sp_slug in (owner_slugs_by_feed.get(feed_slug) or set()):
                 continue
-            guest_eps.append(e)
-        guest_eps.sort(key=lambda e: e.get("published_at") or "", reverse=True)
-        guest_eps = guest_eps[:50]
-        has_guest_feed = len(guest_eps) > 1
+            guest_eps_all.append(e)
+        guest_eps_all.sort(key=lambda e: e.get("published_at") or "", reverse=True)
+
+        # RSS item limit: default is small for regular speakers; pinned speakers get a much higher cap.
+        rss_limit = rss_limit_pinned if sp_slug in pinned_slugs else rss_limit_default
+        rss_limit = rss_limit if rss_limit > 0 else 0
+        guest_eps_for_rss = guest_eps_all if rss_limit == 0 else guest_eps_all[:rss_limit]
+        has_guest_feed = len(guest_eps_for_rss) > 1
 
         # Group episodes by source podcast; show the biggest groups first.
         grouped: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
@@ -2225,6 +2236,11 @@ def main() -> int:
                     f'<a class="btn btn-sm" href="{_esc("https://gpodder.net/subscribe?url=" + rss_q)}" rel="noopener" target="_blank">gPodder</a>'
                     f'<a class="btn btn-sm" href="{_esc("https://podcasts.apple.com/search?term=" + title_q)}" rel="noopener" target="_blank">Apple Podcasts</a>'
                 )
+            limit_note = (
+                "All known guest appearances (excluding own podcasts)."
+                if rss_limit == 0
+                else f"Most recent guest appearances (excluding own podcasts) — up to {rss_limit} items."
+            )
             speaker_feed_panel = f"""
             <section class="card panel subscribe-panel">
               <div class="panel-head">
@@ -2241,7 +2257,7 @@ def main() -> int:
                 <a class="btn btn-sm" data-android-intent hidden data-intent-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
                 <a class="btn btn-sm" data-ios-feed hidden data-feed-url="{_esc(rss_for_actions)}" rel="noopener">Open in app</a>
               </div>
-              <div class="muted" style="margin-top:8px">Most recent guest appearances (excluding own podcasts) — up to 50 items.</div>
+              <div class="muted" style="margin-top:8px">{_esc(limit_note)}</div>
             </section>
             """.strip()
 
@@ -2306,10 +2322,10 @@ def main() -> int:
             channel_link = _href(base_path, f"{sp_page}/")
             channel_link_abs = _abs_site_href(site_url_norm, channel_link) if site_url_norm else channel_link
             channel_desc = f"Most recent guest appearances for {speaker_short} (excluding podcasts they own)."
-            last_build = _rss_pubdate(guest_eps[0].get("published_at")) or format_datetime(datetime.now(timezone.utc))
+            last_build = _rss_pubdate(guest_eps_for_rss[0].get("published_at")) or format_datetime(datetime.now(timezone.utc))
 
             items_xml: list[str] = []
-            for e in guest_eps:
+            for e in guest_eps_for_rss:
                 ep_title = re.sub(r"\s+", " ", str(e.get("title") or "").strip())[:180]
                 item_title = f"{speaker_short}: {ep_title}" if ep_title else speaker_short
 
@@ -2362,7 +2378,7 @@ def main() -> int:
                 f"  <lastBuildDate>{_esc(last_build)}</lastBuildDate>",
                 "  <ttl>360</ttl>",
             ]
-            for item in items_xml[:50]:
+            for item in items_xml:
                 rss_lines.append("  " + item.replace("\n", "\n  "))
             rss_lines.extend(["</channel>", "</rss>", ""])
             (dist_dir / sp_page / "feed.xml").write_text("\n".join(rss_lines), encoding="utf-8")
