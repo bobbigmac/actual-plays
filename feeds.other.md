@@ -1,7 +1,7 @@
 # Site
 - id: other
 - title: Bob's Favourite Podcasts
-- further_search: false
+- further_search: true
 - further_search_names: Richard Osman; Bob Mortimer; James Acaster; Ed Gamble
 - subtitle: I like some podcasts. You might like them too.
 - description: A personal podcast index.

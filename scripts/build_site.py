@@ -16,7 +16,12 @@ from typing import Any
 from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_feeds_config, sha1_hex, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
-from scripts.further_search import get_external_episodes_for_speakers, run_further_search
+from scripts.further_search import (
+    further_search_cache_stats,
+    further_search_state,
+    get_external_episodes_for_speakers,
+    run_further_search,
+)
 
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
 _PROFILE_DIRNAME = "feed-profiles"
@@ -1211,25 +1216,41 @@ def main() -> int:
                 speaker_eps_by_slug[sp_slug][episode_id] = ep_entry
 
     # Optional: further-search enrichment (API-based episode discovery for configured names).
+    # `further_search` controls *querying*; cached results are merged whenever names are configured.
     further_search = bool(site_cfg.get("further_search"))
     further_search_names = _norm_name_list(site_cfg.get("further_search_names"))
-    if further_search and further_search_names:
+    if further_search_names:
+        # Always report enrichment state (querying may be off, cache merge still happens).
+        st0 = further_search_state(cache_dir)
+        stats0 = further_search_cache_stats(cache_dir)
+        print(
+            "[further-search] "
+            f"query={'on' if further_search else 'off'} "
+            f"names={len(further_search_names)} "
+            f"batch_size={int(site_cfg.get('further_search_batch_size') or (feeds_cfg.get('defaults') or {}).get('further_search_batch_size') or 10)} "
+            f"next_index={int(st0.get('next_index') or 0)} "
+            f"cache={{speakers:{stats0['speakers']},eps:{stats0['episodes']}}}",
+            file=sys.stderr,
+        )
         local_audio_urls = {
             str(e.get("audio_url") or "").strip()
             for e in all_episodes_index
             if str(e.get("audio_url") or "").strip()
         }
-        run_further_search(
-            cache_dir=cache_dir,
-            names=further_search_names,
-            enabled=True,
-            batch_size=int(
-                site_cfg.get("further_search_batch_size")
-                or (feeds_cfg.get("defaults") or {}).get("further_search_batch_size")
-                or 10
-            ),
-            quiet=True,
-        )
+        if further_search:
+            run_further_search(
+                cache_dir=cache_dir,
+                names=further_search_names,
+                enabled=True,
+                batch_size=int(
+                    site_cfg.get("further_search_batch_size")
+                    or (feeds_cfg.get("defaults") or {}).get("further_search_batch_size")
+                    or 10
+                ),
+                quiet=True,
+            )
+        st1 = further_search_state(cache_dir)
+        stats1 = further_search_cache_stats(cache_dir)
         search_slugs = {slugify(n) for n in further_search_names if slugify(n)}
         external_by_speaker = get_external_episodes_for_speakers(
             cache_dir=cache_dir,
@@ -1237,6 +1258,8 @@ def main() -> int:
             local_audio_urls=local_audio_urls,
         )
         feed_title_by_slug = {str(f.get("slug") or ""): str(f.get("title") or "") for f in feeds if isinstance(f, dict)}
+        merged = 0
+        filtered_owned = 0
         for sp_slug, ext_eps in external_by_speaker.items():
             sp_name = next(
                 (n for n in further_search_names if slugify(n) == sp_slug),
@@ -1265,14 +1288,25 @@ def main() -> int:
             for ext_ep in ext_eps:
                 src_rss = str(ext_ep.get("source_rss_url") or "").strip().rstrip("/")
                 if src_rss and src_rss in owned_urls:
+                    filtered_owned += 1
                     continue
                 if slugify(str(ext_ep.get("feed_title") or "")) in owned_title_slugs:
+                    filtered_owned += 1
                     continue
                 feed_slug = str(ext_ep.get("feed_slug") or "external")
                 ep_key = str(ext_ep.get("episode_key") or "")
                 episode_id = f"{feed_slug}:{ep_key}"
                 if episode_id not in speaker_eps_by_slug[sp_slug]:
                     speaker_eps_by_slug[sp_slug][episode_id] = ext_ep
+                    merged += 1
+
+        print(
+            "[further-search] "
+            f"cache_after={{speakers:{stats1['speakers']},eps:{stats1['episodes']}}} "
+            f"next_index={int(st1.get('next_index') or 0)} "
+            f"merged={merged} filtered_owned={filtered_owned}",
+            file=sys.stderr,
+        )
 
     # Speaker pages also live at the site root. Avoid collisions with podcast slugs and reserved paths.
     used_root = set(_RESERVED_ROOT_SLUGS) | set(feed_order)
@@ -1286,8 +1320,9 @@ def main() -> int:
                 pods.add(feed_slug)
         speaker_podcast_count_by_slug[sp_slug] = len(pods)
     speaker_page_slug_by_slug: dict[str, str] = {}
+    pinned_speakers = {slugify(n) for n in further_search_names if slugify(n)} if further_search_names else set()
     for sp_slug in sorted(speaker_name_by_slug.keys()):
-        if (speaker_podcast_count_by_slug.get(sp_slug) or 0) <= 1:
+        if (speaker_podcast_count_by_slug.get(sp_slug) or 0) <= 1 and sp_slug not in pinned_speakers:
             continue
         base = sp_slug
         if base in used:
@@ -1909,6 +1944,27 @@ def main() -> int:
         speaker_rows.append((sp_slug, speaker, guest, total, len(pods_guest), len(pods_total)))
     # Sort by podcast spread first, then total episode appearances.
     speaker_rows.sort(key=lambda r: (-r[5], -r[3], -r[4], -r[2], r[1].lower()))
+
+    # Ensure pinned/whitelisted speakers always show up (and have pages).
+    pinned_slugs = {slugify(n) for n in _norm_name_list(site_cfg.get("further_search_names")) if slugify(n)}
+    speaker_rows_by_slug = {r[0]: r for r in speaker_rows}
+    for sp_slug in sorted(pinned_slugs):
+        if sp_slug not in speaker_rows_by_slug:
+            speaker_rows.append((sp_slug, speaker_name_by_slug.get(sp_slug) or sp_slug, 0, 0, 0, 0))
+        if sp_slug not in speaker_name_by_slug:
+            speaker_name_by_slug[sp_slug] = sp_slug
+
+    speaker_rows.sort(key=lambda r: (-r[5], -r[3], -r[4], -r[2], r[1].lower()))
+    speaker_rows_top = list(speaker_rows[:500])
+    top_slugs = {r[0] for r in speaker_rows_top}
+    for sp_slug in pinned_slugs:
+        if sp_slug in top_slugs:
+            continue
+        # Find row for pinned slug and append.
+        for r in speaker_rows:
+            if r[0] == sp_slug:
+                speaker_rows_top.append(r)
+                break
     has_owner_data = any(bool(s) for s in owner_slugs_by_feed.values())
     show_own_toggle = has_owner_data
     counts_note = (
@@ -1918,7 +1974,7 @@ def main() -> int:
     )
 
     speaker_list_items = []
-    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
+    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows_top:
         sp_page = speaker_page_slug_by_slug.get(sp_slug) or ""
         speaker_img_rel = speaker_image_rel_by_slug.get(sp_slug) or ""
         speaker_img_html = ""
@@ -1977,7 +2033,7 @@ def main() -> int:
     <div class="speakers-top">
       <div class="speakers-head">
         <h1>Speakers</h1>
-        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise. Speaker pages/RSS are only generated for speakers that appear on 2+ podcasts.</p>
+        <p class="muted">Heuristic extraction from titles/descriptions. Expect some noise. Speaker pages/RSS are generated for speakers that appear on 2+ podcasts (or are whitelisted via <code>further_search_names</code>).</p>
         <div class="speakers-filter">
           <input id="speakers-filter" class="speaker-filter-input" type="search" placeholder="Filter speakers…" autocomplete="off" />
           <div id="speakers-filter-status" class="muted"></div>
@@ -1999,7 +2055,7 @@ def main() -> int:
         content_html=content,
     )
 
-    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows[:500]:
+    for sp_slug, speaker, guest_count, total_count, guest_pods, total_pods in speaker_rows_top:
         if sp_slug not in speaker_page_slug_by_slug:
             continue
         eps = list((speaker_eps_by_slug.get(sp_slug) or {}).values())
@@ -2044,7 +2100,15 @@ def main() -> int:
                     if img_url
                     else f'<div class="cover-fallback" style="--cover-hue: {hue}">{_esc(initials)}</div>'
                 )
-                url = _href(base_path, f"{feed_slug}/?e={key}")
+                # External episodes don't have local podcast pages; link out instead.
+                if str(feed_slug).startswith("external:"):
+                    url = (
+                        _safe_http_href(str(e.get("link_url") or ""))
+                        or _safe_http_href(str(e.get("audio_url") or ""))
+                        or ""
+                    )
+                else:
+                    url = _href(base_path, f"{feed_slug}/?e={key}")
                 meta_bits = [date]
                 if dur_text:
                     meta_bits.append(dur_text)
@@ -2091,7 +2155,7 @@ def main() -> int:
                     """.strip()
                 )
 
-            podcast_url = _href(base_path, f"{feed_slug}/")
+            podcast_url = _href(base_path, f"{feed_slug}/") if str(feed_slug) in set(feed_order) else ""
             groups_html.append(
                 f"""
                 <details class="speaker-group card" open data-own="{'1' if is_own else '0'}" {'hidden' if is_own else ''}>
@@ -2100,7 +2164,7 @@ def main() -> int:
                     <span class="muted">({len(group_eps)})</span>
                   </summary>
                   <div class="muted speaker-group-meta">
-                    <a href="{_esc(podcast_url)}">Open podcast</a>
+                    {('<a href="' + _esc(podcast_url) + '">Open podcast</a>') if podcast_url else '<span class="muted">External podcast</span>'}
                   </div>
                   <ul class="list">
                     {"".join(items)}
