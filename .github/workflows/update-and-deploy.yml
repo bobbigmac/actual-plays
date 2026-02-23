@@ -28,6 +28,13 @@ jobs:
       AP_CACHE_BRANCH: ${{ vars.AP_CACHE_BRANCH }}
       # Base path the site is hosted under, e.g. "/podcasts/".
       AP_BASE_PATH: ${{ vars.AP_BASE_PATH }}
+      # Speaker search (further_search) — add these as environment secrets in github-pages
+      PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+      PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+      LISTENNOTES_KEY: ${{ secrets.LISTENNOTES_KEY }}
+      PODCHASER_TOKEN: ${{ secrets.PODCHASER_TOKEN }}
+      PODCHASER_CLIENT_ID: ${{ secrets.PODCHASER_CLIENT_ID }}
+      PODCHASER_CLIENT_SECRET: ${{ secrets.PODCHASER_CLIENT_SECRET }}
 
     steps:
       - name: Checkout

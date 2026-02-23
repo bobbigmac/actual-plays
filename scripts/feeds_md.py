@@ -227,6 +227,12 @@ def parse_feeds_markdown(text: str) -> dict[str, Any]:
             key_l = "supplemental"
             key = "supplemental"
 
+        if key_l == "further_search_names":
+            items = _split_list(val_raw, seps=",;")
+            if current_top == "site":
+                site["further_search_names"] = items
+            continue
+
         if key_l in ("owners", "owner", "common_speakers", "exclude_speakers", "categories", "category"):
             items = _split_list(val_raw, seps=",;")
             if key_l in ("owner",):
@@ -342,7 +348,7 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
     out: list[str] = []
 
     out.append("# Site")
-    for k in ("title", "subtitle", "description", "base_path"):
+    for k in ("title", "subtitle", "description", "base_path", "further_search", "further_search_batch_size"):
         v = site.get(k)
         if v is None or str(v).strip() == "":
             continue
@@ -351,6 +357,10 @@ def dumps_feeds_markdown(cfg: dict[str, Any]) -> str:
     ex = site.get("exclude_speakers")
     if isinstance(ex, list) and ex:
         out.append(kv("exclude_speakers", fmt_list(ex, sep=", ")))
+
+    further_names = site.get("further_search_names")
+    if isinstance(further_names, list) and further_names:
+        out.append(kv("further_search_names", fmt_list(further_names, sep="; ")))
 
     footer_links = site.get("footer_links") or []
     if isinstance(footer_links, list) and footer_links:

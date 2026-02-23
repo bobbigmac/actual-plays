@@ -16,6 +16,8 @@ from typing import Any
 from scripts.shared import REPO_ROOT, format_bytes, path_stats, path_stats_tree, read_feeds_config, sha1_hex, slugify, write_json
 from scripts.shared import sanitize_speakers, sanitize_topics
 
+from scripts.further_search import get_external_episodes_for_speakers, run_further_search
+
 PLACEHOLDER_IMG = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
 _PROFILE_DIRNAME = "feed-profiles"
 _HTML_TAG_RE = re.compile(r"<[^>]+>")
@@ -1207,6 +1209,46 @@ def main() -> int:
                     if existing.isupper() and not sp_name.isupper():
                         speaker_name_by_slug[sp_slug] = sp_name
                 speaker_eps_by_slug[sp_slug][episode_id] = ep_entry
+
+    # Optional: further-search enrichment (API-based episode discovery for configured names).
+    further_search = bool(site_cfg.get("further_search"))
+    further_search_names = _norm_name_list(site_cfg.get("further_search_names"))
+    if further_search and further_search_names:
+        local_audio_urls = {
+            str(e.get("audio_url") or "").strip()
+            for e in all_episodes_index
+            if str(e.get("audio_url") or "").strip()
+        }
+        run_further_search(
+            cache_dir=cache_dir,
+            names=further_search_names,
+            enabled=True,
+            batch_size=int(
+                site_cfg.get("further_search_batch_size")
+                or (feeds_cfg.get("defaults") or {}).get("further_search_batch_size")
+                or 10
+            ),
+            quiet=True,
+        )
+        search_slugs = {slugify(n) for n in further_search_names if slugify(n)}
+        external_by_speaker = get_external_episodes_for_speakers(
+            cache_dir=cache_dir,
+            speaker_slugs=search_slugs,
+            local_audio_urls=local_audio_urls,
+        )
+        for sp_slug, ext_eps in external_by_speaker.items():
+            sp_name = next(
+                (n for n in further_search_names if slugify(n) == sp_slug),
+                sp_slug,
+            )
+            if sp_slug not in speaker_name_by_slug:
+                speaker_name_by_slug[sp_slug] = sp_name
+            for ext_ep in ext_eps:
+                feed_slug = str(ext_ep.get("feed_slug") or "external")
+                ep_key = str(ext_ep.get("episode_key") or "")
+                episode_id = f"{feed_slug}:{ep_key}"
+                if episode_id not in speaker_eps_by_slug[sp_slug]:
+                    speaker_eps_by_slug[sp_slug][episode_id] = ext_ep
 
     # Speaker pages also live at the site root. Avoid collisions with podcast slugs and reserved paths.
     used_root = set(_RESERVED_ROOT_SLUGS) | set(feed_order)

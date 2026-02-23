@@ -1,0 +1,22 @@
+{
+  "fetchedAt": 1771865676761,
+  "ttlSeconds": 21600,
+  "etag": null,
+  "lastModified": null,
+  "data": {
+    "errors": [
+      {
+        "message": "Cannot query field \"rss\" on type \"Podcast\".",
+        "extensions": {
+          "category": "graphql"
+        },
+        "locations": [
+          {
+            "line": 12,
+            "column": 39
+          }
+        ]
+      }
+    ]
+  }
+}

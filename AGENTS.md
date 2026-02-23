@@ -14,12 +14,14 @@ This repo builds a static podcast browser with server-rendered HTML + a modular 
 - `package.json` — dev scripts (`update/build/dev`) and dependency entrypoint for local workflows.
 - `feeds.md` — primary feeds config for this deployment (Markdown; supports `site` + feed URLs + optional `owners`/`common_speakers`/`categories`).
 - `feeds.actualplays.md` — alternate deployment feeds config (actual plays / RPG / story / fiction).
-- `feeds.other.md` — alternate deployment feeds config (non-TTRPG subscriptions).
+- `feeds.other.md` — alternate deployment feeds config (non-TTRPG subscriptions). Supports `further_search: true` + `further_search_names: A; B; C` to enrich per-speaker feeds with API-discovered episodes.
 - `feed-profiles/*.md` — optional per-feed profile markdown (editor’s notes + optional ratings), keyed by feed slug.
 - `feed-profiles/speakers/*.md` — optional per-speaker profile markdown (bio/links/notes), keyed by speaker slug.
 - `vite.config.js` — Vite dev server rooted at `dist/` + dev plugin that rebuilds/copies assets and broadcasts build status.
 - `scripts/update_feeds.py` — fetches/updates feed cache and tagging inputs used by the build.
 - `scripts/build_site.py` — renders pages (podcasts + per-speaker root slugs) + emits `dist/index.json` search index and `dist/site.json` config.
+- `scripts/pod-api-speaker-search.js` — searches Apple/PodcastIndex/ListenNotes/Podchaser for episodes by speaker name; used by further_search to enrich per-speaker RSS.
+- `scripts/further_search.py` — runs speaker search in batches (rotation across builds), caches results, merges external episodes into per-speaker feeds with dedupe.
 - `scripts/py` — Python launcher that prefers `.venv/` (needed for spaCy on PEP 668 systems).
 - `site/templates/base.html` — shared SSR template; includes search panel skeleton + loads `assets/app.js`.
 - `site/assets/app.js` — stable loader that resolves base path and imports `assets/app/index.js` as a module.
