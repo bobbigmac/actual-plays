@@ -159,6 +159,12 @@ function matchAnyName(text, names) {
   return false;
 }
 
+function episodeMatchBlob({ title = "", description = "" } = {}) {
+  // Intent: discover *guest* appearances. Avoid matching solely on podcast/show title
+  // (e.g. "Off Menu with X") by only matching episode title/description.
+  return `${title || ""}\n${description || ""}`;
+}
+
 function normalizeEpisode(e) {
   // expected normalized shape downstream
   return {
@@ -220,7 +226,7 @@ async function providerAppleEpisodes(names) {
       const title = r.trackName || "";
       const podcastTitle = r.collectionName || "";
       const description = r.description || r.shortDescription || "";
-      const blob = `${title}\n${podcastTitle}\n${description}`;
+      const blob = episodeMatchBlob({ title, description });
       if (!matchAnyName(blob, [name])) continue;
 
       out.push(
@@ -318,7 +324,7 @@ async function providerPodcastIndex(names) {
       const title = it.title || "";
       const description = it.description || "";
       const podcastTitle = meta.podcastTitle || it.feedTitle || "";
-      const blob = `${title}\n${podcastTitle}\n${description}`;
+      const blob = episodeMatchBlob({ title, description });
       const matched = names.filter((n) => matchAnyName(blob, [n]));
       if (!matched.length) continue;
 
@@ -380,7 +386,7 @@ async function providerListenNotes(names) {
       const title = r.title_original || r.title || "";
       const podcastTitle = r.podcast?.title_original || r.podcast?.title || "";
       const description = r.description_original || r.description || "";
-      const blob = `${title}\n${podcastTitle}\n${description}`;
+      const blob = episodeMatchBlob({ title, description });
       if (!matchAnyName(blob, [name])) continue;
 
       out.push(
@@ -490,7 +496,7 @@ async function providerPodchaser(names) {
             airDate
             webUrl
             audioUrl
-            podcast { id title webUrl rss }
+            podcast { id title webUrl rssUrl }
           }
         }
       }
@@ -517,6 +523,12 @@ async function providerPodchaser(names) {
       continue;
     }
 
+    if (Array.isArray(data?.errors) && data.errors.length) {
+      const msg = String(data.errors[0]?.message || "Unknown GraphQL error").slice(0, 240);
+      warn(`Podchaser GraphQL error for "${name}": ${msg}`);
+      continue;
+    }
+
     const episodes = data?.data?.episodes?.data || [];
     log(`Podchaser "${name}" -> ${episodes.length} results`);
 
@@ -524,7 +536,7 @@ async function providerPodchaser(names) {
       const title = r?.title || "";
       const podcastTitle = r?.podcast?.title || "";
       const description = r?.description || "";
-      const blob = `${title}\n${podcastTitle}\n${description}`;
+      const blob = episodeMatchBlob({ title, description });
       if (!matchAnyName(blob, [name])) continue;
 
       out.push(
@@ -537,7 +549,7 @@ async function providerPodchaser(names) {
           publishedAt: r?.airDate ? new Date(r.airDate).toISOString() : null,
           audioUrl: r?.audioUrl || null,
           episodeUrl: r?.webUrl || null,
-          rssFeedUrl: r?.podcast?.rss || null,
+          rssFeedUrl: r?.podcast?.rssUrl || null,
           ids: {
             podchaserId: r?.id ?? null,
             podchaserPodcastId: r?.podcast?.id ?? null,
@@ -617,7 +629,7 @@ async function main() {
   // extra safety: ensure each episode still matches at least one name in title/desc/podcastTitle
   const final = deduped
     .map((e) => {
-      const blob = `${e.title}\n${e.podcastTitle}\n${e.description}`;
+      const blob = episodeMatchBlob({ title: e.title, description: e.description });
       const matched = names.filter((n) => matchAnyName(blob, [n]));
       return { ...e, matchedNames: matched.length ? matched : e.matchedNames };
     })
