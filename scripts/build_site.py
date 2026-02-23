@@ -1327,6 +1327,152 @@ def main() -> int:
             file=sys.stderr,
         )
 
+        # Optional: emit a "silent" review page listing commonly found external podcasts,
+        # to help decide what to add as supplementals.
+        if bool(site_cfg.get("further_search_podcast_candidates")):
+            def _norm_rss(u: Any) -> str:
+                return str(u or "").strip().rstrip("/")
+
+            local_rss_urls = {_norm_rss(u) for u in (feed_url_by_slug or {}).values() if _norm_rss(u)}
+
+            podcasts: dict[str, dict[str, Any]] = {}
+            for sp_slug, ext_eps in (external_by_speaker or {}).items():
+                for e in ext_eps or []:
+                    rss = _norm_rss((e or {}).get("source_rss_url"))
+                    title = str((e or {}).get("feed_title") or "").strip()
+                    feed_slug = str((e or {}).get("feed_slug") or "").strip()
+                    provider = ""
+                    if feed_slug.startswith("external:"):
+                        parts = feed_slug.split(":", 2)
+                        if len(parts) >= 2:
+                            provider = parts[1]
+                    key = rss or f"title:{slugify(title) or feed_slug or 'unknown'}"
+                    row = podcasts.get(key)
+                    if not row:
+                        row = {
+                            "rss_url": rss,
+                            "title": title or "Unknown",
+                            "providers": set(),
+                            "speaker_slugs": set(),
+                            "episodes": 0,
+                        }
+                        podcasts[key] = row
+                    if provider:
+                        row["providers"].add(provider)
+                    row["speaker_slugs"].add(sp_slug)
+                    row["episodes"] += 1
+
+            # Filter out podcasts we already subscribe to (by RSS URL), when available.
+            rows: list[dict[str, Any]] = []
+            for row in podcasts.values():
+                rss = str(row.get("rss_url") or "")
+                if rss and rss in local_rss_urls:
+                    continue
+                rows.append(row)
+
+            rows.sort(
+                key=lambda r: (
+                    -len(r.get("speaker_slugs") or set()),
+                    -int(r.get("episodes") or 0),
+                    str(r.get("title") or "").lower(),
+                    str(r.get("rss_url") or ""),
+                )
+            )
+
+            limit = int(site_cfg.get("further_search_podcast_candidates_limit") or 250)
+            rows = rows[: max(limit, 0)] if limit else rows
+
+            used_slugs = set(_RESERVED_ROOT_SLUGS) | set(feed_order)
+            used = set(used_slugs)
+            snippet_lines: list[str] = []
+            snippet_lines.append("# Feeds")
+            snippet_lines.append("")
+            for r in rows:
+                title = str(r.get("title") or "").strip() or "Unknown"
+                rss = str(r.get("rss_url") or "").strip()
+                if not rss:
+                    continue
+                base = slugify(title) or "supplemental"
+                sug = _unique_slug(base, used, salt=f"remote:{rss}")
+                speakers_n = len(r.get("speaker_slugs") or set())
+                eps_n = int(r.get("episodes") or 0)
+                snippet_lines.append(f"## {sug}")
+                snippet_lines.append(f"- url: {rss}")
+                snippet_lines.append(f"- title_override: {title}")
+                snippet_lines.append("- supplemental: true")
+                snippet_lines.append(f"- notes: further_search candidate ({speakers_n} speakers, {eps_n} eps)")
+                snippet_lines.append("")
+
+            table_rows: list[str] = []
+            for r in rows:
+                rss = str(r.get("rss_url") or "").strip()
+                title = str(r.get("title") or "").strip() or "Unknown"
+                speakers_n = len(r.get("speaker_slugs") or set())
+                eps_n = int(r.get("episodes") or 0)
+                prov = ", ".join(sorted(list(r.get("providers") or set())))
+                rss_html = f'<a href="{_esc(rss)}" rel="noopener">{_esc(rss)}</a>' if rss else '<span class="muted">No RSS URL</span>'
+                table_rows.append(
+                    "<tr>"
+                    f"<td>{_esc(title)}</td>"
+                    f"<td style=\"white-space:nowrap\">{speakers_n}</td>"
+                    f"<td style=\"white-space:nowrap\">{eps_n}</td>"
+                    f"<td>{_esc(prov)}</td>"
+                    f"<td style=\"max-width:520px;overflow:hidden;text-overflow:ellipsis\">{rss_html}</td>"
+                    "</tr>"
+                )
+
+            snippet = "\n".join(snippet_lines).rstrip() + "\n"
+            content = f"""
+            <h1>Remote podcast candidates</h1>
+            <p class="muted">Generated from cached further-search results for <code>further_search_names</code>. Ranked by distinct whitelisted speakers per podcast, then total matched episodes. Not linked from navigation.</p>
+
+            <section class="card panel">
+              <div class="panel-head"><h2 class="panel-title">Summary</h2></div>
+              <div class="muted">Candidates shown: <strong>{len(rows)}</strong></div>
+              <div class="muted">Copy/paste snippet below into your feeds config (adds <code>supplemental: true</code> feeds).</div>
+            </section>
+
+            <section class="card panel">
+              <div class="panel-head"><h2 class="panel-title">Feeds snippet</h2></div>
+              <pre style="white-space:pre;overflow:auto;margin:0">{_esc(snippet)}</pre>
+            </section>
+
+            <section class="card panel">
+              <div class="panel-head"><h2 class="panel-title">Ranked list</h2></div>
+              <div style="overflow:auto">
+                <table class="table" style="width:100%;border-collapse:collapse">
+                  <thead>
+                    <tr>
+                      <th style="text-align:left">Podcast</th>
+                      <th style="text-align:left">Speakers</th>
+                      <th style="text-align:left">Episodes</th>
+                      <th style="text-align:left">Providers</th>
+                      <th style="text-align:left">RSS</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {''.join(table_rows) if table_rows else '<tr><td colspan="5" class="muted">No candidates yet.</td></tr>'}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+            """.strip()
+            _write_page(
+                base_template=base_template,
+                out_path=dist_dir / "remote-podcast-candidates" / "index.html",
+                dist_dir=dist_dir,
+                base_path=base_path,
+                site_cfg=site_cfg,
+                page_title=f"Remote podcast candidates — {site_cfg.get('title') or ''}".strip(" —"),
+                page_description="Remote podcast candidates",
+                content_html=content,
+            )
+            print(
+                "[further-search] "
+                f"podcast_candidates=on wrote={_href(base_path, 'remote-podcast-candidates/')}",
+                file=sys.stderr,
+            )
+
     # Speaker pages also live at the site root. Avoid collisions with podcast slugs and reserved paths.
     used_root = set(_RESERVED_ROOT_SLUGS) | set(feed_order)
     used = set(used_root)

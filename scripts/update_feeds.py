@@ -21,6 +21,7 @@ from scripts.shared import (
     extract_topics,
     format_bytes,
     fetch_url,
+    normalize_ws,
     parse_feed,
     path_stats,
     read_json,
@@ -28,12 +29,32 @@ from scripts.shared import (
     sanitize_speakers,
     sanitize_topics,
     stable_episode_key,
+    strip_html,
     utc_now_iso,
     write_json,
 )
 
 _DISABLE_AFTER_CONSECUTIVE_FAILURES_DEFAULT = 3
 _DISABLE_IMMEDIATELY_HTTP_STATUSES = {410}
+
+_DESC_SPEAKER_MATCH_MAX_WORDS = 20
+_DESC_SPEAKER_MATCH_MAX_CHARS = 100
+
+
+def _desc_prefix_for_speaker_match(description: str) -> str:
+    """
+    Only consider the start of descriptions for name matching, to avoid
+    picking up irrelevant mentions buried in marketing blurbs.
+    """
+    raw = normalize_ws(strip_html(description or ""))
+    if not raw:
+        return ""
+    words = raw.split()
+    head = " ".join(words[:_DESC_SPEAKER_MATCH_MAX_WORDS])
+    if len(head) > _DESC_SPEAKER_MATCH_MAX_CHARS:
+        head = head[:_DESC_SPEAKER_MATCH_MAX_CHARS]
+    return head
+
 
 try:
     from concurrent.futures.thread import _threads_queues, _worker  # type: ignore
@@ -775,7 +796,11 @@ def _process_one_feed(
             }
         )
 
-    spacy_items = [{"id": ep["key"], "title": ep["title"], "description": ep["description"]} for ep in pre]
+    desc_head_by_key = {ep["key"]: _desc_prefix_for_speaker_match(ep.get("description") or "") for ep in pre}
+    spacy_items = [
+        {"id": ep["key"], "title": ep["title"], "description": desc_head_by_key.get(ep["key"]) or ""}
+        for ep in pre
+    ]
     spacy_tags = _try_tag_with_spacy(spacy_items, quiet=quiet)
 
     episodes = []
@@ -784,7 +809,8 @@ def _process_one_feed(
         key = ep["key"]
         title = ep["title"]
         description = ep["description"]
-        combined_text = f"{title}\n{description}"
+        desc_head = desc_head_by_key.get(key) or ""
+        combined_text = f"{title}\n{desc_head}" if desc_head else f"{title}\n"
 
         tags = (spacy_tags or {}).get(key) if spacy_tags else None
         speakers = tags.get("speakers") if isinstance(tags, dict) else None

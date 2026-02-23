@@ -2,6 +2,7 @@
 - id: other
 - title: Bob's Favourite Podcasts
 - further_search: true
+- further_search_podcast_candidates: true
 - further_search_names: Bob Mortimer; Harriet Kemsley; James Acaster; Ed Gamble; Lou Sanders; Richard Herring; Tim Key; Sally Phillips; Harry Hill; Alex Horne; Stewart Lee; Mike Wozniak; Nish Kumar; Dave Gorman; Lee Mack; David Mitchell; Jack Dee; Richard Ayoade
 - subtitle: I like some podcasts. You might like them too.
 - description: A personal podcast index.
