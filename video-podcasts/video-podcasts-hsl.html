@@ -5,55 +5,58 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Video Podcasts</title>
   <link rel="stylesheet" href="style.css">
-
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
 </head>
 <body>
   <div class="app" id="app">
-    <aside class="side" aria-label="Feeds and episodes">
-      <div class="top">
-        <select id="feedSelect" class="feedSelect" title="Feed"></select>
+    <div class="player" id="player">
+      <video id="video" playsinline></video>
+      <div class="progress" id="progress" title="Seek">
+        <div class="progressFill" id="progressFill"></div>
       </div>
-      <div id="episodes" class="episodes" role="list"></div>
-      <div id="sideMsg" class="sideMsg" aria-live="polite"></div>
-    </aside>
+    </div>
 
-    <main class="main" aria-label="Player">
-      <div class="player">
-        <video id="video" playsinline></video>
-        <div class="hud">
-          <button id="btnPlay" class="hudBtn" title="Play/Pause">Play</button>
-          <div class="hudTitle" id="hudTitle">—</div>
-          <div class="hudTime mono" id="hudTime">00:00</div>
-        </div>
-        <div class="progress" id="progress" title="Seek">
-          <div class="progressFill" id="progressFill"></div>
-        </div>
-      </div>
+    <div class="guideBar" id="guideBar">
+      <button id="btnChannel" class="guideChannel" title="Channels">—</button>
+      <div class="guideNow" id="guideNow">—</div>
+      <button id="btnRandom" class="guideBtn" title="Random">Random</button>
+      <button id="btnCC" class="guideBtn" title="Subtitles" aria-label="Subtitles">CC</button>
+      <button id="btnPlay" class="guideBtn" title="Play/Pause">▶</button>
+      <div class="guideTime mono" id="guideTime">00:00</div>
+    </div>
 
-      <section class="meta">
-        <div class="metaTop">
-          <div class="metaTitle" id="epTitle">—</div>
-          <div class="metaSub" id="epSub">—</div>
-        </div>
-        <div class="metaDesc" id="epDesc"></div>
-      </section>
-    </main>
+    <div id="guidePanel" class="guidePanel" aria-hidden="true">
+      <div class="guidePanelHeader">
+        <span>Channels</span>
+        <button id="btnCloseGuide" class="guideBtn">✕</button>
+      </div>
+      <div class="guidePanelFeeds" id="guideFeeds"></div>
+      <div class="guidePanelEpisodes" id="guideEpisodes"></div>
+    </div>
 
-    <aside class="right" aria-label="Chapters and details">
-      <div class="rightTop">
-        <div class="rightTitle">Chapters</div>
-        <div class="rightSub mono" id="chaptersMeta">—</div>
+    <div id="detailsPanel" class="detailsPanel" aria-hidden="true">
+      <div class="detailsHeader">
+        <span>Details</span>
+        <button id="btnCloseDetails" class="guideBtn">✕</button>
       </div>
-      <div class="chapters" id="chapters"></div>
-      <div class="logPanel">
-        <div class="logPanelHeader">
-          <span class="logPanelTitle">Log</span>
-          <button id="btnClearLog" class="logBtn" title="Clear">Clear</button>
+      <div class="detailsContent">
+        <div id="epTitle" class="detailsTitle">—</div>
+        <div id="epSub" class="detailsSub">—</div>
+        <div id="epDesc" class="detailsDesc"></div>
+        <div class="detailsChapters">
+          <div class="detailsChaptersTitle">Chapters</div>
+          <div id="chapters" class="chapters"></div>
         </div>
-        <div id="logOutput" class="logOutput" role="log" aria-live="polite"></div>
+        <div class="detailsLog">
+          <div class="detailsLogHeader">
+            <span>Log</span>
+            <button id="btnClearLog" class="guideBtn">Clear</button>
+          </div>
+          <div id="logOutput" class="logOutput" role="log"></div>
+        </div>
       </div>
-    </aside>
+    </div>
+    <button id="btnDetails" class="cornerBtn" title="Details">⋯</button>
   </div>
 
   <script type="module" src="main.js"></script>
