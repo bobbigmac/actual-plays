@@ -2,9 +2,9 @@
 
 - slug: `d-d-villains-of-visentria-a-grim-horror-themed-campaign`
 - source: `https://anchor.fm/s/b0c7a35c/podcast/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"c6fa-mC1m2ZvMTgXGOquYdt7Q0TzlHPk"`
+- fetched_at: `2026-02-24T13:46:01+00:00`
+- checked_at: `2026-02-24T13:46:01+00:00`
+- etag: `W/"c6fa-Gt70hYTBz2mS3uQUnUTHL+kRRbI"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/makethisepic",
   "description": "Villains Of Visentria is a grim horror themed campaign set in the dark and crumbling world of Inexia. Imperial Orvanis and their devient magrotacracy seek to enslave all non magi, the dread nation of Mortdrakken wish to bend the world to their will for their decrepit god Harkemees and deep within the feral lands in the Citadel of Seven Cities, Visentria, They push the boundaries of technology basing all their advancement on the unstable energy source of Zantanium. Our story follows that of the Kevostok rippers and their descent in madness and turmoil in a world that knows no kindness.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/29558735/29558735-1660683953141-b264b210e214b.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T13:46:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,9 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "275343383",
       "itunes_duration": "03:11:12",
-      "speakers": [
-        "Stream Every Wednesday"
-      ],
+      "speakers": [],
       "topics": [
         "madness",
         "mutation"
@@ -56,9 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "270361073",
       "itunes_duration": "03:07:44",
-      "speakers": [
-        "Stream Every Wednesday"
-      ],
+      "speakers": [],
       "topics": [
         "madness",
         "mutation"
@@ -75,9 +71,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "281406449",
       "itunes_duration": "03:15:24",
-      "speakers": [
-        "Stream Every Wednesday"
-      ],
+      "speakers": [],
       "topics": [
         "madness",
         "mutation"
@@ -111,9 +105,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "319972697",
       "itunes_duration": "03:42:11",
-      "speakers": [
-        "Stream Every Wednesday"
-      ],
+      "speakers": [],
       "topics": [
         "message"
       ]
@@ -129,9 +121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "255267845",
       "itunes_duration": "02:57:15",
-      "speakers": [
-        "Stream Every Wednesday"
-      ],
+      "speakers": [],
       "topics": [
         "vigilance",
         "vindication"
@@ -193,12 +183,12 @@
 
 ## Episodes (newest first)
 
-- 2022-10-26 — Ep9: Madness in Mutation Part 3 — speakers: Stream Every Wednesday
-- 2022-10-18 — Ep8: Madness in Mutation Continues — speakers: Stream Every Wednesday
-- 2022-09-26 — Ep7: Madness in Mutation — speakers: Stream Every Wednesday
+- 2022-10-26 — Ep9: Madness in Mutation Part 3
+- 2022-10-18 — Ep8: Madness in Mutation Continues
+- 2022-09-26 — Ep7: Madness in Mutation
 - 2022-09-19 — Ep6: A Dinner in Shadow
-- 2022-09-12 — Ep5: Sending a message — speakers: Stream Every Wednesday
-- 2022-09-05 — Ep4: Vigilance upon Vindication — speakers: Stream Every Wednesday
+- 2022-09-12 — Ep5: Sending a message
+- 2022-09-05 — Ep4: Vigilance upon Vindication
 - 2022-08-29 — Ep3: In Darkness We Are Tested
 - 2022-08-23 — Ep2: Hell below the Coggercan
 - 2022-08-16 — Ep1: Welcome to your new world of suffering

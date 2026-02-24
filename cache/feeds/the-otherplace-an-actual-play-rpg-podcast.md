@@ -2,9 +2,9 @@
 
 - slug: `the-otherplace-an-actual-play-rpg-podcast`
 - source: `https://anchor.fm/s/96e40cdc/podcast/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"5b75f-EVvUJdYqR1wVGDs4/hY6ziBnek0"`
+- fetched_at: `2026-02-24T13:46:01+00:00`
+- checked_at: `2026-02-24T13:46:01+00:00`
+- etag: `W/"5b75f-YEtcfGonyt9kXljGp8eGSLXnu3A"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nightcastcreative.com",
   "description": "The land of Fenrayne has been on the brink of doom for years. Necromancers and the dead are rising on the edges of society, threatening life and peace across the land. Deep in the shadows, others try to unearth secret knowledge and unspeakable power. The Otherplace is a fantasy RPG podcast played using the Genesys system by Fantasy Flight Games. In this anthology podcast, we follow a new set of adventurers each season as they travel the land of Fenrayne, fight the Dead, and uncover the mysteries of the world.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/25215279/2dd4cde400236a36.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T13:46:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,12 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26094235",
       "itunes_duration": "00:10:52",
-      "speakers": [
-        "Mark Eberhardt",
-        "Sam Emery Chauncey FitzCharles",
-        "Mary Frances",
-        "Hive Social"
-      ],
+      "speakers": [],
       "topics": [
         "shape",
         "things"
@@ -58,11 +53,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47272227",
       "itunes_duration": "00:19:41",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "journey"
       ]
@@ -78,12 +69,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86610546",
       "itunes_duration": "00:36:05",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt",
-        "Hive Social"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "ringing",
@@ -101,11 +87,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76605648",
       "itunes_duration": "00:31:55",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "chrysoberyl"
       ]
@@ -121,11 +103,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81584586",
       "itunes_duration": "00:33:59",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "seven",
         "rivers"
@@ -142,11 +120,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "38937560",
       "itunes_duration": "00:40:07",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "quartermaster"
       ]
@@ -162,11 +136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119630366",
       "itunes_duration": "00:49:50",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "rivers",
         "flow",
@@ -184,11 +154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116417305",
       "itunes_duration": "00:48:30",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "white",
         "wasp"
@@ -205,11 +171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95911182",
       "itunes_duration": "00:39:57",
-      "speakers": [
-        "Kimball Tullana",
-        "Joy Tekoa",
-        "Chris Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "silver",
         "steel"
@@ -226,9 +188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123350203",
       "itunes_duration": "00:51:23",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "black",
         "fire"
@@ -245,9 +205,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103781354",
       "itunes_duration": "00:43:14",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "treasure",
@@ -265,9 +223,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88122513",
       "itunes_duration": "00:36:43",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "white",
@@ -285,9 +241,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83887585",
       "itunes_duration": "00:34:57",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "quiet",
         "maze"
@@ -305,8 +259,7 @@
       "enclosure_length": "85369207",
       "itunes_duration": "00:35:34",
       "speakers": [
-        "Dark Clouds",
-        "Doug Eberhardt Mark Eberhardt"
+        "Dark Clouds"
       ],
       "topics": [
         "white",
@@ -327,7 +280,7 @@
       "enclosure_length": "91254072",
       "itunes_duration": "00:38:01",
       "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
+        "Fire Welcome"
       ],
       "topics": [
         "water",
@@ -345,10 +298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99359346",
       "itunes_duration": "00:41:23",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "protector"
       ]
@@ -364,10 +314,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95450382",
       "itunes_duration": "00:39:46",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "nichola"
       ]
@@ -383,10 +330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97993664",
       "itunes_duration": "00:40:49",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "awakening"
       ]
@@ -403,8 +347,7 @@
       "enclosure_length": "130103378",
       "itunes_duration": "00:54:12",
       "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
+        "Horizon Welcome"
       ],
       "topics": [
         "smoke",
@@ -423,8 +366,7 @@
       "enclosure_length": "78589909",
       "itunes_duration": "00:32:44",
       "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
+        "Silent Whisper Welcome"
       ],
       "topics": [
         "silent",
@@ -442,12 +384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93655248",
       "itunes_duration": "00:39:01",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt",
-        "Nicki Crock",
-        "Doug Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "confluence",
         "necromancers"
@@ -464,9 +401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75355950",
       "itunes_duration": "00:31:23",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "temple",
         "ferrier"
@@ -483,9 +418,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80359966",
       "itunes_duration": "00:33:28",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "dark",
@@ -503,9 +436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134349844",
       "itunes_duration": "00:55:58",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "earth"
       ]
@@ -521,9 +452,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116799737",
       "itunes_duration": "00:48:39",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "hearth",
         "home"
@@ -540,10 +469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85112162",
       "itunes_duration": "00:35:27",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -557,10 +483,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104887901",
       "itunes_duration": "00:43:42",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "clashing",
         "swords"
@@ -577,13 +500,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58069440",
       "itunes_duration": "00:24:11",
-      "speakers": [
-        "Rabberto October",
-        "Sarah Joy",
-        "GM Andrew",
-        "GM Mark Tba Live-Play",
-        "Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "conductor"
       ]
@@ -599,10 +516,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87323166",
       "itunes_duration": "00:36:23",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "warning"
       ]
@@ -618,10 +532,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54751607",
       "itunes_duration": "00:22:48",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "silver",
         "bell"
@@ -638,11 +549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124376293",
       "itunes_duration": "00:51:49",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt",
-        "Nicki Crock"
-      ],
+      "speakers": [],
       "topics": [
         "road"
       ]
@@ -658,11 +565,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72081240",
       "itunes_duration": "00:30:02",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt",
-        "Nicki Crock"
-      ],
+      "speakers": [],
       "topics": [
         "east"
       ]
@@ -678,11 +581,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79134301",
       "itunes_duration": "00:32:58",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt",
-        "Nicki Crock"
-      ],
+      "speakers": [],
       "topics": [
         "vision",
         "voice"
@@ -699,10 +598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114859362",
       "itunes_duration": "00:47:51",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "silver",
         "steel"
@@ -719,10 +615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84997223",
       "itunes_duration": "00:35:24",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "riddles",
         "gifts"
@@ -739,10 +632,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137430203",
       "itunes_duration": "00:57:15",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "stranger"
       ]
@@ -758,10 +648,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115224031",
       "itunes_duration": "00:48:00",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "riverbed"
@@ -778,10 +665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98260113",
       "itunes_duration": "00:40:56",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "shape"
       ]
@@ -797,9 +681,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102284015",
       "itunes_duration": "00:42:37",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "ground"
       ]
@@ -815,9 +697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86949093",
       "itunes_duration": "00:36:13",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "wolf",
         "wood"
@@ -834,9 +714,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73016423",
       "itunes_duration": "00:30:25",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -850,9 +728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72909844",
       "itunes_duration": "00:30:22",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "wind",
         "flower"
@@ -869,10 +745,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94289501",
       "itunes_duration": "00:39:17",
-      "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "road"
       ]
@@ -889,8 +762,7 @@
       "enclosure_length": "105066578",
       "itunes_duration": "00:43:46",
       "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
+        "Conductor Welcome"
       ],
       "topics": [
         "conductor"
@@ -908,8 +780,7 @@
       "enclosure_length": "83630497",
       "itunes_duration": "00:34:50",
       "speakers": [
-        "Chris Rabberto",
-        "Joy Mark Eberhardt"
+        "Black Water Welcome"
       ],
       "topics": [
         "black",
@@ -928,8 +799,7 @@
       "enclosure_length": "132499329",
       "itunes_duration": "00:55:12",
       "speakers": [
-        "Chris Rabberto",
-        "Mark Eberhardt"
+        "Fire Welcome"
       ],
       "topics": [
         "fire"
@@ -946,10 +816,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86735933",
       "itunes_duration": "00:36:08",
-      "speakers": [
-        "Chris Rabberto",
-        "Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "white",
         "cloaks"
@@ -966,10 +833,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125112946",
       "itunes_duration": "00:52:07",
-      "speakers": [
-        "Chris Rabberto",
-        "Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "ghost"
       ]
@@ -985,11 +849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "4012407",
       "itunes_duration": "00:01:40",
-      "speakers": [
-        "Chris Tullana",
-        "Joy Rabberto",
-        "Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "otherplace",
         "season"
@@ -1006,12 +866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125621811",
       "itunes_duration": "00:52:20",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Balthazar",
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "syzygy"
       ]
@@ -1028,9 +883,7 @@
       "enclosure_length": "138715427",
       "itunes_duration": "00:57:47",
       "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
+        "Reunion Welcome"
       ],
       "topics": [
         "reunion"
@@ -1047,11 +900,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79247150",
       "itunes_duration": "00:33:01",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "tooth"
       ]
@@ -1067,11 +916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76797909",
       "itunes_duration": "00:31:59",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "barrier"
       ]
@@ -1087,11 +932,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133068799",
       "itunes_duration": "00:55:26",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "circle"
       ]
@@ -1107,11 +948,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116729729",
       "itunes_duration": "00:48:38",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "passage"
       ]
@@ -1127,11 +964,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100753240",
       "itunes_duration": "00:41:58",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "homecoming"
       ]
@@ -1147,11 +980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95764897",
       "itunes_duration": "00:39:54",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "history"
       ]
@@ -1167,11 +996,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36576371",
       "itunes_duration": "00:36:16",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "iron",
         "bone"
@@ -1189,7 +1014,7 @@
       "enclosure_length": "93380440",
       "itunes_duration": "00:38:54",
       "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
+        "Crack Welcome"
       ],
       "topics": [
         "crack"
@@ -1206,9 +1031,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87989811",
       "itunes_duration": "00:36:39",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1222,9 +1045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121365942",
       "itunes_duration": "00:50:34",
-      "speakers": [
-        "Doug Eberhardt Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1238,11 +1059,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110372570",
       "itunes_duration": "00:45:59",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -1258,11 +1075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85910464",
       "itunes_duration": "00:35:47",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "time"
       ]
@@ -1278,11 +1091,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72605778",
       "itunes_duration": "00:30:15",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1296,14 +1105,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95728325",
       "itunes_duration": "00:39:53",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt",
-        "Jonathan Stroud",
-        "Garth Nix",
-        "Stephen King"
-      ],
+      "speakers": [],
       "topics": [
         "emotion"
       ]
@@ -1319,14 +1121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93490154",
       "itunes_duration": "00:38:57",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt",
-        "Jonathan Stroud",
-        "Garth Nix",
-        "Stephen King"
-      ],
+      "speakers": [],
       "topics": [
         "memory"
       ]
@@ -1342,14 +1137,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103824195",
       "itunes_duration": "00:43:15",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt",
-        "Jonathan Stroud",
-        "Garth Nix",
-        "Stephen King"
-      ],
+      "speakers": [],
       "topics": [
         "dissonance"
       ]
@@ -1365,11 +1153,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120056684",
       "itunes_duration": "00:50:01",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhard"
-      ],
+      "speakers": [],
       "topics": [
         "ghost",
         "story"
@@ -1386,11 +1170,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122895672",
       "itunes_duration": "00:51:12",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhard"
-      ],
+      "speakers": [],
       "topics": [
         "sunlamp"
       ]
@@ -1406,11 +1186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1360769",
       "itunes_duration": "00:01:17",
-      "speakers": [
-        "Mary Frances Miller Peck",
-        "Nikki Smetters Marda",
-        "Sarah Joy Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "otherplace",
         "season"
@@ -1423,73 +1199,73 @@
 
 ## Episodes (newest first)
 
-- 2022-12-26 — Episode 47: The Shape of Things to Come — speakers: Mark Eberhardt, Sam Emery Chauncey FitzCharles, Mary Frances, Hive Social
-- 2022-12-12 — Episode 46: The Journey — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-11-28 — Episode 45: Death, a Ringing Bell — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt, Hive Social
-- 2022-11-14 — Episode 44: Chrysoberyl — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-10-31 — Episode 43: The Seven Rivers — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-10-17 — Episode 42: The Quartermaster — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-10-03 — Episode 41: Where the Rivers Flow Under the Hill — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-09-19 — Episode 40: The White Wasp — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-09-05 — Episode 39: Between Silver & Steel — speakers: Kimball Tullana, Joy Tekoa, Chris Mark Eberhardt
-- 2022-08-22 — Episode 38: Black Fire — speakers: Doug Eberhardt Mark Eberhardt
-- 2022-08-08 — Episode 37: A Strange Treasure, An Unexpected Meeting — speakers: Doug Eberhardt Mark Eberhardt
-- 2022-07-25 — Episode 36: Tales from the White Library — speakers: Doug Eberhardt Mark Eberhardt
-- 2022-07-11 — Episode 35: In The Quiet Maze — speakers: Doug Eberhardt Mark Eberhardt
-- 2022-06-27 — Episode 34: White Cloaks, Dark Clouds — speakers: Dark Clouds, Doug Eberhardt Mark Eberhardt
-- 2022-06-13 — Episode 33: Water & Fire — speakers: Doug Eberhardt Mark Eberhardt
-- 2022-02-21 — Episode 32: Protector — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2022-02-07 — Episode 31: Nicholas — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2022-01-24 — Episode 30: An Awakening — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2022-01-10 — Episode 29: Smoke on the Horizon — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-12-13 — Episode 28: A Silent Whisper — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-11-29 — Episode 27: A Confluence of Necromancers — speakers: Chris Rabberto, Joy Mark Eberhardt, Nicki Crock, Doug Eberhardt
-- 2021-11-15 — Episode 26: In the Temple of the Ferriers — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-11-01 — Episode 25: Death & Dark Water — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-10-25 — Episode 24: Of the Earth — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-10-18 — Episode 23: Hearth & Home — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-10-11 — Episode 22: Hot Air — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-10-04 — Episode 21: Clashing Swords — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-10-01 — Bonus Episode 1: Conductor & Conductor — speakers: Rabberto October, Sarah Joy, GM Andrew, GM Mark Tba Live-Play, Mark Eberhardt
-- 2021-09-20 — Episode 20: A Warning and A Way Out — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-09-06 — Episode 19: Silver Bell — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-08-23 — Episode 18: On the Road Again — speakers: Chris Rabberto, Joy Mark Eberhardt, Nicki Crock
-- 2021-08-09 — Episode 17: Go East — speakers: Chris Rabberto, Joy Mark Eberhardt, Nicki Crock
-- 2021-07-26 — Episode 16: Vision & Voice — speakers: Chris Rabberto, Joy Mark Eberhardt, Nicki Crock
-- 2021-07-12 — Episode 15: Silver & Steel — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-06-28 — Episode 14: Riddles & Gifts — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-06-14 — Episode 13: Strangers — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-05-31 — Episode 12: The Battle on the Riverbed — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-05-17 — Episode 11: Shapes in the Fog — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-05-03 — Episode 10: Ice on the Ground — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-04-19 — Episode 9: Wolves in the Wood — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-04-05 — Episode 8: The Other — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-03-22 — Episode 7: The Wind in the Flowers — speakers: Doug Eberhardt Mark Eberhardt
-- 2021-03-08 — Episode 6: On the Road — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-02-22 — Episode 5: Conductor — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-02-08 — Episode 4: Black Water — speakers: Chris Rabberto, Joy Mark Eberhardt
-- 2021-01-25 — Episode 3: Fire — speakers: Chris Rabberto, Mark Eberhardt
-- 2021-01-11 — Episode 2: White Cloaks — speakers: Chris Rabberto, Mark Eberhardt
-- 2021-01-11 — Episode 1: The Ghost Jar — speakers: Chris Rabberto, Mark Eberhardt
-- 2021-01-01 — The Otherplace Season 2 Trailer — speakers: Chris Tullana, Joy Rabberto, Mark Eberhardt
-- 2020-11-02 — Episode 20: Syzygy — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Balthazar, Doug Eberhardt Mark Eberhardt
-- 2020-10-19 — Episode 19: Reunion — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-10-05 — Episode 18: Teeth — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-09-21 — Episode 17: Barriers — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-09-07 — Episode 16: Circles — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-08-31 — Episode 15: Passage — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-08-24 — Episode 14: Homecoming — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-08-17 — Episode 13: Histories — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-08-10 — Episode 12: Iron and Bone — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-07-27 — Episode 11: A Crack — speakers: Doug Eberhardt Mark Eberhardt
-- 2020-07-13 — Episode 10: Awake — speakers: Doug Eberhardt Mark Eberhardt
-- 2020-06-29 — Episode 9: Before — speakers: Doug Eberhardt Mark Eberhardt
-- 2020-06-15 — Episode 8: New Chapter — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-06-01 — Episode 7: Time — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-05-18 — Episode 6: Touch — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
-- 2020-05-04 — Episode 5: Negative Emotions — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt, Jonathan Stroud, Garth Nix, Stephen King
-- 2020-04-20 — Episode 4: Memories — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt, Jonathan Stroud, Garth Nix, Stephen King
-- 2020-04-06 — Episode 3: Dissonance — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt, Jonathan Stroud, Garth Nix, Stephen King
-- 2020-03-30 — Episode 2: Ghost Story — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhard
-- 2020-03-23 — Episode 1: Sunlamps — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhard
-- 2020-02-19 — The Otherplace Season 1 Trailer — speakers: Mary Frances Miller Peck, Nikki Smetters Marda, Sarah Joy Mark Eberhardt
+- 2022-12-26 — Episode 47: The Shape of Things to Come
+- 2022-12-12 — Episode 46: The Journey
+- 2022-11-28 — Episode 45: Death, a Ringing Bell
+- 2022-11-14 — Episode 44: Chrysoberyl
+- 2022-10-31 — Episode 43: The Seven Rivers
+- 2022-10-17 — Episode 42: The Quartermaster
+- 2022-10-03 — Episode 41: Where the Rivers Flow Under the Hill
+- 2022-09-19 — Episode 40: The White Wasp
+- 2022-09-05 — Episode 39: Between Silver & Steel
+- 2022-08-22 — Episode 38: Black Fire
+- 2022-08-08 — Episode 37: A Strange Treasure, An Unexpected Meeting
+- 2022-07-25 — Episode 36: Tales from the White Library
+- 2022-07-11 — Episode 35: In The Quiet Maze
+- 2022-06-27 — Episode 34: White Cloaks, Dark Clouds — speakers: Dark Clouds
+- 2022-06-13 — Episode 33: Water & Fire — speakers: Fire Welcome
+- 2022-02-21 — Episode 32: Protector
+- 2022-02-07 — Episode 31: Nicholas
+- 2022-01-24 — Episode 30: An Awakening
+- 2022-01-10 — Episode 29: Smoke on the Horizon — speakers: Horizon Welcome
+- 2021-12-13 — Episode 28: A Silent Whisper — speakers: Silent Whisper Welcome
+- 2021-11-29 — Episode 27: A Confluence of Necromancers
+- 2021-11-15 — Episode 26: In the Temple of the Ferriers
+- 2021-11-01 — Episode 25: Death & Dark Water
+- 2021-10-25 — Episode 24: Of the Earth
+- 2021-10-18 — Episode 23: Hearth & Home
+- 2021-10-11 — Episode 22: Hot Air
+- 2021-10-04 — Episode 21: Clashing Swords
+- 2021-10-01 — Bonus Episode 1: Conductor & Conductor
+- 2021-09-20 — Episode 20: A Warning and A Way Out
+- 2021-09-06 — Episode 19: Silver Bell
+- 2021-08-23 — Episode 18: On the Road Again
+- 2021-08-09 — Episode 17: Go East
+- 2021-07-26 — Episode 16: Vision & Voice
+- 2021-07-12 — Episode 15: Silver & Steel
+- 2021-06-28 — Episode 14: Riddles & Gifts
+- 2021-06-14 — Episode 13: Strangers
+- 2021-05-31 — Episode 12: The Battle on the Riverbed
+- 2021-05-17 — Episode 11: Shapes in the Fog
+- 2021-05-03 — Episode 10: Ice on the Ground
+- 2021-04-19 — Episode 9: Wolves in the Wood
+- 2021-04-05 — Episode 8: The Other
+- 2021-03-22 — Episode 7: The Wind in the Flowers
+- 2021-03-08 — Episode 6: On the Road
+- 2021-02-22 — Episode 5: Conductor — speakers: Conductor Welcome
+- 2021-02-08 — Episode 4: Black Water — speakers: Black Water Welcome
+- 2021-01-25 — Episode 3: Fire — speakers: Fire Welcome
+- 2021-01-11 — Episode 2: White Cloaks
+- 2021-01-11 — Episode 1: The Ghost Jar
+- 2021-01-01 — The Otherplace Season 2 Trailer
+- 2020-11-02 — Episode 20: Syzygy
+- 2020-10-19 — Episode 19: Reunion — speakers: Reunion Welcome
+- 2020-10-05 — Episode 18: Teeth
+- 2020-09-21 — Episode 17: Barriers
+- 2020-09-07 — Episode 16: Circles
+- 2020-08-31 — Episode 15: Passage
+- 2020-08-24 — Episode 14: Homecoming
+- 2020-08-17 — Episode 13: Histories
+- 2020-08-10 — Episode 12: Iron and Bone
+- 2020-07-27 — Episode 11: A Crack — speakers: Crack Welcome
+- 2020-07-13 — Episode 10: Awake
+- 2020-06-29 — Episode 9: Before
+- 2020-06-15 — Episode 8: New Chapter
+- 2020-06-01 — Episode 7: Time
+- 2020-05-18 — Episode 6: Touch
+- 2020-05-04 — Episode 5: Negative Emotions
+- 2020-04-20 — Episode 4: Memories
+- 2020-04-06 — Episode 3: Dissonance
+- 2020-03-30 — Episode 2: Ghost Story
+- 2020-03-23 — Episode 1: Sunlamps
+- 2020-02-19 — The Otherplace Season 1 Trailer

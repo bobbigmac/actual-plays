@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"f1ce7a5052efa2e4da711e11ff339d2c"`
-- last_modified: `Thu, 19 Feb 2026 13:00:21 GMT`
+- fetched_at: `2026-02-24T13:46:01+00:00`
+- checked_at: `2026-02-24T13:46:01+00:00`
+- etag: `"378266f499ae35d5934c439b7cc0e934"`
+- last_modified: `Tue, 24 Feb 2026 13:00:21 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T13:46:01+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -36,6 +36,64 @@
   ],
   "episodes": [
     {
+      "key": "9fd0efaecbbfc513e9e07ceacb3327855e92cd36",
+      "title": "Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 2",
+      "published_at": "2026-02-24T13:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 The Seekers take to the skies via an eagle ally, bonding in the clouds as they head to the home of the Barrowguard... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Dol-Makjar art by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas HEALTH & WELL-BEING Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/6fc700a6-76df-4e98-a2ca-6adc55fa5b5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=6fc700a6-76df-4e98-a2ca-6adc55fa5b5a&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123838315",
+      "itunes_duration": "02:08:46",
+      "speakers": [
+        "Castle Torch",
+        "Critical Role",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "flight",
+        "castle",
+        "torch",
+        "critical",
+        "role",
+        "campaign"
+      ]
+    },
+    {
+      "key": "5102c67a98a6a683ed4dc5286d4bbd7acca3198e",
+      "title": "Kingdom Come: Deliverance II One-Shot",
+      "published_at": "2026-02-24T13:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "This one-shot is sponsored by Warhorse Studios and their game, “Kingdom Come: Deliverance II” Experience the ultimate medieval adventure of #KCD2. A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. https://gsght.com/c/89ghuc Game Master George Primaver leads players Ashley Johnson, Deborah Ann Woll, Gina DeVivo, Nick Marini, and Liam McIntyre through the tribulations of 15th century Kuttenburg in this KCD2 inspired adventure. CAST George Primavera - Game Master Ashley Johnson - Isolde \"Izzy\" Brooker Deborah Ann Woll - Sister Agatha \"Aggie\" Gina DeVivo - Fritz Bergmann Nick Marini - Dillon Liam McIntyre - Big Hans CREDITS Character Art: Hannah Friederichs || https://www.instagram.com/agarthanguide Graphics: Christian Brown || https://ctbgraphics.com Set Design & Fabrication: Noxwiler Burf || https://www.instagram.com/eatenbypotchky Mini Painting: Payton Keo Lacebal || https://www.instagram.com/paytonkeoart BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/ https://www.twitch.tv/criticalrole Follow us! Website: https://www.critrole.com Newsletter: https://critrole.com/newsletter Facebook: https://www.facebook.com/criticalrole Twitter: https://x.com/criticalrole Instagram: https://www.instagram.com/critical_role TikTok: https://www.tiktok.com/@criticalrole Twitch: https://www.twitch.tv/criticalrole #KCD2 #KingdomComeDeliverance #Sponsored Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/7fa9d810-46ea-45c1-8999-0d4a5b957d90/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=7fa9d810-46ea-45c1-8999-0d4a5b957d90&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "225936432",
+      "itunes_duration": "03:44:02",
+      "speakers": [
+        "Kingdom Come",
+        "Warhorse Studios",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "kingdom",
+        "come",
+        "deliverance",
+        "shot"
+      ]
+    },
+    {
       "key": "843dfa54bc773e64f5bf3d0267c4876e2770e3de",
       "title": "Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 1",
       "published_at": "2026-02-19T13:00:00+00:00",
@@ -47,18 +105,14 @@
       "enclosure_length": "80853806",
       "itunes_duration": "01:23:45",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Castle Torch",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "flight",
@@ -81,18 +135,14 @@
       "enclosure_length": "106703100",
       "itunes_duration": "01:50:49",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "bridge",
@@ -113,18 +163,14 @@
       "enclosure_length": "95862056",
       "itunes_duration": "01:39:17",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "bridge",
@@ -145,18 +191,14 @@
       "enclosure_length": "85772894",
       "itunes_duration": "01:29:11",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "sanctuary",
@@ -177,18 +219,14 @@
       "enclosure_length": "114486427",
       "itunes_duration": "01:58:42",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "sanctuary",
@@ -210,17 +248,13 @@
       "itunes_duration": "01:19:10",
       "speakers": [
         "Lord Einfasen",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "giant",
@@ -242,18 +276,14 @@
       "enclosure_length": "122756666",
       "itunes_duration": "02:07:04",
       "speakers": [
-        "Lord Einfasen",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "giant",
@@ -278,13 +308,9 @@
         "Whitney Moore",
         "Brennan Lee Mulligan",
         "Laura Bailey",
-        "Robbie Daymond",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Tale Gate",
-        "Fireside Chats",
         "Matthew Mercer",
         "Marisha Ray",
+        "Travis Willingham",
         "Liam O'Brien",
         "Taliesin Jaffe"
       ],
@@ -305,18 +331,14 @@
       "enclosure_length": "121091335",
       "itunes_duration": "02:06:07",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "merry",
@@ -337,18 +359,14 @@
       "enclosure_length": "77818347",
       "itunes_duration": "01:21:03",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "merry",
@@ -370,17 +388,13 @@
       "itunes_duration": "01:19:19",
       "speakers": [
         "Castle Delawney",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "blood",
@@ -402,17 +416,13 @@
       "itunes_duration": "02:01:51",
       "speakers": [
         "Castle Delawney",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "blood",
@@ -433,18 +443,14 @@
       "enclosure_length": "89242010",
       "itunes_duration": "01:32:57",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "hounds",
@@ -465,18 +471,14 @@
       "enclosure_length": "49509555",
       "itunes_duration": "00:51:34",
       "speakers": [
-        "Little Sparrow",
-        "Sam Riegel",
-        "Liam O'Brien",
-        "Taylor Burke Sound Design",
-        "Max Schapiro",
-        "Aaron Monroy",
-        "Kirby Winslow",
-        "William Lamborn",
+        "Sky Tonight",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "rest",
@@ -498,18 +500,14 @@
       "enclosure_length": "144789204",
       "itunes_duration": "02:30:49",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "hounds",
@@ -530,18 +528,14 @@
       "enclosure_length": "83329559",
       "itunes_duration": "01:26:47",
       "speakers": [
-        "Casimir Gavendale",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
+        "Fanged Revenge",
+        "Critical Role",
+        "Castle Sloke",
+        "Baron Casim",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey"
       ],
       "topics": [
         "revenge",
@@ -562,18 +556,14 @@
       "enclosure_length": "160377409",
       "itunes_duration": "02:47:03",
       "speakers": [
-        "Casimir Gavendale",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
+        "Fanged Revenge",
+        "Critical Role",
+        "Castle Sloke",
+        "Baron Casim",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey"
       ],
       "topics": [
         "revenge",
@@ -594,18 +584,14 @@
       "enclosure_length": "93204681",
       "itunes_duration": "01:37:05",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "scent",
@@ -626,12 +612,8 @@
       "enclosure_length": "102457880",
       "itunes_duration": "01:46:43",
       "speakers": [
-        "Shaun Ellis Set",
-        "Taylor Ash",
-        "Lindsay Dills",
-        "Jennifer Newman Lollipop Bouquet",
-        "Abbie Strausser Lollipop Bouquet",
-        "DeYoung Fjord",
+        "Critical Role",
+        "Radio City Music Hall",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -662,18 +644,14 @@
       "enclosure_length": "128213778",
       "itunes_duration": "02:13:33",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "scent",
@@ -694,18 +672,14 @@
       "enclosure_length": "144028100",
       "itunes_duration": "02:30:01",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "knife",
@@ -727,12 +701,8 @@
       "enclosure_length": "130390927",
       "itunes_duration": "02:15:49",
       "speakers": [
-        "Shaun Ellis Set",
-        "Taylor Ash",
-        "Lindsay Dills",
-        "Jennifer Newman Lollipop Bouquet",
-        "Abbie Strausser Lollipop Bouquet",
-        "DeYoung Fjord",
+        "Critical Role",
+        "Radio City Music Hall",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -763,18 +733,14 @@
       "enclosure_length": "108616090",
       "itunes_duration": "01:53:08",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "knife",
@@ -796,18 +762,14 @@
       "enclosure_length": "106313136",
       "itunes_duration": "01:50:44",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Branching Paths",
+        "Critical Role Campaign",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "paths",
@@ -828,18 +790,14 @@
       "enclosure_length": "95289043",
       "itunes_duration": "01:39:15",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Branching Paths",
+        "Critical Role Campaign",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "paths",
@@ -860,15 +818,11 @@
       "enclosure_length": "231790707",
       "itunes_duration": "04:00:50",
       "speakers": [
-        "Jasmine Bhullar",
-        "Laura Bailey",
-        "Travis Willingham",
+        "Dispatch One",
         "Matthew Mercer",
-        "Erin Yvette",
-        "Jasmine Bhullar Game",
-        "Laura Bailey Barbara Honeycut",
-        "Matthew Mercer Damian Blackwell",
         "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
         "Sam Riegel"
@@ -890,18 +844,14 @@
       "enclosure_length": "122379068",
       "itunes_duration": "02:07:28",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "stone",
@@ -923,18 +873,14 @@
       "enclosure_length": "161366299",
       "itunes_duration": "02:48:05",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "stone",
@@ -956,18 +902,14 @@
       "enclosure_length": "167386585",
       "itunes_duration": "02:54:21",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "snipping",
@@ -989,18 +931,14 @@
       "enclosure_length": "104754566",
       "itunes_duration": "01:49:06",
       "speakers": [
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "snipping",
@@ -1024,16 +962,12 @@
       "speakers": [
         "Broken Wing",
         "Spooky Season",
-        "Thjazi Fang",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "wing",
@@ -1056,16 +990,12 @@
       "speakers": [
         "Broken Wing",
         "Spooky Season",
-        "Thjazi Fang",
-        "Fireside Chats",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "wing",
@@ -1087,17 +1017,13 @@
       "itunes_duration": "02:02:33",
       "speakers": [
         "Thjazi Fang",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "fall",
@@ -1121,17 +1047,13 @@
       "itunes_duration": "02:07:35",
       "speakers": [
         "Thjazi Fang",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "fall",
@@ -1156,16 +1078,12 @@
       "speakers": [
         "Matthew Mercer",
         "Ashley Johnson",
-        "Stacy Keanan",
-        "Will Friedle",
-        "Christine Lakin",
-        "Rider Strong",
-        "Jodie Sweetin",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "goodness",
@@ -1189,16 +1107,12 @@
       "speakers": [
         "Matthew Mercer",
         "Ashley Johnson",
-        "Stacy Keanan",
-        "Will Friedle",
-        "Christine Lakin",
-        "Rider Strong",
-        "Jodie Sweetin",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "goodness",
@@ -1220,17 +1134,14 @@
       "enclosure_length": "121796433",
       "itunes_duration": "02:06:52",
       "speakers": [
-        "Robbie Daymond",
+        "deadly de",
         "Matthew Mercer",
-        "Linda Lithén",
-        "LindaLithen Hosted",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "oaths",
@@ -1251,18 +1162,14 @@
       "enclosure_length": "1723205",
       "itunes_duration": "00:01:44",
       "speakers": [
-        "Thjazi Fang",
-        "Brennan Lee Mulligan",
-        "Laura Bailey",
-        "Thimble Luis Carazo",
-        "Thaisha Lloy",
-        "Ashley Johnson",
-        "Vaelus Matthew Mercer",
-        "Julien Davinos Whitney Moore",
+        "Critical Role Campaign Four",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "critical",
@@ -1283,17 +1190,14 @@
       "enclosure_length": "134013798",
       "itunes_duration": "02:19:35",
       "speakers": [
-        "Robbie Daymond",
+        "deadly de",
         "Matthew Mercer",
-        "Linda Lithén",
-        "LindaLithen Hosted",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "oaths",
@@ -1314,12 +1218,8 @@
       "enclosure_length": "134379093",
       "itunes_duration": "02:19:58",
       "speakers": [
+        "Mighty Nein",
         "Matthew Mercer",
-        "Beauregard Lionett",
-        "Braius Doomseed",
-        "Tom Cardy",
-        "Tom Cardy Character Art",
-        "Hannah Friederichs",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
@@ -1348,12 +1248,8 @@
       "enclosure_length": "99631639",
       "itunes_duration": "01:43:46",
       "speakers": [
+        "Mighty Nein",
         "Matthew Mercer",
-        "Beauregard Lionett",
-        "Braius Doomseed",
-        "Tom Cardy",
-        "Tom Cardy Character Art",
-        "Hannah Friederichs",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
@@ -1382,18 +1278,14 @@
       "enclosure_length": "127799162",
       "itunes_duration": "02:13:07",
       "speakers": [
+        "Mighty Nein",
+        "Bells Hell",
         "Matthew Mercer",
-        "Ashton Greymoore",
-        "Yasha Nydoorin",
-        "Veth Brenatto",
-        "Critical Role",
-        "Tom Cardy",
-        "Tom Cardy Character Art",
-        "Hannah Friederichs",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "team",
@@ -1417,18 +1309,14 @@
       "enclosure_length": "102536457",
       "itunes_duration": "01:46:48",
       "speakers": [
+        "Mighty Nein",
+        "Bells Hell",
         "Matthew Mercer",
-        "Ashton Greymoore",
-        "Yasha Nydoorin",
-        "Veth Brenatto",
-        "Critical Role",
-        "Tom Cardy",
-        "Tom Cardy Character Art",
-        "Hannah Friederichs",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "team",
@@ -1452,15 +1340,14 @@
       "enclosure_length": "69077570",
       "itunes_duration": "01:11:57",
       "speakers": [
+        "Heretic Saint",
+        "Blind Repose",
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "tomb",
@@ -1481,15 +1368,14 @@
       "enclosure_length": "140750883",
       "itunes_duration": "02:26:36",
       "speakers": [
+        "Heretic Saint",
+        "Blind Repose",
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "tomb",
@@ -1511,14 +1397,13 @@
       "itunes_duration": "01:12:11",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "reach",
@@ -1538,14 +1423,13 @@
       "itunes_duration": "01:26:45",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "reach",
@@ -1564,15 +1448,14 @@
       "enclosure_length": "65559190",
       "itunes_duration": "01:08:17",
       "speakers": [
+        "Halcyon Domain",
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "unforgiving",
@@ -1592,15 +1475,14 @@
       "enclosure_length": "122539146",
       "itunes_duration": "02:07:38",
       "speakers": [
+        "Halcyon Domain",
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "unforgiving",
@@ -1621,14 +1503,13 @@
       "itunes_duration": "02:08:34",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "pain",
@@ -1648,14 +1529,13 @@
       "itunes_duration": "01:36:38",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "pain",
@@ -1675,14 +1555,13 @@
       "itunes_duration": "01:29:39",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "rampart",
@@ -1702,14 +1581,13 @@
       "itunes_duration": "01:49:06",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "rampart",
@@ -1729,14 +1607,13 @@
       "itunes_duration": "01:30:13",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "umbra"
@@ -1755,14 +1632,13 @@
       "itunes_duration": "01:25:41",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "umbra"
@@ -1781,14 +1657,13 @@
       "itunes_duration": "01:27:54",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "lost",
@@ -1809,14 +1684,13 @@
       "itunes_duration": "01:48:41",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "lost",
@@ -1837,14 +1711,13 @@
       "itunes_duration": "01:43:55",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "desperloch",
@@ -1864,14 +1737,13 @@
       "itunes_duration": "01:45:21",
       "speakers": [
         "Matthew Mercer",
-        "Ashley Johnson",
-        "Laura Bailey",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Taliesin Jaffe",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "desperloch",
@@ -1890,18 +1762,14 @@
       "enclosure_length": "102859539",
       "itunes_duration": "01:47:08",
       "speakers": [
+        "Critical Role",
         "Matthew Mercer",
-        "Malvolio Contreras",
-        "Robbie Daymond",
-        "Frank Liu",
-        "Matthew Mercer Hosted",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "party",
@@ -1923,18 +1791,14 @@
       "enclosure_length": "127703032",
       "itunes_duration": "02:13:01",
       "speakers": [
+        "Critical Role",
         "Matthew Mercer",
-        "Malvolio Contreras",
-        "Robbie Daymond",
-        "Frank Liu",
-        "Matthew Mercer Hosted",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "party",
@@ -1956,18 +1820,14 @@
       "enclosure_length": "55007401",
       "itunes_duration": "00:57:17",
       "speakers": [
-        "Matt Linton",
-        "Jacqueline Emerson",
-        "Jasper William Cartwright",
-        "Candela Obscura",
-        "Rán Boer",
-        "Emily Wodsworth",
-        "Daemon Adams",
-        "Jane Douglas",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "thresher",
@@ -1988,18 +1848,14 @@
       "enclosure_length": "39256234",
       "itunes_duration": "00:40:52",
       "speakers": [
-        "Matt Linton",
-        "Jacqueline Emerson",
-        "Jasper William Cartwright",
-        "Candela Obscura",
-        "Rán Boer",
-        "Emily Wodsworth",
-        "Daemon Adams",
-        "Jane Douglas",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "thresher",
@@ -2020,18 +1876,14 @@
       "enclosure_length": "72181359",
       "itunes_duration": "01:15:10",
       "speakers": [
-        "Matt Linton",
-        "Jacqueline Emerson",
-        "Jasper William Cartwright",
-        "Candela Obscura",
-        "Rán Boer",
-        "Emily Wodsworth",
-        "Daemon Adams",
-        "Jane Douglas",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "thresher",
@@ -2080,18 +1932,14 @@
       "enclosure_length": "60203116",
       "itunes_duration": "01:02:41",
       "speakers": [
-        "Matt Linton",
-        "Jacqueline Emerson",
-        "Jasper William Cartwright",
-        "Candela Obscura",
-        "Rán Boer",
-        "Emily Wodsworth",
-        "Daemon Adams",
-        "Jane Douglas",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "thresher",
@@ -2112,7 +1960,6 @@
       "enclosure_length": "92514630",
       "itunes_duration": "01:36:21",
       "speakers": [
-        "Caption Status",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -2140,7 +1987,6 @@
       "enclosure_length": "43404425",
       "itunes_duration": "00:45:12",
       "speakers": [
-        "Caption Status",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -2229,8 +2075,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "campers",
@@ -2257,8 +2102,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "campers",
@@ -2280,12 +2124,11 @@
       "speakers": [
         "Exandria Unlimited",
         "Matthew Mercer",
-        "Travis Willingham",
-        "Liam O'Brien",
-        "Laura Bailey",
-        "Ashley Johnson",
-        "Taliesin Jaffe",
         "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
         "Sam Riegel"
       ],
       "topics": [
@@ -2307,8 +2150,6 @@
       "speakers": [
         "Ashley Johnson",
         "Taliesin Jaffe",
-        "Maxwell James",
-        "Will Lamborn",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -2333,18 +2174,14 @@
       "enclosure_length": "292083454",
       "itunes_duration": "05:04:15",
       "speakers": [
-        "Matthew Master",
-        "Ashley Johnson",
-        "Taliesin Jaffe",
-        "Arin Hanson",
-        "Zeno Robinson",
-        "Zachery Renauldo",
-        "Christian Brown Want",
-        "Konami Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "suikoden",
@@ -2364,17 +2201,13 @@
       "itunes_duration": "05:04:48",
       "speakers": [
         "Exandria Unlimited",
-        "Brennan Lee Mulligan",
         "Matthew Mercer",
-        "Liam O'Brien",
-        "Celia Rose Gooding",
-        "Jasmine Don",
-        "Alex Ward",
-        "Daniel Ehrli",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "heart",
@@ -2394,18 +2227,14 @@
       "enclosure_length": "252817025",
       "itunes_duration": "04:23:20",
       "speakers": [
-        "Brennan Lee Mulligan",
+        "Exandria Unlimited",
         "Matthew Mercer",
-        "Liam O'Brien",
-        "Celia Rose Gooding",
-        "Jasmine Don",
-        "Alex Ward",
-        "Daniel Ehrli",
-        "Hannah Friederichs Due",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "mirror",
@@ -2425,18 +2254,14 @@
       "enclosure_length": "275028628",
       "itunes_duration": "04:46:29",
       "speakers": [
-        "Brennan Lee Mulligan",
+        "Exandria Unlimited",
         "Matthew Mercer",
-        "Liam O'Brien",
-        "Celia Rose Gooding",
-        "Jasmine Don",
-        "Alex Ward",
-        "Daniel Ehrli",
-        "Hannah Friederichs Due",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -2455,14 +2280,10 @@
       "enclosure_length": "287601677",
       "itunes_duration": "04:59:34",
       "speakers": [
+        "Avowed One",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Anjali Bhimani",
-        "SungWon Cho",
-        "Whitney Moore",
-        "Julie Dillon",
-        "Bryan Weiss Hosted",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
@@ -2484,16 +2305,12 @@
       "enclosure_length": "285006150",
       "itunes_duration": "04:56:52",
       "speakers": [
-        "Brennan Lee Mulligan",
+        "Exandria Unlimited",
         "Matthew Mercer",
-        "Liam O'Brien",
-        "Jasmine Don",
-        "Alex Ward",
-        "Daniel Ehrli",
-        "Hannah Friederichs Due",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
+        "Liam O'Brien",
         "Taliesin Jaffe",
         "Sam Riegel"
       ],
@@ -2514,18 +2331,14 @@
       "enclosure_length": "316863835",
       "itunes_duration": "05:30:03",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": []
     },
@@ -2541,18 +2354,14 @@
       "enclosure_length": "164551985",
       "itunes_duration": "02:51:24",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": []
     },
@@ -2568,18 +2377,14 @@
       "enclosure_length": "262587657",
       "itunes_duration": "04:33:31",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": []
     },
@@ -2596,17 +2401,13 @@
       "itunes_duration": "03:47:51",
       "speakers": [
         "Gotham City Chronicles Rpg",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "predathos",
@@ -2627,16 +2428,12 @@
       "speakers": [
         "Creed Shadows One-Shot",
         "Creed Shadows",
-        "Pre-Order Assassin’s Creed Shadows",
+        "Pre-Order Assassin’s Creed Shad",
         "Matthew Mercer",
-        "Emily Piggford",
-        "Robbie Daymond",
-        "Peter Shinkoda",
-        "Liam O'Brien",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe"
+        "Liam O'Brien"
       ],
       "topics": [
         "assassin",
@@ -2657,18 +2454,14 @@
       "enclosure_length": "275885444",
       "itunes_duration": "04:47:22",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "hallowed",
@@ -2692,10 +2485,9 @@
         "Laura Bailey",
         "Liam O’Brien",
         "Sam Riegel",
-        "Taliesin Jaffe",
-        "Ashley Johnson",
         "Marisha Ray",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "critical",
@@ -2722,14 +2514,10 @@
         "Liam O’Brien",
         "Robbie Daymond",
         "Marisha Ray",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel"
+        "Liam O'Brien"
       ],
       "topics": [
         "dive"
@@ -2747,18 +2535,14 @@
       "enclosure_length": "254230145",
       "itunes_duration": "04:24:49",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Ruidian Core Bells Hells",
+        "Hallowed Cage",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "race",
@@ -2778,18 +2562,14 @@
       "enclosure_length": "260650834",
       "itunes_duration": "04:31:30",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "weave",
@@ -2808,18 +2588,14 @@
       "enclosure_length": "240384252",
       "itunes_duration": "04:10:24",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "creonum"
@@ -2837,18 +2613,14 @@
       "enclosure_length": "259466337",
       "itunes_duration": "04:30:16",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Bloody Bridge Vox Machina",
+        "Malleus Key",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "fight",
@@ -2872,8 +2644,6 @@
         "Marisha Ray",
         "Sam Riegel",
         "Laura Bailey",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Travis Willingham",
         "Liam O'Brien",
@@ -2896,18 +2666,14 @@
       "enclosure_length": "276397444",
       "itunes_duration": "04:47:54",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "assault",
@@ -2926,18 +2692,14 @@
       "enclosure_length": "238478516",
       "itunes_duration": "04:08:24",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Legends Bells Hells",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "assembling",
@@ -2956,18 +2718,14 @@
       "enclosure_length": "191222797",
       "itunes_duration": "03:19:11",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "nein",
@@ -2986,18 +2744,14 @@
       "enclosure_length": "69580608",
       "itunes_duration": "01:12:28",
       "speakers": [
-        "Description Tales",
-        "Gustavo Sorola",
-        "Barbara Dunkelman",
-        "Blaine Gibson",
-        "Chris Demarais",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel"
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "feed",
@@ -3021,18 +2775,14 @@
       "enclosure_length": "222936287",
       "itunes_duration": "03:52:13",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "calmer heads",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "shadow"
@@ -3054,14 +2804,10 @@
         "Matthew Mercer",
         "Liam O’Brien",
         "Robbie Daymond",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel"
+        "Liam O'Brien"
       ],
       "topics": [
         "swordguy",
@@ -3080,18 +2826,14 @@
       "enclosure_length": "250179701",
       "itunes_duration": "04:20:36",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "test",
@@ -3110,18 +2852,14 @@
       "enclosure_length": "228093484",
       "itunes_duration": "03:57:35",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Looming Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "looming"
@@ -3140,17 +2878,13 @@
       "itunes_duration": "04:11:45",
       "speakers": [
         "Arch Heart",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "arch",
@@ -3170,17 +2904,13 @@
       "itunes_duration": "03:54:12",
       "speakers": [
         "Unseelie Interrupted",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "unseelie",
@@ -3203,8 +2933,6 @@
         "Marisha Ray",
         "Sam Riegel",
         "Laura Bailey",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Liam O'Brien",
         "Taliesin Jaffe",
@@ -3228,18 +2956,14 @@
       "enclosure_length": "209883002",
       "itunes_duration": "03:38:37",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Collecting Legends Bells Hells",
+        "Platinum Sanctuary",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "collecting",
@@ -3258,18 +2982,14 @@
       "enclosure_length": "241943398",
       "itunes_duration": "04:12:01",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "cradle",
@@ -3288,18 +3008,14 @@
       "enclosure_length": "206287718",
       "itunes_duration": "03:34:52",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "cage"
@@ -3317,18 +3033,14 @@
       "enclosure_length": "222335679",
       "itunes_duration": "03:51:35",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
+        "Reconciliation Bells Hells",
+        "Occultus Thalamus",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "reconciliation"
@@ -3350,13 +3062,10 @@
         "Taliesin Jaffe",
         "Ashley Johnson",
         "Laura Bailey",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien",
-        "Sam Riegel"
+        "Liam O'Brien"
       ],
       "topics": [
         "gods",
@@ -3375,18 +3084,14 @@
       "enclosure_length": "338305141",
       "itunes_duration": "05:52:23",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "downfall"
@@ -3404,18 +3109,14 @@
       "enclosure_length": "220049860",
       "itunes_duration": "03:49:12",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "downfall"
@@ -3433,18 +3134,14 @@
       "enclosure_length": "234057342",
       "itunes_duration": "04:03:48",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "downfall"
@@ -3466,8 +3163,6 @@
         "Matthew Mercer",
         "Taliesin Jaffe",
         "Travis Willingham",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Laura Bailey",
         "Liam O'Brien",
@@ -3491,17 +3186,13 @@
       "itunes_duration": "03:57:51",
       "speakers": [
         "Matthew Mercer",
-        "James Graphic Design",
-        "Michael Schmidt TD",
-        "Chris Willmott",
-        "Rowan Hall",
-        "Alex Teplitz",
-        "Michael Underwood",
-        "Carlos Cisco",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "trois",
@@ -3522,18 +3213,14 @@
       "enclosure_length": "213333674",
       "itunes_duration": "03:42:13",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "Greek Theatre",
+        "Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "engine"
@@ -3551,18 +3238,14 @@
       "enclosure_length": "199561081",
       "itunes_duration": "03:27:52",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "Ancient Sins Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "ancient"
@@ -3585,13 +3268,9 @@
         "Marisha Ray",
         "Matthew Mercer",
         "Dorian Storm",
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
         "Travis Willingham",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "swordgate",
@@ -3610,22 +3289,43 @@
       "enclosure_length": "45866722",
       "itunes_duration": "00:47:45",
       "speakers": [
-        "Nick Williams",
-        "George Primavera",
-        "Jasmine Bhullar",
-        "Jasper William Cartwright",
-        "Caroline Lux",
-        "Jasmine Chiong Created",
-        "Kirby Winslow Logo Art",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "podcast",
         "slayer"
+      ]
+    },
+    {
+      "key": "de12121accf9c02e65fbbd7cf22163045f21ee9e",
+      "title": "C3E96 Shadows New and Old",
+      "published_at": "2024-05-30T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Bells Hells work to fortify their bonds and friendship in the face of darkness before engaging in a whirlwind of travel stops on the way to Aeor... We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join Get unparalleled access to Critical Role with Beacon. Enjoy the shows you love completely ad-free, plus new exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Check out our new podcast The Re-Slayer's Take! After six misfit mercenaries are rejected from the elite monster hunting group, The Slayer’s Take, they band together as The Re-Slayer’s Take, battling supernatural creatures across the rugged continent of Issylra. Watch Critical Role LIVE at The Greek Theatre in Los Angeles on June 15th as Bells Hells gather their courage and their allies to stop Ludinus Da’leth and his planned destruction of the gods. Tickets are on sale now: https://www.ticketmaster.com/event/090060A6C2C9330F Witness the Fairelands come to life May 25th for an immersive Candela Obscura LIVE SHOW at The United Theater on Broadway in Los Angeles! Tickets are on sale now: https://www.axs.com/events/548570/candela-obscura-live-tickets Twitch Subscribers and YouTube Members gain instant access to VODs of our shows like Critical Role, 4-Sided Dive, Candela Obscura, and Exandria Unlimited. But don't worry: broadcasts will be uploaded to YouTube about 36 hours after airing live, with audio-only podcast versions of select shows on your prefferred podcast platform a week following he initial air date. Twitch Subscribers and YouTube Members also gain access to our official custom emote set and subscriber badges. \"\"It's Thursday Night (Critical Role Theme Song)\"\" by Peter Habib and Sam Riegel Original Music by Omar Fadel, Hexany Audio, Ghiya Rushidat, Karam Salem, Neal Acree, and Colm R. McGuinness \"\"Welcome to Marquet\"\" Art Theme by Colm McGuinness Additional Music by Universal Production Music, Epidemic Sounds, and 5 Alarm Character Art by Hannah Friederichs Animated Introduction by Kamille Areopagita, Kevin Areopagita, Mark Adams and Peggy Shi Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/8fa8a671-5933-4c43-b3af-41b024998aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=8fa8a671-5933-4c43-b3af-41b024998aea&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "224052237",
+      "itunes_duration": "03:53:23",
+      "speakers": [
+        "Shadows New",
+        "Old Bells Hells",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "shadows"
       ]
     },
     {
@@ -3641,17 +3341,13 @@
       "itunes_duration": "03:30:54",
       "speakers": [
         "Matthew Mercer",
-        "Kyle Shire",
-        "James Graphic Design",
-        "Michael Schmidt Sound",
-        "Kyle Pham Quickstart",
-        "Character Artwork",
-        "Shaun Ellis",
-        "Rowan Hall",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "menagerie",
@@ -3659,35 +3355,6 @@
         "shot",
         "open",
         "beta"
-      ]
-    },
-    {
-      "key": "de12121accf9c02e65fbbd7cf22163045f21ee9e",
-      "title": "C3E96 Shadows New and Old",
-      "published_at": "2024-05-30T12:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "Bells Hells work to fortify their bonds and friendship in the face of darkness before engaging in a whirlwind of travel stops on the way to Aeor... We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join Get unparalleled access to Critical Role with Beacon. Enjoy the shows you love completely ad-free, plus new exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Check out our new podcast The Re-Slayer's Take! After six misfit mercenaries are rejected from the elite monster hunting group, The Slayer’s Take, they band together as The Re-Slayer’s Take, battling supernatural creatures across the rugged continent of Issylra. Watch Critical Role LIVE at The Greek Theatre in Los Angeles on June 15th as Bells Hells gather their courage and their allies to stop Ludinus Da’leth and his planned destruction of the gods. Tickets are on sale now: https://www.ticketmaster.com/event/090060A6C2C9330F Witness the Fairelands come to life May 25th for an immersive Candela Obscura LIVE SHOW at The United Theater on Broadway in Los Angeles! Tickets are on sale now: https://www.axs.com/events/548570/candela-obscura-live-tickets Twitch Subscribers and YouTube Members gain instant access to VODs of our shows like Critical Role, 4-Sided Dive, Candela Obscura, and Exandria Unlimited. But don't worry: broadcasts will be uploaded to YouTube about 36 hours after airing live, with audio-only podcast versions of select shows on your prefferred podcast platform a week following he initial air date. Twitch Subscribers and YouTube Members also gain access to our official custom emote set and subscriber badges. \"\"It's Thursday Night (Critical Role Theme Song)\"\" by Peter Habib and Sam Riegel Original Music by Omar Fadel, Hexany Audio, Ghiya Rushidat, Karam Salem, Neal Acree, and Colm R. McGuinness \"\"Welcome to Marquet\"\" Art Theme by Colm McGuinness Additional Music by Universal Production Music, Epidemic Sounds, and 5 Alarm Character Art by Hannah Friederichs Animated Introduction by Kamille Areopagita, Kevin Areopagita, Mark Adams and Peggy Shi Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/8fa8a671-5933-4c43-b3af-41b024998aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=8fa8a671-5933-4c43-b3af-41b024998aea&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "224052237",
-      "itunes_duration": "03:53:23",
-      "speakers": [
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "Twitch Subscribers",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey"
-      ],
-      "topics": [
-        "shadows"
       ]
     },
     {
@@ -3702,18 +3369,14 @@
       "enclosure_length": "252612224",
       "itunes_duration": "04:23:08",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "Needs Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "gathering",
@@ -3732,18 +3395,14 @@
       "enclosure_length": "202233210",
       "itunes_duration": "03:30:26",
       "speakers": [
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "Twitch Subscribers",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "Glows Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "fearne",
@@ -3766,10 +3425,6 @@
         "Aimee Carrero",
         "Liam O’Brien",
         "Matthew Mercer",
-        "Darrington Press",
-        "Alex Roberts",
-        "Twitch Subscribers",
-        "Candela Obscura",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
@@ -3791,7 +3446,6 @@
       "enclosure_length": "1423816",
       "itunes_duration": "00:01:28",
       "speakers": [
-        "Follow Beacon",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -3817,18 +3471,14 @@
       "enclosure_length": "225508790",
       "itunes_duration": "03:54:39",
       "speakers": [
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "Twitch Subscribers",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "dire conseq",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "bittersweet",
@@ -3847,18 +3497,14 @@
       "enclosure_length": "245255353",
       "itunes_duration": "04:15:12",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "broken",
@@ -3877,18 +3523,14 @@
       "enclosure_length": "260716063",
       "itunes_duration": "04:31:18",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "true",
@@ -3912,13 +3554,9 @@
         "Liam O’Brien",
         "Laura Bailey",
         "Marisha Ray",
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Travis Willingham",
-        "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Liam O'Brien"
       ],
       "topics": [
         "witch",
@@ -3938,18 +3576,14 @@
       "enclosure_length": "237309535",
       "itunes_duration": "04:06:56",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "Mission Improbable Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "mission",
@@ -3968,18 +3602,14 @@
       "enclosure_length": "196772137",
       "itunes_duration": "03:24:45",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "portents"
@@ -3997,18 +3627,14 @@
       "enclosure_length": "184579372",
       "itunes_duration": "03:12:04",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
+        "themselves cornered",
+        "no way",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "sedition"
@@ -4026,18 +3652,14 @@
       "enclosure_length": "241214668",
       "itunes_duration": "04:11:00",
       "speakers": [
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
-        "YouTube Members",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "arrival",
@@ -4060,11 +3682,10 @@
         "Ashley Johnson",
         "Laura Bailey",
         "Taliesin Jaffe",
-        "Travis Willingham",
         "Marisha Ray",
-        "Sam Riegel",
-        "Liam O’Brien",
-        "Liam O'Brien"
+        "Travis Willingham",
+        "Liam O'Brien",
+        "Sam Riegel"
       ],
       "topics": [
         "role",
@@ -4089,13 +3710,9 @@
         "Taliesin Jaffe",
         "Sam Riegel",
         "Travis Willingham",
-        "Twitch Subscribers",
-        "Candela Obscura",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
-        "Laura Bailey",
-        "Liam O'Brien"
+        "Laura Bailey"
       ],
       "topics": [
         "fetishes",
@@ -4114,18 +3731,14 @@
       "enclosure_length": "217206514",
       "itunes_duration": "03:46:01",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "doorway",
@@ -4146,17 +3759,13 @@
       "itunes_duration": "03:19:49",
       "speakers": [
         "Intense Interrogations",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "intense",
@@ -4175,18 +3784,14 @@
       "enclosure_length": "213315187",
       "itunes_duration": "03:41:58",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "rural",
@@ -4206,17 +3811,13 @@
       "itunes_duration": "03:43:23",
       "speakers": [
         "Ruidus Bells",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Ghiya Rushidat",
-        "Neal Acree",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "ruidus"
@@ -4237,11 +3838,7 @@
         "Laura Bailey",
         "Ashley Johnson",
         "Marisha Ray",
-        "Sam Riegel",
-        "Abubakar Salim",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
+        "Sam Rie",
         "Matthew Mercer",
         "Travis Willingham",
         "Liam O'Brien",
@@ -4263,18 +3860,14 @@
       "enclosure_length": "240825157",
       "itunes_duration": "04:10:36",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
-        "Peggy Shi Due",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "rush",
@@ -4294,18 +3887,14 @@
       "enclosure_length": "197914723",
       "itunes_duration": "03:25:57",
       "speakers": [
+        "Red Moon Bells Hells",
         "Ruby Vanguard",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "moon"
@@ -4324,17 +3913,13 @@
       "itunes_duration": "03:39:25",
       "speakers": [
         "Nana Morri",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "test",
@@ -4353,18 +3938,14 @@
       "enclosure_length": "218032390",
       "itunes_duration": "03:46:53",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
-        "Peggy Shi Due",
+        "Heal Bells Hells",
+        "Fey Realm",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "c3e79"
@@ -4387,13 +3968,9 @@
         "Taliesin Jaffe",
         "Marisha Ray",
         "Matthew Mercer",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Laura Bailey",
         "Liam O'Brien",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "shard",
@@ -4413,18 +3990,14 @@
       "enclosure_length": "143836887",
       "itunes_duration": "02:29:40",
       "speakers": [
+        "Critical Role Foundation One",
+        "Benefit Red Nose Day",
+        "Critical Role Foundation",
+        "Red Nose Day",
         "Matthew Mercer",
-        "Laura Bailey",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Sam Richardson",
-        "Tony Hale",
-        "Annalise Jensen",
-        "Exandria Unlimited",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien",
-        "Ashley Johnson"
+        "Laura Bailey"
       ],
       "topics": [
         "adventure",
@@ -4449,17 +4022,13 @@
       "itunes_duration": "04:00:16",
       "speakers": [
         "Persona Tactica",
-        "Nintendo Switch",
-        "Liam O'Brien",
-        "Robbie Daymond",
-        "Xanthe Huynh",
-        "Krystina Arielle",
-        "Jared Goldstein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "persona",
@@ -4479,18 +4048,14 @@
       "enclosure_length": "214318039",
       "itunes_duration": "03:43:01",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
-        "Peggy Shi Due",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "fracture"
@@ -4508,18 +4073,14 @@
       "enclosure_length": "248276874",
       "itunes_duration": "04:18:21",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
-        "Peggy Shi Due",
+        "Price Bells Hells",
+        "Whitestone Castle",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "promise",
@@ -4542,9 +4103,6 @@
         "Taliesin Jaffe",
         "Matthew Mercer",
         "Travis Willingham",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Laura Bailey",
         "Liam O'Brien",
@@ -4569,18 +4127,14 @@
       "enclosure_length": "259251572",
       "itunes_duration": "04:29:44",
       "speakers": [
-        "Exandria Unlimited",
-        "Kamille Areopagita",
-        "Kevin Areopagita Character Art",
-        "Hannah Friederichs",
-        "ErenAngiolini Mini",
-        "Daniel Ehrli",
-        "WizKids Mini",
-        "Tyler Walpole Mini",
+        "Apogee Solstice",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "mighty",
@@ -4603,18 +4157,14 @@
       "enclosure_length": "220254607",
       "itunes_duration": "03:48:33",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Animated Introduction",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Mark Adams",
-        "Peggy Shi Due",
+        "Heroes Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "gathering",
@@ -4634,10 +4184,6 @@
       "itunes_duration": "03:45:13",
       "speakers": [
         "Ancient Flame",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4664,10 +4210,6 @@
       "itunes_duration": "03:35:36",
       "speakers": [
         "Roots Between Worlds",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4696,15 +4238,11 @@
         "Ashley Johnson",
         "Liam O’Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Nobody Explodes",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Laura Bailey"
+        "Laura Bailey",
+        "Liam O'Brien"
       ],
       "topics": [
         "night",
@@ -4725,15 +4263,14 @@
       "enclosure_length": "56623985",
       "itunes_duration": "00:58:53",
       "speakers": [
-        "Christian Navarro",
-        "Laura Bailey",
-        "Taliesin Jaffe",
-        "Ashley Johnson",
+        "Rose City Comic Con",
+        "Critical Role",
         "Matthew Mercer",
-        "Liam O'Brien",
         "Marisha Ray",
-        "Sam Riegel",
-        "Travis Willingham"
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "rose",
@@ -4753,10 +4290,6 @@
       "enclosure_length": "245222877",
       "itunes_duration": "04:14:12",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4786,15 +4319,11 @@
         "Mortal Kombat One-Shot",
         "Gamemaster Marisha Ray",
         "Mortal Kombat",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Gina Darling",
-        "Nintendo Switch",
-        "Marisha Ray",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Liam O'Brien"
       ],
       "topics": [
         "mortal",
@@ -4817,10 +4346,6 @@
       "itunes_duration": "03:42:09",
       "speakers": [
         "Phantasmal Parley",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4846,10 +4371,6 @@
       "enclosure_length": "236109550",
       "itunes_duration": "04:04:54",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4880,10 +4401,6 @@
         "Matthew Mercer",
         "Sam Riegel",
         "Marisha Ray",
-        "Gang Beasts",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Travis Willingham",
         "Liam O'Brien",
         "Taliesin Jaffe",
@@ -4906,10 +4423,6 @@
       "itunes_duration": "04:25:00",
       "speakers": [
         "Imahara Joe",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4934,10 +4447,6 @@
       "enclosure_length": "219110223",
       "itunes_duration": "03:47:06",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4963,10 +4472,6 @@
       "enclosure_length": "208584015",
       "itunes_duration": "03:36:12",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -4992,10 +4497,6 @@
       "enclosure_length": "266991653",
       "itunes_duration": "04:37:00",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5025,14 +4526,11 @@
         "Travis Willingham",
         "Sam Riegel",
         "Matthew Mercer",
-        "Taliesin Jaffe",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
+        "Taliesin Jaffe dis",
         "Marisha Ray",
         "Laura Bailey",
         "Liam O'Brien",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "matthew",
@@ -5051,10 +4549,6 @@
       "enclosure_length": "261172906",
       "itunes_duration": "04:31:11",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5080,10 +4574,6 @@
       "enclosure_length": "228597481",
       "itunes_duration": "03:57:21",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5110,18 +4600,14 @@
       "enclosure_length": "121004591",
       "itunes_duration": "02:01:39",
       "speakers": [
-        "Utkarsh Ambudkar",
-        "Emily Axford",
-        "Aimee Carrero",
-        "Taliesin Jaffe",
-        "Liam O’Brien",
-        "Marisha Ray",
-        "Exandria Unlimited",
-        "Peter Habib",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "special",
@@ -5140,10 +4626,6 @@
       "enclosure_length": "237914161",
       "itunes_duration": "04:07:02",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5170,10 +4652,6 @@
       "enclosure_length": "226652216",
       "itunes_duration": "03:55:51",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5199,18 +4677,14 @@
       "enclosure_length": "206556725",
       "itunes_duration": "03:34:56",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
+        "Long Walk",
+        "Reflection Team Issylra",
+        "Demithore Valley",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "long",
@@ -5230,18 +4704,14 @@
       "enclosure_length": "273693117",
       "itunes_duration": "04:43:55",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
+        "Faith Team Issylra",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "crisis",
@@ -5262,16 +4732,12 @@
       "speakers": [
         "Laura Bailey",
         "Ashley Johnson",
-        "Team Wildemount",
-        "Liam O’Brien",
-        "Marisha Ray",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "wrong",
@@ -5292,10 +4758,6 @@
       "enclosure_length": "235720263",
       "itunes_duration": "04:04:31",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5322,13 +4784,9 @@
       "enclosure_length": "280339355",
       "itunes_duration": "04:51:17",
       "speakers": [
+        "Zelda One",
         "Matthew Mercer",
-        "Emily Axford",
-        "Omar Najam",
-        "Robbie Daymond",
-        "Liam O’Brien",
         "Marisha Ray",
-        "Bryan Weiss",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
@@ -5354,18 +4812,14 @@
       "enclosure_length": "230652667",
       "itunes_duration": "03:59:15",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
+        "Somewhere Out There Orym",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "c3e59",
@@ -5390,13 +4844,9 @@
         "Christian Navarro",
         "Sam Riegel",
         "Travis Willingham",
-        "Team Wildemount",
-        "Exandria Unlimited",
-        "Peter Habib",
         "Matthew Mercer",
         "Marisha Ray",
-        "Laura Bailey",
-        "Liam O'Brien"
+        "Laura Bailey"
       ],
       "topics": [
         "things",
@@ -5416,10 +4866,6 @@
       "itunes_duration": "03:55:17",
       "speakers": [
         "Team Wildemount",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5445,10 +4891,6 @@
       "enclosure_length": "198866946",
       "itunes_duration": "03:26:31",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5476,10 +4918,6 @@
       "itunes_duration": "03:55:32",
       "speakers": [
         "Team Wildemount",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5506,10 +4944,6 @@
       "itunes_duration": "03:23:50",
       "speakers": [
         "Team Wildemount",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5537,10 +4971,6 @@
       "speakers": [
         "Treacherous Toys",
         "Team Wildemount",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5566,10 +4996,6 @@
       "itunes_duration": "03:51:10",
       "speakers": [
         "Wildemount half",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5594,17 +5020,13 @@
       "enclosure_length": "106728776",
       "itunes_duration": "01:51:03",
       "speakers": [
-        "Ashley Johnson",
-        "Taliesin Jaffe",
-        "Liam O’Brien",
-        "Marisha Ray",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
+        "Ashley Johnso",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
+        "Taliesin Jaffe",
         "Sam Riegel"
       ],
       "topics": [
@@ -5623,10 +5045,6 @@
       "enclosure_length": "206964472",
       "itunes_duration": "03:34:45",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5653,18 +5071,14 @@
       "enclosure_length": "259339139",
       "itunes_duration": "04:28:53",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
+        "Ruby Vanguard",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "apogee",
@@ -5683,10 +5097,6 @@
       "enclosure_length": "213132219",
       "itunes_duration": "03:41:00",
       "speakers": [
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Hosted",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5712,18 +5122,14 @@
       "enclosure_length": "281202798",
       "itunes_duration": "04:52:01",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Hellcatch Valley",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "aurora"
@@ -5741,18 +5147,14 @@
       "enclosure_length": "217816123",
       "itunes_duration": "03:46:39",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Bells Hells",
+        "Fey Realm",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "exit",
@@ -5771,18 +5173,14 @@
       "enclosure_length": "242808277",
       "itunes_duration": "04:11:13",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Fey Realm",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": []
     },
@@ -5800,10 +5198,6 @@
       "speakers": [
         "Fey Realm",
         "Nana Morri",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5830,10 +5224,6 @@
       "itunes_duration": "03:25:03",
       "speakers": [
         "Ominous Lectures",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5860,10 +5250,6 @@
       "itunes_duration": "03:40:57",
       "speakers": [
         "Bells Hells",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5894,10 +5280,6 @@
         "Liam O’Brien",
         "Sam Riegel",
         "Travis Willingham",
-        "Will Sam",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Marisha Ray",
         "Laura Bailey",
@@ -5921,10 +5303,6 @@
       "itunes_duration": "04:00:39",
       "speakers": [
         "Axiom Shaken",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -5950,18 +5328,14 @@
       "enclosure_length": "213720138",
       "itunes_duration": "03:41:14",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Flowing Light Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "city",
@@ -5980,10 +5354,6 @@
       "enclosure_length": "233363969",
       "itunes_duration": "04:01:59",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6013,10 +5383,6 @@
         "Taliesin Jaffe",
         "Matthew Mercer",
         "Liam O’Brien",
-        "cozy pajamas",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Travis Willingham",
         "Liam O'Brien",
@@ -6040,18 +5406,14 @@
       "enclosure_length": "307750835",
       "itunes_duration": "05:07:45",
       "speakers": [
-        "Exandria Unlimited",
-        "Character Art",
-        "Ariana Orner",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Sam Riegel",
-        "Original Music",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "mighty",
@@ -6071,18 +5433,14 @@
       "enclosure_length": "260228879",
       "itunes_duration": "04:19:38",
       "speakers": [
-        "Exandria Unlimited",
-        "Character Art",
-        "Ariana Orner",
-        "Kamille Areopagita",
-        "Kevin Areopagita",
-        "Sam Riegel",
-        "Original Music",
+        "Unfinished Business Picking",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "mighty",
@@ -6104,10 +5462,6 @@
       "enclosure_length": "217460497",
       "itunes_duration": "03:45:46",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6133,18 +5487,14 @@
       "enclosure_length": "215773465",
       "itunes_duration": "03:43:53",
       "speakers": [
-        "Laura Bailey",
-        "Aimee Carrero",
-        "Christian Navarro",
-        "Liam O’Brien",
-        "Lou Wilson",
-        "Sam Riegel",
-        "Character Art",
-        "Justyna Rerak",
+        "Generation Nord One",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "generation",
@@ -6164,10 +5514,6 @@
       "enclosure_length": "195260572",
       "itunes_duration": "03:22:19",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6198,9 +5544,6 @@
         "Matthew Mercer",
         "Marisha Ray",
         "Sam Riegel",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
@@ -6222,10 +5565,6 @@
       "enclosure_length": "243657903",
       "itunes_duration": "04:12:29",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6252,18 +5591,14 @@
       "enclosure_length": "230510451",
       "itunes_duration": "03:58:53",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Boughs Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "bough"
@@ -6281,18 +5616,14 @@
       "enclosure_length": "239081055",
       "itunes_duration": "04:07:41",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Desperate Call Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "c3e36",
@@ -6312,16 +5643,13 @@
       "itunes_duration": "01:31:50",
       "speakers": [
         "Laura Bailey",
+        "Matthew Merce",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "scary",
@@ -6340,10 +5668,6 @@
       "enclosure_length": "256349409",
       "itunes_duration": "04:26:45",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6370,10 +5694,6 @@
       "enclosure_length": "203982026",
       "itunes_duration": "03:31:45",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6399,10 +5719,6 @@
       "enclosure_length": "219420786",
       "itunes_duration": "03:47:52",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6434,13 +5750,9 @@
         "Liam O'Brien",
         "Marisha Ray",
         "Sam Riegel",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Travis Willingham",
-        "Laura Bailey",
-        "Taliesin Jaffe"
+        "Laura Bailey"
       ],
       "topics": [
         "liam",
@@ -6461,18 +5773,14 @@
       "enclosure_length": "256306982",
       "itunes_duration": "04:26:13",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "former friendships",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "stage"
@@ -6491,10 +5799,6 @@
       "itunes_duration": "03:44:40",
       "speakers": [
         "Breaking Point",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6520,18 +5824,14 @@
       "enclosure_length": "200379063",
       "itunes_duration": "03:27:35",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Revelation Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "reunion",
@@ -6554,14 +5854,10 @@
         "Taliesin Jaffe",
         "Ashley Johnson",
         "Matthew Mercer",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Sam Riegel"
+        "Liam O'Brien"
       ],
       "topics": [
         "dusk",
@@ -6582,10 +5878,6 @@
       "enclosure_length": "200568183",
       "itunes_duration": "03:28:15",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6612,10 +5904,6 @@
       "enclosure_length": "249902486",
       "itunes_duration": "04:19:28",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6641,18 +5929,14 @@
       "enclosure_length": "222375685",
       "itunes_duration": "03:50:53",
       "speakers": [
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Prize Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "race",
@@ -6672,15 +5956,13 @@
       "itunes_duration": "01:51:05",
       "speakers": [
         "Exandria Unlimited",
-        "Critter Hug",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -6702,10 +5984,6 @@
       "itunes_duration": "04:01:13",
       "speakers": [
         "Hidden Truths",
-        "Peter Habib",
-        "Sam Riegel Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -6734,14 +6012,10 @@
         "Aabria Iyengar",
         "Marisha Ray",
         "Laura Bailey",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Travis Willingham",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "independent",
@@ -6762,17 +6036,14 @@
       "enclosure_length": "245577949",
       "itunes_duration": "04:14:58",
       "speakers": [
-        "Sam Riegel",
-        "Peter Habib Original Music",
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Dorei Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "taste"
@@ -6793,15 +6064,11 @@
         "Matthew Mercer",
         "Aabria Iyengar",
         "Brennan Lee Mulligan",
-        "Exandria Unlimited",
-        "Critter Hug",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "game",
@@ -6822,18 +6089,14 @@
       "enclosure_length": "214365095",
       "itunes_duration": "03:40:34",
       "speakers": [
-        "Marisha Ray",
-        "Laura Bailey",
+        "Familiar Problem",
+        "Incredible Journey",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
-        "Isabella Roland",
-        "Caption Status",
-        "Grant Howitt",
-        "Mariana DiMercurio",
+        "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "problem",
@@ -6854,18 +6117,14 @@
       "enclosure_length": "344436097",
       "itunes_duration": "05:57:55",
       "speakers": [
-        "Brennan Lee Mulligan",
-        "Luis Carazo",
-        "Aabria Iyengar",
-        "Marisha Ray",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Lou Wilson",
-        "Hannah Friederichs Stained",
+        "running out",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "fire",
@@ -6887,18 +6146,14 @@
       "enclosure_length": "301400102",
       "itunes_duration": "05:13:14",
       "speakers": [
-        "Brennan Lee Mulligan",
-        "Luis Carazo",
-        "Aabria Iyengar",
-        "Marisha Ray",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Lou Wilson",
-        "Hannah Friederichs Stained",
+        "corruption runs",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "blood",
@@ -6924,10 +6179,6 @@
         "Liam O’Brien",
         "Travis Willingham",
         "Matthew Mercer",
-        "Exploding Kittens",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Marisha Ray",
         "Laura Bailey",
         "Liam O'Brien",
@@ -6951,18 +6202,14 @@
       "enclosure_length": "259695024",
       "itunes_duration": "04:29:46",
       "speakers": [
-        "Brennan Lee Mulligan",
-        "Luis Carazo",
-        "Aabria Iyengar",
-        "Marisha Ray",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Lou Wilson",
-        "Hannah Friederichs Stained",
+        "Exandria Unlimited",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "bitterness",
@@ -6984,18 +6231,14 @@
       "enclosure_length": "233458098",
       "itunes_duration": "04:02:23",
       "speakers": [
-        "Brennan Lee Mulligan",
-        "Luis Carazo",
-        "Aabria Iyengar",
-        "Marisha Ray",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Lou Wilson",
-        "Hannah Friederichs Stained",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "exandria",
@@ -7015,8 +6258,6 @@
       "enclosure_length": "217306690",
       "itunes_duration": "03:45:38",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -7043,8 +6284,6 @@
       "enclosure_length": "237337912",
       "itunes_duration": "04:06:11",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -7068,8 +6307,6 @@
       "enclosure_length": "243397525",
       "itunes_duration": "04:12:36",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -7100,9 +6337,6 @@
         "Taliesin Jaffe",
         "Liam O'Brien",
         "Sam Riegel",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -7128,15 +6362,12 @@
       "speakers": [
         "Stephen Colbert",
         "Matthew Mercer",
-        "Ashley Johnson",
         "Marisha Ray",
-        "Sam Riegel",
-        "avatarkasia Due",
-        "Exandria Unlimited",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "dignity",
@@ -7161,16 +6392,14 @@
       "enclosure_length": "211004497",
       "itunes_duration": "03:39:04",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "museum"
@@ -7188,8 +6417,6 @@
       "enclosure_length": "200519251",
       "itunes_duration": "03:28:01",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -7216,16 +6443,14 @@
       "enclosure_length": "218734367",
       "itunes_duration": "03:47:01",
       "speakers": [
-        "Hannah Friederichs Twitch",
-        "Exandria Unlimited",
+        "Omens Above Newly",
+        "Heartmoor Hamlet",
+        "Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "omens"
@@ -7247,10 +6472,6 @@
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Mario Kart",
-        "Exandria Unlimited",
-        "Peter Habib",
-        "Sam Riegel Original Music",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
@@ -7275,17 +6496,13 @@
       "itunes_duration": "04:45:05",
       "speakers": [
         "Exandria Unlimited",
-        "Aabria Iyengar",
-        "Anjali Bhimani",
-        "Aimee Carrero",
-        "Robbie Daymond",
-        "Erica Lindbeck",
         "Matthew Mercer",
-        "Hannah Friederichs Stained",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -7306,16 +6523,12 @@
       "speakers": [
         "Exandria Unlimited",
         "Dorian Storm",
-        "Aabria Iyengar",
-        "Anjali Bhimani",
-        "Aimee Carrero",
-        "Robbie Daymond",
-        "Erica Lindbeck",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "exandria",
@@ -7335,12 +6548,10 @@
       "itunes_duration": "03:27:28",
       "speakers": [
         "Tiny Tina",
-        "Laura Bailey",
-        "Ashley Johnson",
-        "Travis Willingham",
-        "Robbie Daymond",
         "Matthew Mercer",
         "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
         "Sam Riegel"
@@ -7364,14 +6575,14 @@
       "enclosure_length": "186556837",
       "itunes_duration": "03:13:39",
       "speakers": [
+        "Hungry Jungle While",
+        "Heartmoor Hamlet",
+        "Bells Hells",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "hungry",
@@ -7468,17 +6679,13 @@
       "itunes_duration": "04:28:38",
       "speakers": [
         "Elden Ring One-Shot",
-        "Elden Ring",
         "Matthew Mercer",
         "Marisha Ray",
-        "Sam Riegel",
-        "Krystina Arielle",
-        "Brennan Lee Mulligan",
-        "Alexander Ward",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe"
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "elden",
@@ -7665,8 +6872,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "thicker",
@@ -7737,14 +6943,14 @@
       "enclosure_length": "217703575",
       "itunes_duration": "03:46:14",
       "speakers": [
+        "Growing Bonds",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "growing",
@@ -7765,14 +6971,14 @@
       "enclosure_length": "247471915",
       "itunes_duration": "04:17:14",
       "speakers": [
+        "Walls After",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "threat",
@@ -7791,14 +6997,14 @@
       "enclosure_length": "215315640",
       "itunes_duration": "03:43:48",
       "speakers": [
+        "Killer Determined",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "trail",
@@ -7817,14 +7023,14 @@
       "enclosure_length": "230304350",
       "itunes_duration": "03:59:15",
       "speakers": [
+        "Toll While",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "trail",
@@ -7869,14 +7075,14 @@
       "enclosure_length": "244946540",
       "itunes_duration": "04:14:42",
       "speakers": [
-        "Liam O'Brien",
+        "Online Studios",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
+        "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "elder",
@@ -7958,14 +7164,12 @@
       "speakers": [
         "Exandria Unlimited Wrap",
         "Exandria Unlimited",
-        "Marisha Ray",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "exandria",
@@ -7985,14 +7189,14 @@
       "enclosure_length": "236241165",
       "itunes_duration": "04:05:39",
       "speakers": [
-        "Marisha Ray",
+        "Faulty Foundation One",
+        "Online Studios",
         "Matthew Mercer",
+        "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "elder",
@@ -8023,8 +7227,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8050,8 +7253,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8072,15 +7274,14 @@
       "enclosure_length": "261201811",
       "itunes_duration": "04:31:16",
       "speakers": [
-        "Exandria Unlimited",
+        "Green Finally",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8108,8 +7309,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8137,8 +7337,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8165,8 +7364,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8186,16 +7384,14 @@
       "enclosure_length": "215133091",
       "itunes_duration": "03:43:32",
       "speakers": [
-        "Exandria Unlimited",
-        "criticalrole Hosted",
+        "Fire Ashari",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8222,8 +7418,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "exandria",
@@ -8245,15 +7440,13 @@
       "itunes_duration": "04:06:56",
       "speakers": [
         "Mighty Nein",
-        "Anna Zee",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "machina",
@@ -8273,14 +7466,14 @@
       "enclosure_length": "222334717",
       "itunes_duration": "03:50:03",
       "speakers": [
+        "Critical Role Campaign",
+        "Wrap Up Now",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "critical",
@@ -8301,14 +7494,14 @@
       "enclosure_length": "386646049",
       "itunes_duration": "06:41:36",
       "speakers": [
+        "Blooming Grove",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "fond",
@@ -8327,14 +7520,14 @@
       "enclosure_length": "195067774",
       "itunes_duration": "03:22:52",
       "speakers": [
+        "Taxes One",
+        "Online Studios",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "elder",
@@ -8365,8 +7558,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "long",
@@ -8437,14 +7629,14 @@
       "enclosure_length": "164002164",
       "itunes_duration": "02:50:16",
       "speakers": [
+        "Cognouza Floating",
+        "Astral Sea",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "welcome",
@@ -8463,14 +7655,14 @@
       "enclosure_length": "193729938",
       "itunes_duration": "03:21:13",
       "speakers": [
+        "Immensus Gate",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "hell",
@@ -8616,14 +7808,14 @@
       "enclosure_length": "217013956",
       "itunes_duration": "03:45:20",
       "speakers": [
+        "Storm Reunions",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "calm",
@@ -8753,8 +7945,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "neverending"
@@ -8772,14 +7963,14 @@
       "enclosure_length": "228439655",
       "itunes_duration": "03:56:38",
       "speakers": [
+        "Warmer Welcomes Exhausted",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "walk",
@@ -8799,14 +7990,14 @@
       "enclosure_length": "297569161",
       "itunes_duration": "05:09:07",
       "speakers": [
+        "eye-opening revelations",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "weather",
@@ -8825,14 +8016,14 @@
       "enclosure_length": "199473800",
       "itunes_duration": "03:21:05",
       "speakers": [
+        "ever growing",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "c2e122",
@@ -8905,15 +8096,12 @@
       "speakers": [
         "Mystery Below Deep",
         "Mighty Nein",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "malice",
@@ -8933,15 +8121,13 @@
       "itunes_duration": "04:15:53",
       "speakers": [
         "Solace Between",
-        "Watch Critical Rol",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "solace",
@@ -8987,15 +8173,13 @@
       "itunes_duration": "03:50:05",
       "speakers": [
         "Mighty Nein",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "timeless"
@@ -9101,8 +8285,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "chase"
@@ -9121,15 +8304,13 @@
       "itunes_duration": "03:16:46",
       "speakers": [
         "New Homes",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "homes",
@@ -9148,15 +8329,14 @@
       "enclosure_length": "223900964",
       "itunes_duration": "03:52:31",
       "speakers": [
-        "both revelations",
+        "both revelatio",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "dinner",
@@ -9208,8 +8388,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "traveler"
@@ -9234,8 +8413,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "devoutness",
@@ -9254,14 +8432,14 @@
       "enclosure_length": "211194361",
       "itunes_duration": "03:38:54",
       "speakers": [
+        "Dark Dice",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": []
     },
@@ -9382,7 +8560,6 @@
       "enclosure_length": "195935715",
       "itunes_duration": "03:21:27",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -9410,7 +8587,6 @@
       "enclosure_length": "187802794",
       "itunes_duration": "03:14:55",
       "speakers": [
-        "determined foe",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -9437,14 +8613,12 @@
       "itunes_duration": "03:32:59",
       "speakers": [
         "Matthew Mercer",
-        "Sam Riegel",
-        "Laura Bailey",
-        "Anjali Bhimani",
-        "Jasmine Bhullar",
         "Marisha Ray",
         "Travis Willingham",
+        "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
+        "Sam Riegel",
         "Ashley Johnson"
       ],
       "topics": [
@@ -9472,8 +8646,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "high",
@@ -9493,7 +8666,6 @@
       "enclosure_length": "271801485",
       "itunes_duration": "04:42:47",
       "speakers": [
-        "Watch Criti",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -9527,8 +8699,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "fancy"
@@ -9546,7 +8717,6 @@
       "enclosure_length": "243581144",
       "itunes_duration": "04:13:24",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -9574,17 +8744,13 @@
       "itunes_duration": "04:31:59",
       "speakers": [
         "Matthew Mercer",
-        "Jamie Wrenly",
-        "Ashley Johnson",
-        "Cameron Solomon",
-        "Erika Ishii",
-        "Sasha Murasaki",
-        "Ally Beardsley",
-        "agbeardsley Check",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien"
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel",
+        "Ashley Johnson"
       ],
       "topics": [
         "cinderbrush",
@@ -9640,8 +8806,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "great",
@@ -9660,14 +8825,14 @@
       "enclosure_length": "202968046",
       "itunes_duration": "03:31:09",
       "speakers": [
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "misery",
@@ -9823,8 +8988,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "punishment",
@@ -9844,16 +9008,13 @@
       "itunes_duration": "04:26:33",
       "speakers": [
         "Taryon Darrington",
-        "Eldritch Foundry",
-        "Iron Tusk Painting",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "adventures",
@@ -9873,7 +9034,6 @@
       "enclosure_length": "264077330",
       "itunes_duration": "04:34:44",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -9957,8 +9117,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "dark",
@@ -10003,7 +9162,6 @@
       "enclosure_length": "221635581",
       "itunes_duration": "03:50:34",
       "speakers": [
-        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10055,7 +9213,6 @@
       "enclosure_length": "228704796",
       "itunes_duration": "03:57:56",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10106,7 +9263,6 @@
       "enclosure_length": "205930797",
       "itunes_duration": "03:34:14",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10130,8 +9286,6 @@
       "enclosure_length": "233798427",
       "itunes_duration": "04:01:09",
       "speakers": [
-        "Vox Machina",
-        "Kit Buss",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10160,15 +9314,13 @@
       "itunes_duration": "04:36:53",
       "speakers": [
         "Refjorged Join",
-        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "refjorged"
@@ -10186,7 +9338,6 @@
       "enclosure_length": "225133253",
       "itunes_duration": "03:54:13",
       "speakers": [
-        "Mica Burton",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10214,15 +9365,13 @@
       "itunes_duration": "03:45:20",
       "speakers": [
         "Manifold Morals",
-        "Mica Burton",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "moral"
@@ -10247,8 +9396,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "uthodurn"
@@ -10266,18 +9414,14 @@
       "enclosure_length": "251443400",
       "itunes_duration": "04:01:11",
       "speakers": [
-        "cthulhu Brought",
-        "Marisha Ray",
-        "Erika Ishii",
-        "Phil LaMarr",
-        "Travis Willingham",
-        "Ashly Burch",
-        "Liam O'Brien",
+        "Crystal Palace Pick",
+        "Cthulhu Starter Set",
         "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
         "Laura Bailey",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien",
+        "Taliesin Jaffe"
       ],
       "topics": [
         "cthulhu",
@@ -10324,7 +9468,6 @@
       "enclosure_length": "176792701",
       "itunes_duration": "03:03:54",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10427,15 +9570,14 @@
       "enclosure_length": "194662456",
       "itunes_duration": "03:22:31",
       "speakers": [
-        "familiar foes",
+        "Reflections Continuing",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "reflections"
@@ -10453,7 +9595,6 @@
       "enclosure_length": "231580261",
       "itunes_duration": "04:00:56",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10484,13 +9625,9 @@
         "Markeia McCarty",
         "Julie Nathanson",
         "Liam O'Brien",
-        "Roger Craig Smith",
+        "Roger Crai",
         "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Taliesin Jaffe",
-        "Sam Riegel"
+        "Marisha Ray"
       ],
       "topics": [
         "tail",
@@ -10517,8 +9654,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "beneath",
@@ -10566,15 +9702,11 @@
         "Dangerous Chase Giving",
         "Mighty Nein",
         "Barbed Fields",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "chase"
@@ -10599,8 +9731,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "intervention"
@@ -10619,15 +9750,13 @@
       "itunes_duration": "03:40:48",
       "speakers": [
         "Overcrow Apothecary",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "domestic",
@@ -10671,7 +9800,6 @@
       "enclosure_length": "211432675",
       "itunes_duration": "03:37:57",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10722,7 +9850,6 @@
       "enclosure_length": "196405872",
       "itunes_duration": "03:24:20",
       "speakers": [
-        "Critter Arsequeef",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10800,15 +9927,13 @@
       "itunes_duration": "04:28:59",
       "speakers": [
         "Julie Nathanson",
-        "Liam O'Brien",
-        "Hugo Cardenas",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
+        "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "night",
@@ -10853,17 +9978,13 @@
       "itunes_duration": "02:59:46",
       "speakers": [
         "Honey Heist",
-        "Presenting Honey Heist",
-        "Noelle Stevenson",
-        "Mary Elizabeth McGlynn",
-        "Krystina Arielle",
-        "Brittany Walloch-Key",
-        "Dani Carr",
-        "Laura Bailey",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
-        "Liam O'Brien"
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
       ],
       "topics": [
         "honey",
@@ -10884,7 +10005,6 @@
       "enclosure_length": "187381486",
       "itunes_duration": "03:12:55",
       "speakers": [
-        "Critter Arsequeef",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10913,14 +10033,12 @@
       "speakers": [
         "Crash Pandas",
         "Sam Riegel",
-        "Blair Herter",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "crash",
@@ -10965,7 +10083,6 @@
       "enclosure_length": "221647567",
       "itunes_duration": "03:50:36",
       "speakers": [
-        "Critter Arsequeef",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -10992,14 +10109,14 @@
       "enclosure_length": "262208449",
       "itunes_duration": "04:24:50",
       "speakers": [
+        "Vox Machina",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "search",
@@ -11018,7 +10135,6 @@
       "enclosure_length": "222008861",
       "itunes_duration": "03:50:59",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11045,15 +10161,13 @@
       "itunes_duration": "03:56:53",
       "speakers": [
         "Mighty Nein",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "endless",
@@ -11125,15 +10239,13 @@
       "itunes_duration": "03:36:42",
       "speakers": [
         "Mighty Nein",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "second",
@@ -11152,7 +10264,6 @@
       "enclosure_length": "218584341",
       "itunes_duration": "03:47:24",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11204,7 +10315,6 @@
       "enclosure_length": "229892838",
       "itunes_duration": "03:59:09",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11282,7 +10392,6 @@
       "enclosure_length": "202711238",
       "itunes_duration": "03:30:53",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11335,15 +10444,14 @@
       "enclosure_length": "240017966",
       "itunes_duration": "04:09:43",
       "speakers": [
-        "Watch Critical Role",
+        "Watch Criti",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "temple",
@@ -11395,8 +10503,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "liaison"
@@ -11414,7 +10521,6 @@
       "enclosure_length": "225155262",
       "itunes_duration": "03:54:15",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11440,7 +10546,6 @@
       "enclosure_length": "212102067",
       "itunes_duration": "03:40:40",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11500,8 +10605,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "ruby",
@@ -11521,13 +10625,12 @@
       "itunes_duration": "04:28:28",
       "speakers": [
         "Liam O'Brien",
-        "Laura Bailey",
-        "Erica Luttrell",
-        "Sam Riegel",
-        "Travis Willingham",
         "Matthew Mercer",
         "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
         "Taliesin Jaffe",
+        "Sam Riegel",
         "Ashley Johnson"
       ],
       "topics": [
@@ -11574,7 +10677,6 @@
       "enclosure_length": "186770445",
       "itunes_duration": "03:14:16",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11601,15 +10703,14 @@
       "enclosure_length": "195192151",
       "itunes_duration": "03:23:04",
       "speakers": [
-        "they've lost",
+        "those they've",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "journey",
@@ -11635,8 +10736,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "stalking",
@@ -11656,15 +10756,14 @@
       "enclosure_length": "231183904",
       "itunes_duration": "04:00:31",
       "speakers": [
-        "Sumalee Montano",
+        "Iron Shepherds",
+        "Sour Nest",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "nest"
@@ -11682,16 +10781,14 @@
       "enclosure_length": "223867465",
       "itunes_duration": "03:52:55",
       "speakers": [
-        "Shadycreek Run",
-        "Sumalee Montano",
+        "Converging Fury Still",
+        "Iron Shepherds",
+        "Mighty Nein",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "converging",
@@ -11743,8 +10840,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "divergent",
@@ -11763,7 +10859,6 @@
       "enclosure_length": "209224578",
       "itunes_duration": "03:37:40",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11793,15 +10888,11 @@
         "Will Travel After",
         "Labenda Swamp",
         "Mighty Nein",
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Liam O'Brien"
       ],
       "topics": [
         "bird"
@@ -11819,7 +10910,6 @@
       "enclosure_length": "198269688",
       "itunes_duration": "03:26:16",
       "speakers": [
-        "Watch Critical Role",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
@@ -11846,15 +10936,14 @@
       "enclosure_length": "252472486",
       "itunes_duration": "04:22:41",
       "speakers": [
-        "Mark Hulmes",
+        "Mighty Nein",
+        "Labenda Swamp",
         "Matthew Mercer",
         "Marisha Ray",
         "Travis Willingham",
         "Laura Bailey",
         "Liam O'Brien",
-        "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Taliesin Jaffe"
       ],
       "topics": [
         "stalker",
@@ -11880,8 +10969,7 @@
         "Laura Bailey",
         "Liam O'Brien",
         "Taliesin Jaffe",
-        "Sam Riegel",
-        "Ashley Johnson"
+        "Sam Riegel"
       ],
       "topics": [
         "labenda",
@@ -11895,414 +10983,416 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-02-17 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-02-12 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-02-10 — Seeking Sanctuary | Critical Role | Campaign 4, Episode 13 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-02-05 — Seeking Sanctuary | Critical Role | Campaign 4, Episode 13 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-02-03 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 2 — speakers: Lord Einfasen, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-01-29 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 1 — speakers: Lord Einfasen, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-01-27 — Tale Gate | Episode 1 | Discussing Up To C4E11 — speakers: Whitney Moore, Brennan Lee Mulligan, Laura Bailey, Robbie Daymond, Sam Riegel, Travis Willingham, Tale Gate, Fireside Chats, Matthew Mercer, Marisha Ray, Liam O'Brien, Taliesin Jaffe
-- 2026-01-27 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2026-01-22 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-30 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 2 — speakers: Castle Delawney, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-25 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 1 — speakers: Castle Delawney, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-23 — To the Hounds! | Critical Role | Campaign 4, Episode 9 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-19 — The Long Rest | The Winters Feast & Himmelsschloss: The Castle in the Sky — speakers: Little Sparrow, Sam Riegel, Liam O'Brien, Taylor Burke Sound Design, Max Schapiro, Aaron Monroy, Kirby Winslow, William Lamborn, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-12-18 — To the Hounds! | Critical Role | Campaign 4, Episode 9 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-16 — Fanged Revenge | Critical Role | Campaign 4, Episode 8 Part 2 — speakers: Casimir Gavendale, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-11 — Fanged Revenge | Critical Role | Campaign 4, Episode 8 Part 1 — speakers: Casimir Gavendale, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-12-02 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-28 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 2 — speakers: Shaun Ellis Set, Taylor Ash, Lindsay Dills, Jennifer Newman Lollipop Bouquet, Abbie Strausser Lollipop Bouquet, DeYoung Fjord, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2025-11-27 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-25 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-25 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 1 — speakers: Shaun Ellis Set, Taylor Ash, Lindsay Dills, Jennifer Newman Lollipop Bouquet, Abbie Strausser Lollipop Bouquet, DeYoung Fjord, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2025-11-20 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-18 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-13 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-11-06 — Dispatch One-Shot — speakers: Jasmine Bhullar, Laura Bailey, Travis Willingham, Matthew Mercer, Erin Yvette, Jasmine Bhullar Game, Laura Bailey Barbara Honeycut, Matthew Mercer Damian Blackwell, Marisha Ray, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2025-11-04 — Stone-Faced | Critical Role | Campaign 4, Episode 4 | Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-30 — Stone-Faced | Critical Role | Campaign 4, Episode 4 | Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-28 — The Snipping of Shears | Critical Role | Campaign 4, Episode 3 | Part 2 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-23 — The Snipping of Shears | Critical Role | Campaign 4, Episode 3 | Part 1 — speakers: Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-21 — Broken Wing | Critical Role | Campaign 4, Episode 2 | Part 2 — speakers: Broken Wing, Spooky Season, Thjazi Fang, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-16 — Broken Wing | Critical Role | Campaign 4, Episode 2 | Part 1 — speakers: Broken Wing, Spooky Season, Thjazi Fang, Fireside Chats, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-14 — The Fall of Thjazi Fang | Critical Role | Campaign 4, Episode 1 Part 2 — speakers: Thjazi Fang, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-10-09 — The Fall of Thjazi Fang | Critical Role | Campaign 4, Episode 1 Part 1 — speakers: Thjazi Fang, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-09-30 — Thank Goodness it's Thursday! CRF's 90s Charity One-Shot Benefitting NCWIT | Sponsored by Ebay Live Part 2 — speakers: Matthew Mercer, Ashley Johnson, Stacy Keanan, Will Friedle, Christine Lakin, Rider Strong, Jodie Sweetin, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2025-09-25 — Thank Goodness it's Thursday! CRF's 90s Charity One-Shot Benefitting NCWIT | Sponsored by Ebay Live Part 1 — speakers: Matthew Mercer, Ashley Johnson, Stacy Keanan, Will Friedle, Christine Lakin, Rider Strong, Jodie Sweetin, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2025-09-23 — Oaths & Ash | Critical Role Indianapolis Live Show 2025 Part 2 — speakers: Robbie Daymond, Matthew Mercer, Linda Lithén, LindaLithen Hosted, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-09-18 — Critical Role Campaign Four | Official Trailer — speakers: Thjazi Fang, Brennan Lee Mulligan, Laura Bailey, Thimble Luis Carazo, Thaisha Lloy, Ashley Johnson, Vaelus Matthew Mercer, Julien Davinos Whitney Moore, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2025-09-18 — Oaths & Ash | Critical Role Indianapolis Live Show 2025 Part 1 — speakers: Robbie Daymond, Matthew Mercer, Linda Lithén, LindaLithen Hosted, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-08-19 — Tag Team At The Teeth: Beyond The Shroud | Critical Role Melbourne Live Show 2025 Part 2 — speakers: Matthew Mercer, Beauregard Lionett, Braius Doomseed, Tom Cardy, Tom Cardy Character Art, Hannah Friederichs, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2025-08-14 — Tag Team At The Teeth: Beyond The Shroud | Critical Role Melbourne Live Show 2025 Part 1 — speakers: Matthew Mercer, Beauregard Lionett, Braius Doomseed, Tom Cardy, Tom Cardy Character Art, Hannah Friederichs, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2025-08-12 — Tag Team At The Teeth: The Misty Ascent | Critical Role Sydney Live Show 2025 Part 2 — speakers: Matthew Mercer, Ashton Greymoore, Yasha Nydoorin, Veth Brenatto, Critical Role, Tom Cardy, Tom Cardy Character Art, Hannah Friederichs, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2025-08-07 — Tag Team At The Teeth: The Misty Ascent | Critical Role Sydney Live Show 2025 Part 1 — speakers: Matthew Mercer, Ashton Greymoore, Yasha Nydoorin, Veth Brenatto, Critical Role, Tom Cardy, Tom Cardy Character Art, Hannah Friederichs, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2025-08-05 — The Tomb of the Heretic Saint | Age of Umbra Episode 8 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-31 — The Tomb of the Heretic Saint | Age of Umbra Episode 8 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-29 — Escape from the Reach | Age of Umbra Episode 7 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-24 — Escape from the Reach | Age of Umbra Episode 7 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-22 — The Unforgiving City | Age of Umbra Episode 6 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-17 — The Unforgiving City | Age of Umbra Episode 6 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-08 — Ages of Pain | Age of Umbra Episode 5 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-03 — Ages of Pain | Age of Umbra Episode 5 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-07-01 — The Rampart and Beyond | Age of Umbra Episode 4 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-26 — The Rampart and Beyond | Age of Umbra Episode 4 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-24 — What Is Gained, What Is Lost | Age of Umbra Episode 3 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-19 — What Is Gained, What Is Lost | Age of Umbra Episode 3 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-17 — The Lost Monastery | Age of Umbra Episode 2 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-12 — The Lost Monastery | Age of Umbra Episode 2 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-10 — Desperloch | Age of Umbra Episode 1 Part 2 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-06-05 — Desperloch | Age of Umbra Episode 1 Part 1 — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Liam O’Brien, Marisha Ray, Sam Riegel, Taliesin Jaffe, Travis Willingham, Liam O'Brien
-- 2025-05-20 — TOTAL PARTY KILL | Critical Role Chicago Live 2025 Part 2 — speakers: Matthew Mercer, Malvolio Contreras, Robbie Daymond, Frank Liu, Matthew Mercer Hosted, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-05-15 — TOTAL PARTY KILL | Critical Role Chicago Live 2025 Part 1 — speakers: Matthew Mercer, Malvolio Contreras, Robbie Daymond, Frank Liu, Matthew Mercer Hosted, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-05-13 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 2 — speakers: Matt Linton, Jacqueline Emerson, Jasper William Cartwright, Candela Obscura, Rán Boer, Emily Wodsworth, Daemon Adams, Jane Douglas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-05-08 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 1 — speakers: Matt Linton, Jacqueline Emerson, Jasper William Cartwright, Candela Obscura, Rán Boer, Emily Wodsworth, Daemon Adams, Jane Douglas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-05-06 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2 — speakers: Matt Linton, Jacqueline Emerson, Jasper William Cartwright, Candela Obscura, Rán Boer, Emily Wodsworth, Daemon Adams, Jane Douglas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
+- 2026-02-24 — Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 2 — speakers: Castle Torch, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2026-02-24 — Kingdom Come: Deliverance II One-Shot — speakers: Kingdom Come, Warhorse Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2026-02-19 — Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 1 — speakers: Castle Torch, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2026-02-17 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-02-12 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-02-10 — Seeking Sanctuary | Critical Role | Campaign 4, Episode 13 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-02-05 — Seeking Sanctuary | Critical Role | Campaign 4, Episode 13 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-02-03 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 2 — speakers: Lord Einfasen, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2026-01-29 — The Giant's Belt | Critical Role | Campaign 4, Episode 12 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-01-27 — Tale Gate | Episode 1 | Discussing Up To C4E11 — speakers: Whitney Moore, Brennan Lee Mulligan, Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe
+- 2026-01-27 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2026-01-22 — Make Merry | Critical Role | Campaign 4, Episode 11 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-12-30 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 2 — speakers: Castle Delawney, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-12-25 — Blood for Blood | Critical Role | Campaign 4, Episode 10 Part 1 — speakers: Castle Delawney, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-12-23 — To the Hounds! | Critical Role | Campaign 4, Episode 9 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-12-19 — The Long Rest | The Winters Feast & Himmelsschloss: The Castle in the Sky — speakers: Sky Tonight, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-12-18 — To the Hounds! | Critical Role | Campaign 4, Episode 9 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-12-16 — Fanged Revenge | Critical Role | Campaign 4, Episode 8 Part 2 — speakers: Fanged Revenge, Critical Role, Castle Sloke, Baron Casim, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
+- 2025-12-11 — Fanged Revenge | Critical Role | Campaign 4, Episode 8 Part 1 — speakers: Fanged Revenge, Critical Role, Castle Sloke, Baron Casim, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
+- 2025-12-02 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 2 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-11-28 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 2 — speakers: Critical Role, Radio City Music Hall, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-11-27 — On the Scent | Critical Role | Campaign 4, Episode 7 Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-11-25 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-11-25 — Critical Role: Jester and Fjord’s Wedding: Live from Radio City Music Hall Part 1 — speakers: Critical Role, Radio City Music Hall, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-11-20 — Knives and Thorns | Critical Role | Campaign 4, Episode 6 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-11-18 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 2 — speakers: Branching Paths, Critical Role Campaign, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-11-13 — Branching Paths | Critical Role Campaign 4, Episode 5 Part 1 — speakers: Branching Paths, Critical Role Campaign, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-11-06 — Dispatch One-Shot — speakers: Dispatch One, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-11-04 — Stone-Faced | Critical Role | Campaign 4, Episode 4 | Part 2 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-10-30 — Stone-Faced | Critical Role | Campaign 4, Episode 4 | Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-10-28 — The Snipping of Shears | Critical Role | Campaign 4, Episode 3 | Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-10-23 — The Snipping of Shears | Critical Role | Campaign 4, Episode 3 | Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-10-21 — Broken Wing | Critical Role | Campaign 4, Episode 2 | Part 2 — speakers: Broken Wing, Spooky Season, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-10-16 — Broken Wing | Critical Role | Campaign 4, Episode 2 | Part 1 — speakers: Broken Wing, Spooky Season, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-10-14 — The Fall of Thjazi Fang | Critical Role | Campaign 4, Episode 1 Part 2 — speakers: Thjazi Fang, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-10-09 — The Fall of Thjazi Fang | Critical Role | Campaign 4, Episode 1 Part 1 — speakers: Thjazi Fang, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-09-30 — Thank Goodness it's Thursday! CRF's 90s Charity One-Shot Benefitting NCWIT | Sponsored by Ebay Live Part 2 — speakers: Matthew Mercer, Ashley Johnson, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-09-25 — Thank Goodness it's Thursday! CRF's 90s Charity One-Shot Benefitting NCWIT | Sponsored by Ebay Live Part 1 — speakers: Matthew Mercer, Ashley Johnson, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-09-23 — Oaths & Ash | Critical Role Indianapolis Live Show 2025 Part 2 — speakers: deadly de, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-09-18 — Critical Role Campaign Four | Official Trailer — speakers: Critical Role Campaign Four, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-09-18 — Oaths & Ash | Critical Role Indianapolis Live Show 2025 Part 1 — speakers: deadly de, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-08-19 — Tag Team At The Teeth: Beyond The Shroud | Critical Role Melbourne Live Show 2025 Part 2 — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-08-14 — Tag Team At The Teeth: Beyond The Shroud | Critical Role Melbourne Live Show 2025 Part 1 — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-08-12 — Tag Team At The Teeth: The Misty Ascent | Critical Role Sydney Live Show 2025 Part 2 — speakers: Mighty Nein, Bells Hell, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-08-07 — Tag Team At The Teeth: The Misty Ascent | Critical Role Sydney Live Show 2025 Part 1 — speakers: Mighty Nein, Bells Hell, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-08-05 — The Tomb of the Heretic Saint | Age of Umbra Episode 8 Part 2 — speakers: Heretic Saint, Blind Repose, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-07-31 — The Tomb of the Heretic Saint | Age of Umbra Episode 8 Part 1 — speakers: Heretic Saint, Blind Repose, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2025-07-29 — Escape from the Reach | Age of Umbra Episode 7 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-07-24 — Escape from the Reach | Age of Umbra Episode 7 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-07-22 — The Unforgiving City | Age of Umbra Episode 6 Part 2 — speakers: Halcyon Domain, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-07-17 — The Unforgiving City | Age of Umbra Episode 6 Part 1 — speakers: Halcyon Domain, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-07-08 — Ages of Pain | Age of Umbra Episode 5 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-07-03 — Ages of Pain | Age of Umbra Episode 5 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-07-01 — The Rampart and Beyond | Age of Umbra Episode 4 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-26 — The Rampart and Beyond | Age of Umbra Episode 4 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-24 — What Is Gained, What Is Lost | Age of Umbra Episode 3 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-19 — What Is Gained, What Is Lost | Age of Umbra Episode 3 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-17 — The Lost Monastery | Age of Umbra Episode 2 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-12 — The Lost Monastery | Age of Umbra Episode 2 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-10 — Desperloch | Age of Umbra Episode 1 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-06-05 — Desperloch | Age of Umbra Episode 1 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-05-20 — TOTAL PARTY KILL | Critical Role Chicago Live 2025 Part 2 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-05-15 — TOTAL PARTY KILL | Critical Role Chicago Live 2025 Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-05-13 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-05-08 — Thresher: 2-Part Underwater Epic | Episode 2, Power Rises Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-05-06 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-05-06 — The Elder Scrolls Online One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-05-01 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 1 — speakers: Matt Linton, Jacqueline Emerson, Jasper William Cartwright, Candela Obscura, Rán Boer, Emily Wodsworth, Daemon Adams, Jane Douglas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-04-29 — Wilde Out | Wildemount Wildlings Episode 3 Part 2 — speakers: Caption Status, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-04-24 — Wilde Out | Wildemount Wildlings Episode 3 Part 1 — speakers: Caption Status, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-05-01 — Thresher: 2-Part Underwater Epic | Episode 1, From the Deep Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-04-29 — Wilde Out | Wildemount Wildlings Episode 3 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-04-24 — Wilde Out | Wildemount Wildlings Episode 3 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-04-22 — Into the Wilde | Wildemount Wildlings Episode 2 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2025-04-17 — Into the Wilde | Wildemount Wildlings Episode 2 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-04-15 — Welcome, Campers! | Wildemount Wildlings Episode 1 Part 2 — speakers: Veth Brenatto, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-04-10 — Welcome, Campers! | Wildemount Wildlings Episode 1 Part 1 — speakers: Veth Brenatto, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2025-04-03 — Wrap Up: Campaign 3 and the Era of Reclamation — speakers: Exandria Unlimited, Matthew Mercer, Travis Willingham, Liam O'Brien, Laura Bailey, Ashley Johnson, Taliesin Jaffe, Marisha Ray, Sam Riegel
-- 2025-03-25 — Weird Kids | Episode 1: Welcome to Weird Kids — speakers: Ashley Johnson, Taliesin Jaffe, Maxwell James, Will Lamborn, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Sam Riegel
-- 2025-03-18 — Suikoden One-Shot — speakers: Matthew Master, Ashley Johnson, Taliesin Jaffe, Arin Hanson, Zeno Robinson, Zachery Renauldo, Christian Brown Want, Konami Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-03-13 — By Heart Alone | Exandria Unlimited: Divergence Episode 4 — speakers: Exandria Unlimited, Brennan Lee Mulligan, Matthew Mercer, Liam O'Brien, Celia Rose Gooding, Jasmine Don, Alex Ward, Daniel Ehrli, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2025-03-06 — Mirror and Key | Exandria Unlimited: Divergence Episode 3 — speakers: Brennan Lee Mulligan, Matthew Mercer, Liam O'Brien, Celia Rose Gooding, Jasmine Don, Alex Ward, Daniel Ehrli, Hannah Friederichs Due, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2025-02-27 — Seven of Them | Exandria Unlimited: Divergence Episode 2 — speakers: Brennan Lee Mulligan, Matthew Mercer, Liam O'Brien, Celia Rose Gooding, Jasmine Don, Alex Ward, Daniel Ehrli, Hannah Friederichs Due, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2025-02-25 — Avowed One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Anjali Bhimani, SungWon Cho, Whitney Moore, Julie Dillon, Bryan Weiss Hosted, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2025-02-20 — Give and Take | Exandria Unlimited: Divergence Episode 1 — speakers: Brennan Lee Mulligan, Matthew Mercer, Liam O'Brien, Jasmine Don, Alex Ward, Daniel Ehrli, Hannah Friederichs Due, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe, Sam Riegel
-- 2025-02-13 — C3 E121 A New Age Begins Part 2 — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-02-13 — C3 E121 A New Age Begins Part 1 — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-01-30 — C3 E120 The Red End — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-01-23 — C3 E119 Predathos Awakened — speakers: Gotham City Chronicles Rpg, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2025-01-21 — Assassin's Creed Shadows One-Shot — speakers: Creed Shadows One-Shot, Creed Shadows, Pre-Order Assassin’s Creed Shadows, Matthew Mercer, Emily Piggford, Robbie Daymond, Peter Shinkoda, Liam O'Brien, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2025-01-09 — C3 E118 The Hallowed Cage — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-12-26 — Critical Role Presents: A Daggerheart Critmas Story | Live Show — speakers: Matthew Mercer, Travis Willingham, Laura Bailey, Liam O’Brien, Sam Riegel, Taliesin Jaffe, Ashley Johnson, Marisha Ray, Liam O'Brien
-- 2024-12-20 — What Bits May Come | 4-Sided Dive | Episode 30 Discussing Up To C3117 — speakers: Ashley Johnson, Liam O’Brien, Robbie Daymond, Marisha Ray, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2024-12-16 — C3 E117 Race to the Ruidian Core — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-12-12 — C3 E116 The Weave Mind — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-11-25 — C3E115 To the Arx Creonum — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-11-21 — C3E114 Fight for the Bloody Bridge — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-11-15 — The Tower | 4-Sided Dive | Episode 29 Discussing Up To C3113 — speakers: Taliesin Jaffe, Marisha Ray, Sam Riegel, Laura Bailey, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Liam O'Brien, Ashley Johnson
-- 2024-11-14 — C3E113 Assault on the Malleus Key — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-10-31 — C3E112 The Assembling of Legends — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-10-24 — C3E111 The Nein Hells — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-10-23 — FEED DROP: Introducing Tales From The Stinky Dragon, Campaign 3: Kanon! — speakers: Description Tales, Gustavo Sorola, Barbara Dunkelman, Blaine Gibson, Chris Demarais, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2024-10-17 — C3E110 In the Shadow of War — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-10-11 — Way of the Swordguy | 4-Sided Dive | Episode 28 Discussing Up To C3109 — speakers: Ashley Johnson, Matthew Mercer, Liam O’Brien, Robbie Daymond, Peter Habib, Sam Riegel Original Music, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2024-10-10 — C3E109 A Test of Fate — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-09-26 — C3E108 Looming — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-09-19 — C3E107 Under the Arch Heart's Eye — speakers: Arch Heart, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-09-12 — C3E106 Unseelie Interrupted — speakers: Unseelie Interrupted, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-09-06 — Queries & Quandaries | 4-Sided Dive | Episode 27 Discussing Up To C3105 — speakers: Travis Willingham, Marisha Ray, Sam Riegel, Laura Bailey, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
-- 2024-08-29 — C3E105 Collecting Legends — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-08-22 — C3E104 The Cradle's Convocation — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-08-15 — C3E103 Cages — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-08-08 — C3E102 Reconciliation — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-08-02 — Oh My Gods | 4-Sided Dive | Episode 26: Discussing Up To C3101 — speakers: Brennan Lee Mulligan, Taliesin Jaffe, Ashley Johnson, Laura Bailey, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Sam Riegel
-- 2024-08-01 — C3E101 Downfall: Part Three — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-07-25 — C3E100 Downfall: Part Two — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-07-18 — C3E99 Downfall: Part One — speakers: Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-07-12 — Suddenly Samuel | 4-Sided Dive | Episode 25: Discussing Up To C3E98 — speakers: Sam Riegel, Matthew Mercer, Taliesin Jaffe, Travis Willingham, Peter Habib, Sam Riegel Original Music, Marisha Ray, Laura Bailey, Liam O'Brien, Ashley Johnson
-- 2024-06-27 — Ménagerie a Trois | Daggerheart | Open Beta — speakers: Matthew Mercer, James Graphic Design, Michael Schmidt TD, Chris Willmott, Rowan Hall, Alex Teplitz, Michael Underwood, Carlos Cisco, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2024-06-27 — C3E98 The Nox Engine — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-06-13 — C3E97 Ancient Sins — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-06-07 — Swordgate | 4-Sided Dive | Episode 24: Discussing Up To C3E96 — speakers: Robbie Daymond, Laura Bailey, Marisha Ray, Matthew Mercer, Dorian Storm, Twitch Subscribers, Candela Obscura, Exandria Unlimited, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2024-06-03 — Introducing Our New Podcast The Re-Slayer's Take! — speakers: Nick Williams, George Primavera, Jasmine Bhullar, Jasper William Cartwright, Caroline Lux, Jasmine Chiong Created, Kirby Winslow Logo Art, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2024-05-30 — The Menagerie Returns! | Live One-Shot | Open Beta — speakers: Matthew Mercer, Kyle Shire, James Graphic Design, Michael Schmidt Sound, Kyle Pham Quickstart, Character Artwork, Shaun Ellis, Rowan Hall, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2024-05-30 — C3E96 Shadows New and Old — speakers: Candela Obscura, Exandria Unlimited, Twitch Subscribers, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-05-23 — C3E95 Gathering of Needs — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-05-16 — C3E94 Where The Red Fearne Glows — speakers: Candela Obscura, Exandria Unlimited, Twitch Subscribers, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-05-10 — Still Blessed | 4-Sided Dive | Episode 23: Discussing Up To C3E93 — speakers: Aabria Iyengar, Aimee Carrero, Liam O’Brien, Matthew Mercer, Darrington Press, Alex Roberts, Twitch Subscribers, Candela Obscura, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2024-05-09 — Welcome to Beacon! — speakers: Follow Beacon, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2024-05-09 — C3E93 Bittersweet Reunions — speakers: Candela Obscura, Exandria Unlimited, Twitch Subscribers, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-04-25 — C3E92 Broken Roads — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-04-18 — C3E91 True Heroism — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-04-16 — Witch Sesh | 4-Sided Dive | Episode 22: Discussing Up To C3E90 — speakers: Witch Sesh, Ashley Johnson, Liam O’Brien, Laura Bailey, Marisha Ray, Twitch Subscribers, Candela Obscura, Exandria Unlimited, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe
-- 2024-04-11 — C3E90 Mission Improbable — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-03-28 — C3E89 Divisive Portents — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-03-21 — C3E88 Seeking Sedition — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-03-14 — C3E87 Arrival at Kreviris — speakers: Twitch Subscribers, Candela Obscura, Exandria Unlimited, YouTube Members, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-03-13 — Critical Role Plays Daggerheart | Live One-Shot — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Taliesin Jaffe, Travis Willingham, Marisha Ray, Sam Riegel, Liam O’Brien, Liam O'Brien
-- 2024-03-12 — Feat Fetishes | 4-Sided Dive | Episode 21: Discussing Up To C3E86 — speakers: Feat Fetishes, Liam O’Brien, Taliesin Jaffe, Sam Riegel, Travis Willingham, Twitch Subscribers, Candela Obscura, Exandria Unlimited, Matthew Mercer, Marisha Ray, Laura Bailey, Liam O'Brien
-- 2024-02-29 — C3E86 Doorways to Darker Depths — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-02-22 — C3E85 Intense Interrogations — speakers: Intense Interrogations, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-02-15 — C3E84 Red Rural Revelations — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-02-08 — C3E83 Ruidus — speakers: Ruidus Bells, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Ghiya Rushidat, Neal Acree, Hannah Friederichs Animated Introduction, Kamille Areopagita, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2024-01-23 — Episode Twenty | 4-Sided Dive | Episode 20: Discussing Up To C3E82 — speakers: Laura Bailey, Ashley Johnson, Marisha Ray, Sam Riegel, Abubakar Salim, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe
-- 2024-01-18 — C3E82 Rush for the Bloody Bridge — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Peggy Shi Due, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-12-28 — C3E81 The Eve of the Red Moon — speakers: Ruby Vanguard, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-12-21 — C3E80 A Test of Trust — speakers: Nana Morri, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-12-14 — C3E79 To Hurt Is to Heal — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Peggy Shi Due, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-12-12 — Shard Candy | 4-Sided Dive | Episode 19: Discussing Up To C3E78 — speakers: Shard Candy, Travis Willingham, Taliesin Jaffe, Marisha Ray, Matthew Mercer, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Laura Bailey, Liam O'Brien, Sam Riegel, Ashley Johnson
-- 2023-12-05 — Choose Their Adventure...Again! Critical Role Foundation One-Shot to Benefit Red Nose Day — speakers: Matthew Mercer, Laura Bailey, Taliesin Jaffe, Sam Riegel, Sam Richardson, Tony Hale, Annalise Jensen, Exandria Unlimited, Marisha Ray, Travis Willingham, Liam O'Brien, Ashley Johnson
-- 2023-11-24 — Persona 5 Tactica One-Shot — speakers: Persona Tactica, Nintendo Switch, Liam O'Brien, Robbie Daymond, Xanthe Huynh, Krystina Arielle, Jared Goldstein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2023-11-23 — C3E78 Fractures — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Peggy Shi Due, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-11-16 — C3E77 The Promise and the Price — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Peggy Shi Due, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-11-14 — Anxiety Game Gauntlet | 4-Sided Dive | Episode 18: Discussing Up To C3E76 — speakers: Ashley Johnson, Taliesin Jaffe, Matthew Mercer, Travis Willingham, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Marisha Ray, Laura Bailey, Liam O'Brien, Sam Riegel
-- 2023-11-02 — The Mighty Nein Reunion: Echoes of the Solstice | Live from London! — speakers: Exandria Unlimited, Kamille Areopagita, Kevin Areopagita Character Art, Hannah Friederichs, ErenAngiolini Mini, Daniel Ehrli, WizKids Mini, Tyler Walpole Mini, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-10-26 — C3E76 A Gathering of Heroes — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Animated Introduction, Kamille Areopagita, Kevin Areopagita, Mark Adams, Peggy Shi Due, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-10-19 — C3E75 An Ancient Flame — speakers: Ancient Flame, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-10-12 — C3E74 Roots Between Worlds — speakers: Roots Between Worlds, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-10-10 — Night of the Living Bits | 4-Sided Dive | Episode 17: Discussing Up To C3E73 — speakers: Ashley Johnson, Liam O’Brien, Taliesin Jaffe, Sam Riegel, Nobody Explodes, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
-- 2023-09-29 — Rose City Comic Con 2023 — speakers: Christian Navarro, Laura Bailey, Taliesin Jaffe, Ashley Johnson, Matthew Mercer, Liam O'Brien, Marisha Ray, Sam Riegel, Travis Willingham
-- 2023-09-28 — C3E73 Kindling the Spirits — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-09-26 — Mortal Kombat 1 One-Shot | Sindel Vs. The Realms — speakers: Mortal Kombat One-Shot, Gamemaster Marisha Ray, Mortal Kombat, Sam Riegel, Travis Willingham, Gina Darling, Nintendo Switch, Marisha Ray, Matthew Mercer, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2023-09-21 — C3E72 Phantasmal Parley — speakers: Phantasmal Parley, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-09-14 — C3E71 Mist and Whimsy — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-09-12 — Kiss and Tell | 4-Sided Dive | Episode 16: Discussing Up To C3E70 — speakers: Laura Bailey, Matthew Mercer, Sam Riegel, Marisha Ray, Gang Beasts, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
-- 2023-08-31 — C3E70 Embattled in Bassuras — speakers: Imahara Joe, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-08-24 — C3E69 Nice — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-08-17 — C3E68 For The Tempest — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-08-10 — C3E67 Bloody Flowers — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-08-08 — Why, Matthew?! Why? | 4-Sided Dive | Episode 15: Discussing Up To C3E66 — speakers: Travis Willingham, Sam Riegel, Matthew Mercer, Taliesin Jaffe, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Marisha Ray, Laura Bailey, Liam O'Brien, Ashley Johnson
-- 2023-07-27 — C3E66 Aid of the Tempest — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-07-20 — C3E65 A Path of Vengeance — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-07-18 — A Very Special Six-Sided Dive | 4-Sided Dive | Episode 14: Discussing Up To C3E64 — speakers: Utkarsh Ambudkar, Emily Axford, Aimee Carrero, Taliesin Jaffe, Liam O’Brien, Marisha Ray, Exandria Unlimited, Peter Habib, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2023-07-13 — C3E64 Reunited — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-06-29 — C3E63 A Haunted Past — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-06-22 — C3E62 A Long Walk of Reflection — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-06-15 — C3E61 Crisis of Faith — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-06-13 — Wrong Distance Relationships | 4-Sided Dive | Episode 13: Discussing Up To C3E60 — speakers: Laura Bailey, Ashley Johnson, Team Wildemount, Liam O’Brien, Marisha Ray, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe
-- 2023-06-08 — C3E60 Faith or Famine — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-06-06 — The Legend of Zelda One-Shot | Lookout, Here We Come! — speakers: Matthew Mercer, Emily Axford, Omar Najam, Robbie Daymond, Liam O’Brien, Marisha Ray, Bryan Weiss, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-05-25 — C3E59 Somewhere Out There — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-05-23 — Wildemount Things | 4-Sided Dive | Episode 12: Discussing Up To C3E58 — speakers: Wildemount Things, Aabria Iyengar, Christian Navarro, Sam Riegel, Travis Willingham, Team Wildemount, Exandria Unlimited, Peter Habib, Matthew Mercer, Marisha Ray, Laura Bailey, Liam O'Brien
-- 2023-05-18 — C3E58 Escape From The Past — speakers: Team Wildemount, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-05-11 — C3E57 The Sorrow of Molaesmyr — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-04-27 — C3E56 By Goat or By Boat — speakers: Team Wildemount, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-04-20 — C3E55 Hope Within History — speakers: Team Wildemount, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-04-13 — C3E54 Treacherous Toys — speakers: Treacherous Toys, Team Wildemount, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2023-03-30 — C3E53 Ripples — speakers: Wildemount half, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-03-28 — Previously On…| 4-Sided Dive | Episode 11: Discussing Up To C3E52 — speakers: Ashley Johnson, Taliesin Jaffe, Liam O’Brien, Marisha Ray, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien, Sam Riegel
-- 2023-03-23 — C3E52 Far From The Others — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-03-16 — C3E51 The Apogee Solstice — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-03-09 — C3E50 Red Moon Rising — speakers: Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-02-23 — C3E49 The Aurora Grows — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-02-16 — C3E48 An Exit Most Fraught — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-02-09 — C3E47 The Fey Key — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2023-02-02 — C3E46 Night at the Ligament Manor — speakers: Fey Realm, Nana Morri, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2023-01-19 — C3E45 Ominous Lectures — speakers: Ominous Lectures, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-01-12 — C3E44 Bawdy Basement Belligerence — speakers: Bells Hells, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2023-01-10 — To Be Continued! | 4-Sided Dive | Episode 10: Discussing Up To C3E43 & M9 Reunited — speakers: Ashley Johnson, Liam O’Brien, Sam Riegel, Travis Willingham, Will Sam, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Marisha Ray, Laura Bailey, Liam O'Brien
-- 2022-12-29 — C3E43 Axiom Shaken — speakers: Axiom Shaken, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-12-22 — C3E42 The City of Flowing Light — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-12-15 — C3E41 Call of the Wild — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-12-13 — That's Just Right | 4-Sided Dive | Episode 9: Discussing Up To C3E40 & The Mighty Nein Reunited — speakers: Laura Bailey, Taliesin Jaffe, Matthew Mercer, Liam O’Brien, cozy pajamas, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Marisha Ray, Travis Willingham, Liam O'Brien, Sam Riegel
-- 2022-12-08 — The Mighty Nein Reunited Part 2 | Uk'otoa Unleashed — speakers: Exandria Unlimited, Character Art, Ariana Orner, Kamille Areopagita, Kevin Areopagita, Sam Riegel, Original Music, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2022-11-24 — The Mighty Nein Reunited Part 1 | Unfinished Business — speakers: Exandria Unlimited, Character Art, Ariana Orner, Kamille Areopagita, Kevin Areopagita, Sam Riegel, Original Music, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2022-11-17 — C3E40 Compulsions — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-11-15 — Generation Nord One-Shot — speakers: Laura Bailey, Aimee Carrero, Christian Navarro, Liam O’Brien, Lou Wilson, Sam Riegel, Character Art, Justyna Rerak, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2022-11-10 — C3E39 The Momentum of Murder — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-11-08 — Why Are You Like This?! | 4-Sided Dive | Episode 8: Discussing Up To C3E38 — speakers: Taliesin Jaffe, Matthew Mercer, Marisha Ray, Sam Riegel, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Travis Willingham, Laura Bailey, Liam O'Brien, Ashley Johnson
-- 2022-10-27 — C3E38 A Dark Balance — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-10-20 — C3E37 From the Boughs — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-10-13 — C3E36 A Desperate Call — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-10-11 — Fun Scary | 4-Sided Dive | Episode 7: Discussing Up To C3E35 — speakers: Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-09-29 — C3E35 Pyrrhic Return — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-09-22 — C3E34 What Dreams May Come — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-09-15 — C3E33 Blood and Dust — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-09-13 — Liam Laudna-Hands | 4-Sided Dive | Episode 6: Discussing Up To C3E32 — speakers: Liam Laudna-Hands, Ashley Johnson, Liam O'Brien, Marisha Ray, Sam Riegel, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Laura Bailey, Taliesin Jaffe
-- 2022-09-08 — C3E32 A Stage Set — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-08-25 — C3E31 Breaking Point — speakers: Breaking Point, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-08-18 — C3E30 Reunion & Revelation — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-08-16 — From Dusk Till Faun | 4-Sided Dive | Episode 5: Discussing Up To C3E29 — speakers: Erika Ishii, Taliesin Jaffe, Ashley Johnson, Matthew Mercer, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Sam Riegel
-- 2022-08-11 — C3E29 Dark Portents — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-07-28 — C3E28 The Deathwish Run — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-07-21 — C3E27 A Race for the Prize — speakers: Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-07-19 — Exandria Unlimited: Calamity Wrap Up — speakers: Exandria Unlimited, Critter Hug, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-07-14 — C3E26 Hidden Truths — speakers: Hidden Truths, Peter Habib, Sam Riegel Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-07-12 — Independent Witches | 4-Sided Dive | Episode 4: Discussing Up To C3E24 & Calamity — speakers: Ashley Johnson, Aabria Iyengar, Marisha Ray, Laura Bailey, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-07-07 — C3E25 A Taste of Tal'Dorei — speakers: Sam Riegel, Peter Habib Original Music, Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
-- 2022-07-05 — Game Masters of Exandria Roundtable — speakers: Matthew Mercer, Aabria Iyengar, Brennan Lee Mulligan, Exandria Unlimited, Critter Hug, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-06-30 — A Familiar Problem: Sprinkle’s Incredible Journey! — speakers: Marisha Ray, Laura Bailey, Matthew Mercer, Travis Willingham, Isabella Roland, Caption Status, Grant Howitt, Mariana DiMercurio, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-06-23 — Fire and Ruin | Exandria Unlimited: Calamity Episode 4 — speakers: Brennan Lee Mulligan, Luis Carazo, Aabria Iyengar, Marisha Ray, Sam Riegel, Travis Willingham, Lou Wilson, Hannah Friederichs Stained, Matthew Mercer, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2022-06-16 — Blood and Shadow | Exandria Unlimited: Calamity Episode 3 — speakers: Brennan Lee Mulligan, Luis Carazo, Aabria Iyengar, Marisha Ray, Sam Riegel, Travis Willingham, Lou Wilson, Hannah Friederichs Stained, Matthew Mercer, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2022-06-14 — Fly Into The Danger Zone | 4-Sided Dive | Episode 3: Discussing Up To C3E24 — speakers: Taliesin Jaffe, Liam O’Brien, Travis Willingham, Matthew Mercer, Exploding Kittens, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Marisha Ray, Laura Bailey, Liam O'Brien, Sam Riegel
-- 2022-06-09 — Bitterness and Dread | Exandria Unlimited: Calamity Episode 2 — speakers: Brennan Lee Mulligan, Luis Carazo, Aabria Iyengar, Marisha Ray, Sam Riegel, Travis Willingham, Lou Wilson, Hannah Friederichs Stained, Matthew Mercer, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2022-06-02 — Excelsior | Exandria Unlimited: Calamity Episode 1 — speakers: Brennan Lee Mulligan, Luis Carazo, Aabria Iyengar, Marisha Ray, Sam Riegel, Travis Willingham, Lou Wilson, Hannah Friederichs Stained, Matthew Mercer, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2022-05-26 — C3E24 The Hellcatch Valley — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-05-19 — C3E23 To The Skies — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-05-12 — C3E22 Promise and Potential — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-05-10 — Party of NPCs | 4-Sided Dive | Episode 2: Discussing Up to C3E21 — speakers: Laura Bailey, Taliesin Jaffe, Liam O'Brien, Sam Riegel, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Matthew Mercer, Marisha Ray, Travis Willingham, Ashley Johnson
-- 2022-05-02 — Dignity: An Adventure with Stephen Colbert to by Critical Role to Benefit Red Nose Day — speakers: Stephen Colbert, Matthew Mercer, Ashley Johnson, Marisha Ray, Sam Riegel, avatarkasia Due, Exandria Unlimited, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
-- 2022-04-28 — C3E21 Fight at the Museum… — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-04-21 — C3E20 Breaking and Entering... — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-04-14 — C3E19 Omens Above — speakers: Hannah Friederichs Twitch, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-04-12 — Silken Secrets | 4-Sided Dive Episode 1: Discussing Up to C3E18 — speakers: Robbie Daymond, Matthew Mercer, Marisha Ray, Travis Willingham, Mario Kart, Exandria Unlimited, Peter Habib, Sam Riegel Original Music, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-04-08 — Exandria Unlimited: Kymal | Part 2 — speakers: Exandria Unlimited, Aabria Iyengar, Anjali Bhimani, Aimee Carrero, Robbie Daymond, Erica Lindbeck, Matthew Mercer, Hannah Friederichs Stained, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2022-04-07 — Exandria Unlimited: Kymal | Part 1 — speakers: Exandria Unlimited, Dorian Storm, Aabria Iyengar, Anjali Bhimani, Aimee Carrero, Robbie Daymond, Erica Lindbeck, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
-- 2022-04-04 — Tiny Tina's Wonderlands One-Shot — speakers: Tiny Tina, Laura Bailey, Ashley Johnson, Travis Willingham, Robbie Daymond, Matthew Mercer, Marisha Ray, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2022-03-31 — C3E18 A Hungry Jungle — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-04-15 — Welcome, Campers! | Wildemount Wildlings Episode 1 Part 2 — speakers: Veth Brenatto, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-04-10 — Welcome, Campers! | Wildemount Wildlings Episode 1 Part 1 — speakers: Veth Brenatto, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-04-03 — Wrap Up: Campaign 3 and the Era of Reclamation — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-03-25 — Weird Kids | Episode 1: Welcome to Weird Kids — speakers: Ashley Johnson, Taliesin Jaffe, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Sam Riegel
+- 2025-03-18 — Suikoden One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-03-13 — By Heart Alone | Exandria Unlimited: Divergence Episode 4 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-03-06 — Mirror and Key | Exandria Unlimited: Divergence Episode 3 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-02-27 — Seven of Them | Exandria Unlimited: Divergence Episode 2 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-02-25 — Avowed One-Shot — speakers: Avowed One, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-02-20 — Give and Take | Exandria Unlimited: Divergence Episode 1 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-02-13 — C3 E121 A New Age Begins Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-02-13 — C3 E121 A New Age Begins Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-01-30 — C3 E120 The Red End — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2025-01-23 — C3 E119 Predathos Awakened — speakers: Gotham City Chronicles Rpg, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2025-01-21 — Assassin's Creed Shadows One-Shot — speakers: Creed Shadows One-Shot, Creed Shadows, Pre-Order Assassin’s Creed Shad, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2025-01-09 — C3 E118 The Hallowed Cage — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-12-26 — Critical Role Presents: A Daggerheart Critmas Story | Live Show — speakers: Matthew Mercer, Travis Willingham, Laura Bailey, Liam O’Brien, Sam Riegel, Marisha Ray, Liam O'Brien, Taliesin Jaffe
+- 2024-12-20 — What Bits May Come | 4-Sided Dive | Episode 30 Discussing Up To C3117 — speakers: Ashley Johnson, Liam O’Brien, Robbie Daymond, Marisha Ray, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2024-12-16 — C3 E117 Race to the Ruidian Core — speakers: Ruidian Core Bells Hells, Hallowed Cage, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-12-12 — C3 E116 The Weave Mind — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-11-25 — C3E115 To the Arx Creonum — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-11-21 — C3E114 Fight for the Bloody Bridge — speakers: Bloody Bridge Vox Machina, Malleus Key, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-11-15 — The Tower | 4-Sided Dive | Episode 29 Discussing Up To C3113 — speakers: Taliesin Jaffe, Marisha Ray, Sam Riegel, Laura Bailey, Matthew Mercer, Travis Willingham, Liam O'Brien, Ashley Johnson
+- 2024-11-14 — C3E113 Assault on the Malleus Key — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-10-31 — C3E112 The Assembling of Legends — speakers: Legends Bells Hells, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-10-24 — C3E111 The Nein Hells — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-10-23 — FEED DROP: Introducing Tales From The Stinky Dragon, Campaign 3: Kanon! — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-10-17 — C3E110 In the Shadow of War — speakers: calmer heads, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-10-11 — Way of the Swordguy | 4-Sided Dive | Episode 28 Discussing Up To C3109 — speakers: Ashley Johnson, Matthew Mercer, Liam O’Brien, Robbie Daymond, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2024-10-10 — C3E109 A Test of Fate — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-09-26 — C3E108 Looming — speakers: Looming Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-09-19 — C3E107 Under the Arch Heart's Eye — speakers: Arch Heart, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-09-12 — C3E106 Unseelie Interrupted — speakers: Unseelie Interrupted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-09-06 — Queries & Quandaries | 4-Sided Dive | Episode 27 Discussing Up To C3105 — speakers: Travis Willingham, Marisha Ray, Sam Riegel, Laura Bailey, Matthew Mercer, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
+- 2024-08-29 — C3E105 Collecting Legends — speakers: Collecting Legends Bells Hells, Platinum Sanctuary, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-08-22 — C3E104 The Cradle's Convocation — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-08-15 — C3E103 Cages — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-08-08 — C3E102 Reconciliation — speakers: Reconciliation Bells Hells, Occultus Thalamus, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-08-02 — Oh My Gods | 4-Sided Dive | Episode 26: Discussing Up To C3101 — speakers: Brennan Lee Mulligan, Taliesin Jaffe, Ashley Johnson, Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
+- 2024-08-01 — C3E101 Downfall: Part Three — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-07-25 — C3E100 Downfall: Part Two — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-07-18 — C3E99 Downfall: Part One — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-07-12 — Suddenly Samuel | 4-Sided Dive | Episode 25: Discussing Up To C3E98 — speakers: Sam Riegel, Matthew Mercer, Taliesin Jaffe, Travis Willingham, Marisha Ray, Laura Bailey, Liam O'Brien, Ashley Johnson
+- 2024-06-27 — Ménagerie a Trois | Daggerheart | Open Beta — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-06-27 — C3E98 The Nox Engine — speakers: Greek Theatre, Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-06-13 — C3E97 Ancient Sins — speakers: Ancient Sins Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-06-07 — Swordgate | 4-Sided Dive | Episode 24: Discussing Up To C3E96 — speakers: Robbie Daymond, Laura Bailey, Marisha Ray, Matthew Mercer, Dorian Storm, Travis Willingham, Liam O'Brien, Taliesin Jaffe
+- 2024-06-03 — Introducing Our New Podcast The Re-Slayer's Take! — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-05-30 — C3E96 Shadows New and Old — speakers: Shadows New, Old Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-05-30 — The Menagerie Returns! | Live One-Shot | Open Beta — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-05-23 — C3E95 Gathering of Needs — speakers: Needs Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-05-16 — C3E94 Where The Red Fearne Glows — speakers: Glows Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-05-10 — Still Blessed | 4-Sided Dive | Episode 23: Discussing Up To C3E93 — speakers: Aabria Iyengar, Aimee Carrero, Liam O’Brien, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2024-05-09 — Welcome to Beacon! — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-05-09 — C3E93 Bittersweet Reunions — speakers: dire conseq, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-04-25 — C3E92 Broken Roads — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-04-18 — C3E91 True Heroism — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-04-16 — Witch Sesh | 4-Sided Dive | Episode 22: Discussing Up To C3E90 — speakers: Witch Sesh, Ashley Johnson, Liam O’Brien, Laura Bailey, Marisha Ray, Matthew Mercer, Travis Willingham, Liam O'Brien
+- 2024-04-11 — C3E90 Mission Improbable — speakers: Mission Improbable Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-03-28 — C3E89 Divisive Portents — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-03-21 — C3E88 Seeking Sedition — speakers: themselves cornered, no way, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-03-14 — C3E87 Arrival at Kreviris — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-03-13 — Critical Role Plays Daggerheart | Live One-Shot — speakers: Matthew Mercer, Ashley Johnson, Laura Bailey, Taliesin Jaffe, Marisha Ray, Travis Willingham, Liam O'Brien, Sam Riegel
+- 2024-03-12 — Feat Fetishes | 4-Sided Dive | Episode 21: Discussing Up To C3E86 — speakers: Feat Fetishes, Liam O’Brien, Taliesin Jaffe, Sam Riegel, Travis Willingham, Matthew Mercer, Marisha Ray, Laura Bailey
+- 2024-02-29 — C3E86 Doorways to Darker Depths — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-02-22 — C3E85 Intense Interrogations — speakers: Intense Interrogations, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-02-15 — C3E84 Red Rural Revelations — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2024-02-08 — C3E83 Ruidus — speakers: Ruidus Bells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2024-01-23 — Episode Twenty | 4-Sided Dive | Episode 20: Discussing Up To C3E82 — speakers: Laura Bailey, Ashley Johnson, Marisha Ray, Sam Rie, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe
+- 2024-01-18 — C3E82 Rush for the Bloody Bridge — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-12-28 — C3E81 The Eve of the Red Moon — speakers: Red Moon Bells Hells, Ruby Vanguard, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-12-21 — C3E80 A Test of Trust — speakers: Nana Morri, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-12-14 — C3E79 To Hurt Is to Heal — speakers: Heal Bells Hells, Fey Realm, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-12-12 — Shard Candy | 4-Sided Dive | Episode 19: Discussing Up To C3E78 — speakers: Shard Candy, Travis Willingham, Taliesin Jaffe, Marisha Ray, Matthew Mercer, Laura Bailey, Liam O'Brien, Sam Riegel
+- 2023-12-05 — Choose Their Adventure...Again! Critical Role Foundation One-Shot to Benefit Red Nose Day — speakers: Critical Role Foundation One, Benefit Red Nose Day, Critical Role Foundation, Red Nose Day, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey
+- 2023-11-24 — Persona 5 Tactica One-Shot — speakers: Persona Tactica, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-11-23 — C3E78 Fractures — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-11-16 — C3E77 The Promise and the Price — speakers: Price Bells Hells, Whitestone Castle, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-11-14 — Anxiety Game Gauntlet | 4-Sided Dive | Episode 18: Discussing Up To C3E76 — speakers: Ashley Johnson, Taliesin Jaffe, Matthew Mercer, Travis Willingham, Marisha Ray, Laura Bailey, Liam O'Brien, Sam Riegel
+- 2023-11-02 — The Mighty Nein Reunion: Echoes of the Solstice | Live from London! — speakers: Apogee Solstice, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-10-26 — C3E76 A Gathering of Heroes — speakers: Heroes Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-10-19 — C3E75 An Ancient Flame — speakers: Ancient Flame, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-10-12 — C3E74 Roots Between Worlds — speakers: Roots Between Worlds, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-10-10 — Night of the Living Bits | 4-Sided Dive | Episode 17: Discussing Up To C3E73 — speakers: Ashley Johnson, Liam O’Brien, Taliesin Jaffe, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2023-09-29 — Rose City Comic Con 2023 — speakers: Rose City Comic Con, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-09-28 — C3E73 Kindling the Spirits — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-09-26 — Mortal Kombat 1 One-Shot | Sindel Vs. The Realms — speakers: Mortal Kombat One-Shot, Gamemaster Marisha Ray, Mortal Kombat, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2023-09-21 — C3E72 Phantasmal Parley — speakers: Phantasmal Parley, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-09-14 — C3E71 Mist and Whimsy — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-09-12 — Kiss and Tell | 4-Sided Dive | Episode 16: Discussing Up To C3E70 — speakers: Laura Bailey, Matthew Mercer, Sam Riegel, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
+- 2023-08-31 — C3E70 Embattled in Bassuras — speakers: Imahara Joe, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-08-24 — C3E69 Nice — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-08-17 — C3E68 For The Tempest — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-08-10 — C3E67 Bloody Flowers — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-08-08 — Why, Matthew?! Why? | 4-Sided Dive | Episode 15: Discussing Up To C3E66 — speakers: Travis Willingham, Sam Riegel, Matthew Mercer, Taliesin Jaffe dis, Marisha Ray, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-07-27 — C3E66 Aid of the Tempest — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-07-20 — C3E65 A Path of Vengeance — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-07-18 — A Very Special Six-Sided Dive | 4-Sided Dive | Episode 14: Discussing Up To C3E64 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-07-13 — C3E64 Reunited — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-06-29 — C3E63 A Haunted Past — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-06-22 — C3E62 A Long Walk of Reflection — speakers: Long Walk, Reflection Team Issylra, Demithore Valley, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2023-06-15 — C3E61 Crisis of Faith — speakers: Faith Team Issylra, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-06-13 — Wrong Distance Relationships | 4-Sided Dive | Episode 13: Discussing Up To C3E60 — speakers: Laura Bailey, Ashley Johnson, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-06-08 — C3E60 Faith or Famine — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-06-06 — The Legend of Zelda One-Shot | Lookout, Here We Come! — speakers: Zelda One, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-05-25 — C3E59 Somewhere Out There — speakers: Somewhere Out There Orym, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-05-23 — Wildemount Things | 4-Sided Dive | Episode 12: Discussing Up To C3E58 — speakers: Wildemount Things, Aabria Iyengar, Christian Navarro, Sam Riegel, Travis Willingham, Matthew Mercer, Marisha Ray, Laura Bailey
+- 2023-05-18 — C3E58 Escape From The Past — speakers: Team Wildemount, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-05-11 — C3E57 The Sorrow of Molaesmyr — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-04-27 — C3E56 By Goat or By Boat — speakers: Team Wildemount, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-04-20 — C3E55 Hope Within History — speakers: Team Wildemount, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-04-13 — C3E54 Treacherous Toys — speakers: Treacherous Toys, Team Wildemount, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-03-30 — C3E53 Ripples — speakers: Wildemount half, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-03-28 — Previously On…| 4-Sided Dive | Episode 11: Discussing Up To C3E52 — speakers: Ashley Johnso, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-03-23 — C3E52 Far From The Others — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-03-16 — C3E51 The Apogee Solstice — speakers: Ruby Vanguard, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-03-09 — C3E50 Red Moon Rising — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2023-02-23 — C3E49 The Aurora Grows — speakers: Hellcatch Valley, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-02-16 — C3E48 An Exit Most Fraught — speakers: Bells Hells, Fey Realm, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-02-09 — C3E47 The Fey Key — speakers: Fey Realm, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-02-02 — C3E46 Night at the Ligament Manor — speakers: Fey Realm, Nana Morri, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2023-01-19 — C3E45 Ominous Lectures — speakers: Ominous Lectures, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-01-12 — C3E44 Bawdy Basement Belligerence — speakers: Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2023-01-10 — To Be Continued! | 4-Sided Dive | Episode 10: Discussing Up To C3E43 & M9 Reunited — speakers: Ashley Johnson, Liam O’Brien, Sam Riegel, Travis Willingham, Matthew Mercer, Marisha Ray, Laura Bailey, Liam O'Brien
+- 2022-12-29 — C3E43 Axiom Shaken — speakers: Axiom Shaken, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-12-22 — C3E42 The City of Flowing Light — speakers: Flowing Light Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-12-15 — C3E41 Call of the Wild — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-12-13 — That's Just Right | 4-Sided Dive | Episode 9: Discussing Up To C3E40 & The Mighty Nein Reunited — speakers: Laura Bailey, Taliesin Jaffe, Matthew Mercer, Liam O’Brien, Marisha Ray, Travis Willingham, Liam O'Brien, Sam Riegel
+- 2022-12-08 — The Mighty Nein Reunited Part 2 | Uk'otoa Unleashed — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-11-24 — The Mighty Nein Reunited Part 1 | Unfinished Business — speakers: Unfinished Business Picking, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-11-17 — C3E40 Compulsions — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-11-15 — Generation Nord One-Shot — speakers: Generation Nord One, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-11-10 — C3E39 The Momentum of Murder — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-11-08 — Why Are You Like This?! | 4-Sided Dive | Episode 8: Discussing Up To C3E38 — speakers: Taliesin Jaffe, Matthew Mercer, Marisha Ray, Sam Riegel, Travis Willingham, Laura Bailey, Liam O'Brien, Ashley Johnson
+- 2022-10-27 — C3E38 A Dark Balance — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-10-20 — C3E37 From the Boughs — speakers: Boughs Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-10-13 — C3E36 A Desperate Call — speakers: Desperate Call Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-10-11 — Fun Scary | 4-Sided Dive | Episode 7: Discussing Up To C3E35 — speakers: Laura Bailey, Matthew Merce, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-09-29 — C3E35 Pyrrhic Return — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-09-22 — C3E34 What Dreams May Come — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-09-15 — C3E33 Blood and Dust — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-09-13 — Liam Laudna-Hands | 4-Sided Dive | Episode 6: Discussing Up To C3E32 — speakers: Liam Laudna-Hands, Ashley Johnson, Liam O'Brien, Marisha Ray, Sam Riegel, Matthew Mercer, Travis Willingham, Laura Bailey
+- 2022-09-08 — C3E32 A Stage Set — speakers: former friendships, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-08-25 — C3E31 Breaking Point — speakers: Breaking Point, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-08-18 — C3E30 Reunion & Revelation — speakers: Revelation Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-08-16 — From Dusk Till Faun | 4-Sided Dive | Episode 5: Discussing Up To C3E29 — speakers: Erika Ishii, Taliesin Jaffe, Ashley Johnson, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2022-08-11 — C3E29 Dark Portents — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-07-28 — C3E28 The Deathwish Run — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-07-21 — C3E27 A Race for the Prize — speakers: Prize Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-07-19 — Exandria Unlimited: Calamity Wrap Up — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-07-14 — C3E26 Hidden Truths — speakers: Hidden Truths, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-07-12 — Independent Witches | 4-Sided Dive | Episode 4: Discussing Up To C3E24 & Calamity — speakers: Ashley Johnson, Aabria Iyengar, Marisha Ray, Laura Bailey, Matthew Mercer, Travis Willingham, Liam O'Brien, Taliesin Jaffe
+- 2022-07-07 — C3E25 A Taste of Tal'Dorei — speakers: Dorei Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-07-05 — Game Masters of Exandria Roundtable — speakers: Matthew Mercer, Aabria Iyengar, Brennan Lee Mulligan, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2022-06-30 — A Familiar Problem: Sprinkle’s Incredible Journey! — speakers: Familiar Problem, Incredible Journey, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2022-06-23 — Fire and Ruin | Exandria Unlimited: Calamity Episode 4 — speakers: running out, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-06-16 — Blood and Shadow | Exandria Unlimited: Calamity Episode 3 — speakers: corruption runs, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-06-14 — Fly Into The Danger Zone | 4-Sided Dive | Episode 3: Discussing Up To C3E24 — speakers: Taliesin Jaffe, Liam O’Brien, Travis Willingham, Matthew Mercer, Marisha Ray, Laura Bailey, Liam O'Brien, Sam Riegel
+- 2022-06-09 — Bitterness and Dread | Exandria Unlimited: Calamity Episode 2 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-06-02 — Excelsior | Exandria Unlimited: Calamity Episode 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-05-26 — C3E24 The Hellcatch Valley — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-05-19 — C3E23 To The Skies — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-05-12 — C3E22 Promise and Potential — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-05-10 — Party of NPCs | 4-Sided Dive | Episode 2: Discussing Up to C3E21 — speakers: Laura Bailey, Taliesin Jaffe, Liam O'Brien, Sam Riegel, Matthew Mercer, Marisha Ray, Travis Willingham, Ashley Johnson
+- 2022-05-02 — Dignity: An Adventure with Stephen Colbert to by Critical Role to Benefit Red Nose Day — speakers: Stephen Colbert, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-04-28 — C3E21 Fight at the Museum… — speakers: Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-04-21 — C3E20 Breaking and Entering... — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-04-14 — C3E19 Omens Above — speakers: Omens Above Newly, Heartmoor Hamlet, Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2022-04-12 — Silken Secrets | 4-Sided Dive Episode 1: Discussing Up to C3E18 — speakers: Robbie Daymond, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-04-08 — Exandria Unlimited: Kymal | Part 2 — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-04-07 — Exandria Unlimited: Kymal | Part 1 — speakers: Exandria Unlimited, Dorian Storm, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2022-04-04 — Tiny Tina's Wonderlands One-Shot — speakers: Tiny Tina, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2022-03-31 — C3E18 A Hungry Jungle — speakers: Hungry Jungle While, Heartmoor Hamlet, Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2022-03-24 — C3E17 Heart-to-Heartmoor — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-03-17 — C3E16 The Shade Mother — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-03-10 — C3E15 The Tunnels Below — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-03-08 — Elden Ring One-Shot: O Ye of Little Faith — speakers: Elden Ring One-Shot, Elden Ring, Matthew Mercer, Marisha Ray, Sam Riegel, Krystina Arielle, Brennan Lee Mulligan, Alexander Ward, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2022-03-08 — Elden Ring One-Shot: O Ye of Little Faith — speakers: Elden Ring One-Shot, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2022-02-24 — C3E14 In Too Deep — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-02-17 — C3E13 A Dance of Deception — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-02-10 — C3E12 Make It Fashion — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-02-03 — Guest Battle Royale — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-01-27 — C3E11 Chasing Nightmares — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2022-01-20 — C3E10 Ghosts, Dates, and Darker Fates — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2022-01-13 — C3E9 Thicker Grows the Meal and Plot — speakers: Thicker Grows, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2022-01-13 — C3E9 Thicker Grows the Meal and Plot — speakers: Thicker Grows, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-12-23 — C3E8 A Woodworker’s Quandary — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-12-16 — C3E7 Behind the Curtain — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-12-09 — C3E6 Growing Bonds and Teasing Threads — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-11-25 — C3E5 The Threat Between the Walls — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-11-18 — C3E4 On the Trail of a Killer — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-11-11 — C3E3 The Trail and the Toll — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-12-09 — C3E6 Growing Bonds and Teasing Threads — speakers: Growing Bonds, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-11-25 — C3E5 The Threat Between the Walls — speakers: Walls After, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-11-18 — C3E4 On the Trail of a Killer — speakers: Killer Determined, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-11-11 — C3E3 The Trail and the Toll — speakers: Toll While, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-11-04 — C3E2 Trial by Firelight — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-11-02 — The Elder Scrolls Online: Blackwood - Part Three: The Golden Goose One-Shot — speakers: Liam O'Brien, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-11-02 — The Elder Scrolls Online: Blackwood - Part Three: The Golden Goose One-Shot — speakers: Online Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-10-28 — C3E1 The Draw of Destiny — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-09-16 — The Nautilus Ark: A Johnson Corp Odyssey | Ashley's One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-09-02 — Exandria Unlimited Wrap-Up — speakers: Exandria Unlimited Wrap, Exandria Unlimited, Marisha Ray, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-08-26 — The Elder Scrolls Online: Blackwood - Part Two: A Faulty Foundation One-Shot — speakers: Marisha Ray, Matthew Mercer, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-08-19 — Exandria Unlimited Episode 8: What Comes Next — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-08-12 — Exandria Unlimited Episode 7: Beyond the Heart City — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-08-05 — Exandria Unlimited Episode 6: The Gift Among the Green — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-07-29 — Exandria Unlimited Episode 5: A Test of Worth — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-07-22 — Exandria Unlimited Episode 4: By The Road — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-07-15 — Exandria Unlimited Episode 3: A Glorious Return — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-07-08 — Exandria Unlimited Episode 2: The Oh No Plateau — speakers: Exandria Unlimited, criticalrole Hosted, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-07-01 — Exandria Unlimited Episode 1: The Nameless Ones — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-06-25 — Vox Machina vs. Mighty Nein — speakers: Mighty Nein, Anna Zee, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-06-24 — Critical Role Campaign 2 Wrap Up — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-06-10 — C2E141 Fond Farewells — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-06-07 — The Elder Scrolls Online: Blackwood - Part One: Death & Taxes One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-06-03 — C2E140 Long May He Reign — speakers: Long May, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-09-02 — Exandria Unlimited Wrap-Up — speakers: Exandria Unlimited Wrap, Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2021-08-26 — The Elder Scrolls Online: Blackwood - Part Two: A Faulty Foundation One-Shot — speakers: Faulty Foundation One, Online Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2021-08-19 — Exandria Unlimited Episode 8: What Comes Next — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-08-12 — Exandria Unlimited Episode 7: Beyond the Heart City — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-08-05 — Exandria Unlimited Episode 6: The Gift Among the Green — speakers: Green Finally, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-07-29 — Exandria Unlimited Episode 5: A Test of Worth — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-07-22 — Exandria Unlimited Episode 4: By The Road — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-07-15 — Exandria Unlimited Episode 3: A Glorious Return — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-07-08 — Exandria Unlimited Episode 2: The Oh No Plateau — speakers: Fire Ashari, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-07-01 — Exandria Unlimited Episode 1: The Nameless Ones — speakers: Exandria Unlimited, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-06-25 — Vox Machina vs. Mighty Nein — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-06-24 — Critical Role Campaign 2 Wrap Up — speakers: Critical Role Campaign, Wrap Up Now, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2021-06-10 — C2E141 Fond Farewells — speakers: Blooming Grove, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-06-07 — The Elder Scrolls Online: Blackwood - Part One: Death & Taxes One-Shot — speakers: Taxes One, Online Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2021-06-03 — C2E140 Long May He Reign — speakers: Long May, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-05-27 — C2E139 Rebirth — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-05-20 — C2E138 Where There Is A Will... — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-05-13 — C2E137 Welcome to Cognouza — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-05-06 — C2E136 Hell or High Water — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-05-13 — C2E137 Welcome to Cognouza — speakers: Cognouza Floating, Astral Sea, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2021-05-06 — C2E136 Hell or High Water — speakers: Immensus Gate, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-04-29 — C2E135 The Genesis Ward — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-04-22 — C2E134 The Streets of the Forgotten — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-04-15 — C2E133 Hunter and Hunted — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-04-08 — C2E132 Aeor — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-04-01 — C2E131 Into the Eye — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-03-25 — C2E130 The Calm Before The Storm — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-03-25 — C2E130 The Calm Before The Storm — speakers: Storm Reunions, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2021-03-18 — C2E129 Between a Ball and a Hot Place — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-03-11 — C2E128 Cat and Mouse — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-03-04 — C2E127 Sarsaparilla, Licorice, and Red Hot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2021-02-25 — C2E126 Worth Fighting For — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-02-18 — C2E125 The Neverending Day — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-02-11 — C2E124 A Walk to Warmer Welcomes — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-02-04 — C2E123 Fair-weather Faith — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2021-01-28 — C2E122 Nothing Ventured, Nothing Gained — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2021-02-18 — C2E125 The Neverending Day — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-02-11 — C2E124 A Walk to Warmer Welcomes — speakers: Warmer Welcomes Exhausted, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2021-02-04 — C2E123 Fair-weather Faith — speakers: eye-opening revelations, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2021-01-28 — C2E122 Nothing Ventured, Nothing Gained — speakers: ever growing, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2021-01-21 — C2E121 Ice and Fire — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-12-24 — C2E120 Contentious Company — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-12-17 — C2E119 Malice and Mystery Below — speakers: Mystery Below Deep, Mighty Nein, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-12-10 — C2E118 Solace Between the Secrets — speakers: Solace Between, Watch Critical Rol, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-12-17 — C2E119 Malice and Mystery Below — speakers: Mystery Below Deep, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2020-12-10 — C2E118 Solace Between the Secrets — speakers: Solace Between, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2020-11-26 — C2E117 The Tortoise and The Dare — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-11-19 — C2E116 Under Timeless Ice — speakers: Mighty Nein, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-11-19 — C2E116 Under Timeless Ice — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2020-11-12 — C2E115 Fetching Fables & Frosty Friends — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-11-05 — C2E114 An Open Window — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-10-29 — C2E113 A Heart Grown Cold — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-10-22 — C2E112 The Chase Begins — speakers: Dark Dice, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-10-01 — C2E111 New Homes and Old Friends — speakers: New Homes, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-09-24 — C2E110 Dinner with the Devil — speakers: both revelations, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-10-22 — C2E112 The Chase Begins — speakers: Dark Dice, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-10-01 — C2E111 New Homes and Old Friends — speakers: New Homes, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-09-24 — C2E110 Dinner with the Devil — speakers: both revelatio, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2020-09-17 — C2E109 Frigid Propositions — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-09-10 — C2E108 Traveler Con — speakers: Traveler Con, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-09-03 — C2E107 Devoutness and Dicks — speakers: Traveler Con, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-08-20 — C2E106 A Fog Lifted — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-09-10 — C2E108 Traveler Con — speakers: Traveler Con, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-09-03 — C2E107 Devoutness and Dicks — speakers: Traveler Con, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-08-20 — C2E106 A Fog Lifted — speakers: Dark Dice, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2020-08-13 — C2E105 Rumble at Rumblecusp — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-08-06 — C2E104 The Ruined Sliver — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-07-31 — C2E103 Maritime Mysteries — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-07-23 — C2E102 Ghosts, Dinosaurs, and Stuff — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-07-16 — C2E101 Mysteries, Memories, and Music — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-07-09 — C2E100 Hunted at Sea — speakers: determined foe, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-03-23 — Doom Eternal One-Shot — speakers: Matthew Mercer, Sam Riegel, Laura Bailey, Anjali Bhimani, Jasmine Bhullar, Marisha Ray, Travis Willingham, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
-- 2020-03-19 — C2E99 High Seas, High Stakes — speakers: High Seas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-03-12 — C2E98 Dark Waters — speakers: Watch Criti, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-03-05 — C2E97 The Fancy and the Fooled — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-02-27 — C2E96 Family Shatters — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-02-21 — Cinderbrush: A Monsterhearts Story (A Critical Role One-Shot) — speakers: Matthew Mercer, Jamie Wrenly, Ashley Johnson, Cameron Solomon, Erika Ishii, Sasha Murasaki, Ally Beardsley, agbeardsley Check, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2020-07-16 — C2E101 Mysteries, Memories, and Music — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-07-09 — C2E100 Hunted at Sea — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-03-23 — Doom Eternal One-Shot — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-03-19 — C2E99 High Seas, High Stakes — speakers: High Seas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-03-12 — C2E98 Dark Waters — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-03-05 — C2E97 The Fancy and the Fooled — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-02-27 — C2E96 Family Shatters — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-02-21 — Cinderbrush: A Monsterhearts Story (A Critical Role One-Shot) — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-02-20 — C2E95 Blessing In Disguise — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-02-13 — C2E94 With Great Power... — speakers: Great Power, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2020-02-06 — C2E93 Misery Loves Company — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2020-02-13 — C2E94 With Great Power... — speakers: Great Power, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2020-02-06 — C2E93 Misery Loves Company — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2020-01-30 — C2E92 Home Is Where the Heart Is — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-01-23 — C2E91 Stone to Clay — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2020-01-16 — C2E90 Bathhouses and Bastions — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-12-27 — C2E89 Lingering Wounds — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-12-19 — C2E88 Unwanted Reunions — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-12-12 — C2E87 Punishment and Politics — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-12-06 — The Adventures of the Darrington Brigade — speakers: Taryon Darrington, Eldritch Foundry, Iron Tusk Painting, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-11-28 — C2E86 The Cathedral — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-12-12 — C2E87 Punishment and Politics — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-12-06 — The Adventures of the Darrington Brigade — speakers: Taryon Darrington, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-11-28 — C2E86 The Cathedral — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-11-21 — C2E85 The Threads Converge — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-11-14 — C2E84 Titles and Tattoos — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-11-07 — C2E83 Dark Bargains — speakers: Dark Bargains, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-11-07 — C2E83 Dark Bargains — speakers: Dark Bargains, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2019-10-31 — C2E82 The Beat of the Permaheart — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-10-24 — C2E81 From Door to Door — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-10-24 — C2E81 From Door to Door — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-10-17 — C2E80 The Folding Halls — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-10-03 — C2E79 Through the Trees — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-10-03 — C2E79 Through the Trees — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-09-26 — C2E78 Between the Lines — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-09-12 — C2E77 A Tangled Web — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-09-05 — Vox Machina: Dalen's Closet — speakers: Vox Machina, Kit Buss, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-08-29 — C2E76 Refjorged — speakers: Refjorged Join, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-08-22 — C2E75 Rime and Reason — speakers: Mica Burton, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-08-15 — C2E74 Manifold Morals — speakers: Manifold Morals, Mica Burton, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-08-08 — C2E73 Uthodurn — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-08-05 — Call of Cthulhu: Shadow of the Crystal Palace — speakers: cthulhu Brought, Marisha Ray, Erika Ishii, Phil LaMarr, Travis Willingham, Ashly Burch, Liam O'Brien, Matthew Mercer, Laura Bailey, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-09-12 — C2E77 A Tangled Web — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-09-05 — Vox Machina: Dalen's Closet — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-08-29 — C2E76 Refjorged — speakers: Refjorged Join, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-08-22 — C2E75 Rime and Reason — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-08-15 — C2E74 Manifold Morals — speakers: Manifold Morals, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-08-08 — C2E73 Uthodurn — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-08-05 — Call of Cthulhu: Shadow of the Crystal Palace — speakers: Crystal Palace Pick, Cthulhu Starter Set, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2019-08-01 — C2E72 Clay and Dust — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-07-25 — C2E71 Family Gathering — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-07-25 — C2E71 Family Gathering — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-07-18 — C2E70 Causatum — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-07-04 — C2E69 The King's Cage — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-06-28 — The Search For Bob — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-06-27 — C2E68 Reflections — speakers: familiar foes, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-06-20 — C2E67 Beyond the Eyes of Angels — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-06-14 — Tails of Equestria One-Shot — speakers: Equestria One-Shot, Ashley Johnson, Markeia McCarty, Julie Nathanson, Liam O'Brien, Roger Craig Smith, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe, Sam Riegel
-- 2019-06-13 — C2E66 Beneath Bazzoxan — speakers: Beneath Bazzoxan, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-06-27 — C2E68 Reflections — speakers: Reflections Continuing, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2019-06-20 — C2E67 Beyond the Eyes of Angels — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-06-14 — Tails of Equestria One-Shot — speakers: Equestria One-Shot, Ashley Johnson, Markeia McCarty, Julie Nathanson, Liam O'Brien, Roger Crai, Matthew Mercer, Marisha Ray
+- 2019-06-13 — C2E66 Beneath Bazzoxan — speakers: Beneath Bazzoxan, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2019-06-06 — C2E65 Chases and Trees — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-05-30 — C2E64 A Dangerous Chase — speakers: Dangerous Chase Giving, Mighty Nein, Barbed Fields, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-05-23 — C2E63 Intervention — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-05-16 — C2E62 Domestic Respite — speakers: Overcrow Apothecary, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-05-30 — C2E64 A Dangerous Chase — speakers: Dangerous Chase Giving, Mighty Nein, Barbed Fields, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2019-05-23 — C2E63 Intervention — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-05-16 — C2E62 Domestic Respite — speakers: Overcrow Apothecary, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2019-05-09 — C2E61 Agreements — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-05-02 — C2E60 A Turtle By Any Other Name — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-05-02 — C2E60 A Turtle By Any Other Name — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-04-25 — C2E59 Perspective — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-04-18 — C2E58 Wood and Steel — speakers: Critter Arsequeef, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-04-18 — C2E58 Wood and Steel — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-04-11 — C2E57 In Love and War — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-03-28 — C2E56 The Favor — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-03-22 — The Night Before Critmas — speakers: Julie Nathanson, Liam O'Brien, Hugo Cardenas, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-03-22 — The Night Before Critmas — speakers: Julie Nathanson, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2019-03-21 — C2E55 Duplicity — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-03-15 — Honey Heist 3: Tova's Honeys — speakers: Honey Heist, Presenting Honey Heist, Noelle Stevenson, Mary Elizabeth McGlynn, Krystina Arielle, Brittany Walloch-Key, Dani Carr, Laura Bailey, Matthew Mercer, Marisha Ray, Travis Willingham, Liam O'Brien
-- 2019-03-14 — C2E54 Well Beneath — speakers: Critter Arsequeef, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-03-08 — Crash Pandas — speakers: Crash Pandas, Sam Riegel, Blair Herter, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Ashley Johnson
+- 2019-03-15 — Honey Heist 3: Tova's Honeys — speakers: Honey Heist, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-03-14 — C2E54 Well Beneath — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-03-08 — Crash Pandas — speakers: Crash Pandas, Sam Riegel, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2019-03-07 — C2E53 Cornered — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-02-28 — C2E52 Feral Business — speakers: Critter Arsequeef, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-02-23 — The Search For Grog — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-02-15 — C2E51 Xhorhas — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-02-01 — C2E50 The Endless Burrows — speakers: Mighty Nein, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-02-28 — C2E52 Feral Business — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-02-23 — The Search For Grog — speakers: Vox Machina, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2019-02-15 — C2E51 Xhorhas — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-02-01 — C2E50 The Endless Burrows — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2019-01-25 — C2E49 A Game of Names — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2019-01-18 — C2E48 Homeward Bound — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2019-01-11 — C2E47 The Second Seal — speakers: Mighty Nein, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-12-21 — C2E46 A Storm of Memories — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2019-01-11 — C2E47 The Second Seal — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-12-21 — C2E46 A Storm of Memories — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-12-14 — C2E45 The Stowaway — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-12-07 — C2E44 The Diver's Grave — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-12-07 — C2E44 The Diver's Grave — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-11-30 — C2E43 In Hot Water — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-11-16 — C2E42 A Hole In a Plan — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-11-09 — C2E41 A Pirate's Life for Me — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-11-09 — C2E41 A Pirate's Life for Me — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-11-02 — C2E40 Dubious Pursuits — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-10-19 — C2E39 Temple of the False Serpent — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-10-19 — C2E39 Temple of the False Serpent — speakers: Watch Criti, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2018-10-12 — C2E38 Welcome to the Jungle — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-10-05 — C2E37 Dangerous Liaisons — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-09-28 — C2E36 O Captain, Who's Captain? — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-09-21 — C2E35 Dockside Diplomacy — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-10-05 — C2E37 Dangerous Liaisons — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-09-28 — C2E36 O Captain, Who's Captain? — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-09-21 — C2E35 Dockside Diplomacy — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-09-14 — C2E34 Encroaching Waters — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-09-07 — C2E33 The Ruby and the Sapphire — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-08-31 — Liam’s One-Shot: The Song of the Lorelei — speakers: Liam O'Brien, Laura Bailey, Erica Luttrell, Sam Riegel, Travis Willingham, Matthew Mercer, Marisha Ray, Taliesin Jaffe, Ashley Johnson
+- 2018-09-07 — C2E33 The Ruby and the Sapphire — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-08-31 — Liam’s One-Shot: The Song of the Lorelei — speakers: Liam O'Brien, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2018-08-24 — C2E32 Beyond the Boundaries — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-08-17 — C2E31 Commerce & Chaos — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-08-10 — C2E30 The Journey Home — speakers: they've lost, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-08-04 — C2E29 The Stalking Nightmare - Live from Indy — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-07-27 — C2E28 Within the Nest — speakers: Sumalee Montano, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-07-20 — C2E27 Converging Fury — speakers: Shadycreek Run, Sumalee Montano, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-08-17 — C2E31 Commerce & Chaos — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-08-10 — C2E30 The Journey Home — speakers: those they've, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-08-04 — C2E29 The Stalking Nightmare - Live from Indy — speakers: Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-07-27 — C2E28 Within the Nest — speakers: Iron Shepherds, Sour Nest, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2018-07-20 — C2E27 Converging Fury — speakers: Converging Fury Still, Iron Shepherds, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
 - 2018-07-13 — C2E26 Found & Lost — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-06-29 — C2E25 Divergent Paths — speakers: Gear Warden, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-06-22 — C2E24 The Hour of Honor — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-06-15 — C2E23 Have Bird, Will Travel — speakers: Will Travel After, Labenda Swamp, Mighty Nein, Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-06-08 — C2E22 Lost Treasures — speakers: Watch Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-06-01 — C2E21 Stalker in the Swamp — speakers: Mark Hulmes, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2018-05-25 — C2E20 Labenda Awaits — speakers: Labenda Awaits, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-06-29 — C2E25 Divergent Paths — speakers: Gear Warden, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
+- 2018-06-22 — C2E24 The Hour of Honor — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-06-15 — C2E23 Have Bird, Will Travel — speakers: Will Travel After, Labenda Swamp, Mighty Nein, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
+- 2018-06-08 — C2E22 Lost Treasures — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
+- 2018-06-01 — C2E21 Stalker in the Swamp — speakers: Mighty Nein, Labenda Swamp, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2018-05-25 — C2E20 Labenda Awaits — speakers: Labenda Awaits, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel

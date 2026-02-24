@@ -2,9 +2,9 @@
 
 - slug: `adventure-is-nigh`
 - source: `https://anchor.fm/s/fcdf7d8c/podcast/rss`
-- fetched_at: `2026-02-23T10:13:58+00:00`
-- checked_at: `2026-02-23T10:13:58+00:00`
-- etag: `W/"18a71-WoH8HvZfd9z/W8Kkh41xmIrz1do"`
+- fetched_at: `2026-02-24T13:46:01+00:00`
+- checked_at: `2026-02-24T13:46:01+00:00`
+- etag: `W/"18a71-bd2AY7GSDDpnf3HHhaqCJNVL9bg"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Adventure is Nigh is Second Wind's animated Dungeons & Dragons actual play series hosted by Jack Packard and featuring Yahtzee Croshaw, KC Nwosu, Amy Campbell and Jesse Galena.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42325051/42325051-1730101520408-b0882a325f37d.jpg",
-  "fetched_at": "2026-02-23T10:13:58+00:00",
+  "fetched_at": "2026-02-24T13:46:01+00:00",
   "owners": [
     "Jack Packard",
     "Yahtzee Croshaw",
@@ -318,8 +318,6 @@
       "enclosure_length": "122411552",
       "itunes_duration": "01:25:00",
       "speakers": [
-        "Kelondra Ticklepuss",
-        "Chisarick Thathird",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -346,6 +344,7 @@
       "enclosure_length": "84754976",
       "itunes_duration": "00:58:51",
       "speakers": [
+        "Castle Sasha",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -428,8 +427,6 @@
       "enclosure_length": "79137824",
       "itunes_duration": "00:54:57",
       "speakers": [
-        "Queen Beyonce",
-        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -456,7 +453,6 @@
       "enclosure_length": "80726432",
       "itunes_duration": "00:56:03",
       "speakers": [
-        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -539,7 +535,6 @@
       "enclosure_length": "88542176",
       "itunes_duration": "01:01:29",
       "speakers": [
-        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -594,6 +589,7 @@
       "enclosure_length": "92088608",
       "itunes_duration": "01:03:57",
       "speakers": [
+        "No Deal",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -621,7 +617,6 @@
       "enclosure_length": "92601248",
       "itunes_duration": "01:04:18",
       "speakers": [
-        "com SecondWindGroup",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -649,7 +644,9 @@
       "enclosure_length": "94166240",
       "itunes_duration": "01:05:23",
       "speakers": [
-        "com SecondWindGroup",
+        "Deer Caught",
+        "Side Quest",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -677,7 +674,9 @@
       "enclosure_length": "102077024",
       "itunes_duration": "01:10:53",
       "speakers": [
-        "com SecondWindGroup",
+        "Pay Rent",
+        "Side Quest",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -704,7 +703,8 @@
       "enclosure_length": "107322656",
       "itunes_duration": "01:14:31",
       "speakers": [
-        "com SecondWindGroup",
+        "Side Quest",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -730,12 +730,14 @@
       "enclosure_length": "117263840",
       "itunes_duration": "01:21:25",
       "speakers": [
-        "com SecondWindGroup",
+        "Cat Cat Bang Bang",
+        "Side Quest",
+        "Finale Don",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
-        "Amy Campbell",
-        "Jesse Galena"
+        "Amy Campbell"
       ],
       "topics": [
         "bang",
@@ -757,7 +759,8 @@
       "enclosure_length": "122429984",
       "itunes_duration": "01:25:01",
       "speakers": [
-        "com SecondWindGroup",
+        "Side Quest",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -782,7 +785,8 @@
       "enclosure_length": "93944480",
       "itunes_duration": "01:05:14",
       "speakers": [
-        "com SecondWindGroup",
+        "Side Quest",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -807,7 +811,6 @@
       "enclosure_length": "129153056",
       "itunes_duration": "01:29:41",
       "speakers": [
-        "com SecondWindGroup",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -836,7 +839,8 @@
       "enclosure_length": "134911328",
       "itunes_duration": "01:33:41",
       "speakers": [
-        "com SecondWindGroup",
+        "King Fuzzyhug",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -864,7 +868,8 @@
       "enclosure_length": "139613216",
       "itunes_duration": "01:36:57",
       "speakers": [
-        "com SecondWindGroup",
+        "Cookie Crumbles",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -892,7 +897,8 @@
       "enclosure_length": "120824096",
       "itunes_duration": "01:23:54",
       "speakers": [
-        "com SecondWindGroup",
+        "Mushroom Blitz",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -920,7 +926,7 @@
       "enclosure_length": "106206368",
       "itunes_duration": "01:13:45",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -948,7 +954,8 @@
       "enclosure_length": "123520352",
       "itunes_duration": "01:25:46",
       "speakers": [
-        "com SecondWindGroup",
+        "Dear Celia",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -976,7 +983,7 @@
       "enclosure_length": "120389216",
       "itunes_duration": "01:23:36",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1003,7 +1010,8 @@
       "enclosure_length": "91172192",
       "itunes_duration": "01:03:18",
       "speakers": [
-        "com SecondWindGroup",
+        "Miner Inconveniences",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1031,7 +1039,7 @@
       "enclosure_length": "98116448",
       "itunes_duration": "01:08:08",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1059,7 +1067,8 @@
       "enclosure_length": "102376544",
       "itunes_duration": "01:11:05",
       "speakers": [
-        "com SecondWindGroup",
+        "Castle Oh",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1087,7 +1096,8 @@
       "enclosure_length": "114683936",
       "itunes_duration": "01:19:38",
       "speakers": [
-        "com SecondWindGroup",
+        "Off Bridge",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1116,7 +1126,6 @@
       "enclosure_length": "99937184",
       "itunes_duration": "01:09:24",
       "speakers": [
-        "com SecondWindGroup",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1144,7 +1153,8 @@
       "enclosure_length": "114547424",
       "itunes_duration": "01:19:32",
       "speakers": [
-        "com SecondWindGroup",
+        "No Yolk",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1171,7 +1181,7 @@
       "enclosure_length": "96839456",
       "itunes_duration": "01:07:14",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1198,7 +1208,7 @@
       "enclosure_length": "77711072",
       "itunes_duration": "00:53:57",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1226,7 +1236,6 @@
       "itunes_duration": "01:56:46",
       "speakers": [
         "Common Names",
-        "com SecondWindGroup",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1256,7 +1265,8 @@
       "enclosure_length": "106060610",
       "itunes_duration": "01:13:09",
       "speakers": [
-        "com SecondWindGroup",
+        "Minimum Amount",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1284,7 +1294,7 @@
       "enclosure_length": "103078223",
       "itunes_duration": "01:10:59",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1312,7 +1322,7 @@
       "enclosure_length": "89711491",
       "itunes_duration": "01:01:58",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1339,7 +1349,7 @@
       "enclosure_length": "78061940",
       "itunes_duration": "00:53:53",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1367,7 +1377,8 @@
       "enclosure_length": "81492213",
       "itunes_duration": "00:56:16",
       "speakers": [
-        "com SecondWindGroup",
+        "Artificial Monsters",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1395,7 +1406,7 @@
       "enclosure_length": "89941506",
       "itunes_duration": "01:02:08",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1421,7 +1432,7 @@
       "enclosure_length": "75072035",
       "itunes_duration": "00:51:48",
       "speakers": [
-        "com SecondWindGroup",
+        "Second Wind",
         "Jack Packard",
         "Yahtzee Croshaw",
         "KC Nwosu",
@@ -1480,45 +1491,45 @@
 - 2025-04-01 — A Complicated Family Matter | Adventure Is Nigh! - The Cat's Paw | S4 E3 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2025-03-01 — Because of the Implication | Adventure Is Nigh! - The Cat's Paw | S4 E2 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2025-02-15 — Catch-Ups and Karens | Adventure Is Nigh! - The Cat's Paw | S4 E1 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — The Liar | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E11 — speakers: Kelondra Ticklepuss, Chisarick Thathird, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — The Witch | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E10 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — The Liar | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E11 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — The Witch | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E10 — speakers: Castle Sasha, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-11-09 — Break A Few Eggs | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E9 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-11-09 — A Man, A Plan and A Flashback | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E8 — speakers: Queen Beyonce, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — The War-Torn | Adventure is Nigh! - The Liar, The Witch, and The Wartorn | S3 E7 — speakers: Queen Beyonce, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — A Perfectly Reasonable Plan | Adventure is Nigh - The Liar, The Witch and The Wartorn | S3 E6 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — The War-Torn | Adventure is Nigh! - The Liar, The Witch, and The Wartorn | S3 E7 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — A Perfectly Reasonable Plan | Adventure is Nigh - The Liar, The Witch and The Wartorn | S3 E6 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-11-09 — Paint the Town... Dead | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E5 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-11-09 — The Forest for The Tree | Adventure is Nigh - The Liar, The Witch and the Wartorn | S3 E4 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — Was Born a Shamblin' | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E3 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — Was Born a Shamblin' | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E3 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-11-09 — An Unexpected Dump | Adventure is Nigh! - The Liar, The Witch and The Wartorn | S3 E2 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-09 — Deal or No Deal | Adventure is Nigh! - The Liar, The Witch, and the Wartorn | S3 E1 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Trouble with Wizards | Adventure is Nigh - Side Quest | S2 Finale — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — A Deer Caught in Twilight | Adventure is Nigh - Side Quest | S2 EP 3 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Pay Rent or Repent | Adventure is Nigh - Side Quest | S2 EP 2 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Cabin That Calls | Adventure is Nigh - Side Quest | S2 EP 1 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Cat Cat Bang Bang | Adventure is Nigh - Side Quest | Finale — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Foreshadowing | Adventure is Nigh - Side Quest | EP 2 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Cat Café | Adventure is Nigh - Side Quest | EP 1 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Price of Victory | Adventure is Nigh - The Platinum Heart | S2 Finale — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — King Fuzzyhug | Adventure is Nigh - The Platinum Heart | S2 EP 14 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — As the Cookie Crumbles | Adventure is Nigh - The Platinum Heart | S2 EP 13 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — It's...It's...A Mushroom Blitz! | Adventure is Nigh - The Platinum Heart | S2 EP 12 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Mother of all Mushrooms | Adventure is Nigh - The Platinum Heart | S2 EP 11 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Dear Celia... | Adventure is Nigh - The Platinum Heart | S2 EP 10 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Wormshippers | Adventure is Nigh - The Platinum Heart | S2 EP 9 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Miner Inconveniences | Adventure is Nigh - The Platinum Heart | S2 EP 8 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Murder-Dome! | Adventure is Nigh - The Platinum Heart | S2 EP 7 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — A Rest at Castle Oh-Frick | Adventure is Nigh - The Platinum Heart | S2 EP 6 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Battle of Piss-Off Bridge | Adventure is Nigh - The Platinum Heart | S2 EP 5 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Worm and Cozy | Adventure is Nigh - The Platinum Heart | S2 EP 4 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Adventuring is No Yolk | Adventure is Nigh - The Platinum Heart | S2 EP 3 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Welcome to VVestage | Adventure is Nigh - The Platinum Heart | S2 EP 2 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Run the Jewels | Adventure is Nigh - The Platinum Heart | S2 EP 1 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Cons, Combat and Common Names | Adventure is Nigh - The Jade Homunculus | EP 8+9 — speakers: Common Names, com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — A Minimum Amount of Flair | Adventure is Nigh - The Jade Homunculus | EP 7 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — The Quiver in the River | Adventure is Nigh - The Jade Homunculus | EP 6 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Oh, Fudge! | Adventure is Nigh - The Jade Homunculus | EP 5 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Gold and Pastries | Adventure is Nigh - The Jade Homunculus | EP 4 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Artificial Monsters and Natural 1s | Adventure is Nigh - The Jade Homunculus | EP 3 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Keep, Trying | Adventure is Nigh - The Jade Homunculus | EP 2 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
-- 2024-11-08 — Beginnings | Adventure is Nigh - The Jade Homunculus | EP 1 — speakers: com SecondWindGroup, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-09 — Deal or No Deal | Adventure is Nigh! - The Liar, The Witch, and the Wartorn | S3 E1 — speakers: No Deal, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Trouble with Wizards | Adventure is Nigh - Side Quest | S2 Finale — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — A Deer Caught in Twilight | Adventure is Nigh - Side Quest | S2 EP 3 — speakers: Deer Caught, Side Quest, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Pay Rent or Repent | Adventure is Nigh - Side Quest | S2 EP 2 — speakers: Pay Rent, Side Quest, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Cabin That Calls | Adventure is Nigh - Side Quest | S2 EP 1 — speakers: Side Quest, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Cat Cat Bang Bang | Adventure is Nigh - Side Quest | Finale — speakers: Cat Cat Bang Bang, Side Quest, Finale Don, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell
+- 2024-11-08 — Foreshadowing | Adventure is Nigh - Side Quest | EP 2 — speakers: Side Quest, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Cat Café | Adventure is Nigh - Side Quest | EP 1 — speakers: Side Quest, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Price of Victory | Adventure is Nigh - The Platinum Heart | S2 Finale — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — King Fuzzyhug | Adventure is Nigh - The Platinum Heart | S2 EP 14 — speakers: King Fuzzyhug, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — As the Cookie Crumbles | Adventure is Nigh - The Platinum Heart | S2 EP 13 — speakers: Cookie Crumbles, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — It's...It's...A Mushroom Blitz! | Adventure is Nigh - The Platinum Heart | S2 EP 12 — speakers: Mushroom Blitz, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Mother of all Mushrooms | Adventure is Nigh - The Platinum Heart | S2 EP 11 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Dear Celia... | Adventure is Nigh - The Platinum Heart | S2 EP 10 — speakers: Dear Celia, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Wormshippers | Adventure is Nigh - The Platinum Heart | S2 EP 9 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Miner Inconveniences | Adventure is Nigh - The Platinum Heart | S2 EP 8 — speakers: Miner Inconveniences, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Murder-Dome! | Adventure is Nigh - The Platinum Heart | S2 EP 7 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — A Rest at Castle Oh-Frick | Adventure is Nigh - The Platinum Heart | S2 EP 6 — speakers: Castle Oh, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Battle of Piss-Off Bridge | Adventure is Nigh - The Platinum Heart | S2 EP 5 — speakers: Off Bridge, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Worm and Cozy | Adventure is Nigh - The Platinum Heart | S2 EP 4 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Adventuring is No Yolk | Adventure is Nigh - The Platinum Heart | S2 EP 3 — speakers: No Yolk, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Welcome to VVestage | Adventure is Nigh - The Platinum Heart | S2 EP 2 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Run the Jewels | Adventure is Nigh - The Platinum Heart | S2 EP 1 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Cons, Combat and Common Names | Adventure is Nigh - The Jade Homunculus | EP 8+9 — speakers: Common Names, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — A Minimum Amount of Flair | Adventure is Nigh - The Jade Homunculus | EP 7 — speakers: Minimum Amount, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — The Quiver in the River | Adventure is Nigh - The Jade Homunculus | EP 6 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Oh, Fudge! | Adventure is Nigh - The Jade Homunculus | EP 5 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Gold and Pastries | Adventure is Nigh - The Jade Homunculus | EP 4 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Artificial Monsters and Natural 1s | Adventure is Nigh - The Jade Homunculus | EP 3 — speakers: Artificial Monsters, Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Keep, Trying | Adventure is Nigh - The Jade Homunculus | EP 2 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
+- 2024-11-08 — Beginnings | Adventure is Nigh - The Jade Homunculus | EP 1 — speakers: Second Wind, Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
 - 2024-10-31 — The Pilot | Adventure is Nigh - The Jade Homunculus | EP 0 — speakers: Jack Packard, Yahtzee Croshaw, KC Nwosu, Amy Campbell, Jesse Galena
