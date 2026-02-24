@@ -1,10 +1,11 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" id="htmlRoot" data-theme="modern">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Video Podcasts</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="themes.css">
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
 </head>
 <body>
@@ -17,21 +18,37 @@
     </div>
 
     <div class="guideBar" id="guideBar">
-      <button id="btnChannel" class="guideChannel" title="Channels">—</button>
-      <div class="guideNow" id="guideNow">—</div>
-      <button id="btnRandom" class="guideBtn" title="Random">Random</button>
-      <button id="btnCC" class="guideBtn" title="Subtitles" aria-label="Subtitles">CC</button>
-      <button id="btnPlay" class="guideBtn" title="Play/Pause">▶</button>
-      <div class="guideTime mono" id="guideTime">00:00</div>
+      <div class="guideBar-inner">
+        <button id="btnSeekBack" class="guideBtn guideBtnSeek" title="-10s">−10</button>
+        <button id="btnSeekFwd" class="guideBtn guideBtnSeek" title="+30s">+30</button>
+        <div id="guideSeek" class="guideSeek" title="Seek">
+          <div id="guideSeekFill" class="guideSeekFill"></div>
+        </div>
+        <button id="btnChannel" class="guideChannel" title="Channels">—</button>
+        <div class="guideNow" id="guideNow">—</div>
+        <button id="btnRandom" class="guideBtn" title="Random">Random</button>
+        <button id="btnCC" class="guideBtn" title="Subtitles" aria-label="Subtitles">CC</button>
+        <button id="btnPlay" class="guideBtn" title="Play/Pause">▶</button>
+        <div class="guideTime mono" id="guideTime">00:00</div>
+        <div class="guideBar-sleep">
+          <button id="btnSleep" class="guideBtn" title="Sleep timer">Sleep</button>
+          <div id="sleepMenu" class="sleepMenu" aria-hidden="true">
+            <button class="sleepOpt" data-mins="5">5 min</button>
+            <button class="sleepOpt" data-mins="15">15 min</button>
+            <button class="sleepOpt" data-mins="30">30 min</button>
+            <button class="sleepOpt" data-mins="60">1 hr</button>
+          </div>
+        </div>
+        <button id="btnTheme" class="guideBtn" title="Theme">Theme</button>
+      </div>
     </div>
 
     <div id="guidePanel" class="guidePanel" aria-hidden="true">
-      <div class="guidePanelHeader">
-        <span>Channels</span>
-        <button id="btnCloseGuide" class="guideBtn">✕</button>
+      <div class="guidePanel-inner">
+        <div class="guidePanel-channels" id="guideFeeds"></div>
+        <div class="guidePanel-episodes" id="guideEpisodes"></div>
       </div>
-      <div class="guidePanelFeeds" id="guideFeeds"></div>
-      <div class="guidePanelEpisodes" id="guideEpisodes"></div>
+      <button id="btnCloseGuide" class="guidePanel-close">✕</button>
     </div>
 
     <div id="historyPanel" class="historyPanel" aria-hidden="true">

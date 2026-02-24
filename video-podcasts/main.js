@@ -1,6 +1,7 @@
 const $ = (s, el = document) => el.querySelector(s);
 
 import * as history from "./history.js";
+import { fetchCached } from "./feed-cache.js";
 
 const STORAGE_KEY = "video_podcasts_v1";
 const SOURCES_URL = "./video-sources.json";
@@ -27,18 +28,26 @@ function log(msg, level = "info") {
 
 const video = $("#video");
 const guideBar = $("#guideBar");
+const btnSeekBack = $("#btnSeekBack");
+const btnSeekFwd = $("#btnSeekFwd");
+const guideSeek = $("#guideSeek");
+const guideSeekFill = $("#guideSeekFill");
 const btnChannel = $("#btnChannel");
 const guideNow = $("#guideNow");
 const btnRandom = $("#btnRandom");
 const btnCC = $("#btnCC");
 const btnPlay = $("#btnPlay");
 const guideTime = $("#guideTime");
+const btnSleep = $("#btnSleep");
+const sleepMenu = $("#sleepMenu");
 const progress = $("#progress");
 const progressFill = $("#progressFill");
 const guidePanel = $("#guidePanel");
 const guideFeeds = $("#guideFeeds");
 const guideEpisodes = $("#guideEpisodes");
 const btnCloseGuide = $("#btnCloseGuide");
+const btnTheme = $("#btnTheme");
+const htmlRoot = $("#htmlRoot");
 const detailsPanel = $("#detailsPanel");
 const btnHistory = $("#btnHistory");
 const historyPanel = $("#historyPanel");
@@ -57,17 +66,39 @@ let sourcesFlat = [];
 let currentSource = null;
 let episodes = [];
 let currentEp = null;
+let episodesBySource = {};
+let guideFocusSourceIdx = 0;
+let guideFocusEpIdx = 0;
+let guideObserver = null;
+let guideLoadingSources = new Set();
 let hls = null;
 let lastPersistMs = 0;
 let userPaused = false;
 let userHasInteracted = false;
+let sleepEndAt = null;
+let sleepTickId = null;
+let guideBarIdleTo = null;
+let historyCloseTo = null;
+
+const GUIDE_IDLE_MS = 3000;
+const HISTORY_CLOSE_MS = 10000;
+const THEMES = ["modern", "dos"];
 
 const state = loadState();
+
+function resetGuideBarIdle() {
+  guideBarIdleTo = Date.now() + GUIDE_IDLE_MS;
+  guideBar?.classList.remove("idle");
+}
 
 function recordInteraction() {
   userHasInteracted = true;
   if (video.muted) video.muted = false;
   if (currentEp?.media?.url && !userPaused) video.play().catch(() => {});
+  resetGuideBarIdle();
+  if (historyPanel?.getAttribute("aria-hidden") === "false") {
+    historyCloseTo = Date.now() + HISTORY_CLOSE_MS;
+  }
 }
 
 function loadState() {
@@ -185,11 +216,14 @@ function parseTimeToSeconds(v) {
   return Math.max(0, a * 3600 + b * 60 + c);
 }
 
-async function fetchText(url, fetchVia = "auto") {
+async function fetchText(url, fetchVia = "auto", { useCache = false } = {}) {
   const u = String(url || "");
   const isRemote = /^https?:\/\//i.test(u);
   const via = fetchVia === "auto" ? (isRemote ? "proxy" : "direct") : fetchVia;
   const finalUrl = (via === "proxy" && isRemote) ? (FEED_PROXY + encodeURIComponent(u)) : u;
+  if (useCache && isRemote) {
+    return fetchCached(finalUrl);
+  }
   const res = await fetch(finalUrl, { cache: "no-store" });
   if (!res.ok) throw new Error(`fetch ${res.status}`);
   return await res.text();
@@ -259,6 +293,8 @@ function parseFeed(xmlText, source) {
       textFromXml(item.querySelector("description")) ||
       textFromXml(item.querySelector("summary")) ||
       "";
+    const durationRaw = textFromXml(item.querySelector("itunes\\:duration")) || attr(item.querySelector("itunes\\:duration"), "value") || "";
+    const durationSec = parseTimeToSeconds(durationRaw);
 
     const enclosures = [];
     if (isAtom) {
@@ -319,6 +355,7 @@ function parseFeed(xmlText, source) {
       dateText: (date && !Number.isNaN(date.valueOf())) ? date.toISOString().slice(0, 10) : "",
       description: desc,
       channelTitle,
+      durationSec: Number.isFinite(durationSec) ? durationSec : null,
       media: media?.url ? { url: media.url, type: media.type || "", hasVideoInFeed: media.hasVideoInFeed, pickedIsVideo: media.pickedIsVideo } : null,
       chaptersInline: pscChapters.length ? pscChapters : null,
       chaptersExternal: podcastChaptersUrl ? { url: podcastChaptersUrl, type: podcastChaptersType } : null,
@@ -330,6 +367,21 @@ function parseFeed(xmlText, source) {
 }
 
 const CATEGORY_ORDER = ["church", "university", "fitness", "bible", "twit", "podcastindex", "other", "needs-rss"];
+
+function getNowEpisodeForSource(sourceId) {
+  const cur = history.getCurrent();
+  if (cur && cur.sourceId === sourceId) return cur.episodeId;
+  for (const e of history.getEntries()) {
+    if (e.sourceId === sourceId) return e.episodeId;
+  }
+  return null;
+}
+
+function getHistoryForEpisode(sourceId, episodeId) {
+  const cur = history.getCurrent();
+  if (cur && cur.sourceId === sourceId && cur.episodeId === episodeId) return cur;
+  return history.getEntries().find(e => e.sourceId === sourceId && e.episodeId === episodeId);
+}
 
 function buildSourcesFlat() {
   const groups = new Map();
@@ -346,95 +398,309 @@ function buildSourcesFlat() {
   }
 }
 
-function renderGuideFeeds() {
-  guideFeeds.innerHTML = "";
-  const groups = new Map();
-  for (const s of sources) {
-    const cat = s.category || "other";
-    if (!groups.has(cat)) groups.set(cat, []);
-    groups.get(cat).push(s);
-  }
-  const cats = [...groups.keys()].sort((a, b) => (CATEGORY_ORDER.indexOf(a) - CATEGORY_ORDER.indexOf(b)) || a.localeCompare(b));
-  for (const cat of cats) {
-    const group = document.createElement("div");
-    group.className = "guideFeedGroup";
-    const label = document.createElement("div");
-    label.className = "guideFeedGroupLabel";
-    label.textContent = cat;
-    group.appendChild(label);
-    const list = groups.get(cat).slice().sort((a, b) => (a.title || a.id).localeCompare(b.title || b.id));
-    for (const s of list) {
-      const btn = document.createElement("button");
-      btn.className = "guideFeed";
-      btn.textContent = s.title || s.id;
-      btn.dataset.id = s.id;
-      btn.classList.toggle("active", currentSource?.id === s.id);
-      btn.addEventListener("click", async () => {
-        await loadSource(s.id, { preserveEpisode: false });
-        renderGuideEpisodes();
-      });
-      group.appendChild(btn);
-    }
-    guideFeeds.appendChild(group);
+async function loadSourceEpisodes(sourceId) {
+  if (episodesBySource[sourceId]) return episodesBySource[sourceId];
+  const src = sources.find(s => s.id === sourceId);
+  if (!src) return [];
+  try {
+    const xmlText = await fetchText(src.feed_url, src.fetch_via || "auto", { useCache: true });
+    const parsed = parseFeed(xmlText, src);
+    episodesBySource[sourceId] = parsed.episodes;
+    return parsed.episodes;
+  } catch {
+    return [];
   }
 }
 
-function renderGuideEpisodes() {
-  guideEpisodes.innerHTML = "";
-  if (!currentSource || !episodes.length) return;
-  const header = document.createElement("div");
-  header.className = "guideFeedGroupLabel";
-  header.textContent = "Episodes";
-  guideEpisodes.appendChild(header);
-  for (const ep of episodes) {
-    const el = document.createElement("div");
-    el.className = "guideEp";
-    el.dataset.id = ep.id;
-    el.classList.toggle("disabled", !ep.media?.url);
-    el.classList.toggle("active", currentEp?.id === ep.id);
+function fmtDuration(sec) {
+  if (!Number.isFinite(sec) || sec < 0) return null;
+  const h = Math.floor(sec / 3600);
+  const m = Math.floor((sec % 3600) / 60);
+  if (h > 0) return `${h}h${m}m`;
+  if (m > 0) return `${m}m`;
+  return `${Math.floor(sec)}s`;
+}
 
-    const t = document.createElement("div");
-    t.className = "guideEpTitle";
-    t.textContent = ep.title;
+function renderEpStrip(epStrip, src, eps) {
+  epStrip.innerHTML = "";
+  const srcNowEpId = getNowEpisodeForSource(src.id);
+  const playable = eps.filter(e => e.media?.url && e.media?.pickedIsVideo);
+  let nowBlock = null;
+  for (let j = 0; j < playable.length; j++) {
+    const ep = playable[j];
+    const isNow = ep.id === srcNowEpId;
+    const hist = getHistoryForEpisode(src.id, ep.id);
+    const durSec = ep.durationSec ?? (hist ? Math.ceil((hist.end || 0) - (hist.start || 0)) : null);
+    const durText = fmtDuration(durSec);
+    const totalSec = ep.durationSec;
+    const progressPct = (hist && totalSec && totalSec > 0) ? Math.min(100, 100 * (hist.end || 0) / totalSec) : null;
 
-    const sub = document.createElement("div");
-    sub.className = "guideEpSub";
-    sub.textContent = ep.dateText || "";
+    const block = document.createElement("button");
+    block.className = "guideEpBlock" + (isNow ? " now" : "") + (currentEp?.id === ep.id ? " active" : "");
+    block.dataset.epIdx = String(j);
+    block.dataset.epId = ep.id;
+    block.dataset.sourceId = src.id;
 
-    el.append(t, sub);
-    el.addEventListener("click", () => {
-      if (!ep.media?.url) return;
-      loadEpisode(ep.id, { autoplay: !userPaused });
-      renderGuideEpisodes();
-    });
-    guideEpisodes.appendChild(el);
+    const titleEl = document.createElement("span");
+    titleEl.className = "guideEpBlockTitle";
+    titleEl.textContent = (ep.title || "Episode").slice(0, 24) + ((ep.title || "").length > 24 ? "…" : "");
+
+    const meta = document.createElement("span");
+    meta.className = "guideEpBlockMeta";
+    if (isNow && hist) {
+      const pos = fmtTime(hist.end || 0);
+      const total = ep.durationSec ? " / " + fmtTime(ep.durationSec) : "";
+      meta.textContent = `NOW · ${pos}${total}`;
+    } else if (durText) {
+      meta.textContent = durText;
+    } else if (isNow) {
+      meta.textContent = "NOW";
+    }
+
+    if (progressPct != null && progressPct > 0) {
+      const prog = document.createElement("span");
+      prog.className = "guideEpBlockProgress";
+      prog.style.width = `${progressPct}%`;
+      block.appendChild(prog);
+    }
+    block.append(titleEl, meta);
+    epStrip.appendChild(block);
+    if (isNow) nowBlock = block;
   }
+  if (nowBlock) {
+    requestAnimationFrame(() => nowBlock.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" }));
+  }
+}
+
+function updateGuideRow(row, src, eps) {
+  const epStrip = row.querySelector(".guideEpStrip");
+  if (!epStrip) return;
+  renderEpStrip(epStrip, src, eps);
+  row.dataset.loaded = "true";
+  updateGuideFocus();
+}
+
+function setupGuideObserver() {
+  if (guideObserver) guideObserver.disconnect();
+  const container = guideFeeds;
+  if (!container) return;
+  guideObserver = new IntersectionObserver(
+    (entries) => {
+      for (const e of entries) {
+        if (!e.isIntersecting) continue;
+        const row = e.target;
+        const sourceId = row.dataset.sourceId;
+        if (!sourceId || row.dataset.loaded === "true" || guideLoadingSources.has(sourceId)) continue;
+        const src = sources.find(s => s.id === sourceId);
+        if (!src || episodesBySource[sourceId]) continue;
+        guideLoadingSources.add(sourceId);
+        loadSourceEpisodes(sourceId).then((eps) => {
+          guideLoadingSources.delete(sourceId);
+          if (guidePanel?.getAttribute("aria-hidden") === "false" && row.isConnected) {
+            updateGuideRow(row, src, eps);
+          }
+        }).catch(() => guideLoadingSources.delete(sourceId));
+      }
+    },
+    { root: container, rootMargin: "80px", threshold: 0.01 }
+  );
+}
+
+function renderGuide() {
+  guideFeeds.innerHTML = "";
+  guideEpisodes.innerHTML = "";
+  if (!sourcesFlat.length) return;
+
+  for (let i = 0; i < sourcesFlat.length; i++) {
+    const src = sourcesFlat[i];
+    const isFocused = i === guideFocusSourceIdx;
+    const eps = episodesBySource[src.id] ?? (currentSource?.id === src.id ? episodes : null);
+
+    const row = document.createElement("div");
+    row.className = "guideChannelRow" + (isFocused ? " focused" : "") + (currentSource?.id === src.id ? " playing" : "");
+    row.dataset.sourceIdx = String(i);
+    row.dataset.sourceId = src.id;
+
+    const chName = document.createElement("div");
+    chName.className = "guideChannelName";
+    chName.textContent = src.title || src.id;
+
+    const epStrip = document.createElement("div");
+    epStrip.className = "guideEpStrip";
+
+    if (eps) {
+      renderEpStrip(epStrip, src, eps);
+      row.dataset.loaded = "true";
+    } else {
+      const loadBtn = document.createElement("button");
+      loadBtn.className = "guideEpBlock guideEpLoad";
+      loadBtn.textContent = "…";
+      loadBtn.addEventListener("click", async () => {
+        const loaded = await loadSourceEpisodes(src.id);
+        if (guidePanel?.getAttribute("aria-hidden") === "false") updateGuideRow(row, src, loaded);
+      });
+      epStrip.appendChild(loadBtn);
+    }
+
+    row.append(chName, epStrip);
+    row.addEventListener("click", (e) => {
+      if (e.target.closest(".guideEpBlock")) return;
+      guideFocusSourceIdx = i;
+      if (!episodesBySource[src.id]) loadSourceEpisodes(src.id).then((loaded) => updateGuideRow(row, src, loaded));
+    });
+    guideFeeds.appendChild(row);
+  }
+
+  const nowLabel = document.createElement("div");
+  nowLabel.className = "guideNowLabel";
+  nowLabel.textContent = currentSource ? (currentSource.title || currentSource.id) : "—";
+  const nowEp = currentEp ? (currentEp.title || "Episode").slice(0, 50) + (currentEp.title?.length > 50 ? "…" : "") : "—";
+  const nowEpEl = document.createElement("div");
+  nowEpEl.className = "guideNowEp";
+  nowEpEl.textContent = nowEp;
+  guideEpisodes.append(nowLabel, nowEpEl);
+
+  setupGuideObserver();
+  [...guideFeeds.querySelectorAll(".guideChannelRow[data-loaded!='true']")].forEach((row) => guideObserver?.observe(row));
+  updateGuideFocus();
+}
+
+function updateGuideFocus() {
+  [...guideFeeds.querySelectorAll(".guideChannelRow")].forEach((row, i) => {
+    row.classList.toggle("focused", i === guideFocusSourceIdx);
+  });
+  const row = guideFeeds.querySelector(".guideChannelRow.focused");
+  row?.scrollIntoView({ block: "nearest", behavior: "smooth" });
+  const blocks = row?.querySelectorAll(".guideEpBlock:not(.guideEpLoad)") || [];
+  blocks.forEach((b, j) => b.classList.toggle("focused", j === guideFocusEpIdx));
+}
+
+function handleGuideKey(e) {
+  if (guidePanel.getAttribute("aria-hidden") !== "false") return false;
+  const k = e.key;
+  if (k === "ArrowUp") {
+    e.preventDefault();
+    guideFocusSourceIdx = Math.max(0, guideFocusSourceIdx - 1);
+    guideFocusEpIdx = 0;
+    const src = sourcesFlat[guideFocusSourceIdx];
+    if (src && !episodesBySource[src.id]) {
+      const row = guideFeeds?.querySelector(`[data-source-id="${src.id}"]`);
+      loadSourceEpisodes(src.id).then((eps) => row?.isConnected && updateGuideRow(row, src, eps));
+    } else {
+      updateGuideFocus();
+    }
+    return true;
+  }
+  if (k === "ArrowDown") {
+    e.preventDefault();
+    guideFocusSourceIdx = Math.min(sourcesFlat.length - 1, guideFocusSourceIdx + 1);
+    guideFocusEpIdx = 0;
+    const src = sourcesFlat[guideFocusSourceIdx];
+    if (src && !episodesBySource[src.id]) {
+      const row = guideFeeds?.querySelector(`[data-source-id="${src.id}"]`);
+      loadSourceEpisodes(src.id).then((eps) => row?.isConnected && updateGuideRow(row, src, eps));
+    } else {
+      updateGuideFocus();
+    }
+    return true;
+  }
+  if (k === "ArrowLeft") {
+    e.preventDefault();
+    guideFocusEpIdx = Math.max(0, guideFocusEpIdx - 1);
+    updateGuideFocus();
+    return true;
+  }
+  if (k === "ArrowRight") {
+    e.preventDefault();
+    const eps = episodesBySource[sourcesFlat[guideFocusSourceIdx]?.id] || [];
+    const playable = eps.filter(ep => ep.media?.url && ep.media?.pickedIsVideo);
+    guideFocusEpIdx = Math.min(Math.max(0, playable.length - 1), guideFocusEpIdx + 1);
+    updateGuideFocus();
+    return true;
+  }
+  if (k === "Enter") {
+    e.preventDefault();
+    const src = sourcesFlat[guideFocusSourceIdx];
+    const eps = episodesBySource[src?.id] || (currentSource?.id === src?.id ? episodes : []);
+    const playable = eps.filter(ep => ep.media?.url && ep.media?.pickedIsVideo);
+    const ep = playable[guideFocusEpIdx];
+    if (ep) {
+      loadSource(src.id, { preserveEpisode: false }).then(() => loadEpisode(ep.id, { autoplay: !userPaused }));
+      closeGuide();
+    }
+    return true;
+  }
+  const num = parseInt(k, 10);
+  if (k >= "0" && k <= "9" && sourcesFlat.length > 0) {
+    e.preventDefault();
+    const idx = num === 0 ? 9 : num - 1;
+    if (idx < sourcesFlat.length) {
+      guideFocusSourceIdx = idx;
+      guideFocusEpIdx = 0;
+      const src = sourcesFlat[idx];
+      if (src && !episodesBySource[src.id]) {
+        const row = guideFeeds?.querySelector(`[data-source-id="${src.id}"]`);
+        loadSourceEpisodes(src.id).then((eps) => row?.isConnected && updateGuideRow(row, src, eps));
+      } else {
+        updateGuideFocus();
+      }
+    }
+    return true;
+  }
+  return false;
 }
 
 function openGuide() {
   guidePanel.setAttribute("aria-hidden", "false");
-  renderGuideFeeds();
-  renderGuideEpisodes();
+  guideFocusSourceIdx = sourcesFlat.findIndex(s => s.id === currentSource?.id);
+  if (guideFocusSourceIdx < 0) guideFocusSourceIdx = 0;
+  guideFocusEpIdx = 0;
+  const cur = getNowEpisodeForSource(currentSource?.id);
+  if (cur && episodes.length) {
+    const playable = episodes.filter(e => e.media?.url && e.media?.pickedIsVideo);
+    const idx = playable.findIndex(e => e.id === cur);
+    if (idx >= 0) guideFocusEpIdx = idx;
+  }
+  renderGuide();
+  recordInteraction();
 }
 
 function closeGuide() {
   guidePanel.setAttribute("aria-hidden", "true");
+  guideObserver?.disconnect();
+  guideObserver = null;
 }
 
 let historyPanelInstance = null;
 
 function openHistory() {
   historyPanel.setAttribute("aria-hidden", "false");
+  historyCloseTo = Date.now() + HISTORY_CLOSE_MS;
   if (!historyPanelInstance) {
     historyPanelInstance = history.render(historyPanelContent, {
       onEntryClick: async (entry) => {
         closeHistory();
-        if (currentSource?.id !== entry.sourceId) {
-          await loadSource(entry.sourceId, { preserveEpisode: false });
-        }
-        const ep = episodes.find(e => e.id === entry.episodeId);
+        await loadSource(entry.sourceId, { preserveEpisode: false, skipAutoEpisode: true });
+        const ep = episodes.find(e => e.id === entry.episodeId) ?? episodesBySource[entry.sourceId]?.find(e => e.id === entry.episodeId);
         if (ep) {
           await loadEpisode(entry.episodeId, { autoplay: true, startAt: entry.end });
+        }
+      },
+      onRestart: async (entry) => {
+        closeHistory();
+        await loadSource(entry.sourceId, { preserveEpisode: false, skipAutoEpisode: true });
+        const ep = episodes.find(e => e.id === entry.episodeId) ?? episodesBySource[entry.sourceId]?.find(e => e.id === entry.episodeId);
+        if (ep) {
+          await loadEpisode(entry.episodeId, { autoplay: true, startAt: entry.start });
+        }
+      },
+      onContinue: async (entry) => {
+        closeHistory();
+        const seekTo = Math.max(0, (entry.end || 0) - 5);
+        await loadSource(entry.sourceId, { preserveEpisode: false, skipAutoEpisode: true });
+        const ep = episodes.find(e => e.id === entry.episodeId) ?? episodesBySource[entry.sourceId]?.find(e => e.id === entry.episodeId);
+        if (ep) {
+          await loadEpisode(entry.episodeId, { autoplay: true, startAt: seekTo });
         }
       },
       fmtTime,
@@ -489,7 +755,7 @@ async function doRandom() {
   await tryOne();
 }
 
-async function loadSource(sourceId, { preserveEpisode = true, pickRandomEpisode = false } = {}) {
+async function loadSource(sourceId, { preserveEpisode = true, pickRandomEpisode = false, skipAutoEpisode = false } = {}) {
   const src = sources.find(s => s.id === sourceId) || sources[0];
   if (!src) return;
 
@@ -498,9 +764,10 @@ async function loadSource(sourceId, { preserveEpisode = true, pickRandomEpisode 
 
   try {
     log(`Fetching feed: ${src.title || src.id}`);
-    const xmlText = await fetchText(src.feed_url, src.fetch_via || "auto");
+    const xmlText = await fetchText(src.feed_url, src.fetch_via || "auto", { useCache: true });
     const parsed = parseFeed(xmlText, src);
     episodes = parsed.episodes;
+    episodesBySource[src.id] = episodes;
     const playable = episodes.filter(e => e.media?.url && e.media?.pickedIsVideo);
     const playableAny = episodes.filter(e => e.media?.url);
     const st = parsed.stats;
@@ -510,17 +777,19 @@ async function loadSource(sourceId, { preserveEpisode = true, pickRandomEpisode 
     }
 
     let wanted;
-    if (pickRandomEpisode && playable.length) {
-      wanted = playable[Math.floor(Math.random() * playable.length)].id;
-    } else {
-      const lastId = state.lastBySource?.[src.id] || (preserveEpisode && state.last?.sourceId === src.id ? state.last?.episodeId : null);
-      const lastIsVideo = lastId && playable.some(e => e.id === lastId);
-      wanted = (lastIsVideo ? lastId : null) || playable[0]?.id || playableAny[0]?.id || null;
+    if (!skipAutoEpisode) {
+      if (pickRandomEpisode && playable.length) {
+        wanted = playable[Math.floor(Math.random() * playable.length)].id;
+      } else {
+        const lastId = state.lastBySource?.[src.id] || (preserveEpisode && state.last?.sourceId === src.id ? state.last?.episodeId : null);
+        const lastIsVideo = lastId && playable.some(e => e.id === lastId);
+        wanted = (lastIsVideo ? lastId : null) || playable[0]?.id || playableAny[0]?.id || null;
+      }
     }
     if (wanted) {
       await loadEpisode(wanted, { autoplay: !userPaused });
     }
-    renderGuideEpisodes();
+    if (guidePanel?.getAttribute("aria-hidden") === "false") renderGuide();
     updateGuideBar();
   } catch (e) {
     episodes = [];
@@ -712,6 +981,24 @@ function syncActiveChapter() {
   });
 }
 
+function updateSleepCountdown() {
+  if (!sleepEndAt || !btnSleep) return;
+  const left = Math.max(0, Math.ceil((sleepEndAt - Date.now()) / 1000));
+  if (left <= 0) {
+    sleepEndAt = null;
+    if (sleepTickId) clearInterval(sleepTickId);
+    sleepTickId = null;
+    btnSleep.textContent = "Sleep";
+    userPaused = true;
+    video.pause();
+    history.markCurrentHadSleep();
+    return;
+  }
+  const m = Math.floor(left / 60);
+  const s = left % 60;
+  btnSleep.textContent = `${m}:${String(s).padStart(2, "0")}`;
+}
+
 function updateHud() {
   const ct = video.currentTime || 0;
   const dur = video.duration;
@@ -721,8 +1008,10 @@ function updateHud() {
   if (!live && Number.isFinite(dur) && dur > 0.2) {
     const pct = clamp(ct / dur, 0, 1) * 100;
     progressFill.style.width = `${pct}%`;
+    if (guideSeekFill) guideSeekFill.style.width = `${pct}%`;
   } else {
     progressFill.style.width = "0%";
+    if (guideSeekFill) guideSeekFill.style.width = "0%";
   }
 }
 
@@ -751,12 +1040,36 @@ function tick() {
 function wireUI() {
   document.addEventListener("click", () => recordInteraction(), { capture: true });
   document.addEventListener("keydown", () => recordInteraction(), { capture: true });
+  const app = $("#app");
+  let lastMove = 0;
+  app?.addEventListener("mousemove", () => { if (Date.now() - lastMove > 200) { lastMove = Date.now(); resetGuideBarIdle(); } });
+  app?.addEventListener("touchstart", () => resetGuideBarIdle(), { passive: true });
 
   btnChannel.addEventListener("click", (e) => {
     e.stopPropagation();
     recordInteraction();
     if (guidePanel.getAttribute("aria-hidden") === "true") openGuide();
     else closeGuide();
+  });
+
+  guideFeeds?.addEventListener("click", (e) => {
+    const block = e.target.closest(".guideEpBlock:not(.guideEpLoad)");
+    if (!block) return;
+    e.stopPropagation();
+    e.preventDefault();
+    const srcId = block.dataset.sourceId;
+    const epIdx = parseInt(block.dataset.epIdx, 10);
+    if (!srcId || !Number.isFinite(epIdx)) return;
+    const eps = episodesBySource[srcId] ?? (currentSource?.id === srcId ? episodes : null);
+    const playable = eps ? eps.filter(ep => ep.media?.url && ep.media?.pickedIsVideo) : [];
+    const ep = playable[epIdx];
+    if (!ep) return;
+    if (currentSource?.id === srcId) {
+      loadEpisode(ep.id, { autoplay: !userPaused });
+    } else {
+      loadSource(srcId, { preserveEpisode: false, skipAutoEpisode: true }).then(() => loadEpisode(ep.id, { autoplay: !userPaused }));
+    }
+    if (guidePanel?.getAttribute("aria-hidden") === "false") renderGuide();
   });
 
   btnCloseGuide.addEventListener("click", closeGuide);
@@ -807,6 +1120,58 @@ function wireUI() {
     video.currentTime = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
   });
 
+  if (btnSeekBack) btnSeekBack.addEventListener("click", (e) => {
+    e.stopPropagation();
+    recordInteraction();
+    const dur = video.duration;
+    if (!Number.isFinite(dur) || dur === Infinity) return;
+    video.currentTime = Math.max(0, (video.currentTime || 0) - 10);
+  });
+  if (btnSeekFwd) btnSeekFwd.addEventListener("click", (e) => {
+    e.stopPropagation();
+    recordInteraction();
+    const dur = video.duration;
+    if (!Number.isFinite(dur) || dur === Infinity) return;
+    video.currentTime = Math.min(dur - 0.25, (video.currentTime || 0) + 30);
+  });
+  if (guideSeek) guideSeek.addEventListener("click", (e) => {
+    const dur = video.duration;
+    if (!Number.isFinite(dur) || dur === Infinity || dur <= 0.2) return;
+    const r = guideSeek.getBoundingClientRect();
+    const pct = clamp((e.clientX - r.left) / Math.max(1, r.width), 0, 1);
+    video.currentTime = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
+  });
+
+  if (btnSleep) btnSleep.addEventListener("click", (e) => {
+    e.stopPropagation();
+    recordInteraction();
+    if (sleepEndAt) {
+      sleepEndAt = null;
+      if (sleepTickId) clearInterval(sleepTickId);
+      sleepTickId = null;
+      btnSleep.textContent = "Sleep";
+      return;
+    }
+    const hidden = sleepMenu.getAttribute("aria-hidden") !== "false";
+    sleepMenu.setAttribute("aria-hidden", hidden ? "false" : "true");
+  });
+  document.addEventListener("click", (e) => {
+    if (sleepMenu && !sleepMenu.contains(e.target) && !btnSleep?.contains(e.target)) {
+      sleepMenu.setAttribute("aria-hidden", "true");
+    }
+  });
+  [...(sleepMenu?.querySelectorAll(".sleepOpt") || [])].forEach(btn => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const mins = Number(btn.dataset.mins) || 15;
+      sleepEndAt = Date.now() + mins * 60 * 1000;
+      sleepMenu.setAttribute("aria-hidden", "true");
+      if (sleepTickId) clearInterval(sleepTickId);
+      sleepTickId = setInterval(updateSleepCountdown, 1000);
+      updateSleepCountdown();
+    });
+  });
+
   if (btnHistory) btnHistory.addEventListener("click", (e) => {
     e.stopPropagation();
     recordInteraction();
@@ -827,8 +1192,19 @@ function wireUI() {
     });
   }
 
+  if (btnTheme) btnTheme.addEventListener("click", (e) => {
+    e.stopPropagation();
+    recordInteraction();
+    const cur = htmlRoot?.getAttribute("data-theme") || "modern";
+    const idx = THEMES.indexOf(cur);
+    const next = THEMES[(idx + 1) % THEMES.length];
+    htmlRoot?.setAttribute("data-theme", next);
+    try { localStorage.setItem(STORAGE_KEY + "_theme", next); } catch {}
+  });
+
   document.addEventListener("keydown", (e) => {
     if (e.target && (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA" || e.target.isContentEditable)) return;
+    if (handleGuideKey(e)) return;
     const k = e.key.toLowerCase();
     if (k === " ") {
       e.preventDefault();
@@ -876,6 +1252,23 @@ function wireUI() {
 
 async function boot() {
   wireUI();
+
+  const savedTheme = localStorage.getItem(STORAGE_KEY + "_theme");
+  if (savedTheme && THEMES.includes(savedTheme)) {
+    htmlRoot?.setAttribute("data-theme", savedTheme);
+  }
+
+  guideBarIdleTo = Date.now() + GUIDE_IDLE_MS;
+  setInterval(() => {
+    const now = Date.now();
+    if (guideBar && guideBarIdleTo != null && now > guideBarIdleTo) {
+      guideBar.classList.add("idle");
+    }
+    if (historyPanel?.getAttribute("aria-hidden") === "false" && historyCloseTo != null && now > historyCloseTo) {
+      closeHistory();
+      historyCloseTo = null;
+    }
+  }, 500);
 
   try {
     log("Loading sources…");

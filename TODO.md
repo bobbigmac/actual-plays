@@ -1,5 +1,9 @@
 # TODO (next steps before additional uses, actualplays and britcom)
 
+## Video podcasts (high priority)
+
+- [ ] **Performance / feed caching**: Test guide load performance with many channels. Tune Cache API TTL (currently 1h). Consider stale-while-revalidate. Ensure we don’t spam feed servers; Cache API is used for browser storage (not localStorage).
+
 - [ ] Sleep timer: Usual sleep timer, long/slow fade outs... wake up? Rising noise/ambience? Log audio at sleep start time, so can repeat/restart and just skip forward, rather than skipping back. Sleep detected shut-off?
 - [ ] Paging for unusually large indexes?
 - [ ] UI tweaks: Mobile layout needs a little work for narrow viewports

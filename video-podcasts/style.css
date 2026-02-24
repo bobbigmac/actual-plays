@@ -73,7 +73,72 @@ video {
   border: 1px solid var(--edge);
   border-radius: 12px;
   backdrop-filter: blur(8px);
+  transition: opacity 0.4s ease;
 }
+.guideBar.idle {
+  opacity: 0;
+  pointer-events: none;
+}
+.app:hover .guideBar.idle,
+.app:focus-within .guideBar.idle { opacity: 1; pointer-events: auto }
+
+.guideBarLeft {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.guideBtnSeek {
+  padding: 4px 8px;
+  font-size: 12px;
+  min-width: 36px;
+}
+
+.guideSeek {
+  width: 80px;
+  height: 4px;
+  background: rgba(255,255,255,.08);
+  border-radius: 2px;
+  cursor: pointer;
+  overflow: hidden;
+}
+.guideSeek:hover { background: rgba(255,255,255,.12) }
+.guideSeekFill {
+  height: 100%;
+  width: 0%;
+  background: rgba(255,255,255,.25);
+  border-radius: 2px;
+  transition: width 0.08s ease;
+}
+
+.guideBar-sleep { position: relative }
+
+.sleepMenu {
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  margin-bottom: 6px;
+  padding: 6px;
+  background: var(--panel);
+  border: 1px solid var(--edge);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  z-index: 10;
+}
+.sleepMenu[aria-hidden="true"] { display: none }
+.sleepOpt {
+  padding: 8px 14px;
+  font: inherit;
+  color: var(--text);
+  background: rgba(255,255,255,.03);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+}
+.sleepOpt:hover { background: rgba(255,255,255,.08) }
 
 .guideChannel {
   min-width: 140px;
@@ -126,64 +191,173 @@ video {
 
 .guidePanel {
   position: absolute;
-  left: 50%;
-  bottom: 70px;
-  transform: translateX(-50%);
-  width: min(90vw, 480px);
-  max-height: 50vh;
-  background: var(--panel);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  max-height: 60vh;
+  background: color-mix(in srgb, var(--panel) 92%, transparent);
   border: 1px solid var(--edge);
-  border-radius: 12px;
+  border-radius: 12px 12px 0 0;
   box-shadow: 0 8px 32px rgba(0,0,0,.5);
   display: flex;
   flex-direction: column;
   overflow: hidden;
   z-index: 100;
+  transform: translateY(100%);
+  transition: transform 0.25s ease, opacity 0.2s ease;
+  backdrop-filter: blur(12px);
 }
-.guidePanel[aria-hidden="true"] { display: none }
+.guidePanel[aria-hidden="false"] {
+  transform: translateY(0);
+}
+.guidePanel[aria-hidden="true"] {
+  transform: translateY(100%);
+  pointer-events: none;
+}
 
-.guidePanelHeader {
+.guidePanel-inner {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.guidePanel-channels {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 12px 14px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 0;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--edge) transparent;
+}
+.guidePanel-channels::-webkit-scrollbar {
+  width: 8px;
+}
+.guidePanel-channels::-webkit-scrollbar-track {
+  background: transparent;
+}
+.guidePanel-channels::-webkit-scrollbar-thumb {
+  background: var(--edge);
+  border-radius: 4px;
+}
+.guidePanel-channels::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
+
+.guideChannelRow {
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  min-height: 44px;
+  flex-shrink: 0;
+}
+.guideChannelRow:hover { background: rgba(255,255,255,.06) }
+.guideChannelRow.focused { background: rgba(255,255,255,.1); border-color: var(--edge) }
+.guideChannelRow.playing { border-left: 3px solid var(--accent) }
+
+.guideChannelName {
+  flex: 0 0 160px;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--text);
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 12px 14px;
-  border-bottom: 1px solid var(--edge);
-  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.guidePanelFeeds,
-.guidePanelEpisodes {
-  overflow-y: auto;
-  min-height: 0;
+.guideEpStrip {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  align-items: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
-.guidePanelFeeds { max-height: 200px }
-.guidePanelEpisodes { flex: 1; max-height: 240px }
+.guideEpStrip::-webkit-scrollbar { display: none }
 
-.guideFeedGroup {
-  padding: 8px 0;
-  border-bottom: 1px solid rgba(255,255,255,.05);
-}
-.guideFeedGroup:last-of-type { border-bottom: none }
-.guideFeedGroupLabel {
-  padding: 4px 14px;
-  font-size: 11px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-.guideFeed,
-.guideEp {
-  padding: 10px 14px;
+.guideEpBlock {
+  flex: 0 0 auto;
+  position: relative;
+  padding: 6px 10px;
+  font-size: 12px;
+  font: inherit;
+  color: var(--text);
+  background: rgba(255,255,255,.06);
+  border: 1px solid var(--edge);
+  border-radius: 6px;
   cursor: pointer;
-  border-bottom: 1px solid transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  text-align: left;
+  max-width: 180px;
+  overflow: hidden;
 }
-.guideFeed:hover,
-.guideEp:hover { background: rgba(255,255,255,.05) }
-.guideFeed.active,
-.guideEp.active { background: rgba(138,180,248,.15) }
-.guideEp.disabled { opacity: .5; cursor: default }
-.guideEpTitle { font-size: 13px; font-weight: 500 }
-.guideEpSub { font-size: 11px; color: var(--muted); margin-top: 2px }
+.guideEpBlockProgress {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: color-mix(in srgb, var(--accent) 25%, transparent);
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 0;
+}
+.guideEpBlock .guideEpBlockTitle,
+.guideEpBlock .guideEpBlockMeta { position: relative; z-index: 1 }
+.guideEpBlock:hover { background: rgba(255,255,255,.1) }
+.guideEpBlock.active { background: rgba(138,180,248,.2); border-color: var(--accent) }
+.guideEpBlock.now { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) }
+.guideEpBlock.focused { outline: 2px solid var(--accent); outline-offset: 2px }
+.guideEpBlock.disabled { opacity: .5; cursor: default }
+.guideEpBlockTitle { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100% }
+.guideEpBlockMeta { font-size: 11px; color: var(--muted); font-family: var(--mono) }
+.guideEpLoad { min-width: 48px; justify-content: center; align-items: center }
+
+.guidePanel-episodes {
+  flex-shrink: 0;
+  padding: 8px 14px 12px;
+  border-top: 1px solid var(--edge);
+  background: rgba(0,0,0,.2);
+}
+.guideNowLabel { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em }
+.guideNowEp { font-size: 13px; font-weight: 500; margin-top: 2px }
+
+.guidePanel-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  font-size: 1.2rem;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--edge);
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 2;
+}
+.guidePanel-close:hover { background: rgba(255,255,255,.08); color: var(--text) }
+
 
 .historyPanel {
   position: absolute;
@@ -197,8 +371,17 @@ video {
   flex-direction: column;
   overflow: hidden;
   z-index: 100;
+  transition: opacity 0.3s ease, transform 0.25s ease;
 }
-.historyPanel[aria-hidden="true"] { display: none }
+.historyPanel[aria-hidden="true"] {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-100%);
+}
+.historyPanel[aria-hidden="false"] {
+  opacity: 1;
+  transform: translateX(0);
+}
 
 .historyPanelContent {
   flex: 1;
@@ -244,12 +427,40 @@ video {
 }
 
 .historyEntry {
-  padding: 10px 14px;
+  padding: 10px 36px 10px 36px;
   border-bottom: 1px solid rgba(255,255,255,.05);
   cursor: pointer;
+  position: relative;
 }
 .historyEntry:hover { background: rgba(255,255,255,.05) }
 .historyEntryCurrent { background: rgba(138,180,248,.1) }
+.historyEntryHadSleep {
+  background: linear-gradient(90deg, rgba(80,80,100,.15) 0%, transparent 100%);
+}
+.historyEntryHadSleep.historyEntryCurrent {
+  background: linear-gradient(90deg, rgba(80,80,100,.2) 0%, rgba(138,180,248,.1) 100%);
+}
+.historyEntryBtn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  font-size: 11px;
+  line-height: 1;
+  color: var(--muted);
+  background: rgba(255,255,255,.05);
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.historyEntryBtn:hover { background: rgba(255,255,255,.1); color: var(--text) }
+.historyEntryBtnRestart { left: 6px }
+.historyEntryBtnContinue { right: 6px; left: auto }
 .historyEntryTitle {
   font-size: 13px;
   font-weight: 500;

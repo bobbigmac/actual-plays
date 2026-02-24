@@ -8,6 +8,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+#this will need to cache pretty heavily for build stuff, not sure what we do in our action, yet
 
 # PodcastIndex auth: sha1(key+secret+unixTime) for Authorization header
 PODCASTINDEX_KEY = os.getenv("PODCASTINDEX_KEY", "").strip() or "MJQTNTT48HSHGXC3ELBY"

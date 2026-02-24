@@ -51,6 +51,13 @@ export function updateEnd(time) {
   }
 }
 
+export function markCurrentHadSleep() {
+  if (current) {
+    current.hadSleep = true;
+    subscribers.forEach(fn => fn());
+  }
+}
+
 export function finalize() {
   if (current) {
     entries.unshift({ ...current });
@@ -87,6 +94,7 @@ export function combine() {
     if (run && videoKey(run.sourceId, run.episodeId) === key) {
       run.start = Math.min(run.start, e.start);
       run.end = Math.max(run.end, e.end);
+      if (e.hadSleep) run.hadSleep = true;
     } else {
       run = { ...e };
       out.push(run);
@@ -101,7 +109,7 @@ export function subscribe(fn) {
   return () => { subscribers = subscribers.filter(f => f !== fn); };
 }
 
-export function render(container, { onEntryClick, fmtTime }) {
+export function render(container, { onEntryClick, onRestart, onContinue, fmtTime }) {
   if (!container) return;
   const $ = (s, el = container) => el.querySelector(s);
 
@@ -127,18 +135,32 @@ export function render(container, { onEntryClick, fmtTime }) {
       const e = all[i];
       const isCurrent = i === 0 && getCurrent();
       const el = document.createElement("div");
-      el.className = "historyEntry" + (isCurrent ? " historyEntryCurrent" : "");
+      el.className = "historyEntry" + (isCurrent ? " historyEntryCurrent" : "") + (e.hadSleep ? " historyEntryHadSleep" : "");
       el.dataset.sourceId = e.sourceId;
       el.dataset.episodeId = e.episodeId;
       el.dataset.end = String(e.end);
+      el.dataset.start = String(e.start);
       const title = (e.episodeTitle || "Episode").slice(0, 50) + ((e.episodeTitle || "").length > 50 ? "…" : "");
       const sub = (e.channelTitle || "").slice(0, 30);
       const range = `${fmtTime(e.start)} → ${fmtTime(e.end)}`;
       el.innerHTML = `
+        <button class="historyEntryBtn historyEntryBtnRestart" title="Restart segment">↺</button>
+        <button class="historyEntryBtn historyEntryBtnContinue" title="Continue from before end">→</button>
         <div class="historyEntryTitle">${escapeHtml(title)}</div>
         <div class="historyEntrySub">${escapeHtml(sub)} · ${range}</div>
       `;
-      el.addEventListener("click", () => {
+      const restartBtn = el.querySelector(".historyEntryBtnRestart");
+      const continueBtn = el.querySelector(".historyEntryBtnContinue");
+      restartBtn.addEventListener("click", (ev) => {
+        ev.stopPropagation();
+        if (onRestart) onRestart(e);
+      });
+      continueBtn.addEventListener("click", (ev) => {
+        ev.stopPropagation();
+        if (onContinue) onContinue(e);
+      });
+      el.addEventListener("click", (ev) => {
+        if (ev.target.closest(".historyEntryBtn")) return;
         if (onEntryClick) onEntryClick(e);
       });
       list.appendChild(el);

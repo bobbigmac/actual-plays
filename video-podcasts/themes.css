@@ -1,0 +1,93 @@
+/* Theme: modern (default) – clean dark UI, higher contrast guide */
+[data-theme="modern"] {
+  --bg: #0b0c10;
+  --panel: #11131a;
+  --text: #e8eaed;
+  --muted: #a7adb7;
+  --edge: #242a3d;
+  --accent: #8ab4f8;
+}
+
+[data-theme="modern"] .guidePanel {
+  background: color-mix(in srgb, #1a1d26 94%, transparent);
+  border-color: #3d4558;
+}
+
+/* Theme: dos – classic cable TV / DOS harsh blue, big letters */
+[data-theme="dos"] {
+  --bg: #000080;
+  --panel: #0000aa;
+  --text: #00aaaa;
+  --muted: #00ff00;
+  --edge: #0055ff;
+  --accent: #ffffff;
+  --mono: "IBM VGA", "IBM VGA8", "Perfect DOS VGA 437", "MS Gothic", monospace;
+}
+
+[data-theme="dos"] .guidePanel {
+  background: color-mix(in srgb, #0000aa 90%, transparent);
+  border-color: #0055ff;
+}
+
+[data-theme="dos"] .guideBar,
+[data-theme="dos"] .guidePanel,
+[data-theme="dos"] .historyPanel,
+[data-theme="dos"] .detailsPanel,
+[data-theme="dos"] .sleepMenu {
+  border-radius: 0;
+  border-width: 2px;
+  border-style: solid;
+}
+
+[data-theme="dos"] .guideBtn,
+[data-theme="dos"] .guideChannel,
+[data-theme="dos"] .guideEpBlock,
+[data-theme="dos"] .sleepOpt,
+[data-theme="dos"] .historyBtn,
+[data-theme="dos"] .cornerBtn {
+  border-radius: 0;
+}
+
+[data-theme="dos"] .guideBar,
+[data-theme="dos"] .guidePanel,
+[data-theme="dos"] .historyPanel,
+[data-theme="dos"] .detailsPanel {
+  box-shadow: none;
+}
+
+/* DOS: bigger fonts, less padding – old-people TV */
+[data-theme="dos"] .guideChannelRow {
+  padding: 4px 6px;
+  min-height: 52px;
+}
+[data-theme="dos"] .guideChannelName {
+  font-size: 18px;
+  font-weight: 700;
+  flex: 0 0 200px;
+}
+[data-theme="dos"] .guideEpBlock {
+  padding: 4px 8px;
+  font-size: 15px;
+  max-width: 220px;
+}
+[data-theme="dos"] .guideEpBlockTitle { font-size: 15px; font-weight: 600 }
+[data-theme="dos"] .guideEpBlockMeta { font-size: 13px }
+[data-theme="dos"] .guideNowLabel { font-size: 13px }
+[data-theme="dos"] .guideNowEp { font-size: 16px; font-weight: 600 }
+
+[data-theme="dos"] .guideEpBlock.active,
+[data-theme="dos"] .guideEpBlock.now {
+  background: rgba(0,255,255,.25);
+  border-color: var(--accent);
+}
+[data-theme="dos"] .guideEpBlockProgress {
+  background: color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+[data-theme="dos"] .historyEntryCurrent {
+  background: rgba(0,255,255,.15);
+}
+
+[data-theme="dos"] .ch.active {
+  background: rgba(0,255,0,.2);
+}
