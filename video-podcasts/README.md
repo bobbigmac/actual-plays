@@ -14,6 +14,7 @@ A minimal video-podcast player that ships a video site with broad market reach w
 
 ## Todos
 
+- [ ] **State manager** — Needs a proper state manager; current ad-hoc state is a mess
 - [ ] **Sleep: fade volume** — Gradually lower volume before pause
 - [ ] **Sleep: end-of-episode** — Option to stop at end of current episode instead of timer
 - [ ] **Sleep: resume prompt** — After sleep, offer to resume from same point
