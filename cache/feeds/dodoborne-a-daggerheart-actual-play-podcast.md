@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-02-24T07:18:57+00:00`
-- checked_at: `2026-02-24T07:18:57+00:00`
-- etag: `W/"4442bde803423351eeb0092f0e95bf59"`
-- last_modified: `Tue, 24 Feb 2026 06:45:09 GMT`
+- fetched_at: `2026-02-24T10:11:24+00:00`
+- checked_at: `2026-02-24T10:11:24+00:00`
+- etag: `W/"140016089cfdfeb321aaba1a8e57cbee"`
+- last_modified: `Tue, 24 Feb 2026 08:01:47 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/Qj04CwvH_4vQWEtuIjCCLqgJv7MgGHGZvoH80Er3yIE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZTlh/MWQxYWQ3NWRiYmZm/MjY4ZDExZDg3ZjJi/NWEyMi5QTkc.jpg",
-  "fetched_at": "2026-02-24T07:18:57+00:00",
+  "fetched_at": "2026-02-24T10:11:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,25 @@
     "ttrpg/daggerheart"
   ],
   "episodes": [
+    {
+      "key": "0e3638b405e7ebdb71f9a9c5a93b5691292e82b1",
+      "title": "2.17 Casus Belli: Part 2",
+      "published_at": "2026-02-24T08:00:00+00:00",
+      "link": "https://share.transistor.fm/s/f84ab1cf",
+      "description": "It's the thrilling conclusion of Season 2, and what a finale it is! Percival returns! The relic calls! The battle continues! Will the dodo's stop the signal of war being shot out by the mad Walter Zeshthon, or will these banners officially burn? Find out now! Kapi gets his first kill. Pistachio loses someone, but gains a brand new something. Crank is gone. Music in this episode created by: Daniel Bukin and Isaac Allen Burns Listen to the music from this episode and other Dodotunes HERE ! DodoBorne is a comedy storytelling actual play podcast where four friends dive into the world of Daggerheart, a tabletop roleplaying game by Darrington Press. Thanks to our monthly supporters MajorFrostbyte Arun Gupta Isaac Goodwin Space Lesbian birdnado Get Your Crit Together dan borden Josh M World of Gariva Valerie Mariana Max Long Dom sleepyyz MinecraftParker Devon CondorBleu Tungsten The Bright Niclas Wallin Severed Ronin Johnny Rocha Laekeycakes unbeknownst Assistant to the CEO, Kurt Wild Frank Vale Phi Darcy Ross Eric Stryker Joshes708 Miner Thoughts Jim Cave Emma Jacob Rohm (Hadwyn) Jesse Jones Colecago Maria Welch I IAB promise Zorak that I'll play Kingdom Hearts Joe O'Connor Elizabeth Tabletop Optimist Ben Chase battybright Muscles Dynamite bdsATdorkmaster Francis Fernandez yeehawboi67",
+      "image_url": null,
+      "enclosure_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f84ab1cf/205bf60a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68097192",
+      "itunes_duration": "2834",
+      "speakers": [
+        "Casus Belli"
+      ],
+      "topics": [
+        "casus",
+        "belli"
+      ]
+    },
     {
       "key": "bcaad099c37709ee375c33d55c6cc8ceece29a21",
       "title": "2.16 Casus Belli: Part 1",
@@ -721,6 +740,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — 2.17 Casus Belli: Part 2 — speakers: Casus Belli
 - 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli
 - 2026-02-03 — 2.15 A Descent — speakers: Descent Down
 - 2026-01-13 — 2.14 A Door is Opened

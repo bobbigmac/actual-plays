@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-02-22T09:48:20+00:00`
-- checked_at: `2026-02-22T09:48:20+00:00`
-- etag: `"djEuMi4wOjE3NzE3NDcyMzk0NDM="`
+- fetched_at: `2026-02-24T10:11:24+00:00`
+- checked_at: `2026-02-24T10:11:24+00:00`
+- etag: `"djEuMi4wOjE3NzE5MjA5OTE1OTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-02-22T09:48:20+00:00",
+  "fetched_at": "2026-02-24T10:11:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,10 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58664441",
       "itunes_duration": "40:20",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -65,10 +62,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57307119",
       "itunes_duration": "39:23",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -85,10 +79,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67735619",
       "itunes_duration": "46:38",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -105,10 +96,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58238857",
       "itunes_duration": "40:02",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -125,10 +113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67289972",
       "itunes_duration": "46:20",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -145,10 +130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53894612",
       "itunes_duration": "37:01",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -165,10 +147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58829239",
       "itunes_duration": "40:27",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -185,10 +164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58625600",
       "itunes_duration": "40:19",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -205,10 +181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64115076",
       "itunes_duration": "44:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -225,10 +198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59831457",
       "itunes_duration": "41:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -245,10 +215,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66199901",
       "itunes_duration": "45:34",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -265,10 +232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58096384",
       "itunes_duration": "39:57",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -285,10 +249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60203525",
       "itunes_duration": "41:25",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -305,10 +266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50914428",
       "itunes_duration": "34:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -325,10 +283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56674733",
       "itunes_duration": "38:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -345,10 +300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63488863",
       "itunes_duration": "43:42",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -365,10 +317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51447250",
       "itunes_duration": "35:20",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -385,11 +334,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110555704",
       "itunes_duration": "1:16:23",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "roll",
         "britannia",
@@ -409,10 +354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98878342",
       "itunes_duration": "1:08:16",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special"
@@ -429,10 +371,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108337741",
       "itunes_duration": "1:14:50",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special"
@@ -449,10 +388,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98353106",
       "itunes_duration": "1:07:54",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special"
@@ -469,10 +405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57080401",
       "itunes_duration": "39:15",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -489,10 +422,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52869253",
       "itunes_duration": "36:19",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -509,10 +439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62557260",
       "itunes_duration": "43:03",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -529,10 +456,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57243954",
       "itunes_duration": "39:22",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -549,10 +473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51922899",
       "itunes_duration": "35:40",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -569,10 +490,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56661294",
       "itunes_duration": "38:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -589,10 +507,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55214730",
       "itunes_duration": "37:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -609,10 +524,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59758783",
       "itunes_duration": "41:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -629,10 +541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56206360",
       "itunes_duration": "38:39",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -649,10 +558,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61083944",
       "itunes_duration": "42:02",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -669,10 +575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55264473",
       "itunes_duration": "38:00",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -689,10 +592,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56971627",
       "itunes_duration": "39:11",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "chapter"
@@ -709,10 +609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58367007",
       "itunes_duration": "40:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -730,10 +627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53277510",
       "itunes_duration": "36:37",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -751,11 +645,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66629394",
       "itunes_duration": "45:53",
-      "speakers": [
-        "Jessica Alba",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "comic",
@@ -775,11 +665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66230661",
       "itunes_duration": "45:37",
-      "speakers": [
-        "Jessica Alba",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "comic",
@@ -799,11 +685,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50708598",
       "itunes_duration": "34:50",
-      "speakers": [
-        "Will Keth",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -821,11 +703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66314957",
       "itunes_duration": "45:40",
-      "speakers": [
-        "Will Keth",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -843,10 +721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62469126",
       "itunes_duration": "43:00",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -864,10 +739,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66958007",
       "itunes_duration": "46:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -885,10 +757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54203975",
       "itunes_duration": "37:16",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -906,10 +775,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63856324",
       "itunes_duration": "43:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -927,10 +793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54634877",
       "itunes_duration": "37:34",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -948,10 +811,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57888054",
       "itunes_duration": "39:50",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -969,10 +829,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59396674",
       "itunes_duration": "40:52",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -990,10 +847,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68242780",
       "itunes_duration": "47:01",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1011,10 +865,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58292282",
       "itunes_duration": "40:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1032,10 +883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66883224",
       "itunes_duration": "46:04",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1053,10 +901,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68350318",
       "itunes_duration": "47:06",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1074,10 +919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78605782",
       "itunes_duration": "54:13",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1095,11 +937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57229644",
       "itunes_duration": "39:18",
-      "speakers": [
-        "Will Malrus",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1117,11 +955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70406523",
       "itunes_duration": "48:28",
-      "speakers": [
-        "Will Malrus",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1139,10 +973,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68747311",
       "itunes_duration": "47:18",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1160,10 +991,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75850407",
       "itunes_duration": "52:14",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1181,10 +1009,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78010892",
       "itunes_duration": "53:44",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1202,10 +1027,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71747650",
       "itunes_duration": "49:23",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1223,11 +1045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69754880",
       "itunes_duration": "48:00",
-      "speakers": [
-        "Will Buoyonce",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1245,11 +1063,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67981773",
       "itunes_duration": "46:46",
-      "speakers": [
-        "Will Buoyonce",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1267,10 +1081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68846932",
       "itunes_duration": "47:23",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1288,10 +1099,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67841825",
       "itunes_duration": "46:41",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1309,10 +1117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70125775",
       "itunes_duration": "48:16",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1330,10 +1135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69018717",
       "itunes_duration": "47:30",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1351,11 +1153,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65218345",
       "itunes_duration": "44:51",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1373,11 +1171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66058918",
       "itunes_duration": "45:26",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1395,10 +1189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64706223",
       "itunes_duration": "44:30",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1416,10 +1207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73240621",
       "itunes_duration": "50:26",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1437,11 +1225,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64263657",
       "itunes_duration": "44:12",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1459,11 +1243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63864800",
       "itunes_duration": "43:55",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "sail",
         "adventurers",
@@ -1482,13 +1262,8 @@
       "enclosure_length": "105017476",
       "itunes_duration": "1:12:30",
       "speakers": [
-        "David Hearn DaveHearn",
-        "GlueBrick Bumbledung",
-        "Eric Sanguinious",
-        "Henley Whispers",
-        "Max Runham Max Runham",
-        "Roll Britannia",
-        "Fan Content"
+        "Roll Britannia Presents",
+        "Mischief Theatre"
       ],
       "topics": [
         "roll",
@@ -1510,10 +1285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78384587",
       "itunes_duration": "54:00",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1531,10 +1303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70011105",
       "itunes_duration": "48:11",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1552,11 +1321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72079513",
       "itunes_duration": "49:37",
-      "speakers": [
-        "Will Keth",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1574,11 +1339,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65920375",
       "itunes_duration": "45:21",
-      "speakers": [
-        "Will Keth",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1596,10 +1357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65134796",
       "itunes_duration": "44:48",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1617,10 +1375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71911286",
       "itunes_duration": "49:30",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1638,11 +1393,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63667242",
       "itunes_duration": "43:47",
-      "speakers": [
-        "dick jokes",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1660,11 +1411,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67154814",
       "itunes_duration": "46:12",
-      "speakers": [
-        "dick jokes",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1682,10 +1429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64383445",
       "itunes_duration": "44:17",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1703,10 +1447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64151389",
       "itunes_duration": "44:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1724,10 +1465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64106090",
       "itunes_duration": "44:05",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1745,10 +1483,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67647569",
       "itunes_duration": "46:33",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "past",
@@ -1766,10 +1501,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58766949",
       "itunes_duration": "40:23",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "chapter"
@@ -1786,10 +1518,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63971699",
       "itunes_duration": "44:00",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "chapter"
@@ -1806,10 +1535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58180880",
       "itunes_duration": "39:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "chapter"
@@ -1826,10 +1552,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63624494",
       "itunes_duration": "43:45",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "chapter"
@@ -1847,9 +1570,7 @@
       "enclosure_length": "60819967",
       "itunes_duration": "42:01",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -1868,9 +1589,7 @@
       "enclosure_length": "76343443",
       "itunes_duration": "52:35",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -1888,10 +1607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84139468",
       "itunes_duration": "58:12",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -1909,10 +1625,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68757429",
       "itunes_duration": "47:31",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -1930,11 +1643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60714398",
       "itunes_duration": "41:56",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -1952,11 +1661,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61482398",
       "itunes_duration": "42:28",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -1974,11 +1679,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63265683",
       "itunes_duration": "43:43",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -1996,11 +1697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64060014",
       "itunes_duration": "44:16",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "problem",
@@ -2018,11 +1715,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59314145",
       "itunes_duration": "40:58",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2040,11 +1733,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65881329",
       "itunes_duration": "45:32",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2062,11 +1751,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58458869",
       "itunes_duration": "40:22",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2084,11 +1769,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63504472",
       "itunes_duration": "43:53",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2106,11 +1787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58548074",
       "itunes_duration": "40:26",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2128,11 +1805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64178611",
       "itunes_duration": "44:21",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2150,11 +1823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61349177",
       "itunes_duration": "42:23",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2172,11 +1841,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71780184",
       "itunes_duration": "49:37",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2194,11 +1859,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63936521",
       "itunes_duration": "44:11",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2216,11 +1877,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72736238",
       "itunes_duration": "50:17",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2238,11 +1895,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55421025",
       "itunes_duration": "38:16",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2260,11 +1913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72523288",
       "itunes_duration": "50:08",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2282,11 +1931,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56840086",
       "itunes_duration": "39:15",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2304,11 +1949,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71780664",
       "itunes_duration": "49:37",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2326,11 +1967,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73733779",
       "itunes_duration": "50:59",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2348,11 +1985,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65605518",
       "itunes_duration": "45:20",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2370,11 +2003,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63277817",
       "itunes_duration": "43:43",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2392,11 +2021,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63934848",
       "itunes_duration": "44:11",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2414,11 +2039,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62315428",
       "itunes_duration": "43:03",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2436,11 +2057,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63175588",
       "itunes_duration": "43:39",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2458,11 +2075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60061220",
       "itunes_duration": "41:29",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2480,11 +2093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65136289",
       "itunes_duration": "45:01",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2502,11 +2111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67637779",
       "itunes_duration": "46:45",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2524,11 +2129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67181367",
       "itunes_duration": "46:26",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2546,11 +2147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67936974",
       "itunes_duration": "46:57",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2568,11 +2165,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66340788",
       "itunes_duration": "45:51",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2590,11 +2183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55323178",
       "itunes_duration": "38:12",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2612,11 +2201,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68567887",
       "itunes_duration": "47:24",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2634,11 +2219,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70608004",
       "itunes_duration": "48:49",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2656,11 +2237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85329780",
       "itunes_duration": "59:02",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2678,11 +2255,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118453541",
       "itunes_duration": "1:22:02",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2700,11 +2273,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72146861",
       "itunes_duration": "1:14:50",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "roll",
         "britannia",
@@ -2725,11 +2294,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153167323",
       "itunes_duration": "1:46:09",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -2747,11 +2312,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64551408",
       "itunes_duration": "44:36",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -2770,9 +2331,7 @@
       "enclosure_length": "298679156",
       "itunes_duration": "3:27:12",
       "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Roll Britannia"
       ],
       "topics": [
         "roll",
@@ -2791,11 +2350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97141100",
       "itunes_duration": "1:07:14",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2813,11 +2368,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93524691",
       "itunes_duration": "1:04:43",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "delvin",
         "deeper",
@@ -2835,11 +2386,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104083743",
       "itunes_duration": "1:12:03",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -2859,11 +2406,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96000619",
       "itunes_duration": "1:06:27",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -2883,11 +2426,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91030467",
       "itunes_duration": "1:03:00",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -2907,11 +2446,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101642693",
       "itunes_duration": "1:10:22",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -2931,11 +2466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91721783",
       "itunes_duration": "1:03:28",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -2957,7 +2488,8 @@
       "itunes_duration": "1:27:00",
       "speakers": [
         "Roll Britannia",
-        "Fan Content"
+        "Comic Con London October",
+        "Springheeled Jack Attack Relive"
       ],
       "topics": [
         "roll",
@@ -2981,11 +2513,7 @@
       "enclosure_length": "97575098",
       "itunes_duration": "1:07:32",
       "speakers": [
-        "Kunjee Manor",
-        "Lady Kunjee",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Kunjee Manor"
       ],
       "topics": [
         "tale",
@@ -3006,11 +2534,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86705895",
       "itunes_duration": "59:59",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "night",
         "living",
@@ -3028,11 +2552,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94326679",
       "itunes_duration": "1:05:17",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "night",
         "living",
@@ -3050,12 +2570,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93285341",
       "itunes_duration": "1:04:34",
-      "speakers": [
-        "Lady Kunjee",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3075,13 +2590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97310386",
       "itunes_duration": "1:07:21",
-      "speakers": [
-        "Dead Drop Inn",
-        "Lady Kunjee",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3101,11 +2610,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106733364",
       "itunes_duration": "1:13:54",
-      "speakers": [
-        "Aussie Icons",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -3124,11 +2629,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101927177",
       "itunes_duration": "1:10:34",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3148,12 +2649,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114845609",
       "itunes_duration": "1:19:32",
-      "speakers": [
-        "Alan Key",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3173,11 +2669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90331884",
       "itunes_duration": "1:02:30",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3197,13 +2689,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89800935",
       "itunes_duration": "1:02:08",
-      "speakers": [
-        "Mickey Grey",
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "fire",
@@ -3223,12 +2709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88068835",
       "itunes_duration": "1:00:56",
-      "speakers": [
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3245,11 +2726,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104012014",
       "itunes_duration": "1:12:01",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3266,12 +2743,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103100544",
       "itunes_duration": "1:11:23",
-      "speakers": [
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3288,11 +2760,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86107834",
       "itunes_duration": "59:34",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3309,11 +2777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92698649",
       "itunes_duration": "1:04:09",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3330,12 +2794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96278343",
       "itunes_duration": "1:06:38",
-      "speakers": [
-        "Will Jeff",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3352,11 +2811,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99819756",
       "itunes_duration": "1:09:06",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3373,11 +2828,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86949798",
       "itunes_duration": "1:00:10",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3394,11 +2845,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94158922",
       "itunes_duration": "1:05:10",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3415,12 +2862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132983497",
       "itunes_duration": "1:32:08",
-      "speakers": [
-        "Grey Family",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3437,11 +2879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99711219",
       "itunes_duration": "1:09:01",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3458,11 +2896,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100137676",
       "itunes_duration": "1:09:19",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "chapter"
@@ -3479,11 +2913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85486445",
       "itunes_duration": "59:09",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3503,9 +2933,7 @@
       "enclosure_length": "108973328",
       "itunes_duration": "1:15:27",
       "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Jjj ge"
       ],
       "topics": [
         "escape",
@@ -3525,11 +2953,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99844005",
       "itunes_duration": "1:09:07",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3548,12 +2972,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98709235",
       "itunes_duration": "1:08:20",
-      "speakers": [
-        "Keth Threatens",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3572,11 +2991,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76724536",
       "itunes_duration": "53:04",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3595,11 +3010,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96539893",
       "itunes_duration": "1:06:49",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3618,12 +3029,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92685799",
       "itunes_duration": "1:04:09",
-      "speakers": [
-        "Raj Banal",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3642,10 +3048,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83345828",
       "itunes_duration": "57:40",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -3666,11 +3069,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77917348",
       "itunes_duration": "53:53",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3689,11 +3088,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73444947",
       "itunes_duration": "50:47",
-      "speakers": [
-        "Tim Roberts",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -3712,11 +3107,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84215380",
       "itunes_duration": "58:16",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3735,11 +3126,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97089814",
       "itunes_duration": "1:07:12",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3758,13 +3145,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101925030",
       "itunes_duration": "1:10:34",
-      "speakers": [
-        "feng shui",
-        "Will Jeff",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3783,11 +3164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96135473",
       "itunes_duration": "1:06:32",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3806,11 +3183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89346633",
       "itunes_duration": "1:01:49",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3829,11 +3202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90618319",
       "itunes_duration": "1:02:42",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "owlbear",
@@ -3852,11 +3221,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100738105",
       "itunes_duration": "1:09:44",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -3874,11 +3239,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109418982",
       "itunes_duration": "1:15:46",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -3896,11 +3257,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81156428",
       "itunes_duration": "56:05",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -3918,11 +3275,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87406466",
       "itunes_duration": "1:00:25",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -3940,11 +3293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101976576",
       "itunes_duration": "1:10:32",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -3963,10 +3312,7 @@
       "enclosure_length": "87894731",
       "itunes_duration": "1:00:49",
       "speakers": [
-        "Gary Colman Game",
-        "Gary Colman",
-        "Roll Britannia",
-        "Fan Content"
+        "Gary Colman Game"
       ],
       "topics": [
         "britannia",
@@ -3990,11 +3336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97958168",
       "itunes_duration": "1:07:45",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "nassau",
@@ -4013,10 +3355,7 @@
       "enclosure_length": "97276520",
       "itunes_duration": "1:07:17",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4036,10 +3375,7 @@
       "enclosure_length": "86007059",
       "itunes_duration": "59:27",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4059,10 +3395,7 @@
       "enclosure_length": "113136560",
       "itunes_duration": "1:18:21",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4081,10 +3414,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86687655",
       "itunes_duration": "59:55",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -4105,11 +3435,7 @@
       "enclosure_length": "103227391",
       "itunes_duration": "1:11:28",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Will Jeff",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4129,10 +3455,7 @@
       "enclosure_length": "101275957",
       "itunes_duration": "1:10:07",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4151,10 +3474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106565526",
       "itunes_duration": "1:13:44",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -4175,10 +3495,7 @@
       "enclosure_length": "94412606",
       "itunes_duration": "1:05:21",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4197,11 +3514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82547732",
       "itunes_duration": "57:03",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "roll",
         "britannia",
@@ -4220,11 +3533,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152997623",
       "itunes_duration": "1:45:58",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -4242,11 +3551,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129675520",
       "itunes_duration": "1:29:50",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -4265,10 +3570,7 @@
       "enclosure_length": "101215131",
       "itunes_duration": "1:10:01",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4288,10 +3590,7 @@
       "enclosure_length": "89476042",
       "itunes_duration": "1:01:52",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4311,10 +3610,7 @@
       "enclosure_length": "96633297",
       "itunes_duration": "1:07:01",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4334,10 +3630,7 @@
       "enclosure_length": "102811012",
       "itunes_duration": "1:11:18",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4357,10 +3650,7 @@
       "enclosure_length": "95723908",
       "itunes_duration": "1:06:23",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4380,10 +3670,7 @@
       "enclosure_length": "98746433",
       "itunes_duration": "1:08:29",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4403,10 +3690,7 @@
       "enclosure_length": "104597749",
       "itunes_duration": "1:12:32",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4425,12 +3709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109468394",
       "itunes_duration": "1:15:55",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Wrenegade Studios Beyond",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -4448,10 +3727,7 @@
       "enclosure_length": "84730417",
       "itunes_duration": "58:45",
       "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Wrenegade Studios Beyond",
-        "Fan Content"
+        "Halloween Special"
       ],
       "topics": [
         "halloween",
@@ -4470,10 +3746,7 @@
       "enclosure_length": "96666258",
       "itunes_duration": "1:07:02",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4493,10 +3766,7 @@
       "enclosure_length": "76116035",
       "itunes_duration": "52:46",
       "speakers": [
-        "William Cartwright",
-        "Jasper William Cartwright",
-        "Roll Britannia",
-        "Fan Content"
+        "William Cartwright"
       ],
       "topics": [
         "britannia",
@@ -4518,10 +3788,7 @@
       "enclosure_length": "93570957",
       "itunes_duration": "1:04:53",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4541,12 +3808,7 @@
       "enclosure_length": "87780269",
       "itunes_duration": "1:00:52",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Will Keth",
-        "Will Jeff",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4566,10 +3828,7 @@
       "enclosure_length": "93712184",
       "itunes_duration": "1:04:59",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4589,10 +3848,7 @@
       "enclosure_length": "102681931",
       "itunes_duration": "1:11:13",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4612,10 +3868,7 @@
       "enclosure_length": "123298891",
       "itunes_duration": "1:25:32",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4635,10 +3888,7 @@
       "enclosure_length": "88865837",
       "itunes_duration": "1:01:37",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4658,10 +3908,7 @@
       "enclosure_length": "86029897",
       "itunes_duration": "59:39",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4681,10 +3928,7 @@
       "enclosure_length": "86043261",
       "itunes_duration": "59:39",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4704,10 +3948,7 @@
       "enclosure_length": "86931307",
       "itunes_duration": "1:00:16",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4727,10 +3968,7 @@
       "enclosure_length": "90455153",
       "itunes_duration": "1:02:43",
       "speakers": [
-        "Moonlight Masquerade Chapter",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Moonlight Masquerade Chapter"
       ],
       "topics": [
         "moonlight",
@@ -4750,10 +3988,7 @@
       "enclosure_length": "90628986",
       "itunes_duration": "1:02:50",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4771,10 +4006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120372145",
       "itunes_duration": "1:23:19",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -4794,11 +4026,7 @@
       "enclosure_length": "121166623",
       "itunes_duration": "1:24:03",
       "speakers": [
-        "Tel Dath",
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4817,12 +4045,7 @@
       "enclosure_length": "101492552",
       "itunes_duration": "1:10:23",
       "speakers": [
-        "Tel Dath",
-        "Laurence Llewelyn-Bowen",
-        "Tex Mex",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4841,10 +4064,7 @@
       "enclosure_length": "98311601",
       "itunes_duration": "1:08:11",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -4862,11 +4082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96813636",
       "itunes_duration": "1:07:08",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -4882,11 +4098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89939910",
       "itunes_duration": "1:02:22",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -4902,11 +4114,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93139072",
       "itunes_duration": "1:04:35",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -4922,11 +4130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99638211",
       "itunes_duration": "1:08:58",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "roll",
         "britannia",
@@ -4945,12 +4149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91848968",
       "itunes_duration": "1:03:41",
-      "speakers": [
-        "Robin Hood",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -4966,11 +4165,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83189738",
       "itunes_duration": "57:41",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -4986,11 +4181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101566218",
       "itunes_duration": "1:10:26",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -5006,11 +4197,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101724126",
       "itunes_duration": "1:10:33",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -5026,11 +4213,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97934282",
       "itunes_duration": "1:07:55",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -5046,11 +4229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94010227",
       "itunes_duration": "1:05:11",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -5066,11 +4245,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96194099",
       "itunes_duration": "1:06:42",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -5086,11 +4261,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89766350",
       "itunes_duration": "1:02:15",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5108,11 +4279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99652362",
       "itunes_duration": "1:09:06",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5130,11 +4297,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99898785",
       "itunes_duration": "1:09:17",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5152,11 +4315,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117663737",
       "itunes_duration": "1:21:37",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5175,9 +4334,7 @@
       "enclosure_length": "23858387",
       "itunes_duration": "24:27",
       "speakers": [
-        "Jonathan Goldstein",
-        "Roll Britannia",
-        "Fan Content"
+        "Jonathan Goldstein"
       ],
       "topics": [
         "britannia",
@@ -5203,10 +4360,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35477564",
       "itunes_duration": "36:33",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "britannia",
         "parley",
@@ -5229,11 +4383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94010846",
       "itunes_duration": "1:05:11",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5252,9 +4402,7 @@
       "enclosure_length": "85582260",
       "itunes_duration": "59:20",
       "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Derek hea"
       ],
       "topics": [
         "raider",
@@ -5273,11 +4421,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107995768",
       "itunes_duration": "1:14:54",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5295,11 +4439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86016527",
       "itunes_duration": "59:38",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5317,11 +4457,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88178755",
       "itunes_duration": "1:01:08",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5339,11 +4475,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100043108",
       "itunes_duration": "1:09:23",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "raider",
         "lost",
@@ -5361,12 +4493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87676861",
       "itunes_duration": "1:00:47",
-      "speakers": [
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5383,11 +4510,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93343994",
       "itunes_duration": "1:04:44",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5404,11 +4527,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109497756",
       "itunes_duration": "1:15:57",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5425,11 +4544,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113139554",
       "itunes_duration": "1:18:28",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter",
@@ -5448,8 +4563,7 @@
       "enclosure_length": "214746476",
       "itunes_duration": "2:29:02",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Roll Britannia"
       ],
       "topics": [
         "roll",
@@ -5469,11 +4583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99708154",
       "itunes_duration": "1:09:09",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5490,11 +4600,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106371195",
       "itunes_duration": "1:13:46",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5511,11 +4617,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90583342",
       "itunes_duration": "1:02:49",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5532,11 +4634,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90896779",
       "itunes_duration": "1:03:02",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5553,12 +4651,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76983213",
       "itunes_duration": "1:20:03",
-      "speakers": [
-        "Will Keth",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -5577,10 +4670,7 @@
       "enclosure_length": "68390278",
       "itunes_duration": "1:11:06",
       "speakers": [
-        "Will Derek",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Lastlight Special"
       ],
       "topics": [
         "lastlight",
@@ -5600,11 +4690,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104733949",
       "itunes_duration": "1:12:38",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5621,11 +4707,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100579887",
       "itunes_duration": "1:09:45",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "donkey",
         "chapter"
@@ -5642,11 +4724,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96232176",
       "itunes_duration": "1:06:44",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5664,11 +4742,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72562121",
       "itunes_duration": "1:15:27",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5686,11 +4760,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76073452",
       "itunes_duration": "1:19:06",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5708,11 +4778,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73634910",
       "itunes_duration": "1:16:34",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5730,11 +4796,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73220594",
       "itunes_duration": "1:16:08",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5752,11 +4814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53646232",
       "itunes_duration": "55:45",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -5773,11 +4831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56459717",
       "itunes_duration": "58:40",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -5794,11 +4848,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94312010",
       "itunes_duration": "1:05:13",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5816,11 +4866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60341408",
       "itunes_duration": "1:02:43",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5838,11 +4884,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68630923",
       "itunes_duration": "1:11:21",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5860,11 +4902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69749209",
       "itunes_duration": "1:12:31",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5882,11 +4920,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81566759",
       "itunes_duration": "1:24:50",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "honour",
         "thieves",
@@ -5904,11 +4938,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68781602",
       "itunes_duration": "1:11:31",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "exit",
         "marooned",
@@ -5928,9 +4958,7 @@
       "enclosure_length": "84911409",
       "itunes_duration": "1:28:19",
       "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Davy Jones"
       ],
       "topics": [
         "exit",
@@ -5951,10 +4979,7 @@
       "enclosure_length": "83118846",
       "itunes_duration": "1:26:27",
       "speakers": [
-        "Exit Marooned",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Exit Marooned"
       ],
       "topics": [
         "exit",
@@ -5974,11 +4999,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82475415",
       "itunes_duration": "1:25:46",
-      "speakers": [
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "exit",
         "marooned",
@@ -5998,10 +5019,7 @@
       "enclosure_length": "76153264",
       "itunes_duration": "1:19:11",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6020,10 +5038,7 @@
       "enclosure_length": "73944114",
       "itunes_duration": "1:16:53",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6042,9 +5057,7 @@
       "enclosure_length": "58595333",
       "itunes_duration": "1:00:54",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6063,9 +5076,7 @@
       "enclosure_length": "63313884",
       "itunes_duration": "1:05:49",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6084,9 +5095,7 @@
       "enclosure_length": "64971400",
       "itunes_duration": "1:07:32",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6105,9 +5114,7 @@
       "enclosure_length": "75609237",
       "itunes_duration": "1:18:37",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6126,9 +5133,7 @@
       "enclosure_length": "67495509",
       "itunes_duration": "1:10:10",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6147,9 +5152,7 @@
       "enclosure_length": "129649951",
       "itunes_duration": "1:29:56",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6168,9 +5171,7 @@
       "enclosure_length": "65806712",
       "itunes_duration": "1:08:25",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6189,9 +5190,7 @@
       "enclosure_length": "67836504",
       "itunes_duration": "1:10:31",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6209,10 +5208,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68705469",
       "itunes_duration": "1:11:26",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "ship",
         "chapter"
@@ -6229,10 +5225,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72388482",
       "itunes_duration": "1:15:16",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "ship",
         "chapter"
@@ -6249,10 +5242,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64576620",
       "itunes_duration": "1:07:08",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "ship",
         "chapter"
@@ -6269,10 +5259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70191182",
       "itunes_duration": "1:12:59",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "ship",
         "chapter"
@@ -6289,10 +5276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71645410",
       "itunes_duration": "1:14:29",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "ship",
         "chapter"
@@ -6309,10 +5293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75492420",
       "itunes_duration": "1:18:30",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6329,10 +5310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75408835",
       "itunes_duration": "1:18:25",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6349,10 +5327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56492676",
       "itunes_duration": "58:42",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6369,10 +5344,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69467009",
       "itunes_duration": "1:12:13",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6389,10 +5361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70774995",
       "itunes_duration": "1:13:35",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6409,10 +5378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66448220",
       "itunes_duration": "1:09:05",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6429,10 +5395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69164452",
       "itunes_duration": "1:11:54",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6449,10 +5412,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70345147",
       "itunes_duration": "1:13:08",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6469,10 +5429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74864786",
       "itunes_duration": "1:17:51",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6489,10 +5446,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71477527",
       "itunes_duration": "1:14:19",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6509,10 +5463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74501939",
       "itunes_duration": "1:17:28",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6529,10 +5480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68028087",
       "itunes_duration": "1:10:43",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6549,10 +5497,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70460710",
       "itunes_duration": "1:13:15",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "free",
         "chapter"
@@ -6569,10 +5514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70640918",
       "itunes_duration": "1:13:27",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "dogs",
         "chapter"
@@ -6590,9 +5532,7 @@
       "enclosure_length": "72319306",
       "itunes_duration": "1:15:12",
       "speakers": [
-        "Dnd Battle",
-        "Roll Britannia",
-        "Fan Content"
+        "Dnd Battle"
       ],
       "topics": [
         "dogs",
@@ -6610,11 +5550,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71126781",
       "itunes_duration": "1:13:57",
-      "speakers": [
-        "Malrus Tosscobble",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "dogs",
         "chapter"
@@ -6632,9 +5568,7 @@
       "enclosure_length": "76540836",
       "itunes_duration": "1:19:35",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6653,9 +5587,7 @@
       "enclosure_length": "74749359",
       "itunes_duration": "1:17:43",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6674,9 +5606,7 @@
       "enclosure_length": "77612719",
       "itunes_duration": "1:20:42",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6695,9 +5625,7 @@
       "enclosure_length": "56568577",
       "itunes_duration": "58:47",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6715,10 +5643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70317674",
       "itunes_duration": "1:13:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -6737,10 +5662,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61949913",
       "itunes_duration": "1:04:24",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -6760,9 +5682,7 @@
       "enclosure_length": "72868557",
       "itunes_duration": "1:15:46",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -6781,8 +5701,7 @@
       "enclosure_length": "67495481",
       "itunes_duration": "1:10:10",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "unfinished busi"
       ],
       "topics": [
         "chapter"
@@ -6799,10 +5718,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66297818",
       "itunes_duration": "1:08:55",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -6819,8 +5735,7 @@
       "enclosure_length": "70460654",
       "itunes_duration": "1:13:15",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Choose Me"
       ],
       "topics": [
         "chapter"
@@ -6837,11 +5752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63198711",
       "itunes_duration": "1:05:42",
-      "speakers": [
-        "Robin Hood",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -6858,9 +5769,7 @@
       "enclosure_length": "61171381",
       "itunes_duration": "1:03:35",
       "speakers": [
-        "Dnd Jeff",
-        "Roll Britannia",
-        "Fan Content"
+        "Dnd Jeff"
       ],
       "topics": [
         "chapter"
@@ -6877,10 +5786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63992636",
       "itunes_duration": "1:06:31",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -6896,10 +5802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49622289",
       "itunes_duration": "51:33",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -6917,8 +5820,8 @@
       "enclosure_length": "57583581",
       "itunes_duration": "59:51",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Halloween Special",
+        "Tel Dath"
       ],
       "topics": [
         "halloween",
@@ -6936,10 +5839,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67673114",
       "itunes_duration": "1:10:21",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -6955,10 +5855,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60625674",
       "itunes_duration": "1:03:01",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -6975,9 +5872,7 @@
       "enclosure_length": "62075125",
       "itunes_duration": "1:04:31",
       "speakers": [
-        "Jeff Silverbow",
-        "Roll Britannia",
-        "Fan Content"
+        "Jeff Silverbow"
       ],
       "topics": [
         "chapter"
@@ -6995,8 +5890,7 @@
       "enclosure_length": "61633740",
       "itunes_duration": "1:04:04",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Choose Me"
       ],
       "topics": [
         "chapter"
@@ -7013,10 +5907,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60606568",
       "itunes_duration": "1:03:00",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7032,11 +5923,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66154188",
       "itunes_duration": "1:08:46",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7052,10 +5939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61683827",
       "itunes_duration": "1:04:07",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7071,10 +5955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67610314",
       "itunes_duration": "1:10:17",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7090,10 +5971,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69044782",
       "itunes_duration": "1:11:47",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7109,10 +5987,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67179428",
       "itunes_duration": "1:09:50",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7128,10 +6003,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62798476",
       "itunes_duration": "1:05:17",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7148,9 +6020,7 @@
       "enclosure_length": "69256693",
       "itunes_duration": "1:12:00",
       "speakers": [
-        "Team Shuttle",
-        "Roll Britannia",
-        "Fan Content"
+        "Team Shuttle"
       ],
       "topics": [
         "chapter"
@@ -7167,10 +6037,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67615288",
       "itunes_duration": "1:10:18",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7186,10 +6053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70139191",
       "itunes_duration": "1:12:55",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -7207,10 +6071,7 @@
       "itunes_duration": "1:12:28",
       "speakers": [
         "Tel Dath",
-        "Dnd Danger",
-        "Will Malrus",
-        "Roll Britannia",
-        "Fan Content"
+        "Dnd Danger"
       ],
       "topics": [
         "dath",
@@ -7229,9 +6090,7 @@
       "enclosure_length": "73343092",
       "itunes_duration": "1:16:16",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7250,9 +6109,7 @@
       "enclosure_length": "75857181",
       "itunes_duration": "1:18:53",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7271,9 +6128,7 @@
       "enclosure_length": "76263635",
       "itunes_duration": "1:19:18",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7291,10 +6146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69430538",
       "itunes_duration": "1:12:11",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7311,10 +6163,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63140231",
       "itunes_duration": "1:05:38",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7331,10 +6180,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68070827",
       "itunes_duration": "1:10:46",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7351,10 +6197,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59473021",
       "itunes_duration": "1:01:49",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7371,10 +6214,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60751280",
       "itunes_duration": "1:03:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7391,10 +6231,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60757071",
       "itunes_duration": "1:03:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7411,10 +6248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66070249",
       "itunes_duration": "1:08:41",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7431,10 +6265,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53710466",
       "itunes_duration": "55:49",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7451,10 +6282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60750248",
       "itunes_duration": "1:03:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7471,10 +6299,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69588053",
       "itunes_duration": "1:12:21",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7491,10 +6316,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53776987",
       "itunes_duration": "55:53",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7511,10 +6333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65037096",
       "itunes_duration": "1:07:36",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7531,10 +6350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59207185",
       "itunes_duration": "1:01:32",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7551,10 +6367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59820953",
       "itunes_duration": "1:02:10",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7571,10 +6384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63663000",
       "itunes_duration": "1:06:11",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "place",
         "chapter"
@@ -7592,9 +6402,7 @@
       "enclosure_length": "99995606",
       "itunes_duration": "1:44:01",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7613,9 +6421,7 @@
       "enclosure_length": "59128117",
       "itunes_duration": "1:01:27",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7634,9 +6440,7 @@
       "enclosure_length": "60987835",
       "itunes_duration": "1:03:23",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -7654,10 +6458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86081720",
       "itunes_duration": "1:29:32",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7676,10 +6477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59588250",
       "itunes_duration": "1:01:56",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7698,10 +6496,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68770949",
       "itunes_duration": "1:11:30",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7721,9 +6516,7 @@
       "enclosure_length": "54175994",
       "itunes_duration": "56:18",
       "speakers": [
-        "Tom Chip",
-        "Roll Britannia",
-        "Fan Content"
+        "Tom Chip"
       ],
       "topics": [
         "shore",
@@ -7745,10 +6538,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65454125",
       "itunes_duration": "1:08:03",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7767,10 +6557,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83799785",
       "itunes_duration": "1:27:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7790,9 +6577,7 @@
       "enclosure_length": "77306561",
       "itunes_duration": "1:20:23",
       "speakers": [
-        "Dnd Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Dnd Derek"
       ],
       "topics": [
         "death",
@@ -7813,9 +6598,7 @@
       "enclosure_length": "61358257",
       "itunes_duration": "1:03:47",
       "speakers": [
-        "Dnd Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Dnd Derek"
       ],
       "topics": [
         "death",
@@ -7835,11 +6618,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55725439",
       "itunes_duration": "57:54",
-      "speakers": [
-        "Will Jeff",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7858,10 +6637,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75922812",
       "itunes_duration": "1:18:57",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "lastlight",
         "special",
@@ -7881,9 +6657,7 @@
       "enclosure_length": "84404744",
       "itunes_duration": "1:27:47",
       "speakers": [
-        "Lastlight Special Santas",
-        "Roll Britannia",
-        "Fan Content"
+        "Lastlight Special Santas"
       ],
       "topics": [
         "lastlight",
@@ -7903,10 +6677,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "172543082",
       "itunes_duration": "1:59:44",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7925,10 +6696,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91475644",
       "itunes_duration": "1:35:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7947,10 +6715,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72347620",
       "itunes_duration": "50:09",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -7970,8 +6735,7 @@
       "enclosure_length": "76985387",
       "itunes_duration": "1:20:03",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Nemmonis Island"
       ],
       "topics": [
         "death",
@@ -7991,10 +6755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65855952",
       "itunes_duration": "1:08:28",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -8013,10 +6774,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61376001",
       "itunes_duration": "1:03:48",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "nemmonis",
@@ -8036,9 +6794,7 @@
       "enclosure_length": "68544123",
       "itunes_duration": "1:11:16",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8057,10 +6813,7 @@
       "enclosure_length": "60584776",
       "itunes_duration": "1:02:58",
       "speakers": [
-        "Tel Dath",
-        "Alex Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8078,10 +6831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85373466",
       "itunes_duration": "1:28:47",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -8099,9 +6849,7 @@
       "enclosure_length": "72387698",
       "itunes_duration": "1:15:16",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8120,9 +6868,7 @@
       "enclosure_length": "58153582",
       "itunes_duration": "1:00:26",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8140,10 +6886,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64003724",
       "itunes_duration": "1:06:32",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8161,10 +6904,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50727789",
       "itunes_duration": "52:42",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8182,10 +6922,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62612044",
       "itunes_duration": "1:05:05",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8203,11 +6940,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60040993",
       "itunes_duration": "1:02:24",
-      "speakers": [
-        "Baylon Parktree",
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8225,10 +6958,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48479932",
       "itunes_duration": "50:22",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8246,10 +6976,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61300876",
       "itunes_duration": "1:03:43",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8267,10 +6994,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67279351",
       "itunes_duration": "1:09:57",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8288,10 +7012,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65567306",
       "itunes_duration": "1:08:10",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8309,10 +7030,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62280475",
       "itunes_duration": "1:04:44",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8330,10 +7048,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48823937",
       "itunes_duration": "50:43",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8351,10 +7066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60605920",
       "itunes_duration": "1:02:59",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8372,10 +7084,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55310125",
       "itunes_duration": "57:28",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "cranberry",
         "files",
@@ -8394,9 +7103,7 @@
       "enclosure_length": "60172509",
       "itunes_duration": "1:02:32",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8415,10 +7122,7 @@
       "enclosure_length": "71808494",
       "itunes_duration": "1:14:40",
       "speakers": [
-        "Tel Dath",
-        "Will Derek",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8437,9 +7141,7 @@
       "enclosure_length": "73880238",
       "itunes_duration": "1:16:49",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8458,9 +7160,7 @@
       "enclosure_length": "67219824",
       "itunes_duration": "1:09:53",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8479,9 +7179,7 @@
       "enclosure_length": "57354796",
       "itunes_duration": "59:36",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8500,9 +7198,7 @@
       "enclosure_length": "48237518",
       "itunes_duration": "50:07",
       "speakers": [
-        "Tel Dath",
-        "Roll Britannia",
-        "Fan Content"
+        "Tel Dath"
       ],
       "topics": [
         "dath",
@@ -8520,10 +7216,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62247296",
       "itunes_duration": "1:04:42",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -8539,10 +7232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33712897",
       "itunes_duration": "55:58",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -8558,11 +7248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82256638",
       "itunes_duration": "57:02",
-      "speakers": [
-        "Roll Britannia",
-        "Fiction Horizon",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -8578,10 +7264,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78911964",
       "itunes_duration": "54:42",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -8598,9 +7281,7 @@
       "enclosure_length": "69213163",
       "itunes_duration": "47:58",
       "speakers": [
-        "Bat Deeley",
-        "Roll Britannia",
-        "Fan Content"
+        "Bat Deeley"
       ],
       "topics": [
         "chapter"
@@ -8617,10 +7298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86992419",
       "itunes_duration": "59:59",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "remastered"
@@ -8637,10 +7315,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60543587",
       "itunes_duration": "1:02:26",
-      "speakers": [
-        "Roll Britannia",
-        "Fan Content"
-      ],
+      "speakers": [],
       "topics": [
         "chapter"
       ]
@@ -8657,8 +7332,7 @@
       "enclosure_length": "1443319",
       "itunes_duration": "1:00",
       "speakers": [
-        "Roll Britannia",
-        "Fan Content"
+        "Roll Britannia"
       ],
       "topics": [
         "roll",
@@ -8672,404 +7346,404 @@
 
 ## Episodes (newest first)
 
-- 2026-02-22 — Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations — speakers: Roll Britannia, Fan Content
-- 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-02-11 — Ep. 316: Because, That's What Heroes Do - Chapter 13 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-02-11 — Ep. 316: Because, That's What Heroes Do - Chapter 13 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-02-04 — Ep. 315: Because, That's What Heroes Do - Chapter 12 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-02-04 — Ep. 315: Because, That's What Heroes Do - Chapter 12 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-28 — Ep. 314: Because, That's What Heroes Do - Chapter 11 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-28 — Ep. 314: Because, That's What Heroes Do - Chapter 11 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-21 — Ep. 313: Because, That's What Heroes Do - Chapter 10 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-21 — Ep. 313: Because, That's What Heroes Do - Chapter 10 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-14 — Ep. 312: Because, That's What Heroes Do - Chapter 9 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-14 — Ep. 312: Because, That's What Heroes Do - Chapter 9 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-07 — Ep. 311: Because, That's What Heroes Do - Chapter 8 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2026-01-07 — Ep. 311: Because, That's What Heroes Do - Chapter 8 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-31 — Ep. 310: Because, That's What Heroes Do - Chapter 7 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-31 — Ep. 310: Because, That's What Heroes Do - Chapter 7 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-26 — Ep. 309: Roll Britannia LIVE - Plunder All the Way - MCM Comic Con Birmingham 2025 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-12-25 — Ep. 308: Lastlight Special 2025 - pt.3 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-24 — Ep. 308: Lastlight Special 2025 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-23 — Ep. 308: Lastlight Special 2025 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-17 — Ep. 307: Because, That's What Heroes Do - Chapter 6 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-17 — Ep. 307: Because, That's What Heroes Do - Chapter 6 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-10 — Ep. 306: Because, That's What Heroes Do - Chapter 5 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-10 — Ep. 306: Because, That's What Heroes Do - Chapter 5 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-03 — Ep. 305: Because, That's What Heroes Do - Chapter 4 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-12-03 — Ep. 305: Because, That's What Heroes Do - Chapter 4 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-26 — Ep. 304: Because, That's What Heroes Do - Chapter 3 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-26 — Ep. 304: Because, That's What Heroes Do - Chapter 3 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-19 — Ep. 303: Because, That's What Heroes Do - Chapter 2 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-19 — Ep. 303: Because, That's What Heroes Do - Chapter 2 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-12 — Ep. 302: Because, That's What Heroes Do - Chapter 1 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-12 — Ep. 302: Because, That's What Heroes Do - Chapter 1 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-05 — Ep. 301: Sail And Well Met, Adventurers - Chapter 17 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-11-05 — Ep. 301: Sail And Well Met, Adventurers - Chapter 17 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-29 — Ep. 300: Halloween Live Show @ MCM Comic Con London "The Mirthless Mask" - pt.2 | #DND — speakers: Jessica Alba, Roll Britannia, Fan Content
-- 2025-10-29 — Ep. 300: Halloween Live Show @ MCM Comic Con London "The Mirthless Mask" - pt.1 | #DND — speakers: Jessica Alba, Roll Britannia, Fan Content
-- 2025-10-22 — Ep. 299: Sail And Well Met, Adventurers - Chapter 16 - pt.2 | #DND — speakers: Will Keth, Roll Britannia, Fan Content
-- 2025-10-22 — Ep. 299: Sail And Well Met, Adventurers - Chapter 16 - pt.1 | #DND — speakers: Will Keth, Roll Britannia, Fan Content
-- 2025-10-15 — Ep. 298: Sail And Well Met, Adventurers - Chapter 15 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-15 — Ep. 298: Sail And Well Met, Adventurers - Chapter 15 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-08 — Ep. 297: Sail And Well Met, Adventurers - Chapter 14 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-08 — Ep. 297: Sail And Well Met, Adventurers - Chapter 14 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-01 — Ep. 296: Sail And Well Met, Adventurers - Chapter 13 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-10-01 — Ep. 296: Sail And Well Met, Adventurers - Chapter 13 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-24 — Ep. 295: Sail And Well Met, Adventurers - Chapter 12 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-24 — Ep. 295: Sail And Well Met, Adventurers - Chapter 12 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-17 — Ep. 294: Sail And Well Met, Adventurers - Chapter 11 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-17 — Ep. 294: Sail And Well Met, Adventurers - Chapter 11 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-10 — Ep. 293: Sail And Well Met, Adventurers - Chapter 10 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-10 — Ep. 293: Sail And Well Met, Adventurers - Chapter 10 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-09-03 — Ep. 292: Sail And Well Met, Adventurers - Chapter 9 - pt.2 | #DND — speakers: Will Malrus, Roll Britannia, Fan Content
-- 2025-09-03 — Ep. 292: Sail And Well Met, Adventurers - Chapter 9 - pt.1 | #DND — speakers: Will Malrus, Roll Britannia, Fan Content
-- 2025-08-27 — Ep. 291: Sail And Well Met, Adventurers - Chapter 8 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-08-27 — Ep. 291: Sail And Well Met, Adventurers - Chapter 8 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-08-20 — Ep. 290: Sail And Well Met, Adventurers - Chapter 7 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-08-20 — Ep. 290: Sail And Well Met, Adventurers - Chapter 7 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-08-13 — Ep. 289: Sail And Well Met, Adventurers - Chapter 6 - pt.2 | #DND — speakers: Will Buoyonce, Roll Britannia, Fan Content
-- 2025-08-13 — Ep. 289: Sail And Well Met, Adventurers - Chapter 6 - pt.1 | #DND — speakers: Will Buoyonce, Roll Britannia, Fan Content
-- 2025-08-06 — Ep. 288: Sail And Well Met, Adventurers - Chapter 5 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-08-06 — Ep. 288: Sail And Well Met, Adventurers - Chapter 5 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-30 — Ep. 287: Sail And Well Met, Adventurers - Chapter 4 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-30 — Ep. 287: Sail And Well Met, Adventurers - Chapter 4 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-23 — Ep. 286: Sail And Well Met, Adventurers - Chapter 3 - pt.2 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2025-07-23 — Ep. 286: Sail And Well Met, Adventurers - Chapter 3 - pt.1 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2025-07-16 — Ep. 285: Sail And Well Met, Adventurers - Chapter 2 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-16 — Ep. 285: Sail And Well Met, Adventurers - Chapter 2 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-09 — Ep. 284: Sail And Well Met, Adventurers - Chapter 1 - pt.2 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2025-07-09 — Ep. 284: Sail And Well Met, Adventurers - Chapter 1 - pt.1 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2025-07-05 — Roll Britannia Presents - Hell Or Highrollers | Episode 1 - Avernus — speakers: David Hearn DaveHearn, GlueBrick Bumbledung, Eric Sanguinious, Henley Whispers, Max Runham Max Runham, Roll Britannia, Fan Content
-- 2025-07-02 — Ep. 283: Delvin to the past - Chapter 8 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-07-02 — Ep. 283: Delvin to the past - Chapter 8 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-06-25 — Ep. 282: Delvin to the past - Chapter 7 - pt.2 | #DND — speakers: Will Keth, Roll Britannia, Fan Content
-- 2025-06-25 — Ep. 282: Delvin to the past - Chapter 7 - pt.1 | #DND — speakers: Will Keth, Roll Britannia, Fan Content
-- 2025-06-18 — Ep. 281: Delvin to the past - Chapter 6 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-06-18 — Ep. 281: Delvin to the past - Chapter 6 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-06-11 — Ep. 280: Delvin to the past - Chapter 5 - pt.2 | #DND — speakers: dick jokes, Roll Britannia, Fan Content
-- 2025-06-11 — Ep. 280: Delvin to the past - Chapter 5 - pt.1 | #DND — speakers: dick jokes, Roll Britannia, Fan Content
-- 2025-06-04 — Ep. 279: Delvin to the past - Chapter 4 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-06-04 — Ep. 279: Delvin to the past - Chapter 4 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-28 — Ep. 278: Delvin to the past - Chapter 3 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-28 — Ep. 278: Delvin to the past - Chapter 3 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-21 — Ep. 277: Delvin to the past - Chapter 2 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-21 — Ep. 277: Delvin to the past - Chapter 2 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-14 — Ep. 276: Delvin to the past - Chapter 1 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-14 — Ep. 276: Delvin to the past - Chapter 1 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-05-07 — Ep. 275: Tel Dath Do Us Part IX - Chapter 1 - pt.2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2025-05-07 — Ep. 275: Tel Dath Do Us Part IX - Chapter 1 - pt.1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2025-04-30 — Ep. 274: A Two Body Problem - Chapter 3 - pt.2 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-04-30 — Ep. 274: A Two Body Problem - Chapter 3 - pt.1 | #DND — speakers: Roll Britannia, Fan Content
-- 2025-04-23 — Ep. 273: A Two Body Problem - Chapter 2 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-23 — Ep. 273: A Two Body Problem - Chapter 2 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-16 — Ep. 272: A Two Body Problem - Chapter 1 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-16 — Ep. 272: A Two Body Problem - Chapter 1 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-09 — Ep. 271: Delvin Even Deeper - Chapter 18 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-09 — Ep. 271: Delvin Even Deeper - Chapter 18 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-02 — Ep. 270: Delvin Even Deeper - Chapter 17 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-04-02 — Ep. 270: Delvin Even Deeper - Chapter 17 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-26 — Ep. 269: Delvin Even Deeper - Chapter 16 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-26 — Ep. 269: Delvin Even Deeper - Chapter 16 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-19 — Ep. 268: Delvin Even Deeper - Chapter 15 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-19 — Ep. 268: Delvin Even Deeper - Chapter 15 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-12 — Ep. 267: Delvin Even Deeper - Chapter 14 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-12 — Ep. 267: Delvin Even Deeper - Chapter 14 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-05 — Ep. 266: Delvin Even Deeper - Chapter 13 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-03-05 — Ep. 266: Delvin Even Deeper - Chapter 13 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-26 — Ep. 265: Delvin Even Deeper - Chapter 12 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-26 — Ep. 265: Delvin Even Deeper - Chapter 12 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-19 — Ep. 264: Delvin Even Deeper - Chapter 11 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-19 — Ep. 264: Delvin Even Deeper - Chapter 11 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-12 — Ep. 263: Delvin Even Deeper - Chapter 10 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-12 — Ep. 263: Delvin Even Deeper - Chapter 10 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-05 — Ep. 262: Delvin Even Deeper - Chapter 9 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-02-05 — Ep. 262: Delvin Even Deeper - Chapter 9 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-29 — Ep. 261: Delvin Even Deeper - Chapter 8 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-29 — Ep. 261: Delvin Even Deeper - Chapter 8 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-22 — Ep. 260: Delvin Even Deeper - Chapter 7 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-22 — Ep. 260: Delvin Even Deeper - Chapter 7 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-15 — Ep. 259: Delvin Even Deeper - Chapter 6 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-15 — Ep. 259: Delvin Even Deeper - Chapter 6 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-08 — Ep. 258: Delvin Even Deeper - Chapter 5 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-08 — Ep. 258: Delvin Even Deeper - Chapter 5 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-01 — Ep. 257: Delvin Even Deeper - Chapter 4 - pt.2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-01 — Ep. 257: Delvin Even Deeper - Chapter 4 - pt.1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2025-01-01 — Ep. 256: Delvin Even Deeper - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-25 — Roll Britannia LIVE - Crystal Caverns - MCM Comic Con Birmingham 2024 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-25 — Ep. 255: Lastlight Special - Gnome Alone - Part 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-25 — Ep. 254: Lastlight Special - Gnome Alone - Part 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-24 — Roll Britannia - Jingle Jam Live 2024 — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-18 — Ep. 253: Delvin Even Deeper - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-18 — Ep. 252: Delvin Even Deeper - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-11 — Ep. 251: A Tale Of Fire, Mint, and Iron - Chapter 12 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-12-04 — Ep. 250: A Tale Of Fire, Mint, and Iron - Chapter 11 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-11-27 — Ep. 249: A Tale Of Fire, Mint, and Iron - Chapter 10 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-11-20 — Ep. 248: A Tale Of Fire, Mint, and Iron - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-11-13 — Ep. 247: A Tale Of Fire, Mint, and Iron - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-11-08 — Roll Britannia LIVE @ MCM Comic Con London October 2024 - Springheeled Jack Attack — speakers: Roll Britannia, Fan Content
-- 2024-11-06 — Ep. 246: A Tale Of Fire, Mint, and Iron - Chapter 7 | #DND — speakers: Kunjee Manor, Lady Kunjee, Alex Derek, Roll Britannia, Fan Content
-- 2024-10-30 — Ep. 245: Night Of The Living Jeffs - Part 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-10-30 — Ep. 245: Night Of The Living Jeffs - Part 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-10-23 — Ep. 244: A Tale Of Fire, Mint, and Iron - Chapter 6 | #DND — speakers: Lady Kunjee, Alex Derek, Roll Britannia, Fan Content
-- 2024-10-16 — Ep. 243: A Tale Of Fire, Mint, and Iron - Chapter 5 | #DND — speakers: Dead Drop Inn, Lady Kunjee, Alex Derek, Roll Britannia, Fan Content
-- 2024-10-14 — Roll Britannia | Parley - Cory - Girls Who Don't DnD — speakers: Aussie Icons, Roll Britannia, Fan Content
-- 2024-10-09 — Ep. 242: A Tale Of Fire, Mint, and Iron - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-10-02 — Ep. 241: A Tale Of Fire, Mint, and Iron - Chapter 3 | #DND — speakers: Alan Key, Alex Derek, Roll Britannia, Fan Content
-- 2024-09-25 — Ep. 240: A Tale Of Fire, Mint, and Iron - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-09-18 — Ep. 239: A Tale Of Fire, Mint, and Iron - Chapter 1 | #DND — speakers: Mickey Grey, Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2024-09-11 — Ep. 238: A City By Any Other Name - Chapter 12 | #DND — speakers: Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2024-09-04 — Ep. 237: A City By Any Other Name - Chapter 11 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-08-28 — Ep. 236: A City By Any Other Name - Chapter 10 | #DND — speakers: Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2024-08-21 — Ep. 235: A City By Any Other Name - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-08-14 — Ep. 234: A City By Any Other Name - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-08-07 — Ep. 233: A City By Any Other Name - Chapter 7 | #DND — speakers: Will Jeff, Alex Derek, Roll Britannia, Fan Content
-- 2024-07-31 — Ep. 232: A City By Any Other Name - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-07-24 — Ep. 231: A City By Any Other Name - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-07-22 — Ep. 230: A City By Any Other Name - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-07-10 — Ep. 229: A City By Any Other Name - Chapter 3 | #DND — speakers: Grey Family, Alex Derek, Roll Britannia, Fan Content
-- 2024-07-03 — Ep. 228: A City By Any Other Name - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-06-26 — Ep. 227: A City By Any Other Name - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-06-19 — Ep. 226: Escape From Owlbear Lake - Chapter 14 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-06-12 — Ep. 225: Escape From Owlbear Lake - Chapter 13 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-06-05 — Ep. 224: Escape From Owlbear Lake - Chapter 12 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-05-29 — Ep. 223: Escape From Owlbear Lake - Chapter 11 | #DND — speakers: Keth Threatens, Alex Derek, Roll Britannia, Fan Content
-- 2024-05-22 — Ep. 222: Escape From Owlbear Lake - Chapter 10 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-05-15 — Ep. 221: Escape From Owlbear Lake - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-05-08 — Ep. 220: Escape From Owlbear Lake - Chapter 8 | #DND — speakers: Raj Banal, Alex Derek, Roll Britannia, Fan Content
-- 2024-05-06 — Roll Britannia | Parley - Millie & James - UK Games Expo — speakers: Roll Britannia, Fan Content
-- 2024-05-01 — Ep. 219: Escape From Owlbear Lake - Chapter 7 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-04-25 — Roll Britannia | Parley - Tim Roberts - Critical Kit — speakers: Tim Roberts, Roll Britannia, Fan Content
-- 2024-04-24 — Ep. 218: Escape From Owlbear Lake - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-04-17 — Ep. 217: Escape From Owlbear Lake - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-04-10 — Ep. 216: Escape From Owlbear Lake - Chapter 4 | #DND — speakers: feng shui, Will Jeff, Alex Derek, Roll Britannia, Fan Content
-- 2024-04-03 — Ep. 215: Escape From Owlbear Lake - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-03-27 — Ep. 214: Escape From Owlbear Lake - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-03-20 — Ep. 213: Escape From Owlbear Lake - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-03-13 — Ep. 212: The Battle For Nassau - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-03-06 — Ep. 211: The Battle For Nassau - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-02-28 — Ep. 210: The Battle For Nassau - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-02-21 — Ep. 209: The Battle For Nassau - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-02-14 — Ep. 208: The Battle For Nassau - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-02-12 — Roll Britannia | Parley - Dr Gary Colman - Game Therapy UK & Dorks n Orks — speakers: Gary Colman Game, Gary Colman, Roll Britannia, Fan Content
-- 2024-02-07 — Ep. 207: The Battle For Nassau - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2024-01-31 — Ep. 206: Tel Dath Do Us Part VIII - Chapter 3 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2024-01-24 — Ep. 205: Tel Dath Do Us Part VIII - Chapter 2 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2024-01-17 — Ep. 204: Tel Dath Do Us Part VIII - Chapter 1 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2024-01-11 — Roll Britannia | Parley - Ned & Brian - Encounter Party — speakers: Roll Britannia, Fan Content
-- 2024-01-10 — Ep. 203: Moonlight Masquerade - Chapter 21 | #DND — speakers: Moonlight Masquerade Chapter, Will Jeff, Alex Derek, Roll Britannia, Fan Content
-- 2024-01-03 — Ep. 202: Moonlight Masquerade - Chapter 20 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-12-28 — Roll Britannia | Parley - Jake & Ben - New Crits On The Block — speakers: Roll Britannia, Fan Content
-- 2023-12-27 — Ep. 201: Moonlight Masquerade - Chapter 19 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-12-25 — Roll Britannia LIVE - MCM Comic Con Birmingham 2023 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-12-21 — Ep. 200: Lastlight Special - Not My Krampus - Part 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-12-20 — Ep. 199: Lastlight Special - Not My Krampus - Part 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-12-13 — Ep. 198: Moonlight Masquerade - Chapter 18 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-12-06 — Ep. 197: Moonlight Masquerade - Chapter 17 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-11-29 — Ep. 196: Moonlight Masquerade - Chapter 16 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-11-22 — Ep. 195: Moonlight Masquerade - Chapter 15 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-11-15 — Ep. 194: Moonlight Masquerade - Chapter 14 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-11-08 — Ep. 193: Moonlight Masquerade - Chapter 13 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-11-01 — Ep. 192: Moonlight Masquerade - Chapter 12 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-10-26 — Ep. 191: Halloween Special IV - Part 2 #DND — speakers: Alex Derek, Roll Britannia, Wrenegade Studios Beyond, Fan Content
-- 2023-10-25 — Ep. 191: Halloween Special IV - Part 1 #DND — speakers: Alex Derek, Roll Britannia, Wrenegade Studios Beyond, Fan Content
-- 2023-10-18 — Ep. 190: Moonlight Masquerade - Chapter 11 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-10-14 — Roll Britannia | Parley - Jasper William Cartwright — speakers: William Cartwright, Jasper William Cartwright, Roll Britannia, Fan Content
-- 2023-10-11 — Ep. 189: Moonlight Masquerade - Chapter 10 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-10-04 — Ep. 188: Moonlight Masquerade - Chapter 9 | #DND — speakers: Moonlight Masquerade Chapter, Will Keth, Will Jeff, Alex Derek, Roll Britannia, Fan Content
-- 2023-09-27 — Ep. 187: Moonlight Masquerade - Chapter 8 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-09-20 — Ep. 186: Moonlight Masquerade - Chapter 7 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-09-13 — Ep. 185: Moonlight Masquerade - Chapter 6 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-09-06 — Ep. 184: Moonlight Masquerade - Chapter 5 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-08-30 — Ep. 183: Moonlight Masquerade - Chapter 4 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-08-23 — Ep. 182: Moonlight Masquerade - Chapter 3 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-08-16 — Ep. 181: Moonlight Masquerade - Chapter 2 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-08-09 — Ep. 180: Moonlight Masquerade - Chapter 1 | #DND — speakers: Moonlight Masquerade Chapter, Alex Derek, Roll Britannia, Fan Content
-- 2023-08-02 — Ep. 179: Tel Dath Do Us Part VII - Chapter 4 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2023-07-27 — Roll Britannia | Parley - Luke Gygax — speakers: Roll Britannia, Fan Content
-- 2023-07-26 — Ep. 178: Tel Dath Do Us Part VII - Chapter 3 | #DND — speakers: Tel Dath, Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2023-07-19 — Ep. 177: Tel Dath Do Us Part VII - Chapter 2 | #DND — speakers: Tel Dath, Laurence Llewelyn-Bowen, Tex Mex, Alex Derek, Roll Britannia, Fan Content
-- 2023-07-12 — Ep. 176: Tel Dath Do Us Part VII - Chapter 1 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2023-07-05 — Ep. 175: Well, Well, Well - Chapter 10 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-06-28 — Ep. 174: Well, Well, Well - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-06-21 — Ep. 173: Well, Well, Well - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-06-14 — Roll Britannia LIVE - UK Games Expo 2023 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-06-14 — Ep. 172: Well, Well, Well - Chapter 7 | #DND — speakers: Robin Hood, Alex Derek, Roll Britannia, Fan Content
-- 2023-06-07 — Ep. 171: Well, Well, Well - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-05-31 — Ep. 170: Well, Well, Well - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-05-24 — Ep. 169: Well, Well, Well - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-05-17 — Ep. 168: Well, Well, Well - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-05-10 — Ep. 167: Well, Well, Well - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-05-03 — Ep. 166: Well, Well, Well - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-04-26 — Ep. 165: Raiders Of The Lost ARS - Chapter 10 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-04-19 — Ep. 164: Raiders Of The Lost ARS - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-04-12 — Ep. 163: Raiders Of The Lost ARS - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-04-05 — Ep. 162: Raiders Of The Lost ARS - Chapter 7 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-03-29 — Roll Britannia | Parley - John Francis Daley and Jonathan Goldstein (Dungeons & Dragons: Honor Among Thieves) — speakers: Jonathan Goldstein, Roll Britannia, Fan Content
-- 2023-03-29 — Roll Britannia | Parley - Jeremy Latcham (Dungeons & Dragons: Honour Among Thieves) — speakers: Roll Britannia, Fan Content
-- 2023-03-29 — Ep. 161: Raiders Of The Lost ARS - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-03-22 — Ep. 160: Raiders Of The Lost ARS - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-03-15 — Ep. 159: Raiders Of The Lost ARS - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-03-08 — Ep. 158: Raiders Of The Lost ARS - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-03-01 — Ep. 157: Raiders Of The Lost ARS - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-02-22 — Ep. 156: Raiders Of The Lost ARS - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-02-15 — Ep. 155: That'll Do Donkey - Chapter 10 | #DND — speakers: Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2023-02-08 — Ep. 154: That'll Do Donkey - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-02-01 — Ep. 153: That'll Do Donkey - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-01-25 — Ep. 152: That'll Do Donkey - Chapter 7 | #DND #TTRPG — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-01-19 — Roll Britannia - Everyone Is Jeff! #OpenRPG #OpenDND — speakers: Roll Britannia, Fan Content
-- 2023-01-18 — Ep. 151: That'll Do Donkey - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-01-11 — Ep. 150: That'll Do Donkey - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2023-01-04 — Ep. 149: That'll Do Donkey - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-12-28 — Ep. 148: That'll Do Donkey - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-12-22 — Ep. 147: Lastlight Special - The Grench That Stole Lastlight - Part 2 | #DND — speakers: Will Keth, Alex Derek, Roll Britannia, Fan Content
-- 2022-12-21 — Ep. 146: Lastlight Special - The Grench That Stole Lastlight - Part 1 | #DND — speakers: Will Derek, Alex Derek, Roll Britannia, Fan Content
-- 2022-12-14 — Ep. 145: That'll Do Donkey - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-12-07 — Ep. 144: That'll Do Donkey - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-11-30 — Ep. 143: Honour Among Thieves - Chapter 10 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-11-23 — Ep. 142: Honour Among Thieves - Chapter 9 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-11-16 — Ep. 141: Honour Among Thieves - Chapter 8 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-11-09 — Ep. 140: Honour Among Thieves - Chapter 7 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-11-02 — Ep. 139: Honour Among Thieves - Chapter 6 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-27 — Ep. 138: Halloween Special III - Part 2 #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-27 — Ep. 138: Halloween Special III - Part 1 #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-26 — Ep. 137: Honour Among Thieves - Chapter 5 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-19 — Ep. 136: Honour Among Thieves - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-12 — Ep. 135: Honour Among Thieves - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-10-05 — Ep. 134: Honour Among Thieves - Chapter 2 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-09-28 — Ep. 133: Honour Among Thieves - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-09-21 — Ep. 132: Exit Marooned By An Owlbear - Chapter 4 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-09-14 — Ep. 131: Exit Marooned By An Owlbear - Chapter 3 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-09-07 — Ep. 130: Exit Marooned By An Owlbear - Chapter 2 | #DND — speakers: Exit Marooned, Alex Derek, Roll Britannia, Fan Content
-- 2022-08-31 — Ep. 129: Exit Marooned By An Owlbear - Chapter 1 | #DND — speakers: Alex Derek, Roll Britannia, Fan Content
-- 2022-08-24 — Ep. 128: Tel Dath Do Us Part VI - Chapter 10 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2022-08-17 — Ep. 127: Tel Dath Do Us Part VI - Chapter 9 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2022-08-10 — Ep. 126: Tel Dath Do Us Part VI - Chapter 8 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-08-03 — Ep. 125: Tel Dath Do Us Part VI - Chapter 7 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-07-27 — Ep. 124: Tel Dath Do Us Part VI - Chapter 6 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-07-20 — Ep. 123: Tel Dath Do Us Part VI - Chapter 5 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-07-13 — Ep. 122: Tel Dath Do Us Part VI - Chapter 4 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-07-06 — Ep. 121: Tel Dath Do Us Part VI - Chapter 3 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-06-29 — Ep. 120: Tel Dath Do Us Part VI - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-06-22 — Ep. 119: Tel Dath Do Us Part VI - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-06-15 — Ep. 118: Ship Just Got Real - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-06-08 — Ep. 117: Ship Just Got Real - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-06-01 — Ep. 116: Ship Just Got Real - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-05-25 — Ep. 115: Ship Just Got Real - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-05-18 — Ep. 114: Ship Just Got Real - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-05-11 — Ep. 113: C**kwombling Free - Chapter 13 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-05-04 — Ep. 112: C**kwombling Free - Chapter 12 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-04-27 — Ep. 111: C**kwombling Free - Chapter 11 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-04-20 — Ep. 110: C**kwombling Free - Chapter 10 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-04-13 — Ep. 109: C**kwombling Free - Chapter 9 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-04-06 — Ep. 108: C**kwombling Free - Chapter 8 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-03-30 — Ep. 107: C**kwombling Free - Chapter 7 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-03-23 — Ep. 106: C**kwombling Free - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-03-16 — Ep. 105: C**kwombling Free - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-03-09 — Ep. 104: C**kwombling Free - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-03-02 — Ep. 103: C**kwombling Free - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-02-23 — Ep. 102: C**kwombling Free - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-02-16 — Ep. 101: C**kwombling Free - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-02-09 — Ep. 100: The Sea Dogs Of War - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2022-02-02 — Ep. 99: The Sea Dogs Of War - Chapter 2 | #DND — speakers: Dnd Battle, Roll Britannia, Fan Content
-- 2022-01-26 — Ep. 98: The Sea Dogs Of War - Chapter 1 | #DND — speakers: Malrus Tosscobble, Roll Britannia, Fan Content
-- 2022-01-19 — Ep. 97: Tel Dath Do Us Part V - Chapter 5 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-01-12 — Ep. 96: Tel Dath Do Us Part V - Chapter 4 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2022-01-05 — Ep. 95: Tel Dath Do Us Part V - Chapter 3 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-12-29 — Ep. 94: Tel Dath Do Us Part V - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-12-23 — Ep. 93: Lastlight Special - Snow Way Home - Part 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-12-22 — Ep. 92: Lastlight Special - Snow Way Home - Part 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-12-15 — Ep. 91: Tel Dath Do Us Part V - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-12-08 — Ep. 90: Don't Choose Me - Chapter 20 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-12-01 — Ep. 89: Don't Choose Me - Chapter 19 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-11-24 — Ep. 88: Don't Choose Me - Chapter 18 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-11-17 — Ep. 87: Don't Choose Me - Chapter 17 | #DND — speakers: Robin Hood, Roll Britannia, Fan Content
-- 2021-11-10 — Ep. 86: Don't Choose Me - Chapter 16 | #DND — speakers: Dnd Jeff, Roll Britannia, Fan Content
-- 2021-11-03 — Ep. 85: Don't Choose Me - Chapter 15 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-10-31 — Ep. 84: Halloween Special II - Part 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-10-30 — Ep. 83: Halloween Special II - Part 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-10-27 — Ep. 82: Don't Choose Me - Chapter 14 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-10-20 — Ep. 81: Don't Choose Me - Chapter 13 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-10-13 — Ep. 80: Don't Choose Me - Chapter 12 | #DND — speakers: Jeff Silverbow, Roll Britannia, Fan Content
-- 2021-10-06 — Ep. 79: Don't Choose Me - Chapter 11 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-09-29 — Ep. 78: Don't Choose Me - Chapter 10 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-09-22 — Ep. 77: Don't Choose Me - Chapter 9 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2021-09-15 — Ep. 76: Don't Choose Me - Chapter 8 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-09-08 — Ep. 75: Don't Choose Me - Chapter 7 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-09-01 — Ep. 74: Don't Choose Me - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-08-25 — Ep. 73: Don't Choose Me - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-08-18 — Ep. 72: Don't Choose Me - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-08-11 — Ep. 71: Don't Choose Me - Chapter 3 | #DND — speakers: Team Shuttle, Roll Britannia, Fan Content
-- 2021-08-04 — Ep. 70: Don't Choose Me - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-07-28 — Ep. 69: Don't Choose Me - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-07-21 — Ep. 68: Tel Dath Do Us Part IV - Chapter 4 | #DND — speakers: Tel Dath, Dnd Danger, Will Malrus, Roll Britannia, Fan Content
-- 2021-07-14 — Ep. 67: Tel Dath Do Us Part IV - Chapter 3 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-07-07 — Ep. 66: Tel Dath Do Us Part IV - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-06-30 — Ep. 65: Tel Dath Do Us Part IV - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-06-23 — Ep. 64: A Place In Ye Sun - Chapter 15 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-06-16 — Ep. 63: A Place In Ye Sun - Chapter 14 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-06-09 — Ep. 62: A Place In Ye Sun - Chapter 13 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-06-02 — Ep. 61: A Place In Ye Sun - Chapter 12 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-05-26 — Ep. 60: A Place In Ye Sun - Chapter 11 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-05-19 — Ep. 59: A Place In Ye Sun - Chapter 10 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-05-12 — Ep. 58: A Place In Ye Sun - Chapter 9 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-05-05 — Ep. 57: A Place In Ye Sun - Chapter 8 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-04-28 — Ep. 56: A Place In Ye Sun - Chapter 7 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-04-21 — Ep. 55: A Place In Ye Sun - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-04-14 — Ep. 54: A Place In Ye Sun - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-04-07 — Ep. 53: A Place In Ye Sun - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-03-31 — Ep. 52: A Place In Ye Sun - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-03-24 — Ep. 51: A Place In Ye Sun - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-03-17 — Ep. 50: A Place In Ye Sun - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-03-10 — Ep. 49: Tel Dath Do Us Part III - Chapter 3 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-03-03 — Ep. 48: Tel Dath Do Us Part III - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-02-24 — Ep. 47: Tel Dath Do Us Part III - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2021-02-17 — Ep. 46: Death on Nemmonis Island - Chapter 14 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-02-10 — Ep. 45: Death on Nemmonis Island - Chapter 13 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-02-03 — Ep. 44: Death on Nemmonis Island - Chapter 12 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-01-30 — Ep. 43: Shore Leave - Death on Nemmonis Island Edition | #DND — speakers: Tom Chip, Roll Britannia, Fan Content
-- 2021-01-27 — Ep. 42: Death on Nemmonis Island - Chapter 11 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-01-20 — Ep. 41: Death on Nemmonis Island - Chapter 10 | #DND — speakers: Roll Britannia, Fan Content
-- 2021-01-13 — Ep. 40: Death on Nemmonis Island - Chapter 9 | #DND — speakers: Dnd Derek, Roll Britannia, Fan Content
-- 2021-01-06 — Ep. 39: Death on Nemmonis Island - Chapter 8 | #DND — speakers: Dnd Derek, Roll Britannia, Fan Content
-- 2020-12-30 — Ep. 38: Death on Nemmonis Island - Chapter 7 | #DND — speakers: Will Jeff, Roll Britannia, Fan Content
-- 2020-12-24 — Ep. 37: Lastlight Special - Santas Come To Town - Part 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-12-23 — Ep. 36: Lastlight Special - Santas Come To Town - Part 1 | #DND — speakers: Lastlight Special Santas, Roll Britannia, Fan Content
-- 2020-12-17 — Ep. 35: Death on Nemmonis Island - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-12-16 — Ep. 34: Death on Nemmonis Island - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-12-09 — Ep. 33: Death on Nemmonis Island - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-12-02 — Ep. 32: Death on Nemmonis Island - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-11-25 — Ep. 31: Death on Nemmonis Island - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-11-18 — Ep. 30: Death on Nemmonis Island - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-11-11 — Ep. 29: Tel Dath Do Us Part II - Chapter 4 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-11-04 — Ep. 28: Tel Dath Do Us Part II - Chapter 3 | #DND — speakers: Tel Dath, Alex Derek, Roll Britannia, Fan Content
-- 2020-10-31 — Ep. 27: Halloween Special | #DND — speakers: Roll Britannia, Fan Content
-- 2020-10-28 — Ep. 26: Tel Dath Do Us Part II - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-10-21 — Ep. 25: Tel Dath Do Us Part II - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-10-14 — Ep. 24: The Cranberry Files - Chapter 12 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-10-07 — Ep. 23: The Cranberry Files - Chapter 11 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-09-30 — Ep. 22: The Cranberry Files - Chapter 10 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-09-23 — Ep. 21: The Cranberry Files - Chapter 9 | #DND — speakers: Baylon Parktree, Roll Britannia, Fan Content
-- 2020-09-16 — Ep. 20: The Cranberry Files - Chapter 8 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-09-09 — Ep. 19: The Cranberry Files - Chapter 7 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-09-02 — Ep. 18: The Cranberry Files - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-08-26 — Ep. 17: The Cranberry Files - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-08-19 — Ep. 16: The Cranberry Files - Chapter 4 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-08-12 — Ep. 15: The Cranberry Files - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-08-05 — Ep. 14: The Cranberry Files - Chapter 2 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-07-29 — Ep. 13: The Cranberry Files - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-07-22 — Ep. 12: Tel Dath Do Us Part I - Chapter 6 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-07-15 — Ep. 11: Tel Dath Do Us Part I - Chapter 5 | #DND — speakers: Tel Dath, Will Derek, Roll Britannia, Fan Content
-- 2020-07-08 — Ep. 10: Tel Dath Do Us Part I - Chapter 4 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-07-01 — Ep. 9: Tel Dath Do Us Part I - Chapter 3 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-06-24 — Ep. 8: Tel Dath Do Us Part I - Chapter 2 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-06-17 — Ep. 7: Tel Dath Do Us Part I - Chapter 1 | #DND — speakers: Tel Dath, Roll Britannia, Fan Content
-- 2020-06-10 — Ep. 6: We Be Shipwrecked - Chapter 6 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-06-03 — Ep. 5: We Be Shipwrecked - Chapter 5 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-05-27 — Ep. 4: We Be Shipwrecked - Chapter 4 | #DND — speakers: Roll Britannia, Fiction Horizon, Fan Content
-- 2020-05-20 — Ep. 3: We Be Shipwrecked - Chapter 3 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-05-13 — Ep. 2: We Be Shipwrecked - Chapter 2 | #DND — speakers: Bat Deeley, Roll Britannia, Fan Content
-- 2020-05-06 — Ep. 1: We Be Shipwrecked - Chapter 1 (Remastered) | #DND — speakers: Roll Britannia, Fan Content
-- 2020-05-06 — Ep. 1: We Be Shipwrecked - Chapter 1 | #DND — speakers: Roll Britannia, Fan Content
-- 2020-04-30 — Roll Britannia Trailer — speakers: Roll Britannia, Fan Content
+- 2026-02-22 — Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations
+- 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.2 | #DND
+- 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.1 | #DND
+- 2026-02-11 — Ep. 316: Because, That's What Heroes Do - Chapter 13 - pt.2 | #DND
+- 2026-02-11 — Ep. 316: Because, That's What Heroes Do - Chapter 13 - pt.1 | #DND
+- 2026-02-04 — Ep. 315: Because, That's What Heroes Do - Chapter 12 - pt.2 | #DND
+- 2026-02-04 — Ep. 315: Because, That's What Heroes Do - Chapter 12 - pt.1 | #DND
+- 2026-01-28 — Ep. 314: Because, That's What Heroes Do - Chapter 11 - pt.2 | #DND
+- 2026-01-28 — Ep. 314: Because, That's What Heroes Do - Chapter 11 - pt.1 | #DND
+- 2026-01-21 — Ep. 313: Because, That's What Heroes Do - Chapter 10 - pt.2 | #DND
+- 2026-01-21 — Ep. 313: Because, That's What Heroes Do - Chapter 10 - pt.1 | #DND
+- 2026-01-14 — Ep. 312: Because, That's What Heroes Do - Chapter 9 - pt.2 | #DND
+- 2026-01-14 — Ep. 312: Because, That's What Heroes Do - Chapter 9 - pt.1 | #DND
+- 2026-01-07 — Ep. 311: Because, That's What Heroes Do - Chapter 8 - pt.2 | #DND
+- 2026-01-07 — Ep. 311: Because, That's What Heroes Do - Chapter 8 - pt.1 | #DND
+- 2025-12-31 — Ep. 310: Because, That's What Heroes Do - Chapter 7 - pt.2 | #DND
+- 2025-12-31 — Ep. 310: Because, That's What Heroes Do - Chapter 7 - pt.1 | #DND
+- 2025-12-26 — Ep. 309: Roll Britannia LIVE - Plunder All the Way - MCM Comic Con Birmingham 2025 | #DND
+- 2025-12-25 — Ep. 308: Lastlight Special 2025 - pt.3 | #DND
+- 2025-12-24 — Ep. 308: Lastlight Special 2025 - pt.2 | #DND
+- 2025-12-23 — Ep. 308: Lastlight Special 2025 - pt.1 | #DND
+- 2025-12-17 — Ep. 307: Because, That's What Heroes Do - Chapter 6 - pt.2 | #DND
+- 2025-12-17 — Ep. 307: Because, That's What Heroes Do - Chapter 6 - pt.1 | #DND
+- 2025-12-10 — Ep. 306: Because, That's What Heroes Do - Chapter 5 - pt.2 | #DND
+- 2025-12-10 — Ep. 306: Because, That's What Heroes Do - Chapter 5 - pt.1 | #DND
+- 2025-12-03 — Ep. 305: Because, That's What Heroes Do - Chapter 4 - pt.2 | #DND
+- 2025-12-03 — Ep. 305: Because, That's What Heroes Do - Chapter 4 - pt.1 | #DND
+- 2025-11-26 — Ep. 304: Because, That's What Heroes Do - Chapter 3 - pt.2 | #DND
+- 2025-11-26 — Ep. 304: Because, That's What Heroes Do - Chapter 3 - pt.1 | #DND
+- 2025-11-19 — Ep. 303: Because, That's What Heroes Do - Chapter 2 - pt.2 | #DND
+- 2025-11-19 — Ep. 303: Because, That's What Heroes Do - Chapter 2 - pt.1 | #DND
+- 2025-11-12 — Ep. 302: Because, That's What Heroes Do - Chapter 1 - pt.2 | #DND
+- 2025-11-12 — Ep. 302: Because, That's What Heroes Do - Chapter 1 - pt.1 | #DND
+- 2025-11-05 — Ep. 301: Sail And Well Met, Adventurers - Chapter 17 - pt.2 | #DND
+- 2025-11-05 — Ep. 301: Sail And Well Met, Adventurers - Chapter 17 - pt.1 | #DND
+- 2025-10-29 — Ep. 300: Halloween Live Show @ MCM Comic Con London "The Mirthless Mask" - pt.2 | #DND
+- 2025-10-29 — Ep. 300: Halloween Live Show @ MCM Comic Con London "The Mirthless Mask" - pt.1 | #DND
+- 2025-10-22 — Ep. 299: Sail And Well Met, Adventurers - Chapter 16 - pt.2 | #DND
+- 2025-10-22 — Ep. 299: Sail And Well Met, Adventurers - Chapter 16 - pt.1 | #DND
+- 2025-10-15 — Ep. 298: Sail And Well Met, Adventurers - Chapter 15 - pt.2 | #DND
+- 2025-10-15 — Ep. 298: Sail And Well Met, Adventurers - Chapter 15 - pt.1 | #DND
+- 2025-10-08 — Ep. 297: Sail And Well Met, Adventurers - Chapter 14 - pt.2 | #DND
+- 2025-10-08 — Ep. 297: Sail And Well Met, Adventurers - Chapter 14 - pt.1 | #DND
+- 2025-10-01 — Ep. 296: Sail And Well Met, Adventurers - Chapter 13 - pt.2 | #DND
+- 2025-10-01 — Ep. 296: Sail And Well Met, Adventurers - Chapter 13 - pt.1 | #DND
+- 2025-09-24 — Ep. 295: Sail And Well Met, Adventurers - Chapter 12 - pt.2 | #DND
+- 2025-09-24 — Ep. 295: Sail And Well Met, Adventurers - Chapter 12 - pt.1 | #DND
+- 2025-09-17 — Ep. 294: Sail And Well Met, Adventurers - Chapter 11 - pt.2 | #DND
+- 2025-09-17 — Ep. 294: Sail And Well Met, Adventurers - Chapter 11 - pt.1 | #DND
+- 2025-09-10 — Ep. 293: Sail And Well Met, Adventurers - Chapter 10 - pt.2 | #DND
+- 2025-09-10 — Ep. 293: Sail And Well Met, Adventurers - Chapter 10 - pt.1 | #DND
+- 2025-09-03 — Ep. 292: Sail And Well Met, Adventurers - Chapter 9 - pt.2 | #DND
+- 2025-09-03 — Ep. 292: Sail And Well Met, Adventurers - Chapter 9 - pt.1 | #DND
+- 2025-08-27 — Ep. 291: Sail And Well Met, Adventurers - Chapter 8 - pt.2 | #DND
+- 2025-08-27 — Ep. 291: Sail And Well Met, Adventurers - Chapter 8 - pt.1 | #DND
+- 2025-08-20 — Ep. 290: Sail And Well Met, Adventurers - Chapter 7 - pt.2 | #DND
+- 2025-08-20 — Ep. 290: Sail And Well Met, Adventurers - Chapter 7 - pt.1 | #DND
+- 2025-08-13 — Ep. 289: Sail And Well Met, Adventurers - Chapter 6 - pt.2 | #DND
+- 2025-08-13 — Ep. 289: Sail And Well Met, Adventurers - Chapter 6 - pt.1 | #DND
+- 2025-08-06 — Ep. 288: Sail And Well Met, Adventurers - Chapter 5 - pt.2 | #DND
+- 2025-08-06 — Ep. 288: Sail And Well Met, Adventurers - Chapter 5 - pt.1 | #DND
+- 2025-07-30 — Ep. 287: Sail And Well Met, Adventurers - Chapter 4 - pt.2 | #DND
+- 2025-07-30 — Ep. 287: Sail And Well Met, Adventurers - Chapter 4 - pt.1 | #DND
+- 2025-07-23 — Ep. 286: Sail And Well Met, Adventurers - Chapter 3 - pt.2 | #DND
+- 2025-07-23 — Ep. 286: Sail And Well Met, Adventurers - Chapter 3 - pt.1 | #DND
+- 2025-07-16 — Ep. 285: Sail And Well Met, Adventurers - Chapter 2 - pt.2 | #DND
+- 2025-07-16 — Ep. 285: Sail And Well Met, Adventurers - Chapter 2 - pt.1 | #DND
+- 2025-07-09 — Ep. 284: Sail And Well Met, Adventurers - Chapter 1 - pt.2 | #DND
+- 2025-07-09 — Ep. 284: Sail And Well Met, Adventurers - Chapter 1 - pt.1 | #DND
+- 2025-07-05 — Roll Britannia Presents - Hell Or Highrollers | Episode 1 - Avernus — speakers: Roll Britannia Presents, Mischief Theatre
+- 2025-07-02 — Ep. 283: Delvin to the past - Chapter 8 - pt.2 | #DND
+- 2025-07-02 — Ep. 283: Delvin to the past - Chapter 8 - pt.1 | #DND
+- 2025-06-25 — Ep. 282: Delvin to the past - Chapter 7 - pt.2 | #DND
+- 2025-06-25 — Ep. 282: Delvin to the past - Chapter 7 - pt.1 | #DND
+- 2025-06-18 — Ep. 281: Delvin to the past - Chapter 6 - pt.2 | #DND
+- 2025-06-18 — Ep. 281: Delvin to the past - Chapter 6 - pt.1 | #DND
+- 2025-06-11 — Ep. 280: Delvin to the past - Chapter 5 - pt.2 | #DND
+- 2025-06-11 — Ep. 280: Delvin to the past - Chapter 5 - pt.1 | #DND
+- 2025-06-04 — Ep. 279: Delvin to the past - Chapter 4 - pt.2 | #DND
+- 2025-06-04 — Ep. 279: Delvin to the past - Chapter 4 - pt.1 | #DND
+- 2025-05-28 — Ep. 278: Delvin to the past - Chapter 3 - pt.2 | #DND
+- 2025-05-28 — Ep. 278: Delvin to the past - Chapter 3 - pt.1 | #DND
+- 2025-05-21 — Ep. 277: Delvin to the past - Chapter 2 - pt.2 | #DND
+- 2025-05-21 — Ep. 277: Delvin to the past - Chapter 2 - pt.1 | #DND
+- 2025-05-14 — Ep. 276: Delvin to the past - Chapter 1 - pt.2 | #DND
+- 2025-05-14 — Ep. 276: Delvin to the past - Chapter 1 - pt.1 | #DND
+- 2025-05-07 — Ep. 275: Tel Dath Do Us Part IX - Chapter 1 - pt.2 | #DND — speakers: Tel Dath
+- 2025-05-07 — Ep. 275: Tel Dath Do Us Part IX - Chapter 1 - pt.1 | #DND — speakers: Tel Dath
+- 2025-04-30 — Ep. 274: A Two Body Problem - Chapter 3 - pt.2 | #DND
+- 2025-04-30 — Ep. 274: A Two Body Problem - Chapter 3 - pt.1 | #DND
+- 2025-04-23 — Ep. 273: A Two Body Problem - Chapter 2 - pt.2 | #DND
+- 2025-04-23 — Ep. 273: A Two Body Problem - Chapter 2 - pt.1 | #DND
+- 2025-04-16 — Ep. 272: A Two Body Problem - Chapter 1 - pt.2 | #DND
+- 2025-04-16 — Ep. 272: A Two Body Problem - Chapter 1 - pt.1 | #DND
+- 2025-04-09 — Ep. 271: Delvin Even Deeper - Chapter 18 - pt.2 | #DND
+- 2025-04-09 — Ep. 271: Delvin Even Deeper - Chapter 18 - pt.1 | #DND
+- 2025-04-02 — Ep. 270: Delvin Even Deeper - Chapter 17 - pt.2 | #DND
+- 2025-04-02 — Ep. 270: Delvin Even Deeper - Chapter 17 - pt.1 | #DND
+- 2025-03-26 — Ep. 269: Delvin Even Deeper - Chapter 16 - pt.2 | #DND
+- 2025-03-26 — Ep. 269: Delvin Even Deeper - Chapter 16 - pt.1 | #DND
+- 2025-03-19 — Ep. 268: Delvin Even Deeper - Chapter 15 - pt.2 | #DND
+- 2025-03-19 — Ep. 268: Delvin Even Deeper - Chapter 15 - pt.1 | #DND
+- 2025-03-12 — Ep. 267: Delvin Even Deeper - Chapter 14 - pt.2 | #DND
+- 2025-03-12 — Ep. 267: Delvin Even Deeper - Chapter 14 - pt.1 | #DND
+- 2025-03-05 — Ep. 266: Delvin Even Deeper - Chapter 13 - pt.2 | #DND
+- 2025-03-05 — Ep. 266: Delvin Even Deeper - Chapter 13 - pt.1 | #DND
+- 2025-02-26 — Ep. 265: Delvin Even Deeper - Chapter 12 - pt.2 | #DND
+- 2025-02-26 — Ep. 265: Delvin Even Deeper - Chapter 12 - pt.1 | #DND
+- 2025-02-19 — Ep. 264: Delvin Even Deeper - Chapter 11 - pt.2 | #DND
+- 2025-02-19 — Ep. 264: Delvin Even Deeper - Chapter 11 - pt.1 | #DND
+- 2025-02-12 — Ep. 263: Delvin Even Deeper - Chapter 10 - pt.2 | #DND
+- 2025-02-12 — Ep. 263: Delvin Even Deeper - Chapter 10 - pt.1 | #DND
+- 2025-02-05 — Ep. 262: Delvin Even Deeper - Chapter 9 - pt.2 | #DND
+- 2025-02-05 — Ep. 262: Delvin Even Deeper - Chapter 9 - pt.1 | #DND
+- 2025-01-29 — Ep. 261: Delvin Even Deeper - Chapter 8 - pt.2 | #DND
+- 2025-01-29 — Ep. 261: Delvin Even Deeper - Chapter 8 - pt.1 | #DND
+- 2025-01-22 — Ep. 260: Delvin Even Deeper - Chapter 7 - pt.2 | #DND
+- 2025-01-22 — Ep. 260: Delvin Even Deeper - Chapter 7 - pt.1 | #DND
+- 2025-01-15 — Ep. 259: Delvin Even Deeper - Chapter 6 - pt.2 | #DND
+- 2025-01-15 — Ep. 259: Delvin Even Deeper - Chapter 6 - pt.1 | #DND
+- 2025-01-08 — Ep. 258: Delvin Even Deeper - Chapter 5 - pt.2 | #DND
+- 2025-01-08 — Ep. 258: Delvin Even Deeper - Chapter 5 - pt.1 | #DND
+- 2025-01-01 — Ep. 257: Delvin Even Deeper - Chapter 4 - pt.2 | #DND
+- 2025-01-01 — Ep. 257: Delvin Even Deeper - Chapter 4 - pt.1 | #DND
+- 2025-01-01 — Ep. 256: Delvin Even Deeper - Chapter 3 | #DND
+- 2024-12-25 — Roll Britannia LIVE - Crystal Caverns - MCM Comic Con Birmingham 2024 | #DND
+- 2024-12-25 — Ep. 255: Lastlight Special - Gnome Alone - Part 2 | #DND
+- 2024-12-25 — Ep. 254: Lastlight Special - Gnome Alone - Part 1 | #DND
+- 2024-12-24 — Roll Britannia - Jingle Jam Live 2024 — speakers: Roll Britannia
+- 2024-12-18 — Ep. 253: Delvin Even Deeper - Chapter 2 | #DND
+- 2024-12-18 — Ep. 252: Delvin Even Deeper - Chapter 1 | #DND
+- 2024-12-11 — Ep. 251: A Tale Of Fire, Mint, and Iron - Chapter 12 | #DND
+- 2024-12-04 — Ep. 250: A Tale Of Fire, Mint, and Iron - Chapter 11 | #DND
+- 2024-11-27 — Ep. 249: A Tale Of Fire, Mint, and Iron - Chapter 10 | #DND
+- 2024-11-20 — Ep. 248: A Tale Of Fire, Mint, and Iron - Chapter 9 | #DND
+- 2024-11-13 — Ep. 247: A Tale Of Fire, Mint, and Iron - Chapter 8 | #DND
+- 2024-11-08 — Roll Britannia LIVE @ MCM Comic Con London October 2024 - Springheeled Jack Attack — speakers: Roll Britannia, Comic Con London October, Springheeled Jack Attack Relive
+- 2024-11-06 — Ep. 246: A Tale Of Fire, Mint, and Iron - Chapter 7 | #DND — speakers: Kunjee Manor
+- 2024-10-30 — Ep. 245: Night Of The Living Jeffs - Part 2 | #DND
+- 2024-10-30 — Ep. 245: Night Of The Living Jeffs - Part 1 | #DND
+- 2024-10-23 — Ep. 244: A Tale Of Fire, Mint, and Iron - Chapter 6 | #DND
+- 2024-10-16 — Ep. 243: A Tale Of Fire, Mint, and Iron - Chapter 5 | #DND
+- 2024-10-14 — Roll Britannia | Parley - Cory - Girls Who Don't DnD
+- 2024-10-09 — Ep. 242: A Tale Of Fire, Mint, and Iron - Chapter 4 | #DND
+- 2024-10-02 — Ep. 241: A Tale Of Fire, Mint, and Iron - Chapter 3 | #DND
+- 2024-09-25 — Ep. 240: A Tale Of Fire, Mint, and Iron - Chapter 2 | #DND
+- 2024-09-18 — Ep. 239: A Tale Of Fire, Mint, and Iron - Chapter 1 | #DND
+- 2024-09-11 — Ep. 238: A City By Any Other Name - Chapter 12 | #DND
+- 2024-09-04 — Ep. 237: A City By Any Other Name - Chapter 11 | #DND
+- 2024-08-28 — Ep. 236: A City By Any Other Name - Chapter 10 | #DND
+- 2024-08-21 — Ep. 235: A City By Any Other Name - Chapter 9 | #DND
+- 2024-08-14 — Ep. 234: A City By Any Other Name - Chapter 8 | #DND
+- 2024-08-07 — Ep. 233: A City By Any Other Name - Chapter 7 | #DND
+- 2024-07-31 — Ep. 232: A City By Any Other Name - Chapter 6 | #DND
+- 2024-07-24 — Ep. 231: A City By Any Other Name - Chapter 5 | #DND
+- 2024-07-22 — Ep. 230: A City By Any Other Name - Chapter 4 | #DND
+- 2024-07-10 — Ep. 229: A City By Any Other Name - Chapter 3 | #DND
+- 2024-07-03 — Ep. 228: A City By Any Other Name - Chapter 2 | #DND
+- 2024-06-26 — Ep. 227: A City By Any Other Name - Chapter 1 | #DND
+- 2024-06-19 — Ep. 226: Escape From Owlbear Lake - Chapter 14 | #DND
+- 2024-06-12 — Ep. 225: Escape From Owlbear Lake - Chapter 13 | #DND — speakers: Jjj ge
+- 2024-06-05 — Ep. 224: Escape From Owlbear Lake - Chapter 12 | #DND
+- 2024-05-29 — Ep. 223: Escape From Owlbear Lake - Chapter 11 | #DND
+- 2024-05-22 — Ep. 222: Escape From Owlbear Lake - Chapter 10 | #DND
+- 2024-05-15 — Ep. 221: Escape From Owlbear Lake - Chapter 9 | #DND
+- 2024-05-08 — Ep. 220: Escape From Owlbear Lake - Chapter 8 | #DND
+- 2024-05-06 — Roll Britannia | Parley - Millie & James - UK Games Expo
+- 2024-05-01 — Ep. 219: Escape From Owlbear Lake - Chapter 7 | #DND
+- 2024-04-25 — Roll Britannia | Parley - Tim Roberts - Critical Kit
+- 2024-04-24 — Ep. 218: Escape From Owlbear Lake - Chapter 6 | #DND
+- 2024-04-17 — Ep. 217: Escape From Owlbear Lake - Chapter 5 | #DND
+- 2024-04-10 — Ep. 216: Escape From Owlbear Lake - Chapter 4 | #DND
+- 2024-04-03 — Ep. 215: Escape From Owlbear Lake - Chapter 3 | #DND
+- 2024-03-27 — Ep. 214: Escape From Owlbear Lake - Chapter 2 | #DND
+- 2024-03-20 — Ep. 213: Escape From Owlbear Lake - Chapter 1 | #DND
+- 2024-03-13 — Ep. 212: The Battle For Nassau - Chapter 6 | #DND
+- 2024-03-06 — Ep. 211: The Battle For Nassau - Chapter 5 | #DND
+- 2024-02-28 — Ep. 210: The Battle For Nassau - Chapter 4 | #DND
+- 2024-02-21 — Ep. 209: The Battle For Nassau - Chapter 3 | #DND
+- 2024-02-14 — Ep. 208: The Battle For Nassau - Chapter 2 | #DND
+- 2024-02-12 — Roll Britannia | Parley - Dr Gary Colman - Game Therapy UK & Dorks n Orks — speakers: Gary Colman Game
+- 2024-02-07 — Ep. 207: The Battle For Nassau - Chapter 1 | #DND
+- 2024-01-31 — Ep. 206: Tel Dath Do Us Part VIII - Chapter 3 | #DND — speakers: Tel Dath
+- 2024-01-24 — Ep. 205: Tel Dath Do Us Part VIII - Chapter 2 | #DND — speakers: Tel Dath
+- 2024-01-17 — Ep. 204: Tel Dath Do Us Part VIII - Chapter 1 | #DND — speakers: Tel Dath
+- 2024-01-11 — Roll Britannia | Parley - Ned & Brian - Encounter Party
+- 2024-01-10 — Ep. 203: Moonlight Masquerade - Chapter 21 | #DND — speakers: Moonlight Masquerade Chapter
+- 2024-01-03 — Ep. 202: Moonlight Masquerade - Chapter 20 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-12-28 — Roll Britannia | Parley - Jake & Ben - New Crits On The Block
+- 2023-12-27 — Ep. 201: Moonlight Masquerade - Chapter 19 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-12-25 — Roll Britannia LIVE - MCM Comic Con Birmingham 2023 | #DND
+- 2023-12-21 — Ep. 200: Lastlight Special - Not My Krampus - Part 2 | #DND
+- 2023-12-20 — Ep. 199: Lastlight Special - Not My Krampus - Part 1 | #DND
+- 2023-12-13 — Ep. 198: Moonlight Masquerade - Chapter 18 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-12-06 — Ep. 197: Moonlight Masquerade - Chapter 17 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-11-29 — Ep. 196: Moonlight Masquerade - Chapter 16 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-11-22 — Ep. 195: Moonlight Masquerade - Chapter 15 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-11-15 — Ep. 194: Moonlight Masquerade - Chapter 14 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-11-08 — Ep. 193: Moonlight Masquerade - Chapter 13 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-11-01 — Ep. 192: Moonlight Masquerade - Chapter 12 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-10-26 — Ep. 191: Halloween Special IV - Part 2 #DND
+- 2023-10-25 — Ep. 191: Halloween Special IV - Part 1 #DND — speakers: Halloween Special
+- 2023-10-18 — Ep. 190: Moonlight Masquerade - Chapter 11 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-10-14 — Roll Britannia | Parley - Jasper William Cartwright — speakers: William Cartwright
+- 2023-10-11 — Ep. 189: Moonlight Masquerade - Chapter 10 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-10-04 — Ep. 188: Moonlight Masquerade - Chapter 9 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-09-27 — Ep. 187: Moonlight Masquerade - Chapter 8 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-09-20 — Ep. 186: Moonlight Masquerade - Chapter 7 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-09-13 — Ep. 185: Moonlight Masquerade - Chapter 6 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-09-06 — Ep. 184: Moonlight Masquerade - Chapter 5 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-08-30 — Ep. 183: Moonlight Masquerade - Chapter 4 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-08-23 — Ep. 182: Moonlight Masquerade - Chapter 3 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-08-16 — Ep. 181: Moonlight Masquerade - Chapter 2 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-08-09 — Ep. 180: Moonlight Masquerade - Chapter 1 | #DND — speakers: Moonlight Masquerade Chapter
+- 2023-08-02 — Ep. 179: Tel Dath Do Us Part VII - Chapter 4 | #DND — speakers: Tel Dath
+- 2023-07-27 — Roll Britannia | Parley - Luke Gygax
+- 2023-07-26 — Ep. 178: Tel Dath Do Us Part VII - Chapter 3 | #DND — speakers: Tel Dath
+- 2023-07-19 — Ep. 177: Tel Dath Do Us Part VII - Chapter 2 | #DND — speakers: Tel Dath
+- 2023-07-12 — Ep. 176: Tel Dath Do Us Part VII - Chapter 1 | #DND — speakers: Tel Dath
+- 2023-07-05 — Ep. 175: Well, Well, Well - Chapter 10 | #DND
+- 2023-06-28 — Ep. 174: Well, Well, Well - Chapter 9 | #DND
+- 2023-06-21 — Ep. 173: Well, Well, Well - Chapter 8 | #DND
+- 2023-06-14 — Roll Britannia LIVE - UK Games Expo 2023 | #DND
+- 2023-06-14 — Ep. 172: Well, Well, Well - Chapter 7 | #DND
+- 2023-06-07 — Ep. 171: Well, Well, Well - Chapter 6 | #DND
+- 2023-05-31 — Ep. 170: Well, Well, Well - Chapter 5 | #DND
+- 2023-05-24 — Ep. 169: Well, Well, Well - Chapter 4 | #DND
+- 2023-05-17 — Ep. 168: Well, Well, Well - Chapter 3 | #DND
+- 2023-05-10 — Ep. 167: Well, Well, Well - Chapter 2 | #DND
+- 2023-05-03 — Ep. 166: Well, Well, Well - Chapter 1 | #DND
+- 2023-04-26 — Ep. 165: Raiders Of The Lost ARS - Chapter 10 | #DND
+- 2023-04-19 — Ep. 164: Raiders Of The Lost ARS - Chapter 9 | #DND
+- 2023-04-12 — Ep. 163: Raiders Of The Lost ARS - Chapter 8 | #DND
+- 2023-04-05 — Ep. 162: Raiders Of The Lost ARS - Chapter 7 | #DND
+- 2023-03-29 — Roll Britannia | Parley - John Francis Daley and Jonathan Goldstein (Dungeons & Dragons: Honor Among Thieves) — speakers: Jonathan Goldstein
+- 2023-03-29 — Roll Britannia | Parley - Jeremy Latcham (Dungeons & Dragons: Honour Among Thieves)
+- 2023-03-29 — Ep. 161: Raiders Of The Lost ARS - Chapter 6 | #DND
+- 2023-03-22 — Ep. 160: Raiders Of The Lost ARS - Chapter 5 | #DND — speakers: Derek hea
+- 2023-03-15 — Ep. 159: Raiders Of The Lost ARS - Chapter 4 | #DND
+- 2023-03-08 — Ep. 158: Raiders Of The Lost ARS - Chapter 3 | #DND
+- 2023-03-01 — Ep. 157: Raiders Of The Lost ARS - Chapter 2 | #DND
+- 2023-02-22 — Ep. 156: Raiders Of The Lost ARS - Chapter 1 | #DND
+- 2023-02-15 — Ep. 155: That'll Do Donkey - Chapter 10 | #DND
+- 2023-02-08 — Ep. 154: That'll Do Donkey - Chapter 9 | #DND
+- 2023-02-01 — Ep. 153: That'll Do Donkey - Chapter 8 | #DND
+- 2023-01-25 — Ep. 152: That'll Do Donkey - Chapter 7 | #DND #TTRPG
+- 2023-01-19 — Roll Britannia - Everyone Is Jeff! #OpenRPG #OpenDND — speakers: Roll Britannia
+- 2023-01-18 — Ep. 151: That'll Do Donkey - Chapter 6 | #DND
+- 2023-01-11 — Ep. 150: That'll Do Donkey - Chapter 5 | #DND
+- 2023-01-04 — Ep. 149: That'll Do Donkey - Chapter 4 | #DND
+- 2022-12-28 — Ep. 148: That'll Do Donkey - Chapter 3 | #DND
+- 2022-12-22 — Ep. 147: Lastlight Special - The Grench That Stole Lastlight - Part 2 | #DND
+- 2022-12-21 — Ep. 146: Lastlight Special - The Grench That Stole Lastlight - Part 1 | #DND — speakers: Lastlight Special
+- 2022-12-14 — Ep. 145: That'll Do Donkey - Chapter 2 | #DND
+- 2022-12-07 — Ep. 144: That'll Do Donkey - Chapter 1 | #DND
+- 2022-11-30 — Ep. 143: Honour Among Thieves - Chapter 10 | #DND
+- 2022-11-23 — Ep. 142: Honour Among Thieves - Chapter 9 | #DND
+- 2022-11-16 — Ep. 141: Honour Among Thieves - Chapter 8 | #DND
+- 2022-11-09 — Ep. 140: Honour Among Thieves - Chapter 7 | #DND
+- 2022-11-02 — Ep. 139: Honour Among Thieves - Chapter 6 | #DND
+- 2022-10-27 — Ep. 138: Halloween Special III - Part 2 #DND
+- 2022-10-27 — Ep. 138: Halloween Special III - Part 1 #DND
+- 2022-10-26 — Ep. 137: Honour Among Thieves - Chapter 5 | #DND
+- 2022-10-19 — Ep. 136: Honour Among Thieves - Chapter 4 | #DND
+- 2022-10-12 — Ep. 135: Honour Among Thieves - Chapter 3 | #DND
+- 2022-10-05 — Ep. 134: Honour Among Thieves - Chapter 2 | #DND
+- 2022-09-28 — Ep. 133: Honour Among Thieves - Chapter 1 | #DND
+- 2022-09-21 — Ep. 132: Exit Marooned By An Owlbear - Chapter 4 | #DND
+- 2022-09-14 — Ep. 131: Exit Marooned By An Owlbear - Chapter 3 | #DND — speakers: Davy Jones
+- 2022-09-07 — Ep. 130: Exit Marooned By An Owlbear - Chapter 2 | #DND — speakers: Exit Marooned
+- 2022-08-31 — Ep. 129: Exit Marooned By An Owlbear - Chapter 1 | #DND
+- 2022-08-24 — Ep. 128: Tel Dath Do Us Part VI - Chapter 10 | #DND — speakers: Tel Dath
+- 2022-08-17 — Ep. 127: Tel Dath Do Us Part VI - Chapter 9 | #DND — speakers: Tel Dath
+- 2022-08-10 — Ep. 126: Tel Dath Do Us Part VI - Chapter 8 | #DND — speakers: Tel Dath
+- 2022-08-03 — Ep. 125: Tel Dath Do Us Part VI - Chapter 7 | #DND — speakers: Tel Dath
+- 2022-07-27 — Ep. 124: Tel Dath Do Us Part VI - Chapter 6 | #DND — speakers: Tel Dath
+- 2022-07-20 — Ep. 123: Tel Dath Do Us Part VI - Chapter 5 | #DND — speakers: Tel Dath
+- 2022-07-13 — Ep. 122: Tel Dath Do Us Part VI - Chapter 4 | #DND — speakers: Tel Dath
+- 2022-07-06 — Ep. 121: Tel Dath Do Us Part VI - Chapter 3 | #DND — speakers: Tel Dath
+- 2022-06-29 — Ep. 120: Tel Dath Do Us Part VI - Chapter 2 | #DND — speakers: Tel Dath
+- 2022-06-22 — Ep. 119: Tel Dath Do Us Part VI - Chapter 1 | #DND — speakers: Tel Dath
+- 2022-06-15 — Ep. 118: Ship Just Got Real - Chapter 5 | #DND
+- 2022-06-08 — Ep. 117: Ship Just Got Real - Chapter 4 | #DND
+- 2022-06-01 — Ep. 116: Ship Just Got Real - Chapter 3 | #DND
+- 2022-05-25 — Ep. 115: Ship Just Got Real - Chapter 2 | #DND
+- 2022-05-18 — Ep. 114: Ship Just Got Real - Chapter 1 | #DND
+- 2022-05-11 — Ep. 113: C**kwombling Free - Chapter 13 | #DND
+- 2022-05-04 — Ep. 112: C**kwombling Free - Chapter 12 | #DND
+- 2022-04-27 — Ep. 111: C**kwombling Free - Chapter 11 | #DND
+- 2022-04-20 — Ep. 110: C**kwombling Free - Chapter 10 | #DND
+- 2022-04-13 — Ep. 109: C**kwombling Free - Chapter 9 | #DND
+- 2022-04-06 — Ep. 108: C**kwombling Free - Chapter 8 | #DND
+- 2022-03-30 — Ep. 107: C**kwombling Free - Chapter 7 | #DND
+- 2022-03-23 — Ep. 106: C**kwombling Free - Chapter 6 | #DND
+- 2022-03-16 — Ep. 105: C**kwombling Free - Chapter 5 | #DND
+- 2022-03-09 — Ep. 104: C**kwombling Free - Chapter 4 | #DND
+- 2022-03-02 — Ep. 103: C**kwombling Free - Chapter 3 | #DND
+- 2022-02-23 — Ep. 102: C**kwombling Free - Chapter 2 | #DND
+- 2022-02-16 — Ep. 101: C**kwombling Free - Chapter 1 | #DND
+- 2022-02-09 — Ep. 100: The Sea Dogs Of War - Chapter 3 | #DND
+- 2022-02-02 — Ep. 99: The Sea Dogs Of War - Chapter 2 | #DND — speakers: Dnd Battle
+- 2022-01-26 — Ep. 98: The Sea Dogs Of War - Chapter 1 | #DND
+- 2022-01-19 — Ep. 97: Tel Dath Do Us Part V - Chapter 5 | #DND — speakers: Tel Dath
+- 2022-01-12 — Ep. 96: Tel Dath Do Us Part V - Chapter 4 | #DND — speakers: Tel Dath
+- 2022-01-05 — Ep. 95: Tel Dath Do Us Part V - Chapter 3 | #DND — speakers: Tel Dath
+- 2021-12-29 — Ep. 94: Tel Dath Do Us Part V - Chapter 2 | #DND — speakers: Tel Dath
+- 2021-12-23 — Ep. 93: Lastlight Special - Snow Way Home - Part 2 | #DND
+- 2021-12-22 — Ep. 92: Lastlight Special - Snow Way Home - Part 1 | #DND
+- 2021-12-15 — Ep. 91: Tel Dath Do Us Part V - Chapter 1 | #DND — speakers: Tel Dath
+- 2021-12-08 — Ep. 90: Don't Choose Me - Chapter 20 | #DND — speakers: unfinished busi
+- 2021-12-01 — Ep. 89: Don't Choose Me - Chapter 19 | #DND
+- 2021-11-24 — Ep. 88: Don't Choose Me - Chapter 18 | #DND — speakers: Choose Me
+- 2021-11-17 — Ep. 87: Don't Choose Me - Chapter 17 | #DND
+- 2021-11-10 — Ep. 86: Don't Choose Me - Chapter 16 | #DND — speakers: Dnd Jeff
+- 2021-11-03 — Ep. 85: Don't Choose Me - Chapter 15 | #DND
+- 2021-10-31 — Ep. 84: Halloween Special II - Part 2 | #DND
+- 2021-10-30 — Ep. 83: Halloween Special II - Part 1 | #DND — speakers: Halloween Special, Tel Dath
+- 2021-10-27 — Ep. 82: Don't Choose Me - Chapter 14 | #DND
+- 2021-10-20 — Ep. 81: Don't Choose Me - Chapter 13 | #DND
+- 2021-10-13 — Ep. 80: Don't Choose Me - Chapter 12 | #DND — speakers: Jeff Silverbow
+- 2021-10-06 — Ep. 79: Don't Choose Me - Chapter 11 | #DND — speakers: Choose Me
+- 2021-09-29 — Ep. 78: Don't Choose Me - Chapter 10 | #DND
+- 2021-09-22 — Ep. 77: Don't Choose Me - Chapter 9 | #DND
+- 2021-09-15 — Ep. 76: Don't Choose Me - Chapter 8 | #DND
+- 2021-09-08 — Ep. 75: Don't Choose Me - Chapter 7 | #DND
+- 2021-09-01 — Ep. 74: Don't Choose Me - Chapter 6 | #DND
+- 2021-08-25 — Ep. 73: Don't Choose Me - Chapter 5 | #DND
+- 2021-08-18 — Ep. 72: Don't Choose Me - Chapter 4 | #DND
+- 2021-08-11 — Ep. 71: Don't Choose Me - Chapter 3 | #DND — speakers: Team Shuttle
+- 2021-08-04 — Ep. 70: Don't Choose Me - Chapter 2 | #DND
+- 2021-07-28 — Ep. 69: Don't Choose Me - Chapter 1 | #DND
+- 2021-07-21 — Ep. 68: Tel Dath Do Us Part IV - Chapter 4 | #DND — speakers: Tel Dath, Dnd Danger
+- 2021-07-14 — Ep. 67: Tel Dath Do Us Part IV - Chapter 3 | #DND — speakers: Tel Dath
+- 2021-07-07 — Ep. 66: Tel Dath Do Us Part IV - Chapter 2 | #DND — speakers: Tel Dath
+- 2021-06-30 — Ep. 65: Tel Dath Do Us Part IV - Chapter 1 | #DND — speakers: Tel Dath
+- 2021-06-23 — Ep. 64: A Place In Ye Sun - Chapter 15 | #DND
+- 2021-06-16 — Ep. 63: A Place In Ye Sun - Chapter 14 | #DND
+- 2021-06-09 — Ep. 62: A Place In Ye Sun - Chapter 13 | #DND
+- 2021-06-02 — Ep. 61: A Place In Ye Sun - Chapter 12 | #DND
+- 2021-05-26 — Ep. 60: A Place In Ye Sun - Chapter 11 | #DND
+- 2021-05-19 — Ep. 59: A Place In Ye Sun - Chapter 10 | #DND
+- 2021-05-12 — Ep. 58: A Place In Ye Sun - Chapter 9 | #DND
+- 2021-05-05 — Ep. 57: A Place In Ye Sun - Chapter 8 | #DND
+- 2021-04-28 — Ep. 56: A Place In Ye Sun - Chapter 7 | #DND
+- 2021-04-21 — Ep. 55: A Place In Ye Sun - Chapter 6 | #DND
+- 2021-04-14 — Ep. 54: A Place In Ye Sun - Chapter 5 | #DND
+- 2021-04-07 — Ep. 53: A Place In Ye Sun - Chapter 4 | #DND
+- 2021-03-31 — Ep. 52: A Place In Ye Sun - Chapter 3 | #DND
+- 2021-03-24 — Ep. 51: A Place In Ye Sun - Chapter 2 | #DND
+- 2021-03-17 — Ep. 50: A Place In Ye Sun - Chapter 1 | #DND
+- 2021-03-10 — Ep. 49: Tel Dath Do Us Part III - Chapter 3 | #DND — speakers: Tel Dath
+- 2021-03-03 — Ep. 48: Tel Dath Do Us Part III - Chapter 2 | #DND — speakers: Tel Dath
+- 2021-02-24 — Ep. 47: Tel Dath Do Us Part III - Chapter 1 | #DND — speakers: Tel Dath
+- 2021-02-17 — Ep. 46: Death on Nemmonis Island - Chapter 14 | #DND
+- 2021-02-10 — Ep. 45: Death on Nemmonis Island - Chapter 13 | #DND
+- 2021-02-03 — Ep. 44: Death on Nemmonis Island - Chapter 12 | #DND
+- 2021-01-30 — Ep. 43: Shore Leave - Death on Nemmonis Island Edition | #DND — speakers: Tom Chip
+- 2021-01-27 — Ep. 42: Death on Nemmonis Island - Chapter 11 | #DND
+- 2021-01-20 — Ep. 41: Death on Nemmonis Island - Chapter 10 | #DND
+- 2021-01-13 — Ep. 40: Death on Nemmonis Island - Chapter 9 | #DND — speakers: Dnd Derek
+- 2021-01-06 — Ep. 39: Death on Nemmonis Island - Chapter 8 | #DND — speakers: Dnd Derek
+- 2020-12-30 — Ep. 38: Death on Nemmonis Island - Chapter 7 | #DND
+- 2020-12-24 — Ep. 37: Lastlight Special - Santas Come To Town - Part 2 | #DND
+- 2020-12-23 — Ep. 36: Lastlight Special - Santas Come To Town - Part 1 | #DND — speakers: Lastlight Special Santas
+- 2020-12-17 — Ep. 35: Death on Nemmonis Island - Chapter 6 | #DND
+- 2020-12-16 — Ep. 34: Death on Nemmonis Island - Chapter 5 | #DND
+- 2020-12-09 — Ep. 33: Death on Nemmonis Island - Chapter 4 | #DND
+- 2020-12-02 — Ep. 32: Death on Nemmonis Island - Chapter 3 | #DND — speakers: Nemmonis Island
+- 2020-11-25 — Ep. 31: Death on Nemmonis Island - Chapter 2 | #DND
+- 2020-11-18 — Ep. 30: Death on Nemmonis Island - Chapter 1 | #DND
+- 2020-11-11 — Ep. 29: Tel Dath Do Us Part II - Chapter 4 | #DND — speakers: Tel Dath
+- 2020-11-04 — Ep. 28: Tel Dath Do Us Part II - Chapter 3 | #DND — speakers: Tel Dath
+- 2020-10-31 — Ep. 27: Halloween Special | #DND
+- 2020-10-28 — Ep. 26: Tel Dath Do Us Part II - Chapter 2 | #DND — speakers: Tel Dath
+- 2020-10-21 — Ep. 25: Tel Dath Do Us Part II - Chapter 1 | #DND — speakers: Tel Dath
+- 2020-10-14 — Ep. 24: The Cranberry Files - Chapter 12 | #DND
+- 2020-10-07 — Ep. 23: The Cranberry Files - Chapter 11 | #DND
+- 2020-09-30 — Ep. 22: The Cranberry Files - Chapter 10 | #DND
+- 2020-09-23 — Ep. 21: The Cranberry Files - Chapter 9 | #DND
+- 2020-09-16 — Ep. 20: The Cranberry Files - Chapter 8 | #DND
+- 2020-09-09 — Ep. 19: The Cranberry Files - Chapter 7 | #DND
+- 2020-09-02 — Ep. 18: The Cranberry Files - Chapter 6 | #DND
+- 2020-08-26 — Ep. 17: The Cranberry Files - Chapter 5 | #DND
+- 2020-08-19 — Ep. 16: The Cranberry Files - Chapter 4 | #DND
+- 2020-08-12 — Ep. 15: The Cranberry Files - Chapter 3 | #DND
+- 2020-08-05 — Ep. 14: The Cranberry Files - Chapter 2 | #DND
+- 2020-07-29 — Ep. 13: The Cranberry Files - Chapter 1 | #DND
+- 2020-07-22 — Ep. 12: Tel Dath Do Us Part I - Chapter 6 | #DND — speakers: Tel Dath
+- 2020-07-15 — Ep. 11: Tel Dath Do Us Part I - Chapter 5 | #DND — speakers: Tel Dath
+- 2020-07-08 — Ep. 10: Tel Dath Do Us Part I - Chapter 4 | #DND — speakers: Tel Dath
+- 2020-07-01 — Ep. 9: Tel Dath Do Us Part I - Chapter 3 | #DND — speakers: Tel Dath
+- 2020-06-24 — Ep. 8: Tel Dath Do Us Part I - Chapter 2 | #DND — speakers: Tel Dath
+- 2020-06-17 — Ep. 7: Tel Dath Do Us Part I - Chapter 1 | #DND — speakers: Tel Dath
+- 2020-06-10 — Ep. 6: We Be Shipwrecked - Chapter 6 | #DND
+- 2020-06-03 — Ep. 5: We Be Shipwrecked - Chapter 5 | #DND
+- 2020-05-27 — Ep. 4: We Be Shipwrecked - Chapter 4 | #DND
+- 2020-05-20 — Ep. 3: We Be Shipwrecked - Chapter 3 | #DND
+- 2020-05-13 — Ep. 2: We Be Shipwrecked - Chapter 2 | #DND — speakers: Bat Deeley
+- 2020-05-06 — Ep. 1: We Be Shipwrecked - Chapter 1 (Remastered) | #DND
+- 2020-05-06 — Ep. 1: We Be Shipwrecked - Chapter 1 | #DND
+- 2020-04-30 — Roll Britannia Trailer — speakers: Roll Britannia
