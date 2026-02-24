@@ -87,4 +87,94 @@ If you want the next batch, just say **“give me 50 more churches”** or **“
 
 This is the actual slate of who is making open video RSS podcasts right now — mostly churches, unis, and small creators. No big mainstream celebs. You really can collate thousands if you scrape the directories or use Podcast Index’s search for “video/mp4” enclosures.
 
-Want the next 50 right now? Just say the word.
+## more:
+
+**Eagle Brook Church Video Podcast**  
+https://www.eaglebrookchurch.com/mediafiles/eagle-brook-church-videocast.xml  
+
+**James River Church Video Podcast**  
+https://jamesriver.podbean.com/feed.xml  
+
+**Jerry Savelle Ministries Video Podcast**  
+https://www.jerrysavelle.org/rssfeeds/tvvideo.xml  
+
+**Bible Study Guide Video Podcast**  
+http://m.biblestudyguide.org/podcast/video-rss.xml  
+
+**UCTV University of California Video Podcasts**  
+https://podcast.uctv.tv/uctv_vodcasts.rss  
+
+**UCTV Health and Medicine Video**  
+http://podcast.uctv.tv/uctv_video_health.rss  
+
+**UCTV UC Berkeley Video**  
+https://podcast.uctv.tv/UCTV_campus_berkeley_video.rss  
+
+**UCTV UC San Francisco Video**  
+https://podcast.uctv.tv/UCTV_campus_ucsf_video.rss  
+
+**UCTV UC Davis Video**  
+https://podcast.uctv.tv/UCTV_campus_davis_video.rss  
+
+**Menlo Church Video Podcasts**  
+https://menlochurchvideo.podbean.com/feed.xml  
+
+**Connexus Church Video Podcast**  
+https://connexuschurchvideo.libsyn.com/rss  
+
+**Fresh Life Church Video Podcast**  
+https://freshlife.podbean.com/feed.xml  
+
+**Bridgetown Video Podcast**  
+https://bridgetownvideo.podbean.com/feed.xml  
+
+**Ben Greenfield Fitness Video Podcast**  
+https://bengreenfieldfitness.com/feed/video  
+
+**Mind Pump Raw Fitness Video**  
+https://mindpumpmedia.com/feed/video  
+
+**Research To Practice Oncology Videos**  
+https://researchtopractice.com/rss/video  
+
+**Grace to You Video Podcast**  
+https://www.gty.org/rss/video  
+
+**Believer's Voice of Victory Video Podcast**  
+https://www.bvov.tv/rss/video  
+
+**Watermark Video Sunday Messages**  
+https://www.watermark.org/feed/video  
+
+**Foothills Church Video Podcast**  
+https://foothillschurch.org/feed/video  
+
+**Faith Life Church Video**  
+https://faithlifechurch.org/feed/video  
+
+**Athey Creek Video Podcast**  
+https://atheycreek.com/feed/video  
+
+**The Porch Video Podcast**  
+https://www.theporch.tv/feed/video  
+
+**Lancaster Baptist Church Video Podcast**  
+https://lancasterbaptist.org/feed/video  
+
+**Ed Young Messages Video**  
+https://edyoung.com/feed/video  
+
+**Life.Church Craig Groeschel Video**  
+https://www.life.church/feed/video  
+
+**NewSpring Church Sermon Video**  
+https://newspring.cc/feed/video  
+
+**Mars Hill Church Video Sermons**  
+http://marshill.info/feeds/video.xml  
+
+**C3Naz Sermon Archives Video**  
+https://www.c3naz.net/sermon-archives-video.rss  
+
+**Point of Grace Church Video Sermons**  
+https://pointofgracechurch.com/feed/video  

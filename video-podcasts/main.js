@@ -1,963 +1,675 @@
+const $ = (s, el = document) => el.querySelector(s);
 
-const $ = (s, el=document) => el.querySelector(s);
-const $$ = (s, el=document) => [...el.querySelectorAll(s)];
-
-const STORAGE_KEY = "vodcast_hls_demo_v1";
-const state = loadState();
-
-const svgPoster = (title, a="#8ab4f8", b="#7ee787") => {
-  const t = title.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const svg =
-`<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="${a}" stop-opacity=".9"/>
-  <stop offset="1" stop-color="${b}" stop-opacity=".85"/>
-</linearGradient>
-<filter id="blur">
-  <feGaussianBlur stdDeviation="18" />
-</filter>
-</defs>
-<rect width="640" height="360" fill="#05060a"/>
-<circle cx="120" cy="80" r="130" fill="url(#g)" filter="url(#blur)" opacity=".65"/>
-<circle cx="540" cy="300" r="170" fill="url(#g)" filter="url(#blur)" opacity=".40"/>
-<rect x="28" y="250" width="584" height="74" rx="18" fill="rgba(0,0,0,.35)" stroke="rgba(255,255,255,.22)"/>
-<text x="52" y="292" font-family="ui-sans-serif,system-ui" font-weight="700" font-size="28" fill="white">${t}</text>
-<text x="52" y="318" font-family="ui-monospace,Menlo,Monaco,Consolas" font-size="14" fill="rgba(255,255,255,.75)">HLS · demo</text>
-</svg>`;
-  return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
-};
-
-const CATALOG = [
-  {
-    id: "mux",
-    title: "Vodcast: Mux test stream",
-    provider: "Mux",
-    home: "https://test-streams.mux.dev/",
-    poster: svgPoster("Mux test stream", "#8ab4f8", "#f2cc60"),
-    episodes: [
-      {
-        id: "x36xhzz",
-        title: "Episode 1 · x36xhzz",
-        hls: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        notes: "Classic hls.js demo stream. Good for ABR + level switching.",
-        chapters: [
-          { t: 0, name: "Cold open" },
-          { t: 45, name: "Bit where you squint at buffering" },
-          { t: 110, name: "Somewhere in the middle" },
-          { t: 220, name: "Closing vibes" },
-        ],
-      },
-    ],
-  },
-  {
-    id: "apple",
-    title: "Vodcast: Apple fMP4 example",
-    provider: "Apple",
-    home: "https://developer.apple.com/streaming/examples/",
-    poster: svgPoster("Apple fMP4", "#7ee787", "#8ab4f8"),
-    episodes: [
-      {
-        id: "bipbop_fmp4",
-        title: "Episode 1 · BipBop (fMP4)",
-        hls: "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
-        notes: "Apple HLS example (fMP4). Handy for testing variant playlists + modern tags.",
-        chapters: [
-          { t: 0, name: "Start" },
-          { t: 60, name: "Switch quality a few times" },
-          { t: 150, name: "PiP + speed" },
-          { t: 260, name: "End-ish" },
-        ],
-      },
-    ],
-  },
-  {
-    id: "unified",
-    title: "Vodcast: Tears of Steel",
-    provider: "Unified Streaming",
-    home: "https://demo.unified-streaming.com/k8s/features/stable/",
-    poster: svgPoster("Tears of Steel", "#f2cc60", "#ff7b72"),
-    episodes: [
-      {
-        id: "tos_full",
-        title: "Episode 1 · full stream",
-        hls: "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        notes: "Unified Streaming demo. Great for HLS manifests that look like real production setups.",
-        chapters: [
-          { t: 0, name: "Intro" },
-          { t: 90, name: "First act" },
-          { t: 300, name: "Midpoint" },
-          { t: 720, name: "Later" },
-        ],
-      },
-      {
-        id: "tos_clip",
-        title: "Episode 2 · 60s clip (vbegin/vend)",
-        hls: "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8?vbegin=60&vend=120",
-        notes: "Same stream, clipped by query params. Useful for your own 'chapters -> manifests' experiments.",
-        chapters: [
-          { t: 0, name: "Clip start" },
-          { t: 20, name: "Beat" },
-          { t: 40, name: "Beat" },
-          { t: 58, name: "Clip end" },
-        ],
-      },
-    ],
-  },
-  {
-    id: "akamai",
-    title: "Vodcast: Akamai live test",
-    provider: "Akamai",
-    home: "https://ottverse.com/free-hls-m3u8-test-urls/",
-    poster: svgPoster("Akamai LIVE", "#ff7b72", "#8ab4f8"),
-    episodes: [
-      {
-        id: "akamai_live",
-        title: "Episode 1 · live stream",
-        hls: "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-        notes: "Live HLS. Duration will be Infinity; progress/resume behaves differently.",
-        chapters: [
-          { t: 0, name: "Live (no real chapters)" },
-          { t: 0, name: "Try Go live button" },
-          { t: 0, name: "Try quality switching" },
-          { t: 0, name: "Try PiP" },
-        ],
-      },
-    ],
-  },
-  {
-    id: "ireplay",
-    title: "Vodcast: iReplay Blender test",
-    provider: "iReplay",
-    home: "https://ottverse.com/free-hls-m3u8-test-urls/",
-    poster: svgPoster("iReplay test", "#8ab4f8", "#7ee787"),
-    episodes: [
-      {
-        id: "blender",
-        title: "Episode 1 · blender.m3u8",
-        hls: "https://ireplay.tv/test/blender.m3u8",
-        notes: "Simple public HLS test stream from iReplay. Good for sanity checks.",
-        chapters: [
-          { t: 0, name: "Start" },
-          { t: 30, name: "Seek around" },
-          { t: 90, name: "Switch quality" },
-          { t: 150, name: "Background + resume" },
-        ],
-      },
-    ],
-  },
-];
+const STORAGE_KEY = "video_podcasts_v1";
+const SOURCES_URL = "./video-sources.json";
+const FEED_PROXY = "/__feed?url=";
+const DEBUG = true;
+const dbg = (...args) => { if (DEBUG) console.debug("[video-podcasts]", ...args); };
 
 const video = $("#video");
-const showsEl = $("#shows");
-const chaptersEl = $("#chapters");
-const notesEl = $("#notes");
-const leftMsg = $("#leftMsg");
-
-const envPill = $("#envPill");
-const nowTitle = $("#nowTitle");
-const nowProvider = $("#nowProvider");
-const pillLive = $("#pillLive");
-const pillMode = $("#pillMode");
-const epPill = $("#epPill");
-const epSub = $("#epSub");
-
-const seek = $("#seek");
-const timeL = $("#timeL");
-const timeR = $("#timeR");
-
+const feedSelect = $("#feedSelect");
+const episodesEl = $("#episodes");
+const sideMsg = $("#sideMsg");
 const btnPlay = $("#btnPlay");
-const btnBack = $("#btnBack");
-const btnFwd = $("#btnFwd");
-const btnLive = $("#btnLive");
-const btnFs = $("#btnFs");
-const btnPip = $("#btnPip");
-const btnAudioOnly = $("#btnAudioOnly");
-const btnShare = $("#btnShare");
-const btnAddCustom = $("#btnAddCustom");
-const btnReset = $("#btnReset");
+const hudTitle = $("#hudTitle");
+const hudTime = $("#hudTime");
+const progress = $("#progress");
+const progressFill = $("#progressFill");
+const epTitle = $("#epTitle");
+const epSub = $("#epSub");
+const epDesc = $("#epDesc");
+const chaptersEl = $("#chapters");
+const chaptersMeta = $("#chaptersMeta");
 
-const selRate = $("#selRate");
-const selQuality = $("#selQuality");
-
-const toast = $("#toast");
-
-const statsNow = $("#statsNow");
-const statsTech = $("#statsTech");
-const statsBuf = $("#statsBuf");
-const statsMsg = $("#statsMsg");
-
-let hls = null;
-let currentShow = null;
+let sources = [];
+let currentSource = null;
+let episodes = [];
 let currentEp = null;
-let isSeeking = false;
-let isAudioOnly = false;
-let lastPersistAt = 0;
+let hls = null;
+let lastPersistMs = 0;
 
-const isNativeHls = () => {
-  const can = video.canPlayType("application/vnd.apple.mpegurl") || video.canPlayType("application/x-mpegURL");
-  return can === "probably" || can === "maybe";
-};
+const state = loadState();
 
-const fmtTime = (s) => {
-  if (!Number.isFinite(s) || s < 0) return "00:00";
-  const hh = Math.floor(s / 3600);
-  const mm = Math.floor((s % 3600) / 60);
-  const ss = Math.floor(s % 60);
-  if (hh > 0) return `${String(hh).padStart(2,"0")}:${String(mm).padStart(2,"0")}:${String(ss).padStart(2,"0")}`;
-  return `${String(mm).padStart(2,"0")}:${String(ss).padStart(2,"0")}`;
-};
-
-const clamp = (v, a, b) => Math.min(b, Math.max(a, v));
-
-const showToast = (msg) => {
-  toast.textContent = msg;
-  toast.classList.add("show");
-  clearTimeout(showToast._t);
-  showToast._t = setTimeout(() => toast.classList.remove("show"), 850);
-};
-
-const copyText = async (txt) => {
+function loadState() {
   try {
-    await navigator.clipboard.writeText(txt);
-    showToast("Copied");
-  } catch {
-    const ta = document.createElement("textarea");
-    ta.value = txt;
-    ta.style.position = "fixed";
-    ta.style.opacity = "0";
-    document.body.appendChild(ta);
-    ta.select();
-    document.execCommand("copy");
-    ta.remove();
-    showToast("Copied");
-  }
-};
-
-const setLeftMsg = (kind, text) => {
-  leftMsg.innerHTML = "";
-  if (!text) return;
-  const div = document.createElement("div");
-  div.className = kind === "err" ? "err" : "okmsg";
-  div.textContent = text;
-  leftMsg.appendChild(div);
-};
-
-const episodeKey = (showId, epId) => `${showId}::${epId}`;
-
-function loadState(){
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    const raw = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    if (!raw || typeof raw !== "object") return {};
+    return raw;
   } catch {
     return {};
   }
 }
-function saveState(){
+function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
 
-function getProgress(showId, epId){
-  return (state.progress && state.progress[episodeKey(showId, epId)]) || 0;
+function clamp(v, a, b) {
+  return Math.min(b, Math.max(a, v));
 }
-function setProgress(showId, epId, t){
+
+function fmtTime(s) {
+  if (!Number.isFinite(s) || s < 0) return "00:00";
+  const hh = Math.floor(s / 3600);
+  const mm = Math.floor((s % 3600) / 60);
+  const ss = Math.floor(s % 60);
+  if (hh > 0) return `${String(hh).padStart(2, "0")}:${String(mm).padStart(2, "0")}:${String(ss).padStart(2, "0")}`;
+  return `${String(mm).padStart(2, "0")}:${String(ss).padStart(2, "0")}`;
+}
+
+function setMsg(text) {
+  sideMsg.textContent = text || "";
+}
+
+function episodeKey(sourceId, episodeId) {
+  return `${sourceId}::${episodeId}`;
+}
+
+function getProgressSec(sourceId, episodeId) {
+  const k = episodeKey(sourceId, episodeId);
+  const v = state.progress?.[k];
+  return Number.isFinite(v) ? v : (Number.isFinite(v?.t) ? v.t : 0);
+}
+
+function setProgressSec(sourceId, episodeId, t) {
   state.progress ||= {};
-  state.progress[episodeKey(showId, epId)] = t;
-  state.last = { showId, epId, t, at: Date.now() };
+  state.progress[episodeKey(sourceId, episodeId)] = Math.max(0, t || 0);
+  state.last = { sourceId, episodeId, at: Date.now() };
   saveState();
 }
-function clearState(){
-  localStorage.removeItem(STORAGE_KEY);
-  location.hash = "";
-  location.reload();
-}
 
-function parseHash(){
-  const raw = location.hash.startsWith("#") ? location.hash.slice(1) : location.hash;
-  if (!raw) return null;
-  const params = new URLSearchParams(raw);
-  const showId = params.get("show");
-  const epId = params.get("ep");
-  const t = Number(params.get("t") || "0");
-  if (!showId || !epId) return null;
-  return { showId, epId, t: Number.isFinite(t) ? Math.max(0, t) : 0 };
-}
-
-function setHash(showId, epId, t){
-  const params = new URLSearchParams();
-  params.set("show", showId);
-  params.set("ep", epId);
-  if (Number.isFinite(t) && t > 0.25) params.set("t", String(Math.floor(t)));
-  location.hash = params.toString();
-}
-
-function mediaSession(show, ep){
-  if (!("mediaSession" in navigator)) return;
-  try{
-    navigator.mediaSession.metadata = new MediaMetadata({
-      title: ep.title,
-      artist: show.provider,
-      album: show.title,
-      artwork: [{ src: show.poster, sizes: "640x360", type: "image/svg+xml" }],
-    });
-    const seekHandler = (details) => {
-      if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
-      if (details.seekTime != null) video.currentTime = details.seekTime;
-    };
-    navigator.mediaSession.setActionHandler("play", () => video.play());
-    navigator.mediaSession.setActionHandler("pause", () => video.pause());
-    navigator.mediaSession.setActionHandler("seekbackward", () => video.currentTime -= 10);
-    navigator.mediaSession.setActionHandler("seekforward", () => video.currentTime += 30);
-    navigator.mediaSession.setActionHandler("seekto", seekHandler);
-  } catch {}
-}
-
-function renderShows(){
-  showsEl.innerHTML = "";
-  for (const show of CATALOG){
-    const el = document.createElement("div");
-    el.className = "show";
-    el.dataset.id = show.id;
-
-    const th = document.createElement("div");
-    th.className = "thumb";
-    th.style.backgroundImage = `url("${show.poster}")`;
-
-    const meta = document.createElement("div");
-    meta.className = "meta";
-    const t = document.createElement("p");
-    t.className = "t";
-    t.textContent = show.title;
-    const d = document.createElement("p");
-    d.className = "d";
-    d.textContent = `${show.provider} · ${show.episodes.length} ep · ${new URL(show.episodes[0].hls).host}`;
-    meta.append(t, d);
-
-    el.append(th, meta);
-    el.addEventListener("click", () => {
-      const ep = show.episodes[0];
-      loadEpisode(show.id, ep.id, { autoplay: true });
-    });
-
-    showsEl.appendChild(el);
-  }
-  syncActiveShow();
-}
-
-function syncActiveShow(){
-  $$(".show", showsEl).forEach(el => {
-    el.classList.toggle("active", currentShow && el.dataset.id === currentShow.id);
-  });
-}
-
-function renderRates(){
-  const rates = [0.75, 1, 1.25, 1.5, 1.75, 2];
-  selRate.innerHTML = "";
-  for (const r of rates){
-    const opt = document.createElement("option");
-    opt.value = String(r);
-    opt.textContent = r === 1 ? "1×" : `${r}×`;
-    selRate.appendChild(opt);
-  }
-  selRate.value = String(state.rate || 1);
-  video.playbackRate = Number(selRate.value) || 1;
-  selRate.addEventListener("change", () => {
-    const r = Number(selRate.value) || 1;
-    state.rate = r;
-    video.playbackRate = r;
-    saveState();
-    showToast(`${r}×`);
-  });
-}
-
-function resetQualityUI(disabledText="Quality"){
-  selQuality.innerHTML = "";
-  const opt = document.createElement("option");
-  opt.value = "";
-  opt.textContent = disabledText;
-  selQuality.appendChild(opt);
-  selQuality.value = "";
-  selQuality.disabled = true;
-}
-
-function applyQualityOptions(levels){
-  selQuality.innerHTML = "";
-  selQuality.disabled = false;
-
-  const auto = document.createElement("option");
-  auto.value = "-1";
-  auto.textContent = "Auto";
-  selQuality.appendChild(auto);
-
-  levels.forEach((lvl, idx) => {
-    const opt = document.createElement("option");
-    opt.value = String(idx);
-    const w = lvl?.width || 0;
-    const h = lvl?.height || 0;
-    const br = lvl?.bitrate ? Math.round(lvl.bitrate/1000) : null;
-    const label = (w && h) ? `${h}p` : `L${idx}`;
-    opt.textContent = br ? `${label} · ${br} kbps` : label;
-    selQuality.appendChild(opt);
-  });
-
-  const remembered = state.quality?.[currentShow.id]?.[currentEp.id];
-  selQuality.value = remembered != null ? String(remembered) : "-1";
-
-  selQuality.onchange = () => {
-    const v = Number(selQuality.value);
-    state.quality ||= {};
-    state.quality[currentShow.id] ||= {};
-    state.quality[currentShow.id][currentEp.id] = v;
-    saveState();
-    if (hls) hls.currentLevel = v;
-    showToast(v === -1 ? "Auto" : `Q${v}`);
-  };
-}
-
-function teardown(){
-  if (hls){
-    try { hls.destroy(); } catch {}
-    hls = null;
-  }
-  video.removeAttribute("src");
-  try { video.load(); } catch {}
-  resetQualityUI();
-  pillLive.style.display = "none";
-  btnLive.style.display = "none";
-  pillMode.textContent = "HLS";
-  setLeftMsg("", "");
-  statsMsg.textContent = "";
-}
-
-function computeIsLive(){
-  if (!currentEp) return false;
-  if (Number.isFinite(video.duration) && video.duration !== Infinity) return false;
-  if (hls && hls?.levels?.[0]?.details?.live) return true;
-  if (video.duration === Infinity) return true;
+function isProbablyHls(url, mime) {
+  const u = String(url || "").toLowerCase();
+  const t = String(mime || "").toLowerCase();
+  if (u.includes(".m3u8")) return true;
+  if (t.includes("application/vnd.apple.mpegurl")) return true;
+  if (t.includes("application/x-mpegurl")) return true;
   return false;
 }
 
-function renderEpisodePanel(){
-  if (!currentShow || !currentEp){
-    epPill.textContent = "—";
-    epSub.textContent = "—";
-    chaptersEl.innerHTML = "";
-    notesEl.innerHTML = "";
-    return;
-  }
-  epPill.textContent = currentEp.id;
-  epSub.innerHTML = `<span class="mono">${currentShow.provider}</span> · <a href="${currentShow.home}" target="_blank" rel="noreferrer">source</a> · <span class="mono">${new URL(currentEp.hls).host}</span>`;
+function isNativeHls() {
+  const can = video.canPlayType("application/vnd.apple.mpegurl") || video.canPlayType("application/x-mpegURL");
+  return can === "probably" || can === "maybe";
+}
 
-  notesEl.innerHTML = `
-    <p><b>${escapeHtml(currentEp.title)}</b></p>
-    <p class="muted">${escapeHtml(currentEp.notes || "")}</p>
-    <p class="muted mono">${escapeHtml(currentEp.hls)}</p>
-    <div class="divider" style="margin:12px 0"></div>
-    <p class="muted">
-      Stored progress: <span class="mono">${fmtTime(getProgress(currentShow.id, currentEp.id))}</span>
-    </p>
-    <p class="muted">Media Session set (if supported). Progress saved locally.</p>
-  `;
+function teardownPlayer() {
+  if (hls) {
+    try { hls.destroy(); } catch {}
+    hls = null;
+  }
+  video.pause();
+  video.removeAttribute("src");
+  try { video.load(); } catch {}
+}
+
+function normalizeWhitespace(s) {
+  return String(s ?? "").replace(/\s+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+}
+
+function sanitizeHtml(html) {
+  const doc = new DOMParser().parseFromString(String(html || ""), "text/html");
+  doc.querySelectorAll("script,style,iframe,object,embed,link,meta").forEach(n => n.remove());
+  doc.querySelectorAll("*").forEach(el => {
+    [...el.attributes].forEach(a => {
+      const n = a.name.toLowerCase();
+      if (n.startsWith("on")) el.removeAttribute(a.name);
+      if (n === "style") el.removeAttribute(a.name);
+    });
+    if (el.tagName === "A") {
+      el.setAttribute("target", "_blank");
+      el.setAttribute("rel", "noreferrer");
+    }
+  });
+  return doc.body.innerHTML;
+}
+
+function textFromXml(el) {
+  return el ? normalizeWhitespace(el.textContent || "") : "";
+}
+
+function attr(el, name) {
+  return el?.getAttribute?.(name) ?? "";
+}
+
+function parseTimeToSeconds(v) {
+  if (v == null) return null;
+  if (typeof v === "number" && Number.isFinite(v)) return Math.max(0, v);
+  const s = String(v).trim();
+  if (!s) return null;
+  if (/^\d+(\.\d+)?$/.test(s)) return Math.max(0, Number(s));
+  const parts = s.split(":").map(x => x.trim());
+  if (parts.length < 2 || parts.length > 3) return null;
+  const nums = parts.map(Number);
+  if (nums.some(n => !Number.isFinite(n))) return null;
+  const [a, b, c] = parts.length === 3 ? nums : [0, nums[0], nums[1]];
+  return Math.max(0, a * 3600 + b * 60 + c);
+}
+
+async function fetchText(url, fetchVia = "auto") {
+  const u = String(url || "");
+  const isRemote = /^https?:\/\//i.test(u);
+  const via = fetchVia === "auto" ? (isRemote ? "proxy" : "direct") : fetchVia;
+  const finalUrl = (via === "proxy" && isRemote) ? (FEED_PROXY + encodeURIComponent(u)) : u;
+  const res = await fetch(finalUrl, { cache: "no-store" });
+  if (!res.ok) throw new Error(`fetch ${res.status}`);
+  return await res.text();
+}
+
+function pickBestEnclosure(cands) {
+  const norm = cands
+    .map(c => ({
+      url: c.url || "",
+      type: (c.type || "").toLowerCase(),
+    }))
+    .filter(c => c.url);
+
+  const score = (c) => {
+    const u = c.url.toLowerCase();
+    const t = c.type;
+    let s = 0;
+    if (t.startsWith("video/")) s += 50;
+    if (u.includes(".m3u8")) s += 45;
+    if (u.match(/\.(mp4|m4v|mov|webm)(\?|$)/)) s += 40;
+    if (t.includes("mpegurl")) s += 35;
+    if (t.startsWith("audio/")) s += 5;
+    return s;
+  };
+
+  norm.sort((a, b) => score(b) - score(a));
+  return norm[0] || null;
+}
+
+function parseFeed(xmlText, source) {
+  let xml = new DOMParser().parseFromString(xmlText, "text/xml");
+  if (xml.querySelector("parsererror")) {
+    xml = new DOMParser().parseFromString(xmlText, "text/html");
+  }
+  const isAtom = !!xml.querySelector("feed > entry");
+
+  const channelTitle =
+    textFromXml(xml.querySelector("channel > title")) ||
+    textFromXml(xml.querySelector("feed > title")) ||
+    source.title ||
+    source.id;
+
+  const items = isAtom ? [...xml.querySelectorAll("feed > entry")] : [...xml.querySelectorAll("channel > item")];
+
+  const parsed = [];
+  const stats = {
+    itemCount: items.length,
+    enclosureCount: 0,
+    atomEnclosureCount: 0,
+    mediaContentCount: 0,
+    pscItems: 0,
+    podcastChaptersItems: 0,
+    mediaTypes: {},
+  };
+  let idx = 0;
+  for (const item of items) {
+    const title = textFromXml(item.querySelector("title")) || "(untitled)";
+    const guid = textFromXml(item.querySelector("guid")) || textFromXml(item.querySelector("id"));
+    const link =
+      attr(item.querySelector("link[rel='alternate']"), "href") ||
+      textFromXml(item.querySelector("link")) ||
+      attr(item.querySelector("link"), "href") ||
+      "";
+
+    const dateStr =
+      textFromXml(item.querySelector("pubDate")) ||
+      textFromXml(item.querySelector("published")) ||
+      textFromXml(item.querySelector("updated")) ||
+      "";
+    const date = dateStr ? new Date(dateStr) : null;
+
+    const desc =
+      textFromXml(item.querySelector("content\\:encoded")) ||
+      textFromXml(item.querySelector("description")) ||
+      textFromXml(item.querySelector("summary")) ||
+      "";
+
+    const enclosures = [];
+    if (isAtom) {
+      item.querySelectorAll("link[rel='enclosure']").forEach(l => {
+        enclosures.push({ url: attr(l, "href"), type: attr(l, "type") });
+      });
+      stats.atomEnclosureCount += item.querySelectorAll("link[rel='enclosure']").length;
+    } else {
+      item.querySelectorAll("enclosure").forEach(e => {
+        enclosures.push({ url: attr(e, "url"), type: attr(e, "type") });
+      });
+      stats.enclosureCount += item.querySelectorAll("enclosure").length;
+    }
+    item.querySelectorAll("media\\:content").forEach(m => {
+      enclosures.push({ url: attr(m, "url"), type: attr(m, "type") });
+    });
+    stats.mediaContentCount += item.querySelectorAll("media\\:content").length;
+
+    const media = pickBestEnclosure(enclosures);
+
+    const psc = item.querySelector("psc\\:chapters");
+    if (psc) stats.pscItems += 1;
+    const pscChapters = psc
+      ? [...psc.querySelectorAll("psc\\:chapter")].map(ch => ({
+          t: parseTimeToSeconds(attr(ch, "start")),
+          name: attr(ch, "title") || textFromXml(ch) || "Chapter",
+        })).filter(c => Number.isFinite(c.t))
+      : [];
+
+    const podcastChapters = item.querySelector("podcast\\:chapters");
+    if (podcastChapters) stats.podcastChaptersItems += 1;
+    const podcastChaptersUrl = podcastChapters ? attr(podcastChapters, "url") : "";
+    const podcastChaptersType = podcastChapters ? (attr(podcastChapters, "type") || "application/json") : "";
+
+    idx += 1;
+    const id = (guid || media?.url || link || `${title}#${idx}`).slice(0, 240);
+
+    if (media?.type) stats.mediaTypes[media.type] = (stats.mediaTypes[media.type] || 0) + 1;
+    parsed.push({
+      id,
+      title,
+      link,
+      date,
+      dateText: (date && !Number.isNaN(date.valueOf())) ? date.toISOString().slice(0, 10) : "",
+      description: desc,
+      channelTitle,
+      media: media?.url ? { url: media.url, type: media.type || "" } : null,
+      chaptersInline: pscChapters.length ? pscChapters : null,
+      chaptersExternal: podcastChaptersUrl ? { url: podcastChaptersUrl, type: podcastChaptersType } : null,
+    });
+  }
+
+  return { channelTitle, episodes: parsed, stats };
+}
+
+function renderSources() {
+  feedSelect.innerHTML = "";
+  const groups = new Map();
+  for (const s of sources) {
+    const cat = s.category || "other";
+    if (!groups.has(cat)) groups.set(cat, []);
+    groups.get(cat).push(s);
+  }
+  const order = ["church", "university", "fitness", "bible", "other", "needs-rss"];
+  const cats = [...groups.keys()].sort((a, b) => (order.indexOf(a) - order.indexOf(b)) || a.localeCompare(b));
+  for (const cat of cats) {
+    const og = document.createElement("optgroup");
+    og.label = cat;
+    const list = groups.get(cat).slice().sort((a, b) => (a.title || a.id).localeCompare(b.title || b.id));
+    for (const s of list) {
+      const opt = document.createElement("option");
+      opt.value = s.id;
+      opt.textContent = s.title || s.id;
+      og.appendChild(opt);
+    }
+    feedSelect.appendChild(og);
+  }
+}
+
+function renderEpisodes() {
+  episodesEl.innerHTML = "";
+  for (const ep of episodes) {
+    const el = document.createElement("div");
+    el.className = "ep";
+    el.dataset.id = ep.id;
+    el.classList.toggle("disabled", !ep.media?.url);
+
+    const t = document.createElement("p");
+    t.className = "epTitle";
+    t.textContent = ep.title;
+
+    const sub = document.createElement("div");
+    sub.className = "epSub";
+
+    const left = document.createElement("div");
+    left.textContent = ep.dateText || "";
+
+    const p = getProgressSec(currentSource.id, ep.id);
+    const right = document.createElement("div");
+    right.className = "mono";
+    right.textContent = ep.media?.url ? (p > 1 ? fmtTime(p) : "") : "no media";
+
+    sub.append(left, right);
+    el.append(t, sub);
+
+    el.addEventListener("click", () => loadEpisode(ep.id, { autoplay: true }));
+    episodesEl.appendChild(el);
+  }
+  syncActiveEpisode();
+}
+
+function syncActiveEpisode() {
+  [...episodesEl.querySelectorAll(".ep")].forEach(el => {
+    el.classList.toggle("active", !!currentEp && el.dataset.id === currentEp.id);
+  });
+}
+
+async function loadSource(sourceId, { preserveEpisode = true } = {}) {
+  const src = sources.find(s => s.id === sourceId) || sources[0];
+  if (!src) return;
+
+  currentSource = src;
+  setMsg("Loading feed…");
+  episodesEl.innerHTML = "";
+  chaptersEl.innerHTML = "";
+  chaptersMeta.textContent = "—";
+
+  try {
+    dbg("loadSource", { id: src.id, title: src.title, category: src.category, feed_url: src.feed_url, fetch_via: src.fetch_via });
+    const xmlText = await fetchText(src.feed_url, src.fetch_via || "auto");
+    const parsed = parseFeed(xmlText, src);
+    episodes = parsed.episodes;
+    const playable = episodes.filter(e => e.media?.url).length;
+    setMsg(`${parsed.channelTitle} · ${playable}/${episodes.length} playable`);
+    renderEpisodes();
+    dbg("feedParsed", { id: src.id, channelTitle: parsed.channelTitle, playable, total: episodes.length, stats: parsed.stats });
+
+    const wanted =
+      state.lastBySource?.[src.id] ||
+      (preserveEpisode && state.last?.sourceId === src.id ? state.last?.episodeId : null) ||
+      episodes[0]?.id ||
+      null;
+    if (wanted) await loadEpisode(wanted, { autoplay: false });
+  } catch (e) {
+    episodes = [];
+    setMsg(`Couldn't load feed: ${String(e?.message || e)}`);
+    dbg("loadSourceError", { id: src.id, err: String(e?.message || e) });
+  }
+}
+
+async function loadEpisode(episodeId, { autoplay = false } = {}) {
+  const ep = episodes.find(e => e.id === episodeId) || episodes[0];
+  if (!ep) return;
+
+  teardownPlayer();
+  currentEp = ep;
+  state.last = { sourceId: currentSource.id, episodeId: ep.id, at: Date.now() };
+  state.lastBySource ||= {};
+  state.lastBySource[currentSource.id] = ep.id;
+  saveState();
+  syncActiveEpisode();
+
+  hudTitle.textContent = ep.title;
+  epTitle.textContent = ep.title;
+  epSub.textContent = `${ep.channelTitle || currentSource.title || currentSource.id}${ep.dateText ? " · " + ep.dateText : ""}`;
+
+  const cleanDesc = ep.description ? sanitizeHtml(ep.description) : "";
+  epDesc.innerHTML = cleanDesc || "";
 
   chaptersEl.innerHTML = "";
-  (currentEp.chapters || []).forEach((c, idx) => {
+  chaptersMeta.textContent = "—";
+
+  if (!ep.media?.url) {
+    setMsg("No media URL found for this episode.");
+    dbg("loadEpisode:noMedia", { sourceId: currentSource.id, episodeId: ep.id, title: ep.title });
+    await loadAndRenderChapters(ep);
+    updateButtons();
+    return;
+  }
+
+  const mediaUrl = ep.media.url;
+  const mediaType = ep.media.type || "";
+
+  const shouldUseHls = isProbablyHls(mediaUrl, mediaType);
+  const usingNative = shouldUseHls && isNativeHls();
+  const usingHlsJs = shouldUseHls && !usingNative && window.Hls && Hls.isSupported();
+
+  const startAt = getProgressSec(currentSource.id, ep.id) || 0;
+  dbg("loadEpisode", {
+    sourceId: currentSource.id,
+    episodeId: ep.id,
+    title: ep.title,
+    mediaUrl,
+    mediaType,
+    shouldUseHls,
+    usingNative,
+    usingHlsJs,
+    startAt,
+    chaptersInline: ep.chaptersInline?.length || 0,
+    chaptersExternal: ep.chaptersExternal?.url || null,
+  });
+
+  if (shouldUseHls && !usingNative && !usingHlsJs) {
+    setMsg("This episode is HLS, but HLS isn't supported here.");
+    return;
+  }
+
+  if (usingNative) {
+    video.src = mediaUrl;
+  } else if (usingHlsJs) {
+    hls = new Hls({ enableWorker: true });
+    hls.on(Hls.Events.ERROR, (_evt, data) => {
+      if (data?.fatal) setMsg(`HLS error: ${data?.type || "fatal"}`);
+    });
+    hls.loadSource(mediaUrl);
+    hls.attachMedia(video);
+  } else {
+    video.src = mediaUrl;
+  }
+
+  video.addEventListener("loadedmetadata", () => {
+    const dur = video.duration;
+    if (Number.isFinite(dur) && dur > 2) {
+      const safe = (startAt > dur - 20) ? 0 : clamp(startAt, 0, Math.max(0, dur - 0.25));
+      if (safe > 0.25) video.currentTime = safe;
+    }
+    updateHud();
+    if (autoplay) video.play().catch(() => {});
+  }, { once: true });
+
+  await loadAndRenderChapters(ep);
+  updateButtons();
+}
+
+async function loadAndRenderChapters(ep) {
+  const inline = ep.chaptersInline;
+  if (inline?.length) {
+    renderChapters(inline);
+    chaptersMeta.textContent = `${inline.length}`;
+    dbg("chapters:inline", { sourceId: currentSource?.id, episodeId: ep.id, count: inline.length });
+    return;
+  }
+
+  const ext = ep.chaptersExternal;
+  if (!ext?.url) {
+    chaptersEl.innerHTML = "";
+    chaptersMeta.textContent = "—";
+    dbg("chapters:none", { sourceId: currentSource?.id, episodeId: ep.id });
+    return;
+  }
+
+  chaptersMeta.textContent = "loading…";
+  try {
+    dbg("chapters:external:fetch", { sourceId: currentSource?.id, episodeId: ep.id, url: ext.url, type: ext.type });
+    const txt = await fetchText(ext.url, currentSource.fetch_via || "auto");
+    const data = JSON.parse(txt);
+    const chs = Array.isArray(data?.chapters) ? data.chapters : [];
+    const parsed = chs
+      .map((c) => {
+        const t = parseTimeToSeconds(c.startTime ?? c.start ?? c.t ?? c.time);
+        const name = String(c.title ?? c.name ?? c.text ?? "Chapter");
+        return { t, name };
+      })
+      .filter(c => Number.isFinite(c.t))
+      .sort((a, b) => a.t - b.t);
+
+    renderChapters(parsed);
+    chaptersMeta.textContent = `${parsed.length}`;
+    dbg("chapters:external:ok", { sourceId: currentSource?.id, episodeId: ep.id, count: parsed.length });
+  } catch {
+    chaptersEl.innerHTML = "";
+    chaptersMeta.textContent = "—";
+    dbg("chapters:external:error", { sourceId: currentSource?.id, episodeId: ep.id, url: ext.url });
+  }
+}
+
+function renderChapters(chapters) {
+  chaptersEl.innerHTML = "";
+  chapters.forEach((c, idx) => {
     const el = document.createElement("div");
     el.className = "ch";
     el.dataset.idx = String(idx);
-    el.innerHTML = `<div class="name">${escapeHtml(c.name)}</div><div class="t">${fmtTime(c.t)}</div>`;
+    el.dataset.t = String(c.t);
+
+    const name = document.createElement("div");
+    name.className = "chName";
+    name.textContent = c.name || "Chapter";
+
+    const time = document.createElement("div");
+    time.className = "chTime";
+    time.textContent = fmtTime(c.t);
+
+    el.append(name, time);
     el.addEventListener("click", () => {
-      if (!Number.isFinite(video.duration) || video.duration === Infinity) {
-        showToast("Live stream");
-        return;
-      }
-      video.currentTime = clamp(c.t, 0, Math.max(0, video.duration - 0.2));
-      video.play().catch(()=>{});
+      if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
+      video.currentTime = clamp(c.t, 0, Math.max(0, video.duration - 0.25));
+      video.play().catch(() => {});
     });
     chaptersEl.appendChild(el);
   });
 }
 
-function escapeHtml(s){
-  return String(s ?? "").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-}
-
-async function loadEpisode(showId, epId, { autoplay=false, startAt=null } = {}){
-  const show = CATALOG.find(s => s.id === showId);
-  if (!show) return;
-  const ep = show.episodes.find(e => e.id === epId) || show.episodes[0];
-  if (!ep) return;
-
-  teardown();
-  currentShow = show;
-  currentEp = ep;
-  syncActiveShow();
-
-  nowTitle.textContent = ep.title;
-  nowProvider.textContent = show.provider;
-
-  renderEpisodePanel();
-  mediaSession(show, ep);
-
-  state.last ||= {};
-  state.last.showId = showId;
-  state.last.epId = ep.id;
-  saveState();
-
-  const url = ep.hls;
-
-  const usingNative = isNativeHls();
-  const usingHlsJs = !usingNative && window.Hls && Hls.isSupported();
-
-  envPill.textContent = usingNative ? "native HLS" : (usingHlsJs ? "hls.js" : "no hls");
-  pillMode.textContent = usingNative ? "native" : (usingHlsJs ? "hls.js" : "none");
-
-  if (!usingNative && !usingHlsJs){
-    setLeftMsg("err", "No HLS support in this browser. Try Safari, or a modern Chromium/Firefox with hls.js allowed.");
-    return;
-  }
-
-  // visuals (audio-only mode toggles object-fit + background vibe)
-  applyAudioOnly(false);
-
-  const desiredStart = (startAt != null ? startAt : getProgress(showId, ep.id)) || 0;
-
-  if (usingNative){
-    video.src = url;
-    video.addEventListener("loadedmetadata", () => {
-      const live = computeIsLive();
-      pillLive.style.display = live ? "inline-flex" : "none";
-      btnLive.style.display = live ? "inline-flex" : "none";
-
-      if (!live && Number.isFinite(video.duration)){
-        const t = clamp(desiredStart, 0, Math.max(0, video.duration - 0.25));
-        if (t > 0.25) video.currentTime = t;
-      }
-      if (autoplay) video.play().catch(()=>{});
-    }, { once:true });
-
-    resetQualityUI("Quality (native)");
-    setLeftMsg("ok", "Loaded via native HLS. Quality menu depends on browser.");
-  } else {
-    const cfg = {
-      enableWorker: true,
-      lowLatencyMode: true,
-      backBufferLength: 30,
-      maxBufferLength: 30,
-      maxMaxBufferLength: 60,
-    };
-    hls = new Hls(cfg);
-
-    hls.on(Hls.Events.ERROR, (evt, data) => {
-      const msg = data?.details ? `${data.type} · ${data.details}` : (data?.type || "error");
-      setLeftMsg("err", `HLS error: ${msg}`);
-      if (data?.fatal){
-        try{
-          if (data.type === Hls.ErrorTypes.NETWORK_ERROR){
-            hls.startLoad();
-          } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR){
-            hls.recoverMediaError();
-          } else {
-            hls.destroy();
-          }
-        } catch {}
-      }
-    });
-
-    hls.on(Hls.Events.MANIFEST_PARSED, () => {
-      applyQualityOptions(hls.levels || []);
-      setLeftMsg("ok", "Loaded via hls.js. Quality menu is active.");
-      if (autoplay) video.play().catch(()=>{});
-    });
-
-    hls.on(Hls.Events.LEVEL_SWITCHED, () => {
-      const lvl = hls.levels?.[hls.currentLevel];
-      if (lvl){
-        const label = lvl.height ? `${lvl.height}p` : `L${hls.currentLevel}`;
-        statsMsg.textContent = `level: ${label}`;
-      } else {
-        statsMsg.textContent = `level: auto`;
-      }
-    });
-
-    hls.on(Hls.Events.LEVEL_LOADED, () => {
-      const live = computeIsLive();
-      pillLive.style.display = live ? "inline-flex" : "none";
-      btnLive.style.display = live ? "inline-flex" : "none";
-    });
-
-    hls.loadSource(url);
-    hls.attachMedia(video);
-
-    // resume once duration is known (for VOD)
-    const resumeOnce = () => {
-      const live = computeIsLive();
-      if (!live && Number.isFinite(video.duration) && video.duration > 1){
-        const t = clamp(desiredStart, 0, Math.max(0, video.duration - 0.25));
-        if (t > 0.25) video.currentTime = t;
-      }
-    };
-    video.addEventListener("loadedmetadata", resumeOnce, { once:true });
-  }
-
-  setHash(showId, ep.id, desiredStart);
-  updateButtons();
-  renderEpisodePanel();
-}
-
-function updateButtons(){
-  btnPlay.textContent = video.paused ? "Play" : "Pause";
-  btnPip.disabled = !document.pictureInPictureEnabled || !video;
-  btnAudioOnly.textContent = isAudioOnly ? "Video" : "Audio-only";
-}
-
-function applyAudioOnly(on){
-  isAudioOnly = on;
-  if (on){
-    video.style.objectFit = "contain";
-    video.style.filter = "brightness(.85) saturate(.9)";
-    video.style.opacity = "0.0001";
-    video.style.pointerEvents = "none";
-    video.parentElement.style.background =
-      `radial-gradient(900px 420px at 30% 20%, rgba(138,180,248,.20), transparent 58%),
-       radial-gradient(800px 400px at 75% 70%, rgba(126,231,135,.14), transparent 55%),
-       #05060a`;
-  } else {
-    video.style.opacity = "1";
-    video.style.pointerEvents = "auto";
-    video.style.filter = "none";
-    video.parentElement.style.background = "#05060a";
-  }
-  updateButtons();
-}
-
-function activeChapterIdx(){
-  if (!currentEp?.chapters?.length) return -1;
+function activeChapterIdx() {
+  const ch = [...chaptersEl.querySelectorAll(".ch")];
+  if (!ch.length) return -1;
   const t = video.currentTime || 0;
-  let idx = 0;
-  for (let i=0;i<currentEp.chapters.length;i++){
-    if (currentEp.chapters[i].t <= t + 0.001) idx = i;
+  let idx = -1;
+  for (let i = 0; i < ch.length; i++) {
+    const ct = Number(ch[i].dataset.t);
+    if (Number.isFinite(ct) && ct <= t + 0.01) idx = i;
   }
   return idx;
 }
 
-function syncChapters(){
+function syncActiveChapter() {
   const idx = activeChapterIdx();
-  $$(".ch", chaptersEl).forEach(el => el.classList.toggle("active", Number(el.dataset.idx) === idx));
+  [...chaptersEl.querySelectorAll(".ch")].forEach((el) => {
+    el.classList.toggle("active", Number(el.dataset.idx) === idx);
+  });
 }
 
-function bufferedRanges(){
-  try{
-    const b = video.buffered;
-    if (!b || b.length === 0) return "—";
-    const parts = [];
-    for (let i=0;i<b.length;i++){
-      parts.push(`[${fmtTime(b.start(i))}..${fmtTime(b.end(i))}]`);
-    }
-    return parts.join(" ");
-  } catch {
-    return "—";
-  }
+function updateButtons() {
+  btnPlay.textContent = video.paused ? "Play" : "Pause";
 }
 
-function updateStats(){
-  if (!currentShow || !currentEp) return;
-  const live = computeIsLive();
-  const dur = live ? "∞" : fmtTime(video.duration || 0);
-  const ct = fmtTime(video.currentTime || 0);
-  const res = `${video.videoWidth || 0}x${video.videoHeight || 0}`;
-  statsNow.textContent =
-`show: ${currentShow.id}
-ep:   ${currentEp.id}
-time: ${ct} / ${dur}
-res:  ${res}
-rate: ${video.playbackRate.toFixed(2)}x
-muted:${video.muted ? "yes" : "no"}
-live: ${live ? "yes" : "no"}`;
-
-  const q = (() => {
-    try {
-      const pq = video.getVideoPlaybackQuality?.();
-      if (!pq) return "—";
-      return `dropped: ${pq.droppedVideoFrames} / total: ${pq.totalVideoFrames}`;
-    } catch { return "—"; }
-  })();
-
-  let h = "—";
-  if (hls){
-    const est = hls.bandwidthEstimate ? Math.round(hls.bandwidthEstimate/1000) : null;
-    const cur = (hls.currentLevel ?? -1);
-    const next = (hls.nextLevel ?? -1);
-    const lvl = hls.levels?.[cur];
-    const lbl = cur === -1 ? "auto" : (lvl?.height ? `${lvl.height}p` : `L${cur}`);
-    h =
-`player: hls.js
-level:  ${lbl}
-next:   ${next}
-bw:     ${est ? est + " kbps" : "—"}
-tracks: ${hls.audioTracks?.length ?? 0}
-${q}`;
-  } else {
-    h =
-`player: native
-quality: (browser-managed)
-${q}`;
-  }
-  statsTech.textContent = h;
-  statsBuf.textContent = bufferedRanges();
-}
-
-function tickUI(){
-  if (!currentShow || !currentEp) return;
-
-  const live = computeIsLive();
-  pillLive.style.display = live ? "inline-flex" : "none";
-  btnLive.style.display = live ? "inline-flex" : "none";
-
+function updateHud() {
   const ct = video.currentTime || 0;
   const dur = video.duration;
+  const live = !Number.isFinite(dur) || dur === Infinity;
+  hudTime.textContent = live ? fmtTime(ct) : `${fmtTime(ct)} / ${fmtTime(dur || 0)}`;
 
-  timeL.textContent = fmtTime(ct);
-  timeR.textContent = live ? "LIVE" : fmtTime(dur || 0);
-
-  if (!isSeeking){
-    if (!live && Number.isFinite(dur) && dur > 0.3){
-      const v = Math.round((ct / dur) * 1000);
-      seek.value = String(clamp(v, 0, 1000));
-    } else {
-      seek.value = "0";
-    }
+  if (!live && Number.isFinite(dur) && dur > 0.2) {
+    const pct = clamp(ct / dur, 0, 1) * 100;
+    progressFill.style.width = `${pct}%`;
+  } else {
+    progressFill.style.width = "0%";
   }
+}
 
-  syncChapters();
+function tick() {
+  if (!currentSource || !currentEp) return;
   updateButtons();
-  updateStats();
+  updateHud();
+  syncActiveChapter();
+
+  const dur = video.duration;
+  const live = !Number.isFinite(dur) || dur === Infinity;
+  if (live) return;
 
   const now = performance.now();
-  if (!live && currentShow && currentEp && now - lastPersistAt > 1100){
-    lastPersistAt = now;
-    if (Number.isFinite(dur) && dur > 10 && ct > 0.5 && ct < dur - 1.5){
-      setProgress(currentShow.id, currentEp.id, ct);
-      setHash(currentShow.id, currentEp.id, ct);
-    }
+  if (now - lastPersistMs < 1000) return;
+  lastPersistMs = now;
+
+  const ct = video.currentTime || 0;
+  if (Number.isFinite(dur) && dur > 10 && ct > 0.5 && ct < dur - 1.5) {
+    setProgressSec(currentSource.id, currentEp.id, ct);
   }
 }
 
-function hookTabs(){
-  $$(".tab").forEach(tab => {
-    tab.addEventListener("click", () => {
-      $$(".tab").forEach(t => t.classList.remove("active"));
-      tab.classList.add("active");
-      const which = tab.dataset.tab;
-      $("#paneChapters").style.display = which === "chapters" ? "" : "none";
-      $("#paneNotes").style.display = which === "notes" ? "" : "none";
-      $("#paneStats").style.display = which === "stats" ? "" : "none";
-    });
-  });
-}
-
-function wireControls(){
+function wireUI() {
   btnPlay.addEventListener("click", () => {
-    if (video.paused) video.play().catch(()=>{});
+    if (video.paused) video.play().catch(() => {});
     else video.pause();
   });
-
-  btnBack.addEventListener("click", () => {
-    if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
-    video.currentTime = Math.max(0, (video.currentTime || 0) - 10);
-  });
-
-  btnFwd.addEventListener("click", () => {
-    if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
-    const dur = video.duration || 0;
-    video.currentTime = Math.min(dur - 0.25, (video.currentTime || 0) + 30);
-  });
-
-  btnLive.addEventListener("click", () => {
-    if (!hls) return;
-    try {
-      const d = hls?.levels?.[hls.currentLevel]?.details || hls?.levels?.[0]?.details;
-      if (d?.live){
-        // best effort: seek to the end of buffer
-        try{
-          const b = video.buffered;
-          if (b && b.length) video.currentTime = b.end(b.length - 1) - 0.2;
-        } catch {}
-      }
-    } catch {}
-    showToast("Live");
-  });
-
-  btnFs.addEventListener("click", async () => {
-    try{
-      if (document.fullscreenElement) await document.exitFullscreen();
-      else await $(".playerWrap").requestFullscreen();
-    } catch {}
-  });
-
-  btnPip.addEventListener("click", async () => {
-    try{
-      if (document.pictureInPictureElement) {
-        await document.exitPictureInPicture();
-      } else {
-        await video.requestPictureInPicture();
-      }
-    } catch {}
-  });
-
-  btnAudioOnly.addEventListener("click", () => {
-    applyAudioOnly(!isAudioOnly);
-  });
-
-  btnShare.addEventListener("click", async () => {
-    if (!currentShow || !currentEp) return;
-    const t = Math.floor(video.currentTime || 0);
-    const url = new URL(location.href);
-    url.hash = "";
-    url.hash = new URLSearchParams({ show: currentShow.id, ep: currentEp.id, t: String(t) }).toString();
-    await copyText(url.toString());
-  });
-
-  seek.addEventListener("input", () => {
-    if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
-    isSeeking = true;
-    const dur = video.duration || 0;
-    const pct = Number(seek.value) / 1000;
-    const t = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
-    timeL.textContent = fmtTime(t);
-  });
-
-  seek.addEventListener("change", () => {
-    if (!Number.isFinite(video.duration) || video.duration === Infinity) {
-      isSeeking = false;
-      return;
-    }
-    const dur = video.duration || 0;
-    const pct = Number(seek.value) / 1000;
-    const t = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
-    video.currentTime = t;
-    isSeeking = false;
-  });
-
+  video.addEventListener("click", () => btnPlay.click());
   video.addEventListener("play", updateButtons);
   video.addEventListener("pause", updateButtons);
-  video.addEventListener("timeupdate", () => { /* tickUI handles persist */ });
-  video.addEventListener("loadedmetadata", () => {
-    if (!Number.isFinite(video.duration) || video.duration === Infinity) {
-      resetQualityUI(hls ? "Quality" : "Quality (native)");
-    }
+
+  progress.addEventListener("click", (e) => {
+    const dur = video.duration;
+    if (!Number.isFinite(dur) || dur === Infinity || dur <= 0.2) return;
+    const r = progress.getBoundingClientRect();
+    const pct = clamp((e.clientX - r.left) / Math.max(1, r.width), 0, 1);
+    video.currentTime = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
+  });
+
+  feedSelect.addEventListener("change", () => {
+    loadSource(feedSelect.value, { preserveEpisode: true });
   });
 
   document.addEventListener("keydown", (e) => {
     if (e.target && (e.target.tagName === "INPUT" || e.target.tagName === "SELECT" || e.target.isContentEditable)) return;
-
     const k = e.key.toLowerCase();
-    if (k === " "){
+    if (k === " ") {
       e.preventDefault();
-      if (video.paused) video.play().catch(()=>{});
-      else video.pause();
+      btnPlay.click();
     }
-    if (k === "arrowleft"){
+    if (k === "arrowleft") {
       e.preventDefault();
       if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
       video.currentTime = Math.max(0, (video.currentTime || 0) - (e.shiftKey ? 20 : 5));
     }
-    if (k === "arrowright"){
+    if (k === "arrowright") {
       e.preventDefault();
       if (!Number.isFinite(video.duration) || video.duration === Infinity) return;
       const dur = video.duration || 0;
       video.currentTime = Math.min(dur - 0.25, (video.currentTime || 0) + (e.shiftKey ? 20 : 5));
     }
-    if (k === "f"){
+    if (k === "f") {
       e.preventDefault();
-      btnFs.click();
+      try {
+        const wrap = $(".player");
+        if (document.fullscreenElement) document.exitFullscreen();
+        else wrap.requestFullscreen?.();
+      } catch {}
     }
-    if (k === "p"){
-      e.preventDefault();
-      btnPip.click();
-    }
-    if (k === "m"){
+    if (k === "m") {
       e.preventDefault();
       video.muted = !video.muted;
-      showToast(video.muted ? "Muted" : "Unmuted");
-    }
-    if (k === "]" || k === "="){
-      e.preventDefault();
-      const r = clamp((video.playbackRate || 1) + 0.25, 0.5, 3);
-      video.playbackRate = r;
-      selRate.value = String(r);
-      state.rate = r;
-      saveState();
-      showToast(`${r}×`);
-    }
-    if (k === "[" || k === "-"){
-      e.preventDefault();
-      const r = clamp((video.playbackRate || 1) - 0.25, 0.5, 3);
-      video.playbackRate = r;
-      selRate.value = String(r);
-      state.rate = r;
-      saveState();
-      showToast(`${r}×`);
     }
   });
 }
 
-function wireCustom(){
-  btnAddCustom.addEventListener("click", async () => {
-    const url = prompt("Paste a .m3u8 URL (must allow CORS):");
-    if (!url) return;
+async function boot() {
+  wireUI();
+  setMsg("Loading sources…");
 
-    const id = "custom_" + Math.random().toString(16).slice(2);
-    const show = {
-      id,
-      title: "Vodcast: custom",
-      provider: "Custom",
-      home: location.href,
-      poster: svgPoster("Custom", "#8ab4f8", "#ff7b72"),
-      episodes: [
-        {
-          id: "custom_ep",
-          title: "Episode 1 · custom URL",
-          hls: url.trim(),
-          notes: "User-supplied stream.",
-          chapters: [
-            { t: 0, name: "Start" },
-            { t: 30, name: "Chapter 2" },
-            { t: 60, name: "Chapter 3" },
-            { t: 120, name: "Chapter 4" },
-          ],
-        },
-      ],
-    };
+  try {
+    const txt = await fetchText(SOURCES_URL, "direct");
+    const data = JSON.parse(txt);
+    sources = (data?.sources || []).filter(s => s && typeof s === "object").map(s => ({
+      id: String(s.id || "").trim(),
+      title: String(s.title || "").trim(),
+      category: String(s.category || "other").trim() || "other",
+      feed_url: String(s.feed_url || s.feed || "").trim(),
+      fetch_via: s.fetch_via || "auto",
+    })).filter(s => s.id && s.feed_url);
+  } catch (e) {
+    sources = [];
+    setMsg(`Couldn't load ${SOURCES_URL}. If you're on file://, use a local http server.`);
+    return;
+  }
 
-    CATALOG.unshift(show);
-    renderShows();
-    setLeftMsg("ok", "Added custom stream to the top.");
-    await loadEpisode(show.id, show.episodes[0].id, { autoplay: true, startAt: 0 });
-  });
+  if (!sources.length) {
+    setMsg("No sources found in video-sources.json");
+    return;
+  }
 
-  btnReset.addEventListener("click", () => {
-    if (confirm("Reset local progress + settings?")) clearState();
-  });
-}
+  renderSources();
+  const lastSource = sources.find(s => s.id === state.last?.sourceId)?.id;
+  const initial = lastSource || sources[0].id;
+  feedSelect.value = initial;
+  await loadSource(initial, { preserveEpisode: true });
 
-function boot(){
-  renderShows();
-  renderRates();
-  resetQualityUI();
-
-  hookTabs();
-  wireControls();
-  wireCustom();
-
-  const fromHash = parseHash();
-  const last = state.last;
-
-  const showId = fromHash?.showId || last?.showId || CATALOG[0].id;
-  const epId = fromHash?.epId || last?.epId || CATALOG.find(s=>s.id===showId)?.episodes?.[0]?.id;
-  const startAt = fromHash?.t ?? null;
-
-  loadEpisode(showId, epId, { autoplay: false, startAt });
-
-  setInterval(tickUI, 250);
+  setInterval(tick, 250);
 }
 
 boot();
