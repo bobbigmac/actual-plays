@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"6ff5b53917aa8ea57954f2f28e8f72c4"`
-- last_modified: `Tue, 17 Feb 2026 16:26:27 GMT`
+- fetched_at: `2026-02-24T16:16:09+00:00`
+- checked_at: `2026-02-24T16:16:09+00:00`
+- etag: `"d092f3aa2e57dd05e46a572422f88d5b"`
+- last_modified: `Tue, 24 Feb 2026 14:00:13 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T16:16:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "99c8721c398e886e1f170fd90c8c988328ee9add",
+      "title": "Ep9 | Delta Green: Puppet Shows and Shadow Plays - Black Eagle",
+      "published_at": "2026-02-24T14:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2555503",
+      "description": "With their best lead now dead in a trunk, the team turns their attention to the old mine and prepares for what they will find there. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2555503/green-box-gaming/2026_02_17_16_26_22_2a354fed-74fc-4845-b67a-55f1fe4f99c0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82352168",
+      "itunes_duration": "5146",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays",
+        "black",
+        "eagle"
+      ]
+    },
     {
       "key": "40fc952e16a99441f3dd028fae6e04d47af1ee99",
       "title": "Ep8 | Delta Green: Puppet Shows and Shadow Plays - Coming to a Head",
@@ -37,7 +60,12 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95349027",
       "itunes_duration": "5959",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays",
+        "Head Something"
+      ],
       "topics": [
         "delta",
         "green",
@@ -120,9 +148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74900374",
       "itunes_duration": "4681",
-      "speakers": [
-        "Polo Marco"
-      ],
+      "speakers": [],
       "topics": [
         "holiday",
         "oneshot"
@@ -139,7 +165,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93086196",
       "itunes_duration": "5817",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays"
+      ],
       "topics": [
         "delta",
         "green",
@@ -162,7 +192,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74606549",
       "itunes_duration": "4662",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays"
+      ],
       "topics": [
         "delta",
         "green",
@@ -227,7 +261,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95520808",
       "itunes_duration": "5969",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Puppet Shows",
+        "Shadow Plays"
+      ],
       "topics": [
         "delta",
         "green",
@@ -289,7 +327,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42360162",
       "itunes_duration": "2647",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -308,7 +348,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66207659",
       "itunes_duration": "4137",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -327,7 +369,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101895940",
       "itunes_duration": "6368",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Out Agents"
+      ],
       "topics": [
         "delta",
         "green",
@@ -345,7 +390,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82691551",
       "itunes_duration": "5168",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Do Not Disturb Agents"
+      ],
       "topics": [
         "delta",
         "green",
@@ -363,7 +411,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71061419",
       "itunes_duration": "4441",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -382,7 +432,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69084472",
       "itunes_duration": "4317",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "New Vessel"
+      ],
       "topics": [
         "delta",
         "green",
@@ -401,7 +454,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66924459",
       "itunes_duration": "4182",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -419,7 +474,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53886222",
       "itunes_duration": "3367",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -438,7 +495,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72014784",
       "itunes_duration": "4500",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green",
@@ -707,8 +766,9 @@
       "enclosure_length": "63439933",
       "itunes_duration": "3964",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Delta Green",
+        "Impossible Landscapes",
+        "Agent June"
       ],
       "topics": [
         "delta",
@@ -731,9 +791,7 @@
       "enclosure_length": "59327215",
       "itunes_duration": "3707",
       "speakers": [
-        "Impossible Landscapes Calm",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Calm"
       ],
       "topics": [
         "delta",
@@ -777,7 +835,7 @@
       "enclosure_length": "63961546",
       "itunes_duration": "3997",
       "speakers": [
-        "Pocket Casts",
+        "Delta Green",
         "Impossible Landscapes"
       ],
       "topics": [
@@ -799,9 +857,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76140041",
       "itunes_duration": "4758",
-      "speakers": [
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -819,9 +875,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55204883",
       "itunes_duration": "3450",
-      "speakers": [
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -840,9 +894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43175182",
       "itunes_duration": "2698",
-      "speakers": [
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -861,9 +913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59951646",
       "itunes_duration": "3746",
-      "speakers": [
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -883,7 +933,9 @@
       "enclosure_length": "74830575",
       "itunes_duration": "4676",
       "speakers": [
-        "Impossible Landscapes"
+        "Delta Green",
+        "Like Some Det Cord",
+        "Wind So"
       ],
       "topics": [
         "delta",
@@ -905,7 +957,9 @@
       "enclosure_length": "60173164",
       "itunes_duration": "3760",
       "speakers": [
-        "Impossible Landscapes"
+        "Delta Green",
+        "Age Against",
+        "Machine Unexpected"
       ],
       "topics": [
         "delta",
@@ -926,7 +980,7 @@
       "enclosure_length": "66567940",
       "itunes_duration": "4160",
       "speakers": [
-        "Impossible Landscapes"
+        "Delta Green"
       ],
       "topics": [
         "delta",
@@ -948,8 +1002,7 @@
       "enclosure_length": "61394023",
       "itunes_duration": "3837",
       "speakers": [
-        "Rpg Reanimators",
-        "Impossible Landscapes"
+        "Rpg Reanimators"
       ],
       "topics": [
         "delta",
@@ -972,9 +1025,7 @@
       "enclosure_length": "57678784",
       "itunes_duration": "3604",
       "speakers": [
-        "Impossible Landscapes Shades",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Shades"
       ],
       "topics": [
         "delta",
@@ -996,9 +1047,7 @@
       "enclosure_length": "64722650",
       "itunes_duration": "4045",
       "speakers": [
-        "Impossible Landscapes Master",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Master"
       ],
       "topics": [
         "delta",
@@ -1020,10 +1069,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66976286",
       "itunes_duration": "4185",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1043,10 +1089,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65477066",
       "itunes_duration": "4092",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1067,8 +1110,9 @@
       "enclosure_length": "65208737",
       "itunes_duration": "4075",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Delta Green",
+        "Impossible Landscapes",
+        "No Man"
       ],
       "topics": [
         "delta",
@@ -1090,7 +1134,7 @@
       "enclosure_length": "66067643",
       "itunes_duration": "4129",
       "speakers": [
-        "Pocket Casts",
+        "Delta Green",
         "Impossible Landscapes"
       ],
       "topics": [
@@ -1113,8 +1157,7 @@
       "enclosure_length": "39082526",
       "itunes_duration": "2442",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "blood spilled"
       ],
       "topics": [
         "interlude",
@@ -1135,10 +1178,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54756413",
       "itunes_duration": "3422",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1158,8 +1198,7 @@
       "enclosure_length": "63587473",
       "itunes_duration": "3974",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room"
       ],
       "topics": [
         "interlude",
@@ -1181,8 +1220,7 @@
       "enclosure_length": "64761938",
       "itunes_duration": "4047",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "mystery solved"
       ],
       "topics": [
         "interlude",
@@ -1203,9 +1241,7 @@
       "enclosure_length": "104582163",
       "itunes_duration": "6536",
       "speakers": [
-        "DnD Oneshot",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "DnD Oneshot"
       ],
       "topics": [
         "christmas",
@@ -1223,10 +1259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69209024",
       "itunes_duration": "4325",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "oneshot",
@@ -1244,10 +1277,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62096612",
       "itunes_duration": "3880",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "oneshot",
@@ -1266,9 +1296,7 @@
       "enclosure_length": "74632880",
       "itunes_duration": "4664",
       "speakers": [
-        "Impossible Landscapes Crossfire",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Crossfire"
       ],
       "topics": [
         "delta",
@@ -1290,9 +1318,7 @@
       "enclosure_length": "51186206",
       "itunes_duration": "3199",
       "speakers": [
-        "Impossible Landscapes Special Delivery",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Special Delivery"
       ],
       "topics": [
         "delta",
@@ -1314,10 +1340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58138121",
       "itunes_duration": "3633",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1339,9 +1362,7 @@
       "enclosure_length": "66860929",
       "itunes_duration": "4178",
       "speakers": [
-        "Impossible Landscapes Convergence Realities",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Convergence Realities"
       ],
       "topics": [
         "delta",
@@ -1362,10 +1383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64414614",
       "itunes_duration": "4025",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1384,10 +1402,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46479986",
       "itunes_duration": "2904",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1407,9 +1422,7 @@
       "enclosure_length": "58844890",
       "itunes_duration": "3677",
       "speakers": [
-        "Impossible Landscapes Yhtill",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Yhtill"
       ],
       "topics": [
         "delta",
@@ -1431,9 +1444,7 @@
       "enclosure_length": "65513429",
       "itunes_duration": "4094",
       "speakers": [
-        "Impossible Landscapes Bottle Opener",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Bottle Opener"
       ],
       "topics": [
         "delta",
@@ -1455,10 +1466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60325301",
       "itunes_duration": "3770",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1479,8 +1487,9 @@
       "enclosure_length": "64181393",
       "itunes_duration": "4011",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room",
+        "Spell Book After",
+        "Bad House"
       ],
       "topics": [
         "interlude",
@@ -1502,8 +1511,8 @@
       "enclosure_length": "62383332",
       "itunes_duration": "3898",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room",
+        "House Call New"
       ],
       "topics": [
         "interlude",
@@ -1524,8 +1533,7 @@
       "enclosure_length": "60919639",
       "itunes_duration": "3807",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room"
       ],
       "topics": [
         "interlude",
@@ -1545,8 +1553,8 @@
       "enclosure_length": "60393429",
       "itunes_duration": "3774",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room",
+        "Hoo Goes There Looks"
       ],
       "topics": [
         "interlude",
@@ -1565,10 +1573,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38820048",
       "itunes_duration": "2426",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1589,9 +1594,7 @@
       "enclosure_length": "64917837",
       "itunes_duration": "4057",
       "speakers": [
-        "Trap House",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Trap House"
       ],
       "topics": [
         "interlude",
@@ -1612,10 +1615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56752586",
       "itunes_duration": "3546",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1633,7 +1633,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34390098",
       "itunes_duration": "2149",
-      "speakers": [],
+      "speakers": [
+        "Delta Green",
+        "Impossible Landscapes"
+      ],
       "topics": [
         "sanity",
         "check"
@@ -1651,7 +1654,7 @@
       "enclosure_length": "63568247",
       "itunes_duration": "3972",
       "speakers": [
-        "Pocket Casts",
+        "Delta Green",
         "Impossible Landscapes"
       ],
       "topics": [
@@ -1673,10 +1676,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59465977",
       "itunes_duration": "3716",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1697,8 +1697,9 @@
       "enclosure_length": "62741941",
       "itunes_duration": "3921",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Delta Green",
+        "Impossible Landscapes",
+        "Whispering Labyrinth"
       ],
       "topics": [
         "delta",
@@ -1720,9 +1721,7 @@
       "enclosure_length": "71383666",
       "itunes_duration": "4461",
       "speakers": [
-        "Impossible Landscapes Dances",
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Impossible Landscapes Dances"
       ],
       "topics": [
         "delta",
@@ -1745,8 +1744,7 @@
       "enclosure_length": "87783966",
       "itunes_duration": "5486",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "new leads"
       ],
       "topics": [
         "interlude",
@@ -1767,8 +1765,7 @@
       "enclosure_length": "85450500",
       "itunes_duration": "5340",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes"
+        "Darkened Room"
       ],
       "topics": [
         "interlude",
@@ -1787,11 +1784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78830026",
       "itunes_duration": "4926",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1811,11 +1804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70859545",
       "itunes_duration": "4428",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1836,10 +1825,7 @@
       "enclosure_length": "81639130",
       "itunes_duration": "5102",
       "speakers": [
-        "Impossible Landscapes Room Service",
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
+        "Impossible Landscapes Room Service"
       ],
       "topics": [
         "delta",
@@ -1862,9 +1848,8 @@
       "enclosure_length": "81681344",
       "itunes_duration": "5105",
       "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -1886,11 +1871,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75730441",
       "itunes_duration": "4733",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1908,11 +1889,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82131486",
       "itunes_duration": "5133",
-      "speakers": [
-        "Pocket Casts",
-        "Impossible Landscapes",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1931,11 +1908,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68256077",
       "itunes_duration": "4265",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1954,11 +1927,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72388857",
       "itunes_duration": "4524",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "music",
@@ -1978,10 +1947,7 @@
       "enclosure_length": "78738911",
       "itunes_duration": "4921",
       "speakers": [
-        "Impossible Landscapes Echos",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Echos"
       ],
       "topics": [
         "delta",
@@ -2003,10 +1969,7 @@
       "enclosure_length": "68135705",
       "itunes_duration": "4258",
       "speakers": [
-        "Impossible Landscapes Cast",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Cast"
       ],
       "topics": [
         "delta",
@@ -2029,10 +1992,7 @@
       "enclosure_length": "57058532",
       "itunes_duration": "3566",
       "speakers": [
-        "Hotel Broadalbin",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Hotel Broadalbin"
       ],
       "topics": [
         "delta",
@@ -2056,9 +2016,7 @@
       "enclosure_length": "60703972",
       "itunes_duration": "3793",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "every step"
       ],
       "topics": [
         "delta",
@@ -2081,9 +2039,8 @@
       "enclosure_length": "58310320",
       "itunes_duration": "3644",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2104,9 +2061,8 @@
       "enclosure_length": "87991274",
       "itunes_duration": "5499",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2127,11 +2083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71852616",
       "itunes_duration": "4490",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2152,10 +2104,7 @@
       "enclosure_length": "99781902",
       "itunes_duration": "6236",
       "speakers": [
-        "Box Gamble",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Box Gamble"
       ],
       "topics": [
         "delta",
@@ -2176,11 +2125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57481507",
       "itunes_duration": "3592",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2200,11 +2145,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72002245",
       "itunes_duration": "4500",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2224,11 +2165,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78305070",
       "itunes_duration": "4894",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "reverberations",
@@ -2247,11 +2184,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81341961",
       "itunes_duration": "5083",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "reverberations",
@@ -2270,11 +2203,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82665220",
       "itunes_duration": "5166",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "reverberations",
@@ -2293,11 +2222,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88582686",
       "itunes_duration": "5536",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "reverberation",
@@ -2315,11 +2240,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70860799",
       "itunes_duration": "4428",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "interlude",
         "reverberation",
@@ -2338,10 +2259,7 @@
       "enclosure_length": "83526216",
       "itunes_duration": "5220",
       "speakers": [
-        "Impossible Landscapes Familiar Faces",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Familiar Faces"
       ],
       "topics": [
         "delta",
@@ -2363,11 +2281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76240351",
       "itunes_duration": "4764",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2387,11 +2301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68535692",
       "itunes_duration": "4283",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2414,10 +2324,7 @@
       "itunes_duration": "3827",
       "speakers": [
         "Impossible Landscapes New Sigil",
-        "Ed Wist",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Ed Wist"
       ],
       "topics": [
         "delta",
@@ -2439,9 +2346,9 @@
       "enclosure_length": "56112273",
       "itunes_duration": "3506",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Fire Looks"
       ],
       "topics": [
         "delta",
@@ -2463,9 +2370,9 @@
       "enclosure_length": "91231711",
       "itunes_duration": "5701",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Frying Pan While"
       ],
       "topics": [
         "delta",
@@ -2487,10 +2394,7 @@
       "enclosure_length": "60659669",
       "itunes_duration": "3791",
       "speakers": [
-        "Impossible Landscapes Home",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Home"
       ],
       "topics": [
         "delta",
@@ -2511,11 +2415,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119076152",
       "itunes_duration": "7442",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "christmas",
         "oneshot"
@@ -2533,10 +2433,7 @@
       "enclosure_length": "119957210",
       "itunes_duration": "7497",
       "speakers": [
-        "Hard Time",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Hard Time"
       ],
       "topics": [
         "christmas",
@@ -2557,9 +2454,8 @@
       "enclosure_length": "91945586",
       "itunes_duration": "5746",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Secrets Secrets",
+        "No Fun After"
       ],
       "topics": [
         "interlude",
@@ -2579,9 +2475,7 @@
       "enclosure_length": "88626154",
       "itunes_duration": "5539",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Trail After"
       ],
       "topics": [
         "interlude",
@@ -2600,11 +2494,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68892629",
       "itunes_duration": "4305",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2625,10 +2515,7 @@
       "enclosure_length": "61901008",
       "itunes_duration": "3868",
       "speakers": [
-        "Impossible Landscapes Showtime",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Showtime"
       ],
       "topics": [
         "delta",
@@ -2650,10 +2537,7 @@
       "enclosure_length": "84434859",
       "itunes_duration": "5277",
       "speakers": [
-        "Impossible Landscapes Summoner",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Summoner"
       ],
       "topics": [
         "delta",
@@ -2675,9 +2559,8 @@
       "enclosure_length": "86664253",
       "itunes_duration": "5416",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2699,9 +2582,8 @@
       "enclosure_length": "77660994",
       "itunes_duration": "4853",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2724,9 +2606,8 @@
       "enclosure_length": "73684113",
       "itunes_duration": "4605",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2749,9 +2630,8 @@
       "enclosure_length": "70193318",
       "itunes_duration": "4387",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2772,11 +2652,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53285615",
       "itunes_duration": "3330",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2796,11 +2672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68613850",
       "itunes_duration": "4288",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2822,10 +2694,7 @@
       "enclosure_length": "87416580",
       "itunes_duration": "5463",
       "speakers": [
-        "Impossible Landscapes Books",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Books"
       ],
       "topics": [
         "delta",
@@ -2847,11 +2716,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78069759",
       "itunes_duration": "4879",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2870,11 +2735,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72253857",
       "itunes_duration": "4515",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2895,9 +2756,8 @@
       "enclosure_length": "67733210",
       "itunes_duration": "4233",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2920,10 +2780,7 @@
       "enclosure_length": "79472012",
       "itunes_duration": "4966",
       "speakers": [
-        "Impossible Landscapes Encounters",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Encounters"
       ],
       "topics": [
         "delta",
@@ -2945,10 +2802,7 @@
       "enclosure_length": "94564100",
       "itunes_duration": "5910",
       "speakers": [
-        "Impossible Landscapes Digging Deeper",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Digging Deeper"
       ],
       "topics": [
         "delta",
@@ -2970,9 +2824,8 @@
       "enclosure_length": "54620159",
       "itunes_duration": "3413",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -2993,11 +2846,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66801161",
       "itunes_duration": "4175",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3018,11 +2867,9 @@
       "enclosure_length": "89216730",
       "itunes_duration": "5575",
       "speakers": [
-        "Ophelia Sitri",
-        "Micheal Witwer",
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Not Taking Chances"
       ],
       "topics": [
         "delta",
@@ -3043,11 +2890,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68112299",
       "itunes_duration": "4256",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "green",
         "gaming",
@@ -3068,9 +2911,8 @@
       "enclosure_length": "77292772",
       "itunes_duration": "4830",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3091,11 +2933,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78560443",
       "itunes_duration": "4909",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3117,9 +2955,7 @@
       "enclosure_length": "100439352",
       "itunes_duration": "6277",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Unwise Guys Louis"
       ],
       "topics": [
         "interlude",
@@ -3139,9 +2975,7 @@
       "enclosure_length": "88123767",
       "itunes_duration": "5507",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes"
       ],
       "topics": [
         "interlude",
@@ -3160,11 +2994,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91853634",
       "itunes_duration": "5740",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3185,11 +3015,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85916942",
       "itunes_duration": "5369",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3210,9 +3036,9 @@
       "enclosure_length": "75209246",
       "itunes_duration": "4700",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Do Not Disturb"
       ],
       "topics": [
         "delta",
@@ -3233,9 +3059,8 @@
       "enclosure_length": "99158307",
       "itunes_duration": "6197",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3257,9 +3082,9 @@
       "enclosure_length": "91627480",
       "itunes_duration": "5726",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Boxer Hotel"
       ],
       "topics": [
         "delta",
@@ -3281,11 +3106,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74657079",
       "itunes_duration": "4666",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3305,11 +3126,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89488742",
       "itunes_duration": "5592",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3329,11 +3146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89138493",
       "itunes_duration": "5571",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3354,11 +3167,7 @@
       "enclosure_length": "101318216",
       "itunes_duration": "6332",
       "speakers": [
-        "Impossible Landscapes Exeter",
-        "Elias Barbas",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Exeter"
       ],
       "topics": [
         "delta",
@@ -3379,11 +3188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84066951",
       "itunes_duration": "5254",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3405,9 +3210,8 @@
       "enclosure_length": "87941999",
       "itunes_duration": "5496",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3430,10 +3234,7 @@
       "enclosure_length": "79230058",
       "itunes_duration": "4951",
       "speakers": [
-        "Impossible Landscapes Exeter",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Exeter"
       ],
       "topics": [
         "delta",
@@ -3457,10 +3258,7 @@
       "enclosure_length": "89733642",
       "itunes_duration": "5608",
       "speakers": [
-        "Impossible Landscapes Something",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Something"
       ],
       "topics": [
         "delta",
@@ -3481,9 +3279,9 @@
       "enclosure_length": "80345860",
       "itunes_duration": "5021",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Dorchester Psychiatric Hospital"
       ],
       "topics": [
         "delta",
@@ -3505,9 +3303,8 @@
       "enclosure_length": "78979552",
       "itunes_duration": "4936",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3530,9 +3327,7 @@
       "itunes_duration": "6048",
       "speakers": [
         "Too Old",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3553,9 +3348,7 @@
       "enclosure_length": "98619872",
       "itunes_duration": "6163",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3577,11 +3370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109755140",
       "itunes_duration": "6859",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3602,9 +3391,8 @@
       "enclosure_length": "83281188",
       "itunes_duration": "5205",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3626,9 +3414,10 @@
       "enclosure_length": "92105142",
       "itunes_duration": "5756",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Little Bookshop",
+        "New York City"
       ],
       "topics": [
         "delta",
@@ -3652,9 +3441,9 @@
       "enclosure_length": "94263483",
       "itunes_duration": "5891",
       "speakers": [
+        "Delta Green",
         "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Mirror Truth"
       ],
       "topics": [
         "delta",
@@ -3676,9 +3465,7 @@
       "enclosure_length": "103806327",
       "itunes_duration": "6487",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3701,9 +3488,8 @@
       "enclosure_length": "94108420",
       "itunes_duration": "5881",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3725,11 +3511,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99072294",
       "itunes_duration": "6191",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3751,10 +3533,7 @@
       "enclosure_length": "99072294",
       "itunes_duration": "6191",
       "speakers": [
-        "Impossible Landscapes Curiouser",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Curiouser"
       ],
       "topics": [
         "delta",
@@ -3775,11 +3554,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96014086",
       "itunes_duration": "6000",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3801,9 +3576,8 @@
       "enclosure_length": "96274475",
       "itunes_duration": "6017",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3826,9 +3600,8 @@
       "enclosure_length": "69530434",
       "itunes_duration": "4345",
       "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Delta Green",
+        "Impossible Landscapes"
       ],
       "topics": [
         "delta",
@@ -3850,10 +3623,7 @@
       "enclosure_length": "105524243",
       "itunes_duration": "6595",
       "speakers": [
-        "Impossible Landscapes Art",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Impossible Landscapes Art"
       ],
       "topics": [
         "delta",
@@ -3876,10 +3646,7 @@
       "itunes_duration": "6009",
       "speakers": [
         "Impossible Landscapes Molasses",
-        "Handler Joe",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Handler Joe"
       ],
       "topics": [
         "delta",
@@ -3902,11 +3669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60313181",
       "itunes_duration": "3769",
-      "speakers": [
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -3927,10 +3690,7 @@
       "enclosure_length": "13910891",
       "itunes_duration": "869",
       "speakers": [
-        "Green Box Gaming",
-        "Impossible Landscapes",
-        "Cryo Chamber",
-        "Bat Audio"
+        "Green Box Gaming"
       ],
       "topics": [
         "green",
@@ -3948,27 +3708,28 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — Ep8 | Delta Green: Puppet Shows and Shadow Plays - Coming to a Head
+- 2026-02-24 — Ep9 | Delta Green: Puppet Shows and Shadow Plays - Black Eagle
+- 2026-02-17 — Ep8 | Delta Green: Puppet Shows and Shadow Plays - Coming to a Head — speakers: Delta Green, Puppet Shows, Shadow Plays, Head Something
 - 2026-02-10 — Ep7 | Delta Green: Puppet Shows and Shadow Plays - Ms. Green
 - 2026-02-03 — Ep3 | DnD Holiday Oneshot 2025 - Old Friends and New Fiends — speakers: DnD Holiday
 - 2026-01-27 — Ep2 | DnD Holiday Oneshot 2025 - Bureaucratic Quagmire
-- 2026-01-20 — Ep1 | DnD Holiday Oneshot 2025 - On the Up and Up? — speakers: Polo Marco
-- 2026-01-13 — Ep6 | Delta Green: Puppet Shows and Shadow Plays - Happy Campers
-- 2026-01-13 — Ep5 | Delta Green: Puppet Shows and Shadow Plays - Drained
+- 2026-01-20 — Ep1 | DnD Holiday Oneshot 2025 - On the Up and Up?
+- 2026-01-13 — Ep6 | Delta Green: Puppet Shows and Shadow Plays - Happy Campers — speakers: Delta Green, Puppet Shows, Shadow Plays
+- 2026-01-13 — Ep5 | Delta Green: Puppet Shows and Shadow Plays - Drained — speakers: Delta Green, Puppet Shows, Shadow Plays
 - 2025-12-30 — Ep4 | Delta Green: Puppet Shows and Shadow Plays - On the Beat
 - 2025-12-23 — Ep3 | Delta Green: Puppet Shows and Shadow Plays - Alone and Unafraid
-- 2025-12-16 — Ep2 | Delta Green: Puppet Shows and Shadow Plays - Well That Escalated Quickly
+- 2025-12-16 — Ep2 | Delta Green: Puppet Shows and Shadow Plays - Well That Escalated Quickly — speakers: Delta Green, Puppet Shows, Shadow Plays
 - 2025-12-09 — Ep1 | Delta Green: Puppet Shows and Shadow Plays - Red Tape and Red Soil
 - 2025-12-02 — Ep15 | Delta Green: Remember to Forget - Damned if You Do
-- 2025-11-25 — Ep14 | Delta Green: Remember to Forget - Ghosts in the Machine
-- 2025-11-18 — Ep13 | Delta Green: Remember to Forget - Cult Classic
-- 2025-11-11 — Ep2 | Delta Green: Unearthed - Down and Out
-- 2025-11-04 — Ep1 | Delta Green: Unearthed - Do Not Disturb
-- 2025-10-28 — Ep12 | Delta Green: Remember to Forget - Highway to Hell
-- 2025-10-21 — Ep11 | Delta Green: Remember to Forget - New Vessel, Who Dis
-- 2025-10-14 — Ep10 | Delta Green: Remember to Forget - Strange Bedfellows
-- 2025-10-07 — Ep9 | Delta Green: Remember to Forget - Retracing Steps
-- 2025-09-30 — Ep8 | Delta Green: Remember to Forget - Road "Trip"
+- 2025-11-25 — Ep14 | Delta Green: Remember to Forget - Ghosts in the Machine — speakers: Delta Green
+- 2025-11-18 — Ep13 | Delta Green: Remember to Forget - Cult Classic — speakers: Delta Green
+- 2025-11-11 — Ep2 | Delta Green: Unearthed - Down and Out — speakers: Delta Green, Out Agents
+- 2025-11-04 — Ep1 | Delta Green: Unearthed - Do Not Disturb — speakers: Delta Green, Do Not Disturb Agents
+- 2025-10-28 — Ep12 | Delta Green: Remember to Forget - Highway to Hell — speakers: Delta Green
+- 2025-10-21 — Ep11 | Delta Green: Remember to Forget - New Vessel, Who Dis — speakers: Delta Green, New Vessel
+- 2025-10-14 — Ep10 | Delta Green: Remember to Forget - Strange Bedfellows — speakers: Delta Green
+- 2025-10-07 — Ep9 | Delta Green: Remember to Forget - Retracing Steps — speakers: Delta Green
+- 2025-09-30 — Ep8 | Delta Green: Remember to Forget - Road "Trip" — speakers: Delta Green
 - 2025-09-24 — Ep7 | Delta Green: Remember to Forget - Break In and Break Down — speakers: Break Down
 - 2025-09-16 — Ep6 | Delta Green: Remember to Forget - Remembering
 - 2025-09-09 — Ep5 | Delta Green: Remember to Forget - Seamless Transition
@@ -3982,140 +3743,140 @@
 - 2025-07-22 — Ch4 Ep19 | Delta Green: Impossible Landscapes - The Girl
 - 2025-07-15 — Ch4 Ep18 | Delta Green: Impossible Landscapes - All Roads
 - 2025-07-08 — Ch4 Ep17 | Delta Green: Impossible Landscapes - Mask Up
-- 2025-07-01 — Ch4 Ep16 | Delta Green: Impossible Landscapes - WHITE NOISE — speakers: Pocket Casts, Impossible Landscapes
-- 2025-06-24 — Ch4 Ep15 | Delta Green: Impossible Landscapes - Calm Before the Storm — speakers: Impossible Landscapes Calm, Pocket Casts, Impossible Landscapes
+- 2025-07-01 — Ch4 Ep16 | Delta Green: Impossible Landscapes - WHITE NOISE — speakers: Delta Green, Impossible Landscapes, Agent June
+- 2025-06-24 — Ch4 Ep15 | Delta Green: Impossible Landscapes - Calm Before the Storm — speakers: Impossible Landscapes Calm
 - 2025-06-21 — Impossible Landscapes Announcement! — speakers: Impossible Landscapes Announcement, Impossible Landscapes Finale
-- 2025-06-17 — Ch4 Ep14 | Delta Green: Impossible Landscapes - Papers Please — speakers: Pocket Casts, Impossible Landscapes
-- 2025-06-10 — Ep8 | Delta Green: Hellhole - All Gave Some — speakers: Impossible Landscapes
-- 2025-06-03 — Ep7 | Delta Green: Hellhole - No Rest for the Wicked — speakers: Impossible Landscapes
-- 2025-05-27 — Ep6 | Delta Green: Hellhole - Rescue? — speakers: Impossible Landscapes
-- 2025-05-20 — Ep5 | Delta Green: Hellhole - This Hole Sucks — speakers: Impossible Landscapes
-- 2025-05-13 — Ep4 | Delta Green: Hellhole - Like Some Det Cord in the Wind — speakers: Impossible Landscapes
-- 2025-05-06 — Ep3 | Delta Green: Hellhole - Age Against the Machine — speakers: Impossible Landscapes
-- 2025-04-29 — Ep2 | Delta Green: Hellhole - Sticks and...Stones? — speakers: Impossible Landscapes
-- 2025-04-22 — Ep1 | Delta Green: Hellhole - New Adventures with Alex of RPG Reanimators! — speakers: Rpg Reanimators, Impossible Landscapes
-- 2025-04-15 — Ch4 Ep13 | Delta Green: Impossible Landscapes - Shades — speakers: Impossible Landscapes Shades, Pocket Casts, Impossible Landscapes
-- 2025-04-08 — Ch4 Ep12 | Delta Green: Impossible Landscapes - Master of Props — speakers: Impossible Landscapes Master, Pocket Casts, Impossible Landscapes
-- 2025-04-01 — Ch4 Ep11 | Delta Green: Impossible Landscapes - The Maker — speakers: Pocket Casts, Impossible Landscapes
-- 2025-03-25 — Ch4 Ep10 | Delta Green: Impossible Landscapes - A Pier's Normal — speakers: Pocket Casts, Impossible Landscapes
-- 2025-03-18 — Ch4 Ep9 | Delta Green: Impossible Landscapes - No Man's Land — speakers: Pocket Casts, Impossible Landscapes
-- 2025-03-11 — Ch4 Ep8 | Delta Green: Impossible Landscapes - Escapees — speakers: Pocket Casts, Impossible Landscapes
-- 2025-03-04 — Interludes Ch2 Ep17 - Music From a Darkened Room: Table Manners — speakers: Pocket Casts, Impossible Landscapes
-- 2025-02-25 — Interludes Ch2 Ep16 - Music From a Darkened Room: A Final Song — speakers: Pocket Casts, Impossible Landscapes
-- 2025-02-18 — Interludes Ch2 Ep15 - Music From a Darkened Room: The Cult Boys — speakers: Pocket Casts, Impossible Landscapes
-- 2025-02-11 — Interludes Ch2 Ep14 - Music From a Darkened Room: Masked Man — speakers: Pocket Casts, Impossible Landscapes
-- 2025-02-04 — Christmas 2024 DnD Oneshot Ep3 - Up and Out — speakers: DnD Oneshot, Pocket Casts, Impossible Landscapes
-- 2025-01-28 — Christmas 2024 DnD Oneshot Ep2 - Montage — speakers: Pocket Casts, Impossible Landscapes
-- 2025-01-21 — Christmas 2024 DnD Oneshot Ep1 - House of the Rising Sun — speakers: Pocket Casts, Impossible Landscapes
-- 2025-01-14 — Ch4 Ep7 | Delta Green: Impossible Landscapes - Crossfire — speakers: Impossible Landscapes Crossfire, Pocket Casts, Impossible Landscapes
-- 2025-01-07 — Ch4 Ep6 | Delta Green: Impossible Landscapes - Special Delivery? — speakers: Impossible Landscapes Special Delivery, Pocket Casts, Impossible Landscapes
-- 2024-12-31 — Ch4 Ep5 | Delta Green: Impossible Landscapes - A Warm Welcome — speakers: Pocket Casts, Impossible Landscapes
-- 2024-12-24 — Ch4 Ep4 | Delta Green: Impossible Landscapes - Convergence — speakers: Impossible Landscapes Convergence Realities, Pocket Casts, Impossible Landscapes
-- 2024-12-17 — Ch4 Ep3 | Delta Green: Impossible Landscapes - FALLING — speakers: Pocket Casts, Impossible Landscapes
-- 2024-12-10 — Ch4 Ep2 | Delta Green: Impossible Landscapes - Down and Through — speakers: Pocket Casts, Impossible Landscapes
-- 2024-12-03 — Ch4 Ep1 | Delta Green: Impossible Landscapes - Yhtill — speakers: Impossible Landscapes Yhtill, Pocket Casts, Impossible Landscapes
-- 2024-11-26 — Ch3 Ep26 | Delta Green: Impossible Landscapes - Bottle Opener — speakers: Impossible Landscapes Bottle Opener, Pocket Casts, Impossible Landscapes
-- 2024-11-26 — Ch3 Ep25 | Delta Green: Impossible Landscapes - What Year is It? — speakers: Pocket Casts, Impossible Landscapes
-- 2024-11-12 — Interludes Ch2 Ep13 - Music From a Darkened Room: Spell Book — speakers: Pocket Casts, Impossible Landscapes
-- 2024-11-05 — Interludes Ch2 Ep12 - Music From a Darkened Room: House Call — speakers: Pocket Casts, Impossible Landscapes
-- 2024-10-29 — Interludes Ch2 Ep11 - Music From a Darkened Room: Being Watched — speakers: Pocket Casts, Impossible Landscapes
-- 2024-10-22 — Interludes Ch2 Ep10 - Music From a Darkened Room: Hoo Goes There — speakers: Pocket Casts, Impossible Landscapes
-- 2024-10-15 — Interludes Ch2 Ep9 - Music From a Darkened Room: Panic Mode — speakers: Pocket Casts, Impossible Landscapes
-- 2024-10-08 — Interludes Ch2 Ep8 - Music From a Darkened Room: Trap House — speakers: Trap House, Pocket Casts, Impossible Landscapes
-- 2024-10-01 — Interludes Ch2 Ep7 - Music From a Darkened Room: Coming In — speakers: Pocket Casts, Impossible Landscapes
-- 2024-09-26 — The Sanity Check | Ep18
-- 2024-09-24 — Ch3 Ep24 | Delta Green: Impossible Landscapes - The Final Show — speakers: Pocket Casts, Impossible Landscapes
-- 2024-09-17 — Ch3 Ep23 | Delta Green: Impossible Landscapes - One Room? — speakers: Pocket Casts, Impossible Landscapes
-- 2024-09-10 — Ch3 Ep22 | Delta Green: Impossible Landscapes - The Labyrinth — speakers: Pocket Casts, Impossible Landscapes
-- 2024-09-03 — Ch3 Ep21 | Delta Green: Impossible Landscapes - Dances with Puppets — speakers: Impossible Landscapes Dances, Pocket Casts, Impossible Landscapes
-- 2024-08-27 — Interludes Ch2 Ep6 - Music From a Darkened Room: Catfished — speakers: Pocket Casts, Impossible Landscapes
-- 2024-08-20 — Interludes Ch2 Ep5 - Music From a Darkened Room: The New Guy — speakers: Pocket Casts, Impossible Landscapes
-- 2024-08-13 — Ch3 Ep20 | Delta Green: Impossible Landscapes - Tea Time — speakers: Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-08-06 — Ch3 Ep19 | Delta Green: Impossible Landscapes - Downstairs — speakers: Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-07-31 — Ch3 Ep18 | Delta Green: Impossible Landscapes - Room Service — speakers: Impossible Landscapes Room Service, Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-07-23 — Ch3 Ep17 | Delta Green: Impossible Landscapes - Friends and Demons — speakers: Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-07-16 — Interludes Ch2 Ep4 - Music From a Darkened Room: That Escalated Quickly — speakers: Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-07-09 — Interludes Ch2 Ep3 - Music From a Darkened Room: Hitting the Books — speakers: Pocket Casts, Impossible Landscapes, Bat Audio
-- 2024-07-02 — Interludes Ch2 Ep2 - Music From a Darkened Room: Jackpot — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-06-25 — Interludes Ch2 Ep1 - Music From a Darkened Room: A Bad House — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-06-18 — Ch3 Ep16 | Delta Green: Impossible Landscapes - Echos — speakers: Impossible Landscapes Echos, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-06-11 — Ch3 Ep15 | Delta Green: Impossible Landscapes - Cast of Characters — speakers: Impossible Landscapes Cast, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-06-04 — Ch3 Ep14 | Delta Green: Impossible Landscapes - Welcome to Hotel Broadalbin — speakers: Hotel Broadalbin, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-05-28 — Ch3 Ep13 | Delta Green: Impossible Landscapes - The Final Stretch — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-05-21 — Ch3 Ep12 | Delta Green: Impossible Landscapes - RUN — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-05-14 — Ch3 Ep11 | Delta Green: Impossible Landscapes - The Venue — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-05-07 — Ch3 Ep10 | Delta Green: Impossible Landscapes - Masked Men — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-04-30 — Ch3 Ep9 | Delta Green: Impossible Landscapes - Green Box Gamble — speakers: Box Gamble, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-04-23 — Ch3 Ep8 | Delta Green: Impossible Landscapes - The Fuzz? — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-04-16 — Ch3 Ep7 | Delta Green: Impossible Landscapes - On the Road Again — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-04-09 — Interludes Ch1 Ep9 - Reverberations: A Textbook Operation — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-04-02 — Interludes Ch1 Ep8 - Reverberations: Windows to The Soul — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-03-26 — Interludes Ch1 Ep7 - Reverberations: Dark Liquid — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-03-19 — Interludes Ch1 Ep6 - Reverberations: Raise the Roofie — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-03-12 — Interludes Ch1 Ep5 - Reverberations: Doctor vs Doctor — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-03-05 — Ch3 Ep6 | Delta Green: Impossible Landscapes - Familiar Faces — speakers: Impossible Landscapes Familiar Faces, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-02-27 — Ch3 Ep5 | Delta Green: Impossible Landscapes - The Music Box — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-02-20 — Ch3 Ep4 | Delta Green: Impossible Landscapes - Old Dogs, New Tricks — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-02-13 — Ch3 Ep3 | Delta Green: Impossible Landscapes - New Sigil, Who Dis? — speakers: Impossible Landscapes New Sigil, Ed Wist, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-02-06 — Ch3 Ep2 | Delta Green: Impossible Landscapes - And into the Fire — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-01-30 — Ch3 Ep1 | Delta Green: Impossible Landscapes - Out of the Frying Pan — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-01-23 — Ch3 Ep0 | Delta Green: Impossible Landscapes - Home? — speakers: Impossible Landscapes Home, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-01-16 — Christmas DnD Oneshot Ep2 - Riddle Me This — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-01-09 — Christmas DnD Oneshot Ep1 - Hard Time — speakers: Hard Time, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2024-01-02 — Interludes Ch1 Ep4 - Reverberations: Secrets Secrets are No Fun — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-12-26 — Interludes Ch1 Ep3 - Reverberations: On the Trail — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-12-19 — Ch2 Ep36 | Delta Green: Impossible Landscapes - The Backstage — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-12-12 — Ch2 Ep35 | Delta Green: Impossible Landscapes - Showtime! — speakers: Impossible Landscapes Showtime, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-12-05 — Ch2 Ep34 | Delta Green: Impossible Landscapes - Summoner — speakers: Impossible Landscapes Summoner, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-11-28 — Ch2 Ep33 | Delta Green: Impossible Landscapes - The Library — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-11-21 — Ch2 Ep32 | Delta Green: Impossible Landscapes - Group Therapy — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-11-14 — Ch2 Ep31 | Delta Green: Impossible Landscapes - The Repairer of Reputations — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-11-07 — Ch2 Ep30 | Delta Green: Impossible Landscapes - Patients — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-10-31 — Ch2 Ep29 | Delta Green: Impossible Landscapes - Full Circle — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-10-24 — Ch2 Ep28 | Delta Green: Impossible Landscapes - Time to call... Marcus? — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-10-17 — Ch2 Ep27 | Delta Green: Impossible Landscapes - Books and Mirrors — speakers: Impossible Landscapes Books, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-10-10 — Ch2 Ep26 | Delta Green: Impossible Landscapes - Old Dogs — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-10-03 — Ch2 Ep25 | Delta Green: Impossible Landscapes - Back to Basics — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-09-26 — Ch2 Ep24 | Delta Green: Impossible Landscapes - Road Tripping — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-09-19 — Ch2 Ep23 | Delta Green: Impossible Landscapes - Encounters — speakers: Impossible Landscapes Encounters, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-09-12 — Ch2 Ep22 | Delta Green: Impossible Landscapes - Digging Deeper — speakers: Impossible Landscapes Digging Deeper, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-09-05 — Ch2 Ep21 | Delta Green: Impossible Landscapes - The Aftermath — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-08-29 — Ch2 Ep20 | Delta Green: Impossible Landscapes - The Boys are Back! — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-08-22 — Ch2 Ep19 | Delta Green: Impossible Landscapes - Not Taking Chances — speakers: Ophelia Sitri, Micheal Witwer, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-08-15 — Q&A with Green Box Gaming Ep 1: The Beef and Cheddar Chums — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-08-08 — Ch2 Ep18 | Delta Green: Impossible Landscapes - Rubbing Elbows — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-08-01 — Ch2 Ep17 | Delta Green: Impossible Landscapes - New City, New Friends — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-07-25 — Interludes Ch1 Ep2 - Reverberations: Unwise Guys — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-07-18 — Interludes Ch1 Ep1 - Reverberations: Run by Gian! — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-07-11 — Ch2 Ep16 | Delta Green: Impossible Landscapes - Vegas, Baby! — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-07-04 — Ch2 Ep15 | Delta Green: Impossible Landscapes - Flight 616 — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-06-20 — Ch2 Ep14 | Delta Green: Impossible Landscapes - Do Not Disturb — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-06-13 — Ch2 Ep13 | Delta Green: Impossible Landscapes - Out of Their Depth — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-06-06 — Ch2 Ep12 | Delta Green: Impossible Landscapes - The Missing Room — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-05-30 — Ch2 Ep11 | Delta Green: Impossible Landscapes - The Source — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-05-23 — Ch2 Ep10 | Delta Green: Impossible Landscapes - Fool Me Twice — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-05-16 — Ch2 Ep9 | Delta Green: Impossible Landscapes - Fool Me Once — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-05-09 — Ch2 Ep8 | Delta Green: Impossible Landscapes - Exeter — speakers: Impossible Landscapes Exeter, Elias Barbas, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-05-02 — Ch2 Ep7 | Delta Green: Impossible Landscapes - The Longest Longshot — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-04-25 — Ch2 Ep6 | Delta Green: Impossible Landscapes - Suburban Subterfuge — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-04-18 — Ch2 Ep5 | Delta Green: Impossible Landscapes - Exeter, Barbus, Marbus — speakers: Impossible Landscapes Exeter, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-04-11 — Ch2 Ep4 | Delta Green: Impossible Landscapes - Something is Amiss — speakers: Impossible Landscapes Something, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-04-04 — Ch2 Ep3 | Delta Green: Impossible Landscapes - The Dorchester — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-03-28 — Ch2 Ep2 | Delta Green: Impossible Landscapes - The Cake is a Lie — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-03-21 — Ch2 Ep1 | Delta Green: Impossible Landscapes - Getting Too Old for This — speakers: Too Old, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-03-14 — Ch2 Ep0 | Delta Green: Impossible Landscapes - The Passage of Time — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-03-07 — Ch1 Ep13 | Delta Green: Impossible Landscapes - Up in Smoke — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-02-28 — Ch1 Ep12 | Delta Green: Impossible Landscapes - The Guys Upstairs — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-02-21 — Ch1 Ep11 | Delta Green: Impossible Landscapes - Little Bookshop of Horrors — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-02-14 — Ch1 Ep10 | Delta Green: Impossible Landscapes - The Man in the Mirror — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-02-07 — Delta Green: Impossible Landscapes Ch1 Ep9 - The Castaigne Couch — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-01-31 — Ch1 Ep8 | Delta Green: Impossible Landscapes - The Cable Guy Cometh — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-01-21 — Ch1 Ep7 | Delta Green: Impossible Landscapes - Collateral Damage — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2023-01-09 — Ch1 Ep6 | Delta Green: Impossible Landscapes - Curiouser and Curiouser — speakers: Impossible Landscapes Curiouser, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-12-12 — Ch1 Ep5 | Delta Green: Impossible Landscapes - The Night Floors — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-12-05 — Ch1 Ep4 | Delta Green: Impossible Landscapes - Right under their noses — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-11-21 — Ch1 Ep3 | Delta Green: Impossible Landscapes - This is why we don't have interns — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-11-14 — Ch1 Ep2 | Delta Green: Impossible Landscapes - Art imitates life — speakers: Impossible Landscapes Art, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-11-07 — Ch1 Ep1 | Delta Green: Impossible Landscapes - Molasses, Matador, and Meetcha — speakers: Impossible Landscapes Molasses, Handler Joe, Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-11-06 — Ch1 Ep0 | Delta Green: Impossible Landscapes - Meet the Team — speakers: Impossible Landscapes, Cryo Chamber, Bat Audio
-- 2022-11-06 — Welcome to Green Box Gaming | Delta Green: Impossible Landscapes Intro — speakers: Green Box Gaming, Impossible Landscapes, Cryo Chamber, Bat Audio
+- 2025-06-17 — Ch4 Ep14 | Delta Green: Impossible Landscapes - Papers Please — speakers: Delta Green, Impossible Landscapes
+- 2025-06-10 — Ep8 | Delta Green: Hellhole - All Gave Some
+- 2025-06-03 — Ep7 | Delta Green: Hellhole - No Rest for the Wicked
+- 2025-05-27 — Ep6 | Delta Green: Hellhole - Rescue?
+- 2025-05-20 — Ep5 | Delta Green: Hellhole - This Hole Sucks
+- 2025-05-13 — Ep4 | Delta Green: Hellhole - Like Some Det Cord in the Wind — speakers: Delta Green, Like Some Det Cord, Wind So
+- 2025-05-06 — Ep3 | Delta Green: Hellhole - Age Against the Machine — speakers: Delta Green, Age Against, Machine Unexpected
+- 2025-04-29 — Ep2 | Delta Green: Hellhole - Sticks and...Stones? — speakers: Delta Green
+- 2025-04-22 — Ep1 | Delta Green: Hellhole - New Adventures with Alex of RPG Reanimators! — speakers: Rpg Reanimators
+- 2025-04-15 — Ch4 Ep13 | Delta Green: Impossible Landscapes - Shades — speakers: Impossible Landscapes Shades
+- 2025-04-08 — Ch4 Ep12 | Delta Green: Impossible Landscapes - Master of Props — speakers: Impossible Landscapes Master
+- 2025-04-01 — Ch4 Ep11 | Delta Green: Impossible Landscapes - The Maker
+- 2025-03-25 — Ch4 Ep10 | Delta Green: Impossible Landscapes - A Pier's Normal
+- 2025-03-18 — Ch4 Ep9 | Delta Green: Impossible Landscapes - No Man's Land — speakers: Delta Green, Impossible Landscapes, No Man
+- 2025-03-11 — Ch4 Ep8 | Delta Green: Impossible Landscapes - Escapees — speakers: Delta Green, Impossible Landscapes
+- 2025-03-04 — Interludes Ch2 Ep17 - Music From a Darkened Room: Table Manners — speakers: blood spilled
+- 2025-02-25 — Interludes Ch2 Ep16 - Music From a Darkened Room: A Final Song
+- 2025-02-18 — Interludes Ch2 Ep15 - Music From a Darkened Room: The Cult Boys — speakers: Darkened Room
+- 2025-02-11 — Interludes Ch2 Ep14 - Music From a Darkened Room: Masked Man — speakers: mystery solved
+- 2025-02-04 — Christmas 2024 DnD Oneshot Ep3 - Up and Out — speakers: DnD Oneshot
+- 2025-01-28 — Christmas 2024 DnD Oneshot Ep2 - Montage
+- 2025-01-21 — Christmas 2024 DnD Oneshot Ep1 - House of the Rising Sun
+- 2025-01-14 — Ch4 Ep7 | Delta Green: Impossible Landscapes - Crossfire — speakers: Impossible Landscapes Crossfire
+- 2025-01-07 — Ch4 Ep6 | Delta Green: Impossible Landscapes - Special Delivery? — speakers: Impossible Landscapes Special Delivery
+- 2024-12-31 — Ch4 Ep5 | Delta Green: Impossible Landscapes - A Warm Welcome
+- 2024-12-24 — Ch4 Ep4 | Delta Green: Impossible Landscapes - Convergence — speakers: Impossible Landscapes Convergence Realities
+- 2024-12-17 — Ch4 Ep3 | Delta Green: Impossible Landscapes - FALLING
+- 2024-12-10 — Ch4 Ep2 | Delta Green: Impossible Landscapes - Down and Through
+- 2024-12-03 — Ch4 Ep1 | Delta Green: Impossible Landscapes - Yhtill — speakers: Impossible Landscapes Yhtill
+- 2024-11-26 — Ch3 Ep26 | Delta Green: Impossible Landscapes - Bottle Opener — speakers: Impossible Landscapes Bottle Opener
+- 2024-11-26 — Ch3 Ep25 | Delta Green: Impossible Landscapes - What Year is It?
+- 2024-11-12 — Interludes Ch2 Ep13 - Music From a Darkened Room: Spell Book — speakers: Darkened Room, Spell Book After, Bad House
+- 2024-11-05 — Interludes Ch2 Ep12 - Music From a Darkened Room: House Call — speakers: Darkened Room, House Call New
+- 2024-10-29 — Interludes Ch2 Ep11 - Music From a Darkened Room: Being Watched — speakers: Darkened Room
+- 2024-10-22 — Interludes Ch2 Ep10 - Music From a Darkened Room: Hoo Goes There — speakers: Darkened Room, Hoo Goes There Looks
+- 2024-10-15 — Interludes Ch2 Ep9 - Music From a Darkened Room: Panic Mode
+- 2024-10-08 — Interludes Ch2 Ep8 - Music From a Darkened Room: Trap House — speakers: Trap House
+- 2024-10-01 — Interludes Ch2 Ep7 - Music From a Darkened Room: Coming In
+- 2024-09-26 — The Sanity Check | Ep18 — speakers: Delta Green, Impossible Landscapes
+- 2024-09-24 — Ch3 Ep24 | Delta Green: Impossible Landscapes - The Final Show — speakers: Delta Green, Impossible Landscapes
+- 2024-09-17 — Ch3 Ep23 | Delta Green: Impossible Landscapes - One Room?
+- 2024-09-10 — Ch3 Ep22 | Delta Green: Impossible Landscapes - The Labyrinth — speakers: Delta Green, Impossible Landscapes, Whispering Labyrinth
+- 2024-09-03 — Ch3 Ep21 | Delta Green: Impossible Landscapes - Dances with Puppets — speakers: Impossible Landscapes Dances
+- 2024-08-27 — Interludes Ch2 Ep6 - Music From a Darkened Room: Catfished — speakers: new leads
+- 2024-08-20 — Interludes Ch2 Ep5 - Music From a Darkened Room: The New Guy — speakers: Darkened Room
+- 2024-08-13 — Ch3 Ep20 | Delta Green: Impossible Landscapes - Tea Time
+- 2024-08-06 — Ch3 Ep19 | Delta Green: Impossible Landscapes - Downstairs
+- 2024-07-31 — Ch3 Ep18 | Delta Green: Impossible Landscapes - Room Service — speakers: Impossible Landscapes Room Service
+- 2024-07-23 — Ch3 Ep17 | Delta Green: Impossible Landscapes - Friends and Demons — speakers: Delta Green, Impossible Landscapes
+- 2024-07-16 — Interludes Ch2 Ep4 - Music From a Darkened Room: That Escalated Quickly
+- 2024-07-09 — Interludes Ch2 Ep3 - Music From a Darkened Room: Hitting the Books
+- 2024-07-02 — Interludes Ch2 Ep2 - Music From a Darkened Room: Jackpot
+- 2024-06-25 — Interludes Ch2 Ep1 - Music From a Darkened Room: A Bad House
+- 2024-06-18 — Ch3 Ep16 | Delta Green: Impossible Landscapes - Echos — speakers: Impossible Landscapes Echos
+- 2024-06-11 — Ch3 Ep15 | Delta Green: Impossible Landscapes - Cast of Characters — speakers: Impossible Landscapes Cast
+- 2024-06-04 — Ch3 Ep14 | Delta Green: Impossible Landscapes - Welcome to Hotel Broadalbin — speakers: Hotel Broadalbin
+- 2024-05-28 — Ch3 Ep13 | Delta Green: Impossible Landscapes - The Final Stretch — speakers: every step
+- 2024-05-21 — Ch3 Ep12 | Delta Green: Impossible Landscapes - RUN — speakers: Delta Green, Impossible Landscapes
+- 2024-05-14 — Ch3 Ep11 | Delta Green: Impossible Landscapes - The Venue — speakers: Delta Green, Impossible Landscapes
+- 2024-05-07 — Ch3 Ep10 | Delta Green: Impossible Landscapes - Masked Men
+- 2024-04-30 — Ch3 Ep9 | Delta Green: Impossible Landscapes - Green Box Gamble — speakers: Box Gamble
+- 2024-04-23 — Ch3 Ep8 | Delta Green: Impossible Landscapes - The Fuzz?
+- 2024-04-16 — Ch3 Ep7 | Delta Green: Impossible Landscapes - On the Road Again
+- 2024-04-09 — Interludes Ch1 Ep9 - Reverberations: A Textbook Operation
+- 2024-04-02 — Interludes Ch1 Ep8 - Reverberations: Windows to The Soul
+- 2024-03-26 — Interludes Ch1 Ep7 - Reverberations: Dark Liquid
+- 2024-03-19 — Interludes Ch1 Ep6 - Reverberations: Raise the Roofie
+- 2024-03-12 — Interludes Ch1 Ep5 - Reverberations: Doctor vs Doctor
+- 2024-03-05 — Ch3 Ep6 | Delta Green: Impossible Landscapes - Familiar Faces — speakers: Impossible Landscapes Familiar Faces
+- 2024-02-27 — Ch3 Ep5 | Delta Green: Impossible Landscapes - The Music Box
+- 2024-02-20 — Ch3 Ep4 | Delta Green: Impossible Landscapes - Old Dogs, New Tricks
+- 2024-02-13 — Ch3 Ep3 | Delta Green: Impossible Landscapes - New Sigil, Who Dis? — speakers: Impossible Landscapes New Sigil, Ed Wist
+- 2024-02-06 — Ch3 Ep2 | Delta Green: Impossible Landscapes - And into the Fire — speakers: Delta Green, Impossible Landscapes, Fire Looks
+- 2024-01-30 — Ch3 Ep1 | Delta Green: Impossible Landscapes - Out of the Frying Pan — speakers: Delta Green, Impossible Landscapes, Frying Pan While
+- 2024-01-23 — Ch3 Ep0 | Delta Green: Impossible Landscapes - Home? — speakers: Impossible Landscapes Home
+- 2024-01-16 — Christmas DnD Oneshot Ep2 - Riddle Me This
+- 2024-01-09 — Christmas DnD Oneshot Ep1 - Hard Time — speakers: Hard Time
+- 2024-01-02 — Interludes Ch1 Ep4 - Reverberations: Secrets Secrets are No Fun — speakers: Secrets Secrets, No Fun After
+- 2023-12-26 — Interludes Ch1 Ep3 - Reverberations: On the Trail — speakers: Trail After
+- 2023-12-19 — Ch2 Ep36 | Delta Green: Impossible Landscapes - The Backstage
+- 2023-12-12 — Ch2 Ep35 | Delta Green: Impossible Landscapes - Showtime! — speakers: Impossible Landscapes Showtime
+- 2023-12-05 — Ch2 Ep34 | Delta Green: Impossible Landscapes - Summoner — speakers: Impossible Landscapes Summoner
+- 2023-11-28 — Ch2 Ep33 | Delta Green: Impossible Landscapes - The Library — speakers: Delta Green, Impossible Landscapes
+- 2023-11-21 — Ch2 Ep32 | Delta Green: Impossible Landscapes - Group Therapy — speakers: Delta Green, Impossible Landscapes
+- 2023-11-14 — Ch2 Ep31 | Delta Green: Impossible Landscapes - The Repairer of Reputations — speakers: Delta Green, Impossible Landscapes
+- 2023-11-07 — Ch2 Ep30 | Delta Green: Impossible Landscapes - Patients — speakers: Delta Green, Impossible Landscapes
+- 2023-10-31 — Ch2 Ep29 | Delta Green: Impossible Landscapes - Full Circle
+- 2023-10-24 — Ch2 Ep28 | Delta Green: Impossible Landscapes - Time to call... Marcus?
+- 2023-10-17 — Ch2 Ep27 | Delta Green: Impossible Landscapes - Books and Mirrors — speakers: Impossible Landscapes Books
+- 2023-10-10 — Ch2 Ep26 | Delta Green: Impossible Landscapes - Old Dogs
+- 2023-10-03 — Ch2 Ep25 | Delta Green: Impossible Landscapes - Back to Basics
+- 2023-09-26 — Ch2 Ep24 | Delta Green: Impossible Landscapes - Road Tripping — speakers: Delta Green, Impossible Landscapes
+- 2023-09-19 — Ch2 Ep23 | Delta Green: Impossible Landscapes - Encounters — speakers: Impossible Landscapes Encounters
+- 2023-09-12 — Ch2 Ep22 | Delta Green: Impossible Landscapes - Digging Deeper — speakers: Impossible Landscapes Digging Deeper
+- 2023-09-05 — Ch2 Ep21 | Delta Green: Impossible Landscapes - The Aftermath — speakers: Delta Green, Impossible Landscapes
+- 2023-08-29 — Ch2 Ep20 | Delta Green: Impossible Landscapes - The Boys are Back!
+- 2023-08-22 — Ch2 Ep19 | Delta Green: Impossible Landscapes - Not Taking Chances — speakers: Delta Green, Impossible Landscapes, Not Taking Chances
+- 2023-08-15 — Q&A with Green Box Gaming Ep 1: The Beef and Cheddar Chums
+- 2023-08-08 — Ch2 Ep18 | Delta Green: Impossible Landscapes - Rubbing Elbows — speakers: Delta Green, Impossible Landscapes
+- 2023-08-01 — Ch2 Ep17 | Delta Green: Impossible Landscapes - New City, New Friends
+- 2023-07-25 — Interludes Ch1 Ep2 - Reverberations: Unwise Guys — speakers: Unwise Guys Louis
+- 2023-07-18 — Interludes Ch1 Ep1 - Reverberations: Run by Gian! — speakers: Impossible Landscapes
+- 2023-07-11 — Ch2 Ep16 | Delta Green: Impossible Landscapes - Vegas, Baby!
+- 2023-07-04 — Ch2 Ep15 | Delta Green: Impossible Landscapes - Flight 616
+- 2023-06-20 — Ch2 Ep14 | Delta Green: Impossible Landscapes - Do Not Disturb — speakers: Delta Green, Impossible Landscapes, Do Not Disturb
+- 2023-06-13 — Ch2 Ep13 | Delta Green: Impossible Landscapes - Out of Their Depth — speakers: Delta Green, Impossible Landscapes
+- 2023-06-06 — Ch2 Ep12 | Delta Green: Impossible Landscapes - The Missing Room — speakers: Delta Green, Impossible Landscapes, Boxer Hotel
+- 2023-05-30 — Ch2 Ep11 | Delta Green: Impossible Landscapes - The Source
+- 2023-05-23 — Ch2 Ep10 | Delta Green: Impossible Landscapes - Fool Me Twice
+- 2023-05-16 — Ch2 Ep9 | Delta Green: Impossible Landscapes - Fool Me Once
+- 2023-05-09 — Ch2 Ep8 | Delta Green: Impossible Landscapes - Exeter — speakers: Impossible Landscapes Exeter
+- 2023-05-02 — Ch2 Ep7 | Delta Green: Impossible Landscapes - The Longest Longshot
+- 2023-04-25 — Ch2 Ep6 | Delta Green: Impossible Landscapes - Suburban Subterfuge — speakers: Delta Green, Impossible Landscapes
+- 2023-04-18 — Ch2 Ep5 | Delta Green: Impossible Landscapes - Exeter, Barbus, Marbus — speakers: Impossible Landscapes Exeter
+- 2023-04-11 — Ch2 Ep4 | Delta Green: Impossible Landscapes - Something is Amiss — speakers: Impossible Landscapes Something
+- 2023-04-04 — Ch2 Ep3 | Delta Green: Impossible Landscapes - The Dorchester — speakers: Delta Green, Impossible Landscapes, Dorchester Psychiatric Hospital
+- 2023-03-28 — Ch2 Ep2 | Delta Green: Impossible Landscapes - The Cake is a Lie — speakers: Delta Green, Impossible Landscapes
+- 2023-03-21 — Ch2 Ep1 | Delta Green: Impossible Landscapes - Getting Too Old for This — speakers: Too Old, Impossible Landscapes
+- 2023-03-14 — Ch2 Ep0 | Delta Green: Impossible Landscapes - The Passage of Time — speakers: Impossible Landscapes
+- 2023-03-07 — Ch1 Ep13 | Delta Green: Impossible Landscapes - Up in Smoke
+- 2023-02-28 — Ch1 Ep12 | Delta Green: Impossible Landscapes - The Guys Upstairs — speakers: Delta Green, Impossible Landscapes
+- 2023-02-21 — Ch1 Ep11 | Delta Green: Impossible Landscapes - Little Bookshop of Horrors — speakers: Delta Green, Impossible Landscapes, Little Bookshop, New York City
+- 2023-02-14 — Ch1 Ep10 | Delta Green: Impossible Landscapes - The Man in the Mirror — speakers: Delta Green, Impossible Landscapes, Mirror Truth
+- 2023-02-07 — Delta Green: Impossible Landscapes Ch1 Ep9 - The Castaigne Couch — speakers: Impossible Landscapes
+- 2023-01-31 — Ch1 Ep8 | Delta Green: Impossible Landscapes - The Cable Guy Cometh — speakers: Delta Green, Impossible Landscapes
+- 2023-01-21 — Ch1 Ep7 | Delta Green: Impossible Landscapes - Collateral Damage
+- 2023-01-09 — Ch1 Ep6 | Delta Green: Impossible Landscapes - Curiouser and Curiouser — speakers: Impossible Landscapes Curiouser
+- 2022-12-12 — Ch1 Ep5 | Delta Green: Impossible Landscapes - The Night Floors
+- 2022-12-05 — Ch1 Ep4 | Delta Green: Impossible Landscapes - Right under their noses — speakers: Delta Green, Impossible Landscapes
+- 2022-11-21 — Ch1 Ep3 | Delta Green: Impossible Landscapes - This is why we don't have interns — speakers: Delta Green, Impossible Landscapes
+- 2022-11-14 — Ch1 Ep2 | Delta Green: Impossible Landscapes - Art imitates life — speakers: Impossible Landscapes Art
+- 2022-11-07 — Ch1 Ep1 | Delta Green: Impossible Landscapes - Molasses, Matador, and Meetcha — speakers: Impossible Landscapes Molasses, Handler Joe
+- 2022-11-06 — Ch1 Ep0 | Delta Green: Impossible Landscapes - Meet the Team
+- 2022-11-06 — Welcome to Green Box Gaming | Delta Green: Impossible Landscapes Intro — speakers: Green Box Gaming

@@ -2,9 +2,9 @@
 
 - slug: `die-alone-a-solo-rpg-podcast`
 - source: `https://deeplydappergames.com/alone?format=rss`
-- fetched_at: `2026-02-21T18:55:48+00:00`
-- checked_at: `2026-02-21T18:55:48+00:00`
-- etag: `W/"52e65f14c4d0d06b23a56a23995c5f05"`
+- fetched_at: `2026-02-24T16:16:09+00:00`
+- checked_at: `2026-02-24T16:16:09+00:00`
+- etag: `W/"0d87195e1aa9b9fc2cccf62dc2182cad"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://deeplydappergames.com/alone/",
   "description": "DIE ALONE: a podcast about solo Roleplaying Games (And occasionally solo board games)",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5616ce59e4b091a9359f66ea/1618183970653-75K3XSURN0RUEPG3QHG0/Cover+Large+Square.jpg?format=1500w",
-  "fetched_at": "2026-02-21T18:55:48+00:00",
+  "fetched_at": "2026-02-24T16:16:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,7 +38,8 @@
       "enclosure_length": "68523226",
       "itunes_duration": "00:35:04",
       "speakers": [
-        "Deadly Strangers"
+        "More Western Games Welcome",
+        "Die Alone"
       ],
       "topics": [
         "western",
@@ -56,9 +57,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50215914",
       "itunes_duration": "00:25:40",
-      "speakers": [
-        "Steven Aramini"
-      ],
+      "speakers": [],
       "topics": [
         "fliptown"
       ]
@@ -74,7 +73,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35120056",
       "itunes_duration": "00:18:18",
-      "speakers": [],
+      "speakers": [
+        "Introduction Welcome",
+        "Die Alone"
+      ],
       "topics": [
         "season",
         "introduction"
@@ -129,7 +131,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29497687",
       "itunes_duration": "15:09",
-      "speakers": [],
+      "speakers": [
+        "Dungeon Season",
+        "Die Alone"
+      ],
       "topics": [
         "state",
         "dungeon",
@@ -149,9 +154,7 @@
       "enclosure_length": "44033327",
       "itunes_duration": "39:25",
       "speakers": [
-        "Marching Order Solo Ttrpg",
-        "Crumbling Keep",
-        "Marching Order"
+        "Marching Order Solo Ttrpg"
       ],
       "topics": [
         "marching",
@@ -171,7 +174,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27349607",
       "itunes_duration": "00:41:16",
-      "speakers": [],
+      "speakers": [
+        "Angels Board Game Welcome",
+        "Die Alone"
+      ],
       "topics": [
         "detective",
         "city",
@@ -191,7 +197,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20050431",
       "itunes_duration": "00:31:05",
-      "speakers": [],
+      "speakers": [
+        "Poulticepounder Solo",
+        "Adventure Welcome",
+        "Die Alone"
+      ],
       "topics": [
         "apawthecaria",
         "poulticepounder",
@@ -211,13 +221,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25605688",
       "itunes_duration": "00:35:00",
-      "speakers": [
-        "Monster Hunter",
-        "Percy Fawcett",
-        "Peer Sylvester",
-        "Garen Ewing",
-        "Kickstarter Links"
-      ],
+      "speakers": [],
       "topics": [
         "jungle"
       ]
@@ -234,8 +238,8 @@
       "enclosure_length": "24983662",
       "itunes_duration": "00:33:00",
       "speakers": [
-        "Kickstarter Links",
-        "Anna Blackwell"
+        "Four Against Darkness Welcome",
+        "Die Alone"
       ],
       "topics": [
         "darkness"
@@ -253,8 +257,7 @@
       "enclosure_length": "20965593",
       "itunes_duration": "00:34:40",
       "speakers": [
-        "Anna Blackwell",
-        "Kickstarter Links"
+        "Anna Blackwell"
       ],
       "topics": [
         "solo",
@@ -276,8 +279,8 @@
       "itunes_duration": "00:34:40",
       "speakers": [
         "Burgle Bros",
-        "Tim Fowers Welcome",
-        "Anna Blackwell"
+        "Those Wretched Kids Update",
+        "Die Alone"
       ],
       "topics": [
         "burgle",
@@ -303,9 +306,10 @@
       "enclosure_length": "68509385",
       "itunes_duration": "00:27:46",
       "speakers": [
-        "Daniel Perez",
-        "Murder Castle",
-        "Anna Blackwell"
+        "Hiker Solo",
+        "Murder Castle Solo Game",
+        "Mode Welcome",
+        "Die Alone"
       ],
       "topics": [
         "hiker",
@@ -328,7 +332,8 @@
       "enclosure_length": "30101776",
       "itunes_duration": "00:24:00",
       "speakers": [
-        "Chris Bissette"
+        "Game Welcome",
+        "Die Alone"
       ],
       "topics": [
         "wretched",
@@ -349,9 +354,9 @@
       "enclosure_length": "29875325",
       "itunes_duration": "00:11:00",
       "speakers": [
-        "Sean Patrick Cain",
         "Long Haul",
-        "Chris Bissette"
+        "Solo Roleplaying Game Welcome",
+        "Die Alone"
       ],
       "topics": [
         "haul",
@@ -372,8 +377,8 @@
       "enclosure_length": "7130868",
       "itunes_duration": "00:11:00",
       "speakers": [
-        "Sean Patrick Cain",
-        "Long Haul"
+        "Long Haul Begins Welcome",
+        "Die Alone"
       ],
       "topics": [
         "introduction",
@@ -406,21 +411,21 @@
 
 ## Episodes (newest first)
 
-- 2024-04-24 — Episode 17: More Western Games — speakers: Deadly Strangers
-- 2024-04-16 — Episode 16: Fliptown — speakers: Steven Aramini
-- 2024-04-02 — Episode 15: Season 2 Introduction
+- 2024-04-24 — Episode 17: More Western Games — speakers: More Western Games Welcome, Die Alone
+- 2024-04-16 — Episode 16: Fliptown
+- 2024-04-02 — Episode 15: Season 2 Introduction — speakers: Introduction Welcome, Die Alone
 - 2023-05-19 — Episode 14: The Isofarian Guard
 - 2023-04-12 — Episode 13: Merchants of the Dark Road — speakers: Dark Road Welcome, Die Alone
-- 2023-04-01 — Episode 12: The State of the Dungeon Season 2 Begins!
-- 2022-02-10 — Episode 11: Marching Order Solo TTRPG — speakers: Marching Order Solo Ttrpg, Crumbling Keep, Marching Order
-- 2022-01-23 — Episode 10: Detective: City of Angels Board Game
-- 2021-10-11 — Episode 9: Apawthecaria: A Poulticepounder Solo TTRPG Adventure
-- 2021-07-01 — Episode 8: Into the Jungle — speakers: Monster Hunter, Percy Fawcett, Peer Sylvester, Garen Ewing, Kickstarter Links
-- 2021-05-31 — Episode 7: Four Against Darkness — speakers: Kickstarter Links, Anna Blackwell
-- 2021-05-22 — Episode 6: Delve: A Solo Map Drawing RPG by Anna Blackwell — speakers: Anna Blackwell, Kickstarter Links
-- 2021-05-14 — Episode 5: Burgle Bros 2: The Casino Caper Solo Play + Those Wretched Kids Update — speakers: Burgle Bros, Tim Fowers Welcome, Anna Blackwell
-- 2021-05-07 — Episode 4: Thru-Hiker Solo RPG & Murder Castle Solo Game Mode — speakers: Daniel Perez, Murder Castle, Anna Blackwell
-- 2021-04-27 — Episode 3: The Wretched Solo Roleplaying Game — speakers: Chris Bissette
-- 2021-04-22 — Episode 2: Long Haul 1983 Solo Roleplaying Game — speakers: Sean Patrick Cain, Long Haul, Chris Bissette
-- 2021-04-11 — Episode 1: An Introduction and a Long Haul Begins — speakers: Sean Patrick Cain, Long Haul
+- 2023-04-01 — Episode 12: The State of the Dungeon Season 2 Begins! — speakers: Dungeon Season, Die Alone
+- 2022-02-10 — Episode 11: Marching Order Solo TTRPG — speakers: Marching Order Solo Ttrpg
+- 2022-01-23 — Episode 10: Detective: City of Angels Board Game — speakers: Angels Board Game Welcome, Die Alone
+- 2021-10-11 — Episode 9: Apawthecaria: A Poulticepounder Solo TTRPG Adventure — speakers: Poulticepounder Solo, Adventure Welcome, Die Alone
+- 2021-07-01 — Episode 8: Into the Jungle
+- 2021-05-31 — Episode 7: Four Against Darkness — speakers: Four Against Darkness Welcome, Die Alone
+- 2021-05-22 — Episode 6: Delve: A Solo Map Drawing RPG by Anna Blackwell — speakers: Anna Blackwell
+- 2021-05-14 — Episode 5: Burgle Bros 2: The Casino Caper Solo Play + Those Wretched Kids Update — speakers: Burgle Bros, Those Wretched Kids Update, Die Alone
+- 2021-05-07 — Episode 4: Thru-Hiker Solo RPG & Murder Castle Solo Game Mode — speakers: Hiker Solo, Murder Castle Solo Game, Mode Welcome, Die Alone
+- 2021-04-27 — Episode 3: The Wretched Solo Roleplaying Game — speakers: Game Welcome, Die Alone
+- 2021-04-22 — Episode 2: Long Haul 1983 Solo Roleplaying Game — speakers: Long Haul, Solo Roleplaying Game Welcome, Die Alone
+- 2021-04-11 — Episode 1: An Introduction and a Long Haul Begins — speakers: Long Haul Begins Welcome, Die Alone
 - 2021-04-11 — Welcome to DIE ALONE: A Solo RPG Podcast!
