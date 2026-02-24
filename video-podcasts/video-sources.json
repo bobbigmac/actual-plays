@@ -378,6 +378,76 @@
       "category": "needs-rss",
       "feed_url": "https://rss.feedspot.com/university_rss_feeds/",
       "fetch_via": "auto"
+    },
+    {
+      "id": "kinda-funny-gamescast-video-game-podcast",
+      "title": "Kinda Funny Gamescast: Video Game Podcast",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.megaphone.fm/kindafunnygamescast",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "kinda-funny-gamescast-video-game-podcast-2",
+      "title": "Kinda Funny Gamescast: Video Game Podcast",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.megaphone.fm/ROOSTER3727935380",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "autoline-daily-video",
+      "title": "Autoline Daily - Video",
+      "category": "podcastindex",
+      "feed_url": "http://www.autoline.tv/podcasts/feeds/autoline-daily-video.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "5-minute-videos-prageru",
+      "title": "5-Minute Videos | PragerU",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.megaphone.fm/PRAGERU3989592970",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "democracy-now-video",
+      "title": "Democracy Now! Video",
+      "category": "podcastindex",
+      "feed_url": "https://www.democracynow.org/podcast-video.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "nutritionfacts-org-video-podcast",
+      "title": "NutritionFacts.org Video Podcast",
+      "category": "podcastindex",
+      "feed_url": "https://nutritionfacts.org/videos/feed/podcast/",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "still-poddable",
+      "title": "Still Poddable",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.megaphone.fm/NSM2691900547",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "security-weekly-podcast-network-video",
+      "title": "Security Weekly Podcast Network (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://securityweeklytv.libsyn.com/rss",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "enterprise-security-weekly-video",
+      "title": "Enterprise Security Weekly (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://eswvideo.libsyn.com/rss",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "video-gamers-podcast",
+      "title": "Video Gamers Podcast",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.megaphone.fm/AMGAC9705074721",
+      "fetch_via": "auto"
     }
   ]
 }

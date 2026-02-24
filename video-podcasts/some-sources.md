@@ -1,4 +1,50 @@
 
+Here you go — **actual RSS/OPML URLs** you can paste straight into your dataset.
+
+TWiT Network (tons of real video RSS feeds)
+
+* TWiT video OPML (bulk list): [https://feeds.twit.tv/twitshows_video_hd.opml](https://feeds.twit.tv/twitshows_video_hd.opml) ([TWiT.tv][1])
+  (That OPML is basically “all shows’ video feeds”.)
+* A few concrete video feeds (RSS XML):
+
+  * This Week in Tech (Video): [https://feeds.twit.tv/twit_video_hd.xml](https://feeds.twit.tv/twit_video_hd.xml) ([TWiT Feeds][2])
+  * Windows Weekly (Video): [https://feeds.twit.tv/ww_video_hd.xml](https://feeds.twit.tv/ww_video_hd.xml) ([TWiT Feeds][3])
+  * All About Android (Video): [https://feeds.twit.tv/aaa_video_hd.xml](https://feeds.twit.tv/aaa_video_hd.xml) ([TWiT Feeds][4])
+  * TWiT News (Video): [https://feeds.twit.tv/specials_video_hd.xml](https://feeds.twit.tv/specials_video_hd.xml) ([TWiT Feeds][5])
+  * TWiT Events (Video): [https://feeds.twit.tv/events_video_hd.xml](https://feeds.twit.tv/events_video_hd.xml) ([TWiT Feeds][6])
+  * This Week in Computer Hardware (Video): [https://feeds.twit.tv/twich_video_hd.xml](https://feeds.twit.tv/twich_video_hd.xml) ([TWiT Feeds][7])
+  * Coding 101 (Video): [https://feeds.twit.tv/code_video_hd.xml](https://feeds.twit.tv/code_video_hd.xml) ([TWiT Feeds][8])
+  * Home Theater Geeks (Video): [https://feeds.twit.tv/htg_video_hd.xml](https://feeds.twit.tv/htg_video_hd.xml) ([TWiT Feeds][9])
+
+Podbean videocasts (open RSS, often MP4)
+
+* Talk More Talk: A Solo Beatles Videocast: [https://feed.podbean.com/talkmoretalk/feed.xml](https://feed.podbean.com/talkmoretalk/feed.xml) ([Chartoo][10])
+
+Libsyn videocasts (open RSS)
+
+* The Dice Tower Videocast feed: [http://thedicetower.libsyn.com/rss](http://thedicetower.libsyn.com/rss) ([The Dice Tower][11])
+* UVTV (Libsyn RSS): [http://uvtv.libsyn.com/rss](http://uvtv.libsyn.com/rss) ([Kodi Forum][12])
+
+Random long tail “video podcast” feeds (old-school but still useful)
+
+* Chapel Hill “podcast video” feed: [http://chapelhill.cc/feeds/podcast-video/podcast-video.php](http://chapelhill.cc/feeds/podcast-video/podcast-video.php) ([Gist][13])
+
+If you want **hundreds/thousands more** *outside* Podcast Index, the only reliable way is “OPML/directories that publish feed URLs” (TWiT is the best example above). Apple’s new HLS partner ecosystem (Acast/ART19/Omny/Simplecast) doesn’t currently ship a public master list of “video-enabled RSS feeds” you can scrape, so you’re back to crawling their show directories and validating enclosures yourself. ([podnews.net][14])
+
+[1]: https://twit.tv/about/developer-guidelines?utm_source=chatgpt.com "Developer Guidelines"
+[2]: https://feeds.twit.tv/twit_video_hd.xml?utm_source=chatgpt.com "This Week in Tech (Video)"
+[3]: https://feeds.twit.tv/ww_video_hd.xml?utm_source=chatgpt.com "Windows Weekly (Video)"
+[4]: https://feeds.twit.tv/aaa_video_hd.xml?utm_source=chatgpt.com "All About Android (Video)"
+[5]: https://feeds.twit.tv/specials_video_hd.xml?utm_source=chatgpt.com "TWiT News (Video)"
+[6]: https://feeds.twit.tv/events_video_hd.xml?utm_source=chatgpt.com "TWiT Events (Video)"
+[7]: https://feeds.twit.tv/twich_video_hd.xml?utm_source=chatgpt.com "This Week in Computer Hardware (Video)"
+[8]: https://feeds.twit.tv/code_video_hd.xml?utm_source=chatgpt.com "Coding 101 (Video)"
+[9]: https://feeds.twit.tv/htg_video_hd.xml?utm_source=chatgpt.com "Home Theater Geeks (Video)"
+[10]: https://dk.chartoo.com/itunes/podcast/1439370754-talk-more-talk-a-solo-beatles-videocast?utm_source=chatgpt.com "Talk More Talk: A Solo Beatles Videocast - Podcast - Apple ..."
+[11]: https://www.dicetower.com/video/dtv002-dice-tower-videocast-great-games-tom-and-holly-vasel?utm_source=chatgpt.com "Great Games A - with Tom and Holly Vasel"
+[12]: https://forum.kodi.tv/showthread.php?page=22&tid=100300&utm_source=chatgpt.com "[RELEASE] TV Time (Video) Addon Version 2.0"
+[13]: https://gist.github.com/eteubert/5986525?utm_source=chatgpt.com "List of Podcast RSS Feeds, extracted via iTunes API"
+[14]: https://podnews.net/article/video-apple-podcasts-details?utm_source=chatgpt.com "Video in Apple Podcasts - all the details"
 
 
 If you want to *exhaust* “open RSS feeds that actually ship video”, the closest thing to a complete list is Podcast Index’s crawl: they measured **113,597 open RSS video podcasts** in the index (Dec 2025), and **~94%** of them use `.mp4` as the latest enclosure filename. ([Podnews][1])
