@@ -23,6 +23,8 @@ A web-first “TV set” with:
 
 The core rule early on: **no audio-only playback**. If there’s no real video enclosure, the item/feed doesn’t play. 
 
+- may swipe to other 'channels' and will change channel and segment, so we can double/triple dip on individual episodes, but maybe we track a cooldown for adjacent/close themes. a smamm graph/network based on tags might help this, for either near or far travels. A little/lite pattern following and recommendation might work since we track backend enriched feeds, we could build a recomendation-cache (multi purpose queryable) to help with that.
+
 ### The “TV” behaviours (what makes it feel like a set)
 
 The app isn’t trying to be a good library, it’s trying to be good background TV:
