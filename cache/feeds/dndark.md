@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-02-24T16:16:09+00:00`
-- checked_at: `2026-02-24T16:16:09+00:00`
+- fetched_at: `2026-02-24T19:28:25+00:00`
+- checked_at: `2026-02-24T19:28:25+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Realplay Podcast starring the iconic monsters of the Golden Age of Horror",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-02-24T16:16:09+00:00",
+  "fetched_at": "2026-02-24T19:28:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

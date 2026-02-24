@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- last_modified: `Mon, 23 Feb 2026 18:42:03 GMT`
+- fetched_at: `2026-02-24T19:28:25+00:00`
+- checked_at: `2026-02-24T19:28:25+00:00`
+- last_modified: `Tue, 24 Feb 2026 19:18:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-02-24T19:28:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -82,14 +82,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5324",
       "speakers": [
-        "Shadowdark Rpg",
-        "Foundry Vtt",
-        "Norse Foundry",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "suspicion",
@@ -155,14 +148,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6147",
       "speakers": [
-        "Shadowdark Rpg",
-        "Foundry Vtt",
-        "Norse Foundry",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "fish",
@@ -229,14 +215,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5525",
       "speakers": [
-        "Shadowdark Rpg",
-        "Foundry Vtt",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "breath",
@@ -302,14 +281,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5293",
       "speakers": [
-        "Shadowdark Rpg",
-        "Foundry Vtt",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "tread",
@@ -352,7 +324,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4215",
       "speakers": [
-        "exclusive podcasts"
+        "River Without",
+        "Frozen Flame Wrestling",
+        "Gornok River"
       ],
       "topics": [
         "river",
@@ -377,14 +351,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6504",
       "speakers": [
-        "Shadowdark Rpg",
-        "Foundry Vtt",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "glass",
@@ -466,14 +433,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5780",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "failure",
@@ -540,14 +500,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6076",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "dark",
@@ -569,7 +522,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "243",
-      "speakers": [],
+      "speakers": [
+        "News Minutes January"
+      ],
       "topics": [
         "news",
         "minutes",
@@ -613,14 +568,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5746",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "prison",
@@ -642,7 +590,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "221",
-      "speakers": [],
+      "speakers": [
+        "News Minute December"
+      ],
       "topics": [
         "news",
         "minute",
@@ -688,8 +638,7 @@
       "speakers": [
         "Ross Bryant",
         "Skid Maher",
-        "Mary Lou",
-        "Joe O'Brien"
+        "Mary Lou"
       ],
       "topics": [
         "breaks",
@@ -709,7 +658,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "288",
-      "speakers": [],
+      "speakers": [
+        "News Minute December"
+      ],
       "topics": [
         "news",
         "minute",
@@ -752,14 +703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "12115",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "thorn",
         "glass",
@@ -781,14 +725,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5917",
       "speakers": [
-        "Shadowdark Rpg",
-        "CritHeads Gaming",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "holy",
@@ -810,7 +747,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "243",
-      "speakers": [],
+      "speakers": [
+        "News Minute December",
+        "Bloody Christmas"
+      ],
       "topics": [
         "news",
         "minute",
@@ -829,14 +769,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8990",
       "speakers": [
-        "Rosewood Vale",
-        "DeWV lJacRQ",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Rosewood Vale"
       ],
       "topics": [
         "shepherd",
@@ -859,14 +792,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5825",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "play",
@@ -888,7 +814,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "243",
-      "speakers": [],
+      "speakers": [
+        "News Minute December"
+      ],
       "topics": [
         "news",
         "minute",
@@ -907,12 +835,9 @@
       "enclosure_length": "0",
       "itunes_duration": "8634",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Season Three Finale",
+        "Mystery Squad"
       ],
       "topics": [
         "walkabout",
@@ -935,14 +860,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5723",
       "speakers": [
-        "Shadowdark Rpg",
-        "CritHeads Gaming",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "vision",
@@ -963,7 +881,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "214",
-      "speakers": [],
+      "speakers": [
+        "News Minute December",
+        "Cyber Monday"
+      ],
       "topics": [
         "news",
         "minute",
@@ -981,15 +902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8128",
-      "speakers": [
-        "Bn Lrtw",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "toddy",
         "time",
@@ -1013,11 +926,7 @@
       "speakers": [
         "Marvel Multiverse Rpg",
         "Troy Lavallee",
-        "Skid Maher",
-        "Joe O’Brien",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Nick Lowe"
+        "Skid Maher"
       ],
       "topics": [
         "spider",
@@ -1039,7 +948,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "243",
-      "speakers": [],
+      "speakers": [
+        "News Minute November",
+        "Black Friday"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1058,12 +970,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8312",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Nyarlathotep New"
       ],
       "topics": [
         "plunder",
@@ -1086,14 +994,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5288",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "meat",
@@ -1114,7 +1015,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "243",
-      "speakers": [],
+      "speakers": [
+        "News Minute November"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1133,12 +1036,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7343",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Where Women Glow",
+        "Cthulhu Masks"
       ],
       "topics": [
         "woman",
@@ -1161,14 +1060,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6349",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "touch",
@@ -1190,7 +1082,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "332",
-      "speakers": [],
+      "speakers": [
+        "News Minute November"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1209,12 +1103,10 @@
       "enclosure_length": "0",
       "itunes_duration": "8413",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Mysterious Team",
+        "Cthulhu Masks",
+        "Nyarlathotep After",
+        "Gray Dragon Island"
       ],
       "topics": [
         "mysterious",
@@ -1238,14 +1130,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5577",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "gloaming",
@@ -1266,14 +1151,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8339",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "dusk",
         "dawnblade",
@@ -1314,13 +1192,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6830",
       "speakers": [
-        "Prometheus Bound",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Prometheus Bound"
       ],
       "topics": [
         "prometheus",
@@ -1343,14 +1215,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8786",
       "speakers": [
-        "Shadowdark Rpg",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien Cinematographer",
-        "Matt Brodie Producer",
-        "Michael Mooridian Art Direction",
-        "Jason Charles Miller Performed"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "moon",
@@ -1392,7 +1257,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "421",
-      "speakers": [],
+      "speakers": [
+        "News Minute October"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1411,12 +1278,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8127",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Nyarlathotep Within"
       ],
       "topics": [
         "viper",
@@ -1441,13 +1304,7 @@
       "itunes_duration": "8516",
       "speakers": [
         "Thief Wizard",
-        "Shadowdark Rpg",
-        "Gamemaster Troy Lavallee",
-        "Sydney Amanuel",
-        "Matthew Capodicasa",
-        "Skid Maher",
-        "Joe O'Brien",
-        "cyqJ nBE"
+        "Shadowdark Rpg"
       ],
       "topics": [
         "fighter",
@@ -1471,7 +1328,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "273",
-      "speakers": [],
+      "speakers": [
+        "News Minute October"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1490,12 +1349,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7367",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Gray Dragon Island"
       ],
       "topics": [
         "world",
@@ -1519,14 +1374,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6473",
       "speakers": [
-        "Gim Faldhur",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Kate Stamas",
-        "Jared Logan",
-        "Troy Lavallee",
-        "Sydney Amanuel"
+        "Gim Faldhur"
       ],
       "topics": [
         "gauntlet",
@@ -1545,7 +1393,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "291",
-      "speakers": [],
+      "speakers": [
+        "News Minute October"
+      ],
       "topics": [
         "news",
         "minute",
@@ -1564,12 +1414,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7267",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Last Rites",
+        "Cthulhu Masks",
+        "Gray Dragon Island"
       ],
       "topics": [
         "rites",
@@ -1591,16 +1438,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5577",
-      "speakers": [
-        "Gcn Gauntlet",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Mary Lou",
-        "Troy Lavallee",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gauntlet",
         "wrecks"
@@ -1618,12 +1456,8 @@
       "enclosure_length": "0",
       "itunes_duration": "348",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "News Minute October",
+        "News Minute"
       ],
       "topics": [
         "news",
@@ -1643,13 +1477,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8337",
       "speakers": [
-        "Ho Fang",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ho Fang"
       ],
       "topics": [
         "occidental",
@@ -1672,16 +1500,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7127",
-      "speakers": [
-        "Joe O'Brien",
-        "Matthew Capodicasa",
-        "Mary Lou",
-        "Jared Logan",
-        "Rob Kerkovich",
-        "Sydney Amanuel",
-        "Troy Lavallee",
-        "Skid Maher"
-      ],
+      "speakers": [],
       "topics": [
         "gauntlet",
         "snakes",
@@ -1699,14 +1518,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8417",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "country",
         "omen",
@@ -1729,14 +1541,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6962",
       "speakers": [
-        "Mummy Dearest",
-        "Joe O'Brien",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "Jared Logan",
-        "Rob Kerkovich",
-        "Troy Lavallee"
+        "Mummy Dearest"
       ],
       "topics": [
         "gauntlet",
@@ -1756,14 +1561,7 @@
       "enclosure_length": "0",
       "itunes_duration": "14840",
       "speakers": [
-        "Featuring Tons",
-        "Matthew Capodicasa",
-        "Erik Mona",
-        "Mary Lou",
-        "Rob Kerkovich",
-        "Sydney Amanuel",
-        "Paula Deming",
-        "Troy Lavallee"
+        "Featuring Tons"
       ],
       "topics": [
         "glass",
@@ -1784,14 +1582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "15041",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "unbearable",
@@ -1809,14 +1600,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7920",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -1840,14 +1624,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8713",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "noodles",
         "time",
@@ -1868,14 +1645,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6499",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "substitute",
@@ -1894,13 +1664,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7705",
       "speakers": [
-        "Spy Fact",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Spy Fact"
       ],
       "topics": [
         "glass",
@@ -1926,13 +1690,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8506",
       "speakers": [
-        "Jack Brady",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Jack Brady"
       ],
       "topics": [
         "brass",
@@ -1956,12 +1714,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6898",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Day Deep"
       ],
       "topics": [
         "gatewalker",
@@ -1979,14 +1732,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8042",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -2011,14 +1757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7912",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "jake",
         "time",
@@ -2039,14 +1778,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5261",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "whiny",
@@ -2064,15 +1796,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9849",
-      "speakers": [
-        "Scott Dorward",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "life",
@@ -2090,14 +1814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7570",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -2122,13 +1839,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8326",
       "speakers": [
-        "Jack Brady",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Jack Brady"
       ],
       "topics": [
         "sophrosyne",
@@ -2150,14 +1861,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6421",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "buffs",
@@ -2177,13 +1881,7 @@
       "itunes_duration": "5245",
       "speakers": [
         "John Harper Game Design",
-        "John Harper",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "John Harper"
       ],
       "topics": [
         "glass",
@@ -2209,14 +1907,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7873",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "mettle",
         "honor",
@@ -2239,13 +1930,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7510",
       "speakers": [
-        "Bared Fang",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Bared Fang"
       ],
       "topics": [
         "fang",
@@ -2268,12 +1953,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5473",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Nameless Spires"
       ],
       "topics": [
         "gatewalker",
@@ -2293,14 +1973,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7641",
       "speakers": [
-        "Mary Lou",
-        "Chris McDowall",
-        "Mythic Bastionland",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Mary Lou"
       ],
       "topics": [
         "glass",
@@ -2325,13 +1998,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7051",
       "speakers": [
-        "Feng Shui",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Feng Shui"
       ],
       "topics": [
         "feng",
@@ -2354,14 +2021,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6077",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "queen"
@@ -2380,13 +2040,7 @@
       "itunes_duration": "7104",
       "speakers": [
         "Paula Deming Board",
-        "Paula Deming",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Paula Deming"
       ],
       "topics": [
         "glass",
@@ -2411,13 +2065,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8523",
       "speakers": [
-        "Ho Fang",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ho Fang"
       ],
       "topics": [
         "cute",
@@ -2439,14 +2087,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7297",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "song",
@@ -2484,13 +2125,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4116",
       "speakers": [
-        "Gen Con-week",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Gen Con-week"
       ],
       "topics": [
         "glass",
@@ -2513,13 +2148,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8197",
       "speakers": [
-        "Glass Houses",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Houses"
       ],
       "topics": [
         "glass",
@@ -2543,12 +2172,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6381",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Nameless Spires"
       ],
       "topics": [
         "gatewalker",
@@ -2568,13 +2192,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7597",
       "speakers": [
-        "Mary Lou",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Mary Lou"
       ],
       "topics": [
         "glass",
@@ -2600,14 +2218,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8035",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "fearful",
         "symmetry",
@@ -2630,12 +2241,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6696",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Scrapegoats Reality"
       ],
       "topics": [
         "gatewalker",
@@ -2655,13 +2261,7 @@
       "itunes_duration": "8193",
       "speakers": [
         "Seth Skorkowsky",
-        "Andy Weir",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Andy Weir"
       ],
       "topics": [
         "glass",
@@ -2689,11 +2289,7 @@
       "itunes_duration": "5679",
       "speakers": [
         "Skid Maher",
-        "Matthew Capodicasa",
-        "Kate Stamas",
-        "Jared Logan",
-        "Sydney Amanuel",
-        "Joe O'Brien"
+        "Matthew Capodi"
       ],
       "topics": [
         "gauntlet"
@@ -2711,12 +2307,10 @@
       "enclosure_length": "0",
       "itunes_duration": "8322",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Batter My Heart",
+        "Cthulhu Masks",
+        "Black Pharaoh",
+        "Misr House"
       ],
       "topics": [
         "batter",
@@ -2739,14 +2333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5580",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "moving",
@@ -2765,14 +2352,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7811",
       "speakers": [
-        "James Gunn",
-        "Skid Maher",
-        "James Gunn Superhero",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "James Gunn"
       ],
       "topics": [
         "glass",
@@ -2795,14 +2375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8157",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "phantom",
         "punch",
@@ -2825,12 +2398,8 @@
       "enclosure_length": "0",
       "itunes_duration": "17847",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Misr House"
       ],
       "topics": [
         "death",
@@ -2852,14 +2421,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6887",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "bitten"
@@ -2876,14 +2438,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7142",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -2908,14 +2463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "10777",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "island",
         "time",
@@ -2937,12 +2485,9 @@
       "enclosure_length": "0",
       "itunes_duration": "9015",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "One Little Room",
+        "Cthulhu Masks",
+        "Nyarlathotep After"
       ],
       "topics": [
         "room",
@@ -2964,14 +2509,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7555",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "smoke",
         "water",
@@ -2994,12 +2532,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7708",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks"
       ],
       "topics": [
         "exhibit",
@@ -3022,13 +2555,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8564",
       "speakers": [
-        "Rosewood Vale",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "hubs li"
+        "Rosewood Vale"
       ],
       "topics": [
         "kingdom",
@@ -3051,12 +2578,9 @@
       "enclosure_length": "0",
       "itunes_duration": "8102",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Hidden Lines",
+        "Cthulhu Masks",
+        "Henson Manufacturing"
       ],
       "topics": [
         "hidden",
@@ -3080,13 +2604,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5860",
       "speakers": [
-        "Yurty Rotten Scoundrels",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Yurty Rotten Scoundrels"
       ],
       "topics": [
         "gatewalker",
@@ -3106,14 +2624,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7758",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "safe",
         "house",
@@ -3135,14 +2646,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7331",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -3166,14 +2670,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8535",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "duck",
         "time",
@@ -3195,12 +2692,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7687",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Nyarlathotep Content Warning"
       ],
       "topics": [
         "prodigal",
@@ -3223,13 +2716,9 @@
       "enclosure_length": "0",
       "itunes_duration": "8619",
       "speakers": [
-        "Plum Castle",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Old Habits",
+        "Cthulhu Masks",
+        "Nyarlathotep Content Warning"
       ],
       "topics": [
         "habits",
@@ -3251,14 +2740,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6000",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "extinction"
@@ -3275,14 +2757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7527",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "lupus",
         "fabula",
@@ -3304,14 +2779,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7428",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -3334,12 +2802,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8077",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks"
       ],
       "topics": [
         "orders",
@@ -3362,12 +2825,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7601",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Four Great Beasts",
+        "Cthulhu Masks",
+        "Empire Spices"
       ],
       "topics": [
         "great",
@@ -3390,14 +2850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8843",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "chaos",
@@ -3418,12 +2871,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7862",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks"
       ],
       "topics": [
         "hearts",
@@ -3446,14 +2894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7646",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "great",
@@ -3472,12 +2913,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7393",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Night Terrors",
+        "Cthulhu Masks"
       ],
       "topics": [
         "night",
@@ -3500,14 +2937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8027",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "critic",
         "time",
@@ -3529,13 +2959,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7694",
       "speakers": [
-        "Jackson Elias",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Jackson Elias"
       ],
       "topics": [
         "artist",
@@ -3558,14 +2982,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7811",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "cruise",
         "line",
@@ -3589,14 +3006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7920",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "temptation",
         "anthony",
@@ -3618,14 +3028,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "16513",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "lunatic",
         "head",
@@ -3648,13 +3051,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5294",
       "speakers": [
-        "Roust Us",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Roust Us"
       ],
       "topics": [
         "gatewalker",
@@ -3674,12 +3071,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7912",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Carlyle Mansion"
       ],
       "topics": [
         "life",
@@ -3703,12 +3096,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7229",
       "speakers": [
-        "Skid Maher",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Skid Maher"
       ],
       "topics": [
         "glass",
@@ -3734,13 +3122,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7944",
       "speakers": [
-        "Erica Carlyle",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Maniac Mansion",
+        "Cthulhu Masks",
+        "Carlyle Mansion"
       ],
       "topics": [
         "maniac",
@@ -3764,13 +3148,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7851",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ju-Ju House"
       ],
       "topics": [
         "mystery",
@@ -3794,13 +3172,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7708",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ju-Ju House"
       ],
       "topics": [
         "soldier",
@@ -3823,13 +3195,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7842",
       "speakers": [
-        "Ju-Ju House",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ju-Ju House"
       ],
       "topics": [
         "moonlight",
@@ -3851,14 +3217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5707",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker"
       ]
@@ -3875,12 +3234,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7724",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Spot Hidden",
+        "Cthulhu Masks",
+        "Nyarlathotep New"
       ],
       "topics": [
         "time",
@@ -3902,12 +3258,11 @@
       "enclosure_length": "0",
       "itunes_duration": "7638",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Cannon Radio",
+        "What Makes",
+        "Great Roleplayer",
+        "Best Sports Movies",
+        "All Time"
       ],
       "topics": [
         "glass",
@@ -3933,14 +3288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7920",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "house",
@@ -3963,12 +3311,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7895",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Harlem Shuffle",
+        "Cthulhu Masks"
       ],
       "topics": [
         "harlem",
@@ -3992,13 +3336,9 @@
       "enclosure_length": "0",
       "itunes_duration": "8559",
       "speakers": [
-        "nNSrj CgqA",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Scream Together",
+        "Cthulhu Masks",
+        "Police Station"
       ],
       "topics": [
         "time",
@@ -4019,14 +3359,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7858",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "vault"
@@ -4044,12 +3377,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8510",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "Nyarlathotep After"
       ],
       "topics": [
         "time",
@@ -4071,13 +3400,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7709",
       "speakers": [
-        "Jackson Elias",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Cthulhu Masks",
+        "New York City"
       ],
       "topics": [
         "room",
@@ -4100,13 +3424,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7423",
       "speakers": [
-        "Matthew Capodicasa",
-        "Hobby Mission",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Matthew Capodicasa"
       ],
       "topics": [
         "glass",
@@ -4132,13 +3450,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8562",
       "speakers": [
-        "Homeward Bound",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Homeward Bound"
       ],
       "topics": [
         "homeward",
@@ -4161,14 +3473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7907",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "exquisite",
         "corpses",
@@ -4191,12 +3496,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7835",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Little Tear",
+        "Cthulhu Masks"
       ],
       "topics": [
         "tear",
@@ -4219,13 +3520,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8669",
       "speakers": [
-        "Rosewood Vale",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Rosewood Vale"
       ],
       "topics": [
         "rider",
@@ -4248,12 +3543,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8078",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Lake Titicaca",
+        "Cthulhu Masks"
       ],
       "topics": [
         "lake",
@@ -4277,14 +3568,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5739",
       "speakers": [
-        "Loosey Balls",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "hubs li"
+        "Loosey Balls"
       ],
       "topics": [
         "gatewalker",
@@ -4304,13 +3588,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9091",
       "speakers": [
-        "Augustus Larkin",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Augustus Larkin"
       ],
       "topics": [
         "devil",
@@ -4335,14 +3613,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7561",
       "speakers": [
-        "Christopher Buehlman",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "hubs li"
+        "Christopher Buehlman"
       ],
       "topics": [
         "glass",
@@ -4367,14 +3638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7929",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "kiss",
         "time",
@@ -4396,13 +3660,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8927",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "hubs li"
+        "Pisco Sour",
+        "Cthulhu Masks"
       ],
       "topics": [
         "pisco",
@@ -4430,10 +3689,7 @@
         "Ross Bryant",
         "Noura Ibrahim",
         "Kate Stamas",
-        "Rob Kerkovich",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher"
+        "Rob Kerko"
       ],
       "topics": [
         "dramatis",
@@ -4456,15 +3712,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "105",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "hubs li"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "chaos",
@@ -4483,13 +3731,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8211",
       "speakers": [
-        "Choking Hazard",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Choking Hazard"
       ],
       "topics": [
         "hazard",
@@ -4511,14 +3753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5299",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "doctor",
@@ -4537,12 +3772,10 @@
       "enclosure_length": "0",
       "itunes_duration": "7213",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Cannon Radio",
+        "Andor Season",
+        "Novels Why",
+        "Star Wars"
       ],
       "topics": [
         "glass",
@@ -4569,12 +3802,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4690",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Orders More"
       ],
       "topics": [
         "gatewalker",
@@ -4594,14 +3822,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7422",
       "speakers": [
-        "Mary Lou",
-        "Brandon Sanderson",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Mary Lou"
       ],
       "topics": [
         "glass",
@@ -4627,12 +3848,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5551",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Fast Sleep"
       ],
       "topics": [
         "gatewalker",
@@ -4653,13 +3869,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7359",
       "speakers": [
-        "Mary Lou",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Mary Lou"
       ],
       "topics": [
         "glass",
@@ -4684,12 +3894,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5663",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Very Special Old Whale"
       ],
       "topics": [
         "gatewalker",
@@ -4709,12 +3914,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7531",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Cannon Radio",
+        "Online Toxicity",
+        "Character Sheets Then"
       ],
       "topics": [
         "glass",
@@ -4738,14 +3940,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6710",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "daemon",
@@ -4765,13 +3960,7 @@
       "itunes_duration": "7221",
       "speakers": [
         "Erik Mona",
-        "Skid Maher",
-        "Forgotten Realms",
-        "Dark Sun",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Skid Maher"
       ],
       "topics": [
         "glass",
@@ -4796,14 +3985,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8700",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gathering",
         "glass",
@@ -4825,12 +4007,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6594",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ritalson Manor"
       ],
       "topics": [
         "gatewalker",
@@ -4850,13 +4027,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7620",
       "speakers": [
-        "Paranoia Rpg",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Paranoia Rpg"
       ],
       "topics": [
         "glass",
@@ -4879,15 +4050,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8929",
-      "speakers": [
-        "roz iuSvU",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "glass",
         "cannon",
@@ -4907,14 +4070,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5219",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "dinner",
@@ -4933,12 +4089,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7783",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Cannon Radio",
+        "Greatest Action Heroes"
       ],
       "topics": [
         "glass",
@@ -4964,13 +4116,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7479",
       "speakers": [
-        "Mint Mobile",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ritalson Manor"
       ],
       "topics": [
         "gatewalker",
@@ -4989,14 +4135,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7618",
       "speakers": [
-        "Brian Holland",
-        "Mad Max",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Brian Holland"
       ],
       "topics": [
         "glass",
@@ -5020,14 +4159,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "10081",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "mistwood",
         "glass",
@@ -5048,14 +4180,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5204",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "party"
@@ -5073,13 +4198,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7606",
       "speakers": [
-        "opEOQ Access",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Glass Cannon Radio",
+        "Irish Folklore Joe"
       ],
       "topics": [
         "glass",
@@ -5104,13 +4224,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9384",
       "speakers": [
-        "Rosewood Vale",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Rosewood Vale"
       ],
       "topics": [
         "rose",
@@ -5152,8 +4266,7 @@
       "itunes_duration": "6994",
       "speakers": [
         "Beat McD",
-        "Dungeon Crawler Carl",
-        "Mario Day"
+        "Dungeon Crawler Carl"
       ],
       "topics": [
         "glass",
@@ -5177,9 +4290,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5964",
-      "speakers": [
-        "Mint Mobile"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "room"
@@ -5236,7 +4347,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8351",
-      "speakers": [],
+      "speakers": [
+        "Glass Cannon Radio",
+        "Winter Movie Rankings",
+        "Pendragon Returns What"
+      ],
       "topics": [
         "glass",
         "cannon",
@@ -5279,14 +4394,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4502",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "guards",
         "glass",
@@ -5349,7 +4457,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7818",
-      "speakers": [],
+      "speakers": [
+        "strange visions",
+        "new dangers"
+      ],
       "topics": [
         "gatewalker",
         "hanky",
@@ -5369,8 +4480,9 @@
       "enclosure_length": "0",
       "itunes_duration": "7698",
       "speakers": [
-        "David Lynch",
-        "Twin Peaks"
+        "Glass Cannon Radio",
+        "Media Ownership",
+        "Founder Skid Maher"
       ],
       "topics": [
         "glass",
@@ -5412,7 +4524,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7750",
       "speakers": [
-        "Andrew Clayton"
+        "Glass Cannon Radio",
+        "Tabletop Technology"
       ],
       "topics": [
         "glass",
@@ -5437,9 +4550,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6772",
-      "speakers": [
-        "hdxZ mNuh"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker"
       ]
@@ -5456,11 +4567,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7678",
       "speakers": [
-        "Superman Welcome",
-        "Jared Logan",
-        "Joe O'Brien",
-        "David Lynch",
-        "James Gunn"
+        "Superman Welcome"
       ],
       "topics": [
         "glass",
@@ -5519,14 +4626,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9554",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -5544,9 +4644,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5041",
-      "speakers": [
-        "code newyearnewdice"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "bard"
@@ -5564,7 +4662,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5358",
       "speakers": [
-        "code newyearnewdice"
+        "Bard Day",
+        "Mystic Market"
       ],
       "topics": [
         "gatewalker",
@@ -5584,7 +4683,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5384",
       "speakers": [
-        "code newyearnewdice"
+        "Sad Songs",
+        "Fey So Much",
+        "Smiling Wolves"
       ],
       "topics": [
         "gatewalker",
@@ -5662,8 +4763,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3463",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -5681,13 +4781,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9666",
-      "speakers": [
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -5742,14 +4836,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9482",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -5788,9 +4875,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3771",
       "speakers": [
-        "Cannon Fodder",
-        "Rousing Splash",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -5868,8 +4953,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2957",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -5906,8 +4990,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3444",
       "speakers": [
-        "Cannon Fodder",
-        "LxsNlomJQ Access"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -5943,8 +5026,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2778",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -5982,8 +5064,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3156",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6003,13 +5084,7 @@
       "itunes_duration": "9298",
       "speakers": [
         "Boston Slow",
-        "Elder Lythiin",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Elder Lythiin"
       ],
       "topics": [
         "strange",
@@ -6028,9 +5103,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6200",
-      "speakers": [
-        "Forgotten King"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "tickled",
@@ -6049,8 +5122,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2466",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6088,8 +5160,7 @@
       "itunes_duration": "3188",
       "speakers": [
         "Cannon Fodder",
-        "Jared Logan",
-        "Broken Weave"
+        "Jared Logan"
       ],
       "topics": [
         "cannon",
@@ -6166,8 +5237,7 @@
       "itunes_duration": "3891",
       "speakers": [
         "Cannon Fodder",
-        "Andrew Clayton",
-        "Foundry Vtt"
+        "Andrew Clayton"
       ],
       "topics": [
         "cannon",
@@ -6203,8 +5273,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3748",
       "speakers": [
-        "Cannon Fodder",
-        "zV IQoprTYo"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6243,9 +5312,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3070",
-      "speakers": [
-        "Listener Mail"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -6262,14 +5329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9565",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons"
@@ -6304,10 +5364,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3595",
-      "speakers": [
-        "Foundry Vtt",
-        "Listener Mail"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -6342,7 +5399,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6085",
-      "speakers": [],
+      "speakers": [
+        "Shoot After"
+      ],
       "topics": [
         "gatewalker",
         "paralaralinglong"
@@ -6361,9 +5420,7 @@
       "itunes_duration": "2405",
       "speakers": [
         "Cannon Fodder",
-        "Another Gen Con",
-        "Gen Con",
-        "Listener Mail"
+        "Another Gen Con"
       ],
       "topics": [
         "cannon",
@@ -6400,8 +5457,7 @@
       "itunes_duration": "3061",
       "speakers": [
         "Cannon Fodder",
-        "Gen Con",
-        "Listener Mail"
+        "Gen Con"
       ],
       "topics": [
         "cannon",
@@ -6438,8 +5494,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2222",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6458,8 +5513,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5042",
       "speakers": [
-        "Shroom Goes",
-        "Foundry Vtt"
+        "Shroom Goes"
       ],
       "topics": [
         "gatewalker",
@@ -6479,8 +5533,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2795",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6499,12 +5552,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9165",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Devil Went Down"
       ],
       "topics": [
         "strange",
@@ -6524,9 +5572,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6124",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "shame"
@@ -6543,14 +5589,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8176",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -6572,7 +5611,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5856",
       "speakers": [
-        "Foundry Vtt"
+        "Well Deep"
       ],
       "topics": [
         "gatewalker",
@@ -6590,12 +5629,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2709",
-      "speakers": [
-        "Gen Con",
-        "Lore Skills",
-        "Skill Feats",
-        "Cannon Fodder"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -6612,9 +5646,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6896",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "star",
@@ -6634,9 +5666,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2337",
-      "speakers": [
-        "Listener Mail"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -6653,14 +5683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9529",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -6680,7 +5703,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5711",
       "speakers": [
-        "Foundry Vtt"
+        "Gondola Baby Gondola Flying"
       ],
       "topics": [
         "gatewalker",
@@ -6700,8 +5723,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2624",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -6719,14 +5741,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8428",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -6744,9 +5759,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5637",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "neverending",
@@ -6783,9 +5796,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6510",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "teacher"
@@ -6821,9 +5832,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6640",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "moments"
@@ -6840,14 +5849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9463",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -6867,7 +5869,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6384",
       "speakers": [
-        "Foundry Vtt"
+        "Come Snail Away"
       ],
       "topics": [
         "gatewalker",
@@ -6885,14 +5887,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9157",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -6911,9 +5906,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5597",
-      "speakers": [
-        "Recovery Check"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -6931,7 +5924,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7375",
       "speakers": [
-        "Foundry Vtt"
+        "Got Snail"
       ],
       "topics": [
         "gatewalker",
@@ -6970,9 +5963,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6292",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "hungry",
@@ -6991,10 +5982,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2916",
       "speakers": [
-        "Cannon Fodder",
-        "Glass Cannon Labs",
-        "Paizo AP",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7013,7 +6001,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5310",
       "speakers": [
-        "Foundry Vtt"
+        "No Place Like Home"
       ],
       "topics": [
         "gatewalker",
@@ -7033,8 +6021,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3474",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7053,12 +6040,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9260",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Miackniun Mun"
       ],
       "topics": [
         "strange",
@@ -7077,9 +6059,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7595",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "slim",
@@ -7098,10 +6078,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3184",
       "speakers": [
-        "Cannon Fodder",
-        "Blade Runner",
-        "Talk Nerdy",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7119,9 +6096,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5373",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "eugenics"
@@ -7138,14 +6113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9043",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons"
@@ -7162,9 +6130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5439",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker"
       ]
@@ -7200,7 +6166,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6881",
       "speakers": [
-        "Foundry Vtt"
+        "Remain Silent Rested"
       ],
       "topics": [
         "gatewalker",
@@ -7219,8 +6185,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3522",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7238,9 +6203,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5352",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "harm"
@@ -7278,7 +6241,7 @@
       "itunes_duration": "5648",
       "speakers": [
         "Groundhog Shae",
-        "Foundry Vtt"
+        "kxwc Thi"
       ],
       "topics": [
         "gatewalker",
@@ -7298,8 +6261,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3831",
       "speakers": [
-        "Cannon Fodder",
-        "Recall Knowledge"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7317,9 +6279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6235",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "fleshy",
@@ -7356,9 +6316,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6404",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "artful",
@@ -7377,8 +6335,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3838",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7397,8 +6354,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7082",
       "speakers": [
-        "Trauma Centaur",
-        "Foundry Vtt"
+        "Trauma Centaur"
       ],
       "topics": [
         "gatewalker",
@@ -7437,7 +6393,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5227",
       "speakers": [
-        "Foundry Vtt"
+        "Swarm Upon",
+        "First World"
       ],
       "topics": [
         "gatewalker",
@@ -7478,8 +6435,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6538",
       "speakers": [
-        "David Koresh",
-        "Foundry Vtt"
+        "David Koresh"
       ],
       "topics": [
         "gatewalker",
@@ -7499,9 +6455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2970",
-      "speakers": [
-        "Abubakar Salim"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -7519,7 +6473,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5691",
       "speakers": [
-        "Foundry Vtt"
+        "Close Encounters",
+        "Bird Kind"
       ],
       "topics": [
         "gatewalker",
@@ -7540,8 +6495,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2898",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7560,7 +6514,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6018",
       "speakers": [
-        "Foundry Vtt"
+        "Thinlands Farms"
       ],
       "topics": [
         "gatewalker",
@@ -7583,8 +6537,7 @@
       "speakers": [
         "Cannon Fodder",
         "Skid Maher",
-        "Sydney Amanuel",
-        "Listener Mail"
+        "Sydney Amanuel"
       ],
       "topics": [
         "cannon",
@@ -7602,9 +6555,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5966",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "dogs"
@@ -7622,10 +6573,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2970",
       "speakers": [
-        "Cannon Fodder",
-        "Glass Cannon Labs",
-        "Listener Mail",
-        "Roger Cumstone"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7644,8 +6592,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6011",
       "speakers": [
-        "Mule Intentions",
-        "Foundry Vtt"
+        "Mule Intentions"
       ],
       "topics": [
         "gatewalker",
@@ -7683,9 +6630,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5486",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "jones",
@@ -7703,10 +6648,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3750",
-      "speakers": [
-        "Glass Cannon Labs",
-        "Listener Mail"
-      ],
+      "speakers": [],
       "topics": [
         "cannon",
         "fodder"
@@ -7723,9 +6665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5967",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "math"
@@ -7742,9 +6682,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5612",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "chekhov",
@@ -7762,9 +6700,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5718",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "gnome",
@@ -7783,13 +6719,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9271",
       "speakers": [
-        "Art Attack",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Art Attack"
       ],
       "topics": [
         "strange",
@@ -7828,7 +6758,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4975",
       "speakers": [
-        "Foundry Vtt"
+        "So Help Me Gourd"
       ],
       "topics": [
         "gatewalker",
@@ -7866,7 +6796,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4995",
       "speakers": [
-        "Foundry Vtt"
+        "Ladder Two"
       ],
       "topics": [
         "gatewalker",
@@ -7886,8 +6816,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2998",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7906,8 +6835,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3257",
       "speakers": [
-        "Cannon Fodder",
-        "Purple Worm"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7926,13 +6854,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9123",
       "speakers": [
-        "Another Mun Bites",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Another Mun Bites"
       ],
       "topics": [
         "strange",
@@ -7952,9 +6874,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5660",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "dancer",
@@ -7973,8 +6893,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4017",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -7993,7 +6912,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5999",
       "speakers": [
-        "Foundry Vtt"
+        "Turner Overshirt Back"
       ],
       "topics": [
         "gatewalker",
@@ -8014,8 +6933,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1720",
       "speakers": [
-        "Cannon Fodder",
-        "Massive Damage"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8034,7 +6952,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4356",
       "speakers": [
-        "Foundry Vtt"
+        "Dying Too After"
       ],
       "topics": [
         "gatewalker"
@@ -8071,12 +6989,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9392",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Use Ochre Jelly After"
       ],
       "topics": [
         "strange",
@@ -8096,9 +7009,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6114",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "tree",
@@ -8136,8 +7047,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5946",
       "speakers": [
-        "Treehouse Abhorrer",
-        "Foundry Vtt"
+        "Treehouse Abhorrer"
       ],
       "topics": [
         "gatewalker",
@@ -8157,8 +7067,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3410",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8176,9 +7085,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5591",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "child",
@@ -8197,8 +7104,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3067",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8216,9 +7122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4197",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "shadows"
@@ -8236,8 +7140,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3269",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8256,7 +7159,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6138",
       "speakers": [
-        "Foundry Vtt"
+        "Ooh Baby Baby",
+        "Wilewood Having"
       ],
       "topics": [
         "gatewalker",
@@ -8276,8 +7180,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2978",
       "speakers": [
-        "Cannon Fodder",
-        "Listener Mail"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8296,12 +7199,8 @@
       "enclosure_length": "0",
       "itunes_duration": "10243",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Leader Weapons",
+        "Paradise Rock Club"
       ],
       "topics": [
         "strange",
@@ -8320,9 +7219,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5031",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "lady",
@@ -8359,9 +7256,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9006",
-      "speakers": [
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "tavern"
@@ -8416,15 +7311,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6548",
-      "speakers": [
-        "Gamemaster Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas",
-        "Foundry Vtt"
-      ],
+      "speakers": [],
       "topics": [
         "gatewalker",
         "session",
@@ -8461,15 +7348,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9243",
-      "speakers": [
-        "Gen Con",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -8546,14 +7425,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9667",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -8630,13 +7502,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7541",
       "speakers": [
-        "Yellow King",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Yellow King"
       ],
       "topics": [
         "strange",
@@ -8657,8 +7523,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2450",
       "speakers": [
-        "Cannon Fodder",
-        "Gnoll Fighter Qarizur"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8677,8 +7542,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2616",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8717,8 +7581,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1863",
       "speakers": [
-        "Cannon Fodder",
-        "Labs Experiment"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8737,12 +7600,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4788",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Troy Lavallee"
       ],
       "topics": [
         "strange",
@@ -8762,8 +7620,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2409",
       "speakers": [
-        "Cannon Fodder",
-        "Flensing Jawn"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8781,14 +7638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8955",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons"
@@ -8825,11 +7675,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8127",
       "speakers": [
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "One Dollar Pickle Glass"
       ],
       "topics": [
         "strange",
@@ -8850,8 +7696,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2770",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8872,10 +7717,7 @@
       "speakers": [
         "Troy Lavallee",
         "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Skid Maher"
       ],
       "topics": [
         "strange",
@@ -8915,11 +7757,7 @@
       "itunes_duration": "4575",
       "speakers": [
         "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Joe O'Brien"
       ],
       "topics": [
         "strange",
@@ -8940,8 +7778,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2203",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -8960,12 +7797,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4678",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Join Troy"
       ],
       "topics": [
         "strange",
@@ -9005,12 +7837,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4378",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Unwholesome Prison Blues Links"
       ],
       "topics": [
         "strange",
@@ -9032,8 +7859,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3108",
       "speakers": [
-        "Cannon Fodder",
-        "Glass Cannon Labs"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -9052,12 +7878,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8878",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Mile High Drub Glass"
       ],
       "topics": [
         "strange",
@@ -9079,8 +7900,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3221",
       "speakers": [
-        "Cannon Fodder",
-        "Gen Con"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -9099,12 +7919,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7428",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Troy Lava"
       ],
       "topics": [
         "strange",
@@ -9145,12 +7960,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5480",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Ghost Ride"
       ],
       "topics": [
         "strange",
@@ -9195,9 +8005,7 @@
         "Troy Lavallee",
         "Joe O'Brien",
         "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Matthew Capodicasa"
       ],
       "topics": [
         "strange",
@@ -9235,12 +8043,7 @@
       "itunes_duration": "5138",
       "speakers": [
         "Leng Story Short",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Troy Lavallee"
       ],
       "topics": [
         "strange",
@@ -9278,12 +8081,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5767",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Troy Lavallee"
       ],
       "topics": [
         "strange",
@@ -9305,8 +8103,7 @@
       "itunes_duration": "2881",
       "speakers": [
         "Cannon Fodder",
-        "Gen Con",
-        "Glass Cannon Labs"
+        "Gen Con"
       ],
       "topics": [
         "cannon",
@@ -9324,14 +8121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4677",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9350,8 +8140,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2080",
       "speakers": [
-        "Cannon Fodder",
-        "Glass Cannon Labs"
+        "Cannon Fodder"
       ],
       "topics": [
         "cannon",
@@ -9370,13 +8159,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6059",
       "speakers": [
-        "Citizen Leng",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Citizen Leng"
       ],
       "topics": [
         "strange",
@@ -9415,14 +8198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4645",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9461,11 +8237,7 @@
       "itunes_duration": "7069",
       "speakers": [
         "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Joe O'Bri"
       ],
       "topics": [
         "strange",
@@ -9503,14 +8275,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5107",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9548,12 +8313,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4499",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Verduran Forest"
       ],
       "topics": [
         "strange",
@@ -9610,14 +8370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4803",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9655,12 +8408,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3953",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
+        "Tricorne Flakes Just"
       ],
       "topics": [
         "strange",
@@ -9699,14 +8447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6204",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9744,14 +8485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6491",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel",
-        "Kate Stamas"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9774,8 +8508,7 @@
       "speakers": [
         "Cannon Fodder",
         "Joe kick",
-        "Glass Cannon Labs",
-        "Crushing Despair"
+        "Glass Cannon Labs"
       ],
       "topics": [
         "cannon",
@@ -9793,13 +8526,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8435",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9818,13 +8545,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "12248",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9843,11 +8564,7 @@
       "enclosure_length": "0",
       "itunes_duration": "10279",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Sellen Starling"
       ],
       "topics": [
         "strange",
@@ -9865,13 +8582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7164",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9891,12 +8602,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8704",
       "speakers": [
-        "Kate Stamas",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Neck Mouth"
       ],
       "topics": [
         "strange",
@@ -9918,12 +8624,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8351",
       "speakers": [
-        "Sellen Starling",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Sellen Starling"
       ],
       "topics": [
         "strange",
@@ -9942,13 +8643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7113",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -9968,12 +8663,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8906",
       "speakers": [
-        "Riverside Drive",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "Riverside Drive"
       ],
       "topics": [
         "strange",
@@ -9994,11 +8684,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8509",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "Sydney Amanuel"
+        "life look"
       ],
       "topics": [
         "strange",
@@ -10018,15 +8704,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9258",
-      "speakers": [
-        "Sydney Amanuel",
-        "Jared Logan",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa",
-        "CwTRGZifstk Recap"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons"
@@ -10043,14 +8721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8991",
-      "speakers": [
-        "Jared Logan",
-        "Sydney Amanuel",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10069,12 +8740,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9693",
       "speakers": [
-        "Faith Barge",
-        "Sydney Amanuel",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Matthew Capodicasa"
+        "Faith Barge"
       ],
       "topics": [
         "strange",
@@ -10096,14 +8762,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9336",
       "speakers": [
-        "Tiger Bomb",
-        "Erik Mona",
-        "Tiny Murder Klowne",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Tiger Bomb"
       ],
       "topics": [
         "strange",
@@ -10124,13 +8783,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8237",
       "speakers": [
-        "Gen Con",
-        "Jared Logan",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Gen Con"
       ],
       "topics": [
         "strange",
@@ -10150,13 +8803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8955",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10175,11 +8822,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7427",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Los Angeles"
       ],
       "topics": [
         "strange",
@@ -10199,13 +8842,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9105",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10225,11 +8862,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7923",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Why Tonight",
+        "Miracle Theatre"
       ],
       "topics": [
         "strange",
@@ -10249,14 +8883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8758",
-      "speakers": [
-        "Erik Mona",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10276,11 +8903,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8681",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Praise Log"
       ],
       "topics": [
         "strange",
@@ -10302,12 +8925,7 @@
       "itunes_duration": "8413",
       "speakers": [
         "Singing Heads",
-        "Iris Hill",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Iris Hill"
       ],
       "topics": [
         "strange",
@@ -10326,14 +8944,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8638",
-      "speakers": [
-        "Sydney Amanuel",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10351,14 +8962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8607",
-      "speakers": [
-        "Dead Royal Accusers",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10376,13 +8980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8103",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10401,13 +8999,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7925",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10426,13 +9018,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7777",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10451,12 +9037,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7551",
       "speakers": [
-        "Glass Cannon",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Rat Poisoned Atticus"
       ],
       "topics": [
         "strange",
@@ -10476,12 +9057,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7282",
       "speakers": [
-        "Glass Cannon",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Glass Cannon"
       ],
       "topics": [
         "strange",
@@ -10499,13 +9075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7488",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10523,14 +9093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7984",
-      "speakers": [
-        "Iris Hill",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10548,13 +9111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7368",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10572,13 +9129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7944",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10597,13 +9148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8113",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10622,11 +9167,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7841",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Troy Lavallee"
       ],
       "topics": [
         "strange",
@@ -10645,13 +9186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8475",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10670,11 +9205,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8318",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Bad Juju After"
       ],
       "topics": [
         "strange",
@@ -10693,13 +9224,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "18014",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10718,13 +9243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "17893",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10743,14 +9262,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "14506",
-      "speakers": [
-        "Ulver Zandalus",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10770,11 +9282,7 @@
       "enclosure_length": "0",
       "itunes_duration": "14474",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Strange Aeons Marathon"
       ],
       "topics": [
         "strange",
@@ -10795,12 +9303,7 @@
       "enclosure_length": "0",
       "itunes_duration": "13206",
       "speakers": [
-        "Poo De Grâce",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Poo De Grâce"
       ],
       "topics": [
         "strange",
@@ -10818,13 +9321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8692",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10843,13 +9340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7467",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10869,13 +9360,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8610",
       "speakers": [
-        "Whiz O'Brien",
-        "Glass Cannon Network",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Whiz O'Brien"
       ],
       "topics": [
         "strange",
@@ -10894,13 +9379,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8232",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -10921,12 +9400,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8538",
       "speakers": [
-        "Glass Cannon",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Glass Cannon"
       ],
       "topics": [
         "strange",
@@ -10947,12 +9421,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8109",
       "speakers": [
-        "Dragon Con",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Dragon Con"
       ],
       "topics": [
         "strange",
@@ -10973,12 +9442,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8396",
       "speakers": [
-        "Sweet Marguerite",
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Sweet Marguerite"
       ],
       "topics": [
         "strange",
@@ -10998,7 +9462,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "12031",
-      "speakers": [],
+      "speakers": [
+        "Giantslayer Goodbye Party"
+      ],
       "topics": [
         "giantslayer",
         "goodbye",
@@ -11016,14 +9482,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7325",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa",
-        "Erik Mona"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -11041,13 +9500,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7530",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -11067,11 +9520,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7607",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "What Am",
+        "Glass Cannon"
       ],
       "topics": [
         "strange",
@@ -11090,11 +9540,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8042",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
+        "Praise Log"
       ],
       "topics": [
         "strange",
@@ -11113,13 +9559,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8612",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -11137,13 +9577,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7134",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons"
@@ -11161,12 +9595,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7128",
       "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa",
-        "Erik Mona"
+        "Join Tr"
       ],
       "topics": [
         "strange",
@@ -11184,13 +9613,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7730",
-      "speakers": [
-        "Troy Lavallee",
-        "Joe O'Brien",
-        "Skid Maher",
-        "Grant Berger",
-        "Matthew Capodicasa"
-      ],
+      "speakers": [],
       "topics": [
         "strange",
         "aeons",
@@ -12339,8 +10762,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4742",
       "speakers": [
-        "Ghost Mortem",
-        "Ironcloud Keep"
+        "Ghost Mortem"
       ],
       "topics": [
         "giantslayer",
@@ -14202,7 +12624,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5776",
-      "speakers": [],
+      "speakers": [
+        "Hersir Greggano"
+      ],
       "topics": [
         "giantslayer",
         "hersir",
@@ -16394,9 +14818,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4246",
-      "speakers": [
-        "Redlake Fort"
-      ],
+      "speakers": [],
       "topics": [
         "giantslayer",
         "pyre"
@@ -16414,8 +14836,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5275",
       "speakers": [
-        "Mud Dear Watson",
-        "Ghostlight Marsh"
+        "Mud Dear Watson"
       ],
       "topics": [
         "giantslayer",
@@ -17250,8 +15671,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3893",
       "speakers": [
-        "Four Warnings",
-        "Rodrik Grath"
+        "Four Warnings"
       ],
       "topics": [
         "giantslayer",
@@ -17452,471 +15872,471 @@
 
 - 2026-02-23 — GCN News Minute February 23, 2026 — speakers: News Minute February
 - 2026-02-23 — Burning Mammoths | Blood of the Wild S1 E10 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame, Broken Tusk
-- 2026-02-20 — Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer
+- 2026-02-20 — Carousing Suspicion | The Glass Cannon Podcast Shadowdark E15 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-16 — GCN News Minute February 16, 2026
 - 2026-02-16 — Story Time | Blood of the Wild S1 E9 | Pathfinder 2E Quest for the Frozen Flame — speakers: Story Time, Frozen Flame
-- 2026-02-13 — Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Norse Foundry, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer
+- 2026-02-13 — Bigger Fish to Fry | The Glass Cannon Podcast Shadowdark E14 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-09 — GCN News Minute February 9, 2026 — speakers: News Minute February
 - 2026-02-09 — It's Just Like Star Trek 2 | Blood of the Wild S1 E8 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-02-06 — Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2026-02-06 — Hold Your Breath | The Glass Cannon Podcast Shadowdark E13 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-02-02 — GCN News Minute February 2, 2026 — speakers: News Minute February
 - 2026-02-02 — Don't Scoff at My Preen | Blood of the Wild S1 E7 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-30 — Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2026-01-30 — Tread Lightly | The Glass Cannon Podcast Shadowdark E12 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-26 — GCN News Minute January 26, 2026 — speakers: News Minute January, News Minute
-- 2026-01-26 — Up the River Without a Paddle | Blood of the Wild S1 E6 | Pathfinder 2E Quest for the Frozen Flame — speakers: exclusive podcasts
-- 2026-01-23 — Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG — speakers: Shadowdark Rpg, Foundry Vtt, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
+- 2026-01-26 — Up the River Without a Paddle | Blood of the Wild S1 E6 | Pathfinder 2E Quest for the Frozen Flame — speakers: River Without, Frozen Flame Wrestling, Gornok River
+- 2026-01-23 — Something In the Air | The Glass Cannon Podcast Shadowdark E11 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-20 — State of the Naish 2026
 - 2026-01-19 — GCN News Minute January 19, 2026 — speakers: News Minute January
 - 2026-01-19 — Tapir Tending | Blood of the Wild S1 E5 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-16 — Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2026-01-16 — Failures at the Caves | The Glass Cannon Podcast Shadowdark E10 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2026-01-12 — GCN News Minutes January 12, 2026 — speakers: News Minutes January
 - 2026-01-12 — Shaggy | Blood of the Wild S1 E4 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-09 — The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2026-01-05 — GCN News Minutes January 5, 2026
+- 2026-01-09 — The Dark Remembers | The Glass Cannon Podcast Shadowdark E9 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2026-01-05 — GCN News Minutes January 5, 2026 — speakers: News Minutes January
 - 2026-01-05 — Standing Stones | Blood of the Wild S1 E3 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2026-01-02 — Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2025-12-29 — GCN News Minute December 29, 2025
+- 2026-01-02 — Prison Details | The Glass Cannon Podcast Shadowdark E8 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-29 — GCN News Minute December 29, 2025 — speakers: News Minute December
 - 2025-12-29 — Meet the Mammoth Lords | Blood of the Wild S1 E2 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2025-12-25 — War Breaks Out | We Shouldn't Be Alive Session Zero | Twilight: 2000 — speakers: Ross Bryant, Skid Maher, Mary Lou, Joe O'Brien
-- 2025-12-22 — GCN News Minute December 22, 2025
+- 2025-12-25 — War Breaks Out | We Shouldn't Be Alive Session Zero | Twilight: 2000 — speakers: Ross Bryant, Skid Maher, Mary Lou
+- 2025-12-22 — GCN News Minute December 22, 2025 — speakers: News Minute December
 - 2025-12-22 — A-Moose Bouche | Blood of the Wild S1 E1 | Pathfinder 2E Quest for the Frozen Flame — speakers: Frozen Flame
-- 2025-12-20 — The Last Thorn | Glass Cannon Live! Ascension Part 13 | Philadelphia 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-19 — O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG — speakers: Shadowdark Rpg, CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
-- 2025-12-15 — GCN News Minute December 15, 2025
-- 2025-12-13 — The Shepherd | Glass Cannon Live! Ascension Part 12 | Philadelphia 2025 | Pathfinder 2E — speakers: Rosewood Vale, DeWV lJacRQ, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-12 — The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2025-12-08 — GCN News Minute December 8, 2025
-- 2025-12-06 — Walkabout | Time For Chaos S3 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-12-05 — What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG — speakers: Shadowdark Rpg, CritHeads Gaming, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction
-- 2025-12-01 — GCN News Minute December 1, 2025
-- 2025-11-29 — Hot Toddy | Time For Chaos S3 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bn Lrtw, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-27 — Spider-Noir Solves a Multiversal Whodunnit! | Marvel Multiverse RPG — speakers: Marvel Multiverse Rpg, Troy Lavallee, Skid Maher, Joe O’Brien, Matthew Capodicasa, Sydney Amanuel, Nick Lowe
-- 2025-11-24 — GCN News Minute November 24, 2025
-- 2025-11-22 — And Men Plunder | Time For Chaos S3 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-21 — You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2025-11-17 — GCN News Minute November 17, 2025
-- 2025-11-15 — Where Women Glow | Time For Chaos S3 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-14 — In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2025-11-10 — GCN News Minute November 10, 2025
-- 2025-11-08 — Mysterious Team | Time For Chaos S3 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-11-07 — This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
-- 2025-11-06 — From Dusk to Dawnblade | Glass Cannon Live! Ascension Part 11 | Nashville 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-12-20 — The Last Thorn | Glass Cannon Live! Ascension Part 13 | Philadelphia 2025 | Pathfinder 2E
+- 2025-12-19 — O Holy Knight | The Glass Cannon Podcast Shadowdark E7 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-15 — GCN News Minute December 15, 2025 — speakers: News Minute December, Bloody Christmas
+- 2025-12-13 — The Shepherd | Glass Cannon Live! Ascension Part 12 | Philadelphia 2025 | Pathfinder 2E — speakers: Rosewood Vale
+- 2025-12-12 — The Play's the Thing | The Glass Cannon Podcast Shadowdark E6 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-08 — GCN News Minute December 8, 2025 — speakers: News Minute December
+- 2025-12-06 — Walkabout | Time For Chaos S3 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Season Three Finale, Mystery Squad
+- 2025-12-05 — What Visions Have I Seen | The Glass Cannon Podcast Shadowdark E5 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-12-01 — GCN News Minute December 1, 2025 — speakers: News Minute December, Cyber Monday
+- 2025-11-29 — Hot Toddy | Time For Chaos S3 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-11-27 — Spider-Noir Solves a Multiversal Whodunnit! | Marvel Multiverse RPG — speakers: Marvel Multiverse Rpg, Troy Lavallee, Skid Maher
+- 2025-11-24 — GCN News Minute November 24, 2025 — speakers: News Minute November, Black Friday
+- 2025-11-22 — And Men Plunder | Time For Chaos S3 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep New
+- 2025-11-21 — You're the Meat | The Glass Cannon Podcast Shadowdark E4 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-17 — GCN News Minute November 17, 2025 — speakers: News Minute November
+- 2025-11-15 — Where Women Glow | Time For Chaos S3 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Where Women Glow, Cthulhu Masks
+- 2025-11-14 — In Touch With the Ground | The Glass Cannon Podcast Shadowdark E3 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-10 — GCN News Minute November 10, 2025 — speakers: News Minute November
+- 2025-11-08 — Mysterious Team | Time For Chaos S3 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Mysterious Team, Cthulhu Masks, Nyarlathotep After, Gray Dragon Island
+- 2025-11-07 — This Is the Gloaming | The Glass Cannon Podcast Shadowdark E2 | Shadowdark RPG — speakers: Shadowdark Rpg
+- 2025-11-06 — From Dusk to Dawnblade | Glass Cannon Live! Ascension Part 11 | Nashville 2025 | Pathfinder 2E
 - 2025-11-03 — GCN News Minute November 3, 2025
-- 2025-11-01 — Prometheus Bound | Time For Chaos S3 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Prometheus Bound, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-31 — Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG — speakers: Shadowdark Rpg, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien Cinematographer, Matt Brodie Producer, Michael Mooridian Art Direction, Jason Charles Miller Performed
+- 2025-11-01 — Prometheus Bound | Time For Chaos S3 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Prometheus Bound
+- 2025-10-31 — Probably the Moon | The Glass Cannon Podcast Shadowdark E1 | Shadowdark RPG — speakers: Shadowdark Rpg
 - 2025-10-29 — Shadowdark Campaign Official Trailer | The Glass Cannon Podcast
-- 2025-10-27 — GCN News Minute October 27, 2025
-- 2025-10-25 — Viper's Nest | Time For Chaos S3 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-24 — Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG — speakers: Thief Wizard, Shadowdark Rpg, Gamemaster Troy Lavallee, Sydney Amanuel, Matthew Capodicasa, Skid Maher, Joe O'Brien, cyqJ nBE
-- 2025-10-20 — GCN News Minute October 20, 2025
-- 2025-10-18 — The World Below the Brine | Time For Chaos S3 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-17 — The GCN Gauntlet – Ghost Mortem — speakers: Gim Faldhur, Joe O'Brien, Skid Maher, Matthew Capodicasa, Kate Stamas, Jared Logan, Troy Lavallee, Sydney Amanuel
-- 2025-10-13 — GCN News Minute October 13, 2025
-- 2025-10-11 — Last Rites | Time For Chaos S3 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-10 — The GCN Gauntlet – T-Wrecks — speakers: Gcn Gauntlet, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Mary Lou, Troy Lavallee, Kate Stamas
-- 2025-10-06 — GCN News Minute October 6, 2025 — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-04 — The Occidental Tourist | Time For Chaos S3 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ho Fang, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-10-03 — The GCN Gauntlet – Snakes on a Plain — speakers: Joe O'Brien, Matthew Capodicasa, Mary Lou, Jared Logan, Rob Kerkovich, Sydney Amanuel, Troy Lavallee, Skid Maher
-- 2025-09-27 — No Country For Omen | Glass Cannon Live! Ascension Part 10 | Boston 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-26 — The GCN Gauntlet – Mummy Dearest — speakers: Mummy Dearest, Joe O'Brien, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, Jared Logan, Rob Kerkovich, Troy Lavallee
-- 2025-09-25 — Glass Cannon Radio #35 – The Final Episode! Featuring Tons of Special Guests — speakers: Featuring Tons, Matthew Capodicasa, Erik Mona, Mary Lou, Rob Kerkovich, Sydney Amanuel, Paula Deming, Troy Lavallee
-- 2025-09-19 — Gatewalkers Episode 103 – The Unbearable Lightness — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-18 — Glass Cannon Radio #34 – Anime Essentials/Ending Your RPG Campaign/Greatest Endings in Media — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-13 — Enjoy the Noodles | Time For Chaos S3 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-12 — Gatewalkers Episode 102 – Substitute Teacher — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-11 — Glass Cannon Radio #33 – Spy Fact vs. Spy Fiction/Espionage RPGs/Realism in Fantasy Gaming — speakers: Spy Fact, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-06 — Brass Tacks | Time For Chaos S3 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-05 — Gatewalkers Episode 101 – An Apple a Day — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-09-04 — Glass Cannon Radio #32 – Monster Psychology 101/Best Movie Monsters/Book Club — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-30 — Forget It, Jake | Time For Chaos S3 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-29 — Gatewalkers Episode 100 – Whiny the Elders — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025) — speakers: Scott Dorward, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-22 — Gatewalkers Episode 99 – HR Buffs N' Stuff — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-15 — Gatewalkers Episode 98 – The Fissure Queen — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou, Chris McDowall, Mythic Bastionland, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2025-08-09 — Feng Shui | Time For Chaos S3 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Feng Shui, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-08 — Gatewalkers Episode 97 – The Queen Is Dead — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-07 — Glass Cannon Radio #28 – Paula Deming/Board Gaming 101/Doctor Who — speakers: Paula Deming Board, Paula Deming, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-02 — Meet Cute | Time For Chaos S3 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ho Fang, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-08-01 — Gatewalkers Episode 96 – A Song of Ice and Spire — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-10-27 — GCN News Minute October 27, 2025 — speakers: News Minute October
+- 2025-10-25 — Viper's Nest | Time For Chaos S3 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Within
+- 2025-10-24 — Fighter Priest Thief Wizard | The Glass Cannon Podcast Shadowdark E0 | Shadowdark RPG — speakers: Thief Wizard, Shadowdark Rpg
+- 2025-10-20 — GCN News Minute October 20, 2025 — speakers: News Minute October
+- 2025-10-18 — The World Below the Brine | Time For Chaos S3 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Gray Dragon Island
+- 2025-10-17 — The GCN Gauntlet – Ghost Mortem — speakers: Gim Faldhur
+- 2025-10-13 — GCN News Minute October 13, 2025 — speakers: News Minute October
+- 2025-10-11 — Last Rites | Time For Chaos S3 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Last Rites, Cthulhu Masks, Gray Dragon Island
+- 2025-10-10 — The GCN Gauntlet – T-Wrecks
+- 2025-10-06 — GCN News Minute October 6, 2025 — speakers: News Minute October, News Minute
+- 2025-10-04 — The Occidental Tourist | Time For Chaos S3 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ho Fang
+- 2025-10-03 — The GCN Gauntlet – Snakes on a Plain
+- 2025-09-27 — No Country For Omen | Glass Cannon Live! Ascension Part 10 | Boston 2025 | Pathfinder 2E
+- 2025-09-26 — The GCN Gauntlet – Mummy Dearest — speakers: Mummy Dearest
+- 2025-09-25 — Glass Cannon Radio #35 – The Final Episode! Featuring Tons of Special Guests — speakers: Featuring Tons
+- 2025-09-19 — Gatewalkers Episode 103 – The Unbearable Lightness
+- 2025-09-18 — Glass Cannon Radio #34 – Anime Essentials/Ending Your RPG Campaign/Greatest Endings in Media
+- 2025-09-13 — Enjoy the Noodles | Time For Chaos S3 E10 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-09-12 — Gatewalkers Episode 102 – Substitute Teacher
+- 2025-09-11 — Glass Cannon Radio #33 – Spy Fact vs. Spy Fiction/Espionage RPGs/Realism in Fantasy Gaming — speakers: Spy Fact
+- 2025-09-06 — Brass Tacks | Time For Chaos S3 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
+- 2025-09-05 — Gatewalkers Episode 101 – An Apple a Day — speakers: Day Deep
+- 2025-09-04 — Glass Cannon Radio #32 – Monster Psychology 101/Best Movie Monsters/Book Club
+- 2025-08-30 — Forget It, Jake | Time For Chaos S3 E8 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-08-29 — Gatewalkers Episode 100 – Whiny the Elders
+- 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025)
+- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
+- 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
+- 2025-08-22 — Gatewalkers Episode 99 – HR Buffs N' Stuff
+- 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
+- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E
+- 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang
+- 2025-08-15 — Gatewalkers Episode 98 – The Fissure Queen — speakers: Nameless Spires
+- 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou
+- 2025-08-09 — Feng Shui | Time For Chaos S3 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Feng Shui
+- 2025-08-08 — Gatewalkers Episode 97 – The Queen Is Dead
+- 2025-08-07 — Glass Cannon Radio #28 – Paula Deming/Board Gaming 101/Doctor Who — speakers: Paula Deming Board, Paula Deming
+- 2025-08-02 — Meet Cute | Time For Chaos S3 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ho Fang
+- 2025-08-01 — Gatewalkers Episode 96 – A Song of Ice and Spire
 - 2025-07-31 — The Announcement — speakers: Troy Lavallee, Gen Con
-- 2025-07-30 — Glass Cannon Radio #27 – Gen Con 2025/When to Roll Dice/The Fantastic Four Review — speakers: Gen Con-week, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-26 — Glass Houses | Time For Chaos S3 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Glass Houses, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-25 — Gatewalkers Episode 95 – In the Line of Spire — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-24 — Glass Cannon Radio #26 – Sci-Fi Video Games Ranked/Starfinder 2E Sneak Peek/Death Stranding 2 — speakers: Mary Lou, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-19 — Fearful Symmetry | Time For Chaos S3 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-18 — Gatewalkers Episode 94 – Scrapegoats — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-17 — Glass Cannon Radio #25 – Seth Skorkowsky/Project Hail Mary/D&D's Dark History — speakers: Seth Skorkowsky, Andy Weir, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-15 — Enter the GCN Gauntlet — speakers: Skid Maher, Matthew Capodicasa, Kate Stamas, Jared Logan, Sydney Amanuel, Joe O'Brien
-- 2025-07-12 — Batter My Heart | Time For Chaos S3 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-11 — Gatewalkers Episode 93 – Owl's Moving Castle — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn, Skid Maher, James Gunn Superhero, Troy Lavallee, Joe O'Brien, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-04 — Gatewalkers Episode 92 – Once Bitten, Ice Shy — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-27 — Gatewalkers Episode 91 – Yurty Rotten Scoundrels — speakers: Yurty Rotten Scoundrels, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Plum Castle, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-20 — Gatewalkers Episode 90 – We Did Extinction — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-13 — Gatewalkers Episode 89 – The Great Eggscape — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-13 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-12 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-06 — Gatewalkers Episode 88 – Doctor Roust Us — speakers: Roust Us, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher, Troy Lavallee, Joe O'Brien, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Erica Carlyle, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-03 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-30 — Gatewalkers 87 – Inveigle with Lox — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: nNSrj CgqA, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-23 — Gatewalkers Episode 86 – Oy The Vault! — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-23 — DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-22 — Room 410 | Time For Chaos S1 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-22 — Glass Cannon Radio #18 – Magic: The Gathering / Mission Impossible / Matthew Capodicasa — speakers: Matthew Capodicasa, Hobby Mission, Troy Lavallee, Joe O'Brien, Skid Maher, Sydney Amanuel, Kate Stamas
-- 2025-05-21 — Homeward Bound | Time For Chaos S1 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Homeward Bound, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-20 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-19 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-16 — Gatewalkers Episode 85 – Loosey Balls — speakers: Loosey Balls, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-13 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerkovich, Troy Lavallee, Joe O'Brien, Skid Maher
-- 2025-05-12 — Time For Chaos Announcement — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, hubs li
-- 2025-05-10 — Choking Hazard | Glass Cannon Live! Ascension Part 5 | Seattle 2025 | Pathfinder 2E — speakers: Choking Hazard, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-09 — Gatewalkers Episode 84 – Doctor, My Guise — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-08 — Glass Cannon Radio #16 – The Star Wars Curse / Andor Season 2 / RPGs Based on Film, TV, and Novels — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-02 — Gatewalkers Episode 83 – Doctor's Orders — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-05-01 — Glass Cannon Radio #15 – LARPs with Mary Lou / Hate Watching / Wheel of Time — speakers: Mary Lou, Brandon Sanderson, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-25 — Gatewalkers Episode 82 – Fast Sleep & Out of Control — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-24 — Glass Cannon Radio #14 – Druid Builds / Oblivion Remastered / Fey Adventures — speakers: Mary Lou, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-18 — Gatewalkers Episode 81 – Very Special Old Whale — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-17 — Glass Cannon Radio #13 – Adolescence / Online Toxicity / Character Sheets Then and Now — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-11 — Gatewalkers Episode 80 – Daemon Error — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-10 — Glass Cannon Radio #12 – Erik Mona / Skid Maher / D&D Campaign Settings — speakers: Erik Mona, Skid Maher, Forgotten Realms, Dark Sun, Troy Lavallee, Joe O'Brien, Matthew Capodicasa, Sydney Amanuel
-- 2025-04-05 — The Gathering | Glass Cannon Live! Ascension Part 4 | St. Paul 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-04 — Gatewalkers Episode 79 – Sleep Study — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-04-03 — Glass Cannon Radio #11 – Nintendo Switch 2 / Severance / Paranoia RPG — speakers: Paranoia Rpg, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-29 — Knightswimming | Glass Cannon Live! Ascension Part 3 | Milwaukee 2025 | Pathfinder 2E — speakers: roz iuSvU, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-28 — Gatewalkers Episode 78 – Dinner Monologues — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-27 — Glass Cannon Radio #10 – D&D's Sigil / Ranking the Greatest Action Heroes / Maps in TTRPGs — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-21 — Gatewalkers Episode 77 – The Boy and the Knife — speakers: Mint Mobile, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-20 — Glass Cannon Radio #9 – Pendragon / Mad Max: Fury Road / Best Co-Op Games — speakers: Brian Holland, Mad Max, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-15 — Into the Mistwood | Glass Cannon Live! Ascension Part 2 | Austin 2025 | Pathfinder 2E — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-14 — Gatewalkers Episode 76 – Split the Party — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-13 — Glass Cannon Radio #8 – Romance in RPGs / Daredevil / Monsters of Irish Folklore — speakers: opEOQ Access, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-03-08 — The Rose and the Blight | Glass Cannon Live! Ascension Part 1 | Dallas 2025 | Pathfinder 2E — speakers: Rosewood Vale, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-07-30 — Glass Cannon Radio #27 – Gen Con 2025/When to Roll Dice/The Fantastic Four Review — speakers: Gen Con-week
+- 2025-07-26 — Glass Houses | Time For Chaos S3 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Glass Houses
+- 2025-07-25 — Gatewalkers Episode 95 – In the Line of Spire — speakers: Nameless Spires
+- 2025-07-24 — Glass Cannon Radio #26 – Sci-Fi Video Games Ranked/Starfinder 2E Sneak Peek/Death Stranding 2 — speakers: Mary Lou
+- 2025-07-19 — Fearful Symmetry | Time For Chaos S3 E2 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-07-18 — Gatewalkers Episode 94 – Scrapegoats — speakers: Scrapegoats Reality
+- 2025-07-17 — Glass Cannon Radio #25 – Seth Skorkowsky/Project Hail Mary/D&D's Dark History — speakers: Seth Skorkowsky, Andy Weir
+- 2025-07-15 — Enter the GCN Gauntlet — speakers: Skid Maher, Matthew Capodi
+- 2025-07-12 — Batter My Heart | Time For Chaos S3 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Batter My Heart, Cthulhu Masks, Black Pharaoh, Misr House
+- 2025-07-11 — Gatewalkers Episode 93 – Owl's Moving Castle
+- 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
+- 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E
+- 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
+- 2025-07-04 — Gatewalkers Episode 92 – Once Bitten, Ice Shy
+- 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
+- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
+- 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale
+- 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
+- 2025-06-27 — Gatewalkers Episode 91 – Yurty Rotten Scoundrels — speakers: Yurty Rotten Scoundrels
+- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD
+- 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
+- 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
+- 2025-06-20 — Gatewalkers Episode 90 – We Did Extinction
+- 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
+- 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
+- 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-13 — Gatewalkers Episode 89 – The Great Eggscape
+- 2025-06-13 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Night Terrors, Cthulhu Masks
+- 2025-06-12 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
+- 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-06 — Gatewalkers Episode 88 – Doctor Roust Us — speakers: Roust Us
+- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
+- 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher
+- 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
+- 2025-06-03 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
+- 2025-05-30 — Gatewalkers 87 – Inveigle with Lox
+- 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
+- 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Glass Cannon Radio, What Makes, Great Roleplayer, Best Sports Movies, All Time
+- 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Harlem Shuffle, Cthulhu Masks
+- 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Scream Together, Cthulhu Masks, Police Station
+- 2025-05-23 — Gatewalkers Episode 86 – Oy The Vault!
+- 2025-05-23 — DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep After
+- 2025-05-22 — Room 410 | Time For Chaos S1 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, New York City
+- 2025-05-22 — Glass Cannon Radio #18 – Magic: The Gathering / Mission Impossible / Matthew Capodicasa — speakers: Matthew Capodicasa
+- 2025-05-21 — Homeward Bound | Time For Chaos S1 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Homeward Bound
+- 2025-05-20 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-05-19 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Little Tear, Cthulhu Masks
+- 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale
+- 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
+- 2025-05-16 — Gatewalkers Episode 85 – Loosey Balls — speakers: Loosey Balls
+- 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
+- 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
+- 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-05-13 — Pisco Sour | Time For Chaos S1 E2 | Call of Cthulhu Masks of Nyarlathotep — speakers: Pisco Sour, Cthulhu Masks
+- 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerko
+- 2025-05-12 — Time For Chaos Announcement
+- 2025-05-10 — Choking Hazard | Glass Cannon Live! Ascension Part 5 | Seattle 2025 | Pathfinder 2E — speakers: Choking Hazard
+- 2025-05-09 — Gatewalkers Episode 84 – Doctor, My Guise
+- 2025-05-08 — Glass Cannon Radio #16 – The Star Wars Curse / Andor Season 2 / RPGs Based on Film, TV, and Novels — speakers: Glass Cannon Radio, Andor Season, Novels Why, Star Wars
+- 2025-05-02 — Gatewalkers Episode 83 – Doctor's Orders — speakers: Orders More
+- 2025-05-01 — Glass Cannon Radio #15 – LARPs with Mary Lou / Hate Watching / Wheel of Time — speakers: Mary Lou
+- 2025-04-25 — Gatewalkers Episode 82 – Fast Sleep & Out of Control — speakers: Fast Sleep
+- 2025-04-24 — Glass Cannon Radio #14 – Druid Builds / Oblivion Remastered / Fey Adventures — speakers: Mary Lou
+- 2025-04-18 — Gatewalkers Episode 81 – Very Special Old Whale — speakers: Very Special Old Whale
+- 2025-04-17 — Glass Cannon Radio #13 – Adolescence / Online Toxicity / Character Sheets Then and Now — speakers: Glass Cannon Radio, Online Toxicity, Character Sheets Then
+- 2025-04-11 — Gatewalkers Episode 80 – Daemon Error
+- 2025-04-10 — Glass Cannon Radio #12 – Erik Mona / Skid Maher / D&D Campaign Settings — speakers: Erik Mona, Skid Maher
+- 2025-04-05 — The Gathering | Glass Cannon Live! Ascension Part 4 | St. Paul 2025 | Pathfinder 2E
+- 2025-04-04 — Gatewalkers Episode 79 – Sleep Study — speakers: Ritalson Manor
+- 2025-04-03 — Glass Cannon Radio #11 – Nintendo Switch 2 / Severance / Paranoia RPG — speakers: Paranoia Rpg
+- 2025-03-29 — Knightswimming | Glass Cannon Live! Ascension Part 3 | Milwaukee 2025 | Pathfinder 2E
+- 2025-03-28 — Gatewalkers Episode 78 – Dinner Monologues
+- 2025-03-27 — Glass Cannon Radio #10 – D&D's Sigil / Ranking the Greatest Action Heroes / Maps in TTRPGs — speakers: Glass Cannon Radio, Greatest Action Heroes
+- 2025-03-21 — Gatewalkers Episode 77 – The Boy and the Knife — speakers: Ritalson Manor
+- 2025-03-20 — Glass Cannon Radio #9 – Pendragon / Mad Max: Fury Road / Best Co-Op Games — speakers: Brian Holland
+- 2025-03-15 — Into the Mistwood | Glass Cannon Live! Ascension Part 2 | Austin 2025 | Pathfinder 2E
+- 2025-03-14 — Gatewalkers Episode 76 – Split the Party
+- 2025-03-13 — Glass Cannon Radio #8 – Romance in RPGs / Daredevil / Monsters of Irish Folklore — speakers: Glass Cannon Radio, Irish Folklore Joe
+- 2025-03-08 — The Rose and the Blight | Glass Cannon Live! Ascension Part 1 | Dallas 2025 | Pathfinder 2E — speakers: Rosewood Vale
 - 2025-03-07 — Gatewalkers Episode 75 – The Pig and Pony Show
-- 2025-03-06 — Glass Cannon Radio #7 – Dungeon Crawler Carl / Reddit / Beat McD — speakers: Beat McD, Dungeon Crawler Carl, Mario Day
-- 2025-02-28 — Gatewalkers Episode 74 – Room 309 — speakers: Mint Mobile
+- 2025-03-06 — Glass Cannon Radio #7 – Dungeon Crawler Carl / Reddit / Beat McD — speakers: Beat McD, Dungeon Crawler Carl
+- 2025-02-28 — Gatewalkers Episode 74 – Room 309
 - 2025-02-27 — Glass Cannon Radio #6 – D&D Monster Manual Review / Andor / Running Mystery RPGs
 - 2025-02-21 — Gatewalkers Episode 73 – Destined to Whale
-- 2025-02-20 — Glass Cannon Radio #5 – Building a PF2E Fighter / Winter Movie Rankings / Pendragon Returns
+- 2025-02-20 — Glass Cannon Radio #5 – Building a PF2E Fighter / Winter Movie Rankings / Pendragon Returns — speakers: Glass Cannon Radio, Winter Movie Rankings, Pendragon Returns What
 - 2025-02-18 — Strange Aeons Episode 100 – Truth Monkey
-- 2025-02-15 — Oops! All Guards! | Glass Cannon Live! Session Zero | Pathfinder 2E Ascension — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2025-02-15 — Oops! All Guards! | Glass Cannon Live! Session Zero | Pathfinder 2E Ascension
 - 2025-02-14 — Gatewalkers Episode 72 – Hassle in the Sky
 - 2025-02-13 — Glass Cannon Radio #4 – What Video Game Got You Hooked? / Nerd News / Dune Imperium
-- 2025-02-07 — Gatewalkers Episode 71 – The Hanky of Sweet Wind
-- 2025-02-06 — Glass Cannon Radio #3 – The Expanse / Media Ownership / Twin Peaks — speakers: David Lynch, Twin Peaks
+- 2025-02-07 — Gatewalkers Episode 71 – The Hanky of Sweet Wind — speakers: strange visions, new dangers
+- 2025-02-06 — Glass Cannon Radio #3 – The Expanse / Media Ownership / Twin Peaks — speakers: Glass Cannon Radio, Media Ownership, Founder Skid Maher
 - 2025-01-31 — Gatewalkers Episode 70 – Two Heads Are Better Than None
-- 2025-01-30 — Glass Cannon Radio #2 – Generative AI in RPGs / Tabletop Technology / Lynch's Blue Velvet — speakers: Andrew Clayton
-- 2025-01-24 — Gatewalkers Episode 69 – Stay — speakers: hdxZ mNuh
-- 2025-01-23 — Glass Cannon Radio #1 – David Lynch / Nosferatu / Superman — speakers: Superman Welcome, Jared Logan, Joe O'Brien, David Lynch, James Gunn
+- 2025-01-30 — Glass Cannon Radio #2 – Generative AI in RPGs / Tabletop Technology / Lynch's Blue Velvet — speakers: Glass Cannon Radio, Tabletop Technology
+- 2025-01-24 — Gatewalkers Episode 69 – Stay
+- 2025-01-23 — Glass Cannon Radio #1 – David Lynch / Nosferatu / Superman — speakers: Superman Welcome
 - 2025-01-17 — Gatewalkers Episode 68 – The Kate Escape
 - 2025-01-10 — Gatewalkers Episode 67 – Children vs. a Dresser God
-- 2025-01-04 — Strange Aeons Episode 99 – Clutched by an Angel — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2025-01-03 — Gatewalkers Episode 66 – Bards! Bards! — speakers: code newyearnewdice
-- 2024-12-27 — Gatewalkers Episode 65 – A Bard Day's Night — speakers: code newyearnewdice
-- 2024-12-20 — Gatewalkers Episode 64 – Sad Songs (Fey So Much) — speakers: code newyearnewdice
+- 2025-01-04 — Strange Aeons Episode 99 – Clutched by an Angel
+- 2025-01-03 — Gatewalkers Episode 66 – Bards! Bards!
+- 2024-12-27 — Gatewalkers Episode 65 – A Bard Day's Night — speakers: Bard Day, Mystic Market
+- 2024-12-20 — Gatewalkers Episode 64 – Sad Songs (Fey So Much) — speakers: Sad Songs, Fey So Much, Smiling Wolves
 - 2024-12-13 — Gatewalkers Episode 63 – Meow Mix 2: Pounce Upon a Time — speakers: Meow Mix Pounce
 - 2024-12-11 — Cannon Fodder 12/11/24 — speakers: Cannon Fodder
 - 2024-12-06 — Gatewalkers Episode 62 – Meow Mix — speakers: Meow Mix Following
-- 2024-12-04 — Cannon Fodder 12/4/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-11-23 — Strange Aeons Episode 98 – Soul Custodian — speakers: Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2024-12-04 — Cannon Fodder 12/4/24 — speakers: Cannon Fodder
+- 2024-11-23 — Strange Aeons Episode 98 – Soul Custodian
 - 2024-11-22 — Gatewalkers Episode 61 – Mazed by Wolves
 - 2024-11-20 — Cannon Fodder 11/20/24 — speakers: Cannon Fodder
-- 2024-11-16 — Strange Aeons Episode 97 – Locks, Clocks and One Airy Battle — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2024-11-16 — Strange Aeons Episode 97 – Locks, Clocks and One Airy Battle
 - 2024-11-15 — Gatewalkers Episode 60 – Where the Streets Have No Aim
-- 2024-11-13 — Cannon Fodder 11/13/24 — speakers: Cannon Fodder, Rousing Splash, Listener Mail
+- 2024-11-13 — Cannon Fodder 11/13/24 — speakers: Cannon Fodder
 - 2024-11-08 — Gatewalkers Episode 59 – Backlash of the Titans — speakers: real walls
 - 2024-11-06 — Cannon Fodder 11/6/24 — speakers: Cannon Fodder, Matthew Capodicasa
 - 2024-11-01 — Gatewalkers Episode 58 – Raiders in the Lost Dark
-- 2024-10-30 — Cannon Fodder 10/30/24 — speakers: Cannon Fodder, Listener Mail
+- 2024-10-30 — Cannon Fodder 10/30/24 — speakers: Cannon Fodder
 - 2024-10-25 — Gatewalkers Episode 57 – Barnes and Mobile
-- 2024-10-23 — Cannon Fodder 10/23/24 — speakers: Cannon Fodder, LxsNlomJQ Access
+- 2024-10-23 — Cannon Fodder 10/23/24 — speakers: Cannon Fodder
 - 2024-10-18 — Gatewalkers Episode 56 – Blunder the Dome
-- 2024-10-16 — Cannon Fodder 10/16/24 — speakers: Cannon Fodder, Listener Mail
+- 2024-10-16 — Cannon Fodder 10/16/24 — speakers: Cannon Fodder
 - 2024-10-11 — Gatewalkers Episode 55 – Single White Karen
-- 2024-10-09 — Cannon Fodder 10/9/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-10-05 — Strange Aeons Episode 96 – Boston Slow — speakers: Boston Slow, Elder Lythiin, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-10-04 — Gatewalkers Episode 54 – Tickled Pink — speakers: Forgotten King
-- 2024-10-02 — Cannon Fodder 10/2/24 — speakers: Cannon Fodder, Listener Mail
+- 2024-10-09 — Cannon Fodder 10/9/24 — speakers: Cannon Fodder
+- 2024-10-05 — Strange Aeons Episode 96 – Boston Slow — speakers: Boston Slow, Elder Lythiin
+- 2024-10-04 — Gatewalkers Episode 54 – Tickled Pink
+- 2024-10-02 — Cannon Fodder 10/2/24 — speakers: Cannon Fodder
 - 2024-09-27 — Gatewalkers Episode 53 – Drakin' It to the Streets
-- 2024-09-25 — Cannon Fodder 9/25/24 — speakers: Cannon Fodder, Jared Logan, Broken Weave
+- 2024-09-25 — Cannon Fodder 9/25/24 — speakers: Cannon Fodder, Jared Logan
 - 2024-09-20 — Gatewalkers Episode 52 – Gouging Claw, Hitting Dragon — speakers: Gouging Claw
 - 2024-09-18 — Cannon Fodder 9/18/24 — speakers: Cannon Fodder
 - 2024-09-13 — Gatewalkers Episode 51 – Son of Valtor
-- 2024-09-11 — Cannon Fodder 9/11/24 — speakers: Cannon Fodder, Andrew Clayton, Foundry Vtt
+- 2024-09-11 — Cannon Fodder 9/11/24 — speakers: Cannon Fodder, Andrew Clayton
 - 2024-09-06 — Gatewalkers Episode 50 – Homesick
-- 2024-09-04 — Cannon Fodder 9/4/24 — speakers: Cannon Fodder, zV IQoprTYo
+- 2024-09-04 — Cannon Fodder 9/4/24 — speakers: Cannon Fodder
 - 2024-08-30 — Gatewalkers Episode 49 – Kappa Valley Chic — speakers: Kappa Valley Chic
-- 2024-08-28 — Cannon Fodder 8/28/24 — speakers: Listener Mail
-- 2024-08-24 — Strange Aeons Episode 95 – Mazed and Confused — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2024-08-28 — Cannon Fodder 8/28/24
+- 2024-08-24 — Strange Aeons Episode 95 – Mazed and Confused
 - 2024-08-23 — Gatewalkers Episode 48 – The Horn Ultimatum
-- 2024-08-21 — Cannon Fodder 8/21/24 — speakers: Foundry Vtt, Listener Mail
+- 2024-08-21 — Cannon Fodder 8/21/24
 - 2024-08-16 — Gatewalkers Episode 47 – Courage Under Spire
-- 2024-08-09 — Gatewalkers Episode 46 – Paralaralinglong! Or My Mom Will Shoot
-- 2024-08-07 — Cannon Fodder 8/7/24 — speakers: Cannon Fodder, Another Gen Con, Gen Con, Listener Mail
+- 2024-08-09 — Gatewalkers Episode 46 – Paralaralinglong! Or My Mom Will Shoot — speakers: Shoot After
+- 2024-08-07 — Cannon Fodder 8/7/24 — speakers: Cannon Fodder, Another Gen Con
 - 2024-08-02 — Gatewalkers Episode 45 – Forget-Me-Naughts
-- 2024-07-31 — Cannon Fodder 7/31/24 — speakers: Cannon Fodder, Gen Con, Listener Mail
+- 2024-07-31 — Cannon Fodder 7/31/24 — speakers: Cannon Fodder, Gen Con
 - 2024-07-26 — Gatewalkers Episode 44 – License to Quill
-- 2024-07-24 — Cannon Fodder 7/24/24 — speakers: Cannon Fodder, Gen Con
-- 2024-07-19 — Gatewalkers Episode 43 – Shroom Goes the Dynamite — speakers: Shroom Goes, Foundry Vtt
-- 2024-07-17 — Cannon Fodder 7/17/24 — speakers: Cannon Fodder, Gen Con
-- 2024-07-13 — Strange Aeons Episode 94 – Devil Went Down to Nashville — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-07-12 — Gatewalkers Episode 42 – The Most Dangerous Shame — speakers: Foundry Vtt
-- 2024-07-06 — Strange Aeons Episode 93 – Stay Away from the Brown Acid Flask (Greater) — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-06-28 — Gatewalkers Episode 41 – Highway to Well — speakers: Foundry Vtt
-- 2024-06-26 — Cannon Fodder 6/26/24 — speakers: Gen Con, Lore Skills, Skill Feats, Cannon Fodder
-- 2024-06-21 — Gatewalkers Episode 40 – Star Check: Cursed Contact — speakers: Foundry Vtt
-- 2024-06-19 — Cannon Fodder 6/19/24 — speakers: Listener Mail
-- 2024-06-15 — Strange Aeons Episode 92 – Priestbound & Clown — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-06-14 — Gatewalkers Episode 39 – Gondola Baby Gondola — speakers: Foundry Vtt
-- 2024-06-12 — Cannon Fodder 6/12/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-06-08 — Strange Aeons Episode 91 – Circling the Drain — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-06-07 — Gatewalkers Episode 38 – The NeverEnding Quarry — speakers: Foundry Vtt
+- 2024-07-24 — Cannon Fodder 7/24/24 — speakers: Cannon Fodder
+- 2024-07-19 — Gatewalkers Episode 43 – Shroom Goes the Dynamite — speakers: Shroom Goes
+- 2024-07-17 — Cannon Fodder 7/17/24 — speakers: Cannon Fodder
+- 2024-07-13 — Strange Aeons Episode 94 – Devil Went Down to Nashville — speakers: Devil Went Down
+- 2024-07-12 — Gatewalkers Episode 42 – The Most Dangerous Shame
+- 2024-07-06 — Strange Aeons Episode 93 – Stay Away from the Brown Acid Flask (Greater)
+- 2024-06-28 — Gatewalkers Episode 41 – Highway to Well — speakers: Well Deep
+- 2024-06-26 — Cannon Fodder 6/26/24
+- 2024-06-21 — Gatewalkers Episode 40 – Star Check: Cursed Contact
+- 2024-06-19 — Cannon Fodder 6/19/24
+- 2024-06-15 — Strange Aeons Episode 92 – Priestbound & Clown
+- 2024-06-14 — Gatewalkers Episode 39 – Gondola Baby Gondola — speakers: Gondola Baby Gondola Flying
+- 2024-06-12 — Cannon Fodder 6/12/24 — speakers: Cannon Fodder
+- 2024-06-08 — Strange Aeons Episode 91 – Circling the Drain
+- 2024-06-07 — Gatewalkers Episode 38 – The NeverEnding Quarry
 - 2024-06-05 — Cannon Fodder 6/5/24 — speakers: Cannon Fodder
-- 2024-05-31 — Gatewalkers Episode 37 – Hot For Teacher — speakers: Foundry Vtt
+- 2024-05-31 — Gatewalkers Episode 37 – Hot For Teacher
 - 2024-05-29 — Cannon Fodder 5/29/24 — speakers: Cannon Fodder
-- 2024-05-24 — Gatewalkers Episode 36 – Missing Moments — speakers: Foundry Vtt
-- 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-05-17 — Gatewalkers Episode 35 – Come Snail Away — speakers: Foundry Vtt
-- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-05-15 — Cannon Fodder 5/15/24 — speakers: Recovery Check
-- 2024-05-10 — Gatewalkers Episode 34 – You've Got Snail — speakers: Foundry Vtt
+- 2024-05-24 — Gatewalkers Episode 36 – Missing Moments
+- 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles
+- 2024-05-17 — Gatewalkers Episode 35 – Come Snail Away — speakers: Come Snail Away
+- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
+- 2024-05-15 — Cannon Fodder 5/15/24
+- 2024-05-10 — Gatewalkers Episode 34 – You've Got Snail — speakers: Got Snail
 - 2024-05-08 — Cannon Fodder 5/8/24 — speakers: Cannon Fodder, Gen Con, Joe kick
-- 2024-05-03 — Gatewalkers Episode 33 – Hungry Dart — speakers: Foundry Vtt
-- 2024-05-01 — Cannon Fodder 5/1/24 — speakers: Cannon Fodder, Glass Cannon Labs, Paizo AP, Listener Mail
-- 2024-04-26 — Gatewalkers Episode 32 – No Place Like Home — speakers: Foundry Vtt
-- 2024-04-24 — Cannon Fodder 4/24/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-04-23 — Strange Aeons Episode 88 – Eavesdrop It Like It's Hot — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-04-19 — Gatewalkers Episode 31 – The Slim Reaper — speakers: Foundry Vtt
-- 2024-04-17 — Cannon Fodder 4/17/24 — speakers: Cannon Fodder, Blade Runner, Talk Nerdy, Listener Mail
-- 2024-04-12 — Gatewalkers Episode 30 – Hooked On Eugenics — speakers: Foundry Vtt
-- 2024-04-11 — Strange Aeons Episode 87 – Third Arm Blind — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2024-04-05 — Gatewalkers Episode 29 – Nut Job — speakers: Foundry Vtt
+- 2024-05-03 — Gatewalkers Episode 33 – Hungry Dart
+- 2024-05-01 — Cannon Fodder 5/1/24 — speakers: Cannon Fodder
+- 2024-04-26 — Gatewalkers Episode 32 – No Place Like Home — speakers: No Place Like Home
+- 2024-04-24 — Cannon Fodder 4/24/24 — speakers: Cannon Fodder
+- 2024-04-23 — Strange Aeons Episode 88 – Eavesdrop It Like It's Hot — speakers: Miackniun Mun
+- 2024-04-19 — Gatewalkers Episode 31 – The Slim Reaper
+- 2024-04-17 — Cannon Fodder 4/17/24 — speakers: Cannon Fodder
+- 2024-04-12 — Gatewalkers Episode 30 – Hooked On Eugenics
+- 2024-04-11 — Strange Aeons Episode 87 – Third Arm Blind
+- 2024-04-05 — Gatewalkers Episode 29 – Nut Job
 - 2024-04-03 — Cannon Fodder 4/3/24 — speakers: Cannon Fodder
-- 2024-03-29 — Gatewalkers Episode 28 – The Fight to Remain Silent — speakers: Foundry Vtt
-- 2024-03-27 — Cannon Fodder 3/27/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-03-22 — Gatewalkers Episode 27 – Elf Harm — speakers: Foundry Vtt
+- 2024-03-29 — Gatewalkers Episode 28 – The Fight to Remain Silent — speakers: Remain Silent Rested
+- 2024-03-27 — Cannon Fodder 3/27/24 — speakers: Cannon Fodder
+- 2024-03-22 — Gatewalkers Episode 27 – Elf Harm
 - 2024-03-20 — Cannon Fodder 3/20/24 — speakers: Cannon Fodder
-- 2024-03-15 — Gatewalkers Episode 26 – Groundhog Shae — speakers: Groundhog Shae, Foundry Vtt
-- 2024-03-13 — Cannon Fodder 3/13/24 — speakers: Cannon Fodder, Recall Knowledge
-- 2024-03-08 — Gatewalkers Episode 25 – Fleshy Interlopers — speakers: Foundry Vtt
+- 2024-03-15 — Gatewalkers Episode 26 – Groundhog Shae — speakers: Groundhog Shae, kxwc Thi
+- 2024-03-13 — Cannon Fodder 3/13/24 — speakers: Cannon Fodder
+- 2024-03-08 — Gatewalkers Episode 25 – Fleshy Interlopers
 - 2024-03-06 — Cannon Fodder 3/6/24 — speakers: Cannon Fodder
-- 2024-03-01 — Gatewalkers Episode 24 – The Artful Lodger — speakers: Foundry Vtt
-- 2024-02-28 — Cannon Fodder 2/28/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-02-23 — Gatewalkers Episode 23 – Trauma Centaur — speakers: Trauma Centaur, Foundry Vtt
+- 2024-03-01 — Gatewalkers Episode 24 – The Artful Lodger
+- 2024-02-28 — Cannon Fodder 2/28/24 — speakers: Cannon Fodder
+- 2024-02-23 — Gatewalkers Episode 23 – Trauma Centaur — speakers: Trauma Centaur
 - 2024-02-21 — Cannon Fodder 2/21/24 — speakers: Sydney Amanuel
-- 2024-02-16 — Gatewalkers Episode 22 – An Inconvenient Tooth Fairy Swarm — speakers: Foundry Vtt
+- 2024-02-16 — Gatewalkers Episode 22 – An Inconvenient Tooth Fairy Swarm — speakers: Swarm Upon, First World
 - 2024-02-15 — Cannon Fodder 2/14/24 — speakers: Cannon Fodder
-- 2024-02-09 — Gatewalkers Episode 21 – David Koresh's Playhouse — speakers: David Koresh, Foundry Vtt
-- 2024-02-07 — Cannon Fodder 2/7/24 — speakers: Abubakar Salim
-- 2024-02-02 — Gatewalkers Episode 20 – Close Encounters of the Bird Kind — speakers: Foundry Vtt
-- 2024-01-31 — Cannon Fodder 1/31/24 — speakers: Cannon Fodder, Listener Mail
-- 2024-01-26 — Gatewalkers Episode 19 – Thinlands Farms Remembers — speakers: Foundry Vtt
-- 2024-01-24 — Cannon Fodder 1/24/24 — speakers: Cannon Fodder, Skid Maher, Sydney Amanuel, Listener Mail
-- 2024-01-19 — Gatewalkers Episode 18 – The Dogs of War — speakers: Foundry Vtt
-- 2024-01-17 — Cannon Fodder 1/17/24 — speakers: Cannon Fodder, Glass Cannon Labs, Listener Mail, Roger Cumstone
-- 2024-01-12 — Gatewalkers Episode 17 – Mule Intentions — speakers: Mule Intentions, Foundry Vtt
+- 2024-02-09 — Gatewalkers Episode 21 – David Koresh's Playhouse — speakers: David Koresh
+- 2024-02-07 — Cannon Fodder 2/7/24
+- 2024-02-02 — Gatewalkers Episode 20 – Close Encounters of the Bird Kind — speakers: Close Encounters, Bird Kind
+- 2024-01-31 — Cannon Fodder 1/31/24 — speakers: Cannon Fodder
+- 2024-01-26 — Gatewalkers Episode 19 – Thinlands Farms Remembers — speakers: Thinlands Farms
+- 2024-01-24 — Cannon Fodder 1/24/24 — speakers: Cannon Fodder, Skid Maher, Sydney Amanuel
+- 2024-01-19 — Gatewalkers Episode 18 – The Dogs of War
+- 2024-01-17 — Cannon Fodder 1/17/24 — speakers: Cannon Fodder
+- 2024-01-12 — Gatewalkers Episode 17 – Mule Intentions — speakers: Mule Intentions
 - 2024-01-10 — Cannon Fodder 1/10/24 — speakers: Cannon Fodder
-- 2024-01-05 — Gatewalkers Episode 16 – Mr. Jones and Tree — speakers: Foundry Vtt
-- 2024-01-03 — Cannon Fodder 1/3/24 — speakers: Glass Cannon Labs, Listener Mail
-- 2023-12-29 — Gatewalkers Episode 15 – The After Math — speakers: Foundry Vtt
-- 2023-12-22 — Gatewalkers Episode 14 – Chekhov's Zipline — speakers: Foundry Vtt
-- 2023-12-15 — Gatewalkers Episode 13 – Gnome for the Holidays — speakers: Foundry Vtt
-- 2023-12-14 — Strange Aeons Episode 86 – Art Attack — speakers: Art Attack, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2024-01-05 — Gatewalkers Episode 16 – Mr. Jones and Tree
+- 2024-01-03 — Cannon Fodder 1/3/24
+- 2023-12-29 — Gatewalkers Episode 15 – The After Math
+- 2023-12-22 — Gatewalkers Episode 14 – Chekhov's Zipline
+- 2023-12-15 — Gatewalkers Episode 13 – Gnome for the Holidays
+- 2023-12-14 — Strange Aeons Episode 86 – Art Attack — speakers: Art Attack
 - 2023-12-13 — Cannon Fodder 12/13/23 — speakers: Cannon Fodder
-- 2023-12-08 — Gatewalkers Episode 12 – So Help Me Gourd — speakers: Foundry Vtt
+- 2023-12-08 — Gatewalkers Episode 12 – So Help Me Gourd — speakers: So Help Me Gourd
 - 2023-12-06 — Cannon Fodder 12/6/23 — speakers: Cannon Fodder
-- 2023-12-01 — Gatewalkers Episode 11 – Shoots and Ladder — speakers: Foundry Vtt
-- 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder, Purple Worm
-- 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-11-17 — Gatewalkers Episode 10 – Dancers in the Dark — speakers: Foundry Vtt
-- 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-11-10 — Gatewalkers Episode 9 – Bachman-Turner Overshirt — speakers: Foundry Vtt
-- 2023-11-08 — Cannon Fodder 11/8/23 — speakers: Cannon Fodder, Massive Damage
-- 2023-11-03 — Gatewalkers Episode 8 – Dying Too — speakers: Foundry Vtt
+- 2023-12-01 — Gatewalkers Episode 11 – Shoots and Ladder — speakers: Ladder Two
+- 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder
+- 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
+- 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites
+- 2023-11-17 — Gatewalkers Episode 10 – Dancers in the Dark
+- 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder
+- 2023-11-10 — Gatewalkers Episode 9 – Bachman-Turner Overshirt — speakers: Turner Overshirt Back
+- 2023-11-08 — Cannon Fodder 11/8/23 — speakers: Cannon Fodder
+- 2023-11-03 — Gatewalkers Episode 8 – Dying Too — speakers: Dying Too After
 - 2023-11-01 — Cannon Fodder 11/1/23 — speakers: Cannon Fodder
-- 2023-10-27 — Strange Aeons Episode 84 – She Don't Use Ochre Jelly — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-10-27 — Gatewalkers Episode 7 – The Tree Stooges — speakers: Foundry Vtt
+- 2023-10-27 — Strange Aeons Episode 84 – She Don't Use Ochre Jelly — speakers: Use Ochre Jelly After
+- 2023-10-27 — Gatewalkers Episode 7 – The Tree Stooges
 - 2023-10-25 — Cannon Fodder 10/25/23 — speakers: Cannon Fodder
-- 2023-10-20 — Gatewalkers Episode 6 – Treehouse Abhorrer — speakers: Treehouse Abhorrer, Foundry Vtt
-- 2023-10-18 — Cannon Fodder 10/18/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-10-13 — Gatewalkers Episode 5 – Children of the Horn — speakers: Foundry Vtt
-- 2023-10-11 — Cannon Fodder 10/11/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-10-06 — Gatewalkers Episode 4 – Shadows and Dogs — speakers: Foundry Vtt
-- 2023-10-04 — Cannon Fodder 10/4/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-09-29 — Gatewalkers Episode 3 – Ooh Baby Baby, It's the Wilewood — speakers: Foundry Vtt
-- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder, Listener Mail
-- 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-09-22 — Gatewalkers Episode 2 – Ladies' Night — speakers: Foundry Vtt
+- 2023-10-20 — Gatewalkers Episode 6 – Treehouse Abhorrer — speakers: Treehouse Abhorrer
+- 2023-10-18 — Cannon Fodder 10/18/23 — speakers: Cannon Fodder
+- 2023-10-13 — Gatewalkers Episode 5 – Children of the Horn
+- 2023-10-11 — Cannon Fodder 10/11/23 — speakers: Cannon Fodder
+- 2023-10-06 — Gatewalkers Episode 4 – Shadows and Dogs
+- 2023-10-04 — Cannon Fodder 10/4/23 — speakers: Cannon Fodder
+- 2023-09-29 — Gatewalkers Episode 3 – Ooh Baby Baby, It's the Wilewood — speakers: Ooh Baby Baby, Wilewood Having
+- 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
+- 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Leader Weapons, Paradise Rock Club
+- 2023-09-22 — Gatewalkers Episode 2 – Ladies' Night
 - 2023-09-20 — Cannon Fodder 9/20/23 — speakers: Cannon Fodder
-- 2023-09-15 — Gatewalkers Episode 1 – Where's the Tavern? — speakers: Foundry Vtt
+- 2023-09-15 — Gatewalkers Episode 1 – Where's the Tavern?
 - 2023-09-13 — Cannon Fodder 9/13/23 — speakers: Cannon Fodder
 - 2023-09-06 — Cannon Fodder 9/6/23 — speakers: Cannon Fodder
-- 2023-09-01 — Gatewalkers Session 0 – Zero to Heroes — speakers: Gamemaster Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas, Foundry Vtt
+- 2023-09-01 — Gatewalkers Session 0 – Zero to Heroes
 - 2023-08-30 — Cannon Fodder 8/30/23 — speakers: Cannon Fodder
-- 2023-08-23 — Strange Aeons Episode 82 – Daddy's Special Yogurt — speakers: Gen Con, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-08-23 — Strange Aeons Episode 82 – Daddy's Special Yogurt
 - 2023-08-23 — Cannon Fodder 8/23/23 — speakers: Cannon Fodder
 - 2023-08-16 — Cannon Fodder 8/16/23 — speakers: Cannon Fodder
 - 2023-08-09 — Cannon Fodder 8/9/23 — speakers: Gen Con
-- 2023-07-30 — Strange Aeons Episode 81 – Mister Sir — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-07-30 — Strange Aeons Episode 81 – Mister Sir
 - 2023-07-26 — Cannon Fodder 7/26/23 — speakers: Cannon Fodder, Gen Con
 - 2023-07-19 — Cannon Fodder 7/19/23 — speakers: Cannon Fodder
 - 2023-07-12 — Cannon Fodder 7/12/23 — speakers: Cannon Fodder
-- 2023-07-07 — Strange Aeons Episode 80 – Real Pain Supernova — speakers: Yellow King, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-07-05 — Cannon Fodder 7/5/23 — speakers: Cannon Fodder, Gnoll Fighter Qarizur
-- 2023-06-28 — Cannon Fodder 6/28/23 — speakers: Cannon Fodder, Gen Con
+- 2023-07-07 — Strange Aeons Episode 80 – Real Pain Supernova — speakers: Yellow King
+- 2023-07-05 — Cannon Fodder 7/5/23 — speakers: Cannon Fodder
+- 2023-06-28 — Cannon Fodder 6/28/23 — speakers: Cannon Fodder
 - 2023-06-21 — Cannon Fodder 6/21/23 — speakers: Cannon Fodder, Gen Con
-- 2023-06-14 — Cannon Fodder 6/14/23 — speakers: Cannon Fodder, Labs Experiment
-- 2023-06-13 — Strange Aeons Episode 79 – Die Me to the Moon — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-06-07 — Cannon Fodder 6/7/23 — speakers: Cannon Fodder, Flensing Jawn
-- 2023-06-06 — Strange Aeons Episode 78 – Until We Meat Again — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-06-14 — Cannon Fodder 6/14/23 — speakers: Cannon Fodder
+- 2023-06-13 — Strange Aeons Episode 79 – Die Me to the Moon — speakers: Troy Lavallee
+- 2023-06-07 — Cannon Fodder 6/7/23 — speakers: Cannon Fodder
+- 2023-06-06 — Strange Aeons Episode 78 – Until We Meat Again
 - 2023-05-31 — Cannon Fodder 5/31/23 — speakers: Cannon Fodder
-- 2023-05-30 — Strange Aeons Episode 77 – One Dollar Pickle — speakers: Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-05-24 — Cannon Fodder 5/24/23 — speakers: Cannon Fodder, Gen Con
-- 2023-05-23 — Strange Aeons Episode 76 – Rumble with the Umbral — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-05-30 — Strange Aeons Episode 77 – One Dollar Pickle — speakers: One Dollar Pickle Glass
+- 2023-05-24 — Cannon Fodder 5/24/23 — speakers: Cannon Fodder
+- 2023-05-23 — Strange Aeons Episode 76 – Rumble with the Umbral — speakers: Troy Lavallee, Joe O'Brien, Skid Maher
 - 2023-05-17 — Cannon Fodder 5/17/23 — speakers: Cannon Fodder
-- 2023-05-16 — Strange Aeons Episode 75 – Meat Cute — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-05-10 — Cannon Fodder 5/10/23 — speakers: Cannon Fodder, Gen Con
-- 2023-05-09 — Strange Aeons Episode 74 – Ghosts in the Machine — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-05-16 — Strange Aeons Episode 75 – Meat Cute — speakers: Troy Lavallee, Joe O'Brien
+- 2023-05-10 — Cannon Fodder 5/10/23 — speakers: Cannon Fodder
+- 2023-05-09 — Strange Aeons Episode 74 – Ghosts in the Machine — speakers: Join Troy
 - 2023-05-03 — Cannon Fodder 5/3/23 — speakers: Cannon Fodder
-- 2023-05-02 — Strange Aeons Episode 73 – Unwholesome Prison Blues — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-04-26 — Cannon Fodder 4/26/23 — speakers: Cannon Fodder, Glass Cannon Labs
-- 2023-04-25 — Strange Aeons Episode 72 – Mile High Drub — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-04-19 — Cannon Fodder 4/19/23 — speakers: Cannon Fodder, Gen Con
-- 2023-04-18 — Strange Aeons Episode 71 – That Time of the Moon — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-05-02 — Strange Aeons Episode 73 – Unwholesome Prison Blues — speakers: Unwholesome Prison Blues Links
+- 2023-04-26 — Cannon Fodder 4/26/23 — speakers: Cannon Fodder
+- 2023-04-25 — Strange Aeons Episode 72 – Mile High Drub — speakers: Mile High Drub Glass
+- 2023-04-19 — Cannon Fodder 4/19/23 — speakers: Cannon Fodder
+- 2023-04-18 — Strange Aeons Episode 71 – That Time of the Moon — speakers: Troy Lava
 - 2023-04-12 — Cannon Fodder 4/12/23 — speakers: Cannon Fodder, Glass Cannon Labs
-- 2023-04-11 — Strange Aeons Episode 70 – Ghost Ride the Bean Whip — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-04-11 — Strange Aeons Episode 70 – Ghost Ride the Bean Whip — speakers: Ghost Ride
 - 2023-04-05 — Cannon Fodder 4/5/23 — speakers: Cannon Fodder
-- 2023-04-04 — Strange Aeons Episode 69 – Wishing Impossible — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-04-04 — Strange Aeons Episode 69 – Wishing Impossible — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa
 - 2023-03-29 — Cannon Fodder 3/29/23
-- 2023-03-28 — Strange Aeons Episode 68 – Leng Story Short — speakers: Leng Story Short, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-03-28 — Strange Aeons Episode 68 – Leng Story Short — speakers: Leng Story Short, Troy Lavallee
 - 2023-03-22 — Cannon Fodder 3/22/23
-- 2023-03-21 — Strange Aeons Episode 67 – Boogey Knights — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-03-15 — Cannon Fodder 3/15/23 — speakers: Cannon Fodder, Gen Con, Glass Cannon Labs
-- 2023-03-14 — Strange Aeons Episode 66 – Hounddog Day — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-03-08 — Cannon Fodder 3/8/23 — speakers: Cannon Fodder, Glass Cannon Labs
-- 2023-03-07 — Strange Aeons Episode 65 – Citizen Leng — speakers: Citizen Leng, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-03-21 — Strange Aeons Episode 67 – Boogey Knights — speakers: Troy Lavallee
+- 2023-03-15 — Cannon Fodder 3/15/23 — speakers: Cannon Fodder, Gen Con
+- 2023-03-14 — Strange Aeons Episode 66 – Hounddog Day
+- 2023-03-08 — Cannon Fodder 3/8/23 — speakers: Cannon Fodder
+- 2023-03-07 — Strange Aeons Episode 65 – Citizen Leng — speakers: Citizen Leng
 - 2023-03-01 — Cannon Fodder 3/1/23 — speakers: Cannon Fodder
-- 2023-02-28 — Strange Aeons Episode 64 – Show Boat — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-02-28 — Strange Aeons Episode 64 – Show Boat
 - 2023-02-22 — Cannon Fodder 2/22/23 — speakers: Cannon Fodder
-- 2023-02-21 — Strange Aeons Episode 63 – Wamp! (There It Is) — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-02-21 — Strange Aeons Episode 63 – Wamp! (There It Is) — speakers: Troy Lavallee, Joe O'Bri
 - 2023-02-15 — Cannon Fodder 2/15/23 — speakers: Cannon Fodder
-- 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
 - 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
-- 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
 - 2023-02-01 — Friends of the Pod – Pathfinder 2E
 - 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
-- 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
 - 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
-- 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just
 - 2023-01-18 — Cannon Fodder 1/18/23 — speakers: Cannon Fodder
-- 2023-01-17 — Strange Aeons Episode 58 – Keeping the Wraith — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
+- 2023-01-17 — Strange Aeons Episode 58 – Keeping the Wraith
 - 2023-01-11 — Cannon Fodder 1/11/23 — speakers: Cannon Fodder, Glass Cannon Labs
-- 2023-01-10 — Strange Aeons Episode 57 – The Adventures of Pepsi and Chickenpoon — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, Kate Stamas
-- 2023-01-04 — Cannon Fodder 1/4/23 — speakers: Cannon Fodder, Joe kick, Glass Cannon Labs, Crushing Despair
-- 2022-12-06 — Strange Aeons Episode 56 – Lurid Dreaming — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-11-22 — Strange Aeons Episode 55 – Last Christmas — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-11-08 — Strange Aeons Episode 54 – Help Wanted — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-11-01 — Strange Aeons Episode 53 – Master of Poppets — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-10-25 — Strange Aeons Episode 52 – Foam at the Neck Mouth — speakers: Kate Stamas, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-10-18 — Strange Aeons Episode 51 – Wait in the Truck — speakers: Sellen Starling, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-10-04 — Strange Aeons Episode 50 – Beach Bodies — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-09-27 — Strange Aeons Episode 49 – Riverside Drive — speakers: Riverside Drive, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-09-20 — Strange Aeons Episode 48 – All Hail the Water Rat! — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel
-- 2022-09-13 — Strange Aeons Episode 47 – This Gug's for You — speakers: Sydney Amanuel, Jared Logan, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, CwTRGZifstk Recap
-- 2022-09-06 — Strange Aeons Episode 46 – The Juice Is Loose — speakers: Jared Logan, Sydney Amanuel, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa
-- 2022-08-30 — Strange Aeons Episode 45 – Leap of Faith Barge — speakers: Faith Barge, Sydney Amanuel, Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa
-- 2022-08-23 — Strange Aeons Episode 44 – Tiger Bomb — speakers: Tiger Bomb, Erik Mona, Tiny Murder Klowne, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-08-16 — Strange Aeons Episode 43 – The Return of the King — speakers: Gen Con, Jared Logan, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-08-09 — Strange Aeons Episode 42 – Wrecking Ball — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-08-02 — Strange Aeons Episode 41 – Pair of Kings — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-28 — Strange Aeons Episode 40 – Motile Bloodbath — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-27 — Strange Aeons Episode 39 – Why Tonight's the Caravanserai! — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-26 — Strange Aeons Episode 38 – Murder, She Boat — speakers: Erik Mona, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-25 — Strange Aeons Episode 37 – Powers in the Attic — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-21 — Strange Aeons Episode 36 – Singing Heads — speakers: Singing Heads, Iris Hill, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-20 — Strange Aeons Episode 35 – G10 to Luna — speakers: Sydney Amanuel, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-19 — Strange Aeons Episode 34 – Fails from the Crypt — speakers: Dead Royal Accusers, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-18 — Strange Aeons Episode 33 – Shag Carpet — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-14 — Strange Aeons Episode 32 – Shit and Giggles — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-13 — Strange Aeons Episode 31 – Two Half Men — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-12 — Strange Aeons Episode 30 – Rat Poisoned — speakers: Glass Cannon, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-11 — Strange Aeons Episode 29 – The Rat Stands Alone — speakers: Glass Cannon, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-07 — Strange Aeons Episode 28 – I Peg Your Pardon — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-06 — Strange Aeons Episode 27 – One Hundred Dollars — speakers: Iris Hill, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-05 — Strange Aeons Episode 26 – Monumental Decisions — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-07-04 — Strange Aeons Episode 25 – Sandra BULLock — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-30 — Strange Aeons Episode 24 – Lost in Translation — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-29 — Strange Aeons Episode 23 – You'll Never Be a Knight! — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-28 — Strange Aeons Episode 22 – The Day the Music Died — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-27 — Strange Aeons Episode 21 – Bad Juju — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-23 — Strange Aeons Episode 20 – Unfamiliar Faces — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-22 — Strange Aeons Episode 19 – Sleepless Little Town — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-21 — Strange Aeons Episode 18 – Enter Sandman — speakers: Ulver Zandalus, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-20 — Strange Aeons Episode 17 – One Crazy Knight — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-16 — Strange Aeons Episode 16 – Poo De Grâce — speakers: Poo De Grâce, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-15 — Strange Aeons Episode 15 – An Actor Prepares — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-14 — Strange Aeons Episode 14 – Tickle Fight — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-13 — Strange Aeons Episode 13 – Acts of the Apostles — speakers: Whiz O'Brien, Glass Cannon Network, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-09 — Strange Aeons Episode 12 – Channel Positive Cabbage — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-08 — Strange Aeons Episode 11 – Kids in the Hallway (of Blood) — speakers: Glass Cannon, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-07 — Strange Aeons Episode 10 – Flashbacks and Handouts — speakers: Dragon Con, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-06 — Strange Aeons Episode 9 – Sweet, Sweet Marguerite — speakers: Sweet Marguerite, Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-06-03 — The Giantslayer Goodbye Party
-- 2022-06-02 — Strange Aeons Episode 8 – I Stole Her Soul — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa, Erik Mona
-- 2022-06-01 — Strange Aeons Episode 7 – Hooked on Phonics — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-05-31 — Strange Aeons Episode 6 – What Am I Become? — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-05-30 — Strange Aeons Episode 5 – Praise Log! — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-05-26 — Strange Aeons Episode 4 – Words Fail — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-05-25 — Strange Aeons Episode 3 – Unconscious and Dying — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
-- 2022-05-24 — Strange Aeons Episode 2 – As If You Didn't Know — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa, Erik Mona
-- 2022-05-23 — Strange Aeons Episode 1 – The Green Loser — speakers: Troy Lavallee, Joe O'Brien, Skid Maher, Grant Berger, Matthew Capodicasa
+- 2023-01-10 — Strange Aeons Episode 57 – The Adventures of Pepsi and Chickenpoon
+- 2023-01-04 — Cannon Fodder 1/4/23 — speakers: Cannon Fodder, Joe kick, Glass Cannon Labs
+- 2022-12-06 — Strange Aeons Episode 56 – Lurid Dreaming
+- 2022-11-22 — Strange Aeons Episode 55 – Last Christmas
+- 2022-11-08 — Strange Aeons Episode 54 – Help Wanted — speakers: Sellen Starling
+- 2022-11-01 — Strange Aeons Episode 53 – Master of Poppets
+- 2022-10-25 — Strange Aeons Episode 52 – Foam at the Neck Mouth — speakers: Neck Mouth
+- 2022-10-18 — Strange Aeons Episode 51 – Wait in the Truck — speakers: Sellen Starling
+- 2022-10-04 — Strange Aeons Episode 50 – Beach Bodies
+- 2022-09-27 — Strange Aeons Episode 49 – Riverside Drive — speakers: Riverside Drive
+- 2022-09-20 — Strange Aeons Episode 48 – All Hail the Water Rat! — speakers: life look
+- 2022-09-13 — Strange Aeons Episode 47 – This Gug's for You
+- 2022-09-06 — Strange Aeons Episode 46 – The Juice Is Loose
+- 2022-08-30 — Strange Aeons Episode 45 – Leap of Faith Barge — speakers: Faith Barge
+- 2022-08-23 — Strange Aeons Episode 44 – Tiger Bomb — speakers: Tiger Bomb
+- 2022-08-16 — Strange Aeons Episode 43 – The Return of the King — speakers: Gen Con
+- 2022-08-09 — Strange Aeons Episode 42 – Wrecking Ball
+- 2022-08-02 — Strange Aeons Episode 41 – Pair of Kings — speakers: Los Angeles
+- 2022-07-28 — Strange Aeons Episode 40 – Motile Bloodbath
+- 2022-07-27 — Strange Aeons Episode 39 – Why Tonight's the Caravanserai! — speakers: Why Tonight, Miracle Theatre
+- 2022-07-26 — Strange Aeons Episode 38 – Murder, She Boat
+- 2022-07-25 — Strange Aeons Episode 37 – Powers in the Attic — speakers: Praise Log
+- 2022-07-21 — Strange Aeons Episode 36 – Singing Heads — speakers: Singing Heads, Iris Hill
+- 2022-07-20 — Strange Aeons Episode 35 – G10 to Luna
+- 2022-07-19 — Strange Aeons Episode 34 – Fails from the Crypt
+- 2022-07-18 — Strange Aeons Episode 33 – Shag Carpet
+- 2022-07-14 — Strange Aeons Episode 32 – Shit and Giggles
+- 2022-07-13 — Strange Aeons Episode 31 – Two Half Men
+- 2022-07-12 — Strange Aeons Episode 30 – Rat Poisoned — speakers: Rat Poisoned Atticus
+- 2022-07-11 — Strange Aeons Episode 29 – The Rat Stands Alone — speakers: Glass Cannon
+- 2022-07-07 — Strange Aeons Episode 28 – I Peg Your Pardon
+- 2022-07-06 — Strange Aeons Episode 27 – One Hundred Dollars
+- 2022-07-05 — Strange Aeons Episode 26 – Monumental Decisions
+- 2022-07-04 — Strange Aeons Episode 25 – Sandra BULLock
+- 2022-06-30 — Strange Aeons Episode 24 – Lost in Translation
+- 2022-06-29 — Strange Aeons Episode 23 – You'll Never Be a Knight! — speakers: Troy Lavallee
+- 2022-06-28 — Strange Aeons Episode 22 – The Day the Music Died
+- 2022-06-27 — Strange Aeons Episode 21 – Bad Juju — speakers: Bad Juju After
+- 2022-06-23 — Strange Aeons Episode 20 – Unfamiliar Faces
+- 2022-06-22 — Strange Aeons Episode 19 – Sleepless Little Town
+- 2022-06-21 — Strange Aeons Episode 18 – Enter Sandman
+- 2022-06-20 — Strange Aeons Episode 17 – One Crazy Knight — speakers: Strange Aeons Marathon
+- 2022-06-16 — Strange Aeons Episode 16 – Poo De Grâce — speakers: Poo De Grâce
+- 2022-06-15 — Strange Aeons Episode 15 – An Actor Prepares
+- 2022-06-14 — Strange Aeons Episode 14 – Tickle Fight
+- 2022-06-13 — Strange Aeons Episode 13 – Acts of the Apostles — speakers: Whiz O'Brien
+- 2022-06-09 — Strange Aeons Episode 12 – Channel Positive Cabbage
+- 2022-06-08 — Strange Aeons Episode 11 – Kids in the Hallway (of Blood) — speakers: Glass Cannon
+- 2022-06-07 — Strange Aeons Episode 10 – Flashbacks and Handouts — speakers: Dragon Con
+- 2022-06-06 — Strange Aeons Episode 9 – Sweet, Sweet Marguerite — speakers: Sweet Marguerite
+- 2022-06-03 — The Giantslayer Goodbye Party — speakers: Giantslayer Goodbye Party
+- 2022-06-02 — Strange Aeons Episode 8 – I Stole Her Soul
+- 2022-06-01 — Strange Aeons Episode 7 – Hooked on Phonics
+- 2022-05-31 — Strange Aeons Episode 6 – What Am I Become? — speakers: What Am, Glass Cannon
+- 2022-05-30 — Strange Aeons Episode 5 – Praise Log! — speakers: Praise Log
+- 2022-05-26 — Strange Aeons Episode 4 – Words Fail
+- 2022-05-25 — Strange Aeons Episode 3 – Unconscious and Dying
+- 2022-05-24 — Strange Aeons Episode 2 – As If You Didn't Know — speakers: Join Tr
+- 2022-05-23 — Strange Aeons Episode 1 – The Green Loser
 - 2022-05-17 — Giantslayer Episode 326 Part 3 - A Couple Things Happened
 - 2022-05-17 — Giantslayer Episode 326 Part 2 - A Couple Things Happened
 - 2022-05-17 — Giantslayer Episode 326 Part 1 - A Couple Things Happened
@@ -17976,7 +16396,7 @@
 - 2021-04-13 — Giantslayer Episode 273 - A Resting Development — speakers: Resting Development, Ironcloud Keep
 - 2021-04-06 — Giantslayer Episode 272 - Another Day in Paralyze — speakers: Another Day
 - 2021-03-30 — Giantslayer Episode 271 - Dark Side of the Moon Door — speakers: Dark Side, Ironcloud Keep
-- 2021-03-23 — Giantslayer Episode 270 - Ghost Mortem — speakers: Ghost Mortem, Ironcloud Keep
+- 2021-03-23 — Giantslayer Episode 270 - Ghost Mortem — speakers: Ghost Mortem
 - 2021-03-16 — Giantslayer Episode 269 - Die, Robot
 - 2021-03-09 — Giantslayer Episode 268 - Pisco Inferno
 - 2021-03-02 — Giantslayer Episode 267 - Level Up Before You Go-Go — speakers: Ironcloud Keep
@@ -18076,7 +16496,7 @@
 - 2018-10-09 — Giantslayer Episode 176 - And the Disband Played On
 - 2018-10-02 — Giantslayer Episode 175 - Something Wicker This Way Comes
 - 2018-09-25 — Giantslayer Episode 174 - Acts of the Colossals
-- 2018-09-18 — Giantslayer Episode 173 - Hersir and Present Danger
+- 2018-09-18 — Giantslayer Episode 173 - Hersir and Present Danger — speakers: Hersir Greggano
 - 2018-09-11 — Giantslayer Episode 172 - Magic-User Unfriendly — speakers: Magic-User Unfriendly
 - 2018-09-04 — Giantslayer Episode 171 - Days of Sunder
 - 2018-08-28 — Giantslayer Episode 170 - The Birds and the Bears
@@ -18194,8 +16614,8 @@
 - 2016-07-19 — Giantslayer Episode 60 - Silence of the BLAMs
 - 2016-07-12 — Giantslayer Episode 59 - Grate Expectations — speakers: Redlake Fort
 - 2016-07-05 — Giantslayer Episode 58 - How Della Got Her Groove Back — speakers: How Della
-- 2016-06-28 — Giantslayer Episode 57 - Pyre When Ready — speakers: Redlake Fort
-- 2016-06-21 — Giantslayer Episode 56 - Elementally, Mud Dear Watson — speakers: Mud Dear Watson, Ghostlight Marsh
+- 2016-06-28 — Giantslayer Episode 57 - Pyre When Ready
+- 2016-06-21 — Giantslayer Episode 56 - Elementally, Mud Dear Watson — speakers: Mud Dear Watson
 - 2016-06-14 — Giantslayer Episode 55 - Ewigga, Please!
 - 2016-06-07 — Giantslayer Episode 54 - Mulch Ado About Nothing — speakers: Mulch Ado
 - 2016-05-31 — Giantslayer Episode 53 - Doom and Bloom
@@ -18240,7 +16660,7 @@
 - 2015-09-01 — Giantslayer Episode 14 - Weekend at Carl's
 - 2015-08-25 — Giantslayer Episode 13 - Drunkards & Flagons — speakers: Drunkards Flagons
 - 2015-08-18 — Giantslayer Episode 12 - The Killing Choke — speakers: Killing Choke
-- 2015-08-11 — Giantslayer Episode 11 - Four Warnings and a Funeral — speakers: Four Warnings, Rodrik Grath
+- 2015-08-11 — Giantslayer Episode 11 - Four Warnings and a Funeral — speakers: Four Warnings
 - 2015-08-04 — Giantslayer Episode 10 - Shut Up, Kid! — speakers: Shut Up
 - 2015-07-28 — Giantslayer Episode 9 - Gleaming the Cube
 - 2015-07-21 — Giantslayer Episode 8 - The Rat Stuff — speakers: Stuff Defying

@@ -2,8 +2,8 @@
 
 - slug: `godsfall`
 - source: `https://feeds.redcircle.com/9447a3d1-6295-40b5-bc92-7f7ba0678160`
-- fetched_at: `2026-02-24T16:16:09+00:00`
-- checked_at: `2026-02-24T16:16:09+00:00`
+- fetched_at: `2026-02-24T19:28:25+00:00`
+- checked_at: `2026-02-24T19:28:25+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/godsfall1658",
   "description": "godsfall",
   "image_url": "https://media.redcircle.com/images/2025/4/29/20/b389e506-a993-45cf-89e7-6923901bba19_b0-4612-45a9-980e-bdf4648f447d_godsfall-s06e07.jpg",
-  "fetched_at": "2026-02-24T16:16:09+00:00",
+  "fetched_at": "2026-02-24T19:28:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

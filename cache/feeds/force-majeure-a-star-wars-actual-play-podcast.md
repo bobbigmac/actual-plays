@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-02-23T07:33:38+00:00`
-- checked_at: `2026-02-23T07:33:38+00:00`
-- etag: `"6e9185c116053aeeb775b9bea728d780"`
-- last_modified: `Mon, 23 Feb 2026 05:33:18 GMT`
+- fetched_at: `2026-02-24T19:28:25+00:00`
+- checked_at: `2026-02-24T19:28:25+00:00`
+- etag: `"d3ca485b95d0c023c668ea9e2eff20b2"`
+- last_modified: `Tue, 24 Feb 2026 16:27:38 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-02-23T07:33:38+00:00",
+  "fetched_at": "2026-02-24T19:28:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,16 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76637940",
       "itunes_duration": "56:46",
-      "speakers": [
-        "Adam Beltaine",
-        "Jax Vorn",
-        "Kip Kazian",
-        "Kalro Vatts",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Alexander Nakarada",
-        "Silverman Sound"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "redemption",
@@ -65,14 +56,8 @@
       "enclosure_length": "46339336",
       "itunes_duration": "56:54",
       "speakers": [
-        "Adam Beltaine",
-        "Jax Vorn",
-        "Kip Kazian",
-        "Kalro Vatts",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Silverman Sound",
-        "Alexander Nakarada"
+        "Just Another Day",
+        "New Republic"
       ],
       "topics": [
         "shot",
@@ -91,14 +76,7 @@
       "enclosure_length": "64236679",
       "itunes_duration": "01:16:39",
       "speakers": [
-        "Whole Place",
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Sasha Ende"
+        "Whole Place"
       ],
       "topics": [
         "mecha",
@@ -121,13 +99,7 @@
       "enclosure_length": "36377644",
       "itunes_duration": "43:58",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Sasha Ende"
+        "bugs assaulti"
       ],
       "topics": [
         "mecha",
@@ -146,15 +118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46308019",
       "itunes_duration": "56:38",
-      "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Sasha Ende"
-      ],
+      "speakers": [],
       "topics": [
         "mecha",
         "hack",
@@ -174,14 +138,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44136336",
       "itunes_duration": "54:26",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -200,13 +157,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44385355",
       "itunes_duration": "56:31",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -224,13 +175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26837258",
       "itunes_duration": "32:55",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -249,13 +194,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32826033",
       "itunes_duration": "42:55",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -273,14 +212,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39342525",
       "itunes_duration": "52:13",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio",
-        "Myuu Some Sfx"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -299,13 +231,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37551041",
       "itunes_duration": "48:41",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -324,13 +250,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38700035",
       "itunes_duration": "51:07",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -349,13 +269,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42683702",
       "itunes_duration": "55:10",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -374,14 +288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31504443",
       "itunes_duration": "40:41",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio",
-        "David Robson"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -399,14 +306,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40901275",
       "itunes_duration": "52:43",
-      "speakers": [
-        "Seamus Conneelly",
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -426,14 +326,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38149161",
       "itunes_duration": "49:07",
-      "speakers": [
-        "Ashen Wastes",
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -453,11 +346,8 @@
       "enclosure_length": "30619901",
       "itunes_duration": "40:25",
       "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
+        "Symposium Now",
+        "Ironvale Station"
       ],
       "topics": [
         "doom",
@@ -477,12 +367,7 @@
       "enclosure_length": "35516932",
       "itunes_duration": "48:02",
       "speakers": [
-        "Aurora Few",
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
+        "Aurora Few"
       ],
       "topics": [
         "doom",
@@ -501,13 +386,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31007066",
       "itunes_duration": "41:25",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -529,11 +408,7 @@
       "enclosure_length": "34673589",
       "itunes_duration": "45:14",
       "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
+        "Bumblebee Alas"
       ],
       "topics": [
         "doom",
@@ -554,13 +429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36249122",
       "itunes_duration": "47:34",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -578,13 +447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34022103",
       "itunes_duration": "44:28",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -604,13 +467,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35939238",
       "itunes_duration": "46:31",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "doom",
         "sanctaris",
@@ -630,11 +487,7 @@
       "enclosure_length": "46443109",
       "itunes_duration": "01:01:16",
       "speakers": [
-        "Bluesky Ed",
-        "Bluesky Lou",
-        "Bluesky Mikey",
-        "Bluesky Ross",
-        "Sly Fox Audio"
+        "Horizon League"
       ],
       "topics": [
         "doom",
@@ -654,14 +507,7 @@
       "enclosure_length": "49763311",
       "itunes_duration": "01:04:02",
       "speakers": [
-        "Epoch Station",
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio"
+        "Epoch Station"
       ],
       "topics": [
         "mecha",
@@ -681,14 +527,7 @@
       "enclosure_length": "41493147",
       "itunes_duration": "53:27",
       "speakers": [
-        "Epoch Station",
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio"
+        "Epoch Station"
       ],
       "topics": [
         "mecha",
@@ -707,14 +546,7 @@
       "enclosure_length": "43247060",
       "itunes_duration": "55:58",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Sasha Ende"
+        "Razor ho"
       ],
       "topics": [
         "mecha",
@@ -736,10 +568,7 @@
       "enclosure_length": "39751218",
       "itunes_duration": "50:46",
       "speakers": [
-        "Bluesky Ed",
-        "Sly Fox Audio",
-        "Leopard Print Elevator",
-        "Kevin MacLeod"
+        "Table Chat"
       ],
       "topics": [
         "shadow",
@@ -762,10 +591,7 @@
       "enclosure_length": "50323217",
       "itunes_duration": "01:03:27",
       "speakers": [
-        "Bluesky Ed",
-        "Sly Fox Audio",
-        "Leopard Print Elevator",
-        "Kevin MacLeod"
+        "Table Chat"
       ],
       "topics": [
         "shadow",
@@ -787,10 +613,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28583397",
       "itunes_duration": "36:50",
-      "speakers": [
-        "Bluesky Ed",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -808,10 +631,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32407380",
       "itunes_duration": "42:16",
-      "speakers": [
-        "Bluesky Ed",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -830,13 +650,8 @@
       "enclosure_length": "27640109",
       "itunes_duration": "35:53",
       "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Halfling Lodge"
+        "Village Green Preservation Society",
+        "Gilded Weasels"
       ],
       "topics": [
         "village",
@@ -859,14 +674,9 @@
       "enclosure_length": "29301410",
       "itunes_duration": "37:51",
       "speakers": [
-        "Sneaky Pete",
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Halfling Lodge"
+        "Village Green Preservation Society",
+        "Gilded Weasels",
+        "Eiderglass Taphouse"
       ],
       "topics": [
         "village",
@@ -887,13 +697,7 @@
       "enclosure_length": "34254757",
       "itunes_duration": "45:05",
       "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio",
-        "Halfling Lodge"
+        "Village Green Preservation Society"
       ],
       "topics": [
         "village",
@@ -915,12 +719,7 @@
       "enclosure_length": "43341804",
       "itunes_duration": "57:11",
       "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio"
+        "Village Green Preservation Society"
       ],
       "topics": [
         "village",
@@ -943,13 +742,9 @@
       "enclosure_length": "35691783",
       "itunes_duration": "46:35",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio"
+        "towards them",
+        "even bigger",
+        "blocking thei"
       ],
       "topics": [
         "mecha",
@@ -968,15 +763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39674638",
       "itunes_duration": "50:42",
-      "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "forcemajeurepod Intro",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "mecha",
         "hack",
@@ -995,12 +782,8 @@
       "enclosure_length": "40051216",
       "itunes_duration": "52:00",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Buy Sammi",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
+        "Operation August Kobold Hot",
+        "Aeonic Primacy"
       ],
       "topics": [
         "mecha",
@@ -1021,11 +804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30751121",
       "itunes_duration": "40:02",
-      "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1043,12 +822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30536164",
       "itunes_duration": "40:03",
-      "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1067,10 +841,7 @@
       "enclosure_length": "28057605",
       "itunes_duration": "37:57",
       "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin Macleod"
+        "Surface Following"
       ],
       "topics": [
         "shadow",
@@ -1091,9 +862,7 @@
       "enclosure_length": "28233014",
       "itunes_duration": "38:19",
       "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
+        "Panopticon Inside"
       ],
       "topics": [
         "shadow",
@@ -1113,10 +882,7 @@
       "enclosure_length": "34840029",
       "itunes_duration": "45:18",
       "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "Cowards Leaving"
       ],
       "topics": [
         "shadow",
@@ -1136,11 +902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36424169",
       "itunes_duration": "47:11",
-      "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1159,11 +921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32141321",
       "itunes_duration": "42:35",
-      "speakers": [
-        "Bluesky Ed",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1183,12 +941,7 @@
       "enclosure_length": "33298842",
       "itunes_duration": "43:47",
       "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
+        "Cerea Having"
       ],
       "topics": [
         "shadow",
@@ -1208,14 +961,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29444078",
       "itunes_duration": "40:09",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1234,14 +980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33467602",
       "itunes_duration": "43:25",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1260,12 +999,8 @@
       "enclosure_length": "37427831",
       "itunes_duration": "46:45",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "back up",
+        "more target"
       ],
       "topics": [
         "mecha",
@@ -1286,12 +1021,7 @@
       "enclosure_length": "43999269",
       "itunes_duration": "55:32",
       "speakers": [
-        "Mecha Hack",
-        "David Black",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "Drop Zone Through"
       ],
       "topics": [
         "mecha",
@@ -1313,13 +1043,7 @@
       "itunes_duration": "53:39",
       "speakers": [
         "Terran Collective",
-        "Lodestar Alpha",
-        "Mecha Hack",
-        "David Black",
-        "Bluesky Nox",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Sly Fox Audio check"
+        "Lodestar Alpha"
       ],
       "topics": [
         "mecha",
@@ -1340,16 +1064,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33084451",
       "itunes_duration": "42:04",
-      "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod",
-        "David Robson",
-        "David Fesliyan"
-      ],
+      "speakers": [],
       "topics": [
         "exfiltration"
       ]
@@ -1365,14 +1080,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25677660",
       "itunes_duration": "32:30",
-      "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "David Robson"
-      ],
+      "speakers": [],
       "topics": [
         "negotiation"
       ]
@@ -1389,12 +1097,7 @@
       "enclosure_length": "29977331",
       "itunes_duration": "38:07",
       "speakers": [
-        "Otoh Dompo",
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
+        "Spiral retrieved"
       ],
       "topics": [
         "deep"
@@ -1412,13 +1115,7 @@
       "enclosure_length": "45772741",
       "itunes_duration": "57:49",
       "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Steven OBrien Free",
-        "Koala Vert Free"
+        "Subtlety Having"
       ],
       "topics": [
         "subtlety"
@@ -1435,15 +1132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40308379",
       "itunes_duration": "51:46",
-      "speakers": [
-        "Bluesky Lou",
-        "Bluesky Rob",
-        "Twitter Geoff",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod",
-        "David Robson"
-      ],
+      "speakers": [],
       "topics": [
         "infiltration"
       ]
@@ -1460,13 +1149,8 @@
       "enclosure_length": "2348763",
       "itunes_duration": "03:01",
       "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "Hiatus Announcement Unfortunately",
+        "Real Life"
       ],
       "topics": [
         "hiatus",
@@ -1484,14 +1168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40518005",
       "itunes_duration": "53:59",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1510,16 +1187,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31775910",
       "itunes_duration": "40:21",
-      "speakers": [
-        "Bluesky Ed",
-        "Bluesky Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Frank Schroeter Free",
-        "swingland Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1538,15 +1206,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35519184",
       "itunes_duration": "46:12",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1564,16 +1224,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40119084",
       "itunes_duration": "53:49",
-      "speakers": [
-        "Bluesky Lou",
-        "Twitter Leslie",
-        "Twitter Mark",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Sleek Panther",
-        "Deadly Roulette",
-        "Frank Schroeter"
-      ],
+      "speakers": [],
       "topics": [
         "augury",
         "investigations",
@@ -1592,13 +1243,7 @@
       "enclosure_length": "40568401",
       "itunes_duration": "53:47",
       "speakers": [
-        "Elmeron IV",
-        "Mastodon Lou",
-        "Twitter Leslie",
-        "Twitter Mark",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Sleek Panther"
+        "Augury Investigations"
       ],
       "topics": [
         "augury",
@@ -1618,14 +1263,7 @@
       "enclosure_length": "41770665",
       "itunes_duration": "56:27",
       "speakers": [
-        "Mastodon Lou",
-        "Twitter Leslie",
-        "Twitter Mark",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Deadly Roulette",
-        "Kevin MacLeod",
-        "Sleek Panther"
+        "Augury Investigations"
       ],
       "topics": [
         "augury",
@@ -1644,12 +1282,8 @@
       "enclosure_length": "39379441",
       "itunes_duration": "51:13",
       "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
+        "Mostly Void",
+        "Partly Stars Trapped"
       ],
       "topics": [
         "shadow",
@@ -1669,14 +1303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35671313",
       "itunes_duration": "47:00",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1695,15 +1322,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31769355",
       "itunes_duration": "42:43",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Alexander Nakarada Free"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1722,13 +1341,7 @@
       "enclosure_length": "28788449",
       "itunes_duration": "36:52",
       "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "Mean Green Mother Ambushed"
       ],
       "topics": [
         "shadow",
@@ -1749,15 +1362,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37080541",
       "itunes_duration": "47:43",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1778,13 +1383,7 @@
       "enclosure_length": "34761558",
       "itunes_duration": "45:40",
       "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
+        "No Moon Hailed"
       ],
       "topics": [
         "shadow",
@@ -1803,15 +1402,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32158004",
       "itunes_duration": "41:26",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1851,15 +1442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30401581",
       "itunes_duration": "40:12",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1879,15 +1462,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33490603",
       "itunes_duration": "42:19",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1905,14 +1480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11686626",
       "itunes_duration": "14:52",
-      "speakers": [
-        "Mastodon Ed",
-        "Mastodon Mikey",
-        "Twitter Mim",
-        "Twitter Ross",
-        "forcemajeurepod Mastodon",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -1932,13 +1500,7 @@
       "enclosure_length": "40681931",
       "itunes_duration": "51:33",
       "speakers": [
-        "Augusto Blope",
-        "Stew Clarke",
-        "Tom Dale",
-        "forcemajeurepod Mastodon",
-        "Kevin MacLeod",
-        "Frank Schroeter Free",
-        "Sly Fox Audio"
+        "Augusto Blope"
       ],
       "topics": [
         "hutt",
@@ -1957,13 +1519,7 @@
       "enclosure_length": "39161804",
       "itunes_duration": "49:42",
       "speakers": [
-        "Koh Tso",
-        "Augusto Blope",
-        "Stew Clarke",
-        "Tom Dale",
-        "forcemajeurepod Mastodon",
-        "Kevin MacLeod",
-        "Sly Fox Audio"
+        "Koh Tso"
       ],
       "topics": [
         "hutt",
@@ -1983,13 +1539,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42610819",
       "itunes_duration": "54:14",
-      "speakers": [
-        "Stew Clarke",
-        "Tom Dale",
-        "forcemajeurepod Mastodon",
-        "Kevin MacLeod",
-        "Sly Fox Audio"
-      ],
+      "speakers": [],
       "topics": [
         "hutt",
         "proud",
@@ -2009,8 +1559,7 @@
       "enclosure_length": "36658609",
       "itunes_duration": "47:04",
       "speakers": [
-        "John Harper",
-        "Kevin MacLeod"
+        "Captain Hands"
       ],
       "topics": [
         "outer",
@@ -2033,8 +1582,7 @@
       "enclosure_length": "40380682",
       "itunes_duration": "53:03",
       "speakers": [
-        "John Harper",
-        "Kevin MacLeod"
+        "Tragic Waste"
       ],
       "topics": [
         "outer",
@@ -2056,10 +1604,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44118355",
       "itunes_duration": "57:08",
-      "speakers": [
-        "John Harper",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2081,7 +1626,7 @@
       "enclosure_length": "33951313",
       "itunes_duration": "43:16",
       "speakers": [
-        "Kevin MacLeod"
+        "Few Credits More"
       ],
       "topics": [
         "credit",
@@ -2100,7 +1645,8 @@
       "enclosure_length": "33581988",
       "itunes_duration": "42:30",
       "speakers": [
-        "Kevin MacLeod"
+        "Few Credits More",
+        "Threats Job"
       ],
       "topics": [
         "credit",
@@ -2119,7 +1665,8 @@
       "enclosure_length": "37161674",
       "itunes_duration": "48:07",
       "speakers": [
-        "Kevin MacLeod"
+        "Few Credits More",
+        "Broke Sixth"
       ],
       "topics": [
         "credit"
@@ -2136,11 +1683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41835844",
       "itunes_duration": "54:33",
-      "speakers": [
-        "Adrian Tchaikovsky",
-        "John Robertson",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2160,9 +1703,7 @@
       "enclosure_length": "34337857",
       "itunes_duration": "44:19",
       "speakers": [
-        "Adrian Tchaikovsky",
-        "John Robertson",
-        "Kevin MacLeod"
+        "Celestial Coral"
       ],
       "topics": [
         "outer",
@@ -2183,11 +1724,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36790711",
       "itunes_duration": "46:39",
-      "speakers": [
-        "Adrian Tchaikovsky",
-        "John Robertson",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2206,12 +1743,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39242515",
       "itunes_duration": "50:02",
-      "speakers": [
-        "Adrian Tchaikovsky",
-        "John Robertson",
-        "Kevin MacLeod",
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2231,10 +1763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34548206",
       "itunes_duration": "44:25",
-      "speakers": [
-        "Leslie Links",
-        "Frozen Trail"
-      ],
+      "speakers": [],
       "topics": [
         "crystal",
         "darkly",
@@ -2254,9 +1783,7 @@
       "enclosure_length": "43090085",
       "itunes_duration": "56:40",
       "speakers": [
-        "Leslie Sponsor",
-        "Mecha Hack",
-        "Frozen Trail"
+        "countless stories"
       ],
       "topics": [
         "crystal",
@@ -2276,10 +1803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41425496",
       "itunes_duration": "53:13",
-      "speakers": [
-        "Gavin Smith",
-        "Lizbeth Myles"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2298,11 +1822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40730788",
       "itunes_duration": "51:32",
-      "speakers": [
-        "Gavin Smith",
-        "Lizbeth Myles",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "outer",
         "dark",
@@ -2323,8 +1843,7 @@
       "enclosure_length": "39242744",
       "itunes_duration": "50:33",
       "speakers": [
-        "Lone Gamers",
-        "Kevin MacLeod"
+        "Junker Cu"
       ],
       "topics": [
         "tikus",
@@ -2344,8 +1863,7 @@
       "enclosure_length": "31069789",
       "itunes_duration": "40:21",
       "speakers": [
-        "Crimson Blaster",
-        "Kevin MacLeod"
+        "Crimson Blaster"
       ],
       "topics": [
         "tikus",
@@ -2363,10 +1881,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38150115",
       "itunes_duration": "49:12",
-      "speakers": [
-        "Arcane Clockworks",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "tikus",
         "junker"
@@ -2383,7 +1898,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63945651",
       "itunes_duration": "01:21:14",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles"
+      ],
       "topics": [
         "coldfire",
         "chronicles"
@@ -2400,7 +1917,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46584530",
       "itunes_duration": "58:43",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2420,9 +1939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31730999",
       "itunes_duration": "41:08",
-      "speakers": [
-        "Purple Planet Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2440,7 +1957,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48442516",
       "itunes_duration": "01:03:10",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles",
+        "All Fall Down"
+      ],
       "topics": [
         "coldfire",
         "chronicles"
@@ -2475,7 +1995,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22661179",
       "itunes_duration": "29:32",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2494,7 +2016,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33509299",
       "itunes_duration": "43:19",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles",
+        "Fleeting Respite One"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2513,7 +2038,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50451501",
       "itunes_duration": "01:04:18",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2534,7 +2061,7 @@
       "enclosure_length": "20520898",
       "itunes_duration": "26:52",
       "speakers": [
-        "Myuu Licensed"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "coldfire",
@@ -2553,9 +2080,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28803005",
       "itunes_duration": "37:38",
-      "speakers": [
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2575,8 +2100,8 @@
       "enclosure_length": "30642555",
       "itunes_duration": "39:23",
       "speakers": [
-        "Leopard Print Elevator",
-        "Kevin MacLeod"
+        "Coldfire Chronicles",
+        "Dark Side"
       ],
       "topics": [
         "coldfire",
@@ -2596,7 +2121,7 @@
       "enclosure_length": "29930898",
       "itunes_duration": "38:59",
       "speakers": [
-        "Myuu Licensed"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "coldfire",
@@ -2617,7 +2142,8 @@
       "enclosure_length": "34626740",
       "itunes_duration": "44:37",
       "speakers": [
-        "Kevin MacLeod"
+        "Coldfire Chronicles",
+        "Daxos All"
       ],
       "topics": [
         "coldfire",
@@ -2637,7 +2163,7 @@
       "enclosure_length": "41181374",
       "itunes_duration": "52:45",
       "speakers": [
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "coldfire",
@@ -2657,9 +2183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36299497",
       "itunes_duration": "45:17",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2678,9 +2202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36864548",
       "itunes_duration": "46:55",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2700,7 +2222,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37090170",
       "itunes_duration": "47:50",
-      "speakers": [],
+      "speakers": [
+        "Bosco dead"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2719,9 +2243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39272036",
       "itunes_duration": "50:52",
-      "speakers": [
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2759,7 +2281,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31815111",
       "itunes_duration": "41:33",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles",
+        "Green Corner"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2796,7 +2321,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36337859",
       "itunes_duration": "47:57",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles",
+        "Port Haven"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2814,7 +2342,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42689436",
       "itunes_duration": "57:04",
-      "speakers": [],
+      "speakers": [
+        "Coldfire Chronicles",
+        "Reflection While"
+      ],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2834,8 +2365,7 @@
       "enclosure_length": "44162915",
       "itunes_duration": "58:44",
       "speakers": [
-        "Port Haven",
-        "Kevin MacLeod"
+        "Port Haven"
       ],
       "topics": [
         "coldfire",
@@ -2875,9 +2405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36546471",
       "itunes_duration": "47:50",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2897,9 +2425,7 @@
       "enclosure_length": "35984173",
       "itunes_duration": "47:06",
       "speakers": [
-        "Cyphus Gantares",
-        "Kevin MacLeod",
-        "Myuu Licensed"
+        "suitable props"
       ],
       "topics": [
         "coldfire",
@@ -2921,7 +2447,7 @@
       "enclosure_length": "31773291",
       "itunes_duration": "41:42",
       "speakers": [
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "coldfire",
@@ -2940,9 +2466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40934954",
       "itunes_duration": "54:45",
-      "speakers": [
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -2961,8 +2485,8 @@
       "enclosure_length": "42054336",
       "itunes_duration": "54:52",
       "speakers": [
-        "Vitaara Kai",
-        "Kevin MacLeod"
+        "Coldfire Chronicles",
+        "Port Haven"
       ],
       "topics": [
         "coldfire",
@@ -2980,10 +2504,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34507591",
       "itunes_duration": "45:18",
-      "speakers": [
-        "Vitaara Kai",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -3003,8 +2524,8 @@
       "enclosure_length": "28306749",
       "itunes_duration": "37:04",
       "speakers": [
-        "Vitaara Kai",
-        "Purple Planet Licensed"
+        "Coldfire Chronicles",
+        "Opportunity Abandoned"
       ],
       "topics": [
         "coldfire",
@@ -3024,10 +2545,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32734458",
       "itunes_duration": "43:07",
-      "speakers": [
-        "Vitaara Kai",
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -3046,8 +2564,7 @@
       "enclosure_length": "1048335",
       "itunes_duration": "01:23",
       "speakers": [
-        "Majeure Teaser",
-        "Kevin MacLeod"
+        "Majeure Teaser"
       ],
       "topics": [
         "dungeon",
@@ -3066,11 +2583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35748886",
       "itunes_duration": "46:13",
-      "speakers": [
-        "Vitaara Kai",
-        "Count Yendell",
-        "Purple Planet Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -3088,10 +2601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30457045",
       "itunes_duration": "40:13",
-      "speakers": [
-        "Vitaara Kai",
-        "Myuu Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles"
@@ -3109,7 +2619,7 @@
       "enclosure_length": "7779693",
       "itunes_duration": "09:57",
       "speakers": [
-        "Purple Planet"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "coldfire",
@@ -3129,8 +2639,7 @@
       "enclosure_length": "85205422",
       "itunes_duration": "01:38:08",
       "speakers": [
-        "Mark Eberhardt",
-        "Coruscant Nights"
+        "Mark Eberhardt"
       ],
       "topics": [
         "play",
@@ -3149,9 +2658,7 @@
       "enclosure_length": "95388243",
       "itunes_duration": "01:09:02",
       "speakers": [
-        "Paul Foxcroft check",
-        "Adrian Tchaikovsky",
-        "Kevin MacLeod"
+        "Bands There"
       ],
       "topics": [
         "blues",
@@ -3172,10 +2679,7 @@
       "enclosure_length": "37359276",
       "itunes_duration": "47:37",
       "speakers": [
-        "Paul Foxcroft check",
-        "Adrian Tchaikovsky",
-        "Kevin MacLeod",
-        "Purple Planet"
+        "Burglary If"
       ],
       "topics": [
         "blues",
@@ -3197,9 +2701,7 @@
       "enclosure_length": "45477402",
       "itunes_duration": "01:01:31",
       "speakers": [
-        "Paul Foxcroft check",
-        "Adrian Tchaikovsky",
-        "Kevin MacLeod"
+        "One Night"
       ],
       "topics": [
         "blues",
@@ -3219,9 +2721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48633767",
       "itunes_duration": "01:01:12",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "fistful",
         "credits",
@@ -3240,7 +2740,7 @@
       "enclosure_length": "35629797",
       "itunes_duration": "44:30",
       "speakers": [
-        "Kevin MacLeod"
+        "Port Authority"
       ],
       "topics": [
         "fistful",
@@ -3260,7 +2760,7 @@
       "enclosure_length": "44798892",
       "itunes_duration": "57:23",
       "speakers": [
-        "Kevin MacLeod"
+        "Very Bad Man"
       ],
       "topics": [
         "fistful",
@@ -3280,7 +2780,7 @@
       "enclosure_length": "53228097",
       "itunes_duration": "01:09:37",
       "speakers": [
-        "Kevin MacLeod"
+        "Fire Opal"
       ],
       "topics": [
         "shadow",
@@ -3301,7 +2801,7 @@
       "enclosure_length": "34582312",
       "itunes_duration": "44:14",
       "speakers": [
-        "Kevin MacLeod"
+        "Jedi Chapter"
       ],
       "topics": [
         "shadow",
@@ -3321,7 +2821,7 @@
       "enclosure_length": "30881747",
       "itunes_duration": "40:02",
       "speakers": [
-        "Kevin MacLeod"
+        "Fire Opal"
       ],
       "topics": [
         "shadow",
@@ -3341,9 +2841,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30008929",
       "itunes_duration": "39:13",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3362,9 +2860,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41244536",
       "itunes_duration": "54:01",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3384,8 +2880,8 @@
       "enclosure_length": "35985452",
       "itunes_duration": "48:03",
       "speakers": [
-        "Coruscant Nights",
-        "Kevin MacLeod"
+        "overwhelming odds",
+        "thought fallen"
       ],
       "topics": [
         "shadow",
@@ -3405,9 +2901,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26264322",
       "itunes_duration": "34:31",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3426,9 +2920,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36388122",
       "itunes_duration": "46:57",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3449,7 +2941,8 @@
       "enclosure_length": "28086591",
       "itunes_duration": "35:28",
       "speakers": [
-        "Kevin MacLeod"
+        "People During",
+        "Fecundity Chamber"
       ],
       "topics": [
         "shadow",
@@ -3469,9 +2962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37235942",
       "itunes_duration": "46:35",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3526,9 +3017,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27520309",
       "itunes_duration": "35:25",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3547,7 +3036,7 @@
       "enclosure_length": "38822082",
       "itunes_duration": "49:39",
       "speakers": [
-        "Kevin MacLeod"
+        "Secrets Recordings"
       ],
       "topics": [
         "shadow",
@@ -3568,7 +3057,7 @@
       "enclosure_length": "35958841",
       "itunes_duration": "45:27",
       "speakers": [
-        "Kevin MacLeod"
+        "What Lies Beneath Buried"
       ],
       "topics": [
         "shadow",
@@ -3586,9 +3075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38307232",
       "itunes_duration": "49:46",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3606,9 +3093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42578048",
       "itunes_duration": "53:35",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -3628,7 +3113,7 @@
       "enclosure_length": "35697004",
       "itunes_duration": "45:19",
       "speakers": [
-        "Kevin MacLeod"
+        "Morality Welcome"
       ],
       "topics": [
         "shadow",
@@ -3648,9 +3133,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39582469",
       "itunes_duration": "52:21",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "prinkle",
         "excellent",
@@ -3668,9 +3151,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38183826",
       "itunes_duration": "51:31",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "prinkle",
         "excellent",
@@ -3689,7 +3170,7 @@
       "enclosure_length": "32856266",
       "itunes_duration": "43:48",
       "speakers": [
-        "Kevin MacLeod"
+        "another look-alike"
       ],
       "topics": [
         "prinkle",
@@ -3708,9 +3189,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40278898",
       "itunes_duration": "52:26",
-      "speakers": [
-        "Chad Pendragon"
-      ],
+      "speakers": [],
       "topics": [
         "prinkle",
         "excellent",
@@ -3728,9 +3207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45995535",
       "itunes_duration": "01:01:08",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "prinkle",
         "excellent",
@@ -3749,8 +3226,7 @@
       "enclosure_length": "47715957",
       "itunes_duration": "01:03:35",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3769,8 +3245,7 @@
       "enclosure_length": "39346740",
       "itunes_duration": "51:19",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3790,10 +3265,7 @@
       "enclosure_length": "37700201",
       "itunes_duration": "48:21",
       "speakers": [
-        "Coldfire Chronicles",
-        "Daverin Coldfire",
-        "Vitaara Kai",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3832,9 +3304,7 @@
       "enclosure_length": "42300330",
       "itunes_duration": "53:25",
       "speakers": [
-        "Coldfire Chronicles",
-        "Vitaara Kai",
-        "Hefty Cleft"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3853,8 +3323,7 @@
       "enclosure_length": "43484179",
       "itunes_duration": "53:55",
       "speakers": [
-        "Coldfire Chronicles",
-        "Myuu Licensed"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3913,8 +3382,7 @@
       "enclosure_length": "35353267",
       "itunes_duration": "44:13",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3934,8 +3402,7 @@
       "enclosure_length": "40150619",
       "itunes_duration": "50:24",
       "speakers": [
-        "Coldfire Chronicles",
-        "Glass Dagger"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3975,8 +3442,7 @@
       "enclosure_length": "39109976",
       "itunes_duration": "49:02",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -3995,9 +3461,7 @@
       "enclosure_length": "37118694",
       "itunes_duration": "46:09",
       "speakers": [
-        "Coldfire Chronicles",
-        "Daverin Coldfire",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4016,8 +3480,7 @@
       "enclosure_length": "36591127",
       "itunes_duration": "45:23",
       "speakers": [
-        "Coldfire Chronicles",
-        "Myuu Licensed"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4037,8 +3500,7 @@
       "enclosure_length": "37205391",
       "itunes_duration": "47:33",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4058,10 +3520,7 @@
       "enclosure_length": "40821906",
       "itunes_duration": "54:11",
       "speakers": [
-        "Eye Billy",
-        "Joanne Berger",
-        "Awkward Meeting",
-        "Kevin MacLeod"
+        "Eye Billy"
       ],
       "topics": [
         "tiny",
@@ -4082,9 +3541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50880977",
       "itunes_duration": "47:49",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "tiny",
         "tikus",
@@ -4103,9 +3560,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46991209",
       "itunes_duration": "01:00:39",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "tiny",
         "tikus",
@@ -4124,9 +3579,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66626201",
       "itunes_duration": "55:02",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "tiny",
         "tikus",
@@ -4147,8 +3600,7 @@
       "enclosure_length": "32328485",
       "itunes_duration": "41:58",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4168,8 +3620,7 @@
       "enclosure_length": "36038636",
       "itunes_duration": "47:25",
       "speakers": [
-        "Coldfire Chronicles",
-        "Silverwing Armory"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4189,8 +3640,7 @@
       "enclosure_length": "30226928",
       "itunes_duration": "38:06",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4210,8 +3660,7 @@
       "enclosure_length": "31846362",
       "itunes_duration": "39:40",
       "speakers": [
-        "Coldfire Chronicles",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4251,8 +3700,7 @@
       "enclosure_length": "34085301",
       "itunes_duration": "44:00",
       "speakers": [
-        "Coldfire Chronicles",
-        "Myuu Licensed"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4271,9 +3719,7 @@
       "enclosure_length": "28256948",
       "itunes_duration": "37:13",
       "speakers": [
-        "Coldfire Chronicles",
-        "Featuring Lou",
-        "Kevin MacLeod"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4293,8 +3739,7 @@
       "enclosure_length": "30836486",
       "itunes_duration": "44:01",
       "speakers": [
-        "Coldfire Chronicles",
-        "Coruscant Nights"
+        "Coldfire Chronicles"
       ],
       "topics": [
         "chronicles",
@@ -4312,10 +3757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13354181",
       "itunes_duration": "17:49",
-      "speakers": [
-        "Kevin MacLeod",
-        "Purple Planet Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "chronicles",
         "recap",
@@ -4334,9 +3776,9 @@
       "enclosure_length": "53019312",
       "itunes_duration": "01:09:23",
       "speakers": [
-        "Ben Yendall",
-        "Ben deuteriumice GM",
-        "Kevin MacLeod"
+        "Hydian Force",
+        "Crossover Event Force Majeure",
+        "Hydian Way"
       ],
       "topics": [
         "hydian",
@@ -4356,9 +3798,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38364965",
       "itunes_duration": "49:13",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -4395,9 +3835,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22587361",
       "itunes_duration": "30:40",
-      "speakers": [
-        "Purple Planet"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -4416,7 +3854,7 @@
       "enclosure_length": "24569517",
       "itunes_duration": "34:17",
       "speakers": [
-        "Kevin MacLeod"
+        "Statue Aboard"
       ],
       "topics": [
         "shadow",
@@ -4436,9 +3874,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27262814",
       "itunes_duration": "35:47",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -4456,9 +3892,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28842479",
       "itunes_duration": "38:46",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "jedi",
@@ -4479,7 +3913,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27432730",
       "itunes_duration": "36:16",
-      "speakers": [],
+      "speakers": [
+        "Heel Break"
+      ],
       "topics": [
         "shadow",
         "jedi",
@@ -4517,7 +3953,7 @@
       "enclosure_length": "30506719",
       "itunes_duration": "40:36",
       "speakers": [
-        "Iron Horse"
+        "Watering Hole"
       ],
       "topics": [
         "shadow",
@@ -4634,7 +4070,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28668679",
       "itunes_duration": "36:24",
-      "speakers": [],
+      "speakers": [
+        "Outer Rim",
+        "Bloody Red Kiss"
+      ],
       "topics": [
         "shadow",
         "jedi",
@@ -4653,10 +4092,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57456778",
       "itunes_duration": "45:21",
-      "speakers": [
-        "Season Shadows",
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4677,9 +4113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46831798",
       "itunes_duration": "39:00",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4697,9 +4131,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35121027",
       "itunes_duration": "30:53",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4717,10 +4149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39743790",
       "itunes_duration": "33:11",
-      "speakers": [
-        "forcemajeurepod Instagram",
-        "Gustav Holst"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4738,9 +4167,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44320785",
       "itunes_duration": "36:33",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4758,9 +4185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38414334",
       "itunes_duration": "33:38",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4779,9 +4204,7 @@
       "enclosure_length": "40737360",
       "itunes_duration": "38:47",
       "speakers": [
-        "Rebel Alliance",
-        "forcemajeurepod Instagram",
-        "forcemajeurepod Website"
+        "Rebel Alliance"
       ],
       "topics": [
         "coldfire",
@@ -4801,9 +4224,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35961851",
       "itunes_duration": "32:18",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4824,8 +4245,7 @@
       "enclosure_length": "46303750",
       "itunes_duration": "37:47",
       "speakers": [
-        "Whiteout Having",
-        "forcemajeurepod Instagram"
+        "Whiteout Having"
       ],
       "topics": [
         "coldfire",
@@ -4844,9 +4264,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42589327",
       "itunes_duration": "35:52",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4865,9 +4283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29346727",
       "itunes_duration": "38:40",
-      "speakers": [
-        "forcemajeurepod Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "coldfire",
         "chronicles",
@@ -4904,220 +4320,220 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — A Shot At Redemption E02 - The Facility — speakers: Adam Beltaine, Jax Vorn, Kip Kazian, Kalro Vatts, forcemajeurepod Intro, Sly Fox Audio, Alexander Nakarada, Silverman Sound
-- 2026-02-09 — A Shot At Redemption E01 - Just Another Day — speakers: Adam Beltaine, Jax Vorn, Kip Kazian, Kalro Vatts, forcemajeurepod Intro, Sly Fox Audio, Silverman Sound, Alexander Nakarada
-- 2026-01-26 — The Mecha Hack E12 - Dust Off, Nuke The Whole Place From Orbit — speakers: Whole Place, Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Intro, Sly Fox Audio, Sasha Ende
-- 2026-01-12 — The Mecha Hack E11 - Bug Hunt — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Intro, Sly Fox Audio, Sasha Ende
-- 2025-12-29 — The Mecha Hack E10 - Operation Alabaster Codify — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Intro, Sly Fox Audio, Sasha Ende
-- 2025-12-15 — Doom that Came to Sanctaris E19 - Table Chat — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio, Kevin MacLeod
-- 2025-12-01 — Doom that Came to Sanctaris E18 - Dread — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-11-17 — Doom that Came to Sanctaris E17 - Jail / Break — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-11-03 — Doom that Came to Sanctaris E16 - The Disciple — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-10-20 — Doom that Came to Sanctaris E15 - Unwelcome Company — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio, Myuu Some Sfx
-- 2025-10-06 — Doom that Came to Sanctaris E14 - Purpose Walks Until The End — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-09-22 — Doom that Came to Sanctaris E13 - A History of Violence — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-09-08 — Doom that Came to Sanctaris E12 - Speak, Friend, And Enter — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-08-25 — Doom that Came to Sanctaris E11 - To The Temple — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio, David Robson
-- 2025-08-11 — Doom that Came to Sanctaris E10 - A Stern Chase Is A Long Chase — speakers: Seamus Conneelly, Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-07-28 — Doom that Came to Sanctaris E09 - To The Ashen Wastes — speakers: Ashen Wastes, Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-07-14 — Doom that Came to Sanctaris E08 - Symposium — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-06-30 — Doom that Came to Sanctaris E07 - The Aurora — speakers: Aurora Few, Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-06-16 — Doom that Came to Sanctaris E06 - An Inclement Night For A Stroll In The Gardens — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-06-02 — Doom that Came to Sanctaris E05 - Flight Of The (Space) Bumblebee — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-05-19 — Doom that Came to Sanctaris E04 - The Solarium — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-05-05 — Doom that Came to Sanctaris E03 - The Assault on Chateau LeRoux — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-04-21 — Doom that Came to Sanctaris E02 - Uninvited Guests — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-04-07 — Doom that Came to Sanctaris E01 - The Invitation — speakers: Bluesky Ed, Bluesky Lou, Bluesky Mikey, Bluesky Ross, Sly Fox Audio
-- 2025-03-24 — The Mecha Hack E09 - Them's the Brakes — speakers: Epoch Station, Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio
-- 2025-03-10 — The Mecha Hack E08 - Gotta Go Fast — speakers: Epoch Station, Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio
-- 2025-02-24 — The Mecha Hack E07 - Operation: Emerald Consequence — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio, Sasha Ende
-- 2025-02-10 — Shadows of the Jedi S07 E26 - Table Chat 2 - The Quick Stuff — speakers: Bluesky Ed, Sly Fox Audio, Leopard Print Elevator, Kevin MacLeod
-- 2025-01-27 — Shadows of the Jedi S07 E25 - Table Chat 1 - The Deep Stuff — speakers: Bluesky Ed, Sly Fox Audio, Leopard Print Elevator, Kevin MacLeod
-- 2025-01-13 — Shadows of the Jedi S07 E24 - Cataclysm — speakers: Bluesky Ed, Sly Fox Audio
-- 2024-12-30 — Shadows of the Jedi S07 E23 - Showdown with the Shadow — speakers: Bluesky Ed, Sly Fox Audio
-- 2024-12-16 — Village Green Preservation Society E04 - "The Greater Good" — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio, Halfling Lodge
-- 2024-12-02 — Village Green Preservation Society E03 - "Pub?" — speakers: Sneaky Pete, Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio, Halfling Lodge
-- 2024-11-18 — Village Green Preservation Society E02 -"Want Anything From The Shop?" — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio, Halfling Lodge
-- 2024-11-04 — Village Green Preservation Society E01 - "What's Your Perfect Sunday?" — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio
-- 2024-10-21 — The Mecha Hack E06 - Death From Above — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio
-- 2024-10-07 — The Mecha Hack E05 - Contact! — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, forcemajeurepod Intro, Sly Fox Audio
-- 2024-09-23 — The Mecha Hack E04 - Operation August Kobold — speakers: Mecha Hack, David Black, Buy Sammi, Bluesky Nox, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-09-09 — Shadows of the Jedi S07 E22 - "It All Leads Back To Kenobi" — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-08-26 — Shadows of the Jedi S07 E21 - Eye of the Storm — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio, Kevin Macleod
-- 2024-08-12 — Shadows of the Jedi S07 E20 - Race to the Surface — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio, Kevin Macleod
-- 2024-07-29 — Shadows of the Jedi S07 E19 - Panopticon — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-07-15 — Shadows of the Jedi S07 E18 - Subtext is for Cowards — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2024-07-01 — Shadows of the Jedi S07 E17 - "Roll for existential crisis" — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-06-17 — Shadows of the Jedi S07 E16 - The Whole World, In His Hands — speakers: Bluesky Ed, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-06-03 — Shadows of the Jedi S07 E15 - In The Heart Of Cerea — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-05-20 — Shadows of the Jedi S07 E14 - In The Clutch of the Kraken! — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-05-06 — Shadows of the Jedi S07 E13 - The Grebnax — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-04-22 — The Mecha Hack E03 - Hard Target — speakers: Mecha Hack, David Black, Bluesky Nox, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2024-04-08 — The Mecha Hack E02 - Drop Zone — speakers: Mecha Hack, David Black, Bluesky Nox, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2024-03-25 — The Mecha Hack E01 - Operation Tangent Fractal — speakers: Terran Collective, Lodestar Alpha, Mecha Hack, David Black, Bluesky Nox, forcemajeurepod Mastodon, Sly Fox Audio, Sly Fox Audio check
-- 2024-03-11 — Somewhere Beyond The Sea E05 - Exfiltration — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod, David Robson, David Fesliyan
-- 2024-02-26 — Somewhere Beyond The Sea E04 - Negotiation — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, Sly Fox Audio, David Robson
-- 2024-02-12 — Somewhere Beyond The Sea E03 - Deep — speakers: Otoh Dompo, Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, Sly Fox Audio
-- 2024-01-29 — Somewhere Beyond The Sea E02 - Subtlety — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, Sly Fox Audio, Steven OBrien Free, Koala Vert Free
-- 2024-01-15 — Somewhere Beyond The Sea E01 - Infiltration — speakers: Bluesky Lou, Bluesky Rob, Twitter Geoff, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod, David Robson
-- 2023-10-02 — Hiatus Announcement — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-09-25 — Shadows of the Jedi S07 E12 - Downtime at the Docs — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2023-09-11 — Shadows of the Jedi S07 E11 - Family Meeting — speakers: Bluesky Ed, Bluesky Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Frank Schroeter Free, swingland Licensed
-- 2023-08-28 — Shadows of the Jedi S07 E10 - Homecoming — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-08-14 — Augury Investigations, Inc E03 - The Droidworks — speakers: Bluesky Lou, Twitter Leslie, Twitter Mark, forcemajeurepod Mastodon, Sly Fox Audio, Sleek Panther, Deadly Roulette, Frank Schroeter
-- 2023-07-31 — Augury Investigations, Inc E02 - The Dogstar — speakers: Elmeron IV, Mastodon Lou, Twitter Leslie, Twitter Mark, forcemajeurepod Mastodon, Sly Fox Audio, Sleek Panther
-- 2023-07-17 — Augury Investigations, Inc E01 - The Gig — speakers: Mastodon Lou, Twitter Leslie, Twitter Mark, forcemajeurepod Mastodon, Sly Fox Audio, Deadly Roulette, Kevin MacLeod, Sleek Panther
-- 2023-07-03 — Shadows of the Jedi S07 E09 - Mostly Void, Partly Stars — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2023-06-19 — Shadows of the Jedi S07 E08 - The Peril Of Trinkets — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2023-06-05 — Shadows of the Jedi S07 E07 - Why The Doc Is A Monster — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Alexander Nakarada Free
-- 2023-05-22 — Shadows of the Jedi S07 E06 - Mean Green Mother — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-05-08 — Shadows of the Jedi S07 E05 - Little Birdhouse In Your Soul — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-04-24 — Shadows of the Jedi S07 E04 - That's No Moon — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-04-10 — Shadows of the Jedi S07 E03 - Powersliding Through Hyperspace — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
+- 2026-02-23 — A Shot At Redemption E02 - The Facility
+- 2026-02-09 — A Shot At Redemption E01 - Just Another Day — speakers: Just Another Day, New Republic
+- 2026-01-26 — The Mecha Hack E12 - Dust Off, Nuke The Whole Place From Orbit — speakers: Whole Place
+- 2026-01-12 — The Mecha Hack E11 - Bug Hunt — speakers: bugs assaulti
+- 2025-12-29 — The Mecha Hack E10 - Operation Alabaster Codify
+- 2025-12-15 — Doom that Came to Sanctaris E19 - Table Chat
+- 2025-12-01 — Doom that Came to Sanctaris E18 - Dread
+- 2025-11-17 — Doom that Came to Sanctaris E17 - Jail / Break
+- 2025-11-03 — Doom that Came to Sanctaris E16 - The Disciple
+- 2025-10-20 — Doom that Came to Sanctaris E15 - Unwelcome Company
+- 2025-10-06 — Doom that Came to Sanctaris E14 - Purpose Walks Until The End
+- 2025-09-22 — Doom that Came to Sanctaris E13 - A History of Violence
+- 2025-09-08 — Doom that Came to Sanctaris E12 - Speak, Friend, And Enter
+- 2025-08-25 — Doom that Came to Sanctaris E11 - To The Temple
+- 2025-08-11 — Doom that Came to Sanctaris E10 - A Stern Chase Is A Long Chase
+- 2025-07-28 — Doom that Came to Sanctaris E09 - To The Ashen Wastes
+- 2025-07-14 — Doom that Came to Sanctaris E08 - Symposium — speakers: Symposium Now, Ironvale Station
+- 2025-06-30 — Doom that Came to Sanctaris E07 - The Aurora — speakers: Aurora Few
+- 2025-06-16 — Doom that Came to Sanctaris E06 - An Inclement Night For A Stroll In The Gardens
+- 2025-06-02 — Doom that Came to Sanctaris E05 - Flight Of The (Space) Bumblebee — speakers: Bumblebee Alas
+- 2025-05-19 — Doom that Came to Sanctaris E04 - The Solarium
+- 2025-05-05 — Doom that Came to Sanctaris E03 - The Assault on Chateau LeRoux
+- 2025-04-21 — Doom that Came to Sanctaris E02 - Uninvited Guests
+- 2025-04-07 — Doom that Came to Sanctaris E01 - The Invitation — speakers: Horizon League
+- 2025-03-24 — The Mecha Hack E09 - Them's the Brakes — speakers: Epoch Station
+- 2025-03-10 — The Mecha Hack E08 - Gotta Go Fast — speakers: Epoch Station
+- 2025-02-24 — The Mecha Hack E07 - Operation: Emerald Consequence — speakers: Razor ho
+- 2025-02-10 — Shadows of the Jedi S07 E26 - Table Chat 2 - The Quick Stuff — speakers: Table Chat
+- 2025-01-27 — Shadows of the Jedi S07 E25 - Table Chat 1 - The Deep Stuff — speakers: Table Chat
+- 2025-01-13 — Shadows of the Jedi S07 E24 - Cataclysm
+- 2024-12-30 — Shadows of the Jedi S07 E23 - Showdown with the Shadow
+- 2024-12-16 — Village Green Preservation Society E04 - "The Greater Good" — speakers: Village Green Preservation Society, Gilded Weasels
+- 2024-12-02 — Village Green Preservation Society E03 - "Pub?" — speakers: Village Green Preservation Society, Gilded Weasels, Eiderglass Taphouse
+- 2024-11-18 — Village Green Preservation Society E02 -"Want Anything From The Shop?" — speakers: Village Green Preservation Society
+- 2024-11-04 — Village Green Preservation Society E01 - "What's Your Perfect Sunday?" — speakers: Village Green Preservation Society
+- 2024-10-21 — The Mecha Hack E06 - Death From Above — speakers: towards them, even bigger, blocking thei
+- 2024-10-07 — The Mecha Hack E05 - Contact!
+- 2024-09-23 — The Mecha Hack E04 - Operation August Kobold — speakers: Operation August Kobold Hot, Aeonic Primacy
+- 2024-09-09 — Shadows of the Jedi S07 E22 - "It All Leads Back To Kenobi"
+- 2024-08-26 — Shadows of the Jedi S07 E21 - Eye of the Storm
+- 2024-08-12 — Shadows of the Jedi S07 E20 - Race to the Surface — speakers: Surface Following
+- 2024-07-29 — Shadows of the Jedi S07 E19 - Panopticon — speakers: Panopticon Inside
+- 2024-07-15 — Shadows of the Jedi S07 E18 - Subtext is for Cowards — speakers: Cowards Leaving
+- 2024-07-01 — Shadows of the Jedi S07 E17 - "Roll for existential crisis"
+- 2024-06-17 — Shadows of the Jedi S07 E16 - The Whole World, In His Hands
+- 2024-06-03 — Shadows of the Jedi S07 E15 - In The Heart Of Cerea — speakers: Cerea Having
+- 2024-05-20 — Shadows of the Jedi S07 E14 - In The Clutch of the Kraken!
+- 2024-05-06 — Shadows of the Jedi S07 E13 - The Grebnax
+- 2024-04-22 — The Mecha Hack E03 - Hard Target — speakers: back up, more target
+- 2024-04-08 — The Mecha Hack E02 - Drop Zone — speakers: Drop Zone Through
+- 2024-03-25 — The Mecha Hack E01 - Operation Tangent Fractal — speakers: Terran Collective, Lodestar Alpha
+- 2024-03-11 — Somewhere Beyond The Sea E05 - Exfiltration
+- 2024-02-26 — Somewhere Beyond The Sea E04 - Negotiation
+- 2024-02-12 — Somewhere Beyond The Sea E03 - Deep — speakers: Spiral retrieved
+- 2024-01-29 — Somewhere Beyond The Sea E02 - Subtlety — speakers: Subtlety Having
+- 2024-01-15 — Somewhere Beyond The Sea E01 - Infiltration
+- 2023-10-02 — Hiatus Announcement — speakers: Hiatus Announcement Unfortunately, Real Life
+- 2023-09-25 — Shadows of the Jedi S07 E12 - Downtime at the Docs
+- 2023-09-11 — Shadows of the Jedi S07 E11 - Family Meeting
+- 2023-08-28 — Shadows of the Jedi S07 E10 - Homecoming
+- 2023-08-14 — Augury Investigations, Inc E03 - The Droidworks
+- 2023-07-31 — Augury Investigations, Inc E02 - The Dogstar — speakers: Augury Investigations
+- 2023-07-17 — Augury Investigations, Inc E01 - The Gig — speakers: Augury Investigations
+- 2023-07-03 — Shadows of the Jedi S07 E09 - Mostly Void, Partly Stars — speakers: Mostly Void, Partly Stars Trapped
+- 2023-06-19 — Shadows of the Jedi S07 E08 - The Peril Of Trinkets
+- 2023-06-05 — Shadows of the Jedi S07 E07 - Why The Doc Is A Monster
+- 2023-05-22 — Shadows of the Jedi S07 E06 - Mean Green Mother — speakers: Mean Green Mother Ambushed
+- 2023-05-08 — Shadows of the Jedi S07 E05 - Little Birdhouse In Your Soul
+- 2023-04-24 — Shadows of the Jedi S07 E04 - That's No Moon — speakers: No Moon Hailed
+- 2023-04-10 — Shadows of the Jedi S07 E03 - Powersliding Through Hyperspace
 - 2023-04-01 — Dungeon Majeure Season 2 Announcement — speakers: Majeure Season
-- 2023-03-27 — Shadows of the Jedi S07 E02 - Target Rich Environment — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-03-13 — Shadows of the Jedi S07 E01 - A War in the Stars — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio, Kevin MacLeod
-- 2023-03-06 — Shadows of the Jedi S07 E00 - Chapter 2 Recap — speakers: Mastodon Ed, Mastodon Mikey, Twitter Mim, Twitter Ross, forcemajeurepod Mastodon, Sly Fox Audio
-- 2023-02-27 — Too Hutt To Handle E03 - Pull! — speakers: Augusto Blope, Stew Clarke, Tom Dale, forcemajeurepod Mastodon, Kevin MacLeod, Frank Schroeter Free, Sly Fox Audio
-- 2023-02-13 — Too Hutt To Handle E02 - The Melancholy of the Trout King — speakers: Koh Tso, Augusto Blope, Stew Clarke, Tom Dale, forcemajeurepod Mastodon, Kevin MacLeod, Sly Fox Audio
-- 2023-01-30 — Too Hutt To Handle E01 - Proud Trout Energy — speakers: Stew Clarke, Tom Dale, forcemajeurepod Mastodon, Kevin MacLeod, Sly Fox Audio
-- 2023-01-16 — Outer Dark Trilogy Part 3 Episode 3 - 13 Minutes to Write Handover Notes — speakers: John Harper, Kevin MacLeod
-- 2023-01-02 — Outer Dark Trilogy Part 3 Episode 2 - A Tragic Waste of Green Dip — speakers: John Harper, Kevin MacLeod
-- 2022-12-19 — Outer Dark Trilogy Part 3 Episode 1 - The Tactical Value Of A Badly Wrapped Orrery — speakers: John Harper, Kevin MacLeod
-- 2022-12-05 — For a Few Credits More E03 - Chaos — speakers: Kevin MacLeod
-- 2022-11-21 — For a Few Credits More E02 - Threats — speakers: Kevin MacLeod
-- 2022-11-07 — For A Few Credits More E01 - Broke — speakers: Kevin MacLeod
-- 2022-10-24 — Outer Dark Trilogy Part 2 Episode 4 - "All Pockets Are Pocket-Sized" — speakers: Adrian Tchaikovsky, John Robertson, Kevin MacLeod
-- 2022-10-10 — Outer Dark Trilogy Part 2 Episode 3 - "Celestial Coral" — speakers: Adrian Tchaikovsky, John Robertson, Kevin MacLeod
-- 2022-09-26 — Outer Dark Trilogy Part 2 Episode 2 - "Don't Worry - I Have A Plan" — speakers: Adrian Tchaikovsky, John Robertson, Kevin MacLeod
-- 2022-09-12 — Outer Dark Trilogy Part 2 Episode 1 - "In Space, No-One Can Smell Your Frog" — speakers: Adrian Tchaikovsky, John Robertson, Kevin MacLeod, Myuu Licensed
-- 2022-08-29 — Through a Crystal Darkly - E02 - The Ochre Wanderer — speakers: Leslie Links, Frozen Trail
-- 2022-08-15 — Through a Crystal Darkly - E01 - Strange Reflections — speakers: Leslie Sponsor, Mecha Hack, Frozen Trail
-- 2022-08-01 — Outer Dark Trilogy Part 1 Episode 2 - The Brute — speakers: Gavin Smith, Lizbeth Myles
-- 2022-07-18 — Outer Dark Trilogy Part 1 Episode 1 - The Almeyer's Folly — speakers: Gavin Smith, Lizbeth Myles, Kevin MacLeod
-- 2022-07-04 — 2 Tiny 2 Tikus - E03 - Things That Go Fast And Explode — speakers: Lone Gamers, Kevin MacLeod
-- 2022-06-20 — 2 Tiny 2 Tikus - E02 - Race Day — speakers: Crimson Blaster, Kevin MacLeod
-- 2022-06-06 — 2 Tiny 2 Tikus - E01 - The Junker Cup — speakers: Arcane Clockworks, Kevin MacLeod
-- 2022-05-23 — Coldfire Chronicles S05 E34 - Coldfire Q&A
-- 2022-05-09 — Coldfire Chronicles S05 E33 - Post-Coldfire Table Chat
-- 2022-04-25 — Coldfire Chronicles S05 E32 - Coda — speakers: Purple Planet Licensed
-- 2022-04-11 — Coldfire Chronicles S05 E31 - All Fall Down
+- 2023-03-27 — Shadows of the Jedi S07 E02 - Target Rich Environment
+- 2023-03-13 — Shadows of the Jedi S07 E01 - A War in the Stars
+- 2023-03-06 — Shadows of the Jedi S07 E00 - Chapter 2 Recap
+- 2023-02-27 — Too Hutt To Handle E03 - Pull! — speakers: Augusto Blope
+- 2023-02-13 — Too Hutt To Handle E02 - The Melancholy of the Trout King — speakers: Koh Tso
+- 2023-01-30 — Too Hutt To Handle E01 - Proud Trout Energy
+- 2023-01-16 — Outer Dark Trilogy Part 3 Episode 3 - 13 Minutes to Write Handover Notes — speakers: Captain Hands
+- 2023-01-02 — Outer Dark Trilogy Part 3 Episode 2 - A Tragic Waste of Green Dip — speakers: Tragic Waste
+- 2022-12-19 — Outer Dark Trilogy Part 3 Episode 1 - The Tactical Value Of A Badly Wrapped Orrery
+- 2022-12-05 — For a Few Credits More E03 - Chaos — speakers: Few Credits More
+- 2022-11-21 — For a Few Credits More E02 - Threats — speakers: Few Credits More, Threats Job
+- 2022-11-07 — For A Few Credits More E01 - Broke — speakers: Few Credits More, Broke Sixth
+- 2022-10-24 — Outer Dark Trilogy Part 2 Episode 4 - "All Pockets Are Pocket-Sized"
+- 2022-10-10 — Outer Dark Trilogy Part 2 Episode 3 - "Celestial Coral" — speakers: Celestial Coral
+- 2022-09-26 — Outer Dark Trilogy Part 2 Episode 2 - "Don't Worry - I Have A Plan"
+- 2022-09-12 — Outer Dark Trilogy Part 2 Episode 1 - "In Space, No-One Can Smell Your Frog"
+- 2022-08-29 — Through a Crystal Darkly - E02 - The Ochre Wanderer
+- 2022-08-15 — Through a Crystal Darkly - E01 - Strange Reflections — speakers: countless stories
+- 2022-08-01 — Outer Dark Trilogy Part 1 Episode 2 - The Brute
+- 2022-07-18 — Outer Dark Trilogy Part 1 Episode 1 - The Almeyer's Folly
+- 2022-07-04 — 2 Tiny 2 Tikus - E03 - Things That Go Fast And Explode — speakers: Junker Cu
+- 2022-06-20 — 2 Tiny 2 Tikus - E02 - Race Day — speakers: Crimson Blaster
+- 2022-06-06 — 2 Tiny 2 Tikus - E01 - The Junker Cup
+- 2022-05-23 — Coldfire Chronicles S05 E34 - Coldfire Q&A — speakers: Coldfire Chronicles
+- 2022-05-09 — Coldfire Chronicles S05 E33 - Post-Coldfire Table Chat — speakers: Coldfire Chronicles
+- 2022-04-25 — Coldfire Chronicles S05 E32 - Coda
+- 2022-04-11 — Coldfire Chronicles S05 E31 - All Fall Down — speakers: Coldfire Chronicles, All Fall Down
 - 2022-03-28 — Coldfire Chronicles S05 E30 - "Come, then. Let us finish this"
-- 2022-03-14 — Coldfire Chronicles S05 E29 - Analysis Paralysis
-- 2022-02-28 — Coldfire Chronicles S05 E28 - Fleeting Respite
-- 2022-02-21 — Coldfire Chronicles S05 E27.5 - Final Morality Chat Bonus Episode!
-- 2022-02-14 — Coldfire Chronicles S05 E27 - Anything For Love — speakers: Myuu Licensed
-- 2022-01-31 — Coldfire Chronicles S05 E26 - "Good soldiers follow orders" — speakers: Myuu Licensed
-- 2022-01-17 — Coldfire Chronicles S05 E25 - The Vergence — speakers: Leopard Print Elevator, Kevin MacLeod
-- 2022-01-03 — Coldfire Chronicles S05 E24 - Blood On The Snow — speakers: Myuu Licensed
-- 2021-12-20 — Coldfire Chronicles S05 E23 - Daxos — speakers: Kevin MacLeod
-- 2021-12-06 — Coldfire Chronicles S05 E22 - Breath Before The Plunge — speakers: Kevin MacLeod
-- 2021-11-22 — Coldfire Chronicles S05 E21 - Velmosk's Emporeum — speakers: Kevin MacLeod
-- 2021-11-08 — Coldfire Chronicles S05 E20 - Final Costume Changes — speakers: Kevin MacLeod
-- 2021-10-25 — Coldfire Chronicles S05 E19 - Loose Ends
-- 2021-10-11 — Coldfire Chronicles S05 E18 - No Place Like Home — speakers: Myuu Licensed
+- 2022-03-14 — Coldfire Chronicles S05 E29 - Analysis Paralysis — speakers: Coldfire Chronicles
+- 2022-02-28 — Coldfire Chronicles S05 E28 - Fleeting Respite — speakers: Coldfire Chronicles, Fleeting Respite One
+- 2022-02-21 — Coldfire Chronicles S05 E27.5 - Final Morality Chat Bonus Episode! — speakers: Coldfire Chronicles
+- 2022-02-14 — Coldfire Chronicles S05 E27 - Anything For Love — speakers: Coldfire Chronicles
+- 2022-01-31 — Coldfire Chronicles S05 E26 - "Good soldiers follow orders"
+- 2022-01-17 — Coldfire Chronicles S05 E25 - The Vergence — speakers: Coldfire Chronicles, Dark Side
+- 2022-01-03 — Coldfire Chronicles S05 E24 - Blood On The Snow — speakers: Coldfire Chronicles
+- 2021-12-20 — Coldfire Chronicles S05 E23 - Daxos — speakers: Coldfire Chronicles, Daxos All
+- 2021-12-06 — Coldfire Chronicles S05 E22 - Breath Before The Plunge — speakers: Coldfire Chronicles
+- 2021-11-22 — Coldfire Chronicles S05 E21 - Velmosk's Emporeum
+- 2021-11-08 — Coldfire Chronicles S05 E20 - Final Costume Changes
+- 2021-10-25 — Coldfire Chronicles S05 E19 - Loose Ends — speakers: Bosco dead
+- 2021-10-11 — Coldfire Chronicles S05 E18 - No Place Like Home
 - 2021-09-27 — Coldfire Chronicles S05 E17 - Hero Of The Rebellion
-- 2021-09-13 — Coldfire Chronicles S05 E16 - Just Not Cricket
+- 2021-09-13 — Coldfire Chronicles S05 E16 - Just Not Cricket — speakers: Coldfire Chronicles, Green Corner
 - 2021-08-30 — Coldfire Chronicles S05 E15 - A Foolhardy Gambit
-- 2021-08-16 — Coldfire Chronicles S05 E14 - The Stopover
-- 2021-08-02 — Coldfire Chronicles S05 E13 - A Moment of Reflection
-- 2021-07-19 — Coldfire Chronicles S05 E12 - Port Haven? — speakers: Port Haven, Kevin MacLeod
+- 2021-08-16 — Coldfire Chronicles S05 E14 - The Stopover — speakers: Coldfire Chronicles, Port Haven
+- 2021-08-02 — Coldfire Chronicles S05 E13 - A Moment of Reflection — speakers: Coldfire Chronicles, Reflection While
+- 2021-07-19 — Coldfire Chronicles S05 E12 - Port Haven? — speakers: Port Haven
 - 2021-07-05 — Coldfire Chronicles S05 E11 - Best Laid Plans
-- 2021-06-21 — Coldfire Chronicles S05 E10 - The Wiggly Worm Turns — speakers: Kevin MacLeod
-- 2021-06-07 — Coldfire Chronicles S05 E09 - Operation: Wiggly Worm — speakers: Cyphus Gantares, Kevin MacLeod, Myuu Licensed
-- 2021-05-24 — Coldfire Chronicles S05 E08 - The Seven P's — speakers: Kevin MacLeod
-- 2021-05-10 — Coldfire Chronicles S05 E07 - The Bill Comes Due — speakers: Myuu Licensed
-- 2021-04-26 — Coldfire Chronicles S05 E06 - Back To The Mud — speakers: Vitaara Kai, Kevin MacLeod
-- 2021-04-12 — Coldfire Chronicles S05 E05 - Moments In Time — speakers: Vitaara Kai, Kevin MacLeod
-- 2021-03-29 — Coldfire Chronicles S05 E04 - A Galaxy of Opportunity — speakers: Vitaara Kai, Purple Planet Licensed
-- 2021-03-15 — Coldfire Chronicles S05 E03 - The Power of the Orb — speakers: Vitaara Kai, Myuu Licensed
-- 2021-03-08 — Dungeon Majeure Teaser — speakers: Majeure Teaser, Kevin MacLeod
-- 2021-03-01 — Coldfire Chronicles S05 E02 - Loss — speakers: Vitaara Kai, Count Yendell, Purple Planet Licensed
-- 2021-02-15 — Coldfire Chronicles S05 E01 - "You wake up." — speakers: Vitaara Kai, Myuu Licensed
-- 2021-02-08 — Coldfire Chronicles S05 E00 - Recap — speakers: Purple Planet
-- 2021-02-07 — Starting an Actual Play Podcast — speakers: Mark Eberhardt, Coruscant Nights
-- 2021-02-01 — Blues Wars Episode 3 - Battle of the Battle of the Bands — speakers: Paul Foxcroft check, Adrian Tchaikovsky, Kevin MacLeod
-- 2021-01-18 — Blues Wars Episode 2 - Bees, Balls and Burglary — speakers: Paul Foxcroft check, Adrian Tchaikovsky, Kevin MacLeod, Purple Planet
-- 2021-01-04 — Blues Wars Episode 1 - One Night in Chigaris — speakers: Paul Foxcroft check, Adrian Tchaikovsky, Kevin MacLeod
-- 2020-12-21 — A Fistful of Credits E03 - Remittance — speakers: Kevin MacLeod
-- 2020-12-07 — A Fistful of Credits E02 - Schemes — speakers: Kevin MacLeod
-- 2020-11-23 — A Fistful of Credits E01 - Debt — speakers: Kevin MacLeod
-- 2020-11-09 — Shadows of the Jedi S04 E17 - Table Chat — speakers: Kevin MacLeod
-- 2020-10-26 — Shadows of the Jedi S04 E16 - Rubicon — speakers: Kevin MacLeod
-- 2020-10-12 — Shadows of the Jedi S04 E15 - Flight to Freedom — speakers: Kevin MacLeod
-- 2020-09-28 — Shadows of the Jedi S04 E14 - Unwelcome Guests — speakers: Kevin MacLeod
-- 2020-09-14 — Shadows of the Jedi S04 E13 - Battle For The Plaza — speakers: Kevin MacLeod
-- 2020-08-31 — Shadows of the Jedi S04 E12 - "Bathed in Golden Light" — speakers: Coruscant Nights, Kevin MacLeod
-- 2020-08-17 — Shadows of the Jedi S04 E11 - The Ascension Chamber — speakers: Kevin MacLeod
-- 2020-08-03 — Shadows of the Jedi S04 E10 - Answers and Action Plans — speakers: Kevin MacLeod
-- 2020-07-20 — Shadows of the Jedi S04 E09 - Making Friends And Influencing People — speakers: Kevin MacLeod
-- 2020-07-06 — Shadows of the Jedi S04 E08 - Acceleration — speakers: Kevin MacLeod
+- 2021-06-21 — Coldfire Chronicles S05 E10 - The Wiggly Worm Turns
+- 2021-06-07 — Coldfire Chronicles S05 E09 - Operation: Wiggly Worm — speakers: suitable props
+- 2021-05-24 — Coldfire Chronicles S05 E08 - The Seven P's — speakers: Coldfire Chronicles
+- 2021-05-10 — Coldfire Chronicles S05 E07 - The Bill Comes Due
+- 2021-04-26 — Coldfire Chronicles S05 E06 - Back To The Mud — speakers: Coldfire Chronicles, Port Haven
+- 2021-04-12 — Coldfire Chronicles S05 E05 - Moments In Time
+- 2021-03-29 — Coldfire Chronicles S05 E04 - A Galaxy of Opportunity — speakers: Coldfire Chronicles, Opportunity Abandoned
+- 2021-03-15 — Coldfire Chronicles S05 E03 - The Power of the Orb
+- 2021-03-08 — Dungeon Majeure Teaser — speakers: Majeure Teaser
+- 2021-03-01 — Coldfire Chronicles S05 E02 - Loss
+- 2021-02-15 — Coldfire Chronicles S05 E01 - "You wake up."
+- 2021-02-08 — Coldfire Chronicles S05 E00 - Recap — speakers: Coldfire Chronicles
+- 2021-02-07 — Starting an Actual Play Podcast — speakers: Mark Eberhardt
+- 2021-02-01 — Blues Wars Episode 3 - Battle of the Battle of the Bands — speakers: Bands There
+- 2021-01-18 — Blues Wars Episode 2 - Bees, Balls and Burglary — speakers: Burglary If
+- 2021-01-04 — Blues Wars Episode 1 - One Night in Chigaris — speakers: One Night
+- 2020-12-21 — A Fistful of Credits E03 - Remittance
+- 2020-12-07 — A Fistful of Credits E02 - Schemes — speakers: Port Authority
+- 2020-11-23 — A Fistful of Credits E01 - Debt — speakers: Very Bad Man
+- 2020-11-09 — Shadows of the Jedi S04 E17 - Table Chat — speakers: Fire Opal
+- 2020-10-26 — Shadows of the Jedi S04 E16 - Rubicon — speakers: Jedi Chapter
+- 2020-10-12 — Shadows of the Jedi S04 E15 - Flight to Freedom — speakers: Fire Opal
+- 2020-09-28 — Shadows of the Jedi S04 E14 - Unwelcome Guests
+- 2020-09-14 — Shadows of the Jedi S04 E13 - Battle For The Plaza
+- 2020-08-31 — Shadows of the Jedi S04 E12 - "Bathed in Golden Light" — speakers: overwhelming odds, thought fallen
+- 2020-08-17 — Shadows of the Jedi S04 E11 - The Ascension Chamber
+- 2020-08-03 — Shadows of the Jedi S04 E10 - Answers and Action Plans
+- 2020-07-20 — Shadows of the Jedi S04 E09 - Making Friends And Influencing People — speakers: People During, Fecundity Chamber
+- 2020-07-06 — Shadows of the Jedi S04 E08 - Acceleration
 - 2020-06-22 — Shadows of the Jedi S04 E07 - Further Mysteries
 - 2020-06-08 — Shadows of the Jedi S04 E06 - Ghosts of the Past
-- 2020-05-25 — Shadows of the Jedi S04 E05 - In The Library — speakers: Kevin MacLeod
-- 2020-05-11 — Shadows of the Jedi S04 E04 - Pyramid of Secrets — speakers: Kevin MacLeod
-- 2020-04-27 — Shadows of the Jedi S04 E03 - What Lies Beneath — speakers: Kevin MacLeod
-- 2020-04-13 — Shadows of the Jedi S04 E02 - Calibration — speakers: Kevin MacLeod
-- 2020-03-30 — Shadows of the Jedi S04 E01 - Road Rage — speakers: Kevin MacLeod
-- 2020-03-23 — Shadows of the Jedi S04 E00 - Recap and Morality — speakers: Kevin MacLeod
-- 2020-03-16 — Prinkle's Excellent Adventure Episode 5 — speakers: Kevin MacLeod
-- 2020-03-02 — Prinkle's Excellent Adventure Episode 4 — speakers: Kevin MacLeod
-- 2020-02-17 — Prinkle's Excellent Adventure Episode 3 — speakers: Kevin MacLeod
-- 2020-02-03 — Prinkle's Excellent Adventure Episode 2 — speakers: Chad Pendragon
-- 2020-01-20 — Prinkle's Excellent Adventure Episode 1 — speakers: Kevin MacLeod
-- 2020-01-06 — Coldfire Chronicles S03 E23 - The Quickfire Chronicles! — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-12-23 — Coldfire Chronicles S03 E22 - Table Chat — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-12-09 — Coldfire Chronicles S03 E21 - Into The Temple — speakers: Coldfire Chronicles, Daverin Coldfire, Vitaara Kai, Kevin MacLeod
+- 2020-05-25 — Shadows of the Jedi S04 E05 - In The Library
+- 2020-05-11 — Shadows of the Jedi S04 E04 - Pyramid of Secrets — speakers: Secrets Recordings
+- 2020-04-27 — Shadows of the Jedi S04 E03 - What Lies Beneath — speakers: What Lies Beneath Buried
+- 2020-04-13 — Shadows of the Jedi S04 E02 - Calibration
+- 2020-03-30 — Shadows of the Jedi S04 E01 - Road Rage
+- 2020-03-23 — Shadows of the Jedi S04 E00 - Recap and Morality — speakers: Morality Welcome
+- 2020-03-16 — Prinkle's Excellent Adventure Episode 5
+- 2020-03-02 — Prinkle's Excellent Adventure Episode 4
+- 2020-02-17 — Prinkle's Excellent Adventure Episode 3 — speakers: another look-alike
+- 2020-02-03 — Prinkle's Excellent Adventure Episode 2
+- 2020-01-20 — Prinkle's Excellent Adventure Episode 1
+- 2020-01-06 — Coldfire Chronicles S03 E23 - The Quickfire Chronicles! — speakers: Coldfire Chronicles
+- 2019-12-23 — Coldfire Chronicles S03 E22 - Table Chat — speakers: Coldfire Chronicles
+- 2019-12-09 — Coldfire Chronicles S03 E21 - Into The Temple — speakers: Coldfire Chronicles
 - 2019-11-25 — Coldfire Chronicles S03 E20 - An Education — speakers: Coldfire Chronicles, Vitaara Kai
-- 2019-11-11 — Coldfire Chronicles S03 E19 - Alpinn — speakers: Coldfire Chronicles, Vitaara Kai, Hefty Cleft
-- 2019-10-28 — Coldfire Chronicles S03 E18 - Solace — speakers: Coldfire Chronicles, Myuu Licensed
+- 2019-11-11 — Coldfire Chronicles S03 E19 - Alpinn — speakers: Coldfire Chronicles
+- 2019-10-28 — Coldfire Chronicles S03 E18 - Solace — speakers: Coldfire Chronicles
 - 2019-10-14 — Coldfire Chronicles S03 E17 - Escape Velocity — speakers: Coldfire Chronicles
 - 2019-09-30 — Coldfire Chronicles S03 E16 - Master of Puppets — speakers: Coldfire Chronicles
-- 2019-09-16 — Coldfire Chronicles S03 E15 - The Heart of Darkness — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-09-02 — Coldfire Chronicles S03 E14 - The Perils Of Delay — speakers: Coldfire Chronicles, Glass Dagger
+- 2019-09-16 — Coldfire Chronicles S03 E15 - The Heart of Darkness — speakers: Coldfire Chronicles
+- 2019-09-02 — Coldfire Chronicles S03 E14 - The Perils Of Delay — speakers: Coldfire Chronicles
 - 2019-08-19 — Coldfire Chronicles S03 E13 - Taking Stock — speakers: Coldfire Chronicles
-- 2019-08-05 — Coldfire Chronicles S03 E12 - Farewell to Arms — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-07-22 — Coldfire Chronicles S03 E11 - Alone In The Dark? — speakers: Coldfire Chronicles, Daverin Coldfire, Kevin MacLeod
-- 2019-07-08 — Coldfire Chronicles S03 E10 - The Coster Thibaren — speakers: Coldfire Chronicles, Myuu Licensed
-- 2019-06-24 — Coldfire Chronicles S03 E09 - An Audience with an Ithorian — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-06-17 — Tiny Tikus Adventures - E04 - Laser Eye Billy! — speakers: Eye Billy, Joanne Berger, Awkward Meeting, Kevin MacLeod
-- 2019-06-10 — Tiny Tikus Adventures - E03 - The Inferno! — speakers: Kevin MacLeod
-- 2019-06-03 — Tiny Tikus Adventures - E02 - Cap'n Codfish — speakers: Kevin MacLeod
-- 2019-05-27 — Tiny Tikus Adventures - E01 - The Birthday Party — speakers: Kevin MacLeod
-- 2019-05-13 — Coldfire Chronicles S03 E08 - Heights and Depths — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-04-29 — Coldfire Chronicles S03 E07 - Privilege and Consequences — speakers: Coldfire Chronicles, Silverwing Armory
-- 2019-04-15 — Coldfire Chronicles S03 E06 - Glorious Victory? — speakers: Coldfire Chronicles, Kevin MacLeod
-- 2019-04-01 — Coldfire Chronicles S03 E05 - The Hunt — speakers: Coldfire Chronicles, Kevin MacLeod
+- 2019-08-05 — Coldfire Chronicles S03 E12 - Farewell to Arms — speakers: Coldfire Chronicles
+- 2019-07-22 — Coldfire Chronicles S03 E11 - Alone In The Dark? — speakers: Coldfire Chronicles
+- 2019-07-08 — Coldfire Chronicles S03 E10 - The Coster Thibaren — speakers: Coldfire Chronicles
+- 2019-06-24 — Coldfire Chronicles S03 E09 - An Audience with an Ithorian — speakers: Coldfire Chronicles
+- 2019-06-17 — Tiny Tikus Adventures - E04 - Laser Eye Billy! — speakers: Eye Billy
+- 2019-06-10 — Tiny Tikus Adventures - E03 - The Inferno!
+- 2019-06-03 — Tiny Tikus Adventures - E02 - Cap'n Codfish
+- 2019-05-27 — Tiny Tikus Adventures - E01 - The Birthday Party
+- 2019-05-13 — Coldfire Chronicles S03 E08 - Heights and Depths — speakers: Coldfire Chronicles
+- 2019-04-29 — Coldfire Chronicles S03 E07 - Privilege and Consequences — speakers: Coldfire Chronicles
+- 2019-04-15 — Coldfire Chronicles S03 E06 - Glorious Victory? — speakers: Coldfire Chronicles
+- 2019-04-01 — Coldfire Chronicles S03 E05 - The Hunt — speakers: Coldfire Chronicles
 - 2019-03-18 — Coldfire Chronicles S03 E04 - Team Building Exercise — speakers: Coldfire Chronicles
-- 2019-03-04 — Coldfire Chronicles S03 E03 - Confluence — speakers: Coldfire Chronicles, Myuu Licensed
-- 2019-02-18 — Coldfire Chronicles S03 E02 - Port Haven — speakers: Coldfire Chronicles, Featuring Lou, Kevin MacLeod
-- 2019-02-04 — Coldfire Chronicles S03 E01 - "We open in Hyperspace..." — speakers: Coldfire Chronicles, Coruscant Nights
-- 2019-01-28 — Coldfire Chronicles S03 E00 - Recap and Morality — speakers: Kevin MacLeod, Purple Planet Licensed
-- 2019-01-21 — Hydian Force - A Crossover Event — speakers: Ben Yendall, Ben deuteriumice GM, Kevin MacLeod
-- 2019-01-07 — Shadows of the Jedi S02 E15 - Table Chat — speakers: Kevin MacLeod
+- 2019-03-04 — Coldfire Chronicles S03 E03 - Confluence — speakers: Coldfire Chronicles
+- 2019-02-18 — Coldfire Chronicles S03 E02 - Port Haven — speakers: Coldfire Chronicles
+- 2019-02-04 — Coldfire Chronicles S03 E01 - "We open in Hyperspace..." — speakers: Coldfire Chronicles
+- 2019-01-28 — Coldfire Chronicles S03 E00 - Recap and Morality
+- 2019-01-21 — Hydian Force - A Crossover Event — speakers: Hydian Force, Crossover Event Force Majeure, Hydian Way
+- 2019-01-07 — Shadows of the Jedi S02 E15 - Table Chat
 - 2018-12-24 — Shadows of the Jedi S02 E14 - Homecoming
-- 2018-12-10 — Shadows of the Jedi S02 E13 - Ambush! — speakers: Purple Planet
-- 2018-11-26 — Shadows of the Jedi S02 E12 - The Secret of the Statue — speakers: Kevin MacLeod
-- 2018-11-12 — Shadows of the Jedi S02 E11 - The Plague — speakers: Kevin MacLeod
-- 2018-10-29 — Shadows of the Jedi S02 E10 - Corpses, Cargo and Crimes Against Humanity — speakers: Kevin MacLeod
-- 2018-10-15 — Shadows of the Jedi S02 E09 - Reza's Heel
+- 2018-12-10 — Shadows of the Jedi S02 E13 - Ambush!
+- 2018-11-26 — Shadows of the Jedi S02 E12 - The Secret of the Statue — speakers: Statue Aboard
+- 2018-11-12 — Shadows of the Jedi S02 E11 - The Plague
+- 2018-10-29 — Shadows of the Jedi S02 E10 - Corpses, Cargo and Crimes Against Humanity
+- 2018-10-15 — Shadows of the Jedi S02 E09 - Reza's Heel — speakers: Heel Break
 - 2018-10-01 — Shadows of the Jedi S02 E08 - Time to Burn
-- 2018-09-17 — Shadows of the Jedi S02 E07 - The Chase Is On — speakers: Iron Horse
+- 2018-09-17 — Shadows of the Jedi S02 E07 - The Chase Is On — speakers: Watering Hole
 - 2018-09-03 — Shadows of the Jedi S02 E06 - Watering Hole Warzone
 - 2018-08-20 — Shadows of the Jedi S02 E05 - Cellar Door — speakers: Garrett Tane
 - 2018-08-06 — Shadows of the Jedi S02 E04 - Vin's Fort — speakers: Sky Sirens
 - 2018-07-23 — Shadows of the Jedi S02 E03 - Into the Desert
 - 2018-07-09 — Shadows of the Jedi S02 E02 - Cons And Consequences
-- 2018-06-25 — Shadows of the Jedi S02 E01 - Welcome to Cynabale
-- 2018-06-11 — Coldfire Chronicles S01 E11 - Post Season Table Chat — speakers: Season Shadows, forcemajeurepod Instagram
-- 2018-05-28 — Coldfire Chronicles S01 E10 - Crux — speakers: forcemajeurepod Instagram
-- 2018-05-14 — Coldfire Chronicles S01 E09 - Say You Want A Revelation — speakers: forcemajeurepod Instagram
-- 2018-04-30 — Coldfire Chronicles S01 E08 - A Daring Escape! — speakers: forcemajeurepod Instagram, Gustav Holst
-- 2018-04-16 — Coldfire Chronicles S01 E07 - Jailibreak! — speakers: forcemajeurepod Instagram
-- 2018-04-02 — Coldfire Chronicles S01 E06 - An Ally Emerges — speakers: forcemajeurepod Instagram
-- 2018-03-19 — Coldfire Chronicles S01 E05 - In Which The Definition Of A Heist Is Argued — speakers: Rebel Alliance, forcemajeurepod Instagram, forcemajeurepod Website
-- 2018-03-05 — Coldfire Chronicles S01 E04 - Shacks, Secrets and Schemes — speakers: forcemajeurepod Instagram
-- 2018-02-19 — Coldfire Chronicles S01 E03 - Whiteout — speakers: Whiteout Having, forcemajeurepod Instagram
-- 2018-02-05 — Coldfire Chronicles S01 E02 - A Sense Of Foreboding... — speakers: forcemajeurepod Instagram
-- 2018-01-22 — Coldfire Chronicles S01 E01 - Prison Planet Blues — speakers: forcemajeurepod Instagram
+- 2018-06-25 — Shadows of the Jedi S02 E01 - Welcome to Cynabale — speakers: Outer Rim, Bloody Red Kiss
+- 2018-06-11 — Coldfire Chronicles S01 E11 - Post Season Table Chat
+- 2018-05-28 — Coldfire Chronicles S01 E10 - Crux
+- 2018-05-14 — Coldfire Chronicles S01 E09 - Say You Want A Revelation
+- 2018-04-30 — Coldfire Chronicles S01 E08 - A Daring Escape!
+- 2018-04-16 — Coldfire Chronicles S01 E07 - Jailibreak!
+- 2018-04-02 — Coldfire Chronicles S01 E06 - An Ally Emerges
+- 2018-03-19 — Coldfire Chronicles S01 E05 - In Which The Definition Of A Heist Is Argued — speakers: Rebel Alliance
+- 2018-03-05 — Coldfire Chronicles S01 E04 - Shacks, Secrets and Schemes
+- 2018-02-19 — Coldfire Chronicles S01 E03 - Whiteout — speakers: Whiteout Having
+- 2018-02-05 — Coldfire Chronicles S01 E02 - A Sense Of Foreboding...
+- 2018-01-22 — Coldfire Chronicles S01 E01 - Prison Planet Blues
 - 2018-01-15 — Welcome to Force Majeure! — speakers: Force Majeure, Star Wars, Fantasy Flight Games
