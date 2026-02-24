@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NzA3NDI4NDA0MDc="`
+- fetched_at: `2026-02-24T07:18:57+00:00`
+- checked_at: `2026-02-24T07:18:57+00:00`
+- etag: `"djEuMi4wOjE3NzE5MTExNzY1NjM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T07:18:57+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -44,18 +44,11 @@
       "enclosure_length": "148906519",
       "itunes_duration": "1:42:55",
       "speakers": [
-        "Safe Space",
-        "Anthony Burch Dale Elliot",
-        "Matt Arnold Ralph Estarellas",
-        "Will Campos",
-        "Beth May Ashley Birch",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Travis Reaves",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "grandfather",
@@ -96,18 +89,13 @@
       "enclosure_length": "84078268",
       "itunes_duration": "57:58",
       "speakers": [
-        "Daniel Kim",
-        "Kelsey Dionne",
-        "Jordan Rudd",
-        "Annissa Omran",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Travis Reaves",
-        "Omar Romolino",
+        "Shadowdark One Shot",
+        "Slime Lord Will",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "shadowdark",
@@ -152,18 +140,12 @@
       "enclosure_length": "133512872",
       "itunes_duration": "1:32:18",
       "speakers": [
-        "Maxton Waller",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
+        "After Show",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "peach",
@@ -182,18 +164,11 @@
       "enclosure_length": "185507451",
       "itunes_duration": "2:08:18",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Maxton Waller",
-        "Annissa Omran",
-        "Ashley Nicollette",
-        "Kortney Terry",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "gutteral",
@@ -213,18 +188,11 @@
       "enclosure_length": "140508496",
       "itunes_duration": "1:37:04",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "minute",
@@ -244,18 +212,12 @@
       "enclosure_length": "114108835",
       "itunes_duration": "1:18:50",
       "speakers": [
-        "Jay Hoffman",
-        "Matt Arnold Tom Stall",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
-        "Travis Reaves",
-        "Omar Romolino",
+        "Stewpot One Shot",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "stewpot",
@@ -274,18 +236,11 @@
       "enclosure_length": "211568649",
       "itunes_duration": "2:26:22",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "john"
@@ -304,17 +259,11 @@
       "itunes_duration": "1:36:45",
       "speakers": [
         "Con Oz",
-        "Anthony Burch Candy Dufresne",
-        "Matt Arnold Tim Tipple",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
-        "Travis Reaves",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "daggerheart",
@@ -333,18 +282,11 @@
       "enclosure_length": "103618509",
       "itunes_duration": "1:11:26",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "horse",
@@ -364,17 +306,11 @@
       "itunes_duration": "1:45:50",
       "speakers": [
         "Sullivan Show",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "head",
@@ -393,18 +329,11 @@
       "enclosure_length": "121963873",
       "itunes_duration": "1:24:06",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "problem"
@@ -422,18 +351,11 @@
       "enclosure_length": "169824921",
       "itunes_duration": "1:57:23",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "double",
@@ -452,18 +374,11 @@
       "enclosure_length": "131264586",
       "itunes_duration": "1:30:40",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "lifeboat"
@@ -481,18 +396,11 @@
       "enclosure_length": "106773408",
       "itunes_duration": "1:13:36",
       "speakers": [
-        "Jordan Rodrigues",
-        "com Info",
-        "Edinburgh Fringe",
-        "Scam Likely",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "angels",
@@ -511,18 +419,11 @@
       "enclosure_length": "139146309",
       "itunes_duration": "1:35:46",
       "speakers": [
-        "Jordan Rodrigues",
-        "com Info",
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "foot"
@@ -540,18 +441,11 @@
       "enclosure_length": "99008802",
       "itunes_duration": "1:08:08",
       "speakers": [
-        "Jordan Rodrigues",
-        "com Info",
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "moth"
@@ -569,18 +463,11 @@
       "enclosure_length": "130911554",
       "itunes_duration": "1:30:16",
       "speakers": [
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "baba"
@@ -598,18 +485,11 @@
       "enclosure_length": "171342076",
       "itunes_duration": "1:58:24",
       "speakers": [
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -625,18 +505,11 @@
       "enclosure_length": "157200463",
       "itunes_duration": "1:48:36",
       "speakers": [
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -652,18 +525,11 @@
       "enclosure_length": "119768719",
       "itunes_duration": "1:22:39",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "fault",
@@ -682,18 +548,11 @@
       "enclosure_length": "141089556",
       "itunes_duration": "1:37:24",
       "speakers": [
-        "Edinburgh Fringe",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Maxton Waller",
-        "Brian Fernandes",
-        "Ashley Nicollette",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -709,18 +568,11 @@
       "enclosure_length": "166198513",
       "itunes_duration": "1:54:41",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "paths",
@@ -739,18 +591,11 @@
       "enclosure_length": "114098315",
       "itunes_duration": "1:18:36",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "clancy",
@@ -769,16 +614,9 @@
       "enclosure_length": "92532936",
       "itunes_duration": "1:03:41",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Freddie Wong",
-        "Kevin Kemp",
-        "Ashley Nicollette",
-        "Kortney Terry",
         "Anthony Burch",
         "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
         "Will Campos"
       ],
@@ -798,18 +636,11 @@
       "enclosure_length": "136292086",
       "itunes_duration": "1:33:56",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "brake"
@@ -827,18 +658,11 @@
       "enclosure_length": "118714509",
       "itunes_duration": "1:21:50",
       "speakers": [
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
-        "Ester Ellis",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "maze",
@@ -858,18 +682,11 @@
       "enclosure_length": "157602090",
       "itunes_duration": "1:48:52",
       "speakers": [
-        "Body Horror",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "wanna",
@@ -889,17 +706,11 @@
       "itunes_duration": "1:41:39",
       "speakers": [
         "Moth Man Goo Tubes",
-        "Campos Kelsey Grammar",
-        "Matt Arnold Francis Farnsworth",
-        "Anthony Burch Trudy Trout",
-        "Beth May Blake Lively",
-        "Ashley Nicollette",
-        "Kortney Terry",
-        "Cindy Denton",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "pain",
@@ -918,15 +729,11 @@
       "enclosure_length": "130653577",
       "itunes_duration": "1:30:14",
       "speakers": [
-        "Body Horror",
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "fall",
@@ -947,15 +754,11 @@
       "itunes_duration": "1:25:05",
       "speakers": [
         "Neil Newbon",
-        "Amanda Schuckman",
         "Anthony Burch",
-        "Tatty Roper",
-        "Henry Oak",
-        "Will Campos",
-        "Darryl Wilson",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "plot",
@@ -975,15 +778,11 @@
       "enclosure_length": "147202495",
       "itunes_duration": "1:41:34",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Blake Lively",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "center",
@@ -1002,15 +801,11 @@
       "enclosure_length": "131974386",
       "itunes_duration": "1:30:59",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Blake Lively",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "bigfoot",
@@ -1029,15 +824,11 @@
       "enclosure_length": "119851756",
       "itunes_duration": "1:22:36",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Blake Lively",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "door",
@@ -1057,14 +848,11 @@
       "itunes_duration": "1:28:43",
       "speakers": [
         "Trudy Trout",
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Blake Lively",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "trout",
@@ -1084,16 +872,11 @@
       "itunes_duration": "1:01:55",
       "speakers": [
         "Scam Likely",
-        "Tatty Roper",
-        "Amanda Schuckman",
-        "Vote org",
         "Anthony Burch",
-        "Henry Oak",
-        "Will Campos",
-        "Darryl Wilson",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "save",
@@ -1115,15 +898,11 @@
       "enclosure_length": "152801667",
       "itunes_duration": "1:45:20",
       "speakers": [
-        "Navis IV",
-        "Matt Arnold",
-        "Nordstrom Rack",
-        "Will Campos",
-        "Tylerius Andromedus",
         "Anthony Burch",
-        "Vitamix Blender",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dadhammer"
@@ -1141,15 +920,11 @@
       "enclosure_length": "97864683",
       "itunes_duration": "1:07:25",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dial",
@@ -1168,15 +943,11 @@
       "enclosure_length": "139261989",
       "itunes_duration": "1:36:07",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "blue",
@@ -1196,15 +967,11 @@
       "enclosure_length": "108877665",
       "itunes_duration": "1:52:20",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "hole"
@@ -1222,15 +989,12 @@
       "enclosure_length": "71510127",
       "itunes_duration": "1:14:25",
       "speakers": [
+        "Clowes Memorial Hall",
         "Anthony Burch",
-        "Darryl Wilson",
         "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
+        "Freddie Wong",
         "Beth May",
-        "Glenn Close",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "areas",
@@ -1250,15 +1014,11 @@
       "enclosure_length": "121335250",
       "itunes_duration": "1:23:35",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "thing",
@@ -1277,15 +1037,11 @@
       "enclosure_length": "146146193",
       "itunes_duration": "1:41:05",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "rifle",
@@ -1304,15 +1060,11 @@
       "enclosure_length": "122876871",
       "itunes_duration": "1:24:48",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": []
     },
@@ -1328,15 +1080,11 @@
       "enclosure_length": "130987020",
       "itunes_duration": "1:30:28",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "robot"
@@ -1354,15 +1102,11 @@
       "enclosure_length": "102537698",
       "itunes_duration": "1:10:42",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "peachyville",
@@ -1381,15 +1125,11 @@
       "enclosure_length": "118511583",
       "itunes_duration": "1:21:45",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "panic",
@@ -1408,15 +1148,11 @@
       "enclosure_length": "144670834",
       "itunes_duration": "1:39:56",
       "speakers": [
-        "Suicide Support",
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": []
     },
@@ -1432,15 +1168,11 @@
       "enclosure_length": "119809599",
       "itunes_duration": "1:22:53",
       "speakers": [
-        "Will Campos",
-        "Kelsey Grammar",
-        "Matt Arnold",
-        "Francis Farnsworth",
         "Anthony Burch",
-        "Trudy Trout",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Tony Collette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "stranger",
@@ -1459,16 +1191,13 @@
       "enclosure_length": "85429242",
       "itunes_duration": "58:55",
       "speakers": [
-        "Taylor Swift",
-        "Saint Paul",
-        "Matt Arnold",
-        "Will Campos",
+        "Kingdom Dad Monster",
+        "Founding Fathers Join",
         "Anthony Burch",
-        "Brian Fernandes",
-        "Ashley Nicollette",
-        "Kortney Terry",
+        "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "kingdom",
@@ -1513,15 +1242,14 @@
       "enclosure_length": "134050709",
       "itunes_duration": "1:32:58",
       "speakers": [
-        "Maxton Waller",
+        "Teen Talk",
+        "After Show",
+        "Dad Crew",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "teen",
@@ -1542,14 +1270,10 @@
       "itunes_duration": "2:04:42",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "urination",
@@ -1569,15 +1293,11 @@
       "enclosure_length": "103092378",
       "itunes_duration": "1:11:03",
       "speakers": [
-        "Willie Stampler",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dood",
@@ -1599,14 +1319,10 @@
       "itunes_duration": "1:16:58",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "cool",
@@ -1627,14 +1343,10 @@
       "itunes_duration": "1:13:07",
       "speakers": [
         "Anthony Burch",
-        "Darryl Wilson",
         "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
+        "Freddie Wong",
         "Beth May",
-        "Glenn Close",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dice",
@@ -1655,14 +1367,10 @@
       "itunes_duration": "1:08:45",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "larry",
@@ -1681,15 +1389,12 @@
       "enclosure_length": "126817306",
       "itunes_duration": "1:27:42",
       "speakers": [
+        "Sexual Conte",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "halo",
@@ -1709,14 +1414,10 @@
       "itunes_duration": "1:06:25",
       "speakers": [
         "Anthony Burch",
-        "Darryl Wilson",
         "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
+        "Freddie Wong",
         "Beth May",
-        "Glenn Close",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dice",
@@ -1737,14 +1438,11 @@
       "itunes_duration": "1:12:40",
       "speakers": [
         "Oak Family Drama",
-        "Body Horror",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "normal"
@@ -1763,14 +1461,10 @@
       "itunes_duration": "1:05:43",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "actor",
@@ -1790,14 +1484,10 @@
       "itunes_duration": "58:33",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "lincoln",
@@ -1818,14 +1508,10 @@
       "itunes_duration": "55:27",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "hell",
@@ -1845,16 +1531,11 @@
       "enclosure_length": "95082755",
       "itunes_duration": "1:05:43",
       "speakers": [
-        "Amanda Schuckman",
-        "Riley Rose Critchlow",
-        "Elyse Willems",
         "Anthony Burch",
-        "Baby Valet",
         "Matt Arnold",
-        "Straighten Arrow",
-        "Will Campos",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -1871,14 +1552,10 @@
       "itunes_duration": "1:07:53",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "atonyment"
@@ -1897,14 +1574,10 @@
       "itunes_duration": "1:02:52",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "attack"
@@ -1923,14 +1596,10 @@
       "itunes_duration": "1:18:51",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "spirit",
@@ -1951,14 +1620,10 @@
       "itunes_duration": "1:12:32",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "heaven"
@@ -1977,14 +1642,10 @@
       "itunes_duration": "1:22:00",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "teenhigh",
@@ -2006,14 +1667,10 @@
       "itunes_duration": "59:03",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dude"
@@ -2032,14 +1689,10 @@
       "itunes_duration": "1:16:36",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "main",
@@ -2059,7 +1712,6 @@
       "enclosure_length": "1241890",
       "itunes_duration": "1:15",
       "speakers": [
-        "Alex Theatre Get",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
@@ -2086,14 +1738,10 @@
       "itunes_duration": "1:03:35",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "life",
@@ -2114,13 +1762,10 @@
       "speakers": [
         "Terry Met Terry",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "terry"
@@ -2139,14 +1784,10 @@
       "itunes_duration": "1:24:13",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "apollo",
@@ -2166,14 +1807,10 @@
       "itunes_duration": "1:16:04",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "finding",
@@ -2192,15 +1829,13 @@
       "enclosure_length": "124121823",
       "itunes_duration": "1:25:42",
       "speakers": [
+        "Criminal Mines",
+        "Mental Health Awareness",
         "Anthony Burch",
-        "Kieran Underhill",
-        "Will Campos",
         "Matt Arnold",
-        "Dan Granger",
+        "Freddie Wong",
         "Beth May",
-        "Brian Fernandes",
-        "Ashley Nicollette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "gumshoe",
@@ -2222,14 +1857,10 @@
       "itunes_duration": "55:20",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "extremely",
@@ -2249,14 +1880,10 @@
       "itunes_duration": "1:06:14",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "mayor"
@@ -2275,14 +1902,10 @@
       "itunes_duration": "1:05:51",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "halt",
@@ -2304,13 +1927,10 @@
       "speakers": [
         "Swallows Oak Garcia",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "swallows",
@@ -2333,14 +1953,10 @@
       "itunes_duration": "1:10:16",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Jodie Foster",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "shadow",
@@ -2360,14 +1976,10 @@
       "itunes_duration": "1:14:31",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Jodie Foster",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "king",
@@ -2387,14 +1999,10 @@
       "itunes_duration": "1:18:49",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": []
     },
@@ -2411,14 +2019,10 @@
       "itunes_duration": "1:13:05",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Erica Drippins",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "staircase"
@@ -2438,13 +2042,10 @@
       "speakers": [
         "Tony Pepperoni",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "stand",
@@ -2463,15 +2064,11 @@
       "enclosure_length": "110317820",
       "itunes_duration": "1:54:54",
       "speakers": [
-        "Amanda Schuckman",
         "Anthony Burch",
-        "Cynthia Nixon",
         "Matt Arnold",
-        "Eunice Mothman",
-        "Will Campos",
-        "Elizabeth Mothman",
+        "Freddie Wong",
         "Beth May",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "sonsability",
@@ -2492,14 +2089,10 @@
       "itunes_duration": "1:10:29",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "spider",
@@ -2520,14 +2113,10 @@
       "itunes_duration": "1:23:46",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "alright"
@@ -2547,13 +2136,10 @@
       "speakers": [
         "Erin O'Neil",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "army",
@@ -2573,14 +2159,10 @@
       "itunes_duration": "1:04:16",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "finding",
@@ -2600,14 +2182,10 @@
       "itunes_duration": "1:08:38",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "catbus",
@@ -2627,14 +2205,10 @@
       "itunes_duration": "1:10:17",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "punk"
@@ -2654,13 +2228,10 @@
       "speakers": [
         "Papa Johns",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "grand",
@@ -2681,14 +2252,10 @@
       "itunes_duration": "1:21:11",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "osha"
@@ -2707,14 +2274,10 @@
       "itunes_duration": "1:03:03",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "needlejuice"
@@ -2733,14 +2296,10 @@
       "itunes_duration": "1:34:51",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "california",
@@ -2761,14 +2320,10 @@
       "itunes_duration": "1:07:24",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "welcome",
@@ -2788,14 +2343,10 @@
       "itunes_duration": "1:13:36",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "child",
@@ -2815,14 +2366,10 @@
       "itunes_duration": "1:02:29",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "scary",
@@ -2842,14 +2389,10 @@
       "itunes_duration": "1:12:11",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Tim Wells",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "thing",
@@ -2869,14 +2412,10 @@
       "itunes_duration": "1:08:45",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "hell"
@@ -2895,14 +2434,10 @@
       "itunes_duration": "1:11:22",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "coward"
@@ -2921,14 +2456,10 @@
       "itunes_duration": "1:05:45",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "slumber",
@@ -2949,14 +2480,10 @@
       "itunes_duration": "57:14",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "gofast",
@@ -2976,14 +2503,10 @@
       "itunes_duration": "1:16:31",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dance",
@@ -3005,14 +2528,10 @@
       "itunes_duration": "1:00:49",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dance",
@@ -3033,13 +2552,10 @@
       "speakers": [
         "Elyse Willems",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "barf",
@@ -3061,14 +2577,10 @@
       "itunes_duration": "1:02:44",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Lauren Gold",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "unbearable",
@@ -3090,13 +2602,10 @@
       "speakers": [
         "Any WR Speedrun",
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "game",
@@ -3117,14 +2626,10 @@
       "itunes_duration": "1:52:44",
       "speakers": [
         "Anthony Burch",
-        "Lincoln Li-Wilson",
         "Matt Arnold",
-        "Normal Oak",
-        "Will Campos",
+        "Freddie Wong",
         "Beth May",
-        "Taylor Swift",
-        "Maxton Waller",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "dungeon"
@@ -3164,15 +2669,12 @@
       "enclosure_length": "138772885",
       "itunes_duration": "1:36:23",
       "speakers": [
-        "Will Campos",
-        "Matt Arnold",
+        "Fetch Quest",
         "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Maxton Waller Cover",
-        "Alex Moore",
-        "Courtney Thérond",
-        "Ashley Nicollette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "quest",
@@ -3191,15 +2693,11 @@
       "enclosure_length": "136949113",
       "itunes_duration": "1:35:10",
       "speakers": [
-        "Will Campos",
-        "Matt Arnold",
         "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Maxton Waller",
-        "Courtney Thérond",
-        "Ashley Nicollette",
-        "Chad Ellis",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "quest",
@@ -3221,15 +2719,11 @@
       "enclosure_length": "137539433",
       "itunes_duration": "1:35:33",
       "speakers": [
-        "Good Boy",
-        "Will Campos",
-        "Matt Arnold",
         "Anthony Burch",
+        "Matt Arnold",
+        "Freddie Wong",
         "Beth May",
-        "Maxton Waller",
-        "Courtney Thérond",
-        "Ashley Nicollette",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "quest",
@@ -3250,15 +2744,11 @@
       "itunes_duration": "1:10:45",
       "speakers": [
         "Talking Dad",
-        "Fetch Quest",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "season"
@@ -3276,16 +2766,12 @@
       "enclosure_length": "93027750",
       "itunes_duration": "1:36:39",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Jodie Foster",
+        "Going Home",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "home"
@@ -3303,16 +2789,11 @@
       "enclosure_length": "108221982",
       "itunes_duration": "1:52:23",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Jodie Foster",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "home"
@@ -3330,16 +2811,11 @@
       "enclosure_length": "77505143",
       "itunes_duration": "1:20:35",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "mortal",
@@ -3358,16 +2834,11 @@
       "enclosure_length": "62267820",
       "itunes_duration": "1:04:36",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "fender",
@@ -3386,16 +2857,11 @@
       "enclosure_length": "65992662",
       "itunes_duration": "1:08:24",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Schuckman Theme",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "frank",
@@ -3414,16 +2880,11 @@
       "enclosure_length": "66022549",
       "itunes_duration": "1:08:45",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "mechanics",
@@ -3442,16 +2903,11 @@
       "enclosure_length": "76127011",
       "itunes_duration": "1:18:59",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "parent"
@@ -3469,16 +2925,11 @@
       "enclosure_length": "66572964",
       "itunes_duration": "1:09:20",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "sonscreen"
@@ -3496,16 +2947,11 @@
       "enclosure_length": "82107745",
       "itunes_duration": "1:25:01",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "death",
@@ -3524,16 +2970,11 @@
       "enclosure_length": "68003821",
       "itunes_duration": "1:10:39",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "goblin"
@@ -3551,16 +2992,11 @@
       "enclosure_length": "65798064",
       "itunes_duration": "1:08:19",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "retail",
@@ -3579,16 +3015,11 @@
       "enclosure_length": "73347830",
       "itunes_duration": "1:16:34",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -3604,16 +3035,11 @@
       "enclosure_length": "67774927",
       "itunes_duration": "1:10:09",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "heroes",
@@ -3633,16 +3059,11 @@
       "enclosure_length": "69028961",
       "itunes_duration": "1:12:04",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "swap",
@@ -3664,14 +3085,11 @@
       "speakers": [
         "Ashly Burch",
         "Mark Likely",
-        "Beth May",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "mark",
@@ -3692,15 +3110,11 @@
       "itunes_duration": "1:03:06",
       "speakers": [
         "Book Castle",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "game",
@@ -3719,16 +3133,12 @@
       "enclosure_length": "76850630",
       "itunes_duration": "1:20:14",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
+        "Meth Bay Supermax",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -3744,16 +3154,11 @@
       "enclosure_length": "59480853",
       "itunes_duration": "1:01:47",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "papillon"
@@ -3771,16 +3176,11 @@
       "enclosure_length": "74176062",
       "itunes_duration": "1:17:13",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "escape",
@@ -3799,16 +3199,11 @@
       "enclosure_length": "89473796",
       "itunes_duration": "1:33:24",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "panic",
@@ -3828,16 +3223,11 @@
       "enclosure_length": "59982146",
       "itunes_duration": "1:02:37",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Jodie Foster",
-        "Jimmy Wong",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "contact"
@@ -3879,16 +3269,11 @@
       "enclosure_length": "65679494",
       "itunes_duration": "1:08:02",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "wayward"
@@ -3906,16 +3291,11 @@
       "enclosure_length": "81005622",
       "itunes_duration": "1:24:00",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "glenn",
@@ -3937,14 +3317,11 @@
       "speakers": [
         "Glenn Close",
         "Jenna Stoeber",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "people",
@@ -3967,7 +3344,6 @@
       "itunes_duration": "56:24",
       "speakers": [
         "Pokémon Go",
-        "Greg Stolze",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
@@ -3991,16 +3367,11 @@
       "enclosure_length": "64760483",
       "itunes_duration": "1:07:13",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "death",
@@ -4019,16 +3390,11 @@
       "enclosure_length": "62746726",
       "itunes_duration": "1:05:02",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "deck",
@@ -4049,14 +3415,11 @@
       "speakers": [
         "Hardcore Henry",
         "Barry Oak",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "hardcore",
@@ -4075,16 +3438,12 @@
       "enclosure_length": "58480862",
       "itunes_duration": "1:00:30",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
+        "Secrets Henry",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "henry",
@@ -4105,18 +3464,12 @@
       "enclosure_length": "69051447",
       "itunes_duration": "1:12:05",
       "speakers": [
-        "Nicholas Cage",
-        "Anthony Burch Adal",
-        "Peter Wingspan",
-        "John Patrick Coan",
-        "Granny Zuko",
-        "Erin Keif",
-        "LaCroix Matt Arnold",
-        "Thumper Freddie Wong",
+        "break th",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
-        "Beth May"
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "flight",
@@ -4136,16 +3489,11 @@
       "enclosure_length": "68773308",
       "itunes_duration": "1:11:48",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "oaklore"
@@ -4163,16 +3511,11 @@
       "enclosure_length": "68254977",
       "itunes_duration": "1:11:15",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "rules",
@@ -4193,16 +3536,11 @@
       "enclosure_length": "66244203",
       "itunes_duration": "1:09:09",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "forgotten",
@@ -4221,16 +3559,11 @@
       "enclosure_length": "70931700",
       "itunes_duration": "1:14:03",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "clone",
@@ -4250,16 +3583,11 @@
       "enclosure_length": "53854299",
       "itunes_duration": "56:13",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -4275,16 +3603,12 @@
       "enclosure_length": "81558528",
       "itunes_duration": "1:25:09",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
+        "Supper Bowl",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "bowl",
@@ -4303,16 +3627,11 @@
       "enclosure_length": "28668782",
       "itunes_duration": "29:55",
       "speakers": [
-        "Paeden Bennetts",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "father",
@@ -4334,15 +3653,11 @@
       "itunes_duration": "1:47:44",
       "speakers": [
         "Yeet Bigly",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "jellicle",
@@ -4362,15 +3677,11 @@
       "itunes_duration": "1:28:46",
       "speakers": [
         "Ashly Burch",
-        "Dennis Anderson",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "involved",
@@ -4392,16 +3703,11 @@
       "enclosure_length": "67157433",
       "itunes_duration": "1:10:06",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "anchor",
@@ -4420,16 +3726,11 @@
       "enclosure_length": "64954839",
       "itunes_duration": "1:07:49",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -4445,16 +3746,11 @@
       "enclosure_length": "68683236",
       "itunes_duration": "1:11:42",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "home",
@@ -4473,16 +3769,11 @@
       "enclosure_length": "67722051",
       "itunes_duration": "1:10:42",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -4499,15 +3790,11 @@
       "itunes_duration": "1:27:09",
       "speakers": [
         "Purple Robes",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "willy",
@@ -4527,15 +3814,11 @@
       "itunes_duration": "59:26",
       "speakers": [
         "Castle Ravenloft",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "bridges",
@@ -4555,15 +3838,11 @@
       "itunes_duration": "1:08:46",
       "speakers": [
         "Castle Ravenloft",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "advanced",
@@ -4583,16 +3862,11 @@
       "enclosure_length": "57187380",
       "itunes_duration": "59:42",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "future",
@@ -4611,16 +3885,11 @@
       "enclosure_length": "60495024",
       "itunes_duration": "1:03:09",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Chad Ellis Theme",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "mummy",
@@ -4639,16 +3908,11 @@
       "enclosure_length": "69705303",
       "itunes_duration": "1:12:46",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "father"
@@ -4666,15 +3930,14 @@
       "enclosure_length": "89790108",
       "itunes_duration": "1:33:44",
       "speakers": [
+        "Dadness Ch",
+        "Casting Call",
+        "Cthulhu Happy Honda Days",
         "Anthony Burch",
-        "Robert Wilson",
         "Matt Arnold",
-        "Hildy Russet",
-        "Will Campos",
-        "Stud Stampler",
+        "Freddie Wong",
         "Beth May",
-        "Meryl Streep",
-        "Freddie Wong"
+        "Will Campos"
       ],
       "topics": [
         "mountains",
@@ -4694,16 +3957,13 @@
       "enclosure_length": "66677466",
       "itunes_duration": "1:09:36",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
+        "No Scamming",
+        "Scam Likely",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "scammer",
@@ -4722,16 +3982,11 @@
       "enclosure_length": "80420952",
       "itunes_duration": "1:23:57",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "rich",
@@ -4750,16 +4005,11 @@
       "enclosure_length": "70884996",
       "itunes_duration": "1:14:00",
       "speakers": [
-        "Ron Beth",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "connin",
@@ -4779,7 +4029,6 @@
       "itunes_duration": "42:48",
       "speakers": [
         "Grant Howitt",
-        "Erin O'Neill",
         "Anthony Burch",
         "Matt Arnold",
         "Freddie Wong",
@@ -4803,16 +4052,11 @@
       "enclosure_length": "62193048",
       "itunes_duration": "1:04:56",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "silent"
@@ -4830,16 +4074,11 @@
       "enclosure_length": "77236323",
       "itunes_duration": "1:20:38",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "amazing",
@@ -4860,16 +4099,11 @@
       "enclosure_length": "73334454",
       "itunes_duration": "1:16:33",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "mmmpop"
@@ -4887,16 +4121,11 @@
       "enclosure_length": "69294558",
       "itunes_duration": "1:12:20",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "fatherunknown",
@@ -4915,16 +4144,11 @@
       "enclosure_length": "88981128",
       "itunes_duration": "1:32:54",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "tournament",
@@ -4943,16 +4167,12 @@
       "enclosure_length": "65027814",
       "itunes_duration": "1:07:53",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
+        "Simple Rules",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "simple",
@@ -4973,16 +4193,11 @@
       "enclosure_length": "75500352",
       "itunes_duration": "1:18:49",
       "speakers": [
-        "Terry Jr",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "tower",
@@ -5001,16 +4216,12 @@
       "enclosure_length": "74959086",
       "itunes_duration": "1:18:15",
       "speakers": [
-        "Terry Jr Darryl",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
+        "Terry Jr Darr",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "terry",
@@ -5029,16 +4240,11 @@
       "enclosure_length": "67132413",
       "itunes_duration": "1:10:05",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "tale",
@@ -5057,16 +4263,11 @@
       "enclosure_length": "53748381",
       "itunes_duration": "56:07",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "dungeon",
@@ -5086,16 +4287,11 @@
       "enclosure_length": "75667569",
       "itunes_duration": "1:19:00",
       "speakers": [
-        "Ron kills",
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "dusk"
@@ -5113,16 +4309,11 @@
       "enclosure_length": "58560978",
       "itunes_duration": "1:01:08",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "dads",
@@ -5141,16 +4332,11 @@
       "enclosure_length": "59599308",
       "itunes_duration": "1:02:13",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Jimmy Wong Theme",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "punk"
@@ -5168,16 +4354,11 @@
       "enclosure_length": "64932321",
       "itunes_duration": "1:07:47",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "battle",
@@ -5196,16 +4377,11 @@
       "enclosure_length": "65617035",
       "itunes_duration": "1:08:30",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "battle",
@@ -5224,16 +4400,11 @@
       "enclosure_length": "56531022",
       "itunes_duration": "59:01",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Kevin Senzaki Additional",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "local",
@@ -5252,16 +4423,11 @@
       "enclosure_length": "55000215",
       "itunes_duration": "57:25",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "lord",
@@ -5280,16 +4446,11 @@
       "enclosure_length": "56756619",
       "itunes_duration": "59:15",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "lord",
@@ -5308,16 +4469,11 @@
       "enclosure_length": "55941801",
       "itunes_duration": "58:24",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "lord",
@@ -5336,16 +4492,11 @@
       "enclosure_length": "94001510",
       "itunes_duration": "1:38:01",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": []
     },
@@ -5361,16 +4512,11 @@
       "enclosure_length": "100231918",
       "itunes_duration": "1:44:25",
       "speakers": [
-        "Anthony Burch Darryl Wilson",
-        "Matt Arnold",
-        "Henry Oak",
-        "Will Campos",
-        "Ron Stampler",
-        "Beth May",
-        "Glenn Close",
-        "Maxton Waller Cover",
         "Anthony Burch",
-        "Freddie Wong"
+        "Matt Arnold",
+        "Freddie Wong",
+        "Beth May",
+        "Will Campos"
       ],
       "topics": [
         "handshake"
@@ -5383,196 +4529,196 @@
 
 ## Episodes (newest first)
 
-- 2026-02-10 — S4 Ep. 1 - Grandfather Paradox — speakers: Safe Space, Anthony Burch Dale Elliot, Matt Arnold Ralph Estarellas, Will Campos, Beth May Ashley Birch, Ashley Nicollette, Kortney Terry, Travis Reaves, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
+- 2026-02-10 — S4 Ep. 1 - Grandfather Paradox — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-02-03 — Season 4 Trailer — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2026-01-14 — [BONUS] Shadowdark One Shot - Trial of the Slime Lord — speakers: Daniel Kim, Kelsey Dionne, Jordan Rudd, Annissa Omran, Ashley Nicollette, Kortney Terry, Travis Reaves, Omar Romolino, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
+- 2026-01-14 — [BONUS] Shadowdark One Shot - Trial of the Slime Lord — speakers: Shadowdark One Shot, Slime Lord Will, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2026-01-06 — BONUS - Happy Patreondadays! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2025-12-16 — The Peach Pit (Season 3 After Show) — speakers: Maxton Waller, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-12-02 — S3 Ep. 39 - Gutteral Scream (Finale Pt. 2) — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Maxton Waller, Annissa Omran, Ashley Nicollette, Kortney Terry, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-11-18 — S3 Ep. 38 - One Minute to Zhouzel (Finale Pt. 1) — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-11-17 — [BONUS] Stewpot One Shot! — speakers: Jay Hoffman, Matt Arnold Tom Stall, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Travis Reaves, Omar Romolino, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-11-04 — S3 Ep. 37 - John He Be Good — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-10-28 — [BONUS] Con Oz - A Daggerheart One Shot — speakers: Con Oz, Anthony Burch Candy Dufresne, Matt Arnold Tim Tipple, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Travis Reaves, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-10-21 — S3 Ep. 36 - Horses Shoot They, Don't Horses? — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-10-07 — S3 Ep. 35 - The Head Sullivan Show — speakers: Sullivan Show, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-09-23 — S3 Ep. 34 - The Two BB Problem — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-09-09 — S3 Ep. 33 - Double In Them Kelsey — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-08-26 — S3 Ep. 32 - Lifeboat — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-08-12 — S3 Ep. 31 - Only Angels Have Legs — speakers: Jordan Rodrigues, com Info, Edinburgh Fringe, Scam Likely, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-07-29 — S3 Ep. 30 - 62,000 Feet Over the Sea — speakers: Jordan Rodrigues, com Info, Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-07-15 — S3 Ep. 29 - The Moth Who Goo Too Much — speakers: Jordan Rodrigues, com Info, Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-07-01 — S3 Ep. 28 - Bringing Up Baba — speakers: Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-06-17 — S3 Ep. 27 - All About Eat — speakers: Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-06-03 — S3 Ep. 26 - Wii Who Are About to Die — speakers: Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-05-21 — S3 Ep. 25 - The Ass Fault Jungle — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-05-06 — S3 Ep. 24 - Nag the Dog — speakers: Edinburgh Fringe, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Maxton Waller, Brian Fernandes, Ashley Nicollette, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-04-22 — S3 Ep. 23 - Paths of Gory — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-04-08 — S3 Ep. 22 - Clancy Meeting You Here — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-03-25 — S3 Ep. 21 - The Son and the Fury — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Freddie Wong, Kevin Kemp, Ashley Nicollette, Kortney Terry, Anthony Burch, Matt Arnold, Beth May, Will Campos
-- 2025-03-11 — S3 Ep. 20 - Them’s the Brakes — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-02-25 — S3 Ep. 19 - Long Maze Journey Into Night — speakers: Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Ester Ellis, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-02-11 — S3 Ep. 18 - The Wanna Read Show — speakers: Body Horror, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-01-28 — S3 Ep. 17 - Pain-o-vision — speakers: Moth Man Goo Tubes, Campos Kelsey Grammar, Matt Arnold Francis Farnsworth, Anthony Burch Trudy Trout, Beth May Blake Lively, Ashley Nicollette, Kortney Terry, Cindy Denton, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2025-01-14 — S3 Ep. 16 - The Fall of the House of Tucker — speakers: Body Horror, Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Freddie Wong
-- 2024-12-31 — PWP (Pops Without Plot) ft. Neil Newbon — speakers: Neil Newbon, Amanda Schuckman, Anthony Burch, Tatty Roper, Henry Oak, Will Campos, Darryl Wilson, Matt Arnold, Freddie Wong, Beth May
-- 2024-12-17 — S3 Ep. 15 - The Day The Center of the Earth Stood Still — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Blake Lively, Freddie Wong
-- 2024-12-03 — S3 Ep. 14 - The Bigfoot Contessa — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Blake Lively, Freddie Wong
-- 2024-11-19 — S3 Ep. 13 - The Door into Plumber — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Blake Lively, Freddie Wong
-- 2024-11-05 — S3 Ep. 12 - Trout of the Past — speakers: Trudy Trout, Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Beth May, Blake Lively, Freddie Wong
-- 2024-10-29 — Dad Save America - Democracy Dies in Dadness — speakers: Scam Likely, Tatty Roper, Amanda Schuckman, Vote org, Anthony Burch, Henry Oak, Will Campos, Darryl Wilson, Matt Arnold, Freddie Wong, Beth May
-- 2024-10-22 — DADHAMMER 40,000 — speakers: Navis IV, Matt Arnold, Nordstrom Rack, Will Campos, Tylerius Andromedus, Anthony Burch, Vitamix Blender, Beth May, Freddie Wong
-- 2024-10-08 — S3 Ep. 11 - Dial M for Murder, Murder, Murder — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-09-24 — S3 Ep. 10 - The Blue Badge of Courage — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-09-10 — S3 Ep. 9 - Ass in the Hole — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-08-27 — The Areas Tour - Live in Indianapolis 6/4/24 — speakers: Anthony Burch, Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Freddie Wong
-- 2024-08-13 — S3 Ep. 8 – Thing of the Ring — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-07-30 — S3 Ep. 7 - My Rifle, My Bully, and Me — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-07-16 — S3 Ep. 6 - A Car is Born — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-07-02 — S3 Ep. 5 - I, Robot? — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-06-18 — S3 Ep. 4 - Peachyville Confidential — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-06-04 — S3 Ep. 3 - Panic! At The Drive-In — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-05-21 — S3 Ep. 2 - Some Like It Hot — speakers: Suicide Support, Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Freddie Wong
-- 2024-05-07 — S3 Ep. 1 - Strangers on a Lane — speakers: Will Campos, Kelsey Grammar, Matt Arnold, Francis Farnsworth, Anthony Burch, Trudy Trout, Beth May, Tony Collette, Freddie Wong
-- 2024-04-23 — BONUS: Kingdom Dad Monster - Ep. 1 - Founding Fathers — speakers: Taylor Swift, Saint Paul, Matt Arnold, Will Campos, Anthony Burch, Brian Fernandes, Ashley Nicollette, Kortney Terry, Freddie Wong, Beth May
+- 2025-12-16 — The Peach Pit (Season 3 After Show) — speakers: After Show, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-12-02 — S3 Ep. 39 - Gutteral Scream (Finale Pt. 2) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-11-18 — S3 Ep. 38 - One Minute to Zhouzel (Finale Pt. 1) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-11-17 — [BONUS] Stewpot One Shot! — speakers: Stewpot One Shot, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-11-04 — S3 Ep. 37 - John He Be Good — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-10-28 — [BONUS] Con Oz - A Daggerheart One Shot — speakers: Con Oz, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-10-21 — S3 Ep. 36 - Horses Shoot They, Don't Horses? — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-10-07 — S3 Ep. 35 - The Head Sullivan Show — speakers: Sullivan Show, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-09-23 — S3 Ep. 34 - The Two BB Problem — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-09-09 — S3 Ep. 33 - Double In Them Kelsey — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-08-26 — S3 Ep. 32 - Lifeboat — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-08-12 — S3 Ep. 31 - Only Angels Have Legs — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-07-29 — S3 Ep. 30 - 62,000 Feet Over the Sea — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-07-15 — S3 Ep. 29 - The Moth Who Goo Too Much — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-07-01 — S3 Ep. 28 - Bringing Up Baba — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-06-17 — S3 Ep. 27 - All About Eat — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-06-03 — S3 Ep. 26 - Wii Who Are About to Die — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-05-21 — S3 Ep. 25 - The Ass Fault Jungle — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-05-06 — S3 Ep. 24 - Nag the Dog — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-04-22 — S3 Ep. 23 - Paths of Gory — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-04-08 — S3 Ep. 22 - Clancy Meeting You Here — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-03-25 — S3 Ep. 21 - The Son and the Fury — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-03-11 — S3 Ep. 20 - Them’s the Brakes — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-02-25 — S3 Ep. 19 - Long Maze Journey Into Night — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-02-11 — S3 Ep. 18 - The Wanna Read Show — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-01-28 — S3 Ep. 17 - Pain-o-vision — speakers: Moth Man Goo Tubes, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2025-01-14 — S3 Ep. 16 - The Fall of the House of Tucker — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-12-31 — PWP (Pops Without Plot) ft. Neil Newbon — speakers: Neil Newbon, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-12-17 — S3 Ep. 15 - The Day The Center of the Earth Stood Still — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-12-03 — S3 Ep. 14 - The Bigfoot Contessa — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-11-19 — S3 Ep. 13 - The Door into Plumber — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-11-05 — S3 Ep. 12 - Trout of the Past — speakers: Trudy Trout, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-10-29 — Dad Save America - Democracy Dies in Dadness — speakers: Scam Likely, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-10-22 — DADHAMMER 40,000 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-10-08 — S3 Ep. 11 - Dial M for Murder, Murder, Murder — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-09-24 — S3 Ep. 10 - The Blue Badge of Courage — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-09-10 — S3 Ep. 9 - Ass in the Hole — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-08-27 — The Areas Tour - Live in Indianapolis 6/4/24 — speakers: Clowes Memorial Hall, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-08-13 — S3 Ep. 8 – Thing of the Ring — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-07-30 — S3 Ep. 7 - My Rifle, My Bully, and Me — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-07-16 — S3 Ep. 6 - A Car is Born — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-07-02 — S3 Ep. 5 - I, Robot? — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-06-18 — S3 Ep. 4 - Peachyville Confidential — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-06-04 — S3 Ep. 3 - Panic! At The Drive-In — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-05-21 — S3 Ep. 2 - Some Like It Hot — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-05-07 — S3 Ep. 1 - Strangers on a Lane — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-04-23 — BONUS: Kingdom Dad Monster - Ep. 1 - Founding Fathers — speakers: Kingdom Dad Monster, Founding Fathers Join, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2024-04-16 — Dungeons & Daddies: The Areas Tour — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2024-04-09 — Teen Talk (Season 2 After Show) — speakers: Maxton Waller, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2024-03-26 — S2 Ep. 53 - Urination (Friends Forever) — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2024-03-12 — S2 Ep. 52 - Dood Riddance (Time of Your Life) — speakers: Willie Stampler, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2024-02-27 — S2 Ep. 51 - Cool Hand Linc — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2024-02-13 — Do or Dice Live Tour - Live in Portland 8/22/23 — speakers: Anthony Burch, Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Freddie Wong
-- 2024-01-30 — S2 Ep. 50 - Larry the Capable Guy — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2024-01-16 — S2 Ep. 49 - Halo Reach — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2024-01-02 — Do or Dice Live Tour - Live in Seattle 8/21/23 — speakers: Anthony Burch, Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Freddie Wong
-- 2023-12-19 — S2 Ep. 48 - Next to Normal — speakers: Oak Family Drama, Body Horror, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Freddie Wong
-- 2023-12-05 — S2 Ep. 47 - Inside the Actor's Funeral — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-11-21 — S2 Ep. 46 - Lincoln in the No Holds Bardo — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-11-07 — S2 Ep. 45 - Hell or High Father — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-10-24 — BONUS: Dad Then There Were None — speakers: Amanda Schuckman, Riley Rose Critchlow, Elyse Willems, Anthony Burch, Baby Valet, Matt Arnold, Straighten Arrow, Will Campos, Freddie Wong, Beth May
-- 2023-10-10 — S2 Ep. 44 - Atonyment — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-09-26 — S2 Ep. 43 - Attack on Titanic — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-09-12 — S2 Ep. 42 - Spirit Hallow Peen — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-08-29 — S2 Ep. 41 - We Need to Talk About Heaven — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-08-15 — S2 Ep. 40 - The Teenhigh Saga: Break-in Wrong: Part 1 — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-08-01 — S2 Ep. 39 - Hey, Dude! — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-07-18 — S2 Ep. 38 - Main Chairacter Syndrome — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-07-12 — Dungeons and Daddies: The Do or Dice Tour! — speakers: Alex Theatre Get, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2023-07-04 — S2 Ep. 37 - Cut My Life Into Pizzas — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-06-20 — S2 Ep. 36 - When Terry Met Terry — speakers: Terry Met Terry, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2023-06-06 — S2 Ep. 35 - Apollo Four Teens — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-05-23 — S2 Ep. 34 - Finding Tori — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-05-16 — BONUS: Gumshoes and Dragons - Criminal Mines — speakers: Anthony Burch, Kieran Underhill, Will Campos, Matt Arnold, Dan Granger, Beth May, Brian Fernandes, Ashley Nicollette, Freddie Wong
-- 2023-05-09 — S2 Ep. 33 - An Extremely Goofy Episode — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-04-25 — S2 Ep. 32 - Con Mayor — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-04-11 — S2 Ep. 31 - Halt and Catch Fireball — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-03-28 — S2 Ep. 30 - Mrs. Swallows Oak Garcia’s Home for Peculiar Teenagers — speakers: Swallows Oak Garcia, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2023-03-14 — S2 Ep. 29 - S.O.C.C.E.R.: Shadow Of Scorenogoal — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Jodie Foster, Freddie Wong
-- 2023-02-28 — S2 Ep. 28 - King of the Hell — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Jodie Foster, Freddie Wong
-- 2023-02-14 — S2 Ep. 27 - Ei8ht — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2023-01-31 — S2 Ep. 26 - The Staircase — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Erica Drippins, Freddie Wong
-- 2023-01-17 — S2 Ep. 25 - Stand and Delivery — speakers: Tony Pepperoni, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2022-12-27 — BONUS: Sons and Sonsability - Ep. 1 - The Mothman Progenies — speakers: Amanda Schuckman, Anthony Burch, Cynthia Nixon, Matt Arnold, Eunice Mothman, Will Campos, Elizabeth Mothman, Beth May, Freddie Wong
-- 2022-12-13 — S2 Ep. 24 - Spider-Boyz: Homecoming — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-11-29 — S2 Ep. 23 - Alright — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-11-15 — S2 Ep. 22 - Army of Tree — speakers: Erin O'Neil, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2022-11-01 — S2 Ep. 21 - Finding Forest Her — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-10-18 — S2 Ep. 20 - I Brought You My Catbus, You Brought Me Your Love — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-10-04 — S2 Ep. 19 - Pop Punk — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-09-20 — S2 Ep. 18 - Grand Theft Gato — speakers: Papa Johns, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2022-09-06 — S2 Ep. 17 - OSHA's Eleven — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-08-23 — S2 Ep. 16 - Needlejuice — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-08-09 — S2 Ep. 15 - California Pizza Kombat — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-07-26 — S2 Ep. 14 - Welcome to Earth — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-07-12 — S2 Ep. 13 - Children of the Code — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-06-28 — S2 Ep. 12 - Scary Movie 2 — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-06-14 — S2 Ep. 11 - That Thing? You, Dude! — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Tim Wells, Freddie Wong
-- 2022-05-31 — S2 Ep. 10 - Dad Me To Hell — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-05-17 — S2 Ep. 9 - Debate Me, Cowards — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-05-03 — S2 Ep. 8 - Slumber Party Mayorssacre — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-04-19 — S2 Ep. 7 - The Gofast Club — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-04-05 — S2 Ep. 6 - Dance Dance Revelations 2ndMix Link Version — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-03-22 — S2 Ep. 5 - Dance Dance Revelations — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
-- 2022-03-08 — S2 Ep. 4 - Barf Bum Movie Men (Ft. Elyse Willems) — speakers: Elyse Willems, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2022-02-22 — S2 Ep. 3 - The Unbearable Linkness of Peeing — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Lauren Gold, Freddie Wong
-- 2022-02-08 — S2 Ep. 2 - The Game of Life [Any% WR Speedrun] — speakers: Any WR Speedrun, Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Freddie Wong
-- 2022-01-25 — S2 Ep. 1 - Dungeon and D.A.D.D.I.E.S. — speakers: Anthony Burch, Lincoln Li-Wilson, Matt Arnold, Normal Oak, Will Campos, Beth May, Taylor Swift, Maxton Waller, Freddie Wong
+- 2024-04-09 — Teen Talk (Season 2 After Show) — speakers: Teen Talk, After Show, Dad Crew, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-03-26 — S2 Ep. 53 - Urination (Friends Forever) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-03-12 — S2 Ep. 52 - Dood Riddance (Time of Your Life) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-02-27 — S2 Ep. 51 - Cool Hand Linc — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-02-13 — Do or Dice Live Tour - Live in Portland 8/22/23 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-01-30 — S2 Ep. 50 - Larry the Capable Guy — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-01-16 — S2 Ep. 49 - Halo Reach — speakers: Sexual Conte, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2024-01-02 — Do or Dice Live Tour - Live in Seattle 8/21/23 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-12-19 — S2 Ep. 48 - Next to Normal — speakers: Oak Family Drama, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-12-05 — S2 Ep. 47 - Inside the Actor's Funeral — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-11-21 — S2 Ep. 46 - Lincoln in the No Holds Bardo — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-11-07 — S2 Ep. 45 - Hell or High Father — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-10-24 — BONUS: Dad Then There Were None — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-10-10 — S2 Ep. 44 - Atonyment — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-09-26 — S2 Ep. 43 - Attack on Titanic — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-09-12 — S2 Ep. 42 - Spirit Hallow Peen — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-08-29 — S2 Ep. 41 - We Need to Talk About Heaven — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-08-15 — S2 Ep. 40 - The Teenhigh Saga: Break-in Wrong: Part 1 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-08-01 — S2 Ep. 39 - Hey, Dude! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-07-18 — S2 Ep. 38 - Main Chairacter Syndrome — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-07-12 — Dungeons and Daddies: The Do or Dice Tour! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-07-04 — S2 Ep. 37 - Cut My Life Into Pizzas — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-06-20 — S2 Ep. 36 - When Terry Met Terry — speakers: Terry Met Terry, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-06-06 — S2 Ep. 35 - Apollo Four Teens — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-05-23 — S2 Ep. 34 - Finding Tori — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-05-16 — BONUS: Gumshoes and Dragons - Criminal Mines — speakers: Criminal Mines, Mental Health Awareness, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-05-09 — S2 Ep. 33 - An Extremely Goofy Episode — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-04-25 — S2 Ep. 32 - Con Mayor — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-04-11 — S2 Ep. 31 - Halt and Catch Fireball — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-03-28 — S2 Ep. 30 - Mrs. Swallows Oak Garcia’s Home for Peculiar Teenagers — speakers: Swallows Oak Garcia, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-03-14 — S2 Ep. 29 - S.O.C.C.E.R.: Shadow Of Scorenogoal — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-02-28 — S2 Ep. 28 - King of the Hell — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-02-14 — S2 Ep. 27 - Ei8ht — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-01-31 — S2 Ep. 26 - The Staircase — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2023-01-17 — S2 Ep. 25 - Stand and Delivery — speakers: Tony Pepperoni, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-12-27 — BONUS: Sons and Sonsability - Ep. 1 - The Mothman Progenies — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-12-13 — S2 Ep. 24 - Spider-Boyz: Homecoming — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-11-29 — S2 Ep. 23 - Alright — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-11-15 — S2 Ep. 22 - Army of Tree — speakers: Erin O'Neil, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-11-01 — S2 Ep. 21 - Finding Forest Her — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-10-18 — S2 Ep. 20 - I Brought You My Catbus, You Brought Me Your Love — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-10-04 — S2 Ep. 19 - Pop Punk — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-09-20 — S2 Ep. 18 - Grand Theft Gato — speakers: Papa Johns, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-09-06 — S2 Ep. 17 - OSHA's Eleven — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-08-23 — S2 Ep. 16 - Needlejuice — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-08-09 — S2 Ep. 15 - California Pizza Kombat — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-07-26 — S2 Ep. 14 - Welcome to Earth — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-07-12 — S2 Ep. 13 - Children of the Code — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-06-28 — S2 Ep. 12 - Scary Movie 2 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-06-14 — S2 Ep. 11 - That Thing? You, Dude! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-05-31 — S2 Ep. 10 - Dad Me To Hell — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-05-17 — S2 Ep. 9 - Debate Me, Cowards — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-05-03 — S2 Ep. 8 - Slumber Party Mayorssacre — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-04-19 — S2 Ep. 7 - The Gofast Club — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-04-05 — S2 Ep. 6 - Dance Dance Revelations 2ndMix Link Version — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-03-22 — S2 Ep. 5 - Dance Dance Revelations — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-03-08 — S2 Ep. 4 - Barf Bum Movie Men (Ft. Elyse Willems) — speakers: Elyse Willems, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-02-22 — S2 Ep. 3 - The Unbearable Linkness of Peeing — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-02-08 — S2 Ep. 2 - The Game of Life [Any% WR Speedrun] — speakers: Any WR Speedrun, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2022-01-25 — S2 Ep. 1 - Dungeon and D.A.D.D.I.E.S. — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2022-01-11 — Season 2 Trailer — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2021-12-14 — FETCH QUEST - Ep. 3 - Paw & Order — speakers: Will Campos, Matt Arnold, Anthony Burch, Beth May, Maxton Waller Cover, Alex Moore, Courtney Thérond, Ashley Nicollette, Freddie Wong
-- 2021-11-30 — FETCH QUEST - Ep. 2 - Flea Collar Comedy Tour — speakers: Will Campos, Matt Arnold, Anthony Burch, Beth May, Maxton Waller, Courtney Thérond, Ashley Nicollette, Chad Ellis, Freddie Wong
-- 2021-11-16 — FETCH QUEST - Ep. 1 - All Dogs Go To Faerun — speakers: Good Boy, Will Campos, Matt Arnold, Anthony Burch, Beth May, Maxton Waller, Courtney Thérond, Ashley Nicollette, Freddie Wong
-- 2021-11-02 — Talking Dad (Season 1 After Show) — speakers: Talking Dad, Fetch Quest, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Anthony Burch, Freddie Wong
-- 2021-10-19 — Ep 68, Pt. 2 - Hi "Going Home," I'm Dad! — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Jodie Foster, Anthony Burch, Freddie Wong
-- 2021-10-05 — Ep. 68 - I'm Going Home — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Jodie Foster, Anthony Burch, Freddie Wong
-- 2021-09-21 — Ep. 67 - Mortal Wombat — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-09-07 — Ep. 66 - Fender Glennder — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-08-24 — Ep. 65 - Frank Conversations — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Schuckman Theme, Anthony Burch, Freddie Wong
-- 2021-08-10 — Ep. 64 - Mechanics and Heat 101 — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-07-27 — Ep. 63 - Meet the Parents — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-07-13 — Ep. 62 - Sonscreen — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-06-29 — Ep. 61 - Death of a Salesman — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-06-15 — Ep. 60 - Goblin — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-06-01 — Ep. 59 - Retail Therapy — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2021-05-18 — Ep. 58 - It Was Inside You All Along — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-05-04 — Ep. 57 - Heroes of Moat and Magic — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-04-20 — Ep. 56 - SWAP (SWitched Ass Papas) — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-04-06 — Ep. 55 - Mark! A Vagrant (ft. Ashly Burch) — speakers: Ashly Burch, Mark Likely, Beth May, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Anthony Burch, Freddie Wong
-- 2021-03-23 — Ep. 54 - A Game of Tomes — speakers: Book Castle, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Anthony Burch, Freddie Wong
-- 2021-03-09 — Ep. 53 - The Roc — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-02-23 — Ep. 52 - Pap-Papillon — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-02-09 — Ep. 51 - An Escape Plan For That — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-01-26 — Ep. 50 - Panic Room / Inside Man — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
-- 2021-01-12 — Ep. 49 - Contact — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Jodie Foster, Jimmy Wong, Anthony Burch, Freddie Wong
+- 2021-12-14 — FETCH QUEST - Ep. 3 - Paw & Order — speakers: Fetch Quest, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-11-30 — FETCH QUEST - Ep. 2 - Flea Collar Comedy Tour — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-11-16 — FETCH QUEST - Ep. 1 - All Dogs Go To Faerun — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-11-02 — Talking Dad (Season 1 After Show) — speakers: Talking Dad, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-10-19 — Ep 68, Pt. 2 - Hi "Going Home," I'm Dad! — speakers: Going Home, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-10-05 — Ep. 68 - I'm Going Home — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-09-21 — Ep. 67 - Mortal Wombat — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-09-07 — Ep. 66 - Fender Glennder — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-08-24 — Ep. 65 - Frank Conversations — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-08-10 — Ep. 64 - Mechanics and Heat 101 — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-07-27 — Ep. 63 - Meet the Parents — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-07-13 — Ep. 62 - Sonscreen — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-06-29 — Ep. 61 - Death of a Salesman — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-06-15 — Ep. 60 - Goblin — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-06-01 — Ep. 59 - Retail Therapy — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-05-18 — Ep. 58 - It Was Inside You All Along — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-05-04 — Ep. 57 - Heroes of Moat and Magic — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-04-20 — Ep. 56 - SWAP (SWitched Ass Papas) — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-04-06 — Ep. 55 - Mark! A Vagrant (ft. Ashly Burch) — speakers: Ashly Burch, Mark Likely, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-03-23 — Ep. 54 - A Game of Tomes — speakers: Book Castle, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-03-09 — Ep. 53 - The Roc — speakers: Meth Bay Supermax, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-02-23 — Ep. 52 - Pap-Papillon — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-02-09 — Ep. 51 - An Escape Plan For That — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-01-26 — Ep. 50 - Panic Room / Inside Man — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2021-01-12 — Ep. 49 - Contact — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
 - 2020-12-22 — Christmas 2020 - Gifts of the Dad Guys — speakers: Dad Guys, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2020-12-08 — Ep. 48 - Carry On My Wayward Son — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2020-11-24 — Ep. 47 - Glenn Close's Damages — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2020-11-10 — Ep. 46 - The People vs. Glenn Close (ft. Jenna Stoeber) — speakers: Glenn Close, Jenna Stoeber, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Anthony Burch, Freddie Wong
-- 2020-11-02 — Election Bonus! Pokémon Go to the Polls! — speakers: Pokémon Go, Greg Stolze, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2020-10-27 — Ep. 45 - Death Comedy Jam — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller, Anthony Burch, Freddie Wong
-- 2020-10-13 — Ep. 44 - Deck Picks — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-09-29 — Ep. 43 - Hardcore Henry — speakers: Hardcore Henry, Barry Oak, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Anthony Burch, Freddie Wong
-- 2020-09-15 — Ep. 42 - Henry's Father and the Chamber of Secrets — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-09-09 — Flight Risk (ft. Hey Riddle Riddle!) — speakers: Nicholas Cage, Anthony Burch Adal, Peter Wingspan, John Patrick Coan, Granny Zuko, Erin Keif, LaCroix Matt Arnold, Thumper Freddie Wong, Anthony Burch, Matt Arnold, Freddie Wong, Beth May
-- 2020-09-01 — Ep. 41 - oaklore — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-08-18 — Ep. 40 - Rules for Dadtastic Medieval Wargames — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-08-04 — Ep. 39 - Forgotten Realms — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-07-21 — Ep. 38 - Clone Tree Hill — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-07-07 — Ep. 37 - Talking Sons — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-06-23 — Ep. 36 - Bowl Movement — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-06-21 — Father's Day 2020 Special - Dadturday Night Live! — speakers: Paeden Bennetts, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2020-06-09 — Ep. 35 - The Jellicle Ball — speakers: Yeet Bigly, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2020-05-26 — Ep. 34 - Dedicated Involved Loving Fathers (ft. Ashly Burch) — speakers: Ashly Burch, Dennis Anderson, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Anthony Burch, Freddie Wong
-- 2020-05-12 — Ep. 33 - Anchor Management — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-04-28 — Ep. 32 - Grilling In the Name Of — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-04-14 — Ep. 31 - Home! Err... the Odyssey! — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-03-31 — Ep. 30 - Van on the Run — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-03-17 — Ep. 29 - Big Willy Style — speakers: Purple Robes, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2020-03-03 — Ep. 28 - The Bridges of Dad and Son County — speakers: Castle Ravenloft, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2020-02-18 — Ep. 27 - Advanced Dungeons & Dragons — speakers: Castle Ravenloft, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2020-02-04 — Ep. 26 - Moms of Future Past — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2020-01-21 — Ep. 25 - Mummy Issues — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Chad Ellis Theme, Anthony Burch, Freddie Wong
-- 2020-01-07 — Ep. 24 - The Sins of the Fathers — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-12-25 — At the Mountains of Dadness Ch. 1 - Casting Call of Cthulhu — speakers: Anthony Burch, Robert Wilson, Matt Arnold, Hildy Russet, Will Campos, Stud Stampler, Beth May, Meryl Streep, Freddie Wong
-- 2019-12-10 — Ep. 23 - Scammer, No Scamming! — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-11-26 — Ep. 22 - Rich Dads, Poor Dads — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-11-12 — Ep. 21 - Connin' the Librarian — speakers: Ron Beth, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2019-11-06 — Interlude - The Witch is Dead — speakers: Grant Howitt, Erin O'Neill, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
-- 2019-10-29 — Ep. 20 - Silent, But Dadly — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-10-15 — Ep. 19 - Amazing Grant, How Sweet the Cern — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-10-01 — Ep. 18 - MMMPop! — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-09-17 — Ep. 17 - FATHERUNKNOWN'S DADDLEGROUNDS — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-09-03 — Ep. 16 - A Tournament for Knights — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-08-20 — Ep. 15 - 8 Simple Rules for Dadding my Teenage Paeden — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-08-06 — Ep. 14 - The Tower of Terry — speakers: Terry Jr, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2019-07-25 — Ep. 13 - Terry Jr. and the Terrible, Horrible, No Good, Very Bad Dad — speakers: Terry Jr Darryl, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2019-07-02 — Ep. 12 - A Tale of Two Daddies — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-06-25 — Ep. 11.5 - Bonus Dungeon Sidequest Misadventure — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-06-18 — Ep. 11 - From Dusk 'til Dad — speakers: Ron kills, Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Anthony Burch, Freddie Wong
-- 2019-06-04 — Ep. 10 - Dads Don't Do Other Dads Dirty — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-05-21 — Ep. 9 - Punk is Dad — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Jimmy Wong Theme, Anthony Burch, Freddie Wong
-- 2019-05-07 — Ep. 8 - The Battle Axe of Hatred Pt. II — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-04-23 — Ep. 7 - The Battle Axe of Hatred — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-04-09 — Ep. 6 - Support Your Local Library — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Kevin Senzaki Additional, Anthony Burch, Freddie Wong
-- 2019-03-26 — Ep. 5 - The Lord of Chaos Pt. III — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-03-12 — Ep. 4 - The Lord of Chaos Pt. II — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-02-26 — Ep. 3 - The Lord of Chaos — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-02-12 — Ep. 2 - The Ties that Bind — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
-- 2019-01-22 — Ep. 1 - A Man and His Handshake — speakers: Anthony Burch Darryl Wilson, Matt Arnold, Henry Oak, Will Campos, Ron Stampler, Beth May, Glenn Close, Maxton Waller Cover, Anthony Burch, Freddie Wong
+- 2020-12-08 — Ep. 48 - Carry On My Wayward Son — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-11-24 — Ep. 47 - Glenn Close's Damages — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-11-10 — Ep. 46 - The People vs. Glenn Close (ft. Jenna Stoeber) — speakers: Glenn Close, Jenna Stoeber, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-11-02 — Election Bonus! Pokémon Go to the Polls! — speakers: Pokémon Go, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-10-27 — Ep. 45 - Death Comedy Jam — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-10-13 — Ep. 44 - Deck Picks — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-09-29 — Ep. 43 - Hardcore Henry — speakers: Hardcore Henry, Barry Oak, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-09-15 — Ep. 42 - Henry's Father and the Chamber of Secrets — speakers: Secrets Henry, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-09-09 — Flight Risk (ft. Hey Riddle Riddle!) — speakers: break th, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-09-01 — Ep. 41 - oaklore — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-08-18 — Ep. 40 - Rules for Dadtastic Medieval Wargames — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-08-04 — Ep. 39 - Forgotten Realms — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-07-21 — Ep. 38 - Clone Tree Hill — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-07-07 — Ep. 37 - Talking Sons — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-06-23 — Ep. 36 - Bowl Movement — speakers: Supper Bowl, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-06-21 — Father's Day 2020 Special - Dadturday Night Live! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-06-09 — Ep. 35 - The Jellicle Ball — speakers: Yeet Bigly, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-05-26 — Ep. 34 - Dedicated Involved Loving Fathers (ft. Ashly Burch) — speakers: Ashly Burch, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-05-12 — Ep. 33 - Anchor Management — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-04-28 — Ep. 32 - Grilling In the Name Of — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-04-14 — Ep. 31 - Home! Err... the Odyssey! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-03-31 — Ep. 30 - Van on the Run — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-03-17 — Ep. 29 - Big Willy Style — speakers: Purple Robes, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-03-03 — Ep. 28 - The Bridges of Dad and Son County — speakers: Castle Ravenloft, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-02-18 — Ep. 27 - Advanced Dungeons & Dragons — speakers: Castle Ravenloft, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-02-04 — Ep. 26 - Moms of Future Past — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-01-21 — Ep. 25 - Mummy Issues — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2020-01-07 — Ep. 24 - The Sins of the Fathers — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-12-25 — At the Mountains of Dadness Ch. 1 - Casting Call of Cthulhu — speakers: Dadness Ch, Casting Call, Cthulhu Happy Honda Days, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-12-10 — Ep. 23 - Scammer, No Scamming! — speakers: No Scamming, Scam Likely, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-11-26 — Ep. 22 - Rich Dads, Poor Dads — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-11-12 — Ep. 21 - Connin' the Librarian — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-11-06 — Interlude - The Witch is Dead — speakers: Grant Howitt, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-10-29 — Ep. 20 - Silent, But Dadly — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-10-15 — Ep. 19 - Amazing Grant, How Sweet the Cern — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-10-01 — Ep. 18 - MMMPop! — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-09-17 — Ep. 17 - FATHERUNKNOWN'S DADDLEGROUNDS — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-09-03 — Ep. 16 - A Tournament for Knights — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-08-20 — Ep. 15 - 8 Simple Rules for Dadding my Teenage Paeden — speakers: Simple Rules, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-08-06 — Ep. 14 - The Tower of Terry — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-07-25 — Ep. 13 - Terry Jr. and the Terrible, Horrible, No Good, Very Bad Dad — speakers: Terry Jr Darr, Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-07-02 — Ep. 12 - A Tale of Two Daddies — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-06-25 — Ep. 11.5 - Bonus Dungeon Sidequest Misadventure — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-06-18 — Ep. 11 - From Dusk 'til Dad — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-06-04 — Ep. 10 - Dads Don't Do Other Dads Dirty — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-05-21 — Ep. 9 - Punk is Dad — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-05-07 — Ep. 8 - The Battle Axe of Hatred Pt. II — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-04-23 — Ep. 7 - The Battle Axe of Hatred — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-04-09 — Ep. 6 - Support Your Local Library — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-03-26 — Ep. 5 - The Lord of Chaos Pt. III — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-03-12 — Ep. 4 - The Lord of Chaos Pt. II — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-02-26 — Ep. 3 - The Lord of Chaos — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-02-12 — Ep. 2 - The Ties that Bind — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
+- 2019-01-22 — Ep. 1 - A Man and His Handshake — speakers: Anthony Burch, Matt Arnold, Freddie Wong, Beth May, Will Campos
