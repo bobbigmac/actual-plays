@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-02-21T21:41:16+00:00`
-- checked_at: `2026-02-21T21:41:16+00:00`
-- etag: `W/"488a1f9d23f4c6fdff9543987be0b3bb"`
+- fetched_at: `2026-02-24T21:52:51+00:00`
+- checked_at: `2026-02-24T21:52:51+00:00`
+- etag: `W/"8cbca13e14ee4c5160ed7afa1267e58f"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/8c1e1b7a-6361-4fd6-8677-3617cef7f217/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-02-21T21:41:16+00:00",
+  "fetched_at": "2026-02-24T21:52:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,9 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103443146",
       "itunes_duration": "53:52",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -57,7 +55,7 @@
       "enclosure_length": "107350229",
       "itunes_duration": "55:54",
       "speakers": [
-        "Kevin MacLeod"
+        "New Iberia"
       ],
       "topics": [
         "delta",
@@ -76,9 +74,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96874500",
       "itunes_duration": "50:27",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -99,7 +95,7 @@
       "enclosure_length": "115610775",
       "itunes_duration": "1:00:13",
       "speakers": [
-        "Kevin MacLeod"
+        "San Diego"
       ],
       "topics": [
         "delta",
@@ -121,8 +117,7 @@
       "enclosure_length": "124884453",
       "itunes_duration": "1:05:02",
       "speakers": [
-        "Borrowed Souvenirs",
-        "Kevin MacLeod"
+        "Borrowed Sou"
       ],
       "topics": [
         "delta",
@@ -144,9 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123457541",
       "itunes_duration": "1:04:18",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -167,9 +160,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102066389",
       "itunes_duration": "53:09",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -188,9 +179,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118711196",
       "itunes_duration": "1:01:50",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -209,9 +198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107146265",
       "itunes_duration": "55:48",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -230,9 +217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91929207",
       "itunes_duration": "47:53",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -251,9 +236,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88980086",
       "itunes_duration": "46:20",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -272,9 +255,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102534503",
       "itunes_duration": "1:00:36",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -293,9 +274,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59986257",
       "itunes_duration": "31:14",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -313,9 +292,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "53851598",
       "itunes_duration": "37:05",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -333,9 +310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90597589",
       "itunes_duration": "47:11",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -357,9 +332,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97646052",
       "itunes_duration": "50:51",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -381,9 +354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92928965",
       "itunes_duration": "48:24",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -405,8 +376,7 @@
       "enclosure_length": "133690854",
       "itunes_duration": "1:09:38",
       "speakers": [
-        "Dorin Dalca",
-        "Kevin MacLeod"
+        "Dorin Dalca"
       ],
       "topics": [
         "delta",
@@ -427,9 +397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87791410",
       "itunes_duration": "48:43",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -449,8 +417,7 @@
       "enclosure_length": "90930284",
       "itunes_duration": "47:21",
       "speakers": [
-        "Owen Kinkaid",
-        "Kevin MacLeod"
+        "Owen Kinkaid"
       ],
       "topics": [
         "delta",
@@ -491,10 +458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112820479",
       "itunes_duration": "58:45",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -513,10 +477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100774059",
       "itunes_duration": "52:29",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -535,10 +496,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99918079",
       "itunes_duration": "52:02",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -559,10 +517,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96066167",
       "itunes_duration": "50:02",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -582,10 +537,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115373374",
       "itunes_duration": "1:00:05",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -604,10 +556,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108251349",
       "itunes_duration": "56:23",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -626,10 +575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89505043",
       "itunes_duration": "46:39",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -648,10 +594,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101249697",
       "itunes_duration": "52:44",
-      "speakers": [
-        "YouTube Podcasts",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -670,9 +613,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98586461",
       "itunes_duration": "51:21",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -692,8 +633,7 @@
       "enclosure_length": "115246314",
       "itunes_duration": "1:00:01",
       "speakers": [
-        "Treasures Daycare",
-        "Kevin MacLeod"
+        "Treasures Daycare"
       ],
       "topics": [
         "delta",
@@ -714,7 +654,7 @@
       "enclosure_length": "103723179",
       "itunes_duration": "54:01",
       "speakers": [
-        "Kevin MacLeod"
+        "Marblehead Massachusetts"
       ],
       "topics": [
         "delta",
@@ -734,9 +674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126786168",
       "itunes_duration": "1:06:02",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -757,9 +695,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107007503",
       "itunes_duration": "55:44",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -781,7 +717,7 @@
       "enclosure_length": "116942393",
       "itunes_duration": "1:00:54",
       "speakers": [
-        "Kevin MacLeod"
+        "Doc Ran Dahl"
       ],
       "topics": [
         "delta",
@@ -802,9 +738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92546950",
       "itunes_duration": "48:12",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -823,9 +757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119605629",
       "itunes_duration": "1:02:17",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -845,7 +777,7 @@
       "enclosure_length": "97737168",
       "itunes_duration": "50:54",
       "speakers": [
-        "Kevin MacLeod"
+        "sensitive materials"
       ],
       "topics": [
         "delta",
@@ -866,7 +798,7 @@
       "enclosure_length": "89836903",
       "itunes_duration": "46:47",
       "speakers": [
-        "Kevin MacLeod"
+        "Deep Waters"
       ],
       "topics": [
         "delta",
@@ -889,9 +821,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140827925",
       "itunes_duration": "1:13:21",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -912,7 +842,7 @@
       "enclosure_length": "91595675",
       "itunes_duration": "47:42",
       "speakers": [
-        "Kevin MacLeod"
+        "Alaskan Sea"
       ],
       "topics": [
         "delta",
@@ -933,9 +863,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92357197",
       "itunes_duration": "48:06",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -955,9 +883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152419605",
       "itunes_duration": "1:19:23",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -978,9 +904,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66644347",
       "itunes_duration": "36:41",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1000,9 +924,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150277982",
       "itunes_duration": "1:18:16",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1021,9 +943,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105156779",
       "itunes_duration": "54:46",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1042,10 +962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102438373",
       "itunes_duration": "53:21",
-      "speakers": [
-        "Green Box",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1064,9 +981,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107526608",
       "itunes_duration": "56:00",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1086,7 +1001,7 @@
       "enclosure_length": "122556421",
       "itunes_duration": "1:03:50",
       "speakers": [
-        "Kevin MacLeod"
+        "about th"
       ],
       "topics": [
         "delta",
@@ -1106,9 +1021,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119379095",
       "itunes_duration": "1:02:10",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1127,10 +1040,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116145762",
       "itunes_duration": "1:00:29",
-      "speakers": [
-        "gQ Listen",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1149,9 +1059,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115706069",
       "itunes_duration": "1:00:16",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1170,9 +1078,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98118346",
       "itunes_duration": "51:06",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1191,9 +1097,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90995486",
       "itunes_duration": "47:23",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1212,9 +1116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106343783",
       "itunes_duration": "55:23",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1233,9 +1135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92642245",
       "itunes_duration": "48:15",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1254,9 +1154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89265970",
       "itunes_duration": "46:29",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1277,9 +1175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90930284",
       "itunes_duration": "47:21",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1298,8 +1194,7 @@
       "enclosure_length": "91548028",
       "itunes_duration": "47:39",
       "speakers": [
-        "Yours Trusted",
-        "Kevin MacLeod"
+        "Yours Trusted"
       ],
       "topics": [
         "delta",
@@ -1319,9 +1214,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119082344",
       "itunes_duration": "1:02:01",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1339,9 +1232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159646120",
       "itunes_duration": "1:23:09",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1358,9 +1249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93735626",
       "itunes_duration": "48:49",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1377,9 +1266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115087490",
       "itunes_duration": "59:56",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1396,9 +1283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105862294",
       "itunes_duration": "55:08",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1415,9 +1300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121759790",
       "itunes_duration": "1:03:25",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1434,9 +1317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103817638",
       "itunes_duration": "54:04",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green"
@@ -1453,9 +1334,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100495698",
       "itunes_duration": "52:20",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1474,9 +1353,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109049651",
       "itunes_duration": "56:48",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1496,9 +1373,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129164356",
       "itunes_duration": "1:07:16",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1516,9 +1391,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115196159",
       "itunes_duration": "1:00:00",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1536,9 +1409,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110427245",
       "itunes_duration": "57:31",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1556,9 +1427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124754886",
       "itunes_duration": "1:04:58",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "greeen",
@@ -1576,9 +1445,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116799451",
       "itunes_duration": "1:00:50",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1596,9 +1463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111949452",
       "itunes_duration": "58:18",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1616,9 +1481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118702001",
       "itunes_duration": "1:01:49",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1636,9 +1499,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132730383",
       "itunes_duration": "1:09:08",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1656,10 +1517,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123266951",
       "itunes_duration": "1:04:12",
-      "speakers": [
-        "FAycBnYXM Listen",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1677,9 +1535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114187206",
       "itunes_duration": "59:28",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1697,9 +1553,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125359255",
       "itunes_duration": "1:05:17",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1719,9 +1573,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124693864",
       "itunes_duration": "1:04:56",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1739,9 +1591,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133253668",
       "itunes_duration": "1:09:24",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1759,9 +1609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127452395",
       "itunes_duration": "1:06:23",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1779,9 +1627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113756708",
       "itunes_duration": "59:15",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1799,9 +1645,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133253668",
       "itunes_duration": "1:09:24",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1819,10 +1663,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88362343",
       "itunes_duration": "46:01",
-      "speakers": [
-        "BtNeuRIUJvk Listen",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -1841,9 +1682,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77810545",
       "itunes_duration": "40:31",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord",
@@ -1864,8 +1703,7 @@
       "enclosure_length": "122841469",
       "itunes_duration": "1:03:59",
       "speakers": [
-        "De La Cruz",
-        "Kevin MacLeod"
+        "De La Cruz"
       ],
       "topics": [
         "blood",
@@ -1883,9 +1721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93364478",
       "itunes_duration": "48:37",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1902,9 +1738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82513422",
       "itunes_duration": "42:58",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1921,9 +1755,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112282148",
       "itunes_duration": "58:29",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1940,9 +1772,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126643226",
       "itunes_duration": "1:05:57",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1959,9 +1789,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115230432",
       "itunes_duration": "1:00:01",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1978,9 +1806,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121650285",
       "itunes_duration": "1:03:21",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "lord"
@@ -1997,9 +1823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83702098",
       "itunes_duration": "43:35",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2019,9 +1843,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60447684",
       "itunes_duration": "31:29",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2040,9 +1862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136201953",
       "itunes_duration": "1:10:56",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2060,9 +1880,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106052884",
       "itunes_duration": "55:14",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2080,9 +1898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109286216",
       "itunes_duration": "56:55",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2100,9 +1916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117132982",
       "itunes_duration": "1:01:01",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2120,9 +1934,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104911019",
       "itunes_duration": "54:38",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2140,9 +1952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111997099",
       "itunes_duration": "58:20",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "green",
@@ -2548,9 +2358,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111093472",
       "itunes_duration": "57:52",
-      "speakers": [
-        "GqgCeCOMsgY Listen"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "demand",
@@ -2806,9 +2614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129401756",
       "itunes_duration": "1:07:24",
-      "speakers": [
-        "fVLXZLrWfHs Listen"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "demand"
@@ -3139,7 +2945,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143382492",
       "itunes_duration": "1:14:41",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts",
+        "Amazon Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3575,7 +3384,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114659500",
       "itunes_duration": "59:43",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "delta",
         "green",
@@ -3594,7 +3405,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122838961",
       "itunes_duration": "1:03:59",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "delta",
         "green",
@@ -3613,7 +3426,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127960633",
       "itunes_duration": "1:06:39",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3631,7 +3446,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71908125",
       "itunes_duration": null,
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "handler"
       ]
@@ -3647,7 +3464,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131589355",
       "itunes_duration": "1:08:37",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3665,7 +3484,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142095177",
       "itunes_duration": "1:14:00",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3684,7 +3505,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71099792",
       "itunes_duration": "37:02",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "slinger",
         "panel"
@@ -3701,7 +3524,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118369305",
       "itunes_duration": "1:01:39",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "carrion",
         "crown",
@@ -3720,7 +3545,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124654576",
       "itunes_duration": "1:04:55",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "carrion",
         "crown",
@@ -3738,7 +3565,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141765825",
       "itunes_duration": "1:13:50",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3757,7 +3586,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122173570",
       "itunes_duration": "1:03:38",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3776,7 +3607,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126124956",
       "itunes_duration": "1:05:41",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3794,7 +3627,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129166027",
       "itunes_duration": "1:07:16",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3813,7 +3648,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131642018",
       "itunes_duration": "1:08:34",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -3831,7 +3668,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133348963",
       "itunes_duration": "1:09:27",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "deman",
@@ -3869,7 +3708,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122568123",
       "itunes_duration": "1:03:50",
-      "speakers": [],
+      "speakers": [
+        "Apple Podcasts"
+      ],
       "topics": [
         "dragon",
         "demand",
@@ -4015,9 +3856,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136231210",
       "itunes_duration": "1:10:57",
-      "speakers": [
-        "Hidden ShrineofTamoachan"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "demand",
@@ -4147,9 +3986,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72335905",
       "itunes_duration": "50:14",
-      "speakers": [
-        "Hidden ShrineofTamoachan"
-      ],
+      "speakers": [],
       "topics": [
         "delta",
         "thing"
@@ -4348,9 +4185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88895865",
       "itunes_duration": "1:01:44",
-      "speakers": [
-        "Sinister Secret"
-      ],
+      "speakers": [],
       "topics": [
         "sinister",
         "saltmarsh",
@@ -5854,107 +5689,107 @@
 
 ## Episodes (newest first)
 
-- 2026-02-21 — DELTA GREEN: PLAYTHINGS (EP 2) — speakers: Kevin MacLeod
-- 2026-02-14 — DELTA GREEN: PLAYTHINGS (EP 1) — speakers: Kevin MacLeod
-- 2026-02-08 — DELTA GREEN: (INTERLUDE) SCIENCE AND SIGNS (PT 2) — speakers: Kevin MacLeod
-- 2026-01-31 — DELTA GREEN: (INTERLUDE) SCIENCE AND SIGNS (PT 1) — speakers: Kevin MacLeod
-- 2025-11-08 — DELTA GREEN: BORROWED SOUVENIRS (EP 8: AFTER ACTION REPORT) — speakers: Borrowed Souvenirs, Kevin MacLeod
-- 2025-11-02 — DELTA GREEN: BORROWED SOUVENIRS (EP 7: SEASON FINALE) — speakers: Kevin MacLeod
-- 2025-10-26 — DELTA GREEN: BORROWED SOUVENIRS (EP 6) — speakers: Kevin MacLeod
-- 2025-10-19 — DELTA GREEN: BORROWED SOUVENIRS (EP 5) — speakers: Kevin MacLeod
-- 2025-10-11 — DELTA GREEN: BORROWED SOUVENIRS (EP 4) — speakers: Kevin MacLeod
-- 2025-10-05 — DELTA GREEN: BORROWED SOUVENIRS (EP 3) — speakers: Kevin MacLeod
-- 2025-09-26 — DELTA GREEN: BORROWED SOUVENIRS (EP 2) — speakers: Kevin MacLeod
-- 2025-09-20 — DELTA GREEN: BORROWED SOUVENIRS (EP 1) — speakers: Kevin MacLeod
-- 2025-09-13 — DELTA GREEN: INTERLUDE: THE 7th DAY (PT 2) — speakers: Kevin MacLeod
-- 2025-09-05 — DELTA GREEN: INTERLUDE: THE 7th DAY (PT 1) — speakers: Kevin MacLeod
-- 2025-06-07 — DELTA GREEN: ACQUIRED TASTE: EPILOGUE (PROOF OF CONCEPT PT 2) — speakers: Kevin MacLeod
-- 2025-06-01 — DELTA GREEN: ACQUIRED TASTE: EPILOGUE (PROOF OF CONCEPT PT 1) — speakers: Kevin MacLeod
-- 2025-05-24 — DELTA GREEN: ACQUIRED TASTE (EP 7 - AFTER ACTION REPORT) — speakers: Kevin MacLeod
-- 2025-05-18 — DELTA GREEN: ACQUIRED TASTE (EP 6 - THE FINALE) — speakers: Dorin Dalca, Kevin MacLeod
-- 2025-05-10 — DELTA GREEN: ACQUIRED TASTE (EP 5) — speakers: Kevin MacLeod
-- 2025-05-04 — DELTA GREEN: ACQUIRED TASTE (EP 4) — speakers: Owen Kinkaid, Kevin MacLeod
+- 2026-02-21 — DELTA GREEN: PLAYTHINGS (EP 2)
+- 2026-02-14 — DELTA GREEN: PLAYTHINGS (EP 1) — speakers: New Iberia
+- 2026-02-08 — DELTA GREEN: (INTERLUDE) SCIENCE AND SIGNS (PT 2)
+- 2026-01-31 — DELTA GREEN: (INTERLUDE) SCIENCE AND SIGNS (PT 1) — speakers: San Diego
+- 2025-11-08 — DELTA GREEN: BORROWED SOUVENIRS (EP 8: AFTER ACTION REPORT) — speakers: Borrowed Sou
+- 2025-11-02 — DELTA GREEN: BORROWED SOUVENIRS (EP 7: SEASON FINALE)
+- 2025-10-26 — DELTA GREEN: BORROWED SOUVENIRS (EP 6)
+- 2025-10-19 — DELTA GREEN: BORROWED SOUVENIRS (EP 5)
+- 2025-10-11 — DELTA GREEN: BORROWED SOUVENIRS (EP 4)
+- 2025-10-05 — DELTA GREEN: BORROWED SOUVENIRS (EP 3)
+- 2025-09-26 — DELTA GREEN: BORROWED SOUVENIRS (EP 2)
+- 2025-09-20 — DELTA GREEN: BORROWED SOUVENIRS (EP 1)
+- 2025-09-13 — DELTA GREEN: INTERLUDE: THE 7th DAY (PT 2)
+- 2025-09-05 — DELTA GREEN: INTERLUDE: THE 7th DAY (PT 1)
+- 2025-06-07 — DELTA GREEN: ACQUIRED TASTE: EPILOGUE (PROOF OF CONCEPT PT 2)
+- 2025-06-01 — DELTA GREEN: ACQUIRED TASTE: EPILOGUE (PROOF OF CONCEPT PT 1)
+- 2025-05-24 — DELTA GREEN: ACQUIRED TASTE (EP 7 - AFTER ACTION REPORT)
+- 2025-05-18 — DELTA GREEN: ACQUIRED TASTE (EP 6 - THE FINALE) — speakers: Dorin Dalca
+- 2025-05-10 — DELTA GREEN: ACQUIRED TASTE (EP 5)
+- 2025-05-04 — DELTA GREEN: ACQUIRED TASTE (EP 4) — speakers: Owen Kinkaid
 - 2025-04-26 — DELTA GREEN: ACQUIRED TASTE (EP 3) — speakers: Owen Kinkaid
-- 2025-04-20 — DELTA GREEN: ACQUIRED TASTE (EP 2) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2025-04-12 — DELTA GREEN: ACQUIRED TASTE (EP 1) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2025-01-12 — DELTA GREEN: LITTLE TREASURES (EP 10 - AFTER ACTION REPORT) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2025-01-04 — DELTA GREEN: LITTLE TREASURES (EP 9 - THE FINALE) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2024-12-29 — DELTA GREEN: LITTLE TREASURES (EP 8) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2024-12-21 — DELTA GREEN: LITTLE TREASURES (EP 7) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2024-12-15 — DELTA GREEN: LITTLE TREASURES (EP 6) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2024-12-06 — DELTA GREEN: LITTLE TREASURES (EP 5) — speakers: YouTube Podcasts, Kevin MacLeod
-- 2024-12-01 — DELTA GREEN: LITTLE TREASURES (EP 4) — speakers: Kevin MacLeod
-- 2024-11-23 — DELTA GREEN: LITTLE TREASURES (EP 3) — speakers: Treasures Daycare, Kevin MacLeod
-- 2024-11-16 — DELTA GREEN: LITTLE TREASURES (EP 2) — speakers: Kevin MacLeod
-- 2024-11-09 — DELTA GREEN: LITTLE TREASURES EP 1 (PROLOGUE: SAFE HOUSE) — speakers: Kevin MacLeod
-- 2024-09-29 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 5 - AFTER ACTION REPORT) — speakers: Kevin MacLeod
-- 2024-09-22 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 4 - THE FINALE) — speakers: Kevin MacLeod
-- 2024-09-15 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 3) — speakers: Kevin MacLeod
-- 2024-09-08 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 2) — speakers: Kevin MacLeod
-- 2024-08-31 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 1) — speakers: Kevin MacLeod
-- 2024-08-11 — DELTA GREEN: DEEP WATERS: DISAVOWED (AFTER ACTION REPORT) — speakers: Kevin MacLeod
-- 2024-08-03 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 3) — speakers: Kevin MacLeod
-- 2024-07-28 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 2) — speakers: Kevin MacLeod
-- 2024-07-20 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 1) — speakers: Kevin MacLeod
-- 2024-06-16 — DELTA GREEN: COLLATERAL DAMAGE EP 14 (AFTER ACTION REPORT) — speakers: Kevin MacLeod
-- 2024-06-08 — DELTA GREEN: COLLATERAL DAMAGE EP 13 (THE EPILOGUES) — speakers: Kevin MacLeod
-- 2024-06-02 — DELTA GREEN: COLLATERAL DAMAGE EP 12 — speakers: Kevin MacLeod
-- 2024-05-24 — DELTA GREEN: COLLATERAL DAMAGE EP 11 — speakers: Kevin MacLeod
-- 2024-05-22 — DELTA GREEN: COLLATERAL DAMAGE EP 10 — speakers: Green Box, Kevin MacLeod
-- 2024-05-11 — DELTA GREEN: COLLATERAL DAMAGE EP 9 — speakers: Kevin MacLeod
-- 2024-05-05 — DELTA GREEN: COLLATERAL DAMAGE EP 8 — speakers: Kevin MacLeod
-- 2024-04-27 — DELTA GREEN: COLLATERAL DAMAGE EP 7 — speakers: Kevin MacLeod
-- 2024-04-21 — DELTA GREEN: COLLATERAL DAMAGE EP 6 — speakers: gQ Listen, Kevin MacLeod
-- 2024-04-13 — DELTA GREEN: COLLATERAL DAMAGE EP 5 — speakers: Kevin MacLeod
-- 2024-04-07 — DELTA GREEN: COLLATERAL DAMAGE EP 4 — speakers: Kevin MacLeod
-- 2024-03-31 — DELTA GREEN: COLLATERAL DAMAGE EP 3 — speakers: Kevin MacLeod
-- 2024-03-24 — DELTA GREEN: COLLATERAL DAMAGE EP 2 — speakers: Kevin MacLeod
-- 2024-03-17 — DELTA GREEN: COLLATERAL DAMAGE EP 1 — speakers: Kevin MacLeod
-- 2024-03-10 — DELTA GREEN: PRE-SEASON 15 HARD SLINGERS OF YORE PANEL — speakers: Kevin MacLeod
-- 2023-12-18 — DELTA GREEN: LOT 27 EP 9 (THE EPILOGUE) — speakers: Kevin MacLeod
-- 2023-12-10 — DELTA GREEN: LOT 27 EP 8 (AFTER ACTION REPORT) — speakers: Yours Trusted, Kevin MacLeod
-- 2023-12-02 — DELTA GREEN: LOT 27 EP 7 (THE FINALE) — speakers: Kevin MacLeod
-- 2023-11-26 — DELTA GREEN: LOT 27 EP 6 — speakers: Kevin MacLeod
-- 2023-11-19 — DELTA GREEN: LOT 27 EP 5 — speakers: Kevin MacLeod
-- 2023-11-12 — DELTA GREEN: LOT 27 EP 4 — speakers: Kevin MacLeod
-- 2023-11-05 — DELTA GREEN: LOT 27 EP 3 — speakers: Kevin MacLeod
-- 2023-10-29 — DELTA GREEN: LOT 27 EP 2 — speakers: Kevin MacLeod
-- 2023-10-22 — DELTA GREEN: LOT 27 EP 1 — speakers: Kevin MacLeod
-- 2023-10-15 — DELTA GREEN: CONVERGENCE EP 18 (THE EPILOGUES) — speakers: Kevin MacLeod
-- 2023-10-08 — DELTA GREEN: CONVERGENCE EP 17 (AFTER ACTIO REPORT) — speakers: Kevin MacLeod
-- 2023-09-30 — DELTA GREEN: CONVERGENCE EP 16 — speakers: Kevin MacLeod
-- 2023-09-24 — DELTA GREEN: CONVERGENCE EP 15 — speakers: Kevin MacLeod
-- 2023-09-17 — DELTA GREEN: CONVERGENCE EP 14 — speakers: Kevin MacLeod
-- 2023-09-10 — DELTA GREEEN: CONVERGENCE EP 13 — speakers: Kevin MacLeod
-- 2023-09-02 — DELTA GREEN: CONVERGENCE EP 12 — speakers: Kevin MacLeod
-- 2023-08-27 — DELTA GREEN: CONVERGENCE EP 11 — speakers: Kevin MacLeod
-- 2023-08-19 — DELTA GREEN: CONVERGENCE EP 10 — speakers: Kevin MacLeod
-- 2023-08-13 — DELTA GREEN: CONVERGENCE EP 9 — speakers: Kevin MacLeod
-- 2023-08-06 — DELTA GREEN: CONVERGENCE EP 8 — speakers: FAycBnYXM Listen, Kevin MacLeod
-- 2023-07-30 — DELTA GREEN: CONVERGENCE EP 7 — speakers: Kevin MacLeod
-- 2023-07-23 — DELTA GREEN: CONVERGENCE EP 6 (Agents Insights) — speakers: Kevin MacLeod
-- 2023-07-16 — DELTA GREEN: CONVERGENCE EP 5 — speakers: Kevin MacLeod
-- 2023-07-08 — DELTA GREEN: CONVERGENCE EP 4 — speakers: Kevin MacLeod
-- 2023-07-01 — DELTA GREEN: CONVERGENCE EP 3 — speakers: Kevin MacLeod
-- 2023-06-24 — DELTA GREEN: CONVERGENCE EP 2 — speakers: Kevin MacLeod
-- 2023-06-18 — DELTA GREEN: CONVERGENCE EP 1 — speakers: Kevin MacLeod
-- 2023-06-10 — DELTA GREEN: CONVERGENCE EP 0 (THE PROLOGUES) — speakers: BtNeuRIUJvk Listen, Kevin MacLeod
-- 2023-06-04 — BLOOD LORDS: EP 19 (HARD SLINGERS OF YORE PANEL) — speakers: Kevin MacLeod
-- 2023-05-28 — BLOOD LORDS: EP 18 — speakers: De La Cruz, Kevin MacLeod
-- 2023-05-21 — BLOOD LORDS: EP 17 (PT 2) — speakers: Kevin MacLeod
-- 2023-05-21 — BLOOD LORDS: EP 17 (PT 1) — speakers: Kevin MacLeod
-- 2023-05-14 — BLOOD LORDS: EP 16 — speakers: Kevin MacLeod
-- 2023-05-07 — BLOOD LORDS: EP 15 — speakers: Kevin MacLeod
-- 2023-04-30 — BLOOD LORDS: EP 14 — speakers: Kevin MacLeod
-- 2023-04-24 — BLOOD LORDS: EP 13 — speakers: Kevin MacLeod
-- 2023-04-16 — DELTA GREEN: UNDER A PALE MOON (EP8: AFTER ACTION REPORT) — speakers: Kevin MacLeod
-- 2023-04-09 — DELTA GREEN: UNDER A PALE MOON (EP 7: THE EPILOGUES) — speakers: Kevin MacLeod
-- 2023-04-02 — DELTA GREEN: UNDER A PALE MOON (EP 6) — speakers: Kevin MacLeod
-- 2023-03-26 — DELTA GREEN: UNDER A PALE MOON (EP 5) — speakers: Kevin MacLeod
-- 2023-03-19 — DELTA GREEN: UNDER A PALE MOON (EP 4) — speakers: Kevin MacLeod
-- 2023-03-12 — DELTA GREEN: UNDER A PALE MOON (EP3) — speakers: Kevin MacLeod
-- 2023-03-05 — DELTA GREEN: UNDER A PALE MOON (EP 2) — speakers: Kevin MacLeod
-- 2023-02-26 — DELTA GREEN: UNDER A PALE MOON (EP 1) — speakers: Kevin MacLeod
+- 2025-04-20 — DELTA GREEN: ACQUIRED TASTE (EP 2)
+- 2025-04-12 — DELTA GREEN: ACQUIRED TASTE (EP 1)
+- 2025-01-12 — DELTA GREEN: LITTLE TREASURES (EP 10 - AFTER ACTION REPORT)
+- 2025-01-04 — DELTA GREEN: LITTLE TREASURES (EP 9 - THE FINALE)
+- 2024-12-29 — DELTA GREEN: LITTLE TREASURES (EP 8)
+- 2024-12-21 — DELTA GREEN: LITTLE TREASURES (EP 7)
+- 2024-12-15 — DELTA GREEN: LITTLE TREASURES (EP 6)
+- 2024-12-06 — DELTA GREEN: LITTLE TREASURES (EP 5)
+- 2024-12-01 — DELTA GREEN: LITTLE TREASURES (EP 4)
+- 2024-11-23 — DELTA GREEN: LITTLE TREASURES (EP 3) — speakers: Treasures Daycare
+- 2024-11-16 — DELTA GREEN: LITTLE TREASURES (EP 2) — speakers: Marblehead Massachusetts
+- 2024-11-09 — DELTA GREEN: LITTLE TREASURES EP 1 (PROLOGUE: SAFE HOUSE)
+- 2024-09-29 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 5 - AFTER ACTION REPORT)
+- 2024-09-22 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 4 - THE FINALE) — speakers: Doc Ran Dahl
+- 2024-09-15 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 3)
+- 2024-09-08 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 2)
+- 2024-08-31 — DELTA GREEN: GASLIGHT: DISAVOWED (EP 1) — speakers: sensitive materials
+- 2024-08-11 — DELTA GREEN: DEEP WATERS: DISAVOWED (AFTER ACTION REPORT) — speakers: Deep Waters
+- 2024-08-03 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 3)
+- 2024-07-28 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 2) — speakers: Alaskan Sea
+- 2024-07-20 — DELTA GREEN: DEEP WATERS: DISAVOWED (EP 1)
+- 2024-06-16 — DELTA GREEN: COLLATERAL DAMAGE EP 14 (AFTER ACTION REPORT)
+- 2024-06-08 — DELTA GREEN: COLLATERAL DAMAGE EP 13 (THE EPILOGUES)
+- 2024-06-02 — DELTA GREEN: COLLATERAL DAMAGE EP 12
+- 2024-05-24 — DELTA GREEN: COLLATERAL DAMAGE EP 11
+- 2024-05-22 — DELTA GREEN: COLLATERAL DAMAGE EP 10
+- 2024-05-11 — DELTA GREEN: COLLATERAL DAMAGE EP 9
+- 2024-05-05 — DELTA GREEN: COLLATERAL DAMAGE EP 8 — speakers: about th
+- 2024-04-27 — DELTA GREEN: COLLATERAL DAMAGE EP 7
+- 2024-04-21 — DELTA GREEN: COLLATERAL DAMAGE EP 6
+- 2024-04-13 — DELTA GREEN: COLLATERAL DAMAGE EP 5
+- 2024-04-07 — DELTA GREEN: COLLATERAL DAMAGE EP 4
+- 2024-03-31 — DELTA GREEN: COLLATERAL DAMAGE EP 3
+- 2024-03-24 — DELTA GREEN: COLLATERAL DAMAGE EP 2
+- 2024-03-17 — DELTA GREEN: COLLATERAL DAMAGE EP 1
+- 2024-03-10 — DELTA GREEN: PRE-SEASON 15 HARD SLINGERS OF YORE PANEL
+- 2023-12-18 — DELTA GREEN: LOT 27 EP 9 (THE EPILOGUE)
+- 2023-12-10 — DELTA GREEN: LOT 27 EP 8 (AFTER ACTION REPORT) — speakers: Yours Trusted
+- 2023-12-02 — DELTA GREEN: LOT 27 EP 7 (THE FINALE)
+- 2023-11-26 — DELTA GREEN: LOT 27 EP 6
+- 2023-11-19 — DELTA GREEN: LOT 27 EP 5
+- 2023-11-12 — DELTA GREEN: LOT 27 EP 4
+- 2023-11-05 — DELTA GREEN: LOT 27 EP 3
+- 2023-10-29 — DELTA GREEN: LOT 27 EP 2
+- 2023-10-22 — DELTA GREEN: LOT 27 EP 1
+- 2023-10-15 — DELTA GREEN: CONVERGENCE EP 18 (THE EPILOGUES)
+- 2023-10-08 — DELTA GREEN: CONVERGENCE EP 17 (AFTER ACTIO REPORT)
+- 2023-09-30 — DELTA GREEN: CONVERGENCE EP 16
+- 2023-09-24 — DELTA GREEN: CONVERGENCE EP 15
+- 2023-09-17 — DELTA GREEN: CONVERGENCE EP 14
+- 2023-09-10 — DELTA GREEEN: CONVERGENCE EP 13
+- 2023-09-02 — DELTA GREEN: CONVERGENCE EP 12
+- 2023-08-27 — DELTA GREEN: CONVERGENCE EP 11
+- 2023-08-19 — DELTA GREEN: CONVERGENCE EP 10
+- 2023-08-13 — DELTA GREEN: CONVERGENCE EP 9
+- 2023-08-06 — DELTA GREEN: CONVERGENCE EP 8
+- 2023-07-30 — DELTA GREEN: CONVERGENCE EP 7
+- 2023-07-23 — DELTA GREEN: CONVERGENCE EP 6 (Agents Insights)
+- 2023-07-16 — DELTA GREEN: CONVERGENCE EP 5
+- 2023-07-08 — DELTA GREEN: CONVERGENCE EP 4
+- 2023-07-01 — DELTA GREEN: CONVERGENCE EP 3
+- 2023-06-24 — DELTA GREEN: CONVERGENCE EP 2
+- 2023-06-18 — DELTA GREEN: CONVERGENCE EP 1
+- 2023-06-10 — DELTA GREEN: CONVERGENCE EP 0 (THE PROLOGUES)
+- 2023-06-04 — BLOOD LORDS: EP 19 (HARD SLINGERS OF YORE PANEL)
+- 2023-05-28 — BLOOD LORDS: EP 18 — speakers: De La Cruz
+- 2023-05-21 — BLOOD LORDS: EP 17 (PT 2)
+- 2023-05-21 — BLOOD LORDS: EP 17 (PT 1)
+- 2023-05-14 — BLOOD LORDS: EP 16
+- 2023-05-07 — BLOOD LORDS: EP 15
+- 2023-04-30 — BLOOD LORDS: EP 14
+- 2023-04-24 — BLOOD LORDS: EP 13
+- 2023-04-16 — DELTA GREEN: UNDER A PALE MOON (EP8: AFTER ACTION REPORT)
+- 2023-04-09 — DELTA GREEN: UNDER A PALE MOON (EP 7: THE EPILOGUES)
+- 2023-04-02 — DELTA GREEN: UNDER A PALE MOON (EP 6)
+- 2023-03-26 — DELTA GREEN: UNDER A PALE MOON (EP 5)
+- 2023-03-19 — DELTA GREEN: UNDER A PALE MOON (EP 4)
+- 2023-03-12 — DELTA GREEN: UNDER A PALE MOON (EP3)
+- 2023-03-05 — DELTA GREEN: UNDER A PALE MOON (EP 2)
+- 2023-02-26 — DELTA GREEN: UNDER A PALE MOON (EP 1)
 - 2023-02-19 — BLOOD LORDS: EP 12
 - 2023-02-12 — BLOOD LORDS: EP 11
 - 2023-02-05 — BLOOD LORDS: EP 10
@@ -5977,7 +5812,7 @@
 - 2022-08-21 — THE DRAGON'S DEMAND EP 59: NO MORE GIBBER JABBER
 - 2022-08-14 — THE DRAGON'S DEMAND EP 58: THE DRAGON'S DEMAND
 - 2022-08-07 — THE DRAGON'S DEMAND EP 57: READY. SET. AUCTION!
-- 2022-08-01 — THE DRAGON'S DEMAND EP 56: BAKKUS INTO A DEAL — speakers: GqgCeCOMsgY Listen
+- 2022-08-01 — THE DRAGON'S DEMAND EP 56: BAKKUS INTO A DEAL
 - 2022-07-24 — THE DRAGON'S DEMAND EP 55: GRELL PROBLEMS
 - 2022-07-17 — THE DRAGON'S DEMAND EP 54: DIRE SITUATION
 - 2022-07-10 — THE DRAGON'S DEMAND EP 53: FATHER HAMMERBANE
@@ -5991,7 +5826,7 @@
 - 2022-05-01 — THE DRAGON'S DEMAND EP 47: GET THAT DEVIL
 - 2022-04-16 — THE DRAGON'S DEMAND EP 46: SWING ON THIS
 - 2022-03-27 — THE DRAGON'S DEMAND EP 45: YOU LITTLE DEVIL
-- 2022-03-13 — THE DRAGON'S DEMAND EP 44: WE FOUND IT — speakers: fVLXZLrWfHs Listen
+- 2022-03-13 — THE DRAGON'S DEMAND EP 44: WE FOUND IT
 - 2022-03-06 — THE DRAGON'S DEMAND EP 43: ENTER VALLIDYR
 - 2022-02-27 — THE DRAGON'S DEMAND EP 42: THE SCHIR POWER
 - 2022-02-25 — DELTA GREEN: SWEETNESS PT 5
@@ -6009,7 +5844,7 @@
 - 2021-12-05 — THE DRAGON'S DEMAND EP 35: HUNCLAY'S LIBRARY
 - 2021-11-28 — THE DRAGON'S DEMAND EP 34: HELPING THE HELP
 - 2021-11-21 — THE DRAGON'S DEMAND EP 33: TAKING INVENTORY
-- 2021-11-14 — THE DRAGON'S DEMAND EP 32: ENTER... DEMPSEY
+- 2021-11-14 — THE DRAGON'S DEMAND EP 32: ENTER... DEMPSEY — speakers: Apple Podcasts, Amazon Podcasts
 - 2021-11-07 — THE DRAGON'S DEMAND EP 31: THE PROLOGUE — speakers: Apple Podcasts, Amazon Podcasts
 - 2021-10-31 — THE DRAGON'S DEMAND EP 31: BACK TO BELHAIM — speakers: Apple Podcasts, Amazon Podcasts
 - 2021-10-24 — THE DRAGON'S DEMAND EP 30: WHAT THE BARONESS DOESN'T KNOW — speakers: Apple Podcasts, Amazon Podcasts
@@ -6030,23 +5865,23 @@
 - 2021-05-22 — THE DRAGON'S DEMAND EP 16: HUNCLAY'S MANOR — speakers: Apple Podcasts
 - 2021-05-22 — DELTA GREEN: FUTURE / PERFECT (EP 4) — speakers: Apple Podcasts
 - 2021-05-16 — DELTA GREEN: FUTURE / PERFECT (EP 3) — speakers: Apple Podcasts
-- 2021-05-09 — DELTA GREEN: FUTURE / PERFECT (EP 2)
-- 2021-05-02 — DELTA GREEN: FUTURE / PERFECT (EP 1)
-- 2021-04-24 — THE DRAGON'S DEMAND EP 15: THE GRAYHANDS TAVERN
-- 2021-04-17 — ROLLING FOR 20: HANDLER ON HANDLER
-- 2021-04-10 — THE DRAGON'S DEMAND EP 14: EXPLORING BELHAIM
-- 2021-04-04 — THE DRAGON'S DEMAND EP 13: LUCKY NUMBER 13
-- 2021-03-27 — THE HARD SLINGERS PANEL
-- 2021-03-21 — THE CARRION CROWN EP 41: DON'T TALOS IT'S TIME TO GO!
-- 2021-03-13 — THE CARRION CROWN EP 40: THE BONEYARD
-- 2021-03-07 — THE DRAGON'S DEMAND EP 12: IN THE LIGHT OF THE NIGHT
-- 2021-02-26 — THE DRAGON'S DEMAND EP 11: KOBOLD CRISIS
-- 2021-02-21 — THE DRAGON'S DEMAND EP 10: GROUND ZERO
-- 2021-02-14 — THE DRAGON'S DEMAND EP 9: STRANGER DANGER
-- 2021-02-07 — THE DRAGON'S DEMAND EP 8: PIT STOP
-- 2021-01-24 — THE DRAGON'S DEMAN EP 7: SOYLENT GREEN
+- 2021-05-09 — DELTA GREEN: FUTURE / PERFECT (EP 2) — speakers: Apple Podcasts
+- 2021-05-02 — DELTA GREEN: FUTURE / PERFECT (EP 1) — speakers: Apple Podcasts
+- 2021-04-24 — THE DRAGON'S DEMAND EP 15: THE GRAYHANDS TAVERN — speakers: Apple Podcasts
+- 2021-04-17 — ROLLING FOR 20: HANDLER ON HANDLER — speakers: Apple Podcasts
+- 2021-04-10 — THE DRAGON'S DEMAND EP 14: EXPLORING BELHAIM — speakers: Apple Podcasts
+- 2021-04-04 — THE DRAGON'S DEMAND EP 13: LUCKY NUMBER 13 — speakers: Apple Podcasts
+- 2021-03-27 — THE HARD SLINGERS PANEL — speakers: Apple Podcasts
+- 2021-03-21 — THE CARRION CROWN EP 41: DON'T TALOS IT'S TIME TO GO! — speakers: Apple Podcasts
+- 2021-03-13 — THE CARRION CROWN EP 40: THE BONEYARD — speakers: Apple Podcasts
+- 2021-03-07 — THE DRAGON'S DEMAND EP 12: IN THE LIGHT OF THE NIGHT — speakers: Apple Podcasts
+- 2021-02-26 — THE DRAGON'S DEMAND EP 11: KOBOLD CRISIS — speakers: Apple Podcasts
+- 2021-02-21 — THE DRAGON'S DEMAND EP 10: GROUND ZERO — speakers: Apple Podcasts
+- 2021-02-14 — THE DRAGON'S DEMAND EP 9: STRANGER DANGER — speakers: Apple Podcasts
+- 2021-02-07 — THE DRAGON'S DEMAND EP 8: PIT STOP — speakers: Apple Podcasts
+- 2021-01-24 — THE DRAGON'S DEMAN EP 7: SOYLENT GREEN — speakers: Apple Podcasts
 - 2021-01-17 — THE DRAGON'S DEMAND EP 6: QUOTH THE RAVEN
-- 2021-01-10 — THE DRAGON'S DEMAND EP 5: A SHOCKING SITUATION
+- 2021-01-10 — THE DRAGON'S DEMAND EP 5: A SHOCKING SITUATION — speakers: Apple Podcasts
 - 2021-01-02 — THE DRAGON'S DEMAND EP 4: THE OLD HUNGER REMAINS
 - 2020-12-27 — DELTA GREEN: A VICTIM OF THE ART (PT 5) - THE FINALE
 - 2020-12-20 — DELTA GREEN: A VICTIM OF THE ART (PT 4)
@@ -6054,14 +5889,14 @@
 - 2020-12-12 — THE DRAGON'S DEMAND EP 3: THE CENT OF A PEDE
 - 2020-12-04 — DELTA GREEN: A VICTIM OF THE ART (PT 2)
 - 2020-11-28 — DELTA GREEN: A VICTIM OF THE ART (PT 1)
-- 2020-11-22 — THE DRAGON'S DEMAND EP 2: THE RUINS OF WITCH TOWER — speakers: Hidden ShrineofTamoachan
+- 2020-11-22 — THE DRAGON'S DEMAND EP 2: THE RUINS OF WITCH TOWER
 - 2020-11-15 — THE DRAGON'S DEMAND EP 1: WE WERE DEFENDING WHAT?
 - 2020-11-05 — DELTA GREEN: SINS OF THE FATHER (PT 2)
 - 2020-10-30 — DELTA GREEN: SINS OF THE FATHER (PT 1)
 - 2020-10-24 — HIDDEN SHRINE OF TAMOACHAN EP 10: ZOTZILAHA & THE GIVING TREE
 - 2020-10-18 — HIDDEN SHRINE OF TAMOACHAN EP 9: DASA ZOTZ & HER BOY SHACK
 - 2020-10-17 — DELTA GREEN EP 3: LAST THINGS LAST (PT 3)
-- 2020-10-07 — DELTA GREEN EP 2: LAST THINGS LAST (PT 2) — speakers: Hidden ShrineofTamoachan
+- 2020-10-07 — DELTA GREEN EP 2: LAST THINGS LAST (PT 2)
 - 2020-10-04 — DELTA GREEN EP 1: LAST THINGS LAST (PT 1)
 - 2020-09-19 — HIDDEN SHRINE OF TAMOACHAN EP 8: WATERLOGGED
 - 2020-09-11 — HIDDEN SHRINE OF TAMOACHAN EP 7: THE LORD OF THE SNAILS
@@ -6072,7 +5907,7 @@
 - 2020-08-08 — HIDDEN SHRINE OF TAMOACHAN EP 2: MUDSUCKERS
 - 2020-08-01 — HIDDEN SHRINE OF TAMOACHAN EP 1: BUNGLE IN THE JUNGLE
 - 2020-07-26 — THE SALTMARSH WRAP-UP
-- 2020-07-25 — THE SINISTER SECRET OF SALTMARSH (SESSION 10 PT 2) — speakers: Sinister Secret
+- 2020-07-25 — THE SINISTER SECRET OF SALTMARSH (SESSION 10 PT 2)
 - 2020-07-19 — THE SINISTER SECRET OF SALTMARSH (SESSION 10 PT 1)
 - 2020-07-17 — THE SINISTER SECRET OF SALTMARSH (SESSION 9)
 - 2020-07-04 — THE CARRION CROWN EP 39: WHO WANTS SOME MORAST?

@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NzEzMjgxMzkyNTg="`
+- fetched_at: `2026-02-24T21:52:51+00:00`
+- checked_at: `2026-02-24T21:52:51+00:00`
+- etag: `"djEuMi4wOjE3NzE5NjEzNTgwNTk="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T21:52:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "a8eab0068d206e96b3bfb4965c1c6af22c977363",
+      "title": "The Between 28 - Trust",
+      "published_at": "2026-02-24T19:29:17+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/the-between-28-trust",
+      "description": "A tarot reading goes very wrong, a promise of trust turns intimate, and Mr. Melmouth's play begins to change for someone it was never meant to welcome. (Part 28) This series is not suitable for listeners under the age of 18 and may contain material some people find disturbing. CONTENT WARNINGS: sexual content, bondage, body horror, references to a child’s death (off-screen), spiritual themes, gaslighting, violence, profanity Player Characters Jason Cordova as Keeper Scott Dorward as Sebastian Melmoth Josephine McAdam as Moyra Innes Nic Rosenberg as Viola Archer cuppycup as Edward Quiet Production and Creative The Between system by The Gauntlet Editing by cuppycup and Scott Dorward Sound Design and Production by cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1771961077193-6424eb05-0915-476d-b9a0-8e4f7cd70fe5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/699dfc0ea4a9e6b7fd745a4e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95249676",
+      "itunes_duration": "49:36",
+      "speakers": [],
+      "topics": [
+        "trust"
+      ]
+    },
     {
       "key": "1ba5bb83090a8fc073f3c905eed5be28f501ecd0",
       "title": "The Between 27 - Marionettes",
@@ -37,13 +53,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85816343",
       "itunes_duration": "44:41",
-      "speakers": [
-        "Player Characters Jason Cordova",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
-      ],
+      "speakers": [],
       "topics": [
         "marionette"
       ]
@@ -60,11 +70,7 @@
       "enclosure_length": "113110751",
       "itunes_duration": "58:54",
       "speakers": [
-        "Player Characters Jason Cordova",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
+        "Behind Masks"
       ],
       "topics": [
         "mask"
@@ -81,13 +87,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121344544",
       "itunes_duration": "1:03:11",
-      "speakers": [
-        "Player Characters Jason Cordova",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
-      ],
+      "speakers": [],
       "topics": [
         "senseless"
       ]
@@ -104,12 +104,7 @@
       "enclosure_length": "115030853",
       "itunes_duration": "59:54",
       "speakers": [
-        "Kew Gardens",
-        "Player Characters Jason Cordova",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
+        "Kew Gard"
       ],
       "topics": [
         "green"
@@ -127,11 +122,8 @@
       "enclosure_length": "106623183",
       "itunes_duration": "55:31",
       "speakers": [
-        "Player Characters Jason Cordova",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
+        "Viewing Morning",
+        "Hargrave House"
       ],
       "topics": [
         "viewing"
@@ -148,12 +140,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95676837",
       "itunes_duration": "49:49",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
-      ],
+      "speakers": [],
       "topics": [
         "bloodthirsty"
       ]
@@ -170,10 +157,7 @@
       "enclosure_length": "89477671",
       "itunes_duration": "46:36",
       "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
+        "Viscera Acquired London"
       ],
       "topics": [
         "viscera",
@@ -192,11 +176,7 @@
       "enclosure_length": "101738910",
       "itunes_duration": "52:59",
       "speakers": [
-        "Edward Quiet",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Edward Quiet Production"
+        "Quiet Hargrave House"
       ],
       "topics": [
         "between",
@@ -214,16 +194,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114453245",
       "itunes_duration": "59:36",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "curse"
       ]
@@ -239,16 +210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98427854",
       "itunes_duration": "51:15",
-      "speakers": [
-        "Choking Sounds",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "viper"
       ]
@@ -264,16 +226,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100200828",
       "itunes_duration": "52:11",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "meeting"
@@ -290,16 +243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74632589",
       "itunes_duration": "38:52",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "check"
       ]
@@ -315,16 +259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89674942",
       "itunes_duration": "46:42",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "figg",
         "pigs"
@@ -341,16 +276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107096324",
       "itunes_duration": "55:46",
-      "speakers": [
-        "Wrist Cutting",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "time"
       ]
@@ -367,14 +293,7 @@
       "enclosure_length": "105221366",
       "itunes_duration": "54:48",
       "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
+        "James Stre"
       ],
       "topics": [
         "creature",
@@ -392,16 +311,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121649659",
       "itunes_duration": "1:03:21",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "long",
         "night"
@@ -418,16 +328,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124678194",
       "itunes_duration": "1:04:56",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "past"
@@ -444,16 +345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114922192",
       "itunes_duration": "59:51",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "moths",
         "flame"
@@ -470,16 +362,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95296489",
       "itunes_duration": "49:37",
-      "speakers": [
-        "Body Horror",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "between",
         "roped"
@@ -497,14 +380,7 @@
       "enclosure_length": "93531033",
       "itunes_duration": "48:42",
       "speakers": [
-        "Body Horror",
-        "Eating Noises",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp"
+        "Dark Sebastian"
       ],
       "topics": [
         "dark"
@@ -521,16 +397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97513354",
       "itunes_duration": "50:47",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "flowers",
         "fang"
@@ -547,16 +414,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111893661",
       "itunes_duration": "58:16",
-      "speakers": [
-        "Body Horror",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "night",
         "opera"
@@ -573,16 +431,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104578539",
       "itunes_duration": "54:28",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "limehouse",
         "lurker"
@@ -600,14 +449,7 @@
       "enclosure_length": "108695442",
       "itunes_duration": "56:36",
       "speakers": [
-        "Body Horror",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
+        "Hargrave House"
       ],
       "topics": [
         "cutest",
@@ -626,14 +468,7 @@
       "enclosure_length": "89655719",
       "itunes_duration": "46:41",
       "speakers": [
-        "Body Horror",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
+        "Night Phase"
       ],
       "topics": [
         "baby"
@@ -650,16 +485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93896346",
       "itunes_duration": "48:54",
-      "speakers": [
-        "Ginny Hess",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "james",
         "street",
@@ -677,16 +503,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99563870",
       "itunes_duration": "51:51",
-      "speakers": [
-        "Penny Dreadful",
-        "Keeper Scott Dorward",
-        "Sebastian Melmoth",
-        "Nic Rosenberg",
-        "Archer Corbin Cupp",
-        "Roland Kessler",
-        "Corbin Cupp",
-        "Scott Dorward Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "welcome",
         "hargrave",
@@ -705,13 +522,7 @@
       "enclosure_length": "76157276",
       "itunes_duration": "39:39",
       "speakers": [
-        "Silas Jacobsen",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Wes Davis",
-        "Isabella Mike Perceval-Maxwell",
-        "Cody Fry Patreon"
+        "Silas Jacobsen"
       ],
       "topics": [
         "bleeker",
@@ -733,13 +544,8 @@
       "enclosure_length": "171892491",
       "itunes_duration": "1:29:31",
       "speakers": [
-        "Content Warnings",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Cody Mike Perceval-Maxwell",
-        "Cody Fry Patreon"
+        "Bleeker Trails",
+        "Undertow Julius"
       ],
       "topics": [
         "bleeker",
@@ -760,12 +566,7 @@
       "enclosure_length": "98271491",
       "itunes_duration": "51:10",
       "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Virginia Lee",
-        "Cody Fry Patreon"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -785,16 +586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111621947",
       "itunes_duration": "58:08",
-      "speakers": [
-        "Body Horror",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Eli Malcolm Wes Davis",
-        "Silas Jacobsen",
-        "Scott Dorward"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -814,14 +606,7 @@
       "enclosure_length": "140686830",
       "itunes_duration": "1:13:16",
       "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Eli Malcolm Wes Davis",
-        "Silas Jacobsen",
-        "Madam Chu",
-        "Judy Kline"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -842,14 +627,7 @@
       "enclosure_length": "125545834",
       "itunes_duration": "1:05:23",
       "speakers": [
-        "Content Warnings",
-        "Eye Trauma",
-        "Animal Death",
-        "Forced Restraint",
-        "Violence Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -869,14 +647,7 @@
       "enclosure_length": "128134680",
       "itunes_duration": "1:06:44",
       "speakers": [
-        "Violence Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Moni Rina Haenze",
-        "Kim Dalton",
-        "Sally Winthrop",
-        "Shawn Smith"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -897,14 +668,7 @@
       "enclosure_length": "109865682",
       "itunes_duration": "57:13",
       "speakers": [
-        "Content Warnings",
-        "Violence Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Moni Rina Haenze",
-        "Brandon Wainerdi",
-        "Jay Arnold"
+        "multiple mouths"
       ],
       "topics": [
         "bleeker",
@@ -924,16 +688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107078740",
       "itunes_duration": "55:46",
-      "speakers": [
-        "Content Warnings",
-        "Violence Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Moni Rina Haenze",
-        "Brandon Wainerdi",
-        "Kim Dalton"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -952,14 +707,8 @@
       "enclosure_length": "119619181",
       "itunes_duration": "1:02:18",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Violence Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Julius Ruffin Chuck",
-        "Eli Malcolm Wes"
+        "Bleeker Trails",
+        "Water Julius"
       ],
       "topics": [
         "bleeker",
@@ -979,16 +728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143315786",
       "itunes_duration": "1:14:38",
-      "speakers": [
-        "Coercion Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Julius Ruffin Chuck",
-        "Eli Malcolm Wes",
-        "Silas Jacobsen",
-        "Alexandra DeBourbon Shawn Smith"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -1006,16 +746,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105000634",
       "itunes_duration": "54:41",
-      "speakers": [
-        "Salvatore Barbosa",
-        "Content Warnings",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Dialogue",
-        "Sound Designer",
-        "Julius Ruffin Chuck",
-        "Eli Malcolm Wes",
-        "Silas Jacobsen Npc"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -1035,14 +766,9 @@
       "enclosure_length": "106099889",
       "itunes_duration": "55:15",
       "speakers": [
-        "Will Chester",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Eli Malcolm Wes",
-        "Silas Jacobsen"
+        "Bleeker Trails",
+        "Downhill Join",
+        "El Capit"
       ],
       "topics": [
         "bleeker",
@@ -1062,11 +788,7 @@
       "enclosure_length": "93525154",
       "itunes_duration": "48:42",
       "speakers": [
-        "Paula Deming",
-        "Roberta Ross Bryant",
-        "Peter Gina DeVivo",
-        "David Production",
-        "Victoria Cheng"
+        "Last Halloween"
       ],
       "topics": [
         "houdini",
@@ -1086,11 +808,7 @@
       "enclosure_length": "104390420",
       "itunes_duration": "54:22",
       "speakers": [
-        "Paula Deming",
-        "Roberta Ross Bryant",
-        "Peter Gina DeVivo",
-        "David Production",
-        "Victoria Cheng"
+        "Last Halloween"
       ],
       "topics": [
         "houdini",
@@ -1110,12 +828,7 @@
       "enclosure_length": "129180423",
       "itunes_duration": "1:07:16",
       "speakers": [
-        "Harry Houdini",
-        "Paula Deming",
-        "Roberta Ross Bryant",
-        "Peter Gina DeVivo",
-        "David Production",
-        "Victoria Cheng"
+        "Harry Houdini"
       ],
       "topics": [
         "houdini",
@@ -1135,13 +848,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106180952",
       "itunes_duration": "55:18",
-      "speakers": [
-        "Keeper Mary Lou",
-        "Nic Rosenberg",
-        "Dorothy Larsen Scott Dorward",
-        "Martin McClintock Corbin Cupp",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "specter",
         "ending",
@@ -1159,13 +866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113859693",
       "itunes_duration": "59:18",
-      "speakers": [
-        "Keeper Mary Lou",
-        "Nic Rosenberg",
-        "Dorothy Larsen Scott Dorward",
-        "Martin McClintock Corbin Cupp",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "specter",
         "fetter"
@@ -1183,12 +884,7 @@
       "enclosure_length": "117185813",
       "itunes_duration": "1:01:02",
       "speakers": [
-        "Wilhelm Vogler",
-        "Keeper Mary Lou",
-        "Nic Rosenberg",
-        "Dorothy Larsen Scott Dorward",
-        "Martin McClintock Corbin Cupp",
-        "Tomboi LaCroix"
+        "Wilhelm Vogler"
       ],
       "topics": [
         "specter",
@@ -1206,14 +902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141737577",
       "itunes_duration": "1:13:49",
-      "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Mir Nic Rosenberg",
-        "Darby Ross Bryant",
-        "Terrence Corbin Cupp"
-      ],
+      "speakers": [],
       "topics": [
         "cosmic",
         "dark",
@@ -1235,12 +924,8 @@
       "enclosure_length": "178908358",
       "itunes_duration": "1:33:10",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Mir Nic Rosenberg",
-        "Darby Ross Bryant",
-        "Terrence Corbin Cupp"
+        "Cosmic Dark Campaign",
+        "Invisible Hand"
       ],
       "topics": [
         "cosmic",
@@ -1261,13 +946,7 @@
       "enclosure_length": "131760467",
       "itunes_duration": "1:31:28",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "GM Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Darby Ross Bryant",
-        "Terrence Edited"
+        "nightfall approaching"
       ],
       "topics": [
         "cosmic",
@@ -1288,12 +967,8 @@
       "enclosure_length": "109006592",
       "itunes_duration": "1:15:40",
       "speakers": [
-        "Content Warnings",
-        "Graham Walmsley",
-        "GM Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Darby Ross Bryant",
-        "Terrence Edited"
+        "Cosmic Dark Campaign",
+        "Every Sunset"
       ],
       "topics": [
         "cosmic",
@@ -1314,12 +989,8 @@
       "enclosure_length": "102453333",
       "itunes_duration": "1:11:07",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Mir Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Darby Ross Bryant"
+        "Cosmic Dark Campaign",
+        "Every Sunrise"
       ],
       "topics": [
         "cosmic",
@@ -1340,11 +1011,8 @@
       "enclosure_length": "105611015",
       "itunes_duration": "1:13:19",
       "speakers": [
-        "Content Warnings",
-        "Graham Walmsley",
-        "Mir Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Darby Ross Bryant"
+        "Cosmic Dark Campaign",
+        "Every Sunrise"
       ],
       "topics": [
         "cosmic",
@@ -1365,12 +1033,7 @@
       "enclosure_length": "138057347",
       "itunes_duration": "1:35:51",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Terrance Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Ross Bryant"
+        "Cosmic Dark Campaign"
       ],
       "topics": [
         "cosmic",
@@ -1390,14 +1053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96927364",
       "itunes_duration": "1:07:16",
-      "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Terrance Corbin Cupp",
-        "Marius Nic Rosenberg",
-        "Ross Bryant"
-      ],
+      "speakers": [],
       "topics": [
         "cosmic",
         "dark",
@@ -1417,12 +1073,8 @@
       "enclosure_length": "106980847",
       "itunes_duration": "1:14:16",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Terrance Corbin Cupp",
-        "Nic Rosenberg",
-        "Ross Bryant"
+        "Cosmic Dark Campaign",
+        "Time Murder"
       ],
       "topics": [
         "cosmic",
@@ -1444,12 +1096,8 @@
       "enclosure_length": "211062791",
       "itunes_duration": "1:49:55",
       "speakers": [
-        "Content Warnings",
-        "Body Horror",
-        "Graham Walmsley",
-        "Terrance Corbin Cupp",
-        "Nic Rosenberg",
-        "Ross Bryant"
+        "Cosmic Dark Campaign",
+        "Time Murder"
       ],
       "topics": [
         "cosmic",
@@ -1470,14 +1118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118303443",
       "itunes_duration": "1:01:36",
-      "speakers": [
-        "GM Nic Rosenberg",
-        "Penny Wheatley Ross Bryant",
-        "Corbin Cupp",
-        "Creative Edited",
-        "Rina Haenze",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "bread",
         "sour",
@@ -1495,15 +1136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109010550",
       "itunes_duration": "56:46",
-      "speakers": [
-        "Graham Walmsley",
-        "GM Nic Rosenberg",
-        "Penny Wheatley Ross Bryant",
-        "Corbin Cupp",
-        "Creative Edited",
-        "Rina Haenze",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "bread",
         "magic",
@@ -1522,14 +1155,8 @@
       "enclosure_length": "105614223",
       "itunes_duration": "55:00",
       "speakers": [
-        "Stephen Wall",
-        "Mary Cook Bridgett Jeffries",
-        "Lisa Hernandez",
-        "Becca Scott",
-        "Bernadette Flowers Nic Rosenberg",
-        "Kathy Edwards",
-        "Creative Edited",
-        "Scott Dorward"
+        "Somebody Think",
+        "Way Down"
       ],
       "topics": [
         "children",
@@ -1548,14 +1175,7 @@
       "enclosure_length": "111239945",
       "itunes_duration": "57:56",
       "speakers": [
-        "Stephen Wall",
-        "Lewd Humor",
-        "Mary Cook Bridgett Jeffries",
-        "Lisa Hernandez",
-        "Becca Scott",
-        "Bernadette Flowers Nic Rosenberg",
-        "Kathy Edwards",
-        "Creative Edited"
+        "Somebody Think"
       ],
       "topics": [
         "children",
@@ -1575,14 +1195,7 @@
       "enclosure_length": "104527538",
       "itunes_duration": "54:26",
       "speakers": [
-        "Stephen Wall",
-        "Mary Cook Bridgett Jeffries",
-        "Lisa Hernandez",
-        "Becca Scott",
-        "Bernadette Flowers Nic Rosenberg",
-        "Kathy Edwards",
-        "Creative Edited",
-        "Scott Dorward"
+        "Somebody Think"
       ],
       "topics": [
         "children",
@@ -1602,11 +1215,9 @@
       "enclosure_length": "105237259",
       "itunes_duration": "54:48",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory",
+        "Desperation Miskatonic Shoreside Conservatory",
+        "Patreon Feed"
       ],
       "topics": [
         "miskatonic",
@@ -1628,11 +1239,8 @@
       "enclosure_length": "113552965",
       "itunes_duration": "59:08",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory",
+        "Patreon Fe"
       ],
       "topics": [
         "miskatonic",
@@ -1653,12 +1261,7 @@
       "enclosure_length": "98804853",
       "itunes_duration": "51:27",
       "speakers": [
-        "Nonconsensual Kissing",
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory"
       ],
       "topics": [
         "miskatonic",
@@ -1679,11 +1282,8 @@
       "enclosure_length": "100569491",
       "itunes_duration": "52:22",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory",
+        "Patreon Fe"
       ],
       "topics": [
         "miskatonic",
@@ -1704,11 +1304,8 @@
       "enclosure_length": "89287097",
       "itunes_duration": "46:30",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory",
+        "Patreon Feed"
       ],
       "topics": [
         "miskatonic",
@@ -1728,11 +1325,7 @@
       "enclosure_length": "106807115",
       "itunes_duration": "55:37",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory"
       ],
       "topics": [
         "miskatonic",
@@ -1754,11 +1347,8 @@
       "enclosure_length": "89931588",
       "itunes_duration": "46:50",
       "speakers": [
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shoreside Conservatory",
+        "Miskatonic Shoreside Conser"
       ],
       "topics": [
         "miskatonic",
@@ -1781,11 +1371,7 @@
       "itunes_duration": "54:02",
       "speakers": [
         "Miskatonic Shoreside Conservatory",
-        "Lucy Nic Rosenberg",
-        "Natasha Corbin Cupp",
-        "Graham Walmsley",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Miskatonic Shor"
       ],
       "topics": [
         "miskatonic",
@@ -1806,14 +1392,7 @@
       "enclosure_length": "94427096",
       "itunes_duration": "49:10",
       "speakers": [
-        "Tomboi LaCroix",
-        "Cedric Barlow Nic Rosenberg",
-        "Louise Jordan Ross Bryant",
-        "Corbin Cupp",
-        "Karl Madison",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon"
+        "Patreon Fee"
       ],
       "topics": [
         "lakeview",
@@ -1831,16 +1410,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113034634",
       "itunes_duration": "58:52",
-      "speakers": [
-        "Cedric Barlow Nic Rosenberg",
-        "Louise Jordan Ross Bryant",
-        "Corbin Cupp",
-        "Karl Madison",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "lakeview",
         "escape"
@@ -1857,16 +1427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102467795",
       "itunes_duration": "53:22",
-      "speakers": [
-        "Cedric Barlow Nic Rosenberg",
-        "Louise Jordan Ross Bryant",
-        "Corbin Cupp",
-        "Karl Madison",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos"
-      ],
+      "speakers": [],
       "topics": [
         "checking"
       ]
@@ -1882,16 +1443,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125998952",
       "itunes_duration": "1:05:37",
-      "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "lengian",
         "mountains",
@@ -1909,16 +1461,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91834120",
       "itunes_duration": "47:49",
-      "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "lengian",
         "pressure"
@@ -1935,16 +1478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92027220",
       "itunes_duration": "47:55",
-      "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "lengian",
         "trolloping"
@@ -1961,16 +1495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94458068",
       "itunes_duration": "49:11",
-      "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "lengian",
         "sibleng"
@@ -1987,16 +1512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89947453",
       "itunes_duration": "46:50",
-      "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "lengian",
         "surprise"
@@ -2014,14 +1530,7 @@
       "enclosure_length": "92759483",
       "itunes_duration": "48:18",
       "speakers": [
-        "Diamond Luke",
-        "Vicki Corbin Cupp",
-        "Artie Production",
-        "Creative Edited",
-        "Scott Dorward",
-        "Corbin Cupp Patreon",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Book Room Four"
       ],
       "topics": [
         "lengian",
@@ -2041,14 +1550,7 @@
       "enclosure_length": "107926389",
       "itunes_duration": "56:12",
       "speakers": [
-        "Gina Scott Dorward",
-        "Anne Rina Haenze",
-        "Nancy Corbin Cupp",
-        "Kiersten Production",
-        "Creative Edited",
-        "Rina Haenze",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Christmas Stalking"
       ],
       "topics": [
         "christmas",
@@ -2068,14 +1570,9 @@
       "enclosure_length": "137621557",
       "itunes_duration": "1:11:40",
       "speakers": [
-        "Gina Scott Dorward",
-        "Anne Rina Haenze",
-        "Nancy Corbin Cupp",
-        "Kiersten Production",
-        "Creative Edited",
-        "Rina Haenze",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
+        "Christmas Stalking",
+        "Housetop Tensions",
+        "Patreon Feed"
       ],
       "topics": [
         "christmas",
@@ -2094,16 +1591,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93011927",
       "itunes_duration": "48:26",
-      "speakers": [
-        "Body Horror",
-        "Elliott James Real",
-        "Dusty Dean",
-        "Elliott James Cosplay",
-        "Tahalanan Christopher Lee",
-        "Gary Kaplan",
-        "Mary Lou",
-        "Mel McCoy"
-      ],
+      "speakers": [],
       "topics": [
         "backwards",
         "fire",
@@ -2121,16 +1609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88514689",
       "itunes_duration": "46:06",
-      "speakers": [
-        "Body Horror",
-        "Gary Kaplan",
-        "Mary Lou",
-        "Mel McCoy",
-        "Creative Edited",
-        "Scott Dorward",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "backwards",
         "power",
@@ -2148,15 +1627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91946965",
       "itunes_duration": "47:53",
-      "speakers": [
-        "Gary Kaplan",
-        "Mary Lou",
-        "Mel McCoy",
-        "Creative Edited",
-        "Scott Dorward",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "gimghoul",
         "castle"
@@ -2173,15 +1644,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95726984",
       "itunes_duration": "49:51",
-      "speakers": [
-        "Gary Kaplan",
-        "Mary Lou",
-        "Mel McCoy",
-        "Creative Edited",
-        "Scott Dorward",
-        "Shoutout Althalos",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "backwards",
         "scream",
@@ -2200,13 +1663,7 @@
       "enclosure_length": "102439425",
       "itunes_duration": "53:21",
       "speakers": [
-        "Guest Keeper",
-        "Harlan Guthrie",
-        "Walt Scott Dorward",
-        "Albert Corbin Cupp",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix New Patrons"
+        "Guest Kee"
       ],
       "topics": [
         "waking",
@@ -2227,13 +1684,7 @@
       "itunes_duration": "47:43",
       "speakers": [
         "Guest Keeper",
-        "Harlan Guthrie",
-        "Walt Scott Dorward",
-        "Albert Corbin Cupp",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix",
-        "Tom Patreon"
+        "Harlan Guthrie"
       ],
       "topics": [
         "waking",
@@ -2252,16 +1703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120949164",
       "itunes_duration": "1:02:59",
-      "speakers": [
-        "Guest Keeper",
-        "Harlan Guthrie",
-        "Body Horror",
-        "Walt Scott Dorward",
-        "Albert Corbin Cupp",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Patrons Lzbn"
-      ],
+      "speakers": [],
       "topics": [
         "waking",
         "children",
@@ -2281,12 +1723,7 @@
       "itunes_duration": "1:13:46",
       "speakers": [
         "Guest Keeper",
-        "Harlan Guthrie",
-        "Walt Scott Dorward",
-        "Albert Corbin Cupp",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Harlan Gu"
       ],
       "topics": [
         "waking",
@@ -2305,16 +1742,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121200737",
       "itunes_duration": "1:03:07",
-      "speakers": [
-        "Zephyr Kat Edmonds",
-        "Ashley Scott Dorward",
-        "Brett Corbin Cupp",
-        "Rina Haenze",
-        "Jack Taylor",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "eclipse",
         "heart"
@@ -2331,16 +1759,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85420102",
       "itunes_duration": "44:29",
-      "speakers": [
-        "Zephyr Kat Edmonds",
-        "Ashley Scott Dorward",
-        "Brett Corbin Cupp",
-        "Rina Haenze",
-        "Jack Taylor",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "eclipse",
         "heart",
@@ -2359,14 +1778,7 @@
       "enclosure_length": "102146830",
       "itunes_duration": "53:12",
       "speakers": [
-        "Zephyr Kat Edmonds",
-        "Ashley Scott Dorward",
-        "Brett Corbin Cupp",
-        "Rina Haenze",
-        "Jack Taylor",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Physical Four"
       ],
       "topics": [
         "eclipse",
@@ -2385,14 +1797,7 @@
       "enclosure_length": "77564151",
       "itunes_duration": "40:23",
       "speakers": [
-        "Alisa Ethnobotany",
-        "Tomboi LaCroix",
-        "Skinner Box",
-        "Tahalanan Nicolas Minovici",
-        "Tomboi LaCroix Collecting",
-        "Merrick Eating",
-        "Alisa Having",
-        "Unique Item Opera"
+        "Patreon Fee"
       ],
       "topics": [
         "science",
@@ -2411,16 +1816,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90996525",
       "itunes_duration": "47:23",
-      "speakers": [
-        "Rita Nic Rosenberg",
-        "Lottie Bridgett Jeffries",
-        "Charles Production",
-        "Creative Improvised",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "science"
       ]
@@ -2437,14 +1833,7 @@
       "enclosure_length": "95150200",
       "itunes_duration": "49:33",
       "speakers": [
-        "Rita Nic Rosenberg",
-        "Lottie Bridgett Jeffries",
-        "Charles Production",
-        "Creative Improvised",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Head First"
       ],
       "topics": [
         "science",
@@ -2462,16 +1851,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "120778500",
       "itunes_duration": "1:02:54",
-      "speakers": [
-        "Ruth Kat Edmonds",
-        "Mary Production",
-        "Creative Blackshade",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "blackshade",
         "dimension"
@@ -2488,16 +1868,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105033977",
       "itunes_duration": "54:42",
-      "speakers": [
-        "Ruth Kat Edmonds",
-        "Mary Production",
-        "Creative Blackshade",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "blackshade",
         "discovery"
@@ -2515,14 +1886,7 @@
       "enclosure_length": "118598425",
       "itunes_duration": "1:01:46",
       "speakers": [
-        "Ruth Kat Edmonds",
-        "Mary Production",
-        "Creative Blackshade",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Disturbance Three"
       ],
       "topics": [
         "blackshade",
@@ -2541,14 +1905,8 @@
       "enclosure_length": "103344701",
       "itunes_duration": "53:49",
       "speakers": [
-        "Graham Walmsley",
-        "Body Horror",
-        "Riggin Rina Haenze",
-        "Gary Production",
-        "Music Selections",
-        "Wes Otis",
-        "Sabrina Haenze",
-        "Shoutout Althalos"
+        "Endless Will",
+        "Cosmic Dark"
       ],
       "topics": [
         "extraction"
@@ -2566,14 +1924,8 @@
       "enclosure_length": "90152238",
       "itunes_duration": "46:57",
       "speakers": [
-        "Graham Walmsley",
-        "Body Horror",
-        "Suicidal Tendencies",
-        "Riggin Rina Haenze",
-        "Gary Production",
-        "Music Selections",
-        "Wes Otis",
-        "Rina Haenze"
+        "Lonely Tensions",
+        "Cosmic Dark"
       ],
       "topics": [
         "extraction"
@@ -2591,14 +1943,7 @@
       "enclosure_length": "105075907",
       "itunes_duration": "54:43",
       "speakers": [
-        "Graham Walmsley",
-        "Suicidal Tendencies",
-        "Riggin Rina Haenze",
-        "Gary Production",
-        "Music Selections",
-        "Wes Otis",
-        "Rina Haenze",
-        "Kevin Berrey"
+        "Graham Walmsley"
       ],
       "topics": [
         "extraction"
@@ -2616,14 +1961,7 @@
       "enclosure_length": "73448922",
       "itunes_duration": "38:15",
       "speakers": [
-        "Body Horror",
-        "Unique Skills",
-        "Tomboi LaCroix",
-        "Ross Bryant",
-        "John Smith Nic",
-        "Silas Blackwood",
-        "Scott Dorward",
-        "Sabrina Haenze"
+        "Give Me Death"
       ],
       "topics": [
         "death",
@@ -2642,13 +1980,7 @@
       "enclosure_length": "70215589",
       "itunes_duration": "36:34",
       "speakers": [
-        "John Smith Nic",
-        "Silas Blackwood",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Give Me Death"
       ],
       "topics": [
         "death",
@@ -2667,14 +1999,7 @@
       "enclosure_length": "79478401",
       "itunes_duration": "41:23",
       "speakers": [
-        "Dandy Jack",
-        "John Smith Nic",
-        "Silas Blackwood",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Dandy Jack"
       ],
       "topics": [
         "death",
@@ -2693,14 +2018,7 @@
       "enclosure_length": "86749219",
       "itunes_duration": "45:10",
       "speakers": [
-        "George Washington",
-        "John Smith Nic",
-        "Silas Blackwood",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "George Washington"
       ],
       "topics": [
         "death",
@@ -2718,16 +2036,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72734215",
       "itunes_duration": "37:52",
-      "speakers": [
-        "Rose Ryan Nanni",
-        "Edward Wes Davis",
-        "Jacob Chuck Lawrence",
-        "Henry Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "light",
         "devil"
@@ -2744,16 +2053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106054761",
       "itunes_duration": "55:14",
-      "speakers": [
-        "Rose Ryan Nanni",
-        "Edward Wes Davis",
-        "Jacob Chuck Lawrence",
-        "Henry Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "light",
         "snow",
@@ -2772,14 +2072,7 @@
       "enclosure_length": "81036558",
       "itunes_duration": "42:12",
       "speakers": [
-        "Murder Shack Splintered",
-        "Alex Wes Davis",
-        "Nic Rosenberg",
-        "Annie Production",
-        "Wes Otis",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Murder Shack Splintered"
       ],
       "topics": [
         "murder",
@@ -2798,14 +2091,7 @@
       "enclosure_length": "80301794",
       "itunes_duration": "41:49",
       "speakers": [
-        "Body Horror",
-        "Alex Wes Davis",
-        "Nic Rosenberg",
-        "Annie Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Murder Shack"
       ],
       "topics": [
         "murder",
@@ -2824,14 +2110,7 @@
       "enclosure_length": "81156093",
       "itunes_duration": "42:16",
       "speakers": [
-        "Murder Shack Survivors",
-        "Alex Wes Davis",
-        "Nic Rosenberg",
-        "Annie Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Murder Shack Survivors"
       ],
       "topics": [
         "murder",
@@ -2850,16 +2129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78308950",
       "itunes_duration": "40:47",
-      "speakers": [
-        "Adrian Nic Rosenberg",
-        "Riz Graham Walmsley",
-        "Kirby Production",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "David Newell",
-        "Steven Horne",
-        "Riz Gukgak"
-      ],
+      "speakers": [],
       "topics": [
         "ministry",
         "fear",
@@ -2878,16 +2148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75434229",
       "itunes_duration": "39:17",
-      "speakers": [
-        "Adrian Nic Rosenberg",
-        "Riz Graham Walmsley",
-        "Kirby Production",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
-      ],
+      "speakers": [],
       "topics": [
         "ministry",
         "fear",
@@ -2906,16 +2167,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93018609",
       "itunes_duration": "48:26",
-      "speakers": [
-        "Fathom Films",
-        "Adrian Nic Rosenberg",
-        "Riz Graham Walmsley",
-        "Kirby Production",
-        "Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "ministry",
         "fear"
@@ -2933,14 +2185,7 @@
       "enclosure_length": "98696993",
       "itunes_duration": "51:24",
       "speakers": [
-        "Death Cave",
-        "Body Horror",
-        "Eye Trauma",
-        "Eugene Scott Dorward",
-        "Sabrina Haenze",
-        "Bad Alex",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Death Cave"
       ],
       "topics": [
         "death",
@@ -2959,11 +2204,7 @@
       "enclosure_length": "86204190",
       "itunes_duration": "44:53",
       "speakers": [
-        "Eugene Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Death Cave"
       ],
       "topics": [
         "death",
@@ -2983,11 +2224,8 @@
       "enclosure_length": "82450916",
       "itunes_duration": "42:56",
       "speakers": [
-        "Eugene Scott Dorward",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix"
+        "Death Cave",
+        "Seekers Join"
       ],
       "topics": [
         "death",
@@ -3007,14 +2245,8 @@
       "enclosure_length": "102861555",
       "itunes_duration": "53:34",
       "speakers": [
-        "Body Horror",
-        "Lewd Humor",
-        "Bonnie Wes Davis",
-        "Sabrina Haenze",
-        "Bad Alex",
-        "Cardinal Catastrophe",
-        "Dusty Dean",
-        "Erik Day"
+        "Factory Records",
+        "Machine Join"
       ],
       "topics": [
         "factory",
@@ -3035,13 +2267,8 @@
       "enclosure_length": "120578841",
       "itunes_duration": "1:02:48",
       "speakers": [
-        "Lewd Humor",
-        "Bonnie Wes Davis",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants",
-        "Tomboi LaCroix",
-        "Daniela Patreon"
+        "Factory Records",
+        "Metal Machine Music Join"
       ],
       "topics": [
         "factory",
@@ -3062,16 +2289,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106534578",
       "itunes_duration": "55:29",
-      "speakers": [
-        "Emma Wentworth",
-        "Josephine McAdam",
-        "Jane Radcliffe Scott Dorward",
-        "John Stone",
-        "James Pimm Production",
-        "Wes Otis",
-        "Sabrina Haenze",
-        "Erik Day"
-      ],
+      "speakers": [],
       "topics": [
         "dance",
         "darkness",
@@ -3089,14 +2307,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78601527",
       "itunes_duration": "40:56",
-      "speakers": [
-        "Emma Wentworth",
-        "Josephine McAdam",
-        "Jane Radcliffe Scott Dorward",
-        "John Stone",
-        "James Pimm Production",
-        "Sabrina Haenze"
-      ],
+      "speakers": [],
       "topics": [
         "dance",
         "darkness",
@@ -3114,16 +2325,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115379423",
       "itunes_duration": "1:00:05",
-      "speakers": [
-        "John Stone",
-        "Emma Wentworth",
-        "Josephine McAdam",
-        "Jane Radcliffe Scott Dorward",
-        "James Pimm Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "dance",
         "darkness",
@@ -3141,16 +2343,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123781241",
       "itunes_duration": "1:04:28",
-      "speakers": [
-        "Chuck Lawrence",
-        "Jeremy Rowle",
-        "Danny Scott",
-        "Richard Ockley",
-        "Nic Rosenberg",
-        "Evelyn Ockley",
-        "Lenny Trevelyan Production",
-        "Scott Dorward Transcriptions"
-      ],
+      "speakers": [],
       "topics": [
         "lamp",
         "posts",
@@ -3170,14 +2363,8 @@
       "enclosure_length": "131999156",
       "itunes_duration": "1:08:44",
       "speakers": [
-        "Chuck Lawrence",
-        "Jeremy Rowle",
-        "Danny Scott",
-        "Richard Ockley",
-        "Nic Rosenberg",
-        "Evelyn Ockley",
-        "Lenny Trevelyan Production",
-        "Scott Dorward Transcriptions"
+        "Lamp Posts",
+        "Lost Flowers Something"
       ],
       "topics": [
         "lamp",
@@ -3198,14 +2385,7 @@
       "enclosure_length": "128122931",
       "itunes_duration": "1:06:43",
       "speakers": [
-        "Blade Runner",
-        "Roleplaying Game",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Spokesperson Bob Danielson",
-        "Terry Crystal Lee",
-        "Lilith Erika Ludwig",
-        "Sarah Emma Onasch"
+        "Blade Runner"
       ],
       "topics": [
         "blade",
@@ -3226,14 +2406,7 @@
       "enclosure_length": "109675887",
       "itunes_duration": "57:07",
       "speakers": [
-        "Blade Runner",
-        "Roleplaying Game",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Styles Yma Munoz",
-        "Medic Bob Danielson",
-        "Jelle Schuyler",
-        "Iris Scott Dorward"
+        "Blade Runner"
       ],
       "topics": [
         "blade",
@@ -3253,14 +2426,7 @@
       "enclosure_length": "81768445",
       "itunes_duration": "42:35",
       "speakers": [
-        "Blade Runner",
-        "Roleplaying Game",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Styles Bob Danielson",
-        "Esper Erika Ludwig",
-        "Sound Designer",
-        "Graeme Patrick"
+        "Blade Runner"
       ],
       "topics": [
         "blade",
@@ -3281,14 +2447,7 @@
       "enclosure_length": "97712263",
       "itunes_duration": "50:53",
       "speakers": [
-        "Blade Runner",
-        "Roleplaying Game",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Styles Bob Danielson",
-        "Holden Joanna Cretella",
-        "Mirren Hasti McCarthy",
-        "Iris Keith Houston"
+        "Blade Runner"
       ],
       "topics": [
         "blade",
@@ -3309,13 +2468,7 @@
       "itunes_duration": "51:19",
       "speakers": [
         "Blade Runner",
-        "Roleplaying Game",
-        "Siren Sounds",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Styles Virginia Lee",
-        "Keith Houston",
-        "Iris Scott Dorward"
+        "Blade Ru"
       ],
       "topics": [
         "blade",
@@ -3337,13 +2490,7 @@
       "itunes_duration": "1:01:19",
       "speakers": [
         "Blade Runner",
-        "Willem Novak",
-        "Roleplaying Game",
-        "Siren Sounds",
-        "Nic Rosenberg",
-        "Fenna Danny Scott",
-        "Joanna Cretella",
-        "Esper Wall Bob Danielson"
+        "Willem Novak"
       ],
       "topics": [
         "blade",
@@ -3362,14 +2509,7 @@
       "enclosure_length": "114479135",
       "itunes_duration": "59:37",
       "speakers": [
-        "Body Horror",
-        "Lewd Humor",
-        "Harvey Graeme Patrick",
-        "Billy Rina Haenze",
-        "Robin Ross Bryant",
-        "Sabrina Haenze",
-        "Jeremy Lansdown",
-        "Ryan Thurmond"
+        "Lost Art"
       ],
       "topics": [
         "water"
@@ -3387,13 +2527,8 @@
       "enclosure_length": "136151993",
       "itunes_duration": "1:10:54",
       "speakers": [
-        "Lewd Humor",
-        "Harvey Graeme Patrick",
-        "Billy Rina Haenze",
-        "Robin Ross Bryant",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Lost Art",
+        "Arms Join"
       ],
       "topics": [
         "farewell"
@@ -3411,14 +2546,8 @@
       "enclosure_length": "145001876",
       "itunes_duration": "1:15:31",
       "speakers": [
-        "Nic Rosenberg",
-        "Alice Rina Haenze",
-        "Harry Production",
-        "Sabrina Haenze",
-        "Cardinal Catastrophe",
-        "mensan th",
-        "Erik Day",
-        "Steven Horne Patreon"
+        "Xmas Improv Four Christmas",
+        "Christmas Eve"
       ],
       "topics": [
         "diary",
@@ -3439,14 +2568,7 @@
       "enclosure_length": "120311343",
       "itunes_duration": "1:02:39",
       "speakers": [
-        "Rina Haenze",
-        "Body Horror",
-        "Head Trauma",
-        "Wes Davis",
-        "Charles Production",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos"
+        "Rina Haenze"
       ],
       "topics": [
         "safe",
@@ -3466,14 +2588,7 @@
       "enclosure_length": "120510291",
       "itunes_duration": "1:02:45",
       "speakers": [
-        "Rina Haenze",
-        "Body Horror",
-        "Head Trauma",
-        "Wes Davis",
-        "Charles Production",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos"
+        "Rina Haenze"
       ],
       "topics": [
         "safe",
@@ -3494,12 +2609,7 @@
       "enclosure_length": "137318938",
       "itunes_duration": "1:11:31",
       "speakers": [
-        "Rina Haenze",
-        "Gamemaster Bridgett Jeffries",
-        "Grant Howitt",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Join Rev"
       ],
       "topics": [
         "witch"
@@ -3517,14 +2627,9 @@
       "enclosure_length": "117488452",
       "itunes_duration": "1:01:11",
       "speakers": [
-        "Dusty Dean",
-        "Innocuous Inn",
-        "Chris Bates",
-        "Richard Rina Haenze",
-        "Susan Wes Davis",
-        "Chad Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos"
+        "Dead Man",
+        "Shareholder Delight Will",
+        "Graves Corporation"
       ],
       "topics": [
         "dead",
@@ -3544,15 +2649,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "132346056",
       "itunes_duration": "1:08:55",
-      "speakers": [
-        "Lewd Humor",
-        "Richard Rina Haenze",
-        "Susan Wes Davis",
-        "Chad Production",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "tooth",
@@ -3572,14 +2669,9 @@
       "enclosure_length": "84755566",
       "itunes_duration": "44:08",
       "speakers": [
-        "Swarming Bugs",
-        "Pauline Ross Bryant",
-        "Kyle Scott Dorward",
-        "Danny Scott",
-        "Roger Virginia Lee",
-        "Evelyn Nic Rosenberg",
-        "Rachel Production",
-        "Graeme Patrick"
+        "Flies Will",
+        "Trouble Trio",
+        "Barnaker House"
       ],
       "topics": [
         "dare",
@@ -3598,14 +2690,7 @@
       "enclosure_length": "109658420",
       "itunes_duration": "57:06",
       "speakers": [
-        "Pauline Ross Bryant",
-        "Kyle Scott Dorward",
-        "Charles Production",
-        "Graeme Patrick",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Barnaker House"
       ],
       "topics": [
         "dare",
@@ -3624,16 +2709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122595095",
       "itunes_duration": "1:03:51",
-      "speakers": [
-        "Body Horror",
-        "Siren Sounds",
-        "Pauline Ross Bryant",
-        "Kyle Scott Dorward",
-        "Danny Scott",
-        "Roger Keith Houston",
-        "Hal Nic Rosenberg",
-        "Rachel Production"
-      ],
+      "speakers": [],
       "topics": [
         "dare",
         "trouble",
@@ -3652,14 +2728,7 @@
       "enclosure_length": "135824316",
       "itunes_duration": "1:10:44",
       "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Scott Dorward",
-        "Nic Rosenberg",
-        "Keith Houston"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -3679,16 +2748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131036925",
       "itunes_duration": "1:08:14",
-      "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Danny Scott",
-        "Delton Engle-Sorrell",
-        "Virginia Lee"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -3706,16 +2766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117741641",
       "itunes_duration": "1:01:19",
-      "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Julius Ruffin Wes Davis",
-        "Silas Jacobsen Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Chuck Lawrence",
-        "Danny Scott"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -3733,16 +2784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107413876",
       "itunes_duration": "55:56",
-      "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Julius Ruffin Wes Davis",
-        "Silas Jacobsen Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Chuck Lawrence",
-        "Danny Scott"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -3761,16 +2803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123379914",
       "itunes_duration": "1:04:15",
-      "speakers": [
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Julius Ruffin Wes Davis",
-        "Silas Jacobsen Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Chuck Lawrence",
-        "Danny Scott"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -3790,14 +2823,7 @@
       "enclosure_length": "145448995",
       "itunes_duration": "1:15:45",
       "speakers": [
-        "Lady Liggett",
-        "Will Moni",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Ruffin Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Chuck Lawrence"
+        "Lady Liggett"
       ],
       "topics": [
         "bleeker",
@@ -3818,14 +2844,7 @@
       "enclosure_length": "124648845",
       "itunes_duration": "1:04:55",
       "speakers": [
-        "Will Moni",
-        "Addiction Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Ruffin Brandon Wainerdi",
-        "Moni Rina Haenze",
-        "Chuck Lawrence"
+        "Bleeker Trails"
       ],
       "topics": [
         "bleeker",
@@ -3845,16 +2864,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112412668",
       "itunes_duration": "58:32",
-      "speakers": [
-        "Smoking Keeper",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Moni Rina Haenze",
-        "Ruffin Brandon Wainerdi",
-        "Nic Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails",
@@ -3873,16 +2883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127162544",
       "itunes_duration": "1:06:13",
-      "speakers": [
-        "Download Content",
-        "Smoking Keeper",
-        "Graeme Patrick Content",
-        "Graeme Patrick Executive Producer",
-        "Sound Designer",
-        "Chuck Lawrence",
-        "Moni Rina Haenze",
-        "Nic Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "bleeker",
         "trails"
@@ -3900,14 +2901,8 @@
       "enclosure_length": "131958190",
       "itunes_duration": "1:08:43",
       "speakers": [
-        "Brain Trauma",
-        "Gracie Danny Scott",
-        "Frankie Production",
-        "Scott Dorward",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Night Bus",
+        "Form Factors After"
       ],
       "topics": [
         "night",
@@ -3927,14 +2922,7 @@
       "enclosure_length": "108818294",
       "itunes_duration": "56:40",
       "speakers": [
-        "Brain Trauma",
-        "Gracie Danny Scott",
-        "Frankie Production",
-        "Scott Dorward",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
+        "Night Bus"
       ],
       "topics": [
         "night",
@@ -3952,16 +2940,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94802454",
       "itunes_duration": "49:22",
-      "speakers": [
-        "Brain Trauma",
-        "Gracie Danny Scott",
-        "Frankie Production",
-        "Scott Dorward",
-        "Sound Designer",
-        "Sabrina Haenze",
-        "Shoutout Althalos",
-        "Lancey Pants"
-      ],
+      "speakers": [],
       "topics": [
         "night",
         "stone",
@@ -3979,16 +2958,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117281982",
       "itunes_duration": "1:01:04",
-      "speakers": [
-        "Blair Taft Cam Collins",
-        "Faith Taft Danny Scott",
-        "Delton Engle-Sorrell",
-        "Nic Rosenberg",
-        "Nora Baker",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer"
-      ],
+      "speakers": [],
       "topics": [
         "sorrow",
         "clay",
@@ -4007,16 +2977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129986268",
       "itunes_duration": "1:07:41",
-      "speakers": [
-        "Blair Taft Cam Collins",
-        "Faith Taft Danny Scott",
-        "Delton Engle-Sorrell",
-        "Nic Rosenberg",
-        "Nora Baker",
-        "Graeme Patrick Executive",
-        "Graeme Patrick Audio",
-        "Sound Designer"
-      ],
+      "speakers": [],
       "topics": [
         "sorrow",
         "clay",
@@ -4035,14 +2996,7 @@
       "enclosure_length": "130846439",
       "itunes_duration": "1:08:08",
       "speakers": [
-        "Scott Dorward",
-        "Rina Haenze",
-        "Wes Davis",
-        "Joe Trier",
-        "Main Cast",
-        "Francis Duncan Scott Dorward",
-        "Duncan Joe Trier",
-        "Silas Duncan"
+        "Scott Dorward"
       ],
       "topics": [
         "cult",
@@ -4062,14 +3016,7 @@
       "enclosure_length": "112674411",
       "itunes_duration": "58:40",
       "speakers": [
-        "Scott Dorward",
-        "Rina Haenze",
-        "Wes Davis",
-        "Joe Trier",
-        "Main Cast",
-        "Francis Duncan Scott Dorward",
-        "Duncan Joe Trier",
-        "Silas Duncan"
+        "Scott Dorward"
       ],
       "topics": [
         "cult",
@@ -4088,16 +3035,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147746179",
       "itunes_duration": "1:16:56",
-      "speakers": [
-        "Scott Dorward",
-        "Joe Trier",
-        "Kevin Wes Davis",
-        "Jason Scott Dorward",
-        "Maxx Joe Trier",
-        "Scott Doward",
-        "Sound Designer",
-        "Stygian Fox Theme Song"
-      ],
+      "speakers": [],
       "topics": [
         "unland",
         "admission"
@@ -4114,16 +3052,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125202297",
       "itunes_duration": "1:05:12",
-      "speakers": [
-        "Keeper Scott Dorward",
-        "Joe Trier",
-        "Kevin Wes Davis",
-        "Jason Scott Dorward",
-        "Maxx Joe Trier",
-        "Scott Doward",
-        "Sound Designer",
-        "Stygian Fox Theme Song"
-      ],
+      "speakers": [],
       "topics": [
         "unland",
         "emergency",
@@ -4142,14 +3071,7 @@
       "enclosure_length": "195390182",
       "itunes_duration": "1:41:45",
       "speakers": [
-        "Slayed Nobody",
-        "Keeper Scott Dorward",
-        "Joe Trier",
-        "Eoghan Falvey",
-        "Kevin Wes Davis",
-        "Jason Scott Dorward",
-        "Maxx Joe Trier",
-        "Scott Doward"
+        "Slayed Nobody"
       ],
       "topics": [
         "unland",
@@ -4168,16 +3090,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176449949",
       "itunes_duration": "1:31:53",
-      "speakers": [
-        "Bill MacDonald Scott Dorward",
-        "Zeke Mulesworth",
-        "Alex McDaniel",
-        "Mary Mulesworth Production",
-        "Scott Dorward",
-        "Sound Designer",
-        "Graham Walmsley Theme Song",
-        "Eric Kinny"
-      ],
+      "speakers": [],
       "topics": [
         "fairyland",
         "madness"
@@ -4196,13 +3109,7 @@
       "itunes_duration": "1:10:36",
       "speakers": [
         "Fairyland Into",
-        "Bill McDonald",
-        "Bill MacDonald Scott Dorward",
-        "Zeke Mulesworth",
-        "Alex McDaniel",
-        "Mary Mulesworth Production",
-        "Scott Dorward",
-        "Sound Designer"
+        "Bill McDonald"
       ],
       "topics": [
         "fairyland",
@@ -4223,12 +3130,7 @@
       "speakers": [
         "Fairyland Into",
         "Slayed Nobody",
-        "Keeper Scott Dorward",
-        "Bill McDonald",
-        "Scott Dorward",
-        "Bill MacDonald Scott Dorward",
-        "Zeke Mulesworth",
-        "Alex McDaniel"
+        "Keeper Scott Dorward"
       ],
       "topics": [
         "fairyland",
@@ -4249,12 +3151,7 @@
       "speakers": [
         "Scott Dorward",
         "Rina Haenze",
-        "Graeme Patrick",
-        "Bert Scott Dorward",
-        "Irene Graeme Patrick",
-        "Sound Designer",
-        "Theme Song",
-        "Shoutout Althalos"
+        "Graeme Patrick"
       ],
       "topics": [
         "meat",
@@ -4276,16 +3173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189418387",
       "itunes_duration": "1:38:39",
-      "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "beloved",
@@ -4304,14 +3192,7 @@
       "enclosure_length": "164026525",
       "itunes_duration": "1:25:25",
       "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
+        "Well Actually Events"
       ],
       "topics": [
         "cthulhu"
@@ -4328,16 +3209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139154605",
       "itunes_duration": "1:12:28",
-      "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "hushabye"
@@ -4354,16 +3226,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136762212",
       "itunes_duration": "1:11:13",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "gross",
@@ -4381,16 +3244,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131026138",
       "itunes_duration": "1:08:14",
-      "speakers": [
-        "Will Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "time"
@@ -4407,16 +3261,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129502266",
       "itunes_duration": "1:07:26",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "separation",
@@ -4434,16 +3279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142866085",
       "itunes_duration": "1:14:24",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "weight"
@@ -4461,14 +3297,7 @@
       "enclosure_length": "133986124",
       "itunes_duration": "1:09:46",
       "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
+        "Colin Brock"
       ],
       "topics": [
         "cthulhu",
@@ -4486,16 +3315,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151466014",
       "itunes_duration": "1:18:53",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "dust",
@@ -4513,16 +3333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119374279",
       "itunes_duration": "1:02:10",
-      "speakers": [
-        "Will Lance",
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "weekend",
@@ -4541,14 +3352,7 @@
       "enclosure_length": "129858360",
       "itunes_duration": "1:07:37",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "Las Cruces"
       ],
       "topics": [
         "cthulhu",
@@ -4567,14 +3371,7 @@
       "enclosure_length": "127330550",
       "itunes_duration": "1:06:18",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "Las Cruces"
       ],
       "topics": [
         "cthulhu",
@@ -4594,14 +3391,8 @@
       "enclosure_length": "124978267",
       "itunes_duration": "1:05:05",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "House Call Rested",
+        "Sheriff Ellie"
       ],
       "topics": [
         "cthulhu",
@@ -4619,16 +3410,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129490563",
       "itunes_duration": "1:07:26",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "bath"
@@ -4646,14 +3428,7 @@
       "enclosure_length": "130018022",
       "itunes_duration": "1:07:42",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "Baylor Peak"
       ],
       "topics": [
         "cthulhu",
@@ -4672,16 +3447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164522222",
       "itunes_duration": "1:25:41",
-      "speakers": [
-        "Will Johnny",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "luck"
@@ -4698,16 +3464,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148770180",
       "itunes_duration": "1:17:28",
-      "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "underground"
@@ -4725,14 +3482,7 @@
       "enclosure_length": "146354380",
       "itunes_duration": "1:16:13",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "New Mexico"
       ],
       "topics": [
         "cthulhu",
@@ -4751,14 +3501,7 @@
       "enclosure_length": "145554407",
       "itunes_duration": "1:15:48",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "What Dreams May Call"
       ],
       "topics": [
         "cthulhu",
@@ -4777,14 +3520,7 @@
       "enclosure_length": "109868207",
       "itunes_duration": "57:13",
       "speakers": [
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar",
-        "Lopez Scott Dorward"
+        "Burning Man"
       ],
       "topics": [
         "cthulhu",
@@ -4802,16 +3538,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99086565",
       "itunes_duration": "51:36",
-      "speakers": [
-        "Colin Brock",
-        "Jay Arnold",
-        "Lance Kilkenny",
-        "Jeremiah Fensworth Chuck Lawrence",
-        "Johnny Rhodes Alex McDaniel",
-        "Brandon Wainerdi",
-        "Will Baizer",
-        "Wilkinson Leonardo Cuellar"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "reloaded"
@@ -4840,187 +3567,188 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — The Between 27 - Marionettes — speakers: Player Characters Jason Cordova, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2026-02-10 — The Between 26 - Behind Masks — speakers: Player Characters Jason Cordova, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2026-02-03 — The Between 25 - Senseless — speakers: Player Characters Jason Cordova, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2026-01-06 — The Between 24 - Green Eyes — speakers: Kew Gardens, Player Characters Jason Cordova, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2025-12-30 — The Between 23 - Viewing — speakers: Player Characters Jason Cordova, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2025-12-23 — The Between 22 - Bloodthirsty — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2025-12-16 — The Between 21 - Viscera Acquired — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2025-12-09 — The Between 20 - Quiet — speakers: Edward Quiet, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Edward Quiet Production
-- 2025-12-08 — The Between 19 - The Curse — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-12-06 — The Between 18 - The Cat and the Viper — speakers: Choking Sounds, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-12-05 — The Between 17 - House Meeting — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-12-04 — The Between 16 - Gut Check — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-12-03 — The Between 15 - Figg's Pigs — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-12-02 — The Between 14 - Not the First Time — speakers: Wrist Cutting, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-12-01 — The Between 13 - Creatures of Acquaintance — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-11-29 — The Between 12 - The Long Night — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Tomboi LaCroix
-- 2025-11-29 — The Between 11 - Masks of the Past — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Shoutout Althalos
-- 2025-11-26 — The Between 10 - Moths to the Flame — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Shoutout Althalos
-- 2025-11-25 — The Between 9 - Roped In — speakers: Body Horror, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-24 — The Between 8 - In the Dark — speakers: Body Horror, Eating Noises, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp
-- 2025-11-22 — The Between 7 - Flowers and Fangs — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Shoutout Althalos
-- 2025-11-21 — The Between 6 - A Night at the Opera — speakers: Body Horror, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-20 — The Between 5 - The Limehouse Lurker — speakers: Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design, Shoutout Althalos
-- 2025-11-19 — The Between 4 - The Cutest Little Vampire — speakers: Body Horror, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-18 — The Between 3 - I'm Just A Baby — speakers: Body Horror, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-18 — The Between 2 - The St. James's Street Ghost — speakers: Ginny Hess, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-15 — The Between 1 - Welcome to Hargrave House — speakers: Penny Dreadful, Keeper Scott Dorward, Sebastian Melmoth, Nic Rosenberg, Archer Corbin Cupp, Roland Kessler, Corbin Cupp, Scott Dorward Sound Design
-- 2025-11-14 — Bleeker Trails E22 (Coda) - Holier Than Thou — speakers: Silas Jacobsen, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Wes Davis, Isabella Mike Perceval-Maxwell, Cody Fry Patreon
-- 2025-11-13 — Bleeker Trails E21 (Finale) - Undertow — speakers: Content Warnings, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Chuck Lawrence, Cody Mike Perceval-Maxwell, Cody Fry Patreon
-- 2025-11-12 — Bleeker Trails E20 - Blood Bath — speakers: Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Chuck Lawrence, Virginia Lee, Cody Fry Patreon
-- 2025-11-11 — Bleeker Trails E19 - Great Dreamers — speakers: Body Horror, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Chuck Lawrence, Eli Malcolm Wes Davis, Silas Jacobsen, Scott Dorward
-- 2025-11-10 — Bleeker Trails E18 - Surface Tension — speakers: Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Chuck Lawrence, Eli Malcolm Wes Davis, Silas Jacobsen, Madam Chu, Judy Kline
-- 2025-11-09 — Bleeker Trails E17 - The Birds — speakers: Content Warnings, Eye Trauma, Animal Death, Forced Restraint, Violence Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer
-- 2025-11-08 — Bleeker Trails E16 - Strange Weather — speakers: Violence Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Moni Rina Haenze, Kim Dalton, Sally Winthrop, Shawn Smith
-- 2025-11-07 — Bleeker Trails E15 - Root and Stem — speakers: Content Warnings, Violence Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Moni Rina Haenze, Brandon Wainerdi, Jay Arnold
-- 2025-11-06 — Bleeker Trails E14 - For Better or For Worse — speakers: Content Warnings, Violence Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Moni Rina Haenze, Brandon Wainerdi, Kim Dalton
-- 2025-11-05 — Bleeker Trails E13 - Fire on the Water — speakers: Content Warnings, Body Horror, Violence Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Julius Ruffin Chuck, Eli Malcolm Wes
-- 2025-11-05 — Bleeker Trails E12 - Calliope — speakers: Coercion Keeper, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Julius Ruffin Chuck, Eli Malcolm Wes, Silas Jacobsen, Alexandra DeBourbon Shawn Smith
-- 2025-11-03 — Bleeker Trails E11 - Fish Tales — speakers: Salvatore Barbosa, Content Warnings, Graeme Patrick Executive, Graeme Patrick Dialogue, Sound Designer, Julius Ruffin Chuck, Eli Malcolm Wes, Silas Jacobsen Npc
-- 2025-11-02 — Bleeker Trails E10 - Downhill — speakers: Will Chester, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Brandon Wainerdi, Moni Rina Haenze, Eli Malcolm Wes, Silas Jacobsen
-- 2025-10-27 — Houdini's Last Halloween 3/3 - Perception — speakers: Paula Deming, Roberta Ross Bryant, Peter Gina DeVivo, David Production, Victoria Cheng
-- 2025-10-20 — Houdini's Last Halloween 2/3 - Vibrating — speakers: Paula Deming, Roberta Ross Bryant, Peter Gina DeVivo, David Production, Victoria Cheng
-- 2025-10-13 — Houdini's Last Halloween 1/3 - Smoke and Mirrors — speakers: Harry Houdini, Paula Deming, Roberta Ross Bryant, Peter Gina DeVivo, David Production, Victoria Cheng
-- 2025-05-23 — The Specter 3/3 - The Ending Story — speakers: Keeper Mary Lou, Nic Rosenberg, Dorothy Larsen Scott Dorward, Martin McClintock Corbin Cupp, Tomboi LaCroix
-- 2025-05-22 — The Specter 2/3 - The Fetter — speakers: Keeper Mary Lou, Nic Rosenberg, Dorothy Larsen Scott Dorward, Martin McClintock Corbin Cupp, Tomboi LaCroix
-- 2025-05-22 — The Specter 1/3 - Old Friends — speakers: Wilhelm Vogler, Keeper Mary Lou, Nic Rosenberg, Dorothy Larsen Scott Dorward, Martin McClintock Corbin Cupp, Tomboi LaCroix
-- 2025-03-26 — Cosmic Dark Campaign 10 (Finale) - Invisible Hand 2 — speakers: Content Warnings, Body Horror, Graham Walmsley, Mir Nic Rosenberg, Darby Ross Bryant, Terrence Corbin Cupp
-- 2025-03-25 — Cosmic Dark Campaign 9 - Invisible Hand 1 — speakers: Content Warnings, Body Horror, Graham Walmsley, Mir Nic Rosenberg, Darby Ross Bryant, Terrence Corbin Cupp
-- 2025-03-24 — Cosmic Dark Campaign 8 - Every Sunset 2 — speakers: Content Warnings, Body Horror, Graham Walmsley, GM Corbin Cupp, Marius Nic Rosenberg, Darby Ross Bryant, Terrence Edited
-- 2025-03-23 — Cosmic Dark Campaign 7 - Every Sunset 1 — speakers: Content Warnings, Graham Walmsley, GM Corbin Cupp, Marius Nic Rosenberg, Darby Ross Bryant, Terrence Edited
-- 2025-03-22 — Cosmic Dark Campaign 6 - Every Sunrise 2 — speakers: Content Warnings, Body Horror, Graham Walmsley, Mir Corbin Cupp, Marius Nic Rosenberg, Darby Ross Bryant
-- 2025-03-21 — Cosmic Dark Campaign 5 - Every Sunrise 1 — speakers: Content Warnings, Graham Walmsley, Mir Corbin Cupp, Marius Nic Rosenberg, Darby Ross Bryant
-- 2025-03-20 — Cosmic Dark Campaign 4 - Transparency 2 — speakers: Content Warnings, Body Horror, Graham Walmsley, Terrance Corbin Cupp, Marius Nic Rosenberg, Ross Bryant
-- 2025-03-19 — Cosmic Dark Campaign 3 - Transparency 1 — speakers: Content Warnings, Body Horror, Graham Walmsley, Terrance Corbin Cupp, Marius Nic Rosenberg, Ross Bryant
-- 2025-03-18 — Cosmic Dark Campaign 2 - Time Murder 2 — speakers: Content Warnings, Body Horror, Graham Walmsley, Terrance Corbin Cupp, Nic Rosenberg, Ross Bryant
-- 2025-03-17 — Cosmic Dark Campaign 1 - Time Murder 1 — speakers: Content Warnings, Body Horror, Graham Walmsley, Terrance Corbin Cupp, Nic Rosenberg, Ross Bryant
-- 2024-12-11 — The Bread Is Rising 2/2 - Sour Dough — speakers: GM Nic Rosenberg, Penny Wheatley Ross Bryant, Corbin Cupp, Creative Edited, Rina Haenze, Tomboi LaCroix
-- 2024-12-10 — The Bread Is Rising 1/2 - The Magic of Christmas — speakers: Graham Walmsley, GM Nic Rosenberg, Penny Wheatley Ross Bryant, Corbin Cupp, Creative Edited, Rina Haenze, Tomboi LaCroix
-- 2024-10-31 — Somebody Think of the Children 3/3 - Way Down in the K-hole — speakers: Stephen Wall, Mary Cook Bridgett Jeffries, Lisa Hernandez, Becca Scott, Bernadette Flowers Nic Rosenberg, Kathy Edwards, Creative Edited, Scott Dorward
-- 2024-10-30 — Somebody Think of the Children 2/3 - Grave Concerns — speakers: Stephen Wall, Lewd Humor, Mary Cook Bridgett Jeffries, Lisa Hernandez, Becca Scott, Bernadette Flowers Nic Rosenberg, Kathy Edwards, Creative Edited
-- 2024-10-29 — Somebody Think of the Children 1/3 - The Devil Went Down to Missouri — speakers: Stephen Wall, Mary Cook Bridgett Jeffries, Lisa Hernandez, Becca Scott, Bernadette Flowers Nic Rosenberg, Kathy Edwards, Creative Edited, Scott Dorward
-- 2024-05-28 — Miskatonic Shoreside Conservatory 8/8 - Love and Desperation — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-05-24 — Miskatonic Shoreside Conservatory 7/8 - The Tether — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-05-22 — Miskatonic Shoreside Conservatory 6/8 - Legacy — speakers: Nonconsensual Kissing, Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-05-15 — Miskatonic Shoreside Conservatory 5/8 - When We Needed Saving — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-05-07 — Miskatonic Shoreside Conservatory 4/8 - Whatever It Takes — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-04-30 — Miskatonic Shoreside Conservatory 3/8 - Seek the Highest Limit — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-04-24 — Miskatonic Shoreside Conservatory 2/8 - Rite of Passage — speakers: Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-04-17 — Miskatonic Shoreside Conservatory 1/8 - Beyond Your Dreams — speakers: Miskatonic Shoreside Conservatory, Lucy Nic Rosenberg, Natasha Corbin Cupp, Graham Walmsley, Shoutout Althalos, Tomboi LaCroix
-- 2024-03-28 — Lakeview 3/3 - Renovations — speakers: Tomboi LaCroix, Cedric Barlow Nic Rosenberg, Louise Jordan Ross Bryant, Corbin Cupp, Karl Madison, Creative Edited, Scott Dorward, Corbin Cupp Patreon
-- 2024-03-21 — Lakeview 2/3 - Escape — speakers: Cedric Barlow Nic Rosenberg, Louise Jordan Ross Bryant, Corbin Cupp, Karl Madison, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos
-- 2024-03-14 — Lakeview 1/3 - Checking In — speakers: Cedric Barlow Nic Rosenberg, Louise Jordan Ross Bryant, Corbin Cupp, Karl Madison, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos
-- 2024-02-14 — The Lengian Job 6/6 - Mountains of Madness — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2024-02-07 — The Lengian Job 5/6 - Pressure — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2024-01-31 — The Lengian Job 4/6 - Trolloping — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2024-01-24 — The Lengian Job 3/6 - Siblengs — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2024-01-17 — The Lengian Job 2/6 - Surprise — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2024-01-10 — The Lengian Job 1/6 - Book Room — speakers: Diamond Luke, Vicki Corbin Cupp, Artie Production, Creative Edited, Scott Dorward, Corbin Cupp Patreon, Shoutout Althalos, Tomboi LaCroix
-- 2023-12-13 — Christmas Stalking 2/2 - Deck the Halls — speakers: Gina Scott Dorward, Anne Rina Haenze, Nancy Corbin Cupp, Kiersten Production, Creative Edited, Rina Haenze, Shoutout Althalos, Tomboi LaCroix
-- 2023-12-12 — Christmas Stalking 1/2 - Up on the Housetop — speakers: Gina Scott Dorward, Anne Rina Haenze, Nancy Corbin Cupp, Kiersten Production, Creative Edited, Rina Haenze, Shoutout Althalos, Tomboi LaCroix
-- 2023-12-07 — She Moves Backwards 4/4 - Fire in a Theater — speakers: Body Horror, Elliott James Real, Dusty Dean, Elliott James Cosplay, Tahalanan Christopher Lee, Gary Kaplan, Mary Lou, Mel McCoy
-- 2023-12-06 — She Moves Backwards 3/4 - The Power of Cinema — speakers: Body Horror, Gary Kaplan, Mary Lou, Mel McCoy, Creative Edited, Scott Dorward, Shoutout Althalos, Tomboi LaCroix
-- 2023-12-01 — She Moves Backwards 2/4 - Gimghoul Castle — speakers: Gary Kaplan, Mary Lou, Mel McCoy, Creative Edited, Scott Dorward, Shoutout Althalos, Tomboi LaCroix
-- 2023-11-29 — She Moves Backwards 1/4 - Scream Fest — speakers: Gary Kaplan, Mary Lou, Mel McCoy, Creative Edited, Scott Dorward, Shoutout Althalos, Tomboi LaCroix
-- 2023-11-13 — The Waking Children 4/4 - The Woken Man — speakers: Guest Keeper, Harlan Guthrie, Walt Scott Dorward, Albert Corbin Cupp, Shoutout Althalos, Lancey Pants, Tomboi LaCroix New Patrons
-- 2023-11-07 — The Waking Children 3/4 - The Orphanage — speakers: Guest Keeper, Harlan Guthrie, Walt Scott Dorward, Albert Corbin Cupp, Shoutout Althalos, Lancey Pants, Tomboi LaCroix, Tom Patreon
-- 2023-10-31 — The Waking Children 2/4 - The Bookshop — speakers: Guest Keeper, Harlan Guthrie, Body Horror, Walt Scott Dorward, Albert Corbin Cupp, Shoutout Althalos, Lancey Pants, Patrons Lzbn
-- 2023-10-24 — The Waking Children 1/4 - The Morgue — speakers: Guest Keeper, Harlan Guthrie, Walt Scott Dorward, Albert Corbin Cupp, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-10-19 — Eclipse of the Heart 3/3 - Take On Me — speakers: Zephyr Kat Edmonds, Ashley Scott Dorward, Brett Corbin Cupp, Rina Haenze, Jack Taylor, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-10-18 — Eclipse of the Heart 2/3 - Poison — speakers: Zephyr Kat Edmonds, Ashley Scott Dorward, Brett Corbin Cupp, Rina Haenze, Jack Taylor, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-10-17 — Eclipse of the Heart 1/3 - Physical — speakers: Zephyr Kat Edmonds, Ashley Scott Dorward, Brett Corbin Cupp, Rina Haenze, Jack Taylor, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-09-15 — SCIENCE! 3/3 - High Society — speakers: Alisa Ethnobotany, Tomboi LaCroix, Skinner Box, Tahalanan Nicolas Minovici, Tomboi LaCroix Collecting, Merrick Eating, Alisa Having, Unique Item Opera
-- 2023-09-14 — SCIENCE! 2/3 - Out of Nowhere — speakers: Rita Nic Rosenberg, Lottie Bridgett Jeffries, Charles Production, Creative Improvised, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-09-13 — SCIENCE! 1/3 - Head First — speakers: Rita Nic Rosenberg, Lottie Bridgett Jeffries, Charles Production, Creative Improvised, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-08-03 — Blackshade 3/3 - Dimension — speakers: Ruth Kat Edmonds, Mary Production, Creative Blackshade, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-08-02 — Blackshade 2/3 - Discovery — speakers: Ruth Kat Edmonds, Mary Production, Creative Blackshade, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-08-01 — Blackshade 1/3 - Disturbance — speakers: Ruth Kat Edmonds, Mary Production, Creative Blackshade, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-07-13 — Extraction 3/3 - Endless — speakers: Graham Walmsley, Body Horror, Riggin Rina Haenze, Gary Production, Music Selections, Wes Otis, Sabrina Haenze, Shoutout Althalos
-- 2023-07-12 — Extraction 2/3 - Lonely — speakers: Graham Walmsley, Body Horror, Suicidal Tendencies, Riggin Rina Haenze, Gary Production, Music Selections, Wes Otis, Rina Haenze
-- 2023-07-11 — Extraction 1/3 - Glowing — speakers: Graham Walmsley, Suicidal Tendencies, Riggin Rina Haenze, Gary Production, Music Selections, Wes Otis, Rina Haenze, Kevin Berrey
-- 2023-06-29 — Give Me Death 4/4 - Darkness — speakers: Body Horror, Unique Skills, Tomboi LaCroix, Ross Bryant, John Smith Nic, Silas Blackwood, Scott Dorward, Sabrina Haenze
-- 2023-06-28 — Give Me Death 3/4 - Flicker — speakers: John Smith Nic, Silas Blackwood, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-28 — Give Me Death 2/4 - Cravings — speakers: Dandy Jack, John Smith Nic, Silas Blackwood, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-27 — Give Me Death 1/4 - Homespun — speakers: George Washington, John Smith Nic, Silas Blackwood, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-21 — Dead Light 2/2 - Some Devil — speakers: Rose Ryan Nanni, Edward Wes Davis, Jacob Chuck Lawrence, Henry Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-20 — Dead Light 1/2 - Snow Lightning — speakers: Rose Ryan Nanni, Edward Wes Davis, Jacob Chuck Lawrence, Henry Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-15 — Murder Shack 3/3 - Splintered — speakers: Murder Shack Splintered, Alex Wes Davis, Nic Rosenberg, Annie Production, Wes Otis, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-06-14 — Murder Shack 2/3 - What a Shack Wants — speakers: Body Horror, Alex Wes Davis, Nic Rosenberg, Annie Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-13 — Murder Shack 1/3 - Survivors — speakers: Murder Shack Survivors, Alex Wes Davis, Nic Rosenberg, Annie Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-06-01 — Ministry of Fear 3/3 - Speed Kills — speakers: Adrian Nic Rosenberg, Riz Graham Walmsley, Kirby Production, Scott Dorward, Sabrina Haenze, David Newell, Steven Horne, Riz Gukgak
-- 2023-05-31 — Ministry of Fear 2/3 - Cinema Verite — speakers: Adrian Nic Rosenberg, Riz Graham Walmsley, Kirby Production, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-05-30 — Ministry of Fear 1/3 - You Never Know — speakers: Fathom Films, Adrian Nic Rosenberg, Riz Graham Walmsley, Kirby Production, Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-05-11 — Death Cave 3/3 - The Way Out — speakers: Death Cave, Body Horror, Eye Trauma, Eugene Scott Dorward, Sabrina Haenze, Bad Alex, Shoutout Althalos, Lancey Pants
-- 2023-05-10 — Death Cave 2/3 - La Purge — speakers: Eugene Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-05-09 — Death Cave 1/3 - Seekers — speakers: Eugene Scott Dorward, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix
-- 2023-04-20 — Factory Records 2/2 - Welcome to the Machine — speakers: Body Horror, Lewd Humor, Bonnie Wes Davis, Sabrina Haenze, Bad Alex, Cardinal Catastrophe, Dusty Dean, Erik Day
-- 2023-04-19 — Factory Records 1/2 - Metal Machine Music — speakers: Lewd Humor, Bonnie Wes Davis, Sabrina Haenze, Shoutout Althalos, Lancey Pants, Tomboi LaCroix, Daniela Patreon
-- 2023-04-06 — A Dance With Darkness 3/3 - Annunciation — speakers: Emma Wentworth, Josephine McAdam, Jane Radcliffe Scott Dorward, John Stone, James Pimm Production, Wes Otis, Sabrina Haenze, Erik Day
-- 2023-04-05 — A Dance With Darkness 2/3 - Ascension — speakers: Emma Wentworth, Josephine McAdam, Jane Radcliffe Scott Dorward, John Stone, James Pimm Production, Sabrina Haenze
-- 2023-04-04 — A Dance With Darkness 1/3 - Debut — speakers: John Stone, Emma Wentworth, Josephine McAdam, Jane Radcliffe Scott Dorward, James Pimm Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2023-03-21 — Lamp Posts in Bloom 2/2 - Homecoming — speakers: Chuck Lawrence, Jeremy Rowle, Danny Scott, Richard Ockley, Nic Rosenberg, Evelyn Ockley, Lenny Trevelyan Production, Scott Dorward Transcriptions
-- 2023-03-20 — Lamp Posts in Bloom 1/2 - Lost Flowers — speakers: Chuck Lawrence, Jeremy Rowle, Danny Scott, Richard Ockley, Nic Rosenberg, Evelyn Ockley, Lenny Trevelyan Production, Scott Dorward Transcriptions
-- 2023-03-15 — Blade Runner RPG 6/6 - Electric Dreams — speakers: Blade Runner, Roleplaying Game, Nic Rosenberg, Fenna Danny Scott, Spokesperson Bob Danielson, Terry Crystal Lee, Lilith Erika Ludwig, Sarah Emma Onasch
-- 2023-02-21 — Blade Runner RPG 5/6 - Eye Of The Storm — speakers: Blade Runner, Roleplaying Game, Nic Rosenberg, Fenna Danny Scott, Styles Yma Munoz, Medic Bob Danielson, Jelle Schuyler, Iris Scott Dorward
-- 2023-02-03 — Blade Runner RPG 4/6 - Killing Floor — speakers: Blade Runner, Roleplaying Game, Nic Rosenberg, Fenna Danny Scott, Styles Bob Danielson, Esper Erika Ludwig, Sound Designer, Graeme Patrick
-- 2023-01-13 — Blade Runner RPG 3/6 - In Shadows — speakers: Blade Runner, Roleplaying Game, Nic Rosenberg, Fenna Danny Scott, Styles Bob Danielson, Holden Joanna Cretella, Mirren Hasti McCarthy, Iris Keith Houston
-- 2022-12-22 — Blade Runner RPG 2/6 - Skin Game — speakers: Blade Runner, Roleplaying Game, Siren Sounds, Nic Rosenberg, Fenna Danny Scott, Styles Virginia Lee, Keith Houston, Iris Scott Dorward
-- 2022-12-06 — Blade Runner RPG 1/6 - From On High — speakers: Blade Runner, Willem Novak, Roleplaying Game, Siren Sounds, Nic Rosenberg, Fenna Danny Scott, Joanna Cretella, Esper Wall Bob Danielson
-- 2022-12-03 — Lost Art 2/2 - The Way of Water — speakers: Body Horror, Lewd Humor, Harvey Graeme Patrick, Billy Rina Haenze, Robin Ross Bryant, Sabrina Haenze, Jeremy Lansdown, Ryan Thurmond
-- 2022-12-02 — Lost Art 1/2 - A Farewell to Arms — speakers: Lewd Humor, Harvey Graeme Patrick, Billy Rina Haenze, Robin Ross Bryant, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-12-02 — Diary of a Stranger - Xmas Improv — speakers: Nic Rosenberg, Alice Rina Haenze, Harry Production, Sabrina Haenze, Cardinal Catastrophe, mensan th, Erik Day, Steven Horne Patreon
-- 2022-11-18 — Safe Space 2/2 - Reckoning — speakers: Rina Haenze, Body Horror, Head Trauma, Wes Davis, Charles Production, Sound Designer, Sabrina Haenze, Shoutout Althalos
-- 2022-11-15 — Safe Space 1/2 - Time Bomb — speakers: Rina Haenze, Body Horror, Head Trauma, Wes Davis, Charles Production, Sound Designer, Sabrina Haenze, Shoutout Althalos
-- 2022-10-31 — The Witch Is Dead — speakers: Rina Haenze, Gamemaster Bridgett Jeffries, Grant Howitt, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-10-29 — Dead Man's Tooth 2/2 - Shareholder Delight — speakers: Dusty Dean, Innocuous Inn, Chris Bates, Richard Rina Haenze, Susan Wes Davis, Chad Production, Sabrina Haenze, Shoutout Althalos
-- 2022-10-28 — Dead Man's Tooth 1/2 - Fast Track — speakers: Lewd Humor, Richard Rina Haenze, Susan Wes Davis, Chad Production, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-10-28 — The Dare 3/3 - The Spider And The Flies — speakers: Swarming Bugs, Pauline Ross Bryant, Kyle Scott Dorward, Danny Scott, Roger Virginia Lee, Evelyn Nic Rosenberg, Rachel Production, Graeme Patrick
-- 2022-10-18 — The Dare 2/3 - Skin Deep — speakers: Pauline Ross Bryant, Kyle Scott Dorward, Charles Production, Graeme Patrick, Sound Designer, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-10-10 — The Dare 1/3 - Trouble Trio — speakers: Body Horror, Siren Sounds, Pauline Ross Bryant, Kyle Scott Dorward, Danny Scott, Roger Keith Houston, Hal Nic Rosenberg, Rachel Production
-- 2022-09-28 — Bleeker Trails E9 - Jump The Shark — speakers: Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Brandon Wainerdi, Moni Rina Haenze, Scott Dorward, Nic Rosenberg, Keith Houston
-- 2022-09-06 — Bleeker Trails E8 - Bone Wars — speakers: Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Brandon Wainerdi, Moni Rina Haenze, Danny Scott, Delton Engle-Sorrell, Virginia Lee
-- 2022-06-29 — Bleeker Trails E7 - Ambrosia — speakers: Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Julius Ruffin Wes Davis, Silas Jacobsen Brandon Wainerdi, Moni Rina Haenze, Chuck Lawrence, Danny Scott
-- 2022-06-28 — Bleeker Trails E6 - Block Party — speakers: Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Julius Ruffin Wes Davis, Silas Jacobsen Brandon Wainerdi, Moni Rina Haenze, Chuck Lawrence, Danny Scott
-- 2022-06-14 — Bleeker Trails E5 - Pipe Dream — speakers: Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Julius Ruffin Wes Davis, Silas Jacobsen Brandon Wainerdi, Moni Rina Haenze, Chuck Lawrence, Danny Scott
-- 2022-04-26 — Bleeker Trails E4 - Tight Spot — speakers: Lady Liggett, Will Moni, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Ruffin Brandon Wainerdi, Moni Rina Haenze, Chuck Lawrence
-- 2022-04-05 — Bleeker Trails E3 - Purple Velvet — speakers: Will Moni, Addiction Keeper, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Ruffin Brandon Wainerdi, Moni Rina Haenze, Chuck Lawrence
-- 2022-03-15 — Bleeker Trails E2 - Mortal Coil — speakers: Smoking Keeper, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer, Chuck Lawrence, Moni Rina Haenze, Ruffin Brandon Wainerdi, Nic Rosenberg
-- 2022-03-01 — Bleeker Trails E1 - First Act — speakers: Download Content, Smoking Keeper, Graeme Patrick Content, Graeme Patrick Executive Producer, Sound Designer, Chuck Lawrence, Moni Rina Haenze, Nic Rosenberg
-- 2022-02-25 — Night Bus 3/3 - Form Factors — speakers: Brain Trauma, Gracie Danny Scott, Frankie Production, Scott Dorward, Sound Designer, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-02-23 — Night Bus 2/3 - Towering — speakers: Brain Trauma, Gracie Danny Scott, Frankie Production, Scott Dorward, Sound Designer, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-02-21 — Night Bus 1/3 - Stone Penge — speakers: Brain Trauma, Gracie Danny Scott, Frankie Production, Scott Dorward, Sound Designer, Sabrina Haenze, Shoutout Althalos, Lancey Pants
-- 2022-02-17 — Of Sorrow and Clay 2/2 - Family Reunion — speakers: Blair Taft Cam Collins, Faith Taft Danny Scott, Delton Engle-Sorrell, Nic Rosenberg, Nora Baker, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer
-- 2022-02-15 — Of Sorrow and Clay 1/2 - Take Me Home — speakers: Blair Taft Cam Collins, Faith Taft Danny Scott, Delton Engle-Sorrell, Nic Rosenberg, Nora Baker, Graeme Patrick Executive, Graeme Patrick Audio, Sound Designer
-- 2021-10-31 — Totally-Not-A-Cult Gathering 2/2 - Gone Fishing — speakers: Scott Dorward, Rina Haenze, Wes Davis, Joe Trier, Main Cast, Francis Duncan Scott Dorward, Duncan Joe Trier, Silas Duncan
-- 2021-10-27 — Totally-Not-A-Cult Gathering 1/2 - Family Meeting — speakers: Scott Dorward, Rina Haenze, Wes Davis, Joe Trier, Main Cast, Francis Duncan Scott Dorward, Duncan Joe Trier, Silas Duncan
-- 2021-09-15 — UNLAND 3/3 - Last Admission — speakers: Scott Dorward, Joe Trier, Kevin Wes Davis, Jason Scott Dorward, Maxx Joe Trier, Scott Doward, Sound Designer, Stygian Fox Theme Song
-- 2021-09-14 — UNLAND 2/3 - Emergency Exit — speakers: Keeper Scott Dorward, Joe Trier, Kevin Wes Davis, Jason Scott Dorward, Maxx Joe Trier, Scott Doward, Sound Designer, Stygian Fox Theme Song
-- 2021-09-13 — UNLAND 1/3 - Theme Parkour — speakers: Slayed Nobody, Keeper Scott Dorward, Joe Trier, Eoghan Falvey, Kevin Wes Davis, Jason Scott Dorward, Maxx Joe Trier, Scott Doward
-- 2021-09-08 — Fairyland 3/3 - Into the Madness — speakers: Bill MacDonald Scott Dorward, Zeke Mulesworth, Alex McDaniel, Mary Mulesworth Production, Scott Dorward, Sound Designer, Graham Walmsley Theme Song, Eric Kinny
-- 2021-09-07 — Fairyland 2/3 - Into the Town — speakers: Fairyland Into, Bill McDonald, Bill MacDonald Scott Dorward, Zeke Mulesworth, Alex McDaniel, Mary Mulesworth Production, Scott Dorward, Sound Designer
-- 2021-09-06 — Fairyland 1/3 - Into the Woods — speakers: Fairyland Into, Slayed Nobody, Keeper Scott Dorward, Bill McDonald, Scott Dorward, Bill MacDonald Scott Dorward, Zeke Mulesworth, Alex McDaniel
-- 2021-09-01 — The Meat Trade (Patreon Preview) - Gimme Shelter — speakers: Scott Dorward, Rina Haenze, Graeme Patrick, Bert Scott Dorward, Irene Graeme Patrick, Sound Designer, Theme Song, Shoutout Althalos
-- 2021-08-31 — Y'all of Cthulhu 21/21 - My Beloved Monster — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2021-08-17 — Y'all of Cthulhu 20/21 - Well Actually — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-07-13 — Y'all of Cthulhu 19/21 - Hushabye — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2021-06-08 — Y'all of Cthulhu 18/21 - Gross Anatomy — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-04-27 — Y'all of Cthulhu 17/21 - Out of Time — speakers: Will Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-04-13 — Y'all of Cthulhu 16/21 - Separation Anxiety — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-03-11 — Y'all of Cthulhu 15/21 - The Weight — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-02-16 — Y'all of Cthulhu 14/21 - Key Issues — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2021-01-14 — Y'all of Cthulhu 13/21 - Dust Devils — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2020-12-08 — Y'all of Cthulhu 12/21 - Weekend at Bertie's — speakers: Will Lance, Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer
-- 2020-11-17 — Y'all of Cthulhu 11/21 - Dying Light — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-09-03 — Y'all of Cthulhu 10/21 - Down Darker Trials — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-09-01 — Y'all of Cthulhu 9/21 - House Call — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-08-11 — Y'all of Cthulhu 8/21 - Bed, Bath, and Beyond — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2020-07-14 — Y'all of Cthulhu 7/21 - Mountain Lion — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-06-09 — Y'all of Cthulhu 6/21 - Run of Luck — speakers: Will Johnny, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
-- 2020-05-12 — Y'all of Cthulhu 5/21 - Six Underground — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-04-14 — Y'all of Cthulhu 4/21 - Rolling in the Deep — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-03-10 — Y'all of Cthulhu 3/21 - What Dreams May Call — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-02-11 — Y'all of Cthulhu 2/21 - Burning Man (Reloaded) — speakers: Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar, Lopez Scott Dorward
-- 2020-01-14 — Y'all of Cthulhu 1/21 - Hang 'em Low (Reloaded) — speakers: Colin Brock, Jay Arnold, Lance Kilkenny, Jeremiah Fensworth Chuck Lawrence, Johnny Rhodes Alex McDaniel, Brandon Wainerdi, Will Baizer, Wilkinson Leonardo Cuellar
+- 2026-02-24 — The Between 28 - Trust
+- 2026-02-17 — The Between 27 - Marionettes
+- 2026-02-10 — The Between 26 - Behind Masks — speakers: Behind Masks
+- 2026-02-03 — The Between 25 - Senseless
+- 2026-01-06 — The Between 24 - Green Eyes — speakers: Kew Gard
+- 2025-12-30 — The Between 23 - Viewing — speakers: Viewing Morning, Hargrave House
+- 2025-12-23 — The Between 22 - Bloodthirsty
+- 2025-12-16 — The Between 21 - Viscera Acquired — speakers: Viscera Acquired London
+- 2025-12-09 — The Between 20 - Quiet — speakers: Quiet Hargrave House
+- 2025-12-08 — The Between 19 - The Curse
+- 2025-12-06 — The Between 18 - The Cat and the Viper
+- 2025-12-05 — The Between 17 - House Meeting
+- 2025-12-04 — The Between 16 - Gut Check
+- 2025-12-03 — The Between 15 - Figg's Pigs
+- 2025-12-02 — The Between 14 - Not the First Time
+- 2025-12-01 — The Between 13 - Creatures of Acquaintance — speakers: James Stre
+- 2025-11-29 — The Between 12 - The Long Night
+- 2025-11-29 — The Between 11 - Masks of the Past
+- 2025-11-26 — The Between 10 - Moths to the Flame
+- 2025-11-25 — The Between 9 - Roped In
+- 2025-11-24 — The Between 8 - In the Dark — speakers: Dark Sebastian
+- 2025-11-22 — The Between 7 - Flowers and Fangs
+- 2025-11-21 — The Between 6 - A Night at the Opera
+- 2025-11-20 — The Between 5 - The Limehouse Lurker
+- 2025-11-19 — The Between 4 - The Cutest Little Vampire — speakers: Hargrave House
+- 2025-11-18 — The Between 3 - I'm Just A Baby — speakers: Night Phase
+- 2025-11-18 — The Between 2 - The St. James's Street Ghost
+- 2025-11-15 — The Between 1 - Welcome to Hargrave House
+- 2025-11-14 — Bleeker Trails E22 (Coda) - Holier Than Thou — speakers: Silas Jacobsen
+- 2025-11-13 — Bleeker Trails E21 (Finale) - Undertow — speakers: Bleeker Trails, Undertow Julius
+- 2025-11-12 — Bleeker Trails E20 - Blood Bath — speakers: Bleeker Trails
+- 2025-11-11 — Bleeker Trails E19 - Great Dreamers
+- 2025-11-10 — Bleeker Trails E18 - Surface Tension — speakers: Bleeker Trails
+- 2025-11-09 — Bleeker Trails E17 - The Birds — speakers: Bleeker Trails
+- 2025-11-08 — Bleeker Trails E16 - Strange Weather — speakers: Bleeker Trails
+- 2025-11-07 — Bleeker Trails E15 - Root and Stem — speakers: multiple mouths
+- 2025-11-06 — Bleeker Trails E14 - For Better or For Worse
+- 2025-11-05 — Bleeker Trails E13 - Fire on the Water — speakers: Bleeker Trails, Water Julius
+- 2025-11-05 — Bleeker Trails E12 - Calliope
+- 2025-11-03 — Bleeker Trails E11 - Fish Tales
+- 2025-11-02 — Bleeker Trails E10 - Downhill — speakers: Bleeker Trails, Downhill Join, El Capit
+- 2025-10-27 — Houdini's Last Halloween 3/3 - Perception — speakers: Last Halloween
+- 2025-10-20 — Houdini's Last Halloween 2/3 - Vibrating — speakers: Last Halloween
+- 2025-10-13 — Houdini's Last Halloween 1/3 - Smoke and Mirrors — speakers: Harry Houdini
+- 2025-05-23 — The Specter 3/3 - The Ending Story
+- 2025-05-22 — The Specter 2/3 - The Fetter
+- 2025-05-22 — The Specter 1/3 - Old Friends — speakers: Wilhelm Vogler
+- 2025-03-26 — Cosmic Dark Campaign 10 (Finale) - Invisible Hand 2
+- 2025-03-25 — Cosmic Dark Campaign 9 - Invisible Hand 1 — speakers: Cosmic Dark Campaign, Invisible Hand
+- 2025-03-24 — Cosmic Dark Campaign 8 - Every Sunset 2 — speakers: nightfall approaching
+- 2025-03-23 — Cosmic Dark Campaign 7 - Every Sunset 1 — speakers: Cosmic Dark Campaign, Every Sunset
+- 2025-03-22 — Cosmic Dark Campaign 6 - Every Sunrise 2 — speakers: Cosmic Dark Campaign, Every Sunrise
+- 2025-03-21 — Cosmic Dark Campaign 5 - Every Sunrise 1 — speakers: Cosmic Dark Campaign, Every Sunrise
+- 2025-03-20 — Cosmic Dark Campaign 4 - Transparency 2 — speakers: Cosmic Dark Campaign
+- 2025-03-19 — Cosmic Dark Campaign 3 - Transparency 1
+- 2025-03-18 — Cosmic Dark Campaign 2 - Time Murder 2 — speakers: Cosmic Dark Campaign, Time Murder
+- 2025-03-17 — Cosmic Dark Campaign 1 - Time Murder 1 — speakers: Cosmic Dark Campaign, Time Murder
+- 2024-12-11 — The Bread Is Rising 2/2 - Sour Dough
+- 2024-12-10 — The Bread Is Rising 1/2 - The Magic of Christmas
+- 2024-10-31 — Somebody Think of the Children 3/3 - Way Down in the K-hole — speakers: Somebody Think, Way Down
+- 2024-10-30 — Somebody Think of the Children 2/3 - Grave Concerns — speakers: Somebody Think
+- 2024-10-29 — Somebody Think of the Children 1/3 - The Devil Went Down to Missouri — speakers: Somebody Think
+- 2024-05-28 — Miskatonic Shoreside Conservatory 8/8 - Love and Desperation — speakers: Miskatonic Shoreside Conservatory, Desperation Miskatonic Shoreside Conservatory, Patreon Feed
+- 2024-05-24 — Miskatonic Shoreside Conservatory 7/8 - The Tether — speakers: Miskatonic Shoreside Conservatory, Patreon Fe
+- 2024-05-22 — Miskatonic Shoreside Conservatory 6/8 - Legacy — speakers: Miskatonic Shoreside Conservatory
+- 2024-05-15 — Miskatonic Shoreside Conservatory 5/8 - When We Needed Saving — speakers: Miskatonic Shoreside Conservatory, Patreon Fe
+- 2024-05-07 — Miskatonic Shoreside Conservatory 4/8 - Whatever It Takes — speakers: Miskatonic Shoreside Conservatory, Patreon Feed
+- 2024-04-30 — Miskatonic Shoreside Conservatory 3/8 - Seek the Highest Limit — speakers: Miskatonic Shoreside Conservatory
+- 2024-04-24 — Miskatonic Shoreside Conservatory 2/8 - Rite of Passage — speakers: Miskatonic Shoreside Conservatory, Miskatonic Shoreside Conser
+- 2024-04-17 — Miskatonic Shoreside Conservatory 1/8 - Beyond Your Dreams — speakers: Miskatonic Shoreside Conservatory, Miskatonic Shor
+- 2024-03-28 — Lakeview 3/3 - Renovations — speakers: Patreon Fee
+- 2024-03-21 — Lakeview 2/3 - Escape
+- 2024-03-14 — Lakeview 1/3 - Checking In
+- 2024-02-14 — The Lengian Job 6/6 - Mountains of Madness
+- 2024-02-07 — The Lengian Job 5/6 - Pressure
+- 2024-01-31 — The Lengian Job 4/6 - Trolloping
+- 2024-01-24 — The Lengian Job 3/6 - Siblengs
+- 2024-01-17 — The Lengian Job 2/6 - Surprise
+- 2024-01-10 — The Lengian Job 1/6 - Book Room — speakers: Book Room Four
+- 2023-12-13 — Christmas Stalking 2/2 - Deck the Halls — speakers: Christmas Stalking
+- 2023-12-12 — Christmas Stalking 1/2 - Up on the Housetop — speakers: Christmas Stalking, Housetop Tensions, Patreon Feed
+- 2023-12-07 — She Moves Backwards 4/4 - Fire in a Theater
+- 2023-12-06 — She Moves Backwards 3/4 - The Power of Cinema
+- 2023-12-01 — She Moves Backwards 2/4 - Gimghoul Castle
+- 2023-11-29 — She Moves Backwards 1/4 - Scream Fest
+- 2023-11-13 — The Waking Children 4/4 - The Woken Man — speakers: Guest Kee
+- 2023-11-07 — The Waking Children 3/4 - The Orphanage — speakers: Guest Keeper, Harlan Guthrie
+- 2023-10-31 — The Waking Children 2/4 - The Bookshop
+- 2023-10-24 — The Waking Children 1/4 - The Morgue — speakers: Guest Keeper, Harlan Gu
+- 2023-10-19 — Eclipse of the Heart 3/3 - Take On Me
+- 2023-10-18 — Eclipse of the Heart 2/3 - Poison
+- 2023-10-17 — Eclipse of the Heart 1/3 - Physical — speakers: Physical Four
+- 2023-09-15 — SCIENCE! 3/3 - High Society — speakers: Patreon Fee
+- 2023-09-14 — SCIENCE! 2/3 - Out of Nowhere
+- 2023-09-13 — SCIENCE! 1/3 - Head First — speakers: Head First
+- 2023-08-03 — Blackshade 3/3 - Dimension
+- 2023-08-02 — Blackshade 2/3 - Discovery
+- 2023-08-01 — Blackshade 1/3 - Disturbance — speakers: Disturbance Three
+- 2023-07-13 — Extraction 3/3 - Endless — speakers: Endless Will, Cosmic Dark
+- 2023-07-12 — Extraction 2/3 - Lonely — speakers: Lonely Tensions, Cosmic Dark
+- 2023-07-11 — Extraction 1/3 - Glowing — speakers: Graham Walmsley
+- 2023-06-29 — Give Me Death 4/4 - Darkness — speakers: Give Me Death
+- 2023-06-28 — Give Me Death 3/4 - Flicker — speakers: Give Me Death
+- 2023-06-28 — Give Me Death 2/4 - Cravings — speakers: Dandy Jack
+- 2023-06-27 — Give Me Death 1/4 - Homespun — speakers: George Washington
+- 2023-06-21 — Dead Light 2/2 - Some Devil
+- 2023-06-20 — Dead Light 1/2 - Snow Lightning
+- 2023-06-15 — Murder Shack 3/3 - Splintered — speakers: Murder Shack Splintered
+- 2023-06-14 — Murder Shack 2/3 - What a Shack Wants — speakers: Murder Shack
+- 2023-06-13 — Murder Shack 1/3 - Survivors — speakers: Murder Shack Survivors
+- 2023-06-01 — Ministry of Fear 3/3 - Speed Kills
+- 2023-05-31 — Ministry of Fear 2/3 - Cinema Verite
+- 2023-05-30 — Ministry of Fear 1/3 - You Never Know
+- 2023-05-11 — Death Cave 3/3 - The Way Out — speakers: Death Cave
+- 2023-05-10 — Death Cave 2/3 - La Purge — speakers: Death Cave
+- 2023-05-09 — Death Cave 1/3 - Seekers — speakers: Death Cave, Seekers Join
+- 2023-04-20 — Factory Records 2/2 - Welcome to the Machine — speakers: Factory Records, Machine Join
+- 2023-04-19 — Factory Records 1/2 - Metal Machine Music — speakers: Factory Records, Metal Machine Music Join
+- 2023-04-06 — A Dance With Darkness 3/3 - Annunciation
+- 2023-04-05 — A Dance With Darkness 2/3 - Ascension
+- 2023-04-04 — A Dance With Darkness 1/3 - Debut
+- 2023-03-21 — Lamp Posts in Bloom 2/2 - Homecoming
+- 2023-03-20 — Lamp Posts in Bloom 1/2 - Lost Flowers — speakers: Lamp Posts, Lost Flowers Something
+- 2023-03-15 — Blade Runner RPG 6/6 - Electric Dreams — speakers: Blade Runner
+- 2023-02-21 — Blade Runner RPG 5/6 - Eye Of The Storm — speakers: Blade Runner
+- 2023-02-03 — Blade Runner RPG 4/6 - Killing Floor — speakers: Blade Runner
+- 2023-01-13 — Blade Runner RPG 3/6 - In Shadows — speakers: Blade Runner
+- 2022-12-22 — Blade Runner RPG 2/6 - Skin Game — speakers: Blade Runner, Blade Ru
+- 2022-12-06 — Blade Runner RPG 1/6 - From On High — speakers: Blade Runner, Willem Novak
+- 2022-12-03 — Lost Art 2/2 - The Way of Water — speakers: Lost Art
+- 2022-12-02 — Lost Art 1/2 - A Farewell to Arms — speakers: Lost Art, Arms Join
+- 2022-12-02 — Diary of a Stranger - Xmas Improv — speakers: Xmas Improv Four Christmas, Christmas Eve
+- 2022-11-18 — Safe Space 2/2 - Reckoning — speakers: Rina Haenze
+- 2022-11-15 — Safe Space 1/2 - Time Bomb — speakers: Rina Haenze
+- 2022-10-31 — The Witch Is Dead — speakers: Join Rev
+- 2022-10-29 — Dead Man's Tooth 2/2 - Shareholder Delight — speakers: Dead Man, Shareholder Delight Will, Graves Corporation
+- 2022-10-28 — Dead Man's Tooth 1/2 - Fast Track
+- 2022-10-28 — The Dare 3/3 - The Spider And The Flies — speakers: Flies Will, Trouble Trio, Barnaker House
+- 2022-10-18 — The Dare 2/3 - Skin Deep — speakers: Barnaker House
+- 2022-10-10 — The Dare 1/3 - Trouble Trio
+- 2022-09-28 — Bleeker Trails E9 - Jump The Shark — speakers: Bleeker Trails
+- 2022-09-06 — Bleeker Trails E8 - Bone Wars
+- 2022-06-29 — Bleeker Trails E7 - Ambrosia
+- 2022-06-28 — Bleeker Trails E6 - Block Party
+- 2022-06-14 — Bleeker Trails E5 - Pipe Dream
+- 2022-04-26 — Bleeker Trails E4 - Tight Spot — speakers: Lady Liggett
+- 2022-04-05 — Bleeker Trails E3 - Purple Velvet — speakers: Bleeker Trails
+- 2022-03-15 — Bleeker Trails E2 - Mortal Coil
+- 2022-03-01 — Bleeker Trails E1 - First Act
+- 2022-02-25 — Night Bus 3/3 - Form Factors — speakers: Night Bus, Form Factors After
+- 2022-02-23 — Night Bus 2/3 - Towering — speakers: Night Bus
+- 2022-02-21 — Night Bus 1/3 - Stone Penge
+- 2022-02-17 — Of Sorrow and Clay 2/2 - Family Reunion
+- 2022-02-15 — Of Sorrow and Clay 1/2 - Take Me Home
+- 2021-10-31 — Totally-Not-A-Cult Gathering 2/2 - Gone Fishing — speakers: Scott Dorward
+- 2021-10-27 — Totally-Not-A-Cult Gathering 1/2 - Family Meeting — speakers: Scott Dorward
+- 2021-09-15 — UNLAND 3/3 - Last Admission
+- 2021-09-14 — UNLAND 2/3 - Emergency Exit
+- 2021-09-13 — UNLAND 1/3 - Theme Parkour — speakers: Slayed Nobody
+- 2021-09-08 — Fairyland 3/3 - Into the Madness
+- 2021-09-07 — Fairyland 2/3 - Into the Town — speakers: Fairyland Into, Bill McDonald
+- 2021-09-06 — Fairyland 1/3 - Into the Woods — speakers: Fairyland Into, Slayed Nobody, Keeper Scott Dorward
+- 2021-09-01 — The Meat Trade (Patreon Preview) - Gimme Shelter — speakers: Scott Dorward, Rina Haenze, Graeme Patrick
+- 2021-08-31 — Y'all of Cthulhu 21/21 - My Beloved Monster
+- 2021-08-17 — Y'all of Cthulhu 20/21 - Well Actually — speakers: Well Actually Events
+- 2021-07-13 — Y'all of Cthulhu 19/21 - Hushabye
+- 2021-06-08 — Y'all of Cthulhu 18/21 - Gross Anatomy
+- 2021-04-27 — Y'all of Cthulhu 17/21 - Out of Time
+- 2021-04-13 — Y'all of Cthulhu 16/21 - Separation Anxiety
+- 2021-03-11 — Y'all of Cthulhu 15/21 - The Weight
+- 2021-02-16 — Y'all of Cthulhu 14/21 - Key Issues — speakers: Colin Brock
+- 2021-01-14 — Y'all of Cthulhu 13/21 - Dust Devils
+- 2020-12-08 — Y'all of Cthulhu 12/21 - Weekend at Bertie's
+- 2020-11-17 — Y'all of Cthulhu 11/21 - Dying Light — speakers: Las Cruces
+- 2020-09-03 — Y'all of Cthulhu 10/21 - Down Darker Trials — speakers: Las Cruces
+- 2020-09-01 — Y'all of Cthulhu 9/21 - House Call — speakers: House Call Rested, Sheriff Ellie
+- 2020-08-11 — Y'all of Cthulhu 8/21 - Bed, Bath, and Beyond
+- 2020-07-14 — Y'all of Cthulhu 7/21 - Mountain Lion — speakers: Baylor Peak
+- 2020-06-09 — Y'all of Cthulhu 6/21 - Run of Luck
+- 2020-05-12 — Y'all of Cthulhu 5/21 - Six Underground
+- 2020-04-14 — Y'all of Cthulhu 4/21 - Rolling in the Deep — speakers: New Mexico
+- 2020-03-10 — Y'all of Cthulhu 3/21 - What Dreams May Call — speakers: What Dreams May Call
+- 2020-02-11 — Y'all of Cthulhu 2/21 - Burning Man (Reloaded) — speakers: Burning Man
+- 2020-01-14 — Y'all of Cthulhu 1/21 - Hang 'em Low (Reloaded)
 - 2020-01-10 — Trailer for Y'all of Cthulhu

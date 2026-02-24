@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"djEuMi4wOjE3NzEzNTg0Mzk2NTc="`
+- fetched_at: `2026-02-24T21:52:51+00:00`
+- checked_at: `2026-02-24T21:52:51+00:00`
+- etag: `"djEuMi4wOjE3NzE5NjMyMzkzMTE="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T21:52:51+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -32,6 +32,31 @@
   ],
   "episodes": [
     {
+      "key": "7a36a230036e696d15143b58a9be981c9cd380c7",
+      "title": "Action Surge Episode 48",
+      "published_at": "2026-02-24T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-48",
+      "description": "Want to know how the sausage was made? Well, in this week’s episode of Action Surge, we reveal far too much. Including how Doug removed and ate the filling from a sausage roll, then folded the pastry back together and put it back in the bag. Frankly, abhorrent. Once we have accepted that Doug might be a killer, it is back to D&D. We talk about those little shards of broken gem, and how utterly shocked Harry was when we casually ignored every piece of breadcrumbing he tried to lay down. We reflect on how right it felt for Dolly, Raidion, and Elowen to hang back, making space for some genuinely perfect story moments and very good dice rolls. I might have drugged a guy, but it was extremely cool. We also discuss how much we love piling on Ben whenever he does something silly, and look at what happened this time. We think about Dolly and her plans for the future, how Aoife imagines all of this playing out, and why we are absolutely convinced it is all going to be incredibly important. Finally, we discuss how deeply unfair it is for Alex to claim he is not patient when, in reality, he is just very excitable, and we love him for it. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69908ca87301331f1fca2922/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82962435",
+      "itunes_duration": "43:11",
+      "speakers": [
+        "Action Surge",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
+    {
       "key": "bf1e92c59d17f6ed56300c95d853cc0227356ee1",
       "title": "Ep. 48 Diamonds in the Rough",
       "published_at": "2026-02-17T20:00:00+00:00",
@@ -43,6 +68,7 @@
       "enclosure_length": "455793958",
       "itunes_duration": "3:57:20",
       "speakers": [
+        "Rough There",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -66,7 +92,6 @@
       "enclosure_length": "99309462",
       "itunes_duration": "51:42",
       "speakers": [
-        "Mario Kart",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -115,10 +140,11 @@
       "enclosure_length": "75370111",
       "itunes_duration": "39:14",
       "speakers": [
-        "Alex Jordan",
+        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
+        "Alex Jordan",
         "Aoife Wilson",
         "Doug Cockle"
       ],
@@ -214,12 +240,13 @@
       "enclosure_length": "384426065",
       "itunes_duration": "3:20:02",
       "speakers": [
+        "Calypso Moonrise Sometimes",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "ride",
@@ -266,11 +293,11 @@
       "itunes_duration": "3:57:17",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "christmas",
@@ -317,11 +344,11 @@
       "speakers": [
         "Elowen Grēnweard Strength",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "dreams",
@@ -366,11 +393,11 @@
       "itunes_duration": "3:30:20",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "light"
@@ -412,12 +439,13 @@
       "enclosure_length": "376514207",
       "itunes_duration": "3:16:01",
       "speakers": [
+        "Easy Hope",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "hope"
@@ -435,12 +463,12 @@
       "enclosure_length": "102435948",
       "itunes_duration": "53:20",
       "speakers": [
-        "Doug Cockle",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "action",
@@ -459,12 +487,13 @@
       "enclosure_length": "422119282",
       "itunes_duration": "3:39:46",
       "speakers": [
+        "open arms",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "knife"
@@ -507,11 +536,11 @@
       "itunes_duration": "2:22:04",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "gross"
@@ -529,6 +558,7 @@
       "enclosure_length": "108446685",
       "itunes_duration": "56:28",
       "speakers": [
+        "some migh",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -553,12 +583,13 @@
       "enclosure_length": "344792207",
       "itunes_duration": "2:59:29",
       "speakers": [
+        "Divinity Colour",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "colour",
@@ -577,6 +608,7 @@
       "enclosure_length": "123448248",
       "itunes_duration": "1:04:16",
       "speakers": [
+        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -601,12 +633,13 @@
       "enclosure_length": "463773928",
       "itunes_duration": "4:01:22",
       "speakers": [
+        "Nine Souls Needed Fate",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "souls"
@@ -624,12 +657,13 @@
       "enclosure_length": "88220511",
       "itunes_duration": "45:56",
       "speakers": [
+        "Natural Six",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "action",
@@ -648,12 +682,13 @@
       "enclosure_length": "402596025",
       "itunes_duration": "3:29:33",
       "speakers": [
+        "Grave Stories",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "cradle",
@@ -672,6 +707,7 @@
       "enclosure_length": "124113680",
       "itunes_duration": "1:04:37",
       "speakers": [
+        "Spoiler Chat",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -697,11 +733,11 @@
       "itunes_duration": "3:43:36",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "dark"
@@ -719,7 +755,6 @@
       "enclosure_length": "90365676",
       "itunes_duration": "47:03",
       "speakers": [
-        "Mina Lavigne",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -745,11 +780,11 @@
       "itunes_duration": "2:46:02",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "scents",
@@ -794,11 +829,11 @@
       "itunes_duration": "3:11:49",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "taste",
@@ -817,7 +852,6 @@
       "enclosure_length": "97748462",
       "itunes_duration": "50:53",
       "speakers": [
-        "Misty Step",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -842,12 +876,13 @@
       "enclosure_length": "426829023",
       "itunes_duration": "3:42:11",
       "speakers": [
+        "Change Some",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "seed",
@@ -866,7 +901,6 @@
       "enclosure_length": "98730750",
       "itunes_duration": "51:24",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -891,12 +925,13 @@
       "enclosure_length": "695989649",
       "itunes_duration": "4:49:44",
       "speakers": [
+        "Trust Fall Bartering",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "trust",
@@ -915,7 +950,7 @@
       "enclosure_length": "94002192",
       "itunes_duration": "48:55",
       "speakers": [
-        "Action Surge",
+        "flying around",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -940,12 +975,13 @@
       "enclosure_length": "374632922",
       "itunes_duration": "3:14:55",
       "speakers": [
+        "Dealt Paths",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "hand"
@@ -989,11 +1025,11 @@
       "itunes_duration": "2:56:08",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "bard",
@@ -1038,11 +1074,11 @@
       "itunes_duration": "2:43:12",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "midnight",
@@ -1085,12 +1121,13 @@
       "enclosure_length": "407893004",
       "itunes_duration": "3:32:17",
       "speakers": [
+        "Newly Dead",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "burning",
@@ -1110,7 +1147,6 @@
       "itunes_duration": "45:47",
       "speakers": [
         "Dr Kagon",
-        "Johnny Chiodini",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1136,11 +1172,11 @@
       "itunes_duration": "3:34:56",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "croak",
@@ -1183,13 +1219,13 @@
       "enclosure_length": "497461264",
       "itunes_duration": "4:18:54",
       "speakers": [
-        "Kobold God",
+        "Newly Dead",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "rift"
@@ -1231,12 +1267,13 @@
       "enclosure_length": "299909672",
       "itunes_duration": "2:34:18",
       "speakers": [
+        "Kobold Sometimes",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "blood",
@@ -1281,11 +1318,11 @@
       "itunes_duration": "3:05:01",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "city",
@@ -1304,7 +1341,6 @@
       "enclosure_length": "104668851",
       "itunes_duration": "54:30",
       "speakers": [
-        "Yilda’s Bond Villain",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1329,12 +1365,14 @@
       "enclosure_length": "338796848",
       "itunes_duration": "2:56:18",
       "speakers": [
+        "Leap Into",
+        "Newly Dead",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "leap"
@@ -1352,9 +1390,8 @@
       "enclosure_length": "109749586",
       "itunes_duration": "57:09",
       "speakers": [
-        "Erastus Gracey",
-        "Ben Starr",
         "Harry McEntire",
+        "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
         "Aoife Wilson",
@@ -1378,11 +1415,11 @@
       "itunes_duration": "3:47:41",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "treespeaker"
@@ -1401,11 +1438,11 @@
       "itunes_duration": "15:44",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "story"
@@ -1423,7 +1460,7 @@
       "enclosure_length": "97612094",
       "itunes_duration": "50:49",
       "speakers": [
-        "Action Surge",
+        "Rock Justice",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1449,11 +1486,11 @@
       "itunes_duration": "3:13:48",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "sanctum"
@@ -1471,7 +1508,6 @@
       "enclosure_length": "78143098",
       "itunes_duration": "54:15",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1497,11 +1533,11 @@
       "itunes_duration": "3:35:00",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "sting",
@@ -1520,7 +1556,6 @@
       "enclosure_length": "312944634",
       "itunes_duration": "2:42:58",
       "speakers": [
-        "Secret Santa",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1549,7 +1584,6 @@
       "enclosure_length": "98644613",
       "itunes_duration": "51:21",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1575,11 +1609,11 @@
       "itunes_duration": "3:13:36",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "scales",
@@ -1598,7 +1632,7 @@
       "enclosure_length": "103894373",
       "itunes_duration": "54:06",
       "speakers": [
-        "Action Surge",
+        "tough choices",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1623,12 +1657,13 @@
       "enclosure_length": "340310619",
       "itunes_duration": "2:57:03",
       "speakers": [
+        "Trouble While",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "toast",
@@ -1671,13 +1706,12 @@
       "enclosure_length": "360689929",
       "itunes_duration": "3:07:41",
       "speakers": [
-        "Lady Luck",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "date",
@@ -1722,11 +1756,11 @@
       "itunes_duration": "3:08:31",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "politics",
@@ -1745,7 +1779,6 @@
       "enclosure_length": "106185323",
       "itunes_duration": "55:17",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1771,11 +1804,11 @@
       "itunes_duration": "2:48:34",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "blood",
@@ -1795,7 +1828,6 @@
       "enclosure_length": "97815890",
       "itunes_duration": "50:34",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1820,13 +1852,13 @@
       "enclosure_length": "379112857",
       "itunes_duration": "3:15:20",
       "speakers": [
-        "Mab Woods",
+        "Sale Driven",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "secret",
@@ -1845,7 +1877,6 @@
       "enclosure_length": "105919502",
       "itunes_duration": "55:04",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1871,11 +1902,11 @@
       "itunes_duration": "4:19:33",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "killers"
@@ -1893,7 +1924,6 @@
       "enclosure_length": "82003093",
       "itunes_duration": "42:35",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1918,12 +1948,14 @@
       "enclosure_length": "320099009",
       "itunes_duration": "2:45:16",
       "speakers": [
+        "friendships shattered",
+        "trust broken",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "ointment"
@@ -1968,7 +2000,6 @@
       "enclosure_length": "68800300",
       "itunes_duration": "35:42",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -1994,11 +2025,11 @@
       "itunes_duration": "2:43:55",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "trial",
@@ -2017,7 +2048,6 @@
       "enclosure_length": "98504430",
       "itunes_duration": "51:02",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2043,11 +2073,11 @@
       "itunes_duration": "3:08:33",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "kindness",
@@ -2092,11 +2122,11 @@
       "itunes_duration": "3:23:11",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "prisoner",
@@ -2115,7 +2145,6 @@
       "enclosure_length": "89799520",
       "itunes_duration": "46:42",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2140,12 +2169,13 @@
       "enclosure_length": "380482560",
       "itunes_duration": "3:18:10",
       "speakers": [
+        "Book Join",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "bodies",
@@ -2164,7 +2194,6 @@
       "enclosure_length": "93811391",
       "itunes_duration": "48:47",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2190,11 +2219,11 @@
       "itunes_duration": "3:16:28",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "spider"
@@ -2212,7 +2241,6 @@
       "enclosure_length": "110103842",
       "itunes_duration": "57:18",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2237,13 +2265,14 @@
       "enclosure_length": "188227450",
       "itunes_duration": "3:14:47",
       "speakers": [
+        "Hot Heads",
+        "Fast Words After",
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
         "Aoife Wilson",
-        "Action Surge"
+        "Doug Cockle"
       ],
       "topics": [
         "heads",
@@ -2262,7 +2291,6 @@
       "enclosure_length": "42996096",
       "itunes_duration": "44:47",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2311,7 +2339,6 @@
       "enclosure_length": "99632323",
       "itunes_duration": "51:41",
       "speakers": [
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2359,8 +2386,6 @@
       "enclosure_length": "49276800",
       "itunes_duration": "51:19",
       "speakers": [
-        "Dmpc Morgan",
-        "Action Surge",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2386,11 +2411,11 @@
       "itunes_duration": "2:51:02",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "oathbreaker"
@@ -2408,7 +2433,7 @@
       "enclosure_length": "122869696",
       "itunes_duration": "1:03:55",
       "speakers": [
-        "Action Surge",
+        "Natural Six",
         "Harry McEntire",
         "Ben Starr",
         "Hollie Bennett",
@@ -2434,11 +2459,11 @@
       "itunes_duration": "3:27:41",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "shadow",
@@ -2482,11 +2507,11 @@
       "itunes_duration": "2:49:14",
       "speakers": [
         "Harry McEntire",
-        "Doug Cockle",
         "Ben Starr",
         "Hollie Bennett",
         "Alex Jordan",
-        "Aoife Wilson"
+        "Aoife Wilson",
+        "Doug Cockle"
       ],
       "topics": [
         "gods"
@@ -2524,105 +2549,106 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — Ep. 48 Diamonds in the Rough — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2026-02-10 — Action Surge Episode 47 — speakers: Mario Kart, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-02-24 — Action Surge Episode 48 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-02-17 — Ep. 48 Diamonds in the Rough — speakers: Rough There, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2026-02-10 — Action Surge Episode 47 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-03 — Ep. 47 The Ganders Grace — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2026-01-27 — Action Surge Episode 46 — speakers: Alex Jordan, Harry McEntire, Ben Starr, Hollie Bennett, Aoife Wilson, Doug Cockle
+- 2026-01-27 — Action Surge Episode 46 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-01-20 — Ep. 46 The House of Unknown Letters — speakers: Unknown Letters Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-01-16 — Drakonym Part Two: Monsters in the Moonlight — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-01-13 — Action Surge Episode 45 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2026-01-06 — Ep. 45 The Last Ride of Calypso Moonrise — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2026-01-06 — Ep. 45 The Last Ride of Calypso Moonrise — speakers: Calypso Moonrise Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-12-30 — Drakonym Part One: Welcome to the Ruby Rebellion — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-12-23 — Christmas Special - Elf ‘n’ Safety — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-12-23 — Christmas Special - Elf ‘n’ Safety — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-12-16 — Action Surge Episode 44 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-12-09 — Ep. 44 The Dreams of Elowen Grēnweard — speakers: Elowen Grēnweard Strength, Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-12-09 — Ep. 44 The Dreams of Elowen Grēnweard — speakers: Elowen Grēnweard Strength, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-12-02 — Action Surge Episode 43 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-11-25 — Ep. 43 The Last Light — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-11-25 — Ep. 43 The Last Light — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-11-18 — Action Surge Episode 42 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-11-11 — Ep. 42 Hope is Easy — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-11-04 — Action Surge Episode 41 — speakers: Doug Cockle, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-10-28 — Ep. 41 A Well-Placed Knife — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-11-11 — Ep. 42 Hope is Easy — speakers: Easy Hope, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-11-04 — Action Surge Episode 41 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-10-28 — Ep. 41 A Well-Placed Knife — speakers: open arms, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-10-21 — Action Surge Episode 40 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-10-14 — Ep. 40 The Gross and the Great — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-10-07 — Action Surge Episode 39 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-09-30 — Ep. 39 The Colour of Divinity — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-09-23 — Action Surge Episode 38 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-09-16 — Ep. 38 Nine Souls Needed — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-09-09 — Action Surge Episode 37 — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-09-02 — Ep. 37 Cradle to Grave — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-08-26 — Action Surge Episode 36 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-08-19 — Ep. 36 The Old Dark — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-08-12 — Action Surge Episode 35 — speakers: Mina Lavigne, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-08-05 — Ep. 35 Scents and Sensibility — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-10-14 — Ep. 40 The Gross and the Great — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-10-07 — Action Surge Episode 39 — speakers: some migh, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-09-30 — Ep. 39 The Colour of Divinity — speakers: Divinity Colour, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-09-23 — Action Surge Episode 38 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-09-16 — Ep. 38 Nine Souls Needed — speakers: Nine Souls Needed Fate, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-09-09 — Action Surge Episode 37 — speakers: Natural Six, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-09-02 — Ep. 37 Cradle to Grave — speakers: Grave Stories, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-08-26 — Action Surge Episode 36 — speakers: Spoiler Chat, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-08-19 — Ep. 36 The Old Dark — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-08-12 — Action Surge Episode 35 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-08-05 — Ep. 35 Scents and Sensibility — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-07-29 — Action Surge Episode 34 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-07-22 — Ep. 34 A Taste of Autumn — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-07-15 — Action Surge Episode 33 — speakers: Misty Step, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-07-08 — Ep.33 Seeds of Change — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-07-01 — Action Surge Episode 32 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-06-24 — Ep.32 Trust Fall — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-06-17 — Action Surge Episode 31 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-06-10 — Ep.31 The Hand You're Dealt — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-07-22 — Ep. 34 A Taste of Autumn — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-07-15 — Action Surge Episode 33 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-07-08 — Ep.33 Seeds of Change — speakers: Change Some, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-07-01 — Action Surge Episode 32 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-06-24 — Ep.32 Trust Fall — speakers: Trust Fall Bartering, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-06-17 — Action Surge Episode 31 — speakers: flying around, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-06-10 — Ep.31 The Hand You're Dealt — speakers: Dealt Paths, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-06-03 — Action Surge Episode 30 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-05-27 — Ep.30 The Bard and the Bowed — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-05-27 — Ep.30 The Bard and the Bowed — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-05-20 — Action Surge Episode 29 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-05-13 — Ep.29 The Midnight Moon — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-05-13 — Ep.29 The Midnight Moon — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-05-06 — Action Surge Episode 28 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-04-29 — Ep.28 Burning Shadows — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-04-22 — Action Surge Episode 27 — speakers: Dr Kagon, Johnny Chiodini, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-04-15 — Ep.27 Croak and Dagger — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-04-29 — Ep.28 Burning Shadows — speakers: Newly Dead, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-04-22 — Action Surge Episode 27 — speakers: Dr Kagon, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-04-15 — Ep.27 Croak and Dagger — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-04-08 — Action Surge Episode 26 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-04-01 — Ep.26 The Rift Below — speakers: Kobold God, Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-04-01 — Ep.26 The Rift Below — speakers: Newly Dead, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-03-25 — Action Surge Episode 25 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-03-18 — Ep.25 Blood of the Kobold — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-03-18 — Ep.25 Blood of the Kobold — speakers: Kobold Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2025-03-11 — Action Surge Episode 24 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-03-04 — Ep.24 City of Shadows — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-02-25 — Action Surge Episode 23 — speakers: Yilda’s Bond Villain, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-02-18 — Ep.23 A Leap Into the Unknown — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-02-11 — Action Surge Episode 22 — speakers: Erastus Gracey, Ben Starr, Harry McEntire, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-02-04 — Ep.22 Son of the Treespeaker — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-01-30 — Natural Six - The Story So Far — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-01-28 — Action Surge Episode 21 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-01-21 — Ep.21 The Sanctum — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2025-01-14 — Action Surge Episode 20 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2025-01-07 — Ep.20 The Sting of Suspicion — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-12-24 — The Christmas Special | Critical Failures, Chaos, and Cocktails — speakers: Secret Santa, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-12-17 — Action Surge Episode 19 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-12-10 — Ep.19 Scales of Justice — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-12-03 — Action Surge Episode 18 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-11-26 — Ep.18 A Toast to Trouble — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2025-03-04 — Ep.24 City of Shadows — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-02-25 — Action Surge Episode 23 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-02-18 — Ep.23 A Leap Into the Unknown — speakers: Leap Into, Newly Dead, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-02-11 — Action Surge Episode 22 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-02-04 — Ep.22 Son of the Treespeaker — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-01-30 — Natural Six - The Story So Far — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-01-28 — Action Surge Episode 21 — speakers: Rock Justice, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-01-21 — Ep.21 The Sanctum — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-01-14 — Action Surge Episode 20 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2025-01-07 — Ep.20 The Sting of Suspicion — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-12-24 — The Christmas Special | Critical Failures, Chaos, and Cocktails — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-12-17 — Action Surge Episode 19 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-12-10 — Ep.19 Scales of Justice — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-12-03 — Action Surge Episode 18 — speakers: tough choices, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-11-26 — Ep.18 A Toast to Trouble — speakers: Trouble While, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-11-19 — Action Surge Episode 17 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-11-12 — Ep.17 A Date with Death — speakers: Lady Luck, Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2024-11-12 — Ep.17 A Date with Death — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-11-05 — Action Surge Episode 16 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-10-29 — Ep.16 Politics and Poker Faces — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-10-22 — Action Surge Episode 15 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-10-15 — Ep15. Blood, Wine, and Moonlight — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-10-08 — Action Surge Episode 14 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-10-01 — Ep14. Secrets for Sale — speakers: Mab Woods, Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-09-24 — Action Surge Episode 13 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-09-17 — Ep13. The God Killers — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-09-10 — Action Surge Episode 12 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-09-03 — Ep12. Flies in the Ointment — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2024-10-29 — Ep.16 Politics and Poker Faces — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-10-22 — Action Surge Episode 15 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-10-15 — Ep15. Blood, Wine, and Moonlight — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-10-08 — Action Surge Episode 14 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-10-01 — Ep14. Secrets for Sale — speakers: Sale Driven, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-09-24 — Action Surge Episode 13 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-09-17 — Ep13. The God Killers — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-09-10 — Action Surge Episode 12 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-09-03 — Ep12. Flies in the Ointment — speakers: friendships shattered, trust broken, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-08-30 — Dream of the Dragonborn | 2024 Player's Handbook — speakers: Handbook Step, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-08-27 — Action Surge Episode 11 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-08-20 — Ep11. Trials of the Brothers — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-08-13 — Action Surge Episode 10 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-08-06 — Ep10. The Kindness of Strangers — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2024-08-27 — Action Surge Episode 11 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-08-20 — Ep11. Trials of the Brothers — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-08-13 — Action Surge Episode 10 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-08-06 — Ep10. The Kindness of Strangers — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-07-30 — Action Surge Episode 9 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-07-23 — Ep9. The Prisoner in the Attic — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-07-16 — Action Surge Episode 8 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-07-09 — E8. The Bodies and the Book — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-07-02 — Action Surge Episode 7 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-06-25 — E7. The Spider and The Flies — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-06-18 — Action Surge Episode 6 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-06-11 — E6. Hot Heads and Fast Words — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Action Surge
-- 2024-06-05 — Action Surge Episode 5 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-07-23 — Ep9. The Prisoner in the Attic — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-07-16 — Action Surge Episode 8 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-07-09 — E8. The Bodies and the Book — speakers: Book Join, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-07-02 — Action Surge Episode 7 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-06-25 — E7. The Spider and The Flies — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-06-18 — Action Surge Episode 6 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-06-11 — E6. Hot Heads and Fast Words — speakers: Hot Heads, Fast Words After, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-06-05 — Action Surge Episode 5 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-05-28 — E5. The Girl in the Cell — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-05-21 — Action Surge Episode 4 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-05-21 — Action Surge Episode 4 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-05-14 — E4: The Newly Dead — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-05-07 — Action Surge Episode 3 — speakers: Dmpc Morgan, Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-04-30 — E3. Oathbreaker — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
-- 2024-04-23 — Action Surge Episode 2 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-04-16 — E2. The Shadow Will Flood — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2024-05-07 — Action Surge Episode 3 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-04-30 — E3. Oathbreaker — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-04-23 — Action Surge Episode 2 — speakers: Natural Six, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
+- 2024-04-16 — E2. The Shadow Will Flood — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-04-09 — Action Surge Episode 1 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
-- 2024-04-02 — E1. The Gods Are Real — speakers: Harry McEntire, Doug Cockle, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson
+- 2024-04-02 — E1. The Gods Are Real — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2024-03-26 — Natural Six - A New D&D Actual Play Adventure — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
