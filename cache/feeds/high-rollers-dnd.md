@@ -2,9 +2,9 @@
 
 - slug: `high-rollers-dnd`
 - source: `https://feeds.megaphone.fm/NSR8625352094`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Thu, 19 Feb 2026 08:08:37 GMT`
+- fetched_at: `2026-02-24T03:16:56+00:00`
+- checked_at: `2026-02-24T03:16:56+00:00`
+- last_modified: `Tue, 24 Feb 2026 02:21:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://highrollersdnd.libsyn.com/website",
   "description": "Welcome to High Rollers, a live-play Dungeons & Dragons podcast! Join Dungeon Master Mark Hulmes and his players as they explore Altheya: The Dragon Empire on Europe's biggest independent TTRPG stream. Episodes go live Tuesdays and Thursdays, or watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd or youtube.com/highrollersdnd!",
   "image_url": "https://megaphone.imgix.net/podcasts/b072907c-ca95-11eb-b4a3-f71bfb3de22d/image/PodcastV1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-24T03:16:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,12 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4171",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "grave",
         "concerns",
@@ -63,11 +58,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6329",
       "speakers": [
-        "Ashen Rest",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Grave Concerns"
       ],
       "topics": [
         "grave",
@@ -88,12 +79,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5049",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "courier",
         "crownsteel",
@@ -113,12 +99,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4942",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "courier",
         "crownsteel",
@@ -138,12 +119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4537",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "emissary",
         "sovereign",
@@ -163,12 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5620",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "emissary",
         "sovereign",
@@ -188,12 +159,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4564",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "beast",
         "crown",
@@ -213,12 +179,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4254",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "beast",
         "crown",
@@ -239,10 +200,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5931",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Year Anniversary Special"
       ],
       "topics": [
         "champions",
@@ -263,11 +221,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5390",
       "speakers": [
-        "High Rollers",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers"
       ],
       "topics": [
         "champions",
@@ -287,12 +241,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3617",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "crownfall",
         "altheya",
@@ -311,12 +260,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5460",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "crownfall",
         "altheya",
@@ -335,12 +279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4835",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "gift",
         "planar",
@@ -361,11 +300,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5349",
       "speakers": [
-        "Ashen Rest",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "gift",
@@ -386,12 +321,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5086",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "altheya",
@@ -410,12 +340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5729",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "altheya",
@@ -434,12 +359,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4041",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "tapestry",
         "altheya",
@@ -458,12 +378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5625",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "tapestry",
         "altheya",
@@ -482,12 +397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4771",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "harlequin",
         "altheya",
@@ -506,12 +416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5767",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "harlequin",
         "altheya",
@@ -530,12 +435,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4776",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "satyr",
         "plea",
@@ -555,12 +455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4465",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "satyr",
         "plea",
@@ -581,11 +476,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3729",
       "speakers": [
-        "Feyweald Favours",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Feyweald Favours"
       ],
       "topics": [
         "feyweald",
@@ -607,11 +498,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3918",
       "speakers": [
-        "Feyweald Favours",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Feyweald Favours"
       ],
       "topics": [
         "feyweald",
@@ -632,12 +519,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4826",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "ambition",
         "gold",
@@ -658,10 +540,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5128",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ambition Bleeds Gold"
       ],
       "topics": [
         "ambition",
@@ -682,12 +561,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4940",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "matteo",
         "mailbag",
@@ -708,11 +582,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4761",
       "speakers": [
-        "Ashen Rest",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "before heading"
       ],
       "topics": [
         "matteo",
@@ -733,12 +603,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5031",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "golden",
         "bones",
@@ -759,10 +624,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4989",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Those Golden Bones"
       ],
       "topics": [
         "golden",
@@ -783,12 +645,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5186",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "glory",
         "palladrax",
@@ -808,12 +665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5177",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "glory",
         "palladrax",
@@ -833,12 +685,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6207",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "stormwall",
         "altheya",
@@ -857,12 +704,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4799",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "stormwall",
         "altheya",
@@ -882,11 +724,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4858",
       "speakers": [
-        "Sacred Ones",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Sacred Ones"
       ],
       "topics": [
         "sacred",
@@ -908,11 +746,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5195",
       "speakers": [
-        "Sacred Ones",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Sacred Ones"
       ],
       "topics": [
         "sacred",
@@ -934,10 +768,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4159",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Bloodkelp Forest"
       ],
       "topics": [
         "bloodkelp",
@@ -958,12 +789,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5961",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "bloodkelp",
         "forest",
@@ -983,12 +809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4968",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "heathens",
         "altheya",
@@ -1007,12 +828,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5594",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "heathens",
         "altheya",
@@ -1032,11 +848,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4225",
       "speakers": [
-        "Cult Smashers",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Cult Smashers"
       ],
       "topics": [
         "cult",
@@ -1058,11 +870,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5446",
       "speakers": [
-        "Cult Smashers",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Cult Smashers"
       ],
       "topics": [
         "cult",
@@ -1084,11 +892,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5461",
       "speakers": [
-        "Champion Agamox",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Champion Agamox"
       ],
       "topics": [
         "champion",
@@ -1110,11 +914,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5782",
       "speakers": [
-        "Champion Agamox",
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Champion Agamox"
       ],
       "topics": [
         "champion",
@@ -1135,12 +935,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4334",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "bounty",
         "altheya",
@@ -1159,12 +954,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5942",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "bounty",
         "altheya",
@@ -1184,10 +974,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5138",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Fishy Business"
       ],
       "topics": [
         "fishy",
@@ -1209,10 +996,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6092",
       "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Fishy Business"
       ],
       "topics": [
         "fishy",
@@ -1233,12 +1017,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5038",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "ambush",
         "deep",
@@ -1258,12 +1037,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5879",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "ambush",
         "deep",
@@ -1283,12 +1057,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4484",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "murder",
         "altheya",
@@ -1307,12 +1076,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5417",
-      "speakers": [
-        "com HighRollers",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "murder",
         "altheya",
@@ -1331,11 +1095,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4164",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "court",
         "masks",
@@ -1355,11 +1115,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5465",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "court",
         "masks",
@@ -1379,11 +1135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4692",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "lavender",
         "gardens",
@@ -1404,9 +1156,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5329",
       "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers"
       ],
       "topics": [
         "lavender",
@@ -1428,9 +1178,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4195",
       "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Lavender Gardens"
       ],
       "topics": [
         "deadeye",
@@ -1450,11 +1198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5690",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "deadeye",
         "altheya",
@@ -1473,11 +1217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5773",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "beach",
         "altheya",
@@ -1497,9 +1237,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4848",
       "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Suncrest Isles"
       ],
       "topics": [
         "beach",
@@ -1520,10 +1258,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4283",
       "speakers": [
-        "Obsidian Wrath",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Obsidian Wrath"
       ],
       "topics": [
         "obsidian",
@@ -1545,10 +1280,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5963",
       "speakers": [
-        "Obsidian Wrath",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Obsidian Wrath"
       ],
       "topics": [
         "obsidian",
@@ -1570,9 +1302,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5556",
       "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "New Recruits"
       ],
       "topics": [
         "recruits",
@@ -1592,12 +1322,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5017",
-      "speakers": [
-        "Rollers Minis",
-        "highrollersdnd com",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "recruits",
         "altheya",
@@ -1616,11 +1341,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5121",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "river",
         "stars",
@@ -1640,11 +1361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4663",
-      "speakers": [
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "river",
         "stars",
@@ -1665,10 +1382,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4813",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "One Door Closes",
+        "Magi Vault"
       ],
       "topics": [
         "door",
@@ -1690,10 +1405,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5378",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "One Door Closes",
+        "Magi Vault"
       ],
       "topics": [
         "door",
@@ -1715,10 +1428,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4601",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Vermillion Auxa",
+        "Red Wing"
       ],
       "topics": [
         "vermillion",
@@ -1739,10 +1450,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5384",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Vermillion Auxa"
       ],
       "topics": [
         "vermillion",
@@ -1763,10 +1471,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4839",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Red Wing"
       ],
       "topics": [
         "trap",
@@ -1788,10 +1493,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5387",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Red Wing"
       ],
       "topics": [
         "trap",
@@ -1813,10 +1515,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4776",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Red Wing"
       ],
       "topics": [
         "altheya",
@@ -1837,10 +1536,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5385",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Red Wing"
       ],
       "topics": [
         "altheya",
@@ -1860,12 +1556,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3843",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -1886,10 +1577,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6100",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Chromatic Quandary",
+        "Red Wing"
       ],
       "topics": [
         "altheya",
@@ -1910,12 +1599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4638",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -1935,12 +1619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5610",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -1960,12 +1639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8061",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -1986,11 +1660,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4581",
       "speakers": [
-        "Gallowack Hunt",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Gallowack Hunt"
       ],
       "topics": [
         "altheya",
@@ -2012,11 +1682,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5774",
       "speakers": [
-        "Gallowack Hunt",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Gallowack Hunt"
       ],
       "topics": [
         "altheya",
@@ -2038,11 +1704,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5247",
       "speakers": [
-        "Tall Tales",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Tall Tales"
       ],
       "topics": [
         "altheya",
@@ -2065,11 +1727,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5074",
       "speakers": [
-        "Tall Tales",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Tall Tales"
       ],
       "topics": [
         "altheya",
@@ -2092,10 +1750,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5201",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "New Journey Bee",
+        "Rustwail Woods"
       ],
       "topics": [
         "altheya",
@@ -2116,11 +1772,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4991",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2141,11 +1793,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4817",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2166,12 +1814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5500",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2191,12 +1834,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5172",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2216,12 +1854,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4992",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2242,11 +1875,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5025",
       "speakers": [
-        "Duke Ignarius",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Duke Ignarius"
       ],
       "topics": [
         "altheya",
@@ -2267,12 +1896,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5031",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2292,12 +1916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5439",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2317,12 +1936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5071",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2343,10 +1957,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5149",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "What Remains Behind",
+        "Ash Hills"
       ],
       "topics": [
         "altheya",
@@ -2366,10 +1978,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6177",
       "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "What Remains Behind"
       ],
       "topics": [
         "altheya",
@@ -2389,11 +1998,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4666",
       "speakers": [
-        "Jingle Jam",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ser Eldrak"
       ],
       "topics": [
         "altheya",
@@ -2415,11 +2020,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5581",
       "speakers": [
-        "Jingle Jam",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ser Eldrak"
       ],
       "topics": [
         "altheya",
@@ -2440,12 +2041,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4741",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2465,14 +2061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6047",
-      "speakers": [
-        "Ash Hills",
-        "Lady Verithira",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2492,12 +2081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4445",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2517,12 +2101,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5092",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2542,12 +2121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5100",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2567,12 +2141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5537",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2592,12 +2161,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4760",
-      "speakers": [
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2617,13 +2181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5719",
-      "speakers": [
-        "Kalifris Mini",
-        "com Add",
-        "Rollers Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2644,10 +2202,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4331",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "These Golden Hills",
+        "Ash Hills"
       ],
       "topics": [
         "altheya",
@@ -2669,10 +2225,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5823",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "These Golden Hills",
+        "Ash Hills"
       ],
       "topics": [
         "altheya",
@@ -2694,10 +2248,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5010",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Embers Between Friends",
+        "Ashen Citadel"
       ],
       "topics": [
         "altheya",
@@ -2719,10 +2271,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5311",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Embers Between Friends",
+        "Ashen Citadel"
       ],
       "topics": [
         "altheya",
@@ -2744,8 +2294,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4499",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Side Quest",
+        "High Rollers",
+        "Adelphi Theatre"
       ],
       "topics": [
         "altheya",
@@ -2767,8 +2318,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4602",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Side Quest",
+        "High Rollers",
+        "Adelphi Theatre"
       ],
       "topics": [
         "altheya",
@@ -2790,10 +2342,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4687",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Citadel"
       ],
       "topics": [
         "altheya",
@@ -2815,11 +2364,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5569",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2841,11 +2386,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4881",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2866,11 +2407,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4940",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2891,11 +2428,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5308",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -2917,12 +2450,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5460",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2943,12 +2471,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5435",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2968,12 +2491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4804",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -2994,10 +2512,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3792",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Grave Sermon",
+        "Grave Father"
       ],
       "topics": [
         "altheya",
@@ -3019,10 +2535,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6094",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Grave Sermon"
       ],
       "topics": [
         "altheya",
@@ -3044,10 +2557,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5136",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "about Op"
       ],
       "topics": [
         "altheya",
@@ -3069,10 +2579,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4893",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Dame Cassandra",
+        "Duke Ignarius",
+        "gaining so"
       ],
       "topics": [
         "altheya",
@@ -3093,12 +2602,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4252",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3118,10 +2622,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5377",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3142,12 +2643,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5579",
       "speakers": [
-        "Ashen Rest",
-        "Atlas Altar Phoenix",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3167,13 +2663,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5376",
-      "speakers": [
-        "Atlas Altar Phoenix",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3192,13 +2682,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4345",
-      "speakers": [
-        "Atlas Altar Phoenix",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3218,13 +2702,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5930",
-      "speakers": [
-        "Atlas Altar Phoenix",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3244,12 +2722,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3884",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3269,12 +2742,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5231",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3295,10 +2763,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4312",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Brief Intermission",
+        "Ser Griold"
       ],
       "topics": [
         "altheya",
@@ -3320,11 +2786,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6026",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3346,10 +2808,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5184",
       "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "surprising transformations"
       ],
       "topics": [
         "altheya",
@@ -3371,11 +2830,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5574",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3397,11 +2852,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6449",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3424,11 +2875,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5055",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3451,11 +2898,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5468",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3476,11 +2919,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4451",
       "speakers": [
-        "Ashen Rest",
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3500,12 +2939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4558",
-      "speakers": [
-        "com Add",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3526,10 +2960,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5780",
       "speakers": [
-        "Ashen Rest",
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -3550,11 +2981,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4820",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3574,11 +3001,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4628",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3599,9 +3022,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4331",
       "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Harrowed Reunions",
+        "Enticing Devil"
       ],
       "topics": [
         "altheya",
@@ -3622,11 +3044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5998",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3646,11 +3064,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4592",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3669,11 +3083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4979",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3693,9 +3103,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5096",
       "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Team Heal"
       ],
       "topics": [
         "altheya",
@@ -3716,11 +3124,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5070",
-      "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3741,9 +3145,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5909",
       "speakers": [
-        "Altheya Minis",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Altheya Minis"
       ],
       "topics": [
         "altheya",
@@ -3764,10 +3166,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4428",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3788,10 +3187,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4881",
       "speakers": [
-        "Jennifer English",
-        "Aliona Baranova",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Side Quest",
+        "Altheya Side Qu"
       ],
       "topics": [
         "altheya",
@@ -3812,10 +3209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5558",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3835,10 +3229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4834",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3859,9 +3250,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4049",
       "speakers": [
-        "Illuminating Truths",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Illuminating Truths"
       ],
       "topics": [
         "altheya",
@@ -3883,9 +3272,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5849",
       "speakers": [
-        "Illuminating Truths",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Illuminating Truths"
       ],
       "topics": [
         "altheya",
@@ -3906,10 +3293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4434",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -3930,8 +3314,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4858",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Enticing Devil",
+        "Dhampyr Ophelia"
       ],
       "topics": [
         "altheya",
@@ -3953,8 +3337,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4345",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Enticing Devil"
       ],
       "topics": [
         "altheya",
@@ -3977,8 +3360,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5410",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Enticing Devil"
       ],
       "topics": [
         "altheya",
@@ -4001,8 +3383,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4341",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Ro"
       ],
       "topics": [
         "altheya",
@@ -4023,9 +3404,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5923",
       "speakers": [
-        "Duke Ignarius",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Duke Ignarius"
       ],
       "topics": [
         "altheya",
@@ -4045,9 +3424,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "10945",
-      "speakers": [
-        "Jagex Mods"
-      ],
+      "speakers": [],
       "topics": [
         "runescape",
         "adventure",
@@ -4068,10 +3445,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4855",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4091,10 +3465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5101",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4114,10 +3485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4670",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4137,10 +3505,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5181",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4161,9 +3526,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5441",
       "speakers": [
-        "Guild Politics",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Guild Politics"
       ],
       "topics": [
         "altheya",
@@ -4185,10 +3548,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5675",
       "speakers": [
-        "Guild Politics",
-        "Jolene Khor",
-        "Ashen Rest",
-        "Epidemic Sound"
+        "Guild Politics"
       ],
       "topics": [
         "altheya",
@@ -4209,10 +3569,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5134",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4233,9 +3590,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5684",
       "speakers": [
-        "Ashen Rest",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -4256,10 +3611,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4401",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4280,8 +3632,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5160",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Duke Ignarius"
       ],
       "topics": [
         "altheya",
@@ -4302,10 +3653,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5306",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4325,10 +3673,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5018",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4349,9 +3694,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4603",
       "speakers": [
-        "Ashen Rest",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -4373,8 +3716,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5584",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest"
       ],
       "topics": [
         "altheya",
@@ -4396,8 +3738,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4276",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Rest",
+        "High Roller"
       ],
       "topics": [
         "altheya",
@@ -4418,10 +3760,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5317",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4442,9 +3781,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4478",
       "speakers": [
-        "Ashen Rest",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Ashen Re"
       ],
       "topics": [
         "altheya",
@@ -4465,10 +3802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5419",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4488,10 +3822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4534",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4512,8 +3843,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5982",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Blackrock Mine"
       ],
       "topics": [
         "altheya",
@@ -4535,8 +3865,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5202",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Ro"
       ],
       "topics": [
         "altheya",
@@ -4556,10 +3885,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5017",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4579,8 +3905,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6360",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers"
       ],
       "topics": [
         "altheya",
@@ -4600,8 +3925,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5990",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Blackrock Mine"
       ],
       "topics": [
         "altheya",
@@ -4620,10 +3944,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5809",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "altheya",
         "dragon",
@@ -4644,14 +3965,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5746",
       "speakers": [
-        "Mark Hulmes",
-        "Ophelia D'larosa Rhiannon",
-        "Frost Rowan",
-        "Chris Trott Gruffudd",
-        "Tremorrew Kim",
-        "Xantheus Auregan Tom Hazell",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "new characters"
       ],
       "topics": [
         "altheya",
@@ -4673,7 +3987,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3706",
       "speakers": [
-        "Newbon Lae'zel Devora"
+        "High Rollers Presents",
+        "Origin Party"
       ],
       "topics": [
         "baldur",
@@ -4698,7 +4013,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4226",
       "speakers": [
-        "Newbon Lae'zel Devora"
+        "magic cu"
       ],
       "topics": [
         "baldur",
@@ -4723,7 +4038,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4238",
       "speakers": [
-        "Newbon Lae'zel Devora"
+        "High Rollers Presents"
       ],
       "topics": [
         "baldur",
@@ -4748,7 +4063,10 @@
       "enclosure_length": "0",
       "itunes_duration": "5748",
       "speakers": [
-        "Newbon Lae'zel Devora"
+        "High Rollers Presents",
+        "Athkatla All",
+        "Origin Characters",
+        "High Rollers"
       ],
       "topics": [
         "baldur",
@@ -4772,10 +4090,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9646",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -4795,8 +4110,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8358",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers",
+        "Clear Skies"
       ],
       "topics": [
         "high",
@@ -4819,8 +4134,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4660",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers",
+        "Clear Skies"
       ],
       "topics": [
         "high",
@@ -4843,8 +4158,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5346",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers",
+        "Terminus Keep"
       ],
       "topics": [
         "high",
@@ -4866,8 +4181,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5577",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers",
+        "Terminus Keep",
+        "Far Realm"
       ],
       "topics": [
         "high",
@@ -4888,10 +4204,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4665",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -4911,9 +4224,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5118",
       "speakers": [
-        "Qillek Ad Khollar",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "Qillek Ad Kholla"
       ],
       "topics": [
         "high",
@@ -4933,10 +4244,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4613",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -4956,10 +4264,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5089",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -4980,9 +4285,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7936",
       "speakers": [
-        "Map Npc Stats",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -5004,9 +4307,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5086",
       "speakers": [
-        "Map Npc Stats",
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -5027,10 +4328,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4807",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -5049,10 +4347,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5095",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -5071,10 +4366,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4591",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -5095,8 +4387,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5058",
       "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
+        "High Rollers",
+        "Operation Fenrir"
       ],
       "topics": [
         "high",
@@ -5117,10 +4409,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4751",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -5140,10 +4429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4707",
-      "speakers": [
-        "Epidemic Sound",
-        "Jolene Khor"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -5265,7 +4551,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5159",
-      "speakers": [],
+      "speakers": [
+        "friends arou"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -5329,7 +4617,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4467",
       "speakers": [
-        "High Rollers"
+        "High Rollers",
+        "High Roller"
       ],
       "topics": [
         "high",
@@ -5412,7 +4701,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5018",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -5628,8 +4919,7 @@
       "itunes_duration": "4792",
       "speakers": [
         "High Rollers",
-        "New Stars",
-        "High Rolle"
+        "New Stars"
       ],
       "topics": [
         "high",
@@ -5674,7 +4964,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6019",
       "speakers": [
-        "High Rollers"
+        "High Rollers",
+        "High Rolle"
       ],
       "topics": [
         "high",
@@ -5783,9 +5074,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5161",
-      "speakers": [
-        "High Rollers"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6016,7 +5305,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4859",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "Spicy Rabbit"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6035,7 +5327,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4449",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6054,7 +5348,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4612",
-      "speakers": [],
+      "speakers": [
+        "High Ro"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6114,7 +5410,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4336",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6233,7 +5531,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8279",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6253,7 +5553,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4581",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6291,7 +5593,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5101",
-      "speakers": [],
+      "speakers": [
+        "Dragons Welcome"
+      ],
       "topics": [
         "prologue",
         "legends",
@@ -6311,7 +5615,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4433",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "Nightbloom Hold"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6376,9 +5683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4771",
-      "speakers": [
-        "Nightbloom Hold"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6399,7 +5704,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3868",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6419,7 +5726,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5570",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6519,7 +5828,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5094",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6538,7 +5849,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4782",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "Blackened Rose"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6557,7 +5871,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4628",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "Young Elf"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6595,7 +5912,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5060",
-      "speakers": [],
+      "speakers": [
+        "High Rollers"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6615,7 +5934,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4656",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "High Rolle"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6635,7 +5957,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5238",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "High Rolle"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6691,7 +6016,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4614",
-      "speakers": [],
+      "speakers": [
+        "High Rollers",
+        "Forge Titan Valena"
+      ],
       "topics": [
         "high",
         "rollers",
@@ -6711,9 +6039,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4574",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6733,9 +6059,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5056",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6756,7 +6080,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4340",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -6777,7 +6101,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4962",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -6798,8 +6122,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5217",
       "speakers": [
-        "Porto Suvrano",
-        "Epidemic Sound Learn"
+        "Porto Suvrano"
       ],
       "topics": [
         "high",
@@ -6820,9 +6143,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4100",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6842,9 +6163,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5366",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6864,9 +6183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3622",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -6887,7 +6204,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5406",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Project Vanguard"
       ],
       "topics": [
         "high",
@@ -6909,7 +6227,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4900",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -6931,7 +6249,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4371",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -6953,7 +6271,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4939",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Dark Souls"
       ],
       "topics": [
         "high",
@@ -6974,7 +6293,10 @@
       "enclosure_length": "0",
       "itunes_duration": "4611",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Dark Souls",
+        "Jolly Cooperation",
+        "Steamforged Games"
       ],
       "topics": [
         "high",
@@ -6996,9 +6318,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4448",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7017,9 +6337,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6448",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7039,7 +6357,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4533",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7060,9 +6378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4525",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7083,7 +6399,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3703",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Must Come Down"
       ],
       "topics": [
         "high",
@@ -7103,7 +6420,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6177",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Must Come Down"
       ],
       "topics": [
         "high",
@@ -7122,9 +6440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4634",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7142,9 +6458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4958",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7163,8 +6477,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4026",
       "speakers": [
-        "Valiant Knight",
-        "Epidemic Sound Learn"
+        "Valiant Knight"
       ],
       "topics": [
         "high",
@@ -7187,8 +6500,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5146",
       "speakers": [
-        "Valiant Knight",
-        "Epidemic Sound Learn"
+        "Valiant Knight"
       ],
       "topics": [
         "high",
@@ -7211,7 +6523,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5009",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Black Stallion Riders"
       ],
       "topics": [
         "high",
@@ -7232,9 +6545,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4715",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7255,7 +6566,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3086",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Aerois Christmas Special"
       ],
       "topics": [
         "high",
@@ -7276,9 +6588,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4618",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7298,9 +6608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4924",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7320,9 +6628,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4260",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7343,7 +6649,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4979",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Black Stallion Forest"
       ],
       "topics": [
         "high",
@@ -7366,8 +6673,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4532",
       "speakers": [
-        "Yon Fen",
-        "Epidemic Sound Learn"
+        "Yon Fen"
       ],
       "topics": [
         "high",
@@ -7390,7 +6696,9 @@
       "enclosure_length": "0",
       "itunes_duration": "9468",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Battle Royale",
+        "High Rollers Studio Fundraiser"
       ],
       "topics": [
         "high",
@@ -7412,7 +6720,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4420",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7434,7 +6742,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4541",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7456,7 +6764,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3532",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7477,9 +6785,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4839",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7499,9 +6805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4423",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7521,9 +6825,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4184",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7543,9 +6845,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4607",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7567,9 +6867,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3764",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7592,8 +6890,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4144",
       "speakers": [
-        "Teleport Troubles",
-        "Epidemic Sound Learn"
+        "Teleport Troubles"
       ],
       "topics": [
         "high",
@@ -7615,8 +6912,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4463",
       "speakers": [
-        "Teleport Troubles",
-        "Epidemic Sound Learn"
+        "Teleport Troubles"
       ],
       "topics": [
         "high",
@@ -7637,9 +6933,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4509",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7659,9 +6953,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4271",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7682,7 +6974,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3530",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Sea God"
       ],
       "topics": [
         "high",
@@ -7703,7 +6996,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5773",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Sea God"
       ],
       "topics": [
         "high",
@@ -7724,7 +7018,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5520",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7746,7 +7040,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4208",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7768,7 +7062,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5183",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Month Later"
       ],
       "topics": [
         "high",
@@ -7789,7 +7084,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6485",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Month Later"
       ],
       "topics": [
         "high",
@@ -7810,7 +7106,8 @@
       "enclosure_length": "0",
       "itunes_duration": "10744",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Final Arc"
       ],
       "topics": [
         "high",
@@ -7831,9 +7128,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4864",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7852,9 +7147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4499",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7874,7 +7167,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4504",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -7895,9 +7188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5190",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -7919,8 +7210,7 @@
       "itunes_duration": "3531",
       "speakers": [
         "Soul Breakers",
-        "Soul Breaker",
-        "Epidemic Sound Learn"
+        "Soul Breaker"
       ],
       "topics": [
         "high",
@@ -7943,7 +7233,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5149",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "All Things Strahd Von"
       ],
       "topics": [
         "high",
@@ -7967,8 +7258,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5016",
       "speakers": [
-        "Soul Breakers",
-        "Epidemic Sound Learn"
+        "Soul Breakers"
       ],
       "topics": [
         "high",
@@ -7990,9 +7280,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6491",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8013,7 +7301,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2641",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "War Crime"
       ],
       "topics": [
         "high",
@@ -8036,7 +7325,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5500",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "War Crime"
       ],
       "topics": [
         "high",
@@ -8058,9 +7348,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3918",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8082,7 +7370,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4841",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Glass Jump"
       ],
       "topics": [
         "high",
@@ -8104,9 +7393,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5288",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8127,7 +7414,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5606",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -8150,7 +7437,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4570",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -8172,7 +7459,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3968",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Destruction Overlord Varacitor"
       ],
       "topics": [
         "high",
@@ -8193,9 +7481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4757",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8215,9 +7501,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4701",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8238,7 +7522,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6419",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Revenge Dogsbody"
       ],
       "topics": [
         "high",
@@ -8261,8 +7546,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4630",
       "speakers": [
-        "Praxis Valla",
-        "Epidemic Sound Learn"
+        "Praxis Valla"
       ],
       "topics": [
         "high",
@@ -8284,8 +7568,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4757",
       "speakers": [
-        "Praxis Valla",
-        "Epidemic Sound Learn"
+        "Praxis Valla"
       ],
       "topics": [
         "high",
@@ -8307,7 +7590,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4377",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Valkyrian Empire"
       ],
       "topics": [
         "high",
@@ -8329,7 +7613,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4852",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Valkyrian Empire"
       ],
       "topics": [
         "high",
@@ -8351,7 +7636,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4308",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Tassadar Preparations"
       ],
       "topics": [
         "high",
@@ -8373,7 +7659,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5291",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Tassadar Preparations"
       ],
       "topics": [
         "high",
@@ -8395,8 +7682,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4804",
       "speakers": [
-        "Prison Break",
-        "Epidemic Sound Learn"
+        "Prison Break"
       ],
       "topics": [
         "high",
@@ -8418,7 +7704,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6446",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Beast Following Vasilika"
       ],
       "topics": [
         "high",
@@ -8441,8 +7728,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4743",
       "speakers": [
-        "Prison Break",
-        "Epidemic Sound Learn"
+        "Prison Break"
       ],
       "topics": [
         "high",
@@ -8464,7 +7750,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4019",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -8485,9 +7771,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6694",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8509,7 +7793,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5166",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -8530,9 +7814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5291",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8552,9 +7834,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4669",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8574,9 +7854,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5062",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8594,9 +7872,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4718",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8615,9 +7891,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4700",
       "speakers": [
-        "Kallus Starbane",
-        "com hrdnd",
-        "Epidemic Sound Learn"
+        "Kallus Starbane"
       ],
       "topics": [
         "high",
@@ -8638,8 +7912,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4858",
       "speakers": [
-        "com hrdnd",
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Valkyrian Empire"
       ],
       "topics": [
         "high",
@@ -8660,7 +7934,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4860",
       "speakers": [
-        "Epidemic Sound Learn"
+        "Sentry's new"
       ],
       "topics": [
         "high",
@@ -8681,9 +7955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6213",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8705,7 +7977,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5716",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -8727,8 +7999,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4199",
       "speakers": [
-        "Horizon Reunions",
-        "Epidemic Sound Learn"
+        "Horizon Reunions"
       ],
       "topics": [
         "high",
@@ -8749,9 +8020,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5866",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8773,8 +8042,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5451",
       "speakers": [
-        "Horizon Reunions",
-        "Epidemic Sound Learn"
+        "Horizon Reunions"
       ],
       "topics": [
         "high",
@@ -8795,9 +8063,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4249",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8815,9 +8081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6676",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8838,7 +8102,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4840",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Rol"
       ],
       "topics": [
         "high",
@@ -8858,7 +8123,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4768",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Project Vanguard"
       ],
       "topics": [
         "high",
@@ -8880,7 +8146,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5168",
       "speakers": [
-        "Epidemic Sound Learn"
+        "Shadowsong Pinna"
       ],
       "topics": [
         "high",
@@ -8902,8 +8168,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5758",
       "speakers": [
-        "Baba Lysaga",
-        "Epidemic Sound Learn"
+        "Baba Lysaga"
       ],
       "topics": [
         "high",
@@ -8926,9 +8191,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8468",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -8950,7 +8213,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5586",
       "speakers": [
-        "Epidemic Sound"
+        "High Rollers",
+        "Lunar New Year Special"
       ],
       "topics": [
         "high",
@@ -8975,8 +8239,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6332",
       "speakers": [
-        "Baba Lysaga",
-        "Epidemic Sound Learn"
+        "Baba Lysaga"
       ],
       "topics": [
         "high",
@@ -8999,9 +8262,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4768",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9025,8 +8286,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4720",
       "speakers": [
-        "Mecha Ninjas",
-        "Epidemic Sound Learn"
+        "Mecha Ninjas"
       ],
       "topics": [
         "high",
@@ -9049,8 +8309,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4628",
       "speakers": [
-        "Mecha Ninjas",
-        "Epidemic Sound Learn"
+        "Mecha Ninjas"
       ],
       "topics": [
         "high",
@@ -9072,10 +8331,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4382",
-      "speakers": [
-        "Mind Flayers",
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9094,7 +8350,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6878",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Rolle"
       ],
       "topics": [
         "high",
@@ -9117,7 +8374,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4916",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Metal Gear"
       ],
       "topics": [
         "high",
@@ -9137,8 +8395,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4692",
       "speakers": [
-        "Shadowsong Pinnacle",
-        "Epidemic Sound Learn"
+        "Shadowsong Pinnacle"
       ],
       "topics": [
         "high",
@@ -9159,9 +8416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6925",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9182,8 +8437,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4930",
       "speakers": [
-        "Shadowsong Pinnacle",
-        "Epidemic Sound Learn"
+        "Shadowsong Pinnacle"
       ],
       "topics": [
         "high",
@@ -9205,7 +8459,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4268",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Metal Gear Solid"
       ],
       "topics": [
         "high",
@@ -9226,9 +8481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4873",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9248,9 +8501,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3953",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9270,9 +8521,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5754",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9292,9 +8541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4813",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9315,7 +8562,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4755",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -9336,9 +8583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3328",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9358,10 +8603,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5384",
-      "speakers": [
-        "Wonder Woman",
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9381,9 +8623,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4595",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9404,9 +8644,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4459",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9428,7 +8666,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3860",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Tempest Dragon"
       ],
       "topics": [
         "high",
@@ -9450,7 +8689,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5503",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Tempest Dragon"
       ],
       "topics": [
         "high",
@@ -9471,9 +8711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5211",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9494,7 +8732,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4321",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -9515,9 +8753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5179",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9538,7 +8774,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4729",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -9560,7 +8796,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4893",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -9582,7 +8818,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5573",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -9605,8 +8841,7 @@
       "itunes_duration": "4579",
       "speakers": [
         "Metal Crabs",
-        "Tricksy Wizards",
-        "Epidemic Sound Learn"
+        "Tricksy Wizards"
       ],
       "topics": [
         "high",
@@ -9629,9 +8864,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6930",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9656,8 +8889,7 @@
       "speakers": [
         "Metal Crabs",
         "Tricksy Wizards",
-        "immune mecha-crabs",
-        "Epidemic Sound Learn"
+        "immune mecha-crabs"
       ],
       "topics": [
         "high",
@@ -9680,9 +8912,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4377",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9702,9 +8932,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4893",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9724,9 +8952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4823",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9747,7 +8973,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7230",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Chaos Xiiki"
       ],
       "topics": [
         "high",
@@ -9770,7 +8997,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4488",
       "speakers": [
-        "Epidemic Sound Learn"
+        "Project Flo"
       ],
       "topics": [
         "high",
@@ -9792,7 +9019,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3745",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Ancient Enemies Underfoot"
       ],
       "topics": [
         "high",
@@ -9814,9 +9042,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5146",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9837,9 +9063,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4852",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9859,9 +9083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6690",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9882,9 +9104,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4642",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9905,7 +9125,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6923",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Roller"
       ],
       "topics": [
         "high",
@@ -9926,9 +9147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5337",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9949,9 +9168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3974",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -9973,7 +9190,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6005",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Mad Mage"
       ],
       "topics": [
         "high",
@@ -9996,7 +9214,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4959",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Green Grass",
+        "Clean Air"
       ],
       "topics": [
         "high",
@@ -10019,7 +9239,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5473",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10041,7 +9261,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4399",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10061,9 +9281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4854",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10083,8 +9301,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4587",
       "speakers": [
-        "Will Tom",
-        "Epidemic Sound Learn"
+        "Will Tom"
       ],
       "topics": [
         "high",
@@ -10105,9 +9322,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6715",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10128,9 +9343,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5121",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10151,7 +9364,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3727",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Shifting Straits"
       ],
       "topics": [
         "high",
@@ -10173,7 +9387,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6986",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Revenant Reveries Climbing"
       ],
       "topics": [
         "high",
@@ -10196,7 +9411,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5820",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10217,9 +9432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4253",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10240,7 +9453,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6349",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10261,9 +9474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5073",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10283,9 +9494,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4005",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10304,9 +9513,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5321",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10326,7 +9533,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4093",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10347,7 +9554,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6830",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Truth Ireena"
       ],
       "topics": [
         "high",
@@ -10369,9 +9577,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4467",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10391,7 +9597,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3878",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Darkest Before Dawn"
       ],
       "topics": [
         "high",
@@ -10413,7 +9620,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7058",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10435,9 +9642,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5516",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10458,7 +9663,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4308",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10479,7 +9684,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7387",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Argynvostholt Fleeing"
       ],
       "topics": [
         "high",
@@ -10502,7 +9708,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4955",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10522,9 +9728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4374",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10544,9 +9748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5253",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10567,8 +9769,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4280",
       "speakers": [
-        "Follow Gratzt",
-        "Epidemic Sound Learn"
+        "Follow Gratzt"
       ],
       "topics": [
         "high",
@@ -10591,7 +9792,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4939",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Sixth Finger"
       ],
       "topics": [
         "high",
@@ -10613,9 +9815,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4882",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10636,7 +9836,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7283",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10659,7 +9859,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4795",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10681,7 +9881,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4139",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10703,7 +9903,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6410",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10726,7 +9926,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5577",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10748,7 +9948,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4064",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Criminal Negotiations"
       ],
       "topics": [
         "high",
@@ -10770,8 +9971,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6635",
       "speakers": [
-        "Unspoken Pacts",
-        "Epidemic Sound Learn"
+        "Unspoken Pacts"
       ],
       "topics": [
         "high",
@@ -10794,7 +9994,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4748",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Ro"
       ],
       "topics": [
         "high",
@@ -10816,7 +10016,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4127",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Rolle"
       ],
       "topics": [
         "high",
@@ -10838,7 +10039,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7143",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10861,7 +10062,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5214",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10882,9 +10083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4513",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10906,7 +10105,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6577",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Living Dead Night"
       ],
       "topics": [
         "high",
@@ -10929,9 +10129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4527",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -10953,7 +10151,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4724",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -10975,7 +10173,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6431",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Blue Water Inn"
       ],
       "topics": [
         "high",
@@ -10997,9 +10196,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4177",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11020,7 +10217,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6525",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Vallaki Swearing"
       ],
       "topics": [
         "high",
@@ -11043,7 +10241,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4439",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Last Feather"
       ],
       "topics": [
         "high",
@@ -11063,9 +10262,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6941",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11087,7 +10284,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4756",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11108,8 +10305,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6697",
       "speakers": [
-        "Madam Ava",
-        "Epidemic Sound Learn"
+        "Madam Ava"
       ],
       "topics": [
         "high",
@@ -11132,7 +10328,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4889",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Portal Through Space"
       ],
       "topics": [
         "high",
@@ -11154,9 +10351,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4459",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11177,9 +10372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4986",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11200,7 +10393,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7059",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11223,9 +10416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4396",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11246,7 +10437,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4970",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Guardian Army"
       ],
       "topics": [
         "high",
@@ -11268,7 +10460,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6505",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Barovia Welcome"
       ],
       "topics": [
         "high",
@@ -11291,7 +10484,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4572",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Guardian Army"
       ],
       "topics": [
         "high",
@@ -11312,9 +10506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6155",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11334,9 +10526,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2981",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11357,7 +10547,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4269",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Ro"
       ],
       "topics": [
         "high",
@@ -11378,10 +10568,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5059",
-      "speakers": [
-        "Porto Suvrano",
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11403,7 +10590,7 @@
       "itunes_duration": "4871",
       "speakers": [
         "Porta Suvrano",
-        "Epidemic Sound Learn"
+        "High Ro"
       ],
       "topics": [
         "high",
@@ -11425,9 +10612,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5069",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11448,9 +10633,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4455",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11469,9 +10652,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5341",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11491,7 +10672,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5318",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11512,9 +10693,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4330",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11535,7 +10714,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4541",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Hot Under"
       ],
       "topics": [
         "high",
@@ -11556,7 +10736,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4888",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Hot Under"
       ],
       "topics": [
         "high",
@@ -11577,7 +10758,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4346",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11596,9 +10777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4427",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11616,9 +10795,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4112",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11638,8 +10815,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5301",
       "speakers": [
-        "Leaving Imixan",
-        "Epidemic Sound Learn"
+        "Leaving Imixan"
       ],
       "topics": [
         "high",
@@ -11660,7 +10836,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4440",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11681,9 +10857,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5078",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11703,9 +10877,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4163",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11725,9 +10897,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4917",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11747,9 +10917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4308",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11769,9 +10937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4838",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11791,9 +10957,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4839",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11814,8 +10978,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4743",
       "speakers": [
-        "High Rollers",
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11837,7 +11000,9 @@
       "enclosure_length": "0",
       "itunes_duration": "10174",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Christmas Special",
+        "Yogscast Jingle Jam"
       ],
       "topics": [
         "high",
@@ -11860,7 +11025,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4929",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11881,7 +11046,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4105",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11902,7 +11067,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4697",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11924,7 +11089,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4652",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -11945,9 +11110,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4340",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11967,9 +11130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4744",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -11989,9 +11150,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4558",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12011,7 +11170,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4390",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12031,9 +11190,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4330",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12052,9 +11209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4467",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12074,7 +11229,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5046",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12095,7 +11250,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4666",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Roller"
       ],
       "topics": [
         "high",
@@ -12116,7 +11272,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4610",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "High Priest"
       ],
       "topics": [
         "high",
@@ -12138,7 +11295,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4767",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12160,7 +11317,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4147",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12179,9 +11336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6894",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12203,7 +11358,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5139",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12222,9 +11377,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4930",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12244,9 +11397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6339",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12269,7 +11420,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4228",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Yama Lo",
+        "Tai Troubles"
       ],
       "topics": [
         "high",
@@ -12290,9 +11443,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4279",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12312,9 +11463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4394",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12335,9 +11484,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7179",
       "speakers": [
-        "Nate Sharp",
-        "Paultin Seppa",
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Astral Welcome"
       ],
       "topics": [
         "high",
@@ -12359,7 +11507,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4991",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Galecrown Palace"
       ],
       "topics": [
         "high",
@@ -12380,9 +11529,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6101",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12404,7 +11551,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4426",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Galecrown Palace"
       ],
       "topics": [
         "high",
@@ -12426,7 +11574,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5044",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Galecrown Palace"
       ],
       "topics": [
         "high",
@@ -12447,9 +11596,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6519",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12471,7 +11618,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4409",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12492,9 +11639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4482",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12514,9 +11659,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6506",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12537,9 +11680,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4780",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12560,8 +11701,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7384",
       "speakers": [
-        "Wicked Wit",
-        "Epidemic Sound Learn"
+        "Wicked Wit"
       ],
       "topics": [
         "high",
@@ -12583,7 +11723,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4590",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12605,10 +11745,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6319",
-      "speakers": [
-        "Dark Tower",
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12629,9 +11766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4170",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12653,7 +11788,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4517",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Ticking Timebomb"
       ],
       "topics": [
         "high",
@@ -12673,9 +11809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6515",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12697,7 +11831,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4196",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Ticking Timebomb"
       ],
       "topics": [
         "high",
@@ -12717,9 +11852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4589",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12740,8 +11873,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6663",
       "speakers": [
-        "Demon Deceptions",
-        "Epidemic Sound"
+        "Demon Deceptions"
       ],
       "topics": [
         "high",
@@ -12763,9 +11895,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4156",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12785,9 +11915,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4753",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12808,8 +11936,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6935",
       "speakers": [
-        "Iron Clad",
-        "Epidemic Sound"
+        "Iron Clad"
       ],
       "topics": [
         "high",
@@ -12831,9 +11958,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4348",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12854,8 +11979,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4282",
       "speakers": [
-        "Lucius Elenasto",
-        "Epidemic Sound Learn"
+        "Lucius Elenasto"
       ],
       "topics": [
         "high",
@@ -12874,9 +11998,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6771",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12896,9 +12018,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4513",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12917,7 +12037,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4990",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -12938,9 +12058,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4806",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12960,9 +12078,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5018",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -12983,7 +12099,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4607",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13004,9 +12120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6018",
-      "speakers": [
-        "Epidemic Sound"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13027,9 +12141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5553",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13050,7 +12162,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4431",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13071,9 +12183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4692",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13094,7 +12204,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4614",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13116,7 +12226,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4930",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13137,9 +12247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4342",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13160,10 +12268,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5631",
       "speakers": [
-        "Elspeth Eastman",
-        "Nate Sharp",
-        "com ElspethEastman",
-        "Epidemic Sound Learn"
+        "Elspeth Eastman"
       ],
       "topics": [
         "high",
@@ -13187,8 +12292,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4747",
       "speakers": [
-        "Brian McClellan",
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Night Eye"
       ],
       "topics": [
         "high",
@@ -13209,10 +12314,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4475",
-      "speakers": [
-        "Brian McClellan",
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13233,7 +12335,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4627",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Night Eye",
+        "Night Eye Ruins"
       ],
       "topics": [
         "high",
@@ -13254,9 +12358,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4436",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13276,9 +12378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5727",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13298,9 +12398,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4851",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13321,7 +12419,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4615",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13341,9 +12439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4677",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13363,7 +12459,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4667",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Roving Storm"
       ],
       "topics": [
         "high",
@@ -13386,7 +12483,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4735",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Roving Storm"
       ],
       "topics": [
         "high",
@@ -13409,7 +12507,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4485",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13430,7 +12528,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4618",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13451,7 +12549,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4816",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13472,7 +12570,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4600",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13492,9 +12590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4650",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13514,7 +12610,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4926",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Frying Pan"
       ],
       "topics": [
         "high",
@@ -13535,7 +12632,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5226",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Ill Winds Blow"
       ],
       "topics": [
         "high",
@@ -13556,9 +12654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4509",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13578,9 +12674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4911",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13599,9 +12693,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4550",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13620,9 +12712,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4502",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13642,7 +12732,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4775",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Burning Questions"
       ],
       "topics": [
         "high",
@@ -13662,9 +12753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6441",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13684,9 +12773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2344",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13706,9 +12793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5071",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13728,9 +12813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4328",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13750,9 +12833,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6111",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13771,9 +12852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4102",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13793,8 +12872,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9800",
       "speakers": [
-        "Halfling Camp",
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -13814,8 +12892,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4309",
       "speakers": [
-        "Jason Statham",
-        "Epidemic Sound"
+        "Jason Statham"
       ],
       "topics": [
         "high",
@@ -13838,8 +12915,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4704",
       "speakers": [
-        "Honey Heist",
-        "Epidemic Sound"
+        "Honey Heist"
       ],
       "topics": [
         "high",
@@ -13860,9 +12936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6399",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13884,8 +12958,7 @@
       "itunes_duration": "5451",
       "speakers": [
         "Matt Mercer",
-        "Ho ho ho",
-        "Epidemic Sound Learn"
+        "Ho ho ho"
       ],
       "topics": [
         "high",
@@ -13910,9 +12983,7 @@
       "itunes_duration": "4191",
       "speakers": [
         "Matt Mercer",
-        "Ho ho ho",
-        "St Mira",
-        "Epidemic Sound Learn"
+        "Ho ho ho"
       ],
       "topics": [
         "high",
@@ -13935,9 +13006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4739",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13955,9 +13024,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4803",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13975,9 +13042,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6462",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -13997,9 +13062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4657",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14020,7 +13083,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4811",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Dark Rituals"
       ],
       "topics": [
         "high",
@@ -14042,7 +13106,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6872",
       "speakers": [
-        "Epidemic Sound Learn"
+        "Idle Cham"
       ],
       "topics": [
         "high",
@@ -14064,7 +13128,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4688",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14085,9 +13149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4749",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14108,8 +13170,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7135",
       "speakers": [
-        "Aqua Mamba",
-        "Epidemic Sound Learn"
+        "Aqua Mamba"
       ],
       "topics": [
         "high",
@@ -14130,9 +13191,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4912",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14152,9 +13211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4942",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14175,7 +13232,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6603",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Sorcerous High Rollers"
       ],
       "topics": [
         "high",
@@ -14196,7 +13254,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5677",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Eye Catcher"
       ],
       "topics": [
         "high",
@@ -14217,9 +13276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4713",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14240,7 +13297,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4593",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14261,9 +13318,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5203",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14284,7 +13339,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4960",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Shot",
+        "Infernal Asylum"
       ],
       "topics": [
         "high",
@@ -14306,7 +13363,10 @@
       "enclosure_length": "0",
       "itunes_duration": "4490",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "One Shot",
+        "Infernal Asylum",
+        "Ordinary Gentlefolk"
       ],
       "topics": [
         "high",
@@ -14327,9 +13387,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4747",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14350,7 +13408,10 @@
       "enclosure_length": "0",
       "itunes_duration": "6909",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Trials Thanks",
+        "Idle Champions",
+        "Forgotten Realms"
       ],
       "topics": [
         "high",
@@ -14373,7 +13434,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4998",
       "speakers": [
-        "Epidemic Sound"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14394,9 +13455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4296",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14417,7 +13476,10 @@
       "enclosure_length": "0",
       "itunes_duration": "6710",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Big Break Thanks",
+        "Idle Champions",
+        "Forgotten Realms"
       ],
       "topics": [
         "high",
@@ -14439,9 +13501,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4732",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14460,7 +13520,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4110",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14480,7 +13540,10 @@
       "enclosure_length": "0",
       "itunes_duration": "6566",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Noble Sacrifice Thanks",
+        "Idle Champions",
+        "Forgotten Realms"
       ],
       "topics": [
         "high",
@@ -14502,7 +13565,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4770",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14522,9 +13585,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4326",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14544,7 +13605,10 @@
       "enclosure_length": "0",
       "itunes_duration": "6598",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Dinner Party Raid Thanks",
+        "Idle Champions",
+        "Forgotten Realms"
       ],
       "topics": [
         "high",
@@ -14567,9 +13631,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6650",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14591,7 +13653,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4116",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14612,9 +13674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4524",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14635,7 +13695,9 @@
       "enclosure_length": "0",
       "itunes_duration": "6578",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Team Welcome",
+        "Four Harper"
       ],
       "topics": [
         "high",
@@ -14657,9 +13719,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4194",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14680,7 +13740,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4645",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Cattle Rustlers"
       ],
       "topics": [
         "high",
@@ -14702,7 +13763,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4423",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Guardian Secrets"
       ],
       "topics": [
         "high",
@@ -14724,7 +13786,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4644",
       "speakers": [
-        "Epidemic Sound Learn"
+        "some dark"
       ],
       "topics": [
         "high",
@@ -14746,7 +13808,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4570",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14766,9 +13828,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4635",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14787,9 +13847,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4363",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14812,7 +13870,10 @@
       "enclosure_length": "0",
       "itunes_duration": "4882",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Soft Beds",
+        "Warm Plates",
+        "Whitebreeze River"
       ],
       "topics": [
         "high",
@@ -14836,7 +13897,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4355",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14856,7 +13917,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4077",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Wild Elves"
       ],
       "topics": [
         "high",
@@ -14876,7 +13938,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3704",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers"
       ],
       "topics": [
         "high",
@@ -14898,7 +13960,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3835",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Wild Elves"
       ],
       "topics": [
         "high",
@@ -14920,7 +13983,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4257",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Lost Luggage"
       ],
       "topics": [
         "high",
@@ -14943,7 +14007,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4625",
       "speakers": [
-        "Epidemic Sound Learn"
+        "High Rollers",
+        "Lost Luggage",
+        "Wild Elves"
       ],
       "topics": [
         "high",
@@ -14965,9 +14031,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4828",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -14986,9 +14050,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4414",
-      "speakers": [
-        "Epidemic Sound Learn"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "rollers",
@@ -15003,229 +14065,229 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — Grave Concerns (Part 2) | Altheya: The Dragon Empire #92 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-02-17 — Grave Concerns (Part 1) | Altheya: The Dragon Empire #92 — speakers: Ashen Rest, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-02-12 — Courier of Crownsteel (Part 2) | Altheya: The Dragon Empire #91 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-02-10 — Courier of Crownsteel (Part 1) | Altheya: The Dragon Empire #91 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-02-05 — Emissary of Sovereign (Part 2) | Altheya: The Dragon Empire #90 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-02-03 — Emissary of Sovereign (Part 1) | Altheya: The Dragon Empire #90 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-29 — Beasts of the Crown (Part 2) | Altheya: The Dragon Empire #89 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-27 — Beasts of the Crown (Part 1) | Altheya: The Dragon Empire #89 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-22 — Call of the Champions | 10 Year Anniversary Special (Part 2) — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-20 — Call of the Champions | 10 Year Anniversary Special (Part 1) — speakers: High Rollers, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-15 — Crownfall (Part 2) | Altheya: The Dragon Empire #88 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2026-01-13 — Crownfall (Part 1) | Altheya: The Dragon Empire #88 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-12-18 — Gifts of the Planar (Part 2) | Altheya: The Dragon Empire #87 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-12-16 — Gifts of the Planar (Part 1) | Altheya: The Dragon Empire #87 — speakers: Ashen Rest, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-12-04 — The House of ir'Nae'uith (Part 2) | Altheya: The Dragon Empire #86 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-12-02 — The House of ir'Nae'uith (Part 1) | Altheya: The Dragon Empire #86 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-20 — The Tapestry (Part 2) | Altheya: The Dragon Empire #85 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-18 — The Tapestry (Part 1) | Altheya: The Dragon Empire #85 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-13 — The Harlequin (Part 2) | Altheya: The Dragon Empire #84 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-11 — The Harlequin (Part 1) | Altheya: The Dragon Empire #84 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-06 — The Satyr's Plea (Part 2) | Altheya: The Dragon Empire #83 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-11-04 — The Satyr's Plea (Part 1) | Altheya: The Dragon Empire #83 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-30 — Feyweald Favours (Part 2) | Altheya: The Dragon Empire #82 — speakers: Feyweald Favours, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-27 — Feyweald Favours (Part 1) | Altheya: The Dragon Empire #82 — speakers: Feyweald Favours, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-23 — Ambition Bleeds Gold (Part 2) | Altheya: The Dragon Empire #81 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-21 — Ambition Bleeds Gold (Part 1) | Altheya: The Dragon Empire #81 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-16 — Matteo's Mailbag (Part 2) | Altheya: The Dragon Empire #80 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-14 — Matteo's Mailbag (Part 1) | Altheya: The Dragon Empire #80 — speakers: Ashen Rest, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-09 — Those Golden Bones (Part 2) | Altheya: The Dragon Empire #79 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-10-07 — Those Golden Bones (Part 1) | Altheya: The Dragon Empire #79 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-25 — Glory of Palladrax (Part 2) | Altheya: The Dragon Empire #78 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-23 — Glory of Palladrax (Part 1) | Altheya: The Dragon Empire #78 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-11 — The Stormwall (Part 2) | Altheya: The Dragon Empire #77 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-09 — The Stormwall (Part 1) | Altheya: The Dragon Empire #77 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-04 — Sacred Ones (Part 2) | Altheya: The Dragon Empire #76 — speakers: Sacred Ones, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-09-02 — Sacred Ones (Part 1) | Altheya: The Dragon Empire #76 — speakers: Sacred Ones, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-28 — Bloodkelp Forest (Part 2) | Altheya: The Dragon Empire #75 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-26 — Bloodkelp Forest (Part 1) | Altheya: The Dragon Empire #75 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-21 — Den of Heathens (Part 2) | Altheya: The Dragon Empire #74 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-19 — Den of Heathens (Part 1) | Altheya: The Dragon Empire #74 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-14 — Cult Smashers (Part 2) | Altheya: The Dragon Empire #73 — speakers: Cult Smashers, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-12 — Cult Smashers (Part 1) | Altheya: The Dragon Empire #73 — speakers: Cult Smashers, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-07 — Champion Agamox (Part 2) | Altheya: The Dragon Empire #72 — speakers: Champion Agamox, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-08-05 — Champion Agamox (Part 1) | Altheya: The Dragon Empire #72 — speakers: Champion Agamox, com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-31 — Bounty of the Sea (Part 2) | Altheya: The Dragon Empire #71 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-29 — Bounty of the Sea (Part 1) | Altheya: The Dragon Empire #71 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-24 — Fishy Business (Part 2) | Altheya: The Dragon Empire #70 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-22 — Fishy Business (Part 1) | Altheya: The Dragon Empire #70 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-03 — Ambush from the Deep (Part 2) | Altheya: The Dragon Empire #69 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-07-01 — Ambush from the Deep (Part 1) | Altheya: The Dragon Empire #69 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-26 — How to Get Away with Murder (Part 2) | Altheya: The Dragon Empire #68 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-24 — How to Get Away with Murder (Part 1) | Altheya: The Dragon Empire #68 — speakers: com HighRollers, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-19 — The Court of Masks (Part 2) | Altheya: The Dragon Empire #67 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-17 — The Court of Masks (Part 1) | Altheya: The Dragon Empire #67 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-12 — The Lavender Gardens (Part 2) | Altheya: The Dragon Empire #66 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-10 — The Lavender Gardens (Part 1) | Altheya: The Dragon Empire #66 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-05 — The Deadeye (Part 2) | Altheya: The Dragon Empire #65 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-06-03 — The Deadeye (Part 1) | Altheya: The Dragon Empire #65 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-22 — The Beach Episode (Part 2) | Altheya: The Dragon Empire #64 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-20 — The Beach Episode (Part 1) | Altheya: The Dragon Empire #64 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-15 — Obsidian Wrath (Part 2) | Altheya: The Dragon Empire #63 — speakers: Obsidian Wrath, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-13 — Obsidian Wrath (Part 1) | Altheya: The Dragon Empire #63 — speakers: Obsidian Wrath, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-08 — New Recruits (Part 2) | Altheya: The Dragon Empire #62 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-05-06 — New Recruits (Part 1) | Altheya: The Dragon Empire #62 — speakers: Rollers Minis, highrollersdnd com, Epidemic Sound, Jolene Khor
-- 2025-05-01 — River of Stars (Part 2) | Altheya: The Dragon Empire #61 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-29 — River of Stars (Part 1) | Altheya: The Dragon Empire #61 — speakers: Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-24 — One Door Closes (Part 2) | Altheya: The Dragon Empire #60 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-22 — One Door Closes (Part 1) | Altheya: The Dragon Empire #60 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-17 — Vermillion Auxa-9 (Part 2) | Altheya: The Dragon Empire #59 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-14 — Vermillion Auxa-9 (Part 1) | Altheya: The Dragon Empire #59 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-10 — Traps of the Ancients (Part 2) | Altheya: The Dragon Empire #58 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-08 — Traps of the Ancients (Part 1) | Altheya: The Dragon Empire #58 — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-03 — Altheya: The Dragon Empire #57 | The Family (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-04-01 — Altheya: The Dragon Empire #57 | The Family (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-27 — Altheya: The Dragon Empire #56 | Chromatic Quandary (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-25 — Altheya: The Dragon Empire #56 | Chromatic Quandary (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-20 — Altheya: The Dragon Empire #55 | Possession of a Dragonborn (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-18 — Altheya: The Dragon Empire #55 | Possession of a Dragonborn (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-11 — Altheya: The Dragon Empire #54 | Whispers of Madness — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-06 — Altheya: The Dragon Empire #53 | The Gallowack Hunt (Part 2) — speakers: Gallowack Hunt, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-03-04 — Altheya: The Dragon Empire #53 | The Gallowack Hunt (Part 1) — speakers: Gallowack Hunt, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-27 — Altheya: The Dragon Empire #52 | Tall Tales in Colvel (Part 2) — speakers: Tall Tales, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-25 — Altheya: The Dragon Empire #52 | Tall Tales in Colvel (Part 1) — speakers: Tall Tales, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-20 — Altheya: The Dragon Empire #51 | A New Journey Bee-gins (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-18 — Altheya: The Dragon Empire #51 | A New Journey Bee-gins (Part 1) — speakers: Ashen Rest, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-13 — Altheya: The Dragon Empire #50 | The Gullible Jotnyr (Part 2) — speakers: Ashen Rest, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-02-11 — Altheya: The Dragon Empire #50 | The Gullible Jotnyr (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-30 — Altheya: The Dragon Empire #49 | A Maiden's Kiss (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-28 — Altheya: The Dragon Empire #49 | A Maiden's Kiss (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-23 — Altheya: The Dragon Empire #48 | Downtime Decisions (Part 2) — speakers: Duke Ignarius, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-21 — Altheya: The Dragon Empire #48 | Downtime Decisions (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-16 — Altheya: The Dragon Empire #47 | Heart and Hearth (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-14 — Altheya: The Dragon Empire #47 | Heart and Hearth (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-09 — Altheya: The Dragon Empire #46 | What Remains Behind (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2025-01-07 — Altheya: The Dragon Empire #46 | What Remains Behind (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-12-05 — Altheya: The Dragon Empire #45 | The Curse of Crownsteel (Part 2) — speakers: Jingle Jam, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-12-03 — Altheya: The Dragon Empire #45 | The Curse of Crownsteel (Part 1) — speakers: Jingle Jam, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-28 — Altheya: The Dragon Empire #44 | The Heart of Dharuunax (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-26 — Altheya: The Dragon Empire #44 | The Heart of Dharuunax (Part 1) — speakers: Ash Hills, Lady Verithira, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-21 — Altheya: The Dragon Empire #43 | Corridors In Disguise (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-19 — Altheya: The Dragon Empire #43 | Corridors In Disguise (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-14 — Altheya: The Dragon Empire #42 |The Roads Less Travelled (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-12 — Altheya: The Dragon Empire #42 |The Roads Less Travelled (Part 1) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-07 — Altheya: The Dragon Empire #41 | Deceptions in the Deep (Part 2) — speakers: com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-11-05 — Altheya: The Dragon Empire #41 | Deceptions in the Deep (Part 1) — speakers: Kalifris Mini, com Add, Rollers Minis, Epidemic Sound, Jolene Khor
-- 2024-10-31 — Altheya: The Dragon Empire #40 | These Golden Hills (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-10-29 — Altheya: The Dragon Empire #40 | These Golden Hills (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-10-17 — Altheya: The Dragon Empire #39 | Embers Between Friends (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-10-15 — Altheya: The Dragon Empire #39 | Embers Between Friends (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-10-10 — Altheya: Side Quest! | The Volant Vault: Live at The Adelphi (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-10-08 — Altheya: Side Quest! | The Volant Vault: Live at The Adelphi (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-10-03 — Altheya: The Dragon Empire #38 | The Ashen Citadel (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-10-01 — Altheya: The Dragon Empire #38 | The Ashen Citadel (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-26 — Altheya: The Dragon Empire #37 | Into Dangerous Lands (Part 2) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-24 — Altheya: The Dragon Empire #37 | Into Dangerous Lands (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-19 — Altheya: The Dragon Empire #36 | The Long Road Ahead (Part 2) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-17 — Altheya: The Dragon Empire #36 | The Long Road Ahead (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-05 — Altheya: The Dragon Empire #35 | All Bark and All Bite (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-09-03 — Altheya: The Dragon Empire #35 | All Bark and All Bite (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-22 — Altheya: The Dragon Empire #34 | A Grave Sermon (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-21 — Altheya: The Dragon Empire #34 | A Grave Sermon (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-15 — Altheya: The Dragon Empire #33 | A Question of Quests (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-13 — Altheya: The Dragon Empire #33 | A Question of Quests (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-08 — Altheya: The Dragon Empire #32 | Consequences (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-06 — Altheya: The Dragon Empire #32 | Consequences (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-08-01 — Altheya: The Dragon Empire #31 | The Conquest! (Part 2) — speakers: Ashen Rest, Atlas Altar Phoenix, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-30 — Altheya: The Dragon Empire #31 | The Conquest! (Part 1) — speakers: Atlas Altar Phoenix, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-25 — Altheya: The Dragon Empire #30 | A Knight's Tale (Part 2) — speakers: Atlas Altar Phoenix, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-23 — Altheya: The Dragon Empire #30 | A Knight's Tale (Part 1) — speakers: Atlas Altar Phoenix, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-18 — Altheya: The Dragon Empire #29 | Festival of the Forge (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-16 — Altheya: The Dragon Empire #29 | Festival of the Forge (Part 1) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-11 — Altheya: The Dragon Empire #28 | A Brief Intermission (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-07-09 — Altheya: The Dragon Empire #28 | A Brief Intermission (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-27 — Altheya: The Dragon Empire #27 | Under the Shadow of Death (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-25 — Altheya: The Dragon Empire #27 | Under the Shadow of Death (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-20 — Altheya: The Dragon Empire #26 | Battle for Ashen Rest (Part 2) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-18 — Altheya: The Dragon Empire #26 | Battle for Ashen Rest (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-13 — Altheya: The Dragon Empire #25 | Ashes to Ashes (Part 2) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-11 — Altheya: The Dragon Empire #25 | Ashes to Ashes (Part 1) — speakers: Ashen Rest, com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-06 — Altheya: The Dragon Empire #24 | The Iron Crows (Part 2) — speakers: com Add, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-06-04 — Altheya: The Dragon Empire #24 | The Iron Crows (Part 1) — speakers: Ashen Rest, Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-05-30 — Altheya: The Dragon Empire #23 | Trouble in the Tunnels (Part 2) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-05-28 — Altheya: The Dragon Empire #23 | Trouble in the Tunnels (Part 1) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-05-09 — Altheya: The Dragon Empire #22 | Harrowed Reunions (Part 2) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-05-07 — Altheya: The Dragon Empire #22 | Harrowed Reunions (Part 1) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-05-02 — Altheya: The Dragon Empire #21 | The Dragon's Confessions (Part 2) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-04-30 — Altheya: The Dragon Empire #21 | The Dragon's Confessions (Part 1) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-04-25 — Altheya: The Dragon Empire #20 | Child of the Grave (Part 2) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-04-23 — Altheya: The Dragon Empire #20 | Child of the Grave (Part 1) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-04-18 — Altheya: The Dragon Empire #19 | Blood and Shadows (Part 2) — speakers: Altheya Minis, Epidemic Sound, Jolene Khor
-- 2024-04-16 — Altheya: The Dragon Empire #19 | Blood and Shadows (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-04-13 — Altheya: Side Quest! | The Night of Veils: Live at Insomnia 72 — speakers: Jennifer English, Aliona Baranova, Epidemic Sound, Jolene Khor
-- 2024-04-11 — Altheya: The Dragon Empire #18 | Gifts of the Tiefling (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-04-09 — Altheya: The Dragon Empire #18 | Gifts of the Tiefling (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-28 — Altheya: The Dragon Empire #17 | Illuminating Truths (Part 2) — speakers: Illuminating Truths, Epidemic Sound, Jolene Khor
-- 2024-03-26 — Altheya: The Dragon Empire #17 | Illuminating Truths (Part 1) — speakers: Illuminating Truths, Epidemic Sound, Jolene Khor
-- 2024-03-21 — Altheya: The Dragon Empire #16 | Possession of a Dhampyr (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-19 — Altheya: The Dragon Empire #16 | Possession of a Dhampyr (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-14 — Altheya: The Dragon Empire #15 | The Haunting of the Enticing Devil (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-12 — Altheya: The Dragon Empire #15 | The Haunting of the Enticing Devil (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-07 — Altheya: The Dragon Empire #14 | His Draconic Majesty (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-03-05 — Altheya: The Dragon Empire #14 | His Draconic Majesty (Part 1) — speakers: Duke Ignarius, Epidemic Sound, Jolene Khor
-- 2024-03-02 — The Most Typical RuneScape Adventure in RuneScape Kingdoms: The Roleplaying Game TTRPG! — speakers: Jagex Mods
-- 2024-02-29 — Altheya: The Dragon Empire #13 | Heralds of Doom (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-02-27 — Altheya: The Dragon Empire #13 | Heralds of Doom (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-02-22 — Altheya: The Dragon Empire #12 | Lights in the Dark (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-02-20 — Altheya: The Dragon Empire #12 | Lights in the Dark (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-02-15 — Altheya: The Dragon Empire #11 | Guild Politics (Part 2) — speakers: Guild Politics, Epidemic Sound, Jolene Khor
-- 2024-02-13 — Altheya: The Dragon Empire #11 | Guild Politics (Part 1) — speakers: Guild Politics, Jolene Khor, Ashen Rest, Epidemic Sound
-- 2024-02-08 — Altheya: The Dragon Empire #10 | Fortunes Foretold (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-02-06 — Altheya: The Dragon Empire #10 | Fortunes Foretold (Part 1) — speakers: Ashen Rest, Epidemic Sound, Jolene Khor
-- 2024-01-25 — Altheya: The Dragon Empire #9 | The Duke's Favour (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-01-23 — Altheya: The Dragon Empire #9 | The Duke's Favour (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-01-18 — Altheya: The Dragon Empire #8 | The Toad and the Tower (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2024-01-16 — Altheya: The Dragon Empire #8 | The Toad and the Tower (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2024-01-11 — Altheya: The Dragon Empire #7 | The House of the Rose (Part 2) — speakers: Ashen Rest, Epidemic Sound, Jolene Khor
-- 2024-01-09 — Altheya: The Dragon Empire #7 | The House of the Rose (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-12-14 — Altheya: The Dragon Empire #6 | The Ashen Road (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-12-12 — Altheya: The Dragon Empire #6 | The Ashen Road (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-12-07 — Altheya: The Dragon Empire #5 | Blood and Fire (Part 2) — speakers: Ashen Rest, Epidemic Sound, Jolene Khor
-- 2023-12-05 — Altheya: The Dragon Empire #5 | Blood and Fire (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-30 — Altheya: The Dragon Empire #4 | The Lightless Chasm (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-28 — Altheya: The Dragon Empire #4 | The Lightless Chasm (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-23 — Altheya: The Dragon Empire #3 | Into the Depths (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-21 — Altheya: The Dragon Empire #3 | Into the Depths (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-16 — Altheya: The Dragon Empire #2 | What's Yours is Mine (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-14 — Altheya: The Dragon Empire #2 | What's Yours is Mine (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-09 — Altheya: The Dragon Empire #1 | A World of Stories (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-11-07 — Altheya: The Dragon Empire #1 | A World of Stories (Part 1) — speakers: Mark Hulmes, Ophelia D'larosa Rhiannon, Frost Rowan, Chris Trott Gruffudd, Tremorrew Kim, Xantheus Auregan Tom Hazell, Epidemic Sound, Jolene Khor
-- 2023-09-28 — Baldur's Gate 3 Cast play D&D #2 (Part 2) | High Rollers Presents: Shadows of Athkatla — speakers: Newbon Lae'zel Devora
-- 2023-09-26 — Baldur's Gate 3 Cast play D&D #2 (Part 1) | High Rollers Presents: Shadows of Athkatla — speakers: Newbon Lae'zel Devora
-- 2023-09-24 — Baldur's Gate 3 Cast play D&D #1 (Part 2) | High Rollers Presents: Shadows of Athkatla — speakers: Newbon Lae'zel Devora
-- 2023-09-23 — Baldur's Gate 3 Cast play D&D #1 (Part 1) | High Rollers Presents: Shadows of Athkatla — speakers: Newbon Lae'zel Devora
-- 2023-09-08 — High Rollers: Aerois | The Final Q&A — speakers: Epidemic Sound, Jolene Khor
-- 2023-07-06 — High Rollers: Aerois #191 [FINAL] | Clear Skies (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-07-04 — High Rollers: Aerois #191 [FINAL] | Clear Skies (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-29 — High Rollers: Aerois #190 | The Terror in Terminus Keep (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-27 — High Rollers: Aerois #190 | The Terror in Terminus Keep (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-22 — High Rollers: Aerois #189 | Hope Won't Fall (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-21 — High Rollers: Aerois #189 | Hope Won't Fall (Part 1) — speakers: Qillek Ad Khollar, Epidemic Sound, Jolene Khor
-- 2023-06-15 — High Rollers: Aerois #188 | The Herald of Hadar (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-13 — High Rollers: Aerois #188 | The Herald of Hadar (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-06-08 — High Rollers: Aerois #187 | The Entropis Warfront (Part 2) — speakers: Map Npc Stats, Epidemic Sound, Jolene Khor
-- 2023-06-05 — High Rollers: Aerois #187 | The Entropis Warfront (Part 1) — speakers: Map Npc Stats, Epidemic Sound, Jolene Khor
-- 2023-06-01 — High Rollers: Aerois #186 | The Dragon's Call (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-05-30 — High Rollers: Aerois #186 | The Dragon's Call (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-05-25 — High Rollers: Aerois #185 | Operation Fenrir (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-05-23 — High Rollers: Aerois #185 | Operation Fenrir (Part 1) — speakers: Epidemic Sound, Jolene Khor
-- 2023-05-18 — High Rollers: Aerois #184 | The Horrors of Hadar (Part 2) — speakers: Epidemic Sound, Jolene Khor
-- 2023-05-16 — High Rollers: Aerois #184 | The Horrors of Hadar (Part 1) — speakers: Epidemic Sound, Jolene Khor
+- 2026-02-19 — Grave Concerns (Part 2) | Altheya: The Dragon Empire #92
+- 2026-02-17 — Grave Concerns (Part 1) | Altheya: The Dragon Empire #92 — speakers: Grave Concerns
+- 2026-02-12 — Courier of Crownsteel (Part 2) | Altheya: The Dragon Empire #91
+- 2026-02-10 — Courier of Crownsteel (Part 1) | Altheya: The Dragon Empire #91
+- 2026-02-05 — Emissary of Sovereign (Part 2) | Altheya: The Dragon Empire #90
+- 2026-02-03 — Emissary of Sovereign (Part 1) | Altheya: The Dragon Empire #90
+- 2026-01-29 — Beasts of the Crown (Part 2) | Altheya: The Dragon Empire #89
+- 2026-01-27 — Beasts of the Crown (Part 1) | Altheya: The Dragon Empire #89
+- 2026-01-22 — Call of the Champions | 10 Year Anniversary Special (Part 2) — speakers: Year Anniversary Special
+- 2026-01-20 — Call of the Champions | 10 Year Anniversary Special (Part 1) — speakers: High Rollers
+- 2026-01-15 — Crownfall (Part 2) | Altheya: The Dragon Empire #88
+- 2026-01-13 — Crownfall (Part 1) | Altheya: The Dragon Empire #88
+- 2025-12-18 — Gifts of the Planar (Part 2) | Altheya: The Dragon Empire #87
+- 2025-12-16 — Gifts of the Planar (Part 1) | Altheya: The Dragon Empire #87 — speakers: Ashen Rest
+- 2025-12-04 — The House of ir'Nae'uith (Part 2) | Altheya: The Dragon Empire #86
+- 2025-12-02 — The House of ir'Nae'uith (Part 1) | Altheya: The Dragon Empire #86
+- 2025-11-20 — The Tapestry (Part 2) | Altheya: The Dragon Empire #85
+- 2025-11-18 — The Tapestry (Part 1) | Altheya: The Dragon Empire #85
+- 2025-11-13 — The Harlequin (Part 2) | Altheya: The Dragon Empire #84
+- 2025-11-11 — The Harlequin (Part 1) | Altheya: The Dragon Empire #84
+- 2025-11-06 — The Satyr's Plea (Part 2) | Altheya: The Dragon Empire #83
+- 2025-11-04 — The Satyr's Plea (Part 1) | Altheya: The Dragon Empire #83
+- 2025-10-30 — Feyweald Favours (Part 2) | Altheya: The Dragon Empire #82 — speakers: Feyweald Favours
+- 2025-10-27 — Feyweald Favours (Part 1) | Altheya: The Dragon Empire #82 — speakers: Feyweald Favours
+- 2025-10-23 — Ambition Bleeds Gold (Part 2) | Altheya: The Dragon Empire #81
+- 2025-10-21 — Ambition Bleeds Gold (Part 1) | Altheya: The Dragon Empire #81 — speakers: Ambition Bleeds Gold
+- 2025-10-16 — Matteo's Mailbag (Part 2) | Altheya: The Dragon Empire #80
+- 2025-10-14 — Matteo's Mailbag (Part 1) | Altheya: The Dragon Empire #80 — speakers: before heading
+- 2025-10-09 — Those Golden Bones (Part 2) | Altheya: The Dragon Empire #79
+- 2025-10-07 — Those Golden Bones (Part 1) | Altheya: The Dragon Empire #79 — speakers: Those Golden Bones
+- 2025-09-25 — Glory of Palladrax (Part 2) | Altheya: The Dragon Empire #78
+- 2025-09-23 — Glory of Palladrax (Part 1) | Altheya: The Dragon Empire #78
+- 2025-09-11 — The Stormwall (Part 2) | Altheya: The Dragon Empire #77
+- 2025-09-09 — The Stormwall (Part 1) | Altheya: The Dragon Empire #77
+- 2025-09-04 — Sacred Ones (Part 2) | Altheya: The Dragon Empire #76 — speakers: Sacred Ones
+- 2025-09-02 — Sacred Ones (Part 1) | Altheya: The Dragon Empire #76 — speakers: Sacred Ones
+- 2025-08-28 — Bloodkelp Forest (Part 2) | Altheya: The Dragon Empire #75 — speakers: Bloodkelp Forest
+- 2025-08-26 — Bloodkelp Forest (Part 1) | Altheya: The Dragon Empire #75
+- 2025-08-21 — Den of Heathens (Part 2) | Altheya: The Dragon Empire #74
+- 2025-08-19 — Den of Heathens (Part 1) | Altheya: The Dragon Empire #74
+- 2025-08-14 — Cult Smashers (Part 2) | Altheya: The Dragon Empire #73 — speakers: Cult Smashers
+- 2025-08-12 — Cult Smashers (Part 1) | Altheya: The Dragon Empire #73 — speakers: Cult Smashers
+- 2025-08-07 — Champion Agamox (Part 2) | Altheya: The Dragon Empire #72 — speakers: Champion Agamox
+- 2025-08-05 — Champion Agamox (Part 1) | Altheya: The Dragon Empire #72 — speakers: Champion Agamox
+- 2025-07-31 — Bounty of the Sea (Part 2) | Altheya: The Dragon Empire #71
+- 2025-07-29 — Bounty of the Sea (Part 1) | Altheya: The Dragon Empire #71
+- 2025-07-24 — Fishy Business (Part 2) | Altheya: The Dragon Empire #70 — speakers: Fishy Business
+- 2025-07-22 — Fishy Business (Part 1) | Altheya: The Dragon Empire #70 — speakers: Fishy Business
+- 2025-07-03 — Ambush from the Deep (Part 2) | Altheya: The Dragon Empire #69
+- 2025-07-01 — Ambush from the Deep (Part 1) | Altheya: The Dragon Empire #69
+- 2025-06-26 — How to Get Away with Murder (Part 2) | Altheya: The Dragon Empire #68
+- 2025-06-24 — How to Get Away with Murder (Part 1) | Altheya: The Dragon Empire #68
+- 2025-06-19 — The Court of Masks (Part 2) | Altheya: The Dragon Empire #67
+- 2025-06-17 — The Court of Masks (Part 1) | Altheya: The Dragon Empire #67
+- 2025-06-12 — The Lavender Gardens (Part 2) | Altheya: The Dragon Empire #66
+- 2025-06-10 — The Lavender Gardens (Part 1) | Altheya: The Dragon Empire #66 — speakers: High Rollers
+- 2025-06-05 — The Deadeye (Part 2) | Altheya: The Dragon Empire #65 — speakers: Lavender Gardens
+- 2025-06-03 — The Deadeye (Part 1) | Altheya: The Dragon Empire #65
+- 2025-05-22 — The Beach Episode (Part 2) | Altheya: The Dragon Empire #64
+- 2025-05-20 — The Beach Episode (Part 1) | Altheya: The Dragon Empire #64 — speakers: Suncrest Isles
+- 2025-05-15 — Obsidian Wrath (Part 2) | Altheya: The Dragon Empire #63 — speakers: Obsidian Wrath
+- 2025-05-13 — Obsidian Wrath (Part 1) | Altheya: The Dragon Empire #63 — speakers: Obsidian Wrath
+- 2025-05-08 — New Recruits (Part 2) | Altheya: The Dragon Empire #62 — speakers: New Recruits
+- 2025-05-06 — New Recruits (Part 1) | Altheya: The Dragon Empire #62
+- 2025-05-01 — River of Stars (Part 2) | Altheya: The Dragon Empire #61
+- 2025-04-29 — River of Stars (Part 1) | Altheya: The Dragon Empire #61
+- 2025-04-24 — One Door Closes (Part 2) | Altheya: The Dragon Empire #60 — speakers: One Door Closes, Magi Vault
+- 2025-04-22 — One Door Closes (Part 1) | Altheya: The Dragon Empire #60 — speakers: One Door Closes, Magi Vault
+- 2025-04-17 — Vermillion Auxa-9 (Part 2) | Altheya: The Dragon Empire #59 — speakers: Vermillion Auxa, Red Wing
+- 2025-04-14 — Vermillion Auxa-9 (Part 1) | Altheya: The Dragon Empire #59 — speakers: Vermillion Auxa
+- 2025-04-10 — Traps of the Ancients (Part 2) | Altheya: The Dragon Empire #58 — speakers: Red Wing
+- 2025-04-08 — Traps of the Ancients (Part 1) | Altheya: The Dragon Empire #58 — speakers: Red Wing
+- 2025-04-03 — Altheya: The Dragon Empire #57 | The Family (Part 2) — speakers: Red Wing
+- 2025-04-01 — Altheya: The Dragon Empire #57 | The Family (Part 1) — speakers: Red Wing
+- 2025-03-27 — Altheya: The Dragon Empire #56 | Chromatic Quandary (Part 2)
+- 2025-03-25 — Altheya: The Dragon Empire #56 | Chromatic Quandary (Part 1) — speakers: Chromatic Quandary, Red Wing
+- 2025-03-20 — Altheya: The Dragon Empire #55 | Possession of a Dragonborn (Part 2)
+- 2025-03-18 — Altheya: The Dragon Empire #55 | Possession of a Dragonborn (Part 1)
+- 2025-03-11 — Altheya: The Dragon Empire #54 | Whispers of Madness
+- 2025-03-06 — Altheya: The Dragon Empire #53 | The Gallowack Hunt (Part 2) — speakers: Gallowack Hunt
+- 2025-03-04 — Altheya: The Dragon Empire #53 | The Gallowack Hunt (Part 1) — speakers: Gallowack Hunt
+- 2025-02-27 — Altheya: The Dragon Empire #52 | Tall Tales in Colvel (Part 2) — speakers: Tall Tales
+- 2025-02-25 — Altheya: The Dragon Empire #52 | Tall Tales in Colvel (Part 1) — speakers: Tall Tales
+- 2025-02-20 — Altheya: The Dragon Empire #51 | A New Journey Bee-gins (Part 2) — speakers: New Journey Bee, Rustwail Woods
+- 2025-02-18 — Altheya: The Dragon Empire #51 | A New Journey Bee-gins (Part 1) — speakers: Ashen Rest
+- 2025-02-13 — Altheya: The Dragon Empire #50 | The Gullible Jotnyr (Part 2) — speakers: Ashen Rest
+- 2025-02-11 — Altheya: The Dragon Empire #50 | The Gullible Jotnyr (Part 1)
+- 2025-01-30 — Altheya: The Dragon Empire #49 | A Maiden's Kiss (Part 2)
+- 2025-01-28 — Altheya: The Dragon Empire #49 | A Maiden's Kiss (Part 1)
+- 2025-01-23 — Altheya: The Dragon Empire #48 | Downtime Decisions (Part 2) — speakers: Duke Ignarius
+- 2025-01-21 — Altheya: The Dragon Empire #48 | Downtime Decisions (Part 1)
+- 2025-01-16 — Altheya: The Dragon Empire #47 | Heart and Hearth (Part 2)
+- 2025-01-14 — Altheya: The Dragon Empire #47 | Heart and Hearth (Part 1)
+- 2025-01-09 — Altheya: The Dragon Empire #46 | What Remains Behind (Part 2) — speakers: What Remains Behind, Ash Hills
+- 2025-01-07 — Altheya: The Dragon Empire #46 | What Remains Behind (Part 1) — speakers: What Remains Behind
+- 2024-12-05 — Altheya: The Dragon Empire #45 | The Curse of Crownsteel (Part 2) — speakers: Ser Eldrak
+- 2024-12-03 — Altheya: The Dragon Empire #45 | The Curse of Crownsteel (Part 1) — speakers: Ser Eldrak
+- 2024-11-28 — Altheya: The Dragon Empire #44 | The Heart of Dharuunax (Part 2)
+- 2024-11-26 — Altheya: The Dragon Empire #44 | The Heart of Dharuunax (Part 1)
+- 2024-11-21 — Altheya: The Dragon Empire #43 | Corridors In Disguise (Part 2)
+- 2024-11-19 — Altheya: The Dragon Empire #43 | Corridors In Disguise (Part 1)
+- 2024-11-14 — Altheya: The Dragon Empire #42 |The Roads Less Travelled (Part 2)
+- 2024-11-12 — Altheya: The Dragon Empire #42 |The Roads Less Travelled (Part 1)
+- 2024-11-07 — Altheya: The Dragon Empire #41 | Deceptions in the Deep (Part 2)
+- 2024-11-05 — Altheya: The Dragon Empire #41 | Deceptions in the Deep (Part 1)
+- 2024-10-31 — Altheya: The Dragon Empire #40 | These Golden Hills (Part 2) — speakers: These Golden Hills, Ash Hills
+- 2024-10-29 — Altheya: The Dragon Empire #40 | These Golden Hills (Part 1) — speakers: These Golden Hills, Ash Hills
+- 2024-10-17 — Altheya: The Dragon Empire #39 | Embers Between Friends (Part 2) — speakers: Embers Between Friends, Ashen Citadel
+- 2024-10-15 — Altheya: The Dragon Empire #39 | Embers Between Friends (Part 1) — speakers: Embers Between Friends, Ashen Citadel
+- 2024-10-10 — Altheya: Side Quest! | The Volant Vault: Live at The Adelphi (Part 2) — speakers: Side Quest, High Rollers, Adelphi Theatre
+- 2024-10-08 — Altheya: Side Quest! | The Volant Vault: Live at The Adelphi (Part 1) — speakers: Side Quest, High Rollers, Adelphi Theatre
+- 2024-10-03 — Altheya: The Dragon Empire #38 | The Ashen Citadel (Part 2) — speakers: Ashen Citadel
+- 2024-10-01 — Altheya: The Dragon Empire #38 | The Ashen Citadel (Part 1) — speakers: Ashen Rest
+- 2024-09-26 — Altheya: The Dragon Empire #37 | Into Dangerous Lands (Part 2) — speakers: Ashen Rest
+- 2024-09-24 — Altheya: The Dragon Empire #37 | Into Dangerous Lands (Part 1) — speakers: Ashen Rest
+- 2024-09-19 — Altheya: The Dragon Empire #36 | The Long Road Ahead (Part 2) — speakers: Ashen Rest
+- 2024-09-17 — Altheya: The Dragon Empire #36 | The Long Road Ahead (Part 1)
+- 2024-09-05 — Altheya: The Dragon Empire #35 | All Bark and All Bite (Part 2)
+- 2024-09-03 — Altheya: The Dragon Empire #35 | All Bark and All Bite (Part 1)
+- 2024-08-22 — Altheya: The Dragon Empire #34 | A Grave Sermon (Part 2) — speakers: Grave Sermon, Grave Father
+- 2024-08-21 — Altheya: The Dragon Empire #34 | A Grave Sermon (Part 1) — speakers: Grave Sermon
+- 2024-08-15 — Altheya: The Dragon Empire #33 | A Question of Quests (Part 2) — speakers: about Op
+- 2024-08-13 — Altheya: The Dragon Empire #33 | A Question of Quests (Part 1) — speakers: Dame Cassandra, Duke Ignarius, gaining so
+- 2024-08-08 — Altheya: The Dragon Empire #32 | Consequences (Part 2)
+- 2024-08-06 — Altheya: The Dragon Empire #32 | Consequences (Part 1) — speakers: Ashen Rest
+- 2024-08-01 — Altheya: The Dragon Empire #31 | The Conquest! (Part 2) — speakers: Ashen Rest
+- 2024-07-30 — Altheya: The Dragon Empire #31 | The Conquest! (Part 1)
+- 2024-07-25 — Altheya: The Dragon Empire #30 | A Knight's Tale (Part 2)
+- 2024-07-23 — Altheya: The Dragon Empire #30 | A Knight's Tale (Part 1)
+- 2024-07-18 — Altheya: The Dragon Empire #29 | Festival of the Forge (Part 2)
+- 2024-07-16 — Altheya: The Dragon Empire #29 | Festival of the Forge (Part 1)
+- 2024-07-11 — Altheya: The Dragon Empire #28 | A Brief Intermission (Part 2) — speakers: Brief Intermission, Ser Griold
+- 2024-07-09 — Altheya: The Dragon Empire #28 | A Brief Intermission (Part 1) — speakers: Ashen Rest
+- 2024-06-27 — Altheya: The Dragon Empire #27 | Under the Shadow of Death (Part 2) — speakers: surprising transformations
+- 2024-06-25 — Altheya: The Dragon Empire #27 | Under the Shadow of Death (Part 1) — speakers: Ashen Rest
+- 2024-06-20 — Altheya: The Dragon Empire #26 | Battle for Ashen Rest (Part 2) — speakers: Ashen Rest
+- 2024-06-18 — Altheya: The Dragon Empire #26 | Battle for Ashen Rest (Part 1) — speakers: Ashen Rest
+- 2024-06-13 — Altheya: The Dragon Empire #25 | Ashes to Ashes (Part 2) — speakers: Ashen Rest
+- 2024-06-11 — Altheya: The Dragon Empire #25 | Ashes to Ashes (Part 1) — speakers: Ashen Rest
+- 2024-06-06 — Altheya: The Dragon Empire #24 | The Iron Crows (Part 2)
+- 2024-06-04 — Altheya: The Dragon Empire #24 | The Iron Crows (Part 1) — speakers: Ashen Rest
+- 2024-05-30 — Altheya: The Dragon Empire #23 | Trouble in the Tunnels (Part 2)
+- 2024-05-28 — Altheya: The Dragon Empire #23 | Trouble in the Tunnels (Part 1)
+- 2024-05-09 — Altheya: The Dragon Empire #22 | Harrowed Reunions (Part 2) — speakers: Harrowed Reunions, Enticing Devil
+- 2024-05-07 — Altheya: The Dragon Empire #22 | Harrowed Reunions (Part 1)
+- 2024-05-02 — Altheya: The Dragon Empire #21 | The Dragon's Confessions (Part 2)
+- 2024-04-30 — Altheya: The Dragon Empire #21 | The Dragon's Confessions (Part 1)
+- 2024-04-25 — Altheya: The Dragon Empire #20 | Child of the Grave (Part 2) — speakers: Team Heal
+- 2024-04-23 — Altheya: The Dragon Empire #20 | Child of the Grave (Part 1)
+- 2024-04-18 — Altheya: The Dragon Empire #19 | Blood and Shadows (Part 2) — speakers: Altheya Minis
+- 2024-04-16 — Altheya: The Dragon Empire #19 | Blood and Shadows (Part 1)
+- 2024-04-13 — Altheya: Side Quest! | The Night of Veils: Live at Insomnia 72 — speakers: Side Quest, Altheya Side Qu
+- 2024-04-11 — Altheya: The Dragon Empire #18 | Gifts of the Tiefling (Part 2)
+- 2024-04-09 — Altheya: The Dragon Empire #18 | Gifts of the Tiefling (Part 1)
+- 2024-03-28 — Altheya: The Dragon Empire #17 | Illuminating Truths (Part 2) — speakers: Illuminating Truths
+- 2024-03-26 — Altheya: The Dragon Empire #17 | Illuminating Truths (Part 1) — speakers: Illuminating Truths
+- 2024-03-21 — Altheya: The Dragon Empire #16 | Possession of a Dhampyr (Part 2)
+- 2024-03-19 — Altheya: The Dragon Empire #16 | Possession of a Dhampyr (Part 1) — speakers: Enticing Devil, Dhampyr Ophelia
+- 2024-03-14 — Altheya: The Dragon Empire #15 | The Haunting of the Enticing Devil (Part 2) — speakers: Enticing Devil
+- 2024-03-12 — Altheya: The Dragon Empire #15 | The Haunting of the Enticing Devil (Part 1) — speakers: Enticing Devil
+- 2024-03-07 — Altheya: The Dragon Empire #14 | His Draconic Majesty (Part 2) — speakers: High Ro
+- 2024-03-05 — Altheya: The Dragon Empire #14 | His Draconic Majesty (Part 1) — speakers: Duke Ignarius
+- 2024-03-02 — The Most Typical RuneScape Adventure in RuneScape Kingdoms: The Roleplaying Game TTRPG!
+- 2024-02-29 — Altheya: The Dragon Empire #13 | Heralds of Doom (Part 2)
+- 2024-02-27 — Altheya: The Dragon Empire #13 | Heralds of Doom (Part 1)
+- 2024-02-22 — Altheya: The Dragon Empire #12 | Lights in the Dark (Part 2)
+- 2024-02-20 — Altheya: The Dragon Empire #12 | Lights in the Dark (Part 1)
+- 2024-02-15 — Altheya: The Dragon Empire #11 | Guild Politics (Part 2) — speakers: Guild Politics
+- 2024-02-13 — Altheya: The Dragon Empire #11 | Guild Politics (Part 1) — speakers: Guild Politics
+- 2024-02-08 — Altheya: The Dragon Empire #10 | Fortunes Foretold (Part 2)
+- 2024-02-06 — Altheya: The Dragon Empire #10 | Fortunes Foretold (Part 1) — speakers: Ashen Rest
+- 2024-01-25 — Altheya: The Dragon Empire #9 | The Duke's Favour (Part 2)
+- 2024-01-23 — Altheya: The Dragon Empire #9 | The Duke's Favour (Part 1) — speakers: Duke Ignarius
+- 2024-01-18 — Altheya: The Dragon Empire #8 | The Toad and the Tower (Part 2)
+- 2024-01-16 — Altheya: The Dragon Empire #8 | The Toad and the Tower (Part 1)
+- 2024-01-11 — Altheya: The Dragon Empire #7 | The House of the Rose (Part 2) — speakers: Ashen Rest
+- 2024-01-09 — Altheya: The Dragon Empire #7 | The House of the Rose (Part 1) — speakers: Ashen Rest
+- 2023-12-14 — Altheya: The Dragon Empire #6 | The Ashen Road (Part 2) — speakers: Ashen Rest, High Roller
+- 2023-12-12 — Altheya: The Dragon Empire #6 | The Ashen Road (Part 1)
+- 2023-12-07 — Altheya: The Dragon Empire #5 | Blood and Fire (Part 2) — speakers: Ashen Re
+- 2023-12-05 — Altheya: The Dragon Empire #5 | Blood and Fire (Part 1)
+- 2023-11-30 — Altheya: The Dragon Empire #4 | The Lightless Chasm (Part 2)
+- 2023-11-28 — Altheya: The Dragon Empire #4 | The Lightless Chasm (Part 1) — speakers: Blackrock Mine
+- 2023-11-23 — Altheya: The Dragon Empire #3 | Into the Depths (Part 2) — speakers: High Ro
+- 2023-11-21 — Altheya: The Dragon Empire #3 | Into the Depths (Part 1)
+- 2023-11-16 — Altheya: The Dragon Empire #2 | What's Yours is Mine (Part 2) — speakers: High Rollers
+- 2023-11-14 — Altheya: The Dragon Empire #2 | What's Yours is Mine (Part 1) — speakers: Blackrock Mine
+- 2023-11-09 — Altheya: The Dragon Empire #1 | A World of Stories (Part 2)
+- 2023-11-07 — Altheya: The Dragon Empire #1 | A World of Stories (Part 1) — speakers: new characters
+- 2023-09-28 — Baldur's Gate 3 Cast play D&D #2 (Part 2) | High Rollers Presents: Shadows of Athkatla — speakers: High Rollers Presents, Origin Party
+- 2023-09-26 — Baldur's Gate 3 Cast play D&D #2 (Part 1) | High Rollers Presents: Shadows of Athkatla — speakers: magic cu
+- 2023-09-24 — Baldur's Gate 3 Cast play D&D #1 (Part 2) | High Rollers Presents: Shadows of Athkatla — speakers: High Rollers Presents
+- 2023-09-23 — Baldur's Gate 3 Cast play D&D #1 (Part 1) | High Rollers Presents: Shadows of Athkatla — speakers: High Rollers Presents, Athkatla All, Origin Characters, High Rollers
+- 2023-09-08 — High Rollers: Aerois | The Final Q&A
+- 2023-07-06 — High Rollers: Aerois #191 [FINAL] | Clear Skies (Part 2) — speakers: High Rollers, Clear Skies
+- 2023-07-04 — High Rollers: Aerois #191 [FINAL] | Clear Skies (Part 1) — speakers: High Rollers, Clear Skies
+- 2023-06-29 — High Rollers: Aerois #190 | The Terror in Terminus Keep (Part 2) — speakers: High Rollers, Terminus Keep
+- 2023-06-27 — High Rollers: Aerois #190 | The Terror in Terminus Keep (Part 1) — speakers: High Rollers, Terminus Keep, Far Realm
+- 2023-06-22 — High Rollers: Aerois #189 | Hope Won't Fall (Part 2)
+- 2023-06-21 — High Rollers: Aerois #189 | Hope Won't Fall (Part 1) — speakers: Qillek Ad Kholla
+- 2023-06-15 — High Rollers: Aerois #188 | The Herald of Hadar (Part 2)
+- 2023-06-13 — High Rollers: Aerois #188 | The Herald of Hadar (Part 1)
+- 2023-06-08 — High Rollers: Aerois #187 | The Entropis Warfront (Part 2) — speakers: High Rollers
+- 2023-06-05 — High Rollers: Aerois #187 | The Entropis Warfront (Part 1) — speakers: High Rollers
+- 2023-06-01 — High Rollers: Aerois #186 | The Dragon's Call (Part 2)
+- 2023-05-30 — High Rollers: Aerois #186 | The Dragon's Call (Part 1)
+- 2023-05-25 — High Rollers: Aerois #185 | Operation Fenrir (Part 2)
+- 2023-05-23 — High Rollers: Aerois #185 | Operation Fenrir (Part 1) — speakers: High Rollers, Operation Fenrir
+- 2023-05-18 — High Rollers: Aerois #184 | The Horrors of Hadar (Part 2)
+- 2023-05-16 — High Rollers: Aerois #184 | The Horrors of Hadar (Part 1)
 - 2023-05-11 — High Rollers: Aerois #183 | The Infinite Staircase (Part 2)
 - 2023-05-09 — High Rollers: Aerois #183 | The Infinite Staircase (Part 1)
 - 2023-04-20 — High Rollers: Aerois #182 | The Final Farewell (Part 2)
 - 2023-04-18 — High Rollers: Aerois #182 | The Final Farewell (Part 1)
 - 2023-04-13 — High Rollers: Aerois #181 | A World at Peace (Part 2) — speakers: High Rollers
-- 2023-04-11 — High Rollers: Aerois #181 | A World at Peace (Part 1)
+- 2023-04-11 — High Rollers: Aerois #181 | A World at Peace (Part 1) — speakers: friends arou
 - 2023-04-06 — High Rollers: Aerois #180 | The Wrath of Starbane (Part 2) — speakers: High Rollers, Valkyrian Empire
 - 2023-04-04 — High Rollers: Aerois #180 | The Wrath of Starbane (Part 1)
-- 2023-04-03 — High Rollers: Aerois #179 | Duel of the Fates (Part 2) — speakers: High Rollers
+- 2023-04-03 — High Rollers: Aerois #179 | Duel of the Fates (Part 2) — speakers: High Rollers, High Roller
 - 2023-04-02 — High Rollers: Aerois #179 | Duel of the Fates (Part 1) — speakers: Kallus Starbane
 - 2023-03-23 — High Rollers: Aerois #178 | The Fury of Hadar (Part 2)
 - 2023-03-21 — High Rollers: Aerois #178 | The Fury of Hadar (Part 1)
-- 2023-03-16 — High Rollers: Aerois #177 | The Seed of Rage (Part 2)
+- 2023-03-16 — High Rollers: Aerois #177 | The Seed of Rage (Part 2) — speakers: High Rollers
 - 2023-03-14 — High Rollers: Aerois #177 | The Seed of Rage (Part 1)
 - 2023-03-02 — High Rollers: Aerois #176 | Kaiju Fight! (Part 2) — speakers: Kaiju Fight
 - 2023-03-01 — High Rollers: Aerois #176 | Kaiju Fight! (Part 1) — speakers: Kaiju Fight
@@ -15235,14 +14297,14 @@
 - 2023-02-13 — High Rollers: Aerois #174 | The Great Hunt Begins! (Part 1) — speakers: High Rollers
 - 2023-02-09 — High Rollers: Aerois #173 | Wolflions in the Night (Part 2) — speakers: High Rollers
 - 2023-02-07 — High Rollers: Aerois #173 | Wolflions in the Night (Part 1)
-- 2023-02-02 — High Rollers: Aerois #172 | Festival of New Stars (Part 2) — speakers: High Rollers, New Stars, High Rolle
+- 2023-02-02 — High Rollers: Aerois #172 | Festival of New Stars (Part 2) — speakers: High Rollers, New Stars
 - 2023-01-30 — High Rollers: Aerois #172 | Festival of New Stars (Part 1) — speakers: High Rollers, New Stars
-- 2023-01-19 — High Rollers: Aerois #171 | Tomb of Land and Stone (Part 2) — speakers: High Rollers
+- 2023-01-19 — High Rollers: Aerois #171 | Tomb of Land and Stone (Part 2) — speakers: High Rollers, High Rolle
 - 2023-01-17 — High Rollers: Aerois #171 | Tomb of Land and Stone (Part 1)
 - 2023-01-12 — High Rollers: Aerois #170 | The Star of Siaska (Part 2) — speakers: High Rollers
 - 2023-01-09 — High Rollers: Aerois #170 | The Star of Siaska (Part 1) — speakers: High Rollers
 - 2022-12-22 — High Rollers: Aerois #169 | Daughter of Vortinssar (Part 2) — speakers: High Rollers
-- 2022-12-21 — High Rollers: Aerois #169 | Daughter of Vortinssar (Part 1) — speakers: High Rollers
+- 2022-12-21 — High Rollers: Aerois #169 | Daughter of Vortinssar (Part 1)
 - 2022-12-08 — High Rollers: Aerois #168 | I Am Nova V'ger (Part 2)
 - 2022-12-07 — High Rollers: Aerois #168 | I Am Nova V'ger (Part 1) — speakers: High Rollers, Am Nova
 - 2022-12-06 — High Rollers: Aerois #167 | Open the Cargo Doors (Part 2) — speakers: High Rollers, Cargo Doors
@@ -15253,412 +14315,412 @@
 - 2022-11-14 — High Rollers: Aerois #165 | Night at the Museum (Part 1)
 - 2022-11-10 — High Rollers: Aerois #164 | Tornado (Part 2)
 - 2022-11-09 — High Rollers: Aerois #164 | Tornado (Part 1)
-- 2022-11-03 — High Rollers: Aerois #163 | Veiled in Vortinssar (Part 2)
-- 2022-11-01 — High Rollers: Aerois #163 | Veiled in Vortinssar (Part 1)
-- 2022-10-20 — High Rollers: Aerois #162 | Genasi Gang (Part 2)
+- 2022-11-03 — High Rollers: Aerois #163 | Veiled in Vortinssar (Part 2) — speakers: High Rollers, Spicy Rabbit
+- 2022-11-01 — High Rollers: Aerois #163 | Veiled in Vortinssar (Part 1) — speakers: High Rollers
+- 2022-10-20 — High Rollers: Aerois #162 | Genasi Gang (Part 2) — speakers: High Ro
 - 2022-10-19 — High Rollers: Aerois #162 | Genasi Gang (Part 1)
 - 2022-09-29 — High Rollers: Aerois #161 | Chaos in Horizon (Part 2)
-- 2022-09-27 — High Rollers: Aerois #161 | Chaos in Horizon (Part 1)
+- 2022-09-27 — High Rollers: Aerois #161 | Chaos in Horizon (Part 1) — speakers: High Rollers
 - 2022-09-15 — High Rollers: Aerois #160 | Howard
 - 2022-09-08 — High Rollers: Aerois #159 | Sorrow Incarnate (Part 2)
 - 2022-09-02 — High Rollers: Aerois #158 | Sorrow Incarnate (Part 1)
 - 2022-08-25 — High Rollers: Aerois #157 | The Mourning Garden (Part 2)
 - 2022-08-24 — High Rollers: Aerois #157 | The Mourning Garden (Part 1)
-- 2022-08-18 — High Rollers: Aerois #156 | The Living Dead
-- 2022-08-11 — High Rollers: Aerois #155 | The Fall of War (Part 2)
+- 2022-08-18 — High Rollers: Aerois #156 | The Living Dead — speakers: High Rollers
+- 2022-08-11 — High Rollers: Aerois #155 | The Fall of War (Part 2) — speakers: High Rollers
 - 2022-08-09 — High Rollers: Aerois #155 | The Fall of War (Part 1)
-- 2022-08-04 — CAMPAIGN 3 PROLOGUE! | Legends of Altheya - The City of Dragons
-- 2022-07-28 — High Rollers: Aerois #154 | The Knights of Grief (Part 2)
+- 2022-08-04 — CAMPAIGN 3 PROLOGUE! | Legends of Altheya - The City of Dragons — speakers: Dragons Welcome
+- 2022-07-28 — High Rollers: Aerois #154 | The Knights of Grief (Part 2) — speakers: High Rollers, Nightbloom Hold
 - 2022-07-26 — High Rollers: Aerois #154 | The Knights of Grief (Part 1) — speakers: Nightbloom Hold
 - 2022-07-14 — High Rollers: Aerois #153 | Assault on Nightbloom Hold (Part 2) — speakers: Nightbloom Hold
-- 2022-07-12 — High Rollers: Aerois #153 | Assault on Nightbloom Hold (Part 1) — speakers: Nightbloom Hold
-- 2022-07-07 — High Rollers: Aerois #152 | The Silent Killer (Part 2)
-- 2022-07-06 — High Rollers: Aerois #152 | The Silent Killer (Part 1)
+- 2022-07-12 — High Rollers: Aerois #153 | Assault on Nightbloom Hold (Part 1)
+- 2022-07-07 — High Rollers: Aerois #152 | The Silent Killer (Part 2) — speakers: High Rollers
+- 2022-07-06 — High Rollers: Aerois #152 | The Silent Killer (Part 1) — speakers: High Rollers
 - 2022-06-30 — High Rollers: Aerois #151 | The Stalking Sickness (Part 2)
 - 2022-06-27 — High Rollers: Aerois #151 | The Stalking Sickness (Part 1)
 - 2022-06-23 — High Rollers: Aerois #150 | Horde of Vine and Rot (Part 2)
 - 2022-06-21 — High Rollers: Aerois #150 | Horde of Vine and Rot (Part 1)
-- 2022-06-16 — High Rollers: Aerois #149 | Into the Umbra (Part 2)
-- 2022-06-13 — High Rollers: Aerois #149 | Into the Umbra (Part 1)
-- 2022-06-09 — High Rollers: Aerois #148 | When I was a Young Elf (Part 2)
+- 2022-06-16 — High Rollers: Aerois #149 | Into the Umbra (Part 2) — speakers: High Rollers
+- 2022-06-13 — High Rollers: Aerois #149 | Into the Umbra (Part 1) — speakers: High Rollers, Blackened Rose
+- 2022-06-09 — High Rollers: Aerois #148 | When I was a Young Elf (Part 2) — speakers: High Rollers, Young Elf
 - 2022-06-06 — High Rollers: Aerois #148 | When I was a Young Elf (Part 1)
-- 2022-05-26 — High Rollers: Aerois #147 | The Best Defense (Part 2)
-- 2022-05-24 — High Rollers: Aerois #147 | The Best Defense (Part 1)
-- 2022-05-19 — High Rollers: Aerois #146 | All That We Are (Part 2)
+- 2022-05-26 — High Rollers: Aerois #147 | The Best Defense (Part 2) — speakers: High Rollers
+- 2022-05-24 — High Rollers: Aerois #147 | The Best Defense (Part 1) — speakers: High Rollers, High Rolle
+- 2022-05-19 — High Rollers: Aerois #146 | All That We Are (Part 2) — speakers: High Rollers, High Rolle
 - 2022-05-16 — High Rollers: Aerois #146 | All That We Are (Part 1)
 - 2022-05-05 — High Rollers: Aerois #145 | Titan of the Forge (Part 2)
-- 2022-05-03 — High Rollers: Aerois #145 | Titan of the Forge (Part 1)
-- 2022-04-21 — High Rollers: Aerois #144 | A Wish for Wings (Part 2) — speakers: Epidemic Sound Learn
-- 2022-04-19 — High Rollers: Aerois #144 | A Wish for Wings (Part 1) — speakers: Epidemic Sound Learn
-- 2022-04-14 — High Rollers: Aerois #143 | The Great Oscillator (Part 2) — speakers: Epidemic Sound Learn
-- 2022-04-11 — High Rollers: Aerois #143 | The Great Oscillator (Part 1) — speakers: Epidemic Sound Learn
-- 2022-04-07 — High Rollers: Aerois #142 | Solwynn the Problem (Part 2) — speakers: Porto Suvrano, Epidemic Sound Learn
-- 2022-04-04 — High Rollers: Aerois #142 | Solwynn the Problem (Part 1) — speakers: Epidemic Sound Learn
-- 2022-04-03 — High Rollers: Aerois #141 | Technological Upgrades — speakers: Epidemic Sound Learn
-- 2022-03-10 — High Rollers: Aerois #140 | A World in Chaos (Part 2) — speakers: Epidemic Sound Learn
-- 2022-03-07 — High Rollers: Aerois #140 | A World in Chaos (Part 1) — speakers: Epidemic Sound Learn
-- 2022-03-03 — High Rollers: Aerois #139 | Rest and Recuperation (Part 2) — speakers: Epidemic Sound Learn
-- 2022-03-02 — High Rollers: Aerois #139 | Rest and Recuperation (Part 1) — speakers: Epidemic Sound Learn
-- 2022-02-19 — High Rollers: Dark Souls RPG | Prepared to Die (Part 2) — speakers: Epidemic Sound Learn
-- 2022-02-18 — High Rollers: Dark Souls RPG | Jolly Cooperation! (Part 1) — speakers: Epidemic Sound Learn
-- 2022-02-10 — High Rollers: Aerois #138 | Enemy of my Enemy (Part 2) — speakers: Epidemic Sound Learn
-- 2022-02-08 — High Rollers: Aerois #138 | Enemy of my Enemy (Part 1) — speakers: Epidemic Sound Learn
-- 2022-02-05 — High Rollers: Aerois #137 | Love and Death (Part 2) — speakers: Epidemic Sound Learn
-- 2022-02-04 — High Rollers: Aerois #137 | Love and Death (Part 1) — speakers: Epidemic Sound Learn
-- 2022-02-03 — High Rollers: Aerois #136 | Must Come Down (Part 2) — speakers: Epidemic Sound Learn
-- 2022-02-02 — High Rollers: Aerois #136 | Must Come Down (Part 1) — speakers: Epidemic Sound Learn
-- 2022-01-20 — High Rollers: Aerois #135 | What Goes Up (Part 2) — speakers: Epidemic Sound Learn
-- 2022-01-18 — High Rollers: Aerois #135 | What Goes Up (Part 1) — speakers: Epidemic Sound Learn
-- 2022-01-13 — High Rollers: Aerois #134 | Valiant Knight of the Briar (Part 2) — speakers: Valiant Knight, Epidemic Sound Learn
-- 2022-01-11 — High Rollers: Aerois #134 | Valiant Knight of the Briar (Part 1) — speakers: Valiant Knight, Epidemic Sound Learn
-- 2022-01-06 — High Rollers: Aerois #133 | Temple of the Gods (Part 2) — speakers: Epidemic Sound Learn
-- 2022-01-03 — High Rollers: Aerois #133 | Temple of the Gods (Part 1) — speakers: Epidemic Sound Learn
-- 2021-12-16 — D&D in D&D (Part 2) | High Rollers: Aerois Christmas Special 2021 — speakers: Epidemic Sound Learn
-- 2021-12-13 — D&D in D&D (Part 1) | High Rollers: Aerois Christmas Special 2021 — speakers: Epidemic Sound Learn
-- 2021-12-04 — High Rollers: Aerois #132 | Echoes of the Universe (Part 2) — speakers: Epidemic Sound Learn
-- 2021-11-29 — High Rollers: Aerois #132 | Echoes of the Universe (Part 1) — speakers: Epidemic Sound Learn
-- 2021-11-26 — High Rollers: Aerois #131 | Hunters of Hearts and Heads (Part 2) — speakers: Epidemic Sound Learn
-- 2021-11-25 — High Rollers: Aerois #131 | Hunters of Hearts and Heads (Part 1) — speakers: Yon Fen, Epidemic Sound Learn
-- 2021-11-22 — High Rollers: Aerois | Battle Royale! — speakers: Epidemic Sound Learn
-- 2021-11-18 — High Rollers: Aerois #130 | The Centaur's Tears (Part 2) — speakers: Epidemic Sound Learn
-- 2021-11-15 — High Rollers: Aerois #130 | The Centaur's Tears (Part 1) — speakers: Epidemic Sound Learn
-- 2021-11-11 — High Rollers: Aerois #129 | Rock the Boat (Part 2) — speakers: Epidemic Sound Learn
-- 2021-11-08 — High Rollers: Aerois #129 | Rock the Boat (Part 1) — speakers: Epidemic Sound Learn
-- 2021-11-04 — High Rollers: Aerois #128 | Where Centaurs Roam (Part 2) — speakers: Epidemic Sound Learn
-- 2021-11-01 — High Rollers: Aerois #128 | Where Centaurs Roam (Part 1) — speakers: Epidemic Sound Learn
-- 2021-10-28 — High Rollers: Aerois #127 | Lilac Grass and Giant Trees (Part 2) — speakers: Epidemic Sound Learn
-- 2021-10-25 — High Rollers: Aerois #127 | Lilac Grass and Giant Trees (Part 1) — speakers: Epidemic Sound Learn
-- 2021-10-14 — High Rollers: Aerois #126 | Teleport Troubles (Part 2) — speakers: Teleport Troubles, Epidemic Sound Learn
-- 2021-10-11 — High Rollers: Aerois #126 | Teleport Troubles (Part 1) — speakers: Teleport Troubles, Epidemic Sound Learn
-- 2021-10-07 — High Rollers: Aerois #125 | Curse of the Feywild (Part 2) — speakers: Epidemic Sound Learn
-- 2021-10-05 — High Rollers: Aerois #125 | Curse of the Feywild (Part 1) — speakers: Epidemic Sound Learn
-- 2021-09-16 — High Rollers: Aerois #124 | Wrath of the Sea God (Part 2) — speakers: Epidemic Sound Learn
-- 2021-09-13 — High Rollers: Aerois #124 | Wrath of the Sea God (Part 1) — speakers: Epidemic Sound Learn
-- 2021-09-09 — High Rollers: Aerois #123 | Zephyr's Domain (Part 2) — speakers: Epidemic Sound Learn
-- 2021-09-07 — High Rollers: Aerois #123 | Zephyr's Domain (Part 1) — speakers: Epidemic Sound Learn
-- 2021-09-02 — High Rollers: Aerois #122 | One Month Later (Part 2) — speakers: Epidemic Sound Learn
-- 2021-08-31 — High Rollers: Aerois #122 | One Month Later (Part 1) — speakers: Epidemic Sound Learn
-- 2021-08-12 — High Rollers: Aerois | Final Arc Q&A Special! — speakers: Epidemic Sound Learn
-- 2021-08-05 — High Rollers: Aerois #121 | Call of the Herald (Part 2) — speakers: Epidemic Sound Learn
-- 2021-08-02 — High Rollers: Aerois #121 | Call of the Herald (Part 1) — speakers: Epidemic Sound Learn
-- 2021-07-29 — High Rollers: Aerois #120 | The Tower of Glass (Part 2) — speakers: Epidemic Sound Learn
-- 2021-07-28 — High Rollers: Aerois #120 | The Tower of Glass (Part 1) — speakers: Epidemic Sound Learn
-- 2021-07-22 — High Rollers: Aerois #119 | Empty Husks and Soul Breakers (Part 2) — speakers: Soul Breakers, Soul Breaker, Epidemic Sound Learn
-- 2021-07-20 — High Rollers: Curse of Strahd #37 (FINAL) | The Death of All Things — speakers: Epidemic Sound Learn
-- 2021-07-19 — High Rollers: Aerois #119 | Empty Husks and Soul Breakers (Part 1) — speakers: Soul Breakers, Epidemic Sound Learn
-- 2021-07-16 — High Rollers: Curse of Strahd #36 | Darkness Descends — speakers: Epidemic Sound Learn
-- 2021-07-15 — High Rollers: Aerois #118 | The Gang Commits a War Crime (Part 2) — speakers: Epidemic Sound Learn
-- 2021-07-12 — High Rollers: Aerois #118 | The Gang Commits a War Crime (Part 1) — speakers: Epidemic Sound Learn
-- 2021-07-08 — High Rollers: Aerois #117 | The City of Glass Jump (Part 2) — speakers: Epidemic Sound Learn
-- 2021-07-05 — High Rollers: Aerois #117 | The City of Glass Jump (Part 1) — speakers: Epidemic Sound Learn
-- 2021-06-24 — High Rollers: Aerois #116 | The Darkness Inside (Part 2) — speakers: Epidemic Sound Learn
-- 2021-06-22 — High Rollers: Curse of Strahd #35 | The Dollmaker's Promise — speakers: Epidemic Sound Learn
-- 2021-06-21 — High Rollers: Aerois #116 | The Darkness Inside (Part 1) — speakers: Epidemic Sound Learn
-- 2021-06-18 — High Rollers: Aerois #115 | Dominator's Destruction — speakers: Epidemic Sound Learn
-- 2021-06-10 — High Rollers: Aerois #114 | Gods and Queens (Part 2) — speakers: Epidemic Sound Learn
-- 2021-06-07 — High Rollers: Aerois #114 | Gods and Queens (Part 1) — speakers: Epidemic Sound Learn
-- 2021-05-28 — High Rollers: Curse of Strahd #34 | Dogsbody's Revenge — speakers: Epidemic Sound Learn
-- 2021-05-27 — High Rollers: Aerois #113 | Praxis Valla (Part 2) — speakers: Praxis Valla, Epidemic Sound Learn
-- 2021-05-24 — High Rollers: Aerois #113 | Praxis Valla (Part 1) — speakers: Praxis Valla, Epidemic Sound Learn
-- 2021-05-20 — High Rollers: Aerois #112 | Assault on the Tassadar (Part 2) — speakers: Epidemic Sound Learn
-- 2021-05-17 — High Rollers: Aerois #112 | Assault on the Tassadar (Part 1) — speakers: Epidemic Sound Learn
-- 2021-05-13 — High Rollers: Aerois #111 | Tassadar Preparations (Part 2) — speakers: Epidemic Sound Learn
-- 2021-05-10 — High Rollers: Aerois #111 | Tassadar Preparations (Part 1) — speakers: Epidemic Sound Learn
-- 2021-04-29 — High Rollers: Aerois #110 | Prison Break (Part 2) — speakers: Prison Break, Epidemic Sound Learn
-- 2021-04-27 — High Rollers: Curse of Strahd #33 | Mouth of the Beast — speakers: Epidemic Sound Learn
-- 2021-04-26 — High Rollers: Aerois #110 | Prison Break (Part 1) — speakers: Prison Break, Epidemic Sound Learn
-- 2021-04-22 — High Rollers: Aerois #109 | Bird in a Cage (Part 2) — speakers: Epidemic Sound Learn
-- 2021-04-20 — High Rollers: Curse of Strahd #32 | Howls in the Night — speakers: Epidemic Sound Learn
-- 2021-04-19 — High Rollers: Aerois #109 | Bird in a Cage (Part 1) — speakers: Epidemic Sound Learn
-- 2021-04-15 — High Rollers: Aerois #108 | Aerosians... Assemble! (Part 2) — speakers: Epidemic Sound Learn
-- 2021-04-12 — High Rollers: Aerois #108 | Aerosians... Assemble! (Part 1) — speakers: Epidemic Sound Learn
-- 2021-04-08 — High Rollers: Aerois #107 | Stand With Aerois (Part 2) — speakers: Epidemic Sound Learn
-- 2021-04-05 — High Rollers: Aerois #107 | Stand With Aerois (Part 1) — speakers: Epidemic Sound Learn
-- 2021-04-01 — High Rollers: Aerois #106 | The Valkyrian Ploy (Part 2) — speakers: Kallus Starbane, com hrdnd, Epidemic Sound Learn
-- 2021-03-29 — High Rollers: Aerois #106 | The Valkyrian Ploy (Part 1) — speakers: com hrdnd, Epidemic Sound Learn
-- 2021-03-29 — High Rollers: Aerois #105 | Leaders of the World (Part 2) — speakers: Epidemic Sound Learn
-- 2021-03-26 — High Rollers: Purs of Strahd | A 1980s Cats Protection One Shot! — speakers: Epidemic Sound
-- 2021-03-22 — High Rollers: Aerois #105 | Leaders of the World (Part 1) — speakers: Epidemic Sound Learn
-- 2021-03-18 — High Rollers: Aerois #104 | Horizon Reunions (Part 2) — speakers: Horizon Reunions, Epidemic Sound Learn
-- 2021-03-16 — High Rollers: Curse of Strahd #31 | Wolves of Krezk — speakers: Epidemic Sound Learn
-- 2021-03-15 — High Rollers: Aerois #104 | Horizon Reunions (Part 1) — speakers: Horizon Reunions, Epidemic Sound Learn
-- 2021-03-11 — High Rollers: Aerois #103 | Moving On Up (Part 2) — speakers: Epidemic Sound Learn
-- 2021-03-09 — High Rollers: Curse of Strahd #30 | From Beyond the Veil — speakers: Epidemic Sound Learn
-- 2021-03-08 — High Rollers: Aerois #103 | Moving On Up (Part 1) — speakers: Epidemic Sound Learn
-- 2021-03-04 — High Rollers: Aerois #102 | Project Vanguard (Part 2) — speakers: Epidemic Sound Learn
-- 2021-03-03 — High Rollers: Aerois #102 | Project Vanguard (Part 1) — speakers: Epidemic Sound Learn
-- 2021-03-02 — High Rollers: Curse of Strahd #29 | Wrath of the Swamp Witch — speakers: Baba Lysaga, Epidemic Sound Learn
-- 2021-02-23 — High Rollers: Curse of Strahd #28 | Defender of the Sunsword — speakers: Epidemic Sound Learn
-- 2021-02-18 — High Rollers: Lunar New Year Special | The Jade Emperor's Invitation (Part 2) — speakers: Epidemic Sound
-- 2021-02-16 — High Rollers: Curse of Strahd #27 | Hunt for Baba Lysaga — speakers: Baba Lysaga, Epidemic Sound Learn
-- 2021-02-15 — High Rollers: Lunar New Year Special | The Jade Emperor's Invitation (Part 1) — speakers: Epidemic Sound
-- 2021-02-11 — High Rollers: Aerois #101 | Mindflayers and Mecha Ninjas (Part 2) — speakers: Mecha Ninjas, Epidemic Sound Learn
-- 2021-02-08 — High Rollers: Aerois #101 | Mindflayers and Mecha Ninjas (Part 1) — speakers: Mecha Ninjas, Epidemic Sound Learn
-- 2021-02-04 — High Rollers: Aerois #100 | Episode One Hundred! (Part 2) — speakers: Mind Flayers, Epidemic Sound Learn
-- 2021-02-02 — High Rollers: Curse of Strahd #26 | Awakening the Mire — speakers: Epidemic Sound Learn
-- 2021-02-01 — High Rollers: Aerois #100 | Episode One Hundred! (Part 1) — speakers: Epidemic Sound Learn
-- 2021-01-28 — High Rollers: Aerois #99 | Shadowsong Pinnacle (Part 2) — speakers: Shadowsong Pinnacle, Epidemic Sound Learn
-- 2021-01-26 — High Rollers: Curse of Strahd #25 | Descent of the Dragonborn — speakers: Epidemic Sound Learn
-- 2021-01-25 — High Rollers: Aerois #99 | Shadowsong Pinnacle (Part 1) — speakers: Shadowsong Pinnacle, Epidemic Sound Learn
-- 2021-01-21 — High Rollers: Aerois #98 | The Weapons Facility (Part 2) — speakers: Epidemic Sound Learn
-- 2021-01-18 — High Rollers: Aerois #98 | The Weapons Facility (Part 1) — speakers: Epidemic Sound Learn
-- 2021-01-14 — High Rollers: Aerois #97 | Attack on Gusthaven (Part 2) — speakers: Epidemic Sound Learn
-- 2021-01-11 — High Rollers: Aerois #97 | Attack on Gusthaven (Part 1) — speakers: Epidemic Sound Learn
-- 2021-01-07 — High Rollers: Aerois #96 | The Gusthaven Elite (Part 2) — speakers: Epidemic Sound Learn
-- 2021-01-04 — High Rollers: Aerois #96 | The Gusthaven Elite (Part 1) — speakers: Epidemic Sound Learn
-- 2020-12-24 — High Rollers: Aerois #95 | Zarkira's Invitation (Part 2) — speakers: Epidemic Sound Learn
-- 2020-12-21 — High Rollers: Aerois #95 | Zarkira's Invitation (Part 1) — speakers: Wonder Woman, Epidemic Sound Learn
-- 2020-12-17 — High Rollers: Christmas Special 2020 - Valla's Wish (Part 2) — speakers: Epidemic Sound Learn
-- 2020-12-14 — High Rollers: Christmas Special 2020 - Valla's Wish (Part 1) — speakers: Epidemic Sound Learn
-- 2020-12-03 — High Rollers: Aerois #94 | The Tempest Dragon (Part 2) — speakers: Epidemic Sound Learn
-- 2020-11-30 — High Rollers: Aerois #94 | The Tempest Dragon (Part 1) — speakers: Epidemic Sound Learn
-- 2020-11-26 — High Rollers: Aerois #93 | Trial of Power (Part 2) — speakers: Epidemic Sound Learn
-- 2020-11-23 — High Rollers: Aerois #93 | Trial of Power (Part 1) — speakers: Epidemic Sound Learn
-- 2020-11-19 — High Rollers: Aerois #92 | The Battle Through Time (Part 2) — speakers: Epidemic Sound Learn
-- 2020-11-17 — High Rollers: Aerois #92 | The Battle Through Time (Part 1) — speakers: Epidemic Sound Learn
-- 2020-11-12 — High Rollers: Aerois #91 | Trial of Aeons (Part 2) — speakers: Epidemic Sound Learn
-- 2020-11-10 — High Rollers: Aerois #91 | Trial of Aeons (Part 1) — speakers: Epidemic Sound Learn
-- 2020-11-05 — High Rollers: Aerois #90 | Metal Crabs and Tricksy Wizards (Part 2) — speakers: Metal Crabs, Tricksy Wizards, Epidemic Sound Learn
-- 2020-11-03 — High Rollers: Curse of Strahd #24 | Rituals of Yester Hill — speakers: Epidemic Sound Learn
-- 2020-11-02 — High Rollers: Aerois #90 | Metal Crabs and Tricksy Wizards (Part 1) — speakers: Metal Crabs, Tricksy Wizards, immune mecha-crabs, Epidemic Sound Learn
-- 2020-10-29 — High Rollers: Aerois #89 | Domain of the Arcane (Part 2) — speakers: Epidemic Sound Learn
-- 2020-10-26 — High Rollers: Aerois #89 | Domain of the Arcane (Part 1) — speakers: Epidemic Sound Learn
-- 2020-10-22 — High Rollers: Aerois #88 | On Wings of Storm (Part 2) — speakers: Epidemic Sound Learn
-- 2020-10-20 — High Rollers: Curse of Strahd #23 | Seeds of Chaos — speakers: Epidemic Sound Learn
-- 2020-10-19 — High Rollers: Aerois #88 | On Wings of Storm (Part 1) — speakers: Epidemic Sound Learn
-- 2020-10-15 — High Rollers: Aerois #87 | Ancient Enemies Underfoot (Part 2) — speakers: Epidemic Sound Learn
-- 2020-10-12 — High Rollers: Aerois #87 | Ancient Enemies Underfoot (Part 1) — speakers: Epidemic Sound Learn
-- 2020-10-08 — High Rollers: Aerois #86 | Very Froggy Rituals (Part 2) — speakers: Epidemic Sound Learn
-- 2020-10-06 — High Rollers: Curse of Strahd #22 | Riders in the Night — speakers: Epidemic Sound Learn
-- 2020-10-05 — High Rollers: Aerois #86 | Very Froggy Rituals (Part 1) — speakers: Epidemic Sound Learn
-- 2020-09-29 — High Rollers: Curse of Strahd #21 | The Last Communion — speakers: Epidemic Sound Learn
-- 2020-09-22 — High Rollers: Curse of Strahd #20 | The Dragon's Dance — speakers: Epidemic Sound Learn
-- 2020-09-17 — High Rollers: Aerois #85 | Green Grass, Clean Air (Part 2) — speakers: Epidemic Sound Learn
-- 2020-09-15 — High Rollers: Curse of Strahd #19 | The Mind Palace — speakers: Epidemic Sound Learn
-- 2020-09-14 — High Rollers: Aerois #85 | Green Grass, Clean Air (Part 1) — speakers: Epidemic Sound Learn
-- 2020-09-08 — High Rollers: Curse of Strahd #18 | The Mad Mage — speakers: Epidemic Sound Learn
-- 2020-09-03 — High Rollers: Aerois #84 | Home (Part 2) — speakers: Epidemic Sound Learn
-- 2020-08-31 — High Rollers: Aerois #84 | Home (Part 1) — speakers: Epidemic Sound Learn
-- 2020-08-27 — High Rollers: One-Shot | Cabin in the Woods #2 — speakers: Will Tom, Epidemic Sound Learn
-- 2020-08-25 — High Rollers: Curse of Strahd #17 | Beacon of Radiance — speakers: Epidemic Sound Learn
-- 2020-08-24 — High Rollers: One-Shot | Cabin in the Woods #1 — speakers: Epidemic Sound Learn
-- 2020-08-20 — High Rollers: Aerois #83 | Tyrant in the Dark (Part 2) — speakers: Epidemic Sound Learn
-- 2020-08-18 — High Rollers: Curse of Strahd #16 | Revenant Reveries — speakers: Epidemic Sound Learn
-- 2020-08-17 — High Rollers: Aerois #83 | Tyrant in the Dark (Part 1) — speakers: Epidemic Sound Learn
-- 2020-08-13 — High Rollers: Aerois #82 | The Shifting Straits (Part 2) — speakers: Epidemic Sound Learn
-- 2020-08-12 — High Rollers: Curse of Strahd #15 | The Evil Within — speakers: Epidemic Sound Learn
-- 2020-08-10 — High Rollers: Aerois #82 | The Shifting Straits (Part 1) — speakers: Epidemic Sound Learn
-- 2020-08-06 — High Rollers: Aerois #81 | Breaking the Chains (Part 2) — speakers: Epidemic Sound Learn
-- 2020-08-03 — High Rollers: Aerois #81 | Breaking the Chains (Part 1) — speakers: Epidemic Sound Learn
-- 2020-07-30 — High Rollers: Aerois #80 | The Great Escape (Part 2) — speakers: Epidemic Sound Learn
-- 2020-07-28 — High Rollers: Curse of Strahd #14 | Tatyana's Truth — speakers: Epidemic Sound Learn
-- 2020-07-27 — High Rollers: Aerois #80 | The Great Escape (Part 1) — speakers: Epidemic Sound Learn
-- 2020-07-23 — High Rollers: One-Shot | Darkest Before Dawn #2 — speakers: Epidemic Sound Learn
-- 2020-07-21 — High Rollers: Curse of Strahd #13 | Mists and Shadows — speakers: Epidemic Sound Learn
-- 2020-07-20 — High Rollers: One-Shot | Darkest Before Dawn #1 — speakers: Epidemic Sound Learn
-- 2020-07-16 — High Rollers: Aerois #79 | The Displeased Prince (Part 2) — speakers: Epidemic Sound Learn
-- 2020-07-14 — High Rollers: Curse of Strahd #12 | Spiders of Argynvostholt — speakers: Epidemic Sound Learn
-- 2020-07-13 — High Rollers: Aerois #79 | The Displeased Prince (Part 1) — speakers: Epidemic Sound Learn
-- 2020-07-09 — High Rollers: Aerois #78 | A Game of Chance (Part 2) — speakers: Epidemic Sound Learn
-- 2020-07-06 — High Rollers: Aerois #78 | A Game of Chance (Part 1) — speakers: Epidemic Sound Learn
-- 2020-07-02 — High Rollers: Aerois #77 | Dance of the Sixth Finger (Part 2) — speakers: Follow Gratzt, Epidemic Sound Learn
-- 2020-06-29 — High Rollers: Aerois #77 | Dance of the Sixth Finger (Part 1) — speakers: Epidemic Sound Learn
-- 2020-06-25 — High Rollers: Aerois #76 | Echo of the Galaxy (Part 2) — speakers: Epidemic Sound Learn
-- 2020-06-23 — High Rollers: Curse of Strahd #11 | The Broken Bonds — speakers: Epidemic Sound Learn
-- 2020-06-22 — High Rollers: Aerois #76 | Echo of the Galaxy (Part 1) — speakers: Epidemic Sound Learn
-- 2020-06-18 — High Rollers: Aerois #75 | Mines of Madness (Part 2) — speakers: Epidemic Sound Learn
-- 2020-06-16 — High Rollers: Curse of Strahd #10 | The Hallowed Bones — speakers: Epidemic Sound Learn
-- 2020-06-15 — High Rollers: Aerois #75 | Mines of Madness (Part 1) — speakers: Epidemic Sound Learn
-- 2020-06-11 — High Rollers: Aerois #74 | Criminal Negotiations (Part 2) — speakers: Epidemic Sound Learn
-- 2020-06-09 — High Rollers: Curse of Strahd #9 | Unspoken Pacts — speakers: Unspoken Pacts, Epidemic Sound Learn
-- 2020-06-08 — High Rollers: Aerois #74 | Criminal Negotiations (Part 1) — speakers: Epidemic Sound Learn
-- 2020-06-04 — High Rollers: Aerois #73 | Minds of the Multiverse (Part 2) — speakers: Epidemic Sound Learn
-- 2020-06-02 — High Rollers: Curse of Strahd #8 | The Dragon's Bite — speakers: Epidemic Sound Learn
-- 2020-06-01 — High Rollers: Aerois #73 | Minds of the Multiverse (Part 1) — speakers: Epidemic Sound Learn
-- 2020-05-28 — High Rollers: Aerois #72 | Astral Styx and Astral Stones (Part 2) — speakers: Epidemic Sound Learn
-- 2020-05-26 — High Rollers: Curse of Strahd #7 | House of the Living Dead — speakers: Epidemic Sound Learn
-- 2020-05-24 — High Rollers: Aerois #72 | Astral Styx and Astral Stones (Part 1) — speakers: Epidemic Sound Learn
-- 2020-05-21 — High Rollers: Aerois #71 | Wings of Ishtar (Part 2) — speakers: Epidemic Sound Learn
-- 2020-05-19 — High Rollers: Curse of Strahd #6 | The Blue Water Inn — speakers: Epidemic Sound Learn
-- 2020-05-18 — High Rollers: Aerois #71 | Wings of Ishtar (Part 1) — speakers: Epidemic Sound Learn
-- 2020-05-12 — High Rollers: Curse of Strahd #5 | Road to Vallaki — speakers: Epidemic Sound Learn
-- 2020-05-07 — High Rollers: Aerois #70 | The Last Feather (Part 2) — speakers: Epidemic Sound Learn
-- 2020-05-06 — High Rollers: Curse of Strahd #4 | The Flour Children — speakers: Epidemic Sound Learn
-- 2020-05-04 — High Rollers: Aerois #70 | The Last Feather (Part 1) — speakers: Epidemic Sound Learn
-- 2020-05-01 — High Rollers: Curse of Strahd #3 | Fortunes of the Vistani — speakers: Madam Ava, Epidemic Sound Learn
-- 2020-04-30 — High Rollers: Aerois #69 | Portal Through Space and Time (Part 2) — speakers: Epidemic Sound Learn
-- 2020-04-27 — High Rollers: Aerois #69 | Portal Through Space and Time (Part 1) — speakers: Epidemic Sound Learn
-- 2020-04-23 — High Rollers: Aerois #68 | Baraz the Consumed (Part 2) — speakers: Epidemic Sound Learn
-- 2020-04-21 — High Rollers: Curse of Strahd #2 | Wrath of Fire and Death — speakers: Epidemic Sound Learn
-- 2020-04-20 — High Rollers: Aerois #68 | Baraz the Consumed (Part 1) — speakers: Epidemic Sound Learn
-- 2020-04-16 — High Rollers: Aerois #67 | One Guardian Army (Part 2) — speakers: Epidemic Sound Learn
-- 2020-04-14 — High Rollers: Curse of Strahd #1 | The Mists of Barovia — speakers: Epidemic Sound Learn
-- 2020-04-13 — High Rollers: Aerois #67 | One Guardian Army (Part 1) — speakers: Epidemic Sound Learn
-- 2020-04-09 — High Rollers: Aerois #66 | Rock and Gnoll (Part 2) — speakers: Epidemic Sound Learn
-- 2020-04-06 — High Rollers: Aerois #66 | Rock and Gnoll (Part 1) — speakers: Epidemic Sound Learn
-- 2020-04-02 — High Rollers: Aerois #65 | Dance with the Devil (Part 2) — speakers: Epidemic Sound Learn
-- 2020-03-30 — High Rollers: Aerois #65 | Dance with the Devil (Part 1) — speakers: Porto Suvrano, Epidemic Sound Learn
-- 2020-03-26 — High Rollers: Aerois #64 | A Hawk's Dawn Holiday (Part 2) — speakers: Porta Suvrano, Epidemic Sound Learn
-- 2020-03-23 — High Rollers: Aerois #64 | A Hawk's Dawn Holiday (Part 1) — speakers: Epidemic Sound Learn
-- 2020-03-12 — High Rollers: Aerois #63 | Arise (Part 2) — speakers: Epidemic Sound Learn
-- 2020-03-09 — High Rollers: Aerois #63 | Arise (Part 1) — speakers: Epidemic Sound Learn
-- 2020-03-05 — High Rollers: Aerois #62 | Trial of the Prime (Part 2) — speakers: Epidemic Sound Learn
-- 2020-03-02 — High Rollers: Aerois #62 | Trial of the Prime (Part 1) — speakers: Epidemic Sound Learn
-- 2020-02-27 — High Rollers: Aerois #61 | Hot Under the Collar (Part 2) — speakers: Epidemic Sound Learn
-- 2020-02-24 — High Rollers: Aerois #61 | Hot Under the Collar (Part 1) — speakers: Epidemic Sound Learn
-- 2020-02-13 — High Rollers: Aerois #60 | Under the Ash (Part 2) — speakers: Epidemic Sound Learn
-- 2020-02-10 — High Rollers: Aerois #60 | Under the Ash (Part 1) — speakers: Epidemic Sound Learn
-- 2020-02-06 — High Rollers: Aerois #59 | Call of the Storm (Part 2) — speakers: Epidemic Sound Learn
-- 2020-02-03 — High Rollers: Aerois #59 | Call of the Storm (Part 1) — speakers: Leaving Imixan, Epidemic Sound Learn
-- 2020-01-30 — High Rollers: Aerois #58 | The Dark Herald (Part 2) — speakers: Epidemic Sound Learn
-- 2020-01-27 — High Rollers: Aerois #58 | The Dark Herald (Part 1) — speakers: Epidemic Sound Learn
-- 2020-01-23 — High Rollers: Aerois #57 | The Unlikely Alliance (Part 2) — speakers: Epidemic Sound Learn
-- 2020-01-20 — High Rollers: Aerois #57 | The Unlikely Alliance (Part 1) — speakers: Epidemic Sound Learn
-- 2020-01-16 — High Rollers: Aerois #56 | Hearts of Glass (Part 2) — speakers: Epidemic Sound Learn
-- 2020-01-13 — High Rollers: Aerois #56 | Hearts of Glass (Part 1) — speakers: Epidemic Sound Learn
-- 2020-01-09 — High Rollers: Aerois #55 | Explosive Revelations (Part 2) — speakers: Epidemic Sound Learn
-- 2020-01-06 — High Rollers: Aerois #55 | Explosive Revelations (Part 1) — speakers: High Rollers, Epidemic Sound Learn
-- 2019-12-09 — High Rollers: Christmas Special 2019 - Dungeon of the Mad Mark — speakers: Epidemic Sound Learn
-- 2019-11-28 — High Rollers: Aerois #54 | The Last Brookstone (Part 2) — speakers: Epidemic Sound Learn
-- 2019-11-26 — High Rollers: Aerois #54 | The Last Brookstone (Part 1) — speakers: Epidemic Sound Learn
-- 2019-11-21 — High Rollers: Aerois #53 | The Tunnels Beneath (Part 2) — speakers: Epidemic Sound Learn
-- 2019-11-18 — High Rollers: Aerois #53 | The Tunnels Beneath (Part 1) — speakers: Epidemic Sound Learn
-- 2019-11-14 — High Rollers: Aerois #52 | The Glorious Vivex (Part 2) — speakers: Epidemic Sound Learn
-- 2019-11-11 — High Rollers: Aerois #52 | The Glorious Vivex (Part 1) — speakers: Epidemic Sound Learn
-- 2019-11-07 — High Rollers: Aerois #51 | Part of the Team (Part 2) — speakers: Epidemic Sound Learn
-- 2019-11-04 — High Rollers: Aerois #51 | Part of the Team (Part 1) — speakers: Epidemic Sound Learn
-- 2019-10-31 — High Rollers: Aerois #50 | A Desperate Escape (Part 2) — speakers: Epidemic Sound Learn
-- 2019-10-28 — High Rollers: Aerois #50 | A Desperate Escape (Part 1) — speakers: Epidemic Sound Learn
-- 2019-10-24 — High Rollers: Aerois #49 | Aegis V (Part 2) — speakers: Epidemic Sound Learn
-- 2019-10-21 — High Rollers: Aerois #49 | Aegis V (Part 1) — speakers: Epidemic Sound Learn
-- 2019-10-10 — High Rollers: Aerois #48 | Darkness of the Coldlight (Part 2) — speakers: Epidemic Sound Learn
-- 2019-10-08 — High Rollers: Aerois #48 | Darkness of the Coldlight (Part 1) — speakers: Epidemic Sound Learn
-- 2019-10-03 — High Rollers: Aerois | #47 - Under the Sea (Part 2) — speakers: Epidemic Sound Learn
-- 2019-10-01 — High Rollers Lightfall: The Descent #11 | The Arena (Final) — speakers: Epidemic Sound
-- 2019-09-30 — High Rollers: Aerois | #47 - Under the Sea (Part 1) — speakers: Epidemic Sound Learn
-- 2019-09-26 — High Rollers: Aerois | #46 - Yama Lo'Tai Troubles (Part 2) — speakers: Epidemic Sound Learn
-- 2019-09-24 — High Rollers Lightfall: The Descent #10 |A Rock and a Hard Place — speakers: Epidemic Sound
-- 2019-09-23 — High Rollers: Aerois | #46 - Yama Lo'Tai Troubles (Part 1) — speakers: Epidemic Sound Learn
-- 2019-09-12 — High Rollers: Aerois | #45 - Maiden Voyage (Part 2) — speakers: Epidemic Sound Learn
-- 2019-09-09 — High Rollers: Aerois | #45 - Maiden Voyage (Part 1) — speakers: Epidemic Sound Learn
-- 2019-09-07 — High Rollers LIVE at PAX West 2019 | A Plane in the Astral — speakers: Nate Sharp, Paultin Seppa, Epidemic Sound Learn
-- 2019-08-29 — High Rollers: Aerois | #44 - The Elenasto Fiasco (Part 2) — speakers: Epidemic Sound Learn
-- 2019-08-27 — High Rollers Lightfall: The Descent #9 | Mad Maggie's Junkyard — speakers: Epidemic Sound
-- 2019-08-26 — High Rollers: Aerois | #44 - The Elenasto Fiasco (Part 1) — speakers: Epidemic Sound Learn
-- 2019-08-22 — High Rollers: Aerois | #43 - Secrets of the Galecrown (Part 2) — speakers: Epidemic Sound Learn
-- 2019-08-20 — High Rollers Lightfall: The Descent #8 | Hand of Vecna — speakers: Epidemic Sound
-- 2019-08-19 — High Rollers: Aerois | #43 - Secrets of the Galecrown (Part 1) — speakers: Epidemic Sound Learn
-- 2019-08-15 — High Rollers: Aerois | #42 - Legends and Libraries (Part 2) — speakers: Epidemic Sound Learn
-- 2019-08-13 — High Rollers Lightfall: The Descent #7 | Arkhan's Ambush — speakers: Epidemic Sound
-- 2019-08-12 — High Rollers: Aerois | #42 - Legends and Libraries (Part 1) — speakers: Epidemic Sound Learn
-- 2019-08-10 — High Rollers LIVE at YogCon | Wicked Wit's Wonderium! — speakers: Wicked Wit, Epidemic Sound Learn
-- 2019-07-25 — High Rollers: Aerois | #41 - Moonstar, Monsters and Money (Part 2) — speakers: Epidemic Sound Learn
-- 2019-07-23 — High Rollers Lightfall: The Descent #6 | Arkhan's Army — speakers: Dark Tower, Epidemic Sound
-- 2019-07-22 — High Rollers: Aerois | #41 - Moonstar, Monsters and Money (Part 1) — speakers: Epidemic Sound Learn
-- 2019-07-18 — High Rollers: Aerois | #40 - Ticking Timebomb (Part 2) — speakers: Epidemic Sound Learn
-- 2019-07-16 — High Rollers Lightfall: The Descent #5 | The Dark Tower — speakers: Epidemic Sound
-- 2019-07-15 — High Rollers: Aerois | #40 - Ticking Timebomb (Part 1) — speakers: Epidemic Sound Learn
-- 2019-07-11 — High Rollers: Aerois | #39 - Disguising and Dealing (Part 2) — speakers: Epidemic Sound Learn
-- 2019-07-09 — High Rollers Lightfall: The Descent #4 | Demon Deceptions — speakers: Demon Deceptions, Epidemic Sound
-- 2019-07-08 — High Rollers: Aerois | #39 - Disguising and Dealing (Part 1) — speakers: Epidemic Sound Learn
-- 2019-07-04 — High Rollers: Aerois | #38 - The Elenasto Enquiry (Part 2) — speakers: Epidemic Sound Learn
-- 2019-07-02 — High Rollers Lightfall: The Descent #3 | Iron Clad — speakers: Iron Clad, Epidemic Sound
-- 2019-07-01 — High Rollers: Aerois | #38 - The Elenasto Enquiry (Part 1) — speakers: Epidemic Sound Learn
-- 2019-06-27 — High Rollers: Aerois | #37 - A New Way Out (Part 2) — speakers: Lucius Elenasto, Epidemic Sound Learn
-- 2019-06-25 — High Rollers Lightfall: The Descent #2 | Across the Styx — speakers: Epidemic Sound
-- 2019-06-24 — High Rollers: Aerois | #37 - A New Way Out (Part 1) — speakers: Epidemic Sound Learn
-- 2019-06-13 — High Rollers: Aerois | #36 - Goblins and Guardians (Part 2) — speakers: Epidemic Sound Learn
-- 2019-06-10 — High Rollers: Aerois | #36 - Goblins and Guardians (Part 1) — speakers: Epidemic Sound Learn
-- 2019-06-06 — High Rollers: Aerois | #35 - Riddle of the Forge (Part 2) — speakers: Epidemic Sound Learn
-- 2019-06-03 — High Rollers: Aerois | #35 - Riddle of the Forge (Part 1) — speakers: Epidemic Sound Learn
-- 2019-05-25 — High Rollers Lightfall: The Descent #1 | Old Friends, New Worlds — speakers: Epidemic Sound
-- 2019-05-16 — High Rollers: Aerois | #34 - Stranger of the Storm (Part 2) — speakers: Epidemic Sound Learn
-- 2019-05-13 — High Rollers: Aerois | #34 - Stranger of the Storm (Part 1) — speakers: Epidemic Sound Learn
-- 2019-05-09 — High Rollers: Aerois | #33 - The Portal Problem (Part 2) — speakers: Epidemic Sound Learn
-- 2019-05-06 — High Rollers: Aerois | #33 - The Portal Problem (Part 1) — speakers: Epidemic Sound Learn
-- 2019-04-25 — High Rollers: Aerois | #32 - Whispers of the Void (Part 2) — speakers: Epidemic Sound Learn
-- 2019-04-22 — High Rollers: Aerois | #32 - Whispers of the Void (Part 1) — speakers: Epidemic Sound Learn
-- 2019-04-20 — High Rollers LIVE at TwitchCon Europe | The Curse of Captain Darkfinn — speakers: Elspeth Eastman, Nate Sharp, com ElspethEastman, Epidemic Sound Learn
-- 2019-04-11 — High Rollers: Aerois | #31 - Hall of the Gods (Part 2) — speakers: Brian McClellan, Epidemic Sound Learn
-- 2019-04-08 — High Rollers: Aerois | #31 - Hall of the Gods (Part 1) — speakers: Brian McClellan, Epidemic Sound Learn
-- 2019-04-04 — High Rollers: Aerois | #30 - Depths of the Night Eye (Part 2) — speakers: Epidemic Sound Learn
-- 2019-04-01 — High Rollers: Aerois | #30 - Depths of the Night Eye (Part 1) — speakers: Epidemic Sound Learn
-- 2019-03-28 — High Rollers: Aerois | #29 - Marrows of Myrskyr (Part 2) — speakers: Epidemic Sound Learn
-- 2019-03-25 — High Rollers: Aerois | #29 - Marrows of Myrskyr (Part 1) — speakers: Epidemic Sound Learn
-- 2019-03-21 — High Rollers: Aerois | #28 - From Beyond the Cradle (Part 2) — speakers: Epidemic Sound Learn
-- 2019-03-18 — High Rollers: Aerois | #28 - From Beyond the Cradle (Part 1) — speakers: Epidemic Sound Learn
-- 2019-03-14 — High Rollers: Aerois | #27 - The Land of Roving Storm (Part 2) — speakers: Epidemic Sound Learn
-- 2019-03-11 — High Rollers: Aerois | #27 - The Land of Roving Storm (Part 1) — speakers: Epidemic Sound Learn
-- 2019-03-07 — High Rollers: Aerois | #26 - The Purge (Part 2) — speakers: Epidemic Sound Learn
-- 2019-03-04 — High Rollers: Aerois | #26 - The Purge (Part 1) — speakers: Epidemic Sound Learn
-- 2019-02-28 — High Rollers: Aerois | #25 - Into the Fire (Part 2) — speakers: Epidemic Sound Learn
-- 2019-02-25 — High Rollers: Aerois | #25 - Into the Fire (Part 1) — speakers: Epidemic Sound Learn
-- 2019-02-21 — High Rollers: Aerois | #24 - Out of the Frying Pan (Part 2) — speakers: Epidemic Sound Learn
-- 2019-02-18 — High Rollers: Aerois | #24 - Out of the Frying Pan (Part 1) — speakers: Epidemic Sound Learn
-- 2019-02-14 — High Rollers: Aerois | #23 - Ill Winds Blow (Part 2) — speakers: Epidemic Sound Learn
-- 2019-02-11 — High Rollers: Aerois | #23 - Ill Winds Blow (Part 1) — speakers: Epidemic Sound Learn
-- 2019-02-07 — High Rollers: Aerois | #22 - Primed and Ready (Part 2) — speakers: Epidemic Sound Learn
-- 2019-02-04 — High Rollers: Aerois | #22 - Primed and Ready (Part 1) — speakers: Epidemic Sound Learn
-- 2019-01-31 — High Rollers: Aerois | #21 - Burning Questions (Part 2) — speakers: Epidemic Sound Learn
-- 2019-01-28 — High Rollers: Aerois | #21 - Burning Questions (Part 1) — speakers: Epidemic Sound Learn
-- 2019-01-24 — High Rollers: Aerois | #20 - Clash of Spells (Part 2) — speakers: Epidemic Sound Learn
-- 2019-01-21 — High Rollers: Aerois | #20 - Clash of Spells (Part 1) — speakers: Epidemic Sound Learn
-- 2019-01-17 — High Rollers: Aerois | #19 - Echoes of the Past (Part 2) — speakers: Epidemic Sound Learn
-- 2019-01-14 — High Rollers: Aerois | #19 - Echoes of the Past (Part 1) — speakers: Epidemic Sound Learn
-- 2019-01-10 — High Rollers: Aerois | #18 - Eternal Rest (Part 2) — speakers: Epidemic Sound Learn
-- 2019-01-07 — High Rollers: Aerois | #18 - Eternal Rest (Part 1) — speakers: Epidemic Sound Learn
-- 2018-12-31 — High Rollers: 2018 Rollback! — speakers: Halfling Camp, Epidemic Sound Learn
-- 2018-12-23 — High Rollers: One Shot | Jason Statham's Big Vacation — speakers: Jason Statham, Epidemic Sound
-- 2018-12-17 — High Rollers: One Shot | Honey Heist — speakers: Honey Heist, Epidemic Sound
-- 2018-12-07 — High Rollers: Rogue's Gambit #11 | The Finale! — speakers: Epidemic Sound Learn
-- 2018-12-06 — High Rollers: Aerois Christmas Special w/ Matt Mercer (Part 2) — speakers: Matt Mercer, Ho ho ho, Epidemic Sound Learn
-- 2018-12-03 — High Rollers: Aerois Christmas Special w/ Matt Mercer (Part 1) — speakers: Matt Mercer, Ho ho ho, St Mira, Epidemic Sound Learn
-- 2018-11-29 — High Rollers: Aerois | #17 - The Bow (Part 2) — speakers: Epidemic Sound Learn
-- 2018-11-26 — High Rollers: Aerois | #17 - The Bow (Part 1) — speakers: Epidemic Sound Learn
-- 2018-11-23 — High Rollers: Rogue's Gambit #10 | Into the Vault — speakers: Epidemic Sound Learn
-- 2018-11-22 — High Rollers: Aerois | #16 - Dark Rituals (Part 2) — speakers: Epidemic Sound Learn
-- 2018-11-19 — High Rollers: Aerois | #16 - Dark Rituals (Part 1) — speakers: Epidemic Sound Learn
-- 2018-11-16 — High Rollers: Rogue's Gambit #9 | The Old Windmill — speakers: Epidemic Sound Learn
-- 2018-11-15 — High Rollers: Aerois | #15 - The Ironwick Mystery (Part 2) — speakers: Epidemic Sound Learn
-- 2018-11-12 — High Rollers: Aerois | #15 - The Ironwick Mystery (Part 1) — speakers: Epidemic Sound Learn
-- 2018-11-11 — High Rollers: A Rogue's Gambit #8 |The Drow Who Loved Me — speakers: Aqua Mamba, Epidemic Sound Learn
-- 2018-11-08 — High Rollers: Aerois | #14 - Brush With Death (Part 2) — speakers: Epidemic Sound Learn
-- 2018-11-05 — High Rollers: Aerois | #14 - Brush With Death (Part 1) — speakers: Epidemic Sound Learn
-- 2018-11-03 — High Rollers LIVE at MCM Comicon 2018 | The Swift and the Sorcerous — speakers: Epidemic Sound Learn
-- 2018-11-02 — High Rollers: A Rogue's Gambit #7 | The Eye Catcher — speakers: Epidemic Sound Learn
-- 2018-11-01 — High Rollers: Aerois | #13 - The Princess and The Pixie (Part 2) — speakers: Epidemic Sound Learn
-- 2018-10-29 — High Rollers: Aerois | #13 - The Princess and The Pixie (Part 1) — speakers: Epidemic Sound Learn
-- 2018-10-25 — High Rollers: One Shot | Infernal Asylum #2 (Part 2) — speakers: Epidemic Sound Learn
-- 2018-10-22 — High Rollers: One Shot | Infernal Asylum #2 (Part 1) — speakers: Epidemic Sound Learn
-- 2018-10-18 — High Rollers: One Shot | Infernal Asylum #1 (Part 2) — speakers: Epidemic Sound Learn
-- 2018-10-15 — High Rollers: One Shot | Infernal Asylum #1 (Part 1) — speakers: Epidemic Sound Learn
-- 2018-10-13 — High Rollers: A Rogue's Gambit #6 | The ISTAR Trials — speakers: Epidemic Sound Learn
-- 2018-10-11 — High Rollers: Aerois | #12 - The Path to Justice (Part 2) — speakers: Epidemic Sound
-- 2018-10-08 — High Rollers: Aerois | #12 - The Path to Justice (Part 1) — speakers: Epidemic Sound Learn
-- 2018-10-05 — High Rollers: A Rogue's Gambit #5 | Bertie's Big Break — speakers: Epidemic Sound Learn
-- 2018-10-04 — High Rollers: Aerois | #11 - Eye for an Eye (Part 2) — speakers: Epidemic Sound Learn
-- 2018-10-01 — High Rollers: Aerois | #11 - Eye for an Eye (Part 1) — speakers: Epidemic Sound Learn
-- 2018-09-28 — High Rollers: A Rogue's Gambit #4 | A Noble Sacrifice — speakers: Epidemic Sound Learn
-- 2018-09-27 — High Rollers: Aerois | #10 - The Thorns (Part 2) — speakers: Epidemic Sound Learn
-- 2018-09-24 — High Rollers: Aerois | #10 - The Thorns (Part 1) — speakers: Epidemic Sound Learn
-- 2018-09-21 — High Rollers: A Rogue's Gambit #3 | Dinner Party Raid — speakers: Epidemic Sound Learn
-- 2018-09-14 — High Rollers: A Rogue's Gambit #2 | Meeting with Dandelion — speakers: Epidemic Sound Learn
-- 2018-09-13 — High Rollers: Aerois | #9 - Riches of Rosehall (Part 2) — speakers: Epidemic Sound Learn
-- 2018-09-10 — High Rollers: Aerois | #9 - Riches of Rosehall (Part 1) — speakers: Epidemic Sound Learn
-- 2018-09-07 — High Rollers: A Rogue's Gambit | #1 - Welcome to the Team — speakers: Epidemic Sound Learn
-- 2018-09-07 — High Rollers: Aerois | #8 - Cattle Rustlers (Part 2) — speakers: Epidemic Sound Learn
-- 2018-09-03 — High Rollers: Aerois | #8 - Cattle Rustlers (Part 1) — speakers: Epidemic Sound Learn
-- 2018-08-23 — High Rollers: Aerois | #7 - Guardian Secrets (Part 2) — speakers: Epidemic Sound Learn
-- 2018-08-20 — High Rollers: Aerois | #7 - Guardian Secrets (Part 1) — speakers: Epidemic Sound Learn
-- 2018-08-16 — High Rollers: Aerois | #6 - Into the Deep (Part 2) — speakers: Epidemic Sound Learn
-- 2018-08-13 — High Rollers: Aerois | #6 - Into the Deep (Part 1) — speakers: Epidemic Sound Learn
-- 2018-08-09 — High Rollers: Aerois | #5 - Soft Beds, Warm Plates (Part 2) — speakers: Epidemic Sound Learn
-- 2018-08-06 — High Rollers: Aerois | #5 - Soft Beds, Warm Plates (Part 1) — speakers: Epidemic Sound Learn
-- 2018-07-26 — High Rollers: Aerois | #4 - 2.5 Days to Die (Part 2) — speakers: Epidemic Sound Learn
-- 2018-07-23 — High Rollers: Aerois | #4 - 2.5 Days to Die (Part 1) — speakers: Epidemic Sound Learn
-- 2018-07-19 — High Rollers: Aerois | #3 - The Midnight Raid (Part 2) — speakers: Epidemic Sound Learn
-- 2018-07-16 — High Rollers: Aerois | #3 - The Midnight Raid (Part 1) — speakers: Epidemic Sound Learn
-- 2018-07-12 — High Rollers: Aerois | #2 - Daddy's Lost Luggage (Part 2) — speakers: Epidemic Sound Learn
-- 2018-07-09 — High Rollers: Aerois | #2 - Daddy's Lost Luggage (Part 1) — speakers: Epidemic Sound Learn
-- 2018-07-05 — High Rollers: Aerois | #1 - Welcome to Aerois (Part 2) — speakers: Epidemic Sound Learn
-- 2018-07-02 — High Rollers: Aerois | #1 - Welcome to Aerois (Part 1) — speakers: Epidemic Sound Learn
+- 2022-05-03 — High Rollers: Aerois #145 | Titan of the Forge (Part 1) — speakers: High Rollers, Forge Titan Valena
+- 2022-04-21 — High Rollers: Aerois #144 | A Wish for Wings (Part 2)
+- 2022-04-19 — High Rollers: Aerois #144 | A Wish for Wings (Part 1)
+- 2022-04-14 — High Rollers: Aerois #143 | The Great Oscillator (Part 2) — speakers: High Rollers
+- 2022-04-11 — High Rollers: Aerois #143 | The Great Oscillator (Part 1) — speakers: High Rollers
+- 2022-04-07 — High Rollers: Aerois #142 | Solwynn the Problem (Part 2) — speakers: Porto Suvrano
+- 2022-04-04 — High Rollers: Aerois #142 | Solwynn the Problem (Part 1)
+- 2022-04-03 — High Rollers: Aerois #141 | Technological Upgrades
+- 2022-03-10 — High Rollers: Aerois #140 | A World in Chaos (Part 2)
+- 2022-03-07 — High Rollers: Aerois #140 | A World in Chaos (Part 1) — speakers: High Rollers, Project Vanguard
+- 2022-03-03 — High Rollers: Aerois #139 | Rest and Recuperation (Part 2) — speakers: High Rollers
+- 2022-03-02 — High Rollers: Aerois #139 | Rest and Recuperation (Part 1) — speakers: High Rollers
+- 2022-02-19 — High Rollers: Dark Souls RPG | Prepared to Die (Part 2) — speakers: High Rollers, Dark Souls
+- 2022-02-18 — High Rollers: Dark Souls RPG | Jolly Cooperation! (Part 1) — speakers: High Rollers, Dark Souls, Jolly Cooperation, Steamforged Games
+- 2022-02-10 — High Rollers: Aerois #138 | Enemy of my Enemy (Part 2)
+- 2022-02-08 — High Rollers: Aerois #138 | Enemy of my Enemy (Part 1)
+- 2022-02-05 — High Rollers: Aerois #137 | Love and Death (Part 2) — speakers: High Rollers
+- 2022-02-04 — High Rollers: Aerois #137 | Love and Death (Part 1)
+- 2022-02-03 — High Rollers: Aerois #136 | Must Come Down (Part 2) — speakers: High Rollers, Must Come Down
+- 2022-02-02 — High Rollers: Aerois #136 | Must Come Down (Part 1) — speakers: High Rollers, Must Come Down
+- 2022-01-20 — High Rollers: Aerois #135 | What Goes Up (Part 2)
+- 2022-01-18 — High Rollers: Aerois #135 | What Goes Up (Part 1)
+- 2022-01-13 — High Rollers: Aerois #134 | Valiant Knight of the Briar (Part 2) — speakers: Valiant Knight
+- 2022-01-11 — High Rollers: Aerois #134 | Valiant Knight of the Briar (Part 1) — speakers: Valiant Knight
+- 2022-01-06 — High Rollers: Aerois #133 | Temple of the Gods (Part 2) — speakers: High Rollers, Black Stallion Riders
+- 2022-01-03 — High Rollers: Aerois #133 | Temple of the Gods (Part 1)
+- 2021-12-16 — D&D in D&D (Part 2) | High Rollers: Aerois Christmas Special 2021 — speakers: High Rollers, Aerois Christmas Special
+- 2021-12-13 — D&D in D&D (Part 1) | High Rollers: Aerois Christmas Special 2021
+- 2021-12-04 — High Rollers: Aerois #132 | Echoes of the Universe (Part 2)
+- 2021-11-29 — High Rollers: Aerois #132 | Echoes of the Universe (Part 1)
+- 2021-11-26 — High Rollers: Aerois #131 | Hunters of Hearts and Heads (Part 2) — speakers: High Rollers, Black Stallion Forest
+- 2021-11-25 — High Rollers: Aerois #131 | Hunters of Hearts and Heads (Part 1) — speakers: Yon Fen
+- 2021-11-22 — High Rollers: Aerois | Battle Royale! — speakers: High Rollers, Battle Royale, High Rollers Studio Fundraiser
+- 2021-11-18 — High Rollers: Aerois #130 | The Centaur's Tears (Part 2) — speakers: High Rollers
+- 2021-11-15 — High Rollers: Aerois #130 | The Centaur's Tears (Part 1) — speakers: High Rollers
+- 2021-11-11 — High Rollers: Aerois #129 | Rock the Boat (Part 2) — speakers: High Rollers
+- 2021-11-08 — High Rollers: Aerois #129 | Rock the Boat (Part 1)
+- 2021-11-04 — High Rollers: Aerois #128 | Where Centaurs Roam (Part 2)
+- 2021-11-01 — High Rollers: Aerois #128 | Where Centaurs Roam (Part 1)
+- 2021-10-28 — High Rollers: Aerois #127 | Lilac Grass and Giant Trees (Part 2)
+- 2021-10-25 — High Rollers: Aerois #127 | Lilac Grass and Giant Trees (Part 1)
+- 2021-10-14 — High Rollers: Aerois #126 | Teleport Troubles (Part 2) — speakers: Teleport Troubles
+- 2021-10-11 — High Rollers: Aerois #126 | Teleport Troubles (Part 1) — speakers: Teleport Troubles
+- 2021-10-07 — High Rollers: Aerois #125 | Curse of the Feywild (Part 2)
+- 2021-10-05 — High Rollers: Aerois #125 | Curse of the Feywild (Part 1)
+- 2021-09-16 — High Rollers: Aerois #124 | Wrath of the Sea God (Part 2) — speakers: High Rollers, Sea God
+- 2021-09-13 — High Rollers: Aerois #124 | Wrath of the Sea God (Part 1) — speakers: High Rollers, Sea God
+- 2021-09-09 — High Rollers: Aerois #123 | Zephyr's Domain (Part 2) — speakers: High Rollers
+- 2021-09-07 — High Rollers: Aerois #123 | Zephyr's Domain (Part 1) — speakers: High Rollers
+- 2021-09-02 — High Rollers: Aerois #122 | One Month Later (Part 2) — speakers: High Rollers, One Month Later
+- 2021-08-31 — High Rollers: Aerois #122 | One Month Later (Part 1) — speakers: High Rollers, One Month Later
+- 2021-08-12 — High Rollers: Aerois | Final Arc Q&A Special! — speakers: High Rollers, Final Arc
+- 2021-08-05 — High Rollers: Aerois #121 | Call of the Herald (Part 2)
+- 2021-08-02 — High Rollers: Aerois #121 | Call of the Herald (Part 1)
+- 2021-07-29 — High Rollers: Aerois #120 | The Tower of Glass (Part 2) — speakers: High Rollers
+- 2021-07-28 — High Rollers: Aerois #120 | The Tower of Glass (Part 1)
+- 2021-07-22 — High Rollers: Aerois #119 | Empty Husks and Soul Breakers (Part 2) — speakers: Soul Breakers, Soul Breaker
+- 2021-07-20 — High Rollers: Curse of Strahd #37 (FINAL) | The Death of All Things — speakers: High Rollers, All Things Strahd Von
+- 2021-07-19 — High Rollers: Aerois #119 | Empty Husks and Soul Breakers (Part 1) — speakers: Soul Breakers
+- 2021-07-16 — High Rollers: Curse of Strahd #36 | Darkness Descends
+- 2021-07-15 — High Rollers: Aerois #118 | The Gang Commits a War Crime (Part 2) — speakers: High Rollers, War Crime
+- 2021-07-12 — High Rollers: Aerois #118 | The Gang Commits a War Crime (Part 1) — speakers: High Rollers, War Crime
+- 2021-07-08 — High Rollers: Aerois #117 | The City of Glass Jump (Part 2)
+- 2021-07-05 — High Rollers: Aerois #117 | The City of Glass Jump (Part 1) — speakers: High Rollers, Glass Jump
+- 2021-06-24 — High Rollers: Aerois #116 | The Darkness Inside (Part 2)
+- 2021-06-22 — High Rollers: Curse of Strahd #35 | The Dollmaker's Promise — speakers: High Rollers
+- 2021-06-21 — High Rollers: Aerois #116 | The Darkness Inside (Part 1) — speakers: High Rollers
+- 2021-06-18 — High Rollers: Aerois #115 | Dominator's Destruction — speakers: High Rollers, Destruction Overlord Varacitor
+- 2021-06-10 — High Rollers: Aerois #114 | Gods and Queens (Part 2)
+- 2021-06-07 — High Rollers: Aerois #114 | Gods and Queens (Part 1)
+- 2021-05-28 — High Rollers: Curse of Strahd #34 | Dogsbody's Revenge — speakers: High Rollers, Revenge Dogsbody
+- 2021-05-27 — High Rollers: Aerois #113 | Praxis Valla (Part 2) — speakers: Praxis Valla
+- 2021-05-24 — High Rollers: Aerois #113 | Praxis Valla (Part 1) — speakers: Praxis Valla
+- 2021-05-20 — High Rollers: Aerois #112 | Assault on the Tassadar (Part 2) — speakers: High Rollers, Valkyrian Empire
+- 2021-05-17 — High Rollers: Aerois #112 | Assault on the Tassadar (Part 1) — speakers: High Rollers, Valkyrian Empire
+- 2021-05-13 — High Rollers: Aerois #111 | Tassadar Preparations (Part 2) — speakers: High Rollers, Tassadar Preparations
+- 2021-05-10 — High Rollers: Aerois #111 | Tassadar Preparations (Part 1) — speakers: High Rollers, Tassadar Preparations
+- 2021-04-29 — High Rollers: Aerois #110 | Prison Break (Part 2) — speakers: Prison Break
+- 2021-04-27 — High Rollers: Curse of Strahd #33 | Mouth of the Beast — speakers: High Rollers, Beast Following Vasilika
+- 2021-04-26 — High Rollers: Aerois #110 | Prison Break (Part 1) — speakers: Prison Break
+- 2021-04-22 — High Rollers: Aerois #109 | Bird in a Cage (Part 2) — speakers: High Rollers
+- 2021-04-20 — High Rollers: Curse of Strahd #32 | Howls in the Night
+- 2021-04-19 — High Rollers: Aerois #109 | Bird in a Cage (Part 1) — speakers: High Rollers
+- 2021-04-15 — High Rollers: Aerois #108 | Aerosians... Assemble! (Part 2)
+- 2021-04-12 — High Rollers: Aerois #108 | Aerosians... Assemble! (Part 1)
+- 2021-04-08 — High Rollers: Aerois #107 | Stand With Aerois (Part 2)
+- 2021-04-05 — High Rollers: Aerois #107 | Stand With Aerois (Part 1)
+- 2021-04-01 — High Rollers: Aerois #106 | The Valkyrian Ploy (Part 2) — speakers: Kallus Starbane
+- 2021-03-29 — High Rollers: Aerois #106 | The Valkyrian Ploy (Part 1) — speakers: High Rollers, Valkyrian Empire
+- 2021-03-29 — High Rollers: Aerois #105 | Leaders of the World (Part 2) — speakers: Sentry's new
+- 2021-03-26 — High Rollers: Purs of Strahd | A 1980s Cats Protection One Shot!
+- 2021-03-22 — High Rollers: Aerois #105 | Leaders of the World (Part 1) — speakers: High Rollers
+- 2021-03-18 — High Rollers: Aerois #104 | Horizon Reunions (Part 2) — speakers: Horizon Reunions
+- 2021-03-16 — High Rollers: Curse of Strahd #31 | Wolves of Krezk
+- 2021-03-15 — High Rollers: Aerois #104 | Horizon Reunions (Part 1) — speakers: Horizon Reunions
+- 2021-03-11 — High Rollers: Aerois #103 | Moving On Up (Part 2)
+- 2021-03-09 — High Rollers: Curse of Strahd #30 | From Beyond the Veil
+- 2021-03-08 — High Rollers: Aerois #103 | Moving On Up (Part 1) — speakers: High Rollers, High Rol
+- 2021-03-04 — High Rollers: Aerois #102 | Project Vanguard (Part 2) — speakers: High Rollers, Project Vanguard
+- 2021-03-03 — High Rollers: Aerois #102 | Project Vanguard (Part 1) — speakers: Shadowsong Pinna
+- 2021-03-02 — High Rollers: Curse of Strahd #29 | Wrath of the Swamp Witch — speakers: Baba Lysaga
+- 2021-02-23 — High Rollers: Curse of Strahd #28 | Defender of the Sunsword
+- 2021-02-18 — High Rollers: Lunar New Year Special | The Jade Emperor's Invitation (Part 2) — speakers: High Rollers, Lunar New Year Special
+- 2021-02-16 — High Rollers: Curse of Strahd #27 | Hunt for Baba Lysaga — speakers: Baba Lysaga
+- 2021-02-15 — High Rollers: Lunar New Year Special | The Jade Emperor's Invitation (Part 1)
+- 2021-02-11 — High Rollers: Aerois #101 | Mindflayers and Mecha Ninjas (Part 2) — speakers: Mecha Ninjas
+- 2021-02-08 — High Rollers: Aerois #101 | Mindflayers and Mecha Ninjas (Part 1) — speakers: Mecha Ninjas
+- 2021-02-04 — High Rollers: Aerois #100 | Episode One Hundred! (Part 2)
+- 2021-02-02 — High Rollers: Curse of Strahd #26 | Awakening the Mire — speakers: High Rollers, High Rolle
+- 2021-02-01 — High Rollers: Aerois #100 | Episode One Hundred! (Part 1) — speakers: High Rollers, Metal Gear
+- 2021-01-28 — High Rollers: Aerois #99 | Shadowsong Pinnacle (Part 2) — speakers: Shadowsong Pinnacle
+- 2021-01-26 — High Rollers: Curse of Strahd #25 | Descent of the Dragonborn
+- 2021-01-25 — High Rollers: Aerois #99 | Shadowsong Pinnacle (Part 1) — speakers: Shadowsong Pinnacle
+- 2021-01-21 — High Rollers: Aerois #98 | The Weapons Facility (Part 2) — speakers: High Rollers, Metal Gear Solid
+- 2021-01-18 — High Rollers: Aerois #98 | The Weapons Facility (Part 1)
+- 2021-01-14 — High Rollers: Aerois #97 | Attack on Gusthaven (Part 2)
+- 2021-01-11 — High Rollers: Aerois #97 | Attack on Gusthaven (Part 1)
+- 2021-01-07 — High Rollers: Aerois #96 | The Gusthaven Elite (Part 2)
+- 2021-01-04 — High Rollers: Aerois #96 | The Gusthaven Elite (Part 1) — speakers: High Rollers
+- 2020-12-24 — High Rollers: Aerois #95 | Zarkira's Invitation (Part 2)
+- 2020-12-21 — High Rollers: Aerois #95 | Zarkira's Invitation (Part 1)
+- 2020-12-17 — High Rollers: Christmas Special 2020 - Valla's Wish (Part 2)
+- 2020-12-14 — High Rollers: Christmas Special 2020 - Valla's Wish (Part 1)
+- 2020-12-03 — High Rollers: Aerois #94 | The Tempest Dragon (Part 2) — speakers: High Rollers, Tempest Dragon
+- 2020-11-30 — High Rollers: Aerois #94 | The Tempest Dragon (Part 1) — speakers: High Rollers, Tempest Dragon
+- 2020-11-26 — High Rollers: Aerois #93 | Trial of Power (Part 2)
+- 2020-11-23 — High Rollers: Aerois #93 | Trial of Power (Part 1) — speakers: High Rollers
+- 2020-11-19 — High Rollers: Aerois #92 | The Battle Through Time (Part 2)
+- 2020-11-17 — High Rollers: Aerois #92 | The Battle Through Time (Part 1) — speakers: High Rollers
+- 2020-11-12 — High Rollers: Aerois #91 | Trial of Aeons (Part 2) — speakers: High Rollers
+- 2020-11-10 — High Rollers: Aerois #91 | Trial of Aeons (Part 1) — speakers: High Rollers
+- 2020-11-05 — High Rollers: Aerois #90 | Metal Crabs and Tricksy Wizards (Part 2) — speakers: Metal Crabs, Tricksy Wizards
+- 2020-11-03 — High Rollers: Curse of Strahd #24 | Rituals of Yester Hill
+- 2020-11-02 — High Rollers: Aerois #90 | Metal Crabs and Tricksy Wizards (Part 1) — speakers: Metal Crabs, Tricksy Wizards, immune mecha-crabs
+- 2020-10-29 — High Rollers: Aerois #89 | Domain of the Arcane (Part 2)
+- 2020-10-26 — High Rollers: Aerois #89 | Domain of the Arcane (Part 1)
+- 2020-10-22 — High Rollers: Aerois #88 | On Wings of Storm (Part 2)
+- 2020-10-20 — High Rollers: Curse of Strahd #23 | Seeds of Chaos — speakers: High Rollers, Chaos Xiiki
+- 2020-10-19 — High Rollers: Aerois #88 | On Wings of Storm (Part 1) — speakers: Project Flo
+- 2020-10-15 — High Rollers: Aerois #87 | Ancient Enemies Underfoot (Part 2) — speakers: High Rollers, Ancient Enemies Underfoot
+- 2020-10-12 — High Rollers: Aerois #87 | Ancient Enemies Underfoot (Part 1)
+- 2020-10-08 — High Rollers: Aerois #86 | Very Froggy Rituals (Part 2)
+- 2020-10-06 — High Rollers: Curse of Strahd #22 | Riders in the Night
+- 2020-10-05 — High Rollers: Aerois #86 | Very Froggy Rituals (Part 1)
+- 2020-09-29 — High Rollers: Curse of Strahd #21 | The Last Communion — speakers: High Rollers, High Roller
+- 2020-09-22 — High Rollers: Curse of Strahd #20 | The Dragon's Dance
+- 2020-09-17 — High Rollers: Aerois #85 | Green Grass, Clean Air (Part 2)
+- 2020-09-15 — High Rollers: Curse of Strahd #19 | The Mind Palace — speakers: High Rollers, Mad Mage
+- 2020-09-14 — High Rollers: Aerois #85 | Green Grass, Clean Air (Part 1) — speakers: High Rollers, Green Grass, Clean Air
+- 2020-09-08 — High Rollers: Curse of Strahd #18 | The Mad Mage — speakers: High Rollers
+- 2020-09-03 — High Rollers: Aerois #84 | Home (Part 2) — speakers: High Rollers
+- 2020-08-31 — High Rollers: Aerois #84 | Home (Part 1)
+- 2020-08-27 — High Rollers: One-Shot | Cabin in the Woods #2 — speakers: Will Tom
+- 2020-08-25 — High Rollers: Curse of Strahd #17 | Beacon of Radiance
+- 2020-08-24 — High Rollers: One-Shot | Cabin in the Woods #1
+- 2020-08-20 — High Rollers: Aerois #83 | Tyrant in the Dark (Part 2) — speakers: High Rollers, Shifting Straits
+- 2020-08-18 — High Rollers: Curse of Strahd #16 | Revenant Reveries — speakers: High Rollers, Revenant Reveries Climbing
+- 2020-08-17 — High Rollers: Aerois #83 | Tyrant in the Dark (Part 1) — speakers: High Rollers
+- 2020-08-13 — High Rollers: Aerois #82 | The Shifting Straits (Part 2)
+- 2020-08-12 — High Rollers: Curse of Strahd #15 | The Evil Within — speakers: High Rollers
+- 2020-08-10 — High Rollers: Aerois #82 | The Shifting Straits (Part 1)
+- 2020-08-06 — High Rollers: Aerois #81 | Breaking the Chains (Part 2)
+- 2020-08-03 — High Rollers: Aerois #81 | Breaking the Chains (Part 1)
+- 2020-07-30 — High Rollers: Aerois #80 | The Great Escape (Part 2) — speakers: High Rollers
+- 2020-07-28 — High Rollers: Curse of Strahd #14 | Tatyana's Truth — speakers: High Rollers, Truth Ireena
+- 2020-07-27 — High Rollers: Aerois #80 | The Great Escape (Part 1)
+- 2020-07-23 — High Rollers: One-Shot | Darkest Before Dawn #2 — speakers: High Rollers, Darkest Before Dawn
+- 2020-07-21 — High Rollers: Curse of Strahd #13 | Mists and Shadows — speakers: High Rollers
+- 2020-07-20 — High Rollers: One-Shot | Darkest Before Dawn #1
+- 2020-07-16 — High Rollers: Aerois #79 | The Displeased Prince (Part 2) — speakers: High Rollers
+- 2020-07-14 — High Rollers: Curse of Strahd #12 | Spiders of Argynvostholt — speakers: High Rollers, Argynvostholt Fleeing
+- 2020-07-13 — High Rollers: Aerois #79 | The Displeased Prince (Part 1) — speakers: High Rollers
+- 2020-07-09 — High Rollers: Aerois #78 | A Game of Chance (Part 2)
+- 2020-07-06 — High Rollers: Aerois #78 | A Game of Chance (Part 1)
+- 2020-07-02 — High Rollers: Aerois #77 | Dance of the Sixth Finger (Part 2) — speakers: Follow Gratzt
+- 2020-06-29 — High Rollers: Aerois #77 | Dance of the Sixth Finger (Part 1) — speakers: High Rollers, Sixth Finger
+- 2020-06-25 — High Rollers: Aerois #76 | Echo of the Galaxy (Part 2)
+- 2020-06-23 — High Rollers: Curse of Strahd #11 | The Broken Bonds — speakers: High Rollers
+- 2020-06-22 — High Rollers: Aerois #76 | Echo of the Galaxy (Part 1) — speakers: High Rollers
+- 2020-06-18 — High Rollers: Aerois #75 | Mines of Madness (Part 2) — speakers: High Rollers
+- 2020-06-16 — High Rollers: Curse of Strahd #10 | The Hallowed Bones — speakers: High Rollers
+- 2020-06-15 — High Rollers: Aerois #75 | Mines of Madness (Part 1) — speakers: High Rollers
+- 2020-06-11 — High Rollers: Aerois #74 | Criminal Negotiations (Part 2) — speakers: High Rollers, Criminal Negotiations
+- 2020-06-09 — High Rollers: Curse of Strahd #9 | Unspoken Pacts — speakers: Unspoken Pacts
+- 2020-06-08 — High Rollers: Aerois #74 | Criminal Negotiations (Part 1) — speakers: High Ro
+- 2020-06-04 — High Rollers: Aerois #73 | Minds of the Multiverse (Part 2) — speakers: High Rollers, High Rolle
+- 2020-06-02 — High Rollers: Curse of Strahd #8 | The Dragon's Bite — speakers: High Rollers
+- 2020-06-01 — High Rollers: Aerois #73 | Minds of the Multiverse (Part 1) — speakers: High Rollers
+- 2020-05-28 — High Rollers: Aerois #72 | Astral Styx and Astral Stones (Part 2)
+- 2020-05-26 — High Rollers: Curse of Strahd #7 | House of the Living Dead — speakers: High Rollers, Living Dead Night
+- 2020-05-24 — High Rollers: Aerois #72 | Astral Styx and Astral Stones (Part 1)
+- 2020-05-21 — High Rollers: Aerois #71 | Wings of Ishtar (Part 2) — speakers: High Rollers
+- 2020-05-19 — High Rollers: Curse of Strahd #6 | The Blue Water Inn — speakers: High Rollers, Blue Water Inn
+- 2020-05-18 — High Rollers: Aerois #71 | Wings of Ishtar (Part 1)
+- 2020-05-12 — High Rollers: Curse of Strahd #5 | Road to Vallaki — speakers: High Rollers, Vallaki Swearing
+- 2020-05-07 — High Rollers: Aerois #70 | The Last Feather (Part 2) — speakers: High Rollers, Last Feather
+- 2020-05-06 — High Rollers: Curse of Strahd #4 | The Flour Children
+- 2020-05-04 — High Rollers: Aerois #70 | The Last Feather (Part 1) — speakers: High Rollers
+- 2020-05-01 — High Rollers: Curse of Strahd #3 | Fortunes of the Vistani — speakers: Madam Ava
+- 2020-04-30 — High Rollers: Aerois #69 | Portal Through Space and Time (Part 2) — speakers: High Rollers, Portal Through Space
+- 2020-04-27 — High Rollers: Aerois #69 | Portal Through Space and Time (Part 1)
+- 2020-04-23 — High Rollers: Aerois #68 | Baraz the Consumed (Part 2)
+- 2020-04-21 — High Rollers: Curse of Strahd #2 | Wrath of Fire and Death — speakers: High Rollers
+- 2020-04-20 — High Rollers: Aerois #68 | Baraz the Consumed (Part 1)
+- 2020-04-16 — High Rollers: Aerois #67 | One Guardian Army (Part 2) — speakers: High Rollers, One Guardian Army
+- 2020-04-14 — High Rollers: Curse of Strahd #1 | The Mists of Barovia — speakers: High Rollers, Barovia Welcome
+- 2020-04-13 — High Rollers: Aerois #67 | One Guardian Army (Part 1) — speakers: High Rollers, One Guardian Army
+- 2020-04-09 — High Rollers: Aerois #66 | Rock and Gnoll (Part 2)
+- 2020-04-06 — High Rollers: Aerois #66 | Rock and Gnoll (Part 1)
+- 2020-04-02 — High Rollers: Aerois #65 | Dance with the Devil (Part 2) — speakers: High Ro
+- 2020-03-30 — High Rollers: Aerois #65 | Dance with the Devil (Part 1)
+- 2020-03-26 — High Rollers: Aerois #64 | A Hawk's Dawn Holiday (Part 2) — speakers: Porta Suvrano, High Ro
+- 2020-03-23 — High Rollers: Aerois #64 | A Hawk's Dawn Holiday (Part 1)
+- 2020-03-12 — High Rollers: Aerois #63 | Arise (Part 2)
+- 2020-03-09 — High Rollers: Aerois #63 | Arise (Part 1)
+- 2020-03-05 — High Rollers: Aerois #62 | Trial of the Prime (Part 2) — speakers: High Rollers
+- 2020-03-02 — High Rollers: Aerois #62 | Trial of the Prime (Part 1)
+- 2020-02-27 — High Rollers: Aerois #61 | Hot Under the Collar (Part 2) — speakers: High Rollers, Hot Under
+- 2020-02-24 — High Rollers: Aerois #61 | Hot Under the Collar (Part 1) — speakers: High Rollers, Hot Under
+- 2020-02-13 — High Rollers: Aerois #60 | Under the Ash (Part 2) — speakers: High Rollers
+- 2020-02-10 — High Rollers: Aerois #60 | Under the Ash (Part 1)
+- 2020-02-06 — High Rollers: Aerois #59 | Call of the Storm (Part 2)
+- 2020-02-03 — High Rollers: Aerois #59 | Call of the Storm (Part 1) — speakers: Leaving Imixan
+- 2020-01-30 — High Rollers: Aerois #58 | The Dark Herald (Part 2) — speakers: High Rollers
+- 2020-01-27 — High Rollers: Aerois #58 | The Dark Herald (Part 1)
+- 2020-01-23 — High Rollers: Aerois #57 | The Unlikely Alliance (Part 2)
+- 2020-01-20 — High Rollers: Aerois #57 | The Unlikely Alliance (Part 1)
+- 2020-01-16 — High Rollers: Aerois #56 | Hearts of Glass (Part 2)
+- 2020-01-13 — High Rollers: Aerois #56 | Hearts of Glass (Part 1)
+- 2020-01-09 — High Rollers: Aerois #55 | Explosive Revelations (Part 2)
+- 2020-01-06 — High Rollers: Aerois #55 | Explosive Revelations (Part 1) — speakers: High Rollers
+- 2019-12-09 — High Rollers: Christmas Special 2019 - Dungeon of the Mad Mark — speakers: High Rollers, Christmas Special, Yogscast Jingle Jam
+- 2019-11-28 — High Rollers: Aerois #54 | The Last Brookstone (Part 2) — speakers: High Rollers
+- 2019-11-26 — High Rollers: Aerois #54 | The Last Brookstone (Part 1) — speakers: High Rollers
+- 2019-11-21 — High Rollers: Aerois #53 | The Tunnels Beneath (Part 2) — speakers: High Rollers
+- 2019-11-18 — High Rollers: Aerois #53 | The Tunnels Beneath (Part 1) — speakers: High Rollers
+- 2019-11-14 — High Rollers: Aerois #52 | The Glorious Vivex (Part 2)
+- 2019-11-11 — High Rollers: Aerois #52 | The Glorious Vivex (Part 1)
+- 2019-11-07 — High Rollers: Aerois #51 | Part of the Team (Part 2)
+- 2019-11-04 — High Rollers: Aerois #51 | Part of the Team (Part 1) — speakers: High Rollers
+- 2019-10-31 — High Rollers: Aerois #50 | A Desperate Escape (Part 2)
+- 2019-10-28 — High Rollers: Aerois #50 | A Desperate Escape (Part 1)
+- 2019-10-24 — High Rollers: Aerois #49 | Aegis V (Part 2) — speakers: High Rollers
+- 2019-10-21 — High Rollers: Aerois #49 | Aegis V (Part 1) — speakers: High Rollers, High Roller
+- 2019-10-10 — High Rollers: Aerois #48 | Darkness of the Coldlight (Part 2) — speakers: High Rollers, High Priest
+- 2019-10-08 — High Rollers: Aerois #48 | Darkness of the Coldlight (Part 1) — speakers: High Rollers
+- 2019-10-03 — High Rollers: Aerois | #47 - Under the Sea (Part 2) — speakers: High Rollers
+- 2019-10-01 — High Rollers Lightfall: The Descent #11 | The Arena (Final)
+- 2019-09-30 — High Rollers: Aerois | #47 - Under the Sea (Part 1) — speakers: High Rollers
+- 2019-09-26 — High Rollers: Aerois | #46 - Yama Lo'Tai Troubles (Part 2)
+- 2019-09-24 — High Rollers Lightfall: The Descent #10 |A Rock and a Hard Place
+- 2019-09-23 — High Rollers: Aerois | #46 - Yama Lo'Tai Troubles (Part 1) — speakers: High Rollers, Yama Lo, Tai Troubles
+- 2019-09-12 — High Rollers: Aerois | #45 - Maiden Voyage (Part 2)
+- 2019-09-09 — High Rollers: Aerois | #45 - Maiden Voyage (Part 1)
+- 2019-09-07 — High Rollers LIVE at PAX West 2019 | A Plane in the Astral — speakers: High Rollers, Astral Welcome
+- 2019-08-29 — High Rollers: Aerois | #44 - The Elenasto Fiasco (Part 2) — speakers: High Rollers, Galecrown Palace
+- 2019-08-27 — High Rollers Lightfall: The Descent #9 | Mad Maggie's Junkyard
+- 2019-08-26 — High Rollers: Aerois | #44 - The Elenasto Fiasco (Part 1) — speakers: High Rollers, Galecrown Palace
+- 2019-08-22 — High Rollers: Aerois | #43 - Secrets of the Galecrown (Part 2) — speakers: High Rollers, Galecrown Palace
+- 2019-08-20 — High Rollers Lightfall: The Descent #8 | Hand of Vecna
+- 2019-08-19 — High Rollers: Aerois | #43 - Secrets of the Galecrown (Part 1) — speakers: High Rollers
+- 2019-08-15 — High Rollers: Aerois | #42 - Legends and Libraries (Part 2)
+- 2019-08-13 — High Rollers Lightfall: The Descent #7 | Arkhan's Ambush
+- 2019-08-12 — High Rollers: Aerois | #42 - Legends and Libraries (Part 1)
+- 2019-08-10 — High Rollers LIVE at YogCon | Wicked Wit's Wonderium! — speakers: Wicked Wit
+- 2019-07-25 — High Rollers: Aerois | #41 - Moonstar, Monsters and Money (Part 2) — speakers: High Rollers
+- 2019-07-23 — High Rollers Lightfall: The Descent #6 | Arkhan's Army
+- 2019-07-22 — High Rollers: Aerois | #41 - Moonstar, Monsters and Money (Part 1)
+- 2019-07-18 — High Rollers: Aerois | #40 - Ticking Timebomb (Part 2) — speakers: High Rollers, Ticking Timebomb
+- 2019-07-16 — High Rollers Lightfall: The Descent #5 | The Dark Tower
+- 2019-07-15 — High Rollers: Aerois | #40 - Ticking Timebomb (Part 1) — speakers: High Rollers, Ticking Timebomb
+- 2019-07-11 — High Rollers: Aerois | #39 - Disguising and Dealing (Part 2)
+- 2019-07-09 — High Rollers Lightfall: The Descent #4 | Demon Deceptions — speakers: Demon Deceptions
+- 2019-07-08 — High Rollers: Aerois | #39 - Disguising and Dealing (Part 1)
+- 2019-07-04 — High Rollers: Aerois | #38 - The Elenasto Enquiry (Part 2)
+- 2019-07-02 — High Rollers Lightfall: The Descent #3 | Iron Clad — speakers: Iron Clad
+- 2019-07-01 — High Rollers: Aerois | #38 - The Elenasto Enquiry (Part 1)
+- 2019-06-27 — High Rollers: Aerois | #37 - A New Way Out (Part 2) — speakers: Lucius Elenasto
+- 2019-06-25 — High Rollers Lightfall: The Descent #2 | Across the Styx
+- 2019-06-24 — High Rollers: Aerois | #37 - A New Way Out (Part 1)
+- 2019-06-13 — High Rollers: Aerois | #36 - Goblins and Guardians (Part 2) — speakers: High Rollers
+- 2019-06-10 — High Rollers: Aerois | #36 - Goblins and Guardians (Part 1)
+- 2019-06-06 — High Rollers: Aerois | #35 - Riddle of the Forge (Part 2)
+- 2019-06-03 — High Rollers: Aerois | #35 - Riddle of the Forge (Part 1) — speakers: High Rollers
+- 2019-05-25 — High Rollers Lightfall: The Descent #1 | Old Friends, New Worlds
+- 2019-05-16 — High Rollers: Aerois | #34 - Stranger of the Storm (Part 2)
+- 2019-05-13 — High Rollers: Aerois | #34 - Stranger of the Storm (Part 1) — speakers: High Rollers
+- 2019-05-09 — High Rollers: Aerois | #33 - The Portal Problem (Part 2)
+- 2019-05-06 — High Rollers: Aerois | #33 - The Portal Problem (Part 1) — speakers: High Rollers
+- 2019-04-25 — High Rollers: Aerois | #32 - Whispers of the Void (Part 2) — speakers: High Rollers
+- 2019-04-22 — High Rollers: Aerois | #32 - Whispers of the Void (Part 1)
+- 2019-04-20 — High Rollers LIVE at TwitchCon Europe | The Curse of Captain Darkfinn — speakers: Elspeth Eastman
+- 2019-04-11 — High Rollers: Aerois | #31 - Hall of the Gods (Part 2) — speakers: High Rollers, Night Eye
+- 2019-04-08 — High Rollers: Aerois | #31 - Hall of the Gods (Part 1)
+- 2019-04-04 — High Rollers: Aerois | #30 - Depths of the Night Eye (Part 2) — speakers: High Rollers, Night Eye, Night Eye Ruins
+- 2019-04-01 — High Rollers: Aerois | #30 - Depths of the Night Eye (Part 1)
+- 2019-03-28 — High Rollers: Aerois | #29 - Marrows of Myrskyr (Part 2)
+- 2019-03-25 — High Rollers: Aerois | #29 - Marrows of Myrskyr (Part 1)
+- 2019-03-21 — High Rollers: Aerois | #28 - From Beyond the Cradle (Part 2) — speakers: High Rollers
+- 2019-03-18 — High Rollers: Aerois | #28 - From Beyond the Cradle (Part 1)
+- 2019-03-14 — High Rollers: Aerois | #27 - The Land of Roving Storm (Part 2) — speakers: High Rollers, Roving Storm
+- 2019-03-11 — High Rollers: Aerois | #27 - The Land of Roving Storm (Part 1) — speakers: High Rollers, Roving Storm
+- 2019-03-07 — High Rollers: Aerois | #26 - The Purge (Part 2) — speakers: High Rollers
+- 2019-03-04 — High Rollers: Aerois | #26 - The Purge (Part 1) — speakers: High Rollers
+- 2019-02-28 — High Rollers: Aerois | #25 - Into the Fire (Part 2) — speakers: High Rollers
+- 2019-02-25 — High Rollers: Aerois | #25 - Into the Fire (Part 1) — speakers: High Rollers
+- 2019-02-21 — High Rollers: Aerois | #24 - Out of the Frying Pan (Part 2)
+- 2019-02-18 — High Rollers: Aerois | #24 - Out of the Frying Pan (Part 1) — speakers: High Rollers, Frying Pan
+- 2019-02-14 — High Rollers: Aerois | #23 - Ill Winds Blow (Part 2) — speakers: High Rollers, Ill Winds Blow
+- 2019-02-11 — High Rollers: Aerois | #23 - Ill Winds Blow (Part 1)
+- 2019-02-07 — High Rollers: Aerois | #22 - Primed and Ready (Part 2)
+- 2019-02-04 — High Rollers: Aerois | #22 - Primed and Ready (Part 1)
+- 2019-01-31 — High Rollers: Aerois | #21 - Burning Questions (Part 2)
+- 2019-01-28 — High Rollers: Aerois | #21 - Burning Questions (Part 1) — speakers: High Rollers, Burning Questions
+- 2019-01-24 — High Rollers: Aerois | #20 - Clash of Spells (Part 2)
+- 2019-01-21 — High Rollers: Aerois | #20 - Clash of Spells (Part 1)
+- 2019-01-17 — High Rollers: Aerois | #19 - Echoes of the Past (Part 2)
+- 2019-01-14 — High Rollers: Aerois | #19 - Echoes of the Past (Part 1)
+- 2019-01-10 — High Rollers: Aerois | #18 - Eternal Rest (Part 2)
+- 2019-01-07 — High Rollers: Aerois | #18 - Eternal Rest (Part 1)
+- 2018-12-31 — High Rollers: 2018 Rollback! — speakers: High Rollers
+- 2018-12-23 — High Rollers: One Shot | Jason Statham's Big Vacation — speakers: Jason Statham
+- 2018-12-17 — High Rollers: One Shot | Honey Heist — speakers: Honey Heist
+- 2018-12-07 — High Rollers: Rogue's Gambit #11 | The Finale!
+- 2018-12-06 — High Rollers: Aerois Christmas Special w/ Matt Mercer (Part 2) — speakers: Matt Mercer, Ho ho ho
+- 2018-12-03 — High Rollers: Aerois Christmas Special w/ Matt Mercer (Part 1) — speakers: Matt Mercer, Ho ho ho
+- 2018-11-29 — High Rollers: Aerois | #17 - The Bow (Part 2)
+- 2018-11-26 — High Rollers: Aerois | #17 - The Bow (Part 1)
+- 2018-11-23 — High Rollers: Rogue's Gambit #10 | Into the Vault
+- 2018-11-22 — High Rollers: Aerois | #16 - Dark Rituals (Part 2)
+- 2018-11-19 — High Rollers: Aerois | #16 - Dark Rituals (Part 1) — speakers: High Rollers, Dark Rituals
+- 2018-11-16 — High Rollers: Rogue's Gambit #9 | The Old Windmill — speakers: Idle Cham
+- 2018-11-15 — High Rollers: Aerois | #15 - The Ironwick Mystery (Part 2) — speakers: High Rollers
+- 2018-11-12 — High Rollers: Aerois | #15 - The Ironwick Mystery (Part 1)
+- 2018-11-11 — High Rollers: A Rogue's Gambit #8 |The Drow Who Loved Me — speakers: Aqua Mamba
+- 2018-11-08 — High Rollers: Aerois | #14 - Brush With Death (Part 2)
+- 2018-11-05 — High Rollers: Aerois | #14 - Brush With Death (Part 1)
+- 2018-11-03 — High Rollers LIVE at MCM Comicon 2018 | The Swift and the Sorcerous — speakers: High Rollers, Sorcerous High Rollers
+- 2018-11-02 — High Rollers: A Rogue's Gambit #7 | The Eye Catcher — speakers: High Rollers, Eye Catcher
+- 2018-11-01 — High Rollers: Aerois | #13 - The Princess and The Pixie (Part 2)
+- 2018-10-29 — High Rollers: Aerois | #13 - The Princess and The Pixie (Part 1) — speakers: High Rollers
+- 2018-10-25 — High Rollers: One Shot | Infernal Asylum #2 (Part 2)
+- 2018-10-22 — High Rollers: One Shot | Infernal Asylum #2 (Part 1) — speakers: High Rollers, One Shot, Infernal Asylum
+- 2018-10-18 — High Rollers: One Shot | Infernal Asylum #1 (Part 2) — speakers: High Rollers, One Shot, Infernal Asylum, Ordinary Gentlefolk
+- 2018-10-15 — High Rollers: One Shot | Infernal Asylum #1 (Part 1)
+- 2018-10-13 — High Rollers: A Rogue's Gambit #6 | The ISTAR Trials — speakers: High Rollers, Trials Thanks, Idle Champions, Forgotten Realms
+- 2018-10-11 — High Rollers: Aerois | #12 - The Path to Justice (Part 2) — speakers: High Rollers
+- 2018-10-08 — High Rollers: Aerois | #12 - The Path to Justice (Part 1)
+- 2018-10-05 — High Rollers: A Rogue's Gambit #5 | Bertie's Big Break — speakers: High Rollers, Big Break Thanks, Idle Champions, Forgotten Realms
+- 2018-10-04 — High Rollers: Aerois | #11 - Eye for an Eye (Part 2)
+- 2018-10-01 — High Rollers: Aerois | #11 - Eye for an Eye (Part 1) — speakers: High Rollers
+- 2018-09-28 — High Rollers: A Rogue's Gambit #4 | A Noble Sacrifice — speakers: High Rollers, Noble Sacrifice Thanks, Idle Champions, Forgotten Realms
+- 2018-09-27 — High Rollers: Aerois | #10 - The Thorns (Part 2) — speakers: High Rollers
+- 2018-09-24 — High Rollers: Aerois | #10 - The Thorns (Part 1)
+- 2018-09-21 — High Rollers: A Rogue's Gambit #3 | Dinner Party Raid — speakers: High Rollers, Dinner Party Raid Thanks, Idle Champions, Forgotten Realms
+- 2018-09-14 — High Rollers: A Rogue's Gambit #2 | Meeting with Dandelion
+- 2018-09-13 — High Rollers: Aerois | #9 - Riches of Rosehall (Part 2) — speakers: High Rollers
+- 2018-09-10 — High Rollers: Aerois | #9 - Riches of Rosehall (Part 1)
+- 2018-09-07 — High Rollers: A Rogue's Gambit | #1 - Welcome to the Team — speakers: High Rollers, Team Welcome, Four Harper
+- 2018-09-07 — High Rollers: Aerois | #8 - Cattle Rustlers (Part 2)
+- 2018-09-03 — High Rollers: Aerois | #8 - Cattle Rustlers (Part 1) — speakers: High Rollers, Cattle Rustlers
+- 2018-08-23 — High Rollers: Aerois | #7 - Guardian Secrets (Part 2) — speakers: High Rollers, Guardian Secrets
+- 2018-08-20 — High Rollers: Aerois | #7 - Guardian Secrets (Part 1) — speakers: some dark
+- 2018-08-16 — High Rollers: Aerois | #6 - Into the Deep (Part 2) — speakers: High Rollers
+- 2018-08-13 — High Rollers: Aerois | #6 - Into the Deep (Part 1)
+- 2018-08-09 — High Rollers: Aerois | #5 - Soft Beds, Warm Plates (Part 2)
+- 2018-08-06 — High Rollers: Aerois | #5 - Soft Beds, Warm Plates (Part 1) — speakers: High Rollers, Soft Beds, Warm Plates, Whitebreeze River
+- 2018-07-26 — High Rollers: Aerois | #4 - 2.5 Days to Die (Part 2) — speakers: High Rollers
+- 2018-07-23 — High Rollers: Aerois | #4 - 2.5 Days to Die (Part 1) — speakers: High Rollers, Wild Elves
+- 2018-07-19 — High Rollers: Aerois | #3 - The Midnight Raid (Part 2) — speakers: High Rollers
+- 2018-07-16 — High Rollers: Aerois | #3 - The Midnight Raid (Part 1) — speakers: High Rollers, Wild Elves
+- 2018-07-12 — High Rollers: Aerois | #2 - Daddy's Lost Luggage (Part 2) — speakers: High Rollers, Lost Luggage
+- 2018-07-09 — High Rollers: Aerois | #2 - Daddy's Lost Luggage (Part 1) — speakers: High Rollers, Lost Luggage, Wild Elves
+- 2018-07-05 — High Rollers: Aerois | #1 - Welcome to Aerois (Part 2)
+- 2018-07-02 — High Rollers: Aerois | #1 - Welcome to Aerois (Part 1)

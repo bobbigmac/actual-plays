@@ -2,10 +2,10 @@
 
 - slug: `dodoborne-a-daggerheart-actual-play-podcast`
 - source: `https://feeds.transistor.fm/dodoborne`
-- fetched_at: `2026-02-23T13:43:50+00:00`
-- checked_at: `2026-02-23T13:43:50+00:00`
-- etag: `W/"caf71d9e090aba95525bea8c04260835"`
-- last_modified: `Mon, 23 Feb 2026 11:39:53 GMT`
+- fetched_at: `2026-02-24T03:16:56+00:00`
+- checked_at: `2026-02-24T03:16:56+00:00`
+- etag: `W/"4774e3f33e595a986b3aa87d5b7bb0a9"`
+- last_modified: `Tue, 24 Feb 2026 00:33:29 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://dodoborne.transistor.fm/",
   "description": "DodoBorne is a comedy Daggerheart actual play podcast where four friends dive into the brand-new tabletop roleplaying game from Darrington Press. Join Kapi, Crank, and Pistachio as they navigate a rich world of mystery, magic, and malfeasance! Humor, heart, and nonsense guaranteed. Some assembly required.",
   "image_url": "https://img.transistorcdn.com/Qj04CwvH_4vQWEtuIjCCLqgJv7MgGHGZvoH80Er3yIE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZTlh/MWQxYWQ3NWRiYmZm/MjY4ZDExZDg3ZjJi/NWEyMi5QTkc.jpg",
-  "fetched_at": "2026-02-23T13:43:50+00:00",
+  "fetched_at": "2026-02-24T03:16:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -39,14 +39,7 @@
       "enclosure_length": "71793973",
       "itunes_duration": "2988",
       "speakers": [
-        "Casus Belli",
-        "Daniel Bukin",
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank"
+        "Casus Belli"
       ],
       "topics": [
         "casus",
@@ -65,14 +58,7 @@
       "enclosure_length": "72209792",
       "itunes_duration": "3006",
       "speakers": [
-        "Will Callie",
-        "Daniel Bukin",
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank"
+        "Descent Down"
       ],
       "topics": [
         "descent"
@@ -89,16 +75,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75093693",
       "itunes_duration": "3126",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "door"
       ]
@@ -114,16 +91,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69880209",
       "itunes_duration": "2909",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "lotta",
         "faerie",
@@ -141,16 +109,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66545221",
       "itunes_duration": "2770",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "trust"
       ]
@@ -166,16 +125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71573781",
       "itunes_duration": "2979",
-      "speakers": [
-        "Daniel Bukin Listen",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
-      ],
+      "speakers": [],
       "topics": [
         "port",
         "whine"
@@ -193,14 +143,7 @@
       "enclosure_length": "11392528",
       "itunes_duration": "472",
       "speakers": [
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
+        "Official Patreon Tiers"
       ],
       "topics": [
         "patreon",
@@ -218,16 +161,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72018418",
       "itunes_duration": "2998",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Alllen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "clank",
         "town"
@@ -244,16 +178,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61641350",
       "itunes_duration": "2565",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Alllen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "dodo",
         "second"
@@ -271,14 +196,7 @@
       "enclosure_length": "67529474",
       "itunes_duration": "2811",
       "speakers": [
-        "Daniel Bukin Listen",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
+        "Day Off After"
       ],
       "topics": [
         "dodo"
@@ -295,16 +213,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64364031",
       "itunes_duration": "2677",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Alllen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "feeling"
       ]
@@ -321,14 +230,7 @@
       "enclosure_length": "60988927",
       "itunes_duration": "2538",
       "speakers": [
-        "Gentle Reader",
-        "Austen Burns",
-        "Daniel Bukin",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank"
+        "Gentle Reader"
       ],
       "topics": [
         "diamond",
@@ -346,16 +248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63800979",
       "itunes_duration": "2655",
-      "speakers": [
-        "Daniel Bukin",
-        "Isaac Allen Burns Check",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross"
-      ],
+      "speakers": [],
       "topics": [
         "aftermidnight",
         "delight"
@@ -372,16 +265,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66733015",
       "itunes_duration": "2777",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "bone",
@@ -399,16 +283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66559906",
       "itunes_duration": "2770",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "grave"
       ]
@@ -425,14 +300,7 @@
       "enclosure_length": "72571827",
       "itunes_duration": "3020",
       "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
+        "Duck Walks Into"
       ],
       "topics": [
         "duck",
@@ -452,14 +320,7 @@
       "enclosure_length": "55827473",
       "itunes_duration": "2320",
       "speakers": [
-        "Daniel Bukin",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
+        "Daniel Bukin"
       ],
       "topics": [
         "dodo",
@@ -479,16 +340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63840412",
       "itunes_duration": "2655",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "gouda",
         "thing"
@@ -505,16 +357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71788280",
       "itunes_duration": "2988",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "side",
         "auric",
@@ -533,14 +376,7 @@
       "enclosure_length": "71891219",
       "itunes_duration": "2992",
       "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
+        "Highcliff Hassle"
       ],
       "topics": [
         "side",
@@ -559,16 +395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108618526",
       "itunes_duration": "4522",
-      "speakers": [
-        "Dodoborne Community",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "talkback"
@@ -586,14 +413,7 @@
       "enclosure_length": "79815656",
       "itunes_duration": "3323",
       "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
+        "unexpected assailants"
       ],
       "topics": [
         "blade",
@@ -612,16 +432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68452711",
       "itunes_duration": "2849",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "burning",
         "brackenroad"
@@ -638,16 +449,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67804419",
       "itunes_duration": "2822",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "apple",
         "festival"
@@ -665,14 +467,7 @@
       "enclosure_length": "68336936",
       "itunes_duration": "2844",
       "speakers": [
-        "Milky White",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
+        "Brackenroad Apple Festival"
       ],
       "topics": [
         "apple",
@@ -690,16 +485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44791118",
       "itunes_duration": "1864",
-      "speakers": [
-        "Pistachio DodoBorne",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
-      ],
+      "speakers": [],
       "topics": [
         "pistachio",
         "prepare"
@@ -716,16 +502,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68502193",
       "itunes_duration": "2851",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -739,16 +516,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68384115",
       "itunes_duration": "2846",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "pumpkin"
       ]
@@ -764,16 +532,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66270857",
       "itunes_duration": "2759",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "curiosity",
         "children"
@@ -790,16 +549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66431473",
       "itunes_duration": "2765",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "rain",
         "fritter"
@@ -816,16 +566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66233049",
       "itunes_duration": "2757",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "sparkle",
         "glint",
@@ -844,14 +585,7 @@
       "enclosure_length": "69729113",
       "itunes_duration": "2903",
       "speakers": [
-        "Isaac Allen Burns",
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker"
+        "Isaac Allen Burns"
       ],
       "topics": [
         "dreams",
@@ -869,16 +603,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71290060",
       "itunes_duration": "2968",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "family",
         "farmers"
@@ -896,14 +621,7 @@
       "enclosure_length": "51866905",
       "itunes_duration": "2159",
       "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
+        "Rope Danger"
       ],
       "topics": [
         "soft",
@@ -921,16 +639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71765055",
       "itunes_duration": "2987",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "good",
         "incompetent"
@@ -947,16 +656,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64017453",
       "itunes_duration": "2665",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "usual",
         "myles"
@@ -973,16 +673,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55148501",
       "itunes_duration": "2295",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "crank"
       ]
@@ -998,16 +689,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57060675",
       "itunes_duration": "2375",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "sexy",
         "dying",
@@ -1025,16 +707,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50726270",
       "itunes_duration": "2111",
-      "speakers": [
-        "dan borden",
-        "Long Dom",
-        "MinecraftParker Devon",
-        "Johnny Rocha Laekeycakes",
-        "Kurt Wild Frank",
-        "Darcy Ross",
-        "Eric Stryker",
-        "Jacob Rohm"
-      ],
+      "speakers": [],
       "topics": [
         "prologue",
         "fritter",
@@ -1048,42 +721,42 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli, Daniel Bukin, Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank
-- 2026-02-03 — 2.15 A Descent — speakers: Will Callie, Daniel Bukin, Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank
-- 2026-01-13 — 2.14 A Door is Opened — speakers: Daniel Bukin, Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-12-30 — 2.13 ...And a Whole Lotta Faerie Dust. — speakers: Daniel Bukin, Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-12-16 — 2.12 A Little Bit of Trust... — speakers: Daniel Bukin, Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-12-02 — 2.11 A Port of Whine — speakers: Daniel Bukin Listen, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-11-28 — PATREON BONUS: Squawkback for Episode 2.5 — speakers: Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-11-18 — 2.10 A Clank About Town — speakers: Daniel Bukin, Isaac Alllen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-11-04 — 2.9.2 A Dodo's Second Day Off — speakers: Daniel Bukin, Isaac Alllen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-10-21 — 2.9 A Dodo's Day Off — speakers: Daniel Bukin Listen, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-10-07 — 2.8 A Familiar Feeling — speakers: Daniel Bukin, Isaac Alllen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-09-23 — 2.7 A Diamond of the Season — speakers: Gentle Reader, Austen Burns, Daniel Bukin, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank
-- 2025-09-09 — 2.6 Aftermidnight Delight — speakers: Daniel Bukin, Isaac Allen Burns Check, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross
-- 2025-08-26 — 2.5 All Rise for the Bone Master — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-08-12 — 2.4 Anxious as the Grave — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-07-29 — 2.3 A Duck Walks Into a (Hospital) Bar — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-07-15 — 2.2 A Dodo in the Hand is Worth Two in the Bush — speakers: Daniel Bukin, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-07-01 — 2.1 All Gouda Things Must End — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-06-19 — D-Sides 1.2 An Auric Annoyance (Bonus Episode) — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-06-17 — D-Sides 1.1 A Highcliff Hassle (Bonus Episode) — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-06-03 — 1.17 The Season One Talkback Episode (Bonus) — speakers: Dodoborne Community, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-05-20 — 1.16 A Blade, a Vine, and a Fist — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-05-13 — 1.15 The Burning of Brackenroad — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-05-06 — 1.14 The Apple Festival: Part Two — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-04-29 — 1.13 The Apple Festival: Part One — speakers: Milky White, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-04-22 — 1.12B Pistachio's Day to Prepare (Bonus Episode) — speakers: Pistachio DodoBorne, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-04-15 — 1.12 The Day to Prepare — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-04-01 — 1.11 The Smooshing Pumpkin — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-03-18 — 1.10 The Curiosity of Children — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-03-04 — 1.9 The Rain of Fritters — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-02-18 — 1.8 The Sparkle. the Glint. The Glimmer. — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-02-04 — 1.7 The Dreams of Adventurers — speakers: Isaac Allen Burns, dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker
-- 2025-01-21 — 1.6 The Family of Farmers — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2025-01-07 — 1.5 The Soft of Rope — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2024-12-24 — 1.4 The Good, the Bad, and the Incompetent — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2024-12-10 — 1.3 The Usual, Myles — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2024-11-26 — 1.2 The Unstoppable Mr. Crank — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2024-11-12 — 1.1 The Sexy Dying Turnip — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
-- 2024-11-11 — 0. Prologue: A Fritter, a Sweater, and a Hat — speakers: dan borden, Long Dom, MinecraftParker Devon, Johnny Rocha Laekeycakes, Kurt Wild Frank, Darcy Ross, Eric Stryker, Jacob Rohm
+- 2026-02-17 — 2.16 Casus Belli: Part 1 — speakers: Casus Belli
+- 2026-02-03 — 2.15 A Descent — speakers: Descent Down
+- 2026-01-13 — 2.14 A Door is Opened
+- 2025-12-30 — 2.13 ...And a Whole Lotta Faerie Dust.
+- 2025-12-16 — 2.12 A Little Bit of Trust...
+- 2025-12-02 — 2.11 A Port of Whine
+- 2025-11-28 — PATREON BONUS: Squawkback for Episode 2.5 — speakers: Official Patreon Tiers
+- 2025-11-18 — 2.10 A Clank About Town
+- 2025-11-04 — 2.9.2 A Dodo's Second Day Off
+- 2025-10-21 — 2.9 A Dodo's Day Off — speakers: Day Off After
+- 2025-10-07 — 2.8 A Familiar Feeling
+- 2025-09-23 — 2.7 A Diamond of the Season — speakers: Gentle Reader
+- 2025-09-09 — 2.6 Aftermidnight Delight
+- 2025-08-26 — 2.5 All Rise for the Bone Master
+- 2025-08-12 — 2.4 Anxious as the Grave
+- 2025-07-29 — 2.3 A Duck Walks Into a (Hospital) Bar — speakers: Duck Walks Into
+- 2025-07-15 — 2.2 A Dodo in the Hand is Worth Two in the Bush — speakers: Daniel Bukin
+- 2025-07-01 — 2.1 All Gouda Things Must End
+- 2025-06-19 — D-Sides 1.2 An Auric Annoyance (Bonus Episode)
+- 2025-06-17 — D-Sides 1.1 A Highcliff Hassle (Bonus Episode) — speakers: Highcliff Hassle
+- 2025-06-03 — 1.17 The Season One Talkback Episode (Bonus)
+- 2025-05-20 — 1.16 A Blade, a Vine, and a Fist — speakers: unexpected assailants
+- 2025-05-13 — 1.15 The Burning of Brackenroad
+- 2025-05-06 — 1.14 The Apple Festival: Part Two
+- 2025-04-29 — 1.13 The Apple Festival: Part One — speakers: Brackenroad Apple Festival
+- 2025-04-22 — 1.12B Pistachio's Day to Prepare (Bonus Episode)
+- 2025-04-15 — 1.12 The Day to Prepare
+- 2025-04-01 — 1.11 The Smooshing Pumpkin
+- 2025-03-18 — 1.10 The Curiosity of Children
+- 2025-03-04 — 1.9 The Rain of Fritters
+- 2025-02-18 — 1.8 The Sparkle. the Glint. The Glimmer.
+- 2025-02-04 — 1.7 The Dreams of Adventurers — speakers: Isaac Allen Burns
+- 2025-01-21 — 1.6 The Family of Farmers
+- 2025-01-07 — 1.5 The Soft of Rope — speakers: Rope Danger
+- 2024-12-24 — 1.4 The Good, the Bad, and the Incompetent
+- 2024-12-10 — 1.3 The Usual, Myles
+- 2024-11-26 — 1.2 The Unstoppable Mr. Crank
+- 2024-11-12 — 1.1 The Sexy Dying Turnip
+- 2024-11-11 — 0. Prologue: A Fritter, a Sweater, and a Hat
