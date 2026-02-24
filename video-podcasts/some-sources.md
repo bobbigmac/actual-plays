@@ -88,6 +88,109 @@ TWiT Developer Guidelines
 "
 
 
+Sports/investing *specifically* don’t have a big open-RSS video culture (most of the volume is YouTube/OTT/walled). The under-the-radar open stuff is more “institutional video” + “federated video” + “archives”. Here are piles of **real RSS URLs with video** you can ingest.
+
+NASA / space (actual vodcast feeds)
+
+* [https://www.nasa.gov/rss/NASAcast_vodcast.rss](https://www.nasa.gov/rss/NASAcast_vodcast.rss) ([CodeFlare][1])
+* [https://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss](https://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss) ([CodeFlare][1])
+* [https://www.nasa.gov/rss/dyn/spacetoground_vodcast.rss](https://www.nasa.gov/rss/dyn/spacetoground_vodcast.rss) ([CodeFlare][1])
+* [https://www.nasa.gov/rss/TWAN_podcast.rss](https://www.nasa.gov/rss/TWAN_podcast.rss) (audio counterpart, useful for sibling matching) ([CodeFlare][1])
+  JPL (video+podcast feeds)
+* [https://www.jpl.nasa.gov/feeds/podcasts/](https://www.jpl.nasa.gov/feeds/podcasts/) ([NASA Jet Propulsion Laboratory (JPL)][2])
+* [http://jpl.nasa.gov/feeds/podcasts/video/](http://jpl.nasa.gov/feeds/podcasts/video/) ([NASA Jet Propulsion Laboratory (JPL)][2])
+
+TED (video podcast feed with enclosures)
+
+* [http://feeds.feedburner.com/TEDTalks_video](http://feeds.feedburner.com/TEDTalks_video) ([Podstatus][3])
+
+TWiT network (tons of proper MP4 video feeds)
+
+* OPML (bulk): [https://feeds.twit.tv/twitshows_video_hd.opml](https://feeds.twit.tv/twitshows_video_hd.opml) ([TWiT Feeds][4])
+* A few direct feeds:
+
+  * [https://feeds.twit.tv/twit_video_hd.xml](https://feeds.twit.tv/twit_video_hd.xml) ([James Cridland - radio futurologist][5])
+  * [https://feeds.twit.tv/sn_video_hd.xml](https://feeds.twit.tv/sn_video_hd.xml) ([TWiT Feeds][6])
+  * [https://feeds.twit.tv/ww_video_hd.xml](https://feeds.twit.tv/ww_video_hd.xml) ([TWiT Feeds][4])
+  * [https://feeds.twit.tv/aaa_video_hd.xml](https://feeds.twit.tv/aaa_video_hd.xml) ([TWiT Feeds][7])
+  * [https://feeds.twit.tv/htg_video_hd.xml](https://feeds.twit.tv/htg_video_hd.xml) ([TWiT Feeds][8])
+  * [https://feeds.twit.tv/dgw_video_hd.xml](https://feeds.twit.tv/dgw_video_hd.xml) ([TWiT Feeds][9])
+  * [https://feeds.twit.tv/twig_video_hd.xml](https://feeds.twit.tv/twig_video_hd.xml) ([TWiT Feeds][10])
+  * [https://feeds.twit.tv/twich_video_hd.xml](https://feeds.twit.tv/twich_video_hd.xml) ([TWiT Feeds][11])
+  * [https://feeds.twit.tv/yt_video_hd.xml](https://feeds.twit.tv/yt_video_hd.xml) ([TWiT Feeds][12])
+
+PeerTube / fediverse video communities (RSS video feeds everywhere; very “under the radar”)
+PeerTube instances expose **podcast RSS for video channels** as:
+
+* `/feeds/podcast/videos.xml?videoChannelId=<id>` ([JoinPeerTube][13])
+
+Concrete examples you can ingest right now:
+
+* [https://fediverse.tv/feeds/podcast/videos.xml?videoChannelId=26559](https://fediverse.tv/feeds/podcast/videos.xml?videoChannelId=26559) ([FediverseTV][14])
+* [https://tubedu.org/feeds/podcast/videos.xml?videoChannelId=3777](https://tubedu.org/feeds/podcast/videos.xml?videoChannelId=3777) ([TubEdu][15])
+* [https://media.fsfe.org/feeds/podcast/videos.xml?videoChannelId=3](https://media.fsfe.org/feeds/podcast/videos.xml?videoChannelId=3) ([FSFE-Tube][16])
+
+If you want a *bajillion* “weird corners” feeds, PeerTube is the closest thing to an infinite generator: crawl a list of instances, enumerate channels, then just mint those `/feeds/podcast/videos.xml?...` URLs.
+
+Internet Archive (massive “fun stuff” + “sports” + “finance” possibilities, with video enclosures)
+Archive RSS feeds can include `video/mp4` / `video/h264` enclosures. ([Internet Archive][17])
+General “latest movies added” feed:
+
+* [https://archive.org/services/collection-rss.php?mediatype=movies](https://archive.org/services/collection-rss.php?mediatype=movies) ([Internet Archive][18])
+
+Query feeds you can treat like “channels” (edit the query terms to explode volume):
+
+* Sports:
+
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Asports](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Asports) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Afootball%20OR%20title%3Afootball)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Afootball%20OR%20title%3Afootball%29) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Abasketball%20OR%20title%3Abasketball)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Abasketball%20OR%20title%3Abasketball%29) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Aboxing%20OR%20title%3Aboxing)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Aboxing%20OR%20title%3Aboxing%29) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Agolf%20OR%20title%3Agolf)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Agolf%20OR%20title%3Agolf%29) ([Internet Archive][17])
+* Investing/markets:
+
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22stock%20market%22%20OR%20title%3A%22stock%20market%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22stock%20market%22%20OR%20title%3A%22stock%20market%22%29) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Atrading%20OR%20title%3Atrading)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Atrading%20OR%20title%3Atrading%29) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Afinance%20OR%20title%3Afinance)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Afinance%20OR%20title%3Afinance%29) ([Internet Archive][17])
+* Ambient/weird (the “fireplace/goldfish/cams” vibe):
+
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Afireplace](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Afireplace) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Aaquarium](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Aaquarium) ([Internet Archive][17])
+  * [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22slow%20tv%22%20OR%20title%3A%22slow%20tv%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22slow%20tv%22%20OR%20title%3A%22slow%20tv%22%29) ([Internet Archive][17])
+
+If you want the *largest* expansion lever beyond Podcast Index, it’s PeerTube instance crawling + Archive query-taxonomy feeds. Those two alone can add tens/hundreds of thousands of genuinely-video RSS sources without touching YouTube or Spotify.
+
+[1]: https://www.codeflare.net/2019/12/update-kumpulan-link-rss-feed-website.html?utm_source=chatgpt.com "Update! Kumpulan Link RSS Feed Website - CodeFlare"
+[2]: https://www.jpl.nasa.gov/rss/?utm_source=chatgpt.com "RSS | NASA Jet Propulsion Laboratory (JPL)"
+[3]: https://podstatus.com/podcasts/ted-talks-daily-sd-video-41140 "TED Talks Daily (SD video) Podcast - Rankings, Reviews - Podstatus
+"
+[4]: https://feeds.twit.tv/specials_video_hd.xml?utm_source=chatgpt.com "TWiT News (Video)"
+[5]: https://james.cridland.net/blog/2024/video-podcasts-via-rss/?utm_source=chatgpt.com "Video podcasts via open RSS"
+[6]: https://feeds.twit.tv/sn_video_hd.xml?utm_source=chatgpt.com "Security Now (Video)"
+[7]: https://feeds.twit.tv/aaa_video_hd.xml?utm_source=chatgpt.com "All About Android (Video)"
+[8]: https://feeds.twit.tv/htg_video_hd.xml?utm_source=chatgpt.com "Home Theater Geeks (Video)"
+[9]: https://feeds.twit.tv/dgw_video_hd.xml?utm_source=chatgpt.com "The Giz Wiz (HD Video)"
+[10]: https://feeds.twit.tv/twig_video_hd.xml?utm_source=chatgpt.com "Intelligent Machines (Video)"
+[11]: https://feeds.twit.tv/twich_video_hd.xml?utm_source=chatgpt.com "This Week in Computer Hardware (Video)"
+[12]: https://feeds.twit.tv/yt_video_hd.xml?utm_source=chatgpt.com "This Week in YouTube (Video)"
+[13]: https://joinpeertube.org/news/release-7.1?utm_source=chatgpt.com "PeerTube v7.1 is out! | JoinPeerTube"
+[14]: https://fediverse.tv/feeds/podcast/videos.xml?videoChannelId=26559&utm_source=chatgpt.com "P2play - The Peertube client"
+[15]: https://tubedu.org/feeds/podcast/videos.xml?videoChannelId=3777&utm_source=chatgpt.com "PurpleTube"
+[16]: https://media.fsfe.org/feeds/podcast/videos.xml?videoChannelId=3&utm_source=chatgpt.com "FSFE Main Channel"
+[17]: https://archive.org/help/rss.php?utm_campaign=Buffer&utm_content=buffered97d&utm_medium=twitter&utm_source=chatgpt.com "RSS Feeds and the Archive"
+[18]: https://archive.org/services/collection-rss.php?mediatype=movies&utm_source=chatgpt.com "Mediatype: movies"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
