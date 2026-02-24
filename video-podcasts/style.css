@@ -229,6 +229,7 @@
       color: var(--muted);
     }
     .chapters{
+      flex: 1;
       overflow:auto;
       min-height:0;
     }
@@ -256,6 +257,47 @@
       color: var(--muted);
       font-family: var(--mono);
     }
+
+    .logPanel{
+      border-top: 1px solid var(--edge);
+      display:flex;
+      flex-direction:column;
+      min-height: 0;
+      flex: 0 0 180px;
+    }
+    .logPanelHeader{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--edge);
+    }
+    .logPanelTitle{
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+    .logBtn{
+      font-size: 11px;
+      padding: 4px 8px;
+    }
+    .logOutput{
+      flex: 1;
+      overflow:auto;
+      font-family: var(--mono);
+      font-size: 11px;
+      line-height: 1.4;
+      padding: 8px 10px;
+      color: var(--muted);
+      white-space:pre-wrap;
+      word-break:break-all;
+    }
+    .logEntry{
+      margin-bottom: 4px;
+    }
+    .logEntry.error{ color: #f28b82 }
+    .logEntry.warn{ color: #fdd663 }
+    .logEntry.info{ color: var(--muted) }
 
     @media (max-width: 1040px){
       .app{grid-template-columns: 320px 1fr}

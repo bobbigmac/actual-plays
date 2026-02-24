@@ -6,6 +6,23 @@ const FEED_PROXY = "/__feed?url=";
 const DEBUG = true;
 const dbg = (...args) => { if (DEBUG) console.debug("[video-podcasts]", ...args); };
 
+const LOG_MAX = 200;
+const logEntries = [];
+
+function log(msg, level = "info") {
+  const ts = new Date().toLocaleTimeString("en-GB", { hour12: false });
+  const entry = { ts, msg: String(msg), level };
+  logEntries.push(entry);
+  if (logEntries.length > LOG_MAX) logEntries.shift();
+  const el = $("#logOutput");
+  if (!el) return;
+  const div = document.createElement("div");
+  div.className = `logEntry ${level}`;
+  div.textContent = `[${ts}] ${msg}`;
+  el.appendChild(div);
+  el.scrollTop = el.scrollHeight;
+}
+
 const video = $("#video");
 const feedSelect = $("#feedSelect");
 const episodesEl = $("#episodes");
@@ -20,6 +37,8 @@ const epSub = $("#epSub");
 const epDesc = $("#epDesc");
 const chaptersEl = $("#chapters");
 const chaptersMeta = $("#chaptersMeta");
+const logOutput = $("#logOutput");
+const btnClearLog = $("#btnClearLog");
 
 let sources = [];
 let currentSource = null;
@@ -175,7 +194,10 @@ function pickBestEnclosure(cands) {
   };
 
   norm.sort((a, b) => score(b) - score(a));
-  return norm[0] || null;
+  const best = norm[0] || null;
+  const hasVideo = norm.some(c => c.type.startsWith("video/") || c.url.toLowerCase().includes(".m3u8") || /\.(mp4|m4v|mov|webm)(\?|$)/.test(c.url.toLowerCase()));
+  const isVideo = best && (best.type.startsWith("video/") || best.url.toLowerCase().includes(".m3u8") || /\.(mp4|m4v|mov|webm)(\?|$)/.test(best.url.toLowerCase()));
+  return best ? { ...best, hasVideoInFeed: hasVideo, pickedIsVideo: isVideo } : null;
 }
 
 function parseFeed(xmlText, source) {
@@ -202,6 +224,9 @@ function parseFeed(xmlText, source) {
     pscItems: 0,
     podcastChaptersItems: 0,
     mediaTypes: {},
+    videoPicked: 0,
+    audioPicked: 0,
+    noMedia: 0,
   };
   let idx = 0;
   for (const item of items) {
@@ -263,6 +288,9 @@ function parseFeed(xmlText, source) {
     const id = (guid || media?.url || link || `${title}#${idx}`).slice(0, 240);
 
     if (media?.type) stats.mediaTypes[media.type] = (stats.mediaTypes[media.type] || 0) + 1;
+    if (media?.pickedIsVideo) stats.videoPicked += 1;
+    else if (media?.url) stats.audioPicked += 1;
+    else stats.noMedia += 1;
     parsed.push({
       id,
       title,
@@ -271,7 +299,7 @@ function parseFeed(xmlText, source) {
       dateText: (date && !Number.isNaN(date.valueOf())) ? date.toISOString().slice(0, 10) : "",
       description: desc,
       channelTitle,
-      media: media?.url ? { url: media.url, type: media.type || "" } : null,
+      media: media?.url ? { url: media.url, type: media.type || "", hasVideoInFeed: media.hasVideoInFeed, pickedIsVideo: media.pickedIsVideo } : null,
       chaptersInline: pscChapters.length ? pscChapters : null,
       chaptersExternal: podcastChaptersUrl ? { url: podcastChaptersUrl, type: podcastChaptersType } : null,
     });
@@ -353,11 +381,18 @@ async function loadSource(sourceId, { preserveEpisode = true } = {}) {
   chaptersMeta.textContent = "—";
 
   try {
+    log(`Fetching feed: ${src.title || src.id}`);
     dbg("loadSource", { id: src.id, title: src.title, category: src.category, feed_url: src.feed_url, fetch_via: src.fetch_via });
     const xmlText = await fetchText(src.feed_url, src.fetch_via || "auto");
     const parsed = parseFeed(xmlText, src);
     episodes = parsed.episodes;
     const playable = episodes.filter(e => e.media?.url).length;
+    const st = parsed.stats;
+    const feedSummary = `${parsed.channelTitle}: ${st.itemCount} items, ${playable} playable. Video: ${st.videoPicked}, audio: ${st.audioPicked}, no media: ${st.noMedia}`;
+    log(feedSummary);
+    if (st.audioPicked > 0 && st.videoPicked === 0) {
+      log("Feed has no video enclosures — episodes will play audio only", "warn");
+    }
     setMsg(`${parsed.channelTitle} · ${playable}/${episodes.length} playable`);
     renderEpisodes();
     dbg("feedParsed", { id: src.id, channelTitle: parsed.channelTitle, playable, total: episodes.length, stats: parsed.stats });
@@ -370,8 +405,10 @@ async function loadSource(sourceId, { preserveEpisode = true } = {}) {
     if (wanted) await loadEpisode(wanted, { autoplay: false });
   } catch (e) {
     episodes = [];
-    setMsg(`Couldn't load feed: ${String(e?.message || e)}`);
-    dbg("loadSourceError", { id: src.id, err: String(e?.message || e) });
+    const errMsg = String(e?.message || e);
+    log(`Feed error: ${errMsg} — ${src.feed_url}`, "error");
+    setMsg(`Couldn't load feed: ${errMsg}`);
+    dbg("loadSourceError", { id: src.id, err: errMsg });
   }
 }
 
@@ -398,6 +435,7 @@ async function loadEpisode(episodeId, { autoplay = false } = {}) {
   chaptersMeta.textContent = "—";
 
   if (!ep.media?.url) {
+    log(`Episode "${ep.title.slice(0, 40)}…": no media URL`, "warn");
     setMsg("No media URL found for this episode.");
     dbg("loadEpisode:noMedia", { sourceId: currentSource.id, episodeId: ep.id, title: ep.title });
     await loadAndRenderChapters(ep);
@@ -413,6 +451,13 @@ async function loadEpisode(episodeId, { autoplay = false } = {}) {
   const usingHlsJs = shouldUseHls && !usingNative && window.Hls && Hls.isSupported();
 
   const startAt = getProgressSec(currentSource.id, ep.id) || 0;
+  const mediaKind = ep.media.pickedIsVideo ? "video" : "audio";
+  log(`Episode: ${ep.title.slice(0, 35)}… | type: ${mediaType || "(none)"} | ${mediaKind}`);
+  if (ep.media.hasVideoInFeed && !ep.media.pickedIsVideo) {
+    log("Feed had video enclosures but picked audio — possible enclosure order issue", "warn");
+  } else if (!ep.media.pickedIsVideo) {
+    log("Audio-only enclosure in this episode", "info");
+  }
   dbg("loadEpisode", {
     sourceId: currentSource.id,
     episodeId: ep.id,
@@ -428,6 +473,7 @@ async function loadEpisode(episodeId, { autoplay = false } = {}) {
   });
 
   if (shouldUseHls && !usingNative && !usingHlsJs) {
+    log("HLS not supported in this browser", "error");
     setMsg("This episode is HLS, but HLS isn't supported here.");
     return;
   }
@@ -437,7 +483,11 @@ async function loadEpisode(episodeId, { autoplay = false } = {}) {
   } else if (usingHlsJs) {
     hls = new Hls({ enableWorker: true });
     hls.on(Hls.Events.ERROR, (_evt, data) => {
-      if (data?.fatal) setMsg(`HLS error: ${data?.type || "fatal"}`);
+      if (data?.fatal) {
+        const msg = `HLS error: ${data?.type || "fatal"}${data?.details ? " — " + data.details : ""}`;
+        log(msg, "error");
+        setMsg(msg);
+      }
     });
     hls.loadSource(mediaUrl);
     hls.attachMedia(video);
@@ -478,6 +528,7 @@ async function loadAndRenderChapters(ep) {
 
   chaptersMeta.textContent = "loading…";
   try {
+    log(`Chapters: fetching ${ext.url.slice(0, 50)}…`);
     dbg("chapters:external:fetch", { sourceId: currentSource?.id, episodeId: ep.id, url: ext.url, type: ext.type });
     const txt = await fetchText(ext.url, currentSource.fetch_via || "auto");
     const data = JSON.parse(txt);
@@ -493,10 +544,12 @@ async function loadAndRenderChapters(ep) {
 
     renderChapters(parsed);
     chaptersMeta.textContent = `${parsed.length}`;
+    log(`Chapters: loaded ${parsed.length} from external`);
     dbg("chapters:external:ok", { sourceId: currentSource?.id, episodeId: ep.id, count: parsed.length });
-  } catch {
+  } catch (e) {
     chaptersEl.innerHTML = "";
     chaptersMeta.textContent = "—";
+    log(`Chapters fetch failed: ${String(e?.message || e)} — ${ext.url}`, "warn");
     dbg("chapters:external:error", { sourceId: currentSource?.id, episodeId: ep.id, url: ext.url });
   }
 }
@@ -605,6 +658,13 @@ function wireUI() {
     loadSource(feedSelect.value, { preserveEpisode: true });
   });
 
+  if (btnClearLog) {
+    btnClearLog.addEventListener("click", () => {
+      logEntries.length = 0;
+      if (logOutput) logOutput.innerHTML = "";
+    });
+  }
+
   document.addEventListener("keydown", (e) => {
     if (e.target && (e.target.tagName === "INPUT" || e.target.tagName === "SELECT" || e.target.isContentEditable)) return;
     const k = e.key.toLowerCase();
@@ -643,6 +703,7 @@ async function boot() {
   setMsg("Loading sources…");
 
   try {
+    log("Loading sources…");
     const txt = await fetchText(SOURCES_URL, "direct");
     const data = JSON.parse(txt);
     sources = (data?.sources || []).filter(s => s && typeof s === "object").map(s => ({
@@ -654,9 +715,12 @@ async function boot() {
     })).filter(s => s.id && s.feed_url);
   } catch (e) {
     sources = [];
+    log(`Sources error: ${String(e?.message || e)}`, "error");
     setMsg(`Couldn't load ${SOURCES_URL}. If you're on file://, use a local http server.`);
     return;
   }
+
+  log(`Loaded ${sources.length} sources`);
 
   if (!sources.length) {
     setMsg("No sources found in video-sources.json");
