@@ -1,4 +1,70 @@
-**Yes, here's the real list you asked for — no fluff, no tech talk.**
+
+
+
+If you want to *exhaust* “open RSS feeds that actually ship video”, the closest thing to a complete list is Podcast Index’s crawl: they measured **113,597 open RSS video podcasts** in the index (Dec 2025), and **~94%** of them use `.mp4` as the latest enclosure filename. ([Podnews][1])
+
+So the move is:
+
+* use Podcast Index as your discovery layer (it already knows “this feed’s newest enclosure URL” etc.) ([podcastindex-org.github.io][2])
+* then you fetch the RSS yourself and verify: `enclosure` is video, or `podcast:alternateEnclosure` contains a `video/*` (or HLS) source, and optionally `podcast:chapters` exists.
+
+Who provides access and how (today)
+
+Open RSS video (MP4/M4V/MOV in `<enclosure>` or `alternateEnclosure`)
+
+* RSS itself: video is just an enclosure; nothing magical. ([James Cridland - radio futurologist][3])
+* iHeartRadio (announced Jan 2026): “video episodes will come through the RSS feed just like audio”; initial support MP4 (and mentions MOV/M4V). ([Podnews][4])
+* Podcasting 2.0 `podcast:alternateEnclosure`: the standard way to attach a video variant alongside an audio enclosure (or vice versa). ([podcasting2.org][5])
+
+HLS video (adaptive streaming)
+
+* Apple Podcasts: they’re pushing HLS as the preferred method; metadata still controlled via your normal RSS. ([podcasters.apple.com][6])
+* Transistor: implemented HLS using `podcast:alternateEnclosure` (beta, July 2025). ([Transistor][7])
+* Podcast Standards Project: concrete proposal for “audio-first RSS + HLS video via alternateEnclosure”. ([GitHub][8])
+
+Chapters / rich timed metadata
+
+* Podcasting 2.0 `podcast:chapters` (JSON chapters linked from RSS) is the cleanest “chapters you can update later” path. ([podcasting2.org][9])
+* Plenty of publishers still do “timestamps in description”, but if you specifically want “ideally with chapters”, you’re mostly hunting `podcast:chapters` and/or embedded chapters. ([James Cridland - radio futurologist][10])
+* Soundstack documents generating JSON chapters that get linked into the RSS. ([SoundStack Support][11])
+
+How to get “every conceivable RSS video feed” into your dataset
+
+1. Pull feed candidates from Podcast Index API (it’s the only big public catalog that already flags “newest enclosure URL” at scale). ([podcastindex-org.github.io][2])
+2. Filter candidates where:
+
+   * `newestEnclosureUrl` ends in `.mp4|.m4v|.mov` (gets you most of the 113k), or
+   * you later detect `type` begins `video/` or `application/vnd.apple.mpegurl` while parsing the feed.
+3. For each candidate feed URL, fetch RSS and tag it:
+
+   * `has_video_enclosure`: `<enclosure type="video/...">`
+   * `has_hls`: enclosure or alternate enclosure source with `application/vnd.apple.mpegurl`
+   * `has_alt_enclosure_video`: `podcast:alternateEnclosure` includes a `video/*` source ([podcasting2.org][5])
+   * `has_chapters_json`: `podcast:chapters` with `application/json+chapters` ([podcasting2.org][9])
+
+If you want, I can also give you a single “video feed harvester” script wired to Podcast Index + feed verification + chapters detection (and a dump file you can slot straight into your site’s `video-sources.json`).
+
+[1]: https://podnews.net/article/podcast-apps-supporting-video?utm_source=chatgpt.com "Which podcast apps support video?"
+[2]: https://podcastindex-org.github.io/docs-api/?utm_source=chatgpt.com "API Docs | PodcastIndex.org"
+[3]: https://james.cridland.net/blog/2024/video-podcasts-via-rss/?utm_source=chatgpt.com "Video podcasts via open RSS"
+[4]: https://podnews.net/article/iheartradio-video-open-rss?utm_source=chatgpt.com "Video in the iHeartRadio app will use the power of open RSS"
+[5]: https://podcasting2.org/docs/podcast-namespace/tags/alternate-enclosure?utm_source=chatgpt.com "Alternate Enclosure - Podcast Namespace"
+[6]: https://podcasters.apple.com/support/3684-video-podcasts?utm_source=chatgpt.com "Video podcasts using RSS"
+[7]: https://transistor.fm/changelog/hls-video-beta/?utm_source=chatgpt.com "In beta: HLS video streaming - Transistor"
+[8]: https://github.com/Podcast-Standards-Project/hls-video?utm_source=chatgpt.com "Podcast-Standards-Project/hls-video"
+[9]: https://podcasting2.org/docs/podcast-namespace/tags/chapters?utm_source=chatgpt.com "Chapters - Podcast Namespace"
+[10]: https://james.cridland.net/blog/2025/apple-podcasts-chapter-support/?utm_source=chatgpt.com "Apple Podcasts chapter support: a clue to a new feature?"
+[11]: https://support.soundstack.com/support/solutions/articles/43000714302-podcaster-chapters?utm_source=chatgpt.com "Podcaster Chapters"
+
+
+
+
+the following should ahve already been imported to the json.
+
+
+
+
+
 
 The 113k video RSS/HLS feeds are **almost all small/local creators** (not big famous names). The vast majority are:
 
