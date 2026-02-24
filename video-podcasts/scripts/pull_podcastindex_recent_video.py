@@ -122,23 +122,41 @@ def main() -> None:
     added = []
     seen_feed_urls = set()
 
-    # 1. Recent episodes, filter for video enclosures client-side (API has no video filter)
-    url = f"{API_BASE}/recent/episodes?{urllib.parse.urlencode({'max': 500, 'fulltext': True, 'excludeBlank': True})}"
+    # 1. Feeds with medium=video (podcast:medium tag in RSS)
+    url = f"{API_BASE}/podcasts/bytag?{urllib.parse.urlencode({'medium': 'video'})}"
     data = http_get_json(url, headers=headers)
-    items = data.get("items") or data.get("episodes") or []
-    if isinstance(items, list):
-        for it in items:
-            if not isinstance(it, dict) or not is_video_episode(it):
-                continue
-            feed_url = (it.get("feedUrl") or it.get("feedurl") or it.get("feed_url") or "").strip()
-            feed_title = (it.get("feedTitle") or it.get("feedtitle") or it.get("feed_title") or "").strip()
-            if norm_url(feed_url) in seen_feed_urls:
-                continue
-            seen_feed_urls.add(norm_url(feed_url))
-            if add_feed(sources, existing_urls, added, feed_url, feed_title) and len(added) >= 10:
-                break
+    feeds = data.get("feeds") or data.get("feed") or []
+    if not isinstance(feeds, list):
+        feeds = [feeds] if isinstance(feeds, dict) else []
+    for f in feeds:
+        if not isinstance(f, dict):
+            continue
+        feed_url = (f.get("url") or f.get("feedUrl") or "").strip()
+        feed_title = (f.get("title") or "").strip()
+        if norm_url(feed_url) in seen_feed_urls:
+            continue
+        seen_feed_urls.add(norm_url(feed_url))
+        if add_feed(sources, existing_urls, added, feed_url, feed_title) and len(added) >= 10:
+            break
 
-    # 2. If still short, search feeds with "video" in title (likely video podcasts)
+    # 2. If still short, recent episodes filtered for video enclosures
+    if len(added) < 10:
+        url = f"{API_BASE}/recent/episodes?{urllib.parse.urlencode({'max': 500, 'fulltext': True, 'excludeBlank': True})}"
+        data = http_get_json(url, headers=headers)
+        items = data.get("items") or data.get("episodes") or []
+        if isinstance(items, list):
+            for it in items:
+                if not isinstance(it, dict) or not is_video_episode(it):
+                    continue
+                feed_url = (it.get("feedUrl") or it.get("feedurl") or it.get("feed_url") or "").strip()
+                feed_title = (it.get("feedTitle") or it.get("feedtitle") or it.get("feed_title") or "").strip()
+                if norm_url(feed_url) in seen_feed_urls:
+                    continue
+                seen_feed_urls.add(norm_url(feed_url))
+                if add_feed(sources, existing_urls, added, feed_url, feed_title) and len(added) >= 10:
+                    break
+
+    # 3. If still short, search byterm "video"
     if len(added) < 10:
         url = f"{API_BASE}/search/byterm?{urllib.parse.urlencode({'q': 'video'})}"
         data = http_get_json(url, headers=headers)

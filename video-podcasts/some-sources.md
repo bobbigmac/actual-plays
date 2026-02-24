@@ -47,6 +47,51 @@ If you want **hundreds/thousands more** *outside* Podcast Index, the only reliab
 [14]: https://podnews.net/article/video-apple-podcasts-details?utm_source=chatgpt.com "Video in Apple Podcasts - all the details"
 
 
+
+
+
+
+Internet Archive is the goldmine for “fun / weird” **video enclosures in RSS**, because their RSS can return `video/h264` / `video/mp4` enclosures straight in-feed. ([Internet Archive][1])
+
+All of these are real RSS URLs:
+
+Internet Archive “arbitrary query” video feeds (enclosures)
+
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Afireplace](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Afireplace) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Aaquarium](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20subject%3Aaquarium) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22slow%20tv%22%20OR%20title%3A%22slow%20tv%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22slow%20tv%22%20OR%20title%3A%22slow%20tv%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3Atrain%20OR%20title%3Acabride%20OR%20title%3A%22cab%20ride%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3Atrain%20OR%20title%3Acabride%20OR%20title%3A%22cab%20ride%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22ambient%22%20OR%20subject%3A%22relaxing%22%20OR%20title%3A%22ambient%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22ambient%22%20OR%20subject%3A%22relaxing%22%20OR%20title%3A%22ambient%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22asmr%22%20OR%20title%3A%22asmr%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22asmr%22%20OR%20title%3A%22asmr%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22surveillance%22%20OR%20subject%3A%22cctv%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22surveillance%22%20OR%20subject%3A%22cctv%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22vhs%22%20OR%20title%3A%22vhs%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22vhs%22%20OR%20title%3A%22vhs%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22crt%22%20OR%20title%3A%22crt%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22crt%22%20OR%20title%3A%22crt%22%29) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20(subject%3A%22oddly%20satisfying%22%20OR%20title%3A%22satisfying%22)](https://archive.org/services/collection-rss.php?query=mediatype%3Amovies%20AND%20%28subject%3A%22oddly%20satisfying%22%20OR%20title%3A%22satisfying%22%29) ([Internet Archive][1])
+
+Internet Archive by collection (still RSS with video enclosures when items have them)
+
+* [https://archive.org/services/collection-rss.php?collection=prelinger](https://archive.org/services/collection-rss.php?collection=prelinger) ([Internet Archive][1])
+* [https://archive.org/services/collection-rss.php?collection=democracy_now](https://archive.org/services/collection-rss.php?collection=democracy_now) ([Internet Archive][1])
+
+TWiT (big pile of genuine video podcast feeds)
+
+* OPML (video feeds): [https://feeds.twit.tv/twitshows_video_hd.opml](https://feeds.twit.tv/twitshows_video_hd.opml) ([TWiT.tv][2])
+* OPML (all feeds): [https://feeds.twit.tv/twitfeeds.opml](https://feeds.twit.tv/twitfeeds.opml) ([TWiT.tv][2])
+
+If you want, I’ll pull you another 50–100 Internet Archive query feeds tuned to specific “weird corners” (ham radio, field recordings w/ video, old educational films, public-access oddities, niche subcultures) — but the pattern above is the whole trick: Archive RSS + your own query taxonomy. ([Internet Archive][1])
+
+[1]: https://archive.org/help/rss.php?utm_campaign=Buffer&utm_content=buffered97d&utm_medium=twitter&utm_source=buffer "RSS Feeds and the Archive"
+[2]: https://twit.tv/about/developer-guidelines "
+      
+TWiT Developer Guidelines
+
+"
+
+
+
+
+
+
 If you want to *exhaust* “open RSS feeds that actually ship video”, the closest thing to a complete list is Podcast Index’s crawl: they measured **113,597 open RSS video podcasts** in the index (Dec 2025), and **~94%** of them use `.mp4` as the latest enclosure filename. ([Podnews][1])
 
 So the move is:

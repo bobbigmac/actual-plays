@@ -448,6 +448,167 @@
       "category": "podcastindex",
       "feed_url": "https://feeds.megaphone.fm/AMGAC9705074721",
       "fetch_via": "auto"
+    },
+    {
+      "id": "elder-scrolls-lorecast-skyrim-oblivion-eso-and-tes-vi-video-game-lore-more",
+      "title": "Elder Scrolls Lorecast: Skyrim, Oblivion, ESO and TES VI Video Game Lore & More",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.redcircle.com/4a1d1e81-82b0-43de-8343-04ea196a94f0",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "this-week-in-tech-video",
+      "title": "This Week in Tech (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.twit.tv/twit_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "fallout-lorecast-the-fallout-video-game-tv-lore-podcast",
+      "title": "Fallout Lorecast - The Fallout Video Game & TV Lore Podcast",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.redcircle.com/1ef83263-04d9-49eb-a974-9fd1fc990676",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "the-corbett-report-videos",
+      "title": "The Corbett Report - Videos",
+      "category": "podcastindex",
+      "feed_url": "https://www.corbettreport.com/videorss.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "daily-tech-news-show-video",
+      "title": "Daily Tech News Show (VIDEO)",
+      "category": "podcastindex",
+      "feed_url": "http://feeds.feedburner.com/daily_tech_news_show",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "ios-today-video",
+      "title": "iOS Today (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.twit.tv/ipad_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "new-media-show-video",
+      "title": "New Media Show (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://newmediashow.com/feed/podcast/",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "intelligent-machines-video",
+      "title": "Intelligent Machines (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.twit.tv/twig_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "theme-park-science-behind-the-video",
+      "title": "Theme Park Science - Behind the Video",
+      "category": "podcastindex",
+      "feed_url": "https://anchor.fm/s/170bee08/podcast/rss",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "windows-weekly-video",
+      "title": "Windows Weekly (Video)",
+      "category": "podcastindex",
+      "feed_url": "https://feeds.twit.tv/ww_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "all-twit-tv-shows-video",
+      "title": "All TWiT.tv Shows (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/brickhouse_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "security-now-video",
+      "title": "Security Now (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/sn_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "macbreak-weekly-video",
+      "title": "MacBreak Weekly (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/mbw_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "tech-news-weekly-video",
+      "title": "Tech News Weekly (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/tnw_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "hands-on-tech-video",
+      "title": "Hands-On Tech (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/hot_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "this-week-in-space-video",
+      "title": "This Week in Space (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/twis_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "home-theater-geeks-video",
+      "title": "Home Theater Geeks (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/htg_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "hands-on-apple-video",
+      "title": "Hands-On Apple (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/hom_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "hands-on-windows-video",
+      "title": "Hands-On Windows (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/howin_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "untitled-linux-show-video",
+      "title": "Untitled Linux Show (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/uls_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "total-leo-video",
+      "title": "Total Leo (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/leo_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "total-mikah-video",
+      "title": "Total Mikah (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/mikah_video_hd.xml",
+      "fetch_via": "auto"
+    },
+    {
+      "id": "twit-throwback-video",
+      "title": "TWiT Throwback (Video)",
+      "category": "twit",
+      "feed_url": "https://feeds.twit.tv/throwback_video_large.xml",
+      "fetch_via": "auto"
     }
   ]
 }
