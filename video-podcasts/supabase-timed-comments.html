@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Timed comments</title>
+
+<style>
+  body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:24px;max-width:900px}
+  .row{display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap}
+  video{width:min(860px,100%);background:#000;border-radius:12px}
+  #comments{width:min(860px,100%);border:1px solid #ddd;border-radius:12px;padding:12px}
+  .c{padding:10px 8px;border-top:1px solid #eee}
+  .c:first-child{border-top:0}
+  .meta{display:flex;gap:10px;align-items:baseline;opacity:.8;font-size:13px}
+  .t{font-variant-numeric:tabular-nums;cursor:pointer;text-decoration:underline}
+  form{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
+  input,textarea,button{font:inherit}
+  input{padding:8px 10px;border:1px solid #ccc;border-radius:10px}
+  textarea{flex:1;min-width:260px;min-height:44px;max-height:140px;padding:8px 10px;border:1px solid #ccc;border-radius:10px;resize:vertical}
+  button{padding:8px 12px;border:1px solid #ccc;border-radius:10px;background:#fafafa;cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .topline{display:flex;justify-content:space-between;gap:12px;align-items:center}
+  .small{opacity:.7;font-size:13px}
+</style>
+
+<div class="row">
+  <div>
+    <video id="v" controls preload="metadata">
+      <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+    </video>
+
+    <div id="comments">
+      <div class="topline">
+        <div>Comments</div>
+        <div class="small" id="status">…</div>
+      </div>
+      <div id="hcaptcha-wrap" style="margin:10px 0">
+        <button type="button" id="captcha-btn">Continue</button>
+        <div id="hcaptcha-container" style="display:none"></div>
+      </div>
+
+      <form id="f" autocomplete="off" style="display:none">
+        <input id="optional_ufn" name="optional_ufn" placeholder="display name (optional)" maxlength="64" data-lpignore="true" data-1p-ignore data-bwignore="1" data-form-type="other" data-protonpass-ignore />
+        <textarea id="body" placeholder="say something…" maxlength="4000" required></textarea>
+        <button id="btn" type="submit" disabled>Post @ <span id="tlabel">0:00</span></button>
+      </form>
+
+      <div id="list"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  window.onHCaptchaLoad = function() {
+    if (window._hcaptchaOnLoad) window._hcaptchaOnLoad();
+    else window._hcaptchaLoaded = true;
+  };
+</script>
+<script src="https://js.hcaptcha.com/1/api.js?onload=onHCaptchaLoad&render=explicit" async defer></script>
+<script type="module">
+  import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
+
+  const HCAPTCHA_SITEKEY = "6c52a7ec-13c8-4c86-beee-e4fa572491d8";
+  const SUPABASE_URL = "https://imchxgkpilvwivjijmpk.supabase.co";
+  const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImltY2h4Z2twaWx2d2l2amlqbXBrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE5MDk1MzcsImV4cCI6MjA4NzQ4NTUzN30._eujzmC_kh0GMC5rG3Cn0QLvakvUqliTl1WGxFLPzDc";
+  // Enable anonymous auth: Supabase → Authentication → Providers → Anonymous
+  const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+  const v = document.getElementById("v");
+  const statusEl = document.getElementById("status");
+  const listEl = document.getElementById("list");
+  const form = document.getElementById("f");
+  const nameEl = document.getElementById("optional_ufn");
+  const bodyEl = document.getElementById("body");
+  const btn = document.getElementById("btn");
+  const tlabel = document.getElementById("tlabel");
+
+  const contentId =
+    new URLSearchParams(location.search).get("id") ||
+    (location.pathname.replace(/\/+$/,"") || "/").replace(/[^\w\-./]/g, "_");
+
+  const fmt = (s) => {
+    s = Math.max(0, Math.floor(s || 0));
+    const m = Math.floor(s / 60);
+    const r = s % 60;
+    return `${m}:${String(r).padStart(2,"0")}`;
+  };
+
+  const setStatus = (s) => statusEl.textContent = s;
+
+  v.addEventListener("timeupdate", () => {
+    tlabel.textContent = fmt(v.currentTime);
+  });
+
+  let captchaWidgetId;
+  let captchaReadyResolve;
+  const captchaReady = new Promise((r) => { captchaReadyResolve = r; });
+  const initCaptcha = () => {
+    captchaWidgetId = hcaptcha.render("hcaptcha-container", {
+      sitekey: HCAPTCHA_SITEKEY,
+      size: "invisible",
+      callback: (token) => onCaptchaDone(token),
+      "error-callback": () => onCaptchaDone(null),
+    });
+    captchaReadyResolve();
+  };
+  window._hcaptchaOnLoad = initCaptcha;
+  if (window._hcaptchaLoaded) initCaptcha();
+
+  const captchaBtn = document.getElementById("captcha-btn");
+  let captchaDoneResolve;
+  const captchaDonePromise = new Promise((r) => { captchaDoneResolve = r; });
+
+  const onCaptchaDone = (token) => {
+    captchaDoneResolve(token);
+  };
+
+  const ensureAnon = async () => {
+    const { data: sess } = await supabase.auth.getSession();
+    if (sess?.session) return;
+
+    await captchaReady;
+    setStatus("click Continue…");
+    captchaBtn.onclick = () => {
+      captchaBtn.disabled = true;
+      setStatus("verifying…");
+      hcaptcha.execute(captchaWidgetId);
+    };
+    const token = await captchaDonePromise;
+    captchaBtn.style.display = "none";
+    if (!token) throw new Error("Captcha required");
+    const { error } = await supabase.auth.signInAnonymously({ options: { captchaToken: token } });
+    if (error) throw error;
+  };
+
+  const render = (rows) => {
+    listEl.innerHTML = "";
+    for (const r of rows) {
+      const div = document.createElement("div");
+      div.className = "c";
+
+      const meta = document.createElement("div");
+      meta.className = "meta";
+
+      const t = document.createElement("span");
+      t.className = "t";
+      t.textContent = fmt(r.t_seconds);
+      t.title = "jump to time";
+      t.onclick = () => { v.currentTime = r.t_seconds; v.play(); };
+
+      const who = document.createElement("span");
+      who.textContent = r.name ? r.name : "anon";
+
+      const when = document.createElement("span");
+      when.textContent = new Date(r.created_at).toLocaleString();
+
+      meta.append(t, who, when);
+
+      const body = document.createElement("div");
+      body.textContent = r.body;
+
+      div.append(meta, body);
+      listEl.appendChild(div);
+    }
+  };
+
+  const load = async () => {
+    const { data, error } = await supabase
+      .from("timed_comments")
+      .select("id,t_seconds,name,body,created_at")
+      .eq("content_id", contentId)
+      .order("t_seconds", { ascending: true })
+      .order("created_at", { ascending: true });
+
+    if (error) throw error;
+    render(data ?? []);
+  };
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    if (!anonReady) return;
+    btn.disabled = true;
+
+    try {
+      const { data: userData, error: userErr } = await supabase.auth.getUser();
+      if (userErr) throw userErr;
+
+      const payload = {
+        content_id: contentId,
+        t_seconds: Math.max(0, Math.floor(v.currentTime || 0)),
+        name: nameEl.value.trim() || null,
+        body: bodyEl.value.trim(),
+        user_id: userData.user.id,
+      };
+
+      if (!payload.body) return;
+
+      const { error } = await supabase.from("timed_comments").insert(payload);
+      if (error) throw error;
+
+      bodyEl.value = "";
+      await load();
+    } finally {
+      btn.disabled = false;
+    }
+  });
+
+  let anonReady = false;
+  (async () => {
+    setStatus("signing in…");
+    await ensureAnon();
+    anonReady = true;
+    form.style.display = "flex";
+    btn.disabled = false;
+    setStatus("loading…");
+    await load();
+    setStatus(contentId);
+
+    supabase
+      .channel(`timed_comments:${contentId}`)
+      .on(
+        "postgres_changes",
+        { event: "INSERT", schema: "public", table: "timed_comments", filter: `content_id=eq.${contentId}` },
+        () => load()
+      )
+      .subscribe();
+  })().catch((err) => {
+    console.error(err);
+    setStatus("error (check console)");
+  });
+</script>
+</html>
