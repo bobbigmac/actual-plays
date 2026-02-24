@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vodcast HLS Demo</title>
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+</head>
+<body>
+  <div class="app">
+    <section class="left card">
+      <div class="hdr">
+        <h1>
+          Vodcast HLS demo
+          <span class="pill mono" id="envPill">…</span>
+        </h1>
+        <div class="sub">
+          Five HLS sources (different providers). Switch fast, keep per-episode progress, chapters, quality, PiP, share-at-time.
+        </div>
+      </div>
+
+      <div class="stack">
+        <div class="grid2">
+          <button id="btnAddCustom" class="btnPrimary">Add custom m3u8</button>
+          <button id="btnReset" class="btnDanger">Reset state</button>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="shows" id="shows"></div>
+
+        <div class="divider"></div>
+
+        <div class="hint mono">
+          Hotkeys: space play/pause · ←/→ seek 5s · shift+←/→ seek 20s · f fullscreen · p PiP · m mute · ]/[ speed
+        </div>
+
+        <div id="leftMsg"></div>
+      </div>
+    </section>
+
+    <section class="center">
+      <div class="playerWrap">
+        <div class="overlayTop">
+          <div class="leftBits">
+            <span class="pill mono" id="nowTitle">—</span>
+            <span class="pill mono" id="nowProvider">—</span>
+          </div>
+          <div class="rightBits">
+            <span class="pill mono" id="pillLive" style="display:none">LIVE</span>
+            <span class="pill mono" id="pillMode">HLS</span>
+          </div>
+        </div>
+
+        <video id="video" playsinline></video>
+
+        <div class="toast" id="toast">Copied</div>
+
+        <div class="controls">
+          <div class="bar">
+            <div class="time" id="timeL">00:00</div>
+            <input id="seek" type="range" min="0" max="1000" value="0" />
+            <div class="time" id="timeR">00:00</div>
+          </div>
+
+          <div class="btns">
+            <button id="btnPlay" class="btnPrimary">Play</button>
+            <button id="btnBack">-10s</button>
+            <button id="btnFwd">+30s</button>
+            <button id="btnLive" style="display:none">Go live</button>
+
+            <span class="spacer"></span>
+
+            <select id="selRate" class="tight" title="Playback rate"></select>
+            <select id="selQuality" class="tight" title="Quality"></select>
+            <button id="btnAudioOnly" class="tight">Audio-only</button>
+            <button id="btnPip" class="tight">PiP</button>
+            <button id="btnFs" class="tight">Fullscreen</button>
+            <button id="btnShare" class="tight">Copy link</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="right card">
+      <div class="hdr">
+        <h1>
+          Episode panel
+          <span class="pill mono" id="epPill">—</span>
+        </h1>
+        <div class="sub" id="epSub">—</div>
+      </div>
+
+      <div class="tabs">
+        <div class="tab active" data-tab="chapters">Chapters</div>
+        <div class="tab" data-tab="notes">Notes</div>
+        <div class="tab" data-tab="stats">Stats</div>
+      </div>
+
+      <div class="pane" id="paneChapters">
+        <div class="chapters" id="chapters"></div>
+      </div>
+
+      <div class="pane" id="paneNotes" style="display:none">
+        <div class="notes" id="notes"></div>
+      </div>
+
+      <div class="pane" id="paneStats" style="display:none">
+        <div class="kv">
+          <div class="k">now</div>
+          <div class="v" id="statsNow">—</div>
+        </div>
+        <div class="kv">
+          <div class="k">tech</div>
+          <div class="v" id="statsTech">—</div>
+        </div>
+        <div class="kv">
+          <div class="k">buffer</div>
+          <div class="v" id="statsBuf">—</div>
+        </div>
+        <div id="statsMsg" class="mini"></div>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
