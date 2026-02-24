@@ -1,5 +1,7 @@
 const $ = (s, el = document) => el.querySelector(s);
 
+import * as history from "./history.js";
+
 const STORAGE_KEY = "video_podcasts_v1";
 const SOURCES_URL = "./video-sources.json";
 const FEED_PROXY = "/__feed?url=";
@@ -38,6 +40,9 @@ const guideFeeds = $("#guideFeeds");
 const guideEpisodes = $("#guideEpisodes");
 const btnCloseGuide = $("#btnCloseGuide");
 const detailsPanel = $("#detailsPanel");
+const btnHistory = $("#btnHistory");
+const historyPanel = $("#historyPanel");
+const historyPanelContent = $("#historyPanelContent");
 const btnDetails = $("#btnDetails");
 const btnCloseDetails = $("#btnCloseDetails");
 const epTitle = $("#epTitle");
@@ -416,6 +421,34 @@ function closeGuide() {
   guidePanel.setAttribute("aria-hidden", "true");
 }
 
+let historyPanelInstance = null;
+
+function openHistory() {
+  historyPanel.setAttribute("aria-hidden", "false");
+  if (!historyPanelInstance) {
+    historyPanelInstance = history.render(historyPanelContent, {
+      onEntryClick: async (entry) => {
+        closeHistory();
+        if (currentSource?.id !== entry.sourceId) {
+          await loadSource(entry.sourceId, { preserveEpisode: false });
+        }
+        const ep = episodes.find(e => e.id === entry.episodeId);
+        if (ep) {
+          await loadEpisode(entry.episodeId, { autoplay: true, startAt: entry.end });
+        }
+      },
+      fmtTime,
+    });
+    if (historyPanelInstance?.closeBtn) {
+      historyPanelInstance.closeBtn.addEventListener("click", closeHistory);
+    }
+  }
+}
+
+function closeHistory() {
+  historyPanel.setAttribute("aria-hidden", "true");
+}
+
 function openDetails() {
   detailsPanel.setAttribute("aria-hidden", "false");
 }
@@ -496,7 +529,7 @@ async function loadSource(sourceId, { preserveEpisode = true, pickRandomEpisode 
   }
 }
 
-async function loadEpisode(episodeId, { autoplay = true } = {}) {
+async function loadEpisode(episodeId, { autoplay = true, startAt: overrideStartAt } = {}) {
   const ep = episodes.find(e => e.id === episodeId) || episodes.find(e => e.media?.url);
   if (!ep) return;
 
@@ -512,6 +545,15 @@ async function loadEpisode(episodeId, { autoplay = true } = {}) {
 
   teardownPlayer();
   currentEp = ep;
+
+  const startAt = overrideStartAt ?? getProgressSec(currentSource.id, ep.id) ?? 0;
+  history.startSegment({
+    sourceId: currentSource.id,
+    episodeId: ep.id,
+    episodeTitle: ep.title,
+    channelTitle: ep.channelTitle || currentSource.title,
+    startTime: startAt,
+  });
   state.last = { sourceId: currentSource.id, episodeId: ep.id, at: Date.now() };
   state.lastBySource ||= {};
   state.lastBySource[currentSource.id] = ep.id;
@@ -527,8 +569,6 @@ async function loadEpisode(episodeId, { autoplay = true } = {}) {
   const shouldUseHls = isProbablyHls(mediaUrl, mediaType);
   const usingNative = shouldUseHls && isNativeHls();
   const usingHlsJs = shouldUseHls && !usingNative && window.Hls && Hls.isSupported();
-
-  const startAt = getProgressSec(currentSource.id, ep.id) || 0;
 
   if (shouldUseHls && !usingNative && !usingHlsJs) {
     log("HLS not supported", "error");
@@ -696,11 +736,13 @@ function tick() {
   const live = !Number.isFinite(dur) || dur === Infinity;
   if (live) return;
 
+  const ct = video.currentTime || 0;
+  history.updateEnd(ct);
+
   const now = performance.now();
   if (now - lastPersistMs < 1000) return;
   lastPersistMs = now;
 
-  const ct = video.currentTime || 0;
   if (Number.isFinite(dur) && dur > 10 && ct > 0.5 && ct < dur - 1.5) {
     setProgressSec(currentSource.id, currentEp.id, ct);
   }
@@ -765,6 +807,13 @@ function wireUI() {
     video.currentTime = clamp(pct * dur, 0, Math.max(0, dur - 0.25));
   });
 
+  if (btnHistory) btnHistory.addEventListener("click", (e) => {
+    e.stopPropagation();
+    recordInteraction();
+    if (historyPanel.getAttribute("aria-hidden") === "true") openHistory();
+    else closeHistory();
+  });
+
   if (btnDetails) btnDetails.addEventListener("click", () => {
     if (detailsPanel.getAttribute("aria-hidden") === "true") openDetails();
     else closeDetails();
@@ -820,6 +869,7 @@ function wireUI() {
     if (k === "escape") {
       closeGuide();
       closeDetails();
+      closeHistory();
     }
   });
 }
@@ -854,6 +904,11 @@ async function boot() {
   updateGuideBar();
 
   setInterval(tick, 250);
+
+  window.addEventListener("beforeunload", () => {
+    if (video?.currentTime != null) history.updateEnd(video.currentTime);
+    history.finalize();
+  });
 }
 
 boot();

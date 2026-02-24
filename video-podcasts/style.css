@@ -185,6 +185,90 @@ video {
 .guideEpTitle { font-size: 13px; font-weight: 500 }
 .guideEpSub { font-size: 11px; color: var(--muted); margin-top: 2px }
 
+.historyPanel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(90vw, 360px);
+  height: 100%;
+  background: var(--panel);
+  border-right: 1px solid var(--edge);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 100;
+}
+.historyPanel[aria-hidden="true"] { display: none }
+
+.historyPanelContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.historyHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--edge);
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.historyActions {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.historyBtn {
+  padding: 6px 10px;
+  font-size: 12px;
+  font: inherit;
+  color: var(--text);
+  background: rgba(255,255,255,.03);
+  border: 1px solid var(--edge);
+  border-radius: 6px;
+  cursor: pointer;
+}
+.historyBtn:hover { background: rgba(255,255,255,.08) }
+.historyBtnClose { padding: 4px 8px }
+
+.historyList {
+  flex: 1;
+  overflow-y: auto;
+  min-height: 0;
+}
+
+.historyEntry {
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(255,255,255,.05);
+  cursor: pointer;
+}
+.historyEntry:hover { background: rgba(255,255,255,.05) }
+.historyEntryCurrent { background: rgba(138,180,248,.1) }
+.historyEntryTitle {
+  font-size: 13px;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.historyEntrySub {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.cornerBtnLeft {
+  left: 0;
+  right: auto;
+  margin-left: 12px;
+}
+
 .detailsPanel {
   position: absolute;
   top: 0;
