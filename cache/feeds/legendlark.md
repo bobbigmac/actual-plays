@@ -2,9 +2,9 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-02-23T10:13:58+00:00`
-- checked_at: `2026-02-23T10:13:58+00:00`
-- etag: `W/"12010f-aHqIcoZZZT/ofrt9ZSU6D3CatRA"`
+- fetched_at: `2026-02-25T21:51:09+00:00`
+- checked_at: `2026-02-25T21:51:09+00:00`
+- etag: `W/"12010f-/s46ZB8mtyVKzdKA114TclKyfMo"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.legendlark.com/",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
-  "fetched_at": "2026-02-23T10:13:58+00:00",
+  "fetched_at": "2026-02-25T21:51:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -52,7 +52,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47270060",
       "itunes_duration": "00:21:30",
-      "speakers": [],
+      "speakers": [
+        "Bluebird Report"
+      ],
       "topics": [
         "nevernowhere",
         "bluebird",
@@ -70,7 +72,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114998213",
       "itunes_duration": "01:08:44",
-      "speakers": [],
+      "speakers": [
+        "no home",
+        "no hope"
+      ],
       "topics": [
         "nevernowhere",
         "year",
@@ -88,7 +93,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98232374",
       "itunes_duration": "00:57:35",
-      "speakers": [],
+      "speakers": [
+        "Repercussions Big"
+      ],
       "topics": [
         "nevernowhere",
         "repercussions",
@@ -124,7 +131,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102742162",
       "itunes_duration": "01:01:28",
-      "speakers": [],
+      "speakers": [
+        "Stolen Derisetum"
+      ],
       "topics": [
         "nevernowhere",
         "weekend",
@@ -181,7 +190,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103549984",
       "itunes_duration": "01:03:05",
-      "speakers": [],
+      "speakers": [
+        "Ratatoussy After"
+      ],
       "topics": [
         "nevernowhere",
         "ratatoussy"
@@ -234,7 +245,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83036056",
       "itunes_duration": "00:49:51",
-      "speakers": [],
+      "speakers": [
+        "Sun Queen"
+      ],
       "topics": [
         "nevernowhere",
         "queen",
@@ -252,7 +265,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87726548",
       "itunes_duration": "00:53:21",
-      "speakers": [],
+      "speakers": [
+        "Complicates Pepper"
+      ],
       "topics": [
         "nevernowhere",
         "queen",
@@ -326,7 +341,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100157254",
       "itunes_duration": "01:02:50",
-      "speakers": [],
+      "speakers": [
+        "All Aboard"
+      ],
       "topics": [
         "nevernowhere",
         "aboard"
@@ -929,9 +946,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40841658",
       "itunes_duration": "00:56:43",
-      "speakers": [
-        "New Estra"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons",
@@ -1064,7 +1079,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22350560",
       "itunes_duration": "00:31:01",
-      "speakers": [],
+      "speakers": [
+        "Dragons Arc"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -1488,9 +1505,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40951372",
       "itunes_duration": "00:56:52",
-      "speakers": [
-        "Swan Rockson"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons",
@@ -1926,8 +1941,7 @@
       "enclosure_length": "60312598",
       "itunes_duration": "01:23:44",
       "speakers": [
-        "Noel Shiri Corbin",
-        "Noel Shiri"
+        "Noel Shiri Corbin"
       ],
       "topics": [
         "dames",
@@ -1950,9 +1964,7 @@
       "enclosure_length": "46508131",
       "itunes_duration": "01:04:31",
       "speakers": [
-        "Noel Shiri Corbin",
-        "Calm Emotions",
-        "Noel Shiri"
+        "Noel Shiri Corbin"
       ],
       "topics": [
         "dames",
@@ -1974,7 +1986,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53516794",
       "itunes_duration": "01:14:15",
-      "speakers": [],
+      "speakers": [
+        "TK Johnson Corbin"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -1994,7 +2008,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59168221",
       "itunes_duration": "01:22:06",
-      "speakers": [],
+      "speakers": [
+        "TK Johnson Corbin"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -2038,8 +2054,7 @@
       "enclosure_length": "54029204",
       "itunes_duration": "01:14:58",
       "speakers": [
-        "Rudy Basso Corbin",
-        "Rudy Basso"
+        "Rudy Basso Corbin"
       ],
       "topics": [
         "dames",
@@ -2062,9 +2077,7 @@
       "enclosure_length": "80151224",
       "itunes_duration": "01:51:15",
       "speakers": [
-        "Seger Corbin",
-        "Amber Seger",
-        "Twitter rocketorca"
+        "Seger Corbin"
       ],
       "topics": [
         "dames",
@@ -2408,9 +2421,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57970423",
       "itunes_duration": "01:20:28",
-      "speakers": [
-        "Huugin gone"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons"
@@ -2606,7 +2617,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53271850",
       "itunes_duration": "01:13:56",
-      "speakers": [],
+      "speakers": [
+        "old friends"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -2625,9 +2638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53070289",
       "itunes_duration": "01:13:39",
-      "speakers": [
-        "Lore Vignette"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons",
@@ -2701,9 +2712,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41951199",
       "itunes_duration": "00:58:13",
-      "speakers": [
-        "Dodson Goodson"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons",
@@ -2760,9 +2769,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51167035",
       "itunes_duration": "01:11:01",
-      "speakers": [
-        "Sparrow Island"
-      ],
+      "speakers": [],
       "topics": [
         "dames",
         "dragons",
@@ -2862,7 +2869,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60506109",
       "itunes_duration": "01:23:59",
-      "speakers": [],
+      "speakers": [
+        "Golgari Swarm"
+      ],
       "topics": [
         "special",
         "podcasts",
@@ -3099,7 +3108,7 @@
       "enclosure_length": "44778320",
       "itunes_duration": "01:02:08",
       "speakers": [
-        "Gordon Ramsey"
+        "Final Chapter Prologue"
       ],
       "topics": [
         "dames",
@@ -3205,7 +3214,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46062584",
       "itunes_duration": "01:03:55",
-      "speakers": [],
+      "speakers": [
+        "Blue Palace"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -3284,8 +3295,7 @@
       "enclosure_length": "50271043",
       "itunes_duration": "01:09:46",
       "speakers": [
-        "Rudy Basso Time",
-        "Find Rudy Basso"
+        "Rudy Basso Time"
       ],
       "topics": [
         "dames",
@@ -3308,8 +3318,7 @@
       "enclosure_length": "46491119",
       "itunes_duration": "01:04:31",
       "speakers": [
-        "Rudy Basso Corbin",
-        "Find Rudy Basso"
+        "Rudy Basso Corbin"
       ],
       "topics": [
         "dames",
@@ -3558,7 +3567,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47455021",
       "itunes_duration": "01:05:51",
-      "speakers": [],
+      "speakers": [
+        "Fang Lak"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -3733,7 +3744,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "3223451",
       "itunes_duration": "00:04:25",
-      "speakers": [],
+      "speakers": [
+        "Dragons Promos Wow"
+      ],
       "topics": [
         "dames",
         "dragons",
@@ -3936,22 +3949,22 @@
 ## Episodes (newest first)
 
 - 2026-02-12 — NEVERNOWHERE: Q&A 1
-- 2026-01-30 — NEVERNOWHERE: The Bluebird Report #1
-- 2026-01-16 — NEVERNOWHERE 16. Years & Years
-- 2025-12-25 — NEVERNOWHERE 15. Repercussions Big & Small
+- 2026-01-30 — NEVERNOWHERE: The Bluebird Report #1 — speakers: Bluebird Report
+- 2026-01-16 — NEVERNOWHERE 16. Years & Years — speakers: no home, no hope
+- 2025-12-25 — NEVERNOWHERE 15. Repercussions Big & Small — speakers: Repercussions Big
 - 2025-12-11 — NEVERNOWHERE 14. The Third Thrilling Theft
-- 2025-11-28 — NEVERNOWHERE 13. Weekend at Ratmasey's
+- 2025-11-28 — NEVERNOWHERE 13. Weekend at Ratmasey's — speakers: Stolen Derisetum
 - 2025-11-13 — NEVERNOWHERE 12. Double Crossers Uncross — speakers: Brightwater Collective
 - 2025-10-31 — NEVERNOWHERE 11. Betrayal at the Starsong Lounge
-- 2025-10-16 — NEVERNOWHERE 10. Ratatoussy
+- 2025-10-16 — NEVERNOWHERE 10. Ratatoussy — speakers: Ratatoussy After
 - 2025-10-02 — NEVERNOWHERE 9. The Dead World
 - 2025-09-18 — NEVERNOWHERE 8. Vice After Victory
-- 2025-09-04 — NEVERNOWHERE 7. The Sun Queen Caper Concludes
-- 2025-08-21 — NEVERNOWHERE 6. The Sun Queen Caper Complicates
+- 2025-09-04 — NEVERNOWHERE 7. The Sun Queen Caper Concludes — speakers: Sun Queen
+- 2025-08-21 — NEVERNOWHERE 6. The Sun Queen Caper Complicates — speakers: Complicates Pepper
 - 2025-08-07 — NEVERNOWHERE 5. The Sun Queen Caper Carries On
 - 2025-07-24 — NEVERNOWHERE 4. The Sun Queen Caper Continues
 - 2025-07-10 — NEVERNOWHERE 3. The Sun Queen Caper Commences
-- 2025-06-26 — NEVERNOWHERE 2. All Aboard!
+- 2025-06-26 — NEVERNOWHERE 2. All Aboard! — speakers: All Aboard
 - 2025-06-12 — NEVERNOWHERE 1. The Circus Comes to Town
 - 2025-05-29 — How to Play 'Blades in the Dark'
 - 2025-05-01 — Dames & Dragons Bonus Episode: Q&A 8
@@ -3983,14 +3996,14 @@
 - 2023-06-09 — Dames & Dragons 128. The River of Lights (Part 9)
 - 2023-05-18 — Dames & Dragons 127. The River of Lights (Part 8)
 - 2023-04-28 — Dames & Dragons 126. The River of Lights (Part 7) — speakers: Lucky Lamia
-- 2023-04-14 — Dames & Dragons 125. The River of Lights (Part 6) — speakers: New Estra
+- 2023-04-14 — Dames & Dragons 125. The River of Lights (Part 6)
 - 2023-03-31 — Dames & Dragons 124. The River of Lights (Part 5) — speakers: New Estra
 - 2023-03-13 — Dames & Dragons 123. The River of Lights (Part 4)
 - 2023-02-17 — Dames & Dragons 122. The River of Lights (Part 3)
 - 2023-02-03 — Dames & Dragons 121. The River of Lights (Part 2)
 - 2023-01-20 — Dames & Dragons 120. The River of Lights (Part 1)
 - 2022-12-01 — Dames & Dragons Bonus Episode: Q&A 7
-- 2022-10-20 — Dames & Dragons Arc 7 Recap: The Beating Earth
+- 2022-10-20 — Dames & Dragons Arc 7 Recap: The Beating Earth — speakers: Dragons Arc
 - 2022-10-08 — Hrose Camp Chapter 8: I'll See You In Hrose!
 - 2022-09-23 — Hrose Camp Chapter 7: Ainsley and The Gap Go to Hrose Cave!
 - 2022-09-11 — Hrose Camp Chapter 6: The Plot Campens!
@@ -4012,7 +4025,7 @@
 - 2021-12-14 — Dames & Dragons 110. The Beating Earth (Part 12)
 - 2021-11-24 — Dames & Dragons 109. The Beating Earth (Part 11)
 - 2021-11-02 — Dames & Dragons 108. The Beating Earth (Part 10) — speakers: Red Tier
-- 2021-10-19 — Dames & Dragons 107. The Beating Earth (Part 9) — speakers: Swan Rockson
+- 2021-10-19 — Dames & Dragons 107. The Beating Earth (Part 9)
 - 2021-10-07 — Dames & Dragons 106. The Beating Earth (Part 8)
 - 2021-09-20 — Dames & Dragons 105. The Beating Earth (Part 7)
 - 2021-09-06 — Dames & Dragons 104. The Beating Earth (Part 6)
@@ -4033,13 +4046,13 @@
 - 2021-01-26 — Dames & Dragons 91. The Survivor's Ballad (Part 14) ft. Celeste Conowitch — speakers: Conowitch Corbin
 - 2021-01-11 — Dames & Dragons 90. The Survivor's Ballad (Part 13) ft. Lysa Penrose — speakers: Lysa Penrose
 - 2020-12-28 — Dames & Dragons 89. The Survivor's Ballad (Part 12) ft. Lysa Penrose — speakers: Lysa Penrose Slake
-- 2020-12-14 — Dames & Dragons 88. The Survivor's Ballad (Part 11) ft. Noel Shiri — speakers: Noel Shiri Corbin, Noel Shiri
-- 2020-11-30 — Dames & Dragons 87. The Survivor's Ballad (Part 10) ft. Noel Shiri — speakers: Noel Shiri Corbin, Calm Emotions, Noel Shiri
-- 2020-11-16 — Dames & Dragons 86. The Survivor's Ballad (Part 9) ft. TK Johnson
-- 2020-11-02 — Dames & Dragons 85. The Survivor's Ballad (Part 8) ft. TK Johnson
+- 2020-12-14 — Dames & Dragons 88. The Survivor's Ballad (Part 11) ft. Noel Shiri — speakers: Noel Shiri Corbin
+- 2020-11-30 — Dames & Dragons 87. The Survivor's Ballad (Part 10) ft. Noel Shiri — speakers: Noel Shiri Corbin
+- 2020-11-16 — Dames & Dragons 86. The Survivor's Ballad (Part 9) ft. TK Johnson — speakers: TK Johnson Corbin
+- 2020-11-02 — Dames & Dragons 85. The Survivor's Ballad (Part 8) ft. TK Johnson — speakers: TK Johnson Corbin
 - 2020-10-19 — Dames & Dragons 84. The Survivor's Ballad (Part 7) ft. Rudy Basso — speakers: Rudy Basso
-- 2020-10-05 — Dames & Dragons 83. The Survivor's Ballad (Part 6) ft. Rudy Basso — speakers: Rudy Basso Corbin, Rudy Basso
-- 2020-09-21 — Dames & Dragons 82. The Survivor's Ballad (Part 5) ft. Amber Seger — speakers: Seger Corbin, Amber Seger, Twitter rocketorca
+- 2020-10-05 — Dames & Dragons 83. The Survivor's Ballad (Part 6) ft. Rudy Basso — speakers: Rudy Basso Corbin
+- 2020-09-21 — Dames & Dragons 82. The Survivor's Ballad (Part 5) ft. Amber Seger — speakers: Seger Corbin
 - 2020-09-07 — Dames & Dragons 81. The Survivor's Ballad (Part 4)
 - 2020-08-24 — Dames & Dragons 80. The Survivor's Ballad (Part 3)
 - 2020-08-10 — Dames & Dragons 79. The Survivor's Ballad (Part 2)
@@ -4058,7 +4071,7 @@
 - 2020-01-07 — Dames & Dragons 68. The Weeping God (Part 9)
 - 2019-12-11 — Dames & Dragons 67. The Weeping God (Part 8) — speakers: subtle subterfuge
 - 2019-12-04 — Dames & Dragons 66. The Weeping God (Part 7)
-- 2019-11-12 — Dames & Dragons 65. The Weeping God (Part 6) — speakers: Huugin gone
+- 2019-11-12 — Dames & Dragons 65. The Weeping God (Part 6)
 - 2019-10-29 — Dames & Dragons 64. The Weeping God (Part 5)
 - 2019-10-19 — Dames & Dragons 63. The Weeping God (Part 4)
 - 2019-09-10 — Dames & Dragons 62. The Weeping God (Part 3) ft. Stan Ferguson — speakers: Stan Ferguson
@@ -4068,20 +4081,20 @@
 - 2019-07-16 — Dames & Dragons Arc 4 Recap: Court of Spears — speakers: Dragons Arc, Spears Welcome, Recap News
 - 2019-07-02 — Dames & Dragons 59. 4.9 A Fragmentary Passage (Part 4) — speakers: Fragmentary Passage
 - 2019-06-18 — Dames & Dragons 58. 4.9 A Fragmentary Passage (Part 3) — speakers: Fragmentary Passage
-- 2019-06-04 — Dames & Dragons 57. 4.9 A Fragmentary Passage (Part 2)
-- 2019-05-21 — Dames & Dragons 56. 4.9 A Fragmentary Passage (Part 1) — speakers: Lore Vignette
+- 2019-06-04 — Dames & Dragons 57. 4.9 A Fragmentary Passage (Part 2) — speakers: old friends
+- 2019-05-21 — Dames & Dragons 56. 4.9 A Fragmentary Passage (Part 1)
 - 2019-05-07 — Dames & Dragons Bonus Episode: Q and A 4
 - 2019-04-23 — Dames & Dragons 55. Court of Spears (Part 18)
 - 2019-04-09 — Dames & Dragons 54. Court of Spears (Part 17)
-- 2019-03-26 — Dames & Dragons 53. Court of Spears (Part 16) — speakers: Dodson Goodson
+- 2019-03-26 — Dames & Dragons 53. Court of Spears (Part 16)
 - 2019-03-12 — Dames & Dragons 52. Court of Spears (Part 15)
 - 2019-02-26 — Dames & Dragons 51. Court of Spears (Part 14)
-- 2019-02-12 — Dames & Dragons 50. Court of Spears (Part 13) — speakers: Sparrow Island
+- 2019-02-12 — Dames & Dragons 50. Court of Spears (Part 13)
 - 2019-01-29 — Dames & Dragons 49. Court of Spears (Part 12)
 - 2019-01-15 — Dames & Dragons 48. Court of Spears (Part 11) — speakers: Dashing Diversion, Dirk Helmshire
 - 2019-01-01 — Dames & Dragons 47. Court Of Spears (Part 10) — speakers: Queen Tenevine
 - 2018-12-18 — Dames & Dragons 46. Court of Spears (Part 9)
-- 2018-12-04 — Special Episode: Podcasts Of Ravnica Oneshot
+- 2018-12-04 — Special Episode: Podcasts Of Ravnica Oneshot — speakers: Golgari Swarm
 - 2018-11-20 — Dames & Dragons 45. Court of Spears (Part 8) — speakers: Dodson Goodson
 - 2018-11-06 — Dames & Dragons 44. Court of Spears (Part 7)
 - 2018-10-23 — Dames & Dragons 43. Court of Spears (Part 6)
@@ -4093,17 +4106,17 @@
 - 2018-07-24 — Dames & Dragons Bonus Episode: Q and A 3 — speakers: Hannah Culbert
 - 2018-07-17 — Dames & Dragons Arc 3 & 3.5 Recap: The Gray Manacle — speakers: Dragons Arc, Recap News
 - 2018-07-03 — Dames & Dragons 37. 3.5 Final Chapter Prologue (Part 3) — speakers: Meet Slake
-- 2018-06-19 — Dames & Dragons 36. 3.5 Final Chapter Prologue (Part 2) — speakers: Gordon Ramsey
+- 2018-06-19 — Dames & Dragons 36. 3.5 Final Chapter Prologue (Part 2) — speakers: Final Chapter Prologue
 - 2018-06-05 — Dames & Dragons 35. 3.5 Final Chapter Prologue (Part 1) — speakers: Final Chapter Prologue
 - 2018-05-22 — Dames & Dragons 34. The Gray Manacle (Part 10) ft. Rudy Basso — speakers: Rudy Basso
 - 2018-05-08 — Dames & Dragons 33. The Gray Manacle (Part 9) ft. Rudy Basso — speakers: Rudy Basso
 - 2018-04-24 — Dames & Dragons 32. The Gray Manacle (Part 8)
-- 2018-04-10 — Dames & Dragons 31. The Gray Manacle (Part 7)
+- 2018-04-10 — Dames & Dragons 31. The Gray Manacle (Part 7) — speakers: Blue Palace
 - 2018-03-26 — Dames & Dragons 30. The Gray Manacle (Part 6)
 - 2018-03-13 — Dames & Dragons 29. The Gray Manacle (Part 5)
 - 2018-02-26 — Dames & Dragons 28. The Gray Manacle (Part 4) — speakers: Gray Manacle
-- 2018-02-12 — Dames & Dragons 27. The Gray Manacle (Part 3) ft. Rudy Basso — speakers: Rudy Basso Time, Find Rudy Basso
-- 2018-01-29 — Dames & Dragons 26. The Gray Manacle (Part 2) ft. Rudy Basso — speakers: Rudy Basso Corbin, Find Rudy Basso
+- 2018-02-12 — Dames & Dragons 27. The Gray Manacle (Part 3) ft. Rudy Basso — speakers: Rudy Basso Time
+- 2018-01-29 — Dames & Dragons 26. The Gray Manacle (Part 2) ft. Rudy Basso — speakers: Rudy Basso Corbin
 - 2018-01-15 — Dames & Dragons 25. The Gray Manacle (Part 1)
 - 2017-12-25 — Dames & Dragons Lore Vignette: Killonio & Killonia (ft. Juniper) — speakers: Lore Vignette
 - 2017-12-12 — Dames & Dragons Bonus Episode: Q and A 2
@@ -4116,7 +4129,7 @@
 - 2017-09-04 — Dames & Dragons 19. Into Avelis (Part 10)
 - 2017-08-21 — Dames & Dragons 18. Into Avelis (Part 9)
 - 2017-08-07 — Dames & Dragons 17. Into Avelis (Part 8)
-- 2017-07-24 — Dames & Dragons 16. Into Avelis (Part 7)
+- 2017-07-24 — Dames & Dragons 16. Into Avelis (Part 7) — speakers: Fang Lak
 - 2017-07-10 — Dames & Dragons 15. Into Avelis (Part 6)
 - 2017-06-26 — Dames & Dragons 14. Into Avelis (Part 5)
 - 2017-06-12 — Dames & Dragons 13. Into Avelis (Part 4) ft. Errol Culbert — speakers: Errol Culbert Fran
@@ -4125,7 +4138,7 @@
 - 2017-05-01 — Dames & Dragons 10. Into Avelis (Part 1)
 - 2017-04-03 — Dames & Dragons Bonus Episode: Q and A 1
 - 2017-03-27 — Dames & Dragons Arc 1 Recap: Festival of Lights — speakers: Dragons Arc, Lights Welcome, Recap News
-- 2017-03-20 — Dames and Dragons Promos
+- 2017-03-20 — Dames and Dragons Promos — speakers: Dragons Promos Wow
 - 2017-03-13 — Dames & Dragons 09. Festival of Lights (Part 9)
 - 2017-03-06 — Dames & Dragons 08. Festival of Lights (Part 8)
 - 2017-02-27 — Dames & Dragons 07. Festival of Lights (Part 7)
