@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"914014620e0d0f257e60ae8e66ffa5c8"`
-- last_modified: `Tue, 17 Feb 2026 15:17:57 GMT`
+- fetched_at: `2026-02-25T13:45:50+00:00`
+- checked_at: `2026-02-25T13:45:50+00:00`
+- etag: `"1965c28552fa2e64d223d7302924d7f8"`
+- last_modified: `Wed, 25 Feb 2026 11:41:25 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-25T13:45:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "93c44e9601c91506be7b17e317f254de1b2e945d",
+      "title": "144 - Two Headed Serpent - Snake Island - Salut",
+      "published_at": "2026-02-25T11:41:09+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/f6e2ac29-bafb-4294-81b0-448d75e23245/group-item/c5c6a193-4520-4051-97f3-1cd05dafd020/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57341277",
+      "itunes_duration": "00:59:43",
+      "speakers": [
+        "Syrinscape Kevin MaCleod"
+      ],
+      "topics": [
+        "headed",
+        "serpent",
+        "snake",
+        "island",
+        "salut"
+      ]
+    },
     {
       "key": "fb45aaf5dfbaf43ce0802f284e761d78e4377fbb",
       "title": "003-Cthulhu Dark - Goodcliffe - An Unwise Promise",
@@ -37,9 +59,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52605783",
       "itunes_duration": "00:54:47",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "dark",
@@ -59,9 +79,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63489186",
       "itunes_duration": "01:06:07",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -103,9 +121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62408837",
       "itunes_duration": "01:04:59",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -126,9 +142,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67279997",
       "itunes_duration": "01:10:04",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "dark",
@@ -171,8 +185,7 @@
       "enclosure_length": "44467551",
       "itunes_duration": "00:46:18",
       "speakers": [
-        "Dorothy Family June",
-        "Syrinscape Kevin MaCleod"
+        "Dorothy Family June"
       ],
       "topics": [
         "friend",
@@ -216,7 +229,7 @@
       "enclosure_length": "70958018",
       "itunes_duration": "01:13:54",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Kansas June"
       ],
       "topics": [
         "friend",
@@ -257,7 +270,7 @@
       "enclosure_length": "60407894",
       "itunes_duration": "01:02:55",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Rainbow June"
       ],
       "topics": [
         "friend",
@@ -276,9 +289,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64715684",
       "itunes_duration": "01:07:24",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -363,9 +374,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61836982",
       "itunes_duration": "01:04:24",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "borg",
         "lair",
@@ -402,9 +411,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65052615",
       "itunes_duration": "01:07:45",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "borg",
         "lair",
@@ -444,13 +451,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90444322",
       "itunes_duration": "01:34:12",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -469,11 +470,7 @@
       "enclosure_length": "63922424",
       "itunes_duration": "01:06:34",
       "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
+        "Turkey Baster"
       ],
       "topics": [
         "flotsam",
@@ -519,11 +516,7 @@
       "enclosure_length": "54361476",
       "itunes_duration": "00:56:36",
       "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
+        "Two Pistols"
       ],
       "topics": [
         "flotsam",
@@ -543,13 +536,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42568213",
       "itunes_duration": "00:44:19",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jetsam",
@@ -592,13 +579,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54062509",
       "itunes_duration": "00:56:18",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -638,13 +619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59020636",
       "itunes_duration": "01:01:28",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -664,7 +639,7 @@
       "enclosure_length": "56216911",
       "itunes_duration": "00:58:33",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "headed serpent"
       ],
       "topics": [
         "headed",
@@ -685,13 +660,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45617183",
       "itunes_duration": "00:47:30",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -711,9 +680,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53174697",
       "itunes_duration": "00:55:22",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -731,13 +698,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44126558",
       "itunes_duration": "00:45:57",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -758,7 +719,7 @@
       "enclosure_length": "54433390",
       "itunes_duration": "00:56:41",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "headed serpent"
       ],
       "topics": [
         "headed",
@@ -778,13 +739,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54499327",
       "itunes_duration": "00:56:45",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -805,7 +760,7 @@
       "enclosure_length": "54273121",
       "itunes_duration": "00:56:31",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "headed serpent"
       ],
       "topics": [
         "headed",
@@ -824,12 +779,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51830035",
       "itunes_duration": "00:53:58",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jetsam",
@@ -848,13 +798,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61537596",
       "itunes_duration": "01:04:05",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -874,13 +818,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59886095",
       "itunes_duration": "01:02:22",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -901,7 +839,7 @@
       "enclosure_length": "74503669",
       "itunes_duration": "01:17:35",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Angry Liches"
       ],
       "topics": [
         "borg",
@@ -920,13 +858,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53853355",
       "itunes_duration": "00:56:05",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -946,7 +878,7 @@
       "enclosure_length": "66122160",
       "itunes_duration": "01:08:52",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Angry Liches"
       ],
       "topics": [
         "borg",
@@ -965,13 +897,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57471630",
       "itunes_duration": "00:59:51",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -991,13 +917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52641333",
       "itunes_duration": "00:54:49",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowsky",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -1017,13 +937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53672805",
       "itunes_duration": "00:55:54",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowski",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -1042,13 +956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44887973",
       "itunes_duration": "00:46:44",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowski",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -1066,13 +974,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64202593",
       "itunes_duration": "01:06:52",
-      "speakers": [
-        "Scott Dorward",
-        "Seth Skorkowski",
-        "HowWeRoll Joe",
-        "HowWeRoll Eoghan",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jestam",
@@ -1092,9 +994,7 @@
       "enclosure_length": "83212668",
       "itunes_duration": "01:26:40",
       "speakers": [
-        "Jon Hook",
-        "Seth Skorkowski",
-        "Syrinscape Kevin MaCleod"
+        "Jon Hook"
       ],
       "topics": [
         "alienrpg",
@@ -1113,9 +1013,7 @@
       "enclosure_length": "47762429",
       "itunes_duration": "00:49:44",
       "speakers": [
-        "Jon Hook",
-        "Seth Skorkowski",
-        "Syrinscape Kevin MaCleod"
+        "Jon Hook"
       ],
       "topics": [
         "alienrpg",
@@ -1135,9 +1033,7 @@
       "enclosure_length": "51895841",
       "itunes_duration": "00:54:02",
       "speakers": [
-        "Jon Hook",
-        "Seth Skorkowski",
-        "Syrinscape Kevin MaCleod"
+        "Jon Hook"
       ],
       "topics": [
         "alienrpg",
@@ -1157,9 +1053,7 @@
       "enclosure_length": "38104443",
       "itunes_duration": "00:39:40",
       "speakers": [
-        "Jon Hook",
-        "Seth Skorkowski",
-        "Syrinscape Kevin MaCleod"
+        "Jon Hook"
       ],
       "topics": [
         "alienrpg",
@@ -1179,7 +1073,7 @@
       "enclosure_length": "49254429",
       "itunes_duration": "00:51:17",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -1199,9 +1093,7 @@
       "enclosure_length": "51472042",
       "itunes_duration": "00:53:36",
       "speakers": [
-        "Jon Hook",
-        "Seth Skorkowski",
-        "Syrinscape Kevin MaCleod"
+        "Jon Hook"
       ],
       "topics": [
         "alienrpg",
@@ -1222,7 +1114,7 @@
       "enclosure_length": "57486044",
       "itunes_duration": "00:59:52",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -1242,13 +1134,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82474683",
       "itunes_duration": "01:25:54",
-      "speakers": [
-        "Seth Skorkowsky",
-        "Danny Scott",
-        "Joe Trier",
-        "Rina Haenze",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "darkness"
@@ -1265,13 +1151,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54442418",
       "itunes_duration": "00:56:42",
-      "speakers": [
-        "Seth Skorkowsky",
-        "Danny Scott",
-        "Joe Trier",
-        "Rina Haenze",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "darkness"
@@ -1288,13 +1168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53927820",
       "itunes_duration": "00:56:10",
-      "speakers": [
-        "Seth Skorkowsky",
-        "Danny Scott",
-        "Joe Trier",
-        "Rina Haenze",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "darkness"
@@ -1311,13 +1185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60587321",
       "itunes_duration": "01:03:06",
-      "speakers": [
-        "Seth Skorkowsky",
-        "Danny Scott",
-        "Joe Trier",
-        "Rina Haenze",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "darkness"
@@ -1335,7 +1203,7 @@
       "enclosure_length": "54128550",
       "itunes_duration": "00:56:22",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -1356,8 +1224,7 @@
       "enclosure_length": "60185820",
       "itunes_duration": "01:02:41",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Cthulhu Fish"
       ],
       "topics": [
         "cthulhu",
@@ -1380,8 +1247,7 @@
       "enclosure_length": "57960137",
       "itunes_duration": "01:00:21",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Cthulhu Fish"
       ],
       "topics": [
         "cthulhu",
@@ -1423,8 +1289,7 @@
       "enclosure_length": "57617431",
       "itunes_duration": "01:00:00",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Cthulhu Fish"
       ],
       "topics": [
         "cthulhu",
@@ -1446,8 +1311,7 @@
       "enclosure_length": "48941323",
       "itunes_duration": "00:50:58",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Cthulhu Fish"
       ],
       "topics": [
         "cthulhu",
@@ -1468,9 +1332,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58561718",
       "itunes_duration": "01:00:59",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -1489,8 +1351,7 @@
       "enclosure_length": "44499784",
       "itunes_duration": "00:46:20",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Cthulhu Fish"
       ],
       "topics": [
         "cthulhu",
@@ -1510,9 +1371,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76328160",
       "itunes_duration": "01:19:29",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "static"
       ]
@@ -1528,9 +1387,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61405076",
       "itunes_duration": "01:03:57",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1549,7 +1406,8 @@
       "enclosure_length": "51958142",
       "itunes_duration": "00:54:06",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "Feckless Flailing"
       ],
       "topics": [
         "headed",
@@ -1570,9 +1428,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46503041",
       "itunes_duration": "00:48:26",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1591,7 +1447,8 @@
       "enclosure_length": "51016593",
       "itunes_duration": "00:53:08",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "Entirely Necessary Stealth"
       ],
       "topics": [
         "headed",
@@ -1613,9 +1470,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43537261",
       "itunes_duration": "00:45:20",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1634,7 +1489,7 @@
       "enclosure_length": "45327878",
       "itunes_duration": "00:47:12",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -1653,9 +1508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49058919",
       "itunes_duration": "00:51:05",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1695,9 +1548,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46293084",
       "itunes_duration": "00:48:12",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1736,9 +1587,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52713194",
       "itunes_duration": "00:54:54",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1778,9 +1627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42123374",
       "itunes_duration": "00:43:52",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1820,9 +1667,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39205108",
       "itunes_duration": "00:40:49",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1861,9 +1706,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42059895",
       "itunes_duration": "00:43:48",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "ties",
@@ -1920,7 +1763,7 @@
       "enclosure_length": "46252848",
       "itunes_duration": "00:48:10",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Medium Vote"
       ],
       "topics": [
         "kult",
@@ -2144,8 +1987,7 @@
       "enclosure_length": "68428828",
       "itunes_duration": "01:11:15",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "Karl Casey White Bat"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "saturday",
@@ -2186,8 +2028,7 @@
       "enclosure_length": "57941537",
       "itunes_duration": "01:00:20",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "Karl Casey White Bat"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "saturday"
@@ -2227,8 +2068,7 @@
       "enclosure_length": "57978363",
       "itunes_duration": "01:00:22",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "Karl Casey White Bat"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "saturday",
@@ -2269,8 +2109,7 @@
       "enclosure_length": "52758172",
       "itunes_duration": "00:54:56",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "Karl Casey White Bat"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "saturday",
@@ -2310,9 +2149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50400247",
       "itunes_duration": "00:52:29",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2331,9 +2168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49686490",
       "itunes_duration": "00:51:44",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2372,9 +2207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55093756",
       "itunes_duration": "00:57:22",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2414,9 +2247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56722685",
       "itunes_duration": "00:59:04",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2457,9 +2288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50540854",
       "itunes_duration": "00:52:38",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2500,9 +2329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50675721",
       "itunes_duration": "00:52:46",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rootrpg",
         "shift",
@@ -2540,9 +2367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30567897",
       "itunes_duration": "00:31:49",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2561,9 +2386,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64556335",
       "itunes_duration": "01:07:13",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2601,9 +2424,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46749148",
       "itunes_duration": "00:48:41",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2643,9 +2464,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45104003",
       "itunes_duration": "00:46:58",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2687,9 +2506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49387764",
       "itunes_duration": "00:51:26",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2707,9 +2524,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44940477",
       "itunes_duration": "00:46:48",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "headed",
         "serpent",
@@ -2729,9 +2544,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41468864",
       "itunes_duration": "00:43:11",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2749,9 +2562,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63721315",
       "itunes_duration": "00:44:14",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2789,9 +2600,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62032509",
       "itunes_duration": "00:43:04",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2832,9 +2641,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76813058",
       "itunes_duration": "00:53:20",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2875,9 +2682,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77085520",
       "itunes_duration": "00:53:31",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2896,9 +2701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61307680",
       "itunes_duration": "00:42:33",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2939,7 +2742,7 @@
       "enclosure_length": "64949760",
       "itunes_duration": "01:07:39",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Auril Arrives"
       ],
       "topics": [
         "rime",
@@ -2958,9 +2761,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46127630",
       "itunes_duration": "00:48:02",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -2980,9 +2781,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43444862",
       "itunes_duration": "00:45:15",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -3003,7 +2802,7 @@
       "enclosure_length": "53107202",
       "itunes_duration": "00:55:19",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Survival Rime"
       ],
       "topics": [
         "rime",
@@ -3042,9 +2841,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48620420",
       "itunes_duration": "00:50:38",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -3063,9 +2860,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44528300",
       "itunes_duration": "00:46:23",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "alienrpg",
         "chariot",
@@ -3368,7 +3163,7 @@
       "enclosure_length": "53255710",
       "itunes_duration": "00:55:29",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Patron Rime"
       ],
       "topics": [
         "rime",
@@ -3431,8 +3226,7 @@
       "enclosure_length": "69751784",
       "itunes_duration": "01:12:39",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3475,7 +3269,7 @@
       "enclosure_length": "103521371",
       "itunes_duration": "01:47:50",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Below Rime"
       ],
       "topics": [
         "rime",
@@ -3495,8 +3289,7 @@
       "enclosure_length": "49174933",
       "itunes_duration": "00:51:13",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3538,9 +3331,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73500831",
       "itunes_duration": "01:16:33",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -3560,8 +3351,7 @@
       "enclosure_length": "63211545",
       "itunes_duration": "01:05:50",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3583,7 +3373,7 @@
       "enclosure_length": "88136399",
       "itunes_duration": "01:31:49",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Dubious Bargain Rime"
       ],
       "topics": [
         "rime",
@@ -3647,8 +3437,7 @@
       "enclosure_length": "54702656",
       "itunes_duration": "00:56:58",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3670,9 +3459,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75032644",
       "itunes_duration": "01:18:09",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -3714,7 +3501,7 @@
       "enclosure_length": "84046276",
       "itunes_duration": "01:27:32",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Death Rime"
       ],
       "topics": [
         "rime",
@@ -3736,8 +3523,7 @@
       "enclosure_length": "53822847",
       "itunes_duration": "00:56:03",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3760,7 +3546,7 @@
       "enclosure_length": "73747862",
       "itunes_duration": "01:16:49",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Ice Rime"
       ],
       "topics": [
         "rime",
@@ -3802,7 +3588,7 @@
       "enclosure_length": "44897283",
       "itunes_duration": "00:46:46",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Flat Rocks Rime"
       ],
       "topics": [
         "rime",
@@ -3822,10 +3608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53331533",
       "itunes_duration": "00:55:33",
-      "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
-      ],
+      "speakers": [],
       "topics": [
         "flotsam",
         "jetsam",
@@ -3845,8 +3628,7 @@
       "enclosure_length": "42306365",
       "itunes_duration": "00:44:03",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3867,7 +3649,7 @@
       "enclosure_length": "54710229",
       "itunes_duration": "00:56:59",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Bell Rime"
       ],
       "topics": [
         "rime",
@@ -3909,7 +3691,7 @@
       "enclosure_length": "48096410",
       "itunes_duration": "00:50:06",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Escape Rime"
       ],
       "topics": [
         "rime",
@@ -3930,8 +3712,7 @@
       "enclosure_length": "55391877",
       "itunes_duration": "00:57:41",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3953,7 +3734,7 @@
       "enclosure_length": "54042230",
       "itunes_duration": "00:56:17",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Lockdown Rime"
       ],
       "topics": [
         "rime",
@@ -3974,8 +3755,7 @@
       "enclosure_length": "56336072",
       "itunes_duration": "00:58:40",
       "speakers": [
-        "Syrinscape Kevin MaCleod",
-        "com Katakros"
+        "Syrinscape Kevin MaCleod"
       ],
       "topics": [
         "flotsam",
@@ -3997,7 +3777,7 @@
       "enclosure_length": "56726876",
       "itunes_duration": "00:59:05",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Prison Break Rime"
       ],
       "topics": [
         "rime",
@@ -4040,7 +3820,7 @@
       "enclosure_length": "83588295",
       "itunes_duration": "01:27:04",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Ancient Secrets Rime"
       ],
       "topics": [
         "rime",
@@ -4085,8 +3865,7 @@
       "enclosure_length": "76418621",
       "itunes_duration": "01:19:36",
       "speakers": [
-        "Nerthril Burnt",
-        "Syrinscape Kevin MaCleod"
+        "Nerthril Burnt"
       ],
       "topics": [
         "rime",
@@ -4130,8 +3909,7 @@
       "enclosure_length": "85930538",
       "itunes_duration": "01:29:30",
       "speakers": [
-        "Kevin Rime",
-        "Syrinscape Kevin MaCleod"
+        "Kevin Rime"
       ],
       "topics": [
         "rime",
@@ -4194,7 +3972,8 @@
       "enclosure_length": "47795107",
       "itunes_duration": "00:49:47",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Destructions Light",
+        "Defense Rime"
       ],
       "topics": [
         "rime",
@@ -4215,7 +3994,8 @@
       "enclosure_length": "42741561",
       "itunes_duration": "00:44:31",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Destructions Light",
+        "Rewards Rime"
       ],
       "topics": [
         "rime",
@@ -4257,7 +4037,7 @@
       "enclosure_length": "37337284",
       "itunes_duration": "00:38:53",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Chardalyn Rime"
       ],
       "topics": [
         "rime",
@@ -4299,7 +4079,7 @@
       "enclosure_length": "46754740",
       "itunes_duration": "00:48:42",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Conflict Rime"
       ],
       "topics": [
         "rime",
@@ -4320,7 +4100,7 @@
       "enclosure_length": "72519826",
       "itunes_duration": "01:15:33",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Infiltration Rime"
       ],
       "topics": [
         "rime",
@@ -4340,9 +4120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56731376",
       "itunes_duration": "00:59:06",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -4425,7 +4203,7 @@
       "enclosure_length": "41969476",
       "itunes_duration": "00:43:43",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Possessed Rime"
       ],
       "topics": [
         "rime",
@@ -4445,7 +4223,7 @@
       "enclosure_length": "70102777",
       "itunes_duration": "01:13:01",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Assassins Rime"
       ],
       "topics": [
         "rime",
@@ -4508,7 +4286,7 @@
       "enclosure_length": "72068071",
       "itunes_duration": "01:15:04",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Duergar Rime"
       ],
       "topics": [
         "rime",
@@ -4550,7 +4328,7 @@
       "enclosure_length": "64788471",
       "itunes_duration": "01:07:29",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Caer Konig Rime"
       ],
       "topics": [
         "rime",
@@ -4592,7 +4370,7 @@
       "enclosure_length": "69492599",
       "itunes_duration": "01:12:23",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Best Served Cold Rime"
       ],
       "topics": [
         "rime",
@@ -4615,7 +4393,7 @@
       "enclosure_length": "82198949",
       "itunes_duration": "01:25:37",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Death Rime"
       ],
       "topics": [
         "rime",
@@ -4659,7 +4437,7 @@
       "enclosure_length": "79380797",
       "itunes_duration": "01:22:41",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Goat Ball Rime"
       ],
       "topics": [
         "rime",
@@ -4804,8 +4582,7 @@
       "enclosure_length": "57982368",
       "itunes_duration": "01:00:23",
       "speakers": [
-        "NaturallyOrla Find",
-        "Syrinscape Kevin MaCleod"
+        "Grave Rime"
       ],
       "topics": [
         "rime",
@@ -4848,8 +4625,7 @@
       "enclosure_length": "58595557",
       "itunes_duration": "01:01:02",
       "speakers": [
-        "NaturallyOrla Find",
-        "Syrinscape Kevin MaCleod"
+        "Forest Rime"
       ],
       "topics": [
         "rime",
@@ -4892,7 +4668,7 @@
       "enclosure_length": "50324984",
       "itunes_duration": "00:52:25",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Strawberry Fields Forever Rime"
       ],
       "topics": [
         "rime",
@@ -4933,9 +4709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57602521",
       "itunes_duration": "01:00:00",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -4954,9 +4728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57429868",
       "itunes_duration": "00:59:49",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -4976,9 +4748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51919917",
       "itunes_duration": "00:54:05",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -5056,10 +4826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52892252",
       "itunes_duration": "00:55:05",
-      "speakers": [
-        "Virgina tabletophoard Find",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -5121,8 +4888,7 @@
       "enclosure_length": "48419506",
       "itunes_duration": "00:50:26",
       "speakers": [
-        "Virgina tabletophoard Find",
-        "Syrinscape Kevin MaCleod"
+        "Sky Rime"
       ],
       "topics": [
         "rime",
@@ -5635,9 +5401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42981266",
       "itunes_duration": "00:44:42",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "nyarathotep",
@@ -5736,7 +5500,7 @@
       "enclosure_length": "42989367",
       "itunes_duration": "00:44:47",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "product Mu"
       ],
       "topics": [
         "murder",
@@ -5756,9 +5520,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44772357",
       "itunes_duration": "00:46:38",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "nyarlathotep",
@@ -5799,9 +5561,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53310442",
       "itunes_duration": "00:55:32",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "nyarlathotep",
@@ -5820,13 +5580,31 @@
       "enclosure_length": "44369051",
       "itunes_duration": "00:46:13",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "product Mu"
       ],
       "topics": [
         "murder",
         "eberron",
         "express",
         "fairhaven"
+      ]
+    },
+    {
+      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
+      "title": "005 - Mask of Nyarlathotep - Peru",
+      "published_at": "2020-02-19T01:00:27+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
+      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39926934",
+      "itunes_duration": "00:41:35",
+      "speakers": [],
+      "topics": [
+        "mask",
+        "nyarlathotep",
+        "peru"
       ]
     },
     {
@@ -5852,26 +5630,6 @@
       ]
     },
     {
-      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
-      "title": "005 - Mask of Nyarlathotep - Peru",
-      "published_at": "2020-02-19T01:00:27+00:00",
-      "link": "http://howwerollpodcast.com/",
-      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
-      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39926934",
-      "itunes_duration": "00:41:35",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
-      "topics": [
-        "mask",
-        "nyarlathotep",
-        "peru"
-      ]
-    },
-    {
       "key": "5534b423f538c8c1d43288d46351a4b634047b77",
       "title": "003 - Murder on the Eberron Express - The Lost Heir.mp3",
       "published_at": "2020-02-04T01:00:12+00:00",
@@ -5883,7 +5641,7 @@
       "enclosure_length": "43722070",
       "itunes_duration": "00:45:33",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "product Mu"
       ],
       "topics": [
         "murder",
@@ -5924,7 +5682,7 @@
       "enclosure_length": "41807381",
       "itunes_duration": "00:43:33",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "product Mu"
       ],
       "topics": [
         "murder",
@@ -5944,9 +5702,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51854436",
       "itunes_duration": "00:53:55",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "mask",
         "nyarlathotep",
@@ -5965,9 +5721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42867760",
       "itunes_duration": "00:44:34",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "nyarlathotep",
@@ -6008,9 +5762,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59024390",
       "itunes_duration": "01:01:23",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "nyarathotep",
@@ -6030,7 +5782,7 @@
       "enclosure_length": "34627259",
       "itunes_duration": "00:36:04",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "product Mu"
       ],
       "topics": [
         "murder",
@@ -6050,9 +5802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55273641",
       "itunes_duration": "00:57:29",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "masks",
         "peru",
@@ -6902,8 +6652,10 @@
       "enclosure_length": "57794080",
       "itunes_duration": "00:49:53",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Spencer Randell",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -6928,8 +6680,9 @@
       "enclosure_length": "59223803",
       "itunes_duration": "00:51:06",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -6951,9 +6704,7 @@
       "enclosure_length": "68061154",
       "itunes_duration": "01:00:51",
       "speakers": [
-        "Charles Returns",
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Charles Returns"
       ],
       "topics": [
         "headed",
@@ -6975,12 +6726,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60342543",
       "itunes_duration": "00:57:48",
-      "speakers": [
-        "Josh Perault",
-        "Chris Dupuis Gameguruchris",
-        "Katherine Crane",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "idle",
         "podcast",
@@ -6999,8 +6745,10 @@
       "enclosure_length": "74026695",
       "itunes_duration": "01:05:14",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Random Acts",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7023,8 +6771,9 @@
       "enclosure_length": "61918472",
       "itunes_duration": "01:04:15",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7045,10 +6794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74506114",
       "itunes_duration": "01:17:22",
-      "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "podcon"
       ]
@@ -7065,8 +6811,9 @@
       "enclosure_length": "51029406",
       "itunes_duration": "00:52:55",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7089,8 +6836,9 @@
       "enclosure_length": "47053765",
       "itunes_duration": "00:48:46",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "North Borneo",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7112,8 +6860,9 @@
       "enclosure_length": "65262888",
       "itunes_duration": "01:07:44",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "New York",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7135,8 +6884,9 @@
       "enclosure_length": "53120036",
       "itunes_duration": "00:55:05",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "New York",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7158,8 +6908,8 @@
       "enclosure_length": "50781545",
       "itunes_duration": "00:52:39",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Two Headed Serpent",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7180,9 +6930,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86083149",
       "itunes_duration": "01:29:25",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "kuran"
       ]
@@ -7199,7 +6947,8 @@
       "enclosure_length": "85737516",
       "itunes_duration": "01:29:04",
       "speakers": [
-        "Scott Dorward"
+        "Two Headed Serpent",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7238,7 +6987,8 @@
       "enclosure_length": "46962006",
       "itunes_duration": "00:48:40",
       "speakers": [
-        "Scott Dorward"
+        "Two Headed Serpent",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7279,7 +7029,8 @@
       "enclosure_length": "53752854",
       "itunes_duration": "00:55:45",
       "speakers": [
-        "Scott Dorward"
+        "Two Headed Serpent",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7300,7 +7051,8 @@
       "enclosure_length": "53380019",
       "itunes_duration": "00:55:21",
       "speakers": [
-        "Scott Dorward"
+        "Two Headed Serpent",
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7321,7 +7073,7 @@
       "enclosure_length": "66821604",
       "itunes_duration": "01:09:22",
       "speakers": [
-        "Scott Dorward"
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7343,8 +7095,7 @@
       "enclosure_length": "53678454",
       "itunes_duration": "00:55:40",
       "speakers": [
-        "Dick Jokes",
-        "Scott Dorward"
+        "Dick Jokes"
       ],
       "topics": [
         "headed",
@@ -7385,7 +7136,7 @@
       "enclosure_length": "46185289",
       "itunes_duration": "00:47:52",
       "speakers": [
-        "Scott Dorward"
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7407,8 +7158,7 @@
       "enclosure_length": "52912362",
       "itunes_duration": "00:54:52",
       "speakers": [
-        "Howler Monkeys",
-        "Scott Dorward"
+        "Howler Monkeys"
       ],
       "topics": [
         "headed",
@@ -7431,7 +7181,7 @@
       "enclosure_length": "57673318",
       "itunes_duration": "00:59:50",
       "speakers": [
-        "Scott Dorward"
+        "Headed Serpent"
       ],
       "topics": [
         "headed",
@@ -7452,7 +7202,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52920241",
       "itunes_duration": "00:54:53",
-      "speakers": [],
+      "speakers": [
+        "Headed Serpent"
+      ],
       "topics": [
         "headed",
         "serpent",
@@ -7472,8 +7224,7 @@
       "enclosure_length": "69845075",
       "itunes_duration": "01:12:31",
       "speakers": [
-        "Arkham Asylum",
-        "Syrinscape Kevin MaCleod"
+        "Arkham Asylum"
       ],
       "topics": [
         "cthulhu",
@@ -7493,8 +7244,7 @@
       "enclosure_length": "47273631",
       "itunes_duration": "00:49:00",
       "speakers": [
-        "Arkham Asylum",
-        "Syrinscape Kevin MaCleod"
+        "Arkham Asylum"
       ],
       "topics": [
         "cthulhu",
@@ -7515,8 +7265,7 @@
       "enclosure_length": "50970916",
       "itunes_duration": "00:52:51",
       "speakers": [
-        "Arkham Asylum",
-        "Syrinscape Kevin MaCleod"
+        "Arkham Asylum"
       ],
       "topics": [
         "idol",
@@ -7535,9 +7284,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48824246",
       "itunes_duration": "00:50:37",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "idol",
@@ -7557,8 +7304,7 @@
       "enclosure_length": "57701723",
       "itunes_duration": "00:59:52",
       "speakers": [
-        "Joe Trier",
-        "Syrinscape Kevin MaCleod"
+        "Joe Trier"
       ],
       "topics": [
         "cthulhu",
@@ -7580,8 +7326,7 @@
       "enclosure_length": "85455865",
       "itunes_duration": "01:28:46",
       "speakers": [
-        "Horror Gaming",
-        "Syrinscape Kevin MaCleod"
+        "Horror Gaming"
       ],
       "topics": [
         "paul",
@@ -7626,7 +7371,7 @@
       "enclosure_length": "63179884",
       "itunes_duration": "01:05:34",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Bleak Prospect"
       ],
       "topics": [
         "cthulhu",
@@ -7646,7 +7391,7 @@
       "enclosure_length": "51140170",
       "itunes_duration": "00:53:01",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Bleak Prospect"
       ],
       "topics": [
         "cthuhlu",
@@ -7667,9 +7412,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49482571",
       "itunes_duration": "00:51:18",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "bleak",
@@ -7725,9 +7468,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56968596",
       "itunes_duration": "00:59:06",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "cthulu",
         "bleak",
@@ -7748,7 +7489,7 @@
       "enclosure_length": "51118000",
       "itunes_duration": "00:53:00",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Bleak Prospect"
       ],
       "topics": [
         "cthulhu",
@@ -7769,8 +7510,7 @@
       "enclosure_length": "57099428",
       "itunes_duration": "00:59:14",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -7792,8 +7532,7 @@
       "enclosure_length": "64536173",
       "itunes_duration": "01:06:59",
       "speakers": [
-        "Scott Dorward",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -7814,7 +7553,8 @@
       "enclosure_length": "27595647",
       "itunes_duration": "00:28:30",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Theatre Presents",
+        "Lovecraft Story"
       ],
       "topics": [
         "roll",
@@ -7835,8 +7575,7 @@
       "enclosure_length": "42673540",
       "itunes_duration": "00:44:12",
       "speakers": [
-        "CurseofStrahd Season",
-        "Syrinscape Kevin MaCleod"
+        "CurseofStrahd Season"
       ],
       "topics": [
         "curse",
@@ -7856,9 +7595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58072459",
       "itunes_duration": "01:00:15",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -7879,9 +7616,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80044329",
       "itunes_duration": "01:20:41",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -7916,9 +7651,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49467901",
       "itunes_duration": "00:51:17",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -7938,9 +7671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57454691",
       "itunes_duration": "00:59:36",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8112,8 +7843,7 @@
       "enclosure_length": "24918165",
       "itunes_duration": "00:24:12",
       "speakers": [
-        "Spencer Randall",
-        "Spencer Randell"
+        "Spencer Randall"
       ],
       "topics": [
         "presents",
@@ -8196,9 +7926,7 @@
       "enclosure_length": "37698630",
       "itunes_duration": "00:39:01",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod",
-        "Stygian Fox"
+        "Saffs After"
       ],
       "topics": [
         "curse",
@@ -8220,11 +7948,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50973153",
       "itunes_duration": "00:52:51",
-      "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod",
-        "Stygian Fox"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8248,9 +7972,7 @@
       "enclosure_length": "44987806",
       "itunes_duration": "00:46:37",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod",
-        "Stygian Fox"
+        "Lost Souls After"
       ],
       "topics": [
         "curse",
@@ -8272,9 +7994,7 @@
       "enclosure_length": "38879759",
       "itunes_duration": "00:40:15",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod",
-        "Stygian Fox"
+        "Fuck Warty"
       ],
       "topics": [
         "curse",
@@ -8297,8 +8017,7 @@
       "enclosure_length": "45748516",
       "itunes_duration": "00:47:24",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod"
+        "Colossus After"
       ],
       "topics": [
         "curse",
@@ -8321,8 +8040,7 @@
       "enclosure_length": "60659628",
       "itunes_duration": "01:02:56",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod"
+        "Sulvarax After"
       ],
       "topics": [
         "curse",
@@ -8345,9 +8063,7 @@
       "enclosure_length": "40331729",
       "itunes_duration": "00:41:46",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8367,9 +8083,7 @@
       "enclosure_length": "50373658",
       "itunes_duration": "00:52:14",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8390,9 +8104,7 @@
       "enclosure_length": "47275475",
       "itunes_duration": "00:49:00",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8414,9 +8126,7 @@
       "enclosure_length": "50903678",
       "itunes_duration": "00:52:47",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8438,9 +8148,7 @@
       "enclosure_length": "45667808",
       "itunes_duration": "00:47:19",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8462,9 +8170,7 @@
       "enclosure_length": "59604394",
       "itunes_duration": "01:01:50",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8486,9 +8192,7 @@
       "enclosure_length": "52222250",
       "itunes_duration": "00:54:09",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8509,9 +8213,7 @@
       "enclosure_length": "56307038",
       "itunes_duration": "00:58:24",
       "speakers": [
-        "Scott Dorward",
-        "Robert Randle",
-        "Syrinscape Kevin MaCleod"
+        "Scott Dorward"
       ],
       "topics": [
         "cthulhu",
@@ -8533,8 +8235,7 @@
       "enclosure_length": "35800780",
       "itunes_duration": "00:37:03",
       "speakers": [
-        "Uncle Timothy",
-        "Syrinscape Kevin MaCleod"
+        "Uncle Timothy"
       ],
       "topics": [
         "cthulhu",
@@ -8556,8 +8257,7 @@
       "enclosure_length": "44720013",
       "itunes_duration": "00:46:20",
       "speakers": [
-        "Uncle Timothy",
-        "Syrinscape Kevin MaCleod"
+        "Uncle Timothy"
       ],
       "topics": [
         "cthulhu",
@@ -8580,8 +8280,7 @@
       "enclosure_length": "46032006",
       "itunes_duration": "00:47:42",
       "speakers": [
-        "Uncle Timothy",
-        "Syrinscape Kevin MaCleod"
+        "Uncle Timothy"
       ],
       "topics": [
         "cthulhu",
@@ -8604,8 +8303,7 @@
       "enclosure_length": "47749809",
       "itunes_duration": "00:49:30",
       "speakers": [
-        "Uncle Timothy",
-        "Syrinscape Kevin MaCleod"
+        "Uncle Timothy"
       ],
       "topics": [
         "cthulhu",
@@ -8626,8 +8324,7 @@
       "enclosure_length": "45071552",
       "itunes_duration": "00:46:42",
       "speakers": [
-        "Uncle Timothy",
-        "Syrinscape Kevin MaCleod"
+        "Uncle Timothy"
       ],
       "topics": [
         "cthulhu",
@@ -8649,8 +8346,7 @@
       "enclosure_length": "52835916",
       "itunes_duration": "00:54:47",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod"
+        "Castle Ravenloft"
       ],
       "topics": [
         "curse",
@@ -8670,9 +8366,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45293453",
       "itunes_duration": "00:46:56",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8694,8 +8388,7 @@
       "enclosure_length": "36029387",
       "itunes_duration": "00:37:17",
       "speakers": [
-        "Castle Ravenloft",
-        "Syrinscape Kevin MaCleod"
+        "Castle Ravenlof"
       ],
       "topics": [
         "curse",
@@ -8717,7 +8410,8 @@
       "enclosure_length": "54944436",
       "itunes_duration": "00:56:59",
       "speakers": [
-        "Castle Ravenloft"
+        "Castle Ravenloft",
+        "Served After"
       ],
       "topics": [
         "curse",
@@ -8738,10 +8432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50833833",
       "itunes_duration": "00:52:42",
-      "speakers": [
-        "Nightshade Creations",
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8763,8 +8454,7 @@
       "enclosure_length": "82234655",
       "itunes_duration": "01:25:25",
       "speakers": [
-        "Nightshade Creations",
-        "Syrinscape Kevin MaCleod"
+        "Nightshade Creations"
       ],
       "topics": [
         "curse",
@@ -8785,8 +8475,7 @@
       "enclosure_length": "54793997",
       "itunes_duration": "00:56:50",
       "speakers": [
-        "Nightshade Creations",
-        "Syrinscape Kevin MaCleod"
+        "Nightshade Creations"
       ],
       "topics": [
         "curse",
@@ -8808,8 +8497,7 @@
       "enclosure_length": "50814201",
       "itunes_duration": "00:52:41",
       "speakers": [
-        "Nightshade Creations",
-        "Syrinscape Kevin MaCleod"
+        "Nightshade Creations"
       ],
       "topics": [
         "curse",
@@ -8831,9 +8519,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51942016",
       "itunes_duration": "00:53:52",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8854,9 +8540,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50835067",
       "itunes_duration": "00:52:42",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8877,9 +8561,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78434994",
       "itunes_duration": "01:21:27",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8899,9 +8581,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54751385",
       "itunes_duration": "00:56:47",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8922,9 +8602,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48140079",
       "itunes_duration": "00:49:54",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -8947,7 +8625,7 @@
       "enclosure_length": "40185069",
       "itunes_duration": "00:41:37",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Does Anyone Smell Bacon"
       ],
       "topics": [
         "curse",
@@ -8970,7 +8648,7 @@
       "enclosure_length": "41001380",
       "itunes_duration": "00:42:28",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Make Friends"
       ],
       "topics": [
         "curse",
@@ -8993,9 +8671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38192838",
       "itunes_duration": "00:39:45",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9015,9 +8691,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74225307",
       "itunes_duration": "01:17:04",
-      "speakers": [
-        "Syrinscape Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9037,7 +8711,7 @@
       "enclosure_length": "36103692",
       "itunes_duration": "00:37:22",
       "speakers": [
-        "Syrinscape Kevin MaCleod"
+        "Death House"
       ],
       "topics": [
         "curse",
@@ -9078,9 +8752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35687395",
       "itunes_duration": "00:36:56",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9100,9 +8772,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37635918",
       "itunes_duration": "00:38:57",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9123,9 +8793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38843390",
       "itunes_duration": "00:40:13",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9145,9 +8813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43232822",
       "itunes_duration": "00:44:47",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9169,7 +8835,7 @@
       "enclosure_length": "48120876",
       "itunes_duration": "00:49:53",
       "speakers": [
-        "Kevin MaCleod"
+        "Ragtag Group"
       ],
       "topics": [
         "curse",
@@ -9193,9 +8859,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42812767",
       "itunes_duration": "00:44:21",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9215,9 +8879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41196097",
       "itunes_duration": "00:42:40",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9238,9 +8900,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47892219",
       "itunes_duration": "00:49:38",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9261,9 +8921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49541506",
       "itunes_duration": "00:51:22",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9283,7 +8941,7 @@
       "enclosure_length": "41441851",
       "itunes_duration": "00:42:55",
       "speakers": [
-        "Kevin MaCleod"
+        "Death House"
       ],
       "topics": [
         "curse",
@@ -9304,9 +8962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40490622",
       "itunes_duration": "00:41:56",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "curse",
         "strahd",
@@ -9327,9 +8983,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45565406",
       "itunes_duration": "00:47:13",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "bind"
       ]
@@ -9345,9 +8999,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42136879",
       "itunes_duration": "00:43:39",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "ties",
         "bind",
@@ -9366,9 +9018,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49268108",
       "itunes_duration": "00:51:04",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "ties",
         "bind",
@@ -9388,9 +9038,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44392594",
       "itunes_duration": "00:46:00",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "ties",
         "bind",
@@ -9408,9 +9056,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33871730",
       "itunes_duration": "00:35:02",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9428,9 +9074,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38335550",
       "itunes_duration": "00:39:41",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9449,9 +9093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43991374",
       "itunes_duration": "00:45:35",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9470,9 +9112,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44596201",
       "itunes_duration": "00:46:12",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9492,9 +9132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42486305",
       "itunes_duration": "00:44:01",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9532,9 +9170,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45596345",
       "itunes_duration": "00:47:15",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "edge",
         "darkness",
@@ -9573,9 +9209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54538188",
       "itunes_duration": "00:56:34",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "pulp",
         "cthulhu",
@@ -9596,9 +9230,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52377321",
       "itunes_duration": "00:54:19",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "pulp",
         "cthulhu",
@@ -9617,9 +9249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45597227",
       "itunes_duration": "00:47:15",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "pulp",
         "cthulhu",
@@ -9639,7 +9269,7 @@
       "enclosure_length": "50453455",
       "itunes_duration": "00:52:19",
       "speakers": [
-        "Kevin MaCleod"
+        "Put My Hat"
       ],
       "topics": [
         "pulp",
@@ -9658,9 +9288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42901324",
       "itunes_duration": "00:44:27",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "thelma",
         "louise"
@@ -9677,9 +9305,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45119857",
       "itunes_duration": "00:46:45",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -9694,7 +9320,7 @@
       "enclosure_length": "65432664",
       "itunes_duration": "01:07:55",
       "speakers": [
-        "Kevin MaCleod"
+        "Forget Me Not"
       ],
       "topics": [
         "insanity",
@@ -9712,9 +9338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48252900",
       "itunes_duration": "00:50:01",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "democrat"
       ]
@@ -9731,7 +9355,7 @@
       "enclosure_length": "46303532",
       "itunes_duration": "00:47:59",
       "speakers": [
-        "Kevin MaCleod"
+        "Forget Me Not"
       ],
       "topics": [
         "chicken"
@@ -9748,9 +9372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49685236",
       "itunes_duration": "00:51:31",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "corn"
       ]
@@ -9767,7 +9389,7 @@
       "enclosure_length": "49954849",
       "itunes_duration": "00:51:47",
       "speakers": [
-        "Kevin MaCleod"
+        "One Flew Over"
       ],
       "topics": [
         "flew",
@@ -9789,7 +9411,7 @@
       "enclosure_length": "43584729",
       "itunes_duration": "00:45:09",
       "speakers": [
-        "Kevin MaCleod"
+        "One Flew Over"
       ],
       "topics": [
         "flew",
@@ -9833,10 +9455,7 @@
       "enclosure_length": "37312446",
       "itunes_duration": "00:38:37",
       "speakers": [
-        "Paul Fricker",
-        "Kyle Fergussion",
-        "Brocket Vola",
-        "Kevin MaCleod"
+        "Dockside Dogs"
       ],
       "topics": [
         "dockside",
@@ -9856,12 +9475,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62243191",
       "itunes_duration": "01:04:35",
-      "speakers": [
-        "Paul Fricker",
-        "Kyle Fergussion",
-        "Brocket Vola",
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "dockside",
         "dogs"
@@ -9879,10 +9493,7 @@
       "enclosure_length": "42929727",
       "itunes_duration": "00:44:28",
       "speakers": [
-        "Paul Fricker",
-        "Kyle Fergussion",
-        "Brocket Vola",
-        "Kevin MaCleod"
+        "Dockside Dogs"
       ],
       "topics": [
         "dockside",
@@ -9901,10 +9512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37466641",
       "itunes_duration": "00:38:47",
-      "speakers": [
-        "Johnny Huck",
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "corbitt",
         "unnecessariliy",
@@ -9922,10 +9530,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55266271",
       "itunes_duration": "00:57:19",
-      "speakers": [
-        "Johnny Huck",
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "corbitt",
         "liver",
@@ -9944,10 +9549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44497514",
       "itunes_duration": "00:46:06",
-      "speakers": [
-        "Johnny Huck",
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "corbitt",
         "cthulhu",
@@ -9966,8 +9568,7 @@
       "enclosure_length": "67568818",
       "itunes_duration": "01:10:08",
       "speakers": [
-        "Johnny Huck",
-        "Kevin MaCleod"
+        "Johnny Huck"
       ],
       "topics": [
         "corbitt",
@@ -9986,8 +9587,7 @@
       "enclosure_length": "59901834",
       "itunes_duration": "01:02:09",
       "speakers": [
-        "Johnny Huck",
-        "Kevin MaCleod"
+        "Johnny Huck"
       ],
       "topics": [
         "corbitt",
@@ -10027,10 +9627,7 @@
       "itunes_duration": "01:02:41",
       "speakers": [
         "Mike Mason",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Gerald Frazer",
-        "Kevin MaCleod"
+        "Paul Fricker"
       ],
       "topics": [
         "servant",
@@ -10053,10 +9650,7 @@
       "itunes_duration": "00:47:18",
       "speakers": [
         "Mike Mason",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Gerald Frazer",
-        "Kevin MaCleod"
+        "Paul Fricker"
       ],
       "topics": [
         "servant",
@@ -10076,10 +9670,7 @@
       "itunes_duration": "00:44:54",
       "speakers": [
         "Mike Mason",
-        "Paul Fricker",
-        "Scott Dorward",
-        "Gerald Frazer",
-        "Kevin MaCleod"
+        "Paul Fricker"
       ],
       "topics": [
         "servant",
@@ -10101,7 +9692,7 @@
       "enclosure_length": "38660276",
       "itunes_duration": "00:40:01",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10120,7 +9711,7 @@
       "enclosure_length": "40591248",
       "itunes_duration": "00:42:02",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10139,7 +9730,7 @@
       "enclosure_length": "48668341",
       "itunes_duration": "00:50:27",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10158,7 +9749,7 @@
       "enclosure_length": "48668341",
       "itunes_duration": "00:50:27",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10177,7 +9768,7 @@
       "enclosure_length": "41317673",
       "itunes_duration": "00:42:48",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10197,7 +9788,7 @@
       "enclosure_length": "38088924",
       "itunes_duration": "00:39:26",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10216,7 +9807,7 @@
       "enclosure_length": "49356276",
       "itunes_duration": "00:51:10",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10236,7 +9827,7 @@
       "enclosure_length": "39736529",
       "itunes_duration": "00:41:09",
       "speakers": [
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10255,9 +9846,7 @@
       "enclosure_length": "49401415",
       "itunes_duration": "00:51:13",
       "speakers": [
-        "Bartholomew Ormund",
-        "Johnny Huck",
-        "Kevin MaCleod"
+        "Madness Call"
       ],
       "topics": [
         "sanatorium",
@@ -10345,7 +9934,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38761087",
       "itunes_duration": "00:40:08",
-      "speakers": [],
+      "speakers": [
+        "Fitzgerald Manse"
+      ],
       "topics": [
         "manse",
         "guns"
@@ -10416,10 +10007,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68199946",
       "itunes_duration": "01:10:48",
-      "speakers": [
-        "Kevin MacLeod",
-        "Plain Loafer"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "john"
@@ -10436,10 +10024,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59943150",
       "itunes_duration": "01:02:12",
-      "speakers": [
-        "Kevin MacLeod",
-        "Plain Loafer"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "john"
@@ -10490,9 +10075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80112167",
       "itunes_duration": "01:23:12",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "finale",
@@ -10572,8 +10155,7 @@
       "enclosure_length": "40823586",
       "itunes_duration": "00:42:17",
       "speakers": [
-        "Harold Mudd",
-        "Kevin MacLeod"
+        "Dagon seemingly defeated"
       ],
       "topics": [
         "return",
@@ -10609,8 +10191,7 @@
       "enclosure_length": "45881349",
       "itunes_duration": "00:47:33",
       "speakers": [
-        "Molly Smith",
-        "Mick Tobin"
+        "Molly Smith"
       ],
       "topics": [
         "return",
@@ -10630,8 +10211,7 @@
       "enclosure_length": "43363002",
       "itunes_duration": "00:44:55",
       "speakers": [
-        "Mick Tobin jumps",
-        "Duncan Smith"
+        "Mick Tobin jumps"
       ],
       "topics": [
         "return",
@@ -10712,9 +10292,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52197148",
       "itunes_duration": "00:54:07",
-      "speakers": [
-        "Bartholomew Ormund"
-      ],
+      "speakers": [],
       "topics": [
         "return",
         "innsmouth",
@@ -10734,7 +10312,7 @@
       "enclosure_length": "37201567",
       "itunes_duration": "00:38:30",
       "speakers": [
-        "Will Eoghan"
+        "Dead Light"
       ],
       "topics": [
         "light",
@@ -10752,9 +10330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45697065",
       "itunes_duration": "00:47:21",
-      "speakers": [
-        "Dr Webb"
-      ],
+      "speakers": [],
       "topics": [
         "deadlight"
       ]
@@ -10788,10 +10364,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49851123",
       "itunes_duration": "00:51:41",
-      "speakers": [
-        "Mick Tobin",
-        "Spencer Randell"
-      ],
+      "speakers": [],
       "topics": [
         "dead",
         "light",
@@ -10829,8 +10402,7 @@
       "enclosure_length": "88779486",
       "itunes_duration": "01:32:14",
       "speakers": [
-        "Mick Tobin",
-        "Gerald Hatten"
+        "Mick Tobi"
       ],
       "topics": [
         "escape",
@@ -11002,9 +10574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77822731",
       "itunes_duration": "01:20:49",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "haunting"
       ]
@@ -11020,9 +10590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66211373",
       "itunes_duration": "01:08:43",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "haunting",
         "noise"
@@ -11039,9 +10607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65798021",
       "itunes_duration": "01:08:18",
-      "speakers": [
-        "Kevin MaCleod"
-      ],
+      "speakers": [],
       "topics": [
         "haunting",
         "night",
@@ -11055,92 +10621,93 @@
 
 ## Episodes (newest first)
 
-- 2026-02-17 — 003-Cthulhu Dark - Goodcliffe - An Unwise Promise — speakers: Syrinscape Kevin MaCleod
-- 2026-01-27 — 143 - Two Headed Serpent - Snake Island - An Old Friend Returns — speakers: Syrinscape Kevin MaCleod
+- 2026-02-25 — 144 - Two Headed Serpent - Snake Island - Salut — speakers: Syrinscape Kevin MaCleod
+- 2026-02-17 — 003-Cthulhu Dark - Goodcliffe - An Unwise Promise
+- 2026-01-27 — 143 - Two Headed Serpent - Snake Island - An Old Friend Returns
 - 2026-01-15 — 002-Cthulhu Dark - Goodcliffe - Our story begins — speakers: Syrinscape Kevin MaCleod
-- 2026-01-06 — 142 - Two Headed Serpent - Snake Island - Femme Fatale — speakers: Syrinscape Kevin MaCleod
-- 2025-12-08 — 001-Cthulhu Dark - Goodcliffe - Session 0 — speakers: Syrinscape Kevin MaCleod
+- 2026-01-06 — 142 - Two Headed Serpent - Snake Island - Femme Fatale
+- 2025-12-08 — 001-Cthulhu Dark - Goodcliffe - Session 0
 - 2025-11-26 — 141 - Two Headed Serpent - Snake Island - Sitting in the Cuck Chair — speakers: Syrinscape Kevin MaCleod
-- 2025-11-17 — 003 - Friends of Dorothy - Family — speakers: Dorothy Family June, Syrinscape Kevin MaCleod
+- 2025-11-17 — 003 - Friends of Dorothy - Family — speakers: Dorothy Family June
 - 2025-11-04 — 140 - Two Headed Serpent - Snake Island - Julians Jizz Box — speakers: Jizz Box, Syrinscape Kevin MaCleod
-- 2025-10-14 — 002 - Friends of Dorothy - Not in Kansas — speakers: Syrinscape Kevin MaCleod
+- 2025-10-14 — 002 - Friends of Dorothy - Not in Kansas — speakers: Kansas June
 - 2025-10-06 — 139 - Two Headed Serpent - Snake Island - The Ass is Willing — speakers: Syrinscape Kevin MaCleod
-- 2025-09-23 — 001 - Friends of Dorothy - Over the Rainbow — speakers: Syrinscape Kevin MaCleod
-- 2025-09-18 — 138 - Two Headed Serpent - Snake Island - Leaving Calcutta — speakers: Syrinscape Kevin MaCleod
+- 2025-09-23 — 001 - Friends of Dorothy - Over the Rainbow — speakers: Rainbow June
+- 2025-09-18 — 138 - Two Headed Serpent - Snake Island - Leaving Calcutta
 - 2025-09-08 — 005 - MÖRK BORG - The Lair of the Frog God - A Suitable Ending — speakers: Syrinscape Kevin MaCleod
 - 2025-08-25 — 004 - MÖRK BORG - The Lair of the Frog God - Exploring the Temple — speakers: Syrinscape Kevin MaCleod
 - 2025-08-04 — 003 - MÖRK BORG - The Lair of the Frog God - Enter Player 4 — speakers: Syrinscape Kevin MaCleod
-- 2025-07-14 — 002 - MÖRK BORG - The Lair of the Frog God - Well well well — speakers: Syrinscape Kevin MaCleod
+- 2025-07-14 — 002 - MÖRK BORG - The Lair of the Frog God - Well well well
 - 2025-07-07 — 137 - Two Headed Serpent -Calcutta - We Out — speakers: Syrinscape Kevin MaCleod
-- 2025-06-30 — 001 - MÖRK BORG - The Lair of the Frog God - Animal Cruelty — speakers: Syrinscape Kevin MaCleod
+- 2025-06-30 — 001 - MÖRK BORG - The Lair of the Frog God - Animal Cruelty
 - 2025-06-23 — 136 - Two Headed Serpent -Calcutta - The How We Roll Hat Trick — speakers: Syrinscape Kevin MaCleod
-- 2025-06-16 — 018 - Flotsam & Jestam 3 - Insanitarium - Alls well that ends well — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2025-05-07 — 017 - Flotsam & Jestam 3 - Insanitarium - A Turkey Baster and a Jazz Record — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
+- 2025-06-16 — 018 - Flotsam & Jestam 3 - Insanitarium - Alls well that ends well
+- 2025-05-07 — 017 - Flotsam & Jestam 3 - Insanitarium - A Turkey Baster and a Jazz Record — speakers: Turkey Baster
 - 2025-04-24 — 135 - Two Headed Serpent -Calcutta - The Cobra Crown Unearthed — speakers: Syrinscape Kevin MaCleod
-- 2025-04-08 — 016 - Flotsam & Jetsam 3 - Insanitarium - Two Pistols are Bettern than One — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2025-03-27 — 015 - Flotsam & Jetsam 3 - Insanitarium - Sucker Punch — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
+- 2025-04-08 — 016 - Flotsam & Jetsam 3 - Insanitarium - Two Pistols are Bettern than One — speakers: Two Pistols
+- 2025-03-27 — 015 - Flotsam & Jetsam 3 - Insanitarium - Sucker Punch
 - 2025-03-18 — 134 - Two Headed Serpent -Calcutta - Manic Pixie Dream Gaul — speakers: Syrinscape Kevin MaCleod
-- 2025-03-10 — 014 - Flotsam & Jestam 3 - Insanitarium - Freshwater Fish — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
+- 2025-03-10 — 014 - Flotsam & Jestam 3 - Insanitarium - Freshwater Fish
 - 2025-02-24 — 133 - Two Headed Serpent -Calcutta - What Charles has been up to — speakers: Syrinscape Kevin MaCleod
-- 2025-02-14 — 013 - Flotsam & Jestam 3 - Insanitarium - The Sanatorium — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2025-02-06 — 132 - Two Headed Serpent -Calcutta - Battle in the Grand Hotel — speakers: Syrinscape Kevin MaCleod
-- 2025-01-30 — 012 - Flotsam & Jestam 3 - Insanitarium - Expert Plans — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2025-01-09 — 131 - Two Headed Serpent -Calcutta - Where did Jane go — speakers: Syrinscape Kevin MaCleod
-- 2025-01-02 — 011 - Flotsam & Jestam 3 - Insanitarium - Horny Englishmen — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-12-27 — 130 - Two Headed Serpent -Calcutta - King of Dickheads — speakers: Syrinscape Kevin MaCleod
-- 2024-12-11 — 010 - Flotsam & Jestam 3 - Insanitarium - Bathtub magic — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-12-03 — 129 - Two Headed Serpent -Calcutta - We are back baby — speakers: Syrinscape Kevin MaCleod
-- 2024-11-20 — 009 - Flotsam & Jetsam 3 - Insanitarium - It would be terrible to die and still have some luck left — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan
-- 2024-11-12 — 008 - Flotsam & Jestam 3 - Insanitarium - Clouds before the Storm — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-10-30 — 007 - Flotsam & Jestam 3 - Insanitarium - The Detritus after the Orgy — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-10-22 — 002 - MÖRK BORG - The Black Stump — speakers: Syrinscape Kevin MaCleod
-- 2024-10-14 — 006 - Flotsam & Jestam 3 - Insanitarium - Yours for just a dollar fifty — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-10-03 — 001 - MÖRK BORG - The Black Stump — speakers: Syrinscape Kevin MaCleod
-- 2024-09-17 — 005 - Flotsam & Jestam 3 - Insanitarium - Flirtation or Blackmail — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-09-09 — 004 - Flotsam & Jestam 3 - Insanitarium - Potential Orgy — speakers: Scott Dorward, Seth Skorkowsky, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-09-02 — 003 - Flotsam & Jestam 3 - Insanitarium - Uteri — speakers: Scott Dorward, Seth Skorkowski, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-08-12 — 002 - Flotsam & Jestam 3 - Insanitarium - Strange but True — speakers: Scott Dorward, Seth Skorkowski, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-08-05 — 001 - Flotsam & Jestam - Insanitarium - A New Case — speakers: Scott Dorward, Seth Skorkowski, HowWeRoll Joe, HowWeRoll Eoghan, Syrinscape Kevin MaCleod
-- 2024-07-18 — 005 - AlienRPG - Fallout - Trapped — speakers: Jon Hook, Seth Skorkowski, Syrinscape Kevin MaCleod
-- 2024-07-11 — 004 - AlienRPG - Fallout - Hand-I-Pus — speakers: Jon Hook, Seth Skorkowski, Syrinscape Kevin MaCleod
-- 2024-07-04 — 003 - AlienRPG - Fallout - Hive — speakers: Jon Hook, Seth Skorkowski, Syrinscape Kevin MaCleod
-- 2024-06-19 — 002 - AlienRPG - Fallout - Back to the Ship — speakers: Jon Hook, Seth Skorkowski, Syrinscape Kevin MaCleod
-- 2024-06-12 — 128 - Two Headed Serpent -The B Team - THE END — speakers: Syrinscape Kevin MaCleod
-- 2024-05-24 — 001 - AlienRPG - Fallout - A Brief Landing — speakers: Jon Hook, Seth Skorkowski, Syrinscape Kevin MaCleod
-- 2024-05-16 — 127 - Two Headed Serpent -The B Team - He is not a rickshaw — speakers: Syrinscape Kevin MaCleod
-- 2024-05-10 — 004 - Call of Cthulhu - In Darkness We Wait — speakers: Seth Skorkowsky, Danny Scott, Joe Trier, Rina Haenze, Syrinscape Kevin MaCleod
-- 2024-05-03 — 003 - Call of Cthulhu - In Darkness We Wait — speakers: Seth Skorkowsky, Danny Scott, Joe Trier, Rina Haenze, Syrinscape Kevin MaCleod
-- 2024-04-17 — 002 - Call of Cthulhu - In Darkness We Wait — speakers: Seth Skorkowsky, Danny Scott, Joe Trier, Rina Haenze, Syrinscape Kevin MaCleod
-- 2024-04-10 — 001 - Call of Cthulhu - In Darkness We Wait — speakers: Seth Skorkowsky, Danny Scott, Joe Trier, Rina Haenze, Syrinscape Kevin MaCleod
-- 2024-04-04 — 126 - Two Headed Serpent -The B Team - Vomit facial — speakers: Syrinscape Kevin MaCleod
-- 2024-03-28 — 005 - Call of Cthulhu Fish in a Barrel - Straight from the bung hole — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2024-03-20 — 004 - Call of Cthulhu Fish in a Barrel - Checks and Balances — speakers: Scott Dorward, Syrinscape Kevin MaCleod
+- 2025-02-14 — 013 - Flotsam & Jestam 3 - Insanitarium - The Sanatorium
+- 2025-02-06 — 132 - Two Headed Serpent -Calcutta - Battle in the Grand Hotel — speakers: headed serpent
+- 2025-01-30 — 012 - Flotsam & Jestam 3 - Insanitarium - Expert Plans
+- 2025-01-09 — 131 - Two Headed Serpent -Calcutta - Where did Jane go
+- 2025-01-02 — 011 - Flotsam & Jestam 3 - Insanitarium - Horny Englishmen
+- 2024-12-27 — 130 - Two Headed Serpent -Calcutta - King of Dickheads — speakers: headed serpent
+- 2024-12-11 — 010 - Flotsam & Jestam 3 - Insanitarium - Bathtub magic
+- 2024-12-03 — 129 - Two Headed Serpent -Calcutta - We are back baby — speakers: headed serpent
+- 2024-11-20 — 009 - Flotsam & Jetsam 3 - Insanitarium - It would be terrible to die and still have some luck left
+- 2024-11-12 — 008 - Flotsam & Jestam 3 - Insanitarium - Clouds before the Storm
+- 2024-10-30 — 007 - Flotsam & Jestam 3 - Insanitarium - The Detritus after the Orgy
+- 2024-10-22 — 002 - MÖRK BORG - The Black Stump — speakers: Angry Liches
+- 2024-10-14 — 006 - Flotsam & Jestam 3 - Insanitarium - Yours for just a dollar fifty
+- 2024-10-03 — 001 - MÖRK BORG - The Black Stump — speakers: Angry Liches
+- 2024-09-17 — 005 - Flotsam & Jestam 3 - Insanitarium - Flirtation or Blackmail
+- 2024-09-09 — 004 - Flotsam & Jestam 3 - Insanitarium - Potential Orgy
+- 2024-09-02 — 003 - Flotsam & Jestam 3 - Insanitarium - Uteri
+- 2024-08-12 — 002 - Flotsam & Jestam 3 - Insanitarium - Strange but True
+- 2024-08-05 — 001 - Flotsam & Jestam - Insanitarium - A New Case
+- 2024-07-18 — 005 - AlienRPG - Fallout - Trapped — speakers: Jon Hook
+- 2024-07-11 — 004 - AlienRPG - Fallout - Hand-I-Pus — speakers: Jon Hook
+- 2024-07-04 — 003 - AlienRPG - Fallout - Hive — speakers: Jon Hook
+- 2024-06-19 — 002 - AlienRPG - Fallout - Back to the Ship — speakers: Jon Hook
+- 2024-06-12 — 128 - Two Headed Serpent -The B Team - THE END — speakers: Two Headed Serpent
+- 2024-05-24 — 001 - AlienRPG - Fallout - A Brief Landing — speakers: Jon Hook
+- 2024-05-16 — 127 - Two Headed Serpent -The B Team - He is not a rickshaw — speakers: Two Headed Serpent
+- 2024-05-10 — 004 - Call of Cthulhu - In Darkness We Wait
+- 2024-05-03 — 003 - Call of Cthulhu - In Darkness We Wait
+- 2024-04-17 — 002 - Call of Cthulhu - In Darkness We Wait
+- 2024-04-10 — 001 - Call of Cthulhu - In Darkness We Wait
+- 2024-04-04 — 126 - Two Headed Serpent -The B Team - Vomit facial — speakers: Two Headed Serpent
+- 2024-03-28 — 005 - Call of Cthulhu Fish in a Barrel - Straight from the bung hole — speakers: Cthulhu Fish
+- 2024-03-20 — 004 - Call of Cthulhu Fish in a Barrel - Checks and Balances — speakers: Cthulhu Fish
 - 2024-03-13 — 125 - Two Headed Serpent -The B Team - Bra of holding — speakers: Syrinscape Kevin MaCleod
-- 2024-03-06 — 003 - Call of Cthulhu Fish in a Barrel - Multiple fumbles — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2024-02-21 — 002 - Call of Cthulhu Fish in a Barrel - Split the party — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2024-02-13 — 124 - Two Headed Serpent -The B Team - Whats Mu Got To Do With It — speakers: Syrinscape Kevin MaCleod
-- 2024-02-07 — 001 - Call of Cthulhu Fish in a Barrel - The Juice — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2024-01-25 — Alone Against the Static — speakers: Syrinscape Kevin MaCleod
-- 2024-01-19 — 014 - KULT - Our Ties Below - Goodbye — speakers: Syrinscape Kevin MaCleod
-- 2024-01-10 — 123 - Two Headed Serpent -The B Team - Feckless Flailing — speakers: Syrinscape Kevin MaCleod
-- 2024-01-02 — 013 - KULT - Our Ties Below - Battle — speakers: Syrinscape Kevin MaCleod
-- 2023-12-19 — 122 - Two Headed Serpent -The B Team - Entirely Necessary Stealth — speakers: Syrinscape Kevin MaCleod
-- 2023-12-05 — 012 - KULT - Our Ties Below - Repercussions — speakers: Syrinscape Kevin MaCleod
-- 2023-11-29 — 121 - Two Headed Serpent -The B Team - Just the Tip — speakers: Syrinscape Kevin MaCleod
-- 2023-11-22 — 011 - KULT - Our Ties Below - The Door to Insanity — speakers: Syrinscape Kevin MaCleod
+- 2024-03-06 — 003 - Call of Cthulhu Fish in a Barrel - Multiple fumbles — speakers: Cthulhu Fish
+- 2024-02-21 — 002 - Call of Cthulhu Fish in a Barrel - Split the party — speakers: Cthulhu Fish
+- 2024-02-13 — 124 - Two Headed Serpent -The B Team - Whats Mu Got To Do With It
+- 2024-02-07 — 001 - Call of Cthulhu Fish in a Barrel - The Juice — speakers: Cthulhu Fish
+- 2024-01-25 — Alone Against the Static
+- 2024-01-19 — 014 - KULT - Our Ties Below - Goodbye
+- 2024-01-10 — 123 - Two Headed Serpent -The B Team - Feckless Flailing — speakers: Two Headed Serpent, Feckless Flailing
+- 2024-01-02 — 013 - KULT - Our Ties Below - Battle
+- 2023-12-19 — 122 - Two Headed Serpent -The B Team - Entirely Necessary Stealth — speakers: Two Headed Serpent, Entirely Necessary Stealth
+- 2023-12-05 — 012 - KULT - Our Ties Below - Repercussions
+- 2023-11-29 — 121 - Two Headed Serpent -The B Team - Just the Tip — speakers: Two Headed Serpent
+- 2023-11-22 — 011 - KULT - Our Ties Below - The Door to Insanity
 - 2023-11-16 — 120 - Two Headed Serpent -The B Team - Become the Banana — speakers: Syrinscape Kevin MaCleod
-- 2023-11-02 — 010 - KULT - Our Ties Below - Regrets — speakers: Syrinscape Kevin MaCleod
+- 2023-11-02 — 010 - KULT - Our Ties Below - Regrets
 - 2023-10-24 — 119 - Two Headed Serpent -The B Team - 5 little piggies — speakers: Syrinscape Kevin MaCleod
-- 2023-10-10 — 009 - KULT - Our Ties Below - Under London — speakers: Syrinscape Kevin MaCleod
+- 2023-10-10 — 009 - KULT - Our Ties Below - Under London
 - 2023-10-03 — 118 - Two Headed Serpent -The B Team - Mind Blown — speakers: Syrinscape Kevin MaCleod
-- 2023-09-20 — 008 - KULT - Our Ties Below - Exit — speakers: Syrinscape Kevin MaCleod
+- 2023-09-20 — 008 - KULT - Our Ties Below - Exit
 - 2023-09-13 — 117 - Two Headed Serpent -The B Team - Conga in the Congo — speakers: Syrinscape Kevin MaCleod
-- 2023-08-30 — 007 - KULT - Our Ties Below - The Club — speakers: Syrinscape Kevin MaCleod
+- 2023-08-30 — 007 - KULT - Our Ties Below - The Club
 - 2023-08-17 — 116 - Two Headed Serpent -The B Team - Hiphopopotamus — speakers: Syrinscape Kevin MaCleod
-- 2023-08-09 — 006 - KULT - Our Ties Below - Answers — speakers: Syrinscape Kevin MaCleod
+- 2023-08-09 — 006 - KULT - Our Ties Below - Answers
 - 2023-08-02 — 115 - Two Headed Serpent -The B Team - Bad Decisions — speakers: Syrinscape Kevin MaCleod
 - 2023-07-20 — Rolling with...everyone!
-- 2023-07-17 — 005 - KULT - Our Ties Below - Medium — speakers: Syrinscape Kevin MaCleod
+- 2023-07-17 — 005 - KULT - Our Ties Below - Medium — speakers: Medium Vote
 - 2023-07-17 — Vote How We Roll to win Best Podcast!
 - 2023-07-13 — 114 - Two Headed Serpent -The B Team - The Breakfast Club — speakers: Syrinscape Kevin MaCleod
 - 2023-07-06 — 004 - KULT - Our Ties Below - Investigations Begin — speakers: Syrinscape Kevin MaCleod
@@ -11151,51 +10718,51 @@
 - 2023-05-17 — 111 - Two Headed Serpent -The B Team - An Entirely Safe Bomb — speakers: Syrinscape Kevin MaCleod
 - 2023-05-10 — 001 - KULT - Our Ties Below - Lost — speakers: Syrinscape Kevin MaCleod
 - 2023-04-26 — 110 - Two Headed Serpent -The B Team - A Village Full of Clues — speakers: Syrinscape Kevin MaCleod
-- 2023-04-11 — 004 - Saturday 14th - Body Count — speakers: Syrinscape Kevin MaCleod, Karl Casey White Bat
+- 2023-04-11 — 004 - Saturday 14th - Body Count — speakers: Syrinscape Kevin MaCleod
 - 2023-04-03 — 109 - Two Headed Serpent -The B Team - Raspberry Tea — speakers: Syrinscape Kevin MaCleod
-- 2023-03-20 — 003 - Saturday 14th - Where are we? — speakers: Syrinscape Kevin MaCleod, Karl Casey White Bat
+- 2023-03-20 — 003 - Saturday 14th - Where are we? — speakers: Syrinscape Kevin MaCleod
 - 2023-03-07 — 108 - Two Headed Serpent -The B Team - Patient Notes — speakers: Syrinscape Kevin MaCleod
-- 2023-02-22 — 002 - Saturday 14th - People Puddle — speakers: Syrinscape Kevin MaCleod, Karl Casey White Bat
+- 2023-02-22 — 002 - Saturday 14th - People Puddle — speakers: Syrinscape Kevin MaCleod
 - 2023-02-16 — 107 - Two Headed Serpent -The B Team - Sexy Flies — speakers: Syrinscape Kevin MaCleod
-- 2023-01-31 — 001 - Saturday 14th - Camp Shady Pines — speakers: Syrinscape Kevin MaCleod, Karl Casey White Bat
+- 2023-01-31 — 001 - Saturday 14th - Camp Shady Pines — speakers: Syrinscape Kevin MaCleod
 - 2023-01-24 — 106 - Two Headed Serpent -The B Team — speakers: Syrinscape Kevin MaCleod
-- 2023-01-17 — 006 - RootRPG - Shift Change - A wild salamander appears — speakers: Syrinscape Kevin MaCleod
-- 2023-01-11 — 005 - RootRPG - Shift Change - a hypothetical episode — speakers: Syrinscape Kevin MaCleod
+- 2023-01-17 — 006 - RootRPG - Shift Change - A wild salamander appears
+- 2023-01-11 — 005 - RootRPG - Shift Change - a hypothetical episode
 - 2023-01-03 — 105 - Two Headed Serpent - New York - Goodbye New York — speakers: Syrinscape Kevin MaCleod
-- 2022-12-20 — 004 - RootRPG - Shift Change - Who's a Badger??? — speakers: Syrinscape Kevin MaCleod
+- 2022-12-20 — 004 - RootRPG - Shift Change - Who's a Badger???
 - 2022-12-08 — 104 - Two Headed Serpent - New York - Leaving the Big Apple — speakers: Syrinscape Kevin MaCleod
-- 2022-11-29 — 003 - RootRPG - Shift Change - Who is that Masked Lizard — speakers: Syrinscape Kevin MaCleod
+- 2022-11-29 — 003 - RootRPG - Shift Change - Who is that Masked Lizard
 - 2022-11-22 — 103 - Two Headed Serpent - New York - My Balls — speakers: Syrinscape Kevin MaCleod
-- 2022-11-09 — 002 - RootRPG - Shift Change - An Unlikely Clue — speakers: Syrinscape Kevin MaCleod
+- 2022-11-09 — 002 - RootRPG - Shift Change - An Unlikely Clue
 - 2022-11-02 — 102 - Two Headed Serpent - New York - Crispy — speakers: Syrinscape Kevin MaCleod
-- 2022-10-26 — 001 - RootRPG - Shift Change - Redmill.mp3 — speakers: Syrinscape Kevin MaCleod
+- 2022-10-26 — 001 - RootRPG - Shift Change - Redmill.mp3
 - 2022-10-12 — 101 - Two Headed Serpent - New York - The End of an Era — speakers: Syrinscape Kevin MaCleod
-- 2022-10-05 — 015 - AlienRPG - Chariot of the Gods - Aftermath — speakers: Syrinscape Kevin MaCleod
-- 2022-09-21 — 014 - AlienRPG - Chariot of the Gods - The Nest.mp3 — speakers: Syrinscape Kevin MaCleod
+- 2022-10-05 — 015 - AlienRPG - Chariot of the Gods - Aftermath
+- 2022-09-21 — 014 - AlienRPG - Chariot of the Gods - The Nest.mp3
 - 2022-09-14 — 100 - Two Headed Serpent - A Noose — speakers: Syrinscape Kevin MaCleod
-- 2022-09-06 — 013 - AlienRPG - Chariot of the Gods - Close Encounters — speakers: Syrinscape Kevin MaCleod
+- 2022-09-06 — 013 - AlienRPG - Chariot of the Gods - Close Encounters
 - 2022-08-31 — 099 - Two Headed Serpent - New York -Ricardo — speakers: Syrinscape Kevin MaCleod
-- 2022-08-24 — 012 - AlienRPG - Chariot of the Gods - Cloak & Dagger — speakers: Syrinscape Kevin MaCleod
+- 2022-08-24 — 012 - AlienRPG - Chariot of the Gods - Cloak & Dagger
 - 2022-08-17 — 098 - Two Headed Serpent - New York - Speak Easy — speakers: Syrinscape Kevin MaCleod
-- 2022-08-09 — 011 - AlienRPG - Chariot of the Gods - New faces.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2022-07-19 — 097 - Two Headed Serpent - New York - Served Cold — speakers: Syrinscape Kevin MaCleod
-- 2022-07-12 — 010 - AlienRPG - Chariot of the Gods - All Alone — speakers: Syrinscape Kevin MaCleod
-- 2022-07-07 — 009 - AlienRPG - Chariot of the Gods - ACT II — speakers: Syrinscape Kevin MaCleod
+- 2022-08-09 — 011 - AlienRPG - Chariot of the Gods - New faces.mp3
+- 2022-07-19 — 097 - Two Headed Serpent - New York - Served Cold
+- 2022-07-12 — 010 - AlienRPG - Chariot of the Gods - All Alone
+- 2022-07-07 — 009 - AlienRPG - Chariot of the Gods - ACT II
 - 2022-06-28 — 096 - Two Headed Serpent - New York - What we are really like.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2022-06-21 — 008 - AlienRPG - Chariot of the Gods - The Dragon — speakers: Syrinscape Kevin MaCleod
+- 2022-06-21 — 008 - AlienRPG - Chariot of the Gods - The Dragon
 - 2022-06-16 — 095 - Two Headed Serpent - New York - Memento Mori — speakers: Syrinscape Kevin MaCleod
-- 2022-06-07 — 007 - AlienRPG - Chariot of the Gods - Environmental Failure — speakers: Syrinscape Kevin MaCleod
+- 2022-06-07 — 007 - AlienRPG - Chariot of the Gods - Environmental Failure
 - 2022-05-24 — 094 - Two Headed Serpent - New York - Off the Rails — speakers: Syrinscape Kevin MaCleod
-- 2022-05-18 — 006 - AlienRPG - Chariot of the Gods - In Space Everyone Can Hear You Scream — speakers: Syrinscape Kevin MaCleod
-- 2022-05-10 — 005 - AlienRPG - Chariot of the Gods - Spores — speakers: Syrinscape Kevin MaCleod
+- 2022-05-18 — 006 - AlienRPG - Chariot of the Gods - In Space Everyone Can Hear You Scream
+- 2022-05-10 — 005 - AlienRPG - Chariot of the Gods - Spores
 - 2022-05-04 — 093 - Two Headed Serpent - New York - Teamwork — speakers: Syrinscape Kevin MaCleod
-- 2022-04-27 — 038 - Rime of the Frostmaiden - Auril Arrives.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2022-04-19 — 004 - AlienRPG - Chariot of the Gods - Brain Confetti — speakers: Syrinscape Kevin MaCleod
-- 2022-04-12 — 003 - AlienRPG - Chariot of the Gods - Secrets and Lies — speakers: Syrinscape Kevin MaCleod
-- 2022-04-06 — 037 - Rime of the Frostmaiden - Survival — speakers: Syrinscape Kevin MaCleod
+- 2022-04-27 — 038 - Rime of the Frostmaiden - Auril Arrives.mp3 — speakers: Auril Arrives
+- 2022-04-19 — 004 - AlienRPG - Chariot of the Gods - Brain Confetti
+- 2022-04-12 — 003 - AlienRPG - Chariot of the Gods - Secrets and Lies
+- 2022-04-06 — 037 - Rime of the Frostmaiden - Survival — speakers: Survival Rime
 - 2022-03-29 — 092 - Two Headed Serpent - New York - Removed.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2022-03-22 — 002 - AlienRPG - Chariot of the Gods - The Chronos — speakers: Syrinscape Kevin MaCleod
-- 2022-03-15 — 001 - AlienRPG - Chariot of the Gods - A Rude Awakening — speakers: Syrinscape Kevin MaCleod
+- 2022-03-22 — 002 - AlienRPG - Chariot of the Gods - The Chronos
+- 2022-03-15 — 001 - AlienRPG - Chariot of the Gods - A Rude Awakening
 - 2022-03-08 — 091 - Two Headed Serpent - New York - Double Oh Bart — speakers: Syrinscape Kevin MaCleod
 - 2022-03-02 — 008 - Flotsam & Jestam - Inheritance - What would the Major do? — speakers: Syrinscape Kevin MaCleod
 - 2022-02-24 — 090 - Two Headed Serpent - New York - Bring Out the Gimp — speakers: Syrinscape Kevin MaCleod
@@ -11209,89 +10776,89 @@
 - 2021-12-22 — 003 - Flotsam & Jetsam - Inheritance - The Duck of Ill Omen — speakers: Syrinscape Kevin MaCleod
 - 2021-12-16 — 002 - Flotsam & Jestam - Inheritance - Anarchy Visits — speakers: Syrinscape Kevin MaCleod
 - 2021-12-08 — 086 - Two Headed Serpent - Iceland - The Inner Night — speakers: Syrinscape Kevin MaCleod
-- 2021-11-25 — 036 - Rime of the Frostmaiden - Ythryn - Patron — speakers: Syrinscape Kevin MaCleod
+- 2021-11-25 — 036 - Rime of the Frostmaiden - Ythryn - Patron — speakers: Patron Rime
 - 2021-11-17 — 001 - Flotsam & Jestam - Inheritance - The Gilman House — speakers: Syrinscape Kevin MaCleod
 - 2021-11-09 — 085 - Two Headed Serpent - Iceland - The Serpent Without — speakers: Syrinscape Kevin MaCleod
-- 2021-11-03 — 009 - Flotsam & Jetsam - The Star Brothers - Home Coming — speakers: Syrinscape Kevin MaCleod, com Katakros
+- 2021-11-03 — 009 - Flotsam & Jetsam - The Star Brothers - Home Coming — speakers: Syrinscape Kevin MaCleod
 - 2021-10-21 — 084 - Two Headed Serpent - Iceland - The Serpent Within — speakers: Syrinscape Kevin MaCleod
-- 2021-10-19 — 035 - Rime of the Frostmaiden - Ythryn - Below — speakers: Syrinscape Kevin MaCleod
-- 2021-10-11 — 008 - Flotsam & Jetsam - The Star Brothers -The Least Dangerous Fish — speakers: Syrinscape Kevin MaCleod, com Katakros
+- 2021-10-19 — 035 - Rime of the Frostmaiden - Ythryn - Below — speakers: Below Rime
+- 2021-10-11 — 008 - Flotsam & Jetsam - The Star Brothers -The Least Dangerous Fish — speakers: Syrinscape Kevin MaCleod
 - 2021-10-04 — 083 - Two Headed Serpent - Iceland - Into the Volcano — speakers: Syrinscape Kevin MaCleod
-- 2021-09-28 — 034 - Rime of the Frostmaiden - Ythryn - The Unicorn — speakers: Syrinscape Kevin MaCleod
-- 2021-09-22 — 007 - Flotsam & Jetsam - The Star Brothers -As they say in America — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-09-08 — 033 - Rime of the Frostmaiden - Grimskalle - A Dubious Bargain — speakers: Syrinscape Kevin MaCleod
+- 2021-09-28 — 034 - Rime of the Frostmaiden - Ythryn - The Unicorn
+- 2021-09-22 — 007 - Flotsam & Jetsam - The Star Brothers -As they say in America — speakers: Syrinscape Kevin MaCleod
+- 2021-09-08 — 033 - Rime of the Frostmaiden - Grimskalle - A Dubious Bargain — speakers: Dubious Bargain Rime
 - 2021-09-07 — 082 - Two Headed Serpent - Iceland - Children must learn to share — speakers: Syrinscape Kevin MaCleod
 - 2021-09-07 — 081 - Two Headed Serpent - Iceland - The Abyss Beckons — speakers: Syrinscape Kevin MaCleod
-- 2021-08-25 — 006 - Flotsam & Jetsam - The Star Brothers - HowWeRoll First Aid Tips — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-08-24 — 032 - Rime of the Frostmaiden - Grimskalle - An Ominous Beginning — speakers: Syrinscape Kevin MaCleod
+- 2021-08-25 — 006 - Flotsam & Jetsam - The Star Brothers - HowWeRoll First Aid Tips — speakers: Syrinscape Kevin MaCleod
+- 2021-08-24 — 032 - Rime of the Frostmaiden - Grimskalle - An Ominous Beginning
 - 2021-08-22 — 080 - Two Headed Serpent - Iceland - Unexpected Simpsons — speakers: Syrinscape Kevin MaCleod
-- 2021-08-18 — 031 - Rime of the Frostmaiden - Grimskalle - The Trials of Ice and Death — speakers: Syrinscape Kevin MaCleod
-- 2021-08-04 — 005 - Flotsam & Jetsam - The Star Brothers - Duck and Covered in Goo — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-08-03 — 030 - Rime of the Frostmaiden - Grimskalle - The Land of Ice — speakers: Syrinscape Kevin MaCleod
+- 2021-08-18 — 031 - Rime of the Frostmaiden - Grimskalle - The Trials of Ice and Death — speakers: Death Rime
+- 2021-08-04 — 005 - Flotsam & Jetsam - The Star Brothers - Duck and Covered in Goo — speakers: Syrinscape Kevin MaCleod
+- 2021-08-03 — 030 - Rime of the Frostmaiden - Grimskalle - The Land of Ice — speakers: Ice Rime
 - 2021-07-29 — 079 - Two Headed Serpent - Iceland - Charles' Fish.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2021-07-27 — 029 - Rime of the Frostmaiden - Flat Rocks — speakers: Syrinscape Kevin MaCleod
-- 2021-07-21 — 004 - Flotsam & Jetsam - The Star Brothers - The Fry Residence.mp3 — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-07-07 — 003 - Flotsam & Jetsam - The Star Brothers - That Sounds Fishy.mp3 — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-07-02 — 028 - Rime of the Frostmaiden - Angajuk's Bell — speakers: Syrinscape Kevin MaCleod
+- 2021-07-27 — 029 - Rime of the Frostmaiden - Flat Rocks — speakers: Flat Rocks Rime
+- 2021-07-21 — 004 - Flotsam & Jetsam - The Star Brothers - The Fry Residence.mp3
+- 2021-07-07 — 003 - Flotsam & Jetsam - The Star Brothers - That Sounds Fishy.mp3 — speakers: Syrinscape Kevin MaCleod
+- 2021-07-02 — 028 - Rime of the Frostmaiden - Angajuk's Bell — speakers: Bell Rime
 - 2021-06-30 — 078 - Two Headed Serpent - Iceland - The Testing Vats — speakers: Syrinscape Kevin MaCleod
-- 2021-06-24 — 027 - Rime of the Frostmaiden - Revel's End - Escape — speakers: Syrinscape Kevin MaCleod
-- 2021-06-23 — 002 - Flotsam & Jetsam - The Star Brothers - Wholesome Fun — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-06-17 — 026 - Rime of the Frostmaiden - Revel's End - Lockdown — speakers: Syrinscape Kevin MaCleod
-- 2021-06-15 — 001 - Flotsam & Jetsam - The Star Brothers - Strange but True! — speakers: Syrinscape Kevin MaCleod, com Katakros
-- 2021-06-08 — 025 - Rime of the Frostmaiden - Revel's End - Prison Break — speakers: Syrinscape Kevin MaCleod
+- 2021-06-24 — 027 - Rime of the Frostmaiden - Revel's End - Escape — speakers: Escape Rime
+- 2021-06-23 — 002 - Flotsam & Jetsam - The Star Brothers - Wholesome Fun — speakers: Syrinscape Kevin MaCleod
+- 2021-06-17 — 026 - Rime of the Frostmaiden - Revel's End - Lockdown — speakers: Lockdown Rime
+- 2021-06-15 — 001 - Flotsam & Jetsam - The Star Brothers - Strange but True! — speakers: Syrinscape Kevin MaCleod
+- 2021-06-08 — 025 - Rime of the Frostmaiden - Revel's End - Prison Break — speakers: Prison Break Rime
 - 2021-06-01 — 077 - Two Headed Serpent - Iceland - You too will join the hunt — speakers: Syrinscape Kevin MaCleod
-- 2021-05-28 — 024 - Rime of the Frostmaiden - The Lost Spire of Nerthril- Ancient Secrets — speakers: Syrinscape Kevin MaCleod
+- 2021-05-28 — 024 - Rime of the Frostmaiden - The Lost Spire of Nerthril- Ancient Secrets — speakers: Ancient Secrets Rime
 - 2021-05-26 — 076 - Two Headed Serpent - Iceland - The Seven Geases — speakers: Syrinscape Kevin MaCleod
-- 2021-05-13 — 023 - Rime of the Frostmaiden - The Lost Spire of Nerthril- Burnt — speakers: Nerthril Burnt, Syrinscape Kevin MaCleod
+- 2021-05-13 — 023 - Rime of the Frostmaiden - The Lost Spire of Nerthril- Burnt — speakers: Nerthril Burnt
 - 2021-05-12 — 075 - Two Headed Serpent - Iceland - Dave loves Ninja Stars — speakers: Syrinscape Kevin MaCleod
-- 2021-05-05 — 022 - Rime of the Frostmaiden - Destruction's Light- Kevin — speakers: Kevin Rime, Syrinscape Kevin MaCleod
+- 2021-05-05 — 022 - Rime of the Frostmaiden - Destruction's Light- Kevin — speakers: Kevin Rime
 - 2021-05-04 — 074 - Two Headed Serpent - Iceland - You Beautiful Son of a Gun — speakers: Syrinscape Kevin MaCleod
 - 2021-04-29 — 073 - Two Headed Serpent - Iceland - Terminally Uggo — speakers: Syrinscape Kevin MaCleod
-- 2021-04-27 — 021 - Rime of the Frostmaiden - Destructions Light- Defense — speakers: Syrinscape Kevin MaCleod
-- 2021-04-16 — 020 - Rime of the Frostmaiden - Destructions Light- Rewards — speakers: Syrinscape Kevin MaCleod
+- 2021-04-27 — 021 - Rime of the Frostmaiden - Destructions Light- Defense — speakers: Destructions Light, Defense Rime
+- 2021-04-16 — 020 - Rime of the Frostmaiden - Destructions Light- Rewards — speakers: Destructions Light, Rewards Rime
 - 2021-04-14 — 072 - Two Headed Serpent - Back to New York - Reunion — speakers: Syrinscape Kevin MaCleod
-- 2021-04-13 — 019 - Rime of the Frostmaiden - Sunblight - Chardalyn — speakers: Syrinscape Kevin MaCleod
+- 2021-04-13 — 019 - Rime of the Frostmaiden - Sunblight - Chardalyn — speakers: Chardalyn Rime
 - 2021-03-31 — 071 - Two Headed Serpent - Back to New York -Don't Feed the Trolls — speakers: Syrinscape Kevin MaCleod
-- 2021-03-29 — 018 - Rime of the Frostmaiden - Sunblight - Conflict — speakers: Syrinscape Kevin MaCleod
-- 2021-03-20 — 017 - Rime of the Frostmaiden - Sunblight - Infiltration — speakers: Syrinscape Kevin MaCleod
-- 2021-03-17 — 016 - Rime of the Frostmaiden - Easthaven - Rescue.mp3 — speakers: Syrinscape Kevin MaCleod
+- 2021-03-29 — 018 - Rime of the Frostmaiden - Sunblight - Conflict — speakers: Conflict Rime
+- 2021-03-20 — 017 - Rime of the Frostmaiden - Sunblight - Infiltration — speakers: Infiltration Rime
+- 2021-03-17 — 016 - Rime of the Frostmaiden - Easthaven - Rescue.mp3
 - 2021-03-16 — 070 - Two Headed Serpent - Back to New York - Rabies — speakers: Syrinscape Kevin MaCleod
 - 2021-03-10 — 069 - Two Headed Serpent - Back to New York - Shadows of the Past — speakers: Syrinscape Kevin MaCleod
 - 2021-03-06 — 068 - Two Headed Serpent - Back to New York - Consequences — speakers: Syrinscape Kevin MaCleod
-- 2021-03-06 — 015 - Rime of the Frostmaiden - Easthaven - Possessed — speakers: Syrinscape Kevin MaCleod
-- 2021-02-23 — 014 - Rime of the Frostmaiden - Easthaven - Assassins — speakers: Syrinscape Kevin MaCleod
+- 2021-03-06 — 015 - Rime of the Frostmaiden - Easthaven - Possessed — speakers: Possessed Rime
+- 2021-02-23 — 014 - Rime of the Frostmaiden - Easthaven - Assassins — speakers: Assassins Rime
 - 2021-02-22 — 067 - Two Headed Serpent - Back to New York - Helen Smells a Rat — speakers: Syrinscape Kevin MaCleod
 - 2021-02-09 — 066 - Two Headed Serpent - Back to New York - This Smells Fishy — speakers: Syrinscape Kevin MaCleod
-- 2021-02-08 — 013 - Rime of the Frostmaiden - The Unseen - Duergar — speakers: Syrinscape Kevin MaCleod
+- 2021-02-08 — 013 - Rime of the Frostmaiden - The Unseen - Duergar — speakers: Duergar Rime
 - 2021-02-02 — 065 - Two Headed Serpent - Back to New York - The Morning After — speakers: Syrinscape Kevin MaCleod
-- 2021-01-27 — 012 - Rime of the Frostmaiden - The Unseen - Caer Konig — speakers: Syrinscape Kevin MaCleod
+- 2021-01-27 — 012 - Rime of the Frostmaiden - The Unseen - Caer Konig — speakers: Caer Konig Rime
 - 2021-01-26 — 064 - Two headed Serpent - Back to New York - Reconnecting — speakers: Syrinscape Kevin MaCleod
-- 2021-01-19 — 011 - Rime of the Frostmaiden - The Unseen - Best Served Cold — speakers: Syrinscape Kevin MaCleod
-- 2021-01-13 — 010 - Rime of the Frostmaiden - The Dark Duchess - Fight to the Death — speakers: Syrinscape Kevin MaCleod
+- 2021-01-19 — 011 - Rime of the Frostmaiden - The Unseen - Best Served Cold — speakers: Best Served Cold Rime
+- 2021-01-13 — 010 - Rime of the Frostmaiden - The Dark Duchess - Fight to the Death — speakers: Death Rime
 - 2021-01-12 — 063 - Two Headed Serpent - Back to New York - Reporting In — speakers: Syrinscape Kevin MaCleod
-- 2021-01-07 — 009 - Rime of the Frostmaiden - The Dark Dutchess - Goat Ball — speakers: Syrinscape Kevin MaCleod
+- 2021-01-07 — 009 - Rime of the Frostmaiden - The Dark Dutchess - Goat Ball — speakers: Goat Ball Rime
 - 2021-01-06 — 062 - Two headed Serpent - Oklahoma - THE END — speakers: Syrinscape Kevin MaCleod
 - 2020-12-30 — 061 - Two headed Serpent - Oklahoma - Spencer's Choice — speakers: Syrinscape Kevin MaCleod
 - 2020-12-22 — 060 - Two Headed Serpent - Oklahoma - Into The Desert — speakers: Syrinscape Kevin MaCleod
 - 2020-12-16 — 059 - Two headed Serpent - Oklahoma - Bouts of Madness — speakers: Syrinscape Kevin MaCleod
 - 2020-12-09 — 058 - Two headed Serpent - Oklahoma - Bow before Yig — speakers: Syrinscape Kevin MaCleod
 - 2020-12-08 — 057 - Two headed Serpent - Oklahoma - Our Lord and Saviour — speakers: Syrinscape Kevin MaCleod
-- 2020-12-02 — 008 - Rime of the Frostmaiden - The Black Lodge - From Beyond the Grave — speakers: NaturallyOrla Find, Syrinscape Kevin MaCleod
+- 2020-12-02 — 008 - Rime of the Frostmaiden - The Black Lodge - From Beyond the Grave — speakers: Grave Rime
 - 2020-11-26 — 056 - Two headed Serpent - Oklahoma - Young Guns — speakers: Syrinscape Kevin MaCleod
-- 2020-11-24 — 007 - Rime of the Frostmaiden - The Black Lodge - Terror in the Forest — speakers: NaturallyOrla Find, Syrinscape Kevin MaCleod
+- 2020-11-24 — 007 - Rime of the Frostmaiden - The Black Lodge - Terror in the Forest — speakers: Forest Rime
 - 2020-11-18 — 055 - Two headed Serpent - Oklahoma - Lynch Mob — speakers: Syrinscape Kevin MaCleod
-- 2020-11-11 — 006 - Rime of the Frostmaiden - ID Ascendant - Strawberry Fields Forever — speakers: Syrinscape Kevin MaCleod
+- 2020-11-11 — 006 - Rime of the Frostmaiden - ID Ascendant - Strawberry Fields Forever — speakers: Strawberry Fields Forever Rime
 - 2020-11-09 — 054 - Two headed Serpent - Oklahoma - Ssssssssssssss — speakers: Syrinscape Kevin MaCleod
-- 2020-11-03 — 005 - Rime of the Frostmaiden - ID Ascendent - The Heist — speakers: Syrinscape Kevin MaCleod
-- 2020-10-28 — 004 - Rime of the Frostmaiden - Termalaine - Face behind the mask — speakers: Syrinscape Kevin MaCleod
-- 2020-10-20 — 003 - Rime of the Frostmaiden - Termalaine - Voices from the Underdark — speakers: Syrinscape Kevin MaCleod
+- 2020-11-03 — 005 - Rime of the Frostmaiden - ID Ascendent - The Heist
+- 2020-10-28 — 004 - Rime of the Frostmaiden - Termalaine - Face behind the mask
+- 2020-10-20 — 003 - Rime of the Frostmaiden - Termalaine - Voices from the Underdark
 - 2020-10-17 — 004 - Call of Cthulhu - The Code - The End — speakers: Syrinscape Kevin MaCleod
 - 2020-10-14 — 018 - Masks of Nyarlathotep - Peru - All's Well that Ends Well — speakers: Syrinscape Kevin MaCleod
 - 2020-10-10 — 003 - Call of Cthulhu - The Code — speakers: Syrinscape Kevin MaCleod
-- 2020-10-09 — 002 - Rime of the Frostmaiden - Dougan's Hole - The Thing — speakers: Virgina tabletophoard Find, Syrinscape Kevin MaCleod
+- 2020-10-09 — 002 - Rime of the Frostmaiden - Dougan's Hole - The Thing
 - 2020-10-06 — 017 - Masks of Nyarlathotep - Peru - Beneath the Temple — speakers: Syrinscape Kevin MaCleod
 - 2020-09-30 — 002 - Call of Cthulhu - The Code — speakers: Syrinscape Kevin MaCleod
-- 2020-09-25 — 001 - Rime of the Frostmaiden - Fire from the Sky — speakers: Virgina tabletophoard Find, Syrinscape Kevin MaCleod
+- 2020-09-25 — 001 - Rime of the Frostmaiden - Fire from the Sky — speakers: Sky Rime
 - 2020-09-24 — 001 - Call of Cthulhu - The Code - A Mysterious Party — speakers: Syrinscape Kevin MaCleod
 - 2020-09-22 — 053 - Two headed Serpent - Oklahoma - Jane pushes her first roll — speakers: Syrinscape Kevin MaCleod
 - 2020-09-09 — 016 - Masks of Nyarlathotep - Peru - The Father of Maggots — speakers: Syrinscape Kevin MaCleod
@@ -11315,27 +10882,27 @@
 - 2020-05-02 — 009 - Masks of Nyarlathotep - Peru - No Regrets — speakers: Syrinscape Kevin MaCleod
 - 2020-04-27 — 045 - Two Headed Serpent - Interlude - Spencer — speakers: Syrinscape Kevin MaCleod
 - 2020-04-15 — 070 - Curse of Strahd - Kresk - Game Over — speakers: Syrinscape Kevin MaCleod
-- 2020-04-10 — 008 - Masks of Nyarathotep - Peru - Don't forget your towel — speakers: Syrinscape Kevin MaCleod
+- 2020-04-10 — 008 - Masks of Nyarathotep - Peru - Don't forget your towel
 - 2020-04-07 — 044 - Two Headed Serpent - New York - Yig, The Father of Serpents — speakers: Syrinscape Kevin MaCleod
 - 2020-04-01 — 069 - Curse of Strahd - Kresk - The Patron of the Lord of Flesh — speakers: Syrinscape Kevin MaCleod
 - 2020-03-24 — 043 - Two Headed Serpent - New York - The High 5 — speakers: Syrinscape Kevin MaCleod
 - 2020-03-20 — How to run RPGs online
-- 2020-03-17 — 005 - Murder on the Eberron Express - The Murderer Reveled — speakers: Syrinscape Kevin MaCleod
-- 2020-03-17 — 007 - Masks of Nyarlathotep - Peru - The Spanish Conquistadors — speakers: Syrinscape Kevin MaCleod
+- 2020-03-17 — 005 - Murder on the Eberron Express - The Murderer Reveled — speakers: product Mu
+- 2020-03-17 — 007 - Masks of Nyarlathotep - Peru - The Spanish Conquistadors
 - 2020-03-10 — 042 - Two Headed Serpent - New York - Meeting Room 12 — speakers: Syrinscape Kevin MaCleod
-- 2020-03-03 — 006 - Masks of Nyarlathotep - Peru — speakers: Syrinscape Kevin MaCleod
-- 2020-02-25 — 004 - Murder on the Eberron Express - The Full Fairhaven — speakers: Syrinscape Kevin MaCleod
+- 2020-03-03 — 006 - Masks of Nyarlathotep - Peru
+- 2020-02-25 — 004 - Murder on the Eberron Express - The Full Fairhaven — speakers: product Mu
+- 2020-02-19 — 005 - Mask of Nyarlathotep - Peru
 - 2020-02-19 — 041 - Two Headed Serpent - New York - Weekend at Bart's — speakers: Syrinscape Kevin MaCleod
-- 2020-02-19 — 005 - Mask of Nyarlathotep - Peru — speakers: Syrinscape Kevin MaCleod
-- 2020-02-04 — 003 - Murder on the Eberron Express - The Lost Heir.mp3 — speakers: Syrinscape Kevin MaCleod
+- 2020-02-04 — 003 - Murder on the Eberron Express - The Lost Heir.mp3 — speakers: product Mu
 - 2020-01-28 — 040 - Two Headed Serpent - New York - Back to Base — speakers: Syrinscape Kevin MaCleod
-- 2020-01-23 — 002 - Murder on the Eberron Express - A body is found — speakers: Syrinscape Kevin MaCleod
-- 2020-01-22 — 004 - Mask of Nyarlathotep - Peru - Never Split the Party — speakers: Syrinscape Kevin MaCleod
-- 2020-01-16 — 003 - Masks of Nyarlathotep - Peru - WHERE IS THE TOILET??!? — speakers: Syrinscape Kevin MaCleod
+- 2020-01-23 — 002 - Murder on the Eberron Express - A body is found — speakers: product Mu
+- 2020-01-22 — 004 - Mask of Nyarlathotep - Peru - Never Split the Party
+- 2020-01-16 — 003 - Masks of Nyarlathotep - Peru - WHERE IS THE TOILET??!?
 - 2020-01-15 — 039 - Two Headed Serpent - New York - Safe Word — speakers: Syrinscape Kevin MaCleod
-- 2020-01-09 — 002 - Masks of Nyarathotep - Peru - The Chaos Begins — speakers: Syrinscape Kevin MaCleod
-- 2020-01-08 — 001 - Murder on the Eberron Express - The Stage is Set.mp3 — speakers: Syrinscape Kevin MaCleod
-- 2020-01-01 — 001 - Masks of Nyarlathotep- Peru - Pisco Sours — speakers: Syrinscape Kevin MaCleod
+- 2020-01-09 — 002 - Masks of Nyarathotep - Peru - The Chaos Begins
+- 2020-01-08 — 001 - Murder on the Eberron Express - The Stage is Set.mp3 — speakers: product Mu
+- 2020-01-01 — 001 - Masks of Nyarlathotep- Peru - Pisco Sours
 - 2019-12-30 — 038 - Two Headed Serpent - New York - You don't fuck with the mob — speakers: Syrinscape Kevin MaCleod
 - 2019-12-24 — 068 - Curse of Strahd - Kresk - Shit Hits the Fan — speakers: Shit Hits
 - 2019-12-19 — 037 - Two Headed Serpent - New York - Some Like it Hot! — speakers: Syrinscape Kevin MaCleod
@@ -11374,55 +10941,55 @@
 - 2019-05-08 — 052 - Curse of Strahd - the Mist — speakers: Syrinscape Kevin MaCleod
 - 2019-04-29 — 021 - Two Headed Serpent - North Borneo - Jurassic Park — speakers: Syrinscape Kevin MaCleod
 - 2019-04-24 — 051 - Curse of Strahd - Strahd's Wrath — speakers: Syrinscape Kevin MaCleod
-- 2019-04-11 — 020 - Two Headed Serpent - North Borneo - Spencer Randell: Zoog Whisperer — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-04-04 — 019 - Two Headed Serpent - North Borneo - CODENAME - THFCT.mp3 — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-03-26 — 018 - Two Headed Serpent - North Borneo - Charles Returns — speakers: Charles Returns, Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-03-22 — Idle Podcast: Bug Support - Episode 03 — speakers: Josh Perault, Chris Dupuis Gameguruchris, Katherine Crane, Syrinscape Kevin MaCleod
-- 2019-03-18 — 017 - Two Headed Serpent - North Borneo - Random Acts of Violence — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-03-06 — 016 - Two Headed Serpent - North Borneo - Without a Chaperone — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-02-26 — LIVE at PODCON 2019! — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-02-20 — 015 - Two Headed Serpent - North Borneo - Happy Landings — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-02-14 — 014 - Two Headed Serpent - North Borneo - Johnson! — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-02-05 — 013 - Two Headed Serpent - New York - The Calm Before the Storm — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-01-24 — 012 - Two Headed Serpent - New York - The Plot Thinkens — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-01-16 — 011 - Two Headed Serpent - Bolivia - Bart's Story — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2019-01-07 — Rolling with...Kuran — speakers: Syrinscape Kevin MaCleod
-- 2018-12-31 — 010 - Two Headed Serpent - Bolivia - Time Well Serpent — speakers: Scott Dorward
+- 2019-04-11 — 020 - Two Headed Serpent - North Borneo - Spencer Randell: Zoog Whisperer — speakers: Two Headed Serpent, North Borneo, Spencer Randell, Headed Serpent
+- 2019-04-04 — 019 - Two Headed Serpent - North Borneo - CODENAME - THFCT.mp3 — speakers: Two Headed Serpent, North Borneo, Headed Serpent
+- 2019-03-26 — 018 - Two Headed Serpent - North Borneo - Charles Returns — speakers: Charles Returns
+- 2019-03-22 — Idle Podcast: Bug Support - Episode 03
+- 2019-03-18 — 017 - Two Headed Serpent - North Borneo - Random Acts of Violence — speakers: Two Headed Serpent, North Borneo, Random Acts, Headed Serpent
+- 2019-03-06 — 016 - Two Headed Serpent - North Borneo - Without a Chaperone — speakers: Two Headed Serpent, North Borneo, Headed Serpent
+- 2019-02-26 — LIVE at PODCON 2019!
+- 2019-02-20 — 015 - Two Headed Serpent - North Borneo - Happy Landings — speakers: Two Headed Serpent, North Borneo, Headed Serpent
+- 2019-02-14 — 014 - Two Headed Serpent - North Borneo - Johnson! — speakers: Two Headed Serpent, North Borneo, Headed Serpent
+- 2019-02-05 — 013 - Two Headed Serpent - New York - The Calm Before the Storm — speakers: Two Headed Serpent, New York, Headed Serpent
+- 2019-01-24 — 012 - Two Headed Serpent - New York - The Plot Thinkens — speakers: Two Headed Serpent, New York, Headed Serpent
+- 2019-01-16 — 011 - Two Headed Serpent - Bolivia - Bart's Story — speakers: Two Headed Serpent, Headed Serpent
+- 2019-01-07 — Rolling with...Kuran
+- 2018-12-31 — 010 - Two Headed Serpent - Bolivia - Time Well Serpent — speakers: Two Headed Serpent, Headed Serpent
 - 2018-12-23 — Rolling with... Nibiru RPG — speakers: Nibiru Rpg
-- 2018-12-18 — 009 - Two Headed Serpent - Bolivia - Pulp Torah — speakers: Scott Dorward
+- 2018-12-18 — 009 - Two Headed Serpent - Bolivia - Pulp Torah — speakers: Two Headed Serpent, Headed Serpent
 - 2018-12-02 — Rolling with...Red Moon Roleplaying — speakers: Redmoon Roleplaying
-- 2018-11-21 — 008 - Two Headed Serpent - Bolivia - Time Well Serpent — speakers: Scott Dorward
-- 2018-11-13 — 007 - Two Headed Serpent - Bolivia - Insanity — speakers: Scott Dorward
-- 2018-11-06 — 006 - Two-Headed Serpent - Bolivia - The Plot Thickens — speakers: Scott Dorward
-- 2018-10-30 — 005 - Two-Headed Serpent - Bolivia - More Dick Jokes — speakers: Dick Jokes, Scott Dorward
+- 2018-11-21 — 008 - Two Headed Serpent - Bolivia - Time Well Serpent — speakers: Two Headed Serpent, Headed Serpent
+- 2018-11-13 — 007 - Two Headed Serpent - Bolivia - Insanity — speakers: Two Headed Serpent, Headed Serpent
+- 2018-11-06 — 006 - Two-Headed Serpent - Bolivia - The Plot Thickens — speakers: Headed Serpent
+- 2018-10-30 — 005 - Two-Headed Serpent - Bolivia - More Dick Jokes — speakers: Dick Jokes
 - 2018-10-23 — Rolling with Matthew Lillard — speakers: Matthew Lillard
-- 2018-10-16 — 004 - Two-Headed Serpent - Bolivia - Greg gives no shits — speakers: Scott Dorward
-- 2018-10-09 — 003 - Two-Headed Serpent - Bolivia - Laser Tag with Howler Monkeys — speakers: Howler Monkeys, Scott Dorward
-- 2018-10-02 — 002 - Two-Headed Serpent - Bolivia - Rumble in the Jungle — speakers: Scott Dorward
-- 2018-09-19 — 001 - Two-Headed Serpent - Bolivia - Into the Jungle
-- 2018-09-12 — 005 - Call of Cthulhu - Idol of Thoth - The End — speakers: Arkham Asylum, Syrinscape Kevin MaCleod
-- 2018-09-04 — 004 - Call of Cthulhu - Idol of Thoth - Dun DUN DUNNNNNNN — speakers: Arkham Asylum, Syrinscape Kevin MaCleod
-- 2018-08-21 — 003 - Idol of Thoth - Where's the Idol, Lebowski? — speakers: Arkham Asylum, Syrinscape Kevin MaCleod
-- 2018-08-06 — 002 - Call of Cthulhu - Idol of Thoth - Sex Pests — speakers: Syrinscape Kevin MaCleod
-- 2018-07-31 — 001 - Call of Cthulhu - Idol of Thoth - A Strange Disappearance — speakers: Joe Trier, Syrinscape Kevin MaCleod
-- 2018-07-24 — Joe meets Paul from Swordnut Radio to Talk about Horror Gaming — speakers: Horror Gaming, Syrinscape Kevin MaCleod
+- 2018-10-16 — 004 - Two-Headed Serpent - Bolivia - Greg gives no shits — speakers: Headed Serpent
+- 2018-10-09 — 003 - Two-Headed Serpent - Bolivia - Laser Tag with Howler Monkeys — speakers: Howler Monkeys
+- 2018-10-02 — 002 - Two-Headed Serpent - Bolivia - Rumble in the Jungle — speakers: Headed Serpent
+- 2018-09-19 — 001 - Two-Headed Serpent - Bolivia - Into the Jungle — speakers: Headed Serpent
+- 2018-09-12 — 005 - Call of Cthulhu - Idol of Thoth - The End — speakers: Arkham Asylum
+- 2018-09-04 — 004 - Call of Cthulhu - Idol of Thoth - Dun DUN DUNNNNNNN — speakers: Arkham Asylum
+- 2018-08-21 — 003 - Idol of Thoth - Where's the Idol, Lebowski? — speakers: Arkham Asylum
+- 2018-08-06 — 002 - Call of Cthulhu - Idol of Thoth - Sex Pests
+- 2018-07-31 — 001 - Call of Cthulhu - Idol of Thoth - A Strange Disappearance — speakers: Joe Trier
+- 2018-07-24 — Joe meets Paul from Swordnut Radio to Talk about Horror Gaming — speakers: Horror Gaming
 - 2018-07-16 — Bleak Prospect - Post Game Chat — speakers: Bleak Prospect, Post Game Chat
-- 2018-07-16 — 007 - Call of Cthulhu - Bleak Prospect - THE END — speakers: Syrinscape Kevin MaCleod
-- 2018-07-09 — 006 - Call of Cthuhlu - Bleak Prospect - The Dark Descent — speakers: Syrinscape Kevin MaCleod
-- 2018-07-02 — 005 - Call of Cthulhu - Bleak Prospect - The Sweet Sweet Smell of Decay — speakers: Syrinscape Kevin MaCleod
+- 2018-07-16 — 007 - Call of Cthulhu - Bleak Prospect - THE END — speakers: Bleak Prospect
+- 2018-07-09 — 006 - Call of Cthuhlu - Bleak Prospect - The Dark Descent — speakers: Bleak Prospect
+- 2018-07-02 — 005 - Call of Cthulhu - Bleak Prospect - The Sweet Sweet Smell of Decay
 - 2018-06-27 — Rolling with...Mike Mason — speakers: Mike Mason
 - 2018-06-25 — Rolling with...Niall
-- 2018-06-17 — 004 - Call of Cthulu - Bleak Prospect - Dick Pics — speakers: Syrinscape Kevin MaCleod
-- 2018-06-03 — 003 - Call of Cthulhu - Bleak Prospect - Hot Soup — speakers: Syrinscape Kevin MaCleod
-- 2018-05-29 — 002 - Call of Cthulhu - Bleak Prospect - Finn's Story — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2018-05-21 — 001 - Call of Cthulhu - Bleak Prospect - Lost and Alone — speakers: Scott Dorward, Syrinscape Kevin MaCleod
-- 2018-05-13 — How We Roll Adventure Theatre Presents - From Beyond by H.P.Lovecraft — speakers: Syrinscape Kevin MaCleod
-- 2018-05-07 — 050 - Curse of Strahd - Vallaki - Defeated! — speakers: CurseofStrahd Season, Syrinscape Kevin MaCleod
-- 2018-04-29 — 049 - Curse of Strahd - Vallaki - The Great Train Derailing of '18 — speakers: Syrinscape Kevin MaCleod
-- 2018-04-22 — 048- Curse of Strahd - Vallaki - Goodbye! — speakers: Syrinscape Kevin MaCleod
+- 2018-06-17 — 004 - Call of Cthulu - Bleak Prospect - Dick Pics
+- 2018-06-03 — 003 - Call of Cthulhu - Bleak Prospect - Hot Soup — speakers: Bleak Prospect
+- 2018-05-29 — 002 - Call of Cthulhu - Bleak Prospect - Finn's Story — speakers: Scott Dorward
+- 2018-05-21 — 001 - Call of Cthulhu - Bleak Prospect - Lost and Alone — speakers: Scott Dorward
+- 2018-05-13 — How We Roll Adventure Theatre Presents - From Beyond by H.P.Lovecraft — speakers: Theatre Presents, Lovecraft Story
+- 2018-05-07 — 050 - Curse of Strahd - Vallaki - Defeated! — speakers: CurseofStrahd Season
+- 2018-04-29 — 049 - Curse of Strahd - Vallaki - The Great Train Derailing of '18
+- 2018-04-22 — 048- Curse of Strahd - Vallaki - Goodbye!
 - 2018-04-18 — Rolling With...Dave!
-- 2018-04-16 — 047 - Curse of Strahd - Vallaki - Sexy Sexy Eugene — speakers: Syrinscape Kevin MaCleod
-- 2018-04-08 — 046 - Curse of Strahd - Vallaki - A Bad Choice of Words — speakers: Syrinscape Kevin MaCleod
+- 2018-04-16 — 047 - Curse of Strahd - Vallaki - Sexy Sexy Eugene
+- 2018-04-08 — 046 - Curse of Strahd - Vallaki - A Bad Choice of Words
 - 2018-04-02 — 045 - Curse of Strahd - Vallaki - I think They Can Only Be Harmed By Silver Weapons — speakers: Syrinscape Kevin MaCleod
 - 2018-03-26 — 044 - Curse of Strahd - Vallaki - Drunken Antics — speakers: Syrinscape Kevin MaCleod
 - 2018-03-18 — 043 - Curse of Strahd - Vallaki - Never Split the Party — speakers: Syrinscape Kevin MaCleod
@@ -11430,135 +10997,135 @@
 - 2018-03-05 — 041 - Curse of Strahd - Vallaki - Rhesus Pieces — speakers: Syrinscape Kevin MaCleod
 - 2018-02-25 — 040- Curse of Strahd - Vallaki - A Familiar Face — speakers: Syrinscape Kevin MaCleod
 - 2018-02-18 — 039 - Curse of Strahd - Vallaki - I'll Plug if you Jerk — speakers: Syrinscape Kevin MaCleod
-- 2018-02-14 — How We Roll Presents - Proven Guilty: Spencer Randall's Story — speakers: Spencer Randall, Spencer Randell
+- 2018-02-14 — How We Roll Presents - Proven Guilty: Spencer Randall's Story — speakers: Spencer Randall
 - 2018-02-11 — 038 - Curse of Strahd - The Old Bonegrinder - You Handsome Devil — speakers: Syrinscape Kevin MaCleod
 - 2018-02-04 — 037 - Curse of Strahd - The Old Bonegrinder - If you're happy and you know it — speakers: Syrinscape Kevin MaCleod
 - 2018-02-01 — Rolling with Liisa Lee — speakers: Liisa Lee
-- 2018-01-28 — 036 - Curse of Strahd - The Road to Vallaki - We Measure Height in Saffs — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod, Stygian Fox
-- 2018-01-21 — 035 - Curse of Strahd - the Road to Vallaki - What the FUCK is the challenge rating of this fight Joe — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod, Stygian Fox
-- 2018-01-14 — 034 - Curse of Strahd - The Road to Vallaki - Lost Souls — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod, Stygian Fox
-- 2018-01-07 — 033 - Curse of Strahd - The Road to Vallaki - Fuck Warty! — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod, Stygian Fox
-- 2017-12-31 — 032 - Curse of Strahd - The Road to Vallaki - The Shadow of the Colossus — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod
-- 2017-12-24 — 031 - Curse of Strahd - The Road to Vallaki - The Return of Sulvarax — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod
-- 2017-12-17 — 008 - Call of Cthulhu - Blackwater Creek - The End — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-12-10 — 007 - Call of Cthulhu - Blackwater Creek - The Day of the Triffids — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-12-04 — 006 - Call of Cthulhu - Blackwater Creek - The Root of the Problem — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-11-26 — 005 - Call of Cthulhu - Blackwater Creek - The Silence of the Hams — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-11-19 — 004 - Call of Cthulhu - Blackwater Creek - Wormy Water — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-11-12 — 003 - Call of Cthulhu - Blackwater Creek - Hey Kids, do you want to see my bone? — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-11-05 — 002 - Call of Cthulhu - Blackwater Creek - MOTHER! — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-10-29 — 001 - Call of Cthulhu - Blackwater Creek - The Missing Professor — speakers: Scott Dorward, Robert Randle, Syrinscape Kevin MaCleod
-- 2017-10-22 — 005 - Call of Cthulhu - Uncle Timothy's Will - Payment in...Doughnuts? — speakers: Uncle Timothy, Syrinscape Kevin MaCleod
-- 2017-10-15 — 004 - Call of Cthulhu - Uncle Timothy's Will - Best Laid Plans — speakers: Uncle Timothy, Syrinscape Kevin MaCleod
-- 2017-10-08 — 003 - Call of Cthulhu - Uncle Timothy's Will - A Scythe is a Posh Hammer — speakers: Uncle Timothy, Syrinscape Kevin MaCleod
-- 2017-10-01 — 002 - Call of Cthulhu - Uncle Timothy's Will - Sexy, sexy Nosferatu — speakers: Uncle Timothy, Syrinscape Kevin MaCleod
-- 2017-09-24 — 001 - Call of Cthulhu - Uncle Timothy's Will - One Wonders who the fuck you are — speakers: Uncle Timothy, Syrinscape Kevin MaCleod
-- 2017-09-17 — 030 - Curse of Strahd - Castle Ravenloft - THE END! — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod
-- 2017-09-10 — 029 - Curse of Strahd - Castle Ravenloft - Riddles in the Dark — speakers: Syrinscape Kevin MaCleod
-- 2017-09-03 — 028 - Curse of Strahd - Castle Ravenloft - An Unexpected Ally — speakers: Castle Ravenloft, Syrinscape Kevin MaCleod
-- 2017-08-27 — 027 - Curse of Strahd - Castle Ravenloft - Dinner is Served — speakers: Castle Ravenloft
-- 2017-08-20 — 026 - Curse of Strahd - Castle Ravenloft - An invitation to dinner... — speakers: Nightshade Creations, Syrinscape Kevin MaCleod
-- 2017-08-13 — 025 - Curse of Strahd - Banquet of the Damned - THE END — speakers: Nightshade Creations, Syrinscape Kevin MaCleod
-- 2017-08-06 — 024 - Curse of Strahd - Banquet of the Damned - Full of maggoty goodness — speakers: Nightshade Creations, Syrinscape Kevin MaCleod
-- 2017-07-30 — 023 - Curse of Strahd - Banquet of the Damned - Terrorism is never the answer — speakers: Nightshade Creations, Syrinscape Kevin MaCleod
-- 2017-07-23 — 022 - Curse of Strahd - The Banquet of the Damned - I'm going to have to lick my self for 20 minutes after this... — speakers: Syrinscape Kevin MaCleod
-- 2017-07-16 — 021 - Curse of Strahd - The Banquet of the Damned - Hello Handsome — speakers: Syrinscape Kevin MaCleod
-- 2017-07-09 — 020 - Curse of Strahd - The Village of Barovia - Madam Eva — speakers: Syrinscape Kevin MaCleod
-- 2017-07-02 — 019 - Curse of Strahd - The Village of Barovia - I cast grease...all over the wall — speakers: Syrinscape Kevin MaCleod
-- 2017-06-25 — 018 - Curse of Strahd -The Village of Barovia - Goodpie Cruel World — speakers: Syrinscape Kevin MaCleod
-- 2017-06-18 — 017 - Curse of Strahd - The Village of Barovia - Does Anyone Smell Bacon — speakers: Syrinscape Kevin MaCleod
-- 2017-06-11 — 016 - Curse of Strahd - The Village of Barovia - How to Make Friends and Influence People — speakers: Syrinscape Kevin MaCleod
-- 2017-06-04 — 015 - Curse of Strahd - In To The Mists - A Warm Welcome — speakers: Syrinscape Kevin MaCleod
-- 2017-05-28 — 014 - Curse of Strahd - In to the Mists - The Red Vistani — speakers: Syrinscape Kevin MaCleod
-- 2017-05-21 — 013 - Curse of Strahd - Into the Mists - The Road Goes Ever on and on — speakers: Syrinscape Kevin MaCleod
+- 2018-01-28 — 036 - Curse of Strahd - The Road to Vallaki - We Measure Height in Saffs — speakers: Saffs After
+- 2018-01-21 — 035 - Curse of Strahd - the Road to Vallaki - What the FUCK is the challenge rating of this fight Joe
+- 2018-01-14 — 034 - Curse of Strahd - The Road to Vallaki - Lost Souls — speakers: Lost Souls After
+- 2018-01-07 — 033 - Curse of Strahd - The Road to Vallaki - Fuck Warty! — speakers: Fuck Warty
+- 2017-12-31 — 032 - Curse of Strahd - The Road to Vallaki - The Shadow of the Colossus — speakers: Colossus After
+- 2017-12-24 — 031 - Curse of Strahd - The Road to Vallaki - The Return of Sulvarax — speakers: Sulvarax After
+- 2017-12-17 — 008 - Call of Cthulhu - Blackwater Creek - The End — speakers: Scott Dorward
+- 2017-12-10 — 007 - Call of Cthulhu - Blackwater Creek - The Day of the Triffids — speakers: Scott Dorward
+- 2017-12-04 — 006 - Call of Cthulhu - Blackwater Creek - The Root of the Problem — speakers: Scott Dorward
+- 2017-11-26 — 005 - Call of Cthulhu - Blackwater Creek - The Silence of the Hams — speakers: Scott Dorward
+- 2017-11-19 — 004 - Call of Cthulhu - Blackwater Creek - Wormy Water — speakers: Scott Dorward
+- 2017-11-12 — 003 - Call of Cthulhu - Blackwater Creek - Hey Kids, do you want to see my bone? — speakers: Scott Dorward
+- 2017-11-05 — 002 - Call of Cthulhu - Blackwater Creek - MOTHER! — speakers: Scott Dorward
+- 2017-10-29 — 001 - Call of Cthulhu - Blackwater Creek - The Missing Professor — speakers: Scott Dorward
+- 2017-10-22 — 005 - Call of Cthulhu - Uncle Timothy's Will - Payment in...Doughnuts? — speakers: Uncle Timothy
+- 2017-10-15 — 004 - Call of Cthulhu - Uncle Timothy's Will - Best Laid Plans — speakers: Uncle Timothy
+- 2017-10-08 — 003 - Call of Cthulhu - Uncle Timothy's Will - A Scythe is a Posh Hammer — speakers: Uncle Timothy
+- 2017-10-01 — 002 - Call of Cthulhu - Uncle Timothy's Will - Sexy, sexy Nosferatu — speakers: Uncle Timothy
+- 2017-09-24 — 001 - Call of Cthulhu - Uncle Timothy's Will - One Wonders who the fuck you are — speakers: Uncle Timothy
+- 2017-09-17 — 030 - Curse of Strahd - Castle Ravenloft - THE END! — speakers: Castle Ravenloft
+- 2017-09-10 — 029 - Curse of Strahd - Castle Ravenloft - Riddles in the Dark
+- 2017-09-03 — 028 - Curse of Strahd - Castle Ravenloft - An Unexpected Ally — speakers: Castle Ravenlof
+- 2017-08-27 — 027 - Curse of Strahd - Castle Ravenloft - Dinner is Served — speakers: Castle Ravenloft, Served After
+- 2017-08-20 — 026 - Curse of Strahd - Castle Ravenloft - An invitation to dinner...
+- 2017-08-13 — 025 - Curse of Strahd - Banquet of the Damned - THE END — speakers: Nightshade Creations
+- 2017-08-06 — 024 - Curse of Strahd - Banquet of the Damned - Full of maggoty goodness — speakers: Nightshade Creations
+- 2017-07-30 — 023 - Curse of Strahd - Banquet of the Damned - Terrorism is never the answer — speakers: Nightshade Creations
+- 2017-07-23 — 022 - Curse of Strahd - The Banquet of the Damned - I'm going to have to lick my self for 20 minutes after this...
+- 2017-07-16 — 021 - Curse of Strahd - The Banquet of the Damned - Hello Handsome
+- 2017-07-09 — 020 - Curse of Strahd - The Village of Barovia - Madam Eva
+- 2017-07-02 — 019 - Curse of Strahd - The Village of Barovia - I cast grease...all over the wall
+- 2017-06-25 — 018 - Curse of Strahd -The Village of Barovia - Goodpie Cruel World
+- 2017-06-18 — 017 - Curse of Strahd - The Village of Barovia - Does Anyone Smell Bacon — speakers: Does Anyone Smell Bacon
+- 2017-06-11 — 016 - Curse of Strahd - The Village of Barovia - How to Make Friends and Influence People — speakers: Make Friends
+- 2017-06-04 — 015 - Curse of Strahd - In To The Mists - A Warm Welcome
+- 2017-05-28 — 014 - Curse of Strahd - In to the Mists - The Red Vistani
+- 2017-05-21 — 013 - Curse of Strahd - Into the Mists - The Road Goes Ever on and on — speakers: Death House
 - 2017-05-14 — 012 - Curse of Strahd - The Death House - the End — speakers: Kevin MaCleod
-- 2017-05-07 — 011 - Curse of Strahd - The Death House - An Inauspicious Ending — speakers: Kevin MaCleod
-- 2017-04-30 — 010 - Curse of Strahd - The Death House - Descent into Darkness — speakers: Kevin MaCleod
-- 2017-04-23 — 009 - Curse of Strahd - The Death House - The Bad Lady — speakers: Kevin MaCleod
-- 2017-04-16 — 008 - Curse of Strahd - The Death House - Mirror, Mirror on the wall — speakers: Kevin MaCleod
-- 2017-04-09 — 007 - Curse of Strahd - The Death House - A Ragtag Group of Ruffians and Idiots — speakers: Kevin MaCleod
-- 2017-04-02 — 006 - Curse of Strahd - The Death House - The Picture in the House — speakers: Kevin MaCleod
-- 2017-03-26 — 005 - Curse of Strahd - The Death House - The Marquis' Secret — speakers: Kevin MaCleod
-- 2017-03-19 — 004 - Curse of Strahd - The Death House - Toxic Relationships — speakers: Kevin MaCleod
-- 2017-03-12 — 003 - Curse of Strahd - The Death House - And then there were eight... — speakers: Kevin MaCleod
-- 2017-03-05 — 002 - Curse of Strahd - The Death House - Let the Games Begin — speakers: Kevin MaCleod
-- 2017-02-26 — 001 - Curse of Strahd - The Death House - A Gentleman and His Sword Are Never Parted — speakers: Kevin MaCleod
-- 2017-02-19 — 15.4 - Ties that Bind -Hatch Me If You Can — speakers: Kevin MaCleod
-- 2017-02-12 — 15.3 - Ties that Bind - Make Arkham Great Again — speakers: Kevin MaCleod
-- 2017-02-05 — 15.2 - Ties that Bind - Right Place, Right Time — speakers: Kevin MaCleod
-- 2017-01-29 — 15.1 - Ties that Bind - The Big Sleep — speakers: Kevin MaCleod
-- 2017-01-22 — 14.6 - Edge of Darkness - The Summoning — speakers: Kevin MaCleod
-- 2017-01-15 — 14.5 - Edge of Darkness - An Unexpected Visitor — speakers: Kevin MaCleod
-- 2017-01-08 — 14.4 - Edge of Darkness - Death in the House — speakers: Kevin MaCleod
-- 2017-01-02 — 14.3 - Edge of Darkness - Half a Weasal and some Dynamite Please — speakers: Kevin MaCleod
-- 2016-12-26 — 14.2 - Edge of Darkness - Trouble at the Library — speakers: Kevin MaCleod
+- 2017-05-07 — 011 - Curse of Strahd - The Death House - An Inauspicious Ending
+- 2017-04-30 — 010 - Curse of Strahd - The Death House - Descent into Darkness
+- 2017-04-23 — 009 - Curse of Strahd - The Death House - The Bad Lady
+- 2017-04-16 — 008 - Curse of Strahd - The Death House - Mirror, Mirror on the wall
+- 2017-04-09 — 007 - Curse of Strahd - The Death House - A Ragtag Group of Ruffians and Idiots — speakers: Ragtag Group
+- 2017-04-02 — 006 - Curse of Strahd - The Death House - The Picture in the House
+- 2017-03-26 — 005 - Curse of Strahd - The Death House - The Marquis' Secret
+- 2017-03-19 — 004 - Curse of Strahd - The Death House - Toxic Relationships
+- 2017-03-12 — 003 - Curse of Strahd - The Death House - And then there were eight...
+- 2017-03-05 — 002 - Curse of Strahd - The Death House - Let the Games Begin — speakers: Death House
+- 2017-02-26 — 001 - Curse of Strahd - The Death House - A Gentleman and His Sword Are Never Parted
+- 2017-02-19 — 15.4 - Ties that Bind -Hatch Me If You Can
+- 2017-02-12 — 15.3 - Ties that Bind - Make Arkham Great Again
+- 2017-02-05 — 15.2 - Ties that Bind - Right Place, Right Time
+- 2017-01-29 — 15.1 - Ties that Bind - The Big Sleep
+- 2017-01-22 — 14.6 - Edge of Darkness - The Summoning
+- 2017-01-15 — 14.5 - Edge of Darkness - An Unexpected Visitor
+- 2017-01-08 — 14.4 - Edge of Darkness - Death in the House
+- 2017-01-02 — 14.3 - Edge of Darkness - Half a Weasal and some Dynamite Please
+- 2016-12-26 — 14.2 - Edge of Darkness - Trouble at the Library
 - 2016-12-24 — A Very Lovecraft Christmas — speakers: Clement Moore
-- 2016-12-18 — 14.1 - Edge of Darkness - I think you mean ACE hole — speakers: Kevin MaCleod
+- 2016-12-18 — 14.1 - Edge of Darkness - I think you mean ACE hole
 - 2016-12-12 — BONUS - Interview With Mike Mason - PULP CTHULHU — speakers: Mike Mason
-- 2016-12-12 — 13.4 - PULP CTHULHU - Pandora's Box - Tentacles, Fire and Death — speakers: Kevin MaCleod
-- 2016-12-04 — 13.3 - PULP CTHULHU - Pandora's Box - Kuran being Kuran — speakers: Kevin MaCleod
-- 2016-11-27 — 13.2 - PULP CTHULHU - Pandora's Box - We really need to stop pushing rolls — speakers: Kevin MaCleod
-- 2016-11-20 — 13.1 - PULP CTHULHU - Pandora's Box - Where did I Put My Hat? — speakers: Kevin MaCleod
-- 2016-11-13 — 12.6 - Forget Me Not - Thelma and Louise — speakers: Kevin MaCleod
-- 2016-11-06 — 12.5 - Forget Me Not - Are We The Good Guys? — speakers: Kevin MaCleod
-- 2016-10-30 — 12.4 - Forget Me Not - Insanity Strikes — speakers: Kevin MaCleod
-- 2016-10-23 — 12.3 - Forget Me Not - I Hope You Ain't No Democrat — speakers: Kevin MaCleod
-- 2016-10-16 — 12.2 - Forget Me Not - At Least I've Got Chicken — speakers: Kevin MaCleod
-- 2016-10-09 — 12.1 - Forget Me Not - You've got pretty corn boy — speakers: Kevin MaCleod
-- 2016-10-02 — 11.2 - One Flew Over the Cultists' Nest - Embrace the Madness — speakers: Kevin MaCleod
-- 2016-09-25 — 11.1 - One Flew Over the Cultists' Nest - Hive Mind Buddies — speakers: Kevin MaCleod
+- 2016-12-12 — 13.4 - PULP CTHULHU - Pandora's Box - Tentacles, Fire and Death
+- 2016-12-04 — 13.3 - PULP CTHULHU - Pandora's Box - Kuran being Kuran
+- 2016-11-27 — 13.2 - PULP CTHULHU - Pandora's Box - We really need to stop pushing rolls
+- 2016-11-20 — 13.1 - PULP CTHULHU - Pandora's Box - Where did I Put My Hat? — speakers: Put My Hat
+- 2016-11-13 — 12.6 - Forget Me Not - Thelma and Louise
+- 2016-11-06 — 12.5 - Forget Me Not - Are We The Good Guys?
+- 2016-10-30 — 12.4 - Forget Me Not - Insanity Strikes — speakers: Forget Me Not
+- 2016-10-23 — 12.3 - Forget Me Not - I Hope You Ain't No Democrat
+- 2016-10-16 — 12.2 - Forget Me Not - At Least I've Got Chicken — speakers: Forget Me Not
+- 2016-10-09 — 12.1 - Forget Me Not - You've got pretty corn boy
+- 2016-10-02 — 11.2 - One Flew Over the Cultists' Nest - Embrace the Madness — speakers: One Flew Over
+- 2016-09-25 — 11.1 - One Flew Over the Cultists' Nest - Hive Mind Buddies — speakers: One Flew Over
 - 2016-09-18 — BONUS - Dockside Dogs - After game chat — speakers: Dockside Dogs
-- 2016-09-18 — 10.3 - Dockside Dogs - I used to be a gangster before I was shot in the knee — speakers: Paul Fricker, Kyle Fergussion, Brocket Vola, Kevin MaCleod
-- 2016-09-11 — 10.2 - Dockside Dogs - PvP — speakers: Paul Fricker, Kyle Fergussion, Brocket Vola, Kevin MaCleod
-- 2016-09-04 — 10.1 - Dockside Dogs - The Heist — speakers: Paul Fricker, Kyle Fergussion, Brocket Vola, Kevin MaCleod
-- 2016-08-28 — 9.5 - Mr Corbitt - Well That's Just Unnecessariliy Disgusting — speakers: Johnny Huck, Kevin MaCleod
-- 2016-08-21 — 9.4 - Mr Corbitt - And I ate his liver with some fava beans — speakers: Johnny Huck, Kevin MaCleod
-- 2016-08-14 — 9.3 - Mr Corbitt - Cthulhu's Last Keggar — speakers: Johnny Huck, Kevin MaCleod
-- 2016-08-07 — 9.2 - Mr Corbitt - Party Like It's 1924 — speakers: Johnny Huck, Kevin MaCleod
-- 2016-07-31 — 9.1 - Mr Corbitt - How did Hardmeat get through? — speakers: Johnny Huck, Kevin MaCleod
+- 2016-09-18 — 10.3 - Dockside Dogs - I used to be a gangster before I was shot in the knee — speakers: Dockside Dogs
+- 2016-09-11 — 10.2 - Dockside Dogs - PvP
+- 2016-09-04 — 10.1 - Dockside Dogs - The Heist — speakers: Dockside Dogs
+- 2016-08-28 — 9.5 - Mr Corbitt - Well That's Just Unnecessariliy Disgusting
+- 2016-08-21 — 9.4 - Mr Corbitt - And I ate his liver with some fava beans
+- 2016-08-14 — 9.3 - Mr Corbitt - Cthulhu's Last Keggar
+- 2016-08-07 — 9.2 - Mr Corbitt - Party Like It's 1924 — speakers: Johnny Huck
+- 2016-07-31 — 9.1 - Mr Corbitt - How did Hardmeat get through? — speakers: Johnny Huck
 - 2016-07-25 — BONUS- Servants Of The Lake- After Game Chat — speakers: After Game Chat
-- 2016-07-25 — 8.3 - Servants of the Lake - I'd Have Preferred a Head Shot! — speakers: Mike Mason, Paul Fricker, Scott Dorward, Gerald Frazer, Kevin MaCleod
-- 2016-07-17 — 8.2 - Servants Of The Lake- The Clue — speakers: Mike Mason, Paul Fricker, Scott Dorward, Gerald Frazer, Kevin MaCleod
-- 2016-07-10 — 8.1 - Servants Of The Lake - Tyre Tracks ARE A Clue — speakers: Mike Mason, Paul Fricker, Scott Dorward, Gerald Frazer, Kevin MaCleod
-- 2016-07-03 — 7.8 - The Sanatorium - Lucidity — speakers: Kevin MaCleod
-- 2016-06-26 — 7.7 - The Sanatorium - Inception — speakers: Kevin MaCleod
-- 2016-06-19 — 7.6 - The Sanatorium - The Nightmare Continues — speakers: Kevin MaCleod
-- 2016-06-19 — 7.6 - The Sanatorium - The Nightmare Continues — speakers: Kevin MaCleod
-- 2016-06-12 — 7.5 - The Sanatorium - Night Terrors — speakers: Kevin MaCleod
-- 2016-06-03 — 7.4 - The Sanatorium - K - Complex — speakers: Kevin MaCleod
-- 2016-05-28 — 7.3 - The Sanatorium - Theta Pattern — speakers: Kevin MaCleod
-- 2016-05-22 — 7.2 - The Sanatorium - Somnolence — speakers: Kevin MaCleod
-- 2016-05-16 — 7.1 - The Sanatorium - Alpha Rhythem — speakers: Bartholomew Ormund, Johnny Huck, Kevin MaCleod
+- 2016-07-25 — 8.3 - Servants of the Lake - I'd Have Preferred a Head Shot! — speakers: Mike Mason, Paul Fricker
+- 2016-07-17 — 8.2 - Servants Of The Lake- The Clue — speakers: Mike Mason, Paul Fricker
+- 2016-07-10 — 8.1 - Servants Of The Lake - Tyre Tracks ARE A Clue — speakers: Mike Mason, Paul Fricker
+- 2016-07-03 — 7.8 - The Sanatorium - Lucidity — speakers: Madness Call
+- 2016-06-26 — 7.7 - The Sanatorium - Inception — speakers: Madness Call
+- 2016-06-19 — 7.6 - The Sanatorium - The Nightmare Continues — speakers: Madness Call
+- 2016-06-19 — 7.6 - The Sanatorium - The Nightmare Continues — speakers: Madness Call
+- 2016-06-12 — 7.5 - The Sanatorium - Night Terrors — speakers: Madness Call
+- 2016-06-03 — 7.4 - The Sanatorium - K - Complex — speakers: Madness Call
+- 2016-05-28 — 7.3 - The Sanatorium - Theta Pattern — speakers: Madness Call
+- 2016-05-22 — 7.2 - The Sanatorium - Somnolence — speakers: Madness Call
+- 2016-05-16 — 7.1 - The Sanatorium - Alpha Rhythem — speakers: Madness Call
 - 2016-03-20 — 6.7 - Crack'd And Crook'd Manse -THE END
 - 2016-03-13 — 6.6 - Crack'd And Crook'd Manse - That's How We Roll! — speakers: Arthur Curwin
 - 2016-03-07 — 6.5 - Crack'd And Crook'd Manse - Something For The Weekend
 - 2016-03-01 — 6.4 - Crack'd And Crook'd Manse - Dirty Cops Do it Best!
-- 2016-02-28 — 6.3 - Crack'd And Crook'd Manse - Now We Have Guns!
+- 2016-02-28 — 6.3 - Crack'd And Crook'd Manse - Now We Have Guns! — speakers: Fitzgerald Manse
 - 2016-02-22 — 6.2 - Crack'd And Crook'd Manse - A Murderous History
 - 2016-02-19 — 1.1 - The Recap Project - The Haunting
 - 2016-02-15 — 6.1 - Crack'd And Crook'd Manse - A Damn Fine Episode
-- 2015-10-19 — 1.2 - ONE SHOT - Everyone Is John - Part Two — speakers: Kevin MacLeod, Plain Loafer
-- 2015-10-12 — 1.1 - ONE SHOT - Everyone Is John - Part One — speakers: Kevin MacLeod, Plain Loafer
+- 2015-10-19 — 1.2 - ONE SHOT - Everyone Is John - Part Two
+- 2015-10-12 — 1.1 - ONE SHOT - Everyone Is John - Part One
 - 2015-10-05 — 1.2 AWARDS SHOW - Season 1
 - 2015-09-28 — 1.1 AWARDS SHOW - Season 1
-- 2015-09-21 — 5.8 - SEASON FINALE - The Dreamstone — speakers: Kevin MacLeod
+- 2015-09-21 — 5.8 - SEASON FINALE - The Dreamstone
 - 2015-09-18 — 5.7.3 - Return To Innsmouth - Radio Broadcast Three Of Three — speakers: Three Final
 - 2015-09-17 — 5.7.2 - Return To Innsmouth - Radio Broadcast Two Of Three — speakers: Three Final
 - 2015-09-16 — 5.7.1 - Return To Innsmouth - Radio Broadcast One Of Three
-- 2015-09-14 — 5.7 - Return To Innsmouth - Episode 7 - Oh No, Not Again — speakers: Harold Mudd, Kevin MacLeod
+- 2015-09-14 — 5.7 - Return To Innsmouth - Episode 7 - Oh No, Not Again — speakers: Dagon seemingly defeated
 - 2015-09-07 — 5.6 - Return To Innsmouth - Episode 6 - THE END
-- 2015-08-31 — 5.5 - Return To Innsmouth - Episode 5 - Watch Out For Those Non-Euclidian Angles — speakers: Molly Smith, Mick Tobin
-- 2015-08-24 — 5.4 - Return To Innsmouth - Episode 4 - Battle In The Sewers — speakers: Mick Tobin jumps, Duncan Smith
+- 2015-08-31 — 5.5 - Return To Innsmouth - Episode 5 - Watch Out For Those Non-Euclidian Angles — speakers: Molly Smith
+- 2015-08-24 — 5.4 - Return To Innsmouth - Episode 4 - Battle In The Sewers — speakers: Mick Tobin jumps
 - 2015-08-18 — 5.3 - Return To Innsmouth - Episode 3 - The Plot Thickens — speakers: Mick Tobin jumps
 - 2015-08-11 — 5.2 - Return To Innsmouth : Episode 2 - What's That Hiding The In Cupboard? — speakers: Mick Tobin
 - 2015-08-04 — 5.1 - Return To Innsmouth : Episode 1 - We Don't Hold A Grudge — speakers: Spenser Randell
-- 2015-07-28 — 5.0 - Return To Innsmouth : Episode 0 - Bart's story... — speakers: Bartholomew Ormund
-- 2015-07-21 — 4.4 - Dead Light : Episode 4 - Don't piss off the doctor! — speakers: Will Eoghan
-- 2015-07-14 — 4.3 - Deadlight : Episode 3 - Don't TRIP! — speakers: Dr Webb
+- 2015-07-28 — 5.0 - Return To Innsmouth : Episode 0 - Bart's story...
+- 2015-07-21 — 4.4 - Dead Light : Episode 4 - Don't piss off the doctor! — speakers: Dead Light
+- 2015-07-14 — 4.3 - Deadlight : Episode 3 - Don't TRIP!
 - 2015-07-07 — 4.2 - Dead Light : Episode 2 - Always reliable the old carrier pigeons
-- 2015-06-30 — 4.1 - Dead Light: Episode 1 - Storm Of The Century — speakers: Mick Tobin, Spencer Randell
+- 2015-06-30 — 4.1 - Dead Light: Episode 1 - Storm Of The Century
 - 2015-06-28 — 3.5 - Escape From Innsmouth: Episode 5 - Freedom At Last
-- 2015-06-10 — 3.4 - Escape From Innsmouth: Episode 4 - Jailbreak — speakers: Mick Tobin, Gerald Hatten
+- 2015-06-10 — 3.4 - Escape From Innsmouth: Episode 4 - Jailbreak — speakers: Mick Tobi
 - 2015-05-17 — 3.3 - Escape From Innsmouth: Episode 3 - Fishy Shotgun Man
 - 2015-05-04 — 3.2 - Escape From Innsmouth: Episode 2 - Hector and Gerald Get Crabs
 - 2015-04-23 — 3.1 - Escape From Innsmouth: Episode 1 - A Bouncing Baby Boy?
@@ -11567,6 +11134,6 @@
 - 2015-03-22 — 2.3 - Wail Of The Witch - Episode 3 - I'm not going up there first! — speakers: Spenser Randell
 - 2015-03-14 — 2.2 - Wail Of The Witch - Episode 2 - Can anyone lend the priest a hand?
 - 2015-03-08 — 2.1. Wail of the Witch - Episode 1 - The body's there if you change your mind...
-- 2015-03-02 — 1.3 - The Haunting - Episode 3 - Why are you pointing that gun at me? — speakers: Kevin MaCleod
-- 2015-02-24 — 1.2 - The Haunting - Episode 2 - What's that noise? — speakers: Kevin MaCleod
-- 2015-02-15 — 1.1 - The Haunting - Episode 1 - A Night At The Roxbury — speakers: Kevin MaCleod
+- 2015-03-02 — 1.3 - The Haunting - Episode 3 - Why are you pointing that gun at me?
+- 2015-02-24 — 1.2 - The Haunting - Episode 2 - What's that noise?
+- 2015-02-15 — 1.1 - The Haunting - Episode 1 - A Night At The Roxbury

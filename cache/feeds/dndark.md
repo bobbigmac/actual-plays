@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-02-25T10:13:55+00:00`
-- checked_at: `2026-02-25T10:13:55+00:00`
+- fetched_at: `2026-02-25T13:45:50+00:00`
+- checked_at: `2026-02-25T13:45:50+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Realplay Podcast starring the iconic monsters of the Golden Age of Horror",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-02-25T10:13:55+00:00",
+  "fetched_at": "2026-02-25T13:45:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "25a469be390a74945464825fcce6e11348bcfbdc",
+      "title": "DnDark Presents: DnDark Souls Part 7: Sister Act",
+      "published_at": "2026-02-25T13:00:38+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore, Mild Depiction of Parental Abuse The team faces off against the The Mother of Wickedness, but in order to get through to her, they must first face down against the gruesome transformations of her daughters, who have been twisted into Abyss Walkers. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Grayson Norman - \"The Knight\" Daniel Cruz - Pinocchio: \"The Real Boy\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Music: Disco by BlackTrendMusic courtesy of Free Music Archives Additional Music provided by: Monument Studios",
+      "image_url": "https://media.redcircle.com/images/2026/2/11/12/cb2ce5fe-104a-49c2-8047-54f7c20f46e1_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/a64ee301-525c-4d8d-8871-85d9e7f4695f/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68424515",
+      "itunes_duration": "4276",
+      "speakers": [],
+      "topics": [
+        "dndark",
+        "presents",
+        "souls",
+        "sister"
+      ]
+    },
     {
       "key": "983cc5a7743b77f57b847889724b2d2607c951b1",
       "title": "Table Talk - Interview with Eliam Weinstock (DicePotDM)",
@@ -2368,6 +2387,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-25 — DnDark Presents: DnDark Souls Part 7: Sister Act
 - 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
 - 2026-02-04 — DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore
 - 2026-01-28 — Table Talk - Interview with Zach Macias (GamesWithZach) — speakers: Zach Macias
