@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"c0bfda166fce135ff9d4fce6619df440"`
-- last_modified: `Tue, 17 Feb 2026 17:30:09 GMT`
+- fetched_at: `2026-02-25T03:17:57+00:00`
+- checked_at: `2026-02-25T03:17:57+00:00`
+- etag: `"0bd816e9b8d85b85e9fa7c3ae8c0d734"`
+- last_modified: `Tue, 24 Feb 2026 22:20:57 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-25T03:17:57+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "555ef314addb9794087b93c0bf5ce8dfd648f6dc",
+      "title": "The Fog Campaign - Episode 60",
+      "published_at": "2026-02-24T22:16:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-60",
+      "description": "Hey, what's a little psychic memory altering amongst chill adventurers? There's definitely something super chill in the mind-flayer coffin. Have a looksee! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-060-20260216-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125700608",
+      "itunes_duration": "52:23",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "8bee64041b6cda382fab1575dda35b6761a18d61",
       "title": "The Fog Campaign - Episode 59",
@@ -114,7 +132,6 @@
       "itunes_duration": "47:43",
       "speakers": [
         "Ding Dong Danglers",
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": [
@@ -152,7 +169,6 @@
       "enclosure_length": "110889728",
       "itunes_duration": "46:13",
       "speakers": [
-        "Ding Dong Danglers",
         "Brian Posehn"
       ],
       "topics": [
@@ -300,6 +316,7 @@
       "enclosure_length": "121823168",
       "itunes_duration": "50:46",
       "speakers": [
+        "Fog Campaign",
         "Brian Posehn"
       ],
       "topics": [
@@ -354,7 +371,6 @@
       "enclosure_length": "135008768",
       "itunes_duration": "56:16",
       "speakers": [
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": [
@@ -427,7 +443,6 @@
       "enclosure_length": "118964288",
       "itunes_duration": "49:35",
       "speakers": [
-        "Ding Dong Danglers",
         "Brian Posehn"
       ],
       "topics": [
@@ -718,7 +733,6 @@
       "enclosure_length": "143251328",
       "itunes_duration": "59:42",
       "speakers": [
-        "Luckily Brian",
         "Brian Posehn"
       ],
       "topics": [
@@ -774,6 +788,7 @@
       "enclosure_length": "140791808",
       "itunes_duration": "58:40",
       "speakers": [
+        "major loot",
         "Brian Posehn"
       ],
       "topics": [
@@ -864,7 +879,6 @@
       "enclosure_length": "142135808",
       "itunes_duration": "59:14",
       "speakers": [
-        "Aka Dan",
         "Brian Posehn"
       ],
       "topics": [
@@ -1126,7 +1140,6 @@
       "enclosure_length": "103888448",
       "itunes_duration": "43:18",
       "speakers": [
-        "Willy Crackits",
         "Brian Posehn"
       ],
       "topics": [
@@ -1148,6 +1161,7 @@
       "enclosure_length": "114919808",
       "itunes_duration": "47:53",
       "speakers": [
+        "Nerd Poker Christmas Carol",
         "Brian Posehn"
       ],
       "topics": [
@@ -1187,7 +1201,7 @@
       "enclosure_length": "132797888",
       "itunes_duration": "55:20",
       "speakers": [
-        "Will Goffrey Spicoli",
+        "Will Goffrey",
         "Brian Posehn"
       ],
       "topics": [
@@ -1265,7 +1279,6 @@
       "enclosure_length": "132630848",
       "itunes_duration": "55:16",
       "speakers": [
-        "Kaiju Pishposh",
         "Brian Posehn"
       ],
       "topics": [
@@ -1647,7 +1660,6 @@
       "enclosure_length": "130562048",
       "itunes_duration": "54:25",
       "speakers": [
-        "casting Duplicity",
         "Brian Posehn"
       ],
       "topics": [
@@ -1804,7 +1816,6 @@
       "enclosure_length": "126594368",
       "itunes_duration": "52:45",
       "speakers": [
-        "Rip Sarah",
         "Brian Posehn"
       ],
       "topics": [
@@ -1843,6 +1854,7 @@
       "enclosure_length": "142776128",
       "itunes_duration": "59:30",
       "speakers": [
+        "Dungeon Master",
         "Brian Posehn"
       ],
       "topics": [
@@ -1977,6 +1989,7 @@
       "enclosure_length": "153028928",
       "itunes_duration": "01:03:46",
       "speakers": [
+        "Despair Murder",
         "Brian Posehn"
       ],
       "topics": [
@@ -2267,7 +2280,6 @@
       "itunes_duration": "01:00:25",
       "speakers": [
         "Smashy Smashy",
-        "Sorry Blaine",
         "Brian Posehn"
       ],
       "topics": [
@@ -2519,7 +2531,6 @@
       "enclosure_length": "144390848",
       "itunes_duration": "01:00:10",
       "speakers": [
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -2676,6 +2687,7 @@
       "enclosure_length": "142329728",
       "itunes_duration": "59:19",
       "speakers": [
+        "Friar Jolly",
         "Brian Posehn"
       ],
       "topics": [
@@ -2735,6 +2747,7 @@
       "enclosure_length": "152260928",
       "itunes_duration": "01:03:27",
       "speakers": [
+        "Death Fissure Sometimes",
         "Brian Posehn"
       ],
       "topics": [
@@ -2776,7 +2789,6 @@
       "itunes_duration": "01:00:22",
       "speakers": [
         "Walloped Warriors What",
-        "Humpty Dumpty",
         "Brian Posehn"
       ],
       "topics": [
@@ -2797,7 +2809,6 @@
       "itunes_duration": "53:03",
       "speakers": [
         "Austin Powers Things",
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -2836,7 +2847,6 @@
       "enclosure_length": "141317888",
       "itunes_duration": "58:53",
       "speakers": [
-        "not decades",
         "Brian Posehn"
       ],
       "topics": [
@@ -2856,7 +2866,6 @@
       "enclosure_length": "158321408",
       "itunes_duration": "01:05:59",
       "speakers": [
-        "Drew Hugh Uid",
         "Brian Posehn"
       ],
       "topics": [
@@ -2898,7 +2907,9 @@
       "enclosure_length": "124914368",
       "itunes_duration": "52:03",
       "speakers": [
-        "Happy Holidays",
+        "Sleigh Ride",
+        "Plus Monster Murder",
+        "Christmas Carol",
         "Brian Posehn"
       ],
       "topics": [
@@ -2920,6 +2931,7 @@
       "enclosure_length": "137705408",
       "itunes_duration": "57:23",
       "speakers": [
+        "Lube If",
         "Brian Posehn"
       ],
       "topics": [
@@ -3021,6 +3033,7 @@
       "enclosure_length": "151093568",
       "itunes_duration": "01:02:58",
       "speakers": [
+        "Lever Fever Oh",
         "Brian Posehn"
       ],
       "topics": [
@@ -3040,6 +3053,7 @@
       "enclosure_length": "128290688",
       "itunes_duration": "53:28",
       "speakers": [
+        "him exact",
         "Brian Posehn"
       ],
       "topics": [
@@ -3078,7 +3092,7 @@
       "enclosure_length": "88755392",
       "itunes_duration": "01:01:39",
       "speakers": [
-        "pink mold",
+        "Kitchen After",
         "Brian Posehn"
       ],
       "topics": [
@@ -3173,7 +3187,6 @@
       "enclosure_length": "80266880",
       "itunes_duration": "55:45",
       "speakers": [
-        "Hopefully Bunk",
         "Brian Posehn"
       ],
       "topics": [
@@ -3255,6 +3268,7 @@
       "enclosure_length": "81121088",
       "itunes_duration": "56:21",
       "speakers": [
+        "Hopefully Ronn",
         "Brian Posehn"
       ],
       "topics": [
@@ -3331,7 +3345,7 @@
       "enclosure_length": "98369408",
       "itunes_duration": "01:08:19",
       "speakers": [
-        "old ones",
+        "Session Zero Before",
         "Brian Posehn"
       ],
       "topics": [
@@ -3370,7 +3384,6 @@
       "itunes_duration": "01:52:41",
       "speakers": [
         "Kevin Sussman Behold",
-        "Kevin Sussman",
         "Brian Posehn"
       ],
       "topics": [
@@ -3433,7 +3446,6 @@
       "itunes_duration": "58:54",
       "speakers": [
         "Golden Jerk",
-        "Luckily Sam",
         "Brian Posehn"
       ],
       "topics": [
@@ -3472,8 +3484,6 @@
       "enclosure_length": "83555840",
       "itunes_duration": "58:02",
       "speakers": [
-        "Castaway Cuties",
-        "Dungeon Master",
         "Brian Posehn"
       ],
       "topics": [
@@ -3550,7 +3560,6 @@
       "enclosure_length": "85821248",
       "itunes_duration": "59:36",
       "speakers": [
-        "Castaway Cuties",
         "Brian Posehn"
       ],
       "topics": [
@@ -3911,6 +3920,7 @@
       "enclosure_length": "80888384",
       "itunes_duration": "56:11",
       "speakers": [
+        "Cabal Showdown Partially",
         "Brian Posehn"
       ],
       "topics": [
@@ -4028,7 +4038,6 @@
       "itunes_duration": "53:48",
       "speakers": [
         "Vile Vials There",
-        "Castaway Cuties",
         "Brian Posehn"
       ],
       "topics": [
@@ -4106,7 +4115,7 @@
       "itunes_duration": "01:00:49",
       "speakers": [
         "Castaway Cuties",
-        "Princess Cospia",
+        "Princess Cosp",
         "Brian Posehn"
       ],
       "topics": [
@@ -4164,6 +4173,7 @@
       "enclosure_length": "82612928",
       "itunes_duration": "57:23",
       "speakers": [
+        "Castaway Cuties",
         "Brian Posehn"
       ],
       "topics": [
@@ -4202,6 +4212,7 @@
       "enclosure_length": "84714752",
       "itunes_duration": "58:50",
       "speakers": [
+        "war machine",
         "Brian Posehn"
       ],
       "topics": [
@@ -4244,9 +4255,6 @@
       "enclosure_length": "83672768",
       "itunes_duration": "58:07",
       "speakers": [
-        "heavily armored",
-        "any encounter",
-        "them yet",
         "Brian Posehn"
       ],
       "topics": [
@@ -4287,6 +4295,7 @@
       "enclosure_length": "85730816",
       "itunes_duration": "59:33",
       "speakers": [
+        "Lament Now",
         "Brian Posehn"
       ],
       "topics": [
@@ -4306,6 +4315,7 @@
       "enclosure_length": "85328192",
       "itunes_duration": "59:16",
       "speakers": [
+        "Castaway Cuties",
         "Brian Posehn"
       ],
       "topics": [
@@ -4325,6 +4335,7 @@
       "enclosure_length": "79003136",
       "itunes_duration": "54:52",
       "speakers": [
+        "Gillaxian Tax Oh",
         "Brian Posehn"
       ],
       "topics": [
@@ -4458,7 +4469,6 @@
       "enclosure_length": "89701184",
       "itunes_duration": "01:02:18",
       "speakers": [
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": [
@@ -4478,7 +4488,8 @@
       "enclosure_length": "92687168",
       "itunes_duration": "01:04:22",
       "speakers": [
-        "pirahna-faced gillaxians",
+        "Dicey Piscine Scene Negotiations",
+        "Castaway Cuti",
         "Brian Posehn"
       ],
       "topics": [
@@ -4520,7 +4531,6 @@
       "itunes_duration": "57:39",
       "speakers": [
         "Castaway Cuties",
-        "Dragon Turtle",
         "Brian Posehn"
       ],
       "topics": [
@@ -4638,8 +4648,6 @@
       "enclosure_length": "84749888",
       "itunes_duration": "58:52",
       "speakers": [
-        "Hopefully Danny",
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -4772,6 +4780,8 @@
       "enclosure_length": "82873280",
       "itunes_duration": "57:34",
       "speakers": [
+        "Shadowhell Surely",
+        "Castaway Cuties",
         "Brian Posehn"
       ],
       "topics": [
@@ -4909,7 +4919,6 @@
       "itunes_duration": "01:40:11",
       "speakers": [
         "Felicia Day",
-        "Engineer Sam",
         "Brian Posehn"
       ],
       "topics": [
@@ -4930,7 +4939,6 @@
       "enclosure_length": "82104320",
       "itunes_duration": "57:02",
       "speakers": [
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": []
@@ -5003,6 +5011,7 @@
       "enclosure_length": "85254464",
       "itunes_duration": "59:13",
       "speakers": [
+        "Nine Nein",
         "Brian Posehn"
       ],
       "topics": [
@@ -5211,6 +5220,7 @@
       "enclosure_length": "15108896",
       "itunes_duration": "06:18",
       "speakers": [
+        "what happe",
         "Brian Posehn"
       ],
       "topics": [
@@ -5265,6 +5275,7 @@
       "enclosure_length": "85462976",
       "itunes_duration": "59:21",
       "speakers": [
+        "Tenebrous One",
         "Brian Posehn"
       ],
       "topics": []
@@ -5281,7 +5292,8 @@
       "enclosure_length": "100225856",
       "itunes_duration": "01:09:37",
       "speakers": [
-        "Amarth Amon",
+        "Look Down There",
+        "Ice Five",
         "Brian Posehn"
       ],
       "topics": []
@@ -5373,7 +5385,6 @@
       "enclosure_length": "93692288",
       "itunes_duration": "01:05:04",
       "speakers": [
-        "Barrowsteppes Dragon",
         "Brian Posehn"
       ],
       "topics": [
@@ -5525,6 +5536,7 @@
       "enclosure_length": "75731648",
       "itunes_duration": "01:03:07",
       "speakers": [
+        "Mother Brain",
         "Brian Posehn"
       ],
       "topics": [
@@ -5621,6 +5633,7 @@
       "enclosure_length": "76825088",
       "itunes_duration": "01:04:02",
       "speakers": [
+        "Danger Room",
         "Brian Posehn"
       ],
       "topics": [
@@ -5792,6 +5805,8 @@
       "enclosure_length": "77053592",
       "itunes_duration": "01:04:13",
       "speakers": [
+        "Haushucks Down",
+        "Ice Five",
         "Brian Posehn"
       ],
       "topics": [
@@ -5810,7 +5825,6 @@
       "enclosure_length": "75146726",
       "itunes_duration": "01:02:38",
       "speakers": [
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": [
@@ -6002,7 +6016,8 @@
       "enclosure_length": "83260172",
       "itunes_duration": "01:09:24",
       "speakers": [
-        "narwhal juggernaut",
+        "Ice Five",
+        "Vaunted Tusk",
         "Brian Posehn"
       ],
       "topics": [
@@ -6022,6 +6037,7 @@
       "enclosure_length": "75946430",
       "itunes_duration": "01:03:18",
       "speakers": [
+        "Vaunted Tusk",
         "Brian Posehn"
       ],
       "topics": [
@@ -6041,6 +6057,9 @@
       "enclosure_length": "72702200",
       "itunes_duration": "01:00:36",
       "speakers": [
+        "Gus Fuss After",
+        "Dame Island",
+        "Ice Five",
         "Brian Posehn"
       ],
       "topics": [
@@ -6059,6 +6078,8 @@
       "enclosure_length": "78199382",
       "itunes_duration": "01:05:10",
       "speakers": [
+        "Finsurrection Halcyne",
+        "Dame Island",
         "Brian Posehn"
       ],
       "topics": [
@@ -6099,7 +6120,6 @@
       "itunes_duration": "01:05:29",
       "speakers": [
         "Narwhal After",
-        "Dargthur Sturry",
         "Brian Posehn"
       ],
       "topics": [
@@ -6156,6 +6176,7 @@
       "enclosure_length": "72973118",
       "itunes_duration": "01:00:49",
       "speakers": [
+        "Hidey Sky Hole After",
         "Brian Posehn"
       ],
       "topics": [
@@ -6289,6 +6310,7 @@
       "enclosure_length": "71055290",
       "itunes_duration": "59:13",
       "speakers": [
+        "Barrowsteppes Dragons",
         "Brian Posehn"
       ],
       "topics": [
@@ -6365,7 +6387,8 @@
       "enclosure_length": "80372990",
       "itunes_duration": "01:06:59",
       "speakers": [
-        "gnome guards",
+        "Wexhall First",
+        "Ice Five",
         "Brian Posehn"
       ],
       "topics": [
@@ -6422,6 +6445,7 @@
       "enclosure_length": "81451442",
       "itunes_duration": "01:07:53",
       "speakers": [
+        "Harrowing Hag Havoc Beneath",
         "Brian Posehn"
       ],
       "topics": [
@@ -6441,6 +6465,7 @@
       "enclosure_length": "85920506",
       "itunes_duration": "59:41",
       "speakers": [
+        "Ice Five",
         "Brian Posehn"
       ],
       "topics": [
@@ -6460,6 +6485,8 @@
       "enclosure_length": "76070666",
       "itunes_duration": "01:03:24",
       "speakers": [
+        "Ice Five",
+        "Dame Island",
         "Brian Posehn"
       ],
       "topics": [
@@ -6496,7 +6523,6 @@
       "enclosure_length": "73803620",
       "itunes_duration": "01:01:31",
       "speakers": [
-        "Will Halcyne",
         "Brian Posehn"
       ],
       "topics": [
@@ -6516,7 +6542,6 @@
       "enclosure_length": "123254520",
       "itunes_duration": "01:25:36",
       "speakers": [
-        "Sam Keiffer",
         "Brian Posehn"
       ],
       "topics": [
@@ -6648,7 +6673,6 @@
       "enclosure_length": "82073144",
       "itunes_duration": "01:08:24",
       "speakers": [
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -6668,8 +6692,6 @@
       "enclosure_length": "79975226",
       "itunes_duration": "01:06:39",
       "speakers": [
-        "Sister Briarlock",
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -6782,6 +6804,7 @@
       "enclosure_length": "77640842",
       "itunes_duration": "01:04:43",
       "speakers": [
+        "Dugthukked Dargthur",
         "Brian Posehn"
       ],
       "topics": []
@@ -6798,8 +6821,6 @@
       "enclosure_length": "77993714",
       "itunes_duration": "01:05:00",
       "speakers": [
-        "Dargthur Sturry",
-        "Nerd Poker",
         "Brian Posehn"
       ],
       "topics": [
@@ -6818,6 +6839,7 @@
       "enclosure_length": "76484612",
       "itunes_duration": "01:03:45",
       "speakers": [
+        "Spelunking Bird Despite",
         "Brian Posehn"
       ],
       "topics": [
@@ -6855,7 +6877,7 @@
       "enclosure_length": "69763328",
       "itunes_duration": "58:09",
       "speakers": [
-        "Engineer Sam",
+        "Frosty Precipice Deep",
         "Brian Posehn"
       ],
       "topics": [
@@ -6894,7 +6916,7 @@
       "enclosure_length": "96060800",
       "itunes_duration": "01:06:43",
       "speakers": [
-        "Shaun Bryant",
+        "Peppergreen After",
         "Brian Posehn"
       ],
       "topics": [
@@ -6967,7 +6989,6 @@
       "enclosure_length": "77127008",
       "itunes_duration": "01:04:17",
       "speakers": [
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -7063,8 +7084,6 @@
       "enclosure_length": "85636838",
       "itunes_duration": "01:11:22",
       "speakers": [
-        "Kenku Gilfry",
-        "Jnrei D'Nah",
         "Brian Posehn"
       ],
       "topics": [
@@ -7083,7 +7102,6 @@
       "enclosure_length": "76366118",
       "itunes_duration": "01:03:39",
       "speakers": [
-        "Torturemaster Gilfry",
         "Brian Posehn"
       ],
       "topics": [
@@ -7103,7 +7121,6 @@
       "enclosure_length": "82790894",
       "itunes_duration": "01:09:00",
       "speakers": [
-        "Jnrei D'Nah",
         "Brian Posehn"
       ],
       "topics": [
@@ -7162,6 +7179,7 @@
       "enclosure_length": "74633600",
       "itunes_duration": "01:02:12",
       "speakers": [
+        "Harmless Blessing Finally",
         "Brian Posehn"
       ],
       "topics": [
@@ -7181,7 +7199,6 @@
       "enclosure_length": "81351968",
       "itunes_duration": "01:07:48",
       "speakers": [
-        "Tom Netty",
         "Brian Posehn"
       ],
       "topics": [
@@ -7200,7 +7217,7 @@
       "enclosure_length": "89467328",
       "itunes_duration": "01:02:08",
       "speakers": [
-        "Jnrei D'Nah",
+        "Moon Prison Okay",
         "Brian Posehn"
       ],
       "topics": [
@@ -7292,7 +7309,6 @@
       "enclosure_length": "77607488",
       "itunes_duration": "01:04:41",
       "speakers": [
-        "Chris Tallman",
         "Brian Posehn"
       ],
       "topics": [
@@ -7312,8 +7328,7 @@
       "enclosure_length": "74830688",
       "itunes_duration": "01:02:22",
       "speakers": [
-        "Chris Tallman",
-        "Hal Lublin",
+        "Black Chromatic Army Hello",
         "Brian Posehn"
       ],
       "topics": [
@@ -7334,8 +7349,7 @@
       "enclosure_length": "67902080",
       "itunes_duration": "01:10:44",
       "speakers": [
-        "Dani Hartel",
-        "Jnrei D'Nah",
+        "Cosmic Crunk If",
         "Brian Posehn"
       ],
       "topics": [
@@ -7412,6 +7426,7 @@
       "enclosure_length": "60842240",
       "itunes_duration": "01:03:23",
       "speakers": [
+        "Stabby Ascent Don",
         "Brian Posehn"
       ],
       "topics": [
@@ -7454,9 +7469,6 @@
       "itunes_duration": "01:04:22",
       "speakers": [
         "Chris Tallman",
-        "Battle Cook",
-        "John Smith Iii",
-        "Colm O'Reilly",
         "Brian Posehn"
       ],
       "topics": [
@@ -7497,6 +7509,7 @@
       "enclosure_length": "87792320",
       "itunes_duration": "01:00:59",
       "speakers": [
+        "faerie spiders",
         "Brian Posehn"
       ],
       "topics": [
@@ -7516,7 +7529,6 @@
       "itunes_duration": "01:01:55",
       "speakers": [
         "Pink Sparkle Pit Determined",
-        "Second Sky",
         "Brian Posehn"
       ],
       "topics": [
@@ -7627,6 +7639,8 @@
       "enclosure_length": "63269120",
       "itunes_duration": "01:05:55",
       "speakers": [
+        "Two Floors",
+        "Fury Welcome",
         "Brian Posehn"
       ],
       "topics": [
@@ -7666,6 +7680,7 @@
       "enclosure_length": "59148416",
       "itunes_duration": "01:01:37",
       "speakers": [
+        "Gostel Mage College",
         "Brian Posehn"
       ],
       "topics": [
@@ -7910,8 +7925,6 @@
       "itunes_duration": "59:08",
       "speakers": [
         "Count Barriss",
-        "Will Bodhi",
-        "Will Tom",
         "Brian Posehn"
       ],
       "topics": [
@@ -7930,7 +7943,7 @@
       "enclosure_length": "156275648",
       "itunes_duration": "01:05:07",
       "speakers": [
-        "Will Blaine",
+        "Katydid Parade Blaine",
         "Brian Posehn"
       ],
       "topics": [
@@ -7950,7 +7963,7 @@
       "enclosure_length": "53592800",
       "itunes_duration": "01:03:49",
       "speakers": [
-        "Count Ahmelegda",
+        "Welcome Again Merry Christmas",
         "Brian Posehn"
       ],
       "topics": [
@@ -7969,9 +7982,6 @@
       "enclosure_length": "53729552",
       "itunes_duration": "01:03:58",
       "speakers": [
-        "Will Luovyn",
-        "Will Bodhi",
-        "Will Tom",
         "Brian Posehn"
       ],
       "topics": []
@@ -7988,7 +7998,7 @@
       "enclosure_length": "55466336",
       "itunes_duration": "01:06:02",
       "speakers": [
-        "Will Dan",
+        "Lunar Elves",
         "Brian Posehn"
       ],
       "topics": [
@@ -8008,7 +8018,6 @@
       "enclosure_length": "53035376",
       "itunes_duration": "01:03:09",
       "speakers": [
-        "Will Tom",
         "Brian Posehn"
       ],
       "topics": [
@@ -8044,9 +8053,6 @@
       "enclosure_length": "150143168",
       "itunes_duration": "01:02:34",
       "speakers": [
-        "Count Diandell",
-        "Will Tom",
-        "Will Bodhi",
         "Brian Posehn"
       ],
       "topics": [
@@ -8066,8 +8072,6 @@
       "enclosure_length": "152028608",
       "itunes_duration": "01:03:21",
       "speakers": [
-        "Will Bodhi",
-        "Will Tom",
         "Brian Posehn"
       ],
       "topics": [
@@ -8087,8 +8091,7 @@
       "enclosure_length": "148728128",
       "itunes_duration": "01:01:59",
       "speakers": [
-        "Grizma Greycragg",
-        "Will Bodhi",
+        "Broken Bloodlines After",
         "Brian Posehn"
       ],
       "topics": [
@@ -8125,7 +8128,7 @@
       "enclosure_length": "156677888",
       "itunes_duration": "01:05:17",
       "speakers": [
-        "Will Blaine",
+        "Elder Nightmares Behold",
         "Brian Posehn"
       ],
       "topics": [
@@ -8186,7 +8189,6 @@
       "enclosure_length": "147589568",
       "itunes_duration": "01:01:30",
       "speakers": [
-        "Will Dan",
         "Brian Posehn"
       ],
       "topics": [
@@ -8206,7 +8208,7 @@
       "enclosure_length": "164665088",
       "itunes_duration": "01:08:37",
       "speakers": [
-        "before them",
+        "Extremeness After",
         "Brian Posehn"
       ],
       "topics": [
@@ -8247,7 +8249,6 @@
       "enclosure_length": "143641088",
       "itunes_duration": "59:52",
       "speakers": [
-        "Will Warchild",
         "Brian Posehn"
       ],
       "topics": [
@@ -8267,8 +8268,6 @@
       "enclosure_length": "140979008",
       "itunes_duration": "58:45",
       "speakers": [
-        "Will Twee",
-        "Will Bodhi",
         "Brian Posehn"
       ],
       "topics": [
@@ -8288,8 +8287,6 @@
       "enclosure_length": "68773853",
       "itunes_duration": "01:11:39",
       "speakers": [
-        "Will Tom",
-        "Will Bodhi",
         "Brian Posehn"
       ],
       "topics": [
@@ -8309,7 +8306,6 @@
       "enclosure_length": "62092679",
       "itunes_duration": "01:04:41",
       "speakers": [
-        "Jolly Ranchers",
         "Brian Posehn"
       ],
       "topics": [
@@ -8329,7 +8325,6 @@
       "enclosure_length": "63623936",
       "itunes_duration": "01:06:17",
       "speakers": [
-        "Will Tom",
         "Brian Posehn"
       ],
       "topics": [
@@ -8350,8 +8345,6 @@
       "enclosure_length": "55304192",
       "itunes_duration": "57:37",
       "speakers": [
-        "Will Dan",
-        "Will Goggo",
         "Brian Posehn"
       ],
       "topics": [
@@ -8409,7 +8402,7 @@
       "enclosure_length": "83009792",
       "itunes_duration": "57:39",
       "speakers": [
-        "Will Tom",
+        "Count Bariss",
         "Brian Posehn"
       ],
       "topics": [
@@ -8449,7 +8442,6 @@
       "enclosure_length": "83623232",
       "itunes_duration": "58:05",
       "speakers": [
-        "Will Brian",
         "Brian Posehn"
       ],
       "topics": [
@@ -8468,7 +8460,6 @@
       "enclosure_length": "91312256",
       "itunes_duration": "01:03:25",
       "speakers": [
-        "Will Smoky",
         "Brian Posehn"
       ],
       "topics": [
@@ -8487,7 +8478,6 @@
       "enclosure_length": "77360960",
       "itunes_duration": "53:44",
       "speakers": [
-        "Daphne Zuniga",
         "Brian Posehn"
       ],
       "topics": [
@@ -8545,10 +8535,6 @@
       "enclosure_length": "60556928",
       "itunes_duration": "01:03:05",
       "speakers": [
-        "Count Ahmelegdha",
-        "Will Bodhi",
-        "Will Tom",
-        "Will Dan",
         "Brian Posehn"
       ],
       "topics": [
@@ -8568,8 +8554,6 @@
       "itunes_duration": "59:50",
       "speakers": [
         "Martin Short",
-        "Ken Daly",
-        "Will Ken",
         "Brian Posehn"
       ],
       "topics": [
@@ -8590,7 +8574,6 @@
       "itunes_duration": "01:03:42",
       "speakers": [
         "Misophonia Trigger Warning",
-        "Count Ahmelegdha",
         "Brian Posehn"
       ],
       "topics": [
@@ -8631,7 +8614,6 @@
       "itunes_duration": "58:10",
       "speakers": [
         "Aw Netty",
-        "Tom Diretto",
         "Brian Posehn"
       ],
       "topics": [
@@ -8703,13 +8685,14 @@
 
 ## Episodes (newest first)
 
+- 2026-02-24 — The Fog Campaign - Episode 60 — speakers: Brian Posehn
 - 2026-02-17 — The Fog Campaign - Episode 59 — speakers: Brian Posehn
 - 2026-02-12 — The Fog Campaign - Episode 58 — speakers: Brian Posehn
 - 2026-02-04 — The Fog Campaign - Episode 57 — speakers: Brian Posehn
 - 2026-01-27 — The Fog Campaign - Episode 56 — speakers: Ding Dong Danglers, Brian Posehn
-- 2026-01-21 — The Fog Campaign - Episode 55 — speakers: Ding Dong Danglers, Nerd Poker, Brian Posehn
+- 2026-01-21 — The Fog Campaign - Episode 55 — speakers: Ding Dong Danglers, Brian Posehn
 - 2026-01-13 — The Fog Campaign - Episode 54 — speakers: Ding Dong Danglers, Brian Posehn
-- 2026-01-06 — The Fog Campaign - Episode 53 — speakers: Ding Dong Danglers, Brian Posehn
+- 2026-01-06 — The Fog Campaign - Episode 53 — speakers: Brian Posehn
 - 2025-12-31 — The Fog Campaign - Episode 52 — speakers: Dan Definitely, Brian Posehn
 - 2025-12-24 — The Fog Campaign - Episode 51 — speakers: Brian Posehn
 - 2025-12-17 — The Fog Campaign - Episode 50 — speakers: Ding Dong Danglers, Brian Posehn
@@ -8717,14 +8700,14 @@
 - 2025-12-02 — The Fog Campaign - Episode 48 — speakers: Brian Posehn
 - 2025-11-25 — The Fog Campaign - Episode 47 — speakers: Full Metal, Brian Posehn
 - 2025-11-18 — The Fog Campaign - Episode 46 — speakers: Brian Posehn
-- 2025-11-11 — The Fog Campaign - Episode 45 — speakers: Brian Posehn
+- 2025-11-11 — The Fog Campaign - Episode 45 — speakers: Fog Campaign, Brian Posehn
 - 2025-11-04 — The Fog Campaign - Episode 44 — speakers: Brian Posehn
 - 2025-10-28 — The Fog Campaign - Episode 43 — speakers: Brian Posehn
-- 2025-10-21 — The Fog Campaign - Episode 42 — speakers: Nerd Poker, Brian Posehn
+- 2025-10-21 — The Fog Campaign - Episode 42 — speakers: Brian Posehn
 - 2025-10-14 — The Fog Campaign - Episode 41 — speakers: Brian Posehn
 - 2025-10-07 — The Fog Campaign - Episode 40 — speakers: Brian Posehn
 - 2025-09-30 — The Fog Campaign - Episode 39 — speakers: Brian Posehn
-- 2025-09-23 — The Fog Campaign - Episode 38 — speakers: Ding Dong Danglers, Brian Posehn
+- 2025-09-23 — The Fog Campaign - Episode 38 — speakers: Brian Posehn
 - 2025-09-16 — The Fog Campaign - Episode 37 — speakers: dong danglin, Brian Posehn
 - 2025-09-09 — The Fog Campaign - Episode 36 — speakers: Dingdong Danglers, Brian Posehn
 - 2025-09-02 — The Fog Campaign - Episode 35 — speakers: Brian Posehn
@@ -8740,15 +8723,15 @@
 - 2025-06-25 — The Fog Campaign - Episode 25 — speakers: Brian Posehn
 - 2025-06-17 — The Fog Campaign - Episode 24 — speakers: Brian Posehn
 - 2025-06-10 — The Fog Campaign - Episode 23 — speakers: Brian Posehn
-- 2025-06-03 — The Fog Campaign - Episode 22 — speakers: Luckily Brian, Brian Posehn
+- 2025-06-03 — The Fog Campaign - Episode 22 — speakers: Brian Posehn
 - 2025-05-27 — The Fog Campaign - Episode 21 — speakers: Maude Nimblenubbin, Brian Posehn
 - 2025-05-20 — The Fog Campaign - Episode 20 — speakers: Brian Posehn
-- 2025-05-14 — The Fog Campaign - Episode 19 — speakers: Brian Posehn
+- 2025-05-14 — The Fog Campaign - Episode 19 — speakers: major loot, Brian Posehn
 - 2025-05-06 — The Fog Campaign - Episode 18 — speakers: Brian Posehn
 - 2025-04-29 — The Fog Campaign - Episode 17 — speakers: Brian Posehn
 - 2025-04-22 — The Fog Campaign - Episode 16 — speakers: Brian Posehn
 - 2025-04-15 — The Fog Campaign - Episode 15 — speakers: Brian Posehn
-- 2025-04-08 — The Fog Campaign - Episode 14 — speakers: Aka Dan, Brian Posehn
+- 2025-04-08 — The Fog Campaign - Episode 14 — speakers: Brian Posehn
 - 2025-04-01 — The Fog Campaign - Episode 13 — speakers: Brian Posehn
 - 2025-03-25 — The Fog Campaign - Episode 12 — speakers: Brian Posehn
 - 2025-03-18 — The Fog Campaign - Episode 11 — speakers: Brian Posehn
@@ -8762,14 +8745,14 @@
 - 2025-01-21 — The Fog Campaign - Episode 5 — speakers: Brian Posehn
 - 2025-01-13 — Apology - No Episode This Week Due To Local Fire Evacuation — speakers: Evacuation Everyone, Los Angeles, Brian Posehn
 - 2025-01-07 — A Nerd Poker Christmas Carol - Part 3 of 3 — speakers: Brian Posehn
-- 2024-12-31 — A Nerd Poker Christmas Carol - Part 2 of 3 — speakers: Willy Crackits, Brian Posehn
-- 2024-12-24 — A Nerd Poker Christmas Carol - Part 1 of 3 — speakers: Brian Posehn
+- 2024-12-31 — A Nerd Poker Christmas Carol - Part 2 of 3 — speakers: Brian Posehn
+- 2024-12-24 — A Nerd Poker Christmas Carol - Part 1 of 3 — speakers: Nerd Poker Christmas Carol, Brian Posehn
 - 2024-12-17 — The Fog Campaign - Episode 4 — speakers: Brian Posehn
-- 2024-12-10 — The Fog Campaign - Episode 3 — speakers: Will Goffrey Spicoli, Brian Posehn
+- 2024-12-10 — The Fog Campaign - Episode 3 — speakers: Will Goffrey, Brian Posehn
 - 2024-12-03 — The Fog Campaign - Episode 2 — speakers: Thelonious Pepperstep, Brian Posehn
 - 2024-11-26 — The Fog Campaign - Episode 1 (with Jenny Zigrino) — speakers: Jenny Zigrino, Brian Posehn
 - 2024-11-19 — The Mountain Campaign - Episode 40 — speakers: Brian Posehn
-- 2024-11-12 — The Mountain Campaign - Episode 39 — speakers: Kaiju Pishposh, Brian Posehn
+- 2024-11-12 — The Mountain Campaign - Episode 39 — speakers: Brian Posehn
 - 2024-11-05 — The Mountain Campaign - Episode 38 — speakers: Brian Posehn
 - 2024-10-29 — The Mountain Campaign - Episode 37 — speakers: Brian Posehn
 - 2024-10-23 — The Mountain Campaign - Episode 36 — speakers: Brian Posehn
@@ -8789,7 +8772,7 @@
 - 2024-07-16 — The Mountain Campaign - Episode 23 — speakers: Brian Posehn
 - 2024-07-09 — The Mountain Campaign - Episode 22 — speakers: Brian Posehn
 - 2024-07-02 — The Mountain Campaign - Episode 21 — speakers: Brian Posehn
-- 2024-06-25 — The Mountain Campaign - Episode 20 — speakers: casting Duplicity, Brian Posehn
+- 2024-06-25 — The Mountain Campaign - Episode 20 — speakers: Brian Posehn
 - 2024-06-18 — The Mountain Campaign - Episode 19 — speakers: Luckily Blaine, Brian Posehn
 - 2024-06-11 — The Mountain Campaign - Episode 18 — speakers: Brian Posehn
 - 2024-06-04 — The Mountain Campaign - Episode 17 — speakers: Brian Posehn
@@ -8797,16 +8780,16 @@
 - 2024-05-21 — The Mountain Campaign - Episode 16 — speakers: Hopefully Dan, Brian Posehn
 - 2024-05-14 — The Mountain Campaign - Episode 15 — speakers: Brian Posehn
 - 2024-05-07 — The Mountain Campaign - Episode 14 — speakers: Pish Posh, Brian Posehn
-- 2024-04-30 — The Mountain Campaign - Episode 13 — speakers: Rip Sarah, Brian Posehn
+- 2024-04-30 — The Mountain Campaign - Episode 13 — speakers: Brian Posehn
 - 2024-04-23 — The Mountain Campaign - Episode 12 — speakers: Brian Posehn
-- 2024-04-16 — The Mountain Campaign - Episode 11 — speakers: Brian Posehn
+- 2024-04-16 — The Mountain Campaign - Episode 11 — speakers: Dungeon Master, Brian Posehn
 - 2024-04-09 — The Mountain Campaign - Episode 10 — speakers: Brian Posehn
 - 2024-04-02 — The Mountain Campaign - Episode 9 — speakers: Brian Posehn
 - 2024-03-26 — The Mountain Campaign - Episode 8 — speakers: Brian Posehn
 - 2024-03-19 — The Mountain Campaign - Episode 7 — speakers: Brian Posehn
 - 2024-03-12 — The Mountain Campaign - Episode 6 — speakers: Brian Posehn
 - 2024-03-05 — The Mountain Campaign - Episode 5 — speakers: Pish Posh, Brian Posehn
-- 2024-02-27 — The Mountain Campaign - Episode 4 — speakers: Brian Posehn
+- 2024-02-27 — The Mountain Campaign - Episode 4 — speakers: Despair Murder, Brian Posehn
 - 2024-02-20 — The Mountain Campaign - Episode 3 — speakers: Brian Posehn
 - 2024-02-13 — The Mountain Campaign - Episode 2 — speakers: Mount Dukes, Brian Posehn
 - 2024-02-06 — The Mountain Campaign - Episode 1 — speakers: Brian Posehn
@@ -8821,7 +8804,7 @@
 - 2023-08-29 — S5E55 Collapse in Judgment — speakers: Brian Posehn
 - 2023-08-22 — S5E54 Ticket out of Crown Town — speakers: Brian Posehn
 - 2023-08-15 — S5E53 Hasty Exit — speakers: Brian Posehn
-- 2023-08-08 — S5E52 Smashy Smashy — speakers: Smashy Smashy, Sorry Blaine, Brian Posehn
+- 2023-08-08 — S5E52 Smashy Smashy — speakers: Smashy Smashy, Brian Posehn
 - 2023-07-25 — S5E51 The Final Demon — speakers: Brian Posehn
 - 2023-07-18 — S5E50 Chode Chopper — speakers: Chode Chopper, Brian Posehn
 - 2023-07-11 — S5E49 The Unfortunate Anatomy of Orcus — speakers: Brian Posehn
@@ -8834,7 +8817,7 @@
 - 2023-05-23 — S5E42 Harmless Little Cave River — speakers: Brian Posehn
 - 2023-05-16 — S5E41 To Puzzle Or Not To Puzzle — speakers: Brian Posehn
 - 2023-05-09 — S5E40 Perilous Choices — speakers: Perilous Choices Ronnie, Brian Posehn
-- 2023-05-02 — S5E39 Sassy Immortality Cups — speakers: Chris Tallman, Brian Posehn
+- 2023-05-02 — S5E39 Sassy Immortality Cups — speakers: Brian Posehn
 - 2023-04-25 — S5E38 Cursed Corpse Crushin' — speakers: Corpse Crushin, Brian Posehn
 - 2023-04-18 — S5E37 Coffin Talk — speakers: Brian Posehn
 - 2023-04-11 — S5E36 Names of Legend — speakers: Brian Posehn
@@ -8842,51 +8825,51 @@
 - 2023-03-28 — S5E34 Stairwell to Lich Hell — speakers: Lich Hell, Brian Posehn
 - 2023-03-21 — S5E33 Nailface — speakers: Brian Posehn
 - 2023-03-14 — S5E32 Torture Chamber Chaos — speakers: Brian Posehn
-- 2023-03-07 — S5E31 The Verdant Swirly — speakers: Brian Posehn
+- 2023-03-07 — S5E31 The Verdant Swirly — speakers: Friar Jolly, Brian Posehn
 - 2023-02-28 — S5E30 Hell Delving — speakers: Hell Delving, Brian Posehn
 - 2023-02-21 — S5E29 Jolly Return — speakers: Chris Tallman, Brian Posehn
-- 2023-02-14 — S5E28 Death Fissure — speakers: Brian Posehn
+- 2023-02-14 — S5E28 Death Fissure — speakers: Death Fissure Sometimes, Brian Posehn
 - 2023-02-07 — Sick Week Apologies — speakers: Sick Week Apologies Sadly, Brian Posehn
-- 2023-01-31 — S5E27 Walloped Warriors — speakers: Walloped Warriors What, Humpty Dumpty, Brian Posehn
-- 2023-01-24 — S5E26 Now With Austin Powers — speakers: Austin Powers Things, Chris Tallman, Brian Posehn
+- 2023-01-31 — S5E27 Walloped Warriors — speakers: Walloped Warriors What, Brian Posehn
+- 2023-01-24 — S5E26 Now With Austin Powers — speakers: Austin Powers Things, Brian Posehn
 - 2023-01-17 — S5E25 What a Wormhole — speakers: Wormhole Well, Brian Posehn
-- 2023-01-10 — S5E24 What Once Was Royal — speakers: not decades, Brian Posehn
-- 2023-01-03 — S5E23 Getting So Thorny — speakers: Drew Hugh Uid, Brian Posehn
+- 2023-01-10 — S5E24 What Once Was Royal — speakers: Brian Posehn
+- 2023-01-03 — S5E23 Getting So Thorny — speakers: Brian Posehn
 - 2022-12-27 — Merry Holiday Message! — speakers: Merry Holiday Message, Brian Posehn
-- 2022-12-20 — S5E22 Sleigh Ride (Plus Monster Murder) — speakers: Happy Holidays, Brian Posehn
-- 2022-12-13 — S5E21 Gleaming the Lube — speakers: Brian Posehn
+- 2022-12-20 — S5E22 Sleigh Ride (Plus Monster Murder) — speakers: Sleigh Ride, Plus Monster Murder, Christmas Carol, Brian Posehn
+- 2022-12-13 — S5E21 Gleaming the Lube — speakers: Lube If, Brian Posehn
 - 2022-12-06 — S5E20 Multiple But Limited Doors — speakers: Royal Hall, Brian Posehn
 - 2022-11-29 — S5E19 TEN YEAR CELEBRATION! (with surprise Gerry Duggan) — speakers: Gerry Duggan, Nerd Poker, Brian Posehn
 - 2022-11-22 — S5E18 The Royal Hall Looms — speakers: Brian Posehn
 - 2022-11-15 — S5E17 Free the Portcullis — speakers: Brian Posehn
-- 2022-11-08 — S5E16 Lever Fever — speakers: Brian Posehn
-- 2022-11-01 — S5E15 Robbing The Evil Dead Person — speakers: Brian Posehn
+- 2022-11-08 — S5E16 Lever Fever — speakers: Lever Fever Oh, Brian Posehn
+- 2022-11-01 — S5E15 Robbing The Evil Dead Person — speakers: him exact, Brian Posehn
 - 2022-10-25 — S5E14 Up The Turret — speakers: Brian Posehn
-- 2022-10-18 — S5E13 Ditchin the Kitchen — speakers: pink mold, Brian Posehn
+- 2022-10-18 — S5E13 Ditchin the Kitchen — speakers: Kitchen After, Brian Posehn
 - 2022-10-11 — S5E12 Eerie Shortcuts — speakers: Eerie Shortcuts Realizing, Brian Posehn
 - 2022-10-04 — S5E11 Halls of Horror — speakers: Brian Posehn
 - 2022-09-13 — S5E10 Into the Castle — speakers: Brian Posehn
 - 2022-09-06 — S5E9 Behind the Door — speakers: Brian Posehn
-- 2022-08-30 — S5E8 Inner Cliff Ascent — speakers: Hopefully Bunk, Brian Posehn
+- 2022-08-30 — S5E8 Inner Cliff Ascent — speakers: Brian Posehn
 - 2022-08-23 — S5E7 Deadly Stink Cloud — speakers: Stink Cloud, Brian Posehn
 - 2022-08-16 — S5E6 Feathery Fury — speakers: Feathery Fury Looks, Brian Posehn
 - 2022-08-09 — S5E5 Kill The Eyeless Murderers — speakers: Brian Posehn
-- 2022-08-02 — S5E4 Silent Flying Death — speakers: Brian Posehn
+- 2022-08-02 — S5E4 Silent Flying Death — speakers: Hopefully Ronn, Brian Posehn
 - 2022-07-26 — S5E3 The Mists Beneath The Cliffs — speakers: Brian Posehn
 - 2022-07-18 — S5E2 Spectral Exam — speakers: Brian Posehn
 - 2022-07-12 — S5E1 Vyndarea — speakers: Brian Posehn
-- 2022-07-05 — S5E0 Session Zero — speakers: old ones, Brian Posehn
+- 2022-07-05 — S5E0 Session Zero — speakers: Session Zero Before, Brian Posehn
 - 2022-06-28 — Season Five Trailer! — speakers: Brian Posehn
-- 2022-06-21 — Minotaur Heist with Kevin Sussman — speakers: Kevin Sussman Behold, Kevin Sussman, Brian Posehn
+- 2022-06-21 — Minotaur Heist with Kevin Sussman — speakers: Kevin Sussman Behold, Brian Posehn
 - 2022-06-14 — S4E92 Cabal Room Blitz — speakers: Brian Posehn
 - 2022-06-07 — S4E91 Demon Death — speakers: Demon Death, Brian Posehn
-- 2022-05-31 — S4E90 Golden Jerk — speakers: Golden Jerk, Luckily Sam, Brian Posehn
+- 2022-05-31 — S4E90 Golden Jerk — speakers: Golden Jerk, Brian Posehn
 - 2022-05-24 — S4E89 Tidying the Temple — speakers: Castaway Cuties, Brian Posehn
-- 2022-05-17 — S4E88 Let The Blight One In — speakers: Castaway Cuties, Dungeon Master, Brian Posehn
+- 2022-05-17 — S4E88 Let The Blight One In — speakers: Brian Posehn
 - 2022-05-10 — S4E87 Smashy Smashy — speakers: Smashy Smashy, Brian Posehn
 - 2022-05-03 — S4E86 Temple Crawl — speakers: Castaway Cuties, Brian Posehn
 - 2022-04-26 — S4E85 Hole Tactics — speakers: Brian Posehn
-- 2022-04-19 — S4E84 Clearing the Horror — speakers: Castaway Cuties, Brian Posehn
+- 2022-04-19 — S4E84 Clearing the Horror — speakers: Brian Posehn
 - 2022-04-12 — S4E83 Friends in Peril — speakers: Brian Posehn
 - 2022-04-05 — S4E82 Bloodbath at the Gallows — speakers: Brian Posehn
 - 2022-03-29 — S4E81 Death Knight Night — speakers: Death Knight Night Undead, Castaway Cuties, Brian Posehn
@@ -8904,63 +8887,63 @@
 - 2022-01-04 — S4E69 Mayor Derf Demon — speakers: Brian Posehn
 - 2021-12-28 — S4E68 Cuties Reunited — speakers: Brian Posehn
 - 2021-12-21 — S4E67 Nathan Quest — speakers: Nathan Quest, Chris Tallman, Brian Posehn
-- 2021-12-14 — S4E66 Cabal Showdown — speakers: Brian Posehn
+- 2021-12-14 — S4E66 Cabal Showdown — speakers: Cabal Showdown Partially, Brian Posehn
 - 2021-12-07 — S4E65 Woody War — speakers: Woody War Time, Brian Posehn
 - 2021-11-30 — S4E64 Waving At Weirdos — speakers: Brian Posehn
 - 2021-11-23 — S4E63 Fast Flight To Flaysacola — speakers: Brian Posehn
 - 2021-11-16 — S4E62 Bloodsuckers Suck — speakers: Bloodsuckers Suck, Brian Posehn
 - 2021-11-09 — S4E61 Parasite For Sore Throats — speakers: Brian Posehn
-- 2021-11-02 — S4E60 Vile Vials — speakers: Vile Vials There, Castaway Cuties, Brian Posehn
+- 2021-11-02 — S4E60 Vile Vials — speakers: Vile Vials There, Brian Posehn
 - 2021-10-26 — S4E59 Nosferattitude — speakers: Brian Posehn
 - 2021-10-19 — S4E58 Woke Up Kronky — speakers: Up Kronky, Brian Posehn
 - 2021-10-12 — S4E57 Manner of Manor — speakers: Brian Posehn
-- 2021-10-05 — S4E56 Blingbottom If You Got Em — speakers: Castaway Cuties, Princess Cospia, Brian Posehn
+- 2021-10-05 — S4E56 Blingbottom If You Got Em — speakers: Castaway Cuties, Princess Cosp, Brian Posehn
 - 2021-09-28 — S4E55 Sleepy Creepy — speakers: Brian Posehn
 - 2021-09-21 — S4E54 Davenglaven Barbecue — speakers: Davenglaven Barbecue Things, Brian Posehn
-- 2021-09-14 — S4E53 Bitey Rabbit — speakers: Brian Posehn
+- 2021-09-14 — S4E53 Bitey Rabbit — speakers: Castaway Cuties, Brian Posehn
 - 2021-09-07 — S4E52 The River Experiment — speakers: Brian Posehn
-- 2021-08-31 — S4E51 Castaway Cuties Versus The Gillaxian Army — speakers: Brian Posehn
+- 2021-08-31 — S4E51 Castaway Cuties Versus The Gillaxian Army — speakers: war machine, Brian Posehn
 - 2021-08-24 — S4E50 Demon Schemin — speakers: Demon Schemin, Brian Posehn
-- 2021-08-16 — S4E49 Battle of the Battered Fish — speakers: heavily armored, any encounter, them yet, Brian Posehn
+- 2021-08-16 — S4E49 Battle of the Battered Fish — speakers: Brian Posehn
 - 2021-08-10 — S4E48 Beach Keach — speakers: Beach Keach Guess, Castaway Cuties, Brian Posehn
-- 2021-08-03 — S4E47 Attunement's Lament — speakers: Brian Posehn
-- 2021-07-27 — S4E46 Underwater Hag Hell — speakers: Brian Posehn
-- 2021-07-20 — S4E45 Gillaxian Tax — speakers: Brian Posehn
+- 2021-08-03 — S4E47 Attunement's Lament — speakers: Lament Now, Brian Posehn
+- 2021-07-27 — S4E46 Underwater Hag Hell — speakers: Castaway Cuties, Brian Posehn
+- 2021-07-20 — S4E45 Gillaxian Tax — speakers: Gillaxian Tax Oh, Brian Posehn
 - 2021-07-13 — S4E44 Flood Physics — speakers: Brian Posehn
 - 2021-07-06 — S4E43 Dead End Friends — speakers: real exits, Brian Posehn
 - 2021-06-29 — S4E42 Underwater Anvil — speakers: Underwater Anvil, Brian Posehn
 - 2021-06-22 — S4E41 Creeps in the Deeps — speakers: Brian Posehn
 - 2021-06-15 — S4E40 Shaman On Ice — speakers: Brian Posehn
 - 2021-06-08 — S4E39 Hammer Time — speakers: Hammer Time, Brian Posehn
-- 2021-06-01 — S4E38 Lake Boss — speakers: Nerd Poker, Brian Posehn
-- 2021-05-25 — S4E37 Dicey Piscine Scene — speakers: pirahna-faced gillaxians, Brian Posehn
+- 2021-06-01 — S4E38 Lake Boss — speakers: Brian Posehn
+- 2021-05-25 — S4E37 Dicey Piscine Scene — speakers: Dicey Piscine Scene Negotiations, Castaway Cuti, Brian Posehn
 - 2021-05-18 — S4E36 Megalake Pangadon — speakers: Megalake Pangadon, Brian Posehn
-- 2021-05-10 — S4E35 Turtle Skirmish — speakers: Castaway Cuties, Dragon Turtle, Brian Posehn
+- 2021-05-10 — S4E35 Turtle Skirmish — speakers: Castaway Cuties, Brian Posehn
 - 2021-05-04 — S4E34 The Shell's Lament — speakers: Megalake Pangadon, Brian Posehn
 - 2021-04-27 — S4E33 Mindflayer Shanty — speakers: Mindflayer Shanty, Brian Posehn
 - 2021-04-19 — S4E32 Good Boy Ramen — speakers: Brian Posehn
 - 2021-04-13 — S4E31 Magma Mystery Mining — speakers: Brian Posehn
 - 2021-04-05 — S4E30 Bleak Week For Cuties — speakers: Brian Posehn
-- 2021-03-30 — S4E29 Gravity Shmavity — speakers: Hopefully Danny, Chris Tallman, Brian Posehn
+- 2021-03-30 — S4E29 Gravity Shmavity — speakers: Brian Posehn
 - 2021-03-23 — S4E28 Demonic Winds — speakers: Brian Posehn
 - 2021-03-16 — S4E27 Octopus Royalty — speakers: Brian Posehn
 - 2021-03-09 — S4E26 A Tug In The Dark — speakers: Brian Posehn
 - 2021-03-02 — S4E25 Tortle Trayzure — speakers: Brian Posehn
 - 2021-02-23 — S4E24 Plummet Summit — speakers: Brian Posehn
 - 2021-02-16 — S4E23 Vertical Shafts — speakers: Brian Posehn
-- 2021-02-09 — S4E22 Shadowhell — speakers: Brian Posehn
+- 2021-02-09 — S4E22 Shadowhell — speakers: Shadowhell Surely, Castaway Cuties, Brian Posehn
 - 2021-02-02 — S4E21 Memaw Melee — speakers: Memaw Melee, Brian Posehn
 - 2021-01-26 — S4E20 Sweet Oasis — speakers: Sweet Oasis, Brian Posehn
 - 2021-01-19 — S4E19 Leviathan's Spiral — speakers: Brian Posehn
 - 2021-01-12 — S4E18 Flaysacola — speakers: Flaysacola After, Brian Posehn
 - 2021-01-05 — S4E17 Cellar's Market — speakers: Castaway Cuties, Brian Posehn
 - 2020-12-29 — S4E16 Vamp Stamp — speakers: Vamp Stamp, Brian Posehn
-- 2020-12-23 — Forest Meat Up with Felicia Day — speakers: Felicia Day, Engineer Sam, Brian Posehn
-- 2020-12-22 — S4E15 What's In The Box — speakers: Nerd Poker, Brian Posehn
+- 2020-12-23 — Forest Meat Up with Felicia Day — speakers: Felicia Day, Brian Posehn
+- 2020-12-22 — S4E15 What's In The Box — speakers: Brian Posehn
 - 2020-12-15 — S4E14 Receptacle Spectacle — speakers: Brian Posehn
 - 2020-12-08 — S4E13 Invisible Jerk — speakers: Brian Posehn
 - 2020-12-01 — S4E12 Hag Manor — speakers: Hag Manor, Brian Posehn
-- 2020-11-24 — S4E11 Nine Nein-Canines — speakers: Brian Posehn
+- 2020-11-24 — S4E11 Nine Nein-Canines — speakers: Nine Nein, Brian Posehn
 - 2020-11-17 — S4E10 Guild Trip — speakers: Brian Posehn
 - 2020-11-10 — S4E9 Blingbottom — speakers: Brian Posehn
 - 2020-11-03 — S4E8 Marrow, Wanna? — speakers: Brian Posehn
@@ -8971,16 +8954,16 @@
 - 2020-09-29 — S4E3 Verge Overkill — speakers: Verge Overkill, Brian Posehn
 - 2020-09-22 — S4E2 Davenglaven — speakers: Brian Posehn
 - 2020-09-15 — S4E1 Schoonarooni — speakers: Schoonarooni Welcome, Brian Posehn
-- 2020-09-13 — Epilogue - Season 3 — speakers: Brian Posehn
+- 2020-09-13 — Epilogue - Season 3 — speakers: what happe, Brian Posehn
 - 2020-09-08 — Episode 85 - The Age Of Elves — speakers: Ice Five, Brian Posehn
 - 2020-09-01 — Episode 84 - The Calm Before The Dad — speakers: Brian Posehn
-- 2020-08-25 — Episode 83 - To Ascend Or Not To Ascend — speakers: Brian Posehn
-- 2020-08-18 — Episode 82 - Don't Look Down — speakers: Amarth Amon, Brian Posehn
+- 2020-08-25 — Episode 83 - To Ascend Or Not To Ascend — speakers: Tenebrous One, Brian Posehn
+- 2020-08-18 — Episode 82 - Don't Look Down — speakers: Look Down There, Ice Five, Brian Posehn
 - 2020-08-11 — Episode 81 - Freak Peak — speakers: Brian Posehn
 - 2020-08-04 — Episode 80 - Ultraweirdo — speakers: Brian Posehn
 - 2020-07-28 — Episode 79 - Feywilderness — speakers: Brian Posehn
 - 2020-07-21 — Episode 78 - Melted Sand That Walks — speakers: Brian Posehn
-- 2020-07-14 — Episode 77 - Halcyne Not Heard — speakers: Barrowsteppes Dragon, Brian Posehn
+- 2020-07-14 — Episode 77 - Halcyne Not Heard — speakers: Brian Posehn
 - 2020-07-07 — Episode 76 - Stoned Cleric — speakers: Brian Posehn
 - 2020-06-30 — Episode 75 - Stepped In It — speakers: Brian Posehn
 - 2020-06-23 — Episode 74 - Revelation Station — speakers: Violet Fang, Brian Posehn
@@ -8988,12 +8971,12 @@
 - 2020-06-09 — Episode 72 - Pirate Pyre — speakers: Brian Posehn
 - 2020-06-02 — Episode 71 - Admiral Matricide — speakers: Brian Posehn
 - 2020-05-26 — Episode 70 - Flayer Betrayer — speakers: Flayer Betrayer Time, Brian Posehn
-- 2020-05-19 — Episode 69 - Assimilation Expectation — speakers: Brian Posehn
+- 2020-05-19 — Episode 69 - Assimilation Expectation — speakers: Mother Brain, Brian Posehn
 - 2020-05-12 — Episode 68 - Sour Mom — speakers: Brian Posehn
 - 2020-05-05 — Episode 67 - Slimy Slayer's Soliloquy — speakers: Slimy Slayer, Brian Posehn
 - 2020-04-28 — Episode 66 - Gorey Ghosts — speakers: Ice Five, Brian Posehn
 - 2020-04-22 — The Unstable Stable - Part Two — speakers: Brian Posehn
-- 2020-04-22 — The Unstable Stable - Part One — speakers: Brian Posehn
+- 2020-04-22 — The Unstable Stable - Part One — speakers: Danger Room, Brian Posehn
 - 2020-04-21 — Episode 65 - Whiff of Tusk — speakers: Brian Posehn
 - 2020-04-14 — Episode 64 - Upper Decked — speakers: Decked Time, Brian Posehn
 - 2020-04-07 — Episode 63 - Flayer Season in the Abyss — speakers: Brian Posehn
@@ -9002,8 +8985,8 @@
 - 2020-03-17 — Episode 60 - Silverhenny Trap — speakers: Silverhenny Woods, Brian Posehn
 - 2020-03-10 — Episode 59 - The Violet Fang — speakers: Brian Posehn
 - 2020-03-03 — Episode 58 - Clompity — speakers: Ice Five, Brian Posehn
-- 2020-02-25 — Episode 57 - Haushucks — speakers: Brian Posehn
-- 2020-02-18 — Episode 56 - Who Watches The Watcher — speakers: Nerd Poker, Brian Posehn
+- 2020-02-25 — Episode 57 - Haushucks — speakers: Haushucks Down, Ice Five, Brian Posehn
+- 2020-02-18 — Episode 56 - Who Watches The Watcher — speakers: Brian Posehn
 - 2020-02-11 — Episode 55 - The Digested Five — speakers: Brian Posehn
 - 2020-02-04 — Episode 54 - Behir We Go — speakers: Ice Five, Brian Posehn
 - 2020-01-28 — Episode 53 - Donkeyland Ahoy — speakers: Brian Posehn
@@ -9013,94 +8996,94 @@
 - 2019-12-31 — Episode 49 - Fell Fish Finale — speakers: Ice Five, Dame Island, Brian Posehn
 - 2019-12-24 — A Holiday Greeting — speakers: Holiday Greeting, Brian Posehn
 - 2019-12-17 — Episode 48 - Murder at Slime Lake — speakers: Brian Posehn
-- 2019-12-10 — Episode 47 - Abyssal Dismissal — speakers: narwhal juggernaut, Brian Posehn
-- 2019-12-03 — Episode 46 - Altar of Tusks — speakers: Brian Posehn
-- 2019-11-26 — Episode 45 - Gus Fuss — speakers: Brian Posehn
-- 2019-11-19 — Episode 44 - Finsurrection — speakers: Brian Posehn
+- 2019-12-10 — Episode 47 - Abyssal Dismissal — speakers: Ice Five, Vaunted Tusk, Brian Posehn
+- 2019-12-03 — Episode 46 - Altar of Tusks — speakers: Vaunted Tusk, Brian Posehn
+- 2019-11-26 — Episode 45 - Gus Fuss — speakers: Gus Fuss After, Dame Island, Ice Five, Brian Posehn
+- 2019-11-19 — Episode 44 - Finsurrection — speakers: Finsurrection Halcyne, Dame Island, Brian Posehn
 - 2019-11-12 — Episode 43 - Juggernaughty By Nature — speakers: Dame Island, Ice Five, Brian Posehn
-- 2019-11-05 — Episode 42 - Off The Narwhal — speakers: Narwhal After, Dargthur Sturry, Brian Posehn
+- 2019-11-05 — Episode 42 - Off The Narwhal — speakers: Narwhal After, Brian Posehn
 - 2019-10-29 — Episode 41 - Gotta Get Back In Time Boat — speakers: Brian Posehn
 - 2019-10-22 — Episode 40 - Tide Clods — speakers: Brian Posehn
-- 2019-10-15 — Episode 39 - Hidey Sky Hole — speakers: Brian Posehn
+- 2019-10-15 — Episode 39 - Hidey Sky Hole — speakers: Hidey Sky Hole After, Brian Posehn
 - 2019-10-08 — Episode 38 - Havoccula Strikes Back — speakers: Havoccula Strikes Back, Brian Posehn
 - 2019-10-01 — Episode 37 - Core Lore — speakers: Brian Posehn
 - 2019-09-24 — Episode 36 - Ice Five Adjacent — speakers: Brian Posehn
 - 2019-09-17 — Episode 35 - Power to the Queeple — speakers: Brian Posehn
 - 2019-09-10 — Episode 34 - Fried Hegg — speakers: Brian Posehn
 - 2019-09-03 — Episode 33 - Sneaky Cracks — speakers: Sneaky Cracks Though, Brian Posehn
-- 2019-08-27 — Episode 32 - Dragons for Giants — speakers: Brian Posehn
+- 2019-08-27 — Episode 32 - Dragons for Giants — speakers: Barrowsteppes Dragons, Brian Posehn
 - 2019-08-20 — Episode 31 - Necrofancy — speakers: Brian Posehn
 - 2019-08-13 — Episode 30 - Kakka-Looo — speakers: Brian Posehn
 - 2019-08-12 — A Brief Message From Us — speakers: Nerd Poker, Therapy Dogs International, Brian Posehn
-- 2019-08-06 — Episode 29 - Wexhall — speakers: gnome guards, Brian Posehn
+- 2019-08-06 — Episode 29 - Wexhall — speakers: Wexhall First, Ice Five, Brian Posehn
 - 2019-07-30 — Episode 28 - Pirate Pile On — speakers: Brian Posehn
 - 2019-07-23 — Episode 27 - Dream Shard — speakers: Brian Posehn
-- 2019-07-16 — Episode 26 - Harrowing Hag Havoc — speakers: Brian Posehn
-- 2019-07-10 — Episode 25 - Quake Boss — speakers: Brian Posehn
-- 2019-07-03 — Episode 24 - Braining Men — speakers: Brian Posehn
+- 2019-07-16 — Episode 26 - Harrowing Hag Havoc — speakers: Harrowing Hag Havoc Beneath, Brian Posehn
+- 2019-07-10 — Episode 25 - Quake Boss — speakers: Ice Five, Brian Posehn
+- 2019-07-03 — Episode 24 - Braining Men — speakers: Ice Five, Dame Island, Brian Posehn
 - 2019-06-26 — Episode 23 - Unknown Waters — speakers: Brian Posehn
-- 2019-06-19 — Episode 22 - Turning Gears — speakers: Will Halcyne, Brian Posehn
-- 2019-06-13 — Bonus Episode - D&D's The Descent Livestream — speakers: Sam Keiffer, Brian Posehn
+- 2019-06-19 — Episode 22 - Turning Gears — speakers: Brian Posehn
+- 2019-06-13 — Bonus Episode - D&D's The Descent Livestream — speakers: Brian Posehn
 - 2019-06-12 — Episode 21 - Havoccula — speakers: Brian Posehn
 - 2019-06-05 — Episode 20 - Evacuation Plan — speakers: Brian Posehn
 - 2019-05-29 — Episode 19 - Dragon Watch — speakers: Brian Posehn
 - 2019-05-22 — Episode 18 - Baron Wasteland — speakers: Brian Posehn
 - 2019-05-15 — Episode 17 - Icy Mists — speakers: Brian Posehn
 - 2019-05-08 — Episode 16 - Gulp — speakers: Chris Tallman, Brian Posehn
-- 2019-05-01 — Episode 15 - Admiral Ahoy — speakers: Chris Tallman, Brian Posehn
-- 2019-04-24 — Episode 14 - Fang Gang — speakers: Sister Briarlock, Chris Tallman, Brian Posehn
+- 2019-05-01 — Episode 15 - Admiral Ahoy — speakers: Brian Posehn
+- 2019-04-24 — Episode 14 - Fang Gang — speakers: Brian Posehn
 - 2019-04-17 — Episode 13 - Lurue — speakers: Lurue After, Brian Posehn
 - 2019-04-10 — Episode 12 - Golden Stratagem — speakers: Brian Posehn
 - 2019-04-03 — Episode 11 - Thoggis — speakers: Brian Posehn
 - 2019-03-27 — Episode 10 - Hall Raid — speakers: Hall Raid, Brian Posehn
 - 2019-03-20 — Episode 9 - Execution O'Clock — speakers: Clock Having, Brian Posehn
-- 2019-03-13 — Episode 8 - Dugthukked — speakers: Brian Posehn
-- 2019-03-06 — Episode 7 - Keg of Whispers — speakers: Dargthur Sturry, Nerd Poker, Brian Posehn
-- 2019-02-27 — Episode 6 - Spelunking Bird — speakers: Brian Posehn
+- 2019-03-13 — Episode 8 - Dugthukked — speakers: Dugthukked Dargthur, Brian Posehn
+- 2019-03-06 — Episode 7 - Keg of Whispers — speakers: Brian Posehn
+- 2019-02-27 — Episode 6 - Spelunking Bird — speakers: Spelunking Bird Despite, Brian Posehn
 - 2019-02-20 — Episode 5 - Haushinka — speakers: Brian Posehn
-- 2019-02-13 — Episode 4 - Frosty Precipice — speakers: Engineer Sam, Brian Posehn
+- 2019-02-13 — Episode 4 - Frosty Precipice — speakers: Frosty Precipice Deep, Brian Posehn
 - 2019-02-06 — Episode 3 - Tunnel Tenure — speakers: Brian Posehn
-- 2019-01-30 — Episode 2 - Peppergreen — speakers: Shaun Bryant, Brian Posehn
+- 2019-01-30 — Episode 2 - Peppergreen — speakers: Peppergreen After, Brian Posehn
 - 2019-01-23 — Episode 1 - Cloddenheim — speakers: Brian Posehn
 - 2019-01-16 — Episode 47 - A Swamp Tree — speakers: Swamp Tree Time, Brian Posehn
 - 2019-01-09 — Episode 46 - Straddling the Maw — speakers: Brian Posehn
-- 2018-12-19 — Episode 45 - Death and Cake — speakers: Chris Tallman, Brian Posehn
+- 2018-12-19 — Episode 45 - Death and Cake — speakers: Brian Posehn
 - 2018-12-12 — Episode 44 - Baked Goods — speakers: Jnrei D'Nah, Brian Posehn
 - 2018-12-05 — Episode 43 - Serpent Revival — speakers: Brian Posehn
 - 2018-11-28 — Episode 42 - Salute Mi Familia — speakers: Brian Posehn
 - 2018-11-21 — Episode 41 - Metal Ghosts — speakers: Brian Posehn
-- 2018-11-14 — Episode 40 - Gilfry or Die — speakers: Kenku Gilfry, Jnrei D'Nah, Brian Posehn
-- 2018-11-07 — Episode 39 - Chasma's Wrath — speakers: Torturemaster Gilfry, Brian Posehn
-- 2018-10-31 — Episode 38 - Crystal Squeeze — speakers: Jnrei D'Nah, Brian Posehn
+- 2018-11-14 — Episode 40 - Gilfry or Die — speakers: Brian Posehn
+- 2018-11-07 — Episode 39 - Chasma's Wrath — speakers: Brian Posehn
+- 2018-10-31 — Episode 38 - Crystal Squeeze — speakers: Brian Posehn
 - 2018-10-24 — Episode 37 - Pink Ribbons — speakers: God Slayer, Brian Posehn
 - 2018-10-17 — Episode 36 - Mad Dash Through Monsterpalooza — speakers: Mad Dash Through Monsterpalooza, Brian Posehn
-- 2018-10-10 — Episode 35 - Harmless Blessing — speakers: Brian Posehn
-- 2018-10-03 — Episode 34 - The Wrong Sky — speakers: Tom Netty, Brian Posehn
-- 2018-09-26 — Episode 33 - Moon Prison — speakers: Jnrei D'Nah, Brian Posehn
+- 2018-10-10 — Episode 35 - Harmless Blessing — speakers: Harmless Blessing Finally, Brian Posehn
+- 2018-10-03 — Episode 34 - The Wrong Sky — speakers: Brian Posehn
+- 2018-09-26 — Episode 33 - Moon Prison — speakers: Moon Prison Okay, Brian Posehn
 - 2018-09-19 — Episode 32 - The Flip Side — speakers: Tom Doretto, Brian Posehn
 - 2018-09-12 — Episode 31 - Ride or Die — speakers: Brian Posehn
 - 2018-09-05 — Episode 30 - Don't Get Mad — speakers: Brian Posehn
 - 2018-08-29 — Episode 29 - Run Cook Run — speakers: Chris Tallman, Brian Posehn
-- 2018-08-22 — Episode 28 - Churn Worms — speakers: Chris Tallman, Brian Posehn
-- 2018-08-15 — Episode 27 - Black Chromatic Army — speakers: Chris Tallman, Hal Lublin, Brian Posehn
-- 2018-08-08 — Episode 26 - Cosmic Crunk — speakers: Dani Hartel, Jnrei D'Nah, Brian Posehn
+- 2018-08-22 — Episode 28 - Churn Worms — speakers: Brian Posehn
+- 2018-08-15 — Episode 27 - Black Chromatic Army — speakers: Black Chromatic Army Hello, Brian Posehn
+- 2018-08-08 — Episode 26 - Cosmic Crunk — speakers: Cosmic Crunk If, Brian Posehn
 - 2018-08-01 — Episode 25 - Jnrei D'Nah — speakers: Nah Time, Brian Posehn
 - 2018-07-25 — Episode 24 - The Final Mage College — speakers: Brian Posehn
 - 2018-07-18 — Episode 23 - Time Roulette — speakers: Brian Posehn
-- 2018-07-11 — Episode 22 - Stabby Ascent — speakers: Brian Posehn
+- 2018-07-11 — Episode 22 - Stabby Ascent — speakers: Stabby Ascent Don, Brian Posehn
 - 2018-07-04 — Episode 21 - Pool Party's Over (with Chris Tallman!) — speakers: Chris Tallman, Brian Posehn
-- 2018-06-27 — Episode 20 - Typha's Hour (with Chris Tallman!) — speakers: Chris Tallman, Battle Cook, John Smith Iii, Colm O'Reilly, Brian Posehn
+- 2018-06-27 — Episode 20 - Typha's Hour (with Chris Tallman!) — speakers: Chris Tallman, Brian Posehn
 - 2018-06-20 — Episode 19 - Guardians of the Cloak — speakers: Brian Posehn
-- 2018-06-13 — Episode 18 - The Sacrifice — speakers: Brian Posehn
-- 2018-06-06 — Episode 17 - Pink Sparkle Pit — speakers: Pink Sparkle Pit Determined, Second Sky, Brian Posehn
+- 2018-06-13 — Episode 18 - The Sacrifice — speakers: faerie spiders, Brian Posehn
+- 2018-06-06 — Episode 17 - Pink Sparkle Pit — speakers: Pink Sparkle Pit Determined, Brian Posehn
 - 2018-05-30 — Episode 16 - Feywild Girlfriends — speakers: Brian Posehn
 - 2018-05-23 — Episode 15 - Never Stop Portalling — speakers: Brian Posehn
 - 2018-05-16 — Episode 14 - Dessa and the Cloak — speakers: Brian Posehn
 - 2018-05-09 — Episode 13 - Kord's Judgement — speakers: Brian Posehn
 - 2018-05-02 — Episode 12 - The Cult of Zinzerena — speakers: Brian Posehn
-- 2018-04-25 — Episode 11 - Two Floors of Fury — speakers: Brian Posehn
+- 2018-04-25 — Episode 11 - Two Floors of Fury — speakers: Two Floors, Fury Welcome, Brian Posehn
 - 2018-04-18 — Episode 10 - Legend of the Mosquito Coils — speakers: Brian Posehn
-- 2018-04-11 — Episode 9 - Tower Treachery — speakers: Brian Posehn
+- 2018-04-11 — Episode 9 - Tower Treachery — speakers: Gostel Mage College, Brian Posehn
 - 2018-04-04 — Episode 8 - Bonnkyl College Tour — speakers: College Tour, Brian Posehn
 - 2018-03-28 — Episode 7 - The Wyrm Approacheth — speakers: Brian Posehn
 - 2018-03-21 — Episode 6 - Revenge of the Inside Out — speakers: Brian Posehn
@@ -9113,43 +9096,43 @@
 - 2018-01-31 — Episode 41 - The Altar — speakers: Brian Posehn
 - 2018-01-24 — Episode 40 - Dimensional Echoes — speakers: Brian Posehn
 - 2018-01-17 — Episode 39 - The Guardian Awakens — speakers: Brian Posehn
-- 2018-01-10 — Episode 38 - The Broken King — speakers: Count Barriss, Will Bodhi, Will Tom, Brian Posehn
-- 2018-01-03 — Episode 37 - Katydid Parade — speakers: Will Blaine, Brian Posehn
-- 2017-12-27 — Episode 36 - Welcome Again — speakers: Count Ahmelegda, Brian Posehn
-- 2017-12-20 — Episode 35 - The Dead God Below — speakers: Will Luovyn, Will Bodhi, Will Tom, Brian Posehn
-- 2017-12-13 — Episode 34 - Barry's Revenge — speakers: Will Dan, Brian Posehn
-- 2017-12-06 — Episode 33 - Hello, Demelith — speakers: Will Tom, Brian Posehn
+- 2018-01-10 — Episode 38 - The Broken King — speakers: Count Barriss, Brian Posehn
+- 2018-01-03 — Episode 37 - Katydid Parade — speakers: Katydid Parade Blaine, Brian Posehn
+- 2017-12-27 — Episode 36 - Welcome Again — speakers: Welcome Again Merry Christmas, Brian Posehn
+- 2017-12-20 — Episode 35 - The Dead God Below — speakers: Brian Posehn
+- 2017-12-13 — Episode 34 - Barry's Revenge — speakers: Lunar Elves, Brian Posehn
+- 2017-12-06 — Episode 33 - Hello, Demelith — speakers: Brian Posehn
 - 2017-11-29 — Episode 32 - The End Has Started — speakers: Brian Posehn
-- 2017-11-22 — Episode 31 - The Vampire's Jitterbug — speakers: Count Diandell, Will Tom, Will Bodhi, Brian Posehn
-- 2017-11-15 — Episode 30 - The Truth About The Moon — speakers: Will Bodhi, Will Tom, Brian Posehn
-- 2017-11-08 — Episode 29 - Broken Bloodlines — speakers: Grizma Greycragg, Will Bodhi, Brian Posehn
+- 2017-11-22 — Episode 31 - The Vampire's Jitterbug — speakers: Brian Posehn
+- 2017-11-15 — Episode 30 - The Truth About The Moon — speakers: Brian Posehn
+- 2017-11-08 — Episode 29 - Broken Bloodlines — speakers: Broken Bloodlines After, Brian Posehn
 - 2017-11-01 — Episode 28 - The Obsidian Curse — speakers: Brian Posehn
-- 2017-10-25 — Episode 27 - Elder Nightmares — speakers: Will Blaine, Brian Posehn
+- 2017-10-25 — Episode 27 - Elder Nightmares — speakers: Elder Nightmares Behold, Brian Posehn
 - 2017-10-18 — You're Gonna Die - A Tomb of Annihilation Prologue — speakers: Gonna Die, Annihilation Prologue Welcome, Brian Posehn
 - 2017-10-13 — Personal Request From Brian — speakers: Brian Posehn
-- 2017-10-11 — Episode 26 - Horrors in the Wastes — speakers: Will Dan, Brian Posehn
-- 2017-10-04 — Episode 25 - Army of Extremeness — speakers: before them, Brian Posehn
+- 2017-10-11 — Episode 26 - Horrors in the Wastes — speakers: Brian Posehn
+- 2017-10-04 — Episode 25 - Army of Extremeness — speakers: Extremeness After, Brian Posehn
 - 2017-09-27 — Episode 24 - Claw of the Great Blue Green — speakers: Brian Posehn
-- 2017-09-20 — Episode 23 - Warchild Ritual — speakers: Will Warchild, Brian Posehn
-- 2017-09-13 — Episode 22 - Morgatholl's Haunted Guts — speakers: Will Twee, Will Bodhi, Brian Posehn
-- 2017-09-06 — Episode 21 - The Lost City — speakers: Will Tom, Will Bodhi, Brian Posehn
-- 2017-08-30 — Episode 20 - Riddle of Cowardice — speakers: Jolly Ranchers, Brian Posehn
-- 2017-08-23 — Episode 19 - The Bowels of the Mists Erupt — speakers: Will Tom, Brian Posehn
-- 2017-08-16 — Episode 18 - Deep in Misery's Halo — speakers: Will Dan, Will Goggo, Brian Posehn
+- 2017-09-20 — Episode 23 - Warchild Ritual — speakers: Brian Posehn
+- 2017-09-13 — Episode 22 - Morgatholl's Haunted Guts — speakers: Brian Posehn
+- 2017-09-06 — Episode 21 - The Lost City — speakers: Brian Posehn
+- 2017-08-30 — Episode 20 - Riddle of Cowardice — speakers: Brian Posehn
+- 2017-08-23 — Episode 19 - The Bowels of the Mists Erupt — speakers: Brian Posehn
+- 2017-08-16 — Episode 18 - Deep in Misery's Halo — speakers: Brian Posehn
 - 2017-08-09 — Episode 17 - I Have No Mouth, and Cannot Argue — speakers: Count Bariss, Brian Posehn
 - 2017-08-01 — Episode 16 - Toasty! — speakers: Brian Posehn
-- 2017-07-26 — Episode 15 - Bariss Junior — speakers: Will Tom, Brian Posehn
+- 2017-07-26 — Episode 15 - Bariss Junior — speakers: Count Bariss, Brian Posehn
 - 2017-07-19 — Episode 14 - Shrug To The Camera — speakers: Count Bariss, Brian Posehn
-- 2017-07-12 — Episode 13 - Stomp On It — speakers: Will Brian, Brian Posehn
-- 2017-07-05 — Episode 12 - I Wouldn't Do This in Real Life — speakers: Will Smoky, Brian Posehn
-- 2017-06-28 — Episode 11 - Misery's Finger — speakers: Daphne Zuniga, Brian Posehn
+- 2017-07-12 — Episode 13 - Stomp On It — speakers: Brian Posehn
+- 2017-07-05 — Episode 12 - I Wouldn't Do This in Real Life — speakers: Brian Posehn
+- 2017-06-28 — Episode 11 - Misery's Finger — speakers: Brian Posehn
 - 2017-06-21 — Episode 10 - Vorpal Bosch — speakers: Brian Posehn
 - 2017-06-13 — Episode 9 - Phantasmal Pop Tart — speakers: Brian Posehn
-- 2017-06-07 — Episode 8 - Coccyx — speakers: Count Ahmelegdha, Will Bodhi, Will Tom, Will Dan, Brian Posehn
-- 2017-05-31 — Episode 7 - Did the Wrong Thing, But Oh Well — speakers: Martin Short, Ken Daly, Will Ken, Brian Posehn
-- 2017-05-24 — Episode 6 - Nightmarish Chewing and a Vampire — speakers: Misophonia Trigger Warning, Count Ahmelegdha, Brian Posehn
+- 2017-06-07 — Episode 8 - Coccyx — speakers: Brian Posehn
+- 2017-05-31 — Episode 7 - Did the Wrong Thing, But Oh Well — speakers: Martin Short, Brian Posehn
+- 2017-05-24 — Episode 6 - Nightmarish Chewing and a Vampire — speakers: Misophonia Trigger Warning, Brian Posehn
 - 2017-05-17 — Episode 5 - Time Crimes — speakers: Brian Posehn
-- 2017-05-10 — Episode 4 - Aw Netty — speakers: Aw Netty, Tom Diretto, Brian Posehn
+- 2017-05-10 — Episode 4 - Aw Netty — speakers: Aw Netty, Brian Posehn
 - 2017-05-02 — Episode 3 - Manannan and the Lost City — speakers: Brian Posehn
 - 2017-04-27 — Episode 2 - Pillbug Shadows — speakers: Brian Posehn
 - 2017-04-26 — Episode 1 - Amynna — speakers: Tom Diretto, Brian Posehn

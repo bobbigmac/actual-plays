@@ -2,9 +2,9 @@
 
 - slug: `order-of-shana-the-women-running-dungeon-crawl-classics-rpg`
 - source: `https://anchor.fm/s/1a3b1cc/podcast/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"a2da-HoWhAjDlWlyt6kWjp/JsbSMSUYg"`
+- fetched_at: `2026-02-25T03:17:57+00:00`
+- checked_at: `2026-02-25T03:17:57+00:00`
+- etag: `W/"a2da-gWFAMyx19IK8NFiW3ESAwtTbksM"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://orderofshanapodcast.wordpress.com/",
   "description": "A podcast about the women in, of, and running Dungeon Crawl Classics RPG by Goodman Games. A podcast focusing on the women who have made DCC RPG their role-playing game of choice. Blog: https://orderofshanapodcast.wordpress.com Cover art by Doug Kovacs",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/175051/175051-1756911804512-96b5e71d434c4.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-25T03:17:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -59,8 +59,8 @@
       "enclosure_length": "25095204",
       "itunes_duration": "00:22:55",
       "speakers": [
-        "Michael Curtis",
-        "Brendan LaSalle"
+        "Coffee Time",
+        "Chained Coffin Grab"
       ],
       "topics": [
         "coffee",
@@ -99,7 +99,7 @@
       "enclosure_length": "23511205",
       "itunes_duration": "00:19:43",
       "speakers": [
-        "Gary Gygax"
+        "Coffee Time"
       ],
       "topics": [
         "coffee",
@@ -199,8 +199,7 @@
       "enclosure_length": "25071262",
       "itunes_duration": "00:31:18",
       "speakers": [
-        "Gary Con",
-        "Doug Kovacs"
+        "Gary Con"
       ],
       "topics": [
         "judge",
@@ -297,7 +296,8 @@
       "enclosure_length": "64577124",
       "itunes_duration": "01:37:39",
       "speakers": [
-        "Henry Mortimer"
+        "Afterlife Bars",
+        "Umerican Level"
       ],
       "topics": [
         "special",
@@ -320,7 +320,7 @@
       "enclosure_length": "17649995",
       "itunes_duration": "00:18:11",
       "speakers": [
-        "Raven Crowking"
+        "Purple Duck Games"
       ],
       "topics": [
         "purple",
@@ -359,9 +359,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25324958",
       "itunes_duration": "00:28:14",
-      "speakers": [
-        "Doug Kovaks"
-      ],
+      "speakers": [],
       "topics": [
         "party",
         "publisher",
@@ -402,9 +400,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "9611310",
       "itunes_duration": "00:09:54",
-      "speakers": [
-        "Doug Kovacs"
-      ],
+      "speakers": [],
       "topics": [
         "convention",
         "september"
@@ -421,9 +417,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "14542219",
       "itunes_duration": "00:14:59",
-      "speakers": [
-        "Maizie Eve Vetch"
-      ],
+      "speakers": [],
       "topics": [
         "segment"
       ]
@@ -472,24 +466,24 @@
 ## Episodes (newest first)
 
 - 2025-08-06 — Coffee Time #3 - Post game fatigue — speakers: Coffee Time
-- 2023-11-30 — Coffee Time #2 - Prepping for some Chained Coffin — speakers: Michael Curtis, Brendan LaSalle
+- 2023-11-30 — Coffee Time #2 - Prepping for some Chained Coffin — speakers: Coffee Time, Chained Coffin Grab
 - 2023-09-20 — Episode #15 - Women want equality in RPGs - 1980 — speakers: JoanofArc Destroyer
-- 2023-02-28 — Episode #14 RPG Coffee Time #1 — speakers: Gary Gygax
+- 2023-02-28 — Episode #14 RPG Coffee Time #1 — speakers: Coffee Time
 - 2023-01-27 — Episode #13 Umerica "damn tasty" for Gary Con 2023 — speakers: Gary Con
 - 2022-11-25 — Episode #12 A visit to Swordfish Island and Hot Springs Island using Dungeon Crawl Classic RPG — speakers: JoanofArc Destroyer
 - 2022-06-22 — Episode #11: 3PP Thick Skull Adventures — speakers: Stephen Newton
 - 2022-04-15 — Episode 10: Table Manners
-- 2022-04-05 — Episode #9 Interview with Judge Marlene "HitMore" after Gary Con 2022 — speakers: Gary Con, Doug Kovacs
+- 2022-04-05 — Episode #9 Interview with Judge Marlene "HitMore" after Gary Con 2022 — speakers: Gary Con
 - 2022-02-25 — Episode 8.5 Part 2 Live Play of Who Lives in Grimsborough? Judge Jessica McDevitt — speakers: Jessica McDevitt
 - 2021-11-30 — Using the Luck stat and the Deed die Episode 8
 - 2021-11-17 — Bonus episode! Who lives in Grimsborough? Part 1 Episode 7.5 — speakers: Jessica McDevitt
 - 2021-11-03 — 3PP Purple Pirate Games Episode 7
-- 2021-10-12 — Bonus Episode! Your Special GO! Afterlife Bars - Umerican Level 1 adventure Episode 6.5 — speakers: Henry Mortimer
-- 2021-10-09 — 3PP Purple Duck Games Episode 6 — speakers: Raven Crowking
+- 2021-10-12 — Bonus Episode! Your Special GO! Afterlife Bars - Umerican Level 1 adventure Episode 6.5 — speakers: Afterlife Bars, Umerican Level
+- 2021-10-09 — 3PP Purple Duck Games Episode 6 — speakers: Purple Duck Games
 - 2021-07-13 — 3PP: Shield of Faith Studios Episode 5 — speakers: Reid San Fillipo
-- 2021-04-22 — 3rd Party Publisher: Purple Sorcerer Games Episode 4 — speakers: Doug Kovaks
+- 2021-04-22 — 3rd Party Publisher: Purple Sorcerer Games Episode 4
 - 2020-12-04 — Female Warriors and the Warrior Class: Episode 3 — speakers: Female Warriors, Warrior Class
-- 2020-09-03 — Convention special for September 2020 Episode 2.5 — speakers: Doug Kovacs
-- 2020-08-21 — Taking it to the segments. Episode 2 — speakers: Maizie Eve Vetch
+- 2020-09-03 — Convention special for September 2020 Episode 2.5
+- 2020-08-21 — Taking it to the segments. Episode 2
 - 2020-07-24 — Beginning of Free RPG Day and online gaming: Episode 1
 - 2020-06-25 — Your Judge for the Order of Shana podcast: Episode 0
