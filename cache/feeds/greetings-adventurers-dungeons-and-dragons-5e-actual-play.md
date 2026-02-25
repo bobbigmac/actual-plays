@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-02-23T13:43:50+00:00`
-- checked_at: `2026-02-23T13:43:50+00:00`
-- etag: `"djEuMi4wOjE3NzE4NDgwMzk0ODY="`
+- fetched_at: `2026-02-25T16:36:25+00:00`
+- checked_at: `2026-02-25T16:36:25+00:00`
+- etag: `"djEuMi4wOjE3NzIwMzAzNTg3MzI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-02-23T13:43:50+00:00",
+  "fetched_at": "2026-02-25T16:36:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,14 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "206550718",
       "itunes_duration": "1:25:28",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "recap"
       ]
@@ -61,12 +54,7 @@
       "enclosure_length": "131461999",
       "itunes_duration": "54:36",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Horse Armor Time"
       ],
       "topics": [
         "campaign",
@@ -85,15 +73,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160591942",
       "itunes_duration": "1:06:43",
-      "speakers": [
-        "Michael DMing",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "level",
@@ -111,14 +91,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122575646",
       "itunes_duration": "50:54",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "horror"
@@ -136,12 +109,7 @@
       "enclosure_length": "136454744",
       "itunes_duration": "56:40",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Oralboros When"
       ],
       "topics": [
         "campaign",
@@ -160,13 +128,7 @@
       "enclosure_length": "149082824",
       "itunes_duration": "1:01:55",
       "speakers": [
-        "Barbara Nana Basement",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Barbara Nana Basement"
       ],
       "topics": [
         "campaign",
@@ -186,12 +148,7 @@
       "enclosure_length": "157599663",
       "itunes_duration": "1:05:28",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Good Ol"
       ],
       "topics": [
         "campaign",
@@ -211,14 +168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "209715375",
       "itunes_duration": "1:27:06",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "rope",
@@ -236,14 +186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130335438",
       "itunes_duration": "2:14:42",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "years",
@@ -261,15 +204,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139934389",
       "itunes_duration": "58:07",
-      "speakers": [
-        "Will Screech",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -286,12 +221,8 @@
       "enclosure_length": "150569496",
       "itunes_duration": "1:02:33",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Screech Echo",
+        "Wife Woahs"
       ],
       "topics": [
         "campaign",
@@ -311,12 +242,7 @@
       "enclosure_length": "146469322",
       "itunes_duration": "1:00:50",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Scatter Rescue Screech"
       ],
       "topics": [
         "campaign",
@@ -336,12 +262,7 @@
       "enclosure_length": "116457128",
       "itunes_duration": "48:22",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Scatter Chamber"
       ],
       "topics": [
         "campaign",
@@ -360,14 +281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143703680",
       "itunes_duration": "59:43",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "tuna",
@@ -386,14 +300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139240137",
       "itunes_duration": "57:52",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "panther"
@@ -410,14 +317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151304427",
       "itunes_duration": "1:02:50",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "leak"
@@ -435,12 +335,8 @@
       "enclosure_length": "148625899",
       "itunes_duration": "1:01:44",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Better Salt",
+        "Pepper Turns"
       ],
       "topics": [
         "campaign",
@@ -461,12 +357,7 @@
       "enclosure_length": "150969679",
       "itunes_duration": "1:02:44",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Terrible These"
       ],
       "topics": [
         "campaign",
@@ -484,14 +375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163976342",
       "itunes_duration": "1:08:08",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "operation",
@@ -510,14 +394,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139749815",
       "itunes_duration": "58:03",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "springs"
@@ -534,14 +411,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139171836",
       "itunes_duration": "57:50",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "mother"
@@ -558,14 +428,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127358242",
       "itunes_duration": "52:54",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "death",
@@ -585,12 +448,7 @@
       "enclosure_length": "132689929",
       "itunes_duration": "55:08",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Mime Mums"
       ],
       "topics": [
         "campaign",
@@ -609,14 +467,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186430626",
       "itunes_duration": "1:17:28",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "king",
@@ -634,14 +485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "192100326",
       "itunes_duration": "1:19:50",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "king",
@@ -659,14 +503,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "234315886",
       "itunes_duration": "1:37:27",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "super",
@@ -685,12 +522,8 @@
       "enclosure_length": "189792767",
       "itunes_duration": "1:18:57",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "fun questions",
+        "chat abou"
       ],
       "topics": [
         "campaign",
@@ -710,13 +543,7 @@
       "enclosure_length": "186236769",
       "itunes_duration": "1:17:22",
       "speakers": [
-        "Emperor Beux",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Mime Mums Like"
       ],
       "topics": [
         "campaign",
@@ -735,14 +562,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151459367",
       "itunes_duration": "1:02:56",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "talented"
@@ -759,14 +579,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152459534",
       "itunes_duration": "1:03:21",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "zone",
@@ -784,14 +597,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "146225079",
       "itunes_duration": "1:00:43",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "tunnel",
@@ -809,14 +615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142962753",
       "itunes_duration": "59:23",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "eggs"
@@ -834,12 +633,7 @@
       "enclosure_length": "135309834",
       "itunes_duration": "56:10",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Victory Spoils Having"
       ],
       "topics": [
         "campaign",
@@ -858,12 +652,8 @@
       "enclosure_length": "125711430",
       "itunes_duration": "52:10",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Hand Caught",
+        "Mimic Cart Well"
       ],
       "topics": [
         "campaign",
@@ -885,12 +675,7 @@
       "enclosure_length": "191887565",
       "itunes_duration": "1:19:50",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Mike Bachmann"
       ],
       "topics": [
         "chillaganza"
@@ -907,14 +692,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156313866",
       "itunes_duration": "1:04:55",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "people"
@@ -932,12 +710,7 @@
       "enclosure_length": "168931011",
       "itunes_duration": "1:10:11",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bridge Ok"
       ],
       "topics": [
         "campaign",
@@ -956,12 +729,7 @@
       "enclosure_length": "146786016",
       "itunes_duration": "1:00:57",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Wild Wild Ambush While"
       ],
       "topics": [
         "campaign",
@@ -981,12 +749,7 @@
       "enclosure_length": "150286622",
       "itunes_duration": "1:02:23",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bridge Engineers"
       ],
       "topics": [
         "campaign",
@@ -1008,14 +771,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167673609",
       "itunes_duration": "1:09:39",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "potion",
@@ -1034,16 +790,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151676043",
       "itunes_duration": "1:02:47",
-      "speakers": [
-        "David Barnhart",
-        "Mooge Mansack",
-        "Jordan Breeding",
-        "Eric Thornett",
-        "Dungeon Mastered",
-        "David Lee Stewart Guest",
-        "Zack Meyman",
-        "Starman Bart"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "foaming",
@@ -1063,14 +810,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143590085",
       "itunes_duration": "59:38",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "wife"
@@ -1088,12 +828,7 @@
       "enclosure_length": "239363242",
       "itunes_duration": "1:39:44",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Charity Stream"
       ],
       "topics": [
         "charity",
@@ -1112,12 +847,7 @@
       "enclosure_length": "182609071",
       "itunes_duration": "1:15:31",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Special Join"
       ],
       "topics": [
         "recap",
@@ -1136,12 +866,8 @@
       "enclosure_length": "174631346",
       "itunes_duration": "1:12:32",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Dirk Gramble",
+        "Distinction Selene"
       ],
       "topics": [
         "campaign",
@@ -1162,12 +888,8 @@
       "enclosure_length": "149001077",
       "itunes_duration": "1:01:51",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Big Strong Fight Pit",
+        "Man When"
       ],
       "topics": [
         "campaign",
@@ -1186,14 +908,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153411255",
       "itunes_duration": "1:03:40",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "pranksgiving"
@@ -1211,13 +926,7 @@
       "enclosure_length": "147980424",
       "itunes_duration": "1:01:28",
       "speakers": [
-        "Stealthy Back",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Stealthy Back"
       ],
       "topics": [
         "campaign",
@@ -1235,14 +944,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133046987",
       "itunes_duration": "55:13",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "ledger"
@@ -1259,14 +961,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140217558",
       "itunes_duration": "58:18",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "game",
@@ -1285,13 +980,7 @@
       "enclosure_length": "162538473",
       "itunes_duration": "1:07:35",
       "speakers": [
-        "Mike Bachmann",
-        "Nika Howard",
-        "Jennifer Cheek",
-        "Michael DiMauro",
-        "Tim Lanning",
-        "Selene Von Esper",
-        "David Stewart"
+        "Mike Bachmann"
       ],
       "topics": [
         "bachmann"
@@ -1308,14 +997,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140300048",
       "itunes_duration": "58:15",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "journal"
@@ -1332,14 +1014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165952752",
       "itunes_duration": "1:08:59",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "split",
@@ -1357,14 +1032,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156396365",
       "itunes_duration": "1:04:55",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -1380,14 +1048,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152710913",
       "itunes_duration": "1:03:25",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "action",
@@ -1405,14 +1066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166323016",
       "itunes_duration": "1:09:03",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -1428,14 +1082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184059478",
       "itunes_duration": "1:16:26",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "signal"
@@ -1453,13 +1100,7 @@
       "enclosure_length": "160178608",
       "itunes_duration": "1:06:28",
       "speakers": [
-        "Squirrel Man",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Squirrel Man"
       ],
       "topics": [
         "campaign",
@@ -1479,12 +1120,7 @@
       "enclosure_length": "153447733",
       "itunes_duration": "1:03:42",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Tree Traps Screech Echo"
       ],
       "topics": [
         "campaign",
@@ -1503,14 +1139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142759294",
       "itunes_duration": "59:17",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "tree",
@@ -1529,13 +1158,7 @@
       "enclosure_length": "166235810",
       "itunes_duration": "1:09:06",
       "speakers": [
-        "Nika Howard",
-        "Jennifer Cheek",
-        "Michael DiMauro",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "David Stewart"
+        "Nika Howard"
       ],
       "topics": [
         "nika"
@@ -1553,13 +1176,7 @@
       "enclosure_length": "186750238",
       "itunes_duration": "1:17:29",
       "speakers": [
-        "Beatdown Ok",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Beatdown Ok"
       ],
       "topics": [
         "campaign",
@@ -1579,14 +1196,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143764554",
       "itunes_duration": "59:41",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "welcome",
@@ -1604,14 +1214,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162772323",
       "itunes_duration": "1:07:35",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "aliases",
@@ -1629,14 +1232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163296176",
       "itunes_duration": "1:07:47",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "rock",
@@ -1655,14 +1251,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148226323",
       "itunes_duration": "1:01:35",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "armored"
@@ -1679,14 +1268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "173252459",
       "itunes_duration": "1:11:57",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "resistance"
@@ -1703,14 +1285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139486985",
       "itunes_duration": "57:56",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "jokester"
@@ -1728,12 +1303,7 @@
       "enclosure_length": "137116123",
       "itunes_duration": "56:54",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Long Hallway"
       ],
       "topics": [
         "campaign",
@@ -1753,14 +1323,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145312272",
       "itunes_duration": "1:00:18",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "ignorance"
@@ -1777,14 +1340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167488971",
       "itunes_duration": "1:09:34",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "neitherworld"
@@ -1801,14 +1357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141629087",
       "itunes_duration": "58:47",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -1824,14 +1373,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149793344",
       "itunes_duration": "1:02:13",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "cemetery",
@@ -1849,14 +1391,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183212650",
       "itunes_duration": "1:16:04",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "frog",
@@ -1875,13 +1410,7 @@
       "enclosure_length": "173002158",
       "itunes_duration": "1:11:50",
       "speakers": [
-        "Evil Frogs",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Evil Frogs"
       ],
       "topics": [
         "campaign",
@@ -1901,13 +1430,7 @@
       "enclosure_length": "203960939",
       "itunes_duration": "1:24:43",
       "speakers": [
-        "Hydra Haulers",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Hydra Haulers"
       ],
       "topics": [
         "campaign",
@@ -1927,12 +1450,8 @@
       "enclosure_length": "195763659",
       "itunes_duration": "1:21:32",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Gapcast Team",
+        "Manual Transmissions"
       ],
       "topics": [
         "gencon"
@@ -1950,12 +1469,7 @@
       "enclosure_length": "197947297",
       "itunes_duration": "1:22:11",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Hydra Hell"
       ],
       "topics": [
         "campaign",
@@ -1975,12 +1489,7 @@
       "enclosure_length": "146319932",
       "itunes_duration": "1:00:46",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Sea Monster After"
       ],
       "topics": [
         "campaign",
@@ -1999,14 +1508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149010057",
       "itunes_duration": "1:01:52",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "black",
@@ -2026,11 +1528,7 @@
       "itunes_duration": "1:16:13",
       "speakers": [
         "Jennifer Cheek",
-        "Michael DiMauro",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "David Stewart"
+        "Will sh"
       ],
       "topics": [
         "cheek"
@@ -2048,12 +1546,7 @@
       "enclosure_length": "163367629",
       "itunes_duration": "1:07:41",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Special Join"
       ],
       "topics": [
         "recap",
@@ -2072,12 +1565,7 @@
       "enclosure_length": "145912727",
       "itunes_duration": "1:00:35",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bad Guy Bar Fight"
       ],
       "topics": [
         "campaign",
@@ -2095,14 +1583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167847278",
       "itunes_duration": "1:09:41",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "bakery",
@@ -2120,14 +1601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167079588",
       "itunes_duration": "1:09:23",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "welcome",
@@ -2146,12 +1620,7 @@
       "enclosure_length": "134727716",
       "itunes_duration": "55:57",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Action Somehow"
       ],
       "topics": [
         "campaign",
@@ -2169,14 +1638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189732538",
       "itunes_duration": "1:18:47",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "simple",
@@ -2195,14 +1657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139799141",
       "itunes_duration": "58:01",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "hole"
@@ -2220,12 +1675,7 @@
       "enclosure_length": "202713098",
       "itunes_duration": "1:24:09",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Post Apocalypse"
       ],
       "topics": [
         "wasteland"
@@ -2243,12 +1693,7 @@
       "enclosure_length": "145956522",
       "itunes_duration": "1:00:37",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Post Apocalypse"
       ],
       "topics": [
         "wasteland"
@@ -2266,12 +1711,7 @@
       "enclosure_length": "135901730",
       "itunes_duration": "56:28",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Lies Man"
       ],
       "topics": [
         "campaign",
@@ -2291,13 +1731,7 @@
       "enclosure_length": "166394615",
       "itunes_duration": "1:09:05",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart",
-        "Zack Meyman"
+        "Train Car"
       ],
       "topics": [
         "campaign",
@@ -2317,13 +1751,7 @@
       "enclosure_length": "143821052",
       "itunes_duration": "59:43",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart",
-        "Zack Meyman"
+        "Session Nothing"
       ],
       "topics": [
         "campaign",
@@ -2342,14 +1770,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152612512",
       "itunes_duration": "1:03:21",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "cuties"
@@ -2367,12 +1788,7 @@
       "enclosure_length": "162003099",
       "itunes_duration": "1:07:16",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Stealth Mission Screech Echo"
       ],
       "topics": [
         "campaign",
@@ -2391,14 +1807,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156923335",
       "itunes_duration": "1:05:11",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "morality",
@@ -2416,14 +1825,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "177197971",
       "itunes_duration": "1:13:35",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -2440,13 +1842,7 @@
       "enclosure_length": "143571118",
       "itunes_duration": "59:34",
       "speakers": [
-        "Caravan Raid",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Caravan Raid"
       ],
       "topics": [
         "campaign",
@@ -2466,12 +1862,7 @@
       "enclosure_length": "168741941",
       "itunes_duration": "1:10:04",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "R'Oarc safe"
       ],
       "topics": [
         "campaign",
@@ -2491,12 +1882,7 @@
       "enclosure_length": "147286715",
       "itunes_duration": "1:01:15",
       "speakers": [
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Michael DiMauro",
-        "David Stewart"
+        "Tim Lanning"
       ],
       "topics": [
         "lanning"
@@ -2513,14 +1899,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128534724",
       "itunes_duration": "53:24",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "circus"
@@ -2537,14 +1916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145112747",
       "itunes_duration": "1:00:13",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "sticky",
@@ -2563,12 +1935,7 @@
       "enclosure_length": "146721474",
       "itunes_duration": "1:00:53",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Nest Naps Sure"
       ],
       "topics": [
         "campaign",
@@ -2586,14 +1953,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135992280",
       "itunes_duration": "56:20",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "recap"
       ]
@@ -2609,14 +1969,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150031643",
       "itunes_duration": "1:02:16",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "bird"
@@ -2635,11 +1988,7 @@
       "itunes_duration": "1:14:20",
       "speakers": [
         "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Selene Von Espe"
       ],
       "topics": [
         "campaign",
@@ -2657,14 +2006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135791830",
       "itunes_duration": "56:22",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "doomjaw",
@@ -2683,12 +2025,7 @@
       "enclosure_length": "158882594",
       "itunes_duration": "1:05:57",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Deep Jungle Well"
       ],
       "topics": [
         "campaign",
@@ -2707,14 +2044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "657162912",
       "itunes_duration": "56:58",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "dino",
@@ -2732,14 +2062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "682715550",
       "itunes_duration": "59:12",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "circus"
@@ -2757,12 +2080,7 @@
       "enclosure_length": "620919118",
       "itunes_duration": "53:49",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Juggalos There"
       ],
       "topics": [
         "campaign",
@@ -2782,12 +2100,7 @@
       "enclosure_length": "634721646",
       "itunes_duration": "55:01",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Clown Capitalism Somehow"
       ],
       "topics": [
         "campaign",
@@ -2806,15 +2119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "707445336",
       "itunes_duration": "1:01:20",
-      "speakers": [
-        "Pat Edwards",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "grateful",
         "gathering"
@@ -2831,15 +2136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "878790296",
       "itunes_duration": "1:16:11",
-      "speakers": [
-        "Pat Edwards",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "grateful",
         "gathering"
@@ -2857,12 +2154,8 @@
       "enclosure_length": "640207000",
       "itunes_duration": "55:30",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Flaming Pile",
+        "Circus Sure"
       ],
       "topics": [
         "campaign",
@@ -2882,14 +2175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "701034982",
       "itunes_duration": "1:00:47",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "doug"
@@ -2907,12 +2193,7 @@
       "enclosure_length": "745517776",
       "itunes_duration": "1:04:38",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "spiders ou"
       ],
       "topics": [
         "campaign",
@@ -2933,12 +2214,7 @@
       "enclosure_length": "486076056",
       "itunes_duration": "42:10",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Movie Discussion When"
       ],
       "topics": [
         "gapcast",
@@ -2957,14 +2233,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "830233534",
       "itunes_duration": "1:12:01",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "mailbag"
@@ -2981,14 +2250,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "827675988",
       "itunes_duration": "1:11:48",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "gapcast"
       ]
@@ -3004,14 +2266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "699380252",
       "itunes_duration": "1:00:40",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "gapcast"
       ]
@@ -3028,12 +2283,7 @@
       "enclosure_length": "663990656",
       "itunes_duration": "57:34",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Total Blackout Starting"
       ],
       "topics": [
         "campaign",
@@ -3052,14 +2302,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "679341152",
       "itunes_duration": "58:55",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -3076,12 +2319,7 @@
       "enclosure_length": "641948400",
       "itunes_duration": "55:39",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Ghost Phone Something"
       ],
       "topics": [
         "campaign",
@@ -3100,14 +2338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176345542",
       "itunes_duration": "1:12:57",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "recap"
       ]
@@ -3123,14 +2354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "719887532",
       "itunes_duration": "1:02:25",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -3147,12 +2371,7 @@
       "enclosure_length": "821530098",
       "itunes_duration": "1:11:13",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Very Bad Furniture Day"
       ],
       "topics": [
         "campaign",
@@ -3172,13 +2391,7 @@
       "enclosure_length": "695538306",
       "itunes_duration": "1:00:18",
       "speakers": [
-        "Momma Mia",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Momma Mia"
       ],
       "topics": [
         "campaign",
@@ -3197,12 +2410,7 @@
       "enclosure_length": "730242812",
       "itunes_duration": "1:03:19",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Spore Buddies Being"
       ],
       "topics": [
         "campaign",
@@ -3222,12 +2430,7 @@
       "enclosure_length": "641537116",
       "itunes_duration": "55:36",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Rabid Return Now"
       ],
       "topics": [
         "campaign",
@@ -3247,12 +2450,7 @@
       "enclosure_length": "673409620",
       "itunes_duration": "58:22",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bridge Tussle Let"
       ],
       "topics": [
         "campaign",
@@ -3272,14 +2470,7 @@
       "enclosure_length": "775204760",
       "itunes_duration": "1:07:12",
       "speakers": [
-        "Stephen Garcia",
-        "Mike Bachmann",
-        "Michael DiMauro",
-        "Emily Ervolina",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "David Stewart"
+        "Stephen Garcia"
       ],
       "topics": [
         "welcome",
@@ -3297,14 +2488,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "646811962",
       "itunes_duration": "56:05",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "lava",
@@ -3322,14 +2506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1465565076",
       "itunes_duration": "2:07:04",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "space",
         "worms"
@@ -3346,14 +2523,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "727569742",
       "itunes_duration": "1:03:05",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "fast",
@@ -3371,14 +2541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "619792586",
       "itunes_duration": "53:44",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "roll",
@@ -3401,10 +2564,7 @@
         "Rachel Quirky Schenk",
         "Tim Lanning",
         "Nika Howard",
-        "Adam Lance Garcia",
-        "Black Ballad",
-        "Mike Bachmann",
-        "Selene Von Esper"
+        "Adam Lance Ga"
       ],
       "topics": [
         "godless",
@@ -3429,10 +2589,7 @@
         "Rachel Quirky Schenk",
         "Tim Lanning",
         "Nika Howard",
-        "Adam Lance Garcia",
-        "Black Ballad",
-        "Mike Bachmann",
-        "Selene Von Esper"
+        "Adam Lance Ga"
       ],
       "topics": [
         "godless",
@@ -3452,14 +2609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "831916392",
       "itunes_duration": "1:12:11",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "geeklycon",
@@ -3481,12 +2631,7 @@
       "speakers": [
         "Patrick Swayze Eyes",
         "Carla Maxted",
-        "Russ More",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Russ Mo"
       ],
       "topics": [
         "patrick",
@@ -3505,12 +2650,7 @@
       "enclosure_length": "748134056",
       "itunes_duration": "1:04:52",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Unmasked Truths"
       ],
       "topics": [
         "campaign"
@@ -3527,14 +2667,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "691947112",
       "itunes_duration": "59:59",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -3550,14 +2683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "645366796",
       "itunes_duration": "55:56",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "face",
@@ -3575,14 +2701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "835702524",
       "itunes_duration": "1:12:27",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "week"
@@ -3599,16 +2718,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "723538564",
       "itunes_duration": "1:02:44",
-      "speakers": [
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone",
-        "Jonah Eisenstock"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "distracting",
@@ -3627,14 +2737,7 @@
       "enclosure_length": "907289044",
       "itunes_duration": "1:18:44",
       "speakers": [
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone",
-        "Jonah Eisenstock"
+        "Big Bone Baddie There"
       ],
       "topics": [
         "campaign",
@@ -3654,14 +2757,7 @@
       "enclosure_length": "731512122",
       "itunes_duration": "1:03:29",
       "speakers": [
-        "Bony Horizon",
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone"
+        "Bony Horizon"
       ],
       "topics": [
         "campaign",
@@ -3680,16 +2776,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "663854800",
       "itunes_duration": "57:36",
-      "speakers": [
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone",
-        "Jonah Eisenstock"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "spidered"
@@ -3706,16 +2793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "220761556",
       "itunes_duration": "1:31:56",
-      "speakers": [
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone",
-        "Jonah Eisenstock"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "noodley",
@@ -3733,16 +2811,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138248032",
       "itunes_duration": "57:33",
-      "speakers": [
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone",
-        "Jonah Eisenstock"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "chasm"
@@ -3759,16 +2828,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1023890156",
       "itunes_duration": "1:28:51",
-      "speakers": [
-        "Hopefully Ratma",
-        "Landan Smith",
-        "James Stanley",
-        "Jeffrey Tien",
-        "Mike Weber",
-        "Charlene MacPherson",
-        "Craig Girten",
-        "William Pettibone"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "shark",
@@ -3787,12 +2847,7 @@
       "enclosure_length": "143505529",
       "itunes_duration": "59:37",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Mineford Well"
       ],
       "topics": [
         "campaign",
@@ -3811,14 +2866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "687282264",
       "itunes_duration": "59:35",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "slip",
@@ -3837,12 +2885,7 @@
       "enclosure_length": "642593718",
       "itunes_duration": "55:43",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Breaking Free Selene"
       ],
       "topics": [
         "campaign"
@@ -3859,14 +2902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "627846626",
       "itunes_duration": "54:26",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "stair"
@@ -3884,12 +2920,7 @@
       "enclosure_length": "754428392",
       "itunes_duration": "1:05:25",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Four Difficult Conversations Secrets"
       ],
       "topics": [
         "campaign",
@@ -3907,14 +2938,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "661235340",
       "itunes_duration": "57:20",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -3931,14 +2955,7 @@
       "enclosure_length": "1419990742",
       "itunes_duration": "2:03:07",
       "speakers": [
-        "Ballad Selene",
-        "Pat Edwards",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Ballad Selene"
       ],
       "topics": [
         "black",
@@ -3957,12 +2974,7 @@
       "enclosure_length": "852909744",
       "itunes_duration": "1:13:56",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Loose Ends Before"
       ],
       "topics": [
         "campaign",
@@ -3981,14 +2993,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "657623498",
       "itunes_duration": "57:01",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "jokester"
@@ -4005,14 +3010,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "682172586",
       "itunes_duration": "59:08",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "clown"
@@ -4029,14 +3027,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "574495722",
       "itunes_duration": "49:48",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "ward"
@@ -4053,14 +3044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "678625868",
       "itunes_duration": "58:50",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "termingator"
@@ -4077,14 +3061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "621038904",
       "itunes_duration": "53:49",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "fort"
@@ -4101,14 +3078,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221918003",
       "itunes_duration": "1:31:44",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "recap"
@@ -4125,14 +3095,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "638725596",
       "itunes_duration": "55:22",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "villain"
@@ -4149,14 +3112,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "688376548",
       "itunes_duration": "59:41",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "slumber",
@@ -4174,14 +3130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "665468744",
       "itunes_duration": "57:41",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "ward"
@@ -4199,12 +3148,7 @@
       "enclosure_length": "684057414",
       "itunes_duration": "59:17",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Maybe Beary"
       ],
       "topics": [
         "campaign",
@@ -4223,12 +3167,8 @@
       "enclosure_length": "796845726",
       "itunes_duration": "1:09:04",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "new revelations",
+        "new allies"
       ],
       "topics": [
         "campaign",
@@ -4248,14 +3188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "678555070",
       "itunes_duration": "58:49",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "turn"
@@ -4272,14 +3205,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "716795760",
       "itunes_duration": "1:02:07",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "grave",
@@ -4298,12 +3224,7 @@
       "enclosure_length": "704344208",
       "itunes_duration": "1:01:04",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Under My Furry Wing"
       ],
       "topics": [
         "campaign",
@@ -4322,14 +3243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "650312408",
       "itunes_duration": "56:23",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "fame",
@@ -4347,10 +3261,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "928662656",
       "itunes_duration": "1:20:32",
-      "speakers": [
-        "Pat Edwards",
-        "Win Win"
-      ],
+      "speakers": [],
       "topics": [
         "song",
         "chaos"
@@ -4367,10 +3278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "931470710",
       "itunes_duration": "1:20:46",
-      "speakers": [
-        "Pat Edwards",
-        "Win Win"
-      ],
+      "speakers": [],
       "topics": [
         "song",
         "chaos"
@@ -4388,13 +3296,10 @@
       "enclosure_length": "964938760",
       "itunes_duration": "1:23:40",
       "speakers": [
-        "Brip Brap",
-        "Tim Lanning",
-        "Carla Maxted",
-        "David Stewart",
-        "Dungeon Mastered",
-        "Alex Vincent",
-        "Michael DiMauro Bar Patrons"
+        "Foaming Tankard",
+        "Patch Work",
+        "Mixed Messages Season",
+        "Mixed Messages"
       ],
       "topics": [
         "tale",
@@ -4417,12 +3322,7 @@
       "enclosure_length": "782749900",
       "itunes_duration": "1:07:52",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Adult Conversations Screech"
       ],
       "topics": [
         "campaign",
@@ -4441,14 +3341,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "662888186",
       "itunes_duration": "57:26",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -4465,14 +3358,7 @@
       "enclosure_length": "799913438",
       "itunes_duration": "1:09:19",
       "speakers": [
-        "Dahlia Woodford-Blackwell-Stovitch-Garrison",
-        "Diana DiMicco",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Dahlia Woodford-Blackwell-Stovitch-Garrison"
       ],
       "topics": [
         "campaign",
@@ -4491,15 +3377,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "758264068",
       "itunes_duration": "1:05:44",
-      "speakers": [
-        "Diana DiMicco",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "high",
@@ -4517,14 +3395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "711653722",
       "itunes_duration": "1:01:42",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "mushroom",
@@ -4543,12 +3414,7 @@
       "enclosure_length": "640862042",
       "itunes_duration": "55:33",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Death Stench Seems"
       ],
       "topics": [
         "campaign",
@@ -4568,13 +3434,7 @@
       "enclosure_length": "745869284",
       "itunes_duration": "1:04:40",
       "speakers": [
-        "Skin Kyle",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Skin Kyle"
       ],
       "topics": [
         "campaign",
@@ -4592,14 +3452,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "733241054",
       "itunes_duration": "1:03:37",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "mailbag"
@@ -4617,13 +3470,7 @@
       "enclosure_length": "634445030",
       "itunes_duration": "55:00",
       "speakers": [
-        "Skin Kyle",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Skin Kyle"
       ],
       "topics": [
         "campaign",
@@ -4643,13 +3490,7 @@
       "enclosure_length": "1578364720",
       "itunes_duration": "2:16:50",
       "speakers": [
-        "Camp Chickadee",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Michael DiMauro",
-        "David Stewart"
+        "Camp Chickadee"
       ],
       "topics": [
         "greeting",
@@ -4667,14 +3508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "842873864",
       "itunes_duration": "1:13:08",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "geeklycon"
@@ -4691,14 +3525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "680344492",
       "itunes_duration": "58:59",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "metal",
@@ -4716,14 +3543,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "665990092",
       "itunes_duration": "57:44",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "explosive",
@@ -4742,12 +3562,7 @@
       "enclosure_length": "792943710",
       "itunes_duration": "1:08:44",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Sticky Into"
       ],
       "topics": [
         "campaign",
@@ -4766,14 +3581,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "643337500",
       "itunes_duration": "55:44",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "rescue"
@@ -4790,14 +3598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "698841628",
       "itunes_duration": "1:00:35",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "trap"
@@ -4814,14 +3615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "851867616",
       "itunes_duration": "1:13:52",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "seventh"
@@ -4838,14 +3632,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "879859626",
       "itunes_duration": "1:16:18",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "truth",
@@ -4864,12 +3651,7 @@
       "enclosure_length": "779735334",
       "itunes_duration": "1:07:37",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Breaking Points Things"
       ],
       "topics": [
         "campaign",
@@ -4889,13 +3671,7 @@
       "enclosure_length": "727476468",
       "itunes_duration": "1:03:03",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart",
-        "Zack Meyman"
+        "Big Bad Beetle Beasts"
       ],
       "topics": [
         "campaign",
@@ -4915,12 +3691,8 @@
       "enclosure_length": "769203196",
       "itunes_duration": "1:06:41",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Marching Two",
+        "Two These"
       ],
       "topics": [
         "campaign",
@@ -4939,12 +3711,7 @@
       "enclosure_length": "748576578",
       "itunes_duration": "1:04:54",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bugged Out Selene"
       ],
       "topics": [
         "campaign"
@@ -4961,13 +3728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "679529258",
       "itunes_duration": "58:53",
-      "speakers": [
-        "Nika Howard",
-        "Rhyan Cassady",
-        "Felicia Perez",
-        "Kieran Bennett",
-        "Dungeon Mastered"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "foaming",
@@ -4988,13 +3749,7 @@
       "enclosure_length": "731629126",
       "itunes_duration": "1:03:25",
       "speakers": [
-        "momma mia",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Work Let"
       ],
       "topics": [
         "campaign",
@@ -5014,13 +3769,8 @@
       "enclosure_length": "667442876",
       "itunes_duration": "57:51",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart",
-        "Zack Meyman"
+        "Tetradecapus Trouble Whoops",
+        "Hopefully Decacog"
       ],
       "topics": [
         "campaign",
@@ -5040,12 +3790,8 @@
       "enclosure_length": "647994794",
       "itunes_duration": "56:11",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Punishment Rimeford",
+        "Goblin Pitt"
       ],
       "topics": [
         "campaign",
@@ -5064,14 +3810,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "593105684",
       "itunes_duration": "51:25",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -5087,14 +3826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "659696392",
       "itunes_duration": "57:11",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "horns",
@@ -5113,12 +3845,7 @@
       "enclosure_length": "655524326",
       "itunes_duration": "56:50",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Heretic Sometimes"
       ],
       "topics": [
         "campaign"
@@ -5136,12 +3863,7 @@
       "enclosure_length": "633504028",
       "itunes_duration": "54:55",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Crushed There"
       ],
       "topics": [
         "campaign"
@@ -5158,14 +3880,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "627170724",
       "itunes_duration": "54:22",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "checking"
@@ -5183,13 +3898,7 @@
       "enclosure_length": "755457408",
       "itunes_duration": "1:05:29",
       "speakers": [
-        "Cult Problem",
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Cult Problem"
       ],
       "topics": [
         "campaign",
@@ -5210,12 +3919,7 @@
       "enclosure_length": "610132506",
       "itunes_duration": "52:53",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Familiar One"
       ],
       "topics": [
         "campaign"
@@ -5233,12 +3937,7 @@
       "enclosure_length": "712560302",
       "itunes_duration": "1:01:46",
       "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Mourning After"
       ],
       "topics": [
         "campaign",
@@ -5256,14 +3955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "732136168",
       "itunes_duration": "1:03:28",
-      "speakers": [
-        "Mike Bachmann",
-        "Selene Von Esper",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "misread",
@@ -5282,12 +3974,7 @@
       "enclosure_length": "983997142",
       "itunes_duration": "1:25:18",
       "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Nika Howard",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Rimeford Welcome"
       ],
       "topics": [
         "campaign",
@@ -5307,14 +3994,7 @@
       "enclosure_length": "947258220",
       "itunes_duration": "1:22:05",
       "speakers": [
-        "House Cromwell",
-        "John Iadarola",
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Nika Howard",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Second Campaign"
       ],
       "topics": [
         "campaign",
@@ -5332,14 +4012,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "947643682",
       "itunes_duration": "1:22:08",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan"
       ]
@@ -5355,14 +4028,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "693704938",
       "itunes_duration": "1:00:07",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "cure"
@@ -5379,14 +4045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "612245548",
       "itunes_duration": "53:04",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "game"
@@ -5403,14 +4062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "592065062",
       "itunes_duration": "51:19",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "puppet"
@@ -5427,14 +4079,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "587665004",
       "itunes_duration": "50:57",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "death"
@@ -5452,13 +4097,7 @@
       "enclosure_length": "650140842",
       "itunes_duration": "56:21",
       "speakers": [
-        "Doppelganger Things",
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
+        "Doppelganger Things"
       ],
       "topics": [
         "leviathan",
@@ -5476,14 +4115,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "690223646",
       "itunes_duration": "59:50",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "dinner"
@@ -5500,14 +4132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "554067842",
       "itunes_duration": "48:01",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan"
       ]
@@ -5523,14 +4148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "649395002",
       "itunes_duration": "56:17",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan"
       ]
@@ -5546,15 +4164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1229392188",
       "itunes_duration": "53:19",
-      "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Nika Howard",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Fred Greenleaf",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "leviathan",
         "depth"
@@ -5571,16 +4181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "948514148",
       "itunes_duration": "1:22:16",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "listenersode"
       ]
@@ -5597,14 +4198,7 @@
       "enclosure_length": "901513170",
       "itunes_duration": "1:18:12",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Cast Retrospective After"
       ],
       "topics": [
         "campaign",
@@ -5623,16 +4217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1133107980",
       "itunes_duration": "1:38:17",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "farewell",
         "family",
@@ -5651,16 +4236,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "810273628",
       "itunes_duration": "1:10:16",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "luck",
         "draw"
@@ -5677,16 +4253,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "729016004",
       "itunes_duration": "1:03:10",
-      "speakers": [
-        "Jonas Antonsson",
-        "Ali Norero",
-        "Tommy Ribbons",
-        "Mike McMahan",
-        "David Stewart",
-        "Mike Bachmann",
-        "Dungeon Mastered",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "tftft",
         "rudolph"
@@ -5703,16 +4270,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "814576498",
       "itunes_duration": "1:10:37",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "battle"
@@ -5729,16 +4287,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65235905",
       "itunes_duration": "1:07:57",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "battle",
@@ -5756,16 +4305,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53174857",
       "itunes_duration": "55:23",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "battle",
@@ -5783,16 +4323,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72867004",
       "itunes_duration": "1:15:54",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "battle"
@@ -5809,16 +4340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57042233",
       "itunes_duration": "59:25",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "feywild",
         "burns"
@@ -5836,14 +4358,7 @@
       "enclosure_length": "69400450",
       "itunes_duration": "1:12:17",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Euclidean Nightmare Wow"
       ],
       "topics": [
         "nightmare"
@@ -5861,14 +4376,7 @@
       "enclosure_length": "69966367",
       "itunes_duration": "1:12:53",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Lyktion Skud"
       ],
       "topics": [
         "center",
@@ -5887,14 +4395,7 @@
       "enclosure_length": "64421302",
       "itunes_duration": "1:07:06",
       "speakers": [
-        "Beefy Babies",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Beefy Babies"
       ],
       "topics": [
         "beefy",
@@ -5912,16 +4413,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72560222",
       "itunes_duration": "1:15:35",
-      "speakers": [
-        "Maze Realm",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "maze",
         "hypermaze"
@@ -5938,16 +4430,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73710027",
       "itunes_duration": "1:16:47",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tragic",
         "fate",
@@ -5965,16 +4448,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75215098",
       "itunes_duration": "1:18:21",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "friend",
         "melora"
@@ -5991,16 +4465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62228689",
       "itunes_duration": "1:04:49",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bone"
       ]
@@ -6020,11 +4485,7 @@
         "Big Lahni",
         "Skud Derringer",
         "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Rowan Grey"
       ],
       "topics": [
         "lahni"
@@ -6041,16 +4502,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69719353",
       "itunes_duration": "1:12:37",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "nascar"
       ]
@@ -6066,16 +4518,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64759849",
       "itunes_duration": "1:07:27",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "wizard",
         "clone",
@@ -6094,14 +4537,7 @@
       "enclosure_length": "70560287",
       "itunes_duration": "1:13:30",
       "speakers": [
-        "Mechanized Mother",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Mech Mommy Large"
       ],
       "topics": [
         "mech",
@@ -6119,16 +4555,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58247209",
       "itunes_duration": "1:00:40",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "questions",
         "answer"
@@ -6146,13 +4573,7 @@
       "enclosure_length": "88366602",
       "itunes_duration": "1:32:03",
       "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Nika Howard",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Dungeon Mastered",
-        "David Stewart"
+        "Eternal Blight"
       ],
       "topics": [
         "village",
@@ -6171,16 +4592,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65706945",
       "itunes_duration": "1:08:26",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bigby",
         "realm"
@@ -6197,16 +4609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65338305",
       "itunes_duration": "1:08:03",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tarrasque"
       ]
@@ -6222,16 +4625,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74489939",
       "itunes_duration": "1:17:35",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tarrasque"
       ]
@@ -6247,16 +4641,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72696058",
       "itunes_duration": "1:15:43",
-      "speakers": [
-        "Will Rowan",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "welcome",
         "crossroad"
@@ -6273,16 +4658,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68282827",
       "itunes_duration": "1:11:07",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "great",
         "galanthis",
@@ -6300,16 +4676,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66408280",
       "itunes_duration": "1:09:10",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "welcome",
         "galanthis"
@@ -6327,14 +4694,7 @@
       "enclosure_length": "63330429",
       "itunes_duration": "1:05:58",
       "speakers": [
-        "Dad Bachmann",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Dad Bachmann"
       ],
       "topics": [
         "unchill"
@@ -6351,16 +4711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73156231",
       "itunes_duration": "1:16:12",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "king",
         "chaos"
@@ -6378,14 +4729,7 @@
       "enclosure_length": "68334654",
       "itunes_duration": "1:11:11",
       "speakers": [
-        "Big Lahni",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Big Lahni"
       ],
       "topics": [
         "lahni"
@@ -6402,16 +4746,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62716447",
       "itunes_duration": "1:05:19",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "power",
         "word",
@@ -6430,14 +4765,8 @@
       "enclosure_length": "64767791",
       "itunes_duration": "1:07:28",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Two Steps Forward",
+        "Demon Fight"
       ],
       "topics": [
         "steps",
@@ -6458,14 +4787,7 @@
       "enclosure_length": "76346096",
       "itunes_duration": "1:19:31",
       "speakers": [
-        "Steps Forward",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Steps Forward"
       ],
       "topics": [
         "steps",
@@ -6485,16 +4807,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63828218",
       "itunes_duration": "1:06:29",
-      "speakers": [
-        "Aludra ad Jaela",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "fungal",
         "fortress"
@@ -6511,16 +4824,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69073188",
       "itunes_duration": "1:11:57",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Nika Howard",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "fungal",
         "fantasy"
@@ -6537,16 +4841,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72842344",
       "itunes_duration": "1:15:52",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "fungal",
         "fantasia"
@@ -6564,14 +4859,7 @@
       "enclosure_length": "74016391",
       "itunes_duration": "1:17:06",
       "speakers": [
-        "Demon Ball",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Demon Ball"
       ],
       "topics": [
         "demon",
@@ -6589,16 +4877,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64665391",
       "itunes_duration": "1:07:21",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "meteor",
         "mayhem"
@@ -6615,16 +4894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65622099",
       "itunes_duration": "1:08:21",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "buca",
         "breakfast"
@@ -6642,14 +4912,7 @@
       "enclosure_length": "58765479",
       "itunes_duration": "1:01:13",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "One Spicy Porridge"
       ],
       "topics": [
         "spicy",
@@ -6667,16 +4930,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72711105",
       "itunes_duration": "1:15:44",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "temptation",
         "hand"
@@ -6693,16 +4947,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "988020680",
       "itunes_duration": "1:25:45",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -6716,16 +4961,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "808881728",
       "itunes_duration": "1:10:08",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "voyage",
         "astral"
@@ -6743,14 +4979,7 @@
       "enclosure_length": "72167758",
       "itunes_duration": "1:15:10",
       "speakers": [
-        "Elite Forge",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Elite Forge"
       ],
       "topics": [
         "elite",
@@ -6768,16 +4997,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65851559",
       "itunes_duration": "1:08:35",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "final",
         "bone",
@@ -6796,14 +5016,7 @@
       "enclosure_length": "807610048",
       "itunes_duration": "1:10:06",
       "speakers": [
-        "Bone Battle",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Bone Battle"
       ],
       "topics": [
         "final",
@@ -6823,14 +5036,7 @@
       "enclosure_length": "75169123",
       "itunes_duration": "1:18:18",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Exhaustion What"
       ],
       "topics": [
         "curse",
@@ -6849,14 +5055,7 @@
       "enclosure_length": "61920235",
       "itunes_duration": "1:04:30",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Table Manners Well"
       ],
       "topics": [
         "table",
@@ -6874,16 +5073,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "784290970",
       "itunes_duration": "1:08:02",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "mails",
         "bags"
@@ -6900,16 +5090,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87779369",
       "itunes_duration": "1:31:26",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "word",
         "gary"
@@ -6927,14 +5108,8 @@
       "enclosure_length": "70754638",
       "itunes_duration": "1:13:42",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Stepping Up",
+        "Plate While"
       ],
       "topics": [
         "plate"
@@ -6952,14 +5127,7 @@
       "enclosure_length": "72868257",
       "itunes_duration": "1:15:54",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Sky Pirate Delight Now"
       ],
       "topics": [
         "pirate",
@@ -6978,14 +5146,8 @@
       "enclosure_length": "65898788",
       "itunes_duration": "1:08:38",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Venduria Well",
+        "Bone Battling"
       ],
       "topics": [
         "welcome",
@@ -7004,14 +5166,7 @@
       "enclosure_length": "68539454",
       "itunes_duration": "1:11:23",
       "speakers": [
-        "Momma Mia",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Momma Mia"
       ],
       "topics": [
         "crimes",
@@ -7031,14 +5186,7 @@
       "enclosure_length": "66419147",
       "itunes_duration": "1:09:11",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Angry Allies When"
       ],
       "topics": [
         "angry",
@@ -7057,14 +5205,7 @@
       "enclosure_length": "74888254",
       "itunes_duration": "1:18:00",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Night Zone Chasing"
       ],
       "topics": [
         "welcome",
@@ -7083,16 +5224,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70158210",
       "itunes_duration": "1:13:05",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "sorrowful"
       ]
@@ -7109,14 +5241,7 @@
       "enclosure_length": "84296097",
       "itunes_duration": "1:27:48",
       "speakers": [
-        "Mind Flayers",
-        "Pat Edwards",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning"
+        "Mind Flayers"
       ],
       "topics": [
         "mind",
@@ -7135,14 +5260,7 @@
       "enclosure_length": "78371526",
       "itunes_duration": "1:21:38",
       "speakers": [
-        "Brain Brine",
-        "Pat Edwards",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning"
+        "Brain Brine"
       ],
       "topics": [
         "brain",
@@ -7161,16 +5279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56495124",
       "itunes_duration": "58:51",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "geeklycon",
         "digi",
@@ -7191,14 +5300,10 @@
       "enclosure_length": "54371892",
       "itunes_duration": "56:38",
       "speakers": [
-        "Bonecard Battles",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Elemental Plane",
+        "Earth Having",
+        "Water Gym",
+        "Elemental Pla"
       ],
       "topics": [
         "welcome",
@@ -7218,16 +5323,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60769593",
       "itunes_duration": "1:03:18",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bonesplash"
       ]
@@ -7243,16 +5339,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69209025",
       "itunes_duration": "1:12:05",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -7267,14 +5354,7 @@
       "enclosure_length": "69693857",
       "itunes_duration": "1:12:36",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bone Brothers Sometimes"
       ],
       "topics": [
         "bone",
@@ -7292,16 +5372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62184385",
       "itunes_duration": "1:04:46",
-      "speakers": [
-        "Join Adrath",
-        "Veronica Escamilla-Brady",
-        "David Stewart",
-        "Michael DiMauro",
-        "Dungeon Mastered",
-        "Fred Greenleaf",
-        "Hiroshi Sutherland",
-        "Howard Jennifer Cheek"
-      ],
+      "speakers": [],
       "topics": [
         "tftft",
         "shedding",
@@ -7319,16 +5390,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65553972",
       "itunes_duration": "1:08:17",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "party",
         "father"
@@ -7345,16 +5407,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69652062",
       "itunes_duration": "1:12:33",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "mother",
         "shadow"
@@ -7371,16 +5424,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55147624",
       "itunes_duration": "57:26",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bonehammer"
       ]
@@ -7396,16 +5440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61826194",
       "itunes_duration": "1:04:24",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "ticket"
       ]
@@ -7421,16 +5456,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57531663",
       "itunes_duration": "59:55",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tyrannical",
         "pyre"
@@ -7447,16 +5473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73432920",
       "itunes_duration": "1:16:29",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tyrannical",
         "pyre"
@@ -7494,16 +5511,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79112150",
       "itunes_duration": "1:22:24",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "tyrannical",
         "pyre"
@@ -7520,16 +5528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70283598",
       "itunes_duration": "1:13:12",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "true",
         "hero"
@@ -7546,16 +5545,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75985397",
       "itunes_duration": "1:19:09",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "hamhand",
         "horrific",
@@ -7574,14 +5564,7 @@
       "enclosure_length": "64382850",
       "itunes_duration": "1:07:04",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Frank Based One Shot"
       ],
       "topics": [
         "frank",
@@ -7600,16 +5583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60365009",
       "itunes_duration": "1:02:52",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "frank",
         "hostile",
@@ -7627,16 +5601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69215712",
       "itunes_duration": "1:12:06",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "momma",
         "home"
@@ -7654,14 +5619,8 @@
       "enclosure_length": "79772107",
       "itunes_duration": "1:23:05",
       "speakers": [
-        "Nick Bristow",
-        "Mike Bachmann",
-        "Skud Derringer",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Dear Internet Cross Over",
+        "Dear Internet"
       ],
       "topics": [
         "greeting",
@@ -7682,16 +5641,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65429838",
       "itunes_duration": "1:08:09",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "hideout"
       ]
@@ -7707,16 +5657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56329613",
       "itunes_duration": "58:40",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "dirt"
       ]
@@ -7732,16 +5673,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "854626022",
       "itunes_duration": "1:14:11",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "spike"
       ]
@@ -7758,14 +5690,8 @@
       "enclosure_length": "64890671",
       "itunes_duration": "1:07:35",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Enemy Having",
+        "Punishment Zelon"
       ],
       "topics": [
         "enemy"
@@ -7782,16 +5708,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77790145",
       "itunes_duration": "1:21:02",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bonk"
       ]
@@ -7807,16 +5724,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "756754584",
       "itunes_duration": "1:05:36",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "croc",
         "crunch"
@@ -7833,16 +5741,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66927386",
       "itunes_duration": "1:09:43",
-      "speakers": [
-        "Silga Darvo",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "foot",
         "greatness"
@@ -7860,14 +5759,7 @@
       "enclosure_length": "73492689",
       "itunes_duration": "1:16:33",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Spy Time Time"
       ],
       "topics": [
         "time"
@@ -7884,16 +5776,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "791007334",
       "itunes_duration": "1:08:33",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "failed",
         "experiment"
@@ -7911,14 +5794,7 @@
       "enclosure_length": "81255026",
       "itunes_duration": "1:24:38",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Dragon Two"
       ],
       "topics": [
         "dragon"
@@ -7936,14 +5812,7 @@
       "enclosure_length": "59690004",
       "itunes_duration": "1:02:10",
       "speakers": [
-        "Varmus Gremp",
-        "Fred Greenleaf",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning"
+        "Varmus Gremp"
       ],
       "topics": [
         "varmus",
@@ -7962,16 +5831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "836791208",
       "itunes_duration": "1:12:30",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "gremp"
       ]
@@ -7987,16 +5847,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57213596",
       "itunes_duration": "59:36",
-      "speakers": [
-        "Infernal Rick",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "beholder"
       ]
@@ -8012,16 +5863,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59019180",
       "itunes_duration": "1:01:28",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "swamp",
         "sass"
@@ -8038,16 +5880,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69719771",
       "itunes_duration": "1:12:37",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "mailbag"
       ]
@@ -8063,16 +5896,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59136626",
       "itunes_duration": "1:01:36",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -8086,16 +5910,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "837201568",
       "itunes_duration": "1:12:34",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "volcanic",
         "mansion"
@@ -8113,14 +5928,7 @@
       "enclosure_length": "906568648",
       "itunes_duration": "1:18:35",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Sweeties Day Any"
       ],
       "topics": [
         "sweeties"
@@ -8137,16 +5945,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "711075464",
       "itunes_duration": "1:01:39",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "ballista",
         "twins"
@@ -8163,16 +5962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "692530182",
       "itunes_duration": "1:00:02",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "mansion",
         "mountain"
@@ -8189,16 +5979,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "673577278",
       "itunes_duration": "58:23",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "fire",
         "fighters"
@@ -8215,16 +5996,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "603487338",
       "itunes_duration": "52:18",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "indoor",
         "fire"
@@ -8242,14 +6014,7 @@
       "enclosure_length": "686062214",
       "itunes_duration": "59:28",
       "speakers": [
-        "Melted Snow",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Melted Snow"
       ],
       "topics": [
         "brimstone",
@@ -8268,16 +6033,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "725025084",
       "itunes_duration": "1:02:51",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "skank",
         "volcano"
@@ -8295,14 +6051,7 @@
       "enclosure_length": "814816448",
       "itunes_duration": "1:10:39",
       "speakers": [
-        "Bone Fight",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Brass When"
       ],
       "topics": [
         "welcome",
@@ -8322,14 +6071,8 @@
       "enclosure_length": "733714978",
       "itunes_duration": "1:03:37",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Elemental Plane",
+        "Fire Time"
       ],
       "topics": [
         "welcome",
@@ -8349,16 +6092,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "845942386",
       "itunes_duration": "1:13:20",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "oops",
         "toby"
@@ -8376,14 +6110,7 @@
       "enclosure_length": "800295284",
       "itunes_duration": "1:09:20",
       "speakers": [
-        "Adira Harper",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Adira Harper"
       ],
       "topics": [
         "welcome",
@@ -8402,14 +6129,7 @@
       "enclosure_length": "809030668",
       "itunes_duration": "1:10:06",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Sigil Let"
       ],
       "topics": [
         "welcome",
@@ -8427,16 +6147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "781066622",
       "itunes_duration": "1:07:41",
-      "speakers": [
-        "Good Luck",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
-      ],
+      "speakers": [],
       "topics": [
         "ends",
         "beginnings"
@@ -8454,14 +6165,7 @@
       "enclosure_length": "690261830",
       "itunes_duration": "59:49",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Uthgar Let"
       ],
       "topics": [
         "welcome",
@@ -8480,16 +6184,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106719608",
       "itunes_duration": "1:51:10",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "dragoncon",
         "jock",
@@ -8509,14 +6204,7 @@
       "enclosure_length": "54942824",
       "itunes_duration": "57:14",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "quick thinking"
       ],
       "topics": [
         "victory",
@@ -8535,14 +6223,8 @@
       "enclosure_length": "858038902",
       "itunes_duration": "1:14:22",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Final Battle",
+        "Hell Bank"
       ],
       "topics": [
         "chromatic",
@@ -8561,14 +6243,7 @@
       "enclosure_length": "699720806",
       "itunes_duration": "1:00:39",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bank Only"
       ],
       "topics": [
         "bank"
@@ -8585,16 +6260,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69444754",
       "itunes_duration": "1:12:20",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "shattered",
         "illusion"
@@ -8612,14 +6278,7 @@
       "enclosure_length": "793318532",
       "itunes_duration": "1:08:48",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Bad Brunch"
       ],
       "topics": [
         "geeklycon",
@@ -8637,16 +6296,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "938826074",
       "itunes_duration": "1:21:16",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "momma"
       ]
@@ -8663,14 +6313,8 @@
       "enclosure_length": "820769726",
       "itunes_duration": "1:11:09",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Everything Leads",
+        "End Having"
       ],
       "topics": [
         "dragons"
@@ -8687,16 +6331,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60005146",
       "itunes_duration": "1:02:30",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "bedroom"
       ]
@@ -8713,14 +6348,7 @@
       "enclosure_length": "63006093",
       "itunes_duration": "1:05:38",
       "speakers": [
-        "Bad Bungalow",
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro"
+        "Bad Bungalow"
       ],
       "topics": [
         "bungalow"
@@ -8737,16 +6365,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57820055",
       "itunes_duration": "1:00:13",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "mixer"
       ]
@@ -8762,16 +6381,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "700443258",
       "itunes_duration": "1:00:44",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -8785,16 +6395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "637952622",
       "itunes_duration": "55:18",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "skin"
       ]
@@ -8810,16 +6411,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "636829452",
       "itunes_duration": "55:12",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -8833,16 +6425,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63039529",
       "itunes_duration": "1:05:40",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "vault"
       ]
@@ -8859,14 +6442,7 @@
       "enclosure_length": "865958074",
       "itunes_duration": "1:15:07",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Robo Reconnaissance Look"
       ],
       "topics": [
         "robo",
@@ -8884,16 +6460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "760300726",
       "itunes_duration": "1:05:57",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "hell",
         "room"
@@ -8910,16 +6477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64825469",
       "itunes_duration": "1:07:31",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "welcome",
         "vacation",
@@ -8937,16 +6495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "728178142",
       "itunes_duration": "1:03:08",
-      "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
-      ],
+      "speakers": [],
       "topics": [
         "corporate",
         "retreat"
@@ -8964,7 +6513,7 @@
       "enclosure_length": "734497472",
       "itunes_duration": "1:03:40",
       "speakers": [
-        "Gruebel McSnuggs"
+        "Bank Heroes"
       ],
       "topics": [
         "banksona"
@@ -9017,6 +6566,7 @@
       "enclosure_length": "851306244",
       "itunes_duration": "1:13:48",
       "speakers": [
+        "Dear Drakoolus",
         "Oseary Drakoolus"
       ],
       "topics": [
@@ -9126,7 +6676,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78505273",
       "itunes_duration": "1:21:46",
-      "speakers": [],
+      "speakers": [
+        "Something Mailbag",
+        "Way Comes Before"
+      ],
       "topics": [
         "mailbag"
       ]
@@ -9233,8 +6786,7 @@
       "enclosure_length": "804000296",
       "itunes_duration": "1:09:40",
       "speakers": [
-        "Carlos Luna",
-        "Adal Rifai"
+        "Dragon Heis"
       ],
       "topics": [
         "podcast",
@@ -9272,7 +6824,7 @@
       "enclosure_length": "75137358",
       "itunes_duration": "1:18:16",
       "speakers": [
-        "Eckhart Day Hammer"
+        "Masked Monsters Falling"
       ],
       "topics": [
         "masked",
@@ -9291,8 +6843,7 @@
       "enclosure_length": "824240822",
       "itunes_duration": "1:11:27",
       "speakers": [
-        "Jimmy Skags",
-        "Luckily Toby"
+        "Jimmy Skags"
       ],
       "topics": [
         "bone"
@@ -9346,7 +6897,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "701789892",
       "itunes_duration": "1:00:50",
-      "speakers": [],
+      "speakers": [
+        "One More Quick Thing",
+        "Corn Slowly"
+      ],
       "topics": [
         "thing",
         "corn"
@@ -9411,7 +6965,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65076662",
       "itunes_duration": "1:07:47",
-      "speakers": [],
+      "speakers": [
+        "First Impressions When"
+      ],
       "topics": [
         "impressions"
       ]
@@ -9444,7 +7000,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "709064822",
       "itunes_duration": "1:01:28",
-      "speakers": [],
+      "speakers": [
+        "Shadowfell Entering"
+      ],
       "topics": [
         "welcome",
         "shadowfell"
@@ -9515,14 +7073,9 @@
       "enclosure_length": "55003428",
       "itunes_duration": "57:17",
       "speakers": [
-        "Skud Derringer",
-        "Mike Bachmann",
-        "Rowan Grey",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "David Stewart"
+        "Once More",
+        "Bone Cage When",
+        "Bone Cage"
       ],
       "topics": [
         "bone",
@@ -9541,7 +7094,7 @@
       "enclosure_length": "806024880",
       "itunes_duration": "1:09:52",
       "speakers": [
-        "Laundry Mats"
+        "Heaven Finding Pelor"
       ],
       "topics": [
         "tavern",
@@ -9595,9 +7148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "709657176",
       "itunes_duration": "1:01:32",
-      "speakers": [
-        "Mickey Mouse"
-      ],
+      "speakers": [],
       "topics": [
         "complicated",
         "heaven"
@@ -9631,7 +7182,7 @@
       "enclosure_length": "671740328",
       "itunes_duration": "58:15",
       "speakers": [
-        "Orb Mystery"
+        "Elysium Time"
       ],
       "topics": [
         "welcome",
@@ -9700,9 +7251,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "768060972",
       "itunes_duration": "1:06:36",
-      "speakers": [
-        "Fey Castle"
-      ],
+      "speakers": [],
       "topics": [
         "marbled",
         "madness"
@@ -9753,7 +7302,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "736677778",
       "itunes_duration": "1:03:56",
-      "speakers": [],
+      "speakers": [
+        "Class Drow Supreme Fighting"
+      ],
       "topics": [
         "high",
         "level",
@@ -9844,7 +7395,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "713018398",
       "itunes_duration": "1:01:50",
-      "speakers": [],
+      "speakers": [
+        "Fate Getting"
+      ],
       "topics": [
         "banks",
         "fate"
@@ -9862,8 +7415,7 @@
       "enclosure_length": "694707178",
       "itunes_duration": "1:00:14",
       "speakers": [
-        "Ben Dilladong",
-        "Thom Harper"
+        "Ben Dilladong"
       ],
       "topics": [
         "brave",
@@ -9881,9 +7433,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63121867",
       "itunes_duration": "1:05:45",
-      "speakers": [
-        "Thom Harper"
-      ],
+      "speakers": [],
       "topics": [
         "feywild"
       ]
@@ -9915,7 +7465,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "869772788",
       "itunes_duration": "1:15:20",
-      "speakers": [],
+      "speakers": [
+        "Rotten Crew"
+      ],
       "topics": [
         "rotten",
         "crew",
@@ -9970,9 +7522,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "752752638",
       "itunes_duration": "1:05:16",
-      "speakers": [
-        "Ashayara Dayne"
-      ],
+      "speakers": [],
       "topics": [
         "princeling",
         "problem"
@@ -10038,7 +7588,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58411049",
       "itunes_duration": "1:00:50",
-      "speakers": [],
+      "speakers": [
+        "Tower Crashers Today"
+      ],
       "topics": [
         "tower",
         "crashers"
@@ -10055,10 +7607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60892055",
       "itunes_duration": "1:03:25",
-      "speakers": [
-        "Ashayara Dayne",
-        "Bonanas Foster"
-      ],
+      "speakers": [],
       "topics": [
         "tower",
         "grey",
@@ -10110,7 +7659,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "836829968",
       "itunes_duration": "1:12:31",
-      "speakers": [],
+      "speakers": [
+        "Team White Spire"
+      ],
       "topics": [
         "return",
         "fury",
@@ -10146,9 +7697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "934498174",
       "itunes_duration": "1:21:00",
-      "speakers": [
-        "Aludra Wyrmsbane"
-      ],
+      "speakers": [],
       "topics": [
         "hashtag",
         "bride",
@@ -10256,9 +7805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64912822",
       "itunes_duration": "1:07:37",
-      "speakers": [
-        "Will Toby"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -10378,7 +7925,7 @@
       "enclosure_length": "67976045",
       "itunes_duration": "1:10:48",
       "speakers": [
-        "Shadowspar Keep"
+        "Queendom Come"
       ],
       "topics": [
         "queendom"
@@ -10395,9 +7942,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74646674",
       "itunes_duration": "1:17:45",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "vampire",
         "friend"
@@ -10454,7 +7999,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64338964",
       "itunes_duration": "1:07:01",
-      "speakers": [],
+      "speakers": [
+        "Slight Gravitational Problem Well"
+      ],
       "topics": [
         "slight",
         "gravitational",
@@ -10473,8 +8020,7 @@
       "enclosure_length": "829472118",
       "itunes_duration": "1:11:54",
       "speakers": [
-        "Jett Razor",
-        "Hopefully Jett"
+        "Jett Razor"
       ],
       "topics": [
         "jett",
@@ -10492,7 +8038,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "767569470",
       "itunes_duration": "1:06:37",
-      "speakers": [],
+      "speakers": [
+        "Shrine Time Time"
+      ],
       "topics": [
         "shrine",
         "time"
@@ -10574,9 +8122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63887151",
       "itunes_duration": "1:06:33",
-      "speakers": [
-        "Jett Razor"
-      ],
+      "speakers": [],
       "topics": [
         "defenders",
         "nareev"
@@ -10627,9 +8173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62623660",
       "itunes_duration": "1:05:14",
-      "speakers": [
-        "Shiny Vulpix Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "plan"
       ]
@@ -10663,9 +8207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76831764",
       "itunes_duration": "1:20:02",
-      "speakers": [
-        "Rattenkaefig Hosted"
-      ],
+      "speakers": [],
       "topics": [
         "quest",
         "great",
@@ -10683,16 +8225,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66356453",
       "itunes_duration": "1:09:07",
-      "speakers": [
-        "Steve Melloncamp",
-        "Mike Bachmann",
-        "Aludra Wyrmsbane",
-        "Jennifer Cheek",
-        "Toby Treacletart",
-        "Tim Lanning",
-        "Michael DiMauro",
-        "Steph Kingston"
-      ],
+      "speakers": [],
       "topics": [
         "friend",
         "dragon"
@@ -10855,8 +8388,7 @@
       "enclosure_length": "70173255",
       "itunes_duration": "1:13:05",
       "speakers": [
-        "Mike Bachmann",
-        "Jennifer Cheek"
+        "Save Tidtowne"
       ],
       "topics": [
         "quest",
@@ -10948,9 +8480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46795962",
       "itunes_duration": "48:44",
-      "speakers": [
-        "Pelor’s Hope"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -11145,9 +8675,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75694080",
       "itunes_duration": "1:18:51",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "fury",
         "games"
@@ -11165,7 +8693,7 @@
       "enclosure_length": "55564329",
       "itunes_duration": "57:52",
       "speakers": [
-        "Evening Shire"
+        "East Something"
       ],
       "topics": [
         "glaine",
@@ -11185,7 +8713,7 @@
       "enclosure_length": "49662744",
       "itunes_duration": "51:43",
       "speakers": [
-        "right now"
+        "Best Boy Maybe"
       ],
       "topics": [
         "bucky"
@@ -11202,7 +8730,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54960794",
       "itunes_duration": "57:15",
-      "speakers": [],
+      "speakers": [
+        "Tower After"
+      ],
       "topics": [
         "tower"
       ]
@@ -11252,7 +8782,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69784554",
       "itunes_duration": "1:12:41",
-      "speakers": [],
+      "speakers": [
+        "Losing Control Harper"
+      ],
       "topics": [
         "control"
       ]
@@ -11534,9 +9066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58732878",
       "itunes_duration": "1:01:11",
-      "speakers": [
-        "kinda hid"
-      ],
+      "speakers": [],
       "topics": [
         "guttural",
         "reaction"
@@ -11572,9 +9102,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43743608",
       "itunes_duration": "45:34",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "trials",
         "underdark",
@@ -11592,9 +9120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66282893",
       "itunes_duration": "1:09:02",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "murderer"
       ]
@@ -11700,7 +9226,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56849136",
       "itunes_duration": "59:13",
-      "speakers": [],
+      "speakers": [
+        "Baldergate Bringing Jaela"
+      ],
       "topics": [
         "baldergate"
       ]
@@ -11749,9 +9277,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67062804",
       "itunes_duration": "1:09:51",
-      "speakers": [
-        "Jett Razor"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -12061,7 +9587,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72917995",
       "itunes_duration": "1:15:57",
-      "speakers": [],
+      "speakers": [
+        "Move Forward After"
+      ],
       "topics": []
     },
     {
@@ -12095,9 +9623,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64651180",
       "itunes_duration": "1:07:20",
-      "speakers": [
-        "Adira Harper"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -12197,7 +9723,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52409991",
       "itunes_duration": "54:35",
-      "speakers": [],
+      "speakers": [
+        "Getting Hot",
+        "Here When"
+      ],
       "topics": []
     },
     {
@@ -12284,14 +9813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55684702",
       "itunes_duration": "58:00",
-      "speakers": [
-        "Titus Harper",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Michael DiMauro",
-        "Steph Kingston"
-      ],
+      "speakers": [],
       "topics": [
         "brother",
         "fury"
@@ -12308,9 +9830,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51471673",
       "itunes_duration": "53:37",
-      "speakers": [
-        "all friendly"
-      ],
+      "speakers": [],
       "topics": [
         "wine"
       ]
@@ -12411,8 +9931,7 @@
       "enclosure_length": "63360940",
       "itunes_duration": "1:06:00",
       "speakers": [
-        "Bar Brawl When",
-        "Break Bad"
+        "Bar Brawl When"
       ],
       "topics": [
         "burninger",
@@ -12494,7 +10013,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70098442",
       "itunes_duration": "1:13:01",
-      "speakers": [],
+      "speakers": [
+        "Worst City Ever Ok"
+      ],
       "topics": [
         "worst",
         "city"
@@ -12564,9 +10085,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51967791",
       "itunes_duration": "54:08",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "foul",
         "rooms",
@@ -12584,7 +10103,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54940316",
       "itunes_duration": "57:13",
-      "speakers": [],
+      "speakers": [
+        "Death Necromancy"
+      ],
       "topics": [
         "house",
         "death"
@@ -12601,7 +10122,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66676192",
       "itunes_duration": "1:09:27",
-      "speakers": [],
+      "speakers": [
+        "Victory Having"
+      ],
       "topics": [
         "road",
         "victory"
@@ -12671,7 +10194,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70312019",
       "itunes_duration": "1:13:14",
-      "speakers": [],
+      "speakers": [
+        "Fairmire After"
+      ],
       "topics": [
         "mystery",
         "fairmire"
@@ -12877,7 +10402,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63321234",
       "itunes_duration": "1:05:57",
-      "speakers": [],
+      "speakers": [
+        "Depths Now"
+      ],
       "topics": [
         "depth"
       ]
@@ -13042,9 +10569,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70464992",
       "itunes_duration": "1:13:24",
-      "speakers": [
-        "Pelor’s Hope"
-      ],
+      "speakers": [],
       "topics": [
         "council"
       ]
@@ -13076,12 +10601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76042240",
       "itunes_duration": "1:19:12",
-      "speakers": [
-        "Titus Harper",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Jennifer Cheek"
-      ],
+      "speakers": [],
       "topics": [
         "wyrmhole"
       ]
@@ -13114,7 +10634,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69671706",
       "itunes_duration": "1:12:34",
-      "speakers": [],
+      "speakers": [
+        "questions like"
+      ],
       "topics": [
         "pelor",
         "hope"
@@ -13131,7 +10653,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24336509",
       "itunes_duration": "25:21",
-      "speakers": [],
+      "speakers": [
+        "Dragons Special"
+      ],
       "topics": [
         "drunk",
         "dragons",
@@ -13191,7 +10715,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62687608",
       "itunes_duration": "1:05:18",
-      "speakers": [],
+      "speakers": [
+        "Caer After"
+      ],
       "topics": [
         "long",
         "road",
@@ -13209,12 +10735,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90076055",
       "itunes_duration": "1:33:49",
-      "speakers": [
-        "Titus Harper",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Jennifer Cheek"
-      ],
+      "speakers": [],
       "topics": [
         "temple",
         "ghostly",
@@ -13232,10 +10753,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66937417",
       "itunes_duration": "1:09:43",
-      "speakers": [
-        "Titus Harper",
-        "Tim Lanning"
-      ],
+      "speakers": [],
       "topics": [
         "temple",
         "ghostly",
@@ -13325,9 +10843,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62186475",
       "itunes_duration": "1:04:46",
-      "speakers": [
-        "lizard men"
-      ],
+      "speakers": [],
       "topics": [
         "lizards",
         "liar"
@@ -13363,9 +10879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53149779",
       "itunes_duration": "55:22",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "hydrated"
       ]
@@ -13400,10 +10914,7 @@
       "enclosure_length": "66851317",
       "itunes_duration": "1:09:38",
       "speakers": [
-        "Titus Harper",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Aludra Jennifer"
+        "Stump Grinding Saddle"
       ],
       "topics": [
         "stump"
@@ -13618,7 +11129,7 @@
       "enclosure_length": "57176816",
       "itunes_duration": "59:33",
       "speakers": [
-        "Evening Shire"
+        "Evening Shire There"
       ],
       "topics": [
         "evening",
@@ -13636,7 +11147,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59660747",
       "itunes_duration": "1:02:08",
-      "speakers": [],
+      "speakers": [
+        "Ice Cream",
+        "Bucky Having"
+      ],
       "topics": [
         "cream",
         "bucky"
@@ -13670,7 +11184,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57335640",
       "itunes_duration": "59:43",
-      "speakers": [],
+      "speakers": [
+        "Dark Future Present Hello",
+        "Dear Wonderful Listeners"
+      ],
       "topics": [
         "dark",
         "future",
@@ -13710,12 +11227,7 @@
       "itunes_duration": "1:09:10",
       "speakers": [
         "Adam Bash",
-        "Sarah Tompkins",
-        "Titus Harper",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Jennifer Cheek",
-        "Michael DiMauro"
+        "Sarah Tompkins"
       ],
       "topics": [
         "greatest",
@@ -13734,10 +11246,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68127764",
       "itunes_duration": "1:10:58",
-      "speakers": [
-        "Adam Bash",
-        "Sarah Tompkins"
-      ],
+      "speakers": [],
       "topics": [
         "great",
         "heist"
@@ -13755,8 +11264,7 @@
       "enclosure_length": "65601201",
       "itunes_duration": "1:08:20",
       "speakers": [
-        "Soul Stealer",
-        "Titus Harper"
+        "Soul Stealer"
       ],
       "topics": [
         "soul",
@@ -13774,7 +11282,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61494334",
       "itunes_duration": "1:04:03",
-      "speakers": [],
+      "speakers": [
+        "Flying House Hello"
+      ],
       "topics": [
         "flying",
         "house"
@@ -13864,10 +11374,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88518321",
       "itunes_duration": "1:32:12",
-      "speakers": [
-        "Titus Harper",
-        "Tim Lanning"
-      ],
+      "speakers": [],
       "topics": [
         "mordenkrad",
         "time"
@@ -13935,9 +11442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96829440",
       "itunes_duration": "1:40:51",
-      "speakers": [
-        "Titus Harper"
-      ],
+      "speakers": [],
       "topics": [
         "smash",
         "grab"
@@ -13955,8 +11460,7 @@
       "enclosure_length": "73699578",
       "itunes_duration": "1:16:46",
       "speakers": [
-        "Mastwick Chronicles Hello",
-        "Titus Harper"
+        "Mastwick Chronicles Hello"
       ],
       "topics": [
         "mastwick",
@@ -13994,8 +11498,7 @@
       "enclosure_length": "65670164",
       "itunes_duration": "1:08:24",
       "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning"
+        "Futility Hello"
       ],
       "topics": [
         "flight",
@@ -14084,9 +11587,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82677342",
       "itunes_duration": "1:26:07",
-      "speakers": [
-        "Sly Flourish Hello"
-      ],
+      "speakers": [],
       "topics": [
         "flourish"
       ]
@@ -14173,9 +11674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102433854",
       "itunes_duration": "1:46:42",
-      "speakers": [
-        "Trant Thumble"
-      ],
+      "speakers": [],
       "topics": [
         "acid",
         "trip"
@@ -14209,7 +11708,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113377697",
       "itunes_duration": "1:58:06",
-      "speakers": [],
+      "speakers": [
+        "Streets Since"
+      ],
       "topics": [
         "beasts",
         "street"
@@ -14227,8 +11728,7 @@
       "enclosure_length": "66704613",
       "itunes_duration": "1:09:29",
       "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning"
+        "Hysterical Dragonborn Welcome"
       ],
       "topics": [
         "hysterical",
@@ -14246,12 +11746,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57422158",
       "itunes_duration": "59:49",
-      "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Junpei Iori"
-      ],
+      "speakers": [],
       "topics": [
         "family",
         "dinner"
@@ -14268,7 +11763,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85659898",
       "itunes_duration": "1:29:13",
-      "speakers": [],
+      "speakers": [
+        "Gladiator Games After"
+      ],
       "topics": [
         "gladiator",
         "games"
@@ -14352,10 +11849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96821498",
       "itunes_duration": "1:40:51",
-      "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning"
-      ],
+      "speakers": [],
       "topics": [
         "pirate",
         "life"
@@ -14410,7 +11904,7 @@
       "enclosure_length": "116257854",
       "itunes_duration": "2:01:06",
       "speakers": [
-        "reckless abandon"
+        "Not Quite Through"
       ],
       "topics": [
         "wood"
@@ -14462,8 +11956,7 @@
       "enclosure_length": "23976228",
       "itunes_duration": "24:58",
       "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning"
+        "Thokas Takes"
       ],
       "topics": [
         "thokas",
@@ -14481,7 +11974,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68439980",
       "itunes_duration": "1:11:17",
-      "speakers": [],
+      "speakers": [
+        "Robot No Feel Love"
+      ],
       "topics": [
         "robot",
         "love"
@@ -14534,7 +12029,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33262027",
       "itunes_duration": "34:38",
-      "speakers": [],
+      "speakers": [
+        "Brief Respite Hello Adventurers"
+      ],
       "topics": [
         "brief",
         "respite"
@@ -14552,12 +12049,8 @@
       "enclosure_length": "101281123",
       "itunes_duration": "1:45:30",
       "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Junpei Iori",
-        "Steven Strom",
-        "Jennifer Cheek"
+        "Greetings Adventurers",
+        "American Thanksgiving"
       ],
       "topics": []
     },
@@ -14573,12 +12066,7 @@
       "enclosure_length": "87263608",
       "itunes_duration": "1:30:54",
       "speakers": [
-        "Tum Darkblade",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Junpei Iori",
-        "Steven Strom",
-        "Jennifer Cheek"
+        "Greetings Adventurers"
       ],
       "topics": []
     },
@@ -14595,11 +12083,7 @@
       "itunes_duration": "58:51",
       "speakers": [
         "Tum Darkblade",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Junpei Iori",
-        "Steven Strom",
-        "Jennifer Cheek"
+        "Tim Lanning"
       ],
       "topics": []
     },
@@ -14616,11 +12100,7 @@
       "itunes_duration": "1:18:58",
       "speakers": [
         "Tum Darkblade",
-        "Tim Lanning",
-        "Mike Bachmann",
-        "Junpei Iori",
-        "Steven Strom",
-        "Jennifer Cheek"
+        "Tim Lanning"
       ],
       "topics": []
     }
@@ -14631,458 +12111,458 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-02-16 — Campaign 2: Episode 174 - Horse Armor — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-02-09 — Campaign 2: Episode 173 - Level 13 Gang — speakers: Michael DMing, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-02-02 — Campaign 2: Episode 172 - The Horrors Inside — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-01-26 — Campaign 2: Episode 171 - Oralboros — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-01-19 — Campaign 2: Episode 170 - Barbara Nana — speakers: Barbara Nana Basement, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-01-12 — Campaign 2: Episode 169 - Good Ol' Guard Love — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2026-01-07 — Campaign 2: Episode 168 - Tug Rope and Grease — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-12-29 — Campaign 2: Bonus New Years 2025 Outtakes! — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-12-22 — Campaign 2: Episode 167 - Lean-to Learn-too — speakers: Will Screech, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-12-15 — Campaign 2: Episode 166 -Screech Echo, Heroically Handsome — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-12-08 — Campaign 2: Episode 165 - Scatter Rescue — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-12-01 — Campaign 2: Episode 164 - Scatter Chamber — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-11-25 — Campaign 2: Episode 163 - Tuna Can Shaped Terrors — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-11-17 — Campaign 2: Episode 162 - Bad Panther Man — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-11-10 — Campaign 2: Episode 161 - Plugging a Leak — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-11-03 — Campaign 2: Episode 160 - Salt and the Better Salt, Pepper — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-10-27 — Campaign 2: Episode 159 - From Cute to Terrible — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-10-20 — Campaign 2: Episode 158 - Operation Hot Spring Hayboy — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-10-13 — Campaign 2: Episode 157 - Hot Springs Episode — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-10-07 — Campaign 2: Episode 156 - Sins of the Mothers — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-09-29 — Campaign 2: Episode 155 - Death of a Talented Artist — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-09-22 — Campaign 2: Episode 154 - Burn, Baby, Burn! — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-09-15 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 2 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-09-08 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 1 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-09-01 — Campaign 2: Super Quiztastic Bonus Episode — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-08-25 — Campaign 2: Bonus Mailbag Super Show — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-08-18 — Campaign 2: Episode 153 - Mime Mums — speakers: Emperor Beux, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-08-11 — Campaign 2: Episode 152 - Talented Show — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-08-04 — Campaign 2: Episode 151 - Zone of Trust — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-07-30 — Campaign 2: Episode 150 - Tunnel Troubles — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-07-22 — Campaign 2: Episode 149 - A Disconcerting amount of Eggs — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-07-14 — Campaign 2: Episode 148 - Victory Spoils — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-07-07 — Campaign 2: Episode 147 - Hand Caught in the Mimic Cart — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-06-30 — BONUS EPISODE: CHILLAGANZA — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-06-26 — Campaign 2: Episode 146 - Cars Are People Too — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-06-16 — Campaign 2: Episode 145 - Bridge — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-06-09 — Campaign 2: Episode 144 - Wild Wild Ambush — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-06-02 — Campaign 2: Episode 143 - Bridge Engineers HATE this One Weird Trick — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-05-26 — Campaign 2: Episode 142 - Potion, Lotion, and Chain. — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-05-19 — Bonus Episode: Tales From The Foaming Tankard: Season 6 - Guests: Episode 1-2 — speakers: David Barnhart, Mooge Mansack, Jordan Breeding, Eric Thornett, Dungeon Mastered, David Lee Stewart Guest, Zack Meyman, Starman Bart
-- 2025-05-13 — Campaign 2: Episode 141 - Take My Wife, Please — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-05-05 — BONUS EPISODE: Charity Stream 2025 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-04-28 — BONUS EPISODE: CAMPAIGN 2 RECAP – 109-140 Special — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-04-21 — Campaign 2: Episode 140 - Dirk Gramble, Man of Distinction — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-04-15 — Campaign 2: Episode 139 - Big Strong Fight Pit Man — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-04-07 — Campaign 2: Episode 138 - Pranksgiving — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-03-31 — Campaign 2: Episode 137 - Smooth and Stealthy — speakers: Stealthy Back, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-03-24 — Campaign 2: Episode 136 - The Ledger — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-03-18 — Campaign 2: Episode 135 - Game Time — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-03-10 — Bonus Episode: Peaking with Bachmann — speakers: Mike Bachmann, Nika Howard, Jennifer Cheek, Michael DiMauro, Tim Lanning, Selene Von Esper, David Stewart
-- 2025-03-03 — Campaign 2: Episode 134 - Journals — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-02-24 — Campaign 2: Episode 133 - Split the Party Party — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-02-17 — Campaign 2: Episode 132 - P.K.F.B. — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-02-10 — Campaign 2: Episode 131 - Action Wives — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-02-03 — Campaign 2: Episode 130 - The One That Got Away — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-01-27 — Campaign 2: Episode 129 - The Signal — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-01-20 — Campaign 2: Episode 128 - Death Chute — speakers: Squirrel Man, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-01-13 — Campaign 2: Episode 127 - Tree Traps — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2025-01-06 — Campaign 2: Episode 126 - Tree Time — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-12-30 — BONUS EPISODE: Surviving with Nika — speakers: Nika Howard, Jennifer Cheek, Michael DiMauro, Tim Lanning, Mike Bachmann, Selene Von Esper, David Stewart
-- 2024-12-23 — Campaign 2: Episode 125 - Boot-licker Beatdown — speakers: Beatdown Ok, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-12-16 — Campaign 2: Episode 124 - Welcome to Farholde — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-12-09 — Campaign 2: Episode 123 - Aliases Aplenty — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-12-02 — Campaign 2: Episode 122 - Rock Hard Heroes — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-11-25 — Campaign 2: Episode 121 - Armored to Protect Those that I Love — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-11-18 — Campaign 2: Episode 120 - The Resistance — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-11-11 — Campaign 2: Episode 119 - You Do Not Gotta Hand it to The Jokester — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-11-04 — Campaign 2: Episode 118 - A Long Hallway of Fractured Nightmares — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-10-28 — Campaign 2: Episode 117 - Ignorance is Terrifying — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-10-21 — Campaign 2: Episode 116 - Neitherworld! — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-10-14 — Campaign 2: Episode 115 - Do Not Say His Name — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-10-08 — Campaign 2: Episode 114 - Cemetery Plots — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-09-30 — Campaign 2: Episode 113 - Frog Factions — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-09-23 — Campaign 2: Episode 112 - Small, Evil Frogs — speakers: Evil Frogs, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-09-16 — Campaign 2: Episode 111 - Hydra Haulers — speakers: Hydra Haulers, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-09-09 — BONUS EPISODE: GenCon 2024 Day 0 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-09-02 — Campaign 2: Episode 110 - Hydra Hell — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-08-26 — Campaign 2: Episode 109 - Pappy and the Sea Monster — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-08-19 — Campaign 2: Episode 108 - The Black Market — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-08-12 — BONUS EPISODE: Trekking with Cheek — speakers: Jennifer Cheek, Michael DiMauro, Tim Lanning, Mike Bachmann, Selene Von Esper, David Stewart
-- 2024-08-05 — BONUS EPISODE: CAMPAIGN 2 RECAP – 90-107 Special — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-07-29 — Campaign 2: Episode 107 - Bad Guy Bar Fight — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-07-22 — Campaign 2: Episode 106 - Bakery Business — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-07-15 — Campaign 2: Episode 105 - Welcome to Brookwillow — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-07-08 — Campaign 2: Episode 104 - Missing in Action — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-07-01 — Campaign 2: Episode 103 - A Simple Stabbing Mistake — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-06-24 — Campaign 2: Episode 102 - Hole — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-06-17 — BONUS EP - WASTELAND (Part 2) — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-06-10 — BONUS EP - WASTELAND (Part 1) — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-06-03 — Campaign 2: Episode 101 - Empire of Lies — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-05-27 — Campaign 2: Episode 100 - Campaign 2: Episode 100 - Train Car of Revelations — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart, Zack Meyman
-- 2024-05-20 — Campaign 2: Episode 99 - Class is in Session — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart, Zack Meyman
-- 2024-05-13 — Campaign 2: Episode 98 - Be Free (My Cuties) — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-05-06 — Campaign 2: Episode 97 - Stealth Mission — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-04-29 — Campaign 2: Episode 96 - Morality and Murder — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-04-22 — Campaign 2: Episode 95 - J'Michael goes to J'ail — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-04-15 — Campaign 2: Episode 94 - Caravan Raid — speakers: Caravan Raid, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-04-08 — Campaign 2: Episode 93 - The Circus Conundrum — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-04-01 — BONUS EPISODE: Joking with Lanning — speakers: Tim Lanning, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Michael DiMauro, David Stewart
-- 2024-03-25 — Campaign 2: Episode 92 - Back to the Circus — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-03-18 — Campaign 2: Episode 91 - A Sticky Friendship — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-03-11 — Campaign 2: Episode 90 - Nest Naps — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-03-04 — BONUS EPISODE: CAMPAIGN 2 RECAP – 76-89 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-02-26 — Campaign 2: Episode 89 - Big Bad Bird — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-02-19 — Campaign 2: Episode 88 - Rope — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-02-12 — Campaign 2: Episode 87 - Doomjaw's Doom — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-02-05 — Campaign 2: Episode 86 - Deep Jungle — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-01-29 — Campaign 2: Episode 85 - Dino Dirge — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-01-22 — Campaign 2: Episode 84 - Full Circus — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-01-15 — Campaign 2: Episode 83 - King of the Juggalos — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-01-08 — Campaign 2: Episode 82 - Clown Capitalism — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2024-01-01 — BONUS EPISODE: How We Saved the Grateful Gathering Part 2 — speakers: Pat Edwards, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-12-25 — BONUS EPISODE: How We Saved the Grateful Gathering Part 1 — speakers: Pat Edwards, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-12-18 — Campaign 2: Episode 81 - Flaming Pile of Circus — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-12-11 — Campaign 2: Episode 80 - Doug's Ex — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-12-04 — Campaign 2: Episode 79 - Despite All My Rage I Am Still Just A Spider In A Cage — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-11-27 — BONUS EPISODE: GAPCast D&D Movie Discussion — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-11-20 — Campaign 2: Bonus Mailbag Episode NOV 2023 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-11-13 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 2 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-11-06 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 1 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-10-30 — Campaign 2: Episode 78 - Total Blackout — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-10-23 — Campaign 2: Episode 77 - They Are Coming — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-10-16 — Campaign 2: Episode 76 - Ghost Phone — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-10-09 — BONUS EPISODE: CAMPAIGN 2 RECAP – 43-74 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-10-02 — Campaign 2: Episode 75 - - Son of A... — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-09-25 — Campaign 2: Episode 74 - Selene's Very Bad Furniture Day — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-09-18 — Campaign 2: Episode 73 - Momma Mia! — speakers: Momma Mia, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-09-11 — Campaign 2: Episode 72 - Spore Buddies — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-09-04 — Campaign 2: Episode 71 - Rabid Return — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-08-28 — Campaign 2: Episode 70 - Bridge Tussle — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-08-21 — BONUS EP - Welcome to Wrexford — speakers: Stephen Garcia, Mike Bachmann, Michael DiMauro, Emily Ervolina, Selene Von Esper, Jennifer Cheek, Tim Lanning, David Stewart
-- 2023-08-14 — Campaign 2: Episode 69 - Lava Lizards — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-08-07 — Bonus Episode: SPACE WORMS — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-07-31 — Campaign 2: Episode 68 - Fast and Freaky — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-07-24 — Campaign 2: Episode 67 - Roll for Community — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-07-17 — Bonus Ep - The Godless: A Black Ballad Adventure Part 2 — speakers: Pat Edwards, Rachel Quirky Schenk, Tim Lanning, Nika Howard, Adam Lance Garcia, Black Ballad, Mike Bachmann, Selene Von Esper
-- 2023-07-10 — Bonus Ep - The Godless: A Black Ballad Adventure Part 1 — speakers: Pat Edwards, Rachel Quirky Schenk, Tim Lanning, Nika Howard, Adam Lance Garcia, Black Ballad, Mike Bachmann, Selene Von Esper
-- 2023-07-03 — Campaign 2: Episode 66 - Geeklycon 2023 - The Four Heroic Hurdles — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-06-27 — Bonus Episode: Patrick Swayze Eyes — speakers: Patrick Swayze Eyes, Carla Maxted, Russ More, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro
-- 2023-06-19 — Campaign 2: Episode 65 - Unmasked — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-06-12 — Campaign 2: Episode 64 - Pig in the Box — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-06-05 — Campaign 2: Episode 63 - Face Spiders — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-05-29 — Campaign 2: Episode 62 - Three Weeks Later — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-05-22 — Campaign 2: Episode 61 - A Distracting Hot Spring — speakers: Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone, Jonah Eisenstock
-- 2023-05-15 — Campaign 2: Episode 60 - Big Bone Baddie — speakers: Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone, Jonah Eisenstock
-- 2023-05-08 — Campaign 2: Episode 59 - Bony Horizon — speakers: Bony Horizon, Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone
-- 2023-05-01 — Campaign 2: Episode 58 - Spidered Man — speakers: Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone, Jonah Eisenstock
-- 2023-04-24 — Campaign 2: Episode 57 - Our Noodley Ally — speakers: Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone, Jonah Eisenstock
-- 2023-04-17 — Campaign 2: Episode 56 - The Chasm — speakers: Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone, Jonah Eisenstock
-- 2023-04-10 — Campaign 2: Episode 55 - Shark Problems — speakers: Hopefully Ratma, Landan Smith, James Stanley, Jeffrey Tien, Mike Weber, Charlene MacPherson, Craig Girten, William Pettibone
-- 2023-04-03 — Campaign 2: Episode 54 - Welcome to Mineford — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-03-27 — Campaign 2: Episode 53 - Slip AND Slide?! — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-03-20 — Campaign 2: Episode 52 - Breaking Free — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-03-13 — Campaign 2: Episode 51 - Down the Stairs — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-03-06 — Campaign 2: Episode 50 - Four Difficult Conversations — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-02-27 — Campaign 2: Episode 49 - Eve of the OT — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-02-20 — Bonus Ep - The Black Ballad — speakers: Ballad Selene, Pat Edwards, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-02-13 — Campaign 2: Episode 48 - Loose Ends — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-02-06 — Campaign 2: Episode 47 - Who Jokes The Jokester? — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-01-30 — Campaign 2: Episode 46 - Clown Cave — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-01-23 — Campaign 2: Episode 45 - The Wards — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-01-16 — Campaign 2: Episode 44 - Termingator — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2023-01-09 — Campaign 2: Episode 43 - Fort Alone — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-12-26 — Bonus Episode: Campaign 2 Recap - 1-42 — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-12-19 — Campaign 2: Episode 42 - Various Villains — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-12-12 — Campaign 2: Episode 41 - Slumber Party — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-12-05 — Campaign 2: Episode 40 - The Ward — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-11-28 — Campaign 2: Episode 39 - The Bears — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-11-21 — Campaign 2: Episode 38 - New Best Friend Alert — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-11-14 — Campaign 2: Episode 37 - Turns Have Tabled — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-11-07 — Campaign 2: Episode 36 - Grave Shack — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-10-31 — Campaign 2: Episode 35 - Under My Furry Wing — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-10-24 — Campaign 2: Episode 34 - Fame and Feastin' — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-10-17 — Bonus Episode: Songs of Chaos Part 2 — speakers: Pat Edwards, Win Win
-- 2022-10-11 — Bonus Episode: Songs of Chaos Part 1 — speakers: Pat Edwards, Win Win
-- 2022-10-03 — Bonus Episode: Tales From the Foaming Tankard : Patch Work - Episode 1: Mixed Messages — speakers: Brip Brap, Tim Lanning, Carla Maxted, David Stewart, Dungeon Mastered, Alex Vincent, Michael DiMauro Bar Patrons
-- 2022-09-26 — Campaign 2: Episode 33 - Adult Conversations — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-09-19 — Campaign 2: Episode 32 - Hanging Around — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-09-12 — Campaign 2: Episode 31 - High Society Part 2 — speakers: Dahlia Woodford-Blackwell-Stovitch-Garrison, Diana DiMicco, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-09-05 — Campaign 2: Episode 30 - High Society — speakers: Diana DiMicco, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-08-29 — Campaign 2: Episode 29 - Mushroom Party — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-08-22 — Campaign 2: Episode 28 - Death Stench — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-08-15 — Campaign 2: Episode 27 - Unexpected Victories — speakers: Skin Kyle, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-08-08 — Campaign 2: Bonus Mailbag Episode — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-08-01 — Campaign 2: Episode 26 - To Foment and Brew a Revolution — speakers: Skin Kyle, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-07-25 — BONUS EPISODE – Greetings, Adventurers! CAMP CHICKADEE — speakers: Camp Chickadee, Selene Von Esper, Jennifer Cheek, Tim Lanning, Mike Bachmann, Michael DiMauro, David Stewart
-- 2022-07-18 — Campaign 2: Episode 25 - GeeklyCon 2022 Live Show — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-07-11 — Campaign 2: Episode 24 - Metal Kyle — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-07-04 — Campaign 2: Episode 23 - An Explosive Rescue — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-06-27 — Campaign 2: Episode 22 - Dark and Sticky — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-06-20 — Campaign 2: Episode 21 - The...Rescue? — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-06-13 — Campaign 2: Episode 20 - Ant Trap — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-06-06 — Campaign 2: Episode 19 - Seventh Day — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-05-30 — Campaign 2: Episode 18 - Truth Zone — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-05-23 — Campaign 2: Episode 17 - Breaking Points — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-05-16 — Campaign 2: Episode 16 - Big Bad Beetle Beasts — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart, Zack Meyman
-- 2022-05-09 — Campaign 2: Episode 15 - Marching Two by Two — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-05-02 — Campaign 2: Episode 14 - Bugged Out — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-04-25 — Bonus Episode: Tales From the Foaming Tankard : The Unplanned Expedition - Episode 1 — speakers: Nika Howard, Rhyan Cassady, Felicia Perez, Kieran Bennett, Dungeon Mastered
-- 2022-04-18 — Campaign 2: Episode 13 - Cleric-al Work — speakers: momma mia, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-04-11 — Campaign 2: Episode 12 - Tetradecapus Trouble — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart, Zack Meyman
-- 2022-04-04 — Campaign 2: Episode 11 - Press and Punishment — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-03-28 — Campaign 2: Episode 10 - Ashes — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-03-21 — Campaign 2: Episode 9 - Horns of Battle — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-03-14 — Campaign 2: Episode 8 - Heretic — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-03-07 — Campaign 2: Episode 7 - Crushed — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-02-28 — Campaign 2: Episode 6 - Checking In — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-02-21 — Campaign 2: Episode 5 - A Slight Cult Problem — speakers: Cult Problem, Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-02-12 — Campaign 2: Episode 4 - Horrible and Familiar — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-02-06 — Campaign 2: Episode 3 - Mourning — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-01-31 — Campaign 2: Episode 2 - A Misread Situation — speakers: Mike Bachmann, Selene Von Esper, Jennifer Cheek, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-01-24 — Campaign 2: Episode 1 - Welcome to Rimeford — speakers: Mike Bachmann, Jennifer Cheek, Nika Howard, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-01-17 — Campaign 2: Episode 0 - The Dragon — speakers: House Cromwell, John Iadarola, Mike Bachmann, Jennifer Cheek, Nika Howard, Tim Lanning, Michael DiMauro, David Stewart
-- 2022-01-10 — Leviathan Episode 10 - The Vat — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2022-01-03 — Leviathan Episode 9 - A Cure — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-12-27 — Leviathan Episode 8 - A Game — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-12-20 — Leviathan Episode 7 - Puppets — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-12-13 — Leviathan Episode 6 - Death — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-12-06 — Leviathan Episode 5 - Doppelganger — speakers: Doppelganger Things, Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-11-29 — Leviathan Episode 4 - Dinner — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-11-22 — Leviathan Episode 3 - The Unseen — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-11-15 — Leviathan Episode 2 - Trapped — speakers: Mike Bachmann, Jennifer Cheek, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-11-08 — Leviathan Episode 1 - Into the Depths — speakers: Mike Bachmann, Jennifer Cheek, Nika Howard, Tim Lanning, Michael DiMauro, Fred Greenleaf, David Stewart
-- 2021-11-01 — The Listenersode! — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-10-25 — End of Campaign 1 - Cast Retrospective — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-10-18 — Episode 427 - A Farewell to Our Family and Friends (End of Campaign 1) — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-10-11 — Episode 426 - The Luck of the Draw — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-10-04 — BONUS EPISODE - TFTFT: Rudolph Episode 1 — speakers: Jonas Antonsson, Ali Norero, Tommy Ribbons, Mike McMahan, David Stewart, Mike Bachmann, Dungeon Mastered, Michael DiMauro
-- 2021-09-27 — Episode 425 - The Final Battle: The End — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-09-20 — Episode 424 - The Final Battle: 3rd Shift — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-09-13 — Episode 423 - The Final Battle: 2 Trant 2 Furious — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-09-06 — Episode 422 - The Final Battle Part 1 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-08-30 — Episode 421 - As the Feywild Burns — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-08-23 — Episode 420 - A Non-Euclidean Nightmare — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-08-16 — Episode 419 - The Center of Lyktion — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-08-09 — Episode 418 - Big Beefy Babies — speakers: Beefy Babies, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-08-02 — Episode 417 - Maze 2: Hypermaze — speakers: Maze Realm, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-07-26 — Episode 416 - The Tragic Fate of Tidtowne — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-07-19 — Episode 415 - My Friend Melora — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-07-12 — Episode 414 - Your Bones Are Mine — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-07-05 — Episode 413 - Big Lahni — speakers: Big Lahni, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-06-28 — Episode 412 – NASCAR — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-06-21 — Episode 411 - A Wizard, A Clone, and A Simulacrum. — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-06-14 — Episode 410 - Mech Mommy — speakers: Mechanized Mother, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-06-07 — Bonus Episode - Questions and Answers — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-05-31 — Bonus Episode - The Village Of Eternal Blight — speakers: Mike Bachmann, Jennifer Cheek, Nika Howard, Tim Lanning, Michael DiMauro, Dungeon Mastered, David Stewart
-- 2021-05-24 — Episode 409 - Into Bigby’s Realm — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-05-17 — Episode 408 - The Tarrasque Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-05-10 — Episode 407 - The Tarrasque — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-05-03 — Episode 406 - Welcome to The Crossroads — speakers: Will Rowan, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-04-26 — Episode 405 - Great Galanthis Snack Off — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-04-19 — Episode 404 - Welcome to Galanthis — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-04-12 — Episode 403 - Most Unchill, Dad — speakers: Dad Bachmann, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-04-05 — Episode 402 - King of the Chaos — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-03-29 — Episode 401 - BIG Lahni — speakers: Big Lahni, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-03-22 — Episode 400 - Power Word Chill — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-03-15 — Episode 399 - Two Steps Forward, Several Demons Attack Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-03-08 — Episode 398 - Two Steps Forward, Several Demons Attack — speakers: Steps Forward, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-03-01 — Episode 397 - Fungal Fortress — speakers: Aludra ad Jaela, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-02-22 — Episode 396 – Fungal Fantasy Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Nika Howard, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-02-15 — Episode 395 - Fungal Fantasia — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-02-08 — Episode 394 - Demon Ball — speakers: Demon Ball, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2021-02-01 — Episode 393 - Meteor Mayhem — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-01-25 — Episode 392 - Buca di Breakfast — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-01-18 — Episode 391 - One Spicy Porridge — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-01-11 — Episode 390 - Temptation's Hand — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2021-01-04 — Episode 389 - Here We Are Now — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-12-28 — Episode 388 - Voyage Across the Astral Sea — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-12-21 — Episode 387 - The Elite Forge — speakers: Elite Forge, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-12-14 — Episode 386 - The Final Bone Battle!? Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-12-07 — Episode 385 - The Final Bone Battle!? — speakers: Bone Battle, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-11-30 — Episode 384 - The Curse of Exhaustion — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-11-23 — Episode 383 - Table Manners — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-11-16 — Bonus Episode - Your Mails, Our Bags — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-11-09 — Episode 382 - F Word Gary — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-11-02 — Episode 381 - Stepping Up to the Plate — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-10-26 — Episode 380 - Sky Pirate Delight — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-10-19 — Episode 379 - Welcome to Venduria — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-10-12 — Episode 378 - The Crimes of Catherine Beanlord — speakers: Momma Mia, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-10-05 — Episode 377 - 12 Angry Allies — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-09-28 — Episode 376 - Welcome to the Night Zone — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-09-21 — Episode 375 - The Sorrowful Man — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-09-14 — Episode 374 - The Mind Killer — speakers: Mind Flayers, Pat Edwards, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning
-- 2020-09-07 — Episode 373 - Brain Brine Juice — speakers: Brain Brine, Pat Edwards, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning
-- 2020-08-31 — Bonus Episode - GeeklyCon Digi 2020 live show: Annual Office Party — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-08-24 — Episode 372 - Welcome to the Elemental Plane of Earth — speakers: Bonecard Battles, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-08-17 — Episode 371 - Bonesplash 42 Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-08-10 — Episode 370 - Bonesplash 42 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-08-03 — Episode 369 - Bone Brothers — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-07-27 — Bonus Episode - TFtFT: Shedding Misconceptions Episode 1 — speakers: Join Adrath, Veronica Escamilla-Brady, David Stewart, Michael DiMauro, Dungeon Mastered, Fred Greenleaf, Hiroshi Sutherland, Howard Jennifer Cheek
-- 2020-07-20 — Episode 368 - The Party Father — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-07-13 — Episode 367 - In The Mother's Shadow — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-07-06 — Episode 366 - Jilling the Bonehammer — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-06-29 — Episode 365 - Ticket to Ride — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-06-22 — Episode 364 - Toppling the Tyrannical Pyre Part 3 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-06-15 — Episode 363 - Toppling the Tyrannical Pyre Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
+- 2026-02-23 — BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174
+- 2026-02-16 — Campaign 2: Episode 174 - Horse Armor — speakers: Horse Armor Time
+- 2026-02-09 — Campaign 2: Episode 173 - Level 13 Gang
+- 2026-02-02 — Campaign 2: Episode 172 - The Horrors Inside
+- 2026-01-26 — Campaign 2: Episode 171 - Oralboros — speakers: Oralboros When
+- 2026-01-19 — Campaign 2: Episode 170 - Barbara Nana — speakers: Barbara Nana Basement
+- 2026-01-12 — Campaign 2: Episode 169 - Good Ol' Guard Love — speakers: Good Ol
+- 2026-01-07 — Campaign 2: Episode 168 - Tug Rope and Grease
+- 2025-12-29 — Campaign 2: Bonus New Years 2025 Outtakes!
+- 2025-12-22 — Campaign 2: Episode 167 - Lean-to Learn-too
+- 2025-12-15 — Campaign 2: Episode 166 -Screech Echo, Heroically Handsome — speakers: Screech Echo, Wife Woahs
+- 2025-12-08 — Campaign 2: Episode 165 - Scatter Rescue — speakers: Scatter Rescue Screech
+- 2025-12-01 — Campaign 2: Episode 164 - Scatter Chamber — speakers: Scatter Chamber
+- 2025-11-25 — Campaign 2: Episode 163 - Tuna Can Shaped Terrors
+- 2025-11-17 — Campaign 2: Episode 162 - Bad Panther Man
+- 2025-11-10 — Campaign 2: Episode 161 - Plugging a Leak
+- 2025-11-03 — Campaign 2: Episode 160 - Salt and the Better Salt, Pepper — speakers: Better Salt, Pepper Turns
+- 2025-10-27 — Campaign 2: Episode 159 - From Cute to Terrible — speakers: Terrible These
+- 2025-10-20 — Campaign 2: Episode 158 - Operation Hot Spring Hayboy
+- 2025-10-13 — Campaign 2: Episode 157 - Hot Springs Episode
+- 2025-10-07 — Campaign 2: Episode 156 - Sins of the Mothers
+- 2025-09-29 — Campaign 2: Episode 155 - Death of a Talented Artist
+- 2025-09-22 — Campaign 2: Episode 154 - Burn, Baby, Burn! — speakers: Mime Mums
+- 2025-09-15 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 2
+- 2025-09-08 — Campaign 2: Bonus Episode - Great Kings and Venturers! Part 1
+- 2025-09-01 — Campaign 2: Super Quiztastic Bonus Episode
+- 2025-08-25 — Campaign 2: Bonus Mailbag Super Show — speakers: fun questions, chat abou
+- 2025-08-18 — Campaign 2: Episode 153 - Mime Mums — speakers: Mime Mums Like
+- 2025-08-11 — Campaign 2: Episode 152 - Talented Show
+- 2025-08-04 — Campaign 2: Episode 151 - Zone of Trust
+- 2025-07-30 — Campaign 2: Episode 150 - Tunnel Troubles
+- 2025-07-22 — Campaign 2: Episode 149 - A Disconcerting amount of Eggs
+- 2025-07-14 — Campaign 2: Episode 148 - Victory Spoils — speakers: Victory Spoils Having
+- 2025-07-07 — Campaign 2: Episode 147 - Hand Caught in the Mimic Cart — speakers: Hand Caught, Mimic Cart Well
+- 2025-06-30 — BONUS EPISODE: CHILLAGANZA — speakers: Mike Bachmann
+- 2025-06-26 — Campaign 2: Episode 146 - Cars Are People Too
+- 2025-06-16 — Campaign 2: Episode 145 - Bridge — speakers: Bridge Ok
+- 2025-06-09 — Campaign 2: Episode 144 - Wild Wild Ambush — speakers: Wild Wild Ambush While
+- 2025-06-02 — Campaign 2: Episode 143 - Bridge Engineers HATE this One Weird Trick — speakers: Bridge Engineers
+- 2025-05-26 — Campaign 2: Episode 142 - Potion, Lotion, and Chain.
+- 2025-05-19 — Bonus Episode: Tales From The Foaming Tankard: Season 6 - Guests: Episode 1-2
+- 2025-05-13 — Campaign 2: Episode 141 - Take My Wife, Please
+- 2025-05-05 — BONUS EPISODE: Charity Stream 2025 — speakers: Charity Stream
+- 2025-04-28 — BONUS EPISODE: CAMPAIGN 2 RECAP – 109-140 Special — speakers: Special Join
+- 2025-04-21 — Campaign 2: Episode 140 - Dirk Gramble, Man of Distinction — speakers: Dirk Gramble, Distinction Selene
+- 2025-04-15 — Campaign 2: Episode 139 - Big Strong Fight Pit Man — speakers: Big Strong Fight Pit, Man When
+- 2025-04-07 — Campaign 2: Episode 138 - Pranksgiving
+- 2025-03-31 — Campaign 2: Episode 137 - Smooth and Stealthy — speakers: Stealthy Back
+- 2025-03-24 — Campaign 2: Episode 136 - The Ledger
+- 2025-03-18 — Campaign 2: Episode 135 - Game Time
+- 2025-03-10 — Bonus Episode: Peaking with Bachmann — speakers: Mike Bachmann
+- 2025-03-03 — Campaign 2: Episode 134 - Journals
+- 2025-02-24 — Campaign 2: Episode 133 - Split the Party Party
+- 2025-02-17 — Campaign 2: Episode 132 - P.K.F.B.
+- 2025-02-10 — Campaign 2: Episode 131 - Action Wives
+- 2025-02-03 — Campaign 2: Episode 130 - The One That Got Away
+- 2025-01-27 — Campaign 2: Episode 129 - The Signal
+- 2025-01-20 — Campaign 2: Episode 128 - Death Chute — speakers: Squirrel Man
+- 2025-01-13 — Campaign 2: Episode 127 - Tree Traps — speakers: Tree Traps Screech Echo
+- 2025-01-06 — Campaign 2: Episode 126 - Tree Time
+- 2024-12-30 — BONUS EPISODE: Surviving with Nika — speakers: Nika Howard
+- 2024-12-23 — Campaign 2: Episode 125 - Boot-licker Beatdown — speakers: Beatdown Ok
+- 2024-12-16 — Campaign 2: Episode 124 - Welcome to Farholde
+- 2024-12-09 — Campaign 2: Episode 123 - Aliases Aplenty
+- 2024-12-02 — Campaign 2: Episode 122 - Rock Hard Heroes
+- 2024-11-25 — Campaign 2: Episode 121 - Armored to Protect Those that I Love
+- 2024-11-18 — Campaign 2: Episode 120 - The Resistance
+- 2024-11-11 — Campaign 2: Episode 119 - You Do Not Gotta Hand it to The Jokester
+- 2024-11-04 — Campaign 2: Episode 118 - A Long Hallway of Fractured Nightmares — speakers: Long Hallway
+- 2024-10-28 — Campaign 2: Episode 117 - Ignorance is Terrifying
+- 2024-10-21 — Campaign 2: Episode 116 - Neitherworld!
+- 2024-10-14 — Campaign 2: Episode 115 - Do Not Say His Name
+- 2024-10-08 — Campaign 2: Episode 114 - Cemetery Plots
+- 2024-09-30 — Campaign 2: Episode 113 - Frog Factions
+- 2024-09-23 — Campaign 2: Episode 112 - Small, Evil Frogs — speakers: Evil Frogs
+- 2024-09-16 — Campaign 2: Episode 111 - Hydra Haulers — speakers: Hydra Haulers
+- 2024-09-09 — BONUS EPISODE: GenCon 2024 Day 0 — speakers: Gapcast Team, Manual Transmissions
+- 2024-09-02 — Campaign 2: Episode 110 - Hydra Hell — speakers: Hydra Hell
+- 2024-08-26 — Campaign 2: Episode 109 - Pappy and the Sea Monster — speakers: Sea Monster After
+- 2024-08-19 — Campaign 2: Episode 108 - The Black Market
+- 2024-08-12 — BONUS EPISODE: Trekking with Cheek — speakers: Jennifer Cheek, Will sh
+- 2024-08-05 — BONUS EPISODE: CAMPAIGN 2 RECAP – 90-107 Special — speakers: Special Join
+- 2024-07-29 — Campaign 2: Episode 107 - Bad Guy Bar Fight — speakers: Bad Guy Bar Fight
+- 2024-07-22 — Campaign 2: Episode 106 - Bakery Business
+- 2024-07-15 — Campaign 2: Episode 105 - Welcome to Brookwillow
+- 2024-07-08 — Campaign 2: Episode 104 - Missing in Action — speakers: Action Somehow
+- 2024-07-01 — Campaign 2: Episode 103 - A Simple Stabbing Mistake
+- 2024-06-24 — Campaign 2: Episode 102 - Hole
+- 2024-06-17 — BONUS EP - WASTELAND (Part 2) — speakers: Post Apocalypse
+- 2024-06-10 — BONUS EP - WASTELAND (Part 1) — speakers: Post Apocalypse
+- 2024-06-03 — Campaign 2: Episode 101 - Empire of Lies — speakers: Lies Man
+- 2024-05-27 — Campaign 2: Episode 100 - Campaign 2: Episode 100 - Train Car of Revelations — speakers: Train Car
+- 2024-05-20 — Campaign 2: Episode 99 - Class is in Session — speakers: Session Nothing
+- 2024-05-13 — Campaign 2: Episode 98 - Be Free (My Cuties)
+- 2024-05-06 — Campaign 2: Episode 97 - Stealth Mission — speakers: Stealth Mission Screech Echo
+- 2024-04-29 — Campaign 2: Episode 96 - Morality and Murder
+- 2024-04-22 — Campaign 2: Episode 95 - J'Michael goes to J'ail
+- 2024-04-15 — Campaign 2: Episode 94 - Caravan Raid — speakers: Caravan Raid
+- 2024-04-08 — Campaign 2: Episode 93 - The Circus Conundrum — speakers: R'Oarc safe
+- 2024-04-01 — BONUS EPISODE: Joking with Lanning — speakers: Tim Lanning
+- 2024-03-25 — Campaign 2: Episode 92 - Back to the Circus
+- 2024-03-18 — Campaign 2: Episode 91 - A Sticky Friendship
+- 2024-03-11 — Campaign 2: Episode 90 - Nest Naps — speakers: Nest Naps Sure
+- 2024-03-04 — BONUS EPISODE: CAMPAIGN 2 RECAP – 76-89
+- 2024-02-26 — Campaign 2: Episode 89 - Big Bad Bird
+- 2024-02-19 — Campaign 2: Episode 88 - Rope — speakers: Mike Bachmann, Selene Von Espe
+- 2024-02-12 — Campaign 2: Episode 87 - Doomjaw's Doom
+- 2024-02-05 — Campaign 2: Episode 86 - Deep Jungle — speakers: Deep Jungle Well
+- 2024-01-29 — Campaign 2: Episode 85 - Dino Dirge
+- 2024-01-22 — Campaign 2: Episode 84 - Full Circus
+- 2024-01-15 — Campaign 2: Episode 83 - King of the Juggalos — speakers: Juggalos There
+- 2024-01-08 — Campaign 2: Episode 82 - Clown Capitalism — speakers: Clown Capitalism Somehow
+- 2024-01-01 — BONUS EPISODE: How We Saved the Grateful Gathering Part 2
+- 2023-12-25 — BONUS EPISODE: How We Saved the Grateful Gathering Part 1
+- 2023-12-18 — Campaign 2: Episode 81 - Flaming Pile of Circus — speakers: Flaming Pile, Circus Sure
+- 2023-12-11 — Campaign 2: Episode 80 - Doug's Ex
+- 2023-12-04 — Campaign 2: Episode 79 - Despite All My Rage I Am Still Just A Spider In A Cage — speakers: spiders ou
+- 2023-11-27 — BONUS EPISODE: GAPCast D&D Movie Discussion — speakers: Movie Discussion When
+- 2023-11-20 — Campaign 2: Bonus Mailbag Episode NOV 2023
+- 2023-11-13 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 2
+- 2023-11-06 — BONUS EPISODE: GAPCAST FIASCO 2023 - Part 1
+- 2023-10-30 — Campaign 2: Episode 78 - Total Blackout — speakers: Total Blackout Starting
+- 2023-10-23 — Campaign 2: Episode 77 - They Are Coming
+- 2023-10-16 — Campaign 2: Episode 76 - Ghost Phone — speakers: Ghost Phone Something
+- 2023-10-09 — BONUS EPISODE: CAMPAIGN 2 RECAP – 43-74
+- 2023-10-02 — Campaign 2: Episode 75 - - Son of A...
+- 2023-09-25 — Campaign 2: Episode 74 - Selene's Very Bad Furniture Day — speakers: Very Bad Furniture Day
+- 2023-09-18 — Campaign 2: Episode 73 - Momma Mia! — speakers: Momma Mia
+- 2023-09-11 — Campaign 2: Episode 72 - Spore Buddies — speakers: Spore Buddies Being
+- 2023-09-04 — Campaign 2: Episode 71 - Rabid Return — speakers: Rabid Return Now
+- 2023-08-28 — Campaign 2: Episode 70 - Bridge Tussle — speakers: Bridge Tussle Let
+- 2023-08-21 — BONUS EP - Welcome to Wrexford — speakers: Stephen Garcia
+- 2023-08-14 — Campaign 2: Episode 69 - Lava Lizards
+- 2023-08-07 — Bonus Episode: SPACE WORMS
+- 2023-07-31 — Campaign 2: Episode 68 - Fast and Freaky
+- 2023-07-24 — Campaign 2: Episode 67 - Roll for Community
+- 2023-07-17 — Bonus Ep - The Godless: A Black Ballad Adventure Part 2 — speakers: Pat Edwards, Rachel Quirky Schenk, Tim Lanning, Nika Howard, Adam Lance Ga
+- 2023-07-10 — Bonus Ep - The Godless: A Black Ballad Adventure Part 1 — speakers: Pat Edwards, Rachel Quirky Schenk, Tim Lanning, Nika Howard, Adam Lance Ga
+- 2023-07-03 — Campaign 2: Episode 66 - Geeklycon 2023 - The Four Heroic Hurdles
+- 2023-06-27 — Bonus Episode: Patrick Swayze Eyes — speakers: Patrick Swayze Eyes, Carla Maxted, Russ Mo
+- 2023-06-19 — Campaign 2: Episode 65 - Unmasked — speakers: Unmasked Truths
+- 2023-06-12 — Campaign 2: Episode 64 - Pig in the Box
+- 2023-06-05 — Campaign 2: Episode 63 - Face Spiders
+- 2023-05-29 — Campaign 2: Episode 62 - Three Weeks Later
+- 2023-05-22 — Campaign 2: Episode 61 - A Distracting Hot Spring
+- 2023-05-15 — Campaign 2: Episode 60 - Big Bone Baddie — speakers: Big Bone Baddie There
+- 2023-05-08 — Campaign 2: Episode 59 - Bony Horizon — speakers: Bony Horizon
+- 2023-05-01 — Campaign 2: Episode 58 - Spidered Man
+- 2023-04-24 — Campaign 2: Episode 57 - Our Noodley Ally
+- 2023-04-17 — Campaign 2: Episode 56 - The Chasm
+- 2023-04-10 — Campaign 2: Episode 55 - Shark Problems
+- 2023-04-03 — Campaign 2: Episode 54 - Welcome to Mineford — speakers: Mineford Well
+- 2023-03-27 — Campaign 2: Episode 53 - Slip AND Slide?!
+- 2023-03-20 — Campaign 2: Episode 52 - Breaking Free — speakers: Breaking Free Selene
+- 2023-03-13 — Campaign 2: Episode 51 - Down the Stairs
+- 2023-03-06 — Campaign 2: Episode 50 - Four Difficult Conversations — speakers: Four Difficult Conversations Secrets
+- 2023-02-27 — Campaign 2: Episode 49 - Eve of the OT
+- 2023-02-20 — Bonus Ep - The Black Ballad — speakers: Ballad Selene
+- 2023-02-13 — Campaign 2: Episode 48 - Loose Ends — speakers: Loose Ends Before
+- 2023-02-06 — Campaign 2: Episode 47 - Who Jokes The Jokester?
+- 2023-01-30 — Campaign 2: Episode 46 - Clown Cave
+- 2023-01-23 — Campaign 2: Episode 45 - The Wards
+- 2023-01-16 — Campaign 2: Episode 44 - Termingator
+- 2023-01-09 — Campaign 2: Episode 43 - Fort Alone
+- 2022-12-26 — Bonus Episode: Campaign 2 Recap - 1-42
+- 2022-12-19 — Campaign 2: Episode 42 - Various Villains
+- 2022-12-12 — Campaign 2: Episode 41 - Slumber Party
+- 2022-12-05 — Campaign 2: Episode 40 - The Ward
+- 2022-11-28 — Campaign 2: Episode 39 - The Bears — speakers: Maybe Beary
+- 2022-11-21 — Campaign 2: Episode 38 - New Best Friend Alert — speakers: new revelations, new allies
+- 2022-11-14 — Campaign 2: Episode 37 - Turns Have Tabled
+- 2022-11-07 — Campaign 2: Episode 36 - Grave Shack
+- 2022-10-31 — Campaign 2: Episode 35 - Under My Furry Wing — speakers: Under My Furry Wing
+- 2022-10-24 — Campaign 2: Episode 34 - Fame and Feastin'
+- 2022-10-17 — Bonus Episode: Songs of Chaos Part 2
+- 2022-10-11 — Bonus Episode: Songs of Chaos Part 1
+- 2022-10-03 — Bonus Episode: Tales From the Foaming Tankard : Patch Work - Episode 1: Mixed Messages — speakers: Foaming Tankard, Patch Work, Mixed Messages Season, Mixed Messages
+- 2022-09-26 — Campaign 2: Episode 33 - Adult Conversations — speakers: Adult Conversations Screech
+- 2022-09-19 — Campaign 2: Episode 32 - Hanging Around
+- 2022-09-12 — Campaign 2: Episode 31 - High Society Part 2 — speakers: Dahlia Woodford-Blackwell-Stovitch-Garrison
+- 2022-09-05 — Campaign 2: Episode 30 - High Society
+- 2022-08-29 — Campaign 2: Episode 29 - Mushroom Party
+- 2022-08-22 — Campaign 2: Episode 28 - Death Stench — speakers: Death Stench Seems
+- 2022-08-15 — Campaign 2: Episode 27 - Unexpected Victories — speakers: Skin Kyle
+- 2022-08-08 — Campaign 2: Bonus Mailbag Episode
+- 2022-08-01 — Campaign 2: Episode 26 - To Foment and Brew a Revolution — speakers: Skin Kyle
+- 2022-07-25 — BONUS EPISODE – Greetings, Adventurers! CAMP CHICKADEE — speakers: Camp Chickadee
+- 2022-07-18 — Campaign 2: Episode 25 - GeeklyCon 2022 Live Show
+- 2022-07-11 — Campaign 2: Episode 24 - Metal Kyle
+- 2022-07-04 — Campaign 2: Episode 23 - An Explosive Rescue
+- 2022-06-27 — Campaign 2: Episode 22 - Dark and Sticky — speakers: Sticky Into
+- 2022-06-20 — Campaign 2: Episode 21 - The...Rescue?
+- 2022-06-13 — Campaign 2: Episode 20 - Ant Trap
+- 2022-06-06 — Campaign 2: Episode 19 - Seventh Day
+- 2022-05-30 — Campaign 2: Episode 18 - Truth Zone
+- 2022-05-23 — Campaign 2: Episode 17 - Breaking Points — speakers: Breaking Points Things
+- 2022-05-16 — Campaign 2: Episode 16 - Big Bad Beetle Beasts — speakers: Big Bad Beetle Beasts
+- 2022-05-09 — Campaign 2: Episode 15 - Marching Two by Two — speakers: Marching Two, Two These
+- 2022-05-02 — Campaign 2: Episode 14 - Bugged Out — speakers: Bugged Out Selene
+- 2022-04-25 — Bonus Episode: Tales From the Foaming Tankard : The Unplanned Expedition - Episode 1
+- 2022-04-18 — Campaign 2: Episode 13 - Cleric-al Work — speakers: Work Let
+- 2022-04-11 — Campaign 2: Episode 12 - Tetradecapus Trouble — speakers: Tetradecapus Trouble Whoops, Hopefully Decacog
+- 2022-04-04 — Campaign 2: Episode 11 - Press and Punishment — speakers: Punishment Rimeford, Goblin Pitt
+- 2022-03-28 — Campaign 2: Episode 10 - Ashes
+- 2022-03-21 — Campaign 2: Episode 9 - Horns of Battle
+- 2022-03-14 — Campaign 2: Episode 8 - Heretic — speakers: Heretic Sometimes
+- 2022-03-07 — Campaign 2: Episode 7 - Crushed — speakers: Crushed There
+- 2022-02-28 — Campaign 2: Episode 6 - Checking In
+- 2022-02-21 — Campaign 2: Episode 5 - A Slight Cult Problem — speakers: Cult Problem
+- 2022-02-12 — Campaign 2: Episode 4 - Horrible and Familiar — speakers: Familiar One
+- 2022-02-06 — Campaign 2: Episode 3 - Mourning — speakers: Mourning After
+- 2022-01-31 — Campaign 2: Episode 2 - A Misread Situation
+- 2022-01-24 — Campaign 2: Episode 1 - Welcome to Rimeford — speakers: Rimeford Welcome
+- 2022-01-17 — Campaign 2: Episode 0 - The Dragon — speakers: Second Campaign
+- 2022-01-10 — Leviathan Episode 10 - The Vat
+- 2022-01-03 — Leviathan Episode 9 - A Cure
+- 2021-12-27 — Leviathan Episode 8 - A Game
+- 2021-12-20 — Leviathan Episode 7 - Puppets
+- 2021-12-13 — Leviathan Episode 6 - Death
+- 2021-12-06 — Leviathan Episode 5 - Doppelganger — speakers: Doppelganger Things
+- 2021-11-29 — Leviathan Episode 4 - Dinner
+- 2021-11-22 — Leviathan Episode 3 - The Unseen
+- 2021-11-15 — Leviathan Episode 2 - Trapped
+- 2021-11-08 — Leviathan Episode 1 - Into the Depths
+- 2021-11-01 — The Listenersode!
+- 2021-10-25 — End of Campaign 1 - Cast Retrospective — speakers: Cast Retrospective After
+- 2021-10-18 — Episode 427 - A Farewell to Our Family and Friends (End of Campaign 1)
+- 2021-10-11 — Episode 426 - The Luck of the Draw
+- 2021-10-04 — BONUS EPISODE - TFTFT: Rudolph Episode 1
+- 2021-09-27 — Episode 425 - The Final Battle: The End
+- 2021-09-20 — Episode 424 - The Final Battle: 3rd Shift
+- 2021-09-13 — Episode 423 - The Final Battle: 2 Trant 2 Furious
+- 2021-09-06 — Episode 422 - The Final Battle Part 1
+- 2021-08-30 — Episode 421 - As the Feywild Burns
+- 2021-08-23 — Episode 420 - A Non-Euclidean Nightmare — speakers: Euclidean Nightmare Wow
+- 2021-08-16 — Episode 419 - The Center of Lyktion — speakers: Lyktion Skud
+- 2021-08-09 — Episode 418 - Big Beefy Babies — speakers: Beefy Babies
+- 2021-08-02 — Episode 417 - Maze 2: Hypermaze
+- 2021-07-26 — Episode 416 - The Tragic Fate of Tidtowne
+- 2021-07-19 — Episode 415 - My Friend Melora
+- 2021-07-12 — Episode 414 - Your Bones Are Mine
+- 2021-07-05 — Episode 413 - Big Lahni — speakers: Big Lahni, Skud Derringer, Mike Bachmann, Rowan Grey
+- 2021-06-28 — Episode 412 – NASCAR
+- 2021-06-21 — Episode 411 - A Wizard, A Clone, and A Simulacrum.
+- 2021-06-14 — Episode 410 - Mech Mommy — speakers: Mech Mommy Large
+- 2021-06-07 — Bonus Episode - Questions and Answers
+- 2021-05-31 — Bonus Episode - The Village Of Eternal Blight — speakers: Eternal Blight
+- 2021-05-24 — Episode 409 - Into Bigby’s Realm
+- 2021-05-17 — Episode 408 - The Tarrasque Part 2
+- 2021-05-10 — Episode 407 - The Tarrasque
+- 2021-05-03 — Episode 406 - Welcome to The Crossroads
+- 2021-04-26 — Episode 405 - Great Galanthis Snack Off
+- 2021-04-19 — Episode 404 - Welcome to Galanthis
+- 2021-04-12 — Episode 403 - Most Unchill, Dad — speakers: Dad Bachmann
+- 2021-04-05 — Episode 402 - King of the Chaos
+- 2021-03-29 — Episode 401 - BIG Lahni — speakers: Big Lahni
+- 2021-03-22 — Episode 400 - Power Word Chill
+- 2021-03-15 — Episode 399 - Two Steps Forward, Several Demons Attack Part 2 — speakers: Two Steps Forward, Demon Fight
+- 2021-03-08 — Episode 398 - Two Steps Forward, Several Demons Attack — speakers: Steps Forward
+- 2021-03-01 — Episode 397 - Fungal Fortress
+- 2021-02-22 — Episode 396 – Fungal Fantasy Part 2
+- 2021-02-15 — Episode 395 - Fungal Fantasia
+- 2021-02-08 — Episode 394 - Demon Ball — speakers: Demon Ball
+- 2021-02-01 — Episode 393 - Meteor Mayhem
+- 2021-01-25 — Episode 392 - Buca di Breakfast
+- 2021-01-18 — Episode 391 - One Spicy Porridge — speakers: One Spicy Porridge
+- 2021-01-11 — Episode 390 - Temptation's Hand
+- 2021-01-04 — Episode 389 - Here We Are Now
+- 2020-12-28 — Episode 388 - Voyage Across the Astral Sea
+- 2020-12-21 — Episode 387 - The Elite Forge — speakers: Elite Forge
+- 2020-12-14 — Episode 386 - The Final Bone Battle!? Part 2
+- 2020-12-07 — Episode 385 - The Final Bone Battle!? — speakers: Bone Battle
+- 2020-11-30 — Episode 384 - The Curse of Exhaustion — speakers: Exhaustion What
+- 2020-11-23 — Episode 383 - Table Manners — speakers: Table Manners Well
+- 2020-11-16 — Bonus Episode - Your Mails, Our Bags
+- 2020-11-09 — Episode 382 - F Word Gary
+- 2020-11-02 — Episode 381 - Stepping Up to the Plate — speakers: Stepping Up, Plate While
+- 2020-10-26 — Episode 380 - Sky Pirate Delight — speakers: Sky Pirate Delight Now
+- 2020-10-19 — Episode 379 - Welcome to Venduria — speakers: Venduria Well, Bone Battling
+- 2020-10-12 — Episode 378 - The Crimes of Catherine Beanlord — speakers: Momma Mia
+- 2020-10-05 — Episode 377 - 12 Angry Allies — speakers: Angry Allies When
+- 2020-09-28 — Episode 376 - Welcome to the Night Zone — speakers: Night Zone Chasing
+- 2020-09-21 — Episode 375 - The Sorrowful Man
+- 2020-09-14 — Episode 374 - The Mind Killer — speakers: Mind Flayers
+- 2020-09-07 — Episode 373 - Brain Brine Juice — speakers: Brain Brine
+- 2020-08-31 — Bonus Episode - GeeklyCon Digi 2020 live show: Annual Office Party
+- 2020-08-24 — Episode 372 - Welcome to the Elemental Plane of Earth — speakers: Elemental Plane, Earth Having, Water Gym, Elemental Pla
+- 2020-08-17 — Episode 371 - Bonesplash 42 Part 2
+- 2020-08-10 — Episode 370 - Bonesplash 42
+- 2020-08-03 — Episode 369 - Bone Brothers — speakers: Bone Brothers Sometimes
+- 2020-07-27 — Bonus Episode - TFtFT: Shedding Misconceptions Episode 1
+- 2020-07-20 — Episode 368 - The Party Father
+- 2020-07-13 — Episode 367 - In The Mother's Shadow
+- 2020-07-06 — Episode 366 - Jilling the Bonehammer
+- 2020-06-29 — Episode 365 - Ticket to Ride
+- 2020-06-22 — Episode 364 - Toppling the Tyrannical Pyre Part 3
+- 2020-06-15 — Episode 363 - Toppling the Tyrannical Pyre Part 2
 - 2020-06-08 — Community Corner - A discussion of our responsibility in light of the current protests.
-- 2020-06-01 — Episode 362 - Toppling the Tyrannical Pyre — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-05-25 — Episode 361 - RIP to a True Hero — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-05-18 — Episode 360 - Hamhand's Horrific Handiwork — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-05-11 — Bonus Episode - Frank's Hostile Takeover Part 2 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-05-04 — Bonus Episode - Frank's Hostile Takeover Part 1 — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-04-27 — Episode 359 - Momma's Home — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-04-20 — Greetings, Adventurers! / Dear Internet Cross Over Bonus Episode Extravaganza — speakers: Nick Bristow, Mike Bachmann, Skud Derringer, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-04-13 — Episode 358 - Not So Secret Hideout — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-04-06 — Episode 357 - Digging Up That Dirt — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-03-30 — Episode 356 - Delving Up Into The Spike — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-03-23 — Episode 355 - Turning the Enemy — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-03-16 — Episode 354 - The Final Bonk — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-03-09 — Episode 353 - Croc Crunch — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-03-02 — Episode 352 - 480 Feet From Greatness — speakers: Silga Darvo, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-02-24 — Episode 351 - Spy Time — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-02-17 — Episode 350 - Failed Experiments — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-02-10 — Episode 349 - How to Kill a Dragon — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-02-03 — Episode 348 - Dr. Varmus Gremp's Monster — speakers: Varmus Gremp, Fred Greenleaf, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning
-- 2020-01-27 — Episode 347 - The Gremp — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-01-20 — Episode 346 - A Beholder's Bar — speakers: Infernal Rick, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2020-01-13 — Episode 345 - Swamp Sass — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2020-01-06 — Bonus Episode - Mr. Mailbag — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-12-30 — Episode 344 - Bonecarding Them All — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-12-23 — Episode 343 - Volcanic Mansion Alone — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-12-16 — Episode 342 - Sweeties Day — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-12-09 — Episode 341 - The Ballista Twins — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-12-02 — Episode 340 - The Mansion in the Mountain — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-11-25 — Episode 339 - Fire Fighters — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-11-18 — Episode 338 - Indoor Fire Pit — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-11-11 — Episode 337 - Brimstone and Melted Snow — speakers: Melted Snow, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2019-11-04 — Episode 336 - Skank Your Way Into A Volcano — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-10-28 — Episode 335 - Welcome to the City of Brass — speakers: Bone Fight, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2019-10-21 — Episode 334 - Welcome to the Elemental Plane of Fire — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-10-14 — Episode 333 - Oops! All Tobies — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-10-07 — Episode 332 - Welcome to Sigil Part 2 — speakers: Adira Harper, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2019-09-30 — Episode 331 - Welcome to Sigil — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-09-23 — Episode 330 - Some Ends Are Beginnings — speakers: Good Luck, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2019-09-16 — Episode 329 - Welcome to the Temple of Uthgar — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-09-09 — DragonCon 2019 Live Show - A Jock Strap Jumble — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-09-02 — Episode 328 - A Victory in the Vault — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-08-26 — Episode 327 - Chromatic Chaos — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-08-19 — Episode 326 - The Under-Bank — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-08-12 — Episode 325 - A Shattered Illusion — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-08-05 — GeeklyCon 2019 Live Show Bonus Episode - Bad Brunch — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-07-29 — DnD Live Bonus Episode - Mad Momma — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-07-22 — Episode 324 - Everything Leads to Dragons in the End — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-07-15 — Episode 323 - In the Bedroom — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-07-08 — Episode 322 - One Bad Bungalow — speakers: Bad Bungalow, Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro
-- 2019-07-01 — Episode 321 - The Mixer — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-06-24 — Episode 320 - Preparing to Get Talented — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-06-17 — Episode 319 - Love the Skin You're In — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-06-10 — Episode 318 - An Early End — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-06-03 — Episode 317 - The Vault — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-05-27 — Episode 316 - Robo Reconnaissance — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-05-20 — Episode 315 - Hell Room — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-05-13 — Episode 314 - Welcome to Vacation Island — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-05-06 — Episode 313 - The Corporate Retreat — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2019-04-29 — Episode 312 - Banksona 2 — speakers: Gruebel McSnuggs
+- 2020-06-01 — Episode 362 - Toppling the Tyrannical Pyre
+- 2020-05-25 — Episode 361 - RIP to a True Hero
+- 2020-05-18 — Episode 360 - Hamhand's Horrific Handiwork
+- 2020-05-11 — Bonus Episode - Frank's Hostile Takeover Part 2 — speakers: Frank Based One Shot
+- 2020-05-04 — Bonus Episode - Frank's Hostile Takeover Part 1
+- 2020-04-27 — Episode 359 - Momma's Home
+- 2020-04-20 — Greetings, Adventurers! / Dear Internet Cross Over Bonus Episode Extravaganza — speakers: Dear Internet Cross Over, Dear Internet
+- 2020-04-13 — Episode 358 - Not So Secret Hideout
+- 2020-04-06 — Episode 357 - Digging Up That Dirt
+- 2020-03-30 — Episode 356 - Delving Up Into The Spike
+- 2020-03-23 — Episode 355 - Turning the Enemy — speakers: Enemy Having, Punishment Zelon
+- 2020-03-16 — Episode 354 - The Final Bonk
+- 2020-03-09 — Episode 353 - Croc Crunch
+- 2020-03-02 — Episode 352 - 480 Feet From Greatness
+- 2020-02-24 — Episode 351 - Spy Time — speakers: Spy Time Time
+- 2020-02-17 — Episode 350 - Failed Experiments
+- 2020-02-10 — Episode 349 - How to Kill a Dragon — speakers: Dragon Two
+- 2020-02-03 — Episode 348 - Dr. Varmus Gremp's Monster — speakers: Varmus Gremp
+- 2020-01-27 — Episode 347 - The Gremp
+- 2020-01-20 — Episode 346 - A Beholder's Bar
+- 2020-01-13 — Episode 345 - Swamp Sass
+- 2020-01-06 — Bonus Episode - Mr. Mailbag
+- 2019-12-30 — Episode 344 - Bonecarding Them All
+- 2019-12-23 — Episode 343 - Volcanic Mansion Alone
+- 2019-12-16 — Episode 342 - Sweeties Day — speakers: Sweeties Day Any
+- 2019-12-09 — Episode 341 - The Ballista Twins
+- 2019-12-02 — Episode 340 - The Mansion in the Mountain
+- 2019-11-25 — Episode 339 - Fire Fighters
+- 2019-11-18 — Episode 338 - Indoor Fire Pit
+- 2019-11-11 — Episode 337 - Brimstone and Melted Snow — speakers: Melted Snow
+- 2019-11-04 — Episode 336 - Skank Your Way Into A Volcano
+- 2019-10-28 — Episode 335 - Welcome to the City of Brass — speakers: Brass When
+- 2019-10-21 — Episode 334 - Welcome to the Elemental Plane of Fire — speakers: Elemental Plane, Fire Time
+- 2019-10-14 — Episode 333 - Oops! All Tobies
+- 2019-10-07 — Episode 332 - Welcome to Sigil Part 2 — speakers: Adira Harper
+- 2019-09-30 — Episode 331 - Welcome to Sigil — speakers: Sigil Let
+- 2019-09-23 — Episode 330 - Some Ends Are Beginnings
+- 2019-09-16 — Episode 329 - Welcome to the Temple of Uthgar — speakers: Uthgar Let
+- 2019-09-09 — DragonCon 2019 Live Show - A Jock Strap Jumble
+- 2019-09-02 — Episode 328 - A Victory in the Vault — speakers: quick thinking
+- 2019-08-26 — Episode 327 - Chromatic Chaos — speakers: Final Battle, Hell Bank
+- 2019-08-19 — Episode 326 - The Under-Bank — speakers: Bank Only
+- 2019-08-12 — Episode 325 - A Shattered Illusion
+- 2019-08-05 — GeeklyCon 2019 Live Show Bonus Episode - Bad Brunch — speakers: Bad Brunch
+- 2019-07-29 — DnD Live Bonus Episode - Mad Momma
+- 2019-07-22 — Episode 324 - Everything Leads to Dragons in the End — speakers: Everything Leads, End Having
+- 2019-07-15 — Episode 323 - In the Bedroom
+- 2019-07-08 — Episode 322 - One Bad Bungalow — speakers: Bad Bungalow
+- 2019-07-01 — Episode 321 - The Mixer
+- 2019-06-24 — Episode 320 - Preparing to Get Talented
+- 2019-06-17 — Episode 319 - Love the Skin You're In
+- 2019-06-10 — Episode 318 - An Early End
+- 2019-06-03 — Episode 317 - The Vault
+- 2019-05-27 — Episode 316 - Robo Reconnaissance — speakers: Robo Reconnaissance Look
+- 2019-05-20 — Episode 315 - Hell Room
+- 2019-05-13 — Episode 314 - Welcome to Vacation Island
+- 2019-05-06 — Episode 313 - The Corporate Retreat
+- 2019-04-29 — Episode 312 - Banksona 2 — speakers: Bank Heroes
 - 2019-04-22 — Episode 311 - Banksona 1 — speakers: Banksona Dress
 - 2019-04-15 — Episode 310 - With Tooth and Tail
-- 2019-04-08 — Episode 309 - A Maze for You, Dear Drakoolus — speakers: Oseary Drakoolus
+- 2019-04-08 — Episode 309 - A Maze for You, Dear Drakoolus — speakers: Dear Drakoolus, Oseary Drakoolus
 - 2019-04-01 — Episode 308 - The Head of Accounting — speakers: Accounting Frank
 - 2019-03-25 — Episode 307 - Breaking the Bank
 - 2019-03-18 — Episode 306 - What Hell to Travel Next — speakers: What Hell
 - 2019-03-11 — Episode 305 - A Grand Battle Part 2
 - 2019-03-04 — Episode 304 - A Grand Battle — speakers: Queen Aludra
-- 2019-02-25 — Episode 303 - Something Mailbag this Way Comes
+- 2019-02-25 — Episode 303 - Something Mailbag this Way Comes — speakers: Something Mailbag, Way Comes Before
 - 2019-02-18 — Episode 302 - Never Have We Ever
 - 2019-02-11 — Episode 301 - Back to the Tower — speakers: Josail Longshadow
 - 2019-02-04 — Episode 300 - Swords and Sobriety Episode 1: Tavern Troubles — speakers: Tavern Troubles Few Podcasts
 - 2019-01-28 — Episode 299.5 - Power Fully Restored — speakers: Josail Longshadow
 - 2019-01-21 — Episode 299 - A Crystalline Horror — speakers: Crystalline Horror
-- 2019-01-14 — Podcast of Waterdeep Bonus Episode - The Dragon Ante — speakers: Carlos Luna, Adal Rifai
+- 2019-01-14 — Podcast of Waterdeep Bonus Episode - The Dragon Ante — speakers: Dragon Heis
 - 2019-01-07 — Episode 298 - The Office Space
-- 2018-12-31 — Episode 297 - Masked Monsters — speakers: Eckhart Day Hammer
-- 2018-12-25 — Episode 296 - The Bone Pit — speakers: Jimmy Skags, Luckily Toby
+- 2018-12-31 — Episode 297 - Masked Monsters — speakers: Masked Monsters Falling
+- 2018-12-25 — Episode 296 - The Bone Pit — speakers: Jimmy Skags
 - 2018-12-17 — Episode 295 - The Proverbial Pin in the Beans — speakers: Beans When
 - 2018-12-10 — Episode 294 - Much Ado About Beans — speakers: Much Ado About Beans
-- 2018-12-03 — Episode 293 - One More Quick Thing about Corn
+- 2018-12-03 — Episode 293 - One More Quick Thing about Corn — speakers: One More Quick Thing, Corn Slowly
 - 2018-11-26 — Episode 292 - The Sausage Heist
 - 2018-11-19 — Episode 291 - First Days on the Job — speakers: First Days, Job Having
 - 2018-11-12 — Episode 290 - Getting to Work
-- 2018-11-05 — Episode 289 - First Impressions
+- 2018-11-05 — Episode 289 - First Impressions — speakers: First Impressions When
 - 2018-10-29 — Episode 288 - Welcome to Grull
-- 2018-10-22 — Episode 287 - Welcome to the Shadowfell
+- 2018-10-22 — Episode 287 - Welcome to the Shadowfell — speakers: Shadowfell Entering
 - 2018-10-15 — Episode 286 - Preparing to Enter the Shadows
 - 2018-10-08 — Episode 285 - A History of Things Powerful and Evil — speakers: Eckart Dayhammer
 - 2018-10-01 — Episode 284 - Goodbye, My Son — speakers: Real Bad
-- 2018-09-24 — Episode 283 - Once More into the Bone Cage — speakers: Skud Derringer, Mike Bachmann, Rowan Grey, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, David Stewart
-- 2018-09-17 — Episode 282 - A Tavern at the End of Heaven — speakers: Laundry Mats
+- 2018-09-24 — Episode 283 - Once More into the Bone Cage — speakers: Once More, Bone Cage When, Bone Cage
+- 2018-09-17 — Episode 282 - A Tavern at the End of Heaven — speakers: Heaven Finding Pelor
 - 2018-09-10 — Episode 281 - Where in the Realms is Pelor?!?
 - 2018-09-03 — Episode 280 - Dragon Siege — speakers: Queen Ashayara
-- 2018-08-27 — Episode 279 – A Complicated Heaven — speakers: Mickey Mouse
+- 2018-08-27 — Episode 279 – A Complicated Heaven
 - 2018-08-20 — Episode 278 - Heaven Can Wait
-- 2018-08-13 — Episode 277 - Welcome to Elysium — speakers: Orb Mystery
+- 2018-08-13 — Episode 277 - Welcome to Elysium — speakers: Elysium Time
 - 2018-08-06 — Episode 276 - Becoming the Greatest in All the Lands
 - 2018-07-30 — Episode 275 - An Unquenchable Thirst (GeeklyCon 2018 Live Show)
 - 2018-07-23 — Episode 274 - Queen of the Feycourt
-- 2018-07-16 — Episode 273 - Marbled Madness — speakers: Fey Castle
+- 2018-07-16 — Episode 273 - Marbled Madness
 - 2018-07-09 — Episode 272 - One Step Closer to the Gods
 - 2018-07-02 — Episode 271 - The Finality of Our Proving
-- 2018-06-25 — Episode 270 - The High Level Executive - Class Drow Supreme Fighting Force
+- 2018-06-25 — Episode 270 - The High Level Executive - Class Drow Supreme Fighting Force — speakers: Class Drow Supreme Fighting
 - 2018-06-18 — Episode 269 - The Writhing Mass Under the Lake
 - 2018-06-11 — Episode 268 - The Orcus Onslaught Part 2
 - 2018-06-04 — Episode 267 - The Orcus Onslaught Part 1
 - 2018-05-28 — Episode 266 - A Mailbag Episode!
-- 2018-05-21 — Episode 265 - Towards the Banks of Fate
-- 2018-05-14 — Episode 264 - The Big and Brave Ben Dilladong — speakers: Ben Dilladong, Thom Harper
-- 2018-05-07 — Episode 263 - Too Many Legs In This Feywild Part 2 — speakers: Thom Harper
+- 2018-05-21 — Episode 265 - Towards the Banks of Fate — speakers: Fate Getting
+- 2018-05-14 — Episode 264 - The Big and Brave Ben Dilladong — speakers: Ben Dilladong
+- 2018-05-07 — Episode 263 - Too Many Legs In This Feywild Part 2
 - 2018-04-30 — Episode 262 - Too Many Legs In This Feywild
-- 2018-04-23 — Episode 261 - A Rotten Crew of Beautiful Misfits Part 2
+- 2018-04-23 — Episode 261 - A Rotten Crew of Beautiful Misfits Part 2 — speakers: Rotten Crew
 - 2018-04-16 — Episode 260 - A Rotten Crew of Beautiful Misfits Part 1
 - 2018-04-09 — Episode 259 - Welcome to the Feywild
-- 2018-04-02 — Episode 258 - A Princeling Problem — speakers: Ashayara Dayne
+- 2018-04-02 — Episode 258 - A Princeling Problem
 - 2018-03-26 — Episode 257 - Gotta Go Fast — speakers: Gotta Go Fast After
 - 2018-03-19 — Episode 256 - Master Attackers
 - 2018-03-12 — Episode 255 - To the South, We Go
-- 2018-03-05 — Episode 254 - Tower Crashers
-- 2018-02-26 — Episode 253 - Tower of Grey (Start of Arc 3) — speakers: Ashayara Dayne, Bonanas Foster
+- 2018-03-05 — Episode 254 - Tower Crashers — speakers: Tower Crashers Today
+- 2018-02-26 — Episode 253 - Tower of Grey (Start of Arc 3)
 - 2018-02-19 — Episode 252 - A History of Heroes Part 2
 - 2018-02-12 — Episode 251 - A History of Heroes Part 1
-- 2018-02-05 — Episode 250 - The Return of the Raw Fury Games Part 2
+- 2018-02-05 — Episode 250 - The Return of the Raw Fury Games Part 2 — speakers: Team White Spire
 - 2018-01-29 — Episode 249 - The Return of the Raw Fury Games
-- 2018-01-22 — Episode 248 - Hashtag Bride Tribe Part 2 — speakers: Aludra Wyrmsbane
+- 2018-01-22 — Episode 248 - Hashtag Bride Tribe Part 2
 - 2018-01-15 — Episode 247 - Hashtag Bride Tribe Part 1 — speakers: Bride Tribe Bachelorette
 - 2018-01-08 — Episode 246 - Dance of Undeath Part 2
 - 2018-01-01 — Episode 245 - Dance of Undeath
 - 2017-12-25 — Episode 244 - Welcome to Tarry Hallow — speakers: Tarry Hallow Finally
 - 2017-12-18 — Episode 243 - Where Bones Lie
-- 2017-12-11 — Episode 242 - Where Is That Boy! — speakers: Will Toby
+- 2017-12-11 — Episode 242 - Where Is That Boy!
 - 2017-12-04 — Episode 241 - The Actual Diary of Sinu the Red, Seriously This Time
 - 2017-11-27 — Episode 240 - The Battle for the Books — speakers: Books Actually
 - 2017-11-20 — Episode 239 - Into the Crypt Yet Again
 - 2017-11-13 — Episode 238 - For the Kids — speakers: Kids Having
 - 2017-11-06 — Episode 237 - Defend These Walls, Ye Living Basterds
 - 2017-10-30 — Episode 236 - Journey to the Land of the Undead
-- 2017-10-23 — Episode 235 - Queendom Come — speakers: Shadowspar Keep
-- 2017-10-16 — Episode 234 - A Vampire Friend — speakers: Titus Harper
+- 2017-10-23 — Episode 235 - Queendom Come — speakers: Queendom Come
+- 2017-10-16 — Episode 234 - A Vampire Friend
 - 2017-10-10 — Episode 233 - A Very Special Mail Bag Episode
 - 2017-10-02 — Podcast of Annihilation Bonus Episode - The Curious Cure of the Black Orchid — speakers: Black Orchid What
-- 2017-09-25 — Episode 232 - A Slight Gravitational Problem
-- 2017-09-18 — Episode 231- Jett Razor — speakers: Jett Razor, Hopefully Jett
-- 2017-09-11 — Episode 230 - Shrine Time
+- 2017-09-25 — Episode 232 - A Slight Gravitational Problem — speakers: Slight Gravitational Problem Well
+- 2017-09-18 — Episode 231- Jett Razor — speakers: Jett Razor
+- 2017-09-11 — Episode 230 - Shrine Time — speakers: Shrine Time Time
 - 2017-09-04 — Episode 229 - A Power Reborn
 - 2017-08-28 — Episode 228 - Traps and Treasures
 - 2017-08-21 — Episode 227 - We All Fall Down
 - 2017-08-14 — Episode 226 - The Temple of Solani
-- 2017-08-07 — Episode 225 - Defenders of Nareev — speakers: Jett Razor
+- 2017-08-07 — Episode 225 - Defenders of Nareev
 - 2017-07-31 — Episode 224 - Welcome to Hell (GeeklyCon 2017 Liveshow)
 - 2017-07-24 — Episode 223 - The Fighting Falcons
-- 2017-07-17 — Episode 222 - Plan C.5 — speakers: Shiny Vulpix Hosted
+- 2017-07-17 — Episode 222 - Plan C.5
 - 2017-07-10 — Episode 221 - A Quest to Save the Great Leader Part 2
-- 2017-07-03 — Episode 220 - A Quest to Save the Great Leader Part 1 — speakers: Rattenkaefig Hosted
-- 2017-06-26 — Episode 219 - My Friend, the Dragon — speakers: Steve Melloncamp, Mike Bachmann, Aludra Wyrmsbane, Jennifer Cheek, Toby Treacletart, Tim Lanning, Michael DiMauro, Steph Kingston
+- 2017-07-03 — Episode 220 - A Quest to Save the Great Leader Part 1
+- 2017-06-26 — Episode 219 - My Friend, the Dragon
 - 2017-06-19 — Episode 218 - A Poorly Named Movement
 - 2017-06-12 — Episode 217 - The Secrets of the Captain's Quarters — speakers: Quarters All
 - 2017-06-05 — Episode 216 – We are Guards
@@ -15091,12 +12571,12 @@
 - 2017-05-15 — Episode 213 – Hey There, Cheryl — speakers: Cheryl Facing
 - 2017-05-08 — Episode 212 – Welcome to Tidtowne — speakers: around Glaine
 - 2017-05-01 — Episode 211 – The Quest to Save Tidtowne, Part 3 — speakers: Save Tidtowne
-- 2017-04-24 — Episode 210 – The Quest to Save Tidtowne, Part 2 — speakers: Mike Bachmann, Jennifer Cheek
+- 2017-04-24 — Episode 210 – The Quest to Save Tidtowne, Part 2 — speakers: Save Tidtowne
 - 2017-04-17 — Episode 209 – The Quest to Save Tidtowne
 - 2017-04-10 — Episode 208 – Clever Girl — speakers: Clever Girl Typically
 - 2017-04-03 — Episode 207 – Tea Time — speakers: Tea Time Please
 - 2017-03-27 — Episode 206 – Regicide & Other Crimes — speakers: Ashayara Dayne
-- 2017-03-20 — Episode 205 – Locked Up — speakers: Pelor’s Hope
+- 2017-03-20 — Episode 205 – Locked Up
 - 2017-03-13 — Episode 204 – Time to Save the World. Again.
 - 2017-03-06 — Episode 203 – A Night in the Gnome Quarter — speakers: Gnome Quarter Heading
 - 2017-02-27 — Episode 202 – The City in the Sky — speakers: Sky Turns
@@ -15107,13 +12587,13 @@
 - 2017-01-23 — Episode 197 – Into the Sewers
 - 2017-01-17 — Episode 196 – Never Meet Your Heroes
 - 2017-01-09 — Bonus Episode: The Raw Fury Games – Part 2 — speakers: Raw Fury Games
-- 2017-01-02 — Bonus Episode: The Raw Fury Games – Part 1 — speakers: Titus Harper
-- 2016-12-19 — Episode 195 – Meanwhile, In Glaine, the Jewel of the East — speakers: Evening Shire
-- 2016-12-12 — Episode 194 – Bucky, the Best Boy — speakers: right now
-- 2016-12-06 — Episode 193 – Outside the Tower
+- 2017-01-02 — Bonus Episode: The Raw Fury Games – Part 1
+- 2016-12-19 — Episode 195 – Meanwhile, In Glaine, the Jewel of the East — speakers: East Something
+- 2016-12-12 — Episode 194 – Bucky, the Best Boy — speakers: Best Boy Maybe
+- 2016-12-06 — Episode 193 – Outside the Tower — speakers: Tower After
 - 2016-11-21 — Episode 192 – Mailbageddon — speakers: Mail Bag
 - 2016-11-14 — Episode 191 – Mixed Messages
-- 2016-11-07 — Episode 190 – Losing Control
+- 2016-11-07 — Episode 190 – Losing Control — speakers: Losing Control Harper
 - 2016-10-31 — Episode 189 – A Ghostly Voice
 - 2016-10-24 — Episode 188 – A Dark Past Part 2
 - 2016-10-17 — Episode 187 – A Dark Past
@@ -15130,19 +12610,19 @@
 - 2016-08-01 — Episode 176 – The War of Wyrmsbane Keep Part 1
 - 2016-07-25 — Episode 175 – Two Steps Forward — speakers: Two Steps Forward News
 - 2016-07-19 — Episode 174 – The Wrongest We Ever Got It
-- 2016-07-11 — Episode 173 – A Guttural Reaction — speakers: kinda hid
+- 2016-07-11 — Episode 173 – A Guttural Reaction
 - 2016-07-04 — Episode 172 – Into the Worm Hole — speakers: Worm Hole Oh
-- 2016-06-29 — Episode 171 – Trials of the Underdark *Now with Video* — speakers: Titus Harper
-- 2016-06-06 — Episode 170 – The Murderer — speakers: Titus Harper
+- 2016-06-29 — Episode 171 – Trials of the Underdark *Now with Video*
+- 2016-06-06 — Episode 170 – The Murderer
 - 2016-05-31 — Episode 169 – The Unknown Horrors of the Underdark
 - 2016-05-23 — Episode 168 – Fish, Foe or Friend — speakers: Murder Person
 - 2016-05-16 — Episode 167 – A Fungal Fright — speakers: Fungal Fright Going
 - 2016-05-09 — Episode 166 – On the Trail of a Magical Murderer
 - 2016-05-02 — Episode 165 – Bird-er Mystery
-- 2016-04-18 — Episode 164 – Baldergate
+- 2016-04-18 — Episode 164 – Baldergate — speakers: Baldergate Bringing Jaela
 - 2016-04-11 — Episode 163 – Welcome to Deephome
 - 2016-04-04 — Episode 162 – The Dangerous Life of a Musician — speakers: Jett Razor
-- 2016-03-28 — Episode 161 – Welcome to Calsten — speakers: Jett Razor
+- 2016-03-28 — Episode 161 – Welcome to Calsten
 - 2016-03-21 — Episode 160 – Monkier Business
 - 2016-03-14 — Episode 159 – Monkey Business — speakers: Monkey Business Things
 - 2016-03-07 — Episode 158 – A Deep One Rises — speakers: Deep One Rises Dang
@@ -15160,42 +12640,42 @@
 - 2015-11-23 — Episode 146 – An Illuminating Encounter Part 2
 - 2015-11-16 — Episode 145 – An Illuminating Encounter
 - 2015-11-09 — Episode 144 – The Army of Bahamut
-- 2015-11-02 — Episode 143 – Attempting to Move Forward
+- 2015-11-02 — Episode 143 – Attempting to Move Forward — speakers: Move Forward After
 - 2015-10-26 — Episode 142 – The Painful Choices of the Living — speakers: Living After
-- 2015-10-19 — Episode 141 – Bursting with Joy — speakers: Adira Harper
+- 2015-10-19 — Episode 141 – Bursting with Joy
 - 2015-10-12 — Episode 140 – The Woman Who is Wearing a Spider-like Dress
 - 2015-10-06 — Episode 139 – The Crystal Getters
 - 2015-09-28 — Episode 138 – Slaad Graab — speakers: Slaad Graab
 - 2015-09-15 — Episode 137 – That’s a Bingo!
 - 2015-09-07 — Episode 136 – To Tempt Fate
-- 2015-08-31 — Episode 135 – It is Getting Hot in Here
+- 2015-08-31 — Episode 135 – It is Getting Hot in Here — speakers: Getting Hot, Here When
 - 2015-08-25 — Episode 134 – A Slight Dragon Based Dilemma
 - 2015-08-17 — Episode 133 – Making it to Mastwick — speakers: Mastwick Things
 - 2015-08-12 — Episode 132 – Mailbag Spectacular! — speakers: Mailbag Spectacular
 - 2015-08-03 — Episode 131 – The Heart of Evil
-- 2015-07-27 — Episode 130 – A Brother’s Fury — speakers: Titus Harper, Tim Lanning, Mike Bachmann, Jennifer Cheek, Michael DiMauro, Steph Kingston
-- 2015-07-13 — Episode 129 – Would You Like Some Wine? — speakers: all friendly
+- 2015-07-27 — Episode 130 – A Brother’s Fury
+- 2015-07-13 — Episode 129 – Would You Like Some Wine?
 - 2015-07-06 — Episode 128 – A Lakeside Encounter — speakers: Lakeside Encounter
 - 2015-06-30 — Episode 127 – The Conversion Cast
 - 2015-06-22 — Episode 126 – Live Show 2015
 - 2015-05-25 — Episode 125 – The Clothes Makes the Bucky
 - 2015-05-18 — Episode 124 – For Little Bucky
-- 2015-05-11 — Episode 123 – A Bigger, Burninger, Bar Brawl — speakers: Bar Brawl When, Break Bad
+- 2015-05-11 — Episode 123 – A Bigger, Burninger, Bar Brawl — speakers: Bar Brawl When
 - 2015-05-04 — Episode 122 – Okay, Bye!
 - 2015-04-27 — Episode 121 – A Polymorph Puzzle
 - 2015-04-20 — Episode 120 – BAR BRAWL!
 - 2015-04-13 — Episode 119 – The Moving City
-- 2015-04-07 — Episode 118 – Finding the Worst City Ever
+- 2015-04-07 — Episode 118 – Finding the Worst City Ever — speakers: Worst City Ever Ok
 - 2015-03-30 — Episode 117 – The Breakfast Club
 - 2015-03-23 — Episode 116 – Adventures in Boat Sitting Part 2
 - 2015-03-16 — Episode 115 – Adventures in Boat Sitting — speakers: Riekert Svenson
-- 2015-03-02 — Episode 114 – These Foul Rooms of Horror — speakers: Titus Harper
-- 2015-02-23 — Episode 113 – Welcome to the House of Death
-- 2015-02-16 — Episode 112 – The Road to Victory
+- 2015-03-02 — Episode 114 – These Foul Rooms of Horror
+- 2015-02-23 — Episode 113 – Welcome to the House of Death — speakers: Death Necromancy
+- 2015-02-16 — Episode 112 – The Road to Victory — speakers: Victory Having
 - 2015-02-09 — Episode 111 – Evil Through the Roof — speakers: Evil Through
 - 2015-02-02 — Episode 110 – The Hammer of Sundering
 - 2015-01-26 — Episode 109 – Demons at Your Door
-- 2015-01-19 — Episode 108 – Mystery of Fairmire
+- 2015-01-19 — Episode 108 – Mystery of Fairmire — speakers: Fairmire After
 - 2015-01-13 — Episode 107 – Why We Fight
 - 2014-12-22 — Episode 106 – The Further Trials of Good People — speakers: Good People Hi
 - 2014-12-15 — Episode 105 – The Enkindling
@@ -15207,7 +12687,7 @@
 - 2014-11-03 — Episode 99 – Horror on the Ocean Floor — speakers: Thom Steve
 - 2014-10-27 — Episode 98 – Mail-Bag-O-Thon!
 - 2014-10-20 — Episode 97 – The Mysteries of the Deep
-- 2014-10-13 — Episode 96 – Into the Depths
+- 2014-10-13 — Episode 96 – Into the Depths — speakers: Depths Now
 - 2014-10-06 — Episode 95 – Buzz Off — speakers: Buzz Off While
 - 2014-09-29 — Episode 94 – Words are Wind — speakers: running high
 - 2014-09-22 — Episode 93 – Croaked
@@ -15217,27 +12697,27 @@
 - 2014-08-25 — Episode 89 – Pelor’s only Hope — speakers: Hope After
 - 2014-08-19 — Episode 88 – Under the Dome — speakers: Dome When
 - 2014-08-12 — Episode 87 – About Last Night…
-- 2014-08-05 — Episode 86 – The Council of Eight — speakers: Pelor’s Hope
+- 2014-08-05 — Episode 86 – The Council of Eight
 - 2014-07-29 — Episode 85 – Once again through the Wyrmhole Part 2
-- 2014-07-22 — Episode 84 – Once again through the Wyrmhole — speakers: Titus Harper, Tim Lanning, Mike Bachmann, Jennifer Cheek
+- 2014-07-22 — Episode 84 – Once again through the Wyrmhole
 - 2014-07-15 — Episode 83 – Voices in the Night
-- 2014-07-07 — Episode 82 – Pelor’s Hope
-- 2014-07-01 — Drunks and Dragons Special – The Live Show Q&A
+- 2014-07-07 — Episode 82 – Pelor’s Hope — speakers: questions like
+- 2014-07-01 — Drunks and Dragons Special – The Live Show Q&A — speakers: Dragons Special
 - 2014-06-24 — Episode 81 – The Live Show
 - 2014-06-02 — Episode 80 – No Turning Back
 - 2014-05-26 — Episode 79 – I am Sorry
-- 2014-05-19 — Episode 78 – The Long Road To Caer
-- 2014-05-12 — Episode 77 -The Temple of Ghostly Evil Part 6 — speakers: Titus Harper, Tim Lanning, Mike Bachmann, Jennifer Cheek
-- 2014-05-06 — Episode 76 -The Temple of Ghostly Evil Part 5 — speakers: Titus Harper, Tim Lanning
+- 2014-05-19 — Episode 78 – The Long Road To Caer — speakers: Caer After
+- 2014-05-12 — Episode 77 -The Temple of Ghostly Evil Part 6
+- 2014-05-06 — Episode 76 -The Temple of Ghostly Evil Part 5
 - 2014-04-28 — Episode 75 -The Temple of Ghostly Evil Part 4
 - 2014-04-21 — Episode 74 -The Temple of Ghostly Evil Part 3
 - 2014-04-14 — Episode 73 – The Temple of Ghostly Evil Part 2
 - 2014-04-01 — Episode 72 – The Temple of Ghostly Evil
-- 2014-03-25 — Episode 71 – Lizards and Liars — speakers: lizard men
+- 2014-03-25 — Episode 71 – Lizards and Liars
 - 2014-03-17 — Episode 70 – On Unsure Ground — speakers: Unsure Ground Having
-- 2014-03-11 — Episode 69: Over Hydrated Part 2 — speakers: Titus Harper
+- 2014-03-11 — Episode 69: Over Hydrated Part 2
 - 2014-03-03 — Episode 68: Over Hydrated — speakers: Over Hydrated Hello
-- 2014-02-17 — Episode 67 – Stump Grinding — speakers: Titus Harper, Tim Lanning, Mike Bachmann, Aludra Jennifer
+- 2014-02-17 — Episode 67 – Stump Grinding — speakers: Stump Grinding Saddle
 - 2014-02-12 — Episode 66 – Paragon Paths and Emails — speakers: Paragon Paths
 - 2014-02-05 — Episode 65 – The Fall of House Vidalis
 - 2014-01-28 — Episode 64 – Demon Hunting Season Part Two
@@ -15249,58 +12729,58 @@
 - 2013-12-11 — Episode 58 – The Most Magical Time of The Year — speakers: Fey Realm
 - 2013-12-06 — Episode 57 – A Magickless World — speakers: Magickless World Truly
 - 2013-11-26 — Episode 56 – The Dog Park
-- 2013-11-19 — Episode 55 – Welcome to Evening Shire — speakers: Evening Shire
-- 2013-11-11 — Episode 54 – Ice Cream for Bucky
+- 2013-11-19 — Episode 55 – Welcome to Evening Shire — speakers: Evening Shire There
+- 2013-11-11 — Episode 54 – Ice Cream for Bucky — speakers: Ice Cream, Bucky Having
 - 2013-11-08 — Episode 53 – Revenge of the Hobo
-- 2013-10-29 — Episode 52 – A Dark Future Present
+- 2013-10-29 — Episode 52 – A Dark Future Present — speakers: Dark Future Present Hello, Dear Wonderful Listeners
 - 2013-10-21 — Episode 51 – A Trip Down Memory Lane — speakers: Trip Down Memory Lane
-- 2013-10-14 — Episode 50 – The Greatest Love Story Ever Told — speakers: Adam Bash, Sarah Tompkins, Titus Harper, Tim Lanning, Mike Bachmann, Jennifer Cheek, Michael DiMauro
-- 2013-10-07 — Episode 49 – The Great Heist — speakers: Adam Bash, Sarah Tompkins
-- 2013-09-30 — Episode 48 – Soul Stealer — speakers: Soul Stealer, Titus Harper
-- 2013-09-23 — Episode 47 – A Flying House
+- 2013-10-14 — Episode 50 – The Greatest Love Story Ever Told — speakers: Adam Bash, Sarah Tompkins
+- 2013-10-07 — Episode 49 – The Great Heist
+- 2013-09-30 — Episode 48 – Soul Stealer — speakers: Soul Stealer
+- 2013-09-23 — Episode 47 – A Flying House — speakers: Flying House Hello
 - 2013-09-16 — Episode 46 – Troll Toll Part 2 — speakers: Troll Toll
 - 2013-09-09 — Episode 45 – Troll Toll — speakers: Troll Toll
 - 2013-09-02 — Episode 44 – The Sins of the Fathers — speakers: crazy people
 - 2013-08-26 — Episode 43 – The Raging Storm
-- 2013-08-19 — Episode 42 – Mordenkrad Time — speakers: Titus Harper, Tim Lanning
+- 2013-08-19 — Episode 42 – Mordenkrad Time
 - 2013-08-13 — Episode 41 – Salty Sea Wench
 - 2013-08-05 — Episode 40 – Requiem with the Dragon Hunter
 - 2013-07-29 — Episode 39 – Settling up with the Darkblades
-- 2013-07-22 — Episode 38 – Smash and Grab — speakers: Titus Harper
-- 2013-07-15 — Episode 37 – Mastwick Chronicles — speakers: Mastwick Chronicles Hello, Titus Harper
+- 2013-07-22 — Episode 38 – Smash and Grab
+- 2013-07-15 — Episode 37 – Mastwick Chronicles — speakers: Mastwick Chronicles Hello
 - 2013-07-08 — Episode 36 – No Rest for the Wicked — speakers: No Rest, Wicked Hello
-- 2013-07-01 — Episode 35 – A Flight of Futility — speakers: Tum Darkblade, Tim Lanning
+- 2013-07-01 — Episode 35 – A Flight of Futility — speakers: Futility Hello
 - 2013-06-24 — Episode 34 – Teamwork, the Deadliest Weapon — speakers: Deadliest Weapon Hello
 - 2013-06-17 — Episode 33 – What Rhymes with Crag Mon? — speakers: Crag Mon
 - 2013-06-09 — Episode 32 – I HATE GNOLLS
 - 2013-06-03 — Episode 31: Fond Farewells
-- 2013-05-25 — Episode 30 – A Sly Flourish — speakers: Sly Flourish Hello
+- 2013-05-25 — Episode 30 – A Sly Flourish
 - 2013-05-20 — Episode 29 – A Disproportionate Response
 - 2013-05-13 — Episode 28 – Spooky, Crazy Mystery Hour
 - 2013-05-06 — Episode 27 – Painful Memories — speakers: Dragons gang
 - 2013-04-29 — Episode 26 – A Test of Friendship
-- 2013-04-22 — Episode 25 – Acid Trip — speakers: Trant Thumble
+- 2013-04-22 — Episode 25 – Acid Trip
 - 2013-04-15 — Episode 24 – Maps and Mystery
-- 2013-04-08 — Episode 23 – The Beasts in the Streets
-- 2013-04-01 — Episode 22 – A Hysterical Dragonborn — speakers: Tum Darkblade, Tim Lanning
-- 2013-03-25 — Episode 21 – Family Dinner — speakers: Tum Darkblade, Tim Lanning, Mike Bachmann, Junpei Iori
-- 2013-03-18 — Episode 20 – Gladiator Games
+- 2013-04-08 — Episode 23 – The Beasts in the Streets — speakers: Streets Since
+- 2013-04-01 — Episode 22 – A Hysterical Dragonborn — speakers: Hysterical Dragonborn Welcome
+- 2013-03-25 — Episode 21 – Family Dinner
+- 2013-03-18 — Episode 20 – Gladiator Games — speakers: Gladiator Games After
 - 2013-03-12 — Episode 19 – Sibling Rivalry
 - 2013-03-04 — Episode 18 – Canine Justice
 - 2013-02-25 — Episode 17 – Welcome to Caer!
 - 2013-02-18 — Episode 16 – A Legend from the Depths
-- 2013-02-12 — Episode 15 – A Pirate’s Life for Me — speakers: Tum Darkblade, Tim Lanning
+- 2013-02-12 — Episode 15 – A Pirate’s Life for Me
 - 2013-02-04 — Episode 14 – Dreams of Dragons — speakers: Dragons Imagine
 - 2013-01-28 — Episode 13 – A Dwarf, Dragonborn and a Githyanki Walk into a Bar…
-- 2013-01-21 — Episode 12 – Not Quite Through the Woods — speakers: reckless abandon
+- 2013-01-21 — Episode 12 – Not Quite Through the Woods — speakers: Not Quite Through
 - 2013-01-13 — Episode 11 – An Intense Headache
 - 2013-01-07 — Episode 10 – The Long Hallway
-- 2012-12-30 — Episode 9 – Thokas Takes a Header — speakers: Tum Darkblade, Tim Lanning
-- 2012-12-23 — Episode 8 – Robot No Feel Love?
+- 2012-12-30 — Episode 9 – Thokas Takes a Header — speakers: Thokas Takes
+- 2012-12-23 — Episode 8 – Robot No Feel Love? — speakers: Robot No Feel Love
 - 2012-12-17 — Episode 7 – The Next Level
 - 2012-12-10 — Episode 6 – The Return of the Eight Legged Freaks — speakers: Eight Legged Freaks Hello
-- 2012-12-04 — Episode 5 – A Brief Respite
-- 2012-11-27 — Episode 4 — speakers: Tum Darkblade, Tim Lanning, Mike Bachmann, Junpei Iori, Steven Strom, Jennifer Cheek
-- 2012-11-20 — Episode 3 — speakers: Tum Darkblade, Tim Lanning, Mike Bachmann, Junpei Iori, Steven Strom, Jennifer Cheek
-- 2012-11-13 — Episode 2 — speakers: Tum Darkblade, Tim Lanning, Mike Bachmann, Junpei Iori, Steven Strom, Jennifer Cheek
-- 2012-11-13 — Episode 1 — speakers: Tum Darkblade, Tim Lanning, Mike Bachmann, Junpei Iori, Steven Strom, Jennifer Cheek
+- 2012-12-04 — Episode 5 – A Brief Respite — speakers: Brief Respite Hello Adventurers
+- 2012-11-27 — Episode 4 — speakers: Greetings Adventurers, American Thanksgiving
+- 2012-11-20 — Episode 3 — speakers: Greetings Adventurers
+- 2012-11-13 — Episode 2 — speakers: Tum Darkblade, Tim Lanning
+- 2012-11-13 — Episode 1 — speakers: Tum Darkblade, Tim Lanning

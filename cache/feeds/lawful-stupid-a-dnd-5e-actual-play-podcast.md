@@ -2,9 +2,9 @@
 
 - slug: `lawful-stupid-a-dnd-5e-actual-play-podcast`
 - source: `https://anchor.fm/s/35ef2de4/podcast/rss`
-- fetched_at: `2026-02-21T13:12:30+00:00`
-- checked_at: `2026-02-21T13:12:30+00:00`
-- etag: `W/"2eb03c-8f/kfyl+3+i+qqVkKG6Uvm8R8XM"`
+- fetched_at: `2026-02-25T16:36:25+00:00`
+- checked_at: `2026-02-25T16:36:25+00:00`
+- etag: `W/"2eb03c-ak6KTLTK3F2chHJOZuVPM15Uy4A"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.lawfulstupid.org",
   "description": "We at Lawful Stupid are a D&D 5e actual play podcast who actually love to play DnD! We love everything about the Tabletop RPG Community and consistently strive to make the world a better place within that community through inclusivity, creativity, charitable acts, and above all else, fantastical heroism. If you want to be a part of the amazing dungeons and dragons community of artists, creators, and all around amazing fun people that we are building please join us in our discord.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/8948673/8948673-1713145835584-aacd1c4d5ab37.jpg",
-  "fetched_at": "2026-02-21T13:12:30+00:00",
+  "fetched_at": "2026-02-25T16:36:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,7 +38,8 @@
       "enclosure_length": "36663797",
       "itunes_duration": "00:38:11",
       "speakers": [
-        "Narrative Combat"
+        "Saving Lights",
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -60,8 +61,7 @@
       "enclosure_length": "64682945",
       "itunes_duration": "01:07:22",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tale",
@@ -81,8 +81,7 @@
       "enclosure_length": "49200483",
       "itunes_duration": "00:51:14",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tale",
@@ -102,9 +101,7 @@
       "enclosure_length": "61954925",
       "itunes_duration": "01:04:32",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat",
-        "stupids Buy"
+        "Lawful Stupid"
       ],
       "topics": [
         "tale",
@@ -125,8 +122,7 @@
       "enclosure_length": "71343960",
       "itunes_duration": "01:14:18",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tale",
@@ -146,9 +142,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62363271",
       "itunes_duration": "01:04:57",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "cosmo",
@@ -167,8 +161,7 @@
       "enclosure_length": "65190347",
       "itunes_duration": "01:07:54",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tale",
@@ -189,7 +182,7 @@
       "enclosure_length": "245411003",
       "itunes_duration": "01:42:15",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -209,8 +202,7 @@
       "enclosure_length": "81915820",
       "itunes_duration": "01:25:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -230,8 +222,7 @@
       "itunes_duration": "00:37:55",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -255,8 +246,7 @@
       "itunes_duration": "01:18:18",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -280,8 +270,7 @@
       "itunes_duration": "00:51:51",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -304,8 +293,7 @@
       "enclosure_length": "84395990",
       "itunes_duration": "01:27:54",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -325,7 +313,7 @@
       "enclosure_length": "52331833",
       "itunes_duration": "00:54:30",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -345,8 +333,7 @@
       "enclosure_length": "70596649",
       "itunes_duration": "01:13:32",
       "speakers": [
-        "Check Out Shainsaw",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -365,8 +352,8 @@
       "enclosure_length": "60515056",
       "itunes_duration": "01:03:02",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Tradesies Check Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring",
@@ -385,8 +372,8 @@
       "enclosure_length": "53354997",
       "itunes_duration": "00:55:34",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Stars Check Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring",
@@ -405,9 +392,7 @@
       "enclosure_length": "63459160",
       "itunes_duration": "01:06:06",
       "speakers": [
-        "Spooky Spiders Check",
-        "Narrative Combat",
-        "stupids Buy"
+        "Spooky Spiders Check"
       ],
       "topics": [
         "spring",
@@ -427,7 +412,7 @@
       "enclosure_length": "54557884",
       "itunes_duration": "00:56:49",
       "speakers": [
-        "Narrative Combat"
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring",
@@ -446,8 +431,8 @@
       "enclosure_length": "57631973",
       "itunes_duration": "01:00:01",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Check Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring",
@@ -466,9 +451,7 @@
       "enclosure_length": "103421310",
       "itunes_duration": "01:46:34",
       "speakers": [
-        "Lawful Stupid",
-        "Check Out",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "zonebrew",
@@ -488,7 +471,8 @@
       "enclosure_length": "63205459",
       "itunes_duration": "01:05:50",
       "speakers": [
-        "Narrative Combat"
+        "Check Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring",
@@ -507,8 +491,7 @@
       "enclosure_length": "60511712",
       "itunes_duration": "01:03:01",
       "speakers": [
-        "Thorn Check Out",
-        "Narrative Combat"
+        "Thorn Check Out"
       ],
       "topics": [
         "spring",
@@ -553,7 +536,9 @@
       "enclosure_length": "49814047",
       "itunes_duration": "00:51:53",
       "speakers": [
-        "Narrative Combat"
+        "Talking Stupid",
+        "Check Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "stupid",
@@ -572,8 +557,8 @@
       "enclosure_length": "59442573",
       "itunes_duration": "01:01:55",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Out Shainsaw",
+        "Debut Urban Fantasy Novel"
       ],
       "topics": [
         "spring"
@@ -591,7 +576,9 @@
       "enclosure_length": "67344927",
       "itunes_duration": "01:10:09",
       "speakers": [
-        "Narrative Combat"
+        "Heading South Check Out",
+        "Debut Urban Fantasy Novel",
+        "Lawful Stu"
       ],
       "topics": [
         "spring",
@@ -610,8 +597,9 @@
       "enclosure_length": "57895706",
       "itunes_duration": "01:00:18",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Heading South Check Out",
+        "Debut Urban Fantasy Novel",
+        "Lawful Stupi"
       ],
       "topics": [
         "spring",
@@ -630,10 +618,7 @@
       "enclosure_length": "62606106",
       "itunes_duration": "01:05:12",
       "speakers": [
-        "Hoodlumkira Jaketheripper Nekova Red",
-        "Debut Urban",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Hoodlumkira Jaketheripper Nekova Red"
       ],
       "topics": [
         "spring",
@@ -653,7 +638,7 @@
       "enclosure_length": "56864182",
       "itunes_duration": "00:59:13",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -672,8 +657,7 @@
       "enclosure_length": "59021270",
       "itunes_duration": "01:01:28",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -692,7 +676,7 @@
       "enclosure_length": "54466351",
       "itunes_duration": "00:56:44",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -711,7 +695,7 @@
       "enclosure_length": "61575418",
       "itunes_duration": "01:04:08",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -730,8 +714,7 @@
       "enclosure_length": "71430478",
       "itunes_duration": "01:14:24",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -751,8 +734,7 @@
       "enclosure_length": "58831098",
       "itunes_duration": "01:01:16",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -771,7 +753,7 @@
       "enclosure_length": "64192261",
       "itunes_duration": "01:06:51",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring"
@@ -789,7 +771,8 @@
       "enclosure_length": "55041462",
       "itunes_duration": "00:57:20",
       "speakers": [
-        "Narrative Combat"
+        "Gonna Start",
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -808,7 +791,7 @@
       "enclosure_length": "55887412",
       "itunes_duration": "00:58:12",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -827,8 +810,7 @@
       "enclosure_length": "60604499",
       "itunes_duration": "01:03:07",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -847,8 +829,7 @@
       "enclosure_length": "51675219",
       "itunes_duration": "00:53:49",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -868,8 +849,7 @@
       "enclosure_length": "127211101",
       "itunes_duration": "00:53:00",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spring",
@@ -889,9 +869,7 @@
       "enclosure_length": "59307154",
       "itunes_duration": "01:01:46",
       "speakers": [
-        "Lawful Stupid",
-        "org Join",
-        "Narrative Combat"
+        "Dungeon Master"
       ],
       "topics": [
         "spring",
@@ -912,8 +890,7 @@
       "enclosure_length": "61257769",
       "itunes_duration": "01:03:48",
       "speakers": [
-        "org Join",
-        "Narrative Combat"
+        "Dungeon Master"
       ],
       "topics": [
         "spring",
@@ -933,8 +910,7 @@
       "enclosure_length": "46811846",
       "itunes_duration": "00:48:45",
       "speakers": [
-        "org Join",
-        "Narrative Combat"
+        "Dungeon Master"
       ],
       "topics": [
         "spring",
@@ -955,8 +931,7 @@
       "itunes_duration": "01:37:39",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid",
@@ -976,8 +951,7 @@
       "enclosure_length": "40565864",
       "itunes_duration": "00:42:15",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "remembrance"
@@ -995,8 +969,7 @@
       "enclosure_length": "60799686",
       "itunes_duration": "01:03:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "solace"
@@ -1014,8 +987,7 @@
       "enclosure_length": "68067578",
       "itunes_duration": "01:10:54",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "anguish"
@@ -1052,7 +1024,7 @@
       "enclosure_length": "67712521",
       "itunes_duration": "00:28:12",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "heroes"
@@ -1071,8 +1043,7 @@
       "itunes_duration": "00:47:20",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid"
@@ -1090,8 +1061,7 @@
       "enclosure_length": "57434697",
       "itunes_duration": "00:59:49",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "resort"
@@ -1109,8 +1079,7 @@
       "enclosure_length": "60864470",
       "itunes_duration": "01:03:23",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "wings",
@@ -1130,8 +1099,7 @@
       "itunes_duration": "00:52:29",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid"
@@ -1149,8 +1117,7 @@
       "enclosure_length": "53533466",
       "itunes_duration": "00:55:45",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "wise"
@@ -1169,8 +1136,7 @@
       "itunes_duration": "00:42:44",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid"
@@ -1188,7 +1154,7 @@
       "enclosure_length": "48242938",
       "itunes_duration": "00:50:15",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "gworp",
@@ -1207,7 +1173,8 @@
       "enclosure_length": "60595304",
       "itunes_duration": "01:03:07",
       "speakers": [
-        "Narrative Combat"
+        "One World",
+        "Lawful Stupid"
       ],
       "topics": [
         "world",
@@ -1226,8 +1193,7 @@
       "enclosure_length": "49929404",
       "itunes_duration": "00:52:00",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "door"
@@ -1244,9 +1210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55649175",
       "itunes_duration": "00:57:58",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "door",
         "opens"
@@ -1264,7 +1228,7 @@
       "enclosure_length": "49727529",
       "itunes_duration": "00:51:47",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "reflection",
@@ -1283,7 +1247,7 @@
       "enclosure_length": "53582785",
       "itunes_duration": "00:55:48",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "chasing",
@@ -1302,8 +1266,7 @@
       "enclosure_length": "55843108",
       "itunes_duration": "00:58:10",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "early",
@@ -1323,8 +1286,7 @@
       "enclosure_length": "43171422",
       "itunes_duration": "00:44:58",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "deal"
@@ -1342,8 +1304,7 @@
       "enclosure_length": "48159346",
       "itunes_duration": "00:50:09",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "sisterhood"
@@ -1362,8 +1323,7 @@
       "itunes_duration": "01:10:06",
       "speakers": [
         "Grandma Home",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "grandma",
@@ -1382,8 +1342,7 @@
       "enclosure_length": "48512940",
       "itunes_duration": "00:50:32",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "ride"
@@ -1401,8 +1360,7 @@
       "enclosure_length": "53034004",
       "itunes_duration": "00:55:14",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "junk",
@@ -1422,8 +1380,7 @@
       "itunes_duration": "01:15:21",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -1447,8 +1404,7 @@
       "itunes_duration": "01:13:07",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -1471,7 +1427,7 @@
       "enclosure_length": "66544535",
       "itunes_duration": "01:09:18",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -1487,8 +1443,7 @@
       "enclosure_length": "65964408",
       "itunes_duration": "01:08:42",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "roost"
@@ -1506,7 +1461,7 @@
       "enclosure_length": "57237420",
       "itunes_duration": "00:59:37",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "heart",
@@ -1525,8 +1480,7 @@
       "enclosure_length": "52241972",
       "itunes_duration": "00:54:25",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "inferno",
@@ -1545,8 +1499,7 @@
       "enclosure_length": "129833795",
       "itunes_duration": "00:54:05",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -1562,7 +1515,7 @@
       "enclosure_length": "51137724",
       "itunes_duration": "00:53:16",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "gaia"
@@ -1580,8 +1533,7 @@
       "enclosure_length": "50723944",
       "itunes_duration": "00:52:50",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "osiris"
@@ -1599,8 +1551,7 @@
       "enclosure_length": "48063634",
       "itunes_duration": "00:50:03",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "drake"
@@ -1618,8 +1569,7 @@
       "enclosure_length": "48238759",
       "itunes_duration": "00:50:14",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "time",
@@ -1638,8 +1588,7 @@
       "enclosure_length": "44994977",
       "itunes_duration": "00:46:52",
       "speakers": [
-        "Talking Stupid",
-        "Narrative Combat"
+        "Talking Stupid"
       ],
       "topics": [
         "stupid"
@@ -1657,7 +1606,7 @@
       "enclosure_length": "57163859",
       "itunes_duration": "00:59:32",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "test",
@@ -1676,8 +1625,7 @@
       "enclosure_length": "48507089",
       "itunes_duration": "00:50:31",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "time"
@@ -1695,7 +1643,7 @@
       "enclosure_length": "51480868",
       "itunes_duration": "00:53:37",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "darling",
@@ -1714,8 +1662,7 @@
       "enclosure_length": "54027493",
       "itunes_duration": "00:56:16",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "great",
@@ -1734,7 +1681,7 @@
       "enclosure_length": "59013746",
       "itunes_duration": "01:01:28",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "time"
@@ -1753,8 +1700,7 @@
       "itunes_duration": "00:50:53",
       "speakers": [
         "Smooch Rebate",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "smooch",
@@ -1773,7 +1719,7 @@
       "enclosure_length": "46590746",
       "itunes_duration": "00:48:31",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -1790,8 +1736,7 @@
       "itunes_duration": "00:33:17",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid"
@@ -1809,8 +1754,7 @@
       "enclosure_length": "53571082",
       "itunes_duration": "00:55:48",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "visitor",
@@ -1830,8 +1774,7 @@
       "itunes_duration": "01:10:34",
       "speakers": [
         "Smooch Rebate",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "smooch",
@@ -1850,8 +1793,7 @@
       "enclosure_length": "49347604",
       "itunes_duration": "00:51:24",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "corridoor"
@@ -1869,8 +1811,7 @@
       "enclosure_length": "49989590",
       "itunes_duration": "00:52:04",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "taste",
@@ -1890,8 +1831,7 @@
       "itunes_duration": "00:33:36",
       "speakers": [
         "Talking Stupid",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stupid"
@@ -1909,7 +1849,7 @@
       "enclosure_length": "58417319",
       "itunes_duration": "01:00:51",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "world"
@@ -1927,8 +1867,7 @@
       "enclosure_length": "59933257",
       "itunes_duration": "01:02:25",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tuktuk",
@@ -1947,8 +1886,7 @@
       "enclosure_length": "58385972",
       "itunes_duration": "01:00:49",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "gyosbuom"
@@ -1966,8 +1904,7 @@
       "enclosure_length": "55145952",
       "itunes_duration": "00:57:26",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "jungle"
@@ -1985,8 +1922,7 @@
       "enclosure_length": "48920032",
       "itunes_duration": "00:50:57",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "bisket",
@@ -2005,8 +1941,7 @@
       "enclosure_length": "57051846",
       "itunes_duration": "00:59:25",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "derringer"
@@ -2024,7 +1959,7 @@
       "enclosure_length": "65177809",
       "itunes_duration": "01:07:53",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -2040,7 +1975,7 @@
       "enclosure_length": "69001717",
       "itunes_duration": "01:11:52",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "savage",
@@ -2059,8 +1994,7 @@
       "enclosure_length": "61926086",
       "itunes_duration": "01:04:30",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "fool",
@@ -2080,8 +2014,7 @@
       "itunes_duration": "01:03:18",
       "speakers": [
         "Pol Barro",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "enter",
@@ -2100,8 +2033,7 @@
       "enclosure_length": "77816476",
       "itunes_duration": "01:21:03",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Patron Interlude"
       ],
       "topics": [
         "patron",
@@ -2122,8 +2054,7 @@
       "enclosure_length": "73366047",
       "itunes_duration": "01:16:25",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Patron Interlude"
       ],
       "topics": [
         "patron",
@@ -2144,8 +2075,7 @@
       "enclosure_length": "66004532",
       "itunes_duration": "01:08:45",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Patron Interlude"
       ],
       "topics": [
         "patron",
@@ -2166,8 +2096,7 @@
       "enclosure_length": "70123520",
       "itunes_duration": "01:13:02",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "past",
@@ -2187,8 +2116,7 @@
       "enclosure_length": "61890977",
       "itunes_duration": "01:04:28",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "cassiel",
@@ -2207,8 +2135,7 @@
       "enclosure_length": "63676917",
       "itunes_duration": "01:06:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "smile"
@@ -2225,10 +2152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85216862",
       "itunes_duration": "01:28:46",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "ustw",
         "present",
@@ -2247,10 +2171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55147206",
       "itunes_duration": "00:57:26",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "ustw",
         "present",
@@ -2270,8 +2191,7 @@
       "enclosure_length": "64435931",
       "itunes_duration": "01:07:07",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "stank"
@@ -2289,8 +2209,7 @@
       "enclosure_length": "56478406",
       "itunes_duration": "00:58:49",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "friends",
@@ -2309,8 +2228,7 @@
       "enclosure_length": "60922148",
       "itunes_duration": "01:03:27",
       "speakers": [
-        "TukTuk Farewell",
-        "Narrative Combat"
+        "TukTuk Farewell"
       ],
       "topics": [
         "tuktuk",
@@ -2329,8 +2247,7 @@
       "enclosure_length": "57858507",
       "itunes_duration": "01:00:16",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Derringer Fam"
       ],
       "topics": []
     },
@@ -2346,8 +2263,7 @@
       "enclosure_length": "63877120",
       "itunes_duration": "01:06:32",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "mouse",
@@ -2366,7 +2282,7 @@
       "enclosure_length": "53950589",
       "itunes_duration": "00:56:11",
       "speakers": [
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "office"
@@ -2384,8 +2300,7 @@
       "enclosure_length": "60106292",
       "itunes_duration": "01:02:36",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "gyosbuom"
@@ -2405,9 +2320,7 @@
       "speakers": [
         "Uncle Shainsaw",
         "Buttholes Beware",
-        "dick joke",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shai"
       ],
       "topics": [
         "uncle",
@@ -2430,8 +2343,7 @@
       "enclosure_length": "45385351",
       "itunes_duration": "00:47:16",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "goodbye"
@@ -2449,8 +2361,7 @@
       "enclosure_length": "77514292",
       "itunes_duration": "01:20:44",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "geriatric",
@@ -2469,8 +2380,7 @@
       "enclosure_length": "47761449",
       "itunes_duration": "00:49:45",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "blood",
@@ -2489,8 +2399,7 @@
       "enclosure_length": "60228754",
       "itunes_duration": "01:02:44",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "cato",
@@ -2509,8 +2418,7 @@
       "enclosure_length": "65074991",
       "itunes_duration": "01:07:47",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "song",
@@ -2529,8 +2437,7 @@
       "enclosure_length": "51489645",
       "itunes_duration": "00:53:38",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "qiojib"
@@ -2548,8 +2455,7 @@
       "enclosure_length": "52318458",
       "itunes_duration": "00:54:29",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tweet",
@@ -2567,10 +2473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53354579",
       "itunes_duration": "00:55:34",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "venture",
         "forth"
@@ -2587,10 +2490,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61620558",
       "itunes_duration": "01:04:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "horse"
@@ -2608,8 +2508,7 @@
       "enclosure_length": "51165309",
       "itunes_duration": "00:53:17",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "New Havenholde"
       ],
       "topics": [
         "havenholde"
@@ -2627,8 +2526,7 @@
       "enclosure_length": "58761299",
       "itunes_duration": "01:01:12",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "sugar",
@@ -2648,8 +2546,7 @@
       "enclosure_length": "74296006",
       "itunes_duration": "01:17:23",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "All means necessary"
       ],
       "topics": [
         "business",
@@ -2668,9 +2565,7 @@
       "enclosure_length": "56069224",
       "itunes_duration": "00:58:24",
       "speakers": [
-        "Frontier Law",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Frontier Law"
       ],
       "topics": [
         "frontier"
@@ -2688,8 +2583,7 @@
       "enclosure_length": "58099252",
       "itunes_duration": "01:00:31",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "New Havenholde"
       ],
       "topics": [
         "road",
@@ -2707,10 +2601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74940499",
       "itunes_duration": "01:18:03",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "journey"
       ]
@@ -2727,9 +2618,7 @@
       "enclosure_length": "61893067",
       "itunes_duration": "01:04:28",
       "speakers": [
-        "Prineth Proper",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Prineth Proper"
       ],
       "topics": [
         "prineth",
@@ -2748,8 +2637,7 @@
       "enclosure_length": "56956551",
       "itunes_duration": "00:59:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Prineth Prineth"
       ],
       "topics": [
         "prineth"
@@ -2767,8 +2655,7 @@
       "enclosure_length": "57916186",
       "itunes_duration": "01:00:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -2784,8 +2671,7 @@
       "enclosure_length": "56237662",
       "itunes_duration": "00:58:34",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Agos Welcome"
       ],
       "topics": [
         "agos"
@@ -2803,9 +2689,9 @@
       "enclosure_length": "48944692",
       "itunes_duration": "00:50:58",
       "speakers": [
-        "Darling Derringer",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Character Intro",
+        "Abon Welcome",
+        "Exploration Cam"
       ],
       "topics": [
         "campaign",
@@ -2826,10 +2712,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49730037",
       "itunes_duration": "00:51:48",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "character",
@@ -2849,12 +2732,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44910968",
       "itunes_duration": "00:46:46",
-      "speakers": [
-        "Cato Derringer",
-        "Devan Davenport",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "character",
@@ -2875,8 +2753,7 @@
       "enclosure_length": "79897495",
       "itunes_duration": "01:23:13",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "campaign"
@@ -2893,9 +2770,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162439000",
       "itunes_duration": "02:49:12",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "endgame"
       ]
@@ -2911,10 +2786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60800940",
       "itunes_duration": "01:03:20",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -2929,8 +2801,7 @@
       "enclosure_length": "66428760",
       "itunes_duration": "01:09:11",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "open",
@@ -2948,10 +2819,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65509668",
       "itunes_duration": "01:08:14",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "bonercycle"
       ]
@@ -2967,10 +2835,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62013440",
       "itunes_duration": "01:04:35",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "general",
         "fleggris"
@@ -2987,10 +2852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67349524",
       "itunes_duration": "01:10:09",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -3005,9 +2867,7 @@
       "enclosure_length": "63922677",
       "itunes_duration": "01:06:35",
       "speakers": [
-        "Kng Homecoming William",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Kng Homecoming William"
       ],
       "topics": [
         "homecoming"
@@ -3025,8 +2885,7 @@
       "enclosure_length": "53305260",
       "itunes_duration": "00:55:31",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "boxer",
@@ -3045,8 +2904,7 @@
       "enclosure_length": "65649684",
       "itunes_duration": "01:08:23",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "susan",
@@ -3064,9 +2922,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70984515",
       "itunes_duration": "01:13:56",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -3080,9 +2936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70721201",
       "itunes_duration": "01:13:40",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "giant",
         "mess"
@@ -3100,8 +2954,7 @@
       "enclosure_length": "60326974",
       "itunes_duration": "01:02:50",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "meat",
@@ -3120,8 +2973,7 @@
       "enclosure_length": "56325433",
       "itunes_duration": "00:58:40",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "horse",
@@ -3140,8 +2992,7 @@
       "enclosure_length": "64254537",
       "itunes_duration": "01:06:55",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "target"
@@ -3159,8 +3010,7 @@
       "enclosure_length": "64573440",
       "itunes_duration": "01:07:15",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "twin"
@@ -3178,8 +3028,7 @@
       "enclosure_length": "65307376",
       "itunes_duration": "01:08:01",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "megalo"
@@ -3196,9 +3045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68214700",
       "itunes_duration": "01:11:03",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "rainbow",
         "scale",
@@ -3217,8 +3064,7 @@
       "enclosure_length": "54068453",
       "itunes_duration": "00:56:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "defendant"
@@ -3235,9 +3081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70400626",
       "itunes_duration": "01:13:19",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "witness",
         "search"
@@ -3254,9 +3098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54709603",
       "itunes_duration": "00:56:59",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "represent"
       ]
@@ -3272,9 +3114,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67886184",
       "itunes_duration": "01:10:42",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "guard",
         "pant"
@@ -3291,9 +3131,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65977364",
       "itunes_duration": "01:08:43",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "eshe",
         "split"
@@ -3310,9 +3148,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60702720",
       "itunes_duration": "01:03:13",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "city"
       ]
@@ -3329,8 +3165,7 @@
       "enclosure_length": "55074063",
       "itunes_duration": "00:57:22",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "fire"
@@ -3348,8 +3183,7 @@
       "enclosure_length": "63893002",
       "itunes_duration": "01:06:33",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "death",
@@ -3368,8 +3202,7 @@
       "enclosure_length": "57527066",
       "itunes_duration": "00:59:55",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "beaten",
@@ -3387,9 +3220,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63668976",
       "itunes_duration": "01:06:19",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "beast",
         "mappelly"
@@ -3408,9 +3239,7 @@
       "itunes_duration": "01:33:59",
       "speakers": [
         "Uncle Shainsaw",
-        "dick joke",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shai"
       ],
       "topics": [
         "uncle",
@@ -3434,9 +3263,7 @@
       "itunes_duration": "01:03:32",
       "speakers": [
         "Uncle Shainsaw",
-        "dick joke",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shai"
       ],
       "topics": [
         "uncle",
@@ -3458,10 +3285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75162853",
       "itunes_duration": "01:18:17",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -3475,10 +3299,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79107552",
       "itunes_duration": "01:22:24",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "family",
         "reunion"
@@ -3495,10 +3316,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63886315",
       "itunes_duration": "01:06:32",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "lease",
         "life"
@@ -3515,10 +3333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64246595",
       "itunes_duration": "01:06:55",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "midnight",
         "meadow"
@@ -3535,10 +3350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77735810",
       "itunes_duration": "01:20:58",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "giant",
         "crank"
@@ -3558,7 +3370,7 @@
       "speakers": [
         "Lawful Stupid",
         "Douglas Cole",
-        "Check Arctic"
+        "Viking Mar"
       ],
       "topics": [
         "lawful",
@@ -3582,10 +3394,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64523284",
       "itunes_duration": "01:07:12",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "haven",
         "family",
@@ -3603,10 +3412,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56809430",
       "itunes_duration": "00:59:10",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "family",
         "trees"
@@ -3623,10 +3429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73080999",
       "itunes_duration": "01:16:07",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "hello",
         "darkness",
@@ -3644,10 +3447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89258945",
       "itunes_duration": "01:32:58",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "ground"
       ]
@@ -3663,10 +3463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58602475",
       "itunes_duration": "01:01:02",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "gain"
       ]
@@ -3682,10 +3479,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66892277",
       "itunes_duration": "01:09:40",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "livin",
         "edge"
@@ -3703,9 +3497,7 @@
       "enclosure_length": "67075343",
       "itunes_duration": "01:09:52",
       "speakers": [
-        "Mappelly Bound",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Mappelly Bound"
       ],
       "topics": [
         "mappelly",
@@ -3723,10 +3515,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29397159",
       "itunes_duration": "00:30:37",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "recap"
@@ -3743,10 +3532,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72427729",
       "itunes_duration": "01:15:26",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "revelation"
       ]
@@ -3762,10 +3548,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55537998",
       "itunes_duration": "00:57:51",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "high",
         "tower"
@@ -3782,10 +3565,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60984424",
       "itunes_duration": "01:03:31",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "confession"
       ]
@@ -3802,8 +3582,7 @@
       "enclosure_length": "65766295",
       "itunes_duration": "01:08:30",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -3818,10 +3597,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80560796",
       "itunes_duration": "01:23:54",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "path",
         "questioning"
@@ -3838,10 +3614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65357113",
       "itunes_duration": "01:08:04",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "aboard"
       ]
@@ -3857,10 +3630,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61854197",
       "itunes_duration": "01:04:25",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "safe",
         "house"
@@ -3877,10 +3647,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69407137",
       "itunes_duration": "01:12:17",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "maze"
       ]
@@ -3896,10 +3663,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77259337",
       "itunes_duration": "01:20:28",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "sapphires",
         "rubies",
@@ -3917,10 +3681,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67693923",
       "itunes_duration": "01:10:30",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "flight",
         "chimera"
@@ -3937,10 +3698,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62825952",
       "itunes_duration": "01:05:26",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "puzzle",
         "love",
@@ -3958,10 +3716,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79374628",
       "itunes_duration": "01:22:40",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "dark",
         "ruffalo"
@@ -3978,10 +3733,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62657515",
       "itunes_duration": "01:05:16",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "winter",
         "games",
@@ -3999,9 +3751,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139507460",
       "itunes_duration": "00:58:07",
-      "speakers": [
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "lucien",
         "downtime"
@@ -4018,10 +3768,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59706723",
       "itunes_duration": "01:02:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "william",
         "downtime"
@@ -4038,10 +3785,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69882357",
       "itunes_duration": "01:12:47",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "miss",
         "downtime"
@@ -4058,10 +3802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68014915",
       "itunes_duration": "01:10:50",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "election"
       ]
@@ -4077,10 +3818,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64399569",
       "itunes_duration": "01:07:04",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "lake",
         "smells",
@@ -4099,8 +3837,7 @@
       "enclosure_length": "65928881",
       "itunes_duration": "01:08:40",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": []
     },
@@ -4115,10 +3852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47092715",
       "itunes_duration": "00:49:03",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "avatar"
       ]
@@ -4136,8 +3870,7 @@
       "itunes_duration": "01:04:12",
       "speakers": [
         "Insert Tidal",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "insert",
@@ -4157,9 +3890,7 @@
       "itunes_duration": "01:09:41",
       "speakers": [
         "Even Flow",
-        "Will Lucien",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Will Lucien"
       ],
       "topics": [
         "flow"
@@ -4176,10 +3907,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69180604",
       "itunes_duration": "01:12:03",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "enter",
         "joonga"
@@ -4196,10 +3924,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69749446",
       "itunes_duration": "01:12:39",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "gravedigger"
       ]
@@ -4217,9 +3942,7 @@
       "itunes_duration": "01:16:40",
       "speakers": [
         "Mission Begins",
-        "Rocky Balboulda",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Rocky Balboulda"
       ],
       "topics": [
         "mission"
@@ -4237,10 +3960,7 @@
       "enclosure_length": "64045975",
       "itunes_duration": "01:06:42",
       "speakers": [
-        "Orientation William",
-        "William Dejehr",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Orientation William"
       ],
       "topics": [
         "orientation"
@@ -4257,11 +3977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41841057",
       "itunes_duration": "00:43:35",
-      "speakers": [
-        "William Dejehr",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "character",
@@ -4281,11 +3997,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36094955",
       "itunes_duration": "00:37:35",
-      "speakers": [
-        "Lucien Bright",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "character",
@@ -4306,8 +4018,9 @@
       "enclosure_length": "23051702",
       "itunes_duration": "00:23:59",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Character Intro",
+        "Abon Welcome",
+        "Night Guard"
       ],
       "topics": [
         "campaign",
@@ -4329,8 +4042,7 @@
       "enclosure_length": "36078236",
       "itunes_duration": "00:37:34",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "hope",
@@ -4348,10 +4060,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36649586",
       "itunes_duration": "00:38:10",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "future"
@@ -4369,8 +4078,8 @@
       "enclosure_length": "60753711",
       "itunes_duration": "01:03:17",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Welcome Home Old Friend",
+        "Lawful St"
       ],
       "topics": [
         "home",
@@ -4389,8 +4098,7 @@
       "enclosure_length": "46787186",
       "itunes_duration": "00:48:44",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "spirit",
@@ -4409,8 +4117,7 @@
       "enclosure_length": "59158360",
       "itunes_duration": "01:01:37",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "tree"
@@ -4428,8 +4135,7 @@
       "enclosure_length": "57552561",
       "itunes_duration": "00:59:56",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "righting",
@@ -4448,8 +4154,7 @@
       "enclosure_length": "65190765",
       "itunes_duration": "01:07:54",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "hootenanny"
@@ -4469,9 +4174,7 @@
       "speakers": [
         "Patrick Rothfuss Ya",
         "Patrick Rothfuss",
-        "DnD Master",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "DnD Master"
       ],
       "topics": [
         "flash",
@@ -4490,10 +4193,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61310014",
       "itunes_duration": "01:03:51",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "return"
@@ -4511,8 +4211,8 @@
       "enclosure_length": "62690951",
       "itunes_duration": "01:05:18",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Captain Now",
+        "Lawful Stupi"
       ],
       "topics": [
         "captain"
@@ -4529,10 +4229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61733407",
       "itunes_duration": "01:04:18",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "hounds",
         "flight"
@@ -4550,8 +4247,7 @@
       "enclosure_length": "53505462",
       "itunes_duration": "00:55:44",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Old Friends Old Wounds"
       ],
       "topics": [
         "friends",
@@ -4570,8 +4266,7 @@
       "enclosure_length": "145927313",
       "itunes_duration": "01:00:48",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "prison",
@@ -4590,9 +4285,7 @@
       "enclosure_length": "59189707",
       "itunes_duration": "01:01:39",
       "speakers": [
-        "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shainsaw"
       ],
       "topics": [
         "uncle",
@@ -4615,9 +4308,7 @@
       "enclosure_length": "51200835",
       "itunes_duration": "00:53:19",
       "speakers": [
-        "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shainsaw"
       ],
       "topics": [
         "uncle",
@@ -4640,8 +4331,7 @@
       "enclosure_length": "55907892",
       "itunes_duration": "00:58:14",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Next Stop"
       ],
       "topics": [
         "stop",
@@ -4660,10 +4350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62571415",
       "itunes_duration": "01:05:10",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "flame",
         "adventure"
@@ -4681,8 +4368,7 @@
       "enclosure_length": "201726028",
       "itunes_duration": "02:20:05",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lost Horrors"
       ],
       "topics": [
         "island",
@@ -4702,9 +4388,7 @@
       "enclosure_length": "93185253",
       "itunes_duration": "01:37:03",
       "speakers": [
-        "Billy Joel",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Billy Joel"
       ],
       "topics": [
         "billy",
@@ -4724,10 +4408,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72336613",
       "itunes_duration": "01:15:20",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "perry",
         "charm"
@@ -4744,10 +4425,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64882311",
       "itunes_duration": "01:07:35",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "card"
       ]
@@ -4763,10 +4441,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60984842",
       "itunes_duration": "01:03:31",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "enter",
         "davy",
@@ -4786,8 +4461,7 @@
       "itunes_duration": "00:38:54",
       "speakers": [
         "Peregrine Tern",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "great",
@@ -4834,7 +4508,7 @@
       "itunes_duration": "00:59:01",
       "speakers": [
         "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stu"
       ],
       "topics": [
         "operation"
@@ -4851,10 +4525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66990080",
       "itunes_duration": "01:09:46",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "operation",
         "rescue",
@@ -4872,10 +4543,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54480979",
       "itunes_duration": "00:56:45",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "stake"
       ]
@@ -4892,8 +4560,7 @@
       "enclosure_length": "66761456",
       "itunes_duration": "01:09:32",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Gambling Problem Sometimes"
       ],
       "topics": [
         "gambling",
@@ -4912,8 +4579,8 @@
       "enclosure_length": "60712751",
       "itunes_duration": "01:03:14",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Bet Finding",
+        "Well Spring"
       ],
       "topics": []
     },
@@ -4928,10 +4595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72951013",
       "itunes_duration": "01:15:59",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "fancy",
         "pants"
@@ -4949,9 +4613,7 @@
       "enclosure_length": "64098638",
       "itunes_duration": "01:06:46",
       "speakers": [
-        "Cinderella Story",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Cinderella Story"
       ],
       "topics": [
         "cinderella",
@@ -4969,10 +4631,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64547944",
       "itunes_duration": "01:07:14",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "heroes",
         "tensig"
@@ -4989,10 +4648,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87077616",
       "itunes_duration": "01:30:42",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "chain"
       ]
@@ -5008,10 +4664,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53860310",
       "itunes_duration": "00:56:06",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "garrett",
         "friend"
@@ -5029,8 +4682,7 @@
       "enclosure_length": "60846497",
       "itunes_duration": "01:03:22",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Alchemical Heaven After"
       ],
       "topics": [
         "stairway",
@@ -5050,8 +4702,7 @@
       "enclosure_length": "90915317",
       "itunes_duration": "01:34:42",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Please Make"
       ],
       "topics": [
         "wisdom",
@@ -5070,10 +4721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59723023",
       "itunes_duration": "01:02:12",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "convention",
         "tensig"
@@ -5090,10 +4738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85917361",
       "itunes_duration": "01:29:29",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "captain"
       ]
@@ -5109,10 +4754,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98512561",
       "itunes_duration": "01:42:37",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "question",
@@ -5130,10 +4772,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87085557",
       "itunes_duration": "01:30:42",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "menagerie"
       ]
@@ -5150,8 +4789,7 @@
       "enclosure_length": "65090873",
       "itunes_duration": "01:07:48",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Bacon Bit Skysong"
       ],
       "topics": [
         "bacon"
@@ -5168,10 +4806,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81694720",
       "itunes_duration": "01:25:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "shop",
         "stops"
@@ -5190,9 +4825,7 @@
       "itunes_duration": "00:37:30",
       "speakers": [
         "Erick Landin",
-        "Travis Eriksen",
-        "Kirsten Carlile",
-        "Lawful Stupid"
+        "Travis Eriksen"
       ],
       "topics": [
         "child",
@@ -5211,10 +4844,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64092369",
       "itunes_duration": "01:06:45",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "death"
       ]
@@ -5230,10 +4860,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71099036",
       "itunes_duration": "01:14:03",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "blanket"
       ]
@@ -5250,9 +4877,7 @@
       "enclosure_length": "85267435",
       "itunes_duration": "01:28:49",
       "speakers": [
-        "Kobold Fried Chicken",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Kobold Fried Chicken"
       ],
       "topics": [
         "kobold",
@@ -5272,8 +4897,7 @@
       "enclosure_length": "62267977",
       "itunes_duration": "01:04:51",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stu"
       ],
       "topics": [
         "thing",
@@ -5293,8 +4917,7 @@
       "enclosure_length": "56994586",
       "itunes_duration": "00:59:22",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful St"
       ],
       "topics": [
         "thing",
@@ -5314,9 +4937,7 @@
       "enclosure_length": "61841240",
       "itunes_duration": "01:04:25",
       "speakers": [
-        "Garett Ozlo",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Garett Ozlo"
       ],
       "topics": [
         "challenger",
@@ -5336,10 +4957,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83828819",
       "itunes_duration": "01:27:19",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "story",
         "courageous",
@@ -5359,10 +4977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65365472",
       "itunes_duration": "01:08:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "story",
         "salty",
@@ -5381,10 +4996,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47982132",
       "itunes_duration": "00:49:58",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "operation",
         "bated",
@@ -5402,10 +5014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70753384",
       "itunes_duration": "01:13:42",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "alpha",
         "team"
@@ -5422,10 +5031,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53211637",
       "itunes_duration": "00:55:25",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "finnegan",
         "finality"
@@ -5442,10 +5048,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69612773",
       "itunes_duration": "01:12:30",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "walk",
         "wood"
@@ -5462,10 +5065,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60979409",
       "itunes_duration": "01:03:31",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "ryder"
@@ -5482,10 +5082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58954396",
       "itunes_duration": "01:01:24",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -5499,10 +5096,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71260786",
       "itunes_duration": "01:14:13",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "line"
       ]
@@ -5519,10 +5113,7 @@
       "enclosure_length": "115120587",
       "itunes_duration": "01:59:54",
       "speakers": [
-        "Uncle Shainsaw",
-        "Scott Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Uncle Shainsaw"
       ],
       "topics": [
         "uncle",
@@ -5546,9 +5137,7 @@
       "enclosure_length": "69699709",
       "itunes_duration": "01:12:36",
       "speakers": [
-        "Dead Men",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Dead Men"
       ],
       "topics": [
         "dead",
@@ -5567,8 +5156,8 @@
       "enclosure_length": "68589191",
       "itunes_duration": "01:11:26",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Tavern Tour",
+        "Tangia Time"
       ],
       "topics": [
         "tavern",
@@ -5588,9 +5177,7 @@
       "enclosure_length": "57324355",
       "itunes_duration": "00:59:42",
       "speakers": [
-        "Merry Findahlmas",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Merry Findahlmas"
       ],
       "topics": [
         "merry",
@@ -5608,10 +5195,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58267271",
       "itunes_duration": "01:00:41",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "tangia"
       ]
@@ -5627,10 +5211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84736626",
       "itunes_duration": "01:28:16",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "shore",
         "leave",
@@ -5649,10 +5230,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95535856",
       "itunes_duration": "01:39:30",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "salt",
         "water",
@@ -5671,8 +5249,8 @@
       "enclosure_length": "53418527",
       "itunes_duration": "00:55:38",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Some Things Don",
+        "Float Beaten"
       ],
       "topics": [
         "thing"
@@ -5689,10 +5267,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72084166",
       "itunes_duration": "01:15:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "delmor",
         "demise"
@@ -5709,10 +5284,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77659324",
       "itunes_duration": "01:20:53",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "flight",
         "finnegan"
@@ -5729,10 +5301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76052271",
       "itunes_duration": "01:19:13",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -5748,9 +5317,7 @@
       "itunes_duration": "02:14:52",
       "speakers": [
         "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Scott Shainsaw",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "uncle",
@@ -5773,10 +5340,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61198001",
       "itunes_duration": "01:03:44",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "nose"
       ]
@@ -5792,10 +5356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71963376",
       "itunes_duration": "01:14:57",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "volca"
       ]
@@ -5811,10 +5372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53597831",
       "itunes_duration": "00:55:49",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "captain",
         "officer",
@@ -5834,8 +5392,7 @@
       "enclosure_length": "116992626",
       "itunes_duration": "02:01:52",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Misplaced Meridian Menagerie"
       ],
       "topics": [
         "fate",
@@ -5853,10 +5410,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34945149",
       "itunes_duration": "00:36:24",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "thing",
         "delmor",
@@ -5875,8 +5429,7 @@
       "enclosure_length": "33392849",
       "itunes_duration": "00:34:47",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Never Find Again"
       ],
       "topics": [
         "thing",
@@ -5895,10 +5448,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37072561",
       "itunes_duration": "00:38:37",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "thing",
         "finnegan",
@@ -5916,10 +5466,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29583569",
       "itunes_duration": "00:30:48",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "thing",
         "peregrine",
@@ -5937,10 +5484,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54320065",
       "itunes_duration": "00:56:35",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -5956,10 +5500,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70166569",
       "itunes_duration": "01:13:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -5979,8 +5520,9 @@
       "enclosure_length": "76896966",
       "itunes_duration": "01:20:06",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "New Gang",
+        "Patron Velrun",
+        "Hateful Four"
       ],
       "topics": [
         "campaign",
@@ -6000,10 +5542,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59325962",
       "itunes_duration": "01:01:47",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6021,10 +5560,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52672888",
       "itunes_duration": "00:54:52",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6042,10 +5578,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59200574",
       "itunes_duration": "01:01:40",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6064,10 +5597,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39904653",
       "itunes_duration": "00:41:34",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -6085,8 +5615,7 @@
       "enclosure_length": "55639144",
       "itunes_duration": "00:57:57",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Origin Door"
       ],
       "topics": [
         "campaign",
@@ -6106,10 +5635,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62407575",
       "itunes_duration": "01:05:00",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6128,12 +5654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119162253",
       "itunes_duration": "02:04:07",
-      "speakers": [
-        "Dnd Grandma",
-        "dralacon com",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "content",
         "dralacon"
@@ -6150,12 +5671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60665521",
       "itunes_duration": "01:03:11",
-      "speakers": [
-        "Oneshot Onslaught",
-        "dralacon com",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "content",
         "dralacon",
@@ -6174,10 +5690,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55165596",
       "itunes_duration": "00:57:27",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6195,10 +5708,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53948499",
       "itunes_duration": "00:56:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6218,7 +5728,7 @@
       "enclosure_length": "70660597",
       "itunes_duration": "01:13:36",
       "speakers": [
-        "Lawful Stupid"
+        "Kristoff le"
       ],
       "topics": [
         "campaign",
@@ -6237,10 +5747,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63216744",
       "itunes_duration": "01:05:51",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6259,10 +5766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60049031",
       "itunes_duration": "01:02:33",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6281,8 +5785,7 @@
       "enclosure_length": "65694406",
       "itunes_duration": "01:08:25",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Taken Passing"
       ],
       "topics": [
         "campaign",
@@ -6302,8 +5805,7 @@
       "enclosure_length": "61747200",
       "itunes_duration": "01:04:19",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Cultural Barriers When"
       ],
       "topics": [
         "campaign",
@@ -6323,10 +5825,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63788094",
       "itunes_duration": "01:06:26",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6347,9 +5846,7 @@
       "enclosure_length": "70677315",
       "itunes_duration": "01:13:37",
       "speakers": [
-        "Silence Heir",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Silence Heir"
       ],
       "topics": [
         "campaign",
@@ -6372,8 +5869,7 @@
       "enclosure_length": "46716969",
       "itunes_duration": "00:48:39",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Silencian Shendo"
       ],
       "topics": [
         "campaign",
@@ -6394,10 +5890,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56768888",
       "itunes_duration": "00:59:08",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6416,10 +5909,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59700871",
       "itunes_duration": "01:02:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -6436,10 +5926,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52880613",
       "itunes_duration": "00:55:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6461,8 +5948,7 @@
       "enclosure_length": "48747833",
       "itunes_duration": "00:50:46",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Ridgescar Peaks"
       ],
       "topics": [
         "campaign",
@@ -6482,10 +5968,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60861962",
       "itunes_duration": "01:03:23",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6503,10 +5986,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64256626",
       "itunes_duration": "01:06:56",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -6524,8 +6004,7 @@
       "enclosure_length": "80537809",
       "itunes_duration": "01:23:53",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "campaign",
@@ -6546,10 +6025,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66130755",
       "itunes_duration": "01:08:53",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -6567,8 +6043,7 @@
       "enclosure_length": "90274586",
       "itunes_duration": "01:34:02",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Some Things Will Always"
       ],
       "topics": [
         "campaign",
@@ -6587,10 +6062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75774746",
       "itunes_duration": "01:18:55",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6611,8 +6083,7 @@
       "enclosure_length": "49211350",
       "itunes_duration": "00:51:15",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "campaign",
@@ -6631,10 +6102,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55252532",
       "itunes_duration": "00:57:33",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6652,10 +6120,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67685982",
       "itunes_duration": "01:10:30",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6673,10 +6138,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46614987",
       "itunes_duration": "00:48:33",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6695,10 +6157,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66705449",
       "itunes_duration": "01:09:29",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6717,9 +6176,7 @@
       "enclosure_length": "45856809",
       "itunes_duration": "00:47:46",
       "speakers": [
-        "Warm Ging Ale Kristoff",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Warm Ging Ale Kristoff"
       ],
       "topics": [
         "campaign",
@@ -6739,10 +6196,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47070563",
       "itunes_duration": "00:49:01",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6761,9 +6215,7 @@
       "enclosure_length": "101916839",
       "itunes_duration": "01:46:09",
       "speakers": [
-        "Lawful Stupid Patron",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid Patron"
       ],
       "topics": [
         "campaign",
@@ -6785,9 +6237,7 @@
       "enclosure_length": "47534080",
       "itunes_duration": "00:49:30",
       "speakers": [
-        "Abon Daythorn",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Abon Daythorn"
       ],
       "topics": [
         "campaign",
@@ -6806,10 +6256,7 @@
       "enclosure_length": "33099441",
       "itunes_duration": "00:34:28",
       "speakers": [
-        "Merry Findahlmas",
-        "Carter Svan",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Merry Findahlmas"
       ],
       "topics": [
         "merry",
@@ -6827,10 +6274,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48723591",
       "itunes_duration": "00:50:45",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6849,8 +6293,7 @@
       "enclosure_length": "53571918",
       "itunes_duration": "00:55:48",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Whispr Wu"
       ],
       "topics": [
         "campaign",
@@ -6871,9 +6314,7 @@
       "enclosure_length": "94276127",
       "itunes_duration": "01:38:12",
       "speakers": [
-        "Wolf Pack Time",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Wolf Pack Time"
       ],
       "topics": [
         "campaign",
@@ -6895,8 +6336,7 @@
       "enclosure_length": "32695693",
       "itunes_duration": "00:34:03",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Goarahn Goes"
       ],
       "topics": [
         "campaign",
@@ -6915,10 +6355,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60229590",
       "itunes_duration": "01:02:44",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6937,10 +6374,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67513782",
       "itunes_duration": "01:10:19",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -6960,9 +6394,7 @@
       "enclosure_length": "6611696",
       "itunes_duration": "00:06:53",
       "speakers": [
-        "Whispr Wull",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Whispr Wull"
       ],
       "topics": [
         "campaign",
@@ -6981,10 +6413,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72213315",
       "itunes_duration": "01:15:13",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7003,10 +6432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79517570",
       "itunes_duration": "01:22:49",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7025,10 +6451,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69266285",
       "itunes_duration": "01:12:09",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7048,11 +6471,7 @@
       "enclosure_length": "151933596",
       "itunes_duration": "02:38:15",
       "speakers": [
-        "Lawful Stupid Presents",
-        "Scott Shainsaw",
-        "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid Presents"
       ],
       "topics": [
         "stupid",
@@ -7078,11 +6497,7 @@
       "enclosure_length": "212813949",
       "itunes_duration": "03:41:40",
       "speakers": [
-        "Lawful Stupid Presents",
-        "Scott Shainsaw",
-        "Uncle Shainsaw",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid Presents"
       ],
       "topics": [
         "stupid",
@@ -7107,10 +6522,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108473364",
       "itunes_duration": "01:52:59",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -7128,8 +6540,7 @@
       "enclosure_length": "53861146",
       "itunes_duration": "00:56:06",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Andran Kristoff"
       ],
       "topics": [
         "season",
@@ -7150,9 +6561,7 @@
       "itunes_duration": "00:19:15",
       "speakers": [
         "Lawful Stupid Anyway",
-        "Lawful Stupid",
-        "Cantrip Candles",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "content",
@@ -7170,11 +6579,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67719418",
       "itunes_duration": "01:10:32",
-      "speakers": [
-        "Lawful Stupid",
-        "Cantrip Candles",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -7192,9 +6597,7 @@
       "enclosure_length": "9146200",
       "itunes_duration": "00:09:31",
       "speakers": [
-        "Lawful Stupid Anyway",
-        "Patrick Rothfuss",
-        "Narrative Combat"
+        "Lawful Stupid Anyway"
       ],
       "topics": [
         "content",
@@ -7213,8 +6616,7 @@
       "enclosure_length": "71196839",
       "itunes_duration": "01:14:09",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "behind them"
       ],
       "topics": [
         "campaign",
@@ -7233,10 +6635,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85528241",
       "itunes_duration": "01:29:05",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7255,10 +6654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59634834",
       "itunes_duration": "01:02:07",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7276,10 +6672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56588329",
       "itunes_duration": "00:58:56",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7299,8 +6692,7 @@
       "enclosure_length": "86329469",
       "itunes_duration": "01:29:55",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "boys",
@@ -7320,8 +6712,7 @@
       "enclosure_length": "131917949",
       "itunes_duration": "02:17:24",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid"
       ],
       "topics": [
         "campaign",
@@ -7343,9 +6734,7 @@
       "enclosure_length": "56561162",
       "itunes_duration": "00:58:55",
       "speakers": [
-        "Steward Little",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Steward Little"
       ],
       "topics": [
         "campaign",
@@ -7365,10 +6754,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58992849",
       "itunes_duration": "01:01:27",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7387,10 +6773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73140767",
       "itunes_duration": "01:16:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7409,10 +6792,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55861080",
       "itunes_duration": "00:58:11",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -7429,10 +6809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57542530",
       "itunes_duration": "00:59:56",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -7449,10 +6826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39210422",
       "itunes_duration": "00:40:50",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7471,11 +6845,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38113697",
       "itunes_duration": "00:39:42",
-      "speakers": [
-        "Kristoff Shendo",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7494,10 +6864,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39138951",
       "itunes_duration": "00:40:46",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7516,10 +6883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63272751",
       "itunes_duration": "01:05:54",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7538,10 +6902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53097534",
       "itunes_duration": "00:55:18",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7560,10 +6921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58480431",
       "itunes_duration": "01:00:54",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season"
@@ -7580,10 +6938,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55361619",
       "itunes_duration": "00:57:40",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7602,10 +6957,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48818050",
       "itunes_duration": "00:50:51",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7624,9 +6976,7 @@
       "enclosure_length": "76079020",
       "itunes_duration": "01:19:14",
       "speakers": [
-        "Lawful Stupid Comic",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lawful Stupid Comic"
       ],
       "topics": [
         "campaign",
@@ -7645,11 +6995,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47532408",
       "itunes_duration": "00:49:30",
-      "speakers": [
-        "Arcanist Quincy",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7667,11 +7013,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65230053",
       "itunes_duration": "01:07:56",
-      "speakers": [
-        "Nerdsmith Nerdsmith",
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7690,10 +7032,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74468623",
       "itunes_duration": "01:17:34",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "recap"
       ]
@@ -7710,8 +7049,7 @@
       "enclosure_length": "105281828",
       "itunes_duration": "01:49:40",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Castle Capel Lute"
       ],
       "topics": [
         "campaign",
@@ -7732,10 +7070,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60417253",
       "itunes_duration": "01:02:56",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7753,10 +7088,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57236584",
       "itunes_duration": "00:59:37",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7774,10 +7106,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57675023",
       "itunes_duration": "01:00:04",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7796,10 +7125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110185325",
       "itunes_duration": "01:54:46",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7819,9 +7145,7 @@
       "enclosure_length": "59265776",
       "itunes_duration": "01:01:44",
       "speakers": [
-        "Alarya Foxwood",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Alarya Foxwood"
       ],
       "topics": [
         "campaign",
@@ -7841,9 +7165,7 @@
       "enclosure_length": "62013022",
       "itunes_duration": "01:04:35",
       "speakers": [
-        "Lady Tressel",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lady Tressel"
       ],
       "topics": [
         "campaign",
@@ -7863,10 +7185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65650938",
       "itunes_duration": "01:08:23",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -7885,8 +7204,7 @@
       "enclosure_length": "58089639",
       "itunes_duration": "01:00:30",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Go Ahead"
       ],
       "topics": [
         "campaign",
@@ -7906,9 +7224,7 @@
       "enclosure_length": "58841547",
       "itunes_duration": "01:01:17",
       "speakers": [
-        "Lady Tressel",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Lady Tressel"
       ],
       "topics": [
         "campaign",
@@ -7929,8 +7245,7 @@
       "enclosure_length": "66839614",
       "itunes_duration": "01:09:37",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Justicar Svan"
       ],
       "topics": [
         "campaign",
@@ -7951,9 +7266,7 @@
       "enclosure_length": "53453217",
       "itunes_duration": "00:55:40",
       "speakers": [
-        "Stranger Danger",
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Stranger Danger"
       ],
       "topics": [
         "campaign",
@@ -7973,10 +7286,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60205766",
       "itunes_duration": "01:02:42",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -7990,10 +7300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54612636",
       "itunes_duration": "00:56:53",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -8013,10 +7320,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54147866",
       "itunes_duration": "00:56:24",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -8035,10 +7339,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40825417",
       "itunes_duration": "00:42:31",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -8056,10 +7357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52086073",
       "itunes_duration": "00:54:15",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -8078,10 +7376,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66836271",
       "itunes_duration": "01:09:37",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "season",
@@ -8101,8 +7396,7 @@
       "enclosure_length": "44929358",
       "itunes_duration": "00:46:48",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Mystical Item"
       ],
       "topics": [
         "campaign",
@@ -8122,10 +7416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52873508",
       "itunes_duration": "00:55:04",
-      "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "attack",
@@ -8145,8 +7436,7 @@
       "enclosure_length": "74586488",
       "itunes_duration": "01:17:41",
       "speakers": [
-        "Lawful Stupid",
-        "Narrative Combat"
+        "Audio Quality Warning"
       ],
       "topics": [
         "season",
@@ -8161,397 +7451,397 @@
 
 ## Episodes (newest first)
 
-- 2024-12-30 — C5 | Spring - Episode 35: Saving Lights from Eternal Sleep — speakers: Narrative Combat
-- 2024-12-23 — C5 | Episode 34 - Ax'l's tale of Maev part 3: All that and a box of chocolates — speakers: Lawful Stupid, Narrative Combat
-- 2024-12-16 — C5 | Episode 33 - Ax'l's tale of Maev part 2: Into the Grimwood — speakers: Lawful Stupid, Narrative Combat
-- 2024-12-09 — C5 | Episode 32 - Ax'l's tale of Maev part 1: Festival Of Everglow — speakers: Lawful Stupid, Narrative Combat, stupids Buy
-- 2024-12-02 — C5 | Episode 31 - Ax'ls tale of Cosmo part 3: A Little Bit Of Faerie Dust — speakers: Lawful Stupid, Narrative Combat
-- 2024-11-25 — C5 | Episode 30 - Ax'ls tale of Cosmo part 2: The Hall Of "Not Magic" — speakers: Narrative Combat
-- 2024-11-18 — C5 | Episode 29 - Ax'ls tale of Cosmo part 1: Sewer crawl — speakers: Lawful Stupid, Narrative Combat
-- 2024-11-11 — C5 | Spring - Episode 28: The Darkness Continues To Creep — speakers: Narrative Combat
-- 2024-11-04 — C5 | Spring - Episode 27: Darkness Doesn't Wait — speakers: Lawful Stupid, Narrative Combat
-- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 3) — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 2) — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 1) — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2024-10-21 — C5 | Spring - Episode 26: Party Crashers — speakers: Lawful Stupid, Narrative Combat
-- 2024-10-14 — C5 | Spring - Episode 25: Don't Go Climbing Waterfalls — speakers: Narrative Combat
-- 2024-10-07 — C5 | Spring - Episode 24: Like A Pancake — speakers: Check Out Shainsaw, Narrative Combat
-- 2024-09-30 — C5 | Spring - Episode 23: Tradesies — speakers: Lawful Stupid, Narrative Combat
-- 2024-09-23 — C5 | Spring - Episode 22: 0 Out Of 10 Stars — speakers: Lawful Stupid, Narrative Combat
-- 2024-09-16 — C5 | Spring - Episode 21: Spooky Spiders — speakers: Spooky Spiders Check, Narrative Combat, stupids Buy
-- 2024-09-09 — C5 | Spring - Episode 20: That Spark — speakers: Narrative Combat
-- 2024-09-02 — C5 | Spring - Episode 19: We Need Some Answers — speakers: Lawful Stupid, Narrative Combat
-- 2024-08-28 — The Zonebrew: The Howl of Justice — speakers: Lawful Stupid, Check Out, Narrative Combat
-- 2024-08-26 — C5 | Spring - Episode 18: The No Body Inn — speakers: Narrative Combat
-- 2024-08-19 — C5 | Spring - Episode 17: A Mess Of Song And Thorn — speakers: Thorn Check Out, Narrative Combat
+- 2024-12-30 — C5 | Spring - Episode 35: Saving Lights from Eternal Sleep — speakers: Saving Lights, Lawful Stupid
+- 2024-12-23 — C5 | Episode 34 - Ax'l's tale of Maev part 3: All that and a box of chocolates — speakers: Lawful Stupid
+- 2024-12-16 — C5 | Episode 33 - Ax'l's tale of Maev part 2: Into the Grimwood — speakers: Lawful Stupid
+- 2024-12-09 — C5 | Episode 32 - Ax'l's tale of Maev part 1: Festival Of Everglow — speakers: Lawful Stupid
+- 2024-12-02 — C5 | Episode 31 - Ax'ls tale of Cosmo part 3: A Little Bit Of Faerie Dust — speakers: Lawful Stupid
+- 2024-11-25 — C5 | Episode 30 - Ax'ls tale of Cosmo part 2: The Hall Of "Not Magic"
+- 2024-11-18 — C5 | Episode 29 - Ax'ls tale of Cosmo part 1: Sewer crawl — speakers: Lawful Stupid
+- 2024-11-11 — C5 | Spring - Episode 28: The Darkness Continues To Creep — speakers: Lawful Stupid
+- 2024-11-04 — C5 | Spring - Episode 27: Darkness Doesn't Wait — speakers: Lawful Stupid
+- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 3) — speakers: Uncle Shainsaw, Lawful Stupid
+- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 2) — speakers: Uncle Shainsaw, Lawful Stupid
+- 2024-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2024 (Part 1) — speakers: Uncle Shainsaw, Lawful Stupid
+- 2024-10-21 — C5 | Spring - Episode 26: Party Crashers — speakers: Lawful Stupid
+- 2024-10-14 — C5 | Spring - Episode 25: Don't Go Climbing Waterfalls — speakers: Lawful Stupid
+- 2024-10-07 — C5 | Spring - Episode 24: Like A Pancake — speakers: Lawful Stupid
+- 2024-09-30 — C5 | Spring - Episode 23: Tradesies — speakers: Tradesies Check Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-09-23 — C5 | Spring - Episode 22: 0 Out Of 10 Stars — speakers: Stars Check Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-09-16 — C5 | Spring - Episode 21: Spooky Spiders — speakers: Spooky Spiders Check
+- 2024-09-09 — C5 | Spring - Episode 20: That Spark — speakers: Debut Urban Fantasy Novel
+- 2024-09-02 — C5 | Spring - Episode 19: We Need Some Answers — speakers: Check Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-08-28 — The Zonebrew: The Howl of Justice — speakers: Lawful Stupid
+- 2024-08-26 — C5 | Spring - Episode 18: The No Body Inn — speakers: Check Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-08-19 — C5 | Spring - Episode 17: A Mess Of Song And Thorn — speakers: Thorn Check Out
 - 2024-08-16 — Whimsical Words | Season 1 - Episode 2: The Night Team - Scott Shain — speakers: Scott Shain, Lawful Stupid
-- 2024-08-16 — C5 | Talking Stupid: Spring E0-5 — speakers: Narrative Combat
-- 2024-08-12 — C5 | Spring - Episode 16: Into The Unknown — speakers: Lawful Stupid, Narrative Combat
-- 2024-08-05 — C5 | Spring - Episode 15: Heading South — speakers: Narrative Combat
-- 2024-07-29 — C5 | Spring - Episode 14: Heading South — speakers: Lawful Stupid, Narrative Combat
-- 2024-07-22 — C5 | Spring - Episode 13: Darkest Of Night — speakers: Hoodlumkira Jaketheripper Nekova Red, Debut Urban, Lawful Stupid, Narrative Combat
-- 2024-07-15 — C5 | Spring - Episode 12: The Time Has Come — speakers: Narrative Combat
-- 2024-07-08 — C5 | Spring - Episode 11: Answer Me These Riddles 6 — speakers: Lawful Stupid, Narrative Combat
-- 2024-07-01 — C5 | Spring - Episode 10: Ope, There Goes Gravity — speakers: Narrative Combat
-- 2024-06-24 — C5 | Spring - Episode 9: Turn The Lights On — speakers: Narrative Combat
-- 2024-06-17 — C5 | Spring - Episode 8: Leaving The Ichor BEEhind — speakers: Lawful Stupid, Narrative Combat
-- 2024-06-10 — C5 | Spring - Episode 7: Pick Your Poison — speakers: Lawful Stupid, Narrative Combat
-- 2024-06-03 — C5 | Spring - Episode 6: 2 Bee Or Not 2 Bee — speakers: Narrative Combat
-- 2024-05-27 — C5 | Spring - Episode 5: Gonna Start A Revolution — speakers: Narrative Combat
-- 2024-05-20 — C5 | Spring - Episode 4: Learning To Play Dirt — speakers: Narrative Combat
-- 2024-05-13 — C5 | Spring - Episode 3: HoneyBrawl — speakers: Lawful Stupid, Narrative Combat
-- 2024-05-06 — C5 | Spring - Episode 2: Little Help From Our Friends — speakers: Lawful Stupid, Narrative Combat
-- 2024-04-29 — C5 | Spring - Episode 1: Bobbles And Things — speakers: Lawful Stupid, Narrative Combat
-- 2024-04-22 — C5 | Spring - Intro: Balfour LongTusks — speakers: Lawful Stupid, org Join, Narrative Combat
-- 2024-04-15 — C5 | Spring - Intro: MaK FloppyEars — speakers: org Join, Narrative Combat
-- 2024-04-08 — C5 | Spring - Intro: Ax'l of Rondo — speakers: org Join, Narrative Combat
-- 2024-04-01 — Talking Stupid | Closing The Door On Goarahn — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2024-03-27 — C4 | Episode 78: Remembrance — speakers: Lawful Stupid, Narrative Combat
-- 2024-03-18 — C4 | Episode 77: Solace — speakers: Lawful Stupid, Narrative Combat
-- 2024-03-11 — C4 | Episode 76: Anguish — speakers: Lawful Stupid, Narrative Combat
+- 2024-08-16 — C5 | Talking Stupid: Spring E0-5 — speakers: Talking Stupid, Check Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-08-12 — C5 | Spring - Episode 16: Into The Unknown — speakers: Out Shainsaw, Debut Urban Fantasy Novel
+- 2024-08-05 — C5 | Spring - Episode 15: Heading South — speakers: Heading South Check Out, Debut Urban Fantasy Novel, Lawful Stu
+- 2024-07-29 — C5 | Spring - Episode 14: Heading South — speakers: Heading South Check Out, Debut Urban Fantasy Novel, Lawful Stupi
+- 2024-07-22 — C5 | Spring - Episode 13: Darkest Of Night — speakers: Hoodlumkira Jaketheripper Nekova Red
+- 2024-07-15 — C5 | Spring - Episode 12: The Time Has Come — speakers: Lawful Stupid
+- 2024-07-08 — C5 | Spring - Episode 11: Answer Me These Riddles 6 — speakers: Lawful Stupid
+- 2024-07-01 — C5 | Spring - Episode 10: Ope, There Goes Gravity — speakers: Lawful Stupid
+- 2024-06-24 — C5 | Spring - Episode 9: Turn The Lights On — speakers: Lawful Stupid
+- 2024-06-17 — C5 | Spring - Episode 8: Leaving The Ichor BEEhind — speakers: Lawful Stupid
+- 2024-06-10 — C5 | Spring - Episode 7: Pick Your Poison — speakers: Lawful Stupid
+- 2024-06-03 — C5 | Spring - Episode 6: 2 Bee Or Not 2 Bee — speakers: Lawful Stupid
+- 2024-05-27 — C5 | Spring - Episode 5: Gonna Start A Revolution — speakers: Gonna Start, Lawful Stupid
+- 2024-05-20 — C5 | Spring - Episode 4: Learning To Play Dirt — speakers: Lawful Stupid
+- 2024-05-13 — C5 | Spring - Episode 3: HoneyBrawl — speakers: Lawful Stupid
+- 2024-05-06 — C5 | Spring - Episode 2: Little Help From Our Friends — speakers: Lawful Stupid
+- 2024-04-29 — C5 | Spring - Episode 1: Bobbles And Things — speakers: Lawful Stupid
+- 2024-04-22 — C5 | Spring - Intro: Balfour LongTusks — speakers: Dungeon Master
+- 2024-04-15 — C5 | Spring - Intro: MaK FloppyEars — speakers: Dungeon Master
+- 2024-04-08 — C5 | Spring - Intro: Ax'l of Rondo — speakers: Dungeon Master
+- 2024-04-01 — Talking Stupid | Closing The Door On Goarahn — speakers: Talking Stupid, Lawful Stupid
+- 2024-03-27 — C4 | Episode 78: Remembrance — speakers: Lawful Stupid
+- 2024-03-18 — C4 | Episode 77: Solace — speakers: Lawful Stupid
+- 2024-03-11 — C4 | Episode 76: Anguish — speakers: Lawful Stupid
 - 2024-03-08 — Whimsical Words | Season 1 - Episode 1: Illyadra - Adriel
-- 2024-03-04 — C4 | Episode 75: Where The Heroes Lay — speakers: Narrative Combat
-- 2024-02-28 — Talking Stupid | Episode 6 — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2024-02-26 — C4 | Episode 74: The Last Resort — speakers: Lawful Stupid, Narrative Combat
-- 2024-02-19 — C4 | Episode 73: Several Wings And A Prayer — speakers: Lawful Stupid, Narrative Combat
-- 2024-02-14 — Talking Stupid | Episode 5 — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2024-02-12 — C4 | Episode 72: The Wise And The Broken — speakers: Lawful Stupid, Narrative Combat
-- 2024-02-05 — Talking Stupid | Episode 4 — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2024-01-29 — C4 | Episode 71: Gworp Snacks — speakers: Narrative Combat
-- 2024-01-22 — C4 | Episode 70: One World's Experience — speakers: Narrative Combat
-- 2024-01-08 — C4 | Episode 69: Another Door Closes — speakers: Lawful Stupid, Narrative Combat
-- 2024-01-01 — C4 | Episode 68: Wen One Door Opens — speakers: Narrative Combat
-- 2023-12-25 — C4 | Episode 67: Reflections In Time — speakers: Narrative Combat
-- 2023-12-18 — C4 | Episode 66: Don't Go Chasing Waterfalls — speakers: Narrative Combat
-- 2023-12-11 — C4 | Episode 65: The Early Bird Gets The Worm — speakers: Lawful Stupid, Narrative Combat
-- 2023-12-04 — C4 | Episode 64: A Deal's A Deal — speakers: Lawful Stupid, Narrative Combat
-- 2023-11-27 — C4 | Episode 63: Sisterhood — speakers: Lawful Stupid, Narrative Combat
-- 2023-11-20 — C4 | Episode 62: Is Grandma Home? — speakers: Grandma Home, Lawful Stupid, Narrative Combat
-- 2023-11-13 — C4 | Episode 61: Along For The Ride — speakers: Lawful Stupid, Narrative Combat
-- 2023-11-06 — C4 | Episode 60: Junk Juice — speakers: Lawful Stupid, Narrative Combat
-- 2023-10-30 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2023 (Part 2) — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2023-10-23 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2023 (Part 1) — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2023-10-16 — C4 | Episode 59: Nir or Far — speakers: Narrative Combat
-- 2023-10-09 — C4 | Episode 58: The Red Roost — speakers: Lawful Stupid, Narrative Combat
-- 2023-10-02 — C4 | Episode 57: Heart of the Dragon — speakers: Narrative Combat
-- 2023-09-25 — C4 | Episode 56: Enter The Inferno Sage! — speakers: Lawful Stupid, Narrative Combat
-- 2023-09-18 — C4 | Episode 55: Little Bit of Both — speakers: Lawful Stupid, Narrative Combat
-- 2023-09-11 — C4 | Episode 54: Welcome to Gaia — speakers: Narrative Combat
-- 2023-09-03 — C4 | Episode 53: Osiris — speakers: Lawful Stupid, Narrative Combat
-- 2023-08-28 — C4 | Episode 52: Drake — speakers: Lawful Stupid, Narrative Combat
-- 2023-08-21 — C4 | Episode 51: TIME LORD???? — speakers: Lawful Stupid, Narrative Combat
-- 2023-08-14 — Talking Stupid | Episode 3 — speakers: Talking Stupid, Narrative Combat
-- 2023-08-07 — C4 | Episode 50: The Test Of Time — speakers: Narrative Combat
-- 2023-07-31 — C4 | Episode 49: What Time Is It? — speakers: Lawful Stupid, Narrative Combat
-- 2023-07-24 — C4 | Episode 48: Darling, Out Of Time — speakers: Narrative Combat
-- 2023-07-17 — C4 | Episode 47: The Great Cube Bro — speakers: Lawful Stupid, Narrative Combat
-- 2023-07-10 — C4 | Episode 46: Take Our Time — speakers: Narrative Combat
-- 2023-07-03 — C4 | Episode 45: Smooch Rebate, Upcasted — speakers: Smooch Rebate, Lawful Stupid, Narrative Combat
-- 2023-06-26 — C4 | Episode 44: Pop To Pop — speakers: Narrative Combat
-- 2023-06-23 — Talking Stupid | Episode 2 — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2023-06-19 — C4 | Episode 43: Not Visitor Friendly — speakers: Lawful Stupid, Narrative Combat
-- 2023-06-12 — C4 | Episode 42: Smooch Rebate — speakers: Smooch Rebate, Lawful Stupid, Narrative Combat
-- 2023-06-05 — C4 | Episode 41: The Corridoors — speakers: Lawful Stupid, Narrative Combat
-- 2023-05-29 — C4 | Episode 40: Tastes Like Pennies — speakers: Lawful Stupid, Narrative Combat
-- 2023-05-22 — Talking Stupid | Episode 1 — speakers: Talking Stupid, Lawful Stupid, Narrative Combat
-- 2023-05-15 — C4 | Episode 39: Welcome To World's End — speakers: Narrative Combat
-- 2023-05-08 — C4 | Episode 38: TukTuk Martyr — speakers: Lawful Stupid, Narrative Combat
-- 2023-05-01 — C4 | Episode 37: Who's that Gyosbuom? — speakers: Lawful Stupid, Narrative Combat
-- 2023-04-24 — C4 | Episode 36: Welcome to the Jungle — speakers: Lawful Stupid, Narrative Combat
-- 2023-04-17 — C4 | Episode 35: Bisket and Daisies — speakers: Lawful Stupid, Narrative Combat
-- 2023-04-10 — C4 | Episode 34: A Derringer Day — speakers: Lawful Stupid, Narrative Combat
-- 2023-04-03 — C4 | Episode 33: Live by the Nom, Die by the Nom — speakers: Narrative Combat
-- 2023-03-27 — C4 | Episode 32: Savage Skies — speakers: Narrative Combat
-- 2023-03-20 — C4 | Episode 31: The Fool’s Lullaby — speakers: Lawful Stupid, Narrative Combat
-- 2023-03-13 — C4 | Episode 30: Enter Pol Barro — speakers: Pol Barro, Lawful Stupid, Narrative Combat
-- 2023-03-06 — C4 | Patron Interlude: Tricky Doors Part 3 — speakers: Lawful Stupid, Narrative Combat
-- 2023-02-27 — C4 | Patron Interlude: Tricky Doors Part 2 — speakers: Lawful Stupid, Narrative Combat
-- 2023-02-20 — C4 | Patron Interlude: Tricky Doors Part 1 — speakers: Lawful Stupid, Narrative Combat
-- 2023-02-13 — C4 | Episode 29: It's Past Expiration Date — speakers: Lawful Stupid, Narrative Combat
-- 2023-01-30 — C4 | Episode 28: Cassiel's Concerto — speakers: Lawful Stupid, Narrative Combat
-- 2023-01-23 — C4 | Episode 27: Smile! — speakers: Lawful Stupid, Narrative Combat
-- 2023-01-09 — USTW Presents: Gerblin Quest Part 2 — speakers: Lawful Stupid, Narrative Combat
-- 2023-01-02 — USTW Presents: Gerblin Quest Part 1 — speakers: Lawful Stupid, Narrative Combat
-- 2022-12-19 — C4 | Episode 26: Stank Air — speakers: Lawful Stupid, Narrative Combat
-- 2022-12-12 — C4 | Episode 25: To New Friends And Family — speakers: Lawful Stupid, Narrative Combat
-- 2022-12-05 — C4 | Episode 24: TukTuk Farewell — speakers: TukTuk Farewell, Narrative Combat
-- 2022-11-28 — C4 | Episode 23: Definitely Over Sixteen — speakers: Lawful Stupid, Narrative Combat
-- 2022-11-21 — C4 | Episode 22: Is That A Mouse In Your Pocket Or Are You Just Happy To See Me? — speakers: Lawful Stupid, Narrative Combat
-- 2022-11-14 — C4 | Episode 21: A Weird Day At The Office — speakers: Narrative Combat
-- 2022-11-07 — C4 | Episode 20: Gyosbuom to Meet You — speakers: Lawful Stupid, Narrative Combat
-- 2022-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2022 — speakers: Uncle Shainsaw, Buttholes Beware, dick joke, Lawful Stupid, Narrative Combat
-- 2022-10-24 — C4 | Episode 19: Saying Goodbye — speakers: Lawful Stupid, Narrative Combat
-- 2022-10-17 — C4 | Episode 18: Geriatric Conclusions — speakers: Lawful Stupid, Narrative Combat
-- 2022-10-10 — C4 | Episode 17: Blood and Tears — speakers: Lawful Stupid, Narrative Combat
-- 2022-10-03 — C4 | Episode 16: Cato, Reboots — speakers: Lawful Stupid, Narrative Combat
-- 2022-09-26 — C4 | Episode 15: A Song of Loss — speakers: Lawful Stupid, Narrative Combat
-- 2022-09-19 — C4 | Episode 14: Qiojib — speakers: Lawful Stupid, Narrative Combat
-- 2022-09-12 — C4 | Episode 13: Tweet Tweet MFer — speakers: Lawful Stupid, Narrative Combat
-- 2022-09-05 — C4 | Episode 12: We Venture Forth — speakers: Lawful Stupid, Narrative Combat
-- 2022-08-29 — C4 | Episode 11: Time to See a Man About a Horse — speakers: Lawful Stupid, Narrative Combat
-- 2022-08-22 — C4 | Episode 10: New Havenholde — speakers: Lawful Stupid, Narrative Combat
-- 2022-08-15 — C4 | Episode 9: Sugar and Spice Take the Stage — speakers: Lawful Stupid, Narrative Combat
-- 2022-08-08 — C4 | Episode 8: A Business Proposition — speakers: Lawful Stupid, Narrative Combat
-- 2022-08-01 — C4 | Episode 7: Frontier Law — speakers: Frontier Law, Lawful Stupid, Narrative Combat
-- 2022-07-24 — C4 | Episode 6: The Road to New Havenholde — speakers: Lawful Stupid, Narrative Combat
-- 2022-07-18 — C4 | Episode 5: The Journey Begins — speakers: Lawful Stupid, Narrative Combat
-- 2022-07-11 — C4 | Episode 4: Prineth Proper — speakers: Prineth Proper, Lawful Stupid, Narrative Combat
-- 2022-07-04 — C4 | Episode 3: Welcome to Prineth — speakers: Lawful Stupid, Narrative Combat
-- 2022-06-27 — C4 | Episode 2: No I Shunt — speakers: Lawful Stupid, Narrative Combat
-- 2022-06-20 — C4 | Episode 1: Welcome to Agos — speakers: Lawful Stupid, Narrative Combat
-- 2022-06-13 — Campaign 4 Character Intro | Darling played by Abon — speakers: Darling Derringer, Lawful Stupid, Narrative Combat
-- 2022-06-06 — Campaign 4 Character Intro | Gustum played by Shainsaw — speakers: Lawful Stupid, Narrative Combat
-- 2022-05-30 — Campaign 4 Character Intro | Cato played by Devan — speakers: Cato Derringer, Devan Davenport, Lawful Stupid, Narrative Combat
-- 2022-05-22 — Campaign 3 QNA — speakers: Lawful Stupid, Narrative Combat
-- 2022-05-09 — C3 Episode 65: Endgame — speakers: Narrative Combat
-- 2022-05-02 — C3 Episode 64: War is Coming — speakers: Lawful Stupid, Narrative Combat
-- 2022-04-25 — C3 Episode 63: Open Sesame — speakers: Lawful Stupid, Narrative Combat
-- 2022-04-18 — C3 Episode 62: Bonercycle — speakers: Lawful Stupid, Narrative Combat
-- 2022-04-11 — C3 Episode 61: General Fleggris — speakers: Lawful Stupid, Narrative Combat
-- 2022-04-04 — C3 Episode 60: Reveals — speakers: Lawful Stupid, Narrative Combat
-- 2022-03-28 — C3 Episode 59: KNG Homecoming — speakers: Kng Homecoming William, Lawful Stupid, Narrative Combat
-- 2022-03-21 — C3 Episode 58: Boxers or Debriefs — speakers: Lawful Stupid, Narrative Combat
-- 2022-03-14 — C3 Episode 57: Susan and Tuscany — speakers: Lawful Stupid, Narrative Combat
-- 2022-03-07 — C3 Episode 56: We Were Never Here — speakers: Narrative Combat
-- 2022-02-28 — C3 Episode 55: We've Made a Giant Mess — speakers: Narrative Combat
-- 2022-02-21 — C3 Episode 54: Meat Shield — speakers: Lawful Stupid, Narrative Combat
-- 2022-02-14 — C3 Episode 53: Three Horse Town — speakers: Lawful Stupid, Narrative Combat
-- 2022-02-07 — C3 Episode 52: Back on Target — speakers: Lawful Stupid, Narrative Combat
-- 2022-01-31 — C3 Episode 51: Twins — speakers: Lawful Stupid, Narrative Combat
-- 2022-01-24 — C3 Episode 50: Hotwire the Megalos — speakers: Lawful Stupid, Narrative Combat
-- 2022-01-17 — C3 Episode 49: Rainbow Scale Awakens — speakers: Narrative Combat
-- 2022-01-10 — C3 Episode 48: We Find the Defendant... — speakers: Lawful Stupid, Narrative Combat
-- 2022-01-03 — C3 Episode 47: Witness Search — speakers: Narrative Combat
-- 2021-12-27 — C3 Episode 46: Represent — speakers: Narrative Combat
-- 2021-12-20 — C3 Episode 45: Another Guard Loses His Pants — speakers: Narrative Combat
-- 2021-12-13 — C3 Episode 44: Hit Em' Where Eshe Split Em' — speakers: Narrative Combat
-- 2021-12-06 — C3 Episode 43: Sun-Elf City — speakers: Narrative Combat
-- 2021-11-29 — C3 Episode 42: Fire in Your Eyes — speakers: Lawful Stupid, Narrative Combat
-- 2021-11-22 — C3 Episode 41: Let's Make A Death Deal — speakers: Lawful Stupid, Narrative Combat
-- 2021-11-15 — C3 Episode 40: Off the Beaten Path — speakers: Lawful Stupid, Narrative Combat
-- 2021-11-08 — C3 Episode 39: Beast of Mappelly — speakers: Narrative Combat
-- 2021-11-01 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2021 Part 2 — speakers: Uncle Shainsaw, dick joke, Lawful Stupid, Narrative Combat
-- 2021-11-01 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2021 Part 1 — speakers: Uncle Shainsaw, dick joke, Lawful Stupid, Narrative Combat
-- 2021-10-25 — C3 Episode 38: Show Us The Way — speakers: Lawful Stupid, Narrative Combat
-- 2021-10-18 — C3 Episode 37: Family Reunion — speakers: Lawful Stupid, Narrative Combat
-- 2021-10-11 — C3 Episode 36: New Lease on Life — speakers: Lawful Stupid, Narrative Combat
-- 2021-10-04 — C3 Episode 35: Into the Midnight Meadow — speakers: Lawful Stupid, Narrative Combat
-- 2021-09-27 — C3 Episode 34: Big Giant Crank — speakers: Lawful Stupid, Narrative Combat
-- 2021-09-25 — Lawful Stupid 's Community Spotlight: Douglas Cole of Gaming Ballistic — speakers: Lawful Stupid, Douglas Cole, Check Arctic
-- 2021-09-20 — C3 Episode 33: Haven Family Jewels — speakers: Lawful Stupid, Narrative Combat
-- 2021-09-13 — C3 Episode 32: B's Family Trees — speakers: Lawful Stupid, Narrative Combat
-- 2021-09-06 — C3 Episode 31: Hello Darkness, My Old Friend — speakers: Lawful Stupid, Narrative Combat
-- 2021-08-30 — C3 Episode 30 : Stand Your Ground — speakers: Lawful Stupid, Narrative Combat
-- 2021-08-23 — C3 Episode 29: Train Gain — speakers: Lawful Stupid, Narrative Combat
-- 2021-08-16 — C3 Episode 28: Livin' On the Edge — speakers: Lawful Stupid, Narrative Combat
-- 2021-08-09 — C3 Episode 27: Mappelly Bound — speakers: Mappelly Bound, Lawful Stupid, Narrative Combat
-- 2021-08-09 — Campaign 3 Recap Episodes 1-26 — speakers: Lawful Stupid, Narrative Combat
-- 2021-08-01 — C3 Episode 26: Revelations — speakers: Lawful Stupid, Narrative Combat
-- 2021-07-26 — C3 Episode 25 - Man In High Tower — speakers: Lawful Stupid, Narrative Combat
-- 2021-07-19 — C3 Episode 24 - Confessions — speakers: Lawful Stupid, Narrative Combat
-- 2021-07-12 — C3 Episode 23 - The Jig is Up — speakers: Lawful Stupid, Narrative Combat
-- 2021-07-05 — C3 Episode 22 - The Path of Questioning — speakers: Lawful Stupid, Narrative Combat
-- 2021-06-28 — C3 Episode 21 - All Aboard! — speakers: Lawful Stupid, Narrative Combat
-- 2021-06-21 — C3 Episode 20 - The Safe House — speakers: Lawful Stupid, Narrative Combat
-- 2021-06-14 — C3 Episode 19 - Into the Maze — speakers: Lawful Stupid, Narrative Combat
-- 2021-06-07 — C3 Episode 18 - Sapphires, Rubies, and Opals Oh My! — speakers: Lawful Stupid, Narrative Combat
-- 2021-05-31 — C3 Episode 17 - Flight of the Chimera — speakers: Lawful Stupid, Narrative Combat
-- 2021-05-24 — C3 Episode 16 - Puzzle, Puzzle, Love, Fight — speakers: Lawful Stupid, Narrative Combat
-- 2021-05-17 — C3 Episode 15 - Dark Ruffalo — speakers: Lawful Stupid, Narrative Combat
-- 2021-05-10 — C3 Episode 14 - Winter Games Bound — speakers: Lawful Stupid, Narrative Combat
-- 2021-05-03 — C3 Episode 13 - Lucien Downtime — speakers: Narrative Combat
-- 2021-04-19 — C3 Episode 12 - William Downtime — speakers: Lawful Stupid, Narrative Combat
-- 2021-04-05 — C3 Episode 11 - Miss B Downtime — speakers: Lawful Stupid, Narrative Combat
-- 2021-03-29 — C3 Episode 10 - Election Day — speakers: Lawful Stupid, Narrative Combat
-- 2021-03-22 — C3 Episode 9 - This Lake Smells Funny — speakers: Lawful Stupid, Narrative Combat
-- 2021-03-15 — C3 Episode 8 - Smor'cs — speakers: Lawful Stupid, Narrative Combat
-- 2021-03-08 — C3 Episode 7 - Avatar Episode — speakers: Lawful Stupid, Narrative Combat
-- 2021-03-01 — C3 Episode 6 - Insert Tidal Here — speakers: Insert Tidal, Lawful Stupid, Narrative Combat
-- 2021-02-22 — C3 Episode 5 - Even Flow — speakers: Even Flow, Will Lucien, Lawful Stupid, Narrative Combat
-- 2021-02-15 — C3 Episode 4 - Enter Joonga — speakers: Lawful Stupid, Narrative Combat
-- 2021-02-08 — C3 Episode 3 - Gravedigger — speakers: Lawful Stupid, Narrative Combat
-- 2021-02-01 — C3 Episode 2 - The Mission Begins — speakers: Mission Begins, Rocky Balboulda, Lawful Stupid, Narrative Combat
-- 2021-01-25 — C3 Episode 1 - Orientation — speakers: Orientation William, William Dejehr, Lawful Stupid, Narrative Combat
-- 2021-01-24 — Campaign 3 Character Intro | William played by DeWayne — speakers: William Dejehr, Lawful Stupid, Narrative Combat
-- 2021-01-23 — Campaign 3 Character Intro | Lucien played by Shainsaw — speakers: Lucien Bright, Lawful Stupid, Narrative Combat
-- 2021-01-22 — Campaign 3 Character Intro | Miss B played by Abon — speakers: Lawful Stupid, Narrative Combat
-- 2021-01-18 — C2 | Episode 61: Hope and Despair — speakers: Lawful Stupid, Narrative Combat
-- 2021-01-11 — C2 | Episode 60: The Battle for the Future! — speakers: Lawful Stupid, Narrative Combat
-- 2021-01-04 — C2 | Episode 59: Welcome Home Old Friend — speakers: Lawful Stupid, Narrative Combat
-- 2020-12-28 — C2 | Episode 58: Spirit Charming — speakers: Lawful Stupid, Narrative Combat
-- 2020-12-21 — C2 | Episode 57: One with the Trees — speakers: Lawful Stupid, Narrative Combat
-- 2020-12-14 — C2 | Episode 56: A Righting of Wrongs — speakers: Lawful Stupid, Narrative Combat
-- 2020-12-07 — C2 | Episode 55: The Hootenanny! — speakers: Lawful Stupid, Narrative Combat
-- 2020-11-30 — Flash in the Pan: The Episode With Patrick Rothfuss — speakers: Patrick Rothfuss Ya, Patrick Rothfuss, DnD Master, Lawful Stupid, Narrative Combat
-- 2020-11-23 — C2 | Episode 54: A Heroes Return — speakers: Lawful Stupid, Narrative Combat
-- 2020-11-16 — C2 | Episode 53: Who's the Captain Now? — speakers: Lawful Stupid, Narrative Combat
-- 2020-11-09 — C2 | Episode 52: The Hounds Take Flight! — speakers: Lawful Stupid, Narrative Combat
-- 2020-11-02 — C2 | Episode 51: Old Friends Old Wounds — speakers: Lawful Stupid, Narrative Combat
-- 2020-11-01 — C2 | Episode 50: Prison Break! — speakers: Lawful Stupid, Narrative Combat
-- 2020-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2020 Part 2 — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2020-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2020 Part 1 — speakers: Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2020-10-19 — C2 | Episode 49: Next Stop, Prison Break — speakers: Lawful Stupid, Narrative Combat
-- 2020-10-12 — C2 | Episode 48: ReIgnite the Flame of Adventure — speakers: Lawful Stupid, Narrative Combat
-- 2020-10-05 — C2 | Episode 47: The Island of Lost Horrors? — speakers: Lawful Stupid, Narrative Combat
-- 2020-09-28 — C2 | Episode 46: Billy Joel and Taru's Grandpa — speakers: Billy Joel, Lawful Stupid, Narrative Combat
-- 2020-09-21 — C2 | Episode 45: Perry's Charm — speakers: Lawful Stupid, Narrative Combat
-- 2020-09-14 — C2 | Episode 44: Pick a Card, Any Card — speakers: Lawful Stupid, Narrative Combat
-- 2020-09-10 — C2 | Episode 43: Enter Davy Jones — speakers: Lawful Stupid, Narrative Combat
-- 2020-08-31 — C2 | Episode 42.5: The Great Parley of Captain Peregrine Tern — speakers: Peregrine Tern, Lawful Stupid, Narrative Combat
+- 2024-03-04 — C4 | Episode 75: Where The Heroes Lay — speakers: Lawful Stupid
+- 2024-02-28 — Talking Stupid | Episode 6 — speakers: Talking Stupid, Lawful Stupid
+- 2024-02-26 — C4 | Episode 74: The Last Resort — speakers: Lawful Stupid
+- 2024-02-19 — C4 | Episode 73: Several Wings And A Prayer — speakers: Lawful Stupid
+- 2024-02-14 — Talking Stupid | Episode 5 — speakers: Talking Stupid, Lawful Stupid
+- 2024-02-12 — C4 | Episode 72: The Wise And The Broken — speakers: Lawful Stupid
+- 2024-02-05 — Talking Stupid | Episode 4 — speakers: Talking Stupid, Lawful Stupid
+- 2024-01-29 — C4 | Episode 71: Gworp Snacks — speakers: Lawful Stupid
+- 2024-01-22 — C4 | Episode 70: One World's Experience — speakers: One World, Lawful Stupid
+- 2024-01-08 — C4 | Episode 69: Another Door Closes — speakers: Lawful Stupid
+- 2024-01-01 — C4 | Episode 68: Wen One Door Opens
+- 2023-12-25 — C4 | Episode 67: Reflections In Time — speakers: Lawful Stupid
+- 2023-12-18 — C4 | Episode 66: Don't Go Chasing Waterfalls — speakers: Lawful Stupid
+- 2023-12-11 — C4 | Episode 65: The Early Bird Gets The Worm — speakers: Lawful Stupid
+- 2023-12-04 — C4 | Episode 64: A Deal's A Deal — speakers: Lawful Stupid
+- 2023-11-27 — C4 | Episode 63: Sisterhood — speakers: Lawful Stupid
+- 2023-11-20 — C4 | Episode 62: Is Grandma Home? — speakers: Grandma Home, Lawful Stupid
+- 2023-11-13 — C4 | Episode 61: Along For The Ride — speakers: Lawful Stupid
+- 2023-11-06 — C4 | Episode 60: Junk Juice — speakers: Lawful Stupid
+- 2023-10-30 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2023 (Part 2) — speakers: Uncle Shainsaw, Lawful Stupid
+- 2023-10-23 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2023 (Part 1) — speakers: Uncle Shainsaw, Lawful Stupid
+- 2023-10-16 — C4 | Episode 59: Nir or Far — speakers: Lawful Stupid
+- 2023-10-09 — C4 | Episode 58: The Red Roost — speakers: Lawful Stupid
+- 2023-10-02 — C4 | Episode 57: Heart of the Dragon — speakers: Lawful Stupid
+- 2023-09-25 — C4 | Episode 56: Enter The Inferno Sage! — speakers: Lawful Stupid
+- 2023-09-18 — C4 | Episode 55: Little Bit of Both — speakers: Lawful Stupid
+- 2023-09-11 — C4 | Episode 54: Welcome to Gaia — speakers: Lawful Stupid
+- 2023-09-03 — C4 | Episode 53: Osiris — speakers: Lawful Stupid
+- 2023-08-28 — C4 | Episode 52: Drake — speakers: Lawful Stupid
+- 2023-08-21 — C4 | Episode 51: TIME LORD???? — speakers: Lawful Stupid
+- 2023-08-14 — Talking Stupid | Episode 3 — speakers: Talking Stupid
+- 2023-08-07 — C4 | Episode 50: The Test Of Time — speakers: Lawful Stupid
+- 2023-07-31 — C4 | Episode 49: What Time Is It? — speakers: Lawful Stupid
+- 2023-07-24 — C4 | Episode 48: Darling, Out Of Time — speakers: Lawful Stupid
+- 2023-07-17 — C4 | Episode 47: The Great Cube Bro — speakers: Lawful Stupid
+- 2023-07-10 — C4 | Episode 46: Take Our Time — speakers: Lawful Stupid
+- 2023-07-03 — C4 | Episode 45: Smooch Rebate, Upcasted — speakers: Smooch Rebate, Lawful Stupid
+- 2023-06-26 — C4 | Episode 44: Pop To Pop — speakers: Lawful Stupid
+- 2023-06-23 — Talking Stupid | Episode 2 — speakers: Talking Stupid, Lawful Stupid
+- 2023-06-19 — C4 | Episode 43: Not Visitor Friendly — speakers: Lawful Stupid
+- 2023-06-12 — C4 | Episode 42: Smooch Rebate — speakers: Smooch Rebate, Lawful Stupid
+- 2023-06-05 — C4 | Episode 41: The Corridoors — speakers: Lawful Stupid
+- 2023-05-29 — C4 | Episode 40: Tastes Like Pennies — speakers: Lawful Stupid
+- 2023-05-22 — Talking Stupid | Episode 1 — speakers: Talking Stupid, Lawful Stupid
+- 2023-05-15 — C4 | Episode 39: Welcome To World's End — speakers: Lawful Stupid
+- 2023-05-08 — C4 | Episode 38: TukTuk Martyr — speakers: Lawful Stupid
+- 2023-05-01 — C4 | Episode 37: Who's that Gyosbuom? — speakers: Lawful Stupid
+- 2023-04-24 — C4 | Episode 36: Welcome to the Jungle — speakers: Lawful Stupid
+- 2023-04-17 — C4 | Episode 35: Bisket and Daisies — speakers: Lawful Stupid
+- 2023-04-10 — C4 | Episode 34: A Derringer Day — speakers: Lawful Stupid
+- 2023-04-03 — C4 | Episode 33: Live by the Nom, Die by the Nom — speakers: Lawful Stupid
+- 2023-03-27 — C4 | Episode 32: Savage Skies — speakers: Lawful Stupid
+- 2023-03-20 — C4 | Episode 31: The Fool’s Lullaby — speakers: Lawful Stupid
+- 2023-03-13 — C4 | Episode 30: Enter Pol Barro — speakers: Pol Barro, Lawful Stupid
+- 2023-03-06 — C4 | Patron Interlude: Tricky Doors Part 3 — speakers: Patron Interlude
+- 2023-02-27 — C4 | Patron Interlude: Tricky Doors Part 2 — speakers: Patron Interlude
+- 2023-02-20 — C4 | Patron Interlude: Tricky Doors Part 1 — speakers: Patron Interlude
+- 2023-02-13 — C4 | Episode 29: It's Past Expiration Date — speakers: Lawful Stupid
+- 2023-01-30 — C4 | Episode 28: Cassiel's Concerto — speakers: Lawful Stupid
+- 2023-01-23 — C4 | Episode 27: Smile! — speakers: Lawful Stupid
+- 2023-01-09 — USTW Presents: Gerblin Quest Part 2
+- 2023-01-02 — USTW Presents: Gerblin Quest Part 1
+- 2022-12-19 — C4 | Episode 26: Stank Air — speakers: Lawful Stupid
+- 2022-12-12 — C4 | Episode 25: To New Friends And Family — speakers: Lawful Stupid
+- 2022-12-05 — C4 | Episode 24: TukTuk Farewell — speakers: TukTuk Farewell
+- 2022-11-28 — C4 | Episode 23: Definitely Over Sixteen — speakers: Derringer Fam
+- 2022-11-21 — C4 | Episode 22: Is That A Mouse In Your Pocket Or Are You Just Happy To See Me? — speakers: Lawful Stupid
+- 2022-11-14 — C4 | Episode 21: A Weird Day At The Office — speakers: Lawful Stupid
+- 2022-11-07 — C4 | Episode 20: Gyosbuom to Meet You — speakers: Lawful Stupid
+- 2022-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2022 — speakers: Uncle Shainsaw, Buttholes Beware, Uncle Shai
+- 2022-10-24 — C4 | Episode 19: Saying Goodbye — speakers: Lawful Stupid
+- 2022-10-17 — C4 | Episode 18: Geriatric Conclusions — speakers: Lawful Stupid
+- 2022-10-10 — C4 | Episode 17: Blood and Tears — speakers: Lawful Stupid
+- 2022-10-03 — C4 | Episode 16: Cato, Reboots — speakers: Lawful Stupid
+- 2022-09-26 — C4 | Episode 15: A Song of Loss — speakers: Lawful Stupid
+- 2022-09-19 — C4 | Episode 14: Qiojib — speakers: Lawful Stupid
+- 2022-09-12 — C4 | Episode 13: Tweet Tweet MFer — speakers: Lawful Stupid
+- 2022-09-05 — C4 | Episode 12: We Venture Forth
+- 2022-08-29 — C4 | Episode 11: Time to See a Man About a Horse
+- 2022-08-22 — C4 | Episode 10: New Havenholde — speakers: New Havenholde
+- 2022-08-15 — C4 | Episode 9: Sugar and Spice Take the Stage — speakers: Lawful Stupid
+- 2022-08-08 — C4 | Episode 8: A Business Proposition — speakers: All means necessary
+- 2022-08-01 — C4 | Episode 7: Frontier Law — speakers: Frontier Law
+- 2022-07-24 — C4 | Episode 6: The Road to New Havenholde — speakers: New Havenholde
+- 2022-07-18 — C4 | Episode 5: The Journey Begins
+- 2022-07-11 — C4 | Episode 4: Prineth Proper — speakers: Prineth Proper
+- 2022-07-04 — C4 | Episode 3: Welcome to Prineth — speakers: Prineth Prineth
+- 2022-06-27 — C4 | Episode 2: No I Shunt — speakers: Lawful Stupid
+- 2022-06-20 — C4 | Episode 1: Welcome to Agos — speakers: Agos Welcome
+- 2022-06-13 — Campaign 4 Character Intro | Darling played by Abon — speakers: Character Intro, Abon Welcome, Exploration Cam
+- 2022-06-06 — Campaign 4 Character Intro | Gustum played by Shainsaw
+- 2022-05-30 — Campaign 4 Character Intro | Cato played by Devan
+- 2022-05-22 — Campaign 3 QNA — speakers: Lawful Stupid
+- 2022-05-09 — C3 Episode 65: Endgame
+- 2022-05-02 — C3 Episode 64: War is Coming
+- 2022-04-25 — C3 Episode 63: Open Sesame — speakers: Lawful Stupid
+- 2022-04-18 — C3 Episode 62: Bonercycle
+- 2022-04-11 — C3 Episode 61: General Fleggris
+- 2022-04-04 — C3 Episode 60: Reveals
+- 2022-03-28 — C3 Episode 59: KNG Homecoming — speakers: Kng Homecoming William
+- 2022-03-21 — C3 Episode 58: Boxers or Debriefs — speakers: Lawful Stupid
+- 2022-03-14 — C3 Episode 57: Susan and Tuscany — speakers: Lawful Stupid
+- 2022-03-07 — C3 Episode 56: We Were Never Here
+- 2022-02-28 — C3 Episode 55: We've Made a Giant Mess
+- 2022-02-21 — C3 Episode 54: Meat Shield — speakers: Lawful Stupid
+- 2022-02-14 — C3 Episode 53: Three Horse Town — speakers: Lawful Stupid
+- 2022-02-07 — C3 Episode 52: Back on Target — speakers: Lawful Stupid
+- 2022-01-31 — C3 Episode 51: Twins — speakers: Lawful Stupid
+- 2022-01-24 — C3 Episode 50: Hotwire the Megalos — speakers: Lawful Stupid
+- 2022-01-17 — C3 Episode 49: Rainbow Scale Awakens
+- 2022-01-10 — C3 Episode 48: We Find the Defendant... — speakers: Lawful Stupid
+- 2022-01-03 — C3 Episode 47: Witness Search
+- 2021-12-27 — C3 Episode 46: Represent
+- 2021-12-20 — C3 Episode 45: Another Guard Loses His Pants
+- 2021-12-13 — C3 Episode 44: Hit Em' Where Eshe Split Em'
+- 2021-12-06 — C3 Episode 43: Sun-Elf City
+- 2021-11-29 — C3 Episode 42: Fire in Your Eyes — speakers: Lawful Stupid
+- 2021-11-22 — C3 Episode 41: Let's Make A Death Deal — speakers: Lawful Stupid
+- 2021-11-15 — C3 Episode 40: Off the Beaten Path — speakers: Lawful Stupid
+- 2021-11-08 — C3 Episode 39: Beast of Mappelly
+- 2021-11-01 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2021 Part 2 — speakers: Uncle Shainsaw, Uncle Shai
+- 2021-11-01 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2021 Part 1 — speakers: Uncle Shainsaw, Uncle Shai
+- 2021-10-25 — C3 Episode 38: Show Us The Way
+- 2021-10-18 — C3 Episode 37: Family Reunion
+- 2021-10-11 — C3 Episode 36: New Lease on Life
+- 2021-10-04 — C3 Episode 35: Into the Midnight Meadow
+- 2021-09-27 — C3 Episode 34: Big Giant Crank
+- 2021-09-25 — Lawful Stupid 's Community Spotlight: Douglas Cole of Gaming Ballistic — speakers: Lawful Stupid, Douglas Cole, Viking Mar
+- 2021-09-20 — C3 Episode 33: Haven Family Jewels
+- 2021-09-13 — C3 Episode 32: B's Family Trees
+- 2021-09-06 — C3 Episode 31: Hello Darkness, My Old Friend
+- 2021-08-30 — C3 Episode 30 : Stand Your Ground
+- 2021-08-23 — C3 Episode 29: Train Gain
+- 2021-08-16 — C3 Episode 28: Livin' On the Edge
+- 2021-08-09 — C3 Episode 27: Mappelly Bound — speakers: Mappelly Bound
+- 2021-08-09 — Campaign 3 Recap Episodes 1-26
+- 2021-08-01 — C3 Episode 26: Revelations
+- 2021-07-26 — C3 Episode 25 - Man In High Tower
+- 2021-07-19 — C3 Episode 24 - Confessions
+- 2021-07-12 — C3 Episode 23 - The Jig is Up — speakers: Lawful Stupid
+- 2021-07-05 — C3 Episode 22 - The Path of Questioning
+- 2021-06-28 — C3 Episode 21 - All Aboard!
+- 2021-06-21 — C3 Episode 20 - The Safe House
+- 2021-06-14 — C3 Episode 19 - Into the Maze
+- 2021-06-07 — C3 Episode 18 - Sapphires, Rubies, and Opals Oh My!
+- 2021-05-31 — C3 Episode 17 - Flight of the Chimera
+- 2021-05-24 — C3 Episode 16 - Puzzle, Puzzle, Love, Fight
+- 2021-05-17 — C3 Episode 15 - Dark Ruffalo
+- 2021-05-10 — C3 Episode 14 - Winter Games Bound
+- 2021-05-03 — C3 Episode 13 - Lucien Downtime
+- 2021-04-19 — C3 Episode 12 - William Downtime
+- 2021-04-05 — C3 Episode 11 - Miss B Downtime
+- 2021-03-29 — C3 Episode 10 - Election Day
+- 2021-03-22 — C3 Episode 9 - This Lake Smells Funny
+- 2021-03-15 — C3 Episode 8 - Smor'cs — speakers: Lawful Stupid
+- 2021-03-08 — C3 Episode 7 - Avatar Episode
+- 2021-03-01 — C3 Episode 6 - Insert Tidal Here — speakers: Insert Tidal, Lawful Stupid
+- 2021-02-22 — C3 Episode 5 - Even Flow — speakers: Even Flow, Will Lucien
+- 2021-02-15 — C3 Episode 4 - Enter Joonga
+- 2021-02-08 — C3 Episode 3 - Gravedigger
+- 2021-02-01 — C3 Episode 2 - The Mission Begins — speakers: Mission Begins, Rocky Balboulda
+- 2021-01-25 — C3 Episode 1 - Orientation — speakers: Orientation William
+- 2021-01-24 — Campaign 3 Character Intro | William played by DeWayne
+- 2021-01-23 — Campaign 3 Character Intro | Lucien played by Shainsaw
+- 2021-01-22 — Campaign 3 Character Intro | Miss B played by Abon — speakers: Character Intro, Abon Welcome, Night Guard
+- 2021-01-18 — C2 | Episode 61: Hope and Despair — speakers: Lawful Stupid
+- 2021-01-11 — C2 | Episode 60: The Battle for the Future!
+- 2021-01-04 — C2 | Episode 59: Welcome Home Old Friend — speakers: Welcome Home Old Friend, Lawful St
+- 2020-12-28 — C2 | Episode 58: Spirit Charming — speakers: Lawful Stupid
+- 2020-12-21 — C2 | Episode 57: One with the Trees — speakers: Lawful Stupid
+- 2020-12-14 — C2 | Episode 56: A Righting of Wrongs — speakers: Lawful Stupid
+- 2020-12-07 — C2 | Episode 55: The Hootenanny! — speakers: Lawful Stupid
+- 2020-11-30 — Flash in the Pan: The Episode With Patrick Rothfuss — speakers: Patrick Rothfuss Ya, Patrick Rothfuss, DnD Master
+- 2020-11-23 — C2 | Episode 54: A Heroes Return
+- 2020-11-16 — C2 | Episode 53: Who's the Captain Now? — speakers: Captain Now, Lawful Stupi
+- 2020-11-09 — C2 | Episode 52: The Hounds Take Flight!
+- 2020-11-02 — C2 | Episode 51: Old Friends Old Wounds — speakers: Old Friends Old Wounds
+- 2020-11-01 — C2 | Episode 50: Prison Break! — speakers: Lawful Stupid
+- 2020-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2020 Part 2 — speakers: Uncle Shainsaw
+- 2020-10-31 — Uncle Shainsaw's Tabletop Workshop Presents: Final Girl 2020 Part 1 — speakers: Uncle Shainsaw
+- 2020-10-19 — C2 | Episode 49: Next Stop, Prison Break — speakers: Next Stop
+- 2020-10-12 — C2 | Episode 48: ReIgnite the Flame of Adventure
+- 2020-10-05 — C2 | Episode 47: The Island of Lost Horrors? — speakers: Lost Horrors
+- 2020-09-28 — C2 | Episode 46: Billy Joel and Taru's Grandpa — speakers: Billy Joel
+- 2020-09-21 — C2 | Episode 45: Perry's Charm
+- 2020-09-14 — C2 | Episode 44: Pick a Card, Any Card
+- 2020-09-10 — C2 | Episode 43: Enter Davy Jones
+- 2020-08-31 — C2 | Episode 42.5: The Great Parley of Captain Peregrine Tern — speakers: Peregrine Tern, Lawful Stupid
 - 2020-08-28 — Lawful Stupid 's Community Spotlight: Tom Knauss — speakers: Lawful Stupid, Tom Knauss, Lawful Stupids Community
-- 2020-08-24 — C2 | Episode 42: Operation: Wait, You Did What? — speakers: Lawful Stupid, Narrative Combat
-- 2020-08-17 — C2 | Episode 41: Operation: Rescue the Maiden — speakers: Lawful Stupid, Narrative Combat
-- 2020-08-10 — C2 | Episode 40: High Stakes — speakers: Lawful Stupid, Narrative Combat
-- 2020-08-03 — C2 | Episode 39: Gambling Problem — speakers: Lawful Stupid, Narrative Combat
-- 2020-07-27 — C2 | Episode 38: As Long As You Have Something to Bet — speakers: Lawful Stupid, Narrative Combat
-- 2020-07-20 — C2 | Episode 37: Fancy Pants — speakers: Lawful Stupid, Narrative Combat
-- 2020-07-13 — C2 | Episode 36: Our Cinderella Story — speakers: Cinderella Story, Lawful Stupid, Narrative Combat
-- 2020-07-06 — C2 | Episode 35: The Heroes of Tensig — speakers: Lawful Stupid, Narrative Combat
-- 2020-06-29 — C2 | Episode 34: The Chains That Bind — speakers: Lawful Stupid, Narrative Combat
-- 2020-06-22 — C2 | Episode 33: Garrett's New Friend — speakers: Lawful Stupid, Narrative Combat
-- 2020-06-15 — C2 | Episode 32: Stairway to Alchemical Heaven — speakers: Lawful Stupid, Narrative Combat
-- 2020-06-08 — C2 | Episode 31: Please Make a Wisdom Saving Throw — speakers: Lawful Stupid, Narrative Combat
-- 2020-06-01 — C2 | Episode 30: The Convention of Tensig — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-25 — C2 | Episode 29: Oh Captain, My Captain! — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-22 — Campaign 2: Questions and Answers So Far — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-18 — C2 | Episode 28: Misplaced on the Menagerie — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-11 — C2 | Episode 27: Bacon Bit — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-04 — C2 | Episode 26: Shop Stops — speakers: Lawful Stupid, Narrative Combat
-- 2020-05-01 — Bonus: Interview with Child's Play Charity Org — speakers: Erick Landin, Travis Eriksen, Kirsten Carlile, Lawful Stupid
-- 2020-04-27 — C2 | Episode 25: The Death Ray — speakers: Lawful Stupid, Narrative Combat
-- 2020-04-20 — C2 | Episode 24: I Brought You a Blanket — speakers: Lawful Stupid, Narrative Combat
-- 2020-04-13 — C2 | Episode 23: Kobold Fried Chicken — speakers: Kobold Fried Chicken, Lawful Stupid, Narrative Combat
-- 2020-04-05 — C2 | The Things We Sing to Ourselves: Skysong’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2020-03-30 — C2 | The Things We Want Back: Garrett’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2020-03-23 — C2 | Episode 22: New Challengers Approaching: Barrett and Garett — speakers: Garett Ozlo, Lawful Stupid, Narrative Combat
-- 2020-03-16 — C2 | Episode 21 Part 2: The Story of the Courageous Lion, The Wolf, and The Jackal. — speakers: Lawful Stupid, Narrative Combat
-- 2020-03-09 — C2 | Episode 21: The Story of the Salty Sea Dog, the Lizard, and the Lady — speakers: Lawful Stupid, Narrative Combat
-- 2020-03-02 — C2 | Episode 20: Operation Bated Breath — speakers: Lawful Stupid, Narrative Combat
-- 2020-02-25 — C2 | Episode 19: Alpha Team Go! — speakers: Lawful Stupid, Narrative Combat
-- 2020-02-17 — C2 | Episode 18: Finnegan's Act of Finality — speakers: Lawful Stupid, Narrative Combat
-- 2020-02-10 — C2 | Episode 17: A Walk in the Woods — speakers: Lawful Stupid, Narrative Combat
-- 2020-02-03 — C2 | Episode 16: The Rise of Ryder — speakers: Lawful Stupid, Narrative Combat
-- 2020-01-27 — C2 | Episode 15: Wanted: Dead or Alive — speakers: Lawful Stupid, Narrative Combat
-- 2020-01-20 — C2 | Episode 14: You Crossed a Line — speakers: Lawful Stupid, Narrative Combat
-- 2020-01-12 — Uncle Shainsaw's Tabletop Workshop Production of...LAZERS and FEELINGZ — speakers: Uncle Shainsaw, Scott Shainsaw, Lawful Stupid, Narrative Combat
-- 2020-01-06 — C2 | Episode 13: Dead Men, Tell No Tales — speakers: Dead Men, Lawful Stupid, Narrative Combat
-- 2019-12-30 — C2 | Episode 12: Tavern Tour of Tangia — speakers: Lawful Stupid, Narrative Combat
-- 2019-12-23 — Merry Findahlmas 2019 — speakers: Merry Findahlmas, Lawful Stupid, Narrative Combat
-- 2019-12-16 — C2 | Episode 11: Take to Tangia By Way of the Sea! — speakers: Lawful Stupid, Narrative Combat
-- 2019-12-09 — C2 | Episode 10: Shore Leave - Perry's Gifts — speakers: Lawful Stupid, Narrative Combat
-- 2019-12-02 — C2 | Episode 9: Salt Water Baptism — speakers: Lawful Stupid, Narrative Combat
-- 2019-11-24 — C2 | Episode 8: Some Things Don't Float — speakers: Lawful Stupid, Narrative Combat
-- 2019-11-18 — C2 | Episode 7: Delmor's Demise — speakers: Lawful Stupid, Narrative Combat
-- 2019-11-11 — C2 | Episode 6: The Flight of Finnegan — speakers: Lawful Stupid, Narrative Combat
-- 2019-11-04 — C2 | Episode 5: Its All About How You Say It — speakers: Lawful Stupid, Narrative Combat
-- 2019-10-28 — Uncle Shainsaw's Tabletop Workshop Production of...Final Gurl 2019! — speakers: Uncle Shainsaw, Lawful Stupid, Scott Shainsaw, Narrative Combat
-- 2019-10-21 — C2 | Episode 4: Follow your Nose! — speakers: Lawful Stupid, Narrative Combat
-- 2019-10-14 — C2 | Episode 3: Volca-Oh-No! — speakers: Lawful Stupid, Narrative Combat
-- 2019-10-07 — C2 | Episode 2: A Captain, his Two Officers, and a Talking Lizard. — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-30 — C2 | Episode 1: Fate’s Compass — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-28 — C2 | The Things We Sacrificed: Delmor’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-27 — C2 | The Things We May Never Find Again: Ozlo’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-26 — C2 | The Things We Left Behind: Finnegan’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-25 — C2 | The Things We Lost: Peregrine’s Prologue — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-16 — Campaign 1 Q&A: The End of an Era — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-09 — Campaign 1 Season 2 Episode Bonus Episode 32.5 | Heroes... Come out to plaaaaay — speakers: Lawful Stupid, Narrative Combat
-- 2019-09-02 — Campaign 1 Season 2 Episode Bonus Episode 31.5 | There's a New Gang in Town — speakers: Lawful Stupid, Narrative Combat
-- 2019-08-27 — Campaign 1 Season 2 Episode 36 | Homebound — speakers: Lawful Stupid, Narrative Combat
-- 2019-08-19 — Campaign 1 Season 2 Episode 35 | All That is Left, is Silence — speakers: Lawful Stupid, Narrative Combat
-- 2019-08-12 — Campaign 1 Season 2 Episode 34 | Bellumare's Return — speakers: Lawful Stupid, Narrative Combat
-- 2019-08-05 — Campaign 1 Season 2 Episode 33 | If I gotta go, so you gotta go. So be it. — speakers: Lawful Stupid, Narrative Combat
-- 2019-07-29 — Campaign 1 Season 2 Episode 32 | Of All the Caverns in all of Goarahn, We Walked into His — speakers: Lawful Stupid, Narrative Combat
-- 2019-07-22 — Campaign 1 Season 2 Episode 31 | Beasts of Burden — speakers: Lawful Stupid, Narrative Combat
-- 2019-07-17 — BONUS CONTENT: Dralacon 2019 Live Show — speakers: Dnd Grandma, dralacon com, Lawful Stupid, Narrative Combat
-- 2019-07-17 — BONUS CONTENT: Dralacon 2019 - Into the Podcast-Verse — speakers: Oneshot Onslaught, dralacon com, Lawful Stupid, Narrative Combat
-- 2019-07-15 — Campaign 1 Season 2 Episode 30 | Sparkle in Your Eye — speakers: Lawful Stupid, Narrative Combat
-- 2019-07-08 — Campaign 1 Season 2 Episode 29 | Back to the Sunburnt Penguin! — speakers: Lawful Stupid, Narrative Combat
-- 2019-07-01 — Campaign 1 Season 2 Episode 28 | Atlas Didn't See it Coming — speakers: Lawful Stupid
-- 2019-06-24 — Campaign 1 Season 2 Episode 27 | A Meeting, A Parting — speakers: Lawful Stupid, Narrative Combat
-- 2019-06-17 — Campaign 1 Season 2 Episode 26 | Inside the Bubble — speakers: Lawful Stupid, Narrative Combat
-- 2019-06-10 — Campaign 1 Season 2 Episode 25 | The Roads not Taken — speakers: Lawful Stupid, Narrative Combat
-- 2019-06-03 — Campaign 1 Season 2 Episode 24 | Cultural Barriers — speakers: Lawful Stupid, Narrative Combat
-- 2019-05-27 — Campaign 1 Season 2 Episode 23 | A Serpent Bites Its Tail — speakers: Lawful Stupid, Narrative Combat
-- 2019-05-20 — Campaign 1 Season 2 Episode 22 | The Fresh Prince and Silence Heir — speakers: Silence Heir, Lawful Stupid, Narrative Combat
-- 2019-05-13 — Campaign 1 Season 2 Episode 21 | Silencian Shendo's Vacation! — speakers: Lawful Stupid, Narrative Combat
-- 2019-05-06 — Campaign 1 Season 2 Episode 20 | Tiefling Water for Everyone — speakers: Lawful Stupid, Narrative Combat
-- 2019-04-29 — Campaign 1 Season 2 Episode 19 | Onward to Silence — speakers: Lawful Stupid, Narrative Combat
-- 2019-04-22 — Campaign 1 Season 2 Episode 18 | The Will of Wen, The Scar of Etus, and Andran's Grandson — speakers: Lawful Stupid, Narrative Combat
-- 2019-04-15 — Campaign 1 Season 2 Episode 17 | Peak Performance — speakers: Lawful Stupid, Narrative Combat
-- 2019-04-08 — Campaign 1 Season 2 Episode 16 | Whatever You Do, Don't Turn into a Dragon — speakers: Lawful Stupid, Narrative Combat
-- 2019-04-01 — Campaign 1 Season 2 Episode 15 | We Have Ascended into Something More... — speakers: Lawful Stupid, Narrative Combat
-- 2019-03-25 — Campaign 1 Season 2 Episode 14 | The Dungeon Mom, The Dragon, and The Flying Orc — speakers: Lawful Stupid, Narrative Combat
-- 2019-03-18 — Campaign 1 Season 2 Episode 13 | You Shouldn't Be Here... — speakers: Lawful Stupid, Narrative Combat
-- 2019-03-11 — Campaign 1 Season 2 Episode 12 | Some Things Will Always Be Broken... — speakers: Lawful Stupid, Narrative Combat
-- 2019-03-04 — Campaign 1 Season 2 Episode 11 | Your Choices Have Consequences Boys — speakers: Lawful Stupid, Narrative Combat
-- 2019-02-25 — Campaign 1 Season 2 Episode 10 | Row Row Your Boat | Part 2 — speakers: Lawful Stupid, Narrative Combat
-- 2019-02-18 — Campaign 1 Season 2 Episode 10 | Row Row Your Boat | Part 1 — speakers: Lawful Stupid, Narrative Combat
-- 2019-02-11 — Campaign 1 Season 2 Episode 9 | We All Have Our Demons — speakers: Lawful Stupid, Narrative Combat
-- 2019-02-04 — Campaign 1 Season 2 Episode 8 | We Are On An Important Diplomatic Mission — speakers: Lawful Stupid, Narrative Combat
-- 2019-01-28 — Campaign 1 Season 2 Episode 7 | The Scarlet Fox — speakers: Lawful Stupid, Narrative Combat
-- 2019-01-21 — Campaign 1 Season 2 Episode 6 | Warm Ging Ale — speakers: Warm Ging Ale Kristoff, Lawful Stupid, Narrative Combat
-- 2019-01-14 — Campaign 1 Season 2 Episode 5 | I'm sorry, I was wrong Atlas. — speakers: Lawful Stupid, Narrative Combat
-- 2019-01-07 — Campaign 1 Season 2 Episode 4 | Some Things Are Better Left Forgotten... — speakers: Lawful Stupid Patron, Lawful Stupid, Narrative Combat
-- 2018-12-31 — Campaign 1 Season 2 Episode 3 | I'm Sorry, You're A What? — speakers: Abon Daythorn, Lawful Stupid, Narrative Combat
-- 2018-12-25 — Merry Findahlmas 2018 — speakers: Merry Findahlmas, Carter Svan, Lawful Stupid, Narrative Combat
-- 2018-12-24 — Campaign 1 Season 2 Episode 2 | Some Things You Can't Take Back... — speakers: Lawful Stupid, Narrative Combat
-- 2018-12-17 — Campaign 1 Season 2 Episode 1 | Reunions and Regrets — speakers: Lawful Stupid, Narrative Combat
-- 2018-12-10 — Campaign 1 Season 1 Episode 47 | Wolf Pack Time! — speakers: Wolf Pack Time, Lawful Stupid, Narrative Combat
-- 2018-12-03 — Campaign 1 Season 1 Episode 46 | Goarahn Goes on... — speakers: Lawful Stupid, Narrative Combat
-- 2018-11-26 — Campaign 1 Season 1 Episode 45 | Atlas' Epilogue — speakers: Lawful Stupid, Narrative Combat
-- 2018-11-19 — Campaign 1 Season 1 Episode 44 | Kristoff's Epilogue — speakers: Lawful Stupid, Narrative Combat
-- 2018-11-18 — Campaign 1 Season 1 Episode 45.5 | The Task Ahead — speakers: Whispr Wull, Lawful Stupid, Narrative Combat
-- 2018-11-12 — Campaign 1 Season 1 Episode 43 | Rowan's Epilogue — speakers: Lawful Stupid, Narrative Combat
-- 2018-11-05 — Campaign 1 Season 1 Episode 42 | Griffo Takes the Stage Part 2! — speakers: Lawful Stupid, Narrative Combat
-- 2018-11-04 — Campaign 1 Season 1 Episode 41 | Griffo Takes the Stage! — speakers: Lawful Stupid, Narrative Combat
-- 2018-10-31 — Lawful Stupid Presents: An Uncle Shainsaw's Tabletop Workshop Production of...Final Gurl! — speakers: Lawful Stupid Presents, Scott Shainsaw, Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2018-10-22 — Lawful Stupid Presents: An Uncle Shainsaw's Tabletop Workshop Production of...SPOOPY MANSTERS — speakers: Lawful Stupid Presents, Scott Shainsaw, Uncle Shainsaw, Lawful Stupid, Narrative Combat
-- 2018-10-15 — Campaign 1 Season 1 Episode 40 | You Make Your Own Way — speakers: Lawful Stupid, Narrative Combat
-- 2018-10-08 — Season 1 Episode 39 | The Heart of Andran — speakers: Lawful Stupid, Narrative Combat
-- 2018-10-06 — BONUS CONTENT: Who's Lawful Stupid Anyway | Episode 2 — speakers: Lawful Stupid Anyway, Lawful Stupid, Cantrip Candles, Narrative Combat
-- 2018-10-01 — Campaign 1 Season 1 Episode 38 | I Think I Broke It... — speakers: Lawful Stupid, Cantrip Candles, Narrative Combat
-- 2018-09-26 — BONUS CONTENT: Who's Lawful Stupid Anyway | Episode 1 — speakers: Lawful Stupid Anyway, Patrick Rothfuss, Narrative Combat
-- 2018-09-24 — Campaign 1 Season 1 Episode 37 | When You Close One Door... — speakers: Lawful Stupid, Narrative Combat
-- 2018-09-17 — Campaign 1 Season 1 Episode 36 | It's Hamma' Time! — speakers: Lawful Stupid, Narrative Combat
-- 2018-09-10 — Campaign 1 Season 1 Episode 35 | Closure — speakers: Lawful Stupid, Narrative Combat
-- 2018-09-03 — Campaign 1 Season 1 Episode 34 | A Letter to Home — speakers: Lawful Stupid, Narrative Combat
-- 2018-08-31 — The Boys Excellent Q&A adventure Take 2 — speakers: Lawful Stupid, Narrative Combat
-- 2018-08-28 — Campaign 1 Season 1 Episode 33.5 | A Bunch of Not Orcs, Not Dwarfs, and Not Tieflings — speakers: Lawful Stupid, Narrative Combat
-- 2018-08-27 — Campaign 1 Season 1 Episode 33 | Steward Little — speakers: Steward Little, Lawful Stupid, Narrative Combat
-- 2018-08-20 — Campaign 1 Season 1 Episode 32 | The Arcane Torrent — speakers: Lawful Stupid, Narrative Combat
-- 2018-08-13 — Campaign 1 Season 1 Episode 31 | Gods and Guns — speakers: Lawful Stupid, Narrative Combat
-- 2018-08-06 — Campaign 1 Season 1 Episode 30 | Get Well Soon — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-30 — Campaign 1 Season 1 Episode 29 | Remember the Key — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-28 — Campaign 1 Season 1 Episode 28.75 | Atlas' Rememberance — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-28 — Campaign 1 Season 1 Episode 28.5 | Kristoff's Lament — speakers: Kristoff Shendo, Lawful Stupid, Narrative Combat
-- 2018-07-27 — Campaign 1 Season 1 Episode 28.25 | Rowan's Pact — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-23 — Campaign 1 Season 1 Episode 28 | Belly of the Beast — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-16 — Campaign 1 Season 1 Episode 27 | Strength in Numbers — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-09 — Campaign 1 Season 1 Episode 26 | The Fog of War — speakers: Lawful Stupid, Narrative Combat
-- 2018-07-02 — Campaign 1 Season 1 Episode 25 | Forge of Our Fathers — speakers: Lawful Stupid, Narrative Combat
-- 2018-06-25 — Campaign 1 Season 1 Episode 24 | Homecoming (Part 2) — speakers: Lawful Stupid, Narrative Combat
-- 2018-06-18 — Campaign 1 Season 1 Episode 23 | Homecoming (Part 1) — speakers: Lawful Stupid Comic, Lawful Stupid, Narrative Combat
-- 2018-06-11 — Campaign 1 Season 1 Episode 22 | It's So Hard to Say Goodbye — speakers: Arcanist Quincy, Lawful Stupid, Narrative Combat
-- 2018-06-04 — Campaign 1 Season 1 Episode 21 | At the Door of the Nocore — speakers: Nerdsmith Nerdsmith, Lawful Stupid, Narrative Combat
-- 2018-05-28 — Recap of Episodes 1-20 — speakers: Lawful Stupid, Narrative Combat
-- 2018-05-21 — Campaign 1 Season 1 Episode 20 | Kobolds at Castle Capel — speakers: Lawful Stupid, Narrative Combat
-- 2018-05-14 — Campaign 1 Season 1 Episode 19 | Guildy as Charged — speakers: Lawful Stupid, Narrative Combat
-- 2018-05-07 — Campaign 1 Season 1 Episode 18 | Seriously, LInda! — speakers: Lawful Stupid, Narrative Combat
-- 2018-04-29 — Campaign 1 Season 1 Episode 17 | Beyond the Gates of Eurie — speakers: Lawful Stupid, Narrative Combat
-- 2018-04-23 — Campaign 1 Season 1 Episode 16 | Grave Circumstances — speakers: Lawful Stupid, Narrative Combat
-- 2018-04-16 — Campaign 1 Season 1 Episode 15 | Don't Trust the Visions — speakers: Alarya Foxwood, Lawful Stupid, Narrative Combat
-- 2018-04-09 — Campaign 1 Season 1 Episode 14 | A Bath and Some Biscuits — speakers: Lady Tressel, Lawful Stupid, Narrative Combat
-- 2018-03-26 — Campaign 1 Season 1 Episode 13 | Fire and Ice, Should've Thought Twice — speakers: Lawful Stupid, Narrative Combat
-- 2018-03-12 — Campaign 1 Season 1 Episode 12 | Go Ahead, Take the Posters Down — speakers: Lawful Stupid, Narrative Combat
-- 2018-02-26 — Campaign 1 Season 1 Episode 11 | The Ballad of Stan — speakers: Lady Tressel, Lawful Stupid, Narrative Combat
-- 2018-02-12 — Campaign 1 Season 1 Episode 10 | In a Town Down by the River — speakers: Lawful Stupid, Narrative Combat
-- 2018-01-30 — Campaign 1 Season 1 Episode 9 | Stranger Danger — speakers: Stranger Danger, Lawful Stupid, Narrative Combat
-- 2018-01-22 — Lawful Live Episode 1 | Take 17 — speakers: Lawful Stupid, Narrative Combat
-- 2018-01-08 — Campaign 1 Season 1 Episode 8 | Domo Arigato Mr. Roboto — speakers: Lawful Stupid, Narrative Combat
-- 2018-01-01 — Campaign 1 Season 1 Episode 7 | Tinker Hell — speakers: Lawful Stupid, Narrative Combat
-- 2017-12-25 — Campaign 1 Season 1 Episode 6 | Findahl the Mad! — speakers: Lawful Stupid, Narrative Combat
-- 2017-12-18 — Campaign 1 Season 1 Episode 5 | The Breakfast Club — speakers: Lawful Stupid, Narrative Combat
-- 2017-12-11 — Campaign 1 Season 1 Episode 4 | Craig's List — speakers: Lawful Stupid, Narrative Combat
-- 2017-12-04 — Campaign 1 Season 1 Episode 3 | Choose a Mystical Item, Any Mystical Item — speakers: Lawful Stupid, Narrative Combat
-- 2017-11-29 — C1 | Season 1 - Episode 2: Attack First Ask Questions Never (Remastered) — speakers: Lawful Stupid, Narrative Combat
-- 2017-11-01 — C1 | Season 1 - Episode 1: The Red Roof Inn (Remastered) — speakers: Lawful Stupid, Narrative Combat
+- 2020-08-24 — C2 | Episode 42: Operation: Wait, You Did What? — speakers: Lawful Stupid, Lawful Stu
+- 2020-08-17 — C2 | Episode 41: Operation: Rescue the Maiden
+- 2020-08-10 — C2 | Episode 40: High Stakes
+- 2020-08-03 — C2 | Episode 39: Gambling Problem — speakers: Gambling Problem Sometimes
+- 2020-07-27 — C2 | Episode 38: As Long As You Have Something to Bet — speakers: Bet Finding, Well Spring
+- 2020-07-20 — C2 | Episode 37: Fancy Pants
+- 2020-07-13 — C2 | Episode 36: Our Cinderella Story — speakers: Cinderella Story
+- 2020-07-06 — C2 | Episode 35: The Heroes of Tensig
+- 2020-06-29 — C2 | Episode 34: The Chains That Bind
+- 2020-06-22 — C2 | Episode 33: Garrett's New Friend
+- 2020-06-15 — C2 | Episode 32: Stairway to Alchemical Heaven — speakers: Alchemical Heaven After
+- 2020-06-08 — C2 | Episode 31: Please Make a Wisdom Saving Throw — speakers: Please Make
+- 2020-06-01 — C2 | Episode 30: The Convention of Tensig
+- 2020-05-25 — C2 | Episode 29: Oh Captain, My Captain!
+- 2020-05-22 — Campaign 2: Questions and Answers So Far
+- 2020-05-18 — C2 | Episode 28: Misplaced on the Menagerie
+- 2020-05-11 — C2 | Episode 27: Bacon Bit — speakers: Bacon Bit Skysong
+- 2020-05-04 — C2 | Episode 26: Shop Stops
+- 2020-05-01 — Bonus: Interview with Child's Play Charity Org — speakers: Erick Landin, Travis Eriksen
+- 2020-04-27 — C2 | Episode 25: The Death Ray
+- 2020-04-20 — C2 | Episode 24: I Brought You a Blanket
+- 2020-04-13 — C2 | Episode 23: Kobold Fried Chicken — speakers: Kobold Fried Chicken
+- 2020-04-05 — C2 | The Things We Sing to Ourselves: Skysong’s Prologue — speakers: Lawful Stu
+- 2020-03-30 — C2 | The Things We Want Back: Garrett’s Prologue — speakers: Lawful St
+- 2020-03-23 — C2 | Episode 22: New Challengers Approaching: Barrett and Garett — speakers: Garett Ozlo
+- 2020-03-16 — C2 | Episode 21 Part 2: The Story of the Courageous Lion, The Wolf, and The Jackal.
+- 2020-03-09 — C2 | Episode 21: The Story of the Salty Sea Dog, the Lizard, and the Lady
+- 2020-03-02 — C2 | Episode 20: Operation Bated Breath
+- 2020-02-25 — C2 | Episode 19: Alpha Team Go!
+- 2020-02-17 — C2 | Episode 18: Finnegan's Act of Finality
+- 2020-02-10 — C2 | Episode 17: A Walk in the Woods
+- 2020-02-03 — C2 | Episode 16: The Rise of Ryder
+- 2020-01-27 — C2 | Episode 15: Wanted: Dead or Alive
+- 2020-01-20 — C2 | Episode 14: You Crossed a Line
+- 2020-01-12 — Uncle Shainsaw's Tabletop Workshop Production of...LAZERS and FEELINGZ — speakers: Uncle Shainsaw
+- 2020-01-06 — C2 | Episode 13: Dead Men, Tell No Tales — speakers: Dead Men
+- 2019-12-30 — C2 | Episode 12: Tavern Tour of Tangia — speakers: Tavern Tour, Tangia Time
+- 2019-12-23 — Merry Findahlmas 2019 — speakers: Merry Findahlmas
+- 2019-12-16 — C2 | Episode 11: Take to Tangia By Way of the Sea!
+- 2019-12-09 — C2 | Episode 10: Shore Leave - Perry's Gifts
+- 2019-12-02 — C2 | Episode 9: Salt Water Baptism
+- 2019-11-24 — C2 | Episode 8: Some Things Don't Float — speakers: Some Things Don, Float Beaten
+- 2019-11-18 — C2 | Episode 7: Delmor's Demise
+- 2019-11-11 — C2 | Episode 6: The Flight of Finnegan
+- 2019-11-04 — C2 | Episode 5: Its All About How You Say It
+- 2019-10-28 — Uncle Shainsaw's Tabletop Workshop Production of...Final Gurl 2019! — speakers: Uncle Shainsaw, Lawful Stupid
+- 2019-10-21 — C2 | Episode 4: Follow your Nose!
+- 2019-10-14 — C2 | Episode 3: Volca-Oh-No!
+- 2019-10-07 — C2 | Episode 2: A Captain, his Two Officers, and a Talking Lizard.
+- 2019-09-30 — C2 | Episode 1: Fate’s Compass — speakers: Misplaced Meridian Menagerie
+- 2019-09-28 — C2 | The Things We Sacrificed: Delmor’s Prologue
+- 2019-09-27 — C2 | The Things We May Never Find Again: Ozlo’s Prologue — speakers: Never Find Again
+- 2019-09-26 — C2 | The Things We Left Behind: Finnegan’s Prologue
+- 2019-09-25 — C2 | The Things We Lost: Peregrine’s Prologue
+- 2019-09-16 — Campaign 1 Q&A: The End of an Era
+- 2019-09-09 — Campaign 1 Season 2 Episode Bonus Episode 32.5 | Heroes... Come out to plaaaaay
+- 2019-09-02 — Campaign 1 Season 2 Episode Bonus Episode 31.5 | There's a New Gang in Town — speakers: New Gang, Patron Velrun, Hateful Four
+- 2019-08-27 — Campaign 1 Season 2 Episode 36 | Homebound
+- 2019-08-19 — Campaign 1 Season 2 Episode 35 | All That is Left, is Silence
+- 2019-08-12 — Campaign 1 Season 2 Episode 34 | Bellumare's Return
+- 2019-08-05 — Campaign 1 Season 2 Episode 33 | If I gotta go, so you gotta go. So be it.
+- 2019-07-29 — Campaign 1 Season 2 Episode 32 | Of All the Caverns in all of Goarahn, We Walked into His — speakers: Origin Door
+- 2019-07-22 — Campaign 1 Season 2 Episode 31 | Beasts of Burden
+- 2019-07-17 — BONUS CONTENT: Dralacon 2019 Live Show
+- 2019-07-17 — BONUS CONTENT: Dralacon 2019 - Into the Podcast-Verse
+- 2019-07-15 — Campaign 1 Season 2 Episode 30 | Sparkle in Your Eye
+- 2019-07-08 — Campaign 1 Season 2 Episode 29 | Back to the Sunburnt Penguin!
+- 2019-07-01 — Campaign 1 Season 2 Episode 28 | Atlas Didn't See it Coming — speakers: Kristoff le
+- 2019-06-24 — Campaign 1 Season 2 Episode 27 | A Meeting, A Parting
+- 2019-06-17 — Campaign 1 Season 2 Episode 26 | Inside the Bubble
+- 2019-06-10 — Campaign 1 Season 2 Episode 25 | The Roads not Taken — speakers: Taken Passing
+- 2019-06-03 — Campaign 1 Season 2 Episode 24 | Cultural Barriers — speakers: Cultural Barriers When
+- 2019-05-27 — Campaign 1 Season 2 Episode 23 | A Serpent Bites Its Tail
+- 2019-05-20 — Campaign 1 Season 2 Episode 22 | The Fresh Prince and Silence Heir — speakers: Silence Heir
+- 2019-05-13 — Campaign 1 Season 2 Episode 21 | Silencian Shendo's Vacation! — speakers: Silencian Shendo
+- 2019-05-06 — Campaign 1 Season 2 Episode 20 | Tiefling Water for Everyone
+- 2019-04-29 — Campaign 1 Season 2 Episode 19 | Onward to Silence
+- 2019-04-22 — Campaign 1 Season 2 Episode 18 | The Will of Wen, The Scar of Etus, and Andran's Grandson
+- 2019-04-15 — Campaign 1 Season 2 Episode 17 | Peak Performance — speakers: Ridgescar Peaks
+- 2019-04-08 — Campaign 1 Season 2 Episode 16 | Whatever You Do, Don't Turn into a Dragon
+- 2019-04-01 — Campaign 1 Season 2 Episode 15 | We Have Ascended into Something More...
+- 2019-03-25 — Campaign 1 Season 2 Episode 14 | The Dungeon Mom, The Dragon, and The Flying Orc — speakers: Lawful Stupid
+- 2019-03-18 — Campaign 1 Season 2 Episode 13 | You Shouldn't Be Here...
+- 2019-03-11 — Campaign 1 Season 2 Episode 12 | Some Things Will Always Be Broken... — speakers: Some Things Will Always
+- 2019-03-04 — Campaign 1 Season 2 Episode 11 | Your Choices Have Consequences Boys
+- 2019-02-25 — Campaign 1 Season 2 Episode 10 | Row Row Your Boat | Part 2 — speakers: Lawful Stupid
+- 2019-02-18 — Campaign 1 Season 2 Episode 10 | Row Row Your Boat | Part 1
+- 2019-02-11 — Campaign 1 Season 2 Episode 9 | We All Have Our Demons
+- 2019-02-04 — Campaign 1 Season 2 Episode 8 | We Are On An Important Diplomatic Mission
+- 2019-01-28 — Campaign 1 Season 2 Episode 7 | The Scarlet Fox
+- 2019-01-21 — Campaign 1 Season 2 Episode 6 | Warm Ging Ale — speakers: Warm Ging Ale Kristoff
+- 2019-01-14 — Campaign 1 Season 2 Episode 5 | I'm sorry, I was wrong Atlas.
+- 2019-01-07 — Campaign 1 Season 2 Episode 4 | Some Things Are Better Left Forgotten... — speakers: Lawful Stupid Patron
+- 2018-12-31 — Campaign 1 Season 2 Episode 3 | I'm Sorry, You're A What? — speakers: Abon Daythorn
+- 2018-12-25 — Merry Findahlmas 2018 — speakers: Merry Findahlmas
+- 2018-12-24 — Campaign 1 Season 2 Episode 2 | Some Things You Can't Take Back...
+- 2018-12-17 — Campaign 1 Season 2 Episode 1 | Reunions and Regrets — speakers: Whispr Wu
+- 2018-12-10 — Campaign 1 Season 1 Episode 47 | Wolf Pack Time! — speakers: Wolf Pack Time
+- 2018-12-03 — Campaign 1 Season 1 Episode 46 | Goarahn Goes on... — speakers: Goarahn Goes
+- 2018-11-26 — Campaign 1 Season 1 Episode 45 | Atlas' Epilogue
+- 2018-11-19 — Campaign 1 Season 1 Episode 44 | Kristoff's Epilogue
+- 2018-11-18 — Campaign 1 Season 1 Episode 45.5 | The Task Ahead — speakers: Whispr Wull
+- 2018-11-12 — Campaign 1 Season 1 Episode 43 | Rowan's Epilogue
+- 2018-11-05 — Campaign 1 Season 1 Episode 42 | Griffo Takes the Stage Part 2!
+- 2018-11-04 — Campaign 1 Season 1 Episode 41 | Griffo Takes the Stage!
+- 2018-10-31 — Lawful Stupid Presents: An Uncle Shainsaw's Tabletop Workshop Production of...Final Gurl! — speakers: Lawful Stupid Presents
+- 2018-10-22 — Lawful Stupid Presents: An Uncle Shainsaw's Tabletop Workshop Production of...SPOOPY MANSTERS — speakers: Lawful Stupid Presents
+- 2018-10-15 — Campaign 1 Season 1 Episode 40 | You Make Your Own Way
+- 2018-10-08 — Season 1 Episode 39 | The Heart of Andran — speakers: Andran Kristoff
+- 2018-10-06 — BONUS CONTENT: Who's Lawful Stupid Anyway | Episode 2 — speakers: Lawful Stupid Anyway, Lawful Stupid
+- 2018-10-01 — Campaign 1 Season 1 Episode 38 | I Think I Broke It...
+- 2018-09-26 — BONUS CONTENT: Who's Lawful Stupid Anyway | Episode 1 — speakers: Lawful Stupid Anyway
+- 2018-09-24 — Campaign 1 Season 1 Episode 37 | When You Close One Door... — speakers: behind them
+- 2018-09-17 — Campaign 1 Season 1 Episode 36 | It's Hamma' Time!
+- 2018-09-10 — Campaign 1 Season 1 Episode 35 | Closure
+- 2018-09-03 — Campaign 1 Season 1 Episode 34 | A Letter to Home
+- 2018-08-31 — The Boys Excellent Q&A adventure Take 2 — speakers: Lawful Stupid
+- 2018-08-28 — Campaign 1 Season 1 Episode 33.5 | A Bunch of Not Orcs, Not Dwarfs, and Not Tieflings — speakers: Lawful Stupid
+- 2018-08-27 — Campaign 1 Season 1 Episode 33 | Steward Little — speakers: Steward Little
+- 2018-08-20 — Campaign 1 Season 1 Episode 32 | The Arcane Torrent
+- 2018-08-13 — Campaign 1 Season 1 Episode 31 | Gods and Guns
+- 2018-08-06 — Campaign 1 Season 1 Episode 30 | Get Well Soon
+- 2018-07-30 — Campaign 1 Season 1 Episode 29 | Remember the Key
+- 2018-07-28 — Campaign 1 Season 1 Episode 28.75 | Atlas' Rememberance
+- 2018-07-28 — Campaign 1 Season 1 Episode 28.5 | Kristoff's Lament
+- 2018-07-27 — Campaign 1 Season 1 Episode 28.25 | Rowan's Pact
+- 2018-07-23 — Campaign 1 Season 1 Episode 28 | Belly of the Beast
+- 2018-07-16 — Campaign 1 Season 1 Episode 27 | Strength in Numbers
+- 2018-07-09 — Campaign 1 Season 1 Episode 26 | The Fog of War
+- 2018-07-02 — Campaign 1 Season 1 Episode 25 | Forge of Our Fathers
+- 2018-06-25 — Campaign 1 Season 1 Episode 24 | Homecoming (Part 2)
+- 2018-06-18 — Campaign 1 Season 1 Episode 23 | Homecoming (Part 1) — speakers: Lawful Stupid Comic
+- 2018-06-11 — Campaign 1 Season 1 Episode 22 | It's So Hard to Say Goodbye
+- 2018-06-04 — Campaign 1 Season 1 Episode 21 | At the Door of the Nocore
+- 2018-05-28 — Recap of Episodes 1-20
+- 2018-05-21 — Campaign 1 Season 1 Episode 20 | Kobolds at Castle Capel — speakers: Castle Capel Lute
+- 2018-05-14 — Campaign 1 Season 1 Episode 19 | Guildy as Charged
+- 2018-05-07 — Campaign 1 Season 1 Episode 18 | Seriously, LInda!
+- 2018-04-29 — Campaign 1 Season 1 Episode 17 | Beyond the Gates of Eurie
+- 2018-04-23 — Campaign 1 Season 1 Episode 16 | Grave Circumstances
+- 2018-04-16 — Campaign 1 Season 1 Episode 15 | Don't Trust the Visions — speakers: Alarya Foxwood
+- 2018-04-09 — Campaign 1 Season 1 Episode 14 | A Bath and Some Biscuits — speakers: Lady Tressel
+- 2018-03-26 — Campaign 1 Season 1 Episode 13 | Fire and Ice, Should've Thought Twice
+- 2018-03-12 — Campaign 1 Season 1 Episode 12 | Go Ahead, Take the Posters Down — speakers: Go Ahead
+- 2018-02-26 — Campaign 1 Season 1 Episode 11 | The Ballad of Stan — speakers: Lady Tressel
+- 2018-02-12 — Campaign 1 Season 1 Episode 10 | In a Town Down by the River — speakers: Justicar Svan
+- 2018-01-30 — Campaign 1 Season 1 Episode 9 | Stranger Danger — speakers: Stranger Danger
+- 2018-01-22 — Lawful Live Episode 1 | Take 17
+- 2018-01-08 — Campaign 1 Season 1 Episode 8 | Domo Arigato Mr. Roboto
+- 2018-01-01 — Campaign 1 Season 1 Episode 7 | Tinker Hell
+- 2017-12-25 — Campaign 1 Season 1 Episode 6 | Findahl the Mad!
+- 2017-12-18 — Campaign 1 Season 1 Episode 5 | The Breakfast Club
+- 2017-12-11 — Campaign 1 Season 1 Episode 4 | Craig's List
+- 2017-12-04 — Campaign 1 Season 1 Episode 3 | Choose a Mystical Item, Any Mystical Item — speakers: Mystical Item
+- 2017-11-29 — C1 | Season 1 - Episode 2: Attack First Ask Questions Never (Remastered)
+- 2017-11-01 — C1 | Season 1 - Episode 1: The Red Roof Inn (Remastered) — speakers: Audio Quality Warning

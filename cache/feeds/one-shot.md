@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-02-23T10:13:58+00:00`
-- checked_at: `2026-02-23T10:13:58+00:00`
-- last_modified: `Mon, 23 Feb 2026 10:05:57 GMT`
+- fetched_at: `2026-02-25T16:36:25+00:00`
+- checked_at: `2026-02-25T16:36:25+00:00`
+- last_modified: `Wed, 25 Feb 2026 15:32:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T10:13:58+00:00",
+  "fetched_at": "2026-02-25T16:36:25+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -39,7 +39,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4457",
       "speakers": [
-        "Dillin Apelyan Robin Ekberg",
         "James D'Amato"
       ],
       "topics": [
@@ -59,7 +58,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4656",
       "speakers": [
-        "Dillin Apelyan Robin Ekberg",
         "James D'Amato"
       ],
       "topics": [
@@ -79,14 +77,8 @@
       "enclosure_length": "0",
       "itunes_duration": "12310",
       "speakers": [
-        "Ray Kendrick Smith",
-        "Angel Amore",
-        "Darby Pak Viditya Voleti",
-        "Elliot Davis",
-        "Drakoniques Jeff",
-        "Fiona Howat",
-        "Big Beaz",
-        "BrieAnna Allen"
+        "One Shot",
+        "James D'Amato"
       ],
       "topics": [
         "shot"
@@ -104,7 +96,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2507",
       "speakers": [
-        "Dillin Robin",
         "James D'Amato"
       ],
       "topics": [
@@ -123,7 +114,6 @@
       "enclosure_length": "0",
       "itunes_duration": "182",
       "speakers": [
-        "Find Dillin",
         "James D'Amato"
       ],
       "topics": [
@@ -143,8 +133,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3998",
       "speakers": [
-        "Edward Spence",
-        "Carrie Jacobs-Bond",
         "James D'Amato"
       ],
       "topics": [
@@ -164,12 +152,6 @@
       "itunes_duration": "5530",
       "speakers": [
         "Santa Claus",
-        "Dillin Apelyan",
-        "Elliot Davis",
-        "Rowan Zeoli",
-        "Rowan Zeoli Viditya Voleti",
-        "Viditya Voleti Robin Ekberg",
-        "Reveille Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -191,9 +173,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3349",
       "speakers": [
-        "Lauren Drake",
-        "Rpg Major",
-        "Jon Andrew Franklin",
+        "Last Train",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -213,8 +194,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3210",
       "speakers": [
-        "Lauren Drake",
-        "Rpg Major",
+        "Last Train",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -234,8 +215,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3379",
       "speakers": [
-        "Lauren Drake",
-        "Rpg Major",
+        "Last Train",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -255,8 +236,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3607",
       "speakers": [
-        "Hound Helix",
-        "Rpg Major",
         "James D'Amato"
       ],
       "topics": [
@@ -276,10 +255,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4315",
       "speakers": [
-        "Dillin Brie Bluu Angel",
-        "Delight Finito",
-        "Nathan Gunaselvam",
-        "Delight Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -298,12 +273,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3407",
       "speakers": [
-        "Dillin Brie Bluu Angel",
-        "Delight Portafunk",
-        "Jessie Villa",
-        "Matt Wigton",
-        "Delight Panic",
-        "Tiger Gang Finito",
         "James D'Amato"
       ],
       "topics": [
@@ -322,12 +291,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3104",
       "speakers": [
-        "Dillin Edward",
-        "Lexi Tyler",
-        "Wicked Cinema Witch",
-        "Cinema Folkloric",
-        "Wicked Cinema Leatherface",
-        "Wicked Cinema",
         "James D'Amato"
       ],
       "topics": [
@@ -346,8 +309,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3000",
       "speakers": [
-        "Dillin Edward",
-        "Lexi Tyler",
+        "Content Warning",
         "James D'Amato"
       ],
       "topics": [
@@ -366,11 +328,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3376",
       "speakers": [
-        "Dillin Edward",
-        "Lexi Tyler",
-        "Wicked Cinema Folkloric",
-        "Wicked Cinema Leatherface",
-        "Wicked Cinema Doll",
         "James D'Amato"
       ],
       "topics": [
@@ -389,8 +346,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3556",
       "speakers": [
-        "Cow Chair",
-        "Tony Sopiano Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -409,10 +364,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4180",
       "speakers": [
-        "Midnight Daydream BreakThrough",
-        "Gee Smith",
-        "Sam Barsh",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -431,8 +382,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4460",
       "speakers": [
-        "Cameron Elliot Davis",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -452,11 +401,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3109",
       "speakers": [
-        "Dillin Christian",
-        "Summer Steve",
-        "Finn Shenuque",
-        "Daniele Musto Editing",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -476,10 +420,6 @@
       "itunes_duration": "3544",
       "speakers": [
         "Century Knights",
-        "Dillin James Daniel Viditya",
-        "Isaac Joel Prime Time",
-        "Samme Editing",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -501,8 +441,6 @@
       "itunes_duration": "3054",
       "speakers": [
         "Century Knights",
-        "Isaac Joel Prime Time",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -524,9 +462,6 @@
       "itunes_duration": "3675",
       "speakers": [
         "Century Knights",
-        "Dillin James Daniel Viditya",
-        "Isaac Joel Enola",
-        "Shaghik Manè",
         "James D'Amato"
       ],
       "topics": [
@@ -548,8 +483,6 @@
       "itunes_duration": "4818",
       "speakers": [
         "Century Knights",
-        "Dillin James Daniel Viditya",
-        "Isaac Joel Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -570,9 +503,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2696",
       "speakers": [
-        "Huckleberry Rpg",
-        "Dillin Vyn",
-        "Adam Saban Smart Horse",
         "James D'Amato"
       ],
       "topics": [
@@ -591,9 +521,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2242",
       "speakers": [
-        "Huckleberry Rpg",
-        "Dillin Vyn",
-        "Adam Saban Smart Horse",
         "James D'Amato"
       ],
       "topics": [
@@ -612,9 +539,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2706",
       "speakers": [
-        "Huckleberry Rpg",
-        "Dillin Vyn",
-        "Desert Dive",
         "James D'Amato"
       ],
       "topics": [
@@ -633,7 +557,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3637",
       "speakers": [
-        "Dijon Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -653,7 +576,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3553",
       "speakers": [
-        "Dijon Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -673,9 +595,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3370",
       "speakers": [
-        "James System Mastery",
-        "Dijon Buried Memories",
-        "Cody Martin Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -695,10 +614,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2447",
       "speakers": [
-        "Dillin Persephone Valentine",
-        "JCar Constant Surveillance",
-        "JCar Cupid",
-        "Orchestra Editing",
         "James D'Amato"
       ],
       "topics": []
@@ -715,9 +630,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2947",
       "speakers": [
-        "Dillin Persephone Valentine",
-        "Orchestra Constant Surveillance",
-        "Adam Saban Editing",
         "James D'Amato"
       ],
       "topics": []
@@ -734,8 +646,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4001",
       "speakers": [
-        "Adam Saban",
-        "Rex Manning",
         "James D'Amato"
       ],
       "topics": [
@@ -754,8 +664,9 @@
       "enclosure_length": "0",
       "itunes_duration": "6472",
       "speakers": [
-        "Viditya Voleti",
-        "Rowan Zeoli",
+        "One Shot Talkbacks",
+        "Husband Daddy Protector Hero",
+        "Two Shots",
         "James D'Amato"
       ],
       "topics": [
@@ -779,8 +690,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3492",
       "speakers": [
-        "Adam Saban",
-        "Shimmer Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -799,8 +708,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3719",
       "speakers": [
-        "Dillin Candace",
-        "Shimmer Editing",
+        "Dragon Age",
+        "Mass Effect",
+        "Baldurs Gate",
         "James D'Amato"
       ],
       "topics": [
@@ -820,9 +730,6 @@
       "itunes_duration": "7071",
       "speakers": [
         "Kendrick Smith",
-        "Natalie Watson",
-        "Cody Martin",
-        "Jess Levine",
         "James D'Amato"
       ],
       "topics": [
@@ -841,14 +748,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3236",
       "speakers": [
-        "Orbital Blues",
-        "Cody Martin Desolation",
-        "Alex Kipp SkyWalker",
-        "Grace Mccoy Riding",
-        "Fly Away",
-        "Michael Briguglio Gladwyn",
-        "Morgan Taylor Apollo",
-        "Transmuter Wee Goo"
+        "James D'Amato"
       ],
       "topics": [
         "wanderer"
@@ -867,9 +767,6 @@
       "itunes_duration": "8140",
       "speakers": [
         "Kendrick Smith",
-        "Natalie Watson",
-        "Cody Martin",
-        "Jess Levine",
         "James D'Amato"
       ],
       "topics": [
@@ -888,11 +785,7 @@
       "enclosure_length": "0",
       "itunes_duration": "65",
       "speakers": [
-        "Dillin Apelyan",
-        "Austin Walker",
-        "Kendrick Smith",
-        "Natalie Watson Going Rogue",
-        "Jeff Stormer",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -911,8 +804,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3333",
       "speakers": [
-        "Dillin Mozz Darby Angie",
-        "Lndo Cimmeria",
         "James D'Amato"
       ],
       "topics": [
@@ -931,8 +822,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3597",
       "speakers": [
-        "Dillin Mozz Darby Angie",
-        "Afternoonz Cimmeria",
         "James D'Amato"
       ],
       "topics": [
@@ -951,7 +840,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3442",
       "speakers": [
-        "Dillin Mozz Darby Angie",
         "James D'Amato"
       ],
       "topics": [
@@ -970,8 +858,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2815",
       "speakers": [
-        "Dillin Viditya Voleti",
-        "Cody Martin Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -990,8 +876,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3002",
       "speakers": [
-        "Dillin Viditya Voleti",
-        "Cody Martin Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -1010,9 +894,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4100",
       "speakers": [
-        "Dillin Brian Flaherty",
-        "Fiona Howat",
-        "Rest Settle",
+        "Autumn Strangely",
         "James D'Amato"
       ],
       "topics": [
@@ -1032,11 +914,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4470",
       "speakers": [
-        "Dillin Brian Flaherty",
-        "Fiona Howat",
-        "Rest Settle Left",
-        "Wastelander Veil",
-        "Cody Martin Editing",
+        "Autumn Strangely",
         "James D'Amato"
       ],
       "topics": [
@@ -1056,14 +934,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3371",
       "speakers": [
-        "Viditya Voleti",
-        "Aaron Catano-Saez",
-        "Jeff Stormer",
-        "Dillin Viditya Voleti",
-        "Aaron Catano-Saez Jeff",
-        "Cody Martin Across",
-        "Cody Martin Pembrokeshire",
-        "Cody Martin Looking"
+        "Land Once Magic",
+        "James D'Amato"
       ],
       "topics": [
         "land",
@@ -1082,12 +954,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3639",
       "speakers": [
-        "Viditya Voleti",
-        "Aaron Catano-Saez",
-        "Jeff Stormer",
-        "Dillin Viditya Voleti",
-        "Aaron Catano-Saez Jeff",
-        "Cody Martin Editing",
+        "Land Once Magic",
         "James D'Amato"
       ],
       "topics": [
@@ -1107,12 +974,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3177",
       "speakers": [
-        "Viditya Voleti",
-        "Aaron Catano-Saez",
-        "Jeff Stormer",
-        "Dillin Viditya Voleti",
-        "Aaron Catano-Saez Jeff",
-        "Cody Martin Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -1132,8 +993,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3667",
       "speakers": [
-        "Dillin Quinn",
-        "BrieAnna Allen Bluu Smith",
+        "Wildfire Trilogy",
         "James D'Amato"
       ],
       "topics": [
@@ -1153,11 +1013,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3371",
       "speakers": [
-        "Dillin Quinn",
-        "BrieAnna Allen Bluu Smith",
-        "Delbony Harvester",
-        "Wicked Cinema Dark Places",
-        "Cody Martin Hallowed Halls",
+        "Wildfire Trilogy",
         "James D'Amato"
       ],
       "topics": [
@@ -1177,8 +1033,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2946",
       "speakers": [
-        "Wicked Cinema Leatherface",
-        "Dijon Editing",
+        "Triangle Agency",
         "James D'Amato"
       ],
       "topics": [
@@ -1198,8 +1053,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3385",
       "speakers": [
-        "Superdillin’s Reverse Moving Sale",
-        "Wicked Cinema Sinister",
         "James D'Amato"
       ],
       "topics": [
@@ -1219,10 +1072,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3773",
       "speakers": [
-        "Dillin Candace",
-        "Wicked Cinema Leatherface",
-        "Wicked Cinema Sinister",
-        "Cinema Boo",
+        "Triangle Agency",
         "James D'Amato"
       ],
       "topics": [
@@ -1261,10 +1111,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2680",
       "speakers": [
-        "Tracy Barnett",
-        "Scott Buckley Electric Dreams",
-        "Scott Buckley Eclipse",
-        "Scott Buckley",
         "James D'Amato"
       ],
       "topics": [
@@ -1285,11 +1131,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3272",
       "speakers": [
-        "Tracy Barnett",
-        "Scott Buckley",
-        "Scott Buckley Electric Dreams",
-        "Scott Buckley Open Mind",
-        "Featherland Editing",
         "James D'Amato"
       ],
       "topics": [
@@ -1310,8 +1151,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3974",
       "speakers": [
-        "Tracy Barnett",
-        "Scott Buckley",
+        "Iron Edda Reforged",
         "James D'Amato"
       ],
       "topics": [
@@ -1332,8 +1172,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4738",
       "speakers": [
-        "Viditya Voleti",
-        "Robin Ekberg",
+        "Husband Daddy Protector Hero",
         "James D'Amato"
       ],
       "topics": [
@@ -1356,12 +1195,6 @@
       "itunes_duration": "2672",
       "speakers": [
         "Brilliant Ruin",
-        "Dillin Rachel",
-        "Cody Martin",
-        "Cody Martin Stolen",
-        "Dijon Storyteller",
-        "Shimmer Editing",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1382,11 +1215,6 @@
       "itunes_duration": "2652",
       "speakers": [
         "Brilliant Ruin",
-        "Dillin Rachel",
-        "Cody Martin Let",
-        "Dijon Cold Case",
-        "Yerself Editing",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1407,13 +1235,7 @@
       "itunes_duration": "4040",
       "speakers": [
         "Brilliant Ruin",
-        "Dillin Rachel",
-        "Shimmer Meadowcroft",
-        "Cody Martin",
-        "Loving Memory",
-        "Suite Du Matin",
-        "Cody Martin Stolen",
-        "Salon Dijon Editing"
+        "James D'Amato"
       ],
       "topics": [
         "brilliant",
@@ -1433,12 +1255,6 @@
       "itunes_duration": "2958",
       "speakers": [
         "Join Dillin",
-        "Dillin Danielle",
-        "Dan Casey",
-        "Mikey Geiger Twilight",
-        "Sam Barsh Electricity",
-        "Reveille Editing",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1457,9 +1273,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3529",
       "speakers": [
-        "Dillin Elliot",
-        "Phillip Mount Moon Shadow",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1479,8 +1292,6 @@
       "itunes_duration": "2970",
       "speakers": [
         "Elliot Davis",
-        "Cameron Elliot",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1499,14 +1310,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3910",
       "speakers": [
-        "Dillin Sarah",
-        "Breeedo Zak",
-        "Lndö Beast Mode",
-        "Ghost Beatz El Movimiento",
-        "Walther Escape",
-        "Hawksilver Thunder",
-        "Reveille Editing",
-        "Tracy Barnett Find"
+        "Town Red",
+        "James D'Amato"
       ],
       "topics": [
         "town"
@@ -1524,11 +1329,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3285",
       "speakers": [
-        "Dillin Sarah",
-        "Breeedo Zak",
-        "Cinema Architecht",
-        "Sam Barsh",
-        "Tracy Barnett Find",
+        "Town Red",
         "James D'Amato"
       ],
       "topics": [
@@ -1547,11 +1348,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3441",
       "speakers": [
-        "Dillin Sarah",
-        "Breeedo Zak",
-        "Rampart CJ-O Beast Mode",
-        "Ghosts Architecht",
-        "Tracy Barnett Find",
+        "Town Red",
+        "All Happening Tonight",
         "James D'Amato"
       ],
       "topics": [
@@ -1571,13 +1369,7 @@
       "itunes_duration": "3914",
       "speakers": [
         "Machine Impossible",
-        "James D’Amato",
-        "Dillin Jacob Mooney",
-        "Mikey Geiger",
-        "Walther Transporter",
-        "Falls Pausbacken",
-        "Sam Barsh Sandman",
-        "Tracy Barnett Find"
+        "James D'Amato"
       ],
       "topics": [
         "machine",
@@ -1598,10 +1390,6 @@
       "speakers": [
         "Machine Impossible",
         "Jacob Mooney",
-        "Dillin Jacob Mooney",
-        "Mikey Geiger Cheap Sakte",
-        "Lndö So Dangerous",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1623,10 +1411,6 @@
       "speakers": [
         "Machine Impossible",
         "Jacob Mooney",
-        "Impossible Wair",
-        "Dillin Jacob Mooney",
-        "Mikey Geiger",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1646,14 +1430,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3582",
       "speakers": [
-        "Dillin Apelyan",
-        "Meebo Azrai",
-        "Syrus Mo Mo",
-        "Daisy Breeedo",
-        "Sybil Candace",
-        "Dowager Evangeline",
-        "Sam Barsh Candy Shop",
-        "Matt Wigton Head"
+        "James D'Amato"
       ],
       "topics": [
         "queen",
@@ -1672,14 +1449,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3723",
       "speakers": [
-        "Dillin Apelyan",
-        "Meebo Azrai",
-        "Syrus Mo Mo",
-        "Daisy Beeedo",
-        "Sybil Candace",
-        "Dowager Evangeline",
-        "Sam Barsh Candy Shop",
-        "Matt Wigton Head"
+        "James D'Amato"
       ],
       "topics": [
         "queen",
@@ -1698,14 +1468,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3075",
       "speakers": [
-        "Dillin Apelyan",
-        "Meebo Azrai",
-        "Syrus Mo Mo",
-        "Daisy Beeedo",
-        "Sybil Candace",
-        "Dowager Evangeline",
-        "Falls Sun",
-        "Ghost Beatz Decay"
+        "James D'Amato"
       ],
       "topics": [
         "queen",
@@ -1724,11 +1487,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3416",
       "speakers": [
-        "Connie Chang",
-        "Dillin Apelyan",
-        "Cody Martin Al'Athir",
-        "Stephen Keech Editing",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1747,11 +1505,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3100",
       "speakers": [
-        "Dillin Apelyan",
-        "Connie Chang",
-        "Cody Martin Mainframe",
-        "Shimmer Persona",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1770,11 +1523,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3255",
       "speakers": [
-        "Dillin Apelyan",
-        "Connie Chang",
-        "Cody Martin Mists",
-        "Stephen Keech Stars Align",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1793,9 +1541,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3993",
       "speakers": [
-        "Dillin Apelyan",
-        "Reveille Al'Athir",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1814,14 +1559,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2764",
       "speakers": [
-        "Dillin Apeylan",
-        "Kickstarter Help",
-        "Gen Con",
-        "Dillin Apelyan",
-        "Robin Ekberg",
-        "Cody Martin Grim History",
-        "Floyd's Tomb",
-        "Kevin Graham"
+        "James D'Amato"
       ],
       "topics": [
         "hunter"
@@ -1839,14 +1577,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3060",
       "speakers": [
-        "Dillin Apeylan",
-        "Kickstarter Flame",
-        "Tracy’s Family",
-        "Dillin Apelyan",
-        "Robin Ekberg",
-        "Moments Prowler",
-        "Hill Vanished",
-        "Cody Martin Tempest"
+        "James D'Amato"
       ],
       "topics": [
         "hunter"
@@ -1864,12 +1595,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3449",
       "speakers": [
-        "Dillin Apeylan",
-        "Tracy’s Family",
-        "Dillin Apelyan",
-        "Robin Ekberg",
-        "Cody Martin Lord",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1888,14 +1613,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3706",
       "speakers": [
-        "Help Tracy’s Family",
-        "Dillin Apelyan",
-        "Doc Laura Tutu",
-        "Jude Wyatt Viditya Voleti",
-        "Ender Feel My Pulse",
-        "Rhythm Scott Twisted",
-        "Thorr Glitter Bomb",
-        "Tracy Barnett Find"
+        "Bloodbeam Badlands",
+        "James D'Amato"
       ],
       "topics": [
         "bloodbeam",
@@ -1914,12 +1633,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3171",
       "speakers": [
-        "Tracy’s Family",
-        "Dillin Apelyan",
-        "Doc Laura Tutu",
-        "Jude Wyatt Viditya Voleti",
-        "Michael Briguglio",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1939,14 +1652,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3417",
       "speakers": [
-        "Dorkspawn Save",
-        "Dillin Apelyan",
-        "Doc Laura Tutu",
-        "Jude Wyatt Viditya Voleti",
-        "Michael Briguglio Wicked Curiosities",
-        "Andy Ellison Devil",
-        "Wastelander Editing",
-        "Tracy Barnett Find"
+        "Bloodbeam Badlands",
+        "James D'Amato"
       ],
       "topics": [
         "bloodbeam",
@@ -1966,12 +1673,6 @@
       "itunes_duration": "3473",
       "speakers": [
         "Little Wolves",
-        "Tracy’s Family",
-        "Dillin Apelyan",
-        "Noordin Ali Kadir",
-        "Druid Falls Raintree",
-        "Cinema Lone Wolf",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -1990,14 +1691,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3328",
       "speakers": [
-        "Help Tracy’s Family",
-        "Dillin Apelyan",
-        "Noordin Ali Kadir",
-        "Ever After",
-        "Shimmer Tales",
-        "Witch Lair",
-        "Adam Saban",
-        "Third Age"
+        "Little Wolves",
+        "James D'Amato"
       ],
       "topics": [
         "wolf"
@@ -2015,14 +1710,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3501",
       "speakers": [
-        "Help Tracy’s Family",
-        "Dillin Apelyan",
-        "Noordin Ali Kadir",
-        "Third Age Aurora",
-        "Colossus Lone Wolf",
-        "Wicked Cinema Azul",
-        "Sea Dive",
-        "Daniele Musto Editing"
+        "Little Wolves",
+        "James D'Amato"
       ],
       "topics": [
         "wolf"
@@ -2040,12 +1729,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3478",
       "speakers": [
-        "Help Tracy’s Family",
-        "Dillin Apelyan",
-        "Noordin Ali Kadir",
-        "Druid Falls",
-        "Avocado Junkie Pain",
-        "Tracy Barnett Find",
+        "Little Wolves",
+        "Troll Queen",
         "James D'Amato"
       ],
       "topics": [
@@ -2065,13 +1750,7 @@
       "itunes_duration": "4628",
       "speakers": [
         "Orbital Blues",
-        "Dillin Apelyan",
-        "Vicar Yuko Drakoniques",
-        "Dario Benedetti Rooted",
-        "Lndö Grit",
-        "Kristian Leo",
-        "Reveille Tick",
-        "Anne Harkey"
+        "James D'Amato"
       ],
       "topics": [
         "blues"
@@ -2090,13 +1769,7 @@
       "itunes_duration": "3258",
       "speakers": [
         "Orbital Blues",
-        "Dillin Apelyan",
-        "Vicar Yuko Drakoniques",
-        "Tic Tac Man",
-        "Andy Ellison Humid Blues",
-        "Desert Drive",
-        "Dario Benedetti",
-        "Trap Rap Cowboy"
+        "James D'Amato"
       ],
       "topics": [
         "blues"
@@ -2115,13 +1788,7 @@
       "itunes_duration": "3832",
       "speakers": [
         "Orbital Blues",
-        "Dillin Apelyan",
-        "Vicar Yuko Drakoniques",
-        "Wabash Campfire",
-        "Reveille My Own Road",
-        "Andy Ellison Never",
-        "Yung Koolade Cowboy",
-        "Dario Benedetti"
+        "James D'Amato"
       ],
       "topics": [
         "blues"
@@ -2140,13 +1807,7 @@
       "itunes_duration": "3811",
       "speakers": [
         "Orbital Blues",
-        "Dillin Apelyan",
-        "Vicar Yuko Drakoniques",
-        "Iron Skillet",
-        "Andy Ellison",
-        "Dario Benedetti",
-        "Midnight Stroll",
-        "Ian Kelosky Rooted"
+        "James D'Amato"
       ],
       "topics": [
         "blues"
@@ -2164,12 +1825,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4858",
       "speakers": [
-        "Ryan Khan Orbital Blues",
-        "Blackstar Pre-Order",
-        "Dillin Apelyan Robin Ekberg",
-        "Label Interest Nervous Wreck",
-        "Ghost Beatz Lndo",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2189,12 +1844,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3854",
       "speakers": [
-        "Ryan Khan Pre-Order",
-        "Dillin Apelyan Robin Ekberg",
-        "Label Interest Nervous Wreck",
-        "Cody Martin Full Strength",
-        "Rhythm Scott Editing",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2214,10 +1863,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4236",
       "speakers": [
-        "Blues Blackstar",
-        "Dillin Apelyan Robin Ekberg",
-        "Label Interest Nervous Wreck",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2237,14 +1882,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5795",
       "speakers": [
-        "Lin Manuel Miranda",
-        "Dillin Apelyan Robin Ekberg",
-        "Matt Wigton",
-        "Brunch Hudson Hawk",
-        "Moments Beat",
-        "Cody Martin",
-        "Andrew Stanton",
-        "Adam Saban Heist"
+        "Slut City",
+        "James D'Amato"
       ],
       "topics": [
         "scene",
@@ -2263,14 +1902,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3621",
       "speakers": [
-        "Lin Manuel Miranda",
-        "Dillin Apelyan Robin Ekberg",
-        "Sam Barsh",
-        "Delight Thunder City",
-        "Avocado Junkie Liberty",
-        "Pajamas Forevermore",
-        "Reveille Sneaksters",
-        "Tracy Barnett Find"
+        "James D'Amato"
       ],
       "topics": [
         "scene",
@@ -2289,8 +1921,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3319",
       "speakers": [
-        "Dillin Apelyan Robin Ekberg",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2310,7 +1940,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3967",
       "speakers": [
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2329,8 +1958,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3747",
       "speakers": [
-        "Lunareh Honor",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2349,8 +1976,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4146",
       "speakers": [
-        "Campfire Deck Catch James",
-        "Tracy Barnett Find",
+        "One Shot",
         "James D'Amato"
       ],
       "topics": [
@@ -2369,10 +1995,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4584",
       "speakers": [
-        "Jess Levine",
-        "Dillin Apelyan James D’Amato",
-        "Bat Audio",
-        "Tracy Barnett Find",
+        "High Ground",
         "James D'Amato"
       ],
       "topics": [
@@ -2392,10 +2015,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3613",
       "speakers": [
-        "Dillin Apelyan James D’Amato",
-        "Color Theory",
-        "Bat Audio",
-        "Tracy Barnett Find",
+        "High Ground",
         "James D'Amato"
       ],
       "topics": [
@@ -2415,9 +2035,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3907",
       "speakers": [
-        "Jess Levine",
-        "Dillin Apelyan James D’Amato",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2438,7 +2055,6 @@
       "itunes_duration": "526",
       "speakers": [
         "One Shot",
-        "Earth Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -2459,10 +2075,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5446",
       "speakers": [
-        "Find James",
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
+        "Star Crossed",
         "James D'Amato"
       ],
       "topics": [
@@ -2483,9 +2097,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3201",
       "speakers": [
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
+        "Star Crossed",
         "James D'Amato"
       ],
       "topics": [
@@ -2506,9 +2119,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3072",
       "speakers": [
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
+        "Star Crossed",
         "James D'Amato"
       ],
       "topics": [
@@ -2529,9 +2141,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3219",
       "speakers": [
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
+        "Star Crossed",
         "James D'Amato"
       ],
       "topics": [
@@ -2552,14 +2163,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5045",
       "speakers": [
-        "John Harper’s Blades",
-        "James D’Amato",
-        "Cody Martin Main",
-        "Theme Harboring",
-        "Salon Dijon Gabe",
-        "Unexpected Turn",
-        "Grandpa Gus",
-        "Leech Theme Maleficus"
+        "James D'Amato"
       ],
       "topics": [
         "blades",
@@ -2578,11 +2182,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4738",
       "speakers": [
-        "John Harper’s Blades",
-        "James D’Amato",
-        "Cody Martin",
-        "Tracy Barnett",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2602,12 +2201,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3659",
       "speakers": [
-        "John Harper’s Blades",
-        "James D’Amato",
-        "Big Beaz",
-        "Cody Martin",
-        "Tracy Barnett",
-        "Tracy Barnett Find",
         "James D'Amato"
       ],
       "topics": [
@@ -2627,10 +2220,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5480",
       "speakers": [
-        "Big Beaz",
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
         "James D'Amato"
       ],
       "topics": [
@@ -2651,10 +2241,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4262",
       "speakers": [
-        "Big Beaz",
-        "James D’Amato James",
-        "Twitter Make",
-        "Tracy Barnett Find",
+        "Star Crossed Solo",
         "James D'Amato"
       ],
       "topics": [
@@ -2675,14 +2262,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4628",
       "speakers": [
-        "Big Beaz",
-        "James D’Amato James",
-        "Twitter Make",
-        "Nathan Blades",
-        "Ben Meredith",
-        "Tim Meredith",
-        "Stella Firma",
-        "Tracy Barnett Find"
+        "Community Radio",
+        "James D'Amato"
       ],
       "topics": [
         "community",
@@ -2701,14 +2282,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3767",
       "speakers": [
-        "Big Beaz",
-        "James D’Amato James",
-        "Twitter Make",
-        "Nathan Blades",
-        "Ben Meredith",
-        "Tim Meredith",
-        "Stella Firma",
-        "Tracy Barnett Find"
+        "Community Radio",
+        "James D'Amato"
       ],
       "topics": [
         "community",
@@ -2727,14 +2302,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4314",
       "speakers": [
-        "Adira Slattery",
-        "Adira’s Twitter",
-        "Twitter Make",
-        "Lev Rodriguez Shiver",
-        "Nathan Blades",
-        "Aaron Willems",
-        "Russell Majkowski",
-        "Twitch Bluesky Twitter"
+        "Big Beaz",
+        "One Shot Network Auditioning",
+        "James D'Amato"
       ],
       "topics": [
         "beaz",
@@ -2753,14 +2323,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3822",
       "speakers": [
-        "Adira Slattery",
-        "Adira’s Twitter",
-        "Twitter Make",
-        "Lev Rodriguez Shiver",
-        "Nathan Blades",
-        "Aaron Willems",
-        "Russell Majkowski",
-        "Twitch Bluesky Twitter"
+        "Big Beaz",
+        "One Shot Network Auditioning",
+        "James D'Amato"
       ],
       "topics": [
         "beaz",
@@ -2779,14 +2344,9 @@
       "enclosure_length": "0",
       "itunes_duration": "3253",
       "speakers": [
-        "Adira Slattery",
-        "Adira’s Twitter",
-        "Twitter Make",
-        "Lev Rodriguez Shiver",
-        "Nathan Blades",
-        "Aaron Willems",
-        "Russell Majkowski",
-        "Twitch Bluesky"
+        "Big Beaz",
+        "One Shot Network Auditioning",
+        "James D'Amato"
       ],
       "topics": [
         "beaz",
@@ -2805,14 +2365,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3707",
       "speakers": [
-        "Adira Slattery",
-        "Adira’s Twitter",
-        "Twitter Make",
-        "Lev Rodriguez Shiver",
-        "Nathan Blades",
-        "Aaron Willems",
-        "Russell Majkowski",
-        "Twitch Bluesky"
+        "Big Beaz",
+        "James D'Amato"
       ],
       "topics": [
         "beaz",
@@ -2831,13 +2385,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4578",
       "speakers": [
-        "James D’Amato",
-        "Eric Campbell",
-        "Ziggy Twitter Check",
-        "Stella Luna",
-        "Astrid Twitter Check",
-        "Sam De Leve",
-        "Tracy Barnett",
+        "Urban Shadows",
+        "Magpie Games Urban Shadows",
         "James D'Amato"
       ],
       "topics": [
@@ -2858,13 +2407,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3231",
       "speakers": [
-        "James D’Amato",
-        "Eric Campbell",
-        "Ziggy Twitter Check",
-        "Stella Luna",
-        "Astrid Twitter Check",
-        "Sam De Leve",
-        "Tracy Barnett",
+        "Urban Shadows",
+        "Magpie Games Urban Shadows",
         "James D'Amato"
       ],
       "topics": [
@@ -2885,13 +2429,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3849",
       "speakers": [
-        "James D’Amato",
-        "Eric Campbell",
-        "Ziggy Twitter Check",
-        "Stella Luna",
-        "Astrid Twitter Check",
-        "Sam De Leve",
-        "Tracy Barnett Learn",
+        "Urban Shadows",
+        "Magpie Games Urban Shadows",
         "James D'Amato"
       ],
       "topics": [
@@ -2912,13 +2451,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4014",
       "speakers": [
-        "James D’Amato",
-        "Eric Campbell",
-        "Ziggy Twitter Check",
-        "Stella Luna",
-        "Astrid Twitter Check",
-        "Sam De Leve",
-        "Tracy Barnett",
+        "Urban Shadows",
+        "Magpie Games Urban Shadows",
         "James D'Amato"
       ],
       "topics": [
@@ -2941,12 +2475,7 @@
       "speakers": [
         "Renee Rhodes",
         "Animon Story",
-        "Zak Barough",
-        "Zak’s Twitter",
-        "James D’Amato",
-        "Card Deck",
-        "Kienna Shaw",
-        "Bee Zelda"
+        "James D'Amato"
       ],
       "topics": [
         "renee",
@@ -2969,12 +2498,7 @@
       "speakers": [
         "Renee Rhodes",
         "Animon Story",
-        "Zak Barough",
-        "Zak’s Twitter",
-        "James D’Amato",
-        "Card Deck",
-        "Kienna Shaw",
-        "Bee Zelda"
+        "James D'Amato"
       ],
       "topics": [
         "renee",
@@ -2997,12 +2521,7 @@
       "speakers": [
         "Renee Rhodes",
         "Animon Story",
-        "Zak Barough",
-        "Zak’s Twitter",
-        "James D’Amato",
-        "Card Deck",
-        "Kienna Shaw",
-        "Bee Zelda"
+        "James D'Amato"
       ],
       "topics": [
         "renee",
@@ -3025,12 +2544,7 @@
       "speakers": [
         "Renee Rhodes",
         "Animon Story",
-        "Zak Barough",
-        "Zak’s Twitter",
-        "James D’Amato",
-        "Maximillian Kienna Shaw",
-        "Bee Zelda",
-        "Tracy Barnett"
+        "James D'Amato"
       ],
       "topics": [
         "renee",
@@ -3091,7 +2605,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3332",
       "speakers": [
-        "CA Gencon",
         "James D'Amato"
       ],
       "topics": [
@@ -3112,8 +2625,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3620",
       "speakers": [
-        "Leonardo James D'Amato",
-        "CA Gencon",
+        "Marvelous Wish Granting Engine",
         "James D'Amato"
       ],
       "topics": [
@@ -3134,8 +2646,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3407",
       "speakers": [
-        "Leonardo James D'Amato",
-        "CA Gencon",
+        "Marvelous Wish",
+        "Oddly Chuubo",
         "James D'Amato"
       ],
       "topics": [
@@ -3157,8 +2669,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3760",
       "speakers": [
-        "Leonardo James D'Amato",
-        "CA Gencon",
         "James D'Amato"
       ],
       "topics": [
@@ -3180,6 +2690,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4145",
       "speakers": [
+        "Marvelous Wish",
         "James D'Amato"
       ],
       "topics": [
@@ -3201,6 +2712,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4655",
       "speakers": [
+        "Marvelous Wish",
+        "Meet Chuubo",
         "James D'Amato"
       ],
       "topics": [
@@ -3466,7 +2979,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3009",
       "speakers": [
-        "Jeff Stormer",
         "James D'Amato"
       ],
       "topics": [
@@ -3486,7 +2998,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3440",
       "speakers": [
-        "Jeff Stormer",
         "James D'Amato"
       ],
       "topics": [
@@ -3506,7 +3017,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3467",
       "speakers": [
-        "Jeff Stormer",
         "James D'Amato"
       ],
       "topics": [
@@ -3526,7 +3036,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3730",
       "speakers": [
-        "Jeff Stormer",
         "James D'Amato"
       ],
       "topics": [
@@ -3546,6 +3055,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3431",
       "speakers": [
+        "Other Childish Things",
         "James D'Amato"
       ],
       "topics": [
@@ -3587,6 +3097,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3412",
       "speakers": [
+        "Other Childish TH",
         "James D'Amato"
       ],
       "topics": [
@@ -3607,7 +3118,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3414",
       "speakers": [
-        "Rude Tales",
         "James D'Amato"
       ],
       "topics": [
@@ -3626,7 +3136,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3427",
       "speakers": [
-        "Rude Tales",
         "James D'Amato"
       ],
       "topics": [
@@ -3645,6 +3154,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9412",
       "speakers": [
+        "Twenty Sided Holiday Special",
         "James D'Amato"
       ],
       "topics": [
@@ -3666,7 +3176,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3211",
       "speakers": [
-        "Rude Tales",
         "James D'Amato"
       ],
       "topics": [
@@ -3685,7 +3194,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3360",
       "speakers": [
-        "Rude Tales",
         "James D'Amato"
       ],
       "topics": [
@@ -3799,7 +3307,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5457",
       "speakers": [
-        "Ryan Boelter Learn",
+        "Starwhal Odyssey",
+        "Preview Deep",
         "James D'Amato"
       ],
       "topics": [
@@ -3821,7 +3330,6 @@
       "itunes_duration": "2411",
       "speakers": [
         "Magic Lowlives",
-        "Naomi Rhys",
         "James D'Amato"
       ],
       "topics": [
@@ -3842,7 +3350,6 @@
       "itunes_duration": "3307",
       "speakers": [
         "Magic Lowlives",
-        "Naomi Rhys",
         "James D'Amato"
       ],
       "topics": [
@@ -3863,7 +3370,6 @@
       "itunes_duration": "3183",
       "speakers": [
         "Magic Lowlives",
-        "Naomi Rhys",
         "James D'Amato"
       ],
       "topics": [
@@ -3884,7 +3390,6 @@
       "itunes_duration": "3341",
       "speakers": [
         "Magic Lowlives",
-        "Naomi Rhys",
         "James D'Amato"
       ],
       "topics": [
@@ -4071,14 +3576,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5078",
       "speakers": [
-        "Shamanda Felt",
-        "Adam Miller",
-        "Jeff Murdoch jmurdoink",
-        "Krashlee Grenadine",
-        "Erin Rein",
-        "Susan Wexler",
-        "Derrk Plifer",
-        "Alan Linic"
+        "Mystery County Monster Hunter",
+        "One Shot",
+        "James D'Amato"
       ],
       "topics": [
         "mystery",
@@ -4138,8 +3638,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3160",
       "speakers": [
-        "NaturallyOrla VJ Harris",
-        "Expanded Genres Edition",
+        "Havok Brigade",
         "James D'Amato"
       ],
       "topics": [
@@ -4159,7 +3658,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3329",
       "speakers": [
-        "Expanded Genres Edition",
+        "Year Old Vampire",
         "James D'Amato"
       ],
       "topics": [
@@ -4179,7 +3678,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3709",
       "speakers": [
-        "Expanded Genres Edition",
+        "Year Old Vampire",
         "James D'Amato"
       ],
       "topics": [
@@ -4199,7 +3698,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3289",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4219,7 +3717,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3658",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4238,7 +3735,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3876",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4257,7 +3753,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2380",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4276,7 +3771,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2951",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4295,7 +3789,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3215",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4315,8 +3808,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3941",
       "speakers": [
-        "Join Tracy",
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4336,7 +3827,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3774",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4356,7 +3846,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3494",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4375,7 +3864,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3200",
       "speakers": [
-        "Expanded Genres Edition",
+        "Grand Display",
         "James D'Amato"
       ],
       "topics": [
@@ -4394,7 +3883,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3429",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4413,7 +3901,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3218",
       "speakers": [
-        "Expanded Genres Edition",
         "James D'Amato"
       ],
       "topics": [
@@ -4491,7 +3978,6 @@
       "itunes_duration": "3380",
       "speakers": [
         "Stygian Lock",
-        "Support Adira",
         "James D'Amato"
       ],
       "topics": [
@@ -4510,7 +3996,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3771",
       "speakers": [
-        "Support Adira",
         "James D'Amato"
       ],
       "topics": [
@@ -4531,7 +4016,6 @@
       "speakers": [
         "Adira Slattery",
         "Join Bee",
-        "Buy Gunfucks",
         "James D'Amato"
       ],
       "topics": [
@@ -4550,7 +4034,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4621",
       "speakers": [
-        "Twitch Learn",
         "James D'Amato"
       ],
       "topics": []
@@ -4567,7 +4050,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4275",
       "speakers": [
-        "Twitch Learn",
         "James D'Amato"
       ],
       "topics": []
@@ -4584,7 +4066,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2998",
       "speakers": [
-        "Twitch Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -4659,6 +4140,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2804",
       "speakers": [
+        "Oh Captain",
+        "My Captain",
         "James D'Amato"
       ],
       "topics": [
@@ -4733,7 +4216,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3655",
       "speakers": [
-        "Luckily Freja",
         "James D'Amato"
       ],
       "topics": [
@@ -4833,10 +4315,7 @@
         "Alex Flanigan",
         "Bee Zelda",
         "Jeff Stormer",
-        "Puppet Strings",
-        "Jupiter Alchys",
-        "Scott Buckley",
-        "de l'enfant"
+        "James D'Amato"
       ],
       "topics": [
         "special",
@@ -4859,7 +4338,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4647",
       "speakers": [
-        "Kickstarter Preview Feed",
         "James D'Amato"
       ],
       "topics": [
@@ -4878,7 +4356,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4647",
       "speakers": [
-        "Kickstarter Preview Feed",
         "James D'Amato"
       ],
       "topics": [
@@ -4937,6 +4414,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4006",
       "speakers": [
+        "West Virginia",
         "James D'Amato"
       ],
       "topics": [
@@ -4956,8 +4434,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4014",
       "speakers": [
-        "John Bailey",
-        "Lester Baird",
         "James D'Amato"
       ],
       "topics": [
@@ -5000,7 +4476,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4885",
       "speakers": [
-        "Alan Rickman",
         "James D'Amato"
       ],
       "topics": [
@@ -5038,7 +4513,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4229",
       "speakers": [
-        "Huckamule Kidcutter",
         "James D'Amato"
       ],
       "topics": [
@@ -5077,10 +4551,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3329",
       "speakers": [
-        "Rpg Buy",
-        "Watch James",
-        "Alexandra Rowland",
-        "Twitch Channel",
         "James D'Amato"
       ],
       "topics": [
@@ -5100,10 +4570,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3426",
       "speakers": [
-        "Rpg Buy",
-        "Watch James",
-        "Alexandra Rowland",
-        "Twitch Channel",
         "James D'Amato"
       ],
       "topics": [
@@ -5123,10 +4589,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3645",
       "speakers": [
-        "Rpg Buy",
-        "Watch James",
-        "Alexandra Rowland",
-        "Twitch Channel",
         "James D'Amato"
       ],
       "topics": [
@@ -5147,10 +4609,6 @@
       "itunes_duration": "3349",
       "speakers": [
         "Solid Gold",
-        "Rpg Buy",
-        "Watch James",
-        "Alexandra Rowland",
-        "Twitch Channel",
         "James D'Amato"
       ],
       "topics": [
@@ -5172,7 +4630,6 @@
       "speakers": [
         "Dave Chalker",
         "Christopher Bidell",
-        "Rpg Buy",
         "James D'Amato"
       ],
       "topics": [
@@ -5272,8 +4729,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4063",
       "speakers": [
-        "Ben Meredith",
-        "Pulpit Games",
+        "Event Planning",
         "James D'Amato"
       ],
       "topics": [
@@ -5294,12 +4750,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3675",
       "speakers": [
-        "Ben Meredith",
-        "Pulpit Games",
-        "Adira Slattery",
-        "Jeremy Gage",
-        "Jordan Shiveley",
-        "Dread Singles",
+        "Event Planning",
         "James D'Amato"
       ],
       "topics": [
@@ -5402,7 +4853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3596",
       "speakers": [
-        "Orimar Vale",
         "James D'Amato"
       ],
       "topics": [
@@ -5422,7 +4872,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3977",
       "speakers": [
-        "Orimar Vale",
         "James D'Amato"
       ],
       "topics": [
@@ -5443,8 +4892,6 @@
       "itunes_duration": "3647",
       "speakers": [
         "Bruce Orson",
-        "Abigail Burke",
-        "Orimar Vale",
         "James D'Amato"
       ],
       "topics": [
@@ -5464,8 +4911,6 @@
       "itunes_duration": "3638",
       "speakers": [
         "Emily Burke",
-        "Max Bonner",
-        "Roberta Orson",
         "James D'Amato"
       ],
       "topics": [
@@ -5486,8 +4931,6 @@
       "speakers": [
         "Ali Barthwell",
         "CJ Tuor",
-        "Bruce Orson",
-        "Abigail Burke",
         "James D'Amato"
       ],
       "topics": [
@@ -5560,7 +5003,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3051",
       "speakers": [
-        "Thankfully Sorrel",
         "James D'Amato"
       ],
       "topics": [
@@ -5580,8 +5022,6 @@
       "itunes_duration": "3819",
       "speakers": [
         "Ash Krider",
-        "Bee Zelda",
-        "Aly Grauer",
         "James D'Amato"
       ],
       "topics": [
@@ -5600,10 +5040,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3473",
       "speakers": [
-        "Max Murray",
-        "Councilman Lurker",
-        "Will Max",
-        "Uncle Bill",
+        "Anyone Can Wear",
         "James D'Amato"
       ],
       "topics": [
@@ -5622,7 +5059,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3082",
       "speakers": [
-        "Ground Hog",
+        "Anyone Can Wear",
+        "Science City",
         "James D'Amato"
       ],
       "topics": [
@@ -5641,6 +5079,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3200",
       "speakers": [
+        "James ad",
         "James D'Amato"
       ],
       "topics": [
@@ -5697,7 +5136,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4223",
       "speakers": [
-        "Jubilant Slide",
         "James D'Amato"
       ],
       "topics": [
@@ -5874,7 +5312,6 @@
       "itunes_duration": "4498",
       "speakers": [
         "Dylan Crackbacker",
-        "Spaceman Hotep IV",
         "James D'Amato"
       ],
       "topics": [
@@ -5911,7 +5348,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4293",
       "speakers": [
-        "Kickstarter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -5930,7 +5366,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3789",
       "speakers": [
-        "Kickstarter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -5953,7 +5388,6 @@
         "Stephen Kropa",
         "Casey Toney",
         "Arne Parrott",
-        "Kickstarter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -5972,8 +5406,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4559",
       "speakers": [
-        "Kickstarter Learn",
-        "Kickstarter Sleepaway Twitter",
         "James D'Amato"
       ],
       "topics": [
@@ -5992,8 +5424,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3978",
       "speakers": [
-        "Kickstarter Jay",
-        "Kickstarter Sleepaway Twitter",
         "James D'Amato"
       ],
       "topics": [
@@ -6012,8 +5442,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3953",
       "speakers": [
-        "Kickstarter Jay",
-        "Kickstarter Sleepaway Twitter",
         "James D'Amato"
       ],
       "topics": [
@@ -6036,7 +5464,6 @@
         "Noelle Stevenson",
         "Brennan Lee Milligan",
         "Ben Joseph",
-        "Kickstarter Sleepaway Twitter",
         "James D'Amato"
       ],
       "topics": [
@@ -6075,7 +5502,6 @@
       "itunes_duration": "3417",
       "speakers": [
         "Frederico Garbozi",
-        "Kickstarter Find",
         "James D'Amato"
       ],
       "topics": [
@@ -6095,7 +5521,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3442",
       "speakers": [
-        "Kickstarter Find",
         "James D'Amato"
       ],
       "topics": [
@@ -6115,7 +5540,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3505",
       "speakers": [
-        "Samista Estate",
         "James D'Amato"
       ],
       "topics": [
@@ -6135,7 +5559,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3261",
       "speakers": [
-        "Lady Samista",
+        "Oakmarrow Creek",
         "James D'Amato"
       ],
       "topics": [
@@ -6212,9 +5636,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4637",
       "speakers": [
-        "Patrick Rothfuss",
-        "Bee Zelda",
-        "Liz Anderson",
         "James D'Amato"
       ],
       "topics": [
@@ -6253,12 +5674,6 @@
       "itunes_duration": "7035",
       "speakers": [
         "Feed Drop",
-        "Empress Zhouxia",
-        "La Ning",
-        "Sky Soldier Dong Feng",
-        "Daniel danielhkwan",
-        "Ammar ammarijaz",
-        "Steve DeeEmSteve",
         "James D'Amato"
       ],
       "topics": [
@@ -6280,9 +5695,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2874",
       "speakers": [
-        "Local Bail Fund Support",
-        "Black Lives Matter Get",
-        "Physical Copy",
         "James D'Amato"
       ],
       "topics": [
@@ -6304,7 +5716,6 @@
       "itunes_duration": "2806",
       "speakers": [
         "Mall Goths",
-        "Physical Copy",
         "James D'Amato"
       ],
       "topics": [
@@ -6347,9 +5758,6 @@
       "speakers": [
         "Lucian Kahn",
         "Bianca Zelda",
-        "Stephen Kropa",
-        "Alan Linic",
-        "Adira Slattery",
         "James D'Amato"
       ],
       "topics": [
@@ -6370,7 +5778,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3577",
       "speakers": [
-        "Micro-Rpg Book",
+        "Sage Hen",
         "James D'Amato"
       ],
       "topics": [
@@ -6390,7 +5798,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3550",
       "speakers": [
-        "Micro-Rpg Book",
         "James D'Amato"
       ],
       "topics": [
@@ -6410,7 +5817,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3741",
       "speakers": [
-        "Micro-Rpg Book",
         "James D'Amato"
       ],
       "topics": [
@@ -6430,7 +5836,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3871",
       "speakers": [
-        "Micro-Rpg Book",
         "James D'Amato"
       ],
       "topics": [
@@ -6451,7 +5856,6 @@
       "itunes_duration": "3717",
       "speakers": [
         "Double Tree",
-        "Micro-Rpg Book",
         "James D'Amato"
       ],
       "topics": [
@@ -6471,7 +5875,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4834",
       "speakers": [
-        "Mailing List Pre-Order",
+        "Oh Captain",
+        "My Captain",
         "James D'Amato"
       ],
       "topics": [
@@ -6493,7 +5898,6 @@
       "speakers": [
         "Oh Captain",
         "My Captain",
-        "Captain My Captain Mai",
         "James D'Amato"
       ],
       "topics": [
@@ -6512,7 +5916,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4115",
       "speakers": [
-        "Max Beller",
+        "Chicago Bears",
         "James D'Amato"
       ],
       "topics": [
@@ -6531,7 +5935,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4171",
       "speakers": [
-        "Max Beller",
         "James D'Amato"
       ],
       "topics": [
@@ -6592,6 +5995,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4026",
       "speakers": [
+        "Electric Flame",
         "James D'Amato"
       ],
       "topics": [
@@ -6665,7 +6069,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3333",
       "speakers": [
-        "Kitty Keith",
         "James D'Amato"
       ],
       "topics": []
@@ -6682,6 +6085,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3575",
       "speakers": [
+        "Snowdonian Mayor",
         "James D'Amato"
       ],
       "topics": []
@@ -6698,10 +6102,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4044",
       "speakers": [
-        "Ned Fulmer",
-        "Zach Kornfeld",
-        "Keith Habersberger",
-        "Eugene Lee Yang",
         "James D'Amato"
       ],
       "topics": []
@@ -6921,7 +6321,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4442",
       "speakers": [
-        "Tide Syste",
         "James D'Amato"
       ],
       "topics": [
@@ -6942,8 +6341,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3780",
       "speakers": [
-        "Tide System Mastery",
-        "Dragon Walks",
         "James D'Amato"
       ],
       "topics": [
@@ -7023,6 +6420,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3590",
       "speakers": [
+        "House Rapture",
         "James D'Amato"
       ],
       "topics": [
@@ -7063,7 +6461,6 @@
       "speakers": [
         "Coffee Detective",
         "Remmington Smuck",
-        "Coffee Detective Pre",
         "James D'Amato"
       ],
       "topics": [
@@ -7084,7 +6481,6 @@
       "itunes_duration": "3671",
       "speakers": [
         "Coffee Detective",
-        "Coffee Detective Pre",
         "James D'Amato"
       ],
       "topics": [
@@ -7106,7 +6502,6 @@
       "speakers": [
         "Coffee Detective",
         "Berlin Jr",
-        "Detective Pre",
         "James D'Amato"
       ],
       "topics": [
@@ -7166,7 +6561,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3964",
       "speakers": [
-        "Theory Ants Tackle",
         "James D'Amato"
       ],
       "topics": [
@@ -7346,7 +6740,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4554",
       "speakers": [
-        "Drew Learn",
+        "One Child",
         "James D'Amato"
       ],
       "topics": [
@@ -7513,7 +6907,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4009",
       "speakers": [
-        "Jef Learn",
+        "strict customs",
         "James D'Amato"
       ],
       "topics": [
@@ -7608,7 +7002,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3381",
       "speakers": [
-        "Siniorx Rosa",
         "James D'Amato"
       ],
       "topics": [
@@ -7794,6 +7187,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6129",
       "speakers": [
+        "Fliptales After",
         "James D'Amato"
       ],
       "topics": [
@@ -7844,7 +7238,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4741",
       "speakers": [
-        "Back Mission Accomplished",
         "James D'Amato"
       ],
       "topics": [
@@ -7863,7 +7256,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5509",
       "speakers": [
-        "Mary Heller",
         "James D'Amato"
       ],
       "topics": [
@@ -7954,9 +7346,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4761",
       "speakers": [
-        "Patrick Rothfuss",
-        "Liz Anderson",
-        "Stephen Kropa",
+        "Pumpkin Hollow",
         "James D'Amato"
       ],
       "topics": [
@@ -8094,8 +7484,7 @@
         "Amelia Antrim",
         "Steve Discont",
         "Jef Aldrich",
-        "Jon Taylor",
-        "Aly Grauer"
+        "James D'Amato"
       ],
       "topics": [
         "shot",
@@ -8212,7 +7601,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4211",
       "speakers": [
-        "Drow Assassin",
         "James D'Amato"
       ],
       "topics": [
@@ -8289,7 +7677,6 @@
       "itunes_duration": "3921",
       "speakers": [
         "Reds Krl",
-        "Jordan Support",
         "James D'Amato"
       ],
       "topics": [
@@ -8308,6 +7695,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3432",
       "speakers": [
+        "Although Rivka",
         "James D'Amato"
       ],
       "topics": [
@@ -8346,7 +7734,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4327",
       "speakers": [
-        "almost nothing",
         "James D'Amato"
       ],
       "topics": [
@@ -8406,7 +7793,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2875",
       "speakers": [
-        "Back Star Crossed",
         "James D'Amato"
       ],
       "topics": [
@@ -8739,7 +8125,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3768",
       "speakers": [
-        "Van Gouhl",
         "James D'Amato"
       ],
       "topics": [
@@ -8759,7 +8144,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4082",
       "speakers": [
-        "Tech Wizard",
         "James D'Amato"
       ],
       "topics": [
@@ -8931,7 +8315,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3818",
       "speakers": [
-        "Halcyon High Hero Club",
         "James D'Amato"
       ],
       "topics": [
@@ -8970,7 +8353,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4712",
       "speakers": [
-        "Garfeild Keep",
         "James D'Amato"
       ],
       "topics": [
@@ -9119,7 +8501,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5900",
       "speakers": [
-        "Art Vandelay",
+        "Evil Island",
+        "Kung Fu Tournament",
         "James D'Amato"
       ],
       "topics": []
@@ -9180,7 +8563,6 @@
       "itunes_duration": "4438",
       "speakers": [
         "Feng Shui",
-        "Sett Ra",
         "James D'Amato"
       ],
       "topics": [
@@ -9203,7 +8585,6 @@
       "itunes_duration": "4471",
       "speakers": [
         "Feng Shui",
-        "Kung Fu Vampire",
         "James D'Amato"
       ],
       "topics": [
@@ -9225,8 +8606,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5142",
       "speakers": [
-        "Will Starlight",
-        "Curly Joe",
+        "Mysterious Warrior Appears",
+        "Starlight Surprise",
+        "Pale Moon Princess",
         "James D'Amato"
       ],
       "topics": [
@@ -9253,7 +8635,6 @@
       "itunes_duration": "4064",
       "speakers": [
         "Small Benjamin",
-        "Queen Felicia",
         "James D'Amato"
       ],
       "topics": [
@@ -9279,8 +8660,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4041",
       "speakers": [
-        "Mike Jones",
-        "Cool Dad",
         "James D'Amato"
       ],
       "topics": [
@@ -9301,8 +8680,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4439",
       "speakers": [
-        "Cool Dad",
-        "Will Bob",
+        "Brown Center",
         "James D'Amato"
       ],
       "topics": [
@@ -9324,9 +8702,6 @@
       "itunes_duration": "4449",
       "speakers": [
         "Nathan Paoletta",
-        "Ali Barthwell",
-        "Colt Cabana",
-        "Jack Moody",
         "James D'Amato"
       ],
       "topics": [
@@ -9367,6 +8742,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4335",
       "speakers": [
+        "Revolution Records",
         "James D'Amato"
       ],
       "topics": [
@@ -9388,7 +8764,6 @@
       "itunes_duration": "6841",
       "speakers": [
         "Hobby Horse Games",
-        "Lady Skull-Face",
         "James D'Amato"
       ],
       "topics": [
@@ -9446,7 +8821,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5221",
       "speakers": [
-        "Action Find",
         "James D'Amato"
       ],
       "topics": [
@@ -9546,7 +8920,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4193",
       "speakers": [
-        "Storm Knights",
+        "Storm Kn",
         "James D'Amato"
       ],
       "topics": [
@@ -9567,8 +8941,6 @@
       "itunes_duration": "5223",
       "speakers": [
         "Eric Simon",
-        "Storm Knights",
-        "Cyber Pope",
         "James D'Amato"
       ],
       "topics": [
@@ -9651,7 +9023,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6609",
       "speakers": [
-        "Athen Gnash",
         "James D'Amato"
       ],
       "topics": [
@@ -9670,7 +9041,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4191",
       "speakers": [
-        "Queen Felicia",
+        "Orienteering After",
+        "Dungeon Dome",
+        "Small Benjamin",
         "James D'Amato"
       ],
       "topics": [
@@ -9746,8 +9119,6 @@
       "itunes_duration": "4880",
       "speakers": [
         "Vincent Baker",
-        "Aly Grauer",
-        "Drew Mierzejewski",
         "James D'Amato"
       ],
       "topics": [
@@ -9784,8 +9155,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4222",
       "speakers": [
-        "Electric Necromancer",
-        "Chet Swain",
         "James D'Amato"
       ],
       "topics": [
@@ -9822,7 +9191,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3845",
       "speakers": [
-        "Will Snowflake",
         "James D'Amato"
       ],
       "topics": [
@@ -9842,8 +9210,7 @@
       "itunes_duration": "4080",
       "speakers": [
         "Noelle Stevenson",
-        "Lola Binkerd",
-        "Ben Joseph",
+        "Lola Binker",
         "James D'Amato"
       ],
       "topics": [
@@ -9901,7 +9268,6 @@
       "itunes_duration": "3966",
       "speakers": [
         "Cindy Chow",
-        "Vincent Tralinitne",
         "James D'Amato"
       ],
       "topics": [
@@ -10035,8 +9401,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6263",
       "speakers": [
-        "Brom Van Brunt",
-        "Helix Labs",
         "James D'Amato"
       ],
       "topics": [
@@ -10056,7 +9420,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3595",
       "speakers": [
-        "Decklan La Strange",
         "James D'Amato"
       ],
       "topics": [
@@ -10092,6 +9455,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3271",
       "speakers": [
+        "Dragon Pearl",
         "James D'Amato"
       ],
       "topics": []
@@ -10180,7 +9544,7 @@
       "itunes_duration": "4971",
       "speakers": [
         "like soot",
-        "like coals",
+        "eyes like",
         "James D'Amato"
       ],
       "topics": [
@@ -10217,6 +9581,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3709",
       "speakers": [
+        "Knuckle Punch",
+        "Cerberus High Battle",
         "James D'Amato"
       ],
       "topics": [
@@ -10390,7 +9756,6 @@
       "itunes_duration": "4827",
       "speakers": [
         "Dracula Dossier",
-        "Edom duke",
         "James D'Amato"
       ],
       "topics": [
@@ -10544,7 +9909,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3557",
       "speakers": [
-        "these st",
         "James D'Amato"
       ],
       "topics": [
@@ -10565,7 +9929,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3839",
       "speakers": [
-        "Yu Onit",
         "James D'Amato"
       ],
       "topics": [
@@ -10606,7 +9969,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4120",
       "speakers": [
-        "Twitter Site Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10645,8 +10007,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4141",
       "speakers": [
-        "Ben Dutter",
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10666,8 +10026,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3535",
       "speakers": [
-        "Ben Dutter",
-        "Twitter Learn",
+        "Beast Shortly",
         "James D'Amato"
       ],
       "topics": [
@@ -10687,7 +10046,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5439",
       "speakers": [
-        "Twitter Blog Patreon Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10706,7 +10064,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4041",
       "speakers": [
-        "Twitter Blog Patreon Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10725,7 +10082,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3676",
       "speakers": [
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10744,7 +10100,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3641",
       "speakers": [
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10765,7 +10120,6 @@
       "itunes_duration": "3847",
       "speakers": [
         "Blue Beard",
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10806,8 +10160,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4163",
       "speakers": [
-        "Ron Edwards",
-        "Twitter Ron Edwards",
         "James D'Amato"
       ],
       "topics": [
@@ -10827,7 +10179,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5410",
       "speakers": [
-        "Ron Edwards",
         "James D'Amato"
       ],
       "topics": [
@@ -10847,8 +10198,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3589",
       "speakers": [
-        "InSpectres Arnie Niekamp",
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10868,7 +10217,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3439",
       "speakers": [
-        "Twitter Learn",
         "James D'Amato"
       ],
       "topics": [
@@ -10888,8 +10236,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5212",
       "speakers": [
-        "Billy Zane",
-        "John Malkovich",
         "James D'Amato"
       ],
       "topics": [
@@ -10908,8 +10254,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4691",
       "speakers": [
-        "Wizard Alderman",
-        "Alderman Wesley",
+        "Urban Shadows Chicago",
         "James D'Amato"
       ],
       "topics": [
@@ -10949,9 +10294,6 @@
       "itunes_duration": "5267",
       "speakers": [
         "James play Fool",
-        "Cheyenne Wall-Grimes",
-        "Tanya De Passe",
-        "Indg Together",
         "James D'Amato"
       ],
       "topics": [
@@ -10976,7 +10318,6 @@
         "Boxing Day Dread",
         "Peter Williams",
         "James Freetly",
-        "John Malkovich",
         "James D'Amato"
       ],
       "topics": [
@@ -11110,8 +10451,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4191",
       "speakers": [
-        "Floyd Charbanaux",
-        "Yata Kagami",
         "James D'Amato"
       ],
       "topics": [
@@ -11150,7 +10489,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6937",
       "speakers": [
-        "Warp Spiders",
         "James D'Amato"
       ],
       "topics": [
@@ -11170,7 +10508,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4143",
       "speakers": [
-        "Vienna Schnitzel",
+        "Golden Corral",
         "James D'Amato"
       ],
       "topics": [
@@ -11190,7 +10528,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5279",
       "speakers": [
-        "religious events",
+        "religious ev",
         "James D'Amato"
       ],
       "topics": [
@@ -11258,7 +10596,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4864",
       "speakers": [
-        "Howard Mandel",
+        "Howard Mande",
         "James D'Amato"
       ],
       "topics": [
@@ -11351,6 +10689,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4063",
       "speakers": [
+        "Ninth World",
         "James D'Amato"
       ],
       "topics": [
@@ -11388,8 +10727,6 @@
       "itunes_duration": "3291",
       "speakers": [
         "Jack Crow",
-        "Ned Godkiller",
-        "Flyvaw Crankyshanks",
         "James D'Amato"
       ],
       "topics": [
@@ -11515,8 +10852,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3491",
       "speakers": [
-        "Chris Sims",
-        "Usagi Tsukino",
+        "Chris Sim",
         "James D'Amato"
       ],
       "topics": [
@@ -11557,7 +10893,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4412",
       "speakers": [
-        "Miss Artie",
         "James D'Amato"
       ],
       "topics": [
@@ -11595,7 +10930,7 @@
       "itunes_duration": "4127",
       "speakers": [
         "Feast Hall",
-        "Lord Amirillia",
+        "Lord Amiril",
         "James D'Amato"
       ],
       "topics": [
@@ -11653,8 +10988,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7000",
       "speakers": [
-        "Mirimoto Kumo",
-        "Diagotzu Jin",
+        "Five Rings",
         "James D'Amato"
       ],
       "topics": [
@@ -11694,7 +11028,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3208",
       "speakers": [
-        "terrible Oni",
         "James D'Amato"
       ],
       "topics": [
@@ -11945,8 +11278,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5599",
       "speakers": [
-        "Space Democracy",
-        "Space Capitalism",
+        "Cosmic Patro",
         "James D'Amato"
       ],
       "topics": [
@@ -11988,7 +11320,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4700",
       "speakers": [
-        "moon lava",
         "James D'Amato"
       ],
       "topics": [
@@ -12008,10 +11339,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6153",
       "speakers": [
-        "Joy Worth",
-        "Logan Murphy",
-        "Tyler Davis",
-        "Steel Johnson",
         "James D'Amato"
       ],
       "topics": [
@@ -12049,9 +11376,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6203",
       "speakers": [
-        "John Patrick Coan",
-        "Alex Manich",
-        "James Dugan",
         "James D'Amato"
       ],
       "topics": [
@@ -12108,7 +11432,6 @@
       "speakers": [
         "Jim Hepplewhite",
         "Brittany Yantos",
-        "Allen Turner",
         "James D'Amato"
       ],
       "topics": [
@@ -12167,7 +11490,6 @@
       "itunes_duration": "3757",
       "speakers": [
         "Mike Olsen",
-        "Atomic Robo",
         "James D'Amato"
       ],
       "topics": [
@@ -12205,10 +11527,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3790",
       "speakers": [
-        "Mark Summers",
-        "Alex Manich",
-        "James Dugan",
-        "Felix Flex Cockhammer",
         "James D'Amato"
       ],
       "topics": [
@@ -12289,7 +11607,6 @@
       "itunes_duration": "763",
       "speakers": [
         "Dracula Dossier",
-        "Kenneth Hite",
         "James D'Amato"
       ],
       "topics": [
@@ -12313,8 +11630,6 @@
       "speakers": [
         "Dracula Dossier",
         "GM Kenneth Hite",
-        "Zach Weber",
-        "Nathan Poletta",
         "James D'Amato"
       ],
       "topics": [
@@ -12417,9 +11732,6 @@
       "speakers": [
         "Feng Shui",
         "Chris Sims",
-        "Kat Murphy",
-        "Tommy Euphrates",
-        "John Patrick Coan",
         "James D'Amato"
       ],
       "topics": [
@@ -12540,7 +11852,6 @@
       "itunes_duration": "3207",
       "speakers": [
         "Crazy Anniversary Partiers",
-        "Also Cob",
         "James D'Amato"
       ],
       "topics": [
@@ -12561,6 +11872,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4762",
       "speakers": [
+        "Crazy Anniversary Partiers Prepare",
+        "Cray Cray",
         "James D'Amato"
       ],
       "topics": [
@@ -12619,7 +11932,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4553",
       "speakers": [
-        "up magic",
         "James D'Amato"
       ],
       "topics": []
@@ -12655,11 +11967,7 @@
         "James D'Amato",
         "Patrick Winegar",
         "Brandon Lightening",
-        "Kat Murphy",
-        "John Patrick Coan",
-        "Leon Kameilski",
-        "Alex Nichols",
-        "Larry Lefty LaRoux"
+        "Kat Murphy"
       ],
       "topics": []
     },
@@ -12676,7 +11984,6 @@
       "itunes_duration": "4469",
       "speakers": [
         "Tom Frankle",
-        "Rick Moranis",
         "James D'Amato"
       ],
       "topics": [
@@ -12719,7 +12026,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4428",
       "speakers": [
-        "Mace Hunter Skegg",
+        "Time Watch",
         "James D'Amato"
       ],
       "topics": [
@@ -12839,7 +12146,7 @@
       "itunes_duration": "4147",
       "speakers": [
         "Sheniqua Andromeda",
-        "James Ambros Iii",
+        "James Ambros",
         "James D'Amato"
       ],
       "topics": [
@@ -12900,6 +12207,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7199",
       "speakers": [
+        "Wayne Industries",
         "James D'Amato"
       ],
       "topics": [
@@ -12919,7 +12227,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7651",
       "speakers": [
-        "Mad Hatter",
+        "Black Mask",
         "James D'Amato"
       ],
       "topics": [
@@ -12960,7 +12268,6 @@
       "speakers": [
         "John Patrick Coen",
         "Chuck Pettitt",
-        "Luke Null",
         "James D'Amato"
       ],
       "topics": [
@@ -13000,8 +12307,6 @@
       "speakers": [
         "Brandon Shockney",
         "Rich Alfonzo",
-        "Sam Kaye",
-        "James D’Amato",
         "James D'Amato"
       ],
       "topics": [
@@ -13041,8 +12346,7 @@
       "speakers": [
         "Alex Manich",
         "Maggie Dempsey",
-        "Collin Cunningham",
-        "Jessa Eden-Quinn",
+        "Collin Cunning",
         "James D'Amato"
       ],
       "topics": [
@@ -13062,7 +12366,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5137",
       "speakers": [
-        "Can Kat",
         "James D'Amato"
       ],
       "topics": [
@@ -13082,8 +12385,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3959",
       "speakers": [
-        "Baby Blues",
-        "Red Fox",
         "James D'Amato"
       ],
       "topics": [
@@ -13104,9 +12405,7 @@
       "itunes_duration": "3712",
       "speakers": [
         "Kat Murphy",
-        "Maggie Dempsey",
-        "Alex Manich",
-        "Tricia Bobeda",
+        "Maggie De",
         "James D'Amato"
       ],
       "topics": [
@@ -13127,7 +12426,6 @@
       "itunes_duration": "6376",
       "speakers": [
         "Trystan Valentine",
-        "Tamlin Jorun",
         "James D'Amato"
       ],
       "topics": [
@@ -13173,9 +12471,6 @@
       "speakers": [
         "Kat Murphy",
         "Johnny O’Mara",
-        "John Patrick Coen",
-        "Matt Kubinski",
-        "Ava Arrak",
         "James D'Amato"
       ],
       "topics": [
@@ -13197,7 +12492,6 @@
       "speakers": [
         "Dark Dark",
         "Will Hindmarch",
-        "Dark Planet",
         "James D'Amato"
       ],
       "topics": []
@@ -13217,8 +12511,6 @@
         "John Patrick Coan",
         "Johnny O’Mara",
         "Matt Kubinski",
-        "Kat Murphy",
-        "Luke Skywalker",
         "James D'Amato"
       ],
       "topics": [
@@ -13240,6 +12532,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3770",
       "speakers": [
+        "Star Wars",
         "James D'Amato"
       ],
       "topics": [
@@ -13262,9 +12555,6 @@
         "Kat Murphy",
         "John Patrick Coen",
         "Johnny O’Mara",
-        "Dilettante Ball",
-        "Matt Kubinski",
-        "Cinema Jaw",
         "James D'Amato"
       ],
       "topics": [
@@ -13304,8 +12594,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3904",
       "speakers": [
-        "Lynette Roten",
-        "David Giratanna",
+        "All Ou",
         "James D'Amato"
       ],
       "topics": [
@@ -13375,7 +12664,6 @@
         "Emile Candy",
         "Sam Kaye",
         "James D’Amato",
-        "Humphrey Hall",
         "James D'Amato"
       ],
       "topics": [
@@ -13399,8 +12687,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2625",
       "speakers": [
-        "Emile Candy",
-        "Samuel Kaye",
         "James D'Amato"
       ],
       "topics": [
@@ -13424,7 +12710,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3258",
       "speakers": [
-        "Sam Kaye",
         "James D'Amato"
       ],
       "topics": [
@@ -13534,7 +12819,6 @@
       "speakers": [
         "Luke Null",
         "Mike Gospel",
-        "John Tuckerman",
         "James D'Amato"
       ],
       "topics": [
@@ -13555,7 +12839,7 @@
       "speakers": [
         "Nick Lang",
         "Scout Bratt",
-        "James Gen Con",
+        "James Ge",
         "James D'Amato"
       ],
       "topics": [
@@ -13594,8 +12878,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3879",
       "speakers": [
-        "Angel La La",
-        "Chris Sims",
         "James D'Amato"
       ],
       "topics": [
@@ -13637,9 +12919,6 @@
       "speakers": [
         "Chris Sims",
         "John Patrick Coan",
-        "Angela Chan",
-        "Bobby Euphrates",
-        "Snake Skin",
         "James D'Amato"
       ],
       "topics": [
@@ -13697,6 +12976,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5034",
       "speakers": [
+        "Crazy Partiers",
         "James D'Amato"
       ],
       "topics": [
@@ -13736,7 +13016,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4180",
       "speakers": [
-        "Playing System",
+        "Crazy Partiers Roll",
         "James D'Amato"
       ],
       "topics": [
@@ -13752,143 +13032,143 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — 639. Rise, Wizards!, Episode 2 — speakers: Dillin Apelyan Robin Ekberg, James D'Amato
-- 2026-02-16 — 638. Rise, Wizards!, Episode 1 — speakers: Dillin Apelyan Robin Ekberg, James D'Amato
-- 2026-02-07 — 637. One Shot 100.1 OSN — speakers: Ray Kendrick Smith, Angel Amore, Darby Pak Viditya Voleti, Elliot Davis, Drakoniques Jeff, Fiona Howat, Big Beaz, BrieAnna Allen
-- 2026-01-31 — 636. Tacklebox — speakers: Dillin Robin, James D'Amato
-- 2026-01-29 — TRAILER | Dillin's 100 Episode Special — speakers: Find Dillin, James D'Amato
-- 2026-01-24 — 635. New in Town — speakers: Edward Spence, Carrie Jacobs-Bond, James D'Amato
-- 2026-01-12 — 634. 2HUSBAND 2DADDY 2PROTECTOR 2HERO — speakers: Santa Claus, Dillin Apelyan, Elliot Davis, Rowan Zeoli, Rowan Zeoli Viditya Voleti, Viditya Voleti Robin Ekberg, Reveille Editing, James D'Amato
-- 2026-01-05 — 633. Last Train to Bremen, Episode 4 — speakers: Lauren Drake, Rpg Major, Jon Andrew Franklin, James D'Amato
-- 2025-12-29 — 632. Last Train to Bremen, Episode 3 — speakers: Lauren Drake, Rpg Major, James D'Amato
-- 2025-12-22 — 631. Last Train to Bremen, Episode 2 — speakers: Lauren Drake, Rpg Major, James D'Amato
-- 2025-12-15 — 630. Last Train to Bremen, Episode 1 — speakers: Hound Helix, Rpg Major, James D'Amato
-- 2025-12-10 — 629. Can You Host, Episode 2 — speakers: Dillin Brie Bluu Angel, Delight Finito, Nathan Gunaselvam, Delight Editing, James D'Amato
-- 2025-12-01 — 628. Can You Host, Episode 1 — speakers: Dillin Brie Bluu Angel, Delight Portafunk, Jessie Villa, Matt Wigton, Delight Panic, Tiger Gang Finito, James D'Amato
-- 2025-11-17 — 627. Hinterlight, Episode 3 — speakers: Dillin Edward, Lexi Tyler, Wicked Cinema Witch, Cinema Folkloric, Wicked Cinema Leatherface, Wicked Cinema, James D'Amato
-- 2025-11-10 — 626. Hinterlight, Episode 2 — speakers: Dillin Edward, Lexi Tyler, James D'Amato
-- 2025-11-03 — 625. Hinterlight, Episode 1 — speakers: Dillin Edward, Lexi Tyler, Wicked Cinema Folkloric, Wicked Cinema Leatherface, Wicked Cinema Doll, James D'Amato
-- 2025-10-28 — 624. Slugblaster, Episode 3 — speakers: Cow Chair, Tony Sopiano Editing, James D'Amato
-- 2025-10-22 — 623. Slugblaster, Episode 2 — speakers: Midnight Daydream BreakThrough, Gee Smith, Sam Barsh, Shaghik Manè, James D'Amato
-- 2025-10-14 — 622. The Time We have - REMASTER — speakers: Cameron Elliot Davis, Shaghik Manè, James D'Amato
-- 2025-10-06 — 621. Slugblaster, Episode 1 — speakers: Dillin Christian, Summer Steve, Finn Shenuque, Daniele Musto Editing, Shaghik Manè, James D'Amato
-- 2025-09-29 — 620. Cosmic Century Knights, Episode 4 — speakers: Century Knights, Dillin James Daniel Viditya, Isaac Joel Prime Time, Samme Editing, Shaghik Manè, James D'Amato
-- 2025-09-23 — 619. Cosmic Century Knights, Episode 3 — speakers: Century Knights, Isaac Joel Prime Time, Shaghik Manè, James D'Amato
-- 2025-09-16 — 618. Cosmic Century Knights, Episode 2 — speakers: Century Knights, Dillin James Daniel Viditya, Isaac Joel Enola, Shaghik Manè, James D'Amato
-- 2025-09-10 — 617. Cosmic Century Knights, Episode 1 — speakers: Century Knights, Dillin James Daniel Viditya, Isaac Joel Editing, James D'Amato
-- 2025-08-25 — 616. Huckleberry, Episode 3 — speakers: Huckleberry Rpg, Dillin Vyn, Adam Saban Smart Horse, James D'Amato
-- 2025-08-18 — 615. Huckleberry, Episode 2 — speakers: Huckleberry Rpg, Dillin Vyn, Adam Saban Smart Horse, James D'Amato
-- 2025-08-11 — 614. Huckleberry, Episode 1 — speakers: Huckleberry Rpg, Dillin Vyn, Desert Dive, James D'Amato
-- 2025-08-04 — 613. Fall of Magic, Episode 3 — speakers: Dijon Editing, James D'Amato
-- 2025-07-28 — 612. Fall of Magic, Episode 2 — speakers: Dijon Editing, James D'Amato
-- 2025-07-21 — 611. Fall of Magic, Episode 1 — speakers: James System Mastery, Dijon Buried Memories, Cody Martin Editing, James D'Amato
-- 2025-07-14 — 610. You Know Me Still, Episode 2 — speakers: Dillin Persephone Valentine, JCar Constant Surveillance, JCar Cupid, Orchestra Editing, James D'Amato
-- 2025-07-07 — 609. You Know Me Still, Episode 1 — speakers: Dillin Persephone Valentine, Orchestra Constant Surveillance, Adam Saban Editing, James D'Amato
-- 2025-06-30 — 608. Campanions, Episode 3 — speakers: Adam Saban, Rex Manning, James D'Amato
-- 2025-06-26 — One Shot Talkbacks: Husband Daddy Protector Hero — speakers: Viditya Voleti, Rowan Zeoli, James D'Amato
-- 2025-06-23 — 607. Campanions, Episode 2 — speakers: Adam Saban, Shimmer Editing, James D'Amato
-- 2025-06-16 — 606. Campanions, Episode 1 — speakers: Dillin Candace, Shimmer Editing, James D'Amato
-- 2025-06-09 — 605. Going Rogue, Episode 2 — speakers: Kendrick Smith, Natalie Watson, Cody Martin, Jess Levine, James D'Amato
-- 2025-06-02 — 604. The Wanderer — speakers: Orbital Blues, Cody Martin Desolation, Alex Kipp SkyWalker, Grace Mccoy Riding, Fly Away, Michael Briguglio Gladwyn, Morgan Taylor Apollo, Transmuter Wee Goo
-- 2025-05-26 — 603. Going Rogue, Episode 1 — speakers: Kendrick Smith, Natalie Watson, Cody Martin, Jess Levine, James D'Amato
-- 2025-05-20 — GOING ROGUE TRAILER — speakers: Dillin Apelyan, Austin Walker, Kendrick Smith, Natalie Watson Going Rogue, Jeff Stormer, James D'Amato
-- 2025-05-19 — 602. Mad As Hell, Episode 3 — speakers: Dillin Mozz Darby Angie, Lndo Cimmeria, James D'Amato
-- 2025-05-13 — 601. Mad As Hell, Episode 2 — speakers: Dillin Mozz Darby Angie, Afternoonz Cimmeria, James D'Amato
-- 2025-05-05 — 600. Mad As Hell, Episode 1 — speakers: Dillin Mozz Darby Angie, James D'Amato
-- 2025-04-28 — 599. Deify, Episode 2 — speakers: Dillin Viditya Voleti, Cody Martin Editing, James D'Amato
-- 2025-04-21 — 598. Deify, Episode 1 — speakers: Dillin Viditya Voleti, Cody Martin Editing, James D'Amato
-- 2025-04-14 — 597. Under the Autumn Strangely, Episode 2 — speakers: Dillin Brian Flaherty, Fiona Howat, Rest Settle, James D'Amato
-- 2025-04-07 — 596. Under the Autumn Strangely, Episode 1 — speakers: Dillin Brian Flaherty, Fiona Howat, Rest Settle Left, Wastelander Veil, Cody Martin Editing, James D'Amato
-- 2025-03-31 — 595. A Land Once Magic, Episode 3 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Across, Cody Martin Pembrokeshire, Cody Martin Looking
-- 2025-03-24 — 594. A Land Once Magic, Episode 2 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Editing, James D'Amato
-- 2025-03-17 — 593. A Land Once Magic, Episode 1 — speakers: Viditya Voleti, Aaron Catano-Saez, Jeff Stormer, Dillin Viditya Voleti, Aaron Catano-Saez Jeff, Cody Martin Editing, James D'Amato
-- 2025-03-10 — 592. Wildfire Trilogy, Episode 2 — speakers: Dillin Quinn, BrieAnna Allen Bluu Smith, James D'Amato
-- 2025-03-03 — 591. Wildfire Trilogy, Episode 1 — speakers: Dillin Quinn, BrieAnna Allen Bluu Smith, Delbony Harvester, Wicked Cinema Dark Places, Cody Martin Hallowed Halls, James D'Amato
-- 2025-02-24 — 590. Triangle Agency, Episode 3 — speakers: Wicked Cinema Leatherface, Dijon Editing, James D'Amato
-- 2025-02-17 — 589. Triangle Agency, Episode 2 — speakers: Superdillin’s Reverse Moving Sale, Wicked Cinema Sinister, James D'Amato
-- 2025-02-10 — 588. Triangle Agency, Episode 1 — speakers: Dillin Candace, Wicked Cinema Leatherface, Wicked Cinema Sinister, Cinema Boo, James D'Amato
+- 2026-02-23 — 639. Rise, Wizards!, Episode 2 — speakers: James D'Amato
+- 2026-02-16 — 638. Rise, Wizards!, Episode 1 — speakers: James D'Amato
+- 2026-02-07 — 637. One Shot 100.1 OSN — speakers: One Shot, James D'Amato
+- 2026-01-31 — 636. Tacklebox — speakers: James D'Amato
+- 2026-01-29 — TRAILER | Dillin's 100 Episode Special — speakers: James D'Amato
+- 2026-01-24 — 635. New in Town — speakers: James D'Amato
+- 2026-01-12 — 634. 2HUSBAND 2DADDY 2PROTECTOR 2HERO — speakers: Santa Claus, James D'Amato
+- 2026-01-05 — 633. Last Train to Bremen, Episode 4 — speakers: Last Train, One Shot, James D'Amato
+- 2025-12-29 — 632. Last Train to Bremen, Episode 3 — speakers: Last Train, One Shot, James D'Amato
+- 2025-12-22 — 631. Last Train to Bremen, Episode 2 — speakers: Last Train, One Shot, James D'Amato
+- 2025-12-15 — 630. Last Train to Bremen, Episode 1 — speakers: James D'Amato
+- 2025-12-10 — 629. Can You Host, Episode 2 — speakers: James D'Amato
+- 2025-12-01 — 628. Can You Host, Episode 1 — speakers: James D'Amato
+- 2025-11-17 — 627. Hinterlight, Episode 3 — speakers: James D'Amato
+- 2025-11-10 — 626. Hinterlight, Episode 2 — speakers: Content Warning, James D'Amato
+- 2025-11-03 — 625. Hinterlight, Episode 1 — speakers: James D'Amato
+- 2025-10-28 — 624. Slugblaster, Episode 3 — speakers: James D'Amato
+- 2025-10-22 — 623. Slugblaster, Episode 2 — speakers: James D'Amato
+- 2025-10-14 — 622. The Time We have - REMASTER — speakers: James D'Amato
+- 2025-10-06 — 621. Slugblaster, Episode 1 — speakers: James D'Amato
+- 2025-09-29 — 620. Cosmic Century Knights, Episode 4 — speakers: Century Knights, James D'Amato
+- 2025-09-23 — 619. Cosmic Century Knights, Episode 3 — speakers: Century Knights, James D'Amato
+- 2025-09-16 — 618. Cosmic Century Knights, Episode 2 — speakers: Century Knights, James D'Amato
+- 2025-09-10 — 617. Cosmic Century Knights, Episode 1 — speakers: Century Knights, James D'Amato
+- 2025-08-25 — 616. Huckleberry, Episode 3 — speakers: James D'Amato
+- 2025-08-18 — 615. Huckleberry, Episode 2 — speakers: James D'Amato
+- 2025-08-11 — 614. Huckleberry, Episode 1 — speakers: James D'Amato
+- 2025-08-04 — 613. Fall of Magic, Episode 3 — speakers: James D'Amato
+- 2025-07-28 — 612. Fall of Magic, Episode 2 — speakers: James D'Amato
+- 2025-07-21 — 611. Fall of Magic, Episode 1 — speakers: James D'Amato
+- 2025-07-14 — 610. You Know Me Still, Episode 2 — speakers: James D'Amato
+- 2025-07-07 — 609. You Know Me Still, Episode 1 — speakers: James D'Amato
+- 2025-06-30 — 608. Campanions, Episode 3 — speakers: James D'Amato
+- 2025-06-26 — One Shot Talkbacks: Husband Daddy Protector Hero — speakers: One Shot Talkbacks, Husband Daddy Protector Hero, Two Shots, James D'Amato
+- 2025-06-23 — 607. Campanions, Episode 2 — speakers: James D'Amato
+- 2025-06-16 — 606. Campanions, Episode 1 — speakers: Dragon Age, Mass Effect, Baldurs Gate, James D'Amato
+- 2025-06-09 — 605. Going Rogue, Episode 2 — speakers: Kendrick Smith, James D'Amato
+- 2025-06-02 — 604. The Wanderer — speakers: James D'Amato
+- 2025-05-26 — 603. Going Rogue, Episode 1 — speakers: Kendrick Smith, James D'Amato
+- 2025-05-20 — GOING ROGUE TRAILER — speakers: One Shot, James D'Amato
+- 2025-05-19 — 602. Mad As Hell, Episode 3 — speakers: James D'Amato
+- 2025-05-13 — 601. Mad As Hell, Episode 2 — speakers: James D'Amato
+- 2025-05-05 — 600. Mad As Hell, Episode 1 — speakers: James D'Amato
+- 2025-04-28 — 599. Deify, Episode 2 — speakers: James D'Amato
+- 2025-04-21 — 598. Deify, Episode 1 — speakers: James D'Amato
+- 2025-04-14 — 597. Under the Autumn Strangely, Episode 2 — speakers: Autumn Strangely, James D'Amato
+- 2025-04-07 — 596. Under the Autumn Strangely, Episode 1 — speakers: Autumn Strangely, James D'Amato
+- 2025-03-31 — 595. A Land Once Magic, Episode 3 — speakers: Land Once Magic, James D'Amato
+- 2025-03-24 — 594. A Land Once Magic, Episode 2 — speakers: Land Once Magic, James D'Amato
+- 2025-03-17 — 593. A Land Once Magic, Episode 1 — speakers: James D'Amato
+- 2025-03-10 — 592. Wildfire Trilogy, Episode 2 — speakers: Wildfire Trilogy, James D'Amato
+- 2025-03-03 — 591. Wildfire Trilogy, Episode 1 — speakers: Wildfire Trilogy, James D'Amato
+- 2025-02-24 — 590. Triangle Agency, Episode 3 — speakers: Triangle Agency, James D'Amato
+- 2025-02-17 — 589. Triangle Agency, Episode 2 — speakers: James D'Amato
+- 2025-02-10 — 588. Triangle Agency, Episode 1 — speakers: Triangle Agency, James D'Amato
 - 2025-02-03 — 587. No Mercy For Monsters — speakers: James D'Amato
-- 2025-01-27 — 586. Iron Edda Reforged, Episode 3 — speakers: Tracy Barnett, Scott Buckley Electric Dreams, Scott Buckley Eclipse, Scott Buckley, James D'Amato
-- 2025-01-20 — 585. Iron Edda Reforged, Episode 2 — speakers: Tracy Barnett, Scott Buckley, Scott Buckley Electric Dreams, Scott Buckley Open Mind, Featherland Editing, James D'Amato
-- 2025-01-13 — 584. Iron Edda Reforged, Episode 1 — speakers: Tracy Barnett, Scott Buckley, James D'Amato
-- 2025-01-06 — 583. Husband Daddy Protector Hero — speakers: Viditya Voleti, Robin Ekberg, James D'Amato
-- 2024-12-30 — 582. Our Brilliant Ruin, Episode 3 — speakers: Brilliant Ruin, Dillin Rachel, Cody Martin, Cody Martin Stolen, Dijon Storyteller, Shimmer Editing, Tracy Barnett Find, James D'Amato
-- 2024-12-16 — 581. Our Brilliant Ruin, Episode 2 — speakers: Brilliant Ruin, Dillin Rachel, Cody Martin Let, Dijon Cold Case, Yerself Editing, Tracy Barnett Find, James D'Amato
-- 2024-12-09 — 580. Our Brilliant Ruin, Episode 1 — speakers: Brilliant Ruin, Dillin Rachel, Shimmer Meadowcroft, Cody Martin, Loving Memory, Suite Du Matin, Cody Martin Stolen, Salon Dijon Editing
-- 2024-12-02 — 579. Buncha Lil Guys! — speakers: Join Dillin, Dillin Danielle, Dan Casey, Mikey Geiger Twilight, Sam Barsh Electricity, Reveille Editing, Tracy Barnett Find, James D'Amato
-- 2024-11-18 — 578. The Time We Have, Episode 2 — speakers: Dillin Elliot, Phillip Mount Moon Shadow, Tracy Barnett Find, James D'Amato
-- 2024-11-11 — 577. The Time We Have, Episode 1 — speakers: Elliot Davis, Cameron Elliot, Tracy Barnett Find, James D'Amato
-- 2024-11-04 — 576. Paint the Town Red, Episode 3 — speakers: Dillin Sarah, Breeedo Zak, Lndö Beast Mode, Ghost Beatz El Movimiento, Walther Escape, Hawksilver Thunder, Reveille Editing, Tracy Barnett Find
-- 2024-10-28 — 575. Paint the Town Red, Episode 2 — speakers: Dillin Sarah, Breeedo Zak, Cinema Architecht, Sam Barsh, Tracy Barnett Find, James D'Amato
-- 2024-10-21 — 574. Paint the Town Red, Episode 1 — speakers: Dillin Sarah, Breeedo Zak, Rampart CJ-O Beast Mode, Ghosts Architecht, Tracy Barnett Find, James D'Amato
-- 2024-10-14 — 573. Machine Impossible, Episode 3 — speakers: Machine Impossible, James D’Amato, Dillin Jacob Mooney, Mikey Geiger, Walther Transporter, Falls Pausbacken, Sam Barsh Sandman, Tracy Barnett Find
-- 2024-10-07 — 572. Machine Impossible, Episode 2 — speakers: Machine Impossible, Jacob Mooney, Dillin Jacob Mooney, Mikey Geiger Cheap Sakte, Lndö So Dangerous, Tracy Barnett Find, James D'Amato
-- 2024-09-30 — 571. Machine Impossible, Episode 1 — speakers: Machine Impossible, Jacob Mooney, Impossible Wair, Dillin Jacob Mooney, Mikey Geiger, Tracy Barnett Find, James D'Amato
-- 2024-09-23 — 570. For the Queen 2nd Edition, Episode 3 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Breeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head
-- 2024-09-16 — 569. For the Queen 2nd Edition, Episode 2 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Sam Barsh Candy Shop, Matt Wigton Head
-- 2024-09-09 — 568. For the Queen 2nd Edition, Episode 1 — speakers: Dillin Apelyan, Meebo Azrai, Syrus Mo Mo, Daisy Beeedo, Sybil Candace, Dowager Evangeline, Falls Sun, Ghost Beatz Decay
-- 2024-08-26 — 567. GODKILLER, Episode 4 — speakers: Connie Chang, Dillin Apelyan, Cody Martin Al'Athir, Stephen Keech Editing, Tracy Barnett Find, James D'Amato
-- 2024-08-19 — 566. GODKILLER, Episode 3 — speakers: Dillin Apelyan, Connie Chang, Cody Martin Mainframe, Shimmer Persona, Tracy Barnett Find, James D'Amato
-- 2024-08-12 — 565. GODKILLER, Episode 2 — speakers: Dillin Apelyan, Connie Chang, Cody Martin Mists, Stephen Keech Stars Align, Tracy Barnett Find, James D'Amato
-- 2024-08-05 — 564. GODKILLER, Episode 1 — speakers: Dillin Apelyan, Reveille Al'Athir, Tracy Barnett Find, James D'Amato
-- 2024-07-29 — 563. Hunter/ed, Episode 3 — speakers: Dillin Apeylan, Kickstarter Help, Gen Con, Dillin Apelyan, Robin Ekberg, Cody Martin Grim History, Floyd's Tomb, Kevin Graham
-- 2024-07-22 — 562. Hunter/ed, Episode 2 — speakers: Dillin Apeylan, Kickstarter Flame, Tracy’s Family, Dillin Apelyan, Robin Ekberg, Moments Prowler, Hill Vanished, Cody Martin Tempest
-- 2024-07-15 — 561. Hunter/ed, Episode 1 — speakers: Dillin Apeylan, Tracy’s Family, Dillin Apelyan, Robin Ekberg, Cody Martin Lord, Tracy Barnett Find, James D'Amato
-- 2024-07-08 — 560. Bloodbeam Badlands, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Ender Feel My Pulse, Rhythm Scott Twisted, Thorr Glitter Bomb, Tracy Barnett Find
-- 2024-07-01 — 559. Bloodbeam Badlands, Episode 2 — speakers: Tracy’s Family, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Michael Briguglio, Tracy Barnett Find, James D'Amato
-- 2024-06-24 — 558. Bloodbeam Badlands, Episode 1 — speakers: Dorkspawn Save, Dillin Apelyan, Doc Laura Tutu, Jude Wyatt Viditya Voleti, Michael Briguglio Wicked Curiosities, Andy Ellison Devil, Wastelander Editing, Tracy Barnett Find
-- 2024-06-17 — 557. Little Wolves, Episode 4 — speakers: Little Wolves, Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Druid Falls Raintree, Cinema Lone Wolf, Tracy Barnett Find, James D'Amato
-- 2024-06-10 — 556. Little Wolves, Episode 3 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Ever After, Shimmer Tales, Witch Lair, Adam Saban, Third Age
-- 2024-06-03 — 555. Little Wolves, Episode 2 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Third Age Aurora, Colossus Lone Wolf, Wicked Cinema Azul, Sea Dive, Daniele Musto Editing
-- 2024-05-27 — 554. Little Wolves, Episode 1 — speakers: Help Tracy’s Family, Dillin Apelyan, Noordin Ali Kadir, Druid Falls, Avocado Junkie Pain, Tracy Barnett Find, James D'Amato
-- 2024-05-20 — 553. Orbital Blues, Episode 4 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Dario Benedetti Rooted, Lndö Grit, Kristian Leo, Reveille Tick, Anne Harkey
-- 2024-05-13 — 552. Orbital Blues, Episode 3 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Tic Tac Man, Andy Ellison Humid Blues, Desert Drive, Dario Benedetti, Trap Rap Cowboy
-- 2024-05-06 — 551. Orbital Blues, Episode 2 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Wabash Campfire, Reveille My Own Road, Andy Ellison Never, Yung Koolade Cowboy, Dario Benedetti
-- 2024-04-29 — 550. Orbital Blues, Episode 1 — speakers: Orbital Blues, Dillin Apelyan, Vicar Yuko Drakoniques, Iron Skillet, Andy Ellison, Dario Benedetti, Midnight Stroll, Ian Kelosky Rooted
-- 2024-04-22 — 549. EPIC Mundane, Episode 3 — speakers: Ryan Khan Orbital Blues, Blackstar Pre-Order, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Ghost Beatz Lndo, Tracy Barnett Find, James D'Amato
-- 2024-04-15 — 548. EPIC Mundane, Episode 2 — speakers: Ryan Khan Pre-Order, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Cody Martin Full Strength, Rhythm Scott Editing, Tracy Barnett Find, James D'Amato
-- 2024-04-08 — 547. EPIC Mundane, Episode 1 — speakers: Blues Blackstar, Dillin Apelyan Robin Ekberg, Label Interest Nervous Wreck, Tracy Barnett Find, James D'Amato
-- 2024-04-01 — 546. Scene Thieves, Episode 3 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Matt Wigton, Brunch Hudson Hawk, Moments Beat, Cody Martin, Andrew Stanton, Adam Saban Heist
-- 2024-03-25 — 545. Scene Thieves, Episode 2 — speakers: Lin Manuel Miranda, Dillin Apelyan Robin Ekberg, Sam Barsh, Delight Thunder City, Avocado Junkie Liberty, Pajamas Forevermore, Reveille Sneaksters, Tracy Barnett Find
-- 2024-03-18 — 544. Scene Thieves, Episode 1 — speakers: Dillin Apelyan Robin Ekberg, Tracy Barnett Find, James D'Amato
-- 2024-03-11 — 543. DAWN, Episode 3 — speakers: Tracy Barnett Find, James D'Amato
-- 2024-03-04 — 542. DAWN, Episode 2 — speakers: Lunareh Honor, Tracy Barnett Find, James D'Amato
-- 2024-02-26 — 541. DAWN, Episode 1 — speakers: Campfire Deck Catch James, Tracy Barnett Find, James D'Amato
-- 2024-02-19 — 540. I Have the High Ground, Episode 3 — speakers: Jess Levine, Dillin Apelyan James D’Amato, Bat Audio, Tracy Barnett Find, James D'Amato
-- 2024-02-12 — 539. I Have the High Ground, Episode 2 — speakers: Dillin Apelyan James D’Amato, Color Theory, Bat Audio, Tracy Barnett Find, James D'Amato
-- 2024-02-05 — 538. I Have the High Ground, Episode 1 — speakers: Jess Levine, Dillin Apelyan James D’Amato, Tracy Barnett Find, James D'Amato
-- 2024-02-05 — ONE SHOT HOST ANNOUNCEMENT! — speakers: One Shot, Earth Learn, James D'Amato
-- 2024-01-29 — 537. Star Crossed Solo, Episode 6 — speakers: Find James, James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2024-01-22 — 536. Star Crossed Solo, Episode 5 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2024-01-15 — 535. Star Crossed Solo, Episode 4 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2024-01-08 — 534. Star Crossed Solo, Episode 3 — speakers: James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2024-01-01 — 533. J's Blades in the Dark, Episode 3 — speakers: John Harper’s Blades, James D’Amato, Cody Martin Main, Theme Harboring, Salon Dijon Gabe, Unexpected Turn, Grandpa Gus, Leech Theme Maleficus
-- 2023-12-18 — 533. J's Blades in the Dark, Episode 2 — speakers: John Harper’s Blades, James D’Amato, Cody Martin, Tracy Barnett, Tracy Barnett Find, James D'Amato
-- 2023-12-11 — 532. J's Blades in the Dark, Episode 1 — speakers: John Harper’s Blades, James D’Amato, Big Beaz, Cody Martin, Tracy Barnett, Tracy Barnett Find, James D'Amato
-- 2023-12-04 — 531. Star Crossed Solo, Episode 2 — speakers: Big Beaz, James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2023-11-27 — 530. Star Crossed Solo, Episode 1 — speakers: Big Beaz, James D’Amato James, Twitter Make, Tracy Barnett Find, James D'Amato
-- 2023-11-13 — 529. Community Radio, Episode 2 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find
-- 2023-11-06 — 528. Community Radio, Episode 1 — speakers: Big Beaz, James D’Amato James, Twitter Make, Nathan Blades, Ben Meredith, Tim Meredith, Stella Firma, Tracy Barnett Find
-- 2023-10-30 — 527. Big Beaz's Gunfucks, Episode 4 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter
-- 2023-10-23 — 526. Big Beaz's Gunfucks, Episode 3 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky Twitter
-- 2023-10-16 — 525. Big Beaz's Gunfucks, Episode 2 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky
-- 2023-10-09 — 524. Big Beaz's Gunfucks, Episode 1 — speakers: Adira Slattery, Adira’s Twitter, Twitter Make, Lev Rodriguez Shiver, Nathan Blades, Aaron Willems, Russell Majkowski, Twitch Bluesky
-- 2023-10-02 — 523. Noir's Urban Shadows, Episode 4 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
-- 2023-09-25 — 522. Noir's Urban Shadows, Episode 3 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
-- 2023-09-18 — 521. Noir's Urban Shadows, Episode 2 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett Learn, James D'Amato
-- 2023-09-11 — 520. Noir's Urban Shadows, Episode 1 — speakers: James D’Amato, Eric Campbell, Ziggy Twitter Check, Stella Luna, Astrid Twitter Check, Sam De Leve, Tracy Barnett, James D'Amato
-- 2023-08-28 — 519. Renee Rhodes' Animon Story, Episode Four — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
-- 2023-08-21 — 518. Renee Rhodes' Animon Story, Episode Three — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
-- 2023-08-14 — 517. Renee Rhodes' Animon Story, Episode Two — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Card Deck, Kienna Shaw, Bee Zelda
-- 2023-08-07 — 516. Renee Rhodes' Animon Story, Episode One — speakers: Renee Rhodes, Animon Story, Zak Barough, Zak’s Twitter, James D’Amato, Maximillian Kienna Shaw, Bee Zelda, Tracy Barnett
+- 2025-01-27 — 586. Iron Edda Reforged, Episode 3 — speakers: James D'Amato
+- 2025-01-20 — 585. Iron Edda Reforged, Episode 2 — speakers: James D'Amato
+- 2025-01-13 — 584. Iron Edda Reforged, Episode 1 — speakers: Iron Edda Reforged, James D'Amato
+- 2025-01-06 — 583. Husband Daddy Protector Hero — speakers: Husband Daddy Protector Hero, James D'Amato
+- 2024-12-30 — 582. Our Brilliant Ruin, Episode 3 — speakers: Brilliant Ruin, James D'Amato
+- 2024-12-16 — 581. Our Brilliant Ruin, Episode 2 — speakers: Brilliant Ruin, James D'Amato
+- 2024-12-09 — 580. Our Brilliant Ruin, Episode 1 — speakers: Brilliant Ruin, James D'Amato
+- 2024-12-02 — 579. Buncha Lil Guys! — speakers: Join Dillin, James D'Amato
+- 2024-11-18 — 578. The Time We Have, Episode 2 — speakers: James D'Amato
+- 2024-11-11 — 577. The Time We Have, Episode 1 — speakers: Elliot Davis, James D'Amato
+- 2024-11-04 — 576. Paint the Town Red, Episode 3 — speakers: Town Red, James D'Amato
+- 2024-10-28 — 575. Paint the Town Red, Episode 2 — speakers: Town Red, James D'Amato
+- 2024-10-21 — 574. Paint the Town Red, Episode 1 — speakers: Town Red, All Happening Tonight, James D'Amato
+- 2024-10-14 — 573. Machine Impossible, Episode 3 — speakers: Machine Impossible, James D'Amato
+- 2024-10-07 — 572. Machine Impossible, Episode 2 — speakers: Machine Impossible, Jacob Mooney, James D'Amato
+- 2024-09-30 — 571. Machine Impossible, Episode 1 — speakers: Machine Impossible, Jacob Mooney, James D'Amato
+- 2024-09-23 — 570. For the Queen 2nd Edition, Episode 3 — speakers: James D'Amato
+- 2024-09-16 — 569. For the Queen 2nd Edition, Episode 2 — speakers: James D'Amato
+- 2024-09-09 — 568. For the Queen 2nd Edition, Episode 1 — speakers: James D'Amato
+- 2024-08-26 — 567. GODKILLER, Episode 4 — speakers: James D'Amato
+- 2024-08-19 — 566. GODKILLER, Episode 3 — speakers: James D'Amato
+- 2024-08-12 — 565. GODKILLER, Episode 2 — speakers: James D'Amato
+- 2024-08-05 — 564. GODKILLER, Episode 1 — speakers: James D'Amato
+- 2024-07-29 — 563. Hunter/ed, Episode 3 — speakers: James D'Amato
+- 2024-07-22 — 562. Hunter/ed, Episode 2 — speakers: James D'Amato
+- 2024-07-15 — 561. Hunter/ed, Episode 1 — speakers: James D'Amato
+- 2024-07-08 — 560. Bloodbeam Badlands, Episode 3 — speakers: Bloodbeam Badlands, James D'Amato
+- 2024-07-01 — 559. Bloodbeam Badlands, Episode 2 — speakers: James D'Amato
+- 2024-06-24 — 558. Bloodbeam Badlands, Episode 1 — speakers: Bloodbeam Badlands, James D'Amato
+- 2024-06-17 — 557. Little Wolves, Episode 4 — speakers: Little Wolves, James D'Amato
+- 2024-06-10 — 556. Little Wolves, Episode 3 — speakers: Little Wolves, James D'Amato
+- 2024-06-03 — 555. Little Wolves, Episode 2 — speakers: Little Wolves, James D'Amato
+- 2024-05-27 — 554. Little Wolves, Episode 1 — speakers: Little Wolves, Troll Queen, James D'Amato
+- 2024-05-20 — 553. Orbital Blues, Episode 4 — speakers: Orbital Blues, James D'Amato
+- 2024-05-13 — 552. Orbital Blues, Episode 3 — speakers: Orbital Blues, James D'Amato
+- 2024-05-06 — 551. Orbital Blues, Episode 2 — speakers: Orbital Blues, James D'Amato
+- 2024-04-29 — 550. Orbital Blues, Episode 1 — speakers: Orbital Blues, James D'Amato
+- 2024-04-22 — 549. EPIC Mundane, Episode 3 — speakers: James D'Amato
+- 2024-04-15 — 548. EPIC Mundane, Episode 2 — speakers: James D'Amato
+- 2024-04-08 — 547. EPIC Mundane, Episode 1 — speakers: James D'Amato
+- 2024-04-01 — 546. Scene Thieves, Episode 3 — speakers: Slut City, James D'Amato
+- 2024-03-25 — 545. Scene Thieves, Episode 2 — speakers: James D'Amato
+- 2024-03-18 — 544. Scene Thieves, Episode 1 — speakers: James D'Amato
+- 2024-03-11 — 543. DAWN, Episode 3 — speakers: James D'Amato
+- 2024-03-04 — 542. DAWN, Episode 2 — speakers: James D'Amato
+- 2024-02-26 — 541. DAWN, Episode 1 — speakers: One Shot, James D'Amato
+- 2024-02-19 — 540. I Have the High Ground, Episode 3 — speakers: High Ground, James D'Amato
+- 2024-02-12 — 539. I Have the High Ground, Episode 2 — speakers: High Ground, James D'Amato
+- 2024-02-05 — 538. I Have the High Ground, Episode 1 — speakers: James D'Amato
+- 2024-02-05 — ONE SHOT HOST ANNOUNCEMENT! — speakers: One Shot, James D'Amato
+- 2024-01-29 — 537. Star Crossed Solo, Episode 6 — speakers: Star Crossed Solo, Star Crossed, James D'Amato
+- 2024-01-22 — 536. Star Crossed Solo, Episode 5 — speakers: Star Crossed Solo, Star Crossed, James D'Amato
+- 2024-01-15 — 535. Star Crossed Solo, Episode 4 — speakers: Star Crossed Solo, Star Crossed, James D'Amato
+- 2024-01-08 — 534. Star Crossed Solo, Episode 3 — speakers: Star Crossed Solo, Star Crossed, James D'Amato
+- 2024-01-01 — 533. J's Blades in the Dark, Episode 3 — speakers: James D'Amato
+- 2023-12-18 — 533. J's Blades in the Dark, Episode 2 — speakers: James D'Amato
+- 2023-12-11 — 532. J's Blades in the Dark, Episode 1 — speakers: James D'Amato
+- 2023-12-04 — 531. Star Crossed Solo, Episode 2 — speakers: Star Crossed Solo, James D'Amato
+- 2023-11-27 — 530. Star Crossed Solo, Episode 1 — speakers: Star Crossed Solo, James D'Amato
+- 2023-11-13 — 529. Community Radio, Episode 2 — speakers: Community Radio, James D'Amato
+- 2023-11-06 — 528. Community Radio, Episode 1 — speakers: Community Radio, James D'Amato
+- 2023-10-30 — 527. Big Beaz's Gunfucks, Episode 4 — speakers: Big Beaz, One Shot Network Auditioning, James D'Amato
+- 2023-10-23 — 526. Big Beaz's Gunfucks, Episode 3 — speakers: Big Beaz, One Shot Network Auditioning, James D'Amato
+- 2023-10-16 — 525. Big Beaz's Gunfucks, Episode 2 — speakers: Big Beaz, One Shot Network Auditioning, James D'Amato
+- 2023-10-09 — 524. Big Beaz's Gunfucks, Episode 1 — speakers: Big Beaz, James D'Amato
+- 2023-10-02 — 523. Noir's Urban Shadows, Episode 4 — speakers: Urban Shadows, Magpie Games Urban Shadows, James D'Amato
+- 2023-09-25 — 522. Noir's Urban Shadows, Episode 3 — speakers: Urban Shadows, Magpie Games Urban Shadows, James D'Amato
+- 2023-09-18 — 521. Noir's Urban Shadows, Episode 2 — speakers: Urban Shadows, Magpie Games Urban Shadows, James D'Amato
+- 2023-09-11 — 520. Noir's Urban Shadows, Episode 1 — speakers: Urban Shadows, Magpie Games Urban Shadows, James D'Amato
+- 2023-08-28 — 519. Renee Rhodes' Animon Story, Episode Four — speakers: Renee Rhodes, Animon Story, James D'Amato
+- 2023-08-21 — 518. Renee Rhodes' Animon Story, Episode Three — speakers: Renee Rhodes, Animon Story, James D'Amato
+- 2023-08-14 — 517. Renee Rhodes' Animon Story, Episode Two — speakers: Renee Rhodes, Animon Story, James D'Amato
+- 2023-08-07 — 516. Renee Rhodes' Animon Story, Episode One — speakers: Renee Rhodes, Animon Story, James D'Amato
 - 2023-07-31 — 515. Superdillin's Critters & Concrete, Episode Three — speakers: James D'Amato
 - 2023-07-24 — 514. Superdillin's Critters & Concrete, Episode Two — speakers: James D'Amato
-- 2023-07-17 — 513. Superdillin's Critters & Concrete, Episode One — speakers: CA Gencon, James D'Amato
-- 2023-07-10 — 512. Chuubo's Marvelous Wish Granting Engine: Part 5 — speakers: Leonardo James D'Amato, CA Gencon, James D'Amato
-- 2023-07-03 — 511. Chuubo's Marvelous Wish-Granting Engine Part 4 — speakers: Leonardo James D'Amato, CA Gencon, James D'Amato
-- 2023-06-26 — 510. Chuubo's Marvelous Wish-Granting Engine Part 3 — speakers: Leonardo James D'Amato, CA Gencon, James D'Amato
-- 2023-06-19 — 509. Chuubo's Marvelous Wish-Granting Engine Part 2 — speakers: James D'Amato
-- 2023-06-12 — 508. Chuubo's Marvelous Wish-Granting Engine Part 1 — speakers: James D'Amato
+- 2023-07-17 — 513. Superdillin's Critters & Concrete, Episode One — speakers: James D'Amato
+- 2023-07-10 — 512. Chuubo's Marvelous Wish Granting Engine: Part 5 — speakers: Marvelous Wish Granting Engine, James D'Amato
+- 2023-07-03 — 511. Chuubo's Marvelous Wish-Granting Engine Part 4 — speakers: Marvelous Wish, Oddly Chuubo, James D'Amato
+- 2023-06-26 — 510. Chuubo's Marvelous Wish-Granting Engine Part 3 — speakers: James D'Amato
+- 2023-06-19 — 509. Chuubo's Marvelous Wish-Granting Engine Part 2 — speakers: Marvelous Wish, James D'Amato
+- 2023-06-12 — 508. Chuubo's Marvelous Wish-Granting Engine Part 1 — speakers: Marvelous Wish, Meet Chuubo, James D'Amato
 - 2023-06-05 — 507. Firebrands, Episode Four — speakers: James D'Amato
 - 2023-05-29 — 506. Firebrands, Episode Three — speakers: James D'Amato
 - 2023-05-22 — 505. Firebrands, Episode Two — speakers: James D'Amato
@@ -13902,28 +13182,28 @@
 - 2023-03-27 — 497. Arcana Arms, Episode 3 — speakers: Arcana Arms, James D'Amato
 - 2023-03-21 — 496. Arcana Arms, Episode 2 — speakers: Arcana Arms, James D'Amato
 - 2023-03-13 — 495. Arcana Arms, Ep 1 — speakers: Arcana Arms, James D'Amato
-- 2023-03-06 — 494. Into the Wizard's Tower, Episode 04 — speakers: Jeff Stormer, James D'Amato
-- 2023-02-27 — 493. Into the Wizard's Tower, Episode 3 — speakers: Jeff Stormer, James D'Amato
-- 2023-02-20 — 492. Into the Wizard's Tower, Episode 2 — speakers: Jeff Stormer, James D'Amato
-- 2023-02-13 — 491. Into the Wizard's Tower, Episode 1 — speakers: Jeff Stormer, James D'Amato
-- 2023-02-06 — 490. Monsters & Other Childish Things, Episode 3 — speakers: James D'Amato
+- 2023-03-06 — 494. Into the Wizard's Tower, Episode 04 — speakers: James D'Amato
+- 2023-02-27 — 493. Into the Wizard's Tower, Episode 3 — speakers: James D'Amato
+- 2023-02-20 — 492. Into the Wizard's Tower, Episode 2 — speakers: James D'Amato
+- 2023-02-13 — 491. Into the Wizard's Tower, Episode 1 — speakers: James D'Amato
+- 2023-02-06 — 490. Monsters & Other Childish Things, Episode 3 — speakers: Other Childish Things, James D'Amato
 - 2023-01-23 — 489. Monsters & Other Childish Things, Episode 2 — speakers: Other Childish Things, James D'Amato
-- 2023-01-16 — 488. Monsters & Other Childish Things, Episode 1 — speakers: James D'Amato
-- 2023-01-09 — 487. Brindlewood Bay, Episode 4 — speakers: Rude Tales, James D'Amato
-- 2023-01-02 — 486. Brindlewood Bay, Episode 3 — speakers: Rude Tales, James D'Amato
-- 2022-12-26 — Hark! It's Santa: Twenty Sided Holiday Special — speakers: James D'Amato
-- 2022-12-19 — 485. Brindlewood Bay, Episode 2 — speakers: Rude Tales, James D'Amato
-- 2022-12-12 — 484. Brindlewood Bay, Episode 1 — speakers: Rude Tales, James D'Amato
+- 2023-01-16 — 488. Monsters & Other Childish Things, Episode 1 — speakers: Other Childish TH, James D'Amato
+- 2023-01-09 — 487. Brindlewood Bay, Episode 4 — speakers: James D'Amato
+- 2023-01-02 — 486. Brindlewood Bay, Episode 3 — speakers: James D'Amato
+- 2022-12-26 — Hark! It's Santa: Twenty Sided Holiday Special — speakers: Twenty Sided Holiday Special, James D'Amato
+- 2022-12-19 — 485. Brindlewood Bay, Episode 2 — speakers: James D'Amato
+- 2022-12-12 — 484. Brindlewood Bay, Episode 1 — speakers: James D'Amato
 - 2022-12-05 — 483. Shotguns & Sorcery, Episode 04 — speakers: James D'Amato
 - 2022-11-29 — 482. Shotguns & Sorcery, Episode 3 — speakers: James D'Amato
 - 2022-11-14 — 481. Shotguns & Sorcery, Episode 2 — speakers: James D'Amato
 - 2022-11-14 — One Shot Announcement — speakers: James D'Amato
 - 2022-11-07 — 480. Shotguns & Sorcery, Episode 1 — speakers: James D'Amato
-- 2022-11-03 — Starwhal Odyssey: Preview — speakers: Ryan Boelter Learn, James D'Amato
-- 2022-10-31 — 479. High Magic Lowlives, Episode 4 — speakers: Magic Lowlives, Naomi Rhys, James D'Amato
-- 2022-10-24 — 478. High Magic Lowlives, Episode 3 — speakers: Magic Lowlives, Naomi Rhys, James D'Amato
-- 2022-10-18 — 477. High Magic Lowlives, Episode 2 — speakers: Magic Lowlives, Naomi Rhys, James D'Amato
-- 2022-10-10 — 476. High Magic Lowlives, Episode 1 — speakers: Magic Lowlives, Naomi Rhys, James D'Amato
+- 2022-11-03 — Starwhal Odyssey: Preview — speakers: Starwhal Odyssey, Preview Deep, James D'Amato
+- 2022-10-31 — 479. High Magic Lowlives, Episode 4 — speakers: Magic Lowlives, James D'Amato
+- 2022-10-24 — 478. High Magic Lowlives, Episode 3 — speakers: Magic Lowlives, James D'Amato
+- 2022-10-18 — 477. High Magic Lowlives, Episode 2 — speakers: Magic Lowlives, James D'Amato
+- 2022-10-10 — 476. High Magic Lowlives, Episode 1 — speakers: Magic Lowlives, James D'Amato
 - 2022-10-03 — 475. Ryne, Episode 4 — speakers: James D'Amato
 - 2022-09-26 — 474. Ryne, Episode 3 — speakers: James D'Amato
 - 2022-09-19 — 473. Ryne, Episode 2 — speakers: James D'Amato
@@ -13933,89 +13213,89 @@
 - 2022-08-23 — 469. Avatar, Ep 2 — speakers: James D'Amato
 - 2022-08-15 — 468. Avatar, Ep 1 — speakers: Bee Zelda, James D'Amato
 - 2022-08-08 — 467. Havok Brigade, Ep 4 — speakers: James D'Amato
-- 2022-08-01 — BONUS: Mystery County Monster Hunter Club S3E1 — speakers: Shamanda Felt, Adam Miller, Jeff Murdoch jmurdoink, Krashlee Grenadine, Erin Rein, Susan Wexler, Derrk Plifer, Alan Linic
+- 2022-08-01 — BONUS: Mystery County Monster Hunter Club S3E1 — speakers: Mystery County Monster Hunter, One Shot, James D'Amato
 - 2022-07-25 — 466. Havok Brigade, Ep 3 — speakers: James D'Amato
 - 2022-07-18 — 465. Havok Brigade, Ep 2 — speakers: James D'Amato
-- 2022-07-11 — 464. Havok Brigade, Ep 1 — speakers: NaturallyOrla VJ Harris, Expanded Genres Edition, James D'Amato
-- 2022-07-04 — 463. 1000 Year Old Vampire, Ep 3 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-06-27 — 462. 1000 Year Old Vampire, Ep 2 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-06-21 — 461. 1000 Year Old Vampire, Ep 1 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-06-13 — 460. Pitcrawler, Part 4 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-06-06 — 459. Pitcralwer, Part 3 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-05-30 — 458. Pitcrawler, Part 2 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-05-23 — 457. Pitcrawler, Part 1 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-05-16 — 456. Sleepaway - From the Depths, Part 3 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-05-09 — 455. Sleepaway - From the Depths, Part 2 — speakers: Join Tracy, Expanded Genres Edition, James D'Amato
-- 2022-05-02 — 454. Sleepaway - From the Depths, Part 1 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-04-25 — 453. Wanderhome 2, Part 3 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-04-18 — 452. Wanderhome 2, Part 2 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-04-11 — 451. Wanderhome 2, Part 1 — speakers: Expanded Genres Edition, James D'Amato
-- 2022-04-04 — 450. Dragon Age - The Red Jenny, Part 4 — speakers: Expanded Genres Edition, James D'Amato
+- 2022-07-11 — 464. Havok Brigade, Ep 1 — speakers: Havok Brigade, James D'Amato
+- 2022-07-04 — 463. 1000 Year Old Vampire, Ep 3 — speakers: Year Old Vampire, James D'Amato
+- 2022-06-27 — 462. 1000 Year Old Vampire, Ep 2 — speakers: Year Old Vampire, James D'Amato
+- 2022-06-21 — 461. 1000 Year Old Vampire, Ep 1 — speakers: James D'Amato
+- 2022-06-13 — 460. Pitcrawler, Part 4 — speakers: James D'Amato
+- 2022-06-06 — 459. Pitcralwer, Part 3 — speakers: James D'Amato
+- 2022-05-30 — 458. Pitcrawler, Part 2 — speakers: James D'Amato
+- 2022-05-23 — 457. Pitcrawler, Part 1 — speakers: James D'Amato
+- 2022-05-16 — 456. Sleepaway - From the Depths, Part 3 — speakers: James D'Amato
+- 2022-05-09 — 455. Sleepaway - From the Depths, Part 2 — speakers: James D'Amato
+- 2022-05-02 — 454. Sleepaway - From the Depths, Part 1 — speakers: James D'Amato
+- 2022-04-25 — 453. Wanderhome 2, Part 3 — speakers: James D'Amato
+- 2022-04-18 — 452. Wanderhome 2, Part 2 — speakers: Grand Display, James D'Amato
+- 2022-04-11 — 451. Wanderhome 2, Part 1 — speakers: James D'Amato
+- 2022-04-04 — 450. Dragon Age - The Red Jenny, Part 4 — speakers: James D'Amato
 - 2022-03-28 — 449. Dragon Age - The Red Jenny, Part 3 — speakers: James D'Amato
 - 2022-03-21 — 448. Dragon Age - The Red Jenny, Part 2 — speakers: James D'Amato
 - 2022-03-14 — 447. Dragon Age - The Red Jenny, Part 1 — speakers: James D'Amato
-- 2022-03-07 — 446. Gunfucks, Part 3 — speakers: Stygian Lock, Support Adira, James D'Amato
-- 2022-02-28 — 445. Gunfucks, Part 2 — speakers: Support Adira, James D'Amato
-- 2022-02-21 — 444. Gunfucks, Part 1 — speakers: Adira Slattery, Join Bee, Buy Gunfucks, James D'Amato
-- 2022-02-14 — 443. Doing the Job, Part 2 — speakers: Twitch Learn, James D'Amato
-- 2022-02-07 — 442. Doing the Job, Part One — speakers: Twitch Learn, James D'Amato
-- 2022-01-31 — 441. Punk's Been Dead Since '79, Part Four — speakers: Twitch Learn, James D'Amato
+- 2022-03-07 — 446. Gunfucks, Part 3 — speakers: Stygian Lock, James D'Amato
+- 2022-02-28 — 445. Gunfucks, Part 2 — speakers: James D'Amato
+- 2022-02-21 — 444. Gunfucks, Part 1 — speakers: Adira Slattery, Join Bee, James D'Amato
+- 2022-02-14 — 443. Doing the Job, Part 2 — speakers: James D'Amato
+- 2022-02-07 — 442. Doing the Job, Part One — speakers: James D'Amato
+- 2022-01-31 — 441. Punk's Been Dead Since '79, Part Four — speakers: James D'Amato
 - 2022-01-24 — 440. Punk's Been Dead Since '79, Part Three — speakers: James D'Amato
 - 2022-01-17 — 439. Punk's Been Dead Since '79, Part Two — speakers: Trish Moon, James D'Amato
 - 2022-01-10 — 438. Punk's Been Dead Since '79, Part One — speakers: Trish Moon, James D'Amato
-- 2022-01-02 — 437. Oh Captain, My Captain: Box of Secrets Part 2 — speakers: James D'Amato
+- 2022-01-02 — 437. Oh Captain, My Captain: Box of Secrets Part 2 — speakers: Oh Captain, My Captain, James D'Amato
 - 2021-12-20 — 436. Oh Captain, My Captain: Box of Secrets — speakers: James D'Amato
 - 2021-12-13 — 435. Decaying Orbit Part 2 — speakers: James D'Amato
 - 2021-11-29 — 434. Decaying Orbit Part 1 — speakers: James D'Amato
-- 2021-11-15 — 433. Babes in the Woods Part 5 — speakers: Luckily Freja, James D'Amato
+- 2021-11-15 — 433. Babes in the Woods Part 5 — speakers: James D'Amato
 - 2021-11-08 — 432. Babes in the Woods Part 4 — speakers: James D'Amato
 - 2021-11-01 — 431. Babes in the Woods Part 3 — speakers: James D'Amato
 - 2021-10-25 — 430. Babes in the Woods Part 2 — speakers: James D'Amato
 - 2021-10-18 — 429. Babes in the Woods Part 1 — speakers: James D'Amato
-- 2021-10-14 — Special Feature: Iron Edda Reforged - Puppet Strings — speakers: Tracy Barnett, Alex Flanigan, Bee Zelda, Jeff Stormer, Puppet Strings, Jupiter Alchys, Scott Buckley, de l'enfant
-- 2021-10-11 — 428. Wanderhome Part 3 — speakers: Kickstarter Preview Feed, James D'Amato
-- 2021-10-05 — 427. Wanderhome Part 2 — speakers: Kickstarter Preview Feed, James D'Amato
+- 2021-10-14 — Special Feature: Iron Edda Reforged - Puppet Strings — speakers: Tracy Barnett, Alex Flanigan, Bee Zelda, Jeff Stormer, James D'Amato
+- 2021-10-11 — 428. Wanderhome Part 3 — speakers: James D'Amato
+- 2021-10-05 — 427. Wanderhome Part 2 — speakers: James D'Amato
 - 2021-09-27 — 426. Wanderhome Part 1 — speakers: Adira Slattery, Brennan Lee Mulligan, Charu Patel, James D'Amato
 - 2021-09-20 — 425. The Price of Coal Part 4 — speakers: James D'Amato
-- 2021-09-13 — 424. The Price of Coal Part 3 — speakers: James D'Amato
-- 2021-09-07 — 423. The Price of Coal Part 2 — speakers: John Bailey, Lester Baird, James D'Amato
+- 2021-09-13 — 424. The Price of Coal Part 3 — speakers: West Virginia, James D'Amato
+- 2021-09-07 — 423. The Price of Coal Part 2 — speakers: James D'Amato
 - 2021-08-31 — 422. The Price of Coal Part 1 — speakers: Jennifer Adcock, James Beaz, Paulomi Pratap, Alex Flanigan, James D'Amato
-- 2021-08-23 — 421. Danksgiving Part 2 — speakers: Alan Rickman, James D'Amato
+- 2021-08-23 — 421. Danksgiving Part 2 — speakers: James D'Amato
 - 2021-08-16 — 420. Danksgiving Part 1 — speakers: Kevin Smith, James D'Amato
-- 2021-08-09 — 419. Heart Beats Part 2 — speakers: Huckamule Kidcutter, James D'Amato
+- 2021-08-09 — 419. Heart Beats Part 2 — speakers: James D'Amato
 - 2021-08-02 — 418. Heart Beats Part 1 — speakers: James D'Amato
-- 2021-07-26 — 417. Sentinel Comics Part 5 — speakers: Rpg Buy, Watch James, Alexandra Rowland, Twitch Channel, James D'Amato
-- 2021-07-19 — 416. Sentinel Comics Part 4 — speakers: Rpg Buy, Watch James, Alexandra Rowland, Twitch Channel, James D'Amato
-- 2021-07-12 — 415. Sentinel Comics Part 3 — speakers: Rpg Buy, Watch James, Alexandra Rowland, Twitch Channel, James D'Amato
-- 2021-07-06 — 414. Sentinel Comics Part 2 — speakers: Solid Gold, Rpg Buy, Watch James, Alexandra Rowland, Twitch Channel, James D'Amato
-- 2021-06-28 — 413. Sentinel Comics Part 1 — speakers: Dave Chalker, Christopher Bidell, Rpg Buy, James D'Amato
+- 2021-07-26 — 417. Sentinel Comics Part 5 — speakers: James D'Amato
+- 2021-07-19 — 416. Sentinel Comics Part 4 — speakers: James D'Amato
+- 2021-07-12 — 415. Sentinel Comics Part 3 — speakers: James D'Amato
+- 2021-07-06 — 414. Sentinel Comics Part 2 — speakers: Solid Gold, James D'Amato
+- 2021-06-28 — 413. Sentinel Comics Part 1 — speakers: Dave Chalker, Christopher Bidell, James D'Amato
 - 2021-06-22 — 412. The Well Part 5 — speakers: James D'Amato
 - 2021-06-14 — 411. The Well Part 4 — speakers: James D'Amato
 - 2021-06-07 — 410. The Well Part 3 — speakers: James D'Amato
 - 2021-06-01 — 409. The Well Part 2 — speakers: James D'Amato
 - 2021-05-24 — 408. The Well Part 1 — speakers: James D'Amato
-- 2021-05-17 — 407. Event Planning in Zero G Part 2 — speakers: Ben Meredith, Pulpit Games, James D'Amato
-- 2021-05-10 — 406. Event Planning in Zero G Part 1 — speakers: Ben Meredith, Pulpit Games, Adira Slattery, Jeremy Gage, Jordan Shiveley, Dread Singles, James D'Amato
+- 2021-05-17 — 407. Event Planning in Zero G Part 2 — speakers: Event Planning, James D'Amato
+- 2021-05-10 — 406. Event Planning in Zero G Part 1 — speakers: Event Planning, James D'Amato
 - 2021-05-03 — 405. Shape of Shadows: Scotch and Soda Part 3 — speakers: James D'Amato
 - 2021-04-27 — 404. Shape of Shadows: Scotch and Soda Part 2 — speakers: James D'Amato
 - 2021-04-19 — 403. Shape of Shadows: Scotch and Soda Part 1 — speakers: James D'Amato
 - 2021-04-12 — 402. A Green Hour Part 3 — speakers: James D'Amato
-- 2021-04-05 — 401. A Green Hour Part 2 — speakers: Orimar Vale, James D'Amato
-- 2021-03-29 — 400. A Green Hour Part 1 — speakers: Orimar Vale, James D'Amato
-- 2021-03-22 — 399. Trial Part 3 — speakers: Bruce Orson, Abigail Burke, Orimar Vale, James D'Amato
-- 2021-03-15 — 398. Trial Part 2 — speakers: Emily Burke, Max Bonner, Roberta Orson, James D'Amato
-- 2021-03-09 — 397. Trial Part 1 — speakers: Ali Barthwell, CJ Tuor, Bruce Orson, Abigail Burke, James D'Amato
+- 2021-04-05 — 401. A Green Hour Part 2 — speakers: James D'Amato
+- 2021-03-29 — 400. A Green Hour Part 1 — speakers: James D'Amato
+- 2021-03-22 — 399. Trial Part 3 — speakers: Bruce Orson, James D'Amato
+- 2021-03-15 — 398. Trial Part 2 — speakers: Emily Burke, James D'Amato
+- 2021-03-09 — 397. Trial Part 1 — speakers: Ali Barthwell, CJ Tuor, James D'Amato
 - 2021-03-01 — 396. Our Travelling Home Part 5 — speakers: James D'Amato
 - 2021-02-22 — 395. Our Travelling Home Part 4 — speakers: James D'Amato
 - 2021-02-16 — 394. Our Travelling Home Part 3 — speakers: James D'Amato
-- 2021-02-09 — 393. Our Travelling Home Part 2 — speakers: Thankfully Sorrel, James D'Amato
-- 2021-02-01 — 392. Our Travelling Home Part 1 — speakers: Ash Krider, Bee Zelda, Aly Grauer, James D'Amato
-- 2021-01-26 — 391. Anyone Can Wear the Mask Part 3 — speakers: Max Murray, Councilman Lurker, Will Max, Uncle Bill, James D'Amato
-- 2021-01-18 — 390. Anyone Can Wear the Mask Part 2 — speakers: Ground Hog, James D'Amato
-- 2021-01-11 — 389. Anyone Can Wear the Mask Part 1 — speakers: James D'Amato
+- 2021-02-09 — 393. Our Travelling Home Part 2 — speakers: James D'Amato
+- 2021-02-01 — 392. Our Travelling Home Part 1 — speakers: Ash Krider, James D'Amato
+- 2021-01-26 — 391. Anyone Can Wear the Mask Part 3 — speakers: Anyone Can Wear, James D'Amato
+- 2021-01-18 — 390. Anyone Can Wear the Mask Part 2 — speakers: Anyone Can Wear, Science City, James D'Amato
+- 2021-01-11 — 389. Anyone Can Wear the Mask Part 1 — speakers: James ad, James D'Amato
 - 2021-01-04 — 388. Blades in the Dark Part 4 — speakers: James D'Amato
 - 2020-12-28 — 387. Blades in the Dark Part 3 — speakers: James D'Amato
-- 2020-12-21 — 386. Blades in the Dark Part 2 — speakers: Jubilant Slide, James D'Amato
+- 2020-12-21 — 386. Blades in the Dark Part 2 — speakers: James D'Amato
 - 2020-12-14 — 385. Blades in the Dark Part 1 — speakers: Alan Linic, Stephen Kropa, James D'Amato
 - 2020-12-07 — 384. Hammer of the Earth Part 5 — speakers: James D'Amato
 - 2020-12-01 — 383. Hammer of the Earth Part 4 — speakers: James D'Amato
@@ -14024,48 +13304,48 @@
 - 2020-11-09 — 380. Hammer of the Earth Part 1 — speakers: Johnathan Sims, Sasha Sienna, Ben Meradith, Anil Godigamuwe, James D'Amato
 - 2020-11-02 — 379. InSp3tres Part 3 — speakers: James D'Amato
 - 2020-10-26 — 378. InSp3tres Part 2 — speakers: James D'Amato
-- 2020-10-19 — 377. InSp3tres Part 1 — speakers: Dylan Crackbacker, Spaceman Hotep IV, James D'Amato
+- 2020-10-19 — 377. InSp3tres Part 1 — speakers: Dylan Crackbacker, James D'Amato
 - 2020-10-12 — 376. Breakroom — speakers: James D'Amato
-- 2020-10-05 — 375. Elfinfolk Part 3 — speakers: Kickstarter Learn, James D'Amato
-- 2020-09-28 — 374. Elfinfolk Part 2 — speakers: Kickstarter Learn, James D'Amato
-- 2020-09-21 — 373. Elfinfolk Part 1 — speakers: Mike Migdall, Stephen Kropa, Casey Toney, Arne Parrott, Kickstarter Learn, James D'Amato
-- 2020-09-14 — 372. Sleepaway Part 4 — speakers: Kickstarter Learn, Kickstarter Sleepaway Twitter, James D'Amato
-- 2020-09-07 — 371. Sleepaway Part 3 — speakers: Kickstarter Jay, Kickstarter Sleepaway Twitter, James D'Amato
-- 2020-08-31 — 370. Sleepaway Part 2 — speakers: Kickstarter Jay, Kickstarter Sleepaway Twitter, James D'Amato
-- 2020-08-24 — 369. Sleepaway Part 1 — speakers: Molly Ostertag, Noelle Stevenson, Brennan Lee Milligan, Ben Joseph, Kickstarter Sleepaway Twitter, James D'Amato
+- 2020-10-05 — 375. Elfinfolk Part 3 — speakers: James D'Amato
+- 2020-09-28 — 374. Elfinfolk Part 2 — speakers: James D'Amato
+- 2020-09-21 — 373. Elfinfolk Part 1 — speakers: Mike Migdall, Stephen Kropa, Casey Toney, Arne Parrott, James D'Amato
+- 2020-09-14 — 372. Sleepaway Part 4 — speakers: James D'Amato
+- 2020-09-07 — 371. Sleepaway Part 3 — speakers: James D'Amato
+- 2020-08-31 — 370. Sleepaway Part 2 — speakers: James D'Amato
+- 2020-08-24 — 369. Sleepaway Part 1 — speakers: Molly Ostertag, Noelle Stevenson, Brennan Lee Milligan, Ben Joseph, James D'Amato
 - 2020-08-17 — 368. Kingkiller One Shot Part 9 — speakers: James D'Amato
-- 2020-08-10 — 367. Kingkiller One Shot Part 8 — speakers: Frederico Garbozi, Kickstarter Find, James D'Amato
-- 2020-08-03 — 366. Kingkiller One Shot Part 7 — speakers: Kickstarter Find, James D'Amato
-- 2020-07-28 — 365. Kingkiller One Shot Part 6 — speakers: Samista Estate, James D'Amato
-- 2020-07-21 — 364. Kingkiller One Shot Part 5 — speakers: Lady Samista, James D'Amato
+- 2020-08-10 — 367. Kingkiller One Shot Part 8 — speakers: Frederico Garbozi, James D'Amato
+- 2020-08-03 — 366. Kingkiller One Shot Part 7 — speakers: James D'Amato
+- 2020-07-28 — 365. Kingkiller One Shot Part 6 — speakers: James D'Amato
+- 2020-07-21 — 364. Kingkiller One Shot Part 5 — speakers: Oakmarrow Creek, James D'Amato
 - 2020-07-13 — 363. Kingkiller One Shot Part 4 — speakers: James D'Amato
 - 2020-07-06 — 362. Kingkiller One Shot Part 3 — speakers: James D'Amato
 - 2020-06-29 — 361. Kingkiller One Shot Part 2 — speakers: James D'Amato
-- 2020-06-22 — 360. Kingkiller One Shot Part 1 — speakers: Patrick Rothfuss, Bee Zelda, Liz Anderson, James D'Amato
+- 2020-06-22 — 360. Kingkiller One Shot Part 1 — speakers: James D'Amato
 - 2020-06-15 — 359. Lycantree — speakers: James D'Amato
-- 2020-06-08 — Feed Drop: Dungeons & Da Asians: Episode 1 — speakers: Feed Drop, Empress Zhouxia, La Ning, Sky Soldier Dong Feng, Daniel danielhkwan, Ammar ammarijaz, Steve DeeEmSteve, James D'Amato
-- 2020-06-01 — 358. Visigoths VS Mall Goths Part 4 — speakers: Local Bail Fund Support, Black Lives Matter Get, Physical Copy, James D'Amato
-- 2020-05-25 — 357. Visigoths VS Mall Goths Part 3 — speakers: Mall Goths, Physical Copy, James D'Amato
+- 2020-06-08 — Feed Drop: Dungeons & Da Asians: Episode 1 — speakers: Feed Drop, James D'Amato
+- 2020-06-01 — 358. Visigoths VS Mall Goths Part 4 — speakers: James D'Amato
+- 2020-05-25 — 357. Visigoths VS Mall Goths Part 3 — speakers: Mall Goths, James D'Amato
 - 2020-05-18 — 356. Visigoths VS Mall Goths Part 2 — speakers: James D'Amato
-- 2020-05-11 — 355. Visigoths VS Mall Goths Part 1 — speakers: Lucian Kahn, Bianca Zelda, Stephen Kropa, Alan Linic, Adira Slattery, James D'Amato
-- 2020-05-04 — 354. Casket Land Part 5 — speakers: Micro-Rpg Book, James D'Amato
-- 2020-04-27 — 353. Casket Land Part 4 — speakers: Micro-Rpg Book, James D'Amato
-- 2020-04-20 — 352. Casket Land Part 3 — speakers: Micro-Rpg Book, James D'Amato
-- 2020-04-13 — 351. Casket Land Part 2 — speakers: Micro-Rpg Book, James D'Amato
-- 2020-04-06 — 350. Casket Land Part 1 — speakers: Double Tree, Micro-Rpg Book, James D'Amato
-- 2020-03-30 — 349. Oh Captain, My Captain: Scorpion Sea — speakers: Mailing List Pre-Order, James D'Amato
-- 2020-03-23 — 348. Oh Captain, My Captain: Sub-Versive — speakers: Oh Captain, My Captain, Captain My Captain Mai, James D'Amato
-- 2020-03-16 — 347. Isolated Part 2 — speakers: Max Beller, James D'Amato
-- 2020-03-09 — 346. Isolated Part 1 — speakers: Max Beller, James D'Amato
+- 2020-05-11 — 355. Visigoths VS Mall Goths Part 1 — speakers: Lucian Kahn, Bianca Zelda, James D'Amato
+- 2020-05-04 — 354. Casket Land Part 5 — speakers: Sage Hen, James D'Amato
+- 2020-04-27 — 353. Casket Land Part 4 — speakers: James D'Amato
+- 2020-04-20 — 352. Casket Land Part 3 — speakers: James D'Amato
+- 2020-04-13 — 351. Casket Land Part 2 — speakers: James D'Amato
+- 2020-04-06 — 350. Casket Land Part 1 — speakers: Double Tree, James D'Amato
+- 2020-03-30 — 349. Oh Captain, My Captain: Scorpion Sea — speakers: Oh Captain, My Captain, James D'Amato
+- 2020-03-23 — 348. Oh Captain, My Captain: Sub-Versive — speakers: Oh Captain, My Captain, James D'Amato
+- 2020-03-16 — 347. Isolated Part 2 — speakers: Chicago Bears, James D'Amato
+- 2020-03-09 — 346. Isolated Part 1 — speakers: James D'Amato
 - 2020-03-02 — 345. Descent into Midnight Part 2 — speakers: James D'Amato
 - 2020-02-24 — 344. Descent into Midnight Part 1 — speakers: Taylor LaBresh, Mel D'Amato, Darcy Ross, Cory O'Brien, James D'Amato
-- 2020-02-17 — 343. Minimum Rage Part 3 — speakers: James D'Amato
+- 2020-02-17 — 343. Minimum Rage Part 3 — speakers: Electric Flame, James D'Amato
 - 2020-02-10 — 342. Minimum Rage Part 2 — speakers: James D'Amato
 - 2020-02-03 — 341. Minimum Rage Part 1 — speakers: James D'Amato
 - 2020-01-27 — 340. The Try Guys Try D&D Part 4 — speakers: James D'Amato
-- 2020-01-20 — 339. The Try Guys Try D&D Part 3 — speakers: Kitty Keith, James D'Amato
-- 2020-01-13 — 338. The Try Guys Try D&D Part 2 — speakers: James D'Amato
-- 2020-01-06 — 337. The Try Guys Try D&D Part 1 — speakers: Ned Fulmer, Zach Kornfeld, Keith Habersberger, Eugene Lee Yang, James D'Amato
+- 2020-01-20 — 339. The Try Guys Try D&D Part 3 — speakers: James D'Amato
+- 2020-01-13 — 338. The Try Guys Try D&D Part 2 — speakers: Snowdonian Mayor, James D'Amato
+- 2020-01-06 — 337. The Try Guys Try D&D Part 1 — speakers: James D'Amato
 - 2019-12-30 — 336. Love and Justice Part 2 — speakers: James D'Amato
 - 2019-12-16 — 335. Love and Justice Part 1 — speakers: James D'Amato
 - 2019-12-09 — 334. Iron Edda Part 3 — speakers: James D'Amato
@@ -14077,19 +13357,19 @@
 - 2019-10-21 — 328. Hex Ed Part 3 — speakers: James D'Amato
 - 2019-10-15 — 327. Hex Ed Part 2 — speakers: James D'Amato
 - 2019-10-07 — 326. Hex Ed Part 1 — speakers: James D'Amato
-- 2019-10-01 — 325. Haven: City of Violence Part 3 — speakers: Tide Syste, James D'Amato
-- 2019-09-23 — 324. Haven: City of Violence Part 2 — speakers: Tide System Mastery, Dragon Walks, James D'Amato
+- 2019-10-01 — 325. Haven: City of Violence Part 3 — speakers: James D'Amato
+- 2019-09-23 — 324. Haven: City of Violence Part 2 — speakers: James D'Amato
 - 2019-09-16 — 323. Haven: City of Violence Part 1 — speakers: James D'Amato
 - 2019-09-09 — 322. For the Queen: Doubter's Faith — speakers: James D'Amato
 - 2019-09-03 — 321. Hearts of Magic Part 3 — speakers: James D'Amato
-- 2019-08-26 — 320. Hearts of Magic Part 2 — speakers: James D'Amato
+- 2019-08-26 — 320. Hearts of Magic Part 2 — speakers: House Rapture, James D'Amato
 - 2019-08-19 — 319. Hearts of Magic Part 1 — speakers: James D'Amato
-- 2019-08-12 — 318. Coffee Detective Part 3 — speakers: Coffee Detective, Remmington Smuck, Coffee Detective Pre, James D'Amato
-- 2019-08-05 — 317. Coffee Detective Part 2 — speakers: Coffee Detective, Coffee Detective Pre, James D'Amato
-- 2019-07-29 — 316. Coffee Detective Part 1 — speakers: Coffee Detective, Berlin Jr, Detective Pre, James D'Amato
+- 2019-08-12 — 318. Coffee Detective Part 3 — speakers: Coffee Detective, Remmington Smuck, James D'Amato
+- 2019-08-05 — 317. Coffee Detective Part 2 — speakers: Coffee Detective, James D'Amato
+- 2019-07-29 — 316. Coffee Detective Part 1 — speakers: Coffee Detective, Berlin Jr, James D'Amato
 - 2019-07-22 — 315. Turning Point Part 2 — speakers: James D'Amato
 - 2019-07-15 — 314. Turning Point Part 1 — speakers: Senda Linaugh, Phil Vecchione, Rob Abrazado, Catherine Ramen, James D'Amato
-- 2019-07-08 — 313. ANTological Theory — speakers: Theory Ants Tackle, James D'Amato
+- 2019-07-08 — 313. ANTological Theory — speakers: James D'Amato
 - 2019-07-01 — 312. Red Carnations on a Black Grave Part 3 — speakers: Red Carnations, James D'Amato
 - 2019-06-24 — 311. Red Carnations on a Black Grave Part 2 — speakers: Red Carnations, James D'Amato
 - 2019-06-17 — 310. Red Carnations on a Black Grave Part 1 — speakers: Catherine Ramen, James D'Amato
@@ -14098,7 +13378,7 @@
 - 2019-05-27 — 308. Hearts of Wulin Part 3 — speakers: Gentle Wu, James D'Amato
 - 2019-05-20 — 308. Hearts of Wulin Part 2 — speakers: James D'Amato
 - 2019-05-13 — 307. Hearts of Wulin Part 1 — speakers: James D'Amato
-- 2019-05-06 — 306. One Child's Heart Part 2 — speakers: Drew Learn, James D'Amato
+- 2019-05-06 — 306. One Child's Heart Part 2 — speakers: One Child, James D'Amato
 - 2019-04-29 — 305. One Child's Heart Part 1 — speakers: James D'Amato
 - 2019-04-22 — 304. The Watch Part 5 — speakers: James D'Amato
 - 2019-04-15 — 303. The Watch Part 4 — speakers: James D'Amato
@@ -14107,12 +13387,12 @@
 - 2019-03-25 — 300. The Watch Part 1 — speakers: James D'Amato
 - 2019-03-25 — Pre 300 Blooper Special — speakers: Blooper Special Behold, James D'Amato
 - 2019-03-19 — 299. For The Queen Part 2 — speakers: James D'Amato
-- 2019-03-11 — 298. For The Queen Part 1 — speakers: Jef Learn, James D'Amato
+- 2019-03-11 — 298. For The Queen Part 1 — speakers: strict customs, James D'Amato
 - 2019-03-04 — 297. The Good Society Part 3 — speakers: Will Nadine, James D'Amato
 - 2019-02-25 — 296. The Good Society Part 2 — speakers: James D'Amato
 - 2019-02-18 — 295. The Good Society Part 1 — speakers: James D'Amato
 - 2019-02-11 — 294. Pasión de las Pasiones Part 3 — speakers: James D'Amato
-- 2019-02-04 — 293. Pasión de las Pasiones Part 2 — speakers: Siniorx Rosa, James D'Amato
+- 2019-02-04 — 293. Pasión de las Pasiones Part 2 — speakers: James D'Amato
 - 2019-01-28 — 292. Pasión de las Pasiones Part 1 — speakers: James D'Amato
 - 2019-01-21 — 291. Kagematsu Part 3 — speakers: James D'Amato
 - 2019-01-14 — 290. Kagematsu Part 2 — speakers: James D'Amato
@@ -14122,39 +13402,39 @@
 - 2018-12-17 — 285. Crystal Heart Part 3 — speakers: James D'Amato
 - 2018-12-10 — 284. Crystal Heart Part 2 — speakers: James D'Amato
 - 2018-12-05 — 283. Crystal Heart Part 1 — speakers: James D'Amato
-- 2018-12-03 — 282. Fliptales — speakers: James D'Amato
+- 2018-12-03 — 282. Fliptales — speakers: Fliptales After, James D'Amato
 - 2018-11-26 — 281. After the War Part 2 — speakers: James D'Amato
 - 2018-11-19 — 280. After the War Part 1 — speakers: James D'Amato
-- 2018-11-12 — 279. Mission: Accomplished! — speakers: Back Mission Accomplished, James D'Amato
-- 2018-11-05 — 278. Kids On Bikes Part 6 — speakers: Mary Heller, James D'Amato
+- 2018-11-12 — 279. Mission: Accomplished! — speakers: James D'Amato
+- 2018-11-05 — 278. Kids On Bikes Part 6 — speakers: James D'Amato
 - 2018-10-29 — 277. Kids On Bikes Part 5 — speakers: James D'Amato
 - 2018-10-22 — 276. Kids on Bikes Part 4 — speakers: James D'Amato
 - 2018-10-15 — 275. Kids on Bikes Part 3 — speakers: James D'Amato
 - 2018-10-08 — 274. Kids on Bikes Part 2 — speakers: James D'Amato
-- 2018-10-01 — 273. Kids on Bikes Part 1 — speakers: Patrick Rothfuss, Liz Anderson, Stephen Kropa, James D'Amato
+- 2018-10-01 — 273. Kids on Bikes Part 1 — speakers: Pumpkin Hollow, James D'Amato
 - 2018-09-24 — 272. Fuck! It's Dracula Part 2 — speakers: James D'Amato
 - 2018-09-17 — 271. Fuck! It's Dracula Part 1 — speakers: James D'Amato
 - 2018-09-10 — 270. Dear Elizabeth — speakers: James D'Amato
 - 2018-09-03 — 269. Scherzando! Part 2 — speakers: Rat King, James D'Amato
 - 2018-08-27 — 268. Scherzando! Part 1 — speakers: James D'Amato
 - 2018-08-20 — 267. Domina Magica Part 2 — speakers: James D'Amato
-- 2018-08-14 — BONUS: One Shot Network GenCon Panel 2018 — speakers: Jim McClure, Meghan Dornbrock, Daniel Kwan, Amelia Antrim, Steve Discont, Jef Aldrich, Jon Taylor, Aly Grauer
+- 2018-08-14 — BONUS: One Shot Network GenCon Panel 2018 — speakers: Jim McClure, Meghan Dornbrock, Daniel Kwan, Amelia Antrim, Steve Discont, Jef Aldrich, James D'Amato
 - 2018-08-13 — 266. Domina Magica Part 1 — speakers: James D'Amato
 - 2018-08-06 — 265. Zombie World Part 3 — speakers: James D'Amato
 - 2018-07-30 — 264. Zombie World Part 2 — speakers: James D'Amato
 - 2018-07-23 — 263. Zombie World Part 1 — speakers: Sarah Richardson, James D'Amato
 - 2018-07-16 — 262. Of Drow Origin Part 3 — speakers: James D'Amato
-- 2018-07-09 — 261. Of Drow Origin Part 2 — speakers: Drow Assassin, James D'Amato
+- 2018-07-09 — 261. Of Drow Origin Part 2 — speakers: James D'Amato
 - 2018-07-02 — 260. Of Drow Origin Part 1 — speakers: Delilah Sorn, James D'Amato
 - 2018-06-25 — 259. Paranoia Part 3 — speakers: James D'Amato
 - 2018-06-18 — 258. Paranoia Part 2 — speakers: James D'Amato
-- 2018-06-11 — 257. Paranoia Part 1 — speakers: Reds Krl, Jordan Support, James D'Amato
-- 2018-06-04 — 256. Dream Apart Part 3 — speakers: James D'Amato
+- 2018-06-11 — 257. Paranoia Part 1 — speakers: Reds Krl, James D'Amato
+- 2018-06-04 — 256. Dream Apart Part 3 — speakers: Although Rivka, James D'Amato
 - 2018-05-28 — 255. Dream Apart Part 2 — speakers: James D'Amato
-- 2018-05-21 — 254. Dream Apart Part 1 — speakers: almost nothing, James D'Amato
+- 2018-05-21 — 254. Dream Apart Part 1 — speakers: James D'Amato
 - 2018-05-14 — 253. Runaway Hirelings Part 2 — speakers: Runaway Hirelings, James D'Amato
 - 2018-05-06 — 252. Runaway Hirelings Part 1 — speakers: Runaway Hirelings, James D'Amato
-- 2018-04-30 — 251. Star Crossed Part 2 — speakers: Back Star Crossed, James D'Amato
+- 2018-04-30 — 251. Star Crossed Part 2 — speakers: James D'Amato
 - 2018-04-24 — 250. Star Crossed Part 1 — speakers: James D'Amato
 - 2018-04-16 — 249. Bonus: Honey Heist: UnBEElieveable Part 2 — speakers: Honey Heist, John Malkovich, James D'Amato
 - 2018-04-11 — Bonus: Honey Heist: UnBEElieveable Part 1 — speakers: Honey Heist, James D'Amato
@@ -14171,8 +13451,8 @@
 - 2018-01-29 — 238. Swords Without Master — speakers: James D'Amato
 - 2018-01-22 — 237. NeoScum Crossover Part 5 — speakers: James D'Amato
 - 2018-01-15 — 236. NeoScum Crossover Part 4 — speakers: James D'Amato
-- 2018-01-08 — 235. NeoScum Crossover Part 3 — speakers: Van Gouhl, James D'Amato
-- 2018-01-01 — 234. NeoScum Crossover Part 2 — speakers: Tech Wizard, James D'Amato
+- 2018-01-08 — 235. NeoScum Crossover Part 3 — speakers: James D'Amato
+- 2018-01-01 — 234. NeoScum Crossover Part 2 — speakers: James D'Amato
 - 2017-12-25 — 233. NeoScum Crossover Part 1 — speakers: bug spirits, James D'Amato
 - 2017-12-25 — NeoYear Charity Drive — speakers: James D'Amato
 - 2017-12-18 — 232. Ryuutama Part 3 — speakers: James D'Amato
@@ -14181,9 +13461,9 @@
 - 2017-11-29 — A Woman With Hollow Eyes: Escaping Shadow — speakers: Darcy Ross, Alan Linic, James D'Amato
 - 2017-11-27 — 229. Bulldogs Part 2 — speakers: James D'Amato
 - 2017-11-20 — 228. Bulldogs Part 1 — speakers: James D'Amato
-- 2017-11-13 — 227. System Masksery Part 2 — speakers: Halcyon High Hero Club, James D'Amato
+- 2017-11-13 — 227. System Masksery Part 2 — speakers: James D'Amato
 - 2017-11-06 — 226. System Masksery Part 1 — speakers: James D'Amato
-- 2017-10-30 — 225. Majimonsters Part 2 — speakers: Garfeild Keep, James D'Amato
+- 2017-10-30 — 225. Majimonsters Part 2 — speakers: James D'Amato
 - 2017-10-23 — 224. Majimonsters Part 1 — speakers: James D'Amato
 - 2017-10-22 — 223. Everyone Is Remastered Part 3 — speakers: Luke Null, Antonin Scalia Learn, James D'Amato
 - 2017-10-16 — 222. Everyone Is Remastered Part 2 — speakers: Luke Null, James D'Amato
@@ -14191,62 +13471,62 @@
 - 2017-10-02 — 220. Numenera 2: 2Numen 2Nera Part 3 — speakers: James D'Amato
 - 2017-09-25 — 219. Numenera 2: 2Numen 2Nera Part 2 — speakers: James D'Amato
 - 2017-09-18 — 218. Numenera 2: 2Numen 2Nera Part 1 — speakers: James D'Amato
-- 2017-09-11 — 217. The Tearable RPG — speakers: Art Vandelay, James D'Amato
+- 2017-09-11 — 217. The Tearable RPG — speakers: Evil Island, Kung Fu Tournament, James D'Amato
 - 2017-09-04 — Feng Shui 3: Part 4 — speakers: Feng Shui, James D'Amato
 - 2017-08-28 — 215. Feng Shui 3 Part 3 — speakers: Feng Shui, Action Angel La La, Tommy Euphrates, Sett Ra, James D'Amato
-- 2017-08-21 — 214. Feng Shui: The Legend of Shaq Fu Part 2 — speakers: Feng Shui, Sett Ra, James D'Amato
-- 2017-08-14 — 213. Feng Shui: The Legend of Shaq Fu Part 1 — speakers: Feng Shui, Kung Fu Vampire, James D'Amato
-- 2017-08-07 — 212. The Compass Cats: A Mysterious Warrior Appears, Starlight Surprise is the Pale Moon Princess!? Part 2 — speakers: Will Starlight, Curly Joe, James D'Amato
-- 2017-07-31 — 211. The Compass Cats: A Mysterious Warrior Appears, Starlight Surprise is the Pale Moon Princess!? — speakers: Small Benjamin, Queen Felicia, James D'Amato
-- 2017-07-24 — 210. World Wide Westling Part 3 — speakers: Mike Jones, Cool Dad, James D'Amato
-- 2017-07-17 — 209. World Wide Wrestling Part 2 — speakers: Cool Dad, Will Bob, James D'Amato
-- 2017-07-10 — 208. World Wide Wrestling Part 1 — speakers: Nathan Paoletta, Ali Barthwell, Colt Cabana, Jack Moody, James D'Amato
+- 2017-08-21 — 214. Feng Shui: The Legend of Shaq Fu Part 2 — speakers: Feng Shui, James D'Amato
+- 2017-08-14 — 213. Feng Shui: The Legend of Shaq Fu Part 1 — speakers: Feng Shui, James D'Amato
+- 2017-08-07 — 212. The Compass Cats: A Mysterious Warrior Appears, Starlight Surprise is the Pale Moon Princess!? Part 2 — speakers: Mysterious Warrior Appears, Starlight Surprise, Pale Moon Princess, James D'Amato
+- 2017-07-31 — 211. The Compass Cats: A Mysterious Warrior Appears, Starlight Surprise is the Pale Moon Princess!? — speakers: Small Benjamin, James D'Amato
+- 2017-07-24 — 210. World Wide Westling Part 3 — speakers: James D'Amato
+- 2017-07-17 — 209. World Wide Wrestling Part 2 — speakers: Brown Center, James D'Amato
+- 2017-07-10 — 208. World Wide Wrestling Part 1 — speakers: Nathan Paoletta, James D'Amato
 - 2017-07-03 — 207. Damn The Man Save The Music Part 2 — speakers: James D'Amato
-- 2017-06-26 — 206. Damn The Man Save The Music Part 1 — speakers: James D'Amato
-- 2017-06-19 — 205. Firelight — speakers: Hobby Horse Games, Lady Skull-Face, James D'Amato
+- 2017-06-26 — 206. Damn The Man Save The Music Part 1 — speakers: Revolution Records, James D'Amato
+- 2017-06-19 — 205. Firelight — speakers: Hobby Horse Games, James D'Amato
 - 2017-06-12 — 204. Cthulhu Dark Part 2 — speakers: Chum Buffet Cds, James D'Amato
 - 2017-06-05 — 203. Cthulhu Dark — speakers: James D'Amato
-- 2017-05-29 — Crazy Partiers 3 Part 3 — speakers: Action Find, James D'Amato
+- 2017-05-29 — Crazy Partiers 3 Part 3 — speakers: James D'Amato
 - 2017-05-22 — 201. Crazy Partiers 3 Part 2 — speakers: Crazy Partiers, James D'Amato
 - 2017-05-15 — 200. Crazy Partiers 3 Part 1 — speakers: spiralling apart, James D'Amato
 - 2017-05-08 — 199. Torg Eternity Part 4 — speakers: Storm Knights, James D'Amato
 - 2017-05-01 — 198. Torg Eternity Part 3 — speakers: Cyber Pope, James D'Amato
-- 2017-04-24 — 197. Torg Eternity Part 2 — speakers: Storm Knights, James D'Amato
-- 2017-04-17 — 196. Torg Eternity Part 1 — speakers: Eric Simon, Storm Knights, Cyber Pope, James D'Amato
+- 2017-04-24 — 197. Torg Eternity Part 2 — speakers: Storm Kn, James D'Amato
+- 2017-04-17 — 196. Torg Eternity Part 1 — speakers: Eric Simon, James D'Amato
 - 2017-04-10 — 195. Noir World Part 3 — speakers: Sam Lane, Aaron Cross, James D'Amato
 - 2017-04-03 — 194. Noir World Part 2 — speakers: Aaron Cross, James D'Amato
 - 2017-03-27 — 193. Noir World Part 1 — speakers: John Adamus, James D'Amato, Paulomi Pratap, Jim McClure
-- 2017-03-20 — 192. The Compass Cats: Re-Orienteering Part 2 — speakers: Athen Gnash, James D'Amato
-- 2017-03-13 — 191. The Compass Cats: Re-Orienteering — speakers: Queen Felicia, James D'Amato
+- 2017-03-20 — 192. The Compass Cats: Re-Orienteering Part 2 — speakers: James D'Amato
+- 2017-03-13 — 191. The Compass Cats: Re-Orienteering — speakers: Orienteering After, Dungeon Dome, Small Benjamin, James D'Amato
 - 2017-03-06 — 190. Dogs in the Vineyard Part 4 — speakers: James D'Amato
 - 2017-02-27 — 189. Dogs in the Vineyard Part 3 — speakers: James D'Amato
 - 2017-02-20 — 188. Dogs in the Vineyard Part 2 — speakers: Benjamin Arrive, James D'Amato
-- 2017-02-13 — 187. Dogs in the Vineyard — speakers: Vincent Baker, Aly Grauer, Drew Mierzejewski, James D'Amato
+- 2017-02-13 — 187. Dogs in the Vineyard — speakers: Vincent Baker, James D'Amato
 - 2017-02-06 — 186. Monsterhearts 2 Part 2 — speakers: James D'Amato
-- 2017-01-30 — 185. Monsterhearts 2 Part 1 — speakers: Electric Necromancer, Chet Swain, James D'Amato
+- 2017-01-30 — 185. Monsterhearts 2 Part 1 — speakers: James D'Amato
 - 2017-01-23 — 184. MASKS Part 3 — speakers: James D'Amato
-- 2017-01-16 — 183. MASKS Part 2 — speakers: Will Snowflake, James D'Amato
-- 2017-01-09 — 182. MASKS Part 1 — speakers: Noelle Stevenson, Lola Binkerd, Ben Joseph, James D'Amato
+- 2017-01-16 — 183. MASKS Part 2 — speakers: James D'Amato
+- 2017-01-09 — 182. MASKS Part 1 — speakers: Noelle Stevenson, Lola Binker, James D'Amato
 - 2017-01-02 — 181. Triniton Part 3 — speakers: James D'Amato
 - 2016-12-31 — BONUS: Gencon 2016 Headspace Part 2 — speakers: Mark Richardson, James D'Amato
-- 2016-12-26 — 180. Triniton Part 2 — speakers: Cindy Chow, Vincent Tralinitne, James D'Amato
+- 2016-12-26 — 180. Triniton Part 2 — speakers: Cindy Chow, James D'Amato
 - 2016-12-21 — BONUS: Gencon 2016 Headspace Part 1 — speakers: Mark Richardson, James D'Amato
 - 2016-12-19 — 179. Triniton Part 1 — speakers: James D'Amato
 - 2016-12-12 — 178. Exalted Part 3 — speakers: James D'Amato
 - 2016-12-05 — 177. Exalted Part 2 — speakers: James D'Amato, Jim MCclure, Chul Quitl, Rob Stith
 - 2016-11-28 — 176. Exalted — speakers: James D'Amato
 - 2016-11-21 — 175. A Scoundrel in the Deep — speakers: Jeff Stormer, James D'Amato
-- 2016-11-14 — 174. City of Mist Part 2 — speakers: Brom Van Brunt, Helix Labs, James D'Amato
-- 2016-11-07 — 173. City of Mist Part 1 — speakers: Decklan La Strange, James D'Amato
+- 2016-11-14 — 174. City of Mist Part 2 — speakers: James D'Amato
+- 2016-11-07 — 173. City of Mist Part 1 — speakers: James D'Amato
 - 2016-10-31 — 172. Sig Part 3 — speakers: James D'Amato
-- 2016-10-24 — 171. Sig Part 2 — speakers: James D'Amato
+- 2016-10-24 — 171. Sig Part 2 — speakers: Dragon Pearl, James D'Amato
 - 2016-10-17 — 170. Sig Part 1 — speakers: James D'Amato
 - 2016-10-10 — 169. Dialect Part 2 — speakers: James D'Amato
 - 2016-10-03 — 168. Dialect Part 1 — speakers: James D'Amato
 - 2016-09-26 — 167. Year 3 Bloopers — speakers: James D'Amato
-- 2016-09-19 — 166. The Mustang — speakers: like soot, like coals, James D'Amato
+- 2016-09-19 — 166. The Mustang — speakers: like soot, eyes like, James D'Amato
 - 2016-09-12 — 165. Rockalypse Part 3 — speakers: James D'Amato
-- 2016-09-05 — 164. Rockalypse Part 2 — speakers: James D'Amato
+- 2016-09-05 — 164. Rockalypse Part 2 — speakers: Knuckle Punch, Cerberus High Battle, James D'Amato
 - 2016-08-29 — 163. Rockalypse Part 1 — speakers: Cerberus High, James D'Amato
 - 2016-08-22 — The Gencon ONE SHOT Annual Panel 2016 — speakers: Annual Panel, James D'Amato
 - 2016-08-22 — 162. InSpectres II Part 3 — speakers: James D'Amato
@@ -14255,7 +13535,7 @@
 - 2016-08-01 — 159. Millennial Apartment Hunters — speakers: James D'Amato
 - 2016-07-25 — 158. Reflections — speakers: James D'Amato
 - 2016-07-18 — 157. Dracula Dossier 2 Part 3 — speakers: Dracula Dossier, Vlad Tepesh, James D'Amato
-- 2016-07-11 — 156. Dracula Dossier 2 Part 2 — speakers: Dracula Dossier, Edom duke, James D'Amato
+- 2016-07-11 — 156. Dracula Dossier 2 Part 2 — speakers: Dracula Dossier, James D'Amato
 - 2016-07-04 — 155. Dracula Dossier 2 Part 1 — speakers: Dracula Dossier, James D'Amato
 - 2016-06-27 — 154. Dear Leader — speakers: Alex Manich, Alex Nicols, John Mahoney, James D'Amato
 - 2016-06-20 — 153. Red Markets Part 4 — speakers: James D'Amato
@@ -14263,66 +13543,66 @@
 - 2016-06-06 — 151. Red Markets Part 2 — speakers: James D'Amato
 - 2016-05-30 — 150. Red Markets Part 1 — speakers: James D'Amato
 - 2016-05-23 — 149. Tenra Bansho Zero Part 4 — speakers: James D'Amato
-- 2016-05-16 — 148. Tenra Bansho Zero Part 3 — speakers: these st, James D'Amato
-- 2016-05-09 — 147. Tenra Bansho Zero Part 2 — speakers: Yu Onit, James D'Amato
+- 2016-05-16 — 148. Tenra Bansho Zero Part 3 — speakers: James D'Amato
+- 2016-05-09 — 147. Tenra Bansho Zero Part 2 — speakers: James D'Amato
 - 2016-05-02 — 146. Tenra Bansho Zero Part 1 — speakers: James D'Amato
-- 2016-04-25 — 145. Utter Nonsense — speakers: Twitter Site Learn, James D'Amato
+- 2016-04-25 — 145. Utter Nonsense — speakers: James D'Amato
 - 2016-04-18 — 144. Belly of the Beast Part 3 — speakers: James D'Amato
-- 2016-04-11 — 143. Belly of the Beast Part 2 — speakers: Ben Dutter, Twitter Learn, James D'Amato
-- 2016-04-04 — 142. Belly of the Beast — speakers: Ben Dutter, Twitter Learn, James D'Amato
-- 2016-03-28 — 141. Steamscapes Part 3 — speakers: Twitter Blog Patreon Learn, James D'Amato
-- 2016-03-21 — 140. Steamscapes Part 2 — speakers: Twitter Blog Patreon Learn, James D'Amato
-- 2016-03-19 — 139. Steamscapes Part 1 — speakers: Twitter Learn, James D'Amato
-- 2016-03-07 — 138. Bluebeard's Bride Part 3 — speakers: Twitter Learn, James D'Amato
-- 2016-02-29 — 137. Blue Beard's Bride Part 2 — speakers: Blue Beard, Twitter Learn, James D'Amato
+- 2016-04-11 — 143. Belly of the Beast Part 2 — speakers: James D'Amato
+- 2016-04-04 — 142. Belly of the Beast — speakers: Beast Shortly, James D'Amato
+- 2016-03-28 — 141. Steamscapes Part 3 — speakers: James D'Amato
+- 2016-03-21 — 140. Steamscapes Part 2 — speakers: James D'Amato
+- 2016-03-19 — 139. Steamscapes Part 1 — speakers: James D'Amato
+- 2016-03-07 — 138. Bluebeard's Bride Part 3 — speakers: James D'Amato
+- 2016-02-29 — 137. Blue Beard's Bride Part 2 — speakers: Blue Beard, James D'Amato
 - 2016-02-22 — 136. Buebeard's Bride — speakers: Twitter Learn, James D'Amato
-- 2016-02-15 — 135. It Was a Mutual Decision Part 2 — speakers: Ron Edwards, Twitter Ron Edwards, James D'Amato
-- 2016-02-08 — 134. It was a Mutual Decision Part 1 — speakers: Ron Edwards, James D'Amato
-- 2016-02-01 — 133. Hello from the Magic ONE SHOT Part 2 — speakers: InSpectres Arnie Niekamp, Twitter Learn, James D'Amato
-- 2016-01-25 — 132. Hello from the Magic ONE SHOT Part 1 — speakers: Twitter Learn, James D'Amato
-- 2016-01-18 — 131. Urban shadows Part 2 — speakers: Billy Zane, John Malkovich, James D'Amato
-- 2016-01-11 — Urban Shadows — speakers: Wizard Alderman, Alderman Wesley, James D'Amato
+- 2016-02-15 — 135. It Was a Mutual Decision Part 2 — speakers: James D'Amato
+- 2016-02-08 — 134. It was a Mutual Decision Part 1 — speakers: James D'Amato
+- 2016-02-01 — 133. Hello from the Magic ONE SHOT Part 2 — speakers: James D'Amato
+- 2016-01-25 — 132. Hello from the Magic ONE SHOT Part 1 — speakers: James D'Amato
+- 2016-01-18 — 131. Urban shadows Part 2 — speakers: James D'Amato
+- 2016-01-11 — Urban Shadows — speakers: Urban Shadows Chicago, James D'Amato
 - 2016-01-04 — Companion's Tale — speakers: James D'Amato
-- 2015-12-28 — Fool's Journey/Tanya De Passe — speakers: James play Fool, Cheyenne Wall-Grimes, Tanya De Passe, Indg Together, James D'Amato
-- 2015-12-26 — Bonus! Boxing Day Dread — speakers: Boxing Day Dread, Peter Williams, James Freetly, John Malkovich, James D'Amato
+- 2015-12-28 — Fool's Journey/Tanya De Passe — speakers: James play Fool, James D'Amato
+- 2015-12-26 — Bonus! Boxing Day Dread — speakers: Boxing Day Dread, Peter Williams, James Freetly, James D'Amato
 - 2015-12-21 — 127. Traction Park Part 2 — speakers: James D'Amato
 - 2015-12-14 — 126. Traction Park — speakers: United States, James D'Amato
 - 2015-12-07 — 125. Dead Scare Part 2 — speakers: Dead Scare, James D'Amato
 - 2015-11-30 — 124. Dead Scare Part 1 — speakers: Dead Scare, James D'Amato
 - 2015-11-23 — 123. Shinobigami Part 3 — speakers: James D'Amato
 - 2015-11-16 — 122. Shinobigami Part 2 — speakers: James D'Amato
-- 2015-11-09 — 121. Shinobigami Part 1 — speakers: Floyd Charbanaux, Yata Kagami, James D'Amato
+- 2015-11-09 — 121. Shinobigami Part 1 — speakers: James D'Amato
 - 2015-11-02 — 120. Mythic Mortals — speakers: Mythic Mortals, James D'Amato
-- 2015-10-26 — 119. Rogue Trader Part 3 — speakers: Warp Spiders, James D'Amato
-- 2015-10-19 — 118. Rogue Trader Part 2 — speakers: Vienna Schnitzel, James D'Amato
-- 2015-10-12 — 117. Rogue Trader Part 1 — speakers: religious events, James D'Amato
+- 2015-10-26 — 119. Rogue Trader Part 3 — speakers: James D'Amato
+- 2015-10-19 — 118. Rogue Trader Part 2 — speakers: Golden Corral, James D'Amato
+- 2015-10-12 — 117. Rogue Trader Part 1 — speakers: religious ev, James D'Amato
 - 2015-10-05 — 116. 13th Age Part 3 — speakers: James D'Amato
 - 2015-09-28 — 115. 13th Age Part 2 — speakers: James D'Amato
 - 2015-09-21 — 114. 13th Age — speakers: James D'Amato
-- 2015-09-14 — 113. InSpectHers Part 2 — speakers: Howard Mandel, James D'Amato
+- 2015-09-14 — 113. InSpectHers Part 2 — speakers: Howard Mande, James D'Amato
 - 2015-09-07 — 112. InSpectHers — speakers: James D'Amato
 - 2015-08-31 — 111. Numenera Part 3 — speakers: James D'Amato
 - 2015-08-24 — 110. Numenera Part 2 — speakers: James D'Amato
 - 2015-08-17 — Numenera Setting Introduction — speakers: James D'Amato
-- 2015-08-17 — 109. Numenera Part 1 — speakers: James D'Amato
+- 2015-08-17 — 109. Numenera Part 1 — speakers: Ninth World, James D'Amato
 - 2015-08-10 — 108. Shooting the Moon Part 3 — speakers: James D'Amato
-- 2015-08-03 — 107. Shooting the Moon Part 2 — speakers: Jack Crow, Ned Godkiller, Flyvaw Crankyshanks, James D'Amato
+- 2015-08-03 — 107. Shooting the Moon Part 2 — speakers: Jack Crow, James D'Amato
 - 2015-07-27 — 106. Shooting the Moon Part 1 — speakers: Eric Colossal, James D'Amato
 - 2015-07-20 — 105. Murderland — speakers: Murderland Four, James D'Amato
 - 2015-07-13 — 104. 14 Days Part 3 — speakers: James D'Amato
 - 2015-07-06 — 103. 14 Days Part 2 — speakers: James D'Amato
 - 2015-06-29 — 102. 14 Days — speakers: Days Two, James D'Amato
 - 2015-06-22 — 101. Sailor Moon Part 2 — speakers: Sailor Moon, James D'Amato
-- 2015-06-15 — 100. Sailor Moon — speakers: Chris Sims, Usagi Tsukino, James D'Amato
+- 2015-06-15 — 100. Sailor Moon — speakers: Chris Sim, James D'Amato
 - 2015-06-08 — 99. Actual Cannibal Shia Labeouf — speakers: Actual Cannibal Shia Labeouf, James D'Amato
-- 2015-06-01 — 98. Heroine Part 3 — speakers: Miss Artie, James D'Amato
+- 2015-06-01 — 98. Heroine Part 3 — speakers: James D'Amato
 - 2015-05-25 — 97. Heroine Part 2 — speakers: James D'Amato
-- 2015-05-24 — Feast Hall of Ash Part 5 — speakers: Feast Hall, Lord Amirillia, James D'Amato
+- 2015-05-24 — Feast Hall of Ash Part 5 — speakers: Feast Hall, Lord Amiril, James D'Amato
 - 2015-05-18 — 96. Heroine Part 1 — speakers: James D'Amato
 - 2015-05-14 — BONUS Feast Hall of Ash part 4 — speakers: Feast Hall, James D'Amato
-- 2015-05-11 — 95. Legend of Five Rings part 4 — speakers: Mirimoto Kumo, Diagotzu Jin, James D'Amato
+- 2015-05-11 — 95. Legend of Five Rings part 4 — speakers: Five Rings, James D'Amato
 - 2015-05-07 — BONUS: Feast Hall of Ash Part 3 — speakers: Feast Hall, James D'Amato
-- 2015-05-04 — 94. Legend of Five Rings Part 3 — speakers: terrible Oni, James D'Amato
+- 2015-05-04 — 94. Legend of Five Rings Part 3 — speakers: James D'Amato
 - 2015-04-30 — BONUS: The Feast Hall of Ash Part 2 — speakers: James D'Amato
 - 2015-04-27 — 93. Legend of Five Rings Rings Part 2 — speakers: terrible Oni, James D'Amato
 - 2015-04-23 — BONUS: Feast Hall of Ash Part 1 — speakers: Tir Yadrail, James D'Amato
@@ -14335,90 +13615,90 @@
 - 2015-03-09 — 86. WITCH Part 2 — speakers: James D'Amato
 - 2015-03-02 — 85. WITCH — speakers: Three Brooklyn, James D'Amato
 - 2015-02-15 — 83. Monsterhearts — speakers: Monsterhearts Last, Rode Island, James D'Amato
-- 2015-02-09 — 82. Cosmic Patrol — speakers: Space Democracy, Space Capitalism, James D'Amato
+- 2015-02-09 — 82. Cosmic Patrol — speakers: Cosmic Patro, James D'Amato
 - 2015-02-02 — 81. Lasers and Feelings with Improvised Star Trek — speakers: James D'Amato
-- 2015-01-26 — 80. Our Last Best Hope 2 — speakers: moon lava, James D'Amato
-- 2015-01-19 — 79. Our Last Best Hope — speakers: Joy Worth, Logan Murphy, Tyler Davis, Steel Johnson, James D'Amato
+- 2015-01-26 — 80. Our Last Best Hope 2 — speakers: James D'Amato
+- 2015-01-19 — 79. Our Last Best Hope — speakers: James D'Amato
 - 2015-01-12 — 78. Three Rocketeers 2 — speakers: James D'Amato
-- 2015-01-05 — 77. Three Rocketeers — speakers: John Patrick Coan, Alex Manich, James Dugan, James D'Amato
+- 2015-01-05 — 77. Three Rocketeers — speakers: James D'Amato
 - 2014-12-29 — 76. Ehdrigohr 3 — speakers: James D'Amato
 - 2014-12-22 — 75. Ehdrigohr 2 — speakers: James D'Amato
-- 2014-12-15 — 74. Ehdrigohr 1 — speakers: Jim Hepplewhite, Brittany Yantos, Allen Turner, James D'Amato
+- 2014-12-15 — 74. Ehdrigohr 1 — speakers: Jim Hepplewhite, Brittany Yantos, James D'Amato
 - 2014-12-08 — FATE Bonus episode — speakers: Allen Turner, James D'Amato
 - 2014-12-08 — 73. Atomic Robo 2 — speakers: Atomic Robo, James D'Amato
-- 2014-12-01 — 72. Atomic Robo Part 1 — speakers: Mike Olsen, Atomic Robo, James D'Amato
+- 2014-12-01 — 72. Atomic Robo Part 1 — speakers: Mike Olsen, James D'Amato
 - 2014-11-24 — 71. Inspectres Part 2 — speakers: James D'Amato
-- 2014-11-17 — 70. Inspectres Part 1 — speakers: Mark Summers, Alex Manich, James Dugan, Felix Flex Cockhammer, James D'Amato
+- 2014-11-17 — 70. Inspectres Part 1 — speakers: James D'Amato
 - 2014-11-10 — 69. Dracula Dossier Part 4 — speakers: Dracula Dossier, Vlad Dracula, James D'Amato
 - 2014-11-03 — 68. Dracula Dossier Part 3 — speakers: Dracula Dossier, James D'Amato
 - 2014-10-27 — 67. Dracula Dossier Part 2 — speakers: Dracula Dossier, James D'Amato
-- 2014-10-17 — Dracula Dossier Bonus Rules Explanation — speakers: Dracula Dossier, Kenneth Hite, James D'Amato
-- 2014-10-15 — 66. Dracula Dossier Part 1 — speakers: Dracula Dossier, GM Kenneth Hite, Zach Weber, Nathan Poletta, James D'Amato
+- 2014-10-17 — Dracula Dossier Bonus Rules Explanation — speakers: Dracula Dossier, James D'Amato
+- 2014-10-15 — 66. Dracula Dossier Part 1 — speakers: Dracula Dossier, GM Kenneth Hite, James D'Amato
 - 2014-10-13 — 65. S-N-HELL — speakers: Johnny O'Mara, Spencer Hamilton, Patrick McDonald, James D'Amato
 - 2014-10-06 — 64. Feng Shui 2 Part 4 — speakers: Buro Tower, James D'Amato
 - 2014-09-29 — 63. Feng Shui 2 Part 3 — speakers: Feng Shui, James D'Amato
 - 2014-09-22 — 62. Feng Shui 2 Part 2 — speakers: Feng Shui, James D'Amato
-- 2014-09-17 — 61. Feng Shui 2 Part 1 — speakers: Feng Shui, Chris Sims, Kat Murphy, Tommy Euphrates, John Patrick Coan, James D'Amato
+- 2014-09-17 — 61. Feng Shui 2 Part 1 — speakers: Feng Shui, Chris Sims, James D'Amato
 - 2014-09-12 — Season 1 Bloopers — speakers: Bloopers All, James D'Amato
 - 2014-09-08 — 60. Protocol — speakers: Brandon Shockney, Jonathon Pernisek, James D'Amato
 - 2014-08-25 — 59. Crazy Anniversary Partiers 4 — speakers: James D'Amato
 - 2014-08-25 — 58. Crazy Anniversary Partiers 3 — speakers: James D'Amato
 - 2014-08-22 — Gencon Special — speakers: Sam Kaye, David Ewalt, James D'Amato
-- 2014-08-18 — 57. Crazy Anniversary Partiers 2 — speakers: Crazy Anniversary Partiers, Also Cob, James D'Amato
-- 2014-08-11 — 56. Crazy Anniversary Partiers — speakers: James D'Amato
+- 2014-08-18 — 57. Crazy Anniversary Partiers 2 — speakers: Crazy Anniversary Partiers, James D'Amato
+- 2014-08-11 — 56. Crazy Anniversary Partiers — speakers: Crazy Anniversary Partiers Prepare, Cray Cray, James D'Amato
 - 2014-08-04 — 55. All thing Truly Wicked PART 2 — speakers: Truly Wicked, James D'Amato
 - 2014-07-28 — 54. All Things Truly Wicked — speakers: All Things Truly Wicked, James D'Amato
-- 2014-07-21 — 53. One Last Job Part 3 — speakers: up magic, James D'Amato
+- 2014-07-21 — 53. One Last Job Part 3 — speakers: James D'Amato
 - 2014-07-14 — 52. One Last Job Part 2 — speakers: James D'Amato
-- 2014-07-07 — 51. One Last Job — speakers: James D'Amato, Patrick Winegar, Brandon Lightening, Kat Murphy, John Patrick Coan, Leon Kameilski, Alex Nichols, Larry Lefty LaRoux
-- 2014-06-30 — 50. Police Cops- Brooklyn Alaska Part 2 — speakers: Tom Frankle, Rick Moranis, James D'Amato
+- 2014-07-07 — 51. One Last Job — speakers: James D'Amato, Patrick Winegar, Brandon Lightening, Kat Murphy
+- 2014-06-30 — 50. Police Cops- Brooklyn Alaska Part 2 — speakers: Tom Frankle, James D'Amato
 - 2014-06-23 — 49. Police Cops- Brooklyn Alaska — speakers: Dan Stauffer, Brian Moody, James D'Amato
-- 2014-06-16 — 48. Time Watch Part 3 — speakers: Mace Hunter Skegg, James D'Amato
+- 2014-06-16 — 48. Time Watch Part 3 — speakers: Time Watch, James D'Amato
 - 2014-06-09 — 47. Time Watch Part 2 — speakers: James D'Amato
 - 2014-06-06 — 46. Time Watch Part 1 — speakers: James D'Amato
 - 2014-05-26 — 45. Princesses and Palaces Part 2 — speakers: James D'Amato
 - 2014-05-19 — 44. Princesses and Palaces Part 1 — speakers: Courtney Crary, Justine Kruger, James D'Amato
 - 2014-05-12 — 43. Gangland — speakers: Alex Manich, Maggie Dempsey, Kevin Budnik, James D'Amato
-- 2014-05-05 — 42. Lasers and Feelings Part 2 — speakers: Sheniqua Andromeda, James Ambros Iii, James D'Amato
+- 2014-05-05 — 42. Lasers and Feelings Part 2 — speakers: Sheniqua Andromeda, James Ambros, James D'Amato
 - 2014-04-28 — 41. Lasers and Feelings Part 1 — speakers: James D'Amato
 - 2014-04-25 — 40. Call Of Cthulhu Pulp Heroes Part 2 — speakers: Indiana Jones, Tom Riddle, James D'Amato
-- 2014-04-21 — 39. Pulp Cthulhu Part 1 — speakers: James D'Amato
-- 2014-04-17 — 38. Flight of the Robins Part 2 — speakers: Mad Hatter, James D'Amato
+- 2014-04-21 — 39. Pulp Cthulhu Part 1 — speakers: Wayne Industries, James D'Amato
+- 2014-04-17 — 38. Flight of the Robins Part 2 — speakers: Black Mask, James D'Amato
 - 2014-04-14 — 37. Flight of the Robins Part 1 — speakers: James D'Amato
-- 2014-04-07 — 36. Everyone is Joker — speakers: John Patrick Coen, Chuck Pettitt, Luke Null, James D'Amato
+- 2014-04-07 — 36. Everyone is Joker — speakers: John Patrick Coen, Chuck Pettitt, James D'Amato
 - 2014-04-01 — 34. Even More Dungeon World Part 3 — speakers: James D'Amato
-- 2014-04-01 — 35. X-People — speakers: Brandon Shockney, Rich Alfonzo, Sam Kaye, James D’Amato, James D'Amato
+- 2014-04-01 — 35. X-People — speakers: Brandon Shockney, Rich Alfonzo, James D'Amato
 - 2014-03-26 — 33. Even More Dungeon World 2 — speakers: James D'Amato
-- 2014-03-24 — 32. Even More Dungeon World — speakers: Alex Manich, Maggie Dempsey, Collin Cunningham, Jessa Eden-Quinn, James D'Amato
-- 2014-03-17 — 31. Dungeon World Part 3 — speakers: Can Kat, James D'Amato
-- 2014-03-10 — 30. Dungeon World Part 2 — speakers: Baby Blues, Red Fox, James D'Amato
-- 2014-03-03 — 29. Dungeon World Part 1 — speakers: Kat Murphy, Maggie Dempsey, Alex Manich, Tricia Bobeda, James D'Amato
-- 2014-02-24 — 28. Star Wars Edge of the Empire Part 3 — speakers: Trystan Valentine, Tamlin Jorun, James D'Amato
+- 2014-03-24 — 32. Even More Dungeon World — speakers: Alex Manich, Maggie Dempsey, Collin Cunning, James D'Amato
+- 2014-03-17 — 31. Dungeon World Part 3 — speakers: James D'Amato
+- 2014-03-10 — 30. Dungeon World Part 2 — speakers: James D'Amato
+- 2014-03-03 — 29. Dungeon World Part 1 — speakers: Kat Murphy, Maggie De, James D'Amato
+- 2014-02-24 — 28. Star Wars Edge of the Empire Part 3 — speakers: Trystan Valentine, James D'Amato
 - 2014-02-18 — 27. Star Wars Edge of the Empire Part 2 — speakers: Ava Arrak, James D'Amato
-- 2014-02-18 — 24. Star Wars 3.5 Part 3 — speakers: Kat Murphy, Johnny O’Mara, John Patrick Coen, Matt Kubinski, Ava Arrak, James D'Amato
-- 2014-02-17 — 26. Dark — speakers: Dark Dark, Will Hindmarch, Dark Planet, James D'Amato
-- 2014-02-10 — 25. Star Wars Edge of the Empire — speakers: John Patrick Coan, Johnny O’Mara, Matt Kubinski, Kat Murphy, Luke Skywalker, James D'Amato
-- 2014-01-27 — 23. Star Wars 3.5 Part 2 — speakers: James D'Amato
-- 2014-01-20 — 22. Star Wars 3.5 Part 1 — speakers: Kat Murphy, John Patrick Coen, Johnny O’Mara, Dilettante Ball, Matt Kubinski, Cinema Jaw, James D'Amato
+- 2014-02-18 — 24. Star Wars 3.5 Part 3 — speakers: Kat Murphy, Johnny O’Mara, James D'Amato
+- 2014-02-17 — 26. Dark — speakers: Dark Dark, Will Hindmarch, James D'Amato
+- 2014-02-10 — 25. Star Wars Edge of the Empire — speakers: John Patrick Coan, Johnny O’Mara, Matt Kubinski, James D'Amato
+- 2014-01-27 — 23. Star Wars 3.5 Part 2 — speakers: Star Wars, James D'Amato
+- 2014-01-20 — 22. Star Wars 3.5 Part 1 — speakers: Kat Murphy, John Patrick Coen, Johnny O’Mara, James D'Amato
 - 2014-01-14 — 21. All Outta Bubblegum Part 2 — speakers: David Giarratana, James D'Amato
-- 2014-01-06 — 20. All Outta Bubblegum Part 1 — speakers: Lynette Roten, David Giratanna, James D'Amato
+- 2014-01-06 — 20. All Outta Bubblegum Part 1 — speakers: All Ou, James D'Amato
 - 2014-01-03 — 19. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 5 — speakers: James D'Amato
 - 2013-12-31 — 18. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 4 — speakers: Humphrey Hall, James D'Amato
-- 2013-12-23 — 17. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 3 — speakers: Emile Candy, Sam Kaye, James D’Amato, Humphrey Hall, James D'Amato
-- 2013-12-16 — 16. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 2 — speakers: Emile Candy, Samuel Kaye, James D'Amato
-- 2013-12-09 — 15. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 1 — speakers: Sam Kaye, James D'Amato
+- 2013-12-23 — 17. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 3 — speakers: Emile Candy, Sam Kaye, James D’Amato, James D'Amato
+- 2013-12-16 — 16. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 2 — speakers: James D'Amato
+- 2013-12-09 — 15. 8 Nights of Murder! The Deadlands Noir Hanukkah Special Part 1 — speakers: James D'Amato
 - 2013-12-02 — Colonials — speakers: United States, James D'Amato
 - 2013-11-21 — 14. Horror on Mt. Holycross — speakers: James D’Amato, Alex Manich, James Hepplewhite, Dan Stauffer, James D'Amato
 - 2013-11-14 — 13. This is the way the world ends: Not with a bang but with John — speakers: John John, James D'Amato
 - 2013-11-08 — 12. Everyone is John Part 2 — speakers: John Patrick Coan, Luke Null, John Gospel, James D'Amato
-- 2013-10-31 — 11. Every One Is John Part 1 — speakers: Luke Null, Mike Gospel, John Tuckerman, James D'Amato
-- 2013-10-24 — 10. Scooby Doo: Pooch on the Doorstep — speakers: Nick Lang, Scout Bratt, James Gen Con, James D'Amato
+- 2013-10-31 — 11. Every One Is John Part 1 — speakers: Luke Null, Mike Gospel, James D'Amato
+- 2013-10-24 — 10. Scooby Doo: Pooch on the Doorstep — speakers: Nick Lang, Scout Bratt, James Ge, James D'Amato
 - 2013-10-10 — 09. The Serpent’s Den — speakers: James D'Amato
-- 2013-10-09 — 08. Death Race 1990 — speakers: Angel La La, Chris Sims, James D'Amato
+- 2013-10-09 — 08. Death Race 1990 — speakers: James D'Amato
 - 2013-09-26 — 07. Ninjas in Refrigerators — speakers: Chris Sims, James D'Amato
-- 2013-09-19 — 06. Pizza Party Rumble — speakers: Chris Sims, John Patrick Coan, Angela Chan, Bobby Euphrates, Snake Skin, James D'Amato
+- 2013-09-19 — 06. Pizza Party Rumble — speakers: Chris Sims, John Patrick Coan, James D'Amato
 - 2013-09-12 — 05. Final Boss — speakers: James D'Amato
 - 2013-09-05 — 04. Never Split the Party — speakers: Never Split, James D'Amato
-- 2013-08-29 — 03. The One Where EVERYONE Fails Their Perception Check — speakers: James D'Amato
+- 2013-08-29 — 03. The One Where EVERYONE Fails Their Perception Check — speakers: Crazy Partiers, James D'Amato
 - 2013-08-22 — 02. Attack of the Ratmen — speakers: Ratmen Get, James D'Amato
-- 2013-08-14 — 01. Rise of the Crazy Partiers — speakers: Playing System, James D'Amato
+- 2013-08-14 — 01. Rise of the Crazy Partiers — speakers: Crazy Partiers Roll, James D'Amato
