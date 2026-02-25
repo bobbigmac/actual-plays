@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-02-20T19:08:24+00:00`
-- checked_at: `2026-02-20T19:08:24+00:00`
-- etag: `"86974b486a4844e41421b9ef65a3a3a4"`
-- last_modified: `Fri, 20 Feb 2026 16:52:04 GMT`
+- fetched_at: `2026-02-25T07:18:57+00:00`
+- checked_at: `2026-02-25T07:18:57+00:00`
+- etag: `"24eebb75f86057b313b96911475d3d06"`
+- last_modified: `Wed, 25 Feb 2026 06:24:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-02-20T19:08:24+00:00",
+  "fetched_at": "2026-02-25T07:18:57+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1af8ba74989c5f7cafa49eece19709b31a9f38ad",
+      "title": "Perpetua 34: The Castle Eschatonica 02",
+      "published_at": "2026-02-25T05:03:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-34-the-castle-eschatonica-02",
+      "description": "By a quirk of fate (and the meddling of a peculiar being named Gnova), two bands of adventurers came crashing into each other in the middle of the Dragon Path. After greeting each other and gaining an invitation to the mysterious Castle Eschatonica, they crossed the debris of echoed worlds, dodged the hungry eyes of a dragon-owl, and made their way into the castle. Now they face challenges like they've never yet seen… This week on Perpetua: The Castle Eschatonica 02 Perpetua Guide [Temporarily On Hold - v.0599] Some Feedback [Page 56 of 56] TheUnforgivenIII So I guess Nei is never coming back huh. What a loser. Doesn't he know people were counting on him? If you don't have the cajones to stick with a FAQ you shouldn't bother starting one, it'll only disappoint people. TheDiamondRanger My dad got me the official strategy guide and I could write some hints from that in here if you wanted but I wouldnt wanna give away any big spoilers so maybe I wont Alukard83 Hey man, that's not cool. Back off. TheDiamondRanger Okay Im sorry I didnt knwo that I wsnt alllwoed to post from the guide i thought i was helping im sorry CarlsSr Wow, three dumbasses in a row. Alukard83 Not you Diamond, I meant Unforgiven, who is being a real jackhole. Nei is really going through it, plus had to step away because of holidays. If the FAQ doesn't get finished, then we'll just have to wait for someone new to step up. Doom_Tree_Anne I wouldn't mind helping for a little bit, if you want! I've always wanted to try my hand at writing an FAQ. n.n I'll message you on the IRC! Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_34_The_Castle_Eschatonica_02.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77855990",
+      "itunes_duration": "01:17:55",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "4f5a272facc8c3d1fc745e5314ea31343657a20f",
       "title": "Off Week + Fundraiser Update!",
@@ -40,7 +60,8 @@
       "enclosure_length": "25426304",
       "itunes_duration": "20:21",
       "speakers": [
-        "Pokemon Conquest",
+        "Off Week",
+        "Fundraiser Update",
         "Austin Walker"
       ],
       "topics": [
@@ -61,14 +82,7 @@
       "enclosure_length": "110708334",
       "itunes_duration": "01:35:05",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Cover Art",
-        "Ben McEntee"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -88,8 +102,6 @@
       "enclosure_length": "11631368",
       "itunes_duration": "08:03",
       "speakers": [
-        "Conner Fawcett",
-        "Flegg Hell",
         "Austin Walker"
       ],
       "topics": [
@@ -109,14 +121,7 @@
       "enclosure_length": "87940336",
       "itunes_duration": "01:16:07",
       "speakers": [
-        "Perpetua Guide",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -136,14 +141,6 @@
       "enclosure_length": "106446200",
       "itunes_duration": "01:32:06",
       "speakers": [
-        "Perpetuan Cycle",
-        "Spillaway Peaks",
-        "Brown Flegg",
-        "Flegg Strike",
-        "Flegg Gale Special",
-        "Flegg Gale",
-        "Holy Slash Special",
-        "Threaten In-Game",
         "Austin Walker"
       ],
       "topics": [
@@ -164,14 +161,7 @@
       "enclosure_length": "82277520",
       "itunes_duration": "01:12:01",
       "speakers": [
-        "Rice Paddies",
-        "Paper Delivery",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -191,14 +181,8 @@
       "enclosure_length": "83205256",
       "itunes_duration": "01:17:00",
       "speakers": [
-        "Armory Armor",
-        "Meditation Robe",
-        "Mind Points",
-        "Choir Robe",
-        "Core Rulebook",
-        "Dex Mig",
-        "Bolt Damage",
-        "Lightcatcher Cage",
+        "Little Snail",
+        "Spillaway Peaks",
         "Austin Walker"
       ],
       "topics": [
@@ -219,14 +203,7 @@
       "enclosure_length": "71891702",
       "itunes_duration": "01:11:59",
       "speakers": [
-        "Iron Chains",
-        "Crashing Waves",
-        "Roar Across Cenn",
-        "CarlsSr Yeah",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -246,11 +223,6 @@
       "enclosure_length": "139154464",
       "itunes_duration": "01:51:36",
       "speakers": [
-        "Venomous Hexcloak",
-        "Cruel Stats",
-        "Poison Cloud Special",
-        "Stoneshield In-Game Description",
-        "Voltaic Hexcloak",
         "Austin Walker"
       ],
       "topics": [
@@ -270,14 +242,8 @@
       "enclosure_length": "106938088",
       "itunes_duration": "01:25:02",
       "speakers": [
-        "Kley Kaina",
-        "Thereus Aegir",
-        "Antistrophe Landrace",
-        "Cenn Tunnels Map",
-        "Map Map",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Living Metal",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -296,14 +262,7 @@
       "enclosure_length": "143345784",
       "itunes_duration": "01:53:31",
       "speakers": [
-        "Antistrophe Landrace",
-        "Bronte Adelvys",
-        "Kley Kaina",
-        "Johnny Cakes",
-        "Jimmy Cones",
-        "Pineapple Basil",
-        "Matcha Sesame Brittle",
-        "Mango Habanero",
+        "dire motives",
         "Austin Walker"
       ],
       "topics": [
@@ -323,14 +282,10 @@
       "enclosure_length": "85816080",
       "itunes_duration": "01:32:28",
       "speakers": [
-        "Kel Stony",
-        "Clay Cutlass",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Aquatic Ambush",
+        "Captain Hornbeam Hypostyle",
+        "Crystal Conch Express",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -350,11 +305,9 @@
       "enclosure_length": "133152890",
       "itunes_duration": "02:02:50",
       "speakers": [
-        "Grand Sonnerie",
-        "Spillaway Peaks",
-        "Fabula Ultima",
-        "Living Seaweed",
-        "Dark Sting Special",
+        "Aquatic Ambush",
+        "Calstega Bay",
+        "Valte Empire",
         "Austin Walker"
       ],
       "topics": [
@@ -376,7 +329,6 @@
       "itunes_duration": "02:09:59",
       "speakers": [
         "Roar Across Cenn",
-        "Dig In-Game Description",
         "Austin Walker"
       ],
       "topics": [
@@ -398,13 +350,7 @@
       "itunes_duration": "01:06:23",
       "speakers": [
         "Roar Across Cenn",
-        "Reverse Dracula",
-        "XD Alukard",
-        "Creative Writing",
-        "Austin Walker",
-        "FeaturingAli Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -425,13 +371,6 @@
       "itunes_duration": "02:24:21",
       "speakers": [
         "Roar Across Cenn",
-        "Antistrophe Landrace",
-        "Jimmy Cone Johnny Cakes",
-        "Ace Killer",
-        "Classic Comeback Shot",
-        "Dexterous Swing",
-        "Dexterous Hit",
-        "Jimjam Slam",
         "Austin Walker"
       ],
       "topics": [
@@ -454,12 +393,7 @@
       "speakers": [
         "Roar Across Cenn",
         "Antistrophe Landrace",
-        "Perpetuan Cycle",
-        "Calstega Cook Off",
-        "Cook Off",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -479,14 +413,10 @@
       "enclosure_length": "189516440",
       "itunes_duration": "02:50:53",
       "speakers": [
-        "Genuine Sincere",
-        "Suppressive Fire",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Sizzling Rivalry",
+        "Crashing Waves",
+        "Buzzard Black",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -508,14 +438,7 @@
       "enclosure_length": "114738800",
       "itunes_duration": "01:52:36",
       "speakers": [
-        "Genuine Sincere",
-        "Perpetua Guide",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -538,13 +461,7 @@
       "itunes_duration": "02:11:17",
       "speakers": [
         "Perpetua Sizzling Rivalry",
-        "Flash Orb",
-        "Gangster Killer",
-        "Knife Toss",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -566,14 +483,7 @@
       "enclosure_length": "154201896",
       "itunes_duration": "02:20:05",
       "speakers": [
-        "Calstega Bay",
-        "Dark Blade Gourmet",
-        "CarlsSr Wait",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -596,13 +506,6 @@
       "itunes_duration": "01:20:33",
       "speakers": [
         "Antistrophe Landrace",
-        "Perpetua Guide",
-        "Spell Sever",
-        "Armor Archeologist",
-        "Fabula Point",
-        "Securibot Armor martial",
-        "Asta Recovered",
-        "Cenn Npc",
         "Austin Walker"
       ],
       "topics": [
@@ -626,12 +529,7 @@
       "speakers": [
         "Caoimhe Wake",
         "Antistrophe Landrace",
-        "Wizard Flegg",
-        "Attendant Sono",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora Music"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -652,14 +550,7 @@
       "enclosure_length": "144068230",
       "itunes_duration": "01:50:22",
       "speakers": [
-        "Antristrophe Landrace",
-        "I'LL Quote",
-        "XxZelgadyskXx Wolf",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora Music",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -680,14 +571,6 @@
       "enclosure_length": "106981502",
       "itunes_duration": "01:29:22",
       "speakers": [
-        "Perpetua Guide",
-        "Manakin Gang",
-        "Cheetah Spots",
-        "Accuracy Checks",
-        "Cheetah Jacket",
-        "Automaton Suit",
-        "Loader Bots",
-        "Atelier Road",
         "Austin Walker"
       ],
       "topics": [
@@ -707,14 +590,7 @@
       "enclosure_length": "161181586",
       "itunes_duration": "02:13:36",
       "speakers": [
-        "Fallen Capital",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -733,14 +609,7 @@
       "enclosure_length": "125634524",
       "itunes_duration": "02:06:04",
       "speakers": [
-        "Calstega Bay",
-        "Scale Shower",
-        "Vampire Orchid",
-        "Vine Drain",
-        "Pollen Dusting Special",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -760,13 +629,7 @@
       "itunes_duration": "02:54:09",
       "speakers": [
         "Lady Teribald",
-        "Deadeye In-Game Description",
-        "Send Antistrophe",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora Music",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -786,14 +649,7 @@
       "enclosure_length": "146575443",
       "itunes_duration": "01:56:04",
       "speakers": [
-        "Perpetua Guide",
-        "House M'Shalia",
-        "Fire Damage",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora Music",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -814,12 +670,6 @@
       "itunes_duration": "01:54:30",
       "speakers": [
         "Antistrophe Landrace",
-        "Will Caoimhe",
-        "Flame Dart",
-        "Flame Claw",
-        "Aisling Revanj",
-        "Mean Spirited",
-        "Fiery Hexcloak",
         "Austin Walker"
       ],
       "topics": [
@@ -840,14 +690,7 @@
       "enclosure_length": "206634248",
       "itunes_duration": "02:51:10",
       "speakers": [
-        "Antistrophe Landrace",
-        "Tinkerer Stats",
-        "Brontë Adelvys",
-        "Sonnerie Classes",
-        "Weaponmaster Stats",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -867,14 +710,9 @@
       "enclosure_length": "116301652",
       "itunes_duration": "01:44:11",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Cover Art",
-        "Ben McEntee"
+        "Dragon Tower Pt",
+        "Little Snail",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -895,14 +733,7 @@
       "enclosure_length": "176361061",
       "itunes_duration": "02:44:55",
       "speakers": [
-        "Downward Stairwell",
-        "Squire Training Hall",
-        "Scryer Library",
-        "Austin Walker",
-        "FeaturingAli Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -923,14 +754,9 @@
       "enclosure_length": "157756924",
       "itunes_duration": "02:29:50",
       "speakers": [
-        "Flegg Strike",
-        "Vinnor Jekk",
-        "Flame Breath",
-        "Austin Walker",
-        "FeaturingAli Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Dragon Tower Pt",
+        "Little Snail",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -951,14 +777,10 @@
       "enclosure_length": "174172838",
       "itunes_duration": "02:35:08",
       "speakers": [
-        "Canary Shye",
-        "Quarter Tomm",
-        "Vinnor Jekk",
-        "heterodox cleric",
-        "Loremaster Stats",
-        "Dark Blade",
-        "Austin Walker",
-        "Janine Hawkins"
+        "Dragon Tower Pt",
+        "Bastion Blaque",
+        "Canary Sh",
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -980,13 +802,7 @@
       "itunes_duration": "02:24:10",
       "speakers": [
         "Perpetua Character Select",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1007,13 +823,7 @@
       "itunes_duration": "02:19:37",
       "speakers": [
         "Perpetua Prelude",
-        "Hexcloak Interrogation",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1033,13 +843,7 @@
       "itunes_duration": "01:43:43",
       "speakers": [
         "Perpetua Prelude",
-        "Valte Soldier Envs",
-        "Mysterious Seaslimes",
-        "Lobble Traveler",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1059,13 +863,7 @@
       "itunes_duration": "02:08:17",
       "speakers": [
         "Perpetua Prelude",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1085,13 +883,7 @@
       "itunes_duration": "02:05:59",
       "speakers": [
         "Perpetua Prelude",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1111,13 +903,7 @@
       "itunes_duration": "01:53:06",
       "speakers": [
         "Perpetua Prelude",
-        "Tomor Presh",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1137,13 +923,7 @@
       "itunes_duration": "01:25:25",
       "speakers": [
         "Perpetua Prelude",
-        "Fabula Ultima",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "perpetua",
@@ -1181,13 +961,7 @@
       "itunes_duration": "03:44:04",
       "speakers": [
         "Nextlander Preview",
-        "Realis Austin",
-        "Austin Walker",
-        "Brad Shoemaker",
-        "Jack de Quidt",
-        "Cover Art",
-        "Amelia Renee",
-        "Aster Maragos"
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1207,14 +981,8 @@
       "enclosure_length": "108661815",
       "itunes_duration": "01:42:10",
       "speakers": [
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Ali Acampora Music",
-        "Jack de Quidt",
-        "Cover Art",
-        "Amelia Renee",
-        "Aster Maragos"
+        "muddy histo",
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1235,14 +1003,8 @@
       "enclosure_length": "111137038",
       "itunes_duration": "01:53:09",
       "speakers": [
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Ali Acampora Music",
-        "Jack de Quidt",
-        "Cover Art",
-        "Amelia Renee",
-        "Aster Maragos"
+        "Citadel Bein",
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1263,14 +1025,9 @@
       "enclosure_length": "123523303",
       "itunes_duration": "02:08:14",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora Music",
-        "Cover Art",
-        "Amelia Renee",
-        "Bill Kaszubski",
-        "Cassie Jones",
-        "Daniel Laloggia"
+        "Citadel Bein",
+        "Krinsky Family Circus",
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1291,14 +1048,8 @@
       "enclosure_length": "140160178",
       "itunes_duration": "02:08:32",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora Music",
-        "Cover Art",
-        "Amelia Renee",
-        "Bill Kaszubski",
-        "Cassie Jones",
-        "Daniel Laloggia"
+        "Citadel Bein",
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1320,13 +1071,7 @@
       "itunes_duration": "02:12:24",
       "speakers": [
         "Realis Itself",
-        "Hypnotic Dokine",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Ali Acampora Music",
-        "Jack de Quidt",
-        "Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "realis",
@@ -1346,14 +1091,8 @@
       "enclosure_length": "109479061",
       "itunes_duration": "01:54:37",
       "speakers": [
-        "Sam Beck",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Fabula Ultima",
-        "Austin Walker",
-        "Ali Acampora Music",
-        "Cover Art",
-        "Amelia Renee"
+        "Realis Two",
+        "Austin Walker"
       ],
       "topics": [
         "introduction",
@@ -1372,7 +1111,7 @@
       "enclosure_length": "102200778",
       "itunes_duration": "01:42:31",
       "speakers": [
-        "Janine played Shooting",
+        "Janine played Shootin",
         "Austin Walker"
       ],
       "topics": [
@@ -1450,7 +1189,8 @@
       "enclosure_length": "294363736",
       "itunes_duration": "04:50:53",
       "speakers": [
-        "Fabula Ultima",
+        "Palisade Post",
+        "Mortem Hello",
         "Austin Walker"
       ],
       "topics": [
@@ -1495,7 +1235,6 @@
       "itunes_duration": "13:47",
       "speakers": [
         "Twitch Stream",
-        "Armor Astir",
         "Austin Walker"
       ],
       "topics": [
@@ -1519,14 +1258,8 @@
       "enclosure_length": "139413111",
       "itunes_duration": "02:19:10",
       "speakers": [
-        "Apostolisan Woman",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Earth Pt",
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1544,14 +1277,8 @@
       "enclosure_length": "121617454",
       "itunes_duration": "01:56:48",
       "speakers": [
-        "Dossier People Audacious Opportunity",
-        "Millennium Break",
-        "Zig'ell Barbos",
-        "Stels Columnar",
-        "Kalvin Brnine",
-        "Columnar Altars",
-        "Austin Walker",
-        "Janine Hawkins"
+        "Earth Pt",
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1569,14 +1296,9 @@
       "enclosure_length": "183456389",
       "itunes_duration": "02:56:11",
       "speakers": [
-        "Exeter Leap",
-        "Millennium Break",
-        "Stels Columnar",
-        "Kalvin Brnine",
-        "Objects Columnar Altars",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Earth Pt",
+        "Though Motion",
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1594,14 +1316,8 @@
       "enclosure_length": "107939376",
       "itunes_duration": "01:44:18",
       "speakers": [
-        "Stolen Cameo",
-        "Exeter Leap",
-        "Stels Columnar",
-        "Kalvin Brnine",
-        "Objects Columnar Altars",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Earth Pt",
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1619,14 +1335,7 @@
       "enclosure_length": "193485488",
       "itunes_duration": "02:11:43",
       "speakers": [
-        "Millennium Break",
-        "Stels Columnar",
-        "Kalvin Brnine",
-        "Objects Columnar Altars",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1644,14 +1353,7 @@
       "enclosure_length": "175631526",
       "itunes_duration": "01:59:19",
       "speakers": [
-        "Levi Cascabel-Gardner",
-        "Exeter Leap",
-        "Mysteries Perennial",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "earth"
@@ -1669,14 +1371,8 @@
       "enclosure_length": "241734320",
       "itunes_duration": "02:45:14",
       "speakers": [
-        "Austin Walker",
-        "Coriolis Sunset",
-        "Sylvi Clare",
-        "Keith Carberry",
-        "Jorrie Bluebrick",
-        "Kalvin Brnine",
-        "Ali Acampora",
-        "Levitation Cascabel-Gardner"
+        "Some New Thing Found",
+        "Austin Walker"
       ],
       "topics": [
         "thing",
@@ -1696,14 +1392,9 @@
       "enclosure_length": "135019086",
       "itunes_duration": "02:06:20",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1722,14 +1413,8 @@
       "enclosure_length": "136548684",
       "itunes_duration": "01:51:43",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1749,13 +1434,7 @@
       "itunes_duration": "02:11:09",
       "speakers": [
         "Lander One",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1774,14 +1453,8 @@
       "enclosure_length": "115378660",
       "itunes_duration": "01:54:53",
       "speakers": [
-        "Lucia Whitestar",
-        "Fire Support",
-        "Excerpt Signet",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1800,14 +1473,8 @@
       "enclosure_length": "158613708",
       "itunes_duration": "02:18:22",
       "speakers": [
-        "Excerpt Signet",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1826,14 +1493,8 @@
       "enclosure_length": "154109346",
       "itunes_duration": "02:15:24",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1852,14 +1513,8 @@
       "enclosure_length": "220315297",
       "itunes_duration": "03:01:33",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1878,14 +1533,8 @@
       "enclosure_length": "240602732",
       "itunes_duration": "03:13:12",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1904,14 +1553,8 @@
       "enclosure_length": "199901514",
       "itunes_duration": "03:06:11",
       "speakers": [
-        "Kalvin Brnine",
-        "Tomorrow Mouring",
-        "Coriolis Sunset",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Colors Pt",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1930,14 +1573,10 @@
       "enclosure_length": "235350621",
       "itunes_duration": "02:40:49",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music"
+        "Colors Pt",
+        "Perfect Millennium",
+        "Milky Way",
+        "Austin Walker"
       ],
       "topics": [
         "palette",
@@ -1956,14 +1595,6 @@
       "enclosure_length": "185966210",
       "itunes_duration": "01:57:24",
       "speakers": [
-        "Gucci Garantine",
-        "Millennium Break",
-        "Codename Watershed",
-        "Mustard Red",
-        "Brink Proxy",
-        "Clementine Kesh",
-        "Lucia Whitestar",
-        "Fire Support",
         "Austin Walker"
       ],
       "topics": []
@@ -1980,14 +1611,6 @@
       "enclosure_length": "176762116",
       "itunes_duration": "01:51:09",
       "speakers": [
-        "Gucci Garantine",
-        "Millennium Break",
-        "Codename Watershed",
-        "Mustard Red",
-        "Brink Proxy",
-        "Clementine Kesh",
-        "Lucia Whitestar",
-        "Fire Support",
         "Austin Walker"
       ],
       "topics": []
@@ -2004,14 +1627,7 @@
       "enclosure_length": "216732577",
       "itunes_duration": "02:16:30",
       "speakers": [
-        "Gucci Garantine",
-        "Millennium Break",
-        "Codename Watershed",
-        "Mustard Red",
-        "Brink Proxy",
-        "Lucia Whitestar",
-        "Fire Support",
-        "Zjenta Zjarule",
+        "loud sob",
         "Austin Walker"
       ],
       "topics": []
@@ -2028,11 +1644,7 @@
       "enclosure_length": "277216971",
       "itunes_duration": "02:47:56",
       "speakers": [
-        "Crysanth Kesh",
-        "Autonomous Diaspora",
-        "Zjenta Zjarule",
-        "AdArm Jury",
-        "AdArm Cast",
+        "Mechanical Whine Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2052,10 +1664,7 @@
       "enclosure_length": "203487523",
       "itunes_duration": "02:00:50",
       "speakers": [
-        "Crysanth Kesh",
-        "Zjenta Zjarule",
-        "AdArm Jury",
-        "AdArm Cast",
+        "Mechanical Whine Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2075,14 +1684,9 @@
       "enclosure_length": "199807907",
       "itunes_duration": "02:01:51",
       "speakers": [
-        "Zjenta Zjarule",
-        "AdArm Jury",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Mechanical Whine Pt",
+        "Lone Marble Group",
+        "Austin Walker"
       ],
       "topics": [
         "mechanical",
@@ -2102,13 +1706,7 @@
       "itunes_duration": "02:19:29",
       "speakers": [
         "Millennium Break",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "mechanical",
@@ -2148,10 +1746,7 @@
       "itunes_duration": "01:19:47",
       "speakers": [
         "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -2170,12 +1765,7 @@
       "enclosure_length": "157823372",
       "itunes_duration": "01:36:28",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -2195,12 +1785,7 @@
       "enclosure_length": "126970045",
       "itunes_duration": "01:20:09",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -2219,12 +1804,8 @@
       "enclosure_length": "146162909",
       "itunes_duration": "01:32:52",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Valuable Connections Sometimes",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -2246,13 +1827,7 @@
       "itunes_duration": "02:29:10",
       "speakers": [
         "Orth Godlove",
-        "Cassander Timaeus Berenice",
-        "Mako Trig",
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -2294,14 +1869,8 @@
       "enclosure_length": "205068436",
       "itunes_duration": "02:36:03",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Renegade Hearts",
-        "Gucci Garantine",
-        "Codename Watershed",
+        "recent recruits",
+        "regular civil",
         "Austin Walker"
       ],
       "topics": []
@@ -2318,14 +1887,9 @@
       "enclosure_length": "172283774",
       "itunes_duration": "02:50:15",
       "speakers": [
-        "Lucia Whitestar",
-        "Fire Support",
-        "Renegade Hearts",
-        "Millennium Break",
-        "Joyous Guard",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Reach Out Pt",
+        "Across Palisade",
+        "Austin Walker"
       ],
       "topics": []
     },
@@ -2341,14 +1905,7 @@
       "enclosure_length": "135253221",
       "itunes_duration": "01:55:19",
       "speakers": [
-        "Lucia Whitestar",
-        "Fire Support",
-        "Clementine Kesh",
-        "Millennium Break",
-        "Riah Connadine",
-        "Rudy Smails",
-        "Divine Fealty",
-        "Joyous Guard",
+        "Weapons Ready Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2368,14 +1925,9 @@
       "enclosure_length": "139380505",
       "itunes_duration": "02:25:44",
       "speakers": [
-        "Millennium Break",
-        "Cassander Timaeus Berenice",
-        "Lucia Whitestar",
-        "Divine Fealty",
-        "Joyous Guard",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Weapons Ready Pt",
+        "Kent State",
+        "Austin Walker"
       ],
       "topics": [
         "weapons",
@@ -2394,14 +1946,7 @@
       "enclosure_length": "108085763",
       "itunes_duration": "01:37:01",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Renegade Hearts",
-        "Stels Columnar",
-        "Kalvin Brnine",
+        "Chance Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2420,12 +1965,7 @@
       "enclosure_length": "13512164",
       "itunes_duration": "09:24",
       "speakers": [
-        "Conner Fawcett",
-        "Conner Fawcett Reprint",
-        "Cover Deskmat",
-        "Millenium Break",
-        "Janine Hawkins Cali-yumm",
-        "Without Boarders",
+        "New Merch Alert",
         "Austin Walker"
       ],
       "topics": [
@@ -2445,14 +1985,7 @@
       "enclosure_length": "170902097",
       "itunes_duration": "02:35:00",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Stels Columnar",
-        "Kalvin Brnine",
-        "Joyous Guard",
+        "Chance Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2471,14 +2004,8 @@
       "enclosure_length": "121046585",
       "itunes_duration": "01:42:27",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Stels Columnar",
-        "Steeple Catterick",
-        "Kalvin Brnine",
+        "Chance Pt",
+        "Blue Channel",
         "Austin Walker"
       ],
       "topics": [
@@ -2497,14 +2024,6 @@
       "enclosure_length": "85495241",
       "itunes_duration": "01:14:53",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Gucci Garantine",
-        "Codename Watershed",
-        "Stels Columnar",
-        "Steeple Catterick",
-        "Kalvin Brnine",
         "Austin Walker"
       ],
       "topics": [
@@ -2523,14 +2042,6 @@
       "enclosure_length": "161707308",
       "itunes_duration": "02:08:14",
       "speakers": [
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Gucci Garantine",
-        "Codename Watershed",
-        "Stels Columnar",
-        "Steeple Catterick",
-        "Kalvin Brnine",
         "Austin Walker"
       ],
       "topics": [
@@ -2549,14 +2060,8 @@
       "enclosure_length": "162759992",
       "itunes_duration": "02:43:01",
       "speakers": [
-        "Exeter Leap",
-        "Stels Columnar",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Integrity Pt",
+        "Austin Walker"
       ],
       "topics": [
         "honesty",
@@ -2575,14 +2080,8 @@
       "enclosure_length": "166579863",
       "itunes_duration": "02:42:14",
       "speakers": [
-        "Routine Rennari",
-        "Exeter Leap",
-        "Jev'ari Estano",
-        "Stels Columnar",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora"
+        "Integrity Pt",
+        "Austin Walker"
       ],
       "topics": [
         "honesty",
@@ -2601,13 +2100,7 @@
       "enclosure_length": "120771105",
       "itunes_duration": "02:00:29",
       "speakers": [
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Stels Columnar",
-        "Margate Lock",
-        "Jade Kill",
-        "Millennium Break",
-        "Joyous Guard",
+        "Frustration Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -2627,14 +2120,8 @@
       "enclosure_length": "84847848",
       "itunes_duration": "01:23:32",
       "speakers": [
-        "Occam Olio",
-        "Lucia Whitestar",
-        "Stels Columnar",
-        "Excerpt Signet",
-        "Millennium Break",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Frustration Pt",
+        "Austin Walker"
       ],
       "topics": [
         "resentment",
@@ -2653,14 +2140,6 @@
       "enclosure_length": "197365204",
       "itunes_duration": "02:48:53",
       "speakers": [
-        "Routine Rennari",
-        "Mustard Red",
-        "Brink Proxy",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Stels Columnar",
-        "Excerpt Signet",
         "Austin Walker"
       ],
       "topics": [
@@ -2699,13 +2178,6 @@
       "enclosure_length": "178436307",
       "itunes_duration": "02:25:41",
       "speakers": [
-        "Routine Rennari",
-        "Mustard Red",
-        "Brink Proxy",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Objects Gambeson",
         "Austin Walker"
       ],
       "topics": [
@@ -2725,13 +2197,6 @@
       "enclosure_length": "140328466",
       "itunes_duration": "02:11:57",
       "speakers": [
-        "Routine Rennari",
-        "Mustard Red",
-        "Brink Proxy",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Objects Gambeson",
         "Austin Walker"
       ],
       "topics": [
@@ -2751,14 +2216,6 @@
       "enclosure_length": "207939792",
       "itunes_duration": "02:21:46",
       "speakers": [
-        "Routine Rennari",
-        "Mustard Red",
-        "Brink Proxy",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Millennium Break",
-        "Objects Gambeson",
-        "Spread Yoca",
         "Austin Walker"
       ],
       "topics": [
@@ -2778,14 +2235,6 @@
       "enclosure_length": "102555455",
       "itunes_duration": "02:22:01",
       "speakers": [
-        "Griesel Sunset",
-        "Formido Sunset",
-        "Phobos Sunset",
-        "Kalvin Brnine",
-        "Millennium Break",
-        "Saint Decario Dicario",
-        "Triton Tanager",
-        "Elle Evensong",
         "Austin Walker"
       ],
       "topics": [
@@ -2804,14 +2253,6 @@
       "enclosure_length": "107013584",
       "itunes_duration": "02:14:47",
       "speakers": [
-        "Griesel Sunset",
-        "Millennium Break",
-        "Saint Decario Dicario",
-        "Triton Tanager",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Saffron Septet",
-        "Steeple Catterick",
         "Austin Walker"
       ],
       "topics": [
@@ -2830,14 +2271,6 @@
       "enclosure_length": "73814210",
       "itunes_duration": "01:41:17",
       "speakers": [
-        "Fundament Nodes",
-        "Grey Pond",
-        "Carmine Bight",
-        "Skelton Knaggs",
-        "Divine Fealty",
-        "Margate Lock",
-        "Millennium Break",
-        "Objects Lmg Altar Colloquially",
         "Austin Walker"
       ],
       "topics": []
@@ -2854,14 +2287,6 @@
       "enclosure_length": "100577634",
       "itunes_duration": "02:08:49",
       "speakers": [
-        "Grey Pond",
-        "Carmine Bight",
-        "Skelton Knaggs",
-        "Divine Fealty",
-        "Elle Evensong",
-        "Dim Liturgy",
-        "Routine Rennari",
-        "Saffron Septet",
         "Austin Walker"
       ],
       "topics": []
@@ -2878,14 +2303,6 @@
       "enclosure_length": "108518080",
       "itunes_duration": "02:03:36",
       "speakers": [
-        "Kenneth Marian Colver",
-        "Saint Decario Dicario",
-        "Triton Tanager",
-        "Dim Liturgy",
-        "Dicario St Dicario",
-        "Tenn Alpenglow",
-        "Kensley Marlowe Colver",
-        "Elle Evensong",
         "Austin Walker"
       ],
       "topics": [
@@ -2904,14 +2321,6 @@
       "enclosure_length": "125196655",
       "itunes_duration": "02:39:06",
       "speakers": [
-        "Tenn Alpenglow",
-        "Saint Decario Dicario",
-        "Triton Tanager",
-        "Dim Liturgy",
-        "Dicario St Dicario",
-        "Kenneth Marian Colver",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
         "Austin Walker"
       ],
       "topics": [
@@ -2930,14 +2339,7 @@
       "enclosure_length": "129017544",
       "itunes_duration": "02:36:26",
       "speakers": [
-        "Gucci Garantine",
-        "Dim Liturgy",
-        "Tenn Alpenglow",
-        "Kenneth Marian Colver",
-        "Kenneth Marrian Colver",
-        "Kalvin Brnine",
-        "Austin Walker",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "grace"
@@ -2955,14 +2357,7 @@
       "enclosure_length": "114308016",
       "itunes_duration": "02:15:49",
       "speakers": [
-        "Gucci Garantine",
-        "Dim Liturgy",
-        "Marlon Styx",
-        "Kalvin Brnine",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "grace"
@@ -2980,14 +2375,6 @@
       "enclosure_length": "66859098",
       "itunes_duration": "01:27:25",
       "speakers": [
-        "Carmine Bight",
-        "Grey Pond",
-        "Skelton Knaggs",
-        "Divine Fealty",
-        "Millennium Break",
-        "Griesel Sunset",
-        "Mustard Red",
-        "Brink Proxy",
         "Austin Walker"
       ],
       "topics": [
@@ -3007,14 +2394,7 @@
       "enclosure_length": "174971652",
       "itunes_duration": "01:58:52",
       "speakers": [
-        "Jade Kill",
-        "Carmine Bight",
-        "lick first",
-        "Clementine Kesh",
-        "Millennium Break",
-        "Gucci Garantine",
-        "Codename Watershed",
-        "Midnite Matinee",
+        "Trouble Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3034,14 +2414,8 @@
       "enclosure_length": "74138789",
       "itunes_duration": "01:42:31",
       "speakers": [
-        "Swordbearer Ramondre",
-        "Grey Pond",
-        "Carmine Bight",
-        "Skelton Knaggs",
-        "Marlon Styx",
-        "Dim Liturgy",
-        "Facer Canceller",
-        "Constantina Malady",
+        "Across Palisade",
+        "Bilateral Intecession",
         "Austin Walker"
       ],
       "topics": [
@@ -3060,14 +2434,6 @@
       "enclosure_length": "91720016",
       "itunes_duration": "01:58:56",
       "speakers": [
-        "Kalvin Brnine",
-        "Grey Pond",
-        "Carmine Bight",
-        "Skelton Knaggs",
-        "Divine Fealty",
-        "Margate Lock",
-        "Marlon Styx",
-        "Dim Liturgy",
         "Austin Walker"
       ],
       "topics": [
@@ -3086,14 +2452,7 @@
       "enclosure_length": "97966818",
       "itunes_duration": "02:04:20",
       "speakers": [
-        "Gucci Garantine",
-        "Kenneth Marian Colver",
-        "Tenn Alpenglow",
-        "Constantina Malady",
-        "Millennium Break",
-        "Jade Kill",
-        "Codename Watershed",
-        "Dim Liturgy",
+        "Dreams Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3113,14 +2472,7 @@
       "enclosure_length": "78991691",
       "itunes_duration": "01:37:16",
       "speakers": [
-        "Kenneth Marian Colver",
-        "Tenn Alpenglow",
-        "Constantina Malady",
-        "Gucci Garantine",
-        "Millennium Break",
-        "Codename Watershed",
-        "Dim Liturgy",
-        "AdArm Bouquet",
+        "Dreams Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3140,14 +2492,10 @@
       "enclosure_length": "88893108",
       "itunes_duration": "01:44:40",
       "speakers": [
-        "Griesel Sunset",
-        "Triton Tanager",
-        "Dim Liturgy",
-        "AdArm Bouquet",
-        "AdArm Motion Engine",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Dreams Pt",
+        "Broken Key",
+        "Whisk Sea",
+        "Austin Walker"
       ],
       "topics": [
         "canvas",
@@ -3166,14 +2514,8 @@
       "enclosure_length": "99313760",
       "itunes_duration": "02:09:52",
       "speakers": [
-        "Clementine Kesh",
-        "Millennium Break",
-        "Marlon Styx",
-        "Dim Liturgy",
-        "Constantina Malady",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Bullet"
+        "Dreams Pt",
+        "Austin Walker"
       ],
       "topics": [
         "canvas",
@@ -3192,13 +2534,6 @@
       "enclosure_length": "88349994",
       "itunes_duration": "01:51:34",
       "speakers": [
-        "Qui'Err Coalition",
-        "Clementine Kesh",
-        "Millennium Break",
-        "Kriminel Kollage",
-        "tos upport",
-        "Saffron Septet",
-        "Constantina Malady",
         "Austin Walker"
       ],
       "topics": []
@@ -3215,14 +2550,6 @@
       "enclosure_length": "118950086",
       "itunes_duration": "02:24:44",
       "speakers": [
-        "Fundament Node",
-        "Clementine Kesh",
-        "Millennium Break",
-        "Gucci Garantine",
-        "Codename Watershed",
-        "Kriminel Kollage",
-        "tos upport",
-        "Veston Vicinity",
         "Austin Walker"
       ],
       "topics": []
@@ -3239,14 +2566,6 @@
       "enclosure_length": "172922450",
       "itunes_duration": "03:48:31",
       "speakers": [
-        "Kalvin Brnine",
-        "Grey Pond",
-        "Carmine Bight",
-        "Skelton Knaggs",
-        "Divine Fealty",
-        "Margate Lock",
-        "Marlon Styx",
-        "Dim Liturgy",
         "Austin Walker"
       ],
       "topics": [
@@ -3266,14 +2585,7 @@
       "enclosure_length": "96876456",
       "itunes_duration": "01:42:05",
       "speakers": [
-        "Stels Columnar",
-        "Stel Apostolos",
-        "Millennium Break Dissidents",
-        "Kalvin Brnine",
-        "Millennium Break",
-        "Coriolis Sunset",
-        "Gucci Garantine",
-        "Kriminel Kollage",
+        "World Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3292,11 +2604,7 @@
       "enclosure_length": "202389459",
       "itunes_duration": "02:54:49",
       "speakers": [
-        "Stels Columnar",
-        "Millennium Break",
-        "Stel Apostolos",
-        "Millennium Break Dissidents",
-        "Kalvin Brnine",
+        "World Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3316,8 +2624,6 @@
       "itunes_duration": "04:34:19",
       "speakers": [
         "Romeo Juliet",
-        "William Shakespeare",
-        "Jack de Quidt",
         "Austin Walker"
       ],
       "topics": [
@@ -3339,8 +2645,6 @@
       "itunes_duration": "23:06",
       "speakers": [
         "Quick Pre-Palisade Update",
-        "Youtube FatT",
-        "Jess Levine",
         "Austin Walker"
       ],
       "topics": [
@@ -3359,14 +2663,7 @@
       "enclosure_length": "116249136",
       "itunes_duration": "02:39:52",
       "speakers": [
-        "Millennium Break",
-        "Stels Apostolos",
-        "Apparatus Aperitif",
-        "Antonina Juris",
-        "Plum Tort",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3388,14 +2685,7 @@
       "enclosure_length": "115309886",
       "itunes_duration": "02:37:02",
       "speakers": [
-        "Can Solstice House",
-        "Stels Apostolos",
-        "Crevera Solstice",
-        "Coughton Solstice",
-        "Carvisle Solstice",
-        "Catalina Solstice",
-        "Catrina Solstice",
-        "Guliford Gain",
+        "Downstairs Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3417,14 +2707,7 @@
       "enclosure_length": "139558988",
       "itunes_duration": "03:02:34",
       "speakers": [
-        "Stels Apostolos",
-        "Crevera Solstice",
-        "Coughton Solstice",
-        "Carvisle Solstice",
-        "Catalina Solstice",
-        "Catrina Solstice",
-        "Guliford Gain",
-        "Vivian Exler",
+        "Downstairs Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3446,14 +2729,7 @@
       "enclosure_length": "141816087",
       "itunes_duration": "03:22:05",
       "speakers": [
-        "Stels Apostolos",
-        "Articles Steam",
-        "Jimmy Steam Steamanski",
-        "Sara McKenzie",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3472,14 +2748,7 @@
       "enclosure_length": "78113439",
       "itunes_duration": "01:42:37",
       "speakers": [
-        "Stels Apostolos",
-        "Continental Countinghouse",
-        "Reatta Fossick",
-        "Galaebalus Splu-u-mp",
-        "lunch sandwiches",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3499,14 +2768,7 @@
       "enclosure_length": "152822868",
       "itunes_duration": "03:25:19",
       "speakers": [
-        "Stels Kesh",
-        "Stels Apostolos",
-        "Brink Proxy",
-        "Qui Err Coalition",
-        "Mustard Red",
-        "Deutsch Synchro",
-        "Sly Dente",
-        "Orchard Guildsman",
+        "Orbital Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3527,13 +2789,7 @@
       "enclosure_length": "112843632",
       "itunes_duration": "02:26:19",
       "speakers": [
-        "Stels Kesh",
-        "Stels Apostolos",
-        "Brink Proxy",
-        "Qui Err Coalition",
-        "Mustard Red",
-        "Deutsch Synchro",
-        "Orchard Guildsman",
+        "Orbital Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3554,14 +2810,7 @@
       "enclosure_length": "147138104",
       "itunes_duration": "03:03:27",
       "speakers": [
-        "Brink Proxy",
-        "Mustard Red",
-        "Stels Kesh",
-        "Stels Apostolos",
-        "Qui Err Coalition",
-        "Deutsch Synchro",
-        "Sly Dente",
-        "Orchard Guildsman",
+        "Orbital Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3582,14 +2831,7 @@
       "enclosure_length": "162323488",
       "itunes_duration": "03:30:02",
       "speakers": [
-        "Deutsch Syncrho",
-        "Stels Kesh",
-        "Stels Apostolos",
-        "Brink Proxy",
-        "Mustard Red",
-        "Deutsch Synchro",
-        "Toaster Wroaster",
-        "Knighton Reach",
+        "Orbital Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3610,13 +2852,7 @@
       "enclosure_length": "164233552",
       "itunes_duration": "03:36:27",
       "speakers": [
-        "Qui Err Coalition",
-        "Brink Proxy",
-        "Mustard Red",
-        "Deutsch Synchro",
-        "Grey Gloaming",
-        "Demani Dusk",
-        "Grand Magnificent",
+        "Orbital Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3638,13 +2874,6 @@
       "itunes_duration": "03:17:11",
       "speakers": [
         "Lancer Pt",
-        "Millennium Break",
-        "Zark Vapor",
-        "Teasel Fauna",
-        "Narmine Te'Ketch",
-        "Kaliope Flow",
-        "Zeke Minuet",
-        "Portcullis System",
         "Austin Walker"
       ],
       "topics": [
@@ -3666,13 +2895,7 @@
       "itunes_duration": "04:26:42",
       "speakers": [
         "Lancer Pt",
-        "Kaliope Flow",
-        "Zeke Minuet",
-        "Portcullis System",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Bullet",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3693,13 +2916,7 @@
       "itunes_duration": "03:08:17",
       "speakers": [
         "Lancer Pt",
-        "Kaliope Flow",
-        "Zeke Minuet",
-        "Portcullis System",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvia Clare",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3719,14 +2936,7 @@
       "enclosure_length": "145946112",
       "itunes_duration": "03:22:07",
       "speakers": [
-        "Millennium Break",
-        "Joyous Guard",
-        "Perpetual Lustre",
-        "Caeso Wair",
-        "Tzion Archana",
-        "Shale Belt",
-        "Articles BigStar",
-        "Gentle Influence",
+        "Wagon Wheel Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -3748,14 +2958,9 @@
       "enclosure_length": "133608520",
       "itunes_duration": "03:01:04",
       "speakers": [
-        "Caeso Wair",
-        "Lishan Charles",
-        "Shale Belt",
-        "Articles BigStar",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Wagon Wheel Pt",
+        "Millenium Break",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3776,14 +2981,7 @@
       "enclosure_length": "156177856",
       "itunes_duration": "03:26:02",
       "speakers": [
-        "Cor'rina Corrine",
-        "Millennium Break",
-        "Persons Ce",
-        "Caeso Wair",
-        "Lishan Charles",
-        "Articles BigStar",
-        "Austin Walker",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3804,14 +3002,7 @@
       "enclosure_length": "229872728",
       "itunes_duration": "03:52:14",
       "speakers": [
-        "Portcullis System",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvia Clare",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3831,14 +3022,9 @@
       "enclosure_length": "123833661",
       "itunes_duration": "02:27:05",
       "speakers": [
-        "Fingers Crossed",
-        "Robet Shpache",
-        "Austin Walker",
-        "Ali Acampora",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Jack de Quidt",
-        "Austin Walker Cover Art"
+        "Throne Once",
+        "Divine Discernment",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -3858,11 +3044,6 @@
       "enclosure_length": "193002672",
       "itunes_duration": "04:26:26",
       "speakers": [
-        "Divine Fealty",
-        "Stel Apostolos",
-        "Millennium Break Terrorists",
-        "Gucci Garantine",
-        "Saint Dawn",
         "Austin Walker"
       ],
       "topics": [
@@ -3883,12 +3064,6 @@
       "enclosure_length": "192132375",
       "itunes_duration": "04:19:20",
       "speakers": [
-        "Adam Wescott",
-        "Stel Apostolos",
-        "Millennium Break Terrorists",
-        "Gucci Garantine",
-        "Saint Dawn",
-        "Layer Luxurious",
         "Austin Walker"
       ],
       "topics": [
@@ -3909,6 +3084,9 @@
       "enclosure_length": "49776445",
       "itunes_duration": "01:08:06",
       "speakers": [
+        "Fundraiser Livestream Hello",
+        "National Network",
+        "Abortion Funds",
         "Austin Walker"
       ],
       "topics": [
@@ -3930,13 +3108,8 @@
       "enclosure_length": "222352658",
       "itunes_duration": "05:04:22",
       "speakers": [
-        "Artificer Divine",
-        "Good Will",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Fundraiser Livestream",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -3959,12 +3132,7 @@
       "itunes_duration": "01:21:19",
       "speakers": [
         "Playground Pt",
-        "Elliott Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -3986,12 +3154,7 @@
       "itunes_duration": "01:36:55",
       "speakers": [
         "Playground Pt",
-        "Elliott Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -4013,12 +3176,7 @@
       "itunes_duration": "01:37:25",
       "speakers": [
         "Playground Pt",
-        "Elliott Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -4040,12 +3198,7 @@
       "itunes_duration": "01:16:15",
       "speakers": [
         "Playground Pt",
-        "Elliott Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -4066,6 +3219,7 @@
       "enclosure_length": "92948703",
       "itunes_duration": "02:11:57",
       "speakers": [
+        "Liveshow Marielda Here",
         "Austin Walker"
       ],
       "topics": [
@@ -4107,12 +3261,7 @@
       "itunes_duration": "02:26:08",
       "speakers": [
         "Playground Pt",
-        "Elliot Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -4135,12 +3284,7 @@
       "itunes_duration": "01:28:59",
       "speakers": [
         "Playground Pt",
-        "Elliott Callahan",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Mall Kids"
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -4164,10 +3308,7 @@
         "Austin Walker",
         "Ali Acampora",
         "Sylvia Clare",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan"
+        "Jack de Quidt"
       ],
       "topics": [
         "sangfielle",
@@ -4187,12 +3328,8 @@
       "enclosure_length": "16349603",
       "itunes_duration": "15:40",
       "speakers": [
-        "Grant Howitt",
-        "Christopher Taylor Inhuman",
-        "Tommy Maranges",
-        "Cory O'Brien",
-        "Samantha Leigh",
-        "Peter Eijk",
+        "Sangfielle Post",
+        "Mortem Announcement Hello",
         "Austin Walker"
       ],
       "topics": [
@@ -4213,13 +3350,7 @@
       "enclosure_length": "111113213",
       "itunes_duration": "02:30:10",
       "speakers": [
-        "Dyre Ode",
-        "Organizations Aldomina",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4239,13 +3370,7 @@
       "enclosure_length": "52781026",
       "itunes_duration": "01:13:29",
       "speakers": [
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4264,14 +3389,7 @@
       "enclosure_length": "45577851",
       "itunes_duration": "01:06:27",
       "speakers": [
-        "Knight Fezh",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4291,14 +3409,7 @@
       "enclosure_length": "57023846",
       "itunes_duration": "01:12:52",
       "speakers": [
-        "Gandy Dancers",
-        "Queen Virtue",
-        "Emma Serchilde",
-        "Glim Macula",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4318,13 +3429,6 @@
       "enclosure_length": "109658690",
       "itunes_duration": "02:23:17",
       "speakers": [
-        "Lye Lychen",
-        "Queen Virtue",
-        "Unschola Republica",
-        "Figures Fendleton",
-        "Dayward yon",
-        "Dayward Yve",
-        "Karston Leberge",
         "Austin Walker"
       ],
       "topics": [
@@ -4345,14 +3449,7 @@
       "enclosure_length": "58414617",
       "itunes_duration": "01:08:38",
       "speakers": [
-        "Marn Ancura",
-        "Dyre Ode",
-        "Dayward Yve",
-        "Austin Walker",
-        "Ali Acampora",
-        "Ali Acampora Music",
-        "Jack de Quidt",
-        "Austin Walker Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4372,14 +3469,6 @@
       "enclosure_length": "91779709",
       "itunes_duration": "01:54:12",
       "speakers": [
-        "Queen Virtue",
-        "Unschola Republica",
-        "Free Seas",
-        "Dayward yon",
-        "Dayward Yve",
-        "Ekashi Wolff",
-        "Dyre Ode",
-        "Chantilly Scathe",
         "Austin Walker"
       ],
       "topics": [
@@ -4400,13 +3489,6 @@
       "itunes_duration": "01:37:12",
       "speakers": [
         "Sangfielle Dead",
-        "Queen Virtue",
-        "Dayward yon",
-        "Dayward Yve",
-        "Ekashi Wolff",
-        "Dyre Ode",
-        "Chantilly Scathe",
-        "Shape Knight",
         "Austin Walker"
       ],
       "topics": [
@@ -4427,13 +3509,6 @@
       "itunes_duration": "01:48:15",
       "speakers": [
         "Sangfielle Dead",
-        "Lye Lychen",
-        "Queen Virtue",
-        "Dayward yon",
-        "Dayward Yve",
-        "Ekashi Wolff",
-        "Dyre Ode",
-        "Chantilly Scathe",
         "Austin Walker"
       ],
       "topics": [
@@ -4455,12 +3530,7 @@
       "speakers": [
         "Sangfielle Wax",
         "Iron Pt",
-        "Ekashi Wolff",
-        "Sister Marisha",
-        "Kerr Kern",
-        "Knight Pickman",
-        "Austin Walker",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4481,13 +3551,7 @@
       "itunes_duration": "01:28:24",
       "speakers": [
         "Iron Pt",
-        "Ekashi Wolff",
-        "Sister Marisha",
-        "Kerr Kern",
-        "Knight Pickman",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4508,13 +3572,7 @@
       "itunes_duration": "01:34:44",
       "speakers": [
         "Sangfielle Wax",
-        "Iron Pt",
-        "Figures Alekest",
-        "Knight Pickman",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4535,13 +3593,7 @@
       "itunes_duration": "02:04:36",
       "speakers": [
         "Iron Pt",
-        "Lye Lychen",
-        "Figures Alekest",
-        "Knight Pickman",
-        "Queen Virtue",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4562,13 +3614,7 @@
       "itunes_duration": "01:24:33",
       "speakers": [
         "Quarry Pt",
-        "Lye Lychen",
-        "Chantilly Scathe",
-        "Shape Knight",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4589,13 +3635,7 @@
       "itunes_duration": "01:20:40",
       "speakers": [
         "Quarry Pt",
-        "Lye Lychen",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4615,14 +3655,7 @@
       "enclosure_length": "103687387",
       "itunes_duration": "02:17:37",
       "speakers": [
-        "Rebek Semm",
-        "Gren Voznik",
-        "Ennib Lee",
-        "Lejune Borr",
-        "Kerr Kern",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4641,14 +3674,7 @@
       "enclosure_length": "67793963",
       "itunes_duration": "01:33:35",
       "speakers": [
-        "Rebek Semm",
-        "Gren Voznik",
-        "Ennib Lee",
-        "Lejune Borr",
-        "Kerr Kern",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4667,14 +3693,7 @@
       "enclosure_length": "78204359",
       "itunes_duration": "01:43:03",
       "speakers": [
-        "Rebek Semm",
-        "Gren Voznik",
-        "Ennib Lee",
-        "Lejune Borr",
-        "Kerr Kern",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4693,14 +3712,7 @@
       "enclosure_length": "72740538",
       "itunes_duration": "01:39:23",
       "speakers": [
-        "Figures Alekest",
-        "Knight Pickman",
-        "Felix Hollowfield",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4719,14 +3731,7 @@
       "enclosure_length": "124414580",
       "itunes_duration": "02:08:12",
       "speakers": [
-        "Figures Alekest",
-        "Knight Pickman",
-        "Felix Hollowfield",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4745,14 +3750,7 @@
       "enclosure_length": "82072499",
       "itunes_duration": "01:39:33",
       "speakers": [
-        "Lye Lychen",
-        "Unschola Republica",
-        "Yersa Mallow",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4772,14 +3770,7 @@
       "enclosure_length": "79244728",
       "itunes_duration": "01:21:10",
       "speakers": [
-        "Figures Reuben",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4818,14 +3809,7 @@
       "enclosure_length": "146672519",
       "itunes_duration": "03:01:02",
       "speakers": [
-        "Figures Alekest",
-        "Knight Pickman",
-        "Etienne Alize",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Sylvi Clare"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4847,13 +3831,7 @@
       "itunes_duration": "02:30:58",
       "speakers": [
         "Sangfielle Passage",
-        "Fire Alight",
-        "Etienne Alize",
-        "Gandy Dancers",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4874,14 +3852,7 @@
       "enclosure_length": "149132352",
       "itunes_duration": "02:33:57",
       "speakers": [
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Austin Walker Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4903,13 +3874,7 @@
       "itunes_duration": "01:33:22",
       "speakers": [
         "Beneath Pt",
-        "Mabriella du Feza",
-        "Figures Mabriella du Feza",
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4931,13 +3896,7 @@
       "itunes_duration": "01:49:35",
       "speakers": [
         "Beneath Pt",
-        "Mabriella du Feza",
-        "Dyre Ode",
-        "Emma Serchilde",
-        "Felix Hollowfield",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4959,13 +3918,7 @@
       "itunes_duration": "01:43:00",
       "speakers": [
         "Beneath Pt",
-        "Dyre Ode",
-        "Emma Serchilde",
-        "William Blick",
-        "Felix Hollowfield",
-        "Mabriella du Feza",
-        "Austin Walker",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -4987,13 +3940,7 @@
       "itunes_duration": "02:07:16",
       "speakers": [
         "Beneath Pt",
-        "William Blick",
-        "Felix Hollowfield",
-        "Mabriella du Feza",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5014,14 +3961,7 @@
       "enclosure_length": "124883321",
       "itunes_duration": "02:08:42",
       "speakers": [
-        "Lady Zizilliana",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5043,14 +3983,7 @@
       "enclosure_length": "74646963",
       "itunes_duration": "01:23:58",
       "speakers": [
-        "Asator Crosley",
-        "Lady Zizilliana",
-        "Marcos Soto",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5072,13 +4005,6 @@
       "enclosure_length": "109414755",
       "itunes_duration": "02:05:13",
       "speakers": [
-        "Concert Hall",
-        "Asator Crosley",
-        "Lady Zizilliana",
-        "Emma Serchilde",
-        "Felix Hollowfield",
-        "Lye Lychen",
-        "Glim Macula",
         "Austin Walker"
       ],
       "topics": [
@@ -5101,14 +4027,7 @@
       "enclosure_length": "89615196",
       "itunes_duration": "01:44:33",
       "speakers": [
-        "Asator Crosley",
-        "Lady Zizilliana",
-        "Emma Serchilde",
-        "Felix Hollowfield",
-        "Lye Lychen",
-        "Glim Macula",
-        "Austin Walker",
-        "Sylvi Clare"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5130,13 +4049,6 @@
       "enclosure_length": "79680597",
       "itunes_duration": "01:21:36",
       "speakers": [
-        "Lye Lyken",
-        "Asator Crosley",
-        "Lady Zizilliana",
-        "Emma Serchilde",
-        "Felix Hollowfield",
-        "Lye Lychen",
-        "Glim Macula",
         "Austin Walker"
       ],
       "topics": [
@@ -5159,14 +4071,6 @@
       "enclosure_length": "187866218",
       "itunes_duration": "03:14:18",
       "speakers": [
-        "Figures Sym",
-        "Harin Hardesty",
-        "William Blick",
-        "Lady Zizilliana",
-        "Shape Knight",
-        "Calen fel Dynestia",
-        "Lye Lychen",
-        "Glim Macula",
         "Austin Walker"
       ],
       "topics": [
@@ -5187,14 +4091,7 @@
       "enclosure_length": "113179398",
       "itunes_duration": "01:56:31",
       "speakers": [
-        "Shape Knight",
-        "Glim Macula",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5214,14 +4111,7 @@
       "enclosure_length": "99491461",
       "itunes_duration": "01:54:27",
       "speakers": [
-        "Lye Lychen",
-        "Omerra Celendi",
-        "Calen fel Dynestia",
-        "Regan Alaway",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Carberry Produced"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5242,14 +4132,7 @@
       "enclosure_length": "90945855",
       "itunes_duration": "01:49:24",
       "speakers": [
-        "Lye Lychen",
-        "Omerra Celendi",
-        "Calen fel Dynestia",
-        "Ephemera Hosted",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Carberry Produced"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5270,8 +4153,6 @@
       "enclosure_length": "105162753",
       "itunes_duration": "01:48:10",
       "speakers": [
-        "Chantilly Scathe",
-        "Shape Knight",
         "Austin Walker"
       ],
       "topics": [
@@ -5293,14 +4174,7 @@
       "enclosure_length": "137822880",
       "itunes_duration": "02:24:33",
       "speakers": [
-        "Chantilly Scathe",
-        "Shape Knight",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Carberry Produced",
-        "Ali Acampora",
-        "Austin Walker Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5321,14 +4195,7 @@
       "enclosure_length": "110390801",
       "itunes_duration": "02:06:02",
       "speakers": [
-        "Xanthic Demesne",
-        "Regan Alaway",
-        "Shape Knight",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5348,14 +4215,7 @@
       "enclosure_length": "81645137",
       "itunes_duration": "01:31:51",
       "speakers": [
-        "Xanthic Demesne",
-        "Regan Alaway",
-        "Shape Knight",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5375,14 +4235,7 @@
       "enclosure_length": "99582538",
       "itunes_duration": "01:42:21",
       "speakers": [
-        "Xanthic Demesne",
-        "Shape Knight",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Andrew Lee Swan",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5402,14 +4255,7 @@
       "enclosure_length": "187099848",
       "itunes_duration": "03:13:31",
       "speakers": [
-        "Dayward yon Vantzon-Estonbergh",
-        "Figures Erlin",
-        "Vellete Vandrake",
-        "Chantilly Scathe",
-        "Shape Knight",
-        "Babor Mirah",
-        "Myron Andrashi",
-        "Dayward Yve",
+        "scrimshaw don",
         "Austin Walker"
       ],
       "topics": [
@@ -5430,14 +4276,7 @@
       "enclosure_length": "104428065",
       "itunes_duration": "01:47:24",
       "speakers": [
-        "Lye Lychen",
-        "Dayward Yve",
-        "Dayward yon Vantzon-Estonbergh",
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5459,14 +4298,7 @@
       "enclosure_length": "140759400",
       "itunes_duration": "01:54:37",
       "speakers": [
-        "Lye Lychen",
-        "Dayward yon Vantzon-Estonbergh",
-        "Dayward Yve",
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5488,14 +4320,7 @@
       "enclosure_length": "89811990",
       "itunes_duration": "01:32:10",
       "speakers": [
-        "Dayward yon",
-        "Dayward Yve",
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5517,14 +4342,7 @@
       "enclosure_length": "108827837",
       "itunes_duration": "01:51:59",
       "speakers": [
-        "Dayward yon Vantzon-Estonbergh",
-        "Figures Lye",
-        "Dayward Yve",
-        "Dyre Ode",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5546,14 +4364,7 @@
       "enclosure_length": "116281450",
       "itunes_duration": "01:59:44",
       "speakers": [
-        "Pale Magistrate",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5574,14 +4385,7 @@
       "enclosure_length": "88695767",
       "itunes_duration": "01:31:00",
       "speakers": [
-        "Janek Polyte",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5602,14 +4406,7 @@
       "enclosure_length": "79118463",
       "itunes_duration": "01:21:02",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Austin Walker Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5630,14 +4427,7 @@
       "enclosure_length": "153155230",
       "itunes_duration": "02:38:08",
       "speakers": [
-        "Blackwick County",
-        "Unschola Republica",
-        "Free Seas",
-        "Ekashi Wolff",
-        "Ashen Remains",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5658,14 +4448,7 @@
       "enclosure_length": "176695569",
       "itunes_duration": "03:02:40",
       "speakers": [
-        "Peoples Caprak",
-        "Blackwick County",
-        "Virtue Mondegreen",
-        "Marn Ancura",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5706,14 +4489,7 @@
       "enclosure_length": "91627918",
       "itunes_duration": "01:34:03",
       "speakers": [
-        "Peoples Caprak",
-        "Unschola Republica",
-        "Free Seas",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "sangfielle",
@@ -5734,10 +4510,6 @@
       "enclosure_length": "129781824",
       "itunes_duration": "02:13:45",
       "speakers": [
-        "Everest Pipkin",
-        "Grant Howitt",
-        "Christopher Taylor",
-        "Peoples Caprak",
         "Austin Walker"
       ],
       "topics": [
@@ -5759,6 +4531,7 @@
       "enclosure_length": "12047737",
       "itunes_duration": "11:09",
       "speakers": [
+        "Announcement People",
         "Austin Walker"
       ],
       "topics": [
@@ -5781,10 +4554,7 @@
         "Austin Walker",
         "Ali Acampora",
         "Sylvia Clare",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan"
+        "Jack de Quidt"
       ],
       "topics": [
         "partizan",
@@ -5804,13 +4574,6 @@
       "enclosure_length": "191596190",
       "itunes_duration": "03:18:10",
       "speakers": [
-        "Gur Sevraq",
-        "Millennium Break",
-        "Millennium Break Dissidents",
-        "Gucci Garantine",
-        "Autonomy Itself",
-        "Cassander Timaeus Berenice",
-        "Kalmera Broun",
         "Austin Walker"
       ],
       "topics": [
@@ -5833,13 +4596,6 @@
       "enclosure_length": "140645586",
       "itunes_duration": "02:25:05",
       "speakers": [
-        "Millennium Break",
-        "Shackled Sun",
-        "Millennium Break Dissidents",
-        "Logos Kantel",
-        "Gur Sevraq",
-        "Autonomy Itself",
-        "Cassander Timaeus Berenice",
         "Austin Walker"
       ],
       "topics": [
@@ -5861,12 +4617,8 @@
       "enclosure_length": "174932910",
       "itunes_duration": "03:00:48",
       "speakers": [
-        "MIllennium Break",
-        "Millennium Break Dissidents",
-        "Logos Kantel",
-        "Gucci Garantine",
-        "Zig'ell Barbos",
-        "Autonomy Itself",
+        "Operation Shackled Sun",
+        "Perfect Millennium",
         "Austin Walker"
       ],
       "topics": [
@@ -5888,11 +4640,6 @@
       "enclosure_length": "6338728",
       "itunes_duration": "05:13",
       "speakers": [
-        "Ben Auden Roswell",
-        "Ben Robbins",
-        "Jason Morningstar",
-        "Rob Zacny",
-        "Natalie Watson",
         "Austin Walker"
       ],
       "topics": [
@@ -5911,13 +4658,7 @@
       "enclosure_length": "124210156",
       "itunes_duration": "02:07:58",
       "speakers": [
-        "Millennium Break",
-        "People Xiphion",
-        "Zig'ell Barbos",
-        "Gur Sevraq",
-        "Gucci Garantine",
-        "Sloe Uplight",
-        "AdArm Quiver",
+        "Stel Kesh",
         "Austin Walker"
       ],
       "topics": [
@@ -5938,14 +4679,8 @@
       "enclosure_length": "120597317",
       "itunes_duration": "02:04:12",
       "speakers": [
-        "Millennium Break",
-        "People Xiphion",
-        "Zig'ell Barbos",
-        "Gucci Garantine",
-        "Sloe Uplight",
-        "AdArm Quiver",
-        "Austin Walker",
-        "Art Martinez-Tebbel"
+        "Chasmata Quarry",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -5964,14 +4699,8 @@
       "enclosure_length": "101937926",
       "itunes_duration": "01:44:47",
       "speakers": [
-        "Memoria Teardrop",
-        "Millennium Break",
-        "Gucci Garantine",
-        "Sloe Uplight",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Divine Past",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -5992,13 +4721,7 @@
       "itunes_duration": "01:42:23",
       "speakers": [
         "Orbital Decay",
-        "Gur Sevraq",
-        "Si'dra Balos",
-        "Eiden Teak",
-        "AdArm Scourge",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvia Clare"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6018,14 +4741,7 @@
       "enclosure_length": "81222532",
       "itunes_duration": "01:23:12",
       "speakers": [
-        "Gur Sevraq",
-        "Si'dra Balos",
-        "Eiden Teak",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvia Clare",
-        "Ali Acampora",
-        "Ali Acampora Music"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6045,14 +4761,10 @@
       "enclosure_length": "98446943",
       "itunes_duration": "01:41:09",
       "speakers": [
-        "Si'Dra Balos",
-        "Gur Sevraq",
-        "Eiden Teak",
-        "Fi'nilo Nicol",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvia Clare",
-        "Ali Acampora"
+        "Mera Broun",
+        "Jesset City",
+        "Million Blue",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6072,10 +4784,6 @@
       "enclosure_length": "91863940",
       "itunes_duration": "01:34:16",
       "speakers": [
-        "Gucci Garantine",
-        "Millennium Break",
-        "Brightsky West",
-        "Brightsky East",
         "Austin Walker"
       ],
       "topics": [
@@ -6095,14 +4803,10 @@
       "enclosure_length": "124506197",
       "itunes_duration": "02:08:17",
       "speakers": [
-        "Gucci Garantine",
-        "Millennium Break",
-        "Brightsky West",
-        "Brightsky East",
-        "Deep Dish Steak House",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvia Clare"
+        "Absence Having",
+        "Reflecting Pool",
+        "Sovereign Immunity",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6122,14 +4826,7 @@
       "enclosure_length": "252834671",
       "itunes_duration": "04:21:59",
       "speakers": [
-        "Sarah Morgan",
-        "Bryan Piatt",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6149,14 +4846,7 @@
       "enclosure_length": "183041990",
       "itunes_duration": "03:09:16",
       "speakers": [
-        "Jack de Quidt",
-        "Austin Walker",
-        "Gur Sevraq",
-        "Janine Hawkins",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Exeter Leap",
-        "Keith Carberry"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6176,11 +4866,7 @@
       "enclosure_length": "157527752",
       "itunes_duration": "02:42:41",
       "speakers": [
-        "Millennium Break",
-        "Gucci Garantine",
-        "Brightsky West",
-        "Brightsky East",
-        "Deep Dish Steak House",
+        "Otherwise After",
         "Austin Walker"
       ],
       "topics": [
@@ -6201,11 +4887,8 @@
       "enclosure_length": "111202535",
       "itunes_duration": "01:54:24",
       "speakers": [
-        "Gur Sevraq",
-        "Gigas Acano",
-        "Cassander Timaeus Berenice",
-        "Strand Semaphore",
-        "Millennium Break",
+        "Single Shot Inside",
+        "High Altar",
         "Austin Walker"
       ],
       "topics": [
@@ -6226,11 +4909,6 @@
       "enclosure_length": "157263163",
       "itunes_duration": "02:42:23",
       "speakers": [
-        "Gur Sevraq",
-        "Gigas Acano",
-        "Cassander Timaeus Berenice",
-        "Strand Semaphore",
-        "Millennium Break",
         "Austin Walker"
       ],
       "topics": [
@@ -6251,13 +4929,7 @@
       "itunes_duration": "02:29:59",
       "speakers": [
         "Millennium Break",
-        "Gucci Garantine",
-        "Apparatus Aperitif",
-        "Gur Sevraq",
-        "Gigas Acano",
-        "Strand Semaphore",
-        "Austin Walker",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6277,14 +4949,10 @@
       "enclosure_length": "116473523",
       "itunes_duration": "01:59:55",
       "speakers": [
-        "Jacob Blake",
-        "Kyle Rittenhouse",
-        "Alard Cadmus",
-        "Believes Order",
-        "Millennium Break",
-        "Divines Order",
-        "Austin Walker",
-        "Janine Hawkins"
+        "Heroes Content Warnings",
+        "Violence During",
+        "Public Event",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6305,13 +4973,6 @@
       "itunes_duration": "01:42:21",
       "speakers": [
         "Millennium Break",
-        "Gucci Garantine",
-        "Crysanth Kesh",
-        "Alard Cadmus",
-        "Believes Order",
-        "Brightsky West",
-        "Brightsky East",
-        "Divines Order",
         "Austin Walker"
       ],
       "topics": [
@@ -6333,13 +4994,7 @@
       "enclosure_length": "57097740",
       "itunes_duration": "58:05",
       "speakers": [
-        "Gita Jackson",
-        "Ben Roswell",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "sport",
@@ -6359,13 +5014,6 @@
       "itunes_duration": "03:33:34",
       "speakers": [
         "Millennium Break",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "Stel Apostolos",
-        "Crysanth Kesh",
-        "Clementine Kesh",
-        "Apparatus Ape",
         "Austin Walker"
       ],
       "topics": [
@@ -6389,13 +5037,6 @@
       "itunes_duration": "02:35:18",
       "speakers": [
         "Millennium Break",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "Stel Apostolos",
-        "Crysanth Kesh",
-        "Clementine Kesh",
-        "Apparatus Aperitif",
         "Austin Walker"
       ],
       "topics": [
@@ -6417,13 +5058,6 @@
       "itunes_duration": "02:51:53",
       "speakers": [
         "Millennium Break",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "People Kenzington",
-        "Apparatus Aperitif",
-        "Gur Sevraq",
-        "Si'dra Balos",
         "Austin Walker"
       ],
       "topics": [
@@ -6446,13 +5080,6 @@
       "itunes_duration": "02:22:14",
       "speakers": [
         "Millennium Break Courage",
-        "Millennium Break",
-        "Gur Sevraq",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "Apparatus Aperitif",
-        "Si'dra Balos",
         "Austin Walker"
       ],
       "topics": [
@@ -6477,13 +5104,6 @@
       "itunes_duration": "02:05:50",
       "speakers": [
         "Millennium Break",
-        "Clementine Kesh",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "Sloe Uplight",
-        "Apparatus Aperitif",
-        "Gur Sevraq",
         "Austin Walker"
       ],
       "topics": [
@@ -6509,13 +5129,6 @@
       "itunes_duration": "02:35:53",
       "speakers": [
         "Millennium Break",
-        "Strand Semaphore",
-        "House Brightline",
-        "Tes'ili Serikos",
-        "Apparatus Aperitif",
-        "Gur Sevraq",
-        "Si'dra Balos",
-        "Gucci Garantine",
         "Austin Walker"
       ],
       "topics": [
@@ -6537,12 +5150,6 @@
       "itunes_duration": "01:36:14",
       "speakers": [
         "Millenium Break Forward",
-        "Exeter Leap",
-        "Stel Apostolos",
-        "Gur Sevraq",
-        "Millennium Break Dissidents",
-        "Strand Semaphore",
-        "House Brightline",
         "Austin Walker"
       ],
       "topics": [
@@ -6570,13 +5177,6 @@
       "itunes_duration": "02:35:14",
       "speakers": [
         "Millennium Break",
-        "Ben Robbins",
-        "George Floyd",
-        "Breonna Tayler",
-        "Tony McDade",
-        "Ahmaud Arbery",
-        "Stel Apostolos",
-        "Gur Sevraq",
         "Austin Walker"
       ],
       "topics": [
@@ -6600,11 +5200,7 @@
       "enclosure_length": "199832514",
       "itunes_duration": "03:26:44",
       "speakers": [
-        "Clementine Kesh",
-        "Strand Semaphore",
-        "Tes'ili Serikos",
-        "Si'dra Balos",
-        "Gucci Garantine",
+        "Kesh first kicked off",
         "Austin Walker"
       ],
       "topics": [
@@ -6624,9 +5220,8 @@
       "enclosure_length": "232883765",
       "itunes_duration": "04:01:09",
       "speakers": [
-        "Stel Apostolos",
-        "Gur Sevraq",
-        "Gucci Garant",
+        "Fracture After",
+        "Bright Returns",
         "Austin Walker"
       ],
       "topics": [
@@ -6647,10 +5242,7 @@
       "enclosure_length": "159379110",
       "itunes_duration": "02:44:35",
       "speakers": [
-        "Tes'ili Serikos",
-        "Lucia Whitestar",
-        "Gur Sevraq",
-        "Alberz Chasmata",
+        "Divine Motion",
         "Austin Walker"
       ],
       "topics": [
@@ -6671,12 +5263,6 @@
       "enclosure_length": "184380669",
       "itunes_duration": "02:32:30",
       "speakers": [
-        "Tes'ili Serikos",
-        "Lucia Whitestar",
-        "Gur Sevraq",
-        "Alberz Chasmata",
-        "Exeter Leap",
-        "AdArm Cast",
         "Austin Walker"
       ],
       "topics": [
@@ -6697,14 +5283,6 @@
       "enclosure_length": "153268540",
       "itunes_duration": "02:06:35",
       "speakers": [
-        "Halting Kesh",
-        "Lucia Whitestar",
-        "House Chasmata",
-        "Phy'lon Antiphony",
-        "Clementine Kesh",
-        "Crysanth Kesh",
-        "Gur Sevraq",
-        "Alberz Chasmata",
         "Austin Walker"
       ],
       "topics": [
@@ -6725,14 +5303,8 @@
       "enclosure_length": "161741259",
       "itunes_duration": "02:47:04",
       "speakers": [
-        "Gucci Garantine",
-        "Oxblood Clan",
-        "Dark lipstick",
-        "Amber Haze",
-        "AdArm Flock",
-        "Notes Sbbr",
-        "Austin Walker",
-        "Ali Acampora"
+        "Divine Attention Content Warning",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6752,14 +5324,6 @@
       "enclosure_length": "221770629",
       "itunes_duration": "03:03:41",
       "speakers": [
-        "Gucci Garantine",
-        "House Brightline",
-        "Oxblood Clan",
-        "Clementine Kesh",
-        "Dark lipstick",
-        "Aram Nideo",
-        "Roland Tenten",
-        "Notes Sbbr",
         "Austin Walker"
       ],
       "topics": [
@@ -6781,14 +5345,7 @@
       "enclosure_length": "197449834",
       "itunes_duration": "03:24:16",
       "speakers": [
-        "Clementine Kesh",
-        "House Brightline",
-        "Gucci Garantine",
-        "Crysanth Kesh",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6809,13 +5366,7 @@
       "itunes_duration": "02:24:39",
       "speakers": [
         "Gur Sevraq",
-        "Strand Semaphore",
-        "House Brightline",
-        "Apparatus Aperitif",
-        "Gucci Garantine",
-        "Clementine Kesh",
-        "Austin Walker",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6835,13 +5386,7 @@
       "itunes_duration": "02:23:57",
       "speakers": [
         "Desert Squire Sleight",
-        "Callister Drive Callister",
-        "Gur Sevraq",
-        "Burden Bittenbach",
-        "Callister Drive",
-        "Austin Walker",
-        "Sylvia Clare",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6863,13 +5408,6 @@
       "itunes_duration": "02:07:10",
       "speakers": [
         "Desert Squire Riposte",
-        "Clementine Kesh",
-        "Exeter Leap",
-        "Callister Drive Callister",
-        "Burden Bittenbach",
-        "Gur Sevraq",
-        "Callister Drive",
-        "Callister Leap",
         "Austin Walker"
       ],
       "topics": [
@@ -6891,13 +5429,7 @@
       "itunes_duration": "02:14:58",
       "speakers": [
         "Desert Squire Vantage",
-        "Clementine Kesh",
-        "Gur Sevraq",
-        "Renegade Hearts",
-        "Exeter Leap",
-        "Austin Walker",
-        "Sylvia Clare",
-        "Art Martinez-Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6918,14 +5450,7 @@
       "enclosure_length": "174826247",
       "itunes_duration": "02:24:34",
       "speakers": [
-        "Eiden Teak",
-        "Notes Sbbr",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Andrew Lee Swan",
-        "Ali Acampora Music",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6945,14 +5470,8 @@
       "enclosure_length": "176236630",
       "itunes_duration": "02:25:44",
       "speakers": [
-        "Strand Semaphore",
-        "Gave Thisbe",
-        "Dina Dash",
-        "Zenith-C Obscura Wide",
-        "Notes Sbbr",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Sand Before Cymbidium",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6972,14 +5491,11 @@
       "enclosure_length": "198207950",
       "itunes_duration": "02:44:03",
       "speakers": [
-        "Clementine Kesh",
-        "Exeter Leap",
-        "Navigation Tool",
-        "Notes Mission Reward",
-        "Austin Walker",
-        "Sylvia Clare",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Palace During",
+        "Wake After",
+        "Divine Past",
+        "Elect Cymb",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -6999,13 +5515,7 @@
       "enclosure_length": "159223936",
       "itunes_duration": "02:11:33",
       "speakers": [
-        "Burden Bittenbach",
-        "Midnite Matinee",
-        "AutoHollow Popcorn",
-        "Gur Sevraq",
-        "Brightsky West",
-        "Brightsky East",
-        "AdArm Pack-model",
+        "Bright Returns",
         "Austin Walker"
       ],
       "topics": [
@@ -7026,14 +5536,7 @@
       "enclosure_length": "173019389",
       "itunes_duration": "02:23:03",
       "speakers": [
-        "House Brightline",
-        "Gucci Garantine",
-        "Exeter Leap",
-        "Navigation Tool",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -7054,14 +5557,6 @@
       "enclosure_length": "144979469",
       "itunes_duration": "01:59:41",
       "speakers": [
-        "Clementine Kesh",
-        "Jack de Quidt",
-        "Exeter Leap",
-        "Art Tebbel",
-        "Silversky Salvage",
-        "Sombre Sky",
-        "Crysanth Kesh",
-        "Gucci Garantine",
         "Austin Walker"
       ],
       "topics": [
@@ -7083,14 +5578,7 @@
       "enclosure_length": "115314419",
       "itunes_duration": "01:34:58",
       "speakers": [
-        "Tes'ili Serikos",
-        "House Whitestar",
-        "Azyet Eyesgrene",
-        "Notes Sbbr",
-        "Point Albacore",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -7110,14 +5598,8 @@
       "enclosure_length": "202130747",
       "itunes_duration": "02:19:26",
       "speakers": [
-        "Alicia Acampora",
-        "Andrew Lee Swan",
-        "Janine Hawkins",
-        "AdArm Troop",
-        "notes Sbbr",
-        "Point Albacore",
-        "Austin Walker",
-        "Ali Acampora"
+        "Bright Returns",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -7138,14 +5620,9 @@
       "enclosure_length": "293440074",
       "itunes_duration": "03:20:31",
       "speakers": [
-        "Beam Saber",
-        "Austin Ramsay",
-        "Dramatis Personae",
-        "Craig Sheldon",
-        "Stel Apostolos",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare"
+        "Perfect Millennium",
+        "Divine Princ",
+        "Austin Walker"
       ],
       "topics": [
         "partizan",
@@ -7165,11 +5642,7 @@
       "enclosure_length": "100557783",
       "itunes_duration": "01:06:35",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7190,11 +5663,8 @@
       "enclosure_length": "182832401",
       "itunes_duration": "02:03:44",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Microscope Pt",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7214,12 +5684,8 @@
       "enclosure_length": "197330632",
       "itunes_duration": "02:13:48",
       "speakers": [
-        "Ben Robbins",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Microscope Pt",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7241,12 +5707,6 @@
       "speakers": [
         "Alex Roberts",
         "Evil Hat Productions",
-        "Andrew Lee Swan",
-        "Antigone Gennadiy",
-        "Janine Hawkins",
-        "Orbit Shard",
-        "Andi Clare",
-        "Modus Maria",
         "Austin Walker"
       ],
       "topics": [
@@ -7267,13 +5727,9 @@
       "enclosure_length": "226749107",
       "itunes_duration": "02:34:13",
       "speakers": [
-        "Orion Combine",
-        "Memphis Longhand",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Beam Saber Pt",
+        "Divine Princ",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7294,14 +5750,7 @@
       "enclosure_length": "134997014",
       "itunes_duration": "01:30:30",
       "speakers": [
-        "Beam Saber",
-        "Austin Ramsay",
-        "Lunar Leson",
-        "Memphis Longhand",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7322,14 +5771,8 @@
       "enclosure_length": "159125296",
       "itunes_duration": "02:40:53",
       "speakers": [
-        "Beam Saber",
-        "Takuma Okada",
-        "Dante Douglas",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan"
+        "Midnight Welcome",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7352,12 +5795,7 @@
       "speakers": [
         "Armour Astir Pt",
         "Carrier Hellebore",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7380,12 +5818,6 @@
       "speakers": [
         "Armour Astir Pt",
         "Armour Astir",
-        "PbtA mech",
-        "Mobile Suit Gundam",
-        "Art Maritnez-Tebbel",
-        "Andi Clare",
-        "Teasel Mode",
-        "Janine Hawkins",
         "Austin Walker"
       ],
       "topics": [
@@ -7407,13 +5839,7 @@
       "enclosure_length": "79261363",
       "itunes_duration": "01:17:42",
       "speakers": [
-        "Miraculous Millennium",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7433,14 +5859,9 @@
       "enclosure_length": "167313117",
       "itunes_duration": "02:49:25",
       "speakers": [
-        "Beam Saber",
-        "Austin Ramsay",
-        "Kathryn Hymes",
-        "Hakan Seyalioglu",
-        "Hyphan Strand",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andrew Lee Swan"
+        "Dialect Pt",
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "road",
@@ -7460,9 +5881,6 @@
       "enclosure_length": "17421522",
       "itunes_duration": "16:46",
       "speakers": [
-        "Hieron Cover Art Prints",
-        "Craig Sheldon Fall",
-        "Simon Sweetman",
         "Austin Walker"
       ],
       "topics": [
@@ -7482,9 +5900,6 @@
       "enclosure_length": "233443684",
       "itunes_duration": "04:02:01",
       "speakers": [
-        "Beam Saber",
-        "Simon Sweetman",
-        "Craig Sheldon",
         "Austin Walker"
       ],
       "topics": [
@@ -7506,14 +5921,8 @@
       "enclosure_length": "160486004",
       "itunes_duration": "02:46:00",
       "speakers": [
-        "Semiotician Emeritus Uklan Tel",
-        "Devareaux van der",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Frost Shepherd",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7532,14 +5941,7 @@
       "enclosure_length": "112540088",
       "itunes_duration": "01:56:04",
       "speakers": [
-        "Marisol Sweetwater",
-        "Devareaux van der",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7558,14 +5960,7 @@
       "enclosure_length": "136875803",
       "itunes_duration": "02:21:25",
       "speakers": [
-        "Grey Duke",
-        "Devareaux van der",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7584,14 +5979,7 @@
       "enclosure_length": "187219447",
       "itunes_duration": "03:13:52",
       "speakers": [
-        "Devareaux van der",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7610,14 +5998,7 @@
       "enclosure_length": "103655613",
       "itunes_duration": "01:46:49",
       "speakers": [
-        "Corsica Neue",
-        "Devareaux van der",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7636,14 +6017,7 @@
       "enclosure_length": "114483786",
       "itunes_duration": "01:58:05",
       "speakers": [
-        "Red Jack",
-        "Devareaux van",
-        "Dawes Hosted",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Slyvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7663,7 +6037,6 @@
       "itunes_duration": "15:49",
       "speakers": [
         "Gen Con",
-        "Shut Down",
         "Austin Walker"
       ],
       "topics": [
@@ -7684,14 +6057,9 @@
       "enclosure_length": "81507371",
       "itunes_duration": "01:23:44",
       "speakers": [
-        "Repose Hosted",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Standing Across",
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7710,14 +6078,9 @@
       "enclosure_length": "131970216",
       "itunes_duration": "02:16:19",
       "speakers": [
-        "Fela Malle",
-        "Repose Hosted",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Janine Hawkins"
+        "First Light",
+        "Ordennan Impetus",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7738,14 +6101,8 @@
       "enclosure_length": "96103467",
       "itunes_duration": "01:38:57",
       "speakers": [
-        "Repose Hosted",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Ali Acampora",
-        "Cover Art",
-        "Craig Sheldon"
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7764,14 +6121,7 @@
       "enclosure_length": "132468048",
       "itunes_duration": "02:16:50",
       "speakers": [
-        "Whomever Slays",
-        "Repose Hosted",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7792,11 +6142,9 @@
       "enclosure_length": "99161340",
       "itunes_duration": "01:42:08",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Natural Life Victorious",
+        "Last Universit",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7818,14 +6166,8 @@
       "enclosure_length": "102984601",
       "itunes_duration": "01:46:07",
       "speakers": [
-        "Long Sands",
-        "Old Man",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Particular Malice Weeks",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7846,14 +6188,8 @@
       "enclosure_length": "97460810",
       "itunes_duration": "01:40:22",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7874,14 +6210,8 @@
       "enclosure_length": "141462571",
       "itunes_duration": "02:26:12",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7902,13 +6232,9 @@
       "enclosure_length": "82989851",
       "itunes_duration": "01:25:17",
       "speakers": [
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Safer Second Above",
+        "Alcyonic Sea",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7929,13 +6255,7 @@
       "enclosure_length": "80911104",
       "itunes_duration": "01:23:08",
       "speakers": [
-        "Lem King",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -7956,7 +6276,8 @@
       "enclosure_length": "6822119",
       "itunes_duration": "05:57",
       "speakers": [
-        "Gen Con",
+        "Merch Available",
+        "Sale Sunday",
         "Austin Walker"
       ],
       "topics": [
@@ -7980,13 +6301,7 @@
       "enclosure_length": "89248226",
       "itunes_duration": "01:31:49",
       "speakers": [
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8006,13 +6321,9 @@
       "enclosure_length": "110833792",
       "itunes_duration": "01:54:18",
       "speakers": [
-        "Lem King",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Time Many",
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8055,14 +6366,8 @@
       "enclosure_length": "112844160",
       "itunes_duration": "01:56:23",
       "speakers": [
-        "Adaire Ducarte",
-        "Red Jack",
-        "Lem King",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel"
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8081,13 +6386,9 @@
       "enclosure_length": "155697843",
       "itunes_duration": "01:47:21",
       "speakers": [
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Kin Far",
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8128,13 +6429,7 @@
       "enclosure_length": "131829427",
       "itunes_duration": "01:30:47",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Slyvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8154,13 +6449,8 @@
       "enclosure_length": "143240569",
       "itunes_duration": "01:38:42",
       "speakers": [
-        "Lem King",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "New Zealand",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8181,13 +6471,7 @@
       "enclosure_length": "149152372",
       "itunes_duration": "01:42:49",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Slyvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8207,12 +6491,7 @@
       "enclosure_length": "165841085",
       "itunes_duration": "01:54:24",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8233,14 +6512,9 @@
       "enclosure_length": "187443849",
       "itunes_duration": "02:09:24",
       "speakers": [
-        "Blake Bromley",
-        "Synchronous Transmission",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Simple Answer Across",
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8260,14 +6534,8 @@
       "enclosure_length": "190526110",
       "itunes_duration": "02:11:32",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Cover Art"
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8287,11 +6555,7 @@
       "enclosure_length": "176343334",
       "itunes_duration": "02:01:42",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8312,14 +6576,8 @@
       "enclosure_length": "188950843",
       "itunes_duration": "02:10:27",
       "speakers": [
-        "Hieron Himself",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Hieron Content Warnings",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8339,12 +6597,7 @@
       "enclosure_length": "141641876",
       "itunes_duration": "01:37:36",
       "speakers": [
-        "Lem King",
-        "Fero Feritas",
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8364,13 +6617,8 @@
       "enclosure_length": "155591660",
       "itunes_duration": "01:47:17",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Gods Content Warnings",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8392,10 +6640,7 @@
       "itunes_duration": "01:43:39",
       "speakers": [
         "Lem King",
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8416,13 +6661,8 @@
       "enclosure_length": "108501098",
       "itunes_duration": "01:14:35",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Cut Off",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8443,10 +6683,7 @@
       "itunes_duration": "01:20:10",
       "speakers": [
         "Lem King",
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8466,13 +6703,9 @@
       "enclosure_length": "133330088",
       "itunes_duration": "01:31:49",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Art Martinez-Tebbel",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Certain Way All",
+        "Last University",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8491,12 +6724,8 @@
       "enclosure_length": "129110686",
       "itunes_duration": "01:28:54",
       "speakers": [
-        "Lem King",
-        "Fero Feritas",
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Golden Lance",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8516,6 +6745,7 @@
       "enclosure_length": "100158106",
       "itunes_duration": "01:06:26",
       "speakers": [
+        "Last University",
         "Austin Walker"
       ],
       "topics": [
@@ -8537,14 +6767,8 @@
       "enclosure_length": "196624611",
       "itunes_duration": "02:09:57",
       "speakers": [
-        "Lem King",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Hella Varal",
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8563,14 +6787,7 @@
       "enclosure_length": "206532840",
       "itunes_duration": "02:16:38",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8590,14 +6807,7 @@
       "enclosure_length": "229645961",
       "itunes_duration": "02:38:43",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Andi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8618,14 +6828,7 @@
       "enclosure_length": "187814725",
       "itunes_duration": "02:09:40",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8644,14 +6847,7 @@
       "enclosure_length": "248923827",
       "itunes_duration": "02:49:38",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8670,14 +6866,6 @@
       "enclosure_length": "267270960",
       "itunes_duration": "03:04:49",
       "speakers": [
-        "Golden Lance Throndir",
-        "Red Jack",
-        "Corsica Neue",
-        "Devar van der Dawes",
-        "Uklan Tel",
-        "Emanuel LaSalle",
-        "Mee Kosh",
-        "Balion Wythe",
         "Austin Walker"
       ],
       "topics": [
@@ -8698,14 +6886,7 @@
       "enclosure_length": "310270873",
       "itunes_duration": "03:34:32",
       "speakers": [
-        "Lem King",
-        "Elfish Ranger",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Slyvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "spring",
@@ -8724,10 +6905,7 @@
       "enclosure_length": "185111440",
       "itunes_duration": "02:18:22",
       "speakers": [
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Austin Walker",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "table",
@@ -8747,6 +6925,7 @@
       "enclosure_length": "245259562",
       "itunes_duration": "02:57:20",
       "speakers": [
+        "Magic Pt",
         "Austin Walker"
       ],
       "topics": [
@@ -8787,14 +6966,8 @@
       "enclosure_length": "315343041",
       "itunes_duration": "03:27:58",
       "speakers": [
-        "Sit Down",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8816,13 +6989,7 @@
       "itunes_duration": "04:04:17",
       "speakers": [
         "Futura Free Pt",
-        "Off Cycle",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8844,13 +7011,7 @@
       "itunes_duration": "03:52:30",
       "speakers": [
         "Futura Free Pt",
-        "Qui Err",
-        "Grand Magnficent",
-        "Off Cycle",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8872,13 +7033,7 @@
       "itunes_duration": "02:28:04",
       "speakers": [
         "Futura Free Pt",
-        "Off Cycle",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8900,13 +7055,7 @@
       "itunes_duration": "02:57:48",
       "speakers": [
         "Futura Free Pt",
-        "Err Coalition",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8927,10 +7076,10 @@
       "enclosure_length": "34476869",
       "itunes_duration": "34:20",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Cover Art",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Guaranteed Events",
+        "Machine Crystal Palace",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8953,14 +7102,8 @@
       "enclosure_length": "306029632",
       "itunes_duration": "03:31:28",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -8981,12 +7124,9 @@
       "enclosure_length": "142945667",
       "itunes_duration": "02:00:50",
       "speakers": [
-        "Grand Magnificent",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "All Things Pt",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9007,12 +7147,7 @@
       "enclosure_length": "175002003",
       "itunes_duration": "01:39:55",
       "speakers": [
-        "Qui Err",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9033,13 +7168,9 @@
       "enclosure_length": "156359621",
       "itunes_duration": "01:30:05",
       "speakers": [
-        "Ballad Reverie",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Lineage Brighton Pt",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9061,12 +7192,7 @@
       "enclosure_length": "175102858",
       "itunes_duration": "01:54:33",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9089,13 +7215,7 @@
       "itunes_duration": "02:01:52",
       "speakers": [
         "Brighton Lineage",
-        "Echo Reverie",
-        "Kent Brighton",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9117,13 +7237,10 @@
       "enclosure_length": "168028105",
       "itunes_duration": "01:50:16",
       "speakers": [
-        "Phive Amala",
-        "Tender Sky",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Anticipation Pt",
+        "Divine Pler",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9144,11 +7261,7 @@
       "enclosure_length": "195256985",
       "itunes_duration": "01:36:23",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9169,14 +7282,9 @@
       "enclosure_length": "367773143",
       "itunes_duration": "02:58:28",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Second Miracle",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9197,12 +7305,9 @@
       "enclosure_length": "240311424",
       "itunes_duration": "02:23:03",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Each Other Despite",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9224,13 +7329,8 @@
       "enclosure_length": "195479496",
       "itunes_duration": "01:33:53",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Cover Art",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9251,12 +7351,7 @@
       "enclosure_length": "217756810",
       "itunes_duration": "01:47:24",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9275,14 +7370,9 @@
       "enclosure_length": "181688214",
       "itunes_duration": "01:57:42",
       "speakers": [
-        "Saint Wynter",
-        "Echo Reverie",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Cover Art"
+        "Twilight Mirage",
+        "Very Old Mistake Across",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9304,11 +7394,7 @@
       "speakers": [
         "Bona Fide",
         "Good Faith Determined",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9331,14 +7417,8 @@
       "enclosure_length": "218958691",
       "itunes_duration": "01:46:42",
       "speakers": [
-        "Saint Wynter",
-        "Echo Reverie",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9358,12 +7438,8 @@
       "enclosure_length": "109563863",
       "itunes_duration": "01:54:08",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9383,12 +7459,8 @@
       "enclosure_length": "195391209",
       "itunes_duration": "02:06:49",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9408,14 +7480,8 @@
       "enclosure_length": "300535525",
       "itunes_duration": "02:30:08",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "what went",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9435,14 +7501,7 @@
       "enclosure_length": "103465091",
       "itunes_duration": "01:43:33",
       "speakers": [
-        "Tannoy Kajj",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9463,14 +7522,9 @@
       "enclosure_length": "223877960",
       "itunes_duration": "01:50:36",
       "speakers": [
-        "Kitcha Kanna",
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Storm Deep",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9491,11 +7545,7 @@
       "enclosure_length": "227169220",
       "itunes_duration": "01:53:41",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9514,13 +7564,7 @@
       "enclosure_length": "207278936",
       "itunes_duration": "01:41:36",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9542,12 +7586,8 @@
       "enclosure_length": "173723285",
       "itunes_duration": "01:56:39",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9566,13 +7606,9 @@
       "enclosure_length": "136173824",
       "itunes_duration": "01:29:41",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Staying Neutral Having",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9592,12 +7628,11 @@
       "enclosure_length": "130444275",
       "itunes_duration": "01:26:59",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Big Garage Co",
+        "Working Tower",
+        "Gig Kep",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9618,13 +7653,9 @@
       "enclosure_length": "141112956",
       "itunes_duration": "01:34:49",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Route Deep",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9644,12 +7675,9 @@
       "enclosure_length": "141331931",
       "itunes_duration": "01:33:52",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Every Bad Idea Newly",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9669,14 +7697,8 @@
       "enclosure_length": "127826249",
       "itunes_duration": "02:07:19",
       "speakers": [
-        "Record MD-Gloaming",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9697,10 +7719,10 @@
       "enclosure_length": "66725633",
       "itunes_duration": "01:09:10",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Ace Pilot",
+        "New Earth Heg",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9721,10 +7743,10 @@
       "enclosure_length": "86070859",
       "itunes_duration": "01:19:42",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Red Equity",
+        "Golden Clause",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9745,11 +7767,8 @@
       "enclosure_length": "73466717",
       "itunes_duration": "01:12:57",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9771,11 +7790,7 @@
       "itunes_duration": "01:05:02",
       "speakers": [
         "Kent Brighton",
-        "Austin Walker",
-        "Keith Carberry",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9797,12 +7812,7 @@
       "itunes_duration": "01:10:16",
       "speakers": [
         "Annex Iota Pretense",
-        "Qui Err Vi Qi-Em",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9823,12 +7833,7 @@
       "enclosure_length": "56963497",
       "itunes_duration": "52:25",
       "speakers": [
-        "Amp Runner",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9849,12 +7854,9 @@
       "enclosure_length": "70660035",
       "itunes_duration": "01:16:25",
       "speakers": [
-        "Divine Free States",
-        "Austin Walker",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Grey Gloaming",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9875,14 +7877,8 @@
       "enclosure_length": "361439303",
       "itunes_duration": "04:01:34",
       "speakers": [
-        "Sui Juris",
-        "Pure Cascara",
-        "Echo Reverie",
-        "Callum Enli",
-        "Sierra Sienna",
-        "Austin Walker",
-        "Keith Carberry",
-        "Sylvi Clare"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9903,14 +7899,7 @@
       "enclosure_length": "308442153",
       "itunes_duration": "03:24:13",
       "speakers": [
-        "Sui Juris",
-        "Sho Salon",
-        "Tender Sky",
-        "Siela Shade",
-        "Demani Dusk",
-        "Grey Gloaming",
-        "Austin Walker",
-        "Ali Acampora"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9931,14 +7920,7 @@
       "enclosure_length": "277597093",
       "itunes_duration": "03:07:17",
       "speakers": [
-        "Sui Juris",
-        "Korrin Kim",
-        "Even Gardner",
-        "Grand Magnificent",
-        "Activation Stevenson",
-        "Count Aram Nideo",
-        "Austin Walker",
-        "Art Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -9980,14 +7962,8 @@
       "enclosure_length": "136234363",
       "itunes_duration": "02:16:31",
       "speakers": [
-        "Bc Blue Path",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10008,14 +7984,11 @@
       "enclosure_length": "174108509",
       "itunes_duration": "01:55:14",
       "speakers": [
-        "fuckin headass",
-        "Klipsch-Dove Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare"
+        "Twilight Mirage",
+        "Stellar Coriolis",
+        "Resonant Orbit",
+        "Though Kamala",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10036,14 +8009,10 @@
       "enclosure_length": "114644711",
       "itunes_duration": "02:05:56",
       "speakers": [
-        "Utopias Dystopias",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan"
+        "Twilight Mirage",
+        "Stellar Coriolis",
+        "Resonant Orbit",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10064,13 +8033,10 @@
       "enclosure_length": "148809676",
       "itunes_duration": "02:23:28",
       "speakers": [
-        "Craig Sheldon",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Ali Acampora"
+        "Bluff City",
+        "Bowling Alley",
+        "Bird Pt",
+        "Austin Walker"
       ],
       "topics": [
         "bluff",
@@ -10093,12 +8059,7 @@
       "enclosure_length": "125807351",
       "itunes_duration": "01:21:10",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10117,12 +8078,7 @@
       "enclosure_length": "127348928",
       "itunes_duration": "01:23:02",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10141,12 +8097,7 @@
       "enclosure_length": "187096280",
       "itunes_duration": "02:05:51",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10167,12 +8118,9 @@
       "enclosure_length": "127935276",
       "itunes_duration": "01:25:28",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Beloved Dust",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10193,12 +8141,10 @@
       "enclosure_length": "180243793",
       "itunes_duration": "02:01:07",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Like Falling Leaves Two",
+        "Gig Kep",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10218,13 +8164,10 @@
       "enclosure_length": "201657520",
       "itunes_duration": "02:13:52",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Sculpture City",
+        "Divine Fleet",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10245,14 +8188,9 @@
       "enclosure_length": "166965013",
       "itunes_duration": "01:52:19",
       "speakers": [
-        "Echo Reverie",
-        "Saint Glass",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Sculpture City",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10273,14 +8211,7 @@
       "enclosure_length": "124509360",
       "itunes_duration": "01:22:23",
       "speakers": [
-        "Echo Reverie",
-        "Berry Glistening",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10301,13 +8232,9 @@
       "enclosure_length": "123070676",
       "itunes_duration": "01:22:34",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Word After",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10329,13 +8256,7 @@
       "itunes_duration": "01:37:13",
       "speakers": [
         "Doyenne Undela Apogica",
-        "Grand Magnificent",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10356,12 +8277,7 @@
       "enclosure_length": "137299123",
       "itunes_duration": "01:30:12",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10380,14 +8296,8 @@
       "enclosure_length": "113121192",
       "itunes_duration": "01:14:20",
       "speakers": [
-        "Aura Antigua",
-        "Sho Salon",
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10407,13 +8317,10 @@
       "enclosure_length": "126731975",
       "itunes_duration": "01:23:38",
       "speakers": [
-        "Tender Sky",
-        "Sho Salon",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Strings Driven",
+        "Beloved Dust",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10434,13 +8341,9 @@
       "enclosure_length": "145951946",
       "itunes_duration": "01:36:21",
       "speakers": [
-        "Sho Salon",
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Beloved Dust",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10460,12 +8363,7 @@
       "enclosure_length": "126580473",
       "itunes_duration": "01:22:56",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10487,12 +8385,10 @@
       "enclosure_length": "150143679",
       "itunes_duration": "01:40:10",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Come Home Days",
+        "Divine Fleet",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10512,13 +8408,7 @@
       "enclosure_length": "125064206",
       "itunes_duration": "01:21:38",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10560,14 +8450,8 @@
       "enclosure_length": "113928411",
       "itunes_duration": "01:14:18",
       "speakers": [
-        "Arthur Martinez-Tebbel",
-        "Echo Reverie",
-        "Andi Clare",
-        "Andrew Lee Swan",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Art Martinez-Tebbel",
-        "Ali Acampora"
+        "Arthur Martin",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10588,14 +8472,7 @@
       "enclosure_length": "146711070",
       "itunes_duration": "01:36:00",
       "speakers": [
-        "Andrew Lee Swan",
-        "Andi Clare",
-        "Art Martinez-Tebbel",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10616,13 +8493,9 @@
       "enclosure_length": "159244113",
       "itunes_duration": "01:46:11",
       "speakers": [
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Tender Sky",
-        "Alicia Acampora",
-        "Austin Walker",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twilight Mirage",
+        "Beloved Dust",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10642,12 +8515,8 @@
       "enclosure_length": "110808985",
       "itunes_duration": "01:55:00",
       "speakers": [
-        "Tender Sky",
-        "Austin Walker",
-        "Ali Acampora",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Divine mandate",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10667,14 +8536,8 @@
       "enclosure_length": "289741951",
       "itunes_duration": "03:16:13",
       "speakers": [
-        "Kamala Cadence",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt"
+        "Twilight Mirage",
+        "Austin Walker"
       ],
       "topics": [
         "twilight",
@@ -10695,14 +8558,8 @@
       "enclosure_length": "199789636",
       "itunes_duration": "03:17:54",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Marielda Post Mortem Hey",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10724,6 +8581,8 @@
       "enclosure_length": "37777248",
       "itunes_duration": "25:57",
       "speakers": [
+        "Twilight Mirage",
+        "Patreon Announcement",
         "Austin Walker"
       ],
       "topics": [
@@ -10745,12 +8604,7 @@
       "enclosure_length": "155307489",
       "itunes_duration": "01:43:49",
       "speakers": [
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10771,14 +8625,7 @@
       "enclosure_length": "184305667",
       "itunes_duration": "02:01:35",
       "speakers": [
-        "Impetor Mall",
-        "Stornras Unblooded",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10798,13 +8645,8 @@
       "enclosure_length": "136520264",
       "itunes_duration": "01:31:47",
       "speakers": [
-        "Zhan Kurr",
-        "Austin Walker",
-        "Andrew Lee Swan",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Good Metaphor",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10825,12 +8667,7 @@
       "itunes_duration": "01:57:46",
       "speakers": [
         "der Dawes",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10851,11 +8688,8 @@
       "enclosure_length": "141401789",
       "itunes_duration": "01:31:52",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Twenty Two Brown Birds",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10876,14 +8710,8 @@
       "enclosure_length": "168107592",
       "itunes_duration": "01:55:25",
       "speakers": [
-        "Springe Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Surface Path",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10903,12 +8731,8 @@
       "enclosure_length": "152456835",
       "itunes_duration": "01:34:51",
       "speakers": [
-        "Lukewarm Sun",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Library Smile Collector",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10929,14 +8753,7 @@
       "enclosure_length": "157979704",
       "itunes_duration": "01:45:18",
       "speakers": [
-        "Vicereine Jerod",
-        "Shiraz Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10957,11 +8774,7 @@
       "enclosure_length": "103833862",
       "itunes_duration": "01:05:47",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -10981,14 +8794,7 @@
       "enclosure_length": "141296373",
       "itunes_duration": "01:38:26",
       "speakers": [
-        "Warm Sun",
-        "Springe Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11007,12 +8813,7 @@
       "enclosure_length": "147060226",
       "itunes_duration": "01:31:35",
       "speakers": [
-        "Kall Fer Hosted",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11032,14 +8833,7 @@
       "enclosure_length": "118081502",
       "itunes_duration": "01:21:20",
       "speakers": [
-        "Stornras Unblooded",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11058,11 +8852,8 @@
       "enclosure_length": "191706053",
       "itunes_duration": "02:13:00",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Undelivered Resignations Archivist",
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11083,14 +8874,7 @@
       "enclosure_length": "132240629",
       "itunes_duration": "01:33:33",
       "speakers": [
-        "Alyosha Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Martinez-Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11109,14 +8893,7 @@
       "enclosure_length": "113000736",
       "itunes_duration": "01:18:37",
       "speakers": [
-        "Loyal Always",
-        "Jerod Shiraz Vicereine",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11136,14 +8913,7 @@
       "enclosure_length": "141795863",
       "itunes_duration": "01:32:46",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11162,14 +8932,7 @@
       "enclosure_length": "255765798",
       "itunes_duration": "01:46:21",
       "speakers": [
-        "Tevilton Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11189,14 +8952,7 @@
       "enclosure_length": "94227520",
       "itunes_duration": "01:37:37",
       "speakers": [
-        "Iduna Fel Justiciar-Captain",
-        "QQ Hosted",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11216,14 +8972,7 @@
       "enclosure_length": "116183438",
       "itunes_duration": "02:00:29",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11264,13 +9013,7 @@
       "enclosure_length": "103067061",
       "itunes_duration": "01:47:22",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11292,13 +9035,7 @@
       "itunes_duration": "01:58:36",
       "speakers": [
         "Exarch Alyosha",
-        "Velas Articles",
-        "Retort Stand",
-        "Horn Comb",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11319,13 +9056,7 @@
       "enclosure_length": "111939858",
       "itunes_duration": "01:32:51",
       "speakers": [
-        "Yours Faithfully",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Nick Scratch",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11346,13 +9077,7 @@
       "enclosure_length": "100149812",
       "itunes_duration": "01:23:28",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11372,13 +9097,7 @@
       "enclosure_length": "191335426",
       "itunes_duration": "02:39:01",
       "speakers": [
-        "Red Jack",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11400,13 +9119,7 @@
       "enclosure_length": "160209442",
       "itunes_duration": "02:13:05",
       "speakers": [
-        "Red Jack",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11429,12 +9142,7 @@
       "enclosure_length": "126036952",
       "itunes_duration": "01:44:36",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Nick Scratch",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11455,13 +9163,7 @@
       "enclosure_length": "112556930",
       "itunes_duration": "01:33:48",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11481,12 +9183,7 @@
       "enclosure_length": "108058041",
       "itunes_duration": "01:29:37",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Nick Scratch",
-        "Ali Acampora",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11507,13 +9204,7 @@
       "enclosure_length": "66565014",
       "itunes_duration": "01:09:21",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11532,13 +9223,7 @@
       "enclosure_length": "86851794",
       "itunes_duration": "01:29:56",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Sylvi Clare",
-        "Nick Scratch",
-        "Ali Acampora",
-        "Austin Walker Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11560,13 +9245,7 @@
       "itunes_duration": "01:39:49",
       "speakers": [
         "Krent Kava",
-        "Austin Walker",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Janine Hawkins",
-        "Andrew Lee Swan",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "winter",
@@ -11587,13 +9266,7 @@
       "enclosure_length": "75237249",
       "itunes_duration": "01:18:23",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "hieron",
@@ -11613,13 +9286,7 @@
       "enclosure_length": "48703946",
       "itunes_duration": "50:44",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "hieron",
@@ -11639,13 +9306,6 @@
       "enclosure_length": "5251238",
       "itunes_duration": "05:29",
       "speakers": [
-        "Adam Koebel",
-        "Andi Clare",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Nick Scratch",
-        "Andrew Lee Swan",
-        "Art Tebbel",
         "Austin Walker"
       ],
       "topics": [
@@ -11664,12 +9324,6 @@
       "enclosure_length": "7488764",
       "itunes_duration": "07:16",
       "speakers": [
-        "Sylvia Clare",
-        "Jack de Quidt",
-        "Janine Hawkins",
-        "Nick Scratch",
-        "Andrew Lee Swan",
-        "Art Tebbel",
         "Austin Walker"
       ],
       "topics": [
@@ -11689,13 +9343,9 @@
       "enclosure_length": "117155319",
       "itunes_duration": "02:01:30",
       "speakers": [
-        "Uklan Tel",
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Traitor Prince Maelgwyn Pt",
+        "Second Printing No",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11719,12 +9369,8 @@
       "enclosure_length": "114976268",
       "itunes_duration": "01:59:14",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Traitor Prince Maelgwyn Pt",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11748,12 +9394,9 @@
       "enclosure_length": "91679306",
       "itunes_duration": "01:34:58",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Traitor Prince Maelgwyn Pt",
+        "High Sun Day",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11777,12 +9420,10 @@
       "enclosure_length": "92288336",
       "itunes_duration": "01:35:36",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Traitor Prince Maelgwyn Pt",
+        "Sun Day",
+        "Long Day",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11806,13 +9447,9 @@
       "enclosure_length": "104966375",
       "itunes_duration": "01:48:48",
       "speakers": [
-        "Pyre Adagio",
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Four Conversations According",
+        "Sonorous Academy",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11832,12 +9469,7 @@
       "itunes_duration": "01:41:48",
       "speakers": [
         "Memoriam College",
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11857,12 +9489,8 @@
       "enclosure_length": "113074867",
       "itunes_duration": "01:57:15",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Canopy Row",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11882,12 +9510,8 @@
       "enclosure_length": "93941030",
       "itunes_duration": "01:37:19",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Memoriam College",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11908,12 +9532,7 @@
       "itunes_duration": "01:44:57",
       "speakers": [
         "Memoriam College",
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11933,12 +9552,7 @@
       "enclosure_length": "86430951",
       "itunes_duration": "01:29:30",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11957,13 +9571,8 @@
       "enclosure_length": "120574914",
       "itunes_duration": "02:05:04",
       "speakers": [
-        "Chrysanthemum Parish",
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Train Day",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -11982,12 +9591,7 @@
       "enclosure_length": "151469162",
       "itunes_duration": "02:37:15",
       "speakers": [
-        "Austin Walker",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Jack de Quidt",
-        "Andrew Lee Swan",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -12006,13 +9610,8 @@
       "enclosure_length": "110714461",
       "itunes_duration": "01:55:20",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Light Pt",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -12032,13 +9631,8 @@
       "enclosure_length": "121160932",
       "itunes_duration": "02:06:13",
       "speakers": [
-        "Austin Walker",
-        "Janine Hawkins",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Ali Acampora",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Light Pt",
+        "Austin Walker"
       ],
       "topics": [
         "marielda",
@@ -12058,14 +9652,7 @@
       "enclosure_length": "160427009",
       "itunes_duration": "02:46:23",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12086,6 +9673,8 @@
       "enclosure_length": "7823359",
       "itunes_duration": "08:09",
       "speakers": [
+        "Quick Announcement",
+        "Some Thank Yous",
         "Austin Walker"
       ],
       "topics": [
@@ -12105,14 +9694,10 @@
       "enclosure_length": "148936434",
       "itunes_duration": "02:34:37",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Splintered Branch",
+        "Ringing Bell Pt",
+        "September Incident",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12135,14 +9720,10 @@
       "enclosure_length": "149367726",
       "itunes_duration": "02:35:04",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Splintered Branch",
+        "Ringing Bell Pt",
+        "Golden War",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12165,14 +9746,7 @@
       "enclosure_length": "198951979",
       "itunes_duration": "03:26:43",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12195,13 +9769,8 @@
       "enclosure_length": "89356328",
       "itunes_duration": "01:33:05",
       "speakers": [
-        "Irene Klipsch-Dove",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "great joy",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12222,14 +9791,7 @@
       "enclosure_length": "59552913",
       "itunes_duration": "01:02:03",
       "speakers": [
-        "Aria Joie",
-        "Cassander Timaeus Beranice",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12249,14 +9811,7 @@
       "enclosure_length": "64278359",
       "itunes_duration": "01:06:58",
       "speakers": [
-        "Aria Joie",
-        "Mako Trig",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12276,11 +9831,7 @@
       "enclosure_length": "22315970",
       "itunes_duration": "22:44",
       "speakers": [
-        "Automated Diaspora",
-        "Austin Walker",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12303,10 +9854,8 @@
       "enclosure_length": "107156251",
       "itunes_duration": "01:51:06",
       "speakers": [
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt",
+        "Temporary Throughout",
+        "Golden Branch Star Sector",
         "Austin Walker"
       ],
       "topics": [
@@ -12326,13 +9875,8 @@
       "enclosure_length": "56618299",
       "itunes_duration": "58:28",
       "speakers": [
-        "Mako Trig",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "well-learned cautio",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12353,12 +9897,8 @@
       "enclosure_length": "55236526",
       "itunes_duration": "57:01",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Reaching Out Maryland September",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12377,13 +9917,7 @@
       "enclosure_length": "82312299",
       "itunes_duration": "01:25:45",
       "speakers": [
-        "Mako Trig",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12406,12 +9940,7 @@
       "enclosure_length": "65461061",
       "itunes_duration": "01:07:40",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12431,12 +9960,7 @@
       "enclosure_length": "58193979",
       "itunes_duration": "01:00:38",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12455,12 +9979,7 @@
       "enclosure_length": "55307121",
       "itunes_duration": "57:37",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12481,12 +10000,8 @@
       "enclosure_length": "93970367",
       "itunes_duration": "01:37:54",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Three Conversations",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12506,13 +10021,10 @@
       "enclosure_length": "89278047",
       "itunes_duration": "01:32:29",
       "speakers": [
-        "Minerva Strategic",
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Special Kind",
+        "Warmth While Kingdom Come",
+        "Golden Branch",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12533,14 +10045,7 @@
       "enclosure_length": "183084280",
       "itunes_duration": "03:10:43",
       "speakers": [
-        "Aria Joie",
-        "Mako Trig",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12561,13 +10066,7 @@
       "enclosure_length": "76680649",
       "itunes_duration": "01:19:53",
       "speakers": [
-        "Kingdom Come",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12587,12 +10086,7 @@
       "enclosure_length": "85305237",
       "itunes_duration": "01:28:52",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12612,13 +10106,7 @@
       "enclosure_length": "70781682",
       "itunes_duration": "01:13:13",
       "speakers": [
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12638,12 +10126,7 @@
       "enclosure_length": "65140191",
       "itunes_duration": "01:07:52",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12665,12 +10148,8 @@
       "enclosure_length": "91696359",
       "itunes_duration": "01:35:00",
       "speakers": [
-        "Austin Walker",
-        "Sylvia Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Golden Branch Star",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12691,13 +10170,6 @@
       "enclosure_length": "172329881",
       "itunes_duration": "02:59:00",
       "speakers": [
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
         "Austin Walker"
       ],
       "topics": [
@@ -12719,14 +10191,7 @@
       "enclosure_length": "148587291",
       "itunes_duration": "02:34:16",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12749,14 +10214,7 @@
       "enclosure_length": "128220328",
       "itunes_duration": "02:13:03",
       "speakers": [
-        "Jace Rethal",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Art Tebbel",
-        "Ali Acampora Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12776,13 +10234,7 @@
       "enclosure_length": "84834615",
       "itunes_duration": "01:28:23",
       "speakers": [
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12803,12 +10255,8 @@
       "enclosure_length": "77873931",
       "itunes_duration": "01:21:08",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Deceive Sister Rust",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12828,12 +10276,7 @@
       "enclosure_length": "96529113",
       "itunes_duration": "01:40:34",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12855,12 +10298,9 @@
       "enclosure_length": "107831109",
       "itunes_duration": "01:50:56",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Sun Tensions",
+        "Golden Branch",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12880,13 +10320,7 @@
       "enclosure_length": "78074125",
       "itunes_duration": "01:21:20",
       "speakers": [
-        "Jaqi Green",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12906,13 +10340,7 @@
       "enclosure_length": "64023591",
       "itunes_duration": "01:06:42",
       "speakers": [
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12933,14 +10361,7 @@
       "enclosure_length": "54653055",
       "itunes_duration": "56:25",
       "speakers": [
-        "Will Cassander",
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12962,12 +10383,7 @@
       "itunes_duration": "01:36:50",
       "speakers": [
         "Big Cass",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -12989,13 +10405,7 @@
       "itunes_duration": "02:54:10",
       "speakers": [
         "Jeremy Keller",
-        "Hamish Cameron",
-        "Aria Joie",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13015,12 +10425,8 @@
       "enclosure_length": "139303164",
       "itunes_duration": "02:24:35",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Golden Branch",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13041,12 +10447,7 @@
       "itunes_duration": "01:48:19",
       "speakers": [
         "Orth Godlove",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13067,12 +10468,7 @@
       "itunes_duration": "01:26:50",
       "speakers": [
         "Orth Godlove",
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13091,12 +10487,8 @@
       "enclosure_length": "82040248",
       "itunes_duration": "01:24:56",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Art Tebbel",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon"
+        "Orth Godlove",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13116,12 +10508,7 @@
       "enclosure_length": "122272163",
       "itunes_duration": "02:06:51",
       "speakers": [
-        "Austin Walker",
-        "Sylvi Clare",
-        "Andrew Lee Swan",
-        "Ali Acampora Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13143,13 +10530,7 @@
       "itunes_duration": "02:18:57",
       "speakers": [
         "Cene Sixheart",
-        "Jack de Quidt",
-        "Aria Joie",
-        "Ali Acampora",
-        "Mako Trig",
-        "Keith Carberry",
-        "Austin Walker",
-        "Art Tebbel"
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13169,13 +10550,6 @@
       "enclosure_length": "162709695",
       "itunes_duration": "01:52:39",
       "speakers": [
-        "Cene Sixheart",
-        "Orth Godlove",
-        "Mako Trig",
-        "Keith Carberry",
-        "Aria Joie",
-        "Ali Acampora",
-        "Jack de Quidt",
         "Austin Walker"
       ],
       "topics": [
@@ -13199,11 +10573,6 @@
         "Soldier Game",
         "Cene Sixheart",
         "Cassander Timaeus Berenice",
-        "Mako Trig",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Aria Joie",
-        "Ali Acampora",
         "Austin Walker"
       ],
       "topics": [
@@ -13225,14 +10594,8 @@
       "enclosure_length": "113964390",
       "itunes_duration": "01:58:12",
       "speakers": [
-        "Cene Sixheart",
-        "Mako Trig",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Aria Joie",
-        "Ali Acampora",
-        "Austin Walker",
-        "Art Tebbel"
+        "Would Like",
+        "Austin Walker"
       ],
       "topics": [
         "counter",
@@ -13253,12 +10616,6 @@
       "itunes_duration": "02:47:52",
       "speakers": [
         "Hashtag Otechku Whether",
-        "Jeremy Keller",
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Art Tebbel",
-        "Craig Sheldon",
         "Austin Walker"
       ],
       "topics": [
@@ -13281,13 +10638,7 @@
       "enclosure_length": "124721027",
       "itunes_duration": "01:39:43",
       "speakers": [
-        "Austin Walker",
-        "Jack de Quidt",
-        "Ali Acampora",
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13309,11 +10660,7 @@
       "itunes_duration": "02:13:24",
       "speakers": [
         "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13333,10 +10680,7 @@
       "enclosure_length": "81376969",
       "itunes_duration": "01:24:46",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13357,12 +10701,8 @@
       "enclosure_length": "80848251",
       "itunes_duration": "01:24:13",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Great Fantasmo",
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13381,10 +10721,7 @@
       "enclosure_length": "42691085",
       "itunes_duration": "44:29",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13403,13 +10740,7 @@
       "enclosure_length": "69727611",
       "itunes_duration": "01:12:38",
       "speakers": [
-        "Sting Featuring",
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13430,10 +10761,7 @@
       "enclosure_length": "71000296",
       "itunes_duration": "01:13:58",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13455,12 +10783,7 @@
       "enclosure_length": "117047487",
       "itunes_duration": "01:21:17",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13480,11 +10803,7 @@
       "enclosure_length": "114727186",
       "itunes_duration": "01:59:31",
       "speakers": [
-        "Lem King",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13505,12 +10824,7 @@
       "enclosure_length": "116064447",
       "itunes_duration": "01:20:36",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13531,10 +10845,7 @@
       "speakers": [
         "Mulligan Mulligan",
         "Lem King",
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13555,12 +10866,7 @@
       "enclosure_length": "42722432",
       "itunes_duration": "44:31",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13580,10 +10886,7 @@
       "enclosure_length": "80481066",
       "itunes_duration": "01:23:50",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13605,12 +10908,7 @@
       "enclosure_length": "91671931",
       "itunes_duration": "01:35:30",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13630,10 +10928,7 @@
       "enclosure_length": "121563327",
       "itunes_duration": "01:24:26",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13655,12 +10950,7 @@
       "enclosure_length": "118473375",
       "itunes_duration": "01:22:05",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13682,14 +10972,6 @@
       "enclosure_length": "190161714",
       "itunes_duration": "03:18:06",
       "speakers": [
-        "Raymond Edwards",
-        "Suzanne Goldberg",
-        "Gary Grady",
-        "Ali Acampora",
-        "Andrew Swan",
-        "Thorondir Arthur Tebbel",
-        "Jack de Quidt",
-        "Lem King Austin Walker",
         "Austin Walker"
       ],
       "topics": [
@@ -13712,14 +10994,6 @@
       "enclosure_length": "282685338",
       "itunes_duration": "02:27:14",
       "speakers": [
-        "Raymond Edwards",
-        "Suzanne Goldberg",
-        "Gary Grady",
-        "Ali Acampora",
-        "Andrew Swan",
-        "Thorondir Arthur Tebbel",
-        "Jack de Quidt",
-        "Lem King Austin Walker",
         "Austin Walker"
       ],
       "topics": [
@@ -13741,12 +11015,7 @@
       "enclosure_length": "60077351",
       "itunes_duration": "01:02:35",
       "speakers": [
-        "Ali Acampora",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Map Art",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13766,14 +11035,7 @@
       "enclosure_length": "100564221",
       "itunes_duration": "01:44:46",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Nick Scratch Cover Art",
-        "Craig Sheldon",
-        "Jack de Quidt",
-        "Map Art"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13794,13 +11056,7 @@
       "enclosure_length": "94602085",
       "itunes_duration": "01:38:06",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Craig Sheldon",
-        "Map Art",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13822,14 +11078,7 @@
       "enclosure_length": "80339594",
       "itunes_duration": "55:48",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Keith Carberry",
-        "Craig Sheldon",
-        "Jack de Quidt",
-        "Map Art"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13850,14 +11099,7 @@
       "enclosure_length": "125146909",
       "itunes_duration": "01:26:55",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Keith Carberry Cover Art",
-        "Craig Sheldon",
-        "Map Art",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13877,14 +11119,7 @@
       "enclosure_length": "141241054",
       "itunes_duration": "01:38:06",
       "speakers": [
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Keith Carberry",
-        "Craig Sheldon",
-        "Jack de Quidt",
-        "Map Art"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13904,14 +11139,7 @@
       "enclosure_length": "95137230",
       "itunes_duration": "01:06:05",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Keith Carberry Cover Art",
-        "Craig Sheldon",
-        "Map Art",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13932,14 +11160,8 @@
       "enclosure_length": "146214559",
       "itunes_duration": "01:41:33",
       "speakers": [
-        "Andrew Lee Swan",
-        "Nick Scratch",
-        "Andrew Swan",
-        "Art Tebbel",
-        "Austin Walker",
-        "Keith Carberry",
-        "Craig Sheldon",
-        "Jack de Quidt"
+        "Andrew Lee",
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13959,14 +11181,7 @@
       "enclosure_length": "89590392",
       "itunes_duration": "01:33:20",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Austin Walker",
-        "Cover Art",
-        "Craig Sheldon",
-        "Map Art",
-        "Janine Hawkins"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -13986,14 +11201,7 @@
       "enclosure_length": "139120843",
       "itunes_duration": "02:24:56",
       "speakers": [
-        "Good King Samot",
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Austin Walker",
-        "Cover Art"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -14013,14 +11221,7 @@
       "enclosure_length": "83266318",
       "itunes_duration": "01:26:44",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Austin Walker",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -14040,14 +11241,7 @@
       "enclosure_length": "105217094",
       "itunes_duration": "01:49:36",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Austin Walker",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -14066,14 +11260,7 @@
       "enclosure_length": "82293685",
       "itunes_duration": "01:25:26",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Austin Walker",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -14093,14 +11280,7 @@
       "enclosure_length": "169320198",
       "itunes_duration": "02:56:06",
       "speakers": [
-        "Ali Acampora",
-        "Keith Carberry",
-        "Jack de Quidt",
-        "Nick Scratch",
-        "Art Tebbel",
-        "Austin Walker",
-        "Cover Art",
-        "Craig Sheldon"
+        "Austin Walker"
       ],
       "topics": [
         "autumn",
@@ -14120,14 +11300,7 @@
       "enclosure_length": "13546246",
       "itunes_duration": "12:10",
       "speakers": [
-        "Austin Walker",
-        "John Harper",
-        "Austin Ramsay",
-        "Beam Saber",
-        "Mobile Suit Gundam",
-        "Jeremy Keller",
-        "Haimsh Cameron",
-        "Jack de Quidt"
+        "Austin Walker"
       ],
       "topics": [
         "introduction",
@@ -14142,540 +11315,541 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Off Week + Fundraiser Update! — speakers: Pokemon Conquest, Austin Walker
-- 2026-02-14 — Perpetua 33: The Castle Eschatonica 01 — speakers: Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art, Ben McEntee
-- 2026-02-13 — Fundraising for Immigrant Justice — speakers: Conner Fawcett, Flegg Hell, Austin Walker
-- 2026-02-10 — Perpetua 32: A Picture of the Hills 05 — speakers: Perpetua Guide, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art
-- 2026-02-04 — Perpetua 31: A Picture of the Hills 04 — speakers: Perpetuan Cycle, Spillaway Peaks, Brown Flegg, Flegg Strike, Flegg Gale Special, Flegg Gale, Holy Slash Special, Threaten In-Game, Austin Walker
-- 2026-01-24 — Perpetua 30: A Picture of the Hills 03 — speakers: Rice Paddies, Paper Delivery, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2026-01-16 — Perpetua 29: A Picture of the HIlls 02 — speakers: Armory Armor, Meditation Robe, Mind Points, Choir Robe, Core Rulebook, Dex Mig, Bolt Damage, Lightcatcher Cage, Austin Walker
-- 2026-01-09 — Perpetua 28: A Picture of the Hills 01 — speakers: Iron Chains, Crashing Waves, Roar Across Cenn, CarlsSr Yeah, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2025-12-20 — Perpetua 27: In Too Deep 03 — speakers: Venomous Hexcloak, Cruel Stats, Poison Cloud Special, Stoneshield In-Game Description, Voltaic Hexcloak, Austin Walker
-- 2025-12-17 — Perpetua 26: In Too Deep 02 — speakers: Kley Kaina, Thereus Aegir, Antistrophe Landrace, Cenn Tunnels Map, Map Map, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2025-12-05 — Perpetua 25: In Too Deep 01 — speakers: Antistrophe Landrace, Bronte Adelvys, Kley Kaina, Johnny Cakes, Jimmy Cones, Pineapple Basil, Matcha Sesame Brittle, Mango Habanero, Austin Walker
-- 2025-11-27 — Perpetua 24: Aquatic Ambush! 02 — speakers: Kel Stony, Clay Cutlass, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2025-11-21 — Perpetua 23: Aquatic Ambush! 01 — speakers: Grand Sonnerie, Spillaway Peaks, Fabula Ultima, Living Seaweed, Dark Sting Special, Austin Walker
-- 2025-11-03 — Perpetua 22: A Roar Across Cenn 04 — speakers: Roar Across Cenn, Dig In-Game Description, Austin Walker
-- 2025-10-26 — Perpetua 21: A Roar Across Cenn 03 — speakers: Roar Across Cenn, Reverse Dracula, XD Alukard, Creative Writing, Austin Walker, FeaturingAli Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2025-10-17 — Perpetua 20: A Roar Across Cenn 02 — speakers: Roar Across Cenn, Antistrophe Landrace, Jimmy Cone Johnny Cakes, Ace Killer, Classic Comeback Shot, Dexterous Swing, Dexterous Hit, Jimjam Slam, Austin Walker
-- 2025-10-10 — Perpetua 19: A Roar Across Cenn 01 — speakers: Roar Across Cenn, Antistrophe Landrace, Perpetuan Cycle, Calstega Cook Off, Cook Off, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2025-10-04 — Perpetua 18: Sizzling Rivalry, Crashing Waves! 04 — speakers: Genuine Sincere, Suppressive Fire, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2025-09-27 — Perpetua 17: Sizzling Rivalry, Crashing Waves! 03 — speakers: Genuine Sincere, Perpetua Guide, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2025-09-19 — Perpetua 16: Sizzling Rivalry, Crashing Waves! 02 — speakers: Perpetua Sizzling Rivalry, Flash Orb, Gangster Killer, Knife Toss, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2025-09-05 — Perpetua 15: Sizzling Rivalry, Crashing Waves! 01 — speakers: Calstega Bay, Dark Blade Gourmet, CarlsSr Wait, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-08-15 — Perpetua 14: On Track to Iron Chains Pt. 03 — speakers: Antistrophe Landrace, Perpetua Guide, Spell Sever, Armor Archeologist, Fabula Point, Securibot Armor martial, Asta Recovered, Cenn Npc, Austin Walker
-- 2025-08-09 — Perpetua 13: On Track to Iron Chains 02 — speakers: Caoimhe Wake, Antistrophe Landrace, Wizard Flegg, Attendant Sono, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora Music
-- 2025-07-31 — Perpetua 12: On Track to Iron Chains Pt. 01 — speakers: Antristrophe Landrace, I'LL Quote, XxZelgadyskXx Wolf, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora Music, Jack de Quidt
-- 2025-07-25 — Perpetua 11: Journey to the Bay Pt. 03 — speakers: Perpetua Guide, Manakin Gang, Cheetah Spots, Accuracy Checks, Cheetah Jacket, Automaton Suit, Loader Bots, Atelier Road, Austin Walker
-- 2025-07-20 — Perpetua 10: Journey to the Bay Pt. 02 — speakers: Fallen Capital, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art
-- 2025-07-13 — Perpetua 09: Journey to the Bay Pt, 01 — speakers: Calstega Bay, Scale Shower, Vampire Orchid, Vine Drain, Pollen Dusting Special, Austin Walker, Ali Acampora, Art Martinez-Tebbel
-- 2025-07-04 — Perpetua 08: The Flames of Burzin Pt. 4 — speakers: Lady Teribald, Deadeye In-Game Description, Send Antistrophe, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora Music, Jack de Quidt
-- 2025-06-28 — Perpetua 07: The Flames of Burzin Pt 03 — speakers: Perpetua Guide, House M'Shalia, Fire Damage, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora Music, Jack de Quidt
-- 2025-06-20 — Perpetua 06: The Flames of Burzin Pt 02 — speakers: Antistrophe Landrace, Will Caoimhe, Flame Dart, Flame Claw, Aisling Revanj, Mean Spirited, Fiery Hexcloak, Austin Walker
-- 2025-06-13 — Perpetua 05: The Flames of Burzin Pt 01 — speakers: Antistrophe Landrace, Tinkerer Stats, Brontë Adelvys, Sonnerie Classes, Weaponmaster Stats, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2025-05-30 — Perpetua 04: The Shadow of the Dragon Tower Pt. 4 — speakers: Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Cover Art, Ben McEntee
-- 2025-05-23 — Perpetua 03: The Shadow of the Dragon Tower Pt. 3 — speakers: Downward Stairwell, Squire Training Hall, Scryer Library, Austin Walker, FeaturingAli Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-05-09 — Perpetua 02: The Shadow of the Dragon Tower Pt. 2 — speakers: Flegg Strike, Vinnor Jekk, Flame Breath, Austin Walker, FeaturingAli Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-05-02 — Perpetua 01: The Shadow of the Dragon Tower Pt. 1 — speakers: Canary Shye, Quarter Tomm, Vinnor Jekk, heterodox cleric, Loremaster Stats, Dark Blade, Austin Walker, Janine Hawkins
-- 2025-04-29 — Perpetua 00 - Character Select — speakers: Perpetua Character Select, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-04-26 — Perpetua Prelude 06 — speakers: Perpetua Prelude, Hexcloak Interrogation, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2025-04-12 — Perpetua Prelude 05 — speakers: Perpetua Prelude, Valte Soldier Envs, Mysterious Seaslimes, Lobble Traveler, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora
-- 2025-04-03 — Perpetua Prelude 04 — speakers: Perpetua Prelude, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-03-26 — Perpetua Prelude 03 — speakers: Perpetua Prelude, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2025-03-20 — Perpetua Prelude 02 — speakers: Perpetua Prelude, Tomor Presh, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2025-03-13 — Perpetua Prelude 01 — speakers: Perpetua Prelude, Fabula Ultima, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
+- 2026-02-25 — Perpetua 34: The Castle Eschatonica 02 — speakers: Austin Walker
+- 2026-02-20 — Off Week + Fundraiser Update! — speakers: Off Week, Fundraiser Update, Austin Walker
+- 2026-02-14 — Perpetua 33: The Castle Eschatonica 01 — speakers: Austin Walker
+- 2026-02-13 — Fundraising for Immigrant Justice — speakers: Austin Walker
+- 2026-02-10 — Perpetua 32: A Picture of the Hills 05 — speakers: Austin Walker
+- 2026-02-04 — Perpetua 31: A Picture of the Hills 04 — speakers: Austin Walker
+- 2026-01-24 — Perpetua 30: A Picture of the Hills 03 — speakers: Austin Walker
+- 2026-01-16 — Perpetua 29: A Picture of the HIlls 02 — speakers: Little Snail, Spillaway Peaks, Austin Walker
+- 2026-01-09 — Perpetua 28: A Picture of the Hills 01 — speakers: Austin Walker
+- 2025-12-20 — Perpetua 27: In Too Deep 03 — speakers: Austin Walker
+- 2025-12-17 — Perpetua 26: In Too Deep 02 — speakers: Living Metal, Austin Walker
+- 2025-12-05 — Perpetua 25: In Too Deep 01 — speakers: dire motives, Austin Walker
+- 2025-11-27 — Perpetua 24: Aquatic Ambush! 02 — speakers: Aquatic Ambush, Captain Hornbeam Hypostyle, Crystal Conch Express, Austin Walker
+- 2025-11-21 — Perpetua 23: Aquatic Ambush! 01 — speakers: Aquatic Ambush, Calstega Bay, Valte Empire, Austin Walker
+- 2025-11-03 — Perpetua 22: A Roar Across Cenn 04 — speakers: Roar Across Cenn, Austin Walker
+- 2025-10-26 — Perpetua 21: A Roar Across Cenn 03 — speakers: Roar Across Cenn, Austin Walker
+- 2025-10-17 — Perpetua 20: A Roar Across Cenn 02 — speakers: Roar Across Cenn, Austin Walker
+- 2025-10-10 — Perpetua 19: A Roar Across Cenn 01 — speakers: Roar Across Cenn, Antistrophe Landrace, Austin Walker
+- 2025-10-04 — Perpetua 18: Sizzling Rivalry, Crashing Waves! 04 — speakers: Sizzling Rivalry, Crashing Waves, Buzzard Black, Austin Walker
+- 2025-09-27 — Perpetua 17: Sizzling Rivalry, Crashing Waves! 03 — speakers: Austin Walker
+- 2025-09-19 — Perpetua 16: Sizzling Rivalry, Crashing Waves! 02 — speakers: Perpetua Sizzling Rivalry, Austin Walker
+- 2025-09-05 — Perpetua 15: Sizzling Rivalry, Crashing Waves! 01 — speakers: Austin Walker
+- 2025-08-15 — Perpetua 14: On Track to Iron Chains Pt. 03 — speakers: Antistrophe Landrace, Austin Walker
+- 2025-08-09 — Perpetua 13: On Track to Iron Chains 02 — speakers: Caoimhe Wake, Antistrophe Landrace, Austin Walker
+- 2025-07-31 — Perpetua 12: On Track to Iron Chains Pt. 01 — speakers: Austin Walker
+- 2025-07-25 — Perpetua 11: Journey to the Bay Pt. 03 — speakers: Austin Walker
+- 2025-07-20 — Perpetua 10: Journey to the Bay Pt. 02 — speakers: Austin Walker
+- 2025-07-13 — Perpetua 09: Journey to the Bay Pt, 01 — speakers: Austin Walker
+- 2025-07-04 — Perpetua 08: The Flames of Burzin Pt. 4 — speakers: Lady Teribald, Austin Walker
+- 2025-06-28 — Perpetua 07: The Flames of Burzin Pt 03 — speakers: Austin Walker
+- 2025-06-20 — Perpetua 06: The Flames of Burzin Pt 02 — speakers: Antistrophe Landrace, Austin Walker
+- 2025-06-13 — Perpetua 05: The Flames of Burzin Pt 01 — speakers: Austin Walker
+- 2025-05-30 — Perpetua 04: The Shadow of the Dragon Tower Pt. 4 — speakers: Dragon Tower Pt, Little Snail, Austin Walker
+- 2025-05-23 — Perpetua 03: The Shadow of the Dragon Tower Pt. 3 — speakers: Austin Walker
+- 2025-05-09 — Perpetua 02: The Shadow of the Dragon Tower Pt. 2 — speakers: Dragon Tower Pt, Little Snail, Austin Walker
+- 2025-05-02 — Perpetua 01: The Shadow of the Dragon Tower Pt. 1 — speakers: Dragon Tower Pt, Bastion Blaque, Canary Sh, Austin Walker
+- 2025-04-29 — Perpetua 00 - Character Select — speakers: Perpetua Character Select, Austin Walker
+- 2025-04-26 — Perpetua Prelude 06 — speakers: Perpetua Prelude, Austin Walker
+- 2025-04-12 — Perpetua Prelude 05 — speakers: Perpetua Prelude, Austin Walker
+- 2025-04-03 — Perpetua Prelude 04 — speakers: Perpetua Prelude, Austin Walker
+- 2025-03-26 — Perpetua Prelude 03 — speakers: Perpetua Prelude, Austin Walker
+- 2025-03-20 — Perpetua Prelude 02 — speakers: Perpetua Prelude, Austin Walker
+- 2025-03-13 — Perpetua Prelude 01 — speakers: Perpetua Prelude, Austin Walker
 - 2025-03-13 — A tiny announcement! — speakers: Austin Walker
-- 2025-03-07 — Realis: Nextlander Preview — speakers: Nextlander Preview, Realis Austin, Austin Walker, Brad Shoemaker, Jack de Quidt, Cover Art, Amelia Renee, Aster Maragos
-- 2025-02-28 — Realis 05: Feast at the Citadel Bein 04 — speakers: Austin Walker, Art Martinez-Tebbel, Ali Acampora, Ali Acampora Music, Jack de Quidt, Cover Art, Amelia Renee, Aster Maragos
-- 2025-02-21 — Realis 04: Feast at the Citadel Bein 03 — speakers: Austin Walker, Art Martinez-Tebbel, Ali Acampora, Ali Acampora Music, Jack de Quidt, Cover Art, Amelia Renee, Aster Maragos
-- 2025-02-14 — Realis 03: Feast at the Citadel Bein 02 — speakers: Austin Walker, Jack de Quidt, Ali Acampora Music, Cover Art, Amelia Renee, Bill Kaszubski, Cassie Jones, Daniel Laloggia
-- 2025-02-07 — Realis 02: Feast at the Citadel Bein 01 — speakers: Austin Walker, Jack de Quidt, Ali Acampora Music, Cover Art, Amelia Renee, Bill Kaszubski, Cassie Jones, Daniel Laloggia
-- 2025-01-30 — Realis 01: Those Nerveless Chancers — speakers: Realis Itself, Hypnotic Dokine, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Ali Acampora Music, Jack de Quidt, Cover Art
-- 2025-01-24 — An Introduction to Realis — speakers: Sam Beck, Jack de Quidt, Janine Hawkins, Fabula Ultima, Austin Walker, Ali Acampora Music, Cover Art, Amelia Renee
-- 2025-01-17 — Bonus: Live at the Table: Shooting the Moon Pt. 4 — speakers: Janine played Shooting, Austin Walker
+- 2025-03-07 — Realis: Nextlander Preview — speakers: Nextlander Preview, Austin Walker
+- 2025-02-28 — Realis 05: Feast at the Citadel Bein 04 — speakers: muddy histo, Austin Walker
+- 2025-02-21 — Realis 04: Feast at the Citadel Bein 03 — speakers: Citadel Bein, Austin Walker
+- 2025-02-14 — Realis 03: Feast at the Citadel Bein 02 — speakers: Citadel Bein, Krinsky Family Circus, Austin Walker
+- 2025-02-07 — Realis 02: Feast at the Citadel Bein 01 — speakers: Citadel Bein, Austin Walker
+- 2025-01-30 — Realis 01: Those Nerveless Chancers — speakers: Realis Itself, Austin Walker
+- 2025-01-24 — An Introduction to Realis — speakers: Realis Two, Austin Walker
+- 2025-01-17 — Bonus: Live at the Table: Shooting the Moon Pt. 4 — speakers: Janine played Shootin, Austin Walker
 - 2025-01-10 — Bonus: Live at the Table: Shooting the Moon Pt. 3 — speakers: Moon Pt, Austin Walker
 - 2025-01-03 — Bonus: Live at the Table: Shooting the Moon Pt. 2 — speakers: Austin Walker
 - 2024-12-25 — Bonus: Live at the Table: Shooting the Moon Pt. 1 — speakers: Austin Walker
-- 2024-09-20 — Palisade Post-Mortem — speakers: Fabula Ultima, Austin Walker
+- 2024-09-20 — Palisade Post-Mortem — speakers: Palisade Post, Mortem Hello, Austin Walker
 - 2024-09-12 — Palisade Post-mortem TONIGHT 6:30 PM ET ON TWITCH! — speakers: Palisade Post, Austin Walker
-- 2024-09-04 — Goodbye Palisade! Upcoming Twitch Stream + Giveaway September 12th!! — speakers: Twitch Stream, Armor Astir, Austin Walker
-- 2024-08-30 — PALISADE 62: Above the Earth Pt. 6 — speakers: Apostolisan Woman, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2024-08-24 — PALISADE 61: Above the Earth Pt. 5 — speakers: Dossier People Audacious Opportunity, Millennium Break, Zig'ell Barbos, Stels Columnar, Kalvin Brnine, Columnar Altars, Austin Walker, Janine Hawkins
-- 2024-08-16 — PALISADE 60: Above the Earth Pt. 4 — speakers: Exeter Leap, Millennium Break, Stels Columnar, Kalvin Brnine, Objects Columnar Altars, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2024-08-09 — PALISADE 59: Above the Earth Pt. 3 — speakers: Stolen Cameo, Exeter Leap, Stels Columnar, Kalvin Brnine, Objects Columnar Altars, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2024-08-02 — PALISADE 58: Above the Earth Pt. 2 — speakers: Millennium Break, Stels Columnar, Kalvin Brnine, Objects Columnar Altars, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora
-- 2024-07-26 — PALISADE 57: Above the Earth Pt. 1 — speakers: Levi Cascabel-Gardner, Exeter Leap, Mysteries Perennial, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel
-- 2024-07-19 — PALISADE 56: Some New Thing Found in the Light, Or: A Year in Nine Parts — speakers: Austin Walker, Coriolis Sunset, Sylvi Clare, Keith Carberry, Jorrie Bluebrick, Kalvin Brnine, Ali Acampora, Levitation Cascabel-Gardner
-- 2024-07-05 — PALISADE 55: A Palette of Colors Pt. 10 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-06-28 — PALISADE 54: A Palette of Colors Pt. 9 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-06-21 — PALISADE 53: A Palette of Colors Pt. 8 — speakers: Lander One, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2024-06-14 — PALISADE 52: A Palette of Colors Pt. 7 — speakers: Lucia Whitestar, Fire Support, Excerpt Signet, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel
-- 2024-06-07 — PALISADE 51: A Palette of Colors Pt. 6 — speakers: Excerpt Signet, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2024-05-31 — PALISADE 50: A Palette of Colors Pt. 5 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-05-25 — PALISADE 49: A Palette of Colors Pt. 4 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-05-17 — PALISADE 48: A Palette of Colors Pt. 3 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-05-10 — PALISADE 47: A Palette of Colors Pt. 2 — speakers: Kalvin Brnine, Tomorrow Mouring, Coriolis Sunset, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel
-- 2024-05-03 — PALISADE 46: A Palette of Colors Pt. 1 — speakers: Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music
-- 2024-04-12 — PALISADE 45: Where They Are Pt. 3 — speakers: Gucci Garantine, Millennium Break, Codename Watershed, Mustard Red, Brink Proxy, Clementine Kesh, Lucia Whitestar, Fire Support, Austin Walker
-- 2024-04-06 — PALISADE 44: Where They Are Pt. 2 — speakers: Gucci Garantine, Millennium Break, Codename Watershed, Mustard Red, Brink Proxy, Clementine Kesh, Lucia Whitestar, Fire Support, Austin Walker
-- 2024-03-29 — PALISADE 43: Where They Are Pt. 1 — speakers: Gucci Garantine, Millennium Break, Codename Watershed, Mustard Red, Brink Proxy, Lucia Whitestar, Fire Support, Zjenta Zjarule, Austin Walker
-- 2024-03-22 — PALISADE 42: A Mechanical Whine Pt. 4 — speakers: Crysanth Kesh, Autonomous Diaspora, Zjenta Zjarule, AdArm Jury, AdArm Cast, Austin Walker
-- 2024-03-15 — PALISADE 41: A Mechanical Whine Pt. 3 — speakers: Crysanth Kesh, Zjenta Zjarule, AdArm Jury, AdArm Cast, Austin Walker
-- 2024-03-08 — PALISADE 40: A Mechanical Whine Pt. 2 — speakers: Zjenta Zjarule, AdArm Jury, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2024-03-01 — PALISADE 39: A Mechanical Whine Pt. 1 — speakers: Millennium Break, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
+- 2024-09-04 — Goodbye Palisade! Upcoming Twitch Stream + Giveaway September 12th!! — speakers: Twitch Stream, Austin Walker
+- 2024-08-30 — PALISADE 62: Above the Earth Pt. 6 — speakers: Earth Pt, Austin Walker
+- 2024-08-24 — PALISADE 61: Above the Earth Pt. 5 — speakers: Earth Pt, Austin Walker
+- 2024-08-16 — PALISADE 60: Above the Earth Pt. 4 — speakers: Earth Pt, Though Motion, Austin Walker
+- 2024-08-09 — PALISADE 59: Above the Earth Pt. 3 — speakers: Earth Pt, Austin Walker
+- 2024-08-02 — PALISADE 58: Above the Earth Pt. 2 — speakers: Austin Walker
+- 2024-07-26 — PALISADE 57: Above the Earth Pt. 1 — speakers: Austin Walker
+- 2024-07-19 — PALISADE 56: Some New Thing Found in the Light, Or: A Year in Nine Parts — speakers: Some New Thing Found, Austin Walker
+- 2024-07-05 — PALISADE 55: A Palette of Colors Pt. 10 — speakers: Colors Pt, Twilight Mirage, Austin Walker
+- 2024-06-28 — PALISADE 54: A Palette of Colors Pt. 9 — speakers: Colors Pt, Austin Walker
+- 2024-06-21 — PALISADE 53: A Palette of Colors Pt. 8 — speakers: Lander One, Austin Walker
+- 2024-06-14 — PALISADE 52: A Palette of Colors Pt. 7 — speakers: Colors Pt, Austin Walker
+- 2024-06-07 — PALISADE 51: A Palette of Colors Pt. 6 — speakers: Colors Pt, Austin Walker
+- 2024-05-31 — PALISADE 50: A Palette of Colors Pt. 5 — speakers: Colors Pt, Austin Walker
+- 2024-05-25 — PALISADE 49: A Palette of Colors Pt. 4 — speakers: Colors Pt, Austin Walker
+- 2024-05-17 — PALISADE 48: A Palette of Colors Pt. 3 — speakers: Colors Pt, Austin Walker
+- 2024-05-10 — PALISADE 47: A Palette of Colors Pt. 2 — speakers: Colors Pt, Austin Walker
+- 2024-05-03 — PALISADE 46: A Palette of Colors Pt. 1 — speakers: Colors Pt, Perfect Millennium, Milky Way, Austin Walker
+- 2024-04-12 — PALISADE 45: Where They Are Pt. 3 — speakers: Austin Walker
+- 2024-04-06 — PALISADE 44: Where They Are Pt. 2 — speakers: Austin Walker
+- 2024-03-29 — PALISADE 43: Where They Are Pt. 1 — speakers: loud sob, Austin Walker
+- 2024-03-22 — PALISADE 42: A Mechanical Whine Pt. 4 — speakers: Mechanical Whine Pt, Austin Walker
+- 2024-03-15 — PALISADE 41: A Mechanical Whine Pt. 3 — speakers: Mechanical Whine Pt, Austin Walker
+- 2024-03-08 — PALISADE 40: A Mechanical Whine Pt. 2 — speakers: Mechanical Whine Pt, Lone Marble Group, Austin Walker
+- 2024-03-01 — PALISADE 39: A Mechanical Whine Pt. 1 — speakers: Millennium Break, Austin Walker
 - 2024-02-23 — No Palisade Announcement (sorry!!!) — speakers: No Palisade Announcement, Austin Walker
-- 2024-02-09 — COUNTER/Weight 0.5: Thrilled Enough — speakers: Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel
-- 2024-02-03 — COUNTER/Weight 0.4: New Perspectives — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2024-01-26 — COUNTER/Weight 0.3: Under the Bus — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2024-01-19 — COUNTER/Weight 0.2: Valuable Connections — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2024-01-13 — COUNTER/Weight 0.1: The First Bell — speakers: Orth Godlove, Cassander Timaeus Berenice, Mako Trig, Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel
+- 2024-02-09 — COUNTER/Weight 0.5: Thrilled Enough — speakers: Aria Joie, Austin Walker
+- 2024-02-03 — COUNTER/Weight 0.4: New Perspectives — speakers: Austin Walker
+- 2024-01-26 — COUNTER/Weight 0.3: Under the Bus — speakers: Austin Walker
+- 2024-01-19 — COUNTER/Weight 0.2: Valuable Connections — speakers: Valuable Connections Sometimes, Austin Walker
+- 2024-01-13 — COUNTER/Weight 0.1: The First Bell — speakers: Orth Godlove, Austin Walker
 - 2024-01-11 — COUNTER/Weight Prequel Debut 8 PM ET 1/12 on twitch.tv/friendsatthetable! — speakers: Weight Prequel Debut, Austin Walker
-- 2023-12-30 — PALISADE 38: Reach In / Reach Out Pt. 2 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Elle Evensong, Dim Liturgy, Renegade Hearts, Gucci Garantine, Codename Watershed, Austin Walker
-- 2023-12-22 — PALISADE 37: Reach In / Reach Out Pt. 1 — speakers: Lucia Whitestar, Fire Support, Renegade Hearts, Millennium Break, Joyous Guard, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2023-12-22 — PALISADE 36: Weapons Ready Pt. 2 — speakers: Lucia Whitestar, Fire Support, Clementine Kesh, Millennium Break, Riah Connadine, Rudy Smails, Divine Fealty, Joyous Guard, Austin Walker
-- 2023-12-08 — PALISADE 35: Weapons Ready Pt. 1 — speakers: Millennium Break, Cassander Timaeus Berenice, Lucia Whitestar, Divine Fealty, Joyous Guard, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2023-12-01 — PALISADE 34: Seize the Chance Pt. 5 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Elle Evensong, Dim Liturgy, Renegade Hearts, Stels Columnar, Kalvin Brnine, Austin Walker
-- 2023-11-25 — New Merch Alert! — speakers: Conner Fawcett, Conner Fawcett Reprint, Cover Deskmat, Millenium Break, Janine Hawkins Cali-yumm, Without Boarders, Austin Walker
-- 2023-11-18 — PALISADE 33: Seize the Chance Pt. 4 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Elle Evensong, Dim Liturgy, Stels Columnar, Kalvin Brnine, Joyous Guard, Austin Walker
-- 2023-11-10 — PALISADE 32: Seize the Chance Pt. 3 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Elle Evensong, Dim Liturgy, Stels Columnar, Steeple Catterick, Kalvin Brnine, Austin Walker
-- 2023-11-03 — PALISADE 31: Seize the Chance Pt. 2 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Gucci Garantine, Codename Watershed, Stels Columnar, Steeple Catterick, Kalvin Brnine, Austin Walker
-- 2023-10-27 — PALISADE 30: Seize the Chance Pt. 1 — speakers: Midnite Matinee, AutoHollow Popcorn, Millennium Break, Gucci Garantine, Codename Watershed, Stels Columnar, Steeple Catterick, Kalvin Brnine, Austin Walker
-- 2023-10-15 — PALISADE 29: Honesty and Integrity Pt. 2 — speakers: Exeter Leap, Stels Columnar, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2023-10-06 — PALISADE 28: Honesty and Integrity Pt. 1 — speakers: Routine Rennari, Exeter Leap, Jev'ari Estano, Stels Columnar, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora
-- 2023-09-29 — PALISADE 27: Resentment and Frustration Pt. 2 — speakers: Elle Evensong, Dim Liturgy, Stels Columnar, Margate Lock, Jade Kill, Millennium Break, Joyous Guard, Austin Walker
-- 2023-09-22 — PALISADE 26: Resentment and Frustration Pt 1 — speakers: Occam Olio, Lucia Whitestar, Stels Columnar, Excerpt Signet, Millennium Break, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2023-09-05 — PALISADE 25: An Impossible Ideal Pt. 4 — speakers: Routine Rennari, Mustard Red, Brink Proxy, Midnite Matinee, AutoHollow Popcorn, Millennium Break, Stels Columnar, Excerpt Signet, Austin Walker
+- 2023-12-30 — PALISADE 38: Reach In / Reach Out Pt. 2 — speakers: recent recruits, regular civil, Austin Walker
+- 2023-12-22 — PALISADE 37: Reach In / Reach Out Pt. 1 — speakers: Reach Out Pt, Across Palisade, Austin Walker
+- 2023-12-22 — PALISADE 36: Weapons Ready Pt. 2 — speakers: Weapons Ready Pt, Austin Walker
+- 2023-12-08 — PALISADE 35: Weapons Ready Pt. 1 — speakers: Weapons Ready Pt, Kent State, Austin Walker
+- 2023-12-01 — PALISADE 34: Seize the Chance Pt. 5 — speakers: Chance Pt, Austin Walker
+- 2023-11-25 — New Merch Alert! — speakers: New Merch Alert, Austin Walker
+- 2023-11-18 — PALISADE 33: Seize the Chance Pt. 4 — speakers: Chance Pt, Austin Walker
+- 2023-11-10 — PALISADE 32: Seize the Chance Pt. 3 — speakers: Chance Pt, Blue Channel, Austin Walker
+- 2023-11-03 — PALISADE 31: Seize the Chance Pt. 2 — speakers: Austin Walker
+- 2023-10-27 — PALISADE 30: Seize the Chance Pt. 1 — speakers: Austin Walker
+- 2023-10-15 — PALISADE 29: Honesty and Integrity Pt. 2 — speakers: Integrity Pt, Austin Walker
+- 2023-10-06 — PALISADE 28: Honesty and Integrity Pt. 1 — speakers: Integrity Pt, Austin Walker
+- 2023-09-29 — PALISADE 27: Resentment and Frustration Pt. 2 — speakers: Frustration Pt, Austin Walker
+- 2023-09-22 — PALISADE 26: Resentment and Frustration Pt 1 — speakers: Frustration Pt, Austin Walker
+- 2023-09-05 — PALISADE 25: An Impossible Ideal Pt. 4 — speakers: Austin Walker
 - 2023-09-04 — Hunter x Hunter Show Announcement - What Its Called and How to Get It — speakers: Austin Walker
-- 2023-09-01 — PALISADE 24: An Impossible Ideal Pt. 3 — speakers: Routine Rennari, Mustard Red, Brink Proxy, Midnite Matinee, AutoHollow Popcorn, Millennium Break, Objects Gambeson, Austin Walker
-- 2023-08-27 — PALISADE 23: An Impossible Ideal Pt. 2 — speakers: Routine Rennari, Mustard Red, Brink Proxy, Midnite Matinee, AutoHollow Popcorn, Millennium Break, Objects Gambeson, Austin Walker
-- 2023-08-18 — PALISADE 22: An Impossible Ideal Pt. 1 — speakers: Routine Rennari, Mustard Red, Brink Proxy, Midnite Matinee, AutoHollow Popcorn, Millennium Break, Objects Gambeson, Spread Yoca, Austin Walker
-- 2023-08-11 — PALISADE 21: In Their Fear Pt. 2 — speakers: Griesel Sunset, Formido Sunset, Phobos Sunset, Kalvin Brnine, Millennium Break, Saint Decario Dicario, Triton Tanager, Elle Evensong, Austin Walker
-- 2023-08-04 — PALISADE 20: In Their Fear Pt. 1 — speakers: Griesel Sunset, Millennium Break, Saint Decario Dicario, Triton Tanager, Elle Evensong, Dim Liturgy, Saffron Septet, Steeple Catterick, Austin Walker
-- 2023-07-21 — PALISADE 19: How It Always Looks Pt. 2 — speakers: Fundament Nodes, Grey Pond, Carmine Bight, Skelton Knaggs, Divine Fealty, Margate Lock, Millennium Break, Objects Lmg Altar Colloquially, Austin Walker
-- 2023-07-14 — PALISADE 18: How It Always Looks Pt. 1 — speakers: Grey Pond, Carmine Bight, Skelton Knaggs, Divine Fealty, Elle Evensong, Dim Liturgy, Routine Rennari, Saffron Septet, Austin Walker
-- 2023-06-30 — PALISADE 17: Upon Our Grace Pt. 4 — speakers: Kenneth Marian Colver, Saint Decario Dicario, Triton Tanager, Dim Liturgy, Dicario St Dicario, Tenn Alpenglow, Kensley Marlowe Colver, Elle Evensong, Austin Walker
-- 2023-06-23 — PALISADE 16: Upon Our Grace Pt. 3 — speakers: Tenn Alpenglow, Saint Decario Dicario, Triton Tanager, Dim Liturgy, Dicario St Dicario, Kenneth Marian Colver, Midnite Matinee, AutoHollow Popcorn, Austin Walker
-- 2023-06-16 — PALISADE 15: Upon Our Grace Pt. 2 — speakers: Gucci Garantine, Dim Liturgy, Tenn Alpenglow, Kenneth Marian Colver, Kenneth Marrian Colver, Kalvin Brnine, Austin Walker, Janine Hawkins
-- 2023-06-09 — PALISADE 14: Upon Our Grace Pt. 1 — speakers: Gucci Garantine, Dim Liturgy, Marlon Styx, Kalvin Brnine, Austin Walker, Janine Hawkins, Sylvi Bullet, Ali Acampora
-- 2023-06-02 — PALISADE 13: Worth the Trouble Pt. 2 — speakers: Carmine Bight, Grey Pond, Skelton Knaggs, Divine Fealty, Millennium Break, Griesel Sunset, Mustard Red, Brink Proxy, Austin Walker
-- 2023-05-26 — PALISADE 12: Worth the Trouble Pt. 1 — speakers: Jade Kill, Carmine Bight, lick first, Clementine Kesh, Millennium Break, Gucci Garantine, Codename Watershed, Midnite Matinee, Austin Walker
-- 2023-05-19 — PALISADE 11: The Wheels Turning Pt. 2 — speakers: Swordbearer Ramondre, Grey Pond, Carmine Bight, Skelton Knaggs, Marlon Styx, Dim Liturgy, Facer Canceller, Constantina Malady, Austin Walker
-- 2023-05-12 — PALISADE 10: The Wheels Turning Pt. 1 — speakers: Kalvin Brnine, Grey Pond, Carmine Bight, Skelton Knaggs, Divine Fealty, Margate Lock, Marlon Styx, Dim Liturgy, Austin Walker
-- 2023-05-04 — PALISADE 09: The Canvas of Dreams Pt. 4 — speakers: Gucci Garantine, Kenneth Marian Colver, Tenn Alpenglow, Constantina Malady, Millennium Break, Jade Kill, Codename Watershed, Dim Liturgy, Austin Walker
-- 2023-04-28 — PALISADE 08: The Canvas of Dreams Pt. 3 — speakers: Kenneth Marian Colver, Tenn Alpenglow, Constantina Malady, Gucci Garantine, Millennium Break, Codename Watershed, Dim Liturgy, AdArm Bouquet, Austin Walker
-- 2023-04-21 — PALISADE 07: The Canvas of Dreams Pt. 2 — speakers: Griesel Sunset, Triton Tanager, Dim Liturgy, AdArm Bouquet, AdArm Motion Engine, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2023-04-14 — PALISADE 06: The Canvas of Dreams Pt. 1 — speakers: Clementine Kesh, Millennium Break, Marlon Styx, Dim Liturgy, Constantina Malady, Austin Walker, Janine Hawkins, Sylvi Bullet
-- 2023-04-06 — PALISADE 05: I Would LIke to Help You Pt. 2 — speakers: Qui'Err Coalition, Clementine Kesh, Millennium Break, Kriminel Kollage, tos upport, Saffron Septet, Constantina Malady, Austin Walker
-- 2023-03-30 — PALISADE 04: I Would LIke to Help You Pt. 1 — speakers: Fundament Node, Clementine Kesh, Millennium Break, Gucci Garantine, Codename Watershed, Kriminel Kollage, tos upport, Veston Vicinity, Austin Walker
-- 2023-03-24 — PALISADE 03: Today Is a Monday — speakers: Kalvin Brnine, Grey Pond, Carmine Bight, Skelton Knaggs, Divine Fealty, Margate Lock, Marlon Styx, Dim Liturgy, Austin Walker
-- 2023-03-17 — PALISADE 02: Into the World Pt. 2 — speakers: Stels Columnar, Stel Apostolos, Millennium Break Dissidents, Kalvin Brnine, Millennium Break, Coriolis Sunset, Gucci Garantine, Kriminel Kollage, Austin Walker
-- 2023-03-10 — PALISADE 01: Into the World Pt. 1 — speakers: Stels Columnar, Millennium Break, Stel Apostolos, Millennium Break Dissidents, Kalvin Brnine, Austin Walker
-- 2023-03-04 — Bonus Episode: Romeo + Juliet (+BIG ANNOUNCEMENTS!!!) — speakers: Romeo Juliet, William Shakespeare, Jack de Quidt, Austin Walker
-- 2023-02-17 — A Quick Pre-PALISADE Update — speakers: Quick Pre-Palisade Update, Youtube FatT, Jess Levine, Austin Walker
-- 2023-01-20 — The Road to PALISADE 20: City Planning Department — speakers: Millennium Break, Stels Apostolos, Apparatus Aperitif, Antonina Juris, Plum Tort, Austin Walker, Ali Acampora, Janine Hawkins
-- 2023-01-13 — The Road to PALISADE 19: Upstairs & Downstairs Pt. 2 — speakers: Can Solstice House, Stels Apostolos, Crevera Solstice, Coughton Solstice, Carvisle Solstice, Catalina Solstice, Catrina Solstice, Guliford Gain, Austin Walker
-- 2023-01-06 — The Road to PALISADE 18: Upstairs & Downstairs Pt. 1 — speakers: Stels Apostolos, Crevera Solstice, Coughton Solstice, Carvisle Solstice, Catalina Solstice, Catrina Solstice, Guliford Gain, Vivian Exler, Austin Walker
-- 2022-12-21 — The Road to PALISADE 17: My Way — speakers: Stels Apostolos, Articles Steam, Jimmy Steam Steamanski, Sara McKenzie, Austin Walker, Andrew Lee Swan, Art Martinez-Tebbel, Ali Acampora
-- 2022-12-12 — The Road to PALISADE 16: Serious Reading — speakers: Stels Apostolos, Continental Countinghouse, Reatta Fossick, Galaebalus Splu-u-mp, lunch sandwiches, Austin Walker, Jack de Quidt, Art Martinez-Tebbel
-- 2022-12-10 — The Road to PALISADE 15: Orbital Pt. 5 — speakers: Stels Kesh, Stels Apostolos, Brink Proxy, Qui Err Coalition, Mustard Red, Deutsch Synchro, Sly Dente, Orchard Guildsman, Austin Walker
-- 2022-12-02 — The Road to PALISADE 14: Orbital Pt. 4 — speakers: Stels Kesh, Stels Apostolos, Brink Proxy, Qui Err Coalition, Mustard Red, Deutsch Synchro, Orchard Guildsman, Austin Walker
-- 2022-11-23 — The Road to PALISADE 13: Orbital Pt. 3 — speakers: Brink Proxy, Mustard Red, Stels Kesh, Stels Apostolos, Qui Err Coalition, Deutsch Synchro, Sly Dente, Orchard Guildsman, Austin Walker
-- 2022-11-11 — The Road to PALISADE 12: Orbital Pt. 2 — speakers: Deutsch Syncrho, Stels Kesh, Stels Apostolos, Brink Proxy, Mustard Red, Deutsch Synchro, Toaster Wroaster, Knighton Reach, Austin Walker
-- 2022-11-04 — The Road to PALISADE 11: Orbital Pt. 1 — speakers: Qui Err Coalition, Brink Proxy, Mustard Red, Deutsch Synchro, Grey Gloaming, Demani Dusk, Grand Magnificent, Austin Walker
-- 2022-10-28 — The Road to PALISADE 10: Lancer Pt. 3 — speakers: Lancer Pt, Millennium Break, Zark Vapor, Teasel Fauna, Narmine Te'Ketch, Kaliope Flow, Zeke Minuet, Portcullis System, Austin Walker
-- 2022-10-21 — The Road to PALISADE 09: Lancer Pt. 2 — speakers: Lancer Pt, Kaliope Flow, Zeke Minuet, Portcullis System, Austin Walker, Jack de Quidt, Sylvi Bullet, Ali Acampora
-- 2022-10-14 — The Road to PALISADE 08: Lancer Pt. 1 — speakers: Lancer Pt, Kaliope Flow, Zeke Minuet, Portcullis System, Austin Walker, Jack de Quidt, Sylvia Clare, Ali Acampora
-- 2022-10-06 — The Road to PALISADE 07: Wagon Wheel Pt. 3 — speakers: Millennium Break, Joyous Guard, Perpetual Lustre, Caeso Wair, Tzion Archana, Shale Belt, Articles BigStar, Gentle Influence, Austin Walker
-- 2022-09-30 — The Road to PALISADE 06: Wagon Wheel Pt. 2 — speakers: Caeso Wair, Lishan Charles, Shale Belt, Articles BigStar, Austin Walker, Art Martinez-Tebbel, Janine Hawkins, Ali Acampora
-- 2022-09-23 — The Road to PALISADE 05: Wagon Wheel Pt. 1 — speakers: Cor'rina Corrine, Millennium Break, Persons Ce, Caeso Wair, Lishan Charles, Articles BigStar, Austin Walker, Art Martinez-Tebbel
-- 2022-09-16 — The Road to PALISADE 04: Last Shooting — speakers: Portcullis System, Austin Walker, Andrew Lee Swan, Sylvia Clare, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2022-09-09 — The Road to PALISADE 03: Stealing the Throne — speakers: Fingers Crossed, Robet Shpache, Austin Walker, Ali Acampora, Andrew Lee Swan, Ali Acampora Music, Jack de Quidt, Austin Walker Cover Art
-- 2022-09-02 — The Road to PALISADE 02: HOUNDs Pt. 2 — speakers: Divine Fealty, Stel Apostolos, Millennium Break Terrorists, Gucci Garantine, Saint Dawn, Austin Walker
-- 2022-08-26 — The Road to PALISADE 01: HOUNDs Pt. 1 — speakers: Adam Wescott, Stel Apostolos, Millennium Break Terrorists, Gucci Garantine, Saint Dawn, Layer Luxurious, Austin Walker
-- 2022-08-12 — Bonus Episode: Standoff NNAF Fundraiser Livestream — speakers: Austin Walker
-- 2022-08-05 — Bonus Episode: Marielda NNAF Fundraiser Livestream (+Realis teaser) — speakers: Artificer Divine, Good Will, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Ali Acampora
-- 2022-07-28 — Bluff City: America's Playground Pt. 05 — speakers: Playground Pt, Elliott Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-07-21 — Bluff City: America's Playground Pt. 04 — speakers: Playground Pt, Elliott Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-07-14 — Bluff City: America's Playground Pt. 03 — speakers: Playground Pt, Elliott Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-07-07 — Bluff City: America's Playground Pt. 02 — speakers: Playground Pt, Elliott Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-07-06 — Bonus Episode: GenCon Liveshow Marielda — speakers: Austin Walker
+- 2023-09-01 — PALISADE 24: An Impossible Ideal Pt. 3 — speakers: Austin Walker
+- 2023-08-27 — PALISADE 23: An Impossible Ideal Pt. 2 — speakers: Austin Walker
+- 2023-08-18 — PALISADE 22: An Impossible Ideal Pt. 1 — speakers: Austin Walker
+- 2023-08-11 — PALISADE 21: In Their Fear Pt. 2 — speakers: Austin Walker
+- 2023-08-04 — PALISADE 20: In Their Fear Pt. 1 — speakers: Austin Walker
+- 2023-07-21 — PALISADE 19: How It Always Looks Pt. 2 — speakers: Austin Walker
+- 2023-07-14 — PALISADE 18: How It Always Looks Pt. 1 — speakers: Austin Walker
+- 2023-06-30 — PALISADE 17: Upon Our Grace Pt. 4 — speakers: Austin Walker
+- 2023-06-23 — PALISADE 16: Upon Our Grace Pt. 3 — speakers: Austin Walker
+- 2023-06-16 — PALISADE 15: Upon Our Grace Pt. 2 — speakers: Austin Walker
+- 2023-06-09 — PALISADE 14: Upon Our Grace Pt. 1 — speakers: Austin Walker
+- 2023-06-02 — PALISADE 13: Worth the Trouble Pt. 2 — speakers: Austin Walker
+- 2023-05-26 — PALISADE 12: Worth the Trouble Pt. 1 — speakers: Trouble Pt, Austin Walker
+- 2023-05-19 — PALISADE 11: The Wheels Turning Pt. 2 — speakers: Across Palisade, Bilateral Intecession, Austin Walker
+- 2023-05-12 — PALISADE 10: The Wheels Turning Pt. 1 — speakers: Austin Walker
+- 2023-05-04 — PALISADE 09: The Canvas of Dreams Pt. 4 — speakers: Dreams Pt, Austin Walker
+- 2023-04-28 — PALISADE 08: The Canvas of Dreams Pt. 3 — speakers: Dreams Pt, Austin Walker
+- 2023-04-21 — PALISADE 07: The Canvas of Dreams Pt. 2 — speakers: Dreams Pt, Broken Key, Whisk Sea, Austin Walker
+- 2023-04-14 — PALISADE 06: The Canvas of Dreams Pt. 1 — speakers: Dreams Pt, Austin Walker
+- 2023-04-06 — PALISADE 05: I Would LIke to Help You Pt. 2 — speakers: Austin Walker
+- 2023-03-30 — PALISADE 04: I Would LIke to Help You Pt. 1 — speakers: Austin Walker
+- 2023-03-24 — PALISADE 03: Today Is a Monday — speakers: Austin Walker
+- 2023-03-17 — PALISADE 02: Into the World Pt. 2 — speakers: World Pt, Austin Walker
+- 2023-03-10 — PALISADE 01: Into the World Pt. 1 — speakers: World Pt, Austin Walker
+- 2023-03-04 — Bonus Episode: Romeo + Juliet (+BIG ANNOUNCEMENTS!!!) — speakers: Romeo Juliet, Austin Walker
+- 2023-02-17 — A Quick Pre-PALISADE Update — speakers: Quick Pre-Palisade Update, Austin Walker
+- 2023-01-20 — The Road to PALISADE 20: City Planning Department — speakers: Austin Walker
+- 2023-01-13 — The Road to PALISADE 19: Upstairs & Downstairs Pt. 2 — speakers: Downstairs Pt, Austin Walker
+- 2023-01-06 — The Road to PALISADE 18: Upstairs & Downstairs Pt. 1 — speakers: Downstairs Pt, Austin Walker
+- 2022-12-21 — The Road to PALISADE 17: My Way — speakers: Austin Walker
+- 2022-12-12 — The Road to PALISADE 16: Serious Reading — speakers: Austin Walker
+- 2022-12-10 — The Road to PALISADE 15: Orbital Pt. 5 — speakers: Orbital Pt, Austin Walker
+- 2022-12-02 — The Road to PALISADE 14: Orbital Pt. 4 — speakers: Orbital Pt, Austin Walker
+- 2022-11-23 — The Road to PALISADE 13: Orbital Pt. 3 — speakers: Orbital Pt, Austin Walker
+- 2022-11-11 — The Road to PALISADE 12: Orbital Pt. 2 — speakers: Orbital Pt, Austin Walker
+- 2022-11-04 — The Road to PALISADE 11: Orbital Pt. 1 — speakers: Orbital Pt, Austin Walker
+- 2022-10-28 — The Road to PALISADE 10: Lancer Pt. 3 — speakers: Lancer Pt, Austin Walker
+- 2022-10-21 — The Road to PALISADE 09: Lancer Pt. 2 — speakers: Lancer Pt, Austin Walker
+- 2022-10-14 — The Road to PALISADE 08: Lancer Pt. 1 — speakers: Lancer Pt, Austin Walker
+- 2022-10-06 — The Road to PALISADE 07: Wagon Wheel Pt. 3 — speakers: Wagon Wheel Pt, Austin Walker
+- 2022-09-30 — The Road to PALISADE 06: Wagon Wheel Pt. 2 — speakers: Wagon Wheel Pt, Millenium Break, Austin Walker
+- 2022-09-23 — The Road to PALISADE 05: Wagon Wheel Pt. 1 — speakers: Austin Walker
+- 2022-09-16 — The Road to PALISADE 04: Last Shooting — speakers: Austin Walker
+- 2022-09-09 — The Road to PALISADE 03: Stealing the Throne — speakers: Throne Once, Divine Discernment, Austin Walker
+- 2022-09-02 — The Road to PALISADE 02: HOUNDs Pt. 2 — speakers: Austin Walker
+- 2022-08-26 — The Road to PALISADE 01: HOUNDs Pt. 1 — speakers: Austin Walker
+- 2022-08-12 — Bonus Episode: Standoff NNAF Fundraiser Livestream — speakers: Fundraiser Livestream Hello, National Network, Abortion Funds, Austin Walker
+- 2022-08-05 — Bonus Episode: Marielda NNAF Fundraiser Livestream (+Realis teaser) — speakers: Fundraiser Livestream, Austin Walker
+- 2022-07-28 — Bluff City: America's Playground Pt. 05 — speakers: Playground Pt, Austin Walker
+- 2022-07-21 — Bluff City: America's Playground Pt. 04 — speakers: Playground Pt, Austin Walker
+- 2022-07-14 — Bluff City: America's Playground Pt. 03 — speakers: Playground Pt, Austin Walker
+- 2022-07-07 — Bluff City: America's Playground Pt. 02 — speakers: Playground Pt, Austin Walker
+- 2022-07-06 — Bonus Episode: GenCon Liveshow Marielda — speakers: Liveshow Marielda Here, Austin Walker
 - 2022-07-04 — Bonus Episode: Random Article — speakers: Random Article Hello, Austin Walker
-- 2022-07-01 — Bluff City: America's Playground Pt. 01 (WITH ANNOUNCEMENT!) — speakers: Playground Pt, Elliot Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-06-23 — Bluff City: America's Playground Pt. 00 — speakers: Playground Pt, Elliott Callahan, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Mall Kids
-- 2022-06-16 — Sangfielle Post Mortem — speakers: Austin Walker, Ali Acampora, Sylvia Clare, Jack de Quidt, Janine Hawkins, Art Martinez-Tebbel, Andrew Lee Swan
-- 2022-06-06 — Sangfielle Post-Mortem Announcement — speakers: Grant Howitt, Christopher Taylor Inhuman, Tommy Maranges, Cory O'Brien, Samantha Leigh, Peter Eijk, Austin Walker
-- 2022-05-26 — Sangfielle 56: Six Travelers: Pickman — speakers: Dyre Ode, Organizations Aldomina, Austin Walker, Jack de Quidt, Ali Acampora, Austin Walker Cover Art, Craig Sheldon
-- 2022-05-19 — Sangfielle 55: Six Travelers: Es — speakers: Dyre Ode, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2022-05-12 — Sangfielle 54: Six Travelers: Duvall — speakers: Knight Fezh, Austin Walker, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2022-05-05 — Sangfielle 53: Six Travelers: Hazard — speakers: Gandy Dancers, Queen Virtue, Emma Serchilde, Glim Macula, Austin Walker, Sylvi Clare, Ali Acampora, Jack de Quidt
-- 2022-04-28 — Sangfielle 52: Six Travelers: Lyke — speakers: Lye Lychen, Queen Virtue, Unschola Republica, Figures Fendleton, Dayward yon, Dayward Yve, Karston Leberge, Austin Walker
-- 2022-04-22 — Sangfielle 51: Six Travelers: Marn — speakers: Marn Ancura, Dyre Ode, Dayward Yve, Austin Walker, Ali Acampora, Ali Acampora Music, Jack de Quidt, Austin Walker Cover Art
-- 2022-04-15 — Sangfielle 50: Dead in the Dust Pt. 3 — speakers: Queen Virtue, Unschola Republica, Free Seas, Dayward yon, Dayward Yve, Ekashi Wolff, Dyre Ode, Chantilly Scathe, Austin Walker
-- 2022-04-08 — Sangfielle 49: Dead in the Dust Pt. 2 — speakers: Sangfielle Dead, Queen Virtue, Dayward yon, Dayward Yve, Ekashi Wolff, Dyre Ode, Chantilly Scathe, Shape Knight, Austin Walker
-- 2022-04-01 — Sangfielle 48: Dead in the Dust Pt. 1 — speakers: Sangfielle Dead, Lye Lychen, Queen Virtue, Dayward yon, Dayward Yve, Ekashi Wolff, Dyre Ode, Chantilly Scathe, Austin Walker
-- 2022-03-11 — Sangfielle 47: Wax, Ichor, and Iron Pt. 4 — speakers: Sangfielle Wax, Iron Pt, Ekashi Wolff, Sister Marisha, Kerr Kern, Knight Pickman, Austin Walker, Art Martinez-Tebbel
-- 2022-03-04 — Sangfielle 46: Wax, Ichor, and Iron Pt. 3 — speakers: Iron Pt, Ekashi Wolff, Sister Marisha, Kerr Kern, Knight Pickman, Austin Walker, Art Martinez-Tebbel, Jack de Quidt
-- 2022-02-24 — Sangfielle 45: Wax, Ichor, and Iron Pt. 2 — speakers: Sangfielle Wax, Iron Pt, Figures Alekest, Knight Pickman, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins
-- 2022-02-18 — Sangfielle 44: Wax, Ichor, and Iron Pt. 1 — speakers: Iron Pt, Lye Lychen, Figures Alekest, Knight Pickman, Queen Virtue, Austin Walker, Art Martinez-Tebbel, Jack de Quidt
-- 2022-02-11 — Sangfielle 43: Two Kinds of Quarry Pt. 2 — speakers: Quarry Pt, Lye Lychen, Chantilly Scathe, Shape Knight, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora
-- 2022-02-04 — Sangfielle 42: Two Kinds of Quarry Pt. 1 — speakers: Quarry Pt, Lye Lychen, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Austin Walker Cover Art
-- 2022-01-20 — Sangfielle 41: Just Returns Pt. 5 — speakers: Rebek Semm, Gren Voznik, Ennib Lee, Lejune Borr, Kerr Kern, Austin Walker, Art Martinez-Tebbel, Jack de Quidt
-- 2022-01-13 — Sangfielle 40: Just Returns Pt. 4 — speakers: Rebek Semm, Gren Voznik, Ennib Lee, Lejune Borr, Kerr Kern, Austin Walker, Art Martinez-Tebbel, Jack de Quidt
-- 2022-01-06 — Sangfielle 39: Just Returns Pt. 3 — speakers: Rebek Semm, Gren Voznik, Ennib Lee, Lejune Borr, Kerr Kern, Austin Walker, Art Martinez-Tebbel, Jack de Quidt
-- 2021-12-31 — Sangfielle 38: Just Returns Pt. 2 — speakers: Figures Alekest, Knight Pickman, Felix Hollowfield, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Ali Acampora
-- 2021-12-24 — Sangfielle 37: Just Returns Pt. 1 — speakers: Figures Alekest, Knight Pickman, Felix Hollowfield, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Ali Acampora
-- 2021-12-10 — Sangfielle 36: Marrow in the Bone — speakers: Lye Lychen, Unschola Republica, Yersa Mallow, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Jack de Quidt
-- 2021-12-03 — Sangfielle 35: Marrow in the Field — speakers: Figures Reuben, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
+- 2022-07-01 — Bluff City: America's Playground Pt. 01 (WITH ANNOUNCEMENT!) — speakers: Playground Pt, Austin Walker
+- 2022-06-23 — Bluff City: America's Playground Pt. 00 — speakers: Playground Pt, Austin Walker
+- 2022-06-16 — Sangfielle Post Mortem — speakers: Austin Walker, Ali Acampora, Sylvia Clare, Jack de Quidt
+- 2022-06-06 — Sangfielle Post-Mortem Announcement — speakers: Sangfielle Post, Mortem Announcement Hello, Austin Walker
+- 2022-05-26 — Sangfielle 56: Six Travelers: Pickman — speakers: Austin Walker
+- 2022-05-19 — Sangfielle 55: Six Travelers: Es — speakers: Austin Walker
+- 2022-05-12 — Sangfielle 54: Six Travelers: Duvall — speakers: Austin Walker
+- 2022-05-05 — Sangfielle 53: Six Travelers: Hazard — speakers: Austin Walker
+- 2022-04-28 — Sangfielle 52: Six Travelers: Lyke — speakers: Austin Walker
+- 2022-04-22 — Sangfielle 51: Six Travelers: Marn — speakers: Austin Walker
+- 2022-04-15 — Sangfielle 50: Dead in the Dust Pt. 3 — speakers: Austin Walker
+- 2022-04-08 — Sangfielle 49: Dead in the Dust Pt. 2 — speakers: Sangfielle Dead, Austin Walker
+- 2022-04-01 — Sangfielle 48: Dead in the Dust Pt. 1 — speakers: Sangfielle Dead, Austin Walker
+- 2022-03-11 — Sangfielle 47: Wax, Ichor, and Iron Pt. 4 — speakers: Sangfielle Wax, Iron Pt, Austin Walker
+- 2022-03-04 — Sangfielle 46: Wax, Ichor, and Iron Pt. 3 — speakers: Iron Pt, Austin Walker
+- 2022-02-24 — Sangfielle 45: Wax, Ichor, and Iron Pt. 2 — speakers: Sangfielle Wax, Austin Walker
+- 2022-02-18 — Sangfielle 44: Wax, Ichor, and Iron Pt. 1 — speakers: Iron Pt, Austin Walker
+- 2022-02-11 — Sangfielle 43: Two Kinds of Quarry Pt. 2 — speakers: Quarry Pt, Austin Walker
+- 2022-02-04 — Sangfielle 42: Two Kinds of Quarry Pt. 1 — speakers: Quarry Pt, Austin Walker
+- 2022-01-20 — Sangfielle 41: Just Returns Pt. 5 — speakers: Austin Walker
+- 2022-01-13 — Sangfielle 40: Just Returns Pt. 4 — speakers: Austin Walker
+- 2022-01-06 — Sangfielle 39: Just Returns Pt. 3 — speakers: Austin Walker
+- 2021-12-31 — Sangfielle 38: Just Returns Pt. 2 — speakers: Austin Walker
+- 2021-12-24 — Sangfielle 37: Just Returns Pt. 1 — speakers: Austin Walker
+- 2021-12-10 — Sangfielle 36: Marrow in the Bone — speakers: Austin Walker
+- 2021-12-03 — Sangfielle 35: Marrow in the Field — speakers: Austin Walker
 - 2021-11-25 — Clapcast: The Most Wanted Song — speakers: Austin Walker
-- 2021-11-18 — Sangfielle 34: Passage on the Jade Moon Pt. 3 — speakers: Figures Alekest, Knight Pickman, Etienne Alize, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Sylvi Clare
-- 2021-11-11 — Sangfielle 33: Passage on the Jade Moon Pt. 2 — speakers: Sangfielle Passage, Fire Alight, Etienne Alize, Gandy Dancers, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins
-- 2021-11-05 — Sangfielle 32: Passage on the Jade Moon Pt. 1 — speakers: Dyre Ode, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Andrew Lee Swan, Ali Acampora Music, Austin Walker Cover Art
-- 2021-10-15 — Sangfielle 31: Hark! The Citadel Beneath Pt. 4 — speakers: Beneath Pt, Mabriella du Feza, Figures Mabriella du Feza, Dyre Ode, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt
-- 2021-10-15 — Sangfielle 30: Hark! The Citadel Beneath Pt. 3 — speakers: Beneath Pt, Mabriella du Feza, Dyre Ode, Emma Serchilde, Felix Hollowfield, Austin Walker, Janine Hawkins, Ali Acampora
-- 2021-10-07 — Sangfielle 29: Hark! The Citadel Beneath Pt. 2 — speakers: Beneath Pt, Dyre Ode, Emma Serchilde, William Blick, Felix Hollowfield, Mabriella du Feza, Austin Walker, Janine Hawkins
-- 2021-10-01 — Sangfielle 28: Hark! The Citadel Beneath Pt. 1 — speakers: Beneath Pt, William Blick, Felix Hollowfield, Mabriella du Feza, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt
-- 2021-09-23 — Sangfielle 27: The Perpetual Oratorio of Davia Pledge Pt. 5 — speakers: Lady Zizilliana, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2021-09-17 — Sangfielle 26: The Perpetual Oratorio of Davia Pledge Pt. 4 — speakers: Asator Crosley, Lady Zizilliana, Marcos Soto, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Jack de Quidt
-- 2021-09-09 — Sangfielle 25: The Perpetual Oratorio of Davia Pledge Pt. 3 — speakers: Concert Hall, Asator Crosley, Lady Zizilliana, Emma Serchilde, Felix Hollowfield, Lye Lychen, Glim Macula, Austin Walker
-- 2021-09-02 — Sangfielle 24: The Perpetual Oratorio of Davia Pledge Pt. 2 — speakers: Asator Crosley, Lady Zizilliana, Emma Serchilde, Felix Hollowfield, Lye Lychen, Glim Macula, Austin Walker, Sylvi Clare
-- 2021-08-27 — Sangfielle 23: The Perpetual Oratorio of Davia Pledge Pt. 1 — speakers: Lye Lyken, Asator Crosley, Lady Zizilliana, Emma Serchilde, Felix Hollowfield, Lye Lychen, Glim Macula, Austin Walker
-- 2021-08-20 — Sangfielle 22: Whispers in the City by the Sea — speakers: Figures Sym, Harin Hardesty, William Blick, Lady Zizilliana, Shape Knight, Calen fel Dynestia, Lye Lychen, Glim Macula, Austin Walker
-- 2021-08-06 — Sangfielle 21: At the Gates of Sapodilla — speakers: Shape Knight, Glim Macula, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Janine Hawkins, Sylvi Clare, Ali Acampora
-- 2021-07-30 — Sangfielle 20: What Happened at Bell Metal Station Pt. 4 — speakers: Lye Lychen, Omerra Celendi, Calen fel Dynestia, Regan Alaway, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Carberry Produced
-- 2021-07-22 — Sangfielle 19: What Happened at Bell Metal Station Pt. 3 — speakers: Lye Lychen, Omerra Celendi, Calen fel Dynestia, Ephemera Hosted, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Carberry Produced
-- 2021-07-15 — Sangfielle 18: What Happened at Bell Metal Station Pt. 2 — speakers: Chantilly Scathe, Shape Knight, Austin Walker
-- 2021-07-09 — Sangfielle 17: What Happened at Bell Metal Station Pt. 1 — speakers: Chantilly Scathe, Shape Knight, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Carberry Produced, Ali Acampora, Austin Walker Cover Art
-- 2021-06-24 — Sangfielle 16: The Candle Factory Pt. 3 — speakers: Xanthic Demesne, Regan Alaway, Shape Knight, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Andrew Lee Swan
-- 2021-06-17 — Sangfielle 15: The Candle Factory Pt. 2 — speakers: Xanthic Demesne, Regan Alaway, Shape Knight, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Andrew Lee Swan
-- 2021-06-11 — Sangfielle 14: The Candle Factory Pt. 1 — speakers: Xanthic Demesne, Shape Knight, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Andrew Lee Swan, Jack de Quidt
-- 2021-06-04 — Sangfielle 13: Market Day in Blackwick — speakers: Dayward yon Vantzon-Estonbergh, Figures Erlin, Vellete Vandrake, Chantilly Scathe, Shape Knight, Babor Mirah, Myron Andrashi, Dayward Yve, Austin Walker
-- 2021-05-28 — Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4 — speakers: Lye Lychen, Dayward Yve, Dayward yon Vantzon-Estonbergh, Dyre Ode, Austin Walker, Janine Hawkins, Art Martinez-Tebbel, Ali Acampora
-- 2021-05-20 — Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3 — speakers: Lye Lychen, Dayward yon Vantzon-Estonbergh, Dayward Yve, Dyre Ode, Austin Walker, Janine Hawkins, Art Martinez-Tebbel, Ali Acampora
-- 2021-05-14 — Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2 — speakers: Dayward yon, Dayward Yve, Dyre Ode, Austin Walker, Janine Hawkins, Art Martinez-Tebbel, Ali Acampora, Jack de Quidt
-- 2021-05-07 — Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1 — speakers: Dayward yon Vantzon-Estonbergh, Figures Lye, Dayward Yve, Dyre Ode, Austin Walker, Janine Hawkins, Art Martinez-Tebbel, Ali Acampora
-- 2021-04-30 — Sangfielle 08: The Hymn of the Mother-Beast Pt. 4 — speakers: Pale Magistrate, Austin Walker, Sylvi Clare, Ali Acampora, Jack de Quidt, Andrew Lee Swan, Austin Walker Cover Art, Craig Sheldon
-- 2021-04-22 — Sangfielle 07: The Hymn of the Mother-Beast Pt. 3 — speakers: Janek Polyte, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2021-04-15 — Sangfielle 06: The Hymn of the Mother-Beast Pt. 2 — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Austin Walker Cover Art
-- 2021-04-09 — Sangfielle 05: The Hymn of the Mother-Beast Pt. 1 — speakers: Blackwick County, Unschola Republica, Free Seas, Ekashi Wolff, Ashen Remains, Austin Walker, Janine Hawkins, Sylvi Clare
-- 2021-04-02 — Sangfielle 04: The Blackwick Group — speakers: Peoples Caprak, Blackwick County, Virtue Mondegreen, Marn Ancura, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora
+- 2021-11-18 — Sangfielle 34: Passage on the Jade Moon Pt. 3 — speakers: Austin Walker
+- 2021-11-11 — Sangfielle 33: Passage on the Jade Moon Pt. 2 — speakers: Sangfielle Passage, Austin Walker
+- 2021-11-05 — Sangfielle 32: Passage on the Jade Moon Pt. 1 — speakers: Austin Walker
+- 2021-10-15 — Sangfielle 31: Hark! The Citadel Beneath Pt. 4 — speakers: Beneath Pt, Austin Walker
+- 2021-10-15 — Sangfielle 30: Hark! The Citadel Beneath Pt. 3 — speakers: Beneath Pt, Austin Walker
+- 2021-10-07 — Sangfielle 29: Hark! The Citadel Beneath Pt. 2 — speakers: Beneath Pt, Austin Walker
+- 2021-10-01 — Sangfielle 28: Hark! The Citadel Beneath Pt. 1 — speakers: Beneath Pt, Austin Walker
+- 2021-09-23 — Sangfielle 27: The Perpetual Oratorio of Davia Pledge Pt. 5 — speakers: Austin Walker
+- 2021-09-17 — Sangfielle 26: The Perpetual Oratorio of Davia Pledge Pt. 4 — speakers: Austin Walker
+- 2021-09-09 — Sangfielle 25: The Perpetual Oratorio of Davia Pledge Pt. 3 — speakers: Austin Walker
+- 2021-09-02 — Sangfielle 24: The Perpetual Oratorio of Davia Pledge Pt. 2 — speakers: Austin Walker
+- 2021-08-27 — Sangfielle 23: The Perpetual Oratorio of Davia Pledge Pt. 1 — speakers: Austin Walker
+- 2021-08-20 — Sangfielle 22: Whispers in the City by the Sea — speakers: Austin Walker
+- 2021-08-06 — Sangfielle 21: At the Gates of Sapodilla — speakers: Austin Walker
+- 2021-07-30 — Sangfielle 20: What Happened at Bell Metal Station Pt. 4 — speakers: Austin Walker
+- 2021-07-22 — Sangfielle 19: What Happened at Bell Metal Station Pt. 3 — speakers: Austin Walker
+- 2021-07-15 — Sangfielle 18: What Happened at Bell Metal Station Pt. 2 — speakers: Austin Walker
+- 2021-07-09 — Sangfielle 17: What Happened at Bell Metal Station Pt. 1 — speakers: Austin Walker
+- 2021-06-24 — Sangfielle 16: The Candle Factory Pt. 3 — speakers: Austin Walker
+- 2021-06-17 — Sangfielle 15: The Candle Factory Pt. 2 — speakers: Austin Walker
+- 2021-06-11 — Sangfielle 14: The Candle Factory Pt. 1 — speakers: Austin Walker
+- 2021-06-04 — Sangfielle 13: Market Day in Blackwick — speakers: scrimshaw don, Austin Walker
+- 2021-05-28 — Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4 — speakers: Austin Walker
+- 2021-05-20 — Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3 — speakers: Austin Walker
+- 2021-05-14 — Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2 — speakers: Austin Walker
+- 2021-05-07 — Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1 — speakers: Austin Walker
+- 2021-04-30 — Sangfielle 08: The Hymn of the Mother-Beast Pt. 4 — speakers: Austin Walker
+- 2021-04-22 — Sangfielle 07: The Hymn of the Mother-Beast Pt. 3 — speakers: Austin Walker
+- 2021-04-15 — Sangfielle 06: The Hymn of the Mother-Beast Pt. 2 — speakers: Austin Walker
+- 2021-04-09 — Sangfielle 05: The Hymn of the Mother-Beast Pt. 1 — speakers: Austin Walker
+- 2021-04-02 — Sangfielle 04: The Blackwick Group — speakers: Austin Walker
 - 2021-03-25 — Sangfielle 03: The Curse of Eastern Folly Pt. 3 — speakers: Austin Walker
-- 2021-03-18 — Sangfielle 02: The Curse of Eastern Folly Pt. 2 — speakers: Peoples Caprak, Unschola Republica, Free Seas, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel
-- 2021-03-11 — Sangfielle 01: The Curse of Eastern Folly Pt. 1 — speakers: Everest Pipkin, Grant Howitt, Christopher Taylor, Peoples Caprak, Austin Walker
-- 2021-03-05 — Season 7 Trailer & Announcement — speakers: Austin Walker
-- 2021-02-05 — PARTIZAN 48: Post Mortem — speakers: Austin Walker, Ali Acampora, Sylvia Clare, Jack de Quidt, Janine Hawkins, Art Martinez-Tebbel, Andrew Lee Swan
-- 2021-01-22 — PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do — speakers: Gur Sevraq, Millennium Break, Millennium Break Dissidents, Gucci Garantine, Autonomy Itself, Cassander Timaeus Berenice, Kalmera Broun, Austin Walker
-- 2021-01-15 — PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate — speakers: Millennium Break, Shackled Sun, Millennium Break Dissidents, Logos Kantel, Gur Sevraq, Autonomy Itself, Cassander Timaeus Berenice, Austin Walker
-- 2021-01-07 — PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray — speakers: MIllennium Break, Millennium Break Dissidents, Logos Kantel, Gucci Garantine, Zig'ell Barbos, Autonomy Itself, Austin Walker
-- 2020-12-24 — See you next year!! — speakers: Ben Auden Roswell, Ben Robbins, Jason Morningstar, Rob Zacny, Natalie Watson, Austin Walker
-- 2020-12-17 — PARTIZAN 44: The Prison at the Top of the World — speakers: Millennium Break, People Xiphion, Zig'ell Barbos, Gur Sevraq, Gucci Garantine, Sloe Uplight, AdArm Quiver, Austin Walker
-- 2020-12-11 — PARTIZAN 43: The Tunnels Beneath — speakers: Millennium Break, People Xiphion, Zig'ell Barbos, Gucci Garantine, Sloe Uplight, AdArm Quiver, Austin Walker, Art Martinez-Tebbel
-- 2020-12-04 — PARTIZAN 42: The Unbreakable Quarry — speakers: Memoria Teardrop, Millennium Break, Gucci Garantine, Sloe Uplight, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2020-11-19 — PARTIZAN 41: Orbital Decay — speakers: Orbital Decay, Gur Sevraq, Si'dra Balos, Eiden Teak, AdArm Scourge, Austin Walker, Janine Hawkins, Sylvia Clare
-- 2020-11-12 — PARTIZAN 40: Engine Burn — speakers: Gur Sevraq, Si'dra Balos, Eiden Teak, Austin Walker, Janine Hawkins, Sylvia Clare, Ali Acampora, Ali Acampora Music
-- 2020-11-06 — PARTIZAN 39: Escape Velocity — speakers: Si'Dra Balos, Gur Sevraq, Eiden Teak, Fi'nilo Nicol, Austin Walker, Janine Hawkins, Sylvia Clare, Ali Acampora
-- 2020-10-24 — PARTIZAN 38: The Red Light — speakers: Gucci Garantine, Millennium Break, Brightsky West, Brightsky East, Austin Walker
-- 2020-10-17 — PARTIZAN 37: The Gravity of Absence — speakers: Gucci Garantine, Millennium Break, Brightsky West, Brightsky East, Deep Dish Steak House, Austin Walker, Janine Hawkins, Sylvia Clare
-- 2020-10-08 — PARTIZAN 36: The Witch in the Glass Pt. 2 — speakers: Sarah Morgan, Bryan Piatt, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2020-10-02 — PARTIZAN 35: The Witch in the Glass Pt. 1 — speakers: Jack de Quidt, Austin Walker, Gur Sevraq, Janine Hawkins, Art Martinez-Tebbel, Ali Acampora, Exeter Leap, Keith Carberry
-- 2020-09-25 — PARTIZAN 34: Guests, Invited and Otherwise — speakers: Millennium Break, Gucci Garantine, Brightsky West, Brightsky East, Deep Dish Steak House, Austin Walker
-- 2020-09-17 — PARTIZAN 33: A Single Shot — speakers: Gur Sevraq, Gigas Acano, Cassander Timaeus Berenice, Strand Semaphore, Millennium Break, Austin Walker
-- 2020-09-12 — PARTIZAN 32: GLORY Arrives — speakers: Gur Sevraq, Gigas Acano, Cassander Timaeus Berenice, Strand Semaphore, Millennium Break, Austin Walker
-- 2020-09-03 — PARTIZAN 31: The Grand Premiere — speakers: Millennium Break, Gucci Garantine, Apparatus Aperitif, Gur Sevraq, Gigas Acano, Strand Semaphore, Austin Walker, Ali Acampora
-- 2020-08-27 — PARTIZAN 30: A Cemetery for Heroes — speakers: Jacob Blake, Kyle Rittenhouse, Alard Cadmus, Believes Order, Millennium Break, Divines Order, Austin Walker, Janine Hawkins
-- 2020-08-21 — PARTIZAN 29: Buried Beneath Golden Leaves — speakers: Millennium Break, Gucci Garantine, Crysanth Kesh, Alard Cadmus, Believes Order, Brightsky West, Brightsky East, Divines Order, Austin Walker
-- 2020-08-03 — Bonus Episode: Sports Are Just Numerology — speakers: Gita Jackson, Ben Roswell, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2020-07-24 — PARTIZAN 28: Millennium Break: The Storm Over Cruciat — speakers: Millennium Break, Strand Semaphore, House Brightline, Tes'ili Serikos, Stel Apostolos, Crysanth Kesh, Clementine Kesh, Apparatus Ape, Austin Walker
-- 2020-07-17 — PARTIZAN 27: Millennium Break: She said, "To Win We Must Play!" — speakers: Millennium Break, Strand Semaphore, House Brightline, Tes'ili Serikos, Stel Apostolos, Crysanth Kesh, Clementine Kesh, Apparatus Aperitif, Austin Walker
-- 2020-07-10 — PARTIZAN 26: Millennium Break: Breaking Vigil — speakers: Millennium Break, Strand Semaphore, House Brightline, Tes'ili Serikos, People Kenzington, Apparatus Aperitif, Gur Sevraq, Si'dra Balos, Austin Walker
-- 2020-07-03 — PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity — speakers: Millennium Break Courage, Millennium Break, Gur Sevraq, Strand Semaphore, House Brightline, Tes'ili Serikos, Apparatus Aperitif, Si'dra Balos, Austin Walker
-- 2020-06-26 — PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh — speakers: Millennium Break, Clementine Kesh, Strand Semaphore, House Brightline, Tes'ili Serikos, Sloe Uplight, Apparatus Aperitif, Gur Sevraq, Austin Walker
-- 2020-06-19 — PARTIZAN 23: Millennium Break: Who Will Lead Millennium Break? — speakers: Millennium Break, Strand Semaphore, House Brightline, Tes'ili Serikos, Apparatus Aperitif, Gur Sevraq, Si'dra Balos, Gucci Garantine, Austin Walker
-- 2020-06-11 — PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas) — speakers: Millenium Break Forward, Exeter Leap, Stel Apostolos, Gur Sevraq, Millennium Break Dissidents, Strand Semaphore, House Brightline, Austin Walker
-- 2020-06-05 — PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History! — speakers: Millennium Break, Ben Robbins, George Floyd, Breonna Tayler, Tony McDade, Ahmaud Arbery, Stel Apostolos, Gur Sevraq, Austin Walker
-- 2020-05-15 — PARTIZAN 20: On the Eve of Revolution — speakers: Clementine Kesh, Strand Semaphore, Tes'ili Serikos, Si'dra Balos, Gucci Garantine, Austin Walker
-- 2020-05-08 — PARTIZAN 19: On the Edge of Fracture — speakers: Stel Apostolos, Gur Sevraq, Gucci Garant, Austin Walker
-- 2020-05-01 — PARTIZAN 18: BITTER AIR - COMBUSTION — speakers: Tes'ili Serikos, Lucia Whitestar, Gur Sevraq, Alberz Chasmata, Austin Walker
-- 2020-04-25 — PARTIZAN 17: BITTER AIR - THREECARD — speakers: Tes'ili Serikos, Lucia Whitestar, Gur Sevraq, Alberz Chasmata, Exeter Leap, AdArm Cast, Austin Walker
-- 2020-04-17 — PARTIZAN 16: BITTER AIR - BEHEST — speakers: Halting Kesh, Lucia Whitestar, House Chasmata, Phy'lon Antiphony, Clementine Kesh, Crysanth Kesh, Gur Sevraq, Alberz Chasmata, Austin Walker
-- 2020-04-10 — PARTIZAN 15: Divine Attention — speakers: Gucci Garantine, Oxblood Clan, Dark lipstick, Amber Haze, AdArm Flock, Notes Sbbr, Austin Walker, Ali Acampora
-- 2020-04-03 — PARTIZAN 14: Deception in the Canyon City — speakers: Gucci Garantine, House Brightline, Oxblood Clan, Clementine Kesh, Dark lipstick, Aram Nideo, Roland Tenten, Notes Sbbr, Austin Walker
-- 2020-03-27 — PARTIZAN 13: A Captive Audience — speakers: Clementine Kesh, House Brightline, Gucci Garantine, Crysanth Kesh, Austin Walker, Jack de Quidt, Sylvi Clare, Art Martinez-Tebbel
-- 2020-03-19 — PARTIZAN 12: A Call From an Island — speakers: Gur Sevraq, Strand Semaphore, House Brightline, Apparatus Aperitif, Gucci Garantine, Clementine Kesh, Austin Walker, Ali Acampora
-- 2020-03-06 — PARTIZAN 11: DESERT SQUIRE - SLEIGHT — speakers: Desert Squire Sleight, Callister Drive Callister, Gur Sevraq, Burden Bittenbach, Callister Drive, Austin Walker, Sylvia Clare, Art Martinez-Tebbel
-- 2020-02-28 — PARTIZAN 10: DESERT SQUIRE - RIPOSTE — speakers: Desert Squire Riposte, Clementine Kesh, Exeter Leap, Callister Drive Callister, Burden Bittenbach, Gur Sevraq, Callister Drive, Callister Leap, Austin Walker
-- 2020-02-22 — PARTIZAN 09: DESERT SQUIRE - VANTAGE — speakers: Desert Squire Vantage, Clementine Kesh, Gur Sevraq, Renegade Hearts, Exeter Leap, Austin Walker, Sylvia Clare, Art Martinez-Tebbel
-- 2020-02-14 — PARTIZAN 08: Under the Boughs of the Court — speakers: Eiden Teak, Notes Sbbr, Austin Walker, Janine Hawkins, Ali Acampora, Andrew Lee Swan, Ali Acampora Music, Jack de Quidt
-- 2020-02-07 — PARTIZAN 07: Ambush in the Sand — speakers: Strand Semaphore, Gave Thisbe, Dina Dash, Zenith-C Obscura Wide, Notes Sbbr, Austin Walker, Janine Hawkins, Ali Acampora
-- 2020-01-31 — PARTIZAN 06: A Palace During a Wake — speakers: Clementine Kesh, Exeter Leap, Navigation Tool, Notes Mission Reward, Austin Walker, Sylvia Clare, Art Martinez-Tebbel, Jack de Quidt
-- 2020-01-24 — PARTIZAN 05: Profit and Loss — speakers: Burden Bittenbach, Midnite Matinee, AutoHollow Popcorn, Gur Sevraq, Brightsky West, Brightsky East, AdArm Pack-model, Austin Walker
-- 2020-01-17 — PARTIZAN 04: SHORESIDE RECOVERY - BLACKGLOVES — speakers: House Brightline, Gucci Garantine, Exeter Leap, Navigation Tool, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Jack de Quidt
-- 2020-01-10 — PARTIZAN 03: SHORESIDE RECOVERY - DINNERDATE — speakers: Clementine Kesh, Jack de Quidt, Exeter Leap, Art Tebbel, Silversky Salvage, Sombre Sky, Crysanth Kesh, Gucci Garantine, Austin Walker
-- 2020-01-03 — PARTIZAN 02: Obelle, On Fire — speakers: Tes'ili Serikos, House Whitestar, Azyet Eyesgrene, Notes Sbbr, Point Albacore, Austin Walker, Janine Hawkins, Ali Acampora
-- 2019-12-26 — PARTIZAN 01: The Seaside Town of Obelle — speakers: Alicia Acampora, Andrew Lee Swan, Janine Hawkins, AdArm Troop, notes Sbbr, Point Albacore, Austin Walker, Ali Acampora
-- 2019-12-19 — PARTIZAN 00: The Divine Principality — speakers: Beam Saber, Austin Ramsay, Dramatis Personae, Craig Sheldon, Stel Apostolos, Austin Walker, Janine Hawkins, Sylvi Clare
-- 2019-12-13 — The Road to PARTIZAN 11: Summary & Recap — speakers: Austin Walker, Andrew Lee Swan, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2019-12-05 — The Road to PARTIZAN 10: Microscope Pt. 2 — speakers: Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2019-11-30 — The Road to PARTIZAN 09: Microscope Pt. 1 — speakers: Ben Robbins, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2019-11-22 — The Road to PARTIZAN 08: For the Queen — speakers: Alex Roberts, Evil Hat Productions, Andrew Lee Swan, Antigone Gennadiy, Janine Hawkins, Orbit Shard, Andi Clare, Modus Maria, Austin Walker
-- 2019-11-15 — The Road to PARTIZAN 07: Beam Saber Pt. 2 — speakers: Orion Combine, Memphis Longhand, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2019-11-08 — The Road to PARTIZAN 06: Beam Saber Pt. 1 — speakers: Beam Saber, Austin Ramsay, Lunar Leson, Memphis Longhand, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-11-01 — The Road to PARTIZAN 05: Ech0 & Dusk to Midnight — speakers: Beam Saber, Takuma Okada, Dante Douglas, Austin Walker, Janine Hawkins, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan
-- 2019-10-26 — The Road to PARTIZAN 04: Armour Astir Pt. 2 — speakers: Armour Astir Pt, Carrier Hellebore, Austin Walker, Janine Hawkins, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora
-- 2019-10-19 — The Road to PARTIZAN 03: Armour Astir Pt. 1 — speakers: Armour Astir Pt, Armour Astir, PbtA mech, Mobile Suit Gundam, Art Maritnez-Tebbel, Andi Clare, Teasel Mode, Janine Hawkins, Austin Walker
-- 2019-10-11 — The Road to PARTIZAN 02: Dialect Pt. 2 — speakers: Miraculous Millennium, Austin Walker, Janine Hawkins, Andrew Lee Swan, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2019-10-03 — The Road to PARTIZAN 01: Dialect Pt. 1 — speakers: Beam Saber, Austin Ramsay, Kathryn Hymes, Hakan Seyalioglu, Hyphan Strand, Austin Walker, Janine Hawkins, Andrew Lee Swan
-- 2019-09-27 — Announcing: PARTIZAN (And Some New Merch!) — speakers: Hieron Cover Art Prints, Craig Sheldon Fall, Simon Sweetman, Austin Walker
-- 2019-09-19 — Spring in Hieron Post Mortem (Read the post!) — speakers: Beam Saber, Simon Sweetman, Craig Sheldon, Austin Walker
-- 2019-09-11 — Spring in Hieron 44: The Second Spring Pt. 6 — speakers: Semiotician Emeritus Uklan Tel, Devareaux van der, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-09-06 — Spring in Hieron 43: The Second Spring Pt. 5 — speakers: Marisol Sweetwater, Devareaux van der, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-08-30 — Spring in Hieron 42: The Second Spring Pt. 4 — speakers: Grey Duke, Devareaux van der, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-08-23 — Spring in Hieron 41: The Second Spring Pt. 3 — speakers: Devareaux van der, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2019-08-16 — Spring in Hieron 40: The Second Spring Pt. 2 — speakers: Corsica Neue, Devareaux van der, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-08-09 — Spring in Hieron 39: The Second Spring Pt. 1 — speakers: Red Jack, Devareaux van, Dawes Hosted, Austin Walker, Andrew Lee Swan, Slyvi Clare, Art Martinez-Tebbel, Ali Acampora
-- 2019-07-31 — Friends at the Table @ Gen Con this week!! — speakers: Gen Con, Shut Down, Austin Walker
-- 2019-07-27 — Spring in Hieron 38: See Where You're Standing — speakers: Repose Hosted, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2019-07-19 — Spring in Hieron 37: Ingenuity and Love — speakers: Fela Malle, Repose Hosted, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Janine Hawkins
-- 2019-07-12 — Spring in Hieron 36: Terrible and Necessary — speakers: Repose Hosted, Austin Walker, Sylvi Clare, Jack de Quidt, Nick Scratch, Ali Acampora, Cover Art, Craig Sheldon
-- 2019-07-05 — Spring in Hieron 35: Unfinished Work — speakers: Whomever Slays, Repose Hosted, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Janine Hawkins
-- 2019-06-28 — Spring in Hieron 34: The Variation of Natural Life — speakers: Austin Walker, Sylvi Clare, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2019-06-14 — Spring in Hieron 33: Particular Malice — speakers: Long Sands, Old Man, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-06-07 — Spring in Hieron 32: Insurmountable Odds — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2019-05-31 — Spring in Hieron 31: A Handful of People — speakers: Austin Walker, Janine Hawkins, Andi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2019-05-24 — Spring in Hieron 30: A Safer Second — speakers: Austin Walker, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
-- 2019-05-18 — Spring in Hieron 29: Deeper Than Flesh — speakers: Lem King, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Austin Walker Cover Art, Craig Sheldon
-- 2019-05-16 — Merch Available on Fangamer & Gen Con Tickets On Sale Sunday!!! — speakers: Gen Con, Austin Walker
-- 2019-05-10 — Spring in Hieron 28: Significant Concern — speakers: Austin Walker, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
-- 2019-05-03 — Spring in Hieron 27: A Place and A Time — speakers: Lem King, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
+- 2021-03-18 — Sangfielle 02: The Curse of Eastern Folly Pt. 2 — speakers: Austin Walker
+- 2021-03-11 — Sangfielle 01: The Curse of Eastern Folly Pt. 1 — speakers: Austin Walker
+- 2021-03-05 — Season 7 Trailer & Announcement — speakers: Announcement People, Austin Walker
+- 2021-02-05 — PARTIZAN 48: Post Mortem — speakers: Austin Walker, Ali Acampora, Sylvia Clare, Jack de Quidt
+- 2021-01-22 — PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do — speakers: Austin Walker
+- 2021-01-15 — PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate — speakers: Austin Walker
+- 2021-01-07 — PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray — speakers: Operation Shackled Sun, Perfect Millennium, Austin Walker
+- 2020-12-24 — See you next year!! — speakers: Austin Walker
+- 2020-12-17 — PARTIZAN 44: The Prison at the Top of the World — speakers: Stel Kesh, Austin Walker
+- 2020-12-11 — PARTIZAN 43: The Tunnels Beneath — speakers: Chasmata Quarry, Austin Walker
+- 2020-12-04 — PARTIZAN 42: The Unbreakable Quarry — speakers: Divine Past, Austin Walker
+- 2020-11-19 — PARTIZAN 41: Orbital Decay — speakers: Orbital Decay, Austin Walker
+- 2020-11-12 — PARTIZAN 40: Engine Burn — speakers: Austin Walker
+- 2020-11-06 — PARTIZAN 39: Escape Velocity — speakers: Mera Broun, Jesset City, Million Blue, Austin Walker
+- 2020-10-24 — PARTIZAN 38: The Red Light — speakers: Austin Walker
+- 2020-10-17 — PARTIZAN 37: The Gravity of Absence — speakers: Absence Having, Reflecting Pool, Sovereign Immunity, Austin Walker
+- 2020-10-08 — PARTIZAN 36: The Witch in the Glass Pt. 2 — speakers: Austin Walker
+- 2020-10-02 — PARTIZAN 35: The Witch in the Glass Pt. 1 — speakers: Austin Walker
+- 2020-09-25 — PARTIZAN 34: Guests, Invited and Otherwise — speakers: Otherwise After, Austin Walker
+- 2020-09-17 — PARTIZAN 33: A Single Shot — speakers: Single Shot Inside, High Altar, Austin Walker
+- 2020-09-12 — PARTIZAN 32: GLORY Arrives — speakers: Austin Walker
+- 2020-09-03 — PARTIZAN 31: The Grand Premiere — speakers: Millennium Break, Austin Walker
+- 2020-08-27 — PARTIZAN 30: A Cemetery for Heroes — speakers: Heroes Content Warnings, Violence During, Public Event, Austin Walker
+- 2020-08-21 — PARTIZAN 29: Buried Beneath Golden Leaves — speakers: Millennium Break, Austin Walker
+- 2020-08-03 — Bonus Episode: Sports Are Just Numerology — speakers: Austin Walker
+- 2020-07-24 — PARTIZAN 28: Millennium Break: The Storm Over Cruciat — speakers: Millennium Break, Austin Walker
+- 2020-07-17 — PARTIZAN 27: Millennium Break: She said, "To Win We Must Play!" — speakers: Millennium Break, Austin Walker
+- 2020-07-10 — PARTIZAN 26: Millennium Break: Breaking Vigil — speakers: Millennium Break, Austin Walker
+- 2020-07-03 — PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity — speakers: Millennium Break Courage, Austin Walker
+- 2020-06-26 — PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh — speakers: Millennium Break, Austin Walker
+- 2020-06-19 — PARTIZAN 23: Millennium Break: Who Will Lead Millennium Break? — speakers: Millennium Break, Austin Walker
+- 2020-06-11 — PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas) — speakers: Millenium Break Forward, Austin Walker
+- 2020-06-05 — PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History! — speakers: Millennium Break, Austin Walker
+- 2020-05-15 — PARTIZAN 20: On the Eve of Revolution — speakers: Kesh first kicked off, Austin Walker
+- 2020-05-08 — PARTIZAN 19: On the Edge of Fracture — speakers: Fracture After, Bright Returns, Austin Walker
+- 2020-05-01 — PARTIZAN 18: BITTER AIR - COMBUSTION — speakers: Divine Motion, Austin Walker
+- 2020-04-25 — PARTIZAN 17: BITTER AIR - THREECARD — speakers: Austin Walker
+- 2020-04-17 — PARTIZAN 16: BITTER AIR - BEHEST — speakers: Austin Walker
+- 2020-04-10 — PARTIZAN 15: Divine Attention — speakers: Divine Attention Content Warning, Austin Walker
+- 2020-04-03 — PARTIZAN 14: Deception in the Canyon City — speakers: Austin Walker
+- 2020-03-27 — PARTIZAN 13: A Captive Audience — speakers: Austin Walker
+- 2020-03-19 — PARTIZAN 12: A Call From an Island — speakers: Gur Sevraq, Austin Walker
+- 2020-03-06 — PARTIZAN 11: DESERT SQUIRE - SLEIGHT — speakers: Desert Squire Sleight, Austin Walker
+- 2020-02-28 — PARTIZAN 10: DESERT SQUIRE - RIPOSTE — speakers: Desert Squire Riposte, Austin Walker
+- 2020-02-22 — PARTIZAN 09: DESERT SQUIRE - VANTAGE — speakers: Desert Squire Vantage, Austin Walker
+- 2020-02-14 — PARTIZAN 08: Under the Boughs of the Court — speakers: Austin Walker
+- 2020-02-07 — PARTIZAN 07: Ambush in the Sand — speakers: Sand Before Cymbidium, Austin Walker
+- 2020-01-31 — PARTIZAN 06: A Palace During a Wake — speakers: Palace During, Wake After, Divine Past, Elect Cymb, Austin Walker
+- 2020-01-24 — PARTIZAN 05: Profit and Loss — speakers: Bright Returns, Austin Walker
+- 2020-01-17 — PARTIZAN 04: SHORESIDE RECOVERY - BLACKGLOVES — speakers: Austin Walker
+- 2020-01-10 — PARTIZAN 03: SHORESIDE RECOVERY - DINNERDATE — speakers: Austin Walker
+- 2020-01-03 — PARTIZAN 02: Obelle, On Fire — speakers: Austin Walker
+- 2019-12-26 — PARTIZAN 01: The Seaside Town of Obelle — speakers: Bright Returns, Austin Walker
+- 2019-12-19 — PARTIZAN 00: The Divine Principality — speakers: Perfect Millennium, Divine Princ, Austin Walker
+- 2019-12-13 — The Road to PARTIZAN 11: Summary & Recap — speakers: Austin Walker
+- 2019-12-05 — The Road to PARTIZAN 10: Microscope Pt. 2 — speakers: Microscope Pt, Austin Walker
+- 2019-11-30 — The Road to PARTIZAN 09: Microscope Pt. 1 — speakers: Microscope Pt, Austin Walker
+- 2019-11-22 — The Road to PARTIZAN 08: For the Queen — speakers: Alex Roberts, Evil Hat Productions, Austin Walker
+- 2019-11-15 — The Road to PARTIZAN 07: Beam Saber Pt. 2 — speakers: Beam Saber Pt, Divine Princ, Austin Walker
+- 2019-11-08 — The Road to PARTIZAN 06: Beam Saber Pt. 1 — speakers: Austin Walker
+- 2019-11-01 — The Road to PARTIZAN 05: Ech0 & Dusk to Midnight — speakers: Midnight Welcome, Austin Walker
+- 2019-10-26 — The Road to PARTIZAN 04: Armour Astir Pt. 2 — speakers: Armour Astir Pt, Carrier Hellebore, Austin Walker
+- 2019-10-19 — The Road to PARTIZAN 03: Armour Astir Pt. 1 — speakers: Armour Astir Pt, Armour Astir, Austin Walker
+- 2019-10-11 — The Road to PARTIZAN 02: Dialect Pt. 2 — speakers: Austin Walker
+- 2019-10-03 — The Road to PARTIZAN 01: Dialect Pt. 1 — speakers: Dialect Pt, Twilight Mirage, Austin Walker
+- 2019-09-27 — Announcing: PARTIZAN (And Some New Merch!) — speakers: Austin Walker
+- 2019-09-19 — Spring in Hieron Post Mortem (Read the post!) — speakers: Austin Walker
+- 2019-09-11 — Spring in Hieron 44: The Second Spring Pt. 6 — speakers: Frost Shepherd, Austin Walker
+- 2019-09-06 — Spring in Hieron 43: The Second Spring Pt. 5 — speakers: Austin Walker
+- 2019-08-30 — Spring in Hieron 42: The Second Spring Pt. 4 — speakers: Austin Walker
+- 2019-08-23 — Spring in Hieron 41: The Second Spring Pt. 3 — speakers: Austin Walker
+- 2019-08-16 — Spring in Hieron 40: The Second Spring Pt. 2 — speakers: Austin Walker
+- 2019-08-09 — Spring in Hieron 39: The Second Spring Pt. 1 — speakers: Austin Walker
+- 2019-07-31 — Friends at the Table @ Gen Con this week!! — speakers: Gen Con, Austin Walker
+- 2019-07-27 — Spring in Hieron 38: See Where You're Standing — speakers: Standing Across, Last University, Austin Walker
+- 2019-07-19 — Spring in Hieron 37: Ingenuity and Love — speakers: First Light, Ordennan Impetus, Austin Walker
+- 2019-07-12 — Spring in Hieron 36: Terrible and Necessary — speakers: Last University, Austin Walker
+- 2019-07-05 — Spring in Hieron 35: Unfinished Work — speakers: Austin Walker
+- 2019-06-28 — Spring in Hieron 34: The Variation of Natural Life — speakers: Natural Life Victorious, Last Universit, Austin Walker
+- 2019-06-14 — Spring in Hieron 33: Particular Malice — speakers: Particular Malice Weeks, Austin Walker
+- 2019-06-07 — Spring in Hieron 32: Insurmountable Odds — speakers: Last University, Austin Walker
+- 2019-05-31 — Spring in Hieron 31: A Handful of People — speakers: Last University, Austin Walker
+- 2019-05-24 — Spring in Hieron 30: A Safer Second — speakers: Safer Second Above, Alcyonic Sea, Austin Walker
+- 2019-05-18 — Spring in Hieron 29: Deeper Than Flesh — speakers: Austin Walker
+- 2019-05-16 — Merch Available on Fangamer & Gen Con Tickets On Sale Sunday!!! — speakers: Merch Available, Sale Sunday, Austin Walker
+- 2019-05-10 — Spring in Hieron 28: Significant Concern — speakers: Austin Walker
+- 2019-05-03 — Spring in Hieron 27: A Place and A Time — speakers: Time Many, Last University, Austin Walker
 - 2019-04-26 — Spring in Hieron 26: An Attractive Offer — speakers: Last University, Austin Walker
-- 2019-04-19 — Spring in Hieron 25: The Second Sun — speakers: Adaire Ducarte, Red Jack, Lem King, Austin Walker, Janine Hawkins, Andi Clare, Ali Acampora, Art Martinez-Tebbel
-- 2019-04-12 — Spring in Hieron 24: Closer to Kin — speakers: Austin Walker, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
+- 2019-04-19 — Spring in Hieron 25: The Second Sun — speakers: Last University, Austin Walker
+- 2019-04-12 — Spring in Hieron 24: Closer to Kin — speakers: Kin Far, Last University, Austin Walker
 - 2019-04-05 — Spring in Hieron 23: The Heat Will Warm Your Bones — speakers: Austin Walker
-- 2019-03-22 — Spring in Hieron 22: Better Every Time — speakers: Austin Walker, Andrew Lee Swan, Slyvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2019-03-15 — Spring in Hieron 21: A Fountain of Information — speakers: Lem King, Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
-- 2019-03-08 — Spring in Hieron 20: Passing of Voices — speakers: Austin Walker, Andrew Lee Swan, Slyvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2019-03-01 — Spring in Hieron 19: A Night Like Tonight — speakers: Austin Walker, Janine Hawkins, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
-- 2019-02-23 — Spring in Hieron 18: A Simple Answer — speakers: Blake Bromley, Synchronous Transmission, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2019-02-15 — Spring in Hieron 17: A Desire to Live — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Cover Art
-- 2019-02-01 — Spring in Hieron 16: Music Through A Wall — speakers: Austin Walker, Ali Acampora, Jack de Quidt, Cover Art, Craig Sheldon
-- 2019-01-25 — Spring in Hieron 15: The Breath of Hieron — speakers: Hieron Himself, Austin Walker, Janine Hawkins, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2019-01-18 — Spring in Hieron 14: Neighbors To Be Made — speakers: Lem King, Fero Feritas, Austin Walker, Ali Acampora, Jack de Quidt, Craig Sheldon
-- 2019-01-11 — Spring in Hieron 13: The Time of Gods — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2019-01-04 — Spring in Hieron 12: Long Promises — speakers: Lem King, Austin Walker, Ali Acampora, Jack de Quidt, Craig Sheldon
-- 2018-12-21 — Spring in Hieron 11: Cut Off the Head — speakers: Austin Walker, Janine Hawkins, Andi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2018-12-13 — Spring in Hieron 10: Who Vouches? — speakers: Lem King, Austin Walker, Ali Acampora, Jack de Quidt, Craig Sheldon
-- 2018-12-06 — Spring in Hieron 09: A Certain Way — speakers: Austin Walker, Janine Hawkins, Andi Clare, Art Martinez-Tebbel, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2018-11-29 — Spring in Hieron 08: Sympathetic Objects — speakers: Lem King, Fero Feritas, Austin Walker, Ali Acampora, Jack de Quidt, Craig Sheldon
-- 2018-11-22 — Spring in Hieron 07: Structure and Purpose — speakers: Austin Walker
-- 2018-11-16 — Spring in Hieron 06: Something You've Practiced — speakers: Lem King, Austin Walker, Janine Hawkins, Andi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2018-11-09 — Spring in Hieron 05: Try To Live a Good Life — speakers: Austin Walker, Janine Hawkins, Andi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-11-02 — Spring in Hieron 04: Material Effort — speakers: Austin Walker, Janine Hawkins, Andi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-10-26 — Spring in Hieron 03: Hospitable to You — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-10-20 — Spring in Hieron 02: Why Are You Here? — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-10-11 — Spring in Hieron 01: The Touch of Others — speakers: Golden Lance Throndir, Red Jack, Corsica Neue, Devar van der Dawes, Uklan Tel, Emanuel LaSalle, Mee Kosh, Balion Wythe, Austin Walker
-- 2018-10-10 — Spring in Hieron 00: What Came Before — speakers: Lem King, Elfish Ranger, Austin Walker, Andrew Lee Swan, Slyvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon
-- 2018-09-28 — Live at the Table - Fall of Magic 3 — speakers: Janine Hawkins, Andrew Lee Swan, Austin Walker, Jack de Quidt
-- 2018-09-20 — Live at the Table - Fall of Magic Pt 2 — speakers: Austin Walker
+- 2019-03-22 — Spring in Hieron 22: Better Every Time — speakers: Austin Walker
+- 2019-03-15 — Spring in Hieron 21: A Fountain of Information — speakers: New Zealand, Austin Walker
+- 2019-03-08 — Spring in Hieron 20: Passing of Voices — speakers: Austin Walker
+- 2019-03-01 — Spring in Hieron 19: A Night Like Tonight — speakers: Austin Walker
+- 2019-02-23 — Spring in Hieron 18: A Simple Answer — speakers: Simple Answer Across, Last University, Austin Walker
+- 2019-02-15 — Spring in Hieron 17: A Desire to Live — speakers: Last University, Austin Walker
+- 2019-02-01 — Spring in Hieron 16: Music Through A Wall — speakers: Austin Walker
+- 2019-01-25 — Spring in Hieron 15: The Breath of Hieron — speakers: Hieron Content Warnings, Austin Walker
+- 2019-01-18 — Spring in Hieron 14: Neighbors To Be Made — speakers: Austin Walker
+- 2019-01-11 — Spring in Hieron 13: The Time of Gods — speakers: Gods Content Warnings, Austin Walker
+- 2019-01-04 — Spring in Hieron 12: Long Promises — speakers: Lem King, Austin Walker
+- 2018-12-21 — Spring in Hieron 11: Cut Off the Head — speakers: Cut Off, Austin Walker
+- 2018-12-13 — Spring in Hieron 10: Who Vouches? — speakers: Lem King, Austin Walker
+- 2018-12-06 — Spring in Hieron 09: A Certain Way — speakers: Certain Way All, Last University, Austin Walker
+- 2018-11-29 — Spring in Hieron 08: Sympathetic Objects — speakers: Golden Lance, Austin Walker
+- 2018-11-22 — Spring in Hieron 07: Structure and Purpose — speakers: Last University, Austin Walker
+- 2018-11-16 — Spring in Hieron 06: Something You've Practiced — speakers: Hella Varal, Austin Walker
+- 2018-11-09 — Spring in Hieron 05: Try To Live a Good Life — speakers: Austin Walker
+- 2018-11-02 — Spring in Hieron 04: Material Effort — speakers: Austin Walker
+- 2018-10-26 — Spring in Hieron 03: Hospitable to You — speakers: Austin Walker
+- 2018-10-20 — Spring in Hieron 02: Why Are You Here? — speakers: Austin Walker
+- 2018-10-11 — Spring in Hieron 01: The Touch of Others — speakers: Austin Walker
+- 2018-10-10 — Spring in Hieron 00: What Came Before — speakers: Austin Walker
+- 2018-09-28 — Live at the Table - Fall of Magic 3 — speakers: Austin Walker
+- 2018-09-20 — Live at the Table - Fall of Magic Pt 2 — speakers: Magic Pt, Austin Walker
 - 2018-09-14 — Live at the Table - Fall of Magic Pt 1 — speakers: Austin Walker
-- 2018-09-10 — Twilight Mirage 68: The Twilight Mirage Post Mortem — speakers: Sit Down, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan
-- 2018-08-30 — Twilight Mirage 67: Futura Free Pt. 4 — speakers: Futura Free Pt, Off Cycle, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2018-08-24 — Twilight Mirage 66: Futura Free Pt. 3 — speakers: Futura Free Pt, Qui Err, Grand Magnficent, Off Cycle, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora
-- 2018-08-17 — Twilight Mirage 65: Futura Free Pt. 2 — speakers: Futura Free Pt, Off Cycle, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2018-08-10 — Twilight Mirage 64: Futura Free Pt. 1 — speakers: Futura Free Pt, Err Coalition, Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt
-- 2018-08-03 — Twilight Mirage 63: Guaranteed Events, Or: An Accounting of the Time When We Built the Machine — speakers: Austin Walker, Jack de Quidt, Cover Art, Craig Sheldon
-- 2018-07-27 — Twilight Mirage 62: The Feast of Patina — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-07-20 — Twilight Mirage 61: The Restitution of All Things Pt. 2 — speakers: Grand Magnificent, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2018-07-12 — Twilight Mirage 60: The Restitution of All Things Pt. 1 — speakers: Qui Err, Austin Walker, Art Martinez-Tebbel, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2018-07-06 — Twilight Mirage 59: The Siege of the Lineage Brighton Pt. 3 — speakers: Ballad Reverie, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-06-29 — Twilight Mirage 58: The Siege of the Lineage Brighton Pt. 2 — speakers: Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-06-22 — Twilight Mirage 57: The Siege of the Lineage Brighton Pt. 1 — speakers: Brighton Lineage, Echo Reverie, Kent Brighton, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2018-06-15 — Twilight Mirage 56: The Vault of Anticipation Pt. 2 — speakers: Phive Amala, Tender Sky, Austin Walker, Janine Hawkins, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-06-08 — Twilight Mirage 55: The Vault of Anticipation Pt. 1 — speakers: Tender Sky, Austin Walker, Janine Hawkins, Ali Acampora, Craig Sheldon
-- 2018-06-01 — Twilight Mirage 54: Downtime on Skein — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-05-25 — Twilight Mirage 53: Our Flaws in a Vacuum, or the Promise We Made To Each Other — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-05-18 — Twilight Mirage 52: The Second Miracle — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Cover Art, Craig Sheldon
-- 2018-05-10 — Twilight Mirage 51: Open As Possible — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-05-05 — Twilight Mirage 50: A Very Old Mistake — speakers: Saint Wynter, Echo Reverie, Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Cover Art
-- 2018-04-28 — Twilight Mirage 49: Bona Fide, Good Faith — speakers: Bona Fide, Good Faith Determined, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-04-20 — Twilight Mirage 48: This Place Pushes Back — speakers: Saint Wynter, Echo Reverie, Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2018-04-13 — Twilight Mirage 47: Uncontrolled Fires — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-04-06 — Twilight Mirage 46: Every Time We Leave, It Changes — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2018-03-30 — Twilight Mirage 45: Downtime on Gift-3 — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2018-03-23 — Twilight Mirage 44: The Pathways in the Woods — speakers: Tannoy Kajj, Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-03-16 — Twilight Mirage 43: The Center of the Storm — speakers: Kitcha Kanna, Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-03-08 — Twilight Mirage 42: Look the Other Way — speakers: Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-03-02 — Twilight Mirage 41: No Value in a Closed Door — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-02-23 — Twilight Mirage 40: Like What We Used To Do — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-02-15 — Twilight Mirage 39: Staying Neutral — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-02-09 — Twilight Mirage 38: The Good Decision — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-02-02 — Twilight Mirage 37: Along A Route — speakers: Austin Walker, Janine Hawkins, Sylvi Clare, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-26 — Twilight Mirage 36: Every Bad Idea — speakers: Tender Sky, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Jack de Quidt, Craig Sheldon
-- 2018-01-19 — Twilight Mirage 35: This Year of Ours: The Notion — speakers: Record MD-Gloaming, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan
-- 2018-01-17 — Twilight Mirage 34: This Year of Ours: The Mystic — speakers: Austin Walker, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-16 — Twilight Mirage 33: This Year of Ours: The Speaker — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Craig Sheldon
-- 2018-01-15 — Twilight Mirage 32: This Year of Ours: The Stitch — speakers: Austin Walker, Janine Hawkins, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-14 — Twilight Mirage 31: This Year of Ours: The Mechanic — speakers: Kent Brighton, Austin Walker, Keith Carberry, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-13 — Twilight Mirage 30: This Year of Ours: The Muscle — speakers: Annex Iota Pretense, Qui Err Vi Qi-Em, Austin Walker, Sylvi Clare, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-12 — Twilight Mirage 29: This Year of Ours: The Pilot — speakers: Amp Runner, Austin Walker, Andrew Lee Swan, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-11 — Twilight Mirage 28: This Year of Ours: The Scoundrel — speakers: Divine Free States, Austin Walker, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2018-01-06 — Twilight Mirage 27: The Miracle of the Mirage: The Siege — speakers: Sui Juris, Pure Cascara, Echo Reverie, Callum Enli, Sierra Sienna, Austin Walker, Keith Carberry, Sylvi Clare
-- 2017-12-29 — Twilight Mirage 26: The Miracle of the Mirage: The Heist — speakers: Sui Juris, Sho Salon, Tender Sky, Siela Shade, Demani Dusk, Grey Gloaming, Austin Walker, Ali Acampora
-- 2017-12-21 — Twilight Mirage 25: The Miracle of the Mirage: The Dragon — speakers: Sui Juris, Korrin Kim, Even Gardner, Grand Magnificent, Activation Stevenson, Count Aram Nideo, Austin Walker, Art Tebbel
+- 2018-09-10 — Twilight Mirage 68: The Twilight Mirage Post Mortem — speakers: Twilight Mirage, Austin Walker
+- 2018-08-30 — Twilight Mirage 67: Futura Free Pt. 4 — speakers: Futura Free Pt, Austin Walker
+- 2018-08-24 — Twilight Mirage 66: Futura Free Pt. 3 — speakers: Futura Free Pt, Austin Walker
+- 2018-08-17 — Twilight Mirage 65: Futura Free Pt. 2 — speakers: Futura Free Pt, Austin Walker
+- 2018-08-10 — Twilight Mirage 64: Futura Free Pt. 1 — speakers: Futura Free Pt, Austin Walker
+- 2018-08-03 — Twilight Mirage 63: Guaranteed Events, Or: An Accounting of the Time When We Built the Machine — speakers: Twilight Mirage, Guaranteed Events, Machine Crystal Palace, Austin Walker
+- 2018-07-27 — Twilight Mirage 62: The Feast of Patina — speakers: Twilight Mirage, Austin Walker
+- 2018-07-20 — Twilight Mirage 61: The Restitution of All Things Pt. 2 — speakers: Twilight Mirage, All Things Pt, Austin Walker
+- 2018-07-12 — Twilight Mirage 60: The Restitution of All Things Pt. 1 — speakers: Austin Walker
+- 2018-07-06 — Twilight Mirage 59: The Siege of the Lineage Brighton Pt. 3 — speakers: Twilight Mirage, Lineage Brighton Pt, Austin Walker
+- 2018-06-29 — Twilight Mirage 58: The Siege of the Lineage Brighton Pt. 2 — speakers: Austin Walker
+- 2018-06-22 — Twilight Mirage 57: The Siege of the Lineage Brighton Pt. 1 — speakers: Brighton Lineage, Austin Walker
+- 2018-06-15 — Twilight Mirage 56: The Vault of Anticipation Pt. 2 — speakers: Twilight Mirage, Anticipation Pt, Divine Pler, Austin Walker
+- 2018-06-08 — Twilight Mirage 55: The Vault of Anticipation Pt. 1 — speakers: Austin Walker
+- 2018-06-01 — Twilight Mirage 54: Downtime on Skein — speakers: Twilight Mirage, Second Miracle, Austin Walker
+- 2018-05-25 — Twilight Mirage 53: Our Flaws in a Vacuum, or the Promise We Made To Each Other — speakers: Twilight Mirage, Each Other Despite, Austin Walker
+- 2018-05-18 — Twilight Mirage 52: The Second Miracle — speakers: Twilight Mirage, Austin Walker
+- 2018-05-10 — Twilight Mirage 51: Open As Possible — speakers: Austin Walker
+- 2018-05-05 — Twilight Mirage 50: A Very Old Mistake — speakers: Twilight Mirage, Very Old Mistake Across, Austin Walker
+- 2018-04-28 — Twilight Mirage 49: Bona Fide, Good Faith — speakers: Bona Fide, Good Faith Determined, Austin Walker
+- 2018-04-20 — Twilight Mirage 48: This Place Pushes Back — speakers: Twilight Mirage, Austin Walker
+- 2018-04-13 — Twilight Mirage 47: Uncontrolled Fires — speakers: Twilight Mirage, Austin Walker
+- 2018-04-06 — Twilight Mirage 46: Every Time We Leave, It Changes — speakers: Twilight Mirage, Austin Walker
+- 2018-03-30 — Twilight Mirage 45: Downtime on Gift-3 — speakers: what went, Austin Walker
+- 2018-03-23 — Twilight Mirage 44: The Pathways in the Woods — speakers: Austin Walker
+- 2018-03-16 — Twilight Mirage 43: The Center of the Storm — speakers: Twilight Mirage, Storm Deep, Austin Walker
+- 2018-03-08 — Twilight Mirage 42: Look the Other Way — speakers: Austin Walker
+- 2018-03-02 — Twilight Mirage 41: No Value in a Closed Door — speakers: Austin Walker
+- 2018-02-23 — Twilight Mirage 40: Like What We Used To Do — speakers: Twilight Mirage, Austin Walker
+- 2018-02-15 — Twilight Mirage 39: Staying Neutral — speakers: Twilight Mirage, Staying Neutral Having, Austin Walker
+- 2018-02-09 — Twilight Mirage 38: The Good Decision — speakers: Twilight Mirage, Big Garage Co, Working Tower, Gig Kep, Austin Walker
+- 2018-02-02 — Twilight Mirage 37: Along A Route — speakers: Twilight Mirage, Route Deep, Austin Walker
+- 2018-01-26 — Twilight Mirage 36: Every Bad Idea — speakers: Twilight Mirage, Every Bad Idea Newly, Austin Walker
+- 2018-01-19 — Twilight Mirage 35: This Year of Ours: The Notion — speakers: Twilight Mirage, Austin Walker
+- 2018-01-17 — Twilight Mirage 34: This Year of Ours: The Mystic — speakers: Twilight Mirage, Ace Pilot, New Earth Heg, Austin Walker
+- 2018-01-16 — Twilight Mirage 33: This Year of Ours: The Speaker — speakers: Twilight Mirage, Red Equity, Golden Clause, Austin Walker
+- 2018-01-15 — Twilight Mirage 32: This Year of Ours: The Stitch — speakers: Twilight Mirage, Austin Walker
+- 2018-01-14 — Twilight Mirage 31: This Year of Ours: The Mechanic — speakers: Kent Brighton, Austin Walker
+- 2018-01-13 — Twilight Mirage 30: This Year of Ours: The Muscle — speakers: Annex Iota Pretense, Austin Walker
+- 2018-01-12 — Twilight Mirage 29: This Year of Ours: The Pilot — speakers: Austin Walker
+- 2018-01-11 — Twilight Mirage 28: This Year of Ours: The Scoundrel — speakers: Twilight Mirage, Grey Gloaming, Austin Walker
+- 2018-01-06 — Twilight Mirage 27: The Miracle of the Mirage: The Siege — speakers: Twilight Mirage, Austin Walker
+- 2017-12-29 — Twilight Mirage 26: The Miracle of the Mirage: The Heist — speakers: Austin Walker
+- 2017-12-21 — Twilight Mirage 25: The Miracle of the Mirage: The Dragon — speakers: Austin Walker
 - 2017-12-15 — Live at the Table Teaser: Misspent Youth — speakers: Austin Walker
-- 2017-12-09 — Twilight Mirage 24: godspeed, glory Pt. 3 — speakers: Bc Blue Path, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan
-- 2017-12-01 — Twilight Mirage 23: godspeed, glory Pt. 2 — speakers: fuckin headass, Klipsch-Dove Hosted, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare
-- 2017-11-25 — Twilight Mirage 22: godspeed, glory Pt. 1 — speakers: Utopias Dystopias, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan
-- 2017-11-24 — Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1 — speakers: Craig Sheldon, Austin Walker, Sylvi Clare, Andrew Lee Swan, Janine Hawkins, Jack de Quidt, Ali Acampora
-- 2017-11-18 — Twilight MIrage 21: One's Own Right — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-11-10 — Twilight Mirage 20: Bits Left Behind — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-11-04 — Twilight Mirage 19: A Single Moment, Caught — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-10-27 — Twilight Mirage 18: The Sun Pales to Its Brightness — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-10-20 — Twilight Mirage 17: Like Falling Leaves — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-10-13 — Twilight Mirage 16: An Approximation of a Connection — speakers: Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2017-10-06 — Twilight Mirage 15: A Life and A History — speakers: Echo Reverie, Saint Glass, Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon
-- 2017-09-29 — Twilight Mirage 14: The Value of Distance — speakers: Echo Reverie, Berry Glistening, Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon
-- 2017-09-22 — Twilight Mirage 13: An Instinct Without A Word — speakers: Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2017-09-15 — Twilight Mirage 12: The Promise of Presence — speakers: Doyenne Undela Apogica, Grand Magnificent, Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon
-- 2017-09-08 — Twilight Mirage 11: What We're Capable Of — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-09-01 — Twilight Mirage 10: Looking To Land — speakers: Aura Antigua, Sho Salon, Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-08-25 — Twilight Mirage 09: The Sound of Strings — speakers: Tender Sky, Sho Salon, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-08-18 — Twilight Mirage 08: We are the River, And it is the Sea — speakers: Sho Salon, Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-08-11 — Twilight Mirage 07: Second Street Drifting — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-08-04 — Twilight Mirage 06: We Want You To Come Home — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-07-27 — Twilight Mirage 05: The Sunlight of Knowing — speakers: Austin Walker, Andrew Lee Swan, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
+- 2017-12-09 — Twilight Mirage 24: godspeed, glory Pt. 3 — speakers: Twilight Mirage, Austin Walker
+- 2017-12-01 — Twilight Mirage 23: godspeed, glory Pt. 2 — speakers: Twilight Mirage, Stellar Coriolis, Resonant Orbit, Though Kamala, Austin Walker
+- 2017-11-25 — Twilight Mirage 22: godspeed, glory Pt. 1 — speakers: Twilight Mirage, Stellar Coriolis, Resonant Orbit, Austin Walker
+- 2017-11-24 — Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1 — speakers: Bluff City, Bowling Alley, Bird Pt, Austin Walker
+- 2017-11-18 — Twilight MIrage 21: One's Own Right — speakers: Austin Walker
+- 2017-11-10 — Twilight Mirage 20: Bits Left Behind — speakers: Austin Walker
+- 2017-11-04 — Twilight Mirage 19: A Single Moment, Caught — speakers: Austin Walker
+- 2017-10-27 — Twilight Mirage 18: The Sun Pales to Its Brightness — speakers: Twilight Mirage, Beloved Dust, Austin Walker
+- 2017-10-20 — Twilight Mirage 17: Like Falling Leaves — speakers: Twilight Mirage, Like Falling Leaves Two, Gig Kep, Austin Walker
+- 2017-10-13 — Twilight Mirage 16: An Approximation of a Connection — speakers: Twilight Mirage, Sculpture City, Divine Fleet, Austin Walker
+- 2017-10-06 — Twilight Mirage 15: A Life and A History — speakers: Twilight Mirage, Sculpture City, Austin Walker
+- 2017-09-29 — Twilight Mirage 14: The Value of Distance — speakers: Austin Walker
+- 2017-09-22 — Twilight Mirage 13: An Instinct Without A Word — speakers: Twilight Mirage, Word After, Austin Walker
+- 2017-09-15 — Twilight Mirage 12: The Promise of Presence — speakers: Doyenne Undela Apogica, Austin Walker
+- 2017-09-08 — Twilight Mirage 11: What We're Capable Of — speakers: Austin Walker
+- 2017-09-01 — Twilight Mirage 10: Looking To Land — speakers: Twilight Mirage, Austin Walker
+- 2017-08-25 — Twilight Mirage 09: The Sound of Strings — speakers: Twilight Mirage, Strings Driven, Beloved Dust, Austin Walker
+- 2017-08-18 — Twilight Mirage 08: We are the River, And it is the Sea — speakers: Twilight Mirage, Beloved Dust, Austin Walker
+- 2017-08-11 — Twilight Mirage 07: Second Street Drifting — speakers: Austin Walker
+- 2017-08-04 — Twilight Mirage 06: We Want You To Come Home — speakers: Twilight Mirage, Come Home Days, Divine Fleet, Austin Walker
+- 2017-07-27 — Twilight Mirage 05: The Sunlight of Knowing — speakers: Austin Walker
 - 2017-07-27 — Bluff City Teaser — speakers: Bluff City Teaser, Bluff City, Austin Walker
-- 2017-07-20 — Twilight Mirage 04: Birds of Prey — speakers: Arthur Martinez-Tebbel, Echo Reverie, Andi Clare, Andrew Lee Swan, Austin Walker, Sylvi Clare, Art Martinez-Tebbel, Ali Acampora
-- 2017-07-14 — Twilight Mirage 03: The Planet of Quire — speakers: Andrew Lee Swan, Andi Clare, Art Martinez-Tebbel, Austin Walker, Sylvi Clare, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2017-07-07 — Twilight Mirage 02: The Last Divine — speakers: Jack de Quidt, Janine Hawkins, Tender Sky, Alicia Acampora, Austin Walker, Ali Acampora, Craig Sheldon
-- 2017-06-30 — Twilight Mirage 01: The Beloved Dust — speakers: Tender Sky, Austin Walker, Ali Acampora, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-06-29 — Twilight Mirage 00: The Final Eight Divines — speakers: Kamala Cadence, Austin Walker, Andrew Lee Swan, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt
-- 2017-06-28 — Winter in Hieron & Marielda Post Mortem — speakers: Austin Walker, Andrew Lee Swan, Sylvi Clare, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-06-25 — Twilight Mirage and Patreon Announcement! — speakers: Austin Walker
-- 2017-06-22 — Winter in Hieron 29: Slow Justice — speakers: Austin Walker, Andrew Lee Swan, Sylvi Clare, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2017-06-15 — Winter in Hieron 28: What Life Looks Like — speakers: Impetor Mall, Stornras Unblooded, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-06-08 — Winter in Hieron 27: A Good Metaphor — speakers: Zhan Kurr, Austin Walker, Andrew Lee Swan, Sylvi Clare, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2017-06-01 — Winter in Hieron 26: A Shattering Note — speakers: der Dawes, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt, Craig Sheldon
-- 2017-05-25 — Winter in Hieron 25: Twenty Two Brown Birds — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Ali Acampora, Craig Sheldon
-- 2017-05-19 — Winter in Hieron 24: An Open Mind — speakers: Springe Hosted, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2017-05-12 — Winter in Hieron 23: Make the Library Smile — speakers: Lukewarm Sun, Austin Walker, Jack de Quidt, Sylvi Clare, Ali Acampora, Craig Sheldon
-- 2017-05-05 — Winter in Hieron 22: A Holy Place — speakers: Vicereine Jerod, Shiraz Hosted, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon
-- 2017-04-27 — Winter in Hieron 21: The Shield of Our Will — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Ali Acampora, Craig Sheldon
-- 2017-04-20 — Winter in Hieron 20: Pulling You Further Down — speakers: Warm Sun, Springe Hosted, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon
-- 2017-04-14 — Winter in Hieron 19: Make The Spring Last Forever — speakers: Kall Fer Hosted, Austin Walker, Jack de Quidt, Sylvi Clare, Ali Acampora, Craig Sheldon
-- 2017-04-06 — Winter in Hieron 18: Try to Live Normally — speakers: Stornras Unblooded, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2017-03-31 — Winter in Hieron 17: Undelivered Resignations — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Ali Acampora, Craig Sheldon
-- 2017-03-24 — Winter in Hieron 16: Is There Anyone Else? — speakers: Alyosha Hosted, Austin Walker, Ali Acampora, Art Martinez-Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan
-- 2017-03-16 — Winter in Hieron 15: Settle Your Matters — speakers: Loyal Always, Jerod Shiraz Vicereine, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare
-- 2017-03-10 — Winter in Hieron 14: What Do You Want Here? — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan, Craig Sheldon
-- 2017-03-03 — Winter in Hieron 13: Rosemerrow, Oh My Rosemerrow — speakers: Tevilton Hosted, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan
-- 2017-02-24 — Winter in Hieron 12: A Chaotic Cataloging — speakers: Iduna Fel Justiciar-Captain, QQ Hosted, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare
-- 2017-02-16 — Winter in Hieron 11: The Importance of Names — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Jack de Quidt, Sylvi Clare, Andrew Lee Swan, Craig Sheldon
+- 2017-07-20 — Twilight Mirage 04: Birds of Prey — speakers: Arthur Martin, Austin Walker
+- 2017-07-14 — Twilight Mirage 03: The Planet of Quire — speakers: Austin Walker
+- 2017-07-07 — Twilight Mirage 02: The Last Divine — speakers: Twilight Mirage, Beloved Dust, Austin Walker
+- 2017-06-30 — Twilight Mirage 01: The Beloved Dust — speakers: Divine mandate, Austin Walker
+- 2017-06-29 — Twilight Mirage 00: The Final Eight Divines — speakers: Twilight Mirage, Austin Walker
+- 2017-06-28 — Winter in Hieron & Marielda Post Mortem — speakers: Marielda Post Mortem Hey, Austin Walker
+- 2017-06-25 — Twilight Mirage and Patreon Announcement! — speakers: Twilight Mirage, Patreon Announcement, Austin Walker
+- 2017-06-22 — Winter in Hieron 29: Slow Justice — speakers: Austin Walker
+- 2017-06-15 — Winter in Hieron 28: What Life Looks Like — speakers: Austin Walker
+- 2017-06-08 — Winter in Hieron 27: A Good Metaphor — speakers: Good Metaphor, Austin Walker
+- 2017-06-01 — Winter in Hieron 26: A Shattering Note — speakers: der Dawes, Austin Walker
+- 2017-05-25 — Winter in Hieron 25: Twenty Two Brown Birds — speakers: Twenty Two Brown Birds, Austin Walker
+- 2017-05-19 — Winter in Hieron 24: An Open Mind — speakers: Surface Path, Austin Walker
+- 2017-05-12 — Winter in Hieron 23: Make the Library Smile — speakers: Library Smile Collector, Austin Walker
+- 2017-05-05 — Winter in Hieron 22: A Holy Place — speakers: Austin Walker
+- 2017-04-27 — Winter in Hieron 21: The Shield of Our Will — speakers: Austin Walker
+- 2017-04-20 — Winter in Hieron 20: Pulling You Further Down — speakers: Austin Walker
+- 2017-04-14 — Winter in Hieron 19: Make The Spring Last Forever — speakers: Austin Walker
+- 2017-04-06 — Winter in Hieron 18: Try to Live Normally — speakers: Austin Walker
+- 2017-03-31 — Winter in Hieron 17: Undelivered Resignations — speakers: Undelivered Resignations Archivist, Austin Walker
+- 2017-03-24 — Winter in Hieron 16: Is There Anyone Else? — speakers: Austin Walker
+- 2017-03-16 — Winter in Hieron 15: Settle Your Matters — speakers: Austin Walker
+- 2017-03-10 — Winter in Hieron 14: What Do You Want Here? — speakers: Austin Walker
+- 2017-03-03 — Winter in Hieron 13: Rosemerrow, Oh My Rosemerrow — speakers: Austin Walker
+- 2017-02-24 — Winter in Hieron 12: A Chaotic Cataloging — speakers: Austin Walker
+- 2017-02-16 — Winter in Hieron 11: The Importance of Names — speakers: Austin Walker
 - 2017-02-10 — Takin' a Snow Day — speakers: Snow Day Sorry, Austin Walker
-- 2017-02-04 — Winter in Hieron 10: Fire and Blood — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2017-01-27 — Winter in Hieron 09: Warm Assurances — speakers: Exarch Alyosha, Velas Articles, Retort Stand, Horn Comb, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins
-- 2017-01-20 — Winter in Hieron 08: The Meeting House — speakers: Yours Faithfully, Austin Walker, Jack de Quidt, Sylvi Clare, Nick Scratch, Ali Acampora, Craig Sheldon
-- 2017-01-13 — Winter in Hieron 07: Two Hands — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2017-01-06 — Winter In Hieron: Holiday Special 02: Pits and Ladders — speakers: Red Jack, Austin Walker, Jack de Quidt, Janine Hawkins, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2017-01-01 — Winter In Hieron: Holiday Special 01: Homes and Promises — speakers: Red Jack, Austin Walker, Jack de Quidt, Janine Hawkins, Andrew Lee Swan, Ali Acampora, Craig Sheldon
-- 2016-12-25 — Winter in Hieron 06: All Violence, All Brains — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Nick Scratch, Ali Acampora, Craig Sheldon
-- 2016-12-15 — Winter in Hieron 05: Blood Doesn't Run — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2016-12-09 — Winter in Hieron 04: A Combination of Notes — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Nick Scratch, Ali Acampora, Craig Sheldon
-- 2016-12-01 — Winter in Hieron 03: You Haven't Kept Up, Have You? — speakers: Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2016-11-28 — Winter in Hieron 02: A Museum in the Distance — speakers: Austin Walker, Jack de Quidt, Sylvi Clare, Nick Scratch, Ali Acampora, Austin Walker Cover Art, Craig Sheldon
-- 2016-11-18 — Winter in Hieron 01: An Arrow Let Loose — speakers: Krent Kava, Austin Walker, Ali Acampora, Art Tebbel, Janine Hawkins, Andrew Lee Swan, Craig Sheldon, Jack de Quidt
-- 2016-11-12 — Hieron: The Months of Autumn Pt 2 — speakers: Austin Walker, Ali Acampora, Jack de Quidt, Nick Scratch, Andrew Lee Swan, Art Tebbel, Craig Sheldon
-- 2016-11-03 — Hieron: The Months of Autumn Pt 1 — speakers: Austin Walker, Ali Acampora, Jack de Quidt, Nick Scratch, Andrew Lee Swan, Art Tebbel, Craig Sheldon
-- 2016-10-27 — A Message From Ali — speakers: Adam Koebel, Andi Clare, Jack de Quidt, Janine Hawkins, Nick Scratch, Andrew Lee Swan, Art Tebbel, Austin Walker
-- 2016-10-20 — A Message From Austin — speakers: Sylvia Clare, Jack de Quidt, Janine Hawkins, Nick Scratch, Andrew Lee Swan, Art Tebbel, Austin Walker
-- 2016-10-14 — Marielda 14: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 4 — speakers: Uklan Tel, Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-10-06 — Marielda 13: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 3 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-09-30 — Marielda 12: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 2 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-09-22 — Marielda 11: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 1 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-09-16 — Marielda 10: Four Conversations — speakers: Pyre Adagio, Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-09-09 — Marielda 09: The Valentine Affair Pt. 4 — speakers: Memoriam College, Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-09-02 — Marielda 08: The Valentine Affair Pt. 3 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-08-25 — Marielda 07: The Valentine Affair Pt. 2 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-08-19 — Marielda 06: The Valentine Affair Pt. 1 — speakers: Memoriam College, Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-08-12 — Marielda 05: War and Azaleas — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-08-06 — Marielda 04: The Crosstown Job Pt. 2 — speakers: Chrysanthemum Parish, Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-07-29 — Marielda 03: The Crosstown Job Pt. 1 — speakers: Austin Walker, Ali Acampora, Sylvi Clare, Jack de Quidt, Andrew Lee Swan, Craig Sheldon
-- 2016-07-21 — Marielda 02: The City of Light Pt. 2 — speakers: Austin Walker, Janine Hawkins, Nick Scratch, Art Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2016-07-14 — Marielda 01: The City of Light Pt. 1 — speakers: Austin Walker, Janine Hawkins, Nick Scratch, Art Tebbel, Ali Acampora, Craig Sheldon, Jack de Quidt
-- 2016-06-26 — COUNTER/Weight 44: Live Post-Mortem — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-06-16 — A Quick Announcement and Some Thank Yous! — speakers: Austin Walker
-- 2016-06-10 — COUNTER/Weight 43: A Splintered Branch, A Ringing Bell Pt. 3 — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-06-02 — COUNTER/Weight 42: A Splintered Branch, A Ringing Bell Pt. 2 — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-05-27 — COUNTER/Weight 41: A Splintered Branch, A Ringing Bell Pt. 1 — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-05-20 — COUNTER/Weight 40: The Storm Over September — speakers: Irene Klipsch-Dove, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-05-12 — COUNTER/Weight 39: Just Another Machine — speakers: Aria Joie, Cassander Timaeus Beranice, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-05-06 — COUNTER/Weight 38: Found Footage — speakers: Aria Joie, Mako Trig, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-04-28 — COUNTER/Weight 37: Visions from Windows, Or: The Last Time the Bomb Dropped — speakers: Automated Diaspora, Austin Walker, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2016-04-22 — COUNTER/Weight 36: Everything is Temporary — speakers: Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt, Austin Walker
-- 2016-04-15 — COUNTER/Weight 35: A Knock at the Door — speakers: Mako Trig, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-04-08 — COUNTER/Weight 34: Reaching Out — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-04-01 — COUNTER/Weight 33: A Fractal Garden and an Intercepted Message — speakers: Mako Trig, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-03-24 — COUNTER/Weight 32: Through The Crosshairs — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-03-17 — COUNTER/Weight 31: Expertize with a Z — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-03-10 — COUNTER/Weight 30: Another Facility Among Trees — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-03-04 — COUNTER/Weight 29: Three Conversations — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-02-25 — COUNTER/Weight 28: A Special Kind of Warmth — speakers: Minerva Strategic, Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2016-02-19 — COUNTER/Weight 27: An Animal Out of Context — speakers: Aria Joie, Mako Trig, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-02-11 — COUNTER/Weight 26: Do You Have Room For Me? — speakers: Kingdom Come, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-02-04 — COUNTER/Weight 25: You Can Call Me Captain — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-01-28 — COUNTER/Weight 24: It's Still Dark Out — speakers: Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-01-21 — COUNTER/Weight 23: An Astonishingly Illegal Ship — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2016-01-14 — COUNTER/Weight 22: The Broken Branch — speakers: Austin Walker, Sylvia Clare, Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2016-01-08 — COUNTER/Weight 21: Crisis! (A Solemn Vow Above The Sea of Counterweight) — speakers: Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon, Austin Walker
-- 2016-01-01 — COUNTER/Weight 20: The Glimmer Incident: The Executive Enters! — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-12-24 — COUNTER/Weight 19: The Road You Take And Who You Take It With — speakers: Jace Rethal, Austin Walker, Jack de Quidt, Ali Acampora, Sylvi Clare, Andrew Lee Swan, Art Tebbel, Ali Acampora Cover Art
-- 2015-12-17 — COUNTER/Weight 18: The Order of Things — speakers: Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-12-11 — COUNTER/Weight 17: Metal That Has Died Twice — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-12-04 — COUNTER/Weight 16: The Rear Left Engine — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-11-25 — COUNTER/Weight 15: A Candle in the Sun — speakers: Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2015-11-20 — COUNTER/Weight 14: We've All Killed People — speakers: Jaqi Green, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-11-13 — COUNTER/Weight 13: Our Customer of the Month — speakers: Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-11-07 — COUNTER/Weight 12: A Home After A Wake — speakers: Will Cassander, Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-10-30 — COUNTER/Weight 11: A Thing You Know About Nightclubs — speakers: Big Cass, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-10-23 — COUNTER/Weight 10: Drawing Clocks — speakers: Jeremy Keller, Hamish Cameron, Aria Joie, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art
-- 2015-10-15 — COUNTER/Weight 09: This Month Of Ours — speakers: Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2015-10-01 — COUNTER/Weight 08: Our Hostage Below — speakers: Orth Godlove, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-09-19 — COUNTER/Weight 07: I Am Not Allowed — speakers: Orth Godlove, Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-09-19 — COUNTER/Weight 06: Here's Your Bribe Tip — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Art Tebbel, Ali Acampora Cover Art, Craig Sheldon
-- 2015-09-11 — COUNTER/Weight 05: A Ship of Seeds — speakers: Austin Walker, Sylvi Clare, Andrew Lee Swan, Ali Acampora Cover Art, Craig Sheldon, Jack de Quidt
-- 2015-09-03 — COUNTER/Weight 04: The Bells Are Ringing — speakers: Cene Sixheart, Jack de Quidt, Aria Joie, Ali Acampora, Mako Trig, Keith Carberry, Austin Walker, Art Tebbel
-- 2015-08-01 — COUNTER/Weight 03: It's Fine, We're Criminals — speakers: Cene Sixheart, Orth Godlove, Mako Trig, Keith Carberry, Aria Joie, Ali Acampora, Jack de Quidt, Austin Walker
-- 2015-07-25 — COUNTER/Weight 02: Soldier Game — speakers: Soldier Game, Cene Sixheart, Cassander Timaeus Berenice, Mako Trig, Keith Carberry, Jack de Quidt, Aria Joie, Ali Acampora, Austin Walker
-- 2015-07-17 — COUNTER/Weight 01: I Would Like A Bribe — speakers: Cene Sixheart, Mako Trig, Keith Carberry, Jack de Quidt, Aria Joie, Ali Acampora, Austin Walker, Art Tebbel
-- 2015-07-15 — COUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku — speakers: Hashtag Otechku Whether, Jeremy Keller, Ali Acampora, Keith Carberry, Jack de Quidt, Art Tebbel, Craig Sheldon, Austin Walker
-- 2015-06-19 — Autumn in Hieron 29: Live Post Mortem — speakers: Austin Walker, Jack de Quidt, Ali Acampora, Nick Scratch, Andrew Swan, Art Tebbel, Craig Sheldon
-- 2015-06-01 — Autumn in Hieron 28: A Choice About What You Believe — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-05-23 — Autumn in Hieron 27: The Shores of Ordenna — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-05-16 — Autumn in Hieron 26: Why Are You Here, Again? — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-05-08 — Autumn in Hieron 25: Work Off Your Sins — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-05-02 — Autumn in Hieron 24: A Paladin is a Tool — speakers: Sting Featuring, Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-04-24 — Autumn in Hieron 23: Spinning Straw Out Of Gold — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-04-16 — Autumn in Hieron 22: Closing the Window — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-04-11 — Autumn in Hieron 21: The Storm Over Tristero — speakers: Lem King, Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-04-04 — Autumn in Hieron 20: Do I Feel Followed? — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-03-27 — Autumn in Hieron 19: Violence Mulligan Mulligan — speakers: Mulligan Mulligan, Lem King, Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-03-20 — Autumn in Hieron 18: Magic (Or Something) Is All Around Us — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-03-13 — Autumn in Hieron 17: As Death's Eyes Look Over The World — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-03-06 — Autumn in Hieron 16: Those Woods You Chose — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-02-26 — Autumn in Hieron 15: Have You Ever Swung A Sword At A Ghost Before? — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon
-- 2015-02-18 — Autumn in Hieron 14: A Fire Hydrant of Divinity — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Craig Sheldon, Jack de Quidt
-- 2015-01-12 — Autumn in Hieron: Holiday Special 02: I've Killed Monsters — speakers: Raymond Edwards, Suzanne Goldberg, Gary Grady, Ali Acampora, Andrew Swan, Thorondir Arthur Tebbel, Jack de Quidt, Lem King Austin Walker, Austin Walker
-- 2014-12-24 — Autumn in Hieron: Holiday Special 01: I Don't Know What's in That Box — speakers: Raymond Edwards, Suzanne Goldberg, Gary Grady, Ali Acampora, Andrew Swan, Thorondir Arthur Tebbel, Jack de Quidt, Lem King Austin Walker, Austin Walker
-- 2014-12-19 — Autumn in Hieron 13: What A Surprise — speakers: Ali Acampora, Jack de Quidt, Austin Walker, Craig Sheldon, Map Art, Janine Hawkins
-- 2014-12-12 — Autumn in Hieron 12: Knowledge and Ignorance — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Nick Scratch Cover Art, Craig Sheldon, Jack de Quidt, Map Art
-- 2014-12-07 — Autumn in Hieron 11: Like Sneaky Little Sneaks — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Austin Walker, Craig Sheldon, Map Art, Janine Hawkins
-- 2014-11-21 — Autumn in Hieron 10: Chekhov's Torture Elf — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Keith Carberry, Craig Sheldon, Jack de Quidt, Map Art
-- 2014-11-14 — Autumn in Hieron 09: I'm Not Happy With This Decision At All — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Austin Walker, Keith Carberry Cover Art, Craig Sheldon, Map Art, Janine Hawkins
-- 2014-11-08 — Autumn in Hieron 08: On The Tip Of Your Tongue — speakers: Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Keith Carberry, Craig Sheldon, Jack de Quidt, Map Art
-- 2014-10-31 — Autumn in Hieron 07: Boat Party? — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Austin Walker, Keith Carberry Cover Art, Craig Sheldon, Map Art, Janine Hawkins
-- 2014-10-24 — Autumn in Hieron 06: A Bad Trip — speakers: Andrew Lee Swan, Nick Scratch, Andrew Swan, Art Tebbel, Austin Walker, Keith Carberry, Craig Sheldon, Jack de Quidt
-- 2014-10-17 — Autumn in Hieron 05: What's a Good Name For A Ship? — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Austin Walker, Cover Art, Craig Sheldon, Map Art, Janine Hawkins
-- 2014-10-10 — Autumn in Hieron 04: Is It Time Already? — speakers: Good King Samot, Ali Acampora, Keith Carberry, Jack de Quidt, Nick Scratch, Art Tebbel, Austin Walker, Cover Art
-- 2014-10-03 — Autumn in Hieron 03: A Podcast About Listening — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Nick Scratch, Art Tebbel, Austin Walker, Cover Art, Craig Sheldon
-- 2014-09-25 — Autumn in Hieron 02: You Found Out What Was Magical — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Nick Scratch, Art Tebbel, Austin Walker, Cover Art, Craig Sheldon
-- 2014-09-19 — Autumn in Hieron 01: We Have Not Yet Begun To Be Pompous — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Nick Scratch, Art Tebbel, Austin Walker, Cover Art, Craig Sheldon
-- 2014-09-12 — Autumn in Hieron 00: We're Not Calling It Duckberg — speakers: Ali Acampora, Keith Carberry, Jack de Quidt, Nick Scratch, Art Tebbel, Austin Walker, Cover Art, Craig Sheldon
-- 2014-09-11 — An Introduction to Friends at the Table — speakers: Austin Walker, John Harper, Austin Ramsay, Beam Saber, Mobile Suit Gundam, Jeremy Keller, Haimsh Cameron, Jack de Quidt
+- 2017-02-04 — Winter in Hieron 10: Fire and Blood — speakers: Austin Walker
+- 2017-01-27 — Winter in Hieron 09: Warm Assurances — speakers: Exarch Alyosha, Austin Walker
+- 2017-01-20 — Winter in Hieron 08: The Meeting House — speakers: Austin Walker
+- 2017-01-13 — Winter in Hieron 07: Two Hands — speakers: Austin Walker
+- 2017-01-06 — Winter In Hieron: Holiday Special 02: Pits and Ladders — speakers: Austin Walker
+- 2017-01-01 — Winter In Hieron: Holiday Special 01: Homes and Promises — speakers: Austin Walker
+- 2016-12-25 — Winter in Hieron 06: All Violence, All Brains — speakers: Austin Walker
+- 2016-12-15 — Winter in Hieron 05: Blood Doesn't Run — speakers: Austin Walker
+- 2016-12-09 — Winter in Hieron 04: A Combination of Notes — speakers: Austin Walker
+- 2016-12-01 — Winter in Hieron 03: You Haven't Kept Up, Have You? — speakers: Austin Walker
+- 2016-11-28 — Winter in Hieron 02: A Museum in the Distance — speakers: Austin Walker
+- 2016-11-18 — Winter in Hieron 01: An Arrow Let Loose — speakers: Krent Kava, Austin Walker
+- 2016-11-12 — Hieron: The Months of Autumn Pt 2 — speakers: Austin Walker
+- 2016-11-03 — Hieron: The Months of Autumn Pt 1 — speakers: Austin Walker
+- 2016-10-27 — A Message From Ali — speakers: Austin Walker
+- 2016-10-20 — A Message From Austin — speakers: Austin Walker
+- 2016-10-14 — Marielda 14: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 4 — speakers: Traitor Prince Maelgwyn Pt, Second Printing No, Austin Walker
+- 2016-10-06 — Marielda 13: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 3 — speakers: Traitor Prince Maelgwyn Pt, Austin Walker
+- 2016-09-30 — Marielda 12: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 2 — speakers: Traitor Prince Maelgwyn Pt, High Sun Day, Austin Walker
+- 2016-09-22 — Marielda 11: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 1 — speakers: Traitor Prince Maelgwyn Pt, Sun Day, Long Day, Austin Walker
+- 2016-09-16 — Marielda 10: Four Conversations — speakers: Four Conversations According, Sonorous Academy, Austin Walker
+- 2016-09-09 — Marielda 09: The Valentine Affair Pt. 4 — speakers: Memoriam College, Austin Walker
+- 2016-09-02 — Marielda 08: The Valentine Affair Pt. 3 — speakers: Canopy Row, Austin Walker
+- 2016-08-25 — Marielda 07: The Valentine Affair Pt. 2 — speakers: Memoriam College, Austin Walker
+- 2016-08-19 — Marielda 06: The Valentine Affair Pt. 1 — speakers: Memoriam College, Austin Walker
+- 2016-08-12 — Marielda 05: War and Azaleas — speakers: Austin Walker
+- 2016-08-06 — Marielda 04: The Crosstown Job Pt. 2 — speakers: Train Day, Austin Walker
+- 2016-07-29 — Marielda 03: The Crosstown Job Pt. 1 — speakers: Austin Walker
+- 2016-07-21 — Marielda 02: The City of Light Pt. 2 — speakers: Light Pt, Austin Walker
+- 2016-07-14 — Marielda 01: The City of Light Pt. 1 — speakers: Light Pt, Austin Walker
+- 2016-06-26 — COUNTER/Weight 44: Live Post-Mortem — speakers: Austin Walker
+- 2016-06-16 — A Quick Announcement and Some Thank Yous! — speakers: Quick Announcement, Some Thank Yous, Austin Walker
+- 2016-06-10 — COUNTER/Weight 43: A Splintered Branch, A Ringing Bell Pt. 3 — speakers: Splintered Branch, Ringing Bell Pt, September Incident, Austin Walker
+- 2016-06-02 — COUNTER/Weight 42: A Splintered Branch, A Ringing Bell Pt. 2 — speakers: Splintered Branch, Ringing Bell Pt, Golden War, Austin Walker
+- 2016-05-27 — COUNTER/Weight 41: A Splintered Branch, A Ringing Bell Pt. 1 — speakers: Austin Walker
+- 2016-05-20 — COUNTER/Weight 40: The Storm Over September — speakers: great joy, Austin Walker
+- 2016-05-12 — COUNTER/Weight 39: Just Another Machine — speakers: Austin Walker
+- 2016-05-06 — COUNTER/Weight 38: Found Footage — speakers: Austin Walker
+- 2016-04-28 — COUNTER/Weight 37: Visions from Windows, Or: The Last Time the Bomb Dropped — speakers: Austin Walker
+- 2016-04-22 — COUNTER/Weight 36: Everything is Temporary — speakers: Temporary Throughout, Golden Branch Star Sector, Austin Walker
+- 2016-04-15 — COUNTER/Weight 35: A Knock at the Door — speakers: well-learned cautio, Austin Walker
+- 2016-04-08 — COUNTER/Weight 34: Reaching Out — speakers: Reaching Out Maryland September, Austin Walker
+- 2016-04-01 — COUNTER/Weight 33: A Fractal Garden and an Intercepted Message — speakers: Austin Walker
+- 2016-03-24 — COUNTER/Weight 32: Through The Crosshairs — speakers: Austin Walker
+- 2016-03-17 — COUNTER/Weight 31: Expertize with a Z — speakers: Austin Walker
+- 2016-03-10 — COUNTER/Weight 30: Another Facility Among Trees — speakers: Austin Walker
+- 2016-03-04 — COUNTER/Weight 29: Three Conversations — speakers: Three Conversations, Austin Walker
+- 2016-02-25 — COUNTER/Weight 28: A Special Kind of Warmth — speakers: Special Kind, Warmth While Kingdom Come, Golden Branch, Austin Walker
+- 2016-02-19 — COUNTER/Weight 27: An Animal Out of Context — speakers: Austin Walker
+- 2016-02-11 — COUNTER/Weight 26: Do You Have Room For Me? — speakers: Austin Walker
+- 2016-02-04 — COUNTER/Weight 25: You Can Call Me Captain — speakers: Austin Walker
+- 2016-01-28 — COUNTER/Weight 24: It's Still Dark Out — speakers: Austin Walker
+- 2016-01-21 — COUNTER/Weight 23: An Astonishingly Illegal Ship — speakers: Austin Walker
+- 2016-01-14 — COUNTER/Weight 22: The Broken Branch — speakers: Golden Branch Star, Austin Walker
+- 2016-01-08 — COUNTER/Weight 21: Crisis! (A Solemn Vow Above The Sea of Counterweight) — speakers: Austin Walker
+- 2016-01-01 — COUNTER/Weight 20: The Glimmer Incident: The Executive Enters! — speakers: Austin Walker
+- 2015-12-24 — COUNTER/Weight 19: The Road You Take And Who You Take It With — speakers: Austin Walker
+- 2015-12-17 — COUNTER/Weight 18: The Order of Things — speakers: Austin Walker
+- 2015-12-11 — COUNTER/Weight 17: Metal That Has Died Twice — speakers: Deceive Sister Rust, Austin Walker
+- 2015-12-04 — COUNTER/Weight 16: The Rear Left Engine — speakers: Austin Walker
+- 2015-11-25 — COUNTER/Weight 15: A Candle in the Sun — speakers: Sun Tensions, Golden Branch, Austin Walker
+- 2015-11-20 — COUNTER/Weight 14: We've All Killed People — speakers: Austin Walker
+- 2015-11-13 — COUNTER/Weight 13: Our Customer of the Month — speakers: Austin Walker
+- 2015-11-07 — COUNTER/Weight 12: A Home After A Wake — speakers: Austin Walker
+- 2015-10-30 — COUNTER/Weight 11: A Thing You Know About Nightclubs — speakers: Big Cass, Austin Walker
+- 2015-10-23 — COUNTER/Weight 10: Drawing Clocks — speakers: Jeremy Keller, Austin Walker
+- 2015-10-15 — COUNTER/Weight 09: This Month Of Ours — speakers: Golden Branch, Austin Walker
+- 2015-10-01 — COUNTER/Weight 08: Our Hostage Below — speakers: Orth Godlove, Austin Walker
+- 2015-09-19 — COUNTER/Weight 07: I Am Not Allowed — speakers: Orth Godlove, Austin Walker
+- 2015-09-19 — COUNTER/Weight 06: Here's Your Bribe Tip — speakers: Orth Godlove, Austin Walker
+- 2015-09-11 — COUNTER/Weight 05: A Ship of Seeds — speakers: Austin Walker
+- 2015-09-03 — COUNTER/Weight 04: The Bells Are Ringing — speakers: Cene Sixheart, Austin Walker
+- 2015-08-01 — COUNTER/Weight 03: It's Fine, We're Criminals — speakers: Austin Walker
+- 2015-07-25 — COUNTER/Weight 02: Soldier Game — speakers: Soldier Game, Cene Sixheart, Cassander Timaeus Berenice, Austin Walker
+- 2015-07-17 — COUNTER/Weight 01: I Would Like A Bribe — speakers: Would Like, Austin Walker
+- 2015-07-15 — COUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku — speakers: Hashtag Otechku Whether, Austin Walker
+- 2015-06-19 — Autumn in Hieron 29: Live Post Mortem — speakers: Austin Walker
+- 2015-06-01 — Autumn in Hieron 28: A Choice About What You Believe — speakers: Nick Scratch, Austin Walker
+- 2015-05-23 — Autumn in Hieron 27: The Shores of Ordenna — speakers: Austin Walker
+- 2015-05-16 — Autumn in Hieron 26: Why Are You Here, Again? — speakers: Great Fantasmo, Austin Walker
+- 2015-05-08 — Autumn in Hieron 25: Work Off Your Sins — speakers: Austin Walker
+- 2015-05-02 — Autumn in Hieron 24: A Paladin is a Tool — speakers: Austin Walker
+- 2015-04-24 — Autumn in Hieron 23: Spinning Straw Out Of Gold — speakers: Austin Walker
+- 2015-04-16 — Autumn in Hieron 22: Closing the Window — speakers: Austin Walker
+- 2015-04-11 — Autumn in Hieron 21: The Storm Over Tristero — speakers: Austin Walker
+- 2015-04-04 — Autumn in Hieron 20: Do I Feel Followed? — speakers: Austin Walker
+- 2015-03-27 — Autumn in Hieron 19: Violence Mulligan Mulligan — speakers: Mulligan Mulligan, Lem King, Austin Walker
+- 2015-03-20 — Autumn in Hieron 18: Magic (Or Something) Is All Around Us — speakers: Austin Walker
+- 2015-03-13 — Autumn in Hieron 17: As Death's Eyes Look Over The World — speakers: Austin Walker
+- 2015-03-06 — Autumn in Hieron 16: Those Woods You Chose — speakers: Austin Walker
+- 2015-02-26 — Autumn in Hieron 15: Have You Ever Swung A Sword At A Ghost Before? — speakers: Austin Walker
+- 2015-02-18 — Autumn in Hieron 14: A Fire Hydrant of Divinity — speakers: Austin Walker
+- 2015-01-12 — Autumn in Hieron: Holiday Special 02: I've Killed Monsters — speakers: Austin Walker
+- 2014-12-24 — Autumn in Hieron: Holiday Special 01: I Don't Know What's in That Box — speakers: Austin Walker
+- 2014-12-19 — Autumn in Hieron 13: What A Surprise — speakers: Austin Walker
+- 2014-12-12 — Autumn in Hieron 12: Knowledge and Ignorance — speakers: Austin Walker
+- 2014-12-07 — Autumn in Hieron 11: Like Sneaky Little Sneaks — speakers: Austin Walker
+- 2014-11-21 — Autumn in Hieron 10: Chekhov's Torture Elf — speakers: Austin Walker
+- 2014-11-14 — Autumn in Hieron 09: I'm Not Happy With This Decision At All — speakers: Austin Walker
+- 2014-11-08 — Autumn in Hieron 08: On The Tip Of Your Tongue — speakers: Austin Walker
+- 2014-10-31 — Autumn in Hieron 07: Boat Party? — speakers: Austin Walker
+- 2014-10-24 — Autumn in Hieron 06: A Bad Trip — speakers: Andrew Lee, Austin Walker
+- 2014-10-17 — Autumn in Hieron 05: What's a Good Name For A Ship? — speakers: Austin Walker
+- 2014-10-10 — Autumn in Hieron 04: Is It Time Already? — speakers: Austin Walker
+- 2014-10-03 — Autumn in Hieron 03: A Podcast About Listening — speakers: Austin Walker
+- 2014-09-25 — Autumn in Hieron 02: You Found Out What Was Magical — speakers: Austin Walker
+- 2014-09-19 — Autumn in Hieron 01: We Have Not Yet Begun To Be Pompous — speakers: Austin Walker
+- 2014-09-12 — Autumn in Hieron 00: We're Not Calling It Duckberg — speakers: Austin Walker
+- 2014-09-11 — An Introduction to Friends at the Table — speakers: Austin Walker
