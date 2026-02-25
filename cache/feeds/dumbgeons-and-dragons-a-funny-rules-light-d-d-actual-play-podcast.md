@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Thu, 19 Feb 2026 01:00:01 GMT`
+- fetched_at: `2026-02-25T10:13:55+00:00`
+- checked_at: `2026-02-25T10:13:55+00:00`
+- last_modified: `Wed, 25 Feb 2026 08:00:05 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-25T10:13:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,14 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33499846",
       "itunes_duration": "00:34:53",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "bells",
         "toll",
@@ -62,14 +55,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35855882",
       "itunes_duration": "00:37:20",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "ceremonial",
         "coal",
@@ -88,14 +74,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33794925",
       "itunes_duration": "00:35:12",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "regular",
         "ceremony",
@@ -113,14 +92,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33144581",
       "itunes_duration": "00:34:31",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -136,14 +108,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33542478",
       "itunes_duration": "00:34:56",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -160,12 +125,7 @@
       "enclosure_length": "35016620",
       "itunes_duration": "00:36:28",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Ghost Elk"
       ],
       "topics": [
         "town",
@@ -186,9 +146,7 @@
       "enclosure_length": "82273175",
       "itunes_duration": "01:25:42",
       "speakers": [
-        "Russ Kyle",
-        "Herb Evan Bivins",
-        "Anna Fitz Fitzgerald"
+        "Russ Kyle"
       ],
       "topics": [
         "fart",
@@ -213,12 +171,7 @@
       "enclosure_length": "32438648",
       "itunes_duration": "00:33:47",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "than answe"
       ],
       "topics": [
         "ghost",
@@ -237,13 +190,7 @@
       "enclosure_length": "34515487",
       "itunes_duration": "00:35:57",
       "speakers": [
-        "Ghost Elk",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Field Test"
       ],
       "topics": [
         "field",
@@ -262,14 +209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42190889",
       "itunes_duration": "00:43:56",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "crow",
         "campaign"
@@ -287,13 +227,7 @@
       "enclosure_length": "41063235",
       "itunes_duration": "00:42:46",
       "speakers": [
-        "Folen Varam",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Folen Varam"
       ],
       "topics": [
         "oddity",
@@ -314,14 +248,7 @@
       "enclosure_length": "53339951",
       "itunes_duration": "00:55:33",
       "speakers": [
-        "Abdul Aziz",
-        "Content Warning",
-        "Comedic Danger",
-        "Find Abdul",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue"
+        "Abdul Aziz"
       ],
       "topics": [
         "patron",
@@ -348,14 +275,7 @@
       "enclosure_length": "54439183",
       "itunes_duration": "00:56:42",
       "speakers": [
-        "Abdul Aziz",
-        "Content Warning",
-        "Comedic Danger",
-        "Find Abdul",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue"
+        "Abdul Aziz"
       ],
       "topics": [
         "patron",
@@ -382,10 +302,8 @@
       "enclosure_length": "33719693",
       "itunes_duration": "00:35:07",
       "speakers": [
-        "Dino Dinovic",
-        "Carla Maxted Lollipop Amy",
-        "Tom Laird Referee Kyle",
-        "KC Bailey"
+        "Introducing Facing Fate",
+        "Corpos Taking"
       ],
       "topics": [
         "facing",
@@ -406,12 +324,7 @@
       "enclosure_length": "37444127",
       "itunes_duration": "00:39:00",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "behind them"
       ],
       "topics": [
         "baby",
@@ -432,13 +345,7 @@
       "itunes_duration": "00:55:06",
       "speakers": [
         "Itsy Bitsy Prison Break",
-        "Tim Lanning",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Tim Lanning"
       ],
       "topics": [
         "itsy",
@@ -462,13 +369,7 @@
       "enclosure_length": "30977462",
       "itunes_duration": "00:32:16",
       "speakers": [
-        "Tim Lanning",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Tim Lanning"
       ],
       "topics": [
         "great",
@@ -490,13 +391,7 @@
       "enclosure_length": "44026566",
       "itunes_duration": "00:45:51",
       "speakers": [
-        "Tim Lanning",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Tim Lanning"
       ],
       "topics": [
         "chamber",
@@ -518,13 +413,7 @@
       "enclosure_length": "32852427",
       "itunes_duration": "00:34:13",
       "speakers": [
-        "Tim Lanning",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Tim Lanning"
       ],
       "topics": [
         "trial",
@@ -547,14 +436,7 @@
       "enclosure_length": "36658782",
       "itunes_duration": "00:38:11",
       "speakers": [
-        "Tim Lanning",
-        "Thurston La'Folgud",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Tim Lanning"
       ],
       "topics": [
         "trial",
@@ -578,13 +460,7 @@
       "itunes_duration": "00:57:17",
       "speakers": [
         "Remain Confused",
-        "Tim Lanning",
-        "Thurston La'Folgud",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Tim Lanning"
       ],
       "topics": [
         "right",
@@ -605,12 +481,7 @@
       "enclosure_length": "69242044",
       "itunes_duration": "01:12:07",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
+        "Where Fire Knows My"
       ],
       "topics": [
         "fire",
@@ -628,14 +499,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42493492",
       "itunes_duration": "00:44:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt",
-        "Merch Store"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "sweat",
@@ -654,11 +518,7 @@
       "enclosure_length": "31395422",
       "itunes_duration": "00:32:42",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "investigation required"
       ],
       "topics": [
         "regular",
@@ -678,13 +538,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37364715",
       "itunes_duration": "00:38:55",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "forge",
         "campaign"
@@ -702,12 +556,7 @@
       "enclosure_length": "44773459",
       "itunes_duration": "00:46:38",
       "speakers": [
-        "Real Anymore",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Real Anymore"
       ],
       "topics": [
         "anymore",
@@ -725,13 +574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49673195",
       "itunes_duration": "00:51:44",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -747,13 +590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35748884",
       "itunes_duration": "00:37:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "grand",
         "yeeting",
@@ -771,13 +608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50679640",
       "itunes_duration": "00:52:47",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "banjoke",
         "campaign"
@@ -795,12 +626,7 @@
       "enclosure_length": "55668819",
       "itunes_duration": "00:57:59",
       "speakers": [
-        "Shattered Dreams",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Shattered Dreams"
       ],
       "topics": [
         "shattered",
@@ -820,11 +646,8 @@
       "enclosure_length": "43248744",
       "itunes_duration": "00:45:03",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Kill My Fake Dad",
+        "Nip Slip"
       ],
       "topics": [
         "fake",
@@ -844,14 +667,7 @@
       "enclosure_length": "51913456",
       "itunes_duration": "00:54:04",
       "speakers": [
-        "Feed Drop",
-        "Werner Herzog",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Guy Bradford",
-        "Adam McNamara",
-        "Ryan LaPlante",
-        "Del Borovic Website Portfolio"
+        "Feed Drop"
       ],
       "topics": [
         "feed",
@@ -873,13 +689,7 @@
       "enclosure_length": "50686328",
       "itunes_duration": "00:52:47",
       "speakers": [
-        "Feed Drop",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Guy Bradford",
-        "Adam McNamara",
-        "Ryan LaPlante",
-        "Del Borovic Website Portfolio"
+        "Feed Drop"
       ],
       "topics": [
         "feed",
@@ -900,13 +710,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34784653",
       "itunes_duration": "00:36:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -923,12 +727,7 @@
       "enclosure_length": "49488457",
       "itunes_duration": "00:51:32",
       "speakers": [
-        "String Theory",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "String Theory"
       ],
       "topics": [
         "string",
@@ -948,11 +747,7 @@
       "enclosure_length": "36989387",
       "itunes_duration": "00:38:31",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Banjo Man"
       ],
       "topics": [
         "campaign"
@@ -969,13 +764,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35999242",
       "itunes_duration": "00:37:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "hollow",
         "campaign"
@@ -992,13 +781,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42566635",
       "itunes_duration": "00:44:20",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "dance",
         "death",
@@ -1017,11 +800,7 @@
       "enclosure_length": "40013322",
       "itunes_duration": "00:41:40",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Saving Mind Boogers"
       ],
       "topics": [
         "mind",
@@ -1040,13 +819,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52016274",
       "itunes_duration": "00:54:10",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "chasing",
         "monster",
@@ -1064,13 +837,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46670158",
       "itunes_duration": "00:48:36",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "nice",
         "weird",
@@ -1088,13 +855,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47441711",
       "itunes_duration": "00:49:25",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "couple",
         "cozy",
@@ -1114,9 +875,8 @@
       "enclosure_length": "30757198",
       "itunes_duration": "00:32:02",
       "speakers": [
-        "Edgar Allan Poe",
-        "Madeline Usher Carla",
-        "William Dupin"
+        "Red Death",
+        "Folly Network Holiday Crossover"
       ],
       "topics": [
         "masque",
@@ -1135,9 +895,8 @@
       "enclosure_length": "39751262",
       "itunes_duration": "00:41:24",
       "speakers": [
-        "Edgar Allan Poe",
-        "Madeline Usher Carla",
-        "William Dupin"
+        "Red Death",
+        "Folly Network Holiday Crossover"
       ],
       "topics": [
         "masque",
@@ -1156,14 +915,7 @@
       "enclosure_length": "43332336",
       "itunes_duration": "00:45:08",
       "speakers": [
-        "Baby Santa",
-        "Comedic Danger",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Abdul Aziz",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Baby Santa"
       ],
       "topics": [
         "dumbgeon",
@@ -1188,14 +940,11 @@
       "enclosure_length": "45798713",
       "itunes_duration": "00:47:42",
       "speakers": [
-        "Content Warning",
-        "Comedic Danger",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Abdul Aziz",
-        "Russ More Dialogue",
-        "Matt Garbutt"
+        "Dumbgeons Holiday Special",
+        "Santa Baby Pt",
+        "Caltrop Core One",
+        "Shot Happy Holidays",
+        "Dumb Dragons Crew"
       ],
       "topics": [
         "dumbgeon",
@@ -1219,13 +968,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51122259",
       "itunes_duration": "00:53:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -1241,14 +984,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39445733",
       "itunes_duration": "00:41:05",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "fathered",
@@ -1266,14 +1002,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37194187",
       "itunes_duration": "00:38:44",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "adult",
         "campaign"
@@ -1291,12 +1020,7 @@
       "enclosure_length": "34768770",
       "itunes_duration": "00:36:13",
       "speakers": [
-        "Spooky Story Rules",
-        "Amy More",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
+        "Spooky Story Rules"
       ],
       "topics": [
         "spooky",
@@ -1320,13 +1044,7 @@
       "enclosure_length": "68181263",
       "itunes_duration": "01:11:01",
       "speakers": [
-        "Mona Lisa",
-        "Cast Cork",
-        "Giancarlo Herrera Bottle",
-        "Michael Pisani",
-        "Carla Maxted",
-        "Russ More",
-        "Hannah Schooner Listen"
+        "Mona Lisa"
       ],
       "topics": [
         "mona",
@@ -1348,13 +1066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43086158",
       "itunes_duration": "00:44:52",
-      "speakers": [
-        "Amy More",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -1370,14 +1082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32320365",
       "itunes_duration": "00:33:39",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "shoplifter",
         "beware",
@@ -1396,12 +1101,7 @@
       "enclosure_length": "36882390",
       "itunes_duration": "00:38:25",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
+        "Spy Sticks"
       ],
       "topics": [
         "sticks",
@@ -1419,15 +1119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44723304",
       "itunes_duration": "00:46:35",
-      "speakers": [
-        "Carla Maxted",
-        "Dana Scarborough",
-        "Jess Parks",
-        "Carla Maxted Seraphina",
-        "Amy More Shannon",
-        "Jess Parks Story",
-        "Grant Howitt"
-      ],
+      "speakers": [],
       "topics": [
         "ashes",
         "crossover",
@@ -1445,15 +1137,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38120385",
       "itunes_duration": "00:39:42",
-      "speakers": [
-        "Cristina Van Epps",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "mess",
         "campaign"
@@ -1470,15 +1154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32567797",
       "itunes_duration": "00:33:55",
-      "speakers": [
-        "Cristina Van Epps",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "elevator",
         "monster",
@@ -1497,15 +1173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41734478",
       "itunes_duration": "00:43:28",
-      "speakers": [
-        "Cristina Van Epps",
-        "Carla Maxted",
-        "Amy More",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "bunch",
         "virgins",
@@ -1523,15 +1191,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46959804",
       "itunes_duration": "00:48:54",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "attack",
         "docks",
@@ -1549,15 +1209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "26712607",
       "itunes_duration": "00:27:49",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "bridge",
         "campaign"
@@ -1574,15 +1226,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29221198",
       "itunes_duration": "00:30:26",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "alarm",
         "campaign"
@@ -1600,10 +1244,7 @@
       "enclosure_length": "5417586",
       "itunes_duration": "00:05:38",
       "speakers": [
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "fishing",
@@ -1625,8 +1266,7 @@
       "itunes_duration": "01:23:41",
       "speakers": [
         "Feed Drop",
-        "Shawn O'Hara",
-        "Smartie Root"
+        "Shawn O'Hara"
       ],
       "topics": [
         "feed",
@@ -1648,13 +1288,7 @@
       "enclosure_length": "6090083",
       "itunes_duration": "00:06:20",
       "speakers": [
-        "Summer Minisode",
-        "Ursula Major",
-        "Ursula Minor",
-        "Amy More",
-        "Carla Maxted",
-        "Russ More",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "weekend",
@@ -1676,8 +1310,7 @@
       "enclosure_length": "4853342",
       "itunes_duration": "00:05:03",
       "speakers": [
-        "Amy More",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "psilocybin",
@@ -1699,10 +1332,8 @@
       "enclosure_length": "4795663",
       "itunes_duration": "00:04:59",
       "speakers": [
-        "Tom Laird",
-        "Russ More",
-        "Amy More Sound Design",
-        "Matt Garbutt"
+        "Establishment Slam Poetry",
+        "Summer Minisode"
       ],
       "topics": [
         "slam",
@@ -1724,9 +1355,7 @@
       "enclosure_length": "5804617",
       "itunes_duration": "00:06:02",
       "speakers": [
-        "Carla Maxted",
-        "Russ More Sound Design",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "brunch",
@@ -1748,10 +1377,7 @@
       "enclosure_length": "4175412",
       "itunes_duration": "00:04:20",
       "speakers": [
-        "Sweet New Kicks",
-        "Amy More",
-        "Tom Laird Sound Design",
-        "Matt Garbutt"
+        "Sweet New Kicks"
       ],
       "topics": [
         "sweet",
@@ -1773,9 +1399,7 @@
       "enclosure_length": "4784378",
       "itunes_duration": "00:04:58",
       "speakers": [
-        "Tom Laird",
-        "Epidemic Sound",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "change",
@@ -1797,9 +1421,7 @@
       "enclosure_length": "4811546",
       "itunes_duration": "00:05:00",
       "speakers": [
-        "Russ More",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
+        "Summer Minisode"
       ],
       "topics": [
         "summer",
@@ -1818,15 +1440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53224594",
       "itunes_duration": "00:55:26",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "auntie",
         "nina",
@@ -1846,15 +1460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35816594",
       "itunes_duration": "00:37:18",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "books",
         "campaign"
@@ -1871,15 +1477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28836257",
       "itunes_duration": "00:30:02",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "lesson",
         "weave",
@@ -1898,13 +1496,8 @@
       "enclosure_length": "29627872",
       "itunes_duration": "00:30:51",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
+        "Scratches Under",
+        "While Bizard"
       ],
       "topics": [
         "floorboards",
@@ -1923,12 +1516,7 @@
       "enclosure_length": "32368849",
       "itunes_duration": "00:33:43",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
+        "Leaving Nothing"
       ],
       "topics": [
         "imagination",
@@ -1946,14 +1534,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39538102",
       "itunes_duration": "00:41:11",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "cozy",
         "morning",
@@ -1972,16 +1553,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47295843",
       "itunes_duration": "00:49:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Mathew Aberly",
-        "Ian Overton",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "pirate",
         "campaign"
@@ -1998,16 +1570,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49240189",
       "itunes_duration": "00:51:17",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Matthew Aberly",
-        "Ian Overton",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "campaign"
       ]
@@ -2024,14 +1587,7 @@
       "enclosure_length": "48619520",
       "itunes_duration": "00:50:38",
       "speakers": [
-        "Goblin Benihana",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Joe Fisher",
-        "Midnight Burger",
-        "Russ More Dialogue"
+        "Goblin Benihana"
       ],
       "topics": [
         "goblin",
@@ -2051,14 +1607,7 @@
       "enclosure_length": "31398765",
       "itunes_duration": "00:32:42",
       "speakers": [
-        "Joe Fisher",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Midnight Burger",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design"
+        "Joe Fisher"
       ],
       "topics": [
         "mating",
@@ -2083,14 +1632,7 @@
       "enclosure_length": "48369162",
       "itunes_duration": "00:50:23",
       "speakers": [
-        "Joe Fisher",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Midnight Burger",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design"
+        "Joe Fisher"
       ],
       "topics": [
         "memorial",
@@ -2112,15 +1654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43620728",
       "itunes_duration": "00:45:26",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted Cast",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "slengston",
         "campaign"
@@ -2138,13 +1672,7 @@
       "enclosure_length": "53738684",
       "itunes_duration": "00:55:58",
       "speakers": [
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Side Hustle"
       ],
       "topics": [
         "pirate",
@@ -2164,13 +1692,7 @@
       "enclosure_length": "43298063",
       "itunes_duration": "00:45:06",
       "speakers": [
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Deconstructed Peanut Butter"
       ],
       "topics": [
         "peanut",
@@ -2189,16 +1711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39605394",
       "itunes_duration": "00:41:15",
-      "speakers": [
-        "Kyle Claset",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "magic",
         "closet",
@@ -2217,14 +1730,7 @@
       "enclosure_length": "31127092",
       "itunes_duration": "00:32:25",
       "speakers": [
-        "Kyle Claset",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Kyle Claset"
       ],
       "topics": [
         "wizard",
@@ -2243,14 +1749,7 @@
       "enclosure_length": "34606602",
       "itunes_duration": "00:36:02",
       "speakers": [
-        "Adventurer’s Audition",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Adventurer’s Audition"
       ],
       "topics": [
         "adventurer",
@@ -2269,15 +1768,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42219311",
       "itunes_duration": "00:43:58",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "brewed",
         "awakened",
@@ -2295,15 +1786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30104346",
       "itunes_duration": "00:31:21",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "great",
         "baby",
@@ -2342,15 +1825,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38223203",
       "itunes_duration": "00:39:48",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "butter",
         "tunnels",
@@ -2368,15 +1843,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30536515",
       "itunes_duration": "00:31:48",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "broken",
         "history",
@@ -2395,16 +1862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49902236",
       "itunes_duration": "00:51:58",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt",
-        "Michael Ornelas"
-      ],
+      "speakers": [],
       "topics": [
         "mayor",
         "campaign"
@@ -2421,15 +1879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54816182",
       "itunes_duration": "00:57:05",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
-      ],
+      "speakers": [],
       "topics": [
         "revelation",
         "packages",
@@ -2449,13 +1899,8 @@
       "enclosure_length": "38869786",
       "itunes_duration": "00:40:29",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Big Orders",
+        "City Secrets"
       ],
       "topics": [
         "orders",
@@ -2476,13 +1921,7 @@
       "enclosure_length": "36094119",
       "itunes_duration": "00:37:35",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Russ More Dialogue",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod",
-        "Matt Garbutt"
+        "Begin Again"
       ],
       "topics": [
         "campaign"
@@ -2500,14 +1939,9 @@
       "enclosure_length": "33425031",
       "itunes_duration": "00:34:49",
       "speakers": [
-        "Sully Holmes",
-        "Henry Baker",
-        "Arthur Conan Doyle",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Special",
-        "Cicero Holmes Dialogue",
-        "Carla Maxted Sound Design"
+        "Dumb Dragons Presents",
+        "Holiday Special Presentation",
+        "Sherlock Holmes"
       ],
       "topics": [
         "dumb",
@@ -2529,14 +1963,10 @@
       "enclosure_length": "60343275",
       "itunes_duration": "01:02:51",
       "speakers": [
-        "Charles Dickens",
-        "Ebenezer Scrooge",
-        "Frederick Gaines",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Special",
-        "Kyle Claset",
-        "Kristin Flemons"
+        "Holiday Replay",
+        "Dumbgeons Christmas Carol Next",
+        "Holiday Presentation",
+        "Dumb Dragons"
       ],
       "topics": [
         "holiday",
@@ -2557,13 +1987,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76852662",
       "itunes_duration": "01:20:03",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Epidemic Sound",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "flaternouge",
         "patreon",
@@ -2581,11 +2005,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57855164",
       "itunes_duration": "01:00:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "krorn",
@@ -2604,9 +2024,8 @@
       "enclosure_length": "50480692",
       "itunes_duration": "00:52:35",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Kyle Claset"
+        "Grand Hallow",
+        "Eve Gala"
       ],
       "topics": [
         "halloween",
@@ -2625,14 +2044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119234142",
       "itunes_duration": "02:04:12",
-      "speakers": [
-        "Kyle Claset",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -2646,15 +2058,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74864849",
       "itunes_duration": "01:17:59",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kyle Claset",
-        "Carla Maxted Sound Design",
-        "Kevin Mcleod"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "finale"
@@ -2671,15 +2075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68391915",
       "itunes_duration": "01:11:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kyle Claset",
-        "Carla Maxted Sound Design",
-        "Sound Ideas"
-      ],
+      "speakers": [],
       "topics": [
         "velvet",
         "rope"
@@ -2698,13 +2094,7 @@
       "itunes_duration": "01:13:49",
       "speakers": [
         "Hashtag Blessed Teams",
-        "Team Celestia",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kyle Claset",
-        "Peter Joseph Lewis"
+        "Team Celestia"
       ],
       "topics": [
         "hashtag"
@@ -2721,13 +2111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67286413",
       "itunes_duration": "01:10:05",
-      "speakers": [
-        "Grant Howitt",
-        "Carla Maxted",
-        "Amy More",
-        "Tom Laird",
-        "Russ More Dialogue Edit"
-      ],
+      "speakers": [],
       "topics": [
         "dumbgeon",
         "witch"
@@ -2745,13 +2129,7 @@
       "enclosure_length": "49526909",
       "itunes_duration": "00:51:35",
       "speakers": [
-        "Team Abyss",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Carla Maxted Sound Design"
+        "Team Abyss"
       ],
       "topics": [
         "torture",
@@ -2770,13 +2148,7 @@
       "enclosure_length": "93407608",
       "itunes_duration": "01:37:17",
       "speakers": [
-        "Patrick Swayze Eyes",
-        "Selene Von Esper",
-        "Carla Maxted",
-        "Tim Lanning",
-        "Jennifer Cheek",
-        "Mike Bachmann Dialogue",
-        "David Stewart Cover Art"
+        "Patrick Swayze Eyes"
       ],
       "topics": [
         "patrick",
@@ -2798,10 +2170,7 @@
       "enclosure_length": "48853995",
       "itunes_duration": "00:50:53",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design"
+        "it's up"
       ],
       "topics": [
         "freedom"
@@ -2818,16 +2187,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79886628",
       "itunes_duration": "01:23:12",
-      "speakers": [
-        "Miao Miao",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Cicero Holmes Dialogue",
-        "Epidemic Sound",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "pudding",
         "party",
@@ -2848,12 +2208,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58760045",
       "itunes_duration": "01:01:12",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "step",
         "leaf"
@@ -2870,15 +2225,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57899049",
       "itunes_duration": "01:00:18",
-      "speakers": [
-        "Team Abyss",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "s02e148",
         "disgusting"
@@ -2896,12 +2243,8 @@
       "enclosure_length": "79650481",
       "itunes_duration": "01:22:58",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Carla Maxted Sound Design"
+        "Through Daddy",
+        "Door When"
       ],
       "topics": [
         "daddy",
@@ -2920,14 +2263,7 @@
       "enclosure_length": "66114873",
       "itunes_duration": "01:08:52",
       "speakers": [
-        "Jon Buckmaster",
-        "Caio Santos",
-        "Josh Perault",
-        "Neil Martin",
-        "Alexander Nakarada Free",
-        "Rafael Krux Free",
-        "Kevin MacLeod Free",
-        "Steven OBrien Free"
+        "Taking Initiative"
       ],
       "topics": [
         "presenting",
@@ -2947,13 +2283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72501289",
       "itunes_duration": "01:15:31",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Bernard Dialogue",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "fiddling",
         "prince",
@@ -2973,13 +2303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60770011",
       "itunes_duration": "01:03:18",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Bernard Dialogue",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "wine",
         "custard",
@@ -2999,13 +2323,7 @@
       "enclosure_length": "55028088",
       "itunes_duration": "00:57:19",
       "speakers": [
-        "Gross Town",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Carla Maxted Sound Design"
+        "Gross Town"
       ],
       "topics": [
         "blood",
@@ -3023,12 +2341,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52310517",
       "itunes_duration": "00:54:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "meat",
         "hole"
@@ -3046,13 +2359,7 @@
       "enclosure_length": "60718602",
       "itunes_duration": "01:03:14",
       "speakers": [
-        "Team Abyss",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Cicero Holmes Dialogue",
-        "Carla Maxted Sound Design"
+        "Team Abyss"
       ],
       "topics": [
         "vibes",
@@ -3071,12 +2378,9 @@
       "enclosure_length": "52789916",
       "itunes_duration": "00:54:59",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Cicero Holmes Dialogue",
-        "Carla Maxted Sound Design"
+        "How Long Do Rivers",
+        "River Styx",
+        "Team Abyss"
       ],
       "topics": [
         "rivers"
@@ -3094,14 +2398,9 @@
       "enclosure_length": "59559601",
       "itunes_duration": "01:02:02",
       "speakers": [
-        "Charles Dickens",
-        "Ebenezer Scrooge",
-        "Frederick Gaines",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Special",
-        "Kyle Claset",
-        "Kristin Flemons"
+        "Dumbgeons Christmas Carol Welcome",
+        "Holiday Special Presentation",
+        "Dumbgeons Christmas Carol"
       ],
       "topics": [
         "dumbgeons",
@@ -3120,14 +2419,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47648600",
       "itunes_duration": "00:49:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "gifts",
         "tiamat"
@@ -3144,16 +2436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49157015",
       "itunes_duration": "00:51:12",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Sound Design",
-        "Kevin Mcleod Sound",
-        "Buy Eat",
-        "Elizabeth Gilbert Support"
-      ],
+      "speakers": [],
       "topics": [
         "pray"
       ]
@@ -3170,12 +2453,8 @@
       "enclosure_length": "47571696",
       "itunes_duration": "00:49:33",
       "speakers": [
-        "Tom Laird",
-        "Amy More",
-        "Carla Maxted",
-        "Russ More Dialogue",
-        "Russ More Music",
-        "Kevin McLeod Cover Art"
+        "Patreon Peek",
+        "Wedding Ceremonies Kickin"
       ],
       "topics": [
         "patreon",
@@ -3198,11 +2477,8 @@
       "enclosure_length": "50144235",
       "itunes_duration": "00:52:13",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design",
-        "Kevin McLeod Cover Art"
+        "Grand Theft War Machine",
+        "Following Smiler"
       ],
       "topics": [
         "grand",
@@ -3222,11 +2498,7 @@
       "enclosure_length": "56570775",
       "itunes_duration": "00:58:55",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Carla Maxted Sound Design",
-        "Kevin McLeod Cover Art"
+        "Hell Immediately"
       ],
       "topics": [
         "hell"
@@ -3243,12 +2515,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74344489",
       "itunes_duration": "01:17:26",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Story",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "frozen",
         "brine",
@@ -3268,12 +2535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55592333",
       "itunes_duration": "00:57:54",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "testicular",
         "time",
@@ -3293,12 +2555,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53051977",
       "itunes_duration": "00:55:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "perspective",
         "right",
@@ -3318,14 +2575,7 @@
       "enclosure_length": "74940917",
       "itunes_duration": "01:18:03",
       "speakers": [
-        "Jean Keens",
-        "Squeaky McLemurson",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Newt Schottelkotte Sound Design",
-        "Kevin McLeod Cover Art",
-        "Slushchny Find"
+        "Jean Keens"
       ],
       "topics": [
         "s02e132",
@@ -3345,14 +2595,7 @@
       "enclosure_length": "50063569",
       "itunes_duration": "00:52:08",
       "speakers": [
-        "Squeaky McLemurson",
-        "Content Warning",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Newt Schottelkotte Sound Design",
-        "Kevin McLeod Cover Art",
-        "Slushchny Find"
+        "Squeaky McLemurson"
       ],
       "topics": [
         "sniffles",
@@ -3371,14 +2614,7 @@
       "enclosure_length": "53463666",
       "itunes_duration": "00:55:41",
       "speakers": [
-        "Space Poddity",
-        "Guest GM",
-        "Russ More",
-        "Jaanelle Yee Wroxi",
-        "Nihara Nichelle Grey",
-        "Gnandpa Gnine",
-        "Lindsay Bowen GM",
-        "Lindsay Bowen Spatial"
+        "Space Poddity"
       ],
       "topics": [
         "hilop",
@@ -3399,13 +2635,7 @@
       "enclosure_length": "44781818",
       "itunes_duration": "00:46:38",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Sean Howard",
-        "Newt Schottelkotte Sound Design",
-        "Kevin Mcleod Sound"
+        "Escape Plan So"
       ],
       "topics": [
         "bahamut",
@@ -3424,13 +2654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47661557",
       "itunes_duration": "00:49:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s02e129",
         "doesnt",
@@ -3448,12 +2672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43614876",
       "itunes_duration": "00:45:25",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kevin McLeod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "great",
         "museum",
@@ -3472,10 +2691,7 @@
       "enclosure_length": "56911830",
       "itunes_duration": "00:59:16",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kevin McLeod Cover Art"
+        "Abyssal Infiltration Team Abyss"
       ],
       "topics": [
         "abyssal",
@@ -3493,13 +2709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54133237",
       "itunes_duration": "00:56:23",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "schrodinger",
         "amar"
@@ -3517,10 +2727,7 @@
       "enclosure_length": "61208450",
       "itunes_duration": "01:03:45",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons"
+        "party separation"
       ],
       "topics": [
         "separation",
@@ -3539,10 +2746,7 @@
       "enclosure_length": "43396284",
       "itunes_duration": "00:45:12",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kevin McLeod Cover Art"
+        "Faith Vorunax"
       ],
       "topics": [
         "crisis",
@@ -3561,9 +2765,7 @@
       "enclosure_length": "52444264",
       "itunes_duration": "00:54:37",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird"
+        "Tholonius Primsbane"
       ],
       "topics": [
         "s02e123",
@@ -3582,12 +2784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50154266",
       "itunes_duration": "00:52:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons"
-      ],
+      "speakers": [],
       "topics": [
         "head"
       ]
@@ -3603,12 +2800,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57704280",
       "itunes_duration": "01:00:06",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons"
-      ],
+      "speakers": [],
       "topics": [
         "grade",
         "bologna"
@@ -3625,12 +2817,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49389400",
       "itunes_duration": "00:51:26",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset"
-      ],
+      "speakers": [],
       "topics": [
         "overlook"
       ]
@@ -3646,12 +2833,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49444989",
       "itunes_duration": "00:51:30",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset"
-      ],
+      "speakers": [],
       "topics": [
         "wind"
       ]
@@ -3668,10 +2850,7 @@
       "enclosure_length": "61803206",
       "itunes_duration": "01:04:22",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons"
+        "Team Celestia"
       ],
       "topics": [
         "mirrors"
@@ -3689,13 +2868,7 @@
       "enclosure_length": "49358889",
       "itunes_duration": "00:51:24",
       "speakers": [
-        "Cinnamon Buns",
-        "Glim Sully",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Join us"
+        "dire premonitio"
       ],
       "topics": [
         "cinnamon",
@@ -3715,13 +2888,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52310935",
       "itunes_duration": "00:54:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Youtube Channel"
-      ],
+      "speakers": [],
       "topics": [
         "maker"
       ]
@@ -3737,13 +2904,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53743699",
       "itunes_duration": "00:55:58",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kyle Claset",
-        "Youtube Channel"
-      ],
+      "speakers": [],
       "topics": [
         "trip",
         "underdark"
@@ -3760,15 +2921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58072084",
       "itunes_duration": "01:00:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "daddy",
         "home",
@@ -3786,13 +2939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58144391",
       "itunes_duration": "01:00:33",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "screen",
         "check"
@@ -3810,12 +2957,7 @@
       "enclosure_length": "61705822",
       "itunes_duration": "01:04:16",
       "speakers": [
-        "Boric von Prescott",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Cool Breeze"
       ],
       "topics": [
         "quest",
@@ -3837,15 +2979,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52817084",
       "itunes_duration": "00:55:01",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kristin Flemons",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "wake",
         "shine"
@@ -3863,10 +2997,7 @@
       "enclosure_length": "54976261",
       "itunes_duration": "00:57:15",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Join us"
+        "Line High"
       ],
       "topics": [
         "line"
@@ -3884,10 +3015,7 @@
       "enclosure_length": "52728894",
       "itunes_duration": "00:54:55",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Join us"
+        "Avenging Clarence Orcus"
       ],
       "topics": [
         "avenging",
@@ -3905,12 +3033,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53886223",
       "itunes_duration": "00:56:07",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "s02e109",
         "above",
@@ -3929,10 +3052,7 @@
       "enclosure_length": "55311046",
       "itunes_duration": "00:57:36",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "Time Travel May Include"
       ],
       "topics": [
         "symptoms",
@@ -3952,14 +3072,7 @@
       "enclosure_length": "61549923",
       "itunes_duration": "01:04:06",
       "speakers": [
-        "Gnandpa Gnine",
-        "Smart Monkey",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Lindsay Bowen",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Always Naked"
       ],
       "topics": [
         "s02e107",
@@ -3978,16 +3091,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85965009",
       "itunes_duration": "01:29:32",
-      "speakers": [
-        "Hans Krampus",
-        "Scott Calvin",
-        "Russ More",
-        "Tom McGee",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Ryan LaPlante"
-      ],
+      "speakers": [],
       "topics": [
         "dumb",
         "holiday",
@@ -4009,10 +3113,7 @@
       "enclosure_length": "44849946",
       "itunes_duration": "00:46:43",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "Bahamut stirring"
       ],
       "topics": [
         "fanta",
@@ -4030,15 +3131,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58107611",
       "itunes_duration": "01:00:31",
-      "speakers": [
-        "Gnandpa Gnine",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Lindsay Bowen",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "prophecies",
         "vague"
@@ -4056,10 +3149,7 @@
       "enclosure_length": "54459245",
       "itunes_duration": "00:56:43",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "Locals All"
       ],
       "topics": [
         "local"
@@ -4076,13 +3166,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53043617",
       "itunes_duration": "00:55:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "boom",
         "boot"
@@ -4100,10 +3184,7 @@
       "enclosure_length": "55094543",
       "itunes_duration": "00:57:23",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "Get Kraken"
       ],
       "topics": [
         "kraken"
@@ -4120,13 +3201,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53417691",
       "itunes_duration": "00:55:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "downstairs"
       ]
@@ -4142,16 +3217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58064143",
       "itunes_duration": "01:00:28",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Abdul Aziz",
-        "Jessica Tai",
-        "Paul Oppers",
-        "Shawn O'Hara Sound Design",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "boonanza",
@@ -4171,12 +3237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46890840",
       "itunes_duration": "00:48:50",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "random",
         "baby"
@@ -4194,12 +3255,7 @@
       "enclosure_length": "40775262",
       "itunes_duration": "00:42:28",
       "speakers": [
-        "Terry Moot",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Terry Moot"
       ],
       "topics": [
         "snack",
@@ -4220,11 +3276,7 @@
       "enclosure_length": "54376907",
       "itunes_duration": "00:56:38",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
+        "Escape Giving"
       ],
       "topics": [
         "time"
@@ -4241,13 +3293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60489142",
       "itunes_duration": "01:03:00",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "scary",
         "forest"
@@ -4264,13 +3310,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50799595",
       "itunes_duration": "00:52:54",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "ripples",
         "attention"
@@ -4287,13 +3327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62856463",
       "itunes_duration": "01:05:28",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "sexy",
         "times",
@@ -4316,11 +3350,7 @@
       "enclosure_length": "57263333",
       "itunes_duration": "00:59:38",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
+        "Getting Freaky Things"
       ],
       "topics": [
         "freaky"
@@ -4337,15 +3367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57731030",
       "itunes_duration": "01:00:08",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Shawn O'Hara",
-        "Abdul Aziz",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "party",
         "half",
@@ -4363,13 +3385,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49624293",
       "itunes_duration": "00:51:41",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "benjamin"
       ]
@@ -4385,15 +3401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61584195",
       "itunes_duration": "01:04:08",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Shawn O'Hara",
-        "Abdul Aziz",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "drive",
         "necromancy"
@@ -4410,13 +3418,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45076062",
       "itunes_duration": "00:46:57",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "bridge"
       ]
@@ -4432,13 +3434,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48105012",
       "itunes_duration": "00:50:06",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "turkey",
         "skinlet"
@@ -4455,12 +3451,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44357590",
       "itunes_duration": "00:46:12",
-      "speakers": [
-        "Carla Maxted",
-        "Kyle Claset",
-        "Peter Joseph Lewis",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "darkest",
         "timeline",
@@ -4478,13 +3469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52015856",
       "itunes_duration": "00:54:10",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "swappin",
         "poop",
@@ -4502,14 +3487,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60605335",
       "itunes_duration": "01:03:07",
-      "speakers": [
-        "Icewind Dale",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "astral",
         "plane"
@@ -4527,11 +3505,8 @@
       "enclosure_length": "49732963",
       "itunes_duration": "00:51:48",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Family Intervention Off",
+        "King Borwyn"
       ],
       "topics": [
         "family",
@@ -4549,13 +3524,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57324773",
       "itunes_duration": "00:59:42",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "operation",
         "horse"
@@ -4572,13 +3541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51411905",
       "itunes_duration": "00:53:33",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "plans",
         "second",
@@ -4597,12 +3560,7 @@
       "enclosure_length": "57431353",
       "itunes_duration": "00:59:49",
       "speakers": [
-        "Icewind Dale",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kristin Flemons",
-        "Join us"
+        "Icewind Dale"
       ],
       "topics": [
         "godlost"
@@ -4620,12 +3578,7 @@
       "enclosure_length": "49721678",
       "itunes_duration": "00:51:47",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guests",
-        "Michael Howie",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "What Just Happened Here"
       ],
       "topics": [
         "flatulating",
@@ -4643,10 +3596,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46801397",
       "itunes_duration": "00:48:45",
-      "speakers": [
-        "Carla Maxted",
-        "Tom Laird Guest"
-      ],
+      "speakers": [],
       "topics": [
         "philanthropy"
       ]
@@ -4662,14 +3612,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52572995",
       "itunes_duration": "00:54:45",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guests",
-        "Michael Howie",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "trickle",
         "effect"
@@ -4686,10 +3629,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53765433",
       "itunes_duration": "00:56:00",
-      "speakers": [
-        "Carla Maxted",
-        "Tom Laird Guest"
-      ],
+      "speakers": [],
       "topics": [
         "terrible",
         "working",
@@ -4708,11 +3648,7 @@
       "enclosure_length": "42467160",
       "itunes_duration": "00:44:14",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Mailbag Thank"
       ],
       "topics": [
         "mailbag"
@@ -4729,15 +3665,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54886817",
       "itunes_duration": "00:57:10",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Bee Zelda",
-        "Tracy Gibbons",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "homesick",
         "feeling"
@@ -4755,10 +3683,7 @@
       "enclosure_length": "42991281",
       "itunes_duration": "00:44:46",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "See Us"
       ],
       "topics": [
         "s02e76",
@@ -4777,13 +3702,7 @@
       "enclosure_length": "58620865",
       "itunes_duration": "01:01:03",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Bee Zelda",
-        "Tracy Gibbons",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "See Mayor Baron Moot"
       ],
       "topics": [
         "mayor",
@@ -4802,10 +3721,7 @@
       "enclosure_length": "50512875",
       "itunes_duration": "00:52:37",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Join us"
+        "Exhausting Thia"
       ],
       "topics": [
         "darkness"
@@ -4823,12 +3739,7 @@
       "enclosure_length": "47710876",
       "itunes_duration": "00:49:41",
       "speakers": [
-        "Djerad Thymar",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
+        "Djerad Thymar"
       ],
       "topics": [
         "spare",
@@ -4847,11 +3758,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47055934",
       "itunes_duration": "00:49:00",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "luskan"
@@ -4868,13 +3775,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51276904",
       "itunes_duration": "00:53:24",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Join us"
-      ],
+      "speakers": [],
       "topics": [
         "zmart"
       ]
@@ -4890,13 +3791,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55860662",
       "itunes_duration": "00:58:11",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guests",
-        "Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "mission",
         "breakdown"
@@ -4914,12 +3809,7 @@
       "enclosure_length": "70572408",
       "itunes_duration": "01:13:30",
       "speakers": [
-        "Celeste Conowitch",
-        "Honey Pot",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
+        "Celeste Conowitch"
       ],
       "topics": [
         "dripping",
@@ -4941,12 +3831,7 @@
       "enclosure_length": "48212427",
       "itunes_duration": "00:50:13",
       "speakers": [
-        "Jingle Jangle",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound",
-        "Matt Garbutt Find"
+        "Jingle Jangle"
       ],
       "topics": [
         "jingle",
@@ -4966,10 +3851,7 @@
       "enclosure_length": "49061302",
       "itunes_duration": "00:51:06",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
+        "What Happened"
       ],
       "topics": [
         "waterdeep"
@@ -4986,12 +3868,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119165596",
       "itunes_duration": "02:04:07",
-      "speakers": [
-        "Russ More",
-        "Carla Maxted",
-        "Tom Jan Jan",
-        "Carla See"
-      ],
+      "speakers": [],
       "topics": [
         "patreon",
         "moon",
@@ -5012,11 +3889,7 @@
       "itunes_duration": "00:56:39",
       "speakers": [
         "Celeste Conowitch",
-        "Djerad Thymar",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
+        "Djerad Thymar"
       ],
       "topics": [
         "bees",
@@ -5036,12 +3909,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47073071",
       "itunes_duration": "00:49:02",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s02e66"
       ]
@@ -5057,13 +3925,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80847934",
       "itunes_duration": "01:24:12",
-      "speakers": [
-        "Djerad Thymar",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "bahamut",
         "baby"
@@ -5080,12 +3942,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63863745",
       "itunes_duration": "01:06:31",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -5099,13 +3956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69101609",
       "itunes_duration": "01:11:58",
-      "speakers": [
-        "Cicero Holmes",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "meet",
         "destiny",
@@ -5123,12 +3974,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56865018",
       "itunes_duration": "00:59:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "sham",
         "galar",
@@ -5147,10 +3993,7 @@
       "enclosure_length": "44888398",
       "itunes_duration": "00:46:45",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
+        "Coming Up"
       ],
       "topics": [
         "s02e61",
@@ -5169,12 +4012,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52978834",
       "itunes_duration": "00:55:11",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "crystal"
       ]
@@ -5191,10 +4029,7 @@
       "enclosure_length": "60638772",
       "itunes_duration": "01:03:09",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
+        "Debt Having"
       ],
       "topics": [
         "debt"
@@ -5211,12 +4046,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49760966",
       "itunes_duration": "00:51:50",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "friendship",
         "heart"
@@ -5234,12 +4064,7 @@
       "enclosure_length": "49154507",
       "itunes_duration": "00:51:12",
       "speakers": [
-        "Keith Ammann",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound",
-        "Find Keith"
+        "Keith Ammann"
       ],
       "topics": [
         "trace"
@@ -5256,12 +4081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58260583",
       "itunes_duration": "01:00:41",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "cherry",
         "garbage",
@@ -5280,12 +4100,7 @@
       "enclosure_length": "57828832",
       "itunes_duration": "01:00:14",
       "speakers": [
-        "Keith Ammann",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Sound",
-        "Find Keith"
+        "Keith Ammann"
       ],
       "topics": [
         "rooftop"
@@ -5302,12 +4117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61488901",
       "itunes_duration": "01:04:03",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "behold",
         "quest",
@@ -5326,12 +4136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56023249",
       "itunes_duration": "00:58:21",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "seaside",
         "sneak"
@@ -5348,12 +4153,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53103804",
       "itunes_duration": "00:55:18",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "wave"
       ]
@@ -5370,10 +4170,7 @@
       "enclosure_length": "57022589",
       "itunes_duration": "00:59:23",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
+        "Crew Moot"
       ],
       "topics": [
         "shoe",
@@ -5391,12 +4188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57354031",
       "itunes_duration": "00:59:44",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "pool"
       ]
@@ -5412,13 +4204,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53584457",
       "itunes_duration": "00:55:48",
-      "speakers": [
-        "Laden Menda",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "nice",
         "sunhat"
@@ -5435,12 +4221,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60295627",
       "itunes_duration": "01:02:48",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "surprises",
         "bathroom"
@@ -5458,11 +4239,7 @@
       "enclosure_length": "57985985",
       "itunes_duration": "01:00:24",
       "speakers": [
-        "Laden Menda",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Laden Menda"
       ],
       "topics": [
         "apples",
@@ -5481,10 +4258,7 @@
       "enclosure_length": "48252133",
       "itunes_duration": "00:50:15",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Potion Preparations Before"
       ],
       "topics": [
         "potion",
@@ -5502,13 +4276,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50564702",
       "itunes_duration": "00:52:40",
-      "speakers": [
-        "Faerun Cast Crew",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "trade",
         "donkey"
@@ -5525,10 +4293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55962644",
       "itunes_duration": "00:58:17",
-      "speakers": [
-        "Carla Maxted",
-        "Tom Laird Guest"
-      ],
+      "speakers": [],
       "topics": [
         "door",
         "past"
@@ -5546,12 +4311,7 @@
       "enclosure_length": "59155852",
       "itunes_duration": "01:01:37",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod",
-        "Epidemic Sound Cover Art",
-        "Club Amy"
+        "Proskur Moot"
       ],
       "topics": [
         "pstd",
@@ -5569,12 +4329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43503279",
       "itunes_duration": "00:45:18",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "adventure"
       ]
@@ -5591,11 +4346,7 @@
       "enclosure_length": "50499081",
       "itunes_duration": "00:52:36",
       "speakers": [
-        "Sean Howard",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
+        "Sean Howard"
       ],
       "topics": [
         "omen"
@@ -5612,12 +4363,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50210689",
       "itunes_duration": "00:52:18",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "forest",
         "recruit"
@@ -5635,11 +4381,7 @@
       "enclosure_length": "54340127",
       "itunes_duration": "00:56:36",
       "speakers": [
-        "Sean Howard",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
+        "Sean Howard"
       ],
       "topics": [
         "guide",
@@ -5657,12 +4399,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54943660",
       "itunes_duration": "00:57:13",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "s02e38"
       ]
@@ -5679,11 +4416,7 @@
       "enclosure_length": "56047490",
       "itunes_duration": "00:58:22",
       "speakers": [
-        "Faerun Town",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Faerun Town"
       ],
       "topics": [
         "faerun",
@@ -5701,12 +4434,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55330690",
       "itunes_duration": "00:57:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "turn"
       ]
@@ -5722,12 +4450,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61238125",
       "itunes_duration": "01:03:47",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "thing"
       ]
@@ -5744,10 +4467,7 @@
       "enclosure_length": "59971709",
       "itunes_duration": "01:02:28",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Waterdeep Flint"
       ],
       "topics": [
         "heartache",
@@ -5767,11 +4487,7 @@
       "enclosure_length": "60196989",
       "itunes_duration": "01:02:42",
       "speakers": [
-        "Elturel Moot",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Elturel Moot"
       ],
       "topics": [
         "dirty",
@@ -5790,12 +4506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74355774",
       "itunes_duration": "01:17:27",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "flash"
       ]
@@ -5811,12 +4522,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57441802",
       "itunes_duration": "00:59:50",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "potatoes"
       ]
@@ -5833,11 +4539,9 @@
       "enclosure_length": "69472339",
       "itunes_duration": "01:12:21",
       "speakers": [
-        "Beefy Boy",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
+        "Along Came Margaret Continuing",
+        "Waterdeep Flint",
+        "Beefy Boy"
       ],
       "topics": [
         "came",
@@ -5856,12 +4560,7 @@
       "enclosure_length": "75888013",
       "itunes_duration": "01:19:02",
       "speakers": [
-        "David Alvord",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Tiffany Alvord",
-        "Kevin Mcleod Cover Art"
+        "David Alvord"
       ],
       "topics": [
         "quest",
@@ -5881,11 +4580,7 @@
       "enclosure_length": "56192522",
       "itunes_duration": "00:58:31",
       "speakers": [
-        "Beefy Boy",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Beefy Boy"
       ],
       "topics": [
         "forest",
@@ -5903,14 +4598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64369057",
       "itunes_duration": "01:07:03",
-      "speakers": [
-        "David Alvord",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Tiffany Alvord",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "turnt",
         "gobbo",
@@ -5929,10 +4617,8 @@
       "enclosure_length": "58380538",
       "itunes_duration": "01:00:48",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Black Pool Flint",
+        "Black Pool"
       ],
       "topics": [
         "escape",
@@ -5951,12 +4637,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68047934",
       "itunes_duration": "01:10:52",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "night"
       ]
@@ -5973,13 +4654,7 @@
       "enclosure_length": "102437198",
       "itunes_duration": "01:46:42",
       "speakers": [
-        "Lipsinki Pipdiggins",
-        "Kyle Classet",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kyle Claset",
-        "Kevin Mcleod Cover Art"
+        "Lipsinki Pipdiggins"
       ],
       "topics": [
         "streets",
@@ -5999,10 +4674,8 @@
       "enclosure_length": "56526889",
       "itunes_duration": "00:58:52",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Weird Night",
+        "Watch Moot"
       ],
       "topics": [
         "weird",
@@ -6022,13 +4695,7 @@
       "enclosure_length": "72598255",
       "itunes_duration": "01:15:37",
       "speakers": [
-        "Vorunax Zatruchreth",
-        "Kyle Classet",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kyle Claset",
-        "Kevin Mcleod Cover Art"
+        "Black Pool Flint"
       ],
       "topics": [
         "black",
@@ -6047,9 +4714,8 @@
       "enclosure_length": "99710014",
       "itunes_duration": "01:43:51",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
+        "Chilly Trip Across",
+        "Podcasts Into Avernus"
       ],
       "topics": [
         "chilly",
@@ -6071,10 +4737,7 @@
       "enclosure_length": "56505154",
       "itunes_duration": "00:58:51",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "weird adventur"
       ],
       "topics": [
         "real",
@@ -6094,10 +4757,7 @@
       "enclosure_length": "42253163",
       "itunes_duration": "00:44:00",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "over run"
       ],
       "topics": [
         "tremors"
@@ -6115,10 +4775,7 @@
       "enclosure_length": "59360234",
       "itunes_duration": "01:01:49",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Prayers Settling"
       ],
       "topics": [
         "thoughts",
@@ -6136,12 +4793,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50450598",
       "itunes_duration": "00:52:33",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "s02e18",
         "moving"
@@ -6159,11 +4811,7 @@
       "enclosure_length": "64869354",
       "itunes_duration": "01:07:34",
       "speakers": [
-        "Victoria Rogers",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
+        "Victoria Rogers"
       ],
       "topics": [
         "planned",
@@ -6181,12 +4829,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53154793",
       "itunes_duration": "00:55:22",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "wizard"
@@ -6203,13 +4846,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50232840",
       "itunes_duration": "00:52:19",
-      "speakers": [
-        "Victoria Rogers",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "king"
       ]
@@ -6226,11 +4863,7 @@
       "enclosure_length": "65490442",
       "itunes_duration": "01:08:13",
       "speakers": [
-        "Nulara Moonbrook",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Going Home"
       ],
       "topics": [
         "home"
@@ -6248,10 +4881,7 @@
       "enclosure_length": "70144000",
       "itunes_duration": "01:13:03",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
+        "Code Following"
       ],
       "topics": [
         "code"
@@ -6268,12 +4898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59217293",
       "itunes_duration": "01:01:41",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "flash"
       ]
@@ -6289,12 +4914,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66821222",
       "itunes_duration": "01:09:36",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "windmill",
         "town"
@@ -6311,12 +4931,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60923820",
       "itunes_duration": "01:03:27",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "money",
@@ -6334,12 +4949,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56404843",
       "itunes_duration": "00:58:45",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "destiny"
       ]
@@ -6355,13 +4965,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61648143",
       "itunes_duration": "01:04:12",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod",
-        "Epidemic Sound Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "jail",
         "break"
@@ -6378,13 +4982,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54035433",
       "itunes_duration": "00:56:17",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod",
-        "Epidemic Sound Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "trust"
       ]
@@ -6400,13 +4998,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55905801",
       "itunes_duration": "00:58:13",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod",
-        "Epidemic Sound Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "classic",
         "moot"
@@ -6423,13 +5015,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53106310",
       "itunes_duration": "00:55:19",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin Mcleod",
-        "Epidemic Sound Cover Art"
-      ],
+      "speakers": [],
       "topics": [
         "s02e05"
       ]
@@ -6446,11 +5032,7 @@
       "enclosure_length": "81373309",
       "itunes_duration": "01:24:45",
       "speakers": [
-        "Russ Amy",
-        "Amy More",
-        "Russ More",
-        "Renee Rhodes",
-        "Kyle Claset"
+        "Russ Amy"
       ],
       "topics": [
         "special",
@@ -6470,11 +5052,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72026488",
       "itunes_duration": "01:15:01",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "pretention"
       ]
@@ -6490,11 +5068,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59992606",
       "itunes_duration": "01:02:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "kiestering"
       ]
@@ -6511,9 +5085,7 @@
       "enclosure_length": "58561931",
       "itunes_duration": "01:00:59",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
+        "Finding Direction Glim"
       ],
       "topics": [
         "direction"
@@ -6530,11 +5102,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56218853",
       "itunes_duration": "00:58:33",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "beginning"
       ]
@@ -6550,13 +5118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78373198",
       "itunes_duration": "01:21:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Sean Howard",
-        "Kevin McLeod"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "mailbag"
@@ -6573,11 +5135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1633802",
       "itunes_duration": "00:01:42",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "dumbgeons",
         "dragons"
@@ -6594,15 +5152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65918432",
       "itunes_duration": "01:08:39",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Sean Howard",
-        "Kevin McLeod",
-        "Scott Buckley Sound",
-        "Syrinscape Find"
-      ],
+      "speakers": [],
       "topics": [
         "tiamat",
         "finale"
@@ -6619,15 +5169,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42494328",
       "itunes_duration": "00:44:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Sean Howard",
-        "Kevin McLeod",
-        "Scott Buckley Sound",
-        "Syrinscape Find"
-      ],
+      "speakers": [],
       "topics": [
         "s01e82",
         "inevitable"
@@ -6644,14 +5186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50983497",
       "itunes_duration": "00:53:06",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound",
-        "Syrinscape Find"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -6666,12 +5201,7 @@
       "enclosure_length": "40415817",
       "itunes_duration": "00:42:05",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound",
-        "Syrinscape Find"
+        "So Close"
       ],
       "topics": [
         "s01e80",
@@ -6689,13 +5219,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47693322",
       "itunes_duration": "00:49:40",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
-      ],
+      "speakers": [],
       "topics": [
         "time"
       ]
@@ -6711,13 +5235,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42001136",
       "itunes_duration": "00:43:45",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
-      ],
+      "speakers": [],
       "topics": [
         "good",
         "faith"
@@ -6734,13 +5252,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50362827",
       "itunes_duration": "00:52:27",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e77"
       ]
@@ -6756,13 +5268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52819173",
       "itunes_duration": "00:55:01",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e76"
       ]
@@ -6778,13 +5284,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50374948",
       "itunes_duration": "00:52:28",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
-      ],
+      "speakers": [],
       "topics": [
         "beginning"
       ]
@@ -6801,10 +5301,7 @@
       "enclosure_length": "68553665",
       "itunes_duration": "01:11:24",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Adventure Today"
       ],
       "topics": [
         "adventure"
@@ -6822,9 +5319,7 @@
       "enclosure_length": "75787702",
       "itunes_duration": "01:18:56",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
+        "Piece Uh Food"
       ],
       "topics": [
         "podcon",
@@ -6843,12 +5338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56014053",
       "itunes_duration": "00:58:20",
-      "speakers": [
-        "Deekin Scalesinger",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "podcon"
       ]
@@ -6865,13 +5355,8 @@
       "enclosure_length": "73829564",
       "itunes_duration": "01:16:54",
       "speakers": [
-        "Sean Howard",
-        "Old Man Apelloko",
-        "Travis Vengroff",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Kevin McLeod Sound"
+        "When Portals Collide",
+        "Birds Fight Back Flint"
       ],
       "topics": [
         "podcon",
@@ -6890,12 +5375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41347030",
       "itunes_duration": "00:43:04",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "road",
         "trip"
@@ -6913,10 +5393,7 @@
       "enclosure_length": "46518857",
       "itunes_duration": "00:48:27",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Frat Boys Returning"
       ],
       "topics": [
         "mechanics",
@@ -6936,12 +5413,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50914115",
       "itunes_duration": "00:53:02",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "home"
       ]
@@ -6958,10 +5430,7 @@
       "enclosure_length": "65417717",
       "itunes_duration": "01:08:08",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Returning Home Flint"
       ],
       "topics": [
         "home"
@@ -6978,12 +5447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52110733",
       "itunes_duration": "00:54:16",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "grancis"
       ]
@@ -7001,11 +5465,7 @@
       "itunes_duration": "00:56:35",
       "speakers": [
         "Ho Boy",
-        "Merry Winter Solstice",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Merry Winter Solstice"
       ],
       "topics": []
     },
@@ -7020,12 +5480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59638177",
       "itunes_duration": "01:02:07",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e67",
         "where",
@@ -7043,12 +5498,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55241665",
       "itunes_duration": "00:57:32",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "property",
         "bros"
@@ -7066,11 +5516,7 @@
       "enclosure_length": "52764421",
       "itunes_duration": "00:54:57",
       "speakers": [
-        "Eseldra Yeth",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Eseldra Yeth"
       ],
       "topics": [
         "sweet",
@@ -7089,12 +5535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52365270",
       "itunes_duration": "00:54:32",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "thay",
         "laugh"
@@ -7112,10 +5553,7 @@
       "enclosure_length": "57968849",
       "itunes_duration": "01:00:23",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Thay After"
       ],
       "topics": [
         "thay"
@@ -7132,12 +5570,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45837165",
       "itunes_duration": "00:47:44",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "parting"
       ]
@@ -7153,14 +5586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51152352",
       "itunes_duration": "00:53:16",
-      "speakers": [
-        "Spencer Jo",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Music",
-        "gmail com",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "haunted",
         "house",
@@ -7178,14 +5604,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52449697",
       "itunes_duration": "00:54:38",
-      "speakers": [
-        "Spencer Jo",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Music",
-        "gmail com",
-        "Kevin McLeod Sound Design"
-      ],
+      "speakers": [],
       "topics": [
         "haunted",
         "house",
@@ -7203,13 +5622,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39602468",
       "itunes_duration": "00:41:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Keith Ross Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "xonthal",
@@ -7227,12 +5640,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45481482",
       "itunes_duration": "00:47:22",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "manner"
       ]
@@ -7248,12 +5656,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46314475",
       "itunes_duration": "00:48:14",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "hourglass"
       ]
@@ -7269,12 +5672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36797126",
       "itunes_duration": "00:38:19",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e56"
       ]
@@ -7290,12 +5688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47891853",
       "itunes_duration": "00:49:53",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e55"
       ]
@@ -7311,12 +5704,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45394546",
       "itunes_duration": "00:47:17",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "s01e54",
         "doing"
@@ -7333,12 +5721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49890115",
       "itunes_duration": "00:51:58",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "butt"
       ]
@@ -7355,10 +5738,7 @@
       "enclosure_length": "42407810",
       "itunes_duration": "00:44:10",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Ya Doink"
       ],
       "topics": [
         "doink"
@@ -7376,10 +5756,7 @@
       "enclosure_length": "53393031",
       "itunes_duration": "00:55:37",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Tea Seemingly"
       ],
       "topics": [
         "maze"
@@ -7397,11 +5774,7 @@
       "enclosure_length": "61878021",
       "itunes_duration": "01:04:27",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
+        "Anyone Bring Pruning Shears"
       ],
       "topics": [
         "pruning",
@@ -7420,11 +5793,7 @@
       "enclosure_length": "47497299",
       "itunes_duration": "00:49:28",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
+        "Giant Competition Making"
       ],
       "topics": [
         "giant",
@@ -7443,11 +5812,8 @@
       "enclosure_length": "69867311",
       "itunes_duration": "01:12:46",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod",
-        "Scott Buckley Sound"
+        "Quick Trip",
+        "Maze Having"
       ],
       "topics": [
         "quick",
@@ -7466,12 +5832,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61239379",
       "itunes_duration": "01:03:47",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod"
-      ],
+      "speakers": [],
       "topics": [
         "stream",
         "xonthal",
@@ -7489,12 +5850,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49035807",
       "itunes_duration": "00:51:04",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "interrogation",
         "decision"
@@ -7511,12 +5867,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42858370",
       "itunes_duration": "00:44:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "perception",
         "council"
@@ -7533,14 +5884,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74888672",
       "itunes_duration": "01:18:00",
-      "speakers": [
-        "Spencer Jo",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Spencer Jo Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "friend",
         "night"
@@ -7557,14 +5901,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51947729",
       "itunes_duration": "00:54:06",
-      "speakers": [
-        "Spencer Jo",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Spencer Jo Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "friend",
         "night"
@@ -7581,12 +5918,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133997296",
       "itunes_duration": "02:19:34",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "crimson",
         "spring",
@@ -7607,12 +5939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121396244",
       "itunes_duration": "02:06:27",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "mechanics",
         "night"
@@ -7629,12 +5956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128461426",
       "itunes_duration": "02:13:48",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "fortress",
         "women",
@@ -7655,14 +5977,10 @@
       "enclosure_length": "83757348",
       "itunes_duration": "01:27:14",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Victoria Rogers",
-        "Katie Mae Weber",
-        "Keith Ross",
-        "Jeremy Oleksa",
-        "Kevin McLeod Sound"
+        "Trusted Representatives",
+        "Waterdeep After",
+        "Nine Shadows",
+        "Nether Mounta"
       ],
       "topics": [
         "representatives",
@@ -7681,10 +5999,8 @@
       "enclosure_length": "73458416",
       "itunes_duration": "01:16:31",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Guild Flint",
+        "Nine Shadows"
       ],
       "topics": [
         "guild"
@@ -7701,12 +6017,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57453923",
       "itunes_duration": "00:59:50",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -7721,10 +6032,7 @@
       "enclosure_length": "87343020",
       "itunes_duration": "01:30:58",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Noxious Gas Chuth"
       ],
       "topics": [
         "cloud",
@@ -7743,11 +6051,7 @@
       "enclosure_length": "46198282",
       "itunes_duration": "00:48:07",
       "speakers": [
-        "Anyone Home",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Anyone Home"
       ],
       "topics": [
         "knock",
@@ -7766,11 +6070,7 @@
       "enclosure_length": "53615802",
       "itunes_duration": "00:55:50",
       "speakers": [
-        "Anyone Home",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Anyone Home"
       ],
       "topics": [
         "knock",
@@ -7788,12 +6088,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58696932",
       "itunes_duration": "01:01:08",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
-      ],
+      "speakers": [],
       "topics": [
         "altand",
         "interrogation"
@@ -7811,11 +6106,7 @@
       "enclosure_length": "69172244",
       "itunes_duration": "01:12:03",
       "speakers": [
-        "Delaan Winterhound",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Sound"
+        "Delaan Winterhound"
       ],
       "topics": [
         "welcome",
@@ -7833,14 +6124,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88091167",
       "itunes_duration": "01:31:45",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird",
-        "Michael Cedarblom",
-        "Kyle Grichel",
-        "Kevin McLeod"
-      ],
+      "speakers": [],
       "topics": [
         "feywild",
         "things",
@@ -7859,10 +6143,8 @@
       "enclosure_length": "46989479",
       "itunes_duration": "00:48:56",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod"
+        "Fireside Reflection Flint",
+        "Misty Forest"
       ],
       "topics": [
         "fireside",
@@ -7881,12 +6163,7 @@
       "enclosure_length": "77266024",
       "itunes_duration": "01:20:29",
       "speakers": [
-        "DM Doc",
-        "Cast Crew",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Guest",
-        "Kevin McLeod Find"
+        "DM Doc"
       ],
       "topics": [
         "things"
@@ -7904,10 +6181,8 @@
       "enclosure_length": "41935098",
       "itunes_duration": "00:43:40",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Council Meeting",
+        "Waterdeep Flint"
       ],
       "topics": [
         "council",
@@ -7926,13 +6201,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73397394",
       "itunes_duration": "01:16:27",
-      "speakers": [
-        "Patron Ty Zuniga",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "grancis",
         "solstice",
@@ -7951,10 +6220,7 @@
       "enclosure_length": "101877133",
       "itunes_duration": "01:46:07",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Winter Solstice Holiday"
       ],
       "topics": [
         "winter",
@@ -7973,12 +6239,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74390883",
       "itunes_duration": "01:17:29",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "serpents",
         "mind",
@@ -7996,12 +6257,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71320973",
       "itunes_duration": "01:14:17",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "portal",
         "hole"
@@ -8018,12 +6274,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56330866",
       "itunes_duration": "00:58:40",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "party"
       ]
@@ -8039,12 +6290,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86239190",
       "itunes_duration": "01:29:49",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Support"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special",
@@ -8065,10 +6311,7 @@
       "enclosure_length": "62761169",
       "itunes_duration": "01:05:22",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Diderius Pt"
       ],
       "topics": [
         "tomb",
@@ -8086,12 +6329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47931559",
       "itunes_duration": "00:49:55",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "tomb",
         "diderius"
@@ -8108,12 +6346,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61627663",
       "itunes_duration": "01:04:11",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "arrival",
         "boareskyr",
@@ -8131,12 +6364,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96621296",
       "itunes_duration": "01:40:38",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "luskan"
       ]
@@ -8152,12 +6380,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63860401",
       "itunes_duration": "01:06:31",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "gnoll",
         "river"
@@ -8175,10 +6398,7 @@
       "enclosure_length": "69590204",
       "itunes_duration": "01:12:29",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Brains Usually"
       ],
       "topics": [
         "battle",
@@ -8196,14 +6416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66931147",
       "itunes_duration": "01:09:43",
-      "speakers": [
-        "Murder Time",
-        "Flame Tongues",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "sphere",
         "safety"
@@ -8220,12 +6433,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55869440",
       "itunes_duration": "00:58:11",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "bunch",
         "yuck"
@@ -8243,10 +6451,9 @@
       "enclosure_length": "67029786",
       "itunes_duration": "01:09:49",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "No Waiting",
+        "Only Murder",
+        "Tholonius Primsbane"
       ],
       "topics": [
         "waiting",
@@ -8266,12 +6473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44409835",
       "itunes_duration": "00:46:15",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "stutter",
         "time"
@@ -8288,12 +6490,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62678831",
       "itunes_duration": "01:05:17",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "dumbgeon"
       ]
@@ -8309,12 +6506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59336829",
       "itunes_duration": "01:01:48",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "trouble",
         "police"
@@ -8332,11 +6524,7 @@
       "enclosure_length": "60724035",
       "itunes_duration": "01:03:15",
       "speakers": [
-        "Leonin Glorygem",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Leonin Glorygem"
       ],
       "topics": [
         "plan"
@@ -8353,12 +6541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60933015",
       "itunes_duration": "01:03:28",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
-      ],
+      "speakers": [],
       "topics": [
         "death"
       ]
@@ -8375,10 +6558,7 @@
       "enclosure_length": "36618657",
       "itunes_duration": "00:38:08",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Little Rock Pt"
       ],
       "topics": [
         "hunter",
@@ -8398,10 +6578,7 @@
       "enclosure_length": "59601815",
       "itunes_duration": "01:02:05",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Little Rock Pt"
       ],
       "topics": [
         "hunter",
@@ -8421,11 +6598,7 @@
       "enclosure_length": "53098370",
       "itunes_duration": "00:55:18",
       "speakers": [
-        "Lemonade Makin",
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Lemonade Makin"
       ],
       "topics": [
         "movin",
@@ -8445,12 +6618,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "10579800",
       "itunes_duration": "00:11:01",
-      "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Transcript"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "dice",
@@ -8469,10 +6637,7 @@
       "enclosure_length": "84893361",
       "itunes_duration": "01:28:25",
       "speakers": [
-        "Amy More",
-        "Carla Maxted",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Find"
+        "Ancient Whi"
       ],
       "topics": [
         "dragons"
@@ -8489,12 +6654,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56590001",
       "itunes_duration": "00:58:56",
-      "speakers": [
-        "Amy More",
-        "Carla Johnson",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Transcript"
-      ],
+      "speakers": [],
       "topics": [
         "bananas"
       ]
@@ -8511,10 +6671,7 @@
       "enclosure_length": "65388042",
       "itunes_duration": "01:08:06",
       "speakers": [
-        "Amy More",
-        "Carla Johnson",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Transcript"
+        "Something Fishy"
       ],
       "topics": [
         "fishy"
@@ -8531,12 +6688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55064450",
       "itunes_duration": "00:57:21",
-      "speakers": [
-        "Amy More",
-        "Carla Johnson",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Transcript"
-      ],
+      "speakers": [],
       "topics": [
         "boat"
       ]
@@ -8553,10 +6705,7 @@
       "enclosure_length": "48468218",
       "itunes_duration": "00:50:29",
       "speakers": [
-        "Amy More",
-        "Carla Johnson",
-        "Tom Laird Sound Design",
-        "Kevin McLeod Transcript"
+        "First Name Welcome"
       ],
       "topics": [
         "ship"
@@ -8569,363 +6718,363 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — When the Bells Toll (Campaign 2 – S4E49) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-02-11 — A Ceremonial Coal Raking (Campaign 2 – S4E48) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-02-04 — Just a Regular Ceremony (Campaign 2 – S4E47) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-01-29 — Kav Can Do This (Campaign 2 – S4E46) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-01-21 — Who Does This Guy Think He Is? (Campaign 2 – S4E45) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-01-14 — The Town Burn Book (Campaign 2 – S4E44) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2026-01-07 — From Fart Jokes to Fantasy: A Creator's Journey (A Creator Chat with The Adventures of Bud and Herb) — speakers: Russ Kyle, Herb Evan Bivins, Anna Fitz Fitzgerald
-- 2025-12-03 — The Ghost Elk (Campaign 2 - S4E43) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-11-20 — A Field Test (Campaign 2 - S4E42) — speakers: Ghost Elk, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-11-12 — Crow or Not Crow (Campaign 2 - S4E41) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-11-05 — Oddities from the Top of a Flag Pole (Campaign 2 - S4E40) — speakers: Folen Varam, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-10-29 — Nic: Patron Saint of Malibu Condos Pt 2 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz, Content Warning, Comedic Danger, Find Abdul, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue
-- 2025-10-22 — Nic: Patron Saint of Malibu Condos Pt 1 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz, Content Warning, Comedic Danger, Find Abdul, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue
-- 2025-10-15 — Introducing Facing Fate: Chromeheads & Corpos — speakers: Dino Dinovic, Carla Maxted Lollipop Amy, Tom Laird Referee Kyle, KC Bailey
-- 2025-10-08 — Baby's First Leave (Campaign 2 - S4E39) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-10-01 — Itsy Bitsy Prison Break (feat. Tim Lanning) (Campaign 2 - S4E38) — speakers: Itsy Bitsy Prison Break, Tim Lanning, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-09-24 — The Great Escape (feat. Tim Lanning) (Campaign 2 - S4E37) — speakers: Tim Lanning, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-09-17 — Chamber Pot Politics (feat. Tim Lanning) (Campaign 2 - S4E36) — speakers: Tim Lanning, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-09-10 — The Trial of Kavlaran Goldweave Part 2 (feat. Tim Lanning) (Campaign 2 - S4E35) — speakers: Tim Lanning, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-09-03 — The Trial of Kavlaran Goldweave Part 1 (feat. Tim Lanning) (Campaign 2 - S4E34) — speakers: Tim Lanning, Thurston La'Folgud, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-08-13 — You Have the Right to Remain Confused (feat. Tim Lanning) (Campaign 2 - S4E33) — speakers: Remain Confused, Tim Lanning, Thurston La'Folgud, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-07-30 — Where Fire Knows My Name (Campaign 2 - S4E32) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-07-16 — Blood, Sweat, and Fey-rs (Campaign 2 - S4E31) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt, Merch Store
-- 2025-06-18 — Regular Rituals for Regular People (Campaign 2 - S4E30) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-06-09 — Can You Jumpstart a Forge? (Campaign 2 - S4E29) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-05-28 — What is Real Anymore? (Campaign 2 - S4E28) — speakers: Real Anymore, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-05-22 — While You Were a'Fey... (Campaign 2 - S4E27) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-05-14 — The Grand Yeeting (Campaign 2 - S4E26) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-05-12 — Banjokes on Us (Campaign 2 - S4E25) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-04-30 — Shattered Dreams (Campaign 2 - S4E24) — speakers: Shattered Dreams, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-04-23 — Don’t Kill My Fake Dad (Nip Slip) (Campaign 2 - S4E23) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-04-16 — Feed Drop – Jesters of Ravenloft - Episode 02 | Presented by Dumbgeons — speakers: Feed Drop, Werner Herzog, Tyler Hewitt, Del Borovic, Guy Bradford, Adam McNamara, Ryan LaPlante, Del Borovic Website Portfolio
-- 2025-04-16 — Feed Drop – Jesters of Ravenloft - Episode 01 | Presented by Dumbgeons — speakers: Feed Drop, Tyler Hewitt, Del Borovic, Guy Bradford, Adam McNamara, Ryan LaPlante, Del Borovic Website Portfolio
-- 2025-04-09 — We Need To Go! (Campaign 2 - S4E22) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-04-02 — String Theory (Campaign 2 - S4E21) — speakers: String Theory, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-03-26 — Stuffed and Dangerous (Campaign 2 - S4E20) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-03-19 — The Hollow (Campaign 2 - S4E19) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-03-13 — Shall We Dance... to the Death? (Campaign 2 - S4E18) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-03-05 — Saving Mind Boogers (Campaign 2 - S4E17) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-02-26 — Chasing Monster Dad (Campaign 2 - S4E16) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-02-19 — Nice Can Be Weird Too (Campaign 2 - S4E15) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2025-02-12 — Just A Couple Cozy Places (Campaign 2 - S4E14) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2024-12-16 — The Masque of the Red Death - Part 6 — speakers: Edgar Allan Poe, Madeline Usher Carla, William Dupin
-- 2024-12-16 — The Masque of the Red Death - Part 1 — speakers: Edgar Allan Poe, Madeline Usher Carla, William Dupin
-- 2024-12-13 — Dumbgeons Holiday Special – Santa Baby Pt 2 | Caltrop Core One-Shot — speakers: Baby Santa, Comedic Danger, Amy More, Carla Maxted, Tom Laird Guest, Abdul Aziz, Russ More Dialogue, Matt Garbutt
-- 2024-12-09 — Dumbgeons Holiday Special – Santa Baby Pt 1| Caltrop Core One-Shot — speakers: Content Warning, Comedic Danger, Amy More, Carla Maxted, Tom Laird Guest, Abdul Aziz, Russ More Dialogue, Matt Garbutt
-- 2024-12-05 — Not That Dan (Campaign 2 - S4E13) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Matt Garbutt
-- 2024-11-28 — Lost and Fathered (Campaign 2 - S4E12) — speakers: Amy More, Carla Maxted, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-11-20 — We Need An Adult (Campaign 2 - S4E11) — speakers: Amy More, Carla Maxted, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-11-08 — Spooky Story Rules and a Page’s Bathroom Break (Campaign 2 - S4E10) — speakers: Spooky Story Rules, Amy More, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-11-01 — Dropship Mona Lisa | One-Shot (Crossover feat. Dungeons & Drimbus) — speakers: Mona Lisa, Cast Cork, Giancarlo Herrera Bottle, Michael Pisani, Carla Maxted, Russ More, Hannah Schooner Listen
-- 2024-10-31 — Heard You Were Back! (Campaign 2 - S4E09) — speakers: Amy More, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-10-24 — Shoplifters Beware (Campaign 2 - S4E08) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-10-16 — Spy Sticks (Campaign 2 - S4E07) — speakers: Amy More, Carla Maxted, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-10-09 — Ashes to Ashes Pt 1 (Crossover feat. I Seduce The Dragon) — speakers: Carla Maxted, Dana Scarborough, Jess Parks, Carla Maxted Seraphina, Amy More Shannon, Jess Parks Story, Grant Howitt
-- 2024-10-03 — A Crumbling Mess (Campaign 2 - S4E06) — speakers: Cristina Van Epps, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Matt Garbutt
-- 2024-09-25 — Elevator to a Monster’s Lair (Campaign 2 - S4E05) — speakers: Cristina Van Epps, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Matt Garbutt
-- 2024-09-18 — Just a Bunch of Virgins (Campaign 2 - S4E04) — speakers: Cristina Van Epps, Carla Maxted, Amy More, Tom Laird, Kyle Claset, Russ More Dialogue, Matt Garbutt
-- 2024-09-16 — Attack at the Docks (Campaign 2 - S4E03) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-09-10 — To the Bridge! (Campaign 2 - S4E02) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-09-06 — Sound the Alarm (Campaign 2 - S4E01) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-08-30 — Fishing is Hard (Summer Minisode) (Campaign 2 - S3E33) — speakers: Tom Laird, Kyle Claset, Russ More, Matt Garbutt
-- 2024-08-28 — Feed Drop – Mall Brats | Presented by Dumbgeons — speakers: Feed Drop, Shawn O'Hara, Smartie Root
-- 2024-08-22 — Oak’s Weekend Plans (Summer Minisode) (Campaign 2 - S3E32) — speakers: Summer Minisode, Ursula Major, Ursula Minor, Amy More, Carla Maxted, Russ More, Matt Garbutt
-- 2024-08-14 — Psilocybin in the Park (Summer Minisode) (Campaign 2 - S3E31) — speakers: Amy More, Matt Garbutt
-- 2024-08-07 — Anti‑Establishment Slam Poetry (Summer Minisode) (Campaign 2 - S3E30) — speakers: Tom Laird, Russ More, Amy More Sound Design, Matt Garbutt
-- 2024-07-31 — Brunch and Crime (Summer Minisode) (Campaign 2 - S3E29) — speakers: Carla Maxted, Russ More Sound Design, Matt Garbutt
-- 2024-07-24 — Sweet New Kicks (Summer Minisode) (Campaign 2 - S3E28) — speakers: Sweet New Kicks, Amy More, Tom Laird Sound Design, Matt Garbutt
-- 2024-07-17 — Change of Drawers (Summer Minisode) (Campaign 2 - S3E27) — speakers: Tom Laird, Epidemic Sound, Matt Garbutt
-- 2024-07-11 — So... About That Kav? (Summer Minisode) (Campaign 2 - S3E26) — speakers: Russ More, Carla Maxted Sound Design, Matt Garbutt
-- 2024-06-27 — Auntie Nina’s Office Visit (Campaign 2 - S3E25) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-06-19 — The Raw Books (Campaign 2 - S3E24) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-06-14 — Lessons in the Weave (Campaign 2 - S3E23) — speakers: Amy More, Carla Maxted, Kyle Claset, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-06-05 — Scratches Under the Floorboards (Campaign 2 - S3E22) — speakers: Amy More, Carla Maxted, Kyle Claset, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-05-29 — Leaving Nothing to the Imagination (Campaign 2 - S3E21) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-05-22 — A Cozy Morning in Vintersmouth (Campaign 2 - S3E20) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Matt Garbutt
-- 2024-05-15 — A Pirate Mid‑"Day‑Ger" (Campaign 2 - S3E19) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Mathew Aberly, Ian Overton, Russ More Dialogue, Carla Maxted Sound Design
-- 2024-05-08 — When You’re Here, You’re Old (Campaign 2 - S3E18) — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Matthew Aberly, Ian Overton, Russ More Dialogue, Carla Maxted Sound Design
-- 2024-05-02 — Goblin Benihana (Campaign 2 - S3E19) — speakers: Goblin Benihana, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Joe Fisher, Midnight Burger, Russ More Dialogue
-- 2024-04-24 — The Mating Rituals of Goblins (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E16) — speakers: Joe Fisher, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Midnight Burger, Russ More Dialogue, Carla Maxted Sound Design
-- 2024-04-17 — A Pop‑Up Memorial (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E15) — speakers: Joe Fisher, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Midnight Burger, Russ More Dialogue, Carla Maxted Sound Design
-- 2024-04-10 — Practic‑ling in Slengston (Campaign 2 - S3E14) — speakers: Amy More, Carla Maxted Cast, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-04-03 — A Pirate’s Side Hustle (Campaign 2 - S3E13) — speakers: Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-03-27 — A Deconstructed Peanut Butter (Campaign 2 - S3E12) — speakers: Carla Maxted, Tom Laird, Kyle Claset, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-03-20 — The Magic Closet (Campaign 2 - S3E11) — speakers: Kyle Claset, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-03-13 — Bizard The Wizard (Campaign 2 - S3E10) — speakers: Kyle Claset, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-03-06 — An Adventurer’s Audition (Campaign 2 - S3E09) — speakers: Adventurer’s Audition, Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-02-28 — Brewed Awakened (Campaign 2 - S3E08) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-02-21 — The Great Baby Sheep Swap (Campaign 2 - S3E07) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
+- 2026-02-19 — When the Bells Toll (Campaign 2 – S4E49)
+- 2026-02-11 — A Ceremonial Coal Raking (Campaign 2 – S4E48)
+- 2026-02-04 — Just a Regular Ceremony (Campaign 2 – S4E47)
+- 2026-01-29 — Kav Can Do This (Campaign 2 – S4E46)
+- 2026-01-21 — Who Does This Guy Think He Is? (Campaign 2 – S4E45)
+- 2026-01-14 — The Town Burn Book (Campaign 2 – S4E44) — speakers: Ghost Elk
+- 2026-01-07 — From Fart Jokes to Fantasy: A Creator's Journey (A Creator Chat with The Adventures of Bud and Herb) — speakers: Russ Kyle
+- 2025-12-03 — The Ghost Elk (Campaign 2 - S4E43) — speakers: than answe
+- 2025-11-20 — A Field Test (Campaign 2 - S4E42) — speakers: Field Test
+- 2025-11-12 — Crow or Not Crow (Campaign 2 - S4E41)
+- 2025-11-05 — Oddities from the Top of a Flag Pole (Campaign 2 - S4E40) — speakers: Folen Varam
+- 2025-10-29 — Nic: Patron Saint of Malibu Condos Pt 2 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz
+- 2025-10-22 — Nic: Patron Saint of Malibu Condos Pt 1 (feat. Abdul Aziz) (A Santa Baby Halloween Special) — speakers: Abdul Aziz
+- 2025-10-15 — Introducing Facing Fate: Chromeheads & Corpos — speakers: Introducing Facing Fate, Corpos Taking
+- 2025-10-08 — Baby's First Leave (Campaign 2 - S4E39) — speakers: behind them
+- 2025-10-01 — Itsy Bitsy Prison Break (feat. Tim Lanning) (Campaign 2 - S4E38) — speakers: Itsy Bitsy Prison Break, Tim Lanning
+- 2025-09-24 — The Great Escape (feat. Tim Lanning) (Campaign 2 - S4E37) — speakers: Tim Lanning
+- 2025-09-17 — Chamber Pot Politics (feat. Tim Lanning) (Campaign 2 - S4E36) — speakers: Tim Lanning
+- 2025-09-10 — The Trial of Kavlaran Goldweave Part 2 (feat. Tim Lanning) (Campaign 2 - S4E35) — speakers: Tim Lanning
+- 2025-09-03 — The Trial of Kavlaran Goldweave Part 1 (feat. Tim Lanning) (Campaign 2 - S4E34) — speakers: Tim Lanning
+- 2025-08-13 — You Have the Right to Remain Confused (feat. Tim Lanning) (Campaign 2 - S4E33) — speakers: Remain Confused, Tim Lanning
+- 2025-07-30 — Where Fire Knows My Name (Campaign 2 - S4E32) — speakers: Where Fire Knows My
+- 2025-07-16 — Blood, Sweat, and Fey-rs (Campaign 2 - S4E31)
+- 2025-06-18 — Regular Rituals for Regular People (Campaign 2 - S4E30) — speakers: investigation required
+- 2025-06-09 — Can You Jumpstart a Forge? (Campaign 2 - S4E29)
+- 2025-05-28 — What is Real Anymore? (Campaign 2 - S4E28) — speakers: Real Anymore
+- 2025-05-22 — While You Were a'Fey... (Campaign 2 - S4E27)
+- 2025-05-14 — The Grand Yeeting (Campaign 2 - S4E26)
+- 2025-05-12 — Banjokes on Us (Campaign 2 - S4E25)
+- 2025-04-30 — Shattered Dreams (Campaign 2 - S4E24) — speakers: Shattered Dreams
+- 2025-04-23 — Don’t Kill My Fake Dad (Nip Slip) (Campaign 2 - S4E23) — speakers: Kill My Fake Dad, Nip Slip
+- 2025-04-16 — Feed Drop – Jesters of Ravenloft - Episode 02 | Presented by Dumbgeons — speakers: Feed Drop
+- 2025-04-16 — Feed Drop – Jesters of Ravenloft - Episode 01 | Presented by Dumbgeons — speakers: Feed Drop
+- 2025-04-09 — We Need To Go! (Campaign 2 - S4E22)
+- 2025-04-02 — String Theory (Campaign 2 - S4E21) — speakers: String Theory
+- 2025-03-26 — Stuffed and Dangerous (Campaign 2 - S4E20) — speakers: Banjo Man
+- 2025-03-19 — The Hollow (Campaign 2 - S4E19)
+- 2025-03-13 — Shall We Dance... to the Death? (Campaign 2 - S4E18)
+- 2025-03-05 — Saving Mind Boogers (Campaign 2 - S4E17) — speakers: Saving Mind Boogers
+- 2025-02-26 — Chasing Monster Dad (Campaign 2 - S4E16)
+- 2025-02-19 — Nice Can Be Weird Too (Campaign 2 - S4E15)
+- 2025-02-12 — Just A Couple Cozy Places (Campaign 2 - S4E14)
+- 2024-12-16 — The Masque of the Red Death - Part 6 — speakers: Red Death, Folly Network Holiday Crossover
+- 2024-12-16 — The Masque of the Red Death - Part 1 — speakers: Red Death, Folly Network Holiday Crossover
+- 2024-12-13 — Dumbgeons Holiday Special – Santa Baby Pt 2 | Caltrop Core One-Shot — speakers: Baby Santa
+- 2024-12-09 — Dumbgeons Holiday Special – Santa Baby Pt 1| Caltrop Core One-Shot — speakers: Dumbgeons Holiday Special, Santa Baby Pt, Caltrop Core One, Shot Happy Holidays, Dumb Dragons Crew
+- 2024-12-05 — Not That Dan (Campaign 2 - S4E13)
+- 2024-11-28 — Lost and Fathered (Campaign 2 - S4E12)
+- 2024-11-20 — We Need An Adult (Campaign 2 - S4E11)
+- 2024-11-08 — Spooky Story Rules and a Page’s Bathroom Break (Campaign 2 - S4E10) — speakers: Spooky Story Rules
+- 2024-11-01 — Dropship Mona Lisa | One-Shot (Crossover feat. Dungeons & Drimbus) — speakers: Mona Lisa
+- 2024-10-31 — Heard You Were Back! (Campaign 2 - S4E09)
+- 2024-10-24 — Shoplifters Beware (Campaign 2 - S4E08)
+- 2024-10-16 — Spy Sticks (Campaign 2 - S4E07) — speakers: Spy Sticks
+- 2024-10-09 — Ashes to Ashes Pt 1 (Crossover feat. I Seduce The Dragon)
+- 2024-10-03 — A Crumbling Mess (Campaign 2 - S4E06)
+- 2024-09-25 — Elevator to a Monster’s Lair (Campaign 2 - S4E05)
+- 2024-09-18 — Just a Bunch of Virgins (Campaign 2 - S4E04)
+- 2024-09-16 — Attack at the Docks (Campaign 2 - S4E03)
+- 2024-09-10 — To the Bridge! (Campaign 2 - S4E02)
+- 2024-09-06 — Sound the Alarm (Campaign 2 - S4E01)
+- 2024-08-30 — Fishing is Hard (Summer Minisode) (Campaign 2 - S3E33) — speakers: Summer Minisode
+- 2024-08-28 — Feed Drop – Mall Brats | Presented by Dumbgeons — speakers: Feed Drop, Shawn O'Hara
+- 2024-08-22 — Oak’s Weekend Plans (Summer Minisode) (Campaign 2 - S3E32) — speakers: Summer Minisode
+- 2024-08-14 — Psilocybin in the Park (Summer Minisode) (Campaign 2 - S3E31) — speakers: Summer Minisode
+- 2024-08-07 — Anti‑Establishment Slam Poetry (Summer Minisode) (Campaign 2 - S3E30) — speakers: Establishment Slam Poetry, Summer Minisode
+- 2024-07-31 — Brunch and Crime (Summer Minisode) (Campaign 2 - S3E29) — speakers: Summer Minisode
+- 2024-07-24 — Sweet New Kicks (Summer Minisode) (Campaign 2 - S3E28) — speakers: Sweet New Kicks
+- 2024-07-17 — Change of Drawers (Summer Minisode) (Campaign 2 - S3E27) — speakers: Summer Minisode
+- 2024-07-11 — So... About That Kav? (Summer Minisode) (Campaign 2 - S3E26) — speakers: Summer Minisode
+- 2024-06-27 — Auntie Nina’s Office Visit (Campaign 2 - S3E25)
+- 2024-06-19 — The Raw Books (Campaign 2 - S3E24)
+- 2024-06-14 — Lessons in the Weave (Campaign 2 - S3E23)
+- 2024-06-05 — Scratches Under the Floorboards (Campaign 2 - S3E22) — speakers: Scratches Under, While Bizard
+- 2024-05-29 — Leaving Nothing to the Imagination (Campaign 2 - S3E21) — speakers: Leaving Nothing
+- 2024-05-22 — A Cozy Morning in Vintersmouth (Campaign 2 - S3E20)
+- 2024-05-15 — A Pirate Mid‑"Day‑Ger" (Campaign 2 - S3E19)
+- 2024-05-08 — When You’re Here, You’re Old (Campaign 2 - S3E18)
+- 2024-05-02 — Goblin Benihana (Campaign 2 - S3E19) — speakers: Goblin Benihana
+- 2024-04-24 — The Mating Rituals of Goblins (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E16) — speakers: Joe Fisher
+- 2024-04-17 — A Pop‑Up Memorial (feat. Joe Fisher from Midnight Burger) (Campaign 2 - S3E15) — speakers: Joe Fisher
+- 2024-04-10 — Practic‑ling in Slengston (Campaign 2 - S3E14)
+- 2024-04-03 — A Pirate’s Side Hustle (Campaign 2 - S3E13) — speakers: Side Hustle
+- 2024-03-27 — A Deconstructed Peanut Butter (Campaign 2 - S3E12) — speakers: Deconstructed Peanut Butter
+- 2024-03-20 — The Magic Closet (Campaign 2 - S3E11)
+- 2024-03-13 — Bizard The Wizard (Campaign 2 - S3E10) — speakers: Kyle Claset
+- 2024-03-06 — An Adventurer’s Audition (Campaign 2 - S3E09) — speakers: Adventurer’s Audition
+- 2024-02-28 — Brewed Awakened (Campaign 2 - S3E08)
+- 2024-02-21 — The Great Baby Sheep Swap (Campaign 2 - S3E07)
 - 2024-02-19 — Introducing... Dreamers! E1: Nightmares — speakers: Lily Bliss
-- 2024-02-14 — Ride the Butter Tunnels (Campaign 2 - S3E06) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-02-07 — The Broken History of Florp (Campaign 2 - S3E05) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-01-31 — Let’s Meet the Mayor (Campaign 2 - S3E04) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt, Michael Ornelas
-- 2024-01-24 — Revelations, Packages, and Boy's Night (Campaign 2 - S3E03) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-01-17 — Big Orders and City Secrets (Campaign 2 - S3E02) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2024-01-10 — Let’s Begin Again! (Campaign 2 - S3E01) — speakers: Amy More, Carla Maxted, Tom Laird, Russ More Dialogue, Carla Maxted Sound Design, Kevin Mcleod, Matt Garbutt
-- 2023-12-21 — Dumb Dragons Presents: The Blue Carbuncle — speakers: Sully Holmes, Henry Baker, Arthur Conan Doyle, Amy More, Carla Maxted, Tom Laird Special, Cicero Holmes Dialogue, Carla Maxted Sound Design
-- 2023-12-13 — Holiday Replay - A Dumbgeons Christmas Carol — speakers: Charles Dickens, Ebenezer Scrooge, Frederick Gaines, Amy More, Carla Maxted, Tom Laird Special, Kyle Claset, Kristin Flemons
-- 2023-11-24 — Subterfuge in Flaternouge (A Patreon Improv Live Show) — speakers: Amy More, Carla Maxted, Tom Laird, Epidemic Sound, Kevin Mcleod Cover Art
-- 2023-11-01 — Halloween at Krorn Manor Part 02 — speakers: Amy More, Carla Maxted, Kyle Claset
-- 2023-10-25 — Halloween at Krorn Manor Part 01 — speakers: Amy More, Carla Maxted, Kyle Claset
-- 2023-10-13 — s02e156 - The Q&A To Put A Bow On Everything — speakers: Kyle Claset, Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design, Kevin Mcleod
-- 2023-09-27 — s02e155 - Everything, Everywhere, All At Once (Season Finale) — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kyle Claset, Carla Maxted Sound Design, Kevin Mcleod
-- 2023-09-09 — s02e154 - Crossing the Velvet Rope — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kyle Claset, Carla Maxted Sound Design, Sound Ideas
-- 2023-08-18 — s02e153 - Hashtag Blessed — speakers: Hashtag Blessed Teams, Team Celestia, Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kyle Claset, Peter Joseph Lewis
-- 2023-08-02 — Dumbgeons Plays The Witch Is Dead — speakers: Grant Howitt, Carla Maxted, Amy More, Tom Laird, Russ More Dialogue Edit
-- 2023-07-20 — s02e152 - Baking Torture Magic — speakers: Team Abyss, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Peter Joseph Lewis, Carla Maxted Sound Design
-- 2023-07-06 — Patrick Swayze Eyes (Crossover feat. Greetings, Adventurers) — speakers: Patrick Swayze Eyes, Selene Von Esper, Carla Maxted, Tim Lanning, Jennifer Cheek, Mike Bachmann Dialogue, David Stewart Cover Art
-- 2023-06-21 — s02e151 - Serving Up Freedom — speakers: Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design
-- 2023-06-07 — s02e150 - Pudding Party in Butt's Hole (A Patreon Improv Live Show) — speakers: Miao Miao, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Cicero Holmes Dialogue, Epidemic Sound, Kevin Mcleod Cover Art
-- 2023-05-24 — s02e149 - A Step Away To Little Leaf — speakers: Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design
-- 2023-05-11 — s02e148 - That Was Disgusting — speakers: Team Abyss, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Peter Joseph Lewis, Carla Maxted Sound Design
-- 2023-04-26 — s02e147 - Through Daddy's Door — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Peter Joseph Lewis, Carla Maxted Sound Design
-- 2023-03-29 — Presenting: Taking Initiative S3 - Sword & Sidhe: Episode 01 — speakers: Jon Buckmaster, Caio Santos, Josh Perault, Neil Martin, Alexander Nakarada Free, Rafael Krux Free, Kevin MacLeod Free, Steven OBrien Free
-- 2023-03-17 — s02e146 - Fiddling Prince's Knob (a Magenta Adventure - Part 2) — speakers: Amy More, Carla Maxted, Tom Laird, Bernard Dialogue, Carla Maxted Sound Design
-- 2023-03-03 — s02e145 - Have Some Wine, Punch Some Custard (a Magenta Adventure - Part 1) — speakers: Amy More, Carla Maxted, Tom Laird, Bernard Dialogue, Carla Maxted Sound Design
-- 2023-02-17 — s02e144 - Over the Blood Sewers — speakers: Gross Town, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Peter Joseph Lewis, Carla Maxted Sound Design
-- 2023-02-02 — s02e143 - Into the Meat Hole — speakers: Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design
-- 2023-01-19 — s02e142 - Bad Vibes in Pazunia — speakers: Team Abyss, Amy More, Carla Maxted, Tom Laird, Kyle Claset, Cicero Holmes Dialogue, Carla Maxted Sound Design
-- 2023-01-11 — s02e141 - How Long Do Rivers Go? — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Cicero Holmes Dialogue, Carla Maxted Sound Design
-- 2022-12-21 — s02e140 - A Dumbgeons Christmas Carol — speakers: Charles Dickens, Ebenezer Scrooge, Frederick Gaines, Amy More, Carla Maxted, Tom Laird Special, Kyle Claset, Kristin Flemons
-- 2022-12-01 — s02e139 - Gifts From Tiamat — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Sound Design, Kevin Mcleod Sound
-- 2022-11-25 — s02e138 - Eat, Pray, Die — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Sound Design, Kevin Mcleod Sound, Buy Eat, Elizabeth Gilbert Support
-- 2022-11-09 — A Patreon Peek - The Adventures of... Interns and Wedding Ceremonies — speakers: Tom Laird, Amy More, Carla Maxted, Russ More Dialogue, Russ More Music, Kevin McLeod Cover Art
-- 2022-11-04 — s02e137 - Grand Theft War Machine — speakers: Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design, Kevin McLeod Cover Art
-- 2022-10-28 — s02e136 - Welcome to Hell — speakers: Amy More, Carla Maxted, Tom Laird, Carla Maxted Sound Design, Kevin McLeod Cover Art
-- 2022-10-20 — s02e135 - Frozen in Brine (An Improv Night Special) — speakers: Amy More, Carla Maxted, Tom Laird Story, Kevin Mcleod Sound
-- 2022-10-06 — s02e134 - Testicular Time Torsion (a Flashback Adventure) — speakers: Amy More, Carla Maxted, Sound Design, Kevin Mcleod Sound
-- 2022-09-29 — s02e133 - Perspective, Right?! (a Flashback Adventure) — speakers: Amy More, Carla Maxted, Sound Design, Kevin Mcleod Sound
-- 2022-09-23 — s02e132 - Well, They're Probably Dead — speakers: Jean Keens, Squeaky McLemurson, Amy More, Carla Maxted, Tom Laird, Newt Schottelkotte Sound Design, Kevin McLeod Cover Art, Slushchny Find
-- 2022-09-15 — s02e131 - The Sniffles in Noos — speakers: Squeaky McLemurson, Content Warning, Amy More, Carla Maxted, Tom Laird, Newt Schottelkotte Sound Design, Kevin McLeod Cover Art, Slushchny Find
-- 2022-09-07 — A Very Hilop Adventure with Space Poddity! — speakers: Space Poddity, Guest GM, Russ More, Jaanelle Yee Wroxi, Nihara Nichelle Grey, Gnandpa Gnine, Lindsay Bowen GM, Lindsay Bowen Spatial
-- 2022-08-04 — s02e130 - Bahamut's Escape Plan — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Sean Howard, Newt Schottelkotte Sound Design, Kevin Mcleod Sound
-- 2022-07-28 — s02e129 - That Doesn't Sound Very Cool — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kevin Mcleod Sound
-- 2022-07-07 — s02e128 - The Great Museum Caper — speakers: Amy More, Carla Maxted, Tom Laird, Kevin McLeod Cover Art
-- 2022-06-29 — s02e127 - Planning an Abyssal Infiltration — speakers: Amy More, Carla Maxted, Tom Laird, Kevin McLeod Cover Art
-- 2022-06-16 — s02e126 - Schrodinger's Cat-amar — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kevin Mcleod Sound
-- 2022-06-09 — s02e125 - The Separation Conundrum — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons
-- 2022-06-01 — s02e124 - A Crisis of Faith — speakers: Amy More, Carla Maxted, Tom Laird, Kevin McLeod Cover Art
-- 2022-05-27 — s02e123 - We Scatter Together — speakers: Amy More, Carla Maxted, Tom Laird
-- 2022-05-18 — s02e122 - Get Out Of My Head — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons
-- 2022-05-11 — s02e121 - This is Grade A Bologna! — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons
-- 2022-04-14 — s02e120 - We Watch Out For Those, Who Others Overlook — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset
-- 2022-04-06 — s02e119 - A Bag In The Wind — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset
-- 2022-03-30 — s02e118 - Something about Mirrors? — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons
-- 2022-03-23 — s02e117 - Cinnamon Buns by the Crickeling Creek — speakers: Cinnamon Buns, Glim Sully, Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Join us
-- 2022-03-16 — s02e116 - Never Meet Your Maker — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Youtube Channel
-- 2022-03-10 — s02e115 - A TRIP Through the Underdark — speakers: Amy More, Carla Maxted, Tom Laird, Kyle Claset, Youtube Channel
-- 2022-03-03 — s02e114 - Daddy's Home and (another) Ritual Through Time — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kyle Claset, Peter Joseph Lewis, Join us
-- 2022-02-23 — Behind the Screen: A 2022 Check-in & Q&A — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art, Join us
-- 2022-02-18 — s02e113 - Quest for the Underpants of Cool Breeze (An Improv Liveshow) — speakers: Boric von Prescott, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2022-02-10 — s02e112 - Wake-y, Wake-y! Rise and Shine! — speakers: Amy More, Carla Maxted, Tom Laird, Kristin Flemons, Kyle Claset, Peter Joseph Lewis, Join us
-- 2022-02-03 — s02e111 - Laying it On the Line — speakers: Amy More, Carla Maxted, Tom Laird, Join us
-- 2022-01-27 — s02e110 - Avenging Clarence — speakers: Amy More, Carla Maxted, Tom Laird, Join us
-- 2022-01-19 — s02e109 - Above or Below? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2022-01-13 — s02e108 - Symptoms of Time Travel May Include — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2022-01-05 — s02e107 - Always Naked — speakers: Gnandpa Gnine, Smart Monkey, Amy More, Carla Maxted, Tom Laird Guest, Lindsay Bowen, Kevin Mcleod Sound, Join us
-- 2021-12-22 — The Dumb-est Holiday Crossover, Part 2 (feat. Dumb-Dumbs & Dragons) — speakers: Hans Krampus, Scott Calvin, Russ More, Tom McGee, Amy More, Carla Maxted, Tom Laird, Ryan LaPlante
-- 2021-12-16 — s02e106 - A Fanta For Bahamut — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-12-08 — s02e105 - The Prophecies are a Little Vague — speakers: Gnandpa Gnine, Amy More, Carla Maxted, Tom Laird Guest, Lindsay Bowen, Kevin Mcleod Sound, Join us
-- 2021-12-02 — s02e104 - Meet the Locals — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-11-24 — s02e103 - Boom Boots — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-11-18 — s02e102 - Let's Get Kraken! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-11-10 — s02e101 - Gotta Go Downstairs — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-10-31 — HALLOWEEN BOONANZA: Oh My God, Moby's Here! (feat. Spout Lore) — speakers: Amy More, Carla Maxted, Tom Laird, Abdul Aziz, Jessica Tai, Paul Oppers, Shawn O'Hara Sound Design, Join us
-- 2021-10-13 — s02e100 - Don't Take Random Babies — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-10-06 — s02e99 - Snack Time in the Scary Forest — speakers: Terry Moot, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-09-29 — s02e98 - Time to Escape — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-09-22 — s02e97 - The Scary Forest — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-09-15 — s02e96 - Ripples in Attention — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-09-08 — s02e95 - Sexy Times in City-Town-Ville (An Improv Liveshow) — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-09-01 — s02e94 - Getting Freaky — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-07-28 — s02e93 - Party at Half-Mantzoukas's — speakers: Amy More, Carla Maxted, Tom Laird, Shawn O'Hara, Abdul Aziz, Kevin Mcleod Sound, Join us
-- 2021-07-21 — s02e92 - It's Your Old Pal, Benjamin! — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-07-14 — s02e91 - Drive By Necromancy — speakers: Amy More, Carla Maxted, Tom Laird, Shawn O'Hara, Abdul Aziz, Kevin Mcleod Sound, Join us
-- 2021-07-07 — s02e90 - A Bridge Too Far — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-06-30 — s02e89 - Turkey Skinlet — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-06-09 — s02e88 - The Darkest Timeline Begins — speakers: Carla Maxted, Kyle Claset, Peter Joseph Lewis, Join us
-- 2021-06-02 — s02e87 - Swappin' The Poop Deck — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-05-26 — s02e86 - Lost in the Astral Plane — speakers: Icewind Dale, Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-05-12 — s02e85 - A Family Intervention — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-05-05 — s02e84 - Operation: Save The Horse — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-04-28 — s02e83 - Plans Second Guessed — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-04-21 — s02e82 - Godlost — speakers: Icewind Dale, Amy More, Carla Maxted, Tom Laird Guest, Kristin Flemons, Join us
-- 2021-04-14 — s02e81 - A Flatulating Attraction — speakers: Amy More, Carla Maxted, Tom Laird Guests, Michael Howie, Kevin Mcleod Sound, Join us
-- 2021-04-07 — s02e80 - Some Philanthropy — speakers: Carla Maxted, Tom Laird Guest
-- 2021-03-31 — s02e79 - The Trickle Up Effect — speakers: Amy More, Carla Maxted, Tom Laird Guests, Michael Howie, Kevin Mcleod Sound, Join us
-- 2021-03-24 — s02e78 - Terrible Working Conditions — speakers: Carla Maxted, Tom Laird Guest
-- 2021-03-17 — 300K Q&A Mailbag — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-03-03 — s02e77 - A Homesick Feeling — speakers: Amy More, Carla Maxted, Tom Laird, Bee Zelda, Tracy Gibbons, Kevin Mcleod Sound, Join us
-- 2021-02-24 — s02e76 - Are They Happy To See Us? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-02-17 — s02e75 - We're Here to See Mayor Baron — speakers: Amy More, Carla Maxted, Tom Laird, Bee Zelda, Tracy Gibbons, Kevin Mcleod Sound, Join us
-- 2021-02-10 — s02e74 - Darkness is Exhausting — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Join us
-- 2021-02-03 — s02e73 - Spare Time Before Destiny Calls — speakers: Djerad Thymar, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-01-27 — s02e72 - The Road (to Luskan) — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2021-01-20 — s02e71 - When You Shop There, You're Zmart! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Join us
-- 2021-01-13 — s02e70 - Mission Breakdown — speakers: Amy More, Carla Maxted, Tom Laird Guests, Sound Design, Kevin Mcleod Sound
-- 2021-01-06 — s02e69 - That Dripping Honeypot (feat. Celeste Conowitch) — speakers: Celeste Conowitch, Honey Pot, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-12-23 — Jingle Jangle All The Way - Holiday Bonus Episode — speakers: Jingle Jangle, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound, Matt Garbutt Find
-- 2020-12-02 — s02e68 - What Happened to Waterdeep? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-12-01 — s02e67 - PATREON BONUS - L.I.C.K. The Moon (Game Time) — speakers: Russ More, Carla Maxted, Tom Jan Jan, Carla See
-- 2020-11-25 — s02e67 - Gotta See the Bees (feat. Celeste Conowitch) — speakers: Celeste Conowitch, Djerad Thymar, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-11-18 — s02e66 - You Said How Long? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-11-11 — s02e65 - Are You Bahamut's Baby? — speakers: Djerad Thymar, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-11-04 — s02e64 - Kids and Their Toys — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-10-28 — s02e63 - Meet Destiny's Children — speakers: Cicero Holmes, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-10-21 — s02e62 - Sham-galar's Lair — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound
-- 2020-10-14 — s02e61 - Coming Up from the Under — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-10-07 — s02e60 - Psychedelic Crystals — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-09-30 — s02e59 - Settling a Debt — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-09-23 — s02e58 - Friendship In Our Hearts — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-09-16 — s02e57 - Without a Trace — speakers: Keith Ammann, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound, Find Keith
-- 2020-09-09 — s02e56 - Cherry on the Garbage Sundae — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-08-05 — s02e55 - Up on the Rooftop — speakers: Keith Ammann, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Sound, Find Keith
-- 2020-07-29 — s02e54 - Behold! A Quest in Garbage Town — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-07-22 — s02e53 - A Seaside Sneak — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-07-15 — s02e52 - Ride the Wave — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-07-08 — s02e51 - Shoe's Crew — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-07-01 — s02e50 - Cool Off in the Pool — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-06-24 — s02e49 - A Nice Sunhat — speakers: Laden Menda, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Sound
-- 2020-06-17 — s02e48 - Surprises in the Bathroom — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-06-10 — s02e47 - Sprinkle my Apples, Sugar — speakers: Laden Menda, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-06-03 — s02e46 - Potion Preparations — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-05-20 — s02e45 - Trade a Donkey? — speakers: Faerun Cast Crew, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-05-13 — s02e44 - The Door to Many's Past — speakers: Carla Maxted, Tom Laird Guest
-- 2020-05-06 — s02e43 - PSTD in Proskur — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod, Epidemic Sound Cover Art, Club Amy
-- 2020-04-29 — s02e42 - Going on an Adventure — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2020-04-22 — s02e41 - A Bad Omen — speakers: Sean Howard, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2020-04-15 — s02e40 - Forest Recruits — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-04-08 — s02e39 - Guide for Hire — speakers: Sean Howard, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2020-04-01 — s02e38 - Well... We're Here! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-03-18 — s02e37 - Old Faerun Town — speakers: Faerun Town, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-03-11 — s02e36 - An Unexpected Turn — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-03-04 — s02e35 - One More Thing Before I Go — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-02-26 — s02e34 - Heartache on the Road to Waterdeep — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-02-19 — s02e33 - Dirty Jobs: Elturel — speakers: Elturel Moot, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-02-05 — s02e32 - Gone in a Flash — speakers: Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2020-01-29 — s02e31 - POTATOES! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2020-01-22 — s02e30 - Along Came Margaret — speakers: Beefy Boy, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2020-01-15 — s02e29 - The Quest for Turnt Gobbos and Jam — speakers: David Alvord, Amy More, Carla Maxted, Tom Laird, Tiffany Alvord, Kevin Mcleod Cover Art
-- 2020-01-08 — s02e28 - A Forest "Doppleganger" — speakers: Beefy Boy, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-12-18 — s02e27 - Turnt Gobbo Protection — speakers: David Alvord, Amy More, Carla Maxted, Tom Laird, Tiffany Alvord, Kevin Mcleod Cover Art
-- 2019-12-11 — s02e26 - Escape from Black Pool — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-12-04 — s02e25 - Night Gardening 101 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-11-28 — s02e24 - Beneath the Streets of Black Pool — speakers: Lipsinki Pipdiggins, Kyle Classet, Amy More, Carla Maxted, Tom Laird Guest, Kyle Claset, Kevin Mcleod Cover Art
-- 2019-11-20 — s02e23 - Weird Night's Watch — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-11-13 — s02e22 - Welcome to Black Pool — speakers: Vorunax Zatruchreth, Kyle Classet, Amy More, Carla Maxted, Tom Laird Guest, Kyle Claset, Kevin Mcleod Cover Art
-- 2019-11-06 — A Chilly Trip Across the Planes (Podcasts Into Avernus) — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-10-30 — s02e21 - A Real Lumpy Adventure — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-10-23 — s02e20 - TREMORS! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-10-16 — s02e19 - Thoughts and Prayers — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-10-09 — s02e18 - Moving Back In — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-10-02 — s02e17 - Planned Improvements — speakers: Victoria Rogers, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2019-09-25 — s02e16 - Road Wizards — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-09-18 — s02e15 - The Rat King Calls — speakers: Victoria Rogers, Amy More, Carla Maxted, Tom Laird Guest, Kevin Mcleod Cover Art
-- 2019-09-11 — s02e14 - Going Home — speakers: Nulara Moonbrook, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-09-04 — s02e13 - Solving a Code — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-08-28 — s02e12 - It Happened in a Flash — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-08-21 — s02e11 - The Windmill Town — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-08-14 — s02e10 - The Road to Money... Honey — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod
-- 2019-08-07 — s02e09 - Told You It Was Destiny — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod Cover Art
-- 2019-07-31 — s02e08 - A Jail Break — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod, Epidemic Sound Cover Art
-- 2019-07-24 — s02e07 - Who to Trust? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod, Epidemic Sound Cover Art
-- 2019-07-17 — s02e06 - Classic Me-Moot — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod, Epidemic Sound Cover Art
-- 2019-07-10 — s02e05 - Feel It And Then Do It. — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin Mcleod, Epidemic Sound Cover Art
-- 2019-07-03 — Bonus - Special Delivery... to Hell! (D&D Live 2019: The Descent) — speakers: Russ Amy, Amy More, Russ More, Renee Rhodes, Kyle Claset
-- 2019-06-26 — s02e04 - Bring Down the Pretention — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-06-19 — s02e03 - Have You Heard of Kiestering? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-06-12 — s02e02 - Finding Direction — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-06-05 — s02e01 - A New Beginning — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-05-15 — s01e84 - Season 1 Mailbag — speakers: Amy More, Carla Maxted, Tom Laird Guest, Sean Howard, Kevin McLeod
-- 2019-05-15 — Dumbgeons & Dragons Trailer — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-05-01 — s01e83 - Tiamat's Finale — speakers: Amy More, Carla Maxted, Tom Laird Guest, Sean Howard, Kevin McLeod, Scott Buckley Sound, Syrinscape Find
-- 2019-04-24 — s01e82 - The Inevitable — speakers: Amy More, Carla Maxted, Tom Laird Guest, Sean Howard, Kevin McLeod, Scott Buckley Sound, Syrinscape Find
-- 2019-04-17 — s01e81 - The Way In — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound, Syrinscape Find
-- 2019-04-10 — s01e80 - So Close! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound, Syrinscape Find
-- 2019-04-03 — s01e79 - A Time to Run — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2019-03-27 — s01e78 - A Show of Good Faith — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2019-03-20 — s01e77 - Into the Well Part 02 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2019-03-13 — s01e76 - Into the Well Part 01 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2019-03-06 — s01e75 - The Beginning of the End — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2019-02-27 — s01e74 - The Call to Adventure — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2019-02-20 — PodCon 2 Bonus e03 - Piece Uh Food? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-02-13 — PodCon 2 Bonus e02 - Anything Can Be a Sex Toy — speakers: Deekin Scalesinger, Amy More, Carla Maxted, Tom Laird Sound Design
-- 2019-02-06 — PodCon 2 Bonus e01 - When Portals Collide and Birds Fight Back — speakers: Sean Howard, Old Man Apelloko, Travis Vengroff, Amy More, Carla Maxted, Tom Laird, Kevin McLeod Sound
-- 2019-01-30 — s01e73 - Preparing for a Road Trip — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2019-01-23 — s01e72 - Mechanics, Confessions and Frat Boys — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2019-01-16 — s01e71 - Returning Home Part 02 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2019-01-09 — s01e70 - Returning Home — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2019-01-02 — s01e69 - Grancis Again! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-12-27 — s01e68 - Ho Boy! — speakers: Ho Boy, Merry Winter Solstice, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-12-19 — s01e67 - Where Do We Stand? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-12-12 — s01e66 - Anyone Know The Property Bros? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-12-05 — s01e65 - Sweet Dreams in Thay — speakers: Eseldra Yeth, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-11-28 — s01e64 - Come Out To Thay, Have a Few Laughs! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-11-21 — s01e63 - On The Way To Thay — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-11-14 — s01e62 - Parting Ways — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-11-07 — s01e61 - The Haunted House of Horrors - Part 02 — speakers: Spencer Jo, Amy More, Carla Maxted, Tom Laird Music, gmail com, Kevin McLeod Sound
-- 2018-10-31 — s01e60 - The Haunted House of Horrors - Part 01 — speakers: Spencer Jo, Amy More, Carla Maxted, Tom Laird Music, gmail com, Kevin McLeod Sound Design
-- 2018-10-24 — s01e59 - The Battle for Xonthal's Tower — speakers: Amy More, Carla Maxted, Tom Laird Guest, Keith Ross Sound Design, Kevin McLeod Sound
-- 2018-10-17 — s01e58 - Where are my Manners? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-10-10 — s01e57 - The... Hourglass! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-10-03 — s01e56 - What Was That?! — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-09-26 — s01e55 - It's Mine. — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-09-19 — s01e54 - What Were We Doing Here? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-09-12 — s01e53 - It's All About That Butt — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-09-05 — s01e52 - Ya Doink. — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-08-29 — s01e51 - Come for the Maze, Stay for the Tea — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-08-22 — s01e50 - Anyone Bring Pruning Shears — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2018-08-15 — s01e49 - A Giant Competition — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2018-08-08 — s01e48 - A Quick Trip for a Dip in a Maze — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod, Scott Buckley Sound
-- 2018-08-01 — s01e47 - The Jet Stream to Xonthal's Tower — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod
-- 2018-07-25 — s01e46 - An Interrogation and a Decision — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-07-18 — s01e45 - The Perception of the Council — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-07-11 — s01e44 - A Friend in the Night Pt 02 — speakers: Spencer Jo, Amy More, Carla Maxted, Tom Laird Guest, Spencer Jo Sound Design, Kevin McLeod Sound
-- 2018-07-04 — s01e43 - A Friend in the Night Pt 01 — speakers: Spencer Jo, Amy More, Carla Maxted, Tom Laird Guest, Spencer Jo Sound Design, Kevin McLeod Sound
-- 2018-06-27 — The Crimson Spring - Women in Tabletop Gaming Month Bonus E02 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-06-20 — s01e42 - RP by Day, Mechanics by Night — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2018-06-13 — The Impregnable Fortress of Dib - Women in Tabletop Gaming Month Bonus E01 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-06-06 — s01e41 - Trusted Representatives of Waterdeep — speakers: Amy More, Carla Maxted, Tom Laird, Victoria Rogers, Katie Mae Weber, Keith Ross, Jeremy Oleksa, Kevin McLeod Sound
-- 2018-05-23 — s01e40 - Return to the Guild — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-05-09 — s01e39 - On The Way Out — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-04-25 — s01e38 - A Cloud of Noxious Gas — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-04-18 — s01e37 - Knock, Knock, Anyone Home Pt 02 — speakers: Anyone Home, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-04-11 — s01e36 - Knock, Knock, Anyone Home Pt 01 — speakers: Anyone Home, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-03-28 — s01e35 - An Altand Interrogation — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-03-14 — s01e34 - Welcome to Altand — speakers: Delaan Winterhound, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Sound
-- 2018-02-28 — s01e33 - Where the Feywild Things Skittle — speakers: Amy More, Carla Maxted, Tom Laird, Michael Cedarblom, Kyle Grichel, Kevin McLeod
-- 2018-02-14 — s01e32 - Fireside Reflection — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod
-- 2018-01-31 — s01e31 - Things Go Sideways — speakers: DM Doc, Cast Crew, Amy More, Carla Maxted, Tom Laird Guest, Kevin McLeod Find
-- 2018-01-17 — s01e30 - A Council Meeting in Waterdeep — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2018-01-03 — s01e29 - A Grancis Solstice Vacation — speakers: Patron Ty Zuniga, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-12-20 — s01e28 - A Winter Solstice Holiday — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-12-06 — s01e27 - Serpents... And Their Mind Games — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-11-22 — s01e26 - Through the Portal and Down the Hole — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-11-08 — s01e25 - Split the Party and Ye Shall Be... Rewarded? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-10-31 — HALLOWEEN SPECIAL - The Tale of Gerry & the Noobs — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Support
-- 2017-10-25 — s01e24 - Into the Tomb of Diderius Pt 02 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-10-11 — s01e23 - Into the Tomb of Diderius Pt 01 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-09-27 — s01e22 - Arrival at Boareskyr Bridge — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-09-13 — s01e21 - Reunited In Luskan And It Feels So Good — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-08-30 — s01e20 - A Gnoll In The River — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-08-02 — s01e19 - Battle of the Brains — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-07-26 — s01e18 - A Sphere of Safety — speakers: Murder Time, Flame Tongues, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-07-12 — s01e17 - A Whole Bunch Of Yuck — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-06-28 — s01e16 - No Waiting, Only Murder! (aka The Funnel Tunnels) — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-06-14 — s01e15 - A Stutter In Time — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-05-31 — s01e14 - The Un-Deadly Dumbgeon — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-05-24 — s01e13 - Trouble with the... Police? — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-05-10 — s01e12 - Nothing Goes to Plan — speakers: Leonin Glorygem, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-04-26 — s01e11 - 2 + 2 is Death — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-04-12 — s01e10 - A Hunter in Little Rock Pt 02 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-03-29 — s01e09 - A Hunter in Little Rock Pt 01 — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-03-15 — s01e08 - Movin', Shakin', Lemonade Makin' — speakers: Lemonade Makin, Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-03-15 — s01e07 - The Lost Dice Game — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Transcript
-- 2017-03-01 — s01e06 - Dragons are Dangerous-er — speakers: Amy More, Carla Maxted, Tom Laird Sound Design, Kevin McLeod Find
-- 2017-02-15 — s01e05 - Bananas are Dangerous... — speakers: Amy More, Carla Johnson, Tom Laird Sound Design, Kevin McLeod Transcript
-- 2017-02-01 — s01e04 - Something Fishy... — speakers: Amy More, Carla Johnson, Tom Laird Sound Design, Kevin McLeod Transcript
-- 2017-01-18 — s01e03 - Rock the Boat — speakers: Amy More, Carla Johnson, Tom Laird Sound Design, Kevin McLeod Transcript
-- 2017-01-03 — s01e01/02 - My Ship Has a First Name — speakers: Amy More, Carla Johnson, Tom Laird Sound Design, Kevin McLeod Transcript
+- 2024-02-14 — Ride the Butter Tunnels (Campaign 2 - S3E06)
+- 2024-02-07 — The Broken History of Florp (Campaign 2 - S3E05)
+- 2024-01-31 — Let’s Meet the Mayor (Campaign 2 - S3E04)
+- 2024-01-24 — Revelations, Packages, and Boy's Night (Campaign 2 - S3E03)
+- 2024-01-17 — Big Orders and City Secrets (Campaign 2 - S3E02) — speakers: Big Orders, City Secrets
+- 2024-01-10 — Let’s Begin Again! (Campaign 2 - S3E01) — speakers: Begin Again
+- 2023-12-21 — Dumb Dragons Presents: The Blue Carbuncle — speakers: Dumb Dragons Presents, Holiday Special Presentation, Sherlock Holmes
+- 2023-12-13 — Holiday Replay - A Dumbgeons Christmas Carol — speakers: Holiday Replay, Dumbgeons Christmas Carol Next, Holiday Presentation, Dumb Dragons
+- 2023-11-24 — Subterfuge in Flaternouge (A Patreon Improv Live Show)
+- 2023-11-01 — Halloween at Krorn Manor Part 02
+- 2023-10-25 — Halloween at Krorn Manor Part 01 — speakers: Grand Hallow, Eve Gala
+- 2023-10-13 — s02e156 - The Q&A To Put A Bow On Everything
+- 2023-09-27 — s02e155 - Everything, Everywhere, All At Once (Season Finale)
+- 2023-09-09 — s02e154 - Crossing the Velvet Rope
+- 2023-08-18 — s02e153 - Hashtag Blessed — speakers: Hashtag Blessed Teams, Team Celestia
+- 2023-08-02 — Dumbgeons Plays The Witch Is Dead
+- 2023-07-20 — s02e152 - Baking Torture Magic — speakers: Team Abyss
+- 2023-07-06 — Patrick Swayze Eyes (Crossover feat. Greetings, Adventurers) — speakers: Patrick Swayze Eyes
+- 2023-06-21 — s02e151 - Serving Up Freedom — speakers: it's up
+- 2023-06-07 — s02e150 - Pudding Party in Butt's Hole (A Patreon Improv Live Show)
+- 2023-05-24 — s02e149 - A Step Away To Little Leaf
+- 2023-05-11 — s02e148 - That Was Disgusting
+- 2023-04-26 — s02e147 - Through Daddy's Door — speakers: Through Daddy, Door When
+- 2023-03-29 — Presenting: Taking Initiative S3 - Sword & Sidhe: Episode 01 — speakers: Taking Initiative
+- 2023-03-17 — s02e146 - Fiddling Prince's Knob (a Magenta Adventure - Part 2)
+- 2023-03-03 — s02e145 - Have Some Wine, Punch Some Custard (a Magenta Adventure - Part 1)
+- 2023-02-17 — s02e144 - Over the Blood Sewers — speakers: Gross Town
+- 2023-02-02 — s02e143 - Into the Meat Hole
+- 2023-01-19 — s02e142 - Bad Vibes in Pazunia — speakers: Team Abyss
+- 2023-01-11 — s02e141 - How Long Do Rivers Go? — speakers: How Long Do Rivers, River Styx, Team Abyss
+- 2022-12-21 — s02e140 - A Dumbgeons Christmas Carol — speakers: Dumbgeons Christmas Carol Welcome, Holiday Special Presentation, Dumbgeons Christmas Carol
+- 2022-12-01 — s02e139 - Gifts From Tiamat
+- 2022-11-25 — s02e138 - Eat, Pray, Die
+- 2022-11-09 — A Patreon Peek - The Adventures of... Interns and Wedding Ceremonies — speakers: Patreon Peek, Wedding Ceremonies Kickin
+- 2022-11-04 — s02e137 - Grand Theft War Machine — speakers: Grand Theft War Machine, Following Smiler
+- 2022-10-28 — s02e136 - Welcome to Hell — speakers: Hell Immediately
+- 2022-10-20 — s02e135 - Frozen in Brine (An Improv Night Special)
+- 2022-10-06 — s02e134 - Testicular Time Torsion (a Flashback Adventure)
+- 2022-09-29 — s02e133 - Perspective, Right?! (a Flashback Adventure)
+- 2022-09-23 — s02e132 - Well, They're Probably Dead — speakers: Jean Keens
+- 2022-09-15 — s02e131 - The Sniffles in Noos — speakers: Squeaky McLemurson
+- 2022-09-07 — A Very Hilop Adventure with Space Poddity! — speakers: Space Poddity
+- 2022-08-04 — s02e130 - Bahamut's Escape Plan — speakers: Escape Plan So
+- 2022-07-28 — s02e129 - That Doesn't Sound Very Cool
+- 2022-07-07 — s02e128 - The Great Museum Caper
+- 2022-06-29 — s02e127 - Planning an Abyssal Infiltration — speakers: Abyssal Infiltration Team Abyss
+- 2022-06-16 — s02e126 - Schrodinger's Cat-amar
+- 2022-06-09 — s02e125 - The Separation Conundrum — speakers: party separation
+- 2022-06-01 — s02e124 - A Crisis of Faith — speakers: Faith Vorunax
+- 2022-05-27 — s02e123 - We Scatter Together — speakers: Tholonius Primsbane
+- 2022-05-18 — s02e122 - Get Out Of My Head
+- 2022-05-11 — s02e121 - This is Grade A Bologna!
+- 2022-04-14 — s02e120 - We Watch Out For Those, Who Others Overlook
+- 2022-04-06 — s02e119 - A Bag In The Wind
+- 2022-03-30 — s02e118 - Something about Mirrors? — speakers: Team Celestia
+- 2022-03-23 — s02e117 - Cinnamon Buns by the Crickeling Creek — speakers: dire premonitio
+- 2022-03-16 — s02e116 - Never Meet Your Maker
+- 2022-03-10 — s02e115 - A TRIP Through the Underdark
+- 2022-03-03 — s02e114 - Daddy's Home and (another) Ritual Through Time
+- 2022-02-23 — Behind the Screen: A 2022 Check-in & Q&A
+- 2022-02-18 — s02e113 - Quest for the Underpants of Cool Breeze (An Improv Liveshow) — speakers: Cool Breeze
+- 2022-02-10 — s02e112 - Wake-y, Wake-y! Rise and Shine!
+- 2022-02-03 — s02e111 - Laying it On the Line — speakers: Line High
+- 2022-01-27 — s02e110 - Avenging Clarence — speakers: Avenging Clarence Orcus
+- 2022-01-19 — s02e109 - Above or Below?
+- 2022-01-13 — s02e108 - Symptoms of Time Travel May Include — speakers: Time Travel May Include
+- 2022-01-05 — s02e107 - Always Naked — speakers: Always Naked
+- 2021-12-22 — The Dumb-est Holiday Crossover, Part 2 (feat. Dumb-Dumbs & Dragons)
+- 2021-12-16 — s02e106 - A Fanta For Bahamut — speakers: Bahamut stirring
+- 2021-12-08 — s02e105 - The Prophecies are a Little Vague
+- 2021-12-02 — s02e104 - Meet the Locals — speakers: Locals All
+- 2021-11-24 — s02e103 - Boom Boots
+- 2021-11-18 — s02e102 - Let's Get Kraken! — speakers: Get Kraken
+- 2021-11-10 — s02e101 - Gotta Go Downstairs
+- 2021-10-31 — HALLOWEEN BOONANZA: Oh My God, Moby's Here! (feat. Spout Lore)
+- 2021-10-13 — s02e100 - Don't Take Random Babies
+- 2021-10-06 — s02e99 - Snack Time in the Scary Forest — speakers: Terry Moot
+- 2021-09-29 — s02e98 - Time to Escape — speakers: Escape Giving
+- 2021-09-22 — s02e97 - The Scary Forest
+- 2021-09-15 — s02e96 - Ripples in Attention
+- 2021-09-08 — s02e95 - Sexy Times in City-Town-Ville (An Improv Liveshow)
+- 2021-09-01 — s02e94 - Getting Freaky — speakers: Getting Freaky Things
+- 2021-07-28 — s02e93 - Party at Half-Mantzoukas's
+- 2021-07-21 — s02e92 - It's Your Old Pal, Benjamin!
+- 2021-07-14 — s02e91 - Drive By Necromancy
+- 2021-07-07 — s02e90 - A Bridge Too Far
+- 2021-06-30 — s02e89 - Turkey Skinlet
+- 2021-06-09 — s02e88 - The Darkest Timeline Begins
+- 2021-06-02 — s02e87 - Swappin' The Poop Deck
+- 2021-05-26 — s02e86 - Lost in the Astral Plane
+- 2021-05-12 — s02e85 - A Family Intervention — speakers: Family Intervention Off, King Borwyn
+- 2021-05-05 — s02e84 - Operation: Save The Horse
+- 2021-04-28 — s02e83 - Plans Second Guessed
+- 2021-04-21 — s02e82 - Godlost — speakers: Icewind Dale
+- 2021-04-14 — s02e81 - A Flatulating Attraction — speakers: What Just Happened Here
+- 2021-04-07 — s02e80 - Some Philanthropy
+- 2021-03-31 — s02e79 - The Trickle Up Effect
+- 2021-03-24 — s02e78 - Terrible Working Conditions
+- 2021-03-17 — 300K Q&A Mailbag — speakers: Mailbag Thank
+- 2021-03-03 — s02e77 - A Homesick Feeling
+- 2021-02-24 — s02e76 - Are They Happy To See Us? — speakers: See Us
+- 2021-02-17 — s02e75 - We're Here to See Mayor Baron — speakers: See Mayor Baron Moot
+- 2021-02-10 — s02e74 - Darkness is Exhausting — speakers: Exhausting Thia
+- 2021-02-03 — s02e73 - Spare Time Before Destiny Calls — speakers: Djerad Thymar
+- 2021-01-27 — s02e72 - The Road (to Luskan)
+- 2021-01-20 — s02e71 - When You Shop There, You're Zmart!
+- 2021-01-13 — s02e70 - Mission Breakdown
+- 2021-01-06 — s02e69 - That Dripping Honeypot (feat. Celeste Conowitch) — speakers: Celeste Conowitch
+- 2020-12-23 — Jingle Jangle All The Way - Holiday Bonus Episode — speakers: Jingle Jangle
+- 2020-12-02 — s02e68 - What Happened to Waterdeep? — speakers: What Happened
+- 2020-12-01 — s02e67 - PATREON BONUS - L.I.C.K. The Moon (Game Time)
+- 2020-11-25 — s02e67 - Gotta See the Bees (feat. Celeste Conowitch) — speakers: Celeste Conowitch, Djerad Thymar
+- 2020-11-18 — s02e66 - You Said How Long?
+- 2020-11-11 — s02e65 - Are You Bahamut's Baby?
+- 2020-11-04 — s02e64 - Kids and Their Toys
+- 2020-10-28 — s02e63 - Meet Destiny's Children
+- 2020-10-21 — s02e62 - Sham-galar's Lair
+- 2020-10-14 — s02e61 - Coming Up from the Under — speakers: Coming Up
+- 2020-10-07 — s02e60 - Psychedelic Crystals
+- 2020-09-30 — s02e59 - Settling a Debt — speakers: Debt Having
+- 2020-09-23 — s02e58 - Friendship In Our Hearts
+- 2020-09-16 — s02e57 - Without a Trace — speakers: Keith Ammann
+- 2020-09-09 — s02e56 - Cherry on the Garbage Sundae
+- 2020-08-05 — s02e55 - Up on the Rooftop — speakers: Keith Ammann
+- 2020-07-29 — s02e54 - Behold! A Quest in Garbage Town
+- 2020-07-22 — s02e53 - A Seaside Sneak
+- 2020-07-15 — s02e52 - Ride the Wave
+- 2020-07-08 — s02e51 - Shoe's Crew — speakers: Crew Moot
+- 2020-07-01 — s02e50 - Cool Off in the Pool
+- 2020-06-24 — s02e49 - A Nice Sunhat
+- 2020-06-17 — s02e48 - Surprises in the Bathroom
+- 2020-06-10 — s02e47 - Sprinkle my Apples, Sugar — speakers: Laden Menda
+- 2020-06-03 — s02e46 - Potion Preparations — speakers: Potion Preparations Before
+- 2020-05-20 — s02e45 - Trade a Donkey?
+- 2020-05-13 — s02e44 - The Door to Many's Past
+- 2020-05-06 — s02e43 - PSTD in Proskur — speakers: Proskur Moot
+- 2020-04-29 — s02e42 - Going on an Adventure
+- 2020-04-22 — s02e41 - A Bad Omen — speakers: Sean Howard
+- 2020-04-15 — s02e40 - Forest Recruits
+- 2020-04-08 — s02e39 - Guide for Hire — speakers: Sean Howard
+- 2020-04-01 — s02e38 - Well... We're Here!
+- 2020-03-18 — s02e37 - Old Faerun Town — speakers: Faerun Town
+- 2020-03-11 — s02e36 - An Unexpected Turn
+- 2020-03-04 — s02e35 - One More Thing Before I Go
+- 2020-02-26 — s02e34 - Heartache on the Road to Waterdeep — speakers: Waterdeep Flint
+- 2020-02-19 — s02e33 - Dirty Jobs: Elturel — speakers: Elturel Moot
+- 2020-02-05 — s02e32 - Gone in a Flash
+- 2020-01-29 — s02e31 - POTATOES!
+- 2020-01-22 — s02e30 - Along Came Margaret — speakers: Along Came Margaret Continuing, Waterdeep Flint, Beefy Boy
+- 2020-01-15 — s02e29 - The Quest for Turnt Gobbos and Jam — speakers: David Alvord
+- 2020-01-08 — s02e28 - A Forest "Doppleganger" — speakers: Beefy Boy
+- 2019-12-18 — s02e27 - Turnt Gobbo Protection
+- 2019-12-11 — s02e26 - Escape from Black Pool — speakers: Black Pool Flint, Black Pool
+- 2019-12-04 — s02e25 - Night Gardening 101
+- 2019-11-28 — s02e24 - Beneath the Streets of Black Pool — speakers: Lipsinki Pipdiggins
+- 2019-11-20 — s02e23 - Weird Night's Watch — speakers: Weird Night, Watch Moot
+- 2019-11-13 — s02e22 - Welcome to Black Pool — speakers: Black Pool Flint
+- 2019-11-06 — A Chilly Trip Across the Planes (Podcasts Into Avernus) — speakers: Chilly Trip Across, Podcasts Into Avernus
+- 2019-10-30 — s02e21 - A Real Lumpy Adventure — speakers: weird adventur
+- 2019-10-23 — s02e20 - TREMORS! — speakers: over run
+- 2019-10-16 — s02e19 - Thoughts and Prayers — speakers: Prayers Settling
+- 2019-10-09 — s02e18 - Moving Back In
+- 2019-10-02 — s02e17 - Planned Improvements — speakers: Victoria Rogers
+- 2019-09-25 — s02e16 - Road Wizards
+- 2019-09-18 — s02e15 - The Rat King Calls
+- 2019-09-11 — s02e14 - Going Home — speakers: Going Home
+- 2019-09-04 — s02e13 - Solving a Code — speakers: Code Following
+- 2019-08-28 — s02e12 - It Happened in a Flash
+- 2019-08-21 — s02e11 - The Windmill Town
+- 2019-08-14 — s02e10 - The Road to Money... Honey
+- 2019-08-07 — s02e09 - Told You It Was Destiny
+- 2019-07-31 — s02e08 - A Jail Break
+- 2019-07-24 — s02e07 - Who to Trust?
+- 2019-07-17 — s02e06 - Classic Me-Moot
+- 2019-07-10 — s02e05 - Feel It And Then Do It.
+- 2019-07-03 — Bonus - Special Delivery... to Hell! (D&D Live 2019: The Descent) — speakers: Russ Amy
+- 2019-06-26 — s02e04 - Bring Down the Pretention
+- 2019-06-19 — s02e03 - Have You Heard of Kiestering?
+- 2019-06-12 — s02e02 - Finding Direction — speakers: Finding Direction Glim
+- 2019-06-05 — s02e01 - A New Beginning
+- 2019-05-15 — s01e84 - Season 1 Mailbag
+- 2019-05-15 — Dumbgeons & Dragons Trailer
+- 2019-05-01 — s01e83 - Tiamat's Finale
+- 2019-04-24 — s01e82 - The Inevitable
+- 2019-04-17 — s01e81 - The Way In
+- 2019-04-10 — s01e80 - So Close! — speakers: So Close
+- 2019-04-03 — s01e79 - A Time to Run
+- 2019-03-27 — s01e78 - A Show of Good Faith
+- 2019-03-20 — s01e77 - Into the Well Part 02
+- 2019-03-13 — s01e76 - Into the Well Part 01
+- 2019-03-06 — s01e75 - The Beginning of the End
+- 2019-02-27 — s01e74 - The Call to Adventure — speakers: Adventure Today
+- 2019-02-20 — PodCon 2 Bonus e03 - Piece Uh Food? — speakers: Piece Uh Food
+- 2019-02-13 — PodCon 2 Bonus e02 - Anything Can Be a Sex Toy
+- 2019-02-06 — PodCon 2 Bonus e01 - When Portals Collide and Birds Fight Back — speakers: When Portals Collide, Birds Fight Back Flint
+- 2019-01-30 — s01e73 - Preparing for a Road Trip
+- 2019-01-23 — s01e72 - Mechanics, Confessions and Frat Boys — speakers: Frat Boys Returning
+- 2019-01-16 — s01e71 - Returning Home Part 02
+- 2019-01-09 — s01e70 - Returning Home — speakers: Returning Home Flint
+- 2019-01-02 — s01e69 - Grancis Again!
+- 2018-12-27 — s01e68 - Ho Boy! — speakers: Ho Boy, Merry Winter Solstice
+- 2018-12-19 — s01e67 - Where Do We Stand?
+- 2018-12-12 — s01e66 - Anyone Know The Property Bros?
+- 2018-12-05 — s01e65 - Sweet Dreams in Thay — speakers: Eseldra Yeth
+- 2018-11-28 — s01e64 - Come Out To Thay, Have a Few Laughs!
+- 2018-11-21 — s01e63 - On The Way To Thay — speakers: Thay After
+- 2018-11-14 — s01e62 - Parting Ways
+- 2018-11-07 — s01e61 - The Haunted House of Horrors - Part 02
+- 2018-10-31 — s01e60 - The Haunted House of Horrors - Part 01
+- 2018-10-24 — s01e59 - The Battle for Xonthal's Tower
+- 2018-10-17 — s01e58 - Where are my Manners?
+- 2018-10-10 — s01e57 - The... Hourglass!
+- 2018-10-03 — s01e56 - What Was That?!
+- 2018-09-26 — s01e55 - It's Mine.
+- 2018-09-19 — s01e54 - What Were We Doing Here?
+- 2018-09-12 — s01e53 - It's All About That Butt
+- 2018-09-05 — s01e52 - Ya Doink. — speakers: Ya Doink
+- 2018-08-29 — s01e51 - Come for the Maze, Stay for the Tea — speakers: Tea Seemingly
+- 2018-08-22 — s01e50 - Anyone Bring Pruning Shears — speakers: Anyone Bring Pruning Shears
+- 2018-08-15 — s01e49 - A Giant Competition — speakers: Giant Competition Making
+- 2018-08-08 — s01e48 - A Quick Trip for a Dip in a Maze — speakers: Quick Trip, Maze Having
+- 2018-08-01 — s01e47 - The Jet Stream to Xonthal's Tower
+- 2018-07-25 — s01e46 - An Interrogation and a Decision
+- 2018-07-18 — s01e45 - The Perception of the Council
+- 2018-07-11 — s01e44 - A Friend in the Night Pt 02
+- 2018-07-04 — s01e43 - A Friend in the Night Pt 01
+- 2018-06-27 — The Crimson Spring - Women in Tabletop Gaming Month Bonus E02
+- 2018-06-20 — s01e42 - RP by Day, Mechanics by Night
+- 2018-06-13 — The Impregnable Fortress of Dib - Women in Tabletop Gaming Month Bonus E01
+- 2018-06-06 — s01e41 - Trusted Representatives of Waterdeep — speakers: Trusted Representatives, Waterdeep After, Nine Shadows, Nether Mounta
+- 2018-05-23 — s01e40 - Return to the Guild — speakers: Guild Flint, Nine Shadows
+- 2018-05-09 — s01e39 - On The Way Out
+- 2018-04-25 — s01e38 - A Cloud of Noxious Gas — speakers: Noxious Gas Chuth
+- 2018-04-18 — s01e37 - Knock, Knock, Anyone Home Pt 02 — speakers: Anyone Home
+- 2018-04-11 — s01e36 - Knock, Knock, Anyone Home Pt 01 — speakers: Anyone Home
+- 2018-03-28 — s01e35 - An Altand Interrogation
+- 2018-03-14 — s01e34 - Welcome to Altand — speakers: Delaan Winterhound
+- 2018-02-28 — s01e33 - Where the Feywild Things Skittle
+- 2018-02-14 — s01e32 - Fireside Reflection — speakers: Fireside Reflection Flint, Misty Forest
+- 2018-01-31 — s01e31 - Things Go Sideways — speakers: DM Doc
+- 2018-01-17 — s01e30 - A Council Meeting in Waterdeep — speakers: Council Meeting, Waterdeep Flint
+- 2018-01-03 — s01e29 - A Grancis Solstice Vacation
+- 2017-12-20 — s01e28 - A Winter Solstice Holiday — speakers: Winter Solstice Holiday
+- 2017-12-06 — s01e27 - Serpents... And Their Mind Games
+- 2017-11-22 — s01e26 - Through the Portal and Down the Hole
+- 2017-11-08 — s01e25 - Split the Party and Ye Shall Be... Rewarded?
+- 2017-10-31 — HALLOWEEN SPECIAL - The Tale of Gerry & the Noobs
+- 2017-10-25 — s01e24 - Into the Tomb of Diderius Pt 02 — speakers: Diderius Pt
+- 2017-10-11 — s01e23 - Into the Tomb of Diderius Pt 01
+- 2017-09-27 — s01e22 - Arrival at Boareskyr Bridge
+- 2017-09-13 — s01e21 - Reunited In Luskan And It Feels So Good
+- 2017-08-30 — s01e20 - A Gnoll In The River
+- 2017-08-02 — s01e19 - Battle of the Brains — speakers: Brains Usually
+- 2017-07-26 — s01e18 - A Sphere of Safety
+- 2017-07-12 — s01e17 - A Whole Bunch Of Yuck
+- 2017-06-28 — s01e16 - No Waiting, Only Murder! (aka The Funnel Tunnels) — speakers: No Waiting, Only Murder, Tholonius Primsbane
+- 2017-06-14 — s01e15 - A Stutter In Time
+- 2017-05-31 — s01e14 - The Un-Deadly Dumbgeon
+- 2017-05-24 — s01e13 - Trouble with the... Police?
+- 2017-05-10 — s01e12 - Nothing Goes to Plan — speakers: Leonin Glorygem
+- 2017-04-26 — s01e11 - 2 + 2 is Death
+- 2017-04-12 — s01e10 - A Hunter in Little Rock Pt 02 — speakers: Little Rock Pt
+- 2017-03-29 — s01e09 - A Hunter in Little Rock Pt 01 — speakers: Little Rock Pt
+- 2017-03-15 — s01e08 - Movin', Shakin', Lemonade Makin' — speakers: Lemonade Makin
+- 2017-03-15 — s01e07 - The Lost Dice Game
+- 2017-03-01 — s01e06 - Dragons are Dangerous-er — speakers: Ancient Whi
+- 2017-02-15 — s01e05 - Bananas are Dangerous...
+- 2017-02-01 — s01e04 - Something Fishy... — speakers: Something Fishy
+- 2017-01-18 — s01e03 - Rock the Boat
+- 2017-01-03 — s01e01/02 - My Ship Has a First Name — speakers: First Name Welcome

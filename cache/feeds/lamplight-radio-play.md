@@ -3,12 +3,10 @@
 - slug: `lamplight-radio-play`
 - source: `https://lamplightmagazine.com/feed/podcast/lamplight-radioplay/`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-25T07:18:57+00:00`
+- checked_at: `2026-02-25T10:13:55+00:00`
 - etag: `"dae5fecbf2745352c65edbebadc303f0"`
 - last_modified: `Mon, 17 Nov 2025 19:01:24 GMT`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -315,17 +313,7 @@
         "girl"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-02-25T07:18:57+00:00",
-    "status": "error",
-    "checked_at": "2026-02-25T07:18:57+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error timed out>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
