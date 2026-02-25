@@ -2,9 +2,9 @@
 
 - slug: `dungeons-and-daddies`
 - source: `https://feeds.acast.com/public/shows/dungeons-and-daddies`
-- fetched_at: `2026-02-24T19:28:25+00:00`
-- checked_at: `2026-02-24T19:28:25+00:00`
-- etag: `"djEuMi4wOjE3NzE5NTI0Mzk0NTM="`
+- fetched_at: `2026-02-25T19:29:43+00:00`
+- checked_at: `2026-02-25T19:29:43+00:00`
+- etag: `"djEuMi4wOjE3NzIwNDU5MzAwMTI="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://dungeonsanddaddies.com",
   "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.",
   "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/show-cover.jpg",
-  "fetched_at": "2026-02-24T19:28:25+00:00",
+  "fetched_at": "2026-02-25T19:29:43+00:00",
   "owners": [
     "Anthony Burch",
     "Matt Arnold",
@@ -37,7 +37,7 @@
       "title": "S4 Ep. 2 - Face Invaders",
       "published_at": "2026-02-24T17:00:00+00:00",
       "link": "https://patreon.com/dungeonsanddads",
-      "description": "TRACTOR SUPPLY Answer & Win You've been selected to receive a free PREDATOR® 3500 SUPER QUIET™ Inverter Generator! To claim your reward, simply answer a few quick questions regarding your experience. Click OK to begin. START SURVEY This episode contains Profanity, Violence, and Sexual Content. Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "TRACTOR SUPPLY Answer & Win You've been selected to receive a free PREDATOR® 3500 SUPER QUIET™ Inverter Generator! To claim your reward, simply answer a few quick questions regarding your experience. Click OK to begin. START SURVEY This episode contains Profanity, Violence, and Sexual Content. And check out the Kickstarter for Dark Matter , the system we're using for Grandpas & Galaxies! Support the show on Patreon! Get merch and more at our website! Follow us on Bluesky @dungeonsanddads ! Check out the subreddit! DM is Anthony Burch Dale Elliot is Matt Arnold Ralph Estarellas is Will Campos Herb “The Worm” Quiggly is Beth May Ashley Birch is Freddie Wong Theme song is “Conventional Wisdom” by Maxton Waller Annissa Omran is our Content Producer Ashley Blood is our Community Manager Kortney Terry is our Community Coordinator Ester Ellis is our Lead Editor Travis Reaves and Omar Romolino provide Additional Editing Cover art and episode art by Alex Moore ( @notanotheralex ) Get in contact: https://www.dungeonsanddaddies.com/contact The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b7633a16956271a5e9503b/1771908299829-ab6ccce3-b458-4624-9fd7-3918d00f18bd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/dungeons-and-daddies/e/699d2ce5f5c7a684d72c4508/media.mp3",
       "enclosure_type": "audio/mpeg",

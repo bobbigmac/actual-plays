@@ -2,9 +2,9 @@
 
 - slug: `the-glass-cannon-podcast`
 - source: `https://feeds.megaphone.fm/QCD8414694967`
-- fetched_at: `2026-02-25T10:13:55+00:00`
-- checked_at: `2026-02-25T10:13:55+00:00`
-- last_modified: `Wed, 25 Feb 2026 08:27:05 GMT`
+- fetched_at: `2026-02-25T19:29:43+00:00`
+- checked_at: `2026-02-25T19:29:43+00:00`
+- last_modified: `Wed, 25 Feb 2026 18:17:42 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://glasscannonnetwork.com/",
   "description": "Welcome to the Glass Cannon Podcast! In the spirit of old-school D&D, a collection of comedians, actors and super-nerds come together to create what is widely considered to be the gold standard of actual play podcasts. Interweaving immersive storytelling with irreverent, improvised humor, the Glass Cannon Podcast delivers, like no other, the experience of what it's really like to sit around a table rolling dice and busting chops with your best buds. Here you will find our original 326 plus episode complete campaign of the Pathfinder 1E Giantslayer Adventure Path, our brand new and highly anticipated Shadowdark campaign, our complete Pathfinder 2E Gatewalkers campaign, our Call of Cthulhu 7E Masks of Nyarlathotep series Time For Chaos currently in its third season, our 2025 Glass Cannon Live! tour featuring the Pathfinder 2E homebrew Ascension campaign, our ongoing Glass Cannon Live! tour of the Pathfinder 1E Strange Aeons Adventure Path converted halfway through to Pathfinder 2E and so much more!",
   "image_url": "https://megaphone.imgix.net/podcasts/6a4a34c8-4113-11ee-b6a4-27fbbf15d5ee/image/c20249e5141db5a916aa90e43f9ddf66.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T10:13:55+00:00",
+  "fetched_at": "2026-02-25T19:29:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1595,7 +1595,7 @@
     },
     {
       "key": "491448b0fc6e2ea2f1ff61b74b48ac5da53b825f",
-      "title": "Gatewalkers Episode 103 – The Unbearable Lightness",
+      "title": "The Unbearable Lightness | The Glass Cannon Podcast Gatewalkers E103 | Pathfinder 2E",
       "published_at": "2025-09-19T04:00:00+00:00",
       "link": null,
       "description": "The journey of the Gatewalkers comes to an end. Watch the video here: ⁠⁠⁠ https://youtu.be/-prkpxXcF0E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1606,9 +1606,13 @@
       "itunes_duration": "15041",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "unbearable",
-        "lightness"
+        "lightness",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -1658,7 +1662,7 @@
     },
     {
       "key": "6b0af92d4f73ac8ada2605bfe69037fdd15be03a",
-      "title": "Gatewalkers Episode 102 – Substitute Teacher",
+      "title": "Substitute Teacher | The Glass Cannon Podcast Gatewalkers E102 | Pathfinder 2E",
       "published_at": "2025-09-12T04:00:00+00:00",
       "link": null,
       "description": "An old friend returns to the party. Watch the video here: ⁠⁠ https://youtu.be/qFpmQbKSth4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1667,11 +1671,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6499",
-      "speakers": [],
+      "speakers": [
+        "Substitute Teacher"
+      ],
       "topics": [
-        "gatewalker",
         "substitute",
-        "teacher"
+        "teacher",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -1726,7 +1736,7 @@
     },
     {
       "key": "c037198f081b71718c22157f357279a55e112960",
-      "title": "Gatewalkers Episode 101 – An Apple a Day",
+      "title": "An Apple a Day | The Glass Cannon Podcast Gatewalkers E101 | Pathfinder 2E",
       "published_at": "2025-09-05T04:00:00+00:00",
       "link": null,
       "description": "Deep within the temple, the heroes run into an old friend. Watch the video here: ⁠ https://youtu.be/3cRIC8hYlwk This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1735,12 +1745,14 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6898",
-      "speakers": [
-        "Day Deep"
-      ],
+      "speakers": [],
       "topics": [
-        "gatewalker",
-        "apple"
+        "apple",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -1791,7 +1803,7 @@
     },
     {
       "key": "3943e3ca30191408f4968ea00aa49cea45f281be",
-      "title": "Gatewalkers Episode 100 – Whiny the Elders",
+      "title": "Whiny the Elders | The Glass Cannon Podcast Gatewalkers E100 | Pathfinder 2E",
       "published_at": "2025-08-29T04:00:00+00:00",
       "link": null,
       "description": "The heroes run afoul of more strange inhabitants of the temple. Watch the video here: https://youtu.be/ctxiKbMhqqE This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1802,9 +1814,31 @@
       "itunes_duration": "5261",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "whiny",
-        "elder"
+        "elders",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
+      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
+      "published_at": "2025-08-28T04:00:00+00:00",
+      "link": null,
+      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "9849",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "life",
+        "indianapolis"
       ]
     },
     {
@@ -1832,24 +1866,6 @@
       ]
     },
     {
-      "key": "bd647d478d6948ad0c4bb8c49d5a73f67a421240",
-      "title": "Call of Cthulhu Live! – New Life (Indianapolis 2025)",
-      "published_at": "2025-08-28T04:00:00+00:00",
-      "link": null,
-      "description": "The Glass Cannon Network was back at the Athenaeum in Indianapolis during Gen Con 2025 with a cast of GCN all-stars ready to once again take on a modern Call of Cthulhu nightmare one shot. In this scenario custom written by Scott Dorward, a ragtag group of criminals learn about the location of a mysterious vault that belonged to a 1920s gangster, but what they find inside is anything but rewarding. Watch the video here: https://youtu.be/o3sW2RRRNfA Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/7aff223e-8369-11f0-a101-ff8317acc335/image/cf14076619f95f62a456ff31aa0d16cc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6450054257.mp3?updated=1756315835",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "9849",
-      "speakers": [],
-      "topics": [
-        "cthulhu",
-        "life",
-        "indianapolis"
-      ]
-    },
-    {
       "key": "67e76e3835f9f0b098e3c9e491f68a09ab085460",
       "title": "Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-08-23T04:00:00+00:00",
@@ -1874,7 +1890,7 @@
     },
     {
       "key": "b6f127ef5c93180884beba5ebcbda4ab48af3349",
-      "title": "Gatewalkers Episode 99 – HR Buffs N' Stuff",
+      "title": "HR Buffs N' Stuff | The Glass Cannon Podcast Gatewalkers E99 | Pathfinder 2E",
       "published_at": "2025-08-22T04:00:00+00:00",
       "link": null,
       "description": "Within the ancient temple of Aqakaru, the heroes encounter more victims of the blackfrost curse. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/1ELzHzaJZ_0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1885,30 +1901,12 @@
       "itunes_duration": "6421",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "buffs",
-        "stuff"
-      ]
-    },
-    {
-      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
-      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
-      "published_at": "2025-08-21T04:00:00+00:00",
-      "link": null,
-      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7873",
-      "speakers": [],
-      "topics": [
-        "mettle",
-        "honor",
+        "stuff",
         "glass",
         "cannon",
-        "ascension",
-        "indianapolis",
+        "podcast",
+        "gatewalkers",
         "pathfinder"
       ]
     },
@@ -1941,6 +1939,28 @@
       ]
     },
     {
+      "key": "e60952639f33f13b7845139d8d8cec5c52859e6d",
+      "title": "Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E",
+      "published_at": "2025-08-21T04:00:00+00:00",
+      "link": null,
+      "description": "In the aftermath of a massacre, the surviving townspeople must make some impossible decisions. Watch the video here: https://youtu.be/H29UZs0xeUY Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/234c6056-7dd8-11f0-914f-b30b77cebd33/image/815084e02f8516f43d71b6c30c5872f1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1678382462.mp3?updated=1755703286",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7873",
+      "speakers": [],
+      "topics": [
+        "mettle",
+        "honor",
+        "glass",
+        "cannon",
+        "ascension",
+        "indianapolis",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "e3ce6925a60262cb5eba097b904292e6f4206b5d",
       "title": "Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-08-16T04:00:00+00:00",
@@ -1965,7 +1985,7 @@
     },
     {
       "key": "f6b6b6c1731cfb2de20e77ddb5701391b234d80b",
-      "title": "Gatewalkers Episode 98 – The Fissure Queen",
+      "title": "The Fissure Queen | The Glass Cannon Podcast Gatewalkers E98 | Pathfinder 2E",
       "published_at": "2025-08-15T04:00:00+00:00",
       "link": null,
       "description": "In the shadow of the Nameless Spires, the heroes battle for their lives. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/z4YUw7j--Vo⁠⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -1978,9 +1998,13 @@
         "Nameless Spires"
       ],
       "topics": [
-        "gatewalker",
         "fissure",
-        "queen"
+        "queen",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -2034,7 +2058,7 @@
     },
     {
       "key": "37b8a96fe903c2f404af8838c942334c6794734d",
-      "title": "Gatewalkers Episode 97 – The Queen Is Dead",
+      "title": "The Queen Is Dead | The Glass Cannon Podcast Gatewalkers E97 | Pathfinder 2E",
       "published_at": "2025-08-08T04:00:00+00:00",
       "link": null,
       "description": "The heroes must put a stop to a strange ritual. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ https://youtu.be/JVANsRTAxe4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2045,8 +2069,12 @@
       "itunes_duration": "6077",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "queen"
+        "queen",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -2100,7 +2128,7 @@
     },
     {
       "key": "d6a5584e1321b05608fabc5a94551470a6d9467d",
-      "title": "Gatewalkers Episode 96 – A Song of Ice and Spire",
+      "title": "A Song of Ice and Spire | The Glass Cannon Podcast Gatewalkers E96 | Pathfinder 2E",
       "published_at": "2025-08-01T04:01:00+00:00",
       "link": null,
       "description": "Having reached the Nameless Spires at the Crown of the World, the heroes have to deal with a disturbing new development. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/otFyluFOhdw This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2111,9 +2139,13 @@
       "itunes_duration": "7297",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "song",
-        "spire"
+        "spire",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -2184,7 +2216,7 @@
     },
     {
       "key": "acf459519281338572b126b04dbbb882c657e6ae",
-      "title": "Gatewalkers Episode 95 – In the Line of Spire",
+      "title": "In the Line of Spire | The Glass Cannon Podcast Gatewalkers E95 | Pathfinder 2E",
       "published_at": "2025-07-25T04:00:00+00:00",
       "link": null,
       "description": "The heroes level up for the final time and continue their journey to the Nameless Spires. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/ciaQEr8d3p0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2197,9 +2229,13 @@
         "Nameless Spires"
       ],
       "topics": [
-        "gatewalker",
         "line",
-        "spire"
+        "spire",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -2253,7 +2289,7 @@
     },
     {
       "key": "1d05ea92b5f6d660b180e0f600a0a7cdc6ae3e36",
-      "title": "Gatewalkers Episode 94 – Scrapegoats",
+      "title": "Scrapegoats | The Glass Cannon Podcast Gatewalkers E94 | Pathfinder 2E",
       "published_at": "2025-07-18T04:00:00+00:00",
       "link": null,
       "description": "Reality crumbles around the heroes as they try to survive a new nightmare. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ https://youtu.be/ZOOm86cqY1Q This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2262,12 +2298,14 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6696",
-      "speakers": [
-        "Scrapegoats Reality"
-      ],
+      "speakers": [],
       "topics": [
+        "scrapegoat",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "scrapegoat"
+        "pathfinder"
       ]
     },
     {
@@ -2346,7 +2384,7 @@
     },
     {
       "key": "4d6f243f8b45aa5153a40159087e09e00f23f6fc",
-      "title": "Gatewalkers Episode 93 – Owl's Moving Castle",
+      "title": "Owl's Moving Castle | The Glass Cannon Podcast Gatewalkers E93 | Pathfinder 2E",
       "published_at": "2025-07-11T04:00:00+00:00",
       "link": null,
       "description": "As their journey nears the Crown of the World, strange phenomena seem to dog at the heels of the party's every move. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠⁠⁠ ⁠⁠https://youtu.be/8heQzsKjDGY ⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2355,11 +2393,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5580",
-      "speakers": [],
+      "speakers": [
+        "Moving Castle"
+      ],
       "topics": [
-        "gatewalker",
         "moving",
-        "castle"
+        "castle",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -2434,7 +2478,7 @@
     },
     {
       "key": "8a9aa6244e74e6ace76ff808621d5d0975d45bf0",
-      "title": "Gatewalkers Episode 92 – Once Bitten, Ice Shy",
+      "title": "Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E",
       "published_at": "2025-07-04T04:00:00+00:00",
       "link": null,
       "description": "The heroes begin their journey across the arctic wasteland known as the High Ice. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠⁠⁠ ⁠ https://youtu.be/rV6aSg1--n4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2445,29 +2489,12 @@
       "itunes_duration": "6887",
       "speakers": [],
       "topics": [
+        "bitten",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "bitten"
-      ]
-    },
-    {
-      "key": "844a181747a141de804ff909cb42554de9aa2145",
-      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-07-03T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "10777",
-      "speakers": [],
-      "topics": [
-        "island",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
+        "pathfinder"
       ]
     },
     {
@@ -2493,6 +2520,27 @@
         "best",
         "fictional",
         "president"
+      ]
+    },
+    {
+      "key": "844a181747a141de804ff909cb42554de9aa2145",
+      "title": "Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-07-03T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators make their way to Walton-on-the-Naze in search of Misr House. Watch the video here: ⁠⁠https://youtu.be/KMdlFIRM82s For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/15210dd0-5365-11f0-9494-432c2cc37bb8/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7346316478.mp3?updated=1751037254",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "10777",
+      "speakers": [],
+      "topics": [
+        "island",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -2589,6 +2637,31 @@
       ]
     },
     {
+      "key": "296e5799d408a34255c588eb6cc4765675df46e8",
+      "title": "Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E",
+      "published_at": "2025-06-27T04:00:00+00:00",
+      "link": null,
+      "description": "As memories from the Missing Moment continue to resurface, the heroes stumble upon the work of an old friend. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠ https://youtu.be/ngANgBy0reE This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942427734.mp3?updated=1750960594",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5860",
+      "speakers": [
+        "Yurty Rotten Scoundrels"
+      ],
+      "topics": [
+        "yurty",
+        "rotten",
+        "scoundrels",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "ab5531ac81149fa94b351891399d308a3e2edd36",
       "title": "Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-27T04:00:00+00:00",
@@ -2607,49 +2680,6 @@
       "topics": [
         "hidden",
         "lines",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
-      "key": "296e5799d408a34255c588eb6cc4765675df46e8",
-      "title": "Gatewalkers Episode 91 – Yurty Rotten Scoundrels",
-      "published_at": "2025-06-27T04:00:00+00:00",
-      "link": null,
-      "description": "As memories from the Missing Moment continue to resurface, the heroes stumble upon the work of an old friend. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠ ⁠ https://youtu.be/ngANgBy0reE This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1942427734.mp3?updated=1750960594",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5860",
-      "speakers": [
-        "Yurty Rotten Scoundrels"
-      ],
-      "topics": [
-        "gatewalker",
-        "yurty",
-        "rotten",
-        "scoundrel"
-      ]
-    },
-    {
-      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
-      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-26T04:00:00+00:00",
-      "link": null,
-      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7758",
-      "speakers": [],
-      "topics": [
-        "safe",
-        "house",
         "time",
         "chaos",
         "cthulhu",
@@ -2679,6 +2709,28 @@
         "zombie",
         "gaming",
         "beat"
+      ]
+    },
+    {
+      "key": "6402200aaabbdbff3ad0715d53cb9aae2ad0a27f",
+      "title": "Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-26T04:00:00+00:00",
+      "link": null,
+      "description": "With a new companion in tow, the investigators look into Henson Manufacturing. Watch the video here: ⁠https://youtu.be/S5IvIPGehU8 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d0287fc6-4c5a-11f0-a806-a349d24a68f5/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6873814941.mp3?updated=1750261919",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7758",
+      "speakers": [],
+      "topics": [
+        "safe",
+        "house",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -2752,6 +2804,27 @@
       ]
     },
     {
+      "key": "3304569d855714c241b558a2a496040cdb65ecea",
+      "title": "We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E",
+      "published_at": "2025-06-20T04:00:00+00:00",
+      "link": null,
+      "description": "On the second floor of the Temple of Findeladlara, the heroes meet a creature near the end stages of blackfrost affliction. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/f4n7RGErwGI This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at ⁠https://www.norsefoundry.com/collections/pride-dice-tray Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9510415058.mp3?updated=1750367488",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6000",
+      "speakers": [],
+      "topics": [
+        "extinction",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "4326d6596f87844a7b4fa3f4be8aa77c0dcde2fc",
       "title": "Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-20T04:00:00+00:00",
@@ -2771,23 +2844,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "3304569d855714c241b558a2a496040cdb65ecea",
-      "title": "Gatewalkers Episode 90 – We Did Extinction",
-      "published_at": "2025-06-20T04:00:00+00:00",
-      "link": null,
-      "description": "On the second floor of the Temple of Findeladlara, the heroes meet a creature near the end stages of blackfrost affliction. Watch the video here: ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/f4n7RGErwGI This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at ⁠https://www.norsefoundry.com/collections/pride-dice-tray Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9510415058.mp3?updated=1750367488",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "6000",
-      "speakers": [],
-      "topics": [
-        "gatewalker",
-        "extinction"
       ]
     },
     {
@@ -2906,6 +2962,28 @@
       ]
     },
     {
+      "key": "cd03ae25492d5d9056286dc888993464c8dc9b42",
+      "title": "The Great Eggscape | The Glass Cannon Podcast Gatewalkers E89 | Pathfinder 2E",
+      "published_at": "2025-06-13T04:00:00+00:00",
+      "link": null,
+      "description": "With Dr. Ritalson vanquished, the heroes come to grips with the return of their lost memories. Watch the video here: ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ https://youtu.be/9t7uEmowuiQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at https://www.norsefoundry.com/collections/pride-dice-tray Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2825406329.mp3?updated=1753968576",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7646",
+      "speakers": [],
+      "topics": [
+        "great",
+        "eggscape",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "50fd46ad972252b4a8910bae3dc20434143a7ce1",
       "title": "Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-13T04:00:00+00:00",
@@ -2928,24 +3006,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "cd03ae25492d5d9056286dc888993464c8dc9b42",
-      "title": "Gatewalkers Episode 89 – The Great Eggscape",
-      "published_at": "2025-06-13T04:00:00+00:00",
-      "link": null,
-      "description": "With Dr. Ritalson vanquished, the heroes come to grips with the return of their lost memories. Watch the video here: ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ https://youtu.be/9t7uEmowuiQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠⁠ Check out the Pride Dice Trays from Norse Foundry at https://www.norsefoundry.com/collections/pride-dice-tray Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP2825406329.mp3?updated=1753968576",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7646",
-      "speakers": [],
-      "topics": [
-        "gatewalker",
-        "great",
-        "eggscape"
       ]
     },
     {
@@ -3040,6 +3100,30 @@
       ]
     },
     {
+      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
+      "title": "Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E",
+      "published_at": "2025-06-06T04:00:00+00:00",
+      "link": null,
+      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5294",
+      "speakers": [
+        "Roust Us"
+      ],
+      "topics": [
+        "doctor",
+        "roust",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "cd5292e5a095b28b62a643956e061e82c20294af",
       "title": "The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-06-06T04:00:00+00:00",
@@ -3054,51 +3138,6 @@
       "topics": [
         "lunatic",
         "head",
-        "time",
-        "chaos",
-        "cthulhu",
-        "masks",
-        "nyarlathotep"
-      ]
-    },
-    {
-      "key": "207db954276f5709e92bed56f3be2ddfd1a4b5a2",
-      "title": "Gatewalkers Episode 88 – Doctor Roust Us",
-      "published_at": "2025-06-06T04:00:00+00:00",
-      "link": null,
-      "description": "After 87 episodes, the heroes come face to face with Dr. Ritalson once more. Watch the video here: ⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠ ⁠ https://youtu.be/h-ltlxSE0zc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9891261392.mp3?updated=1753915844",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5294",
-      "speakers": [
-        "Roust Us"
-      ],
-      "topics": [
-        "gatewalker",
-        "doctor",
-        "roust"
-      ]
-    },
-    {
-      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
-      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
-      "published_at": "2025-06-05T04:00:00+00:00",
-      "link": null,
-      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7912",
-      "speakers": [
-        "Cthulhu Masks",
-        "Carlyle Mansion"
-      ],
-      "topics": [
-        "life",
-        "party",
         "time",
         "chaos",
         "cthulhu",
@@ -3130,6 +3169,31 @@
         "nerdiest",
         "hobbies",
         "bracket"
+      ]
+    },
+    {
+      "key": "4e2fdd61897ae1f21a46066851a33113f34cba2c",
+      "title": "Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep",
+      "published_at": "2025-06-05T04:00:00+00:00",
+      "link": null,
+      "description": "The investigators are confronted by various guests at the Carlyle Mansion. Watch the video here: https://youtu.be/FggtnBzbLb0 For a limited time, use code \"TFC\" to save 15% on Cthulhu products at ⁠⁠⁠⁠chaosium.com⁠⁠⁠⁠ . Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Friday at 8PM ET on ⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠⁠⁠⁠⁠ , starting July 11th. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d16d9aee-3d85-11f0-b77d-77e30032bff2/image/dccb334bbc54b1cbafc4b793754fc1fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP3283243673.mp3?updated=1748632354",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7912",
+      "speakers": [
+        "Cthulhu Masks",
+        "Carlyle Mansion"
+      ],
+      "topics": [
+        "life",
+        "party",
+        "time",
+        "chaos",
+        "cthulhu",
+        "masks",
+        "nyarlathotep"
       ]
     },
     {
@@ -3207,7 +3271,7 @@
     },
     {
       "key": "c04961edb5ff761813d1d42cd854d25bd8b65ae0",
-      "title": "Gatewalkers 87 – Inveigle with Lox",
+      "title": "Inveigle with Lox | The Glass Cannon Podcast Gatewalkers E87 | Pathfinder 2E",
       "published_at": "2025-05-30T04:00:00+00:00",
       "link": null,
       "description": "With the basement cleared out, the heroes leave Ritalson Manor. Watch the video here: ⁠⁠ ⁠⁠⁠⁠⁠⁠ ⁠⁠⁠ https://youtu.be/AhHxfShK6oA This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3218,7 +3282,11 @@
       "itunes_duration": "5707",
       "speakers": [],
       "topics": [
-        "gatewalker"
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -3371,6 +3439,27 @@
       ]
     },
     {
+      "key": "aace769540bdf93a9cbac76492b95b20186c8520",
+      "title": "Oy The Vault! | The Glass Cannon Podcast Gatewalkers E86 | Pathfinder 2E",
+      "published_at": "2025-05-23T04:00:00+00:00",
+      "link": null,
+      "description": "The heroes enter Dr. Ritalson's vault and are introduced to the Guest. Watch the video here: https://youtu.be/CneOQ4X0A7U ⁠⁠⁠⁠ ⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7696551263.mp3?updated=1747925109",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "7858",
+      "speakers": [],
+      "topics": [
+        "vault",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "8f64802a97ce7c6d4203e5dbd84a3540b30a90aa",
       "title": "DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-05-23T04:00:00+00:00",
@@ -3391,23 +3480,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "aace769540bdf93a9cbac76492b95b20186c8520",
-      "title": "Gatewalkers Episode 86 – Oy The Vault!",
-      "published_at": "2025-05-23T04:00:00+00:00",
-      "link": null,
-      "description": "The heroes enter Dr. Ritalson's vault and are introduced to the Guest. Watch the video here: https://youtu.be/CneOQ4X0A7U ⁠⁠⁠⁠ ⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠⁠https://norsefoundry.com⁠⁠⁠⁠ Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠⁠jointhenaish.com⁠⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7696551263.mp3?updated=1747925109",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "7858",
-      "speakers": [],
-      "topics": [
-        "gatewalker",
-        "vault"
       ]
     },
     {
@@ -3554,6 +3626,30 @@
       ]
     },
     {
+      "key": "c66a62252e7ce402baaef0ca1da8004883a44c94",
+      "title": "Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E",
+      "published_at": "2025-05-16T04:00:00+00:00",
+      "link": null,
+      "description": "The investigation into Dr. Ritalson's work continues to reveal more disturbing details. Watch the video here: ⁠⁠ https://youtu.be/TZwUzQ0GV4E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1699427919.mp3?updated=1747329561",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5739",
+      "speakers": [
+        "Loosey Balls"
+      ],
+      "topics": [
+        "loosey",
+        "balls",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
       "key": "399ea114bd9a125576a5b5cfc9e822db79b26fca",
       "title": "Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep",
       "published_at": "2025-05-16T04:00:00+00:00",
@@ -3576,26 +3672,6 @@
         "cthulhu",
         "masks",
         "nyarlathotep"
-      ]
-    },
-    {
-      "key": "c66a62252e7ce402baaef0ca1da8004883a44c94",
-      "title": "Gatewalkers Episode 85 – Loosey Balls",
-      "published_at": "2025-05-16T04:00:00+00:00",
-      "link": null,
-      "description": "The investigation into Dr. Ritalson's work continues to reveal more disturbing details. Watch the video here: ⁠⁠ https://youtu.be/TZwUzQ0GV4E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠⁠https://foundryvtt.com/gcp⁠⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠⁠https://norsefoundry.com⁠⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠⁠jointhenaish.com⁠⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠⁠https://hubs.li/Q03cn8wr0⁠⁠⁠ . For more podcasts and livestreams, visit ⁠⁠⁠https://hubs.li/Q03cmY380⁠⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠⁠youtube.com/theglasscannon⁠⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/SBP1699427919.mp3?updated=1747329561",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5739",
-      "speakers": [
-        "Loosey Balls"
-      ],
-      "topics": [
-        "gatewalker",
-        "loosey",
-        "balls"
       ]
     },
     {
@@ -3766,7 +3842,7 @@
     },
     {
       "key": "08f6fd5325f319c97a75f7961e45c54940edd7a5",
-      "title": "Gatewalkers Episode 84 – Doctor, My Guise",
+      "title": "Doctor, My Guise | The Glass Cannon Podcast Gatewalkers E84 | Pathfinder 2E",
       "published_at": "2025-05-09T04:00:00+00:00",
       "link": null,
       "description": "The party digs into Dr. Ritalson's notebooks and research. Watch the video here: ⁠https://youtu.be/dyRA0Fx6lrQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠⁠https://foundryvtt.com/gcp⁠⁠ For all your random number-generating needs, visit Norse Foundry at ⁠⁠https://norsefoundry.com⁠⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠⁠jointhenaish.com⁠⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠⁠https://hubs.li/Q03cn8wr0⁠⁠ . For more podcasts and livestreams, visit ⁠⁠https://hubs.li/Q03cmY380⁠⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠⁠youtube.com/theglasscannon⁠⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3777,9 +3853,13 @@
       "itunes_duration": "5299",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "doctor",
-        "guise"
+        "guise",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -3814,7 +3894,7 @@
     },
     {
       "key": "8e770a1d9a75f83e16a9dc2e093870f3eb76c872",
-      "title": "Gatewalkers Episode 83 – Doctor's Orders",
+      "title": "Doctor's Orders | The Glass Cannon Podcast Gatewalkers E83 | Pathfinder 2E",
       "published_at": "2025-05-02T05:01:00+00:00",
       "link": null,
       "description": "More clues leads to a gruesome discovery. Watch the video here: https://youtu.be/L1PakP-vcoM ⁠ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at ⁠https://foundryvtt.com/gcp⁠ For all your random number-generating needs, visit Norse Foundry at ⁠https://norsefoundry.com⁠ Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at ⁠jointhenaish.com⁠ . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at ⁠https://hubs.li/Q03cn8wr0⁠ . For more podcasts and livestreams, visit ⁠https://hubs.li/Q03cmY380⁠ . Watch new episodes when they premiere every Thursday at 8PM ET on ⁠youtube.com/theglasscannon⁠ . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3823,13 +3903,15 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4690",
-      "speakers": [
-        "Orders More"
-      ],
+      "speakers": [],
       "topics": [
-        "gatewalker",
         "doctor",
-        "orders"
+        "orders",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -3860,7 +3942,7 @@
     },
     {
       "key": "0a8c5a50c4baab5222e4988f2675548e78ee24d1",
-      "title": "Gatewalkers Episode 82 – Fast Sleep & Out of Control",
+      "title": "Fast Sleep & Out of Control | The Glass Cannon Podcast Gatewalkers E82 | Pathfinder 2E",
       "published_at": "2025-04-25T05:01:00+00:00",
       "link": null,
       "description": "A series of secret passageways lead to the discovery of more disturbing details. Watch the video here: https://youtu.be/qX9a7cfbV_k This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Get your personalized hair loss treatment options. Visit https://hims.com/gcn to start your free online visit today. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3873,10 +3955,14 @@
         "Fast Sleep"
       ],
       "topics": [
-        "gatewalker",
         "fast",
         "sleep",
-        "control"
+        "control",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -3906,7 +3992,7 @@
     },
     {
       "key": "fb700a29793d0c1befe574bdc8973b79b34fdb40",
-      "title": "Gatewalkers Episode 81 – Very Special Old Whale",
+      "title": "Very Special Old Whale | The Glass Cannon Podcast Gatewalkers E81 | Pathfinder 2E",
       "published_at": "2025-04-18T04:00:00+00:00",
       "link": null,
       "description": "The party encounters an enigmatic entity whom they apparently met before. Watch the video here: https://youtu.be/weZrD6FmhX0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3919,9 +4005,13 @@
         "Very Special Old Whale"
       ],
       "topics": [
-        "gatewalker",
         "special",
-        "whale"
+        "whale",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -3953,7 +4043,7 @@
     },
     {
       "key": "fc7f5e341f14a0c4cacf1a2954015815ea699903",
-      "title": "Gatewalkers Episode 80 – Daemon Error",
+      "title": "Daemon Error | The Glass Cannon Podcast Gatewalkers E80 | Pathfinder 2E",
       "published_at": "2025-04-11T04:00:00+00:00",
       "link": null,
       "description": "Sleeping gas and demons make for a brutal battle beneath Ritalson Manor. Watch the video here: https://youtu.be/2FPkQxhLHlU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Get your personalized hair loss treatment options. Visit https://hims.com/gcn to start your free online visit today. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -3962,11 +4052,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6710",
-      "speakers": [],
+      "speakers": [
+        "Daemon Error"
+      ],
       "topics": [
-        "gatewalker",
         "daemon",
-        "error"
+        "error",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4019,7 +4115,7 @@
     },
     {
       "key": "03b60f9cd87b1be9c4daccbfa6f8eeb8098df1c4",
-      "title": "Gatewalkers Episode 79 – Sleep Study",
+      "title": "Sleep Study | The Glass Cannon Podcast Gatewalkers E79 | Pathfinder 2E",
       "published_at": "2025-04-04T04:00:00+00:00",
       "link": null,
       "description": "The heroes discover blueprints for an underground addition to Ritalson Manor. Watch the video here: https://youtu.be/9zHXCyKyJjk This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4029,12 +4125,17 @@
       "enclosure_length": "0",
       "itunes_duration": "6594",
       "speakers": [
+        "Sleep Study",
         "Ritalson Manor"
       ],
       "topics": [
-        "gatewalker",
         "sleep",
-        "study"
+        "study",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4083,7 +4184,7 @@
     },
     {
       "key": "e18650ed2fe900f959446cc937effed2a6043cb8",
-      "title": "Gatewalkers Episode 78 – Dinner Monologues",
+      "title": "Dinner Monologues | The Glass Cannon Podcast Gatewalkers E78 | Pathfinder 2E",
       "published_at": "2025-03-28T04:00:00+00:00",
       "link": null,
       "description": "Nine Gatewalkers try to get to the bottom of things. Watch the video here: https://youtu.be/zdobtiR7Swg This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Head to https://shopremi.com/GCN and use code \"GCN\" to save up to 50%. Give your teeth a break without breaking the bank with Remi. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4094,9 +4195,13 @@
       "itunes_duration": "5219",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "dinner",
-        "monologue"
+        "monologues",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4128,7 +4233,7 @@
     },
     {
       "key": "6d354c03d5f68c6b6578138b795b50a841bbf9bd",
-      "title": "Gatewalkers Episode 77 – The Boy and the Knife",
+      "title": "The Boy and the Knife | The Glass Cannon Podcast Gatewalkers E77 | Pathfinder 2E",
       "published_at": "2025-03-21T04:00:00+00:00",
       "link": null,
       "description": "The heroes return to Ritalson Manor and meet other Gatewalkers. Watch the video here: https://youtu.be/xnmKmH-sMAA This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com If you like your money, Mint Mobile is for you. Shop plans at https://mintmobile.com/GCP . (Upfront payment of $45 for 3-month 5-gigabyte plan required (equivalent to $15/mo.). New customer offer for first 3 months only, then full-price plan options available. Taxes and fees extra. See Mint Mobile for details.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4141,8 +4246,12 @@
         "Ritalson Manor"
       ],
       "topics": [
-        "gatewalker",
-        "knife"
+        "knife",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4193,7 +4302,7 @@
     },
     {
       "key": "4719ab34c11cb850dcfb1d4980a4fbe78a207ab8",
-      "title": "Gatewalkers Episode 76 – Split the Party",
+      "title": "Split the Party | The Glass Cannon Podcast Gatewalkers E76 | Pathfinder 2E",
       "published_at": "2025-03-14T04:00:00+00:00",
       "link": null,
       "description": "A brief sojourn in Chesed provides the party with more news than they could have ever expected. Watch the video here: https://youtu.be/xkS57rLkmv0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Go to https://zbiotics.com/GCP to learn more and get 15% off your fist order when you use \"GCP\" at checkout. ZBiotics is backed with a 100% money-back guarantee, so if you're unsatisfied for any reason, they'll refund your money, no questions asked! Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . Join Troy Lavallee, Joe O'Brien, Skid Maher, Matthew Capodicasa, Sydney Amanuel, and Kate Stamas as they tour the country. Get your tickets today at https://hubs.li/Q03cn8wr0 . For more podcasts and livestreams, visit https://hubs.li/Q03cmY380 . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4204,8 +4313,12 @@
       "itunes_duration": "5204",
       "speakers": [],
       "topics": [
+        "party",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "party"
+        "pathfinder"
       ]
     },
     {
@@ -4260,7 +4373,7 @@
     },
     {
       "key": "db61fe14f15e7b88ab3c5d2e9256b73be78d4213",
-      "title": "Gatewalkers Episode 75 – The Pig and Pony Show",
+      "title": "The Pig and Pony Show | The Glass Cannon Podcast Gatewalkers E75 | Pathfinder 2E",
       "published_at": "2025-03-07T05:00:00+00:00",
       "link": null,
       "description": "A brief sojourn in Chesed provides the party with more news than they could have ever expected. Watch the video here: https://youtu.be/23RPUFCLSi4 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4271,8 +4384,12 @@
       "itunes_duration": "5821",
       "speakers": [],
       "topics": [
+        "pony",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "pony"
+        "pathfinder"
       ]
     },
     {
@@ -4303,7 +4420,7 @@
     },
     {
       "key": "193a707c490612366d4ca2baf6cf8b752ac09557",
-      "title": "Gatewalkers Episode 74 – Room 309",
+      "title": "Room 309 | The Glass Cannon Podcast Gatewalkers E74 | Pathfinder 2E",
       "published_at": "2025-02-28T05:00:00+00:00",
       "link": null,
       "description": "The fractured party attempts to dock at a nearby city. Watch the video here: https://youtu.be/C4xC5WWnZfk This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com If you like your money, Mint Mobile is for you. Shop plans at https://mintmobile.com/GCN . (Upfront payment of $45 for 3-month 5-GB plan required, equivalent to $15/mo. New customer offer for first 3 months only, then full-price plan options available. Taxes and fees extra. See Mint Mobile for details.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4314,8 +4431,12 @@
       "itunes_duration": "5964",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "room"
+        "room",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4343,7 +4464,7 @@
     },
     {
       "key": "f0f943a23b87f9fb7c0d0df34f6cef926f1a9fdc",
-      "title": "Gatewalkers Episode 73 – Destined to Whale",
+      "title": "Destined to Whale | The Glass Cannon Podcast Gatewalkers E73 | Pathfinder 2E",
       "published_at": "2025-02-21T05:00:00+00:00",
       "link": null,
       "description": "A beast in the sky and a pair of lunar nagas threaten to end the Gatewalkers journey. Watch the video here: https://youtu.be/szgyyYdl7-s This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4354,8 +4475,12 @@
       "itunes_duration": "4995",
       "speakers": [],
       "topics": [
+        "whale",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "whale"
+        "pathfinder"
       ]
     },
     {
@@ -4429,7 +4554,7 @@
     },
     {
       "key": "acee90cea0d0c9258140688b26ae99c719204c96",
-      "title": "Gatewalkers Episode 72 – Hassle in the Sky",
+      "title": "Hassle in the Sky | The Glass Cannon Podcast Gatewalkers E72 | Pathfinder 2E",
       "published_at": "2025-02-14T05:00:00+00:00",
       "link": null,
       "description": "The heroes fight for their lives against another shared memory made manifest. Watch the video here: https://youtu.be/JYMBNQ8me5A This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Visit https://zbiotics.com/GCP to learn more and get 15% off your first order when you use code \"GCP at checkout. ZBiotics is backed with a 100% money back guarantee, so if you're unsatisfied for any reason, they'll refund your money, no questions asked. Start your free online visit today at https://hims.com/GCN for your personalized hair loss treatment options. Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4440,8 +4565,12 @@
       "itunes_duration": "6485",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "hassle"
+        "hassle",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4470,7 +4599,7 @@
     },
     {
       "key": "2de65668446026d77319dbde5396746e9b2cb73e",
-      "title": "Gatewalkers Episode 71 – The Hanky of Sweet Wind",
+      "title": "The Hanky of Sweet Wind | The Glass Cannon Podcast Gatewalkers E71 | Pathfinder 2E",
       "published_at": "2025-02-07T05:00:00+00:00",
       "link": null,
       "description": "The journey beyond Skywatch is fraught with strange visions and new dangers. Watch the video here: https://youtu.be/jdlMPUlLg0I This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Head to https://shopremi.com/GCN and use code \"GCN\" to save up to 50%. Give your teeth a break without breaking the bank with Remi. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4484,10 +4613,14 @@
         "new dangers"
       ],
       "topics": [
-        "gatewalker",
         "hanky",
         "sweet",
-        "wind"
+        "wind",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4519,7 +4652,7 @@
     },
     {
       "key": "00a8f5e01850341caecd4554ba2caa09231fb38e",
-      "title": "Gatewalkers Episode 70 – Two Heads Are Better Than None",
+      "title": "Two Heads Are Better Than None | The Glass Cannon Podcast Gatewalkers E70 | Pathfinder 2E",
       "published_at": "2025-01-31T05:00:00+00:00",
       "link": "https://youtu.be/dKLv6U9p2kk",
       "description": "Outside the gates of Skywatch, the heroes make a gruesome discovery. Watch the video here: https://youtu.be/dKLv6U9p2kk This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4530,8 +4663,12 @@
       "itunes_duration": "6102",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "head"
+        "head",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4563,7 +4700,7 @@
     },
     {
       "key": "98a3dc417fc17ec49b87792dda6052926081697a",
-      "title": "Gatewalkers Episode 69 – Stay",
+      "title": "Stay | The Glass Cannon Podcast Gatewalkers E69 | Pathfinder 2E",
       "published_at": "2025-01-24T05:00:00+00:00",
       "link": "https://youtu.be/6hdxZ8mNuh0",
       "description": "The party attempts to navigate Skywatch once more in search of another of Sakuachi's missing companions. Watch the video here: https://youtu.be/6hdxZ8mNuh0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Start your free online visit today at https://hims.com/GCN . (Results vary. Based on studies of topical and oral minoxidil and finasteride. Prescription products require an online consultation with a healthcare provider who will determine if a prescription is appropriate. Restrictions apply. See website for full details and important safety information.) Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4574,7 +4711,11 @@
       "itunes_duration": "6772",
       "speakers": [],
       "topics": [
-        "gatewalker"
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4603,7 +4744,7 @@
     },
     {
       "key": "ea115df31b68830630295c0ac194af5099cb2139",
-      "title": "Gatewalkers Episode 68 – The Kate Escape",
+      "title": "The Kate Escape | The Glass Cannon Podcast Gatewalkers E68 | Pathfinder 2E",
       "published_at": "2025-01-17T05:00:00+00:00",
       "link": "https://youtu.be/xhGHURoBwA8",
       "description": "The heroes must contend with a vicious outburst and a sick companion. Watch the video here: https://youtu.be/xhGHURoBwA8 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Visit https://zbiotics.com/GCP to get 15% off your first order when you use \"GCP\" at checkout. ZBiotics is backed with a 100% money back guarantee, so if you're unsatisfied for any reason, they'll refund your money, no questions asked. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4614,14 +4755,18 @@
       "itunes_duration": "5684",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "kate",
-        "escape"
+        "escape",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
       "key": "6aa4c4f54958869de0c7549b3b1988ba86eadfa9",
-      "title": "Gatewalkers Episode 67 – Children vs. a Dresser God",
+      "title": "Children vs. a Dresser God | The Glass Cannon Podcast Gatewalkers E67 | Pathfinder 2E",
       "published_at": "2025-01-10T05:00:00+00:00",
       "link": null,
       "description": "Having rescued Sakuachi's sick companion, the heroes seek an antidote for her illness. Watch the video here: https://youtu.be/EkTVOYbQQ5E This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://www.norsefoundry.com/discount/newyearnewdice . For a limited time, save with code \"newyearnewdice\". Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4632,9 +4777,13 @@
       "itunes_duration": "7537",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "child",
-        "dresser"
+        "dresser",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -4657,7 +4806,7 @@
     },
     {
       "key": "c9d3de3cf0066edde9c766846c67fed9a581ce0f",
-      "title": "Gatewalkers Episode 66 – Bards! Bards!",
+      "title": "Bards! Bards! | The Glass Cannon Podcast Gatewalkers E66 | Pathfinder 2E",
       "published_at": "2025-01-03T05:00:00+00:00",
       "link": "https://youtu.be/l-cL-87dtJg",
       "description": "The heroes try to stave off a restless band of raiders. Watch the video here: https://youtu.be/l-cL-87dtJg This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://www.norsefoundry.com/discount/newyearnewdice . For a limited time, save with code \"newyearnewdice\". Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4668,13 +4817,17 @@
       "itunes_duration": "5041",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "bard"
+        "bard",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
       "key": "75d6d72bce688df4df3d07f6071f0d87b59f9962",
-      "title": "Gatewalkers Episode 65 – A Bard Day's Night",
+      "title": "A Bard Day's Night | The Glass Cannon Podcast Gatewalkers E65 | Pathfinder 2E",
       "published_at": "2024-12-27T05:00:00+00:00",
       "link": "https://youtu.be/PxhQwOjg1yg",
       "description": "In Skywatch's Mystic Market, the heroes find another of Sakuachi's companions. Watch the video here: https://youtu.be/PxhQwOjg1yg This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://www.norsefoundry.com/discount/newyearnewdice . For a limited time, save with code \"newyearnewdice\". Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4688,14 +4841,18 @@
         "Mystic Market"
       ],
       "topics": [
-        "gatewalker",
         "bard",
-        "night"
+        "night",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
       "key": "0b5d1e52861a6ee66535231838cf8602d9fc69a8",
-      "title": "Gatewalkers Episode 64 – Sad Songs (Fey So Much)",
+      "title": "Sad Songs (Fey So Much) | The Glass Cannon Podcast Gatewalkers E64 | Pathfinder 2E",
       "published_at": "2024-12-20T05:00:00+00:00",
       "link": "https://youtu.be/Dbf4NM3QACQ",
       "description": "Another casualty leaves the party in shambles as they return to the Smiling Wolves' camp. Watch the video here: https://youtu.be/Dbf4NM3QACQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://www.norsefoundry.com/discount/newyearnewdice . For a limited time, save with code \"newyearnewdice\". Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4710,13 +4867,17 @@
         "Smiling Wolves"
       ],
       "topics": [
+        "songs",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "songs"
+        "pathfinder"
       ]
     },
     {
       "key": "4f475d1f60fe0052147e86d25b50aa6907f799ab",
-      "title": "Gatewalkers Episode 63 – Meow Mix 2: Pounce Upon a Time",
+      "title": "Meow Mix 2: Pounce Upon a Time | The Glass Cannon Podcast Gatewalkers E63 | Pathfinder 2E",
       "published_at": "2024-12-13T05:00:00+00:00",
       "link": "https://youtu.be/3UKoj7mHldY",
       "description": "A fey feline preys upon the party as they get lost in the streets of Skywatch. Watch the video here: https://youtu.be/3UKoj7mHldY This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Visit https://auraframes.com and use code \"GCN\" to get $35 off Aura's best-selling Carver Mat frames. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4729,10 +4890,14 @@
         "Meow Mix Pounce"
       ],
       "topics": [
-        "gatewalker",
         "meow",
         "pounce",
-        "time"
+        "time",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4756,7 +4921,7 @@
     },
     {
       "key": "140371a0ace9241fd35edd4beb6bffdfca70f17a",
-      "title": "Gatewalkers Episode 62 – Meow Mix",
+      "title": "Meow Mix | The Glass Cannon Podcast Gatewalkers E62 | Pathfinder 2E",
       "published_at": "2024-12-06T05:00:00+00:00",
       "link": "https://youtu.be/hEV7qGexGKQ",
       "description": "Following leads from the Smiling Wolves about the whereabouts of Sakuachi's companions, the heroes attempt to navigate the strange Skywatch streets in search of them. Watch the video here: https://youtu.be/hEV7qGexGKQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4766,11 +4931,15 @@
       "enclosure_length": "0",
       "itunes_duration": "7791",
       "speakers": [
-        "Meow Mix Following"
+        "Meow Mix"
       ],
       "topics": [
+        "meow",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "meow"
+        "pathfinder"
       ]
     },
     {
@@ -4813,7 +4982,7 @@
     },
     {
       "key": "b89f4d9f0207f3b8c7d1509e6d5d2c613096ad25",
-      "title": "Gatewalkers Episode 61 – Mazed by Wolves",
+      "title": "Mazed by Wolves | The Glass Cannon Podcast Gatewalkers E61 | Pathfinder 2E",
       "published_at": "2024-11-22T05:00:00+00:00",
       "link": "https://youtu.be/PCXUDre-euo",
       "description": "The heroes, along with their new companions, are escorted into a grizzly mercenary camp. Watch the video here: https://youtu.be/PCXUDre-euo This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4824,8 +4993,12 @@
       "itunes_duration": "6385",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "wolf"
+        "wolf",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4870,7 +5043,7 @@
     },
     {
       "key": "4b6bcce3286502055be73c26310a1f2d2ff46fec",
-      "title": "Gatewalkers Episode 60 – Where the Streets Have No Aim",
+      "title": "Where the Streets Have No Aim | The Glass Cannon Podcast Gatewalkers E60 | Pathfinder 2E",
       "published_at": "2024-11-15T05:00:00+00:00",
       "link": "https://youtu.be/48CATMewzNc",
       "description": "After a grueling gauntlet of battles, the heroes finally get to rest and learn about their surroundings. Watch the video here: https://youtu.be/48CATMewzNc This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4881,8 +5054,12 @@
       "itunes_duration": "6176",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "streets"
+        "streets",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4906,7 +5083,7 @@
     },
     {
       "key": "cceb6b09b05be83a78d6c762ba6b20871be53d4e",
-      "title": "Gatewalkers Episode 59 – Backlash of the Titans",
+      "title": "Backlash of the Titans | The Glass Cannon Podcast Gatewalkers E59 | Pathfinder 2E",
       "published_at": "2024-11-08T05:00:00+00:00",
       "link": "https://youtu.be/mJQIefVTrOo",
       "description": "With their backs up against both metaphorical and real walls, the heroes desperately try to find a way to survive. Watch the video here: https://youtu.be/mJQIefVTrOo This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For a limited time, use code \"GCN\" to get a free gift with your Journey Pack! Head to https://tryfum.com/GCN and use code \"GCN\". Visit https://hensonshaving.com/GCP to pick the razor for you, and use code \"GCP\" to get two years' worth of blades free with your razor—just make sure to add them to your cart. This episode is sponsored by BetterHelp. Visit https://betterhelp.com/GCN to get 10% off your first month. Our listeners get 22% off their first order when you use code \"GCP\" at https://iherb.com/shop/GCP . Existing customers receive 15% off. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4919,9 +5096,13 @@
         "real walls"
       ],
       "topics": [
-        "gatewalker",
         "backlash",
-        "titans"
+        "titans",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -4946,7 +5127,7 @@
     },
     {
       "key": "a43ccb05b84f9afa87053b79f6cff78ca1f7a460",
-      "title": "Gatewalkers Episode 58 – Raiders in the Lost Dark",
+      "title": "Raiders in the Lost Dark | The Glass Cannon Podcast Gatewalkers E58 | Pathfinder 2E",
       "published_at": "2024-11-01T04:00:00+00:00",
       "link": "https://youtu.be/Lvp667Umu20",
       "description": "Barnes' decision to give chase leads the party into a desperate battle. Watch the video here: https://youtu.be/Lvp667Umu20 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4957,10 +5138,14 @@
       "itunes_duration": "5704",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "raiders",
+        "raider",
         "lost",
-        "dark"
+        "dark",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -4984,7 +5169,7 @@
     },
     {
       "key": "bc8b2599df0fd81e745de772e2da5ab2476844a8",
-      "title": "Gatewalkers Episode 57 – Barnes and Mobile",
+      "title": "Barnes and Mobile | The Glass Cannon Podcast Gatewalkers E57 | Pathfinder 2E",
       "published_at": "2024-10-25T04:00:00+00:00",
       "link": "https://youtu.be/fdg8QPJL0B8",
       "description": "The party must make a quick decision on whether to pursue the hobgoblin raider or regroup after a brutal series of battles. Watch the video here: https://youtu.be/fdg8QPJL0B8 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -4995,9 +5180,13 @@
       "itunes_duration": "5507",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "barnes",
-        "mobile"
+        "mobile",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5021,7 +5210,7 @@
     },
     {
       "key": "2229559ecc08806e877ee3f8ff2155f4db17a41c",
-      "title": "Gatewalkers Episode 56 – Blunder the Dome",
+      "title": "Blunder the Dome | The Glass Cannon Podcast Gatewalkers E56 | Pathfinder 2E",
       "published_at": "2024-10-18T04:00:00+00:00",
       "link": "https://youtu.be/z56F_QCgpgo",
       "description": "The heroes are shunted through space and time to an observatory currently under threat! Watch the video here: https://youtu.be/z56F_QCgpgo This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5032,8 +5221,12 @@
       "itunes_duration": "5780",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "dome"
+        "dome",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5057,7 +5250,7 @@
     },
     {
       "key": "e55fd02433ae4b66cbf22a2ea37f415dafee2542",
-      "title": "Gatewalkers Episode 55 – Single White Karen",
+      "title": "Single White Karen | The Glass Cannon Podcast Gatewalkers E55 | Pathfinder 2E",
       "published_at": "2024-10-11T04:00:00+00:00",
       "link": "https://youtu.be/Q2oBhKgBxF0",
       "description": "With Brother Ramius at death's door, the party is transported to yet another planet as the aiudara continues to go wild! Watch the video here: https://youtu.be/Q2oBhKgBxF0 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Visit https://zbiotics.com/GCP to learn more and get 15% off your first order when you use \"GCP\" at checkout. ZBiotics is backed with a 100% money back guarantee, so if you're unsatisfied for any reason, they'll refund your money, no questions asked. This show is sponsored by BetterHelp. Visit https://betterhelp.com/GCN to get 10% off your first month. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5066,12 +5259,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6921",
-      "speakers": [],
+      "speakers": [
+        "Single White Karen"
+      ],
       "topics": [
-        "gatewalker",
-        "single",
         "white",
-        "karen"
+        "karen",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5116,7 +5314,7 @@
     },
     {
       "key": "64b0716e05bb05b849e5b3bf94a5d3cdc02d2bc7",
-      "title": "Gatewalkers Episode 54 – Tickled Pink",
+      "title": "Tickled Pink | The Glass Cannon Podcast Gatewalkers E54 | Pathfinder 2E",
       "published_at": "2024-10-04T04:00:00+00:00",
       "link": null,
       "description": "As Alleli attempts to redirect the aiudara back to Golarion so that the heroes can return to their home planet, the gate and all hell breaks loose! Watch the video here: https://youtu.be/XVe5LdliDYU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com If you are looking for a story with rich lore, deep characters, and unforgettable world-building, listen to The Forgotten King wherever you listen to podcasts or head to tfkseries.com for more. Visit https://hensonshaving.com/GCP to pick the razor for you, and use code \"GCP\" to get two years' worth of blades free with your razor—just make sure to add them to your cart. Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5125,11 +5323,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6200",
-      "speakers": [],
+      "speakers": [
+        "Tickled Pink"
+      ],
       "topics": [
-        "gatewalker",
         "tickled",
-        "pink"
+        "pink",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5153,7 +5357,7 @@
     },
     {
       "key": "0b87dce015c1601e06669b60c8f4b1eea1cc0dd5",
-      "title": "Gatewalkers Episode 53 – Drakin' It to the Streets",
+      "title": "Drakin' It to the Streets | The Glass Cannon Podcast Gatewalkers E53 | Pathfinder 2E",
       "published_at": "2024-09-27T04:00:00+00:00",
       "link": "https://youtu.be/mRLP4fHKmVU",
       "description": "A territorial jungle drake tests the limits of the party. Watch the video here: https://youtu.be/mRLP4fHKmVU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For a limited time, use code \"GCN\" to get a free gift with your Journey Pack! Head to https://tryfum.com/GCN and use code \"GCN\" to get a free gift with your order today. Get $5 off your next order of delicious cereal at https://magicspoon.com/GCP . Magic Spoon—Hold on to the dream! For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5164,9 +5368,13 @@
       "itunes_duration": "9193",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "drakin",
-        "street"
+        "streets",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5191,7 +5399,7 @@
     },
     {
       "key": "0f7a2491f8216ea1992d8e68d88502aee22d9a35",
-      "title": "Gatewalkers Episode 52 – Gouging Claw, Hitting Dragon",
+      "title": "Gouging Claw, Hitting Dragon | The Glass Cannon Podcast Gatewalkers E52 | Pathfinder 2E",
       "published_at": "2024-09-20T04:00:00+00:00",
       "link": "https://youtu.be/hjcbPr8pORU",
       "description": "The party returns to the grisly scene of a difficult recent memory. Watch the video here: https://youtu.be/hjcbPr8pORU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5204,10 +5412,14 @@
         "Gouging Claw"
       ],
       "topics": [
-        "gatewalker",
         "gouging",
         "claw",
-        "dragon"
+        "dragon",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5231,7 +5443,7 @@
     },
     {
       "key": "7923b69448f142432a7693a82f8399330915fde7",
-      "title": "Gatewalkers Episode 51 – Son of Valtor",
+      "title": "Son of Valtor | The Glass Cannon Podcast Gatewalkers E51 | Pathfinder 2E",
       "published_at": "2024-09-13T04:00:00+00:00",
       "link": "https://youtu.be/jGVuWFnn_Yk",
       "description": "With the possibility of returning to Golarion now at hand, the heroes must say goodbye to the Oatian settlement and its inhabitants. Watch the video here: https://youtu.be/jGVuWFnn_Yk This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5242,8 +5454,12 @@
       "itunes_duration": "5812",
       "speakers": [],
       "topics": [
+        "valtor",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "valtor"
+        "pathfinder"
       ]
     },
     {
@@ -5268,7 +5484,7 @@
     },
     {
       "key": "9859d6a7bbda3b25f70d27f5c66811a473954fe2",
-      "title": "Gatewalkers Episode 50 – Homesick",
+      "title": "Homesick | The Glass Cannon Podcast Gatewalkers E50 | Pathfinder 2E",
       "published_at": "2024-09-06T04:00:00+00:00",
       "link": "https://youtu.be/p-K9KYMGjVQ",
       "description": "High atop the demigod known as She Who Walks Through Seasons, the heroes battle the defenders of her headwaters. Watch the video here: https://youtu.be/p-K9KYMGjVQ This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5279,8 +5495,12 @@
       "itunes_duration": "5952",
       "speakers": [],
       "topics": [
+        "homesick",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "homesick"
+        "pathfinder"
       ]
     },
     {
@@ -5304,7 +5524,7 @@
     },
     {
       "key": "8ee93b6a6ab69344ae78de33facd8a97ae89e9b3",
-      "title": "Gatewalkers Episode 49 – Kappa Valley Chic",
+      "title": "Kappa Valley Chic | The Glass Cannon Podcast Gatewalkers E49 | Pathfinder 2E",
       "published_at": "2024-08-30T04:00:00+00:00",
       "link": "https://youtu.be/ZJ8jW-jFwRA",
       "description": "High atop the demigod known as She Who Walks Through Seasons, the heroes battle the defenders of her headwaters. Watch the video here: https://youtu.be/ZJ8jW-jFwRA This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5317,10 +5537,14 @@
         "Kappa Valley Chic"
       ],
       "topics": [
-        "gatewalker",
         "kappa",
         "valley",
-        "chic"
+        "chic",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5359,7 +5583,7 @@
     },
     {
       "key": "680a30b1139aa7970f73ce554fca991c27cd33f4",
-      "title": "Gatewalkers Episode 48 – The Horn Ultimatum",
+      "title": "The Horn Ultimatum | The Glass Cannon Podcast Gatewalkers E48 | Pathfinder 2E",
       "published_at": "2024-08-23T04:00:00+00:00",
       "link": "https://youtu.be/EyrrfiMtOKU",
       "description": "A vicious aerial battle stands in the way of the heroes' ascent to the Sporehorn. Watch the video here: https://youtu.be/EyrrfiMtOKU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5370,9 +5594,13 @@
       "itunes_duration": "5760",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "horn",
-        "ultimatum"
+        "ultimatum",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5394,7 +5622,7 @@
     },
     {
       "key": "b4d7877980f172324cf6aa2a27040ebb34c74b1e",
-      "title": "Gatewalkers Episode 47 – Courage Under Spire",
+      "title": "Courage Under Spire | The Glass Cannon Podcast Gatewalkers E47 | Pathfinder 2E",
       "published_at": "2024-08-16T04:00:00+00:00",
       "link": null,
       "description": "Securing the tower proves to be more difficult than expected. Watch the video here: https://youtu.be/sI6z4Qn5D7I This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5405,14 +5633,18 @@
       "itunes_duration": "6015",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "courage",
-        "spire"
+        "spire",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
       "key": "b3e64dcf8ef77aad5ad7377ab12047fdd741b87d",
-      "title": "Gatewalkers Episode 46 – Paralaralinglong! Or My Mom Will Shoot",
+      "title": "Paralaralinglong! Or My Mom Will Shoot | The Glass Cannon Podcast Gatewalkers E46 | Pathfinder 2E",
       "published_at": "2024-08-09T04:00:00+00:00",
       "link": "https://youtu.be/Gv0xqjOJy6Q",
       "description": "After returning to the Oatian settlement, the heroes embark on a new quest. Watch the video here: https://youtu.be/Gv0xqjOJy6Q This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5421,12 +5653,14 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6085",
-      "speakers": [
-        "Shoot After"
-      ],
+      "speakers": [],
       "topics": [
+        "paralaralinglong",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "paralaralinglong"
+        "pathfinder"
       ]
     },
     {
@@ -5451,7 +5685,7 @@
     },
     {
       "key": "a657b787e7e69c8ba70e59795bc3387d9be5580d",
-      "title": "Gatewalkers Episode 45 – Forget-Me-Naughts",
+      "title": "Forget-Me-Naughts | The Glass Cannon Podcast Gatewalkers E45 | Pathfinder 2E",
       "published_at": "2024-08-02T04:00:00+00:00",
       "link": "https://youtu.be/vCSeZl7zYwU",
       "description": "The heroes enter the Memory Grove seeking an audience with an elf who died over a century ago. Watch the video here: https://youtu.be/vCSeZl7zYwU This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5462,8 +5696,12 @@
       "itunes_duration": "6504",
       "speakers": [],
       "topics": [
+        "naught",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "naughts"
+        "pathfinder"
       ]
     },
     {
@@ -5488,7 +5726,7 @@
     },
     {
       "key": "476b773d6af296afec6fddb21a1a914cb6d52139",
-      "title": "Gatewalkers Episode 44 – License to Quill",
+      "title": "License to Quill | The Glass Cannon Podcast Gatewalkers E44 | Pathfinder 2E",
       "published_at": "2024-07-26T04:00:00+00:00",
       "link": "https://youtu.be/yZPKQqc0k34",
       "description": "The heroes struggle against a bizarre bureaucracy. Watch the video here: https://youtu.be/yZPKQqc0k34 This episode was sponsored by Foundry VTT and Norse Foundry. See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5499,9 +5737,13 @@
       "itunes_duration": "5477",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "license",
-        "quill"
+        "quill",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5525,7 +5767,7 @@
     },
     {
       "key": "f9f679040f607bbfb1e662438afee8a34fd06042",
-      "title": "Gatewalkers Episode 43 – Shroom Goes the Dynamite",
+      "title": "Shroom Goes the Dynamite | The Glass Cannon Podcast Gatewalkers E42 | Pathfinder 2E",
       "published_at": "2024-07-19T04:00:00+00:00",
       "link": "https://youtu.be/KR1xOnmCpBM",
       "description": "Forced to relive their greatest moments of shame threatens to bring the party to their knees. Watch the video here: https://youtu.be/KR1xOnmCpBM This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5538,9 +5780,13 @@
         "Shroom Goes"
       ],
       "topics": [
-        "gatewalker",
         "shroom",
-        "dynamite"
+        "dynamite",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5585,7 +5831,7 @@
     },
     {
       "key": "bc4c7989df76bf393f5d7a2abf0a812aa57b04a9",
-      "title": "Gatewalkers Episode 42 – The Most Dangerous Shame",
+      "title": "The Most Dangerous Shame | The Glass Cannon Podcast Gatewalkers E42 | Pathfinder 2E",
       "published_at": "2024-07-12T04:00:00+00:00",
       "link": "https://youtu.be/2PByKR6Xt-I",
       "description": "Forced to relive their greatest moments of shame threatens to bring the party to their knees. Watch the video here: https://youtu.be/2PByKR6Xt-I This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5596,8 +5842,12 @@
       "itunes_duration": "6124",
       "speakers": [],
       "topics": [
+        "shame",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "shame"
+        "pathfinder"
       ]
     },
     {
@@ -5623,7 +5873,7 @@
     },
     {
       "key": "318af4b7027ace1085fb5fb4e9e155c5edf5ba03",
-      "title": "Gatewalkers Episode 41 – Highway to Well",
+      "title": "Highway to Well | The Glass Cannon Podcast Gatewalkers E41 | Pathfinder 2E",
       "published_at": "2024-06-28T04:00:00+00:00",
       "link": "https://youtu.be/KYj-NuvMzRA",
       "description": "Deep beneath the Oatian settlement, the preserved memories of long dead elven heroes may be the party's only chance of returning home. Watch the video here: https://youtu.be/KYj-NuvMzRA This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5632,12 +5882,14 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5856",
-      "speakers": [
-        "Well Deep"
-      ],
+      "speakers": [],
       "topics": [
+        "highway",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "highway"
+        "pathfinder"
       ]
     },
     {
@@ -5659,7 +5911,7 @@
     },
     {
       "key": "c6938f7d6d56db777d8a5e8f2b57622386985bba",
-      "title": "Gatewalkers Episode 40 – Star Check: Cursed Contact",
+      "title": "Star Check: Cursed Contact | The Glass Cannon Podcast Gatewalkers E40 | Pathfinder 2E",
       "published_at": "2024-06-21T04:00:00+00:00",
       "link": null,
       "description": "The heroes make contact with a curious society of elves. Watch the video here: https://youtu.be/vsx6Lrao574 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5670,11 +5922,14 @@
       "itunes_duration": "6896",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "star",
         "check",
-        "cursed",
-        "contact"
+        "contact",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -5715,7 +5970,7 @@
     },
     {
       "key": "479165ecb8899dc513317aa53c5a91ad9c85927a",
-      "title": "Gatewalkers Episode 39 – Gondola Baby Gondola",
+      "title": "Gondola Baby Gondola | The Glass Cannon Podcast Gatewalkers E39 | Pathfinder 2E",
       "published_at": "2024-06-14T04:00:00+00:00",
       "link": null,
       "description": "Flying dinosaur-like creatures attack the party hundreds of feet above the forest floor! Watch the video here: https://youtu.be/QKO-ExsSwxk This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For all your random number-generating needs, visit Norse Foundry at https://norsefoundry.com Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5725,12 +5980,16 @@
       "enclosure_length": "0",
       "itunes_duration": "5711",
       "speakers": [
-        "Gondola Baby Gondola Flying"
+        "Gondola Baby Gondola"
       ],
       "topics": [
-        "gatewalker",
         "gondola",
-        "baby"
+        "baby",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5772,7 +6031,7 @@
     },
     {
       "key": "8018f32608ea3e6ccf07cce23ebb65302cc3643c",
-      "title": "Gatewalkers Episode 38 – The NeverEnding Quarry",
+      "title": "The NeverEnding Quarry | The Glass Cannon Podcast Gatewalkers E38 | Pathfinder 2E",
       "published_at": "2024-06-07T04:00:00+00:00",
       "link": "https://youtu.be/mZtIyzcGyJQ",
       "description": "The party learns more about their new companion while trying to save his life. Watch the video here: https://youtu.be/mZtIyzcGyJQ This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5783,9 +6042,13 @@
       "itunes_duration": "5637",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "neverending",
-        "quarry"
+        "quarry",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5809,7 +6072,7 @@
     },
     {
       "key": "2b7fdd6c0b2dd28f1c2743cb5e7eff3e49e745ba",
-      "title": "Gatewalkers Episode 37 – Hot For Teacher",
+      "title": "Hot For Teacher | The Glass Cannon Podcast Gatewalkers E37 | Pathfinder 2E",
       "published_at": "2024-05-31T04:00:00+00:00",
       "link": "https://youtu.be/F4LNZdIsuHA",
       "description": "Another Gatewalker joins the party. Watch the video here: https://youtu.be/F4LNZdIsuHA This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5818,10 +6081,16 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6510",
-      "speakers": [],
+      "speakers": [
+        "Another Gatewalker"
+      ],
       "topics": [
-        "gatewalker",
-        "teacher"
+        "teacher",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5845,7 +6114,7 @@
     },
     {
       "key": "0192925456b50c18ec5e8be3a611ef599a7790a4",
-      "title": "Gatewalkers Episode 36 – Missing Moments",
+      "title": "Missing Moments | The Glass Cannon Podcast Gatewalkers E36 | Pathfinder 2E",
       "published_at": "2024-05-24T04:00:00+00:00",
       "link": "https://youtu.be/R8gcH9XXe_k",
       "description": "Mourning yet another loss, the heroes rest. Watch the video here: https://youtu.be/R8gcH9XXe_k This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5856,8 +6125,12 @@
       "itunes_duration": "6640",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "moments"
+        "moments",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -5881,7 +6154,7 @@
     },
     {
       "key": "75680c91504b04e632f6a87ef4ee9cf523c71d09",
-      "title": "Gatewalkers Episode 35 – Come Snail Away",
+      "title": "Come Snail Away | The Glass Cannon Podcast Gatewalkers E35 | Pathfinder 2E",
       "published_at": "2024-05-17T04:00:00+00:00",
       "link": "https://youtu.be/P6mLKMHQs78",
       "description": "A desparate battle continues to spiral out of control. Watch the video here: https://youtu.be/P6mLKMHQs78 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5894,8 +6167,29 @@
         "Come Snail Away"
       ],
       "topics": [
-        "gatewalker",
-        "snail"
+        "snail",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
+      "title": "Cannon Fodder 5/15/24",
+      "published_at": "2024-05-15T04:00:00+00:00",
+      "link": "https://youtu.be/qiur8t--8po",
+      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5597",
+      "speakers": [],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -5918,25 +6212,8 @@
       ]
     },
     {
-      "key": "aed8f618acef08b7473fb3fbd57bc33d24a1a07b",
-      "title": "Cannon Fodder 5/15/24",
-      "published_at": "2024-05-15T04:00:00+00:00",
-      "link": "https://youtu.be/qiur8t--8po",
-      "description": "We're going long this week as Troy and Joe reveal a bunch of upcoming shows and then turn their attention to a monster episode of the GCP where at least one character's life, if not more, hangs in the balance. In We Are Stupid, a major oversight on a Recovery Check, and in Listener Mail: tips for your first gaming convention! Watch the video here: https://youtu.be/qiur8t--8po For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7360619393.mp3?updated=1715733926",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5597",
-      "speakers": [],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "8b1eacb95b45689ab2cbe1ba72af3df0b346970b",
-      "title": "Gatewalkers Episode 34 – You've Got Snail",
+      "title": "You've Got Snail | The Glass Cannon Podcast Gatewalkers E34 | Pathfinder 2E",
       "published_at": "2024-05-10T04:00:00+00:00",
       "link": "https://youtu.be/t5gAgH8cfLc",
       "description": "A jungle river crossing is interrupted by a giant snail-like creature. Watch the video here: https://youtu.be/t5gAgH8cfLc This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5949,8 +6226,12 @@
         "Got Snail"
       ],
       "topics": [
+        "snail",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "snail"
+        "pathfinder"
       ]
     },
     {
@@ -5976,7 +6257,7 @@
     },
     {
       "key": "08dc5c76f0eeab2c36d9f1076c0ce3dbed3e8522",
-      "title": "Gatewalkers Episode 33 – Hungry Dart",
+      "title": "Hungry Dart | The Glass Cannon Podcast Gatewalkers E33 | Pathfinder 2E",
       "published_at": "2024-05-03T04:00:00+00:00",
       "link": "https://youtu.be/4PJ7B__kjmw",
       "description": "The heroes pass through a Thinlands gateway resembling the gate at Sevenarches and find themselves transported to a bizarre jungle. Watch the video here: https://youtu.be/4PJ7B__kjmw This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -5985,11 +6266,17 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6292",
-      "speakers": [],
+      "speakers": [
+        "Hungry Dart"
+      ],
       "topics": [
-        "gatewalker",
         "hungry",
-        "dart"
+        "dart",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6013,7 +6300,7 @@
     },
     {
       "key": "6b8885456ac14533e97e844a86bd6b72e2cb2206",
-      "title": "Gatewalkers Episode 32 – No Place Like Home",
+      "title": "No Place Like Home | The Glass Cannon Podcast Gatewalkers E32 | Pathfinder 2E",
       "published_at": "2024-04-26T04:00:00+00:00",
       "link": "https://youtu.be/TfjhuqQ36e0",
       "description": "After a harrowing battle, the heroes realize the gravity of their situation. Watch the video here: https://youtu.be/TfjhuqQ36e0 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6026,9 +6313,13 @@
         "No Place Like Home"
       ],
       "topics": [
-        "gatewalker",
         "place",
-        "home"
+        "home",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6072,7 +6363,7 @@
     },
     {
       "key": "c0dd5f8543d38dc9da1f36866be55a313b8e6347",
-      "title": "Gatewalkers Episode 31 – The Slim Reaper",
+      "title": "The Slim Reaper | The Glass Cannon Podcast Gatewalkers E31 | Pathfinder 2E",
       "published_at": "2024-04-19T04:00:00+00:00",
       "link": "https://youtu.be/syimbs8F04A",
       "description": "The heroes battle Kaneepo the Slim and their pet temagyr gorga. Watch the video here: https://youtu.be/syimbs8F04A This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6083,9 +6374,13 @@
       "itunes_duration": "7595",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "slim",
-        "reaper"
+        "reaper",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6109,7 +6404,7 @@
     },
     {
       "key": "9097286c24c3d7f82953639e54151eb47d385e48",
-      "title": "Gatewalkers Episode 30 – Hooked On Eugenics",
+      "title": "Hooked On Eugenics | The Glass Cannon Podcast Gatewalkers E30 | Pathfinder 2E",
       "published_at": "2024-04-12T04:00:00+00:00",
       "link": "https://youtu.be/Vj6Olckx9Pg",
       "description": "Two mysterious pods entice the heroes into dangerous territory. Watch the video here: https://youtu.be/Vj6Olckx9Pg This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6120,8 +6415,12 @@
       "itunes_duration": "5373",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "eugenics"
+        "eugenics",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6143,7 +6442,7 @@
     },
     {
       "key": "fa93aa6fb9c5248a41f30712be4ed616c990da25",
-      "title": "Gatewalkers Episode 29 – Nut Job",
+      "title": "Nut Job | The Glass Cannon Podcast Gatewalkers E29 | Pathfinder 2E",
       "published_at": "2024-04-05T04:00:00+00:00",
       "link": "https://youtu.be/gUiWYPC59_s",
       "description": "The heroes race to defeat a temporarily silenced enemy. Watch the video here: https://youtu.be/gUiWYPC59_s This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6152,9 +6451,15 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5439",
-      "speakers": [],
+      "speakers": [
+        "Nut Job"
+      ],
       "topics": [
-        "gatewalker"
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6178,7 +6483,7 @@
     },
     {
       "key": "1300a9a9d0173f447df311e9375e313d6df6a678",
-      "title": "Gatewalkers Episode 28 – The Fight to Remain Silent",
+      "title": "The Fight to Remain Silent | The Glass Cannon Podcast Gatewalkers E28 | Pathfinder 2E",
       "published_at": "2024-03-29T04:00:00+00:00",
       "link": "https://youtu.be/muvYFOZlqKI",
       "description": "Rested and recovered, the heroes push forward. Watch the video here: https://youtu.be/muvYFOZlqKI This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6188,11 +6493,15 @@
       "enclosure_length": "0",
       "itunes_duration": "6881",
       "speakers": [
-        "Remain Silent Rested"
+        "Remain Silent"
       ],
       "topics": [
-        "gatewalker",
-        "fight"
+        "fight",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6216,7 +6525,7 @@
     },
     {
       "key": "69564694f63a6227fdf829de28bb2fd3f8da4adc",
-      "title": "Gatewalkers Episode 27 – Elf Harm",
+      "title": "Elf Harm | The Glass Cannon Podcast Gatewalkers E27 | Pathfinder 2E",
       "published_at": "2024-03-22T04:00:00+00:00",
       "link": "https://youtu.be/omuwp6FkFc8",
       "description": "The heroes gather themselves after a frustrating battle with a malevolent shae. Watch the video here: https://youtu.be/omuwp6FkFc8 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6227,8 +6536,12 @@
       "itunes_duration": "5352",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "harm"
+        "harm",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6252,7 +6565,7 @@
     },
     {
       "key": "0b38a5a3ef3cd41d74390d46c03db22fe83351cf",
-      "title": "Gatewalkers Episode 26 – Groundhog Shae",
+      "title": "Groundhog Shae | The Glass Cannon Podcast Gatewalkers E26 | Pathfinder 2E",
       "published_at": "2024-03-15T04:00:00+00:00",
       "link": "https://youtu.be/mXvAVy8kxwc",
       "description": "The heroes are stifled by a clever combatant. Watch the video here: https://youtu.be/mXvAVy8kxwc This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6266,9 +6579,13 @@
         "kxwc Thi"
       ],
       "topics": [
-        "gatewalker",
         "groundhog",
-        "shae"
+        "shae",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6292,7 +6609,7 @@
     },
     {
       "key": "3fae5a34c6e43e2b50e2d552bf02220bedbac897",
-      "title": "Gatewalkers Episode 25 – Fleshy Interlopers",
+      "title": "Fleshy Interlopers | The Glass Cannon Podcast Gatewalkers E25 | Pathfinder 2E",
       "published_at": "2024-03-08T05:00:00+00:00",
       "link": "https://youtu.be/g23FbnzdcKI",
       "description": "The cryptic horrors of Kaneepo's lair continue to be revealed. Watch the video here: https://youtu.be/g23FbnzdcKI This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6303,9 +6620,13 @@
       "itunes_duration": "6235",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "fleshy",
-        "interlopers"
+        "interlopers",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -6329,7 +6650,7 @@
     },
     {
       "key": "1994222f97e5eced0e535b27cc688e80430f72c2",
-      "title": "Gatewalkers Episode 24 – The Artful Lodger",
+      "title": "The Artful Lodger | The Glass Cannon Podcast Gatewalkers E24 | Pathfinder 2E",
       "published_at": "2024-03-01T05:00:00+00:00",
       "link": "https://youtu.be/CbEe6uGs-q8",
       "description": "A gallery of magical paintings answers some questions about Kaneepo's past while unearthing new mysteries. Watch the video here: https://youtu.be/CbEe6uGs-q8 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6340,9 +6661,13 @@
       "itunes_duration": "6404",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "artful",
-        "lodger"
+        "lodger",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -6366,7 +6691,7 @@
     },
     {
       "key": "a0a8b10697d75c820fd91064283c5e50ac1cd4ac",
-      "title": "Gatewalkers Episode 23 – Trauma Centaur",
+      "title": "Trauma Centaur | The Glass Cannon Podcast Gatewalkers E23 | Pathfinder 2E",
       "published_at": "2024-02-23T05:00:00+00:00",
       "link": "https://youtu.be/nPo5pS2hPbs",
       "description": "One of Kaneepo's lieutenants tests the mettle of the party. Watch the video here: https://youtu.be/nPo5pS2hPbs This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6379,9 +6704,13 @@
         "Trauma Centaur"
       ],
       "topics": [
-        "gatewalker",
         "trauma",
-        "centaur"
+        "centaur",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6405,7 +6734,7 @@
     },
     {
       "key": "910182968c77f362797742db22e9c8ce6c0b29e6",
-      "title": "Gatewalkers Episode 22 – An Inconvenient Tooth Fairy Swarm",
+      "title": "An Inconvenient Tooth Fairy Swarm | The Glass Cannon Podcast Gatewalkers E22 | Pathfinder 2E",
       "published_at": "2024-02-16T05:00:00+00:00",
       "link": "https://youtu.be/uxc_o3f6Rz4",
       "description": "Upon entering the enormous First World tree stump, the heroes are pestered by a horrifying swarm. Watch the video here: https://youtu.be/uxc_o3f6Rz4 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6415,15 +6744,18 @@
       "enclosure_length": "0",
       "itunes_duration": "5227",
       "speakers": [
-        "Swarm Upon",
         "First World"
       ],
       "topics": [
-        "gatewalker",
         "inconvenient",
         "tooth",
         "fairy",
-        "swarm"
+        "swarm",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6447,7 +6779,7 @@
     },
     {
       "key": "1fa1a694aeaa38a6901f5f99c50f425837437f4a",
-      "title": "Gatewalkers Episode 21 – David Koresh's Playhouse",
+      "title": "David Koresh's Playhouse | The Glass Cannon Podcast Gatewalkers E21 | Pathfinder 2E",
       "published_at": "2024-02-09T05:00:00+00:00",
       "link": "https://youtu.be/JGLJaCfu8-E",
       "description": "The heroes leave the Material Plane behind to enter the First World in search of answers. Watch the video here: https://youtu.be/JGLJaCfu8-E This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6460,10 +6792,14 @@
         "David Koresh"
       ],
       "topics": [
-        "gatewalker",
         "david",
         "koresh",
-        "playhouse"
+        "playhouse",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -6485,7 +6821,7 @@
     },
     {
       "key": "54a6a55c25d31ede5deb54d6545f4281564fccc9",
-      "title": "Gatewalkers Episode 20 – Close Encounters of the Bird Kind",
+      "title": "Close Encounters of the Bird Kind | The Glass Cannon Podcast Gatewalkers E20 | Pathfinder 2E",
       "published_at": "2024-02-02T05:00:00+00:00",
       "link": "https://youtu.be/gfN3ZQuOPNE",
       "description": "A strange omen leads to a break in the case. Watch the video here: https://youtu.be/apxPB94i3rY This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6494,15 +6830,16 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5691",
-      "speakers": [
-        "Close Encounters",
-        "Bird Kind"
-      ],
+      "speakers": [],
       "topics": [
-        "gatewalker",
         "encounters",
         "bird",
-        "kind"
+        "kind",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -6526,7 +6863,7 @@
     },
     {
       "key": "746efd54396b3d7ed753538125f5a2fde788573a",
-      "title": "Gatewalkers Episode 19 – Thinlands Farms Remembers",
+      "title": "Thinlands Farms Remembers | The Glass Cannon Podcast Gatewalkers E19 | Pathfinder 2E",
       "published_at": "2024-01-26T05:00:00+00:00",
       "link": "https://youtu.be/apxPB94i3rY",
       "description": "The investigation brings the heroes to Thinlands Farms. Watch the video here: https://youtu.be/apxPB94i3rY This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6536,13 +6873,18 @@
       "enclosure_length": "0",
       "itunes_duration": "6018",
       "speakers": [
+        "Thinlands Farms Remembers",
         "Thinlands Farms"
       ],
       "topics": [
-        "gatewalker",
         "thinland",
-        "farm",
-        "remembers"
+        "farms",
+        "remembers",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6568,7 +6910,7 @@
     },
     {
       "key": "6cf19fd08b30c9a22764b1d5e3f8a0b206ad966f",
-      "title": "Gatewalkers Episode 18 – The Dogs of War",
+      "title": "The Dogs of War | The Glass Cannon Podcast Gatewalkers E18 | Pathfinder 2E",
       "published_at": "2024-01-19T05:00:00+00:00",
       "link": "https://youtu.be/xaslHxcid7U",
       "description": "A trio of gorgas attacks the party as they make camp. Watch the video here: https://youtu.be/xaslHxcid7U This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6579,8 +6921,12 @@
       "itunes_duration": "5966",
       "speakers": [],
       "topics": [
+        "dogs",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "dogs"
+        "pathfinder"
       ]
     },
     {
@@ -6604,7 +6950,7 @@
     },
     {
       "key": "49a4c4efb7a37b8a75bf4121d99056f4eaf56078",
-      "title": "Gatewalkers Episode 17 – Mule Intentions",
+      "title": "Mule Intentions | The Glass Cannon Podcast Gatewalkers E17 | Pathfinder 2E",
       "published_at": "2024-01-12T05:00:00+00:00",
       "link": "https://youtu.be/xGwP7KBMD-M",
       "description": "The heroes take their investigation outside of town. Watch the video here: https://youtu.be/xGwP7KBMD-M This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6617,9 +6963,13 @@
         "Mule Intentions"
       ],
       "topics": [
-        "gatewalker",
         "mule",
-        "intentions"
+        "intentions",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6643,7 +6993,7 @@
     },
     {
       "key": "5f7bcfc1e07eb731ed9f316766e908cf141d1f71",
-      "title": "Gatewalkers Episode 16 – Mr. Jones and Tree",
+      "title": "Mr. Jones and Tree | The Glass Cannon Podcast Gatewalkers E16 | Pathfinder 2E",
       "published_at": "2024-01-05T05:00:00+00:00",
       "link": "https://youtu.be/43PbLHojE_k",
       "description": "The heroes have little time to mourn as the return of the obnubilate curse looms. Watch the video here: https://youtu.be/43PbLHojE_k This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6654,9 +7004,13 @@
       "itunes_duration": "5486",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "jones",
-        "tree"
+        "tree",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6678,7 +7032,7 @@
     },
     {
       "key": "fc49b81e4890a9bbb847779f74452789b5879b38",
-      "title": "Gatewalkers Episode 15 – The After Math",
+      "title": "The After Math | The Glass Cannon Podcast Gatewalkers E15 | Pathfinder 2E",
       "published_at": "2023-12-29T05:00:00+00:00",
       "link": "https://youtu.be/A1uTORZrh58",
       "description": "High above the forest floor, the battlefield among the trees quiets as the rebel Oaksteward surrenders. Watch the video here: https://youtu.be/A1uTORZrh58 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6689,13 +7043,17 @@
       "itunes_duration": "5967",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "math"
+        "math",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
       "key": "8cb9a4903329b84373e493ede921451d8f245eeb",
-      "title": "Gatewalkers Episode 14 – Chekhov's Zipline",
+      "title": "Chekhov's Zipline | The Glass Cannon Podcast Gatewalkers E14 | Pathfinder 2E",
       "published_at": "2023-12-22T05:00:00+00:00",
       "link": "https://youtu.be/xaWZ4BiOXCs",
       "description": "The battle with Bolan Nogasso rages on throughout the trees. Watch the video here: https://youtu.be/xaWZ4BiOXCs This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6706,14 +7064,18 @@
       "itunes_duration": "5612",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "chekhov",
-        "zipline"
+        "zipline",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
       "key": "49bbc3a6eeaec2622120b3b93ebb5a8de16d25cf",
-      "title": "Gatewalkers Episode 13 – Gnome for the Holidays",
+      "title": "Gnome for the Holidays | The Glass Cannon Podcast Gatewalkers E13 | Pathfinder 2E",
       "published_at": "2023-12-15T05:00:00+00:00",
       "link": null,
       "description": "A gruesome discovery reveals a harsh new reality. Watch the video here: https://youtu.be/5AJ4QxmX3MM This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6724,9 +7086,13 @@
       "itunes_duration": "5718",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "gnome",
-        "holiday"
+        "holidays",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6770,7 +7136,7 @@
     },
     {
       "key": "a267e4ebdcb2f9f77a3c7687b7d650ddb6219cde",
-      "title": "Gatewalkers Episode 12 – So Help Me Gourd",
+      "title": "So Help Me Gourd | The Glass Cannon Podcast Gatewalkers E12 | Pathfinder 2E",
       "published_at": "2023-12-08T05:00:00+00:00",
       "link": "https://youtu.be/OmUbtjjtviI",
       "description": "The heroes encounter more strange denizens of the gnome stronghold. Watch the video here: https://youtu.be/OmUbtjjtviI This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6783,8 +7149,12 @@
         "So Help Me Gourd"
       ],
       "topics": [
-        "gatewalker",
-        "gourd"
+        "gourd",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6808,7 +7178,7 @@
     },
     {
       "key": "7e1ce0bfd14ce19db983a805dd204d6c8263cf4e",
-      "title": "Gatewalkers Episode 11 – Shoots and Ladder",
+      "title": "Shoots and Ladder | The Glass Cannon Podcast Gatewalkers E11 | Pathfinder 2E",
       "published_at": "2023-12-01T05:00:00+00:00",
       "link": "https://youtu.be/pFFomnW-jrk",
       "description": "Two doors remain on the first level of the treetop fortress. Watch the video here: https://youtu.be/pFFomnW-jrk This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6817,13 +7187,15 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4995",
-      "speakers": [
-        "Ladder Two"
-      ],
+      "speakers": [],
       "topics": [
-        "gatewalker",
-        "shoots",
-        "ladder"
+        "shoot",
+        "ladder",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6887,7 +7259,7 @@
     },
     {
       "key": "acf0813e50b3832a337dffeabe830a6a16e679b1",
-      "title": "Gatewalkers Episode 10 – Dancers in the Dark",
+      "title": "Dancers in the Dark | The Glass Cannon Podcast Gatewalkers E10 | Pathfinder 2E",
       "published_at": "2023-11-17T05:00:00+00:00",
       "link": "https://youtu.be/_OzJ422nNiE",
       "description": "With more vanquished fey at their feet, the heroes continue looking for Bolan in the gnome stronghold. Watch the video here: https://youtu.be/_OzJ422nNiE This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6898,9 +7270,13 @@
       "itunes_duration": "5660",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "dancer",
-        "dark"
+        "dark",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -6924,7 +7300,7 @@
     },
     {
       "key": "d1c801cbdce1dcb9541a0077d77d739ba94ad759",
-      "title": "Gatewalkers Episode 9 – Bachman-Turner Overshirt",
+      "title": "Bachman-Turner Overshirt | The Glass Cannon Podcast Gatewalkers E9 | Pathfinder 2E",
       "published_at": "2023-11-10T05:00:00+00:00",
       "link": "https://youtu.be/8F08tLFQ600",
       "description": "Back to back battles leave the heroes reeling, but there are more areas to explore in the occupied treetop gnome fortress. Watch the video here: https://youtu.be/8F08tLFQ600 This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6934,13 +7310,17 @@
       "enclosure_length": "0",
       "itunes_duration": "5999",
       "speakers": [
-        "Turner Overshirt Back"
+        "Turner Overshirt"
       ],
       "topics": [
-        "gatewalker",
         "bachman",
         "turner",
-        "overshirt"
+        "overshirt",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -6964,7 +7344,7 @@
     },
     {
       "key": "bee21cd36947b52e933ca8dd565ac7f91b1264d6",
-      "title": "Gatewalkers Episode 8 – Dying Too",
+      "title": "Dying Too | The Glass Cannon Podcast Gatewalkers E8 | Pathfinder 2E",
       "published_at": "2023-11-03T04:00:00+00:00",
       "link": "https://youtu.be/uq7yo_2BywQ",
       "description": "After battling malicious fey, there's no time to rest as more enemies rush at the heroes! Watch the video here: https://youtu.be/uq7yo_2BywQ This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -6974,10 +7354,14 @@
       "enclosure_length": "0",
       "itunes_duration": "4356",
       "speakers": [
-        "Dying Too After"
+        "Dying Too"
       ],
       "topics": [
-        "gatewalker"
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalker",
+        "pathfinder"
       ]
     },
     {
@@ -7022,7 +7406,7 @@
     },
     {
       "key": "d5ba5d9fbe92d702b5f2bd307fbe74c550c3c8f5",
-      "title": "Gatewalkers Episode 7 – The Tree Stooges",
+      "title": "The Tree Stooges | The Glass Cannon Podcast Gatewalkers E7 | Pathfinder 2E",
       "published_at": "2023-10-27T04:00:00+00:00",
       "link": "https://youtu.be/wEWl4ZvTPIw",
       "description": "The heroes attempt to infiltrate Bolan's stronghold among the trees. Watch the video here: https://youtu.be/wEWl4ZvTPIw This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7033,9 +7417,13 @@
       "itunes_duration": "6114",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "tree",
-        "stooge"
+        "stooge",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -7059,7 +7447,7 @@
     },
     {
       "key": "8e77382a365acbb3d133fbd4d521d74448b7a919",
-      "title": "Gatewalkers Episode 6 – Treehouse Abhorrer",
+      "title": "Treehouse Abhorrer | The Glass Cannon Podcast Gatewalkers E6 | Pathfinder 2E",
       "published_at": "2023-10-20T04:00:00+00:00",
       "link": "https://youtu.be/qEs0HW7iaDo",
       "description": "A ritual interrupted, a sacrificial unicorn and a rebel druid make for a dangerous night in the Wilewood. Watch the video here: https://youtu.be/qEs0HW7iaDo This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7072,9 +7460,13 @@
         "Treehouse Abhorrer"
       ],
       "topics": [
-        "gatewalker",
         "treehouse",
-        "abhorrer"
+        "abhorrer",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -7098,7 +7490,7 @@
     },
     {
       "key": "859c36e7a32445cd425cb04dda38155f12bde589",
-      "title": "Gatewalkers Episode 5 – Children of the Horn",
+      "title": "Children of the Horn | The Glass Cannon Podcast Gatewalkers E5 | Pathfinder 2E",
       "published_at": "2023-10-13T04:00:00+00:00",
       "link": "https://youtu.be/rTAZIweOjUI",
       "description": "A planar shift stands between the party and strange happenings beneath a grand archway. Watch the video here: https://youtu.be/rTAZIweOjUI This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7109,9 +7501,13 @@
       "itunes_duration": "5591",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "child",
-        "horn"
+        "horn",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -7135,7 +7531,7 @@
     },
     {
       "key": "12d8de7b5b4e40757502b84c575b00db56e599c0",
-      "title": "Gatewalkers Episode 4 – Shadows and Dogs",
+      "title": "Shadows and Dogs | The Glass Cannon Podcast Gatewalkers E4 | Pathfinder 2E",
       "published_at": "2023-10-06T04:00:00+00:00",
       "link": "https://youtu.be/zf2MmG02Hhk",
       "description": "As the party reaches a clearing with archways in the distance, creatures emerge from the shadows to attack in the high grass. Watch the video here: https://youtu.be/zf2MmG02Hhk This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7146,8 +7542,13 @@
       "itunes_duration": "4197",
       "speakers": [],
       "topics": [
+        "shadow",
+        "dogs",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "shadows"
+        "pathfinder"
       ]
     },
     {
@@ -7171,7 +7572,7 @@
     },
     {
       "key": "657de89f571e7e030eb125a9cfe28d8908f043b9",
-      "title": "Gatewalkers Episode 3 – Ooh Baby Baby, It's the Wilewood",
+      "title": "Ooh Baby Baby, It's the Wilewood | The Glass Cannon Podcast Gatewalkers E3 | Pathfinder 2E",
       "published_at": "2023-09-29T04:00:00+00:00",
       "link": "https://youtu.be/gx-lM7Mc1Ic",
       "description": "Having tested the gateways in Sevenarches, the heroes return to the caravanserai. Watch the video here: https://youtu.be/gx-lM7Mc1Ic This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7181,13 +7582,35 @@
       "enclosure_length": "0",
       "itunes_duration": "6138",
       "speakers": [
-        "Ooh Baby Baby",
-        "Wilewood Having"
+        "Ooh Baby Baby"
       ],
       "topics": [
-        "gatewalker",
         "baby",
-        "wilewood"
+        "wilewood",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
+      ]
+    },
+    {
+      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
+      "title": "Cannon Fodder 9/27/23",
+      "published_at": "2023-09-27T04:00:00+00:00",
+      "link": "https://youtu.be/J_wQO8ovUaI",
+      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2978",
+      "speakers": [
+        "Cannon Fodder"
+      ],
+      "topics": [
+        "cannon",
+        "fodder"
       ]
     },
     {
@@ -7212,27 +7635,8 @@
       ]
     },
     {
-      "key": "64abfc66c33a5f55e06a40457353d76fe0e6293c",
-      "title": "Cannon Fodder 9/27/23",
-      "published_at": "2023-09-27T04:00:00+00:00",
-      "link": "https://youtu.be/J_wQO8ovUaI",
-      "description": "The guys share some big news about their plans for New York Comic Con before giving a juicy update on the new GCN Subscription Service. In We Are Stupid, they focus in on how the Aid reaction works and discuss options for tables to make it more or less difficult at early levels. In Listener Mail, a potential new GM is looking for how to get started! Watch the video here: https://youtu.be/J_wQO8ovUaI For more podcasts and livestreams, visit glasscannonnetwork.com and for hundreds of hours of exclusive shows and benefits, make your membership official and join Glass Cannon Nation today by becoming a subscriber at jointhenaish.com . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD7013464845.mp3?updated=1713896515",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2978",
-      "speakers": [
-        "Cannon Fodder"
-      ],
-      "topics": [
-        "cannon",
-        "fodder"
-      ]
-    },
-    {
       "key": "4603c2b0b118bdf27b2dceee27ed52eca852b36e",
-      "title": "Gatewalkers Episode 2 – Ladies' Night",
+      "title": "Ladies' Night | The Glass Cannon Podcast Gatewalkers E2 | Pathfinder 2E",
       "published_at": "2023-09-22T04:00:00+00:00",
       "link": "https://youtu.be/LpYCKXCWZXg",
       "description": "Brother Ramius, Zephyr, Lucky, Talitha and Buggles enter the city of Sevenarches to begin their investigation. Watch the video here: https://youtu.be/LpYCKXCWZXg This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7243,9 +7647,13 @@
       "itunes_duration": "5031",
       "speakers": [],
       "topics": [
-        "gatewalker",
         "lady",
-        "night"
+        "night",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -7269,7 +7677,7 @@
     },
     {
       "key": "4b4de8e6d75c0085f437816ca38868d0e463fec7",
-      "title": "Gatewalkers Episode 1 – Where's the Tavern?",
+      "title": "Where's the Tavern? | The Glass Cannon Podcast Gatewalkers E1 | Pathfinder 2E",
       "published_at": "2023-09-15T04:00:00+00:00",
       "link": "https://youtu.be/Yyvcq7qdtIY",
       "description": "Five heroes come together to investigate a global paranormal event. The Glass Cannon Podcast Campaign Two makes its long-awaited return with a playthrough of the Pathfinder 2nd Edition Gatewalkers Adventure Path! Watch the video here: https://youtu.be/Yyvcq7qdtIY This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7280,8 +7688,12 @@
       "itunes_duration": "9006",
       "speakers": [],
       "topics": [
+        "tavern",
+        "glass",
+        "cannon",
+        "podcast",
         "gatewalker",
-        "tavern"
+        "pathfinder"
       ]
     },
     {
@@ -7324,7 +7736,7 @@
     },
     {
       "key": "c4ab3f3d2456103b33a583d948ae622a7888b358",
-      "title": "Gatewalkers Session 0 – Zero to Heroes",
+      "title": "Zero to Heroes | The Glass Cannon Podcast Gatewalkers E0 | Pathfinder 2E",
       "published_at": "2023-09-01T04:00:00+00:00",
       "link": null,
       "description": "After a 16-month hiatus, The Glass Cannon Podcast is set to return with Campaign Two on Thursday, September 14th, 2023, featuring the Pathinder 2E Gatewalkers Adventure Path. Gamemaster Troy Lavallee gathers fellow founders Joe O'Brien, Skid Maher and Matthew Capodicasa along with fan favorites Sydney Amanuel and Kate Stamas for a thorough Session Zero, where they discuss the upcoming campaign and build characters in real time on Demiplane's Pathfinder Nexus. Watch the video here: https://youtu.be/QeYthykdhbg This episode was sponsored by Demiplane, Foundry VTT and Norse Foundry. Check out Demiplane's Pathfinder Nexus and character creation tools at https://bit.ly/GCNOfficialTools See why tabletop gamers everywhere have made the switch to Foundry Virtual Tabletop at https://foundryvtt.com/gcp Access exclusive podcasts, ad-free episodes, and livestreams with a 30-day free trial with code \"GCN30\" at jointhenaish.com . For more podcasts and livestreams, visit glasscannonnetwork.com . Watch new episodes when they premiere every Thursday at 8PM ET on youtube.com/theglasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -7335,9 +7747,12 @@
       "itunes_duration": "6548",
       "speakers": [],
       "topics": [
-        "gatewalker",
-        "session",
-        "hero"
+        "heroes",
+        "glass",
+        "cannon",
+        "podcast",
+        "gatewalkers",
+        "pathfinder"
       ]
     },
     {
@@ -8346,23 +8761,6 @@
       ]
     },
     {
-      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
-      "title": "Friends of the Pod – Pathfinder 2E",
-      "published_at": "2023-02-01T05:01:00+00:00",
-      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
-      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "16789",
-      "speakers": [],
-      "topics": [
-        "friend",
-        "pathfinder"
-      ]
-    },
-    {
       "key": "04282c6d13692676a896fbfbd0393d2791e43683",
       "title": "Cannon Fodder 2/1/23",
       "published_at": "2023-02-01T05:01:00+00:00",
@@ -8379,6 +8777,23 @@
       "topics": [
         "cannon",
         "fodder"
+      ]
+    },
+    {
+      "key": "4630a56055a60700f9745d5c5d85c1f82f42f990",
+      "title": "Friends of the Pod – Pathfinder 2E",
+      "published_at": "2023-02-01T05:01:00+00:00",
+      "link": "https://blubrry.com/the_glass_cannon/93530579/friends-of-the-pod-pathfinder-2e/",
+      "description": "With all of the shake ups in the tabletop industry as of late, we went live last week with the Pathfinder Society Scenario Inheritor's Rite to show fans new and old how much fun Pathfinder 2E is and how simple it is to jump right in and play! ﻿ For more podcasts and livestreams, visit glasscannonnetwork.com and for exclusive content and benefits, subscribe today at patreon.com/glasscannon . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/mgln.ai/e/433/claritaspod.com/measure/pscrb.fm/rss/p/traffic.megaphone.fm/QCD3829405594.mp3?updated=1692726580",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "16789",
+      "speakers": [],
+      "topics": [
+        "friend",
+        "pathfinder"
       ]
     },
     {
@@ -15963,95 +16378,95 @@
 - 2025-09-27 — No Country For Omen | Glass Cannon Live! Ascension Part 10 | Boston 2025 | Pathfinder 2E
 - 2025-09-26 — The GCN Gauntlet – Mummy Dearest — speakers: Mummy Dearest
 - 2025-09-25 — Glass Cannon Radio #35 – The Final Episode! Featuring Tons of Special Guests — speakers: Featuring Tons
-- 2025-09-19 — Gatewalkers Episode 103 – The Unbearable Lightness
+- 2025-09-19 — The Unbearable Lightness | The Glass Cannon Podcast Gatewalkers E103 | Pathfinder 2E
 - 2025-09-18 — Glass Cannon Radio #34 – Anime Essentials/Ending Your RPG Campaign/Greatest Endings in Media
 - 2025-09-13 — Enjoy the Noodles | Time For Chaos S3 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-09-12 — Gatewalkers Episode 102 – Substitute Teacher
+- 2025-09-12 — Substitute Teacher | The Glass Cannon Podcast Gatewalkers E102 | Pathfinder 2E — speakers: Substitute Teacher
 - 2025-09-11 — Glass Cannon Radio #33 – Spy Fact vs. Spy Fiction/Espionage RPGs/Realism in Fantasy Gaming — speakers: Spy Fact
 - 2025-09-06 — Brass Tacks | Time For Chaos S3 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
-- 2025-09-05 — Gatewalkers Episode 101 – An Apple a Day — speakers: Day Deep
+- 2025-09-05 — An Apple a Day | The Glass Cannon Podcast Gatewalkers E101 | Pathfinder 2E
 - 2025-09-04 — Glass Cannon Radio #32 – Monster Psychology 101/Best Movie Monsters/Book Club
 - 2025-08-30 — Forget It, Jake | Time For Chaos S3 E8 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-08-29 — Gatewalkers Episode 100 – Whiny the Elders
-- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
+- 2025-08-29 — Whiny the Elders | The Glass Cannon Podcast Gatewalkers E100 | Pathfinder 2E
 - 2025-08-28 — Call of Cthulhu Live! – New Life (Indianapolis 2025)
+- 2025-08-28 — Glass Cannon Radio #31 - Violence in RPGs/Crunch Factor/Unwritten Rules
 - 2025-08-23 — Sophrosyne | Time For Chaos S3 E7 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jack Brady
-- 2025-08-22 — Gatewalkers Episode 99 – HR Buffs N' Stuff
-- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E
+- 2025-08-22 — HR Buffs N' Stuff | The Glass Cannon Podcast Gatewalkers E99 | Pathfinder 2E
 - 2025-08-21 — Glass Cannon Radio #30 – Special Guest John Harper/Game Design/Crime Fiction — speakers: John Harper Game Design, John Harper
+- 2025-08-21 — Mettle of Honor | Glass Cannon Live! Ascension Part 9 | Indianapolis 2025 | Pathfinder 2E
 - 2025-08-16 — Bared Fang | Time For Chaos S3 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Bared Fang
-- 2025-08-15 — Gatewalkers Episode 98 – The Fissure Queen — speakers: Nameless Spires
+- 2025-08-15 — The Fissure Queen | The Glass Cannon Podcast Gatewalkers E98 | Pathfinder 2E — speakers: Nameless Spires
 - 2025-08-14 — Glass Cannon Radio #29 – Improv/Mythic Bastionland/Conspiracy Theories — speakers: Mary Lou
 - 2025-08-09 — Feng Shui | Time For Chaos S3 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Feng Shui
-- 2025-08-08 — Gatewalkers Episode 97 – The Queen Is Dead
+- 2025-08-08 — The Queen Is Dead | The Glass Cannon Podcast Gatewalkers E97 | Pathfinder 2E
 - 2025-08-07 — Glass Cannon Radio #28 – Paula Deming/Board Gaming 101/Doctor Who — speakers: Paula Deming Board, Paula Deming
 - 2025-08-02 — Meet Cute | Time For Chaos S3 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ho Fang
-- 2025-08-01 — Gatewalkers Episode 96 – A Song of Ice and Spire
+- 2025-08-01 — A Song of Ice and Spire | The Glass Cannon Podcast Gatewalkers E96 | Pathfinder 2E
 - 2025-07-31 — The Announcement — speakers: Troy Lavallee, Gen Con
 - 2025-07-30 — Glass Cannon Radio #27 – Gen Con 2025/When to Roll Dice/The Fantastic Four Review — speakers: Gen Con-week
 - 2025-07-26 — Glass Houses | Time For Chaos S3 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Glass Houses
-- 2025-07-25 — Gatewalkers Episode 95 – In the Line of Spire — speakers: Nameless Spires
+- 2025-07-25 — In the Line of Spire | The Glass Cannon Podcast Gatewalkers E95 | Pathfinder 2E — speakers: Nameless Spires
 - 2025-07-24 — Glass Cannon Radio #26 – Sci-Fi Video Games Ranked/Starfinder 2E Sneak Peek/Death Stranding 2 — speakers: Mary Lou
 - 2025-07-19 — Fearful Symmetry | Time For Chaos S3 E2 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-07-18 — Gatewalkers Episode 94 – Scrapegoats — speakers: Scrapegoats Reality
+- 2025-07-18 — Scrapegoats | The Glass Cannon Podcast Gatewalkers E94 | Pathfinder 2E
 - 2025-07-17 — Glass Cannon Radio #25 – Seth Skorkowsky/Project Hail Mary/D&D's Dark History — speakers: Seth Skorkowsky, Andy Weir
 - 2025-07-15 — Enter the GCN Gauntlet — speakers: Skid Maher, Matthew Capodi
 - 2025-07-12 — Batter My Heart | Time For Chaos S3 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Batter My Heart, Cthulhu Masks, Black Pharaoh, Misr House
-- 2025-07-11 — Gatewalkers Episode 93 – Owl's Moving Castle
+- 2025-07-11 — Owl's Moving Castle | The Glass Cannon Podcast Gatewalkers E93 | Pathfinder 2E — speakers: Moving Castle
 - 2025-07-10 — Glass Cannon Radio #24 – Superman (2025)/Superhero RPGs/Andor Finale — speakers: James Gunn
 - 2025-07-10 — Phantom Punch | Glass Cannon Live! Ascension Part 8 | Toronto 2025 | Pathfinder 2E
 - 2025-07-04 — Death Be Not Proud | Time For Chaos S2 E20 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Misr House
-- 2025-07-04 — Gatewalkers Episode 92 – Once Bitten, Ice Shy
-- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-07-04 — Once Bitten, Ice Shy | The Glass Cannon Podcast Gatewalkers E92 | Pathfinder 2E
 - 2025-07-03 — Glass Cannon Radio #23 – Captain America/Indie RPGs/Best Fictional President
+- 2025-07-03 — Island Time | Time For Chaos S2 E19 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-07-02 — One Little Room | Time For Chaos S2 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: One Little Room, Cthulhu Masks, Nyarlathotep After
 - 2025-07-01 — Smoke on the Water | Time For Chaos S2 E17 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-30 — Exhibit A | Time For Chaos S2 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-28 — Kingdom Come | Glass Cannon Live! Ascension Part 7 | Ann Arbor 2025 | Pathfinder 2E — speakers: Rosewood Vale
+- 2025-06-27 — Yurty Rotten Scoundrels | The Glass Cannon Podcast Gatewalkers E91 | Pathfinder 2E — speakers: Yurty Rotten Scoundrels
 - 2025-06-27 — Hidden Lines | Time For Chaos S2 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Hidden Lines, Cthulhu Masks, Henson Manufacturing
-- 2025-06-27 — Gatewalkers Episode 91 – Yurty Rotten Scoundrels — speakers: Yurty Rotten Scoundrels
-- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-26 — Glass Cannon Radio #22 – Nerd Bracket Finals/Zombie Gaming/Beat McD
+- 2025-06-26 — Safe House | Time For Chaos S2 E14 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-25 — Two Little Ducks | Time For Chaos S2 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-24 — The Prodigal Son | Time For Chaos S2 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep Content Warning
 - 2025-06-23 — Old Habits | Time For Chaos S2 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Old Habits, Cthulhu Masks, Nyarlathotep Content Warning
+- 2025-06-20 — We Did Extinction | The Glass Cannon Podcast Gatewalkers E90 | Pathfinder 2E
 - 2025-06-20 — Lupus In Fabula | Time For Chaos S2 E10 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-20 — Gatewalkers Episode 90 – We Did Extinction
 - 2025-06-19 — Glass Cannon Radio #21 – The Alien Franchise/Railroading PCs/Great Gamblers
 - 2025-06-19 — Law and Orders | Time For Chaos S2 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
 - 2025-06-18 — Four Great Beasts | Time For Chaos S2 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Four Great Beasts, Cthulhu Masks, Empire Spices
 - 2025-06-17 — Spice It Up! | Time For Chaos S2 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-16 — Hearts and Clubs | Time For Chaos S2 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks
+- 2025-06-13 — The Great Eggscape | The Glass Cannon Podcast Gatewalkers E89 | Pathfinder 2E
 - 2025-06-13 — Night Terrors | Time For Chaos S2 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Night Terrors, Cthulhu Masks
-- 2025-06-13 — Gatewalkers Episode 89 – The Great Eggscape
 - 2025-06-12 — Everyone's a Critic | Time For Chaos S2 E4 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-11 — Artist In Residence | Time For Chaos S2 E3 | Call of Cthulhu Masks of Nyarlathotep — speakers: Jackson Elias
 - 2025-06-10 — Cruise Line Visit Getaway | Time For Chaos S2 E2 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-06-09 — The Temptation of St. Anthony | Time For Chaos S2 E1 | Call of Cthulhu Masks of Nyarlathotep
+- 2025-06-06 — Doctor Roust Us | The Glass Cannon Podcast Gatewalkers E88 | Pathfinder 2E — speakers: Roust Us
 - 2025-06-06 — The Lunatic Is in My Head | Time For Chaos S1 E20 | Call of Cthulhu Masks of Nyarlathotep
-- 2025-06-06 — Gatewalkers Episode 88 – Doctor Roust Us — speakers: Roust Us
-- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
 - 2025-06-05 — Glass Cannon Radio #20 – Is Fudging Rolls Okay? / Age of Vikings RPG / Nerdiest Hobbies Bracket — speakers: Skid Maher
+- 2025-06-05 — Life of the Party | Time For Chaos S1 E19 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Carlyle Mansion
 - 2025-06-04 — Maniac Mansion | Time For Chaos S1 E18 | Call of Cthulhu Masks of Nyarlathotep — speakers: Maniac Mansion, Cthulhu Masks, Carlyle Mansion
 - 2025-06-03 — The Mystery Squad | Time For Chaos S1 E17 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-06-02 — And One Was a Soldier | Time For Chaos S1 E16 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
-- 2025-05-30 — Gatewalkers 87 – Inveigle with Lox
+- 2025-05-30 — Inveigle with Lox | The Glass Cannon Podcast Gatewalkers E87 | Pathfinder 2E
 - 2025-05-30 — Ill Met By Moonlight | Time For Chaos S1 E15 | Call of Cthulhu Masks of Nyarlathotep — speakers: Ju-Ju House
 - 2025-05-29 — Glass Cannon Radio #19 – What Makes a Great Roleplayer? / Best Sports Movies of All Time / Obscure Obsessions — speakers: Glass Cannon Radio, What Makes, Great Roleplayer, Best Sports Movies, All Time
 - 2025-05-29 — Spot Hidden | Time For Chaos S1 E14 | Call of Cthulhu Masks of Nyarlathotep — speakers: Spot Hidden, Cthulhu Masks, Nyarlathotep New
 - 2025-05-28 — Death House | Time For Chaos S1 E13 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-27 — Harlem Shuffle | Time For Chaos S1 E12 | Call of Cthulhu Masks of Nyarlathotep — speakers: Harlem Shuffle, Cthulhu Masks
 - 2025-05-26 — Let's Scream Together | Time For Chaos S1 E11 | Call of Cthulhu Masks of Nyarlathotep — speakers: Scream Together, Cthulhu Masks, Police Station
+- 2025-05-23 — Oy The Vault! | The Glass Cannon Podcast Gatewalkers E86 | Pathfinder 2E
 - 2025-05-23 — DMV | Time For Chaos S1 E10 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, Nyarlathotep After
-- 2025-05-23 — Gatewalkers Episode 86 – Oy The Vault!
 - 2025-05-22 — Room 410 | Time For Chaos S1 E9 | Call of Cthulhu Masks of Nyarlathotep — speakers: Cthulhu Masks, New York City
 - 2025-05-22 — Glass Cannon Radio #18 – Magic: The Gathering / Mission Impossible / Matthew Capodicasa — speakers: Matthew Capodicasa
 - 2025-05-21 — Homeward Bound | Time For Chaos S1 E8 | Call of Cthulhu Masks of Nyarlathotep — speakers: Homeward Bound
 - 2025-05-20 — Exquisite Corpses | Time For Chaos S1 E7 | Call of Cthulhu Masks of Nyarlathotep
 - 2025-05-19 — Just a Little Tear | Time For Chaos S1 E6 | Call of Cthulhu Masks of Nyarlathotep — speakers: Little Tear, Cthulhu Masks
 - 2025-05-17 — Along Came a Rider | Glass Cannon Live! Ascension Part 6 | Portland 2025 | Pathfinder 2E — speakers: Rosewood Vale
+- 2025-05-16 — Loosey Balls | The Glass Cannon Podcast Gatewalkers E85 | Pathfinder 2E — speakers: Loosey Balls
 - 2025-05-16 — Lake Titicaca | Time For Chaos S1 E5 | Call of Cthulhu Masks of Nyarlathotep — speakers: Lake Titicaca, Cthulhu Masks
-- 2025-05-16 — Gatewalkers Episode 85 – Loosey Balls — speakers: Loosey Balls
 - 2025-05-15 — Glass Cannon Radio #17 – The Blacktongue Thief / Going Rogue in RPGs / Nerd Rant — speakers: Christopher Buehlman
 - 2025-05-15 — The Devil's Snake Juice | Time For Chaos S1 E4 | Call of Cthulhu Masks of Nyarlathotep — speakers: Augustus Larkin
 - 2025-05-14 — First Kiss | Time For Chaos S1 E3 | Call of Cthulhu Masks of Nyarlathotep
@@ -16059,189 +16474,189 @@
 - 2025-05-12 — Dramatis Personae | Time For Chaos S1 E1 | Call of Cthulhu Masks of Nyarlathotep — speakers: Dramatis Personae, Ross Bryant, Noura Ibrahim, Kate Stamas, Rob Kerko
 - 2025-05-12 — Time For Chaos Announcement
 - 2025-05-10 — Choking Hazard | Glass Cannon Live! Ascension Part 5 | Seattle 2025 | Pathfinder 2E — speakers: Choking Hazard
-- 2025-05-09 — Gatewalkers Episode 84 – Doctor, My Guise
+- 2025-05-09 — Doctor, My Guise | The Glass Cannon Podcast Gatewalkers E84 | Pathfinder 2E
 - 2025-05-08 — Glass Cannon Radio #16 – The Star Wars Curse / Andor Season 2 / RPGs Based on Film, TV, and Novels — speakers: Glass Cannon Radio, Andor Season, Novels Why, Star Wars
-- 2025-05-02 — Gatewalkers Episode 83 – Doctor's Orders — speakers: Orders More
+- 2025-05-02 — Doctor's Orders | The Glass Cannon Podcast Gatewalkers E83 | Pathfinder 2E
 - 2025-05-01 — Glass Cannon Radio #15 – LARPs with Mary Lou / Hate Watching / Wheel of Time — speakers: Mary Lou
-- 2025-04-25 — Gatewalkers Episode 82 – Fast Sleep & Out of Control — speakers: Fast Sleep
+- 2025-04-25 — Fast Sleep & Out of Control | The Glass Cannon Podcast Gatewalkers E82 | Pathfinder 2E — speakers: Fast Sleep
 - 2025-04-24 — Glass Cannon Radio #14 – Druid Builds / Oblivion Remastered / Fey Adventures — speakers: Mary Lou
-- 2025-04-18 — Gatewalkers Episode 81 – Very Special Old Whale — speakers: Very Special Old Whale
+- 2025-04-18 — Very Special Old Whale | The Glass Cannon Podcast Gatewalkers E81 | Pathfinder 2E — speakers: Very Special Old Whale
 - 2025-04-17 — Glass Cannon Radio #13 – Adolescence / Online Toxicity / Character Sheets Then and Now — speakers: Glass Cannon Radio, Online Toxicity, Character Sheets Then
-- 2025-04-11 — Gatewalkers Episode 80 – Daemon Error
+- 2025-04-11 — Daemon Error | The Glass Cannon Podcast Gatewalkers E80 | Pathfinder 2E — speakers: Daemon Error
 - 2025-04-10 — Glass Cannon Radio #12 – Erik Mona / Skid Maher / D&D Campaign Settings — speakers: Erik Mona, Skid Maher
 - 2025-04-05 — The Gathering | Glass Cannon Live! Ascension Part 4 | St. Paul 2025 | Pathfinder 2E
-- 2025-04-04 — Gatewalkers Episode 79 – Sleep Study — speakers: Ritalson Manor
+- 2025-04-04 — Sleep Study | The Glass Cannon Podcast Gatewalkers E79 | Pathfinder 2E — speakers: Sleep Study, Ritalson Manor
 - 2025-04-03 — Glass Cannon Radio #11 – Nintendo Switch 2 / Severance / Paranoia RPG — speakers: Paranoia Rpg
 - 2025-03-29 — Knightswimming | Glass Cannon Live! Ascension Part 3 | Milwaukee 2025 | Pathfinder 2E
-- 2025-03-28 — Gatewalkers Episode 78 – Dinner Monologues
+- 2025-03-28 — Dinner Monologues | The Glass Cannon Podcast Gatewalkers E78 | Pathfinder 2E
 - 2025-03-27 — Glass Cannon Radio #10 – D&D's Sigil / Ranking the Greatest Action Heroes / Maps in TTRPGs — speakers: Glass Cannon Radio, Greatest Action Heroes
-- 2025-03-21 — Gatewalkers Episode 77 – The Boy and the Knife — speakers: Ritalson Manor
+- 2025-03-21 — The Boy and the Knife | The Glass Cannon Podcast Gatewalkers E77 | Pathfinder 2E — speakers: Ritalson Manor
 - 2025-03-20 — Glass Cannon Radio #9 – Pendragon / Mad Max: Fury Road / Best Co-Op Games — speakers: Brian Holland
 - 2025-03-15 — Into the Mistwood | Glass Cannon Live! Ascension Part 2 | Austin 2025 | Pathfinder 2E
-- 2025-03-14 — Gatewalkers Episode 76 – Split the Party
+- 2025-03-14 — Split the Party | The Glass Cannon Podcast Gatewalkers E76 | Pathfinder 2E
 - 2025-03-13 — Glass Cannon Radio #8 – Romance in RPGs / Daredevil / Monsters of Irish Folklore — speakers: Glass Cannon Radio, Irish Folklore Joe
 - 2025-03-08 — The Rose and the Blight | Glass Cannon Live! Ascension Part 1 | Dallas 2025 | Pathfinder 2E — speakers: Rosewood Vale
-- 2025-03-07 — Gatewalkers Episode 75 – The Pig and Pony Show
+- 2025-03-07 — The Pig and Pony Show | The Glass Cannon Podcast Gatewalkers E75 | Pathfinder 2E
 - 2025-03-06 — Glass Cannon Radio #7 – Dungeon Crawler Carl / Reddit / Beat McD — speakers: Beat McD, Dungeon Crawler Carl
-- 2025-02-28 — Gatewalkers Episode 74 – Room 309
+- 2025-02-28 — Room 309 | The Glass Cannon Podcast Gatewalkers E74 | Pathfinder 2E
 - 2025-02-27 — Glass Cannon Radio #6 – D&D Monster Manual Review / Andor / Running Mystery RPGs
-- 2025-02-21 — Gatewalkers Episode 73 – Destined to Whale
+- 2025-02-21 — Destined to Whale | The Glass Cannon Podcast Gatewalkers E73 | Pathfinder 2E
 - 2025-02-20 — Glass Cannon Radio #5 – Building a PF2E Fighter / Winter Movie Rankings / Pendragon Returns — speakers: Glass Cannon Radio, Winter Movie Rankings, Pendragon Returns What
 - 2025-02-18 — Strange Aeons Episode 100 – Truth Monkey
 - 2025-02-15 — Oops! All Guards! | Glass Cannon Live! Session Zero | Pathfinder 2E Ascension
-- 2025-02-14 — Gatewalkers Episode 72 – Hassle in the Sky
+- 2025-02-14 — Hassle in the Sky | The Glass Cannon Podcast Gatewalkers E72 | Pathfinder 2E
 - 2025-02-13 — Glass Cannon Radio #4 – What Video Game Got You Hooked? / Nerd News / Dune Imperium
-- 2025-02-07 — Gatewalkers Episode 71 – The Hanky of Sweet Wind — speakers: strange visions, new dangers
+- 2025-02-07 — The Hanky of Sweet Wind | The Glass Cannon Podcast Gatewalkers E71 | Pathfinder 2E — speakers: strange visions, new dangers
 - 2025-02-06 — Glass Cannon Radio #3 – The Expanse / Media Ownership / Twin Peaks — speakers: Glass Cannon Radio, Media Ownership, Founder Skid Maher
-- 2025-01-31 — Gatewalkers Episode 70 – Two Heads Are Better Than None
+- 2025-01-31 — Two Heads Are Better Than None | The Glass Cannon Podcast Gatewalkers E70 | Pathfinder 2E
 - 2025-01-30 — Glass Cannon Radio #2 – Generative AI in RPGs / Tabletop Technology / Lynch's Blue Velvet — speakers: Glass Cannon Radio, Tabletop Technology
-- 2025-01-24 — Gatewalkers Episode 69 – Stay
+- 2025-01-24 — Stay | The Glass Cannon Podcast Gatewalkers E69 | Pathfinder 2E
 - 2025-01-23 — Glass Cannon Radio #1 – David Lynch / Nosferatu / Superman — speakers: Superman Welcome
-- 2025-01-17 — Gatewalkers Episode 68 – The Kate Escape
-- 2025-01-10 — Gatewalkers Episode 67 – Children vs. a Dresser God
+- 2025-01-17 — The Kate Escape | The Glass Cannon Podcast Gatewalkers E68 | Pathfinder 2E
+- 2025-01-10 — Children vs. a Dresser God | The Glass Cannon Podcast Gatewalkers E67 | Pathfinder 2E
 - 2025-01-04 — Strange Aeons Episode 99 – Clutched by an Angel
-- 2025-01-03 — Gatewalkers Episode 66 – Bards! Bards!
-- 2024-12-27 — Gatewalkers Episode 65 – A Bard Day's Night — speakers: Bard Day, Mystic Market
-- 2024-12-20 — Gatewalkers Episode 64 – Sad Songs (Fey So Much) — speakers: Sad Songs, Fey So Much, Smiling Wolves
-- 2024-12-13 — Gatewalkers Episode 63 – Meow Mix 2: Pounce Upon a Time — speakers: Meow Mix Pounce
+- 2025-01-03 — Bards! Bards! | The Glass Cannon Podcast Gatewalkers E66 | Pathfinder 2E
+- 2024-12-27 — A Bard Day's Night | The Glass Cannon Podcast Gatewalkers E65 | Pathfinder 2E — speakers: Bard Day, Mystic Market
+- 2024-12-20 — Sad Songs (Fey So Much) | The Glass Cannon Podcast Gatewalkers E64 | Pathfinder 2E — speakers: Sad Songs, Fey So Much, Smiling Wolves
+- 2024-12-13 — Meow Mix 2: Pounce Upon a Time | The Glass Cannon Podcast Gatewalkers E63 | Pathfinder 2E — speakers: Meow Mix Pounce
 - 2024-12-11 — Cannon Fodder 12/11/24 — speakers: Cannon Fodder
-- 2024-12-06 — Gatewalkers Episode 62 – Meow Mix — speakers: Meow Mix Following
+- 2024-12-06 — Meow Mix | The Glass Cannon Podcast Gatewalkers E62 | Pathfinder 2E — speakers: Meow Mix
 - 2024-12-04 — Cannon Fodder 12/4/24 — speakers: Cannon Fodder
 - 2024-11-23 — Strange Aeons Episode 98 – Soul Custodian
-- 2024-11-22 — Gatewalkers Episode 61 – Mazed by Wolves
+- 2024-11-22 — Mazed by Wolves | The Glass Cannon Podcast Gatewalkers E61 | Pathfinder 2E
 - 2024-11-20 — Cannon Fodder 11/20/24 — speakers: Cannon Fodder
 - 2024-11-16 — Strange Aeons Episode 97 – Locks, Clocks and One Airy Battle
-- 2024-11-15 — Gatewalkers Episode 60 – Where the Streets Have No Aim
+- 2024-11-15 — Where the Streets Have No Aim | The Glass Cannon Podcast Gatewalkers E60 | Pathfinder 2E
 - 2024-11-13 — Cannon Fodder 11/13/24 — speakers: Cannon Fodder
-- 2024-11-08 — Gatewalkers Episode 59 – Backlash of the Titans — speakers: real walls
+- 2024-11-08 — Backlash of the Titans | The Glass Cannon Podcast Gatewalkers E59 | Pathfinder 2E — speakers: real walls
 - 2024-11-06 — Cannon Fodder 11/6/24 — speakers: Cannon Fodder, Matthew Capodicasa
-- 2024-11-01 — Gatewalkers Episode 58 – Raiders in the Lost Dark
+- 2024-11-01 — Raiders in the Lost Dark | The Glass Cannon Podcast Gatewalkers E58 | Pathfinder 2E
 - 2024-10-30 — Cannon Fodder 10/30/24 — speakers: Cannon Fodder
-- 2024-10-25 — Gatewalkers Episode 57 – Barnes and Mobile
+- 2024-10-25 — Barnes and Mobile | The Glass Cannon Podcast Gatewalkers E57 | Pathfinder 2E
 - 2024-10-23 — Cannon Fodder 10/23/24 — speakers: Cannon Fodder
-- 2024-10-18 — Gatewalkers Episode 56 – Blunder the Dome
+- 2024-10-18 — Blunder the Dome | The Glass Cannon Podcast Gatewalkers E56 | Pathfinder 2E
 - 2024-10-16 — Cannon Fodder 10/16/24 — speakers: Cannon Fodder
-- 2024-10-11 — Gatewalkers Episode 55 – Single White Karen
+- 2024-10-11 — Single White Karen | The Glass Cannon Podcast Gatewalkers E55 | Pathfinder 2E — speakers: Single White Karen
 - 2024-10-09 — Cannon Fodder 10/9/24 — speakers: Cannon Fodder
 - 2024-10-05 — Strange Aeons Episode 96 – Boston Slow — speakers: Boston Slow, Elder Lythiin
-- 2024-10-04 — Gatewalkers Episode 54 – Tickled Pink
+- 2024-10-04 — Tickled Pink | The Glass Cannon Podcast Gatewalkers E54 | Pathfinder 2E — speakers: Tickled Pink
 - 2024-10-02 — Cannon Fodder 10/2/24 — speakers: Cannon Fodder
-- 2024-09-27 — Gatewalkers Episode 53 – Drakin' It to the Streets
+- 2024-09-27 — Drakin' It to the Streets | The Glass Cannon Podcast Gatewalkers E53 | Pathfinder 2E
 - 2024-09-25 — Cannon Fodder 9/25/24 — speakers: Cannon Fodder, Jared Logan
-- 2024-09-20 — Gatewalkers Episode 52 – Gouging Claw, Hitting Dragon — speakers: Gouging Claw
+- 2024-09-20 — Gouging Claw, Hitting Dragon | The Glass Cannon Podcast Gatewalkers E52 | Pathfinder 2E — speakers: Gouging Claw
 - 2024-09-18 — Cannon Fodder 9/18/24 — speakers: Cannon Fodder
-- 2024-09-13 — Gatewalkers Episode 51 – Son of Valtor
+- 2024-09-13 — Son of Valtor | The Glass Cannon Podcast Gatewalkers E51 | Pathfinder 2E
 - 2024-09-11 — Cannon Fodder 9/11/24 — speakers: Cannon Fodder, Andrew Clayton
-- 2024-09-06 — Gatewalkers Episode 50 – Homesick
+- 2024-09-06 — Homesick | The Glass Cannon Podcast Gatewalkers E50 | Pathfinder 2E
 - 2024-09-04 — Cannon Fodder 9/4/24 — speakers: Cannon Fodder
-- 2024-08-30 — Gatewalkers Episode 49 – Kappa Valley Chic — speakers: Kappa Valley Chic
+- 2024-08-30 — Kappa Valley Chic | The Glass Cannon Podcast Gatewalkers E49 | Pathfinder 2E — speakers: Kappa Valley Chic
 - 2024-08-28 — Cannon Fodder 8/28/24
 - 2024-08-24 — Strange Aeons Episode 95 – Mazed and Confused
-- 2024-08-23 — Gatewalkers Episode 48 – The Horn Ultimatum
+- 2024-08-23 — The Horn Ultimatum | The Glass Cannon Podcast Gatewalkers E48 | Pathfinder 2E
 - 2024-08-21 — Cannon Fodder 8/21/24
-- 2024-08-16 — Gatewalkers Episode 47 – Courage Under Spire
-- 2024-08-09 — Gatewalkers Episode 46 – Paralaralinglong! Or My Mom Will Shoot — speakers: Shoot After
+- 2024-08-16 — Courage Under Spire | The Glass Cannon Podcast Gatewalkers E47 | Pathfinder 2E
+- 2024-08-09 — Paralaralinglong! Or My Mom Will Shoot | The Glass Cannon Podcast Gatewalkers E46 | Pathfinder 2E
 - 2024-08-07 — Cannon Fodder 8/7/24 — speakers: Cannon Fodder, Another Gen Con
-- 2024-08-02 — Gatewalkers Episode 45 – Forget-Me-Naughts
+- 2024-08-02 — Forget-Me-Naughts | The Glass Cannon Podcast Gatewalkers E45 | Pathfinder 2E
 - 2024-07-31 — Cannon Fodder 7/31/24 — speakers: Cannon Fodder, Gen Con
-- 2024-07-26 — Gatewalkers Episode 44 – License to Quill
+- 2024-07-26 — License to Quill | The Glass Cannon Podcast Gatewalkers E44 | Pathfinder 2E
 - 2024-07-24 — Cannon Fodder 7/24/24 — speakers: Cannon Fodder
-- 2024-07-19 — Gatewalkers Episode 43 – Shroom Goes the Dynamite — speakers: Shroom Goes
+- 2024-07-19 — Shroom Goes the Dynamite | The Glass Cannon Podcast Gatewalkers E42 | Pathfinder 2E — speakers: Shroom Goes
 - 2024-07-17 — Cannon Fodder 7/17/24 — speakers: Cannon Fodder
 - 2024-07-13 — Strange Aeons Episode 94 – Devil Went Down to Nashville — speakers: Devil Went Down
-- 2024-07-12 — Gatewalkers Episode 42 – The Most Dangerous Shame
+- 2024-07-12 — The Most Dangerous Shame | The Glass Cannon Podcast Gatewalkers E42 | Pathfinder 2E
 - 2024-07-06 — Strange Aeons Episode 93 – Stay Away from the Brown Acid Flask (Greater)
-- 2024-06-28 — Gatewalkers Episode 41 – Highway to Well — speakers: Well Deep
+- 2024-06-28 — Highway to Well | The Glass Cannon Podcast Gatewalkers E41 | Pathfinder 2E
 - 2024-06-26 — Cannon Fodder 6/26/24
-- 2024-06-21 — Gatewalkers Episode 40 – Star Check: Cursed Contact
+- 2024-06-21 — Star Check: Cursed Contact | The Glass Cannon Podcast Gatewalkers E40 | Pathfinder 2E
 - 2024-06-19 — Cannon Fodder 6/19/24
 - 2024-06-15 — Strange Aeons Episode 92 – Priestbound & Clown
-- 2024-06-14 — Gatewalkers Episode 39 – Gondola Baby Gondola — speakers: Gondola Baby Gondola Flying
+- 2024-06-14 — Gondola Baby Gondola | The Glass Cannon Podcast Gatewalkers E39 | Pathfinder 2E — speakers: Gondola Baby Gondola
 - 2024-06-12 — Cannon Fodder 6/12/24 — speakers: Cannon Fodder
 - 2024-06-08 — Strange Aeons Episode 91 – Circling the Drain
-- 2024-06-07 — Gatewalkers Episode 38 – The NeverEnding Quarry
+- 2024-06-07 — The NeverEnding Quarry | The Glass Cannon Podcast Gatewalkers E38 | Pathfinder 2E
 - 2024-06-05 — Cannon Fodder 6/5/24 — speakers: Cannon Fodder
-- 2024-05-31 — Gatewalkers Episode 37 – Hot For Teacher
+- 2024-05-31 — Hot For Teacher | The Glass Cannon Podcast Gatewalkers E37 | Pathfinder 2E — speakers: Another Gatewalker
 - 2024-05-29 — Cannon Fodder 5/29/24 — speakers: Cannon Fodder
-- 2024-05-24 — Gatewalkers Episode 36 – Missing Moments
+- 2024-05-24 — Missing Moments | The Glass Cannon Podcast Gatewalkers E36 | Pathfinder 2E
 - 2024-05-22 — Strange Aeons Episode 90 – Father Bubbles
-- 2024-05-17 — Gatewalkers Episode 35 – Come Snail Away — speakers: Come Snail Away
-- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
+- 2024-05-17 — Come Snail Away | The Glass Cannon Podcast Gatewalkers E35 | Pathfinder 2E — speakers: Come Snail Away
 - 2024-05-15 — Cannon Fodder 5/15/24
-- 2024-05-10 — Gatewalkers Episode 34 – You've Got Snail — speakers: Got Snail
+- 2024-05-15 — Strange Aeons Episode 89 – I Wanna Dream Again
+- 2024-05-10 — You've Got Snail | The Glass Cannon Podcast Gatewalkers E34 | Pathfinder 2E — speakers: Got Snail
 - 2024-05-08 — Cannon Fodder 5/8/24 — speakers: Cannon Fodder, Gen Con, Joe kick
-- 2024-05-03 — Gatewalkers Episode 33 – Hungry Dart
+- 2024-05-03 — Hungry Dart | The Glass Cannon Podcast Gatewalkers E33 | Pathfinder 2E — speakers: Hungry Dart
 - 2024-05-01 — Cannon Fodder 5/1/24 — speakers: Cannon Fodder
-- 2024-04-26 — Gatewalkers Episode 32 – No Place Like Home — speakers: No Place Like Home
+- 2024-04-26 — No Place Like Home | The Glass Cannon Podcast Gatewalkers E32 | Pathfinder 2E — speakers: No Place Like Home
 - 2024-04-24 — Cannon Fodder 4/24/24 — speakers: Cannon Fodder
 - 2024-04-23 — Strange Aeons Episode 88 – Eavesdrop It Like It's Hot — speakers: Miackniun Mun
-- 2024-04-19 — Gatewalkers Episode 31 – The Slim Reaper
+- 2024-04-19 — The Slim Reaper | The Glass Cannon Podcast Gatewalkers E31 | Pathfinder 2E
 - 2024-04-17 — Cannon Fodder 4/17/24 — speakers: Cannon Fodder
-- 2024-04-12 — Gatewalkers Episode 30 – Hooked On Eugenics
+- 2024-04-12 — Hooked On Eugenics | The Glass Cannon Podcast Gatewalkers E30 | Pathfinder 2E
 - 2024-04-11 — Strange Aeons Episode 87 – Third Arm Blind
-- 2024-04-05 — Gatewalkers Episode 29 – Nut Job
+- 2024-04-05 — Nut Job | The Glass Cannon Podcast Gatewalkers E29 | Pathfinder 2E — speakers: Nut Job
 - 2024-04-03 — Cannon Fodder 4/3/24 — speakers: Cannon Fodder
-- 2024-03-29 — Gatewalkers Episode 28 – The Fight to Remain Silent — speakers: Remain Silent Rested
+- 2024-03-29 — The Fight to Remain Silent | The Glass Cannon Podcast Gatewalkers E28 | Pathfinder 2E — speakers: Remain Silent
 - 2024-03-27 — Cannon Fodder 3/27/24 — speakers: Cannon Fodder
-- 2024-03-22 — Gatewalkers Episode 27 – Elf Harm
+- 2024-03-22 — Elf Harm | The Glass Cannon Podcast Gatewalkers E27 | Pathfinder 2E
 - 2024-03-20 — Cannon Fodder 3/20/24 — speakers: Cannon Fodder
-- 2024-03-15 — Gatewalkers Episode 26 – Groundhog Shae — speakers: Groundhog Shae, kxwc Thi
+- 2024-03-15 — Groundhog Shae | The Glass Cannon Podcast Gatewalkers E26 | Pathfinder 2E — speakers: Groundhog Shae, kxwc Thi
 - 2024-03-13 — Cannon Fodder 3/13/24 — speakers: Cannon Fodder
-- 2024-03-08 — Gatewalkers Episode 25 – Fleshy Interlopers
+- 2024-03-08 — Fleshy Interlopers | The Glass Cannon Podcast Gatewalkers E25 | Pathfinder 2E
 - 2024-03-06 — Cannon Fodder 3/6/24 — speakers: Cannon Fodder
-- 2024-03-01 — Gatewalkers Episode 24 – The Artful Lodger
+- 2024-03-01 — The Artful Lodger | The Glass Cannon Podcast Gatewalkers E24 | Pathfinder 2E
 - 2024-02-28 — Cannon Fodder 2/28/24 — speakers: Cannon Fodder
-- 2024-02-23 — Gatewalkers Episode 23 – Trauma Centaur — speakers: Trauma Centaur
+- 2024-02-23 — Trauma Centaur | The Glass Cannon Podcast Gatewalkers E23 | Pathfinder 2E — speakers: Trauma Centaur
 - 2024-02-21 — Cannon Fodder 2/21/24 — speakers: Sydney Amanuel
-- 2024-02-16 — Gatewalkers Episode 22 – An Inconvenient Tooth Fairy Swarm — speakers: Swarm Upon, First World
+- 2024-02-16 — An Inconvenient Tooth Fairy Swarm | The Glass Cannon Podcast Gatewalkers E22 | Pathfinder 2E — speakers: First World
 - 2024-02-15 — Cannon Fodder 2/14/24 — speakers: Cannon Fodder
-- 2024-02-09 — Gatewalkers Episode 21 – David Koresh's Playhouse — speakers: David Koresh
+- 2024-02-09 — David Koresh's Playhouse | The Glass Cannon Podcast Gatewalkers E21 | Pathfinder 2E — speakers: David Koresh
 - 2024-02-07 — Cannon Fodder 2/7/24
-- 2024-02-02 — Gatewalkers Episode 20 – Close Encounters of the Bird Kind — speakers: Close Encounters, Bird Kind
+- 2024-02-02 — Close Encounters of the Bird Kind | The Glass Cannon Podcast Gatewalkers E20 | Pathfinder 2E
 - 2024-01-31 — Cannon Fodder 1/31/24 — speakers: Cannon Fodder
-- 2024-01-26 — Gatewalkers Episode 19 – Thinlands Farms Remembers — speakers: Thinlands Farms
+- 2024-01-26 — Thinlands Farms Remembers | The Glass Cannon Podcast Gatewalkers E19 | Pathfinder 2E — speakers: Thinlands Farms Remembers, Thinlands Farms
 - 2024-01-24 — Cannon Fodder 1/24/24 — speakers: Cannon Fodder, Skid Maher, Sydney Amanuel
-- 2024-01-19 — Gatewalkers Episode 18 – The Dogs of War
+- 2024-01-19 — The Dogs of War | The Glass Cannon Podcast Gatewalkers E18 | Pathfinder 2E
 - 2024-01-17 — Cannon Fodder 1/17/24 — speakers: Cannon Fodder
-- 2024-01-12 — Gatewalkers Episode 17 – Mule Intentions — speakers: Mule Intentions
+- 2024-01-12 — Mule Intentions | The Glass Cannon Podcast Gatewalkers E17 | Pathfinder 2E — speakers: Mule Intentions
 - 2024-01-10 — Cannon Fodder 1/10/24 — speakers: Cannon Fodder
-- 2024-01-05 — Gatewalkers Episode 16 – Mr. Jones and Tree
+- 2024-01-05 — Mr. Jones and Tree | The Glass Cannon Podcast Gatewalkers E16 | Pathfinder 2E
 - 2024-01-03 — Cannon Fodder 1/3/24
-- 2023-12-29 — Gatewalkers Episode 15 – The After Math
-- 2023-12-22 — Gatewalkers Episode 14 – Chekhov's Zipline
-- 2023-12-15 — Gatewalkers Episode 13 – Gnome for the Holidays
+- 2023-12-29 — The After Math | The Glass Cannon Podcast Gatewalkers E15 | Pathfinder 2E
+- 2023-12-22 — Chekhov's Zipline | The Glass Cannon Podcast Gatewalkers E14 | Pathfinder 2E
+- 2023-12-15 — Gnome for the Holidays | The Glass Cannon Podcast Gatewalkers E13 | Pathfinder 2E
 - 2023-12-14 — Strange Aeons Episode 86 – Art Attack — speakers: Art Attack
 - 2023-12-13 — Cannon Fodder 12/13/23 — speakers: Cannon Fodder
-- 2023-12-08 — Gatewalkers Episode 12 – So Help Me Gourd — speakers: So Help Me Gourd
+- 2023-12-08 — So Help Me Gourd | The Glass Cannon Podcast Gatewalkers E12 | Pathfinder 2E — speakers: So Help Me Gourd
 - 2023-12-06 — Cannon Fodder 12/6/23 — speakers: Cannon Fodder
-- 2023-12-01 — Gatewalkers Episode 11 – Shoots and Ladder — speakers: Ladder Two
+- 2023-12-01 — Shoots and Ladder | The Glass Cannon Podcast Gatewalkers E11 | Pathfinder 2E
 - 2023-11-29 — Cannon Fodder 11/29/23 — speakers: Cannon Fodder
 - 2023-11-22 — Cannon Fodder 11/22/23 — speakers: Cannon Fodder
 - 2023-11-22 — Strange Aeons Episode 85 – Another Mun Bites the Dust — speakers: Another Mun Bites
-- 2023-11-17 — Gatewalkers Episode 10 – Dancers in the Dark
+- 2023-11-17 — Dancers in the Dark | The Glass Cannon Podcast Gatewalkers E10 | Pathfinder 2E
 - 2023-11-15 — Cannon Fodder 11/15/23 — speakers: Cannon Fodder
-- 2023-11-10 — Gatewalkers Episode 9 – Bachman-Turner Overshirt — speakers: Turner Overshirt Back
+- 2023-11-10 — Bachman-Turner Overshirt | The Glass Cannon Podcast Gatewalkers E9 | Pathfinder 2E — speakers: Turner Overshirt
 - 2023-11-08 — Cannon Fodder 11/8/23 — speakers: Cannon Fodder
-- 2023-11-03 — Gatewalkers Episode 8 – Dying Too — speakers: Dying Too After
+- 2023-11-03 — Dying Too | The Glass Cannon Podcast Gatewalkers E8 | Pathfinder 2E — speakers: Dying Too
 - 2023-11-01 — Cannon Fodder 11/1/23 — speakers: Cannon Fodder
 - 2023-10-27 — Strange Aeons Episode 84 – She Don't Use Ochre Jelly — speakers: Use Ochre Jelly After
-- 2023-10-27 — Gatewalkers Episode 7 – The Tree Stooges
+- 2023-10-27 — The Tree Stooges | The Glass Cannon Podcast Gatewalkers E7 | Pathfinder 2E
 - 2023-10-25 — Cannon Fodder 10/25/23 — speakers: Cannon Fodder
-- 2023-10-20 — Gatewalkers Episode 6 – Treehouse Abhorrer — speakers: Treehouse Abhorrer
+- 2023-10-20 — Treehouse Abhorrer | The Glass Cannon Podcast Gatewalkers E6 | Pathfinder 2E — speakers: Treehouse Abhorrer
 - 2023-10-18 — Cannon Fodder 10/18/23 — speakers: Cannon Fodder
-- 2023-10-13 — Gatewalkers Episode 5 – Children of the Horn
+- 2023-10-13 — Children of the Horn | The Glass Cannon Podcast Gatewalkers E5 | Pathfinder 2E
 - 2023-10-11 — Cannon Fodder 10/11/23 — speakers: Cannon Fodder
-- 2023-10-06 — Gatewalkers Episode 4 – Shadows and Dogs
+- 2023-10-06 — Shadows and Dogs | The Glass Cannon Podcast Gatewalkers E4 | Pathfinder 2E
 - 2023-10-04 — Cannon Fodder 10/4/23 — speakers: Cannon Fodder
-- 2023-09-29 — Gatewalkers Episode 3 – Ooh Baby Baby, It's the Wilewood — speakers: Ooh Baby Baby, Wilewood Having
-- 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Leader Weapons, Paradise Rock Club
+- 2023-09-29 — Ooh Baby Baby, It's the Wilewood | The Glass Cannon Podcast Gatewalkers E3 | Pathfinder 2E — speakers: Ooh Baby Baby
 - 2023-09-27 — Cannon Fodder 9/27/23 — speakers: Cannon Fodder
-- 2023-09-22 — Gatewalkers Episode 2 – Ladies' Night
+- 2023-09-27 — Strange Aeons Episode 83 – Hollow the Leader — speakers: Leader Weapons, Paradise Rock Club
+- 2023-09-22 — Ladies' Night | The Glass Cannon Podcast Gatewalkers E2 | Pathfinder 2E
 - 2023-09-20 — Cannon Fodder 9/20/23 — speakers: Cannon Fodder
-- 2023-09-15 — Gatewalkers Episode 1 – Where's the Tavern?
+- 2023-09-15 — Where's the Tavern? | The Glass Cannon Podcast Gatewalkers E1 | Pathfinder 2E
 - 2023-09-13 — Cannon Fodder 9/13/23 — speakers: Cannon Fodder
 - 2023-09-06 — Cannon Fodder 9/6/23 — speakers: Cannon Fodder
-- 2023-09-01 — Gatewalkers Session 0 – Zero to Heroes
+- 2023-09-01 — Zero to Heroes | The Glass Cannon Podcast Gatewalkers E0 | Pathfinder 2E
 - 2023-08-30 — Cannon Fodder 8/30/23 — speakers: Cannon Fodder
 - 2023-08-23 — Strange Aeons Episode 82 – Daddy's Special Yogurt
 - 2023-08-23 — Cannon Fodder 8/23/23 — speakers: Cannon Fodder
@@ -16293,8 +16708,8 @@
 - 2023-02-14 — Strange Aeons Episode 62 – The Ghast and the Curious
 - 2023-02-08 — Cannon Fodder 2/8/23 — speakers: Cannon Fodder
 - 2023-02-07 — Strange Aeons Episode 61 – A Mid-forest Night's Dream — speakers: Verduran Forest
-- 2023-02-01 — Friends of the Pod – Pathfinder 2E
 - 2023-02-01 — Cannon Fodder 2/1/23 — speakers: Cannon Fodder
+- 2023-02-01 — Friends of the Pod – Pathfinder 2E
 - 2023-01-31 — Strange Aeons Episode 60 – That's My Juice Now
 - 2023-01-25 — Cannon Fodder 1/25/23 — speakers: Cannon Fodder
 - 2023-01-24 — Strange Aeons Episode 59 – Tricorne Flakes — speakers: Tricorne Flakes Just

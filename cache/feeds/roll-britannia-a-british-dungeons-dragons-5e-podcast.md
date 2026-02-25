@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-02-25T10:13:55+00:00`
-- checked_at: `2026-02-25T10:13:55+00:00`
-- etag: `"djEuMi4wOjE3NzIwMDcwMzkzOTM="`
+- fetched_at: `2026-02-25T19:29:43+00:00`
+- checked_at: `2026-02-25T19:29:43+00:00`
+- etag: `"djEuMi4wOjE3NzIwNDY3MzAxODg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-02-25T10:13:55+00:00",
+  "fetched_at": "2026-02-25T19:29:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -28,7 +28,7 @@
   "episodes": [
     {
       "key": "4a01205c30706291d4a4ad36c92e45c752caf21f",
-      "title": "Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.1 | #DND",
+      "title": "Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.2 | #DND",
       "published_at": "2026-02-25T08:10:00+00:00",
       "link": "https://www.rollbritannia.co.uk/",
       "description": "In this week's episode of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ pirate adventure, truths collide as kings return, queens unravel, and the fate of magic itself hangs by a thread. Loyalties fracture, timelines twist, and the Dice hover over a choice that could rewrite the very fabric of DnD. With ancient artefacts gathered and power shifting hands, the world stands on the edge of something irreversible. Who is really pulling the final strings? What happens if the eight pieces come together? And when the last roll falls, will there even be a world left to save?There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keth⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Milo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Derek⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jeff⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), and Sophie ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠River⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), led by James ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠the Dungeon Master⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
@@ -7380,7 +7380,7 @@
 
 ## Episodes (newest first)
 
-- 2026-02-25 — Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.1 | #DND
+- 2026-02-25 — Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.2 | #DND
 - 2026-02-25 — Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.1 | #DND
 - 2026-02-22 — Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations
 - 2026-02-18 — Ep. 317: Because, That's What Heroes Do - Chapter 14 - pt.2 | #DND
