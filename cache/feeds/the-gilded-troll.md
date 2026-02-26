@@ -2,9 +2,9 @@
 
 - slug: `the-gilded-troll`
 - source: `https://anchor.fm/s/45cf9500/podcast/rss`
-- fetched_at: `2026-02-20T07:16:54+00:00`
-- checked_at: `2026-02-20T07:16:54+00:00`
-- etag: `W/"49394-GxRxMId2vJ6AKyz5f1I8DrFPHSQ"`
+- fetched_at: `2026-02-26T21:48:07+00:00`
+- checked_at: `2026-02-26T21:48:07+00:00`
+- etag: `W/"49394-5a+ieWXf5hZunLkwBcxGSHlJvKI"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/the-gilded-troll",
   "description": "Welcome to the official podcast version of The Gilded Troll Plays D&D! This is an audio-only version of our Twitch streams!",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11612320/11612320-1609265280407-dd3c92b55d33.jpg",
-  "fetched_at": "2026-02-20T07:16:54+00:00",
+  "fetched_at": "2026-02-26T21:48:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,9 +36,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "206559683",
       "itunes_duration": "03:32:52",
-      "speakers": [
-        "Wyrmheart Mine"
-      ],
+      "speakers": [],
       "topics": [
         "trolls",
         "hire",
@@ -167,7 +165,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "227657399",
       "itunes_duration": "03:54:36",
-      "speakers": [],
+      "speakers": [
+        "destroying fleet"
+      ],
       "topics": [
         "ootd",
         "battle",
@@ -293,9 +293,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "233831808",
       "itunes_duration": "04:00:58",
-      "speakers": [
-        "Colour Curse"
-      ],
+      "speakers": [],
       "topics": [
         "trolls",
         "hire",
@@ -371,9 +369,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "221388944",
       "itunes_duration": "03:48:09",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "trolls",
         "hire",
@@ -487,8 +483,7 @@
       "enclosure_length": "261349238",
       "itunes_duration": "04:29:20",
       "speakers": [
-        "Phandalin Rescue Mission",
-        "Colour Curse"
+        "Phandalin Rescue Mission"
       ],
       "topics": [
         "trolls",
@@ -823,7 +818,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "238571022",
       "itunes_duration": "04:05:51",
-      "speakers": [],
+      "speakers": [
+        "Nether Sea"
+      ],
       "topics": [
         "ootd",
         "homecoming"
@@ -974,7 +971,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "95071771",
       "itunes_duration": "01:37:58",
-      "speakers": [],
+      "speakers": [
+        "Prison Cube"
+      ],
       "topics": [
         "ootd",
         "prison",
@@ -992,7 +991,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "216633590",
       "itunes_duration": "03:43:15",
-      "speakers": [],
+      "speakers": [
+        "Nether Sea"
+      ],
       "topics": [
         "ootd",
         "nether"
@@ -1079,7 +1080,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "240892610",
       "itunes_duration": "04:08:15",
-      "speakers": [],
+      "speakers": [
+        "Wherefore Art Thou"
+      ],
       "topics": [
         "trolls",
         "thou"
@@ -1306,9 +1309,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "225108203",
       "itunes_duration": "03:51:59",
-      "speakers": [
-        "Castle Ravenloft"
-      ],
+      "speakers": [],
       "topics": [
         "crypt",
         "ravenloft"
@@ -1413,7 +1414,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "242062449",
       "itunes_duration": "04:09:27",
-      "speakers": [],
+      "speakers": [
+        "Forbidden Library"
+      ],
       "topics": [
         "ootd",
         "forbidden",
@@ -1431,7 +1434,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "243352563",
       "itunes_duration": "04:10:47",
-      "speakers": [],
+      "speakers": [
+        "Golden Heart"
+      ],
       "topics": [
         "ootd",
         "island",
@@ -1450,8 +1455,7 @@
       "enclosure_length": "240683872",
       "itunes_duration": "04:08:02",
       "speakers": [
-        "Queen Vytha",
-        "King Jankor"
+        "Queen Vytha"
       ],
       "topics": [
         "ootd",
@@ -1488,9 +1492,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "235179990",
       "itunes_duration": "04:02:21",
-      "speakers": [
-        "Estor Arkelander"
-      ],
+      "speakers": [],
       "topics": [
         "ootd",
         "captain",
@@ -1546,7 +1548,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "226296108",
       "itunes_duration": "03:53:12",
-      "speakers": [],
+      "speakers": [
+        "Mithral Forge"
+      ],
       "topics": [
         "ootd",
         "mithral",
@@ -1564,7 +1568,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "229511774",
       "itunes_duration": "03:56:31",
-      "speakers": [],
+      "speakers": [
+        "Mithral Mines"
+      ],
       "topics": [
         "ootd",
         "mithral",
@@ -1618,7 +1624,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "231712326",
       "itunes_duration": "03:58:47",
-      "speakers": [],
+      "speakers": [
+        "King Acastus's dragonlords"
+      ],
       "topics": [
         "ootd",
         "king"
@@ -1653,7 +1661,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "223717432",
       "itunes_duration": "03:50:33",
-      "speakers": [],
+      "speakers": [
+        "Chosen Heroes"
+      ],
       "topics": [
         "ootd",
         "second",
@@ -1727,9 +1737,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "209254342",
       "itunes_duration": "03:35:38",
-      "speakers": [
-        "King Pythor"
-      ],
+      "speakers": [],
       "topics": [
         "ootd",
         "versi",
@@ -1764,7 +1772,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "220130358",
       "itunes_duration": "03:46:51",
-      "speakers": [],
+      "speakers": [
+        "Epic Fantasy"
+      ],
       "topics": [
         "ootd",
         "session",
@@ -1856,7 +1866,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "225019605",
       "itunes_duration": "03:51:53",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": [
         "unlikely",
         "ally"
@@ -1873,7 +1885,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "194718025",
       "itunes_duration": "03:20:40",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": []
     },
     {
@@ -1887,7 +1901,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "234580940",
       "itunes_duration": "04:01:44",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": [
         "amber",
         "temple"
@@ -1904,7 +1920,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "239279745",
       "itunes_duration": "04:06:35",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": [
         "amber",
         "temple"
@@ -1921,7 +1939,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "237876782",
       "itunes_duration": "04:05:08",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": [
         "amber",
         "temple"
@@ -1938,7 +1958,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "224335200",
       "itunes_duration": "03:51:11",
-      "speakers": [],
+      "speakers": [
+        "Amber Temple"
+      ],
       "topics": [
         "death",
         "family"
@@ -2111,7 +2133,7 @@
       "enclosure_length": "218361102",
       "itunes_duration": "03:45:02",
       "speakers": [
-        "Lady Wachter"
+        "Blue Water Inn"
       ],
       "topics": [
         "andral",
@@ -2180,7 +2202,9 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "268399175",
       "itunes_duration": "04:36:36",
-      "speakers": [],
+      "speakers": [
+        "returning players"
+      ],
       "topics": [
         "mist"
       ]
@@ -2209,31 +2233,31 @@
 
 ## Episodes (newest first)
 
-- 2021-09-07 — Trolls For Hire: Ep.27: Wyrmheart Mine — speakers: Wyrmheart Mine
+- 2021-09-07 — Trolls For Hire: Ep.27: Wyrmheart Mine
 - 2021-09-07 — Trolls For Hire: Ep.26: Vermeillon
 - 2021-09-07 — Trolls For Hire: Ep.25: Colour vs Colourless
 - 2021-09-07 — Trolls For Hire: Ep.24: Earth Asunder
 - 2021-09-07 — TGT plays OotD: Ep.55: Epilogue
 - 2021-09-07 — TGT plays OotD: Ep.54: Battle of Mytros: Kentimane
 - 2021-09-07 — TGT plays OotD: Ep.53: Battle of Mytros: Sydon
-- 2021-09-07 — TGT plays OotD: Ep.52: Battle of Mytros: Icarus
+- 2021-09-07 — TGT plays OotD: Ep.52: Battle of Mytros: Icarus — speakers: destroying fleet
 - 2021-08-04 — TGT plays OotD: Ep.51: Battle of Mytros: Prologue
 - 2021-08-04 — TGT plays OotD: Ep.50: Calm Before the Storm
 - 2021-08-04 — TGT plays OotD: Ep.49: I Can See the Future!
 - 2021-08-04 — TGT plays OotD: Ep.48: Throne of Praxys
 - 2021-08-04 — TGT plays OotD: Ep.47: Dance of Dragons
 - 2021-08-04 — Trolls For Hire: Ep.23: The Mi-go
-- 2021-08-04 — Trolls For Hire: Ep.22: Depths of Khundrukar — speakers: Colour Curse
+- 2021-08-04 — Trolls For Hire: Ep.22: Depths of Khundrukar
 - 2021-08-04 — Trolls For Hire: Ep.21: The Gray Pass
 - 2021-08-04 — Trolls For Hire: Ep.20: Backalley Boobytraps
 - 2021-08-04 — Trolls For Hire: Ep.19: Chultan Exploration
-- 2021-08-04 — Trolls For Hire: Ep.18: The Bitter North — speakers: Icewind Dale
+- 2021-08-04 — Trolls For Hire: Ep.18: The Bitter North
 - 2021-08-04 — Trolls For Hire: Ep.17: The Mountain Door
 - 2021-08-04 — Trolls For Hire: Ep.16: The Restful Lily
 - 2021-08-04 — Trolls For Hire: Ep.15: Blight Mapping
 - 2021-06-22 — Trolls For Hire: Ep.14: XVII The Star
 - 2021-06-22 — TGT plays OotD: Ep.46: Queens of the Myrmekes
-- 2021-06-21 — Trolls For Hire: Ep.13: Phandalin Rescue Mission — speakers: Phandalin Rescue Mission, Colour Curse
+- 2021-06-21 — Trolls For Hire: Ep.13: Phandalin Rescue Mission — speakers: Phandalin Rescue Mission
 - 2021-06-21 — TGT plays OotD: Ep.45: The Tower of Praxys
 - 2021-06-03 — Trolls For Hire: Ep.12: Centipede Cave Keystone — speakers: Cave Keystone
 - 2021-06-03 — Trolls For Hire: Ep.11: Phandalin Meteor Showers — speakers: Phandalin Meteor Showers
@@ -2251,7 +2275,7 @@
 - 2021-04-28 — Trolls For Hire: Ep.6: Infested!
 - 2021-04-28 — TGT plays OotD: Ep.40: Mytros
 - 2021-04-19 — Trolls For Hire: Ep.5: Birds of a Feather
-- 2021-04-19 — TGT plays OotD: Ep.39: Homecoming
+- 2021-04-19 — TGT plays OotD: Ep.39: Homecoming — speakers: Nether Sea
 - 2021-04-19 — Trolls For Hire: Ep.4: Intro to Cosmic Horror
 - 2021-04-16 — Trolls For Hire: Ep.3: Phandalin Franchising
 - 2021-04-16 — TGT plays OotD: Ep.38: Mirror Prison
@@ -2259,13 +2283,13 @@
 - 2021-04-07 — TGT plays OotD: Ep.37: Hypnos
 - 2021-04-02 — Trolls For Hire: Ep.1: Sewer Sleuthing — speakers: Trollskull Alley
 - 2021-04-02 — TGT plays OotD: Ep.36: Versus Lutheria — speakers: Versus Lutheria
-- 2021-03-27 — TGT plays OotD: Ep.35: The Prison Cube
-- 2021-03-27 — TGT plays OotD: Ep.34: The Nether Sea
+- 2021-03-27 — TGT plays OotD: Ep.35: The Prison Cube — speakers: Prison Cube
+- 2021-03-27 — TGT plays OotD: Ep.34: The Nether Sea — speakers: Nether Sea
 - 2021-03-27 — TGT plays OotD: Ep.33: To The Nether Sea
 - 2021-03-27 — TGT plays OotD: Ep.32-2: Scorpius
 - 2021-02-22 — New Trolls Ep.5: The Mead Must Flow
 - 2021-02-22 — TGT plays OotD: Ep.32: Typhon, Father of Monsters
-- 2021-02-18 — New Trolls Ep.4: Wherefore Art Thou Raúl?
+- 2021-02-18 — New Trolls Ep.4: Wherefore Art Thou Raúl? — speakers: Wherefore Art Thou
 - 2021-02-16 — TGT plays OotD: Ep.31: Typhon, the Maw
 - 2021-02-10 — New Trolls Ep.3: A Day at the Races
 - 2021-02-10 — New Trolls Ep.2: Hungry Shadows
@@ -2278,42 +2302,42 @@
 - 2021-01-12 — TGT plays CoS: Ep.26: The Overlook
 - 2021-01-12 — TGT plays OotD: Ep.26: The Sun God
 - 2021-01-06 — TGT plays OotD: Ep.25: The Lotus Witch
-- 2021-01-05 — TGT plays CoS: Ep.25: Crypts of Ravenloft — speakers: Castle Ravenloft
+- 2021-01-05 — TGT plays CoS: Ep.25: Crypts of Ravenloft
 - 2020-12-30 — TGT plays OotD: Ep.24: Scorpion Island
 - 2020-12-30 — TGT plays OotD: Ep.23: Fate of the Fates
 - 2020-12-30 — TGT plays OotD: Ep.22: Island of the Fates
 - 2020-12-30 — TGT plays OotD: Ep.21: The Lady of Coins
 - 2020-12-30 — TGT plays OotD: Ep.20: Return to Mytros
-- 2020-12-30 — TGT plays OotD: Ep.19: The Forbidden Library
-- 2020-12-30 — TGT plays OotD: Ep.18: The Island of Yonder
-- 2020-12-30 — TGT plays OotD: Ep.17: Fire Island — speakers: Queen Vytha, King Jankor
+- 2020-12-30 — TGT plays OotD: Ep.19: The Forbidden Library — speakers: Forbidden Library
+- 2020-12-30 — TGT plays OotD: Ep.18: The Island of Yonder — speakers: Golden Heart
+- 2020-12-30 — TGT plays OotD: Ep.17: Fire Island — speakers: Queen Vytha
 - 2020-12-30 — TGT plays OotD: Ep.16: Voyage of the Ultros
-- 2020-12-30 — TGT plays OotD: Ep.15: Captain of the Ultros — speakers: Estor Arkelander
+- 2020-12-30 — TGT plays OotD: Ep.15: Captain of the Ultros
 - 2020-12-30 — TGT plays OotD: Ep.14: Reclaiming the Ultros — speakers: Estor Arkelander
 - 2020-12-30 — TGT plays OotD: Ep.13: The Ghost Ship Ultros
-- 2020-12-30 — TGT plays OotD: Ep.12: The Mithral Forge
-- 2020-12-30 — TGT plays OotD: Ep.11: The Mithral Mines
+- 2020-12-30 — TGT plays OotD: Ep.12: The Mithral Forge — speakers: Mithral Forge
+- 2020-12-30 — TGT plays OotD: Ep.11: The Mithral Mines — speakers: Mithral Mines
 - 2020-12-30 — TGT plays OotD: Ep.10: The Third Great Labor
 - 2020-12-30 — TGT plays OotD: Ep.9: Storm in Mytros
-- 2020-12-30 — TGT plays OotD: Ep.8: Summoned by the King
+- 2020-12-30 — TGT plays OotD: Ep.8: Summoned by the King — speakers: King Acastus's dragonlords
 - 2020-12-30 — TGT plays OotD: Ep.7: Necropolis at Telamok
-- 2020-12-30 — TGT plays OotD: Ep.6: The Second Great Labor
+- 2020-12-30 — TGT plays OotD: Ep.6: The Second Great Labor — speakers: Chosen Heroes
 - 2020-12-30 — TGT plays OotD: Ep.5: The King's Daughter — speakers: King Pythor
 - 2020-12-30 — TGT plays OotD: Ep.4: Demetria
 - 2020-12-30 — TGT plays OotD: Ep.3: The Mossy Temple
-- 2020-12-30 — TGT plays OotD: Ep.2: Versi, the Oracle — speakers: King Pythor
+- 2020-12-30 — TGT plays OotD: Ep.2: Versi, the Oracle
 - 2020-12-30 — TGT plays OotD: Ep.1: Call to Adventure
-- 2020-12-30 — TGT plays OotD: Ep.0: Session Zero
+- 2020-12-30 — TGT plays OotD: Ep.0: Session Zero — speakers: Epic Fantasy
 - 2020-12-30 — TGT plays CoS: Ep.24: Castle Ravenloft — speakers: Castle Ravenloft
 - 2020-12-30 — TGT plays CoS: Ep.23: Der Wille zur Macht — speakers: Der Wille
 - 2020-12-30 — TGT plays CoS: Ep.22: Wachterhaus Redux — speakers: Wachterhaus Redux
 - 2020-12-30 — TGT plays CoS: Ep.21: The Search for Rubec
-- 2020-12-30 — TGT plays CoS: Ep.20: Unlikely Allies
-- 2020-12-30 — TGT plays CoS: Ep.19: End of an Era
-- 2020-12-30 — TGT plays CoS: Ep.18: The Amber Temple Pt.3
-- 2020-12-30 — TGT plays CoS: Ep.17: The Amber Temple Pt.2
-- 2020-12-30 — TGT plays CoS: Ep.16: The Amber Temple
-- 2020-12-30 — TGT plays CoS: Ep.15: Death in the Family
+- 2020-12-30 — TGT plays CoS: Ep.20: Unlikely Allies — speakers: Amber Temple
+- 2020-12-30 — TGT plays CoS: Ep.19: End of an Era — speakers: Amber Temple
+- 2020-12-30 — TGT plays CoS: Ep.18: The Amber Temple Pt.3 — speakers: Amber Temple
+- 2020-12-30 — TGT plays CoS: Ep.17: The Amber Temple Pt.2 — speakers: Amber Temple
+- 2020-12-30 — TGT plays CoS: Ep.16: The Amber Temple — speakers: Amber Temple
+- 2020-12-30 — TGT plays CoS: Ep.15: Death in the Family — speakers: Amber Temple
 - 2020-12-30 — TGT plays CoS: Ep.14: Gems of Growth
 - 2020-12-30 — TGT plays CoS: Ep.13: The Ruins of Berez — speakers: Baba Lysaga
 - 2020-12-30 — TGT plays CoS: Ep.12: The Vampiric Master — speakers: Dorian Ito
@@ -2323,9 +2347,9 @@
 - 2020-12-30 — TGT plays CoS: Ep.8: The Vistana
 - 2020-12-30 — TGT plays CoS: Ep.7: Festival of the Blazing Sun
 - 2020-12-30 — TGT plays CoS: Ep.6: Wachterhaus
-- 2020-12-30 — TGT plays CoS: Ep.5: St. Andral's Church — speakers: Lady Wachter
+- 2020-12-30 — TGT plays CoS: Ep.5: St. Andral's Church — speakers: Blue Water Inn
 - 2020-12-30 — TGT plays CoS: Ep.4: The Town of Vallaki
 - 2020-12-30 — TGT plays CoS: Ep.3: The Village of Barovia
 - 2020-12-30 — TGT plays CoS: Ep.2: Death House
-- 2020-12-30 — TGT plays CoS: Ep.1: Into the Mists
+- 2020-12-30 — TGT plays CoS: Ep.1: Into the Mists — speakers: returning players
 - 2020-12-30 — TGT plays CoS: Ep.0: Session Zero
