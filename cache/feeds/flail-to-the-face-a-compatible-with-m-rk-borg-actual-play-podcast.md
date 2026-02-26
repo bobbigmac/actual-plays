@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-02-20T15:55:57+00:00`
-- checked_at: `2026-02-20T15:55:57+00:00`
-- etag: `W/"62a27-UhRG2L8PWWHt5IjS0VSg37R+ceA"`
+- fetched_at: `2026-02-26T16:10:44+00:00`
+- checked_at: `2026-02-26T16:10:44+00:00`
+- etag: `W/"62a27-AlIWdEREukcvmGLGBfAxZPtaCcw"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-02-20T15:55:57+00:00",
+  "fetched_at": "2026-02-26T16:10:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,14 +38,7 @@
       "enclosure_length": "64453244",
       "itunes_duration": "00:43:14",
       "speakers": [
-        "Todd Shaughnessy",
-        "Daniel Thron",
-        "Chris Elliott",
-        "Richard Markert",
-        "Thomas Genno-Stumme",
-        "Dalton Walls",
-        "Tom Gambino",
-        "Collette Stellarno"
+        "Season Two"
       ],
       "topics": [
         "season",
@@ -64,16 +57,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100490412",
       "itunes_duration": "01:07:09",
-      "speakers": [
-        "Todd Shaughnessy",
-        "Daniel Thron",
-        "Chris Elliott",
-        "Richard Markert",
-        "Lee Iovis",
-        "Thomas Genno-Stume",
-        "Dalton Walls",
-        "Tom Gambino"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "coholics",
@@ -91,16 +75,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97661232",
       "itunes_duration": "01:07:17",
-      "speakers": [
-        "Thomas Genno-Stume",
-        "Dalton Walls",
-        "Felban Tom Gambino",
-        "Collette Stilano",
-        "Vagal Charles Paschke",
-        "Kevin Welch",
-        "Alex Grohl",
-        "Tom Gambino Video"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "holiday",
@@ -119,16 +94,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91888704",
       "itunes_duration": "01:00:24",
-      "speakers": [
-        "Todd Shaughnessy",
-        "Daniel Thron",
-        "Chris Elliott",
-        "Richard Markert",
-        "Lee Iovis",
-        "Thomas Genno-Stume",
-        "Dalton Walls",
-        "Tom Gambino"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "drink"
@@ -145,16 +111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83249016",
       "itunes_duration": "00:56:56",
-      "speakers": [
-        "Todd Shaughnessy",
-        "Daniel Thron",
-        "Richard Markert",
-        "Lee Iovis",
-        "Thomas Genno-Stume",
-        "Dalton Walls",
-        "Tom Gambino",
-        "Collette Stellarno"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "mommy"
@@ -171,16 +128,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96158499",
       "itunes_duration": "01:03:22",
-      "speakers": [
-        "Todd Shaughnessy",
-        "Daniel Thron",
-        "Chris Elliott",
-        "Thomas Genno-Stume",
-        "Dalton Walls",
-        "Tom Gambino",
-        "Collette Stellarno",
-        "Kevin Welch"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "welcome"
@@ -198,12 +146,8 @@
       "enclosure_length": "75035782",
       "itunes_duration": "01:08:59",
       "speakers": [
-        "Kaiju Poet",
-        "Kickstarter Cover",
-        "Kevin Welch",
-        "Levi Brusacoram",
-        "Audio Sfx",
-        "Twitter Instagram BlueSky"
+        "Season One",
+        "Post Flail Clarity"
       ],
       "topics": [
         "season",
@@ -224,7 +168,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "996384",
       "itunes_duration": "00:00:45",
-      "speakers": [],
+      "speakers": [
+        "Face Season Two Teaser",
+        "New Adventure",
+        "Season Two"
+      ],
       "topics": [
         "flail",
         "face",
@@ -247,12 +195,7 @@
       "speakers": [
         "Good Soup",
         "GM Tom Gambino",
-        "Hopeless Scvm",
-        "Fisk Baskins",
-        "Ian GreyTide Long Jake",
-        "Scott Bacula",
-        "Vaughn Thomas",
-        "Munkymoto Kevin"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -278,12 +221,7 @@
       "speakers": [
         "Good Soup",
         "GM Tom Gambino",
-        "Hopeless Scvm",
-        "Fisk Baskins",
-        "Ian GreyTide Long Jake",
-        "Scott Bacula",
-        "Vaughn Thomas",
-        "Munkymoto Kevin"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -307,14 +245,7 @@
       "enclosure_length": "60900437",
       "itunes_duration": "00:40:35",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Jake Vaughn",
-        "Rugose Kohn",
-        "Kevin Welch",
-        "Stockholm Kartell",
-        "Audio Sfx",
-        "Epidemic Sound Find"
+        "Season One"
       ],
       "topics": [
         "season",
@@ -333,14 +264,8 @@
       "enclosure_length": "99939694",
       "itunes_duration": "01:01:28",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Jake Vaughn",
-        "Walton Wood",
-        "Maryann Welch",
-        "Kevin Welch",
-        "Audio Sfx",
-        "Epidemic Sound Find"
+        "Season One",
+        "Ichorthorn Pt"
       ],
       "topics": [
         "season",
@@ -359,16 +284,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91288949",
       "itunes_duration": "00:59:20",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Jake Vaughn",
-        "Rugose Kohn",
-        "Walton Wood",
-        "Maryann Welch",
-        "Kevin Welch",
-        "Audio Sfx"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "ichorthorn"
@@ -385,16 +301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78564403",
       "itunes_duration": "00:49:50",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Jake Vaughn",
-        "Walton Wood",
-        "Maryann Welch",
-        "Kevin Welch",
-        "Audio Sfx",
-        "Epidemic Sound Find"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "ichorthorn",
@@ -413,15 +320,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90433484",
       "itunes_duration": "01:01:12",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Jake Vaughn",
-        "Kevin Welch",
-        "Audio Sfx",
-        "Epidemic Sound Find",
-        "Twitter Instagram BlueSky"
-      ],
+      "speakers": [],
       "topics": [
         "season"
       ]
@@ -438,14 +337,7 @@
       "enclosure_length": "61468951",
       "itunes_duration": "00:42:23",
       "speakers": [
-        "Hopeless Scvm",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Walton Wood",
-        "Rugose Kohn"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -468,14 +360,7 @@
       "enclosure_length": "78382536",
       "itunes_duration": "00:52:38",
       "speakers": [
-        "Hopeless Scvm",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Walton Wood",
-        "Rugose Kohn"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -496,14 +381,7 @@
       "enclosure_length": "118270527",
       "itunes_duration": "01:28:30",
       "speakers": [
-        "Daniel Harilla Carlsen",
-        "Makooti Jake",
-        "Djunn Thomas",
-        "Bracken Macleod Walt",
-        "Strega Wolf van",
-        "Daniel Harila Carlsen",
-        "Rugose Kohn",
-        "Bracken Macleod Cover"
+        "Daniel Harilla Carlsen"
       ],
       "topics": [
         "season",
@@ -528,14 +406,7 @@
       "enclosure_length": "61336749",
       "itunes_duration": "01:03:12",
       "speakers": [
-        "Daniel Harilla Carlsen",
-        "Bracken MacleodKevin",
-        "Strega Wolf van",
-        "Daniel Harila",
-        "Strega Wolf",
-        "Nick TregidgoCover",
-        "Daniel Harila Carlsen",
-        "Thomas Geno-Stumme"
+        "Daniel Harilla Carlsen"
       ],
       "topics": [
         "season",
@@ -560,14 +431,7 @@
       "enclosure_length": "108126091",
       "itunes_duration": "01:12:34",
       "speakers": [
-        "Daniel Harila Carlsen",
-        "Bracken MacleodKevin",
-        "Strega Wolf van",
-        "Daniel Harila",
-        "Strega Wolf",
-        "Nick TregidgoCover",
-        "Cannibal Chris",
-        "Kevin Welch"
+        "Daniel Harila Carlsen"
       ],
       "topics": [
         "season",
@@ -592,14 +456,7 @@
       "enclosure_length": "71621374",
       "itunes_duration": "00:51:40",
       "speakers": [
-        "Daniel Harila Carlsen",
-        "Brazen Blacksmith",
-        "Water Apothecary",
-        "Bracken MacleodKevin",
-        "Will Rixon",
-        "Strega Wolf van",
-        "Daniel Harila",
-        "Strega Wolf"
+        "Daniel Harila Carlsen"
       ],
       "topics": [
         "season",
@@ -626,14 +483,7 @@
       "enclosure_length": "84543725",
       "itunes_duration": "00:57:01",
       "speakers": [
-        "Daniel Harila Carlsen",
-        "Brazen Blacksmith",
-        "Strega Wolf van",
-        "Daniel Harila",
-        "Cannibal Chris",
-        "Kevin Welch",
-        "Levi Brusacoram",
-        "Bat AudioSFX"
+        "Daniel Harila Carlsen"
       ],
       "topics": [
         "season",
@@ -659,14 +509,7 @@
       "enclosure_length": "109299170",
       "itunes_duration": "01:15:41",
       "speakers": [
-        "Daniel Harila Carlsen",
-        "Daniel Harila",
-        "Carlsen Jake",
-        "Brazen Blacksmith",
-        "Ceph Thomas",
-        "Key Kevin",
-        "Will Rixon Walt",
-        "Strega Wolf van"
+        "Daniel Harila Carlsen"
       ],
       "topics": [
         "season",
@@ -692,14 +535,7 @@
       "enclosure_length": "55860305",
       "itunes_duration": "00:36:56",
       "speakers": [
-        "Levi Brusacoram",
-        "ZealotThomas Geno-Stumme",
-        "munkymotoKevin Welch",
-        "Christopher Heinrich",
-        "Rugose Kohn",
-        "Tommy Sunzenauer",
-        "Cannibal Chris",
-        "Kevin Welch"
+        "Season One"
       ],
       "topics": [
         "season",
@@ -719,16 +555,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47197158",
       "itunes_duration": "00:31:26",
-      "speakers": [
-        "Levi Brusacoram",
-        "ZealotThomas Geno-Stumme",
-        "munkymotoKevin Welch",
-        "Christopher Heinrich",
-        "Rugose Kohn",
-        "Tommy Sunzenauer",
-        "Cannibal Chris",
-        "Kevin Welch"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "dusk",
@@ -748,14 +575,7 @@
       "enclosure_length": "77472634",
       "itunes_duration": "00:49:45",
       "speakers": [
-        "Levi Brusacoram",
-        "ZealotThomas Geno-Stumme",
-        "munkymotoKevin Welch",
-        "Christopher Heinrich",
-        "Rugose Kohn",
-        "Tommy Sunzenauer",
-        "Cannibal Chris",
-        "Kevin Welch"
+        "Season One"
       ],
       "topics": [
         "season",
@@ -775,16 +595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92208684",
       "itunes_duration": "01:00:47",
-      "speakers": [
-        "Levi Brusacoram",
-        "ZealotThomas Geno-Stumme",
-        "Christopher Heinrich",
-        "Rugose Kohn",
-        "Tommy Sunzenauer",
-        "Cannibal Chris",
-        "Kevin Welch",
-        "Bat AudioSFX"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "dusk",
@@ -805,14 +616,9 @@
       "enclosure_length": "89025198",
       "itunes_duration": "00:59:32",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Rugose Kohn",
-        "Scorched Zealot"
+        "Season One",
+        "Messenger Upon",
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -833,14 +639,7 @@
       "enclosure_length": "110479124",
       "itunes_duration": "01:12:30",
       "speakers": [
-        "Jimmy Dean",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Rugose Kohn"
+        "Season One"
       ],
       "topics": [
         "season",
@@ -858,16 +657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84908014",
       "itunes_duration": "00:56:18",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Jvc Parry",
-        "Tommy Sunzenauer"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "chvrch",
@@ -889,14 +679,7 @@
       "enclosure_length": "80544886",
       "itunes_duration": "01:23:00",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Jvc Parry",
-        "Tommy Sunzenauer"
+        "deep under"
       ],
       "topics": [
         "season",
@@ -917,14 +700,8 @@
       "enclosure_length": "58190731",
       "itunes_duration": "00:59:58",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Jvc Parry",
-        "Tommy Sunzenauer"
+        "Season One",
+        "Cesstine Chapel"
       ],
       "topics": [
         "season",
@@ -946,14 +723,7 @@
       "enclosure_length": "63243487",
       "itunes_duration": "01:05:10",
       "speakers": [
-        "Hopeless Scvm",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Jvc Parry"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -975,14 +745,9 @@
       "enclosure_length": "74712727",
       "itunes_duration": "01:16:59",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Jvc Parry",
-        "Philip Jensen"
+        "Season One",
+        "Herd Finally",
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -1003,14 +768,7 @@
       "enclosure_length": "100078260",
       "itunes_duration": "01:43:08",
       "speakers": [
-        "Johan Nohr",
-        "Levi Brusacoram",
-        "Deuce Bigley",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich"
+        "Johan Nohr"
       ],
       "topics": [
         "season",
@@ -1034,14 +792,7 @@
       "enclosure_length": "70477170",
       "itunes_duration": "01:12:37",
       "speakers": [
-        "Rugose Kohn",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Long ijlong"
+        "Rugose Kohn"
       ],
       "topics": [
         "season",
@@ -1063,14 +814,7 @@
       "enclosure_length": "78170418",
       "itunes_duration": "01:20:33",
       "speakers": [
-        "John Baltisberger",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long"
+        "John Baltisberger"
       ],
       "topics": [
         "season",
@@ -1093,14 +837,7 @@
       "enclosure_length": "63331151",
       "itunes_duration": "01:05:15",
       "speakers": [
-        "Walton Wood",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long"
+        "Walton Wood"
       ],
       "topics": [
         "season",
@@ -1122,14 +859,7 @@
       "enclosure_length": "81736942",
       "itunes_duration": "01:01:31",
       "speakers": [
-        "Hopeless Scvm",
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long"
+        "Hopeless Scvm"
       ],
       "topics": [
         "season",
@@ -1150,16 +880,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "68945158",
       "itunes_duration": "01:11:03",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long",
-        "Rugose Kohn"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "doomkirk",
@@ -1178,14 +899,7 @@
       "enclosure_length": "86657891",
       "itunes_duration": "01:29:18",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long",
-        "Rugose Kohn"
+        "Season One"
       ],
       "topics": [
         "season",
@@ -1205,16 +919,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "74195892",
       "itunes_duration": "01:16:27",
-      "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long",
-        "Rugose Kohn"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "doomkirk",
@@ -1233,14 +938,9 @@
       "enclosure_length": "71483852",
       "itunes_duration": "01:13:40",
       "speakers": [
-        "Levi Brusacoram",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long",
-        "Rugose Kohn"
+        "Season One",
+        "Lights Out Confronted",
+        "Undead Begotten"
       ],
       "topics": [
         "season",
@@ -1259,16 +959,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "66700396",
       "itunes_duration": "01:08:44",
-      "speakers": [
-        "Levi Brusacoram",
-        "Fisk Baskins Lefty",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Christopher Heinrich",
-        "Ian Gray Tide Long"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "doomkirk",
@@ -1287,16 +978,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "74682620",
       "itunes_duration": "01:16:57",
-      "speakers": [
-        "Levi Brusacoram",
-        "Fisk Baskins",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Cedric Balthazar",
-        "Christopher Heinrich"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "finale",
@@ -1315,14 +997,7 @@
       "enclosure_length": "70257003",
       "itunes_duration": "01:12:24",
       "speakers": [
-        "Goblin Mode",
-        "Levi Brusacoram",
-        "Fisk Baskins",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Cedric Balthazar"
+        "Goblin Mode"
       ],
       "topics": [
         "season",
@@ -1342,14 +1017,9 @@
       "enclosure_length": "72303194",
       "itunes_duration": "01:14:30",
       "speakers": [
-        "Levi Brusacoram",
-        "Fisk Baskins",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Cedric Balthazar",
-        "Christopher Heinrich"
+        "Season One",
+        "Wall After",
+        "King Fathmu"
       ],
       "topics": [
         "season",
@@ -1369,14 +1039,7 @@
       "enclosure_length": "82812454",
       "itunes_duration": "01:25:20",
       "speakers": [
-        "Philip Jensen",
-        "Levi Brusacoram",
-        "Fisk Baskins",
-        "Thomas Geno-Stumme",
-        "Kevin Welch",
-        "Jake Vaughn",
-        "Nate Seibert",
-        "Cedric Balthazar"
+        "Philip Jensen"
       ],
       "topics": [
         "season"
@@ -1389,51 +1052,51 @@
 
 ## Episodes (newest first)
 
-- 2026-02-13 — Season Two, Episode Five: Of Ducks And Demons — speakers: Todd Shaughnessy, Daniel Thron, Chris Elliott, Richard Markert, Thomas Genno-Stumme, Dalton Walls, Tom Gambino, Collette Stellarno
-- 2026-01-23 — Season Two, Episode Four: Owl-Coholics Anonymous — speakers: Todd Shaughnessy, Daniel Thron, Chris Elliott, Richard Markert, Lee Iovis, Thomas Genno-Stume, Dalton Walls, Tom Gambino
-- 2025-12-25 — Season Two Holiday Special: The Gift — speakers: Thomas Genno-Stume, Dalton Walls, Felban Tom Gambino, Collette Stilano, Vagal Charles Paschke, Kevin Welch, Alex Grohl, Tom Gambino Video
-- 2025-12-12 — Season Two, Episode Three - Drink Me — speakers: Todd Shaughnessy, Daniel Thron, Chris Elliott, Richard Markert, Lee Iovis, Thomas Genno-Stume, Dalton Walls, Tom Gambino
-- 2025-11-21 — Season Two, Episode Two - Yes, Mommy — speakers: Todd Shaughnessy, Daniel Thron, Richard Markert, Lee Iovis, Thomas Genno-Stume, Dalton Walls, Tom Gambino, Collette Stellarno
-- 2025-10-31 — Season Two, Episode One - Welcome to HōL — speakers: Todd Shaughnessy, Daniel Thron, Chris Elliott, Thomas Genno-Stume, Dalton Walls, Tom Gambino, Collette Stellarno, Kevin Welch
-- 2025-03-28 — Season One, Episode 41: Post Flail Clarity: A Season One Retrospective — speakers: Kaiju Poet, Kickstarter Cover, Kevin Welch, Levi Brusacoram, Audio Sfx, Twitter Instagram BlueSky
-- 2025-03-17 — Flail to the Face Season Two Teaser: A HōL New Adventure!
-- 2025-02-14 — Season One, Episode 40: Holiday Special: Good Soup Pt.2 (with guest GM Tom Gambino) — speakers: Good Soup, GM Tom Gambino, Hopeless Scvm, Fisk Baskins, Ian GreyTide Long Jake, Scott Bacula, Vaughn Thomas, Munkymoto Kevin
-- 2024-12-27 — Season One, Episode 39: Holiday Special: Good Soup ( with guest GM Tom Gambino) — speakers: Good Soup, GM Tom Gambino, Hopeless Scvm, Fisk Baskins, Ian GreyTide Long Jake, Scott Bacula, Vaughn Thomas, Munkymoto Kevin
-- 2024-12-06 — Season One, Episode 38: Season 1 Finale: The End Of All — speakers: Levi Brusacoram, Thomas Geno-Stumme, Jake Vaughn, Rugose Kohn, Kevin Welch, Stockholm Kartell, Audio Sfx, Epidemic Sound Find
-- 2024-11-25 — Season One, Episode 37: Ichorthorn Pt. 3: Boar'd to Death — speakers: Levi Brusacoram, Thomas Geno-Stumme, Jake Vaughn, Walton Wood, Maryann Welch, Kevin Welch, Audio Sfx, Epidemic Sound Find
-- 2024-11-01 — Season One, Episode 36: Ichorthorn Pt. 2: Come for S'more — speakers: Levi Brusacoram, Thomas Geno-Stumme, Jake Vaughn, Rugose Kohn, Walton Wood, Maryann Welch, Kevin Welch, Audio Sfx
-- 2024-10-18 — Season One, Episode 35: Ichorthorn Pt. 1: Nugless at the Knuckle — speakers: Levi Brusacoram, Thomas Geno-Stumme, Jake Vaughn, Walton Wood, Maryann Welch, Kevin Welch, Audio Sfx, Epidemic Sound Find
-- 2024-10-07 — Season One, Episode 34: Bring Out Your Dead — speakers: Levi Brusacoram, Thomas Geno-Stumme, Jake Vaughn, Kevin Welch, Audio Sfx, Epidemic Sound Find, Twitter Instagram BlueSky
-- 2024-09-23 — Season One, Episode 33: Dusk Funnel Finale: Rise of the Worm (Ain't that some Sh*t) — speakers: Hopeless Scvm, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Walton Wood, Rugose Kohn
-- 2024-09-06 — Season One, Episode 32: The Dusk Funnel Pt. 5: It's Raining Scvm — speakers: Hopeless Scvm, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Walton Wood, Rugose Kohn
-- 2024-08-23 — Season One, Episode 31: Black Antlers Finale: Monolith (with Daniel Harilla Carlsen) — speakers: Daniel Harilla Carlsen, Makooti Jake, Djunn Thomas, Bracken Macleod Walt, Strega Wolf van, Daniel Harila Carlsen, Rugose Kohn, Bracken Macleod Cover
-- 2024-08-12 — Season One, Episode 30: Black Antlers Part 5: Horny in the Woods (with Daniel Harilla Carlsen) — speakers: Daniel Harilla Carlsen, Bracken MacleodKevin, Strega Wolf van, Daniel Harila, Strega Wolf, Nick TregidgoCover, Daniel Harila Carlsen, Thomas Geno-Stumme
-- 2024-07-26 — Season One, Episode 29: Black Antlers Part 4: Drink to the Dead (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen, Bracken MacleodKevin, Strega Wolf van, Daniel Harila, Strega Wolf, Nick TregidgoCover, Cannibal Chris, Kevin Welch
-- 2024-07-12 — Season One, Episode 28: Black Antlers Part 3: Pyro & Jotna's Wild Ride (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen, Brazen Blacksmith, Water Apothecary, Bracken MacleodKevin, Will Rixon, Strega Wolf van, Daniel Harila, Strega Wolf
-- 2024-06-28 — Season One, Episode 27: Black Antlers Part 2: Another Paul Bites the Dust (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen, Brazen Blacksmith, Strega Wolf van, Daniel Harila, Cannibal Chris, Kevin Welch, Levi Brusacoram, Bat AudioSFX
-- 2024-06-14 — Season One, Episode 26: Black Antlers Part 1: Frost and Groaning in Tuonela (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen, Daniel Harila, Carlsen Jake, Brazen Blacksmith, Ceph Thomas, Key Kevin, Will Rixon Walt, Strega Wolf van
-- 2024-05-31 — Season One, Episode 25: The Dusk Funnel Part 4: Off the Deep End Part 2 — speakers: Levi Brusacoram, ZealotThomas Geno-Stumme, munkymotoKevin Welch, Christopher Heinrich, Rugose Kohn, Tommy Sunzenauer, Cannibal Chris, Kevin Welch
-- 2024-05-17 — Season One, Episode 24: The Dusk Funnel Part 4: Off the Deep End Part 1 — speakers: Levi Brusacoram, ZealotThomas Geno-Stumme, munkymotoKevin Welch, Christopher Heinrich, Rugose Kohn, Tommy Sunzenauer, Cannibal Chris, Kevin Welch
-- 2024-05-03 — Season One, Episode 23: The Dusk Funnel Part 3: Buzzkill — speakers: Levi Brusacoram, ZealotThomas Geno-Stumme, munkymotoKevin Welch, Christopher Heinrich, Rugose Kohn, Tommy Sunzenauer, Cannibal Chris, Kevin Welch
-- 2024-04-19 — Season One, Episode 22: The Dusk Funnel Part 2: Powdah Rangahs — speakers: Levi Brusacoram, ZealotThomas Geno-Stumme, Christopher Heinrich, Rugose Kohn, Tommy Sunzenauer, Cannibal Chris, Kevin Welch, Bat AudioSFX
-- 2024-04-05 — Season One, Episode 21: The Dusk Funnel Part 1: Kill the Messenger — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Rugose Kohn, Scorched Zealot
-- 2024-03-22 — Season One, Episode 20: Myrvr Myrvr — speakers: Jimmy Dean, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Rugose Kohn
-- 2024-03-08 — Season One, Episode 19: Chvrch ov the Worm Finale: Tvrdwad's Curtain Call — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Jvc Parry, Tommy Sunzenauer
-- 2024-02-23 — Season One, Episode 18: Chvrch ov the Worm Part 4: The Avatvrd — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Jvc Parry, Tommy Sunzenauer
-- 2024-02-09 — Season One, Episode 17: Chvrch ov the Worm Part 3: Religious Crap — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Jvc Parry, Tommy Sunzenauer
-- 2024-01-26 — Season One, Episode 16: Chvrch ov the Worm Part 2: Knee Deep — speakers: Hopeless Scvm, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Jvc Parry
-- 2024-01-12 — Season One, Episode 15: Chvrch ov the Worm Part 1: Thinning the Herd — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Jvc Parry, Philip Jensen
-- 2023-12-29 — Season One, Episode 14: AntiChristmas Special: Unholy Nativity (with Johan Nohr) — speakers: Johan Nohr, Levi Brusacoram, Deuce Bigley, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich
-- 2023-12-15 — Season One, Episode 13: To Schleswig! Part 3: For the Birds (with Rugose Kohn) — speakers: Rugose Kohn, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Long ijlong
-- 2023-12-01 — Season One, Episode 12: To Schleswig! Part 2: Ulterior Motives (with John Baltisberger) — speakers: John Baltisberger, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long
-- 2023-11-17 — Season One, Episode 11: To Schleswig! Part 1: Hungry Like the Wolf (with Walton Wood) — speakers: Walton Wood, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long
-- 2023-11-03 — Season One, Episode 10: Doomkirk Finale: Exit Stage Left — speakers: Hopeless Scvm, Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long
-- 2023-10-20 — Season One, Episode 9: Doomkirk Part 5: Lay the Hammer Down — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long, Rugose Kohn
-- 2023-10-06 — Season One, Episode 8: Doomkirk Part 4: Gettin' Handsy — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long, Rugose Kohn
-- 2023-09-22 — Season One, Episode 7: Doomkirk Part 3: Behind Closed Doors — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long, Rugose Kohn
-- 2023-09-08 — Season One, Episode 6: Doomkirk Part 2: Lights Out — speakers: Levi Brusacoram, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long, Rugose Kohn
-- 2023-08-25 — Season One, Episode 5: Doomkirk Part 1: Skeleton Crew — speakers: Levi Brusacoram, Fisk Baskins Lefty, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Christopher Heinrich, Ian Gray Tide Long
-- 2023-08-11 — Season One, Episode 4: Trapped Within Finale: Slippery When Wet — speakers: Levi Brusacoram, Fisk Baskins, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Cedric Balthazar, Christopher Heinrich
-- 2023-07-28 — Season One, Episode 3: Trapped Within Part 3: Goblin Mode — speakers: Goblin Mode, Levi Brusacoram, Fisk Baskins, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Cedric Balthazar
-- 2023-07-14 — Season One, Episode 2: Trapped Within Part 2: Balls to the Wall — speakers: Levi Brusacoram, Fisk Baskins, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Cedric Balthazar, Christopher Heinrich
-- 2023-07-03 — Season One, Episode 1: Trapped Within Part 1: Does This Look Infected? — speakers: Philip Jensen, Levi Brusacoram, Fisk Baskins, Thomas Geno-Stumme, Kevin Welch, Jake Vaughn, Nate Seibert, Cedric Balthazar
+- 2026-02-13 — Season Two, Episode Five: Of Ducks And Demons — speakers: Season Two
+- 2026-01-23 — Season Two, Episode Four: Owl-Coholics Anonymous
+- 2025-12-25 — Season Two Holiday Special: The Gift
+- 2025-12-12 — Season Two, Episode Three - Drink Me
+- 2025-11-21 — Season Two, Episode Two - Yes, Mommy
+- 2025-10-31 — Season Two, Episode One - Welcome to HōL
+- 2025-03-28 — Season One, Episode 41: Post Flail Clarity: A Season One Retrospective — speakers: Season One, Post Flail Clarity
+- 2025-03-17 — Flail to the Face Season Two Teaser: A HōL New Adventure! — speakers: Face Season Two Teaser, New Adventure, Season Two
+- 2025-02-14 — Season One, Episode 40: Holiday Special: Good Soup Pt.2 (with guest GM Tom Gambino) — speakers: Good Soup, GM Tom Gambino, Hopeless Scvm
+- 2024-12-27 — Season One, Episode 39: Holiday Special: Good Soup ( with guest GM Tom Gambino) — speakers: Good Soup, GM Tom Gambino, Hopeless Scvm
+- 2024-12-06 — Season One, Episode 38: Season 1 Finale: The End Of All — speakers: Season One
+- 2024-11-25 — Season One, Episode 37: Ichorthorn Pt. 3: Boar'd to Death — speakers: Season One, Ichorthorn Pt
+- 2024-11-01 — Season One, Episode 36: Ichorthorn Pt. 2: Come for S'more
+- 2024-10-18 — Season One, Episode 35: Ichorthorn Pt. 1: Nugless at the Knuckle
+- 2024-10-07 — Season One, Episode 34: Bring Out Your Dead
+- 2024-09-23 — Season One, Episode 33: Dusk Funnel Finale: Rise of the Worm (Ain't that some Sh*t) — speakers: Hopeless Scvm
+- 2024-09-06 — Season One, Episode 32: The Dusk Funnel Pt. 5: It's Raining Scvm — speakers: Hopeless Scvm
+- 2024-08-23 — Season One, Episode 31: Black Antlers Finale: Monolith (with Daniel Harilla Carlsen) — speakers: Daniel Harilla Carlsen
+- 2024-08-12 — Season One, Episode 30: Black Antlers Part 5: Horny in the Woods (with Daniel Harilla Carlsen) — speakers: Daniel Harilla Carlsen
+- 2024-07-26 — Season One, Episode 29: Black Antlers Part 4: Drink to the Dead (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen
+- 2024-07-12 — Season One, Episode 28: Black Antlers Part 3: Pyro & Jotna's Wild Ride (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen
+- 2024-06-28 — Season One, Episode 27: Black Antlers Part 2: Another Paul Bites the Dust (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen
+- 2024-06-14 — Season One, Episode 26: Black Antlers Part 1: Frost and Groaning in Tuonela (with Daniel Harila Carlsen) — speakers: Daniel Harila Carlsen
+- 2024-05-31 — Season One, Episode 25: The Dusk Funnel Part 4: Off the Deep End Part 2 — speakers: Season One
+- 2024-05-17 — Season One, Episode 24: The Dusk Funnel Part 4: Off the Deep End Part 1
+- 2024-05-03 — Season One, Episode 23: The Dusk Funnel Part 3: Buzzkill — speakers: Season One
+- 2024-04-19 — Season One, Episode 22: The Dusk Funnel Part 2: Powdah Rangahs
+- 2024-04-05 — Season One, Episode 21: The Dusk Funnel Part 1: Kill the Messenger — speakers: Season One, Messenger Upon, Hopeless Scvm
+- 2024-03-22 — Season One, Episode 20: Myrvr Myrvr — speakers: Season One
+- 2024-03-08 — Season One, Episode 19: Chvrch ov the Worm Finale: Tvrdwad's Curtain Call
+- 2024-02-23 — Season One, Episode 18: Chvrch ov the Worm Part 4: The Avatvrd — speakers: deep under
+- 2024-02-09 — Season One, Episode 17: Chvrch ov the Worm Part 3: Religious Crap — speakers: Season One, Cesstine Chapel
+- 2024-01-26 — Season One, Episode 16: Chvrch ov the Worm Part 2: Knee Deep — speakers: Hopeless Scvm
+- 2024-01-12 — Season One, Episode 15: Chvrch ov the Worm Part 1: Thinning the Herd — speakers: Season One, Herd Finally, Hopeless Scvm
+- 2023-12-29 — Season One, Episode 14: AntiChristmas Special: Unholy Nativity (with Johan Nohr) — speakers: Johan Nohr
+- 2023-12-15 — Season One, Episode 13: To Schleswig! Part 3: For the Birds (with Rugose Kohn) — speakers: Rugose Kohn
+- 2023-12-01 — Season One, Episode 12: To Schleswig! Part 2: Ulterior Motives (with John Baltisberger) — speakers: John Baltisberger
+- 2023-11-17 — Season One, Episode 11: To Schleswig! Part 1: Hungry Like the Wolf (with Walton Wood) — speakers: Walton Wood
+- 2023-11-03 — Season One, Episode 10: Doomkirk Finale: Exit Stage Left — speakers: Hopeless Scvm
+- 2023-10-20 — Season One, Episode 9: Doomkirk Part 5: Lay the Hammer Down
+- 2023-10-06 — Season One, Episode 8: Doomkirk Part 4: Gettin' Handsy — speakers: Season One
+- 2023-09-22 — Season One, Episode 7: Doomkirk Part 3: Behind Closed Doors
+- 2023-09-08 — Season One, Episode 6: Doomkirk Part 2: Lights Out — speakers: Season One, Lights Out Confronted, Undead Begotten
+- 2023-08-25 — Season One, Episode 5: Doomkirk Part 1: Skeleton Crew
+- 2023-08-11 — Season One, Episode 4: Trapped Within Finale: Slippery When Wet
+- 2023-07-28 — Season One, Episode 3: Trapped Within Part 3: Goblin Mode — speakers: Goblin Mode
+- 2023-07-14 — Season One, Episode 2: Trapped Within Part 2: Balls to the Wall — speakers: Season One, Wall After, King Fathmu
+- 2023-07-03 — Season One, Episode 1: Trapped Within Part 1: Does This Look Infected? — speakers: Philip Jensen

@@ -2,9 +2,9 @@
 
 - slug: `curse-of-strahd-twice-bitten`
 - source: `https://anchor.fm/s/32a17340/podcast/rss`
-- fetched_at: `2026-02-21T07:03:15+00:00`
-- checked_at: `2026-02-21T07:03:15+00:00`
-- etag: `W/"e91bf-B1wXGXb+LP1xhARlhSCabmCi8MU"`
+- fetched_at: `2026-02-26T16:10:44+00:00`
+- checked_at: `2026-02-26T16:10:44+00:00`
+- etag: `W/"e91bf-50jhl1POmQ/YQ7DO5J+UPhCRVC4"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.twitch.tv/rcurseofstrahd",
   "description": "Six DMs return to the mists to run a completely Rules-As-Written Curse of Strahd campaign. Our core question: what happens when, rather than luring in a party of heroes or adventurers, the mists of Barovia claim a group of cowardly, cynical, selfish, and/or traumatized individuals who fall—not leap—into adventure? Join Jack, Kaiya, Linus, Tsarina, Twi and their DM DragnaCarta (creator of the popular Curse of Strahd: Reloaded guides) to follow the story of a group of ordinary people thrust headfirst into danger.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8394416/8394416-1598401058415-cbf84f94187b1.jpg",
-  "fetched_at": "2026-02-21T07:03:15+00:00",
+  "fetched_at": "2026-02-26T16:10:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -59,15 +59,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150955073",
       "itunes_duration": "01:18:37",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "epilogue"
@@ -84,15 +76,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185641025",
       "itunes_duration": "01:36:41",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "epilogue"
@@ -109,15 +93,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "259500345",
       "itunes_duration": "02:15:09",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "epilogue"
@@ -154,16 +130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182392387",
       "itunes_duration": "01:34:59",
-      "speakers": [
-        "Strahd von Zarovich",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "stand"
@@ -180,16 +147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "232847675",
       "itunes_duration": "02:01:16",
-      "speakers": [
-        "Strahd von Zarovich",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "stand"
@@ -228,14 +186,7 @@
       "enclosure_length": "252033616",
       "itunes_duration": "02:11:15",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -255,14 +206,7 @@
       "enclosure_length": "188763464",
       "itunes_duration": "01:38:18",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -303,7 +247,7 @@
       "enclosure_length": "1106920",
       "itunes_duration": "00:01:08",
       "speakers": [
-        "Castle Ravenloft"
+        "Twice Bitten"
       ],
       "topics": []
     },
@@ -319,14 +263,7 @@
       "enclosure_length": "118612362",
       "itunes_duration": "01:58:36",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -345,14 +282,7 @@
       "enclosure_length": "212920492",
       "itunes_duration": "01:28:42",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -391,14 +321,7 @@
       "enclosure_length": "208633698",
       "itunes_duration": "01:48:39",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -418,14 +341,7 @@
       "enclosure_length": "217030781",
       "itunes_duration": "01:53:01",
       "speakers": [
-        "Castle Ravenloft",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Castle Ravenloft"
       ],
       "topics": [
         "bitten",
@@ -464,15 +380,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "231353954",
       "itunes_duration": "02:00:29",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "long",
@@ -490,15 +398,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186122018",
       "itunes_duration": "01:17:33",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "long",
@@ -535,15 +435,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113110441",
       "itunes_duration": "01:54:24",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "bird",
@@ -561,15 +453,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105079752",
       "itunes_duration": "01:41:33",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "bird",
@@ -609,7 +493,7 @@
       "enclosure_length": "1106920",
       "itunes_duration": "00:01:08",
       "speakers": [
-        "Castle Ravenloft"
+        "Twice Bitten"
       ],
       "topics": []
     },
@@ -624,15 +508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91297888",
       "itunes_duration": "01:29:29",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "dark",
@@ -650,15 +526,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109484944",
       "itunes_duration": "01:45:44",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "dark",
@@ -696,15 +564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87853508",
       "itunes_duration": "01:28:13",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "sound",
@@ -722,15 +582,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127881332",
       "itunes_duration": "02:05:22",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "sound",
@@ -770,15 +622,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73391374",
       "itunes_duration": "01:13:08",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -794,15 +638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102482806",
       "itunes_duration": "01:42:24",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -839,15 +675,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83249258",
       "itunes_duration": "01:23:35",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "promise",
@@ -865,15 +693,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117595418",
       "itunes_duration": "01:52:55",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "promise",
@@ -891,15 +711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105770907",
       "itunes_duration": "01:46:13",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "amber",
@@ -917,15 +729,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111138027",
       "itunes_duration": "01:50:21",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "amber",
@@ -981,15 +785,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113893472",
       "itunes_duration": "01:50:19",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "perils",
@@ -1008,15 +804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84204632",
       "itunes_duration": "01:21:28",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "perils",
@@ -1035,7 +823,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11640161",
       "itunes_duration": "00:11:02",
-      "speakers": [],
+      "speakers": [
+        "Fireside Chat Rerun",
+        "Method Twice Bitten",
+        "Fireside Chat"
+      ],
       "topics": [
         "fireside",
         "chat",
@@ -1056,15 +848,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83984115",
       "itunes_duration": "01:21:58",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "tsolenka",
@@ -1082,15 +866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98140059",
       "itunes_duration": "01:34:18",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "tsolenka",
@@ -1147,15 +923,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82660892",
       "itunes_duration": "01:20:36",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "invitation"
@@ -1172,15 +940,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94628852",
       "itunes_duration": "01:33:54",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "invitation"
@@ -1217,15 +977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103212021",
       "itunes_duration": "01:41:15",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "fight",
@@ -1243,15 +995,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121167669",
       "itunes_duration": "01:58:53",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "fight",
@@ -1271,7 +1015,7 @@
       "itunes_duration": "00:13:07",
       "speakers": [
         "Adventuring Interviews",
-        "Lilissen Winterstar"
+        "Lilissen Winters"
       ],
       "topics": [
         "aerthrandir",
@@ -1291,15 +1035,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66462176",
       "itunes_duration": "01:06:45",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "order",
@@ -1318,15 +1054,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107604161",
       "itunes_duration": "01:48:05",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "order",
@@ -1383,15 +1111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86811311",
       "itunes_duration": "01:23:38",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "vengeful",
@@ -1409,15 +1129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138183839",
       "itunes_duration": "02:13:56",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "vengeful",
@@ -1455,15 +1167,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85747095",
       "itunes_duration": "01:27:00",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "journey",
@@ -1481,15 +1185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110185586",
       "itunes_duration": "01:50:51",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "journey",
@@ -1527,15 +1223,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86155014",
       "itunes_duration": "01:25:12",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "vampire"
@@ -1552,15 +1240,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143733486",
       "itunes_duration": "02:23:36",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "vampire"
@@ -1597,15 +1277,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63254567",
       "itunes_duration": "01:00:34",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "truth"
@@ -1622,15 +1294,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94370399",
       "itunes_duration": "01:29:24",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "truth"
@@ -1703,15 +1367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149216707",
       "itunes_duration": "02:26:15",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "parlor",
@@ -1729,15 +1385,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124935067",
       "itunes_duration": "02:01:41",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "parlor",
@@ -1775,15 +1423,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92990278",
       "itunes_duration": "01:29:52",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "atop",
@@ -1802,15 +1442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136582846",
       "itunes_duration": "02:11:32",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "atop",
@@ -1850,15 +1482,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134877385",
       "itunes_duration": "02:12:36",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "light",
@@ -1876,15 +1500,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111190081",
       "itunes_duration": "01:47:43",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "light",
@@ -1923,15 +1539,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127709547",
       "itunes_duration": "02:01:34",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "weapon",
@@ -1949,15 +1557,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126168627",
       "itunes_duration": "02:00:13",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "weapon",
@@ -1976,8 +1576,7 @@
       "enclosure_length": "8853695",
       "itunes_duration": "00:08:28",
       "speakers": [
-        "Fireside Chat",
-        "Rudolph van Richten"
+        "Fireside Chat"
       ],
       "topics": [
         "fireside",
@@ -1996,15 +1595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103001038",
       "itunes_duration": "01:43:07",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "veil"
@@ -2021,15 +1612,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122938413",
       "itunes_duration": "02:01:03",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "veil"
@@ -2047,8 +1630,7 @@
       "enclosure_length": "10890009",
       "itunes_duration": "00:10:20",
       "speakers": [
-        "Fireside Chat",
-        "Rudolph van Richten"
+        "Fireside Chat"
       ],
       "topics": [
         "fireside",
@@ -2067,15 +1649,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68780100",
       "itunes_duration": "01:07:43",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "secret",
@@ -2093,15 +1667,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "157149316",
       "itunes_duration": "02:28:48",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "secret",
@@ -2120,8 +1686,7 @@
       "enclosure_length": "11573826",
       "itunes_duration": "00:10:52",
       "speakers": [
-        "Fireside Chat",
-        "Rudolph van Richten"
+        "Fireside Chat"
       ],
       "topics": [
         "fireside",
@@ -2140,15 +1705,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111230958",
       "itunes_duration": "01:49:30",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -2164,15 +1721,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143675374",
       "itunes_duration": "02:18:57",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -2189,7 +1738,9 @@
       "enclosure_length": "10193082",
       "itunes_duration": "00:09:28",
       "speakers": [
-        "Rudolph Van Richten"
+        "Fireside Chat Rerun",
+        "Prep Vallaki Twice Bitten",
+        "Fireside Chat"
       ],
       "topics": [
         "fireside",
@@ -2210,15 +1761,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82847087",
       "itunes_duration": "01:21:39",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "richten",
@@ -2237,15 +1780,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145345861",
       "itunes_duration": "02:18:02",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "richten",
@@ -2285,14 +1820,7 @@
       "enclosure_length": "127295350",
       "itunes_duration": "02:05:31",
       "speakers": [
-        "Strahd von Zarovich",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Strahd von Zarovich"
       ],
       "topics": [
         "bitten",
@@ -2312,14 +1840,7 @@
       "enclosure_length": "118796541",
       "itunes_duration": "01:54:27",
       "speakers": [
-        "Strahd von Zarovich",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
+        "Strahd von Zarovich"
       ],
       "topics": [
         "bitten",
@@ -2360,15 +1881,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87484017",
       "itunes_duration": "01:25:26",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "twisted"
@@ -2385,15 +1898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129705025",
       "itunes_duration": "02:03:11",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "twisted"
@@ -2430,15 +1935,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "115828292",
       "itunes_duration": "01:59:22",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "abbey",
@@ -2456,15 +1953,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "106238307",
       "itunes_duration": "01:49:29",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "abbey",
@@ -2501,15 +1990,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97136747",
       "itunes_duration": "01:36:08",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "wounds"
@@ -2526,15 +2007,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142947376",
       "itunes_duration": "02:16:09",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "wounds"
@@ -2571,15 +2044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93119959",
       "itunes_duration": "01:33:15",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "sink",
@@ -2597,15 +2062,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125972370",
       "itunes_duration": "02:00:24",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "sink",
@@ -2642,15 +2099,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112562274",
       "itunes_duration": "01:53:33",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "kindness",
@@ -2668,15 +2117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102369916",
       "itunes_duration": "01:40:34",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "kindness",
@@ -2713,15 +2154,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "109593211",
       "itunes_duration": "01:52:56",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "feast",
@@ -2739,15 +2172,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "114130222",
       "itunes_duration": "01:57:37",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "feast",
@@ -2803,15 +2228,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148359500",
       "itunes_duration": "02:18:16",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "backroom",
@@ -2829,15 +2246,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124655396",
       "itunes_duration": "01:56:42",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "backroom",
@@ -2876,15 +2285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97056199",
       "itunes_duration": "01:33:55",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "absentia"
@@ -2901,15 +2302,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141013577",
       "itunes_duration": "02:11:30",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "absentia"
@@ -2965,15 +2358,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86320870",
       "itunes_duration": "01:24:26",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "return"
@@ -2990,15 +2375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140788196",
       "itunes_duration": "02:17:26",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "return"
@@ -3035,15 +2412,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127283731",
       "itunes_duration": "02:03:53",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "blood",
@@ -3061,15 +2430,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118761806",
       "itunes_duration": "01:55:22",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "blood",
@@ -3125,15 +2486,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94475637",
       "itunes_duration": "01:30:56",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "winery"
@@ -3150,15 +2503,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89287151",
       "itunes_duration": "01:23:48",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "winery"
@@ -3196,15 +2541,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81025118",
       "itunes_duration": "01:18:56",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "unsettled",
@@ -3222,15 +2559,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137890656",
       "itunes_duration": "02:09:21",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "unsettled",
@@ -3270,15 +2599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126676089",
       "itunes_duration": "02:03:19",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "midnight",
@@ -3296,15 +2617,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92377390",
       "itunes_duration": "01:29:04",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "midnight",
@@ -3344,15 +2657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152436694",
       "itunes_duration": "02:28:31",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "door"
@@ -3369,15 +2674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85854337",
       "itunes_duration": "01:19:53",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "door"
@@ -3414,15 +2711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124911934",
       "itunes_duration": "02:01:08",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "company",
@@ -3440,15 +2729,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100982111",
       "itunes_duration": "01:40:38",
-      "speakers": [
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "company",
@@ -3489,16 +2770,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94955643",
       "itunes_duration": "01:31:48",
-      "speakers": [
-        "Audience Survey",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "devil",
@@ -3516,16 +2788,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84016011",
       "itunes_duration": "01:21:46",
-      "speakers": [
-        "Audience Survey",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "devil",
@@ -3563,16 +2826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100356501",
       "itunes_duration": "01:36:27",
-      "speakers": [
-        "Audience Survey",
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "bastion",
@@ -3590,16 +2844,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98833501",
       "itunes_duration": "01:36:39",
-      "speakers": [
-        "Audience Survey",
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "bastion",
@@ -3637,16 +2882,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104060606",
       "itunes_duration": "01:40:49",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "dream"
@@ -3663,16 +2899,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105374534",
       "itunes_duration": "01:44:52",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "dream"
@@ -3709,16 +2936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62757881",
       "itunes_duration": "01:02:08",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -3734,16 +2952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93200513",
       "itunes_duration": "01:31:38",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten"
       ]
@@ -3779,16 +2988,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93525671",
       "itunes_duration": "01:32:06",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "worms",
@@ -3806,16 +3006,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71494871",
       "itunes_duration": "01:09:19",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "worms",
@@ -3853,16 +3044,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72139990",
       "itunes_duration": "01:08:11",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "spirit"
@@ -3879,16 +3061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84968398",
       "itunes_duration": "01:21:19",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "spirit"
@@ -3925,16 +3098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96528918",
       "itunes_duration": "01:33:20",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "restless",
@@ -3952,16 +3116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93330342",
       "itunes_duration": "01:29:08",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "restless",
@@ -3999,16 +3154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124942222",
       "itunes_duration": "02:02:02",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "firelight"
@@ -4025,16 +3171,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111077734",
       "itunes_duration": "01:48:41",
-      "speakers": [
-        "CurseofStrahd Discord",
-        "Stuart Chatwood",
-        "Stardew Valley Ost Music",
-        "Marcin Przybyłowicz",
-        "Scott Buckley",
-        "Cryo Chamber",
-        "Kevin MacLeod",
-        "Midnight Syndicate"
-      ],
+      "speakers": [],
       "topics": [
         "bitten",
         "firelight"
@@ -4068,172 +3205,172 @@
 ## Episodes (newest first)
 
 - 2022-03-02 — Aerthrandir's Adventuring Interviews: Strahd von Zarovich — speakers: Adventuring Interviews, Aerthrandir Aereal who
-- 2022-02-24 — Twice Bitten - Ep 053 [Part 3]: Epilogue — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2022-02-24 — Twice Bitten - Ep 053 [Part 2]: Epilogue — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2022-02-24 — Twice Bitten - Ep 053 [Part 1]: Epilogue — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2022-02-24 — Twice Bitten - Ep 053 [Part 3]: Epilogue
+- 2022-02-24 — Twice Bitten - Ep 053 [Part 2]: Epilogue
+- 2022-02-24 — Twice Bitten - Ep 053 [Part 1]: Epilogue
 - 2022-02-23 — Aerthrandir's Adventuring Interviews: Aerthrandir — speakers: Adventuring Interviews
-- 2022-02-17 — Twice Bitten - Ep 052 [Part 2]: The Last Stand — speakers: Strahd von Zarovich, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2022-02-17 — Twice Bitten - Ep 052 [Part 1]: The Last Stand — speakers: Strahd von Zarovich, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2022-02-17 — Twice Bitten - Ep 052 [Part 2]: The Last Stand
+- 2022-02-17 — Twice Bitten - Ep 052 [Part 1]: The Last Stand
 - 2022-02-16 — Aerthrandir's Adventuring Interviews: Caoimhe — speakers: Adventuring Interviews
-- 2022-02-03 — Twice Bitten - Ep 051 [Part 2]: The Heart of Sorrow — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2022-02-03 — Twice Bitten - Ep 051 [Part 1]: The Heart of Sorrow — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2022-02-03 — Twice Bitten - Ep 051 [Part 2]: The Heart of Sorrow — speakers: Castle Ravenloft
+- 2022-02-03 — Twice Bitten - Ep 051 [Part 1]: The Heart of Sorrow — speakers: Castle Ravenloft
 - 2022-02-02 — Fireside Chat - Ep. 51 with Cassi Mothwin — speakers: Fireside Chat
-- 2021-12-02 — We'll be back in 2022! — speakers: Castle Ravenloft
-- 2021-11-25 — Twice Bitten - Ep 050 [Part 2]: The Mouths of the Dead — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-11-25 — Twice Bitten - Ep 050 [Part 1]: The Mouths of the Dead — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-12-02 — We'll be back in 2022! — speakers: Twice Bitten
+- 2021-11-25 — Twice Bitten - Ep 050 [Part 2]: The Mouths of the Dead — speakers: Castle Ravenloft
+- 2021-11-25 — Twice Bitten - Ep 050 [Part 1]: The Mouths of the Dead — speakers: Castle Ravenloft
 - 2021-11-24 — Fireside Chat - Ep. 50 with Reckless Attack — speakers: Fireside Chat
-- 2021-11-18 — Twice Bitten - Ep 049 [Part 2]: Enter Ravenloft — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-11-18 — Twice Bitten - Ep 049 [Part 1]: Enter Ravenloft — speakers: Castle Ravenloft, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-11-18 — Twice Bitten - Ep 049 [Part 2]: Enter Ravenloft — speakers: Castle Ravenloft
+- 2021-11-18 — Twice Bitten - Ep 049 [Part 1]: Enter Ravenloft — speakers: Castle Ravenloft
 - 2021-11-17 — Fireside Chat - Ep. 49 with Jija — speakers: Fireside Chat
-- 2021-11-04 — Twice Bitten - Ep 048 [Part 2]: The Long Goodbye — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-11-04 — Twice Bitten - Ep 048 [Part 1]: The Long Goodbye — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-11-04 — Twice Bitten - Ep 048 [Part 2]: The Long Goodbye
+- 2021-11-04 — Twice Bitten - Ep 048 [Part 1]: The Long Goodbye
 - 2021-11-03 — Fireside Chat - Ep. 48 with LiteraryDM — speakers: Fireside Chat
-- 2021-10-28 — Twice Bitten - Ep 047 [Part 2]: Birds of a Feather — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-10-28 — Twice Bitten - Ep 047 [Part 1]: Birds of a Feather — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-10-28 — Twice Bitten - Ep 047 [Part 2]: Birds of a Feather
+- 2021-10-28 — Twice Bitten - Ep 047 [Part 1]: Birds of a Feather
 - 2021-10-27 — Aerthrandir's Adventuring Interviews: Amity — speakers: Adventuring Interviews
-- 2021-10-07 — We'll be back soon! — speakers: Castle Ravenloft
-- 2021-09-30 — Twice Bitten - Ep 046 [Part 2]: Dark Gifts — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-09-30 — Twice Bitten - Ep 046 [Part 1]: Dark Gifts — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-10-07 — We'll be back soon! — speakers: Twice Bitten
+- 2021-09-30 — Twice Bitten - Ep 046 [Part 2]: Dark Gifts
+- 2021-09-30 — Twice Bitten - Ep 046 [Part 1]: Dark Gifts
 - 2021-09-29 — Fireside Chat - Ep. 46 with MidlifeDices — speakers: Fireside Chat
-- 2021-09-16 — Twice Bitten - Ep 045 [Part 2]: Sound and Fury — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-09-16 — Twice Bitten - Ep 045 [Part 1]: Sound and Fury — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-09-16 — Twice Bitten - Ep 045 [Part 2]: Sound and Fury
+- 2021-09-16 — Twice Bitten - Ep 045 [Part 1]: Sound and Fury
 - 2021-09-15 — Fireside Chat - Ep. 45 with Todd Kleinpaste — speakers: Todd Kleinpaste, Fireside Chat
-- 2021-09-09 — Twice Bitten - Ep 044 [Part 2]: Do Not Go Gently — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-09-09 — Twice Bitten - Ep 044 [Part 1]: Do Not Go Gently — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-09-09 — Twice Bitten - Ep 044 [Part 2]: Do Not Go Gently
+- 2021-09-09 — Twice Bitten - Ep 044 [Part 1]: Do Not Go Gently
 - 2021-09-08 — Fireside Chat - Ep. 44 with Hayley from Party of 2 RPG — speakers: Fireside Chat
-- 2021-08-26 — Twice Bitten - Ep 043 [Part 2]: The Promise of Death — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-08-26 — Twice Bitten - Ep 043 [Part 1]: The Promise of Death — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-08-19 — Twice Bitten - Ep 042 [Part 2]: Into the Amber Temple — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-08-19 — Twice Bitten - Ep 042 [Part 1]: Into the Amber Temple — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-08-26 — Twice Bitten - Ep 043 [Part 2]: The Promise of Death
+- 2021-08-26 — Twice Bitten - Ep 043 [Part 1]: The Promise of Death
+- 2021-08-19 — Twice Bitten - Ep 042 [Part 2]: Into the Amber Temple
+- 2021-08-19 — Twice Bitten - Ep 042 [Part 1]: Into the Amber Temple
 - 2021-08-18 — Fireside Chat - Ep. 42 with MagicMissilePod — speakers: Fireside Chat
 - 2021-08-12 — We'll be back next week! — speakers: Twice Bitten
-- 2021-08-05 — Twice Bitten - Ep 041 [Part 2]: The Perils of Mount Ghakis — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-08-05 — Twice Bitten - Ep 041 [Part 1]: The Perils of Mount Ghakis — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-08-04 — Fireside Chat Rerun: SlyFlourish and the Lazy DM Method
-- 2021-07-29 — Twice Bitten - Ep 040 [Part 2]: Through Tsolenka Pass — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-07-29 — Twice Bitten - Ep 040 [Part 1]: Through Tsolenka Pass — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-08-05 — Twice Bitten - Ep 041 [Part 2]: The Perils of Mount Ghakis
+- 2021-08-05 — Twice Bitten - Ep 041 [Part 1]: The Perils of Mount Ghakis
+- 2021-08-04 — Fireside Chat Rerun: SlyFlourish and the Lazy DM Method — speakers: Fireside Chat Rerun, Method Twice Bitten, Fireside Chat
+- 2021-07-29 — Twice Bitten - Ep 040 [Part 2]: Through Tsolenka Pass
+- 2021-07-29 — Twice Bitten - Ep 040 [Part 1]: Through Tsolenka Pass
 - 2021-07-28 — Fireside Chat - Ep. 40 with AbyssalBrews — speakers: Fireside Chat, Matthew Ross
 - 2021-07-22 — We'll be back next week! — speakers: Twice Bitten
-- 2021-07-08 — Twice Bitten - Ep 039 [Part 2]: The Invitation — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-07-08 — Twice Bitten - Ep 039 [Part 1]: The Invitation — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-07-08 — Twice Bitten - Ep 039 [Part 2]: The Invitation
+- 2021-07-08 — Twice Bitten - Ep 039 [Part 1]: The Invitation
 - 2021-07-07 — Fireside Chat - Ep. 39 with Brytenwalda — speakers: Fireside Chat
-- 2021-07-01 — Twice Bitten - Ep 038 [Part 2]: Fight or Flight — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-07-01 — Twice Bitten - Ep 038 [Part 1]: Fight or Flight — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-06-30 — Aerthrandir's Adventuring Interviews: Lilissen — speakers: Adventuring Interviews, Lilissen Winterstar
-- 2021-06-24 — Twice Bitten - Ep 037 [Part 2]: Order of the Silver Dragon — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-06-24 — Twice Bitten - Ep 037 [Part 1]: Order of the Silver Dragon — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-07-01 — Twice Bitten - Ep 038 [Part 2]: Fight or Flight
+- 2021-07-01 — Twice Bitten - Ep 038 [Part 1]: Fight or Flight
+- 2021-06-30 — Aerthrandir's Adventuring Interviews: Lilissen — speakers: Adventuring Interviews, Lilissen Winters
+- 2021-06-24 — Twice Bitten - Ep 037 [Part 2]: Order of the Silver Dragon
+- 2021-06-24 — Twice Bitten - Ep 037 [Part 1]: Order of the Silver Dragon
 - 2021-06-23 — Fireside Chat - Ep. 37 with Kaiya — speakers: Fireside Chat
 - 2021-06-17 — We'll be back next week! — speakers: Twice Bitten
-- 2021-06-10 — Twice Bitten - Ep 036 [Part 2]: The Vengeful Dead — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-06-10 — Twice Bitten - Ep 036 [Part 1]: The Vengeful Dead — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-06-10 — Twice Bitten - Ep 036 [Part 2]: The Vengeful Dead
+- 2021-06-10 — Twice Bitten - Ep 036 [Part 1]: The Vengeful Dead
 - 2021-06-09 — Fireside Chat - Ep. 36 with DragnaCarta — speakers: Fireside Chat
-- 2021-06-03 — Twice Bitten - Ep 035 [Part 2]: Journey to Argynvostholt — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-06-03 — Twice Bitten - Ep 035 [Part 1]: Journey to Argynvostholt — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-06-03 — Twice Bitten - Ep 035 [Part 2]: Journey to Argynvostholt
+- 2021-06-03 — Twice Bitten - Ep 035 [Part 1]: Journey to Argynvostholt
 - 2021-06-02 — Fireside Chat - Ep. 35 with Linus — speakers: Fireside Chat
-- 2021-05-27 — Twice Bitten - Ep 034 [Part 2]: Interview With A Vampire — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-05-27 — Twice Bitten - Ep 034 [Part 1]: Interview With A Vampire — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-05-27 — Twice Bitten - Ep 034 [Part 2]: Interview With A Vampire
+- 2021-05-27 — Twice Bitten - Ep 034 [Part 1]: Interview With A Vampire
 - 2021-05-26 — Fireside Chat - Ep. 34 with Aciduous — speakers: Fireside Chat
-- 2021-05-20 — Twice Bitten - Ep 033 [Part 2]: Blistering Truths — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-05-20 — Twice Bitten - Ep 033 [Part 1]: Blistering Truths — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-05-20 — Twice Bitten - Ep 033 [Part 2]: Blistering Truths
+- 2021-05-20 — Twice Bitten - Ep 033 [Part 1]: Blistering Truths
 - 2021-05-19 — Aerthrandir's Adventuring Interviews: Metrion — speakers: Adventuring Interviews
 - 2021-05-13 — We’ll be back next week (for real this time)!
 - 2021-05-06 — We'll be back next week, but... — speakers: Twice Bitten
-- 2021-04-29 — Twice Bitten - Ep 032 [Part 2]: Parlor Tricks — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-29 — Twice Bitten - Ep 032 [Part 1]: Parlor Tricks — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-04-29 — Twice Bitten - Ep 032 [Part 2]: Parlor Tricks
+- 2021-04-29 — Twice Bitten - Ep 032 [Part 1]: Parlor Tricks
 - 2021-04-28 — Fireside Chat - Ep. 32 with DragnaCarta — speakers: Fireside Chat
-- 2021-04-22 — Twice Bitten - Ep 031 [Part 2]: Atop Yester Hill — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-22 — Twice Bitten - Ep 031 [Part 1]: Atop Yester Hill — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-04-22 — Twice Bitten - Ep 031 [Part 2]: Atop Yester Hill
+- 2021-04-22 — Twice Bitten - Ep 031 [Part 1]: Atop Yester Hill
 - 2021-04-21 — Fireside Chat - Ep. 31 with Dungeons and Dinners (Part 2) — speakers: Fireside Chat
-- 2021-04-15 — Twice Bitten - Ep 030 [Part 2]: A Light in the Dark — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-15 — Twice Bitten - Ep 030 [Part 1]: A Light in the Dark — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-04-15 — Twice Bitten - Ep 030 [Part 2]: A Light in the Dark
+- 2021-04-15 — Twice Bitten - Ep 030 [Part 1]: A Light in the Dark
 - 2021-04-14 — Fireside Chat - Ep. 30 with Dungeons and Dinners (Part 1) — speakers: Fireside Chat
-- 2021-04-08 — Twice Bitten - Ep 029 [Part 2]: A Weapon of Vengeance — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-08 — Twice Bitten - Ep 029 [Part 1]: A Weapon of Vengeance — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-07 — Fireside Chat - Ep. 29 with Aleks (Part 3) — speakers: Fireside Chat, Rudolph van Richten
-- 2021-04-01 — Twice Bitten - Ep 028 [Part 2]: Behind the Veil — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-04-01 — Twice Bitten - Ep 028 [Part 1]: Behind the Veil — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-31 — Fireside Chat - Ep. 28 with Aleks (Part 2) — speakers: Fireside Chat, Rudolph van Richten
-- 2021-03-25 — Twice Bitten - Ep 027 [Part 2]: Secrets of the Tarokka — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-25 — Twice Bitten - Ep 027 [Part 1]: Secrets of the Tarokka — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-24 — Fireside Chat - Ep. 27 with Aleks (Part 1) — speakers: Fireside Chat, Rudolph van Richten
-- 2021-03-18 — Twice Bitten - Ep 026 [Part 2]: All Will Be Well — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-18 — Twice Bitten - Ep 026 [Part 1]: All Will Be Well — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-17 — Fireside Chat Rerun: How to Prep Vallaki — speakers: Rudolph Van Richten
-- 2021-03-11 — Twice Bitten - Ep 025 [Part 2]: Van Richten's Guide to Vampires — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-11 — Twice Bitten - Ep 025 [Part 1]: Van Richten's Guide to Vampires — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-04-08 — Twice Bitten - Ep 029 [Part 2]: A Weapon of Vengeance
+- 2021-04-08 — Twice Bitten - Ep 029 [Part 1]: A Weapon of Vengeance
+- 2021-04-07 — Fireside Chat - Ep. 29 with Aleks (Part 3) — speakers: Fireside Chat
+- 2021-04-01 — Twice Bitten - Ep 028 [Part 2]: Behind the Veil
+- 2021-04-01 — Twice Bitten - Ep 028 [Part 1]: Behind the Veil
+- 2021-03-31 — Fireside Chat - Ep. 28 with Aleks (Part 2) — speakers: Fireside Chat
+- 2021-03-25 — Twice Bitten - Ep 027 [Part 2]: Secrets of the Tarokka
+- 2021-03-25 — Twice Bitten - Ep 027 [Part 1]: Secrets of the Tarokka
+- 2021-03-24 — Fireside Chat - Ep. 27 with Aleks (Part 1) — speakers: Fireside Chat
+- 2021-03-18 — Twice Bitten - Ep 026 [Part 2]: All Will Be Well
+- 2021-03-18 — Twice Bitten - Ep 026 [Part 1]: All Will Be Well
+- 2021-03-17 — Fireside Chat Rerun: How to Prep Vallaki — speakers: Fireside Chat Rerun, Prep Vallaki Twice Bitten, Fireside Chat
+- 2021-03-11 — Twice Bitten - Ep 025 [Part 2]: Van Richten's Guide to Vampires
+- 2021-03-11 — Twice Bitten - Ep 025 [Part 1]: Van Richten's Guide to Vampires
 - 2021-03-10 — Fireside Chat - Ep. 25 with Kaiya — speakers: Fireside Chat
-- 2021-03-04 — Twice Bitten - Ep 024 [Part 2]: Unrest in Krezk — speakers: Strahd von Zarovich, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-03-04 — Twice Bitten - Ep 024 [Part 1]: Unrest in Krezk — speakers: Strahd von Zarovich, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-03-04 — Twice Bitten - Ep 024 [Part 2]: Unrest in Krezk — speakers: Strahd von Zarovich
+- 2021-03-04 — Twice Bitten - Ep 024 [Part 1]: Unrest in Krezk — speakers: Strahd von Zarovich
 - 2021-03-03 — Fireside Chat - Ep. 24 with Sarah Frank — speakers: Sarah Frank, Fireside Chat
-- 2021-02-25 — Twice Bitten - Ep 023 [Part 2]: Twisted Reflections — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-02-25 — Twice Bitten - Ep 023 [Part 1]: Twisted Reflections — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-02-25 — Twice Bitten - Ep 023 [Part 2]: Twisted Reflections
+- 2021-02-25 — Twice Bitten - Ep 023 [Part 1]: Twisted Reflections
 - 2021-02-24 — Fireside Chat - Ep. 23 with Tsarina — speakers: Fireside Chat
-- 2021-02-18 — Twice Bitten - Ep 022 [Part 2]: The Abbey of St. Markovia — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-02-18 — Twice Bitten - Ep 022 [Part 1]: The Abbey of St. Markovia — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-02-18 — Twice Bitten - Ep 022 [Part 2]: The Abbey of St. Markovia
+- 2021-02-18 — Twice Bitten - Ep 022 [Part 1]: The Abbey of St. Markovia
 - 2021-02-17 — Fireside Chat - Ep. 22 with LastHitPointHero — speakers: Fireside Chat
-- 2021-02-11 — Twice Bitten - Ep 021 [Part 2]: Old Wounds — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-02-11 — Twice Bitten - Ep 021 [Part 1]: Old Wounds — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-02-11 — Twice Bitten - Ep 021 [Part 2]: Old Wounds
+- 2021-02-11 — Twice Bitten - Ep 021 [Part 1]: Old Wounds
 - 2021-02-10 — Fireside Chat - Ep. 21 with Mack — speakers: Fireside Chat
-- 2021-02-04 — Twice Bitten - Ep 020 [Part 2]: Sink or Swim — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-02-04 — Twice Bitten - Ep 020 [Part 1]: Sink or Swim — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-02-04 — Twice Bitten - Ep 020 [Part 2]: Sink or Swim
+- 2021-02-04 — Twice Bitten - Ep 020 [Part 1]: Sink or Swim
 - 2021-02-03 — Fireside Chat - Ep. 20 with Twi — speakers: Fireside Chat
-- 2021-01-28 — Twice Bitten - Ep 019 [Part 2]: The Kindness of Ravens — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-01-28 — Twice Bitten - Ep 019 [Part 1]: The Kindness of Ravens — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-01-28 — Twice Bitten - Ep 019 [Part 2]: The Kindness of Ravens
+- 2021-01-28 — Twice Bitten - Ep 019 [Part 1]: The Kindness of Ravens
 - 2021-01-27 — Fireside Chat - Ep. 19 with No Fun Allowed — speakers: Fireside Chat
-- 2021-01-21 — Twice Bitten - Ep 018 [Part 2]: The Feast of St. Andral — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2021-01-21 — Twice Bitten - Ep 018 [Part 1]: The Feast of St. Andral — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2021-01-21 — Twice Bitten - Ep 018 [Part 2]: The Feast of St. Andral
+- 2021-01-21 — Twice Bitten - Ep 018 [Part 1]: The Feast of St. Andral
 - 2021-01-20 — Fireside Chat - Ep. 18 with Harrison — speakers: Fireside Chat
 - 2020-12-31 — Holiday Hiatus and Recommendations, Pt 1
-- 2020-12-24 — Twice Bitten - Ep 017 [Part 2]: Backroom Deals — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-12-24 — Twice Bitten - Ep 017 [Part 1]: Backroom Deals — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-12-24 — Twice Bitten - Ep 017 [Part 2]: Backroom Deals
+- 2020-12-24 — Twice Bitten - Ep 017 [Part 1]: Backroom Deals
 - 2020-12-23 — Fireside Chat - Ep. 17 with The Alexandrian (Part 2) — speakers: Fireside Chat, Justin Alexander
-- 2020-12-17 — Twice Bitten - Ep 016 [Part 2]: In Absentia — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-12-17 — Twice Bitten - Ep 016 [Part 1]: In Absentia — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-12-17 — Twice Bitten - Ep 016 [Part 2]: In Absentia
+- 2020-12-17 — Twice Bitten - Ep 016 [Part 1]: In Absentia
 - 2020-12-16 — Fireside Chat - Ep. 16 with The Alexandrian (Part 1) — speakers: Fireside Chat, Justin Alexander
 - 2020-12-10 — We’ll be back next week! — speakers: Twice Bitten
-- 2020-12-03 — Twice Bitten - Ep 015 [Part 2]: Happy Returns — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-12-03 — Twice Bitten - Ep 015 [Part 1]: Happy Returns — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-12-03 — Twice Bitten - Ep 015 [Part 2]: Happy Returns
+- 2020-12-03 — Twice Bitten - Ep 015 [Part 1]: Happy Returns
 - 2020-12-02 — Fireside Chat - Ep. 15 with MandyMod (Part 2) — speakers: Fireside Chat
-- 2020-11-26 — Twice Bitten - Ep 014 [Part 2]: Blood on the Vines — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-11-26 — Twice Bitten - Ep 014 [Part 1]: Blood on the Vines — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-11-26 — Twice Bitten - Ep 014 [Part 2]: Blood on the Vines
+- 2020-11-26 — Twice Bitten - Ep 014 [Part 1]: Blood on the Vines
 - 2020-11-25 — Fireside Chat - Ep. 14 with MandyMod (Part 1) — speakers: Fireside Chat
 - 2020-11-19 — We’ll be back next week! — speakers: Twice Bitten
-- 2020-11-12 — Twice Bitten - Ep 013 [Part 2]: Within the Winery — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-11-12 — Twice Bitten - Ep 013 [Part 1]: Within the Winery — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-11-12 — Twice Bitten - Ep 013 [Part 2]: Within the Winery
+- 2020-11-12 — Twice Bitten - Ep 013 [Part 1]: Within the Winery
 - 2020-11-11 — Dragna Presents: Marks of Horror — speakers: Dragna Presents
-- 2020-11-05 — Twice Bitten - Ep 012 [Part 2]: Unsettled Bargains — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-11-05 — Twice Bitten - Ep 012 [Part 1]: Unsettled Bargains — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-11-05 — Twice Bitten - Ep 012 [Part 2]: Unsettled Bargains
+- 2020-11-05 — Twice Bitten - Ep 012 [Part 1]: Unsettled Bargains
 - 2020-11-04 — Dragna Presents: How to Prep Vallaki (In One Hour Or Less) — speakers: Dragna Presents
-- 2020-10-29 — Twice Bitten - Ep 011 [Part 2]: Midnight Visitors — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-10-29 — Twice Bitten - Ep 011 [Part 1]: Midnight Visitors — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-10-29 — Twice Bitten - Ep 011 [Part 2]: Midnight Visitors
+- 2020-10-29 — Twice Bitten - Ep 011 [Part 1]: Midnight Visitors
 - 2020-10-28 — Aerthrandir Presents: Wilderness Safety Tips — speakers: Aerthrandir Presents
-- 2020-10-22 — Twice Bitten - Ep 010 [Part 2]: Behind Closed Doors — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-10-22 — Twice Bitten - Ep 010 [Part 1]: Behind Closed Doors — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-10-22 — Twice Bitten - Ep 010 [Part 2]: Behind Closed Doors
+- 2020-10-22 — Twice Bitten - Ep 010 [Part 1]: Behind Closed Doors
 - 2020-10-21 — Lilissen Presents: A Guide to Enemy Etiquette
-- 2020-10-15 — Twice Bitten - Ep 009 [Part 2]: The Company of Wolves — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-10-15 — Twice Bitten - Ep 009 [Part 1]: The Company of Wolves — speakers: Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-10-15 — Twice Bitten - Ep 009 [Part 2]: The Company of Wolves
+- 2020-10-15 — Twice Bitten - Ep 009 [Part 1]: The Company of Wolves
 - 2020-10-14 — Dragna Presents: The Devil You Know (Anatomy of a Strahd Encounter) — speakers: Dragna Presents
-- 2020-10-08 — Twice Bitten - Ep 008 [Part 2]: The Devil's Crossroads — speakers: Audience Survey, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-10-08 — Twice Bitten - Ep 008 [Part 1]: The Devil's Crossroads — speakers: Audience Survey, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-10-08 — Twice Bitten - Ep 008 [Part 2]: The Devil's Crossroads
+- 2020-10-08 — Twice Bitten - Ep 008 [Part 1]: The Devil's Crossroads
 - 2020-10-07 — Fireside Chat - Ep. 8 with LunchBreakHeroes — speakers: Fireside Chat
-- 2020-10-01 — Twice Bitten - Ep 007 [Part 2]: Bastions of Hope — speakers: Audience Survey, CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod
-- 2020-10-01 — Twice Bitten - Ep 007 [Part 1]: Bastions of Hope — speakers: Audience Survey, CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod
+- 2020-10-01 — Twice Bitten - Ep 007 [Part 2]: Bastions of Hope
+- 2020-10-01 — Twice Bitten - Ep 007 [Part 1]: Bastions of Hope
 - 2020-09-30 — Fireside Chat - Ep. 7 with SlyFlourish — speakers: Fireside Chat
-- 2020-09-24 — Twice Bitten - Ep 006 [Part 2]: In Dreams — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-09-24 — Twice Bitten - Ep 006 [Part 1]: In Dreams — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-09-24 — Twice Bitten - Ep 006 [Part 2]: In Dreams
+- 2020-09-24 — Twice Bitten - Ep 006 [Part 1]: In Dreams
 - 2020-09-23 — Fireside Chat - Ep. 6 with Zephyr — speakers: Fireside Chat
-- 2020-09-17 — Twice Bitten - Ep 005 [Part 2]: One Must Die — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-09-17 — Twice Bitten - Ep 005 [Part 1]: One Must Die — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-09-17 — Twice Bitten - Ep 005 [Part 2]: One Must Die
+- 2020-09-17 — Twice Bitten - Ep 005 [Part 1]: One Must Die
 - 2020-09-16 — Fireside Chat - Ep. 5 with Jack — speakers: Fireside Chat
-- 2020-09-10 — Twice Bitten - Ep 004 [Part 2]: Worms In His Earth — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-09-10 — Twice Bitten - Ep 004 [Part 1]: Worms In His Earth — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-09-10 — Twice Bitten - Ep 004 [Part 2]: Worms In His Earth
+- 2020-09-10 — Twice Bitten - Ep 004 [Part 1]: Worms In His Earth
 - 2020-09-09 — Fireside Chat - Ep. 4 with Tsarina — speakers: Fireside Chat
-- 2020-09-03 — Twice Bitten - Ep 003 [Part 2]: Dwindling Spirits — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-09-03 — Twice Bitten - Ep 003 [Part 1]: Dwindling Spirits — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-09-03 — Twice Bitten - Ep 003 [Part 2]: Dwindling Spirits
+- 2020-09-03 — Twice Bitten - Ep 003 [Part 1]: Dwindling Spirits
 - 2020-09-02 — Fireside Chat - Ep. 3 with QuietKnowItAll — speakers: Fireside Chat
-- 2020-08-27 — Twice Bitten - Ep 002 [Part 2]: The Restless & The Damned — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-08-27 — Twice Bitten - Ep 002 [Part 1]: The Restless & The Damned — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-08-27 — Twice Bitten - Ep 002 [Part 2]: The Restless & The Damned
+- 2020-08-27 — Twice Bitten - Ep 002 [Part 1]: The Restless & The Damned
 - 2020-08-26 — Fireside Chat - Ep. 2 with Kaiya — speakers: Fireside Chat
-- 2020-08-20 — Twice Bitten - Ep 001 [Part 2]: Five By Firelight — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
-- 2020-08-20 — Twice Bitten - Ep 001 [Part 1]: Five By Firelight — speakers: CurseofStrahd Discord, Stuart Chatwood, Stardew Valley Ost Music, Marcin Przybyłowicz, Scott Buckley, Cryo Chamber, Kevin MacLeod, Midnight Syndicate
+- 2020-08-20 — Twice Bitten - Ep 001 [Part 2]: Five By Firelight
+- 2020-08-20 — Twice Bitten - Ep 001 [Part 1]: Five By Firelight
 - 2020-08-19 — Fireside Chat - Ep. 1 with DragnaCarta — speakers: Fireside Chat

@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-02-20T19:08:24+00:00`
-- checked_at: `2026-02-20T19:08:24+00:00`
-- last_modified: `Fri, 20 Feb 2026 17:07:14 GMT`
+- fetched_at: `2026-02-26T16:10:44+00:00`
+- checked_at: `2026-02-26T16:10:44+00:00`
+- last_modified: `Thu, 26 Feb 2026 15:21:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T19:08:24+00:00",
+  "fetched_at": "2026-02-26T16:10:44+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -32,17 +32,13 @@
       "published_at": "2026-02-20T17:00:00+00:00",
       "link": null,
       "description": "Welcome to Mystery Quest, where today we're playing Lasers & Feelings, a one page ruleset for space adventure! Follow the crew of the interstellar scout ship, Raptor, their mission: to explore uncharted regions of space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers! Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out the game here: https://johnharper.itch.io/lasers-feelings Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: https://www.youtube.com/angorytom Joseph: @apocplayers Lydia: https://twitch.tv/squidgame Dom: @ChaoticNRB Ben: @GamesNight Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/dab938dc-e24a-11f0-9e56-f786502c9fe2/image/e662b1d3bc7e3d6fa2563ac2e6c294fd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2011389337.mp3?updated=1771465637",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3513",
       "speakers": [
         "Mystery Quest",
-        "NW APFa",
-        "angorytom Joseph",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -62,9 +58,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5672",
       "speakers": [
-        "NW APFa",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -86,9 +79,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3472",
       "speakers": [
-        "NW APFa",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -113,9 +103,6 @@
         "Howdy Cowfolk",
         "Frontier Scum",
         "Karl Druid",
-        "NW APFa",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -137,10 +124,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7610",
       "speakers": [
-        "NW APFa",
-        "angorytom Ben",
-        "Alex Turner",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -159,10 +142,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5019",
       "speakers": [
-        "NW APFa",
-        "angorytom Ben",
-        "Alex Turner",
-        "Jack Bailey Learn",
+        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -181,9 +161,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4071",
       "speakers": [
-        "Mystery Quest",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": []
@@ -217,8 +194,6 @@
       "itunes_duration": "3419",
       "speakers": [
         "Mystery Quest",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": []
@@ -257,10 +232,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4008",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Joseph",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -283,10 +254,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3828",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Joseph",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
+        "Cthulhu Dark Ages",
         "Tom Bates"
       ],
       "topics": [
@@ -309,11 +277,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3856",
       "speakers": [
-        "Steersman Crom",
-        "Soothsayer Rune",
-        "Mystery Quest",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -336,10 +299,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3299",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Joseph",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -362,9 +321,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3418",
       "speakers": [
-        "Mystery Quest",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
+        "Cthulhu Dark Ages",
+        "Following Askr",
         "Tom Bates"
       ],
       "topics": [
@@ -387,12 +345,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4396",
       "speakers": [
-        "Michael Reid",
-        "Askr Yelloweye",
+        "Cthulhu Dark Ages",
         "Mystery Quest",
-        "angorytom Joseph",
-        "Oscar Henderson Thumbnail Art",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -416,9 +370,6 @@
       "itunes_duration": "4866",
       "speakers": [
         "Shadowdark Gauntlet",
-        "Mystery Quest",
-        "Oscar Henderson Thumbnail",
-        "Jack Bailey Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -442,8 +393,6 @@
       "itunes_duration": "4263",
       "speakers": [
         "Shadowdark Gauntlet",
-        "Mystery Quest",
-        "Oscar Henderson Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -467,8 +416,6 @@
       "itunes_duration": "3466",
       "speakers": [
         "Shadowdark Gauntlet",
-        "Mystery Quest",
-        "Oscar Henderson Learn",
         "Tom Bates"
       ],
       "topics": [
@@ -492,7 +439,6 @@
       "itunes_duration": "5022",
       "speakers": [
         "Shadowdark Gauntlet",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -515,7 +461,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4779",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -536,9 +481,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3742",
       "speakers": [
-        "Falk Smulder",
-        "Dane Escalé",
-        "Mystery Quest",
+        "Falk Smul",
         "Tom Bates"
       ],
       "topics": [
@@ -559,7 +502,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4365",
       "speakers": [
-        "Mystery Quest",
+        "Delta Green",
         "Tom Bates"
       ],
       "topics": [
@@ -580,8 +523,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3796",
       "speakers": [
-        "Peggy Wiggam",
-        "Mystery Quest",
+        "Delta Green",
         "Tom Bates"
       ],
       "topics": [
@@ -602,7 +544,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4069",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -625,10 +566,6 @@
       "speakers": [
         "Shut Eye",
         "Agents Sloan",
-        "Scott Adams",
-        "Jane Allen",
-        "Billy Ray Spivey",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -651,10 +588,6 @@
       "speakers": [
         "Shut Eye",
         "Agents Sloan",
-        "Scott Adams",
-        "Jane Allen",
-        "Billy Ray Spivey",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -675,7 +608,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4440",
       "speakers": [
-        "Mystery Quest",
+        "kooky ali",
         "Tom Bates"
       ],
       "topics": [
@@ -696,8 +629,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6119",
       "speakers": [
-        "Dominic Allen",
-        "Philip Pip Carrington",
         "Tom Bates"
       ],
       "topics": [
@@ -719,6 +650,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4281",
       "speakers": [
+        "Delta Green",
         "Mystery Quest",
         "Tom Bates"
       ],
@@ -740,7 +672,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3075",
       "speakers": [
-        "Mystery Quest",
+        "Dead Light",
         "Tom Bates"
       ],
       "topics": [
@@ -761,7 +693,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3824",
       "speakers": [
-        "Mystery Quest",
+        "Dead Light",
         "Tom Bates"
       ],
       "topics": [
@@ -783,7 +715,6 @@
       "itunes_duration": "3510",
       "speakers": [
         "Mrs Miggins",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -804,8 +735,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4596",
       "speakers": [
-        "Mrs Miggins",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -826,7 +755,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3135",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -846,6 +774,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4056",
       "speakers": [
+        "My Lovebot",
+        "Kill Me",
         "Mystery Quest",
         "Tom Bates"
       ],
@@ -866,7 +796,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5281",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -886,7 +815,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5063",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -906,7 +834,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4431",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -946,8 +873,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3435",
       "speakers": [
-        "Mystery Quest",
-        "Alex Kolodotschko",
+        "Day Before",
         "Tom Bates"
       ],
       "topics": [
@@ -967,8 +893,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3682",
       "speakers": [
-        "Mystery Quest",
-        "Alex Kolodotschko",
+        "Day Before",
         "Tom Bates"
       ],
       "topics": [
@@ -988,8 +913,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3550",
       "speakers": [
-        "Mystery Quest",
-        "Alex Kolodotschko",
+        "Day Before",
         "Tom Bates"
       ],
       "topics": [
@@ -1009,8 +933,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4229",
       "speakers": [
-        "Mystery Quest",
-        "Alex Kolodotschko",
+        "Day Before",
         "Tom Bates"
       ],
       "topics": [
@@ -1030,7 +953,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6113",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1052,9 +974,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4461",
       "speakers": [
-        "Mystery Quest",
-        "com call-of-cthulhu-rules",
-        "angorytom Ross",
         "Tom Bates"
       ],
       "topics": [
@@ -1074,10 +993,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4290",
       "speakers": [
-        "Lawrence Warwick",
-        "Mystery Quest",
-        "com call-of-cthulhu-rules",
-        "angorytom Ross",
         "Tom Bates"
       ],
       "topics": [
@@ -1098,9 +1013,6 @@
       "itunes_duration": "4566",
       "speakers": [
         "Arkham Massachusetts",
-        "Mystery Quest",
-        "com call-of-cthulhu-rules",
-        "angorytom Ross",
         "Tom Bates"
       ],
       "topics": [
@@ -1120,7 +1032,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4421",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1140,7 +1051,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3618",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1160,7 +1070,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4175",
       "speakers": [
-        "Mystery Quest",
+        "Liminal Horror",
         "Tom Bates"
       ],
       "topics": [
@@ -1181,8 +1091,6 @@
       "itunes_duration": "5400",
       "speakers": [
         "Rum Key",
-        "Mystery Quest",
-        "angorytom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1203,9 +1111,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3655",
       "speakers": [
-        "Burchard Brown Beard",
-        "Mystery Quest",
-        "angorytom Ben",
+        "Pirate Borg",
         "Tom Bates"
       ],
       "topics": [
@@ -1226,9 +1132,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3997",
       "speakers": [
-        "Burchard Brown Beard",
-        "Mystery Quest",
-        "angorytom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1249,8 +1152,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4770",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1271,8 +1172,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4136",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Ben",
+        "Three Requests",
         "Tom Bates"
       ],
       "topics": [
@@ -1292,9 +1192,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5454",
       "speakers": [
-        "Bunji Mitake",
-        "Mystery Quest",
-        "angorytom Ben",
+        "Three Requests",
         "Tom Bates"
       ],
       "topics": [
@@ -1314,9 +1212,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3923",
       "speakers": [
-        "Bunji Mitake",
-        "Mystery Quest",
-        "angorytom Ben",
+        "Three Requests",
+        "Tokyo Tattler",
         "Tom Bates"
       ],
       "topics": [
@@ -1336,8 +1233,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4658",
       "speakers": [
-        "Mystery Quest",
-        "angorytom Ben",
+        "Three Requests",
         "Tom Bates"
       ],
       "topics": [
@@ -1357,8 +1253,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4722",
       "speakers": [
-        "John Johnson",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1418,7 +1312,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5208",
       "speakers": [
-        "Jingle Jam",
+        "Mystery Quest",
+        "Christmas Odyssey",
+        "No Rolls Barred",
         "Tom Bates"
       ],
       "topics": [
@@ -1440,7 +1336,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5521",
       "speakers": [
-        "Jingle Jam",
+        "Mystery Quest",
+        "Christmas Odyssey",
+        "No Rolls Barred",
         "Tom Bates"
       ],
       "topics": [
@@ -1462,8 +1360,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6427",
       "speakers": [
-        "Mystery Quest",
-        "AngoryTom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1485,8 +1381,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5239",
       "speakers": [
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1505,8 +1399,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3795",
       "speakers": [
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1525,10 +1417,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3944",
       "speakers": [
-        "Kirsten Blood",
-        "Mac Adam",
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1547,8 +1435,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3884",
       "speakers": [
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1567,8 +1453,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3572",
       "speakers": [
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1587,9 +1471,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4066",
       "speakers": [
-        "Joel Hines",
-        "Mystery Quest",
-        "GM Tom",
         "Tom Bates"
       ],
       "topics": [
@@ -1608,8 +1489,9 @@
       "enclosure_length": "0",
       "itunes_duration": "6573",
       "speakers": [
+        "Bit Deeper Welcome",
         "Mystery Quest",
-        "angorytom Ben",
+        "Bit Deeper",
         "Tom Bates"
       ],
       "topics": [
@@ -1628,8 +1510,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4449",
       "speakers": [
-        "Harry O’Brien",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1650,8 +1530,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4904",
       "speakers": [
-        "Cornelius Doyle",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1672,7 +1550,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4311",
       "speakers": [
-        "Phil Anderson",
         "Mystery Quest",
         "Tom Bates"
       ],
@@ -1694,8 +1571,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4889",
       "speakers": [
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1716,8 +1591,6 @@
       "itunes_duration": "4934",
       "speakers": [
         "Alien Rpg",
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1738,8 +1611,6 @@
       "itunes_duration": "3533",
       "speakers": [
         "Alien Rpg",
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1760,8 +1631,6 @@
       "itunes_duration": "4106",
       "speakers": [
         "Alien Rpg",
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1782,8 +1651,6 @@
       "itunes_duration": "3380",
       "speakers": [
         "Alien Rpg",
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1804,8 +1671,6 @@
       "itunes_duration": "3617",
       "speakers": [
         "Alien Rpg",
-        "Mystery Quest",
-        "Chris Trott",
         "Tom Bates"
       ],
       "topics": [
@@ -1825,8 +1690,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5071",
       "speakers": [
-        "Mystery Quest",
-        "Chris Trott",
+        "Roleplaying Game",
+        "Free League Publishi",
         "Tom Bates"
       ],
       "topics": [
@@ -1846,12 +1711,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3757",
       "speakers": [
-        "Doug Custard",
-        "Candice Custard",
-        "Murvin Wendel",
-        "Johnny Sins",
-        "Mystery Quest",
-        "AngoryTom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1872,8 +1731,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4687",
       "speakers": [
-        "Mystery Quest",
-        "AngoryTom Ben",
         "Tom Bates"
       ],
       "topics": [
@@ -1894,8 +1751,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7199",
       "speakers": [
-        "Mystery Quest",
-        "AngoryTom Ben",
+        "Thousand Year Old Vampire",
+        "Ben Welcome",
         "Tom Bates"
       ],
       "topics": [
@@ -1916,7 +1773,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4911",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1937,8 +1793,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5216",
       "speakers": [
-        "Reepy Cheep",
-        "Mystery Quest",
+        "Prince Peeps Piddle",
         "Tom Bates"
       ],
       "topics": [
@@ -1959,7 +1814,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4045",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -1980,7 +1834,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5495",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2002,8 +1855,6 @@
       "itunes_duration": "4477",
       "speakers": [
         "Ross’s Corner",
-        "Maggie McFurter",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2025,7 +1876,6 @@
       "itunes_duration": "3647",
       "speakers": [
         "Rupert Merriweather",
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2086,7 +1936,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4646",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2106,7 +1955,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4960",
       "speakers": [
-        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2126,7 +1974,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5896",
       "speakers": [
-        "Mystery Quest",
+        "Thousand Year Old Vampire",
+        "Pyrion Flax Welcome",
         "Tom Bates"
       ],
       "topics": [
@@ -2149,6 +1998,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3761",
       "speakers": [
+        "Dino Island",
         "Tom Bates"
       ],
       "topics": [
@@ -2168,7 +2018,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3954",
       "speakers": [
-        "Mystery Quest",
+        "Dino Island",
         "Tom Bates"
       ],
       "topics": [
@@ -2188,9 +2038,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5262",
       "speakers": [
-        "Sam Tung",
-        "Sam Roberts",
-        "Mystery Quest",
+        "Dino Island",
         "Tom Bates"
       ],
       "topics": [
@@ -2211,7 +2059,6 @@
       "itunes_duration": "3514",
       "speakers": [
         "Reaper Repo",
-        "Steel Jackhammer",
         "Tom Bates"
       ],
       "topics": [
@@ -2231,7 +2078,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3915",
       "speakers": [
-        "Dr Frankel",
         "Tom Bates"
       ],
       "topics": [
@@ -2375,6 +2221,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2934",
       "speakers": [
+        "Forget Me Not",
         "Tom Bates"
       ],
       "topics": [
@@ -2430,7 +2277,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3004",
       "speakers": [
-        "Mystery Quest",
+        "Forget Me Not",
         "Tom Bates"
       ],
       "topics": [
@@ -2489,7 +2336,6 @@
       "itunes_duration": "4548",
       "speakers": [
         "Honey Heist",
-        "Jingle Jam",
         "Tom Bates"
       ],
       "topics": [
@@ -2690,6 +2536,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7902",
       "speakers": [
+        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2808,6 +2655,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4347",
       "speakers": [
+        "Mystery Quest",
         "Tom Bates"
       ],
       "topics": [
@@ -2881,120 +2729,120 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Lasers & Feelings #1 — speakers: Mystery Quest, NW APFa, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2026-02-13 — Frontier Scum: Escape the Organ Rail #3 — speakers: NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2026-02-06 — Frontier Scum: Escape the Organ Rail #2 — speakers: NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2026-01-30 — Frontier Scum: Escape the Organ Rail #1 — speakers: Howdy Cowfolk, Frontier Scum, Karl Druid, NW APFa, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2026-01-23 — Eat the Reich #2 — speakers: NW APFa, angorytom Ben, Alex Turner, Jack Bailey Learn, Tom Bates
-- 2026-01-21 — Eat the Reich #1 — speakers: NW APFa, angorytom Ben, Alex Turner, Jack Bailey Learn, Tom Bates
-- 2026-01-09 — Into the Odd: Turn it Off #3 — speakers: Mystery Quest, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
+- 2026-02-20 — Lasers & Feelings #1 — speakers: Mystery Quest, Tom Bates
+- 2026-02-13 — Frontier Scum: Escape the Organ Rail #3 — speakers: Tom Bates
+- 2026-02-06 — Frontier Scum: Escape the Organ Rail #2 — speakers: Tom Bates
+- 2026-01-30 — Frontier Scum: Escape the Organ Rail #1 — speakers: Howdy Cowfolk, Frontier Scum, Karl Druid, Tom Bates
+- 2026-01-23 — Eat the Reich #2 — speakers: Tom Bates
+- 2026-01-21 — Eat the Reich #1 — speakers: Mystery Quest, Tom Bates
+- 2026-01-09 — Into the Odd: Turn it Off #3 — speakers: Tom Bates
 - 2026-01-02 — Into the Odd: Turn it Off #2 — speakers: Tom Bates
-- 2025-12-26 — Into the Odd: Turn it Off #1 — speakers: Mystery Quest, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
+- 2025-12-26 — Into the Odd: Turn it Off #1 — speakers: Mystery Quest, Tom Bates
 - 2025-12-19 — Jingle Dread: Reckoning (Jingle Jam Special) — speakers: Jingle Dread, Jingle Jam Special, Tom Bates
-- 2025-12-12 — Cthulhu Dark Ages: Branches of Bone #6 — speakers: Mystery Quest, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-12-05 — Cthulhu Dark Ages: Branches of Bone #5 — speakers: Mystery Quest, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-11-28 — Cthulhu Dark Ages: Branches of Bone #4 — speakers: Steersman Crom, Soothsayer Rune, Mystery Quest, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-11-21 — Cthulhu Dark Ages: Branches of Bone #3 — speakers: Mystery Quest, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-11-14 — Cthulhu Dark Ages: Branches of Bone #2 — speakers: Mystery Quest, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-11-07 — Cthulhu Dark Ages: Branches of Bone #1 — speakers: Michael Reid, Askr Yelloweye, Mystery Quest, angorytom Joseph, Oscar Henderson Thumbnail Art, Jack Bailey Learn, Tom Bates
-- 2025-10-31 — Shadowdark Gauntlet: Trial of the Slime Lord #4 — speakers: Shadowdark Gauntlet, Mystery Quest, Oscar Henderson Thumbnail, Jack Bailey Learn, Tom Bates
-- 2025-10-24 — Shadowdark Gauntlet: Trial of the Slime Lord #3 — speakers: Shadowdark Gauntlet, Mystery Quest, Oscar Henderson Learn, Tom Bates
-- 2025-10-17 — Shadowdark Gauntlet: Trial of the Slime Lord #2 — speakers: Shadowdark Gauntlet, Mystery Quest, Oscar Henderson Learn, Tom Bates
-- 2025-10-10 — Shadowdark Gauntlet: Trial of the Slime Lord #1 — speakers: Shadowdark Gauntlet, Mystery Quest, Tom Bates
-- 2025-10-03 — Delta Green: Convergence #9 — speakers: Mystery Quest, Tom Bates
-- 2025-09-26 — Delta Green: Convergence #8 — speakers: Falk Smulder, Dane Escalé, Mystery Quest, Tom Bates
-- 2025-09-19 — Delta Green: Convergence #7 — speakers: Mystery Quest, Tom Bates
-- 2025-09-12 — Delta Green: Convergence #6 — speakers: Peggy Wiggam, Mystery Quest, Tom Bates
-- 2025-09-05 — Delta Green: Convergence #5 — speakers: Mystery Quest, Tom Bates
-- 2025-08-29 — Delta Green: Convergence #4 — speakers: Shut Eye, Agents Sloan, Scott Adams, Jane Allen, Billy Ray Spivey, Mystery Quest, Tom Bates
-- 2025-08-22 — Delta Green: Convergence #3 — speakers: Shut Eye, Agents Sloan, Scott Adams, Jane Allen, Billy Ray Spivey, Mystery Quest, Tom Bates
-- 2025-08-15 — Delta Green: Convergence #2 — speakers: Mystery Quest, Tom Bates
-- 2025-08-14 — Introducing The Apocalypse Players ft Tom - The Order of the Stone 01 — speakers: Dominic Allen, Philip Pip Carrington, Tom Bates
-- 2025-08-08 — Delta Green: Convergence #1 — speakers: Mystery Quest, Tom Bates
-- 2025-08-01 — Call of Cthulhu: Dead Light #4 — speakers: Mystery Quest, Tom Bates
-- 2025-07-25 — Call of Cthulhu: Dead Light #3 — speakers: Mystery Quest, Tom Bates
-- 2025-07-18 — Call of Cthulhu: Dead Light #2 — speakers: Mrs Miggins, Mystery Quest, Tom Bates
-- 2025-07-11 — Call of Cthulhu: Dead Light #1 — speakers: Mrs Miggins, Mystery Quest, Tom Bates
-- 2025-07-04 — Mothership: My Lovebot is Trying to Kill Me #2 — speakers: Mystery Quest, Tom Bates
-- 2025-06-27 — Mothership: My Lovebot is Trying to Kill Me! #1 — speakers: Mystery Quest, Tom Bates
-- 2025-06-20 — Grotten: 1 Bit Deeper with Alex — speakers: Mystery Quest, Tom Bates
-- 2025-06-13 — Mothership: Year of the Rat #3 — speakers: Mystery Quest, Tom Bates
-- 2025-06-06 — Mothership: Year of the Rat #2 — speakers: Mystery Quest, Tom Bates
+- 2025-12-12 — Cthulhu Dark Ages: Branches of Bone #6 — speakers: Tom Bates
+- 2025-12-05 — Cthulhu Dark Ages: Branches of Bone #5 — speakers: Cthulhu Dark Ages, Tom Bates
+- 2025-11-28 — Cthulhu Dark Ages: Branches of Bone #4 — speakers: Tom Bates
+- 2025-11-21 — Cthulhu Dark Ages: Branches of Bone #3 — speakers: Tom Bates
+- 2025-11-14 — Cthulhu Dark Ages: Branches of Bone #2 — speakers: Cthulhu Dark Ages, Following Askr, Tom Bates
+- 2025-11-07 — Cthulhu Dark Ages: Branches of Bone #1 — speakers: Cthulhu Dark Ages, Mystery Quest, Tom Bates
+- 2025-10-31 — Shadowdark Gauntlet: Trial of the Slime Lord #4 — speakers: Shadowdark Gauntlet, Tom Bates
+- 2025-10-24 — Shadowdark Gauntlet: Trial of the Slime Lord #3 — speakers: Shadowdark Gauntlet, Tom Bates
+- 2025-10-17 — Shadowdark Gauntlet: Trial of the Slime Lord #2 — speakers: Shadowdark Gauntlet, Tom Bates
+- 2025-10-10 — Shadowdark Gauntlet: Trial of the Slime Lord #1 — speakers: Shadowdark Gauntlet, Tom Bates
+- 2025-10-03 — Delta Green: Convergence #9 — speakers: Tom Bates
+- 2025-09-26 — Delta Green: Convergence #8 — speakers: Falk Smul, Tom Bates
+- 2025-09-19 — Delta Green: Convergence #7 — speakers: Delta Green, Tom Bates
+- 2025-09-12 — Delta Green: Convergence #6 — speakers: Delta Green, Tom Bates
+- 2025-09-05 — Delta Green: Convergence #5 — speakers: Tom Bates
+- 2025-08-29 — Delta Green: Convergence #4 — speakers: Shut Eye, Agents Sloan, Tom Bates
+- 2025-08-22 — Delta Green: Convergence #3 — speakers: Shut Eye, Agents Sloan, Tom Bates
+- 2025-08-15 — Delta Green: Convergence #2 — speakers: kooky ali, Tom Bates
+- 2025-08-14 — Introducing The Apocalypse Players ft Tom - The Order of the Stone 01 — speakers: Tom Bates
+- 2025-08-08 — Delta Green: Convergence #1 — speakers: Delta Green, Mystery Quest, Tom Bates
+- 2025-08-01 — Call of Cthulhu: Dead Light #4 — speakers: Dead Light, Tom Bates
+- 2025-07-25 — Call of Cthulhu: Dead Light #3 — speakers: Dead Light, Tom Bates
+- 2025-07-18 — Call of Cthulhu: Dead Light #2 — speakers: Mrs Miggins, Tom Bates
+- 2025-07-11 — Call of Cthulhu: Dead Light #1 — speakers: Tom Bates
+- 2025-07-04 — Mothership: My Lovebot is Trying to Kill Me #2 — speakers: Tom Bates
+- 2025-06-27 — Mothership: My Lovebot is Trying to Kill Me! #1 — speakers: My Lovebot, Kill Me, Mystery Quest, Tom Bates
+- 2025-06-20 — Grotten: 1 Bit Deeper with Alex — speakers: Tom Bates
+- 2025-06-13 — Mothership: Year of the Rat #3 — speakers: Tom Bates
+- 2025-06-06 — Mothership: Year of the Rat #2 — speakers: Tom Bates
 - 2025-05-30 — Mothership: Year of the Rat #1 — speakers: Mystery Quest, Tom Bates
-- 2025-05-23 — Dragonbane: The Village of the Day Before #4 — speakers: Mystery Quest, Alex Kolodotschko, Tom Bates
-- 2025-05-16 — Dragonbane: The Village of the Day Before #3 — speakers: Mystery Quest, Alex Kolodotschko, Tom Bates
-- 2025-05-09 — Dragonbane: The Village of the Day Before #2 — speakers: Mystery Quest, Alex Kolodotschko, Tom Bates
-- 2025-05-02 — Dragonbane: The Village of the Day Before #1 — speakers: Mystery Quest, Alex Kolodotschko, Tom Bates
-- 2025-04-25 — Thousand Year Old Vampire with Alex — speakers: Mystery Quest, Tom Bates
-- 2025-04-18 — Call of Cthulhu: Bits & Pieces #3 — speakers: Mystery Quest, com call-of-cthulhu-rules, angorytom Ross, Tom Bates
-- 2025-04-11 — Call of Cthulhu: Bits & Pieces #2 — speakers: Lawrence Warwick, Mystery Quest, com call-of-cthulhu-rules, angorytom Ross, Tom Bates
-- 2025-04-04 — Call of Cthulhu: Bits & Pieces #1 — speakers: Arkham Massachusetts, Mystery Quest, com call-of-cthulhu-rules, angorytom Ross, Tom Bates
-- 2025-03-28 — Liminal Horror #3 — speakers: Mystery Quest, Tom Bates
-- 2025-03-21 — Liminal Horror #2 — speakers: Mystery Quest, Tom Bates
-- 2025-03-14 — Liminal Horror #1 — speakers: Mystery Quest, Tom Bates
-- 2025-03-07 — Pirate Borg: Buried in the Bahamas #4 — speakers: Rum Key, Mystery Quest, angorytom Ben, Tom Bates
-- 2025-02-28 — Pirate Borg: Buried in the Bahamas #3 — speakers: Burchard Brown Beard, Mystery Quest, angorytom Ben, Tom Bates
-- 2025-02-21 — Pirate Borg: Buried in the Bahamas #2 — speakers: Burchard Brown Beard, Mystery Quest, angorytom Ben, Tom Bates
-- 2025-02-14 — Pirate Borg: Buried in the Bahamas #1 — speakers: Mystery Quest, angorytom Ben, Tom Bates
-- 2025-02-07 — Call of Cthulhu: Three Requests #4 — speakers: Mystery Quest, angorytom Ben, Tom Bates
-- 2025-01-31 — Call of Cthulhu: Three Requests #3 — speakers: Bunji Mitake, Mystery Quest, angorytom Ben, Tom Bates
-- 2025-01-24 — Call of Cthulhu: Three Requests #2 — speakers: Bunji Mitake, Mystery Quest, angorytom Ben, Tom Bates
-- 2025-01-17 — Call of Cthulhu: Three Requests #1 — speakers: Mystery Quest, angorytom Ben, Tom Bates
-- 2025-01-10 — Discworld: Up in Smoke #3 — speakers: John Johnson, Mystery Quest, Tom Bates
+- 2025-05-23 — Dragonbane: The Village of the Day Before #4 — speakers: Day Before, Tom Bates
+- 2025-05-16 — Dragonbane: The Village of the Day Before #3 — speakers: Day Before, Tom Bates
+- 2025-05-09 — Dragonbane: The Village of the Day Before #2 — speakers: Day Before, Tom Bates
+- 2025-05-02 — Dragonbane: The Village of the Day Before #1 — speakers: Day Before, Tom Bates
+- 2025-04-25 — Thousand Year Old Vampire with Alex — speakers: Tom Bates
+- 2025-04-18 — Call of Cthulhu: Bits & Pieces #3 — speakers: Tom Bates
+- 2025-04-11 — Call of Cthulhu: Bits & Pieces #2 — speakers: Tom Bates
+- 2025-04-04 — Call of Cthulhu: Bits & Pieces #1 — speakers: Arkham Massachusetts, Tom Bates
+- 2025-03-28 — Liminal Horror #3 — speakers: Tom Bates
+- 2025-03-21 — Liminal Horror #2 — speakers: Tom Bates
+- 2025-03-14 — Liminal Horror #1 — speakers: Liminal Horror, Tom Bates
+- 2025-03-07 — Pirate Borg: Buried in the Bahamas #4 — speakers: Rum Key, Tom Bates
+- 2025-02-28 — Pirate Borg: Buried in the Bahamas #3 — speakers: Pirate Borg, Tom Bates
+- 2025-02-21 — Pirate Borg: Buried in the Bahamas #2 — speakers: Tom Bates
+- 2025-02-14 — Pirate Borg: Buried in the Bahamas #1 — speakers: Tom Bates
+- 2025-02-07 — Call of Cthulhu: Three Requests #4 — speakers: Three Requests, Tom Bates
+- 2025-01-31 — Call of Cthulhu: Three Requests #3 — speakers: Three Requests, Tom Bates
+- 2025-01-24 — Call of Cthulhu: Three Requests #2 — speakers: Three Requests, Tokyo Tattler, Tom Bates
+- 2025-01-17 — Call of Cthulhu: Three Requests #1 — speakers: Three Requests, Tom Bates
+- 2025-01-10 — Discworld: Up in Smoke #3 — speakers: Tom Bates
 - 2025-01-03 — Discworld: Up in Smoke #2 — speakers: Mystery Quest, Tom Bates
 - 2024-12-29 — Discworld: Up in Smoke #1 — speakers: Mystery Quest, Tom Bates
-- 2024-12-20 — Mystery Quest & NRB in: A Christmas Odyssey #2 — speakers: Jingle Jam, Tom Bates
-- 2024-12-13 — Mystery Quest & NRB in: A Christmas Odyssey #1 — speakers: Jingle Jam, Tom Bates
-- 2024-12-06 — Thousand Year Old Vampire with Lydia — speakers: Mystery Quest, AngoryTom Ben, Tom Bates
-- 2024-11-29 — Mothership: Vibechete! #6 — speakers: Mystery Quest, GM Tom, Tom Bates
-- 2024-11-22 — Mothership: Vibechete! #5 — speakers: Mystery Quest, GM Tom, Tom Bates
-- 2024-11-15 — Mothership: Vibechete! #4 — speakers: Kirsten Blood, Mac Adam, Mystery Quest, GM Tom, Tom Bates
-- 2024-11-08 — Mothership: Vibechete! #3 — speakers: Mystery Quest, GM Tom, Tom Bates
-- 2024-11-01 — Mothership: Vibechete! #2 — speakers: Mystery Quest, GM Tom, Tom Bates
-- 2024-10-25 — Mothership: Vibechete! #1 — speakers: Joel Hines, Mystery Quest, GM Tom, Tom Bates
-- 2024-10-18 — Grotten: 1 Bit Deeper — speakers: Mystery Quest, angorytom Ben, Tom Bates
-- 2024-10-11 — Call of Cthulhu: Fish in a Barrel #3 — speakers: Harry O’Brien, Mystery Quest, Tom Bates
-- 2024-10-04 — Call of Cthulhu: Fish in a Barrel #2 — speakers: Cornelius Doyle, Mystery Quest, Tom Bates
-- 2024-09-27 — Call of Cthulhu: Fish in a Barrel #1 — speakers: Phil Anderson, Mystery Quest, Tom Bates
-- 2024-09-20 — Alien RPG: Chariot of the Gods #7 — speakers: Mystery Quest, Chris Trott, Tom Bates
-- 2024-09-13 — Alien RPG: Chariot of the Gods #6 — speakers: Alien Rpg, Mystery Quest, Chris Trott, Tom Bates
-- 2024-09-06 — Alien RPG: Chariot of the Gods #5 — speakers: Alien Rpg, Mystery Quest, Chris Trott, Tom Bates
-- 2024-08-30 — Alien RPG: Chariot of the Gods #4 — speakers: Alien Rpg, Mystery Quest, Chris Trott, Tom Bates
-- 2024-08-23 — Alien RPG: Chariot of the Gods #3 — speakers: Alien Rpg, Mystery Quest, Chris Trott, Tom Bates
-- 2024-08-16 — Alien RPG: Chariot of the Gods #2 — speakers: Alien Rpg, Mystery Quest, Chris Trott, Tom Bates
-- 2024-08-09 — Alien RPG: Chariot of the Gods #1 — speakers: Mystery Quest, Chris Trott, Tom Bates
-- 2024-08-02 — Fiasco: Tales from Suburbia #2 — speakers: Doug Custard, Candice Custard, Murvin Wendel, Johnny Sins, Mystery Quest, AngoryTom Ben, Tom Bates
-- 2024-07-26 — Fiasco: Tales from Suburbia #1 — speakers: Mystery Quest, AngoryTom Ben, Tom Bates
-- 2024-07-19 — Thousand Year Old Vampire - Ben — speakers: Mystery Quest, AngoryTom Ben, Tom Bates
-- 2024-07-12 — Mausritter: Honey in the Rafters #3 — speakers: Mystery Quest, Tom Bates
-- 2024-07-05 — Mausritter: Honey in the Rafters #2 — speakers: Reepy Cheep, Mystery Quest, Tom Bates
-- 2024-06-28 — Mausritter: Honey in the Rafters #1 — speakers: Mystery Quest, Tom Bates
-- 2024-06-21 — Call of Cthulhu: The Edge of Darkness #4 — speakers: Mystery Quest, Tom Bates
-- 2024-06-14 — Call of Cthulhu: The Edge of Darkness #3 — speakers: Ross’s Corner, Maggie McFurter, Mystery Quest, Tom Bates
-- 2024-06-07 — Call of Cthulhu: The Edge of Darkness #2 — speakers: Rupert Merriweather, Mystery Quest, Tom Bates
+- 2024-12-20 — Mystery Quest & NRB in: A Christmas Odyssey #2 — speakers: Mystery Quest, Christmas Odyssey, No Rolls Barred, Tom Bates
+- 2024-12-13 — Mystery Quest & NRB in: A Christmas Odyssey #1 — speakers: Mystery Quest, Christmas Odyssey, No Rolls Barred, Tom Bates
+- 2024-12-06 — Thousand Year Old Vampire with Lydia — speakers: Tom Bates
+- 2024-11-29 — Mothership: Vibechete! #6 — speakers: Tom Bates
+- 2024-11-22 — Mothership: Vibechete! #5 — speakers: Tom Bates
+- 2024-11-15 — Mothership: Vibechete! #4 — speakers: Tom Bates
+- 2024-11-08 — Mothership: Vibechete! #3 — speakers: Tom Bates
+- 2024-11-01 — Mothership: Vibechete! #2 — speakers: Tom Bates
+- 2024-10-25 — Mothership: Vibechete! #1 — speakers: Tom Bates
+- 2024-10-18 — Grotten: 1 Bit Deeper — speakers: Bit Deeper Welcome, Mystery Quest, Bit Deeper, Tom Bates
+- 2024-10-11 — Call of Cthulhu: Fish in a Barrel #3 — speakers: Tom Bates
+- 2024-10-04 — Call of Cthulhu: Fish in a Barrel #2 — speakers: Tom Bates
+- 2024-09-27 — Call of Cthulhu: Fish in a Barrel #1 — speakers: Mystery Quest, Tom Bates
+- 2024-09-20 — Alien RPG: Chariot of the Gods #7 — speakers: Tom Bates
+- 2024-09-13 — Alien RPG: Chariot of the Gods #6 — speakers: Alien Rpg, Tom Bates
+- 2024-09-06 — Alien RPG: Chariot of the Gods #5 — speakers: Alien Rpg, Tom Bates
+- 2024-08-30 — Alien RPG: Chariot of the Gods #4 — speakers: Alien Rpg, Tom Bates
+- 2024-08-23 — Alien RPG: Chariot of the Gods #3 — speakers: Alien Rpg, Tom Bates
+- 2024-08-16 — Alien RPG: Chariot of the Gods #2 — speakers: Alien Rpg, Tom Bates
+- 2024-08-09 — Alien RPG: Chariot of the Gods #1 — speakers: Roleplaying Game, Free League Publishi, Tom Bates
+- 2024-08-02 — Fiasco: Tales from Suburbia #2 — speakers: Tom Bates
+- 2024-07-26 — Fiasco: Tales from Suburbia #1 — speakers: Tom Bates
+- 2024-07-19 — Thousand Year Old Vampire - Ben — speakers: Thousand Year Old Vampire, Ben Welcome, Tom Bates
+- 2024-07-12 — Mausritter: Honey in the Rafters #3 — speakers: Tom Bates
+- 2024-07-05 — Mausritter: Honey in the Rafters #2 — speakers: Prince Peeps Piddle, Tom Bates
+- 2024-06-28 — Mausritter: Honey in the Rafters #1 — speakers: Tom Bates
+- 2024-06-21 — Call of Cthulhu: The Edge of Darkness #4 — speakers: Tom Bates
+- 2024-06-14 — Call of Cthulhu: The Edge of Darkness #3 — speakers: Ross’s Corner, Tom Bates
+- 2024-06-07 — Call of Cthulhu: The Edge of Darkness #2 — speakers: Rupert Merriweather, Tom Bates
 - 2024-06-07 — Call of Cthulhu: The Edge of Darkness #1 — speakers: Mystery Quest, Tom Bates
 - 2024-05-24 — MÖRK BORG: Kill Your Necromancer #3 — speakers: Tom Bates
-- 2024-05-17 — MÖRK BORG: Kill Your Necromancer #2 — speakers: Mystery Quest, Tom Bates
-- 2024-05-10 — MÖRK BORG: Kill Your Necromancer #1 — speakers: Mystery Quest, Tom Bates
-- 2024-05-03 — Thousand Year Old Vampire - Pyrion Flax — speakers: Mystery Quest, Tom Bates
-- 2024-04-26 — Escape from Dino Island #3 — speakers: Tom Bates
-- 2024-04-19 — Escape from Dino Island #2 — speakers: Mystery Quest, Tom Bates
-- 2024-04-12 — Escape from Dino Island #1 — speakers: Sam Tung, Sam Roberts, Mystery Quest, Tom Bates
-- 2024-04-05 — CY_BORG: Reaper Repo #4 — speakers: Reaper Repo, Steel Jackhammer, Tom Bates
-- 2024-03-29 — CY_BORG: Reaper Repo #3 — speakers: Dr Frankel, Tom Bates
+- 2024-05-17 — MÖRK BORG: Kill Your Necromancer #2 — speakers: Tom Bates
+- 2024-05-10 — MÖRK BORG: Kill Your Necromancer #1 — speakers: Tom Bates
+- 2024-05-03 — Thousand Year Old Vampire - Pyrion Flax — speakers: Thousand Year Old Vampire, Pyrion Flax Welcome, Tom Bates
+- 2024-04-26 — Escape from Dino Island #3 — speakers: Dino Island, Tom Bates
+- 2024-04-19 — Escape from Dino Island #2 — speakers: Dino Island, Tom Bates
+- 2024-04-12 — Escape from Dino Island #1 — speakers: Dino Island, Tom Bates
+- 2024-04-05 — CY_BORG: Reaper Repo #4 — speakers: Reaper Repo, Tom Bates
+- 2024-03-29 — CY_BORG: Reaper Repo #3 — speakers: Tom Bates
 - 2024-03-22 — CY_BORG: Reaper Repo #2 — speakers: Reaper Repo, Tom Bates
 - 2024-03-15 — CY_BORG: Reaper Repo #1 — speakers: Reaper Repo, Tom Bates
 - 2024-03-08 — Thousand Year Old Vampire — speakers: Thousand Year Old Vampire, Tom Bates
 - 2024-03-02 — Brindlewood Bay: Dad Overboard #3 — speakers: Brindlewood Bay, Dad Overboard, Tom Bates
 - 2024-02-24 — Brindlewood Bay: Dad Overboard #2 — speakers: Brindlewood Bay, Dad Overboard, Tom Bates
 - 2024-02-17 — Brindlewood Bay: Dad Overboard #1 — speakers: Brindlewood Bay, Dad Overboard, Tom Bates
-- 2024-02-10 — Call of Cthulhu: Forget Me Not #5 — speakers: Tom Bates
+- 2024-02-10 — Call of Cthulhu: Forget Me Not #5 — speakers: Forget Me Not, Tom Bates
 - 2024-02-03 — Call of Cthulhu: Forget Me Not #4 — speakers: Forget Me Not, Tom Bates
 - 2024-01-27 — Call of Cthulhu: Forget Me Not #3 — speakers: Tom Bates
-- 2024-01-20 — Call of Cthulhu: Forget Me Not #2 — speakers: Mystery Quest, Tom Bates
+- 2024-01-20 — Call of Cthulhu: Forget Me Not #2 — speakers: Forget Me Not, Tom Bates
 - 2024-01-13 — Call of Cthulhu: Forget Me Not #1 — speakers: Forget Me Not, Tom Bates
 - 2024-01-06 — Honey Heist #2 — speakers: Honey Heist, Tom Bates
-- 2023-12-30 — Honey Heist #1 — speakers: Honey Heist, Jingle Jam, Tom Bates
+- 2023-12-30 — Honey Heist #1 — speakers: Honey Heist, Tom Bates
 - 2023-12-23 — Call of Cthulhu: The Saturnine Chalice #5 — speakers: Tom Bates
 - 2023-12-16 — Call of Cthulhu: The Saturnine Chalice #4 — speakers: Tom Bates
 - 2023-12-09 — Call of Cthulhu: The Saturnine Chalice #3 — speakers: Tom Bates
@@ -3004,13 +2852,13 @@
 - 2023-11-11 — Mothership: The Haunting of Ypsilon 14 #3 — speakers: Tom Bates
 - 2023-11-04 — Mothership: The Haunting of Ypsilon 14 #2 — speakers: Tom Bates
 - 2023-10-28 — Mothership: The Haunting of Ypsilon 14 #1 — speakers: Tom Bates
-- 2023-10-21 — Everyone Is John — speakers: Tom Bates
+- 2023-10-21 — Everyone Is John — speakers: Mystery Quest, Tom Bates
 - 2023-10-14 — MÖRK BORG: The Goblin Grinder #6 — speakers: Tom Bates
 - 2023-10-07 — MÖRK BORG: The Goblin Grinder #5 — speakers: Tom Bates
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
 - 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
