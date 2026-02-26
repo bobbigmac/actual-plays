@@ -2,8 +2,8 @@
 
 - slug: `the-misadventurers-a-d-d-folklore-mystery-tour`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:407156172/sounds.rss`
-- fetched_at: `2026-02-25T21:51:09+00:00`
-- checked_at: `2026-02-25T21:51:09+00:00`
+- fetched_at: `2026-02-26T03:13:52+00:00`
+- checked_at: `2026-02-26T03:13:52+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://soundcloud.com/user-573462495",
   "description": "Join us as we travel through the fantasy world of D&D; fighting creatures from folk tales, forging bonds and making terrible jokes along the way! Our rag tag team consists of Ghâshbúrz, the orc-raised tiefling barbarian who’s ready for anything; Delilah, the high elf warlock ex-royalty embracing her new life of adventuring; Samuel, the human cleric who comes from humble beginnings and Isteth, the wood elf ranger returning back to civilisation with their steady aim.",
   "image_url": "https://i1.sndcdn.com/avatars-000631210557-soxlf0-original.jpg",
-  "fetched_at": "2026-02-25T21:51:09+00:00",
+  "fetched_at": "2026-02-26T03:13:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
