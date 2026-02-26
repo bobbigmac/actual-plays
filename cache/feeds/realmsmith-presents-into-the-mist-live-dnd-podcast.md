@@ -2,9 +2,9 @@
 
 - slug: `realmsmith-presents-into-the-mist-live-dnd-podcast`
 - source: `https://anchor.fm/s/53346a4/podcast/rss`
-- fetched_at: `2026-02-20T15:55:57+00:00`
-- checked_at: `2026-02-20T15:55:57+00:00`
-- etag: `W/"1f64a-4Do885tl/NZWHb7RxSmehjngaRw"`
+- fetched_at: `2026-02-26T19:12:01+00:00`
+- checked_at: `2026-02-26T19:12:01+00:00`
+- etag: `W/"1f64a-4gHo0K5Xi5Ypk+TGydY/NZmX4SM"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://realmsmith.tv",
   "description": "Into the Mist - The Best Dungeons & Dragons podcast on Spotify and Apple created by Canadians just outside of Toronto... EVER! It’s an interactive live-play Dungeons & Dragons 'Curse of Strahd' campaign! Join Dungeon Master Jason Azevedo and the RealmSmith crew as they find themselves trapped by the mists in the tortured land of Barovia! Watch us live every Monday at 7 pm ET (4PM PT) on twitch.tv/dnd or twitch.tv/realmsmith.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/772465/772465-1580588147582-8f24015f550eb.jpg",
-  "fetched_at": "2026-02-20T15:55:57+00:00",
+  "fetched_at": "2026-02-26T19:12:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -257,7 +257,9 @@
       "enclosure_length": "162798188",
       "itunes_duration": "02:47:46",
       "speakers": [
-        "Baba Lysaga"
+        "Grave Consequences",
+        "Mist Welcome",
+        "Strahd Liveplay"
       ],
       "topics": [
         "season",
@@ -278,8 +280,7 @@
       "enclosure_length": "144339398",
       "itunes_duration": "02:28:44",
       "speakers": [
-        "Mommy Dearest",
-        "Baba Lysaga"
+        "Mommy Dearest"
       ],
       "topics": [
         "season",
@@ -299,7 +300,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "154120816",
       "itunes_duration": "02:38:49",
-      "speakers": [],
+      "speakers": [
+        "Mist Welcome",
+        "Strahd Liveplay"
+      ],
       "topics": [
         "season",
         "echo",
@@ -319,7 +323,8 @@
       "enclosure_length": "164983470",
       "itunes_duration": "02:50:01",
       "speakers": [
-        "Baba Lysaga"
+        "Mist Welcome",
+        "Strahd Liveplay"
       ],
       "topics": [
         "season",
@@ -338,7 +343,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "148424980",
       "itunes_duration": "02:32:57",
-      "speakers": [],
+      "speakers": [
+        "Mist Welcome",
+        "Strahd Liveplay"
+      ],
       "topics": [
         "season",
         "cause",
@@ -357,7 +365,10 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "143377885",
       "itunes_duration": "02:27:45",
-      "speakers": [],
+      "speakers": [
+        "Mist Welcome",
+        "Strahd Liveplay"
+      ],
       "topics": [
         "season",
         "oath",
@@ -448,9 +459,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "152366490",
       "itunes_duration": "02:37:01",
-      "speakers": [
-        "Yester Hill"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "memories",
@@ -558,10 +567,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "173577017",
       "itunes_duration": "02:58:52",
-      "speakers": [
-        "Noura Ibrahim",
-        "Matthew Lillard"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "righteous",
@@ -580,11 +586,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "163121682",
       "itunes_duration": "02:48:06",
-      "speakers": [
-        "St Markovia",
-        "Noura Ibrahim",
-        "Matthew Lillard"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "bride",
@@ -603,10 +605,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "177783960",
       "itunes_duration": "03:03:12",
-      "speakers": [
-        "Noura Ibrahim",
-        "Matthew Lillard"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "rictavio",
@@ -624,9 +623,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "194532403",
       "itunes_duration": "03:20:28",
-      "speakers": [
-        "Noura Ibrahim"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "honor",
@@ -645,9 +642,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "178803003",
       "itunes_duration": "03:04:16",
-      "speakers": [
-        "Noura Ibrahim"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "bonegrinder",
@@ -688,16 +683,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "136164871",
       "itunes_duration": "02:20:19",
-      "speakers": [
-        "Matthew Lillard",
-        "Noura Ibrahim",
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "finale",
@@ -716,16 +702,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "180908219",
       "itunes_duration": "03:06:26",
-      "speakers": [
-        "Matt Mercer",
-        "Matthew Lillard",
-        "Noura Ibrahim",
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock"
-      ],
+      "speakers": [],
       "topics": [
         "season",
         "finale",
@@ -744,16 +721,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "193524369",
       "itunes_duration": "03:19:23",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Mythroll Armory"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "blighted"
@@ -770,16 +738,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "183484492",
       "itunes_duration": "03:09:05",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Tim Morrison Moderator"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "lifeblood"
@@ -796,16 +755,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "190034055",
       "itunes_duration": "03:15:50",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Dice Spinner"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "nevermore"
@@ -822,16 +772,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "176073423",
       "itunes_duration": "03:01:27",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Tim Morrison Want"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "fortunes",
@@ -849,16 +790,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "174937194",
       "itunes_duration": "03:00:16",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Tim Morrison Want"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "unanswered",
@@ -876,16 +808,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "179972766",
       "itunes_duration": "03:05:28",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "James Rpg Art"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "decayer",
@@ -903,16 +826,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "180782793",
       "itunes_duration": "03:06:18",
-      "speakers": [
-        "Elisabeth Durst",
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen"
-      ],
+      "speakers": [],
       "topics": [
         "mist"
       ]
@@ -928,16 +842,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "172669328",
       "itunes_duration": "02:57:56",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Tim Morrison Moderator"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "hope"
@@ -955,14 +860,7 @@
       "enclosure_length": "187187571",
       "itunes_duration": "03:12:54",
       "speakers": [
-        "House Welcome",
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen"
+        "House Welcome"
       ],
       "topics": [
         "mist",
@@ -981,16 +879,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "174910076",
       "itunes_duration": "03:00:15",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen",
-        "Tim Morrison Moderator"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "welcome"
@@ -1007,15 +896,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "164055045",
       "itunes_duration": "02:49:04",
-      "speakers": [
-        "Jason Azevedo",
-        "Joel Auge",
-        "Melanie Hepburn",
-        "Callie Lahwey Adam Mainse",
-        "Dmitri Maddock",
-        "Brandon Perkins",
-        "David Shaheen"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "mists",
@@ -1039,38 +920,38 @@
 - 2021-07-24 — Season 3 - Episode 9: House Cleaning | Into the Mist — speakers: House Cleaning, Mist Welcome, Strahd Liveplay
 - 2021-07-24 — Season 3 - Episode 8: Beacon of Hope | Into the Mist — speakers: Mist Welcome, Strahd Liveplay
 - 2021-07-24 — Season 3 - Episode 7: New Blood | Into the Mist — speakers: New Blood, Mist Welcome, Strahd Liveplay
-- 2021-07-24 — Season 3 - Episode 6: Grave Consequences | Into the Mist — speakers: Baba Lysaga
-- 2021-07-23 — Season 3 - Episode 5: Mommy Dearest | Into the Mist — speakers: Mommy Dearest, Baba Lysaga
-- 2021-07-23 — Season 3 - Episode 4: Echoes form the Grave | Into the Mist
-- 2021-07-23 — Season 3 - Episode 3: Into the Marshes | Into the Mist — speakers: Baba Lysaga
-- 2021-07-23 — Season 3 - Episode 2: Cause and Effect | Into the Mist
-- 2021-07-23 — Season 3 - Episode 1: Oath of the Dragon | Into the Mist
+- 2021-07-24 — Season 3 - Episode 6: Grave Consequences | Into the Mist — speakers: Grave Consequences, Mist Welcome, Strahd Liveplay
+- 2021-07-23 — Season 3 - Episode 5: Mommy Dearest | Into the Mist — speakers: Mommy Dearest
+- 2021-07-23 — Season 3 - Episode 4: Echoes form the Grave | Into the Mist — speakers: Mist Welcome, Strahd Liveplay
+- 2021-07-23 — Season 3 - Episode 3: Into the Marshes | Into the Mist — speakers: Mist Welcome, Strahd Liveplay
+- 2021-07-23 — Season 3 - Episode 2: Cause and Effect | Into the Mist — speakers: Mist Welcome, Strahd Liveplay
+- 2021-07-23 — Season 3 - Episode 1: Oath of the Dragon | Into the Mist — speakers: Mist Welcome, Strahd Liveplay
 - 2021-07-23 — Season 2 - Episode 16: The Mad Mage | Into the Mist
 - 2021-07-23 — Season 2 - Episode 15: All Hallow's Eve | Into the Mist
 - 2021-07-23 — Season 2 - Episode 14: Wintersplinter | Into the Mist
 - 2021-07-23 — Season 2 - Episode 13: A Worthy Sacrifice | Into The Mist
-- 2021-07-23 — Season 2 - Episode 12: Memories in the Mist | Into the Mist — speakers: Yester Hill
+- 2021-07-23 — Season 2 - Episode 12: Memories in the Mist | Into the Mist
 - 2021-07-23 — Season 2 - Episode 11: Hunted | Into the Mist
 - 2021-07-23 — Season 2 - Episode 10: Home Sweet Home | Into the Mist
 - 2021-07-23 — Season 2 - Episode 9: Undead-Ends | Into the Mist
 - 2021-07-23 — Season 2 - Episode 8: Quest for Answers | Into the Mist
 - 2021-07-23 — Season 2 - Episode 7: Reunited | Into the Mist
-- 2021-07-23 — Season 2 - Episode 6: Righteous Misconception | Into the Mist — speakers: Noura Ibrahim, Matthew Lillard
-- 2021-07-23 — Season 2 - Episode 5: The Bride of Von Zarovich | Into the Mist — speakers: St Markovia, Noura Ibrahim, Matthew Lillard
-- 2021-07-23 — Season 2 - Episode 4: Rictavio Has Returned! | Into the Mist — speakers: Noura Ibrahim, Matthew Lillard
-- 2021-07-23 — Season 2 - Episode 3: Honor Among Thieves | Into the Mist — speakers: Noura Ibrahim
-- 2021-07-23 — Season 2 - Episode 2: Old Bonegrinder | Into the Mist — speakers: Noura Ibrahim
+- 2021-07-23 — Season 2 - Episode 6: Righteous Misconception | Into the Mist
+- 2021-07-23 — Season 2 - Episode 5: The Bride of Von Zarovich | Into the Mist
+- 2021-07-23 — Season 2 - Episode 4: Rictavio Has Returned! | Into the Mist
+- 2021-07-23 — Season 2 - Episode 3: Honor Among Thieves | Into the Mist
+- 2021-07-23 — Season 2 - Episode 2: Old Bonegrinder | Into the Mist
 - 2021-07-23 — Season 2 - Episode 1: A Dark Invitation (With Matt Mercer) | Into the Mist — speakers: Matt Mercer
-- 2020-09-18 — Episode 13 - Season Finale - Into the Mist | The Devil Himself, Part 2 — speakers: Matthew Lillard, Noura Ibrahim, Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins
-- 2020-09-18 — Episode 12 - Season Finale - Into the Mist | The Devil Himself, Part 1 — speakers: Matt Mercer, Matthew Lillard, Noura Ibrahim, Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock
-- 2020-08-12 — Episode 11 - Into the Mist | Blighted — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Mythroll Armory
-- 2020-03-16 — Episode 10 - Into the Mist | Lifeblood — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Tim Morrison Moderator
-- 2020-03-16 — Episode 9 - Into the Mist | Nevermore — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Dice Spinner
-- 2020-02-26 — Episode 8 - Into the Mist | Fortunes of Ravenloft — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Tim Morrison Want
-- 2020-02-18 — Episode 7 - Into the Mist | Unanswered Prayers — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Tim Morrison Want
-- 2020-02-15 — Episode 6 - Into the Mist | The Decayer Awaketh — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, James Rpg Art
-- 2020-02-05 — Episode 5 - Into the Mist | One Must Die — speakers: Elisabeth Durst, Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen
-- 2020-01-29 — Episode 4 - Into the Mist | Hope — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Tim Morrison Moderator
-- 2020-01-22 — Episode 3 - Into the Mist | Death House — speakers: House Welcome, Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen
-- 2020-01-21 — Episode 2 - Into the Mist | Welcome to Barovia — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen, Tim Morrison Moderator
-- 2020-01-21 — Episode 1 - Into the Mist | The Mists of Ravenloft — speakers: Jason Azevedo, Joel Auge, Melanie Hepburn, Callie Lahwey Adam Mainse, Dmitri Maddock, Brandon Perkins, David Shaheen
+- 2020-09-18 — Episode 13 - Season Finale - Into the Mist | The Devil Himself, Part 2
+- 2020-09-18 — Episode 12 - Season Finale - Into the Mist | The Devil Himself, Part 1
+- 2020-08-12 — Episode 11 - Into the Mist | Blighted
+- 2020-03-16 — Episode 10 - Into the Mist | Lifeblood
+- 2020-03-16 — Episode 9 - Into the Mist | Nevermore
+- 2020-02-26 — Episode 8 - Into the Mist | Fortunes of Ravenloft
+- 2020-02-18 — Episode 7 - Into the Mist | Unanswered Prayers
+- 2020-02-15 — Episode 6 - Into the Mist | The Decayer Awaketh
+- 2020-02-05 — Episode 5 - Into the Mist | One Must Die
+- 2020-01-29 — Episode 4 - Into the Mist | Hope
+- 2020-01-22 — Episode 3 - Into the Mist | Death House — speakers: House Welcome
+- 2020-01-21 — Episode 2 - Into the Mist | Welcome to Barovia
+- 2020-01-21 — Episode 1 - Into the Mist | The Mists of Ravenloft

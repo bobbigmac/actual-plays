@@ -2,9 +2,9 @@
 
 - slug: `heroes-of-the-vale`
 - source: `https://www.dndbeyond.com/podcasts/hotv.rss`
-- fetched_at: `2026-02-26T16:10:44+00:00`
-- checked_at: `2026-02-26T16:10:44+00:00`
-- last_modified: `Thu, 26 Feb 2026 16:07:33 GMT`
+- fetched_at: `2026-02-26T19:12:01+00:00`
+- checked_at: `2026-02-26T19:12:01+00:00`
+- last_modified: `Thu, 26 Feb 2026 19:09:33 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.dndbeyond.com/podcasts/hotv",
   "description": "Heroes of the Vale is a D&D actual play show created by D&D Beyond, staring Todd Kenreck as DM with players Jen Kretchmer, Hope LaVelle, TJ Storm, Lauren Urban, and Adam Bradford. Find out more information at dndbeyond.com",
   "image_url": "https://www.dndbeyond.com/avatars/6405/569/636972501543398315.jpeg",
-  "fetched_at": "2026-02-26T16:10:44+00:00",
+  "fetched_at": "2026-02-26T19:12:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
