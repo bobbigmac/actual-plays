@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-02-25T19:29:43+00:00`
-- checked_at: `2026-02-25T19:29:43+00:00`
-- last_modified: `Wed, 25 Feb 2026 17:41:48 GMT`
+- fetched_at: `2026-02-26T07:18:31+00:00`
+- checked_at: `2026-02-26T07:18:31+00:00`
+- last_modified: `Thu, 26 Feb 2026 05:30:09 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-25T19:29:43+00:00",
+  "fetched_at": "2026-02-26T07:18:31+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,32 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "750e8fa69b43bc9ab2d1f4bd80dade7e29bec626",
+      "title": "FEED DROP! || RPG Major: Ep. 50: Thistle Help (The Poppy Problem 1 of 5)",
+      "published_at": "2026-02-26T05:17:00+00:00",
+      "link": null,
+      "description": "This is Episode 50 of the the RPG Major Podcast. Find them in your podcast app directly, at https://www.rpgmajor.com/ or find a link to it in your favorite app here: https://podlink.com/1766663794 A new client accidentally approaches the investigators, bringing them a mystery of a missing person Izzie is special guest Sarah Russell (@Saraha-cha-cha) Mara Vertere is Lauren Drake (@laladrake) Aubrey Stump is Camilla Franklin (@Camillastrator) Music by Noah Samuels (@Samuels_Noah) GM is Helix (@RPGMajor) Songs from this episode: Turn a New Leaf How Can I Trust You? 1 2, I'll Punch You Science Is Cool You can come chat with us and other viewers on our discord: https://discord.gg/HXNRZqZxAE Support us on Patreon - https://www.patreon.com/RPGMajor The art and visual design of RPG Major is by Camilla Franklin. RPG Major is copyrighted creative work owned by Single Helix LLC. If you want to use it for something, just ask - we'll probably say yes. Reach out at podcast@rpgmajor.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN7728471586.mp3?updated=1772041601",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3703",
+      "speakers": [
+        "Rpg Major",
+        "Thistle Help",
+        "James D'Amato"
+      ],
+      "topics": [
+        "feed",
+        "drop",
+        "major",
+        "thistle",
+        "help",
+        "poppy",
+        "problem"
+      ]
+    },
     {
       "key": "5c542514488f807dd0a82cda92cb9a99896022c0",
       "title": "639. Rise, Wizards!, Episode 2",
@@ -13032,6 +13058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — FEED DROP! || RPG Major: Ep. 50: Thistle Help (The Poppy Problem 1 of 5) — speakers: Rpg Major, Thistle Help, James D'Amato
 - 2026-02-23 — 639. Rise, Wizards!, Episode 2 — speakers: James D'Amato
 - 2026-02-16 — 638. Rise, Wizards!, Episode 1 — speakers: James D'Amato
 - 2026-02-07 — 637. One Shot 100.1 OSN — speakers: One Shot, James D'Amato
