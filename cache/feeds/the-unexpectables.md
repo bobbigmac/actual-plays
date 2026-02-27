@@ -2,10 +2,10 @@
 
 - slug: `the-unexpectables`
 - source: `https://feeds.libsyn.com/105383/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"ac9952a020dde629edfdac5ee2181a47"`
-- last_modified: `Thu, 29 Jan 2026 18:38:48 GMT`
+- fetched_at: `2026-02-27T19:04:47+00:00`
+- checked_at: `2026-02-27T19:04:47+00:00`
+- etag: `"e66795f9da8279176880a671ee32e32a"`
+- last_modified: `Fri, 27 Feb 2026 17:40:16 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://101club.libsyn.com/website",
   "description": "Follow the travels and tribulations of Task the Kobold Ranger, Greckles the Kenku Rogue, Panic the Tiefling Bard, and Borky the Orc Barbarian, as they traverse the dangerous and mysterious lands of Alivast, and the Capital City that hosts a bungle of characters, magic and villains.",
   "image_url": "https://static.libsyn.com/p/assets/6/9/c/7/69c7492dcb405690/sweet_dragon_logo.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-27T19:04:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,117 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "f543a67d13b9062682a2cbfe276ccd7f27ff0c57",
+      "title": "The Unexpectables II Episode 141 - My Little Wormy",
+      "published_at": "2026-02-27T17:37:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-141-my-little-wormy",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_141_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140306625",
+      "itunes_duration": "02:46:58",
+      "speakers": [
+        "My Little Wormy"
+      ],
+      "topics": [
+        "unexpectables",
+        "wormy"
+      ]
+    },
+    {
+      "key": "1169620f60e2d987b85d9a522cd44d46e8b8d955",
+      "title": "The Unexpectables II Episode 140 - Pig Tales",
+      "published_at": "2026-02-27T17:34:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-140-pig-tales",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_140_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135503213",
+      "itunes_duration": "02:41:15",
+      "speakers": [
+        "Pig Tales"
+      ],
+      "topics": [
+        "unexpectables",
+        "tales"
+      ]
+    },
+    {
+      "key": "de1b73e8fbbec337d4127d7a5d908aef1e595f6b",
+      "title": "Gateway 103 - The End, My Only Friend (Finale)",
+      "published_at": "2026-02-27T17:34:00+00:00",
+      "link": "https://101club.libsyn.com/gateway-103-the-end-my-only-friend-finale",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Gateway_103_Finale_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "260046828",
+      "itunes_duration": "05:09:31",
+      "speakers": [
+        "My Only Friend"
+      ],
+      "topics": [
+        "gateway",
+        "friend",
+        "finale"
+      ]
+    },
+    {
+      "key": "774bffbd6f4fd27353e6b7c415e9354e1600b437",
+      "title": "The Unexpectables II Episode 139 - Were Do We Begin",
+      "published_at": "2026-02-27T17:30:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-139-were-do-we-begin",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_139_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134908076",
+      "itunes_duration": "02:40:32",
+      "speakers": [],
+      "topics": [
+        "unexpectables"
+      ]
+    },
+    {
+      "key": "5cbf092b3465e81ef3171ee7e4b48692804093cf",
+      "title": "The Unexpectables II Episode 138 - New Normal",
+      "published_at": "2026-02-27T17:27:00+00:00",
+      "link": "https://101club.libsyn.com/the-unexpectables-ii-episode-138-new-normal",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Unexpectables_II_Episode_138_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "152852579",
+      "itunes_duration": "03:01:54",
+      "speakers": [
+        "New Normal"
+      ],
+      "topics": [
+        "unexpectables",
+        "normal"
+      ]
+    },
+    {
+      "key": "a7d3703c9975827256e659f611de611fa10fc07e",
+      "title": "Gateway 102 - Never Walk Alone",
+      "published_at": "2026-02-27T17:27:00+00:00",
+      "link": "https://101club.libsyn.com/gateway-102-never-walk-alone",
+      "description": "",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/101club/Gateway_102_mixdown.mp3?dest-id=566464",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183485505",
+      "itunes_duration": "03:38:22",
+      "speakers": [
+        "Never Walk Alone"
+      ],
+      "topics": [
+        "gateway"
+      ]
+    },
     {
       "key": "cb3f7ff4ec6387813dc0b9ee51727a5536f68bed",
       "title": "The Unexpectables II Episode 137 - Raising the Bar",
@@ -6510,9 +6621,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126771878",
       "itunes_duration": "02:55:57",
-      "speakers": [
-        "Prince Division"
-      ],
+      "speakers": [],
       "topics": [
         "prince",
         "division",
@@ -7217,7 +7326,7 @@
       "enclosure_length": "109108806",
       "itunes_duration": "02:31:23",
       "speakers": [
-        "Sarah Anne Williams"
+        "Distortion Devil"
       ],
       "topics": [
         "gateway",
@@ -8247,9 +8356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134279728",
       "itunes_duration": "03:03:51",
-      "speakers": [
-        "Guest Starring Shenpai"
-      ],
+      "speakers": [],
       "topics": [
         "nuts",
         "dolt"
@@ -8974,9 +9081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161184865",
       "itunes_duration": "03:41:13",
-      "speakers": [
-        "beach outfits"
-      ],
+      "speakers": [],
       "topics": [
         "beach"
       ]
@@ -9161,9 +9266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129100365",
       "itunes_duration": "02:56:39",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": [
         "merkd"
       ]
@@ -9390,9 +9493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138531001",
       "itunes_duration": "02:42:39",
-      "speakers": [
-        "Forward Good Time"
-      ],
+      "speakers": [],
       "topics": [
         "super",
         "smashed",
@@ -9509,7 +9610,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111591397",
       "itunes_duration": "02:32:20",
-      "speakers": [],
+      "speakers": [
+        "Dragon Day"
+      ],
       "topics": [
         "dragon",
         "appreciation"
@@ -9526,7 +9629,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111591397",
       "itunes_duration": "02:32:20",
-      "speakers": [],
+      "speakers": [
+        "Dragon Day"
+      ],
       "topics": [
         "dragon",
         "appreciation"
@@ -9594,9 +9699,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125116235",
       "itunes_duration": "02:51:07",
-      "speakers": [
-        "Ft Octopimp"
-      ],
+      "speakers": [],
       "topics": [
         "rock",
         "boat"
@@ -9613,9 +9716,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125116235",
       "itunes_duration": "02:51:07",
-      "speakers": [
-        "Ft Octopimp"
-      ],
+      "speakers": [],
       "topics": [
         "rock",
         "boat"
@@ -9781,9 +9882,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147281777",
       "itunes_duration": "03:24:31",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": [
         "political",
         "remy",
@@ -9801,9 +9900,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154356120",
       "itunes_duration": "03:31:44",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -9817,9 +9914,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135708284",
       "itunes_duration": "03:08:27",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": [
         "mountain"
       ]
@@ -9938,7 +10033,7 @@
       "enclosure_length": "183460530",
       "itunes_duration": "04:14:44",
       "speakers": [
-        "Edward Bosco"
+        "Shadow War"
       ],
       "topics": [
         "shadow",
@@ -10032,7 +10127,7 @@
       "enclosure_length": "100458844",
       "itunes_duration": "02:19:28",
       "speakers": [
-        "Edward Bosco"
+        "Shadow War"
       ],
       "topics": [
         "shadow",
@@ -10132,7 +10227,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126738355",
       "itunes_duration": "02:56:01",
-      "speakers": [],
+      "speakers": [
+        "Arc Finale"
+      ],
       "topics": [
         "boiz",
         "town",
@@ -10150,9 +10247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "127986276",
       "itunes_duration": "02:57:42",
-      "speakers": [
-        "Thrash Metal"
-      ],
+      "speakers": [],
       "topics": [
         "tables"
       ]
@@ -10168,9 +10263,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135493496",
       "itunes_duration": "03:08:10",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": [
         "special",
         "series"
@@ -10386,8 +10479,7 @@
       "enclosure_length": "113483436",
       "itunes_duration": "02:37:36",
       "speakers": [
-        "Borky Ragnarok",
-        "Robin Hood"
+        "Borky Ragnarok"
       ],
       "topics": [
         "skyjinx"
@@ -10548,7 +10640,7 @@
       "enclosure_length": "119199126",
       "itunes_duration": "02:45:32",
       "speakers": [
-        "Edward Bosco"
+        "Sweet Dragon"
       ],
       "topics": [
         "homeward",
@@ -10567,7 +10659,7 @@
       "enclosure_length": "117651251",
       "itunes_duration": "02:43:22",
       "speakers": [
-        "Edward Bosco"
+        "Strangers Embracing"
       ],
       "topics": [
         "kindness",
@@ -10585,9 +10677,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125240888",
       "itunes_duration": "02:53:55",
-      "speakers": [
-        "Edward Bosco"
-      ],
+      "speakers": [],
       "topics": [
         "fowl",
         "play"
@@ -10788,6 +10878,12 @@
 
 ## Episodes (newest first)
 
+- 2026-02-27 — The Unexpectables II Episode 141 - My Little Wormy — speakers: My Little Wormy
+- 2026-02-27 — The Unexpectables II Episode 140 - Pig Tales — speakers: Pig Tales
+- 2026-02-27 — Gateway 103 - The End, My Only Friend (Finale) — speakers: My Only Friend
+- 2026-02-27 — The Unexpectables II Episode 139 - Were Do We Begin
+- 2026-02-27 — The Unexpectables II Episode 138 - New Normal — speakers: New Normal
+- 2026-02-27 — Gateway 102 - Never Walk Alone — speakers: Never Walk Alone
 - 2026-01-29 — The Unexpectables II Episode 137 - Raising the Bar
 - 2026-01-29 — Gateway 101 - Swing Low, Sweet Chariot — speakers: Sweet Chariot
 - 2026-01-29 — The Unexpectables II Episode 136 - Staring Down the Barrel — speakers: Staring Down
@@ -11134,7 +11230,7 @@
 - 2021-07-15 — Episode 159 - A Rat-ical Performance
 - 2021-07-15 — Gateway 10 - Hit the Road, Jack
 - 2021-07-15 — Episode 158 - But at What Cost?
-- 2021-07-15 — Prince Division 34 - Bad Chemistry — speakers: Prince Division
+- 2021-07-15 — Prince Division 34 - Bad Chemistry
 - 2021-07-15 — Episdoe 157 - The Glaring Truth — speakers: Snake Milk
 - 2021-07-15 — Episode 156 - Relaxation and Revelation
 - 2021-07-15 — Episode 155 - Passing The Torch
@@ -11173,7 +11269,7 @@
 - 2021-02-08 — Prince Division 26 - Festival of Fears — speakers: Prince Division
 - 2021-02-08 — Episode 140 - Whale of a Time
 - 2021-02-08 — Episode 139 - Tailwinds and Treasures
-- 2021-01-19 — Gateway 01 - Saint Louis Blues — speakers: Sarah Anne Williams
+- 2021-01-19 — Gateway 01 - Saint Louis Blues — speakers: Distortion Devil
 - 2021-01-19 — Episode 138- Kokyū
 - 2021-01-19 — Episode 137 - Monkey Wrench In Our Plans
 - 2021-01-19 — Episode 136 - Undetectables
@@ -11229,7 +11325,7 @@
 - 2020-06-03 — Prince Division 08 - It Ain't Easy Being Green — speakers: Prince Division
 - 2020-06-03 — Episode 115 - Oreyara's Task
 - 2020-05-28 — Prince Division 07 - Green with Envy
-- 2020-05-28 — Episode 114 - Nuts & Dolts — speakers: Guest Starring Shenpai
+- 2020-05-28 — Episode 114 - Nuts & Dolts
 - 2020-05-25 — Prince Division 06 - Interrogation and Betrayal — speakers: Prince Division
 - 2020-05-25 — Episode 113 - Objects and Secret Projects — speakers: Secret Projects
 - 2020-05-25 — Prince Division 05 - Desk-work and Dragons — speakers: Prince Division
@@ -11269,7 +11365,7 @@
 - 2019-10-11 — SPECIAL - DA KREW TEW
 - 2019-10-04 — Episode 89 - Where are we?!?
 - 2019-09-28 — Episode 88 - Louder Than Hell
-- 2019-09-23 — Episode 87 (100) - The Beach Episode — speakers: beach outfits
+- 2019-09-23 — Episode 87 (100) - The Beach Episode
 - 2019-09-23 — Episode 86 - The Face in the Realm of Discord
 - 2019-09-18 — Special - Merkz 2: Cliff Hanger — speakers: Hanger Remy, Edward Bosco
 - 2019-09-18 — Episode 85 - It Runs in the Family
@@ -11280,7 +11376,7 @@
 - 2019-07-23 — Episode 81 - Getting in Too Deep
 - 2019-07-12 — Episode 80 - Welcome to the Fungal
 - 2019-07-05 — Episode 79 - It Gets Worse
-- 2019-06-30 — One Off - Get Merk'd — speakers: Edward Bosco
+- 2019-06-30 — One Off - Get Merk'd
 - 2019-06-24 — Shadow War: Lyric Goes to Jail (One-Off) — speakers: Edward Bosco
 - 2019-06-13 — Episode 78 - Reeking Havoc
 - 2019-06-06 — Episode 77 - Omelette-Du-Fromaw — speakers: Sweet Dragon
@@ -11293,20 +11389,20 @@
 - 2019-04-12 — Episode 70 - I Smell a Rat
 - 2019-04-06 — Episode 69 - Law and Ourn
 - 2019-03-30 — Episode 68 - Ghost and Goblins
-- 2019-03-08 — Episode 67 - Super Smashed Bros — speakers: Forward Good Time
+- 2019-03-08 — Episode 67 - Super Smashed Bros
 - 2019-03-05 — Episode 66 - Plucking at the Heart Strings
 - 2019-02-22 — Episode 66 - And now, your moment of Zen
 - 2019-02-17 — Episode 65 - The Ship Sails
 - 2019-02-09 — Episode 64 - Flame War
 - 2019-02-02 — Episode 63 - Plan Bees
 - 2019-01-25 — Episode 62 - Blame it on the Ourn-G
-- 2019-01-23 — Episode 61 - Dragon Appreciation Day
-- 2019-01-23 — Episode 61 - Dragon Appreciation Day
+- 2019-01-23 — Episode 61 - Dragon Appreciation Day — speakers: Dragon Day
+- 2019-01-23 — Episode 61 - Dragon Appreciation Day — speakers: Dragon Day
 - 2019-01-14 — Episode 60 - Tactics & Tanneruks
 - 2019-01-10 — Episode 59 - The Deep End
 - 2018-12-21 — Episode 58 - Hell and High Water
-- 2018-12-14 — Episode 57 - Rock the Boat — speakers: Ft Octopimp
-- 2018-12-14 — Episode 57 - Rock the Boat — speakers: Ft Octopimp
+- 2018-12-14 — Episode 57 - Rock the Boat
+- 2018-12-14 — Episode 57 - Rock the Boat
 - 2018-12-08 — Episode 56 - Nautical Nonsense
 - 2018-12-02 — Episode 55 - A Sinking Feeling
 - 2018-11-23 — Episode 54 - Quite the Catch
@@ -11316,29 +11412,29 @@
 - 2018-10-19 — Special - DA KREW EPEESODE TOO
 - 2018-10-13 — Special - DA KREW EPEESODE WON
 - 2018-10-05 — Episode 51 - Just Desserts
-- 2018-09-29 — Episode 50 - Political Remy-fications — speakers: Edward Bosco
-- 2018-09-21 — Episode 49 - Breaking the Ice — speakers: Edward Bosco
-- 2018-09-16 — Episode 48 - Ain't No Mountain High Enough — speakers: Edward Bosco
+- 2018-09-29 — Episode 50 - Political Remy-fications
+- 2018-09-21 — Episode 49 - Breaking the Ice
+- 2018-09-16 — Episode 48 - Ain't No Mountain High Enough
 - 2018-09-07 — Episode 47 - Cruel Runnings
 - 2018-09-01 — Episode 46 - Of Monsters and Men
 - 2018-08-17 — Episode 45 - Shrugs, Flubs, and Shrubs
 - 2018-08-10 — Episode 44 - Ranger Danger
 - 2018-08-02 — Episode 43 - Bird Up
 - 2018-07-26 — Episode 42 - Dancing Around the Issues — speakers: Edward Bosco
-- 2018-07-20 — Shadow War 2: Long Quest Goodnight — speakers: Edward Bosco
+- 2018-07-20 — Shadow War 2: Long Quest Goodnight — speakers: Shadow War
 - 2018-07-16 — Episode 41 - Dragon Force
 - 2018-07-07 — Episode 40 - Naked Fear
 - 2018-07-01 — Shadow War: Strife In The Sharpwoods Part 2 (One-Off) — speakers: Shadow War
 - 2018-07-01 — Shadow War: Strife In The Sharpwoods Part 2 (One-Off) — speakers: Shadow War
-- 2018-06-29 — Shadow War: Strife In the Sharpwoods Part 1 (One-Off) — speakers: Edward Bosco
+- 2018-06-29 — Shadow War: Strife In the Sharpwoods Part 1 (One-Off) — speakers: Shadow War
 - 2018-06-22 — Episode 39 - Slayride
 - 2018-06-15 — Episode 38 - Tea Pose
 - 2018-06-07 — Episode 37 - Snow Angel
 - 2018-06-01 — Episode 36 - Oh no, He's Hot
 - 2018-05-25 — Episode 35 - Lightning Never Strikes Twice — speakers: Lightning Never Strikes Twice
-- 2018-05-19 — Episode 34 - THE BOIZ ARE BACK IN TOWN (Arc Finale)
-- 2018-05-11 — Episode 33 - The Tables Have Turned — speakers: Thrash Metal
-- 2018-05-04 — One-Off Special 02 - S-Series — speakers: Edward Bosco
+- 2018-05-19 — Episode 34 - THE BOIZ ARE BACK IN TOWN (Arc Finale) — speakers: Arc Finale
+- 2018-05-11 — Episode 33 - The Tables Have Turned
+- 2018-05-04 — One-Off Special 02 - S-Series
 - 2018-04-26 — One-Off Special 01 - The Unpredictables — speakers: Featuring Arcolf
 - 2018-04-20 — Episode 32 - Poultrygeist
 - 2018-04-13 — Episode 31 - Too Many Cooks
@@ -11351,7 +11447,7 @@
 - 2018-02-23 — Episode 24 - It Boggles The Mind
 - 2018-02-16 — Episode 23 - Flavors of Life
 - 2018-02-09 — Episode 22 - A Giant Performance
-- 2018-02-02 — Episode 21 - SkyJinx — speakers: Borky Ragnarok, Robin Hood
+- 2018-02-02 — Episode 21 - SkyJinx — speakers: Borky Ragnarok
 - 2018-01-26 — Episode 20 - Curtain Call
 - 2018-01-19 — Episode 19 - Branching Paths & Aching Hearts
 - 2018-01-12 — Episode 18 - It's Hard to Pocket a Baby
@@ -11360,9 +11456,9 @@
 - 2017-12-23 — Episode 15 - Dangerously Cheesy — speakers: Dangerously Cheesy Donning
 - 2017-12-15 — Episode 14 - A Straightforward Good Time
 - 2017-12-15 — Episode 14 - A Straightforward Good Time
-- 2017-12-08 — Episode 13 - Homeward Bound — speakers: Edward Bosco
-- 2017-12-01 — Episode 12 - The Kindness of Strangers — speakers: Edward Bosco
-- 2017-11-24 — Episode 11 - Fowl Play — speakers: Edward Bosco
+- 2017-12-08 — Episode 13 - Homeward Bound — speakers: Sweet Dragon
+- 2017-12-01 — Episode 12 - The Kindness of Strangers — speakers: Strangers Embracing
+- 2017-11-24 — Episode 11 - Fowl Play
 - 2017-11-16 — Episode 10 - Down to Earth — speakers: Edward Bosco
 - 2017-11-11 — Episode 9 - Painful Memories — speakers: Painful Memories Task
 - 2017-11-08 — Episode 8 - The Face in the Attic

@@ -2,9 +2,9 @@
 
 - slug: `girls-guts-glory-the-broad-cast`
 - source: `https://pinecast.com/feed/girls-guts-glory`
-- fetched_at: `2026-02-27T15:54:15+00:00`
-- checked_at: `2026-02-27T15:54:15+00:00`
-- last_modified: `Fri, 27 Feb 2026 15:54:21 GMT`
+- fetched_at: `2026-02-27T19:04:47+00:00`
+- checked_at: `2026-02-27T19:04:47+00:00`
+- last_modified: `Fri, 27 Feb 2026 18:56:58 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.girlsgutsgloryrpg.com/",
   "description": "The ladies of Girls Guts Glory bring you new characters and a new Dungeons & Dragons campaign in podcast form! Join us for thrilling storytelling by Dungeon Master Kelly D'Angelo, with twists determined by the roll of the dice. Kimberly Daugherty, Erika Fermina, Rachel Seeley, Alice Greczyn, Kelen Coleman and Allie Gonino are back playing new characters with an all new storyline! Don't worry, their livestream will return once they have a studio and we'll find out what happened to Moira. In the meantime, enjoy!",
   "image_url": "https://storage.pinecast.net/podcasts/covers/c9f390e7-576f-49d8-b454-813986966832/GGGbroadcastclean.jpg",
-  "fetched_at": "2026-02-27T15:54:15+00:00",
+  "fetched_at": "2026-02-27T19:04:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
