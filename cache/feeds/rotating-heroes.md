@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-02-20T13:35:29+00:00`
-- checked_at: `2026-02-20T13:35:29+00:00`
-- etag: `"6e517-64b3e82a0baf4"`
-- last_modified: `Fri, 20 Feb 2026 10:01:51 GMT`
+- fetched_at: `2026-02-27T13:34:26+00:00`
+- checked_at: `2026-02-27T13:34:26+00:00`
+- etag: `"6f086-64bcb5322b252"`
+- last_modified: `Fri, 27 Feb 2026 10:01:45 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,32 @@
   "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
-  "fetched_at": "2026-02-20T13:35:29+00:00",
+  "fetched_at": "2026-02-27T13:34:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "581a95b2152ce56a5c46aa0e949eccaf2a85239b",
+      "title": "Axis Arc 1 Ep 9: Sucked out like a Boba PART 2",
+      "published_at": "2026-02-27T10:00:00+00:00",
+      "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
+      "description": "As our crew plan their next move, it’s becoming very clear that time is running short to save the cruise liner. --- Want even more actual play goodness in your life? Why not check out 12 Sided Studios' new show Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game. And If you just want to know how the end of this Arc goes down you can head over to The Rotating Heroes Patreon to catch up on the whole of Axis so far as we gear up for Arc 4!",
+      "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8b12c334-ad1f-458b-b6b1-672695b66b5c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147258947",
+      "itunes_duration": "01:16:42",
+      "speakers": [
+        "Axis Arc"
+      ],
+      "topics": [
+        "axis",
+        "boba"
+      ]
+    },
     {
       "key": "3c38b9a326fe2f5ab290695406e1888989f8cfe8",
       "title": "Axis Arc 1 Ep 9: Sucked out like a Boba PART 1",
@@ -37,8 +56,7 @@
       "enclosure_length": "97311299",
       "itunes_duration": "50:41",
       "speakers": [
-        "Luke Dale",
-        "Tom McKay"
+        "Axis Arc"
       ],
       "topics": [
         "axis",
@@ -191,9 +209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83495749",
       "itunes_duration": "43:29",
-      "speakers": [
-        "Merry Christmas Rotatoes"
-      ],
+      "speakers": [],
       "topics": [
         "axis",
         "crimson"
@@ -210,7 +226,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113336389",
       "itunes_duration": "59:02",
-      "speakers": [],
+      "speakers": [
+        "Axis Arc",
+        "Probably Fine"
+      ],
       "topics": [
         "axis",
         "fine"
@@ -321,10 +340,8 @@
       "enclosure_length": "89787205",
       "itunes_duration": "46:46",
       "speakers": [
-        "Jasper William Cartwright",
-        "Tundra George Primavera",
-        "Aulie Flash Jon Mackey",
-        "Shaddy Turlett"
+        "Axis Arc",
+        "Silver Hawk"
       ],
       "topics": [
         "axis",
@@ -361,10 +378,8 @@
       "enclosure_length": "78383941",
       "itunes_duration": "40:49",
       "speakers": [
-        "Jasper William Cartwright",
-        "Tundra George Primavera",
-        "Aulie Flash Jon Mackey",
-        "Shaddy Turlett"
+        "Axis Arc",
+        "Silver Hawk"
       ],
       "topics": [
         "axis",
@@ -401,7 +416,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "246818629",
       "itunes_duration": "02:08:33",
-      "speakers": [],
+      "speakers": [
+        "One Way"
+      ],
       "topics": []
     },
     {
@@ -416,9 +433,7 @@
       "enclosure_length": "98172997",
       "itunes_duration": "51:08",
       "speakers": [
-        "Jasper William Cartwright",
-        "Vissel Divinostra",
-        "Mark Meer"
+        "Jasper Wil"
       ],
       "topics": [
         "barnabus",
@@ -437,11 +452,7 @@
       "enclosure_length": "75629125",
       "itunes_duration": "39:23",
       "speakers": [
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field",
-        "Jin Thinking"
+        "Heroes Rising"
       ],
       "topics": [
         "heroes"
@@ -459,11 +470,7 @@
       "enclosure_length": "71641669",
       "itunes_duration": "37:19",
       "speakers": [
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field",
-        "Jin Thinking"
+        "Heroes Rising"
       ],
       "topics": [
         "heroes"
@@ -480,12 +487,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94243141",
       "itunes_duration": "49:05",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field"
-      ],
+      "speakers": [],
       "topics": [
         "plane",
         "fire",
@@ -503,12 +505,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91145797",
       "itunes_duration": "47:28",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field"
-      ],
+      "speakers": [],
       "topics": [
         "plane",
         "fire",
@@ -527,9 +524,7 @@
       "enclosure_length": "76417861",
       "itunes_duration": "39:48",
       "speakers": [
-        "Jasper William Cartwright",
-        "Teeths Caldwell Tanner",
-        "Vissel Divanostra"
+        "Swift Death"
       ],
       "topics": [
         "swift",
@@ -548,9 +543,7 @@
       "enclosure_length": "108797509",
       "itunes_duration": "56:40",
       "speakers": [
-        "Jasper William Cartwright",
-        "Teeths Caldwell Tanner",
-        "Vissel Divanostra"
+        "Swift Death"
       ],
       "topics": [
         "swift",
@@ -569,12 +562,7 @@
       "enclosure_length": "121508677",
       "itunes_duration": "01:03:17",
       "speakers": [
-        "Alex Jordan",
-        "Hollie Bennett",
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field"
+        "Thursday August"
       ],
       "topics": []
     },
@@ -589,12 +577,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70533445",
       "itunes_duration": "36:44",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Jacob Wysocki",
-        "Grib Victoria Longwell",
-        "Freya Black Devin Field"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -627,10 +610,7 @@
       "enclosure_length": "86259589",
       "itunes_duration": "51:21",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "Tortley Freaking Warlock My"
       ],
       "topics": [
         "tortley",
@@ -651,10 +631,7 @@
       "enclosure_length": "77889157",
       "itunes_duration": "46:22",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "Tortley Freaking Warlock My"
       ],
       "topics": [
         "tortley",
@@ -675,11 +652,7 @@
       "enclosure_length": "97487365",
       "itunes_duration": "58:02",
       "speakers": [
-        "Zac Oyama",
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "Rotating Heroes"
       ],
       "topics": [
         "coco",
@@ -698,11 +671,7 @@
       "enclosure_length": "125089093",
       "itunes_duration": "01:05:09",
       "speakers": [
-        "Zac Oyama",
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "Rotating Heroes"
       ],
       "topics": [
         "coco",
@@ -720,12 +689,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128796229",
       "itunes_duration": "01:07:05",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
-      ],
+      "speakers": [],
       "topics": [
         "permanent"
       ]
@@ -741,12 +705,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68626309",
       "itunes_duration": "40:51",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
-      ],
+      "speakers": [],
       "topics": [
         "permanent"
       ]
@@ -763,10 +722,7 @@
       "enclosure_length": "132466981",
       "itunes_duration": "01:18:51",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "William Cartwrigh"
       ],
       "topics": [
         "dumbass"
@@ -784,10 +740,7 @@
       "enclosure_length": "88533061",
       "itunes_duration": "46:07",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif",
-        "Vana Victar Jon Mackey",
-        "Dooter Zac Oyama"
+        "William Cartwrigh"
       ],
       "topics": [
         "dumbass"
@@ -804,10 +757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115433797",
       "itunes_duration": "01:00:07",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": [
         "wolves"
       ]
@@ -823,10 +773,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56872731",
       "itunes_duration": "59:05",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": [
         "wolves"
       ]
@@ -843,8 +790,9 @@
       "enclosure_length": "50971169",
       "itunes_duration": "52:56",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
+        "Epic Treks",
+        "Soulful Reunions",
+        "Dance Battles"
       ],
       "topics": [
         "epic",
@@ -867,8 +815,9 @@
       "enclosure_length": "60039629",
       "itunes_duration": "01:02:23",
       "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
+        "Epic Treks",
+        "Soulful Reunions",
+        "Dance Battles"
       ],
       "topics": [
         "epic",
@@ -890,10 +839,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51934955",
       "itunes_duration": "53:56",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": [
         "land",
         "time"
@@ -910,10 +856,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40815569",
       "itunes_duration": "42:21",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": [
         "land",
         "time"
@@ -930,10 +873,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53424577",
       "itunes_duration": "55:29",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -947,10 +887,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40706915",
       "itunes_duration": "42:14",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Erin Keif"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -996,9 +933,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41514817",
       "itunes_duration": "43:05",
-      "speakers": [
-        "Free Listening"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1013,12 +948,7 @@
       "enclosure_length": "8966247",
       "itunes_duration": "09:10",
       "speakers": [
-        "Deep Space",
-        "Deep Space Dial",
-        "Arc Bark",
-        "Erin Keif",
-        "Jon Mackey",
-        "George Primavera"
+        "Deep Space"
       ],
       "topics": [
         "deep",
@@ -1040,9 +970,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39657825",
       "itunes_duration": "41:09",
-      "speakers": [
-        "Free Listening"
-      ],
+      "speakers": [],
       "topics": [
         "mind"
       ]
@@ -1097,10 +1025,7 @@
       "enclosure_length": "113170151",
       "itunes_duration": "01:57:43",
       "speakers": [
-        "Goblin Mode",
-        "Amy Vorpahl",
-        "Dan Casey",
-        "Jason Nguyen"
+        "Goblin Mode"
       ],
       "topics": [
         "sagas",
@@ -1192,11 +1117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44759017",
       "itunes_duration": "46:28",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "patron"
       ]
@@ -1212,11 +1133,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32320134",
       "itunes_duration": "33:30",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "patron"
       ]
@@ -1232,11 +1149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39766912",
       "itunes_duration": "41:16",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "gust",
         "distrust"
@@ -1253,11 +1166,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36209243",
       "itunes_duration": "37:33",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "gust",
         "distrust"
@@ -1274,11 +1183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40793832",
       "itunes_duration": "42:20",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "water"
       ]
@@ -1294,11 +1199,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46654456",
       "itunes_duration": "48:26",
-      "speakers": [
-        "Zac Oyama",
-        "Dan Lippert",
-        "Glegg Ryan Rosenberg"
-      ],
+      "speakers": [],
       "topics": [
         "water"
       ]
@@ -1314,12 +1215,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48679474",
       "itunes_duration": "50:33",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Tionne Riche Vic Michaelis"
-      ],
+      "speakers": [],
       "topics": [
         "senior",
         "section"
@@ -1336,12 +1232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51010851",
       "itunes_duration": "52:58",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Tionne Riche Vic Michaelis"
-      ],
+      "speakers": [],
       "topics": [
         "senior",
         "section"
@@ -1358,12 +1249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38424855",
       "itunes_duration": "39:52",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Tionne Riche Vic Michaelis"
-      ],
+      "speakers": [],
       "topics": [
         "learning",
         "combat"
@@ -1380,12 +1266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45232992",
       "itunes_duration": "46:57",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Fhinne Foode"
-      ],
+      "speakers": [],
       "topics": [
         "learning",
         "combat"
@@ -1402,12 +1283,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46629401",
       "itunes_duration": "48:24",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Fhinne Foode"
-      ],
+      "speakers": [],
       "topics": [
         "math",
         "history"
@@ -1424,12 +1300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44819638",
       "itunes_duration": "46:31",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Fhinne Foode"
-      ],
+      "speakers": [],
       "topics": [
         "math",
         "history"
@@ -1447,11 +1318,9 @@
       "enclosure_length": "47261775",
       "itunes_duration": "49:04",
       "speakers": [
-        "Booky Creep",
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Fhinne Foode"
+        "New World",
+        "Same Problems",
+        "If Spotify"
       ],
       "topics": [
         "world",
@@ -1471,11 +1340,9 @@
       "enclosure_length": "42279325",
       "itunes_duration": "43:53",
       "speakers": [
-        "Booky Creep",
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Rashawn Scott",
-        "Fhinne Foode"
+        "New World",
+        "Same Problems",
+        "If Spotify"
       ],
       "topics": [
         "world",
@@ -1494,12 +1361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79491458",
       "itunes_duration": "01:22:38",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "book",
         "bird",
@@ -1519,10 +1381,7 @@
       "enclosure_length": "66568983",
       "itunes_duration": "01:09:11",
       "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
+        "If Spotify"
       ],
       "topics": [
         "book",
@@ -1542,11 +1401,7 @@
       "enclosure_length": "32996415",
       "itunes_duration": "34:12",
       "speakers": [
-        "Kneedle Bottom",
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
+        "Kneedle Bottom"
       ],
       "topics": [
         "grave",
@@ -1567,11 +1422,7 @@
       "enclosure_length": "48057575",
       "itunes_duration": "49:54",
       "speakers": [
-        "Kneedle Bottom",
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
+        "Kneedle Bottom"
       ],
       "topics": [
         "grave",
@@ -1591,12 +1442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42248346",
       "itunes_duration": "43:51",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "soapy"
       ]
@@ -1612,12 +1458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45076676",
       "itunes_duration": "46:47",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Jin Erika Ishii",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "soapy"
       ]
@@ -1633,12 +1474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48152855",
       "itunes_duration": "50:00",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Erika Ishii",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "trail",
         "world"
@@ -1655,12 +1491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45039894",
       "itunes_duration": "46:45",
-      "speakers": [
-        "Jasper William Cartwright",
-        "Zac Oyama",
-        "Erika Ishii",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "trail",
         "world"
@@ -1677,14 +1508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35006345",
       "itunes_duration": "36:18",
-      "speakers": [
-        "Will Pompapumpa",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert",
-        "Jacob Wysocki"
-      ],
+      "speakers": [],
       "topics": [
         "pompapumpa",
         "pompadunna"
@@ -1701,14 +1525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56043485",
       "itunes_duration": "58:13",
-      "speakers": [
-        "Will Pompapumpa",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert",
-        "Jacob Wysocki"
-      ],
+      "speakers": [],
       "topics": [
         "pompapumpa",
         "pompadunna"
@@ -1725,13 +1542,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90399712",
       "itunes_duration": "01:34:00",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert",
-        "Jacob Wysocki"
-      ],
+      "speakers": [],
       "topics": [
         "mount",
         "trunkus"
@@ -1748,13 +1559,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50676465",
       "itunes_duration": "52:37",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert",
-        "Jacob Wysocki"
-      ],
+      "speakers": [],
       "topics": [
         "pompapumpa"
       ]
@@ -1770,13 +1575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39600547",
       "itunes_duration": "41:05",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert",
-        "Jacob Wysocki"
-      ],
+      "speakers": [],
       "topics": [
         "pompapumpa"
       ]
@@ -1794,13 +1593,7 @@
       "itunes_duration": "01:34:29",
       "speakers": [
         "Sago Glegg",
-        "Dan Lippert",
-        "Jacob Wysocki",
-        "Rekha Shankar",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Rekha Shankar Dan Lippert"
+        "Dan Lippert"
       ],
       "topics": [
         "leonin",
@@ -1818,15 +1611,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77386142",
       "itunes_duration": "01:20:27",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley",
-        "Dan Lippert",
-        "Grant O'Brien"
-      ],
+      "speakers": [],
       "topics": [
         "party"
       ]
@@ -1842,15 +1627,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52311099",
       "itunes_duration": "54:20",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley",
-        "Dan Lippert",
-        "Grant O'Brien"
-      ],
+      "speakers": [],
       "topics": [
         "party"
       ]
@@ -1866,16 +1643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57671848",
       "itunes_duration": "59:55",
-      "speakers": [
-        "Roland Volkes",
-        "John Daffodil",
-        "Keep Eatin",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley"
-      ],
+      "speakers": [],
       "topics": [
         "sloshin",
         "noshin"
@@ -1892,16 +1660,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49070666",
       "itunes_duration": "50:57",
-      "speakers": [
-        "Roland Volkes",
-        "John Daffodil",
-        "Keep Eatin",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley"
-      ],
+      "speakers": [],
       "topics": [
         "sloshin",
         "noshin"
@@ -1919,14 +1678,7 @@
       "enclosure_length": "49787459",
       "itunes_duration": "51:42",
       "speakers": [
-        "John Daffodil",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley",
-        "Dan Lippert",
-        "Grant O'Brien"
+        "Bumper Street"
       ],
       "topics": [
         "bumper",
@@ -1945,14 +1697,7 @@
       "enclosure_length": "39999692",
       "itunes_duration": "41:30",
       "speakers": [
-        "John Daffodil",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nance Rae",
-        "Ally Beardsley",
-        "Dan Lippert",
-        "Grant O'Brien"
+        "Bumper Street"
       ],
       "topics": [
         "bumper",
@@ -1971,14 +1716,8 @@
       "enclosure_length": "89919892",
       "itunes_duration": "01:33:30",
       "speakers": [
-        "Nance Rae",
-        "Ally Beardsley",
-        "Jon Daffodil",
-        "Grant O'Brien",
-        "Dan Lippert",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything"
+        "Chili Night Howdy Rotatoes",
+        "Sapphire Lakes"
       ],
       "topics": [
         "chili",
@@ -1996,13 +1735,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43275332",
       "itunes_duration": "44:55",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "moon"
       ]
@@ -2018,13 +1751,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54879550",
       "itunes_duration": "57:00",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "moon"
       ]
@@ -2040,13 +1767,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48361895",
       "itunes_duration": "50:13",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "thread",
         "fate"
@@ -2063,13 +1784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59594477",
       "itunes_duration": "01:01:55",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "thread",
         "fate"
@@ -2086,13 +1801,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58753613",
       "itunes_duration": "01:01:02",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "tommy"
       ]
@@ -2108,13 +1817,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65737714",
       "itunes_duration": "01:08:19",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Brennan Lee Mulligan",
-        "Matt Cordova"
-      ],
+      "speakers": [],
       "topics": [
         "tommy"
       ]
@@ -2130,13 +1833,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73556016",
       "itunes_duration": "01:16:27",
-      "speakers": [
-        "Matt Cordova",
-        "Brennan Lee Mulligan",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything"
-      ],
+      "speakers": [],
       "topics": [
         "pack"
       ]
@@ -2152,13 +1849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73307283",
       "itunes_duration": "01:16:12",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Victoria Longwell",
-        "Fraeya Black Justin Michael"
-      ],
+      "speakers": [],
       "topics": [
         "belly",
         "beast"
@@ -2175,13 +1866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65757268",
       "itunes_duration": "01:08:20",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Victoria Longwell",
-        "Fraeya Black Justin Michael"
-      ],
+      "speakers": [],
       "topics": [
         "belly",
         "beast"
@@ -2198,13 +1883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56170112",
       "itunes_duration": "58:21",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Victoria Longwell",
-        "Fraeya Black Justin Michael"
-      ],
+      "speakers": [],
       "topics": [
         "supply"
       ]
@@ -2220,13 +1899,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55368048",
       "itunes_duration": "57:31",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Victoria Longwell",
-        "Fraeya Black Justin Michael"
-      ],
+      "speakers": [],
       "topics": [
         "supply"
       ]
@@ -2242,16 +1915,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74738359",
       "itunes_duration": "01:17:41",
-      "speakers": [
-        "Fraeya Black",
-        "Victoria Longwell",
-        "Justin Michael",
-        "Marissa Strickland",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Fraeya Black Justin Michael"
-      ],
+      "speakers": [],
       "topics": [
         "nest"
       ]
@@ -2267,15 +1931,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116099681",
       "itunes_duration": "02:00:46",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "castle",
         "chaos"
@@ -2293,14 +1949,7 @@
       "enclosure_length": "46478555",
       "itunes_duration": "48:15",
       "speakers": [
-        "Waeldon Keep",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
+        "Waeldon Keep"
       ],
       "topics": [
         "battle",
@@ -2319,14 +1968,7 @@
       "enclosure_length": "55803993",
       "itunes_duration": "57:58",
       "speakers": [
-        "Waeldon Keep",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
+        "Waeldon Keep"
       ],
       "topics": [
         "battle",
@@ -2344,15 +1986,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102665556",
       "itunes_duration": "01:46:47",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "swamp",
         "romp"
@@ -2369,16 +2003,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41946618",
       "itunes_duration": "43:32",
-      "speakers": [
-        "Will Fraeya",
-        "Will Grib",
-        "Will Rufus",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "rust",
         "clan"
@@ -2395,16 +2020,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57923458",
       "itunes_duration": "01:00:10",
-      "speakers": [
-        "Will Fraeya",
-        "Will Grib",
-        "Will Rufus",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell"
-      ],
+      "speakers": [],
       "topics": [
         "rust",
         "clan"
@@ -2422,13 +2038,7 @@
       "enclosure_length": "56477802",
       "itunes_duration": "58:40",
       "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
+        "River Crossing"
       ],
       "topics": [
         "river",
@@ -2447,13 +2057,7 @@
       "enclosure_length": "62065498",
       "itunes_duration": "01:04:29",
       "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
+        "River Crossing"
       ],
       "topics": [
         "river",
@@ -2471,16 +2075,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85751249",
       "itunes_duration": "01:29:10",
-      "speakers": [
-        "Displacer Beasts",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "dreams",
         "nightmare"
@@ -2497,15 +2092,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71500085",
       "itunes_duration": "01:14:19",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Devin Field",
-        "Victoria Longwell",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "forest"
       ]
@@ -2522,14 +2109,8 @@
       "enclosure_length": "90663092",
       "itunes_duration": "01:34:17",
       "speakers": [
-        "Devin Field",
-        "Fraeya Black",
-        "Victoria Longwell",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Fraeya Black Jacob Wysocki",
-        "William Cartwright"
+        "Endless Holt",
+        "Fort Cutler"
       ],
       "topics": []
     },
@@ -2544,14 +2125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86053029",
       "itunes_duration": "01:29:28",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "beacon"
       ]
@@ -2567,14 +2141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90401479",
       "itunes_duration": "01:34:00",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "lockkeeper"
       ]
@@ -2590,14 +2157,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54747052",
       "itunes_duration": "56:52",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "lockkeeper"
       ]
@@ -2613,14 +2173,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115461896",
       "itunes_duration": "02:00:06",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "Jacob Wysocki",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "saltbreaker",
         "strike"
@@ -2637,15 +2190,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51384587",
       "itunes_duration": "53:22",
-      "speakers": [
-        "Ally Beardsley",
-        "Jacob Wysocki",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "dock",
         "doctor",
@@ -2663,15 +2208,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53962141",
       "itunes_duration": "56:03",
-      "speakers": [
-        "Ally Beardsley",
-        "Jacob Wysocki",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Nancy-Rae Gan Mike Trapp",
-        "Kyle Crompton"
-      ],
+      "speakers": [],
       "topics": [
         "dock",
         "doctor",
@@ -2689,16 +2226,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72512820",
       "itunes_duration": "01:15:22",
-      "speakers": [
-        "Mike Trapp",
-        "Ally Beardsley",
-        "Jacob Wysocki",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth"
-      ],
+      "speakers": [],
       "topics": [
         "rote",
         "begin"
@@ -2716,14 +2244,7 @@
       "enclosure_length": "79044685",
       "itunes_duration": "01:22:10",
       "speakers": [
-        "Brenda Elizabeth",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp"
+        "Brenda Elizabeth"
       ],
       "topics": [
         "godwalker"
@@ -2741,14 +2262,7 @@
       "enclosure_length": "61087906",
       "itunes_duration": "01:03:28",
       "speakers": [
-        "Brenda Elizabeth",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp"
+        "Brenda Elizabeth"
       ],
       "topics": [
         "godwalker"
@@ -2765,16 +2279,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47766301",
       "itunes_duration": "49:35",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp",
-        "Astrid Starborn"
-      ],
+      "speakers": [],
       "topics": [
         "root"
       ]
@@ -2790,16 +2295,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51200254",
       "itunes_duration": "53:10",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp",
-        "Astrid Starborn"
-      ],
+      "speakers": [],
       "topics": [
         "root"
       ]
@@ -2816,14 +2312,7 @@
       "enclosure_length": "45969068",
       "itunes_duration": "47:43",
       "speakers": [
-        "Brenda Elizabeth",
-        "Bon Appétit",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything"
+        "Brenda Elizabeth"
       ],
       "topics": [
         "downs"
@@ -2841,14 +2330,7 @@
       "enclosure_length": "47003098",
       "itunes_duration": "48:48",
       "speakers": [
-        "Brenda Elizabeth",
-        "Bon Appétit",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything"
+        "Brenda Elizabeth"
       ],
       "topics": [
         "downs"
@@ -2866,14 +2348,7 @@
       "enclosure_length": "49307309",
       "itunes_duration": "51:12",
       "speakers": [
-        "Brenda Elizabeth",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp"
+        "Oops All Mayhem"
       ],
       "topics": [
         "mayhem"
@@ -2891,14 +2366,7 @@
       "enclosure_length": "40700275",
       "itunes_duration": "42:14",
       "speakers": [
-        "Brenda Elizabeth",
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp"
+        "Oops All Mayhem"
       ],
       "topics": [
         "mayhem"
@@ -2915,16 +2383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44642411",
       "itunes_duration": "46:20",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp",
-        "Astrid Starborn"
-      ],
+      "speakers": [],
       "topics": [
         "obelisk",
         "bonbihr",
@@ -2942,16 +2401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65882223",
       "itunes_duration": "01:08:28",
-      "speakers": [
-        "Zac Oyama",
-        "College Humour",
-        "Adam Ruins Everything",
-        "Emily Axford",
-        "Brenda Lizabeth",
-        "Dropout Adam Ruins Everything",
-        "Mike Trapp",
-        "Astrid Starborn"
-      ],
+      "speakers": [],
       "topics": [
         "obelisk",
         "bonbihr",
@@ -2969,10 +2419,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1500576",
       "itunes_duration": "01:24",
-      "speakers": [
-        "Zac Oyama",
-        "Jasper William Cartwright"
-      ],
+      "speakers": [],
       "topics": [
         "rotating",
         "heroes"
@@ -2985,7 +2432,8 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 1 — speakers: Luke Dale, Tom McKay
+- 2026-02-27 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 2 — speakers: Axis Arc
+- 2026-02-20 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 1 — speakers: Axis Arc
 - 2026-02-13 — Axis Arc 1 Ep 8: The Heist PART 2 — speakers: Axis Arc
 - 2026-02-06 — Axis Arc 1 Ep 8: The Heist PART 1 — speakers: Axis Arc
 - 2026-01-30 — Axis Arc 1 Ep 7: Black Holes and Revelations PART 2 — speakers: Axis Arc, Black Holes
@@ -2993,129 +2441,129 @@
 - 2026-01-16 — Axis Arc 1 Ep 6: On the Precipice PART 2 — speakers: Axis Arc
 - 2026-01-09 — Axis Arc 1 Ep 6: On the Precipice PART 1 — speakers: Axis Arc
 - 2026-01-02 — Axis Arc 1 Ep 5: Crimson Fog PART 2
-- 2025-12-26 — Axis Arc 1 Ep 5: Crimson Fog PART 1 — speakers: Merry Christmas Rotatoes
-- 2025-12-19 — Axis Arc 1 Ep 4: It's Probably Fine 🗡️ PART 2
+- 2025-12-26 — Axis Arc 1 Ep 5: Crimson Fog PART 1
+- 2025-12-19 — Axis Arc 1 Ep 4: It's Probably Fine 🗡️ PART 2 — speakers: Axis Arc, Probably Fine
 - 2025-12-12 — Axis Arc 1 Ep 4: It’s Probably Fine! 🗡️ PART 1
 - 2025-12-05 — Axis Arc 1 Ep 3: The Broken Compass PART 2
 - 2025-11-28 — Axis Arc 1 Ep 3: The Broken Compass PART 1
 - 2025-11-21 — Axis Arc 1 Ep 2: Trouble in the Streets PART 2 — speakers: Axis Arc
 - 2025-11-14 — Axis Arc 1 Ep 2: Trouble in the Streets PART 1 — speakers: Axis Arc
-- 2025-11-07 — Axis Arc 1 Ep 1: The Silver Hawk PART 2 — speakers: Jasper William Cartwright, Tundra George Primavera, Aulie Flash Jon Mackey, Shaddy Turlett
+- 2025-11-07 — Axis Arc 1 Ep 1: The Silver Hawk PART 2 — speakers: Axis Arc, Silver Hawk
 - 2025-10-31 — Lodestar Interview - You’re the Goop, I’m the Guy
-- 2025-10-31 — Axis Arc 1 Ep 1: The Silver Hawk PART 1 — speakers: Jasper William Cartwright, Tundra George Primavera, Aulie Flash Jon Mackey, Shaddy Turlett
+- 2025-10-31 — Axis Arc 1 Ep 1: The Silver Hawk PART 1 — speakers: Axis Arc, Silver Hawk
 - 2025-10-24 — Arc 14 Ep 8: An Amalar Epilogue - FULL ARC BARK
-- 2025-10-17 — Arc 14 Ep 7: One Way or Another, It Ends - FULL EPISODE
-- 2025-10-10 — Arc 14 Ep 6: Barnabus Prime FULL EPISODE — speakers: Jasper William Cartwright, Vissel Divinostra, Mark Meer
-- 2025-10-03 — Arc 14 Ep 5: Heroes Rising PART 2 — speakers: Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field, Jin Thinking
-- 2025-09-26 — Arc 14 Ep 5: Heroes Rising PART 1 — speakers: Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field, Jin Thinking
-- 2025-09-19 — Arc 14 Ep 4: A Plane of Fire and Metal PART 2 — speakers: Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field
-- 2025-09-12 — Arc 14 Ep 4: A Plane of Fire and Metal PART 1 — speakers: Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field
-- 2025-09-05 — Arc 14 Ep 3: Swift Death PART 2 — speakers: Jasper William Cartwright, Teeths Caldwell Tanner, Vissel Divanostra
-- 2025-08-29 — Arc 14 Ep 3: Swift Death PART 1 — speakers: Jasper William Cartwright, Teeths Caldwell Tanner, Vissel Divanostra
-- 2025-08-22 — Arc 14 Ep 2: You're Alive!? PART 2 — speakers: Alex Jordan, Hollie Bennett, Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field
-- 2025-08-15 — Arc 14 Ep 2: You’re Alive?! PART 1 — speakers: Jasper William Cartwright, Jacob Wysocki, Grib Victoria Longwell, Freya Black Devin Field
+- 2025-10-17 — Arc 14 Ep 7: One Way or Another, It Ends - FULL EPISODE — speakers: One Way
+- 2025-10-10 — Arc 14 Ep 6: Barnabus Prime FULL EPISODE — speakers: Jasper Wil
+- 2025-10-03 — Arc 14 Ep 5: Heroes Rising PART 2 — speakers: Heroes Rising
+- 2025-09-26 — Arc 14 Ep 5: Heroes Rising PART 1 — speakers: Heroes Rising
+- 2025-09-19 — Arc 14 Ep 4: A Plane of Fire and Metal PART 2
+- 2025-09-12 — Arc 14 Ep 4: A Plane of Fire and Metal PART 1
+- 2025-09-05 — Arc 14 Ep 3: Swift Death PART 2 — speakers: Swift Death
+- 2025-08-29 — Arc 14 Ep 3: Swift Death PART 1 — speakers: Swift Death
+- 2025-08-22 — Arc 14 Ep 2: You're Alive!? PART 2 — speakers: Thursday August
+- 2025-08-15 — Arc 14 Ep 2: You’re Alive?! PART 1
 - 2025-08-08 — Arc 14 Ep 1: The Showdown FULL EPISODE — speakers: Jasper William Cartwright
-- 2025-08-01 — Arc 13 Ep 4: Tortley Freaking Warlock My Dragon! PART 2 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-07-25 — Arc 13 Ep 4: Tortley Freaking Warlock My Dragon! PART 1 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-07-18 — Arc 13 Ep 3: CoCo Corner PART 2 — speakers: Zac Oyama, Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-07-11 — Arc 13 Ep 3: CoCo Corner PART 1 — speakers: Zac Oyama, Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-07-04 — Arc 13 Ep 2: Is This Permanent? PART 2 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-06-27 — Arc 13 Ep 2: Is This Permanent? PART 1 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-06-20 — Arc 13 Ep 1: Silly Little Dumbasses PART 2 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-06-13 — Arc 13 Ep 1: Silly Little Dumbasses PART 1 — speakers: Jasper William Cartwright, Erin Keif, Vana Victar Jon Mackey, Dooter Zac Oyama
-- 2025-06-06 — Arc 12 Ep 4: Into the Den of Wolves PART 2 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-05-23 — Arc 12 Ep 4: Into the Den of Wolves PART 1 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-05-16 — Arc 12 Ep 3: Epic Treks, Soulful Reunions & Dance Battles PART 2 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-05-09 — Arc 12 Ep 3: Epic Treks, Soulful Reunions & Dance Battles PART 1 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-05-02 — Arc 12 Ep 2: Land Before Time PART 2 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-04-25 — Arc 12 Ep 2: Land Before Time PART 1 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-04-18 — Arc 12 Ep 1: What Happens When The Dead, Die. PART 2 — speakers: Jasper William Cartwright, Erin Keif
-- 2025-04-11 — Arc 12 Ep 1: What Happens When The Dead, Die. PART 1 — speakers: Jasper William Cartwright, Erin Keif
+- 2025-08-01 — Arc 13 Ep 4: Tortley Freaking Warlock My Dragon! PART 2 — speakers: Tortley Freaking Warlock My
+- 2025-07-25 — Arc 13 Ep 4: Tortley Freaking Warlock My Dragon! PART 1 — speakers: Tortley Freaking Warlock My
+- 2025-07-18 — Arc 13 Ep 3: CoCo Corner PART 2 — speakers: Rotating Heroes
+- 2025-07-11 — Arc 13 Ep 3: CoCo Corner PART 1 — speakers: Rotating Heroes
+- 2025-07-04 — Arc 13 Ep 2: Is This Permanent? PART 2
+- 2025-06-27 — Arc 13 Ep 2: Is This Permanent? PART 1
+- 2025-06-20 — Arc 13 Ep 1: Silly Little Dumbasses PART 2 — speakers: William Cartwrigh
+- 2025-06-13 — Arc 13 Ep 1: Silly Little Dumbasses PART 1 — speakers: William Cartwrigh
+- 2025-06-06 — Arc 12 Ep 4: Into the Den of Wolves PART 2
+- 2025-05-23 — Arc 12 Ep 4: Into the Den of Wolves PART 1
+- 2025-05-16 — Arc 12 Ep 3: Epic Treks, Soulful Reunions & Dance Battles PART 2 — speakers: Epic Treks, Soulful Reunions, Dance Battles
+- 2025-05-09 — Arc 12 Ep 3: Epic Treks, Soulful Reunions & Dance Battles PART 1 — speakers: Epic Treks, Soulful Reunions, Dance Battles
+- 2025-05-02 — Arc 12 Ep 2: Land Before Time PART 2
+- 2025-04-25 — Arc 12 Ep 2: Land Before Time PART 1
+- 2025-04-18 — Arc 12 Ep 1: What Happens When The Dead, Die. PART 2
+- 2025-04-11 — Arc 12 Ep 1: What Happens When The Dead, Die. PART 1
 - 2025-04-04 — Arc 11 Ep 5: PuurF3ctLy In SyNC PART 2
 - 2025-03-28 — Arc 11 Ep 5: PuurF3ctLy In SyNC PART 1
-- 2025-03-21 — Arc 11 Ep4: Three Your Mind PART 2 — speakers: Free Listening
-- 2025-03-17 — Deep Space Dial: Rotating Heroes Campaign 2 Trailer — speakers: Deep Space, Deep Space Dial, Arc Bark, Erin Keif, Jon Mackey, George Primavera
-- 2025-03-14 — Arc 11 Ep 4: Three Your Mind PART 1 — speakers: Free Listening
+- 2025-03-21 — Arc 11 Ep4: Three Your Mind PART 2
+- 2025-03-17 — Deep Space Dial: Rotating Heroes Campaign 2 Trailer — speakers: Deep Space
+- 2025-03-14 — Arc 11 Ep 4: Three Your Mind PART 1
 - 2025-03-07 — Arc 11 Ep 3: Strong Thong PART 2 — speakers: Strong Thong
 - 2025-02-28 — Arc 11 Ep 3: Strong Thong PART 1 — speakers: Strong Thong
-- 2025-02-21 — Introducing Sagas of Sundry: Goblin Mode — speakers: Goblin Mode, Amy Vorpahl, Dan Casey, Jason Nguyen
+- 2025-02-21 — Introducing Sagas of Sundry: Goblin Mode — speakers: Goblin Mode
 - 2025-02-14 — Arc 11 Ep 2: The Midnight Sequence PART 2 — speakers: God Obelisk
 - 2025-02-07 — Arc 11 Ep 2: The Midnight Sequence PART 1 — speakers: God Obelisk
 - 2025-01-31 — Arc 11 Ep 1: Hasted & Basted PART 2
 - 2025-01-24 — Arc 11 Ep 1: Hasted & Basted PART 1
-- 2025-01-17 — Arc 10 Ep 3: Oh Patron, My Patron PART 2 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2025-01-10 — Arc 10 Ep 3: Oh Patron, My Patron PART 1 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2025-01-03 — Arc 10 Ep 2: Gusts and Distrust PART 2 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2024-12-27 — Arc 10 Ep 2: Gusts and Distrust PART 1 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2024-12-20 — Arc 10 Ep 1: Hot Hot Water PART 2 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2024-12-13 — Arc 10 Ep 1: Hot Hot Water PART 1 — speakers: Zac Oyama, Dan Lippert, Glegg Ryan Rosenberg
-- 2024-12-06 — Arc 9 Ep 4: The Senior Section PART 2 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Tionne Riche Vic Michaelis
-- 2024-11-29 — Arc 9 Ep 4: The Senior Section PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Tionne Riche Vic Michaelis
-- 2024-11-22 — Arc 9 Ep 3: Learning... Through Combat! PART 2 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Tionne Riche Vic Michaelis
-- 2024-11-15 — Arc 9 Ep 3: Learning... Through Combat! PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Fhinne Foode
-- 2024-11-08 — Arc 9 Ep 2: Crushing Maths, Correcting History PART 2 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Fhinne Foode
-- 2024-11-01 — Arc 9 Ep 2: Crushing Maths, Correcting History PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Fhinne Foode
-- 2024-10-25 — Arc 9 Ep 1: New World, Same Problems... School PART 2 — speakers: Booky Creep, Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Fhinne Foode
-- 2024-10-18 — Arc 9 Ep 1: New World, Same Problems... School PART 1 — speakers: Booky Creep, Jasper William Cartwright, Zac Oyama, Jin Rashawn Scott, Fhinne Foode
-- 2024-10-11 — Arc 8 Ep.4: The Book, The Bird & The Champions PART 2 + ARC BARK — speakers: Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-10-04 — Arc 8 Ep.4: The Book, The Bird & The Champions PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-09-27 — Arc 8 Ep.3: The Grave Tale of Gus The Jade Knight PART 2 — speakers: Kneedle Bottom, Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-09-20 — Arc 8 Ep.3: The Grave Tale of Gus The Jade Knight PART 1 — speakers: Kneedle Bottom, Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-09-13 — Arc 8 Ep.2: Now You're Getting Soapy PART 2 — speakers: Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-09-06 — Arc 8 Ep.2: Now You're Getting Soapy PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Jin Erika Ishii, Victoria Longwell
-- 2024-08-31 — Arc 8 Ep. 1: Trails Of A New World PART 2 — speakers: Jasper William Cartwright, Zac Oyama, Erika Ishii, Victoria Longwell
-- 2024-08-23 — Arc 8 Ep. 1: Trails Of A New World PART 1 — speakers: Jasper William Cartwright, Zac Oyama, Erika Ishii, Victoria Longwell
-- 2024-08-17 — Arc 7 Ep. 4: Pompapumpa or Pompadunna PART 2 — speakers: Will Pompapumpa, Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert, Jacob Wysocki
-- 2024-08-11 — Arc 7 Ep. 4: Pompapumpa or Pompadunna PART 1 — speakers: Will Pompapumpa, Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert, Jacob Wysocki
-- 2024-08-02 — Arc 7 Ep. 3: Mount Trunkus — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert, Jacob Wysocki
-- 2024-07-26 — Arc 7 Ep. 2: When in Pompapumpa PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert, Jacob Wysocki
-- 2024-07-19 — Arc 7 Ep. 2: When in Pompapumpa PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert, Jacob Wysocki
-- 2024-07-12 — Arc 7 Ep 1: A Leonin Among Loxodons — speakers: Sago Glegg, Dan Lippert, Jacob Wysocki, Rekha Shankar, Zac Oyama, College Humour, Adam Ruins Everything, Rekha Shankar Dan Lippert
-- 2024-07-05 — Arc 6 Ep. 4: Party Crashing PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley, Dan Lippert, Grant O'Brien
-- 2024-06-27 — Arc 6 Ep. 4: Party Crashing PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley, Dan Lippert, Grant O'Brien
-- 2024-06-21 — Arc 6 Ep 3: Sloshin' and Noshin' PART 2 — speakers: Roland Volkes, John Daffodil, Keep Eatin, Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley
-- 2024-06-14 — Arc 6 Ep 3: Sloshin' and Noshin' PART 1 — speakers: Roland Volkes, John Daffodil, Keep Eatin, Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley
-- 2024-06-06 — Arc 6 Ep 2: Bumper Street PART 2 — speakers: John Daffodil, Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley, Dan Lippert, Grant O'Brien
-- 2024-05-30 — Arc 6 Ep 2: Bumper Street PART 1 — speakers: John Daffodil, Zac Oyama, College Humour, Adam Ruins Everything, Nance Rae, Ally Beardsley, Dan Lippert, Grant O'Brien
-- 2024-05-24 — Arc 6 Ep. 1: Chili Night — speakers: Nance Rae, Ally Beardsley, Jon Daffodil, Grant O'Brien, Dan Lippert, Zac Oyama, College Humour, Adam Ruins Everything
-- 2024-05-17 — Arc 5 Ep 4: Howling at the Moon PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-05-10 — Arc 5 Ep 4: Howling at the Moon PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-05-03 — Arc 5 Ep 3: The Threads of Fate PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-04-26 — Arc 5 Ep 3: The Threads of Fate PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-04-20 — Arc 5 Ep 2: Follow Your Tommy PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-04-12 — Arc 5 Ep 2: Follow Your Tommy PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Brennan Lee Mulligan, Matt Cordova
-- 2024-04-05 — Arc 5 Ep1: The Pack — speakers: Matt Cordova, Brennan Lee Mulligan, Zac Oyama, College Humour, Adam Ruins Everything
-- 2024-03-29 — Arc 4 Ep. 3: Belly of the Beast PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Victoria Longwell, Fraeya Black Justin Michael
-- 2024-03-22 — Arc 4 Ep. 3: Belly of the Beast PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Victoria Longwell, Fraeya Black Justin Michael
-- 2024-03-15 — Arc 4 Ep. 2: Supply Run PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Victoria Longwell, Fraeya Black Justin Michael
-- 2024-03-08 — Arc 4 Ep. 2: Supply Run PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Victoria Longwell, Fraeya Black Justin Michael
-- 2024-03-01 — Arc 4 Ep. 1: Empty Nest — speakers: Fraeya Black, Victoria Longwell, Justin Michael, Marissa Strickland, Zac Oyama, College Humour, Adam Ruins Everything, Fraeya Black Justin Michael
-- 2024-02-24 — Arc 3 Ep. 8: Castle Chaos Continued — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2024-02-16 — Arc 3 Ep. 7: Battle at Waeldon Keep! PART 2 — speakers: Waeldon Keep, Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2024-02-09 — Arc 3 Ep. 7: Battle at Waeldon Keep! PART 1 — speakers: Waeldon Keep, Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2024-02-02 — Arc 3 Ep. 6: Swamp Romp — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2024-01-26 — Arc 3 Ep. 5: The Red Rust Clan PART 2 — speakers: Will Fraeya, Will Grib, Will Rufus, Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell
-- 2024-01-19 — Arc 3 Ep. 5: The Red Rust Clan PART 1 — speakers: Will Fraeya, Will Grib, Will Rufus, Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell
-- 2024-01-12 — Arc 3 Ep. 4: River Crossing PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2024-01-05 — Arc 3 Ep. 4: River Crossing PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2023-12-29 — Arc 3 Ep. 3: Dreams and Nightmares — speakers: Displacer Beasts, Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2023-12-22 — Arc 3 Ep. 2: Into the Forest — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Devin Field, Victoria Longwell, Fraeya Black Jacob Wysocki, William Cartwright
-- 2023-12-22 — Arc 3 Ep. 1: Bugging Out — speakers: Devin Field, Fraeya Black, Victoria Longwell, Zac Oyama, College Humour, Adam Ruins Everything, Fraeya Black Jacob Wysocki, William Cartwright
-- 2023-12-16 — Arc 2 Ep 4: The Beacon and Beyond — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, Jacob Wysocki, William Cartwright
-- 2023-12-09 — Arc 2 Ep. 3 : The Lockkeeper PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, Jacob Wysocki, William Cartwright
-- 2023-12-01 — Arc 2 Ep. 3 : The Lockkeeper PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, Jacob Wysocki, William Cartwright
-- 2023-11-24 — Arc 2 Ep. 2 : The Saltbreakers Strike! — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, Jacob Wysocki, William Cartwright
-- 2023-11-17 — Arc 2 Ep. 1 : Docks, "Doctors" and Dachsunds PART 2 — speakers: Ally Beardsley, Jacob Wysocki, Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, William Cartwright
-- 2023-11-10 — Arc 2 Ep. 1 : Docks, "Doctors" and Dachsunds PART 1 — speakers: Ally Beardsley, Jacob Wysocki, Zac Oyama, College Humour, Adam Ruins Everything, Nancy-Rae Gan Mike Trapp, Kyle Crompton
-- 2023-11-03 — Arc 2 Ep. 0 : The Rote' Begins — speakers: Mike Trapp, Ally Beardsley, Jacob Wysocki, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth
-- 2023-10-27 — Arc 1 Ep. 5 : The Godwalker PART 2 — speakers: Brenda Elizabeth, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp
-- 2023-10-27 — Arc 1 Ep. 5 : The Godwalker PART 1 — speakers: Brenda Elizabeth, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp
-- 2023-10-20 — Arc 1 Ep. 4 : The Roots of Some Evil PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp, Astrid Starborn
-- 2023-10-20 — Arc 1 Ep. 4 : The Roots of Some Evil PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp, Astrid Starborn
-- 2023-10-13 — Arc 1 Ep. 3: Ups and Downs. PART 2 — speakers: Brenda Elizabeth, Bon Appétit, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything
-- 2023-10-13 — Arc 1 Ep. 3: Ups and Downs. PART 1 — speakers: Brenda Elizabeth, Bon Appétit, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything
-- 2023-10-13 — Arc 1 Ep. 2: Oops All Mayhem. PART 2 — speakers: Brenda Elizabeth, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp
-- 2023-10-06 — Arc 1 Ep. 2: Oops All Mayhem. PART 1 — speakers: Brenda Elizabeth, Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp
-- 2023-09-29 — Arc 1 Ep.1: The Obelisk At Bonbihr Mountains. PART 2 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp, Astrid Starborn
-- 2023-09-29 — Arc 1 Ep.1: The Obelisk At Bonbihr Mountains. PART 1 — speakers: Zac Oyama, College Humour, Adam Ruins Everything, Emily Axford, Brenda Lizabeth, Dropout Adam Ruins Everything, Mike Trapp, Astrid Starborn
-- 2023-09-28 — Rotating Heroes - Trailer — speakers: Zac Oyama, Jasper William Cartwright
+- 2025-01-17 — Arc 10 Ep 3: Oh Patron, My Patron PART 2
+- 2025-01-10 — Arc 10 Ep 3: Oh Patron, My Patron PART 1
+- 2025-01-03 — Arc 10 Ep 2: Gusts and Distrust PART 2
+- 2024-12-27 — Arc 10 Ep 2: Gusts and Distrust PART 1
+- 2024-12-20 — Arc 10 Ep 1: Hot Hot Water PART 2
+- 2024-12-13 — Arc 10 Ep 1: Hot Hot Water PART 1
+- 2024-12-06 — Arc 9 Ep 4: The Senior Section PART 2
+- 2024-11-29 — Arc 9 Ep 4: The Senior Section PART 1
+- 2024-11-22 — Arc 9 Ep 3: Learning... Through Combat! PART 2
+- 2024-11-15 — Arc 9 Ep 3: Learning... Through Combat! PART 1
+- 2024-11-08 — Arc 9 Ep 2: Crushing Maths, Correcting History PART 2
+- 2024-11-01 — Arc 9 Ep 2: Crushing Maths, Correcting History PART 1
+- 2024-10-25 — Arc 9 Ep 1: New World, Same Problems... School PART 2 — speakers: New World, Same Problems, If Spotify
+- 2024-10-18 — Arc 9 Ep 1: New World, Same Problems... School PART 1 — speakers: New World, Same Problems, If Spotify
+- 2024-10-11 — Arc 8 Ep.4: The Book, The Bird & The Champions PART 2 + ARC BARK
+- 2024-10-04 — Arc 8 Ep.4: The Book, The Bird & The Champions PART 1 — speakers: If Spotify
+- 2024-09-27 — Arc 8 Ep.3: The Grave Tale of Gus The Jade Knight PART 2 — speakers: Kneedle Bottom
+- 2024-09-20 — Arc 8 Ep.3: The Grave Tale of Gus The Jade Knight PART 1 — speakers: Kneedle Bottom
+- 2024-09-13 — Arc 8 Ep.2: Now You're Getting Soapy PART 2
+- 2024-09-06 — Arc 8 Ep.2: Now You're Getting Soapy PART 1
+- 2024-08-31 — Arc 8 Ep. 1: Trails Of A New World PART 2
+- 2024-08-23 — Arc 8 Ep. 1: Trails Of A New World PART 1
+- 2024-08-17 — Arc 7 Ep. 4: Pompapumpa or Pompadunna PART 2
+- 2024-08-11 — Arc 7 Ep. 4: Pompapumpa or Pompadunna PART 1
+- 2024-08-02 — Arc 7 Ep. 3: Mount Trunkus
+- 2024-07-26 — Arc 7 Ep. 2: When in Pompapumpa PART 2
+- 2024-07-19 — Arc 7 Ep. 2: When in Pompapumpa PART 1
+- 2024-07-12 — Arc 7 Ep 1: A Leonin Among Loxodons — speakers: Sago Glegg, Dan Lippert
+- 2024-07-05 — Arc 6 Ep. 4: Party Crashing PART 2
+- 2024-06-27 — Arc 6 Ep. 4: Party Crashing PART 1
+- 2024-06-21 — Arc 6 Ep 3: Sloshin' and Noshin' PART 2
+- 2024-06-14 — Arc 6 Ep 3: Sloshin' and Noshin' PART 1
+- 2024-06-06 — Arc 6 Ep 2: Bumper Street PART 2 — speakers: Bumper Street
+- 2024-05-30 — Arc 6 Ep 2: Bumper Street PART 1 — speakers: Bumper Street
+- 2024-05-24 — Arc 6 Ep. 1: Chili Night — speakers: Chili Night Howdy Rotatoes, Sapphire Lakes
+- 2024-05-17 — Arc 5 Ep 4: Howling at the Moon PART 2
+- 2024-05-10 — Arc 5 Ep 4: Howling at the Moon PART 1
+- 2024-05-03 — Arc 5 Ep 3: The Threads of Fate PART 2
+- 2024-04-26 — Arc 5 Ep 3: The Threads of Fate PART 1
+- 2024-04-20 — Arc 5 Ep 2: Follow Your Tommy PART 2
+- 2024-04-12 — Arc 5 Ep 2: Follow Your Tommy PART 1
+- 2024-04-05 — Arc 5 Ep1: The Pack
+- 2024-03-29 — Arc 4 Ep. 3: Belly of the Beast PART 2
+- 2024-03-22 — Arc 4 Ep. 3: Belly of the Beast PART 1
+- 2024-03-15 — Arc 4 Ep. 2: Supply Run PART 2
+- 2024-03-08 — Arc 4 Ep. 2: Supply Run PART 1
+- 2024-03-01 — Arc 4 Ep. 1: Empty Nest
+- 2024-02-24 — Arc 3 Ep. 8: Castle Chaos Continued
+- 2024-02-16 — Arc 3 Ep. 7: Battle at Waeldon Keep! PART 2 — speakers: Waeldon Keep
+- 2024-02-09 — Arc 3 Ep. 7: Battle at Waeldon Keep! PART 1 — speakers: Waeldon Keep
+- 2024-02-02 — Arc 3 Ep. 6: Swamp Romp
+- 2024-01-26 — Arc 3 Ep. 5: The Red Rust Clan PART 2
+- 2024-01-19 — Arc 3 Ep. 5: The Red Rust Clan PART 1
+- 2024-01-12 — Arc 3 Ep. 4: River Crossing PART 2 — speakers: River Crossing
+- 2024-01-05 — Arc 3 Ep. 4: River Crossing PART 1 — speakers: River Crossing
+- 2023-12-29 — Arc 3 Ep. 3: Dreams and Nightmares
+- 2023-12-22 — Arc 3 Ep. 2: Into the Forest
+- 2023-12-22 — Arc 3 Ep. 1: Bugging Out — speakers: Endless Holt, Fort Cutler
+- 2023-12-16 — Arc 2 Ep 4: The Beacon and Beyond
+- 2023-12-09 — Arc 2 Ep. 3 : The Lockkeeper PART 2
+- 2023-12-01 — Arc 2 Ep. 3 : The Lockkeeper PART 1
+- 2023-11-24 — Arc 2 Ep. 2 : The Saltbreakers Strike!
+- 2023-11-17 — Arc 2 Ep. 1 : Docks, "Doctors" and Dachsunds PART 2
+- 2023-11-10 — Arc 2 Ep. 1 : Docks, "Doctors" and Dachsunds PART 1
+- 2023-11-03 — Arc 2 Ep. 0 : The Rote' Begins
+- 2023-10-27 — Arc 1 Ep. 5 : The Godwalker PART 2 — speakers: Brenda Elizabeth
+- 2023-10-27 — Arc 1 Ep. 5 : The Godwalker PART 1 — speakers: Brenda Elizabeth
+- 2023-10-20 — Arc 1 Ep. 4 : The Roots of Some Evil PART 2
+- 2023-10-20 — Arc 1 Ep. 4 : The Roots of Some Evil PART 1
+- 2023-10-13 — Arc 1 Ep. 3: Ups and Downs. PART 2 — speakers: Brenda Elizabeth
+- 2023-10-13 — Arc 1 Ep. 3: Ups and Downs. PART 1 — speakers: Brenda Elizabeth
+- 2023-10-13 — Arc 1 Ep. 2: Oops All Mayhem. PART 2 — speakers: Oops All Mayhem
+- 2023-10-06 — Arc 1 Ep. 2: Oops All Mayhem. PART 1 — speakers: Oops All Mayhem
+- 2023-09-29 — Arc 1 Ep.1: The Obelisk At Bonbihr Mountains. PART 2
+- 2023-09-29 — Arc 1 Ep.1: The Obelisk At Bonbihr Mountains. PART 1
+- 2023-09-28 — Rotating Heroes - Trailer

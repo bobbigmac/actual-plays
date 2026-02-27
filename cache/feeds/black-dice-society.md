@@ -2,9 +2,9 @@
 
 - slug: `black-dice-society`
 - source: `https://anchor.fm/s/535fd89c/podcast/rss`
-- fetched_at: `2026-02-20T15:55:57+00:00`
-- checked_at: `2026-02-20T15:55:57+00:00`
-- etag: `W/"4a2aa-NzsrXsbfyxN/PgaDSQHx9GWyD5I"`
+- fetched_at: `2026-02-27T13:34:26+00:00`
+- checked_at: `2026-02-27T13:34:26+00:00`
+- etag: `W/"4a2aa-vLZuF0Lphk15x9uA2V6ko8IdELw"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/black-dice-society",
   "description": "The Black Dice Society is an official Dungeons & Dragons stream set in the horror setting of Ravenloft. The Domains of Dread call out to six souls as they struggle to survive their journeys through the Mists. But behind it all, Darklords plot and scheme their own escape... even if it means our heroes doom. Starring: Tanya DePass, Noura Ibrahim, Deejay Knight, Mark Meer, Saige Ryan, Becca Scott, and B. Dave Walters Watch live every Thursday at 4pm pst on the Official Dungeons and Dragons YouTube Channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13887903/13887903-1616879947068-00caa94ddde5c.jpg",
-  "fetched_at": "2026-02-20T15:55:57+00:00",
+  "fetched_at": "2026-02-27T13:34:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,13 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "241337061",
       "itunes_duration": "02:47:35",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "real",
         "ending"
@@ -59,16 +53,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "232522411",
       "itunes_duration": "02:41:28",
-      "speakers": [
-        "Azalan Rex",
-        "Rudolph Van Richtin",
-        "Castle Ravenloft",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "wizard",
         "king"
@@ -85,13 +70,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "214894086",
       "itunes_duration": "02:29:13",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "rope"
       ]
@@ -107,13 +86,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221217981",
       "itunes_duration": "02:33:37",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "home",
         "heart"
@@ -131,11 +104,8 @@
       "enclosure_length": "201208374",
       "itunes_duration": "02:19:43",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Skulls There",
+        "Black Dice Society"
       ],
       "topics": [
         "city",
@@ -154,11 +124,7 @@
       "enclosure_length": "222875769",
       "itunes_duration": "02:34:46",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Black Dice Society"
       ],
       "topics": [
         "crystal",
@@ -176,13 +142,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "249826527",
       "itunes_duration": "02:53:29",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "cavern",
         "thought"
@@ -200,12 +160,7 @@
       "enclosure_length": "238489813",
       "itunes_duration": "02:45:36",
       "speakers": [
-        "Jim Zubb",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Dice Society"
       ],
       "topics": [
         "gencon",
@@ -225,14 +180,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "228867423",
       "itunes_duration": "02:38:55",
-      "speakers": [
-        "Dark Lord",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "queen",
         "raven",
@@ -251,12 +199,7 @@
       "enclosure_length": "236477843",
       "itunes_duration": "02:44:12",
       "speakers": [
-        "Moonstone Dragon",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Moonstone Dragon"
       ],
       "topics": [
         "tomorrow",
@@ -274,14 +217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "230595315",
       "itunes_duration": "02:40:07",
-      "speakers": [
-        "Omega Jones",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "world",
         "stage"
@@ -298,13 +234,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "235173539",
       "itunes_duration": "02:43:18",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "world",
         "stage"
@@ -321,15 +251,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "225212627",
       "itunes_duration": "02:36:23",
-      "speakers": [
-        "Pidlwick II",
-        "Van Richten",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "shroud",
         "night"
@@ -346,13 +268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "227527043",
       "itunes_duration": "02:37:59",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "brightest"
       ]
@@ -369,11 +285,7 @@
       "enclosure_length": "236220211",
       "itunes_duration": "02:44:02",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "old friends"
       ],
       "topics": []
     },
@@ -388,13 +300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "214072193",
       "itunes_duration": "02:28:39",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "gloomy",
         "shade",
@@ -413,11 +319,7 @@
       "enclosure_length": "219951723",
       "itunes_duration": "02:32:44",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Tanya DePass"
       ],
       "topics": [
         "dead"
@@ -434,13 +336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221628777",
       "itunes_duration": "02:33:54",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "order",
         "silver",
@@ -458,13 +354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221946159",
       "itunes_duration": "02:34:07",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "revenge",
         "wounds",
@@ -482,14 +372,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "224095110",
       "itunes_duration": "02:35:36",
-      "speakers": [
-        "Castle Ravenloft",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "brother",
         "gift",
@@ -507,14 +390,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "226987963",
       "itunes_duration": "02:37:37",
-      "speakers": [
-        "Castle Ravenloft",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "silver",
         "steel"
@@ -532,11 +408,7 @@
       "enclosure_length": "224389330",
       "itunes_duration": "02:35:49",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "More Perfect World"
       ],
       "topics": [
         "memory",
@@ -555,12 +427,8 @@
       "enclosure_length": "216430333",
       "itunes_duration": "02:30:17",
       "speakers": [
-        "Dark Lord",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Dust After",
+        "Ireena Kolyana"
       ],
       "topics": [
         "dust"
@@ -577,13 +445,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "226865267",
       "itunes_duration": "02:37:32",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "girl"
@@ -600,14 +462,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "215403207",
       "itunes_duration": "02:29:34",
-      "speakers": [
-        "Castle Ravenloft",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "wheel"
       ]
@@ -623,13 +478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "221410303",
       "itunes_duration": "02:33:45",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "sister",
         "thorns"
@@ -647,12 +496,7 @@
       "enclosure_length": "226020027",
       "itunes_duration": "02:36:57",
       "speakers": [
-        "Castle Ravenloft",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Black Gates Still"
       ],
       "topics": [
         "black",
@@ -670,13 +514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "235150377",
       "itunes_duration": "02:43:17",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "depths",
         "winter"
@@ -694,12 +532,7 @@
       "enclosure_length": "226107020",
       "itunes_duration": "02:37:00",
       "speakers": [
-        "Dread Domains",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Dread Domains"
       ],
       "topics": [
         "truth",
@@ -719,11 +552,7 @@
       "enclosure_length": "249664810",
       "itunes_duration": "02:53:22",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Patreon Exclusive"
       ],
       "topics": [
         "nightmare",
@@ -742,11 +571,7 @@
       "enclosure_length": "232864085",
       "itunes_duration": "02:41:42",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "End Traversing"
       ],
       "topics": [
         "beginning"
@@ -764,13 +589,7 @@
       "enclosure_length": "227496135",
       "itunes_duration": "02:37:58",
       "speakers": [
-        "Yon Whisked",
-        "Greatest Bard",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Yon Whisked"
       ],
       "topics": [
         "hither",
@@ -788,13 +607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "230713289",
       "itunes_duration": "02:40:12",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "festival"
       ]
@@ -811,11 +624,7 @@
       "enclosure_length": "230994848",
       "itunes_duration": "02:40:24",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Take Me Out"
       ],
       "topics": [
         "dull",
@@ -833,13 +642,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "235238222",
       "itunes_duration": "02:43:21",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "dull",
         "world"
@@ -857,11 +660,7 @@
       "enclosure_length": "246780827",
       "itunes_duration": "02:51:22",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Patreon Exclusive"
       ],
       "topics": [
         "mourning",
@@ -879,13 +678,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "230265558",
       "itunes_duration": "02:39:54",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "life",
         "circus"
@@ -902,13 +695,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "238810318",
       "itunes_duration": "02:45:50",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "pride",
         "beauty"
@@ -925,13 +712,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "242088054",
       "itunes_duration": "02:48:06",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "sank"
       ]
@@ -948,11 +729,7 @@
       "enclosure_length": "242953672",
       "itunes_duration": "02:48:42",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "True Love"
       ],
       "topics": [
         "true",
@@ -971,13 +748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "238590248",
       "itunes_duration": "02:45:40",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -992,11 +763,7 @@
       "enclosure_length": "241042288",
       "itunes_duration": "02:47:23",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Back Again Finally"
       ],
       "topics": []
     },
@@ -1011,13 +778,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "234370883",
       "itunes_duration": "02:42:45",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "family"
       ]
@@ -1033,13 +794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "243772900",
       "itunes_duration": "02:49:16",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "family",
         "matter"
@@ -1056,13 +811,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "226199130",
       "itunes_duration": "02:37:04",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "deep",
         "breath"
@@ -1079,13 +828,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "149299584",
       "itunes_duration": "02:33:37",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "device"
       ]
@@ -1101,13 +844,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "234638168",
       "itunes_duration": "02:42:56",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "forlorn"
       ]
@@ -1124,11 +861,7 @@
       "enclosure_length": "143315229",
       "itunes_duration": "02:40:03",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Forlorn Trust"
       ],
       "topics": []
     },
@@ -1143,13 +876,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "157250748",
       "itunes_duration": "02:56:39",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "lament"
@@ -1166,13 +893,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137112263",
       "itunes_duration": "03:00:57",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "lament"
@@ -1190,11 +911,7 @@
       "enclosure_length": "138732270",
       "itunes_duration": "02:41:42",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Failure Many"
       ],
       "topics": [
         "symptom",
@@ -1212,13 +929,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140524764",
       "itunes_duration": "02:40:50",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "death"
       ]
@@ -1234,14 +945,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150836511",
       "itunes_duration": "02:44:44",
-      "speakers": [
-        "Dark Lords",
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "lover",
         "killer"
@@ -1258,13 +962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123674573",
       "itunes_duration": "02:38:54",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "evening"
       ]
@@ -1281,11 +979,7 @@
       "enclosure_length": "116375553",
       "itunes_duration": "02:31:27",
       "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
+        "Last Resort Death"
       ],
       "topics": [
         "weapon",
@@ -1303,13 +997,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145622312",
       "itunes_duration": "02:41:33",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "vergissmeinnicht"
       ]
@@ -1325,13 +1013,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144372399",
       "itunes_duration": "02:39:09",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "vergissmeinnicht"
       ]
@@ -1347,13 +1029,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147361281",
       "itunes_duration": "02:40:45",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "banishing",
         "grief"
@@ -1370,13 +1046,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147287591",
       "itunes_duration": "02:43:03",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "banishing",
         "grief"
@@ -1393,13 +1063,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "161966963",
       "itunes_duration": "02:46:54",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "hunt",
         "raven",
@@ -1417,13 +1081,7 @@
       "enclosure_type": "audio/x-m4a",
       "enclosure_length": "163105250",
       "itunes_duration": "02:48:05",
-      "speakers": [
-        "Tanya DePass",
-        "Deejay Knight",
-        "Uriah Macawber",
-        "Saige Ryan",
-        "Becca Scott"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "lament"
@@ -1436,64 +1094,64 @@
 
 ## Episodes (newest first)
 
-- 2022-10-24 — Ep. 57: There is No Real Ending — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-10-17 — Ep. 56: The Wizard King — speakers: Azalan Rex, Rudolph Van Richtin, Castle Ravenloft, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-10-10 — Ep. 55: Give a Bad Boy Enough Rope — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-10-03 — Ep. 54: Home is Where a Heart is — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-09-26 — Ep. 53: The City of Skulls — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-08-29 — Ep. 52: The Crystal Club — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-08-22 — Ep.51: Caverns of Thought — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-08-15 — GenCon 22: Knight of the Black Rose — speakers: Jim Zubb, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-08-01 — Ep. 50: Queen of the Raven Crown — speakers: Dark Lord, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-07-18 — Ep. 49: Tomorrow’s Yesterday — speakers: Moonstone Dragon, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-07-11 — Ep. 48: All the World's a Stage Part 2 — speakers: Omega Jones, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-06-28 — Ep. 47: All the World's a Stage — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-06-20 — Ep. 46: Shroud of the Night — speakers: Pidlwick II, Van Richten, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-05-30 — Ep. 45: The Brightest Day — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-05-28 — Ep. 44: The Coldest End — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-05-09 — Ep. 43: The Gloomy Shade of Death — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-04-25 — Ep. 42: I Was Looking at Dead Men — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-04-18 — Ep. 41: The Order of the Silver Dragon — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-04-13 — Ep. 40: Studying Revenge Keeps Your Own Wounds Green — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-04-04 — Ep. 39: A Brother is a Gift to the Heart — speakers: Castle Ravenloft, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-03-14 — Ep. 38: Silver and Steel — speakers: Castle Ravenloft, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-03-08 — Ep. 37: Our Memory is a More Perfect World — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-02-21 — Ep. 36: Committed to Dust — speakers: Dark Lord, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-02-14 — Ep. 35: The Lost Girl — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-02-07 — Ep. 34: Wheels within Wheels — speakers: Castle Ravenloft, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-01-31 — Ep. 33: Sister of Thorns — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2022-01-17 — Ep. 32: Through the Black Gates — speakers: Castle Ravenloft, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-12-20 — Ep. 31: In the Depths of Winter — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-11-22 — Ep. 30: The Truth of the Raven Crown — speakers: Dread Domains, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-11-15 — BE 2: The Nightmare Lands — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-11-08 — Ep. 29: The Beginning of the End — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-11-01 — Ep. 28: Hither, Thither, and Yon — speakers: Yon Whisked, Greatest Bard, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-10-25 — Ep. 27: Festival of the Dead — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-10-11 — Ep. 26: Take Me Out of this Dull World Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-10-04 — Ep. 25: Take Me Out of this Dull World — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-09-20 — BE 1: The Mourning Rail — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-09-13 — Ep. 24: Life is a Circus — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-09-11 — Ep. 23: They Put on Pride and Beauty — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-08-30 — Ep. 22: I Jumped in and Sank — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-08-23 — Ep. 21: True Love is Like Ghosts — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-08-16 — Ep. 20: Some God Beholds It — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-08-09 — Ep. 19: There and Back Again — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-08-02 — Ep. 18: Family Matters Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-07-26 — Ep. 17: Family Matters — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-07-19 — Ep. 16: The Deep Breath Before — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-07-12 — Ep. 15: The Device — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-07-05 — Ep. 14: Forlorn Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-06-28 — Ep. 13: Forlorn — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-06-21 — Ep. 12: Return to the House of Lament Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-06-14 — Ep. 11: Return to the House of Lament — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-06-07 — Ep. 10: A Symptom of Man’s Failure — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-05-31 — Ep. 9: Only Lasting Death — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-05-24 — Ep. 8: For Here the Lover and the Killer are Mingled — speakers: Dark Lords, Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-05-17 — Ep. 7: Don’t Praise the Day Before the Evening — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-05-10 — Ep. 6: Weapons of Last Resort — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-05-03 — Ep. 5: Vergissmeinnicht (Forget-me-not) Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-04-25 — Ep. 4: Vergissmeinnicht (Forget-me-not) — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-04-19 — Ep. 3: The Banishing Grief Part 2 — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-04-12 — Ep. 2: The Banishing Grief — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-04-05 — Ep. 1: The Hunt for the Raven Crown — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
-- 2021-04-05 — Ep. 0.5: The House of Lament — speakers: Tanya DePass, Deejay Knight, Uriah Macawber, Saige Ryan, Becca Scott
+- 2022-10-24 — Ep. 57: There is No Real Ending
+- 2022-10-17 — Ep. 56: The Wizard King
+- 2022-10-10 — Ep. 55: Give a Bad Boy Enough Rope
+- 2022-10-03 — Ep. 54: Home is Where a Heart is
+- 2022-09-26 — Ep. 53: The City of Skulls — speakers: Skulls There, Black Dice Society
+- 2022-08-29 — Ep. 52: The Crystal Club — speakers: Black Dice Society
+- 2022-08-22 — Ep.51: Caverns of Thought
+- 2022-08-15 — GenCon 22: Knight of the Black Rose — speakers: Dice Society
+- 2022-08-01 — Ep. 50: Queen of the Raven Crown
+- 2022-07-18 — Ep. 49: Tomorrow’s Yesterday — speakers: Moonstone Dragon
+- 2022-07-11 — Ep. 48: All the World's a Stage Part 2
+- 2022-06-28 — Ep. 47: All the World's a Stage
+- 2022-06-20 — Ep. 46: Shroud of the Night
+- 2022-05-30 — Ep. 45: The Brightest Day
+- 2022-05-28 — Ep. 44: The Coldest End — speakers: old friends
+- 2022-05-09 — Ep. 43: The Gloomy Shade of Death
+- 2022-04-25 — Ep. 42: I Was Looking at Dead Men — speakers: Tanya DePass
+- 2022-04-18 — Ep. 41: The Order of the Silver Dragon
+- 2022-04-13 — Ep. 40: Studying Revenge Keeps Your Own Wounds Green
+- 2022-04-04 — Ep. 39: A Brother is a Gift to the Heart
+- 2022-03-14 — Ep. 38: Silver and Steel
+- 2022-03-08 — Ep. 37: Our Memory is a More Perfect World — speakers: More Perfect World
+- 2022-02-21 — Ep. 36: Committed to Dust — speakers: Dust After, Ireena Kolyana
+- 2022-02-14 — Ep. 35: The Lost Girl
+- 2022-02-07 — Ep. 34: Wheels within Wheels
+- 2022-01-31 — Ep. 33: Sister of Thorns
+- 2022-01-17 — Ep. 32: Through the Black Gates — speakers: Black Gates Still
+- 2021-12-20 — Ep. 31: In the Depths of Winter
+- 2021-11-22 — Ep. 30: The Truth of the Raven Crown — speakers: Dread Domains
+- 2021-11-15 — BE 2: The Nightmare Lands — speakers: Patreon Exclusive
+- 2021-11-08 — Ep. 29: The Beginning of the End — speakers: End Traversing
+- 2021-11-01 — Ep. 28: Hither, Thither, and Yon — speakers: Yon Whisked
+- 2021-10-25 — Ep. 27: Festival of the Dead
+- 2021-10-11 — Ep. 26: Take Me Out of this Dull World Part 2 — speakers: Take Me Out
+- 2021-10-04 — Ep. 25: Take Me Out of this Dull World
+- 2021-09-20 — BE 1: The Mourning Rail — speakers: Patreon Exclusive
+- 2021-09-13 — Ep. 24: Life is a Circus
+- 2021-09-11 — Ep. 23: They Put on Pride and Beauty
+- 2021-08-30 — Ep. 22: I Jumped in and Sank
+- 2021-08-23 — Ep. 21: True Love is Like Ghosts — speakers: True Love
+- 2021-08-16 — Ep. 20: Some God Beholds It
+- 2021-08-09 — Ep. 19: There and Back Again — speakers: Back Again Finally
+- 2021-08-02 — Ep. 18: Family Matters Part 2
+- 2021-07-26 — Ep. 17: Family Matters
+- 2021-07-19 — Ep. 16: The Deep Breath Before
+- 2021-07-12 — Ep. 15: The Device
+- 2021-07-05 — Ep. 14: Forlorn Part 2
+- 2021-06-28 — Ep. 13: Forlorn — speakers: Forlorn Trust
+- 2021-06-21 — Ep. 12: Return to the House of Lament Part 2
+- 2021-06-14 — Ep. 11: Return to the House of Lament
+- 2021-06-07 — Ep. 10: A Symptom of Man’s Failure — speakers: Failure Many
+- 2021-05-31 — Ep. 9: Only Lasting Death
+- 2021-05-24 — Ep. 8: For Here the Lover and the Killer are Mingled
+- 2021-05-17 — Ep. 7: Don’t Praise the Day Before the Evening
+- 2021-05-10 — Ep. 6: Weapons of Last Resort — speakers: Last Resort Death
+- 2021-05-03 — Ep. 5: Vergissmeinnicht (Forget-me-not) Part 2
+- 2021-04-25 — Ep. 4: Vergissmeinnicht (Forget-me-not)
+- 2021-04-19 — Ep. 3: The Banishing Grief Part 2
+- 2021-04-12 — Ep. 2: The Banishing Grief
+- 2021-04-05 — Ep. 1: The Hunt for the Raven Crown
+- 2021-04-05 — Ep. 0.5: The House of Lament
