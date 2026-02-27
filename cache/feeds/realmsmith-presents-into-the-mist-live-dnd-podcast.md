@@ -2,9 +2,9 @@
 
 - slug: `realmsmith-presents-into-the-mist-live-dnd-podcast`
 - source: `https://anchor.fm/s/53346a4/podcast/rss`
-- fetched_at: `2026-02-26T19:12:01+00:00`
-- checked_at: `2026-02-26T19:12:01+00:00`
-- etag: `W/"1f64a-4gHo0K5Xi5Ypk+TGydY/NZmX4SM"`
+- fetched_at: `2026-02-27T10:01:31+00:00`
+- checked_at: `2026-02-27T10:01:31+00:00`
+- etag: `W/"1f64a-4Do885tl/NZWHb7RxSmehjngaRw"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://realmsmith.tv",
   "description": "Into the Mist - The Best Dungeons & Dragons podcast on Spotify and Apple created by Canadians just outside of Toronto... EVER! It’s an interactive live-play Dungeons & Dragons 'Curse of Strahd' campaign! Join Dungeon Master Jason Azevedo and the RealmSmith crew as they find themselves trapped by the mists in the tortured land of Barovia! Watch us live every Monday at 7 pm ET (4PM PT) on twitch.tv/dnd or twitch.tv/realmsmith.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/772465/772465-1580588147582-8f24015f550eb.jpg",
-  "fetched_at": "2026-02-26T19:12:01+00:00",
+  "fetched_at": "2026-02-27T10:01:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
