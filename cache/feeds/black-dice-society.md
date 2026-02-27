@@ -2,9 +2,9 @@
 
 - slug: `black-dice-society`
 - source: `https://anchor.fm/s/535fd89c/podcast/rss`
-- fetched_at: `2026-02-27T15:54:15+00:00`
-- checked_at: `2026-02-27T15:54:15+00:00`
-- etag: `W/"4a2aa-NzsrXsbfyxN/PgaDSQHx9GWyD5I"`
+- fetched_at: `2026-02-27T21:46:01+00:00`
+- checked_at: `2026-02-27T21:46:01+00:00`
+- etag: `W/"4a2aa-vLZuF0Lphk15x9uA2V6ko8IdELw"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/black-dice-society",
   "description": "The Black Dice Society is an official Dungeons & Dragons stream set in the horror setting of Ravenloft. The Domains of Dread call out to six souls as they struggle to survive their journeys through the Mists. But behind it all, Darklords plot and scheme their own escape... even if it means our heroes doom. Starring: Tanya DePass, Noura Ibrahim, Deejay Knight, Mark Meer, Saige Ryan, Becca Scott, and B. Dave Walters Watch live every Thursday at 4pm pst on the Official Dungeons and Dragons YouTube Channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13887903/13887903-1616879947068-00caa94ddde5c.jpg",
-  "fetched_at": "2026-02-27T15:54:15+00:00",
+  "fetched_at": "2026-02-27T21:46:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
