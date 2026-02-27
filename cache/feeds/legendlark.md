@@ -2,9 +2,9 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-02-26T03:13:52+00:00`
-- checked_at: `2026-02-26T03:13:52+00:00`
-- etag: `W/"12010f-IXme+bBWkcLwpHhWveiuDz6LKXI"`
+- fetched_at: `2026-02-27T03:10:52+00:00`
+- checked_at: `2026-02-27T03:10:52+00:00`
+- etag: `W/"12191f-x2jPOh141rpEKt5uFUWfwbE10Sk"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.legendlark.com/",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
-  "fetched_at": "2026-02-26T03:13:52+00:00",
+  "fetched_at": "2026-02-27T03:10:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cce55306bef4227422f24e9428aa0815fabf9a01",
+      "title": "NEVERNOWHERE 17. All Cities Are The Same",
+      "published_at": "2026-02-26T23:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/NEVERNOWHERE-17--All-Cities-Are-The-Same-e3fk3bs",
+      "description": "Fresh off of Pepper's ghostly musical performance, our band of miscreants decides to make new connections on the train, only to make new connections about their very reality. 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 ✂️ This Episode's Outtakes & Extras ✂️ ⁠ 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
+      "enclosure_url": "https://anchor.fm/s/fe220908/podcast/play/116050748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-25%2Fe8745f69-f1a3-0cf0-bd84-2f453ed9dcd2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86826378",
+      "itunes_duration": "00:48:46",
+      "speakers": [
+        "Same Fresh"
+      ],
+      "topics": [
+        "nevernowhere",
+        "cities"
+      ]
+    },
     {
       "key": "19afaaf5afd776b1bb5c8210e51f2ffe3907febf",
       "title": "NEVERNOWHERE: Q&A 1",
@@ -3948,6 +3967,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-26 — NEVERNOWHERE 17. All Cities Are The Same — speakers: Same Fresh
 - 2026-02-12 — NEVERNOWHERE: Q&A 1
 - 2026-01-30 — NEVERNOWHERE: The Bluebird Report #1 — speakers: Bluebird Report
 - 2026-01-16 — NEVERNOWHERE 16. Years & Years — speakers: no home, no hope

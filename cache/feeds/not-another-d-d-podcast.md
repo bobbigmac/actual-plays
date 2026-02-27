@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-02-20T10:00:00+00:00`
-- checked_at: `2026-02-20T10:00:00+00:00`
-- last_modified: `Fri, 20 Feb 2026 08:58:53 GMT`
+- fetched_at: `2026-02-27T03:10:52+00:00`
+- checked_at: `2026-02-27T03:10:52+00:00`
+- last_modified: `Fri, 27 Feb 2026 01:29:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-02-20T10:00:00+00:00",
+  "fetched_at": "2026-02-27T03:10:52+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -32,6 +32,36 @@
   ],
   "episodes": [
     {
+      "key": "f3f41d7cf5c33755b7784abf6cd3371ff000c287",
+      "title": "Hearthside Chat Q&A: Trinyvale x Strahd Reflections (and New Campaign Preview!)",
+      "published_at": "2026-02-26T05:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/d969f61f-bd9d-4c90-b6ac-8d9bc14c2740",
+      "description": "The Trinyvale Triplets gather around the potato buffet heater to answer your burning questions about Trinyvale x Strahd! Thanks to everyone who submitted. Sound Mixing and Editing by Trevor Lyon Get tickets to our Radio City and Sydney Opera House shows HERE! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/d969f61f-bd9d-4c90-b6ac-8d9bc14c2740.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63139422",
+      "itunes_duration": "01:05:46",
+      "speakers": [
+        "Hearthside Chat",
+        "Strahd Reflections",
+        "New Campaign Preview",
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "hearthside",
+        "chat",
+        "trinyvale",
+        "strahd",
+        "reflections",
+        "campaign",
+        "preview"
+      ]
+    },
+    {
       "key": "e6faebf7c114fa7bc216ddbd18f144bb8dd63025",
       "title": "Trinyvale X Strahd - Ep. 23: A Memorable Feast",
       "published_at": "2026-02-20T08:30:00+00:00",
@@ -43,13 +73,8 @@
       "enclosure_length": "104515291",
       "itunes_duration": "01:48:52",
       "speakers": [
-        "Daniel Ramos",
-        "Emily Axford",
-        "Emily Axford Strahd",
-        "Emily Axford Moonsick",
-        "Emily Axford Half Brothers",
-        "Jens Christian",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -74,9 +99,7 @@
       "speakers": [
         "Castle Ravenloft",
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Strahd",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -100,9 +123,7 @@
       "itunes_duration": "01:33:01",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Strahd",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -126,8 +147,6 @@
       "speakers": [
         "Newbie Pvp",
         "Baptized Dogs Support",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -152,10 +171,7 @@
       "itunes_duration": "01:28:31",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Moonsick",
-        "Emily Axford Strahd",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -179,7 +195,6 @@
       "itunes_duration": "01:18:15",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -203,8 +218,6 @@
       "itunes_duration": "01:09:04",
       "speakers": [
         "Immovable Rods Dungeon Court",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -229,7 +242,6 @@
       "itunes_duration": "01:27:30",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -254,7 +266,6 @@
       "itunes_duration": "01:19:35",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -280,8 +291,6 @@
       "speakers": [
         "Squishy Bears",
         "Fishy Crits",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -310,7 +319,6 @@
       "itunes_duration": "01:19:40",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -336,7 +344,6 @@
       "speakers": [
         "Hallowed Ground",
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -361,8 +368,6 @@
       "itunes_duration": "01:00:55",
       "speakers": [
         "Bland Backstories",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -390,9 +395,7 @@
       "itunes_duration": "01:13:46",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Jens Christian",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -414,7 +417,6 @@
       "itunes_duration": "01:08:29",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -436,8 +438,6 @@
       "enclosure_length": "61451284",
       "itunes_duration": "01:04:00",
       "speakers": [
-        "Lore Lord",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -466,7 +466,6 @@
       "itunes_duration": "01:18:48",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -491,7 +490,6 @@
       "itunes_duration": "01:28:04",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -514,8 +512,6 @@
       "enclosure_length": "62647902",
       "itunes_duration": "01:05:15",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -541,10 +537,7 @@
       "itunes_duration": "01:18:58",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Moonsick",
-        "Emily Axord",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -568,7 +561,6 @@
       "itunes_duration": "01:21:30",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -596,8 +588,6 @@
         "Stolen Spells",
         "Petulant Paladins",
         "Whacked Werehippos",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -626,11 +616,9 @@
       "itunes_duration": "01:16:53",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Caldwell Tanner",
-        "Kei Matsuo",
-        "Jake Hurwitz"
+        "Jake Hurwitz",
+        "Caldwell Tanner"
       ],
       "topics": [
         "trinyvale",
@@ -650,7 +638,6 @@
       "itunes_duration": "01:23:14",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -674,7 +661,8 @@
       "enclosure_length": "63658945",
       "itunes_duration": "01:06:18",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Tortle Tank",
+        "Passive Eggcome Welcome",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -700,10 +688,7 @@
       "itunes_duration": "01:10:18",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Moonsick",
-        "Emily Axford Half Brothers",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -727,7 +712,6 @@
       "itunes_duration": "01:10:41",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -752,8 +736,6 @@
       "itunes_duration": "01:06:30",
       "speakers": [
         "Monkey Paws",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -779,11 +761,7 @@
       "itunes_duration": "01:38:49",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
-        "Emily Axford Moonsick",
-        "Jens Christian Tvilum",
-        "Emily Axford Strahd",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -805,11 +783,8 @@
       "enclosure_length": "89301995",
       "itunes_duration": "01:33:01",
       "speakers": [
-        "Daniel Ramos",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "Emily Axford Strahd",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -858,7 +833,6 @@
       "itunes_duration": "01:05:27",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -883,7 +857,6 @@
       "itunes_duration": "01:04:57",
       "speakers": [
         "Brian Murphy",
-        "Daniel Ramos",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -906,8 +879,6 @@
       "enclosure_length": "74994834",
       "itunes_duration": "01:18:07",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -958,9 +929,7 @@
       "speakers": [
         "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Ender’s Waltz",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -982,9 +951,7 @@
       "speakers": [
         "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Emily Axford Grimhawke",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1006,7 +973,6 @@
       "itunes_duration": "00:58:42",
       "speakers": [
         "Jake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -1032,12 +998,8 @@
       "enclosure_length": "63734177",
       "itunes_duration": "01:06:23",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Boggy Roger",
-        "Ender’s Waltz",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1059,12 +1021,8 @@
       "enclosure_length": "64741041",
       "itunes_duration": "01:07:26",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
-        "Emily Axford Grimhawke",
         "Emily Axford",
-        "Emily Axford Snake Fight",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1087,9 +1045,6 @@
       "speakers": [
         "Polymorph Romance",
         "Cruel Rakshasas",
-        "Trevor Lyon",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1118,9 +1073,7 @@
       "enclosure_length": "70587454",
       "itunes_duration": "01:13:31",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -1143,11 +1096,8 @@
       "enclosure_length": "64729756",
       "itunes_duration": "01:07:25",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Henry’s House",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1169,7 +1119,6 @@
       "itunes_duration": "01:00:13",
       "speakers": [
         "Birthday Spells",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1197,9 +1146,7 @@
       "enclosure_length": "65773818",
       "itunes_duration": "01:08:30",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -1222,9 +1169,7 @@
       "enclosure_length": "64335203",
       "itunes_duration": "01:07:00",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -1246,8 +1191,6 @@
       "enclosure_length": "72077479",
       "itunes_duration": "01:15:04",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1276,7 +1219,6 @@
       "itunes_duration": "01:09:17",
       "speakers": [
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -1298,9 +1240,7 @@
       "enclosure_length": "71956271",
       "itunes_duration": "01:14:57",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
@@ -1323,7 +1263,10 @@
       "enclosure_length": "55784176",
       "itunes_duration": "00:58:06",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Donkey Kong Country",
+        "Fine Line Between Love",
+        "View Crew",
+        "Too Dumb",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1352,10 +1295,7 @@
       "itunes_duration": "01:17:01",
       "speakers": [
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Emily Axford Snake Fight",
-        "Henry’s House",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1378,11 +1318,8 @@
       "enclosure_length": "69066083",
       "itunes_duration": "01:11:56",
       "speakers": [
-        "Sound Mixing",
         "Brian Murphy",
-        "Faris Monshi Music Sound",
         "Emily Axford",
-        "Henry’s House",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1405,8 +1342,6 @@
       "itunes_duration": "01:06:19",
       "speakers": [
         "Ally Beardsley",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1434,8 +1369,6 @@
       "speakers": [
         "Drowning Barbarians",
         "Danielle Radford",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1465,8 +1398,6 @@
       "itunes_duration": "01:04:41",
       "speakers": [
         "Robbie Daymond",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1498,8 +1429,6 @@
       "speakers": [
         "Npc Overload",
         "Siobhan Thompson",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1552,10 +1481,8 @@
       "enclosure_length": "115819415",
       "itunes_duration": "02:00:38",
       "speakers": [
-        "Queen Jovyre",
-        "Emily Axford",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1582,8 +1509,6 @@
         "Nasty Bards",
         "Evil Dads",
         "Mustard Custard",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1610,7 +1535,6 @@
       "enclosure_length": "72640052",
       "itunes_duration": "01:15:39",
       "speakers": [
-        "Zac Oyama",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1684,7 +1608,7 @@
       "enclosure_length": "81651670",
       "itunes_duration": "01:25:03",
       "speakers": [
-        "Zac Oyama",
+        "Blazing Babe",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1734,7 +1658,6 @@
       "enclosure_length": "57142125",
       "itunes_duration": "00:59:31",
       "speakers": [
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1764,7 +1687,6 @@
       "itunes_duration": "02:33:44",
       "speakers": [
         "Mixed Bag Mixtape",
-        "Dungeon Bailiff Jake",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1790,9 +1712,8 @@
       "itunes_duration": "01:31:38",
       "speakers": [
         "Queen Jovyre",
-        "Emily Axford",
-        "Mothership Lobby",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1817,8 +1738,6 @@
       "speakers": [
         "Razzing Refs",
         "Misty Mysteries",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1847,9 +1766,8 @@
       "itunes_duration": "02:06:51",
       "speakers": [
         "Green Knights",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1875,7 +1793,9 @@
       "enclosure_length": "64142942",
       "itunes_duration": "01:06:48",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Surprise Round",
+        "Blue Yoda Welcome",
+        "Join Discussion Ma",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1899,11 +1819,8 @@
       "enclosure_length": "107663777",
       "itunes_duration": "01:52:08",
       "speakers": [
-        "Emily Axford",
-        "Montgomery Manor",
-        "Mothership Lobby",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1925,8 +1842,6 @@
       "enclosure_length": "64635297",
       "itunes_duration": "01:07:19",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -1955,10 +1870,8 @@
       "itunes_duration": "02:07:30",
       "speakers": [
         "Queen Jovyre",
-        "Sol visits Galactic Swag",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -1981,7 +1894,8 @@
       "enclosure_length": "63704920",
       "itunes_duration": "01:06:21",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Surprise Round",
+        "Join Discussion Ma",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2005,10 +1919,8 @@
       "enclosure_length": "124474514",
       "itunes_duration": "02:09:39",
       "speakers": [
-        "Calder simps",
-        "Emily Axford",
-        "Henry Hogfish",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2031,9 +1943,6 @@
       "enclosure_length": "60985678",
       "itunes_duration": "01:03:31",
       "speakers": [
-        "Dungeon Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2060,8 +1969,8 @@
       "enclosure_length": "103455346",
       "itunes_duration": "01:47:45",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2084,8 +1993,6 @@
       "enclosure_length": "64657867",
       "itunes_duration": "01:07:21",
       "speakers": [
-        "Sound Mixing",
-        "Trevor Lyon See Privacy",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2112,8 +2019,8 @@
       "itunes_duration": "01:35:46",
       "speakers": [
         "Queen Jovyre",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2139,8 +2046,6 @@
         "Questionable Curses",
         "Quiet Cousins",
         "Ravenloft Sequestering",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2168,9 +2073,8 @@
       "enclosure_length": "118315885",
       "itunes_duration": "02:03:14",
       "speakers": [
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2194,7 +2098,8 @@
       "enclosure_length": "67646275",
       "itunes_duration": "01:10:27",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Surprise Round",
+        "Join Discussion Ma",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2218,8 +2123,8 @@
       "enclosure_length": "110207895",
       "itunes_duration": "01:54:47",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2245,8 +2150,7 @@
       "speakers": [
         "Doff Squads",
         "Sinful Twinspells",
-        "Theme Song",
-        "Sam Weiller",
+        "Experiment Hur",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2274,9 +2178,8 @@
       "enclosure_length": "107473606",
       "itunes_duration": "01:51:57",
       "speakers": [
-        "Emily Axford",
-        "Broken Heart Banshee",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2300,7 +2203,9 @@
       "enclosure_length": "69738997",
       "itunes_duration": "01:12:38",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Surprise Round",
+        "All Uncles Edition Welcome",
+        "Join Discussion Ma",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2325,7 +2230,8 @@
       "enclosure_length": "111184666",
       "itunes_duration": "01:55:49",
       "speakers": [
-        "Pathfinder Perusal",
+        "Pathfinder Two",
+        "Twin Flames",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2352,9 +2258,9 @@
       "itunes_duration": "01:48:25",
       "speakers": [
         "Caldwell Tanner",
-        "Jake Hurwitz",
         "Brian Murphy",
-        "Emily Axford"
+        "Emily Axford",
+        "Jake Hurwitz"
       ],
       "topics": [
         "pathfinder",
@@ -2377,9 +2283,6 @@
       "speakers": [
         "Soggy Firbolgs",
         "Goodberry Hacks",
-        "Honorable King",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2408,8 +2311,8 @@
       "enclosure_length": "98818925",
       "itunes_duration": "01:42:56",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2431,7 +2334,8 @@
       "enclosure_length": "63963637",
       "itunes_duration": "01:06:37",
       "speakers": [
-        "Trevor Lyon See Privacy",
+        "Surprise Round",
+        "Unhinged Hypotheticals Welcome",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2455,9 +2359,8 @@
       "enclosure_length": "74708532",
       "itunes_duration": "01:17:49",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2479,9 +2382,7 @@
       "enclosure_length": "60552672",
       "itunes_duration": "01:03:04",
       "speakers": [
-        "Watch Drawfee",
-        "Theme Song",
-        "Sam Weiller",
+        "Justice Tanner",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2510,9 +2411,8 @@
       "itunes_duration": "01:27:58",
       "speakers": [
         "Giant Egos",
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2534,8 +2434,7 @@
       "enclosure_length": "113746755",
       "itunes_duration": "01:58:29",
       "speakers": [
-        "Trinyvale Intro",
-        "Emily Axford Logo Design",
+        "Trinyvale One",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2560,9 +2459,8 @@
       "enclosure_length": "98485812",
       "itunes_duration": "01:42:35",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2587,8 +2485,7 @@
       "itunes_duration": "01:05:54",
       "speakers": [
         "Elk Dockers",
-        "Theme Song",
-        "Sam Weiller",
+        "Pleated Ba",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2612,11 +2509,8 @@
       "enclosure_length": "82436179",
       "itunes_duration": "01:25:52",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Mee Maw",
-        "Broken Heart Banshee",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2640,8 +2534,6 @@
       "speakers": [
         "Adam Conover",
         "Mario Master",
-        "Youtube Channel",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2669,10 +2561,8 @@
       "enclosure_length": "89474194",
       "itunes_duration": "01:33:12",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2696,9 +2586,7 @@
       "speakers": [
         "Pre-Cog Milk Bath",
         "Rekha Shankar",
-        "Follow Rekha",
-        "Theme Song",
-        "Sam Weiller",
+        "Rekha Sh",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2724,9 +2612,8 @@
       "enclosure_length": "101957381",
       "itunes_duration": "01:46:12",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2749,7 +2636,8 @@
       "enclosure_length": "77566119",
       "itunes_duration": "01:20:47",
       "speakers": [
-        "Club Theme",
+        "Adventure Book Theatre",
+        "Quests Mountain",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2778,10 +2666,8 @@
       "enclosure_length": "80129880",
       "itunes_duration": "01:23:28",
       "speakers": [
-        "Emily Axford",
-        "Bronze Bastard",
-        "Calder Kilde",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2805,9 +2691,6 @@
       "itunes_duration": "01:07:44",
       "speakers": [
         "Cursed Bran",
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2836,10 +2719,8 @@
       "enclosure_length": "92660297",
       "itunes_duration": "01:36:31",
       "speakers": [
-        "Emily Axford",
-        "Mothership Lobby",
-        "Calder Kilde",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2863,10 +2744,9 @@
       "itunes_duration": "01:04:25",
       "speakers": [
         "Frozen Fan Fic",
-        "Jake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
+        "Jake Hurwitz",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -2891,8 +2771,8 @@
       "enclosure_length": "101077577",
       "itunes_duration": "01:45:17",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2914,9 +2794,6 @@
       "enclosure_length": "63247673",
       "itunes_duration": "01:05:52",
       "speakers": [
-        "James Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -2945,10 +2822,8 @@
       "itunes_duration": "02:17:53",
       "speakers": [
         "Mavid Vantasmo",
-        "Emily Axford",
-        "Frankie Vantasmo",
-        "Emily Axford Sea Beast",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2971,10 +2846,8 @@
       "itunes_duration": "01:33:02",
       "speakers": [
         "Mavid Vantasmo",
-        "Genevieve Sapphire",
-        "Emily Axford",
-        "Frankie Vantasmo",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -2997,11 +2870,8 @@
       "itunes_duration": "01:54:07",
       "speakers": [
         "Mavid Vantasmo",
-        "Emily Axford",
-        "Emily Axford Snake Fight",
-        "Emily Axford Sea Beast",
-        "Frankie Vantasmo",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3023,10 +2893,9 @@
       "enclosure_length": "89141498",
       "itunes_duration": "01:32:51",
       "speakers": [
-        "Emily Axford",
-        "Frankie Vantasmo",
-        "Howard Lanin Bloody Mural",
+        "Mavid Vant",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3049,9 +2918,8 @@
       "enclosure_length": "91233802",
       "itunes_duration": "01:35:02",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3075,8 +2943,6 @@
       "itunes_duration": "01:04:14",
       "speakers": [
         "Sneaky Snowmen",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3103,9 +2969,8 @@
       "enclosure_length": "94419905",
       "itunes_duration": "01:38:21",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3127,10 +2992,8 @@
       "enclosure_length": "102123729",
       "itunes_duration": "01:46:22",
       "speakers": [
-        "Glass Break",
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3154,8 +3017,6 @@
       "itunes_duration": "01:06:17",
       "speakers": [
         "Merry Champion",
-        "Jagg Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3183,8 +3044,8 @@
       "enclosure_length": "108139415",
       "itunes_duration": "01:52:38",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3208,8 +3069,6 @@
       "speakers": [
         "Falling Frogs",
         "Secret Dolls",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3237,11 +3096,8 @@
       "enclosure_length": "101196277",
       "itunes_duration": "01:45:24",
       "speakers": [
-        "Gregor Quendel",
-        "Emily Axford",
-        "Lilith Latrix",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3263,10 +3119,9 @@
       "enclosure_length": "59260760",
       "itunes_duration": "01:01:43",
       "speakers": [
-        "Jake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
+        "Jake Hurwitz",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -3289,8 +3144,8 @@
       "enclosure_length": "108876695",
       "itunes_duration": "01:53:24",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3315,9 +3170,6 @@
       "speakers": [
         "Unfair Immunities",
         "Lazy Louie",
-        "Bailiff Donald",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3346,9 +3198,8 @@
       "enclosure_length": "97106964",
       "itunes_duration": "01:41:09",
       "speakers": [
-        "Gregor Quendel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3371,8 +3222,6 @@
       "enclosure_length": "56943177",
       "itunes_duration": "00:59:18",
       "speakers": [
-        "Cake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3399,10 +3248,9 @@
       "itunes_duration": "01:31:22",
       "speakers": [
         "King Ecktar",
-        "Sol chugs free wine",
-        "Emily Axford",
-        "Spooky Shafts",
+        "Callie sta",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3425,9 +3273,6 @@
       "enclosure_length": "82276519",
       "itunes_duration": "01:25:42",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
-        "Grace Harper See Privacy",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3452,9 +3297,6 @@
       "speakers": [
         "Soundboard Abuse",
         "Wizard Quizzes",
-        "Graceless Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3483,9 +3325,8 @@
       "enclosure_length": "101624267",
       "itunes_duration": "01:45:51",
       "speakers": [
-        "Gregor Quendel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3509,7 +3350,6 @@
       "itunes_duration": "01:12:59",
       "speakers": [
         "Cake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3538,10 +3378,8 @@
       "itunes_duration": "01:38:49",
       "speakers": [
         "Giant King",
-        "Chainsaw Cut",
-        "Gregor Quendel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3566,9 +3404,6 @@
       "itunes_duration": "01:08:55",
       "speakers": [
         "Npc Romance Requests",
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3596,10 +3431,8 @@
       "enclosure_length": "92565420",
       "itunes_duration": "01:36:25",
       "speakers": [
-        "Gregor Quendel",
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3623,7 +3456,6 @@
       "itunes_duration": "01:11:50",
       "speakers": [
         "Jake Hurwitz",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -3650,8 +3482,8 @@
       "enclosure_length": "96655151",
       "itunes_duration": "01:40:40",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3672,8 +3504,6 @@
       "enclosure_length": "62583118",
       "itunes_duration": "01:05:11",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3703,8 +3533,8 @@
       "enclosure_length": "92493949",
       "itunes_duration": "01:36:20",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3727,7 +3557,6 @@
       "enclosure_length": "71542909",
       "itunes_duration": "01:14:31",
       "speakers": [
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3750,8 +3579,8 @@
       "enclosure_length": "90544169",
       "itunes_duration": "01:34:18",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3774,12 +3603,14 @@
       "enclosure_length": "71591810",
       "itunes_duration": "01:14:34",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
+        "Sibling Rivalry Edition",
+        "Ify Nwadiwe",
+        "Dungeon Court",
+        "Join Justices Murphy",
+        "Guest Justice Nwadiwe",
         "Brian Murphy",
         "Emily Axford",
-        "Jake Hurwitz",
-        "Caldwell Tanner"
+        "Jake Hurwitz"
       ],
       "topics": [
         "court",
@@ -3801,8 +3632,8 @@
       "enclosure_length": "94229733",
       "itunes_duration": "01:38:09",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3825,8 +3656,6 @@
       "speakers": [
         "Jasper William Cartwright",
         "Jake Hurwitz",
-        "Follow Jasper",
-        "Club Theme",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -3855,9 +3684,8 @@
       "itunes_duration": "01:47:42",
       "speakers": [
         "Mothership Bronze",
-        "Large Crash",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3879,8 +3707,6 @@
       "enclosure_length": "62148440",
       "itunes_duration": "01:04:44",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -3909,9 +3735,8 @@
       "itunes_duration": "01:55:04",
       "speakers": [
         "Mothership Bronze",
-        "Emily Axford",
-        "Lilith Latrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3960,12 +3785,8 @@
       "enclosure_length": "85955395",
       "itunes_duration": "01:29:32",
       "speakers": [
-        "Caw Caw",
-        "Emily Axford",
-        "Spooky Shafts",
-        "Mothership Lobby",
-        "Patina Glenbottle",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -3988,9 +3809,6 @@
       "enclosure_length": "65387624",
       "itunes_duration": "01:08:06",
       "speakers": [
-        "Lowly Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4013,10 +3831,8 @@
       "enclosure_length": "89165322",
       "itunes_duration": "01:32:52",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4038,8 +3854,6 @@
       "enclosure_length": "60457795",
       "itunes_duration": "01:02:58",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4064,8 +3878,8 @@
       "enclosure_length": "97154194",
       "itunes_duration": "01:41:12",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4088,10 +3902,12 @@
       "enclosure_length": "63549857",
       "itunes_duration": "01:06:11",
       "speakers": [
-        "Jake Hurwitz",
-        "Club Theme",
+        "Adventure Book",
+        "Nightmare Castle Sound",
+        "Story Gong",
         "Brian Murphy",
         "Emily Axford",
+        "Jake Hurwitz",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -4114,9 +3930,8 @@
       "enclosure_length": "103336228",
       "itunes_duration": "01:47:38",
       "speakers": [
-        "Emily Axford",
-        "Zirk Vervain",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4139,8 +3954,6 @@
       "enclosure_length": "75269433",
       "itunes_duration": "01:18:24",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4164,9 +3977,6 @@
       "enclosure_length": "96757133",
       "itunes_duration": "01:40:47",
       "speakers": [
-        "Trevor Lyons",
-        "Trinyvale Intro",
-        "Emily Axford Logo Design",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4192,9 +4002,8 @@
       "enclosure_length": "104776933",
       "itunes_duration": "01:49:08",
       "speakers": [
-        "Trevor Lyons",
-        "Trinyvale Intro",
-        "Emily Axford Logo Design",
+        "Bahumia Mini",
+        "Trident Welcome",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4219,10 +4028,6 @@
       "enclosure_length": "101183320",
       "itunes_duration": "01:45:23",
       "speakers": [
-        "Dungeon Uncle Caldwell",
-        "Trevor Lyons",
-        "Trinyvale Intro",
-        "Emily Axford Logo Design",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4248,10 +4053,8 @@
       "enclosure_length": "103098827",
       "itunes_duration": "01:47:23",
       "speakers": [
-        "Emily Axford",
-        "Lilith LaTrix",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4274,10 +4077,10 @@
       "enclosure_length": "72896261",
       "itunes_duration": "01:15:55",
       "speakers": [
-        "Jake Hurwitz",
-        "Club Theme",
+        "Jake Hurwit",
         "Brian Murphy",
         "Emily Axford",
+        "Jake Hurwitz",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -4321,10 +4124,8 @@
       "enclosure_length": "122500911",
       "itunes_duration": "02:07:36",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Lilith LaTrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4346,9 +4147,7 @@
       "enclosure_length": "63370553",
       "itunes_duration": "01:06:00",
       "speakers": [
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
+        "Bailiff Hurwit",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4372,11 +4171,8 @@
       "enclosure_length": "136553116",
       "itunes_duration": "02:22:14",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Soil Coins",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4399,7 +4195,8 @@
       "enclosure_length": "66107768",
       "itunes_duration": "01:08:51",
       "speakers": [
-        "Merry Hogsmas",
+        "Hearthside Chat",
+        "Hoglidays Speedy Greetings",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4424,10 +4221,8 @@
       "enclosure_length": "86692257",
       "itunes_duration": "01:30:18",
       "speakers": [
-        "Emily Axford",
-        "Lilith Latrix",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4450,9 +4245,6 @@
       "speakers": [
         "Helm Hammerhand",
         "Skinny Holes",
-        "Grace Harper",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4480,12 +4272,8 @@
       "enclosure_length": "96536032",
       "itunes_duration": "01:40:33",
       "speakers": [
-        "Emily Axford",
-        "Lilith Latrix",
-        "Montgomery Manor",
-        "Beedra Weevil",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4509,8 +4297,8 @@
       "itunes_duration": "01:45:18",
       "speakers": [
         "Serpent Knight",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4535,10 +4323,7 @@
       "speakers": [
         "Enema Potions",
         "Jasper William Cartwright",
-        "Bailiff Hurwitz",
-        "Grace Harper",
-        "Theme Song",
-        "Sam Weiller",
+        "Jasper William Cart",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4570,8 +4355,8 @@
       "itunes_duration": "01:46:58",
       "speakers": [
         "Foster Origins",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4595,7 +4380,6 @@
       "itunes_duration": "01:08:31",
       "speakers": [
         "Jake Hurwitz",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -4621,10 +4405,8 @@
       "enclosure_length": "92113606",
       "itunes_duration": "01:35:57",
       "speakers": [
-        "Arkansas Traveler",
-        "Emily Axford",
-        "Lilith Latrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4647,8 +4429,6 @@
       "itunes_duration": "01:08:03",
       "speakers": [
         "Aabria Iyengar",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4675,11 +4455,8 @@
       "enclosure_length": "90092355",
       "itunes_duration": "01:33:50",
       "speakers": [
-        "Gregor Quendel",
-        "Emily Axford",
-        "Spooky Shafts",
-        "Lilith Latrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4701,7 +4478,9 @@
       "enclosure_length": "60298135",
       "itunes_duration": "01:02:48",
       "speakers": [
-        "Trevor Lyon",
+        "Tortle Tank",
+        "Fighting Birds",
+        "Mediocre Gods",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4730,12 +4509,8 @@
       "enclosure_length": "88095346",
       "itunes_duration": "01:31:45",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Spooky Shafts",
-        "Lilith Latrix",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4758,9 +4533,6 @@
       "enclosure_length": "55986050",
       "itunes_duration": "00:58:19",
       "speakers": [
-        "Jon Odenkirk Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4784,11 +4556,8 @@
       "enclosure_length": "101719562",
       "itunes_duration": "01:45:57",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Spooky Shafts",
-        "Lilith Latrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4812,7 +4581,6 @@
       "itunes_duration": "01:03:09",
       "speakers": [
         "Redirected Spells",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4842,10 +4610,8 @@
       "enclosure_length": "93635395",
       "itunes_duration": "01:37:32",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Lilith Latrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4867,8 +4633,6 @@
       "enclosure_length": "56903889",
       "itunes_duration": "00:59:16",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4891,10 +4655,8 @@
       "enclosure_length": "115557773",
       "itunes_duration": "02:00:22",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4918,7 +4680,6 @@
       "itunes_duration": "01:11:02",
       "speakers": [
         "Jasper William Cartwright",
-        "Trevor Lyon Listen",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -4946,9 +4707,8 @@
       "enclosure_length": "126328999",
       "itunes_duration": "02:11:35",
       "speakers": [
-        "Emily Axford",
-        "Lilith Litrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -4972,8 +4732,6 @@
       "itunes_duration": "01:22:05",
       "speakers": [
         "Horse Welcome",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5002,10 +4760,8 @@
       "enclosure_length": "118458827",
       "itunes_duration": "02:03:23",
       "speakers": [
-        "Emily Axford",
-        "Lilith Litrix",
-        "Henry Hogfish",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5030,7 +4786,6 @@
       "speakers": [
         "Zac Oyama",
         "Jake Hurwitz",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -5055,9 +4810,8 @@
       "enclosure_length": "94871719",
       "itunes_duration": "01:38:49",
       "speakers": [
-        "Emily Axford",
-        "Lilith Litrix",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5082,9 +4836,6 @@
       "speakers": [
         "Ally Beardsley",
         "Justices Murphy",
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5112,9 +4863,8 @@
       "enclosure_length": "107449782",
       "itunes_duration": "01:51:55",
       "speakers": [
-        "Emily Axford",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5137,7 +4887,6 @@
       "itunes_duration": "01:09:20",
       "speakers": [
         "Jake Hurwitz",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -5161,9 +4910,8 @@
       "enclosure_length": "95014243",
       "itunes_duration": "01:38:58",
       "speakers": [
-        "Emily Axford",
-        "Mothership Lobby",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5186,9 +4934,7 @@
       "enclosure_length": "61179193",
       "itunes_duration": "01:03:43",
       "speakers": [
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller",
+        "Bailiff Hurw",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5211,10 +4957,8 @@
       "enclosure_length": "85124075",
       "itunes_duration": "01:28:40",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5237,7 +4981,6 @@
       "itunes_duration": "01:02:49",
       "speakers": [
         "Jake Hurwitz",
-        "Trevor Lyon",
         "Brian Murphy",
         "Emily Axford",
         "Caldwell Tanner"
@@ -5260,9 +5003,8 @@
       "enclosure_length": "115105959",
       "itunes_duration": "01:59:54",
       "speakers": [
-        "Emily Axford",
-        "Mothership Lobby",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5285,8 +5027,6 @@
       "itunes_duration": "01:08:53",
       "speakers": [
         "Aabria Iyengar",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5311,9 +5051,8 @@
       "enclosure_length": "82079660",
       "itunes_duration": "01:25:29",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5335,11 +5074,8 @@
       "enclosure_length": "90591817",
       "itunes_duration": "01:34:21",
       "speakers": [
-        "Emily Axford",
-        "Shadowfell Sneak",
-        "Spooky Shafts",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5362,11 +5098,8 @@
       "itunes_duration": "01:43:27",
       "speakers": [
         "Ma Goblin",
-        "Emily Axford",
-        "Mee Maw",
-        "Soul Coins",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5419,8 +5152,8 @@
       "itunes_duration": "01:41:28",
       "speakers": [
         "Bunny Bud",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5443,9 +5176,8 @@
       "enclosure_length": "80771866",
       "itunes_duration": "01:24:08",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5466,9 +5198,8 @@
       "enclosure_length": "102504071",
       "itunes_duration": "01:46:46",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5491,8 +5222,6 @@
       "itunes_duration": "00:58:22",
       "speakers": [
         "Zac Oyama",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5520,10 +5249,8 @@
       "itunes_duration": "01:39:26",
       "speakers": [
         "Missing Soldier",
-        "Emily Axford",
-        "Shadowfell Sneak",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5546,10 +5273,8 @@
       "enclosure_length": "94562429",
       "itunes_duration": "01:38:30",
       "speakers": [
-        "Emily Axford",
-        "Shadowfell Sneak",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5572,9 +5297,8 @@
       "enclosure_length": "87072600",
       "itunes_duration": "01:30:42",
       "speakers": [
-        "Synthetic Knights",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5598,8 +5322,6 @@
       "itunes_duration": "01:08:54",
       "speakers": [
         "Psychic Kittens",
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5626,9 +5348,8 @@
       "itunes_duration": "01:51:05",
       "speakers": [
         "Pony Show",
-        "Trinyvale Intro",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5673,9 +5394,6 @@
       "speakers": [
         "Jeremy Cobb",
         "Justices Murphy",
-        "Bailiff Hurwitz",
-        "Theme Song",
-        "Sam Weiller See",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5725,12 +5443,11 @@
       "enclosure_length": "142464731",
       "itunes_duration": "02:28:24",
       "speakers": [
-        "Daniel Ramos",
-        "James Wallis Music",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Emily Axford City",
+        "Trinyvale Two",
+        "Merry Metal Mayhem",
+        "Trinyvale Triplettes",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5754,13 +5471,8 @@
       "enclosure_length": "101245178",
       "itunes_duration": "01:45:27",
       "speakers": [
-        "Daniel Ramos",
-        "James Wallis Music",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum See",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5784,8 +5496,6 @@
       "enclosure_length": "73569175",
       "itunes_duration": "01:16:38",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller See",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5837,9 +5547,8 @@
       "enclosure_length": "213284153",
       "itunes_duration": "03:42:10",
       "speakers": [
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5860,9 +5569,8 @@
       "enclosure_length": "99485152",
       "itunes_duration": "01:43:37",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5885,8 +5593,8 @@
       "enclosure_length": "90402063",
       "itunes_duration": "01:34:10",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5908,8 +5616,10 @@
       "enclosure_length": "64918256",
       "itunes_duration": "01:07:37",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller See",
+        "Julia Lepetit",
+        "Nathan Yaffe",
+        "Dungeon Court",
+        "Join Supreme Crit Justice",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -5938,9 +5648,8 @@
       "itunes_duration": "01:39:37",
       "speakers": [
         "Ill Luck Henry",
-        "Emily Axford",
-        "Reynard Wendell",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5962,9 +5671,8 @@
       "enclosure_length": "92137848",
       "itunes_duration": "01:35:58",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -5986,10 +5694,8 @@
       "enclosure_length": "99865495",
       "itunes_duration": "01:44:01",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6013,8 +5719,6 @@
       "itunes_duration": "00:59:20",
       "speakers": [
         "Shark Farts",
-        "Theme Song",
-        "Sam Weiller See",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6040,10 +5744,8 @@
       "enclosure_length": "112491206",
       "itunes_duration": "01:57:10",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6063,8 +5765,8 @@
       "enclosure_length": "105072849",
       "itunes_duration": "01:49:27",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6086,9 +5788,8 @@
       "enclosure_length": "93469466",
       "itunes_duration": "01:37:21",
       "speakers": [
-        "skeleton greaser",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6110,8 +5811,9 @@
       "enclosure_length": "63103059",
       "itunes_duration": "01:05:43",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller See",
+        "Pet Rocks",
+        "Raven Plagues",
+        "Join Supreme Crit Justices",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6138,9 +5840,8 @@
       "enclosure_length": "99651082",
       "itunes_duration": "01:43:48",
       "speakers": [
-        "Emily Axford",
-        "Honey Trap",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6162,8 +5863,6 @@
       "enclosure_length": "66458017",
       "itunes_duration": "01:09:13",
       "speakers": [
-        "Theme Song",
-        "Sam Weiller",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6189,11 +5888,8 @@
       "enclosure_length": "107639954",
       "itunes_duration": "01:52:07",
       "speakers": [
-        "Ill Luck Henry",
-        "Gregor Quendel",
-        "Emily Axford",
-        "Broken Heart Banshee",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6215,9 +5911,8 @@
       "enclosure_length": "109827552",
       "itunes_duration": "01:54:24",
       "speakers": [
-        "Emily Axford",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6240,9 +5935,8 @@
       "speakers": [
         "William Cartwright",
         "Jasper William Cartwright",
-        "Daniel Ramos",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6270,9 +5964,8 @@
       "speakers": [
         "William Cartwright",
         "Jasper William Cartwright",
-        "Daniel Ramos",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6298,11 +5991,8 @@
       "enclosure_length": "119171866",
       "itunes_duration": "02:04:08",
       "speakers": [
-        "Emily Axford",
-        "Broken Heart Banshee",
-        "Spooky Shafts",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6324,11 +6014,8 @@
       "itunes_duration": "01:42:29",
       "speakers": [
         "Vervain Labs",
-        "Emily Axford",
-        "Broken Heart Banshee",
-        "Spooky Shafts",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6350,10 +6037,8 @@
       "itunes_duration": "01:31:20",
       "speakers": [
         "Stella Vervain",
-        "Emily Axford",
-        "Spooky Shafts",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6376,11 +6061,8 @@
       "speakers": [
         "Meta Gamers",
         "Blasting Gramma",
-        "Daniel Ramos",
-        "Theme Song",
-        "Sam Weiller",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6407,10 +6089,8 @@
       "enclosure_length": "90734341",
       "itunes_duration": "01:34:30",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6430,10 +6110,8 @@
       "enclosure_length": "98723631",
       "itunes_duration": "01:42:50",
       "speakers": [
-        "Emily Axford",
-        "Soul Coins",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6455,11 +6133,8 @@
       "enclosure_length": "112181498",
       "itunes_duration": "01:56:51",
       "speakers": [
-        "Emily Axford",
-        "Unknown Tomb",
-        "Soul Coins",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6479,7 +6154,6 @@
       "enclosure_length": "62130468",
       "itunes_duration": "01:04:43",
       "speakers": [
-        "Dungeon Bailiff Jake",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6507,8 +6181,8 @@
       "enclosure_length": "85265763",
       "itunes_duration": "01:28:49",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6529,9 +6203,8 @@
       "enclosure_length": "95561351",
       "itunes_duration": "01:39:32",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6553,10 +6226,8 @@
       "enclosure_length": "118387356",
       "itunes_duration": "02:03:19",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6577,7 +6248,6 @@
       "enclosure_length": "56756767",
       "itunes_duration": "00:59:07",
       "speakers": [
-        "Dungeon Bailiff Jake",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6605,15 +6275,9 @@
       "enclosure_length": "130451748",
       "itunes_duration": "02:15:53",
       "speakers": [
-        "Terence Wiggins",
-        "Daniel Ramos",
-        "Hat Productions",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Andante Moderato",
-        "Soni Ventorum Wind Quintet",
+        "One Shot",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6636,9 +6300,8 @@
       "enclosure_length": "85551229",
       "itunes_duration": "01:29:06",
       "speakers": [
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6661,9 +6324,8 @@
       "itunes_duration": "02:00:04",
       "speakers": [
         "Blade Witch",
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6685,9 +6347,8 @@
       "enclosure_length": "106831621",
       "itunes_duration": "01:51:16",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6711,7 +6372,6 @@
       "speakers": [
         "DM Zac Oyama",
         "Zac Oyama",
-        "Brenda Elizabeth",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6737,9 +6397,8 @@
       "enclosure_length": "102385371",
       "itunes_duration": "01:46:39",
       "speakers": [
-        "Emily Axford",
-        "Zirk Vervain",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6761,9 +6420,8 @@
       "enclosure_length": "93730272",
       "itunes_duration": "01:37:38",
       "speakers": [
-        "Emily Axford",
-        "Broken Heart Banshee",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6785,9 +6443,8 @@
       "enclosure_length": "113037479",
       "itunes_duration": "01:57:44",
       "speakers": [
-        "Emily Axford",
-        "Montgomery Manor",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6838,10 +6495,9 @@
       "itunes_duration": "01:37:50",
       "speakers": [
         "Lou Wilson",
-        "John Wick",
-        "Emily Axford",
-        "Broken Heart Banshee",
+        "John Wic",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6867,10 +6523,8 @@
       "speakers": [
         "Lou Wilson",
         "Prophet Gideon",
-        "Soul Coins",
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6893,8 +6547,8 @@
       "itunes_duration": "01:39:57",
       "speakers": [
         "Lou Wilson",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6919,7 +6573,6 @@
       "speakers": [
         "DM Zac Oyama",
         "Zac Oyama",
-        "Bon Appétit",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -6946,8 +6599,8 @@
       "itunes_duration": "01:48:39",
       "speakers": [
         "Lou Wilson",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6970,11 +6623,8 @@
       "itunes_duration": "01:44:46",
       "speakers": [
         "Lou Wilson",
-        "Medieval Marching",
-        "Emily Axford",
-        "Soul Coins",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -6997,11 +6647,9 @@
       "itunes_duration": "01:42:51",
       "speakers": [
         "Lou Wilson",
-        "Jabari Hightower",
+        "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
-        "Soul Coins",
-        "Brian Murphy",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -7023,7 +6671,7 @@
       "itunes_duration": "01:12:16",
       "speakers": [
         "Lou Wilson",
-        "Matthew McConaughey",
+        "Jake chan",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -7048,7 +6696,6 @@
       "itunes_duration": "01:29:02",
       "speakers": [
         "DM Zac Oyama",
-        "Brenda Elizabeth",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -7075,9 +6722,8 @@
       "itunes_duration": "01:23:36",
       "speakers": [
         "Donkey Kong",
-        "Howard Geisel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7104,8 +6750,8 @@
       "itunes_duration": "01:22:37",
       "speakers": [
         "Choo Choo",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7125,8 +6771,8 @@
       "enclosure_length": "98081645",
       "itunes_duration": "01:42:10",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7176,8 +6822,8 @@
       "enclosure_length": "101505567",
       "itunes_duration": "01:45:44",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7199,9 +6845,8 @@
       "enclosure_length": "98247993",
       "itunes_duration": "01:42:20",
       "speakers": [
-        "Broken Heart Banshee",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7223,9 +6868,9 @@
       "itunes_duration": "01:24:29",
       "speakers": [
         "Penrose Crypt",
-        "Henry channels Wolverine",
-        "Emily Axford",
+        "Henry chan",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7247,8 +6892,6 @@
       "enclosure_length": "146877544",
       "itunes_duration": "02:32:59",
       "speakers": [
-        "Dungeon Bailiff Jake",
-        "Mixed Bag",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -7272,9 +6915,8 @@
       "enclosure_length": "98961449",
       "itunes_duration": "01:43:05",
       "speakers": [
-        "Emily Axford",
-        "Broken Heart Banshee",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7296,8 +6938,8 @@
       "enclosure_length": "103407699",
       "itunes_duration": "01:47:42",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7320,11 +6962,9 @@
       "itunes_duration": "01:45:59",
       "speakers": [
         "Fia Boginya",
-        "Zirk Vervain",
-        "Henry Hogfish",
-        "Jake Hurwitz",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
         "Caldwell Tanner"
       ],
       "topics": [
@@ -7367,10 +7007,8 @@
       "itunes_duration": "02:24:32",
       "speakers": [
         "Zac Oyama",
-        "Daniel Ramos",
-        "Emily Axford Sea Beast",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7395,9 +7033,8 @@
       "speakers": [
         "Merfolk Melee",
         "Zac Oyama",
-        "Daniel Ramos",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7422,14 +7059,8 @@
       "itunes_duration": "01:40:24",
       "speakers": [
         "Zac Oyama",
-        "Hungry Dave",
-        "Daniel Ramos",
-        "Emily Axford",
-        "Bronze Bastard",
-        "Emily Axford Sea Beast",
-        "Humble Farmer",
-        "Emily Axford Snake Fight",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7454,11 +7085,8 @@
       "itunes_duration": "01:43:46",
       "speakers": [
         "Zac Oyama",
-        "Hungry Dave",
-        "Daniel Ramos",
-        "Emily Axford",
-        "Emily Axford Snake Fight",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7482,11 +7110,8 @@
       "itunes_duration": "01:32:30",
       "speakers": [
         "Zac Oyama",
-        "Daniel Ramos",
-        "Emily Axford",
-        "Emily Axford Sea Beast",
-        "Emily Axford Schubert",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7512,9 +7137,8 @@
       "itunes_duration": "01:32:18",
       "speakers": [
         "Zac Oyama",
-        "Emily Axford",
-        "Bronze Bastard",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7539,11 +7163,8 @@
       "itunes_duration": "01:50:54",
       "speakers": [
         "Zac Oyama",
-        "Tred Nevers",
-        "Emily Axford",
-        "Bronze Bastard",
-        "Emily Axford Qwiksus",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7595,7 +7216,6 @@
       "enclosure_length": "1283134",
       "itunes_duration": "00:01:20",
       "speakers": [
-        "Zac Oyama",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -7625,15 +7245,8 @@
       "enclosure_length": "171648731",
       "itunes_duration": "02:58:48",
       "speakers": [
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "Bedtime Buddies",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7655,14 +7268,8 @@
       "itunes_duration": "02:14:28",
       "speakers": [
         "Divine Relic",
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7684,15 +7291,8 @@
       "enclosure_length": "141610840",
       "itunes_duration": "02:27:30",
       "speakers": [
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7715,14 +7315,8 @@
       "itunes_duration": "02:42:13",
       "speakers": [
         "Nathan Yaffe",
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7746,15 +7340,8 @@
       "enclosure_length": "99967059",
       "itunes_duration": "01:44:07",
       "speakers": [
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
-        "Jens Christian Tvilum",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7776,15 +7363,8 @@
       "enclosure_length": "118224352",
       "itunes_duration": "02:03:08",
       "speakers": [
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7806,14 +7386,8 @@
       "enclosure_length": "85663242",
       "itunes_duration": "01:29:13",
       "speakers": [
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Emily Axford City",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7836,14 +7410,8 @@
       "itunes_duration": "01:42:02",
       "speakers": [
         "Shard Showdown Deep",
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Emily Axford City",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7866,14 +7434,8 @@
       "itunes_duration": "01:51:25",
       "speakers": [
         "Periphera Peril",
-        "Ron Madness",
-        "Trevor Lyon",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7896,12 +7458,8 @@
       "itunes_duration": "00:52:22",
       "speakers": [
         "Duncle Caldwell",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7923,13 +7481,8 @@
       "enclosure_length": "97420852",
       "itunes_duration": "01:41:28",
       "speakers": [
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7952,12 +7505,8 @@
       "itunes_duration": "01:52:41",
       "speakers": [
         "Retrieval Team",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -7979,13 +7528,8 @@
       "itunes_duration": "02:08:56",
       "speakers": [
         "Arduous Awakening Having",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum Moonsick",
-        "Jens Christian Tvilum",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8008,14 +7552,8 @@
       "itunes_duration": "01:38:26",
       "speakers": [
         "Dread Horizon",
-        "Retrieval Team",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford Golden Interlude",
-        "Emily Axford City",
-        "Emily Axford",
-        "Jens Christian Tvilum",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8037,15 +7575,8 @@
       "enclosure_length": "83485257",
       "itunes_duration": "01:26:57",
       "speakers": [
-        "Raster Von Vineheart",
-        "Dread Horizon",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Emily Axford City",
-        "Jens Christian Tvilum",
-        "Privacy Policy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8067,12 +7598,8 @@
       "enclosure_length": "89954429",
       "itunes_duration": "01:33:42",
       "speakers": [
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "Jens Christian Tvilum",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8094,11 +7621,8 @@
       "enclosure_length": "98491245",
       "itunes_duration": "01:42:35",
       "speakers": [
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
-        "See Privacy",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8120,11 +7644,8 @@
       "enclosure_length": "103146475",
       "itunes_duration": "01:47:26",
       "speakers": [
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford City",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8147,10 +7668,8 @@
       "itunes_duration": "02:02:54",
       "speakers": [
         "Ginnarak Gauntlet",
-        "Daniel Ramos",
-        "Trinyvale Intro",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8172,11 +7691,8 @@
       "enclosure_length": "111351431",
       "itunes_duration": "01:55:59",
       "speakers": [
-        "Daniel Ramos",
-        "Kei Matsuo",
-        "Trinyvale Intro",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8198,9 +7714,6 @@
       "enclosure_length": "132179591",
       "itunes_duration": "02:17:41",
       "speakers": [
-        "Marissa Melnyk",
-        "Daniel Ramos",
-        "Trinyvale Intro",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -8224,9 +7737,6 @@
       "enclosure_length": "121790380",
       "itunes_duration": "02:06:51",
       "speakers": [
-        "Marissa Melnyk",
-        "Daniel Ramos",
-        "Trinyvale Intro",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -8250,10 +7760,8 @@
       "enclosure_length": "106751791",
       "itunes_duration": "01:51:11",
       "speakers": [
-        "Jens Lyndelle",
-        "Onyx Lumiere",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8304,8 +7812,8 @@
       "enclosure_length": "223055621",
       "itunes_duration": "03:52:20",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8327,10 +7835,9 @@
       "enclosure_length": "124022700",
       "itunes_duration": "02:09:11",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
-        "Shadowfell Sneak",
+        "One Big Bed",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8351,9 +7858,8 @@
       "itunes_duration": "02:08:11",
       "speakers": [
         "Patient Zero",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8376,8 +7882,8 @@
       "itunes_duration": "02:00:38",
       "speakers": [
         "Divine Hearts",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8399,9 +7905,10 @@
       "enclosure_length": "115391425",
       "itunes_duration": "02:00:11",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
+        "Dragon God",
+        "Glittering Lady",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8449,8 +7956,8 @@
       "itunes_duration": "01:52:55",
       "speakers": [
         "Divine Heart",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8500,8 +8007,9 @@
       "enclosure_length": "117103386",
       "itunes_duration": "02:01:58",
       "speakers": [
-        "Emily Axford",
+        "Astral Worm",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8523,8 +8031,8 @@
       "enclosure_length": "99030831",
       "itunes_duration": "01:43:09",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8546,9 +8054,9 @@
       "enclosure_length": "83506155",
       "itunes_duration": "01:26:59",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
+        "Pale Horse",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8571,9 +8079,8 @@
       "enclosure_length": "88071523",
       "itunes_duration": "01:31:44",
       "speakers": [
-        "Emily Axford",
-        "Shadowfell Sneak",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8595,11 +8102,8 @@
       "enclosure_length": "107449782",
       "itunes_duration": "01:51:55",
       "speakers": [
-        "Arkansas Traveler",
-        "Emily Axford",
-        "Mee Maw",
-        "Soul Coins",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8619,9 +8123,9 @@
       "enclosure_length": "64626938",
       "itunes_duration": "01:07:19",
       "speakers": [
-        "Leandros Ntounis",
-        "Emily Axford",
+        "Astral Dreadnought",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8646,10 +8150,8 @@
       "speakers": [
         "Siobhan Thompson",
         "Zac Oyama",
-        "Dean Raul DiArchangeli",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8673,11 +8175,8 @@
       "speakers": [
         "Siobhan Thompson",
         "Zac Oyama",
-        "Medieval Marching",
-        "Kevin MacLeod",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8701,11 +8200,8 @@
       "speakers": [
         "Siobhan Thompson",
         "Zac Oyama",
-        "Howard Geisel",
-        "Medieval Marching",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8729,8 +8225,8 @@
       "speakers": [
         "Zac Oyama",
         "Siobhan Thompson",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8754,11 +8250,8 @@
       "enclosure_length": "98913802",
       "itunes_duration": "01:43:02",
       "speakers": [
-        "Medieval Marching",
-        "Tim Kahn",
-        "Emily Axford",
-        "Escape Smuggler",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8781,8 +8274,8 @@
       "enclosure_length": "69548826",
       "itunes_duration": "01:12:26",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8808,9 +8301,8 @@
       "itunes_duration": "01:52:44",
       "speakers": [
         "Amir Blumenfeld",
-        "Wind Howling",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8895,9 +8387,8 @@
       "itunes_duration": "01:31:25",
       "speakers": [
         "Donkey Kong",
-        "Little Buddy",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8921,9 +8412,8 @@
       "enclosure_length": "96512209",
       "itunes_duration": "01:40:31",
       "speakers": [
-        "Church Bells",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8945,9 +8435,8 @@
       "enclosure_length": "99413263",
       "itunes_duration": "01:43:33",
       "speakers": [
-        "Dreamy Ambience",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8969,8 +8458,8 @@
       "enclosure_length": "104144979",
       "itunes_duration": "01:48:29",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -8993,11 +8482,8 @@
       "enclosure_length": "78608091",
       "itunes_duration": "01:21:52",
       "speakers": [
-        "Howard Geisel",
-        "Arkansas Traveler",
-        "Emily Axford",
-        "Snake Skirmish",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9021,9 +8507,8 @@
       "enclosure_length": "82222184",
       "itunes_duration": "01:25:38",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9047,8 +8532,8 @@
       "itunes_duration": "01:53:27",
       "speakers": [
         "Honey Trap",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9072,8 +8557,8 @@
       "itunes_duration": "01:41:07",
       "speakers": [
         "Bronze Bastard",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9096,9 +8581,9 @@
       "enclosure_length": "105452773",
       "itunes_duration": "01:49:50",
       "speakers": [
-        "Emily Axford",
-        "Bronze Bastard",
+        "Nine Hells",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9120,8 +8605,8 @@
       "enclosure_length": "97083141",
       "itunes_duration": "01:41:07",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9143,6 +8628,7 @@
       "enclosure_length": "109185567",
       "itunes_duration": "01:53:44",
       "speakers": [
+        "Nannerfly Effect Tour",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -9166,9 +8652,8 @@
       "enclosure_length": "148893779",
       "itunes_duration": "02:35:05",
       "speakers": [
-        "Maw Maw",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9190,10 +8675,8 @@
       "itunes_duration": "01:52:17",
       "speakers": [
         "Zac Oyama",
-        "Howard Geisel",
-        "Emily Axford",
-        "Shadowfell Sneak",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9218,7 +8701,6 @@
       "itunes_duration": "00:01:57",
       "speakers": [
         "New York",
-        "Nannerfly Effect",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -9243,9 +8725,8 @@
       "itunes_duration": "02:30:54",
       "speakers": [
         "Zac Oyama",
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9269,8 +8750,8 @@
       "itunes_duration": "02:00:04",
       "speakers": [
         "Zac Oyama",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9295,9 +8776,8 @@
       "itunes_duration": "02:38:01",
       "speakers": [
         "Zac Oyama",
-        "Dreamy Ambience",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9322,9 +8802,8 @@
       "enclosure_length": "138217430",
       "itunes_duration": "02:23:58",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9345,8 +8824,8 @@
       "enclosure_length": "103051180",
       "itunes_duration": "01:47:20",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9371,8 +8850,10 @@
       "enclosure_length": "103740813",
       "itunes_duration": "01:48:03",
       "speakers": [
-        "Emily Axford",
+        "Grave Robbers",
+        "Ember Heaven",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9395,8 +8876,8 @@
       "enclosure_length": "114677969",
       "itunes_duration": "01:59:27",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9419,10 +8900,10 @@
       "enclosure_length": "114297626",
       "itunes_duration": "01:59:03",
       "speakers": [
-        "Paw Paw",
-        "Shadowfell Sneak",
-        "Emily Axford",
+        "Unholy Pilgrimage",
+        "Dark Lord Galad Rosell",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9470,8 +8951,9 @@
       "enclosure_length": "113988754",
       "itunes_duration": "01:58:44",
       "speakers": [
-        "Emily Axford",
+        "Crimson Hills",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9494,10 +8976,8 @@
       "itunes_duration": "02:53:22",
       "speakers": [
         "Brennan Lee Mulligan",
-        "Emily Axford",
-        "Montgomery Manor",
-        "Shadowfell Sneak",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9524,10 +9004,8 @@
       "speakers": [
         "Grimhawk Manor",
         "Brennan Lee Mulligan",
-        "Emily Axford",
-        "Montgomery Manor",
-        "Shadowfell Sneak",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9553,8 +9031,8 @@
       "itunes_duration": "01:49:06",
       "speakers": [
         "Brennan Lee Mulligan",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9580,8 +9058,8 @@
       "itunes_duration": "01:56:21",
       "speakers": [
         "Brennan Lee Mulligan",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9606,8 +9084,8 @@
       "itunes_duration": "02:05:18",
       "speakers": [
         "Brennan Lee Mulligan",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9631,8 +9109,8 @@
       "enclosure_length": "114012577",
       "itunes_duration": "01:58:45",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9678,8 +9156,8 @@
       "enclosure_length": "107663777",
       "itunes_duration": "01:52:08",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9704,8 +9182,9 @@
       "speakers": [
         "Frozen Hearts",
         "King Lestibourne",
-        "Emily Axford",
+        "Moonshine lo",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9728,8 +9207,11 @@
       "enclosure_length": "102861009",
       "itunes_duration": "01:47:08",
       "speakers": [
-        "Emily Axford",
+        "Faerie Tale",
+        "Autumn Court",
+        "Princess Jovyr",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9752,8 +9234,8 @@
       "enclosure_length": "92517773",
       "itunes_duration": "01:36:22",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9777,11 +9259,8 @@
       "itunes_duration": "02:00:29",
       "speakers": [
         "Killing Blow",
-        "Bev Sr",
-        "Green Knight",
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9805,10 +9284,8 @@
       "itunes_duration": "01:54:13",
       "speakers": [
         "Queen Cirilla",
-        "Lactose Lad",
-        "Emily Axford",
-        "Spooky Shafts",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9832,8 +9309,8 @@
       "enclosure_length": "110350837",
       "itunes_duration": "01:54:56",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9855,9 +9332,9 @@
       "enclosure_length": "112585665",
       "itunes_duration": "01:57:16",
       "speakers": [
-        "Emily Axford",
-        "Mee Maw",
+        "Faerie Tale",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9880,8 +9357,9 @@
       "enclosure_length": "86882429",
       "itunes_duration": "01:30:30",
       "speakers": [
-        "Emily Axford",
+        "Faerie Tale",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9903,8 +9381,8 @@
       "enclosure_length": "98461988",
       "itunes_duration": "01:42:33",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9927,8 +9405,8 @@
       "enclosure_length": "96512209",
       "itunes_duration": "01:40:31",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9952,8 +9430,8 @@
       "enclosure_length": "90710517",
       "itunes_duration": "01:34:29",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -9976,9 +9454,9 @@
       "enclosure_length": "119671327",
       "itunes_duration": "02:04:39",
       "speakers": [
-        "Emily Axford",
-        "Humble Farmer",
+        "Faerie Tale",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10001,8 +9479,8 @@
       "enclosure_length": "134698631",
       "itunes_duration": "02:20:18",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10025,10 +9503,8 @@
       "itunes_duration": "01:55:59",
       "speakers": [
         "Winter Wolves",
-        "Hill Giants",
-        "Emily Axford",
-        "Run Dry",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10078,7 +9554,9 @@
       "enclosure_length": "91471621",
       "itunes_duration": "01:35:16",
       "speakers": [
-        "Paw Paw",
+        "Holiday Special",
+        "Night Before Crickmas Someone",
+        "Crick Elves",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -10103,8 +9581,8 @@
       "enclosure_length": "137932382",
       "itunes_duration": "02:23:40",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10127,8 +9605,8 @@
       "enclosure_length": "94063386",
       "itunes_duration": "01:37:58",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10152,9 +9630,9 @@
       "enclosure_length": "103075004",
       "itunes_duration": "01:47:22",
       "speakers": [
-        "Howard Geisel",
-        "Emily Axford",
+        "Winter Wolves",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10203,8 +9681,9 @@
       "enclosure_length": "103241351",
       "itunes_duration": "01:47:32",
       "speakers": [
-        "Emily Axford",
+        "Frozen Tundra",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10227,10 +9706,8 @@
       "enclosure_length": "93897038",
       "itunes_duration": "01:37:48",
       "speakers": [
-        "Emily Axford",
-        "Run Dry",
-        "Mee Maw",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10252,8 +9729,8 @@
       "itunes_duration": "01:28:29",
       "speakers": [
         "Harvester Beast",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10276,10 +9753,8 @@
       "enclosure_length": "84029440",
       "itunes_duration": "01:27:31",
       "speakers": [
-        "Bahumian Rufio",
-        "Howard Geisel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10301,9 +9776,9 @@
       "enclosure_length": "94967013",
       "itunes_duration": "01:38:55",
       "speakers": [
-        "Nasty Boy",
-        "Emily Axford",
+        "All Alone",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10325,8 +9800,9 @@
       "enclosure_length": "82555297",
       "itunes_duration": "01:25:59",
       "speakers": [
-        "Emily Axford",
+        "some grandmas",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10349,11 +9825,8 @@
       "enclosure_length": "97939121",
       "itunes_duration": "01:42:01",
       "speakers": [
-        "Macedonian Tambura",
-        "Boris Todorovic",
-        "Wind Howling",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10376,8 +9849,8 @@
       "itunes_duration": "01:40:18",
       "speakers": [
         "Nathan Yaffe",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10424,8 +9897,8 @@
       "itunes_duration": "01:50:53",
       "speakers": [
         "Siobhan Thompson",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10450,9 +9923,8 @@
       "itunes_duration": "01:39:04",
       "speakers": [
         "Siobhan Thompson",
-        "Leandros Ntounis",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10477,7 +9949,6 @@
       "itunes_duration": "01:50:41",
       "speakers": [
         "Siobhan Thompson",
-        "Leandros Ntounis",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -10504,8 +9975,8 @@
       "enclosure_length": "80010762",
       "itunes_duration": "01:23:20",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10527,9 +9998,8 @@
       "enclosure_length": "92565420",
       "itunes_duration": "01:36:25",
       "speakers": [
-        "Howard Geisel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10551,8 +10021,8 @@
       "enclosure_length": "99317969",
       "itunes_duration": "01:43:27",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10575,11 +10045,8 @@
       "enclosure_length": "86383386",
       "itunes_duration": "01:29:58",
       "speakers": [
-        "Club Chatter",
-        "Amadeusz Bartos",
-        "Howard Geisel",
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10601,10 +10068,10 @@
       "enclosure_length": "93064463",
       "itunes_duration": "01:36:56",
       "speakers": [
-        "Club Chatter",
-        "Emily Axford",
-        "Mee Maw",
+        "Big Fire Daddy",
+        "Elemental Titans",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10626,8 +10093,8 @@
       "enclosure_length": "86549733",
       "itunes_duration": "01:30:09",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10649,8 +10116,8 @@
       "enclosure_length": "89260199",
       "itunes_duration": "01:32:58",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10673,8 +10140,8 @@
       "enclosure_length": "108234710",
       "itunes_duration": "01:52:44",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10697,10 +10164,8 @@
       "enclosure_length": "106736744",
       "itunes_duration": "01:51:10",
       "speakers": [
-        "Green Man",
-        "Emily Axford",
-        "Run Dry",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10721,8 +10186,8 @@
       "enclosure_length": "88594390",
       "itunes_duration": "01:32:17",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10745,8 +10210,8 @@
       "enclosure_length": "99009097",
       "itunes_duration": "01:43:08",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10768,9 +10233,11 @@
       "enclosure_length": "104311327",
       "itunes_duration": "01:48:39",
       "speakers": [
-        "Club Chatter",
-        "Emily Axford",
+        "Strike True",
+        "White Rose",
+        "Galad Rosell",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10793,8 +10260,8 @@
       "enclosure_length": "84742478",
       "itunes_duration": "01:28:16",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10816,9 +10283,9 @@
       "enclosure_length": "101220101",
       "itunes_duration": "01:45:26",
       "speakers": [
-        "Emily Axford",
-        "Spooky Shafts",
+        "Old Cragwater",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10841,8 +10308,8 @@
       "enclosure_length": "128064783",
       "itunes_duration": "02:13:24",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10865,9 +10332,8 @@
       "itunes_duration": "01:48:12",
       "speakers": [
         "Galaderon Castle",
-        "Emily Axford",
-        "Club Chatter",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10890,8 +10356,8 @@
       "enclosure_length": "88261694",
       "itunes_duration": "01:31:56",
       "speakers": [
-        "Emily Axford",
         "Brian Murphy",
+        "Emily Axford",
         "Jake Hurwitz",
         "Caldwell Tanner"
       ],
@@ -10915,8 +10381,6 @@
       "itunes_duration": "02:38:33",
       "speakers": [
         "Nathan Yaffe",
-        "Kevin MacLeod",
-        "Piano Melody",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -10943,9 +10407,6 @@
       "itunes_duration": "02:02:59",
       "speakers": [
         "Adam Conover",
-        "Kevin MacLeod",
-        "Amadeusz Bartos",
-        "Howard Geisel",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -10999,7 +10460,6 @@
       "itunes_duration": "01:34:48",
       "speakers": [
         "Adam Conover",
-        "Adam Ruins Everything",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11028,7 +10488,7 @@
       "enclosure_length": "87619709",
       "itunes_duration": "01:31:16",
       "speakers": [
-        "Howard Geisel",
+        "Cracked Tooth Clan",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11052,6 +10512,7 @@
       "enclosure_length": "70000640",
       "itunes_duration": "01:12:55",
       "speakers": [
+        "Frog King",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11127,8 +10588,6 @@
       "enclosure_length": "79868238",
       "itunes_duration": "01:23:11",
       "speakers": [
-        "Catherine Zeta-Jones",
-        "Steve Irwin",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11199,7 +10658,7 @@
       "enclosure_length": "71784071",
       "itunes_duration": "01:14:46",
       "speakers": [
-        "Scoutmaster Denny",
+        "off int",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11223,7 +10682,6 @@
       "enclosure_length": "59420003",
       "itunes_duration": "01:01:53",
       "speakers": [
-        "Scoutmaster Denny",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11249,9 +10707,7 @@
       "enclosure_length": "11890938",
       "itunes_duration": "00:12:23",
       "speakers": [
-        "Moonshine Cybin",
-        "Hardwon Surefoot",
-        "Beverly Toegold",
+        "Not Another",
         "Brian Murphy",
         "Emily Axford",
         "Jake Hurwitz",
@@ -11269,432 +10725,433 @@
 
 ## Episodes (newest first)
 
-- 2026-02-20 — Trinyvale X Strahd - Ep. 23: A Memorable Feast — speakers: Daniel Ramos, Emily Axford, Emily Axford Strahd, Emily Axford Moonsick, Emily Axford Half Brothers, Jens Christian, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2026-02-13 — Trinyvale X Strahd - Ep. 22: Dark Blessing — speakers: Castle Ravenloft, Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
-- 2026-02-05 — Trinyvale X Strahd - Ep. 21: Welcome to Ravenloft — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
-- 2026-01-29 — D&D Court: Newbie PVP, Rat Gods, and Baptized Dogs — speakers: Newbie Pvp, Baptized Dogs Support, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2026-01-22 — Trinyvale X Strahd - Ep. 20: The Final Fortune — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Moonsick, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
-- 2026-01-16 — Trinyvale X Strahd - Ep. 19: Spawn of War — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2026-01-08 — D&D Court: Stubborn DMs, and Immovable Rods — speakers: Immovable Rods Dungeon Court, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-12-19 — Trinyvale X Strahd - Ep. 18: Gifts of The Gloaming — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-12-12 — Trinyvale X Strahd - Ep. 17: Battle of the BoyMoms — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-12-04 — D&D Court: Squishy Bears, Fishy Crits, and Uncommon Common — speakers: Squishy Bears, Fishy Crits, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-11-21 — Trinyvale X Strahd - Ep. 16: The Wizard of Wines — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-11-14 — Trinyvale X Strahd - Ep. 15: Hallowed Ground — speakers: Hallowed Ground, Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-11-06 — D&D Court: Deadly Doors, Bland Backstories, and Strict DMs — speakers: Bland Backstories, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-10-31 — Trinyvale X Strahd - Ep.14: Burned Out — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jens Christian, Jake Hurwitz, Caldwell Tanner
-- 2025-10-24 — Trinyvale X Strahd - Ep. 13: Something Old — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-10-16 — Adventure Book Theatre: Goosebumps - Night in Werewolf Woods — speakers: Lore Lord, Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-10-10 — Trinyvale X Strahd - Ep. 12: The Ghost in the Glass — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-10-03 — Trinyvale X Strahd - Ep. 11: The Man in the Mirror — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-09-25 — D&D Court: Cars PCs, Overly Engaged Players, and Razzing Rights — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-09-19 — Trinyvale X Strahd - Ep. 10: Ploys in the Attic — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Moonsick, Emily Axord, Jake Hurwitz, Caldwell Tanner
-- 2025-09-12 — Trinyvale X Strahd - Ep. 9: The Wolf's Head Jamboree — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-09-04 — D&D Court: Stolen Spells, Petulant Paladins, and Whacked Werehippos — speakers: Stolen Spells, Petulant Paladins, Whacked Werehippos, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-08-29 — Trinyvale X Strahd - Ep. 8: All Will Be Well! — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Caldwell Tanner, Kei Matsuo, Jake Hurwitz
-- 2025-08-22 — Trinyvale X Strahd - Ep. 7: A Mother's Dream — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-08-14 — Tortle Tank: Passive Eggcome — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-08-08 — Trinyvale X Strahd - Ep. 6: The Blade of Truth — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Moonsick, Emily Axford Half Brothers, Jake Hurwitz, Caldwell Tanner
-- 2025-07-31 — Trinyvale X Strahd - Ep. 5: A Grave Encounter — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-07-24 — D&D Court: Monkey Paws and Ballin' DMs — speakers: Monkey Paws, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-07-18 — Trinyvale X Strahd - Ep. 4: The Funeral — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Emily Axford Moonsick, Jens Christian Tvilum, Emily Axford Strahd, Jake Hurwitz, Caldwell Tanner
-- 2025-07-11 — Trinyvale X Strahd - Ep. 3: Ismark the Lesser — speakers: Daniel Ramos, Emily Axford, Jens Christian Tvilum, Emily Axford Strahd, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2026-02-26 — Hearthside Chat Q&A: Trinyvale x Strahd Reflections (and New Campaign Preview!) — speakers: Hearthside Chat, Strahd Reflections, New Campaign Preview, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-02-20 — Trinyvale X Strahd - Ep. 23: A Memorable Feast — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-02-13 — Trinyvale X Strahd - Ep. 22: Dark Blessing — speakers: Castle Ravenloft, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-02-05 — Trinyvale X Strahd - Ep. 21: Welcome to Ravenloft — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-01-29 — D&D Court: Newbie PVP, Rat Gods, and Baptized Dogs — speakers: Newbie Pvp, Baptized Dogs Support, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-01-22 — Trinyvale X Strahd - Ep. 20: The Final Fortune — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-01-16 — Trinyvale X Strahd - Ep. 19: Spawn of War — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2026-01-08 — D&D Court: Stubborn DMs, and Immovable Rods — speakers: Immovable Rods Dungeon Court, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-12-19 — Trinyvale X Strahd - Ep. 18: Gifts of The Gloaming — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-12-12 — Trinyvale X Strahd - Ep. 17: Battle of the BoyMoms — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-12-04 — D&D Court: Squishy Bears, Fishy Crits, and Uncommon Common — speakers: Squishy Bears, Fishy Crits, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-11-21 — Trinyvale X Strahd - Ep. 16: The Wizard of Wines — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-11-14 — Trinyvale X Strahd - Ep. 15: Hallowed Ground — speakers: Hallowed Ground, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-11-06 — D&D Court: Deadly Doors, Bland Backstories, and Strict DMs — speakers: Bland Backstories, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-10-31 — Trinyvale X Strahd - Ep.14: Burned Out — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-10-24 — Trinyvale X Strahd - Ep. 13: Something Old — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-10-16 — Adventure Book Theatre: Goosebumps - Night in Werewolf Woods — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-10-10 — Trinyvale X Strahd - Ep. 12: The Ghost in the Glass — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-10-03 — Trinyvale X Strahd - Ep. 11: The Man in the Mirror — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-09-25 — D&D Court: Cars PCs, Overly Engaged Players, and Razzing Rights — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-09-19 — Trinyvale X Strahd - Ep. 10: Ploys in the Attic — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-09-12 — Trinyvale X Strahd - Ep. 9: The Wolf's Head Jamboree — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-09-04 — D&D Court: Stolen Spells, Petulant Paladins, and Whacked Werehippos — speakers: Stolen Spells, Petulant Paladins, Whacked Werehippos, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-08-29 — Trinyvale X Strahd - Ep. 8: All Will Be Well! — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-08-22 — Trinyvale X Strahd - Ep. 7: A Mother's Dream — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-08-14 — Tortle Tank: Passive Eggcome — speakers: Tortle Tank, Passive Eggcome Welcome, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-08-08 — Trinyvale X Strahd - Ep. 6: The Blade of Truth — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-07-31 — Trinyvale X Strahd - Ep. 5: A Grave Encounter — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-07-24 — D&D Court: Monkey Paws and Ballin' DMs — speakers: Monkey Paws, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-07-18 — Trinyvale X Strahd - Ep. 4: The Funeral — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-07-11 — Trinyvale X Strahd - Ep. 3: Ismark the Lesser — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2025-07-04 — Tortle Tank: Welcome to Flipper's — speakers: Tortle Tank, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-06-27 — Trinyvale X Strahd - Ep. 2: Blood on the Vine — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-06-20 — Trinyvale X Strahd - Ep. 1: Into the Mists — speakers: Brian Murphy, Daniel Ramos, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-06-13 — D&D Court: Snitching Ponies, Wingman DMs, and Surf & Murph — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-06-27 — Trinyvale X Strahd - Ep. 2: Blood on the Vine — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-06-20 — Trinyvale X Strahd - Ep. 1: Into the Mists — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-06-13 — D&D Court: Snitching Ponies, Wingman DMs, and Surf & Murph — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2025-06-05 — Hearthside Chat Q&A: Skaldova Reflections — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-05-30 — Skaldova - Ep. 12: The End — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Ender’s Waltz, Jake Hurwitz, Caldwell Tanner
-- 2025-05-23 — Skaldova - Ep. 11: The Collapse — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Emily Axford Grimhawke, Jake Hurwitz, Caldwell Tanner
-- 2025-05-16 — Adventure Book Theatre: Goosebumps - The Knight in Screaming Armor — speakers: Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2025-05-09 — Skaldova - Ep. 10: The Chalice of Malice — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Boggy Roger, Ender’s Waltz, Jake Hurwitz, Caldwell Tanner
-- 2025-05-02 — Skaldova - Ep. 9: The Descent — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford Grimhawke, Emily Axford, Emily Axford Snake Fight, Jake Hurwitz, Caldwell Tanner
-- 2025-04-25 — D&D Court: Polymorph Romance, Cruel Rakshasas and The Problem with Jaguar Johnny — speakers: Polymorph Romance, Cruel Rakshasas, Trevor Lyon, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-04-18 — Skaldova - Ep. 8: A Friend in the Deep — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-04-11 — Skaldova - Ep. 7: The Laboratory — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Henry’s House, Jake Hurwitz, Caldwell Tanner
-- 2025-04-04 — Tortle Tank: Birthday Spells, Necromantic Healers and The Potion of Last Resort — speakers: Birthday Spells, Trevor Lyon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-03-28 — Skaldova - Ep. 6: The Solar Knights — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-03-21 — Skaldova - Ep. 5: The Parley — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-03-14 — D&D Court: Sleepy Sorcerers, Celebrity NPCs and The Dice Swiper Dilemma — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-03-07 — Skaldova - Ep. 4: The Dawn Hold — speakers: Brian Murphy, Faris Monshi Music Sound, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-02-28 — Skaldova - Ep. 3: The Dancing River — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-02-21 — The View Crew - Donkey Kong Country: "A Fine Line Between Love & Ape" — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-02-14 — Skaldova - Ep. 2: The Valley of the Whispered Oath — speakers: Brian Murphy, Faris Monshi Music Sound, Emily Axford, Emily Axford Snake Fight, Henry’s House, Jake Hurwitz, Caldwell Tanner
-- 2025-02-07 — Skaldova - Ep. 1: The Castle in the Cave — speakers: Sound Mixing, Brian Murphy, Faris Monshi Music Sound, Emily Axford, Henry’s House, Jake Hurwitz, Caldwell Tanner
-- 2025-01-31 — D&D Court: A Mastermind and an Artist (w/ Ally Beardsley!) — speakers: Ally Beardsley, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-01-24 — D&D Court: Hot Farts, Boston Bards, and Drowning Barbarians (w/ Danielle Radford!) — speakers: Drowning Barbarians, Danielle Radford, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-01-17 — D&D Court: Dog Slaps, Bath Bombs and the Messy Breakup Monk (w/ Robbie Daymond!) — speakers: Robbie Daymond, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2025-01-10 — D&D Court: NPC Overload and The Flirtatious Aarakocra (w/ Siobhan Thompson!) — speakers: Npc Overload, Siobhan Thompson, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-05-30 — Skaldova - Ep. 12: The End — speakers: Sound Mixing, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-05-23 — Skaldova - Ep. 11: The Collapse — speakers: Sound Mixing, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-05-16 — Adventure Book Theatre: Goosebumps - The Knight in Screaming Armor — speakers: Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2025-05-09 — Skaldova - Ep. 10: The Chalice of Malice — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-05-02 — Skaldova - Ep. 9: The Descent — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-04-25 — D&D Court: Polymorph Romance, Cruel Rakshasas and The Problem with Jaguar Johnny — speakers: Polymorph Romance, Cruel Rakshasas, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-04-18 — Skaldova - Ep. 8: A Friend in the Deep — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-04-11 — Skaldova - Ep. 7: The Laboratory — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-04-04 — Tortle Tank: Birthday Spells, Necromantic Healers and The Potion of Last Resort — speakers: Birthday Spells, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-03-28 — Skaldova - Ep. 6: The Solar Knights — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-03-21 — Skaldova - Ep. 5: The Parley — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-03-14 — D&D Court: Sleepy Sorcerers, Celebrity NPCs and The Dice Swiper Dilemma — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-03-07 — Skaldova - Ep. 4: The Dawn Hold — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-02-28 — Skaldova - Ep. 3: The Dancing River — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-02-21 — The View Crew - Donkey Kong Country: "A Fine Line Between Love & Ape" — speakers: Donkey Kong Country, Fine Line Between Love, View Crew, Too Dumb, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-02-14 — Skaldova - Ep. 2: The Valley of the Whispered Oath — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-02-07 — Skaldova - Ep. 1: The Castle in the Cave — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-01-31 — D&D Court: A Mastermind and an Artist (w/ Ally Beardsley!) — speakers: Ally Beardsley, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-01-24 — D&D Court: Hot Farts, Boston Bards, and Drowning Barbarians (w/ Danielle Radford!) — speakers: Drowning Barbarians, Danielle Radford, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-01-17 — D&D Court: Dog Slaps, Bath Bombs and the Messy Breakup Monk (w/ Robbie Daymond!) — speakers: Robbie Daymond, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2025-01-10 — D&D Court: NPC Overload and The Flirtatious Aarakocra (w/ Siobhan Thompson!) — speakers: Npc Overload, Siobhan Thompson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2024-12-23 — C3 Ep. 72: The High Queen (A Faerie Tale Ending) — speakers: Duck Team, Queen Jovyre, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-12-13 — C3 Ep. 71: The King Consort (A Faerie Tale Ending) — speakers: Queen Jovyre, Emily Axford, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-12-06 — D&D Court: Nasty Bards, Evil Dads, and Mustard Custard — speakers: Nasty Bards, Evil Dads, Mustard Custard, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-11-21 — The Mavrus Chronicles - The Babe Blazes (Part 4) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-12-13 — C3 Ep. 71: The King Consort (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-12-06 — D&D Court: Nasty Bards, Evil Dads, and Mustard Custard — speakers: Nasty Bards, Evil Dads, Mustard Custard, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-11-21 — The Mavrus Chronicles - The Babe Blazes (Part 4) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2024-11-20 — The Mavrus Chronicles - Blazin' Daze (Part 3) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2024-11-14 — The Mavrus Chronicles - Blaze Responsibly (Part 2) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-11-13 — The Mavrus Chronicles - The Road to Blazing Babe (Part 1) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-11-13 — The Mavrus Chronicles - The Road to Blazing Babe (Part 1) — speakers: Blazing Babe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2024-11-08 — Tortle Tank: I'm In, Therefore, I'm Out (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-11-01 — Adventure Book Theatre: Goosebumps - Little Comic Shop of Horrors — speakers: Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-10-30 — VOTE '24 Mixed Bag Mixtape: Best of Patreon D&D Courts — speakers: Mixed Bag Mixtape, Dungeon Bailiff Jake, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-10-25 — C3 Ep. 70: Deer Old Dad (A Faerie Tale Ending) — speakers: Queen Jovyre, Emily Axford, Mothership Lobby, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-10-18 — D&D Court: Razzing Refs, Misty Mysteries and The Triple Trident Proceedings — speakers: Razzing Refs, Misty Mysteries, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-10-11 — C3 Ep. 69: Siege at Summer Court Castle (A Faerie Tale Ending) — speakers: Green Knights, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-10-04 — Surprise Round! - Blue Yoda — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-09-27 — C3 Ep. 68: Dearly Departed (A Faerie Tale Ending) — speakers: Emily Axford, Montgomery Manor, Mothership Lobby, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-09-20 — D&D Court: Fine Burgers, Friendship Faction and The Tome of Puberty — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-09-13 — C3 Ep. 67: Cyra (A Faerie Tale Ending) — speakers: Queen Jovyre, Sol visits Galactic Swag, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-09-06 — Surprise Round! - Houston, We Have Zero Bars — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-08-30 — C3 Ep. 66: Wavemother (A Faerie Tale Ending) — speakers: Calder simps, Emily Axford, Henry Hogfish, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-08-22 — D&D Court: Long-Winded DMs, Dashing Daddies and The Tale of Ser Flatbread — speakers: Dungeon Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-08-16 — C3 Ep. 65: Sea Beast (A Faerie Tale Ending) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-08-08 — Hearthside Chat Q&A: Summer Fruit Smackdown — speakers: Sound Mixing, Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-08-02 — C3 Ep. 64: Fatebringers (A Faerie Tale Ending) — speakers: Queen Jovyre, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-07-26 — D&D Court: Questionable Curses, Quiet Cousins and The Ravenloft Sequestering — speakers: Questionable Curses, Quiet Cousins, Ravenloft Sequestering, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-07-19 — C3 Ep. 63: Court with No Crowns (A Faerie Tale Ending) — speakers: Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-07-12 — Surprise Round! - The Bandicoot Method — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-07-05 — C3 Ep. 62: Knight's Plight (A Faerie Tale Ending) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-06-28 — D&D Court: Doff Squads, Sinful Twinspells and The Wild Magic Tragedy — speakers: Doff Squads, Sinful Twinspells, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-06-21 — C3 Ep. 61: The Wild Ones (A Faerie Tale Ending) — speakers: Emily Axford, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-06-14 — Surprise Round! - Oops! All Uncles Edition — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-06-07 — Pathfinder Two-Shot: Ballad of the Twin Flames (Part 2) — speakers: Pathfinder Perusal, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-05-31 — Pathfinder Two-Shot: Menace Under Otari (Part 1) — speakers: Caldwell Tanner, Jake Hurwitz, Brian Murphy, Emily Axford
-- 2024-05-24 — D&D Court: Soggy Firbolgs, Goodberry Hacks and The "Heat Metal" Hearings — speakers: Soggy Firbolgs, Goodberry Hacks, Honorable King, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-05-17 — C3 Ep. 60: Peregrine (The Ice Knife Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-05-10 — Surprise Round! - A Show of Unhinged Hypotheticals — speakers: Trevor Lyon See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-05-03 — C3 Ep. 59: Havoc (The Ice Knife Saga) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-04-26 — D&D Court: Trash Can Spaghetti (w/ Karina Farek & Nathan Yaffe) — speakers: Watch Drawfee, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-04-18 — C3 Ep. 58: Giant Egos (The Ice Knife Saga) — speakers: Giant Egos, Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-04-12 — Trinyvale One-Shot: Enter the Media Dimension — speakers: Trinyvale Intro, Emily Axford Logo Design, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-04-05 — C3 Ep. 57: Cold Hard Truths (The Ice Knife Saga) — speakers: Emily Axford, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-03-29 — D&D Court: Elk Dockers, PC Meatshields and The TPK Extraordinaire — speakers: Elk Dockers, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-03-22 — C3 Ep. 56: Diviner (The Ice Knife Saga) — speakers: Emily Axford, Soul Coins, Mee Maw, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-03-15 — Super Mario Adventure Book: Pipe Down! (w/ Adam Conover) — speakers: Adam Conover, Mario Master, Youtube Channel, Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-03-08 — C3 Ep. 55: Big Brother (The Ice Knife Saga) — speakers: Emily Axford, Soul Coins, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-03-01 — D&D Court: Pre-Cog Milk Bath (w/ Rekha Shankar) — speakers: Pre-Cog Milk Bath, Rekha Shankar, Follow Rekha, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-02-23 — C3 Ep. 54: The Family Secret (The Ice Knife Saga) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-02-16 — Adventure Book Theatre: Light on Quests Mountain (An ENDLESS QUEST Book) — speakers: Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-02-09 — C3 Ep. 53: Warm Welcome (The Ice Knife Saga) — speakers: Emily Axford, Bronze Bastard, Calder Kilde, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-02-02 — D&D Court: Tiny L's, Cursed Bran, and The Dinosaur-Free Jurassic Park — speakers: Cursed Bran, Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2024-01-26 — C3 Ep. 52: Avatar of Alexandrite (The Ice Knife Saga) — speakers: Emily Axford, Mothership Lobby, Calder Kilde, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-01-18 — Adventure Book Theatre: Olaf's Frooze Your Own Adventure (Caldwell's Frozen Fan Fic) — speakers: Frozen Fan Fic, Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2024-01-12 — C3 Ep. 51: First Hearth (The Ice Knife Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2024-01-05 — D&D Court: Invisible T-Rexes, Potion Cocktails, and A Visit to Swords R' Us — speakers: James Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-12-30 — Twilight Sanctorum - Ep. 4: Masquerade — speakers: Mavid Vantasmo, Emily Axford, Frankie Vantasmo, Emily Axford Sea Beast, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-12-27 — Twilight Sanctorum - Ep 3: Living in Harmony — speakers: Mavid Vantasmo, Genevieve Sapphire, Emily Axford, Frankie Vantasmo, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-12-21 — Twilight Sanctorum - Ep. 2: Ghoul-Marked — speakers: Mavid Vantasmo, Emily Axford, Emily Axford Snake Fight, Emily Axford Sea Beast, Frankie Vantasmo, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-12-19 — Twilight Sanctorum - Ep. 1: The Family Business — speakers: Emily Axford, Frankie Vantasmo, Howard Lanin Bloody Mural, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-12-15 — C3 Ep. 50: Beast Master (The Undersea Interlude) — speakers: Emily Axford, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-12-08 — D&D Court: Sneaky Snowmen, Horny Dogs, and The PC vs The People’s Champion — speakers: Sneaky Snowmen, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-12-01 — C3 Ep. 49: Toybox (The Undersea Interlude) — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-11-16 — C3 Ep. 48: Inkling Syndicate (The Undersea Interlude) — speakers: Glass Break, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-11-10 — Adventure Book Theatre: Night of Champions (WWE Pick Your Path #2) — speakers: Merry Champion, Jagg Hurwitz, Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-11-03 — C3 Ep. 47: Bad Vibes (The Undersea Interlude) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-10-27 — D&D Court: Falling Frogs, Secret Dolls and The DM Dice Chucker Challenge — speakers: Falling Frogs, Secret Dolls, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-10-20 — C3 Ep. 46: Goodbye, Goodbye (Legends of Irondeep) — speakers: Gregor Quendel, Emily Axford, Lilith Latrix, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-10-13 — Adventure Book Theatre: Goosebumps - Please Don't Feed the Vampire! — speakers: Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2023-10-06 — C3 Ep.45: Lord Ultrus (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-09-29 — D&D Court: Unfair Immunities, Passive Plunders and the Prone Dino Dilemma — speakers: Unfair Immunities, Lazy Louie, Bailiff Donald, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-09-22 — C3 Ep.44: Trial by Steel (Legends of Irondeep) — speakers: Gregor Quendel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-09-15 — Adventure Book Theatre: WWE Race to the Rumble — speakers: Cake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-09-08 — C3 Ep. 43: Blood and Wine (Legends of Irondeep) — speakers: King Ecktar, Sol chugs free wine, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-09-05 — BONUS EPISODE: D&D Court LIVE in Boston! — speakers: Theme Song, Sam Weiller, Grace Harper See Privacy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-09-01 — D&D Court: Soundboard Abuse, Wizard Quizzes, and the Regretful Restaurant Roll-Off — speakers: Soundboard Abuse, Wizard Quizzes, Graceless Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-08-25 — C3 Ep. 42: Elimination Chamber (Legends of Irondeep) — speakers: Gregor Quendel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-08-18 — Adventure Book Theatre: Goosebumps - Beware of the Purple Peanut Butter — speakers: Cake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-08-11 — C3 Ep. 41: Giant King's Contest (Legends of Irondeep) — speakers: Giant King, Chainsaw Cut, Gregor Quendel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-08-03 — D&D Court: NPC Romance Requests, Homebrew Stews & The Overstuffed One-Shot — speakers: Npc Romance Requests, Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-07-28 — C3 Ep. 40: Iron and Fire (Legends of Irondeep) — speakers: Gregor Quendel, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-07-21 — Adventure Book Theatre: Goosebumps - Secret Agent Grandma — speakers: Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2023-07-14 — C3 Ep. 39: Hang On! (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-07-07 — D&D Court: Alignment Issues, Strict Spell Components and a Bad Case of Trap Amnesia — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-06-30 — C3 Ep. 38: Burrowing Grounds (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-06-23 — Behind the Screens: DM Advice Q&A — speakers: Trevor Lyon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-06-16 — C3 Ep. 37: The Serpent's Trail (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-06-09 — D&D Court: Sibling Rivalry Edition (w/ Ify Nwadiwe) — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-06-02 — C3 Ep. 36: The Down Below (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-05-25 — Adventure Book Theatre: The Vampire Express (w/ Jasper William Cartwright) — speakers: Jasper William Cartwright, Jake Hurwitz, Follow Jasper, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2023-05-19 — C3 Ep. 35: Le Lantern (Legends of Irondeep) — speakers: Mothership Bronze, Large Crash, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-05-12 — D&D Court: Dog Borrowers, Fire Immunities and The Stolen Goodberry Miracle — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-05-05 — C3 Ep. 34: Mothership Bronze (Legends of Irondeep) — speakers: Mothership Bronze, Emily Axford, Lilith Latrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2024-11-01 — Adventure Book Theatre: Goosebumps - Little Comic Shop of Horrors — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-10-30 — VOTE '24 Mixed Bag Mixtape: Best of Patreon D&D Courts — speakers: Mixed Bag Mixtape, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-10-25 — C3 Ep. 70: Deer Old Dad (A Faerie Tale Ending) — speakers: Queen Jovyre, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-10-18 — D&D Court: Razzing Refs, Misty Mysteries and The Triple Trident Proceedings — speakers: Razzing Refs, Misty Mysteries, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-10-11 — C3 Ep. 69: Siege at Summer Court Castle (A Faerie Tale Ending) — speakers: Green Knights, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-10-04 — Surprise Round! - Blue Yoda — speakers: Surprise Round, Blue Yoda Welcome, Join Discussion Ma, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-09-27 — C3 Ep. 68: Dearly Departed (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-09-20 — D&D Court: Fine Burgers, Friendship Faction and The Tome of Puberty — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-09-13 — C3 Ep. 67: Cyra (A Faerie Tale Ending) — speakers: Queen Jovyre, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-09-06 — Surprise Round! - Houston, We Have Zero Bars — speakers: Surprise Round, Join Discussion Ma, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-08-30 — C3 Ep. 66: Wavemother (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-08-22 — D&D Court: Long-Winded DMs, Dashing Daddies and The Tale of Ser Flatbread — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-08-16 — C3 Ep. 65: Sea Beast (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-08-08 — Hearthside Chat Q&A: Summer Fruit Smackdown — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-08-02 — C3 Ep. 64: Fatebringers (A Faerie Tale Ending) — speakers: Queen Jovyre, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-07-26 — D&D Court: Questionable Curses, Quiet Cousins and The Ravenloft Sequestering — speakers: Questionable Curses, Quiet Cousins, Ravenloft Sequestering, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-07-19 — C3 Ep. 63: Court with No Crowns (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-07-12 — Surprise Round! - The Bandicoot Method — speakers: Surprise Round, Join Discussion Ma, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-07-05 — C3 Ep. 62: Knight's Plight (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-06-28 — D&D Court: Doff Squads, Sinful Twinspells and The Wild Magic Tragedy — speakers: Doff Squads, Sinful Twinspells, Experiment Hur, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-06-21 — C3 Ep. 61: The Wild Ones (A Faerie Tale Ending) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-06-14 — Surprise Round! - Oops! All Uncles Edition — speakers: Surprise Round, All Uncles Edition Welcome, Join Discussion Ma, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-06-07 — Pathfinder Two-Shot: Ballad of the Twin Flames (Part 2) — speakers: Pathfinder Two, Twin Flames, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-05-31 — Pathfinder Two-Shot: Menace Under Otari (Part 1) — speakers: Caldwell Tanner, Brian Murphy, Emily Axford, Jake Hurwitz
+- 2024-05-24 — D&D Court: Soggy Firbolgs, Goodberry Hacks and The "Heat Metal" Hearings — speakers: Soggy Firbolgs, Goodberry Hacks, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-05-17 — C3 Ep. 60: Peregrine (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-05-10 — Surprise Round! - A Show of Unhinged Hypotheticals — speakers: Surprise Round, Unhinged Hypotheticals Welcome, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-05-03 — C3 Ep. 59: Havoc (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-04-26 — D&D Court: Trash Can Spaghetti (w/ Karina Farek & Nathan Yaffe) — speakers: Justice Tanner, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-04-18 — C3 Ep. 58: Giant Egos (The Ice Knife Saga) — speakers: Giant Egos, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-04-12 — Trinyvale One-Shot: Enter the Media Dimension — speakers: Trinyvale One, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-04-05 — C3 Ep. 57: Cold Hard Truths (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-03-29 — D&D Court: Elk Dockers, PC Meatshields and The TPK Extraordinaire — speakers: Elk Dockers, Pleated Ba, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-03-22 — C3 Ep. 56: Diviner (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-03-15 — Super Mario Adventure Book: Pipe Down! (w/ Adam Conover) — speakers: Adam Conover, Mario Master, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-03-08 — C3 Ep. 55: Big Brother (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-03-01 — D&D Court: Pre-Cog Milk Bath (w/ Rekha Shankar) — speakers: Pre-Cog Milk Bath, Rekha Shankar, Rekha Sh, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-02-23 — C3 Ep. 54: The Family Secret (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-02-16 — Adventure Book Theatre: Light on Quests Mountain (An ENDLESS QUEST Book) — speakers: Adventure Book Theatre, Quests Mountain, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-02-09 — C3 Ep. 53: Warm Welcome (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-02-02 — D&D Court: Tiny L's, Cursed Bran, and The Dinosaur-Free Jurassic Park — speakers: Cursed Bran, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-01-26 — C3 Ep. 52: Avatar of Alexandrite (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-01-18 — Adventure Book Theatre: Olaf's Frooze Your Own Adventure (Caldwell's Frozen Fan Fic) — speakers: Frozen Fan Fic, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-01-12 — C3 Ep. 51: First Hearth (The Ice Knife Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2024-01-05 — D&D Court: Invisible T-Rexes, Potion Cocktails, and A Visit to Swords R' Us — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-30 — Twilight Sanctorum - Ep. 4: Masquerade — speakers: Mavid Vantasmo, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-27 — Twilight Sanctorum - Ep 3: Living in Harmony — speakers: Mavid Vantasmo, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-21 — Twilight Sanctorum - Ep. 2: Ghoul-Marked — speakers: Mavid Vantasmo, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-19 — Twilight Sanctorum - Ep. 1: The Family Business — speakers: Mavid Vant, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-15 — C3 Ep. 50: Beast Master (The Undersea Interlude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-08 — D&D Court: Sneaky Snowmen, Horny Dogs, and The PC vs The People’s Champion — speakers: Sneaky Snowmen, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-12-01 — C3 Ep. 49: Toybox (The Undersea Interlude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-11-16 — C3 Ep. 48: Inkling Syndicate (The Undersea Interlude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-11-10 — Adventure Book Theatre: Night of Champions (WWE Pick Your Path #2) — speakers: Merry Champion, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-11-03 — C3 Ep. 47: Bad Vibes (The Undersea Interlude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-10-27 — D&D Court: Falling Frogs, Secret Dolls and The DM Dice Chucker Challenge — speakers: Falling Frogs, Secret Dolls, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-10-20 — C3 Ep. 46: Goodbye, Goodbye (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-10-13 — Adventure Book Theatre: Goosebumps - Please Don't Feed the Vampire! — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-10-06 — C3 Ep.45: Lord Ultrus (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-29 — D&D Court: Unfair Immunities, Passive Plunders and the Prone Dino Dilemma — speakers: Unfair Immunities, Lazy Louie, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-22 — C3 Ep.44: Trial by Steel (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-15 — Adventure Book Theatre: WWE Race to the Rumble — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-08 — C3 Ep. 43: Blood and Wine (Legends of Irondeep) — speakers: King Ecktar, Callie sta, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-05 — BONUS EPISODE: D&D Court LIVE in Boston! — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-09-01 — D&D Court: Soundboard Abuse, Wizard Quizzes, and the Regretful Restaurant Roll-Off — speakers: Soundboard Abuse, Wizard Quizzes, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-08-25 — C3 Ep. 42: Elimination Chamber (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-08-18 — Adventure Book Theatre: Goosebumps - Beware of the Purple Peanut Butter — speakers: Cake Hurwitz, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-08-11 — C3 Ep. 41: Giant King's Contest (Legends of Irondeep) — speakers: Giant King, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-08-03 — D&D Court: NPC Romance Requests, Homebrew Stews & The Overstuffed One-Shot — speakers: Npc Romance Requests, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-07-28 — C3 Ep. 40: Iron and Fire (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-07-21 — Adventure Book Theatre: Goosebumps - Secret Agent Grandma — speakers: Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2023-07-14 — C3 Ep. 39: Hang On! (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-07-07 — D&D Court: Alignment Issues, Strict Spell Components and a Bad Case of Trap Amnesia — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-06-30 — C3 Ep. 38: Burrowing Grounds (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-06-23 — Behind the Screens: DM Advice Q&A — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-06-16 — C3 Ep. 37: The Serpent's Trail (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-06-09 — D&D Court: Sibling Rivalry Edition (w/ Ify Nwadiwe) — speakers: Sibling Rivalry Edition, Ify Nwadiwe, Dungeon Court, Join Justices Murphy, Guest Justice Nwadiwe, Brian Murphy, Emily Axford, Jake Hurwitz
+- 2023-06-02 — C3 Ep. 36: The Down Below (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-05-25 — Adventure Book Theatre: The Vampire Express (w/ Jasper William Cartwright) — speakers: Jasper William Cartwright, Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2023-05-19 — C3 Ep. 35: Le Lantern (Legends of Irondeep) — speakers: Mothership Bronze, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-05-12 — D&D Court: Dog Borrowers, Fire Immunities and The Stolen Goodberry Miracle — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-05-05 — C3 Ep. 34: Mothership Bronze (Legends of Irondeep) — speakers: Mothership Bronze, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2023-04-27 — Hearthside Chat Q&A: Plump & Juicy Edition — speakers: Hearthside Chat, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-04-21 — C3 Ep. 33: Mounting Crows (Legends of Irondeep) — speakers: Caw Caw, Emily Axford, Spooky Shafts, Mothership Lobby, Patina Glenbottle, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-04-14 — D&D Court: Sphere and Ear Theory — speakers: Lowly Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-04-07 — C3 Ep. 32: The Ones We Couldn't Save (Legends of Irondeep) — speakers: Emily Axford, Mee Maw, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-03-31 — D&D Court: Gramma is a PROBLEM PLAYER — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-03-24 — C3 Ep. 31: Peaks and Valleys (Legends of Irondeep) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-03-16 — 80's D&D Adventure Book: Raid on Nightmare Castle — speakers: Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2023-03-10 — C3 Ep. 30: Old Man on the Edge of Town (Legends of Irondeep) — speakers: Emily Axford, Zirk Vervain, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-03-02 — D&D Court: Froghemoth v. Milk — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-02-24 — Trinyvale X Bahumia Mini-Arc - Ep. 03: Secrets of the Static — speakers: Trevor Lyons, Trinyvale Intro, Emily Axford Logo Design, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-02-17 — Trinyvale X Bahumia Mini-Arc - Ep. 02: Call of the Trident — speakers: Trevor Lyons, Trinyvale Intro, Emily Axford Logo Design, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-02-10 — Trinyvale X Bahumia Mini-Arc - Ep.01: The Triplets Take Moonstone — speakers: Dungeon Uncle Caldwell, Trevor Lyons, Trinyvale Intro, Emily Axford Logo Design, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-02-03 — C3 Ep. 29: Crown of Dreams (The Dragon Elf Chronicles) — speakers: Emily Axford, Lilith LaTrix, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-01-27 — 80’s D&D Adventure Book: Pillars of Pentegarn — speakers: Jake Hurwitz, Club Theme, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2023-04-21 — C3 Ep. 33: Mounting Crows (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-04-14 — D&D Court: Sphere and Ear Theory — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-04-07 — C3 Ep. 32: The Ones We Couldn't Save (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-03-31 — D&D Court: Gramma is a PROBLEM PLAYER — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-03-24 — C3 Ep. 31: Peaks and Valleys (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-03-16 — 80's D&D Adventure Book: Raid on Nightmare Castle — speakers: Adventure Book, Nightmare Castle Sound, Story Gong, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-03-10 — C3 Ep. 30: Old Man on the Edge of Town (Legends of Irondeep) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-03-02 — D&D Court: Froghemoth v. Milk — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-02-24 — Trinyvale X Bahumia Mini-Arc - Ep. 03: Secrets of the Static — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-02-17 — Trinyvale X Bahumia Mini-Arc - Ep. 02: Call of the Trident — speakers: Bahumia Mini, Trident Welcome, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-02-10 — Trinyvale X Bahumia Mini-Arc - Ep.01: The Triplets Take Moonstone — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-02-03 — C3 Ep. 29: Crown of Dreams (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-01-27 — 80’s D&D Adventure Book: Pillars of Pentegarn — speakers: Jake Hurwit, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2023-01-19 — Behind the Screens: Pathfinder 2e — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2023-01-13 — C3 Ep. 28: Pulling Strings (The Dragon Elf Chronicles) — speakers: Emily Axford, Soul Coins, Lilith LaTrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2023-01-06 — D&D Court: Rise of the Robo DMs — speakers: Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-12-31 — C3 Ep. 27: King of Dragons (The Dragon Elf Chronicles) — speakers: Emily Axford, Spooky Shafts, Soil Coins, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-12-23 — Hearthside Chat Q&A: Home for the Hoglidays — speakers: Merry Hogsmas, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-12-16 — C3 Ep. 26: Big Bev (The Dragon Elf Chronicles) — speakers: Emily Axford, Lilith Latrix, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-12-08 — D&D Court: Helm Hammerhand, Skinny Holes, and Rolling for Dinner — speakers: Helm Hammerhand, Skinny Holes, Grace Harper, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-12-02 — C3 Ep. 25: A Shocking Strategy (The Dragon Elf Chronicles) — speakers: Emily Axford, Lilith Latrix, Montgomery Manor, Beedra Weevil, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-11-18 — C3 Ep. 24: Serpent Knight (The Dragon Elf Chronicles) — speakers: Serpent Knight, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-11-11 — D&D Court: Enema Potions, Unfair PVP & The Item-Swiping Magpie (w/ Jasper William Cartwright) — speakers: Enema Potions, Jasper William Cartwright, Bailiff Hurwitz, Grace Harper, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-11-04 — C3 Ep. 23: Foster Origins (The Dragon Elf Chronicles) — speakers: Foster Origins, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-10-28 — 8-Bit Book Club: "The Hexer" (Original 2001 Polish Witcher Movie) — speakers: Jake Hurwitz, Trevor Lyon, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2022-10-21 — C3 Ep. 22: The Ol' Crick (The Dragon Elf Chronicles) — speakers: Arkansas Traveler, Emily Axford, Lilith Latrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-10-14 — D&D Court: Dungeons, Doggos & DRAMA (w/ Aabria Iyengar) — speakers: Aabria Iyengar, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-10-07 — C3 Ep. 21: Glen (The Dragon Elf Chronicles) — speakers: Gregor Quendel, Emily Axford, Spooky Shafts, Lilith Latrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-09-29 — Tortle Tank: Fighting Birds, Mediocre Gods, and The Hyper Light Cannon — speakers: Trevor Lyon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-09-23 — C3 Ep. 20: The Sapphire Scale (The Dragon Elf Chronicles) — speakers: Emily Axford, Soul Coins, Spooky Shafts, Lilith Latrix, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-09-16 — D&D Court: The Spelljammer Rebellion — speakers: Jon Odenkirk Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-09-09 — C3 Ep. 19: Hunters of the Void (The Dragon Elf Chronicles) — speakers: Emily Axford, Soul Coins, Spooky Shafts, Lilith Latrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-09-01 — Tortle Tank: Character Tarot, Redirected Spells and the Great Inspiration Bake-Off — speakers: Redirected Spells, Trevor Lyon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-08-26 — C3 Ep. 18: Shroomrot (The Dragon Elf Chronicles) — speakers: Emily Axford, Spooky Shafts, Lilith Latrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-08-19 — D&D Court: The Pooping Cleric — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-08-12 — C3 Ep. 17: The Green Lord (The Dragon Elf Chronicles) — speakers: Emily Axford, Soul Coins, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-08-05 — The Tortle Tank: Homebrew Review! (w/ Jasper William Cartwright) — speakers: Jasper William Cartwright, Trevor Lyon Listen, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-07-29 — C3 Ep. 16: The Terrible Fate of Sir Calder (The Dragon Elf Chronicles) — speakers: Emily Axford, Lilith Litrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-07-22 — D&D Court: Toxic Tables, Confusing Crits and the Tragic Tale of John the Horse — speakers: Horse Welcome, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-07-15 — C3 Ep. 15: Princess Shiverblight (The Dragon Elf Chronicles) — speakers: Emily Axford, Lilith Litrix, Henry Hogfish, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-07-07 — 8-Bit Book Club: The Super Mario Bros. Super Show! (w/ Zac Oyama) — speakers: Zac Oyama, Jake Hurwitz, Trevor Lyon, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2022-06-30 — C3 Ep. 14: Unfinished Business (The Mothership Saga) — speakers: Emily Axford, Lilith Litrix, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-06-23 — D&D Court: A Problem Player Named Flaming Hot Cheeto (w/ Ally Beardsley) — speakers: Ally Beardsley, Justices Murphy, Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-06-16 — C3 Ep. 13: Alexandrite (The Mothership Saga) — speakers: Emily Axford, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-06-10 — 8-Bit Book Club: Animorphs - The Invasion — speakers: Jake Hurwitz, Trevor Lyon, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2022-06-03 — C3 Ep. 12: Go! Go! Team Tection (The Mothership Saga) — speakers: Emily Axford, Mothership Lobby, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-05-27 — D&D Court: Super Hot NPCs — speakers: Bailiff Hurwitz, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-05-19 — C3 Ep. 11: Beatrix (The Mothership Saga) — speakers: Emily Axford, Spooky Shafts, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-05-12 — 8-Bit Book Club: Choose Your Own D&D Adventure — speakers: Jake Hurwitz, Trevor Lyon, Brian Murphy, Emily Axford, Caldwell Tanner
-- 2022-05-06 — C3 Ep. 10: To the Airship! (The Mothership Saga) — speakers: Emily Axford, Mothership Lobby, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-04-29 — D&D Court: The Angeled Egg (w/ Aabria Iyengar) — speakers: Aabria Iyengar, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-04-23 — C3 Ep. 9: Lightkeepers (The Mothership Saga) — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-04-15 — C3 Ep. 8: Beneath the Surface (The Mothership Saga) — speakers: Emily Axford, Shadowfell Sneak, Spooky Shafts, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-04-08 — C3 Ep. 7: Ma Goblin's Mob Goblin (The Mothership Saga) — speakers: Ma Goblin, Emily Axford, Mee Maw, Soul Coins, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2023-01-13 — C3 Ep. 28: Pulling Strings (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2023-01-06 — D&D Court: Rise of the Robo DMs — speakers: Bailiff Hurwit, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-12-31 — C3 Ep. 27: King of Dragons (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-12-23 — Hearthside Chat Q&A: Home for the Hoglidays — speakers: Hearthside Chat, Hoglidays Speedy Greetings, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-12-16 — C3 Ep. 26: Big Bev (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-12-08 — D&D Court: Helm Hammerhand, Skinny Holes, and Rolling for Dinner — speakers: Helm Hammerhand, Skinny Holes, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-12-02 — C3 Ep. 25: A Shocking Strategy (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-11-18 — C3 Ep. 24: Serpent Knight (The Dragon Elf Chronicles) — speakers: Serpent Knight, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-11-11 — D&D Court: Enema Potions, Unfair PVP & The Item-Swiping Magpie (w/ Jasper William Cartwright) — speakers: Enema Potions, Jasper William Cartwright, Jasper William Cart, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-11-04 — C3 Ep. 23: Foster Origins (The Dragon Elf Chronicles) — speakers: Foster Origins, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-10-28 — 8-Bit Book Club: "The Hexer" (Original 2001 Polish Witcher Movie) — speakers: Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2022-10-21 — C3 Ep. 22: The Ol' Crick (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-10-14 — D&D Court: Dungeons, Doggos & DRAMA (w/ Aabria Iyengar) — speakers: Aabria Iyengar, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-10-07 — C3 Ep. 21: Glen (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-09-29 — Tortle Tank: Fighting Birds, Mediocre Gods, and The Hyper Light Cannon — speakers: Tortle Tank, Fighting Birds, Mediocre Gods, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-09-23 — C3 Ep. 20: The Sapphire Scale (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-09-16 — D&D Court: The Spelljammer Rebellion — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-09-09 — C3 Ep. 19: Hunters of the Void (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-09-01 — Tortle Tank: Character Tarot, Redirected Spells and the Great Inspiration Bake-Off — speakers: Redirected Spells, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-08-26 — C3 Ep. 18: Shroomrot (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-08-19 — D&D Court: The Pooping Cleric — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-08-12 — C3 Ep. 17: The Green Lord (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-08-05 — The Tortle Tank: Homebrew Review! (w/ Jasper William Cartwright) — speakers: Jasper William Cartwright, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-07-29 — C3 Ep. 16: The Terrible Fate of Sir Calder (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-07-22 — D&D Court: Toxic Tables, Confusing Crits and the Tragic Tale of John the Horse — speakers: Horse Welcome, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-07-15 — C3 Ep. 15: Princess Shiverblight (The Dragon Elf Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-07-07 — 8-Bit Book Club: The Super Mario Bros. Super Show! (w/ Zac Oyama) — speakers: Zac Oyama, Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2022-06-30 — C3 Ep. 14: Unfinished Business (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-06-23 — D&D Court: A Problem Player Named Flaming Hot Cheeto (w/ Ally Beardsley) — speakers: Ally Beardsley, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-06-16 — C3 Ep. 13: Alexandrite (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-06-10 — 8-Bit Book Club: Animorphs - The Invasion — speakers: Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2022-06-03 — C3 Ep. 12: Go! Go! Team Tection (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-05-27 — D&D Court: Super Hot NPCs — speakers: Bailiff Hurw, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-05-19 — C3 Ep. 11: Beatrix (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-05-12 — 8-Bit Book Club: Choose Your Own D&D Adventure — speakers: Jake Hurwitz, Brian Murphy, Emily Axford, Caldwell Tanner
+- 2022-05-06 — C3 Ep. 10: To the Airship! (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-04-29 — D&D Court: The Angeled Egg (w/ Aabria Iyengar) — speakers: Aabria Iyengar, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-04-23 — C3 Ep. 9: Lightkeepers (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-04-15 — C3 Ep. 8: Beneath the Surface (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-04-08 — C3 Ep. 7: Ma Goblin's Mob Goblin (The Mothership Saga) — speakers: Ma Goblin, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2022-04-01 — D&D Court: Pilfered Portents, Hidden Ents and The Great Food Truck Race — speakers: Hidden Ents, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-03-25 — C3 Ep. 6: The Man Wizard & His Bunny Bud (The Mothership Saga) — speakers: Bunny Bud, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-03-18 — C3 Ep. 5: Psi Guys (The Mothership Saga) — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-03-11 — C3 Ep. 4: A Frog in the Fog (The Mothership Saga) — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-03-03 — D&D Court: Wilson Wows and Tyson Twists (w/ Zac Oyama) — speakers: Zac Oyama, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-02-25 — C3 Ep. 3: Missing Soldier (The Mothership Saga) — speakers: Missing Soldier, Emily Axford, Shadowfell Sneak, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-02-18 — C3 Ep. 2: Symbol of Ezry (The Mothership Saga) — speakers: Emily Axford, Shadowfell Sneak, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-02-11 — C3 Ep. 1: D-Class Knights (The Mothership Saga) — speakers: Synthetic Knights, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2022-01-28 — D&D Court: Psychic Kittens and Abyssal Chickens — speakers: Psychic Kittens, Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-01-21 — Trinyvale LIVE in Chicago (The Dog and Pony Show) — speakers: Pony Show, Trinyvale Intro, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2022-03-25 — C3 Ep. 6: The Man Wizard & His Bunny Bud (The Mothership Saga) — speakers: Bunny Bud, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-03-18 — C3 Ep. 5: Psi Guys (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-03-11 — C3 Ep. 4: A Frog in the Fog (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-03-03 — D&D Court: Wilson Wows and Tyson Twists (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-02-25 — C3 Ep. 3: Missing Soldier (The Mothership Saga) — speakers: Missing Soldier, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-02-18 — C3 Ep. 2: Symbol of Ezry (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-02-11 — C3 Ep. 1: D-Class Knights (The Mothership Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-01-28 — D&D Court: Psychic Kittens and Abyssal Chickens — speakers: Psychic Kittens, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-01-21 — Trinyvale LIVE in Chicago (The Dog and Pony Show) — speakers: Pony Show, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2022-01-13 — C3 Ep. 0 - Welcome Back to Bahumia — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2022-01-06 — D&D Court: Table Tattlers (w/ Jeremy Cobb) — speakers: Jeremy Cobb, Justices Murphy, Bailiff Hurwitz, Theme Song, Sam Weiller See, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2022-01-06 — D&D Court: Table Tattlers (w/ Jeremy Cobb) — speakers: Jeremy Cobb, Justices Murphy, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2021-12-30 — Campaign 3 Announcement & Discussion — speakers: Discussion Campaign, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-12-17 — Trinyvale Two-Shot: Merry Metal Mayhem - Pt. 2 — speakers: Daniel Ramos, James Wallis Music, Trinyvale Intro, Emily Axford, Emily Axford City, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-12-09 — Trinyvale Two-Shot: Merry Metal Mayhem - Pt. 1 — speakers: Daniel Ramos, James Wallis Music, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum See, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-12-02 — D&D Court: Flying Eagles, Shrunken Towers and Bird-lesque — speakers: Theme Song, Sam Weiller See, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-12-17 — Trinyvale Two-Shot: Merry Metal Mayhem - Pt. 2 — speakers: Trinyvale Two, Merry Metal Mayhem, Trinyvale Triplettes, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-12-09 — Trinyvale Two-Shot: Merry Metal Mayhem - Pt. 1 — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-12-02 — D&D Court: Flying Eagles, Shrunken Towers and Bird-lesque — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2021-11-25 — Mixed Bag Classic: Tub Brisket Character Workshop — speakers: Mixed Bag Classic, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-11-21 — Eldermourne - Ep. 41: Cerenysus — speakers: Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-11-13 — Eldermourne - Ep. 40: The Girl with the Silver Hair — speakers: Emily Axford, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-11-05 — Eldermourne - Ep. 39: Cain vs. Callista — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-10-29 — D&D Court: A Crown of Ducks (w/ Julia Lepetit & Nathan Yaffe) — speakers: Theme Song, Sam Weiller See, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-10-21 — Eldermourne - Ep. 38: Ill Luck Henry — speakers: Ill Luck Henry, Emily Axford, Reynard Wendell, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-10-15 — Eldermourne - Ep. 37: The Lord Scythe — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-10-08 — Eldermourne - Ep. 36: The Great Fairy Secret — speakers: Emily Axford, Spooky Shafts, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-10-01 — D&D Court: Goats, Rogues, and Shark Farts — speakers: Shark Farts, Theme Song, Sam Weiller See, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-09-24 — Eldermourne - Ep. 35: Familiar — speakers: Emily Axford, Spooky Shafts, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-09-17 — Eldermourne - Ep. 34: Wyvern Knight — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-09-10 — Eldermourne - Ep. 33: People on the Outside — speakers: skeleton greaser, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-09-02 — D&D Court: Pet Rocks, Raven Plagues & The Necromancer Dilemma — speakers: Theme Song, Sam Weiller See, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-08-27 — Eldermourne - Ep. 32: People on the Inside — speakers: Emily Axford, Honey Trap, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-08-19 — D&D Court: The Player's Judge (w/ Lou Wilson & Zac Oyama) — speakers: Theme Song, Sam Weiller, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-08-13 — Eldermourne - Ep. 31: Disciples of the Scythe — speakers: Ill Luck Henry, Gregor Quendel, Emily Axford, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-08-06 — Eldermourne - Ep. 30: Endoterra — speakers: Emily Axford, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-07-30 — Bahumia Two-Shot: Potcedonia's Reckoning (w/ DM Jasper William Cartwright) — speakers: William Cartwright, Jasper William Cartwright, Daniel Ramos, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-07-23 — Bahumia Two-Shot: Treasured Heroes (w/ DM Jasper William Cartwright) — speakers: William Cartwright, Jasper William Cartwright, Daniel Ramos, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-07-16 — Eldermourne - Ep. 29: Sirenloch — speakers: Emily Axford, Broken Heart Banshee, Spooky Shafts, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-07-09 — Eldermourne - Ep. 28: Lockdown — speakers: Vervain Labs, Emily Axford, Broken Heart Banshee, Spooky Shafts, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-07-02 — Eldermourne - Ep. 27: Broken Bonds — speakers: Stella Vervain, Emily Axford, Spooky Shafts, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-06-24 — D&D Court - Witch Bolts, Meta Gamers, and the Return of Blasting Gramma — speakers: Meta Gamers, Blasting Gramma, Daniel Ramos, Theme Song, Sam Weiller, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-06-18 — Eldermourne - Ep. 26: Too Late — speakers: Emily Axford, Soul Coins, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-06-12 — Eldermourne - Ep. 25: Flesh and Blood — speakers: Emily Axford, Soul Coins, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-06-07 — Eldermourne - Ep. 24: Awakened — speakers: Emily Axford, Unknown Tomb, Soul Coins, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-05-28 — D&D Court - Death Save Coin, Chill Ragers, & Heating Warforged — speakers: Dungeon Bailiff Jake, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-05-21 — Eldermourne - Ep. 23: Scrappers — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-05-14 — Eldermourne - Ep. 22: Ghost Dragon — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-05-07 — Eldermourne - Ep. 21: The Crux — speakers: Emily Axford, Spooky Shafts, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-04-30 — D&D Court - Flammable Brooms, Chokeslamming Dragons, and Grandma the Bard — speakers: Dungeon Bailiff Jake, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-04-23 — Trinyvale - One Shot: PROPOSAL IMPOSSIBLE — speakers: Terence Wiggins, Daniel Ramos, Hat Productions, Trinyvale Intro, Emily Axford City, Emily Axford, Andante Moderato, Soni Ventorum Wind Quintet, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-04-16 — Eldermourne - Ep. 20: Olwen the Sullen — speakers: Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-04-09 — Eldermourne - Ep. 19: Blade Witch — speakers: Blade Witch, Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-04-02 — Eldermourne - Ep. 18: Temple of the Guardians — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-03-25 — The Rotating Heroes Podcast - Arc 1 Ep. 5: The Godwalker (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Zac Oyama, Brenda Elizabeth, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-03-19 — Eldermourne - Ep. 17: Monsters of the Mountain — speakers: Emily Axford, Zirk Vervain, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-03-12 — Eldermourne - Ep. 16: Curses & Cliffhangers — speakers: Emily Axford, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-03-05 — Eldermourne - Ep. 15: Portrait of a Blade — speakers: Emily Axford, Montgomery Manor, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2021-11-21 — Eldermourne - Ep. 41: Cerenysus — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-11-13 — Eldermourne - Ep. 40: The Girl with the Silver Hair — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-11-05 — Eldermourne - Ep. 39: Cain vs. Callista — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-10-29 — D&D Court: A Crown of Ducks (w/ Julia Lepetit & Nathan Yaffe) — speakers: Julia Lepetit, Nathan Yaffe, Dungeon Court, Join Supreme Crit Justice, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-10-21 — Eldermourne - Ep. 38: Ill Luck Henry — speakers: Ill Luck Henry, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-10-15 — Eldermourne - Ep. 37: The Lord Scythe — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-10-08 — Eldermourne - Ep. 36: The Great Fairy Secret — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-10-01 — D&D Court: Goats, Rogues, and Shark Farts — speakers: Shark Farts, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-09-24 — Eldermourne - Ep. 35: Familiar — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-09-17 — Eldermourne - Ep. 34: Wyvern Knight — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-09-10 — Eldermourne - Ep. 33: People on the Outside — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-09-02 — D&D Court: Pet Rocks, Raven Plagues & The Necromancer Dilemma — speakers: Pet Rocks, Raven Plagues, Join Supreme Crit Justices, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-08-27 — Eldermourne - Ep. 32: People on the Inside — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-08-19 — D&D Court: The Player's Judge (w/ Lou Wilson & Zac Oyama) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-08-13 — Eldermourne - Ep. 31: Disciples of the Scythe — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-08-06 — Eldermourne - Ep. 30: Endoterra — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-07-30 — Bahumia Two-Shot: Potcedonia's Reckoning (w/ DM Jasper William Cartwright) — speakers: William Cartwright, Jasper William Cartwright, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-07-23 — Bahumia Two-Shot: Treasured Heroes (w/ DM Jasper William Cartwright) — speakers: William Cartwright, Jasper William Cartwright, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-07-16 — Eldermourne - Ep. 29: Sirenloch — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-07-09 — Eldermourne - Ep. 28: Lockdown — speakers: Vervain Labs, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-07-02 — Eldermourne - Ep. 27: Broken Bonds — speakers: Stella Vervain, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-06-24 — D&D Court - Witch Bolts, Meta Gamers, and the Return of Blasting Gramma — speakers: Meta Gamers, Blasting Gramma, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-06-18 — Eldermourne - Ep. 26: Too Late — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-06-12 — Eldermourne - Ep. 25: Flesh and Blood — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-06-07 — Eldermourne - Ep. 24: Awakened — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-05-28 — D&D Court - Death Save Coin, Chill Ragers, & Heating Warforged — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-05-21 — Eldermourne - Ep. 23: Scrappers — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-05-14 — Eldermourne - Ep. 22: Ghost Dragon — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-05-07 — Eldermourne - Ep. 21: The Crux — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-04-30 — D&D Court - Flammable Brooms, Chokeslamming Dragons, and Grandma the Bard — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-04-23 — Trinyvale - One Shot: PROPOSAL IMPOSSIBLE — speakers: One Shot, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-04-16 — Eldermourne - Ep. 20: Olwen the Sullen — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-04-09 — Eldermourne - Ep. 19: Blade Witch — speakers: Blade Witch, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-04-02 — Eldermourne - Ep. 18: Temple of the Guardians — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-03-25 — The Rotating Heroes Podcast - Arc 1 Ep. 5: The Godwalker (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-03-19 — Eldermourne - Ep. 17: Monsters of the Mountain — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-03-12 — Eldermourne - Ep. 16: Curses & Cliffhangers — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-03-05 — Eldermourne - Ep. 15: Portrait of a Blade — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2021-02-25 — The Rotating Heroes Podcast - Arc 1 Ep. 4: The Roots of Some Evil (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-02-19 — Eldermourne - Ep. 14: The Petty King of Outerborough (w/ Lou Wilson) — speakers: Lou Wilson, John Wick, Emily Axford, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-02-12 — Eldermourne - Ep. 13: Cindersworn (w/ Lou Wilson) — speakers: Lou Wilson, Prophet Gideon, Soul Coins, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-02-05 — Eldermourne - Ep. 12: The Prophet Gideon (w/ Lou Wilson) — speakers: Lou Wilson, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-01-28 — The Rotating Heroes Podcast - Arc 1 Ep. 3: Ups and Downs (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Zac Oyama, Bon Appétit, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2021-01-22 — Eldermourne - Ep. 11: Killshot (w/ Lou Wilson) — speakers: Lou Wilson, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-01-15 — Eldermourne - Ep. 10: The Would Be King (w/ Lou Wilson) — speakers: Lou Wilson, Medieval Marching, Emily Axford, Soul Coins, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2021-01-08 — Eldermourne - Ep. 9: Hexblood (w/ Lou Wilson) — speakers: Lou Wilson, Jabari Hightower, Emily Axford, Jake Hurwitz, Soul Coins, Brian Murphy, Caldwell Tanner
-- 2020-12-31 — Eldermourne - Arc 2 Ep. 0: Oops, All New Characters! (w/ Lou Wilson) — speakers: Lou Wilson, Matthew McConaughey, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-12-24 — The Rotating Heroes Podcast - Arc 1 Ep. 2: Oops All Mayhem (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Brenda Elizabeth, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-12-18 — Donkey Kong One-Shot: A Coco-Night Holiday Special — speakers: Donkey Kong, Howard Geisel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-12-11 — Eldermourne - Ep. 8: Until We Meet Again — speakers: Choo Choo, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-12-04 — Eldermourne - Ep. 7: Trial by Scale — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2021-02-19 — Eldermourne - Ep. 14: The Petty King of Outerborough (w/ Lou Wilson) — speakers: Lou Wilson, John Wic, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-02-12 — Eldermourne - Ep. 13: Cindersworn (w/ Lou Wilson) — speakers: Lou Wilson, Prophet Gideon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-02-05 — Eldermourne - Ep. 12: The Prophet Gideon (w/ Lou Wilson) — speakers: Lou Wilson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-01-28 — The Rotating Heroes Podcast - Arc 1 Ep. 3: Ups and Downs (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-01-22 — Eldermourne - Ep. 11: Killshot (w/ Lou Wilson) — speakers: Lou Wilson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-01-15 — Eldermourne - Ep. 10: The Would Be King (w/ Lou Wilson) — speakers: Lou Wilson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2021-01-08 — Eldermourne - Ep. 9: Hexblood (w/ Lou Wilson) — speakers: Lou Wilson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-12-31 — Eldermourne - Arc 2 Ep. 0: Oops, All New Characters! (w/ Lou Wilson) — speakers: Lou Wilson, Jake chan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-12-24 — The Rotating Heroes Podcast - Arc 1 Ep. 2: Oops All Mayhem (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-12-18 — Donkey Kong One-Shot: A Coco-Night Holiday Special — speakers: Donkey Kong, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-12-11 — Eldermourne - Ep. 8: Until We Meet Again — speakers: Choo Choo, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-12-04 — Eldermourne - Ep. 7: Trial by Scale — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-11-26 — The Rotating Heroes Podcast - Arc 1 Ep. 1: The Obelisk at Bonbihr Mountains (w/ DM Zac Oyama) — speakers: DM Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-11-20 — Eldermourne - Ep. 6: The Rook's Gambit — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-11-14 — Eldermourne - Ep. 5: The Baroness — speakers: Broken Heart Banshee, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-11-06 — Eldermourne - Ep. 4: Ghosts of Thornkirk — speakers: Penrose Crypt, Henry channels Wolverine, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-11-03 — Election Day Mixed Bag Mixtape - D&D Court I-III — speakers: Dungeon Bailiff Jake, Mixed Bag, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-10-30 — Eldermourne - Ep. 3: Broken Heart Banshee — speakers: Emily Axford, Broken Heart Banshee, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-10-23 — Eldermourne - Ep. 2: Jabs and Hooks — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-10-16 — Eldermourne - Ep. 1: The Reaping Season — speakers: Fia Boginya, Zirk Vervain, Henry Hogfish, Jake Hurwitz, Emily Axford, Brian Murphy, Caldwell Tanner
+- 2020-11-20 — Eldermourne - Ep. 6: The Rook's Gambit — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-11-14 — Eldermourne - Ep. 5: The Baroness — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-11-06 — Eldermourne - Ep. 4: Ghosts of Thornkirk — speakers: Penrose Crypt, Henry chan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-11-03 — Election Day Mixed Bag Mixtape - D&D Court I-III — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-10-30 — Eldermourne - Ep. 3: Broken Heart Banshee — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-10-23 — Eldermourne - Ep. 2: Jabs and Hooks — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-10-16 — Eldermourne - Ep. 1: The Reaping Season — speakers: Fia Boginya, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-10-08 — Eldermourne - Ep. 0: Welcome to Eldermourne — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-09-26 — The Mavrus Chronicles - Ep 7: Carl (w/ Zac Oyama) — speakers: Zac Oyama, Daniel Ramos, Emily Axford Sea Beast, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-09-18 — The Mavrus Chronicles - Ep 6: Merfolk Melee (w/ Zac Oyama) — speakers: Merfolk Melee, Zac Oyama, Daniel Ramos, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-09-11 — The Mavrus Chronicles - Ep 5: Into the Kelp Forest (w/ Zac Oyama) — speakers: Zac Oyama, Hungry Dave, Daniel Ramos, Emily Axford, Bronze Bastard, Emily Axford Sea Beast, Humble Farmer, Emily Axford Snake Fight, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-09-04 — The Mavrus Chronicles - Ep 4: Down the Chute (w/ Zac Oyama) — speakers: Zac Oyama, Hungry Dave, Daniel Ramos, Emily Axford, Emily Axford Snake Fight, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-08-28 — The Mavrus Chronicles - Ep 3: Magic Storms & Cottagecore (w/ Zac Oyama) — speakers: Zac Oyama, Daniel Ramos, Emily Axford, Emily Axford Sea Beast, Emily Axford Schubert, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-08-21 — The Mavrus Chronicles - Ep 2: Microbrews Clues (w/ Zac Oyama) — speakers: Zac Oyama, Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-08-14 — The Mavrus Chronicles - Ep 1: Hot Boy Summer (w/ Zac Oyama) — speakers: Zac Oyama, Tred Nevers, Emily Axford, Bronze Bastard, Emily Axford Qwiksus, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2020-09-26 — The Mavrus Chronicles - Ep 7: Carl (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-09-18 — The Mavrus Chronicles - Ep 6: Merfolk Melee (w/ Zac Oyama) — speakers: Merfolk Melee, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-09-11 — The Mavrus Chronicles - Ep 5: Into the Kelp Forest (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-09-04 — The Mavrus Chronicles - Ep 4: Down the Chute (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-08-28 — The Mavrus Chronicles - Ep 3: Magic Storms & Cottagecore (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-08-21 — The Mavrus Chronicles - Ep 2: Microbrews Clues (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-08-14 — The Mavrus Chronicles - Ep 1: Hot Boy Summer (w/ Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-08-06 — Baggin' it with Balnor: Loud Libraries, Questionable Drug PSAs, and Staying Fit w/ Pendergreens — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-07-27 — ANNOUNCEMENT: Dark Week, Baggin' It With Balnor & Emily's Summer Mini-Campaign! — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-07-26 — Trinyvale - Ep. 22: Only Time Will Tell — speakers: Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum, Bedtime Buddies, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-07-17 — Trinyvale - Ep. 21: Plaintiffs & Paramours — speakers: Divine Relic, Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum Moonsick, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-07-11 — Trinyvale - Ep. 20: Pricks & Princes — speakers: Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-07-04 — Trinyvale - Ep. 19: Parties & Primates (w/ Nathan Yaffe) — speakers: Nathan Yaffe, Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum Moonsick, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-06-26 — Trinyvale - Ep. 18: Quicksilver Coup — speakers: Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum Moonsick, Jens Christian Tvilum, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-06-18 — Trinyvale - Ep. 17: Crystal Climax — speakers: Trevor Lyon, Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford City, Emily Axford, Jens Christian Tvilum, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-06-11 — Trinyvale - Ep. 16: Apartment Amuck! — speakers: Trevor Lyon, Daniel Ramos, Trinyvale Intro, Emily Axford, Emily Axford City, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-29 — Trinyvale - Ep. 15: Shard Showdown — speakers: Shard Showdown Deep, Trevor Lyon, Daniel Ramos, Trinyvale Intro, Emily Axford, Emily Axford City, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-23 — Trinyvale - Ep. 14: Periphera Peril — speakers: Periphera Peril, Ron Madness, Trevor Lyon, Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-21 — Trinyvale - The Story So Far (Ep. 1-13 Recap) — speakers: Duncle Caldwell, Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 13: Jungle Judgement — speakers: Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum Moonsick, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 12: Rana'For Reunion — speakers: Retrieval Team, Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum Moonsick, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 11: Arduous Awakening — speakers: Arduous Awakening Having, Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum Moonsick, Jens Christian Tvilum, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 10: Pirate Panic — speakers: Dread Horizon, Retrieval Team, Daniel Ramos, Trinyvale Intro, Emily Axford Golden Interlude, Emily Axford City, Emily Axford, Jens Christian Tvilum, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 9: Skyborn Struggle — speakers: Raster Von Vineheart, Dread Horizon, Daniel Ramos, Trinyvale Intro, Emily Axford, Emily Axford City, Jens Christian Tvilum, Privacy Policy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 8: Crystal Chaos — speakers: Daniel Ramos, Trinyvale Intro, Emily Axford, Jens Christian Tvilum, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 7: Mansion Mayhem — speakers: Daniel Ramos, Trinyvale Intro, Emily Axford, See Privacy, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 6: Dragon Duel — speakers: Daniel Ramos, Trinyvale Intro, Emily Axford City, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 5: Ginnarak Gauntlet — speakers: Ginnarak Gauntlet, Daniel Ramos, Trinyvale Intro, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 4: Moonlight Marauders — speakers: Daniel Ramos, Kei Matsuo, Trinyvale Intro, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 3: Disco Detectives — speakers: Marissa Melnyk, Daniel Ramos, Trinyvale Intro, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 2: Sunken Secrets — speakers: Marissa Melnyk, Daniel Ramos, Trinyvale Intro, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-05-18 — Trinyvale - Ep. 1: Crystal Quest — speakers: Jens Lyndelle, Onyx Lumiere, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2020-07-27 — ANNOUNCEMENT: Dark Week, Baggin' It With Balnor & Emily's Summer Mini-Campaign! — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-07-26 — Trinyvale - Ep. 22: Only Time Will Tell — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-07-17 — Trinyvale - Ep. 21: Plaintiffs & Paramours — speakers: Divine Relic, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-07-11 — Trinyvale - Ep. 20: Pricks & Princes — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-07-04 — Trinyvale - Ep. 19: Parties & Primates (w/ Nathan Yaffe) — speakers: Nathan Yaffe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-06-26 — Trinyvale - Ep. 18: Quicksilver Coup — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-06-18 — Trinyvale - Ep. 17: Crystal Climax — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-06-11 — Trinyvale - Ep. 16: Apartment Amuck! — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-29 — Trinyvale - Ep. 15: Shard Showdown — speakers: Shard Showdown Deep, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-23 — Trinyvale - Ep. 14: Periphera Peril — speakers: Periphera Peril, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-21 — Trinyvale - The Story So Far (Ep. 1-13 Recap) — speakers: Duncle Caldwell, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 13: Jungle Judgement — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 12: Rana'For Reunion — speakers: Retrieval Team, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 11: Arduous Awakening — speakers: Arduous Awakening Having, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 10: Pirate Panic — speakers: Dread Horizon, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 9: Skyborn Struggle — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 8: Crystal Chaos — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 7: Mansion Mayhem — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 6: Dragon Duel — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 5: Ginnarak Gauntlet — speakers: Ginnarak Gauntlet, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 4: Moonlight Marauders — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 3: Disco Detectives — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 2: Sunken Secrets — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-05-18 — Trinyvale - Ep. 1: Crystal Quest — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-05-12 — ANNOUNCEMENT: Dark Week, Trinyvale, Emily's Campaign, and Tomb of Horrors Stream — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-05-10 — Ep. 100: Heart of the World (The Chosen Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-04-30 — Ep. 99: One Big Bed (The Chosen Saga) — speakers: Emily Axford, Mee Maw, Shadowfell Sneak, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-04-23 — Ep. 98: Patient Zero (The Chosen Saga) — speakers: Patient Zero, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-04-16 — Ep. 97: Titans of the Realm (The Chosen Saga) — speakers: Divine Hearts, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-04-09 — Ep. 96: The Glittering Lady (The Chosen Saga) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2020-05-10 — Ep. 100: Heart of the World (The Chosen Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-04-30 — Ep. 99: One Big Bed (The Chosen Saga) — speakers: One Big Bed, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-04-23 — Ep. 98: Patient Zero (The Chosen Saga) — speakers: Patient Zero, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-04-16 — Ep. 97: Titans of the Realm (The Chosen Saga) — speakers: Divine Hearts, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-04-09 — Ep. 96: The Glittering Lady (The Chosen Saga) — speakers: Dragon God, Glittering Lady, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-04-04 — NADDPOD Live in Boston (Saving Gemma Bronzebeard) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-03-27 — Ep. 95: Divine Heart (The Chosen Saga) — speakers: Divine Heart, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2020-03-27 — Ep. 95: Divine Heart (The Chosen Saga) — speakers: Divine Heart, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2020-03-19 — Baggin' it with Balnor: The Green Teen Quarantine (w/ Hardwon, Moonshine, and Beverly) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2020-03-12 — Ep. 94: The Astral Worm (The Chosen Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-03-06 — Ep. 93: Heavy is the Head (The Chosen Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-02-27 — Ep. 92: The Wraith on the Pale Horse (The Chosen Saga) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-02-21 — Ep. 91: Secrets, Secrets (The Chosen Saga) — speakers: Emily Axford, Shadowfell Sneak, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-02-13 — Ep. 90: Those Left Behind (The Chosen Saga) — speakers: Arkansas Traveler, Emily Axford, Mee Maw, Soul Coins, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-02-06 — Can They Kill It? (The Band of Boobs vs. The Astral DADnought) — speakers: Leandros Ntounis, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-01-30 — Ep. 89: Apocalypse (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Dean Raul DiArchangeli, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-01-23 — Ep. 88: Faithless (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Medieval Marching, Kevin MacLeod, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-01-18 — Ep. 87: Split the Party (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Howard Geisel, Medieval Marching, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-01-10 — Ep. 86: Hell Breaks Loose (The Hellfire Chronicles) — speakers: Zac Oyama, Siobhan Thompson, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2020-01-02 — Ep. 85: Rogue Gods (The Hellfire Chronicles) — speakers: Medieval Marching, Tim Kahn, Emily Axford, Escape Smuggler, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-12-26 — Campaign Quiz Show: The Scoop Zone Trivia Challenge — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-12-19 — Frostwind's Mandatory Celebration of Maximum Luminosity: A Somber Festival (Holiday Special w/ Amir Blumenfeld) — speakers: Amir Blumenfeld, Wind Howling, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2020-03-12 — Ep. 94: The Astral Worm (The Chosen Saga) — speakers: Astral Worm, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-03-06 — Ep. 93: Heavy is the Head (The Chosen Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-02-27 — Ep. 92: The Wraith on the Pale Horse (The Chosen Saga) — speakers: Pale Horse, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-02-21 — Ep. 91: Secrets, Secrets (The Chosen Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-02-13 — Ep. 90: Those Left Behind (The Chosen Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-02-06 — Can They Kill It? (The Band of Boobs vs. The Astral DADnought) — speakers: Astral Dreadnought, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-01-30 — Ep. 89: Apocalypse (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-01-23 — Ep. 88: Faithless (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-01-18 — Ep. 87: Split the Party (The Hellfire Chronicles) — speakers: Siobhan Thompson, Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-01-10 — Ep. 86: Hell Breaks Loose (The Hellfire Chronicles) — speakers: Zac Oyama, Siobhan Thompson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2020-01-02 — Ep. 85: Rogue Gods (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-12-26 — Campaign Quiz Show: The Scoop Zone Trivia Challenge — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-12-19 — Frostwind's Mandatory Celebration of Maximum Luminosity: A Somber Festival (Holiday Special w/ Amir Blumenfeld) — speakers: Amir Blumenfeld, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2019-12-12 — Baggin' it with Balnor: Unicorn Meat, JV's Wedding, and Hot Sex Tips (w/ Hardwon, Moonshine, and Beverly) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2019-12-05 — NADDPOD Live in Manchester (Raiders of the Lost Croak) — speakers: Lost Croak, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2019-11-28 — Donkey Kong One-Shot: A Bananksgiving Special — speakers: Donkey Kong, Little Buddy, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-11-22 — Ep. 84: Treachery (The Hellfire Chronicles) — speakers: Church Bells, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-11-14 — Ep. 83: The Devil You Know (The Hellfire Chronicles) — speakers: Dreamy Ambience, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-11-08 — Ep. 82: Ring of Violence (The Hellfire Chronicles) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-10-31 — Ep. 81: Greed, Anger, Heresy (The Hellfire Chronicles) — speakers: Howard Geisel, Arkansas Traveler, Emily Axford, Snake Skirmish, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-10-24 — Ep. 80: Your Own Personal Hell (The Hellfire Chronicles) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-10-17 — Ep. 79: Honey Trap (The Hellfire Chronicles) — speakers: Honey Trap, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-10-10 — Ep. 78: Twisted Metal (The Hellfire Chronicles) — speakers: Bronze Bastard, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-10-03 — Ep. 77: Enter the Nine Hells (The Hellfire Chronicles) — speakers: Emily Axford, Bronze Bastard, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-09-26 — Ep. 76: Enemy of My Enemy (The Chosen Prelude) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-09-19 — NADDPOD Live in Pittsburgh (Hardwon the Headless) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2019-08-30 — Ep. 75: This is War (The Chosen Prelude) — speakers: Maw Maw, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-08-23 — Ep. 74: Highprince of Hell (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Howard Geisel, Emily Axford, Shadowfell Sneak, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-08-19 — TRAILER: New York Live Show - "The Berry Incident" (Coming 9/12/19) — speakers: New York, Nannerfly Effect, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2019-08-16 — Ep. 73: Pandemonium (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-08-09 — Ep. 72: Hippogriffs & Stardust (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-08-02 — Ep. 71: The Gladeholm Wizard Tournament (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Dreamy Ambience, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-07-26 — Ep. 70: Reborn (On the Road Again) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-07-19 — Ep. 69: The Dark Lord of Ember Heaven (The Shadowfell Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-07-12 — Ep. 68: Grave Robbers (The Shadowfell Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-07-04 — Ep. 67: The Kraken's Hunger (The Shadowfell Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-06-28 — Ep. 66: Unholy Pilgrimage (The Shadowfell Saga) — speakers: Paw Paw, Shadowfell Sneak, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2019-11-28 — Donkey Kong One-Shot: A Bananksgiving Special — speakers: Donkey Kong, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-11-22 — Ep. 84: Treachery (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-11-14 — Ep. 83: The Devil You Know (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-11-08 — Ep. 82: Ring of Violence (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-10-31 — Ep. 81: Greed, Anger, Heresy (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-10-24 — Ep. 80: Your Own Personal Hell (The Hellfire Chronicles) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-10-17 — Ep. 79: Honey Trap (The Hellfire Chronicles) — speakers: Honey Trap, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-10-10 — Ep. 78: Twisted Metal (The Hellfire Chronicles) — speakers: Bronze Bastard, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-10-03 — Ep. 77: Enter the Nine Hells (The Hellfire Chronicles) — speakers: Nine Hells, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-09-26 — Ep. 76: Enemy of My Enemy (The Chosen Prelude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-09-19 — NADDPOD Live in Pittsburgh (Hardwon the Headless) — speakers: Nannerfly Effect Tour, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-30 — Ep. 75: This is War (The Chosen Prelude) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-23 — Ep. 74: Highprince of Hell (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-19 — TRAILER: New York Live Show - "The Berry Incident" (Coming 9/12/19) — speakers: New York, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-16 — Ep. 73: Pandemonium (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-09 — Ep. 72: Hippogriffs & Stardust (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-08-02 — Ep. 71: The Gladeholm Wizard Tournament (Mage Madness with Zac Oyama) — speakers: Zac Oyama, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-07-26 — Ep. 70: Reborn (On the Road Again) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-07-19 — Ep. 69: The Dark Lord of Ember Heaven (The Shadowfell Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-07-12 — Ep. 68: Grave Robbers (The Shadowfell Saga) — speakers: Grave Robbers, Ember Heaven, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-07-04 — Ep. 67: The Kraken's Hunger (The Shadowfell Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-06-28 — Ep. 66: Unholy Pilgrimage (The Shadowfell Saga) — speakers: Unholy Pilgrimage, Dark Lord Galad Rosell, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2019-06-20 — NADDPOD Live in Chicago (The Mean Teen Jamborween) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2019-06-13 — Ep. 65: Ashes to Ashes (The Shadowfell Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-06-06 — Ep. 64: The Cybin Siblings (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Emily Axford, Montgomery Manor, Shadowfell Sneak, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-05-30 — Ep. 63: Grimhawk Manor (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Grimhawk Manor, Brennan Lee Mulligan, Emily Axford, Montgomery Manor, Shadowfell Sneak, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-05-23 — Ep. 62: The Knights of Penance (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-05-16 — Ep. 61: Gutless (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-05-09 — Ep. 60: Deadeye (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-05-02 — Ep. 59: Blood Rain (The Shadowfell Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2019-06-13 — Ep. 65: Ashes to Ashes (The Shadowfell Saga) — speakers: Crimson Hills, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-06-06 — Ep. 64: The Cybin Siblings (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-05-30 — Ep. 63: Grimhawk Manor (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Grimhawk Manor, Brennan Lee Mulligan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-05-23 — Ep. 62: The Knights of Penance (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-05-16 — Ep. 61: Gutless (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-05-09 — Ep. 60: Deadeye (The Shadowfell Saga with Brennan Lee Mulligan) — speakers: Brennan Lee Mulligan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-05-02 — Ep. 59: Blood Rain (The Shadowfell Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2019-04-20 — Hearthside Chats #3 (Q&A) — speakers: Hearthside Chats, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2019-04-11 — Ep. 58: Crown of Thorns (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-04-04 — Ep. 57: Frozen Hearts (A Faerie Tale) — speakers: Frozen Hearts, King Lestibourne, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-03-28 — Ep. 56: The Sunset Princess (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-03-21 — Ep. 55: Tricky Trials (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-03-14 — Ep. 54: Killing Blow (A Faerie Tale) — speakers: Killing Blow, Bev Sr, Green Knight, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-03-07 — Ep. 53: Escape From Old Court Castle (A Faerie Tale) — speakers: Queen Cirilla, Lactose Lad, Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-02-28 — Ep. 52: Crushed by an Angel (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-02-21 — Ep. 51: The Nannerfly Effect (A Faerie Tale) — speakers: Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-02-14 — Ep. 50: Nightcap (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-02-07 — Ep. 49: Milk and Honey (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-01-31 — Ep. 48: Escape From Fairy Mountain (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-01-25 — Ep. 47: Monster Hunter (A Faerie Tale) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-01-17 — Ep. 46: The Grizzly Prince (A Faerie Tale) — speakers: Emily Axford, Humble Farmer, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-01-10 — Ep. 45: Kingshammer (The Frostwind Chapter) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2019-01-03 — Ep. 44: Dwarves vs. Giants vs. Winter Wolves (The Frostwind Chapter) — speakers: Winter Wolves, Hill Giants, Emily Axford, Run Dry, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2019-04-11 — Ep. 58: Crown of Thorns (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-04-04 — Ep. 57: Frozen Hearts (A Faerie Tale) — speakers: Frozen Hearts, King Lestibourne, Moonshine lo, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-03-28 — Ep. 56: The Sunset Princess (A Faerie Tale) — speakers: Faerie Tale, Autumn Court, Princess Jovyr, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-03-21 — Ep. 55: Tricky Trials (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-03-14 — Ep. 54: Killing Blow (A Faerie Tale) — speakers: Killing Blow, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-03-07 — Ep. 53: Escape From Old Court Castle (A Faerie Tale) — speakers: Queen Cirilla, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-02-28 — Ep. 52: Crushed by an Angel (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-02-21 — Ep. 51: The Nannerfly Effect (A Faerie Tale) — speakers: Faerie Tale, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-02-14 — Ep. 50: Nightcap (A Faerie Tale) — speakers: Faerie Tale, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-02-07 — Ep. 49: Milk and Honey (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-01-31 — Ep. 48: Escape From Fairy Mountain (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-01-25 — Ep. 47: Monster Hunter (A Faerie Tale) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-01-17 — Ep. 46: The Grizzly Prince (A Faerie Tale) — speakers: Faerie Tale, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-01-10 — Ep. 45: Kingshammer (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2019-01-03 — Ep. 44: Dwarves vs. Giants vs. Winter Wolves (The Frostwind Chapter) — speakers: Winter Wolves, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-12-28 — Long Rest: Best of the Year Round Up — speakers: Long Rest, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-12-20 — Holiday Special: 'Twas the Night Before Crickmas — speakers: Paw Paw, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-12-13 — Ep. 43: Feeding Time (The Frostwind Chapter) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-12-06 — Ep. 42: The Valley of Frigid Death (The Frostwind Chapter) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-11-29 — Ep. 41: Attack at the Tower (The Frostwind Chapter) — speakers: Howard Geisel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2018-12-20 — Holiday Special: 'Twas the Night Before Crickmas — speakers: Holiday Special, Night Before Crickmas Someone, Crick Elves, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-12-13 — Ep. 43: Feeding Time (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-12-06 — Ep. 42: The Valley of Frigid Death (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-11-29 — Ep. 41: Attack at the Tower (The Frostwind Chapter) — speakers: Winter Wolves, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-11-22 — Hearthside Chats: Cricksgiving Edition (Q&A) — speakers: Hearthside Chats, Cricksgiving Edition, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-11-15 — Ep. 40: Into the Frozen Tundra (The Frostwind Chapter) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-11-08 — Ep. 39: Red-handed (The Frostwind Chapter) — speakers: Emily Axford, Run Dry, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-11-01 — Ep. 38: Harvester Beast (The Frostwind Chapter) — speakers: Harvester Beast, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-10-25 — Ep. 37: The Man Who Threw the Knife (The Frostwind Chapter) — speakers: Bahumian Rufio, Howard Geisel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-10-19 — Ep. 36: Cold and All Alone (The Frostwind Chapter) — speakers: Nasty Boy, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-10-11 — Ep. 35: The Princess and the Bastard (The Frostwind Chapter) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-10-04 — Ep. 34: Icy Reception (The Frostwind Chapter) — speakers: Macedonian Tambura, Boris Todorovic, Wind Howling, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-09-27 — Ep. 33: Dangerous Knowledge (On the Road Again with Nathan Yaffe) — speakers: Nathan Yaffe, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
+- 2018-11-15 — Ep. 40: Into the Frozen Tundra (The Frostwind Chapter) — speakers: Frozen Tundra, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-11-08 — Ep. 39: Red-handed (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-11-01 — Ep. 38: Harvester Beast (The Frostwind Chapter) — speakers: Harvester Beast, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-10-25 — Ep. 37: The Man Who Threw the Knife (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-10-19 — Ep. 36: Cold and All Alone (The Frostwind Chapter) — speakers: All Alone, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-10-11 — Ep. 35: The Princess and the Bastard (The Frostwind Chapter) — speakers: some grandmas, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-10-04 — Ep. 34: Icy Reception (The Frostwind Chapter) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-09-27 — Ep. 33: Dangerous Knowledge (On the Road Again with Nathan Yaffe) — speakers: Nathan Yaffe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-09-20 — NaDDPod Live in Seattle (Return to Moonstone) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-09-13 — Ep. 32: The Getaway (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-09-06 — Ep. 31: Walk the Plank (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Leandros Ntounis, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-08-30 — Ep. 30: Smuggler's Bounty (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Leandros Ntounis, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-08-23 — Ep. 29: Marabelle the Terrible (Tales From the Crick) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-08-16 — Ep. 28: Monster Inside You (Tales From the Crick) — speakers: Howard Geisel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-08-09 — Ep. 27: The Living Wood (Tales From the Crick) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-08-03 — Ep. 26: The Creeping Fog (Tales From the Crick) — speakers: Club Chatter, Amadeusz Bartos, Howard Geisel, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-07-26 — Ep. 25: Into the Fire (Tales From the Crick) — speakers: Club Chatter, Emily Axford, Mee Maw, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-07-19 — Ep. 24: Queen of the Sky (Tales From the Crick) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-07-12 — Ep. 23: Titan of Earth (Tales From the Crick) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-07-05 — Ep. 22: The Elemental Chaos (Tales From the Crick) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-06-29 — Ep. 21: What's Amiss (Tales From the Crick) — speakers: Green Man, Emily Axford, Run Dry, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-06-21 — Ep. 20: Fallen Heroes (The Galaderon Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-06-14 — Ep. 19: The Purge (The Galaderon Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-06-07 — Ep. 18: Strike True (The Galaderon Saga) — speakers: Club Chatter, Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-05-31 — Ep. 17: Jailbreak (The Galaderon Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-05-24 — Ep. 16: The Mad Dwarves of Old Cragwater (The Galaderon Saga) — speakers: Emily Axford, Spooky Shafts, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-05-17 — Ep. 15: A Bastard No More (The Galaderon Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-05-10 — Ep. 14: Trial by Combat (The Galaderon Saga) — speakers: Galaderon Castle, Emily Axford, Club Chatter, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-05-03 — Ep. 13: The City in the Clouds (The Galaderon Saga) — speakers: Emily Axford, Brian Murphy, Jake Hurwitz, Caldwell Tanner
-- 2018-04-26 — Ep. 12: The Watchman (The Road to Galaderon with Nathan Yaffe) — speakers: Nathan Yaffe, Kevin MacLeod, Piano Melody, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-04-19 — Ep. 11: Creator of Nightmares (The Ezry Chronicles with Adam Conover) — speakers: Adam Conover, Kevin MacLeod, Amadeusz Bartos, Howard Geisel, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-09-13 — Ep. 32: The Getaway (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-09-06 — Ep. 31: Walk the Plank (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-08-30 — Ep. 30: Smuggler's Bounty (The Cutthroat Chronicles with Siobhan Thompson) — speakers: Siobhan Thompson, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-08-23 — Ep. 29: Marabelle the Terrible (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-08-16 — Ep. 28: Monster Inside You (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-08-09 — Ep. 27: The Living Wood (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-08-03 — Ep. 26: The Creeping Fog (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-07-26 — Ep. 25: Into the Fire (Tales From the Crick) — speakers: Big Fire Daddy, Elemental Titans, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-07-19 — Ep. 24: Queen of the Sky (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-07-12 — Ep. 23: Titan of Earth (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-07-05 — Ep. 22: The Elemental Chaos (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-06-29 — Ep. 21: What's Amiss (Tales From the Crick) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-06-21 — Ep. 20: Fallen Heroes (The Galaderon Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-06-14 — Ep. 19: The Purge (The Galaderon Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-06-07 — Ep. 18: Strike True (The Galaderon Saga) — speakers: Strike True, White Rose, Galad Rosell, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-05-31 — Ep. 17: Jailbreak (The Galaderon Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-05-24 — Ep. 16: The Mad Dwarves of Old Cragwater (The Galaderon Saga) — speakers: Old Cragwater, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-05-17 — Ep. 15: A Bastard No More (The Galaderon Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-05-10 — Ep. 14: Trial by Combat (The Galaderon Saga) — speakers: Galaderon Castle, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-05-03 — Ep. 13: The City in the Clouds (The Galaderon Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-04-26 — Ep. 12: The Watchman (The Road to Galaderon with Nathan Yaffe) — speakers: Nathan Yaffe, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-04-19 — Ep. 11: Creator of Nightmares (The Ezry Chronicles with Adam Conover) — speakers: Adam Conover, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-04-12 — Ep. 10: Nemesis (The Ezry Chronicles with Adam Conover) — speakers: Adam Conover, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-04-05 — Ep. 9: The Green Knight and the Bounty Hunter (The Ezry Chronicles with Adam Conover) — speakers: Adam Conover, Adam Ruins Everything, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-03-29 — Ep. 8: The Moonstone Massacre (The Moonstone Saga) — speakers: Howard Geisel, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-03-22 — Ep. 7: Frog King's Revenge (The Moonstone Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-04-05 — Ep. 9: The Green Knight and the Bounty Hunter (The Ezry Chronicles with Adam Conover) — speakers: Adam Conover, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-03-29 — Ep. 8: The Moonstone Massacre (The Moonstone Saga) — speakers: Cracked Tooth Clan, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-03-22 — Ep. 7: Frog King's Revenge (The Moonstone Saga) — speakers: Frog King, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-03-15 — Ep. 6: Ambushed (The Moonstone Saga) — speakers: Green Teens, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-03-08 — Ep. 5: Dark Ritual (The Moonstone Saga) — speakers: Dark Ritual, Green Teens, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-03-01 — Ep. 4: Keep Creepers (The Moonstone Saga) — speakers: Catherine Zeta-Jones, Steve Irwin, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-03-01 — Ep. 4: Keep Creepers (The Moonstone Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-02-26 — BONUS EPISODE: The Hearthside Chats (Q&A) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2018-02-22 — Ep. 3: The Mating Habits of Bullywugs (The Moonstone Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-02-16 — Ep. 2: Into the Muck (The Moonstone Saga) — speakers: Scoutmaster Denny, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-02-09 — Ep. 1: Green Teens Gone (The Moonstone Saga) — speakers: Scoutmaster Denny, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
-- 2018-02-02 — Welcome to Not Another D&D Podcast! (Meet the Party) — speakers: Moonshine Cybin, Hardwon Surefoot, Beverly Toegold, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-02-16 — Ep. 2: Into the Muck (The Moonstone Saga) — speakers: off int, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-02-09 — Ep. 1: Green Teens Gone (The Moonstone Saga) — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
+- 2018-02-02 — Welcome to Not Another D&D Podcast! (Meet the Party) — speakers: Not Another, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner

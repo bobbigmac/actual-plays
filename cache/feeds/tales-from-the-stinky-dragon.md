@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Wed, 18 Feb 2026 08:00:00 GMT`
+- fetched_at: `2026-02-27T03:10:52+00:00`
+- checked_at: `2026-02-27T03:10:52+00:00`
+- last_modified: `Thu, 26 Feb 2026 23:43:48 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-27T03:10:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,14 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5588",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "prison",
@@ -63,11 +56,10 @@
       "enclosure_length": "0",
       "itunes_duration": "5798",
       "speakers": [
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais",
-        "Benjamin Ernst Learn"
+        "Tavern Tales",
+        "Infinights Interns",
+        "Chaos When",
+        "Infinight Interns"
       ],
       "topics": [
         "tales",
@@ -89,12 +81,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5806",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "No Guard Feelings Brutaleam"
       ],
       "topics": [
         "hyra",
@@ -114,13 +101,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5564",
       "speakers": [
-        "Skyblue Falls Prison",
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Skyblue Falls Prison"
       ],
       "topics": [
         "hyra",
@@ -140,14 +121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5260",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "return",
@@ -165,14 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5277",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "seventh",
@@ -191,14 +158,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5569",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "double",
@@ -239,12 +199,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5175",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Prove One",
+        "Fort Endridge",
+        "Boiling Bluffs"
       ],
       "topics": [
         "hyra",
@@ -263,14 +220,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5784",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "revelation"
@@ -287,14 +237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6357",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "wilder",
@@ -313,14 +256,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5294",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "hyra",
         "sorcerest",
@@ -339,12 +275,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5815",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Early Bird Gets",
+        "Vermustang Brutalitieam"
       ],
       "topics": [
         "hyra",
@@ -387,13 +319,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5676",
       "speakers": [
-        "Aunt Shanan",
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Aunt Shanan"
       ],
       "topics": [
         "hyra",
@@ -412,12 +338,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4997",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Sea Drinker"
       ],
       "topics": [
         "hyra",
@@ -436,12 +357,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6125",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Nonymo Money Nonymo Problems"
       ],
       "topics": [
         "brig",
@@ -463,12 +380,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4831",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Ancient Mistics"
       ],
       "topics": [
         "brig",
@@ -488,14 +401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5260",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "brig",
         "endridge",
@@ -515,12 +421,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6632",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Ship Brutaliteam"
       ],
       "topics": [
         "brig",
@@ -541,13 +443,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5915",
       "speakers": [
-        "Deep Blue Sea",
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Deep Blue Sea"
       ],
       "topics": [
         "brig",
@@ -570,12 +466,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5293",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay"
       ],
       "topics": [
         "brig",
@@ -594,14 +485,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5077",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "brig",
         "endridge",
@@ -621,12 +505,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5343",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Lost Hulls"
       ],
       "topics": [
         "brig",
@@ -647,12 +527,10 @@
       "enclosure_length": "0",
       "itunes_duration": "5519",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Lost Souls",
+        "Lost Hulls Brutaliteam",
+        "Cursed Catacombs"
       ],
       "topics": [
         "brig",
@@ -673,14 +551,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4903",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "brig",
         "endridge",
@@ -700,12 +571,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5668",
       "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Endridge Bay",
+        "Tall Pub Crawl Fall",
+        "Endridge Bay Support"
       ],
       "topics": [
         "brig",
@@ -726,14 +594,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6076",
-      "speakers": [
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
-      ],
+      "speakers": [],
       "topics": [
         "mission",
         "middrus",
@@ -753,13 +614,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6434",
       "speakers": [
-        "Preacher Reggie",
-        "Gus Sorola",
-        "Blaine Gibson",
-        "Barbara Dunkelman",
-        "Jon Risinger",
-        "Chris Demarais Writer",
-        "Benjamin Ernst Learn"
+        "Preacher Reggie"
       ],
       "topics": [
         "mission",
@@ -779,7 +634,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5342",
-      "speakers": [],
+      "speakers": [
+        "Mission Through Middrus",
+        "Mines Brutaliteam",
+        "Private Parts"
+      ],
       "topics": [
         "mission",
         "middrus",
@@ -876,7 +735,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4479",
       "speakers": [
-        "Stinky Pop where"
+        "Stinky Pop"
       ],
       "topics": [
         "stinky",
@@ -914,7 +773,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4839",
-      "speakers": [],
+      "speakers": [
+        "Mission Through Middrus",
+        "Steal Trap Brutaliteam",
+        "Courtege Crusa"
+      ],
       "topics": [
         "mission",
         "middrus",
@@ -993,12 +856,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2971",
       "speakers": [
-        "Nick Williams",
-        "George Primavera",
-        "Jasmine Bhullar",
-        "Jasper William Cartwright",
-        "Jasmine Chiong",
-        "Kirby Winslow Logo Art"
+        "Critical Role"
       ],
       "topics": [
         "feed",
@@ -1024,8 +882,7 @@
       "speakers": [
         "Mission Through Middrus",
         "Passing Out Brutaliteam",
-        "Boot Camp",
-        "Passing Out Parade"
+        "Boot Camp"
       ],
       "topics": [
         "mission",
@@ -1043,7 +900,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4486",
-      "speakers": [],
+      "speakers": [
+        "Mission Through Middrus",
+        "Zero Hour Welcome",
+        "Stinky Dragon"
+      ],
       "topics": [
         "mission",
         "middrus",
@@ -1088,8 +949,7 @@
       "itunes_duration": "6677",
       "speakers": [
         "Tavern Tales",
-        "Big Benny",
-        "Sky Blind Spire"
+        "Big Benny"
       ],
       "topics": [
         "tavern",
@@ -1847,7 +1707,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4510",
-      "speakers": [],
+      "speakers": [
+        "Karcasuuk Coup",
+        "Tales Using"
+      ],
       "topics": [
         "karcasuuk",
         "coup",
@@ -2400,11 +2263,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5879",
-      "speakers": [
-        "Benjamin Ernst",
-        "Paralyte Hannah McCarthy",
-        "Sorto Jack Pattillo"
-      ],
+      "speakers": [],
       "topics": [
         "infinale"
       ]
@@ -2436,12 +2295,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5569",
-      "speakers": [
-        "Hugh Manner Trevor Collins",
-        "Meld Manner Griff Milton",
-        "Marge Zoe",
-        "Paralyte Hannah McCarthy"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "dianasty",
@@ -2461,10 +2315,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4946",
-      "speakers": [
-        "Slujj Michael Jones",
-        "Inku Raquel Lily"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "dianasty",
@@ -2483,12 +2334,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3536",
-      "speakers": [
-        "Brink Tussler Eric Baudour",
-        "Paralyte Hannah McCarthy",
-        "Slujj Michael Jones",
-        "Inku Raquel Lily"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "dianasty",
@@ -2507,7 +2353,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5228",
-      "speakers": [],
+      "speakers": [
+        "Lost Dianasty",
+        "Here Today"
+      ],
       "topics": [
         "lost",
         "dianasty",
@@ -2548,9 +2397,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5088",
       "speakers": [
-        "Omar Finn Jacob Fullerton",
-        "Simsun Finn Blizzbear",
-        "Grislee Yssa Badiola"
+        "Lost Dianasty"
       ],
       "topics": [
         "lost",
@@ -2588,10 +2435,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5291",
       "speakers": [
-        "Inku Raquel Lily",
-        "Joe Lee",
-        "Omar Finn Jacob Fullerton",
-        "Simsun Finn Blizzbear"
+        "Shaddo Queen"
       ],
       "topics": [
         "life",
@@ -2612,15 +2456,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4017",
-      "speakers": [
-        "Inku Raquel Lily",
-        "Ben Ernst",
-        "Joe Lee",
-        "Elder Esdreem Quentin Smith",
-        "Elder Sheezu Ashley Dillard",
-        "Ashiko Mike Howard",
-        "Kylah Cooke"
-      ],
+      "speakers": [],
       "topics": [
         "life",
         "breath",
@@ -2658,10 +2494,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5204",
       "speakers": [
-        "Inku Raquel Lily",
-        "Brendan Carruthers",
-        "Elder Wanabe Stinky",
-        "Ben Ernst Elder"
+        "Inku Raquel"
       ],
       "topics": [
         "life",
@@ -2681,9 +2514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4312",
-      "speakers": [
-        "Raquel Lily"
-      ],
+      "speakers": [],
       "topics": [
         "life",
         "breath",
@@ -2856,8 +2687,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4004",
       "speakers": [
-        "self reflection",
-        "overbearing acquaintances"
+        "self reflection"
       ],
       "topics": [
         "betwixt",
@@ -3551,7 +3381,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4435",
-      "speakers": [],
+      "speakers": [
+        "Wight Winter",
+        "King Nyve"
+      ],
       "topics": [
         "wight",
         "winter",
@@ -3605,7 +3438,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4603",
-      "speakers": [],
+      "speakers": [
+        "Wight Winter",
+        "Snobeist Brawl After"
+      ],
       "topics": [
         "wight",
         "winter",
@@ -3852,7 +3688,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3990",
       "speakers": [
-        "swan song"
+        "Eleventh Hour",
+        "Glocken Tower"
       ],
       "topics": [
         "deja",
@@ -4043,7 +3880,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3360",
       "speakers": [
-        "Brink Tussler"
+        "Brink Tussler",
+        "Brink Tu"
       ],
       "topics": [
         "deja",
@@ -4062,7 +3900,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3505",
-      "speakers": [],
+      "speakers": [
+        "Double Euphardy Welcome"
+      ],
       "topics": [
         "deja",
         "double",
@@ -4100,8 +3940,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4383",
       "speakers": [
-        "Mother Abby",
-        "Sheriff Guv"
+        "Mother Abby"
       ],
       "topics": [
         "deja",
@@ -4141,9 +3980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4257",
-      "speakers": [
-        "Mother Abby"
-      ],
+      "speakers": [],
       "topics": [
         "infinight",
         "interns",
@@ -4161,9 +3998,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3897",
-      "speakers": [
-        "Mother Abby"
-      ],
+      "speakers": [],
       "topics": [
         "infinight",
         "interns",
@@ -4301,7 +4136,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "125",
-      "speakers": [],
+      "speakers": [
+        "Introducing Tales"
+      ],
       "topics": [
         "tales",
         "stinky",
@@ -4315,51 +4152,51 @@
 
 ## Episodes (newest first)
 
-- 2026-02-18 — C03 - Ep. 37 - From On Hyra - Prison Break-In — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2026-02-11 — [Tavern Tales] Infinights Interns and the Rules of Chaos — speakers: Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais, Benjamin Ernst Learn
-- 2026-02-04 — C03 - Ep. 36 - From On Hyra - No Guard Feelings — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2026-01-21 — C03 - Ep. 35 - From On Hyra - Plunges, Plans, and Passing Gas — speakers: Skyblue Falls Prison, Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2026-01-07 — C03 - Ep. 34 - From On Hyra - Return of the Bling — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-12-24 — C03 - Ep. 33 - From On Hyra - Seventh Inning Dretch — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-12-10 — C03 - Ep. 32 - From On Hyra - Double Trouble, Oil and Bubbles — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
+- 2026-02-18 — C03 - Ep. 37 - From On Hyra - Prison Break-In
+- 2026-02-11 — [Tavern Tales] Infinights Interns and the Rules of Chaos — speakers: Tavern Tales, Infinights Interns, Chaos When, Infinight Interns
+- 2026-02-04 — C03 - Ep. 36 - From On Hyra - No Guard Feelings — speakers: No Guard Feelings Brutaleam
+- 2026-01-21 — C03 - Ep. 35 - From On Hyra - Plunges, Plans, and Passing Gas — speakers: Skyblue Falls Prison
+- 2026-01-07 — C03 - Ep. 34 - From On Hyra - Return of the Bling
+- 2025-12-24 — C03 - Ep. 33 - From On Hyra - Seventh Inning Dretch
+- 2025-12-10 — C03 - Ep. 32 - From On Hyra - Double Trouble, Oil and Bubbles
 - 2025-12-03 — [Tavern Tales] Mealwalkers and the Crystal Shards - Ep 00 - Shuffle Off this Portal Coil
-- 2025-11-26 — C03 - Ep. 31 - From On Hyra - Prove One’s Metal — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-11-12 — C03 - Ep. 30 - From On Hyra - Revelation of Renéesús — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-10-29 — C03 - Ep. 29 - From On Hyra - Wilder Flower Power — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-10-15 — C03 - Ep. 28 - From On Hyra - No Sorcerest for the Weary — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-10-01 — C03 - Ep. 27 - From On Hyra -Early Bird Gets the Vermustang — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
+- 2025-11-26 — C03 - Ep. 31 - From On Hyra - Prove One’s Metal — speakers: Prove One, Fort Endridge, Boiling Bluffs
+- 2025-11-12 — C03 - Ep. 30 - From On Hyra - Revelation of Renéesús
+- 2025-10-29 — C03 - Ep. 29 - From On Hyra - Wilder Flower Power
+- 2025-10-15 — C03 - Ep. 28 - From On Hyra - No Sorcerest for the Weary
+- 2025-10-01 — C03 - Ep. 27 - From On Hyra -Early Bird Gets the Vermustang — speakers: Early Bird Gets, Vermustang Brutalitieam
 - 2025-09-24 — Tavern Tales - Infantnights: Part One - The Quarter-Pint Quest — speakers: Tavern Tales Infantnights
-- 2025-09-17 — C03 - Ep. 26 - From On Hyra - Up to Shananigans — speakers: Aunt Shanan, Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-09-03 — C03 - Ep. 25 - From On Hyra - Sea Drinker? I Hardly Know Her! — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-08-20 — C03 - Ep. 24 - Brig of Endridge Bay - Nonymo Money Nonymo Problems — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-08-06 — C03 - Ep. 23 - Brig of Endridge Bay - Ancient Mistics — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-07-23 — C03 - Ep. 22 - Brig of Endridge Bay - The Great Mistery — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-07-09 — C03 - Ep. 21 - Brig of Endridge Bay - Slip of the Ship — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-06-25 — C03 - Ep. 20 - Brig of Endridge Bay - Tween the Devil and Deep Blue Sea — speakers: Deep Blue Sea, Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-06-11 — C03 - Ep. 19 - Brig of Endridge Bay - Bjorn and Raised — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-05-28 — C03 - Ep. 18 - Brig of Endridge Bay - Pvt. Conversation with The Privateer — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-05-14 — C03 - Ep. 17 - Brig of Endridge Bay - Docked and Loaded — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-04-30 — C03 - Ep. 16 - Brig of Endridge Bay - Lost Souls & Lost Hulls — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-04-16 — C03 - Ep. 15 - Brig of Endridge Bay - Old Faces, New Faces, Dead Faces — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-04-02 — C03 - Ep. 14 - Brig of Endridge Bay - Tall Pub Crawl Fall — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-03-19 — C03 - Ep. 13 - Mission Through Middrus - Weekend at Baronie’s — speakers: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-03-05 — C03 - Ep. 12 - Mission Through Middrus - Win-Wind Deal — speakers: Preacher Reggie, Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer, Benjamin Ernst Learn
-- 2025-02-19 — C03 - Ep. 11 - Mission Through Middrus - As Good as Mines
+- 2025-09-17 — C03 - Ep. 26 - From On Hyra - Up to Shananigans — speakers: Aunt Shanan
+- 2025-09-03 — C03 - Ep. 25 - From On Hyra - Sea Drinker? I Hardly Know Her! — speakers: Sea Drinker
+- 2025-08-20 — C03 - Ep. 24 - Brig of Endridge Bay - Nonymo Money Nonymo Problems — speakers: Endridge Bay, Nonymo Money Nonymo Problems
+- 2025-08-06 — C03 - Ep. 23 - Brig of Endridge Bay - Ancient Mistics — speakers: Endridge Bay, Ancient Mistics
+- 2025-07-23 — C03 - Ep. 22 - Brig of Endridge Bay - The Great Mistery
+- 2025-07-09 — C03 - Ep. 21 - Brig of Endridge Bay - Slip of the Ship — speakers: Endridge Bay, Ship Brutaliteam
+- 2025-06-25 — C03 - Ep. 20 - Brig of Endridge Bay - Tween the Devil and Deep Blue Sea — speakers: Deep Blue Sea
+- 2025-06-11 — C03 - Ep. 19 - Brig of Endridge Bay - Bjorn and Raised — speakers: Endridge Bay
+- 2025-05-28 — C03 - Ep. 18 - Brig of Endridge Bay - Pvt. Conversation with The Privateer
+- 2025-05-14 — C03 - Ep. 17 - Brig of Endridge Bay - Docked and Loaded — speakers: Endridge Bay, Lost Hulls
+- 2025-04-30 — C03 - Ep. 16 - Brig of Endridge Bay - Lost Souls & Lost Hulls — speakers: Endridge Bay, Lost Souls, Lost Hulls Brutaliteam, Cursed Catacombs
+- 2025-04-16 — C03 - Ep. 15 - Brig of Endridge Bay - Old Faces, New Faces, Dead Faces
+- 2025-04-02 — C03 - Ep. 14 - Brig of Endridge Bay - Tall Pub Crawl Fall — speakers: Endridge Bay, Tall Pub Crawl Fall, Endridge Bay Support
+- 2025-03-19 — C03 - Ep. 13 - Mission Through Middrus - Weekend at Baronie’s
+- 2025-03-05 — C03 - Ep. 12 - Mission Through Middrus - Win-Wind Deal — speakers: Preacher Reggie
+- 2025-02-19 — C03 - Ep. 11 - Mission Through Middrus - As Good as Mines — speakers: Mission Through Middrus, Mines Brutaliteam, Private Parts
 - 2025-02-05 — C03 - Ep. 10 - Mission Through Middrus - Don't Axe, Don't Tell
 - 2025-01-22 — C03 - Ep. 09 - Mission Through Middrus - Garden Variety Grilp — speakers: grumpy gardeners
 - 2025-01-08 — C03 - Ep. 08 - Mission Through Middrus - The West is Yet to Come — speakers: Mission Through Middrus, Come Brutaliteam
 - 2024-12-25 — C03 - Ep. 07 - Mission Through Middrus - Left Holding the JAG
-- 2024-12-18 — [BONUS] Stinky Pop: Christmas Special — speakers: Stinky Pop where
+- 2024-12-18 — [BONUS] Stinky Pop: Christmas Special — speakers: Stinky Pop
 - 2024-12-11 — C03 - Ep. 06 - Mission Through Middrus - Long Armory of the Law
-- 2024-11-27 — C03 - Ep. 05 - Mission Through Middrus - Mined like a Steal Trap
+- 2024-11-27 — C03 - Ep. 05 - Mission Through Middrus - Mined like a Steal Trap — speakers: Mission Through Middrus, Steal Trap Brutaliteam, Courtege Crusa
 - 2024-11-13 — C03 - Ep. 04 - Mission Through Middrus - Courtége is Now in Session
 - 2024-11-05 — Stinky Pop: Election Day Bonus Episode! — speakers: Stinky Pop
 - 2024-10-30 — C03 - Ep. 03 - Mission Through Middrus - Liar, Liar, Fort’s on Fire — speakers: daemongrel hounds
-- 2024-10-23 — FEED DROP: Introducing The Re-Slayer’s Take! Critical Role’s new, all ages, actual play podcast — speakers: Nick Williams, George Primavera, Jasmine Bhullar, Jasper William Cartwright, Jasmine Chiong, Kirby Winslow Logo Art
-- 2024-10-16 — C03 - Ep. 02 - Mission Through Middrus - Passing Out — speakers: Mission Through Middrus, Passing Out Brutaliteam, Boot Camp, Passing Out Parade
-- 2024-10-02 — C03 - Ep. 01 - Mission Through Middrus - Zero Hour
+- 2024-10-23 — FEED DROP: Introducing The Re-Slayer’s Take! Critical Role’s new, all ages, actual play podcast — speakers: Critical Role
+- 2024-10-16 — C03 - Ep. 02 - Mission Through Middrus - Passing Out — speakers: Mission Through Middrus, Passing Out Brutaliteam, Boot Camp
+- 2024-10-02 — C03 - Ep. 01 - Mission Through Middrus - Zero Hour — speakers: Mission Through Middrus, Zero Hour Welcome, Stinky Dragon
 - 2024-09-17 — Tavern Tales - Maze Rat Pack Ep. 02 - The Sky Blind Spire Part 2 — speakers: Tavern Tales, Sky Blind Spire
-- 2024-09-10 — Tavern Tales - Maze Rat Pack Ep. 01 - The Sky Blind Spire Part 1 — speakers: Tavern Tales, Big Benny, Sky Blind Spire
+- 2024-09-10 — Tavern Tales - Maze Rat Pack Ep. 01 - The Sky Blind Spire Part 1 — speakers: Tavern Tales, Big Benny
 - 2024-08-27 — C02 - Grotethe Campaign Wrap Up
 - 2024-08-13 — C02 - Ep. 50 - Finale in Faunaloch - Unloching A Secret
 - 2024-07-28 — C02 - Ep. 49 - Finale in Faunaloch - Messy, Confessy, Blessy And Nessie — speakers: Grotethe Gang
@@ -4399,7 +4236,7 @@
 - 2023-10-10 — C02 - Ep. 22 - Gems of Glrrb - Honest Maze Work
 - 2023-10-03 — C02 - Ep. 21 - Gems of Glrrb - Swept Under The Slug
 - 2023-09-26 — C02 - Ep. 20 - Gems of Glrrb - Blrrble Grrble Glrrb
-- 2023-09-19 — C02 - Ep. 19.5 - Karcasuuk Coup - Between the Tales
+- 2023-09-19 — C02 - Ep. 19.5 - Karcasuuk Coup - Between the Tales — speakers: Karcasuuk Coup, Tales Using
 - 2023-09-13 — C02 - Ep. 19 - Karcasuuk Coup - Sphoenix From The Ashes — speakers: Mish Nomer, Pharaoh H’Dee
 - 2023-09-06 — C02 - Ep. 18 - Karcasuuk Coup - ... Delightful Assassins, Grifters, and Rogues! — speakers: Delightful Assassins
 - 2023-08-30 — C02 - Ep. 17 - Karcasuuk Coup - Cloak and ... — speakers: Karcasuuk Coup
@@ -4427,20 +4264,20 @@
 - 2023-03-29 — Tavern Tales - The Chosen One(s) Ep. 02 - A Good Heist is Key
 - 2023-03-22 — Tavern Tales - The Chosen One(s) Ep. 01- Will They Choose To Save The World? — speakers: Tavern Tales
 - 2023-03-15 — C01 - Ep. 87 - Infinight Campaign Wrap Up — speakers: Infinight Campaign Wrap Up, Infinight Campaign
-- 2023-03-08 — C01 - Ep. 86 - The Infinale Part 2 — speakers: Benjamin Ernst, Paralyte Hannah McCarthy, Sorto Jack Pattillo
+- 2023-03-08 — C01 - Ep. 86 - The Infinale Part 2
 - 2023-03-01 — C01 - Ep. 85 - The Infinale Part 1
-- 2023-02-22 — C01 - Ep. 84 - Lost Dianasty - Ethereal Plan of Action — speakers: Hugh Manner Trevor Collins, Meld Manner Griff Milton, Marge Zoe, Paralyte Hannah McCarthy
-- 2023-02-15 — C01 - Ep. 83 - Lost Dianasty - Infinights vs. Tetragogues — speakers: Slujj Michael Jones, Inku Raquel Lily
-- 2023-02-08 — C01 - Ep. 82 - Lost Dianasty - Brink of Disaster — speakers: Brink Tussler Eric Baudour, Paralyte Hannah McCarthy, Slujj Michael Jones, Inku Raquel Lily
-- 2023-02-01 — C01 - Ep. 81 - Lost Dianasty - Here Today, Gone to Morrow
+- 2023-02-22 — C01 - Ep. 84 - Lost Dianasty - Ethereal Plan of Action
+- 2023-02-15 — C01 - Ep. 83 - Lost Dianasty - Infinights vs. Tetragogues
+- 2023-02-08 — C01 - Ep. 82 - Lost Dianasty - Brink of Disaster
+- 2023-02-01 — C01 - Ep. 81 - Lost Dianasty - Here Today, Gone to Morrow — speakers: Lost Dianasty, Here Today
 - 2023-01-25 — C01 - Ep. 80 - Lost Dianasty - Fruits Of Lae-Bahoor — speakers: Embrioak Woods
-- 2023-01-18 — C01 - Ep. 79 - Lost Dianasty - Who’s Your Daddy? — speakers: Omar Finn Jacob Fullerton, Simsun Finn Blizzbear, Grislee Yssa Badiola
+- 2023-01-18 — C01 - Ep. 79 - Lost Dianasty - Who’s Your Daddy? — speakers: Lost Dianasty
 - 2023-01-11 — C01 - Ep. 78.5 - Of Life & Breath - Between The Tales
-- 2023-01-04 — C01 - Ep. 78 - Of Life & Breath - The Quarterling Vs. The Shaddo Queen — speakers: Inku Raquel Lily, Joe Lee, Omar Finn Jacob Fullerton, Simsun Finn Blizzbear
-- 2022-12-28 — C01 - Ep. 77 - Of Life & Breath - Half And Halfling — speakers: Inku Raquel Lily, Ben Ernst, Joe Lee, Elder Esdreem Quentin Smith, Elder Sheezu Ashley Dillard, Ashiko Mike Howard, Kylah Cooke
+- 2023-01-04 — C01 - Ep. 78 - Of Life & Breath - The Quarterling Vs. The Shaddo Queen — speakers: Shaddo Queen
+- 2022-12-28 — C01 - Ep. 77 - Of Life & Breath - Half And Halfling
 - 2022-12-21 — C01 - Ep. 76 - Of Life & Breath - With Barted Breath
-- 2022-12-14 — C01 - Ep. 75 - Of Life & Breath - Curmudgeons & Dragons — speakers: Inku Raquel Lily, Brendan Carruthers, Elder Wanabe Stinky, Ben Ernst Elder
-- 2022-12-07 — C01 - Ep. 74 - Of Life & Breath - Win, Lose, or Shaddrow — speakers: Raquel Lily
+- 2022-12-14 — C01 - Ep. 75 - Of Life & Breath - Curmudgeons & Dragons — speakers: Inku Raquel
+- 2022-12-07 — C01 - Ep. 74 - Of Life & Breath - Win, Lose, or Shaddrow
 - 2022-11-30 — C01 - Ep. 73 - Of Life & Breath - Naval-Gazing
 - 2022-11-23 — C01 - Ep. 72 - Of Life & Breath - Young at Bart
 - 2022-11-16 — [One Shot] Tomb of the Staremaster - LIVE @ RTX 2022 — speakers: One Shot, Infinight Tale
@@ -4449,7 +4286,7 @@
 - 2022-10-26 — C01 - Ep. 70 - Betwixt The Bramblecracks - Slujj the Monopol-Ooze
 - 2022-10-19 — C01 - Ep. 69 - Betwixt The Bramblecracks - Great Balls Of Briar
 - 2022-10-12 — C01 - Ep. 68 - Betwixt The Bramblecracks - Ignorance is Amphibellis
-- 2022-10-05 — C01 - Ep. 67 - Betwixt The Bramblecracks - Algerock And Roll — speakers: self reflection, overbearing acquaintances
+- 2022-10-05 — C01 - Ep. 67 - Betwixt The Bramblecracks - Algerock And Roll — speakers: self reflection
 - 2022-09-28 — C01 - Ep. 66 - Betwixt The Bramblecracks - Moorbane Than Meets the Eye — speakers: Shaman Suess
 - 2022-09-21 — C01 - Ep. 65 - Betwixt The Bramblecracks - Slime Spree
 - 2022-09-14 — C01 - Ep. 64 - Betwixt The Bramblecracks - Own Flesh & Mudd — speakers: Own Flesh, Mudd Mudd
@@ -4485,10 +4322,10 @@
 - 2022-02-16 — C01 - Ep. 37.5 - Wight Winter - Between The Tales — speakers: Wight Winter, Wight Winter Arc
 - 2022-02-09 — C01 - Ep. 37 - Wight Winter - Revenge of the Wraith
 - 2022-02-02 — C01 - Ep. 36 - Wight Winter - Ep. Royal Battle Royale — speakers: Wight Winter
-- 2022-01-26 — C01 - Ep. 35 - Wight Winter - Simply Divine
+- 2022-01-26 — C01 - Ep. 35 - Wight Winter - Simply Divine — speakers: Wight Winter, King Nyve
 - 2022-01-19 — C01 - Ep. 34 - Wight Winter - The Prestidigitation Party
 - 2022-01-12 — [One Shot] Dr. Ahem's Lab - LIVE @ RTX 2021
-- 2022-01-05 — C01 - Ep. 33 - Wight Winter - Snobeist Brawl
+- 2022-01-05 — C01 - Ep. 33 - Wight Winter - Snobeist Brawl — speakers: Wight Winter, Snobeist Brawl After
 - 2021-12-29 — C01 - Ep. 32 - Wight Winter - Prison Breaks and Prizes — speakers: Wight Winter, Prison Breaks, Prizes Time
 - 2021-12-22 — C01 - Ep. 31 - Wight Winter - Nail ’em, Jail ’em, Pale ’em — speakers: Pale em Caught
 - 2021-12-15 — C01 - Ep. 30 - Wight Winter - A Spectril Analysis — speakers: Wight Winter
@@ -4500,7 +4337,7 @@
 - 2021-11-03 — C01 - Ep. 24 - Wight Winter -3 Weeks Later...
 - 2021-10-27 — C01 - Ep. 23.5 - Deja Ürbloom - Between the Tales
 - 2021-10-20 — C01 - Ep. 23 - Deja Ürbloom - Slique’s Symphonic Showdown
-- 2021-10-13 — C01 - Ep. 22 - Deja Ürbloom - Eleventh Hour at the Tower — speakers: swan song
+- 2021-10-13 — C01 - Ep. 22 - Deja Ürbloom - Eleventh Hour at the Tower — speakers: Eleventh Hour, Glocken Tower
 - 2021-10-06 — C01 - Ep. 21 - Deja Ürbloom - Run-of-the-Mill Heist — speakers: Loggen Mill
 - 2021-09-29 — C01 - Ep. 20 - Deja Ürbloom - Hugh Better Watch Out
 - 2021-09-22 — C01 - Ep. 19 - Deja Ürbloom - Up River Without a Skill
@@ -4510,17 +4347,17 @@
 - 2021-08-24 — C01 - Ep. 15 - Deja Ürbloom - Came in like a T-Wrecking Ball
 - 2021-08-17 — C01 - Ep. 14 - Deja Ürbloom - Strike While the Eironhoff is Hot — speakers: Strike While
 - 2021-08-10 — C01 - Ep. 13 - Deja Ürbloom - A Fine Howie Do You Do
-- 2021-08-03 — C01 - Ep. 12 - Deja Ürbloom - A Brinkle in Time — speakers: Brink Tussler
-- 2021-07-27 — C01 - Ep. 11 - Deja Ürbloom - Double Euphardy
+- 2021-08-03 — C01 - Ep. 12 - Deja Ürbloom - A Brinkle in Time — speakers: Brink Tussler, Brink Tu
+- 2021-07-27 — C01 - Ep. 11 - Deja Ürbloom - Double Euphardy — speakers: Double Euphardy Welcome
 - 2021-07-20 — C01 - Ep. 10 - Deja Ürbloom - Fortunes, Forests & Faith Pt. 2
-- 2021-07-13 — C01 - Ep. 09 - Deja Ürbloom - Fortunes, Forests & Faith Pt. 1 — speakers: Mother Abby, Sheriff Guv
+- 2021-07-13 — C01 - Ep. 09 - Deja Ürbloom - Fortunes, Forests & Faith Pt. 1 — speakers: Mother Abby
 - 2021-06-29 — C01 - Ep. 08.5 - Infinight Interns - Between the Tales — speakers: Infinight Interns Between
-- 2021-06-22 — C01 - Ep. 08 - Infinight Interns - Pyous Pass Pt. 3 — speakers: Mother Abby
-- 2021-06-15 — C01 - Ep. 07 - Infinight Interns - Pyous Pass Pt. 2 — speakers: Mother Abby
+- 2021-06-22 — C01 - Ep. 08 - Infinight Interns - Pyous Pass Pt. 3
+- 2021-06-15 — C01 - Ep. 07 - Infinight Interns - Pyous Pass Pt. 2
 - 2021-06-08 — C01 - Ep. 06 - Infinight Interns - Pyous Pass Pt. 1
 - 2021-06-01 — C01 - Ep. 05 - Infinight Interns - Taverns, Tomes & Training
 - 2021-05-25 — C01 - Ep. 04 - Infinight Interns - The Search for Dr. Ahem Pt. 3 — speakers: Ahem Pt
 - 2021-05-18 — C01 - Ep. 03 - Infinight Interns - The Search for Dr. Ahem Pt. 2 — speakers: Ahem Pt, Infinight Interns
 - 2021-05-11 — C01 - Ep. 02 - Infinight Interns - The Search for Dr. Ahem Pt. 1 — speakers: Ahem Pt
 - 2021-05-04 — C01 - Ep. 01 - Infinight Interns - Welcome to Boulderay
-- 2021-04-19 — Introducing Tales from the Stinky Dragon
+- 2021-04-19 — Introducing Tales from the Stinky Dragon — speakers: Introducing Tales
