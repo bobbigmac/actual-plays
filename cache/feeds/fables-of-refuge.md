@@ -2,9 +2,9 @@
 
 - slug: `fables-of-refuge`
 - source: `https://fablesofrefuge.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `W/"61fe3-VEJxQr0AGWak93ETdFjMDUJO33k"`
+- fetched_at: `2026-02-27T07:14:45+00:00`
+- checked_at: `2026-02-27T07:14:45+00:00`
+- etag: `W/"61fe3-N9LkGG5T8TObnMC30C6D15Ibjew"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.patreon.com/FablesD20",
   "description": "A story made in our collective imagination, in a world of Jarrett Sullivan's creation. The first actual-play series produced by FablesD20.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1131005/1131005-1689437151174-55eb860d252f1.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-02-27T07:14:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,10 +36,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107497012",
       "itunes_duration": "01:51:58",
-      "speakers": [
-        "Fables Sponsors Tabletop",
-        "Clara Efferin"
-      ],
+      "speakers": [],
       "topics": [
         "town",
         "demon",
@@ -58,10 +55,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105576907",
       "itunes_duration": "01:49:58",
-      "speakers": [
-        "Fables Sponsors Tabletop",
-        "Clara Efferin"
-      ],
+      "speakers": [],
       "topics": [
         "undead",
         "fables",
@@ -80,9 +74,7 @@
       "enclosure_length": "111484341",
       "itunes_duration": "01:56:07",
       "speakers": [
-        "Baby Beholder Battle",
-        "Fables Sponsors Tabletop",
-        "Clara Efferin"
+        "Baby Beholder Battle"
       ],
       "topics": [
         "baby",
@@ -103,12 +95,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142593044",
       "itunes_duration": "02:28:32",
-      "speakers": [
-        "YouTube Premiere",
-        "Reaper Miniatures",
-        "Wizard Works Clear",
-        "claraefferin com"
-      ],
+      "speakers": [],
       "topics": [
         "necromancer",
         "horse",
@@ -127,13 +114,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106610102",
       "itunes_duration": "01:51:03",
-      "speakers": [
-        "YouTube Premiere",
-        "Reaper Miniatures",
-        "Wizard Works",
-        "Character Artist",
-        "claraefferin com"
-      ],
+      "speakers": [],
       "topics": [
         "monsters",
         "fables",
@@ -151,13 +132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164276767",
       "itunes_duration": "02:51:07",
-      "speakers": [
-        "YouTube Premiere",
-        "Fables Affiliate",
-        "Reaper Miniatures",
-        "Wizard Works Clear",
-        "claraefferin com"
-      ],
+      "speakers": [],
       "topics": [
         "prince",
         "lies",
@@ -176,11 +151,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102084022",
       "itunes_duration": "01:46:20",
-      "speakers": [
-        "insta Aly",
-        "insta Lora",
-        "Brian Metolius"
-      ],
+      "speakers": [],
       "topics": [
         "devil",
         "hunt",
@@ -200,12 +171,8 @@
       "enclosure_length": "109379918",
       "itunes_duration": "01:53:56",
       "speakers": [
-        "Reaper Miniatures",
-        "Sketch Goblin",
-        "Jarrett Sullivan",
-        "Jedi Master",
-        "instagram com",
-        "David Greene"
+        "Heist Gone Wrong",
+        "Kid Friendly"
       ],
       "topics": [
         "heist",
@@ -226,14 +193,8 @@
       "enclosure_length": "91987382",
       "itunes_duration": "01:35:49",
       "speakers": [
-        "YouTube Premiere",
-        "Fables Affiliate",
-        "Reaper Miniatures",
-        "Jarrett Sullivan",
-        "Jedi Master",
-        "Jess Ayers",
-        "David Greene",
-        "Aly Fitzgerald"
+        "Kid Friendly",
+        "Motley Scoundrels"
       ],
       "topics": [
         "star",
@@ -252,11 +213,7 @@
       "enclosure_length": "132375405",
       "itunes_duration": "02:37:35",
       "speakers": [
-        "Souls Lost",
-        "FablesD Twitter",
-        "insta Aly",
-        "insta Lora",
-        "Brian Metolius"
+        "Souls Lost"
       ],
       "topics": [
         "souls",
@@ -275,16 +232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97962788",
       "itunes_duration": "01:56:37",
-      "speakers": [
-        "Merch Store",
-        "FablesD Twitter",
-        "insta Aly",
-        "insta Lora",
-        "Brian Metolius",
-        "Richard Jones",
-        "John Price",
-        "Adam Bailey"
-      ],
+      "speakers": [],
       "topics": [
         "scallywags",
         "sacrifice"
@@ -301,16 +249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125626880",
       "itunes_duration": "02:29:33",
-      "speakers": [
-        "Merch Store",
-        "insta Aly",
-        "insta Lora",
-        "Brian Metolius",
-        "Richard Jones",
-        "John Price",
-        "Adam Bailey",
-        "Laurent Dupuis"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "heart"
@@ -327,16 +266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94144000",
       "itunes_duration": "01:52:04",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "fleet",
         "fear",
@@ -354,16 +284,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95135085",
       "itunes_duration": "01:53:15",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "hallucinations",
         "high",
@@ -381,16 +302,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72814811",
       "itunes_duration": "01:26:40",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "ancient",
         "temple",
@@ -410,16 +322,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "98913645",
       "itunes_duration": "01:57:45",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "survivor"
       ]
@@ -435,16 +338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102306743",
       "itunes_duration": "02:01:47",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "water",
         "friends",
@@ -463,16 +357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "96455314",
       "itunes_duration": "01:54:49",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "crime"
       ]
@@ -488,16 +373,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109851428",
       "itunes_duration": "02:10:46",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "favor",
         "crime",
@@ -515,16 +391,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109902994",
       "itunes_duration": "02:10:50",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "shandri",
         "joins",
@@ -542,16 +409,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78599315",
       "itunes_duration": "02:10:59",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "prince",
         "party"
@@ -568,16 +426,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77576098",
       "itunes_duration": "02:09:17",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "salt",
         "massage"
@@ -594,16 +443,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87103739",
       "itunes_duration": "02:00:58",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "people",
         "salty"
@@ -620,16 +460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84250540",
       "itunes_duration": "01:57:00",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "cultists",
         "crime"
@@ -646,16 +477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79556180",
       "itunes_duration": "02:12:35",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "letters",
         "lies"
@@ -672,16 +494,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61359124",
       "itunes_duration": "02:07:49",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "intrusion",
         "otherworldly",
@@ -699,16 +512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87180539",
       "itunes_duration": "02:25:17",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "nightmare"
       ]
@@ -724,16 +528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74952882",
       "itunes_duration": "02:04:55",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "vision",
         "salt"
@@ -751,11 +546,7 @@
       "enclosure_length": "79917140",
       "itunes_duration": "01:50:59",
       "speakers": [
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora",
-        "Brian Metolius"
+        "Jarrett Sullivan"
       ],
       "topics": [
         "content",
@@ -775,16 +566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110906148",
       "itunes_duration": "02:12:01",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "danger",
         "grip"
@@ -801,16 +583,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90043768",
       "itunes_duration": "02:05:03",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "trouble"
       ]
@@ -826,16 +599,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104929280",
       "itunes_duration": "02:04:54",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "royal",
@@ -853,16 +617,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89852552",
       "itunes_duration": "02:04:47",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "clay",
         "company"
@@ -879,16 +634,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70086792",
       "itunes_duration": "01:56:48",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "measure",
         "goblin"
@@ -905,16 +651,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76865045",
       "itunes_duration": "02:08:06",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "bandits",
         "bard"
@@ -931,16 +668,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138032797",
       "itunes_duration": "03:11:42",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "behold",
         "christmas",
@@ -958,16 +686,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71865470",
       "itunes_duration": "01:59:46",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "brigands",
         "barmaids"
@@ -984,16 +703,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76645355",
       "itunes_duration": "02:07:44",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "carpenter",
         "clergy"
@@ -1010,16 +720,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112438962",
       "itunes_duration": "02:36:09",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "farm",
         "razed",
@@ -1037,16 +738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86210665",
       "itunes_duration": "01:59:44",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "soul",
@@ -1065,16 +757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73724082",
       "itunes_duration": "02:02:52",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "return",
         "loah",
@@ -1092,16 +775,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77325061",
       "itunes_duration": "02:08:52",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "death",
         "reflection"
@@ -1118,16 +792,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91989786",
       "itunes_duration": "02:07:45",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "paths",
         "frost"
@@ -1144,16 +809,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71402057",
       "itunes_duration": "01:59:00",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "demon",
         "detail"
@@ -1170,16 +826,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71774041",
       "itunes_duration": "01:59:37",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "waves",
         "grass"
@@ -1196,16 +843,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71550694",
       "itunes_duration": "01:59:14",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "trials",
         "maskless"
@@ -1222,16 +860,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62074671",
       "itunes_duration": "02:09:19",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "gnomes",
         "panthers",
@@ -1249,16 +878,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67448686",
       "itunes_duration": "01:52:24",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "trees",
         "pipe"
@@ -1275,16 +895,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "156739396",
       "itunes_duration": "03:37:41",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "death"
       ]
@@ -1300,16 +911,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111910923",
       "itunes_duration": "03:06:31",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "cold"
       ]
@@ -1325,16 +927,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113270596",
       "itunes_duration": "03:08:46",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "battle",
         "cold"
@@ -1351,16 +944,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144310021",
       "itunes_duration": "03:20:25",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "cursed",
         "canyon"
@@ -1377,16 +961,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139848098",
       "itunes_duration": "03:14:13",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "holiday",
         "havoc"
@@ -1403,16 +978,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116429740",
       "itunes_duration": "02:41:42",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "tortoise",
         "hunter"
@@ -1429,16 +995,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "146156669",
       "itunes_duration": "03:22:59",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "curse"
       ]
@@ -1454,16 +1011,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119248719",
       "itunes_duration": "03:18:44",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "pumpkin",
         "spice",
@@ -1481,16 +1029,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134576797",
       "itunes_duration": "03:06:54",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "twins"
       ]
@@ -1507,14 +1046,7 @@
       "enclosure_length": "167189211",
       "itunes_duration": "03:52:12",
       "speakers": [
-        "Goblins Attack",
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly"
+        "Goblins Attack"
       ],
       "topics": [
         "goblins",
@@ -1532,16 +1064,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148074423",
       "itunes_duration": "02:56:16",
-      "speakers": [
-        "Jess Ayers",
-        "Aly Fitzgerald",
-        "Lora Dailey",
-        "David Carmichael",
-        "Jarrett Sullivan",
-        "Merch Store",
-        "insta Aly",
-        "insta Lora"
-      ],
+      "speakers": [],
       "topics": [
         "year"
       ]
@@ -1553,62 +1076,62 @@
 
 ## Episodes (newest first)
 
-- 2023-05-26 — C1 Ep. 56 | Save the Town from Demons! | Fables of Refuge — speakers: Fables Sponsors Tabletop, Clara Efferin
-- 2023-05-24 — C1 Ep. 55 | Speak to Undead | Fables of Refuge — speakers: Fables Sponsors Tabletop, Clara Efferin
-- 2023-05-22 — C1 Ep. 54 | Baby Beholder Battle | Fables of Refuge — speakers: Baby Beholder Battle, Fables Sponsors Tabletop, Clara Efferin
-- 2023-04-30 — C1 Ep. 53 | Necromancer Needs a Horse | Fables of Refuge — speakers: YouTube Premiere, Reaper Miniatures, Wizard Works Clear, claraefferin com
-- 2023-04-11 — C1 Ep. 52 | How to Talk to Monsters | Fables of Refuge — speakers: YouTube Premiere, Reaper Miniatures, Wizard Works, Character Artist, claraefferin com
-- 2023-02-10 — C1 Ep. 51 | Prince of Lies | Fables of Refuge — speakers: YouTube Premiere, Fables Affiliate, Reaper Miniatures, Wizard Works Clear, claraefferin com
-- 2023-02-01 — C1 Ep. 50 | The Devil's Hunt | Fables of Refuge — speakers: insta Aly, insta Lora, Brian Metolius
-- 2022-12-21 — E2/2 Heist Gone Wrong! | STAR WARS 5e (Kid Friendly) — speakers: Reaper Miniatures, Sketch Goblin, Jarrett Sullivan, Jedi Master, instagram com, David Greene
-- 2022-12-20 — E1/2 "I Can't Let You Do That!" | STAR WARS 5e (Kid Friendly) — speakers: YouTube Premiere, Fables Affiliate, Reaper Miniatures, Jarrett Sullivan, Jedi Master, Jess Ayers, David Greene, Aly Fitzgerald
-- 2022-05-12 — C1 Ep. 49 | Souls Lost, Souls Found — speakers: Souls Lost, FablesD Twitter, insta Aly, insta Lora, Brian Metolius
-- 2022-01-08 — C1 Ep. 48 | Scallywags & Sacrifice — speakers: Merch Store, FablesD Twitter, insta Aly, insta Lora, Brian Metolius, Richard Jones, John Price, Adam Bailey
-- 2021-12-22 — C1 Ep. 47 | Battle over the Heart of the Sea — speakers: Merch Store, insta Aly, insta Lora, Brian Metolius, Richard Jones, John Price, Adam Bailey, Laurent Dupuis
-- 2021-12-11 — C1 Ep. 46 | The Fleet of Fear in the Mist of the Unknown — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-11-25 — C1 Ep. 45 | Hallucinations of the High Seas — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-11-06 — C1 Ep. 44 | Ancient Temple of The Ways of Open Palm — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-10-18 — C1 Ep. 43 | Searching for Survivors — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-10-04 — C1 Ep. 42 | Water Friends & Fire Foes — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-09-17 — C1 Ep. 41 | Paying for Crimes We Didn't Commit — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-09-03 — C1 Ep. 40 | Favors for a Crime Boss — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-07-20 — C1 Ep. 39 | Shandri Joins the Enemy! — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-07-08 — C1 Ep. 38 | The Prince's Party — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-06-29 — C1 Ep. 37 | Mud, Salt, & Massage — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-05-21 — C1 Ep. 36 | The People Vs The Salty 5 — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-05-15 — C1 Ep. 35 | Cultists and Crimes — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-04-27 — C1 Ep. 34 | Letters and Lies — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-03-28 — C1 Ep. 33 | Intrusion of an Otherworldly Horror — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-03-26 — C1 Ep. 32 | Nightmare of the Drowned — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-03-21 — C1 Ep. 31 | Visions of Salt — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-03-09 — Bonus Content | Kobold Endeavour One Shot — speakers: Jarrett Sullivan, Merch Store, insta Aly, insta Lora, Brian Metolius
-- 2021-02-25 — C1 Ep. 30 | In Danger's Grip — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-02-23 — C1 Ep. 29 | The Trouble at Day's End — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-02-11 — C1 Ep. 28 | Battle Royal: The Go At in Genin — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-02-06 — C1 Ep. 27 | Clay and Company — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-01-21 — C1 Ep. 26 | The Measure of a Goblin — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-01-19 — C1 Ep. 25 | The Bandits & The Bard — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2021-01-06 — C1 Ep. 24 | BEHOLD! A Christmas Adventure — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-12-19 — C1 Ep. 23 | Brigands & Barmaids — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-12-15 — C1 Ep. 22 | The Carpenter & The Clergy — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-12-08 — C1 Ep. 21 | Farm Razed, Farm Saved — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-11-04 — C1 Ep. 20 | Battle for the Soul of the Loah Farm — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-10-28 — C1 Ep. 19 | Return to the Loah Farm — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-10-13 — C1 Ep. 18 | Death's Reflection — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-10-10 — C1 Ep. 17 | Paths of Frost — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-09-22 — C1 Ep. 16 | The Demon in the Details — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-09-22 — C1 Ep. 14 | Sailing the Waves of Grass — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-09-10 — C1 Ep. 15 | Trials of the Maskless — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-08-31 — C1 Ep. 13 | Gnomes, Panthers, and Stars! Oh My! — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-08-18 — C1 Ep. 12 | Trees & Pipes — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-04-06 — C1 Ep. 11 | A Certain Death — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-03-15 — C1 Ep. 10 | The Cold Well — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-03-03 — C1 Ep. 9 | Hot Battle, Cold Well — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2020-01-30 — C1 Ep. 8 | Into the Cursed Canyon — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-12-23 — C1 Ep. 7 | Holiday Havoc — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-12-17 — C1 Ep. 6 | The Tortoise and The Hunter — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-12-02 — C1 Ep. 5 | Curse of the Hag — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-10-26 — C1 Ep. 4 | Pumpkin Spice Monster — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-09-28 — C1 Ep. 3 | Twins — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
-- 2019-08-24 — C1 Ep. 2 | Goblins Attack!! — speakers: Goblins Attack, Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly
-- 2019-07-22 — C1 Ep. 1 | THE NEW YEAR — speakers: Jess Ayers, Aly Fitzgerald, Lora Dailey, David Carmichael, Jarrett Sullivan, Merch Store, insta Aly, insta Lora
+- 2023-05-26 — C1 Ep. 56 | Save the Town from Demons! | Fables of Refuge
+- 2023-05-24 — C1 Ep. 55 | Speak to Undead | Fables of Refuge
+- 2023-05-22 — C1 Ep. 54 | Baby Beholder Battle | Fables of Refuge — speakers: Baby Beholder Battle
+- 2023-04-30 — C1 Ep. 53 | Necromancer Needs a Horse | Fables of Refuge
+- 2023-04-11 — C1 Ep. 52 | How to Talk to Monsters | Fables of Refuge
+- 2023-02-10 — C1 Ep. 51 | Prince of Lies | Fables of Refuge
+- 2023-02-01 — C1 Ep. 50 | The Devil's Hunt | Fables of Refuge
+- 2022-12-21 — E2/2 Heist Gone Wrong! | STAR WARS 5e (Kid Friendly) — speakers: Heist Gone Wrong, Kid Friendly
+- 2022-12-20 — E1/2 "I Can't Let You Do That!" | STAR WARS 5e (Kid Friendly) — speakers: Kid Friendly, Motley Scoundrels
+- 2022-05-12 — C1 Ep. 49 | Souls Lost, Souls Found — speakers: Souls Lost
+- 2022-01-08 — C1 Ep. 48 | Scallywags & Sacrifice
+- 2021-12-22 — C1 Ep. 47 | Battle over the Heart of the Sea
+- 2021-12-11 — C1 Ep. 46 | The Fleet of Fear in the Mist of the Unknown
+- 2021-11-25 — C1 Ep. 45 | Hallucinations of the High Seas
+- 2021-11-06 — C1 Ep. 44 | Ancient Temple of The Ways of Open Palm
+- 2021-10-18 — C1 Ep. 43 | Searching for Survivors
+- 2021-10-04 — C1 Ep. 42 | Water Friends & Fire Foes
+- 2021-09-17 — C1 Ep. 41 | Paying for Crimes We Didn't Commit
+- 2021-09-03 — C1 Ep. 40 | Favors for a Crime Boss
+- 2021-07-20 — C1 Ep. 39 | Shandri Joins the Enemy!
+- 2021-07-08 — C1 Ep. 38 | The Prince's Party
+- 2021-06-29 — C1 Ep. 37 | Mud, Salt, & Massage
+- 2021-05-21 — C1 Ep. 36 | The People Vs The Salty 5
+- 2021-05-15 — C1 Ep. 35 | Cultists and Crimes
+- 2021-04-27 — C1 Ep. 34 | Letters and Lies
+- 2021-03-28 — C1 Ep. 33 | Intrusion of an Otherworldly Horror
+- 2021-03-26 — C1 Ep. 32 | Nightmare of the Drowned
+- 2021-03-21 — C1 Ep. 31 | Visions of Salt
+- 2021-03-09 — Bonus Content | Kobold Endeavour One Shot — speakers: Jarrett Sullivan
+- 2021-02-25 — C1 Ep. 30 | In Danger's Grip
+- 2021-02-23 — C1 Ep. 29 | The Trouble at Day's End
+- 2021-02-11 — C1 Ep. 28 | Battle Royal: The Go At in Genin
+- 2021-02-06 — C1 Ep. 27 | Clay and Company
+- 2021-01-21 — C1 Ep. 26 | The Measure of a Goblin
+- 2021-01-19 — C1 Ep. 25 | The Bandits & The Bard
+- 2021-01-06 — C1 Ep. 24 | BEHOLD! A Christmas Adventure
+- 2020-12-19 — C1 Ep. 23 | Brigands & Barmaids
+- 2020-12-15 — C1 Ep. 22 | The Carpenter & The Clergy
+- 2020-12-08 — C1 Ep. 21 | Farm Razed, Farm Saved
+- 2020-11-04 — C1 Ep. 20 | Battle for the Soul of the Loah Farm
+- 2020-10-28 — C1 Ep. 19 | Return to the Loah Farm
+- 2020-10-13 — C1 Ep. 18 | Death's Reflection
+- 2020-10-10 — C1 Ep. 17 | Paths of Frost
+- 2020-09-22 — C1 Ep. 16 | The Demon in the Details
+- 2020-09-22 — C1 Ep. 14 | Sailing the Waves of Grass
+- 2020-09-10 — C1 Ep. 15 | Trials of the Maskless
+- 2020-08-31 — C1 Ep. 13 | Gnomes, Panthers, and Stars! Oh My!
+- 2020-08-18 — C1 Ep. 12 | Trees & Pipes
+- 2020-04-06 — C1 Ep. 11 | A Certain Death
+- 2020-03-15 — C1 Ep. 10 | The Cold Well
+- 2020-03-03 — C1 Ep. 9 | Hot Battle, Cold Well
+- 2020-01-30 — C1 Ep. 8 | Into the Cursed Canyon
+- 2019-12-23 — C1 Ep. 7 | Holiday Havoc
+- 2019-12-17 — C1 Ep. 6 | The Tortoise and The Hunter
+- 2019-12-02 — C1 Ep. 5 | Curse of the Hag
+- 2019-10-26 — C1 Ep. 4 | Pumpkin Spice Monster
+- 2019-09-28 — C1 Ep. 3 | Twins
+- 2019-08-24 — C1 Ep. 2 | Goblins Attack!! — speakers: Goblins Attack
+- 2019-07-22 — C1 Ep. 1 | THE NEW YEAR

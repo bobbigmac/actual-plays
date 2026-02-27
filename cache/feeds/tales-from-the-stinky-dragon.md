@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-02-27T03:10:52+00:00`
-- checked_at: `2026-02-27T03:10:52+00:00`
-- last_modified: `Thu, 26 Feb 2026 23:43:48 GMT`
+- fetched_at: `2026-02-27T07:14:45+00:00`
+- checked_at: `2026-02-27T07:14:45+00:00`
+- last_modified: `Fri, 27 Feb 2026 05:43:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-27T03:10:52+00:00",
+  "fetched_at": "2026-02-27T07:14:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
