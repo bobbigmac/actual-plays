@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-02-26T03:13:52+00:00`
-- checked_at: `2026-02-26T03:13:52+00:00`
-- etag: `W/"9bd04f1c936e14484f8c387678436eea"`
+- fetched_at: `2026-02-28T13:07:57+00:00`
+- checked_at: `2026-02-28T13:07:57+00:00`
+- etag: `W/"a0056ffdf3e46267f39a7e67ce03d99b"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-02-26T03:13:52+00:00",
+  "fetched_at": "2026-02-28T13:07:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e9c25beb7dbe734aacbee920b9c8813ce2616749",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 3)",
+      "published_at": "2026-02-28T12:55:07+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/2/28/delta-green-playthings-ep-3",
+      "description": "The Agents meet the inspector in charge of the Trasco case… and learn he has 2 suspects: The Mercer brothers. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Just one more venue we can be found! https://www.delta-green.com/topics/debriefing/ Want to be a Hard Slinger and get cool swag? Join us on our Patreon page! https://www.patreon.com/rollthehard20podcast Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://instagram.com/rollthehard20?igshid=gjlo7p4lay72 https://twitter.com/rollthehard20?s=11 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1772283299157-5MOFYF722DIQ5AJUJQQR/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69a2e4e937125a6a01ffaada/1772283267201/pt+3+-+2%3A27%3A26%2C+5.53+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98828877",
+      "itunes_duration": "51:28",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "playthings"
+      ]
+    },
     {
       "key": "37771eee00462b5e3735f5bd940069f4190361ac",
       "title": "DELTA GREEN: PLAYTHINGS (EP 2)",
@@ -5663,24 +5681,6 @@
         "flight",
         "entertainment"
       ]
-    },
-    {
-      "key": "5c16f75b72cb74047c764e3a369f1f273031a36e",
-      "title": "RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE",
-      "published_at": "2019-01-14T16:50:33+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/14/riders-on-the-storm-ep-27-the-soul-crucible",
-      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909258479-QPELG5KOR7MRR2C8VIVI/fav1.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c3cbbca70a6ad9840d65290/1547484470188/Riders+on+the+Storm+EP+27.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "109820574",
-      "itunes_duration": "1:16:15",
-      "speakers": [],
-      "topics": [
-        "rider",
-        "storm",
-        "soul"
-      ]
     }
   ]
 }
@@ -5689,6 +5689,7 @@
 
 ## Episodes (newest first)
 
+- 2026-02-28 — DELTA GREEN: PLAYTHINGS (EP 3)
 - 2026-02-21 — DELTA GREEN: PLAYTHINGS (EP 2)
 - 2026-02-14 — DELTA GREEN: PLAYTHINGS (EP 1) — speakers: New Iberia
 - 2026-02-08 — DELTA GREEN: (INTERLUDE) SCIENCE AND SIGNS (PT 2)
@@ -5988,4 +5989,3 @@
 - 2019-02-09 — RIDERS ON THE STORM EP 30: BAH-TU DA BONE!
 - 2019-01-29 — RIDERS ON THE STORM EP 29: IRE OF THE SERPENT BEASTS
 - 2019-01-21 — RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT
-- 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
