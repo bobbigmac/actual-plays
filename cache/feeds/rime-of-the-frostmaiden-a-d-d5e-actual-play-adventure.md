@@ -3,10 +3,12 @@
 - slug: `rime-of-the-frostmaiden-a-d-d5e-actual-play-adventure`
 - source: `https://www.tablestory.tv/series/rime-of-the-frostmaiden/feed/`
 - fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-23T22:05:02+00:00`
+- checked_at: `2026-02-28T15:38:33+00:00`
 - etag: `"3ad0cfe3a550736d1ca8592535ec3a14"`
 - last_modified: `Tue, 10 Feb 2026 21:05:52 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -1590,7 +1592,17 @@
         "play"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-02-28T15:38:33+00:00",
+    "status": "error",
+    "checked_at": "2026-02-28T15:38:33+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error timed out>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
