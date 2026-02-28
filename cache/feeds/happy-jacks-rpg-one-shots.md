@@ -3,10 +3,12 @@
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
 - fetched_at: `2026-02-23T03:21:34+00:00`
-- checked_at: `2026-02-23T03:21:34+00:00`
+- checked_at: `2026-02-28T06:58:24+00:00`
 - etag: `"21176aae9d5ec0872a4e1366f952333f"`
 - last_modified: `Sun, 22 Feb 2026 23:54:04 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
 
 <!-- FEED_JSON -->
 ```json
@@ -1661,7 +1663,17 @@
         "shadowcon"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-02-28T06:58:24+00:00",
+    "status": "error",
+    "checked_at": "2026-02-28T06:58:24+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
