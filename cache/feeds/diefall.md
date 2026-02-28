@@ -2,8 +2,8 @@
 
 - slug: `diefall`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:648749499/sounds.rss`
-- fetched_at: `2026-02-28T15:38:33+00:00`
-- checked_at: `2026-02-28T15:38:33+00:00`
+- fetched_at: `2026-02-28T18:50:57+00:00`
+- checked_at: `2026-02-28T18:50:57+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.twitch.tv/runawayrobot_",
   "description": "5th Edition Dungeons & Dragons live shows streamed on twitch.tv/RunawayRobot_ ! Currently in its second year running, the show runs multiple campaigns (both official modules and homebrew), all of which have an emphasis on production quality, and feature things like political intrigue, tense combat situations, and various shenanigans aplenty by players and DM alike; in short, everything that makes the 5e system so popular!",
   "image_url": "https://i1.sndcdn.com/avatars-DqDN4jM0ve9kkfjg-oqX4NA-original.jpg",
-  "fetched_at": "2026-02-28T15:38:33+00:00",
+  "fetched_at": "2026-02-28T18:50:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
