@@ -2,9 +2,9 @@
 
 - slug: `lawful-stupid-a-dnd-5e-actual-play-podcast`
 - source: `https://anchor.fm/s/35ef2de4/podcast/rss`
-- fetched_at: `2026-02-26T13:45:27+00:00`
-- checked_at: `2026-02-26T13:45:27+00:00`
-- etag: `W/"2eb03c-ak6KTLTK3F2chHJOZuVPM15Uy4A"`
+- fetched_at: `2026-03-01T13:10:51+00:00`
+- checked_at: `2026-03-01T13:10:51+00:00`
+- etag: `W/"2eb03c-dOHEE9gT5fGALc/0ej31zXSgWII"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.lawfulstupid.org",
   "description": "We at Lawful Stupid are a D&D 5e actual play podcast who actually love to play DnD! We love everything about the Tabletop RPG Community and consistently strive to make the world a better place within that community through inclusivity, creativity, charitable acts, and above all else, fantastical heroism. If you want to be a part of the amazing dungeons and dragons community of artists, creators, and all around amazing fun people that we are building please join us in our discord.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/8948673/8948673-1713145835584-aacd1c4d5ab37.jpg",
-  "fetched_at": "2026-02-26T13:45:27+00:00",
+  "fetched_at": "2026-03-01T13:10:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
