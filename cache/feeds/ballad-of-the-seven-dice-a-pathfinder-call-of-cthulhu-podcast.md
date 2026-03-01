@@ -2,9 +2,9 @@
 
 - slug: `ballad-of-the-seven-dice-a-pathfinder-call-of-cthulhu-podcast`
 - source: `https://balladofthesevendice.podbean.com/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"037ec9b92f8d9b517bd26921da8d1e83"`
+- fetched_at: `2026-03-01T03:25:04+00:00`
+- checked_at: `2026-03-01T03:25:04+00:00`
+- etag: `"45419607acdd273965524b197b470fcd"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://balladofthesevendice.podbean.com",
   "description": "Our new campaign Escaping Carcosa follows two stories; one a Pathfinder2e tale that follows a group trapped inside a video game called Carcosa Online. The other group is a team of investigators playing Call of Cthulhu trying to free everyone trapped. Will they find freedom or will their world become another until Hastur’s control?",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/2696764/BOT7DPodcast_Resized_8cwkcf.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-01T03:25:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "1f0092eb4a7e98b01d3ac543cc5d09526590fc90",
+      "title": "Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials",
+      "published_at": "2026-03-01T00:12:49+00:00",
+      "link": "https://balladofthesevendice.podbean.com/e/escaping-carcosa-online-day-3-e11-the-dwarf-lords-trials/",
+      "description": "Welcome to the Ballad of the Seven Dice. The party has now entered the dwarf lords domain and are about to undergo the hardest trials they have faced yet. !SPOILER WARNING, YOU'VE BEEN WARNED! Hey there Travellers, this is for the people who wish to skip scenes due to the trigger warnings. For the first pillar scene dealing with themes of grief and imagery of hanging. In this scene the party is presented with Houndman's body and a basin filled with blood. Through the process they try and apologize to houndman. They find out they must put the blood back into houndman and after they each do this once, Akihiko takes it on himself to do the rest. For a moment he sees houndman's crooked grin before he pixilates again. For the second pillar dealing with themes of suicide. This part features a mirror trial where characters are forced to witness and cause the death of their own reflections to progress as an inscription says \"only one may pass\". The mirror then deposits the bones for the players in the third pillar trial. Check out our YouTube Want to join in on the conversation? Join Our Discord Show Notes Sin and Sinners, Experiment 4, Astral Projection, Creepy Doll, Dark Secret - Dark Fantasy Studio Filip Melvan - Fable Under The Table - 05 Tavern At The End Of Road Cellar - Monument Studios Cursed Forest, Quiet Tavern, Medieval City Indoors, Urban Park at Night, Daytime Forest, Fantasy Medieval City, - Michaël Ghelfi",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/wec7phn6p6xm7nyb/Escaping_Carcosa_Online_-_Day_3_E117zyns.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42151600",
+      "itunes_duration": "2634",
+      "speakers": [],
+      "topics": [
+        "carcosa",
+        "online",
+        "dwarf",
+        "lord",
+        "trials"
+      ]
+    },
     {
       "key": "0ef8d21baeecf6dd6e58deed5e70f5f9edeac2fc",
       "title": "Escaping Carcosa Offline - Day 3 E10 // The Pines of Zimbabwe",
@@ -39,9 +59,7 @@
       "enclosure_length": "55031012",
       "itunes_duration": "3439",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -61,13 +79,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58467055",
       "itunes_duration": "3654",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -86,13 +98,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84199130",
       "itunes_duration": "5262",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -113,9 +119,7 @@
       "enclosure_length": "62047711",
       "itunes_duration": "3877",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -134,13 +138,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81756577",
       "itunes_duration": "5109",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "glowing",
@@ -159,9 +157,7 @@
       "enclosure_length": "60103783",
       "itunes_duration": "3756",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -180,13 +176,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52602670",
       "itunes_duration": "3287",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "killers"
@@ -204,9 +194,7 @@
       "enclosure_length": "56165354",
       "itunes_duration": "3510",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -227,13 +215,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55016802",
       "itunes_duration": "3438",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "forge",
@@ -252,9 +234,7 @@
       "enclosure_length": "68947381",
       "itunes_duration": "4309",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -272,13 +252,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62683427",
       "itunes_duration": "3917",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "unfinished",
@@ -297,9 +271,7 @@
       "enclosure_length": "72202866",
       "itunes_duration": "4512",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -319,13 +291,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60563538",
       "itunes_duration": "3785",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "battle"
@@ -343,9 +309,7 @@
       "enclosure_length": "58516792",
       "itunes_duration": "3657",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -363,13 +327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52989282",
       "itunes_duration": "3311",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "guild"
@@ -387,10 +345,7 @@
       "enclosure_length": "63146526",
       "itunes_duration": "3946",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -409,13 +364,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55134666",
       "itunes_duration": "3445",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "vulnerable",
@@ -434,11 +383,7 @@
       "enclosure_length": "64618996",
       "itunes_duration": "4038",
       "speakers": [
-        "Carcosa Offline Day",
-        "Noor Fatumaaaa",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -458,13 +403,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46792619",
       "itunes_duration": "2924",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "nostrodamus",
@@ -484,10 +423,7 @@
       "enclosure_length": "75139865",
       "itunes_duration": "4696",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -507,12 +443,7 @@
       "enclosure_length": "27003923",
       "itunes_duration": "1687",
       "speakers": [
-        "Carcosa Offline Day",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -531,13 +462,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "18279443",
       "itunes_duration": "1142",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -555,13 +480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60566882",
       "itunes_duration": "3785",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -581,10 +500,7 @@
       "enclosure_length": "66143293",
       "itunes_duration": "4133",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -606,13 +522,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75870457",
       "itunes_duration": "4741",
-      "speakers": [
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -631,11 +541,7 @@
       "enclosure_length": "65760861",
       "itunes_duration": "4110",
       "speakers": [
-        "Carcosa Offline Day",
-        "Michaela Metaphysicaal Fatuma Noor",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -654,14 +560,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60824763",
       "itunes_duration": "3801",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -681,10 +580,7 @@
       "enclosure_length": "51107212",
       "itunes_duration": "3194",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -703,10 +599,7 @@
       "enclosure_length": "69960514",
       "itunes_duration": "4372",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -725,14 +618,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49447496",
       "itunes_duration": "3090",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -753,10 +639,7 @@
       "enclosure_length": "58375940",
       "itunes_duration": "3648",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -776,14 +659,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81143430",
       "itunes_duration": "5071",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -803,10 +679,7 @@
       "enclosure_length": "64858487",
       "itunes_duration": "4053",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -826,14 +699,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54629354",
       "itunes_duration": "3414",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -852,10 +718,7 @@
       "enclosure_length": "79941380",
       "itunes_duration": "4996",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -876,7 +739,8 @@
       "enclosure_length": "2328867",
       "itunes_duration": "145",
       "speakers": [
-        "Song Jason Shaw Solo"
+        "Quick Ballad Update Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "quick",
@@ -895,14 +759,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57231150",
       "itunes_duration": "3576",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -922,10 +779,7 @@
       "enclosure_length": "69869399",
       "itunes_duration": "4366",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Conspiracy Unravel"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -946,14 +800,7 @@
       "enclosure_length": "66817043",
       "itunes_duration": "4176",
       "speakers": [
-        "Dan Dan Noodles Welcome",
-        "Dan Dan Noodles",
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
+        "Dan Dan Noodles Welcome"
       ],
       "topics": [
         "carcosa",
@@ -973,10 +820,7 @@
       "enclosure_length": "68122330",
       "itunes_duration": "4257",
       "speakers": [
-        "Carcosa Offline Day",
-        "Michaela Metaphysicaal Fatuma Noor",
-        "true Check",
-        "YouTube Want"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -996,14 +840,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54943659",
       "itunes_duration": "3433",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Creepy Doll",
-        "Cursed Forest",
-        "Quiet Tavern",
-        "Fantasy Medieval City"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1023,8 +860,7 @@
       "enclosure_length": "37626929",
       "itunes_duration": "1590",
       "speakers": [
-        "Carcosa Offline Day",
-        "Show Notes"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1043,10 +879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42188952",
       "itunes_duration": "1875",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1064,9 +897,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5320619",
       "itunes_duration": "332",
-      "speakers": [
-        "Filip Melvan Enchanted"
-      ],
+      "speakers": [],
       "topics": [
         "silent",
         "ballad",
@@ -1102,9 +933,7 @@
       "enclosure_length": "85405554",
       "itunes_duration": "4576",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1125,10 +954,7 @@
       "enclosure_length": "83496298",
       "itunes_duration": "4457",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Hunters Moon"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1147,11 +973,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58037994",
       "itunes_duration": "3605",
-      "speakers": [
-        "Jason json",
-        "Xander AdeptXander",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "patreon",
         "special",
@@ -1171,12 +993,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42385204",
       "itunes_duration": "2626",
-      "speakers": [
-        "Jason json",
-        "Xander AdeptXander",
-        "Cassa Bossa Nova",
-        "Easy Lemon"
-      ],
+      "speakers": [],
       "topics": [
         "patreon",
         "special",
@@ -1196,12 +1013,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65290844",
       "itunes_duration": "3319",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1238,9 +1050,7 @@
       "itunes_duration": "3967",
       "speakers": [
         "Carcosa Offline Day",
-        "Victoria Hyland",
-        "true Check",
-        "YouTube Want"
+        "Victoria Hyland"
       ],
       "topics": [
         "carcosa",
@@ -1260,11 +1070,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63636730",
       "itunes_duration": "3216",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1283,9 +1089,7 @@
       "enclosure_length": "70185130",
       "itunes_duration": "3625",
       "speakers": [
-        "Houndman Welcome",
-        "Marquis Derrick Akihiko",
-        "YouTube Want"
+        "Houndman Welcome"
       ],
       "topics": [
         "carcosa",
@@ -1305,10 +1109,7 @@
       "enclosure_length": "75224002",
       "itunes_duration": "4701",
       "speakers": [
-        "Carcosa Offline Day",
-        "Victoria Hyland",
-        "true Check",
-        "YouTube Want"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1328,10 +1129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68160556",
       "itunes_duration": "3498",
-      "speakers": [
-        "true Check",
-        "YouTube Want"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "offline",
@@ -1351,9 +1149,7 @@
       "enclosure_length": "74078434",
       "itunes_duration": "3868",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1373,9 +1169,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "22058758",
       "itunes_duration": "617",
-      "speakers": [
-        "Wish Background"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "holiday",
@@ -1394,11 +1188,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57569074",
       "itunes_duration": "2836",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1417,12 +1207,7 @@
       "enclosure_length": "73038563",
       "itunes_duration": "3803",
       "speakers": [
-        "Carcosa Offline Day",
-        "Will Guy",
-        "Will Noor",
-        "true Check",
-        "YouTube Want",
-        "Studio Calling"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1442,12 +1227,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61459462",
       "itunes_duration": "3819",
-      "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable",
-        "Restorative Spell Pablo Betancourt"
-      ],
+      "speakers": [],
       "topics": [
         "carcosa",
         "online",
@@ -1466,9 +1246,7 @@
       "enclosure_length": "69146943",
       "itunes_duration": "4299",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1503,9 +1281,9 @@
       "enclosure_length": "54515414",
       "itunes_duration": "3385",
       "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable"
+        "Escaping Carcosa Online",
+        "Seven Dice",
+        "Carcosa Online"
       ],
       "topics": [
         "carcosa",
@@ -1525,12 +1303,7 @@
       "enclosure_length": "68762226",
       "itunes_duration": "4297",
       "speakers": [
-        "Carcosa Offline Day",
-        "true Check",
-        "YouTube Want",
-        "Studio Brandenburg",
-        "Filip Melvan Fable",
-        "Grocery Store"
+        "Carcosa Offline Day"
       ],
       "topics": [
         "carcosa",
@@ -1551,10 +1324,9 @@
       "enclosure_length": "48117550",
       "itunes_duration": "3007",
       "speakers": [
-        "Marquis Derrick Akihiko",
-        "YouTube Want",
-        "Filip Melvan Fable",
-        "Grocery Store"
+        "Escaping Carcosa Online",
+        "Launch Day Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "carcosa",
@@ -1573,10 +1345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "9763689",
       "itunes_duration": "588",
-      "speakers": [
-        "YouTube Want",
-        "Filip Melvan Fable"
-      ],
+      "speakers": [],
       "topics": [
         "campaign",
         "announcement"
@@ -1593,9 +1362,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57430710",
       "itunes_duration": "3567",
-      "speakers": [
-        "Filip Melvan Fable"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "campaign"
@@ -1613,14 +1380,9 @@
       "enclosure_length": "94402567",
       "itunes_duration": "5878",
       "speakers": [
-        "Dorem Highfyre",
-        "Michelle Want",
-        "Ballad Theme",
-        "io Volcano",
-        "Vampire Killer",
-        "Michaël Ghelfi Rpg",
-        "Graham Plowman Cthulhu Mythos",
-        "Restorative Spell Pablo Betancourt"
+        "Chosen Few",
+        "Campaign Finale Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -1656,15 +1418,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72498580",
       "itunes_duration": "4509",
-      "speakers": [
-        "Dorem Highfyre",
-        "Michelle Want",
-        "Ballad Theme",
-        "Haunted Castle",
-        "Cthulhu Mythos",
-        "Azathoth Killers Kevin",
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -1682,10 +1436,10 @@
       "enclosure_length": "46211439",
       "itunes_duration": "2866",
       "speakers": [
-        "Ballad Theme",
-        "Torn Flesh",
-        "Karl Casey",
-        "Evocation Spell Sun"
+        "Chosen Few",
+        "Existence Welcome",
+        "Seven Dice",
+        "Ghoulish One"
       ],
       "topics": [
         "ballad",
@@ -1705,9 +1459,10 @@
       "enclosure_length": "69474629",
       "itunes_duration": "4320",
       "speakers": [
-        "Ballad Theme",
-        "Kevin Macleod",
-        "Phil Archer"
+        "Chosen Few",
+        "Existence Welcome",
+        "Seven Dice",
+        "Ivory Tower"
       ],
       "topics": [
         "ballad",
@@ -1727,9 +1482,9 @@
       "enclosure_length": "78413105",
       "itunes_duration": "4878",
       "speakers": [
-        "Dorem Highfyre",
-        "Ballad Theme",
-        "Zombie Horde Attack"
+        "Chosen Few",
+        "Existence Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -1749,9 +1504,8 @@
       "enclosure_length": "67786478",
       "itunes_duration": "4214",
       "speakers": [
-        "Ballad Theme",
-        "Virtutes Instrumenti Kevin",
-        "Moron David Fesliyan"
+        "Chosen Few",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -1772,9 +1526,8 @@
       "enclosure_length": "72191768",
       "itunes_duration": "4489",
       "speakers": [
-        "Ballad Theme",
-        "Rafael Krux",
-        "Dreamhaven Link"
+        "Chosen Few",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -1795,13 +1548,7 @@
       "enclosure_length": "55920215",
       "itunes_duration": "3472",
       "speakers": [
-        "Ballad Theme",
-        "Virtutes Vocis Kevin",
-        "Pablo Betancourt",
-        "Graham Plowman",
-        "Rafael Krux",
-        "Alexander Nakarada Deep",
-        "Sweet Sleeping"
+        "Chosen Few"
       ],
       "topics": [
         "ballad",
@@ -1840,8 +1587,9 @@
       "enclosure_length": "54308982",
       "itunes_duration": "3372",
       "speakers": [
-        "Ballad Theme",
-        "David Fesliyan"
+        "Chosen Few",
+        "Beginning Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -1860,11 +1608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87664894",
       "itunes_duration": "5477",
-      "speakers": [
-        "Ballad Theme",
-        "Alexander Nakarada",
-        "Virtutes Vocis"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -1882,14 +1626,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74004055",
       "itunes_duration": "4603",
-      "speakers": [
-        "Pink Bubblegum",
-        "Multiclass Theatre",
-        "Regal Rollers Kickstarter",
-        "Ballad Theme",
-        "Giant Wyrm",
-        "Mystery Sax Kevin"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -1907,11 +1644,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54224973",
       "itunes_duration": "3366",
-      "speakers": [
-        "Pink Bubblegum",
-        "Multiclass Theatre",
-        "Ballad Theme"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -1929,12 +1662,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46818316",
       "itunes_duration": "2904",
-      "speakers": [
-        "King Leolin",
-        "Ballad Theme",
-        "Torn Flesh",
-        "Karl Casey"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -1953,11 +1681,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57480218",
       "itunes_duration": "3570",
-      "speakers": [
-        "Ballad Theme",
-        "Cole Bump",
-        "Graham Plowman"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -1976,16 +1700,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68592318",
       "itunes_duration": "4264",
-      "speakers": [
-        "Jason Tkachuk",
-        "Omnicron Zisk Lian",
-        "Zigurd Meg Nimchan",
-        "Tim Bongiovanni",
-        "Virtutes Instrumenti",
-        "Dawn Alexander",
-        "Evocation Spell Sun",
-        "Assault Fighter Interceptor"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2006,8 +1721,9 @@
       "enclosure_length": "54328625",
       "itunes_duration": "3373",
       "speakers": [
-        "Ballad Theme",
-        "Cultist Song Dave Cole"
+        "Chosen Few",
+        "War Stricken World Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2027,10 +1743,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33947191",
       "itunes_duration": "2099",
-      "speakers": [
-        "Fantasy Ambience",
-        "Alexander Nakarada Link"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "season"
@@ -2047,12 +1760,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36428689",
       "itunes_duration": "2254",
-      "speakers": [
-        "Hive Githyanki",
-        "Ballad Theme",
-        "Karl Casey",
-        "Audionautix Zombie Horde Attack"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2072,14 +1780,9 @@
       "enclosure_length": "52797642",
       "itunes_duration": "3277",
       "speakers": [
-        "Ballad Theme",
-        "Graham Plowman",
-        "Audionautix Zombie Horde Attack",
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield",
-        "Evocation Spell Sun",
-        "Bolt Spell Daniel Warneke",
-        "Dawn Alexander"
+        "Chosen Few",
+        "All Hail Prince",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2099,12 +1802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51596425",
       "itunes_duration": "3202",
-      "speakers": [
-        "Ballad Theme",
-        "Giant Wyrm",
-        "Spacial Harvest",
-        "Ruined Castle"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2124,13 +1822,9 @@
       "enclosure_length": "57260407",
       "itunes_duration": "3578",
       "speakers": [
-        "Dave Cole",
-        "Ballad Theme",
-        "Rafael Krux",
-        "Karl Casey",
-        "Wounds Spell Pablo Betancourt",
-        "Restorative Spell Pablo Betancourt",
-        "Stuard Duffield"
+        "Chosen Few",
+        "All Hail Prince",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2151,11 +1845,9 @@
       "enclosure_length": "50048725",
       "itunes_duration": "3105",
       "speakers": [
-        "Guest Dave Cole",
-        "Ballad Theme",
-        "Stormfront Kevin",
-        "Fantasy Ambience",
-        "Alexander Nakarada Link"
+        "Chosen Few",
+        "All Hail Prince",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2176,9 +1868,9 @@
       "enclosure_length": "4646451",
       "itunes_duration": "290",
       "speakers": [
-        "Alora Meg",
-        "Weary Ian",
-        "Graham Plowman"
+        "Nyarlathotep Season",
+        "Character Recap Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "rise",
@@ -2200,8 +1892,9 @@
       "enclosure_length": "53120725",
       "itunes_duration": "3297",
       "speakers": [
-        "Ballad Theme",
-        "Graham Plowman"
+        "Chosen Few",
+        "All Hail Prince",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2241,8 +1934,9 @@
       "enclosure_length": "46764401",
       "itunes_duration": "2900",
       "speakers": [
-        "Ballad Theme",
-        "Graham Plowman"
+        "Chosen Few",
+        "All Hail Prince",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2262,14 +1956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49716045",
       "itunes_duration": "3085",
-      "speakers": [
-        "Will Kalsaur",
-        "Ballad Theme",
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield",
-        "Restorative Spell",
-        "Evocation Spell Sun"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2289,9 +1976,7 @@
       "enclosure_length": "51393273",
       "itunes_duration": "3189",
       "speakers": [
-        "Join Kalsaur",
-        "Ballad Theme",
-        "Virtues Vocis"
+        "Join Kalsaur"
       ],
       "topics": [
         "ballad",
@@ -2312,11 +1997,7 @@
       "enclosure_length": "50368053",
       "itunes_duration": "3125",
       "speakers": [
-        "Steve Memorial Town",
-        "Ronee O'Connell",
-        "Cole Bossa",
-        "Kevin Macleod",
-        "Alexander Nakarada Link"
+        "Steve Memorial Town"
       ],
       "topics": [
         "ballad",
@@ -2339,14 +2020,7 @@
       "enclosure_length": "72337413",
       "itunes_duration": "4498",
       "speakers": [
-        "Detective Billowin",
-        "Ballad Theme",
-        "Cultist Song Dave Cole",
-        "Graham Plowman",
-        "Cthulhu Mythos",
-        "Kevin Macleod",
-        "Karl Casey",
-        "Dark Places"
+        "Detective Billowin"
       ],
       "topics": [
         "ballad",
@@ -2369,13 +2043,7 @@
       "enclosure_length": "63005087",
       "itunes_duration": "3915",
       "speakers": [
-        "Detective Billowin",
-        "Death Shift",
-        "Ballad Theme",
-        "Cthulhu Mythos",
-        "Kevin Macleod",
-        "Maria Milewska",
-        "Jonathan Pitcher"
+        "Detective Billowin"
       ],
       "topics": [
         "ballad",
@@ -2397,10 +2065,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102303267",
       "itunes_duration": "6390",
-      "speakers": [
-        "Horror Drone Kevin",
-        "Karl Casey"
-      ],
+      "speakers": [],
       "topics": [
         "replicant",
         "dead",
@@ -2420,12 +2085,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70698864",
       "itunes_duration": "4415",
-      "speakers": [
-        "Kawai Kitsune",
-        "Strange Tomb",
-        "Karl Casey",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "replicant",
         "dead",
@@ -2446,11 +2106,10 @@
       "enclosure_length": "69617595",
       "itunes_duration": "4328",
       "speakers": [
-        "Theme Dave Cole",
-        "Zombie Horde Attack",
-        "Daniele Galante",
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield"
+        "Chosen Few",
+        "Shining Bird Welcome",
+        "Seven Dice",
+        "Nostrodamus Corporation"
       ],
       "topics": [
         "ballad",
@@ -2472,10 +2131,9 @@
       "enclosure_length": "58687125",
       "itunes_duration": "3645",
       "speakers": [
-        "Theme Dave Cole",
-        "Green Fluid Karl",
-        "Alexander Nakarada Link",
-        "Kevin Macleod"
+        "Chosen Few",
+        "Shining Bird Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2497,10 +2155,9 @@
       "enclosure_length": "70697972",
       "itunes_duration": "4396",
       "speakers": [
-        "Kevin Macleod",
-        "Cthulhu Mythos",
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield"
+        "Chosen Few",
+        "Finale Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2519,10 +2176,9 @@
       "enclosure_length": "57754162",
       "itunes_duration": "3596",
       "speakers": [
-        "Ballad Theme",
-        "Cultist Song Dave Cole",
-        "Kevin Macleod",
-        "Rafael Krux"
+        "Chosen Few",
+        "Coming Home Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2542,9 +2198,8 @@
       "enclosure_length": "55159523",
       "itunes_duration": "3425",
       "speakers": [
-        "Dorem Highfyre",
-        "Ballad Theme",
-        "Kevin Macleod"
+        "Chosen Few",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2564,16 +2219,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76090383",
       "itunes_duration": "4449",
-      "speakers": [
-        "Alyssa Fraser",
-        "Jimmy Fontanez",
-        "Virtutes Instrumenti",
-        "Fantasy Ambience Alexander",
-        "Combat Drums",
-        "Evocation Spell Sun",
-        "Stoneskin Spell Filippo Buresta",
-        "Marco Imperatori"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2592,10 +2238,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25404812",
       "itunes_duration": "1587",
-      "speakers": [
-        "Kevin Macleod",
-        "Alexander Nakarada Link"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "season",
@@ -2614,10 +2257,9 @@
       "enclosure_length": "9823877",
       "itunes_duration": "591",
       "speakers": [
-        "Dorem Highfyre",
-        "Solomon Matthews",
-        "Mysterious Fantasy",
-        "Zach Aubert"
+        "Chosen Few",
+        "Yellow Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2639,13 +2281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70265384",
       "itunes_duration": "4369",
-      "speakers": [
-        "Robert Jason",
-        "Edgar Baker",
-        "Song Dave Cole",
-        "Spy Glass Kevin Macleod",
-        "Moron David Fesliyan"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "murder",
@@ -2664,13 +2300,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66456104",
       "itunes_duration": "4131",
-      "speakers": [
-        "Robert Jason",
-        "Edgar Baker",
-        "Song Dave Cole",
-        "Gymnopedie No",
-        "Spy Glass Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "murder",
@@ -2689,10 +2319,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37149246",
       "itunes_duration": "2299",
-      "speakers": [
-        "Ballad Theme Dave Cole",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2711,10 +2338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145582811",
       "itunes_duration": "5199",
-      "speakers": [
-        "Josh Fisher",
-        "Luc Soekrasno"
-      ],
+      "speakers": [],
       "topics": [
         "holiday",
         "special",
@@ -2732,13 +2356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104727179",
       "itunes_duration": "6537",
-      "speakers": [
-        "Tim Allen",
-        "Santa Claus",
-        "Jubilee Jinglebell",
-        "Jingle Bells",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "christmas"
@@ -2755,11 +2373,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109861511",
       "itunes_duration": "3923",
-      "speakers": [
-        "Josh Fisher",
-        "Luc Soekrasno",
-        "Dee Yan-Key"
-      ],
+      "speakers": [],
       "topics": [
         "holiday",
         "special",
@@ -2778,8 +2392,9 @@
       "enclosure_length": "55619111",
       "itunes_duration": "3468",
       "speakers": [
-        "Kevin MacLeod",
-        "Barkskin Spell Filippo Buresta"
+        "Chosen Few",
+        "Yellow Welcome",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2799,11 +2414,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61333407",
       "itunes_duration": "3825",
-      "speakers": [
-        "Giant Wyrm",
-        "Spacial Harvest",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2823,12 +2434,10 @@
       "enclosure_length": "57597933",
       "itunes_duration": "3577",
       "speakers": [
-        "Samba Isobel",
-        "Virtues Vocis",
-        "Kevin Macleod",
-        "Musicfiles License",
-        "Rafael Krux License",
-        "David Fesliyan"
+        "Chosen Few",
+        "Halloween Special",
+        "Just Doctor Work",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2853,8 +2462,10 @@
       "enclosure_length": "49338466",
       "itunes_duration": "3075",
       "speakers": [
-        "Kevin Macleod",
-        "Rafael Krux License"
+        "Chosen Few",
+        "Halloween Special",
+        "Just Doctor Work",
+        "Seven Dice"
       ],
       "topics": [
         "ballad",
@@ -2878,12 +2489,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89241555",
       "itunes_duration": "5555",
-      "speakers": [
-        "Evocation Spell Sun",
-        "Nova Explode Stuart",
-        "Wounds Spell Pablo Betancourt",
-        "Alexander Nakarada-from-filmmusic-io"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2901,11 +2507,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50841155",
       "itunes_duration": "3155",
-      "speakers": [
-        "Ballad Intro",
-        "Maria Milewska",
-        "Restorative Spell Pablo Betancourt"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2924,7 +2526,8 @@
       "enclosure_length": "82911875",
       "itunes_duration": "5180",
       "speakers": [
-        "Kevin MacLeod"
+        "Delta Green",
+        "Control Copy"
       ],
       "topics": [
         "redacted",
@@ -2946,10 +2549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65733658",
       "itunes_duration": "4086",
-      "speakers": [
-        "Ballad Intro",
-        "Zombie Horde Attack"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -2986,12 +2586,7 @@
       "enclosure_length": "84916099",
       "itunes_duration": "5285",
       "speakers": [
-        "Death Shift",
-        "Ballad Theme",
-        "Alexander Nakarada",
-        "Cool Vibes",
-        "Kevin Macleod",
-        "Phil Archer"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -3016,12 +2611,7 @@
       "enclosure_length": "193253029",
       "itunes_duration": "4822",
       "speakers": [
-        "Flowers Bloom",
-        "Ballad Theme",
-        "Warneke Doors",
-        "Forsaken Mikael",
-        "Zombie Horde Attack",
-        "Alexander Nakarada"
+        "Chosen Few"
       ],
       "topics": [
         "ballad",
@@ -3041,12 +2631,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101215280",
       "itunes_duration": "2521",
-      "speakers": [
-        "Cthulhu Mythos",
-        "Cryptic Sorrow",
-        "Kevin Macleod",
-        "Zombie Horde Attack"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3066,8 +2651,8 @@
       "enclosure_length": "76290506",
       "itunes_duration": "4768",
       "speakers": [
-        "Kai Engel",
-        "Jesse Spillane"
+        "Bad Heroes",
+        "Twelve Bad Heroes"
       ],
       "topics": [
         "heroes",
@@ -3086,14 +2671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "130688715",
       "itunes_duration": "3258",
-      "speakers": [
-        "Dan Bright",
-        "Jason Shaw Beginning",
-        "Medieval Battleground",
-        "Jason Shaw Horror Music",
-        "Cthulhu Mythos",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3113,10 +2691,7 @@
       "enclosure_length": "79863007",
       "itunes_duration": "4969",
       "speakers": [
-        "Backwater Bastard",
-        "Backwater Bastards",
-        "Zombie Horde Attack",
-        "Moron David Fesliyan"
+        "Backwater Bastard"
       ],
       "topics": [
         "replicant",
@@ -3135,13 +2710,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65786560",
       "itunes_duration": "4089",
-      "speakers": [
-        "Backwater Bastards",
-        "Combat Drums Platemail",
-        "Furious Freak",
-        "Kawai Kitsune",
-        "Zombie Horde Attack"
-      ],
+      "speakers": [],
       "topics": [
         "replicant",
         "backwater",
@@ -3159,11 +2728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86034594",
       "itunes_duration": "5355",
-      "speakers": [
-        "Ballad Theme",
-        "Phil Archer",
-        "Evocation Spell Sun"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3182,15 +2747,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44438843",
       "itunes_duration": "2773",
-      "speakers": [
-        "Midnight Kingdoms",
-        "Dylan Emmet",
-        "Leonell Cassio",
-        "Kevin MacLeod",
-        "Everet Almond",
-        "Nicolas Jeudy",
-        "Dark Fantasy Studio"
-      ],
+      "speakers": [],
       "topics": [
         "lovelycraftians",
         "contact"
@@ -3207,9 +2764,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62689740",
       "itunes_duration": "3916",
-      "speakers": [
-        "Andrew Maderos"
-      ],
+      "speakers": [],
       "topics": [
         "ctrlgroup",
         "cinders",
@@ -3227,12 +2782,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79741582",
       "itunes_duration": "4966",
-      "speakers": [
-        "Ballad Theme Dave Cole",
-        "Spacial Harvest",
-        "Alexander Nakarada Licensed",
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3251,14 +2801,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82265529",
       "itunes_duration": "5123",
-      "speakers": [
-        "Ballad Theme Dave Cole",
-        "ashamaluevmusic com",
-        "Cthulhu Mythos",
-        "Alexander Nakarada License",
-        "Kevin Macleod License",
-        "Evocation Spell Sun"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3277,16 +2820,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114099571",
       "itunes_duration": "7127",
-      "speakers": [
-        "Ballad Theme",
-        "Zombie Horde Attack",
-        "Evocation Spell Sun",
-        "Barkskin Spell Filippo Buresta",
-        "Phil Archer",
-        "Restorative Spell Pablo Betancourt",
-        "Spy Glass",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3305,13 +2839,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103372231",
       "itunes_duration": "6456",
-      "speakers": [
-        "Ballad Theme",
-        "Derek Fiechter Haunted",
-        "Spacial Harvest",
-        "Giant Wyrm",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3330,16 +2858,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100638782",
       "itunes_duration": "6285",
-      "speakers": [
-        "Theme Dave Cole Toss",
-        "Karaoke Sing MoonKaraoke",
-        "Spy Glass",
-        "Midnight Tale",
-        "Evocation Spell Sun",
-        "Restorative Spell Pablo Betancourt",
-        "Katy Perry-Firework",
-        "karaoke-version com"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3357,16 +2876,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71821332",
       "itunes_duration": "4484",
-      "speakers": [
-        "Theme Dave Cole Toss",
-        "Karaoke Sing MoonKaraoke",
-        "Spy Glass",
-        "Midnight Tale",
-        "Evocation Spell Sun",
-        "Restorative Spell Pablo Betancourt",
-        "Katy Perry-Firework",
-        "karaoke-version com"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3384,12 +2894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115778620",
       "itunes_duration": "7214",
-      "speakers": [
-        "Theme Dave Cole Without",
-        "Barkskin Spell Filippo Buresta",
-        "Dark Walk",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3407,12 +2912,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140864404",
       "itunes_duration": "8799",
-      "speakers": [
-        "Barkskin Spell Filippo Buresta",
-        "Restorative Spell Pablo Betancourt",
-        "Phil Archer",
-        "Jonathan Pitcher"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "birthday",
@@ -3431,8 +2931,7 @@
       "enclosure_length": "76886424",
       "itunes_duration": "4804",
       "speakers": [
-        "Death Shift",
-        "Multiclass Theatre"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -3452,12 +2951,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89540812",
       "itunes_duration": "5574",
-      "speakers": [
-        "Spy Glass",
-        "Kevin Macleod",
-        "Mysterious Fantasy Zach",
-        "Phil Archer Moron David"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3496,11 +2990,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67746752",
       "itunes_duration": "4051",
-      "speakers": [
-        "Kevin Macleod",
-        "Restorative Spell Pablo Betancourt",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3521,9 +3011,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73122133",
       "itunes_duration": "4548",
-      "speakers": [
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3543,11 +3031,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70158769",
       "itunes_duration": "4367",
-      "speakers": [
-        "Virtutes Instrumenti",
-        "Kevin Macleod",
-        "Phil Archer Inn"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3569,9 +3053,10 @@
       "enclosure_length": "53224778",
       "itunes_duration": "3293",
       "speakers": [
-        "Tavern Song Dave Cole",
-        "Zombie Horde Attack",
-        "Evocation Spell Sun"
+        "Chosen Few",
+        "Finding Oneself Welcome",
+        "Seven Dice",
+        "New Dawn"
       ],
       "topics": [
         "ballad",
@@ -3593,14 +3078,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74148205",
       "itunes_duration": "4612",
-      "speakers": [
-        "Jammy Jams",
-        "Evocation Spell Sun",
-        "Jingle Bells",
-        "Kevin Macleod",
-        "David Fesliyan",
-        "Xmas Prayer Evil Brain"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "christmas"
@@ -3617,16 +3095,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69796002",
       "itunes_duration": "4340",
-      "speakers": [
-        "Zombie Horde Attack",
-        "Phil Archer",
-        "Restorative Spell Pablo Betancourt",
-        "Bolt Spell Daniel Warneke",
-        "Evocation Spell Sun",
-        "Disintegrate Spell Daniel Warneke",
-        "Medieval Battles",
-        "Acid Arrow"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3644,10 +3113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56734784",
       "itunes_duration": "3523",
-      "speakers": [
-        "Ritual Kevin Macleod",
-        "Restorative Spell Pablo Betancourt"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3665,16 +3131,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99625353",
       "itunes_duration": "6204",
-      "speakers": [
-        "Mysterious Fantasy Zach Aubert",
-        "Marco Imperatori",
-        "Daniele Galante",
-        "Stoneskin Spell Filippo Buresta",
-        "Stiletto Strikes Chainmail",
-        "Combat Drums",
-        "Acid Arrow",
-        "Magic Missle"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3692,15 +3149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57152538",
       "itunes_duration": "3549",
-      "speakers": [
-        "Kevin Macleod",
-        "Barkskin Spell Filippo Buresta",
-        "Dispel Magic",
-        "Disintegration Ray Platemail Games",
-        "Cthulhu Mythos",
-        "Demon Summoning Arise",
-        "David Fesliyan"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3719,14 +3168,7 @@
       "enclosure_length": "87325654",
       "itunes_duration": "5435",
       "speakers": [
-        "Death Shift",
-        "Glitter Blast",
-        "Spacial Harvest",
-        "Kevin Macleod",
-        "Jason Shaw",
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield",
-        "Restorative Spell Pablo Betancourt"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -3769,10 +3211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70622327",
       "itunes_duration": "4401",
-      "speakers": [
-        "Disintegrate Spell Daniel Warneke",
-        "Cthulhu Mythos"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3790,10 +3229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5357991",
       "itunes_duration": "312",
-      "speakers": [
-        "Spacial Harvest",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "nesme",
@@ -3813,10 +3249,7 @@
       "enclosure_length": "53311278",
       "itunes_duration": "3309",
       "speakers": [
-        "Death Shift",
-        "Maria Milewska",
-        "Drummer David Fesliyan",
-        "Kevin Macleod"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -3835,9 +3268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "8683298",
       "itunes_duration": "520",
-      "speakers": [
-        "Solo Acoustic"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "nesme",
@@ -3857,10 +3288,7 @@
       "enclosure_length": "63174279",
       "itunes_duration": "3926",
       "speakers": [
-        "Death Shift",
-        "Gregorian Chant",
-        "Kevin Macleod",
-        "Maria Milewska"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -3880,9 +3308,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5785557",
       "itunes_duration": "339",
-      "speakers": [
-        "Solo Acoustic"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "nesme",
@@ -3900,12 +3326,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59801764",
       "itunes_duration": "3715",
-      "speakers": [
-        "Gregorian Chant",
-        "Kevin Macleod",
-        "Phil Archer",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3924,16 +3345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41028711",
       "itunes_duration": "2542",
-      "speakers": [
-        "Aasimar Cleric",
-        "Laser Shot",
-        "Magic Missle",
-        "Turn Undead",
-        "Demon Summoning",
-        "Gathering Darkness",
-        "Barkskin Spell",
-        "Restorative Spell"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -3950,9 +3362,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63343996",
       "itunes_duration": "3899",
-      "speakers": [
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -3971,12 +3381,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89651609",
       "itunes_duration": "5581",
-      "speakers": [
-        "Midnight Kingdoms",
-        "David Cole",
-        "Kevin MacLeod",
-        "Joe Mazzola Sound"
-      ],
+      "speakers": [],
       "topics": [
         "gencon",
         "special",
@@ -3996,9 +3401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "8047986",
       "itunes_duration": "338",
-      "speakers": [
-        "Arcane Ambience"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "matthews",
@@ -4019,13 +3422,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38446164",
       "itunes_duration": "2380",
-      "speakers": [
-        "Pokemon Seicho",
-        "Buff FantasySound",
-        "Bastard Sword Strikes Chainmail",
-        "Restorative Spell Pablo Betancourt",
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4044,12 +3441,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58645689",
       "itunes_duration": "3643",
-      "speakers": [
-        "Pyro Launcher",
-        "Wes Otis",
-        "Kevin Macleod",
-        "Loss Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4068,13 +3460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50977416",
       "itunes_duration": "3163",
-      "speakers": [
-        "Giles Jordan Pete",
-        "Kevin Macleod",
-        "Tension Dave Cole",
-        "Restorative Spell Pablo Betancourt",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4093,10 +3479,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "9932960",
       "itunes_duration": "598",
-      "speakers": [
-        "Ambience Cave",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "illithid",
@@ -4115,12 +3498,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40593200",
       "itunes_duration": "2514",
-      "speakers": [
-        "Maria Milewska",
-        "Kevin Macleod",
-        "Phil Archer",
-        "Loss Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4140,14 +3518,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44093582",
       "itunes_duration": "2733",
-      "speakers": [
-        "Starring Dave Cole",
-        "Maha Rogi",
-        "Bolt Spell Daniel Warneke",
-        "Wes Otis",
-        "Virtutes Vocis Kevin MacLeod",
-        "incompetech com"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4165,14 +3536,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56710881",
       "itunes_duration": "3522",
-      "speakers": [
-        "Starring Dave Cole",
-        "Maha Rogi",
-        "Easy Lemon Kevin MacLeod",
-        "Ballad Intro Dave Cole",
-        "Dave Cole",
-        "Stiletto Strikes Chainmail"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4190,13 +3554,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15133192",
       "itunes_duration": "748",
-      "speakers": [
-        "Guest Dave Cole",
-        "Wes Otis",
-        "Crossbow Bolt",
-        "Bastard Sword Strikes Chainmail",
-        "Stiletto Strikes Platemail"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -4213,10 +3571,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74528582",
       "itunes_duration": "4748",
-      "speakers": [
-        "Phil Archer",
-        "Restorative Spell Pablo Betancourt"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4235,10 +3590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11234075",
       "itunes_duration": "680",
-      "speakers": [
-        "Wonari Holo-knight",
-        "Long Note"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4258,13 +3610,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45284398",
       "itunes_duration": "2803",
-      "speakers": [
-        "Dave Cole",
-        "Ballad Intro Dave Cole",
-        "Bolt Spell Daniel Warneke",
-        "Daniele Galante",
-        "Wes Otis"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4283,12 +3629,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50068355",
       "itunes_duration": "3107",
-      "speakers": [
-        "Behind Locked Doors",
-        "Horror Combat Song",
-        "Phil Archer",
-        "Stiletto Strikes Chainmail"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4328,10 +3669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45217944",
       "itunes_duration": "2751",
-      "speakers": [
-        "Sided Adventures",
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4350,10 +3688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23866883",
       "itunes_duration": "1469",
-      "speakers": [
-        "Easy Lemon",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "sanctuary",
@@ -4373,11 +3708,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53287478",
       "itunes_duration": "3148",
-      "speakers": [
-        "Ballad Theme",
-        "Dave Cole",
-        "Quinns Song"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4396,9 +3727,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52859024",
       "itunes_duration": "3281",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "season",
@@ -4417,10 +3746,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40363535",
       "itunes_duration": "2449",
-      "speakers": [
-        "Wes Otis",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4439,9 +3765,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "11994946",
       "itunes_duration": "524",
-      "speakers": [
-        "Crossbow Bolt"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "gaia",
@@ -4459,9 +3783,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "39894372",
       "itunes_duration": "2471",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "patreon",
         "special",
@@ -4479,13 +3801,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14896229",
       "itunes_duration": "898",
-      "speakers": [
-        "Death Shift",
-        "Dave Cole",
-        "Wounds Spell Pablo Betancourt",
-        "Spacial Harvest Kevin MacLeod",
-        "Windswept Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4504,14 +3820,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60682329",
       "itunes_duration": "3723",
-      "speakers": [
-        "Dave Cole",
-        "Tension Dave Cole",
-        "Anguish Kevin MacLeod",
-        "Cthulhus Call",
-        "Wes Otis",
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -4528,9 +3837,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "2604462",
       "itunes_duration": "140",
-      "speakers": [
-        "Spinning Monkeys Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wingover",
         "announcement"
@@ -4548,8 +3855,7 @@
       "enclosure_length": "24141950",
       "itunes_duration": "1486",
       "speakers": [
-        "Detective Billowin",
-        "Maria Milewska"
+        "Detective Billowin"
       ],
       "topics": [
         "ballad",
@@ -4569,9 +3875,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42045529",
       "itunes_duration": "2605",
-      "speakers": [
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -4589,8 +3893,7 @@
       "enclosure_length": "4689252",
       "itunes_duration": "270",
       "speakers": [
-        "Solomon Off",
-        "Maria Milewska"
+        "Solomon Off"
       ],
       "topics": [
         "ballad",
@@ -4610,13 +3913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60653399",
       "itunes_duration": "3790",
-      "speakers": [
-        "Phil Archer",
-        "Ars Sonor Asomhl",
-        "Nicolas Grenier",
-        "Burnt Spirit Kevin MacLeod",
-        "Wes Otis"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen"
@@ -4728,14 +4025,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87648635",
       "itunes_duration": "3919",
-      "speakers": [
-        "Jingle Bells",
-        "Wish Background",
-        "Restorative Spell Pablo Betancourt",
-        "Summon Earth Elemental Plate",
-        "Bolt Spell Daniel Warneke",
-        "Phil Archer"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "christmas",
@@ -4753,10 +4043,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36094924",
       "itunes_duration": "1576",
-      "speakers": [
-        "Spacial Harvest Kevin MacLeod",
-        "Stormfront Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4774,12 +4061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69547322",
       "itunes_duration": "2999",
-      "speakers": [
-        "Death Shift",
-        "Kevin MacLeod",
-        "Virtutes Instrumenti Kevin MacLeod",
-        "Virtutes Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4799,9 +4081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1880879",
       "itunes_duration": "89",
-      "speakers": [
-        "Death Shift"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "salty",
@@ -4823,7 +4103,8 @@
       "enclosure_length": "89786506",
       "itunes_duration": "3796",
       "speakers": [
-        "Aaron Bordeaux"
+        "Aaron Bordeaux",
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -4844,10 +4125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46266890",
       "itunes_duration": "1989",
-      "speakers": [
-        "Aaron Bordeaux",
-        "Spacial Harvest Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4868,12 +4146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74191040",
       "itunes_duration": "3257",
-      "speakers": [
-        "Aaron Bordeaux",
-        "Horror Drone",
-        "Jason Shaw",
-        "Restorative Spell Pablo Betancourt"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4893,9 +4166,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5021022",
       "itunes_duration": "259",
-      "speakers": [
-        "Giant Wyrm Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4915,13 +4186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68919337",
       "itunes_duration": "3295",
-      "speakers": [
-        "Wagon Wheel Kevin MacLeod",
-        "Graveyard Shift Kevin MacLeod",
-        "Phil Archer",
-        "Restorative Spell Pablo Betancourt",
-        "Maria Milewska"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -4959,10 +4224,7 @@
       "enclosure_length": "68792783",
       "itunes_duration": "3251",
       "speakers": [
-        "Aaron Bordeaux",
-        "Death Shift",
-        "Spacial Harvest Kevin MacLeod",
-        "Maria Milewska"
+        "Aaron Bordeaux"
       ],
       "topics": [
         "ballad",
@@ -4984,10 +4246,7 @@
       "enclosure_length": "45103688",
       "itunes_duration": "2031",
       "speakers": [
-        "Aaron Bourdeaux",
-        "Bill Griff",
-        "Cool Vibes Kevin MacLeod",
-        "Walking Along Kevin MacLeod"
+        "Aaron Bourdeaux"
       ],
       "topics": [
         "ballad",
@@ -5010,12 +4269,7 @@
       "enclosure_length": "99805233",
       "itunes_duration": "4586",
       "speakers": [
-        "Death Shift",
-        "Maria Milewska",
-        "Restorative Spell Pablo Betancourt",
-        "Horror Drone",
-        "Slow Jam Kevin MacLeod",
-        "Cryptic Sorrow Kevin MacLeod"
+        "Death Shift"
       ],
       "topics": [
         "ballad",
@@ -5054,12 +4308,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66818236",
       "itunes_duration": "3287",
-      "speakers": [
-        "Assault Fighter Interceptor",
-        "Nova Explode Stuart Duffield",
-        "Restorative Spell Pablo Betancourt",
-        "Mindful Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5096,12 +4345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73722376",
       "itunes_duration": "3089",
-      "speakers": [
-        "Story Begins Kevin MacLeod",
-        "Immersed Kevin MacLeod",
-        "Spacial Harvest Kevin MacLeod",
-        "Virtutes Instrumenti Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5160,11 +4404,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62022127",
       "itunes_duration": "2768",
-      "speakers": [
-        "Story Begins Kevin MacLeod",
-        "Vanishing Kevin MacLeod",
-        "Egmont Overture Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5182,10 +4422,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59945803",
       "itunes_duration": "2647",
-      "speakers": [
-        "Story Begins Kevin MacLeod",
-        "Crypto Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5203,11 +4440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63694540",
       "itunes_duration": "2903",
-      "speakers": [
-        "Story Begins Kevin MacLeod",
-        "Crypto Kevin MacLeod",
-        "Stormfront Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5225,10 +4458,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89581339",
       "itunes_duration": "3921",
-      "speakers": [
-        "Story Begins Kevin MacLeod",
-        "Dreamer Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5246,11 +4476,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49357560",
       "itunes_duration": "3087",
-      "speakers": [
-        "Forsaken Mikael",
-        "Hellman Licensed",
-        "Easy Lemon Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5268,9 +4494,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45041362",
       "itunes_duration": "2819",
-      "speakers": [
-        "Story Begins"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "chosen",
@@ -5288,12 +4512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41916489",
       "itunes_duration": "2725",
-      "speakers": [
-        "Horror Drone",
-        "Story Begins",
-        "Oppressive Gloom",
-        "Spatial Harvest Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "prologue"
@@ -5311,8 +4530,7 @@
       "enclosure_length": "64614588",
       "itunes_duration": "3995",
       "speakers": [
-        "Ronee O'Connell",
-        "Story Begins Kevin MacLeod"
+        "Ronee O'Connell"
       ],
       "topics": [
         "ballad",
@@ -5331,11 +4549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60603016",
       "itunes_duration": "3649",
-      "speakers": [
-        "Horror Drone",
-        "Story Begins",
-        "Gregorian Chant Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "prologue",
@@ -5353,12 +4567,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80104529",
       "itunes_duration": "4974",
-      "speakers": [
-        "Giant Wyrm",
-        "Man Down",
-        "Story Begins",
-        "Thunderbird Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "ballad",
         "prologue",
@@ -5389,234 +4598,235 @@
 
 ## Episodes (newest first)
 
-- 2026-02-10 — Escaping Carcosa Offline - Day 3 E10 // The Pines of Zimbabwe — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2026-01-31 — Escaping Carcosa Online - Day 3 E10 // An Unexpected Party — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2026-01-25 — Escaping Carcosa Online - Day 3 E9 // The Dwarf Lord's Manor — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-12-24 — Escaping Carcosa Offline - Day 3 E9 // The Operation — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-12-01 — Escaping Carcosa Online- Day 3 E8 // The Glowing Cave — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-11-24 — Escaping Carcosa Offline - Day 3 E8 // The Plan — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-10-26 — Escaping Carcosa Online- Day 3 E7 // NPC Killers — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-10-19 — Escaping Carcosa Offline - Day 3 E7 // Exhibit of the Yellow Sign — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-10-03 — Escaping Carcosa Online- Day 3 E6 // Forge The Flesh — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-09-25 — Escaping Carcosa Offline - Day 3 E6 // Restrictions(Hastur) — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-09-01 — Escaping Carcosa Online- Day 3 E5 // The Unfinished Town — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-08-23 — Escaping Carcosa Offline - Day 3 E5 // Threats and Flowers — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-08-01 — Escaping Carcosa Online- Day 3 E4 // The UnBEARable Battle — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-07-10 — Escaping Carcosa Offline - Day 3 E4 // How do you like your eggs? — speakers: Carcosa Offline Day, YouTube Want, Conspiracy Unravel
-- 2025-06-28 — Escaping Carcosa Online- Day 3 E3 // A Guild is Formed — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-06-22 — Escaping Carcosa Offline - Day 3 E3 // Yelling at Fable — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2025-05-30 — Escaping Carcosa Online- Day 3 E2 // Vulnerable Hot Springs — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-05-12 — Escaping Carcosa Offline - Day 3 E2 // Have you seen the Yellow Sign — speakers: Carcosa Offline Day, Noor Fatumaaaa, true Check, YouTube Want, Conspiracy Unravel
-- 2025-04-28 — Escaping Carcosa Online- Day 3 E1 // Nostrodamus Postal Service — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-04-05 — Escaping Carcosa Offline - Day 3 E1 // A Precious Letter — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2025-03-19 — Escaping Carcosa Offline - Day 2 Recap — speakers: Carcosa Offline Day, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-03-03 — Escaping Carcosa Online - Day 2 Recap — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-02-11 — Escaping Carcosa Online - Day 2 E9 // Drinking and Flying — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2025-01-30 — Escaping Carcosa Offline - Day 2 E9 // Weapons, Flowers, Slugs, and Blood — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2025-01-10 — Escaping Carcosa Online - Day 2 E8 // I Am Truth — speakers: YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2024-12-24 — Escaping Carcosa Offline - Day 2 E8 // Warthog — speakers: Carcosa Offline Day, Michaela Metaphysicaal Fatuma Noor, true Check, YouTube Want, Conspiracy Unravel
-- 2024-12-10 — Escaping Carcosa Online - Day 2 E7 // The Cost of Victory — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2024-10-15 — Escaping Carcosa Offline - Day 2 E7 // The Bad Guy — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2024-08-20 — Escaping Carcosa Offline - Day 2 E6 // Cannoli — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2024-07-30 — Escaping Carcosa Online - Day 2 E6 // Boss Battle Prep — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2024-06-04 — Escaping Carcosa Offline - Day 2 E5 // Raisin the Stakes — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2024-04-23 — Escaping Carcosa Online - Day 2 E5 // Books and Balls — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2024-03-26 — Escaping Carcosa Offline - Day 2 E4 // World Eater — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2024-03-05 — Escaping Carcosa Online - Day 2 E4 // The Merchant — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2024-02-06 — Escaping Carcosa Offline - Day 2 E3 // The House of Punch — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2024-01-23 — A Quick Ballad Update — speakers: Song Jason Shaw Solo
-- 2023-12-16 — Escaping Carcosa Online - Day 2 E3 // Home Owners — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2023-12-02 — Escaping Carcosa Offline - Day 2 E2 // A Fiery Consequences — speakers: Carcosa Offline Day, true Check, YouTube Want, Conspiracy Unravel
-- 2023-11-11 — Escaping Carcosa Online - Day 2 E2 // Dan Dan Noodles — speakers: Dan Dan Noodles Welcome, Dan Dan Noodles, Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2023-10-28 — Escaping Carcosa Offline - Day 2 E1 // A Fiery Decision — speakers: Carcosa Offline Day, Michaela Metaphysicaal Fatuma Noor, true Check, YouTube Want
-- 2023-10-14 — Escaping Carcosa Online - Day 2 E1 // Some Lovely Chompers — speakers: Marquis Derrick Akihiko, YouTube Want, Creepy Doll, Cursed Forest, Quiet Tavern, Fantasy Medieval City
-- 2023-08-25 — Escaping Carcosa Offline - Day 1 Recap — speakers: Carcosa Offline Day, Show Notes
-- 2023-07-27 — Escaping Carcosa Online - Day 1 Recap — speakers: Marquis Derrick Akihiko, YouTube Want
-- 2023-07-10 — The Silent Ballad of the Seven Dice — speakers: Filip Melvan Enchanted
+- 2026-03-01 — Escaping Carcosa Online - Day 3 E11 // The Dwarf Lord's Trials
+- 2026-02-10 — Escaping Carcosa Offline - Day 3 E10 // The Pines of Zimbabwe — speakers: Carcosa Offline Day
+- 2026-01-31 — Escaping Carcosa Online - Day 3 E10 // An Unexpected Party
+- 2026-01-25 — Escaping Carcosa Online - Day 3 E9 // The Dwarf Lord's Manor
+- 2025-12-24 — Escaping Carcosa Offline - Day 3 E9 // The Operation — speakers: Carcosa Offline Day
+- 2025-12-01 — Escaping Carcosa Online- Day 3 E8 // The Glowing Cave
+- 2025-11-24 — Escaping Carcosa Offline - Day 3 E8 // The Plan — speakers: Carcosa Offline Day
+- 2025-10-26 — Escaping Carcosa Online- Day 3 E7 // NPC Killers
+- 2025-10-19 — Escaping Carcosa Offline - Day 3 E7 // Exhibit of the Yellow Sign — speakers: Carcosa Offline Day
+- 2025-10-03 — Escaping Carcosa Online- Day 3 E6 // Forge The Flesh
+- 2025-09-25 — Escaping Carcosa Offline - Day 3 E6 // Restrictions(Hastur) — speakers: Carcosa Offline Day
+- 2025-09-01 — Escaping Carcosa Online- Day 3 E5 // The Unfinished Town
+- 2025-08-23 — Escaping Carcosa Offline - Day 3 E5 // Threats and Flowers — speakers: Carcosa Offline Day
+- 2025-08-01 — Escaping Carcosa Online- Day 3 E4 // The UnBEARable Battle
+- 2025-07-10 — Escaping Carcosa Offline - Day 3 E4 // How do you like your eggs? — speakers: Carcosa Offline Day
+- 2025-06-28 — Escaping Carcosa Online- Day 3 E3 // A Guild is Formed
+- 2025-06-22 — Escaping Carcosa Offline - Day 3 E3 // Yelling at Fable — speakers: Carcosa Offline Day
+- 2025-05-30 — Escaping Carcosa Online- Day 3 E2 // Vulnerable Hot Springs
+- 2025-05-12 — Escaping Carcosa Offline - Day 3 E2 // Have you seen the Yellow Sign — speakers: Carcosa Offline Day
+- 2025-04-28 — Escaping Carcosa Online- Day 3 E1 // Nostrodamus Postal Service
+- 2025-04-05 — Escaping Carcosa Offline - Day 3 E1 // A Precious Letter — speakers: Carcosa Offline Day
+- 2025-03-19 — Escaping Carcosa Offline - Day 2 Recap — speakers: Carcosa Offline Day
+- 2025-03-03 — Escaping Carcosa Online - Day 2 Recap
+- 2025-02-11 — Escaping Carcosa Online - Day 2 E9 // Drinking and Flying
+- 2025-01-30 — Escaping Carcosa Offline - Day 2 E9 // Weapons, Flowers, Slugs, and Blood — speakers: Carcosa Offline Day
+- 2025-01-10 — Escaping Carcosa Online - Day 2 E8 // I Am Truth
+- 2024-12-24 — Escaping Carcosa Offline - Day 2 E8 // Warthog — speakers: Carcosa Offline Day
+- 2024-12-10 — Escaping Carcosa Online - Day 2 E7 // The Cost of Victory
+- 2024-10-15 — Escaping Carcosa Offline - Day 2 E7 // The Bad Guy — speakers: Carcosa Offline Day
+- 2024-08-20 — Escaping Carcosa Offline - Day 2 E6 // Cannoli — speakers: Carcosa Offline Day
+- 2024-07-30 — Escaping Carcosa Online - Day 2 E6 // Boss Battle Prep
+- 2024-06-04 — Escaping Carcosa Offline - Day 2 E5 // Raisin the Stakes — speakers: Carcosa Offline Day
+- 2024-04-23 — Escaping Carcosa Online - Day 2 E5 // Books and Balls
+- 2024-03-26 — Escaping Carcosa Offline - Day 2 E4 // World Eater — speakers: Carcosa Offline Day
+- 2024-03-05 — Escaping Carcosa Online - Day 2 E4 // The Merchant
+- 2024-02-06 — Escaping Carcosa Offline - Day 2 E3 // The House of Punch — speakers: Carcosa Offline Day
+- 2024-01-23 — A Quick Ballad Update — speakers: Quick Ballad Update Welcome, Seven Dice
+- 2023-12-16 — Escaping Carcosa Online - Day 2 E3 // Home Owners
+- 2023-12-02 — Escaping Carcosa Offline - Day 2 E2 // A Fiery Consequences — speakers: Carcosa Offline Day
+- 2023-11-11 — Escaping Carcosa Online - Day 2 E2 // Dan Dan Noodles — speakers: Dan Dan Noodles Welcome
+- 2023-10-28 — Escaping Carcosa Offline - Day 2 E1 // A Fiery Decision — speakers: Carcosa Offline Day
+- 2023-10-14 — Escaping Carcosa Online - Day 2 E1 // Some Lovely Chompers
+- 2023-08-25 — Escaping Carcosa Offline - Day 1 Recap — speakers: Carcosa Offline Day
+- 2023-07-27 — Escaping Carcosa Online - Day 1 Recap
+- 2023-07-10 — The Silent Ballad of the Seven Dice
 - 2023-05-18 — Update on the Balladverse
-- 2023-04-29 — Escaping Carcosa Offline - Day 1 E9 // Shower Rod Warrior — speakers: Carcosa Offline Day, true Check, YouTube Want
-- 2023-04-15 — Escaping Carcosa Offline - Day 1 E8 // Pub Crawl — speakers: Carcosa Offline Day, true Check, YouTube Want, Hunters Moon
-- 2023-04-10 — Patreon Special - The Nostrodamus Research Station Part 2 — speakers: Jason json, Xander AdeptXander, Kevin Macleod
-- 2023-04-10 — Patreon Special - The Nostrodamus Research Station Part 1 — speakers: Jason json, Xander AdeptXander, Cassa Bossa Nova, Easy Lemon
-- 2023-04-01 — Escaping Carcosa Online - Day 1 E7 // We Can Be Heroes — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable, Maria Milewska
+- 2023-04-29 — Escaping Carcosa Offline - Day 1 E9 // Shower Rod Warrior — speakers: Carcosa Offline Day
+- 2023-04-15 — Escaping Carcosa Offline - Day 1 E8 // Pub Crawl — speakers: Carcosa Offline Day
+- 2023-04-10 — Patreon Special - The Nostrodamus Research Station Part 2
+- 2023-04-10 — Patreon Special - The Nostrodamus Research Station Part 1
+- 2023-04-01 — Escaping Carcosa Online - Day 1 E7 // We Can Be Heroes
 - 2023-03-28 — TTRPG TAKEOVER - GET US TO THE TOP!
-- 2023-03-18 — Escaping Carcosa Offline - Day 1 E7 // Hello Vicks — speakers: Carcosa Offline Day, Victoria Hyland, true Check, YouTube Want
-- 2023-03-04 — Escaping Carcosa Online - Day 1 E6 // The Sub-Boss — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable
-- 2023-02-18 — Escaping Carcosa Online - Day 1 E5 // Houndman — speakers: Houndman Welcome, Marquis Derrick Akihiko, YouTube Want
-- 2023-02-04 — Escaping Carcosa Offline - Day 1 E6 // The Queen of Spin — speakers: Carcosa Offline Day, Victoria Hyland, true Check, YouTube Want
-- 2023-01-21 — Escaping Carcosa Offline - Day 1 E5 // Mauve Stabs a Man — speakers: true Check, YouTube Want
-- 2023-01-07 — Escaping Carcosa Offline - Day 1 E4 // Wired Owl News — speakers: Carcosa Offline Day, true Check, YouTube Want
-- 2022-12-20 — A Ballad Holiday Message & Poem! — speakers: Wish Background
-- 2022-12-10 — Escaping Carcosa Online - Day 1 E4 // Greetings from Carcosa Online — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable
-- 2022-11-26 — Escaping Carcosa Offline - Day 1 E3 // Ghost in the Machine — speakers: Carcosa Offline Day, Will Guy, Will Noor, true Check, YouTube Want, Studio Calling
-- 2022-11-12 — Escaping Carcosa Online - Day 1 E3 // Praise be to our Shining God — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable, Restorative Spell Pablo Betancourt
-- 2022-10-29 — Escaping Carcosa Offline - Day 1 E2 // 10,928 — speakers: Carcosa Offline Day, true Check, YouTube Want
+- 2023-03-18 — Escaping Carcosa Offline - Day 1 E7 // Hello Vicks — speakers: Carcosa Offline Day, Victoria Hyland
+- 2023-03-04 — Escaping Carcosa Online - Day 1 E6 // The Sub-Boss
+- 2023-02-18 — Escaping Carcosa Online - Day 1 E5 // Houndman — speakers: Houndman Welcome
+- 2023-02-04 — Escaping Carcosa Offline - Day 1 E6 // The Queen of Spin — speakers: Carcosa Offline Day
+- 2023-01-21 — Escaping Carcosa Offline - Day 1 E5 // Mauve Stabs a Man
+- 2023-01-07 — Escaping Carcosa Offline - Day 1 E4 // Wired Owl News — speakers: Carcosa Offline Day
+- 2022-12-20 — A Ballad Holiday Message & Poem!
+- 2022-12-10 — Escaping Carcosa Online - Day 1 E4 // Greetings from Carcosa Online
+- 2022-11-26 — Escaping Carcosa Offline - Day 1 E3 // Ghost in the Machine — speakers: Carcosa Offline Day
+- 2022-11-12 — Escaping Carcosa Online - Day 1 E3 // Praise be to our Shining God
+- 2022-10-29 — Escaping Carcosa Offline - Day 1 E2 // 10,928 — speakers: Carcosa Offline Day
 - 2022-10-24 — Escaping Carcosa Trailer
-- 2022-10-15 — Escaping Carcosa Online - Day 1 E2 // The Massacre — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable
-- 2022-10-01 — Escaping Carcosa Offline - Day 1 E1 // Thai Food — speakers: Carcosa Offline Day, true Check, YouTube Want, Studio Brandenburg, Filip Melvan Fable, Grocery Store
-- 2022-10-01 — Escaping Carcosa Online - Day 1 E1 // Launch Day — speakers: Marquis Derrick Akihiko, YouTube Want, Filip Melvan Fable, Grocery Store
-- 2022-09-26 — Campaign 2 Announcement!!! — speakers: YouTube Want, Filip Melvan Fable
-- 2022-09-11 — Ballad of the Chosen Few - Campaign End Q&A! — speakers: Filip Melvan Fable
-- 2022-08-22 — Ballad of the Chosen Few - S4 E7 // Campaign Finale — speakers: Dorem Highfyre, Michelle Want, Ballad Theme, io Volcano, Vampire Killer, Michaël Ghelfi Rpg, Graham Plowman Cthulhu Mythos, Restorative Spell Pablo Betancourt
+- 2022-10-15 — Escaping Carcosa Online - Day 1 E2 // The Massacre — speakers: Escaping Carcosa Online, Seven Dice, Carcosa Online
+- 2022-10-01 — Escaping Carcosa Offline - Day 1 E1 // Thai Food — speakers: Carcosa Offline Day
+- 2022-10-01 — Escaping Carcosa Online - Day 1 E1 // Launch Day — speakers: Escaping Carcosa Online, Launch Day Welcome, Seven Dice
+- 2022-09-26 — Campaign 2 Announcement!!!
+- 2022-09-11 — Ballad of the Chosen Few - Campaign End Q&A!
+- 2022-08-22 — Ballad of the Chosen Few - S4 E7 // Campaign Finale — speakers: Chosen Few, Campaign Finale Welcome, Seven Dice
 - 2022-08-08 — Q&A Announcement
-- 2022-08-04 — Ballad of the Chosen Few - S4 E6 // The Ballad of the Chosen Few — speakers: Dorem Highfyre, Michelle Want, Ballad Theme, Haunted Castle, Cthulhu Mythos, Azathoth Killers Kevin, Phil Archer
-- 2022-07-25 — Ballad of the Chosen Few - S4 E5 // The War for Existence — speakers: Ballad Theme, Torn Flesh, Karl Casey, Evocation Spell Sun
-- 2022-07-18 — Ballad of the Chosen Few - S4 E4 // The War for Existence — speakers: Ballad Theme, Kevin Macleod, Phil Archer
-- 2022-07-12 — Ballad of the Chosen Few - S4 E3 // The War for Existence — speakers: Dorem Highfyre, Ballad Theme, Zombie Horde Attack
-- 2022-07-04 — Ballad of the Chosen Few - S4 E2 // The Ivory Tower — speakers: Ballad Theme, Virtutes Instrumenti Kevin, Moron David Fesliyan
-- 2022-06-28 — Ballad of the Chosen Few - S4 E1 // The Ivory Tower — speakers: Ballad Theme, Rafael Krux, Dreamhaven Link
-- 2022-06-22 — Ballad of the Chosen Few - S3 E19 // Finale — speakers: Ballad Theme, Virtutes Vocis Kevin, Pablo Betancourt, Graham Plowman, Rafael Krux, Alexander Nakarada Deep, Sweet Sleeping
+- 2022-08-04 — Ballad of the Chosen Few - S4 E6 // The Ballad of the Chosen Few
+- 2022-07-25 — Ballad of the Chosen Few - S4 E5 // The War for Existence — speakers: Chosen Few, Existence Welcome, Seven Dice, Ghoulish One
+- 2022-07-18 — Ballad of the Chosen Few - S4 E4 // The War for Existence — speakers: Chosen Few, Existence Welcome, Seven Dice, Ivory Tower
+- 2022-07-12 — Ballad of the Chosen Few - S4 E3 // The War for Existence — speakers: Chosen Few, Existence Welcome, Seven Dice
+- 2022-07-04 — Ballad of the Chosen Few - S4 E2 // The Ivory Tower — speakers: Chosen Few, Seven Dice
+- 2022-06-28 — Ballad of the Chosen Few - S4 E1 // The Ivory Tower — speakers: Chosen Few, Seven Dice
+- 2022-06-22 — Ballad of the Chosen Few - S3 E19 // Finale — speakers: Chosen Few
 - 2022-06-18 — Rise of Nyarlathotep Season 2 Recap
-- 2022-06-01 — Ballad of the Chosen Few - S3 E18 // Back to the Beginning — speakers: Ballad Theme, David Fesliyan
-- 2022-05-15 — Ballad of the Chosen Few - S3 E17 // Back to the Beginning — speakers: Ballad Theme, Alexander Nakarada, Virtutes Vocis
-- 2022-04-30 — Ballad of the Chosen Few - S3 E16 // The Ballad of Sylindia — speakers: Pink Bubblegum, Multiclass Theatre, Regal Rollers Kickstarter, Ballad Theme, Giant Wyrm, Mystery Sax Kevin
-- 2022-04-12 — Ballad of the Chosen Few - S3 E15 // The Ballad of Sylindia — speakers: Pink Bubblegum, Multiclass Theatre, Ballad Theme
-- 2022-03-28 — Ballad of the Chosen Few - S3 E14 // A War Stricken World — speakers: King Leolin, Ballad Theme, Torn Flesh, Karl Casey
-- 2022-03-14 — Ballad of the Chosen Few - S3 E13 // A War Stricken World — speakers: Ballad Theme, Cole Bump, Graham Plowman
-- 2022-02-28 — Ballad of the Chosen Few - S3 E12 // Hamour, a War Stricken World — speakers: Jason Tkachuk, Omnicron Zisk Lian, Zigurd Meg Nimchan, Tim Bongiovanni, Virtutes Instrumenti, Dawn Alexander, Evocation Spell Sun, Assault Fighter Interceptor
-- 2022-02-14 — Ballad of the Chosen Few - S3 E11 // A War Stricken World — speakers: Ballad Theme, Cultist Song Dave Cole
-- 2022-01-31 — Ballad of the Chosen Few - Season 3 Ballad Q&A — speakers: Fantasy Ambience, Alexander Nakarada Link
-- 2022-01-17 — Ballad of the Chosen Few - S3 E10 // All Hail Prince M‘zi — speakers: Hive Githyanki, Ballad Theme, Karl Casey, Audionautix Zombie Horde Attack
-- 2021-12-27 — Ballad of the Chosen Few - S3 E9 // All Hail Prince M‘zi — speakers: Ballad Theme, Graham Plowman, Audionautix Zombie Horde Attack, Assault Fighter Interceptor, Nova Explode Stuart Duffield, Evocation Spell Sun, Bolt Spell Daniel Warneke, Dawn Alexander
-- 2021-12-03 — Ballad of the Chosen Few - S3 E8 // All Hail Prince M‘zi — speakers: Ballad Theme, Giant Wyrm, Spacial Harvest, Ruined Castle
-- 2021-11-03 — Ballad of the Chosen Few - S3 E7 // All Hail Prince M‘zi — speakers: Dave Cole, Ballad Theme, Rafael Krux, Karl Casey, Wounds Spell Pablo Betancourt, Restorative Spell Pablo Betancourt, Stuard Duffield
-- 2021-10-20 — Ballad of the Chosen Few - S3 E6 // All Hail Prince M‘zi — speakers: Guest Dave Cole, Ballad Theme, Stormfront Kevin, Fantasy Ambience, Alexander Nakarada Link
-- 2021-10-08 — Rise of Nyarlathotep Season 1 Character Recap — speakers: Alora Meg, Weary Ian, Graham Plowman
-- 2021-09-29 — Ballad of the Chosen Few - S3 E5 // All Hail Prince M‘zi — speakers: Ballad Theme, Graham Plowman
+- 2022-06-01 — Ballad of the Chosen Few - S3 E18 // Back to the Beginning — speakers: Chosen Few, Beginning Welcome, Seven Dice
+- 2022-05-15 — Ballad of the Chosen Few - S3 E17 // Back to the Beginning
+- 2022-04-30 — Ballad of the Chosen Few - S3 E16 // The Ballad of Sylindia
+- 2022-04-12 — Ballad of the Chosen Few - S3 E15 // The Ballad of Sylindia
+- 2022-03-28 — Ballad of the Chosen Few - S3 E14 // A War Stricken World
+- 2022-03-14 — Ballad of the Chosen Few - S3 E13 // A War Stricken World
+- 2022-02-28 — Ballad of the Chosen Few - S3 E12 // Hamour, a War Stricken World
+- 2022-02-14 — Ballad of the Chosen Few - S3 E11 // A War Stricken World — speakers: Chosen Few, War Stricken World Welcome, Seven Dice
+- 2022-01-31 — Ballad of the Chosen Few - Season 3 Ballad Q&A
+- 2022-01-17 — Ballad of the Chosen Few - S3 E10 // All Hail Prince M‘zi
+- 2021-12-27 — Ballad of the Chosen Few - S3 E9 // All Hail Prince M‘zi — speakers: Chosen Few, All Hail Prince, Seven Dice
+- 2021-12-03 — Ballad of the Chosen Few - S3 E8 // All Hail Prince M‘zi
+- 2021-11-03 — Ballad of the Chosen Few - S3 E7 // All Hail Prince M‘zi — speakers: Chosen Few, All Hail Prince, Seven Dice
+- 2021-10-20 — Ballad of the Chosen Few - S3 E6 // All Hail Prince M‘zi — speakers: Chosen Few, All Hail Prince, Seven Dice
+- 2021-10-08 — Rise of Nyarlathotep Season 1 Character Recap — speakers: Nyarlathotep Season, Character Recap Welcome, Seven Dice
+- 2021-09-29 — Ballad of the Chosen Few - S3 E5 // All Hail Prince M‘zi — speakers: Chosen Few, All Hail Prince, Seven Dice
 - 2021-09-21 — Rise of Nyarlathotep Season 1 Recap
-- 2021-09-13 — Ballad of the Chosen Few - S3 E4 // All Hail Prince M‘zi — speakers: Ballad Theme, Graham Plowman
-- 2021-09-02 — Ballad of the Chosen Few - S3 E3 // The Sins of the Silver Shield — speakers: Will Kalsaur, Ballad Theme, Assault Fighter Interceptor, Nova Explode Stuart Duffield, Restorative Spell, Evocation Spell Sun
-- 2021-08-16 — Ballad of the Chosen Few - S3 E2 // The Sins of the Silver Shield — speakers: Join Kalsaur, Ballad Theme, Virtues Vocis
-- 2021-08-02 — Ballad of the Chosen Few - S3 E1 // The Steve Memorial Town of Geldspar — speakers: Steve Memorial Town, Ronee O'Connell, Cole Bossa, Kevin Macleod, Alexander Nakarada Link
-- 2021-07-16 — Ballad of the Chosen Few - Prologue 4 - Case File VI //The Shining Jewel of Waterdeep — speakers: Detective Billowin, Ballad Theme, Cultist Song Dave Cole, Graham Plowman, Cthulhu Mythos, Kevin Macleod, Karl Casey, Dark Places
-- 2021-06-28 — Ballad of the Chosen Few - Prologue 3 - Case File VI // The Shining Jewel of Waterdeep — speakers: Detective Billowin, Death Shift, Ballad Theme, Cthulhu Mythos, Kevin Macleod, Maria Milewska, Jonathan Pitcher
-- 2021-06-10 — The Replicant - The Dead Song Part 2 ft The Backwater Bastards — speakers: Horror Drone Kevin, Karl Casey
-- 2021-06-03 — The Replicant - The Dead Song Part 1 ft The Backwater Bastards — speakers: Kawai Kitsune, Strange Tomb, Karl Casey, Rafael Krux
-- 2021-05-25 — Ballad of the Chosen Few - Prologue 2 // The Hunt for the Shining Bird — speakers: Theme Dave Cole, Zombie Horde Attack, Daniele Galante, Assault Fighter Interceptor, Nova Explode Stuart Duffield
-- 2021-05-18 — Ballad of the Chosen Few - Prologue 1 // The Hunt for the Shining Bird — speakers: Theme Dave Cole, Green Fluid Karl, Alexander Nakarada Link, Kevin Macleod
-- 2021-05-04 — Ballad of the Chosen Few - S2 E19 //Finale — speakers: Kevin Macleod, Cthulhu Mythos, Assault Fighter Interceptor, Nova Explode Stuart Duffield
-- 2021-04-12 — Ballad of the Chosen Few - S2 E18 // I’m Coming Home — speakers: Ballad Theme, Cultist Song Dave Cole, Kevin Macleod, Rafael Krux
-- 2021-03-15 — Ballad of the Chosen Few - S2 E17 // The King In Yellow — speakers: Dorem Highfyre, Ballad Theme, Kevin Macleod
-- 2021-03-01 — Ballad of the Chosen Few - S2 E16 // The Sacred Flame — speakers: Alyssa Fraser, Jimmy Fontanez, Virtutes Instrumenti, Fantasy Ambience Alexander, Combat Drums, Evocation Spell Sun, Stoneskin Spell Filippo Buresta, Marco Imperatori
-- 2021-01-28 — Ballad of the Chosen Few - Season 2 Update and Q&A — speakers: Kevin Macleod, Alexander Nakarada Link
-- 2021-01-19 — Ballad of the Chosen Few - The History of The Sacred Flame // The King in Yellow — speakers: Dorem Highfyre, Solomon Matthews, Mysterious Fantasy, Zach Aubert
-- 2021-01-19 — Ballad of the Chosen Few - Murder on the Shining Express Part 2 — speakers: Robert Jason, Edgar Baker, Song Dave Cole, Spy Glass Kevin Macleod, Moron David Fesliyan
-- 2021-01-19 — Ballad of the Chosen Few - Murder on the Shining Express Part 1 — speakers: Robert Jason, Edgar Baker, Song Dave Cole, Gymnopedie No, Spy Glass Kevin Macleod
-- 2021-01-04 — Ballad of the Chosen Few - S2 E15 // The King in Yellow — speakers: Ballad Theme Dave Cole, Kevin MacLeod
-- 2020-12-29 — Are We Dead Yet Holiday Special Ft. Ballad Part 2 — speakers: Josh Fisher, Luc Soekrasno
-- 2020-12-21 — Ballad of the Chosen Few - A Very Ballad Christmas — speakers: Tim Allen, Santa Claus, Jubilee Jinglebell, Jingle Bells, Kevin MacLeod
-- 2020-12-21 — Are We Dead Yet Holiday Special Ft. Ballad Part 1 — speakers: Josh Fisher, Luc Soekrasno, Dee Yan-Key
-- 2020-11-24 — Ballad of the Chosen Few - S2 E14 // The King in Yellow — speakers: Kevin MacLeod, Barkskin Spell Filippo Buresta
-- 2020-11-09 — Ballad of the Chosen Few - S2 E13 // The King In Yellow — speakers: Giant Wyrm, Spacial Harvest, Kevin Macleod
-- 2020-10-29 — Ballad of the Chosen Few - Halloween Special - Just Doctor Work - Origins of The Spray Part 2 — speakers: Samba Isobel, Virtues Vocis, Kevin Macleod, Musicfiles License, Rafael Krux License, David Fesliyan
-- 2020-10-29 — Ballad of the Chosen Few - Halloween Special - Just Doctor Work - Origins of The Spray Part 1 — speakers: Kevin Macleod, Rafael Krux License
-- 2020-10-20 — Ballad of the Chosen Few - S2 E12 // Wellshire — speakers: Evocation Spell Sun, Nova Explode Stuart, Wounds Spell Pablo Betancourt, Alexander Nakarada-from-filmmusic-io
-- 2020-10-05 — Ballad of the Chosen Few - S2 E11 // Wellshire — speakers: Ballad Intro, Maria Milewska, Restorative Spell Pablo Betancourt
-- 2020-09-28 — The Redacted Files - Delta Green: Control Copy — speakers: Kevin MacLeod
-- 2020-09-21 — Ballad of the Chosen Few - S2 E10 // Wellshire — speakers: Ballad Intro, Zombie Horde Attack
+- 2021-09-13 — Ballad of the Chosen Few - S3 E4 // All Hail Prince M‘zi — speakers: Chosen Few, All Hail Prince, Seven Dice
+- 2021-09-02 — Ballad of the Chosen Few - S3 E3 // The Sins of the Silver Shield
+- 2021-08-16 — Ballad of the Chosen Few - S3 E2 // The Sins of the Silver Shield — speakers: Join Kalsaur
+- 2021-08-02 — Ballad of the Chosen Few - S3 E1 // The Steve Memorial Town of Geldspar — speakers: Steve Memorial Town
+- 2021-07-16 — Ballad of the Chosen Few - Prologue 4 - Case File VI //The Shining Jewel of Waterdeep — speakers: Detective Billowin
+- 2021-06-28 — Ballad of the Chosen Few - Prologue 3 - Case File VI // The Shining Jewel of Waterdeep — speakers: Detective Billowin
+- 2021-06-10 — The Replicant - The Dead Song Part 2 ft The Backwater Bastards
+- 2021-06-03 — The Replicant - The Dead Song Part 1 ft The Backwater Bastards
+- 2021-05-25 — Ballad of the Chosen Few - Prologue 2 // The Hunt for the Shining Bird — speakers: Chosen Few, Shining Bird Welcome, Seven Dice, Nostrodamus Corporation
+- 2021-05-18 — Ballad of the Chosen Few - Prologue 1 // The Hunt for the Shining Bird — speakers: Chosen Few, Shining Bird Welcome, Seven Dice
+- 2021-05-04 — Ballad of the Chosen Few - S2 E19 //Finale — speakers: Chosen Few, Finale Welcome, Seven Dice
+- 2021-04-12 — Ballad of the Chosen Few - S2 E18 // I’m Coming Home — speakers: Chosen Few, Coming Home Welcome, Seven Dice
+- 2021-03-15 — Ballad of the Chosen Few - S2 E17 // The King In Yellow — speakers: Chosen Few, Seven Dice
+- 2021-03-01 — Ballad of the Chosen Few - S2 E16 // The Sacred Flame
+- 2021-01-28 — Ballad of the Chosen Few - Season 2 Update and Q&A
+- 2021-01-19 — Ballad of the Chosen Few - The History of The Sacred Flame // The King in Yellow — speakers: Chosen Few, Yellow Welcome, Seven Dice
+- 2021-01-19 — Ballad of the Chosen Few - Murder on the Shining Express Part 2
+- 2021-01-19 — Ballad of the Chosen Few - Murder on the Shining Express Part 1
+- 2021-01-04 — Ballad of the Chosen Few - S2 E15 // The King in Yellow
+- 2020-12-29 — Are We Dead Yet Holiday Special Ft. Ballad Part 2
+- 2020-12-21 — Ballad of the Chosen Few - A Very Ballad Christmas
+- 2020-12-21 — Are We Dead Yet Holiday Special Ft. Ballad Part 1
+- 2020-11-24 — Ballad of the Chosen Few - S2 E14 // The King in Yellow — speakers: Chosen Few, Yellow Welcome, Seven Dice
+- 2020-11-09 — Ballad of the Chosen Few - S2 E13 // The King In Yellow
+- 2020-10-29 — Ballad of the Chosen Few - Halloween Special - Just Doctor Work - Origins of The Spray Part 2 — speakers: Chosen Few, Halloween Special, Just Doctor Work, Seven Dice
+- 2020-10-29 — Ballad of the Chosen Few - Halloween Special - Just Doctor Work - Origins of The Spray Part 1 — speakers: Chosen Few, Halloween Special, Just Doctor Work, Seven Dice
+- 2020-10-20 — Ballad of the Chosen Few - S2 E12 // Wellshire
+- 2020-10-05 — Ballad of the Chosen Few - S2 E11 // Wellshire
+- 2020-09-28 — The Redacted Files - Delta Green: Control Copy — speakers: Delta Green, Control Copy
+- 2020-09-21 — Ballad of the Chosen Few - S2 E10 // Wellshire
 - 2020-09-15 — A Couple of Characters - Halflings All The Way Down
-- 2020-09-07 — Ballad of the Chosen Few - S2 E9 - Case File V - Death Shift // The Arkham Effect — speakers: Death Shift, Ballad Theme, Alexander Nakarada, Cool Vibes, Kevin Macleod, Phil Archer
-- 2020-09-01 — Ballad of the Chosen Few - S2 E8 // The Arkham Effect — speakers: Flowers Bloom, Ballad Theme, Warneke Doors, Forsaken Mikael, Zombie Horde Attack, Alexander Nakarada
-- 2020-08-10 — Ballad of the Chosen Few - S2 E7 // The Arkham Effect — speakers: Cthulhu Mythos, Cryptic Sorrow, Kevin Macleod, Zombie Horde Attack
-- 2020-08-03 — Bad Heroes - The Forgotten Court Part Twelve — speakers: Kai Engel, Jesse Spillane
-- 2020-07-27 — Ballad of the Chosen Few - S2 E6 // The Arkham Effect — speakers: Dan Bright, Jason Shaw Beginning, Medieval Battleground, Jason Shaw Horror Music, Cthulhu Mythos, Kevin MacLeod
-- 2020-07-20 — The Replicant - Part 2 ft. The Backwater Bastards — speakers: Backwater Bastard, Backwater Bastards, Zombie Horde Attack, Moron David Fesliyan
-- 2020-07-20 — The Replicant - Part 1 ft The Backwater Bastards — speakers: Backwater Bastards, Combat Drums Platemail, Furious Freak, Kawai Kitsune, Zombie Horde Attack
-- 2020-07-13 — Ballad of the Chosen Few - S2 E5 // That Which Lurks in the Deep — speakers: Ballad Theme, Phil Archer, Evocation Spell Sun
-- 2020-06-24 — The Lovelycraftians - Contact — speakers: Midnight Kingdoms, Dylan Emmet, Leonell Cassio, Kevin MacLeod, Everet Almond, Nicolas Jeudy, Dark Fantasy Studio
-- 2020-06-15 — The CtrlGroup - Cinders of Winter Part 1 — speakers: Andrew Maderos
-- 2020-05-25 — Ballad of the Chosen Few - S2 E4 // That Which Lurks in the Deep — speakers: Ballad Theme Dave Cole, Spacial Harvest, Alexander Nakarada Licensed, Phil Archer
-- 2020-05-11 — Ballad of the Chosen Few - S2 E3 // That Which Lurks in the Deep — speakers: Ballad Theme Dave Cole, ashamaluevmusic com, Cthulhu Mythos, Alexander Nakarada License, Kevin Macleod License, Evocation Spell Sun
-- 2020-04-29 — Ballad of the Chosen Few - A Shining Birthday - Critical Bits Part 2 — speakers: Ballad Theme, Zombie Horde Attack, Evocation Spell Sun, Barkskin Spell Filippo Buresta, Phil Archer, Restorative Spell Pablo Betancourt, Spy Glass, Kevin Macleod
-- 2020-04-29 — Ballad of the Chosen Few - A Shining Birthday - Critical Bits Part 1 — speakers: Ballad Theme, Derek Fiechter Haunted, Spacial Harvest, Giant Wyrm, Kevin Macleod
-- 2020-04-22 — Ballad of the Chosen Few - A Shining Birthday - Lovelycraftians Part 2 — speakers: Theme Dave Cole Toss, Karaoke Sing MoonKaraoke, Spy Glass, Midnight Tale, Evocation Spell Sun, Restorative Spell Pablo Betancourt, Katy Perry-Firework, karaoke-version com
-- 2020-04-22 — Ballad of the Chosen Few - A Shining Birthday - Lovelycraftians Part 1 — speakers: Theme Dave Cole Toss, Karaoke Sing MoonKaraoke, Spy Glass, Midnight Tale, Evocation Spell Sun, Restorative Spell Pablo Betancourt, Katy Perry-Firework, karaoke-version com
-- 2020-04-15 — Ballad of the Chosen Few - A Shining Birthday - Four Orbs — speakers: Theme Dave Cole Without, Barkskin Spell Filippo Buresta, Dark Walk, Kevin Macleod
-- 2020-04-08 — Ballad of the Chosen Few - A Shining Birthday - ChasmQuest — speakers: Barkskin Spell Filippo Buresta, Restorative Spell Pablo Betancourt, Phil Archer, Jonathan Pitcher
-- 2020-04-04 — Ballad of the Chosen Few - S2 E2 // That Which Lurks in the Deep — speakers: Death Shift, Multiclass Theatre
-- 2020-03-16 — Ballad of the Chosen Few - S2 E1 // That Which Lurks in the Deep — speakers: Spy Glass, Kevin Macleod, Mysterious Fantasy Zach, Phil Archer Moron David
+- 2020-09-07 — Ballad of the Chosen Few - S2 E9 - Case File V - Death Shift // The Arkham Effect — speakers: Death Shift
+- 2020-09-01 — Ballad of the Chosen Few - S2 E8 // The Arkham Effect — speakers: Chosen Few
+- 2020-08-10 — Ballad of the Chosen Few - S2 E7 // The Arkham Effect
+- 2020-08-03 — Bad Heroes - The Forgotten Court Part Twelve — speakers: Bad Heroes, Twelve Bad Heroes
+- 2020-07-27 — Ballad of the Chosen Few - S2 E6 // The Arkham Effect
+- 2020-07-20 — The Replicant - Part 2 ft. The Backwater Bastards — speakers: Backwater Bastard
+- 2020-07-20 — The Replicant - Part 1 ft The Backwater Bastards
+- 2020-07-13 — Ballad of the Chosen Few - S2 E5 // That Which Lurks in the Deep
+- 2020-06-24 — The Lovelycraftians - Contact
+- 2020-06-15 — The CtrlGroup - Cinders of Winter Part 1
+- 2020-05-25 — Ballad of the Chosen Few - S2 E4 // That Which Lurks in the Deep
+- 2020-05-11 — Ballad of the Chosen Few - S2 E3 // That Which Lurks in the Deep
+- 2020-04-29 — Ballad of the Chosen Few - A Shining Birthday - Critical Bits Part 2
+- 2020-04-29 — Ballad of the Chosen Few - A Shining Birthday - Critical Bits Part 1
+- 2020-04-22 — Ballad of the Chosen Few - A Shining Birthday - Lovelycraftians Part 2
+- 2020-04-22 — Ballad of the Chosen Few - A Shining Birthday - Lovelycraftians Part 1
+- 2020-04-15 — Ballad of the Chosen Few - A Shining Birthday - Four Orbs
+- 2020-04-08 — Ballad of the Chosen Few - A Shining Birthday - ChasmQuest
+- 2020-04-04 — Ballad of the Chosen Few - S2 E2 // That Which Lurks in the Deep — speakers: Death Shift
+- 2020-03-16 — Ballad of the Chosen Few - S2 E1 // That Which Lurks in the Deep
 - 2020-03-02 — Ballad of the Chosen Few - Draxir’s Prologue // A War Filled Home
-- 2020-02-17 — Ballad of the Chosen Few - Kalsaur’s Prologue // The Rebirth of a Hero — speakers: Kevin Macleod, Restorative Spell Pablo Betancourt, Maria Milewska
-- 2020-02-03 — Ballad of the Chosen Few - M’zi’s Prologue // A Glimpse of Home — speakers: Kevin Macleod
-- 2020-01-20 — Ballad of the Chosen Few - Borodon’s Prologue // An Arcane Understanding — speakers: Virtutes Instrumenti, Kevin Macleod, Phil Archer Inn
-- 2020-01-06 — Ballad of the Chosen Few - Ronee’s Prologue // Finding Oneself — speakers: Tavern Song Dave Cole, Zombie Horde Attack, Evocation Spell Sun
-- 2019-12-16 — Ballad of the Chosen Few - TI Saves Christmas — speakers: Jammy Jams, Evocation Spell Sun, Jingle Bells, Kevin Macleod, David Fesliyan, Xmas Prayer Evil Brain
-- 2019-11-26 — Ballad of the Chosen Few - S1 E46 // Finale — speakers: Zombie Horde Attack, Phil Archer, Restorative Spell Pablo Betancourt, Bolt Spell Daniel Warneke, Evocation Spell Sun, Disintegrate Spell Daniel Warneke, Medieval Battles, Acid Arrow
-- 2019-11-18 — Ballad of the Chosen Few - S1 E45 // Arkham — speakers: Ritual Kevin Macleod, Restorative Spell Pablo Betancourt
-- 2019-11-11 — Ballad of the Chosen Few - S1 E44 // All Hail the Shining God — speakers: Mysterious Fantasy Zach Aubert, Marco Imperatori, Daniele Galante, Stoneskin Spell Filippo Buresta, Stiletto Strikes Chainmail, Combat Drums, Acid Arrow, Magic Missle
-- 2019-11-04 — Ballad of the Chosen Few - S1 E43 // Arkham — speakers: Kevin Macleod, Barkskin Spell Filippo Buresta, Dispel Magic, Disintegration Ray Platemail Games, Cthulhu Mythos, Demon Summoning Arise, David Fesliyan
-- 2019-10-28 — Ballad of the Chosen Few - Halloween Special - Gold Toe’s Candy Heist — speakers: Death Shift, Glitter Blast, Spacial Harvest, Kevin Macleod, Jason Shaw, Assault Fighter Interceptor, Nova Explode Stuart Duffield, Restorative Spell Pablo Betancourt
+- 2020-02-17 — Ballad of the Chosen Few - Kalsaur’s Prologue // The Rebirth of a Hero
+- 2020-02-03 — Ballad of the Chosen Few - M’zi’s Prologue // A Glimpse of Home
+- 2020-01-20 — Ballad of the Chosen Few - Borodon’s Prologue // An Arcane Understanding
+- 2020-01-06 — Ballad of the Chosen Few - Ronee’s Prologue // Finding Oneself — speakers: Chosen Few, Finding Oneself Welcome, Seven Dice, New Dawn
+- 2019-12-16 — Ballad of the Chosen Few - TI Saves Christmas
+- 2019-11-26 — Ballad of the Chosen Few - S1 E46 // Finale
+- 2019-11-18 — Ballad of the Chosen Few - S1 E45 // Arkham
+- 2019-11-11 — Ballad of the Chosen Few - S1 E44 // All Hail the Shining God
+- 2019-11-04 — Ballad of the Chosen Few - S1 E43 // Arkham
+- 2019-10-28 — Ballad of the Chosen Few - Halloween Special - Gold Toe’s Candy Heist — speakers: Death Shift
 - 2019-10-21 — Ballad of the Chosen Few - The Report of Commander Fargus // Arkham
-- 2019-10-14 — Ballad of the Chosen Few - S1 E42 // Arkham — speakers: Disintegrate Spell Daniel Warneke, Cthulhu Mythos
-- 2019-10-07 — Ballad of the Chosen Few - A Shining Nesme: Oh Beautiful Nesme // Arkham — speakers: Spacial Harvest, Kevin Macleod
-- 2019-09-30 — Ballad of the Chosen Few - S1 E41 // Arkham — speakers: Death Shift, Maria Milewska, Drummer David Fesliyan, Kevin Macleod
-- 2019-09-23 — Ballad of the Chosen Few - A Shining Nesme: Preparations // The Road to Nesme — speakers: Solo Acoustic
-- 2019-09-16 — Ballad of the Chosen Few - S1 E40 // The Road to Nesme — speakers: Death Shift, Gregorian Chant, Kevin Macleod, Maria Milewska
-- 2019-09-09 — Ballad of the Chosen Few - A Shining Nesme // The Road to Nesme — speakers: Solo Acoustic
-- 2019-09-02 — Ballad of the Chosen Few - S1 E39 // The Road to Nesme — speakers: Gregorian Chant, Kevin Macleod, Phil Archer, Maria Milewska
-- 2019-08-26 — Ballad of the Chosen Few - S1 E38 // No One Gets Out — speakers: Aasimar Cleric, Laser Shot, Magic Missle, Turn Undead, Demon Summoning, Gathering Darkness, Barkskin Spell, Restorative Spell
-- 2019-08-19 — Ballad of the Chosen Few - S1 E37 // The Road to Nesme — speakers: Kevin Macleod
-- 2019-08-12 — GenCon Special - The Ballad of the Midnight Orbs — speakers: Midnight Kingdoms, David Cole, Kevin MacLeod, Joe Mazzola Sound
-- 2019-08-12 — Ballad of the Chosen Few - Matthews Meets Oblivion // The Road to Nesme — speakers: Arcane Ambience
-- 2019-08-05 — Ballad of the Chosen Few - S1 E36 // The Road to Nesme — speakers: Pokemon Seicho, Buff FantasySound, Bastard Sword Strikes Chainmail, Restorative Spell Pablo Betancourt, Kevin Macleod
-- 2019-07-29 — Ballad of the Chosen Few - S1 E35 - Case File IV // TI 424 — speakers: Pyro Launcher, Wes Otis, Kevin Macleod, Loss Kevin Macleod
-- 2019-07-22 — Ballad of the Chosen Few - S1 E34 // The Road to Nesme — speakers: Giles Jordan Pete, Kevin Macleod, Tension Dave Cole, Restorative Spell Pablo Betancourt, Maria Milewska
-- 2019-07-15 — Ballad of the Chosen Few - The Illithid // The Road to Nesme — speakers: Ambience Cave, Kevin MacLeod
-- 2019-07-08 — Ballad of the Chosen Few - S1 E33 // A Sitdown at the Vulgar Unicorn — speakers: Maria Milewska, Kevin Macleod, Phil Archer, Loss Kevin Macleod
-- 2019-07-01 — Ballad of the Chosen Few - S1 E32 // The Wraith — speakers: Starring Dave Cole, Maha Rogi, Bolt Spell Daniel Warneke, Wes Otis, Virtutes Vocis Kevin MacLeod, incompetech com
-- 2019-06-24 — Ballad of the Chosen Few - S1 E31 // The Wraith — speakers: Starring Dave Cole, Maha Rogi, Easy Lemon Kevin MacLeod, Ballad Intro Dave Cole, Dave Cole, Stiletto Strikes Chainmail
-- 2019-06-17 — Ballad of the Chosen Few - S1 E30 // TI-422 — speakers: Guest Dave Cole, Wes Otis, Crossbow Bolt, Bastard Sword Strikes Chainmail, Stiletto Strikes Platemail
-- 2019-06-10 — Ballad of the Chosen Few - S1 E29 // The Illithid’s Games — speakers: Phil Archer, Restorative Spell Pablo Betancourt
-- 2019-06-03 — Ballad of the Chosen Few - Diar’rna’s Capture // The Illithid’s Games — speakers: Wonari Holo-knight, Long Note
-- 2019-05-29 — Ballad of the Chosen Few - S1 E28 // The Illithid’s Games — speakers: Dave Cole, Ballad Intro Dave Cole, Bolt Spell Daniel Warneke, Daniele Galante, Wes Otis
-- 2019-05-13 — Ballad of the Chosen Few - S1 E27 // The Illithid’s Games — speakers: Behind Locked Doors, Horror Combat Song, Phil Archer, Stiletto Strikes Chainmail
+- 2019-10-14 — Ballad of the Chosen Few - S1 E42 // Arkham
+- 2019-10-07 — Ballad of the Chosen Few - A Shining Nesme: Oh Beautiful Nesme // Arkham
+- 2019-09-30 — Ballad of the Chosen Few - S1 E41 // Arkham — speakers: Death Shift
+- 2019-09-23 — Ballad of the Chosen Few - A Shining Nesme: Preparations // The Road to Nesme
+- 2019-09-16 — Ballad of the Chosen Few - S1 E40 // The Road to Nesme — speakers: Death Shift
+- 2019-09-09 — Ballad of the Chosen Few - A Shining Nesme // The Road to Nesme
+- 2019-09-02 — Ballad of the Chosen Few - S1 E39 // The Road to Nesme
+- 2019-08-26 — Ballad of the Chosen Few - S1 E38 // No One Gets Out
+- 2019-08-19 — Ballad of the Chosen Few - S1 E37 // The Road to Nesme
+- 2019-08-12 — GenCon Special - The Ballad of the Midnight Orbs
+- 2019-08-12 — Ballad of the Chosen Few - Matthews Meets Oblivion // The Road to Nesme
+- 2019-08-05 — Ballad of the Chosen Few - S1 E36 // The Road to Nesme
+- 2019-07-29 — Ballad of the Chosen Few - S1 E35 - Case File IV // TI 424
+- 2019-07-22 — Ballad of the Chosen Few - S1 E34 // The Road to Nesme
+- 2019-07-15 — Ballad of the Chosen Few - The Illithid // The Road to Nesme
+- 2019-07-08 — Ballad of the Chosen Few - S1 E33 // A Sitdown at the Vulgar Unicorn
+- 2019-07-01 — Ballad of the Chosen Few - S1 E32 // The Wraith
+- 2019-06-24 — Ballad of the Chosen Few - S1 E31 // The Wraith
+- 2019-06-17 — Ballad of the Chosen Few - S1 E30 // TI-422
+- 2019-06-10 — Ballad of the Chosen Few - S1 E29 // The Illithid’s Games
+- 2019-06-03 — Ballad of the Chosen Few - Diar’rna’s Capture // The Illithid’s Games
+- 2019-05-29 — Ballad of the Chosen Few - S1 E28 // The Illithid’s Games
+- 2019-05-13 — Ballad of the Chosen Few - S1 E27 // The Illithid’s Games
 - 2019-05-06 — Ballad of the Chosen Few - Astorea and Sven // The Illithid’s Games
-- 2019-04-29 — Ballad of the Chosen Few - S1 E26 // Illithid Games — speakers: Sided Adventures, Phil Archer
-- 2019-04-22 — Ballad of the Chosen Few - Sanctuary Lore // The Illithid’s Games — speakers: Easy Lemon, Kevin MacLeod
-- 2019-04-15 — Ballad of the Chosen Few - S1 E25 // The Illithid’s Games — speakers: Ballad Theme, Dave Cole, Quinns Song
-- 2019-04-08 — Ballad of the Chosen Few - Season 1 - A Lovely Q&A Special — speakers: Kevin MacLeod
-- 2019-04-03 — Ballad of the Chosen Few - S1 E24 // The Illithid’s Games — speakers: Wes Otis, Maria Milewska
-- 2019-03-25 — Ballad of the Chosen Few - Gaia and Noir // Off to War — speakers: Crossbow Bolt
-- 2019-03-18 — Patreon Special - Space Part I — speakers: Kevin MacLeod
-- 2019-03-11 — Ballad of the Chosen Few - S1 E23 - Opus and Lowbax // Off to War — speakers: Death Shift, Dave Cole, Wounds Spell Pablo Betancourt, Spacial Harvest Kevin MacLeod, Windswept Kevin MacLeod
-- 2019-03-04 — Ballad of the Chosen Few - S1 E22 // Off to War — speakers: Dave Cole, Tension Dave Cole, Anguish Kevin MacLeod, Cthulhus Call, Wes Otis, Phil Archer
-- 2019-02-27 — Wingover's Q&A Announcement — speakers: Spinning Monkeys Kevin MacLeod
-- 2019-02-25 — Ballad of the Chosen Few - S1 E21 - Case File III // Off to War — speakers: Detective Billowin, Maria Milewska
-- 2019-02-18 — Ballad of the Chosen Few - S1 E20 // Off to War — speakers: Phil Archer
-- 2019-02-11 — Ballad of the Chosen Few - Dorem and Solomon // Off to War — speakers: Solomon Off, Maria Milewska
-- 2019-02-04 — Ballad of the Chosen Few - S1 E19 - Off to War — speakers: Phil Archer, Ars Sonor Asomhl, Nicolas Grenier, Burnt Spirit Kevin MacLeod, Wes Otis
+- 2019-04-29 — Ballad of the Chosen Few - S1 E26 // Illithid Games
+- 2019-04-22 — Ballad of the Chosen Few - Sanctuary Lore // The Illithid’s Games
+- 2019-04-15 — Ballad of the Chosen Few - S1 E25 // The Illithid’s Games
+- 2019-04-08 — Ballad of the Chosen Few - Season 1 - A Lovely Q&A Special
+- 2019-04-03 — Ballad of the Chosen Few - S1 E24 // The Illithid’s Games
+- 2019-03-25 — Ballad of the Chosen Few - Gaia and Noir // Off to War
+- 2019-03-18 — Patreon Special - Space Part I
+- 2019-03-11 — Ballad of the Chosen Few - S1 E23 - Opus and Lowbax // Off to War
+- 2019-03-04 — Ballad of the Chosen Few - S1 E22 // Off to War
+- 2019-02-27 — Wingover's Q&A Announcement
+- 2019-02-25 — Ballad of the Chosen Few - S1 E21 - Case File III // Off to War — speakers: Detective Billowin
+- 2019-02-18 — Ballad of the Chosen Few - S1 E20 // Off to War
+- 2019-02-11 — Ballad of the Chosen Few - Dorem and Solomon // Off to War — speakers: Solomon Off
+- 2019-02-04 — Ballad of the Chosen Few - S1 E19 - Off to War
 - 2019-01-28 — Ballad of the Chosen Few - The Cultist’s Meeting // Off to War — speakers: Overseer Gordon Shields
 - 2019-01-24 — Ballad of the Chosen Few - S1 E18 // Kalsaur of the Silver Shield
 - 2019-01-14 — Ballad of the Chosen Few - Corrupted Lore // Off to War
 - 2019-01-10 — Ballad of the Chosen Few - S1 E17 // Off to War — speakers: Death Shift
 - 2018-12-31 — Ballad of the Chosen Few - Diar’rna of the Silver Shield // Off to War
-- 2018-12-22 — Ballad of the Chosen Few - Christmas Special — speakers: Jingle Bells, Wish Background, Restorative Spell Pablo Betancourt, Summon Earth Elemental Plate, Bolt Spell Daniel Warneke, Phil Archer
-- 2018-12-17 — Ballad of the Chosen Few - S1 E16 // Opus — speakers: Spacial Harvest Kevin MacLeod, Stormfront Kevin MacLeod
-- 2018-12-10 — Ballad of the Chosen Few - S1 E15 // The Case of Aaron Bordeaux — speakers: Death Shift, Kevin MacLeod, Virtutes Instrumenti Kevin MacLeod, Virtutes Vocis Kevin MacLeod
-- 2018-12-03 — Ballad of the Chosen Few - The Salty Spitoon // The Case of Aaron Bordeaux — speakers: Death Shift
-- 2018-11-26 — Ballad of the Chosen Few - S1 E14 // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux
-- 2018-11-19 — Ballad of the Chosen Few - S1 E13 - Case File II // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux, Spacial Harvest Kevin MacLeod
-- 2018-11-12 — Ballad of the Chosen Few - S1 E12 // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux, Horror Drone, Jason Shaw, Restorative Spell Pablo Betancourt
-- 2018-11-05 — Ballad of the Chosen Few - Dorem and Matthews // Sanctuary — speakers: Giant Wyrm Kevin MacLeod
-- 2018-10-29 — Ballad of the Chosen Few - Halloween Special — speakers: Wagon Wheel Kevin MacLeod, Graveyard Shift Kevin MacLeod, Phil Archer, Restorative Spell Pablo Betancourt, Maria Milewska
+- 2018-12-22 — Ballad of the Chosen Few - Christmas Special
+- 2018-12-17 — Ballad of the Chosen Few - S1 E16 // Opus
+- 2018-12-10 — Ballad of the Chosen Few - S1 E15 // The Case of Aaron Bordeaux
+- 2018-12-03 — Ballad of the Chosen Few - The Salty Spitoon // The Case of Aaron Bordeaux
+- 2018-11-26 — Ballad of the Chosen Few - S1 E14 // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux, Death Shift
+- 2018-11-19 — Ballad of the Chosen Few - S1 E13 - Case File II // The Case of Aaron Bordeaux
+- 2018-11-12 — Ballad of the Chosen Few - S1 E12 // The Case of Aaron Bordeaux
+- 2018-11-05 — Ballad of the Chosen Few - Dorem and Matthews // Sanctuary
+- 2018-10-29 — Ballad of the Chosen Few - Halloween Special
 - 2018-10-22 — Ballad of the Chosen Few - Chosen Lore // Sanctuary
-- 2018-10-15 — Ballad of the Chosen Few - S1 E11 // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux, Death Shift, Spacial Harvest Kevin MacLeod, Maria Milewska
-- 2018-10-08 — Ballad of the Chosen Few - S1 E10 - Case File 1 // The Case of Aaron Bourdeaux — speakers: Aaron Bourdeaux, Bill Griff, Cool Vibes Kevin MacLeod, Walking Along Kevin MacLeod
-- 2018-10-01 — Ballad of the Chosen Few - S1 E9 // Sanctuary — speakers: Death Shift, Maria Milewska, Restorative Spell Pablo Betancourt, Horror Drone, Slow Jam Kevin MacLeod, Cryptic Sorrow Kevin MacLeod
+- 2018-10-15 — Ballad of the Chosen Few - S1 E11 // The Case of Aaron Bordeaux — speakers: Aaron Bordeaux
+- 2018-10-08 — Ballad of the Chosen Few - S1 E10 - Case File 1 // The Case of Aaron Bourdeaux — speakers: Aaron Bourdeaux
+- 2018-10-01 — Ballad of the Chosen Few - S1 E9 // Sanctuary — speakers: Death Shift
 - 2018-08-13 — Ballad of the Chosen Few - Garlux and Astorea // Sanctuary
-- 2018-08-06 — Ballad of the Chosen Few - S1 E8 // Sanctuary — speakers: Assault Fighter Interceptor, Nova Explode Stuart Duffield, Restorative Spell Pablo Betancourt, Mindful Kevin MacLeod
+- 2018-08-06 — Ballad of the Chosen Few - S1 E8 // Sanctuary
 - 2018-08-02 — Ballad of the Chosen Few - The Cultist’s Circle // Sanctuary
-- 2018-07-23 — Ballad of the Chosen Few - S1 E7 // Sanctuary — speakers: Story Begins Kevin MacLeod, Immersed Kevin MacLeod, Spacial Harvest Kevin MacLeod, Virtutes Instrumenti Kevin MacLeod
+- 2018-07-23 — Ballad of the Chosen Few - S1 E7 // Sanctuary
 - 2018-07-11 — Ballad of the Chosen Few - Dorem and Steve // Sanctuary — speakers: Steve Sanctuary
 - 2018-07-11 — Ballad of the Chosen Few - Matthews and Lowbax // Sanctuary
-- 2018-07-09 — Ballad of the Chosen Few - S1 E6 // Sanctuary — speakers: Story Begins Kevin MacLeod, Vanishing Kevin MacLeod, Egmont Overture Kevin MacLeod
-- 2018-06-25 — Ballad of the Chosen Few - S1 E5 // The Hunt — speakers: Story Begins Kevin MacLeod, Crypto Kevin MacLeod
-- 2018-06-11 — Ballad of the Chosen Few - S1 E4 // The Hunt — speakers: Story Begins Kevin MacLeod, Crypto Kevin MacLeod, Stormfront Kevin MacLeod
-- 2018-05-28 — Ballad of the Chosen Few - S1 E3 // The Hunt — speakers: Story Begins Kevin MacLeod, Dreamer Kevin MacLeod
-- 2018-05-14 — Ballad of the Chosen Few - S1 E2 // The Hunt — speakers: Forsaken Mikael, Hellman Licensed, Easy Lemon Kevin MacLeod
-- 2018-04-30 — Ballad of the Chosen Few - S1 E1 // The Beginning — speakers: Story Begins
-- 2018-04-23 — Ballad of the Chosen Few - Prologue 4 - M’zi — speakers: Horror Drone, Story Begins, Oppressive Gloom, Spatial Harvest Kevin MacLeod
-- 2018-04-16 — Ballad of the Chosen Few - Prologue 3 - Ronee — speakers: Ronee O'Connell, Story Begins Kevin MacLeod
-- 2018-04-09 — Ballad of the Chosen Few - Prologue 2 - Kalsaur — speakers: Horror Drone, Story Begins, Gregorian Chant Kevin MacLeod
-- 2018-04-02 — Ballad of the Chosen Few - Prologue 1 - Borodon — speakers: Giant Wyrm, Man Down, Story Begins, Thunderbird Kevin MacLeod
+- 2018-07-09 — Ballad of the Chosen Few - S1 E6 // Sanctuary
+- 2018-06-25 — Ballad of the Chosen Few - S1 E5 // The Hunt
+- 2018-06-11 — Ballad of the Chosen Few - S1 E4 // The Hunt
+- 2018-05-28 — Ballad of the Chosen Few - S1 E3 // The Hunt
+- 2018-05-14 — Ballad of the Chosen Few - S1 E2 // The Hunt
+- 2018-04-30 — Ballad of the Chosen Few - S1 E1 // The Beginning
+- 2018-04-23 — Ballad of the Chosen Few - Prologue 4 - M’zi
+- 2018-04-16 — Ballad of the Chosen Few - Prologue 3 - Ronee — speakers: Ronee O'Connell
+- 2018-04-09 — Ballad of the Chosen Few - Prologue 2 - Kalsaur
+- 2018-04-02 — Ballad of the Chosen Few - Prologue 1 - Borodon
 - 2018-03-28 — Ballad of the Chosen Few - Trailer
