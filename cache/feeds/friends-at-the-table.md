@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-02-27T21:46:01+00:00`
-- checked_at: `2026-02-27T21:46:01+00:00`
-- etag: `"8faeacaf417f2464508de8790e9e6ce6"`
-- last_modified: `Fri, 27 Feb 2026 21:18:06 GMT`
+- fetched_at: `2026-03-01T21:39:29+00:00`
+- checked_at: `2026-03-01T21:39:29+00:00`
+- etag: `"b311b86dd15e30288f90f322ca3e63a4"`
+- last_modified: `Sun, 01 Mar 2026 20:14:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-02-27T21:46:01+00:00",
+  "fetched_at": "2026-03-01T21:39:29+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "643fdd44923731c363c41fedcff67ff6c02e18e0",
+      "title": "Perpetua 35: The Castle Eschatonica 03",
+      "published_at": "2026-03-01T20:11:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-35-the-castle-eschatonica-03",
+      "description": "Perpetua 35 WIth the entryway of Castle Eschatonica behind them, the two newly shuffled groups of adventurers head into the dungeon's perplexing (and perilous) hallways. Antistrophe Landrace, Uncle Nicky, and Caoimhe Wake find themselves amongst grime and dirt, with the sounds of explosions echoing in the distance. The rest of the group—Jonathan, Maebela, Elena Millefiori, Veile Lynndel, Brontë Adelvys, and his bodyguards Efta and Zolfta—are drawn by the sound of the winds towards something altogether more noble… This week on Perpetua: The Castle Eschatonica 03 Perpetua Guide [Community Addendum Part 01] Hey everyone! My name is Anne and I'm going to be filling in for FriendofNei for a little bit! I'm not really good at all that formatting stuff, so I'll try to make it up with extra information! Today's update is about the first few rooms you'll find in Eschatonica, but I'll try to add a little extra info about what this dungeon is referencing for people who are curious! (But beware of spoilers, both for Perpetua and the other franchises being referenced. I'll note them in parentheses next to the room name!) I've kept in the sort of chapter headings that Nei normally uses so that hopefully they can just slot it back in, if they want to, once they're back! (Oh, since I have no idea which room you might find first, I'm organizing this alphabetically.) Ready? Okay! Dungeon Maps [DNMP] Castle Eschatonica Map (IN PROGRESS) [CEDM] Balcony (Imago) I almost didn't even include this as a 'room' but it has a load screen, and a BEAUTIFUL view of one of the Castle's major towers (more on that next update!) At first, you might think this is from Alteros because of the Tower view, the sky, and the invite to the High Masque. However, if you remember being in Violet Caliban's studio in Imago 2: Ancestral Fault, there was a south-facing window you could interact with. When you did, Violet said 'There's always a bunch of rich yuppies on that balcony. Bet they don't even enjoy the view.' (I love her she's SO MEAN). Even though you can't see the view from there, this is definitely that balcony! (You'll see why later.) Oh, and make sure to pick up the invite on the table! It's the easiest way to progress past the doorman. Creature Cages (Genesika) This looks just like the room where Mossy Mozz gets placed after he gets turned into a regular mouse (instead of the cute mouseboy he normally is)! For people who haven't played it, you have to do this whole laboratory dungeon at mouse-scale, and at the end, you have to fight the cat who's been embedded with a Poison Spell Orb coalesced around the dead scientist's spirit. Anyway, be careful here, because you can get bitten pretty bad by a Bio-Rat if you're not careful! Entryway I guess this counts as a room, but I really don't want to write up the whole solution to the puzzle, so um, can someone else handle this one? It doesn't really seem to be a reference to anything either, I think just totally original for Perpetua, so there's not much for me to add n.n;;;;;) Megamagnet Trap (Genesika) If you're not careful, you can lose items AND asta here, as a giant magnet will lift you to the ceiling and empty your pockets! While you can also get a little bit of money (or even a spell orb!) I think it's probably better to avoid this place all together! (These are ripped right from the Scrapyard Dungeon in Genesika: Basilisk's Lament.) Necrosmith's Workshop (Ichoria) You can find a GREAT weapon here—the Blooded Blade, which was originally a bonus weapon you could unlock in Ichoria 2's Slice Mode. Otherwise, beware of the Bloodstarved. I didn't fight them my first three times through this dungeon, but on the fourth time they really took me out! Though the special Celestial Laws for Ichoria really prioritize getting good physical hits in, don't forget about spells! Light spells are especially effective here because they're undead! (Which is probably why Light Spells are such a rarity in Ichoria itself!) Oracle Infirmary (Armidurge) Oh. My. God. When I entered this room I almost started to cry. Maybe you haven't played Armidirge III: The Unrecorded Records (which makes sense, because it was never localized), BUT let me tell you the short version. In AIII:TUR, you play as a trio of Saints, resurrected by the Creed of Oracles and pulled back from heaven so that you can fight the Windborne Church at the northern front, which has been all but abandoned. As Revived Saints, you're really strong—you even get a couple of Reliquaries to pilot alongside your lay chapel (or are just regular people down on their luck who get sent to the front to be your grunt soldiers). You're told early on that if you die before the battle is over, you will lose your sainthood and that means your soul just goes to the Grace (which is like Limbo in Armidirge lore). About halfway through the game, one of your three Saints (Soneya) jumps in the way of a full bore blast from the Windborne Church's Scirocco Cannon in order to save whatever Chapel member she has the highest affinity with. (Affinity is a stat characters get by fighting 'shoulder-to-shoulder' together). And if that character is one of Soneya's potential love interests (Jelissa, Vanderian, or Sunny (for me it was Jelissa)), you get a bonus scene IN THE MIDDLE OF COMBAT, which is like a flash forward to after the war, of that character coming to THIS INFIRMARY and kneeling at one of the beds and CRYING. The whole rest of the game you have to carry on KNOWING that even if you win, Soneya's true love is SUFFERING the whole time, and that \"winning\" looks like more grief for them. It's. So. Good. Anyway, you can get a Panacea and a Deck of Oracles here. Trick Stairwell (Everything) Ha. Ha. Ha. The famous Trick Staircase finally shows up in Perpetua! I knew it would be in here somewhere. In case you don't know, this thing will seem to stretch on forever once you start running up it, but the second you slow down (which normally happens if you want to stop and turn around the other way), the stairs fall out from under you and you fall down to the base (and normally into some sort of killer pit). Sand Flooded Throne Room (Springsong) Hey! This is the title screen to the very first Springsong game. In case you don't remember: You hit start, and the title card just fades away, and then three figures come in (they're the Wayward Scions) and march through the sand up to the Throne. And then Saffron says \"Still empty.\" And the theme music hits! I was sure there was loot in here, but I can't seem to find it. Anyone find anything!? Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_35_The_Castle_Eschatonica_03.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130157496",
+      "itunes_duration": "01:47:17",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "1af8ba74989c5f7cafa49eece19709b31a9f38ad",
       "title": "Perpetua 34: The Castle Eschatonica 02",
@@ -11315,6 +11335,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-01 — Perpetua 35: The Castle Eschatonica 03 — speakers: Austin Walker
 - 2026-02-25 — Perpetua 34: The Castle Eschatonica 02 — speakers: Austin Walker
 - 2026-02-20 — Off Week + Fundraiser Update! — speakers: Off Week, Fundraiser Update, Austin Walker
 - 2026-02-14 — Perpetua 33: The Castle Eschatonica 01 — speakers: Austin Walker

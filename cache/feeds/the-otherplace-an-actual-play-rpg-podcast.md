@@ -2,9 +2,9 @@
 
 - slug: `the-otherplace-an-actual-play-rpg-podcast`
 - source: `https://anchor.fm/s/96e40cdc/podcast/rss`
-- fetched_at: `2026-03-01T15:40:47+00:00`
-- checked_at: `2026-03-01T15:40:47+00:00`
-- etag: `W/"5b75f-YEtcfGonyt9kXljGp8eGSLXnu3A"`
+- fetched_at: `2026-03-01T21:39:29+00:00`
+- checked_at: `2026-03-01T21:39:29+00:00`
+- etag: `W/"5b75f-vge3Z1o//1JLzrzCsrkgxQfw1nI"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nightcastcreative.com",
   "description": "The land of Fenrayne has been on the brink of doom for years. Necromancers and the dead are rising on the edges of society, threatening life and peace across the land. Deep in the shadows, others try to unearth secret knowledge and unspeakable power. The Otherplace is a fantasy RPG podcast played using the Genesys system by Fantasy Flight Games. In this anthology podcast, we follow a new set of adventurers each season as they travel the land of Fenrayne, fight the Dead, and uncover the mysteries of the world.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/25215279/2dd4cde400236a36.jpeg",
-  "fetched_at": "2026-03-01T15:40:47+00:00",
+  "fetched_at": "2026-03-01T21:39:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
