@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-02-23T07:33:38+00:00`
-- checked_at: `2026-02-23T07:33:38+00:00`
-- etag: `"3c2583d82130f230ec5850143af02e54"`
-- last_modified: `Mon, 23 Feb 2026 05:08:32 GMT`
+- fetched_at: `2026-03-01T18:52:30+00:00`
+- checked_at: `2026-03-01T18:52:30+00:00`
+- etag: `"55c4795b45aa57f1bd70ff8215221eaf"`
+- last_modified: `Sun, 01 Mar 2026 15:47:10 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-02-23T07:33:38+00:00",
+  "fetched_at": "2026-03-01T18:52:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,13 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72572139",
       "itunes_duration": "36:04",
-      "speakers": [
-        "Benjamin Percy",
-        "Stephen King",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "time"
       ]
@@ -60,9 +54,8 @@
       "enclosure_length": "85704417",
       "itunes_duration": "42:54",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Delta Green",
+        "Among Other Things There"
       ],
       "topics": [
         "delta",
@@ -82,10 +75,7 @@
       "enclosure_length": "62301210",
       "itunes_duration": "30:43",
       "speakers": [
-        "Basic Set",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Daggers Stu"
       ],
       "topics": [
         "dragons",
@@ -103,12 +93,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87385449",
       "itunes_duration": "43:46",
-      "speakers": [
-        "Slough Feg",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "sound",
         "rpgs"
@@ -125,12 +110,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67076812",
       "itunes_duration": "33:12",
-      "speakers": [
-        "Peter Jackson",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "talkin",
         "stuff"
@@ -148,11 +128,7 @@
       "enclosure_length": "86248600",
       "itunes_duration": "43:11",
       "speakers": [
-        "Dark Tower",
-        "Milton Bradley",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Dark Tower"
       ],
       "topics": [
         "dark",
@@ -171,10 +147,8 @@
       "enclosure_length": "64347538",
       "itunes_duration": "31:47",
       "speakers": [
-        "Seabury Quinn",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Roads Santa",
+        "Santa Claus"
       ],
       "topics": [
         "road"
@@ -192,9 +166,7 @@
       "enclosure_length": "54860700",
       "itunes_duration": "26:50",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Monsters Just"
       ],
       "topics": [
         "monster"
@@ -212,11 +184,7 @@
       "enclosure_length": "46456377",
       "itunes_duration": "22:27",
       "speakers": [
-        "Tiger Wizard",
-        "Joey Royale",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Night Market So"
       ],
       "topics": [
         "mausritter",
@@ -236,12 +204,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79000352",
       "itunes_duration": "39:24",
-      "speakers": [
-        "Loop Track",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "spark",
         "devil",
@@ -260,10 +223,7 @@
       "enclosure_length": "65578846",
       "itunes_duration": "32:25",
       "speakers": [
-        "Gary Larsen",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Monster Manual"
       ],
       "topics": []
     },
@@ -279,9 +239,7 @@
       "enclosure_length": "60420394",
       "itunes_duration": "29:44",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Thousand Year Old Campfire"
       ],
       "topics": [
         "thousand",
@@ -301,11 +259,7 @@
       "enclosure_length": "59612060",
       "itunes_duration": "29:19",
       "speakers": [
-        "Jessica Fletcher",
-        "Jessica Fletchers",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Jessica Fletcher"
       ],
       "topics": [
         "murder",
@@ -327,12 +281,7 @@
       "enclosure_length": "48213477",
       "itunes_duration": "23:22",
       "speakers": [
-        "Bruce Lee",
-        "Tom Moldvay",
-        "King Arthur",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Bruce Lee"
       ],
       "topics": [
         "future",
@@ -351,10 +300,7 @@
       "enclosure_length": "77018389",
       "itunes_duration": "38:22",
       "speakers": [
-        "Brian Colin",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Brian Colin"
       ],
       "topics": [
         "means",
@@ -372,12 +318,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80014321",
       "itunes_duration": "39:56",
-      "speakers": [
-        "Blair Reynolds",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "stars"
       ]
@@ -393,11 +334,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68981870",
       "itunes_duration": "34:11",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "runequest"
@@ -414,11 +351,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62038732",
       "itunes_duration": "30:34",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "series",
         "continues"
@@ -436,9 +369,7 @@
       "enclosure_length": "49229954",
       "itunes_duration": "23:54",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Space Marine"
       ],
       "topics": [
         "space",
@@ -457,10 +388,7 @@
       "enclosure_length": "60076831",
       "itunes_duration": "29:33",
       "speakers": [
-        "Wargames West",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Wargames West"
       ],
       "topics": [
         "wargames",
@@ -478,11 +406,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83865397",
       "itunes_duration": "41:56",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "toys"
       ]
@@ -498,13 +422,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79576300",
       "itunes_duration": "39:42",
-      "speakers": [
-        "Bunny Borg",
-        "Kala Mandala",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "pound",
         "books"
@@ -521,11 +439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29104029",
       "itunes_duration": "30:19",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "gencon"
       ]
@@ -541,14 +455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64723701",
       "itunes_duration": "31:58",
-      "speakers": [
-        "Dark Suns",
-        "Ozzy Osbourne",
-        "Sabbath Bloody Sabbath",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "king"
@@ -565,14 +472,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73459885",
       "itunes_duration": "36:31",
-      "speakers": [
-        "Nick Boreli",
-        "Mold Mold Mold",
-        "Drunk Jousting",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "drunk",
         "jousting"
@@ -589,12 +489,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62496815",
       "itunes_duration": "30:49",
-      "speakers": [
-        "Twin Peaks",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "midnight",
         "century"
@@ -611,13 +506,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77592665",
       "itunes_duration": "38:40",
-      "speakers": [
-        "Ben Costa",
-        "James Parks",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "land"
       ]
@@ -633,16 +522,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73202422",
       "itunes_duration": "36:23",
-      "speakers": [
-        "Le Guin",
-        "Fritz Leiber",
-        "Lloyd Alexander",
-        "Margaret St Claire",
-        "Roger Zelazny",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "hambone",
         "library"
@@ -660,10 +540,7 @@
       "enclosure_length": "74432894",
       "itunes_duration": "37:02",
       "speakers": [
-        "Max Moon",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Max Moon"
       ],
       "topics": [
         "year"
@@ -681,9 +558,9 @@
       "enclosure_length": "57804805",
       "itunes_duration": "28:22",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Weird Heroes",
+        "Public Access",
+        "Station Manager"
       ],
       "topics": [
         "weird",
@@ -705,9 +582,7 @@
       "enclosure_length": "65039679",
       "itunes_duration": "32:08",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Grenadier Miniature Catalogs Don"
       ],
       "topics": [
         "grenadier",
@@ -726,12 +601,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67458826",
       "itunes_duration": "33:24",
-      "speakers": [
-        "Carl Kolchak",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "kolchak",
         "night",
@@ -750,11 +620,8 @@
       "enclosure_length": "85065776",
       "itunes_duration": "42:34",
       "speakers": [
-        "Justin Wigard",
-        "Clay Fleischer",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Two Years",
+        "West Marches Don"
       ],
       "topics": [
         "year",
@@ -774,11 +641,7 @@
       "enclosure_length": "62351365",
       "itunes_duration": "30:44",
       "speakers": [
-        "Games People Play",
-        "Sara Clemens",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Just Riffin"
       ],
       "topics": [
         "riffin"
@@ -796,10 +659,7 @@
       "enclosure_length": "89080692",
       "itunes_duration": "44:39",
       "speakers": [
-        "Clint Marsh",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Green Peculiar Parish Magazine"
       ],
       "topics": [
         "fiddler",
@@ -820,11 +680,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71385135",
       "itunes_duration": "35:26",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -839,11 +695,7 @@
       "enclosure_length": "94673822",
       "itunes_duration": "47:34",
       "speakers": [
-        "Phil Hine",
-        "Rodney Orpheus",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Phil Hine"
       ],
       "topics": [
         "delinquent",
@@ -861,13 +713,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62847065",
       "itunes_duration": "31:00",
-      "speakers": [
-        "Joseph Payne Brennan",
-        "Zombie Braineaters",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "working"
       ]
@@ -883,13 +729,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54097507",
       "itunes_duration": "26:26",
-      "speakers": [
-        "Susan Cooper",
-        "Alan Garner",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "hedgerow"
       ]
@@ -906,10 +746,7 @@
       "enclosure_length": "60802408",
       "itunes_duration": "29:56",
       "speakers": [
-        "Sickest Witch",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Sickest Witch"
       ],
       "topics": [
         "sickest",
@@ -927,11 +764,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64424443",
       "itunes_duration": "31:49",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "liminal",
         "horror",
@@ -950,10 +783,7 @@
       "enclosure_length": "55582098",
       "itunes_duration": "27:13",
       "speakers": [
-        "Sacred Statue",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "these years"
       ],
       "topics": []
     },
@@ -969,10 +799,7 @@
       "enclosure_length": "65145004",
       "itunes_duration": "32:11",
       "speakers": [
-        "Mike Hutchinson",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Hobgoblin What"
       ],
       "topics": [
         "hobgoblin"
@@ -990,10 +817,8 @@
       "enclosure_length": "55964949",
       "itunes_duration": "27:25",
       "speakers": [
-        "Johanna Lehner",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Fantastic Bestiary Oh",
+        "Libyan Gorgon"
       ],
       "topics": [
         "bestiary"
@@ -1010,11 +835,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51006281",
       "itunes_duration": "24:50",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1028,14 +849,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83360499",
       "itunes_duration": "33:21",
-      "speakers": [
-        "Brian Colin",
-        "Forbidden Psalm",
-        "Vast Grim",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "sqwrmish"
       ]
@@ -1051,12 +865,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75306428",
       "itunes_duration": "37:29",
-      "speakers": [
-        "Christopher Drellow",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "glumdark"
       ]
@@ -1072,11 +881,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62990007",
       "itunes_duration": "31:04",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "zarak",
         "strongheart",
@@ -1096,11 +901,7 @@
       "enclosure_length": "57049135",
       "itunes_duration": "27:58",
       "speakers": [
-        "Tyler Welch",
-        "Graham Barey",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Exercise Gotta"
       ],
       "topics": [
         "adventurer",
@@ -1118,11 +919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68696822",
       "itunes_duration": "34:02",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "saddle"
       ]
@@ -1138,11 +935,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70274200",
       "itunes_duration": "34:52",
-      "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "unplugged"
       ]
@@ -1159,14 +952,7 @@
       "enclosure_length": "45727456",
       "itunes_duration": "22:05",
       "speakers": [
-        "Fabled Lands",
-        "Dave Morris",
-        "Jamie Thompson",
-        "Paul Gresty",
-        "Russ Nicholson",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Fabled Lands"
       ],
       "topics": [
         "fabled",
@@ -1185,12 +971,7 @@
       "enclosure_length": "63093661",
       "itunes_duration": "31:07",
       "speakers": [
-        "Top Secret",
-        "Joe Rpg",
-        "Ron Meischker",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Top Secret"
       ],
       "topics": [
         "secret",
@@ -1209,12 +990,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46346871",
       "itunes_duration": "22:24",
-      "speakers": [
-        "Orrin Grey",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "ballad"
       ]
@@ -1231,10 +1007,7 @@
       "enclosure_length": "108175576",
       "itunes_duration": "54:36",
       "speakers": [
-        "Rick Meints",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Rick Meints"
       ],
       "topics": [
         "rick",
@@ -1253,10 +1026,7 @@
       "enclosure_length": "66746624",
       "itunes_duration": "33:01",
       "speakers": [
-        "Benjamin Marra",
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Benjamin Marra"
       ],
       "topics": [
         "intermediary",
@@ -1275,9 +1045,8 @@
       "enclosure_length": "55151412",
       "itunes_duration": "26:59",
       "speakers": [
-        "Cool Rpg",
-        "Alex Murray",
-        "Shafer Brown"
+        "Magic Realms",
+        "Fighting Fantasy"
       ],
       "topics": [
         "magic",
@@ -1297,8 +1066,7 @@
       "enclosure_length": "96083395",
       "itunes_duration": "48:16",
       "speakers": [
-        "Alex Murray",
-        "Cool Rpg"
+        "Alex Murray"
       ],
       "topics": [
         "tavern"
@@ -1316,8 +1084,7 @@
       "enclosure_length": "71604982",
       "itunes_duration": "35:33",
       "speakers": [
-        "John Brown",
-        "Cool Rpg"
+        "John Brown"
       ],
       "topics": [
         "lord",
@@ -1335,9 +1102,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56434127",
       "itunes_duration": "36:52",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "reich"
       ]
@@ -1353,10 +1118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51932080",
       "itunes_duration": "33:45",
-      "speakers": [
-        "Joey Royale",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "weird",
         "heroes",
@@ -1376,7 +1138,7 @@
       "enclosure_length": "56176455",
       "itunes_duration": "36:41",
       "speakers": [
-        "Cool Rpg"
+        "West End Games"
       ],
       "topics": [
         "masterbook"
@@ -1394,8 +1156,7 @@
       "enclosure_length": "54054665",
       "itunes_duration": "35:13",
       "speakers": [
-        "Jacob Mooney",
-        "Cool Rpg"
+        "Jacob Mooney"
       ],
       "topics": [
         "machine"
@@ -1413,8 +1174,7 @@
       "enclosure_length": "51291119",
       "itunes_duration": "33:18",
       "speakers": [
-        "Josh McCrowell",
-        "Cool Rpg"
+        "Josh McCrowell"
       ],
       "topics": [
         "majesty",
@@ -1433,8 +1193,7 @@
       "enclosure_length": "43194831",
       "itunes_duration": "27:41",
       "speakers": [
-        "Brian Shutter",
-        "Cool Rpg"
+        "Brian Shutter"
       ],
       "topics": [
         "deities",
@@ -1454,8 +1213,7 @@
       "enclosure_length": "44146127",
       "itunes_duration": "28:20",
       "speakers": [
-        "Golden Girls",
-        "Cool Rpg"
+        "Brindlewood Bay"
       ],
       "topics": [
         "brindlewood"
@@ -1472,9 +1230,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52288808",
       "itunes_duration": "33:59",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "gencon"
       ]
@@ -1491,8 +1247,7 @@
       "enclosure_length": "60114988",
       "itunes_duration": "31:19",
       "speakers": [
-        "Roger Zelazny",
-        "Cool Rpg"
+        "Southern Middle"
       ],
       "topics": [
         "court",
@@ -1510,10 +1265,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37621260",
       "itunes_duration": "19:36",
-      "speakers": [
-        "Ian Livingstone",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "casket",
         "soul"
@@ -1530,9 +1282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60135993",
       "itunes_duration": "29:35",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "barony"
       ]
@@ -1548,10 +1298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36290585",
       "itunes_duration": "17:10",
-      "speakers": [
-        "Aaron Howdle",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "sorcerers",
         "enclave"
@@ -1569,10 +1316,7 @@
       "enclosure_length": "85493766",
       "itunes_duration": "42:47",
       "speakers": [
-        "Isaac VanDuyn",
-        "Kim Diaz Holm",
-        "Lex Rocket",
-        "Cool Rpg"
+        "Isaac VanDuyn"
       ],
       "topics": [
         "outcast",
@@ -1592,9 +1336,7 @@
       "enclosure_length": "52385546",
       "itunes_duration": "25:33",
       "speakers": [
-        "Stephen King",
-        "Sandford Jr",
-        "Cool Rpg"
+        "Stephen King"
       ],
       "topics": [
         "grimrock",
@@ -1612,9 +1354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57782047",
       "itunes_duration": "28:21",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "earthshaker"
       ]
@@ -1630,11 +1370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60570859",
       "itunes_duration": "29:49",
-      "speakers": [
-        "Ron Cobb",
-        "John Milius",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "filming",
         "conan",
@@ -1653,8 +1389,7 @@
       "enclosure_length": "77481488",
       "itunes_duration": "38:37",
       "speakers": [
-        "Tyler Vance",
-        "Cool Rpg"
+        "Tyler Vance"
       ],
       "topics": [
         "void",
@@ -1673,8 +1408,7 @@
       "enclosure_length": "78115655",
       "itunes_duration": "40:41",
       "speakers": [
-        "Megan Dawson Jaffe",
-        "Cool Rpg"
+        "Megan Dawson Jaffe"
       ],
       "topics": [
         "holomatixx",
@@ -1693,9 +1427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60697472",
       "itunes_duration": "23:54",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "gamer",
         "handbook",
@@ -1715,12 +1447,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64863948",
       "itunes_duration": "32:03",
-      "speakers": [
-        "Justin Wigard",
-        "Clay Fleischer",
-        "Stephen Graham Jones",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "year",
         "west",
@@ -1738,10 +1465,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46037394",
       "itunes_duration": "22:14",
-      "speakers": [
-        "Castle Shadowgate",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "shadowgate"
       ]
@@ -1758,8 +1482,7 @@
       "enclosure_length": "54673455",
       "itunes_duration": "26:44",
       "speakers": [
-        "Gavriel Quiroga",
-        "Cool Rpg"
+        "Gavriel Quiroga"
       ],
       "topics": [
         "black",
@@ -1779,10 +1502,7 @@
       "enclosure_length": "88244773",
       "itunes_duration": "44:13",
       "speakers": [
-        "Bryan Ansell",
-        "Timothy Linward",
-        "Citadel Miniatures",
-        "Cool Rpg"
+        "Bryan Ansell"
       ],
       "topics": [
         "bryan",
@@ -1801,8 +1521,7 @@
       "enclosure_length": "43837444",
       "itunes_duration": "21:06",
       "speakers": [
-        "Stephen Bowkett",
-        "Cool Rpg"
+        "Gameplayers Where"
       ],
       "topics": [
         "gameplayer"
@@ -1820,7 +1539,7 @@
       "enclosure_length": "53030687",
       "itunes_duration": "25:53",
       "speakers": [
-        "Cool Rpg"
+        "Star Trek"
       ],
       "topics": [
         "star",
@@ -1842,8 +1561,7 @@
       "enclosure_length": "54145154",
       "itunes_duration": "26:28",
       "speakers": [
-        "John Patrick Cooper",
-        "Cool Rpg"
+        "John Patrick Cooper"
       ],
       "topics": []
     },
@@ -1859,7 +1577,7 @@
       "enclosure_length": "42369572",
       "itunes_duration": "20:20",
       "speakers": [
-        "Cool Rpg"
+        "Lair There"
       ],
       "topics": [
         "dragon",
@@ -1877,11 +1595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61910000",
       "itunes_duration": "30:30",
-      "speakers": [
-        "Keith Herber",
-        "Mike Mason",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "arkham"
       ]
@@ -1897,10 +1611,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55062157",
       "itunes_duration": "26:56",
-      "speakers": [
-        "Dark Tower",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "caverns",
         "thracia"
@@ -1918,8 +1629,7 @@
       "enclosure_length": "69266368",
       "itunes_duration": "27:28",
       "speakers": [
-        "Benjamin Marra",
-        "Cool Rpg"
+        "Mystic Pun"
       ],
       "topics": [
         "mystic",
@@ -1938,8 +1648,8 @@
       "enclosure_length": "54953487",
       "itunes_duration": "26:53",
       "speakers": [
-        "Benjamin Marra",
-        "Cool Rpg"
+        "Mystic Punks",
+        "Anthony Meloro"
       ],
       "topics": [
         "mystic",
@@ -1958,8 +1668,7 @@
       "enclosure_length": "54905840",
       "itunes_duration": "26:51",
       "speakers": [
-        "Roger Zelazny",
-        "Cool Rpg"
+        "Roger Zelazny"
       ],
       "topics": [
         "jack",
@@ -1979,11 +1688,7 @@
       "itunes_duration": "30:12",
       "speakers": [
         "Chuck Kranz",
-        "Adam Rose",
-        "Teenage Odyssey",
-        "Marie Enger",
-        "Chris McDowall",
-        "Cool Rpg"
+        "Adam Rose"
       ],
       "topics": [
         "teenage",
@@ -2002,8 +1707,7 @@
       "enclosure_length": "40613307",
       "itunes_duration": "19:25",
       "speakers": [
-        "Greg Costikyan",
-        "Cool Rpg"
+        "Cold War"
       ],
       "topics": [
         "price",
@@ -2023,8 +1727,7 @@
       "itunes_duration": "26:54",
       "speakers": [
         "Luke Gearing",
-        "David Hoskins",
-        "Cool Rpg"
+        "David Hoskins"
       ],
       "topics": [
         "swyver"
@@ -2043,8 +1746,7 @@
       "itunes_duration": "22:43",
       "speakers": [
         "Demon Disco",
-        "Joey Royale",
-        "Cool Rpg"
+        "Joey Royale"
       ],
       "topics": [
         "ninja",
@@ -2065,9 +1767,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53652032",
       "itunes_duration": "20:58",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "temple",
         "apshai",
@@ -2086,8 +1786,7 @@
       "enclosure_length": "64321625",
       "itunes_duration": "31:46",
       "speakers": [
-        "Mark Sable",
-        "Cool Rpg"
+        "Mark Sable"
       ],
       "topics": [
         "adventure",
@@ -2105,10 +1804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36421176",
       "itunes_duration": "17:14",
-      "speakers": [
-        "Rick Meints",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "meints",
         "index",
@@ -2127,7 +1823,7 @@
       "enclosure_length": "40292126",
       "itunes_duration": "19:15",
       "speakers": [
-        "Cool Rpg"
+        "Write Adventure Modules"
       ],
       "topics": [
         "adventure",
@@ -2146,11 +1842,7 @@
       "enclosure_length": "48171961",
       "itunes_duration": "18:41",
       "speakers": [
-        "Roger Christian",
-        "Black Angel",
-        "Levi Combs",
-        "John Carpenter-inspired",
-        "Cool Rpg"
+        "Black Angel"
       ],
       "topics": [
         "black",
@@ -2170,13 +1862,7 @@
       "enclosure_length": "44902592",
       "itunes_duration": "17:19",
       "speakers": [
-        "Gary Gygax",
-        "Greg Irons",
-        "Lawrence White Plume Mountain",
-        "Basic Set",
-        "Levi Combs",
-        "John Carpenter-inspired",
-        "Cool Rpg"
+        "Coloring Album"
       ],
       "topics": [
         "official",
@@ -2196,14 +1882,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42071552",
       "itunes_duration": "16:08",
-      "speakers": [
-        "Robert Lynn Asprin",
-        "Lynn Abbey",
-        "Tim Sale",
-        "Levi Combs",
-        "John Carpenter-inspired",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "thief",
         "world",
@@ -2222,8 +1901,7 @@
       "enclosure_length": "66373804",
       "itunes_duration": "32:50",
       "speakers": [
-        "David Miller",
-        "Cool Rpg"
+        "First Quest"
       ],
       "topics": [
         "quest",
@@ -2241,9 +1919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "33676856",
       "itunes_duration": "15:48",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "children",
         "inang"
@@ -2261,14 +1937,7 @@
       "enclosure_length": "66957275",
       "itunes_duration": "33:08",
       "speakers": [
-        "Good Books",
-        "Brian Shutter",
-        "Minacious Midway",
-        "Justin Wigard",
-        "Levi Combs",
-        "Sally Cantirino",
-        "Mike Pike",
-        "Project Gutenberg"
+        "Good Books"
       ],
       "topics": [
         "good",
@@ -2287,14 +1956,7 @@
       "enclosure_length": "69446449",
       "itunes_duration": "27:33",
       "speakers": [
-        "Russ Nicholson",
-        "Albrecht Durer",
-        "Toulouse Lautrec",
-        "Sax Rohmer",
-        "Edgar Wallace",
-        "Edgar Rice Burroughs",
-        "Jules Verne",
-        "Rider Haggard"
+        "Russ Nicholson"
       ],
       "topics": [
         "russ",
@@ -2314,10 +1976,7 @@
       "enclosure_length": "45062065",
       "itunes_duration": "21:44",
       "speakers": [
-        "Adam Rowe",
-        "Arik Roper",
-        "Spell Bound",
-        "Cool Rpg"
+        "Good Books"
       ],
       "topics": [
         "good",
@@ -2336,8 +1995,7 @@
       "enclosure_length": "49293296",
       "itunes_duration": "23:56",
       "speakers": [
-        "Ron Meischker",
-        "Cool Rpg"
+        "Philadelphia Area Gaming Expo"
       ],
       "topics": [
         "philadelphia",
@@ -2359,9 +2017,7 @@
       "itunes_duration": "28:22",
       "speakers": [
         "Ozzy Osbourne",
-        "Aleister Crowley",
-        "Max Moon",
-        "Cool Rpg"
+        "Aleister Crowley"
       ],
       "topics": [
         "abyss",
@@ -2379,10 +2035,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47307154",
       "itunes_duration": "22:54",
-      "speakers": [
-        "Julek Heller",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "ancestral",
         "trail"
@@ -2399,11 +2052,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49312522",
       "itunes_duration": "23:57",
-      "speakers": [
-        "Richard Corben",
-        "Steve Bissette",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "supernatural"
       ]
@@ -2419,10 +2068,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62390465",
       "itunes_duration": "30:45",
-      "speakers": [
-        "Games Workshop",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "halls",
         "horror"
@@ -2440,7 +2086,7 @@
       "enclosure_length": "48792581",
       "itunes_duration": "23:40",
       "speakers": [
-        "Cool Rpg"
+        "Charlie Menzies"
       ],
       "topics": [
         "game"
@@ -2457,9 +2103,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43033291",
       "itunes_duration": "20:40",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "dare"
       ]
@@ -2475,10 +2119,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50387701",
       "itunes_duration": "24:30",
-      "speakers": [
-        "Games Workshop",
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "realm",
         "chaos"
@@ -2495,9 +2136,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50482996",
       "itunes_duration": "24:33",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "barkeep",
         "borderland"
@@ -2516,8 +2155,7 @@
       "itunes_duration": "25:43",
       "speakers": [
         "Bloodsport Gambler",
-        "Dillon Morton",
-        "Cool Rpg"
+        "Dillon Morton"
       ],
       "topics": [
         "bloodsport",
@@ -2536,8 +2174,7 @@
       "enclosure_length": "38927260",
       "itunes_duration": "18:32",
       "speakers": [
-        "Arkham Investigator",
-        "Cool Rpg"
+        "Arkham Investigator"
       ],
       "topics": [
         "arkham",
@@ -2557,7 +2194,7 @@
       "enclosure_length": "50533987",
       "itunes_duration": "24:35",
       "speakers": [
-        "Cool Rpg"
+        "Swordthrust Climb"
       ],
       "topics": [
         "swordthrust"
@@ -2575,8 +2212,7 @@
       "enclosure_length": "123130999",
       "itunes_duration": "49:55",
       "speakers": [
-        "Tony DiTerlizzi",
-        "Cool Rpg"
+        "Tony DiTerlizzi"
       ],
       "topics": [
         "tony",
@@ -2596,7 +2232,7 @@
       "enclosure_length": "49102706",
       "itunes_duration": "23:50",
       "speakers": [
-        "Cool Rpg"
+        "Hero Games"
       ],
       "topics": [
         "champion"
@@ -2613,9 +2249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61658389",
       "itunes_duration": "30:22",
-      "speakers": [
-        "Cool Rpg"
-      ],
+      "speakers": [],
       "topics": [
         "monster",
         "overhaul"
@@ -2632,9 +2266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48970524",
       "itunes_duration": "25:31",
-      "speakers": [
-        "Greg Barrett"
-      ],
+      "speakers": [],
       "topics": [
         "armory",
         "dice",
@@ -2670,7 +2302,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43792305",
       "itunes_duration": "21:04",
-      "speakers": [],
+      "speakers": [
+        "Figures Toys"
+      ],
       "topics": [
         "dungeon",
         "dragons",
@@ -2689,9 +2323,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82519356",
       "itunes_duration": "33:00",
-      "speakers": [
-        "Erol Otus"
-      ],
+      "speakers": [],
       "topics": [
         "erol",
         "otus",
@@ -2709,9 +2341,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51338976",
       "itunes_duration": "25:00",
-      "speakers": [
-        "Adam Allsuch Boardman"
-      ],
+      "speakers": [],
       "topics": [
         "unknown"
       ]
@@ -2744,8 +2374,7 @@
       "enclosure_length": "62990007",
       "itunes_duration": "31:04",
       "speakers": [
-        "William Blake",
-        "Grant Howitt"
+        "Orcs Waaagh"
       ],
       "topics": []
     },
@@ -2813,9 +2442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57271194",
       "itunes_duration": "29:50",
-      "speakers": [
-        "Gary Gygax"
-      ],
+      "speakers": [],
       "topics": [
         "expedition",
         "barrier",
@@ -2834,7 +2461,7 @@
       "enclosure_length": "53865121",
       "itunes_duration": "26:19",
       "speakers": [
-        "Ben Robbins"
+        "West Marches"
       ],
       "topics": [
         "west",
@@ -2853,8 +2480,7 @@
       "enclosure_length": "56340924",
       "itunes_duration": "27:36",
       "speakers": [
-        "Fred Saberhagen",
-        "Changeling Earth"
+        "Fred Saberhagen"
       ],
       "topics": [
         "empire",
@@ -2872,7 +2498,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57758829",
       "itunes_duration": "28:21",
-      "speakers": [],
+      "speakers": [
+        "Amazing Tales"
+      ],
       "topics": [
         "amazing",
         "tales"
@@ -2890,8 +2518,7 @@
       "enclosure_length": "62894712",
       "itunes_duration": "31:01",
       "speakers": [
-        "Matt Johnson",
-        "Noble Knight"
+        "Matt Johnson"
       ],
       "topics": [
         "portent",
@@ -2909,9 +2536,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74124145",
       "itunes_duration": "38:37",
-      "speakers": [
-        "Noble Knight"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon",
         "dragons",
@@ -2931,10 +2556,7 @@
       "enclosure_length": "57715362",
       "itunes_duration": "28:19",
       "speakers": [
-        "Michael Monaco",
-        "Fantasy Wargaming",
-        "Bruce Galloway",
-        "Noble Knight"
+        "Michael Monaco"
       ],
       "topics": [
         "highest",
@@ -2953,9 +2575,7 @@
       "enclosure_length": "63451434",
       "itunes_duration": "31:19",
       "speakers": [
-        "Steve Jackson",
-        "Dean Browell",
-        "Noble Knight"
+        "Merlin Publishing"
       ],
       "topics": [
         "battlecard"
@@ -2972,9 +2592,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47516321",
       "itunes_duration": "23:01",
-      "speakers": [
-        "Noble Knight"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "harvest"
@@ -2991,10 +2609,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46410401",
       "itunes_duration": "22:26",
-      "speakers": [
-        "John Eric Holmes",
-        "Noble Knight"
-      ],
+      "speakers": [],
       "topics": [
         "maze",
         "peril"
@@ -3012,10 +2627,7 @@
       "enclosure_length": "70006411",
       "itunes_duration": "36:28",
       "speakers": [
-        "James Wallis",
-        "Ludonarrative Dissidents",
-        "Greg Stolze",
-        "Ross Payton"
+        "James Wallis"
       ],
       "topics": [
         "james",
@@ -3033,9 +2645,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69021696",
       "itunes_duration": "28:46",
-      "speakers": [
-        "Arc Dream"
-      ],
+      "speakers": [],
       "topics": [
         "oath"
       ]
@@ -3051,15 +2661,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82281872",
       "itunes_duration": "42:52",
-      "speakers": [
-        "Tony Vasinda",
-        "Adam Vass",
-        "Noble Knight",
-        "Stu Horvath",
-        "John McGuire",
-        "George Collazo",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "month",
         "round",
@@ -3077,7 +2679,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44279350",
       "itunes_duration": "23:04",
-      "speakers": [],
+      "speakers": [
+        "Dragons Toys"
+      ],
       "topics": [
         "dungeon",
         "dragons",
@@ -3096,9 +2700,7 @@
       "enclosure_length": "36480232",
       "itunes_duration": "19:00",
       "speakers": [
-        "Liminal Horror Dying",
-        "Liminial Horror",
-        "Goblin Archives"
+        "Liminal Horror Dying"
       ],
       "topics": [
         "liminal",
@@ -3116,7 +2718,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29889015",
       "itunes_duration": "15:34",
-      "speakers": [],
+      "speakers": [
+        "Cairn Here"
+      ],
       "topics": [
         "cairn"
       ]
@@ -3132,9 +2736,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38858419",
       "itunes_duration": "20:15",
-      "speakers": [
-        "Chris McDowall"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -3149,8 +2751,7 @@
       "enclosure_length": "51507537",
       "itunes_duration": "26:50",
       "speakers": [
-        "Fantasy Gamer",
-        "kinda sorta"
+        "Fantasy Gamer"
       ],
       "topics": [
         "fantasy",
@@ -3205,7 +2806,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48350273",
       "itunes_duration": "25:11",
-      "speakers": [],
+      "speakers": [
+        "Sears Wish Books"
+      ],
       "topics": [
         "sears",
         "wish",
@@ -3243,9 +2846,8 @@
       "enclosure_length": "45378583",
       "itunes_duration": "23:38",
       "speakers": [
-        "Fighting Fantasy",
-        "John Sibbick",
-        "Russ Nicholson"
+        "Advanced Fantasy Fighting Fighting",
+        "Advanced Fight"
       ],
       "topics": [
         "advanced",
@@ -3264,9 +2866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46387536",
       "itunes_duration": "24:10",
-      "speakers": [
-        "Don Greer"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon"
       ]
@@ -3283,8 +2883,7 @@
       "enclosure_length": "39003033",
       "itunes_duration": "20:19",
       "speakers": [
-        "Cadabra Records Horror",
-        "Cadabra Records"
+        "Cadabra Records Horror"
       ],
       "topics": [
         "cadabra",
@@ -3302,11 +2901,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49418576",
       "itunes_duration": "25:45",
-      "speakers": [
-        "Levi Combs",
-        "Matheus Graef",
-        "Buy Lodestar"
-      ],
+      "speakers": [],
       "topics": [
         "heresy"
       ]
@@ -3322,9 +2917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53683639",
       "itunes_duration": "22:22",
-      "speakers": [
-        "Allan Bahr"
-      ],
+      "speakers": [],
       "topics": [
         "heir",
         "heresy"
@@ -3341,9 +2934,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41901162",
       "itunes_duration": "21:50",
-      "speakers": [
-        "Keeper Tips"
-      ],
+      "speakers": [],
       "topics": [
         "cthulhu",
         "anniversary"
@@ -3360,10 +2951,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63110920",
       "itunes_duration": "32:53",
-      "speakers": [
-        "Flash Point",
-        "Bram Stoker"
-      ],
+      "speakers": [],
       "topics": [
         "ravenloft",
         "remastered"
@@ -3415,8 +3003,8 @@
       "enclosure_length": "101476226",
       "itunes_duration": "42:17",
       "speakers": [
-        "Brian Saliba",
-        "Craig Schaffer"
+        "Monty Python",
+        "Cocurricular Mediaeval Reenactment Programme"
       ],
       "topics": [
         "monty",
@@ -3440,9 +3028,7 @@
       "itunes_duration": "20:07",
       "speakers": [
         "Weird Heroes",
-        "Public Access Hambone",
-        "Public Access",
-        "Get Haunted Industries"
+        "Public Access Hambone"
       ],
       "topics": [
         "weird",
@@ -3479,8 +3065,7 @@
       "enclosure_length": "43423370",
       "itunes_duration": "22:37",
       "speakers": [
-        "Enemy Within",
-        "Warhammer Fantasy Roleplay"
+        "Enemy Wi"
       ],
       "topics": [
         "enemy"
@@ -3498,7 +3083,7 @@
       "enclosure_length": "44286873",
       "itunes_duration": "23:04",
       "speakers": [
-        "Jeff Easley"
+        "Battlesystem Chaaaaaaaaaaaaaaarge"
       ],
       "topics": [
         "battlesystem"
@@ -3570,7 +3155,7 @@
       "enclosure_length": "33737583",
       "itunes_duration": "17:35",
       "speakers": [
-        "Bill Sienkiewicz"
+        "Bard Games"
       ],
       "topics": [
         "atlantis",
@@ -3622,9 +3207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30990003",
       "itunes_duration": "14:24",
-      "speakers": [
-        "Dave Megarry"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon"
       ]
@@ -3640,9 +3223,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43259801",
       "itunes_duration": "20:47",
-      "speakers": [
-        "Great Old One"
-      ],
+      "speakers": [],
       "topics": [
         "cult",
         "cthulhu"
@@ -3678,9 +3259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42448396",
       "itunes_duration": "20:22",
-      "speakers": [
-        "Sara Hannant"
-      ],
+      "speakers": [],
       "topics": [
         "shadow"
       ]
@@ -3715,7 +3294,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41357063",
       "itunes_duration": "19:48",
-      "speakers": [],
+      "speakers": [
+        "Dragons Another"
+      ],
       "topics": [
         "monster",
         "dragons"
@@ -3751,8 +3332,7 @@
       "enclosure_length": "48413450",
       "itunes_duration": "23:29",
       "speakers": [
-        "Reverse Dungeon",
-        "Dungeon Keeper"
+        "Reverse Dungeon"
       ],
       "topics": [
         "dungeon"
@@ -3789,9 +3369,7 @@
       "enclosure_length": "40071172",
       "itunes_duration": "19:08",
       "speakers": [
-        "Central Casting If",
-        "Jennell Jaquays",
-        "Central Casting"
+        "Central Casting If"
       ],
       "topics": [
         "central",
@@ -3880,7 +3458,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44019027",
       "itunes_duration": "21:11",
-      "speakers": [],
+      "speakers": [
+        "Styx Strap"
+      ],
       "topics": [
         "dragonrider",
         "styx"
@@ -3898,8 +3478,7 @@
       "enclosure_length": "40549046",
       "itunes_duration": "19:23",
       "speakers": [
-        "Dark Tower",
-        "Milton Bradley"
+        "Dark Tower"
       ],
       "topics": [
         "dark",
@@ -3949,10 +3528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45782543",
       "itunes_duration": "22:06",
-      "speakers": [
-        "Dungeon Crawl Classics",
-        "Starless Sea"
-      ],
+      "speakers": [],
       "topics": [
         "sailor",
         "starless"
@@ -3985,7 +3561,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43339425",
       "itunes_duration": "20:50",
-      "speakers": [],
+      "speakers": [
+        "King Kong Scream",
+        "Fae Wray",
+        "Skull Island"
+      ],
       "topics": [
         "king",
         "kong"
@@ -4002,9 +3582,7 @@
       "enclosure_type": "audio/mp4",
       "enclosure_length": "59476908",
       "itunes_duration": "30:13",
-      "speakers": [
-        "Levi Combs"
-      ],
+      "speakers": [],
       "topics": [
         "traveller"
       ]
@@ -4020,9 +3598,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54778697",
       "itunes_duration": "26:47",
-      "speakers": [
-        "Joe DeSimone"
-      ],
+      "speakers": [],
       "topics": [
         "awards"
       ]
@@ -4038,10 +3614,7 @@
       "enclosure_type": "audio/mp4",
       "enclosure_length": "41295111",
       "itunes_duration": "23:15",
-      "speakers": [
-        "White Bear",
-        "Red Moon"
-      ],
+      "speakers": [],
       "topics": [
         "runequest"
       ]
@@ -4058,7 +3631,7 @@
       "enclosure_length": "45536223",
       "itunes_duration": "25:48",
       "speakers": [
-        "Tim Hutchings"
+        "Stone Giants Ever"
       ],
       "topics": [
         "oracles",
@@ -4097,9 +3670,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64941594",
       "itunes_duration": "25:40",
-      "speakers": [
-        "William Gibson"
-      ],
+      "speakers": [],
       "topics": [
         "neuromancer"
       ]
@@ -4116,7 +3687,7 @@
       "enclosure_length": "66186067",
       "itunes_duration": "26:11",
       "speakers": [
-        "Dungeon Crawl Classics"
+        "Dungeon Crawl Classic"
       ],
       "topics": [
         "dungeon",
@@ -4135,9 +3706,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54522979",
       "itunes_duration": "21:20",
-      "speakers": [
-        "Fantasy Roleplay"
-      ],
+      "speakers": [],
       "topics": [
         "warlock"
       ]
@@ -4153,9 +3722,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52623313",
       "itunes_duration": "20:32",
-      "speakers": [
-        "Poul Anderson"
-      ],
+      "speakers": [],
       "topics": [
         "broken",
         "sword"
@@ -4172,10 +3739,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58639088",
       "itunes_duration": "23:03",
-      "speakers": [
-        "Monstrous Compendium",
-        "Advanced Dungeons"
-      ],
+      "speakers": [],
       "topics": [
         "monstrous",
         "compendium"
@@ -4252,9 +3816,7 @@
       "enclosure_length": "64810065",
       "itunes_duration": "25:37",
       "speakers": [
-        "Fighting Fantasy",
-        "Henry Taylor",
-        "Caer Mundus"
+        "Fighting Fantasy"
       ],
       "topics": [
         "dark",
@@ -4272,12 +3834,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100480684",
       "itunes_duration": "40:29",
-      "speakers": [
-        "Fighting Fantasy",
-        "Ian Livingstone",
-        "Steve Jackson",
-        "Ryan Verniere"
-      ],
+      "speakers": [],
       "topics": [
         "fantasy"
       ]
@@ -4294,7 +3851,8 @@
       "enclosure_length": "49887728",
       "itunes_duration": "19:24",
       "speakers": [
-        "Rocky Role-Playing Party"
+        "Rocky Role-Playing Party",
+        "Rocky Role-Playing Par"
       ],
       "topics": [
         "bullwinkle",
@@ -4317,9 +3875,7 @@
       "enclosure_length": "75783690",
       "itunes_duration": "30:11",
       "speakers": [
-        "Tristan Zimmerman",
-        "Shanty Hunters",
-        "Molten Sulphur"
+        "Treasure Hunt Ships"
       ],
       "topics": [
         "treasure",
@@ -4355,9 +3911,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58358800",
       "itunes_duration": "22:56",
-      "speakers": [
-        "Mark Sable"
-      ],
+      "speakers": [],
       "topics": [
         "babe",
         "wood"
@@ -4375,9 +3929,7 @@
       "enclosure_length": "61642958",
       "itunes_duration": "24:18",
       "speakers": [
-        "Impossible Landscapes",
-        "Sadia Bies",
-        "Banana Chan"
+        "Yellow Sign"
       ],
       "topics": [
         "impossible",
@@ -4395,9 +3947,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46642296",
       "itunes_duration": "18:03",
-      "speakers": [
-        "Terry Amthor"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -4413,8 +3963,7 @@
       "itunes_duration": "26:25",
       "speakers": [
         "Lee Franck",
-        "Amanda Lee",
-        "Mouth Brood"
+        "Amanda Lee"
       ],
       "topics": [
         "amanda",
@@ -4433,8 +3982,7 @@
       "enclosure_length": "46498163",
       "itunes_duration": "17:59",
       "speakers": [
-        "random tables",
-        "amazing art"
+        "Goodman Games"
       ],
       "topics": [
         "dungeon",
@@ -4469,8 +4017,7 @@
       "enclosure_length": "54178163",
       "itunes_duration": "21:11",
       "speakers": [
-        "Black Magic",
-        "Ars Goetia"
+        "Black Magic"
       ],
       "topics": [
         "magic"
@@ -4487,9 +4034,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70079548",
       "itunes_duration": "27:49",
-      "speakers": [
-        "Tony Vasinda"
-      ],
+      "speakers": [],
       "topics": [
         "horror",
         "orient",
@@ -4510,7 +4055,7 @@
       "enclosure_length": "69149398",
       "itunes_duration": "27:25",
       "speakers": [
-        "Drew Cochran"
+        "Thousand Year Old Vampire"
       ],
       "topics": [
         "thousand",
@@ -4621,7 +4166,8 @@
       "enclosure_length": "53137382",
       "itunes_duration": "20:45",
       "speakers": [
-        "Arc Dream"
+        "Delta Green",
+        "Pagan Publishing Delta Green"
       ],
       "topics": [
         "delta",
@@ -4674,9 +4220,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71560362",
       "itunes_duration": "28:26",
-      "speakers": [
-        "Jonathan Sacha"
-      ],
+      "speakers": [],
       "topics": [
         "throne",
         "bloodstone"
@@ -4694,8 +4238,7 @@
       "enclosure_length": "77042685",
       "itunes_duration": "30:43",
       "speakers": [
-        "Andrew Walter",
-        "Russ Nicholson"
+        "Andrew Walter"
       ],
       "topics": [
         "andrew",
@@ -4714,7 +4257,7 @@
       "enclosure_length": "66066884",
       "itunes_duration": "26:08",
       "speakers": [
-        "Rpg Arc"
+        "Momatoes abo"
       ],
       "topics": []
     },
@@ -4730,9 +4273,7 @@
       "enclosure_length": "51859534",
       "itunes_duration": "20:13",
       "speakers": [
-        "Gary Gygax",
-        "Mac Golden",
-        "Davis Chenault"
+        "Old Scho"
       ],
       "topics": [
         "osric"
@@ -4749,11 +4290,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63118331",
       "itunes_duration": "24:55",
-      "speakers": [
-        "Adam Vass",
-        "Will Jobst",
-        "Trevor Henderson"
-      ],
+      "speakers": [],
       "topics": [
         "campfire"
       ]
@@ -4770,7 +4307,7 @@
       "enclosure_length": "72654411",
       "itunes_duration": "28:53",
       "speakers": [
-        "Jungle Tomb"
+        "Baron Munchausen When"
       ],
       "topics": [
         "extraordinary",
@@ -4790,7 +4327,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59406832",
       "itunes_duration": "23:22",
-      "speakers": [],
+      "speakers": [
+        "Delta Green"
+      ],
       "topics": [
         "delta",
         "green"
@@ -4848,9 +4387,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59777003",
       "itunes_duration": "23:31",
-      "speakers": [
-        "Yaquinto Publications"
-      ],
+      "speakers": [],
       "topics": [
         "timeship"
       ]
@@ -4866,9 +4403,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54924348",
       "itunes_duration": "21:30",
-      "speakers": [
-        "Beating White Wolf"
-      ],
+      "speakers": [],
       "topics": [
         "nightlife"
       ]
@@ -4903,9 +4438,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81552399",
       "itunes_duration": "32:35",
-      "speakers": [
-        "Andrew Branstad"
-      ],
+      "speakers": [],
       "topics": [
         "warehouse"
       ]
@@ -4942,7 +4475,7 @@
       "enclosure_length": "59842364",
       "itunes_duration": "23:33",
       "speakers": [
-        "Russ Nicholson"
+        "Fiend Folio"
       ],
       "topics": [
         "fiend",
@@ -4977,9 +4510,7 @@
       "enclosure_length": "62883764",
       "itunes_duration": "24:49",
       "speakers": [
-        "Dark Tower",
-        "Amanda Lee Franck",
-        "Vampire Cruise"
+        "Dark Tower"
       ],
       "topics": [
         "dark",
@@ -4998,9 +4529,7 @@
       "enclosure_length": "83293199",
       "itunes_duration": "33:19",
       "speakers": [
-        "Rebel Crown",
-        "Michael Dunn-O'Connor",
-        "Eric Swanson"
+        "Rebel Crown"
       ],
       "topics": [
         "goblinville",
@@ -5037,9 +4566,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56080859",
       "itunes_duration": "21:59",
-      "speakers": [
-        "Playing Game"
-      ],
+      "speakers": [],
       "topics": [
         "dallas",
         "television",
@@ -5059,10 +4586,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68000052",
       "itunes_duration": "26:57",
-      "speakers": [
-        "Lucian Kahn",
-        "Mall Goths"
-      ],
+      "speakers": [],
       "topics": [
         "alice"
       ]
@@ -5113,9 +4637,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51281643",
       "itunes_duration": "19:59",
-      "speakers": [
-        "Metamorphosis Alpha"
-      ],
+      "speakers": [],
       "topics": [
         "gamma",
         "world"
@@ -5133,11 +4655,7 @@
       "enclosure_length": "49063387",
       "itunes_duration": "19:03",
       "speakers": [
-        "Metamorphosis Alpha",
-        "Stu Horvath",
-        "John McGuire",
-        "George Collazo",
-        "Shafer Brown"
+        "Metamorphosis Alpha"
       ],
       "topics": [
         "metamorphosis",
@@ -5156,8 +4674,7 @@
       "enclosure_length": "68558069",
       "itunes_duration": "27:11",
       "speakers": [
-        "Joe DeSimone",
-        "Townes Van Zandt"
+        "Joe DeSimone"
       ],
       "topics": [
         "desimone"
@@ -5175,8 +4692,7 @@
       "enclosure_length": "42401076",
       "itunes_duration": "16:17",
       "speakers": [
-        "Mörk Borg",
-        "Bolt Thrower"
+        "Mörk Borg"
       ],
       "topics": [
         "borg"
@@ -5194,8 +4710,7 @@
       "enclosure_length": "37663083",
       "itunes_duration": "14:18",
       "speakers": [
-        "Rich Forest",
-        "Bill Spytma"
+        "Rainy City"
       ],
       "topics": [
         "visitor",
@@ -5215,9 +4730,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50881852",
       "itunes_duration": "19:49",
-      "speakers": [
-        "Crossby's Hârn"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -5249,10 +4762,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36882032",
       "itunes_duration": "13:59",
-      "speakers": [
-        "Ed Simbalist",
-        "Wilf Backhaus"
-      ],
+      "speakers": [],
       "topics": [
         "chivalry",
         "sorcery"
@@ -5270,9 +4780,7 @@
       "enclosure_length": "75236694",
       "itunes_duration": "29:58",
       "speakers": [
-        "Gift Guide",
-        "Matt Kelley",
-        "Jess Carrier"
+        "Gift Guide"
       ],
       "topics": [
         "holiday",
@@ -5345,9 +4853,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55539856",
       "itunes_duration": "21:45",
-      "speakers": [
-        "Stephen Fabian"
-      ],
+      "speakers": [],
       "topics": [
         "ravenloft",
         "campaign",
@@ -5383,9 +4889,7 @@
       "enclosure_length": "42719151",
       "itunes_duration": "16:25",
       "speakers": [
-        "Robert Lynn Asprin",
-        "Lynn Abbey",
-        "Tim Sale"
+        "Robert Lynn Asprin"
       ],
       "topics": [
         "thief",
@@ -5440,10 +4944,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51977587",
       "itunes_duration": "20:16",
-      "speakers": [
-        "Gray Mouser",
-        "Otto Fischer"
-      ],
+      "speakers": [],
       "topics": [
         "lankhmar",
         "city",
@@ -5462,8 +4963,7 @@
       "enclosure_length": "58399530",
       "itunes_duration": "22:57",
       "speakers": [
-        "Ken St Andre",
-        "Michael Moorcock"
+        "Stormbringer Steal"
       ],
       "topics": [
         "stormbringer"
@@ -5480,10 +4980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49601340",
       "itunes_duration": "19:17",
-      "speakers": [
-        "Simon Stålenhag",
-        "Fria Ligan"
-      ],
+      "speakers": [],
       "topics": [
         "tale",
         "loop"
@@ -5517,12 +5014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45977741",
       "itunes_duration": "17:46",
-      "speakers": [
-        "Stu Horvath",
-        "John McGuire",
-        "George Collazo",
-        "Shafer Brown"
-      ],
+      "speakers": [],
       "topics": [
         "rift"
       ]
@@ -5578,8 +5070,7 @@
       "enclosure_length": "55507210",
       "itunes_duration": "21:44",
       "speakers": [
-        "Arnold Schwarzenegger Conan",
-        "King Conan"
+        "Arnold Schwarzenegger Conan"
       ],
       "topics": [
         "schwarzenegger",
@@ -5598,9 +5089,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51016302",
       "itunes_duration": "19:52",
-      "speakers": [
-        "Lawrence Schick"
-      ],
+      "speakers": [],
       "topics": [
         "white",
         "plume",
@@ -5618,10 +5107,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79580656",
       "itunes_duration": "31:46",
-      "speakers": [
-        "Monte Cook",
-        "John Martin"
-      ],
+      "speakers": [],
       "topics": [
         "orcus"
       ]
@@ -5658,10 +5144,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47806503",
       "itunes_duration": "18:32",
-      "speakers": [
-        "Ken St Andre",
-        "Lone Wolf"
-      ],
+      "speakers": [],
       "topics": [
         "tunnels",
         "trolls"
@@ -5678,9 +5161,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49137980",
       "itunes_duration": "19:05",
-      "speakers": [
-        "women readers"
-      ],
+      "speakers": [],
       "topics": [
         "heartquest"
       ]
@@ -5696,10 +5177,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54566578",
       "itunes_duration": "22:45",
-      "speakers": [
-        "James Dallas Egbert Iii",
-        "Tom Hanks"
-      ],
+      "speakers": [],
       "topics": [
         "mazes",
         "monster"
@@ -5756,7 +5234,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52634060",
       "itunes_duration": "20:32",
-      "speakers": [],
+      "speakers": [
+        "Shadowrun Polish"
+      ],
       "topics": [
         "shadowrun"
       ]
@@ -5772,9 +5252,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53999741",
       "itunes_duration": "21:07",
-      "speakers": [
-        "Gary Gygax"
-      ],
+      "speakers": [],
       "topics": [
         "greyhawk"
       ]
@@ -5791,8 +5269,7 @@
       "enclosure_length": "45309325",
       "itunes_duration": "17:29",
       "speakers": [
-        "Iron Maiden",
-        "Rpg Assassin"
+        "Iron Maiden"
       ],
       "topics": [
         "killer"
@@ -5810,7 +5287,9 @@
       "enclosure_length": "45556710",
       "itunes_duration": "17:36",
       "speakers": [
-        "Angus McBride"
+        "Rings Adventure Game Remember",
+        "Rings Adventure Game",
+        "Iron Crown Enterprises"
       ],
       "topics": [
         "lord",
@@ -5864,8 +5343,8 @@
       "enclosure_length": "41959126",
       "itunes_duration": "16:06",
       "speakers": [
-        "Gary Gygax",
-        "Greg Irons"
+        "Advanced Dungeons",
+        "Dragons Coloring"
       ],
       "topics": [
         "advanced",
@@ -5907,7 +5386,7 @@
       "itunes_duration": "27:01",
       "speakers": [
         "Milton Bradley",
-        "Games Workshop"
+        "Games Worksho"
       ],
       "topics": [
         "heroquest"
@@ -5924,9 +5403,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46450354",
       "itunes_duration": "17:58",
-      "speakers": [
-        "Bill Slavicsek"
-      ],
+      "speakers": [],
       "topics": [
         "star",
         "frontiers"
@@ -5943,9 +5420,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51681902",
       "itunes_duration": "20:09",
-      "speakers": [
-        "Gary Gygax"
-      ],
+      "speakers": [],
       "topics": [
         "shadow",
         "people"
@@ -5998,9 +5473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57238669",
       "itunes_duration": "22:28",
-      "speakers": [
-        "Hercule Poirot"
-      ],
+      "speakers": [],
       "topics": [
         "horror",
         "orient",
@@ -6037,8 +5510,7 @@
       "itunes_duration": "18:59",
       "speakers": [
         "Fantasy Wargaming",
-        "Bruce Galloway",
-        "Leigh Cliffs"
+        "Bruce Galloway"
       ],
       "topics": [
         "fantasy",
@@ -6075,10 +5547,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "41017950",
       "itunes_duration": "15:42",
-      "speakers": [
-        "Alex Clements",
-        "Shuyi Zhang"
-      ],
+      "speakers": [],
       "topics": [
         "fungi",
         "realms"
@@ -6095,11 +5564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65757743",
       "itunes_duration": "26:01",
-      "speakers": [
-        "Rpg Cobwebs",
-        "Adam Vass",
-        "Sally Cantirino"
-      ],
+      "speakers": [],
       "topics": [
         "cobwebs"
       ]
@@ -6115,9 +5580,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65198190",
       "itunes_duration": "25:47",
-      "speakers": [
-        "Bill Willingham"
-      ],
+      "speakers": [],
       "topics": [
         "borderland"
       ]
@@ -6150,14 +5613,7 @@
       "enclosure_length": "69446449",
       "itunes_duration": "27:33",
       "speakers": [
-        "Russ Nicholson",
-        "Albrecht Durer",
-        "Toulouse Lautrec",
-        "Sax Rohmer",
-        "Edgar Wallace",
-        "Edgar Rice Burroughs",
-        "Jules Verne",
-        "Rider Haggard"
+        "Russ Nicholson"
       ],
       "topics": [
         "russ",
@@ -6175,7 +5631,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31528976",
       "itunes_duration": "11:45",
-      "speakers": [],
+      "speakers": [
+        "Monster Cards",
+        "Advanced Dungeons",
+        "Dragons Monster Cards"
+      ],
       "topics": [
         "monster",
         "cards"
@@ -6209,8 +5669,7 @@
       "enclosure_length": "50721353",
       "itunes_duration": "21:08",
       "speakers": [
-        "Dave Sutherland",
-        "Dave Trampier"
+        "Monster Manual"
       ],
       "topics": [
         "monster",
@@ -6228,9 +5687,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64106932",
       "itunes_duration": "25:19",
-      "speakers": [
-        "Wars Expanded Universe"
-      ],
+      "speakers": [],
       "topics": [
         "star",
         "wars",
@@ -6250,10 +5707,7 @@
       "enclosure_length": "36998228",
       "itunes_duration": "14:02",
       "speakers": [
-        "Joe Sparrow",
-        "Daniel Cohen",
-        "Mike Mignola",
-        "Felix Guirand"
+        "Blanca Martinez"
       ],
       "topics": [
         "dungeon",
@@ -6272,8 +5726,7 @@
       "enclosure_length": "79044796",
       "itunes_duration": "31:33",
       "speakers": [
-        "Gift Guide",
-        "Invisible Sun"
+        "Gift Guide"
       ],
       "topics": [
         "holiday",
@@ -6293,8 +5746,7 @@
       "enclosure_length": "56932663",
       "itunes_duration": "22:20",
       "speakers": [
-        "Jim Zub",
-        "Rick Sanchez"
+        "Jim Zub"
       ],
       "topics": [
         "dungeon",
@@ -6332,8 +5784,7 @@
       "enclosure_length": "113519090",
       "itunes_duration": "45:55",
       "speakers": [
-        "Jim Zub",
-        "Young Adventurer"
+        "Jim Zub"
       ],
       "topics": [
         "young",
@@ -6352,11 +5803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114261906",
       "itunes_duration": "46:13",
-      "speakers": [
-        "Jack Chick",
-        "Rob Halford",
-        "Michael Stackpole"
-      ],
+      "speakers": [],
       "topics": [
         "satanic",
         "panic"
@@ -6413,7 +5860,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71475424",
       "itunes_duration": "28:24",
-      "speakers": [],
+      "speakers": [
+        "Endless Quest"
+      ],
       "topics": [
         "endless",
         "quest"
@@ -6430,11 +5879,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103462723",
       "itunes_duration": "43:02",
-      "speakers": [
-        "Tracy Hickman",
-        "Margaret Weiss",
-        "Craig Bergman"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance"
       ]
@@ -6450,12 +5895,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107735601",
       "itunes_duration": "43:30",
-      "speakers": [
-        "Timothy Truman",
-        "Steve Bisette",
-        "John Totleben",
-        "Young Adventurer"
-      ],
+      "speakers": [],
       "topics": [
         "dungeons",
         "dragons",
@@ -6473,10 +5913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82738379",
       "itunes_duration": "33:05",
-      "speakers": [
-        "Forgotten Realms",
-        "Ed Greenwood"
-      ],
+      "speakers": [],
       "topics": [
         "forgotten",
         "realm"
@@ -6494,7 +5931,7 @@
       "enclosure_length": "139892356",
       "itunes_duration": "56:54",
       "speakers": [
-        "Jungle Tomb"
+        "Paper Anniversary"
       ],
       "topics": [
         "paper",
@@ -6533,10 +5970,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76557936",
       "itunes_duration": "30:31",
-      "speakers": [
-        "Fantasy Flight",
-        "Survival Guide"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon",
         "dragons",
@@ -6555,9 +5989,7 @@
       "enclosure_length": "65399471",
       "itunes_duration": "25:52",
       "speakers": [
-        "Keith Herber",
-        "Sinister Secret",
-        "Salt Marsh"
+        "Keith Herber"
       ],
       "topics": [
         "lovecraft",
@@ -6577,10 +6009,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112957105",
       "itunes_duration": "45:41",
-      "speakers": [
-        "Gary Gygax",
-        "Michael O'Brien"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon",
         "masters",
@@ -6599,10 +6028,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74938344",
       "itunes_duration": "29:50",
-      "speakers": [
-        "Andrew Leker",
-        "Miles Teves"
-      ],
+      "speakers": [],
       "topics": [
         "skyrealms",
         "jorune"
@@ -6619,10 +6045,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75757565",
       "itunes_duration": "30:11",
-      "speakers": [
-        "Steve Jackson Games",
-        "Arthur Pendragon"
-      ],
+      "speakers": [],
       "topics": [
         "gurps"
       ]
@@ -6639,11 +6062,7 @@
       "enclosure_length": "61077357",
       "itunes_duration": "30:04",
       "speakers": [
-        "Red Box",
-        "Stu Horvath",
-        "John McGuire",
-        "George Collazo",
-        "Shafer Brown"
+        "Red Box"
       ],
       "topics": []
     },
@@ -6659,11 +6078,7 @@
       "enclosure_length": "127288722",
       "itunes_duration": "01:04:33",
       "speakers": [
-        "James Lowder",
-        "Stu Horvath",
-        "John McGuire",
-        "George Collazo",
-        "Shafer Brown"
+        "James Lowder"
       ],
       "topics": [
         "james",
@@ -6701,10 +6116,7 @@
       "enclosure_length": "77343366",
       "itunes_duration": "38:33",
       "speakers": [
-        "Steve Jackson Games",
-        "Kevin Eastman",
-        "Ryan Verniere",
-        "Carmen Acosta"
+        "Steve Jackson Games"
       ],
       "topics": [
         "mask",
@@ -6723,9 +6135,7 @@
       "enclosure_length": "57660183",
       "itunes_duration": "28:17",
       "speakers": [
-        "Mouse Guard",
-        "Sara Clemens",
-        "David Petersen"
+        "Mouse Guard"
       ],
       "topics": [
         "mouse",
@@ -6763,7 +6173,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53238823",
       "itunes_duration": "25:59",
-      "speakers": [],
+      "speakers": [
+        "Marvel Super Heroes"
+      ],
       "topics": [
         "marvel",
         "super",
@@ -6782,8 +6194,7 @@
       "enclosure_length": "31611808",
       "itunes_duration": "24:29",
       "speakers": [
-        "Sears Wish Books",
-        "Sears Wish Book"
+        "Sears Wish Books"
       ],
       "topics": [
         "sears",
@@ -6802,13 +6213,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "36060648",
       "itunes_duration": "28:12",
-      "speakers": [
-        "Reiner Knizia",
-        "Rpg hobby",
-        "Tim Kask",
-        "Forgotten Realms",
-        "kinda sorta"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "magazine"
@@ -6845,9 +6250,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30762820",
       "itunes_duration": "22:51",
-      "speakers": [
-        "Ben Robbins Follow"
-      ],
+      "speakers": [],
       "topics": [
         "middle",
         "earth",
@@ -6866,10 +6269,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40604191",
       "itunes_duration": "31:03",
-      "speakers": [
-        "Flash Point",
-        "Bram Stoker"
-      ],
+      "speakers": [],
       "topics": [
         "ravenloft"
       ]
@@ -6885,9 +6285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30209308",
       "itunes_duration": "22:23",
-      "speakers": [
-        "Bantam Books"
-      ],
+      "speakers": [],
       "topics": [
         "ninja",
         "turtles",
@@ -6905,12 +6303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35980620",
       "itunes_duration": "22:40",
-      "speakers": [
-        "Jeff Grubb",
-        "Tony DiTerlizzi",
-        "Grant Howitt",
-        "Dead Gods"
-      ],
+      "speakers": [],
       "topics": [
         "planescape"
       ]
@@ -6927,9 +6320,7 @@
       "enclosure_length": "68855460",
       "itunes_duration": "27:18",
       "speakers": [
-        "Jackson Elias",
-        "Grant Howitt",
-        "Christopher Taylor"
+        "Nyarlathotep Tongues"
       ],
       "topics": [
         "mask",
@@ -6947,11 +6338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50158839",
       "itunes_duration": "32:31",
-      "speakers": [
-        "Timothy Zahn",
-        "Thrawn Trilogy",
-        "Galaxy Guides"
-      ],
+      "speakers": [],
       "topics": [
         "west",
         "games",
@@ -6973,11 +6360,7 @@
       "speakers": [
         "Dark Sun",
         "Stu Horvath",
-        "John McGuire",
-        "Greg Costikyan",
-        "Timothy Zahn",
-        "Wilford Brimley",
-        "Keanu Reeves"
+        "John McGuire"
       ],
       "topics": [
         "dark"
@@ -6996,11 +6379,7 @@
       "itunes_duration": "29:53",
       "speakers": [
         "Stu Horvath",
-        "John McGuire",
-        "Greg Costikyan",
-        "Timothy Zahn",
-        "Wilford Brimley",
-        "Keanu Reeves"
+        "John McGuire"
       ],
       "topics": [
         "west",
@@ -7021,9 +6400,7 @@
       "itunes_duration": "29:37",
       "speakers": [
         "Stu Horvath",
-        "John McGuire",
-        "Gene Day",
-        "Simon Stålenhag"
+        "John McGuire"
       ],
       "topics": [
         "chaosium",
@@ -7043,8 +6420,7 @@
       "itunes_duration": "34:01",
       "speakers": [
         "Stu Horvath",
-        "John McGuire",
-        "Russ Nicholson"
+        "John McGuire"
       ],
       "topics": [
         "pilot",
@@ -7059,354 +6435,354 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — The End Times — speakers: Benjamin Percy, Stephen King, Cool Rpg, Alex Murray, Shafer Brown
-- 2026-02-16 — Delta Green, Among Other Things — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2026-02-09 — Dragons & Daggers — speakers: Basic Set, Cool Rpg, Alex Murray, Shafer Brown
-- 2026-02-02 — Sounds from RPGS — speakers: Slough Feg, Cool Rpg, Alex Murray, Shafer Brown
-- 2026-01-19 — Talkin' About Stuff — speakers: Peter Jackson, Cool Rpg, Alex Murray, Shafer Brown
-- 2026-01-12 — Dark Tower — speakers: Dark Tower, Milton Bradley, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-12-15 — Roads — speakers: Seabury Quinn, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-12-08 — Monsters — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-11-24 — Mausritter: Tails from the Night Market — speakers: Tiger Wizard, Joey Royale, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-11-17 — The Spark Devil and Other Horrors — speakers: Loop Track, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-11-10 — The Far Side — speakers: Gary Larsen, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-11-03 — Thousand Year Old Campfire — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-10-27 — Murder She Wrote: A Board Game of Strategy and Pursuit — speakers: Jessica Fletcher, Jessica Fletchers, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-10-20 — The Future King — speakers: Bruce Lee, Tom Moldvay, King Arthur, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-10-13 — The Means of Production — speakers: Brian Colin, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-10-06 — The Stars are Right! — speakers: Blair Reynolds, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-09-22 — Cults of RuneQuest — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-09-15 — The S-Series Continues? — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-09-08 — Space Marine II — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-09-01 — Wargames West — speakers: Wargames West, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-08-25 — Toys, Toys, Toys — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-08-18 — 49 Pounds of RPG Books — speakers: Bunny Borg, Kala Mandala, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-08-11 — GenCon 2025 — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-07-28 — Dragon Kings — speakers: Dark Suns, Ozzy Osbourne, Sabbath Bloody Sabbath, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-07-21 — Drunk Jousting — speakers: Nick Boreli, Mold Mold Mold, Drunk Jousting, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-07-14 — Midnight of the Century — speakers: Twin Peaks, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-07-07 — Land Of Eem — speakers: Ben Costa, James Parks, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-06-30 — Hambone Goes to the Library — speakers: Le Guin, Fritz Leiber, Lloyd Alexander, Margaret St Claire, Roger Zelazny, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-06-23 — 12 Years at Sea — speakers: Max Moon, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-06-16 — Weird Heroes of Public Access - The Book — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-06-09 — Grenadier Miniature Catalogs — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-05-26 — Kolchak: The Night Stalker — speakers: Carl Kolchak, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-05-19 — Two Years of West Marches — speakers: Justin Wigard, Clay Fleischer, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-05-12 — Just Riffin' — speakers: Games People Play, Sara Clemens, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-05-05 — Fiddler's Green Peculiar Parish Magazine — speakers: Clint Marsh, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-04-28 — The Job — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-04-21 — Delinquent Elementals — speakers: Phil Hine, Rodney Orpheus, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-04-14 — What We're Working On — speakers: Joseph Payne Brennan, Zombie Braineaters, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-03-31 — Through the Hedgerow — speakers: Susan Cooper, Alan Garner, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-03-24 — Sickest Witch — speakers: Sickest Witch, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-03-17 — Liminal Horror Deluxe — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-03-10 — Super7 D&D Toys — speakers: Sacred Statue, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-03-03 — Hobgoblin — speakers: Mike Hutchinson, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-02-24 — A Fantastic Bestiary — speakers: Johanna Lehner, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-02-17 — When the Sky Comes Looking for You — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-02-10 — Sqwürmish — speakers: Brian Colin, Forbidden Psalm, Vast Grim, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-02-03 — Glumdark — speakers: Christopher Drellow, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-01-27 — Zarak, Strongheart and Elkhorn Ultimates — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2025-01-20 — The Adventurer's Guide to Exercise — speakers: Tyler Welch, Graham Barey, Cool Rpg, Alex Murray, Shafer Brown
-- 2025-01-13 — Back in the Saddle — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2024-12-16 — PAX Unplugged 2024 — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2024-12-09 — Fabled Lands — speakers: Fabled Lands, Dave Morris, Jamie Thompson, Paul Gresty, Russ Nicholson, Cool Rpg, Alex Murray, Shafer Brown
-- 2024-12-02 — Top Secret: New World Order — speakers: Top Secret, Joe Rpg, Ron Meischker, Cool Rpg, Alex Murray, Shafer Brown
-- 2024-11-25 — Ballads of Oræd — speakers: Orrin Grey, Cool Rpg, Alex Murray, Shafer Brown
-- 2024-11-18 — Rick Meints Interview — speakers: Rick Meints, Cool Rpg, Alex Murray, Shafer Brown
-- 2024-11-04 — INTERMEDIARY MUND — speakers: Benjamin Marra, Cool Rpg, Alex Murray, Shafer Brown
-- 2024-10-28 — Magic Realms: The Art of Fighting Fantasy — speakers: Cool Rpg, Alex Murray, Shafer Brown
-- 2024-10-21 — The Twenty-Sided Tavern — speakers: Alex Murray, Cool Rpg
-- 2024-10-14 — Lords of Creation — speakers: John Brown, Cool Rpg
-- 2024-10-07 — Eat the Reich — speakers: Cool Rpg
-- 2024-09-30 — Weird Heroes of Public Access — speakers: Joey Royale, Cool Rpg
-- 2024-09-23 — MasterBook — speakers: Cool Rpg
-- 2024-09-16 — Machine: Impossible — speakers: Jacob Mooney, Cool Rpg
-- 2024-09-09 — His Majesty the Worm — speakers: Josh McCrowell, Cool Rpg
-- 2024-09-02 — Deities & Demi-Bros — speakers: Brian Shutter, Cool Rpg
-- 2024-08-26 — Brindlewood Bay — speakers: Golden Girls, Cool Rpg
-- 2024-08-19 — GenCon 2024 — speakers: Cool Rpg
-- 2024-08-12 — The Court of Ardor — speakers: Roger Zelazny, Cool Rpg
-- 2024-08-05 — Casket of Souls — speakers: Ian Livingstone, Cool Rpg
-- 2024-07-29 — Barony — speakers: Cool Rpg
-- 2024-07-20 — The Sorcerers' Enclave — speakers: Aaron Howdle, Cool Rpg
-- 2024-07-15 — Outcast Silver Raiders — speakers: Isaac VanDuyn, Kim Diaz Holm, Lex Rocket, Cool Rpg
-- 2024-07-08 — Grimrock Isle — speakers: Stephen King, Sandford Jr, Cool Rpg
-- 2024-07-01 — Earthshaker! — speakers: Cool Rpg
-- 2024-06-24 — The Filming of Conan the Barbarian — speakers: Ron Cobb, John Milius, Cool Rpg
-- 2024-06-17 — Void: The Frontier — speakers: Tyler Vance, Cool Rpg
-- 2024-06-10 — Holomatixx: A New Wave Order — speakers: Megan Dawson Jaffe, Cool Rpg
-- 2024-06-03 — Gamer's Handbook of the Marvel Universe (Remastered) — speakers: Cool Rpg
-- 2024-05-27 — One Year of West Marches — speakers: Justin Wigard, Clay Fleischer, Stephen Graham Jones, Cool Rpg
-- 2024-05-20 — Shadowgate — speakers: Castle Shadowgate, Cool Rpg
-- 2024-05-13 — The Black Rainbow Society — speakers: Gavriel Quiroga, Cool Rpg
-- 2024-05-06 — Bryan Ansell, 1955-2023 — speakers: Bryan Ansell, Timothy Linward, Citadel Miniatures, Cool Rpg
-- 2024-04-29 — Gameplayers — speakers: Stephen Bowkett, Cool Rpg
-- 2024-04-22 — Star Trek: The Role Playing Game — speakers: Cool Rpg
-- 2024-04-15 — Get in the Van — speakers: John Patrick Cooper, Cool Rpg
-- 2024-04-08 — Dragon's Lair — speakers: Cool Rpg
-- 2024-04-01 — Arkham — speakers: Keith Herber, Mike Mason, Cool Rpg
-- 2024-03-25 — Caverns of Thracia — speakers: Dark Tower, Cool Rpg
-- 2024-03-18 — Mystic Punks, Part Two — speakers: Benjamin Marra, Cool Rpg
-- 2024-03-11 — Mystic Punks, Part One — speakers: Benjamin Marra, Cool Rpg
-- 2024-03-04 — Jack of Shadows — speakers: Roger Zelazny, Cool Rpg
-- 2024-02-26 — Teenage Odyssey — speakers: Chuck Kranz, Adam Rose, Teenage Odyssey, Marie Enger, Chris McDowall, Cool Rpg
-- 2024-02-19 — The Price of Freedom — speakers: Greg Costikyan, Cool Rpg
-- 2024-02-12 — Swyvers — speakers: Luke Gearing, David Hoskins, Cool Rpg
-- 2024-02-05 — Ninja City: Drug Demon Disco — speakers: Demon Disco, Joey Royale, Cool Rpg
-- 2024-01-29 — The Temple of Apshai Trilogy — speakers: Cool Rpg
-- 2024-01-22 — Teaching Adventure Design — speakers: Mark Sable, Cool Rpg
-- 2024-01-15 — MIG3: The Meints Index to Glorantha — speakers: Rick Meints, Cool Rpg
-- 2024-01-08 — How to Write Adventure Modules that Don't Suck — speakers: Cool Rpg
-- 2024-01-01 — Black Angel (Remastered) — speakers: Roger Christian, Black Angel, Levi Combs, John Carpenter-inspired, Cool Rpg
-- 2023-12-25 — The Official AD&D Coloring Album (Remastered) — speakers: Gary Gygax, Greg Irons, Lawrence White Plume Mountain, Basic Set, Levi Combs, John Carpenter-inspired, Cool Rpg
-- 2023-12-18 — Thieves' World (Remastered) — speakers: Robert Lynn Asprin, Lynn Abbey, Tim Sale, Levi Combs, John Carpenter-inspired, Cool Rpg
-- 2023-12-11 — First Quest: The Music — speakers: David Miller, Cool Rpg
-- 2023-12-04 — The Marvelous Children of Inang-Uri — speakers: Cool Rpg
-- 2023-11-27 — Good Books 2023, Part 2 — speakers: Good Books, Brian Shutter, Minacious Midway, Justin Wigard, Levi Combs, Sally Cantirino, Mike Pike, Project Gutenberg
-- 2023-11-20 — Russ Nicholson Interview (Remastered) — speakers: Russ Nicholson, Albrecht Durer, Toulouse Lautrec, Sax Rohmer, Edgar Wallace, Edgar Rice Burroughs, Jules Verne, Rider Haggard
-- 2023-11-13 — Good Books 2023 — speakers: Adam Rowe, Arik Roper, Spell Bound, Cool Rpg
-- 2023-11-06 — Philadelphia Area Gaming Expo — speakers: Ron Meischker, Cool Rpg
-- 2023-10-30 — The Abyss of Hallucinations — speakers: Ozzy Osbourne, Aleister Crowley, Max Moon, Cool Rpg
-- 2023-10-23 — The Ancestral Trail — speakers: Julek Heller, Cool Rpg
-- 2023-10-16 — Beyond the Supernatural — speakers: Richard Corben, Steve Bissette, Cool Rpg
-- 2023-10-09 — Halls of Horror — speakers: Games Workshop, Cool Rpg
-- 2023-10-02 — Don't Play This Game — speakers: Cool Rpg
-- 2023-09-25 — The Dare — speakers: Cool Rpg
-- 2023-09-18 — Realm of Chaos — speakers: Games Workshop, Cool Rpg
-- 2023-09-11 — Barkeep on the Borderland — speakers: Cool Rpg
-- 2023-09-04 — Bloodsport Gambler — speakers: Bloodsport Gambler, Dillon Morton, Cool Rpg
-- 2023-08-28 — Arkham Investigator's Wallet — speakers: Arkham Investigator, Cool Rpg
-- 2023-08-21 — Swordthrust — speakers: Cool Rpg
-- 2023-08-14 — Tony DiTerlizzi Interview (Remastered) — speakers: Tony DiTerlizzi, Cool Rpg
-- 2023-08-07 — Champions — speakers: Cool Rpg
-- 2023-07-31 — The Monster Overhaul — speakers: Cool Rpg
-- 2023-07-24 — The Armory's 30-Sided Dice Gaming Tables — speakers: Greg Barrett
+- 2026-02-23 — The End Times
+- 2026-02-16 — Delta Green, Among Other Things — speakers: Delta Green, Among Other Things There
+- 2026-02-09 — Dragons & Daggers — speakers: Daggers Stu
+- 2026-02-02 — Sounds from RPGS
+- 2026-01-19 — Talkin' About Stuff
+- 2026-01-12 — Dark Tower — speakers: Dark Tower
+- 2025-12-15 — Roads — speakers: Roads Santa, Santa Claus
+- 2025-12-08 — Monsters — speakers: Monsters Just
+- 2025-11-24 — Mausritter: Tails from the Night Market — speakers: Night Market So
+- 2025-11-17 — The Spark Devil and Other Horrors
+- 2025-11-10 — The Far Side — speakers: Monster Manual
+- 2025-11-03 — Thousand Year Old Campfire — speakers: Thousand Year Old Campfire
+- 2025-10-27 — Murder She Wrote: A Board Game of Strategy and Pursuit — speakers: Jessica Fletcher
+- 2025-10-20 — The Future King — speakers: Bruce Lee
+- 2025-10-13 — The Means of Production — speakers: Brian Colin
+- 2025-10-06 — The Stars are Right!
+- 2025-09-22 — Cults of RuneQuest
+- 2025-09-15 — The S-Series Continues?
+- 2025-09-08 — Space Marine II — speakers: Space Marine
+- 2025-09-01 — Wargames West — speakers: Wargames West
+- 2025-08-25 — Toys, Toys, Toys
+- 2025-08-18 — 49 Pounds of RPG Books
+- 2025-08-11 — GenCon 2025
+- 2025-07-28 — Dragon Kings
+- 2025-07-21 — Drunk Jousting
+- 2025-07-14 — Midnight of the Century
+- 2025-07-07 — Land Of Eem
+- 2025-06-30 — Hambone Goes to the Library
+- 2025-06-23 — 12 Years at Sea — speakers: Max Moon
+- 2025-06-16 — Weird Heroes of Public Access - The Book — speakers: Weird Heroes, Public Access, Station Manager
+- 2025-06-09 — Grenadier Miniature Catalogs — speakers: Grenadier Miniature Catalogs Don
+- 2025-05-26 — Kolchak: The Night Stalker
+- 2025-05-19 — Two Years of West Marches — speakers: Two Years, West Marches Don
+- 2025-05-12 — Just Riffin' — speakers: Just Riffin
+- 2025-05-05 — Fiddler's Green Peculiar Parish Magazine — speakers: Green Peculiar Parish Magazine
+- 2025-04-28 — The Job
+- 2025-04-21 — Delinquent Elementals — speakers: Phil Hine
+- 2025-04-14 — What We're Working On
+- 2025-03-31 — Through the Hedgerow
+- 2025-03-24 — Sickest Witch — speakers: Sickest Witch
+- 2025-03-17 — Liminal Horror Deluxe
+- 2025-03-10 — Super7 D&D Toys — speakers: these years
+- 2025-03-03 — Hobgoblin — speakers: Hobgoblin What
+- 2025-02-24 — A Fantastic Bestiary — speakers: Fantastic Bestiary Oh, Libyan Gorgon
+- 2025-02-17 — When the Sky Comes Looking for You
+- 2025-02-10 — Sqwürmish
+- 2025-02-03 — Glumdark
+- 2025-01-27 — Zarak, Strongheart and Elkhorn Ultimates
+- 2025-01-20 — The Adventurer's Guide to Exercise — speakers: Exercise Gotta
+- 2025-01-13 — Back in the Saddle
+- 2024-12-16 — PAX Unplugged 2024
+- 2024-12-09 — Fabled Lands — speakers: Fabled Lands
+- 2024-12-02 — Top Secret: New World Order — speakers: Top Secret
+- 2024-11-25 — Ballads of Oræd
+- 2024-11-18 — Rick Meints Interview — speakers: Rick Meints
+- 2024-11-04 — INTERMEDIARY MUND — speakers: Benjamin Marra
+- 2024-10-28 — Magic Realms: The Art of Fighting Fantasy — speakers: Magic Realms, Fighting Fantasy
+- 2024-10-21 — The Twenty-Sided Tavern — speakers: Alex Murray
+- 2024-10-14 — Lords of Creation — speakers: John Brown
+- 2024-10-07 — Eat the Reich
+- 2024-09-30 — Weird Heroes of Public Access
+- 2024-09-23 — MasterBook — speakers: West End Games
+- 2024-09-16 — Machine: Impossible — speakers: Jacob Mooney
+- 2024-09-09 — His Majesty the Worm — speakers: Josh McCrowell
+- 2024-09-02 — Deities & Demi-Bros — speakers: Brian Shutter
+- 2024-08-26 — Brindlewood Bay — speakers: Brindlewood Bay
+- 2024-08-19 — GenCon 2024
+- 2024-08-12 — The Court of Ardor — speakers: Southern Middle
+- 2024-08-05 — Casket of Souls
+- 2024-07-29 — Barony
+- 2024-07-20 — The Sorcerers' Enclave
+- 2024-07-15 — Outcast Silver Raiders — speakers: Isaac VanDuyn
+- 2024-07-08 — Grimrock Isle — speakers: Stephen King
+- 2024-07-01 — Earthshaker!
+- 2024-06-24 — The Filming of Conan the Barbarian
+- 2024-06-17 — Void: The Frontier — speakers: Tyler Vance
+- 2024-06-10 — Holomatixx: A New Wave Order — speakers: Megan Dawson Jaffe
+- 2024-06-03 — Gamer's Handbook of the Marvel Universe (Remastered)
+- 2024-05-27 — One Year of West Marches
+- 2024-05-20 — Shadowgate
+- 2024-05-13 — The Black Rainbow Society — speakers: Gavriel Quiroga
+- 2024-05-06 — Bryan Ansell, 1955-2023 — speakers: Bryan Ansell
+- 2024-04-29 — Gameplayers — speakers: Gameplayers Where
+- 2024-04-22 — Star Trek: The Role Playing Game — speakers: Star Trek
+- 2024-04-15 — Get in the Van — speakers: John Patrick Cooper
+- 2024-04-08 — Dragon's Lair — speakers: Lair There
+- 2024-04-01 — Arkham
+- 2024-03-25 — Caverns of Thracia
+- 2024-03-18 — Mystic Punks, Part Two — speakers: Mystic Pun
+- 2024-03-11 — Mystic Punks, Part One — speakers: Mystic Punks, Anthony Meloro
+- 2024-03-04 — Jack of Shadows — speakers: Roger Zelazny
+- 2024-02-26 — Teenage Odyssey — speakers: Chuck Kranz, Adam Rose
+- 2024-02-19 — The Price of Freedom — speakers: Cold War
+- 2024-02-12 — Swyvers — speakers: Luke Gearing, David Hoskins
+- 2024-02-05 — Ninja City: Drug Demon Disco — speakers: Demon Disco, Joey Royale
+- 2024-01-29 — The Temple of Apshai Trilogy
+- 2024-01-22 — Teaching Adventure Design — speakers: Mark Sable
+- 2024-01-15 — MIG3: The Meints Index to Glorantha
+- 2024-01-08 — How to Write Adventure Modules that Don't Suck — speakers: Write Adventure Modules
+- 2024-01-01 — Black Angel (Remastered) — speakers: Black Angel
+- 2023-12-25 — The Official AD&D Coloring Album (Remastered) — speakers: Coloring Album
+- 2023-12-18 — Thieves' World (Remastered)
+- 2023-12-11 — First Quest: The Music — speakers: First Quest
+- 2023-12-04 — The Marvelous Children of Inang-Uri
+- 2023-11-27 — Good Books 2023, Part 2 — speakers: Good Books
+- 2023-11-20 — Russ Nicholson Interview (Remastered) — speakers: Russ Nicholson
+- 2023-11-13 — Good Books 2023 — speakers: Good Books
+- 2023-11-06 — Philadelphia Area Gaming Expo — speakers: Philadelphia Area Gaming Expo
+- 2023-10-30 — The Abyss of Hallucinations — speakers: Ozzy Osbourne, Aleister Crowley
+- 2023-10-23 — The Ancestral Trail
+- 2023-10-16 — Beyond the Supernatural
+- 2023-10-09 — Halls of Horror
+- 2023-10-02 — Don't Play This Game — speakers: Charlie Menzies
+- 2023-09-25 — The Dare
+- 2023-09-18 — Realm of Chaos
+- 2023-09-11 — Barkeep on the Borderland
+- 2023-09-04 — Bloodsport Gambler — speakers: Bloodsport Gambler, Dillon Morton
+- 2023-08-28 — Arkham Investigator's Wallet — speakers: Arkham Investigator
+- 2023-08-21 — Swordthrust — speakers: Swordthrust Climb
+- 2023-08-14 — Tony DiTerlizzi Interview (Remastered) — speakers: Tony DiTerlizzi
+- 2023-08-07 — Champions — speakers: Hero Games
+- 2023-07-31 — The Monster Overhaul
+- 2023-07-24 — The Armory's 30-Sided Dice Gaming Tables
 - 2023-07-17 — The Complete Warlock
-- 2023-07-10 — Dungeons & Dragons ReAction Figures
-- 2023-07-03 — Erol Otus Interview (Remastered) — speakers: Erol Otus
-- 2023-06-26 — The Unknown — speakers: Adam Allsuch Boardman
+- 2023-07-10 — Dungeons & Dragons ReAction Figures — speakers: Figures Toys
+- 2023-07-03 — Erol Otus Interview (Remastered)
+- 2023-06-26 — The Unknown
 - 2023-06-19 — The Dragon #1
-- 2023-06-12 — Orcs — speakers: William Blake, Grant Howitt
+- 2023-06-12 — Orcs — speakers: Orcs Waaagh
 - 2023-06-05 — Reach of the Roach God
 - 2023-05-29 — Cycle of the Werewolf — speakers: Stephen King, Bernie Wrightson
 - 2023-05-22 — Vermis I
-- 2023-05-15 — Expedition to the Barrier Peaks — speakers: Gary Gygax
-- 2023-05-08 — West Marches — speakers: Ben Robbins
-- 2023-05-01 — Empire of the East — speakers: Fred Saberhagen, Changeling Earth
-- 2023-04-24 — Amazing Tales
-- 2023-04-17 — Portents of the Degloved Hand — speakers: Matt Johnson, Noble Knight
-- 2023-04-10 — Dungeons & Dragons: Honor Among Thieves — speakers: Noble Knight
-- 2023-04-03 — The Highest Level of All — speakers: Michael Monaco, Fantasy Wargaming, Bruce Galloway, Noble Knight
-- 2023-03-27 — BattleCards — speakers: Steve Jackson, Dean Browell, Noble Knight
-- 2023-03-20 — A Time to Harvest — speakers: Noble Knight
-- 2023-03-13 — The Maze of Peril — speakers: John Eric Holmes, Noble Knight
-- 2023-03-06 — James Wallis Interview — speakers: James Wallis, Ludonarrative Dissidents, Greg Stolze, Ross Payton
-- 2023-02-27 — The Unspeakable Oath — speakers: Arc Dream
-- 2023-02-20 — Zine Month Round Table — speakers: Tony Vasinda, Adam Vass, Noble Knight, Stu Horvath, John McGuire, George Collazo, Shafer Brown
-- 2023-02-13 — Dungeons & Dragons Toys in 2023
-- 2023-02-06 — Liminal Horror — speakers: Liminal Horror Dying, Liminial Horror, Goblin Archives
-- 2023-01-30 — Cairn
-- 2023-01-23 — Into the Odd — speakers: Chris McDowall
-- 2023-01-16 — Fantasy Gamer's Compendium — speakers: Fantasy Gamer, kinda sorta
+- 2023-05-15 — Expedition to the Barrier Peaks
+- 2023-05-08 — West Marches — speakers: West Marches
+- 2023-05-01 — Empire of the East — speakers: Fred Saberhagen
+- 2023-04-24 — Amazing Tales — speakers: Amazing Tales
+- 2023-04-17 — Portents of the Degloved Hand — speakers: Matt Johnson
+- 2023-04-10 — Dungeons & Dragons: Honor Among Thieves
+- 2023-04-03 — The Highest Level of All — speakers: Michael Monaco
+- 2023-03-27 — BattleCards — speakers: Merlin Publishing
+- 2023-03-20 — A Time to Harvest
+- 2023-03-13 — The Maze of Peril
+- 2023-03-06 — James Wallis Interview — speakers: James Wallis
+- 2023-02-27 — The Unspeakable Oath
+- 2023-02-20 — Zine Month Round Table
+- 2023-02-13 — Dungeons & Dragons Toys in 2023 — speakers: Dragons Toys
+- 2023-02-06 — Liminal Horror — speakers: Liminal Horror Dying
+- 2023-01-30 — Cairn — speakers: Cairn Here
+- 2023-01-23 — Into the Odd
+- 2023-01-16 — Fantasy Gamer's Compendium — speakers: Fantasy Gamer
 - 2023-01-09 — Dungeons & Dragons Third Edition
 - 2023-01-02 — The Rust Monster (Remastered)
-- 2022-12-26 — Sears Wish Books, 1982-84 (Remastered)
+- 2022-12-26 — Sears Wish Books, 1982-84 (Remastered) — speakers: Sears Wish Books
 - 2022-12-19 — Dragonroar — speakers: Dragonroar War
-- 2022-12-12 — Advanced Fantasy Fighting — speakers: Fighting Fantasy, John Sibbick, Russ Nicholson
-- 2022-12-05 — Down in the Dungeon — speakers: Don Greer
-- 2022-11-28 — Cadabra Records — speakers: Cadabra Records Horror, Cadabra Records
-- 2022-11-21 — Heresy of Rot — speakers: Levi Combs, Matheus Graef, Buy Lodestar
-- 2022-11-14 — Heirs to Heresy — speakers: Allan Bahr
-- 2022-11-07 — Call of Cthulhu 40th Anniversary — speakers: Keeper Tips
-- 2022-10-31 — I6: Ravenloft (Remastered) — speakers: Flash Point, Bram Stoker
+- 2022-12-12 — Advanced Fantasy Fighting — speakers: Advanced Fantasy Fighting Fighting, Advanced Fight
+- 2022-12-05 — Down in the Dungeon
+- 2022-11-28 — Cadabra Records — speakers: Cadabra Records Horror
+- 2022-11-21 — Heresy of Rot
+- 2022-11-14 — Heirs to Heresy
+- 2022-11-07 — Call of Cthulhu 40th Anniversary
+- 2022-10-31 — I6: Ravenloft (Remastered)
 - 2022-10-24 — The Enchanted World
 - 2022-10-17 — Colonial Marines
-- 2022-10-10 — Monty Python's Cocurricular Mediaeval Reenactment Programme — speakers: Brian Saliba, Craig Schaffer
-- 2022-10-03 — WHPA-13: Weird Heroes of Public Access — speakers: Weird Heroes, Public Access Hambone, Public Access, Get Haunted Industries
+- 2022-10-10 — Monty Python's Cocurricular Mediaeval Reenactment Programme — speakers: Monty Python, Cocurricular Mediaeval Reenactment Programme
+- 2022-10-03 — WHPA-13: Weird Heroes of Public Access — speakers: Weird Heroes, Public Access Hambone
 - 2022-09-26 — DNGN
-- 2022-09-19 — The Enemy Within — speakers: Enemy Within, Warhammer Fantasy Roleplay
-- 2022-09-12 — Battlesystem — speakers: Jeff Easley
+- 2022-09-19 — The Enemy Within — speakers: Enemy Wi
+- 2022-09-12 — Battlesystem — speakers: Battlesystem Chaaaaaaaaaaaaaaarge
 - 2022-09-05 — The Mimic
 - 2022-08-29 — The Lost Wave — speakers: Lost Wave
 - 2022-08-22 — Painting Miniatures — speakers: Painting Miniatures
-- 2022-08-15 — The Atlantis Bestiary — speakers: Bill Sienkiewicz
+- 2022-08-15 — The Atlantis Bestiary — speakers: Bard Games
 - 2022-08-08 — Let Us In — speakers: Luka Rejec
 - 2022-08-01 — Maze — speakers: Christopher Manson
-- 2022-07-25 — Dungeon! — speakers: Dave Megarry
-- 2022-07-18 — Cults of Cthulhu — speakers: Great Old One
+- 2022-07-25 — Dungeon!
+- 2022-07-18 — Cults of Cthulhu
 - 2022-07-11 — Gamer's Handbook of the Marvel Universe
-- 2022-07-04 — Of Shadows — speakers: Sara Hannant
+- 2022-07-04 — Of Shadows
 - 2022-06-27 — Monstrous Arcana — speakers: Monstrous Arcana
-- 2022-06-20 — Monsters n' Dragons
+- 2022-06-20 — Monsters n' Dragons — speakers: Dragons Another
 - 2022-06-13 — Dune — speakers: Dune Desert
-- 2022-06-06 — Reverse Dungeon — speakers: Reverse Dungeon, Dungeon Keeper
+- 2022-06-06 — Reverse Dungeon — speakers: Reverse Dungeon
 - 2022-05-30 — Dead Mall — speakers: Dead Mall
-- 2022-05-23 — Central Casting — speakers: Central Casting If, Jennell Jaquays, Central Casting
+- 2022-05-23 — Central Casting — speakers: Central Casting If
 - 2022-05-16 — Borderlands
 - 2022-05-09 — Dread — speakers: Dread Aaaand
 - 2022-05-02 — Players Handbook Rerun — speakers: Handbook Rerun
 - 2022-04-25 — The Fantasy Trip
-- 2022-04-18 — Dragonriders of the Styx
-- 2022-04-11 — Return to Dark Tower — speakers: Dark Tower, Milton Bradley
+- 2022-04-18 — Dragonriders of the Styx — speakers: Styx Strap
+- 2022-04-11 — Return to Dark Tower — speakers: Dark Tower
 - 2022-04-04 — Invisibility
 - 2022-03-28 — Troika
-- 2022-03-21 — Sailors on the Starless Sea — speakers: Dungeon Crawl Classics, Starless Sea
+- 2022-03-21 — Sailors on the Starless Sea
 - 2022-03-14 — Glorantha
-- 2022-03-07 — King Kong
-- 2022-02-28 — Travellers — speakers: Levi Combs
-- 2022-02-21 — The Awards — speakers: Joe DeSimone
-- 2022-02-14 — RuneQuest — speakers: White Bear, Red Moon
-- 2022-02-07 — Oracles and Stone Giants — speakers: Tim Hutchings
+- 2022-03-07 — King Kong — speakers: King Kong Scream, Fae Wray, Skull Island
+- 2022-02-28 — Travellers
+- 2022-02-21 — The Awards
+- 2022-02-14 — RuneQuest
+- 2022-02-07 — Oracles and Stone Giants — speakers: Stone Giants Ever
 - 2022-01-31 — Zine Month — speakers: Charlie Ferguson Avery, Alex Coggon
-- 2022-01-24 — Neuromancer — speakers: William Gibson
-- 2022-01-17 — Dungeon Crawl Classics — speakers: Dungeon Crawl Classics
-- 2022-01-10 — Warlock! — speakers: Fantasy Roleplay
-- 2022-01-03 — The Broken Sword — speakers: Poul Anderson
-- 2021-12-27 — Monstrous Compendium — speakers: Monstrous Compendium, Advanced Dungeons
+- 2022-01-24 — Neuromancer
+- 2022-01-17 — Dungeon Crawl Classics — speakers: Dungeon Crawl Classic
+- 2022-01-10 — Warlock!
+- 2022-01-03 — The Broken Sword
+- 2021-12-27 — Monstrous Compendium
 - 2021-12-20 — Campaign Sourcebook and Catacomb Guide — speakers: Catacomb Guide
 - 2021-12-13 — Alien Post-Mortem
 - 2021-12-06 — Holiday Gift Guide (sorta) — speakers: Gift Guide
-- 2021-11-29 — Escape the Dark Castle — speakers: Fighting Fantasy, Henry Taylor, Caer Mundus
-- 2021-11-22 — Fighting Fantasy — speakers: Fighting Fantasy, Ian Livingstone, Steve Jackson, Ryan Verniere
-- 2021-11-15 — Bullwinkle and Rocky Role-Playing Party Game — speakers: Rocky Role-Playing Party
-- 2021-11-08 — Treasure Hunt — speakers: Tristan Zimmerman, Shanty Hunters, Molten Sulphur
+- 2021-11-29 — Escape the Dark Castle — speakers: Fighting Fantasy
+- 2021-11-22 — Fighting Fantasy
+- 2021-11-15 — Bullwinkle and Rocky Role-Playing Party Game — speakers: Rocky Role-Playing Party, Rocky Role-Playing Par
+- 2021-11-08 — Treasure Hunt — speakers: Treasure Hunt Ships
 - 2021-11-01 — Point Nemo — speakers: Point Nemo
-- 2021-10-25 — Babes in the Wood — speakers: Mark Sable
-- 2021-10-18 — Impossible Landscapes — speakers: Impossible Landscapes, Sadia Bies, Banana Chan
-- 2021-10-11 — Kult — speakers: Terry Amthor
-- 2021-10-04 — Amanda Lee Franck Interview — speakers: Lee Franck, Amanda Lee, Mouth Brood
-- 2021-09-27 — The Dungeon Alphabet — speakers: random tables, amazing art
+- 2021-10-25 — Babes in the Wood
+- 2021-10-18 — Impossible Landscapes — speakers: Yellow Sign
+- 2021-10-11 — Kult
+- 2021-10-04 — Amanda Lee Franck Interview — speakers: Lee Franck, Amanda Lee
+- 2021-09-27 — The Dungeon Alphabet — speakers: Goodman Games
 - 2021-09-20 — Alien
-- 2021-09-13 — Black Magic — speakers: Black Magic, Ars Goetia
-- 2021-09-06 — Horror on the Orient Express Post-Mortem — speakers: Tony Vasinda
-- 2021-08-30 — Thousand Year Old Vampire — speakers: Drew Cochran
+- 2021-09-13 — Black Magic — speakers: Black Magic
+- 2021-09-06 — Horror on the Orient Express Post-Mortem
+- 2021-08-30 — Thousand Year Old Vampire — speakers: Thousand Year Old Vampire
 - 2021-08-23 — Erol Otus Interview — speakers: Erol Otus
 - 2021-08-16 — Cities — speakers: Talking Heads
 - 2021-08-09 — Shadows of Yog-Sothoth
 - 2021-08-02 — Deities & Demigods — speakers: Demigods What, Did Chaosium
 - 2021-07-26 — All the Worlds' Monsters
-- 2021-07-19 — Delta Green (2016) — speakers: Arc Dream
+- 2021-07-19 — Delta Green (2016) — speakers: Delta Green, Pagan Publishing Delta Green
 - 2021-07-12 — Encyclopedia Magica
 - 2021-07-05 — Stu Wrote a Book — speakers: Stu Wrote
-- 2021-06-28 — The Throne of Bloodstone — speakers: Jonathan Sacha
-- 2021-06-21 — Andrew Walter Interview — speakers: Andrew Walter, Russ Nicholson
-- 2021-06-14 — ARC — speakers: Rpg Arc
-- 2021-06-07 — OSRIC — speakers: Gary Gygax, Mac Golden, Davis Chenault
-- 2021-05-31 — Campfire — speakers: Adam Vass, Will Jobst, Trevor Henderson
-- 2021-05-24 — The Extraordinary Adventures of Baron Munchausen — speakers: Jungle Tomb
-- 2021-05-17 — Delta Green (1997)
+- 2021-06-28 — The Throne of Bloodstone
+- 2021-06-21 — Andrew Walter Interview — speakers: Andrew Walter
+- 2021-06-14 — ARC — speakers: Momatoes abo
+- 2021-06-07 — OSRIC — speakers: Old Scho
+- 2021-05-31 — Campfire
+- 2021-05-24 — The Extraordinary Adventures of Baron Munchausen — speakers: Baron Munchausen When
+- 2021-05-17 — Delta Green (1997) — speakers: Delta Green
 - 2021-05-10 — Book of Vile Darkness — speakers: Vile Darkness
 - 2021-05-03 — Nick Tofani and Gradient Descent — speakers: Nick Tofani
-- 2021-04-26 — Timeship — speakers: Yaquinto Publications
-- 2021-04-19 — Nightlife — speakers: Beating White Wolf
+- 2021-04-26 — Timeship
+- 2021-04-19 — Nightlife
 - 2021-04-12 — David Hoskins Interview — speakers: David Hoskins
-- 2021-04-05 — What's in the Warehouse? — speakers: Andrew Branstad
+- 2021-04-05 — What's in the Warehouse?
 - 2021-03-29 — Black Angel — speakers: Roger Christian, Black Angel
-- 2021-03-22 — Fiend Folio — speakers: Russ Nicholson
+- 2021-03-22 — Fiend Folio — speakers: Fiend Folio
 - 2021-03-15 — Traveller
-- 2021-03-08 — Dark Tower — speakers: Dark Tower, Amanda Lee Franck, Vampire Cruise
-- 2021-03-01 — Goblinville and Rebel Crown — speakers: Rebel Crown, Michael Dunn-O'Connor, Eric Swanson
+- 2021-03-08 — Dark Tower — speakers: Dark Tower
+- 2021-03-01 — Goblinville and Rebel Crown — speakers: Rebel Crown
 - 2021-02-22 — Appendix N — speakers: Peter Bebergal
-- 2021-02-15 — Dallas: The Television Role-Playing Game — speakers: Playing Game
-- 2021-02-08 — Alice is Missing — speakers: Lucian Kahn, Mall Goths
+- 2021-02-15 — Dallas: The Television Role-Playing Game
+- 2021-02-08 — Alice is Missing
 - 2021-02-01 — Exalted Funeral Interview — speakers: Matt Kelley
 - 2021-01-25 — Cyberpunk
-- 2021-01-18 — Gamma World — speakers: Metamorphosis Alpha
-- 2021-01-11 — Metamorphosis Alpha — speakers: Metamorphosis Alpha, Stu Horvath, John McGuire, George Collazo, Shafer Brown
-- 2021-01-04 — Joe DeSimone Interview — speakers: Joe DeSimone, Townes Van Zandt
-- 2020-12-28 — Mörk Borg — speakers: Mörk Borg, Bolt Thrower
-- 2020-12-21 — A Visitor's Guide to the Rainy City — speakers: Rich Forest, Bill Spytma
-- 2020-12-14 — Hârn — speakers: Crossby's Hârn
+- 2021-01-18 — Gamma World
+- 2021-01-11 — Metamorphosis Alpha — speakers: Metamorphosis Alpha
+- 2021-01-04 — Joe DeSimone Interview — speakers: Joe DeSimone
+- 2020-12-28 — Mörk Borg — speakers: Mörk Borg
+- 2020-12-21 — A Visitor's Guide to the Rainy City — speakers: Rainy City
+- 2020-12-14 — Hârn
 - 2020-12-07 — Palace of the Vampire Queen
-- 2020-11-30 — Chivalry & Sorcery — speakers: Ed Simbalist, Wilf Backhaus
-- 2020-11-23 — Holiday Gift Guide 2020 — speakers: Gift Guide, Matt Kelley, Jess Carrier
+- 2020-11-30 — Chivalry & Sorcery
+- 2020-11-23 — Holiday Gift Guide 2020 — speakers: Gift Guide
 - 2020-11-16 — Warhammer Fantasy Roleplay — speakers: Fantasy Roleplay
 - 2020-11-09 — Miskatonic — speakers: Mark Sable
 - 2020-11-02 — Xenolanguage
-- 2020-10-26 — Ravenloft Campaign Setting — speakers: Stephen Fabian
+- 2020-10-26 — Ravenloft Campaign Setting
 - 2020-10-19 — Vampire: The Masquerade
-- 2020-10-12 — Thieves' World — speakers: Robert Lynn Asprin, Lynn Abbey, Tim Sale
+- 2020-10-12 — Thieves' World — speakers: Robert Lynn Asprin
 - 2020-10-05 — World Action & Adventure
 - 2020-09-28 — Beasts & Behemoths and More! — speakers: Jim Zub
-- 2020-09-21 — Lankhmar: City of Adventure — speakers: Gray Mouser, Otto Fischer
-- 2020-09-14 — Stormbringer — speakers: Ken St Andre, Michael Moorcock
-- 2020-09-07 — Tales From The Loop — speakers: Simon Stålenhag, Fria Ligan
+- 2020-09-21 — Lankhmar: City of Adventure
+- 2020-09-14 — Stormbringer — speakers: Stormbringer Steal
+- 2020-09-07 — Tales From The Loop
 - 2020-08-31 — The Green Knight
-- 2020-08-24 — Rifts — speakers: Stu Horvath, John McGuire, George Collazo, Shafer Brown
+- 2020-08-24 — Rifts
 - 2020-08-17 — Three Hearts and Three Lions — speakers: Poul Anderson
 - 2020-08-10 — Arduin Grimoire — speakers: Arduin Grimoire, David Hargrave
-- 2020-08-03 — The Schwarzenegger Conan Movies — speakers: Arnold Schwarzenegger Conan, King Conan
-- 2020-07-27 — White Plume Mountain — speakers: Lawrence Schick
-- 2020-07-20 — Orcus — speakers: Monte Cook, John Martin
+- 2020-08-03 — The Schwarzenegger Conan Movies — speakers: Arnold Schwarzenegger Conan
+- 2020-07-27 — White Plume Mountain
+- 2020-07-20 — Orcus
 - 2020-07-13 — Jiangshi: Blood in the Banquet Hall — speakers: Banana Chan
-- 2020-07-06 — Tunnels & Trolls — speakers: Ken St Andre, Lone Wolf
-- 2020-06-29 — HeartQuest — speakers: women readers
-- 2020-06-22 — Mazes and Monsters — speakers: James Dallas Egbert Iii, Tom Hanks
+- 2020-07-06 — Tunnels & Trolls
+- 2020-06-29 — HeartQuest
+- 2020-06-22 — Mazes and Monsters
 - 2020-06-15 — Petty Gods — speakers: Petty Gods Not, Petty Gods
 - 2020-06-08 — Back to the Future: Dice Through Time — speakers: Chris Leder
-- 2020-06-01 — Shadowrun
-- 2020-05-25 — Greyhawk — speakers: Gary Gygax
-- 2020-05-18 — Killer — speakers: Iron Maiden, Rpg Assassin
-- 2020-05-11 — Lord of the Rings Adventure Game — speakers: Angus McBride
+- 2020-06-01 — Shadowrun — speakers: Shadowrun Polish
+- 2020-05-25 — Greyhawk
+- 2020-05-18 — Killer — speakers: Iron Maiden
+- 2020-05-11 — Lord of the Rings Adventure Game — speakers: Rings Adventure Game Remember, Rings Adventure Game, Iron Crown Enterprises
 - 2020-05-04 — Lightsaber Dueling Pack
 - 2020-04-27 — Time Enough At Last
-- 2020-04-20 — The Official Advanced Dungeons & Dragons Coloring Album — speakers: Gary Gygax, Greg Irons
+- 2020-04-20 — The Official Advanced Dungeons & Dragons Coloring Album — speakers: Advanced Dungeons, Dragons Coloring
 - 2020-04-13 — Gavin Norman Interview — speakers: Gavin Norman
-- 2020-04-06 — HeroQuest — speakers: Milton Bradley, Games Workshop
-- 2020-03-30 — Star Frontiers — speakers: Bill Slavicsek
-- 2020-03-23 — The Shadow People — speakers: Gary Gygax
+- 2020-04-06 — HeroQuest — speakers: Milton Bradley, Games Worksho
+- 2020-03-30 — Star Frontiers
+- 2020-03-23 — The Shadow People
 - 2020-03-16 — Bunnies & Burrows
 - 2020-03-09 — Wizards & Spells — speakers: Jim Zub
-- 2020-03-02 — Horror on the Orient Express — speakers: Hercule Poirot
+- 2020-03-02 — Horror on the Orient Express
 - 2020-02-24 — The Isle of Dread
-- 2020-02-17 — Fantasy Wargaming — speakers: Fantasy Wargaming, Bruce Galloway, Leigh Cliffs
+- 2020-02-17 — Fantasy Wargaming — speakers: Fantasy Wargaming, Bruce Galloway
 - 2020-02-10 — Old-School Essentials — speakers: Gavin Norman
-- 2020-02-03 — Fungi of the Far Realms — speakers: Alex Clements, Shuyi Zhang
-- 2020-01-27 — Cobwebs — speakers: Rpg Cobwebs, Adam Vass, Sally Cantirino
-- 2020-01-20 — The Keep on the Borderlands — speakers: Bill Willingham
+- 2020-02-03 — Fungi of the Far Realms
+- 2020-01-27 — Cobwebs
+- 2020-01-20 — The Keep on the Borderlands
 - 2020-01-13 — Dungeons
-- 2020-01-06 — Russ Nicholson Interview — speakers: Russ Nicholson, Albrecht Durer, Toulouse Lautrec, Sax Rohmer, Edgar Wallace, Edgar Rice Burroughs, Jules Verne, Rider Haggard
-- 2019-12-30 — D&D Monster Cards
+- 2020-01-06 — Russ Nicholson Interview — speakers: Russ Nicholson
+- 2019-12-30 — D&D Monster Cards — speakers: Monster Cards, Advanced Dungeons, Dragons Monster Cards
 - 2019-12-23 — Players Handbook
-- 2019-12-16 — Monster Manual — speakers: Dave Sutherland, Dave Trampier
-- 2019-12-09 — Star Wars Galaxy Guides — speakers: Wars Expanded Universe
-- 2019-12-02 — Dungeons & Drawings — speakers: Joe Sparrow, Daniel Cohen, Mike Mignola, Felix Guirand
-- 2019-11-25 — Holiday Gift Guide 2019 — speakers: Gift Guide, Invisible Sun
-- 2019-11-19 — Jim Zub, Part 2: Dungeons & Dragons vs Rick and Morty — speakers: Jim Zub, Rick Sanchez
+- 2019-12-16 — Monster Manual — speakers: Monster Manual
+- 2019-12-09 — Star Wars Galaxy Guides
+- 2019-12-02 — Dungeons & Drawings — speakers: Blanca Martinez
+- 2019-11-25 — Holiday Gift Guide 2019 — speakers: Gift Guide
+- 2019-11-19 — Jim Zub, Part 2: Dungeons & Dragons vs Rick and Morty — speakers: Jim Zub
 - 2019-11-18 — The Rust Monster
-- 2019-11-11 — Jim Zub on the Young Adventurer's Guides — speakers: Jim Zub, Young Adventurer
-- 2019-10-28 — The Satanic Panic — speakers: Jack Chick, Rob Halford, Michael Stackpole
+- 2019-11-11 — Jim Zub on the Young Adventurer's Guides — speakers: Jim Zub
+- 2019-10-28 — The Satanic Panic
 - 2019-10-14 — Pacesetter's Chill and an interview with Nathan D. Paoletta
 - 2019-09-30 — Ultraviolet Grasslands and Luka Rejec — speakers: Luka Rejec
-- 2019-09-02 — Endless Quest
-- 2019-08-19 — Dragonlance — speakers: Tracy Hickman, Margaret Weiss, Craig Bergman
-- 2019-08-05 — LJN Dungeons & Dragons Toys — speakers: Timothy Truman, Steve Bisette, John Totleben, Young Adventurer
-- 2019-07-22 — Forgotten Realms — speakers: Forgotten Realms, Ed Greenwood
-- 2019-07-08 — Paper Anniversary/Planet X Games — speakers: Jungle Tomb
+- 2019-09-02 — Endless Quest — speakers: Endless Quest
+- 2019-08-19 — Dragonlance
+- 2019-08-05 — LJN Dungeons & Dragons Toys
+- 2019-07-22 — Forgotten Realms
+- 2019-07-08 — Paper Anniversary/Planet X Games — speakers: Paper Anniversary
 - 2019-06-24 — Tony DiTerlizzi Interview — speakers: Tony DiTerlizzi
-- 2019-06-10 — Dungeons & Dragons 1.5 Edition — speakers: Fantasy Flight, Survival Guide
-- 2019-05-27 — Lovecraft Country/Ghosts of Saltmarsh — speakers: Keith Herber, Sinister Secret, Salt Marsh
-- 2019-05-13 — Dungeon Masters Guide/MIichael O'Brien Interview — speakers: Gary Gygax, Michael O'Brien
-- 2019-04-29 — Skyrealms of Jorune — speakers: Andrew Leker, Miles Teves
-- 2019-04-15 — GURPS — speakers: Steve Jackson Games, Arthur Pendragon
-- 2019-04-01 — Red Box — speakers: Red Box, Stu Horvath, John McGuire, George Collazo, Shafer Brown
-- 2019-03-18 — James Lowder, Cthulhu Starter & Dagon, Oh My! — speakers: James Lowder, Stu Horvath, John McGuire, George Collazo, Shafer Brown
+- 2019-06-10 — Dungeons & Dragons 1.5 Edition
+- 2019-05-27 — Lovecraft Country/Ghosts of Saltmarsh — speakers: Keith Herber
+- 2019-05-13 — Dungeon Masters Guide/MIichael O'Brien Interview
+- 2019-04-29 — Skyrealms of Jorune
+- 2019-04-15 — GURPS
+- 2019-04-01 — Red Box — speakers: Red Box
+- 2019-03-18 — James Lowder, Cthulhu Starter & Dagon, Oh My! — speakers: James Lowder
 - 2019-03-04 — Spelljammer
-- 2019-02-18 — Masks of Nyarlathotep (Again) — speakers: Steve Jackson Games, Kevin Eastman, Ryan Verniere, Carmen Acosta
-- 2019-02-04 — Mouse Guard — speakers: Mouse Guard, Sara Clemens, David Petersen
+- 2019-02-18 — Masks of Nyarlathotep (Again) — speakers: Steve Jackson Games
+- 2019-02-04 — Mouse Guard — speakers: Mouse Guard
 - 2019-01-21 — Greg Stafford Remembered — speakers: Greg Stafford Remembered, Greg Stafford
-- 2019-01-07 — Marvel Super Heroes RPG
-- 2018-12-24 — Sears Wish Books, 1982-1984 — speakers: Sears Wish Books, Sears Wish Book
-- 2018-12-10 — Dragon Magazine — speakers: Reiner Knizia, Rpg hobby, Tim Kask, Forgotten Realms, kinda sorta
+- 2019-01-07 — Marvel Super Heroes RPG — speakers: Marvel Super Heroes
+- 2018-12-24 — Sears Wish Books, 1982-1984 — speakers: Sears Wish Books
+- 2018-12-10 — Dragon Magazine
 - 2018-11-26 — 2018 Holiday Gift Guide — speakers: Gift Guide
-- 2018-11-12 — Middle Earth Role Playing — speakers: Ben Robbins Follow
-- 2018-10-29 — Ravenloft — speakers: Flash Point, Bram Stoker
-- 2018-10-15 — Teenage Mutant Ninja Turtles and Other Strangeness — speakers: Bantam Books
-- 2018-10-01 — Planescape — speakers: Jeff Grubb, Tony DiTerlizzi, Grant Howitt, Dead Gods
-- 2018-09-17 — Masks of Nyarlathotep — speakers: Jackson Elias, Grant Howitt, Christopher Taylor
-- 2018-09-03 — West End Games Star Wars — speakers: Timothy Zahn, Thrawn Trilogy, Galaxy Guides
-- 2018-08-20 — Dark Sun — speakers: Dark Sun, Stu Horvath, John McGuire, Greg Costikyan, Timothy Zahn, Wilford Brimley, Keanu Reeves
-- 2018-08-06 — West End Games' Ghostbusters RPG — speakers: Stu Horvath, John McGuire, Greg Costikyan, Timothy Zahn, Wilford Brimley, Keanu Reeves
-- 2018-07-23 — Chaosium's Call of Cthulhu — speakers: Stu Horvath, John McGuire, Gene Day, Simon Stålenhag
-- 2018-07-08 — Pilot: Monster Manual II — speakers: Stu Horvath, John McGuire, Russ Nicholson
+- 2018-11-12 — Middle Earth Role Playing
+- 2018-10-29 — Ravenloft
+- 2018-10-15 — Teenage Mutant Ninja Turtles and Other Strangeness
+- 2018-10-01 — Planescape
+- 2018-09-17 — Masks of Nyarlathotep — speakers: Nyarlathotep Tongues
+- 2018-09-03 — West End Games Star Wars
+- 2018-08-20 — Dark Sun — speakers: Dark Sun, Stu Horvath, John McGuire
+- 2018-08-06 — West End Games' Ghostbusters RPG — speakers: Stu Horvath, John McGuire
+- 2018-07-23 — Chaosium's Call of Cthulhu — speakers: Stu Horvath, John McGuire
+- 2018-07-08 — Pilot: Monster Manual II — speakers: Stu Horvath, John McGuire
