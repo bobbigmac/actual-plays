@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-02-23T07:33:38+00:00`
-- checked_at: `2026-02-23T07:33:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 05:05:00 GMT`
+- fetched_at: `2026-03-02T07:17:37+00:00`
+- checked_at: `2026-03-02T07:17:37+00:00`
+- last_modified: `Mon, 02 Mar 2026 05:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-02-23T07:33:38+00:00",
+  "fetched_at": "2026-03-02T07:17:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "2ba79e3599681363be1db8c69774f2008ac49c4b",
+      "title": "Guilt of the Grave World | 003: Reign of Firestorm",
+      "published_at": "2026-03-02T05:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-003-reign-of-firestorm/",
+      "description": "It’s time to take out the trash, while the pirates of the bridge spring their trap our fearless crew does its best to retake the bridge. Can the heroes overcome this ambush or will Captain Firestorm throw them out an airlock? Listen to this week’s exciting adventure to find out!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3784/guilt-of-the-grave-world-003-reign-of-firestorm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65204876",
+      "itunes_duration": "0:00",
+      "speakers": [
+        "Grave World"
+      ],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "reign",
+        "firestorm"
+      ]
+    },
     {
       "key": "0c172df86bd916091750ba704ab989b199df5f6a",
       "title": "Guilt of the Grave World | 002: Pressgang Your Luck",
@@ -101,7 +123,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "48058987",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Grave World",
+        "Rebecca Balances",
+        "Scales Rebecca"
+      ],
       "topics": [
         "guilt",
         "grave",
@@ -294,7 +320,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50624332",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Birthday",
+        "Nearly Got Reincarnated"
+      ],
       "topics": [
         "birthday",
         "time",
@@ -469,7 +498,7 @@
       "enclosure_length": "110908631",
       "itunes_duration": "0:00",
       "speakers": [
-        "Characters Patrick"
+        "Free League Publishing"
       ],
       "topics": [
         "ttrpg"
@@ -547,7 +576,8 @@
       "enclosure_length": "31013640",
       "itunes_duration": "0:00",
       "speakers": [
-        "Rami’s aid"
+        "Cosmic Crit",
+        "New Golarion"
       ],
       "topics": [
         "season",
@@ -566,7 +596,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121632041",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Space Dragon Locked"
+      ],
       "topics": [
         "space",
         "dragon"
@@ -583,7 +615,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97161006",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Space Battleship Peridot Drawn"
+      ],
       "topics": [
         "space",
         "battleship",
@@ -640,7 +674,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85077826",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Space Foam Alone Amid"
+      ],
       "topics": [
         "space",
         "foam"
@@ -658,7 +694,7 @@
       "enclosure_length": "54356504",
       "itunes_duration": "0:00",
       "speakers": [
-        "no crew"
+        "Buffalo Foam Leaving New"
       ],
       "topics": [
         "buffalo",
@@ -777,9 +813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125137614",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Fated Harvest"
-      ],
+      "speakers": [],
       "topics": [
         "starship"
       ]
@@ -796,7 +830,7 @@
       "enclosure_length": "78101291",
       "itunes_duration": "0:00",
       "speakers": [
-        "new tactics"
+        "Crit Crew"
       ],
       "topics": [
         "starfinder",
@@ -818,8 +852,7 @@
       "enclosure_length": "64621699",
       "itunes_duration": "0:00",
       "speakers": [
-        "unexpected twists",
-        "new mechanics"
+        "Game Master"
       ],
       "topics": [
         "starfinder",
@@ -877,7 +910,8 @@
       "enclosure_length": "108165269",
       "itunes_duration": "0:00",
       "speakers": [
-        "alliances shifting"
+        "Assassination Meeting Room Tensions",
+        "Third Blade"
       ],
       "topics": [
         "assassination",
@@ -898,8 +932,7 @@
       "itunes_duration": "0:00",
       "speakers": [
         "Wasp After",
-        "New Golarion",
-        "Third Blade"
+        "New Golarion"
       ],
       "topics": [
         "antlered",
@@ -952,8 +985,7 @@
       "enclosure_length": "96519266",
       "itunes_duration": "0:00",
       "speakers": [
-        "Hawk Down",
-        "Necropositrine Ray"
+        "Hawk Down"
       ],
       "topics": [
         "shuttle",
@@ -971,7 +1003,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102184408",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Golarion Fresh"
+      ],
       "topics": [
         "happiest",
         "place",
@@ -1027,8 +1061,7 @@
       "enclosure_length": "112853638",
       "itunes_duration": "0:00",
       "speakers": [
-        "Necropositrine Ray",
-        "Xantos Loachwurt"
+        "Necropositrine Ray"
       ],
       "topics": [
         "lobby",
@@ -1046,7 +1079,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110790537",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Celestine Hunger Force Praedir"
+      ],
       "topics": [
         "celestine",
         "hunger",
@@ -1149,7 +1184,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83326209",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Punishment Horizons"
+      ],
       "topics": [
         "grime",
         "punishment"
@@ -1167,7 +1204,7 @@
       "enclosure_length": "63169069",
       "itunes_duration": "0:00",
       "speakers": [
-        "John Harper"
+        "John Har"
       ],
       "topics": [
         "critmas",
@@ -1244,9 +1281,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92316557",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Midnight Squad"
-      ],
+      "speakers": [],
       "topics": [
         "fraggle",
         "rocket"
@@ -1263,9 +1298,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93467530",
       "itunes_duration": "0:00",
-      "speakers": [
-        "goo-covered battery"
-      ],
+      "speakers": [],
       "topics": [
         "thresher",
         "lord"
@@ -1316,7 +1349,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140245487",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "terrifying Sw"
+      ],
       "topics": [
         "starship",
         "blooper"
@@ -1448,8 +1483,7 @@
       "enclosure_length": "70013661",
       "itunes_duration": "0:00",
       "speakers": [
-        "Cosmic Crit",
-        "Glass Planet"
+        "Cosmic Crit"
       ],
       "topics": [
         "starfinder",
@@ -1471,8 +1505,7 @@
       "enclosure_length": "55671926",
       "itunes_duration": "0:00",
       "speakers": [
-        "Cosmic Crit",
-        "Glass Planet"
+        "Cosmic Crit"
       ],
       "topics": [
         "starfinder",
@@ -1494,8 +1527,7 @@
       "enclosure_length": "65561716",
       "itunes_duration": "0:00",
       "speakers": [
-        "Cosmic Crit",
-        "Glass Planet"
+        "Cosmic Crit"
       ],
       "topics": [
         "starfinder",
@@ -1517,8 +1549,7 @@
       "enclosure_length": "4178800",
       "itunes_duration": "0:00",
       "speakers": [
-        "Cosmic Crit",
-        "Glass Planet"
+        "Cosmic Crit"
       ],
       "topics": [
         "starfinder",
@@ -1539,7 +1570,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121857769",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit"
+      ],
       "topics": [
         "swarm",
         "body"
@@ -1606,8 +1639,8 @@
       "enclosure_length": "93497056",
       "itunes_duration": "0:00",
       "speakers": [
-        "disgruntled labor",
-        "engineering unions"
+        "Cosmic Crit",
+        "Operation Sharpwing"
       ],
       "topics": [
         "sharpwing",
@@ -1625,9 +1658,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129024184",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Jan Vaun"
-      ],
+      "speakers": [],
       "topics": [
         "peridot"
       ]
@@ -1643,10 +1674,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107675358",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Starfinder Solarian",
-        "Jan Vaughan"
-      ],
+      "speakers": [],
       "topics": [
         "duck"
       ]
@@ -1663,8 +1691,7 @@
       "enclosure_length": "101136760",
       "itunes_duration": "0:00",
       "speakers": [
-        "Starfinder Solarian",
-        "Voidshard Vampire"
+        "Cosmic Crit"
       ],
       "topics": [
         "voidshardly"
@@ -1703,8 +1730,7 @@
       "enclosure_length": "61445344",
       "itunes_duration": "0:00",
       "speakers": [
-        "mechanical precision",
-        "deadly force"
+        "Cosmic Crit"
       ],
       "topics": [
         "clock"
@@ -1776,8 +1802,7 @@
       "enclosure_length": "73488516",
       "itunes_duration": "0:00",
       "speakers": [
-        "bushes laden",
-        "golden berries"
+        "Clever Girl"
       ],
       "topics": [
         "clever",
@@ -1797,8 +1822,7 @@
       "enclosure_length": "48394548",
       "itunes_duration": "0:00",
       "speakers": [
-        "adrenaline-pumping action",
-        "heart-pounding suspense"
+        "Cosmic Crit"
       ],
       "topics": [
         "shape",
@@ -1817,9 +1841,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76166312",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Alyndra Vallis"
-      ],
+      "speakers": [],
       "topics": [
         "star",
         "crit",
@@ -1838,7 +1860,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31924192",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Tashtari laser wolves"
+      ],
       "topics": [
         "whirlwind"
       ]
@@ -1873,7 +1897,7 @@
       "enclosure_length": "6753796",
       "itunes_duration": "0:00",
       "speakers": [
-        "oceanic delights"
+        "Expensive Food Wars Join"
       ],
       "topics": [
         "food"
@@ -1890,7 +1914,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108742098",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Plaustov City",
+        "Cosmic Crit"
+      ],
       "topics": [
         "good",
         "shobahd"
@@ -1908,7 +1935,7 @@
       "enclosure_length": "107487550",
       "itunes_duration": "0:00",
       "speakers": [
-        "seeking aid"
+        "Veridian Colony"
       ],
       "topics": [
         "devil",
@@ -2005,7 +2032,8 @@
       "enclosure_length": "112255629",
       "itunes_duration": "0:00",
       "speakers": [
-        "Pavo Sotillo"
+        "Vanity Fishfair Having",
+        "Veridian Colony"
       ],
       "topics": [
         "vanity",
@@ -2062,7 +2090,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99974927",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit",
+        "Mountain Eel"
+      ],
       "topics": [
         "giant",
         "slayer"
@@ -2098,9 +2129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "103792435",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Haltharia Grommin"
-      ],
+      "speakers": [],
       "topics": [
         "wallace",
         "grommin"
@@ -2138,7 +2167,7 @@
       "enclosure_length": "83411857",
       "itunes_duration": "0:00",
       "speakers": [
-        "Jenny Jarzabski"
+        "Playtest Critmas Special Pt"
       ],
       "topics": [
         "starfinder",
@@ -2159,8 +2188,7 @@
       "enclosure_length": "70525393",
       "itunes_duration": "0:00",
       "speakers": [
-        "Jenny Jarzabski",
-        "Jenny GMs"
+        "Jenny Jarzabski"
       ],
       "topics": [
         "starfinder",
@@ -2180,7 +2208,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93203776",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Founding Five"
+      ],
       "topics": [
         "mission"
       ]
@@ -2214,7 +2244,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86812588",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Founding Five"
+      ],
       "topics": [
         "diatha"
       ]
@@ -2264,8 +2296,7 @@
       "itunes_duration": "0:00",
       "speakers": [
         "Bears Get",
-        "Cosmic Crit",
-        "Founding Five"
+        "Cosmic Crit"
       ],
       "topics": [
         "news",
@@ -2437,11 +2468,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131221472",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Paizo Tyler",
-        "Ixtangi Nanocyte Myles",
-        "Brenneri Soldier Rebecca"
-      ],
+      "speakers": [],
       "topics": [
         "berenstag",
         "bear"
@@ -2477,11 +2504,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139345134",
       "itunes_duration": "0:00",
-      "speakers": [
-        "Thurston Hillman",
-        "Jessica Catalan",
-        "Myles Seth"
-      ],
+      "speakers": [],
       "topics": [
         "president"
       ]
@@ -2570,8 +2593,7 @@
       "enclosure_length": "110917953",
       "itunes_duration": "0:00",
       "speakers": [
-        "Better Off Undead Still",
-        "Balco Unctar"
+        "Better Off Undead Still"
       ],
       "topics": [
         "better",
@@ -2625,7 +2647,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119437037",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Scrappy Days"
+      ],
       "topics": [
         "scrappy"
       ]
@@ -2828,8 +2852,7 @@
       "enclosure_length": "55618722",
       "itunes_duration": "0:00",
       "speakers": [
-        "Thurston Hillman Strikes Back",
-        "Thurston Hillman"
+        "Thurston Hillman Strikes Back"
       ],
       "topics": [
         "crittercon",
@@ -2954,7 +2977,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114030817",
       "itunes_duration": "1:46:43",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit",
+        "Devastation Ark"
+      ],
       "topics": []
     },
     {
@@ -2968,7 +2994,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118595903",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Sivv Me Liberty",
+        "Devastation Ark",
+        "Cosmic Crit"
+      ],
       "topics": [
         "sivv",
         "liberty",
@@ -2986,7 +3016,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "102077457",
       "itunes_duration": "0:00",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit"
+      ],
       "topics": [
         "sivv"
       ]
@@ -3002,7 +3034,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "105900425",
       "itunes_duration": "1:26:50",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit"
+      ],
       "topics": [
         "freaky",
         "fifthday"
@@ -3019,7 +3053,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86900372",
       "itunes_duration": "1:11:14",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit"
+      ],
       "topics": [
         "groundhog"
       ]
@@ -3036,7 +3072,7 @@
       "enclosure_length": "92353067",
       "itunes_duration": "1:17:17",
       "speakers": [
-        "every corner"
+        "Cosmic Crit"
       ],
       "topics": [
         "triune",
@@ -3086,7 +3122,7 @@
       "enclosure_length": "58588445",
       "itunes_duration": "49:40",
       "speakers": [
-        "Sivv Warmasters"
+        "Cosmic Crit"
       ],
       "topics": [
         "sivv",
@@ -3194,7 +3230,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90526694",
       "itunes_duration": "1:11:48",
-      "speakers": [],
+      "speakers": [
+        "Drift Rider"
+      ],
       "topics": [
         "sailor",
         "moon",
@@ -3213,8 +3251,7 @@
       "enclosure_length": "74980453",
       "itunes_duration": "57:26",
       "speakers": [
-        "Degenerator Nights Desperate",
-        "Degenerator Rally"
+        "Degenerator Nights Desperate"
       ],
       "topics": [
         "degenerator",
@@ -3442,9 +3479,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77430151",
       "itunes_duration": "1:01:41",
-      "speakers": [
-        "Absalom Station"
-      ],
+      "speakers": [],
       "topics": [
         "badge",
         "entanglement"
@@ -3461,7 +3496,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110942197",
       "itunes_duration": "1:22:10",
-      "speakers": [],
+      "speakers": [
+        "Starstone Defenders"
+      ],
       "topics": [
         "fight"
       ]
@@ -3606,7 +3643,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94653617",
       "itunes_duration": "1:15:25",
-      "speakers": [],
+      "speakers": [
+        "Die Melee",
+        "Drift Rider"
+      ],
       "topics": [
         "floating",
         "brain"
@@ -3623,7 +3663,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80303537",
       "itunes_duration": "1:03:58",
-      "speakers": [],
+      "speakers": [
+        "Gardenia District"
+      ],
       "topics": [
         "jump",
         "street"
@@ -3662,9 +3704,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87094571",
       "itunes_duration": "1:06:21",
-      "speakers": [
-        "Absalom Station"
-      ],
+      "speakers": [],
       "topics": [
         "parks",
         "ruination"
@@ -3683,8 +3723,7 @@
       "itunes_duration": "1:22:24",
       "speakers": [
         "Drift Rider",
-        "Pact Council Directorate",
-        "Arc Prime"
+        "Pact Council Directorate"
       ],
       "topics": [
         "pact"
@@ -3719,8 +3758,7 @@
       "itunes_duration": "1:21:37",
       "speakers": [
         "During Crittercon",
-        "Cosmic Crit",
-        "Doctors Without Borders"
+        "Cosmic Crit"
       ],
       "topics": [
         "cantina"
@@ -3738,8 +3776,7 @@
       "enclosure_length": "108602818",
       "itunes_duration": "1:14:36",
       "speakers": [
-        "Absalom Station",
-        "Pact Space"
+        "Absalom St"
       ],
       "topics": [
         "beverly",
@@ -3776,9 +3813,7 @@
       "enclosure_length": "56131492",
       "itunes_duration": "38:09",
       "speakers": [
-        "Join Patrick",
-        "Linda Zayas-Palmer",
-        "Jessica Catalan"
+        "Join Patrick"
       ],
       "topics": [
         "crittercon",
@@ -3813,9 +3848,7 @@
       "enclosure_length": "110532941",
       "itunes_duration": "1:31:54",
       "speakers": [
-        "Daemon Slayer",
-        "Linda Zayas-Palmer",
-        "Manifold Host"
+        "Daemon Slayer"
       ],
       "topics": [
         "daemon",
@@ -3989,7 +4022,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "129899645",
       "itunes_duration": "1:41:46",
-      "speakers": [],
+      "speakers": [
+        "Slime Well",
+        "Drift Rider"
+      ],
       "topics": [
         "girl",
         "slime"
@@ -4007,13 +4043,7 @@
       "enclosure_length": "74239740",
       "itunes_duration": "57:56",
       "speakers": [
-        "Alyndra Vallis",
-        "Lashunta Solarian Tyler",
-        "Edrass Vaaranas",
-        "Vesk Soldier Drew",
-        "Gnak Feldspar",
-        "Rami Quinn-Darr",
-        "Technomancer Patrick"
+        "Drift Rider"
       ],
       "topics": [
         "gnak",
@@ -4085,13 +4115,7 @@
       "enclosure_length": "93871142",
       "itunes_duration": "1:13:07",
       "speakers": [
-        "Boogie Nanites",
-        "Alyndra Vallis",
-        "Lashunta Solarian Tyler",
-        "Edrass Vaaranas",
-        "Vesk Soldier Drew",
-        "Gnak Feldspar",
-        "Rami Quinn-Darr"
+        "Boogie Nanites"
       ],
       "topics": [
         "boogie",
@@ -4204,7 +4228,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160595648",
       "itunes_duration": "2:08:09",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit",
+        "Drift Rider"
+      ],
       "topics": [
         "return",
         "drift",
@@ -4433,7 +4460,8 @@
       "enclosure_length": "111472413",
       "itunes_duration": "1:34:27",
       "speakers": [
-        "Devastation Ark"
+        "Looking Back",
+        "Cosmic Crit"
       ],
       "topics": [
         "recap",
@@ -4452,7 +4480,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83612179",
       "itunes_duration": "1:03:20",
-      "speakers": [],
+      "speakers": [
+        "Midnight Squad"
+      ],
       "topics": [
         "death"
       ]
@@ -4556,7 +4586,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113108915",
       "itunes_duration": "1:28:02",
-      "speakers": [],
+      "speakers": [
+        "Space Dam Midnight Squad"
+      ],
       "topics": [
         "space"
       ]
@@ -4710,9 +4742,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118002248",
       "itunes_duration": "01:29:53",
-      "speakers": [
-        "Cosmic Crittermanders"
-      ],
+      "speakers": [],
       "topics": [
         "hover"
       ]
@@ -4815,7 +4845,8 @@
       "enclosure_length": "68450307",
       "itunes_duration": "01:07:43",
       "speakers": [
-        "Jenny Jarzabski"
+        "Jenny Jarzabski",
+        "Paizo Starfinder"
       ],
       "topics": [
         "crittercon",
@@ -4908,9 +4939,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "126103890",
       "itunes_duration": "01:37:20",
-      "speakers": [
-        "Cosmic Crittermanders"
-      ],
+      "speakers": [],
       "topics": [
         "avatari"
       ]
@@ -5141,7 +5170,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60239274",
       "itunes_duration": "46:52",
-      "speakers": [],
+      "speakers": [
+        "more sk"
+      ],
       "topics": [
         "critmas",
         "special",
@@ -5464,7 +5495,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141071442",
       "itunes_duration": "01:54:19",
-      "speakers": [],
+      "speakers": [
+        "Clade Company"
+      ],
       "topics": [
         "master",
         "university"
@@ -5481,7 +5514,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118050534",
       "itunes_duration": "01:30:15",
-      "speakers": [],
+      "speakers": [
+        "Mighty Mecha Playtest Starfinders",
+        "Mech Rules"
+      ],
       "topics": [
         "mighty",
         "mecha",
@@ -5555,7 +5591,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112947632",
       "itunes_duration": "01:24:32",
-      "speakers": [],
+      "speakers": [
+        "Dredgers Midnight Squad"
+      ],
       "topics": [
         "dredger"
       ]
@@ -5663,8 +5701,7 @@
       "enclosure_length": "120231109",
       "itunes_duration": "01:37:41",
       "speakers": [
-        "Sister Spark",
-        "Midnight Squad"
+        "Sister Spark"
       ],
       "topics": [
         "sister"
@@ -5827,7 +5864,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150779394",
       "itunes_duration": "01:55:09",
-      "speakers": [],
+      "speakers": [
+        "Full Retreat"
+      ],
       "topics": [
         "retreat",
         "surrender"
@@ -6054,7 +6093,8 @@
       "enclosure_length": "117362587",
       "itunes_duration": "01:31:41",
       "speakers": [
-        "Paizo Adventure Path"
+        "Character Deep",
+        "Cosmic Crit"
       ],
       "topics": [
         "season",
@@ -6261,7 +6301,12 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "6406737",
       "itunes_duration": "06:31",
-      "speakers": [],
+      "speakers": [
+        "Cosmic Crit",
+        "Syrinscape Present Steel Talon",
+        "Lair Syrinscape",
+        "Starfinder Beginner"
+      ],
       "topics": [
         "cosmic",
         "crit",
@@ -6284,7 +6329,7 @@
       "enclosure_length": "144021840",
       "itunes_duration": "01:51:21",
       "speakers": [
-        "Gray Aliens"
+        "Bend Travel Lab"
       ],
       "topics": [
         "kombat"
@@ -6302,8 +6347,7 @@
       "enclosure_length": "123184324",
       "itunes_duration": "01:33:31",
       "speakers": [
-        "Aeon Throne",
-        "Cosmic Crittermanders"
+        "Aeon Throne"
       ],
       "topics": [
         "robot"
@@ -6447,10 +6491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135990341",
       "itunes_duration": "01:46:34",
-      "speakers": [
-        "Crit Bit",
-        "Eleanor Ferron"
-      ],
+      "speakers": [],
       "topics": [
         "encounters"
       ]
@@ -6679,9 +6720,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167434312",
       "itunes_duration": "02:05:56",
-      "speakers": [
-        "Dalesko Settlement"
-      ],
+      "speakers": [],
       "topics": [
         "time",
         "dalesko"
@@ -6732,9 +6771,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144847386",
       "itunes_duration": "01:43:38",
-      "speakers": [
-        "worn down"
-      ],
+      "speakers": [],
       "topics": [
         "brawl"
       ]
@@ -6769,9 +6806,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124418713",
       "itunes_duration": "01:33:16",
-      "speakers": [
-        "Royal Venture"
-      ],
+      "speakers": [],
       "topics": [
         "royal",
         "venture"
@@ -6822,7 +6857,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109035695",
       "itunes_duration": "01:20:36",
-      "speakers": [],
+      "speakers": [
+        "Hobgar Named Desire Resisting",
+        "Dalesko Settlement"
+      ],
       "topics": [
         "hobgar",
         "desire"
@@ -6905,9 +6943,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141287440",
       "itunes_duration": "01:44:21",
-      "speakers": [
-        "Madelon's Landing"
-      ],
+      "speakers": [],
       "topics": [
         "mist",
         "fury"
@@ -6944,9 +6980,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92402438",
       "itunes_duration": "01:05:17",
-      "speakers": [
-        "Drift Rider"
-      ],
+      "speakers": [],
       "topics": [
         "unusual",
         "suspect"
@@ -6982,9 +7016,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139708720",
       "itunes_duration": "01:36:25",
-      "speakers": [
-        "Dead Suns"
-      ],
+      "speakers": [],
       "topics": [
         "flip",
         "burn",
@@ -7002,7 +7034,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85929401",
       "itunes_duration": "01:06:25",
-      "speakers": [],
+      "speakers": [
+        "So Long",
+        "Corpse Fleet",
+        "Stellar Degenerator"
+      ],
       "topics": [
         "long",
         "thank",
@@ -7089,9 +7125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142592615",
       "itunes_duration": "01:47:51",
-      "speakers": [
-        "Corpse Fleet"
-      ],
+      "speakers": [],
       "topics": [
         "ellicoth",
         "company"
@@ -7201,9 +7235,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122689277",
       "itunes_duration": "01:33:19",
-      "speakers": [
-        "Cosmic Crittermanders"
-      ],
+      "speakers": [],
       "topics": [
         "casual"
       ]
@@ -7255,9 +7287,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145968075",
       "itunes_duration": "01:49:48",
-      "speakers": [
-        "Cosmic Crittermanders"
-      ],
+      "speakers": [],
       "topics": [
         "legend",
         "hidden",
@@ -7343,9 +7373,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113961018",
       "itunes_duration": "01:28:24",
-      "speakers": [
-        "Stellar Degenerator"
-      ],
+      "speakers": [],
       "topics": [
         "edrassferatu"
       ]
@@ -7540,7 +7568,7 @@
       "enclosure_length": "136481704",
       "itunes_duration": "01:54:00",
       "speakers": [
-        "Android Mechanic"
+        "Android Mech"
       ],
       "topics": [
         "andis",
@@ -7597,8 +7625,7 @@
       "enclosure_length": "134665369",
       "itunes_duration": "1:47:28",
       "speakers": [
-        "Huntmaster Zavra",
-        "Dan Peck"
+        "Huntmaster Zavra"
       ],
       "topics": [
         "vallis",
@@ -7738,9 +7765,7 @@
       "itunes_duration": "1:15:03",
       "speakers": [
         "Amanda Hamon Kunz",
-        "Adventure Path",
-        "Managing Developer",
-        "Splintered Worlds"
+        "Adventure Path"
       ],
       "topics": [
         "cowboy",
@@ -7762,9 +7787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117287517",
       "itunes_duration": "01:34:15",
-      "speakers": [
-        "Skullcap Gorge"
-      ],
+      "speakers": [],
       "topics": [
         "rami"
       ]
@@ -7798,8 +7821,7 @@
       "enclosure_length": "128619963",
       "itunes_duration": "01:42:59",
       "speakers": [
-        "PhoeGnak Wright",
-        "Waneda Trux"
+        "PhoeGnak Wright"
       ],
       "topics": [
         "phoegnak",
@@ -7839,7 +7861,8 @@
       "enclosure_length": "90227549",
       "itunes_duration": "01:09:50",
       "speakers": [
-        "GM Patrick"
+        "Called Shot Crossover",
+        "Rusty Rivet"
       ],
       "topics": [
         "besmara",
@@ -7893,9 +7916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104310236",
       "itunes_duration": "01:08:29",
-      "speakers": [
-        "April Fools"
-      ],
+      "speakers": [],
       "topics": [
         "pronkfinder"
       ]
@@ -7966,7 +7987,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149088368",
       "itunes_duration": "02:05:14",
-      "speakers": [],
+      "speakers": [
+        "Always Sunny",
+        "Qabarat Following"
+      ],
       "topics": [
         "qabarat"
       ]
@@ -8069,9 +8093,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150626870",
       "itunes_duration": "1:56:09",
-      "speakers": [
-        "Crit Bits"
-      ],
+      "speakers": [],
       "topics": [
         "kaukariki",
         "tikki",
@@ -8107,8 +8129,7 @@
       "enclosure_length": "134185975",
       "itunes_duration": "1:56:54",
       "speakers": [
-        "Family Guy",
-        "Dan Peck"
+        "Brain New World Arriving"
       ],
       "topics": [
         "brain",
@@ -8127,8 +8148,7 @@
       "enclosure_length": "124192335",
       "itunes_duration": "1:44:48",
       "speakers": [
-        "Absalom Station",
-        "Edrass Veraanas"
+        "Absalom Station"
       ],
       "topics": [
         "girl",
@@ -8147,7 +8167,8 @@
       "enclosure_length": "159779631",
       "itunes_duration": "2:08:59",
       "speakers": [
-        "Thurston Thursty Hillman"
+        "Dice Hard",
+        "Cosmic Critmas Special"
       ],
       "topics": [
         "dice",
@@ -8169,7 +8190,8 @@
       "enclosure_length": "102118567",
       "itunes_duration": "1:28:26",
       "speakers": [
-        "Pact Space"
+        "Sunrise Maiden",
+        "Absalom Station"
       ],
       "topics": [
         "sunrise",
@@ -8190,7 +8212,9 @@
       "enclosure_length": "314866377",
       "itunes_duration": "2:10:49",
       "speakers": [
-        "Rob McCreary"
+        "Capt Nash",
+        "Haunted Ship Club Band",
+        "Drift Rock"
       ],
       "topics": [
         "capt",
@@ -8232,8 +8256,7 @@
       "enclosure_length": "242848995",
       "itunes_duration": "1:40:48",
       "speakers": [
-        "Darius Gilcrest",
-        "Alyndra Vallis"
+        "Drift Rock"
       ],
       "topics": [
         "drift",
@@ -8252,7 +8275,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182923026",
       "itunes_duration": "1:15:50",
-      "speakers": [],
+      "speakers": [
+        "Straight Outta Acreon All"
+      ],
       "topics": [
         "straight",
         "outta",
@@ -8308,9 +8333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148215601",
       "itunes_duration": "1:01:23",
-      "speakers": [
-        "side stories"
-      ],
+      "speakers": [],
       "topics": [
         "crit",
         "stop",
@@ -8375,7 +8398,7 @@
       "itunes_duration": "1:47:06",
       "speakers": [
         "Helm Street Gnak",
-        "Astral Extractions"
+        "Astral Extra"
       ],
       "topics": [
         "nightmare",
@@ -8395,7 +8418,9 @@
       "enclosure_length": "204690363",
       "itunes_duration": "1:24:55",
       "speakers": [
-        "Jason Keeley"
+        "Living Diplomat All",
+        "Eoxian Embassy",
+        "Absalom Station"
       ],
       "topics": [
         "night",
@@ -8414,8 +8439,7 @@
       "enclosure_length": "231120012",
       "itunes_duration": "1:35:55",
       "speakers": [
-        "Ferani Nendaz",
-        "Chex Mix"
+        "Ferani Nendaz"
       ],
       "topics": [
         "cosmo",
@@ -8454,7 +8478,7 @@
       "enclosure_length": "289880882",
       "itunes_duration": "02:00:24",
       "speakers": [
-        "Jason Nelson"
+        "Dancing Kings Following"
       ],
       "topics": [
         "king"
@@ -8487,7 +8511,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "150692133",
       "itunes_duration": "1:02:25",
-      "speakers": [],
+      "speakers": [
+        "Starfinder Society"
+      ],
       "topics": [
         "kreel",
         "deal"
@@ -8506,8 +8532,7 @@
       "itunes_duration": "1:08:13",
       "speakers": [
         "Gobstopped Following",
-        "Downside Kings",
-        "Starfinder Society"
+        "Downside Kings"
       ],
       "topics": [
         "gobstopped"
@@ -8525,8 +8550,7 @@
       "enclosure_length": "138907790",
       "itunes_duration": "57:29",
       "speakers": [
-        "Dead Suns Adventure Path",
-        "Starfinder Society"
+        "Dead Suns Adventure Path"
       ],
       "topics": [
         "opening",
@@ -8562,7 +8586,8 @@
       "enclosure_length": "64858512",
       "itunes_duration": "44:24",
       "speakers": [
-        "tabletop RPGs"
+        "Players Get",
+        "Cosmic Cr"
       ],
       "topics": [
         "players"
@@ -8582,8 +8607,7 @@
       "speakers": [
         "Introducing Cosmic Crit",
         "Cosmic Crit",
-        "Actual Play",
-        "Starfinder Roleplaying Game"
+        "Actual Play"
       ],
       "topics": [
         "cosmic",
@@ -8600,10 +8624,11 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Guilt of the Grave World | 003: Reign of Firestorm — speakers: Grave World
 - 2026-02-23 — Guilt of the Grave World | 002: Pressgang Your Luck
 - 2026-02-16 — Guilt of the Grave World | 001: Fools Nova Rush In — speakers: Fools Nova Rush
 - 2026-02-09 — Guilt of the Grave World | X006: Tyler’s Shadowy Ways
-- 2026-02-02 — Guilt of the Grave World | X005: Rebecca Balances the Scales
+- 2026-02-02 — Guilt of the Grave World | X005: Rebecca Balances the Scales — speakers: Grave World, Rebecca Balances, Scales Rebecca
 - 2026-01-26 — Guilt of the Grave World | X004: Gibert’s Ruff Stuff — speakers: Gibert’s Ruff Stuff Gibert
 - 2026-01-19 — Guilt of the Grave World | X003: Myles Has 9 Lives — speakers: Grave World, Lives Patrick
 - 2026-01-12 — Guilt of the Grave World | X002: Drew Fish Flip Flops — speakers: Flip Flops
@@ -8612,7 +8637,7 @@
 - 2025-12-22 — Cosmic Birthday | 006: Gangs of New Absalom — speakers: Cosmic Birthday, New Absalom Adventuring
 - 2025-12-15 — Cosmic Birthday | 005: Twenty One Holograms — speakers: Cosmic Birthday, Ghost Levels
 - 2025-12-08 — Cosmic Birthday | 004: The Sword in the Vesk Stone
-- 2025-12-01 — Cosmic Birthday | 003: That Time I Nearly Got Reincarnated by a Slime
+- 2025-12-01 — Cosmic Birthday | 003: That Time I Nearly Got Reincarnated by a Slime — speakers: Cosmic Birthday, Nearly Got Reincarnated
 - 2025-11-24 — Cosmic Birthday | 002: Solo Ghost Leveling — speakers: Cosmic Birthday, Absalom Adventurers
 - 2025-11-17 — Cosmic Birthday | 001: Mission to Spacedock 69
 - 2025-11-10 — Cosmic Birthday | 000: Character Draft — speakers: Character Draft
@@ -8622,103 +8647,103 @@
 - 2025-10-13 — Alien TTRPG | Part 4
 - 2025-10-06 — Alien TTRPG | Part 3
 - 2025-09-29 — Alien TTRPG | Part 2
-- 2025-09-22 — Alien TTRPG | Part 1 — speakers: Characters Patrick
+- 2025-09-22 — Alien TTRPG | Part 1 — speakers: Free League Publishing
 - 2025-09-12 — 2.0 | X02: Crittercon 8 with Author Michael Bramnik — speakers: Michael Bramnik
 - 2025-09-08 — 2.0 | X01: State of the Podcast 2025
 - 2025-09-01 — S5 | Finale: A Look Back at Horizons of the Vast and Starfinder 1E — speakers: Look Back, Cosmic Crit
-- 2025-08-25 — S5 | 362: The Season Ending Story — speakers: Rami’s aid
-- 2025-08-18 — S5 | 361: Enter the Space Dragon
-- 2025-08-11 — S5 | 360: Space Battleship Peridot
+- 2025-08-25 — S5 | 362: The Season Ending Story — speakers: Cosmic Crit, New Golarion
+- 2025-08-18 — S5 | 361: Enter the Space Dragon — speakers: Space Dragon Locked
+- 2025-08-11 — S5 | 360: Space Battleship Peridot — speakers: Space Battleship Peridot Drawn
 - 2025-08-04 — S5 | 359: Avengers: End Crit
 - 2025-07-28 — S5 | 358: Avengers: Infinity Crit — speakers: Cosmic Crit, Drift Rider, Golarion World
-- 2025-07-21 — S5 | 357: Space Foam Alone
-- 2025-07-14 — S5 | 356: Where the Buffalo Foam — speakers: no crew
+- 2025-07-21 — S5 | 357: Space Foam Alone — speakers: Space Foam Alone Amid
+- 2025-07-14 — S5 | 356: Where the Buffalo Foam — speakers: Buffalo Foam Leaving New
 - 2025-07-07 — S5 | 355: Moon: Prophecy
 - 2025-06-30 — S5 | 354: Moon, Part 2
 - 2025-06-23 — S5 | 353: Moon, Part 1
 - 2025-06-16 — S5 | 352: Fire in the Skye
 - 2025-06-09 — S5 | 351: Sailor’s Moon Crystals
 - 2025-06-02 — S5 | 350: Scatman on a Hot Tin Roof
-- 2025-05-26 — S5 | 349: Starship to the Unknown — speakers: Fated Harvest
-- 2025-05-19 — Starfinder 2E Playtest | Tyler in the Captain’s Chair, Part 2 — speakers: new tactics
-- 2025-05-12 — Starfinder 2E Playtest | Tyler in the Captain’s Chair, Part 1 — speakers: unexpected twists, new mechanics
+- 2025-05-26 — S5 | 349: Starship to the Unknown
+- 2025-05-19 — Starfinder 2E Playtest | Tyler in the Captain’s Chair, Part 2 — speakers: Crit Crew
+- 2025-05-12 — Starfinder 2E Playtest | Tyler in the Captain’s Chair, Part 1 — speakers: Game Master
 - 2025-05-05 — S5 | 348: The End of the Pronking World — speakers: Culling Shadow, New Golarion
 - 2025-04-28 — S5 | 347: God of War Council
-- 2025-04-21 — S5 | 346: Assassination Meeting Room — speakers: alliances shifting
-- 2025-04-14 — S5 | 345: Antlered-Man and the Wasp — speakers: Wasp After, New Golarion, Third Blade
+- 2025-04-21 — S5 | 346: Assassination Meeting Room — speakers: Assassination Meeting Room Tensions, Third Blade
+- 2025-04-14 — S5 | 345: Antlered-Man and the Wasp — speakers: Wasp After, New Golarion
 - 2025-04-07 — S5 | 344: Diplomacy’s Day Parade
 - 2025-03-31 — S5 | 343: A Kaboom with a View
-- 2025-03-24 — S5 | 342: Shuttle Hawk Down — speakers: Hawk Down, Necropositrine Ray
-- 2025-03-17 — S5 | 341: The Happiest Place on Golarion
+- 2025-03-24 — S5 | 342: Shuttle Hawk Down — speakers: Hawk Down
+- 2025-03-17 — S5 | 341: The Happiest Place on Golarion — speakers: Golarion Fresh
 - 2025-03-10 — S5 | 340: In Living Color Out of Space — speakers: Space Drawn
 - 2025-03-03 — S5 | 339: Not Another Turbo Teen Movie
-- 2025-02-24 — S5 | 338: Lobby’s World — speakers: Necropositrine Ray, Xantos Loachwurt
-- 2025-02-17 — S5 | 337: Celestine Hunger Force
+- 2025-02-24 — S5 | 338: Lobby’s World — speakers: Necropositrine Ray
+- 2025-02-17 — S5 | 337: Celestine Hunger Force — speakers: Celestine Hunger Force Praedir
 - 2025-02-10 — S5 | 336: Skrellraiser
 - 2025-02-03 — S5 | 335: Forlorn Eye Only
 - 2025-01-27 — S5 | 334: Come on Eileelineem
 - 2025-01-20 — S5 | 333: The Kerst Omen
 - 2025-01-13 — S5 | 332: The Real Ghost-Bunkers — speakers: apocalyptic warnings
-- 2025-01-06 — S5 | 331: Grime and Punishment
-- 2024-12-30 — Critmas Special 2024: Lasers and Feelings, Part 2 — speakers: John Harper
+- 2025-01-06 — S5 | 331: Grime and Punishment — speakers: Punishment Horizons
+- 2024-12-30 — Critmas Special 2024: Lasers and Feelings, Part 2 — speakers: John Har
 - 2024-12-23 — Critmas Special 2024: Lasers and Feelings, Part 1 — speakers: John Harper
 - 2024-12-16 — S5 | 330: Brood Awakening — speakers: Cosmic Crit
 - 2024-12-09 — S5 | 329: Pinky and the Brain Bug
-- 2024-12-02 — S5 | 328: Fraggle Rocket — speakers: Midnight Squad
-- 2024-11-25 — S5 | 327: Thresher Lord of the Flies — speakers: goo-covered battery
+- 2024-12-02 — S5 | 328: Fraggle Rocket
+- 2024-11-25 — S5 | 327: Thresher Lord of the Flies
 - 2024-11-18 — S5 | 326: Eschuchide and Seek
 - 2024-11-11 — S5 | 325: SDF Attacks! — speakers: Cosmic Crit
-- 2024-11-04 — S5 | 324: Starship Bloopers
+- 2024-11-04 — S5 | 324: Starship Bloopers — speakers: terrifying Sw
 - 2024-10-21 — Starfinder 2E Playtest: It Came From the Vast!, Part 4 — speakers: Starfinder Society
 - 2024-10-14 — Starfinder 2E Playtest: It Came From the Vast!, Part 3 — speakers: Starfinder Society
 - 2024-10-07 — Starfinder 2E Playtest: It Came From the Vast!, Part 2 — speakers: Starfinder Society
 - 2024-09-30 — Starfinder 2E Playtest: It Came From the Vast!, Part 1 — speakers: Starfinder Society
 - 2024-09-23 — S5 | 323: Aliens vs. Praedir
 - 2024-09-16 — S5 | 322: Swarm: Romulus
-- 2024-09-09 — Starfinder 2E Playtest | Part 4: Shards of the Glass Planet — speakers: Cosmic Crit, Glass Planet
-- 2024-09-02 — Starfinder 2E Playtest | Part 3: Shards of the Glass Planet — speakers: Cosmic Crit, Glass Planet
-- 2024-08-26 — Starfinder 2E Playtest | Part 2: Shards of the Glass Planet — speakers: Cosmic Crit, Glass Planet
-- 2024-08-19 — Starfinder 2E Playtest | Part 1: Shards of the Glass Planet — speakers: Cosmic Crit, Glass Planet
-- 2024-08-12 — S5 | 321: Swarm Bodies
+- 2024-09-09 — Starfinder 2E Playtest | Part 4: Shards of the Glass Planet — speakers: Cosmic Crit
+- 2024-09-02 — Starfinder 2E Playtest | Part 3: Shards of the Glass Planet — speakers: Cosmic Crit
+- 2024-08-26 — Starfinder 2E Playtest | Part 2: Shards of the Glass Planet — speakers: Cosmic Crit
+- 2024-08-19 — Starfinder 2E Playtest | Part 1: Shards of the Glass Planet — speakers: Cosmic Crit
+- 2024-08-12 — S5 | 321: Swarm Bodies — speakers: Cosmic Crit
 - 2024-08-05 — S5 | 320: The Crabin in the Woods — speakers: Cosmic Crit
 - 2024-07-29 — S5 | 319: ▇▇▇▇▇▇▇▇, Part 2
 - 2024-07-22 — S5 | 318: ▇▇▇▇▇▇▇▇ — speakers: Cosmic Crit
-- 2024-07-15 — S5 | 317: On a Sharpwing and a Prayer — speakers: disgruntled labor, engineering unions
-- 2024-07-08 — S5 | 316: Some Like It Peridot — speakers: Jan Vaun
-- 2024-07-01 — S5 | 315: Sharpwing Duck — speakers: Starfinder Solarian, Jan Vaughan
-- 2024-06-24 — S5 | 314: Can’t Voidshardly Wait — speakers: Starfinder Solarian, Voidshard Vampire
+- 2024-07-15 — S5 | 317: On a Sharpwing and a Prayer — speakers: Cosmic Crit, Operation Sharpwing
+- 2024-07-08 — S5 | 316: Some Like It Peridot
+- 2024-07-01 — S5 | 315: Sharpwing Duck
+- 2024-06-24 — S5 | 314: Can’t Voidshardly Wait — speakers: Cosmic Crit
 - 2024-06-17 — S5 | 313: Mission: Azlanti, Ghosts Protocol — speakers: Cosmic Crit
-- 2024-06-10 — S5 | 312: 30 Clock — speakers: mechanical precision, deadly force
+- 2024-06-10 — S5 | 312: 30 Clock — speakers: Cosmic Crit
 - 2024-06-03 — S5 | 311: Clock of Ages — speakers: Cosmic Crit, Founding Five
 - 2024-05-27 — S5 | 310: Beam Me to the Moon
 - 2024-05-20 — S5 | 309: Killers of the Moonflower
-- 2024-05-13 — S5 | 308: Clever Girl, Interrupted — speakers: bushes laden, golden berries
-- 2024-05-06 — S5 | 307: The Shape of Lake Water — speakers: adrenaline-pumping action, heart-pounding suspense
-- 2024-04-29 — S5 | 306: Star Crit III: The Search for Alyndra — speakers: Alyndra Vallis
-- 2024-04-22 — S5 | 305: Gone with the Whirlwind
+- 2024-05-13 — S5 | 308: Clever Girl, Interrupted — speakers: Clever Girl
+- 2024-05-06 — S5 | 307: The Shape of Lake Water — speakers: Cosmic Crit
+- 2024-04-29 — S5 | 306: Star Crit III: The Search for Alyndra
+- 2024-04-22 — S5 | 305: Gone with the Whirlwind — speakers: Tashtari laser wolves
 - 2024-04-15 — S5 | 304: Dances with Laser Wolves
-- 2024-04-08 — S5 | 303: Expensive Food Wars — speakers: oceanic delights
-- 2024-04-01 — S5 | 302: The Good, The Shobahd, and the Ugly
-- 2024-03-25 — S5 | 301: The Devil Went Down to Plaustov — speakers: seeking aid
+- 2024-04-08 — S5 | 303: Expensive Food Wars — speakers: Expensive Food Wars Join
+- 2024-04-01 — S5 | 302: The Good, The Shobahd, and the Ugly — speakers: Plaustov City, Cosmic Crit
+- 2024-03-25 — S5 | 301: The Devil Went Down to Plaustov — speakers: Veridian Colony
 - 2024-03-18 — Starfinder 2E Playtest | Part 3: Kinky and the Brain
 - 2024-03-11 — Starfinder 2E Playtest | Part 2: Highway to the Danger Bone
 - 2024-03-04 — Starfinder 2E Playtest | Part 1: My Biochemical Romance
 - 2024-02-26 — S5 | 300: Johnny Mnemonic Editor — speakers: Johnny Mnemonic
-- 2024-02-19 — S5 | 299: Vanity Fishfair — speakers: Pavo Sotillo
+- 2024-02-19 — S5 | 299: Vanity Fishfair — speakers: Vanity Fishfair Having, Veridian Colony
 - 2024-02-12 — S5 | 298: Invasion of the Body Snatcher Slimes — speakers: Namil Tanna
 - 2024-02-05 — S5 | 297: SCI: Sugar Crime Investigation
-- 2024-01-29 — S5 | 296: Jacket the Giant Slayer
+- 2024-01-29 — S5 | 296: Jacket the Giant Slayer — speakers: Cosmic Crit, Mountain Eel
 - 2024-01-22 — S5 | 295: My Fishfair Lady — speakers: Founding Five
-- 2024-01-15 — S5 | 294: Wallace & Grommin — speakers: Haltharia Grommin
+- 2024-01-15 — S5 | 294: Wallace & Grommin
 - 2024-01-08 — S5 | 293: No Country for Old Robots — speakers: Redacted below, security bots
-- 2024-01-01 — Starfinder 2E Playtest Critmas Special Pt. 2 — speakers: Jenny Jarzabski
-- 2023-12-25 — Starfinder 2E Playtest Critmas Special Pt. 1 — speakers: Jenny Jarzabski, Jenny GMs
-- 2023-12-18 — S5 | 292: Mission: Uncrossable
+- 2024-01-01 — Starfinder 2E Playtest Critmas Special Pt. 2 — speakers: Playtest Critmas Special Pt
+- 2023-12-25 — Starfinder 2E Playtest Critmas Special Pt. 1 — speakers: Jenny Jarzabski
+- 2023-12-18 — S5 | 292: Mission: Uncrossable — speakers: Founding Five
 - 2023-12-11 — S5 | 291: It Swallows — speakers: Founding Five
-- 2023-12-04 — S5 | 290: Die Another Diatha
+- 2023-12-04 — S5 | 290: Die Another Diatha — speakers: Founding Five
 - 2023-11-27 — S5 | 289: Cave the Last Dance
 - 2023-11-20 — S5 | 288: The Fox and the Flithounds
-- 2023-11-13 — S5 | 287: The Bad News Stag Bears — speakers: Bears Get, Cosmic Crit, Founding Five
+- 2023-11-13 — S5 | 287: The Bad News Stag Bears — speakers: Bears Get, Cosmic Crit
 - 2023-11-06 — S5 | 286: Married… With Quicksand
 - 2023-10-30 — Halloween 2023 | Part 2: “Killer Undead from Drift Space”
 - 2023-10-23 — Halloween 2023 | Part 1: “Baldur’s Third Gate”
@@ -8727,17 +8752,17 @@
 - 2023-10-02 — S5 | 283: Labs Death + Robots — speakers: Labs Death Robots
 - 2023-09-25 — S5 | 282: Teenage Mutant Mole-Beetles — speakers: Teenage Mutant Mole, Beetles Though, Radiation Sickness
 - 2023-09-18 — S5 | 281: Who Framed Radiation Rabbit — speakers: Who Framed Radiation Rabbit
-- 2023-09-11 — S5 | 280: The Berenstag Bears — speakers: Paizo Tyler, Ixtangi Nanocyte Myles, Brenneri Soldier Rebecca
+- 2023-09-11 — S5 | 280: The Berenstag Bears
 - 2023-09-04 — S5 | 279: One Cult of the Dead — speakers: One Cult, Dead Cult
-- 2023-08-28 — S5 | 278: The Veridian President — speakers: Thurston Hillman, Jessica Catalan, Myles Seth
+- 2023-08-28 — S5 | 278: The Veridian President
 - 2023-08-21 — S5 | 277: Mock the Vote
 - 2023-08-14 — S5 | 276: Mole-Beetlejuice — speakers: Mole Beetles
 - 2023-08-07 — S5 | 275: Along Came a Spider-Goat — speakers: Along Came, Goat Spider Goats
 - 2023-07-31 — S5 | 274: 2 Vast 2 Colonies
-- 2023-07-24 — S5 | 273: Better Off Undead — speakers: Better Off Undead Still, Balco Unctar
+- 2023-07-24 — S5 | 273: Better Off Undead — speakers: Better Off Undead Still
 - 2023-07-17 — S5 | 272: Asher vs. Evil Undead — speakers: Evil Undead
 - 2023-07-10 — S5 | 271: Log and Toad
-- 2023-07-03 — S5 | 270: Scrappy Days
+- 2023-07-03 — S5 | 270: Scrappy Days — speakers: Scrappy Days
 - 2023-06-26 — S5 | 269: Spark Tank — speakers: Spark Tank Join Cosmic
 - 2023-06-19 — S5 | 268: Slugrats
 - 2023-06-12 — S5 | 267: Eastbound and Downtime — speakers: Downtime Taking
@@ -8748,28 +8773,28 @@
 - 2023-05-08 — S5 | 262.2: Dawn of the Planet of the Crits — speakers: Crits Listen
 - 2023-05-01 — S5 | 262.1: Dawn of the Planet of the Crits — speakers: Cosmic Crit
 - 2023-04-24 — Star Trek Adventures: A Star Beyond the Stars | 6 — speakers: Trek Adventures
-- 2023-04-21 — Crittercon 6 Keynote: Thurston Hillman Strikes Back — speakers: Thurston Hillman Strikes Back, Thurston Hillman
+- 2023-04-21 — Crittercon 6 Keynote: Thurston Hillman Strikes Back — speakers: Thurston Hillman Strikes Back
 - 2023-04-17 — Star Trek Adventures: A Star Beyond the Stars | 5 — speakers: Trek Adventures
 - 2023-04-10 — Star Trek Adventures: A Star Beyond the Stars | 4 — speakers: Trek Adventures
 - 2023-04-03 — Star Trek Adventures: A Star Beyond the Stars | 3 — speakers: Trek Adventures
 - 2023-03-27 — Star Trek Adventures: A Star Beyond the Stars | 2 — speakers: Trek Adventures
 - 2023-03-20 — Star Trek Adventures: A Star Beyond the Stars | 1 — speakers: Trek Adventures
-- 2023-03-13 — S4 | 261: Are You Afraid of the Ark?
-- 2023-03-06 — S4 | 260: Sivv Me Liberty, or Sivv Me Death
-- 2023-02-27 — S4 | 259: Something’s Gotta Sivv
-- 2023-02-20 — S4 | 258: Freaky Fifthday
-- 2023-02-13 — S4 | 257: Groundhog Fey
-- 2023-02-06 — S4 | 256: Triune Knight — speakers: every corner
+- 2023-03-13 — S4 | 261: Are You Afraid of the Ark? — speakers: Cosmic Crit, Devastation Ark
+- 2023-03-06 — S4 | 260: Sivv Me Liberty, or Sivv Me Death — speakers: Sivv Me Liberty, Devastation Ark, Cosmic Crit
+- 2023-02-27 — S4 | 259: Something’s Gotta Sivv — speakers: Cosmic Crit
+- 2023-02-20 — S4 | 258: Freaky Fifthday — speakers: Cosmic Crit
+- 2023-02-13 — S4 | 257: Groundhog Fey — speakers: Cosmic Crit
+- 2023-02-06 — S4 | 256: Triune Knight — speakers: Cosmic Crit
 - 2023-01-30 — S4 | 255: The Price is Hardlight
 - 2023-01-23 — S4 | 254: As Seen on AI
-- 2023-01-16 — S4 | 253: You Only Sivv Twice — speakers: Sivv Warmasters
+- 2023-01-16 — S4 | 253: You Only Sivv Twice — speakers: Cosmic Crit
 - 2023-01-09 — S4 | 252: Fight at the Museum — speakers: Ark Prime
 - 2023-01-02 — S4 | 251: Mello Xiello — speakers: Mello Xiello
 - 2022-12-26 — S4 | 250: A Critmas Sporey
 - 2022-12-19 — S4 | 249: Pretty Fly For a Frujai
 - 2022-12-12 — S4 | 248: Family Fungi — speakers: Ark Prime
-- 2022-12-05 — S4 | 247: Sailor Moon Giant
-- 2022-11-28 — S4 | 246: Degenerator Nights — speakers: Degenerator Nights Desperate, Degenerator Rally
+- 2022-12-05 — S4 | 247: Sailor Moon Giant — speakers: Drift Rider
+- 2022-11-28 — S4 | 246: Degenerator Nights — speakers: Degenerator Nights Desperate
 - 2022-11-21 — S4 | 245: Crit’s a Wonderful Life — speakers: Wonderful Life Still
 - 2022-11-14 — S4 | 244: The Squids in the Hall
 - 2022-11-07 — S4 | 243: Sivv or Let Die
@@ -8782,8 +8807,8 @@
 - 2022-09-19 — S4 | 238: Dancing With the Starstone
 - 2022-09-12 — S4 | 237: Final Disintegration
 - 2022-09-05 — S4 | 236: Doctor Blue
-- 2022-08-29 — S4 | 235: The Red Badge of Entanglement — speakers: Absalom Station
-- 2022-08-22 — S4 | 234: Wuthering Fights
+- 2022-08-29 — S4 | 235: The Red Badge of Entanglement
+- 2022-08-22 — S4 | 234: Wuthering Fights — speakers: Starstone Defenders
 - 2022-08-15 — S4 | 233: Sense & Suggestability — speakers: Starstone Defenders
 - 2022-08-08 — S4 | 232: The Thing From Another Time
 - 2022-08-01 — S4 | 231: The Sword in the Starstone — speakers: Absalom Station
@@ -8791,18 +8816,18 @@
 - 2022-07-18 — S4 | 229: Troll Calibur — speakers: Troll Calibur, Downlow Square
 - 2022-07-11 — S4 | 228: How to Persuade Your Dragonkin
 - 2022-07-04 — S4 | 227: The Mob Squad — speakers: Drift Rider
-- 2022-06-27 — S4 | 226: The Floating Brain That Wouldn’t Die
-- 2022-06-20 — S4 | 225: 21:2 Jump Street
+- 2022-06-27 — S4 | 226: The Floating Brain That Wouldn’t Die — speakers: Die Melee, Drift Rider
+- 2022-06-20 — S4 | 225: 21:2 Jump Street — speakers: Gardenia District
 - 2022-06-13 — S4 | 224: Midnight in the Gardenia District of Good and Evil — speakers: Gardenia District, Absalom Station
-- 2022-06-06 — S4 | 223: Parks and Ruination — speakers: Absalom Station
-- 2022-05-30 — S4 | 222: The Rat Pact — speakers: Drift Rider, Pact Council Directorate, Arc Prime
+- 2022-06-06 — S4 | 223: Parks and Ruination
+- 2022-05-30 — S4 | 222: The Rat Pact — speakers: Drift Rider, Pact Council Directorate
 - 2022-05-23 — x19b: The Cantina Job, pt. 2
-- 2022-05-16 — x19a: The Cantina Job, pt. 1 — speakers: During Crittercon, Cosmic Crit, Doctors Without Borders
-- 2022-05-09 — S4 | 221: The Beverly Hibbillies — speakers: Absalom Station, Pact Space
+- 2022-05-16 — x19a: The Cantina Job, pt. 1 — speakers: During Crittercon, Cosmic Crit
+- 2022-05-09 — S4 | 221: The Beverly Hibbillies — speakers: Absalom St
 - 2022-05-02 — S4 | 220: RoboDrop — speakers: Devastation Ark
-- 2022-04-30 — x18: Crittercon 5 Kick-off — speakers: Join Patrick, Linda Zayas-Palmer, Jessica Catalan
+- 2022-04-30 — x18: Crittercon 5 Kick-off — speakers: Join Patrick
 - 2022-04-25 — S4 | 219: Rune
-- 2022-04-18 — S4 | 218: Daemon Slayer — speakers: Daemon Slayer, Linda Zayas-Palmer, Manifold Host
+- 2022-04-18 — S4 | 218: Daemon Slayer — speakers: Daemon Slayer
 - 2022-04-11 — S4 | 217: Color Out of Drift Space — speakers: Color Out, Drift Space Strange
 - 2022-04-04 — S4 | 216: The Return of the Sting — speakers: Drift Rider
 - 2022-03-28 — S4 | 215: Eternal Sunshine of the Spotless Exocortex — speakers: Eternal Sunshine, Spotless Exocortex Deep, Drift Rider
@@ -8811,18 +8836,18 @@
 - 2022-03-07 — S4 | 212: Just Chute Me! — speakers: Just Chute Me, Spiral Tower
 - 2022-02-28 — S4 | 211: The Rolling Dead — speakers: Spiral Tower
 - 2022-02-21 — S4 | 210: Spiral Tower — speakers: Spiral Tower After
-- 2022-02-14 — S4 | 209: The Girl Who Leapt at Slime
-- 2022-02-07 — x17: Gnak & Rami’s Corporate Adventure — speakers: Alyndra Vallis, Lashunta Solarian Tyler, Edrass Vaaranas, Vesk Soldier Drew, Gnak Feldspar, Rami Quinn-Darr, Technomancer Patrick
+- 2022-02-14 — S4 | 209: The Girl Who Leapt at Slime — speakers: Slime Well, Drift Rider
+- 2022-02-07 — x17: Gnak & Rami’s Corporate Adventure — speakers: Drift Rider
 - 2022-01-31 — S4 | 208: Romancing the Drone
 - 2022-01-24 — S4 | 207: Quantum Creep
 - 2022-01-17 — S4 | 206: Rumble in the Pronx — speakers: Drift Rider
-- 2022-01-10 — S4 | 205: Boogie Nanites — speakers: Boogie Nanites, Alyndra Vallis, Lashunta Solarian Tyler, Edrass Vaaranas, Vesk Soldier Drew, Gnak Feldspar, Rami Quinn-Darr
+- 2022-01-10 — S4 | 205: Boogie Nanites — speakers: Boogie Nanites
 - 2022-01-03 — S4 | 204: A Farewell to Armor
 - 2021-12-25 — x16: Critmas Special 2021: “How the Genie Stole Critmas” — speakers: Critmas Special, Genie Stole Critmas, Cosmic Crit, Holiday Special
 - 2021-12-20 — S4 | 203: Ramiplicity
 - 2021-12-13 — S4 | 202: Chopping Maul — speakers: Chopping Maul
 - 2021-12-06 — S4 | 201: The Legend of Creepy Holos — speakers: Snowdrop Village
-- 2021-11-29 — S4 | 200: The Return of the Drift Rider
+- 2021-11-29 — S4 | 200: The Return of the Drift Rider — speakers: Cosmic Crit, Drift Rider
 - 2021-11-22 — Junker’s Delight | 10: Requiem for a Junker — speakers: Junker’s Delight
 - 2021-11-15 — Junker’s Delight | 9: Defense of the Stellar Flare — speakers: Junker’s Delight
 - 2021-11-08 — Junker’s Delight | 8: Starship of the Dead — speakers: Junker’s Delight
@@ -8833,14 +8858,14 @@
 - 2021-10-04 — Junker’s Delight | 3: The Thasteron Khefak — speakers: Junker’s Delight
 - 2021-09-27 — Junker’s Delight | 2: The Search for Vari-13 — speakers: Junker’s Delight
 - 2021-09-20 — Junker’s Delight | 1: Arrival at Khefak Depot — speakers: Junker’s Delight
-- 2021-09-13 — S3 | Recap: Looking Back at Attack of the Swarm! — speakers: Devastation Ark
-- 2021-09-06 — S3 | 199: A Bug’s Death
+- 2021-09-13 — S3 | Recap: Looking Back at Attack of the Swarm! — speakers: Looking Back, Cosmic Crit
+- 2021-09-06 — S3 | 199: A Bug’s Death — speakers: Midnight Squad
 - 2021-08-30 — S3 | 198: God-host in the Shell
 - 2021-08-23 — S3 | 197: The Confusionist
 - 2021-08-16 — S3 | 196: Frankie Say Hylax — speakers: Frankie Say Hylax
 - 2021-08-09 — S3 | 195: Sting of the Hill
 - 2021-08-02 — S3 | 194: School of Shock — speakers: Shock Midnight Squad
-- 2021-07-26 — S3 | 193: Space Dam
+- 2021-07-26 — S3 | 193: Space Dam — speakers: Space Dam Midnight Squad
 - 2021-07-19 — S3 | 192: Sunder the Dome — speakers: Hoaldi Dome
 - 2021-07-12 — S3 | 191: No Slime to Die — speakers: No Slime, Die Midnight Squad, Hoaldi Dome
 - 2021-07-05 — S3 | 190: Top Stun — speakers: Top Stun Davaasho, Midnight Squad
@@ -8848,18 +8873,18 @@
 - 2021-06-21 — Battle for Whimsy World Part 1, feat. Jason Keeley — speakers: Jason Keeley
 - 2021-06-14 — S3 | 189: Psychovox — speakers: Psychovox Midnight Squad
 - 2021-06-07 — S3 | 188: Rogue House — speakers: Rogue House Meanwhile
-- 2021-05-31 — S3 | 187: Hover, Fully Loaded — speakers: Cosmic Crittermanders
+- 2021-05-31 — S3 | 187: Hover, Fully Loaded
 - 2021-05-24 — S3 | 186: The Magnificent Evan
 - 2021-05-17 — S3 | 185: Split Party of Five
 - 2021-05-10 — S3 | 184: The Thresh Prince of Brinnoa
 - 2021-05-03 — S3 | 183: Starport Troopers
 - 2021-04-26 — S3 | 182: Fleet Fighter II
-- 2021-04-23 — Crittercon 4 Kick-off with Jenny Jarzabski — speakers: Jenny Jarzabski
+- 2021-04-23 — Crittercon 4 Kick-off with Jenny Jarzabski — speakers: Jenny Jarzabski, Paizo Starfinder
 - 2021-04-19 — S3 | 181: Thoraxes & Allies
 - 2021-04-12 — S3 | 180: System of a Crown — speakers: Midnight Squad
 - 2021-04-05 — S3 | 179: For Those About to Fight Rocks — speakers: Fight Rocks Midnight Squad, Living Earths
 - 2021-03-29 — S3 | 178: The Hills Have Flies — speakers: Midnight Squad
-- 2021-03-22 — S3 | 177: Avatari — speakers: Cosmic Crittermanders
+- 2021-03-22 — S3 | 177: Avatari
 - 2021-03-15 — S3 | 176: Independence’s Day — speakers: Day Midnight Squad
 - 2021-03-08 — S3 | 175: Rubble Jeopardy! — speakers: Midnight Squad
 - 2021-03-01 — S3 | 174: Dirty Dreadlancing — speakers: Midnight Squad, Swarm Dreadlancer
@@ -8872,7 +8897,7 @@
 - 2021-01-11 — S3 | 167: Fifty Shades of Grey Sand — speakers: Midnight Squad
 - 2021-01-04 — S3 | 166: Dissolved Mysteries
 - 2020-12-28 — S3 | 165: Haan 9 From Outer Space
-- 2020-12-21 — x15: Critmas Special 2020: Rhymecop
+- 2020-12-21 — x15: Critmas Special 2020: Rhymecop — speakers: more sk
 - 2020-12-14 — S3 | 164: Herds of Prey — speakers: Prey Midnight Squad
 - 2020-12-07 — S3 | 163: Nuar and Peace
 - 2020-11-30 — S3 | 162: Speaking Rainbow — speakers: Midnight Squad
@@ -8889,18 +8914,18 @@
 - 2020-09-14 — S3 | 151: Ghosted Writer — speakers: Ghosted Writer Zessh University, Midnight Squad
 - 2020-09-07 — S3 | 150: The Absent Mindreapered Professor — speakers: Midnight Squad, Zessh University
 - 2020-08-31 — S3 | 149: Wet Hot Illemchuuva Summer — speakers: Midnight Squad
-- 2020-08-24 — S3 | 148: Masters of the University
-- 2020-08-17 — x14: Mighty Mecha Playtest Starfinders
+- 2020-08-24 — S3 | 148: Masters of the University — speakers: Clade Company
+- 2020-08-17 — x14: Mighty Mecha Playtest Starfinders — speakers: Mighty Mecha Playtest Starfinders, Mech Rules
 - 2020-08-10 — S3 | 147: Shootin’ in the Brain
 - 2020-08-03 — S3 | 146: The Chronicles of Acidic — speakers: Acidic Midnight Squad, Even Zinnia
 - 2020-07-27 — S3 | 145: Depravedheart — speakers: Clade Company
-- 2020-07-20 — S3 | 144: 101 Dredgers
+- 2020-07-20 — S3 | 144: 101 Dredgers — speakers: Dredgers Midnight Squad
 - 2020-07-13 — S3 | 143: Licensed to Illemchuuva
 - 2020-07-06 — S3 | 142: The Apari Trap
 - 2020-07-03 — Ahoy, ye mateys: Announcing Our New Pirate-y Pathfinder 2E Podcast
 - 2020-06-29 — S3 | 141: The Old Man and the Seawyrm — speakers: Seawyrm Midnight Squad
 - 2020-06-22 — S3 | 140: Little Cave of Horrors — speakers: Little Cave, Horrors Midnight Squad, Sister Spark
-- 2020-06-15 — S3 | 139: Sister Tracked — speakers: Sister Spark, Midnight Squad
+- 2020-06-15 — S3 | 139: Sister Tracked — speakers: Sister Spark
 - 2020-06-08 — S3 | 138: The Reckoners’ Club — speakers: Sister Spark
 - 2020-06-01 — S3 | 137: Echo7 Killed the Radio Star — speakers: New Grakka
 - 2020-05-25 — S3 | 136: A Song of Mice and Fire
@@ -8909,7 +8934,7 @@
 - 2020-05-04 — S3 | 133: Loachwurt & Glitch — speakers: Glitch Perplexed
 - 2020-04-27 — S3 | 132: Sabotage Squad — speakers: Midnight Squad
 - 2020-04-20 — S3 | 131: Breath of the Terminus Wild — speakers: Terminus Wild
-- 2020-04-13 — S3 | 130: Full Retreat, No Surrender
+- 2020-04-13 — S3 | 130: Full Retreat, No Surrender — speakers: Full Retreat
 - 2020-04-06 — S3 | 129: Insects and the City
 - 2020-03-30 — S3 | 128: Convecyte 451
 - 2020-03-23 — S3 | 127: Hylax Headroom
@@ -8922,7 +8947,7 @@
 - 2020-02-03 — S3 | 120: Fatigue of Legends
 - 2020-01-27 — S3 | 119: Band of Brinnoa
 - 2020-01-20 — S3 | 118: Doomed Patrol
-- 2020-01-16 — S3 | 117b: Season 3 Character Deep-dive — speakers: Paizo Adventure Path
+- 2020-01-16 — S3 | 117b: Season 3 Character Deep-dive — speakers: Character Deep, Cosmic Crit
 - 2020-01-13 — S3 | 117: Inglourious Pronkers — speakers: Inglourious Pronkers Meet, Suskillon Defense Force
 - 2020-01-08 — S1.5 | Drift Rider Special #2: Drift Rock Lobster — speakers: Drift Rider
 - 2020-01-06 — S1.5 | Drift Rider Special #1: Apocalypse Nor — speakers: Drift Rider
@@ -8933,9 +8958,9 @@
 - 2019-12-02 — S2 | 113: Gone in 6 Seconds — speakers: Seconds Bumfuzzle
 - 2019-11-25 — S2 | 112: You Don’t Mess With the Zolan
 - 2019-11-18 — S2 | 111: Dazed and Defused — speakers: Defused Evandrian
-- 2019-11-11 — Cosmic Crit & Syrinscape Present Steel Talon’s Lair
-- 2019-11-11 — S2 | 110: Portal Kombat — speakers: Gray Aliens
-- 2019-11-04 — S2 | 109: Hi, Robots — speakers: Aeon Throne, Cosmic Crittermanders
+- 2019-11-11 — Cosmic Crit & Syrinscape Present Steel Talon’s Lair — speakers: Cosmic Crit, Syrinscape Present Steel Talon, Lair Syrinscape, Starfinder Beginner
+- 2019-11-11 — S2 | 110: Portal Kombat — speakers: Bend Travel Lab
+- 2019-11-04 — S2 | 109: Hi, Robots — speakers: Aeon Throne
 - 2019-10-30 — x12: Slowpiercer – Halloween 2019 Special Episode
 - 2019-10-28 — S2 | 108: How to Get Away With Mrrgulbr
 - 2019-10-21 — S2 | 107: Sleepless in Aurelos — speakers: Aurelos Exhausted
@@ -8943,7 +8968,7 @@
 - 2019-10-07 — S2 | 105: Crouching Goblin, Hidden Azlanti — speakers: Hidden Azlanti, Aurelos Station
 - 2019-09-30 — S2 | 104: A Klokworx Orange — speakers: Sardat Ulavestra
 - 2019-09-23 — S2 | 103: Slugly Betty
-- 2019-09-16 — S2 | 102: Close Encounters With the Third Eye — speakers: Crit Bit, Eleanor Ferron
+- 2019-09-16 — S2 | 102: Close Encounters With the Third Eye
 - 2019-09-09 — S2 | 101: The Spacedock Saints — speakers: Outpost Zed
 - 2019-09-02 — S2 | 100: Kick Aft — speakers: Kick Aft
 - 2019-08-26 — S2 | 099: Exit Machina
@@ -8956,44 +8981,44 @@
 - 2019-07-12 — x11: Starfinder 101 & an Interview with Ron Lundeen — speakers: Ron Lundeen
 - 2019-07-08 — S2 | 092: Chutes and Spiders — speakers: Outpost Zed
 - 2019-07-01 — S2 | 091: Zed or Alive — speakers: Star Empire
-- 2019-06-24 — S2 | 090: Once Upon a Time in Dalesko — speakers: Dalesko Settlement
+- 2019-06-24 — S2 | 090: Once Upon a Time in Dalesko
 - 2019-06-17 — S2 | 089: Breaking Barazad
 - 2019-06-10 — S2 | 088: Crit Me With Your Best Shot
-- 2019-06-03 — S2 | 087: Brawl-E — speakers: worn down
+- 2019-06-03 — S2 | 087: Brawl-E
 - 2019-05-27 — S2 | 086: Electrovore Boogaloo — speakers: Royal Venture
-- 2019-05-20 — S2 | 085: The Royal Venture Bros. — speakers: Royal Venture
+- 2019-05-20 — S2 | 085: The Royal Venture Bros.
 - 2019-05-13 — S2 | 084: Technomancing With Myself
 - 2019-05-06 — S2 | 083: Assault on Garrison 13
-- 2019-04-29 — S2 | 082: A Hobgar Named Desire
+- 2019-04-29 — S2 | 082: A Hobgar Named Desire — speakers: Hobgar Named Desire Resisting, Dalesko Settlement
 - 2019-04-22 — S2 | 081: Tombdrone
 - 2019-04-15 — S2 | 080: Waterwhirled — speakers: Goraya Li
 - 2019-04-08 — S2 | 079: A for Aibretta
 - 2019-04-01 — S2 | 078: Of Mist and Men
-- 2019-03-25 — S2 | 077: Mist of Fury — speakers: Madelon's Landing
+- 2019-03-25 — S2 | 077: Mist of Fury
 - 2019-03-18 — S2 | 076: Cosmic Crit and the Order of the Phoenix’s Respite
-- 2019-03-11 — S2 | 075: The Unusual Suspects — speakers: Drift Rider
+- 2019-03-11 — S2 | 075: The Unusual Suspects
 - 2019-03-04 — S2 | 074: Cosmic Crit: The Next Generation — speakers: Aeon Throne
-- 2019-02-25 — x10: Flip & Burn: Looking Back on Season 1 — speakers: Dead Suns
-- 2019-02-18 — 073: So Long and Thanks for All the Crits
+- 2019-02-25 — x10: Flip & Burn: Looking Back on Season 1
+- 2019-02-18 — 073: So Long and Thanks for All the Crits — speakers: So Long, Corpse Fleet, Stellar Degenerator
 - 2019-02-11 — 072: Exit Through the Crit Shop — speakers: Exit Through
 - 2019-02-04 — 071: Spacewalls
 - 2019-01-28 — 070: Guns N’ecrosis
 - 2019-01-21 — 069: Raiders of the Loot Ark — speakers: Loot Ark After
-- 2019-01-14 — 068: The Ellicoth Company — speakers: Corpse Fleet
+- 2019-01-14 — 068: The Ellicoth Company
 - 2019-01-07 — 067: Murder on the Corpse Express
 - 2018-12-31 — 066: Attack of the Cloaked
 - 2018-12-24 — x09: Hit Point Break, Cosmic Critmas Special 2018 — speakers: Hit Point Break
 - 2018-12-17 — 065: The Empire of Bones Strikes Back
 - 2018-12-10 — 064: Scruffy-Looking Gnak-Hurter — speakers: Looking Gnak
-- 2018-12-03 — 063: Fly Casual — speakers: Cosmic Crittermanders
+- 2018-12-03 — 063: Fly Casual
 - 2018-11-26 — 062: Salute Your Corpse
 - 2018-11-19 — 061: AAHHH!!! Real Flashbacks — speakers: Real Flashbacks
-- 2018-11-12 — 060: Legends of the Hidden Gateway — speakers: Cosmic Crittermanders
+- 2018-11-12 — 060: Legends of the Hidden Gateway
 - 2018-11-05 — 059: Null-9 Explains It All
 - 2018-10-31 — x08: Halloween 2018 – Monster Pod
 - 2018-10-29 — 058: The Cabinets of Dr. Kishalee
 - 2018-10-22 — 057: Carnival of Rolls
-- 2018-10-15 — 056: Edrassferatu — speakers: Stellar Degenerator
+- 2018-10-15 — 056: Edrassferatu
 - 2018-10-08 — 055: Creature From the Back Room — speakers: Back Room Having
 - 2018-10-01 — 054: House of Hax — speakers: Hax Challenged
 - 2018-09-24 — 053: The Game of Strife
@@ -9004,58 +9029,58 @@
 - 2018-08-20 — 048: ANDIS’s Game
 - 2018-08-13 — x07b: Help-a-Ton — speakers: Skitter Shot
 - 2018-08-06 — x07a: You Just Got Help’d
-- 2018-07-30 — 047: The Andis Family — speakers: Android Mechanic
+- 2018-07-30 — 047: The Andis Family — speakers: Android Mech
 - 2018-07-23 — 046: Big Trouble With Little Xavra — speakers: Huntmaster Xavra
 - 2018-07-16 — 045: The Fifth Elemental — speakers: Huntmaster Xavra
-- 2018-07-09 — 044: Vallis in Wonderland — speakers: Huntmaster Zavra, Dan Peck
+- 2018-07-09 — 044: Vallis in Wonderland — speakers: Huntmaster Zavra
 - 2018-07-02 — 043: Mad Moss: Fungi Room — speakers: Fungi Room
 - 2018-06-25 — 042: Crisis on Floating Islands — speakers: Chief Hoyfeq
 - 2018-06-18 — 041: Kish Man … Kish Monster! — speakers: Kish Man, Kish Monster
 - 2018-06-11 — 040: The Hard Light Goodbye
 - 2018-06-04 — 039: Docking Bays of Future Past — speakers: Docking Bays, Future Past Arriving
 - 2018-05-28 — 038: Aeon Nemesis Evangelion — speakers: Aeon Nemesis Evangelion
-- 2018-05-21 — x06: Cowboy Recap Feat. Amanda Hamon Kunz — speakers: Amanda Hamon Kunz, Adventure Path, Managing Developer, Splintered Worlds
-- 2018-05-14 — 037: Rami 1/2 — speakers: Skullcap Gorge
+- 2018-05-21 — x06: Cowboy Recap Feat. Amanda Hamon Kunz — speakers: Amanda Hamon Kunz, Adventure Path
+- 2018-05-14 — 037: Rami 1/2
 - 2018-05-07 — 036: My Neighbor Marrowblight
-- 2018-04-30 — 035: PhoeGnak Wright: Space Attorney — speakers: PhoeGnak Wright, Waneda Trux
+- 2018-04-30 — 035: PhoeGnak Wright: Space Attorney — speakers: PhoeGnak Wright
 - 2018-04-23 — 034: MonsterUnknown’s Splattergrounds — speakers: Starfinder Society
-- 2018-04-20 — x05: Besmara’s Bounty (Called Shot Crossover) — speakers: GM Patrick
+- 2018-04-20 — x05: Besmara’s Bounty (Called Shot Crossover) — speakers: Called Shot Crossover, Rusty Rivet
 - 2018-04-16 — 033: Star Eox
 - 2018-04-09 — 032: Cultistvania — speakers: Star Eater
-- 2018-04-01 — x04: Pronkfinder — speakers: April Fools
+- 2018-04-01 — x04: Pronkfinder
 - 2018-03-26 — 031: Skreesire Hills K9204 — speakers: Skreesire Hills
 - 2018-03-19 — 030: Game of Bones — speakers: Rusty Rivet
 - 2018-03-12 — 029: Rami’s Vice
-- 2018-03-05 — 028: It’s Always Sunny in Qabarat
+- 2018-03-05 — 028: It’s Always Sunny in Qabarat — speakers: Always Sunny, Qabarat Following
 - 2018-02-26 — 027: The Shape of Slaughter
 - 2018-02-19 — 026: Accosted in Translation — speakers: Translation Arriving
 - 2018-02-12 — 025: Slay Anything
 - 2018-02-05 — 024: How to Lose a Sniper in 10 Rounds
 - 2018-01-29 — 023: Ksarik Park — speakers: Ksarik Park Freshly
-- 2018-01-22 — 022: Kaukariki-Tikki-Tavi — speakers: Crit Bits
+- 2018-01-22 — 022: Kaukariki-Tikki-Tavi
 - 2018-01-15 — 021: The Fault in Our Solstarni
-- 2018-01-08 — 020: Brain New World — speakers: Family Guy, Dan Peck
-- 2018-01-01 — 019: Girl With the Sidereal Tattoo — speakers: Absalom Station, Edrass Veraanas
-- 2017-12-24 — X03: Dice Hard, Cosmic Critmas Special 2017 — speakers: Thurston Thursty Hillman
-- 2017-12-18 — 018: Sunrise Maiden and the Infinite Radness — speakers: Pact Space
-- 2017-12-11 — 017: Capt Nash’s Haunted Ship Club Band — speakers: Rob McCreary
+- 2018-01-08 — 020: Brain New World — speakers: Brain New World Arriving
+- 2018-01-01 — 019: Girl With the Sidereal Tattoo — speakers: Absalom Station
+- 2017-12-24 — X03: Dice Hard, Cosmic Critmas Special 2017 — speakers: Dice Hard, Cosmic Critmas Special
+- 2017-12-18 — 018: Sunrise Maiden and the Infinite Radness — speakers: Sunrise Maiden, Absalom Station
+- 2017-12-11 — 017: Capt Nash’s Haunted Ship Club Band — speakers: Capt Nash, Haunted Ship Club Band, Drift Rock
 - 2017-12-04 — 016: Live After Void Death — speakers: Drift Rock
-- 2017-11-27 — 015: Drift Rock the Casbah — speakers: Darius Gilcrest, Alyndra Vallis
-- 2017-11-20 — 014: Straight Outta Acreon
+- 2017-11-27 — 015: Drift Rock the Casbah — speakers: Drift Rock
+- 2017-11-20 — 014: Straight Outta Acreon — speakers: Straight Outta Acreon All
 - 2017-11-13 — 013: No Rest for the Weakened — speakers: No Rest
 - 2017-11-06 — 012: Hakuna Akata — speakers: Hakuna Akata
-- 2017-11-04 — X02: Crit Stop: An Extra Life Game Day Special — speakers: side stories
+- 2017-11-04 — X02: Crit Stop: An Extra Life Game Day Special
 - 2017-10-30 — X01: Halloween Special: Tales from the Crit — speakers: Halloween Special, Crit Happy Halloween, Cosmic Crit
 - 2017-10-23 — 011: Parasital Activity — speakers: Parasital Activity After
-- 2017-10-16 — 010: A Nightmare on Helm Street — speakers: Helm Street Gnak, Astral Extractions
-- 2017-10-09 — 009: Night of the Living Diplomat — speakers: Jason Keeley
-- 2017-10-02 — 008: Cosmo Crit — speakers: Ferani Nendaz, Chex Mix
+- 2017-10-16 — 010: A Nightmare on Helm Street — speakers: Helm Street Gnak, Astral Extra
+- 2017-10-09 — 009: Night of the Living Diplomat — speakers: Living Diplomat All, Eoxian Embassy, Absalom Station
+- 2017-10-02 — 008: Cosmo Crit — speakers: Ferani Nendaz
 - 2017-09-25 — 007: Battle Service — speakers: Downside Kings, Fusion Queen
-- 2017-09-18 — 006: Dancing Kings — speakers: Jason Nelson
+- 2017-09-18 — 006: Dancing Kings — speakers: Dancing Kings Following
 - 2017-09-11 — 005: The Hardscrabble Connection
-- 2017-09-04 — 004: The Kreel Deal
-- 2017-08-28 — 003: Gobstopped — speakers: Gobstopped Following, Downside Kings, Starfinder Society
-- 2017-08-21 — 002: Opening Volley — speakers: Dead Suns Adventure Path, Starfinder Society
+- 2017-09-04 — 004: The Kreel Deal — speakers: Starfinder Society
+- 2017-08-28 — 003: Gobstopped — speakers: Gobstopped Following, Downside Kings
+- 2017-08-21 — 002: Opening Volley — speakers: Dead Suns Adventure Path
 - 2017-08-21 — 001: Space Hooligans
-- 2017-08-21 — 000: Meet the Players — speakers: tabletop RPGs
-- 2017-07-13 — Introducing Cosmic Crit, a Starfinder Actual Play Podcast — speakers: Introducing Cosmic Crit, Cosmic Crit, Actual Play, Starfinder Roleplaying Game
+- 2017-08-21 — 000: Meet the Players — speakers: Players Get, Cosmic Cr
+- 2017-07-13 — Introducing Cosmic Crit, a Starfinder Actual Play Podcast — speakers: Introducing Cosmic Crit, Cosmic Crit, Actual Play

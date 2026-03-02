@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-d-d-podcast`
 - source: `https://thedamageguild.com/feed/podcast/`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Mon, 16 Feb 2026 05:01:00 GMT`
+- fetched_at: `2026-03-02T07:17:37+00:00`
+- checked_at: `2026-03-02T07:17:37+00:00`
+- last_modified: `Mon, 02 Mar 2026 05:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Dungeons & Dragons 5E (5th Edition) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_party_logo.png",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-02T07:17:37+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -265,7 +265,7 @@
       "enclosure_length": "56214719",
       "itunes_duration": "58:33",
       "speakers": [
-        "Embran Caldera",
+        "Black Ops Having",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -769,6 +769,7 @@
       "enclosure_length": "54609257",
       "itunes_duration": "56:53",
       "speakers": [
+        "Black Tai",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1071,6 +1072,7 @@
       "enclosure_length": "57013710",
       "itunes_duration": "59:23",
       "speakers": [
+        "Rather Sworded Affair Alternate",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1160,6 +1162,8 @@
       "enclosure_length": "70562422",
       "itunes_duration": "1:13:30",
       "speakers": [
+        "Spell Me Down",
+        "River Before",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1404,6 +1408,8 @@
       "enclosure_length": "54698634",
       "itunes_duration": "56:59",
       "speakers": [
+        "No Chain",
+        "No Gain Moving",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1446,6 +1452,7 @@
       "enclosure_length": "58332372",
       "itunes_duration": "1:00:46",
       "speakers": [
+        "Fighting Kruth",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1491,6 +1498,7 @@
       "enclosure_length": "61007728",
       "itunes_duration": "1:03:33",
       "speakers": [
+        "Swarm There",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1581,6 +1589,7 @@
       "enclosure_length": "66371816",
       "itunes_duration": "1:09:08",
       "speakers": [
+        "Barely Know",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1645,6 +1654,7 @@
       "enclosure_length": "63339941",
       "itunes_duration": "1:05:59",
       "speakers": [
+        "All Evil There",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1781,6 +1791,7 @@
       "enclosure_length": "59274870",
       "itunes_duration": "1:01:45",
       "speakers": [
+        "Gnomeward Bound",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1935,6 +1946,7 @@
       "enclosure_length": "60824662",
       "itunes_duration": "1:03:21",
       "speakers": [
+        "Miner Threat After",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -1957,6 +1969,7 @@
       "enclosure_length": "59841622",
       "itunes_duration": "1:02:20",
       "speakers": [
+        "Il Dra",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2043,9 +2056,7 @@
       "enclosure_length": "62753627",
       "itunes_duration": "1:00:53",
       "speakers": [
-        "Will Azlo",
-        "Will Shabba",
-        "Will Stripey",
+        "Berth Seeing",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2175,7 +2186,8 @@
       "enclosure_length": "56905125",
       "itunes_duration": "54:48",
       "speakers": [
-        "enhanced musculature",
+        "All Ogre Now Freshly",
+        "Sapphire Sabre",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2197,6 +2209,8 @@
       "enclosure_length": "69900729",
       "itunes_duration": "1:08:20",
       "speakers": [
+        "Too Many Irons",
+        "Sapphire Believing",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2483,6 +2497,7 @@
       "enclosure_length": "77967342",
       "itunes_duration": "1:16:44",
       "speakers": [
+        "Temple Tantrum While",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2505,6 +2520,7 @@
       "enclosure_length": "71473092",
       "itunes_duration": "1:09:58",
       "speakers": [
+        "Scry Me",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2526,6 +2542,7 @@
       "enclosure_length": "74730666",
       "itunes_duration": "1:13:22",
       "speakers": [
+        "Love Me Tendrily Death",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2545,6 +2562,7 @@
       "enclosure_length": "77454924",
       "itunes_duration": "1:16:12",
       "speakers": [
+        "Koboldrums Drums",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2566,6 +2584,7 @@
       "enclosure_length": "73714607",
       "itunes_duration": "1:12:19",
       "speakers": [
+        "Making Obelisk",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2630,7 +2649,6 @@
       "enclosure_length": "71300893",
       "itunes_duration": "1:09:48",
       "speakers": [
-        "Glamorous Gallivanters",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2717,6 +2735,7 @@
       "enclosure_length": "65383845",
       "itunes_duration": "1:03:38",
       "speakers": [
+        "Terrible Thing",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -2894,6 +2913,7 @@
       "enclosure_length": "63531867",
       "itunes_duration": "1:01:42",
       "speakers": [
+        "Suture Old",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3198,7 +3218,6 @@
       "enclosure_length": "66752661",
       "itunes_duration": "1:05:03",
       "speakers": [
-        "Flughebii Phaeguv",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3221,9 +3240,6 @@
       "enclosure_length": "69445990",
       "itunes_duration": "1:07:52",
       "speakers": [
-        "Good Night",
-        "Quest Who",
-        "Sapphire Sabre",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3247,7 +3263,7 @@
       "enclosure_length": "66093121",
       "itunes_duration": "1:04:22",
       "speakers": [
-        "Elbret’s caravan",
+        "Natural Born Millers Having",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3270,7 +3286,7 @@
       "enclosure_length": "68013226",
       "itunes_duration": "1:06:22",
       "speakers": [
-        "harvest crop",
+        "Different Cultist",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3405,7 +3421,6 @@
       "itunes_duration": "57:02",
       "speakers": [
         "Posterior Motives Returning",
-        "Lobik Mine",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3450,7 +3465,7 @@
       "enclosure_length": "59456682",
       "itunes_duration": "1:01:56",
       "speakers": [
-        "Patient Zero",
+        "Than One After",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3537,6 +3552,7 @@
       "enclosure_length": "65407167",
       "itunes_duration": "1:08:08",
       "speakers": [
+        "Crow After",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3912,6 +3928,8 @@
       "enclosure_length": "67088616",
       "itunes_duration": "1:09:53",
       "speakers": [
+        "Curiosity Killed",
+        "Catoblepas Finding",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -3999,7 +4017,6 @@
       "enclosure_length": "58739046",
       "itunes_duration": "1:01:11",
       "speakers": [
-        "Rycenth Clouden",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -4066,7 +4083,7 @@
       "enclosure_length": "62583852",
       "itunes_duration": "1:05:11",
       "speakers": [
-        "feng shui",
+        "mixed results",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -4151,12 +4168,11 @@
       "enclosure_length": "62395771",
       "itunes_duration": "1:05:00",
       "speakers": [
-        "Shabba Daba’dei",
-        "Jay Staudt",
+        "Shabba Daba",
         "Sean Abrams",
-        "Azlo Tendertoe",
         "Thayne Bohman",
-        "Bryan Staudt"
+        "Bryan Staudt",
+        "Jay Staudt"
       ],
       "topics": [
         "half"
@@ -4174,7 +4190,7 @@
       "enclosure_length": "3722661",
       "itunes_duration": "3:53",
       "speakers": [
-        "collaborative storytelling",
+        "Edition Dungeons",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -4202,7 +4218,7 @@
 - 2024-04-29 — Episode 180 – Keep on Creepin’ On — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-04-15 — Episode 179 – Cult From a Different Cloth — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-04-01 — Episode 178 – Fort Night — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2024-03-18 — Episode 177 – Caldera of Duty: Black Ops — speakers: Embran Caldera, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2024-03-18 — Episode 177 – Caldera of Duty: Black Ops — speakers: Black Ops Having, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-03-04 — Episode 176 – Standing on the Boulders of Giants — speakers: Giants Crimson, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-02-19 — Episode 175 – Let It Snow, Let It Throw, Let It Glow — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-02-05 — Episode 174 – Scars and Stripes Forever — speakers: Stripes Forever, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4225,7 +4241,7 @@
 - 2023-06-12 — Episode 157 – Star of Stage and Screams — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2023-05-29 — Episode 156 – The Felmindar Initiative — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2023-05-15 — Episode 155 – Census and Sensibility — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2023-05-01 — Episode 154 – A Black Tai’ver Affair — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2023-05-01 — Episode 154 – A Black Tai’ver Affair — speakers: Black Tai, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2023-04-17 — Episode 153 – The Silence of the Hams — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2023-04-03 — Episode 152 – Now Web It! Now Web It Good! — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2023-03-20 — Episode 151 – Surrender-Bender — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4239,11 +4255,11 @@
 - 2022-11-28 — Episode 143 – A Trollsturbance in the Forest — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-11-14 — Episode 142 – Honey-Back Guarantee — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-10-31 — Episode 141 – Qua’is As Nice — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2022-10-17 — Episode 140 – A Rather Sworded Affair — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2022-10-17 — Episode 140 – A Rather Sworded Affair — speakers: Rather Sworded Affair Alternate, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-10-03 — Episode 139 – Meating Out the Spoils — speakers: Meating Out, Spoils Having, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-09-19 — Episode 138 – Just Gnoll With It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-09-05 — Episode 137 – Truth, Justice, and the Merengian Way — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2022-08-22 — Episode 136 – Spell Me Down the River — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2022-08-22 — Episode 136 – Spell Me Down the River — speakers: Spell Me Down, River Before, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-08-08 — Episode 135 – Res’dergaan With the Wind — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-07-25 — Episode 134 – Better Taif Than Sorry — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-07-11 — Episode 133 – Insane Crown Posse — speakers: Insane Crown Posse What, Sapphire Sabre, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4254,43 +4270,43 @@
 - 2022-05-02 — Episode 128 – Never Sawed It Coming — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-04-18 — Episode 127 – ‘Tis Better to Live Than to Bereave — speakers: Tis Better, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-04-04 — Episode 126 – Sunken Bridge is Spinning Round, My Poor Leggies — speakers: Sunken Bridge, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2022-03-21 — Episode 125 – No Chain, No Gain — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2022-03-21 — Episode 125 – No Chain, No Gain — speakers: No Chain, No Gain Moving, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-03-07 — Episode 124 – Don’t Maze Me, Bro! — speakers: Maze Me, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2022-02-21 — Episode 123 – Fighting Kruth and Nail — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2022-02-21 — Episode 123 – Fighting Kruth and Nail — speakers: Fighting Kruth, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-02-07 — Episode 122 – Hive Stream — speakers: Hive Stream, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2022-01-24 — Episode 121 – The Calm Before the Swarm — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2022-01-24 — Episode 121 – The Calm Before the Swarm — speakers: Swarm There, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2022-01-10 — Episode 120 – Grickrolled (Never Gonna Grick You Up) — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-12-27 — Episode 119 – Lives on the Lengthy Line — speakers: Lengthy Line Everyone, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-12-13 — Episode 118 – Sticky Stones May Break My Bones — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-11-29 — Episode 117 – Sewer? I Barely Know ‘er! — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-11-29 — Episode 117 – Sewer? I Barely Know ‘er! — speakers: Barely Know, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-11-15 — Episode 116 – As I Lay Scrying — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-11-01 — Episode 115 – Like a Quaggoth to a Flame — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-10-18 — Episode 114 – Money is the Loot of All Evil — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-10-18 — Episode 114 – Money is the Loot of All Evil — speakers: All Evil There, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-10-04 — Episode 113 – Smoke ‘Em if Ya Golem — speakers: Ya Golem, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-09-20 — Episode 112 – Gotta Patch ‘Em All! — speakers: Patch Em, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-09-06 — Episode 111 – Claws and Effect — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-08-23 — Episode 110 – Keepers Finders, Cheaper Signers — speakers: Keepers Finders, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-08-09 — Episode 109 – You Make Latrines Come True — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-07-26 — Episode 108 – Gnomeward Bound: The Incredible Merni — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-07-26 — Episode 108 – Gnomeward Bound: The Incredible Merni — speakers: Gnomeward Bound, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-07-12 — Episode 107 – Dazed and Suffused — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-06-28 — Episode 106 – Ear and Loathing in Crevasse Vegas — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-06-14 — Episode 105 – The Hills Have Thighs — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-05-31 — Episode 104 – Four ‘Core on the Floor — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-05-17 — Episode 103 – Baby, I Got Your Umber — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-05-03 — Episode 102 – Gettin’ Sticky Wit It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-04-19 — Episode 101 – Miner Threat — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-04-05 — Episode 100 – Slime After Slime — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-04-19 — Episode 101 – Miner Threat — speakers: Miner Threat After, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-04-05 — Episode 100 – Slime After Slime — speakers: Il Dra, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-03-22 — Episode 99 – To Err is Human; to Forge, Dwarven — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-03-08 — Episode 98 – A Quorum Decorum — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-02-22 — Episode 97 – Vintner Is Coming — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2021-02-08 — Episode 96 – Separated at Berth — speakers: Will Azlo, Will Shabba, Will Stripey, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2021-02-08 — Episode 96 – Separated at Berth — speakers: Berth Seeing, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-01-25 — Episode 95 – We Represent the Lollipop Guild — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2021-01-11 — Episode 94 – At the Oak of Midnight — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-12-28 — Episode 93 – Let’s Duel This! — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-12-14 — Episode 92 – Bunions and Brigands — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-11-30 — Episode 91 – Divide and Conch ‘er — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-11-16 — Episode 90 – It’s All Ogre Now — speakers: enhanced musculature, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-11-02 — Episode 89 – Too Many Irons in Sapphire — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-11-16 — Episode 90 – It’s All Ogre Now — speakers: All Ogre Now Freshly, Sapphire Sabre, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-11-02 — Episode 89 – Too Many Irons in Sapphire — speakers: Too Many Irons, Sapphire Believing, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-10-19 — Episode 88 – Just a Bagful of Sugar (Helps the Menacing Go Down) — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-10-05 — Episode 87 – Upside Down Town — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-09-21 — Episode 86 – A Mist Opportunity — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4303,18 +4319,18 @@
 - 2020-06-15 — Episode 79 – How to Sprain Your Wagon — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-06-01 — Episode 78 – Sting It to Wing It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-05-18 — Episode 77 – Spidey Cents — speakers: Spidey Cents What, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-05-04 — Episode 76 – Temple Tantrum — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-04-20 — Episode 75 – Scry Me A River — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-04-06 — Episode 74 – Love Me Tendrily — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-03-23 — Episode 73 – Down in the Koboldrums — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-03-09 — Episode 72 – Making Obelisk, Checking It Twice — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-05-04 — Episode 76 – Temple Tantrum — speakers: Temple Tantrum While, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-04-20 — Episode 75 – Scry Me A River — speakers: Scry Me, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-04-06 — Episode 74 – Love Me Tendrily — speakers: Love Me Tendrily Death, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-03-23 — Episode 73 – Down in the Koboldrums — speakers: Koboldrums Drums, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-03-09 — Episode 72 – Making Obelisk, Checking It Twice — speakers: Making Obelisk, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-02-24 — Episode 71 – We All Scream for the Triple-A Team — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-02-10 — Episode 70 – Steedy As She Goes — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2020-01-27 — Episode 69 – Chilly Con Carnies — speakers: Glamorous Gallivanters, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2020-01-27 — Episode 69 – Chilly Con Carnies — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2020-01-13 — Episode 68 – Separate But Squeakual — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-12-30 — Episode 67 – Cage of Consent — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-12-16 — Episode 66 – Gods’ Will Hunting — speakers: Temple Tour, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-12-02 — Episode 65 – A Shrine Is a Terrible Thing to Waste — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-12-02 — Episode 65 – A Shrine Is a Terrible Thing to Waste — speakers: Terrible Thing, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-11-18 — Episode 64 – Rat’s About the Size of It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-11-04 — Episode 63 – Pants Pants Devolution — speakers: Pants Pants Devolution Nagged, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-10-21 — Episode 62 – There’s Plenty More Wererat Came From — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4322,7 +4338,7 @@
 - 2019-09-23 — Episode 60 – It’s a Wonderful Knife — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-09-09 — Episode 59 – The Filth Dimension — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-08-26 — Episode 58 – Absence Makes the Heart Grow Bronzer — speakers: Grow Bronzer, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-08-12 — Episode 57 – Back to the Suture — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-08-12 — Episode 57 – Back to the Suture — speakers: Suture Old, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-07-29 — Episode 56 – Crouching Fighter, Hidden Halfling — speakers: Hidden Halfling, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-07-15 — Episode 55 – Resistance Is Feudal — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-07-01 — Episode 54 – The Fast and the Furriest — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4336,22 +4352,22 @@
 - 2019-03-11 — Episode 46 – I Can’t Stand It! I Know You’re Bandits! — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-02-25 — Episode 45 – All In Due Quartz — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2019-02-11 — Episode 44 – Some Like It Squat — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-01-28 — Episode 43 – No Holds Bard — speakers: Flughebii Phaeguv, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-01-21 — Episode 42 – A Good Night’s Quest — speakers: Good Night, Quest Who, Sapphire Sabre, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-01-14 — Episode 41 – Natural Born Millers — speakers: Elbret’s caravan, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2019-01-07 — Episode 40 – Now, That’s a Horde of a Different Cultist! — speakers: harvest crop, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-01-28 — Episode 43 – No Holds Bard — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-01-21 — Episode 42 – A Good Night’s Quest — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-01-14 — Episode 41 – Natural Born Millers — speakers: Natural Born Millers Having, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2019-01-07 — Episode 40 – Now, That’s a Horde of a Different Cultist! — speakers: Different Cultist, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-12-31 — Episode 39 – Whittle Me This — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-12-24 — Episode 38 – Walking On Ankhegshells — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-12-17 — Episode 37 – License to Skill — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-12-10 — Episode 36 – Satyr Prayers! — speakers: Satyr Prayers, Sapphire Sabre, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-12-03 — Episode 35 – The Vagabonds of Friendship — speakers: Friendship Without, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-11-26 — Episode 34 – Posterior Motives — speakers: Posterior Motives Returning, Lobik Mine, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-11-26 — Episode 34 – Posterior Motives — speakers: Posterior Motives Returning, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-11-19 — Episode 33 – It’s a Dog-Treat-Dog World — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-11-12 — Episode 32 – Two Heads Are Biter Than One — speakers: Patient Zero, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-11-12 — Episode 32 – Two Heads Are Biter Than One — speakers: Than One After, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-11-05 — Episode 31 – The Cave of Blunders — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-11-01 — Special Announcement — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-10-29 — Episode 30 – Look On the Blight Side — speakers: Blight Side Venturing, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-10-22 — Episode 29 – Eeny, Meeny, Miny, Crow — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-10-22 — Episode 29 – Eeny, Meeny, Miny, Crow — speakers: Crow After, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-10-15 — Episode 28 – The Hole Quest — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-10-08 — Episode 27 – Pit’s A Small World After All — speakers: Small World After All, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-10-01 — Episode 26 – Can’t Get You Outta My Mine — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -4368,16 +4384,16 @@
 - 2018-07-16 — Episode 15 – A Real Pain in the Deck — speakers: Real Pain, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-07-09 — Episode 14 – Crate Expectations — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-07-02 — Episode 13 – On Ranger Tides — speakers: Ranger Tides, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-06-25 — Episode 12 – Curiosity Killed the Catoblepas — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-06-25 — Episode 12 – Curiosity Killed the Catoblepas — speakers: Curiosity Killed, Catoblepas Finding, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-06-18 — Episode 11 – The Spy Who Nagged Me — speakers: Me Determined, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-06-11 — Episode 10 – Anchorman: The Legend of Captain Clapton — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-06-04 — Episode 9 – Net Neutralchemy — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-05-28 — Episode 8 – There’s No Plague Like Home — speakers: Rycenth Clouden, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-05-28 — Episode 8 – There’s No Plague Like Home — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-05-21 — Episode 7 – Come Well or High Water — speakers: Come Well, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-05-14 — Episode 6 – The Rope Less Traveled — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-05-07 — Episode 5 – Caught Between a Rock and a Bard Plays — speakers: feng shui, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-05-07 — Episode 5 – Caught Between a Rock and a Bard Plays — speakers: mixed results, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-04-30 — Episode 4 – Maintaining the Strathus Quo — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-04-23 — Episode 3 – Letwick and Let Die — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2018-04-16 — Episode 2 – An Unexpected Gurney — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2018-04-16 — Episode 1 – One and Two Half-Men — speakers: Shabba Daba’dei, Jay Staudt, Sean Abrams, Azlo Tendertoe, Thayne Bohman, Bryan Staudt
-- 2018-04-01 — Episode 0 – Series Preview — speakers: collaborative storytelling, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-04-16 — Episode 1 – One and Two Half-Men — speakers: Shabba Daba, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2018-04-01 — Episode 0 – Series Preview — speakers: Edition Dungeons, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt

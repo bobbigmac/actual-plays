@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-01T21:39:29+00:00`
-- checked_at: `2026-03-01T21:39:29+00:00`
-- etag: `"c40d4c592524d0e92ed544831daa6cc9"`
-- last_modified: `Sun, 01 Mar 2026 20:29:04 GMT`
+- fetched_at: `2026-03-02T07:17:37+00:00`
+- checked_at: `2026-03-02T07:17:37+00:00`
+- etag: `"5c54c63c06ceaa444f8e3131c9f75748"`
+- last_modified: `Mon, 02 Mar 2026 05:08:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-01T21:39:29+00:00",
+  "fetched_at": "2026-03-02T07:17:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "4a669f15945a188f191e5551f9c0e62be646b108",
+      "title": "Shadowdark",
+      "published_at": "2026-03-02T05:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/03/shadowdark/",
+      "description": "If the lights go out, you're dead. This week on the Vintage RPG Podcast, we check out Shadowdark, a recent hack that brings the old school feel to 5E. Pack extra torches! [I think it was Epidiah Ravachol who I saw recently saying \"D&D and its shadows] * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/d/4/9/4/d49493d9254f264e16c3140a3186d450/Vintage_Podcast_Icon-20260301-op6mzsnm06.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Shadowdark__.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76266063",
+      "itunes_duration": "37:59",
+      "speakers": [],
+      "topics": [
+        "shadowdark"
+      ]
+    },
     {
       "key": "67f88a2a0da6342bc70d9df75ef3f987db327c88",
       "title": "The End Times",
@@ -6435,6 +6451,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Shadowdark
 - 2026-02-23 — The End Times
 - 2026-02-16 — Delta Green, Among Other Things — speakers: Delta Green, Among Other Things There
 - 2026-02-09 — Dragons & Daggers — speakers: Daggers Stu

@@ -2,9 +2,9 @@
 
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Mon, 16 Feb 2026 05:01:00 GMT`
+- fetched_at: `2026-03-02T07:17:37+00:00`
+- checked_at: `2026-03-02T07:17:37+00:00`
+- last_modified: `Mon, 02 Mar 2026 05:01:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedamageguild.com",
   "description": "Do you like jokes, adventure, killing things, and friendship? Of course you do! The Damage Guild is an actual-play Pathfinder 2nd Edition (PF2E) podcast with a focus on collaborative storytelling, character-driven narrative, and improv comedy shenanigans, delivered in a family-friendly style and set in a homebrew world. Join us for new episodes every other Monday, so you can kiss those weekend blues goodbye and get pumped to slay the dragon of your everyday life!",
   "image_url": "https://thedamageguild.com/wp-content/uploads/dgp_pf2e_podcast_artwork.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-02T07:17:37+00:00",
   "owners": [
     "Sean Abrams",
     "Thayne Bohman",
@@ -31,6 +31,28 @@
     "ttrpg/pathfinder"
   ],
   "episodes": [
+    {
+      "key": "4215c6ccf94c4deadde56d8a5c6c445e8bc58f53",
+      "title": "Episode 42 – Brothers in Charms",
+      "published_at": "2026-03-02T05:01:00+00:00",
+      "link": "https://thedamageguild.com/pf2e-episodes/episode-42-2/",
+      "description": "Our heroes continue the search for their long-lost companion. Verrol shares some rather startling news. Kardain puts his spell slots to use. Zara comes in clutch .",
+      "image_url": null,
+      "enclosure_url": "https://media.blubrry.com/damageguild/media.blubrry.com/3739398/mc.blubrry.com/3739398/dgp_pf2e_episode42.mp3?awCollectionId=3739398&awEpisodeId=11899328&aw_0_azn.pgenre=Leisure&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11-4%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fwww.thedamageguild.com%2Ffeed%2Fpodcast2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49501184",
+      "itunes_duration": "51:34",
+      "speakers": [
+        "Sean Abrams",
+        "Thayne Bohman",
+        "Bryan Staudt",
+        "Jay Staudt"
+      ],
+      "topics": [
+        "brothers",
+        "charms"
+      ]
+    },
     {
       "key": "cde4c9a8e94357cabae39527b29bd36bdbe41699",
       "title": "Episode 41 – Needle in a Haystoke",
@@ -210,6 +232,7 @@
       "enclosure_length": "63531512",
       "itunes_duration": "1:06:10",
       "speakers": [
+        "Both Worlds Swarm",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -495,6 +518,8 @@
       "enclosure_length": "52286320",
       "itunes_duration": "54:28",
       "speakers": [
+        "Botties Hit",
+        "Floor Beset",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -540,6 +565,7 @@
       "enclosure_length": "57889481",
       "itunes_duration": "1:00:18",
       "speakers": [
+        "Erduin Mountains",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -691,6 +717,7 @@
       "enclosure_length": "55681403",
       "itunes_duration": "58:00",
       "speakers": [
+        "Every Little Bite Helps",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -712,6 +739,7 @@
       "enclosure_length": "61896038",
       "itunes_duration": "1:04:28",
       "speakers": [
+        "Guano Miss",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -928,7 +956,8 @@
       "enclosure_length": "3552607",
       "itunes_duration": "3:42",
       "speakers": [
-        "collaborative storytelling",
+        "Preview Join",
+        "Damage Guild",
         "Sean Abrams",
         "Thayne Bohman",
         "Bryan Staudt",
@@ -946,6 +975,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Episode 42 – Brothers in Charms — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-02-16 — Episode 41 – Needle in a Haystoke — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-02-02 — Episode 40 – Red Bed Reduction — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2026-01-19 — Episode 39 – Rat Thing You Do — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -954,7 +984,7 @@
 - 2025-12-08 — Episode 36 – I Leg to Differ — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-11-24 — Episode 35 – In a Manor of Speaking — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-11-10 — Episode 34 – When Can I Siege You Again? — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2025-10-27 — Episode 33 – The Pest of Both Worlds — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2025-10-27 — Episode 33 – The Pest of Both Worlds — speakers: Both Worlds Swarm, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-10-13 — Episode 32 – Honesty is the Pest Policy — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-09-29 — Episode 31 – The Pest is History — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-09-15 — Episode 30 – Pest Friends Forever — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -967,17 +997,17 @@
 - 2025-06-09 — Episode 23 – Don’t Hate; Infiltrate — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-05-26 — Episode 22 – Crisis Diverted — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-05-12 — Episode 21 – A Familiar Sight — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2025-04-28 — Episode 20 – Let the Botties Hit the Floor — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2025-04-28 — Episode 20 – Let the Botties Hit the Floor — speakers: Botties Hit, Floor Beset, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-04-14 — Episode 19 – The Fresh Prints of Bot Lair — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2025-03-31 — Episode 18 – Blind Your Own Business — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2025-03-31 — Episode 18 – Blind Your Own Business — speakers: Erduin Mountains, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-03-17 — Episode 17 – The Best-Laid Plants — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-03-03 — Episode 16 – Coup Diligence — speakers: Coup Diligence, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-02-17 — Episode 15 – Where There’s a Mill, There’s a Way — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-02-03 — Episode 14 – Duel Purpose — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-01-20 — Episode 13 – Easy Come, Queasy Go — speakers: Easy Come, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2025-01-06 — Episode 12 – They Kobold It Together — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2024-12-23 — Episode 11 – Every Little Bite Helps — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2024-12-09 — Episode 10 – I Don’t Guano Miss a Thing — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2024-12-23 — Episode 11 – Every Little Bite Helps — speakers: Every Little Bite Helps, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2024-12-09 — Episode 10 – I Don’t Guano Miss a Thing — speakers: Guano Miss, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-11-25 — Episode 9 – If You Like It, You Should’ve Put a Wing On It — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-11-11 — Episode 8 – Tick Magnet — speakers: Tick Magnet, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-10-28 — Episode 7 – Return to Tender — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
@@ -987,4 +1017,4 @@
 - 2024-09-02 — Episode 3 – Here We Crow Again — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-08-19 — Episode 2 – You Take the High Toad and I’ll Take the Low Toad — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
 - 2024-08-05 — Episode 1 – The Scion, the Witch and the Dwarf-Grove — speakers: Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
-- 2024-06-24 — Episode 0 – Series Preview — speakers: collaborative storytelling, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
+- 2024-06-24 — Episode 0 – Series Preview — speakers: Preview Join, Damage Guild, Sean Abrams, Thayne Bohman, Bryan Staudt, Jay Staudt
