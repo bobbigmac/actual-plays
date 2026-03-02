@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-02-24T21:52:51+00:00`
-- checked_at: `2026-02-24T21:52:51+00:00`
-- etag: `"djEuMi4wOjE3NzE5NjEzNTgwNTk="`
+- fetched_at: `2026-03-02T21:51:51+00:00`
+- checked_at: `2026-03-02T21:51:51+00:00`
+- etag: `"djEuMi4wOjE3NzI0ODI0OTQwOTU="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-02-24T21:52:51+00:00",
+  "fetched_at": "2026-03-02T21:51:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

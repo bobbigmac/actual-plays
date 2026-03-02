@@ -2,10 +2,10 @@
 
 - slug: `one-shots-a-live-play-mini-series-podcast`
 - source: `https://rss.art19.com/one-shots-a-live-play-mini-series-podcast`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"6b388ab74b61cf7271d191e9a668c0a2"`
-- last_modified: `Wed, 18 Feb 2026 21:29:05 GMT`
+- fetched_at: `2026-03-02T21:51:51+00:00`
+- checked_at: `2026-03-02T21:51:51+00:00`
+- etag: `"9814d02e38a135d6b7589f746046c864"`
+- last_modified: `Mon, 02 Mar 2026 20:53:47 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://bleav.com/shows/one-shots-a-live-play-mini-series-podcasy/",
   "description": "One Shots is a Dumb-Dumbs & Dice live-play podcast where professional voice actors and improvisers tackle \"one shot\" adventures set in different RPGs. Join us in Eberron, Avernus, an 80's Buddy Cop Film, Star Trek, the grim future of Warhammer 40K and more! Our intrepid heroes and villains are joined by various DMs, GMs, and more as they explore new worlds and new games! The show is hosted by our Dungeon Master, Tom McGee (@mcgeetd), and our regular players Ryan LaPlante (@theryanlaplante) and Tyler Hewitt (@Tyler_Hewitt)! Follow our heroes, experience new RPGs and enjoy the ongoing insanity!",
   "image_url": "https://image.simplecastcdn.com/images/ebc515d0-9964-43f4-b3d1-4d55b4e285d6/136e6b11-696e-4467-8faa-6b9fc690e488/3000x3000/42b4347e5dad3390b506079f7f218aeef5cac0c641495aaca32c2aa9291a4f90cf7f15a249871306f0bdece4b553aa38b8d3fde4eb79b5b1e34eb590091cb587.jpeg?aid=rss_feed",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-02T21:51:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,11 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43969531",
       "itunes_duration": "00:45:32",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic"
-      ],
+      "speakers": [],
       "topics": [
         "nightmare",
         "squigmas"
@@ -58,11 +54,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56132980",
       "itunes_duration": "00:58:12",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic"
-      ],
+      "speakers": [],
       "topics": [
         "nightmare",
         "squigmas"
@@ -79,11 +71,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56336526",
       "itunes_duration": "00:58:25",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic"
-      ],
+      "speakers": [],
       "topics": [
         "nightmare",
         "squigmas"
@@ -101,10 +89,9 @@
       "enclosure_length": "44978084",
       "itunes_duration": "00:46:35",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory",
+        "No Glory Welcome"
       ],
       "topics": [
         "grotz",
@@ -123,10 +110,8 @@
       "enclosure_length": "42387573",
       "itunes_duration": "00:43:53",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory"
       ],
       "topics": [
         "grotz",
@@ -148,10 +133,9 @@
       "enclosure_length": "41931571",
       "itunes_duration": "00:43:24",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory",
+        "Squig Bait Welcome"
       ],
       "topics": [
         "grotz",
@@ -172,10 +156,8 @@
       "enclosure_length": "39651198",
       "itunes_duration": "00:41:02",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory"
       ],
       "topics": [
         "grotz",
@@ -196,10 +178,8 @@
       "enclosure_length": "43447094",
       "itunes_duration": "00:44:59",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory"
       ],
       "topics": [
         "grotz",
@@ -219,10 +199,8 @@
       "enclosure_length": "52841567",
       "itunes_duration": "00:54:46",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory"
       ],
       "topics": [
         "grotz",
@@ -243,10 +221,10 @@
       "enclosure_length": "56746121",
       "itunes_duration": "00:58:50",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic"
+        "No Grotz",
+        "No Glory",
+        "Session Zero",
+        "Goblin Quest"
       ],
       "topics": [
         "grotz",
@@ -267,10 +245,7 @@
       "enclosure_length": "57231412",
       "itunes_duration": "00:59:21",
       "speakers": [
-        "Quinny Quest",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Ryan LaPlante"
+        "Quinny Quest"
       ],
       "topics": [
         "quinny",
@@ -292,10 +267,7 @@
       "enclosure_length": "51246661",
       "itunes_duration": "00:53:07",
       "speakers": [
-        "Quinny Quest",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Ryan LaPlante"
+        "Quinny Quest"
       ],
       "topics": [
         "quinny",
@@ -319,10 +291,7 @@
       "enclosure_length": "43985878",
       "itunes_duration": "00:45:33",
       "speakers": [
-        "Quinny Quest",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Ryan LaPlante"
+        "Quinny Quest"
       ],
       "topics": [
         "quinny",
@@ -345,10 +314,7 @@
       "enclosure_length": "47495062",
       "itunes_duration": "00:49:12",
       "speakers": [
-        "Quinny Quest",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Ryan LaPlante"
+        "Quinny Quest"
       ],
       "topics": [
         "quinny",
@@ -370,12 +336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64101387",
       "itunes_duration": "01:06:30",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -395,12 +356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42373361",
       "itunes_duration": "00:43:52",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -420,12 +376,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50854171",
       "itunes_duration": "00:52:42",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -445,12 +396,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46854720",
       "itunes_duration": "00:48:32",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -470,12 +416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46611049",
       "itunes_duration": "00:48:17",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -495,12 +436,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44571827",
       "itunes_duration": "00:46:09",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -520,12 +456,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55612636",
       "itunes_duration": "00:57:39",
-      "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
-      ],
+      "speakers": [],
       "topics": [
         "shot",
         "wrath",
@@ -546,10 +477,9 @@
       "enclosure_length": "49494551",
       "itunes_duration": "00:51:17",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Del Borovic",
-        "Spencer Hipwell"
+        "One Shot",
+        "Session Zero Welcome",
+        "One Shots"
       ],
       "topics": [
         "shot",
@@ -573,10 +503,7 @@
       "enclosure_length": "88753854",
       "itunes_duration": "01:32:11",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Thomas Church"
+        "One Shots"
       ],
       "topics": [
         "gods"
@@ -594,10 +521,7 @@
       "enclosure_length": "57520600",
       "itunes_duration": "00:59:39",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Thomas Church"
+        "One Shots"
       ],
       "topics": [
         "gods"
@@ -615,10 +539,7 @@
       "enclosure_length": "55701642",
       "itunes_duration": "00:57:45",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Thomas Church"
+        "One Shots"
       ],
       "topics": [
         "gods"
@@ -636,10 +557,7 @@
       "enclosure_length": "57165753",
       "itunes_duration": "00:59:16",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Thomas Church"
+        "One Shots"
       ],
       "topics": [
         "gods"
@@ -656,15 +574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93606009",
       "itunes_duration": "01:37:15",
-      "speakers": [
-        "Storyteller Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Kerri Petrie Squishywerewolf",
-        "Cody Monkman",
-        "Matthew Urban Urbonov",
-        "Will Banner"
-      ],
+      "speakers": [],
       "topics": [
         "camarilla",
         "crossover"
@@ -681,15 +591,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62585914",
       "itunes_duration": "01:04:56",
-      "speakers": [
-        "Storyteller Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Kerri Petrie Squishywerewolf",
-        "Cody Monkman",
-        "Matthew Urban Urbonov",
-        "Will Banner"
-      ],
+      "speakers": [],
       "topics": [
         "camarilla",
         "crossover"
@@ -706,15 +608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54223387",
       "itunes_duration": "00:56:13",
-      "speakers": [
-        "Storyteller Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Kerri Petrie Squishywerewolf",
-        "Cody Monkman",
-        "Matthew Urban Urbonov",
-        "Will Banner"
-      ],
+      "speakers": [],
       "topics": [
         "camarilla",
         "crossover"
@@ -731,15 +625,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64890959",
       "itunes_duration": "01:07:20",
-      "speakers": [
-        "Storyteller Ryan LaPlante",
-        "Tyler Hewitt",
-        "Del Borovic",
-        "Kerri Petrie Squishywerewolf",
-        "Cody Monkman",
-        "Matthew Urban Urbonov",
-        "Will Banner"
-      ],
+      "speakers": [],
       "topics": [
         "camarilla",
         "crossover"
@@ -757,11 +643,9 @@
       "enclosure_length": "66588650",
       "itunes_duration": "01:09:05",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -782,11 +666,9 @@
       "enclosure_length": "103290481",
       "itunes_duration": "01:47:19",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -807,11 +689,9 @@
       "enclosure_length": "96475239",
       "itunes_duration": "01:40:13",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -832,11 +712,9 @@
       "enclosure_length": "56088679",
       "itunes_duration": "00:58:09",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -857,11 +735,9 @@
       "enclosure_length": "69905574",
       "itunes_duration": "01:12:33",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -882,11 +758,9 @@
       "enclosure_length": "109653492",
       "itunes_duration": "01:53:57",
       "speakers": [
-        "Tom McGee",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Del Borovic",
-        "Dark Heresy Edition"
+        "Blood Pact",
+        "Prison Break",
+        "One Shots"
       ],
       "topics": [
         "blood",
@@ -907,11 +781,7 @@
       "enclosure_length": "68903335",
       "itunes_duration": "01:11:30",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Kat Letwin"
+        "One Shots"
       ],
       "topics": [
         "echo",
@@ -930,11 +800,7 @@
       "enclosure_length": "55689974",
       "itunes_duration": "00:57:44",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Kat Letwin"
+        "One Shots"
       ],
       "topics": [
         "echo",
@@ -953,11 +819,7 @@
       "enclosure_length": "73462852",
       "itunes_duration": "01:16:15",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Kat Letwin"
+        "One Shots"
       ],
       "topics": [
         "echo",
@@ -976,11 +838,7 @@
       "enclosure_length": "59894643",
       "itunes_duration": "01:02:07",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Kat Letwin"
+        "One Shots"
       ],
       "topics": [
         "echo",
@@ -1000,11 +858,8 @@
       "itunes_duration": "00:47:53",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1021,11 +876,8 @@
       "itunes_duration": "00:36:57",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1042,11 +894,8 @@
       "itunes_duration": "00:40:52",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1063,11 +912,8 @@
       "itunes_duration": "00:41:34",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1084,11 +930,8 @@
       "itunes_duration": "00:49:08",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1105,11 +948,8 @@
       "itunes_duration": "00:56:12",
       "speakers": [
         "Pick Me",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth",
-        "Guy Bradford"
+        "One Shots",
+        "Dumb Dumbs"
       ],
       "topics": []
     },
@@ -1127,10 +967,7 @@
       "speakers": [
         "Dark Heresy",
         "Gensys Adaptation",
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Tom McGee"
       ],
       "topics": [
         "warhammer",
@@ -1151,11 +988,8 @@
       "enclosure_length": "93806568",
       "itunes_duration": "01:37:27",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Richard Slab",
-        "Tyler Hewitt",
-        "John Gurney"
+        "Police Cops",
+        "Action Movie World"
       ],
       "topics": [
         "police",
@@ -1175,11 +1009,8 @@
       "enclosure_length": "51880664",
       "itunes_duration": "00:53:46",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Richard Slab",
-        "Tyler Hewitt",
-        "John Gurney"
+        "Police Cops",
+        "Action Movie World"
       ],
       "topics": [
         "police",
@@ -1199,11 +1030,8 @@
       "enclosure_length": "69808605",
       "itunes_duration": "01:12:27",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Richard Slab",
-        "Tyler Hewitt",
-        "John Gurney"
+        "Police Cops",
+        "Action Movie World"
       ],
       "topics": [
         "police",
@@ -1223,9 +1051,8 @@
       "enclosure_length": "60916105",
       "itunes_duration": "01:03:11",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt"
+        "Police Cops",
+        "Action Movie World"
       ],
       "topics": [
         "police",
@@ -1245,9 +1072,7 @@
       "enclosure_length": "156081212",
       "itunes_duration": "02:42:19",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt"
+        "Tom McGee"
       ],
       "topics": [
         "trophy"
@@ -1266,11 +1091,7 @@
       "itunes_duration": "01:14:03",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1289,12 +1110,7 @@
       "itunes_duration": "00:46:11",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins",
-        "Werner’s Mad Maggie"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1313,11 +1129,7 @@
       "itunes_duration": "00:44:50",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1336,11 +1148,7 @@
       "itunes_duration": "00:34:45",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1359,11 +1167,7 @@
       "itunes_duration": "00:47:44",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1382,11 +1186,7 @@
       "itunes_duration": "00:39:29",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1405,11 +1205,7 @@
       "itunes_duration": "00:51:22",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1428,11 +1224,7 @@
       "itunes_duration": "00:33:28",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1451,11 +1243,7 @@
       "itunes_duration": "00:39:56",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1474,11 +1262,7 @@
       "itunes_duration": "00:38:53",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1497,11 +1281,7 @@
       "itunes_duration": "00:43:01",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1520,11 +1300,7 @@
       "itunes_duration": "00:52:02",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1543,11 +1319,7 @@
       "itunes_duration": "00:50:25",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1566,11 +1338,7 @@
       "itunes_duration": "00:55:11",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1589,11 +1357,7 @@
       "itunes_duration": "01:13:28",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1612,11 +1376,7 @@
       "itunes_duration": "00:50:03",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1635,12 +1395,7 @@
       "itunes_duration": "00:37:23",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins",
-        "Thavius Kreeg"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1659,12 +1414,7 @@
       "itunes_duration": "00:48:27",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins",
-        "Will Kreeg"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1683,12 +1433,7 @@
       "itunes_duration": "00:40:16",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Werner Ragnarok",
-        "Tyler Hewitt",
-        "Laura Ezliabeth",
-        "Maude Buggins",
-        "Thavius Kreeg"
+        "Ryan LaPlante"
       ],
       "topics": [
         "avernus"
@@ -1706,10 +1451,7 @@
       "enclosure_length": "47602416",
       "itunes_duration": "00:49:19",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Tom McGee"
       ],
       "topics": [
         "avernus"
@@ -1727,10 +1469,7 @@
       "enclosure_length": "59750816",
       "itunes_duration": "01:01:58",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Tom McGee"
       ],
       "topics": [
         "eberron"
@@ -1749,9 +1488,7 @@
       "itunes_duration": "00:35:41",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Ryan LaPlante"
       ],
       "topics": [
         "eberron"
@@ -1770,9 +1507,7 @@
       "itunes_duration": "00:46:47",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Ryan LaPlante"
       ],
       "topics": [
         "eberron"
@@ -1791,9 +1526,7 @@
       "itunes_duration": "01:02:35",
       "speakers": [
         "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Ryan LaPlante"
       ],
       "topics": [
         "eberron"
@@ -1811,10 +1544,7 @@
       "enclosure_length": "48698304",
       "itunes_duration": "00:50:27",
       "speakers": [
-        "Tom McGee",
-        "Ryan LaPlante",
-        "Tyler Hewitt",
-        "Laura Elizabeth"
+        "Tom McGee"
       ],
       "topics": [
         "eberron"
@@ -1827,80 +1557,80 @@
 
 ## Episodes (newest first)
 
-- 2024-10-31 — The Nightmare Before Squigmas - Part 3 — speakers: Tom McGee, Ryan LaPlante, Del Borovic
-- 2024-10-31 — The Nightmare Before Squigmas - Part 2 — speakers: Tom McGee, Ryan LaPlante, Del Borovic
-- 2024-10-31 — The Nightmare Before Squigmas - Part 1 — speakers: Tom McGee, Ryan LaPlante, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 6 (of 6) - No Grotz, No Glory — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 5 (of 6) - Ocean's Squig-teen — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 4 (of 6) - Squig Bait — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 3 (of 6) - Bogartin’ The Bugeye — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 2 (of 6) - Shoom! Shoom! — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Part 1 (of 6) - Enemies To Lovers — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — No Grotz, No Glory - Session Zero — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Del Borovic
-- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 4 (of 4) - The Third Leg — speakers: Quinny Quest, Tyler Hewitt, Del Borovic, Ryan LaPlante
-- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 3 (of 4) - Ratface’s Riddles — speakers: Quinny Quest, Tyler Hewitt, Del Borovic, Ryan LaPlante
-- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 2 (of 4) - Welcome to the Gauntlet — speakers: Quinny Quest, Tyler Hewitt, Del Borovic, Ryan LaPlante
-- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 1 (of 4) - Welcome to Griffondell — speakers: Quinny Quest, Tyler Hewitt, Del Borovic, Ryan LaPlante
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 7 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 6 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 5 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 4 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 3 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 2 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 1 (of 7) — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Session Zero — speakers: Tom McGee, Ryan LaPlante, Del Borovic, Spencer Hipwell
-- 2024-06-26 — Crucible of the Gods - Ep 4 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Thomas Church
-- 2024-06-19 — Crucible of the Gods - Ep 3 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Thomas Church
-- 2024-06-12 — Crucible of the Gods - Ep 2 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Thomas Church
-- 2024-06-05 — Crucible of the Gods - Ep 1 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Thomas Church
-- 2024-04-02 — Camarilla Crossover - Ep 4 (of 4) — speakers: Storyteller Ryan LaPlante, Tyler Hewitt, Del Borovic, Kerri Petrie Squishywerewolf, Cody Monkman, Matthew Urban Urbonov, Will Banner
-- 2024-04-02 — Camarilla Crossover - Ep 3 (of 4) — speakers: Storyteller Ryan LaPlante, Tyler Hewitt, Del Borovic, Kerri Petrie Squishywerewolf, Cody Monkman, Matthew Urban Urbonov, Will Banner
-- 2024-04-02 — Camarilla Crossover - Ep 2 (of 4) — speakers: Storyteller Ryan LaPlante, Tyler Hewitt, Del Borovic, Kerri Petrie Squishywerewolf, Cody Monkman, Matthew Urban Urbonov, Will Banner
-- 2024-04-02 — Camarilla Crossover - Ep 1 (of 4) — speakers: Storyteller Ryan LaPlante, Tyler Hewitt, Del Borovic, Kerri Petrie Squishywerewolf, Cody Monkman, Matthew Urban Urbonov, Will Banner
-- 2021-06-24 — Blood Pact: Prison Break – Part 6 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-06-17 — Blood Pact: Prison Break – Part 5 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-06-10 — Blood Pact: Prison Break – Part 4 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-06-03 — Blood Pact: Prison Break – Part 3 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-06-03 — Blood Pact: Prison Break – Part 2 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-06-03 — Blood Pact: Prison Break – Part 1 (of 6) — speakers: Tom McGee, Tyler Hewitt, Laura Elizabeth, Del Borovic, Dark Heresy Edition
-- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 4 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Kat Letwin
-- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 3 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Kat Letwin
-- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 2 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Kat Letwin
-- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 1 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Kat Letwin
-- 2020-12-24 — Pick Me – Ep 1.6 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-12-24 — Pick Me – Ep 1.5 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-12-24 — Pick Me – Ep 1.4 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-12-24 — Pick Me – Ep 1.3 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-12-24 — Pick Me – Ep 1.2 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-12-24 — Pick Me – Ep 1.1 (of 6) — speakers: Pick Me, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth, Guy Bradford
-- 2020-07-10 — Warhammer 40K Dark Heresy (Genesys) - Ep 1 (of 1) — speakers: Dark Heresy, Gensys Adaptation, Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2020-05-29 — Police Cops: Gurney & Slab - Ep 4 (of 4) — speakers: Tom McGee, Ryan LaPlante, Richard Slab, Tyler Hewitt, John Gurney
-- 2020-05-22 — Police Cops: Gurney & Slab - Ep 3 (of 4) — speakers: Tom McGee, Ryan LaPlante, Richard Slab, Tyler Hewitt, John Gurney
-- 2020-05-15 — Police Cops: Gurney & Slab - Ep 2 (of 4) — speakers: Tom McGee, Ryan LaPlante, Richard Slab, Tyler Hewitt, John Gurney
-- 2020-05-08 — Police Cops: Gurney & Slab - Ep 1 (of 4) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt
-- 2020-05-01 — Trophy - Ep 1 (of 1) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt
-- 2020-04-24 — Avernus - Ep 20 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-04-17 — Avernus - Ep 19 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins, Werner’s Mad Maggie
-- 2020-04-10 — Avernus - Ep 18 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-04-03 — Avernus - Ep 17 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-03-27 — Avernus - Ep 16 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-03-20 — Avernus - Ep 15 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-03-13 — Avernus - Ep 14 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-03-06 — Avernus - Ep 13 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-02-28 — Avernus - Ep 12 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-02-21 — Avernus - Ep 11 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-02-14 — Avernus - Ep 10 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-02-07 — Avernus - Ep 9 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-01-31 — Avernus - Ep 8 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-01-24 — Avernus - Ep 7 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-01-17 — Avernus - Ep 6 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-01-10 — Avernus - Ep 5 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins
-- 2020-01-04 — Avernus - Ep 4 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins, Thavius Kreeg
-- 2019-12-28 — Avernus - Ep 3 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins, Will Kreeg
-- 2019-12-21 — Avernus - Ep 2 (of 20) — speakers: Tom McGee, Ryan LaPlante, Werner Ragnarok, Tyler Hewitt, Laura Ezliabeth, Maude Buggins, Thavius Kreeg
-- 2019-12-14 — Avernus - Ep 1 (of 20) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2019-12-02 — Eberron - Ep 5 (of 5) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2019-12-02 — Eberron - Ep 4 (of 5) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2019-12-02 — Eberron - Ep 3 (of 5) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2019-12-02 — Eberron - Ep 2 (of 5) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
-- 2019-12-02 — Eberron - Ep 1 (of 5) — speakers: Tom McGee, Ryan LaPlante, Tyler Hewitt, Laura Elizabeth
+- 2024-10-31 — The Nightmare Before Squigmas - Part 3
+- 2024-10-31 — The Nightmare Before Squigmas - Part 2
+- 2024-10-31 — The Nightmare Before Squigmas - Part 1
+- 2024-10-31 — No Grotz, No Glory - Part 6 (of 6) - No Grotz, No Glory — speakers: No Grotz, No Glory, No Glory Welcome
+- 2024-10-31 — No Grotz, No Glory - Part 5 (of 6) - Ocean's Squig-teen — speakers: No Grotz, No Glory
+- 2024-10-31 — No Grotz, No Glory - Part 4 (of 6) - Squig Bait — speakers: No Grotz, No Glory, Squig Bait Welcome
+- 2024-10-31 — No Grotz, No Glory - Part 3 (of 6) - Bogartin’ The Bugeye — speakers: No Grotz, No Glory
+- 2024-10-31 — No Grotz, No Glory - Part 2 (of 6) - Shoom! Shoom! — speakers: No Grotz, No Glory
+- 2024-10-31 — No Grotz, No Glory - Part 1 (of 6) - Enemies To Lovers — speakers: No Grotz, No Glory
+- 2024-10-31 — No Grotz, No Glory - Session Zero — speakers: No Grotz, No Glory, Session Zero, Goblin Quest
+- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 4 (of 4) - The Third Leg — speakers: Quinny Quest
+- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 3 (of 4) - Ratface’s Riddles — speakers: Quinny Quest
+- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 2 (of 4) - Welcome to the Gauntlet — speakers: Quinny Quest
+- 2024-10-31 — Quinny Quest: A Dumb-Dumbs & Dragons Story - Part 1 (of 4) - Welcome to Griffondell — speakers: Quinny Quest
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 7 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 6 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 5 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 4 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 3 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 2 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Ep 1 (of 7)
+- 2024-07-13 — One Shot - Wrath & Glory: Traitor's Hymn - Session Zero — speakers: One Shot, Session Zero Welcome, One Shots
+- 2024-06-26 — Crucible of the Gods - Ep 4 (of 4) — speakers: One Shots
+- 2024-06-19 — Crucible of the Gods - Ep 3 (of 4) — speakers: One Shots
+- 2024-06-12 — Crucible of the Gods - Ep 2 (of 4) — speakers: One Shots
+- 2024-06-05 — Crucible of the Gods - Ep 1 (of 4) — speakers: One Shots
+- 2024-04-02 — Camarilla Crossover - Ep 4 (of 4)
+- 2024-04-02 — Camarilla Crossover - Ep 3 (of 4)
+- 2024-04-02 — Camarilla Crossover - Ep 2 (of 4)
+- 2024-04-02 — Camarilla Crossover - Ep 1 (of 4)
+- 2021-06-24 — Blood Pact: Prison Break – Part 6 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-06-17 — Blood Pact: Prison Break – Part 5 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-06-10 — Blood Pact: Prison Break – Part 4 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-06-03 — Blood Pact: Prison Break – Part 3 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-06-03 — Blood Pact: Prison Break – Part 2 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-06-03 — Blood Pact: Prison Break – Part 1 (of 6) — speakers: Blood Pact, Prison Break, One Shots
+- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 4 (of 4) — speakers: One Shots
+- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 3 (of 4) — speakers: One Shots
+- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 2 (of 4) — speakers: One Shots
+- 2021-02-22 — Echoes of Chaos playtest – ‘The Show Must Go On' – Part 1 (of 4) — speakers: One Shots
+- 2020-12-24 — Pick Me – Ep 1.6 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-12-24 — Pick Me – Ep 1.5 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-12-24 — Pick Me – Ep 1.4 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-12-24 — Pick Me – Ep 1.3 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-12-24 — Pick Me – Ep 1.2 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-12-24 — Pick Me – Ep 1.1 (of 6) — speakers: Pick Me, One Shots, Dumb Dumbs
+- 2020-07-10 — Warhammer 40K Dark Heresy (Genesys) - Ep 1 (of 1) — speakers: Dark Heresy, Gensys Adaptation, Tom McGee
+- 2020-05-29 — Police Cops: Gurney & Slab - Ep 4 (of 4) — speakers: Police Cops, Action Movie World
+- 2020-05-22 — Police Cops: Gurney & Slab - Ep 3 (of 4) — speakers: Police Cops, Action Movie World
+- 2020-05-15 — Police Cops: Gurney & Slab - Ep 2 (of 4) — speakers: Police Cops, Action Movie World
+- 2020-05-08 — Police Cops: Gurney & Slab - Ep 1 (of 4) — speakers: Police Cops, Action Movie World
+- 2020-05-01 — Trophy - Ep 1 (of 1) — speakers: Tom McGee
+- 2020-04-24 — Avernus - Ep 20 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-04-17 — Avernus - Ep 19 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-04-10 — Avernus - Ep 18 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-04-03 — Avernus - Ep 17 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-03-27 — Avernus - Ep 16 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-03-20 — Avernus - Ep 15 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-03-13 — Avernus - Ep 14 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-03-06 — Avernus - Ep 13 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-02-28 — Avernus - Ep 12 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-02-21 — Avernus - Ep 11 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-02-14 — Avernus - Ep 10 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-02-07 — Avernus - Ep 9 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-01-31 — Avernus - Ep 8 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-01-24 — Avernus - Ep 7 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-01-17 — Avernus - Ep 6 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-01-10 — Avernus - Ep 5 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2020-01-04 — Avernus - Ep 4 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-28 — Avernus - Ep 3 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-21 — Avernus - Ep 2 (of 20) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-14 — Avernus - Ep 1 (of 20) — speakers: Tom McGee
+- 2019-12-02 — Eberron - Ep 5 (of 5) — speakers: Tom McGee
+- 2019-12-02 — Eberron - Ep 4 (of 5) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-02 — Eberron - Ep 3 (of 5) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-02 — Eberron - Ep 2 (of 5) — speakers: Tom McGee, Ryan LaPlante
+- 2019-12-02 — Eberron - Ep 1 (of 5) — speakers: Tom McGee

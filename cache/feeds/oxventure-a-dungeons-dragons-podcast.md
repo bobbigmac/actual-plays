@@ -2,9 +2,9 @@
 
 - slug: `oxventure-a-dungeons-dragons-podcast`
 - source: `https://outsidexbox.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Tue, 03 Feb 2026 16:00:00 GMT`
+- fetched_at: `2026-03-02T21:51:51+00:00`
+- checked_at: `2026-03-02T21:51:51+00:00`
+- last_modified: `Mon, 02 Mar 2026 20:46:54 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "Geek.com",
   "description": "Are you looking for a Dungeons & Dragons improvised storytelling experience that contains jokes, as well as thrilling boss fights against unspeakable horrors? Oxventure: A Dungeons & Dragons Podcast brings you the hilarious, unruly fun of a tabletop RPG campaign with friends. Join Jane Douglas, Andy Farrant, Mike Channell, Ellen Rose, Luke Westaway and Johnny Chiodini for an audio adventure you won't want to miss, with bingeable complete seasons of chaos in D&D, Weird West horror in Deadlands, and urban gothic fantasy in Blades in the Dark. Listen to the Oxventure D&D Podcast wherever you get your podcasts. Oxventure is a part of the Geek Media Podcast Network, an IGN Entertainment Brand. |Visit Geek.com for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/fa7b297e-90ee-11ed-806e-1b2f85eac454/image/f0b5ff0c7d4ae38e979865868fee3328.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-02T21:51:51+00:00",
   "owners": [
     "Johnny Chiodini",
     "Andy Farrant",
@@ -69,7 +69,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8506",
       "speakers": [
-        "Mystery Box",
+        "Twixtmas Disappearance",
+        "Bikes Holiday Special Join",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -97,12 +98,14 @@
       "enclosure_length": "0",
       "itunes_duration": "12556",
       "speakers": [
+        "Dark Holiday Special",
+        "Oxventure Blades",
+        "Crawford Family Quartet",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway",
-        "Mike Channell"
+        "Luke Westaway"
       ],
       "topics": [
         "effugium",
@@ -125,7 +128,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8063",
       "speakers": [
-        "Mystery Box",
+        "Oxventure One",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -151,8 +154,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7494",
       "speakers": [
-        "Harry McEntire Jasper",
-        "William Cartwright",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -178,12 +179,14 @@
       "enclosure_length": "0",
       "itunes_duration": "9356",
       "speakers": [
+        "Midnight Train",
+        "Deadlands Halloween Special All",
+        "Wild Cards",
+        "Deadlands Hallo",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
-        "Jane Douglas",
-        "Luke Westaway",
-        "Mike Channell"
+        "Jane Douglas"
       ],
       "topics": [
         "midnight",
@@ -233,6 +236,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7713",
       "speakers": [
+        "Funfair Dismissal",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -260,7 +264,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8391",
       "speakers": [
-        "Supporters Club",
+        "Superhero Roleplaying",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -287,7 +291,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8331",
       "speakers": [
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -313,6 +316,7 @@
       "enclosure_length": "0",
       "itunes_duration": "10742",
       "speakers": [
+        "Oxventure Daggerheart Journey",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -339,7 +343,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6455",
       "speakers": [
-        "Unwinding Wyrdwood",
+        "Wyrdwood Nikol",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -365,8 +369,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6574",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -392,8 +394,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5691",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -420,8 +420,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6731",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -447,8 +445,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6675",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -473,8 +469,6 @@
       "enclosure_length": "0",
       "itunes_duration": "10243",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -501,10 +495,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6056",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -530,10 +520,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8347",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -559,15 +545,12 @@
       "enclosure_length": "0",
       "itunes_duration": "13018",
       "speakers": [
-        "Doug Cockle",
-        "Mike Channell",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway"
+        "Luke Westaway",
+        "Mike Channell"
       ],
       "topics": [
         "alien",
@@ -591,10 +574,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8610",
       "speakers": [
-        "Dom Allen",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Shot Wonders Join",
+        "Morpork City Watch",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -623,7 +604,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3698",
       "speakers": [
-        "Producer Zack",
+        "Deadlands Join",
+        "Oxventure Deadlands",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -648,8 +630,6 @@
       "enclosure_length": "0",
       "itunes_duration": "10884",
       "speakers": [
-        "Deadands Season",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -675,10 +655,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7723",
       "speakers": [
-        "Bison Billie",
-        "Will Bison Billie",
-        "Jasper William Cartwright",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -703,10 +679,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8081",
       "speakers": [
-        "Menelaus McDaniel",
-        "Joe Thickett",
-        "Jasper William Cartwright",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -731,8 +703,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8724",
       "speakers": [
-        "Tilly Steele",
-        "Producer Zack",
+        "Deadlands Trapped",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -756,9 +727,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7094",
       "speakers": [
-        "Howard Redstone",
-        "Tilly Steele",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -783,7 +751,6 @@
       "itunes_duration": "7407",
       "speakers": [
         "Rubente Dextera",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -810,8 +777,6 @@
       "itunes_duration": "8877",
       "speakers": [
         "Rubente Dextera",
-        "Luther Rackstraw",
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -837,7 +802,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7795",
       "speakers": [
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -863,7 +827,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8309",
       "speakers": [
-        "Producer Zack",
+        "Deadlands All",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -889,7 +853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8920",
       "speakers": [
-        "Producer Zack",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -916,8 +879,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3725",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Deadlands Recap",
+        "Preview Saddle",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -946,9 +909,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6599",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -972,10 +932,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5969",
       "speakers": [
+        "Johnny Chio",
         "Johnny Chiodini",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
@@ -998,9 +956,6 @@
       "enclosure_length": "0",
       "itunes_duration": "11296",
       "speakers": [
-        "Follow Luke",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1024,10 +979,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5571",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1054,10 +1005,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5991",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1084,10 +1031,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6654",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1114,10 +1057,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6763",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1143,10 +1082,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6741",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Broken Oaths",
+        "Green Man",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1174,10 +1111,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6428",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Wyrdwood Worn",
+        "North West",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1204,10 +1139,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8515",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Wyrdwood After",
+        "North West",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1232,10 +1165,6 @@
       "enclosure_length": "0",
       "itunes_duration": "9292",
       "speakers": [
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1263,10 +1192,6 @@
       "speakers": [
         "Talking Wyrdwood",
         "Johnny Chiodini",
-        "Unwinding Wyrdwood",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
@@ -1291,10 +1216,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6629",
       "speakers": [
-        "Michelle Obama",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Whole New",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1320,6 +1242,8 @@
       "enclosure_length": "0",
       "itunes_duration": "6075",
       "speakers": [
+        "Party Time",
+        "Space After",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1372,9 +1296,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6862",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1399,11 +1320,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8233",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Kobold Vending Machine",
         "Johnny Chiodini",
-        "Find Luke Westway",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
@@ -1427,8 +1345,6 @@
       "itunes_duration": "7705",
       "speakers": [
         "Dan Layton",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1457,11 +1373,9 @@
       "itunes_duration": "8925",
       "speakers": [
         "DM Luke Westaway",
-        "Ellen Rose",
-        "Andy Farrant",
         "Johnny Chiodini",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Andy Farrant",
+        "Ellen Rose",
         "Jane Douglas",
         "Luke Westaway",
         "Mike Channell"
@@ -1482,8 +1396,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4860",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Battle Royale",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1508,8 +1421,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8444",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Portal Combat",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1534,8 +1446,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4548",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Prism Break",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1560,14 +1471,14 @@
       "enclosure_length": "0",
       "itunes_duration": "5201",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Die Trying",
+        "Cthulhu Dad",
+        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway",
-        "Mike Channell"
+        "Luke Westaway"
       ],
       "topics": [
         "eldritch",
@@ -1586,8 +1497,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6840",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1611,9 +1520,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6453",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Fulfilling Prophecy",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1637,8 +1544,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6981",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1664,9 +1569,6 @@
       "itunes_duration": "6511",
       "speakers": [
         "Unfinished Business",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1691,8 +1593,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8489",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1716,8 +1616,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5044",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1741,9 +1639,6 @@
       "enclosure_length": "0",
       "itunes_duration": "9482",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1767,18 +1662,14 @@
       "enclosure_length": "0",
       "itunes_duration": "7410",
       "speakers": [
-        "William Cartwright",
-        "Olivia Kennedy",
         "Adventure Skeletons",
-        "Grant Howitt",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Shot Wonders Finally",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway"
+        "Luke Westaway",
+        "Mike Channell"
       ],
       "topics": [
         "adventure",
@@ -1800,10 +1691,6 @@
       "itunes_duration": "6354",
       "speakers": [
         "Liv Kennedy",
-        "Jacob Andrews",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1831,9 +1718,6 @@
       "enclosure_length": "0",
       "itunes_duration": "10429",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1862,9 +1746,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7720",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1891,8 +1772,6 @@
       "itunes_duration": "8683",
       "speakers": [
         "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1920,9 +1799,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8127",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1950,8 +1826,6 @@
       "speakers": [
         "Castle Wisenshire",
         "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -1979,8 +1853,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8467",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2008,8 +1880,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7869",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2035,8 +1905,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7016",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2064,9 +1932,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8926",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2094,8 +1959,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5785",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2121,8 +1984,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6002",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2149,8 +2010,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8570",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Amat Victoria Curam",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2178,9 +2038,6 @@
       "itunes_duration": "8116",
       "speakers": [
         "Bison Billie",
-        "Aunt Hildy",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2207,9 +2064,6 @@
       "itunes_duration": "6885",
       "speakers": [
         "Aunt Hildy",
-        "Joe Thickett",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2235,8 +2089,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7890",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2263,9 +2115,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5921",
       "speakers": [
-        "Fort Parker",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2292,9 +2141,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6675",
       "speakers": [
-        "Daisy Ducrow",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2320,8 +2166,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5453",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2348,8 +2192,6 @@
       "itunes_duration": "9142",
       "speakers": [
         "Dead Man",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2376,9 +2218,6 @@
       "itunes_duration": "7779",
       "speakers": [
         "Dead Man's Worth",
-        "Benjamin Bellows",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2404,14 +2243,14 @@
       "enclosure_length": "0",
       "itunes_duration": "11756",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Running Them Down",
+        "Deadlands Deadlands",
+        "Weird West",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway",
-        "Mike Channell"
+        "Luke Westaway"
       ],
       "topics": [
         "deadland"
@@ -2430,9 +2269,6 @@
       "itunes_duration": "7807",
       "speakers": [
         "Grant Howitt",
-        "Teatime Adventures",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2460,8 +2296,6 @@
       "itunes_duration": "10229",
       "speakers": [
         "Blade Runner",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2491,8 +2325,6 @@
       "itunes_duration": "7900",
       "speakers": [
         "Squid Pro Quo",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2516,8 +2348,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8815",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Play Fight",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2541,8 +2372,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5055",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2567,8 +2396,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5631",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
+        "Bad Day",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2590,8 +2418,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5554",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2617,8 +2443,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5189",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2643,9 +2467,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6335",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2669,10 +2490,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7972",
       "speakers": [
-        "SBundell Check",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2696,10 +2513,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6805",
       "speakers": [
-        "SBundell Check",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2724,9 +2537,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5970",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Life Finds",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2750,9 +2561,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7249",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2777,9 +2585,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7578",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Dimmer Si",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2805,9 +2611,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8289",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2834,9 +2637,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6007",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2864,9 +2664,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8619",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2893,9 +2690,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7865",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2922,9 +2716,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8513",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2951,9 +2742,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7645",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -2981,9 +2769,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7928",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3011,9 +2796,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7911",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3040,9 +2822,6 @@
       "itunes_duration": "6812",
       "speakers": [
         "Oxventure Blade",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3070,9 +2849,6 @@
       "itunes_duration": "9759",
       "speakers": [
         "Dead Man",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3100,9 +2876,6 @@
       "itunes_duration": "7717",
       "speakers": [
         "Baking Bad",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3127,9 +2900,6 @@
       "itunes_duration": "7957",
       "speakers": [
         "Grad Attitude",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3155,9 +2925,6 @@
       "itunes_duration": "8171",
       "speakers": [
         "Knight Shift",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3182,14 +2949,11 @@
       "enclosure_length": "0",
       "itunes_duration": "6717",
       "speakers": [
-        "Luke Westaway",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
+        "Luke Westaway",
         "Mike Channell"
       ],
       "topics": [
@@ -3209,9 +2973,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6422",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3237,9 +2998,6 @@
       "itunes_duration": "5693",
       "speakers": [
         "Ready Lair",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3264,7 +3022,6 @@
       "enclosure_length": "0",
       "itunes_duration": "887",
       "speakers": [
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3290,9 +3047,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5812",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Ballot Time",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3317,9 +3072,6 @@
       "enclosure_length": "0",
       "itunes_duration": "6063",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3345,9 +3097,6 @@
       "itunes_duration": "6268",
       "speakers": [
         "Mean Gulls",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3372,9 +3121,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5387",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3400,9 +3146,6 @@
       "itunes_duration": "6689",
       "speakers": [
         "Carpe Idiom",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3426,9 +3169,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5534",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Bad Altitude",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3453,10 +3194,6 @@
       "itunes_duration": "7857",
       "speakers": [
         "Record Time",
-        "Producer Jon",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3481,9 +3218,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6404",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Shell Shock",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3509,9 +3244,6 @@
       "itunes_duration": "7073",
       "speakers": [
         "Dine Harder",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3536,9 +3268,6 @@
       "enclosure_length": "0",
       "itunes_duration": "7443",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3562,9 +3291,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5420",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3589,9 +3315,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4381",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3616,9 +3339,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4940",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Hog Wild",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3642,9 +3363,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5438",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3668,9 +3386,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1240",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3697,10 +3412,6 @@
       "itunes_duration": "3976",
       "speakers": [
         "Luke Westaway",
-        "Gang Andy",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3724,9 +3435,6 @@
       "itunes_duration": "4048",
       "speakers": [
         "Luke Westaway",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3751,16 +3459,12 @@
       "speakers": [
         "Harry McEntire",
         "Xenoblade Chronicles",
-        "Nic Cage",
-        "Wedded Redemption",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
         "Jane Douglas",
-        "Luke Westaway"
+        "Luke Westaway",
+        "Mike Channell"
       ],
       "topics": [
         "wedded",
@@ -3779,10 +3483,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4749",
       "speakers": [
-        "Harry McEntire",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3807,9 +3507,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5481",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3834,9 +3531,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4755",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3861,9 +3555,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5499",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3887,9 +3578,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4909",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3913,8 +3601,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5619",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3940,10 +3626,6 @@
       "itunes_duration": "4766",
       "speakers": [
         "Dine Hard",
-        "Krispy Kreme",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3968,9 +3650,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4898",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -3994,9 +3673,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5329",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Oxventurers Guild",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4021,9 +3698,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4500",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "No Way",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4045,9 +3720,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5316",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
+        "Party Fowl",
+        "Platinum Pudding",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4073,9 +3747,6 @@
       "itunes_duration": "5892",
       "speakers": [
         "Monky Business",
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4100,9 +3771,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5419",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4124,9 +3792,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4479",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4152,8 +3817,6 @@
       "itunes_duration": "5157",
       "speakers": [
         "Escaped Crusaders",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4178,9 +3841,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5336",
       "speakers": [
-        "Supporters Club",
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4251,7 +3911,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4710",
       "speakers": [
-        "Supporters Club",
+        "Oxventure Cinematic Universe",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4323,7 +3983,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4611",
       "speakers": [
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4348,7 +4007,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5706",
       "speakers": [
-        "Supporters Club",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4399,7 +4057,6 @@
       "speakers": [
         "Luke Westaway",
         "Russell Crowe",
-        "Camping Mug",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4591,6 +4248,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3988",
       "speakers": [
+        "Red Dead Redemption",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4637,6 +4295,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3980",
       "speakers": [
+        "Oxventure Dungeons",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4732,7 +4391,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3129",
       "speakers": [
-        "Squid Game",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4757,8 +4415,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4836",
       "speakers": [
-        "Outside Xbox",
-        "Snow Mercy",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4828,7 +4484,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5666",
       "speakers": [
-        "Ant Man",
+        "Gnome Alone",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4875,7 +4531,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5814",
       "speakers": [
-        "Watch Johnny",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -4922,6 +4577,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5456",
       "speakers": [
+        "Dungeon Mas",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5065,7 +4721,6 @@
       "itunes_duration": "5263",
       "speakers": [
         "Mario Golf",
-        "Tom Clancy’s Rainbow",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5089,7 +4744,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4791",
       "speakers": [
-        "Tom Clancy’s Rainbow",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5113,7 +4767,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5036",
       "speakers": [
-        "Elf Hazard",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5137,7 +4790,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4447",
       "speakers": [
-        "Elf Hazard",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5161,6 +4813,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5353",
       "speakers": [
+        "Hunter Pres",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5233,7 +4886,6 @@
       "enclosure_length": "0",
       "itunes_duration": "4942",
       "speakers": [
-        "Nic Cage",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5305,7 +4957,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5618",
       "speakers": [
-        "Faire Trial",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5330,7 +4981,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5333",
       "speakers": [
-        "Faire Trial",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5355,6 +5005,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4114",
       "speakers": [
+        "Exhibition Impos",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5524,7 +5175,6 @@
       "enclosure_length": "0",
       "itunes_duration": "8226",
       "speakers": [
-        "Mcm Birmingham",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5548,6 +5198,7 @@
       "enclosure_length": "0",
       "itunes_duration": "8720",
       "speakers": [
+        "between tw",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5596,7 +5247,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2782",
       "speakers": [
-        "Jacques Darkfall",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5692,6 +5342,7 @@
       "itunes_duration": "5991",
       "speakers": [
         "Ellen Jane",
+        "Stop Hammer Tim",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5811,6 +5462,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2685",
       "speakers": [
+        "Fishmas Carol",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5907,6 +5559,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4054",
       "speakers": [
+        "All Crims",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5931,8 +5584,6 @@
       "enclosure_length": "0",
       "itunes_duration": "5637",
       "speakers": [
-        "Outside Xbox",
-        "Outside Xtra",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5957,7 +5608,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3178",
       "speakers": [
-        "Outside Xbox",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -5982,7 +5632,6 @@
       "enclosure_length": "0",
       "itunes_duration": "3394",
       "speakers": [
-        "Orcward Encounter",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -6007,7 +5656,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2922",
       "speakers": [
-        "Orcward Encounter",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -6056,7 +5704,6 @@
       "enclosure_length": "0",
       "itunes_duration": "2629",
       "speakers": [
-        "Wizard ex Machina",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -6201,6 +5848,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2793",
       "speakers": [
+        "Oxventure Dungeons",
         "Johnny Chiodini",
         "Andy Farrant",
         "Ellen Rose",
@@ -6221,165 +5869,165 @@
 ## Episodes (newest first)
 
 - 2026-02-03 — THE FUTURE OF OXVENTURE — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-12-24 — A Twixtmas Disappearance | Kids on Bikes Holiday Special — speakers: Mystery Box, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-12-17 — The Effugium Contract | Blades in the Dark Holiday Special 2025 — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-11-27 — Dread | Oxventure One-Shot — speakers: Mystery Box, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-11-12 — D&D But... Everyone's a Mimic | Live at World's Lair 2025 — speakers: Harry McEntire Jasper, William Cartwright, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-10-29 — Midnight Train to TERROR | Deadlands Halloween Special — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-12-24 — A Twixtmas Disappearance | Kids on Bikes Holiday Special — speakers: Twixtmas Disappearance, Bikes Holiday Special Join, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-12-17 — The Effugium Contract | Blades in the Dark Holiday Special 2025 — speakers: Dark Holiday Special, Oxventure Blades, Crawford Family Quartet, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
+- 2025-11-27 — Dread | Oxventure One-Shot — speakers: Oxventure One, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-11-12 — D&D But... Everyone's a Mimic | Live at World's Lair 2025 — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-10-29 — Midnight Train to TERROR | Deadlands Halloween Special — speakers: Midnight Train, Deadlands Halloween Special All, Wild Cards, Deadlands Hallo, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas
 - 2025-10-22 — Dread with Giant Jenga | Oxventure One-Shot — speakers: Giant Jenga, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-10-01 — Funfair Dismissal | Oxventure D&D Live Show | TALES FROM THE GUILD — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-09-23 — Invincible: Superhero Roleplaying | Oxventure's One-Shot Wonders — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-09-12 — Traveller | Oxventure's One-Shot Wonders — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-09-05 — A Scandal in Celerity | Oxventure Daggerheart — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-08-29 — The Tower - Part 2 | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-08-22 — The Tower - Part 1 | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-08-15 — Robin's Gambit | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-08-08 — Angler | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-08-01 — The Fog | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-07-25 — Marsh & Malice | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-07-18 — Homecoming | Oxventure D&D Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-07-11 — Mossfold | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-06-13 — Alien The Roleplaying Game: Evolved Edition | One-Shot Wonder — speakers: Doug Cockle, Mike Channell, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
-- 2025-06-06 — Discworld: Adventures in Ankh-Morpork | One-Shot Wonders — speakers: Dom Allen, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-05-30 — Audience Q&A | Deadlands — speakers: Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-05-23 — The Unquiet House | Deadlands — speakers: Deadands Season, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-05-16 — A Man For The People Part Two | Deadlands — speakers: Bison Billie, Will Bison Billie, Jasper William Cartwright, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-05-09 — A Man For The People Part One | Deadlands — speakers: Menelaus McDaniel, Joe Thickett, Jasper William Cartwright, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-05-02 — The One Who Knows Part Two | Deadlands — speakers: Tilly Steele, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-04-25 — The One Who Knows Part One | Deadlands — speakers: Howard Redstone, Tilly Steele, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-04-18 — Rubente Dextera Part Two | Deadlands — speakers: Rubente Dextera, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-04-11 — Rubente Dextera Part One | Deadlands — speakers: Rubente Dextera, Luther Rackstraw, Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-04-04 — The Queen of the River Part Two | Deadlands — speakers: Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-03-28 — The Queen of the River Part One | Deadlands — speakers: Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-03-21 — The Beast of Bisley Bayou | Deadlands — speakers: Producer Zack, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2025-03-14 — Return to The Weird West! | Deadlands Recap & Season 2 Preview — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-12-27 — D&D But... It's Cluedo! — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-12-13 — D&D But... Everyone's A Flumph — speakers: Johnny Chiodini, Supporters Club, Outside Xbox, Outside Xtra, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-12-06 — D&D But... Everyone Has Amnesia Again — speakers: Follow Luke, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-11-08 — Friends & Falsehoods Pt2 | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-11-01 — Friends & Falsehoods Pt1 | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-10-25 — Shapes in the Mist | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-10-18 — Ironclad | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-10-11 — The Path of Broken Oaths | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-10-04 — Howls in the Night | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-09-27 — Rootbound | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-09-20 — Folkmoot | Oxventure D&D: Wyrdwood — speakers: Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-09-13 — Talking Wyrdwood w/ Johnny Chiodini! — speakers: Talking Wyrdwood, Johnny Chiodini, Unwinding Wyrdwood, Supporters Club, Outside Xbox, Outside Xtra, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-08-30 — A Whole New (old) World | Teens in Space — speakers: Michelle Obama, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-08-23 — Party Time! | Teens in Space — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-10-01 — Funfair Dismissal | Oxventure D&D Live Show | TALES FROM THE GUILD — speakers: Funfair Dismissal, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-09-23 — Invincible: Superhero Roleplaying | Oxventure's One-Shot Wonders — speakers: Superhero Roleplaying, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-09-12 — Traveller | Oxventure's One-Shot Wonders — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-09-05 — A Scandal in Celerity | Oxventure Daggerheart — speakers: Oxventure Daggerheart Journey, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-08-29 — The Tower - Part 2 | Oxventure D&D Wyrdwood — speakers: Wyrdwood Nikol, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-08-22 — The Tower - Part 1 | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-08-15 — Robin's Gambit | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-08-08 — Angler | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-08-01 — The Fog | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-07-25 — Marsh & Malice | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-07-18 — Homecoming | Oxventure D&D Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-07-11 — Mossfold | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-06-13 — Alien The Roleplaying Game: Evolved Edition | One-Shot Wonder — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-06-06 — Discworld: Adventures in Ankh-Morpork | One-Shot Wonders — speakers: Shot Wonders Join, Morpork City Watch, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-05-30 — Audience Q&A | Deadlands — speakers: Deadlands Join, Oxventure Deadlands, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-05-23 — The Unquiet House | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-05-16 — A Man For The People Part Two | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-05-09 — A Man For The People Part One | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-05-02 — The One Who Knows Part Two | Deadlands — speakers: Deadlands Trapped, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-04-25 — The One Who Knows Part One | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-04-18 — Rubente Dextera Part Two | Deadlands — speakers: Rubente Dextera, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-04-11 — Rubente Dextera Part One | Deadlands — speakers: Rubente Dextera, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-04-04 — The Queen of the River Part Two | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-03-28 — The Queen of the River Part One | Deadlands — speakers: Deadlands All, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-03-21 — The Beast of Bisley Bayou | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2025-03-14 — Return to The Weird West! | Deadlands Recap & Season 2 Preview — speakers: Deadlands Recap, Preview Saddle, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-12-27 — D&D But... It's Cluedo! — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-12-13 — D&D But... Everyone's A Flumph — speakers: Johnny Chio, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-12-06 — D&D But... Everyone Has Amnesia Again — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-11-08 — Friends & Falsehoods Pt2 | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-11-01 — Friends & Falsehoods Pt1 | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-10-25 — Shapes in the Mist | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-10-18 — Ironclad | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-10-11 — The Path of Broken Oaths | Oxventure D&D: Wyrdwood — speakers: Broken Oaths, Green Man, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-10-04 — Howls in the Night | Oxventure D&D: Wyrdwood — speakers: Wyrdwood Worn, North West, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-09-27 — Rootbound | Oxventure D&D: Wyrdwood — speakers: Wyrdwood After, North West, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-09-20 — Folkmoot | Oxventure D&D: Wyrdwood — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-09-13 — Talking Wyrdwood w/ Johnny Chiodini! — speakers: Talking Wyrdwood, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-08-30 — A Whole New (old) World | Teens in Space — speakers: Whole New, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-08-23 — Party Time! | Teens in Space — speakers: Party Time, Space After, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2024-08-16 — Now This is Space Racing | Teens in Space — speakers: Space Racing, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-08-09 — Dad's Gonna be So Mad! | Teens in Space — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-08-02 — D&D But... Everyone is Kobolds LIVE! — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Find Luke Westway, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-07-26 — World Wide Wrestling | One-Shot Wonders — speakers: Dan Layton, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-07-19 — D&D But... It's Pokemon! — speakers: DM Luke Westaway, Ellen Rose, Andy Farrant, Johnny Chiodini, Outside Xbox, Outside Xtra, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-06-14 — Battle Royale | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-06-07 — Portal Combat | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-05-31 — Prism Break | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-05-24 — Eldritch or Die Trying | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-05-17 — Fails from the Crypt | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-05-10 — Elf-Fulfilling Prophecy | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-05-03 — Frenemy at the Gates | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-04-26 — Unfinished Business | D&D — speakers: Unfinished Business, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-04-19 — D&D But... Everyone Has Amnesia Pt2 — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-04-12 — D&D But... Everyone Has Amnesia Pt1 — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-04-05 — D&D But... Everyone is Kobolds — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-03-22 — Adventure Skeletons | One-Shot Wonders — speakers: William Cartwright, Olivia Kennedy, Adventure Skeletons, Grant Howitt, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
-- 2024-03-15 — You Awaken in a Strange Place | One-Shot Wonder — speakers: Liv Kennedy, Jacob Andrews, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-03-09 — Magic, Ghosts, Danger & Death | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-03-01 — Foundry No. 12 | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-02-23 — Fate of the Dimmer Sisters | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-02-16 — Into the Deathlands | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-02-09 — The Horrors of Castle Wisenshire | Blades in the Dark — speakers: Castle Wisenshire, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-02-02 — The Wardens of Bellweather Crematorium | Blades in the Dark — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-01-26 — To The Depths | Blades in the Dark — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-01-19 — The Death of Cornelius Bagshot | Blades in the Dark — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2024-01-13 — The Marriage of Lady Fyengeh | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-12-24 — Clear & Present Danger | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-12-22 — A Crimsnight Carol | Blades in the Dark — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-10-16 — Amat Victoria Curam | Deadlands — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-10-06 — More Wonders Than There Are in the Heavens - Part Two | Deadlands — speakers: Bison Billie, Aunt Hildy, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-09-29 — More Wonders Than There Are in the Heavens | Deadlands — speakers: Aunt Hildy, Joe Thickett, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-09-22 — The Town That Dreaded Justice - Part 2 | Deadlands — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-09-15 — The Town That Dreaded Justice | Deadlands — speakers: Fort Parker, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-09-08 — Forty Times a Killer - Part II | Deadlands — speakers: Daisy Ducrow, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-09-01 — Forty Times a Killer | Deadlands — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-08-25 — Dead Man's Worth - Part II | Deadlands — speakers: Dead Man, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-08-18 — Dead Man's Worth | Deadlands — speakers: Dead Man's Worth, Benjamin Bellows, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-08-11 — Running Them Down | Deadlands — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-07-28 — Teatime Adventures | One-Shot Wonders — speakers: Grant Howitt, Teatime Adventures, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-07-21 — Blade Runner: The Roleplaying Game | One-Shot Wonder — speakers: Blade Runner, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-07-14 — Squid Pro Quo | D&D — speakers: Squid Pro Quo, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-07-07 — Play Fight | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-06-16 — Staff Wars | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-06-09 — Cavern a Bad Day | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-06-02 — Cursed Case Scenario | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-05-27 — In Dino Veritas | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-05-19 — Below the Pelt | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-05-12 — Hag Reflex | D&D — speakers: SBundell Check, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-05-05 — Centaur of Attention | D&D — speakers: SBundell Check, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-04-28 — Life Finds a Dob | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-04-21 — Paddle Royale | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-04-14 — The Big Score | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-04-07 — The Lampblack Wedding | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-03-31 — Murder at Volisport Academy | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-03-24 — First Flight of the Sparrowhawk | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-03-17 — The Astor Gambit | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-03-10 — The Gut Cutter Bargain | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-03-03 — The Dreadful Dimmer Sisters | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-02-24 — High Stakes At The Splintered Bone | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-02-17 — The Cab-Con Caper | Blades in the Dark — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-02-10 — Ironhook's Bounty | Blades in the Dark — speakers: Oxventure Blade, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-02-03 — Dead Man's Debt | Blades in the Dark — speakers: Dead Man, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-01-29 — Baking Bad | D&D — speakers: Baking Bad, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-01-20 — Grad Attitude | D&D — speakers: Grad Attitude, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-01-13 — Knight Shift | D&D — speakers: Knight Shift, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2023-01-06 — Snow Escape | D&D — speakers: Luke Westaway, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
-- 2022-12-23 — Corpse and Robbers | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-12-16 — Ready Lair One | D&D — speakers: Ready Lair, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-12-12 — BONUS - PALADIN ADVENTURES & AN ANNOUNCEMENT — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-12-09 — Ballot Time | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-12-05 — Mist Opportunity | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-11-25 — Mean Gulls | D&D — speakers: Mean Gulls, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-11-18 — Parley Hard | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-11-11 — Carpe Idiom | D&D — speakers: Carpe Idiom, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-11-04 — Bad Altitude | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-10-21 — Record Time | D&D — speakers: Record Time, Producer Jon, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-10-14 — Shell Shock | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-10-07 — Dine Harder | D&D — speakers: Dine Harder, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-09-30 — Bride or Die | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-09-23 — Battle for Bardcon Part 2 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-09-16 — Battle for Bardcon Part 1 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-09-10 — Hog Wild Part 2 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-09-02 — Hog Wild Part 1 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-08-19 — 2022 Summer Hiatus - OXVENTURE WILL RETURN — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-08-12 — Let's Get Fiscal Part 2 | D&D — speakers: Luke Westaway, Gang Andy, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
-- 2022-08-05 — Let's Get Fiscal Part 1 | D&D — speakers: Luke Westaway, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
-- 2022-07-29 — Wedded Redemption Part 2 | D&D — speakers: Harry McEntire, Xenoblade Chronicles, Nic Cage, Wedded Redemption, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
-- 2022-07-22 — Wedded Redemption Part 1 | D&D — speakers: Harry McEntire, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-07-15 — Tome Sweet Tome Part 2 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-07-08 — Tome Sweet Tome Part 1 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-07-01 — A Fête Worse Than Death Part 2 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-06-24 — A Fête Worse Than Death Part 1 | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-06-17 — Season Finale | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-06-10 — Dine Hard | D&D — speakers: Dine Hard, Krispy Kreme, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-06-03 — Plandemonium | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-05-27 — Fools of Engagement | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-05-20 — No Way Rosé | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-05-13 — Party Fowl | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-05-06 — Monky Business | D&D — speakers: Monky Business, Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-04-29 — Twin it to Win it | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-04-22 — Wrangle in the Tangle | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-04-14 — Escaped Crusaders | D&D — speakers: Escaped Crusaders, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-04-08 — Epic Jail | D&D — speakers: Supporters Club, Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-08-09 — Dad's Gonna be So Mad! | Teens in Space — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-08-02 — D&D But... Everyone is Kobolds LIVE! — speakers: Kobold Vending Machine, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-07-26 — World Wide Wrestling | One-Shot Wonders — speakers: Dan Layton, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-07-19 — D&D But... It's Pokemon! — speakers: DM Luke Westaway, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-06-14 — Battle Royale | D&D — speakers: Battle Royale, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-06-07 — Portal Combat | D&D — speakers: Portal Combat, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-05-31 — Prism Break | D&D — speakers: Prism Break, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-05-24 — Eldritch or Die Trying | D&D — speakers: Die Trying, Cthulhu Dad, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
+- 2024-05-17 — Fails from the Crypt | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-05-10 — Elf-Fulfilling Prophecy | D&D — speakers: Fulfilling Prophecy, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-05-03 — Frenemy at the Gates | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-04-26 — Unfinished Business | D&D — speakers: Unfinished Business, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-04-19 — D&D But... Everyone Has Amnesia Pt2 — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-04-12 — D&D But... Everyone Has Amnesia Pt1 — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-04-05 — D&D But... Everyone is Kobolds — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-03-22 — Adventure Skeletons | One-Shot Wonders — speakers: Adventure Skeletons, Shot Wonders Finally, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-03-15 — You Awaken in a Strange Place | One-Shot Wonder — speakers: Liv Kennedy, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-03-09 — Magic, Ghosts, Danger & Death | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-03-01 — Foundry No. 12 | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-02-23 — Fate of the Dimmer Sisters | Blades in the Dark — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-02-16 — Into the Deathlands | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-02-09 — The Horrors of Castle Wisenshire | Blades in the Dark — speakers: Castle Wisenshire, Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-02-02 — The Wardens of Bellweather Crematorium | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-01-26 — To The Depths | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-01-19 — The Death of Cornelius Bagshot | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2024-01-13 — The Marriage of Lady Fyengeh | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-12-24 — Clear & Present Danger | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-12-22 — A Crimsnight Carol | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-10-16 — Amat Victoria Curam | Deadlands — speakers: Amat Victoria Curam, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-10-06 — More Wonders Than There Are in the Heavens - Part Two | Deadlands — speakers: Bison Billie, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-09-29 — More Wonders Than There Are in the Heavens | Deadlands — speakers: Aunt Hildy, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-09-22 — The Town That Dreaded Justice - Part 2 | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-09-15 — The Town That Dreaded Justice | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-09-08 — Forty Times a Killer - Part II | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-09-01 — Forty Times a Killer | Deadlands — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-08-25 — Dead Man's Worth - Part II | Deadlands — speakers: Dead Man, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-08-18 — Dead Man's Worth | Deadlands — speakers: Dead Man's Worth, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-08-11 — Running Them Down | Deadlands — speakers: Running Them Down, Deadlands Deadlands, Weird West, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway
+- 2023-07-28 — Teatime Adventures | One-Shot Wonders — speakers: Grant Howitt, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-07-21 — Blade Runner: The Roleplaying Game | One-Shot Wonder — speakers: Blade Runner, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-07-14 — Squid Pro Quo | D&D — speakers: Squid Pro Quo, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-07-07 — Play Fight | D&D — speakers: Play Fight, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-06-16 — Staff Wars | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-06-09 — Cavern a Bad Day | D&D — speakers: Bad Day, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-06-02 — Cursed Case Scenario | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-05-27 — In Dino Veritas | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-05-19 — Below the Pelt | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-05-12 — Hag Reflex | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-05-05 — Centaur of Attention | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-04-28 — Life Finds a Dob | D&D — speakers: Life Finds, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-04-21 — Paddle Royale | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-04-14 — The Big Score | Blades in the Dark — speakers: Dimmer Si, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-04-07 — The Lampblack Wedding | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-03-31 — Murder at Volisport Academy | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-03-24 — First Flight of the Sparrowhawk | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-03-17 — The Astor Gambit | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-03-10 — The Gut Cutter Bargain | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-03-03 — The Dreadful Dimmer Sisters | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-02-24 — High Stakes At The Splintered Bone | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-02-17 — The Cab-Con Caper | Blades in the Dark — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-02-10 — Ironhook's Bounty | Blades in the Dark — speakers: Oxventure Blade, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-02-03 — Dead Man's Debt | Blades in the Dark — speakers: Dead Man, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-01-29 — Baking Bad | D&D — speakers: Baking Bad, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-01-20 — Grad Attitude | D&D — speakers: Grad Attitude, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-01-13 — Knight Shift | D&D — speakers: Knight Shift, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2023-01-06 — Snow Escape | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-12-23 — Corpse and Robbers | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-12-16 — Ready Lair One | D&D — speakers: Ready Lair, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-12-12 — BONUS - PALADIN ADVENTURES & AN ANNOUNCEMENT — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-12-09 — Ballot Time | D&D — speakers: Ballot Time, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-12-05 — Mist Opportunity | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-11-25 — Mean Gulls | D&D — speakers: Mean Gulls, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-11-18 — Parley Hard | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-11-11 — Carpe Idiom | D&D — speakers: Carpe Idiom, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-11-04 — Bad Altitude | D&D — speakers: Bad Altitude, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-10-21 — Record Time | D&D — speakers: Record Time, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-10-14 — Shell Shock | D&D — speakers: Shell Shock, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-10-07 — Dine Harder | D&D — speakers: Dine Harder, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-09-30 — Bride or Die | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-09-23 — Battle for Bardcon Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-09-16 — Battle for Bardcon Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-09-10 — Hog Wild Part 2 | D&D — speakers: Hog Wild, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-09-02 — Hog Wild Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-08-19 — 2022 Summer Hiatus - OXVENTURE WILL RETURN — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-08-12 — Let's Get Fiscal Part 2 | D&D — speakers: Luke Westaway, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
+- 2022-08-05 — Let's Get Fiscal Part 1 | D&D — speakers: Luke Westaway, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
+- 2022-07-29 — Wedded Redemption Part 2 | D&D — speakers: Harry McEntire, Xenoblade Chronicles, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-07-22 — Wedded Redemption Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-07-15 — Tome Sweet Tome Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-07-08 — Tome Sweet Tome Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-07-01 — A Fête Worse Than Death Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-06-24 — A Fête Worse Than Death Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-06-17 — Season Finale | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-06-10 — Dine Hard | D&D — speakers: Dine Hard, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-06-03 — Plandemonium | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-05-27 — Fools of Engagement | D&D — speakers: Oxventurers Guild, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-05-20 — No Way Rosé | D&D — speakers: No Way, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-05-13 — Party Fowl | D&D — speakers: Party Fowl, Platinum Pudding, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-05-06 — Monky Business | D&D — speakers: Monky Business, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-04-29 — Twin it to Win it | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-04-22 — Wrangle in the Tangle | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-04-14 — Escaped Crusaders | D&D — speakers: Escaped Crusaders, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-04-08 — Epic Jail | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-04-01 — Sphere We Go | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-03-25 — The Levelling | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-03-18 — Crawl Me Maybe Part 2 | D&D — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-03-18 — Crawl Me Maybe Part 2 | D&D — speakers: Oxventure Cinematic Universe, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-03-11 — Crawl Me Maybe Part 1 | D&D — speakers: Elden Ring, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-03-04 — High Moon Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-02-25 — High Moon Part 1 | D&D — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-02-18 — Brine and Punishment Part 2 | D&D — speakers: Supporters Club, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-02-25 — High Moon Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2022-02-18 — Brine and Punishment Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-02-11 — Brine and Punishment Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2022-02-04 — Sail of the Century Part 2 | D&D — speakers: Luke Westaway, Russell Crowe, Camping Mug, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
+- 2022-02-04 — Sail of the Century Part 2 | D&D — speakers: Luke Westaway, Russell Crowe, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Mike Channell
 - 2022-01-28 — Sail of the Century Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-01-14 — Chart of Darkness Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2022-01-07 — Chart of Darkness Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
@@ -6387,71 +6035,71 @@
 - 2021-12-10 — Silent Knight Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-12-03 — Heir Superiority Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-11-26 — Heir Superiority Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-11-19 — Court in the Act Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-11-19 — Court in the Act Part 3 | D&D — speakers: Red Dead Redemption, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-11-12 — Court in the Act Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-11-05 — Court in the Act Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-11-05 — Court in the Act Part 1 | D&D — speakers: Oxventure Dungeons, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-10-29 — Unreal Estate Part 4 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-10-22 — Unreal Estate Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-10-15 — Unreal Estate Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-10-08 — Unreal Estate Part 1 | D&D — speakers: Squid Game, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-10-01 — Mule Be Sorry! Part 2 | D&D — speakers: Outside Xbox, Snow Mercy, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-10-08 — Unreal Estate Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-10-01 — Mule Be Sorry! Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-09-24 — Mule Be Sorry! Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-09-16 — Fast and Furriest! | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-09-09 — Gnome Alone! Part 2 | D&D — speakers: Ant Man, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-09-09 — Gnome Alone! Part 2 | D&D — speakers: Gnome Alone, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-09-02 — Gnome Alone! Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-08-27 — Watch Out! Part 3 | D&D — speakers: Watch Johnny, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-08-27 — Watch Out! Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-08-20 — Watch Out! Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-08-12 — Watch Out! Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-08-12 — Watch Out! Part 1 | D&D — speakers: Dungeon Mas, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-08-06 — Tower Rangers Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-07-30 — Tower Rangers Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-07-23 — Bone 2 Pick Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-07-15 — Bone 2 Pick Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-07-09 — Bone to Pick Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-07-02 — Bone to Pick Part 1 | D&D — speakers: Mario Golf, Tom Clancy’s Rainbow, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-06-25 — Elf Hazard Part 3 | D&D — speakers: Tom Clancy’s Rainbow, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-06-18 — Elf Hazard Part 2 | D&D — speakers: Elf Hazard, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-06-11 — Elf Hazard Part 1 | D&D — speakers: Elf Hazard, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-06-04 — Hunter Pressure Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-07-02 — Bone to Pick Part 1 | D&D — speakers: Mario Golf, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-06-25 — Elf Hazard Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-06-18 — Elf Hazard Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-06-11 — Elf Hazard Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-06-04 — Hunter Pressure Part 2 | D&D — speakers: Hunter Pres, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-05-28 — Hunter Pressure Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-05-21 — The Corn Ultimatum Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-05-14 — The Corn Ultimatum Part 1 | D&D — speakers: Nic Cage, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-05-14 — The Corn Ultimatum Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-05-07 — Sect Appeal Part 2 | D&D — speakers: Sect Appeal, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-04-30 — Sect Appeal Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-04-23 — Faire Trial Part 2 | D&D — speakers: Faire Trial, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-04-16 — Faire Trial Part 1 | D&D — speakers: Faire Trial, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-04-09 — Exhibition Impossible Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-04-23 — Faire Trial Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-04-16 — Faire Trial Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-04-09 — Exhibition Impossible Part 3 | D&D — speakers: Exhibition Impos, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-04-02 — Exhibition Impossible Part 2 | D&D — speakers: Mona Lisa, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-03-26 — Exhibition Impossible Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-03-19 — Peak Performance Part 4 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-03-12 — Peak Performance Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-03-05 — Peak Performance Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-02-26 — Peak Performance Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-02-19 — Rolling in the Deep | D&D — speakers: Mcm Birmingham, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-02-12 — Mind Your Manors | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-02-19 — Rolling in the Deep | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-02-12 — Mind Your Manors | D&D — speakers: between tw, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-02-05 — Ship Happens | D&D — speakers: Ship Happens, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-01-29 — Out of Order Part 3 | D&D — speakers: Jacques Darkfall, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-01-29 — Out of Order Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-01-22 — Out of Order Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-01-15 — Out of Order Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2021-01-08 — Spell Check | D&D — speakers: Spell Check, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2021-01-01 — Stop Hammer Time | D&D — speakers: Ellen Jane, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2021-01-01 — Stop Hammer Time | D&D — speakers: Ellen Jane, Stop Hammer Tim, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-12-25 — Heist Society | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-12-18 — Brawl of the Wild | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-12-11 — Bad Chair Day | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-12-04 — A Fishmas Carol Part 4 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-11-27 — A Fishmas Carol Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-11-27 — A Fishmas Carol Part 3 | D&D — speakers: Fishmas Carol, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-11-20 — A Fishmas Carol Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-11-13 — A Fishmas Carol Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-11-06 — Plunder Siege Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-10-30 — Plunder Siege Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-10-23 — Quiet Riot Part 2 | D&D — speakers: Outside Xbox, Outside Xtra, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-10-16 — Quiet Riot Part 1 | D&D — speakers: Outside Xbox, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-10-09 — Orcward Encounter Part 2 | D&D — speakers: Orcward Encounter, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-10-02 — Orcward Encounter Part 1 | D&D — speakers: Orcward Encounter, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-10-30 — Plunder Siege Part 1 | D&D — speakers: All Crims, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-10-23 — Quiet Riot Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-10-16 — Quiet Riot Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-10-09 — Orcward Encounter Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-10-02 — Orcward Encounter Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-09-25 — Wild Wild Woods Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-09-18 — Wild Wild Woods Part 1 | D&D — speakers: Wizard ex Machina, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-09-18 — Wild Wild Woods Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-09-11 — Spot of Bother Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-09-04 — Spot of Bother Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-08-28 — Spot of Bother Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-08-20 — The Spicy Rat Caper Part 3 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
 - 2020-08-20 — The Spicy Rat Caper Part 2 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
-- 2020-08-20 — The Spicy Rat Caper Part 1 | D&D — speakers: Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell
+- 2020-08-20 — The Spicy Rat Caper Part 1 | D&D — speakers: Oxventure Dungeons, Johnny Chiodini, Andy Farrant, Ellen Rose, Jane Douglas, Luke Westaway, Mike Channell

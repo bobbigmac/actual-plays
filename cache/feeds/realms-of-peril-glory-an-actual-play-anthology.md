@@ -2,9 +2,9 @@
 
 - slug: `realms-of-peril-glory-an-actual-play-anthology`
 - source: `https://feeds.megaphone.fm/FAFO5417156687`
-- fetched_at: `2026-02-23T03:21:34+00:00`
-- checked_at: `2026-02-23T03:21:34+00:00`
-- last_modified: `Sun, 22 Feb 2026 22:52:02 GMT`
+- fetched_at: `2026-03-02T21:51:51+00:00`
+- checked_at: `2026-03-02T21:51:51+00:00`
+- last_modified: `Mon, 02 Mar 2026 21:31:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.realmspod.com",
   "description": "Legendary Stories, Awe-inspiring Sound & Endless Adventure await in the Realms of Peril & Glory! Get ready for the actual play adventure of a lifetime! Explore the mechanically magical vistas of Vael, the paranormal mysteries of Liminal London, and the cyberpunk chaos of CY_BORG. With breathtaking sound design and enchanting original music, you’ll be immersed into unforgettable campaigns and heart-pounding one-shots. Ignite your imagination and discover the Realms of Peril & Glory today.",
   "image_url": "https://megaphone.imgix.net/podcasts/cf44508e-0b0f-11ec-8617-0328e1238bf9/image/eaa7bfb57a3a4843e7e98ba3af5b0c46.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T03:21:34+00:00",
+  "fetched_at": "2026-03-02T21:51:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "41db2b5a373050425353e0ae03046e1fb63d18d3",
+      "title": "An Update!",
+      "published_at": "2026-03-02T20:47:00+00:00",
+      "link": null,
+      "description": "Hey folks! So a couple hours after I posted the update about needing to delay the release I got some really bad news that I'm not able to talk about right now. So as a result things have been very delayed with me. I appreciate your ongoing patience and continue support. Thank you! - Zack Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP1767021794.mp3?updated=1772484823",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "61",
+      "speakers": [],
+      "topics": [
+        "update"
+      ]
+    },
     {
       "key": "b3c69c6d4eed74f207356d035d8907eaba73f721",
       "title": "Vael Delay - SO SORRY!",
@@ -56,10 +72,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7323",
-      "speakers": [
-        "Age Content Warnings",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "investigation",
@@ -77,10 +90,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4661",
-      "speakers": [
-        "Searle Zongroff",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "bureaucracy",
@@ -99,7 +109,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3596",
       "speakers": [
-        "Fantasy Threat"
+        "Imperium Seawall"
       ],
       "topics": [
         "vael",
@@ -119,7 +129,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4247",
       "speakers": [
-        "Fantasy Threat"
+        "New Harbour"
       ],
       "topics": [
         "vael",
@@ -139,9 +149,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5302",
       "speakers": [
-        "Vael Grief",
-        "Content Warnings",
-        "Fantasy Threat"
+        "Vael Grief"
       ],
       "topics": [
         "vael",
@@ -160,10 +168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5016",
-      "speakers": [
-        "Searle Zongroff",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "wicked"
@@ -180,15 +185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6306",
-      "speakers": [
-        "Fiona Howat",
-        "Liv Kennedy",
-        "Liz Campbell",
-        "Dirty Vortex",
-        "Rhys Lawton",
-        "James Barbarossa",
-        "Zack FG"
-      ],
+      "speakers": [],
       "topics": [
         "solemn",
         "vale",
@@ -212,10 +209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5654",
-      "speakers": [
-        "Searle Zongroff",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "acoustic",
@@ -234,9 +228,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6231",
       "speakers": [
-        "Content Warnings",
-        "Spider Webs Intense",
-        "Fantasy Threat"
+        "Bountyway Ballroom"
       ],
       "topics": [
         "vael",
@@ -256,7 +248,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5880",
       "speakers": [
-        "Fantasy Threat"
+        "New Harbour"
       ],
       "topics": [
         "vael",
@@ -276,8 +268,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4046",
       "speakers": [
-        "Vael Farewell",
-        "Fantasy Threat"
+        "Vael Farewell"
       ],
       "topics": [
         "vael",
@@ -297,10 +288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5978",
-      "speakers": [
-        "Gladwin System",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "return",
@@ -340,11 +328,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3985",
       "speakers": [
-        "Zombie Survival",
-        "Fiona Howat",
-        "Clint Black",
-        "Twin Musicom",
-        "Asher Fulero"
+        "Zombie Survival"
       ],
       "topics": [
         "zombie",
@@ -387,11 +371,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4270",
       "speakers": [
-        "Zachary Fortais-Gomm Picollina",
-        "Elizabeth Campbell Giacomo Music",
-        "James Barbarossa Rodney",
-        "Pip Gladwin Meatball",
-        "Max Briar System"
+        "Rapscallion Rule"
       ],
       "topics": [
         "vael",
@@ -411,12 +391,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4854",
       "speakers": [
-        "Joey Romano",
-        "Zachary Fortais-Gomm Picollina",
-        "Elizabeth Campbell Giacomo Music",
-        "James Barbarossa Rodney",
-        "Pip Gladwin Meatball",
-        "Max Briar System"
+        "Joey Romano"
       ],
       "topics": [
         "vael",
@@ -439,12 +414,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4655",
       "speakers": [
-        "Iceforge Clan",
-        "Zachary Fortais-Gomm Picollina",
-        "Elizabeth Campbell Giacomo Music",
-        "James Barbarossa Rodney",
-        "Pip Gladwin Meatball",
-        "Max Briar System"
+        "Iceforge Clan"
       ],
       "topics": [
         "vael",
@@ -466,11 +436,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4090",
       "speakers": [
-        "Zachary Fortais-Gomm Picollina",
-        "Elizabeth Campbell Giacomo Music",
-        "James Barbarossa Rodney",
-        "Pip Gladwin Meatball",
-        "Max Briar System"
+        "Rapscallion Rule",
+        "Family Business After",
+        "Rapscallion Crime Family"
       ],
       "topics": [
         "vael",
@@ -491,12 +459,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4248",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Nathan Blades Bagatha",
-        "Kathryn Stanley Content Warnings"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "adventure",
@@ -515,12 +478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3442",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Nathan Blades Bagatha",
-        "Kathryn Stanley Content Warnings"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "adventure",
@@ -539,12 +497,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3202",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Nathan Blades Bagatha",
-        "Kathryn Stanley Content Warnings"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "adventure",
@@ -563,12 +516,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4601",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Nathan Blades Bagatha",
-        "Kathryn Stanley Content Warnings"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "adventure",
@@ -588,10 +536,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4905",
       "speakers": [
-        "Come All Ye",
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
+        "Come All Ye"
       ],
       "topics": [
         "solemn",
@@ -611,9 +556,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5324",
       "speakers": [
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
+        "Solemn Vale",
+        "Silent Night Back"
       ],
       "topics": [
         "solemn",
@@ -634,9 +578,9 @@
       "enclosure_length": "0",
       "itunes_duration": "5485",
       "speakers": [
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
+        "Solemn Vale",
+        "Little Town Birdie",
+        "Guiding Star Commune"
       ],
       "topics": [
         "solemn",
@@ -656,11 +600,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5382",
-      "speakers": [
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
-      ],
+      "speakers": [],
       "topics": [
         "solemn",
         "vale",
@@ -679,11 +619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5646",
-      "speakers": [
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
-      ],
+      "speakers": [],
       "topics": [
         "solemn",
         "vale",
@@ -703,9 +639,8 @@
       "enclosure_length": "0",
       "itunes_duration": "5408",
       "speakers": [
-        "Fiona Howat Birdie",
-        "Edward Spence",
-        "Emily Bates"
+        "Solemn Vale",
+        "Bleak Midwinter When"
       ],
       "topics": [
         "solemn",
@@ -726,12 +661,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3698",
       "speakers": [
-        "Glass Houses",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Harley",
-        "Johnny Chiodini Music",
-        "James Barbarossa System"
+        "Glass Houses"
       ],
       "topics": [
         "glass",
@@ -753,12 +683,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3668",
       "speakers": [
-        "Glass Houses",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Harley",
-        "Johnny Chiodini Music",
-        "James Barbarossa System"
+        "Glass Houses"
       ],
       "topics": [
         "glass",
@@ -780,13 +705,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4010",
       "speakers": [
-        "Glass Houses",
-        "Vance Karma",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Harley",
-        "Johnny Chiodini Music",
-        "James Barbarossa System"
+        "Glass Houses"
       ],
       "topics": [
         "glass",
@@ -808,12 +727,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3922",
       "speakers": [
-        "Glass Houses",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Harley",
-        "Johnny Chiodini Music",
-        "James Barbarossa System"
+        "Glass Houses"
       ],
       "topics": [
         "glass",
@@ -834,11 +748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5766",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -853,10 +763,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7378",
       "speakers": [
-        "Project Basilisk",
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
+        "Project Basilisk"
       ],
       "topics": []
     },
@@ -872,10 +779,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4293",
       "speakers": [
-        "Project Basilisk",
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
+        "Project Basilisk"
       ],
       "topics": []
     },
@@ -891,9 +795,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5447",
       "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
+        "Ast Water"
       ],
       "topics": []
     },
@@ -908,12 +810,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4169",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System",
-        "Horror Atmospheres Body Horror"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -927,11 +824,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5712",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "emergency"
       ]
@@ -947,12 +840,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5148",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System",
-        "Body Horror"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -967,10 +855,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4961",
       "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System",
-        "Gore Learn"
+        "Cy City"
       ],
       "topics": []
     },
@@ -986,10 +871,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4814",
       "speakers": [
-        "Reaper Doc",
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
+        "Reaper Doc"
       ],
       "topics": []
     },
@@ -1004,11 +886,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8464",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1023,9 +901,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2800",
       "speakers": [
-        "Percy Chiswick",
-        "James Barbarossa Artist",
-        "com Licensed"
+        "Maddy Se"
       ],
       "topics": [
         "pitcrawler",
@@ -1043,13 +919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4395",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "pressure",
@@ -1070,11 +940,9 @@
       "enclosure_length": "0",
       "itunes_duration": "4054",
       "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System"
+        "Blood Pressure",
+        "Liminal London Mystery Five",
+        "Plenilunium Ball"
       ],
       "topics": [
         "blood",
@@ -1096,11 +964,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2947",
       "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System"
+        "Blood Pressure",
+        "Liminal London Mystery Five"
       ],
       "topics": [
         "blood",
@@ -1123,11 +988,7 @@
       "itunes_duration": "4863",
       "speakers": [
         "Annie Walker",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "James Barbarossa System"
+        "Shamini Bundell"
       ],
       "topics": [
         "blood",
@@ -1150,10 +1011,7 @@
       "itunes_duration": "7551",
       "speakers": [
         "Shamini Bundell",
-        "Fiona Howat Rhys Lawton",
-        "James Barbarossa Co-Host",
-        "Fiona Howat",
-        "Rhys Lawton System"
+        "Fiona Howat Rhys Lawton"
       ],
       "topics": [
         "yasp",
@@ -1201,10 +1059,8 @@
       "enclosure_length": "0",
       "itunes_duration": "4632",
       "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Struggles Learn"
+        "Loose Change",
+        "Liminal London Mystery Four"
       ],
       "topics": [
         "loose",
@@ -1225,12 +1081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3907",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Struggles Learn"
-      ],
+      "speakers": [],
       "topics": [
         "loose",
         "change",
@@ -1250,13 +1101,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4040",
-      "speakers": [
-        "Flora Waldron",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Struggles Learn"
-      ],
+      "speakers": [],
       "topics": [
         "loose",
         "change",
@@ -1276,11 +1121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2712",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System"
-      ],
+      "speakers": [],
       "topics": [
         "loose",
         "change",
@@ -1301,10 +1142,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2900",
       "speakers": [
-        "Marcus Wesley",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System"
+        "Marcus Wesley"
       ],
       "topics": [
         "loose",
@@ -1326,10 +1164,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3588",
       "speakers": [
-        "Flora Waldron",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System"
+        "Flora Waldron"
       ],
       "topics": [
         "loose",
@@ -1350,11 +1185,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4368",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System"
-      ],
+      "speakers": [],
       "topics": [
         "loose",
         "change",
@@ -1374,11 +1205,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7676",
-      "speakers": [
-        "James Barbarossa Shane Carnation",
-        "Tay Van Biljon",
-        "Dan Matthews Hoot Gibson"
-      ],
+      "speakers": [],
       "topics": [
         "yasp",
         "chicken",
@@ -1398,11 +1225,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4945",
       "speakers": [
-        "Oliver Barcher",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Oliver Barker",
-        "James Barbarossa System"
+        "Oliver Barcher"
       ],
       "topics": [
         "books",
@@ -1422,15 +1245,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4550",
-      "speakers": [
-        "Tracks NPCs",
-        "James Barbarossa Zongroff",
-        "Liz Campbell Ariadne",
-        "Fiona Howat",
-        "Lou Fryer Budly",
-        "Childhood Trauma Fire",
-        "Fraught Friendships Learn"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "reunion"
@@ -1447,12 +1262,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5893",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Pip Gladwin Pickleberry"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "laugh",
@@ -1474,12 +1284,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5716",
       "speakers": [
-        "Jasper William Cartwright",
-        "Voices Music",
-        "James Barbarossa Andos",
-        "William Cartwright",
-        "Pip Gladwin",
-        "Elizabeth Campbell System"
+        "Jasper William Cartwright"
       ],
       "topics": [
         "carnival",
@@ -1503,12 +1308,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4359",
       "speakers": [
-        "Jasper William Cartwright",
-        "Voices Music",
-        "James Barbarossa Andos",
-        "William Cartwright",
-        "Pip Gladwin",
-        "Elizabeth Campbell System"
+        "Jasper William Cartwright"
       ],
       "topics": [
         "carnival",
@@ -1531,12 +1331,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4671",
       "speakers": [
-        "Japser William Cartwright",
-        "Voices Music",
-        "James Barbarossa Andos",
-        "William Cartwright",
-        "Pip Gladwin",
-        "Elizabeth Campbell System"
+        "Japser William Cartwright"
       ],
       "topics": [
         "carnival",
@@ -1559,14 +1354,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5463",
-      "speakers": [
-        "James Jane",
-        "GM Zack",
-        "Timestamps Intro",
-        "Fiona Howat",
-        "Twin Musicom",
-        "Jammy Jams"
-      ],
+      "speakers": [],
       "topics": [
         "realms"
       ]
@@ -1597,13 +1385,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6600",
       "speakers": [
-        "CY Borg",
-        "Deemo Choon",
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm Blythe",
-        "James Barbarossa System",
-        "Horror Atmospheres"
+        "CY Borg"
       ],
       "topics": []
     },
@@ -1618,13 +1400,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3809",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm Blythe",
-        "James Barbarossa System",
-        "Body Horror"
-      ],
+      "speakers": [],
       "topics": [
         "afriendlychat"
       ]
@@ -1640,13 +1416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3248",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm Blythe",
-        "James Barbarossa System",
-        "Body Horror"
-      ],
+      "speakers": [],
       "topics": [
         "exitwounds"
       ]
@@ -1662,12 +1432,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3204",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm Blythe",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "gotime"
       ]
@@ -1683,12 +1448,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6994",
-      "speakers": [
-        "Pip Gladwin Pyrex",
-        "Shamini Bundell",
-        "Zachary Fortais-Gomm Blythe",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "welcometocy"
       ]
@@ -1706,11 +1466,7 @@
       "itunes_duration": "2774",
       "speakers": [
         "Problem Child",
-        "Yamina Masood",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Oliver Barker",
-        "James Barbarossa System"
+        "Yamina Masood"
       ],
       "topics": [
         "problem",
@@ -1732,12 +1488,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3128",
       "speakers": [
-        "Problem Child",
-        "Jeremy Wallace",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Oliver Barker",
-        "James Barbarossa System"
+        "Problem Child"
       ],
       "topics": [
         "problem",
@@ -1760,11 +1511,7 @@
       "itunes_duration": "3977",
       "speakers": [
         "Problem Child",
-        "Wizard Jeremy Wallace",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Oliver Barker",
-        "James Barbarossa System"
+        "Wizard Jeremy Wallace"
       ],
       "topics": [
         "problem",
@@ -1786,12 +1533,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3505",
       "speakers": [
-        "Oliver Barker",
-        "Grant Howitt",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Oliver Barker",
-        "James Barbarossa System"
+        "Problem Child",
+        "Liminal London Mystery Three"
       ],
       "topics": [
         "problem",
@@ -1813,12 +1556,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5578",
       "speakers": [
-        "Declan Buchanan",
-        "Zachary Fortais-Gomm Declan Buchanan",
-        "Pip Gladwin",
-        "Liv Kennedy Eugene",
-        "Fiona Howat Jocasta",
-        "James Barbarossa System"
+        "Declan Buchanan"
       ],
       "topics": [
         "phantasmic",
@@ -1837,14 +1575,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4357",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System",
-        "Gore Falling"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "loss",
@@ -1864,13 +1595,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2662",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "loss",
@@ -1890,13 +1615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3592",
-      "speakers": [
-        "Annie Walker",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "loss",
@@ -1916,13 +1635,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3337",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin",
-        "Annie Walker",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "loss",
@@ -1966,8 +1679,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3014",
       "speakers": [
-        "Shamini Bundell RPGeeks",
-        "London Grind"
+        "Shamini Bundell RPGeeks"
       ],
       "topics": [
         "game",
@@ -2009,10 +1721,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2511",
       "speakers": [
-        "Beckford Music",
-        "James Barbarossa Cass Ferguson",
-        "Horror Atmosphere",
-        "Peril Major"
+        "High School",
+        "Offerings After"
       ],
       "topics": [
         "high",
@@ -2034,10 +1744,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2766",
       "speakers": [
-        "Beckford Music",
-        "James Barbarossa Cass Ferguson",
-        "Horror Atmosphere",
-        "Peril Major"
+        "High School"
       ],
       "topics": [
         "high",
@@ -2059,10 +1766,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2802",
       "speakers": [
-        "Beckford Music",
-        "James Barbarossa Cass Ferguson",
-        "Horror Atmosphere",
-        "Peril Major"
+        "High School",
+        "Lies Horrific"
       ],
       "topics": [
         "high",
@@ -2083,10 +1788,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3512",
       "speakers": [
-        "Beckford Music",
-        "James Barbarossa Cass Ferguson",
-        "Horror Atmosphere",
-        "Peril Major"
+        "High School",
+        "Breakfast Club"
       ],
       "topics": [
         "high",
@@ -2108,12 +1811,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4057",
       "speakers": [
-        "Lady Victoria",
-        "Zachary Fortais-Gomm Lady",
-        "Elizabeth Campbell",
-        "James Barbarossa Beladona",
-        "Rachel Smith Sound Design",
-        "Kathryn Stanlee System"
+        "Lady Victoria"
       ],
       "topics": [
         "viva",
@@ -2133,11 +1831,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1834",
-      "speakers": [
-        "Zachary Fortais-Gomm System",
-        "Horror Atmosphere",
-        "Romance Learn"
-      ],
+      "speakers": [],
       "topics": [
         "marcus",
         "daniel"
@@ -2154,14 +1848,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2940",
-      "speakers": [
-        "Pip Gladwin Zongroff",
-        "Elizabeth Campbell Premgrath",
-        "Hedley Knights Krozlin",
-        "Beth Crane Brenda",
-        "Zachary Fortais-Gomm",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "lythwyn",
@@ -2181,12 +1868,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4508",
-      "speakers": [
-        "Pip Gladwin Zongroff",
-        "Elizabeth Campbell Premgrath",
-        "Hedley Knights Krozlin",
-        "Beth Crane Brenda"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "lythwyn",
@@ -2205,13 +1887,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4048",
-      "speakers": [
-        "Pip Gladwin Zongroff",
-        "Elizabeth Campbell Tralyth",
-        "Zachary Fortais-Gomm",
-        "James Barbarossa Hantak",
-        "Rachel Smith System"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "lythwyn",
@@ -2231,13 +1907,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3307",
-      "speakers": [
-        "Pip Gladwin Zongroff",
-        "Elizabeth Campbell Tralyth",
-        "Zachary Fortais-Gomm",
-        "James Barbarossa Hantak",
-        "Rachel Smith System"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "lythwyn",
@@ -2256,13 +1926,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3703",
-      "speakers": [
-        "Pip Gladwin Zongroff",
-        "Elizabeth Campbell Tralyth",
-        "Zachary Fortais-Gomm",
-        "James Barbarossa Hantak",
-        "Rachel Smith System"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "lythwyn",
@@ -2284,10 +1948,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3825",
       "speakers": [
-        "London Grind",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System"
+        "London Grind"
       ],
       "topics": [
         "london",
@@ -2308,11 +1969,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2653",
       "speakers": [
-        "London Grind",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Kathryn Stanley Content Warnings"
+        "London Grind"
       ],
       "topics": [
         "london",
@@ -2333,12 +1990,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4096",
       "speakers": [
-        "London Grind",
-        "Vance Karma",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Kathryn Stanley Content Warnings"
+        "London Grind"
       ],
       "topics": [
         "london",
@@ -2359,11 +2011,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5337",
       "speakers": [
-        "London Grind",
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin System",
-        "Kathryn Stanley Content Warnings"
+        "London Grind"
       ],
       "topics": [
         "london",
@@ -2383,12 +2031,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2047",
-      "speakers": [
-        "Zachary Fortais-Gomm Moggett",
-        "Beth Eyre Magpie",
-        "Elizabeth Campbell",
-        "Murder Gore Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "witch",
         "hunter"
@@ -2405,12 +2048,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2630",
-      "speakers": [
-        "Zachary Fortais-Gomm Moggett",
-        "Beth Eyre Magpie",
-        "Elizabeth Campbell",
-        "Murder Gore Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "witch",
         "brooch"
@@ -2427,12 +2065,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2429",
-      "speakers": [
-        "Zachary Fortais-Gomm Moggett",
-        "Beth Eyre Magpie",
-        "Elizabeth Campbell",
-        "Murder Gore Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "witch",
         "mistress"
@@ -2449,13 +2082,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4128",
-      "speakers": [
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa",
-        "Horror Elements",
-        "Gore Learn"
-      ],
+      "speakers": [],
       "topics": [
         "agon",
         "tymisos"
@@ -2472,13 +2099,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4014",
-      "speakers": [
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa",
-        "Horror Elements",
-        "Gore Learn"
-      ],
+      "speakers": [],
       "topics": [
         "agon",
         "tymisos"
@@ -2495,11 +2116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4328",
-      "speakers": [
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa"
-      ],
+      "speakers": [],
       "topics": [
         "agon",
         "akoros"
@@ -2516,11 +2133,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3788",
-      "speakers": [
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa"
-      ],
+      "speakers": [],
       "topics": [
         "agon",
         "akoros"
@@ -2537,11 +2150,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4420",
-      "speakers": [
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa"
-      ],
+      "speakers": [],
       "topics": [
         "agon",
         "kryos"
@@ -2559,10 +2168,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3621",
       "speakers": [
-        "Join Cantae",
-        "Hedley Knights",
-        "Ella Watts",
-        "James Barbarossa"
+        "Join Cantae"
       ],
       "topics": [
         "agon",
@@ -2581,12 +2187,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2177",
       "speakers": [
-        "Spooky Sword Lesbians",
-        "Ella Watts",
-        "Sasha Sienna",
-        "Danielle Shemaiah",
-        "Beth Crane",
-        "Thirsty Sword"
+        "Spooky Sword Lesbians"
       ],
       "topics": [
         "spooky",
@@ -2610,13 +2211,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3818",
       "speakers": [
-        "Spooky Sword Lesbians",
-        "Spooky Sword",
-        "Ella Watts",
-        "Sasha Sienna",
-        "Danielle Shemaiah",
-        "Beth Crane",
-        "Thirsty Sword"
+        "Spooky Sword Lesbians"
       ],
       "topics": [
         "spooky",
@@ -2638,12 +2233,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3228",
       "speakers": [
-        "Spooky Sword Lesbians",
-        "Ella Watts",
-        "Sasha Sienna",
-        "Danielle Shemaiah",
-        "Beth Crane",
-        "Thirsty Sword"
+        "Spooky Sword Lesbians"
       ],
       "topics": [
         "spooky",
@@ -2665,13 +2255,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5272",
       "speakers": [
-        "Ella Watts",
-        "Sasha Sienna",
-        "David Amber",
-        "James Barbarossa",
-        "Zachary Fortais-Gomm",
-        "Nibiru Content Warnings",
-        "Peril Large Monster Learn"
+        "Nibiru Erebus"
       ],
       "topics": [
         "nibiru",
@@ -2692,13 +2276,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5726",
       "speakers": [
-        "Vagabond Fishing Welcome",
-        "Ella Watts",
-        "Sasha Sienna",
-        "David Amber",
-        "James Barbarossa",
-        "Zachary Fortais-Gomm",
-        "Nibiru Content Warnings"
+        "Vagabond Fishing Welcome"
       ],
       "topics": [
         "nibiru",
@@ -2719,11 +2297,8 @@
       "enclosure_length": "0",
       "itunes_duration": "8762",
       "speakers": [
-        "James Barbarossa Rex",
-        "David Orion Jack",
-        "Fuentes System",
-        "Horror Atmosphere",
-        "Peril Body Horror"
+        "Cai Gwilym Pritchard",
+        "David Orion"
       ],
       "topics": [
         "yasp",
@@ -2749,14 +2324,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7965",
-      "speakers": [
-        "James Barbarossa Sazerac",
-        "Eoghan Ziggy",
-        "Dave Fluke",
-        "Scott Dorward System",
-        "Horror Atmosphere",
-        "Peril Major"
-      ],
+      "speakers": [],
       "topics": [
         "yasp",
         "leech",
@@ -2776,11 +2344,7 @@
       "itunes_duration": "8407",
       "speakers": [
         "Ella Watts",
-        "David Pellow",
-        "James Barbarossa Sparkles",
-        "David Pellow System",
-        "Horror Atmosphere",
-        "Peril Fraught Family Relationships"
+        "David Pellow"
       ],
       "topics": [
         "yasp",
@@ -2806,13 +2370,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8239",
-      "speakers": [
-        "Join Russ",
-        "James Barbarossa Willy",
-        "Russ More Spanky",
-        "Tom Lairs System",
-        "Horror Atmosphere"
-      ],
+      "speakers": [],
       "topics": [
         "yasp",
         "trebuchet",
@@ -2831,13 +2389,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7309",
-      "speakers": [
-        "David Amber",
-        "James Barbarossa Janty",
-        "Katrina Allen Archibald",
-        "Cameron Clow System",
-        "Horror Atmosphere"
-      ],
+      "speakers": [],
       "topics": [
         "yasp"
       ]
@@ -2854,10 +2406,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5705",
       "speakers": [
-        "Join Cat",
-        "James Barbarossa Bud",
-        "John Sebastian La Valle",
-        "Zachary Fortais-Gomm System"
+        "Join Cat"
       ],
       "topics": [
         "yasp",
@@ -2880,11 +2429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8052",
-      "speakers": [
-        "James Barbarossa",
-        "James Barbarossa Reinhart",
-        "Zachary Fortais-Gomm Matilda"
-      ],
+      "speakers": [],
       "topics": [
         "yasp",
         "gisnep",
@@ -2906,11 +2451,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2989",
       "speakers": [
-        "Jack Frost",
-        "Zachary Fortais-Gomm Gumdrop",
-        "James Barbarossa Merry",
-        "Content Warnings",
-        "Fantasy Threat"
+        "Jack Frost dee"
       ],
       "topics": [
         "christmas",
@@ -2933,10 +2474,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2759",
       "speakers": [
-        "Zachary Fortais-Gomm Gumdrop",
-        "James Barbarossa Merry",
-        "Content Warnings",
-        "Fantasy Threat"
+        "Christmas Caper",
+        "Ginger Resistance"
       ],
       "topics": [
         "christmas",
@@ -2958,11 +2497,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3332",
       "speakers": [
-        "Join Merry",
-        "Zachary Fortais-Gomm Gumdrop",
-        "James Barbarossa Merry",
-        "Content Warnings",
-        "Fantasy Threat"
+        "Join Merry"
       ],
       "topics": [
         "christmas",
@@ -2984,11 +2519,7 @@
       "itunes_duration": "10658",
       "speakers": [
         "Last Stand",
-        "Undying King",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Fantasy Threat"
+        "Undying King"
       ],
       "topics": [
         "vael",
@@ -3008,12 +2539,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "7467",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "answers",
@@ -3031,11 +2557,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4145",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael"
       ]
@@ -3052,11 +2574,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5295",
       "speakers": [
-        "Langford Manor",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Cai Gwylim-Pritchard Content Warnings"
+        "Langford Manor"
       ],
       "topics": [
         "vael",
@@ -3076,11 +2594,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5516",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "deduction",
@@ -3099,10 +2613,7 @@
       "enclosure_length": "0",
       "itunes_duration": "6887",
       "speakers": [
-        "Vael Raid",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
+        "Vael Raid"
       ],
       "topics": [
         "vael",
@@ -3122,11 +2633,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5742",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "midnight",
@@ -3144,12 +2651,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5549",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Horror Themes Unsettling"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "reflections",
@@ -3167,13 +2669,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4818",
-      "speakers": [
-        "Taavin Seguiin",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Cai Gwylim-Pritchard Content Warnings"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "interrogation",
@@ -3193,10 +2689,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5917",
       "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Cai Gwylim-Pritchard Content Warnings"
+        "Rapscallion Crime Family"
       ],
       "topics": [
         "vael",
@@ -3216,12 +2709,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4875",
       "speakers": [
-        "Taavin Seguiin",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Cai Gwylim-Pritchard Content Warnings",
-        "Humour Death Learn"
+        "Taavin Seguiin"
       ],
       "topics": [
         "vael",
@@ -3240,11 +2728,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4141",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "open",
@@ -3263,11 +2747,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4889",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "teamwork"
@@ -3286,10 +2766,7 @@
       "itunes_duration": "5152",
       "speakers": [
         "Vael Sad",
-        "Qinrith Dorai",
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
+        "Qinrith Dorai"
       ],
       "topics": [
         "vael",
@@ -3307,12 +2784,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5352",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff",
-        "Fantasy Threat"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "murder",
@@ -3330,11 +2802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4683",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "battle"
@@ -3351,11 +2819,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4942",
-      "speakers": [
-        "Voices Music",
-        "James Barbarossa Isadora",
-        "Searle Zongroff"
-      ],
+      "speakers": [],
       "topics": [
         "vael",
         "welcome",
@@ -3374,8 +2838,8 @@
       "enclosure_length": "0",
       "itunes_duration": "60",
       "speakers": [
-        "sound design",
-        "original music"
+        "Glory Legendary Stories",
+        "Endless Adventure"
       ],
       "topics": [
         "realms",
@@ -3390,144 +2854,145 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — An Update!
 - 2026-02-22 — Vael Delay - SO SORRY! — speakers: Vael Delay SO
-- 2026-02-09 — Vael | Investigation in Imperium — speakers: Age Content Warnings, Fantasy Threat
-- 2026-01-26 — Vael | Bureaucracy in Imperium — speakers: Searle Zongroff, Fantasy Threat
-- 2026-01-05 — Vael | Showdown on the Seawall — speakers: Fantasy Threat
-- 2025-12-08 — Vael | Visions on the Road — speakers: Fantasy Threat
-- 2025-11-24 — Vael | Grief in Gravewatch — speakers: Vael Grief, Content Warnings, Fantasy Threat
-- 2025-11-10 — Vael | War on the Wicked Way — speakers: Searle Zongroff, Fantasy Threat
-- 2025-10-28 — Solemn Vale: Homegrown - Part One | Realms of Peril & Glory Presents: Last Line. Rewind. — speakers: Fiona Howat, Liv Kennedy, Liz Campbell, Dirty Vortex, Rhys Lawton, James Barbarossa, Zack FG
-- 2025-10-27 — Vael | Acoustic on the Streets — speakers: Searle Zongroff, Fantasy Threat
-- 2025-10-13 — Vael | Blitz in the Ballroom — speakers: Content Warnings, Spider Webs Intense, Fantasy Threat
-- 2025-09-29 — Vael | Investigations in Bountyway — speakers: Fantasy Threat
-- 2025-09-15 — Vael | Farewell in Union Station — speakers: Vael Farewell, Fantasy Threat
-- 2025-09-01 — Vael | Return to New Harbour — speakers: Gladwin System, Fantasy Threat
+- 2026-02-09 — Vael | Investigation in Imperium
+- 2026-01-26 — Vael | Bureaucracy in Imperium
+- 2026-01-05 — Vael | Showdown on the Seawall — speakers: Imperium Seawall
+- 2025-12-08 — Vael | Visions on the Road — speakers: New Harbour
+- 2025-11-24 — Vael | Grief in Gravewatch — speakers: Vael Grief
+- 2025-11-10 — Vael | War on the Wicked Way
+- 2025-10-28 — Solemn Vale: Homegrown - Part One | Realms of Peril & Glory Presents: Last Line. Rewind.
+- 2025-10-27 — Vael | Acoustic on the Streets
+- 2025-10-13 — Vael | Blitz in the Ballroom — speakers: Bountyway Ballroom
+- 2025-09-29 — Vael | Investigations in Bountyway — speakers: New Harbour
+- 2025-09-15 — Vael | Farewell in Union Station — speakers: Vael Farewell
+- 2025-09-01 — Vael | Return to New Harbour
 - 2025-08-25 — Vael Returns! | Realms Announcement — speakers: Vael Returns
-- 2025-04-28 — Zombie Survival | Savage Worlds | Realms x What am I Rolling! — speakers: Zombie Survival, Fiona Howat, Clint Black, Twin Musicom, Asher Fulero
+- 2025-04-28 — Zombie Survival | Savage Worlds | Realms x What am I Rolling! — speakers: Zombie Survival
 - 2025-04-22 — OUT NOW | Vael Campaign One Remaster — speakers: Vael Campaign One Remaster, Vael Campaign One
-- 2025-04-14 — Vael: Rapscallion Rule | It's Nothing Personal — speakers: Zachary Fortais-Gomm Picollina, Elizabeth Campbell Giacomo Music, James Barbarossa Rodney, Pip Gladwin Meatball, Max Briar System
-- 2025-04-07 — Vael: Rapscallion Rule | Meatball's Street Brawl — speakers: Joey Romano, Zachary Fortais-Gomm Picollina, Elizabeth Campbell Giacomo Music, James Barbarossa Rodney, Pip Gladwin Meatball, Max Briar System
-- 2025-03-31 — Vael: Rapscallion Rule | Peacetalks in Wartime — speakers: Iceforge Clan, Zachary Fortais-Gomm Picollina, Elizabeth Campbell Giacomo Music, James Barbarossa Rodney, Pip Gladwin Meatball, Max Briar System
-- 2025-03-24 — Vael: Rapscallion Rule | Family Business — speakers: Zachary Fortais-Gomm Picollina, Elizabeth Campbell Giacomo Music, James Barbarossa Rodney, Pip Gladwin Meatball, Max Briar System
-- 2025-02-24 — Vael: Adventures in Athril | The Score — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Nathan Blades Bagatha, Kathryn Stanley Content Warnings
-- 2025-02-17 — Vael: Adventures in Athril | The Vault — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Nathan Blades Bagatha, Kathryn Stanley Content Warnings
-- 2025-02-10 — Vael: Adventures in Athril | The Competition — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Nathan Blades Bagatha, Kathryn Stanley Content Warnings
-- 2025-02-03 — Vael: Adventures in Athril | The Plan — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Nathan Blades Bagatha, Kathryn Stanley Content Warnings
-- 2024-12-24 — Solemn Vale | Come All Ye Faithful — speakers: Come All Ye, Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-23 — Solemn Vale | Silent Night — speakers: Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-22 — Solemn Vale | O Little Town — speakers: Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-21 — Solemn Vale | It Came Upon The Midnight Clear — speakers: Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-20 — Solemn Vale | Deck the Halls — speakers: Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-19 — Solemn Vale | In the Bleak Midwinter — speakers: Fiona Howat Birdie, Edward Spence, Emily Bates
-- 2024-12-09 — Glass Houses Pt4 | Liminal London Mystery Six — speakers: Glass Houses, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Harley, Johnny Chiodini Music, James Barbarossa System
-- 2024-12-02 — Glass Houses Pt3 | Liminal London Mystery Six — speakers: Glass Houses, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Harley, Johnny Chiodini Music, James Barbarossa System
-- 2024-11-25 — Glass Houses Pt2 | Liminal London Mystery Six — speakers: Glass Houses, Vance Karma, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Harley, Johnny Chiodini Music, James Barbarossa System
-- 2024-11-18 — Glass Houses Pt1 | Liminal London Mystery Six — speakers: Glass Houses, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Harley, Johnny Chiodini Music, James Barbarossa System
-- 2024-09-16 — CY_BORG II | Vanguard-V02.rar — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-09-09 — CY_BORG II | Vanguard-V01.rar — speakers: Project Basilisk, Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-09-02 — CY_BORG II | TheLegends.exe — speakers: Project Basilisk, Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-08-26 — CY_BORG II | TheMyth.csv — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-08-19 — CY_BORG II | TheMan.xml — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System, Horror Atmospheres Body Horror
-- 2024-08-12 — CY_BORG II | Emergency=Exit.mp4 — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-08-05 — CY_BORG II | Holding|the|Line.tmp — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System, Body Horror
-- 2024-07-29 — CY_BORG II | Under-the-Knife.app — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System, Gore Learn
-- 2024-07-22 — CY_BORG II | Wanted+Dead.RAW — speakers: Reaper Doc, Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-07-15 — CY_BORG II | Burning-Rubber.dmg — speakers: Pip Gladwin Pyrex, Shamini Bundell, James Barbarossa System
-- 2024-06-17 — Pitcrawler Pt1 | A Game of One's Own — speakers: Percy Chiswick, James Barbarossa Artist, com Licensed
-- 2024-06-10 — Blood Pressure Pt4 | Liminal London Mystery Five — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System
-- 2024-06-03 — Blood Pressure Pt3 | Liminal London Mystery Five — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System
-- 2024-05-27 — Blood Pressure Pt2 | Liminal London Mystery Five — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System
-- 2024-05-20 — Blood Pressure Pt1 | Liminal London Mystery Five — speakers: Annie Walker, Shamini Bundell, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, James Barbarossa System
-- 2024-04-29 — YASP | La Danse Chouette (Ft. Shamini Bundell, Fiona Howat & Rhys Lawton) — speakers: Shamini Bundell, Fiona Howat Rhys Lawton, James Barbarossa Co-Host, Fiona Howat, Rhys Lawton System
+- 2025-04-14 — Vael: Rapscallion Rule | It's Nothing Personal — speakers: Rapscallion Rule
+- 2025-04-07 — Vael: Rapscallion Rule | Meatball's Street Brawl — speakers: Joey Romano
+- 2025-03-31 — Vael: Rapscallion Rule | Peacetalks in Wartime — speakers: Iceforge Clan
+- 2025-03-24 — Vael: Rapscallion Rule | Family Business — speakers: Rapscallion Rule, Family Business After, Rapscallion Crime Family
+- 2025-02-24 — Vael: Adventures in Athril | The Score
+- 2025-02-17 — Vael: Adventures in Athril | The Vault
+- 2025-02-10 — Vael: Adventures in Athril | The Competition
+- 2025-02-03 — Vael: Adventures in Athril | The Plan
+- 2024-12-24 — Solemn Vale | Come All Ye Faithful — speakers: Come All Ye
+- 2024-12-23 — Solemn Vale | Silent Night — speakers: Solemn Vale, Silent Night Back
+- 2024-12-22 — Solemn Vale | O Little Town — speakers: Solemn Vale, Little Town Birdie, Guiding Star Commune
+- 2024-12-21 — Solemn Vale | It Came Upon The Midnight Clear
+- 2024-12-20 — Solemn Vale | Deck the Halls
+- 2024-12-19 — Solemn Vale | In the Bleak Midwinter — speakers: Solemn Vale, Bleak Midwinter When
+- 2024-12-09 — Glass Houses Pt4 | Liminal London Mystery Six — speakers: Glass Houses
+- 2024-12-02 — Glass Houses Pt3 | Liminal London Mystery Six — speakers: Glass Houses
+- 2024-11-25 — Glass Houses Pt2 | Liminal London Mystery Six — speakers: Glass Houses
+- 2024-11-18 — Glass Houses Pt1 | Liminal London Mystery Six — speakers: Glass Houses
+- 2024-09-16 — CY_BORG II | Vanguard-V02.rar
+- 2024-09-09 — CY_BORG II | Vanguard-V01.rar — speakers: Project Basilisk
+- 2024-09-02 — CY_BORG II | TheLegends.exe — speakers: Project Basilisk
+- 2024-08-26 — CY_BORG II | TheMyth.csv — speakers: Ast Water
+- 2024-08-19 — CY_BORG II | TheMan.xml
+- 2024-08-12 — CY_BORG II | Emergency=Exit.mp4
+- 2024-08-05 — CY_BORG II | Holding|the|Line.tmp
+- 2024-07-29 — CY_BORG II | Under-the-Knife.app — speakers: Cy City
+- 2024-07-22 — CY_BORG II | Wanted+Dead.RAW — speakers: Reaper Doc
+- 2024-07-15 — CY_BORG II | Burning-Rubber.dmg
+- 2024-06-17 — Pitcrawler Pt1 | A Game of One's Own — speakers: Maddy Se
+- 2024-06-10 — Blood Pressure Pt4 | Liminal London Mystery Five
+- 2024-06-03 — Blood Pressure Pt3 | Liminal London Mystery Five — speakers: Blood Pressure, Liminal London Mystery Five, Plenilunium Ball
+- 2024-05-27 — Blood Pressure Pt2 | Liminal London Mystery Five — speakers: Blood Pressure, Liminal London Mystery Five
+- 2024-05-20 — Blood Pressure Pt1 | Liminal London Mystery Five — speakers: Annie Walker, Shamini Bundell
+- 2024-04-29 — YASP | La Danse Chouette (Ft. Shamini Bundell, Fiona Howat & Rhys Lawton) — speakers: Shamini Bundell, Fiona Howat Rhys Lawton
 - 2024-03-20 — Blood on the Clocktower | Realms Pilot Program — speakers: Realms Pilot Program Now
-- 2024-03-18 — Loose Change Pt7 | Liminal London Mystery Four — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Struggles Learn
-- 2024-03-11 — Loose Change Pt6 | Liminal London Mystery Four — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Struggles Learn
-- 2024-03-04 — Loose Change Pt5 | Liminal London Mystery Four — speakers: Flora Waldron, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Struggles Learn
-- 2024-02-26 — Loose Change Pt4 | Liminal London Mystery Four — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System
-- 2024-02-19 — Loose Change Pt3 | Liminal London Mystery Four — speakers: Marcus Wesley, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System
-- 2024-02-12 — Loose Change Pt2 | Liminal London Mystery Four — speakers: Flora Waldron, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System
-- 2024-02-05 — Loose Change Pt1 | Liminal London Mystery Four — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System
-- 2023-12-20 — YASP | A Chicken in the Fog (ft. The Backwater Bastards) — speakers: James Barbarossa Shane Carnation, Tay Van Biljon, Dan Matthews Hoot Gibson
-- 2023-12-18 — Cooking the Books | Liminal London Live at Dragonmeet 2023 — speakers: Oliver Barcher, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Oliver Barker, James Barbarossa System
-- 2023-12-11 — Vael: Reunion | Part One — speakers: Tracks NPCs, James Barbarossa Zongroff, Liz Campbell Ariadne, Fiona Howat, Lou Fryer Budly, Childhood Trauma Fire, Fraught Friendships Learn
-- 2023-11-06 — Vael: Live, Laugh, Loophole | Live at London Podcast Festival — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff, Pip Gladwin Pickleberry
-- 2023-10-30 — Carnival du Vael | The Grand Finale (ft. Jasper William Cartwright) — speakers: Jasper William Cartwright, Voices Music, James Barbarossa Andos, William Cartwright, Pip Gladwin, Elizabeth Campbell System
-- 2023-10-23 — Carnival du Vael | Send in the Clowns (ft. Jasper William Cartwright) — speakers: Jasper William Cartwright, Voices Music, James Barbarossa Andos, William Cartwright, Pip Gladwin, Elizabeth Campbell System
-- 2023-10-16 — Carnival du Vael | Le Grand Chapiteu (ft. Japser William Cartwright) — speakers: Japser William Cartwright, Voices Music, James Barbarossa Andos, William Cartwright, Pip Gladwin, Elizabeth Campbell System
-- 2023-10-02 — Flabbergasted! | Realms x What am I Rolling! — speakers: James Jane, GM Zack, Timestamps Intro, Fiona Howat, Twin Musicom, Jammy Jams
+- 2024-03-18 — Loose Change Pt7 | Liminal London Mystery Four — speakers: Loose Change, Liminal London Mystery Four
+- 2024-03-11 — Loose Change Pt6 | Liminal London Mystery Four
+- 2024-03-04 — Loose Change Pt5 | Liminal London Mystery Four
+- 2024-02-26 — Loose Change Pt4 | Liminal London Mystery Four
+- 2024-02-19 — Loose Change Pt3 | Liminal London Mystery Four — speakers: Marcus Wesley
+- 2024-02-12 — Loose Change Pt2 | Liminal London Mystery Four — speakers: Flora Waldron
+- 2024-02-05 — Loose Change Pt1 | Liminal London Mystery Four
+- 2023-12-20 — YASP | A Chicken in the Fog (ft. The Backwater Bastards)
+- 2023-12-18 — Cooking the Books | Liminal London Live at Dragonmeet 2023 — speakers: Oliver Barcher
+- 2023-12-11 — Vael: Reunion | Part One
+- 2023-11-06 — Vael: Live, Laugh, Loophole | Live at London Podcast Festival
+- 2023-10-30 — Carnival du Vael | The Grand Finale (ft. Jasper William Cartwright) — speakers: Jasper William Cartwright
+- 2023-10-23 — Carnival du Vael | Send in the Clowns (ft. Jasper William Cartwright) — speakers: Jasper William Cartwright
+- 2023-10-16 — Carnival du Vael | Le Grand Chapiteu (ft. Japser William Cartwright) — speakers: Japser William Cartwright
+- 2023-10-02 — Flabbergasted! | Realms x What am I Rolling!
 - 2023-08-22 — ł₦₵Ø₥ł₦₲ ₮Ɽ₳₦₴₥ł₴₴łØ₦
-- 2023-08-21 — CY_BORG | Goodnight+GoodLuck.DOS — speakers: CY Borg, Deemo Choon, Pip Gladwin Pyrex, Shamini Bundell, Zachary Fortais-Gomm Blythe, James Barbarossa System, Horror Atmospheres
-- 2023-08-14 — CY_BORG | AFriendlyChat.TMP — speakers: Pip Gladwin Pyrex, Shamini Bundell, Zachary Fortais-Gomm Blythe, James Barbarossa System, Body Horror
-- 2023-08-07 — CY_BORG | ExitWounds.ZIP — speakers: Pip Gladwin Pyrex, Shamini Bundell, Zachary Fortais-Gomm Blythe, James Barbarossa System, Body Horror
-- 2023-07-31 — CY_BORG | GoTime.TXT — speakers: Pip Gladwin Pyrex, Shamini Bundell, Zachary Fortais-Gomm Blythe, James Barbarossa System
-- 2023-07-24 — CY_BORG | WelcomeToCy.EXE — speakers: Pip Gladwin Pyrex, Shamini Bundell, Zachary Fortais-Gomm Blythe, James Barbarossa System
-- 2023-06-26 — Problem Child Pt4 | Liminal London Mystery Three — speakers: Problem Child, Yamina Masood, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Oliver Barker, James Barbarossa System
-- 2023-06-19 — Problem Child Pt3 | Liminal London Mystery Three — speakers: Problem Child, Jeremy Wallace, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Oliver Barker, James Barbarossa System
-- 2023-06-12 — Problem Child Pt2 | Liminal London Mystery Three — speakers: Problem Child, Wizard Jeremy Wallace, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Oliver Barker, James Barbarossa System
-- 2023-06-05 — Problem Child Pt1 | Liminal London Mystery Three — speakers: Oliver Barker, Grant Howitt, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Oliver Barker, James Barbarossa System
-- 2023-05-29 — Press Phantasmic | A Liminal London Prequel — speakers: Declan Buchanan, Zachary Fortais-Gomm Declan Buchanan, Pip Gladwin, Liv Kennedy Eugene, Fiona Howat Jocasta, James Barbarossa System
-- 2023-04-24 — Blood Loss Pt4 | Liminal London Mystery Two — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System, Gore Falling
-- 2023-04-17 — Blood Loss Pt3 | Liminal London Mystery Two — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System
-- 2023-04-10 — Blood Loss Pt2 | Liminal London Mystery Two — speakers: Annie Walker, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, James Barbarossa System
-- 2023-04-03 — Blood Loss Pt1 | Liminal London Mystery Two — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin, Annie Walker, James Barbarossa System
+- 2023-08-21 — CY_BORG | Goodnight+GoodLuck.DOS — speakers: CY Borg
+- 2023-08-14 — CY_BORG | AFriendlyChat.TMP
+- 2023-08-07 — CY_BORG | ExitWounds.ZIP
+- 2023-07-31 — CY_BORG | GoTime.TXT
+- 2023-07-24 — CY_BORG | WelcomeToCy.EXE
+- 2023-06-26 — Problem Child Pt4 | Liminal London Mystery Three — speakers: Problem Child, Yamina Masood
+- 2023-06-19 — Problem Child Pt3 | Liminal London Mystery Three — speakers: Problem Child
+- 2023-06-12 — Problem Child Pt2 | Liminal London Mystery Three — speakers: Problem Child, Wizard Jeremy Wallace
+- 2023-06-05 — Problem Child Pt1 | Liminal London Mystery Three — speakers: Problem Child, Liminal London Mystery Three
+- 2023-05-29 — Press Phantasmic | A Liminal London Prequel — speakers: Declan Buchanan
+- 2023-04-24 — Blood Loss Pt4 | Liminal London Mystery Two
+- 2023-04-17 — Blood Loss Pt3 | Liminal London Mystery Two
+- 2023-04-10 — Blood Loss Pt2 | Liminal London Mystery Two
+- 2023-04-03 — Blood Loss Pt1 | Liminal London Mystery Two
 - 2023-03-20 — Making the Game | Nathan Blades - The Neon Caster — speakers: Neon Caster, Nathan Blades
-- 2023-03-13 — Making the Game | Shamini Bundell - RPGeeks — speakers: Shamini Bundell RPGeeks, London Grind
+- 2023-03-13 — Making the Game | Shamini Bundell - RPGeeks — speakers: Shamini Bundell RPGeeks
 - 2023-03-06 — Making the Game | Fiona Howat - What Am I Rolling? — speakers: Fiona Howat, Zachary Fortais-Gomm
-- 2023-02-27 — High School of Horror | Auditorium of Offerings — speakers: Beckford Music, James Barbarossa Cass Ferguson, Horror Atmosphere, Peril Major
-- 2023-02-20 — High School of Horror | Facilities of Fear — speakers: Beckford Music, James Barbarossa Cass Ferguson, Horror Atmosphere, Peril Major
-- 2023-02-13 — High School of Horror | Lab of Lies — speakers: Beckford Music, James Barbarossa Cass Ferguson, Horror Atmosphere, Peril Major
-- 2023-02-06 — High School of Horror | Detention of Death — speakers: Beckford Music, James Barbarossa Cass Ferguson, Horror Atmosphere, Peril Major
-- 2023-01-30 — Viva La Revolution | Lovers and Fighters — speakers: Lady Victoria, Zachary Fortais-Gomm Lady, Elizabeth Campbell, James Barbarossa Beladona, Rachel Smith Sound Design, Kathryn Stanlee System
-- 2023-01-09 — Into the Past | Marcus & Daniel — speakers: Zachary Fortais-Gomm System, Horror Atmosphere, Romance Learn
-- 2022-12-23 — Vael: A Lythwyn Carol | The Moral of the Story Is… — speakers: Pip Gladwin Zongroff, Elizabeth Campbell Premgrath, Hedley Knights Krozlin, Beth Crane Brenda, Zachary Fortais-Gomm, James Barbarossa System
-- 2022-12-22 — Vael: A Lythwyn Carol | Into the Bakery — speakers: Pip Gladwin Zongroff, Elizabeth Campbell Premgrath, Hedley Knights Krozlin, Beth Crane Brenda
-- 2022-12-21 — Vael: A Lythwyn Carol | Protective Instincts — speakers: Pip Gladwin Zongroff, Elizabeth Campbell Tralyth, Zachary Fortais-Gomm, James Barbarossa Hantak, Rachel Smith System
-- 2022-12-20 — Vael: A Lythwyn Carol | Tensions Rising — speakers: Pip Gladwin Zongroff, Elizabeth Campbell Tralyth, Zachary Fortais-Gomm, James Barbarossa Hantak, Rachel Smith System
-- 2022-12-19 — Vael: A Lythwyn Carol | Stuffed Oranges for Mother — speakers: Pip Gladwin Zongroff, Elizabeth Campbell Tralyth, Zachary Fortais-Gomm, James Barbarossa Hantak, Rachel Smith System
-- 2022-12-05 — London Grind Pt4 | Liminal London Mystery One — speakers: London Grind, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System
-- 2022-11-28 — London Grind Pt3 | Liminal London Mystery One — speakers: London Grind, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Kathryn Stanley Content Warnings
-- 2022-11-21 — London Grind Pt2 | Liminal London Mystery One — speakers: London Grind, Vance Karma, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Kathryn Stanley Content Warnings
-- 2022-11-14 — London Grind Pt1 | Liminal London Mystery One — speakers: London Grind, Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin System, Kathryn Stanley Content Warnings
-- 2022-10-31 — The Witch is Dead | The Hunters — speakers: Zachary Fortais-Gomm Moggett, Beth Eyre Magpie, Elizabeth Campbell, Murder Gore Fantasy Threat
-- 2022-10-24 — The Witch is Dead | The Brooch — speakers: Zachary Fortais-Gomm Moggett, Beth Eyre Magpie, Elizabeth Campbell, Murder Gore Fantasy Threat
-- 2022-10-17 — The Witch is Dead | The Mistress — speakers: Zachary Fortais-Gomm Moggett, Beth Eyre Magpie, Elizabeth Campbell, Murder Gore Fantasy Threat
-- 2022-09-19 — Agon | Tymisos Pt2 — speakers: Hedley Knights, Ella Watts, James Barbarossa, Horror Elements, Gore Learn
-- 2022-09-12 — Agon | Tymisos Pt1 — speakers: Hedley Knights, Ella Watts, James Barbarossa, Horror Elements, Gore Learn
-- 2022-09-05 — Agon | Akoros Pt2 — speakers: Hedley Knights, Ella Watts, James Barbarossa
-- 2022-08-29 — Agon | Akoros Pt1 — speakers: Hedley Knights, Ella Watts, James Barbarossa
-- 2022-08-22 — Agon | Kryos Pt2 — speakers: Hedley Knights, Ella Watts, James Barbarossa
-- 2022-08-15 — Agon | Kryos Pt1 — speakers: Join Cantae, Hedley Knights, Ella Watts, James Barbarossa
-- 2022-06-27 — Spooky Sword Lesbians | Stupid Sexy Grendel's Mother — speakers: Spooky Sword Lesbians, Ella Watts, Sasha Sienna, Danielle Shemaiah, Beth Crane, Thirsty Sword
-- 2022-06-20 — Spooky Sword Lesbians | Big Money No Whammies — speakers: Spooky Sword Lesbians, Spooky Sword, Ella Watts, Sasha Sienna, Danielle Shemaiah, Beth Crane, Thirsty Sword
-- 2022-06-13 — Spooky Sword Lesbians | The Winter Court — speakers: Spooky Sword Lesbians, Ella Watts, Sasha Sienna, Danielle Shemaiah, Beth Crane, Thirsty Sword
-- 2022-05-16 — Nibiru Erebus | Welcome to the World — speakers: Ella Watts, Sasha Sienna, David Amber, James Barbarossa, Zachary Fortais-Gomm, Nibiru Content Warnings, Peril Large Monster Learn
-- 2022-05-09 — Nibiru Erebus | Vagabond Fishing — speakers: Vagabond Fishing Welcome, Ella Watts, Sasha Sienna, David Amber, James Barbarossa, Zachary Fortais-Gomm, Nibiru Content Warnings
-- 2022-04-11 — YASP | The Rex Files: Yowl of Yklhlh (ft. Cai Gwilym Pritchard, David Orion & Samuel Alejandro D Fuentes) — speakers: James Barbarossa Rex, David Orion Jack, Fuentes System, Horror Atmosphere, Peril Body Horror
-- 2022-04-04 — YASP | 40,000 Leeches Under the Sea (ft. How We Roll) — speakers: James Barbarossa Sazerac, Eoghan Ziggy, Dave Fluke, Scott Dorward System, Horror Atmosphere, Peril Major
-- 2022-03-28 — YASP | Star Quest: Dark Horn Rising (ft. Ella Watts, Maddy Searle, & David Pellow) — speakers: Ella Watts, David Pellow, James Barbarossa Sparkles, David Pellow System, Horror Atmosphere, Peril Fraught Family Relationships
-- 2022-03-21 — YASP | Last Trebuchet to Nowhere (ft. Dumbgeons & Dragons) — speakers: Join Russ, James Barbarossa Willy, Russ More Spanky, Tom Lairs System, Horror Atmosphere
-- 2022-03-14 — YASP | Meat me on the Other Side — speakers: David Amber, James Barbarossa Janty, Katrina Allen Archibald, Cameron Clow System, Horror Atmosphere
-- 2022-03-07 — YASP | Showdown on the Ozzy Express (ft. The Call of Cthulhu Mystery Program) — speakers: Join Cat, James Barbarossa Bud, John Sebastian La Valle, Zachary Fortais-Gomm System
-- 2021-12-22 — YASP | Gisnep's Christmas Love Blimp (ft. The Orphans) — speakers: James Barbarossa, James Barbarossa Reinhart, Zachary Fortais-Gomm Matilda
-- 2021-12-15 — A Christmas Caper | Sugar Plum Forest Finale — speakers: Jack Frost, Zachary Fortais-Gomm Gumdrop, James Barbarossa Merry, Content Warnings, Fantasy Threat
-- 2021-12-08 — A Christmas Caper | Battle on the Eggnog River — speakers: Zachary Fortais-Gomm Gumdrop, James Barbarossa Merry, Content Warnings, Fantasy Threat
-- 2021-12-01 — A Christmas Caper | The Ginger Resistance — speakers: Join Merry, Zachary Fortais-Gomm Gumdrop, James Barbarossa Merry, Content Warnings, Fantasy Threat
-- 2021-11-24 — Vael | Last Stand in the Church of Rhoz — speakers: Last Stand, Undying King, Voices Music, James Barbarossa Isadora, Searle Zongroff, Fantasy Threat
-- 2021-11-17 — Vael | Answers in the Ivy Lanes — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff, Fantasy Threat
-- 2021-11-10 — Vael I Showdown at the Lab — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-11-03 — Vael | Rescue at Langford Manor — speakers: Langford Manor, Voices Music, James Barbarossa Isadora, Searle Zongroff, Cai Gwylim-Pritchard Content Warnings
-- 2021-10-27 — Vael | Deductions in the Archive — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-10-20 — Vael | Raid in the Factory Lanes — speakers: Vael Raid, Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-10-13 — Vael | Midnight in the Soul — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-10-06 — Vael | Reflections in the Vault — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff, Horror Themes Unsettling
-- 2021-09-29 — Vael | Interrogation at Justice Hall — speakers: Taavin Seguiin, Voices Music, James Barbarossa Isadora, Searle Zongroff, Cai Gwylim-Pritchard Content Warnings
-- 2021-09-22 — Vael | Breakfast at Cleary's — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff, Cai Gwylim-Pritchard Content Warnings
-- 2021-09-15 — Vael | Brawl in the Streets — speakers: Taavin Seguiin, Voices Music, James Barbarossa Isadora, Searle Zongroff, Cai Gwylim-Pritchard Content Warnings, Humour Death Learn
-- 2021-09-08 — Vael | Open Mic at Cafe Pirelli — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-09-01 — Vael | Teamwork in the Café — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-08-25 — Vael | Sad in the City — speakers: Vael Sad, Qinrith Dorai, Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-08-18 — Vael | Murder in the Ash Lanes — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff, Fantasy Threat
-- 2021-08-18 — Vael | Battle at Deafening D'Or — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-08-18 — Vael | Welcome to New Harbour! — speakers: Voices Music, James Barbarossa Isadora, Searle Zongroff
-- 2021-06-23 — Welcome to the Realms of Peril & Glory — speakers: sound design, original music
+- 2023-02-27 — High School of Horror | Auditorium of Offerings — speakers: High School, Offerings After
+- 2023-02-20 — High School of Horror | Facilities of Fear — speakers: High School
+- 2023-02-13 — High School of Horror | Lab of Lies — speakers: High School, Lies Horrific
+- 2023-02-06 — High School of Horror | Detention of Death — speakers: High School, Breakfast Club
+- 2023-01-30 — Viva La Revolution | Lovers and Fighters — speakers: Lady Victoria
+- 2023-01-09 — Into the Past | Marcus & Daniel
+- 2022-12-23 — Vael: A Lythwyn Carol | The Moral of the Story Is…
+- 2022-12-22 — Vael: A Lythwyn Carol | Into the Bakery
+- 2022-12-21 — Vael: A Lythwyn Carol | Protective Instincts
+- 2022-12-20 — Vael: A Lythwyn Carol | Tensions Rising
+- 2022-12-19 — Vael: A Lythwyn Carol | Stuffed Oranges for Mother
+- 2022-12-05 — London Grind Pt4 | Liminal London Mystery One — speakers: London Grind
+- 2022-11-28 — London Grind Pt3 | Liminal London Mystery One — speakers: London Grind
+- 2022-11-21 — London Grind Pt2 | Liminal London Mystery One — speakers: London Grind
+- 2022-11-14 — London Grind Pt1 | Liminal London Mystery One — speakers: London Grind
+- 2022-10-31 — The Witch is Dead | The Hunters
+- 2022-10-24 — The Witch is Dead | The Brooch
+- 2022-10-17 — The Witch is Dead | The Mistress
+- 2022-09-19 — Agon | Tymisos Pt2
+- 2022-09-12 — Agon | Tymisos Pt1
+- 2022-09-05 — Agon | Akoros Pt2
+- 2022-08-29 — Agon | Akoros Pt1
+- 2022-08-22 — Agon | Kryos Pt2
+- 2022-08-15 — Agon | Kryos Pt1 — speakers: Join Cantae
+- 2022-06-27 — Spooky Sword Lesbians | Stupid Sexy Grendel's Mother — speakers: Spooky Sword Lesbians
+- 2022-06-20 — Spooky Sword Lesbians | Big Money No Whammies — speakers: Spooky Sword Lesbians
+- 2022-06-13 — Spooky Sword Lesbians | The Winter Court — speakers: Spooky Sword Lesbians
+- 2022-05-16 — Nibiru Erebus | Welcome to the World — speakers: Nibiru Erebus
+- 2022-05-09 — Nibiru Erebus | Vagabond Fishing — speakers: Vagabond Fishing Welcome
+- 2022-04-11 — YASP | The Rex Files: Yowl of Yklhlh (ft. Cai Gwilym Pritchard, David Orion & Samuel Alejandro D Fuentes) — speakers: Cai Gwilym Pritchard, David Orion
+- 2022-04-04 — YASP | 40,000 Leeches Under the Sea (ft. How We Roll)
+- 2022-03-28 — YASP | Star Quest: Dark Horn Rising (ft. Ella Watts, Maddy Searle, & David Pellow) — speakers: Ella Watts, David Pellow
+- 2022-03-21 — YASP | Last Trebuchet to Nowhere (ft. Dumbgeons & Dragons)
+- 2022-03-14 — YASP | Meat me on the Other Side
+- 2022-03-07 — YASP | Showdown on the Ozzy Express (ft. The Call of Cthulhu Mystery Program) — speakers: Join Cat
+- 2021-12-22 — YASP | Gisnep's Christmas Love Blimp (ft. The Orphans)
+- 2021-12-15 — A Christmas Caper | Sugar Plum Forest Finale — speakers: Jack Frost dee
+- 2021-12-08 — A Christmas Caper | Battle on the Eggnog River — speakers: Christmas Caper, Ginger Resistance
+- 2021-12-01 — A Christmas Caper | The Ginger Resistance — speakers: Join Merry
+- 2021-11-24 — Vael | Last Stand in the Church of Rhoz — speakers: Last Stand, Undying King
+- 2021-11-17 — Vael | Answers in the Ivy Lanes
+- 2021-11-10 — Vael I Showdown at the Lab
+- 2021-11-03 — Vael | Rescue at Langford Manor — speakers: Langford Manor
+- 2021-10-27 — Vael | Deductions in the Archive
+- 2021-10-20 — Vael | Raid in the Factory Lanes — speakers: Vael Raid
+- 2021-10-13 — Vael | Midnight in the Soul
+- 2021-10-06 — Vael | Reflections in the Vault
+- 2021-09-29 — Vael | Interrogation at Justice Hall
+- 2021-09-22 — Vael | Breakfast at Cleary's — speakers: Rapscallion Crime Family
+- 2021-09-15 — Vael | Brawl in the Streets — speakers: Taavin Seguiin
+- 2021-09-08 — Vael | Open Mic at Cafe Pirelli
+- 2021-09-01 — Vael | Teamwork in the Café
+- 2021-08-25 — Vael | Sad in the City — speakers: Vael Sad, Qinrith Dorai
+- 2021-08-18 — Vael | Murder in the Ash Lanes
+- 2021-08-18 — Vael | Battle at Deafening D'Or
+- 2021-08-18 — Vael | Welcome to New Harbour!
+- 2021-06-23 — Welcome to the Realms of Peril & Glory — speakers: Glory Legendary Stories, Endless Adventure
