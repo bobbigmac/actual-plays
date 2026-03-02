@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-03-02T13:36:42+00:00`
-- checked_at: `2026-03-02T13:36:42+00:00`
-- etag: `"djEuMi4wOjE3NzI0NDU5MTgzMTg="`
+- fetched_at: `2026-03-02T19:08:14+00:00`
+- checked_at: `2026-03-02T19:08:14+00:00`
+- etag: `"djEuMi4wOjE3NzI0NjcyMzkzMDA="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-03-02T13:36:42+00:00",
+  "fetched_at": "2026-03-02T19:08:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "48c71dc2db45b9bc602bc9ee1ff6b0495f087d0c",
+      "title": "Campaign 2: Episode 175 - Bigger, Madder Family",
+      "published_at": "2026-03-02T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-175",
+      "description": "Turns out that some folks have been hiding secrets within the group. Not to name any names but certain people with certain tuna can shaped things have maybe been living a double life for days! Well, it all comes out during a brunch of only alcohol thrown by a dragon. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by https://bsky.app/profile/killurmonkeyart.bsky.social ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1772030190429-2fdd5aea-c623-4fab-b960-0a51cf9f36dd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/699f07ab1eb5ccf4561da71a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112185130",
+      "itunes_duration": "1:17:53",
+      "speakers": [
+        "Madder Family"
+      ],
+      "topics": [
+        "campaign",
+        "madder",
+        "family"
+      ]
+    },
     {
       "key": "2925db5c3836ec9d876b7e27b4fb1d5aa71b6ddd",
       "title": "BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174",
@@ -12111,6 +12131,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-02 — Campaign 2: Episode 175 - Bigger, Madder Family — speakers: Madder Family
 - 2026-02-23 — BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174
 - 2026-02-16 — Campaign 2: Episode 174 - Horse Armor — speakers: Horse Armor Time
 - 2026-02-09 — Campaign 2: Episode 173 - Level 13 Gang

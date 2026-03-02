@@ -2,9 +2,9 @@
 
 - slug: `one-shot-onslaught-a-d-d-5e-actual-play-podcast`
 - source: `https://oneshotonslaught.libsyn.com/rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- last_modified: `Thu, 20 Nov 2025 08:30:00 GMT`
+- fetched_at: `2026-03-02T19:08:14+00:00`
+- checked_at: `2026-03-02T19:08:14+00:00`
+- last_modified: `Mon, 02 Mar 2026 17:52:14 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://oneshotonslaught.com",
   "description": "We are an actual-play fifth-edition Dungeons and Dragons podcast. The thing that we do different is that we play through popular one-shot modules from dmsguild.com which means that you can drop in and listen to any session without having to be all caught up! We split each one-shot into two separate episodes so that we can release our podcast bi-weekly! If you like bite-sized chunks of D&D that you can drop in and out of without needing to following a larger over-arching narrative then we are your show! Patreon: patreon.com/MajesticGoose Discord: bit.ly/oneshotdiscord Website: MajesticGoose.com Twitter: @goosemajestic",
   "image_url": "https://megaphone.imgix.net/podcasts/eb918fc2-6f0a-11ec-a334-330ad16a06e0/image/1_shot_onslaught_Final_Square_full_width.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-02T19:08:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -85,9 +85,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "6141",
-      "speakers": [
-        "shotOnslaught Instagram"
-      ],
+      "speakers": [],
       "topics": [
         "snow"
       ]
@@ -103,9 +101,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3327",
-      "speakers": [
-        "halfwaytodiscord Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "snow"
       ]
@@ -121,10 +117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3969",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Shop White"
-      ],
+      "speakers": [],
       "topics": [
         "snow"
       ]
@@ -140,10 +133,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4071",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Shop White"
-      ],
+      "speakers": [],
       "topics": [
         "snow"
       ]
@@ -159,10 +149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3903",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Shop White"
-      ],
+      "speakers": [],
       "topics": [
         "snow"
       ]
@@ -179,8 +166,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4253",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Shop Curse"
+        "Extinguished Sun"
       ],
       "topics": [
         "curse",
@@ -199,8 +185,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3956",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Shop Curse"
+        "Extinguished Sun"
       ],
       "topics": [
         "curse",
@@ -219,8 +204,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3550",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Shop Curse"
+        "Extinguished Sun"
       ],
       "topics": [
         "curse",
@@ -239,8 +223,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4686",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Shop Curse"
+        "Extinguished Sun"
       ],
       "topics": [
         "curse",
@@ -258,9 +241,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9442",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "fayre"
       ]
@@ -277,7 +258,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3033",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Predatory Buzz"
       ],
       "topics": [
         "predatory",
@@ -296,7 +277,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3223",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Predatory Buzz"
       ],
       "topics": [
         "predatory",
@@ -314,7 +295,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3473",
-      "speakers": [],
+      "speakers": [
+        "Lost Mine",
+        "Black Spider",
+        "Wave Echo Cave"
+      ],
       "topics": [
         "lost",
         "phandelver",
@@ -332,7 +317,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "8809",
-      "speakers": [],
+      "speakers": [
+        "Headwind Prison Sorry"
+      ],
       "topics": [
         "headwind",
         "prison"
@@ -403,7 +390,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4430",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Lost Mine"
       ],
       "topics": [
         "lost",
@@ -421,9 +408,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3976",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "phandelver"
@@ -441,7 +426,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3649",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Lost Mine"
       ],
       "topics": [
         "lost",
@@ -459,10 +444,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3337",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Heraldoso Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "phandelver"
@@ -479,11 +461,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "9242",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Nicholas Heralds Promo",
-        "Heraldoso Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "legend",
         "nicholas"
@@ -500,11 +478,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4924",
-      "speakers": [
-        "Wooden Overcoats",
-        "Felix Trench",
-        "Tom Laird"
-      ],
+      "speakers": [],
       "topics": [
         "realm",
         "peril",
@@ -523,10 +497,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3405",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Heraldoso Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "invasion",
         "planet",
@@ -544,10 +515,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3942",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Heraldoso Twitch"
-      ],
+      "speakers": [],
       "topics": [
         "invasion",
         "planet",
@@ -566,7 +534,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3429",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Bikini Werewolf"
       ],
       "topics": [
         "attack",
@@ -586,7 +554,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3429",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Bikini Werewolf"
       ],
       "topics": [
         "attack",
@@ -605,9 +573,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5298",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "fire",
         "iskh",
@@ -625,9 +591,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3295",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "fire",
         "iskh"
@@ -644,9 +608,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3472",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "fire",
         "iskh"
@@ -664,9 +626,7 @@
       "enclosure_length": "0",
       "itunes_duration": "7741",
       "speakers": [
-        "James Introcaso",
-        "halfwaytopatreon Want",
-        "Giveaway Learn"
+        "James Introcaso"
       ],
       "topics": [
         "bryte",
@@ -687,10 +647,7 @@
       "enclosure_length": "0",
       "itunes_duration": "9278",
       "speakers": [
-        "Wisteria Vale",
-        "Ryllia Liadon",
-        "Arrant Quill",
-        "halfwaytopatreon Want"
+        "Wisteria Vale"
       ],
       "topics": [
         "curious",
@@ -711,7 +668,7 @@
       "enclosure_length": "0",
       "itunes_duration": "10389",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Dino World Explore"
       ],
       "topics": [
         "dino",
@@ -729,10 +686,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3681",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Adam DeWees"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -746,10 +700,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3756",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Adam DeWees"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -763,9 +714,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3507",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "deep"
       ]
@@ -781,9 +730,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3263",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "deep"
       ]
@@ -800,7 +747,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3577",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Lich Stole Christmas"
       ],
       "topics": [
         "lich",
@@ -818,10 +765,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3535",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Adam DeWees Learn"
-      ],
+      "speakers": [],
       "topics": [
         "lich",
         "christmas"
@@ -839,9 +783,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2951",
       "speakers": [
-        "Lich Queen",
-        "halfwaytopatreon Want",
-        "Adam DeWees Learn"
+        "Lich Queen"
       ],
       "topics": [
         "lich",
@@ -860,9 +802,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4524",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "lich",
         "queen",
@@ -880,11 +820,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4338",
-      "speakers": [
-        "Will Gobbo",
-        "halfwaytopatreon Want",
-        "Adam DeWees Learn"
-      ],
+      "speakers": [],
       "topics": [
         "haunt"
       ]
@@ -900,10 +836,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4560",
-      "speakers": [
-        "halfwaytopatreon Idle",
-        "Adam DeWees Learn"
-      ],
+      "speakers": [],
       "topics": [
         "haunt"
       ]
@@ -920,8 +853,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3895",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Adam DeWees Learn"
+        "Vital Vintage"
       ],
       "topics": [
         "vintage"
@@ -939,8 +871,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4654",
       "speakers": [
-        "Kailey Bray",
-        "halfwaytopatreon Want"
+        "Kailey Bray"
       ],
       "topics": [
         "vintage"
@@ -957,9 +888,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2731",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "town",
         "musicians",
@@ -978,7 +907,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3795",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Spirit Realm"
       ],
       "topics": [
         "walk",
@@ -998,7 +927,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2934",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Eberron Express"
       ],
       "topics": [
         "murder",
@@ -1018,7 +947,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3468",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Eberron Express"
       ],
       "topics": [
         "murder",
@@ -1037,9 +966,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3711",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "walk",
         "spirit",
@@ -1058,7 +985,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3351",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Like Clockwork"
       ],
       "topics": [
         "clockwork"
@@ -1076,7 +1003,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3644",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Like Clockwork"
       ],
       "topics": [
         "clockwork"
@@ -1094,7 +1021,7 @@
       "enclosure_length": "0",
       "itunes_duration": "5947",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Icespire Peak"
       ],
       "topics": [
         "dragon",
@@ -1115,8 +1042,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4554",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
+        "Icespire Peak"
       ],
       "topics": [
         "dragon",
@@ -1136,8 +1062,8 @@
       "enclosure_length": "0",
       "itunes_duration": "291",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
+        "Benny Dunn Due",
+        "Icespire Pea"
       ],
       "topics": [
         "dungeon",
@@ -1157,10 +1083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5172",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "icespire",
@@ -1179,8 +1102,7 @@
       "enclosure_length": "0",
       "itunes_duration": "4172",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
+        "Icespire Peak"
       ],
       "topics": [
         "dragon",
@@ -1199,10 +1121,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4713",
-      "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
-      ],
+      "speakers": [],
       "topics": [
         "dragon",
         "icespire",
@@ -1221,8 +1140,8 @@
       "enclosure_length": "0",
       "itunes_duration": "3770",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
+        "Icespire Peak",
+        "While Justin"
       ],
       "topics": [
         "dragon",
@@ -1242,7 +1161,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3242",
       "speakers": [
-        "halfwaytopatreon Want"
+        "Auntie Solveig Steals"
       ],
       "topics": [
         "auntie",
@@ -1262,8 +1181,7 @@
       "enclosure_length": "0",
       "itunes_duration": "891",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Envy Learn"
+        "Secret Santa"
       ],
       "topics": [
         "secret",
@@ -1281,9 +1199,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3251",
-      "speakers": [
-        "halfwaytopatreon Want"
-      ],
+      "speakers": [],
       "topics": [
         "auntie",
         "solveig",
@@ -1301,9 +1217,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4506",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "turkey",
         "snatcher"
@@ -1320,11 +1234,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4094",
-      "speakers": [
-        "Happy Jack",
-        "Instagram oneshotonslaught Website",
-        "Robert Austin Music Learn"
-      ],
+      "speakers": [],
       "topics": [
         "happy",
         "jack",
@@ -1342,10 +1252,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4351",
-      "speakers": [
-        "Instagram oneshotonslaught Website",
-        "Robert Austin Music Learn"
-      ],
+      "speakers": [],
       "topics": [
         "happy",
         "jack",
@@ -1363,9 +1270,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3512",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "world"
       ]
@@ -1381,9 +1286,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3437",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "world"
       ]
@@ -1400,8 +1303,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2736",
       "speakers": [
-        "Glen Cooper",
-        "Instagram oneshotonslaught Website"
+        "Fool Me Once"
       ],
       "topics": [
         "interlude",
@@ -1420,9 +1322,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3538",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "magic",
         "village",
@@ -1441,7 +1341,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2831",
       "speakers": [
-        "Instagram oneshotonslaught Website"
+        "Magic Village"
       ],
       "topics": [
         "magic",
@@ -1460,9 +1360,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4609",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "magic",
         "village",
@@ -1480,9 +1378,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3023",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "scarab",
         "death"
@@ -1499,9 +1395,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3267",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "scarab",
         "death"
@@ -1519,7 +1413,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3794",
       "speakers": [
-        "Instagram oneshotonslaught Website"
+        "Shark God"
       ],
       "topics": [
         "temple",
@@ -1538,8 +1432,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2632",
       "speakers": [
-        "Instagram oneshotonslaught Website",
-        "Ambient Sound"
+        "Shark God"
       ],
       "topics": [
         "temple",
@@ -1605,7 +1498,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3638",
-      "speakers": [],
+      "speakers": [
+        "Scrimore Academy"
+      ],
       "topics": [
         "heroes"
       ]
@@ -1621,7 +1516,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "266",
-      "speakers": [],
+      "speakers": [
+        "Prologue Here"
+      ],
       "topics": [
         "heroes",
         "prologue"
@@ -1726,7 +1623,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3439",
       "speakers": [
-        "Instagram oneshotonslaught Website"
+        "Frost Lord"
       ],
       "topics": [
         "bastion",
@@ -1746,8 +1643,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3524",
       "speakers": [
-        "Instagram oneshotonslaught Website",
-        "Ambient Sound"
+        "Frost Lord"
       ],
       "topics": [
         "bastion",
@@ -1767,8 +1663,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3192",
       "speakers": [
-        "Instagram oneshotonslaught Website",
-        "Ambient Sound"
+        "Fortune Telling"
       ],
       "topics": [
         "interlude",
@@ -1788,9 +1683,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4038",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "minotaur",
         "betrayal"
@@ -1807,9 +1700,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1948",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "minotaur",
         "betrayal"
@@ -1826,9 +1717,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3155",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "bone",
         "feather"
@@ -1846,8 +1735,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2703",
       "speakers": [
-        "Instagram oneshotonslaught Website",
-        "Chris Zabrisk Learn"
+        "Still Waters"
       ],
       "topics": [
         "waters"
@@ -1864,9 +1752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3073",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "waters"
       ]
@@ -1882,9 +1768,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2608",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "black",
         "midwinter"
@@ -1902,10 +1786,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3555",
       "speakers": [
-        "Merry Wintermas",
-        "Blizzard King",
-        "Instagram oneshotonslaught Website",
-        "Incompetech Learn"
+        "Merry Wintermas"
       ],
       "topics": [
         "black",
@@ -1923,9 +1804,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5275",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "shit",
         "bird",
@@ -1943,9 +1822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3117",
-      "speakers": [
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "deth",
         "potions"
@@ -2054,7 +1931,8 @@
       "enclosure_length": "0",
       "itunes_duration": "2652",
       "speakers": [
-        "Patreon Discord Instagram oneshotonslaught"
+        "Wanna See",
+        "Magic Trick"
       ],
       "topics": [
         "interlude",
@@ -2074,9 +1952,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2779",
-      "speakers": [
-        "Patreon Discord Instagram oneshotonslaught"
-      ],
+      "speakers": [],
       "topics": [
         "minotaur",
         "bargain"
@@ -2112,7 +1988,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3608",
-      "speakers": [],
+      "speakers": [
+        "Pudding Faire"
+      ],
       "topics": [
         "pudding",
         "faire"
@@ -2146,7 +2024,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3122",
-      "speakers": [],
+      "speakers": [
+        "Super Happy Fun Murder"
+      ],
       "topics": [
         "yeryl",
         "super",
@@ -2166,7 +2046,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2556",
-      "speakers": [],
+      "speakers": [
+        "Super Happy Fun Murder"
+      ],
       "topics": [
         "yeryl",
         "super",
@@ -2186,9 +2068,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1783",
-      "speakers": [
-        "Giles Ne'vile"
-      ],
+      "speakers": [],
       "topics": [
         "night",
         "rise"
@@ -2223,9 +2103,7 @@
       "enclosure_length": "0",
       "itunes_duration": "3823",
       "speakers": [
-        "Jewel Mason",
-        "Alpha Grick",
-        "Alpha Geek"
+        "Jewel Mason"
       ],
       "topics": [
         "scourge",
@@ -2262,9 +2140,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3478",
-      "speakers": [
-        "Will Nimbles"
-      ],
+      "speakers": [],
       "topics": [
         "assault",
         "hellmaw",
@@ -2300,10 +2176,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2835",
-      "speakers": [
-        "Will Clawdia",
-        "Instagram oneshotonslaught Website"
-      ],
+      "speakers": [],
       "topics": [
         "ogre",
         "cake"
@@ -2338,8 +2211,8 @@
       "enclosure_length": "0",
       "itunes_duration": "7514",
       "speakers": [
-        "halfwaytopatreon Want",
-        "Adam DeWees Learn"
+        "Ten Towns",
+        "Icewind Dale"
       ],
       "topics": [
         "head"
@@ -2372,122 +2245,122 @@
 - 2025-11-20 — White as Snow - Part 8
 - 2025-08-15 — White as Snow - Part 7
 - 2025-07-29 — White as Snow - Part 6
-- 2025-07-07 — White as Snow - Part 5 — speakers: shotOnslaught Instagram
-- 2025-06-06 — White as Snow - Part 4 — speakers: halfwaytodiscord Twitch
-- 2025-03-03 — White as Snow - Part 3 — speakers: halfwaytopatreon Want, Shop White
-- 2024-01-24 — White as Snow - Part 2 — speakers: halfwaytopatreon Want, Shop White
-- 2023-11-16 — White as Snow - Part 1 — speakers: halfwaytopatreon Want, Shop White
-- 2023-04-20 — Curse of the Extinguished Sun - Part 4 — speakers: halfwaytopatreon Want, Shop Curse
-- 2023-03-28 — Curse of the Extinguished Sun - Part 3 — speakers: halfwaytopatreon Want, Shop Curse
-- 2023-02-24 — Curse of the Extinguished Sun - Part 2 — speakers: halfwaytopatreon Want, Shop Curse
-- 2023-02-08 — Curse of the Extinguished Sun - Part 1 — speakers: halfwaytopatreon Want, Shop Curse
-- 2022-08-12 — The Fey Fayre — speakers: halfwaytopatreon Want
-- 2022-06-28 — A Predatory Buzz - Part 2 — speakers: halfwaytopatreon Want
-- 2022-06-15 — A Predatory Buzz - Part 1 — speakers: halfwaytopatreon Want
-- 2022-05-18 — Lost Mine of Phandelver - Finale
-- 2022-05-03 — Escape from Headwind Prison
+- 2025-07-07 — White as Snow - Part 5
+- 2025-06-06 — White as Snow - Part 4
+- 2025-03-03 — White as Snow - Part 3
+- 2024-01-24 — White as Snow - Part 2
+- 2023-11-16 — White as Snow - Part 1
+- 2023-04-20 — Curse of the Extinguished Sun - Part 4 — speakers: Extinguished Sun
+- 2023-03-28 — Curse of the Extinguished Sun - Part 3 — speakers: Extinguished Sun
+- 2023-02-24 — Curse of the Extinguished Sun - Part 2 — speakers: Extinguished Sun
+- 2023-02-08 — Curse of the Extinguished Sun - Part 1 — speakers: Extinguished Sun
+- 2022-08-12 — The Fey Fayre
+- 2022-06-28 — A Predatory Buzz - Part 2 — speakers: Predatory Buzz
+- 2022-06-15 — A Predatory Buzz - Part 1 — speakers: Predatory Buzz
+- 2022-05-18 — Lost Mine of Phandelver - Finale — speakers: Lost Mine, Black Spider, Wave Echo Cave
+- 2022-05-03 — Escape from Headwind Prison — speakers: Headwind Prison Sorry
 - 2022-04-19 — Lost Mine of Phandelver - Part 7
 - 2022-03-22 — Lost Mine of Phandelver - Part 6
 - 2022-03-08 — Lost Mine of Phandelver - Part 5 — speakers: Gundren Rockseeker
-- 2022-02-22 — Lost Mine of Phandelver - Part 4 — speakers: halfwaytopatreon Want
-- 2022-02-08 — Lost Mine of Phandelver - Part 3 — speakers: halfwaytopatreon Want
-- 2022-01-25 — Lost Mine of Phandelver - Part 2 — speakers: halfwaytopatreon Want
-- 2022-01-11 — Lost Mine of Phandelver - Part 1 — speakers: halfwaytopatreon Want, Heraldoso Twitch
-- 2021-12-23 — Legend of Sir Nicholas — speakers: halfwaytopatreon Want, Nicholas Heralds Promo, Heraldoso Twitch
-- 2021-12-21 — RPG: Realms of Peril & Glory - Vael Episode 1 — speakers: Wooden Overcoats, Felix Trench, Tom Laird
-- 2021-11-30 — Invasion from the Planet of Tarrasques - Part 2 — speakers: halfwaytopatreon Want, Heraldoso Twitch
-- 2021-11-16 — Invasion from the Planet of Tarrasques - Part 1 — speakers: halfwaytopatreon Want, Heraldoso Twitch
-- 2021-10-05 — Attack of the 50ft Bikini Werewolf - Part 2 — speakers: halfwaytopatreon Want
-- 2021-09-21 — Attack of the 50ft Bikini Werewolf - Part 1 — speakers: halfwaytopatreon Want
-- 2021-08-26 — Fires of Iskh Part 3 Final — speakers: halfwaytopatreon Want
-- 2021-08-10 — Fires of Iskh - Part 2 — speakers: halfwaytopatreon Want
-- 2021-05-27 — Fires of Iskh - Part 1 — speakers: halfwaytopatreon Want
-- 2021-05-11 — Burn Bryte One Shot with James Introcaso — speakers: James Introcaso, halfwaytopatreon Want, Giveaway Learn
-- 2021-04-27 — The Curious Tale of Wisteria Vale — speakers: Wisteria Vale, Ryllia Liadon, Arrant Quill, halfwaytopatreon Want
-- 2021-04-07 — Dino World — speakers: halfwaytopatreon Want
-- 2021-03-02 — It Fell From the Sky - Part 2 — speakers: halfwaytopatreon Want, Adam DeWees
-- 2021-02-16 — It Fell From The Sky - Part 1 — speakers: halfwaytopatreon Want, Adam DeWees
-- 2021-02-02 — They Came from the Deep - Part 2 — speakers: halfwaytopatreon Want
-- 2021-01-19 — They Came from the Deep - Part 1 — speakers: halfwaytopatreon Want
-- 2020-12-22 — How the Lich Stole Christmas - Part 2 — speakers: halfwaytopatreon Want
-- 2020-12-08 — How the Lich Stole Christmas - Part 1 — speakers: halfwaytopatreon Want, Adam DeWees Learn
-- 2020-11-24 — Lich Queen's Begotten - Part 2 — speakers: Lich Queen, halfwaytopatreon Want, Adam DeWees Learn
-- 2020-11-10 — The Lich-Queen's Begotten - Part 1 — speakers: halfwaytopatreon Want
-- 2020-10-27 — The Haunt - Part 2 — speakers: Will Gobbo, halfwaytopatreon Want, Adam DeWees Learn
-- 2020-10-13 — The Haunt - Part 1 — speakers: halfwaytopatreon Idle, Adam DeWees Learn
-- 2020-08-31 — A Vital Vintage - Part 2 — speakers: halfwaytopatreon Want, Adam DeWees Learn
-- 2020-08-18 — A Vital Vintage - Part 1 — speakers: Kailey Bray, halfwaytopatreon Want
-- 2020-08-04 — Town Musicians of Waterdeep — speakers: halfwaytopatreon Want
-- 2020-07-21 — A Walk in the Spirit Realm - Part 2 — speakers: halfwaytopatreon Want
-- 2020-07-07 — Murder on Eberron Express - Part 2 — speakers: halfwaytopatreon Want
-- 2020-06-09 — Murder on Eberron Express - Part 1 — speakers: halfwaytopatreon Want
-- 2020-05-26 — A Walk in the Spirit Realm - Part 1 — speakers: halfwaytopatreon Want
-- 2020-05-12 — Like Clockwork - Part 2 — speakers: halfwaytopatreon Want
-- 2020-04-28 — Like Clockwork - Part 1 — speakers: halfwaytopatreon Want
-- 2020-04-15 — Dragon of Icespire Peak - Finale — speakers: halfwaytopatreon Want
-- 2020-03-31 — Dragon of Icespire Peak - Part 5 — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-03-17 — Dungeons and Diaries - Benny Dunn — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-03-03 — Dragon of Icespire Peak - Part 4 — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-02-19 — Dragon of Icespire Peak - Part 3 — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-02-04 — Dragon of Icespire Peak - Part 2 — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-01-21 — Dragon of Icespire Peak - Part 1 — speakers: halfwaytopatreon Want, Envy Learn
-- 2020-01-08 — Auntie Solveig Steals the Holidays - Part 2 — speakers: halfwaytopatreon Want
-- 2019-12-24 — Secret Santa - 2019 — speakers: halfwaytopatreon Want, Envy Learn
-- 2019-12-10 — Auntie Solveig Steals the Holidays - Part 1 — speakers: halfwaytopatreon Want
-- 2019-11-26 — The Turkey Snatcher — speakers: Instagram oneshotonslaught Website
-- 2019-10-31 — Happy Jack's Funhouse - Part 2 — speakers: Happy Jack, Instagram oneshotonslaught Website, Robert Austin Music Learn
-- 2019-10-15 — Happy Jack's Funhouse - Part 1 — speakers: Instagram oneshotonslaught Website, Robert Austin Music Learn
-- 2019-10-01 — I Am Your World - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-09-16 — I Am Your World - Part 1 — speakers: Instagram oneshotonslaught Website
-- 2019-09-03 — Interlude - Fool Me Once, Shame on You — speakers: Glen Cooper, Instagram oneshotonslaught Website
-- 2019-08-20 — Magic Village for Sale - Part 3 — speakers: Instagram oneshotonslaught Website
-- 2019-08-08 — Magic Village for Sale - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-07-22 — Magic Village for Sale - Part 1 — speakers: Instagram oneshotonslaught Website
-- 2019-07-08 — Scarab of Death - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-06-24 — Scarab of Death - Part 1 — speakers: Instagram oneshotonslaught Website
-- 2019-06-03 — Temple of the Shark God - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-05-28 — Temple of the Shark God - Part 1 — speakers: Instagram oneshotonslaught Website, Ambient Sound
+- 2022-02-22 — Lost Mine of Phandelver - Part 4 — speakers: Lost Mine
+- 2022-02-08 — Lost Mine of Phandelver - Part 3
+- 2022-01-25 — Lost Mine of Phandelver - Part 2 — speakers: Lost Mine
+- 2022-01-11 — Lost Mine of Phandelver - Part 1
+- 2021-12-23 — Legend of Sir Nicholas
+- 2021-12-21 — RPG: Realms of Peril & Glory - Vael Episode 1
+- 2021-11-30 — Invasion from the Planet of Tarrasques - Part 2
+- 2021-11-16 — Invasion from the Planet of Tarrasques - Part 1
+- 2021-10-05 — Attack of the 50ft Bikini Werewolf - Part 2 — speakers: Bikini Werewolf
+- 2021-09-21 — Attack of the 50ft Bikini Werewolf - Part 1 — speakers: Bikini Werewolf
+- 2021-08-26 — Fires of Iskh Part 3 Final
+- 2021-08-10 — Fires of Iskh - Part 2
+- 2021-05-27 — Fires of Iskh - Part 1
+- 2021-05-11 — Burn Bryte One Shot with James Introcaso — speakers: James Introcaso
+- 2021-04-27 — The Curious Tale of Wisteria Vale — speakers: Wisteria Vale
+- 2021-04-07 — Dino World — speakers: Dino World Explore
+- 2021-03-02 — It Fell From the Sky - Part 2
+- 2021-02-16 — It Fell From The Sky - Part 1
+- 2021-02-02 — They Came from the Deep - Part 2
+- 2021-01-19 — They Came from the Deep - Part 1
+- 2020-12-22 — How the Lich Stole Christmas - Part 2 — speakers: Lich Stole Christmas
+- 2020-12-08 — How the Lich Stole Christmas - Part 1
+- 2020-11-24 — Lich Queen's Begotten - Part 2 — speakers: Lich Queen
+- 2020-11-10 — The Lich-Queen's Begotten - Part 1
+- 2020-10-27 — The Haunt - Part 2
+- 2020-10-13 — The Haunt - Part 1
+- 2020-08-31 — A Vital Vintage - Part 2 — speakers: Vital Vintage
+- 2020-08-18 — A Vital Vintage - Part 1 — speakers: Kailey Bray
+- 2020-08-04 — Town Musicians of Waterdeep
+- 2020-07-21 — A Walk in the Spirit Realm - Part 2 — speakers: Spirit Realm
+- 2020-07-07 — Murder on Eberron Express - Part 2 — speakers: Eberron Express
+- 2020-06-09 — Murder on Eberron Express - Part 1 — speakers: Eberron Express
+- 2020-05-26 — A Walk in the Spirit Realm - Part 1
+- 2020-05-12 — Like Clockwork - Part 2 — speakers: Like Clockwork
+- 2020-04-28 — Like Clockwork - Part 1 — speakers: Like Clockwork
+- 2020-04-15 — Dragon of Icespire Peak - Finale — speakers: Icespire Peak
+- 2020-03-31 — Dragon of Icespire Peak - Part 5 — speakers: Icespire Peak
+- 2020-03-17 — Dungeons and Diaries - Benny Dunn — speakers: Benny Dunn Due, Icespire Pea
+- 2020-03-03 — Dragon of Icespire Peak - Part 4
+- 2020-02-19 — Dragon of Icespire Peak - Part 3 — speakers: Icespire Peak
+- 2020-02-04 — Dragon of Icespire Peak - Part 2
+- 2020-01-21 — Dragon of Icespire Peak - Part 1 — speakers: Icespire Peak, While Justin
+- 2020-01-08 — Auntie Solveig Steals the Holidays - Part 2 — speakers: Auntie Solveig Steals
+- 2019-12-24 — Secret Santa - 2019 — speakers: Secret Santa
+- 2019-12-10 — Auntie Solveig Steals the Holidays - Part 1
+- 2019-11-26 — The Turkey Snatcher
+- 2019-10-31 — Happy Jack's Funhouse - Part 2
+- 2019-10-15 — Happy Jack's Funhouse - Part 1
+- 2019-10-01 — I Am Your World - Part 2
+- 2019-09-16 — I Am Your World - Part 1
+- 2019-09-03 — Interlude - Fool Me Once, Shame on You — speakers: Fool Me Once
+- 2019-08-20 — Magic Village for Sale - Part 3
+- 2019-08-08 — Magic Village for Sale - Part 2 — speakers: Magic Village
+- 2019-07-22 — Magic Village for Sale - Part 1
+- 2019-07-08 — Scarab of Death - Part 2
+- 2019-06-24 — Scarab of Death - Part 1
+- 2019-06-03 — Temple of the Shark God - Part 2 — speakers: Shark God
+- 2019-05-28 — Temple of the Shark God - Part 1 — speakers: Shark God
 - 2019-05-14 — Into the Dragon's Maw - Part 3
 - 2019-05-06 — Into the Dragon's Maw - Part 2
 - 2019-04-30 — Into the Dragon's Maw - Part 1
-- 2019-04-25 — Halfway to Heroes - Episode 1
-- 2019-04-18 — Halfway to Heroes - Prologue
+- 2019-04-25 — Halfway to Heroes - Episode 1 — speakers: Scrimore Academy
+- 2019-04-18 — Halfway to Heroes - Prologue — speakers: Prologue Here
 - 2019-04-15 — Claw of Winter - Part 3
 - 2019-04-08 — Claw of Winter - Part 2
 - 2019-04-01 — Claw of Winter - Part 1
 - 2019-03-25 — The Madhouse of Tasha's Kiss - Part 2
 - 2019-03-18 — The Madhouse of Tasha's Kiss - Part 1
-- 2019-03-11 — Bastion of the Frost Lord - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-03-04 — Bastion of the Frost Lord - Part 1 — speakers: Instagram oneshotonslaught Website, Ambient Sound
-- 2019-02-24 — Interlude - Fortune Telling, Ten Gold — speakers: Instagram oneshotonslaught Website, Ambient Sound
-- 2019-01-28 — Minotaur's Betrayal - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2019-01-21 — Minotaur's Betrayal - Part 1 — speakers: Instagram oneshotonslaught Website
-- 2019-01-08 — Bone and Feathers — speakers: Instagram oneshotonslaught Website
-- 2018-12-31 — Still Waters - Part 2 — speakers: Instagram oneshotonslaught Website, Chris Zabrisk Learn
-- 2018-12-26 — Still Waters - Part 1 — speakers: Instagram oneshotonslaught Website
-- 2018-12-17 — In The Black Midwinter - Part 2 — speakers: Instagram oneshotonslaught Website
-- 2018-12-10 — In The Black Midwinter - Part 1 — speakers: Merry Wintermas, Blizzard King, Instagram oneshotonslaught Website, Incompetech Learn
-- 2018-12-04 — Shit Bird Shit Fight - LIVE — speakers: Instagram oneshotonslaught Website
-- 2018-11-25 — Deth - Potions 11 — speakers: Instagram oneshotonslaught Website
+- 2019-03-11 — Bastion of the Frost Lord - Part 2 — speakers: Frost Lord
+- 2019-03-04 — Bastion of the Frost Lord - Part 1 — speakers: Frost Lord
+- 2019-02-24 — Interlude - Fortune Telling, Ten Gold — speakers: Fortune Telling
+- 2019-01-28 — Minotaur's Betrayal - Part 2
+- 2019-01-21 — Minotaur's Betrayal - Part 1
+- 2019-01-08 — Bone and Feathers
+- 2018-12-31 — Still Waters - Part 2 — speakers: Still Waters
+- 2018-12-26 — Still Waters - Part 1
+- 2018-12-17 — In The Black Midwinter - Part 2
+- 2018-12-10 — In The Black Midwinter - Part 1 — speakers: Merry Wintermas
+- 2018-12-04 — Shit Bird Shit Fight - LIVE
+- 2018-11-25 — Deth - Potions 11
 - 2018-11-20 — Ted - Welcome to Fantasy Nashville — speakers: Fantasy Nashville
 - 2018-11-13 — Ironclaw - Hey, Hey, Hey, I'm a Bear!
 - 2018-11-05 — Lord Shaun Snow - Run, Turtles, Run! — speakers: Shaun Snow Run, Shaun Snow
 - 2018-10-29 — Serving the Squash - Part 2
 - 2018-10-22 — Serving the Squash - Part 1
-- 2018-10-15 — Interlude - Wanna See a Magic Trick? — speakers: Patreon Discord Instagram oneshotonslaught
-- 2018-10-08 — Minotaur's Bargain - Part 2 — speakers: Patreon Discord Instagram oneshotonslaught
+- 2018-10-15 — Interlude - Wanna See a Magic Trick? — speakers: Wanna See, Magic Trick
+- 2018-10-08 — Minotaur's Bargain - Part 2
 - 2018-10-01 — Minotaur's Bargain - Part 1 — speakers: Shaun Snow
-- 2018-09-24 — Pudding Faire - Part 2
+- 2018-09-24 — Pudding Faire - Part 2 — speakers: Pudding Faire
 - 2018-09-17 — Pudding Faire - Part 1
-- 2018-09-09 — Yeryl's Super Happy Fun Murder Dungeon - Part 2
-- 2018-09-03 — Yeryl's Super Happy Fun Murder Dungeon - Part 1
-- 2018-08-27 — The Night of the Rise - Part 2 — speakers: Giles Ne'vile
+- 2018-09-09 — Yeryl's Super Happy Fun Murder Dungeon - Part 2 — speakers: Super Happy Fun Murder
+- 2018-09-03 — Yeryl's Super Happy Fun Murder Dungeon - Part 1 — speakers: Super Happy Fun Murder
+- 2018-08-27 — The Night of the Rise - Part 2
 - 2018-08-20 — The Night of the Rise - Part 1
-- 2018-08-12 — Scourge of the Medusa Curse - Part 2 — speakers: Jewel Mason, Alpha Grick, Alpha Geek
+- 2018-08-12 — Scourge of the Medusa Curse - Part 2 — speakers: Jewel Mason
 - 2018-08-06 — Scourge of the Medusa Curse - Part 1
-- 2018-07-30 — Assault on Hellmaw Island - Part 2 — speakers: Will Nimbles
+- 2018-07-30 — Assault on Hellmaw Island - Part 2
 - 2018-07-23 — Assault on Hellmaw Island - Part 1
-- 2018-07-16 — An Ogre and His Cake - Part 2 — speakers: Will Clawdia, Instagram oneshotonslaught Website
+- 2018-07-16 — An Ogre and His Cake - Part 2
 - 2018-07-08 — An Ogre and His Cake - Part 1
-- 2018-05-15 — Mined Your Head — speakers: halfwaytopatreon Want, Adam DeWees Learn
+- 2018-05-15 — Mined Your Head — speakers: Ten Towns, Icewind Dale
 - 2018-05-11 — One-shot Onslaught - Where to Start?
