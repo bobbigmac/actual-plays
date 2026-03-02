@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-02-25T16:36:25+00:00`
-- checked_at: `2026-02-25T16:36:25+00:00`
-- etag: `"djEuMi4wOjE3NzIwMzAzNTg3MzI="`
+- fetched_at: `2026-03-02T13:36:42+00:00`
+- checked_at: `2026-03-02T13:36:42+00:00`
+- etag: `"djEuMi4wOjE3NzI0NDU5MTgzMTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-02-25T16:36:25+00:00",
+  "fetched_at": "2026-03-02T13:36:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
