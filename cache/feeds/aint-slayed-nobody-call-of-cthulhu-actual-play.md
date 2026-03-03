@@ -2,9 +2,9 @@
 
 - slug: `aint-slayed-nobody-call-of-cthulhu-actual-play`
 - source: `https://feeds.acast.com/public/shows/632da7cf6d7ffa0012565ffa`
-- fetched_at: `2026-03-02T21:51:51+00:00`
-- checked_at: `2026-03-02T21:51:51+00:00`
-- etag: `"djEuMi4wOjE3NzI0ODI0OTQwOTU="`
+- fetched_at: `2026-03-03T13:34:57+00:00`
+- checked_at: `2026-03-03T13:34:57+00:00`
+- etag: `"djEuMi4wOjE3NzI1Mzc0OTkzNTg="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.aintslayednobody.com",
   "description": "A Call of Cthulhu Actual Play of Horror, Comedy, and the Weird West",
   "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1770424763930-7baac491-35cc-4c89-9b14-2a85d1740d9d.jpeg",
-  "fetched_at": "2026-03-02T21:51:51+00:00",
+  "fetched_at": "2026-03-03T13:34:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "ttrpg/call-of-cthulhu"
   ],
   "episodes": [
+    {
+      "key": "74fe7bf42f48c1ecf2f14b9034aeb4db92b15be8",
+      "title": "The Between 29 - The Beast Without",
+      "published_at": "2026-03-03T11:31:00+00:00",
+      "link": "https://shows.acast.com/aint-slayed-nobody/episodes/the-between-29-the-beast-without",
+      "description": "A full moon pulls everyone in different directions, and nothing waits to be dealt with later. Old rituals resurface and something monstrous finally breaks loose. (Part 29) This series is not suitable for listeners under the age of 18 and may contain material some people find disturbing. CONTENT WARNINGS: body horror, throat cutting, sexual themes, drowning imagery, references to child neglect and abuse, references to suicide, loss of bodily autonomy, violence, profanity Player Characters Jason Cordova as Keeper Scott Dorward as Sebastian Melmoth Josephine McAdam as Moyra Innes Nic Rosenberg as Viola Archer cuppycup as Edward Quiet Production and Creative The Between system by The Gauntlet Editing by cuppycup and Scott Dorward Sound Design and Production by cuppycup Patreon: https://patreon.com/aintslayed Leave a Tip: https://streamlabs.com/pushtheroll/tip Merch: https://shop.pushtheroll.com/ Discord: https://slayed.me/discord Web: https://pushtheroll.com Instagram: https://instagram.com/pushtheroll Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/632da7cf6d7ffa0012565ffa/1772482159029-86669498-2899-47fd-90ae-177a977925f3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/632da7cf6d7ffa0012565ffa/e/69a5efbee7d88c9e9a49f066/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101585949",
+      "itunes_duration": "52:54",
+      "speakers": [],
+      "topics": [
+        "beast"
+      ]
+    },
     {
       "key": "a8eab0068d206e96b3bfb4965c1c6af22c977363",
       "title": "The Between 28 - Trust",
@@ -3567,6 +3583,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — The Between 29 - The Beast Without
 - 2026-02-24 — The Between 28 - Trust
 - 2026-02-17 — The Between 27 - Marionettes
 - 2026-02-10 — The Between 26 - Behind Masks — speakers: Behind Masks

@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"aea115412500ba56cde2e887de59450e"`
+- fetched_at: `2026-03-03T13:34:57+00:00`
+- checked_at: `2026-03-03T13:34:57+00:00`
+- etag: `"c2e7266f57a641b74ed5e4005d521e62"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-03T13:34:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "aa4c570044bd1fb0662b264e6f4bd0eac83f7164",
+      "title": "Teeth: Blood Cotillion Part 1",
+      "published_at": "2026-03-03T13:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/teeth-blood-cotillion-part-1/",
+      "description": "During a single night at a high-society ball, in a cursed corner of 18th-century England, three formidable assassins must root out the occult evil that lurks in the manor and destroy it. But also...perhaps find a suitable partner whilst disguised as husband-hunting ingenues? Guest fateweaver Pip Gladwin is here to run Teeth: Blood Cotillion for The RPGeeks! Credits Game Master Pip Gladwin: https://bsky.app/profile/pipgladwin.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Fiona Howat: https://bsky.app/profile/fkth.bsky.social Scenario/System In the tabletop adventures of TEETH , players take on the role of elite monster hunters, drawn from all corners of the globe to a bleak and remote vale, blasted by an occult catastrophe some fifty years prior. TEETH: BLOOD COTILLION is a grotesque, single-session, standalone table-top roleplaying game for 3-6 people (including the GM). It is set during a single night at a high-society ball, in a cursed corner of 18th-century England. The players are formidable assassins, disguised as husband-hunting ingenues, who must root out the occult evil that lurks in the manor, destroy it and, ideally, survive. Huge thanks to our geeks and patrons: Aaron Hammonds | Andrew Rosenberg | Andy Hartley | Bayneeon | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Doug Powis | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Matt T | Martin S | Mother of Ferrets | Nathan Decker | Nicholas Munro Turner | Scarlett Rose | Simon Harper | Snap Grapple Pop | Tina Øyna | Valery North | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/pzsyz5kggk4ykznv/Teeth_Blood_Cotillion_Part_1b30f0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "174513417",
+      "itunes_duration": "10906",
+      "speakers": [],
+      "topics": [
+        "tooth",
+        "blood",
+        "cotillion"
+      ]
+    },
     {
       "key": "cffe198a9e3188a035860609e8eab24020b71030",
       "title": "Inevitable: Unburied | Chapter 4. The Doom",
@@ -37,14 +55,7 @@
       "enclosure_length": "141728935",
       "itunes_duration": "5904",
       "speakers": [
-        "Edward Spence",
-        "Geeks Emily",
-        "Emily Bates",
-        "Fiona Howat",
-        "Soul Muppet",
-        "Aaron Hammonds",
-        "Andrew Rosenberg",
-        "Andy Hartley"
+        "Edward Spence"
       ],
       "topics": [
         "chapter",
@@ -63,14 +74,7 @@
       "enclosure_length": "171856039",
       "itunes_duration": "7160",
       "speakers": [
-        "Edward Spence",
-        "Geeks Emily",
-        "Emily Bates",
-        "Fiona Howat",
-        "Soul Muppet",
-        "Aaron Hammonds",
-        "Andrew Rosenberg",
-        "Andy Hartley"
+        "Edward Spence"
       ],
       "topics": [
         "chapter",
@@ -90,14 +94,7 @@
       "enclosure_length": "105525590",
       "itunes_duration": "6581",
       "speakers": [
-        "Edward Spence",
-        "Geeks Emily",
-        "Emily Bates",
-        "Fiona Howat",
-        "Soul Muppet",
-        "Aaron Hammonds",
-        "Andrew Rosenberg",
-        "Andy Hartley"
+        "Edward Spence"
       ],
       "topics": [
         "chapter",
@@ -117,14 +114,7 @@
       "enclosure_length": "124245358",
       "itunes_duration": "7764",
       "speakers": [
-        "Edward Spence",
-        "Geeks Emily",
-        "Emily Bates",
-        "Fiona Howat",
-        "Soul Muppet",
-        "Aaron Hammonds",
-        "Andrew Rosenberg",
-        "Andy Hartley"
+        "Edward Spence"
       ],
       "topics": [
         "chapter",
@@ -143,14 +133,7 @@
       "enclosure_length": "95122943",
       "itunes_duration": "5945",
       "speakers": [
-        "Feed Drop",
-        "Fiona Howat",
-        "Liv Kennedy",
-        "Liz Campbell",
-        "Dirty Vortex",
-        "Rhys Lawton",
-        "James Barbarossa",
-        "Zack FG"
+        "Feed Drop"
       ],
       "topics": [
         "feed",
@@ -173,16 +156,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147372399",
       "itunes_duration": "9210",
-      "speakers": [
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson",
-        "Aaron Hammonds"
-      ],
+      "speakers": [],
       "topics": [
         "mythic",
         "battle",
@@ -200,16 +174,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160660472",
       "itunes_duration": "10040",
-      "speakers": [
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson",
-        "Aaron Hammonds"
-      ],
+      "speakers": [],
       "topics": [
         "mythic",
         "heart",
@@ -227,16 +192,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137276176",
       "itunes_duration": "8579",
-      "speakers": [
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson",
-        "Aaron Hammonds"
-      ],
+      "speakers": [],
       "topics": [
         "mythic",
         "underworld"
@@ -253,16 +209,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160563914",
       "itunes_duration": "10034",
-      "speakers": [
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson",
-        "Aaron Hammonds"
-      ],
+      "speakers": [],
       "topics": [
         "mythic",
         "feather",
@@ -280,16 +227,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152227412",
       "itunes_duration": "9513",
-      "speakers": [
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson",
-        "Aaron Hammonds"
-      ],
+      "speakers": [],
       "topics": [
         "mythic",
         "fallen",
@@ -308,14 +246,7 @@
       "enclosure_length": "125267794",
       "itunes_duration": "7828",
       "speakers": [
-        "Mortal Hearts",
-        "Pip Gladwin",
-        "Holly Musgrave",
-        "Geeks Fiona",
-        "Emily Bates",
-        "Cast Shamini",
-        "Gary Gygax",
-        "Dave Arneson"
+        "Mortal Hearts"
       ],
       "topics": [
         "mythic",
@@ -338,10 +269,7 @@
         "Emily Bates",
         "Shamini Bundell",
         "Fiona Howat",
-        "Liv Kennedy",
-        "Keeper Dom Allen",
-        "Lore Keeper",
-        "Aaron Hammonds"
+        "Liv Kennedy"
       ],
       "topics": [
         "cthulhu",
@@ -364,14 +292,8 @@
       "enclosure_length": "82044824",
       "itunes_duration": "5127",
       "speakers": [
-        "Emily Bates",
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv"
+        "Peculiar Powers",
+        "Old London Town Time"
       ],
       "topics": [
         "urchin",
@@ -395,16 +317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "178961171",
       "itunes_duration": "11184",
-      "speakers": [
-        "Emily Bates",
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -426,16 +339,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153563046",
       "itunes_duration": "9597",
-      "speakers": [
-        "Emily Bates",
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -457,16 +361,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143259098",
       "itunes_duration": "8953",
-      "speakers": [
-        "Emily Bates",
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -488,16 +383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143617709",
       "itunes_duration": "8975",
-      "speakers": [
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv",
-        "Dan Andersen"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -519,16 +405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147882143",
       "itunes_duration": "9242",
-      "speakers": [
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv",
-        "Dan Andersen"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -550,16 +427,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154499690",
       "itunes_duration": "9655",
-      "speakers": [
-        "Fiona Howat",
-        "Zack FG",
-        "Jon Gilmour",
-        "Doug Levandowski",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv",
-        "Dan Andersen"
-      ],
+      "speakers": [],
       "topics": [
         "urchin",
         "chapter",
@@ -586,10 +454,7 @@
         "Emily Bates",
         "Shamini Bundell",
         "Fiona Howat",
-        "Liv Kennedy",
-        "Keeper Dom Allen",
-        "Lore Keeper",
-        "Aaron Hammonds"
+        "Liv Kennedy"
       ],
       "topics": [
         "cthulhu",
@@ -612,14 +477,7 @@
       "enclosure_length": "165932138",
       "itunes_duration": "10370",
       "speakers": [
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Gang Warfare",
-        "Fateweaver Fiona",
-        "John Harper"
+        "Dark Story"
       ],
       "topics": [
         "blood",
@@ -643,14 +501,8 @@
       "enclosure_length": "168472498",
       "itunes_duration": "10529",
       "speakers": [
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Gang Warfare",
-        "Fateweaver Fiona",
-        "John Harper"
+        "Dark Story",
+        "Stranger Calls Cuff"
       ],
       "topics": [
         "blood",
@@ -674,14 +526,7 @@
       "enclosure_length": "181422965",
       "itunes_duration": "11338",
       "speakers": [
-        "Dead Man's Switch",
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Gang Warfare",
-        "Fateweaver Fiona"
+        "Dead Man's Switch"
       ],
       "topics": [
         "blood",
@@ -705,14 +550,8 @@
       "enclosure_length": "178565794",
       "itunes_duration": "11159",
       "speakers": [
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Gang Warfare",
-        "Fateweaver Fiona",
-        "John Harper"
+        "Dark Story",
+        "Ironhook Prison"
       ],
       "topics": [
         "blood",
@@ -734,16 +573,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194118483",
       "itunes_duration": "12131",
-      "speakers": [
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Josephine McAdam",
-        "Gang Warfare",
-        "Fateweaver Fiona"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "blade",
@@ -766,14 +596,8 @@
       "enclosure_length": "162024416",
       "itunes_duration": "10126",
       "speakers": [
-        "Emily Bates",
-        "Shamini Bundell",
-        "Lou Fryer",
-        "Holly Musgrave",
-        "Fiona Howat",
-        "Gang Warfare",
-        "Fateweaver Fiona",
-        "John Harper"
+        "Dark Story",
+        "Bazso Baz"
       ],
       "topics": [
         "blood",
@@ -797,14 +621,8 @@
       "enclosure_length": "143511332",
       "itunes_duration": "8969",
       "speakers": [
-        "Emily Bates",
-        "Fiona Howat Shamini Bundell",
-        "Mappa Mundi",
-        "Mappa Mundi Session",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv",
-        "Debbie Bridges"
+        "Off Balance",
+        "Mappa Mundi Adventure"
       ],
       "topics": [
         "balance",
@@ -825,14 +643,8 @@
       "enclosure_length": "156584842",
       "itunes_duration": "9786",
       "speakers": [
-        "Emily Bates",
-        "Fiona Howat Shamini Bundell",
-        "Mappa Mundi",
-        "Mappa Mundi Session",
-        "Aaron Hammonds",
-        "Andy Hartley",
-        "Caitlin Kriv",
-        "Debbie Bridges"
+        "Off Balance",
+        "Mappa Mundi Adventure"
       ],
       "topics": [
         "balance",
@@ -853,14 +665,7 @@
       "enclosure_length": "151271441",
       "itunes_duration": "9454",
       "speakers": [
-        "Luke Westaway",
-        "Starring Laurie Blake",
-        "Johnny Chiodini",
-        "GM Shamini",
-        "JohnnyChiodini Luke",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley"
+        "Luke Westaway"
       ],
       "topics": [
         "food",
@@ -886,16 +691,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "172704311",
       "itunes_duration": "10793",
-      "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "hero",
         "dungeons",
@@ -913,16 +709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159463751",
       "itunes_duration": "9966",
-      "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "hero",
         "dungeons",
@@ -941,14 +728,7 @@
       "enclosure_length": "125286812",
       "itunes_duration": "7829",
       "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "GM Zack"
       ],
       "topics": [
         "hero",
@@ -968,14 +748,7 @@
       "enclosure_length": "119196729",
       "itunes_duration": "7449",
       "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "GM Zack"
       ],
       "topics": [
         "hero",
@@ -995,14 +768,7 @@
       "enclosure_length": "107429508",
       "itunes_duration": "6713",
       "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "GM Zack"
       ],
       "topics": [
         "hero",
@@ -1021,16 +787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "146970115",
       "itunes_duration": "9185",
-      "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "hero",
         "dungeons",
@@ -1048,16 +805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147799764",
       "itunes_duration": "9237",
-      "speakers": [
-        "GM Zack",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "hero",
         "dungeons",
@@ -1075,16 +823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "151432663",
       "itunes_duration": "9464",
-      "speakers": [
-        "com daggerheart",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "daggerheart",
         "actual",
@@ -1103,14 +842,7 @@
       "enclosure_length": "147849499",
       "itunes_duration": "9240",
       "speakers": [
-        "com daggerheart",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "Daggerheart Actual Play"
       ],
       "topics": [
         "daggerheart",
@@ -1130,14 +862,7 @@
       "enclosure_length": "122918234",
       "itunes_duration": "7681",
       "speakers": [
-        "com daggerheart",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "Daggerheart Actual Play"
       ],
       "topics": [
         "daggerheart",
@@ -1157,14 +882,7 @@
       "enclosure_length": "136228980",
       "itunes_duration": "8513",
       "speakers": [
-        "com daggerheart",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "Daggerheart Actual Play"
       ],
       "topics": [
         "daggerheart",
@@ -1184,14 +902,8 @@
       "enclosure_length": "154726619",
       "itunes_duration": "9669",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez",
-        "Gareth Blindfish"
+        "Tabletop Role",
+        "Playing Game Adventure"
       ],
       "topics": [
         "universe",
@@ -1212,14 +924,8 @@
       "enclosure_length": "139265891",
       "itunes_duration": "8703",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez",
-        "Gareth Blindfish"
+        "Tabletop Role",
+        "Playing Game Adventure"
       ],
       "topics": [
         "universe",
@@ -1240,14 +946,7 @@
       "enclosure_length": "109054165",
       "itunes_duration": "6815",
       "speakers": [
-        "Yatame Orbital",
-        "Jules Valentino",
-        "Kingsley Valentino",
-        "Edward Spence",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine"
+        "Yatame Orbital"
       ],
       "topics": [
         "blue",
@@ -1266,16 +965,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93124057",
       "itunes_duration": "5819",
-      "speakers": [
-        "Jules Valentino",
-        "Kingsley Valentino",
-        "Edward Spence",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
-      ],
+      "speakers": [],
       "topics": [
         "blue",
         "blackstar",
@@ -1295,16 +985,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121419464",
       "itunes_duration": "7588",
-      "speakers": [
-        "Jules Valentino",
-        "Kingsley Valentino",
-        "Edward Spence",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
-      ],
+      "speakers": [],
       "topics": [
         "blue",
         "blackstar",
@@ -1323,16 +1004,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115621110",
       "itunes_duration": "7225",
-      "speakers": [
-        "Jules Valentino",
-        "Kingsley Valentino",
-        "Edward Spence",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
-      ],
+      "speakers": [],
       "topics": [
         "blue",
         "blackstar",
@@ -1351,14 +1023,7 @@
       "enclosure_length": "188437597",
       "itunes_duration": "11776",
       "speakers": [
-        "Guy Vauqelin",
-        "Jason Fryer",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston"
+        "Guy Vauqelin"
       ],
       "topics": [
         "kult",
@@ -1377,16 +1042,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159475546",
       "itunes_duration": "9966",
-      "speakers": [
-        "Jason Fryer",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "divinity",
@@ -1405,16 +1061,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158855382",
       "itunes_duration": "9928",
-      "speakers": [
-        "Jason Fryer",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "kult",
         "divinity",
@@ -1433,14 +1080,7 @@
       "enclosure_length": "148387958",
       "itunes_duration": "9273",
       "speakers": [
-        "Guy Vauquelin",
-        "Triumph De La Mort",
-        "Jason Fryer",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
+        "Divinity Lost"
       ],
       "topics": [
         "kult",
@@ -1461,14 +1101,7 @@
       "enclosure_length": "124917826",
       "itunes_duration": "7802",
       "speakers": [
-        "com zackfg",
-        "com SBundell",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston"
+        "Will Creation"
       ],
       "topics": [
         "mask",
@@ -1488,14 +1121,7 @@
       "enclosure_length": "86393402",
       "itunes_duration": "5390",
       "speakers": [
-        "com SBundell",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston",
-        "Megan Ramirez"
+        "Join Creation"
       ],
       "topics": [
         "mask",
@@ -1513,16 +1139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87709231",
       "itunes_duration": "5475",
-      "speakers": [
-        "com zackfg",
-        "com SBundell",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston"
-      ],
+      "speakers": [],
       "topics": [
         "mask",
         "team",
@@ -1541,14 +1158,7 @@
       "enclosure_length": "112693742",
       "itunes_duration": "7034",
       "speakers": [
-        "Hope Xi",
-        "com zackfg",
-        "com SBundell",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
+        "Hope Xi"
       ],
       "topics": [
         "mask",
@@ -1567,14 +1177,7 @@
       "enclosure_length": "83963381",
       "itunes_duration": "5237",
       "speakers": [
-        "Jasper William Cartwright",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Kieran Hingston"
+        "Jasper William Cartwright"
       ],
       "topics": [
         "bikes",
@@ -1597,14 +1200,8 @@
       "enclosure_length": "97684975",
       "itunes_duration": "6102",
       "speakers": [
-        "Jasper William Cartwright",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
+        "Dead Roots",
+        "New Chester"
       ],
       "topics": [
         "bike",
@@ -1623,14 +1220,8 @@
       "enclosure_length": "94106313",
       "itunes_duration": "5879",
       "speakers": [
-        "Jasper William Cartwright",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner"
+        "Dead Roots",
+        "New Chester"
       ],
       "topics": [
         "bike",
@@ -1649,14 +1240,8 @@
       "enclosure_length": "184537452",
       "itunes_duration": "11532",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
+        "Universally Acknowledged",
+        "Good Society"
       ],
       "topics": [
         "universally",
@@ -1678,14 +1263,8 @@
       "enclosure_length": "179743867",
       "itunes_duration": "11178",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
+        "Universally Acknowledged",
+        "Good Society"
       ],
       "topics": [
         "universally",
@@ -1706,16 +1285,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "121206743",
       "itunes_duration": "7591",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files"
@@ -1732,16 +1302,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "131809881",
       "itunes_duration": "8256",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez",
-        "Kieran Hingston"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1759,16 +1320,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "119270627",
       "itunes_duration": "7470",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1786,16 +1338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110487349",
       "itunes_duration": "6920",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1813,16 +1356,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86155942",
       "itunes_duration": "5391",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "science",
         "starfinder",
@@ -1844,13 +1378,7 @@
       "itunes_duration": "6560",
       "speakers": [
         "Mamma Mia",
-        "Eyes Shut",
-        "Auntie Diamond",
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson"
+        "Eyes Shut"
       ],
       "topics": [
         "absalom",
@@ -1869,16 +1397,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110002458",
       "itunes_duration": "6890",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1897,16 +1416,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110180893",
       "itunes_duration": "6901",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "Kieran Hingston",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1943,16 +1453,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "137709830",
       "itunes_duration": "8625",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez Keiran Hingston",
-        "Gareth Blindfish"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1971,16 +1472,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104547432",
       "itunes_duration": "6548",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez Keiran Hingston",
-        "Gareth Blindfish"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -1999,7 +1491,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101021371",
       "itunes_duration": "6313",
-      "speakers": [],
+      "speakers": [
+        "Fog Town",
+        "False Memories Could"
+      ],
       "topics": [
         "science",
         "starfinder",
@@ -2020,14 +1515,7 @@
       "enclosure_length": "119404340",
       "itunes_duration": "7461",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez",
-        "Kieran Hingston"
+        "Museum Heist"
       ],
       "topics": [
         "absalom",
@@ -2047,16 +1535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118338506",
       "itunes_duration": "7395",
-      "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez",
-        "Kieran Hingston"
-      ],
+      "speakers": [],
       "topics": [
         "absalom",
         "files",
@@ -2076,14 +1555,7 @@
       "enclosure_length": "132968852",
       "itunes_duration": "8328",
       "speakers": [
-        "Aaron Hammonds",
-        "Kalamity Kas",
-        "Andy Hartley",
-        "William Pettersson",
-        "Keegan Amrine",
-        "Nicholas Munro Turner",
-        "Megan Ramirez",
-        "Kieran Hingston"
+        "Eyes Shut Detective Agency"
       ],
       "topics": [
         "absalom",
@@ -2104,12 +1576,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52763255",
       "itunes_duration": "3296",
-      "speakers": [
-        "Zachary Fortais-Gomm",
-        "Elizabeth Campbell",
-        "Pip Gladwin Special Guest",
-        "James Barbarossa System"
-      ],
+      "speakers": [],
       "topics": [
         "guest",
         "podcast",
@@ -2166,9 +1633,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136043173",
       "itunes_duration": "8500",
-      "speakers": [
-        "Funny Kai"
-      ],
+      "speakers": [],
       "topics": [
         "body",
         "dungeons",
@@ -2188,10 +1653,7 @@
       "enclosure_length": "116210796",
       "itunes_duration": "7184",
       "speakers": [
-        "Hallmark Movie",
-        "Grant Howitt",
-        "Simon Clark",
-        "com sbundell"
+        "Hallmark Movie"
       ],
       "topics": [
         "small",
@@ -2389,7 +1851,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144947660",
       "itunes_duration": "9057",
-      "speakers": [],
+      "speakers": [
+        "Science After"
+      ],
       "topics": [
         "gunka",
         "dungeons",
@@ -2594,26 +2058,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "dcda5449583f04ef959fac827064c4b0cc728b09",
-      "title": "Episode 18: The Boat Problem | Dungeons and Dragons and Science",
-      "published_at": "2022-02-19T10:52:39+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-18-little-boat-big-boat-dungeons-and-dragons-and-science/",
-      "description": "The party travels through the bayou and finds a boat. You'll never guess what happens next! I mean if you do guess we'll be seriously surprised... After the adventure the RPGeeks discuss the possibilities of spacecraft that are also aircraft. Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/8xfjx5/Episode_18_final_cutadn77.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "126963295",
-      "itunes_duration": "7933",
-      "speakers": [],
-      "topics": [
-        "boat",
-        "problem",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2622,85 +2066,86 @@
 
 ## Episodes (newest first)
 
-- 2025-12-16 — Inevitable: Unburied | Chapter 4. The Doom — speakers: Edward Spence, Geeks Emily, Emily Bates, Fiona Howat, Soul Muppet, Aaron Hammonds, Andrew Rosenberg, Andy Hartley
-- 2025-12-15 — Inevitable: Unburied | Chapter 3. The Border Forts — speakers: Edward Spence, Geeks Emily, Emily Bates, Fiona Howat, Soul Muppet, Aaron Hammonds, Andrew Rosenberg, Andy Hartley
-- 2025-11-18 — Inevitable: Unburied | Chapter 2. The Violet Fields — speakers: Edward Spence, Geeks Emily, Emily Bates, Fiona Howat, Soul Muppet, Aaron Hammonds, Andrew Rosenberg, Andy Hartley
-- 2025-11-16 — Inevitable: Unburied | Chapter 1. The Drawing — speakers: Edward Spence, Geeks Emily, Emily Bates, Fiona Howat, Soul Muppet, Aaron Hammonds, Andrew Rosenberg, Andy Hartley
-- 2025-11-02 — Feed Drop | Last Line. Rewind. | Solemn Vale: Homegrown - Part 1 — speakers: Feed Drop, Fiona Howat, Liv Kennedy, Liz Campbell, Dirty Vortex, Rhys Lawton, James Barbarossa, Zack FG
-- 2025-11-01 — MYTHIC D&D | Episode Six | The Battle for the Dawn! — speakers: Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson, Aaron Hammonds
-- 2025-10-31 — MYTHIC D&D | Episode Five | The Heart of Lethe — speakers: Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson, Aaron Hammonds
-- 2025-10-30 — MYTHIC D&D | Episode Four | The Underworld — speakers: Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson, Aaron Hammonds
-- 2025-10-29 — MYTHIC D&D | Episode Three | The Feather Wrapped in Flame — speakers: Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson, Aaron Hammonds
-- 2025-10-28 — MYTHIC D&D | Episode Two | The Fallen Star — speakers: Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson, Aaron Hammonds
-- 2025-10-27 — MYTHIC D&D | Episode One | God Mode — speakers: Mortal Hearts, Pip Gladwin, Holly Musgrave, Geeks Fiona, Emily Bates, Cast Shamini, Gary Gygax, Dave Arneson
-- 2025-10-10 — Call of Cthulhu | Part 2 | feat. Dom Allen of The Apocalypse Players and No Rolls Barred! — speakers: Dom Allen, Emily Bates, Shamini Bundell, Fiona Howat, Liv Kennedy, Keeper Dom Allen, Lore Keeper, Aaron Hammonds
-- 2025-07-27 — Urchins! | End of Series Talkback | A Tale of Peculiar Powers in Old London Town — speakers: Emily Bates, Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv
-- 2025-07-26 — Urchins! | Chapter Six | A Tale of Peculiar Powers in Old London Town — speakers: Emily Bates, Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv
-- 2025-07-25 — Urchins! | Chapter Five | A Tale of Peculiar Powers in Old London Town — speakers: Emily Bates, Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv
-- 2025-07-24 — Urchins! | Chapter Four | A Tale of Peculiar Powers in Old London Town — speakers: Emily Bates, Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv
-- 2025-07-23 — Urchins! | Chapter Three | A Tale of Peculiar Powers in Old London Town — speakers: Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv, Dan Andersen
-- 2025-07-22 — Urchins! | Chapter Two | A Tale of Peculiar Powers in Old London Town — speakers: Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv, Dan Andersen
-- 2025-07-21 — Urchins! | Chapter One | A Tale of Peculiar Powers in Old London Town — speakers: Fiona Howat, Zack FG, Jon Gilmour, Doug Levandowski, Aaron Hammonds, Andy Hartley, Caitlin Kriv, Dan Andersen
-- 2025-05-26 — Call of Cthulhu | Part 1 | feat. Dom Allen of The Apocalypse Players and No Rolls Barred! — speakers: Dom Allen, Emily Bates, Shamini Bundell, Fiona Howat, Liv Kennedy, Keeper Dom Allen, Lore Keeper, Aaron Hammonds
-- 2025-05-10 — Blood & Fog | A Blades in the Dark Story | Chapter 6: At Death's Door — speakers: Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Gang Warfare, Fateweaver Fiona, John Harper
-- 2025-05-09 — Blood & Fog | A Blades in the Dark Story | Chapter 5: A Stranger Calls — speakers: Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Gang Warfare, Fateweaver Fiona, John Harper
-- 2025-05-08 — Blood & Fog | A Blades in the Dark Story | Chapter 4: Dead Man's Switch — speakers: Dead Man's Switch, Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Gang Warfare, Fateweaver Fiona
-- 2025-05-07 — Blood & Fog | A Blades in the Dark Story | Chapter 3: In High Spirits — speakers: Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Gang Warfare, Fateweaver Fiona, John Harper
-- 2025-05-06 — Blood & Fog | A Blades in the Dark Story | Chapter 2: Honour Amongst Thieves — speakers: Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Josephine McAdam, Gang Warfare, Fateweaver Fiona
-- 2025-05-05 — Blood & Fog | A Blades in the Dark Story | Chapter 1: Tiny Dark Deeds — speakers: Emily Bates, Shamini Bundell, Lou Fryer, Holly Musgrave, Fiona Howat, Gang Warfare, Fateweaver Fiona, John Harper
-- 2025-03-06 — Off Balance | A Mappa Mundi Adventure | Part 2 — speakers: Emily Bates, Fiona Howat Shamini Bundell, Mappa Mundi, Mappa Mundi Session, Aaron Hammonds, Andy Hartley, Caitlin Kriv, Debbie Bridges
-- 2025-03-05 — Off Balance | A Mappa Mundi Adventure | Part 1 — speakers: Emily Bates, Fiona Howat Shamini Bundell, Mappa Mundi, Mappa Mundi Session, Aaron Hammonds, Andy Hartley, Caitlin Kriv, Debbie Bridges
-- 2025-02-10 — FOOD STORY | An incr-edible TTRPG with special guests Luke Westaway, Johnny Chiodini & Laurie Blake! — speakers: Luke Westaway, Starring Laurie Blake, Johnny Chiodini, GM Shamini, JohnnyChiodini Luke, Aaron Hammonds, Kalamity Kas, Andy Hartley
-- 2025-02-09 — Once A Hero | Dungeons & Dragons | Episode 7 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-08 — Once A Hero | Dungeons & Dragons | Episode 6 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-07 — Once A Hero | Dungeons & Dragons | Episode 5 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-06 — Once A Hero | Dungeons & Dragons | Episode 4 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-05 — Once A Hero | Dungeons & Dragons | Episode 3 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-04 — Once A Hero | Dungeons & Dragons | Episode 2 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-02-03 — Once A Hero | Dungeons & Dragons | Episode 1 — speakers: GM Zack, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-30 — Shattered | Daggerheart Actual Play | Episode 4 — speakers: com daggerheart, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-29 — Shattered | Daggerheart Actual Play | Episode 3 — speakers: com daggerheart, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-28 — Shattered | Daggerheart Actual Play | Episode 2 — speakers: com daggerheart, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-27 — Shattered | Daggerheart Actual Play | Episode 1 — speakers: com daggerheart, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-21 — The Lost Universe | Part 2 | NASA made a TTRPG adventure! — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez, Gareth Blindfish
-- 2025-01-20 — The Lost Universe | Part 1 | NASA made a TTRPG adventure! — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez, Gareth Blindfish
-- 2025-01-16 — Orbital Blues: Blackstar | Episode 4 | There's A Starman Waiting In The Sky — speakers: Yatame Orbital, Jules Valentino, Kingsley Valentino, Edward Spence, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine
-- 2025-01-15 — Orbital Blues: Blackstar | Episode 3 | An Angel Playing With My Heart — speakers: Jules Valentino, Kingsley Valentino, Edward Spence, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner
-- 2025-01-14 — Orbital Blues: Blackstar | Episode 2 | Just Another Future Song — speakers: Jules Valentino, Kingsley Valentino, Edward Spence, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner
-- 2025-01-13 — Orbital Blues: Blackstar | Episode 1 | Of All The Gin Joints — speakers: Jules Valentino, Kingsley Valentino, Edward Spence, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner
-- 2025-01-06 — KULT: Divinity Lost | The Finale | Part 4 — speakers: Guy Vauqelin, Jason Fryer, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston
-- 2025-01-06 — KULT: Divinity Lost | Montmarte | Part 3 — speakers: Jason Fryer, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-06 — KULT: Divinity Lost | Inferno | Part 2 — speakers: Jason Fryer, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2025-01-06 — KULT: Divinity Lost | The Atrocity Exhibition | Part 1 — speakers: Guy Vauquelin, Triumph De La Mort, Jason Fryer, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner
-- 2024-03-27 — Masks 2044 | Episode 4 | The Final Battle — speakers: com zackfg, com SBundell, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston
-- 2024-03-20 — Masks 2044 | Episode 3 | The Truth Will Out — speakers: com SBundell, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston, Megan Ramirez
-- 2024-03-12 — Masks 2044 | Episode 2 | Team Impact vs...Team Impact? — speakers: com zackfg, com SBundell, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston
-- 2024-02-26 — Masks 2044 | Episode 1 | When All Hope is Lost — speakers: Hope Xi, com zackfg, com SBundell, Aaron Hammonds, Kalamity Kas, Andy Hartley, Keegan Amrine, Nicholas Munro Turner
-- 2023-11-20 — Kids on BIkes: Dead Roots | Part 3 with Zack FG and Jasper William Cartwright — speakers: Jasper William Cartwright, Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Kieran Hingston
-- 2023-11-10 — Kids on Bikes: Dead Roots | Part 2 — speakers: Jasper William Cartwright, Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner
-- 2023-10-31 — Kids on Bikes: Dead Roots | Part 1 — speakers: Jasper William Cartwright, Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner
-- 2023-10-21 — Universally Acknowledged | Episode 2 | A Good Society...in SPACE — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-20 — Universally Acknowledged | Episode 1 | A Good Society...in SPACE — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-18 — The Absalom Files Ep 12: Baring Our Soles — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-16 — The Absalom Files Ep 11: Downloading from The Cloud — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez, Kieran Hingston
-- 2023-10-14 — The Absalom Files Ep 10: Into Abundance — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-12 — The Absalom Files Ep 9: The Realisation — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-10 — Science of Starfinder | Cloning and time dilation — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-10-08 — The Absalom Files Ep 8: Mamma Mia! Here we go again! — speakers: Mamma Mia, Eyes Shut, Auntie Diamond, Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson
-- 2023-10-06 — The Absalom Files Ep 7: A hair-raising fight — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
-- 2023-09-30 — The Absalom Files Ep 6: New Horizons — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, Kieran Hingston, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez
+- 2026-03-03 — Teeth: Blood Cotillion Part 1
+- 2025-12-16 — Inevitable: Unburied | Chapter 4. The Doom — speakers: Edward Spence
+- 2025-12-15 — Inevitable: Unburied | Chapter 3. The Border Forts — speakers: Edward Spence
+- 2025-11-18 — Inevitable: Unburied | Chapter 2. The Violet Fields — speakers: Edward Spence
+- 2025-11-16 — Inevitable: Unburied | Chapter 1. The Drawing — speakers: Edward Spence
+- 2025-11-02 — Feed Drop | Last Line. Rewind. | Solemn Vale: Homegrown - Part 1 — speakers: Feed Drop
+- 2025-11-01 — MYTHIC D&D | Episode Six | The Battle for the Dawn!
+- 2025-10-31 — MYTHIC D&D | Episode Five | The Heart of Lethe
+- 2025-10-30 — MYTHIC D&D | Episode Four | The Underworld
+- 2025-10-29 — MYTHIC D&D | Episode Three | The Feather Wrapped in Flame
+- 2025-10-28 — MYTHIC D&D | Episode Two | The Fallen Star
+- 2025-10-27 — MYTHIC D&D | Episode One | God Mode — speakers: Mortal Hearts
+- 2025-10-10 — Call of Cthulhu | Part 2 | feat. Dom Allen of The Apocalypse Players and No Rolls Barred! — speakers: Dom Allen, Emily Bates, Shamini Bundell, Fiona Howat, Liv Kennedy
+- 2025-07-27 — Urchins! | End of Series Talkback | A Tale of Peculiar Powers in Old London Town — speakers: Peculiar Powers, Old London Town Time
+- 2025-07-26 — Urchins! | Chapter Six | A Tale of Peculiar Powers in Old London Town
+- 2025-07-25 — Urchins! | Chapter Five | A Tale of Peculiar Powers in Old London Town
+- 2025-07-24 — Urchins! | Chapter Four | A Tale of Peculiar Powers in Old London Town
+- 2025-07-23 — Urchins! | Chapter Three | A Tale of Peculiar Powers in Old London Town
+- 2025-07-22 — Urchins! | Chapter Two | A Tale of Peculiar Powers in Old London Town
+- 2025-07-21 — Urchins! | Chapter One | A Tale of Peculiar Powers in Old London Town
+- 2025-05-26 — Call of Cthulhu | Part 1 | feat. Dom Allen of The Apocalypse Players and No Rolls Barred! — speakers: Dom Allen, Emily Bates, Shamini Bundell, Fiona Howat, Liv Kennedy
+- 2025-05-10 — Blood & Fog | A Blades in the Dark Story | Chapter 6: At Death's Door — speakers: Dark Story
+- 2025-05-09 — Blood & Fog | A Blades in the Dark Story | Chapter 5: A Stranger Calls — speakers: Dark Story, Stranger Calls Cuff
+- 2025-05-08 — Blood & Fog | A Blades in the Dark Story | Chapter 4: Dead Man's Switch — speakers: Dead Man's Switch
+- 2025-05-07 — Blood & Fog | A Blades in the Dark Story | Chapter 3: In High Spirits — speakers: Dark Story, Ironhook Prison
+- 2025-05-06 — Blood & Fog | A Blades in the Dark Story | Chapter 2: Honour Amongst Thieves
+- 2025-05-05 — Blood & Fog | A Blades in the Dark Story | Chapter 1: Tiny Dark Deeds — speakers: Dark Story, Bazso Baz
+- 2025-03-06 — Off Balance | A Mappa Mundi Adventure | Part 2 — speakers: Off Balance, Mappa Mundi Adventure
+- 2025-03-05 — Off Balance | A Mappa Mundi Adventure | Part 1 — speakers: Off Balance, Mappa Mundi Adventure
+- 2025-02-10 — FOOD STORY | An incr-edible TTRPG with special guests Luke Westaway, Johnny Chiodini & Laurie Blake! — speakers: Luke Westaway
+- 2025-02-09 — Once A Hero | Dungeons & Dragons | Episode 7
+- 2025-02-08 — Once A Hero | Dungeons & Dragons | Episode 6
+- 2025-02-07 — Once A Hero | Dungeons & Dragons | Episode 5 — speakers: GM Zack
+- 2025-02-06 — Once A Hero | Dungeons & Dragons | Episode 4 — speakers: GM Zack
+- 2025-02-05 — Once A Hero | Dungeons & Dragons | Episode 3 — speakers: GM Zack
+- 2025-02-04 — Once A Hero | Dungeons & Dragons | Episode 2
+- 2025-02-03 — Once A Hero | Dungeons & Dragons | Episode 1
+- 2025-01-30 — Shattered | Daggerheart Actual Play | Episode 4
+- 2025-01-29 — Shattered | Daggerheart Actual Play | Episode 3 — speakers: Daggerheart Actual Play
+- 2025-01-28 — Shattered | Daggerheart Actual Play | Episode 2 — speakers: Daggerheart Actual Play
+- 2025-01-27 — Shattered | Daggerheart Actual Play | Episode 1 — speakers: Daggerheart Actual Play
+- 2025-01-21 — The Lost Universe | Part 2 | NASA made a TTRPG adventure! — speakers: Tabletop Role, Playing Game Adventure
+- 2025-01-20 — The Lost Universe | Part 1 | NASA made a TTRPG adventure! — speakers: Tabletop Role, Playing Game Adventure
+- 2025-01-16 — Orbital Blues: Blackstar | Episode 4 | There's A Starman Waiting In The Sky — speakers: Yatame Orbital
+- 2025-01-15 — Orbital Blues: Blackstar | Episode 3 | An Angel Playing With My Heart
+- 2025-01-14 — Orbital Blues: Blackstar | Episode 2 | Just Another Future Song
+- 2025-01-13 — Orbital Blues: Blackstar | Episode 1 | Of All The Gin Joints
+- 2025-01-06 — KULT: Divinity Lost | The Finale | Part 4 — speakers: Guy Vauqelin
+- 2025-01-06 — KULT: Divinity Lost | Montmarte | Part 3
+- 2025-01-06 — KULT: Divinity Lost | Inferno | Part 2
+- 2025-01-06 — KULT: Divinity Lost | The Atrocity Exhibition | Part 1 — speakers: Divinity Lost
+- 2024-03-27 — Masks 2044 | Episode 4 | The Final Battle — speakers: Will Creation
+- 2024-03-20 — Masks 2044 | Episode 3 | The Truth Will Out — speakers: Join Creation
+- 2024-03-12 — Masks 2044 | Episode 2 | Team Impact vs...Team Impact?
+- 2024-02-26 — Masks 2044 | Episode 1 | When All Hope is Lost — speakers: Hope Xi
+- 2023-11-20 — Kids on BIkes: Dead Roots | Part 3 with Zack FG and Jasper William Cartwright — speakers: Jasper William Cartwright
+- 2023-11-10 — Kids on Bikes: Dead Roots | Part 2 — speakers: Dead Roots, New Chester
+- 2023-10-31 — Kids on Bikes: Dead Roots | Part 1 — speakers: Dead Roots, New Chester
+- 2023-10-21 — Universally Acknowledged | Episode 2 | A Good Society...in SPACE — speakers: Universally Acknowledged, Good Society
+- 2023-10-20 — Universally Acknowledged | Episode 1 | A Good Society...in SPACE — speakers: Universally Acknowledged, Good Society
+- 2023-10-18 — The Absalom Files Ep 12: Baring Our Soles
+- 2023-10-16 — The Absalom Files Ep 11: Downloading from The Cloud
+- 2023-10-14 — The Absalom Files Ep 10: Into Abundance
+- 2023-10-12 — The Absalom Files Ep 9: The Realisation
+- 2023-10-10 — Science of Starfinder | Cloning and time dilation
+- 2023-10-08 — The Absalom Files Ep 8: Mamma Mia! Here we go again! — speakers: Mamma Mia, Eyes Shut
+- 2023-10-06 — The Absalom Files Ep 7: A hair-raising fight
+- 2023-09-30 — The Absalom Files Ep 6: New Horizons
 - 2023-09-26 — Science of Starfinder | Space stations and forensic science
-- 2023-09-11 — The Absalom Files Ep 5: Breaking and Entering! — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez Keiran Hingston, Gareth Blindfish
-- 2023-09-07 — The Absalom Files Ep 4: Time to Party! — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez Keiran Hingston, Gareth Blindfish
-- 2023-08-28 — Science of Starfinder | Fog Town and False Memories
-- 2023-08-27 — The Absalom Files Ep 3: Heist in the Museum — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez, Kieran Hingston
-- 2023-08-18 — The Absalom Files Ep 2: The Impossible Journey — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez, Kieran Hingston
-- 2023-08-15 — The Absalom Files Ep 1: Eyes Shut Detective Agency — speakers: Aaron Hammonds, Kalamity Kas, Andy Hartley, William Pettersson, Keegan Amrine, Nicholas Munro Turner, Megan Ramirez, Kieran Hingston
-- 2023-04-12 — Guest Podcast: Realms of Peril and Glory! — speakers: Zachary Fortais-Gomm, Elizabeth Campbell, Pip Gladwin Special Guest, James Barbarossa System
+- 2023-09-11 — The Absalom Files Ep 5: Breaking and Entering!
+- 2023-09-07 — The Absalom Files Ep 4: Time to Party!
+- 2023-08-28 — Science of Starfinder | Fog Town and False Memories — speakers: Fog Town, False Memories Could
+- 2023-08-27 — The Absalom Files Ep 3: Heist in the Museum — speakers: Museum Heist
+- 2023-08-18 — The Absalom Files Ep 2: The Impossible Journey
+- 2023-08-15 — The Absalom Files Ep 1: Eyes Shut Detective Agency — speakers: Eyes Shut Detective Agency
+- 2023-04-12 — Guest Podcast: Realms of Peril and Glory!
 - 2023-03-25 — Episode 40 Part 2: The End | Dungeons & Dragons & Science
 - 2023-03-22 — Episode 40 Part 1: Falling to Braxigantu | Dungeons & Dragons & Science
-- 2023-02-06 — Episode 39: New body, who dis | Dungeons & Dragons & Science — speakers: Funny Kai
-- 2022-12-23 — Small Town, Big Christmas: A TTRPG RomCom — speakers: Hallmark Movie, Grant Howitt, Simon Clark, com sbundell
+- 2023-02-06 — Episode 39: New body, who dis | Dungeons & Dragons & Science
+- 2022-12-23 — Small Town, Big Christmas: A TTRPG RomCom — speakers: Hallmark Movie
 - 2022-12-17 — Episode 38: Sorrow and Shadow | Dungeons & Dragons & Science
 - 2022-12-11 — Episode 37: Samsungurai | Dungeons & Dragons & Science
 - 2022-12-05 — Episode 36: A Party In Wolf’s Clothing | Dungeons & Dragons & Science
@@ -2710,7 +2155,7 @@
 - 2022-10-10 — Episode 32: The Face of a God | Dungeons & Dragons & Science
 - 2022-10-03 — Episode 31: Meet the Monks | Dungeons & Dragons & Science
 - 2022-09-25 — Episode 30: Into Martinsbane | Dungeons & Dragons & Science
-- 2022-09-19 — Episode 29: Return to Gunka | Dungeons & Dragons & Science
+- 2022-09-19 — Episode 29: Return to Gunka | Dungeons & Dragons & Science — speakers: Science After
 - 2022-08-05 — Episode 28: The Plaza | Dungeons & Dragons & Science
 - 2022-08-05 — Episode 27: The Festival | Dungeons & Dragons & Science
 - 2022-06-27 — Episode 26: The Cage | Dungeons & Dragons & Science
@@ -2721,4 +2166,3 @@
 - 2022-04-03 — Episode 21: Landsdown Port | Dungeons & Dragons & Science
 - 2022-03-30 — Episode 20: The Boat Solution | Dungeons & Dragons & Science
 - 2022-03-29 — Episode 19: Battle on the Boat | Dungeons & Dragons & Science
-- 2022-02-19 — Episode 18: The Boat Problem | Dungeons and Dragons and Science
