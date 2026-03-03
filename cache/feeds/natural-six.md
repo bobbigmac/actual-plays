@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-03-01T15:40:47+00:00`
-- checked_at: `2026-03-01T15:40:47+00:00`
-- etag: `"djEuMi4wOjE3NzIzNzg4OTYxNjg="`
+- fetched_at: `2026-03-03T21:50:00+00:00`
+- checked_at: `2026-03-03T21:50:00+00:00`
+- etag: `"djEuMi4wOjE3NzI1NjgwMzk2NTY="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-03-01T15:40:47+00:00",
+  "fetched_at": "2026-03-03T21:50:00+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "468602e7349e5aea44f7a0df6dc83eaf08588cfc",
+      "title": "Ep. 49 No Secrets Among Friends",
+      "published_at": "2026-03-03T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-49-no-secrets-among-friends",
+      "description": "There are stories that live in the moonlight, and carried by voices willing to give them breath. Tales passed down, reshaped, and shared again, woven with hope, wonder, and the reminder that beauty is worth protecting. In the glow of lanterns, a single story rises above the quiet, gathering hearts together in a moment almost bright enough to chase the shadows away. But even the most hopeful tale must make room for truth, and some truths arrive with weight. In the wake of stolen joy, choices must be made, and consequences must be faced. The path to atonement begins slowly, with broken shards and difficult promises, and a plan that asks for courage from those who fear they have none left. Sometimes the only way to defend what you love is to stand before the world and speak plainly, even when the cost is your own peace. Yet shadows do not only fall across cities. They slip between people too, tugging at old fears and stirring doubts best left in the past. A single choice, and tales from the past can echo far louder when witnessed, leaving questions that settle in the space between trust and truth. But somewhere beyond those lingering questions, the promise of celebration begins to weave itself together, a hint of joy waiting to be stitched into something brighter. ---- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69a45a457221cfbf205add08/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "428031127",
+      "itunes_duration": "3:42:46",
+      "speakers": [
+        "No Secrets Among Friends",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "secret",
+        "friend"
+      ]
+    },
     {
       "key": "7a36a230036e696d15143b58a9be981c9cd380c7",
       "title": "Action Surge Episode 48",
@@ -2549,6 +2574,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — Ep. 49 No Secrets Among Friends — speakers: No Secrets Among Friends, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-24 — Action Surge Episode 48 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-17 — Ep. 48 Diamonds in the Rough — speakers: Rough There, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-10 — Action Surge Episode 47 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
