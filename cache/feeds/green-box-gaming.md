@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-02-24T16:16:09+00:00`
-- checked_at: `2026-02-24T16:16:09+00:00`
-- etag: `"d092f3aa2e57dd05e46a572422f88d5b"`
-- last_modified: `Tue, 24 Feb 2026 14:00:13 GMT`
+- fetched_at: `2026-03-03T16:03:32+00:00`
+- checked_at: `2026-03-03T16:03:32+00:00`
+- etag: `"a5dd47560cf00c836495cd2d49f34d4c"`
+- last_modified: `Tue, 03 Mar 2026 14:00:37 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-02-24T16:16:09+00:00",
+  "fetched_at": "2026-03-03T16:03:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cb255d741f402d2bf0c23eda9077c6656e0e674f",
+      "title": "Ep10 | Delta Green: Puppet Shows and Shadow Plays - Watched",
+      "published_at": "2026-03-03T14:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2555689",
+      "description": "New mysteries come to light as the team and Alejandros discover that they may not be alone out in the wilderness. ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2555689/green-box-gaming/2026_02_17_16_33_32_725736fe-e83c-4e26-9764-167aba16d583.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79533870",
+      "itunes_duration": "4970",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "puppet",
+        "shows",
+        "shadow",
+        "plays"
+      ]
+    },
     {
       "key": "99c8721c398e886e1f170fd90c8c988328ee9add",
       "title": "Ep9 | Delta Green: Puppet Shows and Shadow Plays - Black Eagle",
@@ -3708,6 +3729,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — Ep10 | Delta Green: Puppet Shows and Shadow Plays - Watched
 - 2026-02-24 — Ep9 | Delta Green: Puppet Shows and Shadow Plays - Black Eagle
 - 2026-02-17 — Ep8 | Delta Green: Puppet Shows and Shadow Plays - Coming to a Head — speakers: Delta Green, Puppet Shows, Shadow Plays, Head Something
 - 2026-02-10 — Ep7 | Delta Green: Puppet Shows and Shadow Plays - Ms. Green
