@@ -2,9 +2,9 @@
 
 - slug: `one-shot-onslaught-a-d-d-5e-actual-play-podcast`
 - source: `https://oneshotonslaught.libsyn.com/rss`
-- fetched_at: `2026-03-03T10:02:20+00:00`
-- checked_at: `2026-03-03T10:02:20+00:00`
-- last_modified: `Tue, 03 Mar 2026 08:30:00 GMT`
+- fetched_at: `2026-03-03T19:12:18+00:00`
+- checked_at: `2026-03-03T19:12:18+00:00`
+- last_modified: `Tue, 03 Mar 2026 18:54:32 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://oneshotonslaught.com",
   "description": "We are an actual-play fifth-edition Dungeons and Dragons podcast. The thing that we do different is that we play through popular one-shot modules from dmsguild.com which means that you can drop in and listen to any session without having to be all caught up! We split each one-shot into two separate episodes so that we can release our podcast bi-weekly! If you like bite-sized chunks of D&D that you can drop in and out of without needing to following a larger over-arching narrative then we are your show! Patreon: patreon.com/MajesticGoose Discord: bit.ly/oneshotdiscord Website: MajesticGoose.com Twitter: @goosemajestic",
   "image_url": "https://megaphone.imgix.net/podcasts/eb918fc2-6f0a-11ec-a334-330ad16a06e0/image/1_shot_onslaught_Final_Square_full_width.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-03T10:02:20+00:00",
+  "fetched_at": "2026-03-03T19:12:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,10 +33,10 @@
       "link": "https://www.majesticgoose.com/one-shot-onslaught",
       "description": "After returning the mirror to the Queen, she had one last request for the gang. Kill Snow White. Like what you hear and want to support the show? Even $1 goes a long way for us! ⁠⁠⁠⁠⁠⁠bit.ly/halfwaytopatreon⁠⁠⁠⁠⁠⁠ Want to hang out with the cast? Come join our Discord! ⁠⁠⁠⁠⁠⁠bit.ly/halfwaytodiscord⁠⁠⁠⁠⁠⁠ Twitch: ⁠⁠⁠⁠⁠⁠twitch.tv/majesticgoosenetwork⁠⁠⁠⁠⁠⁠ Twitter: ⁠⁠⁠⁠⁠⁠@1shotOnslaught⁠⁠⁠⁠⁠⁠ Instagram: ⁠⁠⁠⁠⁠⁠@oneshotonslaught⁠⁠⁠⁠⁠⁠ Website: ⁠⁠⁠⁠⁠⁠www.oneshotonslaught.com⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠Merch Shop⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠White as Snow⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠TabletopAudio⁠⁠⁠⁠⁠ ⁠⁠⁠⁠www.etsy.com/shop/ironclawrelics⁠ Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/MAGN1740117222.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/MAGN1740117222.mp3?updated=1772564370",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5535",
+      "itunes_duration": "5595",
       "speakers": [
         "Kill Snow White"
       ],
