@@ -2,10 +2,10 @@
 
 - slug: `tabletop-tiddies`
 - source: `https://feeds.buzzsprout.com/1348282.rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"99376c90163a5c7602808ca31481adba"`
-- last_modified: `Wed, 05 Nov 2025 18:11:35 GMT`
+- fetched_at: `2026-03-04T21:51:01+00:00`
+- checked_at: `2026-03-04T21:51:01+00:00`
+- etag: `"e6fcff4f2ad3110f22e13267abe4819a"`
+- last_modified: `Wed, 04 Mar 2026 19:12:12 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.tabletoptiddies.com/",
   "description": "Tabletop Tiddies began in 2020, with our Dungeons and Dragons Actual Play Stream and Podcast, The Wildwell Trials . For our inaugural season, we took a dive into Fearfort, a world completely homebrewed by our Dungeon Goddess, Charlene Bayer. Three years later, we now have produced three seasons of Dungeons and Dragons live streamed shows, two seasons of Tiddies By Night, our Vampire the Masquerade Chronicle, and a handful of one shots, mini series, and Patreon Exclusive shows. Our shows have featured guests such as Josephine McAdam, B.Dave Walters, and Noura Ibrahim, and we can’t wait to have more wonderful guests at our table. The Tiddies have been active members in the tabletop gaming community for years, taking part in many streams, podcasts, and charity events. Be sure to follow Tabletop Tiddies and each of us on social media to stay updated!",
   "image_url": "https://storage.buzzsprout.com/c7pou33dxy3l6oztvzau28u023sy?.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-04T21:51:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -39,13 +39,7 @@
       "itunes_duration": "5877",
       "speakers": [
         "Forgotten Guardians",
-        "Forgotten Guardians Finale",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright"
+        "Forgotten Guardians Finale"
       ],
       "topics": [
         "finale",
@@ -67,12 +61,7 @@
       "speakers": [
         "Forgotten Guardians",
         "Forgotten Guardians Hospital",
-        "Bellspire Grace",
-        "King Wilmer",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Sara Mayfield",
-        "Rachel Theilade"
+        "Ascher Læknirs"
       ],
       "topics": [
         "hospital",
@@ -93,14 +82,7 @@
       "enclosure_length": "81480982",
       "itunes_duration": "6785",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Katrina Teitz"
+        "Forgotten Guardians"
       ],
       "topics": [
         "exhumed",
@@ -121,13 +103,7 @@
       "itunes_duration": "6304",
       "speakers": [
         "Forgotten Guardians",
-        "Forgotten Guardians Walking",
-        "King Wilmer",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Sara Mayfield",
-        "Rachel Theilade"
+        "Forgotten Guardians Walking"
       ],
       "topics": [
         "mfing",
@@ -147,16 +123,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109411971",
       "itunes_duration": "9114",
-      "speakers": [
-        "Kelly Wright Storytelling Tbn",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Katrina Teitz",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Dare Hickman"
-      ],
+      "speakers": [],
       "topics": [
         "chapter",
         "reality",
@@ -178,13 +145,7 @@
       "itunes_duration": "7773",
       "speakers": [
         "Forgotten Guardians",
-        "Forgotten Guardians Return",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Katrina Teitz"
+        "Forgotten Guardians Return"
       ],
       "topics": [
         "fearfort",
@@ -207,13 +168,7 @@
       "itunes_duration": "8715",
       "speakers": [
         "Forgotten Guardians",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Charlene Bayer Hestia",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Charlene Bay"
       ],
       "topics": [
         "forgotten",
@@ -234,14 +189,7 @@
       "enclosure_length": "87696379",
       "itunes_duration": "7304",
       "speakers": [
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium",
-        "Evelyn Stormloft"
+        "Kelly Wright Executive"
       ],
       "topics": [
         "chapter",
@@ -263,14 +211,7 @@
       "enclosure_length": "83599457",
       "itunes_duration": "6962",
       "speakers": [
-        "Forgotten Guardians",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Charlene Bayer Hestia",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Forgotten Guardians"
       ],
       "topics": [
         "forgotten",
@@ -291,14 +232,7 @@
       "enclosure_length": "87599886",
       "itunes_duration": "7296",
       "speakers": [
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium",
-        "Evelyn Stormloft"
+        "Kelly Wright Executive"
       ],
       "topics": [
         "chapter",
@@ -320,14 +254,7 @@
       "enclosure_length": "84916426",
       "itunes_duration": "7072",
       "speakers": [
-        "Forgotten Guardians",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Charlene Bayer Hestia",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Forgotten Guardians"
       ],
       "topics": [
         "mushroom",
@@ -350,14 +277,7 @@
       "enclosure_length": "73549709",
       "itunes_duration": "6123",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Charlene Bayer Hestia",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "feywilds",
@@ -376,16 +296,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74939363",
       "itunes_duration": "6239",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium"
-      ],
+      "speakers": [],
       "topics": [
         "reality",
         "season"
@@ -403,14 +314,7 @@
       "enclosure_length": "92199117",
       "itunes_duration": "7677",
       "speakers": [
-        "Forgotten Guardians",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Forgotten Guardians"
       ],
       "topics": [
         "forgotten",
@@ -429,14 +333,8 @@
       "enclosure_length": "130564196",
       "itunes_duration": "10874",
       "speakers": [
-        "Jeremy Cobb",
-        "Charlene Bayer",
-        "Kelly Wright",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Sara Mayfield",
-        "Emily Matchette Logo Design",
-        "Kelly Wright Overlay Design"
+        "Halloween Charity Weekend Join",
+        "Salal Sexual Violence Support"
       ],
       "topics": [
         "hunting",
@@ -458,14 +356,9 @@
       "enclosure_length": "132490717",
       "itunes_duration": "11034",
       "speakers": [
-        "Charlene Bayer",
-        "Connie Chang",
-        "Jeremy Cobb",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Margaret Krohn Executive",
-        "Dare Hickman",
-        "Sara Mayfield"
+        "Charity One",
+        "Halloween Charity Weekend Join",
+        "Salal Sexual Violence Support"
       ],
       "topics": [
         "level",
@@ -487,14 +380,7 @@
       "enclosure_length": "76740746",
       "itunes_duration": "6389",
       "speakers": [
-        "Forgotten Guardians",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Forgotten Guardians"
       ],
       "topics": [
         "wildwell",
@@ -515,14 +401,7 @@
       "enclosure_length": "84385002",
       "itunes_duration": "7026",
       "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium"
+        "All Washed Up"
       ],
       "topics": [
         "season"
@@ -540,14 +419,7 @@
       "enclosure_length": "88362866",
       "itunes_duration": "7357",
       "speakers": [
-        "Margaret Krohn",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller"
+        "Margaret Krohn"
       ],
       "topics": [
         "margaret",
@@ -568,13 +440,7 @@
       "itunes_duration": "6382",
       "speakers": [
         "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Content Warnings"
       ],
       "topics": [
         "battle",
@@ -595,14 +461,7 @@
       "enclosure_length": "62239552",
       "itunes_duration": "5182",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "forgotten",
@@ -622,13 +481,7 @@
       "itunes_duration": "7562",
       "speakers": [
         "Noxx’s Patron",
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield"
+        "Forgotten Guardians"
       ],
       "topics": [
         "noxx",
@@ -649,14 +502,7 @@
       "enclosure_length": "84407891",
       "itunes_duration": "7030",
       "speakers": [
-        "Margaret Krohn",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller"
+        "Margaret Krohn"
       ],
       "topics": [
         "margaret",
@@ -676,14 +522,7 @@
       "enclosure_length": "84431357",
       "itunes_duration": "7032",
       "speakers": [
-        "Margaret Krohn",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller"
+        "Margaret Krohn"
       ],
       "topics": [
         "season"
@@ -701,14 +540,7 @@
       "enclosure_length": "90802385",
       "itunes_duration": "7562",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "battle",
@@ -729,16 +561,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82998176",
       "itunes_duration": "6911",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium"
-      ],
+      "speakers": [],
       "topics": [
         "season"
       ]
@@ -756,13 +579,7 @@
       "itunes_duration": "7341",
       "speakers": [
         "Forgotten Guardians",
-        "Coldrock Hollow",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield"
+        "Coldrock Hollow"
       ],
       "topics": [
         "coldrock",
@@ -783,14 +600,7 @@
       "enclosure_length": "86751979",
       "itunes_duration": "7225",
       "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium"
+        "All Washed Up"
       ],
       "topics": [
         "season"
@@ -808,14 +618,7 @@
       "enclosure_length": "70648507",
       "itunes_duration": "5882",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "battle",
@@ -836,16 +639,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82061842",
       "itunes_duration": "6835",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Octavia Miller",
-        "Charlene Bayer Belgium"
-      ],
+      "speakers": [],
       "topics": [
         "season"
       ]
@@ -862,14 +656,7 @@
       "enclosure_length": "69387330",
       "itunes_duration": "5776",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "lead",
@@ -889,14 +676,7 @@
       "enclosure_length": "73806933",
       "itunes_duration": "6144",
       "speakers": [
-        "Forgotten Guardians",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Dare Hickman",
-        "Katrina Teitz",
-        "Kelly Wright",
-        "Sara Mayfield",
-        "Kelly Wright Logo Design"
+        "Forgotten Guardians"
       ],
       "topics": [
         "lead",
@@ -916,14 +696,8 @@
       "enclosure_length": "83492857",
       "itunes_duration": "6946",
       "speakers": [
-        "Charlene Bayer Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Holiday One Shot",
+        "Oops All Santas"
       ],
       "topics": [
         "holiday",
@@ -944,14 +718,8 @@
       "enclosure_length": "64918622",
       "itunes_duration": "5404",
       "speakers": [
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Season Two",
+        "Wrap Up"
       ],
       "topics": [
         "season",
@@ -969,16 +737,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81742236",
       "itunes_duration": "6799",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "finale"
@@ -995,16 +754,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74942335",
       "itunes_duration": "6232",
-      "speakers": [
-        "Dave Walters",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "finale",
@@ -1025,12 +775,7 @@
       "speakers": [
         "Arachne’s Coven",
         "Jeremy Cobb Borba",
-        "Jeremy Cobb",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield"
+        "Jeremy Cobb"
       ],
       "topics": [
         "arachne",
@@ -1051,14 +796,7 @@
       "enclosure_length": "80704265",
       "itunes_duration": "6721",
       "speakers": [
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Season One"
       ],
       "topics": [
         "epilogue"
@@ -1075,16 +813,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68236680",
       "itunes_duration": "5677",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1098,16 +827,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "101372617",
       "itunes_duration": "8443",
-      "speakers": [
-        "Halie Thibodeau",
-        "Content Warnings",
-        "Kelly Wright Special Guest",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound"
-      ],
+      "speakers": [],
       "topics": [
         "stone",
         "halie",
@@ -1126,14 +846,7 @@
       "enclosure_length": "77896639",
       "itunes_duration": "6484",
       "speakers": [
-        "Haley Whipjack",
-        "Join Sara",
-        "Content Warnings",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Speical Guest",
-        "Emily Matchette Sound",
-        "Emily Matchette Logo Design"
+        "Haley Whipjack"
       ],
       "topics": [
         "tiddie",
@@ -1152,16 +865,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84525033",
       "itunes_duration": "7039",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "stone",
         "halie",
@@ -1179,16 +883,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78824820",
       "itunes_duration": "6559",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "house",
         "podgie"
@@ -1206,14 +901,7 @@
       "enclosure_length": "77840795",
       "itunes_duration": "6483",
       "speakers": [
-        "Halie Thibodeay",
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
+        "Halie Thibodeau Evelyn"
       ],
       "topics": [
         "stone",
@@ -1232,16 +920,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79416731",
       "itunes_duration": "6610",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "rise",
         "blood",
@@ -1260,14 +939,7 @@
       "enclosure_length": "82695462",
       "itunes_duration": "6883",
       "speakers": [
-        "Frank Herbert’s Dune",
-        "Content Warnings",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Frank Herbert’s Dune"
       ],
       "topics": [
         "tiddie"
@@ -1285,14 +957,7 @@
       "enclosure_length": "90383931",
       "itunes_duration": "7528",
       "speakers": [
-        "Sara Mayfield",
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
+        "Sara Mayfield"
       ],
       "topics": [
         "roads",
@@ -1310,16 +975,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74775165",
       "itunes_duration": "6221",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "naughty",
         "corner"
@@ -1337,14 +993,7 @@
       "enclosure_length": "85957161",
       "itunes_duration": "7159",
       "speakers": [
-        "Shayne Eastin",
-        "Aunt Florence",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright"
+        "Shayne Eastin"
       ],
       "topics": [
         "roads",
@@ -1362,16 +1011,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68304343",
       "itunes_duration": "5683",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "normal"
       ]
@@ -1388,14 +1028,7 @@
       "enclosure_length": "78453958",
       "itunes_duration": "6534",
       "speakers": [
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
+        "Many Roads Converging"
       ],
       "topics": [
         "roads",
@@ -1414,14 +1047,7 @@
       "enclosure_length": "76876228",
       "itunes_duration": "6393",
       "speakers": [
-        "Aki Benson",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright"
+        "Aki Benson"
       ],
       "topics": [
         "tunnel",
@@ -1440,16 +1066,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72811013",
       "itunes_duration": "6063",
-      "speakers": [
-        "Springheal Jack",
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound"
-      ],
+      "speakers": [],
       "topics": [
         "roads",
         "converging"
@@ -1466,16 +1083,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89301619",
       "itunes_duration": "7430",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "tunnel",
         "love"
@@ -1492,16 +1100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83604250",
       "itunes_duration": "6962",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "roads",
         "converging"
@@ -1519,14 +1118,7 @@
       "enclosure_length": "75089490",
       "itunes_duration": "6247",
       "speakers": [
-        "Emily Floyd Marge’s Favourites",
-        "Emily Floyd",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade"
+        "Emily Floyd Marge’s Favourites"
       ],
       "topics": [
         "mystery",
@@ -1547,16 +1139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91576449",
       "itunes_duration": "7627",
-      "speakers": [
-        "Dracula’s Domain",
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "foire",
         "nuit",
@@ -1574,16 +1157,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75294181",
       "itunes_duration": "6260",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "sticky",
         "situation"
@@ -1600,16 +1174,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84416291",
       "itunes_duration": "7030",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "foire",
         "nuit",
@@ -1627,16 +1192,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83898300",
       "itunes_duration": "6986",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "catch",
         "robin",
@@ -1655,16 +1211,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79304061",
       "itunes_duration": "6604",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "foire",
         "nuit",
@@ -1682,16 +1229,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83791742",
       "itunes_duration": "6977",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "swoleston",
         "snacks",
@@ -1713,14 +1251,7 @@
       "enclosure_length": "74023997",
       "itunes_duration": "6164",
       "speakers": [
-        "Sara Mayfield",
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
+        "Sara Mayfield"
       ],
       "topics": [
         "sniff",
@@ -1740,14 +1271,7 @@
       "enclosure_length": "68480264",
       "itunes_duration": "5701",
       "speakers": [
-        "Will Ascher",
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright"
+        "Will Ascher"
       ],
       "topics": [
         "dragon",
@@ -1766,10 +1290,8 @@
       "enclosure_length": "77947267",
       "itunes_duration": "6489",
       "speakers": [
-        "Charlene Bayer",
-        "Andy Woolridge",
-        "Kelly Wright",
-        "Bugbear Bubbles"
+        "Nation Wide Canadian",
+        "Enna Join"
       ],
       "topics": [
         "nation",
@@ -1790,14 +1312,7 @@
       "enclosure_length": "76988475",
       "itunes_duration": "6411",
       "speakers": [
-        "Sara Mayfield",
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
+        "Sara Mayfield"
       ],
       "topics": [
         "sara",
@@ -1815,16 +1330,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77316942",
       "itunes_duration": "6438",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1839,14 +1345,7 @@
       "enclosure_length": "88539822",
       "itunes_duration": "7373",
       "speakers": [
-        "Sara Mayfield",
-        "Content Warnings",
-        "Kelly Wright Special Guest",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound"
+        "Sara Mayfield"
       ],
       "topics": [
         "sniff",
@@ -1866,14 +1365,7 @@
       "enclosure_length": "72145354",
       "itunes_duration": "6007",
       "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Wilmer’s increasingly problematic nose"
       ],
       "topics": [
         "wrong",
@@ -1891,7 +1383,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1447583",
       "itunes_duration": "115",
-      "speakers": [],
+      "speakers": [
+        "Nation Wide Canadian"
+      ],
       "topics": [
         "nation",
         "adventure",
@@ -1909,16 +1403,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73239697",
       "itunes_duration": "6098",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "light",
         "little"
@@ -1936,14 +1421,7 @@
       "enclosure_length": "79657658",
       "itunes_duration": "6633",
       "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Oh My"
       ],
       "topics": [
         "ticket",
@@ -1962,16 +1440,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81638751",
       "itunes_duration": "6798",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "light"
       ]
@@ -1988,14 +1457,7 @@
       "enclosure_length": "68447330",
       "itunes_duration": "5698",
       "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Midway Bonanza"
       ],
       "topics": [
         "midway",
@@ -2013,16 +1475,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70361080",
       "itunes_duration": "5858",
-      "speakers": [
-        "Content Warnings",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "fight",
         "flight",
@@ -2040,16 +1493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68065257",
       "itunes_duration": "5667",
-      "speakers": [
-        "Olive Lee",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "light",
         "little"
@@ -2066,16 +1510,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68439826",
       "itunes_duration": "5698",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "sweet",
         "sour",
@@ -2093,16 +1528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68263013",
       "itunes_duration": "5684",
-      "speakers": [
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "light"
       ]
@@ -2119,14 +1545,7 @@
       "enclosure_length": "76127024",
       "itunes_duration": "6338",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Magical Boat Ride After"
       ],
       "topics": [
         "magical",
@@ -2145,16 +1564,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92556291",
       "itunes_duration": "7708",
-      "speakers": [
-        "Mrs Carby",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "haunted",
@@ -2173,14 +1583,7 @@
       "enclosure_length": "89324108",
       "itunes_duration": "7439",
       "speakers": [
-        "Henrietta Carby",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design"
+        "Henrietta Carby"
       ],
       "topics": [
         "case",
@@ -2199,16 +1602,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87835442",
       "itunes_duration": "7315",
-      "speakers": [
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Kelly Wright Sound",
-        "Kelly Wright Logo Design",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "case",
         "haunted",
@@ -2226,16 +1620,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78276482",
       "itunes_duration": "6518",
-      "speakers": [
-        "Ascher Læknir",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "unlikely",
         "friend"
@@ -2253,14 +1638,7 @@
       "enclosure_length": "20080541",
       "itunes_duration": "1668",
       "speakers": [
-        "Octavia Smith",
-        "Evelyne Stormloft",
-        "Nosforatu Ganglord",
-        "Imogen White",
-        "Kelly Wright Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade"
+        "Octavia Smith"
       ],
       "topics": []
     },
@@ -2276,14 +1654,8 @@
       "enclosure_length": "145197687",
       "itunes_duration": "12094",
       "speakers": [
-        "Sara Mayfield",
-        "Kelly Wright",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Rachel Theilade Special Guest",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Tabletop Tiddies",
+        "Rape Crisis Centre"
       ],
       "topics": [
         "survivor"
@@ -2300,16 +1672,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "1463305",
       "itunes_duration": "117",
-      "speakers": [
-        "Octavia Smith",
-        "Evelyne Stormloft",
-        "Imogen White",
-        "Matchette Storyteller",
-        "Kelly Wright Cast Producers",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Rachel Theilade"
-      ],
+      "speakers": [],
       "topics": [
         "tiddie",
         "night"
@@ -2327,14 +1690,7 @@
       "enclosure_length": "1230091",
       "itunes_duration": "97",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Join Dungeon Master Cha"
       ],
       "topics": [
         "revelia"
@@ -2352,14 +1708,8 @@
       "enclosure_length": "1471061",
       "itunes_duration": "117",
       "speakers": [
-        "Join Char",
-        "Charlene Bayer Storyteller",
-        "Kelly Wright Cast Producers",
-        "Charlene Bayer",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright"
+        "Tabletop Tiddies",
+        "Season Two Promo Run"
       ],
       "topics": [
         "tabletop",
@@ -2380,14 +1730,8 @@
       "enclosure_length": "77392378",
       "itunes_duration": "6444",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Season One",
+        "Tabletop Tiddies Season One"
       ],
       "topics": [
         "season"
@@ -2405,14 +1749,7 @@
       "enclosure_length": "95090305",
       "itunes_duration": "7918",
       "speakers": [
-        "Noura Ibrahim",
-        "Dave Walters",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special"
+        "Noura Ibrahim"
       ],
       "topics": [
         "finale",
@@ -2432,16 +1769,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81076270",
       "itunes_duration": "6751",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "blood",
         "bath",
@@ -2459,16 +1787,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76781107",
       "itunes_duration": "6393",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "resistance"
       ]
@@ -2485,14 +1804,7 @@
       "enclosure_length": "84719458",
       "itunes_duration": "7054",
       "speakers": [
-        "Siaphora Miandis",
-        "Halie Thibodeau",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest"
+        "Siaphora Miandis"
       ],
       "topics": [
         "great",
@@ -2512,16 +1824,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "115585828",
       "itunes_duration": "9626",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Kelly Wright",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "revelia"
       ]
@@ -2538,14 +1841,7 @@
       "enclosure_length": "78751009",
       "itunes_duration": "6557",
       "speakers": [
-        "Siaphora Miandis",
-        "Halie Thibodeau",
-        "Marge’s Favourites",
-        "Kelly Wright",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette"
+        "gathering intel"
       ],
       "topics": [
         "royal",
@@ -2566,16 +1862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84511280",
       "itunes_duration": "7037",
-      "speakers": [
-        "Content Warning",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "creature",
         "dark"
@@ -2594,13 +1881,7 @@
       "itunes_duration": "6546",
       "speakers": [
         "Noura Ibrahim Joined",
-        "Noura Ibrahim",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest"
+        "Noura Ibrahim"
       ],
       "topics": [
         "office",
@@ -2620,14 +1901,7 @@
       "enclosure_length": "75262755",
       "itunes_duration": "6266",
       "speakers": [
-        "Josephine McAdam",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Emily Matchette Sound"
+        "Josephine McAdam"
       ],
       "topics": [
         "lost",
@@ -2647,16 +1921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83477800",
       "itunes_duration": "6951",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "lost",
         "wilds"
@@ -2673,16 +1938,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78816793",
       "itunes_duration": "6562",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Kelly Wright Logo Design",
-        "Kelly Wright"
-      ],
+      "speakers": [],
       "topics": [
         "fooood",
         "fiiiiight"
@@ -2700,14 +1956,8 @@
       "enclosure_length": "71863745",
       "itunes_duration": "5983",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade Special Guest",
-        "Kelly Wright",
-        "Emily Matchette Sound"
+        "Sneaky Sleuthing",
+        "Skilling Back"
       ],
       "topics": [
         "sneaky",
@@ -2727,14 +1977,7 @@
       "enclosure_length": "86043300",
       "itunes_duration": "7163",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Fall Mansion"
       ],
       "topics": [
         "haunting",
@@ -2753,16 +1996,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73028235",
       "itunes_duration": "6080",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "haunting",
         "fall",
@@ -2780,16 +2014,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83664027",
       "itunes_duration": "6966",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "haunting",
         "fall",
@@ -2807,16 +2032,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79752768",
       "itunes_duration": "6640",
-      "speakers": [
-        "Content Warning",
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound"
-      ],
+      "speakers": [],
       "topics": [
         "checkin",
         "competition"
@@ -2834,14 +2050,7 @@
       "enclosure_length": "65453349",
       "itunes_duration": "5449",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Scavenger Hunt"
       ],
       "topics": [
         "scavenger",
@@ -2861,14 +2070,7 @@
       "enclosure_length": "62772377",
       "itunes_duration": "5225",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "completing th"
       ],
       "topics": [
         "scavenger",
@@ -2887,16 +2089,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60518261",
       "itunes_duration": "5037",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "trial",
         "threshold"
@@ -2914,14 +2107,7 @@
       "enclosure_length": "68831966",
       "itunes_duration": "5730",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Wildwell Trials"
       ],
       "topics": [
         "assault",
@@ -2939,16 +2125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73791241",
       "itunes_duration": "6142",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "wildwell",
         "trials",
@@ -2966,16 +2143,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "14313936",
       "itunes_duration": "1187",
-      "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
-      ],
+      "speakers": [],
       "topics": [
         "tabletop",
         "tiddies",
@@ -2994,14 +2162,9 @@
       "enclosure_length": "780002",
       "itunes_duration": "60",
       "speakers": [
-        "Charlene Bayer Executive",
-        "Charlene Bayer",
-        "Amanda Lourenço",
-        "Emily Matchette",
-        "Sara Mayfield",
-        "Rachel Theilade",
-        "Emily Matchette Sound",
-        "Kelly Wright Logo Design"
+        "Tabletop Tiddies",
+        "Season One Promo Tabletop",
+        "Actual Play"
       ],
       "topics": [
         "tabletop",
@@ -3017,115 +2180,115 @@
 
 ## Episodes (newest first)
 
-- 2024-09-15 — S4E20: Finale Part 1/3 | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Finale, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Sara Mayfield, Rachel Theilade, Kelly Wright
-- 2024-09-01 — S4E18: Hospital to the Grave | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Hospital, Bellspire Grace, King Wilmer, Kelly Wright Executive, Charlene Bayer, Sara Mayfield, Rachel Theilade
-- 2024-08-25 — S4E17: The Past Exhumed | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Kelly Wright Executive, Charlene Bayer, Sara Mayfield, Rachel Theilade, Kelly Wright, Katrina Teitz
-- 2024-08-25 — S4E16: Walking in MFing Footsteps | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Walking, King Wilmer, Content Warnings, Kelly Wright Executive, Charlene Bayer, Sara Mayfield, Rachel Theilade
-- 2024-08-18 — Chapter 2, Pt. 4: Back To Reality | Tiddies By Night - Season 3 — speakers: Kelly Wright Storytelling Tbn, Content Warnings, Kelly Wright Executive, Charlene Bayer, Katrina Teitz, Rachel Theilade, Kelly Wright, Dare Hickman
-- 2024-08-18 — S4E15: Return to Fearfort | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Forgotten Guardians Return, Kelly Wright Executive, Charlene Bayer, Sara Mayfield, Rachel Theilade, Kelly Wright, Katrina Teitz
-- 2024-07-01 — Ep14: Reunited and it Feels so Good | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Charlene Bayer Hestia, Kelly Wright Logo Design, Kevin MacLeod
-- 2024-07-01 — Chapter 2, Pt. 3: Back To Reality | Tiddies By Night - Season 3 — speakers: Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium, Evelyn Stormloft
-- 2024-05-25 — Ep13: Reunited and it Feels so Good | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Charlene Bayer Hestia, Kelly Wright Logo Design, Kevin MacLeod
-- 2024-05-25 — Chapter 2, Pt. 2: Back To Reality | Tiddies By Night - Season 3 — speakers: Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium, Evelyn Stormloft
-- 2024-05-25 — Ep12: Welcome to Mushroom City | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Charlene Bayer Hestia, Kelly Wright Logo Design, Kevin MacLeod
-- 2023-11-19 — Ep11: Into the Feywilds | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Charlene Bayer Hestia, Kelly Wright Logo Design
-- 2023-11-04 — Ch 2, Pt. 1: Back To Reality | TBN - Season 3 — speakers: Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium
-- 2023-11-04 — Ep10: Mending Ties | Forgotten Guardians — speakers: Forgotten Guardians, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design, Kevin MacLeod
-- 2023-10-21 — The Hunting Ground | Halloween Charity Weekend — speakers: Jeremy Cobb, Charlene Bayer, Kelly Wright, Dare Hickman, Katrina Teitz, Sara Mayfield, Emily Matchette Logo Design, Kelly Wright Overlay Design
-- 2023-10-21 — D&D Level 20 Charity One-Shot | Halloween Charity Weekend — speakers: Charlene Bayer, Connie Chang, Jeremy Cobb, Katrina Teitz, Kelly Wright, Margaret Krohn Executive, Dare Hickman, Sara Mayfield
-- 2023-10-07 — Ep9: Wildwell… We Have A Problem | Forgotten Guardians — speakers: Forgotten Guardians, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design, Kevin MacLeod
-- 2023-09-23 — Ch 1, Pt. 7: All Washed Up | TBN - Season 3 — speakers: Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium
-- 2023-09-09 — Ch 1, Pt. 6: All Washed Up - with Margaret Krohn | TBN - Season 3 — speakers: Margaret Krohn, Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller
-- 2023-09-09 — Ep8: Battle At Redmont | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2023-08-27 — Ep7: Who Are You? | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2023-06-24 — Ep6: Noxx’s Patron | Forgotten Guardians — speakers: Noxx’s Patron, Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield
-- 2023-06-24 — Ch 1, Pt. 5: All Washed Up - with Margaret Krohn | TBN - Season 3 — speakers: Margaret Krohn, Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller
-- 2023-06-10 — Ch 1, Pt. 4: All Washed Up | TBN - Season 3 — speakers: Margaret Krohn, Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller
-- 2023-06-10 — Ep5: Battle of the Undead Trolls | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2023-06-03 — Ch 1, Pt. 3: All Washed Up | TBN - Season 3 — speakers: Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium
-- 2023-06-03 — Ep4: Coldrock Hollow | Forgotten Guardians — speakers: Forgotten Guardians, Coldrock Hollow, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield
-- 2023-06-01 — Ch 1, Pt. 2: All Washed Up | TBN - Season 3 — speakers: Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium
-- 2023-06-01 — Ep3: Battle In The Decrepit Woods | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2023-04-29 — Ch 1, Pt. 1: All Washed Up | TBN - Season 3 — speakers: Content Warnings, Kelly Wright Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Octavia Miller, Charlene Bayer Belgium
-- 2023-04-29 — Ep2: Following A Lead | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2023-04-15 — Ep1: Following A Lead | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings, Charlene Bayer Executive, Dare Hickman, Katrina Teitz, Kelly Wright, Sara Mayfield, Kelly Wright Logo Design
-- 2021-12-24 — Holiday One Shot: Oops All Santas! — speakers: Charlene Bayer Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-12-10 — S2: Season Two Q&A Wrap Up! — speakers: Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-12-03 — ITR S2E23: Fun House Finale Part 2 — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-11-26 — ITR S2E22: Fun House Finale Part 1 - with B.Dave Walters — speakers: Dave Walters, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright
-- 2021-11-19 — ITR S2E21: Arachne’s Coven - with Jeremy Cobb — speakers: Arachne’s Coven, Jeremy Cobb Borba, Jeremy Cobb, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield
-- 2021-11-13 — TBN S1E22: Epilogue — speakers: Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-11-12 — ITR S2E20: Big Top’s Entr’acte — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-11-06 — TBN S1E21: Set In Stone - Part 3 - with Halie Thibodeau — speakers: Halie Thibodeau, Content Warnings, Kelly Wright Special Guest, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound
-- 2021-11-05 — Tiddies Go To Oz - with Haley Whipjack — speakers: Haley Whipjack, Join Sara, Content Warnings, Emily Matchette, Sara Mayfield, Rachel Theilade Speical Guest, Emily Matchette Sound, Emily Matchette Logo Design
-- 2021-10-30 — TBN S1E20: Set In Stone - Part 2 - with Halie Thibodeau — speakers: Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-10-29 — ITR S2E19: House Of Wax - with Podgie — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-10-23 — TBN S1E19: Set In Stone - Part 1 - with Halie Thibodeau — speakers: Halie Thibodeay, Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-10-22 — ITR S2E18: Rise Of The Blood Moon — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-10-18 — Tiddies Play D&Dune — speakers: Frank Herbert’s Dune, Content Warnings, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-10-16 — TBN S1E18: Many Roads Converging - Part 5 — speakers: Sara Mayfield, Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-10-15 — ITR S2E17: The Naughty Corner — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-10-09 — TBN S1E17: Many Roads Converging - Part 4 — speakers: Shayne Eastin, Aunt Florence, Content Warnings, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright
-- 2021-10-08 — ITR S2E16: The Last Normal Day — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-10-02 — TBN S1E16: Many Roads Converging - Part 3 — speakers: Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-10-01 — ITR S2E15: The Tunnel Of Love - Part 2 - with Aki Benson — speakers: Aki Benson, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright
-- 2021-09-25 — TBN S1E15: Many Roads Converging - Part 2 — speakers: Springheal Jack, Content Warnings, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound
-- 2021-09-24 — ITR S2E14: The Tunnel Of Love - Part 1 — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-09-18 — TBN S1E14: Many Roads Converging - Part 1 — speakers: Content Warnings, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-09-17 — ITR S2E13: The Mystery Of Marge’s Meatery - with Emily Floyd — speakers: Emily Floyd Marge’s Favourites, Emily Floyd, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade
-- 2021-09-11 — TBN S1E13: La Foire De Nuit - Part 3 - With Dare — speakers: Dracula’s Domain, Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-09-10 — ITR S2E12: A Sticky Situation — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-09-04 — TBN S1E12: La Foire De Nuit - Part 2 - With Dare — speakers: Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-09-03 — ITR S2E11: What’s The Catch? - with Robin from Dork Tales — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-08-28 — TBN S1E11: La Foire De Nuit - Part 1 - With Dare — speakers: Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-08-27 — S2E10: Swoleston, Snacks, and The Stick - with Robin from Dork Tales — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-08-07 — TBN S1E10: Sniff Out A Rat - Part 3 - with Sara Mayfield — speakers: Sara Mayfield, Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-08-06 — ITR S2E9: Dragon In The Dismaydium! — speakers: Will Ascher, Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright
-- 2021-08-02 — SORRY A Nation Wide Canadian D&D Adventure Ep5: The Ice Cavern of Enna — speakers: Charlene Bayer, Andy Woolridge, Kelly Wright, Bugbear Bubbles
-- 2021-07-31 — TBN S1E9: Sniff Out A Rat - Part 2 - with Sara Mayfield — speakers: Sara Mayfield, Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-07-30 — ITR S2E8: Let’s Rumble! — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-07-24 — TBN S1E8: Sniff Out A Rat - Part 1 - with Sara Mayfield — speakers: Sara Mayfield, Content Warnings, Kelly Wright Special Guest, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound
-- 2021-07-23 — ITR S2E7: Something’s Wrong With Pinky — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-07-21 — SORRY: A Nation Wide Canadian D&D Adventure - Promo
-- 2021-07-18 — TBN S1E7: Find Your Light - Part 4 - with Little Red Dot — speakers: Content Warnings, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-07-16 — ITR S2E6: Tickets, Prizes, & Candy - Oh My! — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-07-10 — TBN S1E6: Find Your Light - Part 3 — speakers: Content Warnings, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-07-09 — ITR S2E5: Midway Bonanza! — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-06-25 — ITR S2E4: Fight, Flight, or Freeze? — speakers: Content Warnings, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-06-19 — TBN S1E5: Find Your Light - Part 2 - with Little Red Dot — speakers: Olive Lee, Kelly Wright, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-06-18 — ITR S2E3: A Sweet And Sour Entrance — speakers: Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-06-12 — TBN S1E4: Find Your Light - Part 1 — speakers: Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-06-11 — ITR S2E2: A Magical Boat Ride — speakers: Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-06-05 — TBN S1E3: The Case Of The Haunted Widow - Part 3 — speakers: Mrs Carby, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-06-05 — TBN S1E2: The Case Of The Haunted Widow - Part 2 — speakers: Henrietta Carby, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design
-- 2021-06-05 — TBN S1E1: The Case Of The Haunted Widow - Part 1 — speakers: Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade, Kelly Wright, Kelly Wright Sound, Kelly Wright Logo Design, Kevin MacLeod
-- 2021-06-04 — ITR S2E1: An Unlikely Friend — speakers: Ascher Læknir, Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound
-- 2021-05-29 — TBN S1E0: Embraced — speakers: Octavia Smith, Evelyne Stormloft, Nosforatu Ganglord, Imogen White, Kelly Wright Executive, Charlene Bayer, Emily Matchette, Rachel Theilade
-- 2021-05-15 — Bonus Episode: Streaming For Survivors 2021 — speakers: Sara Mayfield, Kelly Wright, Charlene Bayer, Amanda Lourenço, Emily Matchette, Rachel Theilade Special Guest, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-05-10 — S2: "Tiddies By Night" Trailer — speakers: Octavia Smith, Evelyne Stormloft, Imogen White, Matchette Storyteller, Kelly Wright Cast Producers, Charlene Bayer, Emily Matchette, Rachel Theilade
-- 2021-05-03 — S2: "Into The Revelia" Trailer — speakers: Charlene Bayer Executive, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-04-26 — Tabletop Tiddies - Season Two Promo — speakers: Join Char, Charlene Bayer Storyteller, Kelly Wright Cast Producers, Charlene Bayer, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright
-- 2021-04-08 — S1E21: Season One Q&A — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Kelly Wright, Emily Matchette Sound
-- 2021-04-01 — S1E20: The Finale - With B.Dave Walters and Noura Ibrahim — speakers: Noura Ibrahim, Dave Walters, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special
-- 2021-03-25 — S1E19: The Blood Bath - With B.Dave Walters — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-03-18 — S1E18: Resistance! — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Kelly Wright, Emily Matchette Sound
-- 2021-03-11 — S1E17: The Great Race - with Halie Thibodeau — speakers: Siaphora Miandis, Halie Thibodeau, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest
-- 2021-03-04 — Bonus Episode: Lost In The Revelia — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Kelly Wright, Emily Matchette Sound
-- 2021-02-25 — S1E16: Royal Bonding Time - with Halie Thibodeau — speakers: Siaphora Miandis, Halie Thibodeau, Marge’s Favourites, Kelly Wright, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette
-- 2021-02-11 — S1E15: Creature Of The Dark — speakers: Content Warning, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound
-- 2021-02-04 — S1E14: Finding The Office - with Noura Ibrahim — speakers: Noura Ibrahim Joined, Noura Ibrahim, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest
-- 2021-01-28 — S1E13: The Lost Fey In The Wilds - Part 2 - with Josephine McAdam — speakers: Josephine McAdam, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Emily Matchette Sound
-- 2021-01-21 — S1E12: The Lost Fey In The Wilds - Part 1 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2021-01-14 — S1E11: FOOOOD FIIIIIGHT!!! — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Kelly Wright Logo Design, Kelly Wright
-- 2021-01-07 — S1E10: Sneaky Sleuthing & Skilling — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade Special Guest, Kelly Wright, Emily Matchette Sound
-- 2020-12-17 — S1E9: The Haunting of Fall Mansion - Part 3 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-12-10 — S1E8: The Haunting of Fall Mansion - Part 2 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-12-03 — S1E7: The Haunting of Fall Mansion - Part 1 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-11-26 — S1E6: Checkin’ Out The Competition — speakers: Content Warning, Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound
-- 2020-11-19 — S1E5: Scavenger Hunt of Merit - Part 2 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-11-12 — S1E4: Scavenger Hunt of Merit - Part 1 — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-11-05 — S1E3: Standing At The Trial Threshold — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-11-05 — S1E2: Assault On The Carriage — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-11-05 — S1E1: Wildwell Trials Application — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-10-29 — S1E0: Welcome to Tabletop Tiddies! (Meet the Party) — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
-- 2020-10-01 — Tabletop Tiddies - Season One Promo — speakers: Charlene Bayer Executive, Charlene Bayer, Amanda Lourenço, Emily Matchette, Sara Mayfield, Rachel Theilade, Emily Matchette Sound, Kelly Wright Logo Design
+- 2024-09-15 — S4E20: Finale Part 1/3 | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Finale
+- 2024-09-01 — S4E18: Hospital to the Grave | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Hospital, Ascher Læknirs
+- 2024-08-25 — S4E17: The Past Exhumed | Forgotten Guardians — speakers: Forgotten Guardians
+- 2024-08-25 — S4E16: Walking in MFing Footsteps | Forgotten Guardians — speakers: Forgotten Guardians, Forgotten Guardians Walking
+- 2024-08-18 — Chapter 2, Pt. 4: Back To Reality | Tiddies By Night - Season 3
+- 2024-08-18 — S4E15: Return to Fearfort | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Forgotten Guardians Return
+- 2024-07-01 — Ep14: Reunited and it Feels so Good | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians, Charlene Bay
+- 2024-07-01 — Chapter 2, Pt. 3: Back To Reality | Tiddies By Night - Season 3 — speakers: Kelly Wright Executive
+- 2024-05-25 — Ep13: Reunited and it Feels so Good | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians
+- 2024-05-25 — Chapter 2, Pt. 2: Back To Reality | Tiddies By Night - Season 3 — speakers: Kelly Wright Executive
+- 2024-05-25 — Ep12: Welcome to Mushroom City | Forgotten Guardians | Tabletop Tiddies — speakers: Forgotten Guardians
+- 2023-11-19 — Ep11: Into the Feywilds | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-11-04 — Ch 2, Pt. 1: Back To Reality | TBN - Season 3
+- 2023-11-04 — Ep10: Mending Ties | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-10-21 — The Hunting Ground | Halloween Charity Weekend — speakers: Halloween Charity Weekend Join, Salal Sexual Violence Support
+- 2023-10-21 — D&D Level 20 Charity One-Shot | Halloween Charity Weekend — speakers: Charity One, Halloween Charity Weekend Join, Salal Sexual Violence Support
+- 2023-10-07 — Ep9: Wildwell… We Have A Problem | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-09-23 — Ch 1, Pt. 7: All Washed Up | TBN - Season 3 — speakers: All Washed Up
+- 2023-09-09 — Ch 1, Pt. 6: All Washed Up - with Margaret Krohn | TBN - Season 3 — speakers: Margaret Krohn
+- 2023-09-09 — Ep8: Battle At Redmont | Forgotten Guardians — speakers: Forgotten Guardians, Content Warnings
+- 2023-08-27 — Ep7: Who Are You? | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-06-24 — Ep6: Noxx’s Patron | Forgotten Guardians — speakers: Noxx’s Patron, Forgotten Guardians
+- 2023-06-24 — Ch 1, Pt. 5: All Washed Up - with Margaret Krohn | TBN - Season 3 — speakers: Margaret Krohn
+- 2023-06-10 — Ch 1, Pt. 4: All Washed Up | TBN - Season 3 — speakers: Margaret Krohn
+- 2023-06-10 — Ep5: Battle of the Undead Trolls | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-06-03 — Ch 1, Pt. 3: All Washed Up | TBN - Season 3
+- 2023-06-03 — Ep4: Coldrock Hollow | Forgotten Guardians — speakers: Forgotten Guardians, Coldrock Hollow
+- 2023-06-01 — Ch 1, Pt. 2: All Washed Up | TBN - Season 3 — speakers: All Washed Up
+- 2023-06-01 — Ep3: Battle In The Decrepit Woods | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-04-29 — Ch 1, Pt. 1: All Washed Up | TBN - Season 3
+- 2023-04-29 — Ep2: Following A Lead | Forgotten Guardians — speakers: Forgotten Guardians
+- 2023-04-15 — Ep1: Following A Lead | Forgotten Guardians — speakers: Forgotten Guardians
+- 2021-12-24 — Holiday One Shot: Oops All Santas! — speakers: Holiday One Shot, Oops All Santas
+- 2021-12-10 — S2: Season Two Q&A Wrap Up! — speakers: Season Two, Wrap Up
+- 2021-12-03 — ITR S2E23: Fun House Finale Part 2
+- 2021-11-26 — ITR S2E22: Fun House Finale Part 1 - with B.Dave Walters
+- 2021-11-19 — ITR S2E21: Arachne’s Coven - with Jeremy Cobb — speakers: Arachne’s Coven, Jeremy Cobb Borba, Jeremy Cobb
+- 2021-11-13 — TBN S1E22: Epilogue — speakers: Season One
+- 2021-11-12 — ITR S2E20: Big Top’s Entr’acte
+- 2021-11-06 — TBN S1E21: Set In Stone - Part 3 - with Halie Thibodeau
+- 2021-11-05 — Tiddies Go To Oz - with Haley Whipjack — speakers: Haley Whipjack
+- 2021-10-30 — TBN S1E20: Set In Stone - Part 2 - with Halie Thibodeau
+- 2021-10-29 — ITR S2E19: House Of Wax - with Podgie
+- 2021-10-23 — TBN S1E19: Set In Stone - Part 1 - with Halie Thibodeau — speakers: Halie Thibodeau Evelyn
+- 2021-10-22 — ITR S2E18: Rise Of The Blood Moon
+- 2021-10-18 — Tiddies Play D&Dune — speakers: Frank Herbert’s Dune
+- 2021-10-16 — TBN S1E18: Many Roads Converging - Part 5 — speakers: Sara Mayfield
+- 2021-10-15 — ITR S2E17: The Naughty Corner
+- 2021-10-09 — TBN S1E17: Many Roads Converging - Part 4 — speakers: Shayne Eastin
+- 2021-10-08 — ITR S2E16: The Last Normal Day
+- 2021-10-02 — TBN S1E16: Many Roads Converging - Part 3 — speakers: Many Roads Converging
+- 2021-10-01 — ITR S2E15: The Tunnel Of Love - Part 2 - with Aki Benson — speakers: Aki Benson
+- 2021-09-25 — TBN S1E15: Many Roads Converging - Part 2
+- 2021-09-24 — ITR S2E14: The Tunnel Of Love - Part 1
+- 2021-09-18 — TBN S1E14: Many Roads Converging - Part 1
+- 2021-09-17 — ITR S2E13: The Mystery Of Marge’s Meatery - with Emily Floyd — speakers: Emily Floyd Marge’s Favourites
+- 2021-09-11 — TBN S1E13: La Foire De Nuit - Part 3 - With Dare
+- 2021-09-10 — ITR S2E12: A Sticky Situation
+- 2021-09-04 — TBN S1E12: La Foire De Nuit - Part 2 - With Dare
+- 2021-09-03 — ITR S2E11: What’s The Catch? - with Robin from Dork Tales
+- 2021-08-28 — TBN S1E11: La Foire De Nuit - Part 1 - With Dare
+- 2021-08-27 — S2E10: Swoleston, Snacks, and The Stick - with Robin from Dork Tales
+- 2021-08-07 — TBN S1E10: Sniff Out A Rat - Part 3 - with Sara Mayfield — speakers: Sara Mayfield
+- 2021-08-06 — ITR S2E9: Dragon In The Dismaydium! — speakers: Will Ascher
+- 2021-08-02 — SORRY A Nation Wide Canadian D&D Adventure Ep5: The Ice Cavern of Enna — speakers: Nation Wide Canadian, Enna Join
+- 2021-07-31 — TBN S1E9: Sniff Out A Rat - Part 2 - with Sara Mayfield — speakers: Sara Mayfield
+- 2021-07-30 — ITR S2E8: Let’s Rumble!
+- 2021-07-24 — TBN S1E8: Sniff Out A Rat - Part 1 - with Sara Mayfield — speakers: Sara Mayfield
+- 2021-07-23 — ITR S2E7: Something’s Wrong With Pinky — speakers: Wilmer’s increasingly problematic nose
+- 2021-07-21 — SORRY: A Nation Wide Canadian D&D Adventure - Promo — speakers: Nation Wide Canadian
+- 2021-07-18 — TBN S1E7: Find Your Light - Part 4 - with Little Red Dot
+- 2021-07-16 — ITR S2E6: Tickets, Prizes, & Candy - Oh My! — speakers: Oh My
+- 2021-07-10 — TBN S1E6: Find Your Light - Part 3
+- 2021-07-09 — ITR S2E5: Midway Bonanza! — speakers: Midway Bonanza
+- 2021-06-25 — ITR S2E4: Fight, Flight, or Freeze?
+- 2021-06-19 — TBN S1E5: Find Your Light - Part 2 - with Little Red Dot
+- 2021-06-18 — ITR S2E3: A Sweet And Sour Entrance
+- 2021-06-12 — TBN S1E4: Find Your Light - Part 1
+- 2021-06-11 — ITR S2E2: A Magical Boat Ride — speakers: Magical Boat Ride After
+- 2021-06-05 — TBN S1E3: The Case Of The Haunted Widow - Part 3
+- 2021-06-05 — TBN S1E2: The Case Of The Haunted Widow - Part 2 — speakers: Henrietta Carby
+- 2021-06-05 — TBN S1E1: The Case Of The Haunted Widow - Part 1
+- 2021-06-04 — ITR S2E1: An Unlikely Friend
+- 2021-05-29 — TBN S1E0: Embraced — speakers: Octavia Smith
+- 2021-05-15 — Bonus Episode: Streaming For Survivors 2021 — speakers: Tabletop Tiddies, Rape Crisis Centre
+- 2021-05-10 — S2: "Tiddies By Night" Trailer
+- 2021-05-03 — S2: "Into The Revelia" Trailer — speakers: Join Dungeon Master Cha
+- 2021-04-26 — Tabletop Tiddies - Season Two Promo — speakers: Tabletop Tiddies, Season Two Promo Run
+- 2021-04-08 — S1E21: Season One Q&A — speakers: Season One, Tabletop Tiddies Season One
+- 2021-04-01 — S1E20: The Finale - With B.Dave Walters and Noura Ibrahim — speakers: Noura Ibrahim
+- 2021-03-25 — S1E19: The Blood Bath - With B.Dave Walters
+- 2021-03-18 — S1E18: Resistance!
+- 2021-03-11 — S1E17: The Great Race - with Halie Thibodeau — speakers: Siaphora Miandis
+- 2021-03-04 — Bonus Episode: Lost In The Revelia
+- 2021-02-25 — S1E16: Royal Bonding Time - with Halie Thibodeau — speakers: gathering intel
+- 2021-02-11 — S1E15: Creature Of The Dark
+- 2021-02-04 — S1E14: Finding The Office - with Noura Ibrahim — speakers: Noura Ibrahim Joined, Noura Ibrahim
+- 2021-01-28 — S1E13: The Lost Fey In The Wilds - Part 2 - with Josephine McAdam — speakers: Josephine McAdam
+- 2021-01-21 — S1E12: The Lost Fey In The Wilds - Part 1
+- 2021-01-14 — S1E11: FOOOOD FIIIIIGHT!!!
+- 2021-01-07 — S1E10: Sneaky Sleuthing & Skilling — speakers: Sneaky Sleuthing, Skilling Back
+- 2020-12-17 — S1E9: The Haunting of Fall Mansion - Part 3 — speakers: Fall Mansion
+- 2020-12-10 — S1E8: The Haunting of Fall Mansion - Part 2
+- 2020-12-03 — S1E7: The Haunting of Fall Mansion - Part 1
+- 2020-11-26 — S1E6: Checkin’ Out The Competition
+- 2020-11-19 — S1E5: Scavenger Hunt of Merit - Part 2 — speakers: Scavenger Hunt
+- 2020-11-12 — S1E4: Scavenger Hunt of Merit - Part 1 — speakers: completing th
+- 2020-11-05 — S1E3: Standing At The Trial Threshold
+- 2020-11-05 — S1E2: Assault On The Carriage — speakers: Wildwell Trials
+- 2020-11-05 — S1E1: Wildwell Trials Application
+- 2020-10-29 — S1E0: Welcome to Tabletop Tiddies! (Meet the Party)
+- 2020-10-01 — Tabletop Tiddies - Season One Promo — speakers: Tabletop Tiddies, Season One Promo Tabletop, Actual Play
