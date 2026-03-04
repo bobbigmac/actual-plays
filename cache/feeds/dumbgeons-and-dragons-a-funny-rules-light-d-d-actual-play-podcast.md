@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-02-26T03:13:52+00:00`
-- checked_at: `2026-02-26T03:13:52+00:00`
-- last_modified: `Thu, 26 Feb 2026 01:00:02 GMT`
+- fetched_at: `2026-03-04T09:59:29+00:00`
+- checked_at: `2026-03-04T09:59:29+00:00`
+- last_modified: `Wed, 04 Mar 2026 08:00:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-02-26T03:13:52+00:00",
+  "fetched_at": "2026-03-04T09:59:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

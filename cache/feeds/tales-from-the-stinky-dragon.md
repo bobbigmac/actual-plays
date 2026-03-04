@@ -2,9 +2,9 @@
 
 - slug: `tales-from-the-stinky-dragon`
 - source: `https://feeds.megaphone.fm/stinkydragon`
-- fetched_at: `2026-02-27T07:14:45+00:00`
-- checked_at: `2026-02-27T07:14:45+00:00`
-- last_modified: `Fri, 27 Feb 2026 05:43:31 GMT`
+- fetched_at: `2026-03-04T09:59:29+00:00`
+- checked_at: `2026-03-04T09:59:29+00:00`
+- last_modified: `Wed, 04 Mar 2026 08:00:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://patreon.com/stinkydragon",
   "description": "Tales from the Stinky Dragon is an actual-play D&D comedy podcast that features four foolish friends and their (very patient) dungeon master. Join along for an auditory adventure with a fully-voiced cast of characters, immersive sound design, a catchy soundtrack, and gripping stories of exotic lands and strange creatures. Tales From The Stinky Dragon is a fun and easy award-winning podcast for all ages, and is the perfect experience for both seasoned D&D players and those just getting into the genre.",
   "image_url": "https://megaphone.imgix.net/podcasts/aea7fa88-9ec7-11eb-ac98-035d697b0c6b/image/5548f242d94662eec70ad325f3e92631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-27T07:14:45+00:00",
+  "fetched_at": "2026-03-04T09:59:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "cde07ff681625a82fa152d4c80900ae3f8f072c1",
+      "title": "C03 - Ep. 38 - From On Hyra - This Means Warden!",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "link": null,
+      "description": "Brutaliteam narrows down their search for Bunlap while facing down their greatest obstacle - the Warden. Support us directly on Patreon https://www.patreon.com/stinkydragon - get access to ad-free episodes, bonus content like Stinky Dragon Adventures & Second Wind, our patreon-exclusive discord, and more! Check out our new merch at store.stinkydragonpod.com ! Follow us on our socials at https://linktr.ee/TalesFromTheStinkyDragon Cast: Gus Sorola, Blaine Gibson, Barbara Dunkelman, Jon Risinger, Chris Demarais Writer/Editor/Composer: Micah Risinger Producer: Benjamin Ernst Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4ba71b76-dadb-11f0-a213-4b462146ed97/image/5940ff546dcc4bc87ae401ee16a3e0a2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/tracking.swap.fm/track/6bpBPtHL977KJxLX2zPs/pscrb.fm/rss/p/traffic.megaphone.fm/GLSS1152865886.mp3?updated=1772171311",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5887",
+      "speakers": [],
+      "topics": [
+        "hyra",
+        "means",
+        "warden"
+      ]
+    },
     {
       "key": "5fb9801901ca814700245710d8d27fbb75ef1b75",
       "title": "C03 - Ep. 37 - From On Hyra - Prison Break-In",
@@ -4152,6 +4170,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — C03 - Ep. 38 - From On Hyra - This Means Warden!
 - 2026-02-18 — C03 - Ep. 37 - From On Hyra - Prison Break-In
 - 2026-02-11 — [Tavern Tales] Infinights Interns and the Rules of Chaos — speakers: Tavern Tales, Infinights Interns, Chaos When, Infinight Interns
 - 2026-02-04 — C03 - Ep. 36 - From On Hyra - No Guard Feelings — speakers: No Guard Feelings Brutaleam

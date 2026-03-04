@@ -2,9 +2,9 @@
 
 - slug: `roll-britannia-a-british-dungeons-dragons-5e-podcast`
 - source: `https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9`
-- fetched_at: `2026-03-04T07:07:58+00:00`
-- checked_at: `2026-03-04T07:07:58+00:00`
-- etag: `"djEuMi4wOjE3NzI2MDU2MTg3NzE="`
+- fetched_at: `2026-03-04T09:59:29+00:00`
+- checked_at: `2026-03-04T09:59:29+00:00`
+- etag: `"djEuMi4wOjE3NzI2MTE4MzkzOTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollbritannia.co.uk/",
   "description": "A British DnD 5e comedy podcast from 6 Brits, with little to no experience in dungeons or dragons. Join James (the DM), Tom (Keth Frostiron), Chip (Jeff Silverbow), Paul (Malrus Tosscoble), and Alex (Derek Normalbeard) on their pirate adventure, as...",
   "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
-  "fetched_at": "2026-03-04T07:07:58+00:00",
+  "fetched_at": "2026-03-04T09:59:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,40 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "caa1005382506d5b4cc236035a4e88668823ac9e",
+      "title": "Ep. 319: Because, That's What Heroes Do - Chapter 16 - pt.2 | #DND",
+      "published_at": "2026-03-04T08:10:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week's episode of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ pirate adventure, the Bucs stand in the aftershock of something impossible. Light tears upward, shadows fracture, and the Dice fall in a silence that feels heavier than any spell. What was broken is no longer broken, yet nothing is the same. In the ashes, eight small objects sit untouched, as if waiting for someone brave or foolish enough to decide their fate. Was this victory… or merely interruption? What wakes when gods are unbound? And if magic no longer answers the same way, who does? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keth⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Milo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Derek⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jeff⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), and Sophie ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠River⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), led by James ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠the Dungeon Master⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69a53201c9e62804ccd5f7ae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69794266",
+      "itunes_duration": "48:04",
+      "speakers": [],
+      "topics": [
+        "heroes",
+        "chapter"
+      ]
+    },
+    {
+      "key": "4516ff5938f70ed0eb86fafef96ad0e17e66bb90",
+      "title": "Ep. 319: Because, That's What Heroes Do - Chapter 16 - pt.1 | #DND",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "link": "https://www.rollbritannia.co.uk/",
+      "description": "In this week's episode of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dungeons & Dragons⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ pirate adventure, the Bucs stand in the aftershock of something impossible. Light tears upward, shadows fracture, and the Dice fall in a silence that feels heavier than any spell. What was broken is no longer broken, yet nothing is the same. In the ashes, eight small objects sit untouched, as if waiting for someone brave or foolish enough to decide their fate. Was this victory… or merely interruption? What wakes when gods are unbound? And if magic no longer answers the same way, who does? There's only one way to find out, grab your Dnd Dice, join Tom ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keth⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Paul ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Milo⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Alex ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Derek⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), Chip ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jeff⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), and Sophie ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠River⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ), led by James ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠the Dungeon Master⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ) and Roll Britannia. LIVE Events https://www.rollbritannia.co.uk/live | Patreon ⁠⁠⁠⁠⁠⁠⁠⁠⁠http://www.patreon.com/rollbritannia⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Feedspot https://podcast.feedspot.com/dnd_podcasts/ | Sound & music by Syrinscape: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://syrinscape.com/attributions/?id=142440 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ | Roll Britannia is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast ©Wizards of the Coast LLC. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68b7ebdab4b4b9b3d2c1a6d9/1759143365291-108eb10a-a959-46b8-804d-998001513db8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68b7ebdab4b4b9b3d2c1a6d9/e/69a5320316315a936f145791/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71579612",
+      "itunes_duration": "49:18",
+      "speakers": [],
+      "topics": [
+        "heroes",
+        "chapter"
+      ]
+    },
     {
       "key": "4a01205c30706291d4a4ad36c92e45c752caf21f",
       "title": "Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.2 | #DND",
@@ -7380,6 +7414,8 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Ep. 319: Because, That's What Heroes Do - Chapter 16 - pt.2 | #DND
+- 2026-03-04 — Ep. 319: Because, That's What Heroes Do - Chapter 16 - pt.1 | #DND
 - 2026-02-25 — Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.2 | #DND
 - 2026-02-25 — Ep. 318: Because, That's What Heroes Do - Chapter 15 - pt.1 | #DND
 - 2026-02-22 — Roll Britannia | Parley - Duncan Rhodes - The Creative Game Master’s Guide to Extraordinary Locations
