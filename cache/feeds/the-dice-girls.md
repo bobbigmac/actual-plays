@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"5548e1812954c750eebb80bed3ee399f"`
+- fetched_at: `2026-03-04T03:07:57+00:00`
+- checked_at: `2026-03-04T03:07:57+00:00`
+- etag: `"ed46d524c3df4ff1a65122a2c2cee5c6"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-04T03:07:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c2eaf7e1898af63b35f385bd49422a45d9ec744c",
+      "title": "22. All Roads Lead to Schnicktick",
+      "published_at": "2026-03-03T23:45:10+00:00",
+      "link": "https://thedicegirls.podbean.com/e/22-all-roads-lead-to-schnicktick/",
+      "description": "Our adventurers set off down a new path, with an old friend!",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/2t4wha45akmeiqcq/Episode_22_Finalasrql.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59654745",
+      "itunes_duration": "2485",
+      "speakers": [],
+      "topics": [
+        "road",
+        "schnicktick"
+      ]
+    },
     {
       "key": "338a52083ff40b1ff0d7499926f2095781536cb9",
       "title": "21. The Grand Quest",
@@ -372,7 +389,7 @@
       "itunes_duration": "2836",
       "speakers": [
         "Tavern Join Ash",
-        "More Dragons"
+        "Now Wit"
       ],
       "topics": [
         "meow",
@@ -446,9 +463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100331672",
       "itunes_duration": "4180",
-      "speakers": [
-        "Corn Sweat"
-      ],
+      "speakers": [],
       "topics": [
         "dice",
         "girls",
@@ -712,7 +727,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63303342",
       "itunes_duration": "2637",
-      "speakers": [],
+      "speakers": [
+        "Table Talk"
+      ],
       "topics": [
         "dice",
         "girls",
@@ -970,9 +987,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59445939",
       "itunes_duration": "2476",
-      "speakers": [
-        "Letty helps Watson"
-      ],
+      "speakers": [],
       "topics": [
         "quest",
         "truth",
@@ -991,7 +1006,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54068912",
       "itunes_duration": "2252",
-      "speakers": [],
+      "speakers": [
+        "Letty sp"
+      ],
       "topics": [
         "quest",
         "sermon",
@@ -1029,7 +1046,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56004280",
       "itunes_duration": "2333",
-      "speakers": [],
+      "speakers": [
+        "Celestial Event"
+      ],
       "topics": [
         "quest",
         "event",
@@ -1253,9 +1272,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45024531",
       "itunes_duration": "1875",
-      "speakers": [
-        "Horse Mutiny"
-      ],
+      "speakers": [],
       "topics": [
         "football",
         "play",
@@ -1474,7 +1491,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52884049",
       "itunes_duration": "2203",
-      "speakers": [],
+      "speakers": [
+        "Horse Problem",
+        "Solving Mode"
+      ],
       "topics": [
         "horse",
         "temples",
@@ -2005,9 +2025,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30017821",
       "itunes_duration": "2266",
-      "speakers": [
-        "Harry Potter"
-      ],
+      "speakers": [],
       "topics": [
         "sneezes",
         "shimmer"
@@ -2024,7 +2042,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29525976",
       "itunes_duration": "2170",
-      "speakers": [],
+      "speakers": [
+        "Dream Plane"
+      ],
       "topics": [
         "apples",
         "acceleration"
@@ -2041,7 +2061,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32361465",
       "itunes_duration": "2443",
-      "speakers": [],
+      "speakers": [
+        "Dream Plane"
+      ],
       "topics": [
         "dream",
         "planes",
@@ -2149,7 +2171,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29676872",
       "itunes_duration": "2476",
-      "speakers": [],
+      "speakers": [
+        "Squishy Tentacles Birthday Bash",
+        "Triggus Garganath"
+      ],
       "topics": [
         "triggus",
         "squishy",
@@ -2171,7 +2196,7 @@
       "itunes_duration": "2477",
       "speakers": [
         "Squishy Tentacles Birthday Bash",
-        "Squishy Tentacles Birthday Party"
+        "Squishy Ten"
       ],
       "topics": [
         "triggus",
@@ -2554,7 +2579,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29807426",
       "itunes_duration": "2295",
-      "speakers": [],
+      "speakers": [
+        "Final Dot"
+      ],
       "topics": [
         "near",
         "misses",
@@ -3089,7 +3116,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35523607",
       "itunes_duration": "2713",
-      "speakers": [],
+      "speakers": [
+        "Bad Things Come"
+      ],
       "topics": [
         "thing",
         "three"
@@ -3106,7 +3135,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45433718",
       "itunes_duration": "3666",
-      "speakers": [],
+      "speakers": [
+        "Karmea Caverns"
+      ],
       "topics": [
         "road"
       ]
@@ -3170,6 +3201,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-03 — 22. All Roads Lead to Schnicktick
 - 2026-02-05 — 21. The Grand Quest
 - 2026-01-22 — 20. Survey Says...
 - 2026-01-07 — 19. The Great Agondray Quiche-Off
@@ -3190,11 +3222,11 @@
 - 2025-04-12 — 4. My Boss the Teenage Satyr — speakers: My Boss, Trading Post
 - 2025-03-26 — 3. Meeting the Locals
 - 2025-03-11 — 2. Freestyle Rat Battle
-- 2025-02-25 — 1. The Meow Heard 'Round the Tavern — speakers: Tavern Join Ash, More Dragons
+- 2025-02-25 — 1. The Meow Heard 'Round the Tavern — speakers: Tavern Join Ash, Now Wit
 - 2025-02-11 — The Dice Girls Table Talk: Episode 15
 - 2025-01-28 — The Dice Girls Table Talk: Episode 14
 - 2024-09-30 — ANNOUNCEMENT - Holiday break!
-- 2024-09-18 — The Dice Girls Table Talk - Episode 13 — speakers: Corn Sweat
+- 2024-09-18 — The Dice Girls Table Talk - Episode 13
 - 2024-09-03 — The Dice Girls Table Talk - Episode 12
 - 2024-08-22 — The Dice Girls Table Talk - Episode 11
 - 2024-08-09 — The Dice Girls Table Talk - Ep 10
@@ -3208,7 +3240,7 @@
 - 2024-04-09 — The Dice Girls - Table Talk Ep 4
 - 2024-03-26 — The Dice Girls - Table Talk Ep 3
 - 2024-03-12 — The Dice Girls - Table Talk Ep 2
-- 2024-02-27 — The Dice Girls - Table Talk Ep 1
+- 2024-02-27 — The Dice Girls - Table Talk Ep 1 — speakers: Table Talk
 - 2024-02-13 — Quest Ep 21- Skyerball Showdown
 - 2024-01-29 — Quest Ep 20 - The Beginning of the End
 - 2023-10-30 — Quest Ep 19 - More Questions than Answers
@@ -3222,10 +3254,10 @@
 - 2023-07-10 — Quest Ep 11 - Hitting the Trail. And a tree. And a Rock.
 - 2023-06-26 — Quest Ep 10 - Dream Ghosts and Blacksmith Hams — speakers: Blacksmith Hams
 - 2023-06-12 — Quest Ep 9 - Inn with a Tree and the Dangers Three
-- 2023-05-29 — Quest Ep 8 - The REAL Truth About Baby Lasers — speakers: Letty helps Watson
-- 2023-05-15 — QUEST Ep 7 - The First Sermon of the Carrot God
+- 2023-05-29 — Quest Ep 8 - The REAL Truth About Baby Lasers
+- 2023-05-15 — QUEST Ep 7 - The First Sermon of the Carrot God — speakers: Letty sp
 - 2023-05-01 — Quest Ep 6: The Murder Rabbit’s Excel Spreadsheet
-- 2023-04-10 — Quest Ep 5 - Celestial Event: Skyerball
+- 2023-04-10 — Quest Ep 5 - Celestial Event: Skyerball — speakers: Celestial Event
 - 2023-03-27 — Quest Ep 4 - Suspicious Stories of Six-Toed Strangers — speakers: Suspicious Stories
 - 2023-03-13 — Quest Ep 3 - Stand-up Starter Kit — speakers: Starter Kit
 - 2023-02-27 — QUEST Ep 2 - For the Love of Lasers
@@ -3237,7 +3269,7 @@
 - 2022-11-28 — 110. On the Multitude of Everyone...and Mike
 - 2022-11-14 — 109. On Splitting the Party and Soul Hugs — speakers: Soul Hugs
 - 2022-10-17 — 108. On Preparing for Battle and the Power of Friendship
-- 2022-10-03 — 107. On Football Plays and Final Blows — speakers: Horse Mutiny
+- 2022-10-03 — 107. On Football Plays and Final Blows
 - 2022-09-19 — 106. On Ghostly Battles and Getting Older
 - 2022-09-06 — 105. On Floating Heads and Fantasy Del Taco — speakers: Floating Heads, Fantasy Del Taco
 - 2022-08-22 — 104. On Growth Spurts and Garden Solutions
@@ -3249,7 +3281,7 @@
 - 2022-05-30 — 98. On Fun and Funerals
 - 2022-05-17 — 97. On Temple Visits and Tense Meditation
 - 2022-05-02 — 96. On Hector and Heavy Hearts
-- 2022-04-18 — 95. On Horse Temples and Hastily-Built Carts
+- 2022-04-18 — 95. On Horse Temples and Hastily-Built Carts — speakers: Horse Problem, Solving Mode
 - 2022-04-04 — 94. On Packing Up and Panicking
 - 2022-03-21 — 93. On Traveling by Sea and by Sky
 - 2022-03-08 — 92. On Surprise Horses and Southern Sunsets
@@ -3278,16 +3310,16 @@
 - 2020-10-05 — 69. On First Rounds and Flinging Stuff
 - 2020-09-22 — 68. On Burlap Sacks and Big Ol' Monsters
 - 2020-09-08 — 67. On Kalashtar Mystics and Kentucky Fried Demon
-- 2020-08-18 — 66. On Sneezes and Shimmers — speakers: Harry Potter
-- 2020-08-04 — 65. On Apples and Acceleration
-- 2020-07-21 — 64. On Dream Planes and Directions
+- 2020-08-18 — 66. On Sneezes and Shimmers
+- 2020-08-04 — 65. On Apples and Acceleration — speakers: Dream Plane
+- 2020-07-21 — 64. On Dream Planes and Directions — speakers: Dream Plane
 - 2020-07-07 — 63. On Solving Mysteries and Sleep Plans
 - 2020-06-23 — 62. On Forest Fights and First-ish Introductions
 - 2020-05-26 — 61. The Clips Episode - Part 3
 - 2020-05-12 — 60. On Nightmares and Near Companions — speakers: Shadow Demon
 - 2020-04-28 — 59. On Horseback and Headway
-- 2020-03-31 — 58. Triggus's Squishy Tentacles Birthday Bash - Part 2
-- 2020-03-17 — 57. Triggus's Squishy Tentacles Birthday Bash - Part 1 — speakers: Squishy Tentacles Birthday Bash, Squishy Tentacles Birthday Party
+- 2020-03-31 — 58. Triggus's Squishy Tentacles Birthday Bash - Part 2 — speakers: Squishy Tentacles Birthday Bash, Triggus Garganath
+- 2020-03-17 — 57. Triggus's Squishy Tentacles Birthday Bash - Part 1 — speakers: Squishy Tentacles Birthday Bash, Squishy Ten
 - 2020-02-17 — 56. On Hector and Hypotheticals
 - 2020-02-03 — 55. On Mirrors and Memories
 - 2020-01-21 — 54. On Cages, Crayons, and Comforting Voices
@@ -3309,7 +3341,7 @@
 - 2019-07-22 — 38. On Burning Queries and Bonbons
 - 2019-07-15 — 37. On Discussions and Daddy Issues
 - 2019-07-08 — 36. On Third Eyes and Tree Trunks
-- 2019-07-01 — 35. On Near Misses and New Homes
+- 2019-07-01 — 35. On Near Misses and New Homes — speakers: Final Dot
 - 2019-06-24 — 34. On Rivers and Riddles
 - 2019-06-16 — 33. On Friends Old and New
 - 2019-06-10 — 32. On Booby Traps and Boogers
@@ -3340,8 +3372,8 @@
 - 2018-12-17 — 8. The Love Connection
 - 2018-12-03 — 7. What's in the Box?
 - 2018-11-19 — 6. All the World's a Stage (For Triggus)
-- 2018-11-05 — 5. Bad Things Come in Threes
-- 2018-10-29 — 4. The Road to Everywhere
+- 2018-11-05 — 5. Bad Things Come in Threes — speakers: Bad Things Come
+- 2018-10-29 — 4. The Road to Everywhere — speakers: Karmea Caverns
 - 2018-10-22 — 3. Gathering Intel
 - 2018-10-21 — 2. The Trouble with Flying Snakes
 - 2018-10-21 — 1. Excitement at The Rusty Spoon

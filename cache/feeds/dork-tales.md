@@ -2,9 +2,9 @@
 
 - slug: `dork-tales`
 - source: `https://feed.podbean.com/dorktales/feed.xml`
-- fetched_at: `2026-02-23T19:34:35+00:00`
-- checked_at: `2026-02-23T19:34:35+00:00`
-- etag: `"d60a046206f1aba0c3a48c10aa850716"`
+- fetched_at: `2026-03-04T03:07:57+00:00`
+- checked_at: `2026-03-04T03:07:57+00:00`
+- etag: `"9ec555fc1323051127898383474364cc"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://dorktales.podbean.com",
   "description": "A group of roleplayers in the Pacific Northwest dedicated to good stories, good friends, and good times. Welcome to the party.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/5111002/Dork_Tales_d20_20238mnn1.png",
-  "fetched_at": "2026-02-23T19:34:35+00:00",
+  "fetched_at": "2026-03-04T03:07:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "fiction"
   ],
   "episodes": [
+    {
+      "key": "80d7f8973d3fc16b1f10692484e3ef25a54b8c13",
+      "title": "Vecna: Eve of Ruin | Episode 26: Tomb of Wayward Souls",
+      "published_at": "2026-03-03T22:15:48+00:00",
+      "link": "https://dorktales.podbean.com/e/vecna-eve-of-ruin-episode-26-tomb-of-wayward-souls/",
+      "description": "Vecna is here and only one party can stop him. Join us for Vecna: Eve of Ruin! In this episode, the party travels to Oerth and meets a new ally. Thank you to Bookwyrm Games for sponsoring the channel! Visit them at https://bookwyrmgames.com/ and use code DORKTALES to save 15% off your order! === Kelly Clark as Dungeon Master Cast Christine Rattray as Rosie Thistledrop Robin Holford as Lir'wen Chris Blogg as Gaunt Jen Peters as Imogen and Kal Vincent as Aurontiros Watch us LIVE on Twitch ► https://twitch.tv/dorktales Visit our website ► https://dorktales.ca Our Linktree ► https://linktr.ee/dorktales Join our Discord ► https://discord.gg/zVtE9Ab Follow our Twitter ► https://twitter.com/dork_tales/ Follow our Instagram ► https://instagram.com/dorktaleschannel/ Find us on Facebook ► https://www.facebook.com/dorktaleschannel/ Listen to our Podcast ► https://dorktales.podbean.com Support the show on Patreon ► https://www.patreon.com/dorktales/ Buy the cast a coffee ► https://ko-fi.com/dorktales Buy official Dork Tales Merch ► https://teepublic.com/user/dorktales ► https://dorktalesstore.redbubble.com! So smash the bell, share these videos, and we'll see you soon at our next game! === Music credits: Music: House of Secrets by Joel Steudler https://www.joelsteudlermusic.com/ Licensed under a Humblebundle Collection Also from Joel Steudler: No Mountain High Black Gate Fight or Flight Tracks from Monument Studios Elven Secrets B Cryptic Choir Textured Necrotic Strings Licensed under a Fantasy Complete or All-In-One License https://www.monumentstudios.net Tracks licensed from Dark Fantasy Studio From Ashes http://www.darkfantasystudio.com This video also uses licensed audio from the Humble Music & Sound Effects For Games, Films, and Content Creators Bundle Part 2. Including our closing theme: The Harrowing Thunderhead Adventurama Monster Slayer This video using the following licensed tracks from Game Dev Market, Audiohero, and Ovani: Ominous",
+      "image_url": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog5111002/Vecna_Eve_of_Ruin_Podcast_Logo7mops.png",
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/pkw32ivzwyweqnhm/VecnaE26complete.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124809159",
+      "itunes_duration": "7797",
+      "speakers": [
+        "Wayward Souls Vecna"
+      ],
+      "topics": [
+        "vecna",
+        "ruin",
+        "tomb",
+        "wayward",
+        "soul"
+      ]
+    },
     {
       "key": "c61be81bb46fcbac905765046f310d1aadd3c108",
       "title": "Vecna: Eve of Ruin | Episode 25: Master of Past and Present",
@@ -38,14 +60,7 @@
       "enclosure_length": "147662534",
       "itunes_duration": "9165",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Kal Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Present Vecna"
       ],
       "topics": [
         "vecna",
@@ -65,16 +80,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104370117",
       "itunes_duration": "6520",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Kal Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -93,14 +99,7 @@
       "enclosure_length": "193431287",
       "itunes_duration": "8057",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Kal Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Fens Vecna"
       ],
       "topics": [
         "vecna",
@@ -121,12 +120,9 @@
       "enclosure_length": "104894156",
       "itunes_duration": "6553",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Red"
+        "Zero Sum",
+        "Consensus Protocol Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -148,14 +144,7 @@
       "enclosure_length": "160009969",
       "itunes_duration": "9997",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Kal Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Kenders Vecna"
       ],
       "topics": [
         "vecna",
@@ -175,14 +164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187086106",
       "itunes_duration": "13360",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Room Ulterior"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -201,14 +183,7 @@
       "enclosure_length": "136925706",
       "itunes_duration": "8553",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Amy Godfrey",
-        "Luella von Zarovich Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Death House Vecna"
       ],
       "topics": [
         "vecna",
@@ -230,12 +205,9 @@
       "enclosure_length": "179021466",
       "itunes_duration": "11185",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Ambience Dying"
+        "Zero Sum",
+        "Hollow Men Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -255,14 +227,7 @@
       "enclosure_length": "110425705",
       "itunes_duration": "6899",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Amy Godfrey",
-        "Luella von Zarovich Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Shrine Vecna"
       ],
       "topics": [
         "vecna",
@@ -282,16 +247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114389362",
       "itunes_duration": "7146",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Amy Godfrey",
-        "Luella von Zarovich Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -311,14 +267,7 @@
       "enclosure_length": "151997583",
       "itunes_duration": "9497",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Amy Godfrey",
-        "Luella von Zarovich Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Death House Vecna"
       ],
       "topics": [
         "vecna",
@@ -338,14 +287,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166682508",
       "itunes_duration": "11902",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Run Red"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -364,14 +306,7 @@
       "enclosure_length": "112796129",
       "itunes_duration": "7046",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Amy Godfrey",
-        "Luella von Zarovich Watch",
-        "Dork Tales Merch",
-        "Joel Steudler"
+        "Unwelcome Party Vecna"
       ],
       "topics": [
         "vecna",
@@ -391,16 +326,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "202991404",
       "itunes_duration": "8457",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Caitlan Vinkle",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Sequence Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -420,12 +346,9 @@
       "enclosure_length": "168594420",
       "itunes_duration": "10535",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Run Red"
+        "Zero Sum",
+        "Tinfoil Hats Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -445,14 +368,7 @@
       "enclosure_length": "168594669",
       "itunes_duration": "10532",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Caitlan Vinkle",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Tim Kulig"
+        "Throat Vecna"
       ],
       "topics": [
         "vecna",
@@ -472,16 +388,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163215898",
       "itunes_duration": "10200",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Caitlan Vinkle",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Tim Kulig"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -501,13 +408,9 @@
       "enclosure_length": "175976556",
       "itunes_duration": "12566",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Zone Escape",
-        "Orchestra Hybrid Ambience Waiting"
+        "Zero Sum",
+        "Wyrm Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -528,14 +431,7 @@
       "enclosure_length": "129079181",
       "itunes_duration": "5377",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Caitlan Vinkle",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Tim Kulig"
+        "Dispute Vecna"
       ],
       "topics": [
         "vecna",
@@ -555,14 +451,7 @@
       "enclosure_length": "144753183",
       "itunes_duration": "9040",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Caitlan Vinkle",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Guitar Licensed"
+        "Mount Ironrot Vecna"
       ],
       "topics": [
         "vecna",
@@ -583,14 +472,7 @@
       "enclosure_length": "178474741",
       "itunes_duration": "12746",
       "speakers": [
-        "Black Box Kibo",
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Zone Escape",
-        "Orchestra Hybrid Ambience"
+        "Black Box Kibo"
       ],
       "topics": [
         "technocracy",
@@ -611,13 +493,7 @@
       "enclosure_length": "132422574",
       "itunes_duration": "8273",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Havock Vecna"
       ],
       "topics": [
         "vecna",
@@ -638,14 +514,7 @@
       "enclosure_length": "144562703",
       "itunes_duration": "9029",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Npc Licensed",
-        "Fantasy Studio"
+        "Stars Vecna"
       ],
       "topics": [
         "vecna",
@@ -665,14 +534,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "197864758",
       "itunes_duration": "9891",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Zone Escape"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -691,13 +553,7 @@
       "enclosure_length": "118200363",
       "itunes_duration": "7386",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Lambent Zenith Vecna"
       ],
       "topics": [
         "vecna",
@@ -718,13 +574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42777121",
       "itunes_duration": "2673",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -744,14 +594,7 @@
       "enclosure_length": "137967374",
       "itunes_duration": "8621",
       "speakers": [
-        "Death Wish",
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Space Vecna"
       ],
       "topics": [
         "vecna",
@@ -772,13 +615,7 @@
       "enclosure_length": "146678577",
       "itunes_duration": "10475",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Web Vecna"
       ],
       "topics": [
         "vecna",
@@ -798,12 +635,9 @@
       "enclosure_length": "197917018",
       "itunes_duration": "12368",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Dark Zone"
+        "Zero Sum",
+        "Void Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -824,13 +658,8 @@
       "enclosure_length": "154695555",
       "itunes_duration": "9664",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Toward Web",
+        "Edge Vecna"
       ],
       "topics": [
         "vecna",
@@ -850,14 +679,8 @@
       "enclosure_length": "144674148",
       "itunes_duration": "9037",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Joel Steudler"
+        "Transylvania Chronicles",
+        "Proposal Welcome"
       ],
       "topics": [
         "masquerade",
@@ -878,15 +701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "124357377",
       "itunes_duration": "7768",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -905,11 +720,9 @@
       "enclosure_length": "153872444",
       "itunes_duration": "10988",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
+        "Zero Sum",
+        "Algorithm Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -928,15 +741,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "178001278",
       "itunes_duration": "11121",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -955,15 +760,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148365585",
       "itunes_duration": "9268",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -983,14 +780,9 @@
       "enclosure_length": "189998563",
       "itunes_duration": "11857",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Alexander Nakarada",
-        "Frank Schroeter",
-        "Roland JD"
+        "Zero Sum",
+        "Balador Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1011,13 +803,7 @@
       "enclosure_length": "84885930",
       "itunes_duration": "5304",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
+        "Secrets Vecna"
       ],
       "topics": [
         "vecna",
@@ -1037,15 +823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160445965",
       "itunes_duration": "11458",
-      "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Studio"
-      ],
+      "speakers": [],
       "topics": [
         "vecna",
         "ruin",
@@ -1065,11 +843,9 @@
       "enclosure_length": "49978023",
       "itunes_duration": "3123",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
+        "Zero Sum",
+        "Seeking Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1090,13 +866,7 @@
       "enclosure_length": "162354731",
       "itunes_duration": "6763",
       "speakers": [
-        "Kelly Clark",
-        "Christine Rattray",
-        "Rosie Thistledrop Robin Holford",
-        "Lir'wen Chris Blogg",
-        "Dork Tales Merch",
-        "Joel Steudler",
-        "Fantasy Complete"
+        "Cast Welcome"
       ],
       "topics": [
         "vecna",
@@ -1117,14 +887,7 @@
       "enclosure_length": "111914573",
       "itunes_duration": "6992",
       "speakers": [
-        "Nova Arpad",
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Combat Drum Loop Tracks"
+        "Nova Arpad"
       ],
       "topics": [
         "masquerade",
@@ -1146,13 +909,9 @@
       "enclosure_length": "185841063",
       "itunes_duration": "11614",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Frank Schroeter",
-        "Roland JD"
+        "Zero Sum",
+        "Stars Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1172,14 +931,8 @@
       "enclosure_length": "166777131",
       "itunes_duration": "10420",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Joel Steudler"
+        "Transylvania Chronicles",
+        "Fire Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1200,13 +953,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163878063",
       "itunes_duration": "11703",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -1225,16 +972,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108500512",
       "itunes_duration": "6778",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Joel Steudler"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -1256,12 +994,9 @@
       "enclosure_length": "160780854",
       "itunes_duration": "11482",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Deep Space Ulterior"
+        "Zero Sum",
+        "Sphinx Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1282,14 +1017,7 @@
       "enclosure_length": "77934982",
       "itunes_duration": "5564",
       "speakers": [
-        "Nova Arpad",
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete"
+        "Nova Arpad"
       ],
       "topics": [
         "masquerade",
@@ -1310,12 +1038,9 @@
       "enclosure_length": "197274766",
       "itunes_duration": "14088",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Deep Space Ulterior"
+        "Zero Sum",
+        "Information Paradox Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1336,13 +1061,8 @@
       "enclosure_length": "193474526",
       "itunes_duration": "12090",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch",
-        "Atmos Deep Space UIlterior",
-        "Atmos Spaceship"
+        "Zero Sum",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1361,16 +1081,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154245322",
       "itunes_duration": "9635",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Mei Harp Incantation Tracks",
-        "Fantasy Complete"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -1390,11 +1101,10 @@
       "enclosure_length": "203261161",
       "itunes_duration": "12702",
       "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
+        "Zero Sum",
+        "Leagues Under",
+        "Sea Welcome",
+        "Jen Peters"
       ],
       "topics": [
         "technocracy",
@@ -1414,14 +1124,7 @@
       "enclosure_length": "151730670",
       "itunes_duration": "9481",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Atmos Tar",
-        "Chonguri Veil Get Out"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -1441,13 +1144,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91235402",
       "itunes_duration": "6515",
-      "speakers": [
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "zero",
@@ -1466,14 +1163,7 @@
       "enclosure_length": "134153764",
       "itunes_duration": "8381",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Atmos Tar",
-        "Chonguri Veil Get Out"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -1495,12 +1185,7 @@
       "enclosure_length": "181507007",
       "itunes_duration": "11342",
       "speakers": [
-        "Zero Sum",
-        "Storyteller Starring Kelly Clark",
-        "Nolan Westcroft Amy Godfrey",
-        "Heather Robin Holford",
-        "Christine Rattray",
-        "Dork Tales Merch"
+        "Zero Sum"
       ],
       "topics": [
         "techocracy",
@@ -1520,14 +1205,8 @@
       "enclosure_length": "110311236",
       "itunes_duration": "6892",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Joel Steudler"
+        "Transylvania Chronicles",
+        "Epilogue Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1548,14 +1227,7 @@
       "enclosure_length": "107867180",
       "itunes_duration": "6737",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -1575,16 +1247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153484260",
       "itunes_duration": "9589",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -1605,14 +1268,8 @@
       "enclosure_length": "136344793",
       "itunes_duration": "9730",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
+        "Transylvania Chronicles",
+        "Treasure Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1633,16 +1290,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114394217",
       "itunes_duration": "8170",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -1663,14 +1311,8 @@
       "enclosure_length": "106242065",
       "itunes_duration": "7585",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
+        "Transylvania Chronicles",
+        "Ceoris Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1692,14 +1334,8 @@
       "enclosure_length": "128357372",
       "itunes_duration": "9166",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Wrap Session",
+        "Run Chapters"
       ],
       "topics": [
         "phandelver",
@@ -1722,14 +1358,8 @@
       "enclosure_length": "125890572",
       "itunes_duration": "8988",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Spires Harp",
-        "Fantasy Complete"
+        "Transylvania Chronicles",
+        "Goratrix Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1750,14 +1380,7 @@
       "enclosure_length": "175879547",
       "itunes_duration": "10987",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Guiding Lights"
       ],
       "topics": [
         "phandelver",
@@ -1779,14 +1402,7 @@
       "enclosure_length": "171143413",
       "itunes_duration": "10692",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -1807,14 +1423,7 @@
       "enclosure_length": "171887864",
       "itunes_duration": "12274",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Mind Flayer"
       ],
       "topics": [
         "phandelver",
@@ -1833,16 +1442,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "133474239",
       "itunes_duration": "9529",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -1861,16 +1461,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160422768",
       "itunes_duration": "10024",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -1891,14 +1482,8 @@
       "enclosure_length": "136357346",
       "itunes_duration": "9737",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Violin Veil Mindfulness Harp",
-        "Fantasy Complete"
+        "Transylvania Chronicles",
+        "Land Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1920,14 +1505,8 @@
       "enclosure_length": "81564175",
       "itunes_duration": "5824",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles",
+        "Epilogue Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1948,14 +1527,8 @@
       "enclosure_length": "145420803",
       "itunes_duration": "10384",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles",
+        "Truth Welcome"
       ],
       "topics": [
         "masquerade",
@@ -1976,16 +1549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128101886",
       "itunes_duration": "9147",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2006,14 +1570,8 @@
       "enclosure_length": "132645497",
       "itunes_duration": "9468",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles",
+        "Faith Welcome"
       ],
       "topics": [
         "masquerade",
@@ -2034,16 +1592,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93659877",
       "itunes_duration": "6683",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot",
-        "Robin Holford",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2063,14 +1612,8 @@
       "enclosure_length": "181316173",
       "itunes_duration": "12947",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles",
+        "Taxes Welcome"
       ],
       "topics": [
         "masquerade",
@@ -2091,15 +1634,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "141786187",
       "itunes_duration": "10122",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2118,15 +1653,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "153282889",
       "itunes_duration": "10944",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2147,14 +1674,7 @@
       "enclosure_length": "147544077",
       "itunes_duration": "10535",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -2176,14 +1696,7 @@
       "enclosure_length": "129505374",
       "itunes_duration": "12936",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -2203,15 +1716,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "181143312",
       "itunes_duration": "8295",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2231,14 +1736,8 @@
       "enclosure_length": "153668772",
       "itunes_duration": "10974",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Barren Outlandish",
-        "Fantasy Complete"
+        "Transylvania Chronicles",
+        "Road Welcome"
       ],
       "topics": [
         "masquerade",
@@ -2258,16 +1757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "199132990",
       "itunes_duration": "8295",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Barren"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2288,14 +1778,7 @@
       "enclosure_length": "148809663",
       "itunes_duration": "10624",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Fantasy Complete",
-        "Kevin MacLeod"
+        "Transylvania Chronicles"
       ],
       "topics": [
         "masquerade",
@@ -2315,16 +1798,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "175017629",
       "itunes_duration": "10933",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Barren"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2344,14 +1818,7 @@
       "enclosure_length": "141938519",
       "itunes_duration": "10124",
       "speakers": [
-        "Dark Tides",
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Barren Old Town Spires"
+        "Dark Tides"
       ],
       "topics": [
         "masquerade",
@@ -2372,15 +1839,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106690510",
       "itunes_duration": "7619",
-      "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Rainald von Eggenberg",
-        "Robin Holford",
-        "Fyodorov Kal Vincent",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "masquerade",
         "transylvania",
@@ -2399,16 +1858,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147063137",
       "itunes_duration": "10501",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Barren"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2428,15 +1878,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "123658080",
       "itunes_duration": "7726",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2455,11 +1897,10 @@
       "enclosure_length": "178343086",
       "itunes_duration": "11157",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Seven",
+        "Escoffier Welcome"
       ],
       "topics": [
         "ascension",
@@ -2481,15 +1922,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140099277",
       "itunes_duration": "8751",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2510,11 +1943,9 @@
       "enclosure_length": "151606880",
       "itunes_duration": "9486",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Six"
       ],
       "topics": [
         "ascension",
@@ -2536,14 +1967,7 @@
       "enclosure_length": "180286986",
       "itunes_duration": "11263",
       "speakers": [
-        "Gibbet Crossing",
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Gibbet Crossing"
       ],
       "topics": [
         "phandelver",
@@ -2565,11 +1989,10 @@
       "enclosure_length": "151498817",
       "itunes_duration": "9480",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Five",
+        "Reminiscence Welcome"
       ],
       "topics": [
         "ascension",
@@ -2589,16 +2012,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147753336",
       "itunes_duration": "9231",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Barren Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2618,16 +2032,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139797553",
       "itunes_duration": "9982",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2648,9 +2053,7 @@
       "enclosure_length": "162799846",
       "itunes_duration": "10173",
       "speakers": [
-        "Kelly Clark",
-        "Kal Vincent Chris Blogg",
-        "Dork Tales Merch"
+        "World Below"
       ],
       "topics": [
         "world",
@@ -2670,9 +2073,7 @@
       "enclosure_length": "160625994",
       "itunes_duration": "10037",
       "speakers": [
-        "Kelly Clark",
-        "Kal Vincent Chris Blogg",
-        "Dork Tales Merch"
+        "World Below"
       ],
       "topics": [
         "world",
@@ -2693,10 +2094,8 @@
       "enclosure_length": "156728440",
       "itunes_duration": "9793",
       "speakers": [
-        "Kelly Clark",
-        "Kal Vincent Chris Blogg",
-        "Kerfuffle Watch",
-        "Dork Tales Merch"
+        "World Below",
+        "Onyx Path Publishing"
       ],
       "topics": [
         "world",
@@ -2717,10 +2116,9 @@
       "enclosure_length": "151090887",
       "itunes_duration": "9442",
       "speakers": [
-        "Kelly Clark",
-        "Kal Vincent Chris Blogg",
-        "Kerfuffle Watch",
-        "Dork Tales Merch"
+        "Simple Favor Welcome",
+        "World Below",
+        "Onyx Path Publishing"
       ],
       "topics": [
         "world",
@@ -2741,10 +2139,9 @@
       "enclosure_length": "170081984",
       "itunes_duration": "10628",
       "speakers": [
-        "Kelly Clark",
-        "Kal Vincent Chris Blogg",
-        "Kerfuffle Watch",
-        "Dork Tales Merch"
+        "Character Creation Welcome",
+        "World Below",
+        "Onyx Path Publishing"
       ],
       "topics": [
         "world",
@@ -2764,16 +2161,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "138247528",
       "itunes_duration": "8639",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Piano"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2791,16 +2179,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194856735",
       "itunes_duration": "8116",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Piano"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2820,11 +2199,10 @@
       "enclosure_length": "123847060",
       "itunes_duration": "7739",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Four",
+        "Iron Mask Welcome"
       ],
       "topics": [
         "ascension",
@@ -2846,14 +2224,7 @@
       "enclosure_length": "144212462",
       "itunes_duration": "9009",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Piano"
+        "Bookwyrm Games"
       ],
       "topics": [
         "phandelver",
@@ -2875,11 +2246,10 @@
       "enclosure_length": "157806277",
       "itunes_duration": "9862",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Three",
+        "One Welcome"
       ],
       "topics": [
         "ascension",
@@ -2898,16 +2268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167148056",
       "itunes_duration": "10444",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2927,16 +2288,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160464242",
       "itunes_duration": "10027",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Innocuous Barren"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -2957,11 +2309,10 @@
       "enclosure_length": "185311259",
       "itunes_duration": "11579",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Chapter Two",
+        "Walls Welcome"
       ],
       "topics": [
         "ascension",
@@ -2982,16 +2333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188945289",
       "itunes_duration": "11805",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Ambience Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3011,12 +2353,10 @@
       "enclosure_length": "196603127",
       "itunes_duration": "12302",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Roger Ancient"
+        "Victorian Age",
+        "Chapter One",
+        "Perfect Day",
+        "Paris Welcome"
       ],
       "topics": [
         "ascension",
@@ -3037,14 +2377,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56037381",
       "itunes_duration": "3491",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Michael Ilott",
-        "Dork Tales Merch",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "darcie"
@@ -3061,15 +2394,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54540415",
       "itunes_duration": "3373",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Michael Ilott",
-        "Dork Tales Merch",
-        "Rafael Krux",
-        "Orchestra Ambience Ether Lighthearted"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "evelyn"
@@ -3087,11 +2412,9 @@
       "enclosure_length": "103770659",
       "itunes_duration": "6502",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book Two",
+        "Bookwyrm Games"
       ],
       "topics": [
         "ascension",
@@ -3110,15 +2433,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77685902",
       "itunes_duration": "4816",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Michael Ilott",
-        "Dork Tales Merch",
-        "Rafael Krux",
-        "Orchestra Ambience"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "josephine"
@@ -3135,15 +2450,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "169893671",
       "itunes_duration": "10614",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3162,16 +2469,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148817206",
       "itunes_duration": "9297",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Raid Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3191,16 +2489,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167984549",
       "itunes_duration": "10492",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Npc Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3220,16 +2509,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164674578",
       "itunes_duration": "10285",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3248,16 +2528,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145936476",
       "itunes_duration": "9103",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3277,16 +2548,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "168688856",
       "itunes_duration": "10539",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3306,15 +2568,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "135951939",
       "itunes_duration": "8490",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3334,15 +2588,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "252606327",
       "itunes_duration": "10523",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3363,13 +2609,7 @@
       "enclosure_length": "98878942",
       "itunes_duration": "6177",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Run Lost Mine"
       ],
       "topics": [
         "phandelver",
@@ -3390,16 +2630,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160960870",
       "itunes_duration": "10049",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Mei Choir Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3420,14 +2651,7 @@
       "enclosure_length": "146499837",
       "itunes_duration": "9153",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Loop Licensed"
+        "Wave Echo Cave"
       ],
       "topics": [
         "phandelver",
@@ -3450,14 +2674,7 @@
       "enclosure_length": "164089490",
       "itunes_duration": "10250",
       "speakers": [
-        "King Grohl",
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "King Grohl"
       ],
       "topics": [
         "phandelver",
@@ -3478,14 +2695,7 @@
       "enclosure_length": "161234099",
       "itunes_duration": "10069",
       "speakers": [
-        "Cragmaw Castle",
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Cragmaw Castle"
       ],
       "topics": [
         "phandelver",
@@ -3506,16 +2716,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "175794119",
       "itunes_duration": "10985",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Npc Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3535,15 +2736,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95744831",
       "itunes_duration": "5982",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3564,15 +2757,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188691862",
       "itunes_duration": "11791",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3592,16 +2777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "179075076",
       "itunes_duration": "11190",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3620,16 +2796,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167457480",
       "itunes_duration": "10462",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3649,16 +2816,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "178386521",
       "itunes_duration": "11145",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Arcane Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3678,13 +2836,7 @@
       "enclosure_length": "79436590",
       "itunes_duration": "4963",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Run Chapters"
       ],
       "topics": [
         "phandelver",
@@ -3705,14 +2857,7 @@
       "enclosure_length": "180618576",
       "itunes_duration": "11285",
       "speakers": [
-        "Tresendar Manor",
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Tresendar Manor"
       ],
       "topics": [
         "phandelver",
@@ -3733,15 +2878,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "190624149",
       "itunes_duration": "11908",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3761,15 +2898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186618286",
       "itunes_duration": "11658",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3788,16 +2917,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "181883253",
       "itunes_duration": "11363",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Raid Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3817,16 +2937,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "175014722",
       "itunes_duration": "10935",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Raid Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3845,16 +2956,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "181771203",
       "itunes_duration": "11357",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -3876,16 +2978,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "180155417",
       "itunes_duration": "11258",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -3907,16 +3000,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "113239953",
       "itunes_duration": "4717",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Lyric Christa Mitchell",
-        "Lady Ellasandra Chris Ross",
-        "Anthea Briarfoot Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free",
-        "Fantasy Complete"
-      ],
+      "speakers": [],
       "topics": [
         "phandelver",
         "shattered",
@@ -3936,14 +3020,8 @@
       "enclosure_length": "188273392",
       "itunes_duration": "11761",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Flying Citadel"
       ],
       "topics": [
         "dragonlance",
@@ -3966,14 +3044,8 @@
       "enclosure_length": "118888031",
       "itunes_duration": "7429",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen",
+        "Run Chapter"
       ],
       "topics": [
         "dragonlance",
@@ -3995,14 +3067,9 @@
       "enclosure_length": "151367884",
       "itunes_duration": "9457",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Flying Citadel",
+        "Bookwyrm Games"
       ],
       "topics": [
         "dragonlance",
@@ -4024,12 +3091,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "148254412",
       "itunes_duration": "9264",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4048,12 +3110,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176491409",
       "itunes_duration": "11029",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4071,16 +3128,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182913722",
       "itunes_duration": "11602",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4101,16 +3149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185705134",
       "itunes_duration": "11602",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4131,13 +3170,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186043294",
       "itunes_duration": "11626",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Liron Free"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4156,14 +3189,8 @@
       "enclosure_length": "152655790",
       "itunes_duration": "9539",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Bookwyrm Games"
       ],
       "topics": [
         "dragonlance",
@@ -4185,12 +3212,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161429399",
       "itunes_duration": "10087",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4210,14 +3232,8 @@
       "enclosure_length": "173671217",
       "itunes_duration": "10851",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Dragon Army"
       ],
       "topics": [
         "dragonlance",
@@ -4240,12 +3256,8 @@
       "enclosure_length": "138200413",
       "itunes_duration": "8635",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Rafael Krux",
-        "song land-o"
+        "Victorian Age",
+        "London Bridge"
       ],
       "topics": [
         "ascension",
@@ -4266,16 +3278,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161466356",
       "itunes_duration": "10087",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4296,10 +3299,7 @@
       "enclosure_length": "170483853",
       "itunes_duration": "10964",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age"
       ],
       "topics": [
         "ascension",
@@ -4318,16 +3318,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203831222",
       "itunes_duration": "12735",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4349,11 +3340,7 @@
       "enclosure_length": "175443530",
       "itunes_duration": "10964",
       "speakers": [
-        "James Morgan",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "James Morgan"
       ],
       "topics": [
         "ascension",
@@ -4373,16 +3360,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "140037861",
       "itunes_duration": "8749",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4403,11 +3381,7 @@
       "enclosure_length": "162318746",
       "itunes_duration": "10143",
       "speakers": [
-        "Willie Burke",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Willie Burke"
       ],
       "topics": [
         "ascension",
@@ -4427,14 +3401,8 @@
       "enclosure_length": "174201704",
       "itunes_duration": "7390",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Lost Names"
       ],
       "topics": [
         "dragonlance",
@@ -4455,12 +3423,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "180074544",
       "itunes_duration": "11253",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4478,16 +3441,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "143108711",
       "itunes_duration": "8942",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4509,12 +3463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "118265088",
       "itunes_duration": "7390",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4535,14 +3484,8 @@
       "enclosure_length": "176837993",
       "itunes_duration": "8839",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Lost Names"
       ],
       "topics": [
         "dragonlance",
@@ -4564,13 +3507,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203576812",
       "itunes_duration": "12689",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Ambience Orchestra"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4590,16 +3527,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "177452342",
       "itunes_duration": "11088",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4621,11 +3549,8 @@
       "enclosure_length": "162744860",
       "itunes_duration": "11965",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Chonguri Paradigm"
+        "Victorian Age",
+        "Spirited Discourse"
       ],
       "topics": [
         "ascension",
@@ -4646,16 +3571,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "193210477",
       "itunes_duration": "12072",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4677,11 +3593,9 @@
       "enclosure_length": "163274854",
       "itunes_duration": "10203",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Horror Stand"
+        "Victorian Age",
+        "Walk After",
+        "Dashwood Manor"
       ],
       "topics": [
         "ascension",
@@ -4701,16 +3615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "191498202",
       "itunes_duration": "11965",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4732,11 +3637,7 @@
       "enclosure_length": "179061945",
       "itunes_duration": "11190",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Horror Stand"
+        "Victorian Age"
       ],
       "topics": [
         "ascension",
@@ -4757,14 +3658,7 @@
       "enclosure_length": "172961531",
       "itunes_duration": "10807",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen"
       ],
       "topics": [
         "dragonlance",
@@ -4786,16 +3680,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183169222",
       "itunes_duration": "11445",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4816,13 +3701,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "159618383",
       "itunes_duration": "9974",
-      "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch",
-        "Horror Stand"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4842,14 +3721,8 @@
       "enclosure_length": "175044060",
       "itunes_duration": "10937",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Bookwyrm Gam"
       ],
       "topics": [
         "dragonlance",
@@ -4872,11 +3745,8 @@
       "enclosure_length": "159890348",
       "itunes_duration": "9992",
       "speakers": [
-        "Content Warnings",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Gruesome Murder"
       ],
       "topics": [
         "ascension",
@@ -4896,16 +3766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161499109",
       "itunes_duration": "10088",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -4925,13 +3786,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "191974510",
       "itunes_duration": "13711",
-      "speakers": [
-        "Content Warnings",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "ascension",
         "chapter",
@@ -4952,14 +3807,8 @@
       "enclosure_length": "156466932",
       "itunes_duration": "9775",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen",
+        "Sunward Fortress"
       ],
       "topics": [
         "dragonlance",
@@ -4982,11 +3831,8 @@
       "enclosure_length": "193424284",
       "itunes_duration": "13814",
       "speakers": [
-        "Content Warnings",
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Most Peculiar Set"
       ],
       "topics": [
         "ascension",
@@ -5006,16 +3852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161917069",
       "itunes_duration": "10115",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5037,10 +3874,8 @@
       "enclosure_length": "163815507",
       "itunes_duration": "10205",
       "speakers": [
-        "Kelly Clark",
-        "Goodwin Robin Holford",
-        "Evelyn Taylor",
-        "Dork Tales Merch"
+        "Victorian Age",
+        "Book One"
       ],
       "topics": [
         "ascension",
@@ -5062,14 +3897,7 @@
       "enclosure_length": "162496760",
       "itunes_duration": "8120",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
+        "Dragon Queen"
       ],
       "topics": [
         "dragonlance",
@@ -5091,16 +3919,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166160154",
       "itunes_duration": "10382",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5123,14 +3942,8 @@
       "enclosure_length": "169372816",
       "itunes_duration": "8467",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen",
+        "Run Chapter"
       ],
       "topics": [
         "dragonlance",
@@ -5151,16 +3964,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "208359898",
       "itunes_duration": "10415",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "Dork Tales Merch",
-        "Tim Kulig Free"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5180,16 +3984,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "165475288",
       "itunes_duration": "10338",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5210,16 +4005,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "179877473",
       "itunes_duration": "11234",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5241,16 +4027,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "155610001",
       "itunes_duration": "12454",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5273,13 +4050,7 @@
       "itunes_duration": "11121",
       "speakers": [
         "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Cast Amy Godfrey"
       ],
       "topics": [
         "spelljammer",
@@ -5299,16 +4070,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "199319076",
       "itunes_duration": "12454",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5330,16 +4092,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "196790127",
       "itunes_duration": "14054",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "heart",
@@ -5357,16 +4110,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163272037",
       "itunes_duration": "6801",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "chasm"
@@ -5384,14 +4128,7 @@
       "enclosure_length": "185124616",
       "itunes_duration": "9254",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Crowning Moment"
       ],
       "topics": [
         "spelljammer",
@@ -5412,16 +4149,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "201454257",
       "itunes_duration": "16786",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5443,14 +4171,7 @@
       "enclosure_length": "177307551",
       "itunes_duration": "8863",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Kelly Clark"
       ],
       "topics": [
         "spelljammer",
@@ -5472,16 +4193,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "245295294",
       "itunes_duration": "9630",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5502,16 +4214,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194472741",
       "itunes_duration": "12152",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -5532,16 +4235,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154107747",
       "itunes_duration": "9630",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5561,16 +4255,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "198302326",
       "itunes_duration": "12392",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -5592,14 +4277,7 @@
       "enclosure_length": "172550110",
       "itunes_duration": "10783",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen"
       ],
       "topics": [
         "dragonlance",
@@ -5621,14 +4299,7 @@
       "enclosure_length": "199440235",
       "itunes_duration": "8309",
       "speakers": [
-        "Lucia Merovech",
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Kevin MacLeod"
+        "Lucia Merovech"
       ],
       "topics": [
         "reign",
@@ -5648,14 +4319,7 @@
       "enclosure_length": "184224455",
       "itunes_duration": "7675",
       "speakers": [
-        "Lucia Merovech",
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Kevin MacLeod"
+        "Lucia Merovech"
       ],
       "topics": [
         "reign",
@@ -5674,16 +4338,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184551247",
       "itunes_duration": "11532",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "dragonlance",
         "shadow",
@@ -5702,16 +4357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "170691765",
       "itunes_duration": "10666",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -5733,14 +4379,7 @@
       "enclosure_length": "197368092",
       "itunes_duration": "16445",
       "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Kevin MacLeod",
-        "Dark Fantasy Studio"
+        "Fey Wild"
       ],
       "topics": [
         "reign",
@@ -5760,14 +4399,7 @@
       "enclosure_length": "156204670",
       "itunes_duration": "9760",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen"
       ],
       "topics": [
         "dragonlance",
@@ -5790,14 +4422,7 @@
       "enclosure_length": "202164787",
       "itunes_duration": "14438",
       "speakers": [
-        "Home Burns",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales"
+        "Home Burns"
       ],
       "topics": [
         "dragonlance",
@@ -5819,14 +4444,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185477518",
       "itunes_duration": "13247",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -5845,14 +4463,8 @@
       "enclosure_length": "169849764",
       "itunes_duration": "10613",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen",
+        "High Hill"
       ],
       "topics": [
         "dragonlance",
@@ -5874,14 +4486,7 @@
       "enclosure_length": "206316295",
       "itunes_duration": "10313",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Kelly Clark"
       ],
       "topics": [
         "spelljammer",
@@ -5903,14 +4508,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204279179",
       "itunes_duration": "12766",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -5929,14 +4527,9 @@
       "enclosure_length": "196998880",
       "itunes_duration": "12310",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen",
+        "High Hill",
+        "Kingfisher Festival"
       ],
       "topics": [
         "dragonlance",
@@ -5959,16 +4552,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "195648421",
       "itunes_duration": "12225",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -5989,12 +4573,7 @@
       "enclosure_length": "181542209",
       "itunes_duration": "11345",
       "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
+        "Belmont Manor"
       ],
       "topics": [
         "reign",
@@ -6013,14 +4592,8 @@
       "enclosure_length": "189042170",
       "itunes_duration": "13501",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen",
+        "Final Farewell"
       ],
       "topics": [
         "dragonlance",
@@ -6042,15 +4615,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "177036841",
       "itunes_duration": "8851",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Myst Mindhunter"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6070,14 +4635,7 @@
       "enclosure_length": "174708704",
       "itunes_duration": "10916",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Dragon Queen"
       ],
       "topics": [
         "dragonlance",
@@ -6099,13 +4657,7 @@
       "enclosure_length": "202212142",
       "itunes_duration": "12637",
       "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Bfg Mindhunter Experiment"
+        "Black Door"
       ],
       "topics": [
         "reign",
@@ -6129,12 +4681,7 @@
       "speakers": [
         "Kelly Clark",
         "Chris Blogg",
-        "Godfrey Highvalor Robin Holford",
-        "Rizira Moonbrush Jen Peters",
-        "Kelara Kalin Vincent",
-        "Aurontiros Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Godfrey Hig"
       ],
       "topics": [
         "dragonlance",
@@ -6156,14 +4703,7 @@
       "enclosure_length": "159024024",
       "itunes_duration": "9936",
       "speakers": [
-        "Theo Nathope",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn"
+        "Theo Nathop"
       ],
       "topics": [
         "netherdeep",
@@ -6183,14 +4723,7 @@
       "enclosure_length": "163628526",
       "itunes_duration": "8179",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Commodore Krux into Wildspace"
       ],
       "topics": [
         "spelljammer",
@@ -6213,13 +4746,7 @@
       "enclosure_length": "180247723",
       "itunes_duration": "11264",
       "speakers": [
-        "Accario Merovech",
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
+        "Accario Merovech"
       ],
       "topics": [
         "reign",
@@ -6239,14 +4766,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "180629412",
       "itunes_duration": "12900",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6265,16 +4785,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "209524661",
       "itunes_duration": "10474",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "vents",
@@ -6292,15 +4803,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "193468529",
       "itunes_duration": "13818",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Aretes Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6319,16 +4822,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "181521111",
       "itunes_duration": "11341",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -6348,16 +4842,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85582161",
       "itunes_duration": "5348",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -6379,13 +4864,7 @@
       "itunes_duration": "11150",
       "speakers": [
         "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Cast Chri"
       ],
       "topics": [
         "netherdeep",
@@ -6405,16 +4884,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "171136721",
       "itunes_duration": "10694",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "haunted",
@@ -6432,15 +4902,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "205088380",
       "itunes_duration": "14647",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6460,13 +4922,7 @@
       "itunes_duration": "10893",
       "speakers": [
         "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Cast Ch"
       ],
       "topics": [
         "netherdeep",
@@ -6486,14 +4942,7 @@
       "enclosure_length": "203536571",
       "itunes_duration": "12720",
       "speakers": [
-        "Vex Nergali",
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
+        "Vex Nergali"
       ],
       "topics": [
         "reign",
@@ -6513,16 +4962,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "196211409",
       "itunes_duration": "12261",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep"
       ]
@@ -6539,12 +4979,7 @@
       "enclosure_length": "197631414",
       "itunes_duration": "12351",
       "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
+        "Talfryn's ancestry"
       ],
       "topics": [
         "reign",
@@ -6564,14 +4999,7 @@
       "enclosure_length": "102561156",
       "itunes_duration": "6408",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Run Chapter Five"
       ],
       "topics": [
         "netherdeep",
@@ -6591,14 +5019,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "170058982",
       "itunes_duration": "10627",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Dark Fantasy Studio Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6618,14 +5039,7 @@
       "enclosure_length": "188605016",
       "itunes_duration": "13470",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Kelly Clark"
       ],
       "topics": [
         "netherdeep"
@@ -6643,14 +5057,7 @@
       "enclosure_length": "182599778",
       "itunes_duration": "13041",
       "speakers": [
-        "Aurianna Otker",
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux",
-        "Dark Fantasy Studio Licensed"
+        "Aurianna Otker"
       ],
       "topics": [
         "reign",
@@ -6672,14 +5079,7 @@
       "enclosure_length": "188442844",
       "itunes_duration": "13458",
       "speakers": [
-        "Cael Morrow",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn"
+        "Cael Morrow"
       ],
       "topics": [
         "netherdeep",
@@ -6698,14 +5098,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "145757661",
       "itunes_duration": "9108",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Dark Fantasy Studio Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6724,16 +5117,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161119059",
       "itunes_duration": "10068",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "proxies",
@@ -6751,14 +5135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182145342",
       "itunes_duration": "11383",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6777,16 +5154,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160174666",
       "itunes_duration": "10008",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "warring",
@@ -6804,15 +5172,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167123273",
       "itunes_duration": "10444",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6832,14 +5192,7 @@
       "enclosure_length": "170860306",
       "itunes_duration": "10677",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Kelly Clark"
       ],
       "topics": [
         "netherdeep",
@@ -6859,15 +5212,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187330512",
       "itunes_duration": "11707",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6886,14 +5231,7 @@
       "enclosure_length": "201479929",
       "itunes_duration": "12578",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn"
+        "Dork Tales"
       ],
       "topics": [
         "netherdeep"
@@ -6910,16 +5248,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187128652",
       "itunes_duration": "11687",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -6939,15 +5268,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "168164686",
       "itunes_duration": "10509",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -6967,14 +5288,7 @@
       "enclosure_length": "144978593",
       "itunes_duration": "9055",
       "speakers": [
-        "Dork Tales",
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn"
+        "Dork Tales"
       ],
       "topics": [
         "netherdeep",
@@ -6993,14 +5307,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184809544",
       "itunes_duration": "11549",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7020,14 +5327,7 @@
       "enclosure_length": "167213091",
       "itunes_duration": "10448",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Kelly Clar"
       ],
       "topics": [
         "netherdeep",
@@ -7045,14 +5345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "193099719",
       "itunes_duration": "12067",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7071,14 +5364,8 @@
       "enclosure_length": "171327015",
       "itunes_duration": "10706",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Cobalt Soul",
+        "Cael Morrow"
       ],
       "topics": [
         "netherdeep",
@@ -7098,14 +5385,7 @@
       "enclosure_length": "186862627",
       "itunes_duration": "11673",
       "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
+        "Star Moth"
       ],
       "topics": [
         "spelljammer",
@@ -7129,14 +5409,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154321475",
       "itunes_duration": "9644",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada Link",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7156,14 +5429,7 @@
       "enclosure_length": "107074810",
       "itunes_duration": "6691",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Run Chapter Four"
       ],
       "topics": [
         "netherdeep",
@@ -7184,13 +5450,7 @@
       "enclosure_length": "190706253",
       "itunes_duration": "11918",
       "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Alexander Nakarada Link",
-        "Rafael Krux"
+        "Venn Baelia"
       ],
       "topics": [
         "reign",
@@ -7210,14 +5470,7 @@
       "enclosure_length": "170350832",
       "itunes_duration": "10645",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "interested results"
       ],
       "topics": [
         "netherdeep",
@@ -7236,16 +5489,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "173680340",
       "itunes_duration": "10846",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -7267,13 +5511,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184281826",
       "itunes_duration": "11516",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7293,14 +5531,7 @@
       "enclosure_length": "189396794",
       "itunes_duration": "11831",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Baked Scheme"
       ],
       "topics": [
         "netherdeep",
@@ -7318,15 +5549,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "196987681",
       "itunes_duration": "12310",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada",
-        "Vocis Kevin MacLeod",
-        "Aretes Kevin MacLeod",
-        "Dark Fantasy Studio Licensed"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7344,12 +5567,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "134701792",
       "itunes_duration": "8418",
-      "speakers": [
-        "tv dorktales",
-        "Dork Tales Merch",
-        "Character Art",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "reign",
         "emrys",
@@ -7369,14 +5587,7 @@
       "enclosure_length": "201185548",
       "itunes_duration": "10058",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Kelly Clark"
       ],
       "topics": [
         "netherdeep",
@@ -7396,16 +5607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "100877281",
       "itunes_duration": "6303",
-      "speakers": [
-        "Kelly Clark",
-        "Cast Amy Godfrey",
-        "Mulj Plava",
-        "Michael Ilott",
-        "Cheshire Christa Mitchell",
-        "Francis Ponsoby Watch",
-        "tv dorktales",
-        "tales Follow"
-      ],
+      "speakers": [],
       "topics": [
         "spelljammer",
         "light",
@@ -7427,14 +5629,7 @@
       "enclosure_length": "188466438",
       "itunes_duration": "9422",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
+        "Life Dome"
       ],
       "topics": [
         "netherdeep",
@@ -7454,16 +5649,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139416088",
       "itunes_duration": "8711",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "knowledge",
@@ -7487,7 +5673,7 @@
         "Oaf Remix",
         "Kaeko Box",
         "Amazing Christa Mitchell",
-        "Dirty Electro Sport Beat"
+        "Dirty Electro"
       ],
       "topics": [
         "dorlen",
@@ -7507,16 +5693,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "186449353",
       "itunes_duration": "11650",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn",
-        "Christine Rattray"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "recording"
@@ -7534,14 +5711,7 @@
       "enclosure_length": "193875784",
       "itunes_duration": "13847",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
+        "Kelly Clark"
       ],
       "topics": [
         "netherdeep",
@@ -7562,14 +5732,7 @@
       "enclosure_length": "128829526",
       "itunes_duration": "6440",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
+        "Run Chapter Three"
       ],
       "topics": [
         "netherdeep",
@@ -7589,16 +5752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187621531",
       "itunes_duration": "13399",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "jewel",
@@ -7619,13 +5773,7 @@
       "itunes_duration": "9364",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Run Chapter Five"
       ],
       "topics": [
         "wild",
@@ -7646,16 +5794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "195966796",
       "itunes_duration": "9797",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "blood",
@@ -7675,16 +5814,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203618406",
       "itunes_duration": "10179",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -7703,14 +5833,7 @@
       "enclosure_length": "184750241",
       "itunes_duration": "11544",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -7731,16 +5854,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "169815794",
       "itunes_duration": "10611",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "path",
@@ -7761,13 +5875,8 @@
       "itunes_duration": "5694",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Gwendolwynne Shafra Caitlan Vinkle",
-        "Dork Tales Merch"
+        "Run Chapter Four",
+        "Chapter Four"
       ],
       "topics": [
         "wild",
@@ -7786,16 +5895,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "200908953",
       "itunes_duration": "12555",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "betrayer",
@@ -7815,14 +5915,7 @@
       "enclosure_length": "181713763",
       "itunes_duration": "11355",
       "speakers": [
-        "Leaving Yon",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Leaving Yon"
       ],
       "topics": [
         "wild",
@@ -7840,16 +5933,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "198977337",
       "itunes_duration": "12434",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "bazzoxan",
@@ -7868,14 +5952,7 @@
       "enclosure_length": "169242951",
       "itunes_duration": "10576",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyo"
       ],
       "topics": [
         "wild",
@@ -7896,14 +5973,7 @@
       "enclosure_length": "192499943",
       "itunes_duration": "12028",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
+        "No Time"
       ],
       "topics": [
         "netherdeep",
@@ -7923,16 +5993,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188454181",
       "itunes_duration": "11776",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "road",
@@ -7952,14 +6013,7 @@
       "enclosure_length": "145516820",
       "itunes_duration": "6062",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
+        "Run Chapter Two"
       ],
       "topics": [
         "netherdeep",
@@ -7980,14 +6034,7 @@
       "enclosure_length": "161322556",
       "itunes_duration": "10079",
       "speakers": [
-        "Endelyn’s Verdict",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Endelyn’s Verdict"
       ],
       "topics": [
         "wild",
@@ -8007,16 +6054,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "193579593",
       "itunes_duration": "9676",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8036,14 +6074,7 @@
       "enclosure_length": "116294399",
       "itunes_duration": "7267",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
+        "Run Chapter One"
       ],
       "topics": [
         "netherdeep",
@@ -8063,16 +6094,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128113145",
       "itunes_duration": "5336",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight"
@@ -8089,16 +6111,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189833477",
       "itunes_duration": "11862",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "leave",
@@ -8117,16 +6130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187248731",
       "itunes_duration": "9359",
-      "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "netherdeep",
         "emerald",
@@ -8146,14 +6150,7 @@
       "enclosure_length": "166125388",
       "itunes_duration": "10381",
       "speakers": [
-        "Kelly Clark",
-        "Chris Blogg",
-        "Dorlen Wildrock",
-        "Robin Holford",
-        "Kaeko Skaar Christa Mitchell",
-        "Sabina Moorden Caitlan Vinkle",
-        "Xarria Rainn Watch",
-        "tv dorktales"
+        "Fateful Competition"
       ],
       "topics": [
         "netherdeep",
@@ -8174,14 +6171,7 @@
       "enclosure_length": "171451688",
       "itunes_duration": "10714",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8200,16 +6190,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "190943131",
       "itunes_duration": "9545",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight"
@@ -8254,13 +6235,8 @@
       "itunes_duration": "9445",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Gwendolwynne Shafra Caitlan Vinkle",
-        "Dork Tales Merch"
+        "Run Chapter Three",
+        "Chapter Three"
       ],
       "topics": [
         "wild",
@@ -8280,14 +6256,7 @@
       "enclosure_length": "209442668",
       "itunes_duration": "10470",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8308,13 +6277,7 @@
       "itunes_duration": "11987",
       "speakers": [
         "Granny Nightshade",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Wild Beyon"
       ],
       "topics": [
         "wild",
@@ -8335,14 +6298,7 @@
       "enclosure_length": "171639541",
       "itunes_duration": "10726",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8363,16 +6319,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188214865",
       "itunes_duration": "9409",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight"
@@ -8390,14 +6337,7 @@
       "enclosure_length": "174122085",
       "itunes_duration": "10881",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Kevin MacLeod"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8415,15 +6355,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164460361",
       "itunes_duration": "6850",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8443,12 +6375,8 @@
       "itunes_duration": "9303",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Run Chapter Two",
+        "Chapter Two"
       ],
       "topics": [
         "wild",
@@ -8468,13 +6396,7 @@
       "enclosure_length": "200934099",
       "itunes_duration": "10045",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8495,14 +6417,7 @@
       "enclosure_length": "170445076",
       "itunes_duration": "10650",
       "speakers": [
-        "Bavlorna’s Hoard",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Bavlorna’s Hoard"
       ],
       "topics": [
         "wild",
@@ -8523,14 +6438,7 @@
       "enclosure_length": "201404857",
       "itunes_duration": "10069",
       "speakers": [
-        "Bavlorna Blightstraw",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8549,16 +6457,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "192609940",
       "itunes_duration": "8024",
-      "speakers": [
-        "Bavlorna Blightstraw",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8578,14 +6477,7 @@
       "enclosure_length": "201137175",
       "itunes_duration": "10056",
       "speakers": [
-        "Bavlorna Blightstraw",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8604,16 +6496,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "203825102",
       "itunes_duration": "10190",
-      "speakers": [
-        "Michael Bubbly",
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8631,15 +6514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189053368",
       "itunes_duration": "9451",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8659,12 +6534,8 @@
       "itunes_duration": "7837",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Run Chapter One",
+        "Chapter One"
       ],
       "topics": [
         "wild",
@@ -8683,15 +6554,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "197886846",
       "itunes_duration": "12365",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8711,13 +6574,7 @@
       "enclosure_length": "180468297",
       "itunes_duration": "11278",
       "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
+        "Wild Beyond"
       ],
       "topics": [
         "wild",
@@ -8738,13 +6595,7 @@
       "itunes_duration": "12180",
       "speakers": [
         "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch",
-        "Theme Kevin MacLeod"
+        "Witchlight Carnival"
       ],
       "topics": [
         "wild",
@@ -8763,15 +6614,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166428139",
       "itunes_duration": "6933",
-      "speakers": [
-        "Wild Beyond",
-        "Kelly Clark",
-        "Cast Hayden Daviau",
-        "Robin Holford",
-        "Sarcyra Novis Christa Mitchell",
-        "Isaac Ronaldi Christine Rattray",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "wild",
         "witchlight",
@@ -8789,16 +6632,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183174049",
       "itunes_duration": "9157",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -8817,14 +6651,7 @@
       "enclosure_length": "183207230",
       "itunes_duration": "13083",
       "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Dork Tales"
       ],
       "topics": [
         "rime",
@@ -8844,16 +6671,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "180814214",
       "itunes_duration": "11298",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -8871,16 +6689,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182472035",
       "itunes_duration": "11403",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -8899,14 +6708,7 @@
       "enclosure_length": "204663776",
       "itunes_duration": "10231",
       "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Old Rivalries Die Hard"
       ],
       "topics": [
         "rime",
@@ -8925,16 +6727,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "171086892",
       "itunes_duration": "10690",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -8953,16 +6746,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "201577445",
       "itunes_duration": "10076",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -8981,16 +6765,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188830169",
       "itunes_duration": "11798",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9010,14 +6785,7 @@
       "enclosure_length": "171979523",
       "itunes_duration": "10746",
       "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Netherese Necropolis"
       ],
       "topics": [
         "rime",
@@ -9037,16 +6805,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194148535",
       "itunes_duration": "9705",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9064,16 +6823,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176140057",
       "itunes_duration": "11006",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9092,14 +6842,7 @@
       "enclosure_length": "168631329",
       "itunes_duration": "10537",
       "speakers": [
-        "Icewind Dale",
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Icewind Dale"
       ],
       "topics": [
         "rime",
@@ -9119,16 +6862,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "205359471",
       "itunes_duration": "10266",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9146,16 +6880,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "206146960",
       "itunes_duration": "12881",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9173,16 +6898,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "179488223",
       "itunes_duration": "11215",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9200,16 +6916,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "205134225",
       "itunes_duration": "10254",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9229,14 +6936,7 @@
       "enclosure_length": "177719884",
       "itunes_duration": "11105",
       "speakers": [
-        "Icewind Dale",
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find"
+        "Icewind Dale"
       ],
       "topics": [
         "rime",
@@ -9257,14 +6957,7 @@
       "enclosure_length": "187736184",
       "itunes_duration": "11731",
       "speakers": [
-        "Icewind Dale",
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find"
+        "Icewind Dale"
       ],
       "topics": [
         "rime",
@@ -9284,16 +6977,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "206183072",
       "itunes_duration": "10307",
-      "speakers": [
-        "Kelly Clark",
-        "Starring Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9312,14 +6996,7 @@
       "enclosure_length": "206070057",
       "itunes_duration": "12877",
       "speakers": [
-        "Xardorok Sunblight",
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Xardorok Sunblight"
       ],
       "topics": [
         "rime",
@@ -9340,14 +7017,7 @@
       "enclosure_length": "204038818",
       "itunes_duration": "12751",
       "speakers": [
-        "Xardorok Sunblight",
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch"
+        "Xardorok Sunblight"
       ],
       "topics": [
         "rime",
@@ -9368,14 +7038,7 @@
       "enclosure_length": "208504425",
       "itunes_duration": "13029",
       "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada Link"
+        "Ten Towns"
       ],
       "topics": [
         "rime",
@@ -9395,14 +7058,7 @@
       "enclosure_length": "189556307",
       "itunes_duration": "11846",
       "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Ten Towns"
       ],
       "topics": [
         "rime",
@@ -9421,16 +7077,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "157880531",
       "itunes_duration": "9866",
-      "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9449,14 +7096,7 @@
       "enclosure_length": "177375628",
       "itunes_duration": "11085",
       "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Icewind Dale"
       ],
       "topics": [
         "rime",
@@ -9477,14 +7117,7 @@
       "enclosure_length": "189884038",
       "itunes_duration": "13562",
       "speakers": [
-        "Skytower Shelter",
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Skytower Shelter"
       ],
       "topics": [
         "rime",
@@ -9505,14 +7138,7 @@
       "enclosure_length": "202752832",
       "itunes_duration": "12671",
       "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Wyrmdoom Crag"
       ],
       "topics": [
         "rime",
@@ -9532,16 +7158,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183910884",
       "itunes_duration": "13135",
-      "speakers": [
-        "Kelly Clark",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill",
-        "tales Find",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden"
@@ -9558,16 +7175,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "192704339",
       "itunes_duration": "12042",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9586,14 +7194,7 @@
       "enclosure_length": "193838841",
       "itunes_duration": "12112",
       "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Dark Duchess"
       ],
       "topics": [
         "rime",
@@ -9612,16 +7213,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "190169357",
       "itunes_duration": "13581",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9640,16 +7232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184906327",
       "itunes_duration": "13205",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9668,16 +7251,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "207341270",
       "itunes_duration": "12956",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9697,14 +7271,7 @@
       "enclosure_length": "181582290",
       "itunes_duration": "11346",
       "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Blackiron Blades"
       ],
       "topics": [
         "rime",
@@ -9725,14 +7292,7 @@
       "enclosure_length": "188855520",
       "itunes_duration": "11801",
       "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
+        "Black Sword"
       ],
       "topics": [
         "rime",
@@ -9752,16 +7312,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "177227278",
       "itunes_duration": "11074",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9780,16 +7331,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189768517",
       "itunes_duration": "11858",
-      "speakers": [
-        "Icewind Dale",
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden"
@@ -9806,16 +7348,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "208175033",
       "itunes_duration": "13008",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9834,16 +7367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160767780",
       "itunes_duration": "10045",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9863,14 +7387,7 @@
       "enclosure_length": "199897587",
       "itunes_duration": "14288",
       "speakers": [
-        "Icewind Dale",
-        "Kelly Clark",
-        "Hayden Daviau",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch"
+        "Icewind Dale"
       ],
       "topics": [
         "rime",
@@ -9890,16 +7407,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "139140732",
       "itunes_duration": "4347",
-      "speakers": [
-        "Kelly Clark",
-        "Dungeonmaster Starring",
-        "Robin Holford",
-        "Mike McGie",
-        "Christine Rattray",
-        "Callie Thornhill Watch",
-        "Dork Tales Merch",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "rime",
         "frostmaiden",
@@ -9913,362 +7421,363 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Vecna: Eve of Ruin | Episode 25: Master of Past and Present — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Kal Vincent, Aurontiros Watch, Dork Tales Merch, Joel Steudler
-- 2026-02-17 — Vecna: Eve of Ruin | Episode 24: The Cursed Keep — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Kal Vincent, Aurontiros Watch, Dork Tales Merch, Joel Steudler
-- 2026-02-09 — Vecna: Eve of Ruin | Episode 23: A Fight in the Fens — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Kal Vincent, Aurontiros Watch, Dork Tales Merch, Joel Steudler
-- 2026-02-04 — Technocracy: Zero Sum | Epilogue: Consensus Protocol — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Red
-- 2026-02-02 — Vecna: Eve of Ruin | Episode 22: A Chaos of Kenders — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Kal Vincent, Aurontiros Watch, Dork Tales Merch, Joel Steudler
-- 2026-01-28 — Technocracy: Zero Sum | Episode 16: Sunfall — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Room Ulterior
-- 2026-01-26 — Vecna: Eve of Ruin | Episode 21: Master of the Death House — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Amy Godfrey, Luella von Zarovich Watch, Dork Tales Merch, Joel Steudler
-- 2026-01-21 — Technocracy: Zero Sum | Episode 15: We Are the Hollow Men — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Ambience Dying
-- 2026-01-19 — Vecna: Eve of Ruin | Episode 20: The Darklord's Shrine — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Amy Godfrey, Luella von Zarovich Watch, Dork Tales Merch, Joel Steudler
-- 2026-01-12 — Vecna: Eve of Ruin | Episode 19: The Family Crypts — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Amy Godfrey, Luella von Zarovich Watch, Dork Tales Merch, Joel Steudler
-- 2026-01-05 — Vecna: Eve of Ruin | Episode 18: Death House — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Amy Godfrey, Luella von Zarovich Watch, Dork Tales Merch, Joel Steudler
-- 2026-01-03 — Technocracy: Zero Sum | Episode 14: #DATASPACE — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Run Red
-- 2025-12-29 — Vecna: Eve of Ruin | Episode 17: Unwelcome Party — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Amy Godfrey, Luella von Zarovich Watch, Dork Tales Merch, Joel Steudler
-- 2025-12-22 — Vecna: Eve of Ruin | Episode 16: The Greymatter Engine — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Caitlan Vinkle, Dork Tales Merch, Joel Steudler, Sequence Licensed
-- 2025-12-17 — Technocracy: Zero Sum | Episode 13: Tinfoil Hats — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Run Red
-- 2025-12-15 — Vecna: Eve of Ruin | Episode 15: Blades in the Throat — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Caitlan Vinkle, Dork Tales Merch, Joel Steudler, Tim Kulig
-- 2025-12-08 — Vecna: Eve of Ruin | Episode 14: Landro the Colossus — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Caitlan Vinkle, Dork Tales Merch, Joel Steudler, Tim Kulig
-- 2025-12-03 — Technocracy: Zero Sum | Episode 12: Howl of the Wyrm — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Zone Escape, Orchestra Hybrid Ambience Waiting
-- 2025-12-01 — Vecna: Eve of Ruin | Episode 13: Settling the Dispute — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Caitlan Vinkle, Dork Tales Merch, Joel Steudler, Tim Kulig
-- 2025-11-24 — Vecna: Eve of Ruin | Episode 12: Mount Ironrot — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Caitlan Vinkle, Dork Tales Merch, Joel Steudler, Guitar Licensed
-- 2025-11-20 — Technocracy: Zero Sum | Episode 11: Black Box KIBO — speakers: Black Box Kibo, Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Zone Escape, Orchestra Hybrid Ambience
-- 2025-11-17 — Vecna: Eve of Ruin | Episode 11: Heart of Havock — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-11-10 — Vecna: Eve of Ruin | Episode 10: Stalkers in the Stars — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Npc Licensed, Fantasy Studio
-- 2025-11-05 — Technocracy: Zero Sum | Episode 10: NULL — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Zone Escape
-- 2025-11-04 — Vecna: Eve of Ruin | Episode 9: Wreck of the Lambent Zenith — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-10-29 — Technocracy: Zero Sum | Heather's Seeking — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-10-27 — Vecna: Eve of Ruin | Episode 8: A Doorway to Space — speakers: Death Wish, Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-10-20 — Vecna: Eve of Ruin | Episode 7: Ker-Arach's Web — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-10-15 — Technocracy: Zero Sum | Episode 09: Episode 09: Echoes of the Void — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Dark Zone
-- 2025-10-13 — Vecna: Eve of Ruin | Episode 6: Toward Web's Edge — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-10-10 — Vampire the Masquerade: Transylvania Chronicles | Episode 25: A Visitor and a Proposal — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Joel Steudler
-- 2025-10-06 — Vecna: Eve of Ruin | Episode 5: The Wizards Three — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-10-01 — Technocracy: Zero Sum | Episode 08: Trusting the Algorithm — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-09-29 — Vecna: Eve of Ruin | Episode 4: The Corpse Market — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-09-22 — Vecna: Eve of Ruin | Episode 3: Return From Neverdeath Graveyard — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-09-17 — Technocracy: Zero Sum | Episode 07: The Fall of Balador — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Alexander Nakarada, Frank Schroeter, Roland JD
-- 2025-09-15 — Vecna: Eve of Ruin | Episode 2: The Power of Secrets — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-09-08 — Vecna: Eve of Ruin | Episode 1: Danger to the Multiverse — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Studio
-- 2025-09-04 — Technocracy: Zero Sum | Nolan's Seeking — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-09-01 — Vecna: Eve of Ruin | Session 0: Meet the Cast — speakers: Kelly Clark, Christine Rattray, Rosie Thistledrop Robin Holford, Lir'wen Chris Blogg, Dork Tales Merch, Joel Steudler, Fantasy Complete
-- 2025-08-27 — Vampire the Masquerade: Transylvania Chronicles | Episode 24: Unwelcome Receptions — speakers: Nova Arpad, Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Combat Drum Loop Tracks
-- 2025-08-20 — Technocracy: Zero Sum | Episode 06: Behind the Stars — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Frank Schroeter, Roland JD
-- 2025-08-13 — Vampire the Masquerade: Transylvania Chronicles | Episode 23: Interruption by Fire — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Joel Steudler
-- 2025-08-06 — Technocracy: Zero Sum | Episode 05: In the Leviathan's Shadow — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-07-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 22: An Evening with the Traveling Folk — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Joel Steudler
-- 2025-07-23 — Technocracy: Zero Sum | Episode 04: The Word of the Sphinx — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Deep Space Ulterior
-- 2025-07-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 21: Among the Arpad — speakers: Nova Arpad, Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete
-- 2025-07-10 — Technocracy: Zero Sum | Episode 03: Information Paradox — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Deep Space Ulterior
-- 2025-06-25 — Technocracy: Zero Sum | Episode 02: The Void Above — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch, Atmos Deep Space UIlterior, Atmos Spaceship
-- 2025-06-18 — Vampire the Masquerade: Transylvania Chronicles | Episode 20: Confirmation — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Mei Harp Incantation Tracks, Fantasy Complete
-- 2025-06-11 — Technocracy: Zero Sum | Episode 01: 20,001 Leagues Under the Sea — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-06-04 — Vampire the Masquerade: Transylvania Chronicles | Episode 19: The Release — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Atmos Tar, Chonguri Veil Get Out
-- 2025-05-28 — Technocracy: Zero Sum | Episode 00: Debrief — speakers: Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-05-21 — Vampire the Masquerade: Transylvania Chronicles | Episode 18: Rumors of Things To Come — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Atmos Tar, Chonguri Veil Get Out
-- 2025-05-14 — Techocracy: Zero Sum | Pilot (Bonus Episode) — speakers: Zero Sum, Storyteller Starring Kelly Clark, Nolan Westcroft Amy Godfrey, Heather Robin Holford, Christine Rattray, Dork Tales Merch
-- 2025-05-07 — Vampire the Masquerade: Transylvania Chronicles | Act 2: Epilogue — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Joel Steudler
-- 2025-04-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 17: The Tremere — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-04-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 16: The Holy Grail — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-04-02 — Vampire the Masquerade: Transylvania Chronicles | Episode 15: The Templar's Treasure — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-03-19 — Vampire the Masquerade: Transylvania Chronicles | Episode 14: A Deadly Burden — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-03-05 — Vampire the Masquerade: Transylvania Chronicles | Episode 13: The Road to Ceoris — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-03-03 — Phandelver and Below: The Shattered Obelisk | Wrap Session & How to Run Chapters 7 & 8 — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2025-02-26 — Vampire the Masquerade: Transylvania Chronicles | Episode 12: Goratrix — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Spires Harp, Fantasy Complete
-- 2025-02-24 — Phandelver and Below: The Shattered Obelisk | Episode 44: Ilvaash's Refraction — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2025-02-21 — Vampire the Masquerade: Transylvania Chronicles | Episode 11: The Prisoner — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2025-02-17 — Phandelver and Below: The Shattered Obelisk | Episode 43: The Shattered Obelisk — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2025-02-05 — Vampire the Masquerade: Transylvania Chronicles | Episode 10: Challenges — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2025-01-28 — Phandelver and Below: The Shattered Obelisk | Episode 42: The Endless Void — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2025-01-22 — Vampire the Masquerade: Transylvania Chronicles | Episode 9: Heart of the Land — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Violin Veil Mindfulness Harp, Fantasy Complete
-- 2025-01-17 — Vampire the Masquerade: Transylvania Chronicles | Act 1: Epilogue — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-12-25 — Vampire the Masquerade: Transylvania Chronicles | Episode 8: Moment of Truth — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-12-24 — Phandelver and Below: The Shattered Obelisk | Episode 41: Into the Briny Pool — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2024-12-18 — Vampire the Masquerade: Transylvania Chronicles | Episode 7: Fire and Faith — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-12-16 — Phandelver and Below: The Shattered Obelisk | Episode 40: The Scar — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot, Robin Holford, Dork Tales Merch, Tim Kulig Free
-- 2024-12-11 — Vampire the Masquerade: Transylvania Chronicles | Episode 6: Death and Taxes — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-12-09 — Phandelver and Below: The Shattered Obelisk | Episode 39: The Dragon's Den — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-11-18 — Phandelver and Below: The Shattered Obelisk | Episode 38: The Briny Maze — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-11-13 — Vampire the Masquerade: Transylvania Chronicles | Episode 5: The Night Visitor — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-11-06 — Vampire the Masquerade: Transylvania Chronicles | Episode 4: The Ruins — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-11-04 — Phandelver and Below: The Shattered Obelisk | Episode 37: Opening the Gateway — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-10-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 3: On the Road — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Barren Outlandish, Fantasy Complete
-- 2024-10-29 — Phandelver and Below: The Shattered Obelisk | Episode 36: The Feeding Pool — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Barren
-- 2024-10-23 — Vampire the Masquerade: Transylvania Chronicles | Episode 2: The Request — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Fantasy Complete, Kevin MacLeod
-- 2024-10-21 — Phandelver and Below: The Shattered Obelisk | Episode 35: Illithinoch — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Barren
-- 2024-10-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 1: Dark Tides Rising — speakers: Dark Tides, Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Barren Old Town Spires
-- 2024-10-09 — Vampire the Masquerade: Transylvania Chronicles | Episode 0: Meet the Cast — speakers: Dork Tales, Kelly Clark, Chris Blogg, Rainald von Eggenberg, Robin Holford, Fyodorov Kal Vincent, Kevin MacLeod
-- 2024-10-07 — Phandelver and Below: The Shattered Obelisk | Episode 34: Shadow Over Phandalin — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Barren
-- 2024-09-24 — Phandelver and Below: The Shattered Obelisk | Episode 33: The Odd Cow — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-09-21 — Mage the Ascension the Victorian Age | Book Two, Chapter Seven: The Lady & Dr. Escoffier — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-09-16 — Phandelver and Below: The Shattered Obelisk | Episode 31: The Final Fragment — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-09-14 — Mage the Ascension the Victorian Age | Book Two, Chapter Six: The Quiet Place — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-09-10 — Phandelver and Below: The Shattered Obelisk | Episode 31: Gibbet Crossing — speakers: Gibbet Crossing, Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-09-07 — Mage the Ascension the Victorian Age | Book Two, Chapter Five: Reminiscence — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-08-26 — Phandelver and Below: The Shattered Obelisk | Episode 30: Haunted Hall — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Barren Licensed
-- 2024-08-19 — Phandelver and Below: The Shattered Obelisk | Episode 29: The Architect's Tomb — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Licensed
-- 2024-08-15 — The World Below: Down in the Deep | Episode 4: The Kalm — speakers: Kelly Clark, Kal Vincent Chris Blogg, Dork Tales Merch
-- 2024-08-15 — The World Below: Down in the Deep | Episode 3: The White City — speakers: Kelly Clark, Kal Vincent Chris Blogg, Dork Tales Merch
-- 2024-08-15 — The World Below: Down in the Deep | Episode 2: The Forgotten Path — speakers: Kelly Clark, Kal Vincent Chris Blogg, Kerfuffle Watch, Dork Tales Merch
-- 2024-08-15 — The World Below: Down in the Deep | Episode 1: A Simple Favor — speakers: Kelly Clark, Kal Vincent Chris Blogg, Kerfuffle Watch, Dork Tales Merch
-- 2024-08-15 — The World Below | Session 0: Character Creation — speakers: Kelly Clark, Kal Vincent Chris Blogg, Kerfuffle Watch, Dork Tales Merch
-- 2024-08-15 — Phandelver and Below: The Shattered Obelisk | Episode 28: The Honored Dead — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Piano
-- 2024-07-22 — Phandelver and Below: The Shattered Obelisk | Episode 27: Purifying the Crypt — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Piano
-- 2024-07-20 — Mage the Ascension the Victorian Age | Book Two, Chapter Four: The Man in the Iron Mask — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-07-15 — Phandelver and Below: The Shattered Obelisk | Episode 26: Crypt of the Talhund — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Piano
-- 2024-07-13 — Mage the Ascension the Victorian Age | Book Two, Chapter Three: All for One — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-07-10 — Phandelver and Below: The Shattered Obelisk | Episode 25: A Common Enemy — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Licensed
-- 2024-06-24 — Phandelver and Below: The Shattered Obelisk | Episode 24: The Brothers Henlifel — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Innocuous Barren
-- 2024-06-21 — Mage the Ascension the Victorian Age | Book Two, Chapter Two: The Voice in the Walls — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-06-17 — Phandelver and Below: The Shattered Obelisk | Episode 23: Cult of the Obelisk — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Ambience Licensed
-- 2024-06-15 — Mage the Ascension the Victorian Age | Book 2, Chapter One: A Perfect Day in Paris — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Roger Ancient
-- 2024-06-13 — Mage the Ascension the Victorian Age | Darcie's Seeking | Bonus Episode — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Michael Ilott, Dork Tales Merch, Rafael Krux
-- 2024-06-09 — Mage the Ascension the Victorian Age | Evelyn's Seeking | Bonus Episode — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Michael Ilott, Dork Tales Merch, Rafael Krux, Orchestra Ambience Ether Lighthearted
-- 2024-06-07 — Mage the Ascension the Victorian Age | Book Two: Prologue — speakers: Dork Tales, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2024-06-05 — Mage the Ascension the Victorian Age | Josephine's Seeking | Bonus Episode — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Michael Ilott, Dork Tales Merch, Rafael Krux, Orchestra Ambience
-- 2024-05-27 — Phandelver and Below: The Shattered Obelisk | Episode 22: Talhundereth — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-05-20 — Phandelver and Below: The Shattered Obelisk | Episode 21: The Sinister Truth — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Raid Licensed
-- 2024-05-13 — Phandelver and Below: The Shattered Obelisk | Episode 20: Sanctum Showdown — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Npc Licensed
-- 2024-05-07 — Phandelver and Below: The Shattered Obelisk | Episode 19: The Murmuring Jar — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Kevin MacLeod
-- 2024-04-29 — Phandelver and Below: The Shattered Obelisk | Episode 18: Zorzula's Rest — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Kevin MacLeod
-- 2024-04-22 — Phandelver and Below: The Shattered Obelisk | Episode 17: Stolen Shards — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Kevin MacLeod
-- 2024-04-08 — Phandelver and Below: The Shattered Obelisk | Episode 16: Crimes and Chaos — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-04-01 — Phandelver and Below: The Shattered Obelisk | Episode 15: Paths of Peril — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-03-25 — Phandelver and Below: The Shattered Obelisk | How to Run Lost Mine of Phandelver (Chapters 1-4) — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-03-18 — Phandelver and Below: The Shattered Obelisk | Episode 14: Nezznar the Spider — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Mei Choir Arcane Licensed
-- 2024-03-11 — Phandelver and Below: The Shattered Obelisk | Episode 13: Wave Echo Cave — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Loop Licensed
-- 2024-03-07 — Phandelver and Below: The Shattered Obelisk | Episode 12: A Lost Mine — speakers: King Grohl, Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-02-26 — Phandelver and Below: The Shattered Obelisk | Episode 11: Cragmaw Castle — speakers: Cragmaw Castle, Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-02-19 — Phandelver and Below: The Shattered Obelisk | Episode 10: The Road to Cragmaw — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Npc Licensed
-- 2024-02-16 — Phandelver and Below: The Shattered Obelisk | Intermission: Check-in with the Cast — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-02-13 — Phandelver and Below: The Shattered Obelisk | Episode 9: Agatha's Lair — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-02-05 — Phandelver and Below: The Shattered Obelisk | Episode 8: Venomfang — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Licensed
-- 2024-01-29 — Phandelver and Below: The Shattered Obelisk | Episode 7: Ruins of Thundertree — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Licensed
-- 2024-01-22 — Phandelver and Below: The Shattered Obelisk | Episode 6: The Spider’s Web — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Arcane Licensed
-- 2024-01-17 — Phandelver and Below: The Shattered Obelisk | How to Run Chapters 1 & 2 — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-01-15 — Phandelver and Below: The Shattered Obelisk | Episode 5: Tresendar Manor — speakers: Tresendar Manor, Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-01-13 — Phandelver and Below: The Shattered Obelisk | Episode 4: Redbrand Ruffians — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2024-01-01 — Phandelver and Below: The Shattered Obelisk | Episode 3: Welcome to Phandalin — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-12-25 — Phandelver and Below: The Shattered Obelisk | Episode 2: Cragmaw Hideout — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Raid Licensed
-- 2023-12-19 — Phandelver and Below: The Shattered Obelisk | Episode 1: A Dangerous Journey — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Raid Licensed
-- 2023-12-13 — Dragonlance: Shadow of the Dragon Queen | Episode 40: Clash of Fallen Flames (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-12-06 — Dragonlance: Shadow of the Dragon Queen | Episode 39: Knight of the Black Rose (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-12-06 — Phandelver and Below: The Shattered Obelisk | Episode 0: Meet the Cast — speakers: Kelly Clark, Cast Amy Godfrey, Lyric Christa Mitchell, Lady Ellasandra Chris Ross, Anthea Briarfoot Watch, Dork Tales Merch, Tim Kulig Free, Fantasy Complete
-- 2023-11-29 — Dragonlance: Shadow of the Dragon Queen | Episode 38: Bastion of Takhisis (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-11-22 — Dragonlance: Shadow of the Dragon Queen | How to Run Chapter 7 (Part One) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-11-21 — Dragonlance: Shadow of the Dragon Queen | Episode 37: The Flying Citadel (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-11-10 — Mage the Ascension the Victorian Age | Chapter 18: Goodbye to Witch and Wen — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-11-09 — Mage the Ascension the Victorian Age | Chapter 17: Ouroboros — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-11-08 — Dragonlance: Shadow of the Dragon Queen | Episode 36: Flight of the Dragonnels (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-11-02 — Dragonlance: Shadow of the Dragon Queen | Episode 35: Battle of Kalaman (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-10-27 — Mage the Ascension the Victorian Age | Chapter 16: When Everything is Theatre — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Liron Free
-- 2023-10-25 — Dragonlance: Shadow of the Dragon Queen | Episode 34: Night of Terror (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-10-20 — Mage the Ascension the Victorian Age | Chapter 15: Being for the Benefit of the Killer — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-10-18 — Dragonlance: Shadow of the Dragon Queen | Episode 33: Siege of Kalaman (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-10-13 — Mage the Ascension the Victorian Age | Chapter 14: Inquest at the Tower of London — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Rafael Krux, song land-o
-- 2023-10-11 — Dragonlance: Shadow of the Dragon Queen | Episode 32: A New Threat (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-09-29 — Mage the Ascension the Victorian Age | Chapter 13: Decisions, Decisions, Decisions — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-09-27 — Dragonlance: Shadow of the Dragon Queen | Episode 31: Threshold of the Heavens (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-09-22 — Mage the Ascension the Victorian Age | Chapter 12: Mr. James Morgan — speakers: James Morgan, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-09-21 — Dragonlance: Shadow of the Dragon Queen | Episode 30: Restoring the Lance (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-09-15 — Mage the Ascension the Victorian Age | Chapter 11: The Lazarene — speakers: Willie Burke, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-09-13 — Dragonlance: Shadow of the Dragon Queen | Episode 29: Temple of Paladine(LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-09-13 — Mage the Ascension the Victorian Age | Chapter 10: The Newborn — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-09-09 — Dragonlance: Shadow of the Dragon Queen | Episode 28: Test of High Sorcery (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-09-01 — Mage the Ascension the Victorian Age | Chapter 9: The Resurrection of Gilbert Saxon — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-08-30 — Dragonlance: Shadow of the Dragon Queen | Episode 27: Ghosts of the Past (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-08-25 — Mage the Ascension the Victorian Age | Chapter 8: Absinthe, Danger, and Other Invigorants — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Ambience Orchestra
-- 2023-08-24 — Dragonlance: Shadow of the Dragon Queen | Episode 26: Path of Memories (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-08-18 — Mage the Ascension the Victorian Age | Chapter 7: A Spirited Discourse on Time Travel — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Chonguri Paradigm
-- 2023-08-16 — Dragonlance: Shadow of the Dragon Queen | Episode 25: Attack on Wind’s End (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-08-11 — Mage the Ascension the Victorian Age | Chapter 6: A Walk After the Fire — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Horror Stand
-- 2023-08-10 — Dragonlance: Shadow of the Dragon Queen | Episode 24: Camp Carrionclay (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-08-04 — Mage the Ascension the Victorian Age | Chapter 5: A Race Against Time — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Horror Stand
-- 2023-08-03 — Dragonlance: Shadow of the Dragon Queen | Episode 23: Heart’s Hollow (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-07-26 — Dragonlance: Shadow of the Dragon Queen | Episode 22: A Second Quest (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-07-21 — Mage the Ascension the Victorian Age | Chapter 4: The Devil’s Hands — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch, Horror Stand
-- 2023-07-19 — Dragonlance: Shadow of the Dragon Queen | Episode 21: The Doomed Mausoleum (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-07-14 — Mage the Ascension the Victorian Age | Chapter 3: In Which A Gruesome Murder is Investigated — speakers: Content Warnings, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-07-12 — Dragonlance: Shadow of the Dragon Queen | Episode 20: Wakenreth (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-07-07 — Mage the Ascension the Victorian Age | Chapter 2: In Which Our Heroines Form Bonds... — speakers: Content Warnings, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-07-05 — Dragonlance: Shadow of the Dragon Queen | Episode 19: Shard of Chaos (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-06-30 — Mage the Ascension the Victorian Age | Chapter 1: A Most Peculiar Set of Circumstances — speakers: Content Warnings, Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-06-28 — Dragonlance: Shadow of the Dragon Queen | Episode 18: Sunward Fortress (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-06-24 — Mage the Ascension the Victorian Age | Book One: The Devil and the Doves | Episode 0: Meet the Cast — speakers: Kelly Clark, Goodwin Robin Holford, Evelyn Taylor, Dork Tales Merch
-- 2023-06-22 — Dragonlance: Shadow of the Dragon Queen | Episode 17: Habbakuk’s Blessing (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-06-14 — Dragonlance: Shadow of the Dragon Queen | Episode 16: The Blue Phoenix Shrine (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-06-09 — Dragonlance: Shadow of the Dragon Queen | How to Run Chapter 4 — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-06-07 — Dragonlance: Shadow of the Dragon Queen | Episode 15: Exploring the Wastes (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, Dork Tales Merch, Tim Kulig Free
-- 2023-05-31 — Dragonlance: Shadow of the Dragon Queen | Episode 14: The Northern Wastes (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-05-24 — Dragonlance: Shadow of the Dragon Queen | Episode 13: Lord Soth’s Curse (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-05-17 — Dragonlance: Shadow of the Dragon Queen | Episode 12: The Lord’s Arrival (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-05-12 — Spelljammer: Light of Xaryxis | Chapter 12: Light of Xaryxis (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-05-10 — Dragonlance: Shadow of the Dragon Queen | Episode 11: Battle At Steel Springs (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-05-06 — Call of the Netherdeep | Episode 33 (Part Two): Heart of Despair — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-05-06 — Call of the Netherdeep | Episode 33 (Part One): Chasm of Yearning — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-05-05 — Spelljammer: Light of Xaryxis | Chapter 11: Crowning Moment (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-05-03 — Dragonlance: Shadow of the Dragon Queen | Episode 10: Wheelwatch Outpost (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-04-28 — Spelljammer: Light of Xaryxis | Chapter 10: Space Invaders (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-04-27 — Dragonlance: Shadow of the Dragon Queen | Episode 9: Missions for Kalaman (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-04-21 — Spelljammer: Light of Xaryxis | Chapter 9: Discord and Diplomacy (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-04-20 — Dragonlance: Shadow of the Dragon Queen | Episode 8: The First Mission (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-04-14 — Spelljammer: Light of Xaryxis | Chapter 8: Arena of Blood (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-04-13 — Dragonlance: Shadow of the Dragon Queen | Episode 7: Reporting for Duty (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-04-09 — The Reign of Emrys | Episode 26 | For the Throne (Pt. 2B) — speakers: Lucia Merovech, tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Kevin MacLeod
-- 2023-04-07 — The Reign of Emrys | Episode 26 | For the Throne (Pt. 2A) — speakers: Lucia Merovech, tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Kevin MacLeod
-- 2023-04-05 — Dragonlance: Shadow of the Dragon Queen | Episode 6: Shadow of War (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-04-02 — Spelljammer: Light of Xaryxis | Chapter 7: Trust Issues (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-03-31 — The Reign of Emrys | Episode 25 | For the Throne (Pt. 1) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Kevin MacLeod, Dark Fantasy Studio
-- 2023-03-30 — Dragonlance: Shadow of the Dragon Queen | How to Run the Preludes & Chapter 3 — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-03-25 — Dragonlance: Shadow of the Dragon Queen | Episode 5: When Home Burns (LIVE) — speakers: Home Burns, Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales
-- 2023-03-17 — The Reign of Emrys | Episode 24 | Sacrifice (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-03-17 — Dragonlance: Shadow of the Dragon Queen | Episode 4: Voice of War (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-03-13 — Spelljammer: Light of Xaryxis | Chapter 6: Grave Alliance (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-03-10 — The Reign of Emrys | Episode 23 | The Crucible (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-03-10 — Dragonlance: Shadow of the Dragon Queen | Episode 3: Betrayal at High Hill (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-03-04 — Spelljammer: Light of Xaryxis | Chapter 5: Living on the Edge (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-03-03 — The Reign of Emrys | Episode 22 | On The Run (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-03-02 — Dragonlance: Shadow of the Dragon Queen | Episode 2: Final Farewell (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-02-24 — The Reign of Emrys | Episode 21 | Where Our Paths Joined (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Myst Mindhunter
-- 2023-02-23 — Dragonlance: Shadow of the Dragon Queen | Episode 1: Prelude to War (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-02-17 — The Reign of Emrys | Episode 20 | Blood on the Black Door (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Bfg Mindhunter Experiment
-- 2023-02-16 — Dragonlance: Shadow of the Dragon Queen | Episode 0: Meet the Cast (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Highvalor Robin Holford, Rizira Moonbrush Jen Peters, Kelara Kalin Vincent, Aurontiros Watch, tv dorktales, Dork Tales Merch
-- 2023-02-14 — Call of the Netherdeep | Episode 32: Spear of the Apotheon (LIVE) — speakers: Theo Nathope, Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn
-- 2023-02-11 — Spelljammer: Light of Xaryxis | Chapter 4B: The Second Wind (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-02-10 — The Reign of Emrys | Episode 19 | One Wild Knight (LIVE) — speakers: Accario Merovech, tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-02-03 — The Reign of Emrys | Episode 18 | Kingdom of the Dead (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-02-02 — Call of the Netherdeep | Episode 31: Vents of Fury (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-01-27 — The Reign of Emrys | Episode 17 | Hell on Ylos (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Aretes Kevin MacLeod
-- 2023-01-26 — Spelljammer: Light of Xaryxis | Chapter 4: A Friend Indeed (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-01-25 — Spelljammer: Light of Xaryxis | How To Run Part One: Seeds of Destruction (Ch. 1-3) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2023-01-25 — Call of the Netherdeep | Episode 30: Battle At Betrayers’ Rise (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-01-17 — Call of the Netherdeep | Episode 29: Haunted Ashes (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-01-13 — The Reign of Emrys | Episode 16 | The Last Gift (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-01-13 — Call of the Netherdeep | Episode 28: Grottoes of Regret (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2023-01-13 — The Reign of Emrys | Episode 15 | The Doors of Vex Nergali (LIVE) — speakers: Vex Nergali, tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2023-01-04 — Call of the Netherdeep | Episode 27: The Netherdeep (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-12-30 — The Reign of Emrys | Episode 14 | In The Blood (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-12-29 — Call of the Netherdeep | How to Run Chapter Five | Advice & Chat (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-12-23 — The Reign of Emrys | Episode 13 | The Maiden’s Lament (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Dark Fantasy Studio Licensed
-- 2022-12-21 — Call of the Netherdeep | Episode 26: Destroy the Netherdeep (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-12-16 — The Reign of Emrys | Episode 12 | The Trial of Aurianna Otker (LIVE) — speakers: Aurianna Otker, tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux, Dark Fantasy Studio Licensed
-- 2022-12-15 — Call of the Netherdeep | Episode 25: Ruidium Monopoly (LIVE) — speakers: Cael Morrow, Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn
-- 2022-12-03 — The Reign of Emrys | Episode 11 | The Hidden Laboratory (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Dark Fantasy Studio Licensed
-- 2022-11-30 — Call of the Netherdeep | Episode 24: The Proxies of Prolix (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-11-25 — The Reign of Emrys | Episode 10 | The Chor Mines (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-11-23 — Call of the Netherdeep | Episode 23: Warring Destinies (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-11-18 — The Reign of Emrys | Episode 9 | The Forgotten Town (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2022-11-15 — Call of the Netherdeep | Episode 22: Temple of the Arch Heart (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-11-10 — The Reign of Emrys | Episode 8 | The Old Country (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2022-11-01 — Call of the Netherdeep | Episode 21: Key to the Netherdeep (LIVE) — speakers: Dork Tales, Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn
-- 2022-10-30 — Spelljammer: Light of Xaryxis | Chapter 3: Treacherous Salvage (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2022-10-28 — The Reign of Emrys | Episode 7 | The Imperial Magus (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod, Rafael Krux
-- 2022-10-25 — Call of the Netherdeep | Episode 20: Enemies of Our Enemies (LIVE) — speakers: Dork Tales, Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn
-- 2022-10-20 — The Reign of Emrys | Episode 6 | The Special Delivery (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-10-18 — Call of the Netherdeep | Episode 19: Uncharted Waters (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-10-14 — The Reign of Emrys | Episode 5 | Down in the Dark (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-10-12 — Call of the Netherdeep | Episode 18: The Drowned City (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-10-09 — Spelljammer: Light of Xaryxis | Chapter 2: Attack of the Star Moth | LIVE RECORDING — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2022-10-07 — The Reign of Emrys | Episode 4 | Trouble in the Deep (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada Link, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-10-04 — Call of the Netherdeep | How to Run Chapter Four | Advice & Chat (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-09-30 — The Reign of Emrys | Episode 3 | An Unexpected Stop (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Alexander Nakarada Link, Rafael Krux
-- 2022-09-27 — Call of the Netherdeep | Episode 17: Alliance Allegiance (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-09-25 — Spelljammer: Light of Xaryxis | Chapter 1: Astral Rain | LIVE RECORDING — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, Dork Tales Merch
-- 2022-09-23 — The Reign of Emrys | Episode 2 | Fateful Encounter (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod
-- 2022-09-21 — Call of the Netherdeep | Episode 16: A Half-Baked Scheme (LIVE) — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-09-16 — The Reign of Emrys | Episode 1 | First Steps (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada, Vocis Kevin MacLeod, Aretes Kevin MacLeod, Dark Fantasy Studio Licensed
-- 2022-09-16 — The Reign of Emrys | Episode 0 | Meet the Cast and Worldbuilding (LIVE) — speakers: tv dorktales, Dork Tales Merch, Character Art, Alexander Nakarada
-- 2022-09-13 — Call of the Netherdeep | Episode 15: A Ghost in Our Midst | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-09-11 — Spelljammer: Light of Xaryxis | Session 0: Meet the Cast | LIVE RECORDING — speakers: Kelly Clark, Cast Amy Godfrey, Mulj Plava, Michael Ilott, Cheshire Christa Mitchell, Francis Ponsoby Watch, tv dorktales, tales Follow
-- 2022-09-07 — Call of the Netherdeep | Episode 14: Into the Life Dome | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-08-24 — Call of the Netherdeep | Episode 13: Knowledge is Power | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-08-17 — DJ Dorlen Wildrock: The Kaeko Box (Oaf Remix) — speakers: Dorlen Wildrock, Oaf Remix, Kaeko Box, Amazing Christa Mitchell, Dirty Electro Sport Beat
-- 2022-08-16 — Call of the Netherdeep | Episode 12: What Lies Beneath | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn, Christine Rattray
-- 2022-07-26 — Call of the Netherdeep | Episode 11: The Jewel of Hope | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-07-19 — Call of the Netherdeep | How to Run Chapter Three | Advice & Chat — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-07-12 — Call of the Netherdeep | Episode 10: The Jewel Awakens | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-07-08 — Wild Beyond the Witchlight | How to Run Chapter Five & Adventure Retrospective — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-07-04 — Call of the Netherdeep | Episode 9: Blood Font of the Ruiner | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-07-02 — Wild Beyond the Witchlight | Episode 25: Beware the Jabberwock! — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-06-24 — Wild Beyond the Witchlight | Episode 24: Palace of Heart’s Desire — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-06-21 — Call of the Netherdeep | Episode 8: Path of Emptiness | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-06-17 — Wild Beyond the Witchlight | How to Run Chapter Four (Bonus Episode) — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Gwendolwynne Shafra Caitlan Vinkle, Dork Tales Merch
-- 2022-06-14 — Call of the Netherdeep | Episode 7: Betrayer’s Rise | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-06-10 — Wild Beyond the Witchlight | Episode 23: Leaving Yon — speakers: Leaving Yon, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2022-06-07 — Call of the Netherdeep | Episode 6: Bazzoxan | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-06-03 — Wild Beyond the Witchlight | Episode 22: Unhappy Endings — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-05-31 — Call of the Netherdeep | Episode 5: No Time for Pleasantries | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-05-26 — Call of the Netherdeep | Episode 4: The Road to Bazzoxan | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-05-26 — Call of the Netherdeep | How to Run Chapter Two | Advice & Chat — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-05-20 — Wild Beyond the Witchlight | Episode 21: Endelyn’s Verdict — speakers: Endelyn’s Verdict, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2022-05-13 — Wild Beyond the Witchlight | Episode 20: A Tragedy in the Making — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-05-03 — Call of the Netherdeep | How to Run Chapter One | Advice & Chat — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-04-29 — Wild Beyond the Witchlight | Episode 19: Bee Yourself — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-04-29 — Call of the Netherdeep | Episode 3: The Leave-Taking | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-04-20 — Call of the Netherdeep | Episode 2: The Emerald Grotto | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, Dork Tales Merch
-- 2022-04-13 — Call of the Netherdeep | Episode 1: A Fateful Competition | LIVE RECORDING — speakers: Kelly Clark, Chris Blogg, Dorlen Wildrock, Robin Holford, Kaeko Skaar Christa Mitchell, Sabina Moorden Caitlan Vinkle, Xarria Rainn Watch, tv dorktales
-- 2022-04-08 — Wild Beyond the Witchlight | Episode 18: Lighting the Beacons — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-04-01 — Wild Beyond the Witchlight | Episode 17: Yon — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
+- 2026-03-03 — Vecna: Eve of Ruin | Episode 26: Tomb of Wayward Souls — speakers: Wayward Souls Vecna
+- 2026-02-23 — Vecna: Eve of Ruin | Episode 25: Master of Past and Present — speakers: Present Vecna
+- 2026-02-17 — Vecna: Eve of Ruin | Episode 24: The Cursed Keep
+- 2026-02-09 — Vecna: Eve of Ruin | Episode 23: A Fight in the Fens — speakers: Fens Vecna
+- 2026-02-04 — Technocracy: Zero Sum | Epilogue: Consensus Protocol — speakers: Zero Sum, Consensus Protocol Welcome, Jen Peters
+- 2026-02-02 — Vecna: Eve of Ruin | Episode 22: A Chaos of Kenders — speakers: Kenders Vecna
+- 2026-01-28 — Technocracy: Zero Sum | Episode 16: Sunfall
+- 2026-01-26 — Vecna: Eve of Ruin | Episode 21: Master of the Death House — speakers: Death House Vecna
+- 2026-01-21 — Technocracy: Zero Sum | Episode 15: We Are the Hollow Men — speakers: Zero Sum, Hollow Men Welcome, Jen Peters
+- 2026-01-19 — Vecna: Eve of Ruin | Episode 20: The Darklord's Shrine — speakers: Shrine Vecna
+- 2026-01-12 — Vecna: Eve of Ruin | Episode 19: The Family Crypts
+- 2026-01-05 — Vecna: Eve of Ruin | Episode 18: Death House — speakers: Death House Vecna
+- 2026-01-03 — Technocracy: Zero Sum | Episode 14: #DATASPACE
+- 2025-12-29 — Vecna: Eve of Ruin | Episode 17: Unwelcome Party — speakers: Unwelcome Party Vecna
+- 2025-12-22 — Vecna: Eve of Ruin | Episode 16: The Greymatter Engine
+- 2025-12-17 — Technocracy: Zero Sum | Episode 13: Tinfoil Hats — speakers: Zero Sum, Tinfoil Hats Welcome, Jen Peters
+- 2025-12-15 — Vecna: Eve of Ruin | Episode 15: Blades in the Throat — speakers: Throat Vecna
+- 2025-12-08 — Vecna: Eve of Ruin | Episode 14: Landro the Colossus
+- 2025-12-03 — Technocracy: Zero Sum | Episode 12: Howl of the Wyrm — speakers: Zero Sum, Wyrm Welcome, Jen Peters
+- 2025-12-01 — Vecna: Eve of Ruin | Episode 13: Settling the Dispute — speakers: Dispute Vecna
+- 2025-11-24 — Vecna: Eve of Ruin | Episode 12: Mount Ironrot — speakers: Mount Ironrot Vecna
+- 2025-11-20 — Technocracy: Zero Sum | Episode 11: Black Box KIBO — speakers: Black Box Kibo
+- 2025-11-17 — Vecna: Eve of Ruin | Episode 11: Heart of Havock — speakers: Havock Vecna
+- 2025-11-10 — Vecna: Eve of Ruin | Episode 10: Stalkers in the Stars — speakers: Stars Vecna
+- 2025-11-05 — Technocracy: Zero Sum | Episode 10: NULL
+- 2025-11-04 — Vecna: Eve of Ruin | Episode 9: Wreck of the Lambent Zenith — speakers: Lambent Zenith Vecna
+- 2025-10-29 — Technocracy: Zero Sum | Heather's Seeking
+- 2025-10-27 — Vecna: Eve of Ruin | Episode 8: A Doorway to Space — speakers: Space Vecna
+- 2025-10-20 — Vecna: Eve of Ruin | Episode 7: Ker-Arach's Web — speakers: Web Vecna
+- 2025-10-15 — Technocracy: Zero Sum | Episode 09: Episode 09: Echoes of the Void — speakers: Zero Sum, Void Welcome, Jen Peters
+- 2025-10-13 — Vecna: Eve of Ruin | Episode 6: Toward Web's Edge — speakers: Toward Web, Edge Vecna
+- 2025-10-10 — Vampire the Masquerade: Transylvania Chronicles | Episode 25: A Visitor and a Proposal — speakers: Transylvania Chronicles, Proposal Welcome
+- 2025-10-06 — Vecna: Eve of Ruin | Episode 5: The Wizards Three
+- 2025-10-01 — Technocracy: Zero Sum | Episode 08: Trusting the Algorithm — speakers: Zero Sum, Algorithm Welcome, Jen Peters
+- 2025-09-29 — Vecna: Eve of Ruin | Episode 4: The Corpse Market
+- 2025-09-22 — Vecna: Eve of Ruin | Episode 3: Return From Neverdeath Graveyard
+- 2025-09-17 — Technocracy: Zero Sum | Episode 07: The Fall of Balador — speakers: Zero Sum, Balador Welcome, Jen Peters
+- 2025-09-15 — Vecna: Eve of Ruin | Episode 2: The Power of Secrets — speakers: Secrets Vecna
+- 2025-09-08 — Vecna: Eve of Ruin | Episode 1: Danger to the Multiverse
+- 2025-09-04 — Technocracy: Zero Sum | Nolan's Seeking — speakers: Zero Sum, Seeking Welcome, Jen Peters
+- 2025-09-01 — Vecna: Eve of Ruin | Session 0: Meet the Cast — speakers: Cast Welcome
+- 2025-08-27 — Vampire the Masquerade: Transylvania Chronicles | Episode 24: Unwelcome Receptions — speakers: Nova Arpad
+- 2025-08-20 — Technocracy: Zero Sum | Episode 06: Behind the Stars — speakers: Zero Sum, Stars Welcome, Jen Peters
+- 2025-08-13 — Vampire the Masquerade: Transylvania Chronicles | Episode 23: Interruption by Fire — speakers: Transylvania Chronicles, Fire Welcome
+- 2025-08-06 — Technocracy: Zero Sum | Episode 05: In the Leviathan's Shadow
+- 2025-07-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 22: An Evening with the Traveling Folk
+- 2025-07-23 — Technocracy: Zero Sum | Episode 04: The Word of the Sphinx — speakers: Zero Sum, Sphinx Welcome, Jen Peters
+- 2025-07-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 21: Among the Arpad — speakers: Nova Arpad
+- 2025-07-10 — Technocracy: Zero Sum | Episode 03: Information Paradox — speakers: Zero Sum, Information Paradox Welcome, Jen Peters
+- 2025-06-25 — Technocracy: Zero Sum | Episode 02: The Void Above — speakers: Zero Sum, Jen Peters
+- 2025-06-18 — Vampire the Masquerade: Transylvania Chronicles | Episode 20: Confirmation
+- 2025-06-11 — Technocracy: Zero Sum | Episode 01: 20,001 Leagues Under the Sea — speakers: Zero Sum, Leagues Under, Sea Welcome, Jen Peters
+- 2025-06-04 — Vampire the Masquerade: Transylvania Chronicles | Episode 19: The Release — speakers: Transylvania Chronicles
+- 2025-05-28 — Technocracy: Zero Sum | Episode 00: Debrief
+- 2025-05-21 — Vampire the Masquerade: Transylvania Chronicles | Episode 18: Rumors of Things To Come — speakers: Transylvania Chronicles
+- 2025-05-14 — Techocracy: Zero Sum | Pilot (Bonus Episode) — speakers: Zero Sum
+- 2025-05-07 — Vampire the Masquerade: Transylvania Chronicles | Act 2: Epilogue — speakers: Transylvania Chronicles, Epilogue Welcome
+- 2025-04-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 17: The Tremere — speakers: Transylvania Chronicles
+- 2025-04-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 16: The Holy Grail
+- 2025-04-02 — Vampire the Masquerade: Transylvania Chronicles | Episode 15: The Templar's Treasure — speakers: Transylvania Chronicles, Treasure Welcome
+- 2025-03-19 — Vampire the Masquerade: Transylvania Chronicles | Episode 14: A Deadly Burden
+- 2025-03-05 — Vampire the Masquerade: Transylvania Chronicles | Episode 13: The Road to Ceoris — speakers: Transylvania Chronicles, Ceoris Welcome
+- 2025-03-03 — Phandelver and Below: The Shattered Obelisk | Wrap Session & How to Run Chapters 7 & 8 — speakers: Wrap Session, Run Chapters
+- 2025-02-26 — Vampire the Masquerade: Transylvania Chronicles | Episode 12: Goratrix — speakers: Transylvania Chronicles, Goratrix Welcome
+- 2025-02-24 — Phandelver and Below: The Shattered Obelisk | Episode 44: Ilvaash's Refraction — speakers: Guiding Lights
+- 2025-02-21 — Vampire the Masquerade: Transylvania Chronicles | Episode 11: The Prisoner — speakers: Transylvania Chronicles
+- 2025-02-17 — Phandelver and Below: The Shattered Obelisk | Episode 43: The Shattered Obelisk — speakers: Mind Flayer
+- 2025-02-05 — Vampire the Masquerade: Transylvania Chronicles | Episode 10: Challenges
+- 2025-01-28 — Phandelver and Below: The Shattered Obelisk | Episode 42: The Endless Void
+- 2025-01-22 — Vampire the Masquerade: Transylvania Chronicles | Episode 9: Heart of the Land — speakers: Transylvania Chronicles, Land Welcome
+- 2025-01-17 — Vampire the Masquerade: Transylvania Chronicles | Act 1: Epilogue — speakers: Transylvania Chronicles, Epilogue Welcome
+- 2024-12-25 — Vampire the Masquerade: Transylvania Chronicles | Episode 8: Moment of Truth — speakers: Transylvania Chronicles, Truth Welcome
+- 2024-12-24 — Phandelver and Below: The Shattered Obelisk | Episode 41: Into the Briny Pool
+- 2024-12-18 — Vampire the Masquerade: Transylvania Chronicles | Episode 7: Fire and Faith — speakers: Transylvania Chronicles, Faith Welcome
+- 2024-12-16 — Phandelver and Below: The Shattered Obelisk | Episode 40: The Scar
+- 2024-12-11 — Vampire the Masquerade: Transylvania Chronicles | Episode 6: Death and Taxes — speakers: Transylvania Chronicles, Taxes Welcome
+- 2024-12-09 — Phandelver and Below: The Shattered Obelisk | Episode 39: The Dragon's Den
+- 2024-11-18 — Phandelver and Below: The Shattered Obelisk | Episode 38: The Briny Maze
+- 2024-11-13 — Vampire the Masquerade: Transylvania Chronicles | Episode 5: The Night Visitor — speakers: Transylvania Chronicles
+- 2024-11-06 — Vampire the Masquerade: Transylvania Chronicles | Episode 4: The Ruins — speakers: Transylvania Chronicles
+- 2024-11-04 — Phandelver and Below: The Shattered Obelisk | Episode 37: Opening the Gateway
+- 2024-10-30 — Vampire the Masquerade: Transylvania Chronicles | Episode 3: On the Road — speakers: Transylvania Chronicles, Road Welcome
+- 2024-10-29 — Phandelver and Below: The Shattered Obelisk | Episode 36: The Feeding Pool
+- 2024-10-23 — Vampire the Masquerade: Transylvania Chronicles | Episode 2: The Request — speakers: Transylvania Chronicles
+- 2024-10-21 — Phandelver and Below: The Shattered Obelisk | Episode 35: Illithinoch
+- 2024-10-16 — Vampire the Masquerade: Transylvania Chronicles | Episode 1: Dark Tides Rising — speakers: Dark Tides
+- 2024-10-09 — Vampire the Masquerade: Transylvania Chronicles | Episode 0: Meet the Cast
+- 2024-10-07 — Phandelver and Below: The Shattered Obelisk | Episode 34: Shadow Over Phandalin
+- 2024-09-24 — Phandelver and Below: The Shattered Obelisk | Episode 33: The Odd Cow
+- 2024-09-21 — Mage the Ascension the Victorian Age | Book Two, Chapter Seven: The Lady & Dr. Escoffier — speakers: Victorian Age, Book Two, Chapter Seven, Escoffier Welcome
+- 2024-09-16 — Phandelver and Below: The Shattered Obelisk | Episode 31: The Final Fragment
+- 2024-09-14 — Mage the Ascension the Victorian Age | Book Two, Chapter Six: The Quiet Place — speakers: Victorian Age, Book Two, Chapter Six
+- 2024-09-10 — Phandelver and Below: The Shattered Obelisk | Episode 31: Gibbet Crossing — speakers: Gibbet Crossing
+- 2024-09-07 — Mage the Ascension the Victorian Age | Book Two, Chapter Five: Reminiscence — speakers: Victorian Age, Book Two, Chapter Five, Reminiscence Welcome
+- 2024-08-26 — Phandelver and Below: The Shattered Obelisk | Episode 30: Haunted Hall
+- 2024-08-19 — Phandelver and Below: The Shattered Obelisk | Episode 29: The Architect's Tomb
+- 2024-08-15 — The World Below: Down in the Deep | Episode 4: The Kalm — speakers: World Below
+- 2024-08-15 — The World Below: Down in the Deep | Episode 3: The White City — speakers: World Below
+- 2024-08-15 — The World Below: Down in the Deep | Episode 2: The Forgotten Path — speakers: World Below, Onyx Path Publishing
+- 2024-08-15 — The World Below: Down in the Deep | Episode 1: A Simple Favor — speakers: Simple Favor Welcome, World Below, Onyx Path Publishing
+- 2024-08-15 — The World Below | Session 0: Character Creation — speakers: Character Creation Welcome, World Below, Onyx Path Publishing
+- 2024-08-15 — Phandelver and Below: The Shattered Obelisk | Episode 28: The Honored Dead
+- 2024-07-22 — Phandelver and Below: The Shattered Obelisk | Episode 27: Purifying the Crypt
+- 2024-07-20 — Mage the Ascension the Victorian Age | Book Two, Chapter Four: The Man in the Iron Mask — speakers: Victorian Age, Book Two, Chapter Four, Iron Mask Welcome
+- 2024-07-15 — Phandelver and Below: The Shattered Obelisk | Episode 26: Crypt of the Talhund — speakers: Bookwyrm Games
+- 2024-07-13 — Mage the Ascension the Victorian Age | Book Two, Chapter Three: All for One — speakers: Victorian Age, Book Two, Chapter Three, One Welcome
+- 2024-07-10 — Phandelver and Below: The Shattered Obelisk | Episode 25: A Common Enemy
+- 2024-06-24 — Phandelver and Below: The Shattered Obelisk | Episode 24: The Brothers Henlifel
+- 2024-06-21 — Mage the Ascension the Victorian Age | Book Two, Chapter Two: The Voice in the Walls — speakers: Victorian Age, Book Two, Chapter Two, Walls Welcome
+- 2024-06-17 — Phandelver and Below: The Shattered Obelisk | Episode 23: Cult of the Obelisk
+- 2024-06-15 — Mage the Ascension the Victorian Age | Book 2, Chapter One: A Perfect Day in Paris — speakers: Victorian Age, Chapter One, Perfect Day, Paris Welcome
+- 2024-06-13 — Mage the Ascension the Victorian Age | Darcie's Seeking | Bonus Episode
+- 2024-06-09 — Mage the Ascension the Victorian Age | Evelyn's Seeking | Bonus Episode
+- 2024-06-07 — Mage the Ascension the Victorian Age | Book Two: Prologue — speakers: Victorian Age, Book Two, Bookwyrm Games
+- 2024-06-05 — Mage the Ascension the Victorian Age | Josephine's Seeking | Bonus Episode
+- 2024-05-27 — Phandelver and Below: The Shattered Obelisk | Episode 22: Talhundereth
+- 2024-05-20 — Phandelver and Below: The Shattered Obelisk | Episode 21: The Sinister Truth
+- 2024-05-13 — Phandelver and Below: The Shattered Obelisk | Episode 20: Sanctum Showdown
+- 2024-05-07 — Phandelver and Below: The Shattered Obelisk | Episode 19: The Murmuring Jar
+- 2024-04-29 — Phandelver and Below: The Shattered Obelisk | Episode 18: Zorzula's Rest
+- 2024-04-22 — Phandelver and Below: The Shattered Obelisk | Episode 17: Stolen Shards
+- 2024-04-08 — Phandelver and Below: The Shattered Obelisk | Episode 16: Crimes and Chaos
+- 2024-04-01 — Phandelver and Below: The Shattered Obelisk | Episode 15: Paths of Peril
+- 2024-03-25 — Phandelver and Below: The Shattered Obelisk | How to Run Lost Mine of Phandelver (Chapters 1-4) — speakers: Run Lost Mine
+- 2024-03-18 — Phandelver and Below: The Shattered Obelisk | Episode 14: Nezznar the Spider
+- 2024-03-11 — Phandelver and Below: The Shattered Obelisk | Episode 13: Wave Echo Cave — speakers: Wave Echo Cave
+- 2024-03-07 — Phandelver and Below: The Shattered Obelisk | Episode 12: A Lost Mine — speakers: King Grohl
+- 2024-02-26 — Phandelver and Below: The Shattered Obelisk | Episode 11: Cragmaw Castle — speakers: Cragmaw Castle
+- 2024-02-19 — Phandelver and Below: The Shattered Obelisk | Episode 10: The Road to Cragmaw
+- 2024-02-16 — Phandelver and Below: The Shattered Obelisk | Intermission: Check-in with the Cast
+- 2024-02-13 — Phandelver and Below: The Shattered Obelisk | Episode 9: Agatha's Lair
+- 2024-02-05 — Phandelver and Below: The Shattered Obelisk | Episode 8: Venomfang
+- 2024-01-29 — Phandelver and Below: The Shattered Obelisk | Episode 7: Ruins of Thundertree
+- 2024-01-22 — Phandelver and Below: The Shattered Obelisk | Episode 6: The Spider’s Web
+- 2024-01-17 — Phandelver and Below: The Shattered Obelisk | How to Run Chapters 1 & 2 — speakers: Run Chapters
+- 2024-01-15 — Phandelver and Below: The Shattered Obelisk | Episode 5: Tresendar Manor — speakers: Tresendar Manor
+- 2024-01-13 — Phandelver and Below: The Shattered Obelisk | Episode 4: Redbrand Ruffians
+- 2024-01-01 — Phandelver and Below: The Shattered Obelisk | Episode 3: Welcome to Phandalin
+- 2023-12-25 — Phandelver and Below: The Shattered Obelisk | Episode 2: Cragmaw Hideout
+- 2023-12-19 — Phandelver and Below: The Shattered Obelisk | Episode 1: A Dangerous Journey
+- 2023-12-13 — Dragonlance: Shadow of the Dragon Queen | Episode 40: Clash of Fallen Flames (LIVE)
+- 2023-12-06 — Dragonlance: Shadow of the Dragon Queen | Episode 39: Knight of the Black Rose (LIVE)
+- 2023-12-06 — Phandelver and Below: The Shattered Obelisk | Episode 0: Meet the Cast
+- 2023-11-29 — Dragonlance: Shadow of the Dragon Queen | Episode 38: Bastion of Takhisis (LIVE) — speakers: Dragon Queen, Flying Citadel
+- 2023-11-22 — Dragonlance: Shadow of the Dragon Queen | How to Run Chapter 7 (Part One) — speakers: Dragon Queen, Run Chapter
+- 2023-11-21 — Dragonlance: Shadow of the Dragon Queen | Episode 37: The Flying Citadel (LIVE) — speakers: Dragon Queen, Flying Citadel, Bookwyrm Games
+- 2023-11-10 — Mage the Ascension the Victorian Age | Chapter 18: Goodbye to Witch and Wen
+- 2023-11-09 — Mage the Ascension the Victorian Age | Chapter 17: Ouroboros
+- 2023-11-08 — Dragonlance: Shadow of the Dragon Queen | Episode 36: Flight of the Dragonnels (LIVE)
+- 2023-11-02 — Dragonlance: Shadow of the Dragon Queen | Episode 35: Battle of Kalaman (LIVE)
+- 2023-10-27 — Mage the Ascension the Victorian Age | Chapter 16: When Everything is Theatre
+- 2023-10-25 — Dragonlance: Shadow of the Dragon Queen | Episode 34: Night of Terror (LIVE) — speakers: Dragon Queen, Bookwyrm Games
+- 2023-10-20 — Mage the Ascension the Victorian Age | Chapter 15: Being for the Benefit of the Killer
+- 2023-10-18 — Dragonlance: Shadow of the Dragon Queen | Episode 33: Siege of Kalaman (LIVE) — speakers: Dragon Queen, Dragon Army
+- 2023-10-13 — Mage the Ascension the Victorian Age | Chapter 14: Inquest at the Tower of London — speakers: Victorian Age, London Bridge
+- 2023-10-11 — Dragonlance: Shadow of the Dragon Queen | Episode 32: A New Threat (LIVE)
+- 2023-09-29 — Mage the Ascension the Victorian Age | Chapter 13: Decisions, Decisions, Decisions — speakers: Victorian Age
+- 2023-09-27 — Dragonlance: Shadow of the Dragon Queen | Episode 31: Threshold of the Heavens (LIVE)
+- 2023-09-22 — Mage the Ascension the Victorian Age | Chapter 12: Mr. James Morgan — speakers: James Morgan
+- 2023-09-21 — Dragonlance: Shadow of the Dragon Queen | Episode 30: Restoring the Lance (LIVE)
+- 2023-09-15 — Mage the Ascension the Victorian Age | Chapter 11: The Lazarene — speakers: Willie Burke
+- 2023-09-13 — Dragonlance: Shadow of the Dragon Queen | Episode 29: Temple of Paladine(LIVE) — speakers: Dragon Queen, Lost Names
+- 2023-09-13 — Mage the Ascension the Victorian Age | Chapter 10: The Newborn
+- 2023-09-09 — Dragonlance: Shadow of the Dragon Queen | Episode 28: Test of High Sorcery (LIVE)
+- 2023-09-01 — Mage the Ascension the Victorian Age | Chapter 9: The Resurrection of Gilbert Saxon
+- 2023-08-30 — Dragonlance: Shadow of the Dragon Queen | Episode 27: Ghosts of the Past (LIVE) — speakers: Dragon Queen, Lost Names
+- 2023-08-25 — Mage the Ascension the Victorian Age | Chapter 8: Absinthe, Danger, and Other Invigorants
+- 2023-08-24 — Dragonlance: Shadow of the Dragon Queen | Episode 26: Path of Memories (LIVE)
+- 2023-08-18 — Mage the Ascension the Victorian Age | Chapter 7: A Spirited Discourse on Time Travel — speakers: Victorian Age, Spirited Discourse
+- 2023-08-16 — Dragonlance: Shadow of the Dragon Queen | Episode 25: Attack on Wind’s End (LIVE)
+- 2023-08-11 — Mage the Ascension the Victorian Age | Chapter 6: A Walk After the Fire — speakers: Victorian Age, Walk After, Dashwood Manor
+- 2023-08-10 — Dragonlance: Shadow of the Dragon Queen | Episode 24: Camp Carrionclay (LIVE)
+- 2023-08-04 — Mage the Ascension the Victorian Age | Chapter 5: A Race Against Time — speakers: Victorian Age
+- 2023-08-03 — Dragonlance: Shadow of the Dragon Queen | Episode 23: Heart’s Hollow (LIVE) — speakers: Dragon Queen
+- 2023-07-26 — Dragonlance: Shadow of the Dragon Queen | Episode 22: A Second Quest (LIVE)
+- 2023-07-21 — Mage the Ascension the Victorian Age | Chapter 4: The Devil’s Hands
+- 2023-07-19 — Dragonlance: Shadow of the Dragon Queen | Episode 21: The Doomed Mausoleum (LIVE) — speakers: Dragon Queen, Bookwyrm Gam
+- 2023-07-14 — Mage the Ascension the Victorian Age | Chapter 3: In Which A Gruesome Murder is Investigated — speakers: Victorian Age, Gruesome Murder
+- 2023-07-12 — Dragonlance: Shadow of the Dragon Queen | Episode 20: Wakenreth (LIVE)
+- 2023-07-07 — Mage the Ascension the Victorian Age | Chapter 2: In Which Our Heroines Form Bonds...
+- 2023-07-05 — Dragonlance: Shadow of the Dragon Queen | Episode 19: Shard of Chaos (LIVE) — speakers: Dragon Queen, Sunward Fortress
+- 2023-06-30 — Mage the Ascension the Victorian Age | Chapter 1: A Most Peculiar Set of Circumstances — speakers: Victorian Age, Most Peculiar Set
+- 2023-06-28 — Dragonlance: Shadow of the Dragon Queen | Episode 18: Sunward Fortress (LIVE)
+- 2023-06-24 — Mage the Ascension the Victorian Age | Book One: The Devil and the Doves | Episode 0: Meet the Cast — speakers: Victorian Age, Book One
+- 2023-06-22 — Dragonlance: Shadow of the Dragon Queen | Episode 17: Habbakuk’s Blessing (LIVE) — speakers: Dragon Queen
+- 2023-06-14 — Dragonlance: Shadow of the Dragon Queen | Episode 16: The Blue Phoenix Shrine (LIVE)
+- 2023-06-09 — Dragonlance: Shadow of the Dragon Queen | How to Run Chapter 4 — speakers: Dragon Queen, Run Chapter
+- 2023-06-07 — Dragonlance: Shadow of the Dragon Queen | Episode 15: Exploring the Wastes (LIVE)
+- 2023-05-31 — Dragonlance: Shadow of the Dragon Queen | Episode 14: The Northern Wastes (LIVE)
+- 2023-05-24 — Dragonlance: Shadow of the Dragon Queen | Episode 13: Lord Soth’s Curse (LIVE)
+- 2023-05-17 — Dragonlance: Shadow of the Dragon Queen | Episode 12: The Lord’s Arrival (LIVE)
+- 2023-05-12 — Spelljammer: Light of Xaryxis | Chapter 12: Light of Xaryxis (LIVE) — speakers: Kelly Clark, Cast Amy Godfrey
+- 2023-05-10 — Dragonlance: Shadow of the Dragon Queen | Episode 11: Battle At Steel Springs (LIVE)
+- 2023-05-06 — Call of the Netherdeep | Episode 33 (Part Two): Heart of Despair
+- 2023-05-06 — Call of the Netherdeep | Episode 33 (Part One): Chasm of Yearning
+- 2023-05-05 — Spelljammer: Light of Xaryxis | Chapter 11: Crowning Moment (LIVE) — speakers: Crowning Moment
+- 2023-05-03 — Dragonlance: Shadow of the Dragon Queen | Episode 10: Wheelwatch Outpost (LIVE)
+- 2023-04-28 — Spelljammer: Light of Xaryxis | Chapter 10: Space Invaders (LIVE) — speakers: Kelly Clark
+- 2023-04-27 — Dragonlance: Shadow of the Dragon Queen | Episode 9: Missions for Kalaman (LIVE)
+- 2023-04-21 — Spelljammer: Light of Xaryxis | Chapter 9: Discord and Diplomacy (LIVE)
+- 2023-04-20 — Dragonlance: Shadow of the Dragon Queen | Episode 8: The First Mission (LIVE)
+- 2023-04-14 — Spelljammer: Light of Xaryxis | Chapter 8: Arena of Blood (LIVE)
+- 2023-04-13 — Dragonlance: Shadow of the Dragon Queen | Episode 7: Reporting for Duty (LIVE) — speakers: Dragon Queen
+- 2023-04-09 — The Reign of Emrys | Episode 26 | For the Throne (Pt. 2B) — speakers: Lucia Merovech
+- 2023-04-07 — The Reign of Emrys | Episode 26 | For the Throne (Pt. 2A) — speakers: Lucia Merovech
+- 2023-04-05 — Dragonlance: Shadow of the Dragon Queen | Episode 6: Shadow of War (LIVE)
+- 2023-04-02 — Spelljammer: Light of Xaryxis | Chapter 7: Trust Issues (LIVE)
+- 2023-03-31 — The Reign of Emrys | Episode 25 | For the Throne (Pt. 1) — speakers: Fey Wild
+- 2023-03-30 — Dragonlance: Shadow of the Dragon Queen | How to Run the Preludes & Chapter 3 — speakers: Dragon Queen
+- 2023-03-25 — Dragonlance: Shadow of the Dragon Queen | Episode 5: When Home Burns (LIVE) — speakers: Home Burns
+- 2023-03-17 — The Reign of Emrys | Episode 24 | Sacrifice (LIVE)
+- 2023-03-17 — Dragonlance: Shadow of the Dragon Queen | Episode 4: Voice of War (LIVE) — speakers: Dragon Queen, High Hill
+- 2023-03-13 — Spelljammer: Light of Xaryxis | Chapter 6: Grave Alliance (LIVE) — speakers: Kelly Clark
+- 2023-03-10 — The Reign of Emrys | Episode 23 | The Crucible (LIVE)
+- 2023-03-10 — Dragonlance: Shadow of the Dragon Queen | Episode 3: Betrayal at High Hill (LIVE) — speakers: Dragon Queen, High Hill, Kingfisher Festival
+- 2023-03-04 — Spelljammer: Light of Xaryxis | Chapter 5: Living on the Edge (LIVE)
+- 2023-03-03 — The Reign of Emrys | Episode 22 | On The Run (LIVE) — speakers: Belmont Manor
+- 2023-03-02 — Dragonlance: Shadow of the Dragon Queen | Episode 2: Final Farewell (LIVE) — speakers: Dragon Queen, Final Farewell
+- 2023-02-24 — The Reign of Emrys | Episode 21 | Where Our Paths Joined (LIVE)
+- 2023-02-23 — Dragonlance: Shadow of the Dragon Queen | Episode 1: Prelude to War (LIVE) — speakers: Dragon Queen
+- 2023-02-17 — The Reign of Emrys | Episode 20 | Blood on the Black Door (LIVE) — speakers: Black Door
+- 2023-02-16 — Dragonlance: Shadow of the Dragon Queen | Episode 0: Meet the Cast (LIVE) — speakers: Kelly Clark, Chris Blogg, Godfrey Hig
+- 2023-02-14 — Call of the Netherdeep | Episode 32: Spear of the Apotheon (LIVE) — speakers: Theo Nathop
+- 2023-02-11 — Spelljammer: Light of Xaryxis | Chapter 4B: The Second Wind (LIVE) — speakers: Commodore Krux into Wildspace
+- 2023-02-10 — The Reign of Emrys | Episode 19 | One Wild Knight (LIVE) — speakers: Accario Merovech
+- 2023-02-03 — The Reign of Emrys | Episode 18 | Kingdom of the Dead (LIVE)
+- 2023-02-02 — Call of the Netherdeep | Episode 31: Vents of Fury (LIVE)
+- 2023-01-27 — The Reign of Emrys | Episode 17 | Hell on Ylos (LIVE)
+- 2023-01-26 — Spelljammer: Light of Xaryxis | Chapter 4: A Friend Indeed (LIVE)
+- 2023-01-25 — Spelljammer: Light of Xaryxis | How To Run Part One: Seeds of Destruction (Ch. 1-3)
+- 2023-01-25 — Call of the Netherdeep | Episode 30: Battle At Betrayers’ Rise (LIVE) — speakers: Kelly Clark, Cast Chri
+- 2023-01-17 — Call of the Netherdeep | Episode 29: Haunted Ashes (LIVE)
+- 2023-01-13 — The Reign of Emrys | Episode 16 | The Last Gift (LIVE)
+- 2023-01-13 — Call of the Netherdeep | Episode 28: Grottoes of Regret (LIVE) — speakers: Kelly Clark, Cast Ch
+- 2023-01-13 — The Reign of Emrys | Episode 15 | The Doors of Vex Nergali (LIVE) — speakers: Vex Nergali
+- 2023-01-04 — Call of the Netherdeep | Episode 27: The Netherdeep (LIVE)
+- 2022-12-30 — The Reign of Emrys | Episode 14 | In The Blood (LIVE) — speakers: Talfryn's ancestry
+- 2022-12-29 — Call of the Netherdeep | How to Run Chapter Five | Advice & Chat (LIVE) — speakers: Run Chapter Five
+- 2022-12-23 — The Reign of Emrys | Episode 13 | The Maiden’s Lament (LIVE)
+- 2022-12-21 — Call of the Netherdeep | Episode 26: Destroy the Netherdeep (LIVE) — speakers: Kelly Clark
+- 2022-12-16 — The Reign of Emrys | Episode 12 | The Trial of Aurianna Otker (LIVE) — speakers: Aurianna Otker
+- 2022-12-15 — Call of the Netherdeep | Episode 25: Ruidium Monopoly (LIVE) — speakers: Cael Morrow
+- 2022-12-03 — The Reign of Emrys | Episode 11 | The Hidden Laboratory (LIVE)
+- 2022-11-30 — Call of the Netherdeep | Episode 24: The Proxies of Prolix (LIVE)
+- 2022-11-25 — The Reign of Emrys | Episode 10 | The Chor Mines (LIVE)
+- 2022-11-23 — Call of the Netherdeep | Episode 23: Warring Destinies (LIVE)
+- 2022-11-18 — The Reign of Emrys | Episode 9 | The Forgotten Town (LIVE)
+- 2022-11-15 — Call of the Netherdeep | Episode 22: Temple of the Arch Heart (LIVE) — speakers: Kelly Clark
+- 2022-11-10 — The Reign of Emrys | Episode 8 | The Old Country (LIVE)
+- 2022-11-01 — Call of the Netherdeep | Episode 21: Key to the Netherdeep (LIVE) — speakers: Dork Tales
+- 2022-10-30 — Spelljammer: Light of Xaryxis | Chapter 3: Treacherous Salvage (LIVE)
+- 2022-10-28 — The Reign of Emrys | Episode 7 | The Imperial Magus (LIVE)
+- 2022-10-25 — Call of the Netherdeep | Episode 20: Enemies of Our Enemies (LIVE) — speakers: Dork Tales
+- 2022-10-20 — The Reign of Emrys | Episode 6 | The Special Delivery (LIVE)
+- 2022-10-18 — Call of the Netherdeep | Episode 19: Uncharted Waters (LIVE) — speakers: Kelly Clar
+- 2022-10-14 — The Reign of Emrys | Episode 5 | Down in the Dark (LIVE)
+- 2022-10-12 — Call of the Netherdeep | Episode 18: The Drowned City (LIVE) — speakers: Cobalt Soul, Cael Morrow
+- 2022-10-09 — Spelljammer: Light of Xaryxis | Chapter 2: Attack of the Star Moth | LIVE RECORDING — speakers: Star Moth
+- 2022-10-07 — The Reign of Emrys | Episode 4 | Trouble in the Deep (LIVE)
+- 2022-10-04 — Call of the Netherdeep | How to Run Chapter Four | Advice & Chat (LIVE) — speakers: Run Chapter Four
+- 2022-09-30 — The Reign of Emrys | Episode 3 | An Unexpected Stop (LIVE) — speakers: Venn Baelia
+- 2022-09-27 — Call of the Netherdeep | Episode 17: Alliance Allegiance (LIVE) — speakers: interested results
+- 2022-09-25 — Spelljammer: Light of Xaryxis | Chapter 1: Astral Rain | LIVE RECORDING
+- 2022-09-23 — The Reign of Emrys | Episode 2 | Fateful Encounter (LIVE)
+- 2022-09-21 — Call of the Netherdeep | Episode 16: A Half-Baked Scheme (LIVE) — speakers: Baked Scheme
+- 2022-09-16 — The Reign of Emrys | Episode 1 | First Steps (LIVE)
+- 2022-09-16 — The Reign of Emrys | Episode 0 | Meet the Cast and Worldbuilding (LIVE)
+- 2022-09-13 — Call of the Netherdeep | Episode 15: A Ghost in Our Midst | LIVE RECORDING — speakers: Kelly Clark
+- 2022-09-11 — Spelljammer: Light of Xaryxis | Session 0: Meet the Cast | LIVE RECORDING
+- 2022-09-07 — Call of the Netherdeep | Episode 14: Into the Life Dome | LIVE RECORDING — speakers: Life Dome
+- 2022-08-24 — Call of the Netherdeep | Episode 13: Knowledge is Power | LIVE RECORDING
+- 2022-08-17 — DJ Dorlen Wildrock: The Kaeko Box (Oaf Remix) — speakers: Dorlen Wildrock, Oaf Remix, Kaeko Box, Amazing Christa Mitchell, Dirty Electro
+- 2022-08-16 — Call of the Netherdeep | Episode 12: What Lies Beneath | LIVE RECORDING
+- 2022-07-26 — Call of the Netherdeep | Episode 11: The Jewel of Hope | LIVE RECORDING — speakers: Kelly Clark
+- 2022-07-19 — Call of the Netherdeep | How to Run Chapter Three | Advice & Chat — speakers: Run Chapter Three
+- 2022-07-12 — Call of the Netherdeep | Episode 10: The Jewel Awakens | LIVE RECORDING
+- 2022-07-08 — Wild Beyond the Witchlight | How to Run Chapter Five & Adventure Retrospective — speakers: Wild Beyond, Run Chapter Five
+- 2022-07-04 — Call of the Netherdeep | Episode 9: Blood Font of the Ruiner | LIVE RECORDING
+- 2022-07-02 — Wild Beyond the Witchlight | Episode 25: Beware the Jabberwock!
+- 2022-06-24 — Wild Beyond the Witchlight | Episode 24: Palace of Heart’s Desire — speakers: Wild Beyond
+- 2022-06-21 — Call of the Netherdeep | Episode 8: Path of Emptiness | LIVE RECORDING
+- 2022-06-17 — Wild Beyond the Witchlight | How to Run Chapter Four (Bonus Episode) — speakers: Wild Beyond, Run Chapter Four, Chapter Four
+- 2022-06-14 — Call of the Netherdeep | Episode 7: Betrayer’s Rise | LIVE RECORDING
+- 2022-06-10 — Wild Beyond the Witchlight | Episode 23: Leaving Yon — speakers: Leaving Yon
+- 2022-06-07 — Call of the Netherdeep | Episode 6: Bazzoxan | LIVE RECORDING
+- 2022-06-03 — Wild Beyond the Witchlight | Episode 22: Unhappy Endings — speakers: Wild Beyo
+- 2022-05-31 — Call of the Netherdeep | Episode 5: No Time for Pleasantries | LIVE RECORDING — speakers: No Time
+- 2022-05-26 — Call of the Netherdeep | Episode 4: The Road to Bazzoxan | LIVE RECORDING
+- 2022-05-26 — Call of the Netherdeep | How to Run Chapter Two | Advice & Chat — speakers: Run Chapter Two
+- 2022-05-20 — Wild Beyond the Witchlight | Episode 21: Endelyn’s Verdict — speakers: Endelyn’s Verdict
+- 2022-05-13 — Wild Beyond the Witchlight | Episode 20: A Tragedy in the Making
+- 2022-05-03 — Call of the Netherdeep | How to Run Chapter One | Advice & Chat — speakers: Run Chapter One
+- 2022-04-29 — Wild Beyond the Witchlight | Episode 19: Bee Yourself
+- 2022-04-29 — Call of the Netherdeep | Episode 3: The Leave-Taking | LIVE RECORDING
+- 2022-04-20 — Call of the Netherdeep | Episode 2: The Emerald Grotto | LIVE RECORDING
+- 2022-04-13 — Call of the Netherdeep | Episode 1: A Fateful Competition | LIVE RECORDING — speakers: Fateful Competition
+- 2022-04-08 — Wild Beyond the Witchlight | Episode 18: Lighting the Beacons — speakers: Wild Beyond
+- 2022-04-01 — Wild Beyond the Witchlight | Episode 17: Yon
 - 2022-04-01 — ASMR I Run Dungeons & Dragons For You But You Are An AWFUL Player 😱 Dungeon Master Fantasy Roleplay — speakers: Fantasy Roleplay
-- 2022-03-25 — Wild Beyond the Witchlight | How to Run Chapter Three (Bonus Episode) — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Gwendolwynne Shafra Caitlan Vinkle, Dork Tales Merch
-- 2022-03-18 — Wild Beyond the Witchlight | Episode 16: Lost Children — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-03-11 — Wild Beyond the Witchlight | Episode 15: Skabatha Nightshade — speakers: Granny Nightshade, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2022-02-25 — Wild Beyond the Witchlight | Episode 14: The Secret of Wayward Pool — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-02-11 — Wild Beyond the Witchlight | Episode 13: Will of the Fey Wild — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-02-04 — Wild Beyond the Witchlight | Episode 12: Nib’s Cave — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Kevin MacLeod
-- 2022-01-28 — Wild Beyond the Witchlight | Episode 11: Thither — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2022-01-14 — Wild Beyond the Witchlight | How to Run Chapter Two (Bonus Episode) — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2022-01-07 — Wild Beyond the Witchlight | Episode 10: Hither to Thither — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-12-31 — Wild Beyond the Witchlight | Episode 9: Bavlorna’s Hoard — speakers: Bavlorna’s Hoard, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-12-10 — Wild Beyond the Witchlight | Episode 8: Bavlorna‘s Cottage — speakers: Bavlorna Blightstraw, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-12-03 — Wild Beyond the Witchlight | Episode 7: The Soggy Court — speakers: Bavlorna Blightstraw, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-11-25 — Wild Beyond the Witchlight | Episode 6: Downfall — speakers: Bavlorna Blightstraw, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-11-05 — Wild Beyond the Witchlight | Episode 5: Brigand‘s Tollway — speakers: Michael Bubbly, Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-10-29 — Wild Beyond the Witchlight | Episode 4: Hither — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-10-22 — Wild Beyond the Witchlight | How to Run Chapter One (Bonus Episode) — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-10-15 — Wild Beyond the Witchlight | Episode 3: Through the Looking Glass — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-10-08 — Wild Beyond the Witchlight | Episode 2: The Witchlight Monarch — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-10-02 — Wild Beyond the Witchlight | Episode 1: The Witchlight Carnival — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch, Theme Kevin MacLeod
-- 2021-10-02 — Wild Beyond the Witchlight | Episode 0: Meet the Cast — speakers: Wild Beyond, Kelly Clark, Cast Hayden Daviau, Robin Holford, Sarcyra Novis Christa Mitchell, Isaac Ronaldi Christine Rattray, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 40 | Summer is Coming — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 39 | Final Showdown — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 38 | Auril‘s Wrath — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 37 | The Necropolis — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 36 | Old Rivalries Die Hard — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 35 | Tower of Enchantment — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 34 | Bazaar of the Bizarre — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 33 | House of the Arcane — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 32 | Doom of Ythryn — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-25 — Rime of the Frostmaiden | Episode 31 | Den of Death | — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 30 | Into the Glacier — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 29 | The Caves of Hunger — speakers: Icewind Dale, Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 28 | Auril‘s Abode — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 27 | Tests of the Frostmaiden — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 26 | Grimskalle — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 25 | Garden of Death — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 24 | Island of Solstice — speakers: Icewind Dale, Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find
-- 2021-09-24 — Rime of the Frostmaiden | Episode 23 | The Black Cabin — speakers: Icewind Dale, Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find
-- 2021-09-24 — Rime of the Frostmaiden | Episode 22 | Vellynne‘s Quest — speakers: Kelly Clark, Starring Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 21 | Fortress Fallout — speakers: Xardorok Sunblight, Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 20 | Xardorok Sunblight — speakers: Xardorok Sunblight, Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch
-- 2021-09-24 — Rime of the Frostmaiden | Episode 19 | Xardorok‘s Fortress — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada Link
-- 2021-07-31 — Rime of the Frostmaiden | Episode 18 | Destruction‘s Light — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada
-- 2021-07-31 — Rime of the Frostmaiden | Episode 17 | Sunblight — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada
-- 2021-07-31 — Rime of the Frostmaiden | Episode 16 | Cave of the Berserkers — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada
-- 2021-07-31 — Rime of the Frostmaiden | Episode 15 | Skytower Shelter — speakers: Skytower Shelter, Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, Dork Tales Merch, Alexander Nakarada
-- 2021-07-31 — Rime of the Frostmaiden | Episode 14 | Wyrmdoom Crag — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada
-- 2021-07-12 — Rime of the Frostmaiden | Episode 13 | A Beautiful Mine — speakers: Kelly Clark, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill, tales Find, Dork Tales Merch, Alexander Nakarada
-- 2021-03-27 — Rime of the Frostmaiden | Episode 12 | Id Ascendant — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-03-26 — Rime of the Frostmaiden | Episode 11 | Arveiaturace Arrives — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 10 | The Dark Duchess — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 9 | The Cauldron Caper — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 8 | Toil and Trouble — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 7 | Foaming Mugs — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 6 | Nature Spirits — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 5 | Black Swords — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 4 | The Unseen — speakers: Icewind Dale, Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch
-- 2021-01-05 — Rime of the Frostmaiden | Episode 3 | Mountain Climb — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-05 — Rime of the Frostmaiden | Episode 2 | The Lake Monster — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
-- 2021-01-01 — Rime of the Frostmaiden | Episode 1 | Cold Open — speakers: Icewind Dale, Kelly Clark, Hayden Daviau, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch
-- 2021-01-01 — Rime of the Frostmaiden | Episode 0 | Meet the Cast! — speakers: Kelly Clark, Dungeonmaster Starring, Robin Holford, Mike McGie, Christine Rattray, Callie Thornhill Watch, Dork Tales Merch, Alexander Nakarada
+- 2022-03-25 — Wild Beyond the Witchlight | How to Run Chapter Three (Bonus Episode) — speakers: Wild Beyond, Run Chapter Three, Chapter Three
+- 2022-03-18 — Wild Beyond the Witchlight | Episode 16: Lost Children — speakers: Wild Beyond
+- 2022-03-11 — Wild Beyond the Witchlight | Episode 15: Skabatha Nightshade — speakers: Granny Nightshade, Wild Beyon
+- 2022-02-25 — Wild Beyond the Witchlight | Episode 14: The Secret of Wayward Pool — speakers: Wild Beyond
+- 2022-02-11 — Wild Beyond the Witchlight | Episode 13: Will of the Fey Wild
+- 2022-02-04 — Wild Beyond the Witchlight | Episode 12: Nib’s Cave — speakers: Wild Beyond
+- 2022-01-28 — Wild Beyond the Witchlight | Episode 11: Thither
+- 2022-01-14 — Wild Beyond the Witchlight | How to Run Chapter Two (Bonus Episode) — speakers: Wild Beyond, Run Chapter Two, Chapter Two
+- 2022-01-07 — Wild Beyond the Witchlight | Episode 10: Hither to Thither — speakers: Wild Beyond
+- 2021-12-31 — Wild Beyond the Witchlight | Episode 9: Bavlorna’s Hoard — speakers: Bavlorna’s Hoard
+- 2021-12-10 — Wild Beyond the Witchlight | Episode 8: Bavlorna‘s Cottage — speakers: Wild Beyond
+- 2021-12-03 — Wild Beyond the Witchlight | Episode 7: The Soggy Court
+- 2021-11-25 — Wild Beyond the Witchlight | Episode 6: Downfall — speakers: Wild Beyond
+- 2021-11-05 — Wild Beyond the Witchlight | Episode 5: Brigand‘s Tollway
+- 2021-10-29 — Wild Beyond the Witchlight | Episode 4: Hither
+- 2021-10-22 — Wild Beyond the Witchlight | How to Run Chapter One (Bonus Episode) — speakers: Wild Beyond, Run Chapter One, Chapter One
+- 2021-10-15 — Wild Beyond the Witchlight | Episode 3: Through the Looking Glass
+- 2021-10-08 — Wild Beyond the Witchlight | Episode 2: The Witchlight Monarch — speakers: Wild Beyond
+- 2021-10-02 — Wild Beyond the Witchlight | Episode 1: The Witchlight Carnival — speakers: Wild Beyond, Witchlight Carnival
+- 2021-10-02 — Wild Beyond the Witchlight | Episode 0: Meet the Cast
+- 2021-09-25 — Rime of the Frostmaiden | Episode 40 | Summer is Coming
+- 2021-09-25 — Rime of the Frostmaiden | Episode 39 | Final Showdown — speakers: Dork Tales
+- 2021-09-25 — Rime of the Frostmaiden | Episode 38 | Auril‘s Wrath
+- 2021-09-25 — Rime of the Frostmaiden | Episode 37 | The Necropolis
+- 2021-09-25 — Rime of the Frostmaiden | Episode 36 | Old Rivalries Die Hard — speakers: Old Rivalries Die Hard
+- 2021-09-25 — Rime of the Frostmaiden | Episode 35 | Tower of Enchantment
+- 2021-09-25 — Rime of the Frostmaiden | Episode 34 | Bazaar of the Bizarre
+- 2021-09-25 — Rime of the Frostmaiden | Episode 33 | House of the Arcane
+- 2021-09-25 — Rime of the Frostmaiden | Episode 32 | Doom of Ythryn — speakers: Netherese Necropolis
+- 2021-09-25 — Rime of the Frostmaiden | Episode 31 | Den of Death |
+- 2021-09-24 — Rime of the Frostmaiden | Episode 30 | Into the Glacier
+- 2021-09-24 — Rime of the Frostmaiden | Episode 29 | The Caves of Hunger — speakers: Icewind Dale
+- 2021-09-24 — Rime of the Frostmaiden | Episode 28 | Auril‘s Abode
+- 2021-09-24 — Rime of the Frostmaiden | Episode 27 | Tests of the Frostmaiden
+- 2021-09-24 — Rime of the Frostmaiden | Episode 26 | Grimskalle
+- 2021-09-24 — Rime of the Frostmaiden | Episode 25 | Garden of Death
+- 2021-09-24 — Rime of the Frostmaiden | Episode 24 | Island of Solstice — speakers: Icewind Dale
+- 2021-09-24 — Rime of the Frostmaiden | Episode 23 | The Black Cabin — speakers: Icewind Dale
+- 2021-09-24 — Rime of the Frostmaiden | Episode 22 | Vellynne‘s Quest
+- 2021-09-24 — Rime of the Frostmaiden | Episode 21 | Fortress Fallout — speakers: Xardorok Sunblight
+- 2021-09-24 — Rime of the Frostmaiden | Episode 20 | Xardorok Sunblight — speakers: Xardorok Sunblight
+- 2021-09-24 — Rime of the Frostmaiden | Episode 19 | Xardorok‘s Fortress — speakers: Ten Towns
+- 2021-07-31 — Rime of the Frostmaiden | Episode 18 | Destruction‘s Light — speakers: Ten Towns
+- 2021-07-31 — Rime of the Frostmaiden | Episode 17 | Sunblight
+- 2021-07-31 — Rime of the Frostmaiden | Episode 16 | Cave of the Berserkers — speakers: Icewind Dale
+- 2021-07-31 — Rime of the Frostmaiden | Episode 15 | Skytower Shelter — speakers: Skytower Shelter
+- 2021-07-31 — Rime of the Frostmaiden | Episode 14 | Wyrmdoom Crag — speakers: Wyrmdoom Crag
+- 2021-07-12 — Rime of the Frostmaiden | Episode 13 | A Beautiful Mine
+- 2021-03-27 — Rime of the Frostmaiden | Episode 12 | Id Ascendant
+- 2021-03-26 — Rime of the Frostmaiden | Episode 11 | Arveiaturace Arrives — speakers: Dark Duchess
+- 2021-01-05 — Rime of the Frostmaiden | Episode 10 | The Dark Duchess
+- 2021-01-05 — Rime of the Frostmaiden | Episode 9 | The Cauldron Caper
+- 2021-01-05 — Rime of the Frostmaiden | Episode 8 | Toil and Trouble
+- 2021-01-05 — Rime of the Frostmaiden | Episode 7 | Foaming Mugs — speakers: Blackiron Blades
+- 2021-01-05 — Rime of the Frostmaiden | Episode 6 | Nature Spirits — speakers: Black Sword
+- 2021-01-05 — Rime of the Frostmaiden | Episode 5 | Black Swords
+- 2021-01-05 — Rime of the Frostmaiden | Episode 4 | The Unseen
+- 2021-01-05 — Rime of the Frostmaiden | Episode 3 | Mountain Climb
+- 2021-01-05 — Rime of the Frostmaiden | Episode 2 | The Lake Monster
+- 2021-01-01 — Rime of the Frostmaiden | Episode 1 | Cold Open — speakers: Icewind Dale
+- 2021-01-01 — Rime of the Frostmaiden | Episode 0 | Meet the Cast!
