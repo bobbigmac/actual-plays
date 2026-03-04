@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-03-04T09:59:29+00:00`
-- checked_at: `2026-03-04T09:59:29+00:00`
+- fetched_at: `2026-03-04T13:33:12+00:00`
+- checked_at: `2026-03-04T13:33:12+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Realplay Podcast starring the iconic monsters of the Golden Age of Horror",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-03-04T09:59:29+00:00",
+  "fetched_at": "2026-03-04T13:33:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "03a012c47901ee89276410bf4fbe851f213ffdcd",
+      "title": "Table Talk - Interview with Mayanna Berrin",
+      "published_at": "2026-03-04T13:00:50+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "The Twenty-sixth episode of Table Talk! A place where Dan interviews other creators in the space about their shows/tables. This episode's interview is with Mayanna Berrin, an actor, writer, and AP performer who has been involved in projects like the video game Dispatch, the official Vampire the Masquerade Actual Play, Story Quest, and Dungeons & Cabins. The interview discusses the different ways that TTRPGs can make you a better performer and the importance of open communication both at and away from the table. Check out Mayanna's work: Info about Dungeons and Cabins: https://www.dungeonsandcabins.com Mayanna's Instagram: https://www.instagram.com/mayannaberrin/?hl=en Mayanna's BlueSky: https://bsky.app/profile/mayannaberrin.bsky.social Mayanna's Twitter: https://x.com/Bemayanna Watch the Story Quest Actual Play Show: https://www.youtube.com/@StoryQuestShow Original Theme Song/Outro by Jeremy Villucci. Follow him on Instagram: https://www.instagram.com/JeremyVillucci_WreckOfTime/",
+      "image_url": "https://media.redcircle.com/images/2026/1/16/6/629c0fe0-5173-4b92-8f2e-eea67d9b8b4e_dndark_interview_thimbnail.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/d0fa9c50-2fc7-450b-b81c-d6010b4354b5/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50468989",
+      "itunes_duration": "3154",
+      "speakers": [
+        "Mayanna Berrin"
+      ],
+      "topics": [
+        "table",
+        "talk",
+        "mayanna",
+        "berrin"
+      ]
+    },
     {
       "key": "25a469be390a74945464825fcce6e11348bcfbdc",
       "title": "DnDark Presents: DnDark Souls Part 7: Sister Act",
@@ -2387,6 +2408,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Table Talk - Interview with Mayanna Berrin — speakers: Mayanna Berrin
 - 2026-02-25 — DnDark Presents: DnDark Souls Part 7: Sister Act
 - 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
 - 2026-02-04 — DnDark Presents: DnDark Souls Part 6: Cat and Mouse Game — speakers: Mouse Game, Mild Gore

@@ -2,9 +2,9 @@
 
 - slug: `the-rpgeeks`
 - source: `https://feed.podbean.com/rpgeeksdnd/feed.xml`
-- fetched_at: `2026-03-03T13:34:57+00:00`
-- checked_at: `2026-03-03T13:34:57+00:00`
-- etag: `"c2e7266f57a641b74ed5e4005d521e62"`
+- fetched_at: `2026-03-04T13:33:12+00:00`
+- checked_at: `2026-03-04T13:33:12+00:00`
+- etag: `"394adaa6a7e99cbb80bc3579c2f4befa"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://rpgeeksdnd.podbean.com",
   "description": "Nerdy actual play with epic stories and fascinating facts. Tales of danger, drama, nonsense and joy - plus lore-drops on our favourite topics! UK-based TTRPG show, live on Wednesdays from 7pm.",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/11909286/Circular_Profile_-_RPGeeks_Text_and_Planet_with_Extra_Space_atri7q.jpg",
-  "fetched_at": "2026-03-03T13:34:57+00:00",
+  "fetched_at": "2026-03-04T13:33:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "50eaffb070d3d0e236ab669b98303e935c687fb1",
+      "title": "Teeth: Blood Cotillion Part 2",
+      "published_at": "2026-03-04T13:00:00+00:00",
+      "link": "https://rpgeeksdnd.podbean.com/e/teeth-blood-cotillion-part-2/",
+      "description": "During a single night at a high-society ball, in a cursed corner of 18th-century England, three formidable assassins must root out the occult evil that lurks in the manor and destroy it. But also...perhaps find a suitable partner whilst disguised as husband-hunting ingenues? Guest fateweaver Pip Gladwin is here to run Teeth: Blood Cotillion for The RPGeeks! Credits Game Master Pip Gladwin: https://bsky.app/profile/pipgladwin.bsky.social Cast Emily Bates: https://bsky.app/profile/emzywb.bsky.social Shamini Bundell: https://bsky.app/profile/shamini.bsky.social Fiona Howat: https://bsky.app/profile/fkth.bsky.social Scenario/System In the tabletop adventures of TEETH , players take on the role of elite monster hunters, drawn from all corners of the globe to a bleak and remote vale, blasted by an occult catastrophe some fifty years prior. TEETH: BLOOD COTILLION is a grotesque, single-session, standalone table-top roleplaying game for 3-6 people (including the GM). It is set during a single night at a high-society ball, in a cursed corner of 18th-century England. The players are formidable assassins, disguised as husband-hunting ingenues, who must root out the occult evil that lurks in the manor, destroy it and, ideally, survive. Huge thanks to our geeks and patrons: Aaron Hammonds | Andrew Rosenberg | Andy Hartley | Bayneeon | Caitlin Kriv | Chaotic Brain Person | Dan Andersen | David Valentine | Debbie - harobed96 | Doug Powis | Edain | Ellie Wilson | Gamer Badger | Holly Scott Laukkonen | Kana Wilson | Keegan Amrine | Laura Chiarello | LycanEsth | Matt T | Martin S | Mother of Ferrets | Nathan Decker | Nicholas Munro Turner | Scarlett Rose | Simon Harper | Snap Grapple Pop | Tina Øyna | Valery North | Patrons can catch our session 0(s) over on https://patreon.com/rpgeeksdnd! The RPGeeks is a nerdy TTRPG show with epic stories and fascinating facts! Find out more via our linktree: https://linktr.ee/rpgeeksdnd",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/z2jt52qbkinu4ufj/Teeth_Blood_Cotillion_Part_2aji56.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "202942165",
+      "itunes_duration": "12683",
+      "speakers": [],
+      "topics": [
+        "tooth",
+        "blood",
+        "cotillion"
+      ]
+    },
     {
       "key": "aa4c570044bd1fb0662b264e6f4bd0eac83f7164",
       "title": "Teeth: Blood Cotillion Part 1",
@@ -2038,26 +2056,6 @@
         "dragons",
         "science"
       ]
-    },
-    {
-      "key": "c65b78cb88688bbf66be55d980d761c98dd68b03",
-      "title": "Episode 19: Battle on the Boat | Dungeons & Dragons & Science",
-      "published_at": "2022-03-29T20:26:18+00:00",
-      "link": "https://rpgeeksdnd.podbean.com/e/episode-19-battle-on-the-boat-dungeons-and-dragons-and-science/",
-      "description": "The boat situation takes a turn for the worse as the party are attacked by the most unlikely (and adorable) of rivals. After the DnD action it's time to talk all things frogs. Dungeons & Dragons & Science is a DnD actual-play show. Watch as four professional science communicators mix real science with role-play sci-fi adventures! The RPGeeks go live every Wednesday at 7pm UK time. Tune in for adventuring and our DnDebrief show where we explore some of the real science that inspired the story. Wednesday 7pm UK: http://twitch.tv/drsimonclark You can watch previous episodes on our YouTube channel or listen to the show in podcast format. Don't forget to also follow us on Twitter, TikTok and Instagram for bonus bite-sized chunks of science every week! @RPGeeksDnD",
-      "image_url": null,
-      "enclosure_url": "https://mcdn.podbean.com/mf/web/dzxy2h/Episode_19_final_cut6iitt.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "117003049",
-      "itunes_duration": "7310",
-      "speakers": [],
-      "topics": [
-        "battle",
-        "boat",
-        "dungeons",
-        "dragons",
-        "science"
-      ]
     }
   ]
 }
@@ -2066,6 +2064,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-04 — Teeth: Blood Cotillion Part 2
 - 2026-03-03 — Teeth: Blood Cotillion Part 1
 - 2025-12-16 — Inevitable: Unburied | Chapter 4. The Doom — speakers: Edward Spence
 - 2025-12-15 — Inevitable: Unburied | Chapter 3. The Border Forts — speakers: Edward Spence
@@ -2165,4 +2164,3 @@
 - 2022-04-06 — Episode 22: Into the Internet | Dungeons & Dragons & Science
 - 2022-04-03 — Episode 21: Landsdown Port | Dungeons & Dragons & Science
 - 2022-03-30 — Episode 20: The Boat Solution | Dungeons & Dragons & Science
-- 2022-03-29 — Episode 19: Battle on the Boat | Dungeons & Dragons & Science
