@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-02-26T10:09:16+00:00`
-- checked_at: `2026-02-26T10:09:16+00:00`
-- last_modified: `Thu, 26 Feb 2026 08:32:24 GMT`
+- fetched_at: `2026-03-05T16:06:12+00:00`
+- checked_at: `2026-03-05T16:06:12+00:00`
+- last_modified: `Thu, 05 Mar 2026 15:56:47 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-26T10:09:16+00:00",
+  "fetched_at": "2026-03-05T16:06:12+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -27,6 +27,22 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "c15d502b8b4bdae2c43479310aad957153a6514f",
+      "title": "640. All's Fair",
+      "published_at": "2026-03-05T15:39:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY A soldier and a clone love each other and fuck behind the regime’s back when they aren’t being used as tools for their supremacy. SHOW NOTES All’s Fair One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nick Meyer ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN1109822226.mp3?updated=1772725819",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4112",
+      "speakers": [
+        "James D'Amato"
+      ],
+      "topics": []
+    },
     {
       "key": "750e8fa69b43bc9ab2d1f4bd80dade7e29bec626",
       "title": "FEED DROP! || RPG Major: Ep. 50: Thistle Help (The Poppy Problem 1 of 5)",
@@ -13058,6 +13074,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — 640. All's Fair — speakers: James D'Amato
 - 2026-02-26 — FEED DROP! || RPG Major: Ep. 50: Thistle Help (The Poppy Problem 1 of 5) — speakers: Rpg Major, Thistle Help, James D'Amato
 - 2026-02-23 — 639. Rise, Wizards!, Episode 2 — speakers: James D'Amato
 - 2026-02-16 — 638. Rise, Wizards!, Episode 1 — speakers: James D'Amato
