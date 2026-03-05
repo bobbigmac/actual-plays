@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"b6d198591225f7ac17f1bb77afb32553"`
-- last_modified: `Thu, 19 Feb 2026 12:00:18 GMT`
+- fetched_at: `2026-03-05T13:38:17+00:00`
+- checked_at: `2026-03-05T13:38:17+00:00`
+- etag: `"f369c2a4317550c80e30fe0b8fccc7d3"`
+- last_modified: `Thu, 05 Mar 2026 12:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-05T13:38:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8ad16dda66c3cb1f8675e03699042cd3ce9e1bf7",
+      "title": "The Adventure Zone Royale: Episode 19",
+      "published_at": "2026-03-05T12:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-19-A8u96BDA",
+      "description": "The Trial of Conjuration, Part II The duels to the death continue with the arena fighting back as much as the wizards. But will they work around these dangers or use them to their advantage? Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Languid Dawn\" by Blear Moon: https://blearmoon.bandcamp.com/; \"Skin Writhes Anxious\", and \"III\" by ROZKOL: https://rozkol.bandcamp.com/; \"When the Wick is Gone\" by The Pangolins: \"Night Sky\" and \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; https://thepangolins.yolasite.com/; \"Haunts\" by Triple5 Here: https://freemusicarchive.org/music/triple5-here/'; and Moulds Sun\" by 10 Echo: https://10echo.bandcamp.com/. Border Angels: https://www.borderangels.org/our-services.html",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/5ebdd8d6-ce02-4379-9018-7654cb13a61a/3000x3000/tazroyalecoverlg.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/ba07781b-0918-4a2b-8b1b-12e93bab764b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=ba07781b-0918-4a2b-8b1b-12e93bab764b&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74529899",
+      "itunes_duration": "01:05:35",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "984453f9362d479d6fbe65b66b99adf19f4902d3",
       "title": "The Adventure Zone Royale: Episode 18",
@@ -37,13 +55,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71346525",
       "itunes_duration": "01:02:14",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music",
-        "Jean Toba",
-        "Blear Moon"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -61,14 +73,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76960591",
       "itunes_duration": "01:08:06",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Blear Moon",
-        "Jean Toba",
-        "Scott Holmes Music",
-        "Mark Lingard"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -86,12 +91,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61857023",
       "itunes_duration": "00:52:28",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Mark Lingard",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -109,10 +109,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "106785514",
       "itunes_duration": "01:41:04",
-      "speakers": [
-        "Walton Goggins",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -131,11 +128,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70668710",
       "itunes_duration": "01:01:39",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Jean Toba"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -153,12 +146,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85604155",
       "itunes_duration": "01:17:12",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Jean Toba",
-        "Harmony House"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -177,10 +165,7 @@
       "enclosure_length": "75140002",
       "itunes_duration": "01:06:19",
       "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music",
-        "Evan Schaffer"
+        "Royale Them"
       ],
       "topics": [
         "adventure",
@@ -199,16 +184,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67882765",
       "itunes_duration": "00:58:45",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Lex Villena",
-        "Jingle Bells Calm",
-        "Kevin MacLeod",
-        "Jean Toba",
-        "Kirk Osamayo",
-        "Blear Moon"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -226,12 +202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63180857",
       "itunes_duration": "00:53:51",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Jason Shaw",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -249,11 +220,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75526773",
       "itunes_duration": "01:06:43",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Evan Schaffer"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -271,14 +238,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63177141",
       "itunes_duration": "00:53:51",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music",
-        "Jean Toba",
-        "Evan Schaffer",
-        "Kirk Osamayo"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -296,11 +256,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69133114",
       "itunes_duration": "01:00:04",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -318,11 +274,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70793071",
       "itunes_duration": "01:01:47",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -359,12 +311,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76254063",
       "itunes_duration": "01:07:28",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Kirk Osamayo",
-        "Blear Moon"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -382,12 +329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104041639",
       "itunes_duration": "01:36:25",
-      "speakers": [
-        "Royale Theme",
-        "Wizard Disco",
-        "Louie Zong",
-        "Mystery Mammal"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -405,13 +347,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67559017",
       "itunes_duration": "00:58:25",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Shay Brahem",
-        "Fachhochschule Dortmund",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -429,12 +365,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90316311",
       "itunes_duration": "01:22:07",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music",
-        "Blear Moon"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -452,13 +383,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71149504",
       "itunes_duration": "01:02:10",
-      "speakers": [
-        "Wizard Disco",
-        "Louie Zong",
-        "Scott Holmes Music",
-        "Jean Toba",
-        "Kai Engel"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -477,8 +402,7 @@
       "enclosure_length": "78591644",
       "itunes_duration": "01:09:55",
       "speakers": [
-        "Wizard Disco",
-        "Louie Zong"
+        "Divination Sixty"
       ],
       "topics": [
         "adventure",
@@ -498,10 +422,7 @@
       "enclosure_length": "96720075",
       "itunes_duration": "01:30:34",
       "speakers": [
-        "Litch Buchanan",
-        "Alexander Nakarada",
-        "Zombie Rock",
-        "Jason Shaw"
+        "Sexy Battle Wizards"
       ],
       "topics": [
         "sexy",
@@ -522,8 +443,7 @@
       "enclosure_length": "62085213",
       "itunes_duration": "00:52:46",
       "speakers": [
-        "Abnimals Wrap",
-        "Abnimals Game Rules"
+        "Abnimals Wrap"
       ],
       "topics": [
         "adventure",
@@ -544,8 +464,7 @@
       "enclosure_length": "113613347",
       "itunes_duration": "01:42:22",
       "speakers": [
-        "Thrilliam Shakespere",
-        "Jason Shaw"
+        "Thrilliam Shakespere"
       ],
       "topics": [
         "adventure",
@@ -567,9 +486,7 @@
       "enclosure_length": "96550220",
       "itunes_duration": "01:34:48",
       "speakers": [
-        "Robin Hood",
-        "Lady Godwin",
-        "Kevin MacLeod"
+        "Robin Hood"
       ],
       "topics": [
         "adventure",
@@ -592,12 +509,7 @@
       "enclosure_length": "52046011",
       "itunes_duration": "00:42:18",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Scott Holmes Music",
-        "Jesse Spillane"
+        "Final Fight"
       ],
       "topics": [
         "adventure",
@@ -619,10 +531,7 @@
       "enclosure_length": "47281633",
       "itunes_duration": "00:37:21",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton"
+        "Walrus Among Us"
       ],
       "topics": [
         "adventure",
@@ -643,12 +552,8 @@
       "enclosure_length": "65719441",
       "itunes_duration": "00:56:33",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Jesse Spillane",
-        "Scott Holmes Music"
+        "Radical Rescue",
+        "Greenback Guardians"
       ],
       "topics": [
         "adventure",
@@ -669,16 +574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58022182",
       "itunes_duration": "00:48:32",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Emerald Therapy",
-        "Jason Shaw",
-        "Beat Mekanik",
-        "ee beatmekanik"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -698,16 +594,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55740084",
       "itunes_duration": "00:46:09",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Kate Kody",
-        "Jesse Spillane",
-        "Emerald Therapy",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -726,16 +613,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57815841",
       "itunes_duration": "00:48:18",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Rafael Krux",
-        "Kate Kody",
-        "Emerald Therapy",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -757,14 +635,7 @@
       "enclosure_length": "76951071",
       "itunes_duration": "01:19:17",
       "speakers": [
-        "Feed Drop",
-        "Dave Holmes",
-        "Jeremy Bent",
-        "Oscar Montoya",
-        "Tom Lum",
-        "Ellen Weatherford",
-        "Alex Schmidt",
-        "Brenda Snell"
+        "Feed Drop"
       ],
       "topics": [
         "feed",
@@ -786,13 +657,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "49237173",
       "itunes_duration": "00:39:23",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Harmony House"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -835,14 +700,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52202568",
       "itunes_duration": "00:42:28",
-      "speakers": [
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Jesse Spillane",
-        "Midnight Commando",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -862,16 +720,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52701378",
       "itunes_duration": "00:42:59",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Bryan Teoh",
-        "Jesse Spillane",
-        "Patrick Steel",
-        "Wax Lyricist"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -889,16 +738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51473091",
       "itunes_duration": "00:41:42",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Beat Mekanik",
-        "ee beatmekanik",
-        "Emerald Therapy",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -919,12 +759,7 @@
       "itunes_duration": "00:48:52",
       "speakers": [
         "Roger Moore",
-        "Artie Ficial",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Wax Lyricist"
+        "Artie Ficial"
       ],
       "topics": [
         "adventure",
@@ -944,14 +779,8 @@
       "enclosure_length": "53363712",
       "itunes_duration": "00:43:41",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Wax Lyricist",
-        "Chi Town Funk",
-        "Kate Kody",
-        "Jesse Spillane"
+        "new allies",
+        "new information"
       ],
       "topics": [
         "adventure",
@@ -971,14 +800,7 @@
       "enclosure_length": "56565938",
       "itunes_duration": "00:47:01",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Awkward Cafe",
-        "Kate Kody",
-        "Patrick Steel",
-        "Wax Lyricist"
+        "Cell Block Wango Bango"
       ],
       "topics": [
         "adventure",
@@ -1003,14 +825,7 @@
       "enclosure_length": "55541402",
       "itunes_duration": "00:45:57",
       "speakers": [
-        "Covert Cops",
-        "Goshua Darnet",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Awkward Cafe",
-        "Kate Kody"
+        "Covert Cops"
       ],
       "topics": [
         "adventure",
@@ -1030,13 +845,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56760975",
       "itunes_duration": "00:47:13",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Jesse Spillane"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1055,12 +864,7 @@
       "enclosure_length": "56040649",
       "itunes_duration": "00:46:28",
       "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Wax Lyricist",
-        "Kate Kody"
+        "Enforcement Infiltration"
       ],
       "topics": [
         "adventure",
@@ -1083,13 +887,7 @@
       "itunes_duration": "00:50:58",
       "speakers": [
         "Loose Eel",
-        "Eel Patrick Harris",
-        "Sigma Base",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Kate Kody"
+        "Eel Patrick Harris"
       ],
       "topics": [
         "adventure",
@@ -1110,14 +908,7 @@
       "enclosure_length": "55799040",
       "itunes_duration": "00:46:12",
       "speakers": [
-        "Warehouse Wipeout",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Beat Mekanik",
-        "ee beatmekanik",
-        "Jesse Spillane"
+        "Warehouse Wipeout"
       ],
       "topics": [
         "adventure",
@@ -1139,13 +930,7 @@
       "enclosure_length": "74633298",
       "itunes_duration": "01:05:49",
       "speakers": [
-        "Herr Dryer",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Wax Lyricist",
-        "Beat Mekanik",
-        "ee beatmekanik"
+        "Herr Dryer"
       ],
       "topics": [
         "adventure",
@@ -1166,14 +951,7 @@
       "enclosure_length": "59306626",
       "itunes_duration": "00:49:52",
       "speakers": [
-        "Herr Dryer",
-        "Badger Man",
-        "Jason Charles Miller",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Razor Rock"
+        "Herr Dryer"
       ],
       "topics": [
         "adventure",
@@ -1192,16 +970,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57543468",
       "itunes_duration": "00:48:02",
-      "speakers": [
-        "Paul Foxcroft",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Beat Mekanik",
-        "ee beatmekanik",
-        "Bryan Teoh"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1221,16 +990,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65614969",
       "itunes_duration": "00:56:26",
-      "speakers": [
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Beat Mekanik",
-        "ee beatmekanik",
-        "Chi Town Funk",
-        "Jesse Spillane"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1249,12 +1009,7 @@
       "enclosure_length": "57255165",
       "itunes_duration": "00:47:43",
       "speakers": [
-        "pixiesandpins com",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Jason Shaw",
-        "Jesse Spillane"
+        "Rogue Robots"
       ],
       "topics": [
         "adventure",
@@ -1296,14 +1051,7 @@
       "enclosure_length": "63123826",
       "itunes_duration": "00:53:50",
       "speakers": [
-        "Jeff Leopard",
-        "Jason Charles Miller",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Razor Rock",
-        "Wax Lyricist"
+        "Stealing Silver"
       ],
       "topics": [
         "adventure",
@@ -1323,16 +1071,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62282823",
       "itunes_duration": "00:52:58",
-      "speakers": [
-        "Aabriya Iyengar",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Kevin MacLeod",
-        "Razor Rock",
-        "Wax Lyricist",
-        "Emerald Therapy"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1352,16 +1091,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71012456",
       "itunes_duration": "01:02:03",
-      "speakers": [
-        "Spike Splosion",
-        "Abnimals Theme",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Kevin MacLeod",
-        "Beat Mekanik",
-        "ee beatmekanik"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1381,14 +1111,7 @@
       "enclosure_length": "76752333",
       "itunes_duration": "01:08:02",
       "speakers": [
-        "Roger Moore",
-        "Paul Foxcroft",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Patrick Steel",
-        "Midnight Commando",
-        "Wax Lyricist"
+        "Roger Moore"
       ],
       "topics": [
         "adventure",
@@ -1411,13 +1134,7 @@
       "itunes_duration": "01:00:53",
       "speakers": [
         "Bunny Heist",
-        "Roger Moore",
-        "Erika Ishii",
-        "Paul Foxcroft",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Emerald Therapy"
+        "Roger Moore"
       ],
       "topics": [
         "adventure",
@@ -1439,12 +1156,7 @@
       "enclosure_length": "60512201",
       "itunes_duration": "00:51:08",
       "speakers": [
-        "Zoo Keeper",
-        "Justin McElroy",
-        "Eric Near",
-        "Jonathan Coulton",
-        "Beat Mekanik",
-        "ee beatmekanik"
+        "Zoo Keepe"
       ],
       "topics": [
         "setup",
@@ -1465,8 +1177,7 @@
       "enclosure_length": "98527271",
       "itunes_duration": "01:35:59",
       "speakers": [
-        "Lady Godwin",
-        "Kevin MacLeod"
+        "Lady Godwin"
       ],
       "topics": [
         "adventure",
@@ -1586,11 +1297,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62165640",
       "itunes_duration": "01:00:05",
-      "speakers": [
-        "Godwin Teen Wolfs",
-        "Jason Shaw",
-        "Nuno Adelaida"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1628,7 +1335,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72854872",
       "itunes_duration": "01:11:13",
-      "speakers": [],
+      "speakers": [
+        "Mutt ma"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -1685,11 +1394,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64764183",
       "itunes_duration": "01:02:47",
-      "speakers": [
-        "Nuno Adelaida",
-        "Erik Satie",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1708,10 +1413,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75134884",
       "itunes_duration": "01:13:35",
-      "speakers": [
-        "Kevin MacLeod",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1753,9 +1455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68750576",
       "itunes_duration": "01:06:52",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1774,9 +1474,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67701083",
       "itunes_duration": "01:05:47",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1814,9 +1512,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59864064",
       "itunes_duration": "00:57:37",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1836,8 +1532,7 @@
       "enclosure_length": "79612972",
       "itunes_duration": "01:18:10",
       "speakers": [
-        "Backwards Dracula",
-        "Kevin MacLeod"
+        "Backwards Dracula"
       ],
       "topics": [
         "adventure",
@@ -1895,9 +1590,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82264181",
       "itunes_duration": "01:20:56",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -1935,9 +1628,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "13407070",
       "itunes_duration": "00:13:33",
-      "speakers": [
-        "Matt Mercer"
-      ],
+      "speakers": [],
       "topics": [
         "boco",
         "highlight"
@@ -2012,8 +1703,7 @@
       "enclosure_length": "65801117",
       "itunes_duration": "01:03:48",
       "speakers": [
-        "Lady Godwin",
-        "Kevin MacLeod"
+        "Lady Godwin"
       ],
       "topics": [
         "adventure",
@@ -2033,9 +1723,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58109780",
       "itunes_duration": "00:55:48",
-      "speakers": [
-        "Nuno Adelaida"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2054,9 +1742,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74415054",
       "itunes_duration": "01:12:45",
-      "speakers": [
-        "Nuno Adelaida"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2075,9 +1761,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74495464",
       "itunes_duration": "01:12:50",
-      "speakers": [
-        "Nuno Adelaida"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2096,9 +1780,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61329643",
       "itunes_duration": "00:59:08",
-      "speakers": [
-        "Lady Godwin"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2118,9 +1800,7 @@
       "enclosure_length": "71602213",
       "itunes_duration": "01:09:50",
       "speakers": [
-        "Dracula Hunters",
-        "Lady Godwin",
-        "Nuno Adelaida"
+        "Dracula Hunters"
       ],
       "topics": [
         "adventure",
@@ -2140,10 +1820,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93487275",
       "itunes_duration": "01:32:37",
-      "speakers": [
-        "Erik Satie",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2198,13 +1875,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "99111137",
       "itunes_duration": "01:28:22",
-      "speakers": [
-        "Kate Welch",
-        "Gabe Hicks",
-        "Moon Toad",
-        "Blear Moon",
-        "Lisa Hammer"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2223,13 +1894,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89170572",
       "itunes_duration": "01:18:01",
-      "speakers": [
-        "Kate Welch",
-        "Gabe Hicks",
-        "Evan Schaeffer",
-        "Moon Toad",
-        "Kirk Osamayao"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2248,15 +1913,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86483889",
       "itunes_duration": "01:15:14",
-      "speakers": [
-        "Kate Welch",
-        "Gabe Hicks",
-        "Moon Toad",
-        "Beat Mekanik",
-        "ee beatmekanik",
-        "Brylie Christopher Oxley",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2275,16 +1932,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "84903328",
       "itunes_duration": "01:13:35",
-      "speakers": [
-        "Kate Bishop",
-        "Miles Morales",
-        "Simon Williams",
-        "Kate Welch",
-        "Gabe Hicks",
-        "blogspot com",
-        "label Paradigm",
-        "Moon Toad"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2303,10 +1951,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "92127463",
       "itunes_duration": "01:25:42",
-      "speakers": [
-        "John Harper",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2325,10 +1970,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95904257",
       "itunes_duration": "01:29:38",
-      "speakers": [
-        "John Harper",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2347,10 +1989,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77526944",
       "itunes_duration": "01:20:07",
-      "speakers": [
-        "YouTube Channel",
-        "Aabria Iyengar"
-      ],
+      "speakers": [],
       "topics": [
         "zone",
         "adventure",
@@ -2368,9 +2007,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72164409",
       "itunes_duration": "01:14:32",
-      "speakers": [
-        "Aabria Iyengar"
-      ],
+      "speakers": [],
       "topics": [
         "zone",
         "adventure",
@@ -2388,10 +2025,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87761480",
       "itunes_duration": "01:30:46",
-      "speakers": [
-        "YouTube Channel",
-        "Aabria Iyengar"
-      ],
+      "speakers": [],
       "topics": [
         "zone",
         "adventure",
@@ -2410,8 +2044,7 @@
       "enclosure_length": "65060488",
       "itunes_duration": "01:00:57",
       "speakers": [
-        "Steeplechase Wrap",
-        "Marvel Mul"
+        "Steeplechase Wrap"
       ],
       "topics": [
         "adventure",
@@ -2433,9 +2066,7 @@
       "itunes_duration": "01:50:51",
       "speakers": [
         "Mom Brennan",
-        "Lee Mulligan",
-        "Jason Shaw",
-        "Alexander Nakarada"
+        "Lee Mulligan"
       ],
       "topics": [
         "adventure",
@@ -2456,14 +2087,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73144013",
       "itunes_duration": "01:09:20",
-      "speakers": [
-        "Eric Near",
-        "William Gousios",
-        "Kirk Osamayao",
-        "Lex Villena",
-        "Jason Shaw",
-        "Nicolai Heidlas"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2482,9 +2106,7 @@
       "enclosure_length": "53455287",
       "itunes_duration": "00:48:52",
       "speakers": [
-        "Eric Near",
-        "Kirk Osamayao",
-        "Lex Villena"
+        "both new"
       ],
       "topics": [
         "adventure",
@@ -2503,12 +2125,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85096619",
       "itunes_duration": "01:21:48",
-      "speakers": [
-        "Kevin MacLeod",
-        "Kirk Osamayao",
-        "Lex Villena",
-        "Marc Ferry"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2527,10 +2144,7 @@
       "enclosure_length": "71533581",
       "itunes_duration": "01:07:41",
       "speakers": [
-        "Bob Davis",
-        "Kirk Osamayao",
-        "Lex Villena",
-        "Monkey Warhol"
+        "Bob Davis"
       ],
       "topics": [
         "adventure",
@@ -2550,8 +2164,7 @@
       "enclosure_length": "70887963",
       "itunes_duration": "01:07:01",
       "speakers": [
-        "Bob Davis",
-        "Kirk Osamayao"
+        "Bob Davis"
       ],
       "topics": [
         "adventure",
@@ -2570,12 +2183,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72015468",
       "itunes_duration": "01:08:11",
-      "speakers": [
-        "Slice Hicks",
-        "Kirk Osamayao",
-        "Kevin MacLeod",
-        "Monkey Warhol"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2594,11 +2202,7 @@
       "enclosure_length": "81952787",
       "itunes_duration": "01:18:32",
       "speakers": [
-        "Jason Shaw",
-        "Kirk Osamayao",
-        "Marc Ferry",
-        "Kevin MacLeod",
-        "Lex Villena"
+        "Old Kidadelphia"
       ],
       "topics": [
         "adventure",
@@ -2617,11 +2221,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "76198808",
       "itunes_duration": "01:12:32",
-      "speakers": [
-        "Marc Ferry",
-        "Kevin MacLeod",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2640,11 +2240,7 @@
       "enclosure_length": "70139607",
       "itunes_duration": "01:06:15",
       "speakers": [
-        "Monkey Warhol",
-        "Marc Ferry",
-        "Lobo Loco",
-        "Kevin MacLeod",
-        "Kirk Osamayao"
+        "unlikely allies"
       ],
       "topics": [
         "adventure",
@@ -2663,11 +2259,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69487195",
       "itunes_duration": "01:05:33",
-      "speakers": [
-        "Marc Ferry",
-        "music slambience",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2685,13 +2277,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69736816",
       "itunes_duration": "01:05:50",
-      "speakers": [
-        "Monkey Warhol",
-        "Jason Shaw",
-        "Kevin MacLeod",
-        "Lex Villena",
-        "Marc Ferry"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2709,11 +2295,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73729519",
       "itunes_duration": "01:09:59",
-      "speakers": [
-        "Kevin MacLeod",
-        "Kirk Osamayao",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2732,12 +2314,7 @@
       "enclosure_length": "99784292",
       "itunes_duration": "01:33:39",
       "speakers": [
-        "Charn Kickbucket",
-        "Adventure Skeletons",
-        "Grant Howitt",
-        "Chris Taylor",
-        "Camille Saint-Saëns",
-        "Kevin MacLeod"
+        "Charn Kickbuck"
       ],
       "topics": [
         "adventure",
@@ -2756,13 +2333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90544240",
       "itunes_duration": "01:27:28",
-      "speakers": [
-        "Kevin MacLeod",
-        "Jean Toba",
-        "Lex Villena",
-        "Kira Daly",
-        "Bryan Teoh"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2780,13 +2351,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64728864",
       "itunes_duration": "01:00:37",
-      "speakers": [
-        "Monkey Warhol",
-        "Kirk Osamayao",
-        "Jason Shaw",
-        "Kevin MacLeod",
-        "Jean Toba"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2804,10 +2369,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71452922",
       "itunes_duration": "01:07:37",
-      "speakers": [
-        "Kirk Osamayao",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2825,9 +2387,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62359994",
       "itunes_duration": "00:58:09",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2845,10 +2405,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68976468",
       "itunes_duration": "01:11:43",
-      "speakers": [
-        "Kirk Osamayao",
-        "Kai Engel"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2867,14 +2424,7 @@
       "enclosure_length": "110872020",
       "itunes_duration": "01:45:12",
       "speakers": [
-        "Sarah Winchester",
-        "Clint McElroy",
-        "Aabria Iyengar",
-        "Grant Howitt",
-        "Chris Taylor",
-        "Paul Sabourin",
-        "Satin Danger",
-        "Kevin MacLeod"
+        "Sarah Winchester"
       ],
       "topics": [
         "adventure",
@@ -2895,10 +2445,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68229685",
       "itunes_duration": "01:04:15",
-      "speakers": [
-        "Kirk Osamayao",
-        "Monkey Warhol"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2916,15 +2463,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62720039",
       "itunes_duration": "00:58:31",
-      "speakers": [
-        "Kira Daly",
-        "Adeline Yeo",
-        "Maarten Schellekens",
-        "Fly Away",
-        "Kirk Osamayao",
-        "Monkey Warhol",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2942,13 +2481,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72071553",
       "itunes_duration": "01:08:15",
-      "speakers": [
-        "Adeline Yeo",
-        "Torsten Torsten",
-        "Kira Daly",
-        "Lex Villena",
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -2966,11 +2499,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77602832",
       "itunes_duration": "01:14:00",
-      "speakers": [
-        "Monkey Warhol",
-        "Kirk Osamayao",
-        "Torsten Torsten"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3006,10 +2535,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58679821",
       "itunes_duration": "00:54:19",
-      "speakers": [
-        "Alexander Nakarada",
-        "Maarten Schelleken"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3027,12 +2553,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70465283",
       "itunes_duration": "01:06:35",
-      "speakers": [
-        "Kirk Osamayao",
-        "Alexander Nakarada",
-        "Kevin MacLeod",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3050,13 +2571,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75843164",
       "itunes_duration": "01:12:10",
-      "speakers": [
-        "Kevin MacLeod",
-        "Kira Daly",
-        "Adeline Yeo",
-        "Alexander Nakarada",
-        "Kirk Osamayao"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3074,11 +2589,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61172083",
       "itunes_duration": "00:56:55",
-      "speakers": [
-        "Kevin MacLeod",
-        "Maarten Schelleken",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3096,10 +2607,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73422948",
       "itunes_duration": "01:09:39",
-      "speakers": [
-        "Monkey Warhol",
-        "Kirk Osamayao"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3117,11 +2625,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83650584",
       "itunes_duration": "01:20:18",
-      "speakers": [
-        "Monkey Warhol",
-        "Lobo Loco",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3139,9 +2643,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68991359",
       "itunes_duration": "01:05:03",
-      "speakers": [
-        "Drew Buzz"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3159,9 +2661,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75525148",
       "itunes_duration": "01:11:51",
-      "speakers": [
-        "Kirk Osamayao"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3179,10 +2679,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74705237",
       "itunes_duration": "01:10:59",
-      "speakers": [
-        "Lobo Loco",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3200,9 +2697,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68045538",
       "itunes_duration": "01:04:04",
-      "speakers": [
-        "Kirk Osamayao"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3222,8 +2717,7 @@
       "itunes_duration": "01:54:36",
       "speakers": [
         "Mom Brennan",
-        "Lee Mulligan",
-        "Jason Shaw"
+        "Lee Mulligan"
       ],
       "topics": [
         "adventure",
@@ -3244,11 +2738,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75924302",
       "itunes_duration": "01:12:16",
-      "speakers": [
-        "Monkey Warhol",
-        "Kirk Osamayao",
-        "Nicolai Heidlas"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3266,10 +2756,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91759964",
       "itunes_duration": "01:28:44",
-      "speakers": [
-        "Lex Villena",
-        "Monkey Warhol"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3287,12 +2774,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70226171",
       "itunes_duration": "01:06:20",
-      "speakers": [
-        "Jason Shaw",
-        "Monkey Warhol",
-        "techtheist ru",
-        "Lex Villena"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3311,10 +2793,7 @@
       "enclosure_length": "84283887",
       "itunes_duration": "01:20:57",
       "speakers": [
-        "Jean Toba",
-        "Lex Villena",
-        "Jason Shaw",
-        "Monkey Warhol"
+        "Stealswell Diamond"
       ],
       "topics": [
         "adventure",
@@ -3333,11 +2812,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69129787",
       "itunes_duration": "01:05:11",
-      "speakers": [
-        "Kevin MacLeod",
-        "Monkey Warhol",
-        "Jason Shaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3356,7 +2831,7 @@
       "enclosure_length": "72021772",
       "itunes_duration": "01:08:12",
       "speakers": [
-        "Monkey Warhol"
+        "Gutter City"
       ],
       "topics": [
         "adventure",
@@ -3376,11 +2851,7 @@
       "enclosure_length": "91375738",
       "itunes_duration": "01:28:20",
       "speakers": [
-        "Kevin MacLeod",
-        "Motorcycle Scene",
-        "Pablo Perez",
-        "Lex Villena",
-        "Monkey Warhol"
+        "Gutter City"
       ],
       "topics": [
         "adventure",
@@ -3400,8 +2871,7 @@
       "enclosure_length": "65184755",
       "itunes_duration": "01:01:05",
       "speakers": [
-        "Lex Villena",
-        "Kevin MacLeod"
+        "Gutter City"
       ],
       "topics": [
         "adventure",
@@ -3422,13 +2892,7 @@
       "itunes_duration": "01:50:16",
       "speakers": [
         "Spirit Breakers",
-        "Spookington Manor",
-        "Grey Poupon",
-        "Lorraine St Crash",
-        "Aabria Iyengar",
-        "Grant Howitt",
-        "Chris Taylor",
-        "Paul Sabourin"
+        "Spookington Manor"
       ],
       "topics": [
         "adventure",
@@ -3448,10 +2912,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "89135213",
       "itunes_duration": "01:26:00",
-      "speakers": [
-        "Kirk Osamayao",
-        "Monkey Warhol"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3470,9 +2931,7 @@
       "enclosure_length": "83023456",
       "itunes_duration": "01:19:39",
       "speakers": [
-        "Monkey Warhol",
-        "Lex Villena",
-        "Kirk Osamayao"
+        "unfortunate hitches"
       ],
       "topics": [
         "adventure",
@@ -3491,11 +2950,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93537974",
       "itunes_duration": "01:30:36",
-      "speakers": [
-        "Kirk Osamayao",
-        "Monkey Warhol",
-        "Pablo Perez"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3513,9 +2968,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86055519",
       "itunes_duration": "01:22:49",
-      "speakers": [
-        "Justin GMs"
-      ],
+      "speakers": [],
       "topics": [
         "setup",
         "adventure",
@@ -3535,7 +2988,7 @@
       "itunes_duration": "01:43:05",
       "speakers": [
         "Dust Season",
-        "Dry River"
+        "Dry Riv"
       ],
       "topics": [
         "adventure",
@@ -3555,7 +3008,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74611306",
       "itunes_duration": "01:07:27",
-      "speakers": [],
+      "speakers": [
+        "Dust Season"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -3593,7 +3048,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77734083",
       "itunes_duration": "01:10:42",
-      "speakers": [],
+      "speakers": [
+        "Dust Season",
+        "Crescent City"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -3635,8 +3093,10 @@
       "enclosure_length": "100345366",
       "itunes_duration": "01:34:15",
       "speakers": [
-        "Jason Shaw",
-        "Kevin MacLeod"
+        "Just Us",
+        "San Diego",
+        "Four Hundred",
+        "Two Friends"
       ],
       "topics": [
         "adventure",
@@ -3656,8 +3116,7 @@
       "enclosure_length": "77239524",
       "itunes_duration": "01:06:31",
       "speakers": [
-        "Ethersea Wrap",
-        "Urban Shadows"
+        "Ethersea Wrap"
       ],
       "topics": [
         "adventure",
@@ -3697,11 +3156,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107908335",
       "itunes_duration": "01:38:24",
-      "speakers": [
-        "Alexander Nakarada",
-        "kai-engel com",
-        "Rafael Krux"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3719,11 +3174,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107914445",
       "itunes_duration": "01:38:24",
-      "speakers": [
-        "Sergey Cheremisinov",
-        "Jason Shaw",
-        "Kai Engel"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3741,9 +3192,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75431248",
       "itunes_duration": "01:04:38",
-      "speakers": [
-        "Sergey Cheremisinov"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3761,11 +3210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71363650",
       "itunes_duration": "01:00:29",
-      "speakers": [
-        "Sergey Cheremisinov",
-        "Scott Holmes Music",
-        "Andrew Wardlaw"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3783,10 +3228,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91735141",
       "itunes_duration": "01:21:36",
-      "speakers": [
-        "people Andrewkn",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3804,9 +3246,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79597764",
       "itunes_duration": "01:08:57",
-      "speakers": [
-        "people Andrewkn"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3824,11 +3264,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79994995",
       "itunes_duration": "01:09:22",
-      "speakers": [
-        "Drake Stafford",
-        "Jonah Dempcy",
-        "Scott Holmes Music"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3865,9 +3301,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71788078",
       "itunes_duration": "01:00:50",
-      "speakers": [
-        "Sergey Cheremisinov"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3885,9 +3319,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "88935411",
       "itunes_duration": "01:18:41",
-      "speakers": [
-        "Sergey Cheremisinov"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3906,8 +3338,7 @@
       "enclosure_length": "76128793",
       "itunes_duration": "01:05:21",
       "speakers": [
-        "Shay Brahem",
-        "Fachhochschule Dortmundand"
+        "explosive decision"
       ],
       "topics": [
         "adventure",
@@ -3926,10 +3357,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83422491",
       "itunes_duration": "01:12:56",
-      "speakers": [
-        "Shay Brahem",
-        "Fachhochschule Dortmundand"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3965,9 +3393,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77044423",
       "itunes_duration": "01:06:17",
-      "speakers": [
-        "Jesse Spillane"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -3985,9 +3411,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71073491",
       "itunes_duration": "01:00:05",
-      "speakers": [
-        "Kai Engel"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4005,9 +3429,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78917459",
       "itunes_duration": "01:08:15",
-      "speakers": [
-        "Bryan Teoh"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4026,7 +3448,7 @@
       "enclosure_length": "69855200",
       "itunes_duration": "00:58:49",
       "speakers": [
-        "Kai Engel"
+        "Amber's sworn foe"
       ],
       "topics": [
         "adventure",
@@ -4045,9 +3467,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90378337",
       "itunes_duration": "01:20:11",
-      "speakers": [
-        "Kai Engel"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4066,8 +3486,7 @@
       "enclosure_length": "92156159",
       "itunes_duration": "01:22:02",
       "speakers": [
-        "Finneas Cawl",
-        "kai-engel com"
+        "Finneas Cawl"
       ],
       "topics": [
         "adventure",
@@ -4087,8 +3506,7 @@
       "enclosure_length": "80165941",
       "itunes_duration": "01:09:33",
       "speakers": [
-        "Finneas Cawl",
-        "Kai Engel"
+        "Finneas Cawl"
       ],
       "topics": [
         "adventure",
@@ -4107,9 +3525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80154587",
       "itunes_duration": "01:09:33",
-      "speakers": [
-        "kai-engel com"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4145,9 +3561,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81057532",
       "itunes_duration": "01:10:29",
-      "speakers": [
-        "Finneas Cawl"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4184,7 +3598,7 @@
       "enclosure_length": "74805809",
       "itunes_duration": "01:17:22",
       "speakers": [
-        "Tres Horny Boys"
+        "Emerald City Comic Con"
       ],
       "topics": [
         "adventure",
@@ -4205,9 +3619,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "86914807",
       "itunes_duration": "01:16:34",
-      "speakers": [
-        "Jonah Dempcy"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4225,9 +3637,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70260168",
       "itunes_duration": "00:59:15",
-      "speakers": [
-        "Pipe Choir Iii"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4263,10 +3673,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83704566",
       "itunes_duration": "01:13:14",
-      "speakers": [
-        "Mirco Cortesi",
-        "people Airwolf"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4302,10 +3709,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71371534",
       "itunes_duration": "01:00:23",
-      "speakers": [
-        "Moon Finger",
-        "Pipe Choir Iii"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4323,9 +3727,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91013430",
       "itunes_duration": "01:20:50",
-      "speakers": [
-        "Magmi Soundtrack"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4343,9 +3745,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64895545",
       "itunes_duration": "00:53:40",
-      "speakers": [
-        "Magmi Soundtrack"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4363,9 +3763,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72584845",
       "itunes_duration": "01:01:40",
-      "speakers": [
-        "Magmi Soundtrack"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4383,9 +3781,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75748443",
       "itunes_duration": "01:04:57",
-      "speakers": [
-        "Michael Carrier"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4403,7 +3799,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "24061189",
       "itunes_duration": "00:14:52",
-      "speakers": [],
+      "speakers": [
+        "Start New",
+        "Block Party"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -4457,9 +3856,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80677257",
       "itunes_duration": "01:10:05",
-      "speakers": [
-        "people kafokafo"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4567,9 +3964,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94242737",
       "itunes_duration": "01:24:12",
-      "speakers": [
-        "well-armed competitor"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4626,7 +4021,7 @@
       "enclosure_length": "12640181",
       "itunes_duration": "00:13:09",
       "speakers": [
-        "Avery Alder"
+        "Prologue Didn"
       ],
       "topics": [
         "summary",
@@ -4648,7 +4043,7 @@
       "enclosure_length": "118864688",
       "itunes_duration": "01:50:09",
       "speakers": [
-        "Avery Alder"
+        "History Winter"
       ],
       "topics": [
         "adventure",
@@ -4671,7 +4066,7 @@
       "enclosure_length": "75485553",
       "itunes_duration": "01:05:00",
       "speakers": [
-        "Avery Alder"
+        "Terror New"
       ],
       "topics": [
         "adventure",
@@ -4693,9 +4088,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74714491",
       "itunes_duration": "01:04:12",
-      "speakers": [
-        "Avery Alder"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4717,7 +4110,7 @@
       "enclosure_length": "66088090",
       "itunes_duration": "01:08:46",
       "speakers": [
-        "Avery Alder"
+        "Opportunity Forgotten"
       ],
       "topics": [
         "adventure",
@@ -4739,9 +4132,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "93693345",
       "itunes_duration": "01:23:41",
-      "speakers": [
-        "Avery Alder"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4761,9 +4152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "73854243",
       "itunes_duration": "01:02:29",
-      "speakers": [
-        "Avery Alder"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -4782,7 +4171,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116442135",
       "itunes_duration": "02:01:10",
-      "speakers": [],
+      "speakers": [
+        "Finals Where"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -4862,9 +4253,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107401499",
       "itunes_duration": "01:41:37",
-      "speakers": [
-        "Travis GM'd"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone"
@@ -4904,9 +4293,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63026014",
       "itunes_duration": "01:05:35",
-      "speakers": [
-        "Heroic Oversight"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -5001,8 +4388,7 @@
       "enclosure_length": "103870122",
       "itunes_duration": "01:38:51",
       "speakers": [
-        "Join Duck",
-        "Dehumidifier Depot"
+        "Amnesty Halloween Special"
       ],
       "topics": [
         "adventure",
@@ -5104,10 +4490,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "2790202",
       "itunes_duration": "00:02:51",
-      "speakers": [
-        "Chris Plante",
-        "Russ Frushtick"
-      ],
+      "speakers": [],
       "topics": [
         "feed",
         "drop",
@@ -5291,8 +4674,7 @@
       "enclosure_length": "58740133",
       "itunes_duration": "01:01:07",
       "speakers": [
-        "Fire Drill",
-        "Althea Song"
+        "Fire Drill"
       ],
       "topics": [
         "adventure",
@@ -5370,9 +4752,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68267836",
       "itunes_duration": "01:11:02",
-      "speakers": [
-        "new friends"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -5433,7 +4813,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74070256",
       "itunes_duration": "01:17:04",
-      "speakers": [],
+      "speakers": [
+        "new questions"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -5561,9 +4943,7 @@
       "enclosure_length": "101639926",
       "itunes_duration": "01:36:32",
       "speakers": [
-        "Jason Statham",
-        "Paul Matijevic",
-        "John Harper"
+        "Jason Statham"
       ],
       "topics": [
         "adventure",
@@ -5584,7 +4964,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64765347",
       "itunes_duration": "01:07:23",
-      "speakers": [],
+      "speakers": [
+        "Four Sidekicks Walk Into"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -5623,9 +5005,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87576142",
       "itunes_duration": "01:21:54",
-      "speakers": [
-        "Brennan Lee Mulligan"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -5894,7 +5274,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108685792",
       "itunes_duration": "01:53:06",
-      "speakers": [],
+      "speakers": [
+        "West Virginia",
+        "Pine Guard"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6079,7 +5462,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61031380",
       "itunes_duration": "01:03:30",
-      "speakers": [],
+      "speakers": [
+        "West Virginia",
+        "Pine Guard"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6097,7 +5483,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69611040",
       "itunes_duration": "01:12:26",
-      "speakers": [],
+      "speakers": [
+        "Lunar Interlude"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6116,8 +5504,7 @@
       "enclosure_length": "85518577",
       "itunes_duration": "01:28:59",
       "speakers": [
-        "Angus McDonald",
-        "Tres Horny Boys"
+        "Angus McDonald"
       ],
       "topics": [
         "adventure",
@@ -6210,7 +5597,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "94047612",
       "itunes_duration": "01:37:52",
-      "speakers": [],
+      "speakers": [
+        "catastrophe averted"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6228,9 +5617,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87264464",
       "itunes_duration": "01:30:48",
-      "speakers": [
-        "Follow Tres Horny Boys"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -6308,7 +5695,7 @@
       "enclosure_length": "61938422",
       "itunes_duration": "01:04:27",
       "speakers": [
-        "Evan Palmer"
+        "West Virginia"
       ],
       "topics": [
         "adventure",
@@ -6328,7 +5715,7 @@
       "enclosure_length": "80094317",
       "itunes_duration": "01:23:20",
       "speakers": [
-        "Tres Horny Boys"
+        "San Francisco"
       ],
       "topics": [
         "adventure",
@@ -6497,7 +5884,12 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67354868",
       "itunes_duration": "01:05:24",
-      "speakers": [],
+      "speakers": [
+        "Experiments Post",
+        "Season Two",
+        "Talk Show About",
+        "People Who Do"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6518,7 +5910,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "16050394",
       "itunes_duration": "00:11:57",
-      "speakers": [],
+      "speakers": [
+        "Season Two"
+      ],
       "topics": [
         "announcement",
         "zone",
@@ -6614,7 +6008,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79123875",
       "itunes_duration": "01:13:06",
-      "speakers": [],
+      "speakers": [
+        "Dry River"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6633,8 +6029,7 @@
       "enclosure_length": "78824124",
       "itunes_duration": "01:22:01",
       "speakers": [
-        "Dust Travis",
-        "Urban Shadows"
+        "Dust Travis"
       ],
       "topics": [
         "setup",
@@ -6690,7 +6085,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64748243",
       "itunes_duration": "01:07:22",
-      "speakers": [],
+      "speakers": [
+        "Monongahela National Forest"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6726,7 +6123,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63632431",
       "itunes_duration": "01:06:12",
-      "speakers": [],
+      "speakers": [
+        "West Virginia"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -6874,7 +6273,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74905603",
       "itunes_duration": "01:17:56",
-      "speakers": [],
+      "speakers": [
+        "Season Two"
+      ],
       "topics": [
         "setup",
         "adventure",
@@ -6893,7 +6294,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "97042356",
       "itunes_duration": "01:40:59",
-      "speakers": [],
+      "speakers": [
+        "San Diego"
+      ],
       "topics": [
         "adventure",
         "zone",
@@ -7251,7 +6654,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "66148133",
       "itunes_duration": "01:08:50",
-      "speakers": [],
+      "speakers": [
+        "Chapter Five Strange"
+      ],
       "topics": [
         "suffering",
         "game",
@@ -7307,7 +6712,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74833642",
       "itunes_duration": "01:17:52",
-      "speakers": [],
+      "speakers": [
+        "Chapter Three Wonderland"
+      ],
       "topics": [
         "suffering",
         "game",
@@ -7344,9 +6751,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62084436",
       "itunes_duration": "01:04:36",
-      "speakers": [
-        "Zackery Wilson"
-      ],
+      "speakers": [],
       "topics": [
         "suffering",
         "game",
@@ -7384,7 +6789,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63688493",
       "itunes_duration": "01:06:16",
-      "speakers": [],
+      "speakers": [
+        "Chapter One After"
+      ],
       "topics": [
         "suffering",
         "game",
@@ -7439,7 +6846,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "78609831",
       "itunes_duration": "01:15:10",
-      "speakers": [],
+      "speakers": [
+        "Chapter Eight Could"
+      ],
       "topics": [
         "eleventh",
         "hour",
@@ -7457,9 +6866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "74194158",
       "itunes_duration": "01:10:34",
-      "speakers": [
-        "Tres Horny Boys"
-      ],
+      "speakers": [],
       "topics": [
         "eleventh",
         "hour",
@@ -7478,7 +6885,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "87648330",
       "itunes_duration": "01:24:34",
-      "speakers": [],
+      "speakers": [
+        "Chapter Six If"
+      ],
       "topics": [
         "eleventh",
         "hour",
@@ -7496,7 +6905,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67875826",
       "itunes_duration": "01:04:00",
-      "speakers": [],
+      "speakers": [
+        "Chapter Five Now"
+      ],
       "topics": [
         "eleventh",
         "hour",
@@ -7550,7 +6961,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72902210",
       "itunes_duration": "01:09:14",
-      "speakers": [],
+      "speakers": [
+        "Chapter Two What"
+      ],
       "topics": [
         "eleventh",
         "hour",
@@ -7587,7 +7000,8 @@
       "enclosure_length": "6047596",
       "itunes_duration": "00:02:51",
       "speakers": [
-        "ly tazboston"
+        "Boston Announcement",
+        "Wilbur Theater"
       ],
       "topics": [
         "adventure",
@@ -7629,8 +7043,7 @@
       "enclosure_length": "75783573",
       "itunes_duration": "01:12:13",
       "speakers": [
-        "Will Lucas",
-        "Will Kravitz"
+        "Chapter Eleven After"
       ],
       "topics": [
         "crystal",
@@ -7667,7 +7080,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "67046186",
       "itunes_duration": "01:03:08",
-      "speakers": [],
+      "speakers": [
+        "dead foe"
+      ],
       "topics": [
         "crystal",
         "kingdom",
@@ -7685,7 +7100,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "81033376",
       "itunes_duration": "01:20:58",
-      "speakers": [],
+      "speakers": [
+        "Chapter Eight Hey"
+      ],
       "topics": [
         "crystal",
         "kingdom",
@@ -7704,7 +7121,7 @@
       "enclosure_length": "102107300",
       "itunes_duration": "01:42:55",
       "speakers": [
-        "Barry Bluejeans"
+        "Zone Happy"
       ],
       "topics": [
         "adventure",
@@ -7741,7 +7158,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64692898",
       "itunes_duration": "01:00:41",
-      "speakers": [],
+      "speakers": [
+        "Chapter Six Can"
+      ],
       "topics": [
         "crystal",
         "kingdom",
@@ -7831,7 +7250,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "65418281",
       "itunes_duration": "01:01:26",
-      "speakers": [],
+      "speakers": [
+        "Chapter One"
+      ],
       "topics": [
         "crystal",
         "kingdom",
@@ -7870,9 +7291,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "72578806",
       "itunes_duration": "01:08:53",
-      "speakers": [
-        "Gaia Sash"
-      ],
+      "speakers": [],
       "topics": [
         "petal",
         "metal",
@@ -7926,14 +7345,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "125675157",
       "itunes_duration": "02:04:09",
-      "speakers": [
-        "Stuart Wellington",
-        "Elliott Kalan",
-        "Dan McCoy",
-        "Lucian Buttwatcher",
-        "Zhubin Parang",
-        "Tanzer Silverview"
-      ],
+      "speakers": [],
       "topics": [
         "adventure",
         "zone",
@@ -7953,7 +7365,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61954116",
       "itunes_duration": "00:57:50",
-      "speakers": [],
+      "speakers": [
+        "Chapter Seven",
+        "Battlewagon Races"
+      ],
       "topics": [
         "petal",
         "metal",
@@ -7972,7 +7387,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59226297",
       "itunes_duration": "00:55:00",
-      "speakers": [],
+      "speakers": [
+        "Chapter Six Can"
+      ],
       "topics": [
         "petal",
         "metal",
@@ -8102,7 +7519,7 @@
       "enclosure_length": "64362832",
       "itunes_duration": "01:00:20",
       "speakers": [
-        "Gary Sinise"
+        "Rockport Limited"
       ],
       "topics": [
         "murder",
@@ -8123,7 +7540,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63746026",
       "itunes_duration": "00:59:42",
-      "speakers": [],
+      "speakers": [
+        "Rockport Limited"
+      ],
       "topics": [
         "murder",
         "rockport",
@@ -8142,7 +7561,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54089186",
       "itunes_duration": "00:56:16",
-      "speakers": [],
+      "speakers": [
+        "Rockport Limited"
+      ],
       "topics": [
         "murder",
         "rockport",
@@ -8161,7 +7582,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59671451",
       "itunes_duration": "00:55:27",
-      "speakers": [],
+      "speakers": [
+        "Rockport Limited"
+      ],
       "topics": [
         "murder",
         "rockport",
@@ -8180,7 +7603,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62040389",
       "itunes_duration": "00:57:55",
-      "speakers": [],
+      "speakers": [
+        "Rockport Limited"
+      ],
       "topics": [
         "murder",
         "rockport",
@@ -8199,7 +7624,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63963364",
       "itunes_duration": "01:03:11",
-      "speakers": [],
+      "speakers": [
+        "Rockport Limited"
+      ],
       "topics": [
         "murder",
         "rockport",
@@ -8296,9 +7723,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60234368",
       "itunes_duration": "00:56:03",
-      "speakers": [
-        "Luna Bar"
-      ],
+      "speakers": [],
       "topics": [
         "gerblins",
         "chapter"
@@ -8332,7 +7757,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "69469378",
       "itunes_duration": "01:05:39",
-      "speakers": [],
+      "speakers": [
+        "Chapter Four After",
+        "Wave Echo"
+      ],
       "topics": [
         "gerblins",
         "chapter"
@@ -8349,9 +7777,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "80604084",
       "itunes_duration": "01:17:14",
-      "speakers": [
-        "Gundren Rockseeker"
-      ],
+      "speakers": [],
       "topics": [
         "gerblins",
         "chapter"
@@ -8368,9 +7794,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71229926",
       "itunes_duration": "01:07:29",
-      "speakers": [
-        "Barry Bluejeans"
-      ],
+      "speakers": [],
       "topics": [
         "gerblins",
         "chapter"
@@ -8418,236 +7842,237 @@
 
 ## Episodes (newest first)
 
-- 2026-02-19 — The Adventure Zone Royale: Episode 18 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music, Jean Toba, Blear Moon
-- 2026-02-05 — The Adventure Zone Royale: Episode 17 — speakers: Wizard Disco, Louie Zong, Blear Moon, Jean Toba, Scott Holmes Music, Mark Lingard
-- 2026-01-22 — The Adventure Zone Royale: Episode 16 — speakers: Wizard Disco, Louie Zong, Mark Lingard, Scott Holmes Music
-- 2026-01-08 — The Adventure Zone: Dadlands 4: Don’t Cry Uncle — speakers: Walton Goggins, Jason Shaw
-- 2025-12-18 — The Adventure Zone Royale: Episode 15 — speakers: Wizard Disco, Louie Zong, Jean Toba
-- 2025-12-04 — The Adventure Zone Royale: Episode 14 — speakers: Wizard Disco, Louie Zong, Jean Toba, Harmony House
-- 2025-11-20 — The Adventure Zone Royale: Episode 13 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music, Evan Schaffer
-- 2025-11-06 — The Adventure Zone Royale: Episode 12 — speakers: Wizard Disco, Louie Zong, Lex Villena, Jingle Bells Calm, Kevin MacLeod, Jean Toba, Kirk Osamayo, Blear Moon
-- 2025-10-23 — The Adventure Zone Royale: Episode 11 — speakers: Wizard Disco, Louie Zong, Jason Shaw, Scott Holmes Music
-- 2025-10-09 — The Adventure Zone Royale: Episode 10 — speakers: Wizard Disco, Louie Zong, Evan Schaffer
-- 2025-09-25 — The Adventure Zone Royale: Episode 9 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music, Jean Toba, Evan Schaffer, Kirk Osamayo
-- 2025-09-11 — The Adventure Zone Royale: Episode 8 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music
-- 2025-08-28 — The Adventure Zone Royale: Episode 7 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music
+- 2026-03-05 — The Adventure Zone Royale: Episode 19
+- 2026-02-19 — The Adventure Zone Royale: Episode 18
+- 2026-02-05 — The Adventure Zone Royale: Episode 17
+- 2026-01-22 — The Adventure Zone Royale: Episode 16
+- 2026-01-08 — The Adventure Zone: Dadlands 4: Don’t Cry Uncle
+- 2025-12-18 — The Adventure Zone Royale: Episode 15
+- 2025-12-04 — The Adventure Zone Royale: Episode 14
+- 2025-11-20 — The Adventure Zone Royale: Episode 13 — speakers: Royale Them
+- 2025-11-06 — The Adventure Zone Royale: Episode 12
+- 2025-10-23 — The Adventure Zone Royale: Episode 11
+- 2025-10-09 — The Adventure Zone Royale: Episode 10
+- 2025-09-25 — The Adventure Zone Royale: Episode 9
+- 2025-09-11 — The Adventure Zone Royale: Episode 8
+- 2025-08-28 — The Adventure Zone Royale: Episode 7
 - 2025-08-21 — ATTN: Live shows up in MaxFun BoCo feed!
-- 2025-08-14 — The Adventure Zone Royale: Episode 6 — speakers: Wizard Disco, Louie Zong, Kirk Osamayo, Blear Moon
-- 2025-07-31 — The Adventure Zone Royale: Episode 5 — speakers: Royale Theme, Wizard Disco, Louie Zong, Mystery Mammal
-- 2025-07-17 — The Adventure Zone Royale: Episode 4 — speakers: Wizard Disco, Louie Zong, Shay Brahem, Fachhochschule Dortmund, Scott Holmes Music
-- 2025-07-03 — The Adventure Zone Royale: Episode 3 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music, Blear Moon
-- 2025-06-19 — The Adventure Zone Royale: Episode 2 — speakers: Wizard Disco, Louie Zong, Scott Holmes Music, Jean Toba, Kai Engel
-- 2025-06-05 — The Adventure Zone Royale: Episode 1 — speakers: Wizard Disco, Louie Zong
-- 2025-05-29 — Sexy Battle Wizards: Live in Raleigh! — speakers: Litch Buchanan, Alexander Nakarada, Zombie Rock, Jason Shaw
-- 2025-05-22 — The The Adventure Zone Zone: Abnimals Wrap-Up! — speakers: Abnimals Wrap, Abnimals Game Rules
-- 2025-05-15 — The Adventure Zone Versus Hamlet: Live in Charlotte! — speakers: Thrilliam Shakespere, Jason Shaw
-- 2025-05-08 — The Adventure Zone Versus Robin Hood: Live in Portland! — speakers: Robin Hood, Lady Godwin, Kevin MacLeod
-- 2025-05-01 — The Adventure Zone: Abnimals Ep. 28: Final Fight! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Scott Holmes Music, Jesse Spillane
-- 2025-04-17 — The Adventure Zone: Abnimals Ep. 27: A Walrus Among Us! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton
-- 2025-04-10 — The Adventure Zone: Abnimals Ep. 26: Radical Rescue! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Jesse Spillane, Scott Holmes Music
-- 2025-04-03 — The Adventure Zone: Abnimals Ep. 25: Grate Expectations! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Emerald Therapy, Jason Shaw, Beat Mekanik, ee beatmekanik
-- 2025-03-27 — The Adventure Zone: Abnimals Ep. 24: A SCUZZ of Our Own! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Kate Kody, Jesse Spillane, Emerald Therapy, Jason Shaw
-- 2025-03-20 — The Adventure Zone: Abnimals Ep. 23: A Lair of SCUZZ and Villainy! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Rafael Krux, Kate Kody, Emerald Therapy, Jason Shaw
-- 2025-03-17 — Feed Drop: Clint and Justin join MFD Spring Break! — speakers: Feed Drop, Dave Holmes, Jeremy Bent, Oscar Montoya, Tom Lum, Ellen Weatherford, Alex Schmidt, Brenda Snell
-- 2025-03-13 — The Adventure Zone: Abnimals Ep. 22: Escape from Governor's Island! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Harmony House
+- 2025-08-14 — The Adventure Zone Royale: Episode 6
+- 2025-07-31 — The Adventure Zone Royale: Episode 5
+- 2025-07-17 — The Adventure Zone Royale: Episode 4
+- 2025-07-03 — The Adventure Zone Royale: Episode 3
+- 2025-06-19 — The Adventure Zone Royale: Episode 2
+- 2025-06-05 — The Adventure Zone Royale: Episode 1 — speakers: Divination Sixty
+- 2025-05-29 — Sexy Battle Wizards: Live in Raleigh! — speakers: Sexy Battle Wizards
+- 2025-05-22 — The The Adventure Zone Zone: Abnimals Wrap-Up! — speakers: Abnimals Wrap
+- 2025-05-15 — The Adventure Zone Versus Hamlet: Live in Charlotte! — speakers: Thrilliam Shakespere
+- 2025-05-08 — The Adventure Zone Versus Robin Hood: Live in Portland! — speakers: Robin Hood
+- 2025-05-01 — The Adventure Zone: Abnimals Ep. 28: Final Fight! — speakers: Final Fight
+- 2025-04-17 — The Adventure Zone: Abnimals Ep. 27: A Walrus Among Us! — speakers: Walrus Among Us
+- 2025-04-10 — The Adventure Zone: Abnimals Ep. 26: Radical Rescue! — speakers: Radical Rescue, Greenback Guardians
+- 2025-04-03 — The Adventure Zone: Abnimals Ep. 25: Grate Expectations!
+- 2025-03-27 — The Adventure Zone: Abnimals Ep. 24: A SCUZZ of Our Own!
+- 2025-03-20 — The Adventure Zone: Abnimals Ep. 23: A Lair of SCUZZ and Villainy!
+- 2025-03-17 — Feed Drop: Clint and Justin join MFD Spring Break! — speakers: Feed Drop
+- 2025-03-13 — The Adventure Zone: Abnimals Ep. 22: Escape from Governor's Island!
 - 2025-03-06 — The Adventure Zone vs Romeo vs Juliet: Live in Tampa! — speakers: Lady Godwin
-- 2025-02-27 — The Adventure Zone: Abnimals Ep. 21: A Deal With Killdeath! — speakers: Justin McElroy, Eric Near, Jonathan Coulton, Jesse Spillane, Midnight Commando, Scott Holmes Music
-- 2025-02-20 — The Adventure Zone: Abnimals Ep. 20: Breaking In! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Bryan Teoh, Jesse Spillane, Patrick Steel, Wax Lyricist
-- 2025-02-13 — The Adventure Zone: Abnimals Ep. 19: Friendshrimp Along the Way! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Beat Mekanik, ee beatmekanik, Emerald Therapy, Jason Shaw
-- 2025-02-06 — The Adventure Zone: Abnimals Ep. 18: Don't Bank on It! — speakers: Roger Moore, Artie Ficial, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Wax Lyricist
-- 2025-01-30 — The Adventure Zone: Abnimals Ep. 17: Figging Around! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Wax Lyricist, Chi Town Funk, Kate Kody, Jesse Spillane
-- 2025-01-23 — The Adventure Zone: Abnimals Ep. 16: Cell Block Wango Bango Tango! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Awkward Cafe, Kate Kody, Patrick Steel, Wax Lyricist
-- 2025-01-16 — The Adventure Zone: Abnimals Ep. 15: Covert Cops! — speakers: Covert Cops, Goshua Darnet, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Awkward Cafe, Kate Kody
-- 2025-01-09 — The Adventure Zone: Abnimals Ep. 14: Hide and Sneak! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Jesse Spillane
-- 2025-01-02 — The Adventure Zone: Abnimals Ep. 13: Enforcement Infiltration! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Wax Lyricist, Kate Kody
-- 2024-12-19 — The Adventure Zone: Abnimals Ep. 12: Loose Eel! — speakers: Loose Eel, Eel Patrick Harris, Sigma Base, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Kate Kody
-- 2024-12-12 — The Adventure Zone: Abnimals Ep. 11: Warehouse Wipeout! — speakers: Warehouse Wipeout, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Beat Mekanik, ee beatmekanik, Jesse Spillane
-- 2024-12-05 — The Adventure Zone: Abnimals Ep. 10: Taking Out the Trash! — speakers: Herr Dryer, Justin McElroy, Eric Near, Jonathan Coulton, Wax Lyricist, Beat Mekanik, ee beatmekanik
-- 2024-11-28 — The Adventure Zone: Abnimals Ep. 9: Dry or Die! — speakers: Herr Dryer, Badger Man, Jason Charles Miller, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Razor Rock
-- 2024-11-21 — The Adventure Zone: Abnimals Ep. 8: Security Measures! — speakers: Paul Foxcroft, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Beat Mekanik, ee beatmekanik, Bryan Teoh
-- 2024-11-14 — The Adventure Zone: Abnimals Ep. 7: Gearing Up! — speakers: Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Beat Mekanik, ee beatmekanik, Chi Town Funk, Jesse Spillane
-- 2024-11-07 — The Adventure Zone: Abnimals Ep. 6: Rogue Robots! — speakers: pixiesandpins com, Justin McElroy, Eric Near, Jonathan Coulton, Jason Shaw, Jesse Spillane
+- 2025-02-27 — The Adventure Zone: Abnimals Ep. 21: A Deal With Killdeath!
+- 2025-02-20 — The Adventure Zone: Abnimals Ep. 20: Breaking In!
+- 2025-02-13 — The Adventure Zone: Abnimals Ep. 19: Friendshrimp Along the Way!
+- 2025-02-06 — The Adventure Zone: Abnimals Ep. 18: Don't Bank on It! — speakers: Roger Moore, Artie Ficial
+- 2025-01-30 — The Adventure Zone: Abnimals Ep. 17: Figging Around! — speakers: new allies, new information
+- 2025-01-23 — The Adventure Zone: Abnimals Ep. 16: Cell Block Wango Bango Tango! — speakers: Cell Block Wango Bango
+- 2025-01-16 — The Adventure Zone: Abnimals Ep. 15: Covert Cops! — speakers: Covert Cops
+- 2025-01-09 — The Adventure Zone: Abnimals Ep. 14: Hide and Sneak!
+- 2025-01-02 — The Adventure Zone: Abnimals Ep. 13: Enforcement Infiltration! — speakers: Enforcement Infiltration
+- 2024-12-19 — The Adventure Zone: Abnimals Ep. 12: Loose Eel! — speakers: Loose Eel, Eel Patrick Harris
+- 2024-12-12 — The Adventure Zone: Abnimals Ep. 11: Warehouse Wipeout! — speakers: Warehouse Wipeout
+- 2024-12-05 — The Adventure Zone: Abnimals Ep. 10: Taking Out the Trash! — speakers: Herr Dryer
+- 2024-11-28 — The Adventure Zone: Abnimals Ep. 9: Dry or Die! — speakers: Herr Dryer
+- 2024-11-21 — The Adventure Zone: Abnimals Ep. 8: Security Measures!
+- 2024-11-14 — The Adventure Zone: Abnimals Ep. 7: Gearing Up!
+- 2024-11-07 — The Adventure Zone: Abnimals Ep. 6: Rogue Robots! — speakers: Rogue Robots
 - 2024-10-31 — The Adventure Zone Versus Halloween: Live in Phoenix!
-- 2024-10-24 — The Adventure Zone: Abnimals Ep. 5: Stealing Silver! — speakers: Jeff Leopard, Jason Charles Miller, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Razor Rock, Wax Lyricist
-- 2024-10-17 — The Adventure Zone: Abnimals Ep. 4: Theft at the Gala! — speakers: Aabriya Iyengar, Justin McElroy, Eric Near, Jonathan Coulton, Kevin MacLeod, Razor Rock, Wax Lyricist, Emerald Therapy
-- 2024-10-10 — The Adventure Zone: Abnimals Ep. 3: Training Day! — speakers: Spike Splosion, Abnimals Theme, Justin McElroy, Eric Near, Jonathan Coulton, Kevin MacLeod, Beat Mekanik, ee beatmekanik
-- 2024-10-03 — The Adventure Zone: Abnimals Ep. 2: Museum Showdown! — speakers: Roger Moore, Paul Foxcroft, Justin McElroy, Eric Near, Jonathan Coulton, Patrick Steel, Midnight Commando, Wax Lyricist
-- 2024-09-26 — The Adventure Zone: Abnimals Ep. 1: Bunny Heist! — speakers: Bunny Heist, Roger Moore, Erika Ishii, Paul Foxcroft, Justin McElroy, Eric Near, Jonathan Coulton, Emerald Therapy
-- 2024-09-19 — Setup - The Adventure Zone: Abnimals — speakers: Zoo Keeper, Justin McElroy, Eric Near, Jonathan Coulton, Beat Mekanik, ee beatmekanik
-- 2024-09-05 — The Adventure Zone Versus The Great Gatsby: Live in Tacoma! — speakers: Lady Godwin, Kevin MacLeod
+- 2024-10-24 — The Adventure Zone: Abnimals Ep. 5: Stealing Silver! — speakers: Stealing Silver
+- 2024-10-17 — The Adventure Zone: Abnimals Ep. 4: Theft at the Gala!
+- 2024-10-10 — The Adventure Zone: Abnimals Ep. 3: Training Day!
+- 2024-10-03 — The Adventure Zone: Abnimals Ep. 2: Museum Showdown! — speakers: Roger Moore
+- 2024-09-26 — The Adventure Zone: Abnimals Ep. 1: Bunny Heist! — speakers: Bunny Heist, Roger Moore
+- 2024-09-19 — Setup - The Adventure Zone: Abnimals — speakers: Zoo Keepe
+- 2024-09-05 — The Adventure Zone Versus The Great Gatsby: Live in Tacoma! — speakers: Lady Godwin
 - 2024-08-22 — The The Adventure Zone Zone: Versus Dracula Wrap-Up! — speakers: Versus Dracula Wrap-Up
 - 2024-08-08 — The Adventure Zone Versus Dracula - Episode 30
 - 2024-08-01 — The Adventure Zone Versus Dracula - Episode 29
 - 2024-07-25 — The Adventure Zone Versus Dracula - Episode 28
 - 2024-07-18 — The Adventure Zone Versus Dracula - Episode 27
-- 2024-07-11 — The Adventure Zone Versus Dracula - Episode 26 — speakers: Godwin Teen Wolfs, Jason Shaw, Nuno Adelaida
+- 2024-07-11 — The Adventure Zone Versus Dracula - Episode 26
 - 2024-07-04 — The Adventure Zone Versus Dracula - Episode 25
-- 2024-06-27 — The Adventure Zone Versus Dracula - Episode 24
+- 2024-06-27 — The Adventure Zone Versus Dracula - Episode 24 — speakers: Mutt ma
 - 2024-06-20 — The Adventure Zone Versus Dracula - Episode 23
 - 2024-06-13 — The Adventure Zone Versus Dracula - Episode 22
-- 2024-06-06 — The Adventure Zone Versus Dracula - Episode 21 — speakers: Nuno Adelaida, Erik Satie, Kevin MacLeod
-- 2024-05-30 — The Adventure Zone Versus Dracula - Episode 20 — speakers: Kevin MacLeod, Jason Shaw
+- 2024-06-06 — The Adventure Zone Versus Dracula - Episode 21
+- 2024-05-30 — The Adventure Zone Versus Dracula - Episode 20
 - 2024-05-23 — The Adventure Zone Versus Moby Dick: Live in Chicago! — speakers: Lady Godwin
-- 2024-05-16 — The Adventure Zone Versus Dracula - Episode 19 — speakers: Kevin MacLeod
-- 2024-05-09 — The Adventure Zone Versus Dracula - Episode 18 — speakers: Kevin MacLeod
+- 2024-05-16 — The Adventure Zone Versus Dracula - Episode 19
+- 2024-05-09 — The Adventure Zone Versus Dracula - Episode 18
 - 2024-05-02 — The Adventure Zone Versus Dracula - Episode 17
-- 2024-04-25 — The Adventure Zone Versus Dracula - Episode 16 — speakers: Kevin MacLeod
-- 2024-04-18 — The Adventure Zone Versus Dracula - Episode 15 — speakers: Backwards Dracula, Kevin MacLeod
+- 2024-04-25 — The Adventure Zone Versus Dracula - Episode 16
+- 2024-04-18 — The Adventure Zone Versus Dracula - Episode 15 — speakers: Backwards Dracula
 - 2024-04-11 — The Adventure Zone Versus Dracula - Episode 14
 - 2024-04-04 — The Adventure Zone Versus Dracula - Episode 13
-- 2024-03-28 — The Adventure Zone Versus Dracula - Episode 12 — speakers: Kevin MacLeod
+- 2024-03-28 — The Adventure Zone Versus Dracula - Episode 12
 - 2024-03-21 — The Adventure Zone Versus Dracula - Episode 11
-- 2024-03-18 — MaxFunDrive 2024: BoCo Highlights! — speakers: Matt Mercer
+- 2024-03-18 — MaxFunDrive 2024: BoCo Highlights!
 - 2024-03-14 — The Adventure Zone Versus Dracula - Episode 10
 - 2024-03-07 — The Adventure Zone Versus Dracula - Episode 9
 - 2024-02-29 — The Adventure Zone Versus Dracula - Episode 8
-- 2024-02-22 — The Adventure Zone Versus Dracula - Episode 7 — speakers: Lady Godwin, Kevin MacLeod
-- 2024-02-15 — The Adventure Zone Versus Dracula - Episode 6 — speakers: Nuno Adelaida
-- 2024-02-08 — The Adventure Zone Versus Dracula - Episode 5 — speakers: Nuno Adelaida
-- 2024-02-01 — The Adventure Zone Versus Dracula - Episode 4 — speakers: Nuno Adelaida
-- 2024-01-25 — The Adventure Zone Versus Dracula - Episode 3 — speakers: Lady Godwin
-- 2024-01-18 — The Adventure Zone Versus Dracula - Episode 2 — speakers: Dracula Hunters, Lady Godwin, Nuno Adelaida
-- 2024-01-11 — The Adventure Zone Versus Dracula - Episode 1 — speakers: Erik Satie, Kevin MacLeod
+- 2024-02-22 — The Adventure Zone Versus Dracula - Episode 7 — speakers: Lady Godwin
+- 2024-02-15 — The Adventure Zone Versus Dracula - Episode 6
+- 2024-02-08 — The Adventure Zone Versus Dracula - Episode 5
+- 2024-02-01 — The Adventure Zone Versus Dracula - Episode 4
+- 2024-01-25 — The Adventure Zone Versus Dracula - Episode 3
+- 2024-01-18 — The Adventure Zone Versus Dracula - Episode 2 — speakers: Dracula Hunters
+- 2024-01-11 — The Adventure Zone Versus Dracula - Episode 1
 - 2024-01-04 — The Adventure Zone: Live in Seattle!
 - 2023-12-28 — COMING SOON: The Adventure Zone Vs. Dracula
-- 2023-12-21 — The Adventure Zone: Outre Space - Episode 4 — speakers: Kate Welch, Gabe Hicks, Moon Toad, Blear Moon, Lisa Hammer
-- 2023-12-14 — The Adventure Zone: Outre Space - Episode 3 — speakers: Kate Welch, Gabe Hicks, Evan Schaeffer, Moon Toad, Kirk Osamayao
-- 2023-12-07 — The Adventure Zone: Outre Space - Episode 2 — speakers: Kate Welch, Gabe Hicks, Moon Toad, Beat Mekanik, ee beatmekanik, Brylie Christopher Oxley, Lex Villena
-- 2023-11-30 — The Adventure Zone: Outre Space - Episode 1 — speakers: Kate Bishop, Miles Morales, Simon Williams, Kate Welch, Gabe Hicks, blogspot com, label Paradigm, Moon Toad
-- 2023-11-23 — The Adventure Zone: Hootenanny - 5tenanny LIVE at NYCC — speakers: John Harper, Kevin MacLeod
-- 2023-11-16 — The Adventure Zone: Hootenanny - 3tenanny Virtual Live Show — speakers: John Harper, Kevin MacLeod
-- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 3 — speakers: YouTube Channel, Aabria Iyengar
-- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 2 — speakers: Aabria Iyengar
-- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 1 — speakers: YouTube Channel, Aabria Iyengar
-- 2023-11-02 — The The Adventure Zone Zone: Steeplechase Wrap-Up! — speakers: Steeplechase Wrap, Marvel Mul
-- 2023-10-26 — The Adventure Zone: Dadlands 3: FAMLEE Business — speakers: Mom Brennan, Lee Mulligan, Jason Shaw, Alexander Nakarada
-- 2023-10-19 — The Adventure Zone: Steeplechase - Episode 42 — speakers: Eric Near, William Gousios, Kirk Osamayao, Lex Villena, Jason Shaw, Nicolai Heidlas
-- 2023-10-12 — The Adventure Zone: Steeplechase - Episode 41 — speakers: Eric Near, Kirk Osamayao, Lex Villena
-- 2023-10-05 — The Adventure Zone: Steeplechase - Episode 40 — speakers: Kevin MacLeod, Kirk Osamayao, Lex Villena, Marc Ferry
-- 2023-09-28 — The Adventure Zone: Steeplechase - Episode 39 — speakers: Bob Davis, Kirk Osamayao, Lex Villena, Monkey Warhol
-- 2023-09-21 — The Adventure Zone: Steeplechase - Episode 38 — speakers: Bob Davis, Kirk Osamayao
-- 2023-09-14 — The Adventure Zone: Steeplechase - Episode 37 — speakers: Slice Hicks, Kirk Osamayao, Kevin MacLeod, Monkey Warhol
-- 2023-09-07 — The Adventure Zone: Steeplechase - Episode 36 — speakers: Jason Shaw, Kirk Osamayao, Marc Ferry, Kevin MacLeod, Lex Villena
-- 2023-08-24 — The Adventure Zone: Steeplechase - Episode 35 — speakers: Marc Ferry, Kevin MacLeod, Lex Villena
-- 2023-08-10 — The Adventure Zone: Steeplechase - Episode 34 — speakers: Monkey Warhol, Marc Ferry, Lobo Loco, Kevin MacLeod, Kirk Osamayao
-- 2023-07-27 — The Adventure Zone: Steeplechase - Episode 33 — speakers: Marc Ferry, music slambience, Lex Villena
-- 2023-07-13 — The Adventure Zone: Steeplechase - Episode 32 — speakers: Monkey Warhol, Jason Shaw, Kevin MacLeod, Lex Villena, Marc Ferry
-- 2023-06-29 — The Adventure Zone: Steeplechase - Episode 31 — speakers: Kevin MacLeod, Kirk Osamayao, Lex Villena
-- 2023-06-22 — The Adventure Bone - LIVE in COLUMBUS — speakers: Charn Kickbucket, Adventure Skeletons, Grant Howitt, Chris Taylor, Camille Saint-Saëns, Kevin MacLeod
-- 2023-06-15 — The Adventure Zone: Steeplechase - Episode 30 — speakers: Kevin MacLeod, Jean Toba, Lex Villena, Kira Daly, Bryan Teoh
-- 2023-06-08 — The Adventure Zone: Steeplechase - Episode 29 — speakers: Monkey Warhol, Kirk Osamayao, Jason Shaw, Kevin MacLeod, Jean Toba
-- 2023-06-01 — The Adventure Zone: Steeplechase - Episode 28 — speakers: Kirk Osamayao, Lex Villena
-- 2023-05-25 — The Adventure Zone: Steeplechase - Episode 27 — speakers: Kevin MacLeod
-- 2023-05-18 — The Adventure Zone: Steeplechase - Episode 26 — speakers: Kirk Osamayao, Kai Engel
-- 2023-05-11 — The Adventure Zone: Spirit Breakers - Live in San Jose! — speakers: Sarah Winchester, Clint McElroy, Aabria Iyengar, Grant Howitt, Chris Taylor, Paul Sabourin, Satin Danger, Kevin MacLeod
-- 2023-05-04 — The Adventure Zone: Steeplechase - Episode 25 — speakers: Kirk Osamayao, Monkey Warhol
-- 2023-04-20 — The Adventure Zone: Steeplechase - Episode 24 — speakers: Kira Daly, Adeline Yeo, Maarten Schellekens, Fly Away, Kirk Osamayao, Monkey Warhol, Lex Villena
-- 2023-04-13 — The Adventure Zone: Steeplechase - Episode 23 — speakers: Adeline Yeo, Torsten Torsten, Kira Daly, Lex Villena, Kevin MacLeod
-- 2023-04-06 — The Adventure Zone: Steeplechase - Episode 22 — speakers: Monkey Warhol, Kirk Osamayao, Torsten Torsten
+- 2023-12-21 — The Adventure Zone: Outre Space - Episode 4
+- 2023-12-14 — The Adventure Zone: Outre Space - Episode 3
+- 2023-12-07 — The Adventure Zone: Outre Space - Episode 2
+- 2023-11-30 — The Adventure Zone: Outre Space - Episode 1
+- 2023-11-23 — The Adventure Zone: Hootenanny - 5tenanny LIVE at NYCC
+- 2023-11-16 — The Adventure Zone: Hootenanny - 3tenanny Virtual Live Show
+- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 3
+- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 2
+- 2023-11-09 — The Zone of Adventure: Imbalance - Episode 1
+- 2023-11-02 — The The Adventure Zone Zone: Steeplechase Wrap-Up! — speakers: Steeplechase Wrap
+- 2023-10-26 — The Adventure Zone: Dadlands 3: FAMLEE Business — speakers: Mom Brennan, Lee Mulligan
+- 2023-10-19 — The Adventure Zone: Steeplechase - Episode 42
+- 2023-10-12 — The Adventure Zone: Steeplechase - Episode 41 — speakers: both new
+- 2023-10-05 — The Adventure Zone: Steeplechase - Episode 40
+- 2023-09-28 — The Adventure Zone: Steeplechase - Episode 39 — speakers: Bob Davis
+- 2023-09-21 — The Adventure Zone: Steeplechase - Episode 38 — speakers: Bob Davis
+- 2023-09-14 — The Adventure Zone: Steeplechase - Episode 37
+- 2023-09-07 — The Adventure Zone: Steeplechase - Episode 36 — speakers: Old Kidadelphia
+- 2023-08-24 — The Adventure Zone: Steeplechase - Episode 35
+- 2023-08-10 — The Adventure Zone: Steeplechase - Episode 34 — speakers: unlikely allies
+- 2023-07-27 — The Adventure Zone: Steeplechase - Episode 33
+- 2023-07-13 — The Adventure Zone: Steeplechase - Episode 32
+- 2023-06-29 — The Adventure Zone: Steeplechase - Episode 31
+- 2023-06-22 — The Adventure Bone - LIVE in COLUMBUS — speakers: Charn Kickbuck
+- 2023-06-15 — The Adventure Zone: Steeplechase - Episode 30
+- 2023-06-08 — The Adventure Zone: Steeplechase - Episode 29
+- 2023-06-01 — The Adventure Zone: Steeplechase - Episode 28
+- 2023-05-25 — The Adventure Zone: Steeplechase - Episode 27
+- 2023-05-18 — The Adventure Zone: Steeplechase - Episode 26
+- 2023-05-11 — The Adventure Zone: Spirit Breakers - Live in San Jose! — speakers: Sarah Winchester
+- 2023-05-04 — The Adventure Zone: Steeplechase - Episode 25
+- 2023-04-20 — The Adventure Zone: Steeplechase - Episode 24
+- 2023-04-13 — The Adventure Zone: Steeplechase - Episode 23
+- 2023-04-06 — The Adventure Zone: Steeplechase - Episode 22
 - 2023-03-30 — The The Adventure Zone Zone: MaxFunDrive 2023
-- 2023-03-23 — The Adventure Zone: Steeplechase - Episode 21 — speakers: Alexander Nakarada, Maarten Schelleken
-- 2023-03-16 — The Adventure Zone: Steeplechase - Episode 20 — speakers: Kirk Osamayao, Alexander Nakarada, Kevin MacLeod, Lex Villena
-- 2023-03-09 — The Adventure Zone: Steeplechase - Episode 19 — speakers: Kevin MacLeod, Kira Daly, Adeline Yeo, Alexander Nakarada, Kirk Osamayao
-- 2023-03-02 — The Adventure Zone: Steeplechase - Episode 18 — speakers: Kevin MacLeod, Maarten Schelleken, Alexander Nakarada
-- 2023-02-23 — The Adventure Zone: Steeplechase - Episode 17 — speakers: Monkey Warhol, Kirk Osamayao
-- 2023-02-16 — The Adventure Zone: Steeplechase - Episode 16 — speakers: Monkey Warhol, Lobo Loco, Lex Villena
-- 2023-02-09 — The Adventure Zone: Steeplechase - Episode 15 — speakers: Drew Buzz
-- 2023-02-02 — The Adventure Zone: Steeplechase - Episode 14 — speakers: Kirk Osamayao
-- 2023-01-26 — The Adventure Zone: Steeplechase - Episode 13 — speakers: Lobo Loco, Lex Villena
-- 2023-01-19 — The Adventure Zone: Steeplechase - Episode 12 — speakers: Kirk Osamayao
-- 2023-01-12 — The Adventure Zone: Dadlands 2: Into the Corn Hole — speakers: Mom Brennan, Lee Mulligan, Jason Shaw
-- 2023-01-05 — The Adventure Zone: Steeplechase - Episode 11 — speakers: Monkey Warhol, Kirk Osamayao, Nicolai Heidlas
-- 2022-12-22 — The Adventure Zone: Steeplechase - Episode 10 — speakers: Lex Villena, Monkey Warhol
-- 2022-12-15 — The Adventure Zone: Steeplechase - Episode 9 — speakers: Jason Shaw, Monkey Warhol, techtheist ru, Lex Villena
-- 2022-12-08 — The Adventure Zone: Steeplechase - Episode 8 — speakers: Jean Toba, Lex Villena, Jason Shaw, Monkey Warhol
-- 2022-12-01 — The Adventure Zone: Steeplechase - Episode 7 — speakers: Kevin MacLeod, Monkey Warhol, Jason Shaw
-- 2022-11-24 — The Adventure Zone: Steeplechase - Episode 6 — speakers: Monkey Warhol
-- 2022-11-10 — The Adventure Zone: Steeplechase - Episode 5 — speakers: Kevin MacLeod, Motorcycle Scene, Pablo Perez, Lex Villena, Monkey Warhol
-- 2022-11-03 — The Adventure Zone: Steeplechase - Episode 4 — speakers: Lex Villena, Kevin MacLeod
-- 2022-10-27 — The Adventure Zone: Spirit Breakers — speakers: Spirit Breakers, Spookington Manor, Grey Poupon, Lorraine St Crash, Aabria Iyengar, Grant Howitt, Chris Taylor, Paul Sabourin
-- 2022-10-20 — The Adventure Zone: Steeplechase - Episode 3 — speakers: Kirk Osamayao, Monkey Warhol
-- 2022-10-13 — The Adventure Zone: Steeplechase - Episode 2 — speakers: Monkey Warhol, Lex Villena, Kirk Osamayao
-- 2022-10-06 — The Adventure Zone: Steeplechase - Episode 1 — speakers: Kirk Osamayao, Monkey Warhol, Pablo Perez
-- 2022-09-29 — Setup - The Adventure Zone: Steeplechase — speakers: Justin GMs
-- 2022-09-22 — The Adventure Zone: Dust Season 2 - Episode 4 — speakers: Dust Season, Dry River
-- 2022-09-15 — The Adventure Zone: Dust Season 2 - Episode 3
+- 2023-03-23 — The Adventure Zone: Steeplechase - Episode 21
+- 2023-03-16 — The Adventure Zone: Steeplechase - Episode 20
+- 2023-03-09 — The Adventure Zone: Steeplechase - Episode 19
+- 2023-03-02 — The Adventure Zone: Steeplechase - Episode 18
+- 2023-02-23 — The Adventure Zone: Steeplechase - Episode 17
+- 2023-02-16 — The Adventure Zone: Steeplechase - Episode 16
+- 2023-02-09 — The Adventure Zone: Steeplechase - Episode 15
+- 2023-02-02 — The Adventure Zone: Steeplechase - Episode 14
+- 2023-01-26 — The Adventure Zone: Steeplechase - Episode 13
+- 2023-01-19 — The Adventure Zone: Steeplechase - Episode 12
+- 2023-01-12 — The Adventure Zone: Dadlands 2: Into the Corn Hole — speakers: Mom Brennan, Lee Mulligan
+- 2023-01-05 — The Adventure Zone: Steeplechase - Episode 11
+- 2022-12-22 — The Adventure Zone: Steeplechase - Episode 10
+- 2022-12-15 — The Adventure Zone: Steeplechase - Episode 9
+- 2022-12-08 — The Adventure Zone: Steeplechase - Episode 8 — speakers: Stealswell Diamond
+- 2022-12-01 — The Adventure Zone: Steeplechase - Episode 7
+- 2022-11-24 — The Adventure Zone: Steeplechase - Episode 6 — speakers: Gutter City
+- 2022-11-10 — The Adventure Zone: Steeplechase - Episode 5 — speakers: Gutter City
+- 2022-11-03 — The Adventure Zone: Steeplechase - Episode 4 — speakers: Gutter City
+- 2022-10-27 — The Adventure Zone: Spirit Breakers — speakers: Spirit Breakers, Spookington Manor
+- 2022-10-20 — The Adventure Zone: Steeplechase - Episode 3
+- 2022-10-13 — The Adventure Zone: Steeplechase - Episode 2 — speakers: unfortunate hitches
+- 2022-10-06 — The Adventure Zone: Steeplechase - Episode 1
+- 2022-09-29 — Setup - The Adventure Zone: Steeplechase
+- 2022-09-22 — The Adventure Zone: Dust Season 2 - Episode 4 — speakers: Dust Season, Dry Riv
+- 2022-09-15 — The Adventure Zone: Dust Season 2 - Episode 3 — speakers: Dust Season
 - 2022-09-08 — The Adventure Zone: Dust Season 2 - Episode 2
-- 2022-09-01 — The Adventure Zone: Dust Season 2 - Episode 1
+- 2022-09-01 — The Adventure Zone: Dust Season 2 - Episode 1 — speakers: Dust Season, Crescent City
 - 2022-09-01 — Setup - The Adventure Zone: Dust Season 2 — speakers: Erika Ishii
-- 2022-08-25 — The Adventure Zone: Just Us - Live in San Diego! — speakers: Jason Shaw, Kevin MacLeod
-- 2022-08-18 — The The Adventure Zone Zone: Ethersea Wrap-Up! — speakers: Ethersea Wrap, Urban Shadows
+- 2022-08-25 — The Adventure Zone: Just Us - Live in San Diego! — speakers: Just Us, San Diego, Four Hundred, Two Friends
+- 2022-08-18 — The The Adventure Zone Zone: Ethersea Wrap-Up! — speakers: Ethersea Wrap
 - 2022-08-11 — The Adventure Zone: Live in Minneapolis! — speakers: Tres Horny Boys
-- 2022-07-28 — The Adventure Zone: Ethersea - Episode 44 — speakers: Alexander Nakarada, kai-engel com, Rafael Krux
-- 2022-07-14 — The Adventure Zone: Ethersea - Episode 43 — speakers: Sergey Cheremisinov, Jason Shaw, Kai Engel
-- 2022-06-30 — The Adventure Zone: Ethersea - Episode 42 — speakers: Sergey Cheremisinov
-- 2022-06-16 — The Adventure Zone: Ethersea - Episode 41 — speakers: Sergey Cheremisinov, Scott Holmes Music, Andrew Wardlaw
-- 2022-06-02 — The Adventure Zone: Ethersea - Episode 40 — speakers: people Andrewkn, Scott Holmes Music
-- 2022-05-26 — The Adventure Zone: Ethersea - Episode 39 — speakers: people Andrewkn
-- 2022-05-20 — The Adventure Zone: Ethersea - Episode 38 — speakers: Drake Stafford, Jonah Dempcy, Scott Holmes Music
+- 2022-07-28 — The Adventure Zone: Ethersea - Episode 44
+- 2022-07-14 — The Adventure Zone: Ethersea - Episode 43
+- 2022-06-30 — The Adventure Zone: Ethersea - Episode 42
+- 2022-06-16 — The Adventure Zone: Ethersea - Episode 41
+- 2022-06-02 — The Adventure Zone: Ethersea - Episode 40
+- 2022-05-26 — The Adventure Zone: Ethersea - Episode 39
+- 2022-05-20 — The Adventure Zone: Ethersea - Episode 38
 - 2022-05-05 — The The Adventure Zone Zone: MaxFun Drive 2022
-- 2022-04-28 — The Adventure Zone: Ethersea - Episode 37 — speakers: Sergey Cheremisinov
-- 2022-04-21 — The Adventure Zone: Ethersea - Episode 36 — speakers: Sergey Cheremisinov
-- 2022-04-14 — The Adventure Zone: Ethersea - Episode 35 — speakers: Shay Brahem, Fachhochschule Dortmundand
-- 2022-04-07 — The Adventure Zone: Ethersea - Episode 34 — speakers: Shay Brahem, Fachhochschule Dortmundand
+- 2022-04-28 — The Adventure Zone: Ethersea - Episode 37
+- 2022-04-21 — The Adventure Zone: Ethersea - Episode 36
+- 2022-04-14 — The Adventure Zone: Ethersea - Episode 35 — speakers: explosive decision
+- 2022-04-07 — The Adventure Zone: Ethersea - Episode 34
 - 2022-03-31 — The Adventure Zone: Ethersea - Episode 33
-- 2022-03-24 — The Adventure Zone: Ethersea - Episode 32 — speakers: Jesse Spillane
-- 2022-03-17 — The Adventure Zone: Ethersea - Episode 31 — speakers: Kai Engel
-- 2022-03-03 — The Adventure Zone: Ethersea - Episode 30 — speakers: Bryan Teoh
-- 2022-02-24 — The Adventure Zone: Ethersea - Episode 29 — speakers: Kai Engel
-- 2022-02-17 — The Adventure Zone: Ethersea - Episode 28 — speakers: Kai Engel
-- 2022-02-10 — The Adventure Zone: Ethersea - Episode 27 — speakers: Finneas Cawl, kai-engel com
-- 2022-02-03 — The Adventure Zone: Ethersea - Episode 26 — speakers: Finneas Cawl, Kai Engel
-- 2022-01-27 — The Adventure Zone: Ethersea - Episode 25 — speakers: kai-engel com
+- 2022-03-24 — The Adventure Zone: Ethersea - Episode 32
+- 2022-03-17 — The Adventure Zone: Ethersea - Episode 31
+- 2022-03-03 — The Adventure Zone: Ethersea - Episode 30
+- 2022-02-24 — The Adventure Zone: Ethersea - Episode 29 — speakers: Amber's sworn foe
+- 2022-02-17 — The Adventure Zone: Ethersea - Episode 28
+- 2022-02-10 — The Adventure Zone: Ethersea - Episode 27 — speakers: Finneas Cawl
+- 2022-02-03 — The Adventure Zone: Ethersea - Episode 26 — speakers: Finneas Cawl
+- 2022-01-27 — The Adventure Zone: Ethersea - Episode 25
 - 2022-01-20 — The Adventure Zone: Ethersea - Episode 24
-- 2022-01-13 — The Adventure Zone: Ethersea - Episode 23 — speakers: Finneas Cawl
+- 2022-01-13 — The Adventure Zone: Ethersea - Episode 23
 - 2022-01-07 — The Adventure Zone: Ethersea - Episode 22
-- 2021-12-23 — The Adventure Zone: Live at Emerald City Comic Con! — speakers: Tres Horny Boys
-- 2021-12-16 — The Adventure Zone: Ethersea - Episode 21 — speakers: Jonah Dempcy
-- 2021-12-09 — The Adventure Zone: Ethersea - Episode 20 — speakers: Pipe Choir Iii
+- 2021-12-23 — The Adventure Zone: Live at Emerald City Comic Con! — speakers: Emerald City Comic Con
+- 2021-12-16 — The Adventure Zone: Ethersea - Episode 21
+- 2021-12-09 — The Adventure Zone: Ethersea - Episode 20
 - 2021-12-02 — The Adventure Zone: Ethersea - Episode 19
-- 2021-11-25 — The Adventure Zone: Ethersea - Episode 18 — speakers: Mirco Cortesi, people Airwolf
+- 2021-11-25 — The Adventure Zone: Ethersea - Episode 18
 - 2021-11-18 — The Adventure Zone: Ethersea - Episode 17
-- 2021-11-11 — The Adventure Zone: Ethersea - Episode 16 — speakers: Moon Finger, Pipe Choir Iii
-- 2021-11-04 — The Adventure Zone: Ethersea - Episode 15 — speakers: Magmi Soundtrack
-- 2021-10-28 — The Adventure Zone: Ethersea - Episode 14 — speakers: Magmi Soundtrack
-- 2021-10-21 — The Adventure Zone: Ethersea - Episode 13 — speakers: Magmi Soundtrack
-- 2021-10-14 — The Adventure Zone: Ethersea - Episode 12 — speakers: Michael Carrier
-- 2021-10-12 — The Adventure Zone Primer: Where to Start
+- 2021-11-11 — The Adventure Zone: Ethersea - Episode 16
+- 2021-11-04 — The Adventure Zone: Ethersea - Episode 15
+- 2021-10-28 — The Adventure Zone: Ethersea - Episode 14
+- 2021-10-21 — The Adventure Zone: Ethersea - Episode 13
+- 2021-10-14 — The Adventure Zone: Ethersea - Episode 12
+- 2021-10-12 — The Adventure Zone Primer: Where to Start — speakers: Start New, Block Party
 - 2021-10-07 — The Adventure Zone: Ethersea - Episode 11
 - 2021-09-30 — The Adventure Zone: Ethersea - Episode 10
-- 2021-09-16 — The Adventure Zone: Ethersea - Episode 9 — speakers: people kafokafo
+- 2021-09-16 — The Adventure Zone: Ethersea - Episode 9
 - 2021-09-09 — The Adventure Zone: Ethersea - Episode 8
 - 2021-09-02 — The Adventure Zone: Ethersea - Episode 7
 - 2021-08-26 — The Adventure Zone: Ethersea - Episode 6
 - 2021-08-19 — The Adventure Zone: Ethersea - Episode 5
 - 2021-08-12 — The Adventure Zone: Ethersea - Episode 4
-- 2021-08-05 — The Adventure Zone: Ethersea - Episode 3 — speakers: well-armed competitor
+- 2021-08-05 — The Adventure Zone: Ethersea - Episode 3
 - 2021-07-22 — The Adventure Zone: Ethersea — Episode 2 — speakers: Bluespan Brokerage
 - 2021-07-08 — The Adventure Zone: Ethersea — Episode 1
-- 2021-07-01 — Summary: The Adventure Zone: Ethersea — Prologue — speakers: Avery Alder
-- 2021-06-24 — The Adventure Zone: Ethersea — Prologue V: The Weight of History — speakers: Avery Alder
-- 2021-06-10 — The Adventure Zone: Ethersea — Prologue IV: The Hierarchy of Terror — speakers: Avery Alder
-- 2021-05-27 — The Adventure Zone: Ethersea — Prologue III: The Comfort of Guilt — speakers: Avery Alder
-- 2021-05-13 — The Adventure Zone: Ethersea — Prologue II: The Cost of Opportunity — speakers: Avery Alder
-- 2021-05-06 — The Adventure Zone: Ethersea – Prologue I: Our Wasted World — speakers: Avery Alder
-- 2021-04-29 — The The Adventure Zone Zone: Post-Grad! — speakers: Avery Alder
-- 2021-04-15 — The Adventure Zone: Graduation Ep. 38: Finals
+- 2021-07-01 — Summary: The Adventure Zone: Ethersea — Prologue — speakers: Prologue Didn
+- 2021-06-24 — The Adventure Zone: Ethersea — Prologue V: The Weight of History — speakers: History Winter
+- 2021-06-10 — The Adventure Zone: Ethersea — Prologue IV: The Hierarchy of Terror — speakers: Terror New
+- 2021-05-27 — The Adventure Zone: Ethersea — Prologue III: The Comfort of Guilt
+- 2021-05-13 — The Adventure Zone: Ethersea — Prologue II: The Cost of Opportunity — speakers: Opportunity Forgotten
+- 2021-05-06 — The Adventure Zone: Ethersea – Prologue I: Our Wasted World
+- 2021-04-29 — The The Adventure Zone Zone: Post-Grad!
+- 2021-04-15 — The Adventure Zone: Graduation Ep. 38: Finals — speakers: Finals Where
 - 2021-04-08 — The Adventure Zone: Graduation Ep. 37: Investment Opportunities
 - 2021-03-25 — The Adventure Zone: Graduation Ep. 36: Reunions
 - 2021-03-11 — The Adventure Zone: Graduation Ep. 35: Multiple Choice — speakers: Multiple Choice, Heavy Drug Use
-- 2021-02-25 — The Adventure Zone: Just Us — speakers: Travis GM'd
+- 2021-02-25 — The Adventure Zone: Just Us
 - 2021-02-11 — The Adventure Zone: Graduation Ep. 34: The Ins and Outs of Contract Management — speakers: Contract Management Having
-- 2021-01-28 — The Adventure Zone: Graduation Ep. 33: Open up a Can of Firbolg — speakers: Heroic Oversight
+- 2021-01-28 — The Adventure Zone: Graduation Ep. 33: Open up a Can of Firbolg
 - 2021-01-14 — The Adventure Zone: Graduation Ep. 32: By a Hair(cut)
 - 2020-12-30 — The Adventure Zone: Graduation Ep. 31: High on the HOG
 - 2020-12-10 — The Adventure Zone: Graduation Ep. 30: Take Your Firbolg to Work Day
 - 2020-11-25 — The Adventure Zone: Graduation Ep. 29: Princi-Pal
-- 2020-11-12 — The Adventure Zone: Amnesty Halloween Special! — speakers: Join Duck, Dehumidifier Depot
+- 2020-11-12 — The Adventure Zone: Amnesty Halloween Special! — speakers: Amnesty Halloween Special
 - 2020-10-29 — The Adventure Zone: Graduation Ep. 28: Business Plan — speakers: Business Plan Time
 - 2020-10-15 — The Adventure Zone: Graduation Ep. 27: Long Way Down
 - 2020-10-08 — The Adventure Zone: Graduation Ep. 26: Little Gray Cells
 - 2020-10-01 — The Adventure Zone: Graduation Ep. 25: Burden of Things
-- 2020-09-21 — FEED DROP: The Besties Trailer — speakers: Chris Plante, Russ Frushtick
+- 2020-09-21 — FEED DROP: The Besties Trailer
 - 2020-09-17 — The Adventure Zone: Graduation Ep. 24: With Frenemies Like This
 - 2020-09-03 — The Adventure Zone: Graduation Ep. 23: Between a Rock and a Hell Place — speakers: Demon Prince
 - 2020-08-20 — The Adventure Zone: Graduation Ep. 22: Open and Shut — speakers: Unbroken Chain
@@ -8656,23 +8081,23 @@
 - 2020-07-23 — The Adventure Zone: Graduation Ep. 20: Group Assignment
 - 2020-07-16 — The Adventure Zone: Graduation Ep. 19: Creative Writing — speakers: Creative Writing
 - 2020-07-09 — The Adventure Zone: Graduation Ep. 18: Field Trip
-- 2020-06-25 — The Adventure Zone: Graduation Ep. 17: Fire Drill — speakers: Fire Drill, Althea Song
+- 2020-06-25 — The Adventure Zone: Graduation Ep. 17: Fire Drill — speakers: Fire Drill
 - 2020-06-11 — The Adventure Zone: Graduation Ep. 16 "Give Me A Hand"
 - 2020-05-28 — The Adventure Zone: Graduation Ep. 15 "Out of Order"
 - 2020-05-14 — The Adventure Zone: Graduation Ep. 14 "Spirit Day"
-- 2020-04-30 — The Adventure Zone: Graduation Ep. 13 "Apple for Teacher" — speakers: new friends
+- 2020-04-30 — The Adventure Zone: Graduation Ep. 13 "Apple for Teacher"
 - 2020-04-16 — The Adventure Zone: Graduation Ep. 12 "Pop Quiz" — speakers: Pop Quiz
 - 2020-04-02 — The Adventure Zone: Graduation Ep. 11 "You Can Call me Al(thea)" — speakers: Althea Song
-- 2020-03-17 — The Adventure Zone: Graduation Ep. 10 "Dark Arts and Crafts"
+- 2020-03-17 — The Adventure Zone: Graduation Ep. 10 "Dark Arts and Crafts" — speakers: new questions
 - 2020-03-05 — The Adventure Zone: Graduation Ep. 9 "Mission: Imp Hospital 2- Unfinished Business" — speakers: Imp Hospital, Unfinished Business
 - 2020-02-20 — The Adventure Zone: Graduation Ep. 8 "Mission: Imp Hospital" — speakers: Imp Hospital
 - 2020-02-06 — The Adventure Zone: Graduation Ep. 7 "Secrets, Secrets" — speakers: some teachers
 - 2020-01-23 — The Adventure Zone: Graduation Ep. 6 “Long Overdue”
 - 2020-01-09 — The Adventure Zone: Graduation Ep. 5 “What’s Yours is Mined”
-- 2019-12-27 — The Adventure Zone: Holiday Brawl in Chicago! — speakers: Jason Statham, Paul Matijevic, John Harper
-- 2019-12-19 — The Adventure Zone: Graduation Ep. 4 "Four Sidekicks Walk Into A Bar..."
+- 2019-12-27 — The Adventure Zone: Holiday Brawl in Chicago! — speakers: Jason Statham
+- 2019-12-19 — The Adventure Zone: Graduation Ep. 4 "Four Sidekicks Walk Into A Bar..." — speakers: Four Sidekicks Walk Into
 - 2019-12-05 — The Adventure Zone: Graduation Ep. 3 "Pursued By Bear"
-- 2019-11-28 — The Adventure Zone: Dadlands — speakers: Brennan Lee Mulligan
+- 2019-11-28 — The Adventure Zone: Dadlands
 - 2019-11-14 — The Adventure Zone: Graduation Ep. 2 "It's (a) Familiar"
 - 2019-10-31 — The Adventure Zone: Graduation Ep. 1 "Orientation"
 - 2019-10-24 — The The Adventure Zone Zone: Amnesty Wrap-Up! — speakers: Amnesty Wrap-Up
@@ -8686,7 +8111,7 @@
 - 2019-07-11 — The Adventure Zone: Amnesty - Episode 31 — speakers: Pine Guard
 - 2019-06-27 — The Adventure Zone: Amnesty - Episode 30
 - 2019-06-13 — The Adventure Zone: Amnesty - Episode 29
-- 2019-05-31 — The Adventure Zone: Amnesty — Episode 28
+- 2019-05-31 — The Adventure Zone: Amnesty — Episode 28 — speakers: West Virginia, Pine Guard
 - 2019-05-16 — The Adventure Zone: Live in San Jose! — speakers: San Jose
 - 2019-05-03 — The Adventure Zone: Amnesty - Episode 27
 - 2019-04-19 — The Adventure Zone: Amnesty - Episode 26
@@ -8696,20 +8121,20 @@
 - 2019-03-07 — The Adventure Zone: Live in New Orleans! — speakers: New Orleans
 - 2019-02-22 — The Adventure Zone: Amnesty - Episode 23
 - 2019-02-08 — The Adventure Zone: Amnesty - Episode 22
-- 2019-01-24 — The Adventure Zone: Amnesty - Episode 21
-- 2019-01-10 — The Adventure Zone: Amnesty — Episode 20
-- 2018-12-13 — The Adventure Zone: Live Candlelights 2018 Spectacular — speakers: Angus McDonald, Tres Horny Boys
+- 2019-01-24 — The Adventure Zone: Amnesty - Episode 21 — speakers: West Virginia, Pine Guard
+- 2019-01-10 — The Adventure Zone: Amnesty — Episode 20 — speakers: Lunar Interlude
+- 2018-12-13 — The Adventure Zone: Live Candlelights 2018 Spectacular — speakers: Angus McDonald
 - 2018-12-06 — The Adventure Zone: Amnesty - Episode 19
 - 2018-11-19 — The Adventure Zone: Amnesty - Episode 18
 - 2018-10-31 — The Adventure Zone: Live - Halloween Special!
 - 2018-10-18 — The Adventure Zone: Amnesty - Episode 17
-- 2018-10-05 — The Adventure Zone: Amnesty - Episode 16
-- 2018-09-20 — The Adventure Zone: Live In Atlanta! — speakers: Follow Tres Horny Boys
+- 2018-10-05 — The Adventure Zone: Amnesty - Episode 16 — speakers: catastrophe averted
+- 2018-09-20 — The Adventure Zone: Live In Atlanta!
 - 2018-09-07 — The Adventure Zone: Amnesty - Episode 15
 - 2018-08-24 — The Adventure Zone: Amnesty - Episode 14
 - 2018-08-15 — The Adventure Zone: Seattle Tour Announcement! — speakers: Seattle Tour Announcement, Pacific Northwest
-- 2018-08-09 — The Adventure Zone: Amnesty - Episode 13 — speakers: Evan Palmer
-- 2018-07-26 — The Adventure Zone: Live in San Francisco! — speakers: Tres Horny Boys
+- 2018-08-09 — The Adventure Zone: Amnesty - Episode 13 — speakers: West Virginia
+- 2018-07-26 — The Adventure Zone: Live in San Francisco! — speakers: San Francisco
 - 2018-07-12 — The Adventure Zone: Amnesty - Episode 12 — speakers: Amnesty Lodge
 - 2018-06-29 — The Adventure Zone: Amnesty - Episode 11
 - 2018-06-15 — The Adventure Zone: Amnesty - Episode 10 — speakers: Amnesty Lodge
@@ -8718,19 +8143,19 @@
 - 2018-05-03 — The Adventure Zone: Amnesty - Episode 8
 - 2018-04-20 — The Adventure Zone: Amnesty - Episode 7
 - 2018-04-12 — The Adventure Zone: Amnesty - Episode 6
-- 2018-04-05 — The The Adventure Zone Zone: Experiments Post-Mortem, More on Season Two!
-- 2018-03-29 — The Announcement Zone: Season Two, MaxFunDrive and more!
+- 2018-04-05 — The The Adventure Zone Zone: Experiments Post-Mortem, More on Season Two! — speakers: Experiments Post, Season Two, Talk Show About, People Who Do
+- 2018-03-29 — The Announcement Zone: Season Two, MaxFunDrive and more! — speakers: Season Two
 - 2018-03-22 — The Adventure Zone: Dust - Episode 4
 - 2018-03-19 — The Adventure Zone: Dust - Episode 3 — speakers: Jeremiah Blackwell
 - 2018-03-13 — The Adventure Zone 2018 Live Shows Announcement! — speakers: San Francisco
 - 2018-03-09 — The Adventure Zone: Dust - Episode 2 — speakers: Jeremiah Blackwater
-- 2018-03-01 — The Adventure Zone: Dust - Episode 1
-- 2018-02-22 — Setup - The Adventure Zone: Dust — speakers: Dust Travis, Urban Shadows
+- 2018-03-01 — The Adventure Zone: Dust - Episode 1 — speakers: Dry River
+- 2018-02-22 — Setup - The Adventure Zone: Dust — speakers: Dust Travis
 - 2018-02-09 — The Adventure Zone: Amnesty - Episode 5
 - 2018-02-01 — The Adventure Zone: Amnesty - Episode 4
-- 2018-01-25 — The Adventure Zone: Amnesty - Episode 3
+- 2018-01-25 — The Adventure Zone: Amnesty - Episode 3 — speakers: Monongahela National Forest
 - 2018-01-18 — The Adventure Zone: Amnesty - Episode 2
-- 2018-01-12 — The Adventure Zone: Amnesty - Episode 1
+- 2018-01-12 — The Adventure Zone: Amnesty - Episode 1 — speakers: West Virginia
 - 2018-01-04 — Setup - The Adventure Zone: Amnesty
 - 2017-12-29 — The Adventure Zone: Candlenights in Tacoma!
 - 2017-12-14 — The Adventure Zone: Live in Nashville!
@@ -8738,8 +8163,8 @@
 - 2017-11-16 — The Adventure Zone: Commitment - Episode 3
 - 2017-11-02 — The Adventure Zone: Commitment - Episode 2
 - 2017-10-19 — The Adventure Zone: Commitment - Episode 1 — speakers: Good Fellowship
-- 2017-10-05 — Setup - The Adventure Zone: Commitment
-- 2017-09-21 — The Adventure Zone: Live in San Diego!
+- 2017-10-05 — Setup - The Adventure Zone: Commitment — speakers: Season Two
+- 2017-09-21 — The Adventure Zone: Live in San Diego! — speakers: San Diego
 - 2017-09-08 — The Adventure Zone: Live in Austin! — speakers: Tres Horny Boys
 - 2017-08-24 — The The Adventure Zone Zone: Balance Finale Edition — speakers: Balance Finale Edition Everyone
 - 2017-08-17 — Ep. 69. Story and Song - Finale, Part Three — speakers: Additional Music
@@ -8758,65 +8183,65 @@
 - 2017-03-09 — Ep. 58. Lunar Interlude V: Reunion Tour - Part One
 - 2017-02-23 — Ep. 57. The Suffering Game - Chapter Seven
 - 2017-02-09 — Ep. 56. The Suffering Game - Chapter Six
-- 2017-01-26 — Ep. 55. The Suffering Game - Chapter Five
+- 2017-01-26 — Ep. 55. The Suffering Game - Chapter Five — speakers: Chapter Five Strange
 - 2017-01-12 — Ep. 54. The Suffering Game - Chapter Four
 - 2016-12-29 — The Flop House Presents: Return of The Hogsbottom Three
-- 2016-12-15 — Ep. 53. The Suffering Game - Chapter Three
+- 2016-12-15 — Ep. 53. The Suffering Game - Chapter Three — speakers: Chapter Three Wonderland
 - 2016-12-01 — The Adventure Zone: MaxFunCon East Live
-- 2016-11-17 — Ep. 52. The Suffering Game - Chapter Two — speakers: Zackery Wilson
+- 2016-11-17 — Ep. 52. The Suffering Game - Chapter Two
 - 2016-11-03 — The Adventure Zone: The Live Boston Stunt Spectacular
-- 2016-10-20 — Ep. 51. The Suffering Game - Chapter One
+- 2016-10-20 — Ep. 51. The Suffering Game - Chapter One — speakers: Chapter One After
 - 2016-10-06 — Ep. 50. Lunar Interlude IV: The Calm Before The Storm
 - 2016-09-22 — Ep. 49. The Eleventh Hour - Chapter Nine
-- 2016-09-08 — Ep. 48. The Eleventh Hour - Chapter Eight
-- 2016-08-25 — Ep. 47. The Eleventh Hour - Chapter Seven — speakers: Tres Horny Boys
-- 2016-08-11 — Ep. 46. The Eleventh Hour - Chapter Six
-- 2016-07-28 — Ep. 45. The Eleventh Hour - Chapter Five
+- 2016-09-08 — Ep. 48. The Eleventh Hour - Chapter Eight — speakers: Chapter Eight Could
+- 2016-08-25 — Ep. 47. The Eleventh Hour - Chapter Seven
+- 2016-08-11 — Ep. 46. The Eleventh Hour - Chapter Six — speakers: Chapter Six If
+- 2016-07-28 — Ep. 45. The Eleventh Hour - Chapter Five — speakers: Chapter Five Now
 - 2016-07-14 — Ep. 44. The Eleventh Hour - Chapter Four
 - 2016-06-30 — Ep. 43. The Eleventh Hour - Chapter Three
-- 2016-06-16 — Ep. 42. The Eleventh Hour - Chapter Two
+- 2016-06-16 — Ep. 42. The Eleventh Hour - Chapter Two — speakers: Chapter Two What
 - 2016-06-02 — Ep. 41. The Eleventh Hour - Chapter One
-- 2016-05-30 — The Adventure Zone LIVE in Boston Announcement! — speakers: ly tazboston
+- 2016-05-30 — The Adventure Zone LIVE in Boston Announcement! — speakers: Boston Announcement, Wilbur Theater
 - 2016-05-19 — Ep. 40. Lunar Interlude III: Rest & Relaxation — speakers: Lunar Interlude Iii
-- 2016-05-05 — Ep. 39. The Crystal Kingdom - Chapter Eleven — speakers: Will Lucas, Will Kravitz
+- 2016-05-05 — Ep. 39. The Crystal Kingdom - Chapter Eleven — speakers: Chapter Eleven After
 - 2016-04-21 — Ep. 38. The Crystal Kingdom - Chapter Ten
-- 2016-04-07 — Ep. 37. The Crystal Kingdom - Chapter Nine
-- 2016-03-24 — Ep. 36. The Crystal Kingdom - Chapter Eight
-- 2016-03-17 — The The Adventure Zone Zone — speakers: Barry Bluejeans
+- 2016-04-07 — Ep. 37. The Crystal Kingdom - Chapter Nine — speakers: dead foe
+- 2016-03-24 — Ep. 36. The Crystal Kingdom - Chapter Eight — speakers: Chapter Eight Hey
+- 2016-03-17 — The The Adventure Zone Zone — speakers: Zone Happy
 - 2016-03-10 — Ep. 35. The Crystal Kingdom - Chapter Seven
-- 2016-02-25 — Ep. 34. The Crystal Kingdom - Chapter Six
+- 2016-02-25 — Ep. 34. The Crystal Kingdom - Chapter Six — speakers: Chapter Six Can
 - 2016-02-11 — Ep. 33. The Crystal Kingdom - Chapter Five
 - 2016-01-28 — Ep. 32. The Crystal Kingdom - Chapter Four
 - 2016-01-14 — Ep. 31. The Crystal Kingdom - Chapter Three
 - 2015-12-31 — Ep. 30. The Crystal Kingdom - Chapter Two
-- 2015-12-19 — Ep 29. The Crystal Kingdom - Chapter One
+- 2015-12-19 — Ep 29. The Crystal Kingdom - Chapter One — speakers: Chapter One
 - 2015-12-03 — Ep. 28. Lunar Interlude II: Internal Affairs — speakers: Lunar Interlude II
-- 2015-11-19 — Ep. 27. Petals to the Metal - Chapter 10 — speakers: Gaia Sash
+- 2015-11-19 — Ep. 27. Petals to the Metal - Chapter 10
 - 2015-11-05 — Ep. 26. Petals to the Metal - Chapter Nine
 - 2015-10-22 — Ep. 25. Petals to the Metal - Chapter Eight
-- 2015-10-08 — The Adventure Zone Presents: The Great Switcheroo of 2015 — speakers: Stuart Wellington, Elliott Kalan, Dan McCoy, Lucian Buttwatcher, Zhubin Parang, Tanzer Silverview
-- 2015-09-24 — Ep. 24. Petals to the Metal - Chapter Seven
-- 2015-09-10 — Ep. 23. Petals to the Metal - Chapter Six
+- 2015-10-08 — The Adventure Zone Presents: The Great Switcheroo of 2015
+- 2015-09-24 — Ep. 24. Petals to the Metal - Chapter Seven — speakers: Chapter Seven, Battlewagon Races
+- 2015-09-10 — Ep. 23. Petals to the Metal - Chapter Six — speakers: Chapter Six Can
 - 2015-08-27 — Ep. 22. Petals to the Metal - Chapter Five
 - 2015-08-13 — Ep. 21. Petals to the Metal - Chapter Four
 - 2015-07-30 — Ep. 20. Petals to the Metal - Chapter Three
 - 2015-07-16 — Ep. 19. Petals to the Metal - Chapter Two
 - 2015-07-02 — Ep. 18. Petals to the Metal - Chapter One
 - 2015-06-18 — Ep. 17. Lunar Interlude I: Carnival Chaos — speakers: Lunar Interlude
-- 2015-06-04 — Ep. 16. Murder on the Rockport Limited - Chapter Seven — speakers: Gary Sinise
-- 2015-05-21 — Ep. 15. Murder on the Rockport Limited - Chapter Six
-- 2015-05-07 — Ep. 14. Murder on the Rockport Limited - Chapter Five
-- 2015-04-23 — Ep. 13. Murder on the Rockport Limited - Chapter Four
-- 2015-04-16 — Ep. 12. Murder on the Rockport Limited - Chapter Three
-- 2015-03-26 — Ep. 11. Murder on the Rockport Limited - Chapter Two
+- 2015-06-04 — Ep. 16. Murder on the Rockport Limited - Chapter Seven — speakers: Rockport Limited
+- 2015-05-21 — Ep. 15. Murder on the Rockport Limited - Chapter Six — speakers: Rockport Limited
+- 2015-05-07 — Ep. 14. Murder on the Rockport Limited - Chapter Five — speakers: Rockport Limited
+- 2015-04-23 — Ep. 13. Murder on the Rockport Limited - Chapter Four — speakers: Rockport Limited
+- 2015-04-16 — Ep. 12. Murder on the Rockport Limited - Chapter Three — speakers: Rockport Limited
+- 2015-03-26 — Ep. 11. Murder on the Rockport Limited - Chapter Two — speakers: Rockport Limited
 - 2015-03-19 — Ep. 10. Murder on the Rockport Limited - Chapter One — speakers: Rockport Limited
 - 2015-03-12 — Ep. 9. Moonlighting - Chapter Three — speakers: Moonlighting Chapter
 - 2015-02-26 — Ep. 8. Moonlighting - Chapter Two — speakers: Moonlighting Chapter
 - 2015-02-12 — Ep. 7. Moonlighting - Chapter One — speakers: Adventure Zone
-- 2015-01-29 — Ep. 6. Here There Be Gerblins - Chapter Six — speakers: Luna Bar
+- 2015-01-29 — Ep. 6. Here There Be Gerblins - Chapter Six
 - 2015-01-15 — Ep. 5. Here There Be Gerblins - Chapter Five
-- 2015-01-01 — Ep. 4. Here There Be Gerblins - Chapter Four
-- 2014-12-18 — Ep. 3. Here There Be Gerblins - Chapter Three — speakers: Gundren Rockseeker
-- 2014-12-04 — Ep. 2. Here There Be Gerblins - Chapter Two — speakers: Barry Bluejeans
+- 2015-01-01 — Ep. 4. Here There Be Gerblins - Chapter Four — speakers: Chapter Four After, Wave Echo
+- 2014-12-18 — Ep. 3. Here There Be Gerblins - Chapter Three
+- 2014-12-04 — Ep. 2. Here There Be Gerblins - Chapter Two
 - 2014-12-03 — Ep. 1.5: Here There Be Gerblins - Chapter One (Super Cut)
 - 2014-12-03 — Ep. 1: Here There Be Gerblins - Chapter One
