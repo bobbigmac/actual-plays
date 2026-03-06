@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-02-27T19:04:47+00:00`
-- checked_at: `2026-02-27T19:04:47+00:00`
-- last_modified: `Fri, 27 Feb 2026 17:11:52 GMT`
+- fetched_at: `2026-03-06T13:31:12+00:00`
+- checked_at: `2026-03-06T13:31:12+00:00`
+- last_modified: `Fri, 06 Mar 2026 10:31:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-27T19:04:47+00:00",
+  "fetched_at": "2026-03-06T13:31:12+00:00",
   "owners": [
     "Tom Bates"
   ],
