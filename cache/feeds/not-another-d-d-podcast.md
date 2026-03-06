@@ -2,9 +2,9 @@
 
 - slug: `not-another-d-d-podcast`
 - source: `https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/4dbfc420-53a4-40c6-bbc7-ad8d012bc602/6ede3615-a245-4eae-9087-ad8d012bc631/podcast.rss`
-- fetched_at: `2026-02-27T03:10:52+00:00`
-- checked_at: `2026-02-27T03:10:52+00:00`
-- last_modified: `Fri, 27 Feb 2026 01:29:39 GMT`
+- fetched_at: `2026-03-06T07:10:06+00:00`
+- checked_at: `2026-03-06T07:10:06+00:00`
+- last_modified: `Fri, 06 Mar 2026 07:02:27 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://headgum.com/not-another-dd-podcast",
   "description": "Welcome to NADDPOD! Join Dungeon Master Brian Murphy as he leads players Emily Axford, Caldwell Tanner and Jake Hurwitz on a comedic, actual-play adventure through the realms of Bahumia and Beyond. The show also features a score composed and performed by Emily Axford. This team has created a variety of D&D campaigns, as well as numerous other series such as DUNGEON COURT and 8-BIT BOOK CLUB . They also occasionally hit the road and roll dice live on stage.",
   "image_url": "https://content.production.cdn.art19.com/images/8e/c4/97/cc/8ec497cc-0c6a-4dc1-bd51-e74ec4f275e9/8a3aa6931de7c75d671b912d84554db3364d870da65fa0f210d1ef8f9525957eb1d0daf0e8dabf75568de82710803e1df9f2c6742a08b2f8c6fb452824881e28.jpeg",
-  "fetched_at": "2026-02-27T03:10:52+00:00",
+  "fetched_at": "2026-03-06T07:10:06+00:00",
   "owners": [
     "Brian Murphy",
     "Emily Axford",
@@ -31,6 +31,33 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8e5b3dd0391ebc28d4ac4db0d8d793638fa5da7a",
+      "title": "D&D Court: Overpopulated Academies, Unsent Texts and Pop-Punk Homework",
+      "published_at": "2026-03-06T07:00:00+00:00",
+      "link": "https://art19.com/shows/not-another-d-and-d-podcast/episodes/4a6eed46-f057-4ec7-9fc5-68f4e81f2bde",
+      "description": "Dungeon Court is back in session! Join Justices Murphy, Tanner and Axford, along with the Frigid Bailiff Jake, as they pass judgement on your trials at the table! Come see us LIVE in Australia and New York City! CREDITS: Sound Mixing and Editing by Trevor Lyon Dungeon Court Theme Song by Sam Weiller See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/53/9e/35/be/539e35be-823e-4e65-9ccc-16f83472b640/0409bb74c0166768729a8e1f177ff4866d1409ea1109d2599b6a6332c0e39bf625e861b1a28a5eb0c4e2a995f00c5300da74a3a6d7cfc85d23a84bd6f694e909.jpeg",
+      "enclosure_url": "https://pdst.fm/e/s.gum.fm/s-5ab17200924c300d57a5856b/rss.art19.com/episodes/4a6eed46-f057-4ec7-9fc5-68f4e81f2bde.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73027918",
+      "itunes_duration": "01:16:04",
+      "speakers": [
+        "Brian Murphy",
+        "Emily Axford",
+        "Jake Hurwitz",
+        "Caldwell Tanner"
+      ],
+      "topics": [
+        "court",
+        "overpopulated",
+        "academies",
+        "unsent",
+        "texts",
+        "punk",
+        "homework"
+      ]
+    },
     {
       "key": "f3f41d7cf5c33755b7784abf6cd3371ff000c287",
       "title": "Hearthside Chat Q&A: Trinyvale x Strahd Reflections (and New Campaign Preview!)",
@@ -10725,6 +10752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — D&D Court: Overpopulated Academies, Unsent Texts and Pop-Punk Homework — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-02-26 — Hearthside Chat Q&A: Trinyvale x Strahd Reflections (and New Campaign Preview!) — speakers: Hearthside Chat, Strahd Reflections, New Campaign Preview, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-02-20 — Trinyvale X Strahd - Ep. 23: A Memorable Feast — speakers: Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
 - 2026-02-13 — Trinyvale X Strahd - Ep. 22: Dark Blessing — speakers: Castle Ravenloft, Brian Murphy, Emily Axford, Jake Hurwitz, Caldwell Tanner
