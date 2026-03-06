@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-02-25T03:17:57+00:00`
-- checked_at: `2026-02-25T03:17:57+00:00`
-- etag: `"0bd816e9b8d85b85e9fa7c3ae8c0d734"`
-- last_modified: `Tue, 24 Feb 2026 22:20:57 GMT`
+- fetched_at: `2026-03-06T03:09:56+00:00`
+- checked_at: `2026-03-06T03:09:56+00:00`
+- etag: `"a74e6f6ec20d69321b8b395722ffad00"`
+- last_modified: `Fri, 06 Mar 2026 00:41:58 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-02-25T03:17:57+00:00",
+  "fetched_at": "2026-03-06T03:09:56+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -28,6 +28,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "a9f4aef6eeeac87f8275875275d4898d55f71d95",
+      "title": "The Fog Campaign - Episode 61",
+      "published_at": "2026-03-06T00:38:00+00:00",
+      "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-61",
+      "description": "Time to bust down some walls before the talking murder coffin tricks us into opening it! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-061-20260303-SKv01.mp3?dest-id=510364",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126247808",
+      "itunes_duration": "52:37",
+      "speakers": [
+        "Brian Posehn"
+      ],
+      "topics": [
+        "campaign"
+      ]
+    },
     {
       "key": "555ef314addb9794087b93c0bf5ce8dfd648f6dc",
       "title": "The Fog Campaign - Episode 60",
@@ -8685,6 +8703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — The Fog Campaign - Episode 61 — speakers: Brian Posehn
 - 2026-02-24 — The Fog Campaign - Episode 60 — speakers: Brian Posehn
 - 2026-02-17 — The Fog Campaign - Episode 59 — speakers: Brian Posehn
 - 2026-02-12 — The Fog Campaign - Episode 58 — speakers: Brian Posehn

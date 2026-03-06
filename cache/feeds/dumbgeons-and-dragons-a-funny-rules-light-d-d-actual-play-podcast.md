@@ -2,9 +2,9 @@
 
 - slug: `dumbgeons-and-dragons-a-funny-rules-light-d-d-actual-play-podcast`
 - source: `https://rss.art19.com/dumbgeons-and-dragons`
-- fetched_at: `2026-03-04T09:59:29+00:00`
-- checked_at: `2026-03-04T09:59:29+00:00`
-- last_modified: `Wed, 04 Mar 2026 08:00:01 GMT`
+- fetched_at: `2026-03-06T03:09:56+00:00`
+- checked_at: `2026-03-06T03:09:56+00:00`
+- last_modified: `Fri, 06 Mar 2026 01:30:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.dumbdragons.com/",
   "description": "Dumbgeons & Dragons is a funny, rules-light Dungeons & Dragons actual play podcast where friends tell epic stories full of heart, chaos, and ridiculous choices. Whether you’re new to D&D, just learning the ropes, or a longtime fan who loves a lighthearted adventure, you’ll feel right at home at our table. Campaign 2 (Seasons 3 & 4) begins in the gritty city of Vintersmouth—a place of secrets, schemes, and spontaneous street magic. This season is the perfect place to jump in, with a fresh cast of characters and a mystery that pulls them deep into a city on the edge. Start with Episode 301: Let’s Begin Again! Featuring fast-paced storytelling, character-driven arcs, improv comedy, and zero gatekeeping, Dumbgeons & Dragons is your cozy-but-chaotic fantasy fix. New episodes every Wednesday. Support the show and get bonus episodes at patreon.com/dumbdragoncast More info, recaps, and character bios at dumbdragons.com",
   "image_url": "https://content.production.cdn.art19.com/images/f3/8f/9a/30/f38f9a30-68d2-46ca-87f1-4261dbe574e5/dc447b9659ef194b4fefd29c9bde8d0344f5519fb86dfca67d4122b062044b0c6c10ebfc0dca39f8ec2ecc2b5d2894d6ae621c12620cea9f553a42508c664e65.jpeg",
-  "fetched_at": "2026-03-04T09:59:29+00:00",
+  "fetched_at": "2026-03-06T03:09:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "efa73c39274185981ee0184bf1201a2609076ae1",
+      "title": "A Puzzling Library (Campaign 2 – S4E51)",
+      "published_at": "2026-03-05T23:30:00+00:00",
+      "link": "https://art19.com/shows/dumbgeons-and-dragons/episodes/851bd9bb-3d2a-4a5b-9dee-5046ea11d5b7",
+      "description": "In this week's episode... With a set of tomes, each implying some unwanted truth to the groups lives, a final selection may lead them closer to The Weeping Archive. 🎲 Dumbgeons & Dragons is a beginner-friendly, rules-light actual play podcast where Canadian friends create inclusive D&D adventures full of improv comedy, supportive storytelling, and zero gatekeeping. ✨ Campaign 2 - Perfect for New Listeners: Fresh characters, new world, cozy table vibes that feel like playing with friends who actually want you there. - - - - - - - - - - 🎭 CAST & CREW Players: Amy More, Carla Maxted, Tom Laird and Kyle Claset DM: Russ More Dialogue Editing & Sound Design: Russ More Music & Sound Effects: Epidemic Sound, BOOM Library, Sound Ideas Cover Art: Matt Garbutt (@artmonkeymg on Instagram) - - - - - - - - - - 💖 SUPPORT THE SHOW 🔥 Join 300+ Patrons for bonus episodes, early access, and exclusive content! → Patreon.com/dumbdragoncast (7-day free trial + merch after 3 months!) → Gift a loved one a Patreon membership: patreon.com/dumbdragoncast/gift 🛍️ Merch Store: dumbdragons.dashery.com 📱 All Our Links: linktr.ee/dumbdragons - - - - - - - - - - 📈 FOR ADVERTISERS & PARTNERS Advertise: fableandfolly.com/advertise See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/3d/47/ce/7c/3d47ce7c-418c-4252-8361-bcd047df95b8/41c0f3a85a1d1580f247d86389a8ee8cdac6feacee41df710a90d5a4959d7bc15d00bdec089415a5c525c6137382aaacfd3fcddf1ad038e531c9a6e485d072c9.jpeg",
+      "enclosure_url": "https://swap.fm/track/WgbGgxzM3MFRwjmX5fnx/op3.dev/e/pscrb.fm/rss/p/rss.art19.com/episodes/851bd9bb-3d2a-4a5b-9dee-5046ea11d5b7.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40465972",
+      "itunes_duration": "00:42:09",
+      "speakers": [],
+      "topics": [
+        "puzzling",
+        "library",
+        "campaign"
+      ]
+    },
     {
       "key": "d543688fb92a5397b74027d0bdf73abe9a0d2306",
       "title": "An Entrance to the Archive? (Campaign 2 – S4E50)",
@@ -6736,6 +6754,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-05 — A Puzzling Library (Campaign 2 – S4E51)
 - 2026-02-25 — An Entrance to the Archive? (Campaign 2 – S4E50)
 - 2026-02-19 — When the Bells Toll (Campaign 2 – S4E49)
 - 2026-02-11 — A Ceremonial Coal Raking (Campaign 2 – S4E48)
