@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-03-06T15:55:31+00:00`
-- checked_at: `2026-03-06T15:55:31+00:00`
-- last_modified: `Fri, 06 Mar 2026 15:46:49 GMT`
+- fetched_at: `2026-03-06T19:05:23+00:00`
+- checked_at: `2026-03-06T19:05:23+00:00`
+- last_modified: `Fri, 06 Mar 2026 17:07:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-06T15:55:31+00:00",
+  "fetched_at": "2026-03-06T19:05:23+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,28 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "b2b038b3cdab308ca4de42c49a2fefe7e7dcc141",
+      "title": "Blade Runner RPG: Electric Dreams #1",
+      "published_at": "2026-03-06T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to a new series of Mystery Quest where we're playing Blade Runner RPG and the scenario Electric Dreams from Free League. A crew of replicant detection unit blade runners are called into the LAPD headquarters following the murder of a colleague in the Snake Pit, a notoriously seedy establishment on nightclub row... Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Blade Runner RPG here: https://freeleaguepublishing.com/games/blade-runner-rpg/ The scenario is 'Electric Dreams' and is included in the starter set: https://freeleaguepublishing.com/shop/blade-runner-rpg/starter-set/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dan: @apocplayers⁩ Lydia: https://twitch.tv/squidgame Ravs: @Ravs_ Danann: @apocplayers Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db000c58-e24a-11f0-9e56-1f11ab2592a7/image/437f12b28e23b56daec43d360e5d2442.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7527685760.mp3?updated=1772812302",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4789",
+      "speakers": [
+        "Blade Runner Rpg",
+        "Tom Bates"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "electric",
+        "dream"
+      ]
+    },
     {
       "key": "58d59bae07429b2ae393a946cccdb7566e8d43eb",
       "title": "Lasers & Feelings #2",
@@ -2663,6 +2685,26 @@
       ]
     },
     {
+      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
+      "title": "Call of Cthulhu: The Disintegrator #1",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4347",
+      "speakers": [
+        "Mystery Quest",
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
       "key": "1eca22755a0101b7dd1965525d648220ad5556b4",
       "title": "Call of Cthulhu: The Disintegrator #2",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -2720,26 +2762,6 @@
         "cthulhu",
         "disintegrator"
       ]
-    },
-    {
-      "key": "5af1955d46892f46225b91f7465ec627c5ecc018",
-      "title": "Call of Cthulhu: The Disintegrator #1",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests. Today we are plunging into the murky depths of Call of Cthulhu on an adventure called The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2871946006.mp3?updated=1707495263",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4347",
-      "speakers": [
-        "Mystery Quest",
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
     }
   ]
 }
@@ -2748,6 +2770,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-06 — Blade Runner RPG: Electric Dreams #1 — speakers: Blade Runner Rpg, Tom Bates
 - 2026-02-27 — Lasers & Feelings #2 — speakers: Tom Bates
 - 2026-02-20 — Lasers & Feelings #1 — speakers: Mystery Quest, Tom Bates
 - 2026-02-13 — Frontier Scum: Escape the Organ Rail #3 — speakers: Tom Bates
@@ -2878,7 +2901,7 @@
 - 2023-09-30 — MÖRK BORG: The Goblin Grinder #4 — speakers: Tom Bates
 - 2023-09-23 — MÖRK BORG: The Goblin Grinder #3 — speakers: Tom Bates
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
+- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
 - 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
-- 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
