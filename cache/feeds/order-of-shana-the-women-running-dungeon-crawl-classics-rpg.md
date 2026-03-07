@@ -2,9 +2,9 @@
 
 - slug: `order-of-shana-the-women-running-dungeon-crawl-classics-rpg`
 - source: `https://anchor.fm/s/1a3b1cc/podcast/rss`
-- fetched_at: `2026-03-03T19:12:18+00:00`
-- checked_at: `2026-03-03T19:12:18+00:00`
-- etag: `W/"a2da-iTwp0UOYfkI9YBeo68B3r2tMksg"`
+- fetched_at: `2026-03-07T18:51:55+00:00`
+- checked_at: `2026-03-07T18:51:55+00:00`
+- etag: `W/"a2da-i7ptHR+0lJsgjnx0KwjvnLV5DXE"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://orderofshanapodcast.wordpress.com/",
   "description": "A podcast about the women in, of, and running Dungeon Crawl Classics RPG by Goodman Games. A podcast focusing on the women who have made DCC RPG their role-playing game of choice. Blog: https://orderofshanapodcast.wordpress.com Cover art by Doug Kovacs",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/175051/175051-1756911804512-96b5e71d434c4.jpg",
-  "fetched_at": "2026-03-03T19:12:18+00:00",
+  "fetched_at": "2026-03-07T18:51:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

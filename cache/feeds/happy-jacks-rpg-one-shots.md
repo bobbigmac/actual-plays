@@ -2,10 +2,10 @@
 
 - slug: `happy-jacks-rpg-one-shots`
 - source: `https://www.happyjacks.org/feed/oneshots/`
-- fetched_at: `2026-02-23T03:21:34+00:00`
-- checked_at: `2026-03-03T10:02:20+00:00`
-- etag: `"21176aae9d5ec0872a4e1366f952333f"`
-- last_modified: `Sun, 22 Feb 2026 23:54:04 GMT`
+- fetched_at: `2026-03-07T18:51:55+00:00`
+- checked_at: `2026-03-07T18:51:55+00:00`
+- etag: `"152845505ead067e85b08aa3526c86d4"`
+- last_modified: `Sat, 07 Mar 2026 18:42:06 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://happyjacks.org/blog/",
   "description": "Happy Jacks RPG One Shots is an actual play podcast feed featuring a collection of single session or mini-campaign games in a variety table-top RPG systems, from old favorites, to the new and shiny.",
   "image_url": "https://happyjacks.org//artfiles/oneshotart.jpg",
-  "fetched_at": "2026-02-23T03:21:34+00:00",
+  "fetched_at": "2026-03-07T18:51:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -93,8 +93,7 @@
       "enclosure_length": "169990280",
       "itunes_duration": "2:55:50",
       "speakers": [
-        "Blade Runner Rpg",
-        "Blade Runner"
+        "Blade Runner Rpg"
       ],
       "topics": [
         "jake",
@@ -115,7 +114,8 @@
       "enclosure_length": "222134460",
       "itunes_duration": "3:50:59",
       "speakers": [
-        "Happy Jacks"
+        "Pinnacles Style",
+        "Free League Publishing"
       ],
       "topics": [
         "dungeons",
@@ -135,9 +135,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "249267906",
       "itunes_duration": "4:19:15",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "tales",
         "loop"
@@ -154,9 +152,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189772252",
       "itunes_duration": null,
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "dungeoncaster"
       ]
@@ -172,9 +168,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91038943",
       "itunes_duration": null,
-      "speakers": [
-        "Eli Visit"
-      ],
+      "speakers": [],
       "topics": [
         "quest",
         "adventure",
@@ -192,9 +186,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83290263",
       "itunes_duration": null,
-      "speakers": [
-        "Dan Phipps"
-      ],
+      "speakers": [],
       "topics": [
         "life",
         "valhalla",
@@ -213,7 +205,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "95356404",
       "itunes_duration": null,
-      "speakers": [],
+      "speakers": [
+        "Golden Lasso Games Starscape",
+        "Golden Lasso Games"
+      ],
       "topics": [
         "starscape",
         "pbta",
@@ -233,7 +228,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "122145931",
       "itunes_duration": "4:14:01",
-      "speakers": [],
+      "speakers": [
+        "Rainbow Railroading",
+        "Rainbow Railroad"
+      ],
       "topics": [
         "rainbow",
         "bike"
@@ -250,7 +248,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "111921094",
       "itunes_duration": "3:52:43",
-      "speakers": [],
+      "speakers": [
+        "Rainbow Railroading Game",
+        "Rainbow Railroad"
+      ],
       "topics": [
         "rainbow",
         "railroading",
@@ -268,7 +269,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "107636060",
       "itunes_duration": "3:43:47",
-      "speakers": [],
+      "speakers": [
+        "Rainbow Railroading",
+        "Mongoose Traveller",
+        "Rainbow Railroad"
+      ],
       "topics": [
         "rainbow",
         "railroading",
@@ -287,7 +292,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "112127867",
       "itunes_duration": "3:53:08",
-      "speakers": [],
+      "speakers": [
+        "Rainbow Railroading",
+        "Rainbow Railroad"
+      ],
       "topics": [
         "rainbow",
         "mask"
@@ -305,7 +313,8 @@
       "enclosure_length": "113325738",
       "itunes_duration": "3:55:38",
       "speakers": [
-        "Girl Underground"
+        "Rainbow Railroading",
+        "Rainbow Railroad"
       ],
       "topics": [
         "rainbow",
@@ -323,7 +332,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110631991",
       "itunes_duration": "3:50:01",
-      "speakers": [],
+      "speakers": [
+        "Rainbow Railroading",
+        "Rainbow Railroad"
+      ],
       "topics": [
         "rainbow",
         "game"
@@ -340,9 +352,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71103974",
       "itunes_duration": "2:27:18",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "happy",
         "jacks",
@@ -361,9 +371,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "109006061",
       "itunes_duration": "3:44:29",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "happy",
         "jacks",
@@ -383,8 +391,7 @@
       "enclosure_length": "50805995",
       "itunes_duration": "1:45:01",
       "speakers": [
-        "Christopher Info",
-        "Happy Jacks"
+        "Christopher Info"
       ],
       "topics": [
         "jacks",
@@ -406,7 +413,9 @@
       "enclosure_length": "111890939",
       "itunes_duration": "3:52:17",
       "speakers": [
-        "Happy Jacks"
+        "Happy Jacks",
+        "Actual Play",
+        "Shot Saturday"
       ],
       "topics": [
         "jacks",
@@ -426,8 +435,7 @@
       "enclosure_length": "108236094",
       "itunes_duration": "3:44:40",
       "speakers": [
-        "Dan Info",
-        "Happy Jacks"
+        "Dan Info"
       ],
       "topics": [
         "jacks",
@@ -448,9 +456,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116854831",
       "itunes_duration": "4:02:37",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "jacks",
         "play",
@@ -469,9 +475,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "117847275",
       "itunes_duration": "4:04:41",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "jacks",
         "play",
@@ -490,9 +494,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104149499",
       "itunes_duration": "3:36:09",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "jacks",
         "actual",
@@ -512,9 +514,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "104040411",
       "itunes_duration": "3:35:55",
-      "speakers": [
-        "Happy Jacks"
-      ],
+      "speakers": [],
       "topics": [
         "jacks",
         "actual",
@@ -896,7 +896,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110456899",
       "itunes_duration": "3:48:40",
-      "speakers": [],
+      "speakers": [
+        "Happy Jacks",
+        "One Shots"
+      ],
       "topics": [
         "happy",
         "jacks",
@@ -1021,7 +1024,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83977986",
       "itunes_duration": "2:54:18",
-      "speakers": [],
+      "speakers": [
+        "Happy Jacks",
+        "Actual Play",
+        "Shadow Con"
+      ],
       "topics": [
         "jacks",
         "play",
@@ -1040,13 +1047,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "108394502",
       "itunes_duration": "3:45:37",
-      "speakers": [
-        "Happy Jacks",
-        "Actual Play",
-        "Savage Worlds",
-        "Rainbow Railroad Fundraiser",
-        "Rainbow Railroad"
-      ],
+      "speakers": [],
       "topics": [
         "jacks",
         "play",
@@ -1137,8 +1138,7 @@
         "Happy Jacks",
         "Actual Play",
         "Shadow Run",
-        "Rainbow Railroad Fundraiser Game",
-        "Rainbow Railroad"
+        "Rainbow Railroad Fundraiser Game"
       ],
       "topics": [
         "happy",
@@ -1259,8 +1259,7 @@
       "enclosure_length": "91120716",
       "itunes_duration": "3:08:42",
       "speakers": [
-        "Solomon Kane",
-        "Jim Find More One-Shots"
+        "Solomon Kane"
       ],
       "topics": [
         "jacks",
@@ -1285,7 +1284,9 @@
       "enclosure_length": "110999900",
       "itunes_duration": "3:50:07",
       "speakers": [
-        "different GMs"
+        "Happy Jacks",
+        "Actual Play",
+        "Shot Saturday"
       ],
       "topics": [
         "happy",
@@ -1333,7 +1334,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116749748",
       "itunes_duration": "4:02:35",
-      "speakers": [],
+      "speakers": [
+        "Happy Jacks",
+        "Actual Play",
+        "Quick Start"
+      ],
       "topics": [
         "jacks",
         "play",
@@ -1355,7 +1360,11 @@
       "enclosure_length": "104855900",
       "itunes_duration": "3:37:19",
       "speakers": [
-        "different GMs"
+        "Happy Jacks",
+        "Actual Play",
+        "Oneshot Saturday",
+        "Cortex Prime",
+        "Shot Saturday"
       ],
       "topics": [
         "jacks",
@@ -1403,7 +1412,10 @@
       "enclosure_length": "155693947",
       "itunes_duration": "5:23:14",
       "speakers": [
-        "different GMs"
+        "Happy Jacks",
+        "Actual Play",
+        "One Shot Saturday",
+        "Shot Saturday"
       ],
       "topics": [
         "happy",
@@ -1449,7 +1461,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "144150316",
       "itunes_duration": "4:59:40",
-      "speakers": [],
+      "speakers": [
+        "Happy Jacks",
+        "Actual Play",
+        "Cthulhu Dark"
+      ],
       "topics": [
         "jacks",
         "play",
@@ -1493,7 +1509,9 @@
       "enclosure_length": "140367802",
       "itunes_duration": "4:51:18",
       "speakers": [
-        "different GMs"
+        "Happy Jacks",
+        "Actual Play",
+        "Shot Saturday"
       ],
       "topics": [
         "happy",
@@ -1561,7 +1579,10 @@
       "enclosure_length": "112203440",
       "itunes_duration": "3:53:45",
       "speakers": [
-        "different GMs"
+        "Happy Jacks",
+        "Actual Play",
+        "One Shot Saturday",
+        "Shot Saturday"
       ],
       "topics": [
         "happy",
@@ -1608,7 +1629,12 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "128007627",
       "itunes_duration": "4:23:14",
-      "speakers": [],
+      "speakers": [
+        "Happy Jacks",
+        "Actual Play",
+        "Iron Edda",
+        "Morgan Summary"
+      ],
       "topics": [
         "jacks",
         "play",
@@ -1671,28 +1697,28 @@
 - 2024-10-28 — OS35 | Under the Autumn Strangely — speakers: Happy Jacks
 - 2024-10-27 — OS34 | My (Dead) Friend — speakers: Happy Jacks
 - 2023-11-20 — OS31 | Spelljammer — speakers: Happy Jacks
-- 2023-11-19 — BURNING08 Jake the Replicant | Burning Bright | Blade Runner RPG — speakers: Blade Runner Rpg, Blade Runner
-- 2023-11-13 — OS30 | Dungeons & Dragons (Pinnacles Style) — speakers: Happy Jacks
-- 2023-11-06 — OS29 | Tales from the Loop — speakers: Happy Jacks
-- 2023-07-10 — OS28 | Dungeoncaster — speakers: Happy Jacks
-- 2022-05-22 — OS27 | Quest by The Adventure Guild — speakers: Eli Visit
-- 2022-04-21 — OS26 | Nine Lives to Valhalla by Gem Room Games — speakers: Dan Phipps
-- 2022-03-09 — OS25 | Starscape PBTA | Golden Lasso Games
-- 2020-02-22 — RR2020-6 Rainbow Railroading – Kids on Bikes
-- 2020-02-22 — RR2020-5 Rainbow Railroading Game 5
-- 2020-02-22 — RR2020-4 Rainbow Railroading – Mongoose Traveller
-- 2020-02-22 — RR2020-3 Rainbow Railroading 2020 – Masks
-- 2020-02-22 — RR2020-2 Rainbow Railroading 2020 Game 2 — speakers: Girl Underground
-- 2020-02-22 — RR2020-01 Rainbow Railroading 2020 Game 1
-- 2020-02-10 — ONESHOT24 Happy Jacks RPG One Shot, Decuma — speakers: Happy Jacks
-- 2019-12-28 — ONESHOT23 Happy Jacks RPG Actual Play, Demigods — speakers: Happy Jacks
-- 2019-12-09 — ONESHOT22 Happy Jacks RPG One Shots, Happiest Apocalypse on Earth — speakers: Christopher Info, Happy Jacks
-- 2019-11-26 — ONESHOT21 Happy Jacks RPG Actual Play, Monster of the Wee — speakers: Happy Jacks
-- 2019-11-25 — ONESHOT20 Happy Jacks RPG One Shot, High Magic Low Life — speakers: Dan Info, Happy Jacks
-- 2019-11-19 — ONESHOT19 Happy Jacks RPG Actual Play, Urban Shadows — speakers: Happy Jacks
-- 2019-11-16 — ONESHOT18 Happy Jacks RPG Actual Play, Monster of the Week — speakers: Happy Jacks
-- 2019-10-23 — ONESHOT17 Happy Jacks RPG Actual Play One Shots, Edge of Empire — speakers: Happy Jacks
-- 2019-10-21 — ONESHOT16 Happy Jacks RPG Actual Play One Shots, Star Wars (West End) — speakers: Happy Jacks
+- 2023-11-19 — BURNING08 Jake the Replicant | Burning Bright | Blade Runner RPG — speakers: Blade Runner Rpg
+- 2023-11-13 — OS30 | Dungeons & Dragons (Pinnacles Style) — speakers: Pinnacles Style, Free League Publishing
+- 2023-11-06 — OS29 | Tales from the Loop
+- 2023-07-10 — OS28 | Dungeoncaster
+- 2022-05-22 — OS27 | Quest by The Adventure Guild
+- 2022-04-21 — OS26 | Nine Lives to Valhalla by Gem Room Games
+- 2022-03-09 — OS25 | Starscape PBTA | Golden Lasso Games — speakers: Golden Lasso Games Starscape, Golden Lasso Games
+- 2020-02-22 — RR2020-6 Rainbow Railroading – Kids on Bikes — speakers: Rainbow Railroading, Rainbow Railroad
+- 2020-02-22 — RR2020-5 Rainbow Railroading Game 5 — speakers: Rainbow Railroading Game, Rainbow Railroad
+- 2020-02-22 — RR2020-4 Rainbow Railroading – Mongoose Traveller — speakers: Rainbow Railroading, Mongoose Traveller, Rainbow Railroad
+- 2020-02-22 — RR2020-3 Rainbow Railroading 2020 – Masks — speakers: Rainbow Railroading, Rainbow Railroad
+- 2020-02-22 — RR2020-2 Rainbow Railroading 2020 Game 2 — speakers: Rainbow Railroading, Rainbow Railroad
+- 2020-02-22 — RR2020-01 Rainbow Railroading 2020 Game 1 — speakers: Rainbow Railroading, Rainbow Railroad
+- 2020-02-10 — ONESHOT24 Happy Jacks RPG One Shot, Decuma
+- 2019-12-28 — ONESHOT23 Happy Jacks RPG Actual Play, Demigods
+- 2019-12-09 — ONESHOT22 Happy Jacks RPG One Shots, Happiest Apocalypse on Earth — speakers: Christopher Info
+- 2019-11-26 — ONESHOT21 Happy Jacks RPG Actual Play, Monster of the Wee — speakers: Happy Jacks, Actual Play, Shot Saturday
+- 2019-11-25 — ONESHOT20 Happy Jacks RPG One Shot, High Magic Low Life — speakers: Dan Info
+- 2019-11-19 — ONESHOT19 Happy Jacks RPG Actual Play, Urban Shadows
+- 2019-11-16 — ONESHOT18 Happy Jacks RPG Actual Play, Monster of the Week
+- 2019-10-23 — ONESHOT17 Happy Jacks RPG Actual Play One Shots, Edge of Empire
+- 2019-10-21 — ONESHOT16 Happy Jacks RPG Actual Play One Shots, Star Wars (West End)
 - 2019-09-20 — ONESHOT13 Happy Jacks RPG Actual Play One Shots, DnD5E
 - 2019-09-19 — ONESHOT12 Happy Jacks RPG Actual Play One-Shots, Shibuyan Knights — speakers: Happy Jacks, Actual Play One, Shibuyan Knights
 - 2019-09-09 — GATEWAY19-05 Happy Jacks RPG Actual Play, Tales from LV-426, Tales From the Loop
@@ -1709,37 +1735,37 @@
 - 2019-03-03 — ORCCON2019-05 Happy Jacks RPG One Shots, Lord Tefley’s Ball, Good Society — speakers: Tefley’s Ball, Adam Game, Tefley’s Ball System
 - 2019-03-01 — ORCCON2019-04 Happy Jacks RPG One Shots, Horror in Space, Mongoose Traveller
 - 2019-02-27 — ORCCON2019-02 Happy Jacks RPG Actual Play, the Death-Rolled Kingdom, MR-KR-GR — speakers: Happy Jacks, Actual Play, Rolled Kingdom, Tomes System
-- 2019-02-23 — ORCCON2019-01 Happy Jacks RPG One Shots, Holiday at the Mote of Sin, Chronicles of Darkness
+- 2019-02-23 — ORCCON2019-01 Happy Jacks RPG One Shots, Holiday at the Mote of Sin, Chronicles of Darkness — speakers: Happy Jacks, One Shots
 - 2019-02-11 — SHADOW16 Happy Jacks RPG Actual Play, Shadowcon, Icarus
 - 2019-01-28 — SHADOW15 Happy Jacks RPG One Shots, Shadow Con
 - 2019-01-24 — ONESHOT11 Happy Jacks RPG Actual Play, Wild Talents — speakers: Wild Talents
 - 2019-01-14 — SHADOW14 Happy Jacks RPG Actual Play, Shadow Con, Tachyon Squadron — speakers: Shadow Con
 - 2018-12-16 — ONESHOT10 Happy Jacks RPG Actual Play – One Shot Saturday – Teenagers from Outerspace
-- 2018-12-09 — SHADOW13 Happy Jacks RPG Actual Play – Shadow Con – For the Queen
-- 2018-11-23 — RAINBOW06 Happy Jacks RPG Actual Play – Savage Worlds – Rainbow Railroad Fundraiser — speakers: Happy Jacks, Actual Play, Savage Worlds, Rainbow Railroad Fundraiser, Rainbow Railroad
+- 2018-12-09 — SHADOW13 Happy Jacks RPG Actual Play – Shadow Con – For the Queen — speakers: Happy Jacks, Actual Play, Shadow Con
+- 2018-11-23 — RAINBOW06 Happy Jacks RPG Actual Play – Savage Worlds – Rainbow Railroad Fundraiser
 - 2018-11-22 — RAINBOW05 Happy Jacks RPG Actual Play – GURPS – Rainbow Railroad Fundraiser
 - 2018-11-21 — RAINBOW04 Happy Jacks RPG Actual Play – A Town Called Malice – Rainbow Railroad Fundraiser
 - 2018-11-20 — RAINBOW03 Happy Jacks RPG Actual Play – Masks – Rainbow Railroad Fundraiser
-- 2018-11-19 — RAINBOW02 Happy Jacks RPG Actual Play – Shadow Run – Rainbow Railroad Fundraiser Game — speakers: Happy Jacks, Actual Play, Shadow Run, Rainbow Railroad Fundraiser Game, Rainbow Railroad
+- 2018-11-19 — RAINBOW02 Happy Jacks RPG Actual Play – Shadow Run – Rainbow Railroad Fundraiser Game — speakers: Happy Jacks, Actual Play, Shadow Run, Rainbow Railroad Fundraiser Game
 - 2018-11-19 — RAINBOW01 Happy Jacks RPG Actual Play – Monster of the Week – Rainbow Railroad Fundraiser Game — speakers: Happy Jacks, Actual Play, Rainbow Railroad Fundraiser Game
 - 2018-11-04 — TEN02 Happy Jacks RPG Actual Play One-Shot – Ten Candles — speakers: Happy Jacks, Actual Play One, Ten Candles
 - 2018-11-02 — SHADOW12 Happy Jacks RPG Actual Play – Shadowcon – Warhammer Fantasy Roleplay 4th — speakers: Fantasy Roleplay
 - 2018-09-27 — SHADOW11 Happy Jacks RPG Actual Play – Shadow Con – WFRP 4th — speakers: Colin Summary
-- 2018-09-20 — ONESHOT09 Happy Jacks RPG Actual Play – One-Shot Saturday – Savage World of Solomon Kane — speakers: Solomon Kane, Jim Find More One-Shots
-- 2018-09-16 — ONESHOT08 Happy Jacks RPG Actual Play – One-Shot Saturday – Demigods (PbtA) 1920s — speakers: different GMs
+- 2018-09-20 — ONESHOT09 Happy Jacks RPG Actual Play – One-Shot Saturday – Savage World of Solomon Kane — speakers: Solomon Kane
+- 2018-09-16 — ONESHOT08 Happy Jacks RPG Actual Play – One-Shot Saturday – Demigods (PbtA) 1920s — speakers: Happy Jacks, Actual Play, Shot Saturday
 - 2018-09-11 — SHADOW10 Happy Jacks RPG Actual Play – Shadowcon – Good Society – A Jane Austen RPG — speakers: Jane Austen Rpg, Adam Summary
-- 2018-08-28 — SHADOW09 Happy Jacks RPG Actual Play – Shadowcon – The Expanse RPG Quick Start
-- 2018-08-22 — ONESHOT07 Happy Jacks RPG Actual Play – Oneshot Saturday – Cortex Prime — speakers: different GMs
+- 2018-08-28 — SHADOW09 Happy Jacks RPG Actual Play – Shadowcon – The Expanse RPG Quick Start — speakers: Happy Jacks, Actual Play, Quick Start
+- 2018-08-22 — ONESHOT07 Happy Jacks RPG Actual Play – Oneshot Saturday – Cortex Prime — speakers: Happy Jacks, Actual Play, Oneshot Saturday, Cortex Prime, Shot Saturday
 - 2018-08-19 — SHADOW08 Happy Jacks RPG Actual Play – Shadowcon – Warhammer Fantasy Roleplay 4th — speakers: Fantasy Roleplay, Fantasy Role-Play, Colin Summary
-- 2018-08-09 — ONESHOT06 Happy Jacks RPG Actual Play – One Shot Saturday – Demigods (PbtA Playtest) — speakers: different GMs
+- 2018-08-09 — ONESHOT06 Happy Jacks RPG Actual Play – One Shot Saturday – Demigods (PbtA Playtest) — speakers: Happy Jacks, Actual Play, One Shot Saturday, Shot Saturday
 - 2018-08-01 — SHADOW07 Happy Jacks RPG Actual Play – Lady Blackbird — speakers: Lady Blackbird, Colin Summary
-- 2018-07-23 — SHADOW06 Happy Jacks RPG Actual Play – Shadowcon – Cthulhu Dark
+- 2018-07-23 — SHADOW06 Happy Jacks RPG Actual Play – Shadowcon – Cthulhu Dark — speakers: Happy Jacks, Actual Play, Cthulhu Dark
 - 2018-07-09 — SHADOW05 Happy Jacks RPG Actual Play – Shadowcon – Tears and Kisses in the Rain (PbtA Playtest)
-- 2018-06-20 — ONESHOT05 Happy Jacks RPG Actual Play – One-Shot Saturday – L5R 1st Ed — speakers: different GMs
+- 2018-06-20 — ONESHOT05 Happy Jacks RPG Actual Play – One-Shot Saturday – L5R 1st Ed — speakers: Happy Jacks, Actual Play, Shot Saturday
 - 2018-06-13 — SHADOW04 Happy Jacks RPG Actual Play – Shadowcon – Tears and Kisses in the Rain — speakers: Colin Summary
 - 2018-06-01 — ONESHOT4 Happy Jacks RPG Actual Play – Urban Shadows – One Shot Saturday — speakers: Shadows Pbta
-- 2018-05-26 — ONESHOT3 Happy Jacks RPG Actual Play – Monster of the Week – One Shot Saturday — speakers: different GMs
+- 2018-05-26 — ONESHOT3 Happy Jacks RPG Actual Play – Monster of the Week – One Shot Saturday — speakers: Happy Jacks, Actual Play, One Shot Saturday, Shot Saturday
 - 2018-05-06 — ONESHOT2 Happy Jacks RPG Actual Play – Fantasy Age – One Shot Saturday — speakers: Fantasy Age, Fantasy Age GM
-- 2018-05-05 — SHADOW02 Happy Jacks RPG Actual Play – Iron Edda – ShadowCon
+- 2018-05-05 — SHADOW02 Happy Jacks RPG Actual Play – Iron Edda – ShadowCon — speakers: Happy Jacks, Actual Play, Iron Edda, Morgan Summary
 - 2018-04-26 — ONESHOT1 Happy Jacks RPG Actual Play – Cortex System – One Shot Saturday
 - 2018-04-19 — SHADOW01 Happy Jacks RPG Actual Play – ShadowCon — speakers: Fantasy Roleplay, Colin Summary
