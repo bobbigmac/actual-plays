@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-03-08T03:13:50+00:00`
-- checked_at: `2026-03-08T03:13:50+00:00`
-- etag: `W/"9aeef6a4f4162caaac16e2b7dc29a750"`
+- fetched_at: `2026-03-08T21:40:16+00:00`
+- checked_at: `2026-03-08T21:40:16+00:00`
+- etag: `W/"4ae21bc5d13fdcb6de51f9e804122e76"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-03-08T03:13:50+00:00",
+  "fetched_at": "2026-03-08T21:40:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "5ca8addacc7901a0bb20ac1c104d7c537ff562fd",
+      "title": "DELTA GREEN: PLAYTHINGS (EP 4)",
+      "published_at": "2026-03-08T00:56:23+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2026/3/7/delta-green-playthings-ep-4",
+      "description": "The Agents split up to cover more ground… and Ichi visits the previous crime scenes. Listen to current and archived episodes of Roll The Hard 20 Podcast on Apple Podcasts, Spotify, iHeart Radio, Amazon Podcasts, Audible, and our website! And find us on YouTube at Roll The Hard 20! Find us on Apple Podcasts! https://podcasts.apple.com/us/podcast/roll-the-hard-20-podcast/id1408365472 Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber Spotify: https://open.spotify.com/show/1kJ6KnJsQFsN4z86N6UjZo?si=6s15B9YuQPGksRzwZyVKLA Pandora https://pandora.app.link/WOmEP5Rf1Cb iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Amazon Podcasts: https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B08K585JWV/ref=sr_1_1?dchild=1&keywords=Roll+the+hard+20+podcast&qid=1618152633&s=audible&sr=1-1 We’re on Audible! https://www.audible.com/pd?asin=B08K55QSGF&source_code=ASSORAP0511160006&share_location=podcast_show_detail Also on Podbean https://www.podbean.com/podcast-detail/vkker-a5316/ROLL-THE-HARD-20-PODCAST/page/6 Just one more venue we can be found! https://www.delta-green.com/topics/debriefing/ Want to be a Hard Slinger and get cool swag? Join us on our Patreon page! https://www.patreon.com/rollthehard20podcast Contact your Trusted D.M. Brian! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://instagram.com/rollthehard20?igshid=gjlo7p4lay72 https://twitter.com/rollthehard20?s=11 \"Darkling\", \"Laser Groove\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1772931369167-KWTLK46LS72EPAAFQ2HW/TheHardTwenty-DeltaGreen-Greens.jpg?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/69acc878f146d001fae67d85/1772931344746/pt+4+-+3%3A7%3A26%2C+7.09+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101106755",
+      "itunes_duration": "52:39",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "playthings"
+      ]
+    },
     {
       "key": "e9c25beb7dbe734aacbee920b9c8813ce2616749",
       "title": "DELTA GREEN: PLAYTHINGS (EP 3)",
@@ -3937,46 +3955,6 @@
       ]
     },
     {
-      "key": "9b6a7af350eced13aac4fbd16611fadb89f437fb",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 10: ZOTZILAHA & THE GIVING TREE",
-      "published_at": "2020-10-24T02:09:29+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/10/23/hidden-shrine-of-tamoachan-ep-10-zotzilaha-amp-the-giving-tree",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1603505330624-8BMHB4OS2145GJZQ5SYD/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f938ac77203037f62746dbc/1603505168957/HIDDEN+SHRINE+OF+TAMOACHAN+EP+10.+ZOTZILAHA+AND+THE+GIVING+TREE.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "158148150",
-      "itunes_duration": "1:49:49",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "zotzilaha",
-        "giving",
-        "tree"
-      ]
-    },
-    {
-      "key": "c9201b2e2ae9f48e98bd18d13e4bf1e4c9b3d4f8",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 9: DASA ZOTZ & HER BOY SHACK",
-      "published_at": "2020-10-18T17:06:56+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/10/18/hidden-shrine-of-tamoachan-ep-9-dasa-zotz-amp-her-boy-shack",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1603040759923-5MH0RX5WOVII30GB9KAX/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f8c73d95688f32ed11bdb0a/1603040614528/HIDDEN+SHRINE+OF+TAMOACHAN+EP+9+DASA+ZOTZ+AND+HER+BOY+SHACK.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "131470024",
-      "itunes_duration": "1:31:18",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "dasa",
-        "zotz",
-        "shack"
-      ]
-    },
-    {
       "key": "4fd1ccf45e9707f96b4761d1594d65ab1382f51d",
       "title": "DELTA GREEN EP 3: LAST THINGS LAST (PT 3)",
       "published_at": "2020-10-17T00:02:46+00:00",
@@ -4025,154 +4003,6 @@
       "topics": [
         "delta",
         "thing"
-      ]
-    },
-    {
-      "key": "fcdb27713d2cd1e90130cca85afc1761acfc0e72",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 8: WATERLOGGED",
-      "published_at": "2020-09-19T01:29:54+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/9/18/hidden-shrine-of-tamoachan-ep-8-waterlogged",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1600478908001-TDCX51D069AV9G29Y44Z/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f655d1feb716a35bc0e76ce/1600478789385/HIDDEN+SHRINE+OF+TAMOACHAN+EP+8+WATERLOGGED.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "94199141",
-      "itunes_duration": "1:05:25",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "waterlogged"
-      ]
-    },
-    {
-      "key": "4a4391952b08ce283a6e2d9b05f26c220e4115d7",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 7: THE LORD OF THE SNAILS",
-      "published_at": "2020-09-11T23:12:25+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/9/11/hidden-shrine-of-tamoachan-ep-7-the-lord-of-the-snails",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1599865901033-QE2H1JNIIB9AWA6W14KQ/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f5c02ec09e76456dbe340a1/1599865791119/HIDDEN+SHRINE+OF+TAMOACHAN+EP+7+THE+LORD+OF+THE+SNAILS.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "111322720",
-      "itunes_duration": "1:17:18",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "lord",
-        "snails"
-      ]
-    },
-    {
-      "key": "c573480f80612d7235305260a67c297a824b2450",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 6: COURSES OF THE GODS",
-      "published_at": "2020-09-04T23:30:15+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/9/4/hidden-shrine-of-tamoachan-ep-6-courses-of-the-gods",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1599262403218-58FY5SPQ879IT6XO0UME/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f52cc907c98e05d1cc3d4ff/1599262078127/HIDDEN+SHRINE+OF+TAMOACHAN+EP+6+COURSES+OF+THE+GODS.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "115562707",
-      "itunes_duration": "1:20:15",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "course",
-        "gods"
-      ]
-    },
-    {
-      "key": "865cfdffbff632e1dd2dcfac75638f5e0d9f6a5c",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 5: WHERE THE FUEGO'S THE EXIT?",
-      "published_at": "2020-08-29T23:54:39+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/8/29/hidden-shrine-of-tamoachan-ep-5-where-the-fuegos-the-exit",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1598745244375-9RY7EU3744YW0SPMGJG5/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f4ae9391eaeb065d4bbfd4f/1598745100240/HIDDEN+SHRINE+OF+TAMOACHAN+EP+5+WHERE+THE+FUEGOS+THE+EXIT.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "109732176",
-      "itunes_duration": "1:16:12",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "fuego",
-        "exit"
-      ]
-    },
-    {
-      "key": "4a92f1114dc6bed2287596b05ed936da5e1c2ad5",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 4: WHO'S YOUR POPOLOCAS?",
-      "published_at": "2020-08-21T23:57:58+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/8/21/hidden-shrine-of-tamoachan-ep-4-whos-your-popolocas",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1598054256061-O3XTYP1I6KCM6L3MQ9PV/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f405dc6e79b782feea99fc9/1598054169681/HIDDEN+SHRINE+OF+TAMOACHAN+EP+4+WHOS+YOUR+POPOLOCAS.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "122201988",
-      "itunes_duration": "1:24:52",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "popolocas"
-      ]
-    },
-    {
-      "key": "10a3b960c4bf6630aa7772f8e8e0889a1765bfc3",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 3: URN THOSE RICHES",
-      "published_at": "2020-08-16T22:23:16+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/8/16/hidden-shrine-of-tamoachan-ep-3-urn-those-riches",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1597616561767-0LQQYFPUASBI47IK91Y1/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f39b078792fdc7dc7a7822f/1597616451629/HIDDEN+SHRINE+OF+TAMOAHAN+EP+3.+URN+THOSE+RICHES.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "108250720",
-      "itunes_duration": "1:15:10",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "riches"
-      ]
-    },
-    {
-      "key": "9361e913c489d23a7a871eb0713fbe5897f212cb",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 2: MUDSUCKERS",
-      "published_at": "2020-08-08T12:30:15+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/8/8/hidden-shrine-of-tamoachan-ep-2-mudsuckers",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1596889792142-ECAABYF0UZE5CG8ZP6Y3/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f2e99451e01fe552db5697a/1596889584834/HIDDEN+SHRINE+2+MUDSUCKERS.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "94591604",
-      "itunes_duration": "1:05:41",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "mudsucker"
-      ]
-    },
-    {
-      "key": "1c13b3c7f831d4c1afe1091048e5dffa48b33f88",
-      "title": "HIDDEN SHRINE OF TAMOACHAN EP 1: BUNGLE IN THE JUNGLE",
-      "published_at": "2020-08-01T00:37:16+00:00",
-      "link": "https://www.rollthehard20podcast.com/podcast-episode/2020/7/31/hidden-shrine-of-tamoachan-ep-1-bungle-in-the-jungle",
-      "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: rollthehard20podcast@gmail.com Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/podcasts/portal/#p:id=playpodcast/series&a=809241674 Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/ Subscribe to our YouTube channel at: https://www.youtube.com/channel/UCOo3xgvuyt8p_u6HqysDATw/featured?view_as=subscriber",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1596242210926-6W3M95UZHMNWU77Z7H0H/seo+icon.png?format=1500w",
-      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5f24b76b5e093d612c55370d/1596242059878/hidden+shrine+1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "101911742",
-      "itunes_duration": "1:10:46",
-      "speakers": [],
-      "topics": [
-        "hidden",
-        "shrine",
-        "bungle",
-        "jungle"
       ]
     },
     {
@@ -5080,7 +4910,7 @@
     },
     {
       "key": "56f1dae6e23ff7aefcee99a2b5bf0df57856e041",
-      "title": "STATE OF THE HARD 20",
+      "title": "STATE OF ROLL THE HARD 20",
       "published_at": "2019-08-18T22:33:58+00:00",
       "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/8/18/state-of-the-hard-20",
       "description": "Get in touch with the show! Visit the website at: https://www.rollthehard20podcast.com/ Email us at: Rollthehard20podcast@gmail.com Follow our social media footprints at: https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram! @ Roll The Hard 20 Be a Hard Slinger and help support the show! https://www.patreon.com/rollthehard20podcast Want to represent the podcast? Check out our awesome shirts! https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 iTunes: ROLL THE HARD 20 PODCAST Google Play: https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a Player FM: roll-the-hard-20-podcast Spotify: https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Sticher: https://www.stitcher.com/s?fid=418945&refid=stpr iHeart Radio: https://www.iheart.com/podcast/256-roll-the-hard-20-podcast-31128285/",
@@ -5091,7 +4921,8 @@
       "itunes_duration": "52:25",
       "speakers": [],
       "topics": [
-        "state"
+        "state",
+        "roll"
       ]
     },
     {
@@ -5538,7 +5369,7 @@
     },
     {
       "key": "746cecb86067c7293168bb39eecf61c0a60f5a66",
-      "title": "rROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH",
+      "title": "ROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH",
       "published_at": "2019-03-11T21:46:22+00:00",
       "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/3/11/rroll-the-hard-20-podcast-catching-up-with-brian-and-kush",
       "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow oursocial media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast https://podcasters.spotify.com/podcast/1kJ6KnJsQFsN4z86N6UjZo Music and Sound by Syrinscape. https://store.syrinscape.com/what-is-syrinscape/?att 4 The app putting sound into the hands of gamers.",
@@ -5549,7 +5380,7 @@
       "itunes_duration": "30:47",
       "speakers": [],
       "topics": [
-        "rroll",
+        "roll",
         "podcast",
         "brian",
         "kush"
@@ -5681,6 +5512,173 @@
         "flight",
         "entertainment"
       ]
+    },
+    {
+      "key": "5c16f75b72cb74047c764e3a369f1f273031a36e",
+      "title": "RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE",
+      "published_at": "2019-01-14T16:50:33+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/14/riders-on-the-storm-ep-27-the-soul-crucible",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909258479-QPELG5KOR7MRR2C8VIVI/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c3cbbca70a6ad9840d65290/1547484470188/Riders+on+the+Storm+EP+27.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109820574",
+      "itunes_duration": "1:16:15",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "soul"
+      ]
+    },
+    {
+      "key": "d719ef36c9598a8e62307991cbe3ae1770ba0f10",
+      "title": "RIDERS ON THE STORM EP 26: THE END IS NIGH",
+      "published_at": "2019-01-08T22:21:43+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/8/riders-on-the-storm-ep-26-the-end-is-nigh",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1 ROLL THE HARD 20 PODCAST https://play.google.com/music/listen?u=0#/ps/I6hmrdymr2wovuwdhe6oxwcll2a roll-the-hard-20-podcast",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909274940-98AMNFQTEWDI5Z2XO2G4/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c352113562fa7737da35cb9/1546985977772/Riders+on+the+Storm+EP+26+.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94163405",
+      "itunes_duration": "1:04:03",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "nigh"
+      ]
+    },
+    {
+      "key": "0ac39091339adf445404de5994b98761380b75c3",
+      "title": "RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK",
+      "published_at": "2019-01-04T01:07:10+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2019/1/3/riders-on-the-storm-ep-25-no-handle-no-hinges-no-lock",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909290912-KGS4Z63LX7HOUZIE57DQ/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c2eb02c8a922d8f0fe8e37f/1546563815403/Riders+on+the+Storm+EP+25.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58105021",
+      "itunes_duration": "40:20",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "handle",
+        "hinges",
+        "lock"
+      ]
+    },
+    {
+      "key": "42bbb54227a442837e07c96a22412b876b3136b1",
+      "title": "RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN",
+      "published_at": "2018-12-29T04:59:34+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/28/riders-on-the-storm-ep-24-enter-the-dragonborn",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909303857-E8ZLRYY88B5KPKNCE2NI/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c26fd4e88251b499661a640/1546059345152/Riders+on+the+Storm+EP+24.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90668221",
+      "itunes_duration": "1:02:58",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "dragonborn"
+      ]
+    },
+    {
+      "key": "585e34e03ed857036fddee2f5488b9aabb37fee5",
+      "title": "RIDERS ON THE STORM EP 23: DEFINE A FREE ACTION",
+      "published_at": "2018-12-23T06:44:46+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/22/riders-on-the-storm-ep-23-define-a-free-action",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909318065-7UEJMQEVRM3BWITSYWHE/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c1f2c8470a6ad49a4aa24bc/1545547267049/Riders+on+the+Storm+EP+23+Define+A+Free+Action.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114296917",
+      "itunes_duration": "1:19:22",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "define",
+        "action"
+      ]
+    },
+    {
+      "key": "171b00893914c5e6b5d9b88f22b384c1c703dc7a",
+      "title": "ROLL THE HARD 20 PODCAST EP 22: SHOW ME YOUR NOOBIES (INTERVIEW)",
+      "published_at": "2018-12-13T20:58:51+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/13/roll-the-hard-20-podcast-ep-22-show-me-your-noobies-interview",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909333371-BUQA53XH24X4779ODAEM/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c12c6e5562fa79df2e89a42/1544734544514/episode+22+junior+interview+-+12%3A13%3A18%2C+12.47+PM.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41021566",
+      "itunes_duration": "28:27",
+      "speakers": [],
+      "topics": [
+        "roll",
+        "podcast",
+        "noobie"
+      ]
+    },
+    {
+      "key": "925fd65ecab9eb32fe8e1f64b963f10edc28b6ed",
+      "title": "RIDERS ON THE STORM EP 21: HOME INVASION, ISLAND STYLE!",
+      "published_at": "2018-12-02T04:14:49+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/12/1/riders-on-the-storm-ep-21-home-invasion-island-style",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 And on Instagram @ Roll The Hard 20 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909351059-ZVP87VTVXGQUMMPCXSTM/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5c0359fe562fa75fca284456/1543723808061/Riders+on+the+Storm+EP+21+Home+Invasion+Island+Style.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100298001",
+      "itunes_duration": "1:09:38",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "home",
+        "invasion",
+        "island",
+        "style"
+      ]
+    },
+    {
+      "key": "09d5d38b69201d0460c4dd7d3695060bc3d513ff",
+      "title": "RIDERS ON THE STORM EP 20: HAPPY DRAKESGIVING",
+      "published_at": "2018-11-22T20:51:41+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/11/22/riders-on-the-storm-ep-20-happy-drakesgiving",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909363626-TP9OD8OZX8LYGLZJ8XQ7/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5bf714f3758d46cefdb353f9/1542919685189/Riders+on+the+Storm+EP+20+happy+drakesgiving.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94769655",
+      "itunes_duration": "1:05:48",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm",
+        "drakesgiving"
+      ]
+    },
+    {
+      "key": "04506aef061dc4c45b1c164d12a8c26cfa90488b",
+      "title": "RIDERS ON THE STORM EP 19: GOING WHERE THE SUN SHINES",
+      "published_at": "2018-11-15T22:31:44+00:00",
+      "link": "https://www.rollthehard20podcast.com/podcast-episode/2018/11/15/riders-on-the-storm-ep-19-going-where-the-sun-shines",
+      "description": "Get in touch with the show! Visit the website at https://www.rollthehard20podcast.com/ Email us at Rollthehard20podcast@gmail.com Follow our social media footprints at https://m.facebook.com/groups/202767550592121 https://Twitter.com/RollTheHard20P1 Want to represent the podcast? Check out our awesome shirts at https://www.amazon.com/ROLL-THE-HARD-20-PODCAST/dp/B07HMMRMMN?keywords=roll+the+hard+20+podcast&qid=1537974976&sr=8-1-fkmrnull&ref=mp_s_a_1_fkmrnull_1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/1561909377678-2JNCHMMF9DSJ42OFZV9J/fav1.png?format=1500w",
+      "enclosure_url": "https://static1.squarespace.com/static/5acd2c8bf407b409c6386368/t/5bf60c7c032be49110e08ffa/1542851863233/Riders+on+the+Storm+EP+19+going+where+the+sun+shines.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94555869",
+      "itunes_duration": "1:05:40",
+      "speakers": [],
+      "topics": [
+        "rider",
+        "storm"
+      ]
     }
   ]
 }
@@ -5689,6 +5687,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — DELTA GREEN: PLAYTHINGS (EP 4)
 - 2026-02-28 — DELTA GREEN: PLAYTHINGS (EP 3)
 - 2026-02-21 — DELTA GREEN: PLAYTHINGS (EP 2)
 - 2026-02-14 — DELTA GREEN: PLAYTHINGS (EP 1) — speakers: New Iberia
@@ -5894,19 +5893,9 @@
 - 2020-11-15 — THE DRAGON'S DEMAND EP 1: WE WERE DEFENDING WHAT?
 - 2020-11-05 — DELTA GREEN: SINS OF THE FATHER (PT 2)
 - 2020-10-30 — DELTA GREEN: SINS OF THE FATHER (PT 1)
-- 2020-10-24 — HIDDEN SHRINE OF TAMOACHAN EP 10: ZOTZILAHA & THE GIVING TREE
-- 2020-10-18 — HIDDEN SHRINE OF TAMOACHAN EP 9: DASA ZOTZ & HER BOY SHACK
 - 2020-10-17 — DELTA GREEN EP 3: LAST THINGS LAST (PT 3)
 - 2020-10-07 — DELTA GREEN EP 2: LAST THINGS LAST (PT 2)
 - 2020-10-04 — DELTA GREEN EP 1: LAST THINGS LAST (PT 1)
-- 2020-09-19 — HIDDEN SHRINE OF TAMOACHAN EP 8: WATERLOGGED
-- 2020-09-11 — HIDDEN SHRINE OF TAMOACHAN EP 7: THE LORD OF THE SNAILS
-- 2020-09-04 — HIDDEN SHRINE OF TAMOACHAN EP 6: COURSES OF THE GODS
-- 2020-08-29 — HIDDEN SHRINE OF TAMOACHAN EP 5: WHERE THE FUEGO'S THE EXIT?
-- 2020-08-21 — HIDDEN SHRINE OF TAMOACHAN EP 4: WHO'S YOUR POPOLOCAS?
-- 2020-08-16 — HIDDEN SHRINE OF TAMOACHAN EP 3: URN THOSE RICHES
-- 2020-08-08 — HIDDEN SHRINE OF TAMOACHAN EP 2: MUDSUCKERS
-- 2020-08-01 — HIDDEN SHRINE OF TAMOACHAN EP 1: BUNGLE IN THE JUNGLE
 - 2020-07-26 — THE SALTMARSH WRAP-UP
 - 2020-07-25 — THE SINISTER SECRET OF SALTMARSH (SESSION 10 PT 2)
 - 2020-07-19 — THE SINISTER SECRET OF SALTMARSH (SESSION 10 PT 1)
@@ -5956,7 +5945,7 @@
 - 2019-09-08 — RIDERS ON THE STORM EP 47: OWLBEAR YOUR LOVE
 - 2019-09-02 — THE CARRION CROWN EP 9: CATCHIN' UP WITH GIBS
 - 2019-08-25 — THE CARRION CROWN EP 8: THE TOWN HALL SUMMONS
-- 2019-08-18 — STATE OF THE HARD 20
+- 2019-08-18 — STATE OF ROLL THE HARD 20
 - 2019-08-11 — THE CARRION CROWN EP 7: GIVE IT A REST
 - 2019-08-04 — THE CARRION CROWN EP 6: THE AA MEETING
 - 2019-07-25 — THE CARRION CROWN EP 5: NEVER SPLIT THE PARTY
@@ -5981,7 +5970,7 @@
 - 2019-03-29 — RIDERS ON THE STORM EP 36: WHAT THE FOG IS THAT?
 - 2019-03-23 — RIDERS ON THE STORM EP 35: GETTIN' SWAMPED
 - 2019-03-17 — RIDERS ON THE STORM EP 34: DES NO I AND I IN TEAMWORK
-- 2019-03-11 — rROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH
+- 2019-03-11 — ROLL THE HARD 20 PODCAST: CATCHING UP WITH BRIAN AND KUSH
 - 2019-03-08 — ROLL THE HARD 20 PODCAST: INTERVIEW WITH SAMWISE
 - 2019-03-08 — RIDERS ON THE STORM EP 33: OUT WITH THE OLD
 - 2019-03-01 — RIDERS ON THE STORM EP 32: NO BAALZ ALLOWED
@@ -5989,3 +5978,12 @@
 - 2019-02-09 — RIDERS ON THE STORM EP 30: BAH-TU DA BONE!
 - 2019-01-29 — RIDERS ON THE STORM EP 29: IRE OF THE SERPENT BEASTS
 - 2019-01-21 — RIDERS ON THE STORM EP 28: IN-FLIGHT ENTERTAINMENT
+- 2019-01-14 — RIDERS ON THE STORM EP 27: THE SOUL CRUCIBLE
+- 2019-01-08 — RIDERS ON THE STORM EP 26: THE END IS NIGH
+- 2019-01-04 — RIDERS ON THE STORM EP 25: NO HANDLE, NO HINGES, NO LOCK
+- 2018-12-29 — RIDERS ON THE STORM EP 24: ENTER THE DRAGONBORN
+- 2018-12-23 — RIDERS ON THE STORM EP 23: DEFINE A FREE ACTION
+- 2018-12-13 — ROLL THE HARD 20 PODCAST EP 22: SHOW ME YOUR NOOBIES (INTERVIEW)
+- 2018-12-02 — RIDERS ON THE STORM EP 21: HOME INVASION, ISLAND STYLE!
+- 2018-11-22 — RIDERS ON THE STORM EP 20: HAPPY DRAKESGIVING
+- 2018-11-15 — RIDERS ON THE STORM EP 19: GOING WHERE THE SUN SHINES
