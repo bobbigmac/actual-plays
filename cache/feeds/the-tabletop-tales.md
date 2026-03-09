@@ -2,10 +2,10 @@
 
 - slug: `the-tabletop-tales`
 - source: `https://feeds.buzzsprout.com/1458004.rss`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"6b2158cd3e4b7ec1a060262e559eea5a"`
-- last_modified: `Wed, 05 Nov 2025 18:11:40 GMT`
+- fetched_at: `2026-03-09T16:15:45+00:00`
+- checked_at: `2026-03-09T16:15:45+00:00`
+- etag: `"9c53649ce36e5c346fb95d7f2b82bdeb"`
+- last_modified: `Mon, 09 Mar 2026 14:21:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.thetabletoptales.com",
   "description": "A fantasy-comedy storytelling podcast inspired by tabletop roleplaying games. This mostly-improvised adventure employs immersive sound design and original score to tell humorous, compelling and entertaining fictional stories.",
   "image_url": "https://storage.buzzsprout.com/aj3jb3rjkmg6cj1zvwt4occemcmh?.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-09T16:15:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,7 +38,11 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "90741018",
       "itunes_duration": "3778",
-      "speakers": [],
+      "speakers": [
+        "Tabletop Talks",
+        "Tabletop Talk",
+        "Tabletop Tales Team"
+      ],
       "topics": [
         "tabletop",
         "talks",
@@ -60,7 +64,7 @@
       "enclosure_length": "78651699",
       "itunes_duration": "3275",
       "speakers": [
-        "Frost Mage"
+        "Best Song"
       ],
       "topics": [
         "movement",
@@ -80,7 +84,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "56059907",
       "itunes_duration": "2334",
-      "speakers": [],
+      "speakers": [
+        "Obsidian Dragon"
+      ],
       "topics": [
         "movement",
         "fortress",
@@ -231,10 +237,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44791416",
       "itunes_duration": "1864",
-      "speakers": [
-        "Naga Cove",
-        "Al Khemist"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "voyage",
@@ -278,7 +281,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46526124",
       "itunes_duration": "1936",
-      "speakers": [],
+      "speakers": [
+        "Aquarock Temple"
+      ],
       "topics": [
         "movement",
         "floor",
@@ -299,9 +304,7 @@
       "enclosure_length": "59490611",
       "itunes_duration": "2477",
       "speakers": [
-        "William Shakesrapier",
-        "Will Crispin",
-        "Ivory Idol"
+        "Ridden Sea"
       ],
       "topics": [
         "movement",
@@ -324,8 +327,8 @@
       "enclosure_length": "60574571",
       "itunes_duration": "2521",
       "speakers": [
-        "Kyle McCann",
-        "Chris Chaput"
+        "Tabletop Talks",
+        "Tabletop Talk"
       ],
       "topics": [
         "tabletop",
@@ -345,10 +348,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "52027574",
       "itunes_duration": "2166",
-      "speakers": [
-        "William Shakesrapier",
-        "Ivory Idol"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "poet",
@@ -371,7 +371,7 @@
       "enclosure_length": "42145697",
       "itunes_duration": "1754",
       "speakers": [
-        "Raphael Blaque"
+        "Temple Blaque"
       ],
       "topics": [
         "movement",
@@ -394,7 +394,8 @@
       "enclosure_length": "57257443",
       "itunes_duration": "2384",
       "speakers": [
-        "Raphael Blaque"
+        "Temple Blaque",
+        "Deitic Instrument"
       ],
       "topics": [
         "movement",
@@ -438,10 +439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46931140",
       "itunes_duration": "1953",
-      "speakers": [
-        "Matilda Webb",
-        "Will Crispin"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "prophecy",
@@ -463,8 +461,8 @@
       "enclosure_length": "47087237",
       "itunes_duration": "1959",
       "speakers": [
-        "Chris Chaput",
-        "John Fuszner"
+        "Tabletop Talks",
+        "Tabletop Talk"
       ],
       "topics": [
         "tabletop",
@@ -484,11 +482,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "35991053",
       "itunes_duration": "1497",
-      "speakers": [
-        "Archibald Dawkins",
-        "Spider Queen",
-        "Will Crispin"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "lair",
@@ -510,10 +504,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45168799",
       "itunes_duration": "1880",
-      "speakers": [
-        "Crispin Whisper'yx",
-        "Will Crispin"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "dragon",
@@ -535,7 +526,7 @@
       "enclosure_length": "43715547",
       "itunes_duration": "1819",
       "speakers": [
-        "Glonk Dawkins"
+        "Myne Mine"
       ],
       "topics": [
         "movement",
@@ -581,8 +572,7 @@
       "enclosure_length": "34825556",
       "itunes_duration": "1449",
       "speakers": [
-        "Glonk Dawkins",
-        "Myne Mountain"
+        "Glonk Dawkins"
       ],
       "topics": [
         "movement",
@@ -698,9 +688,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38335159",
       "itunes_duration": "1595",
-      "speakers": [
-        "Glonk Dawkins"
-      ],
+      "speakers": [],
       "topics": [
         "movement",
         "brawl",
@@ -733,34 +721,34 @@
 
 ## Episodes (newest first)
 
-- 2022-07-06 — Tabletop Talks 3: The Past, Present & Future of Harbourne
-- 2022-03-09 — Movement 27: The Best Song | The Quest for the Best Song — speakers: Frost Mage
-- 2022-02-09 — Movement 26: The Fortress of Ice | The Quest for The Best Song
+- 2022-07-06 — Tabletop Talks 3: The Past, Present & Future of Harbourne — speakers: Tabletop Talks, Tabletop Talk, Tabletop Tales Team
+- 2022-03-09 — Movement 27: The Best Song | The Quest for the Best Song — speakers: Best Song
+- 2022-02-09 — Movement 26: The Fortress of Ice | The Quest for The Best Song — speakers: Obsidian Dragon
 - 2022-01-26 — Movement 25: The Path to The Ancient Temple | The Quest for The Best Song
 - 2021-12-16 — Movement 24: The Deal with The Demon | The Quest for The Best Song
 - 2021-12-02 — Movement 23: The World of Blight | The Quest for The Best Song
 - 2021-11-17 — Movement 22: The Hand of The Frost Mage | The Quest for The Best Song
 - 2021-10-27 — Movement 21: The Lyre of Natura | The Quest for The Best Song — speakers: Archangel Grand Mah, Crispin Whisper'yx
 - 2021-10-13 — Movement 20: The Letter in The Sewers | The Quest for The Best Song
-- 2021-09-29 — Movement 19: The Voyage to Naga Cove | The Quest for The Best Song — speakers: Naga Cove, Al Khemist
+- 2021-09-29 — Movement 19: The Voyage to Naga Cove | The Quest for The Best Song
 - 2021-09-08 — Movement 18: The Apprentice to The Royal Alchemist | The Quest for The Best Song
-- 2021-08-25 — Movement 17: The Key on The Sea Floor | The Quest for The Best Song
-- 2021-08-11 — Movement 16: The City in The Storm | The Quest for The Best Song — speakers: William Shakesrapier, Will Crispin, Ivory Idol
-- 2021-07-28 — Tabletop Talks 2: The Sound of Harbourne — speakers: Kyle McCann, Chris Chaput
-- 2021-07-14 — Movement 15: The Poet in King's Point | The Quest for The Best Song — speakers: William Shakesrapier, Ivory Idol
-- 2021-06-30 — Movement 14: The Recorder of Souls | The Quest for The Best Song — speakers: Raphael Blaque
-- 2021-06-16 — Movement 13: The Secrets of Temple Blaque | The Quest for The Best Song — speakers: Raphael Blaque
+- 2021-08-25 — Movement 17: The Key on The Sea Floor | The Quest for The Best Song — speakers: Aquarock Temple
+- 2021-08-11 — Movement 16: The City in The Storm | The Quest for The Best Song — speakers: Ridden Sea
+- 2021-07-28 — Tabletop Talks 2: The Sound of Harbourne — speakers: Tabletop Talks, Tabletop Talk
+- 2021-07-14 — Movement 15: The Poet in King's Point | The Quest for The Best Song
+- 2021-06-30 — Movement 14: The Recorder of Souls | The Quest for The Best Song — speakers: Temple Blaque
+- 2021-06-16 — Movement 13: The Secrets of Temple Blaque | The Quest for The Best Song — speakers: Temple Blaque, Deitic Instrument
 - 2021-06-02 — Movement 12: The Sands of Al-Kamorth | The Quest for The Best Song
-- 2021-05-19 — Movement 11: The Prophecy of the Four Heroes | The Quest for The Best Song — speakers: Matilda Webb, Will Crispin
-- 2021-05-05 — Tabletop Talks 1: The Music of Harbourne — speakers: Chris Chaput, John Fuszner
-- 2021-04-21 — Movement 10: The Lair of The Spider Queen | The Quest for The Best Song — speakers: Archibald Dawkins, Spider Queen, Will Crispin
-- 2021-04-07 — Movement 9: The Dragon and The Angel | The Quest for The Best Song — speakers: Crispin Whisper'yx, Will Crispin
-- 2021-03-24 — Movement 8: The Drum of The Hero | The Quest for The Best Song — speakers: Glonk Dawkins
+- 2021-05-19 — Movement 11: The Prophecy of the Four Heroes | The Quest for The Best Song
+- 2021-05-05 — Tabletop Talks 1: The Music of Harbourne — speakers: Tabletop Talks, Tabletop Talk
+- 2021-04-21 — Movement 10: The Lair of The Spider Queen | The Quest for The Best Song
+- 2021-04-07 — Movement 9: The Dragon and The Angel | The Quest for The Best Song
+- 2021-03-24 — Movement 8: The Drum of The Hero | The Quest for The Best Song — speakers: Myne Mine
 - 2021-03-10 — Movement 7: The Mountains of Myne | The Quest for The Best Song — speakers: Vias Silvertongue
-- 2021-02-24 — Movement 6: The Town of Thieves | The Quest for The Best Song — speakers: Glonk Dawkins, Myne Mountain
+- 2021-02-24 — Movement 6: The Town of Thieves | The Quest for The Best Song — speakers: Glonk Dawkins
 - 2021-02-10 — Movement 5: The Road to Dagger's Edge | The Quest for The Best Song — speakers: Glonk Dawkins
 - 2021-01-27 — Movement 4: The Spirit of The Bear | The Quest for The Best Song — speakers: Glonk Dawkins
 - 2021-01-13 — Movement 3: The Battle of Sisters' Redoubt | The Quest for The Best Song — speakers: Glonk Dawkins
 - 2020-12-30 — Movement 2: The Curse of Oakshire | The Quest for The Best Song — speakers: Glonk Dawkins
-- 2020-12-16 — Movement 1: The Brawl on the Sea | The Quest for The Best Song — speakers: Glonk Dawkins
+- 2020-12-16 — Movement 1: The Brawl on the Sea | The Quest for The Best Song
 - 2020-12-08 — Trailer | Welcome to The Tabletop Tales!

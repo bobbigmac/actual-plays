@@ -2,9 +2,9 @@
 
 - slug: `greetings-adventurers-dungeons-and-dragons-5e-actual-play`
 - source: `https://feeds.acast.com/public/shows/6148f0896701c5001adfa2ca`
-- fetched_at: `2026-03-09T13:41:27+00:00`
-- checked_at: `2026-03-09T13:41:27+00:00`
-- etag: `"djEuMi4wOjE3NzMwNTc0MzE1Mzg="`
+- fetched_at: `2026-03-09T16:15:45+00:00`
+- checked_at: `2026-03-09T16:15:45+00:00`
+- etag: `"djEuMi4wOjE3NzMwNzIwNDA2NTc="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://geeklyinc.com/category/drunks-and-dragons/",
   "description": "The Dungeons and Dragons Podcast",
   "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1632230041219-5b24639a7e266102e10b24cda47ca8fa.jpeg",
-  "fetched_at": "2026-03-09T13:41:27+00:00",
+  "fetched_at": "2026-03-09T16:15:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "10ab79782e6befb9d2f3860c01f32496f291f522",
+      "title": "Campaign 2: Episode 176 - Mossy Wall of Soothing Reassurance",
+      "published_at": "2026-03-09T16:00:00+00:00",
+      "link": "https://shows.acast.com/greetings-adventurers/episodes/campaign-2-episode-176",
+      "description": "Our heroes are still reeling from the heavy cavalcade of truths revealed last week, but they must continue on in their quest to stop the empire. Perhaps the truth has brought them all the closer together, and reminded them what they are truly fighting for. The adventure continues with Screech Echo ( Mike Bachmann ), Selene Von Esper ( Jennifer Cheek ), R'Oarc ( Nika Howard ), T'Chuck ( Tim Lanning ), and our Dungeon Master Michael DiMauro . Edited by Vincent. Podcast art by https://twitter.com/yourdarlingson ! Want the world to see your fan art? Post it with #DrunksAndDoodles Find more info by clicking right here - https://linktr.ee/GAPCast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6148f0896701c5001adfa2ca/1772985755027-2a4c1c9d-8344-4d20-90e7-0d8598280e0b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6148f0896701c5001adfa2ca/e/69ad9e0e96c5a430dd9ce47a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87893474",
+      "itunes_duration": "1:01:01",
+      "speakers": [
+        "Mossy Wall"
+      ],
+      "topics": [
+        "campaign",
+        "mossy",
+        "wall",
+        "reassurance"
+      ]
+    },
     {
       "key": "48c71dc2db45b9bc602bc9ee1ff6b0495f087d0c",
       "title": "Campaign 2: Episode 175 - Bigger, Madder Family",
@@ -12131,6 +12152,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Campaign 2: Episode 176 - Mossy Wall of Soothing Reassurance — speakers: Mossy Wall
 - 2026-03-02 — Campaign 2: Episode 175 - Bigger, Madder Family — speakers: Madder Family
 - 2026-02-23 — BONUS EPISODE: CAMPAIGN 2 RECAP - 141-174
 - 2026-02-16 — Campaign 2: Episode 174 - Horse Armor — speakers: Horse Armor Time
