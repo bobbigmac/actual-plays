@@ -2,10 +2,10 @@
 
 - slug: `force-majeure-a-star-wars-actual-play-podcast`
 - source: `https://feeds.libsyn.com/110142/rss`
-- fetched_at: `2026-03-05T19:37:31+00:00`
-- checked_at: `2026-03-05T19:37:31+00:00`
-- etag: `"e3a38302b31204eab31b2e1340054300"`
-- last_modified: `Thu, 05 Mar 2026 18:00:30 GMT`
+- fetched_at: `2026-03-09T07:30:28+00:00`
+- checked_at: `2026-03-09T07:30:28+00:00`
+- etag: `"4c232329e964abb7e7e3cb1b428f3d72"`
+- last_modified: `Mon, 09 Mar 2026 04:33:45 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://forcemajeurepod.libsyn.com/website",
   "description": "A long time ago, in a galaxy far, far away, there were still stories waiting to be told... Force Majeure is an actual play Star Wars podcast, using FFG's Force and Destiny game system. We follow two groups of emergent Force sensitives, trying to survive the worse the Outer RIm and the Empire can throw at them. Find us online! Twitter / Facebook / Instagram: @forcemajeurepod Website: www.forcemajurepod.com",
   "image_url": "https://static.libsyn.com/p/assets/5/3/0/e/530eb7d3ea339571/Libsyn-Rebels-11032019.jpg",
-  "fetched_at": "2026-03-05T19:37:31+00:00",
+  "fetched_at": "2026-03-09T07:30:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "acbcaac4d908730d840a54d08cb7b3a6d5dee8ae",
+      "title": "A Shot At Redemption E03 - A Suspicious Number of Toilets",
+      "published_at": "2026-03-09T04:30:00+00:00",
+      "link": "https://forcemajeurepod.libsyn.com/a-shot-at-redemption-e03-a-suspicious-number-of-toilets",
+      "description": "With one security droid down - at no small cost to our heroes - they begin their investigation of the abandoned facility in desperate hope of a cure. Cast! Adam Beltaine is your GM, and can be found on Bluesky as @maddambeltaine.bsky.social Lou plays Tryk C Rangavoon, and can be found on Bluesky at @magpiehound.bsky.social Mikey plays Jax Vorn, and can be found on Bluesky at @weaselpunk.bsky.social Tom plays Kip Kazian and can be found on Bluesky at @tcpatrick.bsky.social as well as GMing the wonderful Dice Company podcast Geoff plays Kalro Vatts, and sensibly has no social media presence Follow us on social media! All our links can now be found here: linktr.ee/albertthellama Support Albert the Llama Enterprises! If you like what we do and have some spare money, we have both a Patreon and a Ko-Fi account. We are extremely grateful for your support. https://www.patreon.com/forcemajeurepod ko-fi.com/forcemajeurepod Intro and Supplemental Music: Composed by Sly Fox Audio - check out more of her stuff on soundcloud.com/slyfoxaudio Additional Music: \"Lost Contact (No footsteps Patreon exclusive)\" by Tabletop Audio \"Space Race\" by Silverman Sound (silvermansound.com) All used with gratitude under the Creative Commons licence",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/forcemajeurepod/Redemption_E03.mp3?dest-id=604132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45038574",
+      "itunes_duration": "54:20",
+      "speakers": [
+        "droid down"
+      ],
+      "topics": [
+        "shot",
+        "redemption",
+        "number",
+        "toilet"
+      ]
+    },
     {
       "key": "5c6f8e3d9e609e08f024227db3a23aa734e6c365",
       "title": "A Shot At Redemption E02 - The Facility",
@@ -4320,6 +4341,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — A Shot At Redemption E03 - A Suspicious Number of Toilets — speakers: droid down
 - 2026-02-23 — A Shot At Redemption E02 - The Facility
 - 2026-02-09 — A Shot At Redemption E01 - Just Another Day — speakers: Just Another Day, New Republic
 - 2026-01-26 — The Mecha Hack E12 - Dust Off, Nuke The Whole Place From Orbit — speakers: Whole Place

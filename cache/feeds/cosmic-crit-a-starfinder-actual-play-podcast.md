@@ -2,9 +2,9 @@
 
 - slug: `cosmic-crit-a-starfinder-actual-play-podcast`
 - source: `https://cosmiccrit.com/feed/podcast/`
-- fetched_at: `2026-03-02T07:17:37+00:00`
-- checked_at: `2026-03-02T07:17:37+00:00`
-- last_modified: `Mon, 02 Mar 2026 05:05:00 GMT`
+- fetched_at: `2026-03-09T07:30:28+00:00`
+- checked_at: `2026-03-09T07:30:28+00:00`
+- last_modified: `Mon, 09 Mar 2026 04:05:00 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://cosmiccrit.com/series/cosmic-crit-a-starfinder-actual-play-podcast/",
   "description": "Cosmic Crit is a weekly Actual Play podcast centered on the new Starfinder RPG from Paizo. Listen to the shenanigans as a seasoned GM, a couple of noobs, and some RPG veterans explore the galaxy and fight monsters on behalf of the Starfinder Society. It's a little roleplay, a lot of natural 20s (we hope), and plenty of fun.",
   "image_url": "https://cosmiccrit.com/wp-content/uploads/2017/07/1400x1400-podcast-logo.png",
-  "fetched_at": "2026-03-02T07:17:37+00:00",
+  "fetched_at": "2026-03-09T07:30:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "ttrpg/starfinder"
   ],
   "episodes": [
+    {
+      "key": "4274548e2461ae19c54a5b3bab854baa25c31050",
+      "title": "Guilt of the Grave World | 004: Mine Your Business",
+      "published_at": "2026-03-09T04:05:00+00:00",
+      "link": "https://cosmiccrit.com/guilt-of-the-grave-world-004-mine-your-business/",
+      "description": "With the Nova Rush back under their control the crew of the starship heads to their job interview as Space citadel Theodrane with the Dwarven mining consortium of Ulrikka Clanholdins. Will they be able to navigate their job and make a good first impression on the impressionable dwarves? What is the odd rock in the possession of one of the dwarves and just what is this odd asteroid their being tasked to survey? The only way you will find out is by diving into this week’s Cosmic Crit!",
+      "image_url": "https://cosmiccrit.com/wp-content/uploads/2025/11/Guilt-of-the-Grave-World.png",
+      "enclosure_url": "https://cosmiccrit.com/podcast-download/3786/guilt-of-the-grave-world-004-mine-your-business.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87531052",
+      "itunes_duration": "0:00",
+      "speakers": [],
+      "topics": [
+        "guilt",
+        "grave",
+        "world",
+        "business"
+      ]
+    },
     {
       "key": "2ba79e3599681363be1db8c69774f2008ac49c4b",
       "title": "Guilt of the Grave World | 003: Reign of Firestorm",
@@ -8624,6 +8643,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Guilt of the Grave World | 004: Mine Your Business
 - 2026-03-02 — Guilt of the Grave World | 003: Reign of Firestorm — speakers: Grave World
 - 2026-02-23 — Guilt of the Grave World | 002: Pressgang Your Luck
 - 2026-02-16 — Guilt of the Grave World | 001: Fools Nova Rush In — speakers: Fools Nova Rush

@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-09T03:17:15+00:00`
-- checked_at: `2026-03-09T03:17:15+00:00`
-- etag: `"aa5d79889cbf338ac6f87965274b32d5"`
-- last_modified: `Mon, 09 Mar 2026 00:29:11 GMT`
+- fetched_at: `2026-03-09T07:30:28+00:00`
+- checked_at: `2026-03-09T07:30:28+00:00`
+- etag: `"92768b2a22a714d690a5b6b7c791b1f4"`
+- last_modified: `Mon, 09 Mar 2026 04:04:50 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-09T03:17:15+00:00",
+  "fetched_at": "2026-03-09T07:30:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e6111319e587290234d46f1165054dff70672129",
+      "title": "Mythic Britain & Ireland",
+      "published_at": "2026-03-09T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/03/mythic-britain-ireland/",
+      "description": "Exploring a country still all mystery. This week on the Vintage RPG Podcast, we venture to Mythic Britain & Ireland , a Vaesen sourcebook by Graeme Davis. A labor of love, the book presents all you need to run a game of Vaesen in the British Isles, including scenarios, monsters and mystery seeds. But in addition to being an RPG book, it also works as an introduction to the landscape of folklore that's so unique to Britain and Ireland. Fantastic stuff, and gorgeous illustrations to boot. * * * Graeme Davis has a Patreon dedicated to monsters, their lore and resources for their use in RPG, appropriately called The Monster of the Month Club . You should join! * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/a/8/0/0/a8006f6789a8e2b816c3140a3186d450/Vintage_Podcast_Icon-20260309-jx5mb6pbtp.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Vessen_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58695894",
+      "itunes_duration": "28:50",
+      "speakers": [
+        "Mythic Br"
+      ],
+      "topics": [
+        "mythic",
+        "britain",
+        "ireland"
+      ]
+    },
     {
       "key": "4a669f15945a188f191e5551f9c0e62be646b108",
       "title": "Shadowdark",
@@ -6451,6 +6471,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Mythic Britain & Ireland — speakers: Mythic Br
 - 2026-03-02 — Shadowdark
 - 2026-02-23 — The End Times
 - 2026-02-16 — Delta Green, Among Other Things — speakers: Delta Green, Among Other Things There
