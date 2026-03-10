@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-03-03T21:50:00+00:00`
-- checked_at: `2026-03-03T21:50:00+00:00`
-- etag: `"djEuMi4wOjE3NzI1NjgwMzk2NTY="`
+- fetched_at: `2026-03-10T21:44:30+00:00`
+- checked_at: `2026-03-10T21:44:30+00:00`
+- etag: `"djEuMi4wOjE3NzMxNzI4Mzk3MjM="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-03-03T21:50:00+00:00",
+  "fetched_at": "2026-03-10T21:44:30+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3f165953a25a80fd34ecd7c140bcbd73cfb9b24c",
+      "title": "Action Surge Episode 49",
+      "published_at": "2026-03-10T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/action-surge-episode-49",
+      "description": "Alex is a slow burn hottie and we cannot lie, which is wild, given that none of this is real. We start by doing Aoife’s favourite thing, praising her. She did an incredible job with the story and we absolutely need to celebrate that, even if she refuses to let us. Harry then reveals the true purpose of Talisca, and how the mechanics of the city were all designed around us, finally accepting that we might actually be heroes. Even if we did experience it all wildly out of order. Sorry, Harry. He also shares what inspired The Run, how it was based on a real world event, and how we were absolutely ready to serve fashion. Yes, there are fashion mechanics. And how devastating it was to learn there is only cotton and linen. We finally make Alex tell us what happened in that room now that he no longer has to use I’s voice. He reveals just how close he came to being discovered, and how that moment impacts our plans going forward. We also discuss Atticus, how both we and our characters react to him and his story, and whether his plans are enough to count as atonement. From there, things escalate quickly into conversations about raising an army, conscription, and how we are now trying to give people something worth fighting for. We also talk about Harry and Ben’s moment alone together in the room, before Alex bows out so Ben can dig into the details and the words Elowen heard in her head. We rarely reveal cast spoilers at the table, but this one was just a little too intriguing not to unpack. --- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69a45b107221cfbf205b0372/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105770637",
+      "itunes_duration": "55:04",
+      "speakers": [
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "action",
+        "surge"
+      ]
+    },
     {
       "key": "468602e7349e5aea44f7a0df6dc83eaf08588cfc",
       "title": "Ep. 49 No Secrets Among Friends",
@@ -2574,6 +2598,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Action Surge Episode 49 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-03 — Ep. 49 No Secrets Among Friends — speakers: No Secrets Among Friends, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-24 — Action Surge Episode 48 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-17 — Ep. 48 Diamonds in the Rough — speakers: Rough There, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
