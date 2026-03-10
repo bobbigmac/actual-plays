@@ -2,10 +2,10 @@
 
 - slug: `green-box-gaming`
 - source: `https://media.rss.com/green-box-gaming/feed.xml`
-- fetched_at: `2026-03-10T03:08:06+00:00`
-- checked_at: `2026-03-10T03:08:06+00:00`
-- etag: `"dc8dd2e80991fa9f84036678785dca15"`
-- last_modified: `Tue, 10 Mar 2026 00:28:23 GMT`
+- fetched_at: `2026-03-10T13:39:23+00:00`
+- checked_at: `2026-03-10T13:39:23+00:00`
+- etag: `"f649f7b0899fb851193b2301961667fd"`
+- last_modified: `Tue, 10 Mar 2026 13:00:24 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://rss.com/podcasts/green-box-gaming",
   "description": "Four friends launch into a game of horror, mystery, and conspiracy where regular people fight against the unknown at the expense of their relationships, sanity, and lives in Delta Green. We are playing Delta Green, Call of Cthulhu, DnD, and other TTRPGs! We play our recorded session live on Twitch every other Saturday! Come and join us live or catch up with weekly episodes on Twitch, YouTube, and all major podcast platforms. Drop by our subreddit to say hi and to receive updates and announcements. ========== Check out the show, socials, and support links here!",
   "image_url": "https://media.rss.com/green-box-gaming/20221110_081103_f6c1a208507e8fbd11a36b99054d6573.jpg",
-  "fetched_at": "2026-03-10T03:08:06+00:00",
+  "fetched_at": "2026-03-10T13:39:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "0ddf11ca5fad217b36c5fa982a8445a2757471b2",
+      "title": "Ep1 | Delta Green: The Button - Purple and Gold",
+      "published_at": "2026-03-10T13:00:00+00:00",
+      "link": "https://rss.com/podcasts/green-box-gaming/2597379",
+      "description": "Join Dace, Gian, and Joe as we take a quick detour into the deep south in this oneshot that takes us to 1991 Louisiana! ========== Check out the show, socials, and support links here! ========== Published by arrangement with the Delta Green Partnership. The intellectual property known as Delta Green is a trademark and copyright owned by the Delta Green Partnership who has licensed its use here. The contents of this media are © Green Box Gaming 2024, excepting those elements that are components of the Delta Green intellectual property.",
+      "image_url": null,
+      "enclosure_url": "https://content.rss.com/episodes/164361/2597379/green-box-gaming/2026_03_03_18_57_46_fa3fadd0-6d4b-4f56-ba47-d93a26feae8e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79475355",
+      "itunes_duration": "4967",
+      "speakers": [],
+      "topics": [
+        "delta",
+        "green",
+        "button",
+        "purple",
+        "gold"
+      ]
+    },
     {
       "key": "cb255d741f402d2bf0c23eda9077c6656e0e674f",
       "title": "Ep10 | Delta Green: Puppet Shows and Shadow Plays - Watched",
@@ -3729,6 +3749,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Ep1 | Delta Green: The Button - Purple and Gold
 - 2026-03-03 — Ep10 | Delta Green: Puppet Shows and Shadow Plays - Watched
 - 2026-02-24 — Ep9 | Delta Green: Puppet Shows and Shadow Plays - Black Eagle
 - 2026-02-17 — Ep8 | Delta Green: Puppet Shows and Shadow Plays - Coming to a Head — speakers: Delta Green, Puppet Shows, Shadow Plays, Head Something

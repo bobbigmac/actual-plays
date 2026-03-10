@@ -2,10 +2,10 @@
 
 - slug: `critical-role`
 - source: `https://feeds.simplecast.com/LXz4Q9rJ`
-- fetched_at: `2026-03-05T13:38:17+00:00`
-- checked_at: `2026-03-05T13:38:17+00:00`
-- etag: `"22f20678abbb5950b4485e1cecd51933"`
-- last_modified: `Thu, 05 Mar 2026 13:00:21 GMT`
+- fetched_at: `2026-03-10T13:39:23+00:00`
+- checked_at: `2026-03-10T13:39:23+00:00`
+- etag: `"c3ee9940b8cf83275e6ee772ebda88d2"`
+- last_modified: `Tue, 10 Mar 2026 12:00:23 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.siriusxm.com",
   "description": "Welcome to Critical Role, home of a bunch of nerdy-ass voice actors playing tabletop roleplaying games! Enter a world of glorious imagination and improvisation with a group of the finest collaborative storytellers around. Here you’ll find our TTRPG and adjacent shows, including Critical Role, Exandria Unlimited, 4-Sided Dive, and a growing selection of one-shots.",
   "image_url": "https://image.simplecastcdn.com/images/a74173a8-254a-45ff-aee0-b0cd0458d7f1/b6c4a701-8e4f-402c-8cb3-691faaf1ab38/3000x3000/bfff4761a218248e.jpeg?aid=rss_feed",
-  "fetched_at": "2026-03-05T13:38:17+00:00",
+  "fetched_at": "2026-03-10T13:39:23+00:00",
   "owners": [
     "Matthew Mercer",
     "Marisha Ray",
@@ -35,6 +35,35 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "cefe95f387be43d4e69121b3aaa6741bfc40658c",
+      "title": "The Place of Wings | Critical Role | Campaign 4, Episode 17 Part 2",
+      "published_at": "2026-03-10T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Part 2 The Seekers arrive in Tannesar, where stranger and stranger revelations await them within this ancient place of power... New Episodes Release Weekly on Thursdays. Learn more about Campaign 4 at https://critrole.com/campaign4/ GET MORE CAMPAIGN 4 WITH BEACON We're excited to bring you even MORE Campaign 4 with a Beacon membership! Get access to exclusive shows like our behind-the-scenes Critical Role Cooldown and ask the Campaign 4 cast your burning questions directly through our LIVE monthly Fireside Chats. You'll also receive NEW Beacon exclusive series, instant ad-free access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to everything Critical Role! OFFICIAL CAMPAIGN 4 CAST GAME MASTER Brennan Lee Mulligan Laura Bailey as Thimble Luis Carazo as Azune Nayar Robbie Daymond as Kattigan Vale Aabria Iyengar as Thaisha Lloy Taliesin Jaffe as Bolaire Lathalia Ashley Johnson as Vaelus Matthew Mercer as Sir Julien Davinos Whitney Moore as Tyranny Liam O’Brien as Halandil \"Hal\" Fang Marisha Ray as Murray Mag’Nesson Sam Riegel as Wicander \"Wick\" Halovar Alexander Ward as Occtis Tachonis Travis Willingham as Teor Pridesire CREDITS Produced by Maxwell James, Steve Failows, & Kyle Shire Set Designed by Shaun Ellis Production Designer: Noxweiler Berf Character Art by Loren Hontanilla Edited by Taylor Burke and Emily \"Stevie\" Stevenson Critical Role Announcement Playhouse Editor: Vinny Celesti Opening Title Editor: Paul Foyder Opening Title Colorist: Peter Koocheradis Window Effects by Christian Brown Graphic Design by Aaron Monroy & Jordyn Torrence Dol-Makjar art by Daniel Jiménez Villalba Miniatures Painted by Payton Keo Lacebal Opening Title Theme by Neal Acree Campaign 4 Key art by Hannah Friederichs Additional Art & Design by Hannah Friederichs Episode QC by Catherine Zimmerman & Paula Flores Assistant Editor: Gianna Gencarella Post Production Coordinators: M Swing & Bryn Hubbard Closed Caption Editing by Margaret Dill, Nikki Kindelberger, Courtney Knewtson, Danielle Lackie, Eleanor Smith-Dufresne & Alice Tsoi Post Production Supervisor: Tal Levitas HEALTH & WELL-BEING Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/d305ac1b-baa0-4c7f-86cd-e2328e0b2802/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=d305ac1b-baa0-4c7f-86cd-e2328e0b2802&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83142958",
+      "itunes_duration": "01:26:27",
+      "speakers": [
+        "Critical Role",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe",
+        "Sam Riegel"
+      ],
+      "topics": [
+        "place",
+        "wings",
+        "critical",
+        "role",
+        "campaign"
+      ]
+    },
     {
       "key": "fdcd5bea183c47867ad57aea7bbdcf9c06d5e428",
       "title": "The Place of Wings | Critical Role | Campaign 4, Episode 17 Part 1",
@@ -125,34 +154,6 @@
       ]
     },
     {
-      "key": "5102c67a98a6a683ed4dc5286d4bbd7acca3198e",
-      "title": "Kingdom Come: Deliverance II One-Shot",
-      "published_at": "2026-02-24T13:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "This one-shot is sponsored by Warhorse Studios and their game, “Kingdom Come: Deliverance II” Experience the ultimate medieval adventure of #KCD2. A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. https://gsght.com/c/89ghuc Game Master George Primaver leads players Ashley Johnson, Deborah Ann Woll, Gina DeVivo, Nick Marini, and Liam McIntyre through the tribulations of 15th century Kuttenburg in this KCD2 inspired adventure. CAST George Primavera - Game Master Ashley Johnson - Isolde \"Izzy\" Brooker Deborah Ann Woll - Sister Agatha \"Aggie\" Gina DeVivo - Fritz Bergmann Nick Marini - Dillon Liam McIntyre - Big Hans CREDITS Character Art: Hannah Friederichs || https://www.instagram.com/agarthanguide Graphics: Christian Brown || https://ctbgraphics.com Set Design & Fabrication: Noxwiler Burf || https://www.instagram.com/eatenbypotchky Mini Painting: Payton Keo Lacebal || https://www.instagram.com/paytonkeoart BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/ https://www.twitch.tv/criticalrole Follow us! Website: https://www.critrole.com Newsletter: https://critrole.com/newsletter Facebook: https://www.facebook.com/criticalrole Twitter: https://x.com/criticalrole Instagram: https://www.instagram.com/critical_role TikTok: https://www.tiktok.com/@criticalrole Twitch: https://www.twitch.tv/criticalrole #KCD2 #KingdomComeDeliverance #Sponsored Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/7fa9d810-46ea-45c1-8999-0d4a5b957d90/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=7fa9d810-46ea-45c1-8999-0d4a5b957d90&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "225936432",
-      "itunes_duration": "03:44:02",
-      "speakers": [
-        "Kingdom Come",
-        "Warhorse Studios",
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe"
-      ],
-      "topics": [
-        "kingdom",
-        "come",
-        "deliverance",
-        "shot"
-      ]
-    },
-    {
       "key": "9fd0efaecbbfc513e9e07ceacb3327855e92cd36",
       "title": "Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 2",
       "published_at": "2026-02-24T13:00:00+00:00",
@@ -180,6 +181,34 @@
         "critical",
         "role",
         "campaign"
+      ]
+    },
+    {
+      "key": "5102c67a98a6a683ed4dc5286d4bbd7acca3198e",
+      "title": "Kingdom Come: Deliverance II One-Shot",
+      "published_at": "2026-02-24T13:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "This one-shot is sponsored by Warhorse Studios and their game, “Kingdom Come: Deliverance II” Experience the ultimate medieval adventure of #KCD2. A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. https://gsght.com/c/89ghuc Game Master George Primaver leads players Ashley Johnson, Deborah Ann Woll, Gina DeVivo, Nick Marini, and Liam McIntyre through the tribulations of 15th century Kuttenburg in this KCD2 inspired adventure. CAST George Primavera - Game Master Ashley Johnson - Isolde \"Izzy\" Brooker Deborah Ann Woll - Sister Agatha \"Aggie\" Gina DeVivo - Fritz Bergmann Nick Marini - Dillon Liam McIntyre - Big Hans CREDITS Character Art: Hannah Friederichs || https://www.instagram.com/agarthanguide Graphics: Christian Brown || https://ctbgraphics.com Set Design & Fabrication: Noxwiler Burf || https://www.instagram.com/eatenbypotchky Mini Painting: Payton Keo Lacebal || https://www.instagram.com/paytonkeoart BEACON We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join and get unparalleled access to the shows you love completely ad-free! You’ll receive NEW Beacon exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. YOUTUBE MEMBERS / TWITCH SUBSCRIBERS Twitch Subscribers and YouTube Members gain instant access to VODs of our shows, moderated live chats, and custom emojis & badges: https://www.youtube.com/criticalrole/ https://www.twitch.tv/criticalrole Follow us! Website: https://www.critrole.com Newsletter: https://critrole.com/newsletter Facebook: https://www.facebook.com/criticalrole Twitter: https://x.com/criticalrole Instagram: https://www.instagram.com/critical_role TikTok: https://www.tiktok.com/@criticalrole Twitch: https://www.twitch.tv/criticalrole #KCD2 #KingdomComeDeliverance #Sponsored Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/7fa9d810-46ea-45c1-8999-0d4a5b957d90/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=7fa9d810-46ea-45c1-8999-0d4a5b957d90&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "225936432",
+      "itunes_duration": "03:44:02",
+      "speakers": [
+        "Kingdom Come",
+        "Warhorse Studios",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "kingdom",
+        "come",
+        "deliverance",
+        "shot"
       ]
     },
     {
@@ -3393,6 +3422,31 @@
       ]
     },
     {
+      "key": "de12121accf9c02e65fbbd7cf22163045f21ee9e",
+      "title": "C3E96 Shadows New and Old",
+      "published_at": "2024-05-30T12:00:00+00:00",
+      "link": "https://www.siriusxm.com",
+      "description": "Bells Hells work to fortify their bonds and friendship in the face of darkness before engaging in a whirlwind of travel stops on the way to Aeor... We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join Get unparalleled access to Critical Role with Beacon. Enjoy the shows you love completely ad-free, plus new exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Check out our new podcast The Re-Slayer's Take! After six misfit mercenaries are rejected from the elite monster hunting group, The Slayer’s Take, they band together as The Re-Slayer’s Take, battling supernatural creatures across the rugged continent of Issylra. Watch Critical Role LIVE at The Greek Theatre in Los Angeles on June 15th as Bells Hells gather their courage and their allies to stop Ludinus Da’leth and his planned destruction of the gods. Tickets are on sale now: https://www.ticketmaster.com/event/090060A6C2C9330F Witness the Fairelands come to life May 25th for an immersive Candela Obscura LIVE SHOW at The United Theater on Broadway in Los Angeles! Tickets are on sale now: https://www.axs.com/events/548570/candela-obscura-live-tickets Twitch Subscribers and YouTube Members gain instant access to VODs of our shows like Critical Role, 4-Sided Dive, Candela Obscura, and Exandria Unlimited. But don't worry: broadcasts will be uploaded to YouTube about 36 hours after airing live, with audio-only podcast versions of select shows on your prefferred podcast platform a week following he initial air date. Twitch Subscribers and YouTube Members also gain access to our official custom emote set and subscriber badges. \"\"It's Thursday Night (Critical Role Theme Song)\"\" by Peter Habib and Sam Riegel Original Music by Omar Fadel, Hexany Audio, Ghiya Rushidat, Karam Salem, Neal Acree, and Colm R. McGuinness \"\"Welcome to Marquet\"\" Art Theme by Colm McGuinness Additional Music by Universal Production Music, Epidemic Sounds, and 5 Alarm Character Art by Hannah Friederichs Animated Introduction by Kamille Areopagita, Kevin Areopagita, Mark Adams and Peggy Shi Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/8fa8a671-5933-4c43-b3af-41b024998aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=8fa8a671-5933-4c43-b3af-41b024998aea&feed=LXz4Q9rJ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "224052237",
+      "itunes_duration": "03:53:23",
+      "speakers": [
+        "Shadows New",
+        "Old Bells Hells",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Liam O'Brien",
+        "Taliesin Jaffe"
+      ],
+      "topics": [
+        "shadows"
+      ]
+    },
+    {
       "key": "a694e0c66ed624e8054eb751628a357034d7b34c",
       "title": "The Menagerie Returns! | Live One-Shot | Open Beta",
       "published_at": "2024-05-30T12:00:00+00:00",
@@ -3419,31 +3473,6 @@
         "shot",
         "open",
         "beta"
-      ]
-    },
-    {
-      "key": "de12121accf9c02e65fbbd7cf22163045f21ee9e",
-      "title": "C3E96 Shadows New and Old",
-      "published_at": "2024-05-30T12:00:00+00:00",
-      "link": "https://www.siriusxm.com",
-      "description": "Bells Hells work to fortify their bonds and friendship in the face of darkness before engaging in a whirlwind of travel stops on the way to Aeor... We’re excited to bring you even MORE with a Beacon membership! Start your 7-day free trial today at https://beacon.tv/join Get unparalleled access to Critical Role with Beacon. Enjoy the shows you love completely ad-free, plus new exclusive series, instant access to VODs & podcasts, live event pre-sales, merch discounts, & a private Discord. Check out our new podcast The Re-Slayer's Take! After six misfit mercenaries are rejected from the elite monster hunting group, The Slayer’s Take, they band together as The Re-Slayer’s Take, battling supernatural creatures across the rugged continent of Issylra. Watch Critical Role LIVE at The Greek Theatre in Los Angeles on June 15th as Bells Hells gather their courage and their allies to stop Ludinus Da’leth and his planned destruction of the gods. Tickets are on sale now: https://www.ticketmaster.com/event/090060A6C2C9330F Witness the Fairelands come to life May 25th for an immersive Candela Obscura LIVE SHOW at The United Theater on Broadway in Los Angeles! Tickets are on sale now: https://www.axs.com/events/548570/candela-obscura-live-tickets Twitch Subscribers and YouTube Members gain instant access to VODs of our shows like Critical Role, 4-Sided Dive, Candela Obscura, and Exandria Unlimited. But don't worry: broadcasts will be uploaded to YouTube about 36 hours after airing live, with audio-only podcast versions of select shows on your prefferred podcast platform a week following he initial air date. Twitch Subscribers and YouTube Members also gain access to our official custom emote set and subscriber badges. \"\"It's Thursday Night (Critical Role Theme Song)\"\" by Peter Habib and Sam Riegel Original Music by Omar Fadel, Hexany Audio, Ghiya Rushidat, Karam Salem, Neal Acree, and Colm R. McGuinness \"\"Welcome to Marquet\"\" Art Theme by Colm McGuinness Additional Music by Universal Production Music, Epidemic Sounds, and 5 Alarm Character Art by Hannah Friederichs Animated Introduction by Kamille Areopagita, Kevin Areopagita, Mark Adams and Peggy Shi Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode. Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it’s useful: http://bit.ly/PsycomResources Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "image_url": null,
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/a74173a8-254a-45ff-aee0-b0cd0458d7f1/episodes/8fa8a671-5933-4c43-b3af-41b024998aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=a74173a8-254a-45ff-aee0-b0cd0458d7f1&awEpisodeId=8fa8a671-5933-4c43-b3af-41b024998aea&feed=LXz4Q9rJ",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "224052237",
-      "itunes_duration": "03:53:23",
-      "speakers": [
-        "Shadows New",
-        "Old Bells Hells",
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Liam O'Brien",
-        "Taliesin Jaffe"
-      ],
-      "topics": [
-        "shadows"
       ]
     },
     {
@@ -11072,11 +11101,12 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — The Place of Wings | Critical Role | Campaign 4, Episode 17 Part 2 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-03-05 — The Place of Wings | Critical Role | Campaign 4, Episode 17 Part 1 — speakers: Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-03-03 — Visions of Shadow & Stone | Critical Role | Campaign 4, Episode 16 Part 2 — speakers: Shadowlight Waypoint, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2026-02-26 — Visions of Shadow & Stone | Critical Role | Campaign 4, Episode 16 Part 1 — speakers: Shadowlight Waypoint, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
-- 2026-02-24 — Kingdom Come: Deliverance II One-Shot — speakers: Kingdom Come, Warhorse Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2026-02-24 — Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 2 — speakers: Castle Torch, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2026-02-24 — Kingdom Come: Deliverance II One-Shot — speakers: Kingdom Come, Warhorse Studios, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2026-02-19 — Flight to Castle Torch | Critical Role | Campaign 4, Episode 15 Part 1 — speakers: Castle Torch, Critical Role, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
 - 2026-02-17 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 2 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2026-02-12 — A Bridge Too Far | Critical Role | Campaign 4, Episode 14 Part 1 — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
@@ -11195,8 +11225,8 @@
 - 2024-06-13 — C3E97 Ancient Sins — speakers: Ancient Sins Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2024-06-07 — Swordgate | 4-Sided Dive | Episode 24: Discussing Up To C3E96 — speakers: Robbie Daymond, Laura Bailey, Marisha Ray, Matthew Mercer, Dorian Storm, Travis Willingham, Liam O'Brien, Taliesin Jaffe
 - 2024-06-03 — Introducing Our New Podcast The Re-Slayer's Take! — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
-- 2024-05-30 — The Menagerie Returns! | Live One-Shot | Open Beta — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2024-05-30 — C3E96 Shadows New and Old — speakers: Shadows New, Old Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe
+- 2024-05-30 — The Menagerie Returns! | Live One-Shot | Open Beta — speakers: Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel, Ashley Johnson
 - 2024-05-23 — C3E95 Gathering of Needs — speakers: Needs Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2024-05-16 — C3E94 Where The Red Fearne Glows — speakers: Glows Bells Hells, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien, Taliesin Jaffe, Sam Riegel
 - 2024-05-10 — Still Blessed | 4-Sided Dive | Episode 23: Discussing Up To C3E93 — speakers: Aabria Iyengar, Aimee Carrero, Liam O’Brien, Matthew Mercer, Marisha Ray, Travis Willingham, Laura Bailey, Liam O'Brien
