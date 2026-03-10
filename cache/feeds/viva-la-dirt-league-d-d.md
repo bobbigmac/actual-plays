@@ -2,9 +2,9 @@
 
 - slug: `viva-la-dirt-league-d-d`
 - source: `https://feeds.megaphone.fm/QCD3339460143`
-- fetched_at: `2026-03-09T16:15:45+00:00`
-- checked_at: `2026-03-09T16:15:45+00:00`
-- etag: `W/"b00de-xLkoA04zX1BL9DekuUQQk7ncvtA"`
+- fetched_at: `2026-03-10T16:16:53+00:00`
+- checked_at: `2026-03-10T16:16:53+00:00`
+- etag: `W/"b00de-y2JA3+voRywYhM/E4Qd/Lt9P2zo"`
 - last_modified: `Thu, 05 Feb 2026 18:33:12 GMT`
 - max_episodes_per_feed: `1000`
 
@@ -18,7 +18,7 @@
   "link": "https://podcasters.spotify.com/pod/show/vldl8",
   "description": "The Viva La Dirt League men and women play Dungeons and Dragons weekly within the world of Epic NPC Man!",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45430580/f13fd774a94b28c4.jpg",
-  "fetched_at": "2026-03-09T16:15:45+00:00",
+  "fetched_at": "2026-03-10T16:16:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
