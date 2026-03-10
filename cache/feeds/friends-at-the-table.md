@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-03-08T07:03:07+00:00`
-- checked_at: `2026-03-08T07:03:07+00:00`
-- etag: `"9c0124b467dfcfe8cd03bf595cd56320"`
-- last_modified: `Sun, 08 Mar 2026 03:23:46 GMT`
+- fetched_at: `2026-03-10T07:10:15+00:00`
+- checked_at: `2026-03-10T07:10:15+00:00`
+- etag: `"eff971e0a61714fbfc048afb6fac5180"`
+- last_modified: `Tue, 10 Mar 2026 05:46:03 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-03-08T07:03:07+00:00",
+  "fetched_at": "2026-03-10T07:10:15+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2996f20b2ceb0fe3945f0576beedb525d3adcf7b",
+      "title": "Perpetua 36: The Castle Eschatonica 04",
+      "published_at": "2026-03-08T03:23:39+00:00",
+      "link": "https://friendsatthetable.net/perpetua-36-the-castle-eschatonica-04",
+      "description": "The Castle Eschatonica has provided as sharp a contrast as one may imagine. In its sunlit west wing, Antistrophe, Caoimhe, and Nicky skulk through the shadows and face down foul creatures. In the eastern wing, dripping with moonlight's majesty, the rest of our adventurers find themselves in a fete and the end of the world. But first impressions can be deceiving. Sometimes what is challenging may turn out facile in the end, and some respites may be more puzzling than preferred. This week on Perpetua: The Castle Eschatonica 04 Perpetua Guide [Community Addendum Part 02] Hey everyone, this is xXzelgadyskXx from the forums. I don't really know anything about lore like Anne, but I did put together this spreadsheet to help with the Alteros Tower/HIgh Masque puzzle. There isn't really any sort of \"simple\" solution. Or really, there are lots of solutions. But this should help you figure one out! Let me know if you spot any mistakes or typos! Hosted by Austin Walker ( austinwalker.bsky.social ) Featuring Ali Acampora ( ali-online.bsky.social ), Art Martinez-Tebbel ( amtebbel.bsky.social ), Jack de Quidt ( notquitereal.bsky.social ), and Andrew Lee Swan ( swandre3000.bsky.social ) Produced by Ali Acampora Music by Jack de Quidt ( available on bandcamp ) Cover Art by Ben McEntee ( https://linktr.ee/benmce.art ) With thanks to Amelia Renee, Arthur B., Aster Maragos, Bill Kaszubski, Cassie Jones, Clark, DB, Daniel Laloggia, Diana Crowley, Edwin Adelsberger, Emrys, Greg Cobb, Ian O'Dea, Ian Urbina, Irina A., Jack Shirai, Jake Strang, Katie Diekhaus, Ken George, Konisforce, Kristina Harris Esq, L Tantivy, Lawson Coleman, Mark Conner, Mike & Ruby, Muna A, Nat Knight, Olive Perry, Quinn Pollock, Robert Lasica, Shawn Drape, Shawn Hall, Summer Rose, TeganEden, Thomas Whitney, Voi, chocoube, deepFlaw, fen, & weakmint This episode was made with support from listeners like you! To support us, you can go to friendsatthetable.cash .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_36_The_Castle_Eschatonica_04.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "107417564",
+      "itunes_duration": "01:48:41",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "643fdd44923731c363c41fedcff67ff6c02e18e0",
       "title": "Perpetua 35: The Castle Eschatonica 03",
@@ -11335,6 +11355,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-08 — Perpetua 36: The Castle Eschatonica 04 — speakers: Austin Walker
 - 2026-03-01 — Perpetua 35: The Castle Eschatonica 03 — speakers: Austin Walker
 - 2026-02-25 — Perpetua 34: The Castle Eschatonica 02 — speakers: Austin Walker
 - 2026-02-20 — Off Week + Fundraiser Update! — speakers: Off Week, Fundraiser Update, Austin Walker
