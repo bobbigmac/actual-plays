@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-03-10T07:10:15+00:00`
-- checked_at: `2026-03-10T07:10:15+00:00`
-- etag: `"eff971e0a61714fbfc048afb6fac5180"`
-- last_modified: `Tue, 10 Mar 2026 05:46:03 GMT`
+- fetched_at: `2026-03-10T19:10:21+00:00`
+- checked_at: `2026-03-10T19:10:21+00:00`
+- etag: `"061a5c2f61242f3dcac024433887d4d1"`
+- last_modified: `Tue, 10 Mar 2026 16:42:58 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-03-10T07:10:15+00:00",
+  "fetched_at": "2026-03-10T19:10:21+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,27 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "893389ae802586e2c69f7dd58b20573be78e2b76",
+      "title": "Announcement for Spotify Listeners",
+      "published_at": "2026-03-10T16:38:00+00:00",
+      "link": "https://friendsatthetable.net/announcement-for-spotify-listeners",
+      "description": "Hello everyone! If you don't use Spotify to listen to our podcast, you can skip this one! If you do listen on Spotify, we have decided to remove our show from the platform. Althrough many of the Friends at the Table cast were users of the service in the past, recent changes to Spotify and actions of it employees means our desire to remove ourselves from the platform now outweight the convenience of using it and letting our show remain on the service. These include support of generative AI music and artists , running ads we have no control over ( including recruitment ads for the United State's DHS and ICE enforcement ), and Spotify's CEO making investments into an AI military defense company . In this recording, Jack and Austin do a better job of explaining the depth of our feelings on the matter and suggestions for alternatives to Spotify for listening and curating music. For podcasts, popular alternative apps are Overcast , PocketCasts , and Podcast Addict .",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Note_to_Spotify_Listeners.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18868496",
+      "itunes_duration": "18:14",
+      "speakers": [
+        "Spotify Listeners Hello",
+        "Austin Walker"
+      ],
+      "topics": [
+        "announcement",
+        "spotify",
+        "listener"
+      ]
+    },
     {
       "key": "2996f20b2ceb0fe3945f0576beedb525d3adcf7b",
       "title": "Perpetua 36: The Castle Eschatonica 04",
@@ -11355,6 +11376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Announcement for Spotify Listeners — speakers: Spotify Listeners Hello, Austin Walker
 - 2026-03-08 — Perpetua 36: The Castle Eschatonica 04 — speakers: Austin Walker
 - 2026-03-01 — Perpetua 35: The Castle Eschatonica 03 — speakers: Austin Walker
 - 2026-02-25 — Perpetua 34: The Castle Eschatonica 02 — speakers: Austin Walker
