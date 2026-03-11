@@ -2,8 +2,8 @@
 
 - slug: `dndark`
 - source: `https://feeds.redcircle.com/b4f32964-2d76-4a56-b59d-6f028e6bdd40`
-- fetched_at: `2026-03-11T10:03:06+00:00`
-- checked_at: `2026-03-11T10:03:06+00:00`
+- fetched_at: `2026-03-11T13:40:30+00:00`
+- checked_at: `2026-03-11T13:40:30+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/dndark",
   "description": "A comedy/horror D&D Actual Play Podcast starring some of history's most iconic monsters",
   "image_url": "https://media.redcircle.com/images/2025/4/2/20/c89246be-6b46-429a-909e-1e4e1bd26ad0_846-8b2d-746b3b4b007c_received_702201047512802.jpg",
-  "fetched_at": "2026-03-11T10:03:06+00:00",
+  "fetched_at": "2026-03-11T13:40:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -24,6 +24,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "b4ad5819074880a06c52adbb2af820044169ed4d",
+      "title": "DnDark Presents: DnDark Souls Part 8: A Knight's Tale",
+      "published_at": "2026-03-11T12:00:40+00:00",
+      "link": "https://www.dndarkpodcast.com/",
+      "description": "Contains: Gore, Elements of Body Horror As the team recovers from the fallout of their skirmish with The Mother of Wickedness, they brace themselves for the final assault against the Mistress of All Evil, while The Knight recovers more memories about his past and his connection to The First Kingdom. Cast: Ben Magnet - GM Jordan Nelson - \"The Spider\" Aaron Kaufhold - \"The Huntsman\" \"Danger\" Dan Jerz - \"The Prince\" Daniel Cruz - Pinocchio: \"The Real Boy\" Grayson Norman - Sir Mordred: \"The Knight\" Cover Art by Jordan Nelson Editing by \"Danger\" Dan Jerz Theme Song/Outro by Nicole Carino Additional Music provided by: Monument Studios",
+      "image_url": "https://media.redcircle.com/images/2026/3/1/5/cab0216a-047e-4d7a-bbb2-9fcde44b8492_dndark_presents_dndarksouls_square.jpg",
+      "enclosure_url": "https://audio4.redcircle.com/episodes/ad5dd590-d035-4c60-bc6a-fe30a3aa858c/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76979304",
+      "itunes_duration": "4811",
+      "speakers": [],
+      "topics": [
+        "dndark",
+        "presents",
+        "souls",
+        "knight",
+        "tale"
+      ]
+    },
     {
       "key": "03a012c47901ee89276410bf4fbe851f213ffdcd",
       "title": "Table Talk - Interview with Mayanna Berrin",
@@ -2408,6 +2428,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — DnDark Presents: DnDark Souls Part 8: A Knight's Tale
 - 2026-03-04 — Table Talk - Interview with Mayanna Berrin — speakers: Mayanna Berrin
 - 2026-02-25 — DnDark Presents: DnDark Souls Part 7: Sister Act
 - 2026-02-11 — Table Talk - Interview with Eliam Weinstock (DicePotDM) — speakers: Eliam Weinstock
