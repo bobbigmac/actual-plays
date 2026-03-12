@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-02-25T13:45:50+00:00`
-- checked_at: `2026-02-25T13:45:50+00:00`
-- etag: `"1965c28552fa2e64d223d7302924d7f8"`
-- last_modified: `Wed, 25 Feb 2026 11:41:25 GMT`
+- fetched_at: `2026-03-12T13:38:27+00:00`
+- checked_at: `2026-03-12T13:38:27+00:00`
+- etag: `"8ba3bfc8f9d83ff2092e6f6cba9cebd7"`
+- last_modified: `Thu, 12 Mar 2026 12:10:42 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-02-25T13:45:50+00:00",
+  "fetched_at": "2026-03-12T13:38:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "24c50fe3bb96852f5583005a79f3bb71372af1da",
+      "title": "004-Cthulhu Dark - Goodcliffe - Jago",
+      "published_at": "2026-03-12T12:10:26+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Join us for How We Roll's first decent into the horror of Cthulhu Dark. With guest keeper Mr Spike at the helm we have a treat in store for you. With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/11a9802f-bcf5-4cc3-823f-64a84c4eea72/group-item/640a5457-d360-4b5c-8943-c5b07c8f73d6/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48130587",
+      "itunes_duration": "00:50:07",
+      "speakers": [],
+      "topics": [
+        "cthulhu",
+        "dark",
+        "goodcliffe",
+        "jago"
+      ]
+    },
     {
       "key": "93c44e9601c91506be7b17e317f254de1b2e945d",
       "title": "144 - Two Headed Serpent - Snake Island - Salut",
@@ -10621,6 +10640,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — 004-Cthulhu Dark - Goodcliffe - Jago
 - 2026-02-25 — 144 - Two Headed Serpent - Snake Island - Salut — speakers: Syrinscape Kevin MaCleod
 - 2026-02-17 — 003-Cthulhu Dark - Goodcliffe - An Unwise Promise
 - 2026-01-27 — 143 - Two Headed Serpent - Snake Island - An Old Friend Returns
