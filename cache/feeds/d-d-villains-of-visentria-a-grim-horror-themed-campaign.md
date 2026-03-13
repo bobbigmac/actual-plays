@@ -2,9 +2,9 @@
 
 - slug: `d-d-villains-of-visentria-a-grim-horror-themed-campaign`
 - source: `https://anchor.fm/s/b0c7a35c/podcast/rss`
-- fetched_at: `2026-03-12T19:13:42+00:00`
-- checked_at: `2026-03-12T19:13:42+00:00`
-- etag: `W/"c6fa-sA2DT/pPmVQ+vYuzB3HlOo8MpUU"`
+- fetched_at: `2026-03-13T15:59:18+00:00`
+- checked_at: `2026-03-13T15:59:18+00:00`
+- etag: `W/"c6fa-lPD5PB9DCB7ITs7tEgo7hR6DWV4"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/makethisepic",
   "description": "Villains Of Visentria is a grim horror themed campaign set in the dark and crumbling world of Inexia. Imperial Orvanis and their devient magrotacracy seek to enslave all non magi, the dread nation of Mortdrakken wish to bend the world to their will for their decrepit god Harkemees and deep within the feral lands in the Citadel of Seven Cities, Visentria, They push the boundaries of technology basing all their advancement on the unstable energy source of Zantanium. Our story follows that of the Kevostok rippers and their descent in madness and turmoil in a world that knows no kindness.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/29558735/29558735-1660683953141-b264b210e214b.jpg",
-  "fetched_at": "2026-03-12T19:13:42+00:00",
+  "fetched_at": "2026-03-13T15:59:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
