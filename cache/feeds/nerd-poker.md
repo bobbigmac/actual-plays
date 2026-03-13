@@ -2,10 +2,10 @@
 
 - slug: `nerd-poker`
 - source: `http://brianposehnsnerdpoker.libsyn.com/rss`
-- fetched_at: `2026-03-11T03:07:29+00:00`
-- checked_at: `2026-03-11T03:07:29+00:00`
-- etag: `"0baf6a10a81c3e40fb7528bd778c750f"`
-- last_modified: `Wed, 11 Mar 2026 01:49:38 GMT`
+- fetched_at: `2026-03-13T03:10:34+00:00`
+- checked_at: `2026-03-13T03:10:34+00:00`
+- etag: `"108c5973e9afc33e038dc059b6fd7861"`
+- last_modified: `Fri, 13 Mar 2026 00:39:44 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.nerdpokerpod.com",
   "description": "Each week, under dark of night, in a dining room in Encino, a group of warriors led by Brian Posehn plays Dungeons & Dragons and you're invited to attend!",
   "image_url": "https://static.libsyn.com/p/assets/c/f/1/3/cf137200d33ffa65d959afa2a1bf1c87/NerdPokerLogo1-20241126-9cdxr13i44.png",
-  "fetched_at": "2026-03-11T03:07:29+00:00",
+  "fetched_at": "2026-03-13T03:10:34+00:00",
   "owners": [
     "Brian Posehn"
   ],
@@ -35,7 +35,7 @@
       "link": "https://brianposehnsnerdpoker.libsyn.com/the-fog-campaign-episode-62",
       "description": "Just when you think you've made friends with some friendly vines who can pin down the haunted coffin, said coffin wiggles free and smashes open. This corpse must be a real jerk! For 3 bonus episodes a month and more, subscribe to our Patreon at patreon.com/nerdpoker. For merch, social media, and more be sure to head to nerdpokerpod.com.",
       "image_url": null,
-      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-062-20260303-SKv01.mp3?dest-id=510364",
+      "enclosure_url": "https://traffic.libsyn.com/secure/brianposehnsnerdpoker/NERD-S7-062-20260303-SKv02_REPAIRED.mp3?dest-id=510364",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142441088",
       "itunes_duration": "59:22",

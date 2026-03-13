@@ -2,9 +2,9 @@
 
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
-- fetched_at: `2026-03-12T03:13:42+00:00`
-- checked_at: `2026-03-12T03:13:42+00:00`
-- etag: `W/"12051f-aFvr7VeMyA/H5FOYj/foiwR7E54"`
+- fetched_at: `2026-03-13T03:10:34+00:00`
+- checked_at: `2026-03-13T03:10:34+00:00`
+- etag: `W/"121c2f-H9GCVzh3VX2ruvmiT/1DFScCPNE"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.legendlark.com/",
   "description": "..🚂🚃🚋🚃🚃🚋🚋🚋🚃...... A train pulls into the station. A circus raises its tents. Welcome, one and all, to NEVERNOWHERE— a place where your memories are currency, every dream is reality, and crime really does pay. LegendLark is a narrative comedy TTRPG podcast. Updates every 2nd Thursday! www.legendlark.com",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42536434/42536434-1749749385558-2ae7f02ee5d26.jpg",
-  "fetched_at": "2026-03-12T03:13:42+00:00",
+  "fetched_at": "2026-03-13T03:10:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "2047899429718094da77f683f2711dfd9c28f1f8",
+      "title": "Guardians Reborn TEASER",
+      "published_at": "2026-03-12T21:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/boogerz3/episodes/Guardians-Reborn-TEASER-e3ga5ov",
+      "description": "‼️ FULL 'GUARDIANS REBORN 1' EPISODE HERE ‼️ In the futuristic city of New New Estra, three average college students are living three average lives... but they have been having these weird thoughts lately. Like, is any of this for real... or not? 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛💨 🌎 WEBSITE: legendlark.com 🔒 PATREON: patreon.com/legendlark ⁠ 🛒 STORE: legendlark.store ⁠ 🎶 SOUNDTRACK: noelshiri.bandcamp This episode edited by the Larks and Wray Van Winkle.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42536434/42536434-1773260129463-ea8d6adbc26d1.jpg",
+      "enclosure_url": "https://anchor.fm/s/fe220908/podcast/play/116774111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2Fac75c4a2-db2f-2412-02f1-f23968f07f7f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47860877",
+      "itunes_duration": "00:21:12",
+      "speakers": [],
+      "topics": [
+        "guardians",
+        "reborn",
+        "teaser"
+      ]
+    },
     {
       "key": "cce55306bef4227422f24e9428aa0815fabf9a01",
       "title": "NEVERNOWHERE 17. All Cities Are The Same",
@@ -3967,6 +3985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Guardians Reborn TEASER
 - 2026-02-26 — NEVERNOWHERE 17. All Cities Are The Same — speakers: Same Fresh
 - 2026-02-12 — NEVERNOWHERE: Q&A 1
 - 2026-01-30 — NEVERNOWHERE: The Bluebird Report #1 — speakers: Bluebird Report
