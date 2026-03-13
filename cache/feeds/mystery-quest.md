@@ -2,9 +2,9 @@
 
 - slug: `mystery-quest`
 - source: `https://feeds.megaphone.fm/NSR3713660967`
-- fetched_at: `2026-03-13T15:59:18+00:00`
-- checked_at: `2026-03-13T15:59:18+00:00`
-- last_modified: `Fri, 13 Mar 2026 13:47:10 GMT`
+- fetched_at: `2026-03-13T19:03:18+00:00`
+- checked_at: `2026-03-13T19:03:18+00:00`
+- last_modified: `Fri, 13 Mar 2026 17:07:40 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/NSR3713660967",
   "description": "Welcome to Mystery Quest! A roleplaying podcast where we play a variety of one-shot roleplaying games with a rolling cast of special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/591c75f0-15ce-11ee-aa07-eba063920870/image/MQ_Hero_art.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-13T15:59:18+00:00",
+  "fetched_at": "2026-03-13T19:03:18+00:00",
   "owners": [
     "Tom Bates"
   ],
@@ -26,6 +26,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "f432a4c60ba108fdfe66f2e4a67f71c01cd1a5bf",
+      "title": "Blade Runner RPG: Electric Dreams #2",
+      "published_at": "2026-03-13T17:00:00+00:00",
+      "link": null,
+      "description": "Welcome back to Blade Runner: Electric Dreams. After a thorough chewing out by LAPD chief deputy Holden, our blade runners are summoned to Wallace Corp HQ, manufacturers of the new Nexus 9 model replicants, including Percival, Fenna and the missing replicant Leah. Join: https://www.youtube.com/channel/UCd5_xAWJ4yX6NZ5cZaccqPw/join Community Discord: https://discord.gg/z2NW53APFa Merch: https://mystery-quest-shop.fourthwall.com/en-gbp Members and Patrons get $7 off your order - that’s like a free membership along with your stylish new adventuring attire! Check out Blade Runner RPG here: https://freeleaguepublishing.com/games/blade-runner-rpg/ The scenario is 'Electric Dreams' and is included in the starter set: https://freeleaguepublishing.com/shop/blade-runner-rpg/starter-set/ Podcast: https://www.pickaxe.uk/mystery-quest Patreon link: https://www.patreon.com/MysteryQuest Follow the Cast: Tom: @AngoryTom Dan: @apocplayers⁩ Lydia: https://twitch.tv/squidgame Ravs: @Ravs_ Danann: @apocplayers Editing & Sound Design: Oscar Henderson Thumbnail Art: Jack Bailey Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db23a64a-e24a-11f0-9e56-47bf9ba01107/image/437f12b28e23b56daec43d360e5d2442.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR7798505399.mp3?updated=1773409927",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4527",
+      "speakers": [
+        "Blade Runner Rpg",
+        "Blade Runner",
+        "Electric Dreams",
+        "Tom Bates"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "electric",
+        "dream"
+      ]
+    },
     {
       "key": "b2b038b3cdab308ca4de42c49a2fefe7e7dcc141",
       "title": "Blade Runner RPG: Electric Dreams #1",
@@ -2724,6 +2748,25 @@
       ]
     },
     {
+      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
+      "title": "Call of Cthulhu: The Disintegrator #3",
+      "published_at": "2023-09-09T17:00:00+00:00",
+      "link": null,
+      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4517",
+      "speakers": [
+        "Tom Bates"
+      ],
+      "topics": [
+        "cthulhu",
+        "disintegrator"
+      ]
+    },
+    {
       "key": "cd447fcdfcfeec04fe6283bb0510fbe54ec1f480",
       "title": "MÖRK BORG: The Goblin Grinder #1",
       "published_at": "2023-09-09T17:00:00+00:00",
@@ -2743,25 +2786,6 @@
         "goblin",
         "grinder"
       ]
-    },
-    {
-      "key": "f59f5404ce8f71329b5db089bf3fce96db416506",
-      "title": "Call of Cthulhu: The Disintegrator #3",
-      "published_at": "2023-09-09T17:00:00+00:00",
-      "link": null,
-      "description": "Our investigators find themselves at breakfast awaiting the demonstration of the mysterious weapon known as The Disintegrator. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/LRepwp5qpb5gFHpx2dD7/traffic.megaphone.fm/NSR2230576272.mp3?updated=1707495872",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4517",
-      "speakers": [
-        "Tom Bates"
-      ],
-      "topics": [
-        "cthulhu",
-        "disintegrator"
-      ]
     }
   ]
 }
@@ -2770,6 +2794,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Blade Runner RPG: Electric Dreams #2 — speakers: Blade Runner Rpg, Blade Runner, Electric Dreams, Tom Bates
 - 2026-03-06 — Blade Runner RPG: Electric Dreams #1 — speakers: Blade Runner Rpg, Tom Bates
 - 2026-02-27 — Lasers & Feelings #2 — speakers: Tom Bates
 - 2026-02-20 — Lasers & Feelings #1 — speakers: Mystery Quest, Tom Bates
@@ -2903,5 +2928,5 @@
 - 2023-09-16 — MÖRK BORG: The Goblin Grinder #2 — speakers: Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #2 — speakers: Tom Bates
-- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates
 - 2023-09-09 — Call of Cthulhu: The Disintegrator #3 — speakers: Tom Bates
+- 2023-09-09 — MÖRK BORG: The Goblin Grinder #1 — speakers: Mystery Quest, Tom Bates

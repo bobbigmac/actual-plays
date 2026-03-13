@@ -2,9 +2,9 @@
 
 - slug: `flail-to-the-face-a-compatible-with-m-rk-borg-actual-play-podcast`
 - source: `https://anchor.fm/s/e221626c/podcast/rss`
-- fetched_at: `2026-03-13T15:59:18+00:00`
-- checked_at: `2026-03-13T15:59:18+00:00`
-- etag: `W/"62922-REzlaopfsa/z2WWaqCPQ0X3sib0"`
+- fetched_at: `2026-03-13T19:03:18+00:00`
+- checked_at: `2026-03-13T19:03:18+00:00`
+- etag: `W/"60ea7-UGYI9MUCEazAD+Ekt2Ih2yXsceQ"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://discord.gg/ye4VzTv9",
   "description": "Flail to the Face is a \"Compatible with Mörk Borg\" Actual Play Podcast, focusing on playing and promoting third party content and their creators.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37838387/37838387-1756395980208-7d45de7e84c02.jpg",
-  "fetched_at": "2026-03-13T15:59:18+00:00",
+  "fetched_at": "2026-03-13T19:03:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,31 +26,6 @@
     "ttrpg/mork-borg"
   ],
   "episodes": [
-    {
-      "key": "bc5f8d07385c9343db27981e4fa4ed2513d40bbc",
-      "title": "Bonus Episode: The Alchemist Appendix (w/ Guest Gm Dylan Anderson of Weird Alchemy)",
-      "published_at": "2026-03-13T12:31:39+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/flailtotheface/episodes/Bonus-Episode-The-Alchemist-Appendix-w-Guest-Gm-Dylan-Anderson-of-Weird-Alchemy-e3gcgsj",
-      "description": "**Late pledges are open** DEAD MEN WALKING VOL. 2 by Zach R — Kickstarter In this episode, we take a break from the Human Occupied Landfill and venture into The Alchemist Annex with Guest GM, Dylan Anderson of Weird Alchemy! Enjoy! This episode of Flail to the face features the game Alchemists Annex featuring classes from Dead Men Walking Volume II by Zach Rebey of Weird Alchemy! With: Thomas Genno-Stume playing Urm Tom Gambino playing Percival Charles Paschke playing Smoking Penis Kevin Welch as Zach the Lowly And Special guest GM, Dylan Anderson Season 2 theme music is Void Construct by Alex Grohl Editing by Kevin Welch Episode art by Tom Gambino Video editing by Dan Finney Weird Alchemy: Weird Alchemy - itch.io DEAD MEN WALKING VOL. 2 by Zach R — Kickstarter Whispers of the Dying Lands: https://open.spotify.com/show/7yFvPcYtVa2jP5nCI1QqCS?si=a93f011397354f8d HellSpawn: ⁠⁠⁠⁠hellspawnrpg.com⁠⁠⁠ Dan Finney : ⁠⁠OVERLAND EMPIRE ⁠⁠ Find us on whatever social media platform you use: Facebook Twitter Instagram BlueSky #FlailToTheFace #mörkborg #actualplay #podcast #ttrpg #hol #HumanOccupiedLandfill #Hellspawn",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37838387/37838387-1773382002562-70c3e83886762.jpg",
-      "enclosure_url": "https://anchor.fm/s/e221626c/podcast/play/116851027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2Fd302d042-fddc-d992-888f-536530486034.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "122239873",
-      "itunes_duration": "01:29:49",
-      "speakers": [
-        "Guest Gm",
-        "Dylan Anderson"
-      ],
-      "topics": [
-        "alchemist",
-        "appendix",
-        "guest",
-        "dylan",
-        "anderson",
-        "weird",
-        "alchemy"
-      ]
-    },
     {
       "key": "3ed4dfc536f6e5711bac59952e7947dc12159f3a",
       "title": "Season Two, Episode Five: Of Ducks And Demons",
@@ -1077,7 +1052,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-13 — Bonus Episode: The Alchemist Appendix (w/ Guest Gm Dylan Anderson of Weird Alchemy) — speakers: Guest Gm, Dylan Anderson
 - 2026-02-13 — Season Two, Episode Five: Of Ducks And Demons — speakers: Season Two
 - 2026-01-23 — Season Two, Episode Four: Owl-Coholics Anonymous
 - 2025-12-25 — Season Two Holiday Special: The Gift

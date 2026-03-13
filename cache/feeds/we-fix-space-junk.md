@@ -2,9 +2,9 @@
 
 - slug: `we-fix-space-junk`
 - source: `https://feeds.megaphone.fm/wefixspacejunk`
-- fetched_at: `2026-02-23T07:33:38+00:00`
-- checked_at: `2026-02-23T07:33:38+00:00`
-- last_modified: `Mon, 23 Feb 2026 07:06:07 GMT`
+- fetched_at: `2026-03-13T19:03:18+00:00`
+- checked_at: `2026-03-13T19:03:18+00:00`
+- last_modified: `Fri, 13 Mar 2026 17:24:46 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://battlebird.productions",
   "description": "'We Fix Space Junk' follows seasoned smuggler Kilner and reluctant fugitive Samantha as they travel the galaxy, dodging bullets and meeting strange and wonderful beings as they carry out odd jobs on the fringes of the law. A female-led sci-fi comedy sitcom set in the far future, in a high-tech, dystopian world, We Fix Space Junk draws on the sci-fi of the past, following in the footsteps of Harry Harrison and of Douglas Adams' Hitchhiker's Guide to the Galaxy. Equal parts love-letter to sci-fi and satire of the present-day, Space Junk is lovingly produced by Beth Crane and Hedley Knights of Battle Bird Productions. To support the show visit patreon.com/BattleBirdProd or visit Battlebird.productions",
   "image_url": "https://megaphone.imgix.net/podcasts/8c376dd8-0f0d-11ec-8651-57ea866800e0/image/8d5a72f1090250cbefae2050b1329e32fb962b991327db690dac1bffa8d2ba047cdd30974dd1f9bdc451659cd75d302dfd61aded64e62bb1377d9d88df6be606.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-02-23T07:33:38+00:00",
+  "fetched_at": "2026-03-13T19:03:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -36,7 +36,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "90",
-      "speakers": [],
+      "speakers": [
+        "Season Four Announcement"
+      ],
       "topics": [
         "season",
         "announcement"
@@ -54,8 +56,8 @@
       "enclosure_length": "0",
       "itunes_duration": "185",
       "speakers": [
-        "Priah Ferguson",
-        "Erica Sinclair"
+        "Hard Drive Hey",
+        "Space Junk Season"
       ],
       "topics": [
         "hard",
@@ -73,12 +75,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "77",
-      "speakers": [
-        "Starring Rebecca",
-        "Jack Carmichael",
-        "James Carney Hedley",
-        "Knights Vicki"
-      ],
+      "speakers": [],
       "topics": [
         "space",
         "home",
@@ -121,7 +118,8 @@
       "enclosure_length": "0",
       "itunes_duration": "72",
       "speakers": [
-        "Gladwin Learn"
+        "Halloween Special",
+        "When Kilner"
       ],
       "topics": [
         "hollow",
@@ -143,13 +141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "887",
-      "speakers": [
-        "Merry Brucemas",
-        "Rebecca Evans",
-        "Jack Carmichael Jen",
-        "Beth Crane",
-        "Hedley Knights Looking"
-      ],
+      "speakers": [],
       "topics": [
         "brucemas",
         "tree",
@@ -215,12 +207,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1252",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "Jade Cash"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -240,12 +227,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1533",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "Jade Cash"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -265,12 +247,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "764",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "Jade Cash"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -290,12 +267,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "761",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -315,12 +287,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1092",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -340,12 +307,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "808",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -365,12 +327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "914",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Lem Grady"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -390,12 +347,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1107",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary",
@@ -417,11 +369,7 @@
       "itunes_duration": "427",
       "speakers": [
         "Brucemas Eve",
-        "Mr King",
-        "Merry Brucemas",
-        "Hedley Knights",
-        "Beth Crane",
-        "Hedley Knights Looking"
+        "Mr King"
       ],
       "topics": [
         "king",
@@ -441,10 +389,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "151",
-      "speakers": [
-        "Hedley Knights",
-        "Beth Crane"
-      ],
+      "speakers": [],
       "topics": [
         "ghosts",
         "brucemas",
@@ -462,10 +407,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "154",
-      "speakers": [
-        "Hedley Knights",
-        "Beth Crane"
-      ],
+      "speakers": [],
       "topics": [
         "halloween",
         "special"
@@ -482,9 +424,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3518",
-      "speakers": [
-        "Jonathan Mann"
-      ],
+      "speakers": [],
       "topics": [
         "sleep",
         "podcast",
@@ -504,12 +444,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1493",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Jack Carmichael Luke Booys"
-      ],
+      "speakers": [],
       "topics": [
         "reviewer"
       ]
@@ -525,13 +460,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1564",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Jack Carmichael Laura",
-        "Vicki Baron"
-      ],
+      "speakers": [],
       "topics": [
         "view",
         "kill"
@@ -548,14 +477,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1932",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Jack Carmichael Kristen",
-        "Elizabeth Campbell",
-        "Ben Meredith"
-      ],
+      "speakers": [],
       "topics": [
         "phantom"
       ]
@@ -571,14 +493,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1226",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Carney Michael",
-        "Rigg Graham Rowat Vicki",
-        "Sean Howard"
-      ],
+      "speakers": [],
       "topics": [
         "tank"
       ]
@@ -594,13 +509,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1621",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Jack Carmichael Niko",
-        "Vicki Baron"
-      ],
+      "speakers": [],
       "topics": [
         "perfecticon"
       ]
@@ -616,13 +525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "987",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Ince Hedley",
-        "Knights Vicki",
-        "David Ault"
-      ],
+      "speakers": [],
       "topics": [
         "starship",
         "titanic"
@@ -639,14 +542,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1754",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Hedley",
-        "James Carney Nathan Blades",
-        "Vicki Baron",
-        "Sean Howard"
-      ],
+      "speakers": [],
       "topics": [
         "matter",
         "gravity"
@@ -664,13 +560,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1266",
       "speakers": [
-        "Ms Lamb",
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans Vicki",
-        "Felix Trench",
-        "Jack Carmichael Hedley",
-        "James Carney"
+        "Ms Lamb"
       ],
       "topics": [
         "lift"
@@ -687,11 +577,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "181",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Battle Bird"
-      ],
+      "speakers": [],
       "topics": [
         "space",
         "junk"
@@ -709,8 +595,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1524",
       "speakers": [
-        "Kalila Stormfire Crossover",
-        "Kalila Stormfire"
+        "Kalila Stormfire Crossover"
       ],
       "topics": [
         "kalila",
@@ -730,10 +615,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1177",
       "speakers": [
-        "Lisa Coney-Smith",
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans"
+        "Spring Special"
       ],
       "topics": []
     },
@@ -749,12 +631,7 @@
       "enclosure_length": "0",
       "itunes_duration": "2565",
       "speakers": [
-        "Andy Spark",
-        "Beth Crane",
-        "Hedley Knights",
-        "Tom Crowley",
-        "Alan Burgon",
-        "Hedley Knights Looking"
+        "Andy Spark"
       ],
       "topics": [
         "andy",
@@ -774,8 +651,7 @@
       "enclosure_length": "0",
       "itunes_duration": "341",
       "speakers": [
-        "Merry Brucemas",
-        "Hedley Learn"
+        "Night Before Brucemas Brucemas"
       ],
       "topics": [
         "night",
@@ -794,12 +670,7 @@
       "enclosure_length": "0",
       "itunes_duration": "130",
       "speakers": [
-        "Ms Lamb",
-        "Hedley Cast",
-        "Vicki Baron",
-        "Luke Booys Mama",
-        "Sean Howard",
-        "David Ault Learn"
+        "Ms Lamb"
       ],
       "topics": [
         "automnicon",
@@ -819,8 +690,7 @@
       "enclosure_length": "0",
       "itunes_duration": "133",
       "speakers": [
-        "Escape Gennero",
-        "James Oliva Bubbles"
+        "Escape Gennero"
       ],
       "topics": [
         "escape",
@@ -841,12 +711,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "387",
-      "speakers": [
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "James Carney"
-      ],
+      "speakers": [],
       "topics": [
         "micro",
         "bytes",
@@ -867,11 +732,7 @@
       "enclosure_length": "0",
       "itunes_duration": "545",
       "speakers": [
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Chris Montague",
-        "Carmichael Rebecca"
+        "Popcorn People"
       ],
       "topics": [
         "micro",
@@ -892,12 +753,7 @@
       "enclosure_length": "0",
       "itunes_duration": "721",
       "speakers": [
-        "Penne Al Dente",
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Emily Stride Jen",
-        "Zachary Fortais-Gomm"
+        "Penne Al Dente"
       ],
       "topics": [
         "micro",
@@ -918,11 +774,7 @@
       "enclosure_length": "0",
       "itunes_duration": "354",
       "speakers": [
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Chris Montague",
-        "Hedley Knights Looking"
+        "Micro Bytes"
       ],
       "topics": [
         "micro",
@@ -944,14 +796,7 @@
       "enclosure_length": "0",
       "itunes_duration": "493",
       "speakers": [
-        "Queens Flora",
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Julia Schifini",
-        "Jordan Cobb",
-        "Chris Montague",
-        "Hedley Knights Looking"
+        "Queens Flora"
       ],
       "topics": [
         "micro",
@@ -972,12 +817,7 @@
       "enclosure_length": "0",
       "itunes_duration": "428",
       "speakers": [
-        "Samantha Trapp",
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans",
-        "Chris Montague"
+        "Samantha Trapp"
       ],
       "topics": [
         "micro",
@@ -997,11 +837,7 @@
       "enclosure_length": "0",
       "itunes_duration": "473",
       "speakers": [
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "Vicki Baron",
-        "Sarah Rhea Werner"
+        "Micro Bytes"
       ],
       "topics": [
         "micro",
@@ -1022,10 +858,7 @@
       "enclosure_length": "0",
       "itunes_duration": "300",
       "speakers": [
-        "Micro Bytes",
-        "Beth Crane",
-        "Hedley Knights",
-        "James Carney"
+        "Micro Bytes"
       ],
       "topics": [
         "micro",
@@ -1064,13 +897,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "117",
-      "speakers": [
-        "Space Junk",
-        "Rebecca Evans",
-        "Chris Montague",
-        "Vicki Baron",
-        "Hedley Knights"
-      ],
+      "speakers": [],
       "topics": [
         "great",
         "easter",
@@ -1109,12 +936,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "465",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz Hedley",
-        "James Carney"
-      ],
+      "speakers": [],
       "topics": [
         "haroldson",
         "brucemas"
@@ -1132,14 +954,8 @@
       "enclosure_length": "0",
       "itunes_duration": "1260",
       "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Hedley Knights Season",
-        "Jack Carmichael Hedley",
-        "Knights Vicki",
-        "Chris Montague",
-        "David Ault",
-        "James Carney Sarah Rhea"
+        "Season Two",
+        "Automnicon Headquarters"
       ],
       "topics": [
         "socialite",
@@ -1158,10 +974,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1192",
       "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Sarah",
-        "David Eagle"
+        "Beautiful People"
       ],
       "topics": [
         "lackadaisical"
@@ -1178,12 +991,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1629",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Beth Eyre",
-        "David Eagle"
-      ],
+      "speakers": [],
       "topics": [
         "lonely"
       ]
@@ -1199,12 +1007,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1658",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Emily Stride",
-        "William Arthur"
-      ],
+      "speakers": [],
       "topics": [
         "cure",
         "bindweed"
@@ -1221,13 +1024,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1952",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Brice Stratford",
-        "Jordan Cobb",
-        "James Carney"
-      ],
+      "speakers": [],
       "topics": [
         "hero",
         "complex"
@@ -1244,13 +1041,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1246",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Hedley",
-        "James Carney Sarah Rhea",
-        "Werner David Eagle"
-      ],
+      "speakers": [],
       "topics": [
         "return",
         "princess"
@@ -1268,12 +1059,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1234",
       "speakers": [
-        "Ms Lamb",
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Vicki",
-        "Chris Montague",
-        "David Ault Looking"
+        "Ms Lamb"
       ],
       "topics": [
         "sensory",
@@ -1292,10 +1078,7 @@
       "enclosure_length": "0",
       "itunes_duration": "1241",
       "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Vicki",
-        "Chris Montague"
+        "Season Two"
       ],
       "topics": [
         "digital",
@@ -1314,11 +1097,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "556",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "James Carney"
-      ],
+      "speakers": [],
       "topics": [
         "lesson"
       ]
@@ -1334,12 +1113,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "421",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1356,12 +1130,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "536",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1378,12 +1147,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "547",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1400,12 +1164,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "624",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1422,12 +1181,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "470",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1444,12 +1198,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "877",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1466,12 +1215,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "661",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1488,12 +1232,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "690",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Francesca Mintowt-Czyz",
-        "James Carney"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1510,11 +1249,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "122",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Hedley Knights Looking"
-      ],
+      "speakers": [],
       "topics": [
         "marilyn",
         "diary"
@@ -1531,14 +1266,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "955",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Hedley Knights Season",
-        "Knights Luke Booys Vicki",
-        "James Bradshaw Rosie Alys",
-        "Graeme Knights"
-      ],
+      "speakers": [],
       "topics": [
         "awakening"
       ]
@@ -1554,10 +1282,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1455",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights"
-      ],
+      "speakers": [],
       "topics": [
         "unplanned",
         "parenthood"
@@ -1574,13 +1299,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1025",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Rebecca Evans Vicki",
-        "Luke Booys",
-        "Jack Carmichael Hedley Knights"
-      ],
+      "speakers": [],
       "topics": [
         "trainer",
         "leech",
@@ -1598,12 +1317,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1162",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Hedley",
-        "James Bradshaw"
-      ],
+      "speakers": [],
       "topics": [
         "repairman"
       ]
@@ -1619,14 +1333,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1249",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Becky Evans",
-        "Booys Hedley",
-        "Chris Montague",
-        "Vicki Barron Looking"
-      ],
+      "speakers": [],
       "topics": [
         "unsubtle",
         "utopia"
@@ -1643,13 +1350,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "952",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Chris Montague",
-        "Jack Carmichael Hedley",
-        "Vicki Baron"
-      ],
+      "speakers": [],
       "topics": [
         "popcorn",
         "entertania"
@@ -1666,13 +1367,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "874",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Hedley",
-        "Chris Montague",
-        "James Bradshaw"
-      ],
+      "speakers": [],
       "topics": [
         "flight",
         "submarine"
@@ -1689,13 +1384,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "881",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights",
-        "Jack Carmichael Hedley",
-        "Chris Montague",
-        "Rosie Alys"
-      ],
+      "speakers": [],
       "topics": [
         "escape",
         "hargan"
@@ -1712,10 +1401,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "150",
-      "speakers": [
-        "Beth Crane",
-        "Hedley Knights"
-      ],
+      "speakers": [],
       "topics": [
         "space",
         "junk",
@@ -1729,77 +1415,77 @@
 
 ## Episodes (newest first)
 
-- 2026-02-23 — Season Four Announcement!
-- 2026-01-27 — Introducing... Hard Drive — speakers: Priah Ferguson, Erica Sinclair
-- 2023-12-07 — No Space Like Home: A We Fix Space Junk Festive Special! [Trailer] — speakers: Starring Rebecca, Jack Carmichael, James Carney Hedley, Knights Vicki
+- 2026-02-23 — Season Four Announcement! — speakers: Season Four Announcement
+- 2026-01-27 — Introducing... Hard Drive — speakers: Hard Drive Hey, Space Junk Season
+- 2023-12-07 — No Space Like Home: A We Fix Space Junk Festive Special! [Trailer]
 - 2022-12-25 — Sponsor Bot's Brucemas Broadcast — speakers: Brucemas Broadcast, Sponsor Bot, Merry Brucemas
-- 2022-10-20 — The Hollow Battery: A We Fix Space Junk Halloween Special! — speakers: Gladwin Learn
-- 2021-12-24 — The Brucemas Tree: A We Fix Space Junk Brucemas Special — speakers: Merry Brucemas, Rebecca Evans, Jack Carmichael Jen, Beth Crane, Hedley Knights Looking
+- 2022-10-20 — The Hollow Battery: A We Fix Space Junk Halloween Special! — speakers: Halloween Special, When Kilner
+- 2021-12-24 — The Brucemas Tree: A We Fix Space Junk Brucemas Special
 - 2021-12-19 — (TRAILER) The Levelling Feast: A Marilyn's Diary Brucemas Special
 - 2021-10-31 — Trailer: A Series of Spooky Space Tales: The We Fix Space Junk Halloween Special — speakers: Spooky Space, Spooky Space Tales
-- 2021-08-23 — Marilyn's Diary: A Long Journey Home - E08 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, Jade Cash
-- 2021-08-09 — Marilyn's Diary: A Long Journey Home - E07 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, Jade Cash
-- 2021-07-26 — Marilyn's Diary: A Long Journey Home - E06 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, Jade Cash
-- 2021-07-12 — Marilyn's Diary: A Long Journey Home - E05 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2021-06-28 — Marilyn's Diary: A Long Journey Home - E04 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2021-06-14 — Marilyn's Diary: A Long Journey Home - E03 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2021-05-31 — Marilyn's Diary: A Long Journey Home - E02 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Lem Grady
-- 2021-05-16 — Marilyn's Diary: A Long Journey Home - E01 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2020-12-25 — Mr King's Brucemas Card List — speakers: Brucemas Eve, Mr King, Merry Brucemas, Hedley Knights, Beth Crane, Hedley Knights Looking
-- 2020-12-11 — [Trailer] The Ghosts of Brucemas Past — speakers: Hedley Knights, Beth Crane
-- 2020-10-31 — [Trailer:] Halloween Special 2020 — speakers: Hedley Knights, Beth Crane
-- 2020-10-28 — Introducing Sleep With Me Podcast in a We Fix Space Junk Crossover! — speakers: Jonathan Mann
-- 2020-10-26 — S03E08 - The Reviewer — speakers: Beth Crane, Hedley Knights, Rebecca Evans, Jack Carmichael Luke Booys
-- 2020-10-12 — S03E07 - A View Of A Kill — speakers: Beth Crane, Hedley Knights, Rebecca Evans, Jack Carmichael Laura, Vicki Baron
-- 2020-09-28 — S03 E06 - The Phantom Eye — speakers: Beth Crane, Hedley Knights, Rebecca Evans, Jack Carmichael Kristen, Elizabeth Campbell, Ben Meredith
-- 2020-09-14 — S03E05 - The Tank — speakers: Beth Crane, Hedley Knights, Rebecca Evans, Carney Michael, Rigg Graham Rowat Vicki, Sean Howard
-- 2020-08-30 — S03E04 - Relaxing at The Perfecticon Spa — speakers: Beth Crane, Hedley Knights, Rebecca Evans, Jack Carmichael Niko, Vicki Baron
-- 2020-08-16 — S03E03 - The Starship Titanic — speakers: Beth Crane, Hedley Knights, Ince Hedley, Knights Vicki, David Ault
-- 2020-08-09 — S03E02 - A Matter Of Gravity — speakers: Beth Crane, Hedley Knights, Jack Carmichael Hedley, James Carney Nathan Blades, Vicki Baron, Sean Howard
-- 2020-08-02 — S03E01 - The Lift — speakers: Ms Lamb, Beth Crane, Hedley Knights, Rebecca Evans Vicki, Felix Trench, Jack Carmichael Hedley, James Carney
-- 2020-08-01 — Previously, On We Fix Space Junk... — speakers: Beth Crane, Hedley Knights, Battle Bird
-- 2020-06-16 — Kalila Stormfire Crossover, Live! — speakers: Kalila Stormfire Crossover, Kalila Stormfire
-- 2020-04-01 — Will We Ever Know? — speakers: Lisa Coney-Smith, Beth Crane, Hedley Knights, Rebecca Evans
-- 2020-01-17 — "Andy Spark" & "The Library" Live! — speakers: Andy Spark, Beth Crane, Hedley Knights, Tom Crowley, Alan Burgon, Hedley Knights Looking
-- 2019-12-25 — Twas the Night Before Brucemas — speakers: Merry Brucemas, Hedley Learn
-- 2019-12-22 — Automnicon: The Brucemas Party (Trailer) — speakers: Ms Lamb, Hedley Cast, Vicki Baron, Luke Booys Mama, Sean Howard, David Ault Learn
-- 2019-10-19 — [Trailer:] Escape Gennero's, a We Fix Space Junk Special — speakers: Escape Gennero, James Oliva Bubbles
-- 2019-10-07 — Micro Bytes Episode 8: Haroldson's New Best Friend — speakers: Micro Bytes, Beth Crane, Hedley Knights, James Carney
-- 2019-09-30 — Micro Bytes Episode 7: Buttery and Charismatic — speakers: Micro Bytes, Beth Crane, Hedley Knights, Chris Montague, Carmichael Rebecca
-- 2019-09-23 — Micro Bytes Episode 6: Penne Al Dente — speakers: Penne Al Dente, Micro Bytes, Beth Crane, Hedley Knights, Emily Stride Jen, Zachary Fortais-Gomm
-- 2019-09-15 — Micro Bytes Episode 5: An Incredibly Perilous Mission — speakers: Micro Bytes, Beth Crane, Hedley Knights, Chris Montague, Hedley Knights Looking
-- 2019-09-08 — Micro Bytes Episode 4: Killer Queens — speakers: Queens Flora, Micro Bytes, Beth Crane, Hedley Knights, Julia Schifini, Jordan Cobb, Chris Montague, Hedley Knights Looking
-- 2019-09-01 — Micro Bytes Episode 3: Couture or Not Couture — speakers: Samantha Trapp, Micro Bytes, Beth Crane, Hedley Knights, Rebecca Evans, Chris Montague
-- 2019-08-25 — Micro Bytes Episode 2: Terrible Flammable Alchemy — speakers: Micro Bytes, Beth Crane, Hedley Knights, Vicki Baron, Sarah Rhea Werner
-- 2019-08-18 — Micro Bytes Episode 1: A Gift For A Friend — speakers: Micro Bytes, Beth Crane, Hedley Knights, James Carney
+- 2021-08-23 — Marilyn's Diary: A Long Journey Home - E08
+- 2021-08-09 — Marilyn's Diary: A Long Journey Home - E07
+- 2021-07-26 — Marilyn's Diary: A Long Journey Home - E06
+- 2021-07-12 — Marilyn's Diary: A Long Journey Home - E05
+- 2021-06-28 — Marilyn's Diary: A Long Journey Home - E04
+- 2021-06-14 — Marilyn's Diary: A Long Journey Home - E03
+- 2021-05-31 — Marilyn's Diary: A Long Journey Home - E02
+- 2021-05-16 — Marilyn's Diary: A Long Journey Home - E01
+- 2020-12-25 — Mr King's Brucemas Card List — speakers: Brucemas Eve, Mr King
+- 2020-12-11 — [Trailer] The Ghosts of Brucemas Past
+- 2020-10-31 — [Trailer:] Halloween Special 2020
+- 2020-10-28 — Introducing Sleep With Me Podcast in a We Fix Space Junk Crossover!
+- 2020-10-26 — S03E08 - The Reviewer
+- 2020-10-12 — S03E07 - A View Of A Kill
+- 2020-09-28 — S03 E06 - The Phantom Eye
+- 2020-09-14 — S03E05 - The Tank
+- 2020-08-30 — S03E04 - Relaxing at The Perfecticon Spa
+- 2020-08-16 — S03E03 - The Starship Titanic
+- 2020-08-09 — S03E02 - A Matter Of Gravity
+- 2020-08-02 — S03E01 - The Lift — speakers: Ms Lamb
+- 2020-08-01 — Previously, On We Fix Space Junk...
+- 2020-06-16 — Kalila Stormfire Crossover, Live! — speakers: Kalila Stormfire Crossover
+- 2020-04-01 — Will We Ever Know? — speakers: Spring Special
+- 2020-01-17 — "Andy Spark" & "The Library" Live! — speakers: Andy Spark
+- 2019-12-25 — Twas the Night Before Brucemas — speakers: Night Before Brucemas Brucemas
+- 2019-12-22 — Automnicon: The Brucemas Party (Trailer) — speakers: Ms Lamb
+- 2019-10-19 — [Trailer:] Escape Gennero's, a We Fix Space Junk Special — speakers: Escape Gennero
+- 2019-10-07 — Micro Bytes Episode 8: Haroldson's New Best Friend
+- 2019-09-30 — Micro Bytes Episode 7: Buttery and Charismatic — speakers: Popcorn People
+- 2019-09-23 — Micro Bytes Episode 6: Penne Al Dente — speakers: Penne Al Dente
+- 2019-09-15 — Micro Bytes Episode 5: An Incredibly Perilous Mission — speakers: Micro Bytes
+- 2019-09-08 — Micro Bytes Episode 4: Killer Queens — speakers: Queens Flora
+- 2019-09-01 — Micro Bytes Episode 3: Couture or Not Couture — speakers: Samantha Trapp
+- 2019-08-25 — Micro Bytes Episode 2: Terrible Flammable Alchemy — speakers: Micro Bytes
+- 2019-08-18 — Micro Bytes Episode 1: A Gift For A Friend — speakers: Micro Bytes
 - 2019-08-13 — [Trailer] We Fix Space Junk: Micro Bytes
-- 2019-04-22 — [Trailer] The Great Easter Space Train Robbery — speakers: Space Junk, Rebecca Evans, Chris Montague, Vicki Baron, Hedley Knights
+- 2019-04-22 — [Trailer] The Great Easter Space Train Robbery
 - 2019-03-05 — Automnicon: The Intern - Coming Soon! — speakers: Coming Soon
-- 2018-12-25 — Haroldson's First Brucemas — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz Hedley, James Carney
-- 2018-12-18 — S02E08 - The Socialite and the Cyborg — speakers: Beth Crane, Hedley Knights, Hedley Knights Season, Jack Carmichael Hedley, Knights Vicki, Chris Montague, David Ault, James Carney Sarah Rhea
-- 2018-12-01 — S02E07 - Diamorphically Lackadaisical — speakers: Beth Crane, Hedley Knights, Jack Carmichael Sarah, David Eagle
-- 2018-11-13 — S02E06 - The Lonely Ark — speakers: Beth Crane, Hedley Knights, Jack Carmichael Beth Eyre, David Eagle
-- 2018-10-22 — S02E05 - A Cure for Bindweed — speakers: Beth Crane, Hedley Knights, Jack Carmichael Emily Stride, William Arthur
-- 2018-10-08 — S02E04 - Hero Complex — speakers: Beth Crane, Hedley Knights, Jack Carmichael Brice Stratford, Jordan Cobb, James Carney
-- 2018-10-01 — S02E03 - Return of the Princess — speakers: Beth Crane, Hedley Knights, Jack Carmichael Hedley, James Carney Sarah Rhea, Werner David Eagle
-- 2018-09-24 — S02E02 - Sensory Overload — speakers: Ms Lamb, Beth Crane, Hedley Knights, Jack Carmichael Vicki, Chris Montague, David Ault Looking
-- 2018-09-17 — S02E01 - Digital Biological Interface — speakers: Beth Crane, Hedley Knights, Jack Carmichael Vicki, Chris Montague
-- 2018-09-09 — #IPM2018: Driving Lessons — speakers: Beth Crane, Hedley Knights, James Carney
-- 2018-08-06 — Marilyn's Diary Episode 8 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-07-30 — Marilyn's Diary Episode 7 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-07-23 — Marilyn's Diary Episode 6 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-07-16 — Marilyn's Diary Episode 5 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-07-09 — Marilyn's Diary Episode 4 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-07-02 — Marilyn's Diary Episode 3 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-06-25 — Marilyn's Diary Episode 2 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney Looking
-- 2018-06-18 — Marilyn's Diary Episode 1 — speakers: Beth Crane, Hedley Knights, Francesca Mintowt-Czyz, James Carney
-- 2018-06-04 — Marilyn's Diary Trailer — speakers: Beth Crane, Hedley Knights, Hedley Knights Looking
-- 2018-05-07 — S01E08 - The Awakening — speakers: Beth Crane, Hedley Knights, Hedley Knights Season, Knights Luke Booys Vicki, James Bradshaw Rosie Alys, Graeme Knights
-- 2018-04-30 — S01E07 - Unplanned Parenthood — speakers: Beth Crane, Hedley Knights
-- 2018-04-23 — S01E06 - The Trainer, The Leech and The Mortgage — speakers: Beth Crane, Hedley Knights, Rebecca Evans Vicki, Luke Booys, Jack Carmichael Hedley Knights
-- 2018-04-16 — S01E05 - The Third Repairman — speakers: Beth Crane, Hedley Knights, Jack Carmichael Hedley, James Bradshaw
-- 2018-04-09 — S01E04 - An Unsubtle Utopia — speakers: Beth Crane, Hedley Knights, Becky Evans, Booys Hedley, Chris Montague, Vicki Barron Looking
-- 2018-04-02 — S01E03 - The Popcorn Men of Entertania III — speakers: Beth Crane, Hedley Knights, Chris Montague, Jack Carmichael Hedley, Vicki Baron
-- 2018-03-26 — S01E02 - The Flight of The Submarine — speakers: Beth Crane, Hedley Knights, Jack Carmichael Hedley, Chris Montague, James Bradshaw
-- 2018-03-18 — S01E01 - Escape From Hargan IV — speakers: Beth Crane, Hedley Knights, Jack Carmichael Hedley, Chris Montague, Rosie Alys
-- 2018-03-16 — We Fix Space Junk S01 E00 - Series Trailer — speakers: Beth Crane, Hedley Knights
+- 2018-12-25 — Haroldson's First Brucemas
+- 2018-12-18 — S02E08 - The Socialite and the Cyborg — speakers: Season Two, Automnicon Headquarters
+- 2018-12-01 — S02E07 - Diamorphically Lackadaisical — speakers: Beautiful People
+- 2018-11-13 — S02E06 - The Lonely Ark
+- 2018-10-22 — S02E05 - A Cure for Bindweed
+- 2018-10-08 — S02E04 - Hero Complex
+- 2018-10-01 — S02E03 - Return of the Princess
+- 2018-09-24 — S02E02 - Sensory Overload — speakers: Ms Lamb
+- 2018-09-17 — S02E01 - Digital Biological Interface — speakers: Season Two
+- 2018-09-09 — #IPM2018: Driving Lessons
+- 2018-08-06 — Marilyn's Diary Episode 8
+- 2018-07-30 — Marilyn's Diary Episode 7
+- 2018-07-23 — Marilyn's Diary Episode 6
+- 2018-07-16 — Marilyn's Diary Episode 5
+- 2018-07-09 — Marilyn's Diary Episode 4
+- 2018-07-02 — Marilyn's Diary Episode 3
+- 2018-06-25 — Marilyn's Diary Episode 2
+- 2018-06-18 — Marilyn's Diary Episode 1
+- 2018-06-04 — Marilyn's Diary Trailer
+- 2018-05-07 — S01E08 - The Awakening
+- 2018-04-30 — S01E07 - Unplanned Parenthood
+- 2018-04-23 — S01E06 - The Trainer, The Leech and The Mortgage
+- 2018-04-16 — S01E05 - The Third Repairman
+- 2018-04-09 — S01E04 - An Unsubtle Utopia
+- 2018-04-02 — S01E03 - The Popcorn Men of Entertania III
+- 2018-03-26 — S01E02 - The Flight of The Submarine
+- 2018-03-18 — S01E01 - Escape From Hargan IV
+- 2018-03-16 — We Fix Space Junk S01 E00 - Series Trailer
