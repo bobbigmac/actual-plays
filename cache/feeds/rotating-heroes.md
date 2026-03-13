@@ -2,10 +2,10 @@
 
 - slug: `rotating-heroes`
 - source: `https://feeds.captivate.fm/rotating-heroes/`
-- fetched_at: `2026-03-06T13:31:12+00:00`
-- checked_at: `2026-03-06T13:31:12+00:00`
-- etag: `"6fc1d-64c5824a05eea"`
-- last_modified: `Fri, 06 Mar 2026 10:01:55 GMT`
+- fetched_at: `2026-03-13T13:35:25+00:00`
+- checked_at: `2026-03-13T13:35:25+00:00`
+- etag: `"707b4-64ce4f977ce38"`
+- last_modified: `Fri, 13 Mar 2026 10:03:01 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,13 +18,33 @@
   "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
   "description": "Follow the adventures of a rotating cast featuring the funniest comedians, actors and improvisors around. Listen as they attempt daring deeds, epic exploits and behave like buffoons in this comedy actual play series from Jasper William Cartwright.",
   "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
-  "fetched_at": "2026-03-06T13:31:12+00:00",
+  "fetched_at": "2026-03-13T13:35:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "games"
   ],
   "episodes": [
+    {
+      "key": "3e031784218aa33d6e67667190eb97fe9d63c5da",
+      "title": "Axis Arc 1 Ep 10: Tick Tick Boom PART 2",
+      "published_at": "2026-03-13T10:00:00+00:00",
+      "link": "https://rotatingheroespodcast.fandom.com/wiki/Rotating_Heroes_Podcast_Wiki",
+      "description": "It seems our heroic trio will have to think on their feet if they stand any chance of making it out of this one alive. --- If you want to know what happens to our trio after the events of this thrilling finale you can time travel right now to catch up with Arcs 2 & 3 by joining The Rotating Heroes Patreon ! If you want even more actual play goodness in your life you should check out 12 Sided Studios' new show Oaths and Empires . A brand new TTRPG actual play featuring Luke Dale and Tom McKay and set in a Witcher-esk inspired world, as our two rookie players navigate their very first game.",
+      "image_url": "https://artwork.captivate.fm/6c089c34-6d93-4b37-9772-6b12cec880db/5b6d3b4902d26ddef751245f3f5772bb42dd279cd09c1790866f700b2c8abbe.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/b354a189-6674-440e-a6ca-b29007275259.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123622979",
+      "itunes_duration": "01:04:23",
+      "speakers": [
+        "Tick Tick Boom"
+      ],
+      "topics": [
+        "axis",
+        "tick",
+        "boom"
+      ]
+    },
     {
       "key": "add6a05af75b0240e2cc0516fc2d62b8ff3fb7a5",
       "title": "Axis Arc 1 Ep 10: Tick Tick Boom PART 1",
@@ -2452,6 +2472,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Axis Arc 1 Ep 10: Tick Tick Boom PART 2 — speakers: Tick Tick Boom
 - 2026-03-06 — Axis Arc 1 Ep 10: Tick Tick Boom PART 1 — speakers: Tick Tick Boom
 - 2026-02-27 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 2 — speakers: Axis Arc
 - 2026-02-20 — Axis Arc 1 Ep 9: Sucked out like a Boba PART 1 — speakers: Axis Arc
