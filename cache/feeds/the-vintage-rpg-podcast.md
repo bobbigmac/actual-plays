@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-13T19:03:18+00:00`
-- checked_at: `2026-03-13T19:03:18+00:00`
-- etag: `"d4aa53ea60971a0c7feb7e0ae9d2c50a"`
-- last_modified: `Fri, 13 Mar 2026 18:37:12 GMT`
+- fetched_at: `2026-03-14T03:08:27+00:00`
+- checked_at: `2026-03-14T03:08:27+00:00`
+- etag: `"8b11877d4287ef6c8cb9dc583c80ad5b"`
+- last_modified: `Fri, 13 Mar 2026 22:38:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-13T19:03:18+00:00",
+  "fetched_at": "2026-03-14T03:08:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
