@@ -2,8 +2,8 @@
 
 - slug: `role-radio-a-5e-actual-play-dungeons-dragons-podcast`
 - source: `https://feeds.redcircle.com/721aa1af-1a3d-4127-a0b9-7f1c74c64231`
-- fetched_at: `2026-03-15T09:50:48+00:00`
-- checked_at: `2026-03-15T09:50:48+00:00`
+- fetched_at: `2026-03-15T13:17:38+00:00`
+- checked_at: `2026-03-15T13:17:38+00:00`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://redcircle.com/shows/role_radio",
   "description": "Welcome to Role Radio, an actual play, 5th Edition, Dungeons & Dragons Podcast. We are a group of old friends who get together every week and have fun playing D&D, and fun for us is role playing, rolling dice, and rolling on the floor laughing. We then take that fun time and edit it , fill it with music, sound effects, and surprises to create a fast paced, cinematic and compelling story so that you can have as much fun listening as we do playing. Join us as we travel to the Forgotten Realms and play Wizards of the Coast exciting adventure, Scourge of the Sword Coast. Will the players be able to save the Western Heartlands from the Red Wizards evil plans? Who Knows! Tune in and find out on Role Radio! Check us out at our website - https://roleradio.com",
   "image_url": "https://media.redcircle.com/images/2019/8/23/1/a849cb1e-4999-4dce-b26b-85c2fc9432ff_fd352b_15c46494-8000-47e5-b36c-2f888a696a55_a9155d89-8fbe-4d72-a618-ce3de3fac1f5_a73f8806-062f-4528-94c8-60579d761bf3_fd03ab16-3b80-4f94-a02a-56e91890729d_6abcaf3a-0d59-4e63-9557-22fd65d6b8ec_blob.jpg",
-  "fetched_at": "2026-03-15T09:50:48+00:00",
+  "fetched_at": "2026-03-15T13:17:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "ttrpg/dnd"
   ],
   "episodes": [
+    {
+      "key": "8f3de99229b6e4d54fdd0766a006388086d84b4f",
+      "title": "S5E131 - Nudge the Bubble",
+      "published_at": "2026-03-15T12:41:43+00:00",
+      "link": "https://roleradio.com/",
+      "description": "In this episode: gnomes go flying, enthusiasms get used, Clerics get crumpled, kisses get thrown, 3 D8's disappoint, and foreshadowing starts shadowing. It's a real blast! Support this podcast at — https://redcircle.com/role_radio/donations",
+      "image_url": null,
+      "enclosure_url": "https://audio3.redcircle.com/episodes/b726a637-d1c3-4a1d-bff3-3466a321e102/stream.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72605361",
+      "itunes_duration": "4537",
+      "speakers": [],
+      "topics": [
+        "bubble"
+      ]
+    },
     {
       "key": "768ad49818eccb92abde8b67839397ad9c546c04",
       "title": "S5E130 - Take That, Posturepedic!",
@@ -2309,6 +2325,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-15 — S5E131 - Nudge the Bubble
 - 2026-02-12 — S5E130 - Take That, Posturepedic!
 - 2025-12-27 — S5E129 - Murder is a Strong Word
 - 2025-11-23 — S5E128 - Playgoblin
