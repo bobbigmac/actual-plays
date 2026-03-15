@@ -2,10 +2,10 @@
 
 - slug: `friends-at-the-table`
 - source: `http://friendsatthetable.libsyn.com/rss`
-- fetched_at: `2026-03-13T03:10:34+00:00`
-- checked_at: `2026-03-13T03:10:34+00:00`
-- etag: `"bdb82b7a82e3a997388fff0b667ea5a7"`
-- last_modified: `Fri, 13 Mar 2026 00:33:11 GMT`
+- fetched_at: `2026-03-15T19:00:12+00:00`
+- checked_at: `2026-03-15T19:00:12+00:00`
+- etag: `"b9732b0ec6fbca6b7194ce9f16ef1c1d"`
+- last_modified: `Sun, 15 Mar 2026 16:18:35 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://friendsatthetable.net",
   "description": "Friends at the Table is an actual play podcast about critical worldbuilding, smart characterization, and fun interaction between good friends. Find us (and a listener guide) @Friends_Table on Twitter.",
   "image_url": "https://static.libsyn.com/p/assets/7/d/8/1/7d815f6a3dd6d5f6d959afa2a1bf1c87/PerpetuaCover-20250314-66jtvbngjf.jpg",
-  "fetched_at": "2026-03-13T03:10:34+00:00",
+  "fetched_at": "2026-03-15T19:00:12+00:00",
   "owners": [
     "Austin Walker"
   ],
@@ -28,6 +28,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "e042367ae5ba75d51cc46a23fa161b07ef3eefb4",
+      "title": "Perpetua 37: The Castle Eschatonica 05",
+      "published_at": "2026-03-15T16:18:00+00:00",
+      "link": "https://friendsatthetable.net/perpetua-37-the-castle-eschatonica-05",
+      "description": "It moved towards Antistrophe, Caoimhe, and Nicky through the dark as something other than itself. A creature of guile and hunger, whose taste for life is well developed and whose limbs are the limbs of others. Meanwhile, amidst the revelers of the High Masque, the moonlit wing's adventurers mix and mingle. Will they try to puzzle their way through the rhyming door, or sate themselves on delicacies and dances instead of dungeoneering… This week on Perpetua: The Castle Eschatonica 05 Perpetua Guide [Community Addendum Part 03] What's up every-freakin-body. It's THEUNFORGIVENIII and I decided to pick up on Nei's slack. Maybe he'll see what a good job I'm doing and come back to try to one up me. Then the real rivalry will begin… Anyway, it's boss fight time. I made a few updates to Nei's format. I KNOW that he says he doesn't wanna get some specific spoilers in these enemy rundowns but I think that's pretty fuggin lazy. Maybe you can learn a few things from a real gamer, Nei. (bcuz i KNOW you're secretly reading along) Strange Hornet [NMSH] LEVEL : 10 RANK : SOLDIER TYPE : BRUTE TRAITS : CORPSE, PUPPETTED, UNDEAD STATS : DEX 8, INS 6, MIG 10, WLP 8 DEF : 8 MAGDEF : 6 HP : 70 MP : 45 INITIATIVE : 7 ATTACKS Buzzing Bash : Melee, [MIG + MIG], [HR + 10] PHYSICAL DAMAGE Stinger Shot : Ranged, [DEX + MIG], [HR + 5] PHYSICAL DAMAGE SPECIAL ABILITIES Brute : +1 to all accuracy and magical accuracy rolls Just a Puppet : \"When the strange Hornet is reduced to 0 Hit Points for the first time, it is instead reduced to exactly 1 Hit Point and Malathornia, Wicked Weaver is revealed.\" ELEMENTAL INFO : Vulnerable to Fire and Light IN-GAME DESCRIPTION: It's moving weird… EXPERT INFO: If you think \"we're really kicking this guy's ass, this must be a fakeout,\" then you're at least a class B Gamer. Because the second you beat this guy into the ground, the real boss shows up! PROTIP: REMEMBER: BECAUSE THIS GUY COUNTS AS UNDEAD, YOU CAN HURT HIM WITH HEALING SPELLS! (BUT BE CAREFUL, BECAUSE ALL SPELLS ONLY HEAL HALF DAMAGE INSIDE OF REDOLENCIA CELESTIAL ECHOES) Malathornia, Wicked Weaver [NMML] LEVEL : 10 RANK : CHAMPION (3) TYPE : SABOTEUR TRAITS : CONNIVING, MANIPULATIVE, CRAVEN, AMBITIOUS (SOUNDS LIKE MY STEP-DAD ROFL) STATS: DEX 8, INS 8, MIG 8, WLP 8 (BORING) DEF: 10 MAGDEF: 9 HP: 180 MP: 100 INITIATIVE: 11 ATTACKS Thieving Webs: Ranged, [DEX + WLP] + 4, [HR + 5] PHYSICAL DAMAGE - MULTI 2 - EACH TARGET HIT BY THIS ATTACK LOSES 1 IP Enervating Claws: Melee, [DEX + WLP] +4, [HR + 5] DARK DAMAGE - EACH TARGET HIT BY THIS ATTACK IS WEAKENED. TARGETS MAGICAL DEFENSE. SPECIAL ABILITIES Catch Me If You Can: Malathornia enters the conflict accompanied by a Pursuit Clock with 10 sections. Enemies cannot see Malathornia unless half or more of the Pursuit Clock's sections are filled. Back to the Shadows: Malathornia skitters back into the shadows of the Ruined Hive. Remove up to 2 marks from the pursuit clock. Malathornia's Marionette: Malathornia spends 20 MP and chooses a target suffering from Weakened. Malathornia's webs puppet the target, forcing them to immediately perform a free attack with an equipped weapon or basic attack against a target chosen by this NPC. ELEMENTAL INFO: Resistant to Physical (YIKES) and Dark. Vulnerable to Light. IN-GAME DESCRIPTION: Ruiner of the Old Hive. Master of the Shadows. EXPERT INFO: This is the only \"real\" boss you can fight in this first part of the dungeon, but personally, I think he's a chump. Just use Caoimhe's light attacks to demolish this freak. (if you didn't Give Caoimhe light spells yet, then that's on you!) PROTIP: REMEMBER THAT YOU CAN USE ITEMS FOR EXTRA HEALING IF YOU NEED IT (LIKE IF YOU'RE A NOOB).",
+      "image_url": null,
+      "enclosure_url": "https://traffic.libsyn.com/secure/friendsatthetable/Perpetua_37_The_Castle_Eschatonica_05.mp3?dest-id=550849",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99945236",
+      "itunes_duration": "01:43:35",
+      "speakers": [
+        "Austin Walker"
+      ],
+      "topics": [
+        "perpetua",
+        "castle",
+        "eschatonica"
+      ]
+    },
     {
       "key": "893389ae802586e2c69f7dd58b20573be78e2b76",
       "title": "Announcement for Spotify Listeners",
@@ -11376,6 +11396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-15 — Perpetua 37: The Castle Eschatonica 05 — speakers: Austin Walker
 - 2026-03-10 — Announcement for Spotify Listeners — speakers: Spotify Listeners Hello, Austin Walker
 - 2026-03-08 — Perpetua 36: The Castle Eschatonica 04 — speakers: Austin Walker
 - 2026-03-01 — Perpetua 35: The Castle Eschatonica 03 — speakers: Austin Walker
