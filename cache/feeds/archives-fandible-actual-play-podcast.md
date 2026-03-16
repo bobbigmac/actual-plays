@@ -2,9 +2,9 @@
 
 - slug: `archives-fandible-actual-play-podcast`
 - source: `http://www.fandible.com/category/podcast/feed/`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-22T07:08:03+00:00`
-- etag: `"2e823a4d73d8715326d20a2fdbf8fb37"`
+- fetched_at: `2026-03-16T03:39:52+00:00`
+- checked_at: `2026-03-16T03:39:52+00:00`
+- etag: `"43ff6354ce54aee5a69f209386f2c167"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://fandible.com/category/podcast/",
   "description": "An RPG actual play podcast, with geek and pop culture commentary",
   "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T03:39:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "81a5c6db4aeb9db87824234f23ca7db725e52a53",
+      "title": "It Came From Beyond the Grave: Blackthorn Hill part 1",
+      "published_at": "2026-03-16T00:26:34+00:00",
+      "link": "https://fandible.com/it-came-from-beyond-the-grave-blackthorn-hill-part-1/",
+      "description": "In this return to form for the Fandible crew, David forces the players to read from a script that exists only in his head while abiding by one rule: Never let the story get in the way of the plot. The post It Came From Beyond the Grave: Blackthorn Hill part 1 appeared first on Fandible Actual Play Podcast .",
+      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
+      "enclosure_url": "http://media.blubrry.com/fandible/www.fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/455_ICFBTG_BlackThornHill/Fan_799_ICFBTG_BlackthornHillp1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50530436",
+      "itunes_duration": "51:38",
+      "speakers": [],
+      "topics": [
+        "grave",
+        "blackthorn",
+        "hill"
+      ]
+    },
     {
       "key": "c838d61f3b619c30a9e74dafd68f6a0ee83408d6",
       "title": "I have a Pipe",
@@ -218,8 +236,7 @@
       "itunes_duration": "35:29",
       "speakers": [
         "Cyberpunk Red",
-        "Clown Games",
-        "Fandible Actu"
+        "Clown Games"
       ],
       "topics": [
         "cyberpunk",
@@ -263,8 +280,7 @@
         "Cyberpunk Red",
         "Clown Games",
         "Three Edgerunners",
-        "Prime Time",
-        "Fandible Actual Play Pod"
+        "Prime Time"
       ],
       "topics": [
         "cyberpunk",
@@ -285,7 +301,7 @@
       "itunes_duration": "39:21",
       "speakers": [
         "Star Adventurer",
-        "Fandible Actual Play Podcas"
+        "Star Advent"
       ],
       "topics": [
         "star",
@@ -473,7 +489,8 @@
       "enclosure_length": "55495207",
       "itunes_duration": "57:11",
       "speakers": [
-        "Dead Quiet"
+        "Dead Quiet",
+        "Dead Qui"
       ],
       "topics": [
         "triangle",
@@ -571,9 +588,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "28036007",
       "itunes_duration": "35:33",
-      "speakers": [
-        "Dead Flames"
-      ],
+      "speakers": [],
       "topics": [
         "mothership",
         "dead",
@@ -592,8 +607,7 @@
       "enclosure_length": "32692469",
       "itunes_duration": "41:34",
       "speakers": [
-        "Dead Flames",
-        "Fandible Actual Play Podcas"
+        "Dead Flames"
       ],
       "topics": [
         "mothership",
@@ -654,8 +668,7 @@
       "enclosure_length": "55397203",
       "itunes_duration": "55:07",
       "speakers": [
-        "Triangle Agency",
-        "Fandible Actual Play"
+        "Triangle Agency"
       ],
       "topics": [
         "triangle",
@@ -740,8 +753,7 @@
       "enclosure_length": "5242880",
       "itunes_duration": null,
       "speakers": [
-        "Triangle Agency",
-        "Fandible Actual Pl"
+        "Triangle Agency"
       ],
       "topics": [
         "triangle",
@@ -842,8 +854,7 @@
       "itunes_duration": "43:28",
       "speakers": [
         "Super Cool Monster Hunting",
-        "Demon Agents",
-        "Super Cool"
+        "Demon Agents"
       ],
       "topics": [
         "super",
@@ -913,7 +924,8 @@
       "itunes_duration": "51:01",
       "speakers": [
         "Super Cool Monster Hunting",
-        "Demon Agents"
+        "Demon Agents",
+        "Super Co"
       ],
       "topics": [
         "super",
@@ -936,7 +948,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46633593",
       "itunes_duration": "49:38",
-      "speakers": [],
+      "speakers": [
+        "Operation Silent Nig"
+      ],
       "topics": [
         "technocracy",
         "operation",
@@ -955,9 +969,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42300168",
       "itunes_duration": "43:41",
-      "speakers": [
-        "Operation Silent Night Par"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "operation",
@@ -995,9 +1007,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55022737",
       "itunes_duration": "1:01:49",
-      "speakers": [
-        "Fandible Actual Play Pod"
-      ],
+      "speakers": [],
       "topics": [
         "technocracy",
         "operation",
@@ -1148,8 +1158,7 @@
       "enclosure_length": "51954430",
       "itunes_duration": "51:57",
       "speakers": [
-        "Halloween Hiatus",
-        "Fandible Act"
+        "Halloween Hiatus"
       ],
       "topics": [
         "technocracy",
@@ -1297,9 +1306,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46015736",
       "itunes_duration": "50:41",
-      "speakers": [
-        "Fandible Ac"
-      ],
+      "speakers": [],
       "topics": [
         "shadowdark",
         "newt"
@@ -1316,7 +1323,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46990658",
       "itunes_duration": "49:47",
-      "speakers": [],
+      "speakers": [
+        "Hunter Th"
+      ],
       "topics": [
         "hunter",
         "reckoning",
@@ -1371,8 +1380,7 @@
       "enclosure_length": "5242880",
       "itunes_duration": null,
       "speakers": [
-        "System Shutdown",
-        "Fandible Actu"
+        "System Shutdown"
       ],
       "topics": [
         "system",
@@ -1431,9 +1439,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "29895851",
       "itunes_duration": "39:19",
-      "speakers": [
-        "Fandible Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "dungeon",
         "dragons",
@@ -1641,7 +1647,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "32553071",
       "itunes_duration": "1:01:41",
-      "speakers": [],
+      "speakers": [
+        "Dustin Mari"
+      ],
       "topics": [
         "goblins",
         "trenchcoat",
@@ -1832,9 +1840,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "62524274",
       "itunes_duration": "1:18:38",
-      "speakers": [
-        "kea Learn"
-      ],
+      "speakers": [],
       "topics": [
         "mountain",
         "trolls"
@@ -1851,9 +1857,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40402834",
       "itunes_duration": "50:21",
-      "speakers": [
-        "kea Learn"
-      ],
+      "speakers": [],
       "topics": [
         "mountain",
         "trolls"
@@ -1870,9 +1874,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "37925471",
       "itunes_duration": "46:36",
-      "speakers": [
-        "kea Learn"
-      ],
+      "speakers": [],
       "topics": [
         "mountain",
         "trolls"
@@ -2120,7 +2122,7 @@
       "enclosure_length": "36691232",
       "itunes_duration": "46:40",
       "speakers": [
-        "United States"
+        "United St"
       ],
       "topics": [
         "fallout",
@@ -2231,8 +2233,7 @@
       "itunes_duration": "41:19",
       "speakers": [
         "Pirate Borg",
-        "Davy Jones Locker",
-        "Fandible Actual"
+        "Davy Jones Locker"
       ],
       "topics": [
         "pirate",
@@ -2278,8 +2279,7 @@
       "itunes_duration": "40:15",
       "speakers": [
         "Pirate Borg",
-        "Davy Jones Locker",
-        "Fandible Actual Play Pod"
+        "Davy Jones Locker"
       ],
       "topics": [
         "pirate",
@@ -2520,9 +2520,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "5242880",
       "itunes_duration": null,
-      "speakers": [
-        "Big Little"
-      ],
+      "speakers": [],
       "topics": [
         "strange"
       ]
@@ -2559,8 +2557,7 @@
       "speakers": [
         "Star Trek",
         "Genocidal Kinyashins",
-        "Klingon Diplomacy",
-        "Fandible Actual Play Podc"
+        "Klingon Diplomacy"
       ],
       "topics": [
         "star",
@@ -2710,7 +2707,7 @@
       "enclosure_length": "43591048",
       "itunes_duration": "50:16",
       "speakers": [
-        "Consensus Reality"
+        "Two Technocratic"
       ],
       "topics": [
         "technocracy",
@@ -3026,10 +3023,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38814274",
       "itunes_duration": "53:56",
-      "speakers": [
-        "Banana Light",
-        "Captured Cargo"
-      ],
+      "speakers": [],
       "topics": [
         "banana",
         "light",
@@ -3271,7 +3265,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "57391648",
       "itunes_duration": "1:13:22",
-      "speakers": [],
+      "speakers": [
+        "Motel Ate"
+      ],
       "topics": [
         "chronicle",
         "darkness",
@@ -3484,9 +3480,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34451253",
       "itunes_duration": "45:46",
-      "speakers": [
-        "Fandible Actual"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -3502,9 +3496,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34590627",
       "itunes_duration": "47:56",
-      "speakers": [
-        "Fandible Actu"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -3632,9 +3624,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42839541",
       "itunes_duration": "1:11:56",
-      "speakers": [
-        "powerful ex-lover"
-      ],
+      "speakers": [],
       "topics": [
         "prime"
       ]
@@ -3702,9 +3692,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "59091240",
       "itunes_duration": "1:23:07",
-      "speakers": [
-        "Darkest House"
-      ],
+      "speakers": [],
       "topics": [
         "dreaming",
         "future"
@@ -3776,9 +3764,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "45725384",
       "itunes_duration": "59:35",
-      "speakers": [
-        "Fin Pin"
-      ],
+      "speakers": [],
       "topics": [
         "reward",
         "twists",
@@ -3834,9 +3820,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71616529",
       "itunes_duration": "1:14:29",
-      "speakers": [
-        "Save Dave"
-      ],
+      "speakers": [],
       "topics": [
         "save",
         "dave"
@@ -3946,9 +3930,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "147657155",
       "itunes_duration": "1:00:27",
-      "speakers": [
-        "Death Star"
-      ],
+      "speakers": [],
       "topics": [
         "soloshot",
         "star",
@@ -4224,7 +4206,7 @@
       "enclosure_length": "120523092",
       "itunes_duration": "50:12",
       "speakers": [
-        "New York City"
+        "New Yo"
       ],
       "topics": [
         "chronicle",
@@ -4261,7 +4243,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "70284755",
       "itunes_duration": "1:24:26",
-      "speakers": [],
+      "speakers": [
+        "Urban Brawl"
+      ],
       "topics": [
         "prime"
       ]
@@ -4392,8 +4376,7 @@
       "itunes_duration": "1:02:40",
       "speakers": [
         "Riders Pro Wrestling",
-        "Fandible Pro Wrestling",
-        "Riders Pro Wres"
+        "Fandible Pro Wrestling"
       ],
       "topics": [
         "rider",
@@ -4531,8 +4514,7 @@
       "itunes_duration": "52:12",
       "speakers": [
         "One Last Job",
-        "Red Jack",
-        "Fandible Actual"
+        "Red Jack"
       ],
       "topics": [
         "jack"
@@ -4910,9 +4892,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "110563911",
       "itunes_duration": "45:00",
-      "speakers": [
-        "Liam Nabaro"
-      ],
+      "speakers": [],
       "topics": [
         "soloshot",
         "star",
@@ -4968,8 +4948,7 @@
       "itunes_duration": "33:47",
       "speakers": [
         "Star Wars Force",
-        "Imperial Consulate",
-        "Star Wars Fo"
+        "Imperial Consulate"
       ],
       "topics": [
         "soloshot",
@@ -4990,7 +4969,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47773137",
       "itunes_duration": "1:04:21",
-      "speakers": [],
+      "speakers": [
+        "Rotted Cape"
+      ],
       "topics": [
         "rotted",
         "capes",
@@ -5044,9 +5025,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47032062",
       "itunes_duration": "1:06:46",
-      "speakers": [
-        "Anyone Can"
-      ],
+      "speakers": [],
       "topics": [
         "mask",
         "sirens",
@@ -5065,8 +5044,7 @@
       "enclosure_length": "45397725",
       "itunes_duration": "1:02:13",
       "speakers": [
-        "Scarlet City",
-        "Anyone Ca"
+        "Scarlet City"
       ],
       "topics": [
         "mask",
@@ -5163,9 +5141,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "114660474",
       "itunes_duration": "46:43",
-      "speakers": [
-        "Kevin MacLeod"
-      ],
+      "speakers": [],
       "topics": [
         "soloshot",
         "star",
@@ -5457,8 +5433,7 @@
       "itunes_duration": "50:42",
       "speakers": [
         "Nitrate City",
-        "Waning Gibbous",
-        "Waning Gib"
+        "Waning Gibbous"
       ],
       "topics": [
         "city",
@@ -5497,10 +5472,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51547538",
       "itunes_duration": "1:33:58",
-      "speakers": [
-        "Nice Marines",
-        "Fandible Actual Play Podc"
-      ],
+      "speakers": [],
       "topics": [
         "nice",
         "marines"
@@ -5772,7 +5744,7 @@
       "enclosure_length": "90042504",
       "itunes_duration": "2:22:02",
       "speakers": [
-        "Tiny Zombies"
+        "Tiny Zombies Taking"
       ],
       "topics": [
         "pitfall",
@@ -5790,9 +5762,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "83843833",
       "itunes_duration": "2:27:21",
-      "speakers": [
-        "Fandible Actual Play Podcas"
-      ],
+      "speakers": [],
       "topics": [
         "ihunt",
         "party"
@@ -5846,9 +5816,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "63631575",
       "itunes_duration": "1:47:31",
-      "speakers": [
-        "Black Death"
-      ],
+      "speakers": [],
       "topics": [
         "mothership",
         "black",
@@ -5866,12 +5834,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189638051",
       "itunes_duration": "1:18:25",
-      "speakers": [
-        "Chris Burlew",
-        "Chris Ing",
-        "Silhouette Zero",
-        "Mark Eberhardt"
-      ],
+      "speakers": [],
       "topics": [
         "soloshot",
         "star",
@@ -5909,7 +5872,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "71128779",
       "itunes_duration": "1:57:38",
-      "speakers": [],
+      "speakers": [
+        "Two Days",
+        "Till Retirement"
+      ],
       "topics": [
         "retirement"
       ]
@@ -5942,9 +5908,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "21223721",
       "itunes_duration": "33:32",
-      "speakers": [
-        "Fandible Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "longshot",
         "legends"
@@ -5978,9 +5942,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30567628",
       "itunes_duration": "51:47",
-      "speakers": [
-        "Party Favors"
-      ],
+      "speakers": [],
       "topics": [
         "ihunt",
         "party",
@@ -6053,9 +6015,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "30831713",
       "itunes_duration": "50:08",
-      "speakers": [
-        "Senorita Blanca"
-      ],
+      "speakers": [],
       "topics": [
         "city",
         "lady",
@@ -6132,9 +6092,7 @@
       "enclosure_length": "56897701",
       "itunes_duration": "1:37:24",
       "speakers": [
-        "Pete LePage",
-        "Justin Tyler",
-        "Alex Zalben"
+        "Starlane City"
       ],
       "topics": [
         "pitfall",
@@ -6171,12 +6129,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54853088",
       "itunes_duration": "1:41:57",
-      "speakers": [
-        "Laura Merli",
-        "Adrian Sexton",
-        "Leslie Bowen",
-        "Tiny Dungeon"
-      ],
+      "speakers": [],
       "topics": [
         "pitfall",
         "dungeon"
@@ -6249,10 +6202,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "85295841",
       "itunes_duration": "2:35:03",
-      "speakers": [
-        "Becky Goodman",
-        "Michelle Drozdick"
-      ],
+      "speakers": [],
       "topics": [
         "pitfall",
         "world"
@@ -6345,9 +6295,8 @@
       "enclosure_length": "47189778",
       "itunes_duration": "1:29:50",
       "speakers": [
-        "Katie Hammond",
-        "Chris Griggs",
-        "Sarah Nowak"
+        "Dragons Three",
+        "Fandible Pitfall"
       ],
       "topics": [
         "pitfall",
@@ -6387,9 +6336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25555539",
       "itunes_duration": "44:06",
-      "speakers": [
-        "Fandible Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "longshot",
         "legends"
@@ -6521,9 +6468,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19806349",
       "itunes_duration": "34:01",
-      "speakers": [
-        "Fandible Actual Pla"
-      ],
+      "speakers": [],
       "topics": [
         "longshot",
         "legends"
@@ -6655,8 +6600,7 @@
       "enclosure_length": "67773953",
       "itunes_duration": "1:56:27",
       "speakers": [
-        "Robotic Revivals",
-        "Rotted Cap"
+        "Robotic Revivals"
       ],
       "topics": [
         "rotted",
@@ -6747,7 +6691,7 @@
       "enclosure_length": "104790603",
       "itunes_duration": "1:49:08",
       "speakers": [
-        "crucial intel"
+        "Savage Rifts"
       ],
       "topics": [
         "savage",
@@ -6971,9 +6915,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44677673",
       "itunes_duration": "40:19",
-      "speakers": [
-        "Fandible Actual Play Podca"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -6991,8 +6933,7 @@
       "itunes_duration": "1:10:01",
       "speakers": [
         "Nitrate City",
-        "Blood Money",
-        "Blood Mo"
+        "Blood Money"
       ],
       "topics": [
         "city",
@@ -7049,8 +6990,7 @@
       "enclosure_length": "91649618",
       "itunes_duration": "1:40:24",
       "speakers": [
-        "Sound Check",
-        "Platinum Town"
+        "Sound Check"
       ],
       "topics": [
         "string",
@@ -7129,7 +7069,8 @@
       "enclosure_length": "50471258",
       "itunes_duration": "1:24:04",
       "speakers": [
-        "Kevin Macleod"
+        "Hollow Earth Expedition",
+        "El Dorado"
       ],
       "topics": [
         "hollow",
@@ -7152,8 +7093,7 @@
       "speakers": [
         "Hollow Earth Expedition",
         "El Dorado",
-        "Three Adventurers",
-        "Fandible Act"
+        "Three Adventurers"
       ],
       "topics": [
         "hollow",
@@ -7396,9 +7336,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "34039115",
       "itunes_duration": "54:53",
-      "speakers": [
-        "Daniel Allardyce"
-      ],
+      "speakers": [],
       "topics": [
         "longshot",
         "legends"
@@ -7416,7 +7354,8 @@
       "enclosure_length": "102282696",
       "itunes_duration": "2:28:25",
       "speakers": [
-        "Kevin Macleod"
+        "Intro Music",
+        "Exotic Bat"
       ],
       "topics": [
         "dungeon",
@@ -7635,9 +7574,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "23009666",
       "itunes_duration": "29:19",
-      "speakers": [
-        "Daniel Allardyce"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -7726,7 +7663,7 @@
       "enclosure_length": "22875578",
       "itunes_duration": "28:36",
       "speakers": [
-        "Daniel Allardyce"
+        "Longshot Epis"
       ],
       "topics": [
         "longshot"
@@ -7744,8 +7681,7 @@
       "enclosure_length": "40168058",
       "itunes_duration": "34:52",
       "speakers": [
-        "Aaron Catano-Saez",
-        "Ashley Fask"
+        "Aaron Catano-Saez"
       ],
       "topics": [
         "tmayc",
@@ -7801,9 +7737,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47960434",
       "itunes_duration": "53:53",
-      "speakers": [
-        "Rogue Trader"
-      ],
+      "speakers": [],
       "topics": [
         "tmayc",
         "megan",
@@ -8359,7 +8293,9 @@
       "enclosure_length": "25747967",
       "itunes_duration": "32:04",
       "speakers": [
-        "Junkfort Station"
+        "Star Wars Force",
+        "Castian Saayah",
+        "Neera Sawbright"
       ],
       "topics": [
         "soloshot",
@@ -8475,7 +8411,9 @@
       "enclosure_length": "95188830",
       "itunes_duration": "2:16:41",
       "speakers": [
-        "Santa Claus"
+        "Hollow Earth Expedition",
+        "New York City",
+        "Thanksgiving Day Parade"
       ],
       "topics": [
         "hollow",
@@ -8557,9 +8495,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "116956520",
       "itunes_duration": "2:30:27",
-      "speakers": [
-        "Fandible Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "rotted",
         "capes",
@@ -8633,8 +8569,7 @@
       "enclosure_length": "66088061",
       "itunes_duration": "1:23:40",
       "speakers": [
-        "Jeff Stormer",
-        "Rpg Mission Accomplished"
+        "Jeff Stormer"
       ],
       "topics": [
         "mission"
@@ -8702,7 +8637,8 @@
       "enclosure_length": "78268724",
       "itunes_duration": "1:39:56",
       "speakers": [
-        "Gareth Simpson"
+        "One Super Zombie",
+        "Intro Music"
       ],
       "topics": [
         "rotted",
@@ -8926,8 +8862,7 @@
       "itunes_duration": "1:37:34",
       "speakers": [
         "Mutant Chronicles",
-        "Real Jade Aliens",
-        "Mutant Chronic"
+        "Real Jade Aliens"
       ],
       "topics": [
         "mutant",
@@ -9020,9 +8955,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "40087241",
       "itunes_duration": "59:36",
-      "speakers": [
-        "Gunn Firing"
-      ],
+      "speakers": [],
       "topics": [
         "gtrt",
         "james",
@@ -9041,8 +8974,7 @@
       "enclosure_length": "75405696",
       "itunes_duration": "2:15:03",
       "speakers": [
-        "Mutant Chronicles",
-        "Jade Alien"
+        "Mutant Chronicles"
       ],
       "topics": [
         "mutant",
@@ -9101,8 +9033,7 @@
       "enclosure_length": "77101122",
       "itunes_duration": "2:20:41",
       "speakers": [
-        "Mutant Chronicles",
-        "Dark Legion"
+        "Mutant Chronicles"
       ],
       "topics": [
         "mutant",
@@ -9122,9 +9053,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194361404",
       "itunes_duration": "3:22:26",
-      "speakers": [
-        "Fandible Actual Play Pod"
-      ],
+      "speakers": [],
       "topics": [
         "hellfrost",
         "howling",
@@ -9165,8 +9094,7 @@
       "itunes_duration": "1:51:30",
       "speakers": [
         "Dead Channel",
-        "Pop Culture Massacre Two",
-        "Pop Culture Massacre"
+        "Pop Culture Massacre Two"
       ],
       "topics": [
         "dead",
@@ -9187,8 +9115,7 @@
       "enclosure_length": "202813147",
       "itunes_duration": "3:38:20",
       "speakers": [
-        "New Kids",
-        "New Kid"
+        "New Kids"
       ],
       "topics": [
         "blade",
@@ -9224,8 +9151,7 @@
       "enclosure_length": "60005703",
       "itunes_duration": "1:37:29",
       "speakers": [
-        "Urban Brawl",
-        "Fandible Actual Play Podcas"
+        "Urban Brawl"
       ],
       "topics": [
         "prime"
@@ -9284,9 +9210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "68741549",
       "itunes_duration": "1:49:20",
-      "speakers": [
-        "Fandible Actu"
-      ],
+      "speakers": [],
       "topics": [
         "coin",
         "blood",
@@ -9384,7 +9308,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "79877746",
       "itunes_duration": "2:09:42",
-      "speakers": [],
+      "speakers": [
+        "Do No Harm"
+      ],
       "topics": [
         "ward",
         "harm"
@@ -9402,8 +9328,7 @@
       "enclosure_length": "54965628",
       "itunes_duration": "1:30:19",
       "speakers": [
-        "Do No Harm",
-        "Fandible Actual Pla"
+        "Do No Harm"
       ],
       "topics": [
         "ward",
@@ -9548,9 +9473,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "61922270",
       "itunes_duration": "1:56:37",
-      "speakers": [
-        "Planet Mercen"
-      ],
+      "speakers": [],
       "topics": [
         "planet",
         "mercenary",
@@ -9568,9 +9491,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27506027",
       "itunes_duration": "44:00",
-      "speakers": [
-        "Numenera Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -9604,9 +9525,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "20335500",
       "itunes_duration": "31:52",
-      "speakers": [
-        "Numenera Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -9678,8 +9597,7 @@
       "itunes_duration": "1:33:47",
       "speakers": [
         "Big Motherf",
-        "Crab Truckers",
-        "Crab Goddess"
+        "Crab Truckers"
       ],
       "topics": [
         "crabtruckers"
@@ -9769,9 +9687,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "31765711",
       "itunes_duration": "43:20",
-      "speakers": [
-        "Castian Saayah"
-      ],
+      "speakers": [],
       "topics": [
         "soloshot",
         "star",
@@ -9791,9 +9707,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "91435000",
       "itunes_duration": "2:01:44",
-      "speakers": [
-        "Fandible Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "planet",
         "griffon"
@@ -10024,7 +9938,7 @@
       "enclosure_length": "63094078",
       "itunes_duration": "2:10:16",
       "speakers": [
-        "Kevin Macleod"
+        "No Room"
       ],
       "topics": [
         "world",
@@ -10044,7 +9958,7 @@
       "enclosure_length": "49339720",
       "itunes_duration": "1:41:36",
       "speakers": [
-        "George Romero"
+        "No Room"
       ],
       "topics": [
         "world",
@@ -10300,7 +10214,8 @@
       "enclosure_length": "36521196",
       "itunes_duration": "1:14:54",
       "speakers": [
-        "Wonder Woman"
+        "One Roundish Table",
+        "Geeky Topics Round Table"
       ],
       "topics": [
         "gtrt",
@@ -10670,9 +10585,7 @@
       "itunes_duration": "1:39:53",
       "speakers": [
         "New Boss",
-        "Omega Men",
-        "Intro Music",
-        "Cyberpunk Underworld"
+        "Omega Men"
       ],
       "topics": [
         "saint"
@@ -10822,9 +10735,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43133416",
       "itunes_duration": "1:28:41",
-      "speakers": [
-        "Kevin Macleod"
-      ],
+      "speakers": [],
       "topics": [
         "world",
         "fright",
@@ -10861,8 +10772,7 @@
       "enclosure_length": "55515851",
       "itunes_duration": "1:54:28",
       "speakers": [
-        "Retro Rad",
-        "Strike Team Alpha"
+        "Retro Rad"
       ],
       "topics": [
         "strike",
@@ -10883,7 +10793,9 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "51810849",
       "itunes_duration": "1:46:45",
-      "speakers": [],
+      "speakers": [
+        "Strike Team Savage"
+      ],
       "topics": [
         "strike",
         "team",
@@ -10926,8 +10838,7 @@
       "speakers": [
         "Savage Rifts",
         "Triple Aces Three",
-        "North America",
-        "Castle Refuge"
+        "North America"
       ],
       "topics": [
         "savage",
@@ -10993,9 +10904,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "19597274",
       "itunes_duration": "39:39",
-      "speakers": [
-        "Numenera Actual Play"
-      ],
+      "speakers": [],
       "topics": [
         "longshot"
       ]
@@ -11012,9 +10921,7 @@
       "enclosure_length": "31748785",
       "itunes_duration": "1:04:58",
       "speakers": [
-        "Pirate Booty Two",
-        "Pirate Booty",
-        "Fandible Actual Play"
+        "Pirate Booty Two"
       ],
       "topics": [
         "laser",
@@ -11071,9 +10978,7 @@
       "itunes_duration": "2:12:15",
       "speakers": [
         "Final Girl",
-        "No Vacancy Imaginary",
-        "No Vacancy",
-        "Fandible Ac"
+        "No Vacancy Imaginary"
       ],
       "topics": [
         "girl",
@@ -11111,7 +11016,7 @@
       "enclosure_length": "50931698",
       "itunes_duration": "1:44:55",
       "speakers": [
-        "Kevin Macleod"
+        "Scary Zombies"
       ],
       "topics": [
         "rotted",
@@ -11133,7 +11038,7 @@
       "enclosure_length": "46099248",
       "itunes_duration": "1:34:51",
       "speakers": [
-        "Kevin Macleod"
+        "Scary Zombies"
       ],
       "topics": [
         "rotted",
@@ -11300,7 +11205,8 @@
       "enclosure_length": "56992717",
       "itunes_duration": "1:57:33",
       "speakers": [
-        "Kevin Macleod"
+        "Patriotic Enslavement",
+        "Military Enclave"
       ],
       "topics": [
         "rotted",
@@ -11321,8 +11227,7 @@
       "enclosure_length": "57041201",
       "itunes_duration": "1:57:39",
       "speakers": [
-        "Patriotic Enslavement",
-        "United States Government"
+        "Patriotic Enslavement"
       ],
       "topics": [
         "rotted",
@@ -11343,8 +11248,7 @@
       "enclosure_length": "49729642",
       "itunes_duration": "1:42:25",
       "speakers": [
-        "Epic Raid",
-        "Fandible Actual Play Podca"
+        "Epic Raid"
       ],
       "topics": [
         "strange",
@@ -11423,9 +11327,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "55709828",
       "itunes_duration": "1:54:53",
-      "speakers": [
-        "Sixth World"
-      ],
+      "speakers": [],
       "topics": [
         "prime"
       ]
@@ -11466,27 +11368,6 @@
       "topics": [
         "prime"
       ]
-    },
-    {
-      "key": "03f83b98eb081a3d0fa47ad7c754efd0c9bae3cd",
-      "title": "Rotted Capes Ep 9: Twisted Morals 2 of 2",
-      "published_at": "2016-05-27T15:44:34+00:00",
-      "link": "https://fandible.com/rotted-capes-ep-9-twisted-morals-2-2/",
-      "description": "Heading to a hostile enclave to get much needed supplies, the team prepares for a fight against a potential Super-Z. Unfortunately, what they find there will show them that maybe zombies aren’t their worst enemy. Intro Music: Hitman by Kevin Macleod Rotted Capes Episodes Other Games The post Rotted Capes Ep 9: Twisted Morals 2 of 2 appeared first on Fandible Actual Play Podcast .",
-      "image_url": "https://fandible.com/wp-content/uploads/2021/12/fandible_Itunes.jpg",
-      "enclosure_url": "https://media.blubrry.com/fandible/fandible.com/wp-content/uploads/PodcastMp3/ActualPlay/182_RC_TwistedMorals/Fan_298_RC_TwistedMorals2of2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "70600199",
-      "itunes_duration": "2:25:54",
-      "speakers": [
-        "Kevin Macleod"
-      ],
-      "topics": [
-        "rotted",
-        "capes",
-        "twisted",
-        "moral"
-      ]
     }
   ]
 }
@@ -11495,6 +11376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — It Came From Beyond the Grave: Blackthorn Hill part 1
 - 2026-02-16 — I have a Pipe — speakers: Pipe David
 - 2026-02-03 — Nightbane: Mirrored Evil Ep 1 part 3
 - 2026-01-20 — Nightbane: Mirrored Evil Ep 1 part 2
@@ -11505,10 +11387,10 @@
 - 2025-12-08 — Triangle Agency: Making Dough part 3
 - 2025-11-25 — Triangle Agency: Making Dough part 2
 - 2025-11-18 — Triangle Agency: Making Dough part 1
-- 2025-11-11 — Cyberpunk Red: Clown Games part 3 — speakers: Cyberpunk Red, Clown Games, Fandible Actu
+- 2025-11-11 — Cyberpunk Red: Clown Games part 3 — speakers: Cyberpunk Red, Clown Games
 - 2025-11-04 — Cyberpunk Red: Clown Games part 2 — speakers: Cyberpunk Red, Clown Games
-- 2025-10-26 — Cyberpunk Red: Clown Games part 1 — speakers: Cyberpunk Red, Clown Games, Three Edgerunners, Prime Time, Fandible Actual Play Pod
-- 2025-10-19 — Star Adventurer: For Thumbs & Tacks part 3 — speakers: Star Adventurer, Fandible Actual Play Podcas
+- 2025-10-26 — Cyberpunk Red: Clown Games part 1 — speakers: Cyberpunk Red, Clown Games, Three Edgerunners, Prime Time
+- 2025-10-19 — Star Adventurer: For Thumbs & Tacks part 3 — speakers: Star Adventurer, Star Advent
 - 2025-10-13 — Star Adventurer: For Thumbs & Tacks part 2 — speakers: Star Adventurer
 - 2025-10-05 — Star Adventurer: For Thumbs & Tacks part 1 — speakers: Star Adventurer
 - 2025-09-28 — Triangle Agency: Dead Quiet Ep2 part 3 — speakers: Dead Quiet
@@ -11517,32 +11399,32 @@
 - 2025-08-10 — Vast Grimm: Broken Cosmos part 2 — speakers: Vast Grimm, Broken Cosmos, Cheating Bastard
 - 2025-08-05 — Vast Grimm: Broken Cosmos part 1 — speakers: Vast Grimm, Broken Cosmos
 - 2025-07-29 — Triangle Agency: Dead Quiet part 3 — speakers: Dead Quiet
-- 2025-07-22 — Triangle Agency: Dead Quiet part 2 — speakers: Dead Quiet
+- 2025-07-22 — Triangle Agency: Dead Quiet part 2 — speakers: Dead Quiet, Dead Qui
 - 2025-07-12 — Triangle Agency: Dead Quiet part 1 — speakers: Dead Quiet
 - 2025-07-06 — A Familiar Problem: A Totally Not Evil Journey p3 — speakers: Paladin Stronghold
 - 2025-06-21 — A Familiar Problem: A Totally Not Evil Journey p1 — speakers: Familiar Problem, Totally Not Evil Journey, Two Familiars
 - 2025-06-07 — Mothership: Dead Flames part 4
-- 2025-05-31 — Mothership: Dead Flames part 3 — speakers: Dead Flames
-- 2025-05-24 — Mothership: Dead Flames part 2 — speakers: Dead Flames, Fandible Actual Play Podcas
+- 2025-05-31 — Mothership: Dead Flames part 3
+- 2025-05-24 — Mothership: Dead Flames part 2 — speakers: Dead Flames
 - 2025-05-17 — Mothership: Dead Flames part 1 — speakers: Dead Flames
 - 2025-05-10 — Triangle Agency: Springs Eternal Ep 2 part 4 — speakers: Triangle Agency
-- 2025-04-25 — Triangle Agency: Springs Eternal Ep 2 part 3 — speakers: Triangle Agency, Fandible Actual Play
+- 2025-04-25 — Triangle Agency: Springs Eternal Ep 2 part 3 — speakers: Triangle Agency
 - 2025-04-19 — Triangle Agency: Springs Eternal Ep 2 part 2 — speakers: Triangle Agency
 - 2025-04-12 — Triangle Agency: Springs Eternal Ep 2 part 1 — speakers: Triangle Agency
 - 2025-04-05 — Triangle Agency: Springs Eternal Ep 1 part 2 — speakers: Triangle Agency, Hey Folks
-- 2025-03-28 — Triangle Agency: Springs Eternal Ep 1 part 1 — speakers: Triangle Agency, Fandible Actual Pl
+- 2025-03-28 — Triangle Agency: Springs Eternal Ep 1 part 1 — speakers: Triangle Agency
 - 2025-03-21 — Triangle Agency: Onboarding — speakers: Triangle Agency, Onboarding David
 - 2025-03-14 — Hunter the Reckoning: Dead Air Ep 2 part 3 — speakers: Reckoning Dead
 - 2025-03-10 — Hunter the Reckoning: Dead Air Ep 2 part 2 — speakers: Reckoning Dead
 - 2025-02-28 — Hunter the Reckoning: Dead Air Ep 2 part 1 — speakers: Reckoning Dead, Calimari Carnivores
-- 2025-02-22 — Super Cool Monster Hunting Club: Demon Agents part 3 — speakers: Super Cool Monster Hunting, Demon Agents, Super Cool
+- 2025-02-22 — Super Cool Monster Hunting Club: Demon Agents part 3 — speakers: Super Cool Monster Hunting, Demon Agents
 - 2025-02-15 — Super Cool Monster Hunting Club: Demon Agents part 2
 - 2025-02-07 — Interview: Jeff Stormer and The Ultimate Fantasy Character Creator — speakers: Jeff Stormer
-- 2025-02-06 — Super Cool Monster Hunting Club: Demon Agents part 1 — speakers: Super Cool Monster Hunting, Demon Agents
-- 2025-02-04 — Technocracy: Operation Silent Night Part 6
-- 2025-01-25 — Technocracy: Operation Silent Night Part 5 — speakers: Operation Silent Night Par
+- 2025-02-06 — Super Cool Monster Hunting Club: Demon Agents part 1 — speakers: Super Cool Monster Hunting, Demon Agents, Super Co
+- 2025-02-04 — Technocracy: Operation Silent Night Part 6 — speakers: Operation Silent Nig
+- 2025-01-25 — Technocracy: Operation Silent Night Part 5
 - 2025-01-18 — Technocracy: Operation Silent Night Part 4
-- 2025-01-11 — Technocracy: Operation Silent Night Part 3 — speakers: Fandible Actual Play Pod
+- 2025-01-11 — Technocracy: Operation Silent Night Part 3
 - 2025-01-04 — Technocracy: Operation Silent Night Part 2
 - 2024-12-30 — Technocracy: Operation Silent Night Part 1
 - 2024-12-21 — Never Stop Blowing Up: Island of Awesome part 3 — speakers: Never Stop Blowing Up
@@ -11550,7 +11432,7 @@
 - 2024-12-07 — Never Stop Blowing Up: Island of Awesome part 1 — speakers: Never Stop Blowing Up
 - 2024-11-29 — The Pope is Dead: Bowels & Betrayals part 2
 - 2024-11-23 — The Pope is Dead: Bowels & Betrayals part 1
-- 2024-11-16 — Technocracy: Halloween Hiatus part 3 — speakers: Halloween Hiatus, Fandible Act
+- 2024-11-16 — Technocracy: Halloween Hiatus part 3 — speakers: Halloween Hiatus
 - 2024-11-09 — Technocracy: Halloween Hiatus part 2 — speakers: Halloween Hiatus
 - 2024-11-02 — Technocracy: Halloween Hiatus part 1 — speakers: Halloween Hiatus, All Hallows Eve
 - 2024-10-26 — Pubcrawl: The Order of the Torgid Hog part 3
@@ -11558,14 +11440,14 @@
 - 2024-10-11 — Pubcrawl: The Order of the Torgid Hog part 1
 - 2024-10-05 — Shadowdark: Eyes of the Newt Ep 1 part 3
 - 2024-09-27 — Shadowdark: Eyes of the Newt Ep 1 part 2
-- 2024-09-20 — Shadowdark: Eyes of the Newt Ep 1 part 1 — speakers: Fandible Ac
-- 2024-09-14 — Hunter The Reckoning Ep 4: Dead Air Ep 1 part 3
+- 2024-09-20 — Shadowdark: Eyes of the Newt Ep 1 part 1
+- 2024-09-14 — Hunter The Reckoning Ep 4: Dead Air Ep 1 part 3 — speakers: Hunter Th
 - 2024-09-07 — Hunter The Reckoning Ep 4: Dead Air Ep 1 part 2
 - 2024-08-30 — Hunter The Reckoning Ep 4: Dead Air Ep 1 part 1
-- 2024-08-23 — System Shutdown: Chadicide part 2 of 2 — speakers: System Shutdown, Fandible Actu
+- 2024-08-23 — System Shutdown: Chadicide part 2 of 2 — speakers: System Shutdown
 - 2024-08-17 — System Shutdown: Chadicide part 1 of 2 — speakers: System Shutdown
 - 2024-08-09 — Dungeons & Dragons: Hell & High Water Ep 2 part 2 of 2
-- 2024-08-03 — Dungeons & Dragons: Hell & High Water Ep 2 part 1 of 2 — speakers: Fandible Actual Play
+- 2024-08-03 — Dungeons & Dragons: Hell & High Water Ep 2 part 1 of 2
 - 2024-07-27 — Wrath & Glory: Side Kick Quest Ep 1 part 2 of 2
 - 2024-07-19 — Wrath & Glory: Side Kick Quest Ep 1 part 1 of 2
 - 2024-07-13 — Dungeons & Dragons: Hell or High Water Ep 1 part 2 of 2
@@ -11576,7 +11458,7 @@
 - 2024-06-08 — Stoneburner: Rot and Roll Ep 1 part 3 of 3
 - 2024-05-31 — Stoneburner: Rot and Roll Ep 1 part 2 of 3
 - 2024-05-24 — Stoneburner: Rot and Roll Ep 1 part 1 of 3
-- 2024-05-17 — 3 Goblins in a Trenchcoat: Nu City
+- 2024-05-17 — 3 Goblins in a Trenchcoat: Nu City — speakers: Dustin Mari
 - 2024-05-10 — Paranoia: Cloverleafield Ep 2 part 3 of 3
 - 2024-05-03 — Paranoia: Cloverleafield Ep 2 part 2 of 3
 - 2024-04-26 — Paranoia: Cloverleafield Ep 2 part 1 of 3
@@ -11587,9 +11469,9 @@
 - 2024-03-22 — Gun & Slinger: Broken Hearts Ep 4 part 3 of 3
 - 2024-03-16 — Gun & Slinger: Broken Hearts Ep 4 part 2 of 3
 - 2024-03-09 — Gun & Slinger: Broken Hearts Ep 4 part 1 of 3
-- 2024-03-01 — Kea: Mountain Trolls Ep 1 part 3 of 3 — speakers: kea Learn
-- 2024-02-24 — Kea: Mountain Trolls Ep 1 part 2 of 3 — speakers: kea Learn
-- 2024-02-16 — Kea: Mountain Trolls Ep 1 part 1 of 3 — speakers: kea Learn
+- 2024-03-01 — Kea: Mountain Trolls Ep 1 part 3 of 3
+- 2024-02-24 — Kea: Mountain Trolls Ep 1 part 2 of 3
+- 2024-02-16 — Kea: Mountain Trolls Ep 1 part 1 of 3
 - 2024-02-09 — The Union Prevails: Halloween Havoc Ep 1 part 3 of 3
 - 2024-02-02 — The Union Prevails: Halloween Havoc Ep 1 part 2 of 3
 - 2024-01-26 — The Union Prevails: Halloween Havoc Ep 1 part 1 of 3
@@ -11603,15 +11485,15 @@
 - 2023-12-01 — The Strange Ep 13: Dont be Tim part 2 of 3
 - 2023-11-24 — The Strange Ep 13: Dont be Tim part 1 of 3
 - 2023-11-17 — Fallout: Down East Ep 1 part 2 of 2
-- 2023-11-10 — Fallout: Down East Ep 1 part 1 of 2 — speakers: United States
+- 2023-11-10 — Fallout: Down East Ep 1 part 1 of 2 — speakers: United St
 - 2023-11-03 — Gun & Slinger: Broken Hearts Ep 3 part 4 of 4
 - 2023-10-27 — Gun & Slinger: Broken Hearts Ep 3 part 3 of 4
 - 2023-10-20 — Gun & Slinger: Broken Hearts Ep 3 part 2 of 4
 - 2023-10-13 — Gun & Slinger: Broken Hearts Ep 3 part 1 of 4
 - 2023-10-06 — Pirate Borg: Davy Jones Locker part 4 of 4 — speakers: Pirate Borg, Davy Jones Locker
-- 2023-09-29 — Pirate Borg: Davy Jones Locker part 3 of 4 — speakers: Pirate Borg, Davy Jones Locker, Fandible Actual
+- 2023-09-29 — Pirate Borg: Davy Jones Locker part 3 of 4 — speakers: Pirate Borg, Davy Jones Locker
 - 2023-09-22 — Pirate Borg: Davy Jones Locker part 2 of 4 — speakers: Pirate Borg, Davy Jones Locker
-- 2023-09-15 — Pirate Borg: Davy Jones Locker part 1 of 4 — speakers: Pirate Borg, Davy Jones Locker, Fandible Actual Play Pod
+- 2023-09-15 — Pirate Borg: Davy Jones Locker part 1 of 4 — speakers: Pirate Borg, Davy Jones Locker
 - 2023-09-08 — Stealing Stories from the Devil: Tower of Lies Ep 1 part 4 of 4 — speakers: Stealing Stories
 - 2023-09-01 — Stealing Stories from the Devil: Tower of Lies Ep 1 part 3 of 4 — speakers: Stealing Stories
 - 2023-08-25 — Stealing Stories from the Devil: Tower of Lies Ep 1 part 2 of 4 — speakers: Stealing Stories
@@ -11624,9 +11506,9 @@
 - 2023-07-07 — End of the World: Visages part 3 of 3
 - 2023-06-30 — End of the World: Visages part 2 of 3
 - 2023-06-23 — End of the World: Visages part 1 of 3
-- 2023-06-16 — The Strange Ep 12: Big Little part 2 of 2 — speakers: Big Little
+- 2023-06-16 — The Strange Ep 12: Big Little part 2 of 2
 - 2023-06-09 — The Strange Ep 12: Big Little part 1 of 2 — speakers: Big Little
-- 2023-06-02 — Star Trek: The D Team part 2 of 2 — speakers: Star Trek, Genocidal Kinyashins, Klingon Diplomacy, Fandible Actual Play Podc
+- 2023-06-02 — Star Trek: The D Team part 2 of 2 — speakers: Star Trek, Genocidal Kinyashins, Klingon Diplomacy
 - 2023-05-26 — Star Trek: The D Team part 1 of 2 — speakers: Star Trek
 - 2023-05-19 — Offworlders: Tropes and Tribulations 2 of 2
 - 2023-05-12 — Offworlders: Tropes and Tribulations 1 of 2
@@ -11634,7 +11516,7 @@
 - 2023-04-28 — Dungeons & Dragons: The Unknowning Knaves Ep 2 part 1 of 2
 - 2023-04-21 — Technocracy: The Feeling is Mutual Ep 2 part 3 of 3
 - 2023-04-14 — Technocracy: The Feeling is Mutual Ep 2 part 2 of 3
-- 2023-04-07 — Technocracy: The Feeling is Mutual Ep 2 part 1 of 3 — speakers: Consensus Reality
+- 2023-04-07 — Technocracy: The Feeling is Mutual Ep 2 part 1 of 3 — speakers: Two Technocratic
 - 2023-03-31 — Dungeons & Dragons: The Unknowning Knaves Ep 1 part 2 of 2
 - 2023-03-24 — Dungeons & Dragons: The Unknowning Knaves Ep 1 part 1 of 2
 - 2023-03-17 — Technocracy: The Feeling Is Mutual Ep 1 part 2 of 2
@@ -11651,7 +11533,7 @@
 - 2022-12-23 — Unhallowed Metropolis: St Johns Public House Ep 2 part 3 of 3
 - 2022-12-16 — Unhallowed Metropolis: St Johns Public House Ep 2 part 2 of 3
 - 2022-12-09 — Unhallowed Metropolis: St Johns Public House Ep 2 part 1 of 3
-- 2022-12-02 — Banana Light: Captured Cargo part 3 of 3 — speakers: Banana Light, Captured Cargo
+- 2022-12-02 — Banana Light: Captured Cargo part 3 of 3
 - 2022-11-26 — Banana Light: Captured Cargo part 2 of 3
 - 2022-11-18 — Banana Light: Captured Cargo part 1 of 3 — speakers: Banana Light, Captured Cargo
 - 2022-11-04 — Changeling the Dreaming: The Once and Future Ep 8 part 3 of 4
@@ -11665,7 +11547,7 @@
 - 2022-09-09 — Longshot Ep 141
 - 2022-09-02 — Longshot Ep 140
 - 2022-08-26 — Chronicles of Darkness: Motel Ate 2 of 2 — speakers: Motel Ate
-- 2022-08-19 — Chronicles of Darkness: Motel Ate 1 of 2
+- 2022-08-19 — Chronicles of Darkness: Motel Ate 1 of 2 — speakers: Motel Ate
 - 2022-08-12 — Unhallowed Metropolis: St John’s Public House Ep 1 part 2 of 2 — speakers: St John’s Public House
 - 2022-08-05 — Unhallowed Metropolis: St John’s Public House Ep 1 part 1 of 2 — speakers: St John’s Public House
 - 2022-07-29 — Girl Genius: The Mist of Misadventure Ep 1 — speakers: Girl Genius
@@ -11677,32 +11559,32 @@
 - 2022-06-17 — Shadowrun: Prime Ep 14 part 1 of 2
 - 2022-06-11 — Longshot Ep 139
 - 2022-06-03 — Longshot Ep 138
-- 2022-05-27 — Longshot Ep 137 — speakers: Fandible Actual
-- 2022-05-20 — Longshot Ep 136 — speakers: Fandible Actu
+- 2022-05-27 — Longshot Ep 137
+- 2022-05-20 — Longshot Ep 136
 - 2022-05-13 — Shadowrun: Prime Ep 13 part 2 of 2
 - 2022-05-06 — Shadowrun: Prime Ep 13 part 1 of 2
 - 2022-04-29 — ORCBORG: Heavy Metal Havoc 2 of 2 — speakers: Heavy Metal Havoc
 - 2022-04-21 — ORCBORG: Heavy Metal Havoc 1 of 2 — speakers: Heavy Metal Havoc
 - 2022-04-15 — Core Micro: Daytrippers 2 of 2 — speakers: Core Micro
 - 2022-04-08 — Core Micro: Daytrippers 1 of 2
-- 2022-04-02 — Shadowrun: Prime Ep 12 part 2 of 2 — speakers: powerful ex-lover
+- 2022-04-02 — Shadowrun: Prime Ep 12 part 2 of 2
 - 2022-03-25 — Shadowrun: Prime Ep 12 part 1 of 2
 - 2022-03-18 — Nightfell: The Price of Comfort Ep 1 part 2 of 2
 - 2022-03-10 — Nightfell: The Price of Comfort Ep 1 part 1 of 2
-- 2022-03-04 — Changeling the Dreaming: The Once and Future Ep 7 part 2 of 2 — speakers: Darkest House
+- 2022-03-04 — Changeling the Dreaming: The Once and Future Ep 7 part 2 of 2
 - 2022-02-25 — Changeling the Dreaming: The Once and Future Ep 7 part 1 of 2
 - 2022-02-18 — One Shot: The Revolver 2 of 2 — speakers: One Shot
 - 2022-02-11 — One Shot: The Revolver 1 of 2 — speakers: One Shot
-- 2022-02-05 — Rewards & Twists: King of the Ring 2 of 2 — speakers: Fin Pin
+- 2022-02-05 — Rewards & Twists: King of the Ring 2 of 2
 - 2022-01-28 — Rewards & Twists: King of the Ring 1 of 2
 - 2022-01-15 — Never Tell Me The Odds: Reckless Spending 1 of 2 — speakers: Reckless Spending
-- 2022-01-07 — Save Dave 2 of 2 — speakers: Save Dave
+- 2022-01-07 — Save Dave 2 of 2
 - 2021-12-31 — Save Dave 1 of 2 — speakers: Save Dave
 - 2021-12-24 — Atomic Robo: Small Town Stoners 2 of 2 — speakers: Atomic Robo Small Town
 - 2021-12-17 — Atomic Robo: Small Town Stoners 1 of 2 — speakers: Atomic Robo Small Town
 - 2021-12-10 — Corethulu: Polaris Part 2 of 2
 - 2021-12-03 — Corethulu: Polaris Part 1 of 2
-- 2021-12-02 — SoloShot: Star Wars Force and Destiny, Episode 4×24 — speakers: Death Star
+- 2021-12-02 — SoloShot: Star Wars Force and Destiny, Episode 4×24
 - 2021-11-20 — Changeling the Dreaming: The Once and Future Ep 6 part 1 of 2
 - 2021-11-12 — Tiny Dungeon: Servants of the Leech God 2 of 2 — speakers: Tiny Dungeon, Leech God
 - 2021-11-11 — SoloShot: Star Wars Force and Destiny, Episode 4×23
@@ -11716,23 +11598,23 @@
 - 2021-10-01 — Changeling the Dreaming: The Once and Future Ep 5 part 1 of 2 — speakers: New York City Fae
 - 2021-09-24 — For Coin and Blood: The Chalice Job Ep 2
 - 2021-09-23 — SoloShot: Star Wars Force and Destiny, Episode 4×20 — speakers: Castian Saayah
-- 2021-09-09 — Chronicles of Darkness: Off the Rails Part 2 of 2 — speakers: New York City
+- 2021-09-09 — Chronicles of Darkness: Off the Rails Part 2 of 2 — speakers: New Yo
 - 2021-09-03 — Chronicles of Darkness: Off the Rails Part 1 of 2
-- 2021-08-27 — Shadowrun: Prime Ep 11 part 1 of 2
+- 2021-08-27 — Shadowrun: Prime Ep 11 part 1 of 2 — speakers: Urban Brawl
 - 2021-08-20 — Heresy & Faith: Keys and Klutzes
 - 2021-08-13 — For Coin and Blood: The Chalice Job Ep 1 part 2 of 2
 - 2021-07-30 — Chronicles of Darkness: The Long Drive, Ep 3 Part 2 of 2
 - 2021-07-23 — Chronicles of Darkness: The Long Drive, Ep 3 Part 1 of 2
 - 2021-07-16 — We Are The Cartoon Heroes: Plant Mercenaries 2 of 2
 - 2021-07-09 — We Are The Cartoon Heroes: Plant Mercenaries 1 of 2
-- 2021-07-02 — Riders Pro Wrestling 2 of 2 — speakers: Riders Pro Wrestling, Fandible Pro Wrestling, Riders Pro Wres
+- 2021-07-02 — Riders Pro Wrestling 2 of 2 — speakers: Riders Pro Wrestling, Fandible Pro Wrestling
 - 2021-06-25 — Riders Pro Wrestling 1 of 2 — speakers: Riders Pro Wrestling
 - 2021-06-18 — Dungeons & Dragons: Special Investigators Ep 1 part 2 of 2
 - 2021-06-11 — Dungeons & Dragons: Special Investigators Ep 1 part 1 of 2
 - 2021-06-04 — Wrath & Glory: Dishonorable Discharge 2 of 2 — speakers: Dishonorable Discharge
 - 2021-05-28 — Wrath & Glory: Dishonorable Discharge 1 of 2 — speakers: Dishonorable Discharge
 - 2021-05-21 — One Last Job: Red Jack 2 of 2 — speakers: One Last Job, Red Jack
-- 2021-05-14 — One Last Job: Red Jack 1 of 2 — speakers: One Last Job, Red Jack, Fandible Actual
+- 2021-05-14 — One Last Job: Red Jack 1 of 2 — speakers: One Last Job, Red Jack
 - 2021-05-07 — Straight to VHS: Ex Mortis 3 of 3 — speakers: Ex Mortis
 - 2021-05-06 — SoloShot: Star Wars Force and Destiny, Episode 4×19
 - 2021-04-30 — Straight to VHS: Ex Mortis 2 of 3 — speakers: Ex Mortis
@@ -11752,20 +11634,20 @@
 - 2021-02-12 — Into The Odd: The Shiniest of Ruins 2 of 2
 - 2021-02-05 — Into The Odd: The Shiniest of Ruins 1 of 2
 - 2021-01-29 — End of the World: Nanopocalypse 2 of 2 — speakers: New York
-- 2021-01-28 — SoloShot: Star Wars Force and Destiny, Episode 4×15 — speakers: Liam Nabaro
+- 2021-01-28 — SoloShot: Star Wars Force and Destiny, Episode 4×15
 - 2021-01-22 — End of the World: Nanopocalypse 1 of 2
 - 2021-01-15 — Call of Cthulhu: Bon Voyage Ep 1
-- 2021-01-14 — SoloShot: Star Wars Force and Destiny, Episode 4×14 — speakers: Star Wars Force, Imperial Consulate, Star Wars Fo
-- 2021-01-08 — Rotted Capes Ep 18: Twas the Night 3 of 3
+- 2021-01-14 — SoloShot: Star Wars Force and Destiny, Episode 4×14 — speakers: Star Wars Force, Imperial Consulate
+- 2021-01-08 — Rotted Capes Ep 18: Twas the Night 3 of 3 — speakers: Rotted Cape
 - 2020-12-31 — Rotted Capes Ep 18: Twas the Night 2 of 3
 - 2020-12-25 — Rotted Capes Ep 18: Twas the Night 1 of 3
-- 2020-12-18 — Anyone Can Wear The Mask: Sirens and Silence 2 of 2 — speakers: Anyone Can
-- 2020-12-11 — Anyone Can Wear The Mask: Sirens and Silence 1 of 2 — speakers: Scarlet City, Anyone Ca
+- 2020-12-18 — Anyone Can Wear The Mask: Sirens and Silence 2 of 2
+- 2020-12-11 — Anyone Can Wear The Mask: Sirens and Silence 1 of 2 — speakers: Scarlet City
 - 2020-12-04 — 3 Goblins in Trenchcoat: Goblins of Necros
 - 2020-12-03 — SoloShot: Star Wars Force and Destiny, Episode 4×13
 - 2020-11-27 — Mork Borg: The Cube Violet 2 of 2 — speakers: Mork Borg
 - 2020-11-20 — Mork Borg: The Cube Violet 1 of 2
-- 2020-11-19 — SoloShot: Star Wars Force and Destiny, Episode 4×12 — speakers: Kevin MacLeod
+- 2020-11-19 — SoloShot: Star Wars Force and Destiny, Episode 4×12
 - 2020-11-13 — Slugblasters: The Diamond Pyramid 2 of 2
 - 2020-11-06 — Slugblasters: The Diamond Pyramid 1 of 2
 - 2020-11-05 — SoloShot: Star Wars Force and Destiny, Episode 4×11
@@ -11781,9 +11663,9 @@
 - 2020-08-21 — We Build Down part 1 of 2
 - 2020-08-13 — Nitrate City: Get the Torches and Pitchforks Part 3 of 3 — speakers: Nitrate City
 - 2020-08-06 — Nitrate City: Get the Torches and Pitchforks Part 2 of 3
-- 2020-07-31 — Nitrate City: Get the Torches and Pitchforks Part 1 of 3 — speakers: Nitrate City, Waning Gibbous, Waning Gib
+- 2020-07-31 — Nitrate City: Get the Torches and Pitchforks Part 1 of 3 — speakers: Nitrate City, Waning Gibbous
 - 2020-07-24 — Tiny Supers: The Dastardly Deeds of Doctor Dogberry
-- 2020-07-17 — Nice Marines — speakers: Nice Marines, Fandible Actual Play Podc
+- 2020-07-17 — Nice Marines
 - 2020-07-10 — Hellfrost: The Howling North Ep 6 part 2 of 2
 - 2020-07-02 — SoloShot: Star Wars Force and Destiny, Episode 4×10
 - 2020-06-26 — Axes & Anvils: The Dwarves of Keenings Vengeance 2 of 2 — speakers: Keenings Vengeance
@@ -11797,58 +11679,58 @@
 - 2020-05-28 — SoloShot: Star Wars Force and Destiny, Episode 4×08
 - 2020-05-27 — Pitfall: Scrolls and Swords — speakers: Swords Four
 - 2020-05-22 — Afterlife: The Garden of Memories 1 of 2
-- 2020-05-20 — Pitfall: Tiny Zombies — speakers: Tiny Zombies
-- 2020-05-15 — iHunt: Party Favors Ep 2 part 2 — speakers: Fandible Actual Play Podcas
+- 2020-05-20 — Pitfall: Tiny Zombies — speakers: Tiny Zombies Taking
+- 2020-05-15 — iHunt: Party Favors Ep 2 part 2
 - 2020-05-14 — SoloShot: Star Wars Force and Destiny, Episode 4×07
 - 2020-05-07 — IHunt: Party Favors Ep 2 part 1
-- 2020-05-01 — Mothership: Black Death — speakers: Black Death
-- 2020-04-30 — SoloShot: Star Wars Force and Destiny, Bonus Interview and Preview — speakers: Chris Burlew, Chris Ing, Silhouette Zero, Mark Eberhardt
+- 2020-05-01 — Mothership: Black Death
+- 2020-04-30 — SoloShot: Star Wars Force and Destiny, Bonus Interview and Preview
 - 2020-04-21 — Longshot Legends Ep 18
-- 2020-04-17 — Shadowrun: Two Days ‘Till Retirement 1 of 2
+- 2020-04-17 — Shadowrun: Two Days ‘Till Retirement 1 of 2 — speakers: Two Days, Till Retirement
 - 2020-04-10 — The End of the World: War Between Worlds Part 2 of 2
-- 2020-04-07 — Longshot Legends Ep 17 — speakers: Fandible Actual Play
+- 2020-04-07 — Longshot Legends Ep 17
 - 2020-04-02 — The End of the World: War Between Worlds Part 1 of 2
-- 2020-03-27 — IHunt: Party Favors — speakers: Party Favors
+- 2020-03-27 — IHunt: Party Favors
 - 2020-03-24 — Longshot Legends Ep 16
 - 2020-03-20 — Nitrate City: Possessed by the Lady in White Part 2 of 2
 - 2020-03-19 — SoloShot: Star Wars Force and Destiny, Episode 4×06
-- 2020-03-13 — Nitrate City: Possessed by the Lady in White part 1 of 2 — speakers: Senorita Blanca
+- 2020-03-13 — Nitrate City: Possessed by the Lady in White part 1 of 2
 - 2020-03-10 — Longshot Ep 135 — speakers: Grand Debatorium
 - 2020-03-06 — Hellfrost: The Howling North Ep 5 part 2 of 2 — speakers: Beardless Cal
 - 2020-03-05 — SoloShot: Star Wars Force and Destiny, Episode 4×05
-- 2020-03-04 — Pitfall: Prowlers & Paragons — speakers: Pete LePage, Justin Tyler, Alex Zalben
+- 2020-03-04 — Pitfall: Prowlers & Paragons — speakers: Starlane City
 - 2020-02-27 — Hellfrost: The Howling North Ep 5 part 1 of 2
-- 2020-02-26 — Pitfall: Tiny Dungeon — speakers: Laura Merli, Adrian Sexton, Leslie Bowen, Tiny Dungeon
+- 2020-02-26 — Pitfall: Tiny Dungeon
 - 2020-02-25 — Longshot Ep 134
 - 2020-02-21 — Kids on Bikes: Big Trouble at Circle K Ep 2 part 2 of 2 — speakers: Big Trouble
 - 2020-02-20 — SoloShot: Star Wars Force and Destiny, Episode 4×04
-- 2020-02-18 — Pitfall: The End of the World — speakers: Becky Goodman, Michelle Drozdick
+- 2020-02-18 — Pitfall: The End of the World
 - 2020-02-12 — Pitfall: Star Trek Adventures — speakers: Trek Adventures
 - 2020-02-10 — Longshot Ep 133
 - 2020-02-06 — We Are The Cartoon Heroes: Cybercorns
 - 2020-02-06 — SoloShot: Star Wars Force and Destiny, Episode 4×03
-- 2020-02-05 — Pitfall: Dungeons & Dragons — speakers: Katie Hammond, Chris Griggs, Sarah Nowak
+- 2020-02-05 — Pitfall: Dungeons & Dragons — speakers: Dragons Three, Fandible Pitfall
 - 2020-01-30 — Fine Familiars: Cherubs & Chicanery — speakers: Fine Familiars, Chicanery Two
-- 2020-01-28 — Longshot Legends Ep 15 — speakers: Fandible Actual Play
+- 2020-01-28 — Longshot Legends Ep 15
 - 2020-01-23 — SoloShot: Star Wars Force and Destiny, Episode 4×02 — speakers: Ord Mantell
 - 2020-01-17 — The One Ring: The Ancestor Sword
 - 2020-01-14 — Longshot Legends Ep 14
 - 2020-01-10 — Spire: The Demon Bell 2 of 2
 - 2020-01-09 — SoloShot: Star Wars Force and Destiny, Episode 4×01 — speakers: Castian Saayah
 - 2020-01-03 — Spire: The Demon Bell 1 of 2
-- 2019-12-31 — Longshot Legends Ep 13 — speakers: Fandible Actual Pla
+- 2019-12-31 — Longshot Legends Ep 13
 - 2019-12-26 — Nitrate City: A Killer Christmas Party 2 of 2 — speakers: Nitrate City, Killer Christmas Party, Lil Nicky
 - 2019-12-20 — Nitrate City: A Killer Christmas Party 1 of 2
 - 2019-12-17 — Longshot Legends Ep 12
 - 2019-12-13 — Kids on Bikes: Big Trouble At The Circle K
 - 2019-12-02 — Longshot Ep 132
 - 2019-11-29 — Red Market: High Score part 1 of 2 — speakers: Red Market, High Score
-- 2019-11-21 — Rotted Capes Ep 17: Robotic Revivals 2 of 2 — speakers: Robotic Revivals, Rotted Cap
+- 2019-11-21 — Rotted Capes Ep 17: Robotic Revivals 2 of 2 — speakers: Robotic Revivals
 - 2019-11-19 — Longshot Ep 131
 - 2019-11-15 — Rotted Capes Ep 17: Robotic Revivals 1 of 2
 - 2019-11-08 — Savage Rifts: Triple Aces Ep 2 part 2
 - 2019-11-05 — Longshot Ep 130
-- 2019-10-31 — Savage Rifts: Triple Aces Ep 2 part 1 — speakers: crucial intel
+- 2019-10-31 — Savage Rifts: Triple Aces Ep 2 part 1 — speakers: Savage Rifts
 - 2019-10-25 — Final Girl: Fang Kappa Kappa — speakers: Fang Kappa Kappa
 - 2019-10-22 — Longshot Ep 129
 - 2019-10-18 — Changeling the Dreaming: The Once and Future Ep 4 part 2 of 2
@@ -11860,16 +11742,16 @@
 - 2019-09-23 — GTRT Ep 42: The Player Choice Episode.
 - 2019-09-20 — Cyberpunk Red: The Emerald City Heist 1 of 2 — speakers: Cyberpunk Red
 - 2019-09-13 — Tiny Dungeon: Bear & Goblin’s Bodacious Adventure — speakers: Tiny Dungeon, Bear Monk, Goblin Wizard
-- 2019-09-09 — Longshot Ep 126 — speakers: Fandible Actual Play Podca
-- 2019-09-06 — Nitrate City: Blood Money 2 of 2 — speakers: Nitrate City, Blood Money, Blood Mo
+- 2019-09-09 — Longshot Ep 126
+- 2019-09-06 — Nitrate City: Blood Money 2 of 2 — speakers: Nitrate City, Blood Money
 - 2019-08-30 — Nitrate City: Blood Money 1 of 2 — speakers: Nitrate City, Blood Money
 - 2019-08-27 — Longshot Ep 125
-- 2019-08-23 — Six String Samurai Ep 1: Sound Check 2 of 2 — speakers: Sound Check, Platinum Town
+- 2019-08-23 — Six String Samurai Ep 1: Sound Check 2 of 2 — speakers: Sound Check
 - 2019-08-15 — Six String Samurai Ep 1: Sound Check 1 of 2 — speakers: Sound Check
 - 2019-08-15 — SoloShot: Star Wars Force and Destiny, Episode 3×22 — speakers: Star Wars Force, Light Side
 - 2019-08-13 — Longshot Ep 124
-- 2019-08-08 — Hollow Earth Expedition: El Dorado 2 of 2 — speakers: Kevin Macleod
-- 2019-08-01 — Hollow Earth Expedition: El Dorado 1 of 2 — speakers: Hollow Earth Expedition, El Dorado, Three Adventurers, Fandible Act
+- 2019-08-08 — Hollow Earth Expedition: El Dorado 2 of 2 — speakers: Hollow Earth Expedition, El Dorado
+- 2019-08-01 — Hollow Earth Expedition: El Dorado 1 of 2 — speakers: Hollow Earth Expedition, El Dorado, Three Adventurers
 - 2019-08-01 — SoloShot: Star Wars Force and Destiny, Episode 3×21
 - 2019-07-26 — Monarchies of Mau: The Shadow Over Vilar 2 of 2
 - 2019-07-25 — SoloShot: Star Wars Force and Destiny, Episode 3×20 — speakers: Castian Saayah
@@ -11881,8 +11763,8 @@
 - 2019-06-27 — SoloShot: Star Wars Force and Destiny, Episode 3×18
 - 2019-06-21 — Tiny Frontiers: The Tiniest Bounty Hunters — speakers: Tiny Frontiers
 - 2019-06-20 — SoloShot: Star Wars Force and Destiny, Episode 3×17
-- 2019-06-11 — Longshot Legends Ep 11 — speakers: Daniel Allardyce
-- 2019-06-07 — Dungeons & Dragons: From Darkness Comes Ep 3 part 1 of 2 — speakers: Kevin Macleod
+- 2019-06-11 — Longshot Legends Ep 11
+- 2019-06-07 — Dungeons & Dragons: From Darkness Comes Ep 3 part 1 of 2 — speakers: Intro Music, Exotic Bat
 - 2019-06-06 — SoloShot: Star Wars Force and Destiny, Episode 3×16
 - 2019-05-30 — We are the Cartoon Heroes: The Cyborg Dragons
 - 2019-05-30 — SoloShot: Star Wars Force and Destiny, Episode 3×15
@@ -11894,16 +11776,16 @@
 - 2019-05-14 — Longshot Ep 122
 - 2019-05-09 — Dungeons & Dragons: From Darkness Comes Ep 2 part 2 of 2
 - 2019-05-09 — SoloShot: Star Wars Force and Destiny, Episode 3×13
-- 2019-05-07 — Longshot Ep 121 — speakers: Daniel Allardyce
+- 2019-05-07 — Longshot Ep 121
 - 2019-05-03 — Dungeons & Dragons: From Darkness Comes Ep 2 part 1 of 2
 - 2019-05-02 — SoloShot: Star Wars Force and Destiny, Episode 3×12
 - 2019-04-30 — Longshot Ep 120
 - 2019-04-25 — Unhallowed Metropolis: A Pound of Flesh Ep 20 part 2 of 2
-- 2019-04-23 — Longshot Ep 119 — speakers: Daniel Allardyce
-- 2019-04-22 — TMAYC Ep 8: Aaron Catano-Saez — speakers: Aaron Catano-Saez, Ashley Fask
+- 2019-04-23 — Longshot Ep 119 — speakers: Longshot Epis
+- 2019-04-22 — TMAYC Ep 8: Aaron Catano-Saez — speakers: Aaron Catano-Saez
 - 2019-04-18 — Unhallowed Metropolis: A Pound of Flesh Ep 20 part 1 of 2
 - 2019-04-16 — Longshot Ep 118 Three Short Stories
-- 2019-04-15 — TMAYC Ep 7: Megan & Aser Tolentino — speakers: Rogue Trader
+- 2019-04-15 — TMAYC Ep 7: Megan & Aser Tolentino
 - 2019-04-12 — Dungeons & Dragons: From Darkness Comes Ep 1 part 2 of 2
 - 2019-04-05 — Dungeons & Dragons: From Darkness Comes Ep 1 part 1 of 2
 - 2019-03-29 — Capers Noir: Murder & Moxie
@@ -11932,25 +11814,25 @@
 - 2018-12-14 — Changeling the Dreaming: The Once and Future Ep 1 part 2 of 2 — speakers: Charles Dekay School
 - 2018-12-13 — SoloShot: Star Wars Force and Destiny, Episode 3×06 — speakers: Star Wars Force
 - 2018-12-07 — Changeling the Dreaming: The Once and Future Ep 1 part 1 of 2 — speakers: Charles Takei
-- 2018-12-06 — SoloShot: Star Wars Force and Destiny, Episode 3×05 — speakers: Junkfort Station
+- 2018-12-06 — SoloShot: Star Wars Force and Destiny, Episode 3×05 — speakers: Star Wars Force, Castian Saayah, Neera Sawbright
 - 2018-11-30 — Crystal Heart 2 of 2 — speakers: Crystal Heart
 - 2018-11-29 — SoloShot: Star Wars Force and Destiny, Episode 3×04
 - 2018-11-23 — Crystal Heart 1 of 2 — speakers: Crystal Heart, Four Syn
 - 2018-11-20 — Longshot Ep 117
 - 2018-11-16 — Kickstarter Interview: Die Laughing! — speakers: Craig Cambell
-- 2018-11-16 — Hollow Earth Expedition : Mayhem at Macy’s — speakers: Santa Claus
+- 2018-11-16 — Hollow Earth Expedition : Mayhem at Macy’s — speakers: Hollow Earth Expedition, New York City, Thanksgiving Day Parade
 - 2018-11-15 — SoloShot: Star Wars Force and Destiny, Episode 3×03
 - 2018-11-09 — Dungeons & Dragons: Dream Warriors 2 of 2 — speakers: Dream Warriors
 - 2018-11-08 — SoloShot: Star Wars Force and Destiny, Episode 3×02
-- 2018-10-26 — Rotted Capes Ep 15: Secrets of Nightbane — speakers: Fandible Actual Play
+- 2018-10-26 — Rotted Capes Ep 15: Secrets of Nightbane
 - 2018-10-23 — Longshot Ep 113 — speakers: Koen's troublesome brother
 - 2018-10-19 — A Single Moment: Jedi Knights — speakers: Jedi Knights
 - 2018-10-16 — Longshot Ep 112
-- 2018-10-12 — Mission: Accomplished! — speakers: Jeff Stormer, Rpg Mission Accomplished
+- 2018-10-12 — Mission: Accomplished! — speakers: Jeff Stormer
 - 2018-10-09 — Longshot Ep 111
 - 2018-10-05 — Trashkin: Servants of the Dark Lord
 - 2018-10-02 — Longshot Ep 110
-- 2018-09-28 — Rotted Capes Ep 14: Battle for Nightbane 2 of 2 — speakers: Gareth Simpson
+- 2018-09-28 — Rotted Capes Ep 14: Battle for Nightbane 2 of 2 — speakers: One Super Zombie, Intro Music
 - 2018-09-25 — Longshot Ep 109
 - 2018-09-21 — Rotted Capes Ep 14: Battle for Nightbane 1 of 2
 - 2018-09-18 — Longshot Ep 108 — speakers: Glub Glub
@@ -11962,31 +11844,31 @@
 - 2018-08-28 — Longshot Ep 105
 - 2018-08-24 — Blades in the Dark: New Kids on the Dock Ep 2 — speakers: New Kids, Carrion Crows
 - 2018-08-21 — Longshot Ep 104
-- 2018-08-17 — Mutant Chronicles: The Real Jade Aliens Ep 4 Part 2 — speakers: Mutant Chronicles, Real Jade Aliens, Mutant Chronic
+- 2018-08-17 — Mutant Chronicles: The Real Jade Aliens Ep 4 Part 2 — speakers: Mutant Chronicles, Real Jade Aliens
 - 2018-08-14 — Longshot Ep 103
 - 2018-08-10 — Mutant Chronicles: The Real Jade Aliens Ep 4 Part 1
 - 2018-08-03 — Princess World: Queens & Krakens — speakers: Kevin Petker
 - 2018-07-31 — Longshot Legends Ep 7
-- 2018-07-30 — GTRT Ep 40: The James Gunn Episode — speakers: Gunn Firing
-- 2018-07-20 — Mutant Chronicles: The Real Jade Aliens Ep 3 — speakers: Mutant Chronicles, Jade Alien
+- 2018-07-30 — GTRT Ep 40: The James Gunn Episode
+- 2018-07-20 — Mutant Chronicles: The Real Jade Aliens Ep 3 — speakers: Mutant Chronicles
 - 2018-07-13 — Ten Candles: Run in the Dark — speakers: Ten Candles
 - 2018-07-06 — The End of the World: Here There Be Dragons — speakers: New York City
-- 2018-06-29 — Mutant Chronicles: The Real Jade Aliens Ep 2 — speakers: Mutant Chronicles, Dark Legion
-- 2018-06-22 — Hellfrost: The Howling North Ep 3 — speakers: Fandible Actual Play Pod
+- 2018-06-29 — Mutant Chronicles: The Real Jade Aliens Ep 2 — speakers: Mutant Chronicles
+- 2018-06-22 — Hellfrost: The Howling North Ep 3
 - 2018-06-15 — Mutant Chronicles: The Real Jade Aliens Ep 1 — speakers: Shoulder Pad
-- 2018-06-08 — Dead Channel: Pop Culture Massacre — speakers: Dead Channel, Pop Culture Massacre Two, Pop Culture Massacre
-- 2018-06-01 — Blades in the Dark: New Kids on the Dock Ep 1 — speakers: New Kids, New Kid
+- 2018-06-08 — Dead Channel: Pop Culture Massacre — speakers: Dead Channel, Pop Culture Massacre Two
+- 2018-06-01 — Blades in the Dark: New Kids on the Dock Ep 1 — speakers: New Kids
 - 2018-05-25 — Shadowrun: Prime Ep 10 part 2 of 2
-- 2018-05-18 — Shadowrun: Prime Ep 10 part 1 of 2 — speakers: Urban Brawl, Fandible Actual Play Podcas
+- 2018-05-18 — Shadowrun: Prime Ep 10 part 1 of 2 — speakers: Urban Brawl
 - 2018-05-11 — For Coin & Blood: The Eye of Raishan 2 of 2
 - 2018-05-04 — Star Wars Edge of the Empire: Sibling Rivalry — speakers: Star Wars Edge, Sibling Rivalry
-- 2018-04-27 — For Coin & Blood: The Eye of Raishan 1 of 2 — speakers: Fandible Actu
+- 2018-04-27 — For Coin & Blood: The Eye of Raishan 1 of 2
 - 2018-04-20 — Castle Falkenstein: The Council of Oddities 3 of 3 — speakers: Castle Falkenstein
 - 2018-04-13 — Castle Falkenstein: The Council of Oddities 2 of 3 — speakers: Castle Falkenstein
 - 2018-04-06 — Castle Falkenstein: The Council of Oddities 1 of 3 — speakers: Castle Falkenstein
 - 2018-03-30 — Leverage: The Purge Job
-- 2018-03-23 — The Ward: Do No Harm 2 of 2
-- 2018-03-16 — The Ward: Do No Harm 1 of 2 — speakers: Do No Harm, Fandible Actual Pla
+- 2018-03-23 — The Ward: Do No Harm 2 of 2 — speakers: Do No Harm
+- 2018-03-16 — The Ward: Do No Harm 1 of 2 — speakers: Do No Harm
 - 2018-03-09 — End of the world: Twelve Hours 2 of 2 — speakers: Twelve Hours
 - 2018-03-05 — GTRT Ep 39: The Character Episode — speakers: One Roundish Table
 - 2018-03-02 — End of the world: Twelve Hours 1 of 2 — speakers: Twelve Hours
@@ -11994,20 +11876,20 @@
 - 2018-02-16 — Demon the Descent: Unholy Genesis Ep 2 Part 1 of 2
 - 2018-02-09 — Shadowrun: Prime Ep 9 part 2 of 2
 - 2018-02-02 — Shadowrun: Prime Ep 9 part 1 of 2
-- 2018-01-26 — Planet Mercenary Ep 3: For Hire 2 of 2 — speakers: Planet Mercen
-- 2018-01-23 — Longshot Ep 82 — speakers: Numenera Actual Play
+- 2018-01-26 — Planet Mercenary Ep 3: For Hire 2 of 2
+- 2018-01-23 — Longshot Ep 82
 - 2018-01-19 — Planet Mercenary Ep 3: For Hire 1 of 2
-- 2018-01-16 — Longshot Ep 81 — speakers: Numenera Actual Play
+- 2018-01-16 — Longshot Ep 81
 - 2018-01-15 — GTRT Ep 38: The 2018 Episode
 - 2018-01-12 — Dresden Accelerated Ep 2: Party Crashers 2 of 2
 - 2018-01-05 — Dresden Accelerated Ep 2: Party Crashers 1 of 2
-- 2017-12-29 — Big Motherf’in CrabTruckers — speakers: Big Motherf, Crab Truckers, Crab Goddess
+- 2017-12-29 — Big Motherf’in CrabTruckers — speakers: Big Motherf, Crab Truckers
 - 2017-12-22 — Atomic Robo Ep 6: Merry Christmas Every00001
 - 2017-12-15 — Unhallowed Metropolis: A Pound of Flesh Ep 18 part 3 of 3
 - 2017-12-08 — Unhallowed Metropolis: A Pound of Flesh Ep 18 part 2 of 3
 - 2017-12-01 — Unhallowed Metropolis: A Pound of Flesh Ep 18 part 1 of 3
-- 2017-11-30 — SoloShot: Star Wars Force and Destiny, Episode 2×01 — speakers: Castian Saayah
-- 2017-11-24 — Hack the Planet: Beware the Griffon — speakers: Fandible Actual Play
+- 2017-11-30 — SoloShot: Star Wars Force and Destiny, Episode 2×01
+- 2017-11-24 — Hack the Planet: Beware the Griffon
 - 2017-11-17 — Hellfrost: The Howling North Ep 2
 - 2017-11-14 — Longshot Ep 72
 - 2017-11-10 — Demon the Descent: Unholy Genesis Ep 1 part 2 of 2
@@ -12019,8 +11901,8 @@
 - 2017-10-06 — Hellfrost: The Howling North Ep 1 part 2 of 2
 - 2017-09-29 — Hellfrost: The Howling North Ep 1 part 1 of 2
 - 2017-09-25 — GTRT Ep 36: The Seven Year Anniversary Episode — speakers: One Roundish Table
-- 2017-09-22 — The End of the World: No Room in Hell 2 of 2 — speakers: Kevin Macleod
-- 2017-09-15 — The End of the World: No Room in Hell 1 of 2 — speakers: George Romero
+- 2017-09-22 — The End of the World: No Room in Hell 2 of 2 — speakers: No Room
+- 2017-09-15 — The End of the World: No Room in Hell 1 of 2 — speakers: No Room
 - 2017-09-08 — Predation: Homeword Bound — speakers: Homeword Bound
 - 2017-09-01 — Dungeons & Dragons: Bound By Thorns Ep 3
 - 2017-08-25 — Dresden Files Accelerated Ep 1: Violent Gifts 2 of 2
@@ -12034,7 +11916,7 @@
 - 2017-07-07 — Shadowrun: Saints of Suffering Ep 4 part 3 of 3
 - 2017-06-30 — Shadowrun: Saints of Suffering Ep 4 part 2 of 3 — speakers: Omega Men
 - 2017-06-23 — Shadowrun: Saints of Suffering Ep 4 part 1 of 3
-- 2017-06-19 — GTRT Ep 34: The Game Discussion Episode. — speakers: Wonder Woman
+- 2017-06-19 — GTRT Ep 34: The Game Discussion Episode. — speakers: One Roundish Table, Geeky Topics Round Table
 - 2017-06-16 — Chronicles of Darkness: Into the Deep 2 of 2
 - 2017-06-09 — Chronicles of Darkness: Into the Deep 1 of 2
 - 2017-06-02 — The Witch is Dead: The Evil of Will De Foe — speakers: Will De Foe
@@ -12053,7 +11935,7 @@
 - 2017-03-10 — Changeling the Lost Ep 3: Strangled Solstice 1 of 2
 - 2017-03-03 — F-Word D&D: Eldritch Annoyances
 - 2017-02-24 — Shadowrun: Saints of Suffering Ep 3 part 2 of 2
-- 2017-02-17 — Shadowrun: Saints of Suffering Ep 3 Part 1 of 2 — speakers: New Boss, Omega Men, Intro Music, Cyberpunk Underworld
+- 2017-02-17 — Shadowrun: Saints of Suffering Ep 3 Part 1 of 2 — speakers: New Boss, Omega Men
 - 2017-02-10 — Fate: The British Life of Pets — speakers: Pets Four British
 - 2017-02-03 — Dungeons & Dragons: Bound By Thorns
 - 2017-01-27 — The Strange Ep 10: Welcome to Earth — speakers: Earth Forced
@@ -12061,22 +11943,22 @@
 - 2017-01-13 — Changeling the Lost Ep 2: Red Right Hand 1 of 2 — speakers: Red Right Hand
 - 2017-01-06 — Rockerboys & Vending Machines: The Mansion Job — speakers: Vending Machines
 - 2016-12-30 — The End of the World: Twas the Fright Before Christmas 2 of 2
-- 2016-12-23 — The End of the World: Twas the Fright Before Christmas 1 of 2 — speakers: Kevin Macleod
+- 2016-12-23 — The End of the World: Twas the Fright Before Christmas 1 of 2
 - 2016-12-19 — GTRT Ep 33: The Long Awaited Episode
-- 2016-12-16 — Strike Team Savage Ep 2: Life of the Party 2 of 2 — speakers: Retro Rad, Strike Team Alpha
-- 2016-12-09 — Strike Team Savage Ep 2: Life of the Party 1 of 2
+- 2016-12-16 — Strike Team Savage Ep 2: Life of the Party 2 of 2 — speakers: Retro Rad
+- 2016-12-09 — Strike Team Savage Ep 2: Life of the Party 1 of 2 — speakers: Strike Team Savage
 - 2016-12-02 — Changeling the Lost: Winters Fall — speakers: Winters Fall Agents, Autumn Court
-- 2016-11-25 — Savage Rifts: Triple Aces — speakers: Savage Rifts, Triple Aces Three, North America, Castle Refuge
+- 2016-11-25 — Savage Rifts: Triple Aces — speakers: Savage Rifts, Triple Aces Three, North America
 - 2016-11-18 — Strike Team Savage: Horizon City Heist 2 of 2 — speakers: Strike Team Savage, Horizon City Heist
 - 2016-11-11 — Strike Team Savage: Horizon City Heist 1 of 2 — speakers: Strike Team Savage, Horizon City Heist
-- 2016-11-08 — Longshot Ep 29 — speakers: Numenera Actual Play
-- 2016-11-04 — Lasers & Feelings: Pirate Booty — speakers: Pirate Booty Two, Pirate Booty, Fandible Actual Play
+- 2016-11-08 — Longshot Ep 29
+- 2016-11-04 — Lasers & Feelings: Pirate Booty — speakers: Pirate Booty Two
 - 2016-10-28 — Chronicles of Darkness: Old Hat
 - 2016-10-21 — The End of the World : Heavy Metal
-- 2016-10-14 — Final Girl: No Vacancy — speakers: Final Girl, No Vacancy Imaginary, No Vacancy, Fandible Ac
+- 2016-10-14 — Final Girl: No Vacancy — speakers: Final Girl, No Vacancy Imaginary
 - 2016-10-07 — Chronicles of Darkness: Venerable Light
-- 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Kevin Macleod
-- 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Kevin Macleod
+- 2016-09-30 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 2 of 2 — speakers: Scary Zombies
+- 2016-09-23 — Rotted Capes Ep 11: Scary Zombies (And Super Z’s) 1 of 2 — speakers: Scary Zombies
 - 2016-09-16 — Paranoia: I’ll See You At Disneyland
 - 2016-09-09 — Timewatch: The Hero Engine
 - 2016-09-02 — Age of Sigmar: Agents of the Gods — speakers: Gods Tasked
@@ -12085,13 +11967,12 @@
 - 2016-08-12 — Bubblegumshoe: Veronica Base, Casefile #001 2 of 2 — speakers: Veronica Base
 - 2016-08-05 — Bubblegumshoe: Veronica Base, Casefile #001 1 of 2 — speakers: Veronica Base
 - 2016-07-29 — Pugmire: The Cat’s Mau
-- 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Kevin Macleod
-- 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement, United States Government
-- 2016-07-08 — The Strange Ep 9: Epic Raid 2 of 2 — speakers: Epic Raid, Fandible Actual Play Podca
+- 2016-07-22 — Rotted Capes Ep 10: Patriotic Enslavement 2 of 2 — speakers: Patriotic Enslavement, Military Enclave
+- 2016-07-15 — Rotted Capes Ep 10: Patriotic Enslavement 1 of 2 — speakers: Patriotic Enslavement
+- 2016-07-08 — The Strange Ep 9: Epic Raid 2 of 2 — speakers: Epic Raid
 - 2016-07-01 — The Strange Ep 9: Epic Raid 1 of 2 — speakers: Epic Raid, Con Artists, Guild Masters
 - 2016-06-24 — Lasers & Feelings: Holodreck — speakers: Holodreck Stuck
 - 2016-06-17 — The End of the World: The Brotherhood of Babylon
-- 2016-06-10 — Shadowrun: Prime Ep 7 part 2 of 2 — speakers: Sixth World
+- 2016-06-10 — Shadowrun: Prime Ep 7 part 2 of 2
 - 2016-06-06 — GTRT Ep 32: The Rebel Radio Edition
 - 2016-06-03 — Shadowrun: Prime Ep 7 part 1 of 2 — speakers: New Jersey
-- 2016-05-27 — Rotted Capes Ep 9: Twisted Morals 2 of 2 — speakers: Kevin Macleod

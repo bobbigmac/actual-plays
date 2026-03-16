@@ -2,10 +2,10 @@
 
 - slug: `tabletop-tiddies`
 - source: `https://feeds.buzzsprout.com/1348282.rss`
-- fetched_at: `2026-03-15T15:46:40+00:00`
-- checked_at: `2026-03-15T15:46:40+00:00`
-- etag: `"3cc5a1e82bb789ef4b1b4b744f2fba4e"`
-- last_modified: `Sun, 15 Mar 2026 15:37:46 GMT`
+- fetched_at: `2026-03-16T03:39:52+00:00`
+- checked_at: `2026-03-16T03:39:52+00:00`
+- etag: `"dd4896219a13247fcd5dbf2bf12fbd0b"`
+- last_modified: `Sun, 15 Mar 2026 23:47:39 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.tabletoptiddies.com/",
   "description": "Tabletop Tiddies began in 2020, with our Dungeons and Dragons Actual Play Stream and Podcast, The Wildwell Trials . For our inaugural season, we took a dive into Fearfort, a world completely homebrewed by our Dungeon Goddess, Charlene Bayer. Three years later, we now have produced three seasons of Dungeons and Dragons live streamed shows, two seasons of Tiddies By Night, our Vampire the Masquerade Chronicle, and a handful of one shots, mini series, and Patreon Exclusive shows. Our shows have featured guests such as Josephine McAdam, B.Dave Walters, and Noura Ibrahim, and we can’t wait to have more wonderful guests at our table. The Tiddies have been active members in the tabletop gaming community for years, taking part in many streams, podcasts, and charity events. Be sure to follow Tabletop Tiddies and each of us on social media to stay updated!",
   "image_url": "https://storage.buzzsprout.com/c7pou33dxy3l6oztvzau28u023sy?.jpg",
-  "fetched_at": "2026-03-15T15:46:40+00:00",
+  "fetched_at": "2026-03-16T03:39:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
