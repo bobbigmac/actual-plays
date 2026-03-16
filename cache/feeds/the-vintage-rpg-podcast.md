@@ -2,10 +2,10 @@
 
 - slug: `the-vintage-rpg-podcast`
 - source: `https://thevintagerpgpodcast.libsyn.com/rss`
-- fetched_at: `2026-03-14T03:08:27+00:00`
-- checked_at: `2026-03-14T03:08:27+00:00`
-- etag: `"8b11877d4287ef6c8cb9dc583c80ad5b"`
-- last_modified: `Fri, 13 Mar 2026 22:38:19 GMT`
+- fetched_at: `2026-03-16T07:50:18+00:00`
+- checked_at: `2026-03-16T07:50:18+00:00`
+- etag: `"d8583bcca37b48c3a12e07085f82dea2"`
+- last_modified: `Mon, 16 Mar 2026 04:09:17 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.vintagerpg.com/category/podcast/",
   "description": "Join Stu Horvath and John McGuire as they delve into their favorite tabletop roleplaying games from the past, present and future!",
   "image_url": "https://static.libsyn.com/p/assets/b/2/a/7/b2a7b7c92966d9a540be95ea3302a6a1/e5273b3bd4de109f6246688b54c81659.jpg",
-  "fetched_at": "2026-03-14T03:08:27+00:00",
+  "fetched_at": "2026-03-16T07:50:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "8331662f26ee14491d9758424ba7940fd81087dc",
+      "title": "The Privilege of Play and Other Topics",
+      "published_at": "2026-03-16T04:00:00+00:00",
+      "link": "https://www.vintagerpg.com/2026/03/the-privilege-of-play-and-other-topics/",
+      "description": "Another collection of chit-chats. This week on the Vintage RPG Podcast, we rummage through the grab bag again. We discuss Lite-Brite, Tony Bath's 1975 article \"Fantasy Gaming,\" Aaron Trammell's The Privilege of Play , Dungeon Crawler Carl and doanes, among other things. * * * Check out Stu's essay on the inevitability of RPGs . Or skip right to the PDF of Tony Bath's \"Fantasy Gaming\" article. * * * Instagram? Old news. Join the Vintage RPG Newsletter ! That's where all the cool kids are now! Stu's book, Monsters, Aliens, and Holes in the Ground is for sale now! Buy it ! Patreon? Discord? Cool RPG things to buy? All the Vintage RPG links you need are right here in one place ! Like, Rate, Subscribe and Review the Vintage RPG Podcast! Edited by the one and only R. Alex Murray . Send questions, comments or corrections to info@vintagerpg.com . Available on iTunes , Google Podcasts , iHeartRadio , Spotify , YouTube and your favorite podcast clients. The Vintage RPG illustration is by Shafer Brown . Follow him on Twitter . Tune in next week for the next episode. Until then, may the dice always roll in your favor!",
+      "image_url": "https://static.libsyn.com/p/assets/8/b/d/d/8bdd2339e3a6f4c0d959afa2a1bf1c87/Vintage_Podcast_Icon-20260313-3zhe04p6rw.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/thevintagerpgpodcast/VRPG_-_Another_Pot_Purri_.mp3?dest-id=747998",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61074082",
+      "itunes_duration": "30:04",
+      "speakers": [
+        "Other Topics Another"
+      ],
+      "topics": [
+        "privilege",
+        "play",
+        "topic"
+      ]
+    },
     {
       "key": "e6111319e587290234d46f1165054dff70672129",
       "title": "Mythic Britain & Ireland",
@@ -6471,6 +6491,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — The Privilege of Play and Other Topics — speakers: Other Topics Another
 - 2026-03-09 — Mythic Britain & Ireland — speakers: Mythic Br
 - 2026-03-02 — Shadowdark
 - 2026-02-23 — The End Times
