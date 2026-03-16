@@ -2,11 +2,9 @@
 
 - slug: `diefall`
 - source: `https://feeds.soundcloud.com/users/soundcloud:users:648749499/sounds.rss`
-- fetched_at: `2026-03-16T10:17:28+00:00`
-- checked_at: `2026-03-16T13:56:32+00:00`
+- fetched_at: `2026-03-16T16:18:22+00:00`
+- checked_at: `2026-03-16T16:18:22+00:00`
 - max_episodes_per_feed: `1000`
-- status: `error`
-- last_error: `HTTP 202` — Empty response body
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +16,7 @@
   "link": "https://www.twitch.tv/runawayrobot_",
   "description": "5th Edition Dungeons & Dragons live shows streamed on twitch.tv/RunawayRobot_ ! Currently in its second year running, the show runs multiple campaigns (both official modules and homebrew), all of which have an emphasis on production quality, and feature things like political intrigue, tense combat situations, and various shenanigans aplenty by players and DM alike; in short, everything that makes the 5e system so popular!",
   "image_url": "https://i1.sndcdn.com/avatars-DqDN4jM0ve9kkfjg-oqX4NA-original.jpg",
-  "fetched_at": "2026-03-16T10:17:28+00:00",
+  "fetched_at": "2026-03-16T16:18:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3585,17 +3583,7 @@
         "frog"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-03-16T13:56:32+00:00",
-    "status": "error",
-    "checked_at": "2026-03-16T13:56:32+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 202,
-      "message": "Empty response body"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
