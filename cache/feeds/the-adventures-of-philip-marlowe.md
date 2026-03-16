@@ -2,10 +2,10 @@
 
 - slug: `the-adventures-of-philip-marlowe`
 - source: `https://www.spreaker.com/show/5656706/episodes/feed`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"1f1630aae587d0ea098d77ed58fa787a"`
-- last_modified: `Wed, 18 Feb 2026 08:30:44 GMT`
+- fetched_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
+- etag: `"185c37e7e158b1bc1f0c187267cbda9a"`
+- last_modified: `Mon, 16 Mar 2026 12:44:31 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.spreaker.com/show/the-adventures-of-philip-marlowe_1",
   "description": "The Adventures of Philip Marlowe was a radio series featuring Raymond Chandler's private eye, Philip Marlowe. Robert C. Reinehr and Jon D. Swartz, in their book, The A to Z of Old Time Radio, noted that the program differed from most others in its genre: \"It was a more hard-boiled program than many of the other private detective shows of the time, containing few quips or quaint characters.\"The program first aired 17 June 1947 on NBC radio under the title The New Adventures of Philip Marlowe, with Van Heflin playing Marlowe. The show was a summer replacement for Bob Hope. The first episode adapted Chandler's short story \"Red Wind\". The NBC series ended 9 September 1947.In 1948, the series moved to CBS, where it was called The Adventure of Philip Marlowe, with Gerald Mohr playing Marlowe. This series also began with an adaptation of \"Red Wind\", using a script different from the NBC adaptation. By 1949, it had the largest audience in radio. The CBS version ran for 114 episodes. That series ran 26 September 1948 – 29 September 1950.From 7 July 1951 to 15 September 1951, the program was a summer replacement for Hopalong Cassidy. Mohr played Marlowe in all but one of the CBS shows. He was replaced by William Conrad in the 1950 episode, \"The Anniversary Gift\".The episode \"The Birds On The Wing\" (aired 11-26-49) is especially notable for its beginning and ending, both uncharacteristically breaking the fourth wall. It opens with Marlowe saying he is currently reading \"Chandler's latest The Little Sister\" – thus a fictional character claims to be reading an actual book in which he is the main character. Even more surreal was the ending, in which Marlowe returns to his apartment to find Gracie Allen – who asks Marlowe to find her husband George Burns a radio show on which he can sing!",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ff83fdc4f209f9701c5e2b9de72d4d64.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T13:56:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -60,10 +60,7 @@
       "itunes_duration": "1756",
       "speakers": [
         "Philip Marlowe Sound",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -86,10 +83,7 @@
       "itunes_duration": "1779",
       "speakers": [
         "Philip Marlowe Friend",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -112,10 +106,7 @@
       "itunes_duration": "1779",
       "speakers": [
         "Philip Marlowe Cloak",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -137,10 +128,7 @@
       "enclosure_length": "27585749",
       "itunes_duration": "1724",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -163,10 +151,7 @@
       "itunes_duration": "1795",
       "speakers": [
         "Philip Marlowe Name",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -187,10 +172,7 @@
       "itunes_duration": "1799",
       "speakers": [
         "Big Step",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -212,10 +194,7 @@
       "itunes_duration": "1800",
       "speakers": [
         "Philip Marlowe Golden Cobra",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -238,10 +217,7 @@
       "itunes_duration": "1755",
       "speakers": [
         "Philip Marlowe Heir",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -263,10 +239,7 @@
       "enclosure_length": "28183942",
       "itunes_duration": "1761",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -288,10 +261,7 @@
       "itunes_duration": "1783",
       "speakers": [
         "Nether Land",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -314,10 +284,7 @@
       "itunes_duration": "1785",
       "speakers": [
         "Philip Marlowe Dude",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -340,10 +307,7 @@
       "itunes_duration": "1513",
       "speakers": [
         "Philip Marlowe Heir",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -367,10 +331,7 @@
       "itunes_duration": "1653",
       "speakers": [
         "Nether Land",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -393,10 +354,7 @@
       "enclosure_length": "28113214",
       "itunes_duration": "1757",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -418,10 +376,7 @@
       "enclosure_length": "28198997",
       "itunes_duration": "1762",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -443,10 +398,7 @@
       "enclosure_length": "28930342",
       "itunes_duration": "1808",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -468,10 +420,7 @@
       "enclosure_length": "28382465",
       "itunes_duration": "1770",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -492,10 +441,7 @@
       "enclosure_length": "28801687",
       "itunes_duration": "1800",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -517,10 +463,7 @@
       "enclosure_length": "29681371",
       "itunes_duration": "1856",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -541,10 +484,7 @@
       "enclosure_length": "28491046",
       "itunes_duration": "1780",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -566,10 +506,7 @@
       "enclosure_length": "28466827",
       "itunes_duration": "1779",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -592,10 +529,7 @@
       "itunes_duration": "1786",
       "speakers": [
         "Philip Marlowe Lady",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -617,10 +551,7 @@
       "enclosure_length": "28633986",
       "itunes_duration": "1789",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -643,10 +574,7 @@
       "itunes_duration": "1780",
       "speakers": [
         "Baton Sinister",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -668,10 +596,7 @@
       "enclosure_length": "29114223",
       "itunes_duration": "1819",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -694,10 +619,7 @@
       "itunes_duration": "1763",
       "speakers": [
         "Deep Shadow",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -720,10 +642,7 @@
       "itunes_duration": "1778",
       "speakers": [
         "Dark Tunnel",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -746,10 +665,7 @@
       "itunes_duration": "1789",
       "speakers": [
         "Busy Body",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -770,10 +686,7 @@
       "enclosure_length": "28512378",
       "itunes_duration": "1782",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -794,10 +707,7 @@
       "enclosure_length": "28931576",
       "itunes_duration": "1808",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -819,10 +729,7 @@
       "enclosure_length": "28577162",
       "itunes_duration": "1786",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -844,10 +751,7 @@
       "enclosure_length": "28977649",
       "itunes_duration": "1811",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -870,10 +774,7 @@
       "itunes_duration": "1747",
       "speakers": [
         "Easy Mark",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -895,10 +796,7 @@
       "enclosure_length": "28159185",
       "itunes_duration": "1760",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -920,10 +818,7 @@
       "enclosure_length": "28735656",
       "itunes_duration": "1796",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -945,10 +840,7 @@
       "enclosure_length": "28772451",
       "itunes_duration": "1798",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -971,10 +863,7 @@
       "enclosure_length": "28784557",
       "itunes_duration": "1799",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -997,10 +886,7 @@
       "itunes_duration": "1769",
       "speakers": [
         "Green Flame",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1023,10 +909,7 @@
       "itunes_duration": "1697",
       "speakers": [
         "Green Witch",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1048,10 +931,7 @@
       "enclosure_length": "29162907",
       "itunes_duration": "1822",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1073,10 +953,7 @@
       "enclosure_length": "28513316",
       "itunes_duration": "1782",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1098,10 +975,7 @@
       "itunes_duration": "1752",
       "speakers": [
         "Way Out",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1123,10 +997,7 @@
       "itunes_duration": "1810",
       "speakers": [
         "Headless Peacock",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1148,10 +1019,7 @@
       "enclosure_length": "29831122",
       "itunes_duration": "1864",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1174,10 +1042,7 @@
       "itunes_duration": "1810",
       "speakers": [
         "Heat Wave",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1199,10 +1064,7 @@
       "enclosure_length": "29261781",
       "itunes_duration": "1829",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1224,10 +1086,7 @@
       "enclosure_length": "28654910",
       "itunes_duration": "1791",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1250,10 +1109,7 @@
       "enclosure_length": "27147422",
       "itunes_duration": "1696",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1275,10 +1131,7 @@
       "enclosure_length": "29368778",
       "itunes_duration": "1835",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1300,10 +1153,7 @@
       "enclosure_length": "28499423",
       "itunes_duration": "1781",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1326,10 +1176,7 @@
       "itunes_duration": "1793",
       "speakers": [
         "Key Man",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1349,10 +1196,7 @@
       "enclosure_length": "28636600",
       "itunes_duration": "1790",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1373,10 +1217,7 @@
       "enclosure_length": "28573069",
       "itunes_duration": "1786",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1398,10 +1239,7 @@
       "enclosure_length": "28997193",
       "itunes_duration": "1812",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1423,10 +1261,7 @@
       "enclosure_length": "28775653",
       "itunes_duration": "1799",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1447,10 +1282,7 @@
       "enclosure_length": "29072109",
       "itunes_duration": "1817",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1472,10 +1304,7 @@
       "itunes_duration": "1806",
       "speakers": [
         "Little Wishbone",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1498,10 +1327,7 @@
       "itunes_duration": "1726",
       "speakers": [
         "Lonesome Reunion",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1524,10 +1350,7 @@
       "itunes_duration": "1843",
       "speakers": [
         "Long Arm",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1549,10 +1372,7 @@
       "itunes_duration": "1785",
       "speakers": [
         "Way Home",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1574,10 +1394,7 @@
       "enclosure_length": "28205582",
       "itunes_duration": "1763",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1598,10 +1415,7 @@
       "enclosure_length": "28562102",
       "itunes_duration": "1785",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1622,10 +1436,7 @@
       "enclosure_length": "28121175",
       "itunes_duration": "1757",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1648,10 +1459,7 @@
       "enclosure_length": "28191471",
       "itunes_duration": "1762",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1674,10 +1482,7 @@
       "itunes_duration": "1766",
       "speakers": [
         "Old Acquaintance",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1699,10 +1504,7 @@
       "itunes_duration": "1783",
       "speakers": [
         "Open Window",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1724,10 +1526,7 @@
       "enclosure_length": "28307659",
       "itunes_duration": "1769",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1748,10 +1547,7 @@
       "enclosure_length": "27700465",
       "itunes_duration": "1731",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1773,10 +1569,7 @@
       "itunes_duration": "1518",
       "speakers": [
         "Parrot's Bed",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1797,10 +1590,7 @@
       "enclosure_length": "28174653",
       "itunes_duration": "1761",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1822,10 +1612,7 @@
       "enclosure_length": "28897005",
       "itunes_duration": "1806",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1846,10 +1633,7 @@
       "enclosure_length": "28525319",
       "itunes_duration": "1783",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1871,10 +1655,7 @@
       "enclosure_length": "28592212",
       "itunes_duration": "1787",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1896,10 +1677,7 @@
       "itunes_duration": "1779",
       "speakers": [
         "Quiet Magpie",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1921,10 +1699,7 @@
       "enclosure_length": "28378709",
       "itunes_duration": "1773",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1945,10 +1720,7 @@
       "enclosure_length": "28992178",
       "itunes_duration": "1812",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1969,10 +1741,7 @@
       "enclosure_length": "29171088",
       "itunes_duration": "1823",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -1995,10 +1764,7 @@
       "itunes_duration": "1761",
       "speakers": [
         "Seaside Sabbatical",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2020,10 +1786,7 @@
       "enclosure_length": "27510628",
       "itunes_duration": "1719",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2045,10 +1808,7 @@
       "itunes_duration": "1759",
       "speakers": [
         "Soft Spot",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2071,10 +1831,7 @@
       "itunes_duration": "1803",
       "speakers": [
         "Strangle Hold",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2096,10 +1853,7 @@
       "enclosure_length": "28635660",
       "itunes_duration": "1789",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2121,10 +1875,7 @@
       "enclosure_length": "28877765",
       "itunes_duration": "1805",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2146,10 +1897,7 @@
       "enclosure_length": "29840613",
       "itunes_duration": "1866",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2171,10 +1919,7 @@
       "enclosure_length": "28172996",
       "itunes_duration": "1761",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2196,10 +1941,7 @@
       "enclosure_length": "28719269",
       "itunes_duration": "1795",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2221,10 +1963,7 @@
       "enclosure_length": "28203492",
       "itunes_duration": "1762",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2246,10 +1985,7 @@
       "enclosure_length": "28231079",
       "itunes_duration": "1764",
       "speakers": [
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2272,10 +2008,7 @@
       "itunes_duration": "1749",
       "speakers": [
         "Philip Marlowe Trouble",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2298,10 +2031,7 @@
       "itunes_duration": "1765",
       "speakers": [
         "Philip Marlowe Where",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2322,10 +2052,7 @@
       "itunes_duration": "1442",
       "speakers": [
         "Shot Waldo",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2348,10 +2075,7 @@
       "itunes_duration": "1781",
       "speakers": [
         "Philip Marlowe Young Man",
-        "Philip Marlowe",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Philip Marlowe"
       ],
       "topics": [
         "adventures",
@@ -2375,10 +2099,7 @@
       "speakers": [
         "Philip Marlowe Rushton Hickory",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2402,10 +2123,7 @@
       "speakers": [
         "Philip Marlowe Feminine",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2428,10 +2146,7 @@
       "itunes_duration": "1810",
       "speakers": [
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2455,10 +2170,7 @@
       "speakers": [
         "Philip Marlowe Grim Hunters",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2482,10 +2194,7 @@
       "speakers": [
         "Philip Marlowe Good Neighbor",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2510,10 +2219,7 @@
       "speakers": [
         "Philip Marlowe Night Tide",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2537,10 +2243,7 @@
       "speakers": [
         "Philip Marlowe King",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2564,10 +2267,7 @@
       "speakers": [
         "Anniversary Gift",
         "Philip Marlowe",
-        "Raymond Chandler",
-        "Van Heflin",
-        "Bob Hope",
-        "Gerald Mohr"
+        "Raymond Chandler"
       ],
       "topics": [
         "adventures",
@@ -2585,103 +2285,103 @@
 ## Episodes (newest first)
 
 - 2020-08-22 — The Adventures of Philip Marlowe - Face to Forget — speakers: Philip Marlowe Face
-- 2020-08-22 — The Adventures of Philip Marlowe - Sound and the Unsound — speakers: Philip Marlowe Sound, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Friend from Detroit — speakers: Philip Marlowe Friend, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Cloak of Kamehameha — speakers: Philip Marlowe Cloak, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Life Can Be Murder — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Name to Remember — speakers: Philip Marlowe Name, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Big Step — speakers: Big Step, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Golden Cobra — speakers: Philip Marlowe Golden Cobra, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Heir for G-String — speakers: Philip Marlowe Heir, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Big Book — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Nether Nether Land — speakers: Nether Land, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Dude from Manhattan — speakers: Philip Marlowe Dude, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Heir for G-String (rehearsal) — speakers: Philip Marlowe Heir, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Nether Nether Land (rehearsal) — speakers: Nether Land, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Dear, Dead Days — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Birds on the Wing — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Bedside Manners — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Bum's Rush — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Black Halo — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Bid for Freedom — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Dancing Hands — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Collector's Item — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Lady in Mink — speakers: Philip Marlowe Lady, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The August Lion — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Baton Sinister — speakers: Baton Sinister, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Eager Witness — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Deep Shadow — speakers: Deep Shadow, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Dark Tunnel — speakers: Dark Tunnel, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Busy Body — speakers: Busy Body, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Fox's Tail — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Final Payment — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Ebony Link — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Fatted Calf — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Easy Mark — speakers: Easy Mark, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Fifth Mask — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Fine Italian Hand — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Girl from Pitchfork Corners — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Glass Donkey — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Green Flame — speakers: Green Flame, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Green Witch — speakers: Green Witch, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Grim Echo — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Hairpin Turn — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Hard Way Out — speakers: Way Out, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Headless Peacock — speakers: Headless Peacock, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Heart of Gold — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Heat Wave — speakers: Heat Wave, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Hiding Place — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The High Collared Cape — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The House That Jacqueline Built — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Indian Giver — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Iron Coffin — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Key Man — speakers: Key Man, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Kid on the Corner — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Ladies Night — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Lady Killer — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Last Laugh — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Last Wish — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Little Wishbone — speakers: Little Wishbone, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Lonesome Reunion — speakers: Lonesome Reunion, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Long Arm — speakers: Long Arm, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Long Way Home — speakers: Way Home, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Man on the Roof — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Medium Was Rare — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Mexican Boat Ride — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Monkey's Uncle — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Old Acquaintance — speakers: Old Acquaintance, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Open Window — speakers: Open Window, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Orange Dog — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Panama Hat — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Parrot's Bed — speakers: Parrot's Bed, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Pelican's Roost — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Persian Slippers — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Pigeons Blood — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Promise to Pay — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Quiet Magpie — speakers: Quiet Magpie, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Red Wind — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Restless Day — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Sea Horse Jockey — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Seaside Sabbatical — speakers: Seaside Sabbatical, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Smokeout — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Soft Spot — speakers: Soft Spot, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Strangle Hold — speakers: Strangle Hold, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Sword of Cebu — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Tail of the Mermaid — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Torch Carriers — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Uneasy Head — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Unfair Lady — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The Vital Statistic — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - The White Carnation — speakers: Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Trouble Is My Business — speakers: Philip Marlowe Trouble, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Where There's a Will — speakers: Philip Marlowe Where, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Who Shot Waldo — speakers: Shot Waldo, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2020-08-22 — The Adventures of Philip Marlowe - Young Man's Fancy — speakers: Philip Marlowe Young Man, Philip Marlowe, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - Rushton Hickory — speakers: Philip Marlowe Rushton Hickory, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - Feminine Touch — speakers: Philip Marlowe Feminine, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - The Angry Eagle — speakers: Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - Grim Hunters — speakers: Philip Marlowe Grim Hunters, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - Good Neighbor Policy — speakers: Philip Marlowe Good Neighbor, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - Night Tide — speakers: Philip Marlowe Night Tide, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - King in Yellow — speakers: Philip Marlowe King, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
-- 2019-07-30 — The Adventures of Philip Marlowe - The Anniversary Gift — speakers: Anniversary Gift, Philip Marlowe, Raymond Chandler, Van Heflin, Bob Hope, Gerald Mohr
+- 2020-08-22 — The Adventures of Philip Marlowe - Sound and the Unsound — speakers: Philip Marlowe Sound, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Friend from Detroit — speakers: Philip Marlowe Friend, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Cloak of Kamehameha — speakers: Philip Marlowe Cloak, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Life Can Be Murder — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Name to Remember — speakers: Philip Marlowe Name, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Big Step — speakers: Big Step, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Golden Cobra — speakers: Philip Marlowe Golden Cobra, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Heir for G-String — speakers: Philip Marlowe Heir, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Big Book — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Nether Nether Land — speakers: Nether Land, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Dude from Manhattan — speakers: Philip Marlowe Dude, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Heir for G-String (rehearsal) — speakers: Philip Marlowe Heir, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Nether Nether Land (rehearsal) — speakers: Nether Land, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Dear, Dead Days — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Birds on the Wing — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Bedside Manners — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Bum's Rush — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Black Halo — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Bid for Freedom — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Dancing Hands — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Collector's Item — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Lady in Mink — speakers: Philip Marlowe Lady, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The August Lion — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Baton Sinister — speakers: Baton Sinister, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Eager Witness — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Deep Shadow — speakers: Deep Shadow, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Dark Tunnel — speakers: Dark Tunnel, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Busy Body — speakers: Busy Body, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Fox's Tail — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Final Payment — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Ebony Link — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Fatted Calf — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Easy Mark — speakers: Easy Mark, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Fifth Mask — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Fine Italian Hand — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Girl from Pitchfork Corners — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Glass Donkey — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Green Flame — speakers: Green Flame, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Green Witch — speakers: Green Witch, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Grim Echo — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Hairpin Turn — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Hard Way Out — speakers: Way Out, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Headless Peacock — speakers: Headless Peacock, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Heart of Gold — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Heat Wave — speakers: Heat Wave, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Hiding Place — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The High Collared Cape — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The House That Jacqueline Built — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Indian Giver — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Iron Coffin — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Key Man — speakers: Key Man, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Kid on the Corner — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Ladies Night — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Lady Killer — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Last Laugh — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Last Wish — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Little Wishbone — speakers: Little Wishbone, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Lonesome Reunion — speakers: Lonesome Reunion, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Long Arm — speakers: Long Arm, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Long Way Home — speakers: Way Home, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Man on the Roof — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Medium Was Rare — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Mexican Boat Ride — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Monkey's Uncle — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Old Acquaintance — speakers: Old Acquaintance, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Open Window — speakers: Open Window, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Orange Dog — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Panama Hat — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Parrot's Bed — speakers: Parrot's Bed, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Pelican's Roost — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Persian Slippers — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Pigeons Blood — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Promise to Pay — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Quiet Magpie — speakers: Quiet Magpie, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Red Wind — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Restless Day — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Sea Horse Jockey — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Seaside Sabbatical — speakers: Seaside Sabbatical, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Smokeout — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Soft Spot — speakers: Soft Spot, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Strangle Hold — speakers: Strangle Hold, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Sword of Cebu — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Tail of the Mermaid — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Torch Carriers — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Uneasy Head — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Unfair Lady — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The Vital Statistic — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - The White Carnation — speakers: Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Trouble Is My Business — speakers: Philip Marlowe Trouble, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Where There's a Will — speakers: Philip Marlowe Where, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Who Shot Waldo — speakers: Shot Waldo, Philip Marlowe
+- 2020-08-22 — The Adventures of Philip Marlowe - Young Man's Fancy — speakers: Philip Marlowe Young Man, Philip Marlowe
+- 2019-07-30 — The Adventures of Philip Marlowe - Rushton Hickory — speakers: Philip Marlowe Rushton Hickory, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - Feminine Touch — speakers: Philip Marlowe Feminine, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - The Angry Eagle — speakers: Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - Grim Hunters — speakers: Philip Marlowe Grim Hunters, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - Good Neighbor Policy — speakers: Philip Marlowe Good Neighbor, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - Night Tide — speakers: Philip Marlowe Night Tide, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - King in Yellow — speakers: Philip Marlowe King, Philip Marlowe, Raymond Chandler
+- 2019-07-30 — The Adventures of Philip Marlowe - The Anniversary Gift — speakers: Anniversary Gift, Philip Marlowe, Raymond Chandler

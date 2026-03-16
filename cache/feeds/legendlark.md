@@ -3,9 +3,11 @@
 - slug: `legendlark`
 - source: `http://feeds.soundcloud.com/users/soundcloud:users:274780359/sounds.rss`
 - fetched_at: `2026-03-13T03:10:34+00:00`
-- checked_at: `2026-03-13T03:10:34+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
 - etag: `W/"121c2f-H9GCVzh3VX2ruvmiT/1DFScCPNE"`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: `HTTP 202` — Empty response body
 
 <!-- FEED_JSON -->
 ```json
@@ -3978,7 +3980,17 @@
         "dragon"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-03-16T13:56:32+00:00",
+    "status": "error",
+    "checked_at": "2026-03-16T13:56:32+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 202,
+      "message": "Empty response body"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

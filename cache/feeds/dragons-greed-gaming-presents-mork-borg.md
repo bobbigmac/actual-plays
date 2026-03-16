@@ -2,10 +2,10 @@
 
 - slug: `dragons-greed-gaming-presents-mork-borg`
 - source: `https://www.spreaker.com/show/5839076/episodes/feed`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"235568753a5949b563d7deac168974d0"`
-- last_modified: `Mon, 29 Sep 2025 03:34:41 GMT`
+- fetched_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
+- etag: `"d294356cc513f6c6fa973ac401655100"`
+- last_modified: `Mon, 16 Mar 2026 12:49:02 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.spreaker.com/podcast/dragon-s-greed-gaming-presents-mork-borg--5839076",
   "description": "Dragon's Greed Gaming is back with another actual play series! This time around we enter the black world of Mork Borg, the doom metal RPG. A winner of a ton of Ennie awards, this OSR style game brings you one of the most unqiue RPGs you'll ever play, with light rules, extremely deadly combat, and a world that is slowly coming to an end. Join host and GM the Great Unclean one behind the GM screen once again as 4 wretched souls live out their last days as the world dies. Our cast includes show regulars Kyle the Redbeard, Eric, Sean, and Matt the Frog.",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eab79f9943e9d1eb8eccf4a6247a2150.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T13:56:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -38,7 +38,10 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163923354",
       "itunes_duration": "10246",
-      "speakers": [],
+      "speakers": [
+        "Mork Borg",
+        "Graves Left Wanting Sean"
+      ],
       "topics": [
         "mork",
         "borg",
@@ -58,9 +61,7 @@
       "enclosure_length": "155279168",
       "itunes_duration": "9705",
       "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
+        "Finale Henry"
       ],
       "topics": [
         "blighted",
@@ -79,11 +80,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162668259",
       "itunes_duration": "10167",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -102,11 +99,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176313788",
       "itunes_duration": "11020",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -125,11 +118,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "162243195",
       "itunes_duration": "10141",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -148,11 +137,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "161238428",
       "itunes_duration": "10078",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -173,9 +158,7 @@
       "enclosure_length": "195070121",
       "itunes_duration": "12192",
       "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
+        "Night Vault"
       ],
       "topics": [
         "blighted",
@@ -193,11 +176,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "195108585",
       "itunes_duration": "12195",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -218,9 +197,7 @@
       "enclosure_length": "190657728",
       "itunes_duration": "11917",
       "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
+        "Accursed Den"
       ],
       "topics": [
         "blighted",
@@ -239,11 +216,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187491687",
       "itunes_duration": "11719",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -262,11 +235,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "182025617",
       "itunes_duration": "11377",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark",
@@ -285,11 +254,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185043281",
       "itunes_duration": "11566",
-      "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
-      ],
+      "speakers": [],
       "topics": [
         "blighted",
         "bulwark"
@@ -307,9 +272,7 @@
       "enclosure_length": "94362839",
       "itunes_duration": "5898",
       "speakers": [
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
+        "Mork Borg"
       ],
       "topics": [
         "blighted",
@@ -329,10 +292,7 @@
       "enclosure_length": "30357398",
       "itunes_duration": "1898",
       "speakers": [
-        "Rpg Mork Borg",
-        "Apocalypse Blues",
-        "Metalheadless Horseman",
-        "Alexander Nakarada"
+        "Rpg Mork Bo"
       ],
       "topics": [
         "introduction",
@@ -347,17 +307,17 @@
 
 ## Episodes (newest first)
 
-- 2023-10-27 — Mork Borg - Graves Left Wanting
-- 2023-09-08 — The Blighted Bulwark - Episode 12 - Finale — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-09-01 — The Blighted Bulwark - Episode 11 - The Death Ziggurat — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-08-25 — The Blighted Bulwark - Episode 10 - Perilous Journey — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-08-18 — The Blighted Bulwark - Episode 9 - The Legacy of Vrackh — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-08-18 — The Blighted Bulwark - Episode 8 - Spyke and Spug (and Swamps) — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-08-04 — The Blighted Bulwark - Episode 7 - The Chosen One — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-07-28 — The Blighted Bulwark - Episode 6 - The Night Vault of Sechtar — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-07-21 — The Blighted Bulwark - Episode 5 - The Accursed Den — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-07-14 — The Blighted Bulwark Episode 4 - The Goblin Grinder — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-07-07 — The Blighted Bulwark - Episode 3 - Taste of Success — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-06-23 — The Blighted Bulwark - Episode 2 - 5 for 1 — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-06-16 — The Blighted Bulwark - Episode 1 - Session 0 — speakers: Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
-- 2023-06-05 — An Introduction to Mork Borg — speakers: Rpg Mork Borg, Apocalypse Blues, Metalheadless Horseman, Alexander Nakarada
+- 2023-10-27 — Mork Borg - Graves Left Wanting — speakers: Mork Borg, Graves Left Wanting Sean
+- 2023-09-08 — The Blighted Bulwark - Episode 12 - Finale — speakers: Finale Henry
+- 2023-09-01 — The Blighted Bulwark - Episode 11 - The Death Ziggurat
+- 2023-08-25 — The Blighted Bulwark - Episode 10 - Perilous Journey
+- 2023-08-18 — The Blighted Bulwark - Episode 9 - The Legacy of Vrackh
+- 2023-08-18 — The Blighted Bulwark - Episode 8 - Spyke and Spug (and Swamps)
+- 2023-08-04 — The Blighted Bulwark - Episode 7 - The Chosen One — speakers: Night Vault
+- 2023-07-28 — The Blighted Bulwark - Episode 6 - The Night Vault of Sechtar
+- 2023-07-21 — The Blighted Bulwark - Episode 5 - The Accursed Den — speakers: Accursed Den
+- 2023-07-14 — The Blighted Bulwark Episode 4 - The Goblin Grinder
+- 2023-07-07 — The Blighted Bulwark - Episode 3 - Taste of Success
+- 2023-06-23 — The Blighted Bulwark - Episode 2 - 5 for 1
+- 2023-06-16 — The Blighted Bulwark - Episode 1 - Session 0 — speakers: Mork Borg
+- 2023-06-05 — An Introduction to Mork Borg — speakers: Rpg Mork Bo

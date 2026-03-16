@@ -2,10 +2,10 @@
 
 - slug: `dimension-20`
 - source: `https://feeds.megaphone.fm/dimension20`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"472f1ab5da957cc1e7d19a7289e0b6ee"`
-- last_modified: `Fri, 13 Feb 2026 04:40:40 GMT`
+- fetched_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
+- etag: `"d5595f2f83834d32e8fc04988b0483a7"`
+- last_modified: `Mon, 16 Mar 2026 12:05:19 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://dropout.tv",
   "description": "Brennan Lee Mulligan is your game master in FANTASY HIGH, the first season in the DIMENSION 20 roleplaying anthology! Your CH cast favorites return to take on the Aguefort Adventuring Academy, now available as an audio podcast!",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e724f004f75bd50322aef890f60dd2b3.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T13:56:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

@@ -2,10 +2,10 @@
 
 - slug: `dragons-greed-gaming-presents-blade-runner-the-roleplaying-game`
 - source: `https://www.spreaker.com/show/5828627/episodes/feed`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-02-20T03:13:25+00:00`
-- etag: `"b5823b58757831e836faa7e58a3283ec"`
-- last_modified: `Mon, 29 Sep 2025 03:34:41 GMT`
+- fetched_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
+- etag: `"c63c1b84e68c49bd553117a449b52571"`
+- last_modified: `Mon, 16 Mar 2026 12:56:55 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.spreaker.com/podcast/dragon-s-greed-gaming-presents-blade-runner-the-roleplaying-game--5828627",
   "description": "Dragon's Greed Gaming is back and this time we are delving into another amazing game by Free League Publishing. Join us as we dive into the neon-noir future of Blade Runner: The Roleplaying Game.",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ef3ebd961dc6ab7b3dec4ec285f24f58.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T13:56:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -37,10 +37,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "214757514",
       "itunes_duration": "13423",
-      "speakers": [
-        "Tyler Violet",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -59,10 +56,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "174606265",
       "itunes_duration": "10913",
-      "speakers": [
-        "Tyler Violet",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -81,10 +75,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184578353",
       "itunes_duration": "11537",
-      "speakers": [
-        "Tyler Violet",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -103,10 +94,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166798788",
       "itunes_duration": "10425",
-      "speakers": [
-        "Tyler Violet",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -126,9 +114,7 @@
       "enclosure_length": "193722046",
       "itunes_duration": "12108",
       "speakers": [
-        "Ray McCoy",
-        "Tyler Violet",
-        "Bat Audio"
+        "Wallace Corpo"
       ],
       "topics": [
         "blade",
@@ -148,11 +134,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184645645",
       "itunes_duration": "11541",
-      "speakers": [
-        "Lilith Tyrell",
-        "Tyler Violet",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -171,13 +153,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "217771550",
       "itunes_duration": "13611",
-      "speakers": [
-        "Blade Runner",
-        "Electric Dreams",
-        "Bat Audio",
-        "Ross Bugden",
-        "Punch Deck"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -196,11 +172,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "190782278",
       "itunes_duration": "11924",
-      "speakers": [
-        "Blade Runner",
-        "Electric Dreams",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -219,10 +191,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158121710",
       "itunes_duration": "9883",
-      "speakers": [
-        "Blade Runner",
-        "Electric Dreams"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -241,11 +210,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184789163",
       "itunes_duration": "11550",
-      "speakers": [
-        "Blade Runner",
-        "Electric Dreams",
-        "Bat Audio"
-      ],
+      "speakers": [],
       "topics": [
         "blade",
         "runner",
@@ -267,8 +232,7 @@
       "speakers": [
         "Dreams Session",
         "Greed Gaming",
-        "Blade Runner",
-        "Electric Dreams"
+        "Blade Runner"
       ],
       "topics": [
         "blade",
@@ -305,15 +269,15 @@
 
 ## Episodes (newest first)
 
-- 2025-09-19 — Blade Runner - Fiery Angels - Part 6 — speakers: Tyler Violet, Bat Audio
-- 2025-09-12 — Blade Runner - Fiery Angels - Part 5 — speakers: Tyler Violet, Bat Audio
-- 2025-09-05 — Blade Runner - Fiery Angels - Part 4 — speakers: Tyler Violet, Bat Audio
-- 2025-08-29 — Blade Runner - Fiery Angels - Part 3 — speakers: Tyler Violet, Bat Audio
-- 2025-08-22 — Blade Runner - Fiery Angels - Part 2 — speakers: Ray McCoy, Tyler Violet, Bat Audio
-- 2025-08-08 — Blade Runner - Fiery Angels - Part 1 — speakers: Lilith Tyrell, Tyler Violet, Bat Audio
-- 2023-06-09 — Blade Runner - Electric Dreams - Part 4 — speakers: Blade Runner, Electric Dreams, Bat Audio, Ross Bugden, Punch Deck
-- 2023-06-02 — Blade Runner - Electric Dreams - Part 3 — speakers: Blade Runner, Electric Dreams, Bat Audio
-- 2023-05-26 — Blade Runner - Electric Dreams - Part 2 — speakers: Blade Runner, Electric Dreams
-- 2023-05-19 — Blade Runner - Electric Dreams - Part 1 — speakers: Blade Runner, Electric Dreams, Bat Audio
-- 2023-05-12 — Blade Runner - Electric Dreams - Session 0 — speakers: Dreams Session, Greed Gaming, Blade Runner, Electric Dreams
+- 2025-09-19 — Blade Runner - Fiery Angels - Part 6
+- 2025-09-12 — Blade Runner - Fiery Angels - Part 5
+- 2025-09-05 — Blade Runner - Fiery Angels - Part 4
+- 2025-08-29 — Blade Runner - Fiery Angels - Part 3
+- 2025-08-22 — Blade Runner - Fiery Angels - Part 2 — speakers: Wallace Corpo
+- 2025-08-08 — Blade Runner - Fiery Angels - Part 1
+- 2023-06-09 — Blade Runner - Electric Dreams - Part 4
+- 2023-06-02 — Blade Runner - Electric Dreams - Part 3
+- 2023-05-26 — Blade Runner - Electric Dreams - Part 2
+- 2023-05-19 — Blade Runner - Electric Dreams - Part 1
+- 2023-05-12 — Blade Runner - Electric Dreams - Session 0 — speakers: Dreams Session, Greed Gaming, Blade Runner
 - 2023-04-27 — An Introduction to Blade Runner — speakers: Blade Runner

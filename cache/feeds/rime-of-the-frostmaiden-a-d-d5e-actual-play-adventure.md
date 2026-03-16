@@ -2,10 +2,10 @@
 
 - slug: `rime-of-the-frostmaiden-a-d-d5e-actual-play-adventure`
 - source: `https://www.tablestory.tv/series/rime-of-the-frostmaiden/feed/`
-- fetched_at: `2026-02-20T03:13:25+00:00`
-- checked_at: `2026-03-13T03:10:34+00:00`
-- etag: `"3ad0cfe3a550736d1ca8592535ec3a14"`
-- last_modified: `Tue, 10 Feb 2026 21:05:52 GMT`
+- fetched_at: `2026-03-16T13:56:32+00:00`
+- checked_at: `2026-03-16T13:56:32+00:00`
+- etag: `"6cc173bef1bec6c59e3ab5b995bd6043"`
+- last_modified: `Mon, 16 Mar 2026 12:36:34 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.spreaker.com/show/rime-of-the-frostmaiden-a-d-d5e-actual-p",
   "description": "Icewind Dale is cold and unforgiving, along with most of the people that live there. What will a group of people do to change the fate of all of the land beyond. Rime of the Frostmaiden is an episodic fantasy show in the D&D5e setting of the Forgotten Realms, based on the module of the same name. Want more Rime of the Frostmaiden ? Join our Discord to chat with other fans and the cast. Want more Tablestory ? We've got you covered with our ever expanding, multi genre library ! Love what we do? You can support the show by grabbing some merch or backing us directly to keep the dice rolling. And as always, thanks for listening. ♥",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00df56f2afb758b050b25abc7990e0e1.jpg",
-  "fetched_at": "2026-02-20T03:13:25+00:00",
+  "fetched_at": "2026-03-16T13:56:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -55,9 +55,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184817642",
       "itunes_duration": "11500",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "moon"
       ]
@@ -91,9 +89,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "169585589",
       "itunes_duration": "10548",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "passing",
         "annoyance"
@@ -110,9 +106,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152978495",
       "itunes_duration": "9511",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "melon"
       ]
@@ -128,9 +122,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "158256602",
       "itunes_duration": "9841",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "rhey",
         "okay"
@@ -147,9 +139,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160275519",
       "itunes_duration": "9967",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "head"
       ]
@@ -203,9 +193,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "188988038",
       "itunes_duration": "11762",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "clear",
         "purpose"
@@ -238,9 +226,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "174988342",
       "itunes_duration": "10887",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "helping",
         "hand"
@@ -257,9 +243,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154302109",
       "itunes_duration": "9594",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "side"
       ]
@@ -293,9 +277,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "166442156",
       "itunes_duration": "10353",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "fear"
       ]
@@ -330,7 +312,7 @@
       "enclosure_length": "195817167",
       "itunes_duration": "12189",
       "speakers": [
-        "Icewind Dale"
+        "Magical After"
       ],
       "topics": [
         "reading"
@@ -347,9 +329,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "167205333",
       "itunes_duration": "10401",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -364,7 +344,7 @@
       "enclosure_length": "177208770",
       "itunes_duration": "11026",
       "speakers": [
-        "Icewind Dale"
+        "Manapause Dangerous"
       ],
       "topics": [
         "manapause"
@@ -418,9 +398,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "152831737",
       "itunes_duration": "9502",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "apearent",
         "confusion"
@@ -438,7 +416,7 @@
       "enclosure_length": "208582882",
       "itunes_duration": "12987",
       "speakers": [
-        "Icewind Dale"
+        "around them"
       ],
       "topics": []
     },
@@ -454,7 +432,7 @@
       "enclosure_length": "187454216",
       "itunes_duration": "11666",
       "speakers": [
-        "Icewind Dale"
+        "Losing Strength"
       ],
       "topics": [
         "strength"
@@ -471,9 +449,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176861858",
       "itunes_duration": "11004",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -558,9 +534,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "176608599",
       "itunes_duration": "10988",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "incident"
       ]
@@ -595,9 +569,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "183064384",
       "itunes_duration": "11392",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "preservation"
       ]
@@ -614,7 +586,7 @@
       "enclosure_length": "184208753",
       "itunes_duration": "11463",
       "speakers": [
-        "Icewind Dale"
+        "Ice Giant Fortress"
       ],
       "topics": [
         "grimskalle"
@@ -666,9 +638,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "154404913",
       "itunes_duration": "9601",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -701,6 +671,8 @@
       "enclosure_length": "173893944",
       "itunes_duration": "10819",
       "speakers": [
+        "Catching Cold Heading",
+        "Moving Ice",
         "Icewind Dale"
       ],
       "topics": [
@@ -719,8 +691,7 @@
       "enclosure_length": "152444277",
       "itunes_duration": "9478",
       "speakers": [
-        "Bryn Shander",
-        "Icewind Dale"
+        "Bryn Shander"
       ],
       "topics": [
         "morning",
@@ -777,9 +748,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "230431293",
       "itunes_duration": "14352",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "showdown",
         "targo"
@@ -796,9 +765,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "149175856",
       "itunes_duration": "9274",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "choice",
         "consequence"
@@ -815,9 +782,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "136327349",
       "itunes_duration": "8471",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "bargaining"
       ]
@@ -854,7 +819,7 @@
       "enclosure_length": "193447342",
       "itunes_duration": "12041",
       "speakers": [
-        "Icewind Dale"
+        "Needle Battle"
       ],
       "topics": [
         "needle"
@@ -872,7 +837,7 @@
       "enclosure_length": "207145531",
       "itunes_duration": "12897",
       "speakers": [
-        "Icewind Dale"
+        "Takes Running"
       ],
       "topics": []
     },
@@ -887,9 +852,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "212709801",
       "itunes_duration": "13245",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -903,9 +866,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "204841748",
       "itunes_duration": "12753",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "glittering",
         "throne"
@@ -923,8 +884,7 @@
       "enclosure_length": "153727843",
       "itunes_duration": "9558",
       "speakers": [
-        "Xardarok Sunblight",
-        "Icewind Dale"
+        "Xardarok Sunblight"
       ],
       "topics": [
         "elevating",
@@ -943,8 +903,7 @@
       "enclosure_length": "188926403",
       "itunes_duration": "11807",
       "speakers": [
-        "Xardarok Sunblight",
-        "Icewind Dale"
+        "Xardarok Sunbl"
       ],
       "topics": [
         "cleansing",
@@ -962,10 +921,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "192075604",
       "itunes_duration": "11955",
-      "speakers": [
-        "Xardorok Sunblight",
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "spine",
         "world"
@@ -983,7 +939,7 @@
       "enclosure_length": "159940373",
       "itunes_duration": "9947",
       "speakers": [
-        "Icewind Dale"
+        "Icewind Da"
       ],
       "topics": [
         "summer",
@@ -1002,7 +958,7 @@
       "enclosure_length": "173147057",
       "itunes_duration": "10772",
       "speakers": [
-        "Icewind Dale"
+        "Gaze Amongst"
       ],
       "topics": [
         "coldlight",
@@ -1039,9 +995,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "168524860",
       "itunes_duration": "10483",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "lonely",
         "morning",
@@ -1078,7 +1032,7 @@
       "enclosure_length": "174305630",
       "itunes_duration": "10845",
       "speakers": [
-        "Icewind Dale"
+        "Taeriel's dreams"
       ],
       "topics": []
     },
@@ -1093,9 +1047,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "163933153",
       "itunes_duration": "10196",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "shadows",
         "past"
@@ -1148,9 +1100,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "184424016",
       "itunes_duration": "11477",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "smell"
       ]
@@ -1166,9 +1116,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "175177071",
       "itunes_duration": "10899",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "chase"
       ]
@@ -1185,7 +1133,7 @@
       "enclosure_length": "155444816",
       "itunes_duration": "9666",
       "speakers": [
-        "Icewind Dale"
+        "Bearable Weight After"
       ],
       "topics": [
         "weight"
@@ -1202,9 +1150,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "185944539",
       "itunes_duration": "11572",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "iron",
         "willed"
@@ -1221,9 +1167,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "201432017",
       "itunes_duration": "12540",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "deal"
       ]
@@ -1240,8 +1184,7 @@
       "enclosure_length": "163216777",
       "itunes_duration": "10151",
       "speakers": [
-        "Small Brain",
-        "Icewind Dale"
+        "Small Brain"
       ],
       "topics": [
         "brain",
@@ -1260,7 +1203,7 @@
       "enclosure_length": "163724706",
       "itunes_duration": "10182",
       "speakers": [
-        "Icewind Dale"
+        "Gem Mine"
       ],
       "topics": []
     },
@@ -1312,9 +1255,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "194956151",
       "itunes_duration": "12184",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1328,9 +1269,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187825773",
       "itunes_duration": "11690",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "cold"
       ]
@@ -1364,9 +1303,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "191218776",
       "itunes_duration": "11901",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "rhey"
       ]
@@ -1401,8 +1338,7 @@
       "enclosure_length": "186708288",
       "itunes_duration": "11619",
       "speakers": [
-        "Bryn Shander",
-        "Icewind Dale"
+        "Bryn Shander"
       ],
       "topics": [
         "halls",
@@ -1421,7 +1357,7 @@
       "enclosure_length": "174599772",
       "itunes_duration": "10913",
       "speakers": [
-        "Icewind Dale"
+        "Yeti Attacked"
       ],
       "topics": [
         "diary",
@@ -1439,9 +1375,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "187133115",
       "itunes_duration": "13366",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "whispers",
         "white"
@@ -1459,7 +1393,7 @@
       "enclosure_length": "166340212",
       "itunes_duration": "10346",
       "speakers": [
-        "Icewind Dale"
+        "Icewind Dal"
       ],
       "topics": []
     },
@@ -1474,9 +1408,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "180513449",
       "itunes_duration": "11232",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": []
     },
     {
@@ -1490,9 +1422,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "189600445",
       "itunes_duration": "11800",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "impression"
       ]
@@ -1508,9 +1438,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "160292291",
       "itunes_duration": "9969",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "haggle",
         "rock"
@@ -1527,9 +1455,7 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "164262702",
       "itunes_duration": "10217",
-      "speakers": [
-        "Icewind Dale"
-      ],
+      "speakers": [],
       "topics": [
         "finding",
         "warmth"
@@ -1598,88 +1524,88 @@
 ## Episodes (newest first)
 
 - 2022-08-11 — Ep. 84 - Q&A Roundtable — speakers: Icewind Dale
-- 2022-08-04 — Ep. 83 - The Sun and the Moon — speakers: Icewind Dale
+- 2022-08-04 — Ep. 83 - The Sun and the Moon
 - 2022-07-28 — Ep. 82 - When Vell Freezes Over — speakers: Icewind Dale
-- 2022-07-19 — Ep. 81 - A Passing Annoyance — speakers: Icewind Dale
-- 2022-07-06 — Ep. 80 - MELON — speakers: Icewind Dale
-- 2022-06-27 — Ep. 79 - Everything's Rhey-Okay — speakers: Icewind Dale
-- 2022-06-21 — Ep. 78 - Head in a Jar — speakers: Icewind Dale
+- 2022-07-19 — Ep. 81 - A Passing Annoyance
+- 2022-07-06 — Ep. 80 - MELON
+- 2022-06-27 — Ep. 79 - Everything's Rhey-Okay
+- 2022-06-21 — Ep. 78 - Head in a Jar
 - 2022-06-08 — Ep. 77 - Brain Dance — speakers: Icewind Dale
 - 2022-06-01 — Ep. 76 - Frozen in Your Tracks — speakers: Icewind Dale
-- 2022-05-26 — Ep. 75 - With Clear Purpose — speakers: Icewind Dale
+- 2022-05-26 — Ep. 75 - With Clear Purpose
 - 2022-05-23 — Ep. 74 - The Old and the New — speakers: Icewind Dale
-- 2022-05-22 — Ep. 73 - A Helping Hand — speakers: Icewind Dale
-- 2022-04-29 — Ep. 72 - From All Sides — speakers: Icewind Dale
+- 2022-05-22 — Ep. 73 - A Helping Hand
+- 2022-04-29 — Ep. 72 - From All Sides
 - 2022-04-22 — Ep. 71 - Hard-Boiled — speakers: Icewind Dale
-- 2022-04-15 — Ep. 70 - Your Worst Fears — speakers: Icewind Dale
+- 2022-04-15 — Ep. 70 - Your Worst Fears
 - 2022-04-08 — Ep. 69 - Puppies and Hugs — speakers: Icewind Dale
-- 2022-04-01 — Ep. 68 - Reading is Magical — speakers: Icewind Dale
-- 2022-03-25 — Ep. 67 - Blighted — speakers: Icewind Dale
-- 2022-03-18 — Ep. 66 - Manapause — speakers: Icewind Dale
+- 2022-04-01 — Ep. 68 - Reading is Magical — speakers: Magical After
+- 2022-03-25 — Ep. 67 - Blighted
+- 2022-03-18 — Ep. 66 - Manapause — speakers: Manapause Dangerous
 - 2022-03-11 — Ep. 65 - Pillars of the Past — speakers: Icewind Dale
 - 2022-03-05 — Ep. 64 - Do You See The Light — speakers: Icewind Dale
-- 2022-02-25 — Ep. 63 - Apearent Confusion — speakers: Icewind Dale
-- 2022-02-18 — Ep. 62 - Bloodletting — speakers: Icewind Dale
-- 2022-02-11 — Ep. 61 - Losing Strength — speakers: Icewind Dale
-- 2022-02-04 — Ep. 60 - Cracked — speakers: Icewind Dale
+- 2022-02-25 — Ep. 63 - Apearent Confusion
+- 2022-02-18 — Ep. 62 - Bloodletting — speakers: around them
+- 2022-02-11 — Ep. 61 - Losing Strength — speakers: Losing Strength
+- 2022-02-04 — Ep. 60 - Cracked
 - 2022-01-28 — Ep. 59 - The Caves of Hunger — speakers: Icewind Dale
 - 2022-01-27 — Ep. 58 - I Can Help — speakers: Bryn Shander, Icewind Dale
 - 2022-01-14 — Ep. 57 - Roc and a Hard Place — speakers: Icewind Dale
 - 2021-12-24 — Ep. 56 - Disgusted and Impressed — speakers: Icewind Dale
-- 2021-12-17 — Ep. 55 - Isolated Incidents — speakers: Icewind Dale
+- 2021-12-17 — Ep. 55 - Isolated Incidents
 - 2021-12-10 — Ep. 54 - Enduring Cruelty — speakers: Icewind Dale
-- 2021-12-03 — Ep. 53 - Preservation — speakers: Icewind Dale
-- 2021-11-26 — Ep. 52 - Grimskalle — speakers: Icewind Dale
+- 2021-12-03 — Ep. 53 - Preservation
+- 2021-11-26 — Ep. 52 - Grimskalle — speakers: Ice Giant Fortress
 - 2021-11-19 — Ep. 51 - But Not Forgotten — speakers: Icewind Dale
 - 2021-11-12 — Ep. 50 - Auril's Abode — speakers: Icewind Dale
-- 2021-11-05 — Ep. 49 - Be Calm — speakers: Icewind Dale
+- 2021-11-05 — Ep. 49 - Be Calm
 - 2021-10-29 — Ep. 48 - You Rang — speakers: Icewind Dale
-- 2021-10-22 — Ep. 47 - Catching Cold — speakers: Icewind Dale
-- 2021-10-15 — Ep. 46 - Morning Wood — speakers: Bryn Shander, Icewind Dale
+- 2021-10-22 — Ep. 47 - Catching Cold — speakers: Catching Cold Heading, Moving Ice, Icewind Dale
+- 2021-10-15 — Ep. 46 - Morning Wood — speakers: Bryn Shander
 - 2021-10-08 — Ep. 45 - Codicil Road — speakers: Icewind Dale
 - 2021-10-01 — Ep. 44 - Brynwin Dale — speakers: Brynwin Dale, Icewind Dale
-- 2021-09-24 — Ep. 43 - Showdown in Targos — speakers: Icewind Dale
-- 2021-09-17 — Ep. 42 - Choice and Consequence — speakers: Icewind Dale
-- 2021-09-10 — Ep. 41 - Bargaining — speakers: Icewind Dale
+- 2021-09-24 — Ep. 43 - Showdown in Targos
+- 2021-09-17 — Ep. 42 - Choice and Consequence
+- 2021-09-10 — Ep. 41 - Bargaining
 - 2021-09-03 — Ep. 40.5 One Shot - Spores of the Myconid — speakers: Icewind Dale
-- 2021-08-27 — Ep. 40 - Threading the Needle — speakers: Icewind Dale
-- 2021-08-20 — Ep. 39 - Whatever it Takes — speakers: Icewind Dale
-- 2021-08-13 — Ep. 38 - Divided — speakers: Icewind Dale
-- 2021-07-30 — Ep. 37 - The Glittering Throne — speakers: Icewind Dale
-- 2021-07-29 — Ep. 36 - Elevating Grandolfa — speakers: Xardarok Sunblight, Icewind Dale
-- 2021-07-20 — Ep. 35 - The Cleansing Fire — speakers: Xardarok Sunblight, Icewind Dale
-- 2021-07-19 — Ep. 34 - The Spine of the World — speakers: Xardorok Sunblight, Icewind Dale
-- 2021-07-19 — Ep. 33 - Summer Star — speakers: Icewind Dale
-- 2021-06-25 — Ep. 32 - Coldlight's Gaze — speakers: Icewind Dale
+- 2021-08-27 — Ep. 40 - Threading the Needle — speakers: Needle Battle
+- 2021-08-20 — Ep. 39 - Whatever it Takes — speakers: Takes Running
+- 2021-08-13 — Ep. 38 - Divided
+- 2021-07-30 — Ep. 37 - The Glittering Throne
+- 2021-07-29 — Ep. 36 - Elevating Grandolfa — speakers: Xardarok Sunblight
+- 2021-07-20 — Ep. 35 - The Cleansing Fire — speakers: Xardarok Sunbl
+- 2021-07-19 — Ep. 34 - The Spine of the World
+- 2021-07-19 — Ep. 33 - Summer Star — speakers: Icewind Da
+- 2021-06-25 — Ep. 32 - Coldlight's Gaze — speakers: Gaze Amongst
 - 2021-06-18 — Ep. 31 - Black Cabin — speakers: Icewind Dale
-- 2021-06-11 — Ep. 30 - The Lonely Morning Wood — speakers: Icewind Dale
+- 2021-06-11 — Ep. 30 - The Lonely Morning Wood
 - 2021-06-04 — Ep. 29 - Dawnseeker — speakers: Icewind Dale
-- 2021-05-28 — Ep. 28 - Biggest Fan — speakers: Icewind Dale
-- 2021-05-21 — Ep. 27 - Shadows of the Past — speakers: Icewind Dale
+- 2021-05-28 — Ep. 28 - Biggest Fan — speakers: Taeriel's dreams
+- 2021-05-21 — Ep. 27 - Shadows of the Past
 - 2021-05-14 — Ep. 26 - Delivery — speakers: Icewind Dale
 - 2021-05-07 — Ep. 25 - On the Precipice — speakers: Icewind Dale
-- 2021-04-23 — Ep. 24 - What's That Smell — speakers: Icewind Dale
-- 2021-04-16 — Ep. 23 - The Chase — speakers: Icewind Dale
-- 2021-04-09 — Ep. 22 - A Bearable Weight — speakers: Icewind Dale
-- 2021-04-02 — Ep. 21 - Iron Willed — speakers: Icewind Dale
-- 2021-03-26 — Ep. 20 - It's a Deal — speakers: Icewind Dale
-- 2021-03-19 — Ep. 19 - Big Brain, Small Brain — speakers: Small Brain, Icewind Dale
-- 2021-03-12 — Ep. 18 - You're Welcome Or Whatever — speakers: Icewind Dale
+- 2021-04-23 — Ep. 24 - What's That Smell
+- 2021-04-16 — Ep. 23 - The Chase
+- 2021-04-09 — Ep. 22 - A Bearable Weight — speakers: Bearable Weight After
+- 2021-04-02 — Ep. 21 - Iron Willed
+- 2021-03-26 — Ep. 20 - It's a Deal
+- 2021-03-19 — Ep. 19 - Big Brain, Small Brain — speakers: Small Brain
+- 2021-03-12 — Ep. 18 - You're Welcome Or Whatever — speakers: Gem Mine
 - 2021-03-05 — Ep. 17 - Grave Circumstances — speakers: Icewind Dale
 - 2021-02-26 — Ep. 16 - End of My Rope — speakers: Icewind Dale
-- 2021-02-19 — Ep. 15 - Tying Everything Together — speakers: Icewind Dale
-- 2021-02-12 — Ep. 14 - Cold as Ice — speakers: Icewind Dale
+- 2021-02-19 — Ep. 15 - Tying Everything Together
+- 2021-02-12 — Ep. 14 - Cold as Ice
 - 2021-02-05 — Ep. 13 - Sacrifices — speakers: Icewind Dale
-- 2021-01-29 — Ep. 12 - When The Cat's A Rhey — speakers: Icewind Dale
+- 2021-01-29 — Ep. 12 - When The Cat's A Rhey
 - 2021-01-22 — Ep. 11 - Holding Back The Storm — speakers: Icewind Dale
-- 2021-01-15 — Ep. 10 - In The Halls Of Dwarves — speakers: Bryn Shander, Icewind Dale
-- 2021-01-08 — Ep. 9 - Diary of a Yeti — speakers: Icewind Dale
-- 2020-12-25 — Ep. 8 - Whispers in White — speakers: Icewind Dale
-- 2020-12-18 — Ep. 7 - Crashing Down — speakers: Icewind Dale
-- 2020-12-11 — Ep. 6 - Guided by the Light.mp3 — speakers: Icewind Dale
-- 2020-12-04 — Ep. 5 - Leaving an Impression — speakers: Icewind Dale
-- 2020-11-27 — Ep. 4 - Haggle Rock — speakers: Icewind Dale
-- 2020-11-20 — Ep. 3 - Finding Warmth — speakers: Icewind Dale
+- 2021-01-15 — Ep. 10 - In The Halls Of Dwarves — speakers: Bryn Shander
+- 2021-01-08 — Ep. 9 - Diary of a Yeti — speakers: Yeti Attacked
+- 2020-12-25 — Ep. 8 - Whispers in White
+- 2020-12-18 — Ep. 7 - Crashing Down — speakers: Icewind Dal
+- 2020-12-11 — Ep. 6 - Guided by the Light.mp3
+- 2020-12-04 — Ep. 5 - Leaving an Impression
+- 2020-11-27 — Ep. 4 - Haggle Rock
+- 2020-11-20 — Ep. 3 - Finding Warmth
 - 2020-11-13 — Ep. 2 - Whiteout — speakers: Icewind Dale
 - 2020-11-07 — Ep. 1 - Does Everything Change — speakers: Icewind Dale
 - 2020-11-02 — Tablestory Presents - Rime of the Frostmaiden - A D&D5e Actual Play — speakers: Tablestory Presents Rime, Icewind Dale
