@@ -2,9 +2,9 @@
 
 - slug: `roll-the-hard-20-podcast`
 - source: `https://www.rollthehard20podcast.com/podcast-episode?format=rss`
-- fetched_at: `2026-03-14T15:45:15+00:00`
-- checked_at: `2026-03-14T15:45:15+00:00`
-- etag: `W/"bb86f5d36bf03244062a40f9fb36bad6"`
+- fetched_at: `2026-03-17T16:19:43+00:00`
+- checked_at: `2026-03-17T16:19:43+00:00`
+- etag: `W/"4355c019e6045b180ef3f65614485d80"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.rollthehard20podcast.com/podcast-episode/",
   "description": "Dungeons and Dragons weekly actual play and discussions",
   "image_url": "https://images.squarespace-cdn.com/content/v1/5acd2c8bf407b409c6386368/9d3b0539-1955-4096-946d-2fe71cf34e12/TheHardTwenty-DeltaGreen-Greens+2.jpg?format=1500w",
-  "fetched_at": "2026-03-14T15:45:15+00:00",
+  "fetched_at": "2026-03-17T16:19:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
