@@ -2,9 +2,9 @@
 
 - slug: `natural-six`
 - source: `https://feeds.acast.com/public/shows/natural-six`
-- fetched_at: `2026-03-16T21:56:48+00:00`
-- checked_at: `2026-03-16T21:56:48+00:00`
-- etag: `"djEuMi4wOjE3NzM2OTY1ODY0NDE="`
+- fetched_at: `2026-03-17T21:55:45+00:00`
+- checked_at: `2026-03-17T21:55:45+00:00`
+- etag: `"djEuMi4wOjE3NzM3Nzc2Mzk1MTQ="`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/natural-six",
   "description": "Dungeons & Dragons 5e Actual Play",
   "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
-  "fetched_at": "2026-03-16T21:56:48+00:00",
+  "fetched_at": "2026-03-17T21:55:45+00:00",
   "owners": [
     "Harry McEntire",
     "Ben Starr",
@@ -31,6 +31,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c982b358703e2031f8991b1fd41a22ec54aa134f",
+      "title": "Ep. 50 Dressed to Impress",
+      "published_at": "2026-03-17T20:00:00+00:00",
+      "link": "https://shows.acast.com/natural-six/episodes/ep-50-dressed-to-impress",
+      "description": "Sometimes, amid the pain and the long road behind you, moments of joy find their way through. Milestones worth celebrating, not because they have been easy, but because of everything it took to reach them. A chance to breathe, to relax, and to remember why you keep going at all. After all, when you’re feeling a little stiff, a moment of relaxation can ease tension you didn’t even know you had. And while choices are cut and confidence measured, every stitch says something about who you are and what you are willing to show. Some designs come together cleanly, others need reworking, but joy has a way of finding its fit. Sometimes it slips on perfectly, sometimes it pulls a little at the seams, but it still makes the cut. Yet when voices of discontent try to sour the mood, not everyone turns away. Laughter holds where it can, excitement still flickers, and hope once more proves harder to smother than fear. After all, the party must go on, and when the music plays, the night begins to glitter with intent. A celebration is in motion, pieced together from courage, colour, and just a little audacity. The only question is how well it will hold when the stitching is put to the test? ---- Support us on Patreon! https://www.patreon.com/naturalsix Join our Discord! https://discord.gg/HNV56DADnJ Follow us on Twitter: https://www.twitter.com/naturalsix Follow us on Instagram: https://www.instagram.com/natural_six Follow us on TikTok: https://www.tiktok.com/@natural.six Love lore? Check out the Fandom: https://natural-six.fandom.com Stay up to date: https://www.NaturalSix.net Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65de51ac5568ae001627fe39/1712568369965-6c55533b9dba4cdc3e5f90b179737451.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65de51ac5568ae001627fe39/e/69b48330cad04b6222ea9546/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "432750875",
+      "itunes_duration": "3:45:13",
+      "speakers": [
+        "Impress Sometimes",
+        "Harry McEntire",
+        "Ben Starr",
+        "Hollie Bennett",
+        "Alex Jordan",
+        "Aoife Wilson",
+        "Doug Cockle"
+      ],
+      "topics": [
+        "impress"
+      ]
+    },
     {
       "key": "3f165953a25a80fd34ecd7c140bcbd73cfb9b24c",
       "title": "Action Surge Episode 49",
@@ -2598,6 +2622,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — Ep. 50 Dressed to Impress — speakers: Impress Sometimes, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-10 — Action Surge Episode 49 — speakers: Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-03-03 — Ep. 49 No Secrets Among Friends — speakers: No Secrets Among Friends, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
 - 2026-02-24 — Action Surge Episode 48 — speakers: Action Surge, Harry McEntire, Ben Starr, Hollie Bennett, Alex Jordan, Aoife Wilson, Doug Cockle
