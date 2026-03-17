@@ -2,10 +2,10 @@
 
 - slug: `how-we-roll-podcast`
 - source: `https://feeds.simplecast.com/9uMQFeML`
-- fetched_at: `2026-03-12T13:38:27+00:00`
-- checked_at: `2026-03-12T13:38:27+00:00`
-- etag: `"8ba3bfc8f9d83ff2092e6f6cba9cebd7"`
-- last_modified: `Thu, 12 Mar 2026 12:10:42 GMT`
+- fetched_at: `2026-03-17T13:53:43+00:00`
+- checked_at: `2026-03-17T13:53:43+00:00`
+- etag: `"a9ad4313007e43ceca678cf4a4e268fb"`
+- last_modified: `Tue, 17 Mar 2026 10:19:21 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://howwerollpodcast.com/",
   "description": "Professionally produced, UK and Ireland based RPG Podcast, playing Call of Cthulhu 7e, D&d and currently AlienRPG",
   "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/534fa82f-b4c6-4fe3-8ef2-98a9a1e9ec3f/3000x3000/hwr-logo.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-12T13:38:27+00:00",
+  "fetched_at": "2026-03-17T13:53:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "1d734be65fb656723c13a739f7d77b2e406196e6",
+      "title": "145 - Two Headed Serpent - Snake Island - Reunited at Last",
+      "published_at": "2026-03-17T10:19:06+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Back for more two headed serpent! Episode Notes With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com You can find us: On Bluesky @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast You can find us all on bluesky!",
+      "image_url": null,
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/4091cf96-7268-4229-96e3-849ac82dd8c8/4c1043e2-857c-4f43-9dd8-07efd88404f1/episodes/audio/group/a6b64d9c-2117-4395-9b77-7a0afa77b914/group-item/78c8ae38-e9f4-499d-b588-6ad00daad028/128_default_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57920935",
+      "itunes_duration": "01:00:19",
+      "speakers": [],
+      "topics": [
+        "headed",
+        "serpent",
+        "snake",
+        "island"
+      ]
+    },
     {
       "key": "24c50fe3bb96852f5583005a79f3bb71372af1da",
       "title": "004-Cthulhu Dark - Goodcliffe - Jago",
@@ -5609,24 +5628,6 @@
       ]
     },
     {
-      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
-      "title": "005 - Mask of Nyarlathotep - Peru",
-      "published_at": "2020-02-19T01:00:27+00:00",
-      "link": "http://howwerollpodcast.com/",
-      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
-      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39926934",
-      "itunes_duration": "00:41:35",
-      "speakers": [],
-      "topics": [
-        "mask",
-        "nyarlathotep",
-        "peru"
-      ]
-    },
-    {
       "key": "5ad4cedc9b5f03b6f35c41d88a2f8724976a4e1f",
       "title": "041 - Two Headed Serpent - New York - Weekend at Bart's",
       "published_at": "2020-02-19T01:00:27+00:00",
@@ -5646,6 +5647,24 @@
         "york",
         "weekend",
         "bart"
+      ]
+    },
+    {
+      "key": "1452df927fe4ad7a242058ddedb18101003f27be",
+      "title": "005 - Mask of Nyarlathotep - Peru",
+      "published_at": "2020-02-19T01:00:27+00:00",
+      "link": "http://howwerollpodcast.com/",
+      "description": "Find more Masks of Nyarathotep episodes at patreon.com/howwerollpodcast With huge thanks to Battle bards.com Syrinscape Kevin MaCleod at Incompetech FesliyanStudios and Pedar B Heland For their excellent music and sfx Intro Theme Composed by Ninichi : ninichimusic.com Twitter : @ninichimusic You can find my new scenario \"The Idol of Thoth\" here http://www.drivethrurpg.com/product/229639/The-Idol-of-Thoth?src=hottest_filtered You can find us: On twitter @HWRpodcast On Facebook : https://www.facebook.com/HowWeRollPodcast/ On Discord: https://discord.gg/C7h6vuD On reddit: https://www.reddit.com/r/HowWeRollPodcast/",
+      "image_url": "https://image.simplecastcdn.com/images/77737ff1-1444-446d-8d2e-2b8c8abe73ea/60ed5750-bae8-4bcb-8fdf-9deb32498657/3000x3000/20993034-827796287380368-852422508872523071-n-47534.jpg?aid=rss_feed",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4c1043/4c1043e2-857c-4f43-9dd8-07efd88404f1/e9351551-0551-40ad-94ac-261101c568cb/005-masks-of-nyarathotep-peru_tc.mp3?aid=rss_feed&feed=9uMQFeML",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39926934",
+      "itunes_duration": "00:41:35",
+      "speakers": [],
+      "topics": [
+        "mask",
+        "nyarlathotep",
+        "peru"
       ]
     },
     {
@@ -10640,6 +10659,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — 145 - Two Headed Serpent - Snake Island - Reunited at Last
 - 2026-03-12 — 004-Cthulhu Dark - Goodcliffe - Jago
 - 2026-02-25 — 144 - Two Headed Serpent - Snake Island - Salut — speakers: Syrinscape Kevin MaCleod
 - 2026-02-17 — 003-Cthulhu Dark - Goodcliffe - An Unwise Promise
@@ -10912,8 +10932,8 @@
 - 2020-03-10 — 042 - Two Headed Serpent - New York - Meeting Room 12 — speakers: Syrinscape Kevin MaCleod
 - 2020-03-03 — 006 - Masks of Nyarlathotep - Peru
 - 2020-02-25 — 004 - Murder on the Eberron Express - The Full Fairhaven — speakers: product Mu
-- 2020-02-19 — 005 - Mask of Nyarlathotep - Peru
 - 2020-02-19 — 041 - Two Headed Serpent - New York - Weekend at Bart's — speakers: Syrinscape Kevin MaCleod
+- 2020-02-19 — 005 - Mask of Nyarlathotep - Peru
 - 2020-02-04 — 003 - Murder on the Eberron Express - The Lost Heir.mp3 — speakers: product Mu
 - 2020-01-28 — 040 - Two Headed Serpent - New York - Back to Base — speakers: Syrinscape Kevin MaCleod
 - 2020-01-23 — 002 - Murder on the Eberron Express - A body is found — speakers: product Mu
