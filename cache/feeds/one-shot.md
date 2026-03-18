@@ -2,9 +2,9 @@
 
 - slug: `one-shot`
 - source: `https://rss.simplecast.com/podcasts/1559/rss`
-- fetched_at: `2026-03-17T19:31:01+00:00`
-- checked_at: `2026-03-17T19:31:01+00:00`
-- last_modified: `Tue, 17 Mar 2026 17:11:13 GMT`
+- fetched_at: `2026-03-18T03:22:20+00:00`
+- checked_at: `2026-03-18T03:22:20+00:00`
+- last_modified: `Wed, 18 Mar 2026 01:33:07 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.oneshotpodcast.com/category/one-shot/one-shot-podcast/",
   "description": "One Shot is a podcast about role playing games. Every month, host and Game Master Dillin Apelyan leads a group of players on a self-contained adventure. Every adventure will be wrapped up in 4-5 episodes in time for a new story, in a new system, with new players the following month. One Shot will explore every RP system possible to give listeners a sampling of the possibilities in the wide, world of roleplaying.",
   "image_url": "https://megaphone.imgix.net/podcasts/884b4be8-3e89-11ed-ac89-cf186a4a8a4c/image/3d67f9d92fe4f8284ae99be666359d60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T19:31:01+00:00",
+  "fetched_at": "2026-03-18T03:22:20+00:00",
   "owners": [
     "James D'Amato"
   ],
@@ -28,11 +28,31 @@
   ],
   "episodes": [
     {
+      "key": "85bc77bd19c173397b5d91ec538a9964187bfc1c",
+      "title": "642. Dragon Reactor, Episode 2",
+      "published_at": "2026-03-18T01:01:00+00:00",
+      "link": null,
+      "description": "EPISODE SUMMARY The Dragon Mech Pilots’ fight is complicated by a blast from the past in Part Two of Dragon Reactor. SHOW NOTES Dragon Reactor One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nova Drak Brian Flaherty Lexi McQueen ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode Runaway Quartet, Moments Lurk, Wicked Cinema With Great Vengeance, Moments Shroud, Wicked Cinema Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/OSPN5494930755.mp3?updated=1773796214",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3315",
+      "speakers": [
+        "Dragon Reactor",
+        "James D'Amato"
+      ],
+      "topics": [
+        "dragon",
+        "reactor"
+      ]
+    },
+    {
       "key": "fad8645e8d6f77e6a843ae68b68f854df7569029",
       "title": "641. Dragon Reactor, Episode 1",
       "published_at": "2026-03-12T15:13:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY Dragon mech-riding pilots chase down a gargantuan roaming vessel on its way to enact a ritual that will destroy everything. SHOW NOTES Dragon Reactor One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nova Drak Brian Flaherty Lexi McQueen ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY Dragon mech-riding pilots chase down a gargantuan roaming vessel on its way to enact a ritual that will destroy everything. SHOW NOTES Dragon Reactor One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nova Drak Brian Flaherty Lexi McQueen ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Music Used in This Episode The Highest Order, Wicked Cinema The Enemy Within, Moments With Great Vengeance, Moments Suite Du Matin, Moments Editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/OSPN2049584434.mp3?updated=1773328880",
       "enclosure_type": "audio/mpeg",
@@ -52,7 +72,7 @@
       "title": "640. All's Fair",
       "published_at": "2026-03-05T15:39:00+00:00",
       "link": null,
-      "description": "EPISODE SUMMARY A soldier and a clone love each other and fuck behind the regime’s back when they aren’t being used as tools for their supremacy. SHOW NOTES All’s Fair One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nick Meyer ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "EPISODE SUMMARY A soldier and a clone love each other and fuck behind the regime’s back when they aren’t being used as tools for their supremacy. SHOW NOTES All’s Fair One Shot News & Updates One Shot Patreon One Shot TWITCH ULTIMATE RPG VILLAIN BACKSTORY GUIDE Follow the cast here! Dillin Apelyan Nick Meyer ----------------------------------------------------- Know Your Rights Toolkits Find and call your representatives and be heard (US) Find and call your members of Parliament and be heard (Canada) Find and call your members of Parliament and be heard (UK) ---------------------------------------------------- Original music, editing and sound design by ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Shaghik Manè. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/OSPN1109822226.mp3?updated=1772725819",
       "enclosure_type": "audio/mpeg",
@@ -13094,6 +13114,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — 642. Dragon Reactor, Episode 2 — speakers: Dragon Reactor, James D'Amato
 - 2026-03-12 — 641. Dragon Reactor, Episode 1 — speakers: Dragon Reactor, James D'Amato
 - 2026-03-05 — 640. All's Fair — speakers: James D'Amato
 - 2026-02-26 — FEED DROP! || RPG Major: Ep. 50: Thistle Help (The Poppy Problem 1 of 5) — speakers: Rpg Major, Thistle Help, James D'Amato

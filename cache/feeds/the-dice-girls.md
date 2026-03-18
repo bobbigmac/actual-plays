@@ -2,9 +2,9 @@
 
 - slug: `the-dice-girls`
 - source: `https://thedicegirls.podbean.com/feed.xml`
-- fetched_at: `2026-03-04T03:07:57+00:00`
-- checked_at: `2026-03-04T03:07:57+00:00`
-- etag: `"ed46d524c3df4ff1a65122a2c2cee5c6"`
+- fetched_at: `2026-03-18T03:22:20+00:00`
+- checked_at: `2026-03-18T03:22:20+00:00`
+- etag: `"2a0e269623e2ac38498fd7bc2b7c810e"`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://thedicegirls.podbean.com",
   "description": "Join DM Becca, Ash, and Alexa as they are off on their latest D&D adventure!",
   "image_url": "https://pbcdn1.podbean.com/imglogo/image-logo/3612512/Dragons_Logo90p3b.jpg",
-  "fetched_at": "2026-03-04T03:07:57+00:00",
+  "fetched_at": "2026-03-18T03:22:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,23 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "57116f2af97c490ee80d43e4724ddc69cafb3142",
+      "title": "23. Battling the Storm (Literally), Pt. 1",
+      "published_at": "2026-03-17T22:21:42+00:00",
+      "link": "https://thedicegirls.podbean.com/e/23-battling-the-storm-literally-pt-1/",
+      "description": "Our adventurers face off against an angry cloud. Kaida rolls a 1. Elana rolls a 20. Schnicktick has some choice words.",
+      "image_url": null,
+      "enclosure_url": "https://mcdn.podbean.com/mf/web/2v5vjte9rziuyksi/Episode_23_Final8f1rf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47937177",
+      "itunes_duration": "1997",
+      "speakers": [],
+      "topics": [
+        "storm",
+        "literally"
+      ]
+    },
     {
       "key": "c2eaf7e1898af63b35f385bd49422a45d9ec744c",
       "title": "22. All Roads Lead to Schnicktick",
@@ -3201,6 +3218,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — 23. Battling the Storm (Literally), Pt. 1
 - 2026-03-03 — 22. All Roads Lead to Schnicktick
 - 2026-02-05 — 21. The Grand Quest
 - 2026-01-22 — 20. Survey Says...
