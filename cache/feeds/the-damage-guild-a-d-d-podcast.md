@@ -3,9 +3,11 @@
 - slug: `the-damage-guild-a-d-d-podcast`
 - source: `https://thedamageguild.com/feed/podcast/`
 - fetched_at: `2026-03-16T07:50:18+00:00`
-- checked_at: `2026-03-18T21:51:19+00:00`
+- checked_at: `2026-03-19T07:17:03+00:00`
 - last_modified: `Mon, 16 Mar 2026 04:01:00 GMT`
 - max_episodes_per_feed: `1000`
+- status: `error`
+- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -4201,7 +4203,17 @@
         "preview"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-03-19T07:17:03+00:00",
+    "status": "error",
+    "checked_at": "2026-03-19T07:17:03+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error timed out>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
