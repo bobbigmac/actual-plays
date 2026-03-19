@@ -2,10 +2,10 @@
 
 - slug: `the-adventure-zone`
 - source: `https://feeds.simplecast.com/cYQVc__c`
-- fetched_at: `2026-03-05T13:38:17+00:00`
-- checked_at: `2026-03-05T13:38:17+00:00`
-- etag: `"f369c2a4317550c80e30fe0b8fccc7d3"`
-- last_modified: `Thu, 05 Mar 2026 12:00:18 GMT`
+- fetched_at: `2026-03-19T13:43:54+00:00`
+- checked_at: `2026-03-19T13:43:54+00:00`
+- etag: `"e0e902acd8cec083e8f3c8de650dbddc"`
+- last_modified: `Thu, 19 Mar 2026 11:00:18 GMT`
 - max_episodes_per_feed: `1000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://adventurezone.simplecast.com",
   "description": "Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
   "image_url": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-  "fetched_at": "2026-03-05T13:38:17+00:00",
+  "fetched_at": "2026-03-19T13:43:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "actual-play"
   ],
   "episodes": [
+    {
+      "key": "486dfef9e4aa7cf21dc1ac6adb3f6749d3e0111d",
+      "title": "The Adventure Zone Royale: Episode 20",
+      "published_at": "2026-03-19T11:00:00+00:00",
+      "link": "https://adventurezone.simplecast.com/episodes/the-adventure-zone-royale-episode-20-2cSY6lnL",
+      "description": "The wizards reap the rewards of having survived their last trial, but the circumstances of their respective wins are cause for both celebration and consternation. Royale Theme: “Wizard Disco” by Louie Zong: https://louiezong.bandcamp.com/album/wizard-disco Original Music by Griffin McElroy Additional Music in this Episode: \"Fireball\", \"Night Sky\", and \"Simple Song\" by Jar of Flies: https://jaroffliesofficial.bandcamp.com/; \"The Fae\" by Mark Lingard: https://freemusicarchive.org/music/mark-lingard/; \"Moulds Sun\" by 10 Echo: https://10echo.bandcamp.com/; \"Pearly Carapice\", \"Skin Writhes Anxious\" by ROZKOL: https://rozkol.bandcamp.com/; “If You Can't Be the Sun, Be the Sun” by Schemawound http://schemawound.com/; \"ATH\" by Lex Villena: https://open.spotify.com/artist/2iwj2SqGnplhDIadeJ5bmy?si=9db2f1db3f7649c9&nd=1&dlsi=7a09f77fc450459a; \"Jingle Bells Calm\" and \"Midnight Tale\" by Kevin MacLeod: https://incompetech.com/; \"Death\" by Holizna: https://holiznaroyaltyfree.bandcamp.com/; and\"tribute to eddy\" by Jean Toba: https://jeantoba.blogspot.com/. Border Angels: https://www.borderangels.org/our-services.html",
+      "image_url": "https://image.simplecastcdn.com/images/ab2ecf0d-35c9-4d5a-928d-82855fd0f7c9/a229d4e2-cc90-44b1-82c4-ab7eb5b1714d/3000x3000/tazroyalecoverlg.jpg?aid=rss_feed",
+      "enclosure_url": "https://afp-9384.calisto.simplecastaudio.com/e7ec86c9-5b4f-4c1c-af7b-0957921e175d/episodes/4adf724d-44a6-4bc5-bc06-f4967f9bb439/audio/128/default.mp3?aid=rss_feed&awCollectionId=e7ec86c9-5b4f-4c1c-af7b-0957921e175d&awEpisodeId=4adf724d-44a6-4bc5-bc06-f4967f9bb439&feed=cYQVc__c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71429048",
+      "itunes_duration": "01:02:20",
+      "speakers": [],
+      "topics": [
+        "adventure",
+        "zone",
+        "royale"
+      ]
+    },
     {
       "key": "8ad16dda66c3cb1f8675e03699042cd3ce9e1bf7",
       "title": "The Adventure Zone Royale: Episode 19",
@@ -7842,6 +7860,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — The Adventure Zone Royale: Episode 20
 - 2026-03-05 — The Adventure Zone Royale: Episode 19
 - 2026-02-19 — The Adventure Zone Royale: Episode 18
 - 2026-02-05 — The Adventure Zone Royale: Episode 17
